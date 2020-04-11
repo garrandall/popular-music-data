@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lay-down--candles-in-the-rain--melanie-with-the-edwin-hawkins-singers
+lyrics_url: https://genius.com/Melanie-with-the-edwin-hawkins-singers-lay-down-candles-in-the-rain-lyrics
 name: Lay Down (Candles In The Rain)
 rankings:
 - end_date: '1970-05-01'
@@ -75,4 +76,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
 ---
-
+Lay down, lay down, let it all down
+Let your white birds smile up at the ones who stand and frown
+Lay down, lay down, let it all down
+Let your white birds smile up at the ones who stand and frown
+We were so close, there was no room
+We bled inside each others wounds
+We all had caught the same disease
+And we all sang the songs of peace
+Lay down, lay down, let it all down
+Let your white birds smile up at the ones who stand and frown
+Lay down, lay down, let it all down
+Let your white birds smile up at the ones who stand and frown
+So raise the candles high
+'Cause if you don't we could stay black against the night
+Oh, raise them higher again
+And if you do we could stay dry against the rain
+Lay down, lay down, let it all down
+Let your white birds smile up at the ones who stand and frown
+Lay down, lay down, let it all down
+Let your white birds smile up at the ones who stand and frown
+We were so close there was no room
+We bled inside each others wounds
+We all had caught the same disease
+And we all sang the songs of peace
+Some came to sing, some came to pray
+Some came to keep the dark away
+So raise the candles high
+'Cause if you don't we could stay black against the sky
+Oh, oh, raise them higher again
+And if you do we could stay dry against the rain
+Lay down, lay down, let it all down
+Let your white birds smile up at the ones who stand and frown
+Lay down, lay down, let it all down
+Let your white birds smile up at the ones who stand and frown

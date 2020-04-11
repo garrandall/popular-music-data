@@ -7,6 +7,7 @@ artists:
 features: []
 genres: []
 key: mercy-kanye-west-big-sean-pusha-t-2-chainz
+lyrics_url: https://genius.com/Trackmasters-mercy-kanye-west-feat-big-sean-pusha-t-2-chainz-instrumental-lyrics
 name: Mercy
 rankings:
 - end_date: '2012-04-27'
@@ -138,3 +139,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-11-24'
 ---
+Instrumental

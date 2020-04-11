@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-awhile-the-bells
+lyrics_url: https://genius.com/The-bells-stay-awhile-lyrics
 name: Stay Awhile
 rankings:
 - end_date: '1971-03-12'
@@ -63,4 +64,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-05'
 ---
+Into my room, he creeps
+Without making a sound
+Into my dreams, he peeps
+With his hair all long and hanging down
 
+How he makes me quiver
+How he makes me smile
+With all this love I have to give you
+I guess, I'm gonna stay with him awhile
+
+
+She brushes the curls from my eyes
+She drops her robe on the floor
+And she reaches for the light on the bureau
+And the darkness is her pillow once more
+
+How she makes me quiver
+How she makes me smile
+With all this love I have to give her
+I guess, I'm gonna stay with her awhile
+
+
+
+
+How it makes me quiver
+How it makes me smile
+With all this love I have to give you
+Guess I'm gonna stay with you awhile
+
+How it makes me quiver
+How it makes me smile
+With all this love I have to give you
+Guess I'm gonna stay with you awhile
+
+Stay with you awhile
+(whispered) I guess, I'm gonna stay

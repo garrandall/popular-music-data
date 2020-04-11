@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-tell-me-avril-lavigne
+lyrics_url: https://genius.com/Avril-lavigne-dont-tell-me-lyrics
 name: Don't Tell Me
 rankings:
 - end_date: '2004-04-09'
@@ -87,4 +88,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-08-14'
 ---
+You held my hand and walked me home, I know
+While you gave me that kiss, it was something like this
+It made me go, oh, oh
+You wiped my tears, got rid of all my fears
+Why did you have to go?
+Guess it wasn't enough to take up some of my love
+Guys are so hard to trust
 
+
+Did I not tell you that I'm not like that girl?
+The one who gives it all away, yeah, oh
+
+
+Did you think that I was gonna give it up to you, this time?
+Did you think that it was something I was gonna do, and cry?
+Don't try to tell me what to do
+Don't try to tell me what to say
+You're better off that way
+
+
+Don't think that your charm
+And the fact that your arm is now around my neck
+Will get you in my pants
+I'll have to kick your ass and make you never forget
+I'm gonna ask you to stop
+Thought I liked you a lot, but I'm really upset (really upset)
+Get out of my head, get off of my bed
+Yeah, that's what I said
+
+
+Did I not tell you that I'm not like that girl?
+The one who throws it all away
+
+
+Did you think that I was gonna to give it up to you, this time?
+Did you think that it was something I was gonna do, and cry?
+Don't try to tell me what to do
+Don't try to tell me what to say
+You're better off that way, yeah
+
+
+This guilt trip that you put me on
+Won't mess me up, I've done no wrong
+Any thoughts of you and me have gone away
+
+
+Did you think that I was gonna give it up to you, this time?
+Did you think that it was something I was gonna do, and cry?
+Don't try to tell me what to do
+Don't try to tell me what to say
+You're better off that way, yeah
+
+
+Better off that way
+I'm better off alone anyway

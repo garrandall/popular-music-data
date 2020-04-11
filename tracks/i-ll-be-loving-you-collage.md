@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-be-loving-you-collage
+lyrics_url: https://genius.com/Collage-ill-be-loving-you-lyrics
 name: I'll Be Loving You
 rankings:
 - end_date: '1993-12-03'
@@ -87,4 +88,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-04-09'
 ---
+I always thought I was doing fine
+Spreading myself around another good time
+Then it hit me from out of the blue
+I was falling in love with you
 
+But now everythings been changed
+My hopes my dreams
+Are rearranged it's true
+And it's all because of you
+My baby
+
+(chorus)
+I'll be loving you all my life
+Til my dying day is through
+I'll be loving you
+Forever(2x)
+
+Every night I wonder if you know
+No matter what they say
+I won't let go
+Don't ask yourself if I'll always be there
+Cause forever's how long I'll care
+
+As time goes by and the feeling gets stronger
+To be in your arms can't wait any longer
+Look in my eyes
+And see it's true
+Day and night
+All my thoughts are of you
+
+(chorus)

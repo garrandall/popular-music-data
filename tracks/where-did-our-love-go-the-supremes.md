@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-did-our-love-go-the-supremes
+lyrics_url: https://genius.com/The-supremes-where-did-our-love-go-lyrics
 name: Where Did Our Love Go
 rankings:
 - end_date: '1964-07-17'
@@ -63,4 +64,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-10'
 ---
+Baby, baby
+Baby don't leave me
+Ooh, please don't leave me
+All by myself
 
+
+I've got this burning, burning, yearning
+Feelin' inside me
+Ooh, deep inside me
+And it hurts so bad
+
+
+You came into my heart
+So tenderly
+With a burning love
+That stings like a bee
+
+
+Now that I surrender
+So helplessly
+You now wanna leave
+Ooh, you wanna leave me
+
+
+Ooh, baby, baby
+Where did our love go?
+Ooh, don't you want me?
+Don't you want me no more?
+Ooh, baby
+
+
+Baby, baby
+Where did our love go
+And all your promises
+Of a love forever more
+
+
+I've got this burning, burning, yearning
+Feelin' inside me
+Ooh, deep inside me
+And it hurts so bad
+
+
+Before you won my heart
+You were a perfect guy
+But now that you got me
+You wanna leave me behind
+(Baby, baby) ooh baby
+
+
+Baby, baby
+Baby don't leave me
+Ooh, please don't leave me
+All by myself
+
+
+Ooh, baby, baby
+Where did our love go?

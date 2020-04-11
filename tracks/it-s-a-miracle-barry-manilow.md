@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-a-miracle-barry-manilow
+lyrics_url: https://genius.com/Barry-manilow-its-a-miracle-lyrics
 name: It's A Miracle
 rankings:
 - end_date: '1975-03-07'
@@ -59,4 +60,91 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-24'
 ---
+You wouldn't believe where I've been
+The cities and towns I've been in
+From Boston to Denver
+And every town in between
 
+
+(Everyone looks the same)
+The people they all look the same
+(Yes, the same)
+Oh, only the names have been changed
+(Just the names)
+But now that I'm home again
+I'll tell you what I believe
+
+
+It's a miracle (miracle)
+A true blue spectacle
+A miracle come true
+(Whoa ohh ohh ohh)
+We're together, baby
+I was going crazy
+Till the miracle came through
+(Ohh ohh ohh ohh)
+Now you're here and my arms are around you
+And, baby, there'll be dancing in the street
+For the miracle (miracle)
+A true blue spectacle
+The miracle is you
+(Woo! Hoo hoo hoo hoo)
+(Hoo!)
+
+
+I never knew you looked so good
+Oh, I never knew anyone could
+I must have been crazy
+To ever have gone away
+
+
+(Almost forgot you, babe)
+I almost forgot what it's like
+(Every night)
+Oh, holding you near me at night
+(Every night)
+But now that I'm home again
+You know that I'm home to stay
+
+
+'Cause it's a miracle (miracle)
+A true blue spectacle
+A miracle come true
+(Whoa ohh ohh ohh)
+We're together, baby
+I was going crazy
+Till the miracle came through
+(Ohh ohh ohh ohh)
+Now you're here and I'm feeling so good
+And, baby, there'll be dancing in the street
+For the miracle (miracle)
+A true blue spectacle
+The miracle is you
+(Woo! Hoo hoo hoo hoo)
+(Hoo!)
+
+
+Now you're here and my arms are around you
+And, baby, there'll be dancing in the street
+Ha, there's gonna be dancing in the street
+Whoa ohh ohh ohh
+Dancing in the street
+
+
+(Dancing in the street)
+Dancing, dancing, dancing
+(Dancing in the street)
+Dancing, dancing, dancing
+(Dancing in the street)
+Dancing, dancing, dancing
+(Dancing in the street)
+
+
+For the miracle (miracle)
+A true blue spectacle
+The miracle is you
+(Hoo! The miracle is you)
+Hey, the miracle is you
+(Hoo! The miracle is you)
+Whoa, the miracle is you
+(Hoo! The miracle is)

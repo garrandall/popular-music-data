@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hard-to-handle-the-black-crowes
+lyrics_url: https://genius.com/The-black-crowes-hard-to-handle-lyrics
 name: Hard To Handle
 rankings:
 - end_date: '1990-11-02'
@@ -123,4 +124,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-09-21'
 ---
+Baby, here I am, I'm a man on the scene
+I can give you what you want but you got to come home with me
+I've got some good old lovin' and I got some more in store
+When I get through throwin' it on you, you got to come back for more
 
+
+Boys and things that come by the dozen
+That ain't nothin' but drugstore lovin'
+Hey little thing, let me light your candle
+Cause mama, I'm sure hard to handle now, yessiram
+
+
+Action speaks louder than words and I'm a man of great experience
+I know you got another man but I can love you better than him
+Take my hand, don't be afraid, I'm gonna prove every word I say
+I'm advertising love for free, so you can place your ad with me
+
+
+Boys will come along, a dime by the dozen
+That ain't nothing but ten cent lovin'
+Hey little thing, let me light your candle
+Cause mama I'm sure hard to handle now, yessiram
+
+Yeah
+Hard to handle now
+Oh baby
+
+
+Baby, here I am, I'm a man on your scene
+I can give you what you want but you got to come home with me
+I've got some good old lovin' and I got some more in store
+When I get through throwin' it on you, you got to come a-runnin' back for more
+
+
+Boys will come along, a dime by the dozen
+That ain't nothing but drugstore lovin'
+Hey little thing, let me light your candle
+Cause mama I'm sure hard to handle now, yessiram
+
+Hard
+Hard to handle now
+Oh yeah, yeah yeah yeah
+
+
+
+
+Boys will come along, a dime by the dozen
+That ain't nothing but ten cent lovin'
+Hey little flame, let me light your candle cause mama I'm sure hard to handle now, yessiram
+Yeah
+So hard to handle now
+Oh yeah
+
+
+Baby!
+Good lovin'
+Baby!
+Baby!
+Ohh, good lovin'
+I need good lovin'
+I got to have, oh yeah
+Yeah
+So hard to handle, now, yeah

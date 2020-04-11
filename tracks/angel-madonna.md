@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: angel-madonna
+lyrics_url: https://genius.com/Madonna-angel-lyrics
 name: Angel
 rankings:
 - end_date: '1985-05-03'
@@ -75,4 +76,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-08-17'
 ---
+Why am I standing on a cloud
+Every time you're around?
+And my sadness disappears
+Every time you are near
 
+
+You must be an angel
+I can see it in your eyes
+Full of wonder and surprise
+And just now, I realize
+
+
+Ooh, you're an angel
+Ooh, you're an angel
+Ooh, you're an angel in disguise
+I can see it in your eyes
+
+
+Walking down a crowded avenue
+Other faces seem like nothing next to you
+And I can't hear the traffic rushing by
+Just the pounding of my heart and that's why
+
+
+You must be an angel
+I can see it in your eyes
+Full of wonder and surprise
+And just now, I realize
+
+
+Ooh, you're an angel
+Ooh, you're an angel
+Ooh, you're an angel in disguise
+I can see it in your eyes
+Ooh, you're an angel
+Ooh, you're an angel
+Ooh, you're an angel in disguise
+I can see it in your eyes
+
+
+You're an angel
+You're an angel, baby
+You're an angel
+You must be an angel
+
+
+Now I believe that dreams come true
+Cause you came when I wished for you
+This just can't be coincidence
+The only way that this makes sense is that
+
+
+Ooh, you're an angel
+Ooh, you're an angel
+Ooh, you're an angel in disguise
+I can see it in your eyes
+Ooh, you're an angel
+Ooh, you're an angel
+Ooh, you're an angel in disguise
+I can see it in your eyes
+
+
+You're an angel
+You're an angel, baby
+You're an angel
+You must be an angel, baby
+
+
+Clouds just disappear

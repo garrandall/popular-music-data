@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: people-get-ready-the-impressions
+lyrics_url: https://genius.com/The-impressions-people-get-ready-lyrics
 name: People Get Ready
 rankings:
 - end_date: '1965-02-19'
@@ -39,4 +40,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
 ---
+People get ready, there's a train a-comin'
+You don't need no baggage, you just get on board
+All you need is faith to hear the diesels hummin'
+Don't need no ticket, you just thank the Lord
 
+
+So, people get ready for the train to Jordan
+Picking up passengers coast to coast
+Faith is the key, open the doors and board 'em
+There's hope for all among those loved the most
+
+There ain't no room for the hopeless sinner
+Who would hurt all mankind just to save his own, believe me now
+Have pity on those whose chances grow thinner
+For there's no hiding place against the kingdom's throne
+
+
+So, people get ready, there's a train a-comin'
+You don't need no baggage, you just get on board
+All you need is faith to hear the diesels hummin'
+Don't need no ticket, you just thank the Lord

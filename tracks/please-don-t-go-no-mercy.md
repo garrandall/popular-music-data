@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-don-t-go-no-mercy
+lyrics_url: https://www.musixmatch.com/lyrics/No-Mercy-2/Please-Don-t-Go
 name: Please Don't Go
 rankings:
 - end_date: '1997-02-14'
@@ -79,4 +80,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-06-07'
 ---
+Please don't go
+Please don't go
 
+Don't you know that I love you so
+Say you're mine
+And give me tonight
+Let's stay together
+
+Please don't go
+Please don't go
+
+You're the only angel I know
+You were sent from heaven above
+To love me forever
+
+Don't go
+Don't go
+
+If you leave me, you'll let a good thing fall apart
+If you deceive me, you'll leave a pain inside my heart
+I really need you, just like the air I need to breathe
+I'll stand beside you, I'll never leave
+
+Please don't go
+Please don't go
+
+Don't you know that I love you so
+Say you're mine
+And give me tonight
+Let's stay together
+
+Please don't go
+Please don't go
+
+You're the only angel I know
+You were sent from heaven above
+To love me forever
+
+Don't go
+Don't go
+
+If you leave me, you're gonna spoil a dream we share
+If you leave me, I'm gonna miss the way you cared
+I will try harder, I'll make you fall in love again
+And I'll be faithful, until the end
+
+Please don't go
+Please don't go
+
+You're the only angel I know
+You were sent from heaven above
+To love me forever
+
+Don't go
+Don't go
+
+Don't go
+
+If you leave me, I'm gonna search the world for you
+If you leave me, sweet memories will shine on through
+
+Please don't go, please don't go
+Don't you know that I love you so
+Say you're mine and give me tonight
+Let's stay togheter.
+
+Please don't go, please don't go
+You're the only angel I know
+You were sent from heaven above
+To love me forever.
+
+Don't go
+Don't go

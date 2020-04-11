@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-girl-syndicate-of-sound
+lyrics_url: https://genius.com/The-syndicate-of-sound-little-girl-lyrics
 name: Little Girl
 rankings:
 - end_date: '1966-06-10'
@@ -47,4 +48,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-08-06'
 ---
+Hey, little girl, you don't have to hide nothin' no more
+You didn't do nothin' that hadn't been done before
 
+Little girl thought she wouldn't get caught, you see
+She thought she'd get away with goin' out on me, yeah
+
+Other girls did it, you didn't think of nothin' new
+You went out on me, so other girls did it too
+
+You can leave, little girl, I don't want you 'round no more
+If you come knockin', you won't get past my door... yeah!
+
+You got nothin' to hide and everybody knows it's true
+Too bad, little girl, it's all over for you... ha-ha-ha-ha

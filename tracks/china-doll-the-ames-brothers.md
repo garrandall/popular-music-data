@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: china-doll-the-ames-brothers
+lyrics_url: https://genius.com/The-ames-brothers-china-doll-lyrics
 name: China Doll
 rankings:
 - end_date: '1960-02-07'
@@ -59,4 +60,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-25'
 ---
+Sometimes I go down
+To old Chinatown
+And just walk around
+Just wander around
 
+Where amber lights gleam
+And blue shadows fall
+Just dream an old dream
+Of my China doll
+
+Her silk Chinese coat (silk Chinese coat)
+Her little blue pants (little blue pants)
+Coral pink lips (coral pink lips)
+And tiny pale hands
+
+Oh my China doll
+My lonely tears fall
+I'll never forget you, never forget you
+My China doll
+
+Sometimes I go down
+And just hang around
+And just hang around
+A boat China bound
+
+Oh my China doll
+My lonely tears fall
+I'll never forget you, never forget you
+My China doll
+(My China doll)

@@ -1,6 +1,6 @@
 ---
 artists:
-- Ray Charles and his Orchestra
+- Ray Charles
 features: []
 genres: []
 key: i-don-t-need-no-doctor-ray-charles-and-his-orchestra

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: are-you-happy-jerry-butler
+lyrics_url: https://genius.com/Jerry-butler-are-you-happy-lyrics
 name: Are You Happy
 rankings:
 - end_date: '1968-12-13'
@@ -47,4 +48,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-02-08'
 ---
+You're a very pretty girl and all that's good
+A lot of guys would love you if they could
+When you add up all the hugs and every little kiss
+Get down to the bottom line and try to answer this
 
+I wanna know, are you happy?
+Tell me, tell me, do you know how it feels
+To have someone to love you for real?
+
+Oh, you're a hip young man trying to make it in the world
+Messing up the minds of a lot of little girls
+Brother, you got to face one fact
+The heartache you give out, you're gonna get it all back
+
+So, are you happy?
+Tell me, tell me, do you know how it feels?
+Oh, are you really happy for real?
+
+This is one thing you gotta learn
+You'll never get love until you give it in return
+
+Are you happy?
+Hey, tell me, tell me, baby, do you know how it feels?
+I wanna know, do you have somebody to love you for real?
+
+Hey, did you hear what I say?
+Are you really happy?
+Tell me, tell me, tell me, do you know how it feels?
+
+Oh, are you happy?

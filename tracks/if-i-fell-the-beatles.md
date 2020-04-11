@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-fell-the-beatles
+lyrics_url: https://genius.com/The-beatles-if-i-fell-lyrics
 name: If I Fell
 rankings:
 - end_date: '1964-08-07'
@@ -43,4 +44,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
 ---
+If I fell in love with you
+Would you promise to be true
+And help me understand
+'Cause I've been in love before
+And I found that love was more
+Than just holding hands
 
+
+If I give my heart to you
+I must be sure
+From the very start
+That you would love me more than her
+
+
+If I trust in you, oh please
+Don't run and hide
+If I love you too, oh please
+Don't hurt my pride like her
+
+
+'Cause I couldn't stand the pain
+And I
+Would be sad if our new love
+Was in vain
+
+
+So I hope you see that I
+Would love to love you
+And that she will cry
+When she learns we are two
+
+
+'Cause I couldn't stand the pain
+And I
+Would be sad if our new love
+Was in vain
+
+
+So I hope you see that I
+Would love to love you
+And that she will cry
+When she learns we are two
+
+
+If I fell in love with you

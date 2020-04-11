@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-groovy-kind-of-love-the-mindbenders
+lyrics_url: https://genius.com/The-mindbenders-a-groovy-kind-of-love-lyrics
 name: A Groovy Kind Of Love
 rankings:
 - end_date: '1966-04-22'
@@ -59,4 +60,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
 ---
+When I'm feeling blue
+All I have to do
+Is take a look at you
+And then I'm not so blue
+When you're close to me
+I can feel your heart beat
+I can hear you breathing
+In my ear
+Wouldn't you agree
+Baby you and me
+Got a groovy kind of love
+We got a groovy kind of love
 
+Anytime you want to
+You can turn me on to
+Anything you want to
+Anytime at all
+When I taste your lips
+Ooh I start to shiver
+Can't control the quivering inside
+Wouldn't you agree
+Baby you and me
+We got a groovy kind of love
+We got a groovy kind of love
+
+I love you
+I love you
+I love you it's true
+When I'm feeling blue
+All I have to do
+Is take a look at you
+And then I'm not so blue
+When I'm in your arms
+Nothing seems to matter
+If the whole world could shatter
+I don't care
+
+Wouldn't you agree
+Baby you and me
+We got a groovy kind of love
+We got a groovy kind of love

@@ -1,9 +1,10 @@
 ---
 artists:
-- Henry Mancini And His Orchestra
+- Henry Mancini
 features: []
 genres: []
 key: moon-river-henry-mancini-and-his-orchestra
+lyrics_url: https://genius.com/Henry-mancini-moon-river-lyrics
 name: Moon River
 rankings:
 - end_date: '1961-10-15'
@@ -111,4 +112,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-09'
 ---
-
+Moon River
+Wider than a mile
+I'm crossin' you in style
+Some day
+Old dream maker
+You heart breaker
+Wherever your goin'
+I'm goin' your way
+Two drifters
+Off to see the world
+There's such a lot of world
+To see
+We're after the same
+Rainbow's end
+Waitin' round the bend
+My huckleberry friend
+Moon River
+And me

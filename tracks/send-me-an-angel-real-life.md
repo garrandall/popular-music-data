@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: send-me-an-angel-real-life
+lyrics_url: https://genius.com/Real-life-send-me-an-angel-lyrics
 name: Send Me An Angel
 rankings:
 - end_date: '1983-11-18'
@@ -83,4 +84,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-17'
 ---
+Do you believe in Heaven above?
+Do you believe in love?
+Don't tell a lie, don't be false or untrue
+It all comes back to you
 
+Open fire!
+On my burning heart
+I've never been lucky in love
+My defenses are down
+A kiss or a frown
+I can't survive on my own
+
+If a girl walks in and draws her name in my heart
+I'll turn and run away
+Every day, we've all been led astray
+It's hard to be lucky in love
+
+It gets in your eyes
+It's making you cry
+Don't know what to do
+Don't know what to do
+You're looking for love
+Calling Heaven above
+
+Send me an angel
+Send me an angel
+Right now, right now
+
+Send me an angel
+Send me an angel
+Right now, right now
+
+Empty dreams can only disappoint
+In a room behind your smile
+But don't give up, don't give up
+(Give up, give up, give up)
+You can be lucky in love
+
+It gets in your eyes
+It's making you cry
+Don't know what to do
+Don't know what to do
+You're looking for love
+Calling Heaven above
+
+Send me an angel
+Send me an angel
+Right now, right now
+
+Send me an angel
+Send me an angel
+Right now, right now
+
+Right now

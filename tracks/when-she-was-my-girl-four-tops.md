@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-she-was-my-girl-four-tops
+lyrics_url: https://genius.com/The-four-tops-when-she-was-my-girl-lyrics
 name: When She Was My Girl
 rankings:
 - end_date: '1981-08-21'
@@ -95,4 +96,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-09'
 ---
+She Used To Be
+Everything To Me
+When She Was My Girl
+When She Was My Girl
 
+I Held Her Near
+Told Her How Much I Cared
+When She Was My Girl
+When She Was My Girl
+
+When She Was My Girl
+There Was Laughter And Loving In My World
+Everyday
+When She Was My Girl
+Oh What Joy She Would Bring
+Now I've Lost Everything
+She's Gone, Gone, Gone, Gone, Gone
+
+I Spend The Night
+Dreaming How She Used To Be
+When She Was My Girl
+When She Was My Girl
+
+When She Was My Girl
+There Was Laughter And Loving In My World
+Yes It Was
+Cause She Was My Girl
+Oh What Joy She Would Bring
+Now I've Lost Everything
+She's Gone, My Big Legged Girl Is Gone
+
+She Used To Be
+Everything To Me
+When She Was My Girl
+When She Was My Girl
+
+She, She, My Girl
+She's So Foxy Can't You See
+And This Girl Belongs To Me
+She's My Girl
+When We Walk Down The Street
+I Would Tell Everyone We Meet
+This Is My Girl

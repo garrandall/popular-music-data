@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-a-fool-lesley-gore
+lyrics_url: https://genius.com/Lesley-gore-shes-a-fool-lyrics
 name: She's A Fool
 rankings:
 - end_date: '1963-10-04'
@@ -67,4 +68,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-01-04'
 ---
+She dunno that she's a lucky girl
+Got the best thing in the whole wide world
+Got a love that's hard to find
+But the boy I wish was mine
 
+
+She's a fool
+She's a fool
+She has his love but treats him cruel
+
+
+He dunno it but she cheats on him
+With a boy like that, it's such a sin
+I would never be untrue
+I would never make him blue
+
+
+
+
+
+I know there's gonna come a day
+He will tell the girl, 'Be on your way,'
+Maybe then he'll turn to me
+Then how happy I will be that

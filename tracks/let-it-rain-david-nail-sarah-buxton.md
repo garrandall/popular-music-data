@@ -5,6 +5,7 @@ features:
 - Sarah Buxton
 genres: []
 key: let-it-rain-david-nail-sarah-buxton
+lyrics_url: https://genius.com/David-nail-let-it-rain-lyrics
 name: Let It Rain
 rankings:
 - end_date: '2011-10-07'
@@ -88,4 +89,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-02-11'
 ---
+It's hard to find the perfect time to say something
+You know is gonna change everything
+Living with the shame, it ain't nothing like the pain that I saw on her face
+Now me and my pile of things
+That she throw out the window
+Drowning next to me
+No seven years of good can't hide the one night I forgot to wear that ring
 
+
+So let it rain, let it pour, cause she don't love me anymore
+Just let it come down on me, let it come down on me
+Every word, let it hurt, even more than I deserve
+Let it come down on me, let it come down on me, let it rain
+
+
+Last thing I remember was the unfamiliar taste of someone on my lips
+It's too late to turn around
+When the shades start coming down
+The guilt you feel is the last thing on your mind
+
+
+So let it rain, let it pour, cause she don't love me anymore
+Just let it come down on me, let it come down on me
+Every word, let it hurt, even more than I deserve
+Just let it come down on me, let it come down on me, let it rain
+
+So let it rain, let it pour, cause she don't love me anymore
+Just let it come down on me, let it come down on me
+Every word, let it hurt, even more than I deserve, just let it come down on me
+Let it come down on me, let it rain
+Ooh let it rain, ooh let it rain, just let it rain, just let it rain, ooh let it rain

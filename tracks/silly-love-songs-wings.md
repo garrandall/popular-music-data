@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: silly-love-songs-wings
+lyrics_url: https://genius.com/Paul-mccartney-and-wings-silly-love-songs-lyrics
 name: Silly Love Songs
 rankings:
 - end_date: '1976-04-16'
@@ -83,4 +84,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-14'
 ---
+You'd think that people would've had enough of silly love songs
+But I look around me, and I see it isn't so
+Some people want to fill the world with silly love songs
+And what's wrong with that?
+I'd like to know, 'cause here I go again
 
+
+I love you
+I love you
+I love you
+I love you
+
+I can't explain, the feeling's plain to me (I love you)
+Now can't you see?
+Ah, she gave me more, she gave it all to me (I love you)
+Now can't you see?
+
+What's wrong with that?
+I need to know, 'cause here I go again
+
+I love you, I love you
+
+Love doesn't come in a minute
+Sometimes it doesn't come at all
+I only know that when I'm in it
+It isn't silly, love isn't silly, love isn't silly at all
+
+How can I tell you about my loved one?
+How can I tell you about my loved one?
+How can I tell you about my loved one? (I love you) How can I tell you about my loved one? (I love you)
+
+I love you
+I love you
+I love you (I can't explain, the feeling's plain to me, say, can't you see?)
+I love you (Ah, he gave me more, he gave it all to me, say, can't you see?)
+I love you (I can't explain, the feeling's plain to me
+Say, can't you see?)
+(How can I tell you about my loved one?)
+I love you (Ah, he gave me more, he gave it all to me
+Say, can't you see?)
+
+I love you
+(I can't explain, the feeling's plain to me
+Say, can't you see?)
+{How can I tell you about my loved one?}
+I love you
+(Ah, he gave me more, he gave it all to me
+Say, can't you see?)
+{How can I tell you about my loved one?}
+
+I love you
+(I can't explain, the feeling's plain to me
+Say, can't you see?)
+{How can I tell you about my loved one?}
+I love you
+(Ah, he gave me more, he gave it all to me
+Say, can't you see?)
+{How can I tell you about my loved one?}
+
+
+You'd think that people would've had enough of silly love songs
+But I look around me and I see it isn't so, oh, no
+Some people want to fill the world with silly love songs
+And what's wrong with that?

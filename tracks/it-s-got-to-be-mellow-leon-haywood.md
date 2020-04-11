@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-got-to-be-mellow-leon-haywood
+lyrics_url: https://www.musixmatch.com/lyrics/Leon-Haywood/It-s-Got-to-Be-Mellow
 name: It's Got To Be Mellow
 rankings:
 - end_date: '1967-08-18'
@@ -51,4 +52,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-10-28'
 ---
+Yeah, yeah,
+It's got to be mellow,
+Got to be mellow,
 
+'Cause my baby loves me,
+And I'm her only fellow.
+Crazy about my baby,
+Crazy about my baby,
+And it's plain to see
+She's crazy about me,
+Crazy bout me, yeah.
+
+She's got class
+And she's got style,
+A personality that drives me wild,
+She's not a put-on
+And she's not make believe,
+She don't mind sharing love so that she may receive.
+
+She's mellow
+(Chorus: it's got to be mellow)
+Yes my baby's mellow,
+(Chorus: it's got to be mellow)
+And oh yeah,
+(Chorus: she's my baby and I love her)
+And I'm her only fellow.
+(Chorus: and I place no one above her)
+Ooh, yeah, yeah.
+
+It's got to be mellow
+(Chorus: it's got to be mellow),
+Got to be mellow,
+(Chorus: it's got to be mellow)
+'Cause my baby loves me
+(Chorus: she's my baby and I lover her)
+And I'm her only fellow
+(Chorus: and I place no one above her),
+Crazy about my baby,
+Crazy about my baby,
+And it's plain to see
+She's crazy about me,
+Crazy bout me, yeah.
+She's alright,
+Love is uptight.

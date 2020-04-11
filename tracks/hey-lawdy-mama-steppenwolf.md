@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-lawdy-mama-steppenwolf
+lyrics_url: https://genius.com/Steppenwolf-hey-lawdy-mama-lyrics
 name: Hey Lawdy Mama
 rankings:
 - end_date: '1970-04-17'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-05-30'
 ---
+You'd like to show me all around
+Thank you girl but I know this town
+It's alright, hey lawdy mama, it's alright
+Don't you know they're all the same
+Only difference is the name
+It's alright, hey lawdy mama, it's alright
+Three motels, dusty cars
+A movie show and a dozen bars
+It's alright, hey lawdy mama, it's alright
+Only thing that I can say
+Is we'll be here for just one day
 
+Baby don't you know we're
+Leavin' early in the mornin'
+So long, I don't know we might be back next year
+Baby it just might be never
+Don't cha worry 'bout it
+So long, good to know your smilin' face was here
+
+This town is boring you to tears
+Nothing in the world ever happens here
+It's alright, hey lawdy mama, it's alright
+Don't you know you've got to help
+Nothing ever happens by itself
+It's alright, hey lawdy mama, it's alright
+If no one will share the load
+Go pack your bags, hit the open road
+It's alright, hey lawdy mama, it's alright
+Try to find someone like you
+Hope will tell you what to do
+
+Baby don't you know we're
+Leavin' early in the mornin'
+So long, I don't know we might be back next year
+Baby it just might be never
+Don't cha worry 'bout it
+So long good to know your smilin' face was here

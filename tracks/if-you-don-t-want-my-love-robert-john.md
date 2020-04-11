@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-don-t-want-my-love-robert-john
+lyrics_url: https://www.musixmatch.com/lyrics/Robert-John/If-You-Don-t-Want-My-Love
 name: If You Don't Want My Love
 rankings:
 - end_date: '1968-04-19'
@@ -55,4 +56,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-06-29'
 ---
+I know you have reservations
+And you're just along for the ride
+But I see a slight hesitation
+What are you trying to hide
 
+Don't be afraid to bare your soul
+Nothing you say could be too bold
+I'm growing old
+
+Chorus:
+If you don't want my love
+Tell me now cause I'll survive
+If you don't want my love
+I'm sure that somebody does tonight
+
+You make a grown man quiver
+It might be hard to believe
+But it's time to stand and deliver
+You've just been playing with me
+
+I don't want to blow my only chance
+But you've got to show me where you stand
+Or drop my hand
+
+Chorus:
+If you don't want my love
+Tell me now cause I'll survive
+If you don't want my love
+It won't be the end of my life
+
+If you don't want my love
+Tell me now cause I'll survive
+If you don't want my love
+I'm sure that somebody does tonight
+
+I don't want to blow my only chance
+But you've got to show me where you stand
+Or drop my hand
+
+Repeat chorus

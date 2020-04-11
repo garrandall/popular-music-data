@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rockin--all-over-the-world-john-fogerty
+lyrics_url: https://genius.com/John-fogerty-rockin-all-over-the-world-lyrics
 name: Rockin' All Over The World
 rankings:
 - end_date: '1975-09-12'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-11-15'
 ---
+Well, a-here-ee-yup, a-here-ee-yup, a-here we go
+All aboard, justa hittin' the road
+Here we go-oh! Rockin' all over the world!
 
+Well, a-geedeeup, a-geedeeup, a-get away
+We're goin' crazy, and we're goin' today, here we go-oh!
+Rockin' all over the world!
+
+Well I like it, I like it, I like it, I like it
+I la-la-like it, la-la-like, here we go-oh! Rockin' all over the world!
+
+Yeah! Yeah!
+Well, I'm gonna tell your Mama what I'm gonna do
+We're goin' out tonight with our dancin' shoes
+Here we go-oh! Rockin' all over the world!
+
+And I like it, I like it, I like it, I like it
+I la-la-like it, la-la-like, here we go-oh! Rockin' all over the world!
+
+And I like it, I like it, I like it, I like it
+I la-la-like it, la-la-like, here we go-oh! Rockin' all over the world!
+
+And I like it, I like it, I like it, I like it
+I la-la-like it, la-la-like, here we go-oh! Rockin' all over the world!
+
+And I like it, I like it, I like it, I like it
+I la-la-like it, la-la-like, here we go-oh! Rockin' all over the world!
+
+Here we go-oh! Rockin' all over the world!

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pata-pata-miriam-makeba
+lyrics_url: https://genius.com/Miriam-makeba-pata-pata-lyrics
 name: Pata Pata
 rankings:
 - end_date: '1967-10-13'
@@ -51,4 +52,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-12-16'
 ---
+Saguquga sathi bega nantsi pata pa (sathi pata pata)
+Saguquga sathi bega nantsi pata pa (sathi pata pata)
+Saguquga sathi bega nantsi pata pa (sathi pata pata)
+Saguquga sathi bega nantsi pata pa (sathi pata pata)
 
+Hihi ha mama, hi-a-ma sat si pata pat 
+Hihi ha mama, hi-a-ma sat si pata pat 
+A-hihi ha mama, hi-a-ma sat si pata pat 
+A-hihi ha mama, hi-a-ma sat si pata pa 
+
+Aya saguquga sathi bega nantsi pata pa (sathi pata pata)
+Saguquga sathi bega nantsi pata pa (sathi pata pata)
+Saguquga sathi bega nantsi pata pa (sathi pata pata)
+Saguquga sathi bega nantsi pata pa (sathi pata pata)
+
+Pata Pata is the name of a dance 
+We do down Johannesburg way 
+And everybody starts to move 
+As soon as Pata Pata starts to play - hoo 
+
+Aya saguquga sathi bega nantsi pata pa (sathi pata pata)
+Saguquga sathi bega nantsi pata pa (sathi pata pata)
+Saguquga sathi bega nantsi pata pa (sathi pata pata)
+Saguquga sathi bega nantsi pata pa (sathi pata pata)
+
+Hihi ha mama, hi-a-ma natsi pata pat 
+Hihi ha mama, hi-a-ma sat si pata pat 
+A-hihi ha mama, hi-a-ma sat si pata pat 
+A-hihi ha mama, hi-a-ma sat si pata pa 
+
+Haji-a saguquga sathi bega nantsi pata pa (sathi pata pata)
+Saguquga sathi bega nantsi pata pa (sathi pata pata)
+Saguquga sathi bega nantsi pata pa (sathi pata pata)
+Saguquga sathi bega nantsi pata pa (sathi pata pata)
+
+Woo! Every Friday, and Saturday Night, 
+It’s Pata Pata-time 
+The dance keeps going all night long 
+Till the morning sun begins to shine - hey! 
+Aya sat wuguga sat - wo-ho-o 
+
+Aya saguquga sathi bega nantsi pata pa (sathi pata pata)
+Saguquga sathi bega nantsi pata pa (sathi pata pata)
+Saguquga sathi bega nantsi pata pa (sathi pata pata)
+Saguquga sathi bega nantsi pata pa (sathi pata pata)
+
+Hihi ha mama, hi-a-ma sat si pata pat 
+Hihi ha mama, hi-a-ma sat si pata pat 
+A-hihi ha mama, hi-a-ma sat si pata pat 
+A-hihi ha mama, hi-a-ma sat si pata pa 
+
+Huh- a saguquga sathi it ! 
+Aah- saguquga sat - aim not si - hit it ! 
+A saguquga sat ju benga sathi pata …

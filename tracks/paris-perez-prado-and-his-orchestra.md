@@ -1,6 +1,6 @@
 ---
 artists:
-- Perez Prado And His Orchestra
+- Perez Prado
 features: []
 genres: []
 key: paris-perez-prado-and-his-orchestra

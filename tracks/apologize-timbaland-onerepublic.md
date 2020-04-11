@@ -5,6 +5,7 @@ features:
 - OneRepublic
 genres: []
 key: apologize-timbaland-onerepublic
+lyrics_url: https://genius.com/Timbaland-apologize-lyrics
 name: Apologize
 rankings:
 - end_date: '2007-04-27'
@@ -196,4 +197,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-07-05'
 ---
+I'm holding on your rope, got me ten feet off the ground
+And I'm hearing what you say, but I just can't make a sound
+You tell me that you need me, then you go and cut me down
+But wait
+You tell me that you're sorry, didn't think I'd turn around
+And say (that)
 
+
+It's too late to apologize, it's too late
+I said it's too late to apologize, it's too late
+
+
+I'd take another chance, take a fall, take a shot for you, oh, oh
+I need you like a heart needs a beat, but it's nothing new
+Yeah, yeah
+I loved you with a fire red, now it's turning blue
+And you say
+Sorry like the angel Heaven let me think was you
+But I'm afraid
+
+
+It's too late to apologize, it's too late
+I said it's too late to apologize, it's too late
+Oh, oh
+It's too late to apologize, it's too late
+I said it's too late to apologize, it's too late
+It's too late to apologize, yeah
+I said it's too late to apologize, yeah
+
+
+I'm holding on your rope, got me ten feet off the ground

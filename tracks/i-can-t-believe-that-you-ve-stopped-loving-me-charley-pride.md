@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-believe-that-you-ve-stopped-loving-me-charley-pride
+lyrics_url: https://genius.com/Charley-pride-i-cant-believe-that-youve-stopped-loving-me-lyrics
 name: I Can't Believe That You've Stopped Loving Me
 rankings:
 - end_date: '1970-10-30'
@@ -31,4 +32,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-28'
 ---
+Tomorrow I'll say happy birthday darling
+And surprise you with a gift when I come home
+Then mine forgetful arms will reach out for you
+I can't forget you just because you're gone
+I can't believe that you've stopped loving me it's too much for me to understand
+How can anything so real become a dream I can't believe that you've stopped loving me
 
+I've sifted all the reasons why you left me
+And I've gone back and relived all the love we've had
+For every tear we lost I've found the thousands smiles
+And the good times always outweight the bad
+I can't believe that...
+I can't believe that you've stopped loving me

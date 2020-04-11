@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lost-someone-james-brown-and-the-famous-flames
+lyrics_url: https://genius.com/James-brown-and-the-famous-flames-lost-someone-1965-version-lyrics
 name: Lost Someone
 rankings:
 - end_date: '1961-12-24'
@@ -55,4 +56,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
 ---
+I lost someone, my love
+Someone who's greater than the stars above
+Someone, who I need
+Someone who don't let my heart bleed
+Someone, that's the one
+That's the someone
+That's the someone that I lost
+I, I lost someone
+A million to one
+Ten thousand people
+Under my Father's sun
+We need someone
+Someone, the only one
+Just that someone who needs someone now
+Under the sun
+To care for, to care for
+Just that someone now
+Mmm, yeah
 
+I got something I wanna tell everybody
+And I got something I want everybody to understand now
+You know we all make mistakes sometimes
+And the only we can correct our mistakes
+We got to try one more time
+So I got to sing a song to you one more time
+Now I want you to know I'm not singing a song for myself
+I'm singing a song only for myself now
+I'm singing it for you, too
+And when I say something that make you feel good inside
+When I say that little thing
+I say that little part that might sting you in your heart now
+I wanna hear you scream
+I wanna hear you say OW!

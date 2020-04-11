@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: am-i-wrong-love-spit-love
+lyrics_url: https://www.musixmatch.com/lyrics/Love-Spit-Love/Am-I-Wrong
 name: Am I Wrong
 rankings:
 - end_date: '1994-09-16'
@@ -47,4 +48,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-11-12'
 ---
+There's too much that I keep to myself
+And I turn my back on my faith
+It's like glass, when we break
+I wish no one in my place
 
+And I've seen you don't need their seeds
+When their dirt goes in deep
+And I'm lost in sleep
+
+I can't stay in this place
+I can't stand
+When the room turns 'round on my fate
+You give no guarantees
+There's no promise I can keep
+I can't stand
+I can't see my way, I feel blind on my feet
+I can't stay too long, am I wrong?
+
+Goodbye, lay the blame on luck
+Goodbye, lay the blame on luck
+Goodbye, lay the blame on luck
+Goodbye, lay the blame on luck
+
+I'm so tired of my mood
+And sleep comes with a knife, fork, and a spoon
+You're so pale in your face
+You let life get in your way
+
+And I've seen you don't need their seeds
+When their dirt goes in deep
+And I'm lost in sleep, am I wrong?
+
+Goodbye, lay the blame on luck
+Goodbye, lay the blame on luck
+Goodbye, lay the blame on luck
+Goodbye, lay the blame on luck
+
+Ooh-ooh-ooh
+Ooh-ooh-ooh

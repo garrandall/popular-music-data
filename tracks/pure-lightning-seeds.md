@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pure-lightning-seeds
+lyrics_url: https://genius.com/The-lightning-seeds-pure-lyrics
 name: Pure
 rankings:
 - end_date: '1990-05-25'
@@ -67,4 +68,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-08-25'
 ---
+Nighttime slows
+Raindrops splash rainbows
+Perhaps someone you know
+Could sparkle and shine
+As daydreams slide
+To colour from shadow
+Picture the moonglow
+That dazzles my eyes
+And I love you
 
+Just lying smiling in the dark
+Shooting stars around your heart
+Dreams come bouncing in your head
+Pure and simple every time
+Now you're crying in your sleep
+I wish you'd never learnt to weep
+Don't sell the dreams you should be keeping
+Pure and simple every time
+
+Dream of sights
+Of sleigh rides in seasons
+Where feelings not reasons
+Can make you decide
+As leaves pour down
+Splash Autumn on gardens
+As colder nights harden
+Their moonlit delights
+And I love you
+
+Just lying smiling in the dark
+Shooting stars around your heart
+Dreams come bouncing in your head
+Pure and simple every time
+Now you're crying in your sleep
+I wish you'd never learnt to weep
+Don't sell the dreams you should be keeping
+Pure and simple every time
+
+Look at me with starry eyes
+Push me up to starry skies
+There's stardust in my head
+Pure and simple every time
+Fresh and deep as oceans new
+Shiver at the sight of you
+I'll sing a softer tune
+Pure and simple over you
+
+If love's the truth then look no lies
+And let me swim around your eyes
+I've found a place I'll never leave
+Shut my mouth and just believe
+Love is the truth I realize
+Not a stream of pretty lies
+To use us up
+And waste our time
+
+Lying smiling in the dark
+Shooting stars around your heart
+Dreams come bouncing in your head
+Pure and simple every time
+Now you're crying in your sleep
+I wish you'd never learnt to weep
+Don't sell the dreams you should be keeping
+Pure and simple every time
+
+Look at me with starry eyes
+Push me up to starry skies
+There's stardust in my head
+Pure and simple every time
+Fresh and deep as oceans new
+Shiver at the sight of you
+I'll sing a softer tune
+Pure and simple over you
+
+Pure and simple just for you

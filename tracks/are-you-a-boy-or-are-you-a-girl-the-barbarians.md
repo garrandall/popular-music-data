@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: are-you-a-boy-or-are-you-a-girl-the-barbarians
+lyrics_url: https://genius.com/The-barbarians-are-you-a-boy-or-are-you-a-girl-lyrics
 name: Are You A Boy Or Are You A Girl
 rankings:
 - end_date: '1965-10-01'
@@ -31,4 +32,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-10-30'
 ---
+Are you a boy? Or are you a girl?
+With your long blond hair you look like a girl
+Yeah, you look like a girl
+You may be a boy, hey, you look like a girl
 
+You're either a girl or you come from Liverpool
+Yeah, Liverpool
+You can dog like a female monkey, but you swim like a stone
+Yeah, a rolling stone
+You may be a boy, hey, you look like a girl
+Hey! Aw!
+
+Hey!
+You're always wearing skin tight pants and boys wear pants
+But in your skin tight pants you look like a girl
+Yeah, you look like a girl
+You may be a boy, hey, you look like a girl
+Hey!
+
+Are you a boy? Or are you a girl?
+With your long blond hair you look like a girl
+Yeah, you look like a girl
+You may be a boy, hey, you look like a girl
+Hey!
+Yeah, you look like a girl, hey!
+Yeah, you look like a girl, hey!
+Yeah, you look like a girl, hey!
+Yeah, you look like a girl, hey!

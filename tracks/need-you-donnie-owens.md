@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: need-you-donnie-owens
+lyrics_url: https://www.musixmatch.com/lyrics/Donnie-Owens/Need-You
 name: Need You
 rankings:
 - end_date: '1958-10-12'
@@ -67,4 +68,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-12'
 ---
+Need you
+Your tenderness, your understanding heart
+I hurt for you each minute were apart
+I need my angel now
 
+Miss you
+I miss the funny little things you do
+I miss your sweetness and your sadness too
+I miss your every mood
+
+When our flame of love was burning high
+We vowed our love would never die
+Seems your love for me has gone
+I wish I knew
+I hope I'm wrong
+
+Come back to me
+Come back and help me find the will to live
+In this old troubled world of take and give
+I need you by my side

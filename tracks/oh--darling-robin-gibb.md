@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh--darling-robin-gibb
+lyrics_url: https://genius.com/Robin-gibb-oh-darling-lyrics
 name: Oh! Darling
 rankings:
 - end_date: '1978-08-18'
@@ -55,4 +56,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-10-28'
 ---
+Oh darling, please believe me
+I'll never do you no harm
+Believe me when I tell you
+I'll never do you no harm
 
+Oh darling, if you leave me
+I'll, I'll never make it alone
+So believe me when I beg you
+Don't you ever leave me alone, leave me alone
+
+When you told me you didn't need me anymore
+Well, you know, I nearly broke down and cried
+When you told me you didn't need me anymore
+Well, you know, I nearly broke down and died
+
+Oh darling, if you leave me
+I'll never make it alone
+So believe me when I tell you
+I'll never do you no harm
+
+When you told me you didn't need me anymore
+Well, you know, you know I nearly broke down and cried
+When you told me you didn't need me anymore
+Well, you know, you know I nearly broke down and died
+
+Oh darling, please believe me
+I'll never let you down
+So believe me when I tell you
+I'll never do you no harm

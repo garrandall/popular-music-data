@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: criticize-alexander-o-neal
+lyrics_url: https://www.musixmatch.com/lyrics/Alexander-O-Neal-2/Criticize
 name: Criticize
 rankings:
 - end_date: '1987-11-20'
@@ -51,4 +52,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
 ---
+Ooh-ooh
+(You don't realise)
+(I just want what is right)
+(Still the same)
 
+(Criticise)
+
+Can't you find something not to talk about
+
+Is this only when you sing
+
+Makes you look better when you put things down
+Value your opinion
+Don't criticise my friends
+Criticise my ideas
+Don't crticise my lifestyle
+I'm fed up cos all you wanna do is criticise
+
+(Don't just close your mind)
+Ooh-ooh
+(You don't realise)
+(I just want what is right)
+
+(Still the same)
+(Criticise)
+Now can't we talk this over
+Cos your conversation aint right
+We can make our love stronger
+You don't have to think twice
+
+Don't criticise my friends
+Criticise my ideas
+
+Don't criticise my lifestyle
+
+I'm fed up 'cause all you wanna do is criticise
+
+(Don't just close your mind)
+Ooh-ooh
+Criticise
+(You don't realise)
+All you wanna do is criticise
+(I just want what is right)
+(Still the same)
+Criticise
+(Don't just close your mind)
+All you wanna do is criticise
+Ooh-ooh
+Criticise
+(You don't realise)
+All you wanna do is criticise
+(I just want what is right)
+(Still the same)
+(Criticise)
+Criticise
+(Don't just close your mind)
+All you wanna do is criticise
+Ooh-ooh
+Criticise
+(You don't realise)
+All you wanna do is criticise
+(I just want what is right)
+(Still the same)
+Criticise
+(Don't just close your mind)
+All you wanna do is criticise
+Ooh-ooh
+Criticise
+(You don't realise)
+All you wanna do is criticise
+(I just want what is right)
+(Don't just close your mind)
+Gotta be your man
+Can't stop me baby

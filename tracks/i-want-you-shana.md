@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-you-shana
+lyrics_url: https://genius.com/Shana-i-want-you-lyrics
 name: I Want You
 rankings:
 - end_date: '1989-10-13'
@@ -99,4 +100,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-03-10'
 ---
+I want you
+I want you so bad
+I need you
+It's driving me mad
+I want you
+I want you so bad
+I need you
+It's driving me mad
 
+You know that I want you tonight
+That's all right with me
+Baby, you're all I desire
+My love is all that you need
+
+Come in my world and, baby, you'll see
+Paradise is waiting for just you and me
+I've waited so long for someone like you
+To make all my dreams and passions come true
+
+I want you
+I want you so bad
+I need you
+It's driving me mad
+I want you
+I want you so bad, boy
+I need you
+It's driving me mad
+I want you
+
+Babe, won't you give me your love?
+There's no one better for me
+Now honey, look what you've done
+I'm under your spell, can't you see
+
+Give me your love and, baby, you'll see
+Paradise is waiting for just you and me
+I've waited so long for someone like you
+To make all my dreams and passions come true
+
+I want you
+I want you so bad
+I need you
+It's driving me mad
+I want you
+I want you so bad
+I need you
+It's driving me mad
+
+I want you
+I want you so bad, boy
+I need you
+It's driving me mad
+I want you
+I want you so bad, boy
+I need you
+
+Come in my world and, baby, you'll see
+Paradise is waiting for just you and me
+I've waited so long for someone like you
+To make all my dreams and passions come true
+
+I want you
+I want you so bad
+I need you
+It's driving me mad
+
+I want you, I want you, I want you, I want you oh
+I need you, I need you, I need you so bad
+I need you, I want you
+It's driving me mad
+
+I want you
+I want you so bad, boy
+I need you
+It's driving me mad
+
+I want you

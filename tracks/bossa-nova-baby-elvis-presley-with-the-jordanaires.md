@@ -1,9 +1,11 @@
 ---
 artists:
-- Elvis Presley With The Jordanaires
+- Elvis Presley
+- The Jordanaires
 features: []
 genres: []
 key: bossa-nova-baby-elvis-presley-with-the-jordanaires
+lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-and-The-Jordanaires/Bossa-Nova-Baby-2003-Sony-Remaster
 name: Bossa Nova Baby
 rankings:
 - end_date: '1963-10-25'
@@ -47,4 +49,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-12-21'
 ---
+I said, "Take it easy, baby
+I worked all day and my feet feel just like lead
+You got my shirt tails flyin' all over the place
+And the sweat poppin' out of my head"
 
+She said, "Hey, bossa nova baby
+Keep on workin' for this ain't no time to quit"
+She said, "Go, bossa nova baby keep on dancin'
+I'm about to have myself a fit"
+Bossa nova, bossa nova
+
+I said, "Hey little mama, let's sit down
+Have a drink and dig the band"
+She said, "Drink, drink, drink oh, fiddle-de-dink
+I can dance with a drink in my hand"
+
+She said, "Hey bossa nova baby
+Keep on workin' for this ain't no time to drink"
+She said, "Go bossa nova baby
+Keep on dancin', 'cause I ain't got time to think"
+Bossa nova, bossa nova
+
+I said, "Come on baby, it's hot in here
+And it's oh so cool outside
+If you lend me a dollar, I can buy some gas
+And we can go for a little ride"
+
+She said, "Hey bossa nova baby
+Keep on workin' for I ain't got time for that"
+She said, "Go bossa nova baby
+Keep on dancin' or I'll find myself another cat"
+Bossa nova, bossa nova
+Bossa nova, bossa nova
+Bossa nova, bossa nova

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: on-the-line-tangier
+lyrics_url: https://genius.com/Tangier-on-the-line-lyrics
 name: On The Line
 rankings:
 - end_date: '1989-08-18'
@@ -35,4 +36,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-23'
 ---
+In the middle of the darkness
+Creepin' round your door
+In the shadows of a foggy night
+Can you hear 'em call
+Reachin' out for something
+Lyrics courtesy Top40db
+That's not really there
+Just another lonely night
+There's danger in the air
 
+Verse 2
+
+In the back of an alley
+Don't step around
+Someone is watching
+Don't make a sound
+With a hush and a whisper
+Another teardrop falls
+Gotta fight this feelin'
+Can't you hear your momma call
+
+Refrain
+
+As you gaze in wonder
+At the things you see
+Never stop hopin'
+What will never be
+
+Chorus
+That's right that's right
+Never walk the streets at night
+No not alone
+You wait for a reason
+You're puttin' your life on the line
+Can't ya get back home
+
+Verse 3
+
+Backed in an alley
+Up against the wall
+Can't move but you're fallin'
+Gotta try & grab a hold
+Your heart keeps pounding
+As you close your eyes
+You feel it slippin' away
+Gotta find some place to hide
+
+Refrain
+Lead
+Chorus--END

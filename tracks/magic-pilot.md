@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: magic-pilot
+lyrics_url: https://genius.com/Pilot-band-magic-lyrics
 name: Magic
 rankings:
 - end_date: '1975-04-11'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-08-16'
 ---
+Oh, ho, ho
+It's magic you know
+Never believe, it's not so
+It's magic, you know
+Never believe, it's not so
 
+
+Never been awake
+Never seen a day break
+Leaning on my pillow in the morning
+Lazy day in bed
+Music in my head
+Crazy music playing in the morning light
+
+
+Oh, ho, ho
+It's magic you know
+Never believe, it's not so
+It's magic, you know
+Never believe, it's not so
+
+
+I love my sunny day
+Dream of far away
+Dreaming on my pillow in the morning
+Never been awake
+Never seen a day break
+Leaning on my pillow in the morning light
+
+
+Oh, ho, ho
+It's magic you know
+Never believe, it's not so
+It's magic, you know
+Never believe, it's not so
+Oh, ho, ho
+It's magic you know
+Never believe, it's not so
+It's magic, you know
+Never believe, it's not so

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: start-me-up-the-rolling-stones
+lyrics_url: https://genius.com/The-rolling-stones-start-me-up-lyrics
 name: Start Me Up
 rankings:
 - end_date: '1981-08-28'
@@ -103,4 +104,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-30'
 ---
+If you start me up
+If you start me up, I'll never stop
+If you can start me up
+If you can start me up, I'll never stop
 
+
+I've been running hot
+You got me ticking, going to blow my top
+If you start me up
+If you start me up, I'll never stop
+Never stop, never stop, never stop
+
+
+You make a grown man cry
+You make a grown man cry
+You make a grown man cry
+Spread out the oil, the gasoline
+I walk smooth, ride in a mean, mean machine
+
+
+Start it up
+If you start me up
+Kick on the starter, give it all you got
+You got to, you got to
+I can't compete with the riders in the other heats
+If you rough it up
+If you like it you can slide it up
+Slide it up, slide it up, slide it up
+
+
+Don't make a grown man cry
+Don't make a grown man cry
+Don't make a grown man cry
+My eyes dilate, my lips go green
+My hands are greasy, she's a mean, mean machine
+
+
+Start it up
+Start me up
+Ah, ah, give it all you've got
+You've got to never, never, never stop
+Start it up, whoo!
+Ah don't trip me up, just start it up
+
+Never, never, never
+
+
+You make a grown man cry
+You make a grown man cry
+You make a grown man cry
+Ride like the wind at double speed
+I'll take you places that you've never, never seen
+Hey, hey
+
+
+If you start it up
+Love the day and we will never stop, never stop
+Never, never, never stop
+Start me up
+Never stop, never stop
+
+
+You, you, you make a grown man cry
+You, you make a dead man cum
+You, you make a dead man cum

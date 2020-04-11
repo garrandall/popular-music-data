@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-let-me-be-misunderstood-santa-esmeralda-starring-leroy-gomez
+lyrics_url: https://www.musixmatch.com/lyrics/Santa-Esmeralda-starring-Leroy-Gomez/Don-t-Let-Me-Be-Misunderstood
 name: Don't Let Me Be Misunderstood
 rankings:
 - end_date: '1977-11-11'
@@ -83,4 +84,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-03-11'
 ---
+Baby, do you understand me now?
+Sometimes I feel a little mad
+But don't you know that no one alive can always be an angel
+When things go wrong, or seem to be bad
 
+I'm just a soul whose intentions are good
+Oh Lord, please don't let me be misunderstood
+
+If I seem edgy, I want you to know
+That I never meant to take it out on you
+Life has its problems and I got my share
+And that's one thing I never meant to do 'cause I love you

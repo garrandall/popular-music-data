@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: almost-saturday-night-john-fogerty
+lyrics_url: https://genius.com/John-fogerty-almost-saturday-night-lyrics
 name: Almost Saturday Night
 rankings:
 - end_date: '1975-12-19'
@@ -19,4 +20,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-12-27'
 ---
+Outside my window, I can hear the radio
+And I know that motor wagon is ready to fly
+'Cause it's almost Saturday night
 
+Bye bye, tomorrow, Jody's gone to the rodeo
+And you know some good ol' boys are ready to ride
+'Cause it's almost Saturday night
+
+Gonna push the clouds away, let the music have its way
+Let it steal my heart away, and you know I'm a-goin'
+
+Outside, they're ringing, the night train is bringin' me home
+When you hear that locomotion, get ready to ride
+'Cause it's almost Saturday night
+
+Gonna push the clouds away, let the music have it's way
+Let it steal my heart away, and you know I'm a-goin'
+
+Outside, they're ringing, the night train is bringin' me home
+When you hear that locomotion, get ready to ride
+'Cause it's almost Saturday night
+Oh yeah

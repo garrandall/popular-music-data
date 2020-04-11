@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-want-to-stay-here-steve-eydie
+lyrics_url: https://www.musixmatch.com/lyrics/Steve-Lawrence-Eydie-Gorme-3/I-Want-to-Stay-Here
 name: I Want To Stay Here
 rankings:
 - end_date: '1963-07-26'
@@ -52,4 +53,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-09-28'
 ---
+Whoa, oh, oh, oh, oh, oh, oh
+Whoa, oh, oh, oh, oh, oh, oh
 
+I don't wanna go to the party with you
+I don't wanna go to the dance
+I don't wanna go anywhere with you
+I just wanna stay here and love you
+Whoa, oh, oh, oh, oh, oh, oh
+
+Now that I can be alone with you
+I won't throw away the chance
+There's no place like home with you
+So I wanna stay here and love you
+Whoa, oh, oh, oh, oh, oh, oh
+Whoa, oh, oh, oh, oh, oh, oh
+
+All through the week I miss you so-uh-oh-uh-oh
+So now that I've got you I'm gonna hold you
+Closer and closer and closer and oh-oh
+
+I don't wanna go for a walk with you
+And now that I am in this trance
+I don't even know if I'll talk to you
+I just wanna stay here and love you
+Whoa, oh, oh, oh, oh, oh, oh
+
+I don't even know if I'll talk to you
+I just wanna stay here and love you
+Whoa, oh, oh, oh, oh, oh, oh
+Just wanna stay here and love you
+Whoa, oh, oh, oh, oh, oh, oh

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-all-chant-the-michael-zager-band
+lyrics_url: https://www.musixmatch.com/lyrics/The-Michael-Zager-Band/Let-s-All-Chant-1
 name: Let's All Chant
 rankings:
 - end_date: '1978-03-10'
@@ -63,4 +64,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-06-03'
 ---
+(Ooh ooh)
+(Ooh ooh)
 
+(Ooh ooh) let's all chant
+(Ooh ooh) let's all chant
+(Ooh ooh) let's all chant
+(Ooh ooh) let's all chant
+
+Your body, my body
+Everybody move your body
+Your body, my body
+Everybody work your body
+Your body, my body
+Everybody move your body
+Your body, my body
+Everybody work your body
+
+(Ooh ooh)
+(Ooh ooh)
+(Ooh ooh)
+(Ooh ooh)
+(Ooh ooh) let's all chant
+(Ooh ooh) let's all chant
+(Ooh ooh) let's all chant
+(Ooh ooh) let's all chant
+
+Your body, my body
+Everybody oh work your body
+Your body, my body
+Everybody oh work your body
+Your body, my body
+Everybody oh work your body
+Your body, my body
+Everybody oh work your body
+
+Your body, my body
+Everybody oh work your body
+Your body, my body
+Everybody oh work your body
+Your body, my body
+Everybody oh work your body
+
+(Ooh ooh) let's all chant
+(Ooh ooh) let's all chant
+(Ooh ooh)
+(Ooh ooh)

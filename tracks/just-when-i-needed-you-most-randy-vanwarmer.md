@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-when-i-needed-you-most-randy-vanwarmer
+lyrics_url: https://genius.com/Randy-vanwarmer-just-when-i-needed-you-most-lyrics
 name: Just When I Needed You Most
 rankings:
 - end_date: '1979-03-30'
@@ -87,4 +88,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-08-04'
 ---
+You packed in the morning, I stared out the window
+And I struggled for something to say
+You left in the rain without closing the door
+I didn't stand in your way
 
+But I miss you more than I missed you before
+And now where I'll find comfort, God knows
+'Cause you left me just when I needed you most
+Left me just when I needed you most
+
+Now most every morning, I stare out the window
+And I think about where you might be
+I've written you letters that I'd like to send
+If you would just send one to me
+
+'Cause I need you more than I needed before
+And now where I'll find comfort, God knows
+'Cause you left me just when I needed you most
+Left me just when I needed you most
+
+You packed in the morning, I stared out the window
+And I struggled for something to say
+You left in the rain without closing the door
+I didn't stand in your way
+
+Now I love you more than I loved you before
+And now where I'll find comfort, God knows
+'Cause you left me just when I needed you most
+Oh yeah, you left me just when I needed you most
+You left me just when I needed you most

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cottage-cheese-crow
+lyrics_url: https://genius.com/Crow-cottage-cheese-lyrics
 name: Cottage Cheese
 rankings:
 - end_date: '1970-05-22'
@@ -63,4 +64,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
 ---
-
+Take some of this candy sweet
+From my little bag of tricks
+And walk on down the street awhile
+Follow me through my door
+I'll lead you by the hand, my love
+And take you to the top
+By morn, you'll say forget the clock
+And do it to me once again
+You hair is long and full and soft
+Upon my pillowcase
+Dusk has fallen once again
+It's time for us to part

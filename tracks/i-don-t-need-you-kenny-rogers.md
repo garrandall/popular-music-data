@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-need-you-kenny-rogers
+lyrics_url: https://genius.com/Kenny-rogers-i-dont-need-you-lyrics
 name: I Don't Need You
 rankings:
 - end_date: '1981-06-19'
@@ -79,4 +80,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-10-10'
 ---
+I don't need you
+I don't need friendship
+I don't need flowers in the spring
+I don't need you
+And you surely don't need me
 
+I don't need love and affection
+I don't need peace and harmony
+I don't need you
+And you surely don't need me
+
+But we both want it bad enough
+Yes, we both want it, don't we?
+I don't need you baby
+And I know you don't need me
+
+I don't need your loving arms around me
+All I need is to be free
+That's what I keep telling myself
+And I tell you, you don't need me
+
+I don't need children in my old age
+No more cluttered leaves around the tree
+And I don't need you baby
+And I know you don't need me
+
+But we both want it bad enough
+Yes, we both want it, don't we?
+I don't need you baby
+And I know you don't need me
+
+And we don't need each other, baby
+We don't need each other, baby
+Or do we?

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rockit-herbie-hancock
+lyrics_url: https://genius.com/Herbie-hancock-rockit-lyrics
 name: Rockit
 rankings:
 - end_date: '1983-09-16'
@@ -43,4 +44,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-11-05'
 ---
+Don't stop it
 
+Rock it
+
+Don't stop it

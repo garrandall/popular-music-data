@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-wanna-be-happy-jimmy-soul
+lyrics_url: https://genius.com/Jimmy-soul-if-you-wanna-be-happy-lyrics
 name: If You Wanna Be Happy
 rankings:
 - end_date: '1963-04-05'
@@ -63,4 +64,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-29'
 ---
+If you wanna be happy for the rest of your life
+Never make a pretty woman your wife
+So for my personal point of view
+Get an ugly girl to marry you
 
+If you wanna be happy for the rest of your life
+Never make a pretty woman your wife
+So for my personal point of view
+Get an ugly girl to marry you
+
+A pretty woman makes her husband look small
+And very often causes his downfall
+As soon as he marries her then she starts
+To do the things that will break his heart
+
+But if you make an ugly woman your wife
+You'll be happy for the rest of your life
+An ugly woman cooks meals on time
+She'll always give you peace of mind
+
+If you wanna be happy for the rest of your life
+Never make a pretty woman your wife
+So for my personal point of view
+Get an ugly girl to marry you
+
+Don't let your friends say you have no taste
+Go ahead and marry anyway
+Though her face is ugly, her eyes don't match
+Take it from me, she's a better catch
+
+If you wanna be happy for the rest of your life
+Never make a pretty woman your wife
+So for my personal point of view
+Get an ugly girl to marry you
+
+Say man!
+Hey baby!
+I saw your wife the other day!
+Yeah?
+Yeah, an' she's ugly!
+Yeah, she's ugly, but she sure can cook, baby!
+Yeah, alright!
+
+If you wanna be happy for the rest of your life
+Never make a pretty woman your wife
+So for my personal point of view
+Get an ugly girl to marry you
+
+If you wanna be happy for the rest of your life
+Never make a pretty woman your wife
+So for my personal point of view
+Get an ugly girl to marry you
+
+If you wanna be happy for the rest of your life
+Never make a pretty woman your wife
+So for my personal point of view
+Get an ugly girl to marry you
+
+If you wanna be happy for the rest of your life
+Never make a pretty woman your wife
+So for my personal point of view
+Get an ugly girl to marry you

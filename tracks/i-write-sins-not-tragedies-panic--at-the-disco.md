@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-write-sins-not-tragedies-panic--at-the-disco
+lyrics_url: https://genius.com/Panic-at-the-disco-i-write-sins-not-tragedies-lyrics
 name: I Write Sins Not Tragedies
 rankings:
 - end_date: '2006-03-24'
@@ -155,4 +156,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-11-25'
 ---
+Oh, well, imagine
+As I'm pacing the pews in a church corridor
+And I can't help but to hear
+No, I can't help but to hear an exchanging of words
+"What a beautiful wedding!
+What a beautiful wedding!”, says a bridesmaid to a waiter
+"And yes, but what a shame, what a shame
+The poor groom's bride is a whore"
 
+
+I chime in with a "Haven't you people ever heard of
+Closing the goddamn door?!"
+No, it's much better to face these kinds of things
+With a sense of poise and rationality
+I chime in, "Haven't you people ever heard of
+Closing the goddamn door?!"
+No, it's much better to face these kinds of things
+With a sense of...
+
+
+Oh, well in fact
+Well, I'll look at it this way, I mean technically our
+Marriage is saved, well this calls for a toast
+So pour the champagne
+Oh! Well in fact
+Well, I'll look at it this way, I mean technically our
+Marriage is saved, well this calls for a toast
+So pour the champagne, pour the champagne
+
+
+I chime in with a "Haven't you people ever heard of
+Closing the goddamn door?!"
+No, it's much better to face these kinds of things
+With a sense of poise and rationality
+I chime in, "Haven't you people ever heard of
+Closing the goddamn door?!"
+No, it's much better to face these kinds of things
+With a sense of poise and rationality, again
+
+
+I chime in "Haven't you people ever heard of
+Closing the goddamn door?!"
+No, it's much better to face these kinds of things
+With a sense of poise and rationality
+I chime in, "Haven't you people ever heard of
+Closing the goddamn door?!"
+No, it's much better to face these kinds of things
+With a sense of poise and rationality, again

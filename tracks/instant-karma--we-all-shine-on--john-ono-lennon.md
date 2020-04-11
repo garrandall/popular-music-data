@@ -1,6 +1,6 @@
 ---
 artists:
-- John Ono Lennon
+- John Lennon
 features: []
 genres: []
 key: instant-karma--we-all-shine-on--john-ono-lennon

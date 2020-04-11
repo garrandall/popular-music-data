@@ -6,6 +6,7 @@ features:
 - Do
 genres: []
 key: heaven-dj-sammy-yanou-do
+lyrics_url: https://genius.com/Dj-sammy-heaven-lyrics
 name: Heaven
 rankings:
 - end_date: '2002-06-07'
@@ -117,4 +118,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-11-30'
 ---
+Baby, you're all that I want
+When you're lying here in my arms
+I'm finding it hard to believe
+We're in heaven
+We're in heaven!
 
+
+Oh, thinking about our younger years
+There was only you and me
+We were young and wild and free
+Now nothing can take you away from me
+We've been down that road before
+But that's over now
+You keep me coming back for more
+
+
+Baby, you're all that I want
+When you're lying here in my arms
+I'm finding it hard to believe
+We're in Heaven
+And love is all that I need
+And I found it there in your heart
+It isn't too hard to see
+We're in heaven (We're in heaven)
+
+
+Now, nothing could change what you mean to me
+There's a lot that I could say
+But just hold me now
+'Cause our love will light the way
+
+
+Baby, you're all that I want
+When you're lying here in my arms
+I'm finding it hard to believe
+We're in Heaven
+And love is all that I need
+And I found it there in your heart
+It isn't too hard to see
+We're in heaven (Heaven)
+
+
+Now our dreams are coming true
+Through the good times and the bad
+I'll be standing there by you (We're in heaven)
+
+
+Love is all that I need
+And I found it there in your heart
+It isn't too hard to see
+We're in heaven!
+
+
+Ohh, ohh, ohh
+Ohh, ohh, ohh
+We're in heaven!

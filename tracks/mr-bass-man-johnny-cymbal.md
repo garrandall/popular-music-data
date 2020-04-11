@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mr-bass-man-johnny-cymbal
+lyrics_url: https://genius.com/Johnny-cymbal-mr-bass-man-lyrics
 name: Mr Bass Man
 rankings:
 - end_date: '1963-02-22'
@@ -59,4 +60,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-05-11'
 ---
+(Bop-bop-bop singing by bass voice)
 
+Mr. Bass Man, you've got that certain somethin'
+Mr. Bass Man, you set that music thumpin'
+To you it's easy when you go 1-2-3, d-d-be -bop-a-bop
+(Bass voice: You mean be -be -BOP-p-p-bop bop bop...)
+Yeah!
+
+Mr. Bass Man, you're on all the songs
+Be -did-did-a-boom-boom, be -dit-dit-a-boom-boom-bom
+Hey Mr. Bass Man, you're the hidden King of Rock 'n' Roll, d-d-be -bop-a-bop
+(Bass voice: No no, be -be -BOP-p-p-bop bop bop...)
+
+It don't mean a thing when the lead is singin'
+Or when he goes "Hi-yi-yi-yi-yi-yah"
+Hey Mr. Bass Man, I'm askin' just one thing:
+Will you teach me? Yeah, will you sing?
+'Cause Mr. Bass Man, I want to be a bass man too, d-d-be -bop-a-bop
+(Bass voice: Try this, be -be -BOP-p-p-bop bop bop...)
+Hey Mr. Bass Man, I think I'm really with it
+Be -did-did-a-boom-boom, a-boom-boom-be -dit-dit-dit-dit
+C'mon, Mr. Bass Man, now I'm a bass man too, d-d-be -bop-a-bop
+(Bass voice: That's it, be -be -BOP-p-p-bop bop bop...)
+
+(Scat bass duet between Johnny & bass voice)
+
+(repeat "It don't mean a thing", etc.)
+
+(scat duet, fading out)

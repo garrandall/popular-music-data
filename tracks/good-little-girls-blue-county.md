@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-little-girls-blue-county
+lyrics_url: https://genius.com/Blue-county-good-little-girls-lyrics
 name: Good Little Girls
 rankings:
 - end_date: '2004-04-09'
@@ -35,4 +36,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-05-15'
 ---
+She's her momma's baby she's her daddy's pride an' joy
+They've kept her under wraps she ain't been hangin' out
+With any ugly I can boy, hardly ever been kissed
 
+Twenty years of innocence, just what I'm lookin' for
+I wanna be the man that's holdin' her hand
+When she can't hold it back any more
+
+Good little girls make some mighty wild women
+Been savin' it up since the very beginnin'
+When they fall in love they wanna take it to the limit
+Good little girls make some mighty wild women
+
+Well she's never been to Vegas or danced in a Honky Tonk
+No trail of broken hearts although she looks the part
+That ain't the kind of life she wants, she's waitin' for a gold ring
+
+Before she tries her wings, that's what I'm waitin' for
+I wanna be the man that's holdin' her hand
+When she can't hold it back any more
+
+Good little girls make some mighty wild women
+Been savin' it up since the very beginnin'
+When they fall in love they wanna take it to the limit
+Good little girls make some mighty wild women

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: stay-maurice-williams-the-zodiacs
+lyrics_url: https://genius.com/Maurice-williams-and-the-zodiacs-stay-lyrics
 name: Stay
 rankings:
 - end_date: '1960-10-09'
@@ -80,4 +81,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
 ---
+(Stay) Ah, just a little bit longer (Stay)
+(Please) Please, please, please
+Tell me you're going to
 
+Now your daddy don't mind
+And your mommy don't mind
+If we have another dance, yeah
+Just one more (One more time)
+
+Oh, won't you stay
+Just a little bit longer?
+Please let me dance
+And say you will (Say you will)
+
+Won't you place your sweet lips to mine?
+Won't you say you love me all of the time?
+
+(Stay) Oh yeah, just a little bit longer (Stay)
+(Please) Please, please, please
+Tell me you're going to
+
+Come on, come on, come on, stay, yeah
+Come on, come on, come on, stay, yeah
+Come on, come on, come on, stay, whoops
+Come on, come on, come on, stay, mama mama

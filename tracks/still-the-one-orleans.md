@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: still-the-one-orleans
+lyrics_url: https://genius.com/Orleans-still-the-one-lyrics
 name: Still The One
 rankings:
 - end_date: '1976-08-06'
@@ -79,4 +80,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
 ---
+We've been together since way back when
+Sometimes I never want to see you again
+But I want you to know, after all these years
+You're still the one I want whispering in my ear
 
+You're still the one I want to talk to in bed
+Still the one that turns my head
+We're still having fun and you're still the one
+
+I looked at your face every day
+But I never saw it 'til I went away
+When winter came, I just wanted to go (Wanted to go)
+Deep in the desert, I longed for the snow
+
+You're still the one that makes me laugh
+Still the one that's my better half
+We're still having fun and you're still the one
+
+You're still the one that makes me strong
+Still the one I want to take along
+We're still having fun and you're still the one
+Yes, you are
+
+Ooh
+Ooh
+
+Changing, our love is going gold
+Even though we grow old, it grows new
+
+You're still the one that I love to touch
+Still the one and I can't get enough
+We're still having fun and you're still the one
+
+You're still the one who can scratch my itch
+(You're) Still the one that I wouldn't switch
+We're still having fun and you're still the one
+
+You are still the one that makes me shout
+Still the one that I dream about
+We're still having fun and you're still the one
+
+You are still the one
+You're still the one
+We're still having fun and you're still the one

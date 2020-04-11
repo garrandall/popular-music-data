@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-walls-came-down-the-call
+lyrics_url: https://genius.com/The-call-the-walls-came-down-lyrics
 name: The Walls Came Down
 rankings:
 - end_date: '1983-05-13'
@@ -27,4 +28,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-06-04'
 ---
+Well
 
+Well they blew the horns
+And the walls came down
+They'd all been warned
+And the walls came down
+
+They stood there laughing
+They're not laughing anymore
+The walls came down
+
+Sanctuary fades, congregation splits
+Nightly military raids, the congregation splits
+It's a song of assassins, ringin' in your ears
+We got terrorists thinking, playing on fears
+Oh
+
+Well they blew the horns
+And the walls came down
+They'd all been warned
+But the walls came down
+
+I don't think there are any Russians
+And there ain't no Yanks
+Just corporate criminals
+Playin' with tanks
+
+Die, die, die, die
+Yes, come on
+Die, die
+Come on, come on, come on
+Die, die, wake up
+Wake up
+Die, die
+Go, yeah
+Die, die, die, die, die, die
+Come on, come on, come on, come on
+Die, die

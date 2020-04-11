@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heart-of-gold-neil-young
+lyrics_url: https://genius.com/Neil-young-heart-of-gold-lyrics
 name: Heart Of Gold
 rankings:
 - end_date: '1972-02-11'
@@ -63,4 +64,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-06'
 ---
+I want to live, I want to give
+I've been a miner for a heart of gold
+It's these expressions I never give
 
+
+That keep me searchin' for a heart of gold
+And I'm getting old
+Keep me searchin' for a heart of gold
+And I'm getting old
+
+
+
+
+I've been to Hollywood, I've been to Redwood
+I crossed the ocean for a heart of gold
+I've been in my mind, it's such a fine line
+
+
+That keeps me searchin' for a heart of gold
+And I'm getting old
+Keeps me searchin' for a heart of gold
+And I'm getting old
+
+
+
+
+Keep me searchin' for a heart of gold
+You keep me searchin' and I'm growing old
+Keep me searchin' for a heart of gold
+I've been a miner for a heart of gold

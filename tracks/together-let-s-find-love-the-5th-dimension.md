@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: together-let-s-find-love-the-5th-dimension
+lyrics_url: https://genius.com/The-5th-dimension-together-lets-find-love-lyrics
 name: Together Let's Find Love
 rankings:
 - end_date: '1972-01-07'
@@ -47,4 +48,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-04'
 ---
+I don't know much about
+This thing called love
+But I'm willing to try
 
+I don't know much
+About it either, baby
+But if you're willing
+Then, so am I
+
+Together, we will
+Float away in a dream
+On our own private cloud
+If you know what I mean, oh
+
+
+Together, oh, baby
+Let's find love
+Baby, baby, you and me
+Together, oh, baby
+Let's find love
+Baby, baby, you and me
+That's the way it's got to be
+
+I don't know much
+About the feeling shared
+When two lovers kiss
+
+Oh, and I don't know much
+About it either, baby
+But I'm willing to find out
+What I missed
+
+Together, we'll pursue
+Love to the extreme
+Let's not miss a thing, girl
+If you know what I mean, oh
+
+
+Oh, oh, together, oh, oh
+Baby, let's find love
+Baby, baby, you and me
+Together, oh, oh
+Baby, let's find love
+Together, baby, you and me
+That's the way it's got to be
+
+Oh, oh, together, oh, oh
+Baby, let's find love
+Baby, baby, you and me
+Together, oh, oh
+Baby, let's find love
+Together, baby, you and me
+That's the way it's got to be

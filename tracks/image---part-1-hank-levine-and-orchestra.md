@@ -1,6 +1,6 @@
 ---
 artists:
-- Hank Levine And Orchestra
+- Hank Levine
 features: []
 genres: []
 key: image---part-1-hank-levine-and-orchestra

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: friends-bette-midler
+lyrics_url: https://genius.com/Bette-midler-friends-lyrics
 name: Friends
 rankings:
 - end_date: '1973-10-05'
@@ -47,4 +48,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-01'
 ---
+And I am all alone
+There is no one here beside me
+And my problems have all gone
+There is no one to deride me
 
+But yah got to have friends
+The feeling's oh so strong
+Yah got to have friends
+To make that day last long
+
+I had some firends but they're gone
+Somethin' came and took them away
+And from the dusk 'til the dawn
+Here is where I'll stay
+
+Standing at the end of the road, boys
+Waiting for my new friends to come
+I don't care if I'm hungry or poor
+I'm gonna get me some of them
+
+'Cause you got to have friends
+La, la, la, la, la, la, la, la, la, friends
+That's right you, oh you, yeah you
+I said you gotta have some friends
+I'm talkin' about friends, that's right, friends
+Friends, friends, friends
+
+I had some firends, oh, but they're all gone, gone
+Somethin' came and snatched them away
+And from the dusk until the ran ran dawn, you know
+Here is where I gotta stay, here is where I gotta stay
+
+And I'm standing at the end of a real long road
+And I'm waiting for my new friends to come
+I don't care if I'm hungry or freezin' cold
+I'm gonna get me some of them
+
+'Cause you gotta have friends
+That's right, friends, friends
+I gotta get my, I gotta get my, I gotta get my
+Look around and see all of my friends
+Oh, friends, that's right, friends, friends
+Friends, friends, friends, friends, oh
+Friends, you gotta have friends . .

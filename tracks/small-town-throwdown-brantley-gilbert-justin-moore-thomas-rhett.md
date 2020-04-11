@@ -6,6 +6,7 @@ features:
 - Thomas Rhett
 genres: []
 key: small-town-throwdown-brantley-gilbert-justin-moore-thomas-rhett
+lyrics_url: https://genius.com/Brantley-gilbert-small-town-throwdown-lyrics
 name: Small Town Throwdown
 rankings:
 - end_date: '2014-07-04'
@@ -89,4 +90,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-11-08'
 ---
+Oh son
 
+
+Around these parts, ain't much to do
+Except work like a dog until Friday
+Punch that clock, cash that check
+Raise a little hell 'til Sunday (it's about that time)
+About that time
+There's a party back in the woods tonight
+Heard it through the redneck grapevine
+Got a keg of beer and a bunch of girls
+Sure enough going to be a good time
+
+
+It's a small town throwdown
+It's time to tallboy up, let them tailgates down
+And man, it's on tonight, riding until the morning light
+Crank that country up loud, it's a small town throwdown
+
+
+Oh, we about to throwdown, son
+Now we got a field full of daisy dukes
+Round here we know how to grow them
+Rocking little body and long tan legs
+Sure ain't scared to show 'em, now
+Show a little something, girl
+Somebody said them city boys
+Riding around looking for some trouble
+If they bring it across that county line
+You know there's gonna be a rumble
+
+
+It's a small town throwdown
+It's time to tallboy up, let them tailgates down
+And man, it's on tonight, riding until the morning light
+Crank that country up loud, it's a small town throwdown
+
+
+It's a small town throwdown
+It's time to tallboy up, let them tailgates down
+And man, it's on tonight, riding until the morning light
+Crank that country up loud, it's a small town throwdown
+It's a small town throwdown
+It's time to tallboy up, let them tailgates down
+And man, it's on tonight, riding until the morning light
+Crank that country up loud, it's a small town throwdown
+It's a small town throwdown
+
+
+That's country

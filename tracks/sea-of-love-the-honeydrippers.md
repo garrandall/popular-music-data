@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sea-of-love-the-honeydrippers
+lyrics_url: https://www.musixmatch.com/lyrics/The-Honeydrippers-3/Sea-of-Love-1
 name: Sea Of Love
 rankings:
 - end_date: '1984-10-19'
@@ -87,4 +88,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-02-23'
 ---
+Do you remember when we met
+That's the day I knew you were my pair
+I want to tell you how much I love you
 
+Come with me, my love
+To the sea, the sea of love
+I want to tell you just how much I love you
+
+Come with me, to the sea of love
+
+Do you remember when we met
+That's the day I knew you were my pair
+I want to tell you oh how much I love you
+
+Come with me, to the sea of love
+Come with me, my love
+To the sea, the sea of love
+I want to tell you just how much I love you
+I want to tell you oh how much I love you

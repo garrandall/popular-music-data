@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-d-do-it-all-again-sam-harris
+lyrics_url: https://genius.com/Sam-harris-80s-id-do-it-all-again-lyrics
 name: I'd Do It All Again
 rankings:
 - end_date: '1986-02-07'
@@ -43,4 +44,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-29'
 ---
+Sometimes my heart seems to slip away
+To yesterday
+When your eyes held all the answers
+It's easier to keep the pain
+And hope
+But I can't forget
+All the time I stayed inside the laughter
 
+So if you want me
+I'll be there
+I'll be waiting at the top of the stairs
+And if you want me you can call
+I will catch you if you stumble and fall
+
+Oh, I'd do it all again
+The same thing happens
+With the same sad end
+Oh, I'd do it all again
+I'd do it all again
+Oh, oh
+
+Time takes it's toll for the broken heart
+But not so smart
+I suppose I will always love you
+Looking back to what I was before you came
+I'm not the same, no
+What you gave was what it took to pull through
+
+So if you want me
+I'll be there
+I'll be waiting at the top of the stairs
+And if you want me you can call
+I will catch you if you stumble and fall
+
+Oh, I'd do it all again
+The same thing happens
+With the same sad end
+Oh, I'd do it all again
+I'd do it all again
+Oh, oh
+
+I can forgive you
+But I can't forget you
+I never let you see
+The tears behind my smile
+
+Oh, I'd do it all again
+The same thing happens
+With the same sad end
+Oh, I'd do it all again
+I'd do it all again
+Oh, oh
+
+Do it all again
+Do it all again
+Do it all again
+Do it all again
+Oh, I'd do it all again
+
+So if you want me
+I'll be there
+I'll be waiting at the top of the stairs
+And if you want me you can call
+I will catch you if you stumble and fall
+
+So if you want me
+I'll be there
+I'll be waiting at the top of the stairs
+And if you want me you can call
+I will catch you if you stumble and fall

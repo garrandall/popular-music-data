@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-time-of-my-life-david-cook
+lyrics_url: https://genius.com/David-cook-the-time-of-my-life-lyrics
 name: The Time Of My Life
 rankings:
 - end_date: '2008-06-13'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-10-18'
 ---
+I've been waitin' for my dreams
+To turn into something I could believe in
+And lookin' for that magic rainbow
+On the horizon, I couldn't see it
 
+
+Until I let go, gave into love
+And watched all the bitterness burn
+Now I'm comin' alive, body and soul
+Feelin' my world start to turn
+
+
+And I'll taste every moment and live it out loud
+I know this is the time, this is the time to be
+More than a name or a face in the crowd
+I know this is the time, this is the time of my life
+Time of my life
+
+
+Holdin' onto things that vanished into the air
+Left me in pieces
+But now I'm risin' from the ashes
+Finding my wings
+And all that I needed
+
+
+Was there all along within' my reach
+As close as the beat of my heart
+
+
+And I'll taste every moment and live it out loud
+I know this is the time, this is the time to be
+More than a name or a face in the crowd
+I know this is the time, this is the time of my life
+The time of my life
+
+
+And I'm out on the edge of forever
+Ready to run
+Keeping my feet on the ground
+Arms open wide, face to the sun
+
+
+And I'll taste every moment and live it out loud
+I know this is the time, this is the time to be
+More than a name or a face in the crowd
+I know this is the time, this is the time of my life
+My life
+More than a name or a face in the crowd
+I know this is the time, this is the time of my life
+This is the time of my life
+The time of my life
+The time of my life

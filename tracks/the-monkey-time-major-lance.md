@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-monkey-time-major-lance
+lyrics_url: https://www.musixmatch.com/lyrics/Major-Lance/The-Monkey-Time-Rerecorded
 name: The Monkey Time
 rankings:
 - end_date: '1963-07-19'
@@ -67,4 +68,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-19'
 ---
+There's a place right across town, whenever you're ready
+Where people gather 'round, whenever they're ready
+And then the music begins to play
+You feel a groove comin' on its way
+Are you ready (are you ready)
+Well, you get yours, cause-a I got mine
+For the Monkey Time (Monkey Time)
+(Monkey Time)
 
+Now the dance that the people do, I don't know how it started
+All I know is that when the beat brings a feel
+It's so hard to get parted
+And then the music begins to play
+Automatically you're on your way
+Are you ready (are you ready)
+Well, you get yours, cause-a I got mine
+For the Monkey Time (Monkey Time)
+(Monkey Time)
+
+Do the Monkey, yeah (do the Monkey Time)
+Do the Monkey, yeah (do the Monkey Time)
+
+Ah-twist them hips (twist them hips)
+Let your backbone slip (let your backbone slip)
+Now move your feet (move your feet)
+Get on the beat (get on the beat)
+Are you ready (are you ready)
+Well, you get yours, cause-a I got mine
+For the Monkey Time (Monkey Time)
+(Monkey Time)
+
+Now the dance that the people do, I don't know how it started
+All I know is that when the beat brings a feel
+It's so hard to get parted
+And then the music begins to play
+Automatically you're on your way
+Are you ready (are you ready)
+Well, you get yours, cause-a I got mine
+For the Monkey Time (Monkey Time)
+Ah, do the Monkey, yeah
+Give me a big strong line
+You're lookin' real fine

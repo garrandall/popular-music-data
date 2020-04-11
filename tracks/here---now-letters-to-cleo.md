@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here---now-letters-to-cleo
+lyrics_url: https://genius.com/Letters-to-cleo-here-and-now-lyrics
 name: Here & Now
 rankings:
 - end_date: '1995-03-31'
@@ -59,4 +60,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-06-17'
 ---
+Just living on a Sunday morning
+Got my toast and tea and I'm warm and
+I just thought I'd think about
+All the things to get and keep getting
+Never enough, not enough and never ending
+I just thought I'd think about
+Just living on a Sunday morning
+Got my toast and tea and I'm warm and
+I just thought I'd think about
+All the things to get and keep getting
+Never enough, not enough and never ending
+I just thought I'd think about
 
+
+And it might be
+The comfort of a knowledge of a rise above the sky
+But could never parallel the challenge of an acquisition in the
+Here and now, here and now
+
+
+Parody of yourself in color
+Giving it to everybody but your mother
+And you've got much to think about
+Soaring higher with every treason
+Never justify, never reason
+You've got much to think about
+
+
+And it might be
+The comfort of a knowledge of a rise above the sky
+But could never parallel the challenge of an acquisition in the
+Here and now, here and now
+The comfort of a knowledge of a rise above the sky
+But could never parallel the challenge of an acquisition in the
+Here and now, here and now
+
+
+And it might be
+Parody of yourself in color
+Giving it to everybody but your mother
+And you've got much to think about
+Soaring higher with every treason
+Never justify, never reason
+You've got much to think about
+
+
+And it might be
+The comfort of a knowledge of a rise above the sky
+But could never parallel the challenge of an acquisition in the
+Here and now, here and now
+The comfort of a knowledge of a rise above the sky
+But could never parallel the challenge of an acquisition in the
+Here and now, here and now
+
+
+And it might be
+The comfort of a knowledge of a rise above the sky
+But could never parallel the challenge of an acquisition in the
+Here and now, here and now
+And it might, might

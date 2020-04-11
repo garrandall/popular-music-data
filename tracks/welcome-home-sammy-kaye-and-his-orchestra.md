@@ -1,6 +1,6 @@
 ---
 artists:
-- Sammy Kaye And His Orchestra
+- Sammy Kaye
 features: []
 genres: []
 key: welcome-home-sammy-kaye-and-his-orchestra

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: drowning-in-your-eyes-ephraim-lewis
+lyrics_url: https://genius.com/Ephraim-lewis-drowning-in-your-eyes-lyrics
 name: Drowning In Your Eyes
 rankings:
 - end_date: '1992-09-18'
@@ -43,4 +44,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-11-07'
 ---
+Feel the ground it's slipping away
+Like a sigh that greets the close of day
+Feel the waters welcoming arms
+Embrace me in their quiet karma
+I can't hear what you say anymore
+Just the sound of trees on the ocean floor
+Irresistibly drawn from the shore
 
+I'm drowning in your eyes
+I'm floating out to sea
+Helpless on the restless tide
+That flows between you and me
+
+Moving slowly as if in a dream
+The colors change from blue to green
+All around me reflections of you
+In forests deep I'm passing through
+In the swell of the storm we're as one
+We're dancing in the morning sun
+Could it be that we've only just begun
+
+I'm drowning in your eyes
+I'm floating out to sea
+Helpless on the restless tide
+That flows between you and me
+
+I'm drowning in your eyes
+I'm floating out to sea
+Helpless on the restless tide
+That flows between you and me
+
+Lying here beside you
+I try to reach you but you're so far
+
+I'm drowning in your eyes
+I'm floating out to sea
+Helpless on the restless tide
+That flows between you and me
+
+I'm drowning in your eyes
+I'm floating out to sea
+Helpless on the restless tide
+That flows between you and me
+
+I'm drowning in your eyes
+I'm drowning in your eyes
+I'm drowning in your eyes

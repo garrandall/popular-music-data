@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-the-only-world-i-know-sonny-james
+lyrics_url: https://genius.com/Sonny-james-youre-the-only-world-i-know-lyrics
 name: You're The Only World I Know
 rankings:
 - end_date: '1964-12-04'
@@ -31,4 +32,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
 ---
+You're the only world I know you're the one I can't let go
+You're my laughter and my tears and I love you all my years
+You're the beating of my heart you're my thoughts when we're apart
+You're the one I can't let go you're the only only world I know
 
+You're my nighttime and my day you're my one love all the way
+You're the one I can't let go you're the only only world I know

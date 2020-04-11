@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-alannah-myles
+lyrics_url: https://genius.com/Alannah-myles-love-is-lyrics
 name: Love Is
 rankings:
 - end_date: '1990-05-11'
@@ -59,4 +60,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-07-28'
 ---
+Hard to get
+Impossible to hold
+Straight as an arrow
+Like a burnin' fuse
+In the long cold dawn
+By the side of the road
+A hopeless case
+A perfect thing
 
+Love is ... what you want it to be
+Love is ... heaven to the lonely
+Show me what you want me to do
+Cause love is what I've got for you
+
+Close my eyes
+Search the stars
+Cry for help
+Wake up cold
+You're in my system
+Under my skin
+Raw emotion
+Please don't go
+
+Love is .... What you want it to be
+Love is .... Heaven to the lonely
+Show me what you want me to do
+Cause love is what I've got for you
+
+Can't live on promises
+Won't sleep with lies
+Don't understand the things you say
+Til I read 'em in your eyes
+Gotta run on instinct, gotta go by feel
+Gotta trust my senses
+To know if it's for real
+
+Love is ... what you want it to be
+Love is ... heaven to the lonely
+Show me what you want me to do
+Cause love is what i've got for you
+Love is...

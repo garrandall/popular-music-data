@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rumors-syndicate-of-sound
+lyrics_url: https://www.musixmatch.com/lyrics/The-Syndicate-of-Sound/Rumors
 name: Rumors
 rankings:
 - end_date: '1966-08-26'
@@ -35,4 +36,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
 ---
+Keep hearing rumors 'bout you baby
+Don't know if they're true
+Keep hearing rumors 'bout you baby
+And they're all about you
 
+I went away
+But I came back today
+You know what I heard
+You know what they say
+
+Keep hearing rumors 'bout you baby
+Don't know if they're true
+Keep hearing rumors 'bout you baby
+And they're all about you
+
+Not this time
+Not with me
+You had your fun
+Now set me free
+
+Keep hearing rumors 'bout you baby
+Don't know if they're true
+Keep hearing rumors 'bout you baby
+And they're all about you
+
+What goes on?
+I really wanna know
+What goes on?
+I really wanna know
+
+What goes on?
+I really wanna know
+What goes on?
+I really wanna know
+What goes on?

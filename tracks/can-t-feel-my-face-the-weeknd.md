@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-feel-my-face-the-weeknd
+lyrics_url: https://genius.com/The-weeknd-cant-feel-my-face-lyrics
 name: Can't Feel My Face
 rankings:
 - end_date: '2015-07-03'
@@ -171,4 +172,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-04-02'
 ---
+And I know she'll be the death of me
+At least we'll both be numb
+And she'll always get the best of me
+The worst is yet to come
+But at least we'll both be beautiful and stay forever young
+This I know, yeah, this I know
 
+
+She told me, "don't worry about it"
+She told me, "don't worry no more"
+We both know we can't go without it
+She told me you'll never be alone, oh, oh, woo
+
+
+I can't feel my face when I'm with you
+But I love it, but I love it, oh
+I can't feel my face when I'm with you
+But I love it, but I love it, oh
+
+
+And I know she'll be the death of me
+At least we'll both be numb
+And she'll always get the best of me
+The worst is yet to come
+All the misery was necessary when we're deep in love
+This I know, girl, I know
+
+
+She told me, "don't worry about it"
+She told me, "don't worry no more"
+We both know we can't go without it
+She told me you'll never be alone, oh, oh, woo
+
+
+I can't feel my face when I'm with you
+But I love it, but I love it, oh
+I can't feel my face when I'm with you
+But I love it, but I love it, oh
+I can't feel my face when I'm with you
+But I love it, but I love it, oh
+I can't feel my face when I'm with you
+But I love it, but I love it, oh
+
+
+She told me, "don't worry about it"
+She told me, "don't worry no more"
+We both know we can't go without it
+She told me you'll never be alone, oh, oh, woo
+
+
+I can't feel my face when I'm with you
+But I love it, but I love it, oh
+I can't feel my face when I'm with you
+But I love it, but I love it, oh
+I can't feel my face when I'm with you
+But I love it, but I love it, oh
+I can't feel my face when I'm with you
+But I love it, but I love it, oh

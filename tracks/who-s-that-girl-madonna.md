@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-s-that-girl-madonna
+lyrics_url: https://genius.com/Madonna-whos-that-girl-lyrics
 name: Who's That Girl
 rankings:
 - end_date: '1987-07-17'
@@ -71,4 +72,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-24'
 ---
+Who's that girl?
+Who's that girl?
 
+
+When you see her, say a prayer
+And kiss your heart goodbye
+She's trouble, in a word get closer to the fire
+Run faster, her laughter burns you up inside
+You're spinning round and round
+You can't get up, you try but you can't
+
+
+¿Quién es esa niña? (Who's that girl?)
+Señorita, más fina (Who's that girl?)
+¿Quién es esa niña? (Who's that girl?)
+Señorita, más fina (Who's that girl?)
+
+
+You try to avoid her, fate is in your hands
+She's smiling, an invitation to the dance
+Her heart is on the street, tu corazón es suyo
+Now you're falling at her feet
+You try to get away but you can't
+
+
+¿Quién es esa niña? (Who's that girl?)
+Señorita, más fina (Who's that girl?)
+¿Quién es esa niña? (Who's that girl?)
+Señorita, más fina (Who's that girl?)
+
+
+Light up my life, so blind I can't see
+Light up my life, no one can help me now
+Run faster, her laughter burns you up inside
+You're spinning round and round
+You can't get up, you try but you can't
+
+
+¿Quién es esa niña? (Who's that girl?)
+Señorita, más fina (Who's that girl?)
+¿Quién es esa niña? (Who's that girl?)
+Señorita, más fina (Who's that girl?)
+
+
+Light up my life, so blind I can't see
+Light up my life, no one can help me now
+Who's that girl?
+Now, who's that girl?
+Now, who's that girl?
+Now, who's that girl?
+
+
+¿Quién es esa niña? (Who's that girl?)
+Señorita, más fina (Who's that girl?)
+¿Quién es esa niña? (Who's that girl?)
+Señorita, más fina (Who's that girl?)
+¿Quién es esa niña? (Who's that girl?)
+Señorita, más fina (Who's that girl?)
+¿Quién es esa niña? (Who's that girl?)
+Señorita, más fina (Who's that girl?)
+¿Quién es esa niña? (Who's that girl?)
+Señorita, más fina (Who's that girl?)

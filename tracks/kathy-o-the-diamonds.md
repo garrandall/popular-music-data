@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kathy-o-the-diamonds
+lyrics_url: https://genius.com/The-diamonds-kathy-o-lyrics
 name: Kathy-O
 rankings:
 - end_date: '1958-08-10'
@@ -35,4 +36,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
 ---
-
+Kathy-O, Kathy-O
+How do your secrets grow?
+Why do you do the things that you do?
+Kathy-O, Kathy-O
+Why do you taunt me so?
+I never know just what you will do
+As you dream by the window?
+Bewitched by a star
+Are you angel or devil
+I wonder what you are
+Kathy-O, Kathy-O
+Strange little Kathy-O
+I'll always love you
+My Kathy-O

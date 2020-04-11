@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-on-dancin--gary-s-gang
+lyrics_url: https://genius.com/Garys-gang-keep-on-dancin-lyrics
 name: Keep On Dancin'
 rankings:
 - end_date: '1979-02-23'
@@ -47,4 +48,99 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
 ---
+Ooh, ah
+Ooh, ah
+Ooh, ah
+Ooh, ah
 
+Ooh, ah
+Keep me dancin'
+Ooh, ah
+Funky, funky music
+
+Touch my body, make it funky
+Got a feeling like I wanna fly
+Will you love me tonight
+Dancin' baby, don't say maybe
+Don't you really wanna fly with me
+Will you get high with me tonight
+
+Keep on dancin'
+To the funky music
+Keep on dancin'
+Dance with me tonight
+
+You keep me dancin'
+Dancin' and romancin'
+Will you dance with me
+Tonight
+
+Dance, dance, dance
+Dance, dance, dance
+Dance, dance, dance
+Dance, dance, dance
+
+Dance, dance, dance
+Funky music
+Dance, dance, dance
+Move your body
+
+Dance, dance, dance
+Keep me dancin'
+
+Dance, dance, dance
+Dance, dance, dance
+Dance, dance, dance
+Dance, dance, dance
+
+Dance, dance, dance
+Funky music
+Dance, dance, dance
+
+Move your body
+
+Dance, dance, dance
+Keep me dancin'
+
+Ooh, ooh, dance
+Ooh, ooh, dance
+Ooh, ooh, dance
+Ooh, ooh, dance
+
+Ooh, ooh, dance
+Ooh, ooh, dance
+Ooh, ooh, dance
+Ooh, ooh
+
+Touch my body, make it funky
+Got a feeling like I wanna fly
+Will you love me
+Will you dance with me tonight
+
+Keep on dancin'
+To the funky music
+Keep on dancin'
+Dance with me tonight
+
+You keep me dancin'
+Dancin' and romancin'
+Will you dance with me
+Tonight
+
+Dance, dance, dance
+Dance, dance, dance
+Dance, dance, dance
+Dance, dance, dance
+
+Dance, dance, dance
+Dance, dance, dance
+Dance, dance, dance
+Dance, dance, dance
+
+Dance, dance, dance
+Dance, dance, dance
+Dance, dance, dance
+Dance, dance, dance
+
+Dance, dance, dance
+Dance, dance, dance

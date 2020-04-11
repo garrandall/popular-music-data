@@ -1,6 +1,6 @@
 ---
 artists:
-- Lawrence Welk And His Orchestra
+- Lawrence Welk
 features: []
 genres: []
 key: apples-and-bananas-lawrence-welk-and-his-orchestra

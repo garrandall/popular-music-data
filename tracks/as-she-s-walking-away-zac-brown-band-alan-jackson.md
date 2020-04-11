@@ -5,6 +5,7 @@ features:
 - Alan Jackson
 genres: []
 key: as-she-s-walking-away-zac-brown-band-alan-jackson
+lyrics_url: https://genius.com/Zac-brown-band-as-shes-walking-away-lyrics
 name: As She's Walking Away
 rankings:
 - end_date: '2010-09-03'
@@ -88,4 +89,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-01-08'
 ---
+We never spoke a word
+But every thought she had, I heard
+From across the room
+We were standing face to face
+I couldn't find the words to say
+Give me one more move
+I don't even know her name
+I guess foolish pride's to blame
 
+
+Now I'm falling in love as she's walking away
+And my heart won't tell my mind
+To tell my mouth what it should say
+I may have lost this battle
+Live to fight another day
+Now I'm falling in love as she's walking away
+
+
+Wise man next to me did say
+About the one that got away
+Son, I missed my chance
+Don't you let regret take place
+Of the dreams you have to chase
+Ask her to dance
+(Go on son)
+
+
+You might fall down on your face
+Roll the dice and have some faith
+
+
+Don't be falling in love as she's walking away
+When your heart won't tell your mind
+To tell your mouth what it should say
+You may have lost this battle
+Live to fight another day
+Don't be falling in love as she's walking away
+
+
+You might fall down on your face
+Roll the dice and have some faith
+
+
+Don't be falling in love as she's walking away
+When your heart won't tell your mind
+To tell your mouth what it should say
+You may have lost this battle
+Live to fight another day
+Don't be falling in love as she's walking away

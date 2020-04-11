@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: reach-out-and-touch--somebody-s-hand--diana-ross
+lyrics_url: https://genius.com/Diana-ross-reach-out-and-touch-somebodys-hand-lyrics
 name: Reach Out And Touch (Somebody's Hand)
 rankings:
 - end_date: '1970-05-01'
@@ -43,4 +44,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-06-20'
 ---
+Reach out and touch
+Somebody's hand
+Make this world a better place
+If you can!
+Reach out and touch
+Somebody's hand
+Make this world a better place
+If you can!
 
+
+(Just try)
+Take a little time out of your busy day
+To give encouragement
+To someone who's lost the way
+(Just try)
+Or would I be talking to a stone
+If I asked you
+To share a problem that's not your own
+We can change things if we start giving
+Why don't you
+
+
+Reach out and touch
+Somebody's hand
+Make this world a better place
+If you can!
+Reach out and touch
+Somebody's hand
+Make this world a better place
+If you can!
+
+
+(Just try)
+If you see an old friend on the street
+And he's down
+Remember his shoes could fit your feet
+(Just try)
+Try a little kindness
+You'll see
+It's something that comes very naturally
+We can change things if we start giving
+
+
+Reach out and touch
+Somebody's hand
+Make this world a better place
+If you can!
+Reach out and touch
+Somebody's hand
+Make this world a better place
+If you can!

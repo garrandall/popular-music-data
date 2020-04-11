@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: look-to-your-soul-johnny-rivers
+lyrics_url: https://genius.com/Johnny-rivers-look-to-your-soul-lyrics
 name: Look To Your Soul
 rankings:
 - end_date: '1968-04-12'
@@ -35,4 +36,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-05-18'
 ---
+Hendricks
 
+I nearly lost myself
+Tryin’ to be someone else
+All of life I’ve been playing the game
+
+Gotta get out of myself it seems
+Life’s not real when you’re in a dream
+Hang on to your head and give it a try
+
+To live you must nearly die
+Giving up the need to say I
+Look to your soul for the answer
+Look to your soul
+
+So many people passing by
+Have a need to identify
+All of us want to be satisfied
+
+Few people seem to care
+Livin’ the life that goes nowhere
+Nobody takes the time to try
+
+To live you must nearly die
+Giving up the need to say I
+Look to your soul for the answer
+Look to your soul

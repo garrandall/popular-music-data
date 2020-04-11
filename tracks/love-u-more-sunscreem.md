@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-u-more-sunscreem
+lyrics_url: https://www.musixmatch.com/lyrics/Sunscreem/Love-U-More
 name: Love U More
 rankings:
 - end_date: '1993-03-05'
@@ -83,4 +84,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-07-03'
 ---
+You can make the sun turn purple
+You can make the sea turn turtle
+But you know you can never make me love you more
 
+You can turn wine into water
+And sadness into laughter
+But you know you can never make me love you more
+
+Let the sky fall down
+Let the leaves turn brown
+Still you know you can never make me love you more
+
+Let the redwoods die
+Let the wells turn dry
+Still you know you can never make me love you more
+
+You make dew into diamonds
+And pacify the lions
+But you know you can never make me love you more
+
+You can make me dance to order
+My sex hung, torn and quartered
+But you know you can never make me love you more
+
+Let the new day hide
+Leave the scars inside
+Still you know you can never make me love you more
+
+Let the rain pour down
+Let the valleys drown
+Still you know you can never make me
+(Hey) you know you can never make me love you more
+
+We can make the sun turn purple
+We can make the sea turn turtle
+But you know you can never make me love you more
+
+We can turn wine into water
+As fathers rape their daughters
+But you know you can never make me love you more
+
+Let the sky fall down
+Let the leaves turn brown
+Still you know you can never make me love you more
+
+Let the redwoods die
+As the wells run dry
+Still you know you can never make me
+(Hey) you know you can never make me
+(Yeah) you know you can never make me love you more

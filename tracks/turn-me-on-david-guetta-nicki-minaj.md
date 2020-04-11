@@ -5,6 +5,7 @@ features:
 - Nicki Minaj
 genres: []
 key: turn-me-on-david-guetta-nicki-minaj
+lyrics_url: https://genius.com/David-guetta-turn-me-on-lyrics
 name: Turn Me On
 rankings:
 - end_date: '2011-09-23'
@@ -116,4 +117,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-06-16'
 ---
+Doctor, doctor, need you back home, baby
+Doctor, doctor, where ya at? Give me something
+I need your love, I need your love, I need your lovin'
+You got that kind of medicine that keeps me comin'
 
+
+My body needs a hero, come and save me
+Something tells me you know how to save me
+I've been feeling weird, oh
+Oh, I need you to come and rescue me
+
+
+Make me come alive, come on and turn me on
+Touch me, save my life, come on and turn me on
+I'm too young to die, come on and turn me on
+Turn me on, turn me on, turn me on, turn me on
+Make me come alive, come on and turn me on
+Touch me, save my life, come on and turn me on
+I'm too young to die, come on and turn me on
+Turn me on, turn me on, turn me on, turn me on
+
+
+Boy, you make it, make it right
+My temperature is super high
+If I scream, if I cry
+It's only 'cause I feel alive
+
+
+My body needs a hero, come and save me
+Something tells me you know how to save me
+I've been feeling weird, oh
+Oh, I need you to come and rescue me
+
+
+Make me come alive, come on and turn me on
+Touch me, save my life, come on and turn me on
+I'm too young to die, come on and turn me on
+Turn me on, turn me on, turn me on, turn me on
+Make me come alive, come on and turn me on
+Touch me, save my life, come on and turn me on
+I'm too young to die, come on and turn me on
+Turn me on, turn me on, turn me on, turn me on
+
+
+You've got my life in the palm of your hand
+Come save me now, I know you can (Ah, ah)
+
+
+D-d-d-d-don't let me die young
+I just want you to father my young
+I just want you to be my doctor
+We can get it cracking, chiropractor
+I-I-I-I-I-I-I-I-I
+I know you can save me and make me feel alive
+
+
+Make me come alive, come on and turn me on
+Touch me, save my life, come on and turn me on
+I'm too young to die, come on and turn me on
+Turn me on, turn me on, turn me on, turn me on

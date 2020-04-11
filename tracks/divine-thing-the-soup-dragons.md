@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: divine-thing-the-soup-dragons
+lyrics_url: https://genius.com/The-soup-dragons-divine-thing-lyrics
 name: Divine Thing
 rankings:
 - end_date: '1992-08-14'
@@ -71,4 +72,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-11-21'
 ---
+You Are the One Supreme Being
+Just Dressed to Kill
+And Fulfill
+Just Any Dream
+And You Are the One Heart's Desire
+All Hips and Lips
+Made to Trick
+Just Any Fool
 
+(chorus)
+I Could Have Sworn That You Were An Angel
+'cause You're a Sweet, Sweet, Sweet, Divine Thing
+But I Should Have Known That You Were the Devil
+Dressed Like a Sweet, Sweet, Sweet, Divine Thing...
+
+You Lack the One Thing That Is Devotion
+Not Always There, in Your Hair
+In a Daze
+Just Too Wrapped Up In
+Your Own Emotion
+Your Vanity
+Will Always Be
+Your Greatest Thing....
+
+Chorus
+
+Divine Thing, Divine Thing.....

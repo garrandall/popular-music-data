@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: making-memories-frankie-laine
+lyrics_url: https://genius.com/Frankie-laine-making-memories-lyrics
 name: Making Memories
 rankings:
 - end_date: '1967-04-14'
@@ -39,4 +40,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-05-27'
 ---
+We're making memories each time we kiss
+Making wonderful memories when we are holding each other like this
+Green grass for a pillow, a black velvet sky above
+Tender magic moments in a wonderland of love
 
+The years may come and go but we'll recall
+Sharing love in our hideaway and how this night was the start of it all
+Darling, I'll remember my whole life through
+Making memories with you
+
+(We're making memories each time we kiss)
+(Making wonderful memories when we are holding each other like this)
+Green grass for a pillow, a black velvet sky above
+Tender magic moments in a wonderland of love
+
+And the years may come and go but we'll recall
+Sharing love in our hideaway and how this night was the start of it all
+Darling, I'll remember my whole life through
+Making memories with you
+
+Making memories with you

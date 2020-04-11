@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: think-i-ll-go-somewhere-and-cry-myself-to-sleep-al-martino
+lyrics_url: https://genius.com/Al-martino-think-ill-go-somewhere-and-cry-myself-to-sleep-lyrics
 name: Think I'll Go Somewhere And Cry Myself To Sleep
 rankings:
 - end_date: '1966-03-18'
@@ -39,4 +40,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
 ---
+I just kissed the one I love for the last time
+And never have her soft lips been so sweet
+She's gone away and won't be back forever
+Think I'll go somewhere and cry myself to sleep
 
+I'll go somewhere and cry myself to sleep
+Not because I'm sad-because I'm weak
+I can't stand the thought of life alone without her
+Think I'll go somewhere and cry myself to sleep
+
+Just before she said "goodbye" she called me "darling"
+And slowly ran her fingers down my cheek
+I thought I'd die when she said she still loved me
+Think I'll go somewhere and cry myself to sleep
+
+I'll go somewhere and cry myself to sleep
+Not because I'm sad-because I'm weak
+I can't stand the thought of life alone without her
+Think I'll go somewhere and cry myself to sleep

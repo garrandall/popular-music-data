@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-love-graham-central-station
+lyrics_url: https://www.musixmatch.com/lyrics/Graham-Central-Station/Your-Love
 name: Your Love
 rankings:
 - end_date: '1975-08-15'
@@ -43,4 +44,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-10-04'
 ---
+Your love Means so much to me girl
+And your kiss, oh baby Means so much to me
+Your touch, your touch Your tender touch
 
+Everytime you leave You leave me wanting
+Everytime you leave You leave me wanting
+Everytime you leave You leave me wanting
+More and more and more and more and more
+
+If my love, if my love Means so much to you
+Then why, then why Then why love
+Do you do the things you do
+And my kiss
+
+Everytime you leave I leave you wanting
+Everytime you leave I leave you wanting
+Everytime you leave I leave you wanting
+More and more and more and more and more
+
+I'm talking bout Your love, love, love, love, love
+And what it means to me Your love, your love, your tender love
+And what it means to me And your kiss, your kiss, your kiss
+
+Everytime you leave You leave me wanting
+Everytime you leave You leave me wanting
+Everytime you leave You leave me wanting
+More and more and more and more

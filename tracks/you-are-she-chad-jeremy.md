@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: you-are-she-chad-jeremy
+lyrics_url: https://genius.com/Chad-and-jeremy-you-are-she-lyrics
 name: You Are She
 rankings:
 - end_date: '1966-10-14'
@@ -24,4 +25,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-29'
 ---
+Clyde-Stuart
 
+Somewhere in the shadows of my mind
+I know there is, I know there is
+A girl who waits for me
+Who only needs my touch to live
+And I am sure that you are she
+
+So walk to me and take me by the hand
+And lead me to, and lead me to
+The bright untarnished sea
+There give me love and share my dreams
+And then I'll know that you are she
+
+Don't even know the color of your hair
+But once I see you standing there
+I will know you instantly
+
+So if you're in the fields across the way
+And wond'ring if, and wond'ring if
+You dare come up to me
+Don't hesitate, don't be afraid
+For I will know that you are she

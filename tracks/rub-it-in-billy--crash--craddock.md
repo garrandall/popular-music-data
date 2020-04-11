@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rub-it-in-billy--crash--craddock
+lyrics_url: https://genius.com/Billy-crash-craddock-rub-it-in-lyrics
 name: Rub It In
 rankings:
 - end_date: '1974-07-05'
@@ -67,4 +68,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
 ---
+Lie beside me on the sand
+Put some lotion in your hand
+Come on and make me feel nice
+N' kiss me once or twice
+Say you love me again
 
+Then rub it in, rub it in
+Rub it in, rub it in
+I feel the tingle begin
+You're gettin' under my skin
+Rub it in, rub it in
+
+(Do it)
+Feels good
+(Do it)
+(Do it)
+Put a little bit on my left shoulder
+(Do it)
+
+Yeah
+(Do it)
+Put a little bit right here
+(Do it)
+Yeah
+(Do it)
+
+Turn your radio on
+And find a slow grooving song
+Baby, whisper in my ear
+Say the things I wanna hear
+Make me know your love is strong
+
+And rub it in, rub it in
+Rub it in, rub it in
+I feel the tingle begin
+You're gettin' under my skin
+Rub it in, rub it in
+
+Put a little on my nose
+Put a little on my toe
+Put it on my back and my sacroiliac
+And a dab on my chinny-chin-chin
+
+Rub it in, rub it in
+Rub it in, rub it in
+I feel the tingle begin
+You're gettin' under my skin
+Rub it in, rub it in
+
+Rub it in, rub it in
+Rub it in, rub it in
+I feel the tingle begin
+You gettin' under my skin
+Rub it in, rub it in

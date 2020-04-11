@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: talk-to-me-frank-sinatra
+lyrics_url: https://genius.com/Frank-sinatra-talk-to-me-lyrics
 name: Talk To Me
 rankings:
 - end_date: '1959-10-25'
@@ -51,4 +52,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-28'
 ---
-
+You're always in a great big hurry, grab a kiss and off you scurry
+Off to there, and there to who knows where
+I'd give the world and all creation for a little conversation
+Just a word or two, how are things, what's new?
+Please talk to me, talk to me, talk to me
+Your magical kiss can take me just so far
+Talk to me, talk to me, talk to me
+Don't leave me like this, dangling from a star
+You set me all aflame and it's so pleasin'
+It would be a shame if you were only teasin'
+So, my love, before I go, turn the light way down low
+And talk to me, talk to me, talk to me

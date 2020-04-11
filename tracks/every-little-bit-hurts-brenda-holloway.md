@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-little-bit-hurts-brenda-holloway
+lyrics_url: https://genius.com/Brenda-holloway-every-little-bit-hurts-lyrics
 name: Every Little Bit Hurts
 rankings:
 - end_date: '1964-05-08'
@@ -47,4 +48,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-04'
 ---
+Every little bit hurts
+Every little bit hurts
 
+
+Every night I cry
+Every night I sigh
+Every night I wonder why
+You treat me cold
+Yet you won't let me go
+
+
+Every little hurt counts
+Every little hurt counts
+
+
+You say you're coming home
+Yet you never phone
+Leave me all alone
+My love is strong for you
+I'd do wrong for you
+
+
+I can't take this
+Loneliness you've given me
+I can't go on
+Giving my life away
+
+
+Oh, come back to me
+Darling, you'll see
+I can give you all the
+Things that you wanted before
+If you will stay with me, yeah
+
+
+Every little bit hurts
+Every little bit hurts
+
+
+To you, I'm a toy
+And you're the boy
+Who has to say
+When I should play
+Yet you hurt me, desert me
+
+
+Come back to me
+Darling, you'll see
+I can give you all the
+Things that you wanted before
+If you will stay with me, yeah
+
+
+Every little bit hurts
+Every little bit hurts
+Every little bit hurts
+Every little bit hurts

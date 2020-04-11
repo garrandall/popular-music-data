@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-turn-to-you-christina-aguilera
+lyrics_url: https://genius.com/Christina-aguilera-i-turn-to-you-lyrics
 name: I Turn To You
 rankings:
 - end_date: '2000-04-21'
@@ -95,4 +96,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-09-09'
 ---
+When I'm lost in the rain
+In your eyes I know I'll find the light
+To light my way
+And when I'm scared
+And losing ground
+When my world is going crazy
+You can turn it all around
+And when I'm down you're there
+Pushing me to the top
+You're always there
+Giving me all you've got
 
+
+For a shield from the storm
+For a friend, for a love
+To keep me safe and warm
+I turn to you
+For the strength to be strong
+For the will to carry on
+For everything you do
+For everything that's true
+I turn to you
+
+
+When I lose the will to win
+I just reach for you and
+I can reach the sky again
+I can do anything
+'Cause your love is so amazing
+'Cause your love inspires me
+And when I need a friend
+You're always on my side
+Giving me faith
+Taking me through the night
+
+
+For a shield from the storm
+For a friend, for a love
+To keep me safe and warm
+I turn to you
+For the strength to be strong
+For the will to carry on
+For everything you do
+I turn to you
+
+
+For the arms to be my shelter
+Through all the rain
+For truth that will never change
+For someone to lean on
+For a heart I can rely on through anything
+For that one who I can run to...
+
+
+For a shield from the storm
+For a friend, for a love
+To keep me safe and warm
+I turn to you
+For the strength to be strong
+For the will to carry on
+For everything you do
+For everything that's true
+I turn to you
+
+
+For everything you do
+For everything that's true
+I turn to you

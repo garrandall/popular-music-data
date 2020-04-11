@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: linda-on-my-mind-conway-twitty
+lyrics_url: https://genius.com/Conway-twitty-linda-on-my-mind-lyrics
 name: Linda On My Mind
 rankings:
 - end_date: '1975-02-28'
@@ -39,4 +40,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-04-12'
 ---
+Now I'm lying here with Linda on my mind
+And next to me, my soon-to-be, the one I left behind
+And Lord it's killing me to see her cry
+She knows I'm lying here beside her with Linda on my mind
 
+
+Yes I know that I once loved her
+And I placed no one above her
+And I never thought I'd ever set her free
+But it just wasn't in my plans
+The way that Linda squeezed my hand
+The first time that I held her close
+As she danced with me
+
+
+She said, "I've loved you for a long time
+But you're married to a friend of mine
+And I've tried hard to never let it show
+But my love for you is stronger
+I can't hide it any longer"
+And so I thought I'd better let you know
+
+
+Now I'm lying here with Linda on my mind
+And next to me, my soon-to-be, the one I left behind
+And Lord it's killing me to see her cry
+She knows I'm lying here beside her with Linda on my mind

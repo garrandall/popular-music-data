@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-boy-without-a-girl-frankie-avalon
+lyrics_url: https://genius.com/Frankie-avalon-a-boy-without-a-girl-lyrics
 name: A Boy Without A Girl
 rankings:
 - end_date: '1959-05-31'
@@ -63,4 +64,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-08-24'
 ---
+A boy without a girl
+Is a song without a tune
+Is a year without a June
+My love
 
+A boy without a girl
+Is a day without a night
+Is a star without a light
+My love
+
+And since you've come to me
+All the world has come to shine
+Cause I've found girl
+Who's really mine
+
+And if you stay with me
+All your life you'll never be
+A girl without a boy
+My love
+
+My love, my love
+
+And since you've come to me
+All the world has come to shine
+Cause I've found girl
+Who's really mine
+
+And if you stay with me
+All your life you'll never be
+A girl without a boy
+My love
+
+My love, my love
+My love, my love

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-a-heartbreaker-gene-pitney
+lyrics_url: https://genius.com/Gene-pitney-shes-a-heartbreaker-lyrics
 name: She's A Heartbreaker
 rankings:
 - end_date: '1968-05-17'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-08-03'
 ---
+I've got another heartbreaker on my hands
+Girl, I can't stand up to you and be a normal man
+My heart can't take it, I'm fallin' in love with you
+You'll trap me into doin' things I wouldn't ordinarily do
+You're dynamite, you've got me uptight
+The way you sock it to me, girl, you're outta sight
 
+Heartbreaker, heartbreaker
+Heartbreaker, heartbreaker
+
+She's a heartbreaker and all my buddies know
+She makes me feel like a king behind closed doors
+When we're out on a date and none of it shows
+She makes me feel like the lowest man on the totem pole
+She's dynamite, she's got me uptight
+The way you sock it to me, girl, you're outta sight
+
+Heartbreaker, heartbreaker
+Heartbreaker, heartbreaker
+
+What a heartbreaker, the devil on wheels
+Whatever you got, you sure make me feel real
+I'll keep on hangin' out, hangin' in as long as I can
+I can't help myself, here I go again
+You're dynamite, you've got me uptight
+The way you sock it to me, girl, you're outta sight
+
+Heartbreaker, heartbreaker
+Heartbreaker, heartbreaker
+
+Heartbreaker, heartbreaker
+Heartbreaker, heartbreaker
+My heartbreaker, heartbreaker
+Oh heartbreaker, heartbreaker

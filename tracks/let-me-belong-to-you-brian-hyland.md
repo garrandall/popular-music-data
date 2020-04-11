@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-belong-to-you-brian-hyland
+lyrics_url: https://genius.com/Brian-hyland-let-me-belong-to-you-lyrics
 name: Let Me Belong To You
 rankings:
 - end_date: '1961-08-13'
@@ -51,4 +52,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-16'
 ---
+Make me your slave
+Tie me down, make me behave
+Let me belong to you
 
+Make me be true
+Tell me what I can do
+Let me belong to you
+
+I don't wanna be free
+Like a wave on the sea
+No place special to go
+But toss to and fro
+
+Oh make me your own
+Never never leave me alone
+Make all my dreams come true
+Let me belong to you
+
+(Spoken)
+Make me your slave
+Tie me down, make me behave
+Let me belong to you
+
+I don't wanna be free
+Like a wave on the sea
+No place special to go
+But toss to and fro
+
+Oh make me your own
+Never never leave me alone
+Make all my dreams come true
+Let me belong to you

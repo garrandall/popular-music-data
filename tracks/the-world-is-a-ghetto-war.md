@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-world-is-a-ghetto-war
+lyrics_url: https://genius.com/War-the-world-is-a-ghetto-lyrics
 name: The World Is A Ghetto
 rankings:
 - end_date: '1972-11-24'
@@ -71,4 +72,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-03-03'
 ---
+Walkin' down the street, smoggy-eyed
+Looking at the sky, starry-eyed
+Searchin' for the place, weary-eyed
+Crying in the night, teary-eyed
 
+ x2
+Don't you know that it's true
+That for me and for you
+The world is a ghetto
+
+
+Wonder when I'll find paradise
+Somewhere there's a home sweet and nice
+Wonder if I'll find happiness
+Never give it up now I guess
+
+ x2
+
+
+There's no need to search anywhere
+Happiness is here, have your share
+If you know you're loved, be secure
+Paradise is love to be sure
+
+ x4

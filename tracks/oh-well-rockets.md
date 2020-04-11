@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh-well-rockets
+lyrics_url: https://genius.com/Rockets-detroit-oh-well-lyrics
 name: Oh Well
 rankings:
 - end_date: '1979-07-13'
@@ -59,4 +60,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-09-29'
 ---
+I can't help about the shape I'm in
+I can't sing, I ain't pretty and my legs are thin
+Don't ask me what I think of you
+I might not give the answers that you want me to
 
+Oh, well
+
+When I talked to God, I knew he'd understand
+He said, "Stick by me, I'll be your guiding hand
+But don't ask me what I think of you
+I might not give the answers that you want me to"
+
+Oh, well

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-go-to-strangers-etta-jones
+lyrics_url: https://genius.com/Etta-jones-dont-go-to-strangers-lyrics
 name: Don't Go To Strangers
 rankings:
 - end_date: '1960-11-13'
@@ -35,4 +36,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-19'
 ---
+Build your dreams to the stars above
+But when you need someone true to love
+Don't go to strangers, darling, come on to me
 
+
+Play with fire 'til your fingers burn
+And when there's no place for you to turn
+Don't go to strangers, darling, come on to me
+
+
+For when you hear a call to follow your heart
+You follow your heart, I know
+I've been through it all and I'm an old hand
+And I'll understand if you go
+
+
+So make your mark for your friends to see
+But when you need more than company
+Don't go to strangers, come on to me
+
+
+
+
+Make your mark for your friends to see
+But when you need more than company
+Don't go to strangers, darling, come on to me

@@ -161,7 +161,7 @@ Don't let me tell ya, twice, already told ya, once
 (Eat that pussy)
 Who-who-who-who-who got that baddest pussy on the planet?
 D-boys love me, they don't understand it
-Ohhhhh, deep throat {Rich Girl}
+Ohhhhh, deep throat
 M-m-m-m-million dollar pussy might pounce on that ass
 Threw them hundreds 'til I lose counts on that ass
 Max out all of them accounts on that ass

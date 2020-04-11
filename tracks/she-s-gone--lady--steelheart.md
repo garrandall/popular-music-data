@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-gone--lady--steelheart
+lyrics_url: https://genius.com/Steelheart-shes-gone-lyrics
 name: She's Gone (Lady)
 rankings:
 - end_date: '1991-09-06'
@@ -39,4 +40,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-10-19'
 ---
+She's gone
+Out of my life
+I was wrong
+I'm to blame
+I was so untrue
+I can't live without her love
+In my life
+There's just an empty space
+All my dreams are lost
+I'm wasting away
+Forgive me, girl
 
+
+Lady, won't you save me?
+My heart belongs to you
+Lady, can you forgive me?
+For all I've done to you
+Lady, oh, lady
+
+
+She's gone
+Out of my life
+Oh, she's gone
+I find it so hard to go on
+I really miss that girl, my love
+Come back into my arms
+I'm so alone
+I'm begging you
+I'm down on my knees
+Forgive me, girl
+
+
+Lady, won't you save me?
+My heart belongs to you
+Lady, can you forgive me?
+For all I've done to you
+Lady, oh lady, oh lady
+
+
+
+
+Oh, lady, won't you save me?
+My heart belongs to you
+Lady, can you forgive me?
+For all I've done to you
+Lady, oh, lady
+My heart belongs to you
+Lady, can you forgive me?
+For all I've done to you

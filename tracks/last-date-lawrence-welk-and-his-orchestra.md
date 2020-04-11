@@ -1,6 +1,6 @@
 ---
 artists:
-- Lawrence Welk And His Orchestra
+- Lawrence Welk
 features: []
 genres: []
 key: last-date-lawrence-welk-and-his-orchestra

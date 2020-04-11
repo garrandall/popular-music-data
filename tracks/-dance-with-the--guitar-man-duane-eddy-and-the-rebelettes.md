@@ -1,7 +1,8 @@
 ---
 artists:
-- Duane Eddy and the Rebelettes
-features: []
+- Duane Eddy
+features:
+- The Blossoms
 genres: []
 key: -dance-with-the--guitar-man-duane-eddy-and-the-rebelettes
 name: (Dance With The) Guitar Man

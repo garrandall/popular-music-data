@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-there-lonely-boy-ruby-and-the-romantics
+lyrics_url: https://genius.com/Ruby-and-the-romantics-hey-there-lonely-boy-lyrics
 name: Hey There Lonely Boy
 rankings:
 - end_date: '1963-08-16'
@@ -43,4 +44,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-05'
 ---
+Hey there, lonely boy, lonely boy
+Let me make your broken heart like new
+Oh, my lonely boy, lonely boy
+Don't you know this lonely girl loves you?
 
+Every since she broke your heart
+You seem so lost each time you pass my way
+Oh, how I long to take your hand
+And say "Don't cry, I'll kiss your tears away"
+
+Hey there, lonely boy (lonely boy), lonely boy (lonely boy)
+Let me make your broken heart like new
+Oh, my lonely boy (lonely boy), lonely boy (lonely boy)
+Don't you know this lonely girl loves you?
+
+You think that only her two lips
+Can kiss your lips and make your heart stand still
+But once you're in my arms you'll see
+No one can kiss your lips the way I will
+
+Hey there, lonely boy (lonely boy), lonely boy (lonely boy)
+Let me make your broken heart like new
+Oh, my lonely boy (lonely boy), lonely boy (lonely boy)
+Don't you know this lonely girl loves you?
+
+Hey there, lonely boy (lonely boy)
+Lonely boy (lonely boy)
+Let me make your broken heart like new
+Hey there, lonely boy (lonely boy)
+Lonely boy (lonely boy)
+Don't you know this lonely girl loves you?
+
+Oh, my lonely boy (lonely boy), lonely boy (lonely boy)
+Let me make your broken heart like new
+
+My lonely boy (lonely boy), lonely boy

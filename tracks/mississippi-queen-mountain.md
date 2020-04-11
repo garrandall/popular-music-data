@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mississippi-queen-mountain
+lyrics_url: https://genius.com/Mountain-mississippi-queen-lyrics
 name: Mississippi Queen
 rankings:
 - end_date: '1970-04-10'
@@ -75,4 +76,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-08'
 ---
+Mississippi queen
+If you know what I mean
+Mississippi queen
+She taught me everything
 
+
+Way down around Vicksburg, around Louisiana way
+There lived the Cajun lady aboard the Mississippi Queen
+You know she was a dancer, she moved better on wine
+
+
+While the rest of them dudes were getting their kicks
+Boy, I beg your pardon, I was getting mine
+
+
+Mississippi queen
+If you know what I mean
+Mississippi queen
+She taught me everything
+
+
+This lady she asked me if I would be her man
+You know that I told her I'd do what I can
+To keep her looking pretty, buy her dresses that shine
+
+
+While the rest of them dudes were making their friends
+Boy, I beg your pardon, I was losing mine
+
+
+
+
+You know she was a dancer, she moved better on wine
+While the rest of them dudes were getting their kicks
+Boy, I beg your pardon, I was getting mine
+
+
+Oh, Mississippi Queen

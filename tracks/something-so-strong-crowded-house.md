@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: something-so-strong-crowded-house
+lyrics_url: https://genius.com/Crowded-house-something-so-strong-lyrics
 name: Something So Strong
 rankings:
 - end_date: '1987-05-08'
@@ -91,4 +92,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-09-19'
 ---
+Love can make you weep
+Can make you run for cover
+Roots that spread so deep
+Bring life to frozen ground
 
+Something so strong
+Could carry us away
+Something so strong
+Could carry us today
+
+Turning in my sleep
+Love can leave you cold
+A taste of jealousy
+Is like a lust for gold
+
+Something so strong
+Could carry us away
+Something so strong
+Could carry us today
+
+I've been
+Feeling so much older
+Frame me
+And hang me on the wall
+I've seen
+You fall into the same trap
+This thing
+Is happening to us all
+
+Something so strong
+Could carry us away
+Something so strong
+Could carry us today
+
+Something so strong
+Something so strong
+Something so strong
+Something, something so strong

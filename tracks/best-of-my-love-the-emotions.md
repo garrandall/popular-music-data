@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: best-of-my-love-the-emotions
+lyrics_url: https://genius.com/The-emotions-best-of-my-love-lyrics
 name: Best Of My Love
 rankings:
 - end_date: '1977-06-17'
@@ -99,4 +100,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-12'
 ---
+Doesn't take much to make me happy
+And make me smile with glee
+Never never will I feel discouraged
+Cause our love's no mystery
+Demonstrating love and affection
+That you give so openly yeah
+I like the way you make me feel about you baby
+Want the whole wide world to see
 
+
+Whoa whoa, you got the best of my love
+Whoa whoa, you got the best of my love
+Whoa whoa, you got the best of my love
+Whoa whoa, you got the best of my love
+
+
+Goin' in and out of changes
+The kind that come around each day
+My life has a better meaning
+Love has kissed me in a beautiful way
+
+
+And oh yea (my love, my love)
+Oh yea (my love, my love)
+
+
+Oh, you got the best of my love
+Whoa whoa, you got the best of my love
+Whoa whoa, you got the best of my love
+Whoa whoa, you got the best of my love
+
+
+Demonstrating sweet love and affection
+That you give so openly yeah
+The way I feel about you baby can't explain it
+Want the whole wide world to see
+
+Oh, but in my heart
+You're all I need
+You for me and me for you (my love, my love)
+Oh, it's growin' every day, oh (my love, my love)
+
+
+Oh, oh oh oh oh oh
+You've got the best of my love
+Oh, oh oh oh oh oh
+You've got the best of my love
+Oh, givin' you the best of my love
+My love, my love, my love
+Oh, givin' you the best of my love
+My love, my love, oh yeah
+Oh, oh oh oh oh oh
+You've got the best of my love
+Oh, oh oh oh oh oh
+You've got the best of my love
+Oh, givin' you the best of my love
+Oh, givin' you the best of my love

@@ -92,13 +92,13 @@ rankings:
 
 
 (Blaze up)
-{Oh yeah}
+
 World wide, west side
 Yo
 Mack 10 with Tha Dogg Pound
-Yeah, and the hits don't stop {Sucka}
-{Nothin but the cavi}
-Hey, Daz {Sup}
+Yeah, and the hits don't stop
+
+Hey, Daz
 Check this out, dog
 
 
@@ -140,11 +140,11 @@ I'm about to get the pump to pumpin and start dumpin on somethin
 
 Fuck you over there
 (Party over here)
-{And if you wanna trip, we got the straps near}
+
 
 Cause niggas like us do platnium every year
 (And if I ruled this sphere)
-{Your shit'd disappear}
+
 
 Now everybody in the house, throw your dubs in the air
 And wave em all around like ya just don't care

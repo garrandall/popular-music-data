@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-might-be-you-stephen-bishop
+lyrics_url: https://genius.com/Stephen-bishop-it-might-be-you-lyrics
 name: It Might Be You
 rankings:
 - end_date: '1983-02-04'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-06-11'
 ---
+Time...
+I've been passing time watching trains go by
+All of my life
+Lying on the sand watching sea birds fly
+Wishing there would be
+Someone waiting home for me
+Something's telling me it might be you
+It's telling me it might be you
+All of my life
 
+Looking back as lovers go walking past
+All of my life
+Wondering how they met and what makes it last
+If I found the place
+Would I recognize the face
+Something's telling me it might be you
+Yeah, it's telling me it might be you
+
+So many quiet walks to take
+So many dreams to make
+And with so much love to make
+I think we're gonna meet some time
+Maybe all we need is time...
+And it's telling me it might be you
+All of my life
+
+I've been saving love songs and lullabies
+And there's so much more
+No one's ever heard before
+Something's telling me it might be you
+Yeah, it's telling me it must be you
+And I'm feeling it'll just be you all of my life
+
+It's you, It's you
+I've been waiting for all of my life
+Maybe it's you (It's you), maybe it's you (It's you)
+I've been waiting for you all of my life
+Maybe it's you, maybe it's you
+I've been waiting for all of my life

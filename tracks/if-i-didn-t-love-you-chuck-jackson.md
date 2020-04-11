@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-didn-t-love-you-chuck-jackson
+lyrics_url: https://genius.com/Chuck-jackson-if-i-didnt-love-you-lyrics
 name: If I Didn't Love You
 rankings:
 - end_date: '1965-08-13'
@@ -35,4 +36,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-18'
 ---
+You asked me, do I love you?
+That's a silly question...
+Listen
 
+If I didn't love you
+Would I call every day?
+If I didn't love you
+Would I act this way?
+So why do you ask:
+Do I really love you?
+When it's really so clear
+Even strangers can see that I do...
+(If I didn't love you, love you.)
+
+If I didn't love you
+Would I worry so?
+Each and every moon
+When you come and you go?
+So just ask yourself:
+Would I waste my time?
+If I didn't love you
+Would I hope and pray
+You'd be mine..?
+(If I didn't love you, love you.)
+
+Oh baby, mmm honey
+Oh, mmm, ooo baby
+I've got to have you, honey
+
+If I didn't love you
+Would I miss you this much?
+Put heart and soul to rot
+Just for your touch?
+Would I be a sling
+And a fool for your charm?
+If I didn't love you
+Would I be right here in your arms?
+(if I didn't love you, love you)
+
+Baby, if I didn't love you (if I didn't love you, love you)
+Sweety, if I didn't love you (if I didn't love you, love you)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-no-good-depeche-mode
+lyrics_url: https://genius.com/Depeche-mode-its-no-good-lyrics
 name: It's No Good
 rankings:
 - end_date: '1997-05-23'
@@ -87,4 +88,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-09-27'
 ---
+I'm gonna take my time
+I have all the time in the world
+To make you mine
+It is written in the stars above
+The gods decree
+You'll be right here by my side
+Right next to me
+You can run but you cannot hide
 
+
+Don't say you want me
+Don't say you need me
+Don't say you love me
+It's understood
+Don't say you're happy
+Out there without me
+I know you can't be
+'Cause it's no good
+
+
+I'll be fine
+I'll be waiting patiently
+Till you see the signs
+And come running to my open arms
+When will you realise?
+Do we have to wait till our worlds collide?
+Open up your eyes
+You can't turn back the tide
+
+
+Don't say you want me
+Don't say you need me
+Don't say you love me
+It's understood
+Don't say you're happy
+Out there without me
+I know you can't be
+'Cause it's no good
+
+
+
+
+I'm going to take my time
+I have all the time in the world
+To make you mine
+It is written in the stars above
+
+
+Don't say you want me
+Don't say you need me
+Don't say you love me
+It's understood
+Don't say you're happy
+Out there without me
+I know you can't be
+'Cause it's no good
+Don't say you want me
+Don't say you need me
+Don't say you love me
+It's understood
+Don't say you're happy
+Out there without me
+I know you can't be
+'Cause it's no good

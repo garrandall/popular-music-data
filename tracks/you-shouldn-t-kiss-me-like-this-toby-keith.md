@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-shouldn-t-kiss-me-like-this-toby-keith
+lyrics_url: https://genius.com/Toby-keith-you-shouldnt-kiss-me-like-this-lyrics
 name: You Shouldn't Kiss Me Like This
 rankings:
 - end_date: '2001-01-05'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-05-12'
 ---
+I got a funny feelin'
+The moment that your lips touched mine
+Somethin' shot right through me
+My heart skipped a beat in time
+There's a different feel about you tonight
+It's got me thinkin' lots of crazy things
+I even think I saw a flash of light
+It felt like electricity
 
+
+You shouldn't kiss me like this, unless you mean it like that
+'Cause I'll just close my eyes and I won't know where I'm at
+We'll get lost on this dance floor, spinnin' around
+And around and around and around
+They're all watchin' us now, they think we're fallin' in love
+They'd never believe we're just friends
+When you kiss me like this, I think you mean it like that
+If you do baby kiss me again
+
+
+Everybody swears we make the perfect pair
+But dancin' is as far as it goes
+Girl you've never moved me quite
+Quite the way you moved me tonight
+I just wanted you to know
+I just wanted you to know
+
+
+You shouldn't kiss me like this, unless you mean it like that
+'Cause I'll just close my eyes and I won't know where I'm at
+And we'll get lost on this dance floor, spinnin' around
+And around and around and around
+They're all watchin' us now, they think we're fallin' in love
+They'd never believe we're just friends
+When you kiss me like this, I think you mean it like that
+If you do baby kiss me again

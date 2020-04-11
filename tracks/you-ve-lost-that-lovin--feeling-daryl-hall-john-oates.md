@@ -1,6 +1,6 @@
 ---
 artists:
-- Daryl Hall John Oates
+- Hall & Oates
 features: []
 genres: []
 key: you-ve-lost-that-lovin--feeling-daryl-hall-john-oates

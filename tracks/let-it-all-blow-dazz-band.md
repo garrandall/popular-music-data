@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-it-all-blow-dazz-band
+lyrics_url: https://genius.com/Dazz-band-let-it-all-blow-lyrics
 name: Let It All Blow
 rankings:
 - end_date: '1984-12-07'
@@ -35,4 +36,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-01-12'
 ---
+Let let let
+Let it all blow
 
+Heave-ho, heave-ho
+Let it all blow
+Heave-ho, heave-ho
+Let it all blow blow
+
+Let it all blow
+Oh no
+
+Heave-ho, heave-ho
+Let it all blow
+Heave-ho, heave-ho
+Let it all blow blow
+
+Let let let
+Let it all blow
+Down, down, down, down, down
+Let it all blow
+Blow down
+
+Let let let let
+Let it all blow
+Oh boy
+
+Heave-ho, heave-ho
+Let it all blow
+Heave-ho, heave-ho
+Let it all
+
+Let let let
+Let it all blow
+Down, down, down, down, down
+Let it all blow
+Blow down
+
+Let it all blow
+
+Let let let let
+Let it all blow
+
+Oh no
+
+Let let
+Let it all blow

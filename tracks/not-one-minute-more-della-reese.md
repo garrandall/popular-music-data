@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: not-one-minute-more-della-reese
+lyrics_url: https://genius.com/Della-reese-not-one-minute-more-lyrics
 name: Not One Minute More
 rankings:
 - end_date: '1959-12-20'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
 ---
-
+Not One Minute More
+Della Reese
+(Robertson-Blair-Dinning)
+I'll only love you
+As long as the sea
+Rolls on endlessly
+To the shore
+I'll love you til then
+Not one minute more
+I'll only love you
+Til there's only night
+And the sun
+The sun gives no light as before
+I'm gonna love you til then
+Not one minute more
+I'm yours, heart and soul, I'm yours
+And all that I'll ever possess
+But if you should say to me
+Will you always be
+I'll just have to confess
+I'll only love you
+As long as the beat
+The beat of my heart
+Can repeat still once more
+I'll love you til then
+Not one minute more
+I know I can love you til then
+Not one minute more
+Above, and are for personal use and research interest only

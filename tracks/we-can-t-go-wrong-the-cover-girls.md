@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-can-t-go-wrong-the-cover-girls
+lyrics_url: https://genius.com/The-cover-girls-we-cant-go-wrong-lyrics
 name: We Can't Go Wrong
 rankings:
 - end_date: '1989-12-15'
@@ -83,4 +84,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-04-14'
 ---
+For so long
+I kept these feelings for you locked up inside
+And there were nights that
+I would cry myself to sleep and wonder why
 
+Now I don't wanna tell you how to live
+Don't wanna put the blame
+But don't you think
+It's time for you and I
+To try to make a change
+
+
+We can't go wrong
+(Loving one another)
+We can't go wrong
+(Caring for each other)
+
+We can't go wrong
+If the love we have is real
+We can't go wrong
+
+
+There was a time when things were better
+Than the way they are today
+But we forgot the vows we made
+And love got lost along the way
+
+Now I can tell just by the way
+You look at me that you feel the same
+So don't you think it's time for
+You and I to try to make a change
+
+
+
+We can't go wrong
+We can't go wrong
+We can't go wrong
+We can't go wrong
+
+We can't go wrong
+We can't go wrong
+If the love we have is real

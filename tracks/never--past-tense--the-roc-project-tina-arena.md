@@ -5,6 +5,7 @@ features:
 - Tina Arena
 genres: []
 key: never--past-tense--the-roc-project-tina-arena
+lyrics_url: https://genius.com/The-roc-project-and-tina-arena-never-lyrics
 name: Never (Past Tense)
 rankings:
 - end_date: '2003-08-29'
@@ -28,4 +29,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-12-13'
 ---
-
+I can't be with you again
+Don't remind me of the good times we had
+Learned a lot from us since then
+And I never want these feelings to ever come again
+You'll never hear me crying
+You'll never see my trying
+To love you once again
+Your love is so past tense
+Please don't tell me that you've changed
+Don't wanna hear of how you've lost your evil ways
+A lot has changed, this time it's me
+And I won't go back to feeling helpless and deceived
+You'll never hear me crying
+You'll never see my trying
+To love you once again
+Your love is so past tense
+You'll never hear me crying
+You'll never see my trying
+To love you once again
+Your love is so past tense
+To think that you had me fooled every now and then
+You had me believing that I was the reason that you left
+But I won't fall back in love with you again
+I don't even wanna be your friend
+You'll never hear me crying
+You'll never see my trying
+To love you once again
+Your love is so past tense
+You'll never hear me crying
+You'll never see my trying
+To love you once again
+Your love is so past tense

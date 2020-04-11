@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-ain-t-got-you-alicia-keys
+lyrics_url: https://genius.com/Alicia-keys-if-i-aint-got-you-lyrics
 name: If I Ain't Got You
 rankings:
 - end_date: '2004-03-12'
@@ -167,4 +168,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-12-04'
 ---
+Some people live for the fortune
+Some people live just for the fame
+Some people live for the power, yeah
+Some people live just to play the game
+Some people think
+That the physical things
+Define what's within
+And I've been there before
+And that life's a bore
+So full of the superficial
 
+
+Some people want it all
+But I don't want nothing at all
+If it ain't you, baby
+If I ain't got you, baby
+Some people want diamond rings
+Some just want everything
+But everything means nothing
+If I ain't got you, yeah
+
+
+Some people search for a fountain
+That promises forever young
+Some people need three dozen roses
+And that's the only way to prove you love them
+Hand me the world on a silver platter
+And what good would it be
+With no one to share
+With no one who truly cares for me
+
+
+Some people want it all
+But I don't want nothing at all
+If it ain't you, baby
+If I ain't got you, baby
+Some people want diamond rings
+Some just want everything
+But everything means nothing
+If I ain't got you, you, you
+Some people want it all
+But I don't want nothing at all
+If it ain't you, baby
+If I ain't got you, baby
+Some people want diamond rings
+Some just want everything
+But everything means nothing
+If I ain't got you, yeah
+
+
+If I ain't got you with me, baby, oh, ooh
+Said nothing in this whole wide world don't mean a thing
+If I ain't got you with me, baby

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lotta-love-nicolette-larson
+lyrics_url: https://genius.com/Nicolette-larson-lotta-love-lyrics
 name: Lotta Love
 rankings:
 - end_date: '1978-12-01'
@@ -83,4 +84,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-31'
 ---
+It's gonna take a lotta love
+To change the way things are
+It's gonna take a lotta love
+Or we won't get too far
 
+So if you look in my direction
+And we don't see eye to eye
+My heart needs protection
+And so do I
+
+It's gonna take a lotta love
+To get us through the night
+It's gonna take a lotta love
+To make things work out right
+
+So if you are out there waiting
+I hope you show up soon
+You know
+I need relating not solitude
+
+Gotta lotta love
+Gotta lotta love
+
+It's gonna take a lotta love
+To change the way things are
+It's gonna take a lotta love
+Or we won`t get too far
+
+It's gonna take a lotta love
+It's gonna take a lotta love
+It's gonna take a lotta love

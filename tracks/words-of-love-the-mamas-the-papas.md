@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: words-of-love-the-mamas-the-papas
+lyrics_url: https://genius.com/The-mamas-and-the-papas-words-of-love-lyrics
 name: Words Of Love
 rankings:
 - end_date: '1966-12-09'
@@ -56,4 +57,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
 ---
+Words of love, so soft and tender
+Won't win a girl's heart anymore
+If you love her then you must send her
+Somewhere where she's never been before
+Worn out phrases and longin' gazes
+Won't get you where you want to go, no
+Words of love, soft and tender
+Won't win her
 
+You oughta know by now
+You oughta know, you oughta know by now
+
+Words of love, soft and tender
+Won't win her anymore
+
+You oughta know by now
+You oughta know, you oughta know by now
+
+Words of love, soft and tender
+Won't win a girl's heart anymore
+If you love her then you must send her
+Somewhere where she's never been before
+Worn out phrases and longin' gazes
+Won't get you where you want to go
+
+Words of love, soft and tender
+Won't win her anymore, anymore

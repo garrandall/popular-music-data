@@ -1,7 +1,6 @@
 ---
 artists:
 - Hugo Montenegro
-- His Orchestra And Chorus
 features: []
 genres: []
 key: hang--em-high-hugo-montenegro-his-orchestra-and-chorus

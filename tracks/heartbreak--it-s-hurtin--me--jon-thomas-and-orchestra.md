@@ -1,6 +1,6 @@
 ---
 artists:
-- Jon Thomas and Orchestra
+- Jon Thomas
 features: []
 genres: []
 key: heartbreak--it-s-hurtin--me--jon-thomas-and-orchestra

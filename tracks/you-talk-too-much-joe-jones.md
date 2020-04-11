@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-talk-too-much-joe-jones
+lyrics_url: https://genius.com/Joe-jones-you-talk-too-much-lyrics
 name: You Talk Too Much
 rankings:
 - end_date: '1960-09-25'
@@ -59,4 +60,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-12'
 ---
+You talk too much
+You worry me to death
+You talk too much
+You even worry my pet
 
+You just talk
+Talk too much
+
+You talk about people
+That you don't know
+You talk about people
+Wherever you go
+
+You just talk
+Talk too much
+
+You talk about people
+That you've never seen
+You talk about people
+You can make me scream
+
+You just talk
+You talk too much
+
+You talk too much
+You worry me to death
+You talk too much
+You even worry my pet
+
+You just talk
+Talk too much
+
+You talk about people
+That you don't know
+You talk about people
+Wherever you go
+
+You just talk
+Talk too much
+
+You talk about people
+That you've never seen
+You talk about people
+You can make me scream
+
+You just talk
+Talk too much

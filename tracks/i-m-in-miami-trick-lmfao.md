@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-in-miami-trick-lmfao
+lyrics_url: https://genius.com/Lmfao-im-in-miami-trick-radio-edit-lyrics
 name: I'm In Miami Trick
 rankings:
 - end_date: '2009-03-27'
@@ -87,4 +88,101 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-10-24'
 ---
+When I step on the scene
+Y'all know me
+'Cause I walk with a limp
+Like a old school pimp, like a real O.G
+I'm rocking vans
+I'm in the sand
+I've a got a red bull and vodka up in my hand
 
+
+Hey!
+You look kind of cute
+In that polka dot bikini, guuurl
+Hey!
+This what I wanna do (what)
+Take off that polka dot bikini, guuuurl
+Drink all day
+Play all night
+Let's get it poppin'
+I'm in Miami trick
+Drink all day
+Play all night
+Let's get it poppin'
+I'm in Miami Trick
+
+Everybody on smash (smash)
+Hands in the air (air)
+I'm feelin on her ass (ass)
+Like a nigga don't care (like a nigga don't care)
+I've gotta a plan
+What's your cell
+We playing naked twister back in my hotel
+
+
+Hey!
+You look kind of cute
+In that polka dot bikini, guuurl
+Hey!
+This what I wanna do (what)
+Take off that polka dot bikini, guuuurl
+Drink all day
+Play all night
+Let's get it poppin'
+I'm in Miami trick
+Drink all day
+Play all night
+Let's get it poppin'
+I'm in Miami Trick
+
+Getch yo hands up
+Put that ass up
+
+Getch yo hands up
+I'm in Miami trick
+Put put that ass up
+I'm in Miami trick
+Getch yo getch yo getch yo getch yo hands up
+Put that put that put that put that ass up
+Getch yo getch yo getch yo getch yo hands up
+Put that put that put that put that ass up
+Getch yo getch getch yo hands
+Put put put put that ass up
+Put that ass up put that ass up
+I'm in Miami trick
+Ooooh, ooh ooh ooh ooh
+
+It's mornin' time and the girls are still there
+They lying naked with them asses in the air
+Anna wants it bad she's got some big kahunas
+But I say I'll be back gotta get some more coronas
+Get your hands up
+Put that ass up
+Get your hands up
+I'm in Miami trick
+Put put that ass up
+I'm in Miami trick
+Get yo get yo get yo get yo hands up
+Put that put that put that put that ass up
+Get yo get yo get yo get yo hands up
+Put that put that put that put that ass up
+Get yo get get yo hands
+Put put put put that ass up
+Put that ass up put that ass up
+
+
+Hey!
+You look kind of cute
+In that polka dot bikini, guuurl
+Hey!
+This what I wanna do (what)
+Take off that polka dot bikini, guuuurl
+Drink all day
+Play all night
+Let's get it poppin'
+I'm in Miami trick
+Drink all day
+Play all night
+Let's get it poppin'
+I'm in Miami Trick

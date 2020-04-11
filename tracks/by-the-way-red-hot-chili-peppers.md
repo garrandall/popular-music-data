@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: by-the-way-red-hot-chili-peppers
+lyrics_url: https://genius.com/Red-hot-chili-peppers-by-the-way-lyrics
 name: By The Way
 rankings:
 - end_date: '2002-06-21'
@@ -87,4 +88,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-10-26'
 ---
+Standing in line to see the show tonight
+And there's a light on, heavy glow
+By the way, I tried to say
+I'd be there waiting for
+Dani, the girl, is singing songs to me
+Beneath the marquee, overload
 
+
+Steak knife, card shark
+Con job, boot cut
+Skin that flick, she's such a little DJ
+To get there quick by street but not the freeway
+Turn that trick to make a little leeway
+Beat that nic, but not the way that we play
+Dogtown, blood bath
+Rib cage, soft tail
+
+
+Standing in line to see the show tonight
+And there's a light on, heavy glow
+By the way, I tried to say
+I'd be there waiting for
+
+
+Black jack, dope dick
+Pawn shop, quick pick
+Kiss that dyke, I know you want to hold one
+Not on strike but I'm about to bowl one
+Bite that mic, I know you never stole one
+Girls that like a story, so I told one
+Song bird, main line
+Cash back, hard top
+
+
+Standing in line to see the show tonight
+And there's a light on, heavy glow
+By the way, I tried to say
+I'd be there waiting for
+Dani, the girl, is singing songs to me
+Beneath the marquee, oversold
+By the way, I tried to say
+I'd be there waiting for
+
+
+Ooh, ah, guess you never meant it
+Ooh, ah, guess you never meant it
+Ooh, ah, guess you never meant it
+Ooh, ah, guess you never meant it
+Ooh, ah, guess you never meant it
+Ooh, ah, guess you never meant it
+Ooh, ah, guess you never meant it
+Ooh, ah
+
+
+Standing in line to see the show tonight
+And there's a light on, heavy glow
+By the way, I tried to say
+I'd be there waiting for
+Dani, the girl, is singing songs to me
+Beneath the marquee, oversold
+By the way, I tried to say
+I know you from before
+
+
+Standing in line to see the show tonight
+And there's a light on, heavy glow
+By the way, I tried to say
+I'd be there waiting for

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: our-winter-love-the-lettermen
+lyrics_url: https://genius.com/The-lettermen-our-winter-love-lyrics
 name: Our Winter Love
 rankings:
 - end_date: '1967-02-03'
@@ -23,4 +24,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
 ---
+Love born in winter time warms
+This heart of mine with dancing fire
+Of sweet desire
+We've found our winter love
 
+Eyes cold as fallen tears grow
+Be chilling fears of loneliness
+How could I guess?
+We've found our winter love
+
+Now armed, the world is warm, warm
+Through cold and storm, we've found a fire
+Of sweet desire
+We've found our winter love
+
+We've found our winter love
+We've found our winter love
+We've found our winter love
+We've found our winter love

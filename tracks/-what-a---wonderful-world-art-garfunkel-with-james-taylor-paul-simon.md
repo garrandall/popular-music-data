@@ -1,8 +1,8 @@
 ---
 artists:
-- Art Garfunkel With James Taylor
-- Paul Simon
-features: []
+- Simon & Garfunkel
+features:
+- James Taylor
 genres: []
 key: -what-a---wonderful-world-art-garfunkel-with-james-taylor-paul-simon
 name: (What A)  Wonderful World

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: philadelphia-usa-the-nu-tornados
+lyrics_url: https://www.musixmatch.com/lyrics/The-Nu-Tornados/Philadelphia-U-S-A
 name: Philadelphia USA
 rankings:
 - end_date: '1958-11-23'
@@ -55,4 +56,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-02'
 ---
+When you see clear skies and hearts of gold
+And a girl that wears a smile
+Don't stop to check your roadmap
+Philadelphia's bout a mile
 
+When you see clear skies and hearts of gold
+And a girl on every street
+Just pull up to the sidewalk
+Philadelphia's at your feet
+
+I tell you now, my biggest moment
+Is when I stop to see
+That pretty blue-eyed angel
+Who waits right there for me
+
+I'm gonna tell her that I love her
+That I miss her every day
+That my heart just longs to be in
+Philadelphia, USA
+
+I tell you now, my biggest moment
+Is when I stop to see
+That pretty blue-eyed angel
+Who waits right there for me
+
+I'm gonna tell her that I love her
+That I miss her every day
+That my heart just longs to be in
+Philadelphia, Philadelphia, USA

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: he-ll-have-to-go-jim-reeves
+lyrics_url: https://genius.com/Jim-reeves-hell-have-to-go-lyrics
 name: He'll Have To Go
 rankings:
 - end_date: '1960-01-03'
@@ -99,4 +100,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-30'
 ---
+Put your sweet lips a little closer to the phone
+Let's pretend that we're together, all alone
+I'll tell the man to turn the jukebox way down low
+And you can tell your friend there with you he'll have to go
 
+
+Whisper to me, tell me do you love me true
+Or is he holding you the way I do?
+Though love is blind, make up your mind, I've got to know
+Should I hang up, or will you tell him he'll have to go?
+
+
+You can't say the words I want to hear
+While you're with another man
+Do you want me, answer yes or no
+Darling, I will understand
+
+
+Put your sweet lips a little closer to the phone
+Let's pretend that we're together, all alone
+I'll tell the man to turn the jukebox way down low
+And you can tell your friend there with you he'll have to go

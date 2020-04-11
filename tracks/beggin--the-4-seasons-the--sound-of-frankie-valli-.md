@@ -1,8 +1,7 @@
 ---
 artists:
 - The 4 Seasons
-features:
-- the "Sound of Frankie Valli"
+features: []
 genres: []
 key: beggin--the-4-seasons-the--sound-of-frankie-valli-
 name: Beggin'

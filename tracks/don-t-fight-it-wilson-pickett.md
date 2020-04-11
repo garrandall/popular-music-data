@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-fight-it-wilson-pickett
+lyrics_url: https://genius.com/Wilson-pickett-dont-fight-it-lyrics
 name: Don't Fight It
 rankings:
 - end_date: '1965-11-12'
@@ -47,4 +48,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-08'
 ---
+There you sit
+All by yo'self
+Everybody's dancin'
+They can't a-help themselves
 
+The mood is much too strong
+You can't a-hold out longer
+So get up
+Don't fight it
+(You got to feel it, feel it)
+
+You better get on up
+And get that groove
+You know what, baby?
+I like the way you move!
+
+Ya do the Thing
+Like you oughta be, alright
+So don't fight it
+Whoa, baby, yeah, yeah
+(Feel it, feel it)
+
+(sax & instrumental)
+
+The way you Jerk
+The way you do The Twine
+You're too much, baby
+I'd like to make you mine
+
+And after the dance
+I'm gonna take you home
+So don't fight it
+Baby, you've got to feel
+(Feel it, feel it)
+
+Don't fight it, oh, no
+(Feel it, feel it)
+
+You got to feel
+(Feel it, feel it)
+
+Fades-
+
+You can't fight it
+(Feel it, feel it)
+No
+
+~

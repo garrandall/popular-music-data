@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-all-i-can-do-the-cars
+lyrics_url: https://genius.com/The-cars-its-all-i-can-do-lyrics
 name: It's All I Can Do
 rankings:
 - end_date: '1979-10-19'
@@ -47,4 +48,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
 ---
+One too many times
+I fell over you
+Once in a shadow
+I finally grew
+And once in a night
+I dreamed you were there
+I canceled my flight
+From going nowhere
 
+It's all I can do
+To keep waiting for you
+It's all I can do
+It's all I can do
+
+One too many times
+I twisted the gate
+When I was crazy
+I thought you were great
+I kept my renditions
+Of you on the wall
+Where holiday romance
+Is nothing at all
+
+It's all I can do
+To keep waiting for you
+It's all I can do
+It's all I can do
+
+You wait in the wing
+Like a Saturday flirt
+Protecting the judge
+You don't want to get hurt
+And once in a moment
+It all comes to you
+As soon as you get it
+You want something new
+
+It's all I can do
+To keep waiting for you
+It's all I can do
+It's all I can do
+
+It's all I can do
+To keep waiting for you
+It's all I can do
+It's all I can do
+
+It's all I can do
+To keep waiting for you
+It's all I can do
+It's all I can do
+
+It's all I can do
+To keep waiting for you
+It's all I can do
+It's all I can do

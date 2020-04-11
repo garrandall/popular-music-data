@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: moonlight-serenade-the-rivieras
+lyrics_url: https://www.musixmatch.com/lyrics/The-Rivieras/Moonlight-Serenade
 name: Moonlight Serenade
 rankings:
 - end_date: '1959-02-15'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-20'
 ---
+I stand at your gate
+And the song that I sing in the moonlight
+I stand and I wait
+For the touch of your hand in the June night
+Oh roses are sighing
+A moonlight serenade
 
+The stars are a-glow
+And tonight outer light
+Sets me dreaming
+I love, do you know
+That the light in your eyes brightly beaming
+I bring you and sing you
+A moonlight serenade
+
+Let us pray
+'Til break of day
+In our valley of dreams
+'Cause you and I
+Are a summer sky
+A heavenly dream
+Kissing her dreams goodbye
+Let me wait
+Come to me tenderly
+In the moonlight
+I stand and I wait
+For the touch of your hand in the June night
+A love song, my darling
+A moonlight serenade

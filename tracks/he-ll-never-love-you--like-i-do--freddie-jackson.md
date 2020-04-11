@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: he-ll-never-love-you--like-i-do--freddie-jackson
+lyrics_url: https://genius.com/Freddie-jackson-hell-never-love-you-like-i-do-lyrics
 name: He'll Never Love You (Like I Do)
 rankings:
 - end_date: '1985-12-20'
@@ -67,4 +68,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-22'
 ---
+Got someone else to keep you warm
+You've been seen in cozy places
+But there's a calm before the storm
+Like he's been seen with other faces
+Folks say he changes with the night
 
+To break her heart is second nature
+Oh girl
+He'll never do you right
+I'm warning you
+Your heart's in danger
+
+But you can put your love on me
+And you won't be lonely
+I'll be waiting patiently
+Cause I love you only
+
+He can never love you like I do
+Like I do
+No, he'll never ever love you, baby
+Like I do
+
+Ooh
+He'll never ever need you
+Need you
+Half as much as I do
+Like I do
+
+He could never want you
+Never want you, baby
+Like I do
+
+I know I can be oversensitive
+Well, I wouldn't if you didn't mean so much to me
+The grass always seems greener
+Over on the other side
+You see
+But you can bet your love on me
+
+Girl, you won't be lonely, no
+I'm into you totally
+You see
+You see I love you only
+
+I see that fire in your eyes
+And all this passion comes as no surprise
+Here's hoping soon you'll recognize
+But until then
+Let me emphasize
+
+Na, na, na, na, na
+He'll never love you
+Like I do
+Na, na, na, na, no
+
+Bet your love on me
+Bet your love on me
+And you won't be lonely
+
+I'm into you totally
+Totally
+Cause I love you only
+He'll never ever, ever
+Like I do
+Never
+Not like

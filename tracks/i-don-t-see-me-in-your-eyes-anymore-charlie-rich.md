@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-see-me-in-your-eyes-anymore-charlie-rich
+lyrics_url: https://genius.com/Charlie-rich-i-dont-see-me-in-your-eyes-anymore-lyrics
 name: I Don't See Me In Your Eyes Anymore
 rankings:
 - end_date: '1974-05-10'
@@ -31,4 +32,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
 ---
+(Ah-ah-ah-ah-ah-ah-ah)
+I don't see me
+In your eyes anymore
+Oh, why can't I
+Make them shine like before?
 
+I don't see you
+(I don't see you)
+Or your heart in your kiss
+(doo-doo-doo-do)
+That you should say
+(ooooh)
+That you're mine. You resist
+(you resist)
+
+There was a time
+Life was fine
+Love was ecstasy
+But now I doubt
+What the outcome will be
+
+I pray you'll say
+I'm the one you adore
+Then I'll see me
+(I'll see me)
+In your eyes as before
+(Aaaaah-aaah)
+
+I pray you'll say
+I'm the one you adore
+Then I'll see me
+(I'll see me)
+In your eyes as before
+(I'll see me as before)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-in-love-mark-wills
+lyrics_url: https://genius.com/Mark-wills-shes-in-love-lyrics
 name: She's In Love
 rankings:
 - end_date: '1999-09-17'
@@ -47,4 +48,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-11-13'
 ---
+Third of June she said goodbye
+I watched her walk into the night
+The hardest thing I ever did was let her go
+We swore as friends we stay in touch
+Best of friends don't mean that much
+When that phone call comes to tell you
+She's in love
 
+
+She's in love
+She's got that fire in her eyes
+She's in love
+How her smile lights up the sky
+It's like she's walking on air
+She's been set free
+Still I can't believe
+She's in love
+Strolling down a one-way street
+She's in love
+You'd swear her heart has wings
+She's in love
+Why can't it be me?
+
+
+Told everyone I'm doing fine
+Learned how to get on with my life
+I just want what's best for her
+So I lied
+Found a note on my door last night
+Said, "I'll be your friend 'til the day I die"
+But you should know I found someone
+Now she's in love
+
+
+She's in love
+She's got that fire in her eyes
+She's in love
+How her smile lights up the sky
+It's like she's walking on air
+She's been set free
+Still I can't believe
+She's in love
+Strolling down a one-way street
+She's in love
+You'd swear her heart has wings
+She's in love
+Why can't it be me?
+
+
+
+
+She's in love
+She's got that fire in her eyes
+She's in love
+How her smile lights up the sky
+It's like she's walking on air
+She's been set free
+Still I can't believe
+She's in love
+Strolling down a one-way street
+She's in love
+You'd swear her heart has wings
+She's in love
+Why can't it be me?
+Oh, now she's in love
+Why can't it be me?
+
+
+She's in love
+She's in love
+She's in love
+She's in love

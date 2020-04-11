@@ -1,10 +1,10 @@
 ---
 artists:
-- Simon
-- Garfunkel
+- Simon & Garfunkel
 features: []
 genres: []
 key: homeward-bound-simon-garfunkel
+lyrics_url: https://www.musixmatch.com/lyrics/Simon-Garfunkel/Homeward-Bound
 name: Homeward Bound
 rankings:
 - end_date: '1966-02-18'
@@ -56,4 +56,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
 ---
+I'm sittin' in the railway station, got a ticket for my destination
+On a tour of one-night stands, my suitcase and guitar in hand
+And every stop is neatly planned for a poet and a one-man band
 
+Homeward bound
+I wish I was homeward bound
+Home, where my thought's escapin'
+Home, where my music's playin'
+Home, where my love lies waitin' silently for me
+
+Every day's an endless stream of cigarettes and magazines
+And each town looks the same to me, the movies and the factories
+And every stranger's face I see reminds me that I long to be
+
+Homeward bound
+I wish I was homeward bound
+Home, where my thought's escapin'
+Home, where my music's playin'
+Home, where my love lies waitin' silently for me
+
+Tonight I'll sing my songs again, I'll play the game and pretend
+But all my words come back to me in shades of mediocrity
+Like emptiness in harmony I need someone to comfort me
+
+Homeward bound
+I wish I was homeward bound
+Home, where my thought's escapin'
+Home, where my music's playin'
+Home, where my love lies waitin' silently for me
+Silently for me.

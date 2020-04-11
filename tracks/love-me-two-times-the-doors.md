@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-two-times-the-doors
+lyrics_url: https://genius.com/The-doors-love-me-two-times-lyrics
 name: Love Me Two Times
 rankings:
 - end_date: '1967-12-15'
@@ -35,4 +36,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-01-20'
 ---
+Love me two times, baby
+Love me twice today
+Love me two times, girl
+I'm goin' away
 
+
+Love me two times, girl
+One for tomorrow
+One just for today
+Love me two times
+I'm goin' away
+
+
+Love me one time
+Could not speak
+Love me one time
+Yeah, my knees got weak
+
+
+But love me two times girl
+Last me all through the week
+Love me two times
+I'm goin' away
+Love me two times
+I'm goin' away
+All right, yeah!
+
+
+
+
+Love me one time
+Could not speak
+Love me one time, baby
+Yeah, my knees got weak
+
+
+Love me two time, girl
+Last me all through the week
+Love me two times
+I'm goin' away
+
+
+Love me two time, babe
+Love me twice today
+Love me two time, babe
+Just I'm goin' away
+Love me two time, girl
+One for tomorrow
+One just for today
+Love me two time
+I'm goin' away
+Love me two time
+I'm goin' away
+Love me two times, I'm
+Goin' away

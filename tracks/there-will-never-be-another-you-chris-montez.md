@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-will-never-be-another-you-chris-montez
+lyrics_url: https://genius.com/Chris-montez-there-will-never-be-another-you-lyrics
 name: There Will Never Be Another You
 rankings:
 - end_date: '1966-08-19'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
 ---
+There will be many other nights like this
+And I'll be standing here with someone new
+There will be other songs to sing
+Another Fall, another Spring
+But there will never be another you
 
+There will be other lips that I may kiss, oh
+But they won't thrill me like yours used to do
+Yes, I may dream a million dreams
+But how can they come true
+If there will never ever be another you
+
+La la la la...
+
+There will be other songs to sing
+Another Fall, another Spring
+But there will never be another you
+
+There will be other lips that I may kiss, oh
+But they won't thrill me like yours used to do
+Yes, I may dream a million dreams
+But how can they come true
+If there will never ever be another you
+
+La la la la...
+
+There will be other songs to sing
+Another Fall, another Spring

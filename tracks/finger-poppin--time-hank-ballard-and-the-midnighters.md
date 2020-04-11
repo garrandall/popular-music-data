@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: finger-poppin--time-hank-ballard-and-the-midnighters
+lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-finger-poppin-time-lyrics
 name: Finger Poppin' Time
 rankings:
 - end_date: '1960-05-22'
@@ -111,4 +112,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-11-07'
 ---
+(Hey now, hey now, hey now, hey now)
+(It's finger pop poppin' time)
+(Finger poppin', poppin' time)
+I feel so good
+And that's a real good sign
 
+(Here comes May and here comes Sue)
+(Here come Johnny and Bobby too)
+(It's finger pop poppin' time)
+I feel so good
+And that's a real good sign
+
+(Here comes May and here comes Sue)
+(Here come Johnny and Bobby too)
+(It's finger pop poppin' time)
+I feel so good
+And that's a real good sign
+
+(Hey now, hey now, hey now, hey now)
+(It's finger pop poppin' time)
+(Finger poppin', poppin' time)
+I feel so good
+And that's a real good sign

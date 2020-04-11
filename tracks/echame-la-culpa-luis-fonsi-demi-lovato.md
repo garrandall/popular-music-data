@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: echame-la-culpa-luis-fonsi-demi-lovato
+lyrics_url: https://genius.com/Luis-fonsi-and-demi-lovato-echame-la-culpa-lyrics
 name: Echame La Culpa
 rankings:
 - end_date: '2017-12-15'
@@ -88,3 +89,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-04-14'
 ---
+Hey, Fonsi
+Oh, no
+¿Qué pasa, Demi?
+Mmm... hmhm...
+Ey, yeah (Ay)
+
+
+Tengo en esta historia algo que confesar
+Ya entendí muy bien qué fue lo que pasó
+Y aunque duela tanto tengo que aceptar
+Que tú no eres la mala, que el malo soy yo
+No me conociste nunca de verdad
+Ya se fue la magia que te enamoró
+Y es que no quisiera estar en tu lugar
+Porque tu error sólo fue conocerme
+
+
+No eres tú, no eres tú, no eres tú, soy yo (Soy yo)
+No te quiero hacer sufrir
+Es mejor olvidar y dejarlo así (Así)
+Échame la culpa
+No eres tú, no eres tú, no eres tú, soy yo (Soy yo)
+No te quiero hacer sufrir
+Es mejor olvidar y dejarlo así (Así)
+Échame la culpa
+
+
+Okay, I don't really, really wanna fight anymore
+I don't really, really want to fake it no more
+Play me like The Beatles, baby, just let it be
+So come on, put the blame on me, yeah
+I don't really, really wanna fight anymore
+I don't really, really want to fake it no more (Oh, oh)
+Play me like The Beatles, baby, just let it be
+So come on, put the blame on me (Yeah, yeah!)
+
+
+No eres tú, no eres tú, no eres tú, soy yo (Soy yo)
+No te quiero hacer sufrir
+Es mejor olvidar y dejarlo así (Así)
+Échame la culpa
+No eres tú, no eres tú, no eres tú, soy yo (Soy yo)
+No te quiero hacer sufrir
+Es mejor olvidar y dejarlo así (Así)
+Échame la culpa
+
+
+Solamente te falta un beso (Woh-oh)
+Solamente te falta un beso (Woh-oh)
+Ese beso que siempre te prometí
+Échame la culpa
+Solamente te falta un beso (Woh-oh)
+Solamente te falta un beso (Woh-oh)
+Ese beso que siempre te prometí
+Échame la culpa
+
+
+Okay, I don't really, really wanna fight anymore
+I don't really, really want to fake it no more
+Play me like The Beatles, baby, just let it be
+So come on, put the blame on me, yeah
+I don't really, really wanna fight anymore
+I don't really, really want to fake it no more (Oh, oh)
+Play me like The Beatles, baby, just let it be
+So come on, put the blame on me (¡Yeah, yeah!)
+
+
+No eres tú, no eres tú, no eres tú, soy yo (¡Soy yo!)
+No te quiero hacer sufrir
+Es mejor olvidar y dejarlo así (Así, así, así, ¡yeah!)
+Échame la culpa
+No eres tú, no eres tú, no eres tú, soy yo (Soy yo)
+No te quiero hacer sufrir (Oh, oh, oh)
+Es mejor olvidar y dejarlo así (Así)
+Échame la culpa
+
+
+Solamente te falta un beso (No; woh-oh)
+Solamente te falta un beso (Woh-oh)
+Ese beso que siempre te prometí (Oh-oh-oh-oh-ouh)
+Échame la culpa
+Solamente te falta un beso (Oh-oh-oh-oh; woh-oh)
+Solamente te falta un beso (Woh-oh)
+Ese beso que siempre te prometí (Oh-oh-oh-oh-ouh)
+Échame la culpa

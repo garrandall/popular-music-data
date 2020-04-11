@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: days-go-by-keith-urban
+lyrics_url: https://genius.com/Keith-urban-days-go-by-lyrics
 name: Days Go By
 rankings:
 - end_date: '2004-07-30'
@@ -87,4 +88,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-12-04'
 ---
+Oh, yeah, yeah, yeah
 
+
+I'm changing lanes and talking on the phone
+I'm driving way too fast
+And the interstate's jammed with gunners like me
+Afraid of coming in last
+But somewhere in the race we run
+We're coming undone
+
+
+Days go by
+I can feel them flying
+Like a hand out the window in the wind
+As the cars go by
+Yeah, it's all we've been given
+So you better start living right now
+'Cause days go by, oh, ooh, ooh
+
+
+Out on the roof just the other night
+I watched the world flash by
+Headlights, taillights running through a river of neon signs
+But somewhere in the rush I felt
+We're losing ourselves
+
+
+Days go by
+I can feel them flying
+Like a hand out the window in the wind
+As the cars go by
+Yeah, it's all we've been given
+So you better start living right now
+And days go by, oh, ooh, ooh
+Yeah, the days go by, oh, ooh, ooh
+
+
+We think about tomorrow, then it slips away
+Oh, yes it does
+We talk about forever but we've only got today
+
+
+And the days go by
+I can feel them flying
+Like a hand out the window
+As the cars go by
+It's all we've been given
+So you better start living
+You better start living
+Better start living right now
+
+
+'Cause days go by
+I can feel them flying
+Like a hand out the window in the wind
+The cars go by
+Yeah, it's all we've been given
+So you better start living right now
+'Cause days go by, oh, ooh, ooh
+Yeah, 'cause days go by, oh, ooh, ooh
+
+
+Oh, so take them by the hand
+They're yours and mine
+Take them by the hand
+And live your life
+Take them by the hand
+Don't let them all fly by
+Come on, come on now
+Yeah, come on, oh, ooh, ooh
+Don't you know the days go by?

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wait-for-you-bonham
+lyrics_url: https://genius.com/Bonham-wait-for-you-lyrics
 name: Wait For You
 rankings:
 - end_date: '1989-12-01'
@@ -67,4 +68,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-03-03'
 ---
+Gone tomorrow, one day closer to your heart
+Lost around me, is time in itself when you're near
+Take the time, I'll show you the love I've for you
+You're too young, to know what it is that I feel
 
+All that I can do is wait for you...Just wait for you
+All that I can do is wait for you...Just wait for you
+
+Full of sorrow, your eyes are too wide and too new
+All I know is these feelings I get when you're near
+Keep in mind, I can't give you love without fear
+You're too young, I don't know what's keeping me here
+
+All that I can do is wait for you...Just wait for you
+All that I can do is wait for you...Just wait for you
+
+All that I can do is wait for you...Just wait for you
+All that I can do is wait for you...Just wait for you
+All that I can do...ooooooh...oooooooooh...

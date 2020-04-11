@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-want-your-love-duran-duran
+lyrics_url: https://genius.com/Duran-duran-i-dont-want-your-love-lyrics
 name: I Don't Want Your Love
 rankings:
 - end_date: '1988-10-21'
@@ -71,4 +72,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-28'
 ---
+I don't mind if you're keeping someone else behind
+I don't care cause you've got something I can share
+Hey, take a chance, even if it's only
+Only while we're dancing in the
+Light of your second sight because
+When you understand me
+You might feel good around me now
 
+
+I don't want your love to bring me down
+I don't want your love so turn it around
+
+
+I won't turn you out if you've got someone else
+Someone else you care about
+Because you must realise
+My obsessive fascination is in your imagination
+
+
+I don't want your love to bring me down
+I don't want your love so turn it around
+I don't want your love, I don't want your love
+
+
+Your rhythm is the power to move me
+It's something you control completely
+I don't want your love
+I don't want your love
+I like noise cause, I like waking up the house
+I cannot sit down. I can't shut my mouth
+But when you understand me
+You might feel good around me
+
+
+I don't want your love to bring me down
+I don't want your love so turn it around
+
+
+Your rhythm is the power to move me
+It's something you control completely
+I don't want your love
+I don't want your love

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-world-outside-the-four-coins
+lyrics_url: https://www.musixmatch.com/lyrics/The-Four-Coins/The-World-Outside
 name: The World Outside
 rankings:
 - end_date: '1958-11-16'
@@ -51,4 +52,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-19'
 ---
-
+The world outside
+Belongs to me
+Since you are mine
+Rule the night
+I own the moon
+I tell the stars when to shine
+Each time we touch
+I can't control
+The dreams that start
+The world outside
+Will never know
+How much you mean to my heart

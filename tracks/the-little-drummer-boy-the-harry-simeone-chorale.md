@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-little-drummer-boy-the-harry-simeone-chorale
+lyrics_url: https://www.musixmatch.com/lyrics/Harry-Simeone-Chorale/The-Little-Drummer-Boy
 name: The Little Drummer Boy
 rankings:
 - end_date: '1958-12-28'
@@ -119,4 +120,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-29'
 ---
+Come, they told me
+(Pa-rum-pa-pa-pum)
+A new-born King to see
+(Pa-rum-pa-pa-pum)
+Our finest gifts we bring
+(Pa-rum-pa-pa-pum)
 
+To lay before the King
+(Pa-rum-pa-pa-pum, rum-pa-pa-pum, rum-pa-pa-pum)
+So to honor Him
+(Pa-rum-pa-pa-pum)
+When we come
+
+Baby Gesu
+(Pa-rum-pa-pa-pum)
+I am a poor boy, too
+(Pa-rum-pa-pa-pum)
+I have no gift to bring
+(Pa-rum-pa-pa-pum)
+
+That's fit to give a King
+(Pa-rum-pa-pa-pum, rum-pa-pa-pum, rum-pa-pa-pum)
+Shall I play for you
+(Pa-rum-pa-pa-pum)
+On my drum?
+
+Mary nodded
+(Pa-rum-pa-pa-pum)
+The ox and lamb kept time
+(Pa-rum-pa-pa-pum)
+I played my drum for Him
+(Pa-rum-pa-pa-pum)
+
+I played my best for Him
+(Pa-rum-pa-pa-pum, rum-pa-pa-pum, rum-pa-pa-pum)
+Then, he smiled at me
+(Pa-rum-pa-pa-pum)
+Me and my drum

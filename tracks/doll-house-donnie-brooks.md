@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: doll-house-donnie-brooks
+lyrics_url: https://genius.com/Donnie-brooks-doll-house-lyrics
 name: Doll House
 rankings:
 - end_date: '1960-12-04'
@@ -47,4 +48,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
 ---
-
+Doll House
+Donnie Brooks
+Written by Louis A Duhig and Ruby Berry
+# 31 pop hit in 1960
+Got a hammer, nail and a hunka wood
+I'll build a doll house
+If you marry me the way I think you should
+I'll build a doll house
+Cutest place you'll ever see
+Big enough for you-woo-woo and me
+If you say you're gonna love me all the ti-i-ime
+I'll build a doll house
+Gonna be so happy when it's your and mi-i-ine
+I'll build a doll house
+Cutest place you'll ever see
+Big enough for you-woo-woo and me
+Maybe I can't buy you all you're dreamin' of
+But, baby, this I promise you, you'll have lots of love
+Got a hammer, nail and a hunka wood
+I'll build a doll house
+If you marry me the way I think you should
+I'll build a doll house
+Cutest place you'll ever see
+Big enough for you-woo-woo and me
+Maybe I can't buy you all you're dreamin' of
+But, baby, this I promise you, you'll have lots of love
+Got a hammer, nail and a hunka wood
+I'll build a doll house
+If you marry me the way I think you should
+I'll build a doll house
+Cutest place you'll ever see
+Big enough for you-woo-woo and me
+Big enough for you-woo-woo and me
+I'll build a doll house!!

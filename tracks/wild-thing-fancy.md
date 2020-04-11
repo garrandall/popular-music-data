@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wild-thing-fancy
+lyrics_url: https://genius.com/Fancy-wild-thing-lyrics
 name: Wild Thing
 rankings:
 - end_date: '1974-06-21'
@@ -75,4 +76,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
 ---
-
+Wild thing
+You make my heart sing
+You make everything groovy
+Wild thing
+Wild thing, I think I love you
+But I wanna know for sure
+Come on and hold me tight
+I love you
+Wild thing
+You make my heart sing
+You make everything groovy
+Wild thing
+------ instrumental break ------
+Wild thing, I think you move me
+But I wanna know for sure
+So c'mon and hold me tight
+You move me
+Wild thing
+You make my heart sing
+You make everything groovy
+Wild thing
+Wild thing
+C'mon, c'mon, wild thing
+Shake it, shake it, wild thing 
+----------------------------------

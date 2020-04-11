@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-on-and-see-me-tammi-terrell
+lyrics_url: https://genius.com/Tammi-terrell-come-on-and-see-me-lyrics
 name: Come On And See Me
 rankings:
 - end_date: '1966-06-03'
@@ -27,4 +28,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-06-25'
 ---
+(Come on and see me, baby)
+(Come on and see me, baby)
+(Come on and see me, baby)
 
+If you need a lover truer than any other
+Come on and see me
+If you need a heart that will never tear apart
+Come on and see me
+'Cause I've got a true love just for you love
+And it can be yours eternally
+If you want it, you better come and get it
+I say, if you want it, better come and get it
+
+If you need a lover that'll stick right by you, brother
+Come on and see me
+I'll stand by your side, I'll dry your weepin' eyes
+Come on and see me
+'Cause I've got joy love for some boy love
+And it can be yours eternally
+If you want it, you better come and get it
+I say, if you want it, better come and get it
+
+Baby, come on and see me
+And I'm truly your love, come on and see me
+And I'm all yours honey, come on and see me
+Baby, come on and see me
+I've got joy love for some boy love
+And it can be yours eternally
+
+If you want it, better come and get it
+Baby, come on and see me
+If you want it, better come and get it
+Baby, come on and see me
+If you want it, better come and get it
+Sugar, come on and see me
+If you want it, better come and get it
+Honey, come on and see me
+If you want it, better come and get it
+Baby, come on and see me

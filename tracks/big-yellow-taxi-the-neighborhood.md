@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: big-yellow-taxi-the-neighborhood
+lyrics_url: https://genius.com/The-neighborhood-big-yellow-taxi-lyrics
 name: Big Yellow Taxi
 rankings:
 - end_date: '1970-07-03'
@@ -51,4 +52,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-09-05'
 ---
-
+The Neighborhood
+Miscellaneous
+Big Yellow Taxi
+Big Yellow Taxi
+The Neighborhood
+- Peak Position #29 on 8-8-70
+- This song was also a hit by Joni Mitchell peaking at
+# 24 on 1-25-75 (It was a live version)
+They paved paradise
+And put up a parking lot
+With a pink hotel, a boutique
+And a swinging hot spot
+Don't it always seem to go
+That you don't know what you've got
+Till it's gone
+They paved paradise
+And put up a parking lot
+They took all the trees
+And put them in a tree museum
+And they charged all the people
+A dollar and a half to see 'em
+Don't it always seem to go
+That you don't know what you've got
+Till it's gone
+They paved paradise
+And they put up a parking lot
+Hey farmer farmer
+Put away that D.D.T. now
+Give me spots on my apples
+But leave me the birds and the bees
+Please!
+Dont it always seem to go
+That you don't know what you've got
+Till it's gone
+They paved paradise
+And put up a parking lot
+Late last night
+I heard the screen door slam
+And a big yellow taxi
+Took away my old man
+Don't it always seem to go
+That you don't know what you've got
+Till it's gone
+They paved paradise
+And put up a parking lot From: Bill & Selma Turner

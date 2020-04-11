@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shelter-lone-justice
+lyrics_url: https://genius.com/Lone-justice-shelter-lyrics
 name: Shelter
 rankings:
 - end_date: '1987-01-16'
@@ -55,4 +56,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-03-28'
 ---
+Well alright, you gave it all up for a dream
+Fate proved unkind, to lock the door and leave no key
+You're unsure, well baby I'm scared too
+When the world crushes you
 
+Let me be your shelter, shelter
+From a storm outside
+Let me be your shelter, shelter
+From the endless night
+
+Disillusion has an edge so sharp
+It tears at your soul and leaves a stain upon your heart
+I need you, to wash mine clean
+You've felt it too, and you need me
+
+Let me be your shelter, shelter
+From a storm outside
+Let me be your shelter, shelter
+From the endless night
+
+You're struggle with darkness has left you blind
+I'll light the fire in your eyes
+
+You're struggle with darkness has left you blind
+I'll light the fire in your eyes
+
+Let me be your shelter, shelter
+From a storm outside
+Let me be your shelter, shelter
+From the endless night
+
+Let me be your shelter, shelter
+Let me be your shelter, shelter
+Let me be your shelter, shelter
+Let me be your shelter, shelter
+
+Let me be your shelter, shelter
+Let me be your shelter, shelter
+Let me be your shelter, shelter
+Shelter, shelter, shelter, shelter
+Shelter, shelter, shelter, shelter
+Shelter, shelter, shelter, shelter

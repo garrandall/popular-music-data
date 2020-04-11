@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: we-ll-never-have-to-say-goodbye-again-england-dan-john-ford-coley
+lyrics_url: https://genius.com/England-dan-and-john-ford-coley-well-never-have-to-say-goodbye-again-lyrics
 name: We'll Never Have To Say Goodbye Again
 rankings:
 - end_date: '1978-03-03'
@@ -64,4 +65,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-27'
 ---
+Turn on the radio
+We'll play it way down low
+There's a tear in your eye
+That's reflecting the fire's glow
+And I wish the night would never end
 
+The sun ain't gonna be my friend
+Lying here waiting and wishing
+I knew when
+We'll never have to say goodbye again
+We'll never have to say goodbye again
+
+You must leave
+I know you will
+I won't let you go until you show me
+Some secret for making this time stand still
+
+And somewhere
+Sometime from now
+Together again somehow
+All of the waiting will seem like a moment and then
+We'll never have to say goodbye again
+We'll never have to say goodbye again
+
+The whole night afraid to see the light
+And the whole day crying
+Wishin I knew when
+We'll never have to say goodbye again
+We'll never have to say goodbye again
+
+And I wish the night would never end
+The sun ain't gonna be my friend
+We'll never have to say goodbye again
+We'll never have to say goodbye again

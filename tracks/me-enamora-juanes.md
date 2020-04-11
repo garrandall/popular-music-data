@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: me-enamora-juanes
+lyrics_url: https://genius.com/Juanes-me-enamora-lyrics
 name: Me Enamora
 rankings:
 - end_date: '2007-10-05'
@@ -63,3 +64,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-01-05'
 ---
+Cada blanco en mi mente
+Se vuelve color con verte
+Y el deseo de tenerte
+Es más fuerte, es más fuerte
+Solo quiero que me lleves
+De tu mano por la senda
+Y atravesar el bosque que divide nuestras vidas
+Hay tantas cosas que me gustan hoy de ti
+
+
+Me enamora, que me hables con tu boca
+Me enamora, que me eleves hasta el cielo
+Me enamora, que de mí sea tu alma soñadora
+La esperanza de mis ojos
+Sin ti mi vida no tiene sentido
+Sin ti mi vida es como un remolino
+De cenizas que se van, oh
+Volando con el viento
+
+
+Yo no sé si te merezco
+Solo sé que aún deseo
+Que le des luz a mi vida
+En los días venideros
+Léeme muy bien los labios
+Te lo digo bien despacio
+Por el resto de mis días quiero ser tu compañía
+Hay tantas cosas que me gustan hoy de ti
+
+
+Me enamora, que me hables con tu boca
+Me enamora, que me eleves hasta el cielo
+Me enamora, que de mí sea tu alma soñadora
+La esperanza de mis ojos
+Sin ti mi vida no tiene sentido
+Sin ti mi vida es como un remolino
+De cenizas que se van, oh
+Me enamora, que me hables con tu boca
+Me enamora, que me eleves hasta el cielo
+Me enamora, que de mí sea tu alma soñadora
+La esperanza de mis ojos
+Sin ti mi vida no tiene sentido
+Sin ti mi vida es como un remolino
+De cenizas que se van, oh
+Volando con el viento

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-young-andy-rose
+lyrics_url: https://genius.com/Andy-rose-just-young-lyrics
 name: Just Young
 rankings:
 - end_date: '1958-10-12'
@@ -35,4 +36,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-17'
 ---
+Just young
+Just young
+When they see us walking home together
+And we're holding hands just along the way
+They'll say it's just because we're young
+Just young
 
+When they see your picture on my bureau
+And they see me kiss it everyday
+They'll say it's just because we're young
+Just young
+
+Just young but it isn't the way we feel
+Our hearts tell us our love is real
+
+Til the time we make them understand us
+Secretly we'll smile about the way they say
+It's just because we're young
+Just young
+
+They say it's just because we're young
+Just young
+
+Just young but it isn't the way we feel
+Our hearts tell us our love is real
+
+Til the time we make them understand us
+Secretly we'll smile about the way they say
+It's just because we're young
+Just young
+
+Just young
+Just young

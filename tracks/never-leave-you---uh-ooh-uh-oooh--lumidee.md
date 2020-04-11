@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-leave-you---uh-ooh-uh-oooh--lumidee
+lyrics_url: https://www.musixmatch.com/lyrics/Lumidee/Never-Leave-You-Uh-Ooh-Uh-Oooh-main
 name: Never Leave You - Uh Ooh Uh Oooh!
 rankings:
 - end_date: '2003-06-06'
@@ -87,4 +88,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-10-11'
 ---
+Uh oh uh oh uh oh uh oh
+Honestly if I tell, tell you what what you want to know love
+There ain't another don't want no other lover
+I put nothing above ya I kick them to the gutter
+They try to shake me and they're call'n me crazy now
+Look at us lately and tell'em whose your lady
 
+I never thought you'd be the one
+Make me shine brighter than the sun
+There ain't no ups and downs
+No win and now to hear right now
+
+If you want me to stay I'll never leave
+If you want me to stay we'll always be
+If you want me to stay love endlessly
+If you want me to stay
+If you want me to stay I'll never leave you
+
+Uh oh uh oh uh oh uh oh
+Now all you're lovin' back we're happy it's a fact
+Can nothing hold us back we got this in the bag
+They're ain't no babies no question love you daily now
+Look at us lately and tell 'em whose your lady
+
+I never thought you'd be the one
+Make me shine brighter than the sun
+There ain't no ups and downs
+No win and now to hear right now
+
+If you want me to stay I'll never leave
+If you want me to stay we'll always be
+If you want me to stay love endlessly
+If you want me to stay
+If you want me to stay I'll never leave you
+
+Uh oh uh oh uh oh uh oh
+Uh oh uh oh uh oh uh oh

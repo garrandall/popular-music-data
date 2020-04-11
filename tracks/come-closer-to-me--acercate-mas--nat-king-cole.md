@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-closer-to-me--acercate-mas--nat-king-cole
+lyrics_url: https://genius.com/Nat-king-cole-acercate-mas-come-closer-to-me-lyrics
 name: Come Closer To Me (Acercate Mas)
 rankings:
 - end_date: '1958-08-10'
@@ -43,4 +44,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-29'
 ---
+Acércate más
+Y más, y más
+Pero mucho más
 
+Y bésame así
+Así, así
+Como besas tú
+
+Pero besa pronto
+Porque estoy sufriendo
+No lo estás tú viendo
+Que lo estoy queriendo
+Sin quererlo tú
+
+Acércate más
+Y más, y más
+Pero mucho más
+
+Y bésame así
+Así, así
+Como besas tú
+
+Acaso pretendes
+A desesperarme
+Ven por Dios a darme
+Ese beso tuyo
+Que te pido yo
+
+Acércate más
+Y más, y más
+Pero mucho más
+
+Y bésame así
+Así, así
+Como quieras tú
+
+Pero besa pronto
+Porque estoy sufriendo
+No lo estás tú viendo
+Que lo estoy queriendo
+Sin quererlo tú
+
+Acércate más
+Y más, y más
+Pero mucho más
+
+Y bésame así
+Así, así
+Como besas tú
+
+Acaso pretendes
+A desesperarme
+Ven por Dios a darme
+Ese beso tuyo
+Que te pido yo

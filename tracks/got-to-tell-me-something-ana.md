@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: got-to-tell-me-something-ana
+lyrics_url: https://genius.com/Ana-got-to-tell-me-something-lyrics
 name: Got To Tell Me Something
 rankings:
 - end_date: '1990-05-25'
@@ -35,4 +36,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-06-30'
 ---
+My feelings
+For you just can't stop
+I'm willing
+To prove my love to you
+So don't let us part
 
+
+What you say and what you do
+Are two different things
+Don't say that you love me
+And mess up my brain
+
+
+(Oh, oh, oh, oh)
+Got to tell me something
+(Oh, oh, oh, oh)
+Something, something
+(Oh, oh, oh, oh)
+Got to tell me something
+(Oh, oh, oh, oh)
+Something, something
+
+First you say you love me
+And then you say you don't
+
+(Ha ha ha ha)
+Tell me something
+(Ha ha ha ha)
+Tell me something
+
+
+When you touch me
+The fire begins
+And when you kiss me
+I want to say I love you
+Again and again
+
+
+
+
+
+I may seem confused
+But I just can't stop loving you
+
+(Ha ha ha ha)
+Tell me something
+(Ha ha ha ha)
+Tell me something
+(Ha ha ha ha)
+Tell me something
+(Ha ha ha ha)
+Tell me something
+
+Maurice, take it to the bridge
+
+Get ready
+
+
+(Oh, oh, oh, oh)
+Got to tell me something
+(Oh, oh, oh, oh)
+You got to tell me something, boy
+(Oh, oh, oh, oh)
+Tell me with all your love

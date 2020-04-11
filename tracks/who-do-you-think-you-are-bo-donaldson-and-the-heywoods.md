@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-do-you-think-you-are-bo-donaldson-and-the-heywoods
+lyrics_url: https://genius.com/Bo-donaldson-and-the-heywoods-who-do-you-think-you-are-lyrics
 name: Who Do You Think You Are
 rankings:
 - end_date: '1974-08-02'
@@ -55,4 +56,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-10-12'
 ---
+Who am I?
+I'm just a guy who only wants to try
+To do what's right and never make you cry
+But you're no good to me, and
 
+Who do you think you are?
+You try to push me a bit too far
+And every day sees another scar
+Tell me, who do you think you are?
+If you want me there, you gotta care
+Who do you think you are, taking advantage of me this way?
+Who do you think you are, hurting me more with everything you say?
+It's not fair, you don't care
+Who do you really think that you are?
+
+Where are we?
+We're at the crossroads and I just can't see
+Which road to take to keep you here with me
+The lights are down and baby
+
+Who do you think you are?
+You try to push me a bit too far
+And every day sees another scar
+Tell me, who do you think you are?
+If you want me there, you gotta care
+Who do you think you are, taking advantage of me that way?
+Who do you think you are, hurting me with everything you say?
+It's not fair, you don't care
+Who do you really think that you are?
+
+Who am I?
+I'm just a guy who only wants to try
+To do what's right and never make you cry
+But you're no good to me, and
+
+Who do you think you are?
+You try to push me a bit too far
+And every day sees another scar
+Tell me, who do you think you are?
+
+Yeah, baby, who do you think you are?
+You try to push me a bit too far
+And every day sees another scar
+Tell me, who do you think you are?
+
+(repeat to fade)

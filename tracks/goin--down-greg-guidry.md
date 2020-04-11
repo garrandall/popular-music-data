@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goin--down-greg-guidry
+lyrics_url: https://genius.com/Greg-guidry-goin-down-lyrics
 name: Goin' Down
 rankings:
 - end_date: '1982-02-19'
@@ -71,4 +72,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-05-29'
 ---
+I get the feeling that I'm in way over my head
+I should be careful but I'm goin deeper instead
+Cause when she looks at me
+I wanna run by her side
+Anyone could see
+A fool could drown in her eyes
 
+And I'm goin down for the last time
+I'm goin down for the last time
+Goin down, out of my mind
+I'm nearly out of my mind
+Love is comin over, over me
+It must be magic how she casts her spell over me
+Her secret passions got me charmed
+I'll never get free
+Cause when she's holding me
+She lights a fire in my soul
+Any fool could see
+There's only one place to go

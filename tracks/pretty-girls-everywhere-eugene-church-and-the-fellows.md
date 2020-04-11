@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pretty-girls-everywhere-eugene-church-and-the-fellows
+lyrics_url: https://www.musixmatch.com/lyrics/Eugene-Church-And-The-Fellows/Pretty-Girls-Everywhere
 name: Pretty Girls Everywhere
 rankings:
 - end_date: '1958-12-21'
@@ -67,4 +68,106 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-06'
 ---
-
+(Alvino99)
+Ev'rywhere I go
+(There's a pretty girl there)
+I see a pretty girl
+(Pretty-pretty-pretty girl)
+Ev'rywhere I go
+(There's a pretty girls there)
+I see a pretty girl
+(Pretty-pretty-pretty girl)
+Pretty girl
+(Pretty girl)
+You pretty girls
+(Pretty girl)
+Ev'rywhere
+(Yeah-yeah)
+If I make it to the beach
+(There's a pretty girls there)
+There's a pretty girl, there
+(Pretty-pretty-pretty girls)
+You know they knock me off my feet!
+POP! (pretty girls)
+Them pretty girls there
+(Pretty-pretty-pretty girl)
+Pretty girl
+(Pretty girl)
+You pretty girls
+(Pretty girl)
+Are ev'rywhere
+(Yeah-yeah)
+If I make it to the park
+(There's a pretty girl there)
+There's a pretty girl there
+(Pretty-pretty-pretty girl)
+A-hid-i-ing in the dark
+Woo! (pretty girls)
+And there's a pretty girl there
+(Pretty-pretty-pretty girl)
+You pretty girls
+(Pretty girl)
+You pretty girls
+(Pretty girl)
+Are ev'rywhere
+(Yeah-yeah)
+If I make it to the show
+(There's a pretty girl there)
+There's a pretty girl there
+(There's a pretty, pretty girl)
+Even down at the Rodeo
+(Pretty-pretty-pretty girls)
+They came on hoss'es
+(Boogidy-boogidy, boogidy-boogidy
+Boogidy-wup
+Pretty girls
+(Pretty girl)
+Pretty girls
+(Pretty girl)
+Are ev'rywhere
+(Yeah-yeah)
+(Pretty-pretty-pretty girls)
+(Pretty-pretty-pretty girls)
+Woo! (pretty girls)
+(Pretty-pretty-pretty girls)
+(Pretty girls)
+(Pretty girls)
+(Yeah-yeah)
+Ev'ry road I walk
+(There's a pretty girl on)
+Ev'ry street and trail
+(Struttin, struttin' an-a walkin')
+Even a-when I sail
+(Pretty-pretty-pretty girls)
+Mermaids ridin' on whales
+(Splish-splash, splish-splash, splish-splash)
+Pretty girls
+(Pretty girls)
+Pretty girls
+(Pretty girls)
+Are ev'rywhere
+(Yeah-yeah)
+If I make it to the park
+(There's a pretty girl on)
+A-hid-i-ing in the dark
+Woo! (pretty girls)
+And if I make it to the show
+(Pretty-pretty-pretty girls)
+Even on at the Rodeo
+(Clickety-clickety, clickety-clickety
+(Clickety-clickety)
+Even when I sail
+(Pretty-pretty-pretty girls)
+Mermaids they're ridin' on whales
+(Splish-splash, splish-splash, splish-splash)
+Pretty girls
+(Pretty girls)
+Pretty girls
+(Pretty girls)
+Are ev'rywhere
+(Yeah-yeah)
+Pretty, pretty, pretty, girls
+(Yeah-yeah)
+Pretty girls around the world
+(Yeah-yeah)
+FADES-

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-can-say-goodbye-gloria-gaynor
+lyrics_url: https://genius.com/Gloria-gaynor-never-can-say-goodbye-lyrics
 name: Never Can Say Goodbye
 rankings:
 - end_date: '1974-11-08'
@@ -75,4 +76,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-02-22'
 ---
+I never can say goodbye, no, no, no, I
+I never can say goodbye
 
+Every time I think I've had enough
+And start heading for the door
+There's a very strange vibration
+Piercing me right to the core
+It says, "turn around you fool
+You know you love him more and more"
+Tell me why is it so
+Don't want to let you go
+
+Hey, I never can say goodbye, boy
+Ooh baby, I never can say goodbye, no, no, no, hey
+
+I never can say goodbye, oh no, I
+I never can say goodbye
+
+I keep thinking that our problems
+Soon are all gonna work out
+But there's that same unhappy feeling
+And that anguish and that doubt
+It's that same old dizzy hang-up
+I can't do with you or without
+Tell me why is it so
+I don't want to let you go
+
+Hey, I never can say goodbye, boy
+Ooh baby, I never can say goodbye, no, no, no, ooh
+Hey, I never can say goodbye, boy
+Ooh baby, I never can say goodbye, no, no, no, no, no, no
+
+Hey, I never can say goodbye, boy
+No, no, no, baby, hey, I never can say goodbye, no, no, no
+Please don't let me say goodbye
+I just cannot say goodbye

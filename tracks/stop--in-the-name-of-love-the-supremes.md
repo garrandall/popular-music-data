@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stop--in-the-name-of-love-the-supremes
+lyrics_url: https://genius.com/The-supremes-stop-in-the-name-of-love-lyrics
 name: Stop! In The Name Of Love
 rankings:
 - end_date: '1965-02-26'
@@ -55,4 +56,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-08'
 ---
+Stop in the name of love
+Before you break my heart
 
+
+Baby baby, I'm aware of where you go
+Each time you leave my door
+I watch you walk down the street
+Knowing your other love you'll meet
+
+
+But this time before you run to her
+Leaving me alone and hurt
+(Think it over)
+After I've been good to you
+(Think it over)
+After I've been sweet to you
+
+
+Stop in the name of love
+Before you break my heart
+Stop in the name of love
+Before you break my heart
+Think it over
+Think it over
+
+
+I've known of your, your secluded nights
+I've even seen her, maybe one or twice
+But is her sweet expression
+Worth more than my love and affection?
+
+
+This time before you leave my arms
+And rush off to her charms
+(Think it over)
+Haven't I been good to you?
+(Think it over)
+Haven't I been sweet to you?
+
+
+Stop in the name of love
+Before you break my heart
+Stop in the name of love
+Before you break my heart
+Think it over
+Think it over
+
+
+I've tried so hard, hard to be patient
+Hoping you'll stop this infatuation
+But each time you are together
+I'm so afraid of losing you forever
+
+
+Stop in the name of love
+Before you break my heart (Baby, think it over)
+Stop in the name of love (Think it over, baby)
+Before you break my heart (Ooh, think it over, baby)
+
+
+Stop in the name of love
+Before you break my heart
+Stop in the name of love
+Before you break my heart

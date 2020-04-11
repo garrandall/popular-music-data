@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: big-wide-world-teddy-randazzo
+lyrics_url: https://www.musixmatch.com/lyrics/Teddy-Randazzo/Big-Wide-World
 name: Big Wide World
 rankings:
 - end_date: '1963-02-01'
@@ -39,4 +40,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-16'
 ---
+Yes it's a big wide world we live in,
+But I can't believe it's true;
+Out of everyone in this whole wide world
+I fell in love with you?.
 
+I traveled everywhere
+I have had a love or two
+But every love affair; reminds me of you
+
+And it's a big wide world we live in,
+But I can't believe it's true;
+Out of everyone in this whole wide world
+I fell in love with you?.
+
+It's been a year or two,
+We've gone our separate ways
+But I still think of you; both night and day
+
+And it's a big wide world we live in,
+But I can't believe it's true;
+Out of everyone in this whole wide world
+I fell in love with you?.
+
+It's funny we should meet
+In our old rendezvous
+I searched the world to find
+There's no one like you
+
+And it's a big wide world we live in,
+But I can't believe it's true;
+Out of everyone in this whole wide world
+I-- fell? in-- love? with-- you?.

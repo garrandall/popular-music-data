@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thank-you-baby-the-shirelles
+lyrics_url: https://genius.com/The-shirelles-thank-you-baby-lyrics
 name: Thank You Baby
 rankings:
 - end_date: '1964-07-24'
@@ -35,4 +36,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-29'
 ---
+Thank you baby, thank you baby)
+Thank you baby (thank you baby) after all the years I've been true
+Waiting, crying, and standin' by you
+Suddenly found myself in the cold
+I feel a young heart growin' old
 
+(Thank you baby, thank you baby)
+This my thanks (thank you baby) for my love, for my time and devotion
+Not a praise, not a hope for promotion
+This is my thanks for years of devotion
+And now I'm left with no emotion
+
+(Thank you baby, thank you baby)
+Thank you baby, if you had seen the rain in my heart
+We might have had a much better start
+But you were blind, had other things on your mind
+No more tears, drownin' in tears
+
+(Thank you baby, thank you baby)
+Thank you baby (thank you baby) I must go on out, start anew
+The next time, baby, it could happen to you
+Lost love is like fallen dew
+Gone and forgotten, all thanks to you
+
+(Thank you baby, thank you baby)
+Oh thank you baby (thank you baby)
+Thank you baby, but everything's gonna be all right
+(Thank you baby)

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-m-so-anxious-southside-johnny-the-asbury-jukes
+lyrics_url: https://genius.com/Southside-johnny-and-the-asbury-jukes-im-so-anxious-lyrics
 name: I'm So Anxious
 rankings:
 - end_date: '1979-09-28'
@@ -24,4 +25,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-13'
 ---
+(B. Rush)
 
+Won't you come to Florida for a vacation?
+The tan developer beckons from the television
+They know they got me because I'm an insomniac
+Records, detergents, here's the latest Pontiac
+The got me so conditioned now that
+When they talk I just react
+Why they throwing it all at me?
+
+I'm so
+I'm so
+I'm so anxious
+
+Hard sell pressure got to keep the motor running
+Stimulate your need to satisfy something
+You don't want to be the one who never gets in line
+You don't want to be the one who's always left behind
+Pick up that phone you're running out of time
+Why they throwing it all at me?
+
+I'm so
+I'm so
+I'm so anxious
+
+I'm so
+I'm so
+I'm so anxious
+
+I know you're worrying what will the people say?
+I know you're worrying you've got bills to pay
+Worrying will the backwash get you?
+The undertow drag you out?
+
+You don't want to be the one who never gets in line
+You don't want to be the one who's always left behind
+Pick up that phone, quick you're running out of time
+Why they throwing it all at me?
+Why they throwing it all at me?
+Why they throwing it all at me?
+
+I'm so
+I'm so
+I'm so anxious
+
+I'm so
+I'm so
+I'm so anxious
+
+Southside Music/Marilyn-Kristi Music ASCAP

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-want-my-love-cheap-trick
+lyrics_url: https://genius.com/Cheap-trick-if-you-want-my-love-lyrics
 name: If You Want My Love
 rankings:
 - end_date: '1982-06-11'
@@ -51,4 +52,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-08-14'
 ---
+If you want my love you got it
+When you need my love you got it
+I won't hide it
+I won't throw your love away, oo
 
+If you want my love you got it
+When you need my love you got it
+I won't hide it
+I won't throw your love away, oo
+
+Yes, I thought you were a mystery girl
+A special girl in this crazy old world
+You couldn't see me when I laid eyes on you
+
+'Cause lonely is only a place
+You don't know what it's like...
+You can't fight it
+It's a hole in my heart, in my heart
+
+If you want my love you got it
+When you need my love you got it
+I won't hide it
+I won't throw your love away, oo
+
+You hold the secrets of love in this world
+I'm hypnotized by your ev'ry word
+A special face, a special voice
+A special smile in my life
+
+'Cause lonely is only a place
+You don't know what it's like...
+You can't fight it
+It's a hole in my heart, in my heart
+
+If you want my love you got it
+When you need my love you got it
+I won't hide it
+I won't throw your love away, ooh
+
+If you want my love you got it
+When you need my love you got it
+I won't hide it
+I won't throw your love away, ooh
+
+If you want my love you got it
+When you need my love you got it
+You won't hide it
+You won't throw your love away, ooh

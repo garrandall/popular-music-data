@@ -37,7 +37,7 @@ Put your eyes... to the sky, that's where you'll find meee (ooh ooh ooh)
 Cuz we are.... we are.... super hiiiigh
 Ooh yeah, ooh yeah
 
-{Bring your sexy ass here baby}
+
 
 
 I wanna buy my bitch every bag

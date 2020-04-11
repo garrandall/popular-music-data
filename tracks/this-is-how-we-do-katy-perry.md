@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-is-how-we-do-katy-perry
+lyrics_url: https://genius.com/Katy-perry-this-is-how-we-do-lyrics
 name: This Is How We Do
 rankings:
 - end_date: '2014-08-22'
@@ -79,4 +80,106 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-12-13'
 ---
+This is how we do
+This is how we do (Oh-oh)
 
+
+Sipping on Rosé
+Silver Lake sun coming up all lazy (This is how we do)
+Slow cooking pancakes for my boy
+Still up, still fresh as a daisy (Oh-oh)
+Playing ping pong all night long
+Everything's all neon and hazy (This is how we do)
+Chanel this, Chanel that
+Hell yeah, all my girls vintage Chanel, baby
+
+
+It's no big deal
+It's no big deal
+It's no big deal
+This is no big deal
+
+
+This is how we do, yeah
+Chilling, laid-back, straight stunting
+Yeah, we do it like that
+This is how we do, do-do-do-do
+This is how we do
+This is how we do, yeah
+Chilling, laid-back, straight stunting
+Yeah, we do it like that
+This is how we do, do-do-do-do
+This is how we do
+
+
+Big hoops, and maroon lips
+My clique hopping in my Maserati (This is how we...)
+Santa Barbara-chic at La Super Rica
+Grabbing tacos, checking out hotties (Oh-oh)
+Now we talkin’ astrology
+Getting our nails did all Japanese-y (This is how we do)
+Day drinking at the Wildcat
+Sucking real bad at Mariah Carey-oke (Oh-oh)
+
+
+It's no big deal
+It's no big deal (Uh-uh)
+It's no big deal
+This is no big deal
+
+
+This is how we do, yeah
+Chilling, laid-back, straight stunting
+Yeah, we do it like that
+This is how we do, do-do-do-do
+This is how we do
+This is how we do, yeah
+Chilling, laid-back, straight stunting
+Yeah, we do it like that
+This is how we do, do-do-do-do
+This is how we do
+
+
+Yo, this one goes out to the ladies
+At breakfast, in last night's dress
+(It’s how we do, straight stunting like that)
+Uh-huh, I see you
+Yo, this goes out to all you kids
+That still have their cars at the club valet
+And it's Tuesday
+(It’s how we do, straight stunting like that)
+Yo, shoutout to all you kids
+Buying bottle service with your rent money!
+Respect!
+
+
+This is how we do, yeah
+Chilling, laid-back, straight stunting
+Yeah, we do it like that
+This is how we do, do-do-do-do
+This is how we do
+This is how we do, yeah
+Chilling, laid-back, straight stunting
+Yeah, we do it like that
+This is how we do, do-do-do-do
+This is how we do
+
+
+(This is how we do)
+This goes out to all you people
+Going to bed with a 10, and waking up with a 2
+(This is how we do)
+Ha, not me!
+
+
+This is how we do, yeah
+Chilling, laid-back, straight stunting
+Yeah, we do it like that
+This is how we do, do-do-do-do
+What? Wait
+No no no no, bring the beat back
+That's right
+This is how we do
+Uh-oh
+This is how we do
+Uh-oh

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: electric-boogie-marcia-griffiths
+lyrics_url: https://genius.com/Marcia-griffiths-electric-boogie-lyrics
 name: Electric Boogie
 rankings:
 - end_date: '1989-12-15'
@@ -51,4 +52,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-02-17'
 ---
+It's Electric!
 
+You can't see it
+
+You gotta feel it
+
+Ooh, it's shakin'
+
+[Jiggle-a-mesa-cara
+She's a pumpin' like a matic
+She's a movin' like electric
+She sure got the boogie]
+
+You gotta know it
+[It's electric
+Boogie woogie, woogie!]
+Now you can't hold it
+[It's electric
+Boogie woogie, woogie!]
+But you know it there
+Yeah here there everywhere
+
+I've got to move
+I'm going on a party ride
+I've got to groove, groove, groove
+And from this music
+I just can't hide
+
+Are you comin' with me?
+Come let me take you on a party ride
+And I'll teach you, teach you, teach you
+I'll teach you the electric slide
+
+Some say it's mystic
+[It's electric
+Boogie woogie, woogie]
+You can't resist it
+[It's electric
+Boogie woogie, woogie]
+You can'y do without it
+[It's electric
+Boogie woogie, woogie]
+Jiggle-a-mesa-cara she's a pumpin' like a matic
+She's movin' like electric
+She sure got the boogie
+
+Don't wanna lose it
+[It's electric
+Boogie woogie, woogie]
+But you can't choose it
+[It's electric
+Boogie woogie, woogie]
+But you know it's there
+Yeah here there everywhere
+
+I've got to move
+Come let me take you on a party ride
+And I'll teach you, teach you, teach you
+I'll teach you the electric slide
+
+Some say it's mystic
+[It's electric
+Boogie woogie, woogie]
+You can't resist it
+[It's electric
+Boogie woogie, woogie]
+You can'y do without it
+[It's electric
+Boogie woogie, woogie]
+Jiggle-a-mesa-cara she's a pumpin' like a matic
+She's movin' like electric
+She sure got the boogie
+
+Don't wanna lose it
+[It's electric
+Boogie woogie, woogie]
+But you can't choose it
+[It's electric
+Boogie woogie, woogie]
+But you know it's there
+Yeah here there everywhere

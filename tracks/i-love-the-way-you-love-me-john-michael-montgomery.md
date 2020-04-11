@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-the-way-you-love-me-john-michael-montgomery
+lyrics_url: https://genius.com/John-michael-montgomery-i-love-the-way-you-love-me-lyrics
 name: I Love The Way You Love Me
 rankings:
 - end_date: '1993-05-14'
@@ -59,4 +60,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-07-31'
 ---
+I like the feel of your name on my lips
+And I like the sound of your sweet gentle kiss
+The way that your fingers run through my hair
+And how your scent lingers even when you're not there
 
+And I like the way your eyes dance when you laugh
+And how you enjoy your two hour bath
+And how you convinced me to dance in the rain
+With everyone watching like we were insane
+
+
+But I love the way you love me
+Strong and wild, slow and easy
+Heart and soul, so completely
+I love the way you love me
+
+I like to imitate ol' Jerry Lee
+An' watch you roll your eyes when I'm slightly off-key
+And I like the innocent way that you cry
+At sappy old movies you've seen hundreds of times
+
+
+But I love the way you love me
+Strong and wild, slow and easy
+Heart and soul, so completely
+I love the way you love me
+
+And I could list a million things I love to like about you
+But they all come down to one reason I could never live without you
+
+
+But I love the way you love me
+Strong and wild, slow and easy
+Heart and soul, so completely
+I love the way you love me

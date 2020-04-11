@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mission-impossible-lalo-schifrin
+lyrics_url: https://genius.com/Lalo-schifrin-mission-impossible-main-theme-annotated
 name: Mission-Impossible
 rankings:
 - end_date: '1968-01-12'
@@ -63,4 +64,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-04-06'
 ---
-
+Instrumental

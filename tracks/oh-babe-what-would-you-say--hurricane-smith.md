@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh-babe-what-would-you-say--hurricane-smith
+lyrics_url: https://genius.com/Hurricane-smith-oh-babe-what-would-you-say-lyrics
 name: Oh Babe What Would You Say?
 rankings:
 - end_date: '1972-12-08'
@@ -67,4 +68,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-03-10'
 ---
+Have I a hope for half a chance
+To even ask if I could dance with you
+Yoo-hoo?
+Would you greet me or politely turn away?
+Would there suddenly be sunshine
+On a cold and rainy day?
+Oh, babe, what would you say?
 
+For there are you, sweet lollipop
+Here am I
+With such a lot to say, hey, hey
+Just to walk with you along the Milky Way
+To caress you through the nighttime
+Bring you flowers every day
+Oh, babe, what would you say?
+
+'Cause oh, baby, I know
+I know I could be so in love with you
+And I know that I could make you love me, too
+And if I could only hear you say you do
+Oo-oo-oo-oo
+But, anyway, what would you say?
+
+Yes, oh, baby
+I know
+I know I could be so in love with you
+And I know that I could make you love me, too
+And if I could only hear you say you do
+Oo-oo-oo-oo
+But, anyway
+What would you say?

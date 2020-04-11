@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-is-it-melba-moore
+lyrics_url: https://genius.com/Melba-moore-this-is-it-lyrics
 name: This Is It
 rankings:
 - end_date: '1976-04-30'
@@ -27,4 +28,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
 ---
+(chorus)
+This is it
+This time i know its for real
+And i can't explain what im feeling
+Im lost for words
+Im in a daze
+Stunned and amazed
+By your lovin'ways
 
+This is it
+This time i know its for real
+And i can't explain what im feeling
+Im lost for words
+Im in a daze
+Stunned and amazed
+By your lovin'ways
+
+You smile at me
+And suddenly
+The wheels of love begin to turn inside of me
+You said hello
+I felt a glow
+Right then and there i knew id never let you go
+Cause i know, i know.....
+
+
+This is it
+This time i know its for real
+And i can't explain what im feeling
+Im lost for words
+Im in a daze
+Stunned and amazed
+By your lovin'ways
+
+The touch of you
+Is something new
+Nobody ever made me feel the way you do
+It's heavenly
+It's ecstasy
+The way you make me feel when you make love to me
+Can't you see, can't you see....
+
+
+This is it
+This time i know its for real
+And i can't explain what im feeling
+Im lost for words
+Im in a daze
+Stunned and amazed
+By your lovin'ways
+
+This is it
+This time i know its for real
+And i can't explain what im feeling
+A touch of you
+Is something new
+Nobody ever made me feel the way you do
+It's heavenly
+It's ecstasy
+The way you make me feel when you make love to me
+Can't you see, can't you see....
+
+This is it
+This time i know its for real
+And i can't explain what im feeling
+Im lost for words
+Im in a daze
+Stunned and amazed
+By your lovin'ways
+
+This is it
+This time i know its for real
+And i can't explain what im feeling
+Im lost for words
+Im in a daze
+Stunned and amazed
+By your lovin'ways
+This is it

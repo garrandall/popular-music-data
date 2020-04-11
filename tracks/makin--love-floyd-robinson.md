@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: makin--love-floyd-robinson
+lyrics_url: https://genius.com/Floyd-robinson-makin-love-lyrics
 name: Makin' Love
 rankings:
 - end_date: '1959-07-26'
@@ -79,4 +80,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-16'
 ---
-
+What would people say?
+What would people do?
+What would people think
+If people knew I was with you?
+Makin' lo-ove, makin' love
+Makin' lo-ove, makin' love
+What would people think?
+What if people knew?
+Instead of bein' off to school
+All day I was with you
+Makin' lo-ove, makin' love
+Makin' lo-ove, makin' love
+I don't care what they think
+I don't care what they do
+Don't care what they care about
+All I ever care about is you
+Makin' lo-ove, makin' love
+Makin' lo-ove, makin' love
+Would people start to talk?
+Would people start to frown?
+If people knew the things we say
+Would envy over town
+Makin' lo-ove, makin' love
+Makin' lo-ove, makin' love
+What would the teacher do?
+What would the teacher say?
+What would the teacher do
+If the teacher knew, we's out all day
+Makin' lo-ove, makin' love
+Makin' lo-ove, makin' love
+I don't care what they think
+Don't care what they do
+I don't care what they care about
+All I ever care about is you
+Makin' lo-ove, makin' love
+Makin' lo-ove, makin' love
+Makin' lo-ove, makin' love

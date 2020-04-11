@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: suavecito-malo
+lyrics_url: https://genius.com/Malo-suavecito-lyrics
 name: Suavecito
 rankings:
 - end_date: '1972-03-10'
@@ -55,4 +56,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-20'
 ---
+La, ah, ah, ah
+La, la, la, ah, ah, ah
+La, ah, ah, ah
+La, la, la, ah, ah, ah
 
+Never, I never met a girl like you in my life
+I never, no, no, yeah, I never met a girl like you in my life
+The way that you hold me in the night
+The way that you make things go right
+Whenever you're in my arms
+Girl, you're filling me with all your charms
+
+Suavecito, mi Linda
+Suavecito, mi linda (The feeling that I have inside)
+Suavecito, mi linda
+Suavecito
+
+The feeling, the feeling that I have inside for you
+Cause ever since the day I met you
+I knew that you were my dream come true
+But I think I found that day
+Gonna make you mine in every way
+
+Suavecito, mi linda (Baby, baby, baby now)
+Suavecito, mi linda (That we've got to find it out)
+Suavecito, mi linda (I just can't believe it's true)
+Suavecito (Cause you know that, girl, I love you)
+
+I need you
+Love you....
+You....
+You....
+
+All I want is you
+If I can't have you, I don't know what to do
+
+La, la, la, ah, ah, ah
+La, la, la, ah, ah, ah
+La, ah, ah, ah
+La, la, la, ah, ah, ah
+
+Never, I never met a girl like you in my life
+I never, no, no, yeah, I never met a girl like you in my life
+Cause I know I'll always be
+Together just you and me
+From here on, you're gonna see
+You'll be mine until eternity
+
+Suavecito, mi linda (Baby, baby, baby now)
+Suavecito, mi linda (That we've got to find it out)
+Suavecito, mi linda (I just can't believe it's true)
+Suavecito (Cause you know that, girl, I love you)
+Suavecito, mi linda
+Suavecito, mi linda
+Suavecito, baby
+Suavecito, mi linda
+Suavecito
+Suavecito (la, la, la ,la)
+Suavecito
+Suavecito, mi linda

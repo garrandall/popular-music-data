@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: better-off-alone-alice-deejay
+lyrics_url: https://genius.com/Alice-deejay-better-off-alone-lyrics
 name: Better Off Alone
 rankings:
 - end_date: '2000-04-14'
@@ -87,4 +88,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-08-19'
 ---
+Do you think you're better off alone?
+Do you think you're better off alone?
+Do you think you're better off alone?
+Do you think you're better off alone?
 
+
+
+
+Talk to me, ooohh, talk to me
+Talk to me, ooooh, talk to me
+Do you think you're better off alone?
+Do you think you're better off alone?
+
+
+
+
+Do you think you're better off alone?
+Do you think you're better off alone?
+Do you think you're better off alone?
+Do you think you're better off alone?
+
+
+Talk to me, oooh, talk to me
+Talk to me, oooh, talk to me
+Talk to me

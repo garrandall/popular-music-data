@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-me-styx
+lyrics_url: https://genius.com/Styx-why-me-lyrics
 name: Why Me
 rankings:
 - end_date: '1979-12-21'
@@ -59,4 +60,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-08'
 ---
-
+I guess we used to be the lucky ones
+Whose fortune smiled on everyone
+Stop (stop)
+A voice said you best beware
+Stop (stop)
+Bad luck is everywhere
+And sure enough the voice was right
+My luck had changed overnight
+Stop (stop)
+Please tell me what went wrong
+Stop (stop)
+I can't take these ups and downs
+Hard times come (hard times come)
+And hard times go (hard times go)
+And in between you hope and pray
+The scars don't show
+'Cause life is strange (life is strange)
+And so unsure (so unsure)
+The days you hardly make it through
+You swear that there's a curse on you
+And nothing seems to fit
+And things won't go your way
+You know you've had enough
+You've got the right to say
+Why me, why me
+(Instrumental break)
+Stop (stop)
+Here comes anxiety
+Stop (stop)
+Won't you please let me be, I need relief
+Hard times come (hard times come)
+And hard times go (hard times go)
+In between you hope and pray
+The scars don't show
+'Cause life is strange (life is strange)
+And so unsure (so unsure)
+The days you hardly make it through
+You're sure that there's a curse on you
+And nothing seems to fit
+And things don't go your way
+You know you've had enough
+You can't take another day
+Where to go and what to do
+You've got those bills to pay
+You're really not alone you know
+'Cause everybody says
+Why me, why me
+(Why me that's what I want to know
+You know what I mean?)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nobody-wants-you-when-you-re-down-and-out-bobby-womack
+lyrics_url: https://genius.com/Bobby-womack-nobody-wants-you-when-youre-down-and-out-lyrics
 name: Nobody Wants You When You're Down And Out
 rankings:
 - end_date: '1973-06-22'
@@ -67,4 +68,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-09-22'
 ---
+Well, once I lived the life of a millionaire
+Spending my money, no, I didn't care
+Takin' my friend John out for a mighty good time
+Drinkin' that good gin, champagne and wine
 
+Aww, soon as my money got low
+Didn't have a friend, couldn't find no place to go
+But if I get my hands on a dollar again
+I think I'11 hold on to it until the eagle grins
+
+Cause, I found out
+Nobody wants you when you're down and out
+Nobody wants you when you're down and out
+Down and out
+
+Oh, Yeah, Hmmm wait a miunte
+
+Went in your pocket there's not one penny
+Old man, and good friend
+I'm tellin' ya to find out if
+You haven't got any
+
+But just let you get up on my feet again
+Here they all come tellin you
+All are your long-lost friends!
+
+Nobody wants you when you're down and out
+Let me tell you bout it
+Nobody wants ya - Ahhhh, Mobody wants ya
+When you're down and out
+Down and out
+Nobody wants ya'
+Whooooaaa Oooh Ooooh!
+Yeah, Yeah, Yeah, Yeah
+I don't mean to take up much of your time
+But i thought I'd drop this line
+(Talking:Noboby wants ya) Nobody wants ya

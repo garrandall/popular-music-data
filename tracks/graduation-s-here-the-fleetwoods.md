@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: graduation-s-here-the-fleetwoods
+lyrics_url: https://genius.com/The-fleetwoods-graduations-here-lyrics
 name: Graduation's Here
 rankings:
 - end_date: '1959-05-24'
@@ -39,4 +40,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-07-06'
 ---
+Graduation, graduation, graduation
 
+High school parties are over
+Things won't be the same
+The day to grow up finally came
+
+Graduation's here, graduation
+
+Our trips to the ocean
+Were so much fun
+Remember the games we almost won
+
+Graduation's here
+
+Our senior year and our one big sin
+Was the "senior skip" when we were all turned in
+The gaudy mischief had to come but now it's gotta go
+'Cause graduation's here and we'll soon be on our own
+
+Graduation, graduation, graduation
+
+Now we are walking down the aisle
+I'm cryin' inside but I'm tryin' to smile
+Goodbye friends, alma mater too
+
+Graduation's here, graduation
+Graduation, graduation, graduation

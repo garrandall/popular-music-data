@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-out-of-my-life-woman-lee-dorsey
+lyrics_url: https://genius.com/Lee-dorsey-get-out-of-my-life-woman-lyrics
 name: Get Out Of My Life Woman
 rankings:
 - end_date: '1966-01-07'
@@ -47,4 +48,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-03-05'
 ---
+Get out my life, woman; you don't love me no more
+Get out my life, woman; you don't love me no more
+Get out my life, woman; you don't love me no more
 
+Get out my eyes, teardrops; I gotta see my way around
+Get out my eyes, teardrops; I gotta see my way around
+Get out my life, heartache; nothin' but heartache by the pound
+
+Get off the ladder, woman; I've got to climb up to the top
+Get off the ladder, woman; I've got to climb up to the top
+Get off the ladder, woman; there is nothin' gonna make me stop
+
+Get out my way, woman; I gotta be movin' on
+Get out the way, woman; I gotta be movin' on
+Get out the way, woman; I gotta be movin' on
+
+Get out my life, woman; you don't love me no more
+Get out my life, woman; you don't love me no more
+Get out my life, woman; you don't love me no more

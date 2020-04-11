@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: big-city-miss-ruth-ann-gallery
+lyrics_url: https://genius.com/Gallery-big-city-miss-ruth-ann-lyrics
 name: Big City Miss Ruth Ann
 rankings:
 - end_date: '1973-01-05'
@@ -67,4 +68,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-04-07'
 ---
+You came here from the country
+You left your Pa and your Ma
+And do you remember what you told them?
+You wouldn't come to no harm, yeah
+But they kept on kidding you
+You had to show them didn't you?
+Big city Miss Ruth Ann
+Didn't you say that anybody can
+Be exactly what you want a man
+Big city Miss Ruth Ann
 
+Did you go back home girl?
+What did the people say?
+Seeing you in all those fine clothes
+Since you went away, yeah
+City lights been fitting you
+You had to show them didn't you?
+
+Big city Miss Ruth Ann
+Didn't you say that anybody can
+Be exactly what you want a man?
+Big city Miss Ruth Ann
+
+But I bet you're getting lonely
+Only you can cry
+'Cause you're a big city girl now
+So kiss the country good-bye, yeah
+
+City lights been fitting you
+You really showed them, hey didn't you?
+
+Big city Miss Ruth Ann
+Didn't you say that anybody can
+Be exactly what you want a man?
+Big city Miss Ruth Ann

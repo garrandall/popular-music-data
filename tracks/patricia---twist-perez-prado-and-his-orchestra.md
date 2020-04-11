@@ -1,6 +1,6 @@
 ---
 artists:
-- Perez Prado And His Orchestra
+- Perez Prado
 features: []
 genres: []
 key: patricia---twist-perez-prado-and-his-orchestra

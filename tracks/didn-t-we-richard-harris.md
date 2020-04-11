@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: didn-t-we-richard-harris
+lyrics_url: https://genius.com/Richard-harris-didnt-we-lyrics
 name: Didn't We
 rankings:
 - end_date: '1969-06-13'
@@ -31,4 +32,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-07-12'
 ---
+Here I am, a tramp shining
+A brand new clown
 
+This time we almost made the pieces fit
+Didn't we, girl?
+This time we almost made some sense of it
+Didn't we girl?
+
+This time I had the answer
+Right here in my hand
+Then I touched it and
+It had turned to sand
+
+This time we almost sang our song in tune
+Didn't we, girl?
+This time we almost made it to the moon
+Oh, didn't we, girl?
+
+This time we almost made
+Our poem rhyme
+This time we almost made
+That long, hard climb
+Didn't we almost make it
+This time?

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: white-lies-blue-eyes-bullet
+lyrics_url: https://genius.com/Bullet-white-lies-blue-eyes-lyrics
 name: White Lies Blue Eyes
 rankings:
 - end_date: '1971-11-12'
@@ -59,4 +60,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-29'
 ---
+White lies in her blue eyes
+Goodbye is on the way
+White lies in her blue eyes
+Evil's the game she plays
+Well, she's trying to tempt you
+With her music and her line
+Well, her lips look so inviting
+And those sultry eyes
+They get to shine
 
+Oh, but look a little deeper
+At all that come on stare
+Then you might be able
+To see what's lying there
+
+It's those
+
+White lies in her blue eyes
+Goodbye is on the way
+White lies in her blue eyes
+Evil's the game she plays
+
+Don't you ever
+Let her get to you
+The way that she got to me
+Though the signs were plainly written
+I just didn't want to see
+
+But she could do most anything
+If you give her time
+A living testimonial
+Don't make me color blind
+
+There are
+
+White lies in her blue eyes
+Goodbye is on the way
+White lies in her blue eyes
+Evil's the game she plays
+
+White lies in her blue eyes
+Goodbye is on the way
+White lies in her blue eyes
+Evil's the game she plays
+
+White lies in her blue eyes
+Goodbye is on the way
+White lies in her blue eyes
+Evil's the game she plays
+
+White lies in her blue eyes
+Goodbye is on the way
+White lies in her blue eyes
+Evil's the game she plays

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-do-you-like-it--keith-sweat
+lyrics_url: https://genius.com/Keith-sweat-interlude-how-do-you-like-it-lyrics
 name: How Do You Like It?
 rankings:
 - end_date: '1994-04-01'
@@ -87,4 +88,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-08-06'
 ---
-
+How do you like it, baby?
+What makes you feel the lady?
+How do you like it, baby?
+How do you like it, girl?
+How do you like it, baby?

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-make-it-with-you-jackie-deshannon
+lyrics_url: https://genius.com/Jackie-deshannon-i-can-make-it-with-you-lyrics
 name: I Can Make It With You
 rankings:
 - end_date: '1966-09-16'
@@ -31,4 +32,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-15'
 ---
+When the world was on my shoulders
+And all hope for tomorrow was gone
+You took my hand and, baby
+You made me see
+There's a future for me
 
+I can make it with you, baby
+I can make it with you
+I can make it with you
+By my side
+
+And when all life had lost it's meaning
+When my dreams had been shattered by time
+You touched my hand and, baby
+You made me see
+There's a future for me, yeah
+
+I can make it with you, baby
+I can make it with you, yes, yes, I can, Lord
+I can make it with you
+By, by my side
+
+I remember
+When I was down
+I've been lost
+But I, I've been found, yeah
+
+I can make it with you, babe, babe
+And I can make it with you, oh, yes I can
+I can make it with you
+By, by my side
+
+Ah, babe, baby
+I can make it with you, baby
+I can make it with you, yes, yes, yes I can
+I can make it with you
+By my side
+
+Ah, watch me now
+I can make it with you, baby
+I can make it with you, yes, yes I can
+I can make it with you
+By my side
+
+Oh, yeah

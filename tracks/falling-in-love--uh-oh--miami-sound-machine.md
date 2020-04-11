@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: falling-in-love--uh-oh--miami-sound-machine
+lyrics_url: https://genius.com/Miami-sound-machine-falling-in-love-lyrics
 name: Falling In Love (Uh-Oh)
 rankings:
 - end_date: '1986-11-07'
@@ -71,4 +72,104 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-02-14'
 ---
-
+Emergency - paging Dr. Beat - Emergency
+Doctor
+I've got this feeling
+Deep inside of me
+Deep inside of me
+Ijust can't control my feet
+When I hear the beat
+When I hear the beat
+Hey doctor
+Could you give me something
+To ease the pain
+To ease the pain
+'Cause if you don't help me soon
+I'm gonna lose my brain
+Gonna go insane
+Ijust don't know
+Don't know
+How I'm gonna deal with you
+Doc
+Doc
+Doc
+Doc
+Doctor Beat
+I just don't know
+Don't know
+Won't you help me
+Dr.Beat
+Doc
+Doc
+Doc
+Doc
+Doctor Beat
+Won't you help me
+Dr. Beat
+Doc
+Doc
+Doc
+Doc
+Doctor Beat
+. . 
+Doc
+Doc
+Doc
+Doc
+Doctor Beat
+. ..
+Say
+Say
+Say
+Doctor
+I've got this fever
+That I can't control
+That I can't control
+Music makes me move my body
+Makes me move my soul
+Makes me move my soul
+Doc
+You better give me something
+'Cause I'm burning up
+Yes
+I'm burning up
+Doc
+You've got to find a cure or we're gonna die
+Yes
+We're gonna die
+Ijust don't know
+Don't know
+. . 
+Doc
+Doc
+Doc
+Doc
+Doctor Beat
+. . 
+Doc
+Doc
+Doc
+Doc
+Doctor Beat
+. . 
+Doc
+Doc
+Doc
+Doc
+Doctor Beat
+. . 
+Doc
+Doc
+Doc
+Doc
+Doctor Beat
+. . 
+Doctor
+Doctor
+Won't you please help me
+You gotta help me
+You gotta help me
+If you got trouble can't stop your feet
+Pay a little visit to Doctor Beat
+Doctor
+Doct

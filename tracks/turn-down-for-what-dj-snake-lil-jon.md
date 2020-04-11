@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: turn-down-for-what-dj-snake-lil-jon
+lyrics_url: https://genius.com/Dj-snake-and-lil-jon-turn-down-for-what-lyrics
 name: Turn Down For What
 rankings:
 - end_date: '2014-01-17'
@@ -156,4 +157,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-09-20'
 ---
+Fire up that loud, another round of shots
 
+
+Turn down for what?
+Turn down for what?
+Turn down for what?
+Turn down for what?
+Turn down for what?
+Turn down for what?
+Turn down for what?
+Turn down for what?
+Turn down for what?
+Turn down for what?
+
+
+Fire up that loud, another round of shots
+Fire up that loud, another round of shots
+Fire up that loud, another round of shots
+Fire up that loud, another round of shots
+Fire up that loud, another round of shots
+Fire up that loud, another round of shots
+Fire up that loud, another round of shots
+Fire up that loud, another round of shots
+Fire up that loud, another round of shots
+
+
+Turn down for what?
+Turn down for what?
+Turn down for what?
+Turn down for what?
+Turn down for what?

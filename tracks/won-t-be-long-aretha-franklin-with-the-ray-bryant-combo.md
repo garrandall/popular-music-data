@@ -1,7 +1,8 @@
 ---
 artists:
-- Aretha Franklin With The Ray Bryant Combo
-features: []
+- Aretha Franklin
+features:
+- The Ray Bryant Combo
 genres: []
 key: won-t-be-long-aretha-franklin-with-the-ray-bryant-combo
 name: Won't Be Long

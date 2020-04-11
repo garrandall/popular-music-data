@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: pretty-world-sergio-mendes-brasil--66
+lyrics_url: https://genius.com/Sergio-mendes-and-brasil-66-pretty-world-lyrics
 name: Pretty World
 rankings:
 - end_date: '1969-05-09'
@@ -32,4 +33,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-07'
 ---
+Why don't we take a little piece of summer sky?
+Hang it on a tree
+For that's the way to start to make a pretty world
+For you and for me
 
+And for the sun we'll find a lemon bright balloon
+You can hold the string
+Oh, can't you see that little world of ours will be
+The prettiest thing
+
+We can gather rain enough for the stream
+To hold our happy faces
+When we want a breeze
+I'll blow you a kiss or two
+Take me in your arms and our little world
+Will be the place of places
+Nothing else to make but breakfast and love
+
+We'll hang a little sign that just says
+Paradise
+Population two
+I know together we can make a pretty world
+For me and for you
+For you
+It's what I long to do, to do
+To make a world with you
+
+Take me in your arms and our little world
+Will be the place of places
+Nothing else to make
+But breakfast and love
+We'll hang a little sign that just says
+Paradise
+Population two
+I know together
+We can make a pretty world
+For me and for you
+For you
+It's what I long to do, to do
+To make a world... with you

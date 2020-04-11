@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: summer-souvenirs-karl-hammel-jr-
+lyrics_url: https://www.musixmatch.com/lyrics/Karl-Hammel-Jr/Summer-Souvenirs
 name: Summer Souvenirs
 rankings:
 - end_date: '1961-08-06'
@@ -40,4 +41,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-09-25'
 ---
+(Summer souvenirs, summer souvenirs, remind me of you)
 
+The castles we built on secluded beaches
+(These are my summer souvenirs)
+The hills that we climbed like mountain ewes
+(These are my summer souvenirs)
+The magic of moments we spent together
+These memories are summer souvenirs.
+
+The picture of you sitting by the fire
+(These are my summer souvenirs)
+The times that I kissed away your tears
+(These are my summer souvenirs)
+The picnics and rides that we took at Playland
+These memories are summer souvenirs.
+
+The last words of love whispered at the station
+(These are my summer souvenirs)
+I'll hear them forever through the years.
+(These are my summer souvenirs)
+The train as it left me alone without you
+These memories are summer souvenirs.
+These memories are golden souvenirs.

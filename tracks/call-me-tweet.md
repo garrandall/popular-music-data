@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: call-me-tweet
+lyrics_url: https://genius.com/Tweet-call-me-lyrics
 name: Call Me
 rankings:
 - end_date: '2002-06-07'
@@ -83,4 +84,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-10-05'
 ---
+Shake it, Shake it
+Shake it, Shake it
+Shake it, Shake it
+Bounce, Bounce
+Bounce, Bounce
 
+
+Baby you the man
+Cause you put it on me
+And in the morning
+I roll over and feel you touching on me
+I got another man
+But he ain't like you
+And I can't be your baby mama
+Though I'd like to
+C-C-C-C-C-Call me real late at night
+When my man's asleep
+And take a red eye
+To the west side up and down my spine
+And let you feel what you've been missing
+I'm so bonafide
+
+
+Call me
+Ooo, when you need me
+Baby, you don't have to worry
+Call me
+We can do something
+
+Call me
+Ooo, when you need me
+Baby, you don't have to worry
+Call me
+We can do something
+
+
+Baby, take my hand
+When you're feeling lonely
+It don't matter where you're at
+Just let me put it on you
+I got another man
+But he ain't like you
+And I can't be your baby mother
+Though I'd like to
+C-C-C-C-Call me at the break of dawn
+I'll be sure to meet you with no panties on
+We can slip and slide
+We can take a ride
+And feel the love that you've been missing
+I'm so bonafide
+
+
+
+
+You can call me
+You can call me
+Call me

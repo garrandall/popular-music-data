@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: could-this-be-love-seduction
+lyrics_url: https://genius.com/Seduction-could-this-be-love-lyrics
 name: Could This Be Love
 rankings:
 - end_date: '1990-06-15'
@@ -79,4 +80,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-10-06'
 ---
+Staring through the windows of time
+Drying off the last year of our bind
+Was it real or just a mirage?
+Love has its way of making you blind
+I stared deep into your heart and your soul
+And I feel what any woman would want
 
+Why did I run?
+Why did I hide?
+Because the memories bleed on and on
+
+Time goes on
+And the feelings stay strong
+Memories laugh and play with my heart
+Like thunder in a rainstorm
+Tell me is this real or just a mirage?
+I ask myself
+
+Could this be love
+Or just a memory
+Of the two of us together
+Lifetime friends forever
+You and me a unity
+Of friendship and love
+
+As we moved our separate ways that day
+Tears ran down my face
+And I asked myself
+Was I just too weak to face the truth
+That love is what I have for you
+
+You're someone special deep down inside
+Your love is true
+Why did I hide?
+Why did I run?
+Why did I hide?
+Because the memories bleed on and on
+
+Time goes on and the feeling stays strong
+This word called love
+Ae you the one?
+That I want
+Tell me is this real or just a mirage?
+I ask myself
+
+Could this be love
+Or just a memory
+Of the two of us together
+Lifetime friends forever
+You and me a unity
+Of friendship and love

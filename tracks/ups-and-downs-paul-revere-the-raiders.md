@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: ups-and-downs-paul-revere-the-raiders
+lyrics_url: https://genius.com/Paul-revere-and-the-raiders-ups-and-downs-lyrics
 name: Ups And Downs
 rankings:
 - end_date: '1967-02-24'
@@ -40,4 +41,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-04-08'
 ---
+Lindsay-Melcher
 
+Now, things was looking golden, baby
+Everything was fine
+You never made no sign
+That you had changed your mind
+
+I guess I was mistaken, girl
+To count so on you
+What else could I do
+Time to pay my dues
+
+Well girl, I've been torn up before
+But I can't handle that once more
+Well I been down for a long long time
+And now it's time to reach my mind
+There's lots of pain upon this earth
+Girl, I've had my money's worth
+I have had my ups and downs and all around
+
+Girl, I've tried to change your way of thinkin'
+Tried to make you see
+Well, livin' here with me
+Is where you ought to be
+
+But it didn't seem to make no difference
+It never changed your world
+Or stopped your social twirl
+You're still the same old girl
+
+And now, I've been torn up before
+But I can't handle that once more
+I been down for a long long time
+But now it's time to reach my mind
+'Cause there's lots of pain upon this earth
+And girl, I've had my money's worth
+I have had my ups and downs and all around
+
+I've been up, down, all around now baby (up, down, all around)
+I've been up, I been down, I been all around now baby (up, down, all around)
+Yeah we've both been up and down and all around baby(up, down, all around)
+You go up, you go down, you go all around now baby (up, down, all around)
+Yes, I'm up, I'm down, all around now baby (up, down, all around)
+Up and down and all around

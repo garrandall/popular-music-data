@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-must-be-him-vikki-carr
+lyrics_url: https://www.musixmatch.com/lyrics/Vikki-Carr/It-Must-Be-Him
 name: It Must Be Him
 rankings:
 - end_date: '1967-09-08'
@@ -67,4 +68,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-12-09'
 ---
+I tell myself what's done is done
+I tell myself don't be a fool
+Play the field have a lot of fun
+It's easy when you play it cool
 
+I tell myself don't be a chump
+Who cares, let him stay away
+That's when the phone rings and I jump
+And as I grab the phone I pray
+
+Let it please be him, oh dear God
+It must be him, or I shall die
+Or I shall die
+Oh hello, hello my dear God
+It must be him but it's not him
+And then I die
+That's when I die
+
+After a while, I'm myself again
+I pick the pieces off the floor
+Put my heart on the shelf again
+You'll never hurt me anymore
+
+I'm not a puppet on a string
+I'll find somebody else someday
+That's when the phone rings, and once again
+I start to pray
+
+Let it please be him, oh dear God
+It must be him, it must be him
+Or I shall die, or I shall die
+Oh hello, hello my dear God
+It must be him but it's not him
+And then I die
+Again I die
+
+Let it please be him, oh dear God
+It must be him, it must be him
+Or I shall die, or I shall die

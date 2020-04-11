@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-is-julie--the-lettermen
+lyrics_url: https://genius.com/The-lettermen-how-is-julie-lyrics
 name: How Is Julie?
 rankings:
 - end_date: '1962-05-18'
@@ -39,4 +40,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-30'
 ---
+Wherever I go, whoever I see
+How is Julie?
+My friends ask of me
 
+How is Julie?
+Friends wants to know
+Give her our love and that we said hello
+You're such a lucky guy
+All my friends would say
+For an angel like Julie to love you that way
+
+Everyone knows Julie is mine
+So when they ask me
+I say that she's fine
+But if they'd look closer
+They'd know it's a lie
+For my darlin' Julie left me last night
+Yes my darlin' Julie, my wonderful Julie
+My sweet angel, Julie, left me last night

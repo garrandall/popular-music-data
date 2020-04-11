@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bumble-bee-lavern-baker
+lyrics_url: https://genius.com/Lavern-baker-bumble-bee-lyrics
 name: Bumble Bee
 rankings:
 - end_date: '1960-11-20'
@@ -51,4 +52,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-23'
 ---
+I'm gonna have to put you down
+You been treating me like a clown
+You know you've hurt me once before
+You'll never hurt me anymore
 
+
+Shoo-ee, you hurt me like a bee
+A bumble bee, a evil bumble bee
+
+I gave you love as sweet as honey
+My life, my soul and all my money
+You didn't seem to realize
+You had a home in paradise
+
+
+Don't you know I cry
+Night after night
+Just one kiss before you go
+Don't ever come back no more
+
+Now, baby, there's no need of crying
+I'm sick and tired of your lying
+You know you've hurt my heart again
+I'm sorry, baby, it's the end
+
+
+Now, baby, there's no need of crying
+I'm sick and tired of your lying
+You know you've hurt my heart again
+I'm sorry, baby, it's the end

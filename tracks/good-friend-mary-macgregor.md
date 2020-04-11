@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-friend-mary-macgregor
+lyrics_url: https://www.musixmatch.com/lyrics/Mary-MacGregor/Good-Friend
 name: Good Friend
 rankings:
 - end_date: '1979-08-17'
@@ -55,4 +56,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
 ---
-
+If you let me,
+I could be your good friend
+I know that if you let me
+We could walk together
+We're not so different at all
+Though we may have different dreams
+When they fall apart, we hurt the same it seems
+I'm so sure, so don't you bet me
+I just know that if you let me
+I'll show you that I could be your good friend
+Someone to share your good times
+Someone who you can count on
+That someone who, when you turn to,
+Won't turn away
+Repeat

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-i-m-burnin--dolly-parton
+lyrics_url: https://genius.com/Dolly-parton-baby-im-burning-lyrics
 name: Baby I'm Burnin'
 rankings:
 - end_date: '1978-12-15'
@@ -63,4 +64,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-10'
 ---
+You look at me that way
+I know what your eyes say
+Your eyes reflect love and desire
+I see that you need me
+I need you to please me
+You touch me and set me on fire
 
+It's the way that you love me
+The way that you touch me
+The way that you whisper my name
+I cannot resist you
+Each time I kiss you
+Then everything goes up in flames
+
+Baby I'm burning out of control
+Baby I'm burning body and soul
+Hot as a pistol of flaming desire
+Baby I'm burning, you got me on fire
+I'm on fire
+
+This red hot emotion
+Puts fireworks in motion
+It looks like the Fourth of July
+There's no use in fighting
+This fire you've ignited
+Just stand back and watch the sparks fly
+
+Baby I'm burning out of control
+Baby I'm burning body and soul
+Hot as a pistol of flaming desire
+Baby I'm burning, you got me on fire
+
+Baby I'm burning
+Baby I'm burning
+Baby I'm burning
+Baby I'm burning
+
+Baby I'm burning out of control
+Baby I'm burning body and soul
+Hot as a pistol of flaming desire
+Baby I'm burning, you got me on fire
+
+Baby I'm burning out of control
+Baby I'm burning body and soul
+Hot as a pistol of flaming desire
+Baby I'm burning, you got me on fire
+
+Baby I'm burning out of control
+Baby I'm burning body and soul
+Hot as a pistol of flaming desire
+Baby I'm burning, you got me on fire

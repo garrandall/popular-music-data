@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: touch-and-go-the-cars
+lyrics_url: https://genius.com/The-cars-touch-and-go-lyrics
 name: Touch And Go
 rankings:
 - end_date: '1980-09-12'
@@ -51,4 +52,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-15'
 ---
+All I need is what you've got
+All I'll tell is what you're not
+All you know is what you hear
+I get this way when you come near
 
+Then I know it's gone too far
+Uh, oh, I touched your star
+And it felt so right
+Just like the hush of midnight
+And then you said
+With me it's touch and go-o-o-o
+Touch and go-o-o-o
+
+All I need is you tonight
+Flying like a cement kite, yeah
+In your headlock on the floor
+Who could ever ask for more
+
+And I know it's gone too far
+Uh, oh, I touched your star
+And it felt so right
+Just like the hush of midni-ight
+And then you said
+With me it's touch and go-o-o-o
+Touch and go-o-o-o
+
+All I want is you tonight
+I guess that dress does fit you tight, yeah
+You know that look does make me shake
+It almost looks too good to fake
+
+And I know it's gone too far
+Uh, oh, I touched your star-r-r
+And it felt so right
+Just like the hush of midni-ight
+Then you said
+With me it's touch and go-o-o-o
+Touch and go-o-o-o
+
+Well it's touch and go-o-o-o
+Its touch and go-o-o-o
+
+Well it's touch and go-o-o-o
+Touch and go-o-o-o
+Touch and go-o-wo yeah
+
+Well it's touch and go-o-o-o
+Touch and go-o-o-o
+Touch and go
+
+All I need is what you've got

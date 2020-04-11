@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-more-try-timmy-t-
+lyrics_url: https://genius.com/Timmy-t-one-more-try-lyrics
 name: One More Try
 rankings:
 - end_date: '1990-12-28'
@@ -107,4 +108,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-06-08'
 ---
+It's been a long time since you left me
+I didn't mean to make you cry
+I didn't mean to disappiont you
+I didn't mean to tell you lies
 
+And after all that we have been through
+Won't you let me tell you why
+
+One more try
+I didn't know how much I loved you
+One more try
+Let me put my arms around you
+Living all these lonely nights without you
+Oh baby, can we give it one more try
+
+It's been a long time since I've kissed you
+It always used to feel so good
+And if you knew how much I missed you
+You'd forgive me if you could
+
+And now that we have found each other
+Can't we give it one more try
+
+One more try
+I didn't know how much I loved you
+One more try
+Let me put my arms around you
+Living all these lonely nights without you
+Oh baby, can we give it one more try
+
+And after all that we have been through
+Won't you let me tell you why
+And now that we have found each other
+Can't we give it one more try
+
+One more try
+I didn't know how much I loved you
+One more try
+Let me put my arms around you
+Living all these lonely nights without you
+Oh baby, can we give it one more try
+
+Oh girl, you know I love you
+I just want you to know
+Our love, I'll always treasure
+So please, just don't let me go

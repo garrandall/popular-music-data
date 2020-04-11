@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: livin--in-the-light-caron-wheeler
+lyrics_url: https://genius.com/Caron-wheeler-livin-in-the-light-lyrics
 name: Livin' In The Light
 rankings:
 - end_date: '1990-10-05'
@@ -47,4 +48,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-12-01'
 ---
+(Had to survive, livin' in the light
+Have to stay alive, livin' in the light
+Have to survive
+Livin' in the light)
 
+Hold the beat, stop the beat, drop the beat
+
+Children of nature
+From another culture
+Had to survive
+Livin' in the light
+
+Stolen from the center (Of the world)
+Untimely departure
+Somehow survived
+Livin' in the light
+
+(Had to survive, livin' in the light
+Have to stay alive, livin' in the light
+Had to survive
+Livin' in the light)
+
+Rootical subculture
+Oh, the sound of the street dub-vendor
+Knew you had to survive
+Livin' in the light
+
+Beautiful yet scattered
+Through it all your spirit never shattered
+Glad to stay alive
+Livin' in the light (Oh)
+
+(Had to survive) Oh, I, I, I (Livin' in the light), I, I
+(Have to stay alive, livin' in the light) Ohohohohoh
+(Had to survive) Yes, in a light
+(Livin' in the light) So bright, had to guide you home
+
+(Have to survive, livin' in the light) Children of nature
+(Have to stay alive, livin' in the light) Livin' in the light, yes
+(Had to survive) Had to survive
+(Livin' in the light) I, I, I, I, I
+
+There's ways we can sometimes turn our wrong to right (Aha)
+But some things we can never change
+Things can be so fine
+Livin' in the light
+
+(Hold the beat, stop the beat) (Oh) (Drop the beat)
+
+To those who know what I mean
+And those who don't, I'll tell you
+Follow good feeling through
+And let the superficial pass you by, oh yeah
+
+Livin' in the light, yeah, yeah
+
+(Have to survive, livin' in the light) Children of nature
+(Have to stay alive, livin' in the light) Livin' in the light, yes
+(Had to survive) Had to survive
+(Livin' in the light) I, I, I, I, I (Oh)
+
+(Have to survive) Oh, I, I, I (Livin' in the light), I, I
+(Have to stay alive, livin' in the light) Livin' in the light, yes
+(Had to survive) Had to survive
+(Livin' in the light) I, I, I, I, I
+
+Yeah (Had to survive, livin' in the light)
+Ow! (Had to stay alive, livin' in the light)
+(Had to survive
+Livin' in the light)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ease-back-the-meters
+lyrics_url: https://www.musixmatch.com/lyrics/The-Meters/Ease-Back
 name: Ease Back
 rankings:
 - end_date: '1969-08-01'
@@ -31,4 +32,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-08-30'
 ---
+Everclear
+Miscellaneous
+The Boys Are Back In Town (Lynott)
 
+Guess who just got back today?
+Those wild-eyed boys that had been away
+Haven't changed, haven't much to say
+But man, I still think those cats are great
+They were asking if you were around
+How you was, where you could be found
+I told them you were living downtown
+Driving all the old men crazy
+The boys are back in town
+You know the chick that used to dance a lot
+Every night she'd be on the floor shaking what she'd got
+Man when I tell you she was cool, she was red hot
+I mean she was steaming
+That night over at Johnny's place
+Well this chick got up and she slapped Johnny's face
+Man we just fell about the place
+If that chick don't want to know, forget her
+Friday night they'll be dressed to kill
+Down at Dino's bar and grill
+The drink will flow and blood will spill
+If the boys want to fight, you'd better let them
+That jukebox in the corner blasting out my favorite song
+The nights are getting warmer, it won't be long
+It won't be long till summer comes
+Now that the boys are here again
+The boys are back in town

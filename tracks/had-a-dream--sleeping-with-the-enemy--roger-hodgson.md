@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: had-a-dream--sleeping-with-the-enemy--roger-hodgson
+lyrics_url: https://genius.com/Roger-hodgson-had-a-dream-sleeping-with-the-enemy-lyrics
 name: Had A Dream (Sleeping With The Enemy)
 rankings:
 - end_date: '1984-10-19'
@@ -67,4 +68,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-01-19'
 ---
+Had a dream, I was born to be naked in the eye of the storm
+And now it's standing right in front of me
+What's it going to do to me, who knows
+Had a dream, it was time to be taken to the front of the line
+Well that is not a place you wanna be
+Sleeping with the enemy, you know
 
+
+I don't care what the future brings, give a damn about anything
+I'd be fine if they'd only leave me alone
+But it's time, gotta take a stance 'cause I won't get a second chance
+And I know now I have to make it alone
+
+
+Had a dream it was war, and they couldn't tell me what it was for
+But it was something they could lie about, something we could die about, you know
+Anytime, anyplace when you look that man in the face
+Well it is not a face you wanna see
+Sleeping with the enemy, you know
+
+
+Mary, can you hear me, can you tell me what it's all supposed to mean
+Holding out a photograph of all that I have seen
+I wish I could hold you, I wish I could hold you
+
+
+Had a dream, it was time to be a witness at the scene of the crime
+Well that is something you can analyze, something you can criticize, who knows
+So we wait, hesitate and we're making such a mistake
+Oh whatever can the matter be, sleeping with the enemy you know
+
+
+I don't care what the future brings, give a damn about anything
+I'd be fine if they'd only leave me alone
+But it's time, gotta take a stance 'cause I won't get a second chance
+And I know now I have to make it alone

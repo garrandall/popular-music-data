@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: candy-rain-soul-for-real
+lyrics_url: https://genius.com/Soul-for-real-candy-rain-lyrics
 name: Candy Rain
 rankings:
 - end_date: '1995-01-13'
@@ -107,4 +108,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-06-24'
 ---
+My love, do you ever dream of
+Candy coated raindrops?
+You're the same, my candy rain
 
+
+Have you ever loved someone
+So much you thought you'd die?
+Giving so much of yourself
+It seems the only way
+Tell me what you want and I
+And I will give it to you
+Cause you are
+
+
+My love, do you ever dream of
+Candy coated raindrops?
+You're the same, my candy rain
+
+
+My love, did you ever dream
+That it could be so right?
+I never thought that I would find
+All that I need in life
+All I want, all I need now, I know
+I know I found it in you, I found it in you
+Cause you are
+
+
+My love, do you ever dream of
+Candy coated raindrops?
+You're the same, my candy rain
+My love, do you ever dream of
+Candy coated raindrops?
+You're the same, my candy rain
+My love, do you ever dream of
+Candy coated raindrops?
+You're the same, my candy rain
+
+Candy coated raindrops
+Candy coated raindrops
+
+
+My love, do you ever dream of
+Candy coated raindrops?
+You're the same, my candy rain
+My love, do you ever dream of
+Candy coated raindrops?

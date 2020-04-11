@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jim-dandy-black-oak-arkansas
+lyrics_url: https://genius.com/Black-oak-arkansas-jim-dandy-lyrics
 name: Jim Dandy
 rankings:
 - end_date: '1973-12-21'
@@ -59,4 +60,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-03-09'
 ---
+Jim Dandy to the rescue!
+Jim Dandy to the rescue!
+Jim Dandy to the rescue!
+Go, Jim Dandy! Go, Jim Dandy!
 
+I was sitting on a mountain top
+30,000 feet to drop
+Tied me on a runaway horse
+Uh huh, that's right, of course
+Jim Dandy to the rescue!
+Go, Jim Dandy! Go, Jim Dandy!
+
+One day, I met a girl named Sue
+She was feeling kind of blue
+I'm Dandy, the kind of guy
+Who can't stand to see a little girl cry
+Jim Dandy to the rescue!
+Go, Jim Dandy! Go, Jim Dandy!
+
+Jim Dandy to the rescue!
+Jim Dandy to the rescue!
+Jim Dandy to the rescue!
+Go, Jim Dandy! Go, Jim Dandy!
+
+I was riding on a submarine
+Got a message from my mermaid queen
+She was hanging on a fishing line
+Mr. Dandy didn't waste no time!
+Jim Dandy to the rescue!
+Go, Jim Dandy! Go, Jim Dandy!
+
+Once upon a time, I went to Maine
+Got a ticket on a DC plane
+Mr. Dandy didn't need no chute!
+I was high and ready to boot!
+Jim Dandy to the rescue!
+Go, Jim Dandy! Go, Jim Dandy!
+
+Jim Dandy to the rescue!
+Jim Dandy to the rescue!
+Jim Dandy to the rescue!
+Go, Jim Dandy! Go, Jim Dandy!

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: catching-the-sun-spyro-gyra
+lyrics_url: https://genius.com/Spyro-gyra-catching-the-sun-lyrics
 name: Catching The Sun
 rankings:
 - end_date: '1980-04-25'
@@ -27,4 +28,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-17'
 ---
-
+INSTRUMENTAL

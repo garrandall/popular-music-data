@@ -1,9 +1,10 @@
 ---
 artists:
-- Bert Kaempfert And His Orchestra
+- Bert Kaempfert
 features: []
 genres: []
 key: that-happy-feeling-bert-kaempfert-and-his-orchestra
+lyrics_url: https://genius.com/Bert-kaempfert-that-happy-feeling-lyrics
 name: That Happy Feeling
 rankings:
 - end_date: '1962-05-25'
@@ -31,4 +32,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-30'
 ---
-
+Instrumental

@@ -1,6 +1,6 @@
 ---
 artists:
-- Robert Maxwell His Harp And Orchestra
+- Robert Maxwell
 features: []
 genres: []
 key: peg-o--my-heart-robert-maxwell-his-harp-and-orchestra

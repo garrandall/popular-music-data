@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: let-the-good-times-roll-shirley-lee
+lyrics_url: https://genius.com/Shirley-and-lee-let-the-good-times-roll-lyrics
 name: Let The Good Times Roll
 rankings:
 - end_date: '1960-09-11'
@@ -28,4 +29,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
 ---
+Come on baby let the good times roll
+Come on baby let me thrill your soul
+Come on baby let the good times roll
+Roll all night long
 
+Come on baby yes this is this
+This is the something I just can't miss
+Come on baby let the good times roll
+Roll all night long
+
+Come on baby while the thrill is on
+Come on baby lets have some fun
+Come on baby let the good times roll
+Roll all night long
+
+Come on baby just close the door
+Come on baby lets rock some more
+Come on baby let the good times roll
+Roll all night long
+
+Feels so good
+When your home
+Come on baby
+Rock me all night long
+
+Come on baby let the good times roll
+Come on baby let me thrill your soul
+Come on baby let the good times roll
+Roll all night long
+
+Feels so good
+When your home
+Come on baby
+Rock me all night long
+
+Come on baby let the good times roll
+Come on baby let me thrill your soul
+Come on baby let the good times roll
+Roll all night long

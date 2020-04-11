@@ -1,9 +1,11 @@
 ---
 artists:
-- Elvis Presley With The Jordanaires
+- Elvis Presley
+- The Jordanaires
 features: []
 genres: []
 key: surrender-elvis-presley-with-the-jordanaires
+lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-and-The-Jordanaires/Surrender
 name: Surrender
 rankings:
 - end_date: '1961-02-26'
@@ -55,4 +57,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-05-08'
 ---
+When we kiss my heart's on fire
+Burning with a strange desire
+And I know, each time I kiss you
+That your heart's on fire too
 
+So, my darling, please surrender
+All your love so warm and tender
+Let me hold you in my arms, dear
+While the moon shines bright above
+
+All the stars will tell the story
+Of our love and all its glory
+Let us take this night of magic
+And make it a night of love
+
+Won't you please surrender to me
+Your lips, your arms, your heart, dear
+Be mine forever
+Be mine tonight

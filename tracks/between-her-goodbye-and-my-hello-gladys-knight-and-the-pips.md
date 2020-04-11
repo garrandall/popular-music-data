@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: between-her-goodbye-and-my-hello-gladys-knight-and-the-pips
+lyrics_url: https://genius.com/Gladys-knight-and-the-pips-between-her-goodbye-and-my-hello-lyrics
 name: Between Her Goodbye And My Hello
 rankings:
 - end_date: '1974-07-05'
@@ -43,4 +44,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-08-24'
 ---
+I wish I could have met you
+In a year or two
+Ah, maybe then you could have seen me
+What I saw in you
 
+On the day we met
+You were still trying to forget someone
+You used to know
+And there just wasn't enough time
+Between her goodbye and my hello
+
+Boy, I want to try for a while
+But I could always see
+A place I can fill
+To love for a memory
+
+'Cause at the mention of her name
+I could still see the flame burning
+Soft and low
+And there just wasn't enough time
+Between her goodbye and my hello
+
+Oh, time is the healer, I want you to know
+Especially those heartbreaking kind
+Lord, it looks like I just came along too soon
+'Cause she still takes up too much of your mind
+
+If I pass that on, it cost on a later day
+I know we could have made it, baby
+We're almost fading it away
+
+But you weren't completely free
+'Cause someone else's memory
+Just wouldn't let you go
+And there just wasn't enough time
+Between her goodbye
+
+In between her goodbye and my hello
+In between her goodbye and my hello
+In between her goodbye and my hello
+In between her goodbye and my hello
+In between her goodbye and my hello
+
+Baby, all we needed was a little more time
+I needed that time to build the thing and make you mine

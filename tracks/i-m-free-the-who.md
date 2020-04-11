@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-free-the-who
+lyrics_url: https://genius.com/The-who-im-free-lyrics
 name: I'm Free
 rankings:
 - end_date: '1969-07-25'
@@ -39,4 +40,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-09-06'
 ---
+I'm free, I'm free
+And freedom tastes of reality
+I'm free, I'm free
+And I'm waiting for you to follow me
 
+
+If I told you what it takes
+To reach the highest high
+You'd laugh and say nothing's that simple
+But you've been told many times before
+Messiahs pointed to the door
+And no one had the guts to leave the temple!
+
+
+I'm free, I'm free
+And freedom tastes of reality
+I'm free, I'm free
+And I'm waiting for you to follow me
+
+
+How can we follow?
+How can we follow?

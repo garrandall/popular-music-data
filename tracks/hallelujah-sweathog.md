@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hallelujah-sweathog
+lyrics_url: https://genius.com/Sweathog-hallelujah-lyrics
 name: Hallelujah
 rankings:
 - end_date: '1971-11-19'
@@ -47,4 +48,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-15'
 ---
+I used to look at life
+In a shade of gray
+Til I found some satisfaction
+In the things you say
+You took me in your hands
+And like a piece of clay
+You made me a man, now
+I'm proud to say
 
+Hallelujah, hallelujah
+Hallelujah, hallelujah
+
+I'd wake up in the morning
+And I'd wanna cry
+'Cause all my needed answers
+Were just passing by
+
+My feelings getting stronger
+Each and every day
+Lord, now that I've got you
+All I wanna say
+
+Hallelujah, hallelujah
+Hallelujah, hallelujah
+
+Hallelujah, come on
+Hallelujah
+Clap your hands
+If you want to
+
+Hallelujah
+Want you to sing to me now
+Hallelujah, sing
+Hallelujah, hallelujah
+Hallelujah, hallelujah
+Hallelujah, hallelujah.......

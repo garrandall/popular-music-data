@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sausalito-summernight-diesel
+lyrics_url: https://genius.com/Diesel-sausalito-summernight-lyrics
 name: Sausalito Summernight
 rankings:
 - end_date: '1981-09-18'
@@ -79,4 +80,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-09'
 ---
+We left for Frisco in your Rambler
+The radiator running dry
+I've never been much of a gambler
+And had a preference to fly
 
+You said, forget about the airline
+Let's take the car and save the fare
+We blew a gasket on the Grapevine
+And eighty dollars on repairs
+
+All aboard (Sausalito summernight)
+All aboard
+
+Hot summer night in Sausalito
+Can't stand the heat another mile
+Let's drop a quarter in the meter
+And hit the sidewalk for a while
+
+I'll have a burger and a root beer
+You feed the heap some multi-grade
+A shot of premium to boot, dear
+We'll get across the Golden Gate
+
+All aboard (Sausalito summernight)
+All aboard (Sausalito summernight)
+All aboard (Sausalito summernight)
+All aboard
+
+Another mile or two to Frisco
+Two hundred gallons from L.A
+The engine's thumpin' like a disco
+We ought to dump her in the bay
+
+All aboard (Sausalito summernight)
+All aboard
+
+Cashin' all my checks, scrapin' out my bank
+Spend it on a Rambler with a whirlpool in the tank
+Look out over here, watch out over there
+Can't afford a blowout 'cause we haven't got a spare
+
+All aboard (Sausalito summernight)
+All aboard (Sausalito summernight)
+All aboard (Sausalito summernight)
+All aboard
+
+Hot summer night in Sausalito (Sausalito summernight)
+Hot summer night in Sausalito (Sausalito summernight)
+Hot summer night in Sausalito (Sausalito summernight)
+Hot summer night in Sausalito (Sausalito summernight)
+Hot summer night in Sausalito (Sausalito summernight)
+Hot summer night in Sausalito (Sausalito summernight)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-stepped-into-my-life-melba-moore
+lyrics_url: https://genius.com/Melba-moore-you-stepped-into-my-life-lyrics
 name: You Stepped Into My Life
 rankings:
 - end_date: '1979-01-26'
@@ -35,4 +36,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-03'
 ---
+You stepped into my life
+And I'm oh, so happy
+You stepped into my life
+And I'm oh, so happy
 
+You stepped into my life
+Stepped into my life
+Stepped into my life
+And I'm oh, so happy
+You stepped into my life
+And I'm oh, so
+
+Before you came my way
+I always checked this out
+So much pain in love
+And so alone inside
+I never thought
+That I'd believe in love so much
+
+But, darling
+When you came close to me
+Suddenly
+Suddenly
+
+You stepped into my life
+And I'm oh, so happy
+You stepped into my life
+And I'm oh, so happy
+
+You stepped into my life
+Stepped into my life
+Stepped into my life
+And I'm oh, so happy
+You stepped into my life
+And I'm oh, so
+
+You will never know
+What you have done, my love
+You gave me so much more
+My love is worthy of
+
+Beneath my very soul
+I kneel before your touch
+Your touch is ecstasy
+Close to me
+Suddenly
+Suddenly
+
+You stepped into my life
+Stepped into my life
+Stepped into my life
+And I'm oh, so happy
+You stepped into my life

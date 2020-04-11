@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-tight-justin-bieber
+lyrics_url: https://genius.com/Justin-bieber-hold-tight-lyrics
 name: Hold Tight
 rankings:
 - end_date: '2013-11-15'
@@ -11,4 +12,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-11-09'
 ---
+Yeah, yeah, yeah
+Happy birthday
 
+
+That hold on tight
+Yeah that hold on tight, ooh that hold on tight
+Them lips won't let me go
+Lips won't let me go, lips won't let me go oh
+Hold on tight, that hold on tight
+Yeah hold on tight, that hold on tight
+Ooh that hold on tight
+Them lips won't let me go
+
+
+Don't let this go to your head
+But you're the best I've ever had
+Not to mention that thing is swollen
+You got me oh so in a trance
+Something like a ziploc, but a lip lock
+Want you wrapped around my arm like a wrist watch
+Oh so hard walking out
+Got me stuck like krazy glue, ooh
+
+
+That hold on tight
+Yeah that hold on tight, ooh that hold on tight
+Them lips won't let me go
+Lips won't let me go, lips won't let me go oh
+Hold on tight, that hold on tight
+Yeah hold on tight, that hold on tight
+Ooh that hold on tight
+Them lips won't let me go
+
+
+Got me tossing turning in the bed
+Your place is where I'd rather be instead
+You don't know your strength
+Missing you is like adrenaline
+Ooh when you got me in a gridlock, what a great spot
+With a turned up kind of loving, it just won't stop
+No, so hard walking out
+Got me stuck like krazy glue, ooh-wee
+
+
+That hold on tight
+Yeah that hold on tight, ooh that hold on tight
+Them lips won't let me go
+Lips won't let me go, lips won't let me go oh
+Hold on tight, that hold on tight
+Yeah hold on tight, that hold on tight
+Ooh that hold on tight
+Them lips won't let me go
+
+
+Oh baby, holding back the faces I would make
+I'm a fan and you're the rockstar, making it hard on me
+Visualise a monster, cause you're too bad for me
+Shot that arrow I'm hit, need you right near me
+I try to maintain
+So don't mind if I turn away, no no
+I try to maintain
+So don't mind if I turn away, ooh
+
+
+That hold on tight
+Yeah that hold on tight, ooh that hold on tight
+Them lips won't let me go
+Lips won't let me go, lips won't let me go oh
+Hold on tight, that hold on tight
+Yeah hold on tight, that hold on tight
+Ooh that hold on tight
+Them lips won't let me go

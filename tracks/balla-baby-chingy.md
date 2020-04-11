@@ -102,8 +102,8 @@ Girl I know you do the nasty (nasty)
 I can tell when ya (when ya) walk past me (past me)
 And ya Prada lookin flashy
 Errthang on ya mind jus ask me
-I know my err{ear} related to the wasky wabbit
-Carrots{karets} all in it jazzy, it's a habit (uh)
+I know my err related to the wasky wabbit
+Carrots all in it jazzy, it's a habit (uh)
 Wurrs my cash? Outside - I gotta Benz & Jag
 Both sittin on chrome Mags
 Is ya down for gettin dirty wit a Git It Boy?

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: united-peaches-herb
+lyrics_url: https://genius.com/Peaches-and-herb-well-be-united-lyrics
 name: United
 rankings:
 - end_date: '1968-05-24'
@@ -40,4 +41,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-07-06'
 ---
-
+Ooo oo oooo, yeah
+Honey you are my shining star
+Don't you go away, ooh baby
+Wanna be right here were you are until my dying day, yeah baby
+So many have tried, tried to find a love like yours and mine
+Mmm mmm mmm
+Girl don't you realize how you hypnotize
+Make me love you more each time yeah baby
+Honey I'll never leave you lonely
+Give my love to you only
+To you only
+To you only
+Honey you are my shining star don't you go away, no baby
+Wanna be right here were you are until my dying day yeah baby
+Feels so good when we're lying here next to each other lost in love, yeah baby
+Baby when we touch love you so much your all I ever dream of, yeah baby
+Honey I'll never leave you lonely
+Give my love to you only
+To you
+Only to you
+Don't you go away girl, nooo baby
+Wanna be right here were you are
+Until my dying day, hmmmm
+Honey you, you are my shining star don't you go away, woah oh baby
+Honey you are my shing star
+Don't you go away, noo baby
+Honey you are my shining star

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jealous-gene-loves-jezebel
+lyrics_url: https://genius.com/Gene-loves-jezebel-jealous-lyrics
 name: Jealous
 rankings:
 - end_date: '1990-08-24'
@@ -47,4 +48,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-10-20'
 ---
-
+I really notice that you don't sleep at night
+Say why do you worry, why you hurting inside?
+Who's hurt you baby? I like you a lot
+You are so beautiful and that is a fact
+Yeah, yeah
+Jealous
+I watch the sun, it cuts through the cloudy skies
+It heals these wounds and makes me glad to be alive
+So don't you worry, no don't you worry
+I'll make you happy, happy
+Yeah, yeah
+Something's wrong, something's wrong with you
+Jealous, yeah
+Something's really wrong, something's wrong with you
+Jealous, Jealous, Jealous, Jealous
+Yeah, yeah
+Yeah, yeah
+Jealous, Jealous
+I spot two lovers on the Old Brompton Road
+I feel so jealous, I need someone to hold
+Who's hurt you baby? I Like you a lot
+I look at you and I know that something's up
+Something's wrong, something's wrong with you
+Jealous
+Something's really wrong, something's wrong with you
+Jealous, Jealous, Jealous, Jealous
+How do you like the cat
+Kitty, kitty, kitty

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-did-they-go-lord-elvis-presley
+lyrics_url: https://genius.com/Elvis-presley-where-did-they-go-lord-lyrics
 name: Where Did They Go Lord
 rankings:
 - end_date: '1971-03-19'
@@ -35,4 +36,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-04-24'
 ---
+The words of her promise
+The flame of her faith
+The love that would never drift away
+Where did they go Lord, where did they go?
 
+You know somehow forever
+Slipped out of my hands
+And my dreams ran away with the wind
+Where did they go Lord, where did they go
+
+You know sometimes I wish
+I had lost her to another
+Well but Lord she just walked off all alone
+But all that is within me is the bitter just ending
+And bewildered because her love is gone
+
+Oh the passion I trusted
+The truth that I leaned on
+And the hope that would forever keep me strong
+I cry out my questions
+Oh, the answers are all gone
+Where did they go Lord, tell me where did they go
+Where did they go Lord, tell me where did they go

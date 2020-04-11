@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-what-you-want-me-to-do-jimmy-reed
+lyrics_url: https://genius.com/Jimmy-reed-baby-what-you-want-me-to-do-lyrics
 name: Baby What You Want Me To Do
 rankings:
 - end_date: '1960-02-21'
@@ -63,4 +64,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
 ---
+Got me running, got me hiding
+Got me run, hide, hide, run anyway you want to let it roll
+Yeah, yeah, yeah
+You got me doin what you want me
+So baby why you want to let go
 
+Going up, going down
+Got me up, down, down, up, anyway you want to let it roll
+Yeah, yeah, yeah
+You got me doin what you want me
+So baby why you want to let go
+
+Got me beeping, got me hiding
+Got me beep, hide, beep, hide, anyway you want to let it roll
+Yeah, yeah, yeah
+You got me doin what you want me
+So baby why you want to let go

@@ -1,7 +1,8 @@
 ---
 artists:
-- The Raelets/Ray Charles Orchestra
-features: []
+- The Raelettes
+features:
+- The Ray Charles Orchestra
 genres: []
 key: one-hurt-deserves-another-the-raelets-ray-charles-orchestra
 name: One Hurt Deserves Another

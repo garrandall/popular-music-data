@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: missing-you-ray-peterson
+lyrics_url: https://genius.com/Ray-peterson-missing-you-lyrics
 name: Missing You
 rankings:
 - end_date: '1961-08-06'
@@ -67,4 +68,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
 ---
-
+Missin you
+Can't help but wish that you
+Were in my arms tonight
+Making love to me
+Kissin you kissin you
+Thats all I want to do
+It never seems just right
+Now that we are apart it for you to write
+Saying you love me too
+Missin you
+Can't help but wish that you
+Were in my arms tonight
+Log on to Top40db
+Making love to me
+I always spend my time
+Just writing lines to you
+Can't wait for you to write
+Sayin you love me too
+Missin you
+Can't help but wish that you
+Were in my arms tonight
+Making love to me

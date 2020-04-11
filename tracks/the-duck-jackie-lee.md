@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-duck-jackie-lee
+lyrics_url: https://www.musixmatch.com/lyrics/Jackie-Lee/The-Duck
 name: The Duck
 rankings:
 - end_date: '1965-11-26'
@@ -63,4 +64,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-19'
 ---
+Umm-hmm
+Now, there's a new dance
+It goes like-a this low
+I know what you're thinkin', babe
+Child, it ain't The Jerk, n-no
 
+Now, if ya come here to swim
+Now man, you're out a-luck
+The name of this dance
+Child, they call, The Duck
+
+Hey Lord, you run down to the river, Lord
+(Come on baby)
+Then you get a duck
+(Try your luck)
+
+Oh Lord, you start to flap your wings
+(Come on baby)
+Child, until you get enough
+(Do The Duck)
+
+Now, come on, baby
+(Come on baby)
+Come on, baby
+(Come on baby)
+
+You know you're lookin, ' so
+(Come on baby)
+So, good now
+Alright
+(Do The Duck)
+
+Ow!
+
+
+
+(Do-do-do-aah)
+
+Just like a-workin' on a chain gang
+You're bustin' rocks
+But now you're groovin' on the Dance floor, Lord
+(Come on baby)
+Hey now, with a stone fox
+(Do The Duck)
+
+Come on, baby
+(Come on baby)
+Come on, baby
+(Come on baby)
+
+Now, just a little bit softer
+(Do The Duck)
+A little bit softer
+(Do The Duck)
+Now, just a little bit softer, now
+(Do The Duck)
+
+Now, just a little bit louder
+(Do The Duck)
+Lord, just a little bit-a louder
+(Do The Duck)
+
+My-my-my-my-my-my-my
+(Do The Duck)
+My-my, baby look
+Come on
+(Do The Duck)
+
+FADES-
+Now, do The Duck
+Hey, do The Duck
+(Do The Duck)
+Hey, do The Duck
+(Come on baby)
+Hey, do The Duck
+(Come on baby)
+
+Woo-ooo-ooo.

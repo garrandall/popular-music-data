@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pilot-of-the-airwaves-charlie-dore
+lyrics_url: https://genius.com/Charlie-dore-pilot-of-the-airwaves-lyrics
 name: Pilot Of The Airwaves
 rankings:
 - end_date: '1980-02-29'
@@ -75,4 +76,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-06-14'
 ---
+Pilot of the Airwaves, here is my request
+You don't have to play it but I hope you'll do your best
+I've been listening to your show on the radio
+And you seem like a friend to me
 
+
+Or the record of your choice, I don't mind
+I'd be  happy just to hear your voice
+Saying this is for the girl who didn't sign her name
+I guess she needs a dedication just the same
+
+
+Late at night I'm still listening
+Don't waste my time chasing sleep
+People say I look weary
+But that's just the company I keep
+Ooh, you make the night time race
+Ooh, I don't need to see your face
+You're sounding good (You're sounding good)
+Sounding good to me
+
+
+Pilot of the Airwaves, here is my request
+You don't have to play it but I hope you'll do your best
+I've been listening to your show on the radio
+And you seem like a friend to me
+
+
+
+Ahh, Ahh
+
+
+Late at night I'm still listening
+Don't waste my time chasing sleep
+People say I look weary
+But that's just the company I keep
+Ooh, you make the night time race
+Ooh, I don't need to see your face
+You're sounding good (You're sounding good)
+Sounding good to me
+
+
+Pilot of the Airwaves, here is my request
+You don't have to play it but I hope you'll do your best
+I've been listening to your show on the radio
+And you seem like a friend to me
+
+Chorus/Outro
+Pilot of the Airwaves, here is my request
+You don't have to play it but I hope you'll do your best
+I've been listening to your show on the radio
+And you seem like a friend to me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wouldn-t-have-missed-it-for-the-world-ronnie-milsap
+lyrics_url: https://genius.com/Ronnie-milsap-i-wouldnt-have-missed-it-for-the-world-lyrics
 name: I Wouldn't Have Missed It For The World
 rankings:
 - end_date: '1981-10-30'
@@ -75,4 +76,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-02-13'
 ---
+Our paths may never cross again
+Maybe my heart will never mend
+But I'm glad for all the good times
+Cause you've brought me so much sunshine
+And love was the best it's ever been
 
+
+I wouldn't have missed it for the world
+Wouldn't have missed loving you girl
+You've made my whole life worth while, with your smile
+I wouldn't trade one memory
+Cause you mean too much to me
+Even though I lost you girl
+I wouldn't have missed it for the world
+
+
+They say that all good things must end
+Loves comes and goes just like the wind
+You've got your dreams to follow
+But if I had the chance tomorrow
+You know I'd do it all again
+
+
+I wouldn't have missed it for the world
+Wouldn't have missed loving you girl
+You've made my whole life worth while, with your smile
+I wouldn't trade one memory
+Cause you mean too much to me
+Even though I lost you girl
+I wouldn't have missed it for the world
+
+
+Oh I wouldn't trade one memory
+Cause you mean too much to me
+Even though I lost you girl
+I wouldn't have missed it for the world
+
+
+I wouldn't have missed it for the world
+Wouldn't have missed loving you girl
+You've made my whole life worth while, with your smile
+I wouldn't trade one memory
+Cause you mean too much to me
+Even though I lost you girl
+I wouldn't have missed it for the world

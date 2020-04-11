@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gee-whiz--look-at-his-eyes--carla-thomas
+lyrics_url: https://genius.com/Carla-thomas-gee-whiz-lyrics
 name: Gee Whiz (Look At His Eyes)
 rankings:
 - end_date: '1961-02-05'
@@ -63,4 +64,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-05-01'
 ---
+Gee whiz
+Look at his eyes
+Gee whiz
+How they hypnotize
+He's got everything a girl could want
+Man oh man
+What a prize
+Uh huh
+Gee whiz
+He's all the joy
+Gee whiz
+I could find in a boy
+He's awful nice
+It's paradise
+I hope I'm not his decoy
 
+Heaven up above
+Knows how much I love
+That fellah so
+Angels sing
+Of the love I bring
+I hope our love will grow and grow
+Cause, gee whiz
+I love that guy
+Gee whiz
+My, my oh my
+There are things we could do
+I could say I love you
+But all I could say is
+Gee whiz

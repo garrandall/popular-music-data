@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-won-t-see-me-anne-murray
+lyrics_url: https://genius.com/Anne-murray-you-wont-see-me-lyrics
 name: You Won't See Me
 rankings:
 - end_date: '1974-04-26'
@@ -87,4 +88,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-08-31'
 ---
+When I call you up, your line's engaged
+I have had enough, so act your age
+We have lost the time that was so hard to find
+And I will lose my mind, if you won't see me
+You won't see me
 
+I don't know why you should want to hide
+But I can't get through, my hands are tied
+I won't want to stay, I don't have much to say
+But I can turn away if you won't see me
+You won't see me
+
+Time after time you refuse to even listen
+I wouldn't mind if I knew what I was missin'
+
+Though the days are few, they're filled with tears
+And since I lost you, it feels like years
+Yes, it seems so long since you've been gone
+And I just can't go on, if you won't see me
+You won't see me
+
+Time after time you refuse to even listen
+I wouldn't mind if I knew what I was missin'
+
+Though the days are few, they're filled with tears
+And since I lost you, it feels like years
+Yes, it seems so long since you've been gone
+And I just can't go on, if you won't see me
+You won't see me...

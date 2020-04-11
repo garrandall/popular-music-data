@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-i-fall-in-love-donny-osmond
+lyrics_url: https://genius.com/Donny-osmond-when-i-fall-in-love-lyrics
 name: When I Fall In Love
 rankings:
 - end_date: '1973-11-30'
@@ -59,4 +60,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
 ---
+When I fall in love
+It will be forever
+Or I'll never fall in love
 
+In a restless world like this is
+Love is ended before it's begun
+And too many moonlight kisses
+Seem to cool in the warmth of the sun
+
+When I give my heart
+It will be completely
+Or I'll never give my heart
+
+And the moment I can feel that
+You feel that way too
+Is when I fall in love with you
+
+And the moment I can feel that
+You feel that way too
+Is when I fall in love
+When I fall in love
+When I fall in love with you

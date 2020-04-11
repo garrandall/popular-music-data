@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-better-get-it-joe-tex
+lyrics_url: https://www.musixmatch.com/lyrics/Joe-Tex/You-Better-Get-It
 name: You Better Get It
 rankings:
 - end_date: '1965-02-26'
@@ -35,4 +36,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
 ---
+You asked me
+Do I love you
+That's a silly question
+Listen
 
+If I didn't love you
+Would I call every day
+If I didn't love you
+Would I act this way
+
+So why do you ask
+Do I really love you
+When it's really so clear
+Even strangers can see that I do
+
+If I didn't love you
+Would I worry so
+Each and every moon
+When you come and you go
+
+So just ask yourself
+Would I waste my time
+If I didn't love you
+Would I hope and pray
+You'd be mine
+
+Oh, baby, oh, baby
+Oh, oh, oh, mmmm
+
+If I didn't love you
+Would I miss you this much
+Put heart and soul to rot
+Just for your touch
+
+Would I be a sling
+And a fool for your charm
+If I didn't love you
+Would I be right here in your arms
+
+(If I didn't love you, love you)
+Baby (if I didn't love you, love you)
+Sweet (if I didn't love you, love you)

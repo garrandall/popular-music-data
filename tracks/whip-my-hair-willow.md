@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whip-my-hair-willow
+lyrics_url: https://www.musixmatch.com/lyrics/Willow-2/Whip-My-Hair
 name: Whip My Hair
 rankings:
 - end_date: '2010-11-12'
@@ -79,4 +80,119 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
 ---
+I whip my hair back and forth
+I whip my hair back and forth (just whip it)
+I whip my hair back and forth
+I whip my hair back and forth (whip it real good)
 
+I whip my hair back and forth
+I whip my hair back and forth
+I whip my hair back and forth
+
+Hop up out the bed, turn my swag on
+Pay no attention to them haters, because we whip 'em off
+And we ain't doing nothing wrong
+So don't tell me nothing, I'm just tryn'na have fun
+So keep the party jumping
+
+So what's up (yeah...)
+And now they don't know what to do
+We turn our back and whip our hair and just shake them off
+Shake them off, shake them off, shake them off
+Don't let haters keep me off my grind
+
+Keep my head up, I know I'll be fine
+Keep fighting until I get there
+When I'm down and I feel like giving up, I think again
+I whip my hair back and forth
+
+I whip my hair back and forth (just whip it)
+I whip my hair back and forth
+I whip my hair back and forth (whip it real good)
+I whip my hair back and forth
+
+I whip my hair back and forth (just whip it)
+I whip my hair back and forth
+I whip my hair back and forth (whip it real good)
+I whip my hair back and forth
+
+I whip my hair back and forth (just whip it)
+I whip my hair back and forth
+I whip my hair back and forth (whip it real good)
+I whip my hair back and forth
+
+I whip my hair back and forth
+I whip my hair back and forth
+I'ma get more shine than a little bit
+
+Soon as I hit the stage: applause, I'm hearing it
+Whether it's black stars, black cars, I'm feeling it
+But can't none of them whip it like I do
+I, I get to that mmmm yeah, I go hard
+When they see me pull up, I whip it real hard
+I whip it real hard, gonna do it real hard, I whip it real hard
+Don't let haters keep me off my grind
+
+Keep my head up, I know I'll be fine
+Keep fighting until I get there
+When I'm down and I feel like giving up, I think again
+I whip my hair back and forth
+
+I whip my hair back and forth (just whip it)
+I whip my hair back and forth
+I whip my hair back and forth (whip it real good)
+I whip my hair back and forth
+
+I whip my hair back and forth (just whip it)
+I whip my hair back and forth
+I whip my hair back and forth (whip it real good)
+I whip my hair back and forth
+
+I whip my hair back and forth (just whip it)
+I whip my hair back and forth
+I whip my hair back and forth (whip it real good)
+I whip my hair back and forth
+
+I whip my hair back and forth (ok, ok, just whip it, yeah)
+I whip my hair back and forth
+I whip my hair back and forth
+I whip my hair back and forth
+All my Ladies, if you feel me
+
+Come on, Do it, do it, whip your hair
+Don't matter if it's long, short
+Do it, do it, whip your hair
+All my Ladies if you feel me
+
+Come on, do it, do it, whip your hair
+Don't matter if it's long, short
+Do it, do it, whip your hair (your hair, your hair...)
+I whip my hair back and forth
+
+I whip my hair back and forth (just whip it)
+I whip my hair back and forth
+I whip my hair back and forth (whip it real good)
+I whip my hair back and forth
+
+I whip my hair back and forth (just whip it)
+I whip my hair back and forth
+I whip my hair back and forth (whip it real good)
+I whip my hair back and forth
+I whip my hair back and forth (just whip it)
+I whip my hair back and forth
+I whip my hair back and forth (whip it real good)
+I whip my hair back and forth
+I whip my hair back and forth
+I whip my hair back and forth
+I whip my hair back and forth
+I whip my hair back and forth
+I whip my hair back and forth (just whip it)
+I whip my hair back and forth
+I whip my hair back and forth (whip it real good)
+I whip my hair back and forth
+I whip my hair back and forth (just whip it)
+I whip my hair back and forth
+I whip my hair back and forth (whip it real good)
+I whip my hair back and forth
+I whip my hair back and forth
+I whip my-...

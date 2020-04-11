@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-a-big-country-big-country
+lyrics_url: https://www.musixmatch.com/lyrics/Big-Country/In-a-Big-Country
 name: In A Big Country
 rankings:
 - end_date: '1983-10-28'
@@ -67,4 +68,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-01-28'
 ---
+Shock
 
+Come up screaming
+Come up screaming
+
+Ha
+
+I never seen you look like this without a reason
+Another promise fallen through, another season passes by you
+
+Shock
+I never took the smile away from anybody's face
+And that's a desperate way to look for someone who is still a child
+
+In a big country dreams stay with you
+Like a lover's voice fires the mountainside
+
+Stay alive
+I thought that pain and truth were things that really mattered
+
+But you can't stay here with every single hope you had shattered
+I'm not expecting to grow flowers in the desert
+But I can live and breathe and see the sun in wintertime
+
+In a big country dreams stay with you
+Like a lover's voice fires the mountainside
+Stay alive
+
+In a big country dreams stay with you
+Like a lover's voice fires the mountainside
+Stay alive
+So take that look out of here, it doesn't fit you
+Because it's happened doesn't mean you've been discarded
+Pull up your head off the floor, come up screaming
+
+Cry out for everything you ever might have wanted
+
+I thought that pain and truth were things that really mattered
+But you can't stay here with every single hope you had shattered
+
+Shock, 1, 2
+I'm not expecting to grow flowers in the desert
+But I can live and breathe and see the sun in wintertime
+In a big country dreams stay with you
+Like a lover's voice fires the mountainside
+Stay alive
+In a big country dreams stay with you
+Like a lover's voice fires the mountainside
+Stay alive
+In a big country dreams stay with you
+Like a lover's voice fires the mountainside
+Stay alive
+Ha
+Shock

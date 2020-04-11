@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-don-t-love-me--no-no-no--dawn-penn
+lyrics_url: https://genius.com/Dawn-penn-you-dont-love-me-extended-mix-lyrics
 name: You Don't Love Me (No No No)
 rankings:
 - end_date: '1994-03-04'
@@ -55,4 +56,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-05-14'
 ---
+No no no
+You don't love me
+And I know now
 
+No no no
+You don't love me
+Yes I know now
+
+Coz you left me
+Baby
+And I got no place to go now
+
+No no no
+I'll do anything you say boy
+
+No no no
+I'll do anything you say boy
+
+Coz if you asked me
+Baby
+I'll get on my knees and pray boy

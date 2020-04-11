@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: better-love-next-time-dr--hook
+lyrics_url: https://genius.com/Dr-hook-better-love-next-time-lyrics
 name: Better Love Next Time
 rankings:
 - end_date: '1979-10-19'
@@ -83,4 +84,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-02-16'
 ---
+I'm your friend you can talk to me
+I read your fate I see misery
+'Cause the one you love has left you dry
+Don't start believin' that you're gonna die
+Just pick your heart up off the floor and try, try again
 
+You'll find
+Better love next time baby, don't give up and I know you're gonna find
+Better love next time baby, someone will be waiting down the line
+With better love, better love, better love, better love next time
+
+Sometimes it's better to let it all go
+I've been there and I think I should know
+So have a good cry, wash out your heart
+If you keep it inside it'll tear you apart
+Sometimes you lose but you're gonna win if you just, if you just, keep hanging in
+
+You'll find
+Better love next time baby, don't give up and I know you're gonna find
+Better love next time baby, someone will be waiting down the line
+With better love, better love
+
+Better love next time baby, don't give up and I know you're gonna find
+Better love next time baby, someone will be waiting down the line
+With better love, better love
+
+Better love next time baby

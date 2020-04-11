@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-show-must-go-on-three-dog-night
+lyrics_url: https://genius.com/Three-dog-night-the-show-must-go-on-lyrics
 name: The Show Must Go On
 rankings:
 - end_date: '1974-03-22'
@@ -83,4 +84,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-07-20'
 ---
+(Baby), although I chose this lonely life
+It seems it's strangling me now
+All the wild men, big cigars, gigantic cars
+They're all laughing at me now
 
+
+Oh, I've been used, ooh, used (ooh used)
+I've been a fool, oh, what a fool (oh what a fool)
+I broke all the rules, oh, yeah (all the rules)
+But I (must let the show go on)
+
+
+(Baby), there's an enormous crowd of people
+They're all after my blood
+I wish maybe they'd tear down the walls of this theater
+Let me out, let me out
+
+
+Oh, I'm so blind, oh, I'm blind (oh so blind)
+I wasted time, wasted, wasted, wasted time (wasted time)
+Walking on a wire, high wire (high high wire)
+But I (must let the show go on)
+
+
+Oh, I'm so blind, oh, I'm blind (oh so blind)
+I wasted time, wasted, wasted all too much time (wasted time)
+Walking on a wire, high wire (high high wire)
+But I (must let the show go on)
+
+
+Baby, I wish you'd help me escape
+Help me get away
+(Hoo ooh) Leave me outside my address (hoo ooh)
+Far away from this (hoo ooh) masquerade (hoo ooh)
+
+
+'Cause I've been blind, oh, so blind
+I wasted time, wasted, wasted all too much time
+Walking on a wire, high wire
+But I (must let the show go)
+I (must let the show go)
+I (must let the show go on)

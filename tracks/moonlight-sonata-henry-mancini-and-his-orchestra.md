@@ -1,9 +1,10 @@
 ---
 artists:
-- Henry Mancini And His Orchestra
+- Henry Mancini
 features: []
 genres: []
 key: moonlight-sonata-henry-mancini-and-his-orchestra
+lyrics_url: https://genius.com/Henry-mancini-moonlight-sonata-lyrics
 name: Moonlight Sonata
 rankings:
 - end_date: '1969-09-12'
@@ -23,4 +24,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-09-27'
 ---
-
+Instrumental

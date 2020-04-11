@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: an-american-trilogy-mickey-newbury
+lyrics_url: https://genius.com/Mickey-newbury-an-american-trilogy-lyrics
 name: An American Trilogy
 rankings:
 - end_date: '1971-11-12'
@@ -51,4 +52,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-15'
 ---
+Oh I wish I was in the land of cotton
+Old things they are not forgotten
+Look away, look away, look away Dixieland
+Oh I wish I was in Dixie, away, away
+In Dixieland I take my stand to live and die in Dixie
+Cause Dixieland, that's where I was born
+Early Lord one frosty morning
+Look away, look away, look away Dixieland
 
+Glory, glory hallelujah
+Glory, glory hallelujah
+Glory, glory hallelujah
+His truth is marching on
+
+So hush little baby
+Don't you cry
+You know your daddy's bound to die
+But all my trials, Lord will soon be over

@@ -1,6 +1,7 @@
 ---
 artists:
-- Elvis Presley With The Jordanaires
+- Elvis Presley
+- The Jordanaires
 features: []
 genres: []
 key: lonely-man-elvis-presley-with-the-jordanaires

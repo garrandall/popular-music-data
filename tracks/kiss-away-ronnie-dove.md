@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kiss-away-ronnie-dove
+lyrics_url: https://genius.com/Ronnie-dove-kiss-away-lyrics
 name: Kiss Away
 rankings:
 - end_date: '1965-11-12'
@@ -39,4 +40,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-12-25'
 ---
+Kiss away, kiss away
+Guess that's all that's left to say
+Please come back and kiss these tears away
 
+Smile again, let me smile again
+Make my life worthwhile again
+Please come back and kiss my tears away
+
+Only you can change these sad and blue days
+Only you can make them I love you days
+
+Kiss away, kiss away
+Still there's nothin left to say
+Please come back and kiss these tears away

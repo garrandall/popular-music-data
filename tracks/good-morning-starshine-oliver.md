@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-morning-starshine-oliver
+lyrics_url: https://genius.com/Oliver-good-morning-starshine-lyrics
 name: Good Morning Starshine
 rankings:
 - end_date: '1969-05-30'
@@ -59,4 +60,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
 ---
-
+Good morning starshine
+The earth says "hello"
+You twinkle above us
+We twinkle below
+Good morning starshine
+You lead us along
+My love and me as we sing
+Our early morning singing song
+Gliddy glup gloopy
+Nibby nabby noopy la la la lo lo
+Sabba sibby sabba
+Nooby abba nabba le le lo lo
+Tooby ooby walla nooby abba nabba
+Early morning singing song
+Good morning starshine
+You lead us along
+My love and me as we sing
+Our early morning singing song
+Gliddy glup gloopy
+Nibby nabby noopy la la la lo lo
+Sabba sibby sabba
+Nooby abba nabba le le lo lo
+Tooby ooby walla nooby abba nabba
+Early morning singing song
+Singing a song, humming a song
+Singing a song, loving a song
+Laughing a song
+Sing the song, sing the song
+Song the sing
+Song, song, song, sing
+Sing, sing, sing, song

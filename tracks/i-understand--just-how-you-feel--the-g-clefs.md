@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-understand--just-how-you-feel--the-g-clefs
+lyrics_url: https://www.musixmatch.com/lyrics/The-G-Clefs/I-Understand-Just-How-You-Feel
 name: I Understand (Just How You Feel)
 rankings:
 - end_date: '1961-09-24'
@@ -71,4 +72,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-01-06'
 ---
+I Understand (Just How You Feel)
+The G-Clefs
 
+Peaked at # 9 in 1961
+Previously charted in 1954 by The Four Tunes (#6) and June Valli (# 8)
+Later charted by Freddie and the Dreamers at # 36 in 1965
+See NOTES below
+
+I understand just how you feel
+Your love for me, why not be mine?
+It's over now but it was grand
+I understand, I understand
+
+If you ever change your mind
+Come back to me and you will find
+Me waiting there, at your command
+I understand, I understand
+
+I miss you so, please believe me when I tell you
+I just can't stand to see you go
+You know
+
+If you ever change your mind
+Come back to me and you will find
+Me waiting there at your command
+I understand, I understand
+
+SPOKEN: "I understand just how you feel. Let bygones be bygones. But always
+Remember I love
+You, I love you, I love you."
+
+(We'll sip a cup of wine, my dear, for Auld Lang Syne)
+I understand
+
+TRANSCRIBER'S NOTES: The Scottish folk song "Auld Lang Syne" is sung
+Throughout by
+Backup singers. Some versions may NOT have the "Auld Lang Syne" part and may
+Also include an alternate last in lieu of the second "If you ever change your
+Mind". The alternate lyrics are:
+
+Please understand just how I feel
+Your love for me why not reveal
+And we will know this time it's real
+We'll understand

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: got-a-love-for-you-jomanda
+lyrics_url: https://genius.com/Jomanda-got-a-love-for-you-lyrics
 name: Got A Love For You
 rankings:
 - end_date: '1991-07-12'
@@ -67,4 +68,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-10-12'
 ---
+First day we met, my heart stood still
+I never had a man like you, and I doubt I ever will
+So tired of playing all these love games
+But since you came into my life I changed
 
+
+That's why I'm so glad I found ya
+Wanna build my whole world around ya
+Ooh ya, gonna be true, gonna be true
+
+
+I've got a love for you ('cause you're special)
+I've got a love for you (listen to me babe)
+I've got a love for you (can you feel it?)
+I've got a love for you
+I'm gonna be true
+
+When you're lonely, I'll be there for you
+I'll hug and kiss you, and make it so much better
+No other girl can you make you feel the same
+Like the way I do
+I've got a thing for you
+I can't explain
+
+I'll never ever leave ya
+You know I'm here to please ya
+Ooh ya, gonna be true, gonna be true
+
+
+
+
+
+I remember the games that we used to play
+And all the hearts we used to break
+No one makes me feel the way you do
+That's why, baby, I'm gonna be true

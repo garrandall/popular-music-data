@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-loves-you-the-beatles
+lyrics_url: https://genius.com/The-beatles-she-loves-you-lyrics
 name: She Loves You
 rankings:
 - end_date: '1964-01-31'
@@ -67,4 +68,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-02'
 ---
+She loves you, yeah, yeah, yeah
+She loves you, yeah, yeah, yeah
+She loves you, yeah, yeah, yeah, yeah
 
+
+You think you've lost your love
+Well, I saw her yesterday
+It's you she's thinking of
+And she told me what to say
+
+
+She says she loves you
+And you know that can't be bad
+Yes, she loves you
+And you know you should be glad
+
+
+She said you hurt her so
+She almost lost her mind
+But now she said she knows
+You're not the hurting kind
+
+
+She says she loves you
+And you know that can't be bad
+Yes, she loves you
+And you know you should be glad, ooh
+
+
+She loves you, yeah, yeah, yeah
+She loves you, yeah, yeah, yeah
+With a love like that
+You know you should be glad
+
+
+You know it's up to you
+I think it's only fair
+Pride can hurt you, too
+Apologise to her
+
+
+Because she loves you
+And you know that can't be bad
+She loves you
+And you know you should be glad, ooh
+
+
+She loves you, yeah, yeah, yeah
+She loves you, yeah, yeah, yeah
+With a love like that
+You know you should be glad
+
+
+With a love like that
+You know you should be glad
+With a love like that
+You know you should be glad
+Yeah, yeah, yeah
+Yeah, yeah, yeah, yeah

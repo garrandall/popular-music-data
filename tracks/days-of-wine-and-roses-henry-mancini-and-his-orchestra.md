@@ -1,6 +1,6 @@
 ---
 artists:
-- Henry Mancini And His Orchestra
+- Henry Mancini
 features: []
 genres: []
 key: days-of-wine-and-roses-henry-mancini-and-his-orchestra

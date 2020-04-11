@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hard-luck-woman-kiss
+lyrics_url: https://genius.com/Kiss-hard-luck-woman-lyrics
 name: Hard Luck Woman
 rankings:
 - end_date: '1976-12-24'
@@ -59,4 +60,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-03-12'
 ---
+If never I met you
+I'd never have seen you cry
+If not for our first "Hello"
+We'd never have to say goodbye
 
+
+If never I held you
+My feelings would never show
+It's time I start walking
+But there's so much you'll never know
+
+
+I keep telling you, hard luck woman
+You ain't a hard luck woman
+
+
+Rags, a sailor's only daughter
+A child of the water
+Too proud to be a queen
+Rags, I really love you
+I can't forget about you
+You'll be a hard luck woman
+Baby, 'til you find your man
+
+
+Before I go, let me kiss you
+And wipe the tears from your eyes
+I don't wanna hurt you, girl
+You know I could never lie
+
+
+I keep telling you, hard luck woman
+You ain't a hard luck woman
+You'll be a hard luck woman
+Baby, 'til you find your man
+
+
+Rags, a sailor's only daughter
+A child of the water
+Too proud to be a queen
+Rags, I really love you
+I can't forget about you
+You'll be a hard luck woman
+Baby, 'til you find your man
+You'll be a hard luck woman
+Baby, 'til you find your man
+
+
+Oh yeah, bye-bye, so long, don't cry
+I'm just packing my bags, whoa, leaving you
+Bye-bye, bye-bye, bye-bye, baby, don't cry
+I gotta keep on moving, yeah, moving
+Bye-bye, my baby
+Ooh, don't cry, lady, oh

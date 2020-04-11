@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-re-ready--come-go-with-me--the-staple-singers
+lyrics_url: https://genius.com/The-staple-singers-if-youre-ready-lyrics
 name: If You're Ready (Come Go With Me)
 rankings:
 - end_date: '1973-11-02'
@@ -71,4 +72,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-09'
 ---
-
+If you're ready come go with me
+No hatred
+Will be tolerated
+Peace love all between the races
+Love is the only transportation
+To where there;s communications
+If you're ready come go with me
+The boat is after
+The ever here to there
+No wars will ever be declared
+No economical exploitation
+No political domination
+Take your evil
+Come go with me
+Genocide
+Get ready
+Troublemaker
+You better get ready now
+Liars
+I'm waiting on ya

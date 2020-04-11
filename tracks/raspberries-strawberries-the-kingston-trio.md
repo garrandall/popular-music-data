@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: raspberries-strawberries-the-kingston-trio
+lyrics_url: https://genius.com/Kingston-trio-raspberries-strawberries-1990-digital-remaster-lyrics
 name: Raspberries Strawberries
 rankings:
 - end_date: '1959-01-18'
@@ -39,4 +40,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-02'
 ---
+Will Holt
+Spoken: A young man goes to Paris, as every young man should. There's something in the air of France that does a young man good
 
+Chorus: On the album, Dave sings the beginning of the chorus in phonetic French. Actual French is as follows: Ah! les fraises et les fromboises et les bon vins  nous avons bu
+La, la, la, la, la, la, la, la, la, la, la, la, la. Raspberries, strawberries, the good wines we brew
+Here's to the girls of the countryside, the ones we drink 'em to
+Spoken: Paris nights are warm and fair. The summer winds are soft. A young man finds the face of love in every field and loft
+In every field and loft
+
+(Chorus)
+Spoken: An old man returns to Paris as ev'ry old man must. He finds the winter winds blow cold. His dreams have turned to dust
+His dreams have turned to dust. His dreams have turned to dust
+Ah! les fraises et les fromboises et les bon vins que nous avons bu
+La, la, la, la, la, la, la, la, la, la, la, la, la. Raspberries, strawberries, the good wines we brew
+Here's to the girls of the countryside, whom we must bid adieu

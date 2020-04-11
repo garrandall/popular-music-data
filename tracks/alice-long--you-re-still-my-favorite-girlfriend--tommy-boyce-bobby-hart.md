@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: alice-long--you-re-still-my-favorite-girlfriend--tommy-boyce-bobby-hart
+lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Boyce-feat-Bobby-Hart/Alice-Long-You-re-Still-My-Favorite-Girlfriend
 name: Alice Long (You're Still My Favorite Girlfriend)
 rankings:
 - end_date: '1968-07-12'
@@ -48,4 +49,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-07'
 ---
-
+Tommy Boyce
+Miscellaneous
+Alice Long
+You're still my favorite girlfriend
+Alicew Long
+And I don't forget about you
+When you're gone
+Even though right now you feel you don't belong
+You're still my favorite girlfriend
+Alice Long
+We both agreed that to get along
+To talk things over as they come up
+So if you think we don't see each other enough
+Then let's talk it over
+When we're together
+Nothing can keep us apart
+But if I ever forget to (?-unclear)
+But whatever
+You're still a part of my heart
+Can't you see
+Can't you see
+Oh you're still my favorite girlfriend
+Alice Long
+But you can't hold on to love by holding on
+When I am with you girl or when I'm gone
+Just remember
+You're still my favorite girlfriend
+Alice Alice Alice Alice Alice Alice (fading into instrumental interlude)
+You're still my favorite girlfriend
+Alice Long
+And I don't forget about you
+When you're gone
+Even though right now you feel you don't belong
+You're still my favorite girlfriend
+You're still my favorite girlfriend
+You're still my favorite girlfriend
+Alice Long
+(Instrumental music fading out)

@@ -5,6 +5,7 @@ features:
 - Majid Jordan
 genres: []
 key: hold-on-we-re-going-home-drake-majid-jordan
+lyrics_url: https://genius.com/Drake-hold-on-were-going-home-lyrics
 name: Hold On We're Going Home
 rankings:
 - end_date: '2013-08-30'
@@ -140,4 +141,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-04-05'
 ---
+I got my eyes on you
+You're everything that I see
+I want your hot love and emotion endlessly
+I can't get over you
+You left your mark on me
+I want your hot love and emotion endlessly
 
+
+'Cause you're a good girl and you know it
+You act so different around me
+'Cause you're a good girl and you know it
+I know exactly who you could be
+
+
+Just hold on, we're going home
+Just hold on, we're going home
+It's hard to do these things alone
+Just hold on, we're going home
+
+
+I got my eyes on you
+You're everything that I see
+I want your hot love and emotion endlessly
+I can't get over you
+You left your mark on me
+I want your hot love and emotion endlessly
+
+
+'Cause you're a good girl and you know it
+You act so different around me
+'Cause you're a good girl and you know it
+I know exactly who you could be
+
+
+Just hold on, we're going home (going home)
+Just hold on, we're going home (going home)
+It's hard to do these things alone (things alone)
+Just hold on, we're going home (going home)
+
+
+You're the girl, you're the one
+Gave you everything I loved
+I think there's something, baby
+I think there's something, baby
+You're the girl, you're the one
+Gave you everything I loved
+I think there's something, baby
+I think there's something, baby
+
+
+'Cause you're a good girl and you know it
+You act so different around me
+'Cause you're a good girl and you know it
+I know exactly who you could be
+
+
+Just hold on, we're going home (going home)
+Just hold on, we're going home (going home)
+It's hard to do these things alone (things alone)
+Just hold on, we're going home (going home)

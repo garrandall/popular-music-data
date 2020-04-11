@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-to--do-everything-for-you--joe-tex
+lyrics_url: https://genius.com/Joe-tex-i-want-to-do-everything-for-you-lyrics
 name: I Want To (Do Everything For You)
 rankings:
 - end_date: '1965-09-03'
@@ -59,4 +60,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-20'
 ---
+I want to hold you in my arms
+Till you say turn you lose
+I want to do little things for you
+Till you say it ain't no use
 
+I want to wake you every morning
+With a good morning kiss
+I want to kiss you to sleep the same way
+'Cause I know you like this
+
+I want to do everything for you
+'Cause that's all that man can do
+When he loves a woman like I love you
+And I love ya (love ya)
+Love ya (love ya)
+Love ya (love ya)
+Ooh ee, I love you
+
+I want to say sweet things to you
+Till you say I said enough
+I want to stand right by your side
+When the goin' gets tough
+
+I want to mend your broken heart
+Till you say the hurt is gone
+I want to stay with you always
+So that you won't be alone
+
+I want to do everything for you
+'Cause that's all that man can do
+When he loves a woman like I love you
+And I love ya (love ya)
+Love ya (love ya)
+Love ya (love ya)
+Ooh ee, I love you
+
+I want to work for you every day
+Till you say come home and rest
+I want to buy you pretty things
+So you can look your best
+
+I want to take you everywhere
+So the world can see what I got
+I want to treat you with tender love
+Till you say I've got to stop
+
+I want to do everything for you
+'Cause that's all that man can do
+When he loves a woman like I love you
+And I love ya (love ya)
+Love ya (love ya)
+I love you (love ya)
+Oh, I love you (love ya)
+I love you (love ya)
+I love ya (love ya)
+Haha (love ya)
+Yes (love ya)

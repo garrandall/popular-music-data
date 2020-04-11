@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: monsters-and-angels-voice-of-the-beehive
+lyrics_url: https://genius.com/Voice-of-the-beehive-monsters-and-angels-lyrics
 name: Monsters And Angels
 rankings:
 - end_date: '1991-11-08'
@@ -35,4 +36,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-12-14'
 ---
+I'm nobodys' wife & I'm nobodys' baby
+I like it that way well then again maybe
+I'm nobodys' valentine & I'm nobodys' pearl
+Seem to always find some girl singin'
 
+There are monsters, there are angels
+There's a peaceful and a rage inside us all
+There's sugar & there is salt
+There's ice and there is fire in every single heart
+There are monsters. There are angels
+
+I'm nobodys promise and I'm nobodys chore
+And I ain't got nobody that I feel I gotta
+Live for - nobody to live for
+I'm nobodys work & I'm nobodys' company
+And every time I turn around I always seem to
+Find just me singin'
+
+There are monsters, there are angels
+
+I'm nobodys' wife, I'm nobodys' baby
+
+There are monsters, there are angels
+There are monsters, there are angels
+I'm nobodys' mother, I'm nobodys' child

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sittin--in-the-lap-of-luxury-louie-louie
+lyrics_url: https://www.musixmatch.com/lyrics/Louie-Louie/Sittin-in-the-Lap-of-Luxury
 name: Sittin' In The Lap Of Luxury
 rankings:
 - end_date: '1990-05-04'
@@ -71,4 +72,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-08-11'
 ---
+-Verse 1-
+This is how it started, rather how it all began,
+You see, I was an ugly duckling, only half a man,
+I didn't think I would find a girl,
+The kind that would rock my world,
+So I kept on searchin', always felt the hurtin',
 
+Temptation got the best of me,
+Temptation said, boy be who you want to be,
+So I started, chargin' by the hour, for my love power,
+And then, me-myself and I, a regular lady's guy,
+
+--chorus--
+Sittin' in the lap, sittin' in the lap,
+Sittin' in the lap of luxury, sure feels good to me.
+Sittin' in the lap, sittin' in the lap,
+Sittin' in the lap of luxury, sure feels good to me.
+
+-Verse 2-
+Luxury found me, in just the nick of time,
+I was runnin' out of patience, on my last dime,
+A magical shower in the middle of the day,
+She turned out my senses, washed my blues away.
+
+Lux-ury got the best of me,
+Luxury said boy be who you want to be,
+I never charged her by the hour, my love power,
+I love her big green eyes, I'll always stand beside her.
+
+Sittin' in the lap, sittin' in the lap,
+Sittin' in the lap of luxury, sure feels good to me.
+Sittin' in the lap, sittin' in the lap,
+Sittin' in the lap of luxury, sure feels good to me.
+
+It don't matter how we met, where we slept,
+Who we knew before,
+I'm your Romeo, you're Juliet,
+There's nothing I want more
+Than to honor you, cherish you,
+Tell me what you have got to lose,
+The moral of the story is gigolos,
+Gigolos get lonely too.

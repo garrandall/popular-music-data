@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: night-train-james-brown-and-the-famous-flames
+lyrics_url: https://genius.com/James-brown-and-the-famous-flames-night-train-lyrics
 name: Night Train
 rankings:
 - end_date: '1962-04-20'
@@ -51,4 +52,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
 ---
+All aboard the night train
 
+Miami, Florida
+Atlanta, Georgia
+Raleigh, North Carolina
+Hey
+
+
+
+Miami, Florida
+Atlanta, Georgia
+Raleigh, North Carolina
+Washington, D.C
+Oh, and Richmond, Virginia, too
+Baltimore, Maryland
+Philadelphia
+New York City, take me home
+Boston, Massachusetts
+And don't forget New Orleans, the home of the blues
+Oh yeah, night train
+Night train, night train
+Night train, carry me home
+Night train, carry me home
+Night train

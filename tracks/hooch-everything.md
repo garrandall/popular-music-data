@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hooch-everything
+lyrics_url: https://genius.com/Everything-hooch-lyrics
 name: Hooch
 rankings:
 - end_date: '1998-12-11'
@@ -35,4 +36,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-01-16'
 ---
+Who got the hooch
+Who got the hooch
+Who got the only sweetest thing in the world
 
+
+The working day was long
+And the road is grinding on
+And your body's winding down again
+The tribal fire's here
+And the circle speaks so near
+And the simple truth so very much clearer
+
+
+Who got the hooch, baby
+Who got the only sweetest thing in the world
+Who got the love, who got the fresh-e-freshy
+Who got the only sweetest thing in the world
+
+
+The birds and bees will sing
+The jams begin to ring
+The good vibes flow from me to you
+The evening turns to night
+The fire and moonlight
+The dance of all who came before
+
+
+Who got the hooch, baby
+Who got the only sweetest thing in the world
+Who got the love, who got the fresh-e-freshy
+Who got the only sweetest thing in the world
+
+
+Let's get real, let's get heavy
+Till the water breaks the levee
+Let's get loose, loose, who got the hooch

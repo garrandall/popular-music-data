@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-can-t-hide-beautiful-aaron-lines
+lyrics_url: https://genius.com/Aaron-lines-you-cant-hide-beautiful-lyrics
 name: You Can't Hide Beautiful
 rankings:
 - end_date: '2003-01-03'
@@ -75,4 +76,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-04-19'
 ---
+She says don't stare at me
+She's afraid that I might see
+Those 5 extra pounds she talks about
+Man, I don't know what she's talking about
 
+She looks through magazines
+With every page she dreams of
+Looking like somebody else
+I wish she wasn't so hard on herself
+
+Then she falls asleep with just my t-shirt on
+But even when her hair's messed up and her make-up's gone
+
+Chorus
+
+You can't hide Beautiful
+You Can't hide wonderful
+There's nothing that she has to do
+It just comes natural
+She makes it look easy
+I love what she does to me
+No way to disguise
+The way that she shines
+You can't hide beautiful, oh no
+
+She can take a simple dress
+Put it on and turn some heads
+Man Everytime she moves she gets me
+She doesn't even know she's sexy
+
+And the way she thinks sometimes
+Out of no where blows my mind
+She makes me laugh and makes me dream
+I love the way she looks at things
+
+A little piece of heaven god gave to this world
+She might think she's just an ordinary girl
+
+"But" Repeat Chorus
+
+You can't hide Beautiful
+She's so beautiful yeah yeah
+Ohhh ohhh ya can't ya can't ya can't hid beautiful

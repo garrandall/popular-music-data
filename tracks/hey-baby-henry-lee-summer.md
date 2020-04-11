@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-baby-henry-lee-summer
+lyrics_url: https://www.musixmatch.com/lyrics/Henry-Lee-Summer/Hey-Baby
 name: Hey Baby
 rankings:
 - end_date: '1989-05-26'
@@ -79,4 +80,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
 ---
-
+So how was I to know
+I didnt even have a clue
+Just didn't see it comin no no no
+And I was such a fool
+How could I have been, so blind
+Hey I won't turn my back this time
+Hey baby I'm wrong
+Think I wanna wrap my lovin arms around you
+Hey baby, I'm so wrong
+I cant live without your love
+I tried to hide my fear
+I feel so weak inside
+I try not to lose control
+I turn my eyes away
+My heart begins to pound
+Lord I have never felt this way
+Hey baby I'm wrong
+Think I wanna wrap my lovin arms around you
+Hey baby, I'm so wrong
+I cant live without you
+Hey baby, I'm wrong
+Stupidity put the blind on me
+Hey baby, I'm so wrong
+I'll testify, lord I believe, yeah
+Hey baby
+I can't live without your love
+I'm gonna put my arms around you
+I'm gonna put my arms around you baby
+Gonna kiss and hold you baby
+Just like I told you baby
+I got your lovin right here
+Hey baby I'm wrong
+Think i wanna wrap my lovin arms around you
+Hey baby, I'm so wrong
+I can't live without you
+Hey baby, I'm wrong
+Stupidity put the blind on me
+Hey baby, I'm so wrong, so wrong, so wrong

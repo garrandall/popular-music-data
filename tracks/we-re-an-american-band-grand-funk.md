@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-re-an-american-band-grand-funk
+lyrics_url: https://www.musixmatch.com/lyrics/Grand-Funk-Railroad/We-re-An-American-Band-1991-Digital-Remaster
 name: We're An American Band
 rankings:
 - end_date: '1973-08-03'
@@ -75,4 +76,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-17'
 ---
+Out on the road for forty days
+Last night in Little Rock put me in a haze
+Sweet, doin' her act
+She had the whole show and that's a natural fact
 
+Up all night with
+I got to tell you, poker's his thing
+Booze and ladies keep me right
+As long as we can make it to the show tonight
+
+We're an American band
+We're an American band
+We're comin' to your town
+We'll help you party it down
+We're an American band
+
+Four young chiquitas in Omaha
+Waitin' for the band to return from the show
+Feelin' good, feelin' right, it's Saturday night
+The hotel detective, he was outta sight
+
+Now these fine ladies, they had a plan
+They was out to meet the boys in the band
+They said, 
+And we proceeded to tear that hotel down
+
+We're an American band
+We're an American band
+We're comin' to your town
+We'll help you party it down
+We're an American band
+
+We're an American band
+We're an American band
+We're comin' to your town
+We'll help you party it down
+We're an American band
+
+We're an American band
+We're an American band
+We're comin' to your town
+We'll help you party it down
+We're an American band
+
+We're an American band
+We're an American band
+We're comin' to your town
+We'll help you party it down
+We're an American band
+
+We're an American band, wooh
+We're an American band, wooh
+We're an American band, wooh

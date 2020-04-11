@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-you-staind
+lyrics_url: https://genius.com/Staind-for-you-lyrics
 name: For You
 rankings:
 - end_date: '2002-03-08'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-07-13'
 ---
+To my mother, to my father
+It's your son or, it's your daughter
+Are my screams, loud enough for
+You to hear me, should I turn this up for you
 
+
+I sit here locked inside my head
+Remembering everything you said
+The silence, gets us nowhere
+Gets us nowhere way too fast
+
+
+Your silence, is what kills me
+I need someone, here to help me
+But you don't know, how to listen
+And let me make, my decisions
+
+
+I sit here locked inside my head
+Remembering everything you said
+The silence, gets us nowhere
+Gets us nowhere way too fast
+
+
+All your insults, and your curses
+Make me feel like I'm not a person
+And I feel like, I am nothing
+But you made me, so do something
+'Cause I'm fucked up, because you are
+Need attention, attention you couldn't give
+
+
+'Cause I sit here locked inside my head
+Remembering everything you said
+The silence, gets us nowhere
+Gets us nowhere way too fast
+I sit here locked inside my head
+Remembering everything you said
+The silence, gets us nowhere
+Gets us nowhere way too fast

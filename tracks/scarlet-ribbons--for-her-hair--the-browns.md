@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: scarlet-ribbons--for-her-hair--the-browns
+lyrics_url: https://genius.com/The-browns-scarlet-ribbons-for-her-hair-lyrics
 name: Scarlet Ribbons (For Her Hair)
 rankings:
 - end_date: '1959-11-08'
@@ -63,4 +64,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-01'
 ---
+I peeked in to say goodnight
+When I heard my child in prayer
+Send dear God, some scarlet ribbons
+Scarlet ribbons for my hair
 
+All the stores were closed and shuttered
+All the streets were dark and bare
+In our town no scarlet ribbons
+Not one ribbon for her hair
+
+Through the night my heart was aching
+Just before the dawn was breaking
+I peeked in and on her bed
+In gay profusion laying there
+I saw ribbonsm scarlet ribbons
+Scarlet ribbons for her hair
+
+If I live to be a hundred
+I will never know from where
+Came those lovely scarlet ribbons
+Scarlet ribbons for her hair...

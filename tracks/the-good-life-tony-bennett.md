@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-good-life-tony-bennett
+lyrics_url: https://genius.com/Tony-bennett-the-good-life-lyrics
 name: The Good Life
 rankings:
 - end_date: '1963-05-17'
@@ -47,4 +48,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-07-13'
 ---
+Oh, the good life, full of fun
+Seems to be the ideal
+Mm, the good life lets you hide
+All the sadness you feel
 
+
+You won't really fall in love
+For you can't take the chance
+So please be honest with yourself
+Don't try to fake romance
+
+
+It's the good life to be free
+And explore the unknown
+Like the heartaches when you learn
+You must face them alone
+
+
+Please remember, I still want you
+And in case you wonder why
+Well, just wake up
+Kiss the good life, goodbye

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: and-i-love-you-so-perry-como
+lyrics_url: https://genius.com/Perry-como-and-i-love-you-so-lyrics
 name: And I Love You So
 rankings:
 - end_date: '1973-04-20'
@@ -71,4 +72,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-07-28'
 ---
+And I love you so
+The people ask me how
+How I've lived till now
+I tell them I don't know
 
+I guess they understand
+How lonely life has been
+But life began again
+The day you took my hand
+
+And yes I know
+How lonely life can be
+The shadows follow me
+And the night won't set me free
+But I don't let the evening get me down
+Now that you're around me
+
+And you love me too
+Your thoughts are just for me
+You set my spirit free
+I'm happy that you do
+
+The book of life is brief
+And once the page is read
+All but life is dead
+That is my belief
+
+And yes I know
+How lonely life can be
+The shadows follow me
+And the night won't set me free
+But I don't let the evening get me down
+Now that you're around me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beautiful-sunday-daniel-boone
+lyrics_url: https://www.musixmatch.com/lyrics/Daniel-Boone/Beautiful-Sunday
 name: Beautiful Sunday
 rankings:
 - end_date: '1972-06-09'
@@ -87,4 +88,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
 ---
+Sunday morning, up with the lark
+I think I'll take a walk in the park
+Hey, hey, hey, it's a beautiful day
+I've got someone waiting for me
+And when I see her I know that she'll say
+Hey, hey, hey, it's a beautiful day
 
+Hi! Hi! Hi, beautiful Sunday
+This is my, my, my, beautiful day
+When you say, say, say, say that you love me
+Oh my, my, my, it's a beautiful day
+
+Birds are singing, you by my side
+Lets take a car and go for a ride
+Hey, hey, hey, it's a beautiful day
+We'll drive on and follow the sun
+Making Sunday go on and on
+Hey, hey, hey, it's a beautiful day
+
+Hi! Hi! Hi, beautiful Sunday
+This is my, my, my, beautiful day
+When you say, say, say, say that you love me
+Oh my, my, my, it's a beautiful day
+
+Hi! Hi! Hi, beautiful Sunday
+This is my, my, my, beautiful day
+When you say, say, say, say that you love me
+Oh my, my, my, it's a beautiful day
+Hi! Hi! Hi, beautiful Sunday
+This is my, my, my, beautiful day
+When you say, say, say, say that you love me
+Oh my, my, my, it's a beautiful day

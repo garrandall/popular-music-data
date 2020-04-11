@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: easy-as-pie-billy--crash--craddock
+lyrics_url: https://genius.com/Billy-crash-craddock-easy-as-pie-lyrics
 name: Easy As Pie
 rankings:
 - end_date: '1975-12-19'
@@ -39,4 +40,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
 ---
+Uh huh uh huh she meant nothing to me just another one night stand
+She was easy as pie and I had her eating out of my hand
+Had her eating out of my hand
+She was easy to touch smiling as I came on strong
+She was easy as pie and I knew it wouldn't take me too long
+Knew it wouldn't take me too long
+Now here comes morning and my way of thinking has changed
+Oh she came on so tender but look who surrender
+When the lady wasn't playing no games
+Now I'm easy as pie the lady had herself a plan
+And it's easy to see that she's got me eating out of her hand
 
+Now I'm easy as pie...
+Got me eating out of her hand hmm hmm (easy)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cross-my-heart-eighth-wonder
+lyrics_url: https://genius.com/Eighth-wonder-cross-my-heart-lyrics
 name: Cross My Heart
 rankings:
 - end_date: '1988-11-25'
@@ -71,4 +72,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-03-04'
 ---
+Cross my heart
+Hypnotised, with just one look at you
+I'm paralysed
+I can't explain why just one touch of you
+Drives me insane
 
+You've got me head over heels
+You better believe it
+Baby, and I know how it feels
+
+Cross my heart
+Hope to die
+May lightning strike me if I'm telling a lie
+Cross my heart
+I swear it's true
+I've never loved anyone more than I'm loving you
+Cross my heart, it's true
+
+Heavenly, Something happens when you're next to me
+I get chills
+You can ask me anything and baby I will
+You've got me out of control
+You better believe it
+Baby from my head down to my toes
+
+Cross my heart
+Hope to die
+May lightning strike me if I'm telling a lie
+Cross my heart
+I swear it's true
+I've never loved anyone like I'm loving you
+Cross my heart, it's true
+
+You're my valentine every month of the year
+Baby really shine I'm so happy you're here
+I want you all the time
+Am I making myself clear
+My love's gonna last forever
+
+Cross my heart
+Cross my heart
+I've never loved anyone more than I'm loving you
+
+Cross my heart
+Hope to die
+May lightning strike me if I'm telling a lie
+Cross my heart
+I swear it's true
+I've never loved anyone like I'm loving you
+Cross my heart, it's true
+
+Cross my heart
+Hope to die
+May lightning strike me if I'm telling a lie
+Cross my heart
+I swear it's true
+I've never loved anyone like I'm loving you
+Cross my heart, it's true

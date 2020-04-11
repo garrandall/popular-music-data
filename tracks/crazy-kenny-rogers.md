@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crazy-kenny-rogers
+lyrics_url: https://genius.com/Kenny-rogers-crazy-lyrics
 name: Crazy
 rankings:
 - end_date: '1985-02-01'
@@ -39,4 +40,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
 ---
+Girl, there are no words to say
+What I feel in my heart
+You, you're on my mind night and day
+And it hurts me when we're apart
+When you're not here by my side
+There is nothing in this world for me
 
+I guess I'm crazy, crazy for you can't you see
+And although you may think I'm crazy
+This is where I'll always be
+I will always need your love
+
+Now, I can see every dream
+When I look in your eyes
+Though, things never are what they seem
+There is one thing that I realize
+That there's no doubt in my mind
+We can make this love go on forever
+
+I guess I'm crazy, crazy for you can't you see
+And although you may think I'm crazy
+This is where I'll always be
+And I need you with me
+'cause you are the dream
+That finally came true for me
+And all my life there'll be no one else
+If I looked all my life there could be no one else
+And for the rest of my life all I need is you
+
+I guess I'm crazy

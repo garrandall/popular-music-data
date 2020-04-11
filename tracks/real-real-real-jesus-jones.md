@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: real-real-real-jesus-jones
+lyrics_url: https://genius.com/Jesus-jones-real-real-real-lyrics
 name: Real Real Real
 rankings:
 - end_date: '1991-08-30'
@@ -87,4 +88,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-01-04'
 ---
+I think I know what you mean
+And although it sounds obscene
+I will always do my best to understand
+You have so many words
+And your voice is always heard
+But who can say they really understand?
 
+Real, real, real
+Do you feel real?
+And if so I'd like to know
+How to feel real real
+Do you feel real?
+And if so I'd like to know
+
+Well you say you have a big love
+And it really sounds like fun
+If I knew what it was
+Then I'm sure I'd like to have one
+Give me a sign that you
+Feel some emotion
+
+Real, real, real
+Do you feel real?
+And if so I'd like to know
+How to feel real real
+Do you feel real?
+And if so I'd like to know
+
+Say what you like you know that no-one
+Really minds
+And if there's nothing to say, then
+Why don't we all go away?
+
+Do you real-
+Do you real-
+Do you really feel real?
+
+Real, real, real
+Do you feel real?
+And if so I'd like to know
+How to feel real real
+Do you feel real?
+And if so I'd like to know
+
+But if there's nothing to say, then
+Why don't we all go away?
+
+Real, real, real
+Do you feel real?
+And if so I'd like to know
+How to feel real real
+Do you feel real?
+And if so I'd like to know
+
+Do you real-
+Do you real-
+Do you really feel real?

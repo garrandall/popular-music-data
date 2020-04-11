@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dance-little-sister-terence-trent-d-arby
+lyrics_url: https://genius.com/Terence-trent-darby-dance-little-sister-lyrics
 name: Dance Little Sister
 rankings:
 - end_date: '1988-09-16'
@@ -51,4 +52,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-11-19'
 ---
+Get up 'outta' your rockin' chair, grandma!
+Or rather would you care to dance, grandmother?
 
+Hey you!
+Give up to the ghost that's haunting you now
+Shout it out
+Don't let it stay inside and eat you alive
+
+Make up your mind
+Don't you want to stay this side of the line?
+I can assure you when you're my age
+You'll learn from all you've left behind
+
+(You've got to)
+Dance little sister
+Don't give up today
+Hang on till tomorrow
+I don't wanna hear you're late
+
+Dance little sister
+Don't give up today
+Hang on till tomorrow
+Don't give up your stay
+
+Say now
+Share the weight and lay your cross down
+And let the long reaching arm
+Of hope bring you around
+
+It ain't easy but giving up
+Is the easy thing to do
+Time is on your side
+Would you just watch the clock and let it tick for you?
+
+(You've got to)
+Dance little sister
+Don't give up today
+Hang on till tomorrow
+I don't wanna hear you're late
+
+Dance little sister
+Don't give up today
+Hang on till tomorrow
+Don't give up your stay

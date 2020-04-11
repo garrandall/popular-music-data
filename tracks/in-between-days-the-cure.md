@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-between-days-the-cure
+lyrics_url: https://genius.com/The-cure-in-between-days-lyrics
 name: In Between Days
 rankings:
 - end_date: '1986-02-21'
@@ -11,4 +12,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-02-15'
 ---
+Yesterday I got so old
+I felt like I could die
+Yesterday I got so old
+It made me want to cry
+Go on, go on
+Just walk away
+Go on, go on
+Your choice is made
+Go on, go on
+And disappear
+Go on, go on
+Away from here
 
+
+And I know I was wrong
+When I said it was true
+That it couldn't be me and be her
+Inbetween without you
+Without you
+
+
+Yesterday I got so scared
+I shivered like a child
+Yesterday away from you
+It froze me deep inside
+Come back come back
+Don't walk away
+Come back, come back
+Come back today
+Come back, come back
+Why can't you see
+Come back, come back
+Come back to me
+
+
+And I know I was wrong
+When I said it was true
+That it couldn't be me
+And be her in between
+Without you
+Without you
+
+Without you
+Without you
+
+Without you
+Without you
+
+Without you
+Without you

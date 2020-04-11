@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: letting-go-wings
+lyrics_url: https://genius.com/Paul-mccartney-and-wings-letting-go-lyrics
 name: Letting Go
 rankings:
 - end_date: '1975-10-10'
@@ -31,4 +32,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-11-08'
 ---
+Ah, she tastes like wine
+Such a human being so divine
+Oh, she feels like sun (Like sun)
+Mother nature look at what you've done
 
+
+Oh, (Oh) I feel like letting go
+Oh, (Oh) I feel like letting go
+
+
+Oh, she looks like snow
+I wanna put her in a Broadway show
+Ah, she'll dance and dine
+Like a lucifer she'll always shine
+
+
+Oh, (Oh) I feel like letting go
+Oh, (Oh) I feel like letting go
+
+Oh, oh, I feel like letting go
+Oh (Oh) I feel like letting go
+
+
+Oh, she sings it so
+I want to put her on the radio
+One day and there you are
+Ladies and gentleman
+A brand new star
+
+
+Oh, I feel like letting go
+Oh, I feel like letting go

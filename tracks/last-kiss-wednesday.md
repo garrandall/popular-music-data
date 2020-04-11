@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: last-kiss-wednesday
+lyrics_url: https://genius.com/Wednesday-singer-last-kiss-lyrics
 name: Last Kiss
 rankings:
 - end_date: '1973-11-30'
@@ -79,4 +80,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-03-23'
 ---
+Well, where oh where can my baby be?
+The Lord took her away from me
+She's gone to heaven, so I got to be good
+So I can see my baby when I leave this world
 
+We were out on a date in my daddy's car
+We hadn't driven very far
+There in the road, straight ahead...
+The car was stalled, the engine was dead
+
+I couldn't stop, so I swerved to the right
+Never forget the sound that night...
+The cryin' tires, the bustin' glass
+The painful scream that I heard last
+
+Well, where oh where can my baby be?
+The Lord took her away from me
+She's gone to heaven, so I got to be good
+So I can see my baby when I leave this world
+
+Well, when I woke up, the rain was pourin' down
+There were people standing all around
+Something warm running in my eyes
+But I found my baby somehow that night
+
+I raised her head, and when she smiled, and said
+"Hold me darling for a little while."
+I held her close. I kissed her our last kiss
+I found the love that I knew I would miss
+But now she's gone, even though I hold her tight
+I lost my love... my life, that night
+
+Well, where oh where can my baby be?
+The Lord took her away from me
+She's gone to heaven, so I got to be good
+So I can see my baby when I leave this world

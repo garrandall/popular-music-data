@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: with-your-love-jack-scott
+lyrics_url: https://genius.com/Jack-scott-with-your-love-lyrics
 name: With Your Love
 rankings:
 - end_date: '1958-10-05'
@@ -47,4 +48,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
 ---
-
+With your love here beside me
+Here to guide me, how can I go wrong?
+Doo, doo, doo, doo, he sent you on to me
+'Cause you were meant for me
+I know you'll always be my real destiny
+The touch of your soft hands
+The kiss from your sweet lips
+Will meet my fingertips
+With your love
+I know there'll never be
+Another love for me
+Happiness eternally
+With your love
+With your love beside me
+Here to guide me, how can I go wrong
+With your love, with your love, with your love

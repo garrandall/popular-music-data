@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-me-your-baby-barbara-lewis
+lyrics_url: https://genius.com/Barbara-lewis-make-me-your-baby-lyrics
 name: Make Me Your Baby
 rankings:
 - end_date: '1965-09-17'
@@ -55,4 +56,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-27'
 ---
+I'm gonna kiss you in a special way
+Make me your baby
+I'll find a way to please you every day
+Make me your baby
 
+Make me, make me your baby (ooh-ah)
+Kiss me, kiss me and maybe you will see
+Paradise is waiting for you and me
+If you'll make me your baby (make me your baby)
+If you'll make me your baby (make me your baby), oh
+
+You'll know a love no one has known before
+Make me your baby
+A love that we would share forever more
+When I'm your baby
+
+Make me, make me your baby (ooh-ah)
+Kiss me, kiss me and maybe you will see
+Paradise is waiting for you and me
+If you'll make me your baby (make me your baby)
+If you'll make me your baby (make me your baby)
+
+Make me your baby
+Oh, make me your baby
+
+Make me, make me your baby (ooh-ah)
+Kiss me, kiss me and maybe you will see
+Paradise is waiting for you and me
+If you'll make me your baby (make me your baby)
+If you'll make me your baby (make me your baby)
+C'mon, c'mon, c'mon and make me your baby (make me your baby)
+Can't you see I want to be your baby

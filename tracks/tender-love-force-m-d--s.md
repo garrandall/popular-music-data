@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tender-love-force-m-d--s
+lyrics_url: https://genius.com/Force-mds-tender-love-lyrics
 name: Tender Love
 rankings:
 - end_date: '1986-02-07'
@@ -83,4 +84,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-06-07'
 ---
+Here I lay all alone
+Tossin', turning
+Longing for some of your tender love
+I'm waiting for the right moment to come
+So I can thank you for
+All the tender love you've given to me
 
+
+Tender love, love so tender
+Pulling me close to you
+Baby, I surrender
+
+
+Candles they light the dark
+Now I see how lovely the feelings are
+All the tender love you've given to me
+
+
+I want you more and more, can't resist you
+Ooh then I feel your touch, tender love
+Loving me straight from the heart, hold me nearer
+Please let me be a part of the tender love you're giving to me
+
+
+Tender love, love so tender
+Holding me close to you
+Baby, I surrender
+
+Ooh yeah, surrender baby
+
+
+
+
+Tender love
+Please let me be a part
+Tender love

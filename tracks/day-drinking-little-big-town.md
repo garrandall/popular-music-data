@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: day-drinking-little-big-town
+lyrics_url: https://genius.com/Little-big-town-day-drinking-lyrics
 name: Day Drinking
 rankings:
 - end_date: '2014-06-27'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-12-20'
 ---
+Everybody's always waiting on Friday
+Watching that clock and sitting on go
+Whatcha' say we find a little warm sunshine
+An open umbrella on the patio
+I don't need a reason or a happy hour
+Ain't hangin' 'round for a fireworks show
+Get a head start, a little sip of somethin'
+Off and running, here we go
+One, two, three, here we go
 
+
+Don't wanna wait 'til the sun's sinking
+We could be feeling alright
+I know you know what I'm thinking
+Why don't we do a little day drinking?
+Why don't we do a little day drinking?
+
+
+Blame it on the work day
+Blame it on the heatwave
+Blame it on the tick-tock movin' too slow
+Blame it on any old thing you want to
+Ready, get set, baby, here we go
+
+
+Don't wanna wait 'til the sun's sinking
+We could be feeling alright
+I know you know what I'm thinking
+Why don't we do a little day drinking?
+
+
+Day drinking, d-d-d-day drinking
+Day drinking, d-d-d-day drinking
+
+
+Why don't we do a little day drinking?
+Don't wanna wait 'til the sun's sinking
+We could be feeling alright
+I know you know what I'm thinking
+Why don't we do a little day drinking?
+Don't wanna wait 'til the sun's sinking
+We could be feeling all right
+I know you know what I'm thinking
+Why don't we do a little day drinking?
+Why don't we do a little day drinking?
+Why don't we do a little day drinking?

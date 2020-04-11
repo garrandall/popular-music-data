@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-the-way-you-are-bruno-mars
+lyrics_url: https://genius.com/Bruno-mars-just-the-way-you-are-lyrics
 name: Just The Way You Are
 rankings:
 - end_date: '2010-08-13'
@@ -199,4 +200,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-07-02'
 ---
+Oh, her eyes, her eyes
+Make the stars look like they're not shinin'
+Her hair, her hair
+Falls perfectly without her trying
+She's so beautiful
+And I tell her every day
+Yeah, I know, I know
+When I compliment her she won't believe me
+And it's so, it's so
+Sad to think that she don't see what I see
+But every time she asks me, "Do I look okay?"
+I say
 
+
+When I see your face
+There's not a thing that I would change
+'Cause you're amazing just the way you are
+And when you smile
+The whole world stops and stares for a while
+'Cause, girl, you're amazing just the way you are
+
+
+Her lips, her lips
+I could kiss them all day if she'd let me
+Her laugh, her laugh
+She hates but I think it's so sexy
+She's so beautiful, and I tell her every day
+Oh you know, you know, you know
+I'd never ask you to change
+If perfect's what you're searching for
+Then just stay the same
+So don't even bother asking if you look okay
+You know I'll say
+
+
+When I see your face
+There's not a thing that I would change
+'Cause you're amazing just the way you are
+And when you smile
+The whole world stops and stares for a while
+'Cause, girl, you're amazing just the way you are
+
+
+The way you are
+The way you are
+Girl, you're amazing just the way you are
+
+
+When I see your face
+There's not a thing that I would change
+'Cause you're amazing just the way you are
+And when you smile
+The whole world stops and stares for a while
+'Cause, girl, you're amazing just the way you are, yeah

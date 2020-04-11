@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breaking-up-somebody-s-home-albert-king
+lyrics_url: https://genius.com/Albert-king-breaking-up-somebodys-home-lyrics
 name: Breaking Up Somebody's Home
 rankings:
 - end_date: '1973-02-23'
@@ -15,4 +16,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-02-24'
 ---
+Laying around home alone
+On a rainy night like this
+Starving for your love
+Hungry for just one kiss
+Every raindrop I hear
+On my window pane yeah
+Beats so loud and clear
+Why does it tell your name?
+I got nowhere to turn to
+Tired of being alone
+I feel like breaking up somebody's home
+I know it's useless
+Hanging on to you
+When you belong to someone else
+Can't control the feelin'
+Cause after all I didn't make it myself
 
+Last night I cried so hard
+I believe I caught a chill
+Can't control the vibration
+My heart just won't stand still
+Got nowhere to turn to
+I'm tired of being alone
+I feel like breaking up somebody's home
+
+I know you hear me talkin'
+I know it's useless
+Hanging on to you
+When you belong to someone else
+Can't control the vibration
+Cause after all I didn't make it myself
+Got nowhere to turn to
+I'm tired of being alone
+I feel like breaking up somebody's home

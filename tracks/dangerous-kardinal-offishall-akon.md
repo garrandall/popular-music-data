@@ -123,7 +123,7 @@ Never heard none like this before
 This remix is (Dangerous!) This remix is (Dangerous!)
 This remix is (Bad girl!) Never heard none like this
 It's so (Dangerous!) This remix is (Dangerous!)
-This remix is (Bad girl!) {Refix the remix! }
+This remix is (Bad girl!)
 
 
 Dangerous! That's her song

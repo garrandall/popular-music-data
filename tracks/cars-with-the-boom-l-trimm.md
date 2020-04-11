@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cars-with-the-boom-l-trimm
+lyrics_url: https://genius.com/Ltrimm-cars-with-the-boom-lyrics
 name: Cars With The Boom
 rankings:
 - end_date: '1988-09-30'
@@ -67,4 +68,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-12-31'
 ---
+So many kinds where can we start
+ we like them dumb and we like them smart
+ I like the ones with the pretty eyes
+ well I like all kinds of guys
+ STOP
+ what happen'?
+ how about the ones we especially like?
+ Wich one?
+ You know, the ones with the cars that go
 
+ I hear ya!
+ hit it
+
+
+
+
+It was me and the posse with bunny d
+We were cruising in the Jags or the Lamborghinis
+When lo and behold, there appeared a mirage
+He was hooking up a car in his daddy's garage
+We stopped short, did a double take
+He was looking so fine I thought I wasn't awake
+He was obviously hooking up bass I assumed
+But then he turned the little button and the car went boom
+
+
+We like the cars, the cars that go boom
+We're Tigra and Bunny and we like the boom
+We like the cars, the cars that go boom
+We're Tigra and Bunny and we like the boom
+
+
+We like them short and we like them tall
+We like them one and we like them all
+They're always adding speakers when they find the room
+Cause they know we love the guys with the cars that go boom
+And see my boyfiend really knows where it's at
+He's got 50 inch woofers all along the back
+He makes a comment on going to my room
+But I rather stay out with his car that goes boom
+
+
+We like the cars, the cars that go boom
+We're Tigra and Bunny and we like the boom
+We like the cars, the cars that go boom
+We're Tigra and Bunny and we like the boom
+
+
+
+Now if your car ain't got it
+Go out and get it
+
+We like the boom
+And don't you forget it
+
+So turn down the treble
+And flaunt your bass
+
+So your car could be heard
+Almost any place
+
+Cause a banger in the street
+He can't go far
+
+Without hearing the boom
+Pouring out your car
+
+Yo if your speakers' weak
+Then please turn it off
+
+Cause we like the cars
+That's down so tough
+
+
+We like the cars, the cars that go boom
+We're Tigra and Bunny and we like the boom
+We like the cars, the cars that go boom
+We're Tigra and Bunny and we like the boom

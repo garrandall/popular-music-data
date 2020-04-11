@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: running-out-of-time-tyler-the-creator
+lyrics_url: https://genius.com/Tyler-the-creator-running-out-of-time-lyrics
 name: Running Out Of Time
 rankings:
 - end_date: '2019-06-07'
@@ -11,3 +12,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
 ---
+Runnin' out of time, runnin' out of time, runnin' out of time
+Runnin' out of time to make you love me
+Runnin' out of time, runnin' out of time
+To make you love me
+
+
+Secrets
+Oh, you spin my head around (Oh, you spin my head around)
+I been lookin' for it (For it, for it)
+I been runnin' out of spells
+To make you love me
+Secrets
+Keep it up
+To make you love me (Ah)
+Wade in your water (Wade in your water)
+Your waves wash over me
+I drift to the deep end
+Don't save, don't save, don't save
+It's a low tide (I'll be fine)
+I found peace in drownin'
+
+
+Runnin' out of time, runnin out of time, runnin' out of time
+Runnin' out of time to make you love me
+
+
+Livin' in pretend
+Keep it a buck fifty, fuck
+Are you livin' in pretend?
+Are you–
+
+
+So
+Take your mask off
+I need her out the picture (Wade in your water)
+Take your mask off (Yeah)
+Stop lyin' for these niggas
+Stop lyin' to yourself
+I know the real you
+Don't save, don't save, don't save
+Halloween ain't for a minute, lose the costume
+You need to chill, okay
+Been runnin' from the targets and 'em back in the day
+And now they working their all, another track out the DAW
+Actin' a fool, actin' a ball, we packin' the park, yeah
+But I'm still runnin'
+Out of time
+
+
+Of time, of time
+Runnin' outta
+Of time
+Still runnin' outta
+Of time
+Still runnin' outta time
+Time
+Yeah

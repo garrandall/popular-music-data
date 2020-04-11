@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-dreams-came-true-pat-boone
+lyrics_url: https://genius.com/Pat-boone-if-dreams-came-true-lyrics
 name: If Dreams Came True
 rankings:
 - end_date: '1958-08-10'
@@ -47,4 +48,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-10-06'
 ---
+Oh my darling, oh my lover
 
+If dreams came true, dear
+I'd dream you everything
+That you would always
+Be happy as a king
+
+If dreams came true, dear
+No trouble would you see
+Just song and laughter
+To keep you company
+
+Oh my darling, oh my lover
+In your heart you would soon discover
+Song and laughter ever after
+From the dreaming I'd do
+If dreams came true
+
+If dreams came true, dear
+I'd dream you paradise
+A moonlit garden
+And stars to match your eyes
+
+But as for me, dear
+My world is all agleam
+For I have you, dear
+And have no need to dream
+
+Oh my darling, oh my lover
+In your arms is where I discover
+More than moonlight, more than starlight
+More than dreaming could do
+If dreams came true

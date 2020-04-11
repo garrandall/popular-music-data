@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-popeye-waddle-don-covay
+lyrics_url: https://www.musixmatch.com/lyrics/Don-Covay/The-Popeye-Waddle
 name: The Popeye Waddle
 rankings:
 - end_date: '1963-01-04'
@@ -35,4 +36,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-16'
 ---
+(Can you do the Popeye)
+I'm trying that now
+(Can you do the Popeye)
+Well, show me how
+(Can you do the Popeye)
+You'll do fine if you get in line
 
+(Popeye) hey, watch me do it
+(Popeye) there's nothing to it
+(Popeye, let's do the Popeye all night)
+
+(Can you do the Waddle)
+I'm trying that now
+(Can you do the Waddle)
+Well, show me how, yeah
+(Can you do the Waddle)
+I can get it, I can get it
+You'll do fine if you get in line
+
+(Waddle) oh, watch me try
+(Popeye) it's not the? porcupine?
+(Popeye, I like the waddle, all right)
+
+Popeye, hey, it's like the waddle
+Was the name of the game
+Waddle, hey, it's like the Popeye
+Every dance is the same
+
+You hit it, get it
+Make it, shake it
+
+Popeye, waddle with the wobble
+Was the name of the game
+
+(Can you do the wiggle)
+I'm a swinging cat
+(Can you do the waddle)
+I like it like that
+(Can you wiggle waddle)
+I can make it if you shake it
+You'll do fine if you get in line
+
+(Come on and wiggle)
+Hey, it's like the waddle
+(Waddle) hey, it's like wobble
+(Let's do the dances all night)
+
+Popeye, hey, it's like the waddle
+Was the name of the game
+Waddle, hey, it's like the Popeye
+Every dance is the same
+
+You hit it, get it
+Make it, shake it
+Popeye, waddle with the wobble
+Was the name of the game
+
+All together, do the
+Popeye, waddle with the wobble
+Was the name of the game
+One more time now
+Popeye, waddle with the wobble
+I love em just the same

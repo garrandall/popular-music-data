@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-no-no-destiny-s-child
+lyrics_url: https://genius.com/Destinys-child-no-no-no-part-2-lyrics
 name: No No No
 rankings:
 - end_date: '1997-12-05'
@@ -147,4 +148,105 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-07-25'
 ---
+This is the remix
+The jeeps pump this new remix (Uh-huh)
+This is the remix
+Radios play this remix
+This is the remix
+The Crups pump this remix (No no no no no)
+This is the remix yeah yeah yeah yeah yeah
+Refugee Camp the remix (No no no no no)
+Destiny's Child 'bout to set it (Yeah yeah yeah yeah yeah)
+This is the remix (No no no no no)
+The streets pump the remix (Yeah yeah yeah yeah yeah)
+This is the remix (No no no no no)
+Every project, come on, come on (Yeah yeah yeah yeah yeah)
+Destiny's Child, hey
 
+
+Boy, I know you want me, I can see it in your eyes
+But you keep on frontin', won't you say what's on your mind?
+’Cause each and every time you need me, you give me signs
+But when I ask you, "What's the deal?", you hold it all inside
+If you wanna be with me, you gotta keep it real
+Tell me what's going on, tell me how you feel
+Boy, I know you want me just as much as I want you
+So come and get my love, it's all here for you
+
+
+You'll be saying no, no, no, no, no
+When it's really yeah, yeah, yeah, yeah, yeah
+You'll be saying no, no, no, no, no
+When it's really yeah, yeah, yeah, yeah, yeah
+(Why you frontin' when you know you really want it?)
+You'll be saying no, no, no, no, no
+When it's really yeah, yeah, yeah, yeah, yeah
+You'll be saying no, no, no, no, no
+When it's really yeah, yeah, yeah, yeah, yeah
+(Why you frontin' when you know you really want it?)
+
+
+If you keep acting this way, you're gonna lose my love
+I ain't got no time to play, you better hurry up
+'Cause every time I come around and crews around your way
+I see ya on the corner, but you don't know what to say
+When I walk up to you, babe, you seem so shy
+What's the problem, baby? Never had a girl like I?
+I can see right through you and you know you wanna be mine
+So get your act together ’cause you're running out of time
+
+
+You'll be saying no, no, no, no, no
+When it's really yeah, yeah, yeah, yeah, yeah
+You'll be saying no, no, no, no, no
+When it's really yeah, yeah, yeah, yeah, yeah
+(Why you frontin' when you know you really want it?)
+You'll be saying no, no, no, no, no
+When it's really yeah, yeah, yeah, yeah, yeah
+You'll be saying no, no, no, no, no
+When it's really yeah, yeah, yeah, yeah, yeah
+(Why you frontin' when you know you really want it?)
+(Don't front, you know you really want it)
+(Is it alright if I play my guitar right here)
+
+
+Every time I see you with your boys
+You pretend as if you don't want me
+When you get home, you call me on the phone
+And tell me how much you care
+
+
+Yo, close your eyes, shorty
+You're guaranteed to be hypnotized
+By the remix that Wyclef provide
+I don't care about your size
+Girl, shake your thighs
+All I'm tryin' to do in the ’hood is stay alive
+Make a little money with Destiny's Child
+Thugs hear this song, they dance, they go wild
+Like Texas, they movin' like
+No Limit soldiers
+They went from a dream to the young Supremes
+Sing it girls
+
+
+You'll be saying no, no, no, no, no
+When it's really yeah, yeah, yeah, yeah, yeah
+You'll be saying no, no, no, no, no
+When it's really yeah, yeah, yeah, yeah, yeah
+(Why you frontin' when you know you really want it?)
+You'll be saying no, no, no, no, no
+When it's really yeah, yeah, yeah, yeah, yeah
+You'll be saying no, no, no, no, no
+When it's really yeah, yeah, yeah, yeah, yeah
+(Why you frontin' when you know you really want it?)
+You'll be saying no, no, no, no, no
+When it's really yeah, yeah, yeah, yeah, yeah
+You'll be saying no, no, no, no, no
+When it's really yeah, yeah, yeah, yeah, yeah
+(Why you frontin' when you know you really want it?)
+You'll be saying no, no, no, no, no
+When it's really yeah, yeah, yeah, yeah, yeah
+You'll be saying no, no, no, no, no
+When it's really yeah, yeah, yeah, yeah, yeah
+(Why you frontin' when you know you really want it?)

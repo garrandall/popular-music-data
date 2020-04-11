@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-one-and-only-chesney-hawkes
+lyrics_url: https://www.musixmatch.com/lyrics/Chesney-Hawkes/The-One-and-Only
 name: The One And Only
 rankings:
 - end_date: '1991-08-09'
@@ -87,4 +88,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-12-14'
 ---
+I am the one and only oh yeah
+Call me, call me by my name or call me by my number
+You put me through it
+I'll still be doing it the way I do it
+And yet, you try to make me forget
+Who I really am, don't tell me I'm no best
+I'm not the same as all the rest
 
+I am the one and only
+Nobody I'd rather be
+I am the one and only
+You can't take that away from me
+I've been a player in the crowd scene
+
+A flicker on the big screen
+My soul embraces one more in a million faces
+High hopes and aspirations, and years above my station
+Maybe but all this time I've tried to walk with dignity and pride
+I can't wear this uniform without some compromises
+
+Because you'll find out that we come
+
+In different shapes and sizes
+No one can be myself like I can
+For this job I'm the best man
+And while this may be true, you are the one and only you
+(Twice)

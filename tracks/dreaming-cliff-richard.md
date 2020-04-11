@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dreaming-cliff-richard
+lyrics_url: https://genius.com/Cliff-richard-dreaming-lyrics
 name: Dreaming
 rankings:
 - end_date: '1980-09-19'
@@ -95,4 +96,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-07'
 ---
+Dreaming
+Cliff Richard
+(Tarney/Sayer)
+4:00 I've been walkin' all night
+It's the time I always think of you
+If you could only see through my eyes
+Then you'd know just what I'm going through
+Here am I, I'm takin' a chance
+In runnin' around with stars in my eyes
+Here am I, I'm lookin' for you
+Wonderin' why do I feel so blue
 
+Chorus:
+(I'm) I'm dreamin'
+Dreamin' of me and you, oh
+(I'm) I'm dreamin'
+Dreamin' will see me through
+Never letting chances pass me by
+I'm gonna dream you right into my life
+Yeah, dream you right into my life
+(Dreamin', dreamin' will see me through)
+Woman you better believe that I'm
+Dreamin' you into my life
+5:00 still walkin' around
+I call you up but you just bring me down
+I guess you'd say I'm gettin' nowhere
+But in my dreams you always come around
+Here am I, I'm takin' a chance
+Walkin' on air, flyin' so high
+Here am I, I'm facin' the truth
+There's no other way I'll ever make you mine
+
+(Chorus)
+Woman, you got to believe me woman
+Oh woman, you got to believe me woman
+I'll be (dreamin' you into my life)
+You got to believe me woman
+Woman, oh woman, you got to believe me
+I'll be forever (dreamin' you into my life)

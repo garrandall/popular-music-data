@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-don-t-stop-loving-me-elvis-presley
+lyrics_url: https://genius.com/Elvis-presley-please-dont-stop-loving-me-lyrics
 name: Please Don't Stop Loving Me
 rankings:
 - end_date: '1966-03-25'
@@ -39,4 +40,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-07'
 ---
+Please don't stop loving me
+You were born just to be in my arms
+In my arms
+Please don't stop loving me
+Your lips were made just to be kissed by me
+Kissed by me
 
+
+When I'm with you
+I don't know day from night, wrong from right
+You are my world, that's all I know
+I love you so, I won't let go
+
+
+Please don't stop loving me
+Darling you'll always be mine alone
+Mine alone

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dreamer-livin--joy
+lyrics_url: https://genius.com/Livin-joy-dreamer-lyrics
 name: Dreamer
 rankings:
 - end_date: '1995-02-03'
@@ -83,4 +84,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-06-22'
 ---
+I'm a, I'm a
+I'm a dreamer
 
+Love life and laughter is all I believe
+My savior is pure now because my lonely heart would bleed
+I never learned how to hold love and stay strong to love
+Now I close my eyes now and I'm dreaming right where I belong
+
+Here we lie all alone am I dreaming?
+Your heart's smooth my soul is unbelieving
+Now you see the me and I'm feeling, I'm feeling
+I feel your hands, your lips, the heat of your body
+Whisper your love to me say that you love me
+Please just love me down and never leave me
+I'm a dreamer
+
+Here we lie all alone am I dreaming?
+Your heart's smooth my soul is unbelieving
+Now you see the me and I'm feeling, I'm feeling
+I feel your hands, your lips, the heat of your body
+Whisper your love to me say that you love me
+Please just love me down and never leave me
+I'm a dreamer
+
+Am I a dreamer?
+Am I a dreamer?
+
+Love life and laughter is all I believe
+My savior is pure now because my lonely heart would bleed
+I never learned how to hold love and stay strong to love
+Now I close my eyes now and I'm dreaming right where I belong
+
+Here we lie all alone am I dreaming?
+Your heart's smooth my soul is unbelieving
+Now you see the me and I'm feeling, I'm feeling
+I feel your hands, your lips, the heat of your body
+Whisper your love to me say that you love me
+Please just love me down and never leave me
+I'm a dreamer
+
+Here we lie all alone am I dreaming?
+Your heart's smooth my soul is unbelieving
+Now you see the me and I'm feeling, I'm feeling
+I feel your hands, your lips, the heat of your body
+Whisper your love to me say that you love me
+Please just love me down and never leave me
+I'm a dreamer
+
+Am I a dreamer?
+Am I a dreamer?
+Am I a dreamer?

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: goin--down--on-the-road-to-la--terry-black-laurel-ward
+lyrics_url: https://www.musixmatch.com/lyrics/Terry-Black-Laurel-Ward/Goin-Down-On-the-Road-to-L-A
 name: Goin' Down (On The Road To LA)
 rankings:
 - end_date: '1972-02-18'
@@ -40,4 +41,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-01'
 ---
+Well, I started vacation
+On the road out of town
+With a great expectation
+And my Indian gown
 
+I was hitching to somewhere
+To a place far away
+With a poor boy from New York
+On a beautiful day
+
+I was leaving the city
+So we met on the road
+She was young and so pretty
+And my eyes told her so
+
+Had the same kind of reasons
+Like she was reading my mind
+Little ritch girl from New York
+Who was ever so kind
+
+()
+So we went, down, down
+Down, on the road to L.A.
+Through the hills and
+The towns, towns, towns
+On the way to the bay
+And the wheels, they
+Went round, round, round
+Through the night and the day
+Just two people from New York
+On the road to L.A.
+
+He was young and so carefree
+With a smile on his mind
+While he's living so easy
+And his thoughts were so kind
+
+With the sun in the morning
+And the wide open sky
+Little poor boy from New York
+You got much more than I
+
+() 2X

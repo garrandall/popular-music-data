@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: they-don-t-know-tracey-ullman
+lyrics_url: https://genius.com/Tracey-ullman-they-dont-know-lyrics
 name: They Don't Know
 rankings:
 - end_date: '1984-03-02'
@@ -75,4 +76,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-06-16'
 ---
+You've been around
+For such a long time now
+Oh, maybe I could leave you
+But I don't know how
 
+And why should I be lonely every night
+When I can be with you
+Oh, yes
+You make it right
+
+
+And I don't listen to the guys who say
+That you're bad for me
+And I should turn you away
+Cause they don't know 'bout us
+And they've never heard of love
+
+
+I get a feeling when I look at you
+Wherever you go now
+I wanna be there too
+
+They say we're crazy
+But I just don't care
+And if they keep on talking
+Still they get nowhere
+
+
+So I don't mind if they don't understand
+When I look at you when you hold my hand
+Cause they don't know 'bout us
+And they've never heard of love
+
+
+Why should it matter to us
+If they don't approve
+We should just take our chances
+While we've got nothing to lose
+Baby
+
+
+There's no need for living in the past
+Now I've found good loving
+Gonna make it last
+
+I tell the others
+Don't bother me
+Cause when they look at you
+They don't see what I see
+
+
+No, I don't listen to their wasted lines
+Got my eyes wide open
+And I see the signs
+Cause they don't know 'bout us
+And they've never heard of love

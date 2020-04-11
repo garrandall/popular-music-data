@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: flashdancewhat-a-feeling-irene-cara
+lyrics_url: https://genius.com/Irene-cara-flashdance-what-a-feeling-lyrics
 name: FlashdanceWhat A Feeling
 rankings:
 - end_date: '1983-04-08'
@@ -107,4 +108,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-09-17'
 ---
+First when there's nothing
+But a slow glowing dream
+That your fear seems to hide
+Deep inside your mind
 
+All alone, I have cried
+Silent tears full of pride
+In a world made of steel
+Made of stone
+
+
+Well, I hear the music
+Close my eyes, feel the rhythm
+Wrap around
+Take a hold of my heart
+
+
+What a feeling
+Being's believing
+I can have it all
+Now I'm dancing for my life
+
+Take your passion
+And make it happen
+Pictures come alive
+You can dance right through your life
+
+
+Now I hear the music
+Close my eyes, I am rhythm
+In a flash
+It takes hold of my heart
+
+
+What a feeling
+Being's believing
+I can have it all
+Now I'm dancing for my life
+
+Take your passion
+And make it happen
+Pictures come alive
+You can dance right through your life
+
+
+What a feeling
+
+
+
+
+What a feeling (I am music now)
+Being's believing (I am rhythm now)
+Pictures come alive
+You can dance right through your life
+
+What a feeling (I can really have it all)
+What a feeling (Pictures come alive when I call)
+I can have it all (I can really have it all)
+Have it all (Pictures come alive when I call)
+
+
+(Call, call, call, call, what a feeling)
+I can have it all (Being's believing)
+Being's believing (Take your passion)
+And make it happen (make it happen)
+What a feeling (What a feeling)
+Being's believing (Happen)
+Take a passion (Happen)
+Being's believing

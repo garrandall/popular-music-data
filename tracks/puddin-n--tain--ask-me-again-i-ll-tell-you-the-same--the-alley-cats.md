@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: puddin-n--tain--ask-me-again-i-ll-tell-you-the-same--the-alley-cats
+lyrics_url: https://genius.com/The-alley-cats-puddin-n-tain-lyrics
 name: Puddin N' Tain (Ask Me Again I'll Tell You The Same)
 rankings:
 - end_date: '1963-01-18'
@@ -35,4 +36,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
 ---
+Puddin' n' tain, puddin' n' tain
+Ask me again I'll tell you the same
+Puddin' n' tain, puddin' n' tain
+Ask me again I'll tell you the same
+Puddin' n' tain, puddin' n' tain
+Ask me again I'll tell you the same
 
+You won't believe this story
+While I was walking one bright and sunny day
+I met a little sweet, sweet girl
+Who chanced to walk my way
+I asked her, her name
+Here's what she said to me
+
+Puddin' n' tain, puddin' n' tain
+Ask me again I'll tell you the same
+
+Oh, golly gee
+If she would only belong to me
+And I would tellw the world
+The whole wide world
+That I'm in love with
+
+Puddin' n' tain, puddin' n' tain
+Ask me again I'll tell you the same
+
+Oh well now she's so pretty she's so fine
+She's so sweet just my kind
+All because she's pretty
+All because she's fine
+I want this girl to be mine
+
+Now we're going steady
+And I've found out her real name is Betty
+I'll tell the world the whole wide world
+That I'm in love with
+
+Puddin' n' tain, puddin' n' tain
+Ask me again I'll tell you the same
+
+Now we're going steady
+And I've found out her real name is Betty
+And I'll tell the world the whole wide world
+That I'm in love with
+
+Puddin' n' tain, puddin' n' tain
+Ask me again I'll tell you the same
+(repeat)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-really-got-me-the-kinks
+lyrics_url: https://genius.com/The-kinks-you-really-got-me-lyrics
 name: You Really Got Me
 rankings:
 - end_date: '1964-10-02'
@@ -67,4 +68,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-02'
 ---
+Girl, you really got me goin'
+You got me so I don't know what I'm doin'
+Yeah, you really got me now
+You got me so I can't sleep at night
+Yeah, you really got me now
+You got me so I don't know what I'm doin', now
+Oh yeah, you really got me now
+You got me so I can't sleep at night
 
+
+You really got me
+You really got me
+You really got me
+
+
+See, don't ever set me free
+I always want to be by your side
+Girl, you really got me now
+You got me so I can't sleep at night
+Yeah, you really got me now
+You got me so I don't know what I'm doin', now
+Oh yeah, you really got me now
+You got me so I can't sleep at night
+
+
+You really got me
+You really got me
+You really got me (oh no)
+
+
+
+
+See, don't ever set me free
+I always want to be by your side
+Girl, you really got me now
+You got me so I can't sleep at night
+Yeah, you really got me now
+You got me so I don't know what I'm doin', now
+Oh yeah, you really got me now
+You got me so I can't sleep at night
+
+
+You really got me
+You really got me
+You really got me

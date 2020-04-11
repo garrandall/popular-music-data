@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shape-of-things-to-come-max-frost-and-the-troopers
+lyrics_url: https://genius.com/Max-frost-and-the-troopers-shape-of-things-to-come-lyrics
 name: Shape Of Things To Come
 rankings:
 - end_date: '1968-09-13'
@@ -55,4 +56,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-23'
 ---
+There's a new sun
+Risin' up angry in the sky
+And there's a new voice
+Sayin': "we're not afraid to die!"
+Let the old world make believe
+It's blind and deaf and dumb, but
 
+Nothing can change the shape of things to come
+
+There are changes
+Lyin' ahead in every road
+And there are new thoughts
+Ready and waiting to explode
+When tomorrow is today
+The bells may toll for some, but
+
+Nothing can change the shape of things to come
+
+The future's comin' in, now
+Sweet and strong
+Ain't no-one gonna hold it back for long
+There are new dreams
+Crowdin' out old realities
+There's revolution
+Sweepin' in like a fresh new breeze
+Let the old world make believe
+It's blind and deaf and dumb, but
+
+Nothing can change the shape of things
+Nothing can change the shape of things
+Nothing can change the shape of things
+Nothing can change the shape of things to come

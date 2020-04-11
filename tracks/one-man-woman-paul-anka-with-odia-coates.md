@@ -1,9 +1,11 @@
 ---
 artists:
-- Paul Anka with Odia Coates
-features: []
+- Paul Anka
+features:
+- Odia Coates
 genres: []
 key: one-man-woman-paul-anka-with-odia-coates
+lyrics_url: https://genius.com/Paul-anka-and-odia-coates-one-man-woman-one-woman-man-lyrics
 name: One Man Woman
 rankings:
 - end_date: '1974-11-15'
@@ -71,4 +73,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-02-22'
 ---
+You caught me fooling around with somebody new
+You caught me fooling around now I'm losing you
+'Cause you're a one man woman
+You're a one man woman
+You're a one man woman
+But I'm a two timing man
 
+The nights you left me alone
+And you disappeared
+The nights your voice on the phone
+Said I'm waiting here
+
+'Cause I'm a one man woman
+You're a one man woman
+I'm a one man woman
+But I'm a two timing man
+
+Oh Baby you know I'm sorry
+Oh sure, it's the same old story
+I keep coming back
+And I let you
+Cause I'd rather forgive than forget you
+Now I won't need no chains to tie me down
+You lost you're way my fault
+But now you've found that
+
+'Cause I'm a one man woman
+You're a one man woman
+I'm a one man woman
+But I'm a two timing man
+
+I'm a one man woman
+I'll be a one woman man
+You're a one man woman
+I'm a one woman man
+
+Yes, you're a one man woman
+You're a one woman man...

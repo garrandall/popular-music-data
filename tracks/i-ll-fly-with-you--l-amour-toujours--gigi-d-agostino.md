@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-fly-with-you--l-amour-toujours--gigi-d-agostino
+lyrics_url: https://genius.com/Gigi-dagostino-lamour-toujours-ill-fly-with-you-lyrics
 name: I'll Fly With You (L'amour Toujours)
 rankings:
 - end_date: '2001-08-10'
@@ -59,4 +60,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-11-10'
 ---
+I still believe in your eyes
+I just don't care what you've done in your life
+Baby, I'll always be here by your side
+Don't leave me waiting too long, please come by
+I, I, I, I still believe in your eyes
+There is no choice, I belong to your life
+Because I, I live to love you some day
+You'll be my baby and we'll fly away
 
+
+And I'll fly with you
+I'll fly with you
+I'll fly with you
+I'll fly with you
+
+You are, oh!
+You are, oh!
+You are, oh!
+
+
+Every day and every night
+I always dream that you are by my side
+Oh, baby, everyday and everynight
+Well, I said everything's gonna be alright
+
+
+And I'll fly with you
+I'll fly with you
+I'll fly with you
+I'll fly with you
+
+You are, oh!
+You are, oh!
+You are, oh!
+
+
+I still believe in your eyes
+I just don't care what you've done in your life
+Baby, I'll always be here by your side
+Don't leave me waiting too long, please come by
+I, I, I, I still believe in your eyes
+There is no choice, I belong to your life
+Because I, I live to love you some day
+You'll be my baby and we'll fly away
+
+
+And I'll fly with you
+I'll fly with you
+I'll fly with you
+I'll fly with you
+
+You are, oh!
+You are, oh!
+You are, oh!
+
+
+Every day and every night
+I always dream that you are by my side
+Oh, baby, everyday and everynight
+Well, I said everything's gonna be alright
+
+
+And I'll fly with you
+I'll fly with you
+I'll fly with you
+I'll fly with you
+
+You are, oh!
+You are, oh!
+You are, oh!

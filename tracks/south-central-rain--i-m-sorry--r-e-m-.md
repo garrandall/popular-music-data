@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: south-central-rain--i-m-sorry--r-e-m-
+lyrics_url: https://genius.com/Rem-south-central-rain-lyrics
 name: South Central Rain (I'm Sorry)
 rankings:
 - end_date: '1984-06-29'
@@ -31,4 +32,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-07-28'
 ---
-
+Did you never call? I waited for your call
+These rivers of suggestion are driving me away
+The trees will bend, the cities wash away
+The city on the river, there is a girl without a dream
+I'm sorry
+Eastern to mountain, third party call, the lines are down
+The wise man built his words upon the rocks
+But I'm not bound to follow suit
+The trees will bend, the conversation's dimmed
+Go build yourself another home, this choice isn't mine
+Did you never call? I waited for your call
+These rivers of suggestion are driving me away
+The ocean sang, the conversation's dimmed
+Go build yourself another dream, this choice isn't mine

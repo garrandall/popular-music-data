@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: power-of-love-joe-simon
+lyrics_url: https://genius.com/Joe-simon-power-of-love-lyrics
 name: Power Of Love
 rankings:
 - end_date: '1972-07-14'
@@ -67,4 +68,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
 ---
+Whoa-yeah, baby, sugar
+Honey, sweet darlin', I'm yours
+Oh, yes I am
 
+Every since that day we met
+My whole life been full of joy and happiness
+Oh when you kiss me it burns to my soul
+Seven days later, my body I can't control
+
+You got
+You got power in your twist
+You got power, power, power
+Oh-oh!
+
+Oh I love ya
+I tell you I just can't help myself
+Oh when I hear you talk and I see you walk
+That make me know I don't want nobody else
+You got you call my name
+
+All my life I wanted someone
+To love an understand
+Now were together, listen to me honey
+My loneliness has gone away
+I swear I think I'm
+Think I'm able to carry on, yeah
+
+You got honey in your kiss
+And I'm glad of that
+You got honey in your twist
+And I'm glad about it
+
+Sometime, baby
+I wanna scream about your love
+Sometimes, baby
+I just a-wanna say oh, I'm glad
+I'm glad, I'm glad, I'm glad
+
+You got power in your kiss
+
+You got power in your twist
+
+You got power in your walk
+
+You got power in your talk
+
+Power with your best
+You got it, you got it
+You got it baby
+Sometime I wanna squeeze you

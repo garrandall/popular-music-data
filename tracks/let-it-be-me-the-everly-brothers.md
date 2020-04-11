@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-it-be-me-the-everly-brothers
+lyrics_url: https://genius.com/The-everly-brothers-let-it-be-me-lyrics
 name: Let It Be Me
 rankings:
 - end_date: '1960-01-17'
@@ -67,4 +68,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-18'
 ---
+I bless the day I found you
+I want to stay around you
+And so I beg you, let it be me
 
+Don't take this heaven from one
+If you must cling to someone
+Now and forever, let it be me
+
+Each time we meet love
+I find complete love
+Without your sweet love what would life be
+
+So never leave me lonely
+Tell me you love me only
+And that you'll always let it be me
+
+Each time we meet love
+I find complete love
+Without your sweet love what would life be
+
+So never leave me lonely
+Tell me you love me only
+And that you'll always---let--it—be--me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-a-woman-in-love-won-t-do-sandy-posey
+lyrics_url: https://www.musixmatch.com/lyrics/Sandy-Posey/What-a-Woman-in-Love-Won-t-Do
 name: What A Woman In Love Won't Do
 rankings:
 - end_date: '1967-03-17'
@@ -35,4 +36,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
 ---
+When you drag in the sunrise
+All over your feet
+I never ask you where youve been
+I always let you sleep late
+And bring you breakfast baby in bed
+Lord what a woman in love wont do.
 
+At times I've caught you lying
+With your bare face hanging out
+But I just couldnt follow through
+I'd just be proving
+That you're being untrue
+Lord what a woman in love wont do.
+
+What makes me keep on
+Puttin up with this?
+What keeps me kneeling
+Underneath my masters kiss?
+Could it be that I'm leaving
+Or being untrue too, like you?
+Lord what a woman in love wont do
+Whoo oo oo oohoo
+In love wont do
+Whoo oo oo oohoo
+In love wont do

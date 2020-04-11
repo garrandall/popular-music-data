@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: midnight-blue-louise-tucker
+lyrics_url: https://genius.com/Louise-tucker-midnight-blue-lyrics
 name: Midnight Blue
 rankings:
 - end_date: '1983-06-24'
@@ -59,4 +60,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-09-10'
 ---
-
+Midnight blue - so lonely without you
+Dreams fed by the mem'ries
+Oh let the music play
+Midnight blue - those treasured thoughts of you
+Gone now and forever
+Please
+Let the music play
+Midnight
+Midnight -
+I forgave you
+Couldn't save you
+Drove you from my mind
+Midnight blue - so lonely without you
+Warm words from a fantasy
+Oh let the music play. '
+Midnight blue - the tears come flowing through
+I'll never forget you
+Please
+Let the music play
+Midnight
+Midnight - . ..
+Midnight blue - those treasured thoughts of you
+Gone now and forever - please
+Let the music play

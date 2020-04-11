@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-to-me-france-joli
+lyrics_url: https://genius.com/France-joli-come-to-me-lyrics
 name: Come To Me
 rankings:
 - end_date: '1979-09-07'
@@ -71,4 +72,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
 ---
+Come to Me
+When You're all alone and feeling down
+Come to Me
+When there's nobody else around
+Come to Me
+I'm still waiting,opened armed for You
+Come to Me
+Cause I will comfort You
+When You've no one to turn to
+I will be here just for You
 
+Come to Me
+When Your world is empty and cold
+Come to Me
+When You need someone You want to hold
+Come to Me
+In My arms I will keep You safe and warm
+Come to Me
+I will shelter You from the storm
+I'm not one to pretend
+Why can't You understand
+
+Chorus:
+That I love You and I love You
+And I need You and I want You
+And I love You and I love You
+And I need You
+And I want You, come to Me
+
+I'm a lonely man
+Living in a world of dreams
+I've got everything
+But the one thing that I really need
+Come to Me
+I'll give You all the love You need
+Cause I have love just for You
+
+Repeat Verse 2
+
+Repeat Chorus and fade

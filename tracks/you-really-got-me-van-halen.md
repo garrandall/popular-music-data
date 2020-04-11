@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-really-got-me-van-halen
+lyrics_url: https://genius.com/Van-halen-you-really-got-me-lyrics
 name: You Really Got Me
 rankings:
 - end_date: '1978-02-03'
@@ -51,4 +52,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-04-08'
 ---
+Girl, you really got me now
+You got me so I don't know what I'm doin'
+Girl, you really got me now
+You got me so I can't sleep at night
 
+
+Yeah, you really got me now
+You got me so I don't know where I'm goin' yeah
+Oh yeah, you really got me now
+You got me so I can't sleep at night
+You really got me
+You really got me
+You really got me
+
+
+Please, don't ever let me be
+I always want to be by your side
+Please, don't ever let me be
+I only want to be by your side
+
+
+Girl, you really got me now
+You got me so I don't know what I'm doing
+Yeah, you really got me now
+You got me so I can't sleep at night
+You really got me
+You really got me
+You really got me
+Oh no, no!
+
+
+Girl, you really got me now
+You got me so I don't know what I'm doing
+Yeah, you really got me now
+You got me so I can't sleep at night
+
+
+Yeah, you really got me now
+You got me so I don't know where I'm goin' yeah
+Oh yeah, you really got me now
+You got me so I can't sleep at night
+You really got me
+You really got me
+You really got me
+
+
+Oh, oh ,oh!

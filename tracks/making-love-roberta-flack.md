@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: making-love-roberta-flack
+lyrics_url: https://genius.com/Roberta-flack-making-love-lyrics
 name: Making Love
 rankings:
 - end_date: '1982-03-12'
@@ -91,4 +92,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-07-24'
 ---
+Here... close to our feeling... we touch again.... we love again
+Remember when we thought our hearts would never mend?
+And we're all the better for each other
+There's more to love, I know...than making love
 
+Here... no more confusion
+We see our lives, We live our lives
+Remember when we thought we never would survive?
+But now neither one of us is breaking
+There's more to love, I know...than making love
+
+Somethings never change
+Somethings sometimes do
+
+And now I'm feeling strong enough to let you in
+And now neither one of us is breaking
+Knowing now that there's more to love...than making love
+And I remember you.....and making love
+
+And I remember you...
+And I remember you...oooo
+And I remember you
+And I remember you...ooo

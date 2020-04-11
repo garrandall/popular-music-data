@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-is-love-haddaway
+lyrics_url: https://www.musixmatch.com/lyrics/Haddaway/What-Is-Love-7-mix
 name: What Is Love
 rankings:
 - end_date: '1993-09-03'
@@ -111,4 +112,96 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-02-19'
 ---
+What is love?
+Baby, don't hurt me
+Don't hurt me no more
+Baby, don't hurt me
+Don't hurt me no more
 
+What is love?
+
+Yeah, yeah
+
+(Ooh, ooh)
+
+I don't know why you're not there
+I give you my love, but you don't care
+So what is right?
+And what is wrong?
+Gimme a sign
+
+What is love?
+Baby, don't hurt me
+Don't hurt me no more
+
+What is love?
+Baby, don't hurt me
+Don't hurt me no more
+
+(Whoa, whoa, whoa, whoa, oh-whoa, whoa, ohh, ooh)
+(Whoa, whoa, whoa, whoa, oh-whoa, whoa, ohh, ooh)
+
+Oh, I don't know, what can I do?
+What else can I say, it's up to you
+I know we're one
+Just me and you
+I can't go on
+
+What is love?
+Baby, don't hurt me
+Don't hurt me no more
+
+What is love?
+Baby, don't hurt me
+Don't hurt me no more
+
+(Whoa, whoa, whoa, whoa, oh-whoa, whoa, ohh, ooh)
+(Whoa, whoa, whoa, whoa, oh-whoa, whoa, ohh, ooh)
+
+What is love?
+(Ooh, ooh, ooh)
+What is love?
+(Ooh, ooh, ooh)
+
+What is love?
+Baby, don't hurt me
+Don't hurt me no more
+
+Don't hurt me
+Don't hurt me
+
+I want no other, no other lover
+This is our life, our time
+When we are together, I need you forever
+Is it love?
+
+What is love?
+Baby, don't hurt me
+Don't hurt me no more
+
+What is love?
+Baby, don't hurt me
+Don't hurt me no more
+Yeah, yeah
+
+(Whoa, whoa, whoa, whoa, oh-whoa, whoa, ohh, ooh)
+(Whoa, whoa, whoa, whoa, oh-whoa, whoa, ohh, ooh)
+
+What is love?
+Baby, don't hurt me
+Don't hurt me no more
+
+What is love?
+Baby, don't hurt me
+Don't hurt me no more
+
+(Huh-huh, huh-huh)
+
+Baby, don't hurt me
+Don't hurt me no more
+
+(Huh-huh, huh-huh)
+
+Baby, don't hurt me
+Don't hurt me no more
+What is love?

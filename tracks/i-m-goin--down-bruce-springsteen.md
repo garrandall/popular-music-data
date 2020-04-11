@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-goin--down-bruce-springsteen
+lyrics_url: https://genius.com/Bruce-springsteen-im-goin-down-lyrics
 name: I'm Goin' Down
 rankings:
 - end_date: '1985-09-13'
@@ -59,4 +60,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-30'
 ---
+We sit in the car outside your house you're quiet
+I can feel the heat coming around
+I go to put my arm around you
+And you give me a look like I'm way out of bounds
+Well, you let out one of your bored sighs
+Well, lately when I look into your eyes
 
+
+I'm goin' down, down, down, down
+I'm goin' down, down, down, down
+I'm goin' down, down, down, down
+I'm goin' down, down, down, down
+
+
+We get dressed up, and we go out, baby, for the night
+We come home early burning, burning in some fire fight
+I'm sick and tired of you setting me up, yeah
+Setting me up just to knock-a knock-a knock-a me down
+Down, down, down
+
+
+I'm goin' down, down, down, down
+I'm goin' down, down, down, down
+I'm goin' down, down, down, down
+I'm goin' down, down, down, down
+
+
+I pull you close now, baby, but when we kiss, I can feel a doubt
+I remember back when we started
+My kisses used to turn you inside out
+I used to drive you to work in the morning
+Friday night I'd drive you all around
+You used to love to drive me wild, yeah
+But lately girl you get your kicks from just driving me down
+Down, down, down
+
+
+I'm goin' down, down, down, down
+I'm goin' down, down, down, down
+I'm goin' down, down, down, down
+I'm goin' down, down, down, down

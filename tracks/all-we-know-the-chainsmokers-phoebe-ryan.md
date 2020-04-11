@@ -5,6 +5,7 @@ features:
 - Phoebe Ryan
 genres: []
 key: all-we-know-the-chainsmokers-phoebe-ryan
+lyrics_url: https://genius.com/The-chainsmokers-all-we-know-lyrics
 name: All We Know
 rankings:
 - end_date: '2016-10-28'
@@ -72,4 +73,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-02-04'
 ---
+Fighting flames with fire
+Hang onto burning wires
+We don't care anymore
+Are we fading lovers?
+We keep wasting colors
+Maybe we should let this go
 
+
+We're falling apart, still we hold together
+We've passed the end, so we chase forever
+'Cause this is all we know
+This feeling's all we know
+
+
+I'll ride my bike up to the road
+Down the streets right through the city
+I'll go everywhere you go
+From Chicago to the coast
+You tell me, "Hit this and let's go
+Blow the smoke right through the window"
+'Cause this is all we know
+
+
+'Cause this is all we know
+'Cause this is all we know
+
+
+Never face each other
+One bed, different covers
+We don't care anymore
+Two hearts still beating
+On with different rhythms
+Maybe we should let this go
+
+
+We're falling apart, still we hold together
+We've passed the end, so we chase forever
+'Cause this is all we know
+This feeling's all we know
+
+
+I'll ride my bike up to the road
+Down the streets right through the city
+I'll go everywhere you go
+From Chicago to the coast
+You tell me, "Hit this and let's go
+Blow the smoke right through the window"
+'Cause this is all we know
+
+
+'Cause this is all we know
+'Cause this is all we know

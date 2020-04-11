@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: play-me-neil-diamond
+lyrics_url: https://genius.com/Neil-diamond-play-me-lyrics
 name: Play Me
 rankings:
 - end_date: '1972-08-18'
@@ -51,4 +52,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-21'
 ---
+She was morning, and I was night time
+I one day woke up
+To find her lying beside my bed
+I softly said "Come take me"
+For I've been lonely in need of someone
+As though I'd done someone wrong somewhere
+But I don't know where, I don't know where
+Come lately
 
+You are the sun, I am the moon
+You are the words, I am the tune
+Play me
+
+Song she sang to me
+Song she brang to me
+Words that rang in me
+Rhyme that sprang from me
+Warmed the night, and what was right
+Became me
+
+You are the sun, I am the moon
+You are the words, I am the tune
+Play me
+
+
+
+And so it was that I came to travel
+Upon a road that was thorned and narrow
+Another place, another grace
+Would save me
+
+You are the sun, I am the moon
+You are the words, I am the tune
+Play me
+You are the sun, I am the moon
+You are the words, I am the tune
+Play me......

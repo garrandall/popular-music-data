@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-a-mess-bebe-rexha
+lyrics_url: https://genius.com/Bebe-rexha-im-a-mess-lyrics
 name: I'm A Mess
 rankings:
 - end_date: '2018-08-03'
@@ -87,4 +88,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
 ---
+Everything's been so messed up here lately
+Pretty sure he don't wanna be my baby
+Oh, he don't love me, he don't love me
+He don't love me, he don't love me, but that's okay
+'Cause I love me, yeah, I love me
+Yeah, I love me, yeah, I love myself anyway, hey
 
+
+Everything's gonna be alright
+Everything's gonna be okay
+It's gonna be a good, good life
+That's what my therapists say
+Everything's gonna be alright
+Everything's gonna be just fine
+It's gonna be a good, good life
+
+
+I'm a mess, I'm a loser
+I'm a hater, I'm a user
+I'm a mess for your love, it ain't new
+I'm obsessed, I'm embarrassed
+I don't trust no one around us
+I'm a mess for your love, it ain't new
+
+
+Nobody shows up unless I'm paying
+Have a drink on me, cheers to the failing
+Oh, he don't love me, he don't love me
+He don't love me, he don't love me, but that's okay
+'Cause I love me, yeah, I love me
+Yeah, I love me, yeah, I love myself anyway, hey
+
+
+Everything's gonna be alright
+Everything's gonna be okay
+It's gonna be a good, good life
+That's what my therapists say
+Everything's gonna be alright
+Everything's gonna be just fine
+It's gonna be a good, good life
+
+
+I'm a mess, I'm a loser
+I'm a hater, I'm a user
+I'm a mess for your love, it ain't new
+I'm obsessed, I'm embarrassed
+I don't trust no one around us
+I'm a mess for your love, it ain't new
+
+
+Everything's gonna be alright, alright
+Everything's gonna be just fine, just fine
+It's gonna be a good, good life
+
+
+I'm a mess, I'm a loser
+I'm a hater, I'm a user
+I'm a mess for your love, it ain't new
+I'm obsessed (I'm obsessed), I'm embarrassed
+I don't trust no one around us
+I'm a mess for your love, it ain't new (yeah)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wanna-be-a-cowboy-boys-don-t-cry
+lyrics_url: https://genius.com/Boys-dont-cry-i-wanna-be-a-cowboy-lyrics
 name: I Wanna Be A Cowboy
 rankings:
 - end_date: '1986-04-11'
@@ -83,4 +84,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-08-09'
 ---
+Riding on the range
+I've got my hat - on
+I've got my boots - dusty
 
+I've got my saddle
+On my horse
+He's called....T-t-t-t-t-trigger
+Of course
+
+I wanna be a cowboy
+And you can be my cowgirl
+I wanna be a cowboy
+And you can be my cowgirl
+I wanna be a cowboy
+
+(woman's voice)
+Riding on the chuck wagon
+Following my man
+His name is Ted
+Can you believe that?
+Camping on the prairie
+Plays havoc with my hair
+Makes me feel quite dirty
+Though we all do sometimes
+
+I wanna be a cowboy
+And you can be my cowgirl
+I wanna be a cowboy
+And you can be my cowgirl
+I wanna be a cowboy
+
+Looking like a hero
+Six-gun at my side
+Chewing my tobacco
+Out on the horizon
+I see a puff of smoke
+Indians on the warpath
+(Indian voice) White man speak-em with forked tongue
+Or not
+I wanna be a cowboy
+And you can be my cowgirl
+I wanna be a cowboy
+
+My name is Ted
+And one day I'll be dead yo yo

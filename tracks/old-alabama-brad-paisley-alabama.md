@@ -5,6 +5,7 @@ features:
 - Alabama
 genres: []
 key: old-alabama-brad-paisley-alabama
+lyrics_url: https://genius.com/Brad-paisley-old-alabama-lyrics
 name: Old Alabama
 rankings:
 - end_date: '2011-04-29'
@@ -88,4 +89,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-09-03'
 ---
+She’d rather wear a pair of cutoff jeans
+Than a fancy evening dress
+And with her windows rolled down and her hair all blown around, she’s a hot southern mess
+She’ll take a beer over white wine
+And a campfire over candle light
+And when it comes to love, oh her idea of a romantic night
 
+
+Is listening to old Alabama, driving through Tennessee
+A little Dixieland Delight at the Right Time of the Night
+And she can’t keep her hands off of me-ee-Eee!
+
+
+And now we’re rolling down an old back road
+I got the steering wheel in one hand
+We’ll find a hideaway where she and I can play
+In Mother Nature’s band
+
+
+Now we’re listening to old Alabama
+Parked somewhere in Tennessee
+A little Dixieland Delight and It Feels So Right
+And It’s Love In The First Degree-ee-Eee!
+
+
+Forget about Sinatra or Coltrane
+Or some old Righteous Brothers song
+And Barry White is not going to work tonight
+If you really want to turn her on
+Play some back home come on music
+That comes from the heart
+Play something with lots of feeling
+Because that’s where music has to start
+
+
+Now we’re listening to Old Alabama
+And we’re driving through Tennessee
+A little Dixieland Delight and It Feels So Right
+And its Love in the First Degree
+
+Yeah’ you know we’re listening to Old Alabama (old Alabama) driving through Tennessee (Tennessee)
+A little Why Lady Why at The Right Time of The Night
+Oh and she can’t keep her hands off of me-ee-Eee
+
+
+Oh, play me some old Alabama
+Oh, play me some old Alabama
+Won’t you play me some old Alabama
+Play me some old Alabama
+Won’t you play-ee-ay-ay
+Yeee-haw!!!

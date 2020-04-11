@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-not-there-santana
+lyrics_url: https://genius.com/Santana-shes-not-there-lyrics
 name: She's Not There
 rankings:
 - end_date: '1977-10-14'
@@ -63,4 +64,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-07'
 ---
+No one told me about her
+The way she lied
+Well, no one told me about her
+How many people cried
 
+Well, it's too late to say you're sorry
+How would I know, why should I care
+Please don't bother trying to find her
+She's not there...oh oh oh
+
+Nobody told me about her
+What could I do
+Well, nobody told me about her
+Though they all knew
+
+Well, it's too late to say you're sorry
+How would I know, why should I care
+Please don't bother trying to find her
+She's not there....
+
+Well, let me tell you about the way she looked
+The way she acted, the color of her hair
+Her voice is soft and cool
+Her eyes are clear and bright
+But she's not there...
+
+Well it's too later to say you're sorry
+How would I know, why should I care
+Please don't bother trying to find her
+She's not there...
+
+Well, let me tell you about the way she looked
+The way she acted, the color of her hair
+Her voice is soft and cool
+Her eyes are clear and bright
+But she's not there...

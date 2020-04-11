@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stand-by-me-maurice-white
+lyrics_url: https://genius.com/Maurice-white-stand-by-me-lyrics
 name: Stand By Me
 rankings:
 - end_date: '1985-09-06'
@@ -59,4 +60,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-23'
 ---
+When the night has come
+And the land is dark
+And the moon is the only light we see
+No I won't be afraid
+I won't be afraid
+Just as long as you stand, stand by me
 
+Oh, stand by me
+Oh, stand by me, stand by me
+
+If the sea that we look upon
+Should tumble and and fall
+And the mountains should crumble in the sea
+You know that I won't, I won't cry
+Oh, I won't shed a tear
+Just as long as you stand, stand by me
+
+And darling, darling
+Stand by me, stand by me
+
+You are the light that shines in my life
+I reach out my hands to be with you
+Let's keep on believing
+You give me a reason, a reason to smile
+
+
+
+If the sky and the mountains tumble to the sea
+I'll be there as long as you stand by me
+
+All the world come together, live in harmony
+I can feel your love long as you stand by me
+
+Like the moon feeds the ocean
+Let me be your life
+Baby, won't you stand by me
+
+If the sky and the mountains tumble to the sea
+Oh baby, won't you stand by me
+
+All the world come together live in harmony
+Baby, won't you stand by me

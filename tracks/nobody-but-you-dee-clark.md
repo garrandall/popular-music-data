@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nobody-but-you-dee-clark
+lyrics_url: https://genius.com/Dee-clark-nobody-but-you-lyrics
 name: Nobody But You
 rankings:
 - end_date: '1958-12-07'
@@ -75,4 +76,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
 ---
+I don't want nobody else but you
+No one treats me
+The way you do-ooo
+I just want ya to hold my hand
+And tell me I'm your lovin' man
+An I don't want nobody else but you
 
+(Oh-ooh-ooh-ooh, ooh-ooh)
+
+Wherever you are
+That's where I long to be
+You captured my heart
+And I love it can't you see?
+I don't want nobody else
+I just a-want ya to myself
+An don't want nobody else but you
+
+(Oh-ooh-ooh-ooh, ooh-ooh)
+
+Come and take me
+Take me in your arms
+Tell me I'm the only one
+That can share your charms
+Ooo, I don't care what they may say
+I'm gonna love you any old way
+An I don't want, no-no
+Nobody else but you
+
+Hoo-ooo-hoo
+Hoo-hoo-hoo, hoo
+
+FADE (falsetto by Dee)
+
+Oooh, girl
+I lo-o-o-o-ove you-ooo, wee-ooo
+
+~

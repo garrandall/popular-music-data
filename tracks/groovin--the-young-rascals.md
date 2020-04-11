@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: groovin--the-young-rascals
+lyrics_url: https://genius.com/The-young-rascals-groovin-lyrics
 name: Groovin'
 rankings:
 - end_date: '1967-04-28'
@@ -59,4 +60,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-15'
 ---
+Groovin' on a Sunday afternoon
+Really couldn't get away too soon
 
+
+I can't imagine anything that's better
+The world is ours whenever we're together
+There ain't a place I'd like to be instead of
+
+
+Movin' down a crowded avenue
+Doin' anything we like to do
+
+
+There's always lots of things that we can see
+We can be anyone we like to be
+And all those happy people we could meet just
+
+
+Groovin' on a Sunday afternoon
+Really couldn't get away too soon
+No, no, no, no
+
+
+
+
+We'll keep on spending sunny days this way
+We're gonna talk and laugh our time away
+I feel it coming closer day by day
+Life would be ecstasy, you and me endlessly
+
+
+Groovin' on a Sunday afternoon
+Really couldn't get away to soon
+No, no, no, no
+
+
+Groovin' (uh huh, uh huh)
+Groovin'

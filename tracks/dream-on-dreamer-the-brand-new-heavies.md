@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dream-on-dreamer-the-brand-new-heavies
+lyrics_url: https://genius.com/The-brand-new-heavies-dream-on-dreamer-lyrics
 name: Dream On Dreamer
 rankings:
 - end_date: '1994-03-25'
@@ -51,4 +52,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-05-28'
 ---
+Dream on dreamer life gets in your way
+Dream on dreamer life gets in your way
 
+There you go day and night
+Up in the clouds flying so high
+You try your best to stretch your mind
+Beyond reality and sense and rhyme
+You see things make your big heart sing
+Like the flowers trees and birds and pretty things
+Hate to put your two feet on the ground
+You like to step aside
+Then you release yourself and fly
+
+Dream on dreamer life gets in your way
+If the life you live is a spinning top of pain then you can
+Dream on dreamer life gets in your way
+If ya live to learn you'll be lucky one day
+
+Now the paisly pages of your mind
+Are so complete like seeing colours black and white
+Do you realize that you look so spaced out
+You've made your peace with the need to be free
+Without a doubt
+Yeah I frown 'cause something don't look right
+It's the twinkly twinkle star thats in your eyes
+Hate to put your two feet on the ground
+So go on and step aside
+And release yourself and fly
+
+Dream on dreamer life gets in your way
+If the life you live is a spinning top of pain then you can
+Dream on dreamer life gets in your way
+If ya live to learn you'll be lucky one day
+You know you gotta
+Dream on dreamer life gets in your way
+If the life you live is a spinning top of pain then you can
+Dream on dreamer life gets in your way
+If you live to learn you'll be lucky one day
+
+Over over over and over
+Over over over and over
+Over over over and over
+Over over over and over

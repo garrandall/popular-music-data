@@ -1,6 +1,6 @@
 ---
 artists:
-- Jacky Noguez And His Orchestra
+- Jacky Noguez
 features: []
 genres: []
 key: amapola-jacky-noguez-and-his-orchestra

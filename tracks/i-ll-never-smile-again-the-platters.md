@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-never-smile-again-the-platters
+lyrics_url: https://genius.com/The-platters-ill-never-smile-again-lyrics
 name: I'll Never Smile Again
 rankings:
 - end_date: '1961-08-06'
@@ -39,4 +40,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-09-18'
 ---
+I'll never smile again
+Until I smile at you
+I'll never laugh again
+What good would it do?
+For tears would fill my eyes
+My heart would realize
+That our romance is through
 
+I'll never love again
+I'm so in love with you
+I'll never thrill again
+To somebody new
+Within my heart
+I know I will never start
+To smile again
+Until I smile at you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-you-know-what-the-night-can-do--steve-winwood
+lyrics_url: https://genius.com/Steve-winwood-dont-you-know-what-the-night-can-do-lyrics
 name: Don't You Know What The Night Can Do?
 rankings:
 - end_date: '1988-08-26'
@@ -75,4 +76,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-12-10'
 ---
+Hear the night music playing?
+Don't you know what it's saying?
+We should feel it together
+Forever
 
+Feel the beat and just hold on
+To the sweet midnight flowing
+Feel the music inside you
+I'll be there too
+
+Now's the time our dreams are finally coming true
+Feels so good we're crying
+Now's the time when it's down to me and you
+Spread these wings, we'll be flying
+
+Don't you know what the night can do?
+Don't you know when it's touching you?
+Don't you know what the night can do?
+
+Time to show all your feeling
+All the night is revealing
+Let the rhythm enfold you
+Let me hold you
+
+Now we turn into music
+Now we will never lose it
+When the rhythm and night ride
+No heart can hide
+
+There are times that never ever come again
+Memories there for the making
+When the night calls, we better let it in
+All this love for the taking
+
+Don't you know what the night can do?
+Don't you know when it's touching you?
+Won't you help me to let it through?
+Don't you know what the night can do?
+
+Don't you know what the night can do?
+Know what the night can do?
+Don't you know what the night can do?
+
+Don't you know what the night can do?
+Know what the night can do?
+Don't you know what the night can do?
+
+There are times that never ever come again
+Memories there for the making
+When the night calls, we better let it in
+All this love for the taking
+
+Don't you know what the night can do?
+Don't you know when it's touching you?
+Won't you help me to let it through?
+Don't you know what the night can do?
+
+Don't you know what the night can do?
+Know what the night can do?
+Don't you know what the night can do?
+
+Don't you know what the night can do?
+Know what the night can do?
+Don't you know what the night can do?
+
+Don't you know what the night can do?
+Know what the night can do?
+Don't you know what the night can do?

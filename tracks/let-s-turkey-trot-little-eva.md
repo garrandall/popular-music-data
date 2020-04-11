@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-turkey-trot-little-eva
+lyrics_url: https://genius.com/Little-eva-lets-turkey-trot-lyrics
 name: Let's Turkey Trot
 rankings:
 - end_date: '1963-02-08'
@@ -47,4 +48,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-04-06'
 ---
+Come on let's turkey trot
+Let's get it while its hot
+This dance is really fine
+ ?
+My grandmother taught this dance to me
+She did it at the turn of the century
+Yeah yeah yeah yeah
+Come on let's turkey trot
 
+People may say your some kind of a nut
+When you're lifting your knees and you start to strut
+But if your really want to get out of a rut
+Do some turkey trottin' and all your cares will be forgotten
+
+Come on let's turkey trot
+Let's give it all we got
+And when the dance is through
+I'll trot some turkey with you
+
+Oh we're gonna do the turkey trot again
+Just like they did it back in 1910
+Yeah yeah yeah yeah
+Come on and turkey trot
+
+Gobbididly gobbididly
+
+Oh we're gonna do the turkey trot again
+Just like they did it back in 1910
+Yeah yeah yeah yeah
+Come on and turkey trot
+And give it all we got
+You'll never want to stop
+
+Come on and turkey trot

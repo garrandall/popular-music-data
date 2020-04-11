@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-you-like-i-never-loved-before-john-o-banion
+lyrics_url: https://genius.com/John-obanion-love-you-like-i-never-loved-before-lyrics
 name: Love You Like I Never Loved Before
 rankings:
 - end_date: '1981-04-03'
@@ -59,4 +60,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-06-20'
 ---
+Heard a promise in the wind
+Then I saw you walkin' in
+Tell me, baby, where ya been so long
+Waited all my life to feel this strong
 
+I love you like I never loved before
+And every day I love you so much more
+I'm feeling like I've never felt so sure
+Love you like I never loved before
+
+Lonely days and lonely nights
+Finally gone and out of sight (thanks to you)
+I'll do everything within my power
+To make your life get sweeter hour by hour
+
+I love you like I never loved before
+And every day I love you so much more
+I'm feeling like I've never felt so sure
+Love you like I never loved before
+
+I'll do everything within my power
+To make your life get sweeter hour by hour
+
+I love you like I never loved before
+And every day I love you so much more
+I'm feeling like I've never felt so sure
+Love you like I never loved before
+
+I love you like I never loved before
+(No, I never) No, I never (never loved before)
+I love you like I never loved before
+(No, I never) No, I never, never loved like this before
+I love you like I never loved before
+(No, I never) No, I never, no, I never
+I love you like I never loved before

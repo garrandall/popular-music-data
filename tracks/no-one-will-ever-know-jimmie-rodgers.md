@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-one-will-ever-know-jimmie-rodgers
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers-2/No-One-Will-Ever-Know
 name: No One Will Ever Know
 rankings:
 - end_date: '1962-09-07'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-11-10'
 ---
+My heart is breaking
+Although a million teardrops
+Start to flow
 
+I'll cry myself to sleep
+And wake up smiling
+I'll miss you but
+
+I'll them we grew tired
+Tired of each other
+And realized our dreams
+Could never be
+
+I'll even make believe
+I never loved you
+Then no one will ever know
+The truth but me
+
+I'll them we grew tired
+Tired of each other
+(So tired, so tired)
+And realized our dreams
+Could never be
+(Never, never be)
+
+I'll even make believe
+I never loved you
+Then no one will ever know
+The truth but me
+
+The truth but me

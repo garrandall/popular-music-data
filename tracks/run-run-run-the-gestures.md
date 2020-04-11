@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: run-run-run-the-gestures
+lyrics_url: https://www.musixmatch.com/lyrics/The-Gestures/Run-Run-Run
 name: Run Run Run
 rankings:
 - end_date: '1964-11-20'
@@ -39,4 +40,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-02'
 ---
+Now run run baby
+Run run run to set you free
+Run run run run baby
+Run run run run baby run
+I'll just set you free
 
+Now did you know
+That I didn't love you
+And did you know
+I'd make a fool of you
+
+Run run run run baby
+Run run run run baby run
+
+There I was all alone
+Waiting for you to phone
+But you were out with another guy
+Why oh why oh why
+
+Run run baby
+Run run run to set you free
+Run run run run baby
+Run run run run baby run
+I'll just set you free
+
+There I was all alone
+Waiting for you to phone
+But you were out with another guy
+Why oh why oh why
+
+Come on and run run baby
+Run run run to set you free
+Run run run run baby
+Run run run run baby
+Run run run run baby run

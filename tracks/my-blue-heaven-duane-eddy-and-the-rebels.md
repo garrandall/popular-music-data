@@ -1,6 +1,7 @@
 ---
 artists:
-- Duane Eddy And The Rebels
+- Duane Eddy
+- The Rebels
 features: []
 genres: []
 key: my-blue-heaven-duane-eddy-and-the-rebels

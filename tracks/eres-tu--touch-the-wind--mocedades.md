@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: eres-tu--touch-the-wind--mocedades
+lyrics_url: https://genius.com/Mocedades-eres-tu-lyrics
 name: Eres Tu (Touch The Wind)
 rankings:
 - end_date: '1974-01-18'
@@ -75,4 +76,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-05-04'
 ---
+Como una promesa, eres tú, eres tú
+Como una mañana de verano
+Como una sonrisa, eres tú, eres tú
+Así, así, eres tú
+Toda mi esperanza, eres tú, eres tú
+Como lluvia fresca en mis manos
+Como fuerte brisa, eres tú, eres tú
+Así, así, eres tú
 
+
+Eres tú como el agua de mi fuente
+(Algo así eres tú)
+Eres tú el fuego de mi hogar
+Eres tú como el fuego de mi hoguera
+Eres tú el trigo de mi pan
+
+
+Como mi poema, eres tú, eres tú
+Como una guitarra en la noche
+Todo mi horizonte eres tú, eres tú
+Así, así, eres tú
+
+
+Eres tú como el agua de mi fuente
+(Algo así eres tú)
+Eres tú el fuego de mi hogar
+Eres tú como el fuego de mi hoguera
+Eres tú el trigo de mi pan
+
+
+Eres tú...

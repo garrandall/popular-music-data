@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-take-my-breath-away-rex-smith
+lyrics_url: https://genius.com/Rex-smith-you-take-my-breath-away-lyrics
 name: You Take My Breath Away
 rankings:
 - end_date: '1979-04-27'
@@ -71,4 +72,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-08-04'
 ---
+You, I don't know what to say
+You take my breath away
+You're every song I sing
+You're the music that I play
+And you take my breath away
 
+You, you smile and it's okay
+You take my breath away
+Like water from a spring on a sizzling summer day
+Oh you take my breath away
+
+There are words for the magic of a sunrise
+Only none of them will do
+For you, you take my breath away
+And I don't know what to say
+'Cause you take my breath away
+
+You, you take my breath away
+And I don't know what to say
+'Cause you take my breath away
+You take my breath away
+You take my breath away
+
+You take my breath away
+You take my breath away
+Oh yeah, you take my breath away
+Oh, you take my breath away
+Oh, I say you take my breath away, yeah yeah
+I say, I say, I say you take my breath away

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tragedy-the-fleetwoods
+lyrics_url: https://www.musixmatch.com/lyrics/The-Fleetwoods/Tragedy
 name: Tragedy
 rankings:
 - end_date: '1961-04-23'
@@ -55,4 +56,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-07-03'
 ---
-
+Tragedy
+Wind and storm (wah-ooh)
+Gone's the sun (wah-ooh)
+From the stars(wah-ooh)
+My dark has come
+You've gone from me, whoa, whoa,
+Tragedy
+Oh, come back (come back)
+Have me here (right here)
+Hold me love (my love)
+Be sincere
+You've gone from me, whoa, whoa,
+Tragedy
+Like smoke (like smoke) from a fire (from a fire)
+Our love(of love) whoa oh oh whoa
+Our dreams (our dreams) have all gone (all gone)
+Above (above) whoa oh oh whoa
+Blown (blown by wind)
+Kissed by the snow
+All that's left is the dark be-ee (below)
+You've gone from me, whoa, whoa, tragedy
+Whoa, whoa, whoa tragedy

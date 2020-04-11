@@ -69,7 +69,7 @@ We decided when the hit was, run up on him, .45 in the ribs WHAT!
 This nigga screamed like a bitch
 Showed us what his shit hit her, hell of a lick BUT!
 The bitch, who told us bout the bricks exposed us to the nigga
-He knew that we'd come BUT! {*gun shot*}
+He knew that we'd come BUT!
 Meanwhile in his hood, his niggaz is suiting up and Timbed, looted up
 Rims and new trucks your man 'Livin It Up'
 Then a van with no hubs suddenly pulled up and erupt

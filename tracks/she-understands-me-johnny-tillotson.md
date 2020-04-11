@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-understands-me-johnny-tillotson
+lyrics_url: https://genius.com/Johnny-tillotson-she-understands-me-lyrics
 name: She Understands Me
 rankings:
 - end_date: '1964-11-06'
@@ -51,4 +52,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-09'
 ---
+You ask me why, why I love her --
+Woh-woh, dum-dee-dah-dee
+Dum-dee-dah-dee, doh
+I'll tell you why, why I love her
+Woh-woh, dum-dee-dah-dee
+Dum-dee-dah-dee, doh
 
+She understands me the way you never did
+She loves me, she loves me the way you never did
+She takes the time to notice I'm around
+She builds me up -- she never lets me down
+
+You want to know if I'll come back to you --
+Woh-woh, dum-dee-dah-dee
+Dum-dee-dah-dee, doh
+After knowing her, no other love will do
+Woh-woh, dum-dee-dah-dee
+Dum-dee-dah-dee, doh
+
+She understands me the way you never did
+She loves me, she loves me the way you never did
+She takes the time to notice I'm around
+She builds me up -- she never lets me down
+
+That's why I love her...
+She understands me...

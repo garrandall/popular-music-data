@@ -5,6 +5,7 @@ features:
 - Busta Rhymes
 genres: []
 key: what-it-is-violator-busta-rhymes
+lyrics_url: https://www.musixmatch.com/lyrics/Violator-feat-Busta-Rhymes/What-It-Is
 name: What It Is
 rankings:
 - end_date: '2001-07-06'
@@ -64,4 +65,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-09-29'
 ---
-
+Yeah. Flipmode. Violator.
+Neptunes nigga
+What you want nigga, yeah
+What you want bitches
+Keep it goin, c'mon
+Keep it goin, c'mon
+Keep it goin, c'mon
+C'mon, yeh yeah
+C'mon - who be the father to this?
+Bounce right here niggas be followin this

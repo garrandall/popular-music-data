@@ -1,6 +1,7 @@
 ---
 artists:
-- Elvis Presley With The Jordanaires
+- Elvis Presley
+- The Jordanaires
 features: []
 genres: []
 key: -now-and-then-there-s--a-fool-such-as-i-elvis-presley-with-the-jordanaires

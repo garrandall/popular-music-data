@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-boy-next-door-the-secrets
+lyrics_url: https://genius.com/The-secrets-pop-group-the-boy-next-door-lyrics
 name: The Boy Next Door
 rankings:
 - end_date: '1963-11-15'
@@ -47,4 +48,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-01-11'
 ---
+The boy next door has really got me dreamin'
+(dum-dee-dum-dee-dum, the boy next door)
+But I remember when he was a little demon
+(dum-dee-dum-dee-dum, the boy next door)
 
+He used to pull my hair
+But I didn't really care
+I loved him even then
+When he was twelve and I was ten
+
+The boy next door used to take my toys away
+(dum-dee-dum-dee-dum, the boy next door)
+But now he's busy keeping all of the boys away
+(dum-dee-dum-dee-dum, the boy next door)
+
+He's jealous as can be
+But that's alright with me
+He told all the other guys
+"Stay away if you value your life"
+
+The boy next door wants to move across the street
+(dum-dee-dum-dee-dum, the boy next door)
+He wants to get married, gonna make my life complete
+(dum-dee-dum-dee-dum, the boy next door)
+
+So if you're looking ‘round
+For a boy in your home town
+The one that you're looking for
+Just might be the boy next door
+
+Oh, the boy next door
+(dum-dee-dum-dee-dum, the boy next door)

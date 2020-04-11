@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: harlem-nocturne-the-viscounts
+lyrics_url: https://genius.com/The-viscounts-harlem-nocturne-lyrics
 name: Harlem Nocturne
 rankings:
 - end_date: '1960-01-03'
@@ -123,4 +124,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
 ---
-
+♫  ♫

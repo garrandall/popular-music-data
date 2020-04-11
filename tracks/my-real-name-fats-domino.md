@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-real-name-fats-domino
+lyrics_url: https://genius.com/Fats-domino-my-real-name-lyrics
 name: My Real Name
 rankings:
 - end_date: '1962-05-18'
@@ -35,4 +36,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
 ---
+Some folks call me Fatso
+Some call me Dumbo
+But my real name
+Is the Handyman
 
+So if you want your lovin' done
+Baby I'm the one
+Don't be ashamed
+Call me the Handyman
+
+When you' re in misery
+Call and send for me
+Don't be ashamed
+Call me the handyman
+
+'Cause I'll be home, yes I'll be home
+I'll be home, yes I'll be home
+I'll be home, yes I'll be home
+I'll be home, yes I'll be home
+
+Some folks call me Fatso
+Some call me Dumbo
+But my real name
+Is the Handyman
+
+So if you want your lovin' done
+Baby I'm the one
+Don't be ashamed
+Call me the Handyman
+
+'Cause I'll be home, yes I'll be home
+I'll be home, yes I'll be home
+I'll be home, yes I'll be home
+I'll be home, yes I'll be home

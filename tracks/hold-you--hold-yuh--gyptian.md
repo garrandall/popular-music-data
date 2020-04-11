@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-you--hold-yuh--gyptian
+lyrics_url: https://genius.com/Gyptian-hold-you-lyrics
 name: Hold You (Hold Yuh)
 rankings:
 - end_date: '2010-06-11'
@@ -67,4 +68,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-10-02'
 ---
+Gyal me wann fi hold yuh
+Put me arms right around ya
+Gyal you give me the tightest hold me eva get inna my life
+Gyal, me wann fi just squeeze yuh
+Put me tings all around ya
+Gyal you give me tightest hold me eva get inna mi life, oh
 
+
+Me eye dem dry and me nuh care
+Mi tek it anytime, anywhere
+Inna de square, seh me nuh fear
+And as a woman I will be there
+Mi want a gyal who can wine pon me
+Mi want a gyal who can take care of me
+And mek mi feel it
+And mi reveal it
+Ooh, my haf fi really squeeze it
+
+
+Gyal me wann fi hold yuh
+Put me arms right around yuh
+Gyal you give me the tightest hold me eva get inna my life
+Gyal me juss wann fi just squeeze yuh
+Put me tings all around yuh
+Gyal yuh give me tightest hold me eva get inna mi life
+Oh lord
+
+
+Like a fast bike pon di road, roo-room, roo-room
+Gyal pon de back and she-a boom, boom, boom, boom
+Gime mi da maga one or the fat tun tun tun tun
+When a player has one time we come to come come
+Me outta control
+A more fire she want inna her soul
+She say more pon more and still she groan
+And still me multiply more
+
+
+Gyal me wann fi hold yuh
+Put me arms right around yuh
+Gyal you give me the tightest hold me eva get inna my life
+Gyal me juss wann fi just squeeze yuh
+Put me tings all around yuh
+Gyal yuh give me tightest hold me eva get inna mi life
+Oh lord
+
+
+Me eye dem dry and me nuh care
+Mi tek it anytime, anywhere
+Inna de square, seh me nuh fear
+And as a woman I will be there
+Mi want a gyal who can wine pon me
+Mi want a gyal who can take care of me
+And mek mi feel it
+And mi reveal it
+Show me that you can girl
+
+
+Gyal me wann fi hold yuh
+Put me arms right around yuh
+Gyal you give me the tightest hold me eva get inna my life
+Gyal me juss wann fi just squeeze yuh
+Put me tings all around yuh
+Gyal yuh give me tightest hold me eva get inna mi life

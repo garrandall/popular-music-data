@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-her-tight-the-osmonds
+lyrics_url: https://genius.com/The-osmonds-hold-her-tight-lyrics
 name: Hold Her Tight
 rankings:
 - end_date: '1972-07-07'
@@ -43,4 +44,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-08-26'
 ---
+What is the matter
+Now what did you do
+Did you go and lose her
+Like the others too
 
+Let me tell you something
+Here's the way it goes
+There's a way to treat em
+Everybody knows
+
+Hold her tight
+Hold her like a baby
+Make her feel
+Make her feel real good
+
+Give a chance
+Give her time to love you
+Don't let go (don't let go)
+If you know (if you know)
+No one else can touch her
+
+Everybody tells you
+She's the one for you
+So if I was you, boy
+Here's what I'd do
+
+Hold her tight
+Hold her like a baby
+Make her feel
+Make her feel real good
+
+Give a chance
+Give her time to love you
+Don't let go (don't let go)
+If you know (if you know)
+No one else can touch her
+
+Hold her tight
+Hold her like a baby
+Make her feel
+Make her feel real good
+
+Give a chance
+Give her time to love you
+Hold her tight
+Hold her like a baby
+
+Make her feel
+Make her feel real good
+Give a chance
+Give her time to love you

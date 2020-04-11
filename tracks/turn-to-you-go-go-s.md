@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: turn-to-you-go-go-s
+lyrics_url: https://genius.com/The-go-gos-turn-to-you-lyrics
 name: Turn To You
 rankings:
 - end_date: '1984-06-22'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-09-15'
 ---
+You act so tough
+But I know what you're doing
+You think falling in love
+Means falling to ruin
+You build your walls so high
+You act your life out all alone
+You don't want to let me see
+That your heart's not made out of stone
 
+
+There may be some explanation
+Why you feel the way you do
+The world makes its rotations
+But I just want to turn to you
+Come on let me turn to you
+Please let me turn to you
+Why not let me turn to you
+Just want to turn to you
+
+It has a lot to do
+With the fist time that we met
+The wild dance in your eyes
+Made up for what was never said
+Gotta get my message
+Stop spending all our precious time
+Stop spending all our precious time
+Because before you know it
+We'll be down to our last dime

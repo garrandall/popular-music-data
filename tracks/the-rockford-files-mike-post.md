@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-rockford-files-mike-post
+lyrics_url: https://genius.com/Mike-post-the-rockford-files-theme-song-lyrics
 name: The Rockford Files
 rankings:
 - end_date: '1975-05-23'
@@ -71,4 +72,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-08-30'
 ---
-
+Instrumental

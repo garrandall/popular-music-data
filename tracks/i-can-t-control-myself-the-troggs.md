@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-control-myself-the-troggs
+lyrics_url: https://genius.com/The-troggs-i-cant-control-myself-lyrics
 name: I Can't Control Myself
 rankings:
 - end_date: '1966-10-21'
@@ -31,4 +32,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-11-19'
 ---
+Oh no!
 
+Baba bababa baba ba ba
+Baba bababa baba baba
+
+I can't stand still 'cos you've got me goin'
+Baba ba ba ba ba ba ba
+Your slacks are low and your hips are shown'
+Ba ba ba ba ba ba ba ba ba
+I take you girl as you're standing there
+Your low cut slacks and your long black hair
+Don't want you goin' round with no one else
+Cause when I'm with you I can't control myself
+
+Defense is down and you've got me shakin'
+Baba ba ba ba ba ba ba ba
+You've got me so that my nerves are breakin'
+Ba ba ba ba ba ba ba ba ba
+If you knew me like I know you girl
+Your knees would bend and your hair would curl
+You make me move yeah like no one else
+When I'm with you I can't control myself
+
+
+
+I've got this feeling that's inside of me
+It makes me think of how things used to be
+It makes me feel allright
+When I'm with you at night
+And we love, and we love
+
+Baba bababa baba ba ba
+Baba bababa baba baba
+
+You fill me so with this big temptation
+Baba ba ba ba ba ba ba ba
+This kind of feeling could move a nation
+Ba ba ba ba ba ba ba ba ba
+And I'm okay when I'm here with you
+I do the things that you want me to
+But do these things for no one else
+When I'm with you I can't control myself
+
+Baba bababa baba ba ba
+Baba bababa baba baba
+
+I Can't control myself
+Baba bababa baba baba
+I Can't control myself
+But when I've got this feeling that's inside of me
+
+Ahhh...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-please-me-the-beatles
+lyrics_url: https://genius.com/The-beatles-please-please-me-lyrics
 name: Please Please Me
 rankings:
 - end_date: '1964-02-07'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-04-25'
 ---
+Last night, I said these words to my girl
+I know you never even try, girl
 
+
+Come on (Come on), come on (Come on)
+Come on (Come on), come on (Come on)
+Please please me, whoa yeah, like I please you
+
+
+You don't need me to show the way, love
+Why do I always have to say, love?
+
+
+Come on (Come on), Come on (Come on)
+Come on (Come on), Come on (Come on)
+Please please me, whoa yeah, like I please you
+
+
+I don't want to sound complaining
+But you know there's always rain in my heart (in my heart)
+I do all the pleasing with you it's so hard to reason
+With you, whoa yeah, why do you make me blue?
+
+
+Last night, I said these words to my girl
+I know you never even try girl
+
+
+Come on (Come on) Come on (Come on)
+Come on (Come on) Come on (Come on)
+Please, please me, whoa yeah, like I please you
+Me, whoa yeah, like I please you
+Me, whoa yeah, like I please you
+Me, whoa yeah, like I please you

@@ -5,6 +5,7 @@ features:
 - Az Yet
 genres: []
 key: you-re-the-inspiration-peter-cetera-az-yet
+lyrics_url: https://genius.com/Peter-cetera-youre-the-inspiration-remix-feat-az-yet-lyrics
 name: You're The Inspiration
 rankings:
 - end_date: '1997-10-24'
@@ -48,4 +49,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-12-20'
 ---
+You know our love was meant to be
+The kind of love to last forever
+And I want you here with me
+From tonight until the end of time
+You should know, everywhere I go
+Always on my mind, in my heart, in my soul
 
+Baby, you're the meaning in my life
+You're the inspiration
+You bring feeling to my life
+You're the inspiration
+Wanna have you near me
+I wanna have you hear me saying
+No one needs you more than I need you
+
+And I know, yes, I know that it's plain to see
+We're so in love when we're together
+Now I know, now I know
+That I need you here with me
+From tonight until the end of time
+You should know
+Everywhere I go
+Always on my mind, in my heart, in my soul
+
+Baby, you're the meaning in my life
+You're the inspiration
+You bring feeling to my life
+You're the inspiration
+Wanna have you near me
+I wanna have you hear me saying
+No one needs you more than I need you
+
+Wanna have you near me
+Wanna have you hear me saying
+No one needs you more than I need you
+
+You're the meaning in my life
+You're the inspiration
+Bring feeling to my life
+
+You're the inspiration
+When you love somebody
+Till the end of time
+When you love somebody
+
+Always on my mind (No one needs you more than I)
+When you love somebody
+Till the end of time
+When you love somebody
+Always on my mind (No one needs you more than I)

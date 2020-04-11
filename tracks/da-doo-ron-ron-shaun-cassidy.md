@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: da-doo-ron-ron-shaun-cassidy
+lyrics_url: https://genius.com/Shaun-cassidy-da-doo-ron-ron-lyrics
 name: Da Doo Ron Ron
 rankings:
 - end_date: '1977-05-20'
@@ -95,4 +96,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-10-08'
 ---
+I met her on a Monday and my heart stood still
+Da doo ron ron ron, da doo ron ron
+Someboy told me that her name was Jill
+Da doo ron ron ron, da doo ron ron
 
+Yeah, my heart stood still
+Yes, her name was Jill
+And when I walked her home
+Da doo ron ron ron, da doo ron ron
+
+I knew what she was thinkin' when she caught my eye
+Da doo ron ron ron, da doo ron ron
+She looked so quiet but my oh my
+Da doo ron ron ron, da doo ron ron
+
+Yeah, she caught my eye
+Yes, my oh my
+And when I walked her home
+Da doo ron ron ron, da doo ron ron
+
+(Ooh)
+(Da doo ron ron ron, da doo ron ron)
+(Ooh)
+(Da doo ron ron ron, da doo ron ron)
+
+Well, I picked her up at seven and she looked so fine
+Da doo ron ron ron, da doo ron ron
+Someday soon I'm gonna make her mine
+Da doo ron ron ron, da doo ron ron
+
+Yeah, she looked so fine
+Yes, I'll make her mine
+And when I walked her home
+Da doo ron ron ron, da doo ron ron
+
+Da doo ron ron ron, da doo ron ron
+Da doo ron ron ron, da doo ron ron
+Da doo ron ron ron, da doo ron ron
+Da doo ron ron ron, da doo ron ron
+
+Oh
+Da doo ron ron ron, da doo ron ron
+Da doo ron ron ron, da doo ron ron
+Oh
+Da doo ron ron ron, da doo ron ron
+Da doo ron ron ron, da doo ron ron
+
+Yeah, yeah
+Da doo ron ron ron, da doo ron ron
+Da doo ron ron ron, da doo ron ron
+Oh, oh
+Da doo ron ron ron, da doo ron ron
+Da doo ron ron ron, da doo ron ron
+
+Da doo ron ron ron, da doo ron ron
+Da doo ron ron ron, da doo ron ron

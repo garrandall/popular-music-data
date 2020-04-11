@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: isn-t-life-strange-the-moody-blues
+lyrics_url: https://genius.com/The-moody-blues-isnt-life-strange-lyrics
 name: Isn't Life Strange
 rankings:
 - end_date: '1972-04-28'
@@ -47,4 +48,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-06-24'
 ---
+Isn't life strange
+A turn of the page
+Can read like before
+Can we ask for more?
+Each day passes by
+How hard man will try?
+The sea will not wait
+You know it makes me want to cry, cry, cry -
 
+Wished I could be in your heart
+To be one with your love
+Wished I could be in your eyes
+Looking back there you were, and here we are
+
+Isn't love strange
+A word we arrange
+With no thought or care
+Maker of despair
+Each breath that we breathe
+With love we must weave
+To make us as one
+You know it makes me want to cry, cry, cry -
+
+Wished I could be in your heart
+To be one with your love
+Wished I could be in your eyes
+Looking back there you were, and here we are
+
+Isn't life strange
+A turn of the page
+A book without light
+Unless with love we write;
+To throw it away
+To lose just a day
+The quicksand of time
+You know it makes me want to cry, cry, cry -
+
+Wished I could be in your heart
+To be one with your love
+Wished I could be in your eyes
+Looking back there you were
+
+Wished I could be in your heart
+To be one with your love
+Wished I could be in your eyes
+Looking back there you were
+
+Wished I could be in your heart
+To be one with your love
+Wished I could be in your eyes
+Looking back there you were...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: me-so-horny-the-2-live-crew
+lyrics_url: https://genius.com/2-live-crew-me-so-horny-lyrics
 name: Me So Horny
 rankings:
 - end_date: '1989-09-15'
@@ -127,4 +128,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-03-31'
 ---
+"What'll we get for 10 dollars?"
+"Every 'ting you want"
+"Everything?"
+"Every 'ting.."
 
+
+Ahh! Me so horny!
+Me love you long time!
+
+
+Sitting at home with my dick all hard
+So I got the black book for a freak to call
+Picked up the telephone, then dialed the 7 digits
+Said, "Yo, this Marquis, baby! Are you down with it?"
+I arrived at her house, knocked on the door
+Not having no idea of what the night had in store
+I'm like a dog in heat, a freak without warning
+I have an appetite for sex, cause me so horny
+
+
+Ahh! Me so horny!
+Me love you long time!
+
+
+Girls always ask me why I fuck so much
+I say "What's wrong, baby doll, with a quick nut?"
+Cause you're the one, and you shouldn't be mad
+I won't tell your mama if you don't tell your dad
+I know he'll be disgusted when he sees your pussy busted
+Won't your mama be so mad if she knew I got that ass?
+I'm a freak in heat, a dog without warning
+My appetite is sex, cause me so horny
+
+
+Ahh! Me so horny!
+Me love you long time!
+
+
+You can say I'm desperate, even call me perverted
+But you say I'm a dog when I leave you fucked and deserted
+I'll play with your heart just like it's a game
+I'll be blowing your mind while you're blowing my brains
+I'm just like that man they call Georgie Puddin' Pie
+I fuck all the girls and I make 'em cry
+I'm like a dog in heat, a freak without warning
+I have an appetite for sex, cause me so horny
+
+
+Ahh! Me so horny!
+Me love you long time!
+
+
+It's true, you were a virgin until you met me
+I was the first to make you hot and wetty-wetty
+You tell your parents that we're going out
+Never to the movies, just straight to my house
+You said it yourself, you like it like I do
+Put your lips on my dick, and suck my asshole too
+I'm a freak in heat, a dog without warning
+My appetite is sex, cause me so horny
+
+
+"Fuckie suckie"
+"Me fuckie suckie"

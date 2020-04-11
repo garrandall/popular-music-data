@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happy-music-the-blackbyrds
+lyrics_url: https://genius.com/The-blackbyrds-happy-music-lyrics
 name: Happy Music
 rankings:
 - end_date: '1976-03-12'
@@ -59,4 +60,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
 ---
+Happy music makes you
+Feel good all the time
+Happy music takes your
+Troubles off your mind
 
+Happy music makes you
+Footloose and fancy free
+Happy music takes you
+Where you wanna be
+
+Happy music
+Good time music
+Is our music
+Funky music
+
+Party music
+Play happy music
+Happy music
+
+When you're jamming and
+You want to boogie down
+Play a hip tune that's
+Got a funky sound
+Make it funky, funky music
+Log on to kill this message
+
+Happy music makes you
+Feel good all the time
+Happy music takes your
+Troubles off your mind
+
+Happy music makes you
+Footloose and fancy free
+Happy music takes you
+Where you wanna be

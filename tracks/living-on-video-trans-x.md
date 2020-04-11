@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: living-on-video-trans-x
+lyrics_url: https://genius.com/Trans-x-living-on-video-lyrics
 name: Living On Video
 rankings:
 - end_date: '1986-05-16'
@@ -55,4 +56,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-07-26'
 ---
+Give me light, give me action
+At the touch of a button
+Flying through hyper-space
+In a computer interface
 
+
+Stop! Living on video
+Stop! Integrated circuits
+Stop! Sur un faisceau de lumière
+Stop! Is this reality?
+
+
+Travelling in a light beam
+Laser rays and purple skies
+In a computer fairyland
+It is a dream you bring to life
+
+
+Stop! Living on video
+Stop! Integrated circuits
+Stop! Sur un faisceau de lumière
+Stop! Is this reality?
+
+
+I see your glittering blue eyes
+You look at me with a smile
+It's a computer fantasy
+It is waiting for you and me
+
+
+Living, living on video
+Living, living on video
+Living, living on video
+Stop!
+
+
+
+
+Living on video
+Video (video)
+Video
+Video

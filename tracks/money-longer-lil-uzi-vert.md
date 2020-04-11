@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: money-longer-lil-uzi-vert
+lyrics_url: https://genius.com/Lil-uzi-vert-money-longer-lyrics
 name: Money Longer
 rankings:
 - end_date: '2016-07-08'
@@ -95,4 +96,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-11-26'
 ---
+Yeah, it do not matter
+Turned to a savage, pocket got fatter, she call me daddy
+Smokin' that gas, gone off that Xanny, she on the powder
+Nowadays I am on, my haters got sadder
+Money got longer, speaker got louder, car got faster
+Turned to a savage, pocket got fatter, she call me daddy
+Smokin' that gas, gone off that Xanny, she on the powder
+Nowadays I am on, my haters got sadder
+Money got longer, speaker got louder, car got faster
 
+
+Money so old, dollars spoiled (Spoiled)
+Yeah, my lil' bitch so spoiled (Spoiled)
+Yeah, I rub her down in oil
+Yeah, I got money, now you know it
+Yeah, diamonds on my teeth
+Yeah, your shit look like foil
+Yeah, Chris Brown said these hoes ain't loyal
+None of these hoes got no morals (No)
+All my niggas G-d up
+Yeah, my glasses be Dita
+Never thought it would be days I could kick my feet up (Huh)
+Never thought that she would need me that much if I leave her
+
+
+It do not matter
+Turned to a savage, pocket got fatter, she call me daddy
+Smokin' that gas, gone off that Xanny, she on the powder
+Nowadays I am on, my haters got sadder
+Money got longer, speaker got louder, car got faster
+Turned to a savage, pocket got fatter, she call me daddy
+Smokin' that gas, gone off that Xanny, she on the powder
+Nowadays I am on, my haters got sadder
+Money got longer, speaker got louder, car got faster
+Turned to a savage, pocket got fatter, she call me daddy
+Smokin' that gas, gone off that Xanny, she on the powder
+Nowadays I am on, my haters got sadder
+Money got longer, speaker got louder, car got faster
+
+
+All of this was faction
+No time for actin', all this money lastin'
+Like, go out to eat, get that blackened salmon
+When I'm wit' my girl, we Pharrell and Vashtie
+Wait, huh? That mean we are not lastin'
+In that pussy, you know I like it rough, then I'm just blastin'
+Yeah, tell that lil' bitch that I'm really from Mars
+Uh, yeah, bitch, do not start
+Yeah, pull up, my car automatic
+Yeah, uh, dealt with the star, yeah!
+
+
+It do not matter
+Turned to a savage, pocket got fatter, she call me daddy
+Smokin' that gas, gone off that Xanny, she on the powder
+Nowadays I am on, my haters got sadder
+Money got longer, speaker got louder, car got faster
+Turned to a savage, pocket got fatter, she call me daddy
+Smokin' that gas, gone off that Xanny, she on the powder
+Nowadays I am on, my haters got sadder
+Money got longer, speaker got louder, car got faster

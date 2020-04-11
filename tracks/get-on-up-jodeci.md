@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-on-up-jodeci
+lyrics_url: https://genius.com/Jodeci-get-on-up-lyrics
 name: Get On Up
 rankings:
 - end_date: '1996-05-24'
@@ -79,4 +80,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-09-14'
 ---
+Said it sounds so good to me
+You gotta get on up (Get on up)
+Hey yeah, hey yeah (You gotta get on up now)
+Say it again, Jodeci (Get on up)
+Oh, gotta get on up (You gotta get on up now)
+Wait a minute, let me tell you...
 
+
+Everybody grab somebody
+Turn this mutha into a party
+Fellas take your lady's hand
+Ladies go and choose your man
+There's no need to be afraid
+Friday night, let's all get paid
+Positive is the attitude
+Negative is not the mood
+
+
+Get on up (No, no, you gotta get on up)
+You gotta get on up now
+(Let's say it again, you gotta get on up)
+Get on up
+And you can't sit down
+You gotta get on up now
+And you can't sit down
+
+
+Now that everybody's movin'
+Everybody in here is groovin'
+Everything is alright
+The atmosphere is so nice
+The DJ is doin' his duty
+All the ladies shakin' their booty
+And the night is still young
+And the party's just begun
+
+
+Get on up (No, no, you gotta get on up)
+And you can't sit down
+You gotta get on up now
+And you can't sit down
+Get on up (Just get on up)
+And you can't sit down
+You gotta get on up now (Hey, oh, oh oh)
+Get on up (Just get on up)
+And you can't sit down
+You gotta get on up now
+And you can't sit down
+Get on up (Everybody just pump your fist)
+And you can't sit down
+You gotta get on up now
+
+
+Party (Party, party all day, baby)
+All day (Don't you never never never never never stop)
+Never stop (Oh...)
+Never stop (Yeah...)
+And you can't sit down
+
+
+Get on up
+And you can't sit down
+You gotta get on up now
+And you can't sit down
+(Get on up; everybody just get on up)
+You gotta get on up now (Whoa oh, whoa oh...)
+Get on up...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-too-far-gone--to-turn-around--bobby-bland
+lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Bland-2/I-m-Too-Far-Gone-To-Turn-Around
 name: I'm Too Far Gone (To Turn Around)
 rankings:
 - end_date: '1966-01-14'
@@ -31,4 +32,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
 ---
-
+If I reach out to you
+Like a child would do
+Darling, don't let me down
+I need you so and
+I guess you know that
+I'm too far gone to turn around
+If I give you my heart
+Please don't tear it apart
+Don't treat me like dirt
+From the ground
+Give me a break
+For Heaven's sake, cause
+I'm too far gone to turn around
+I'm too far gone
+Too far gone, stop
+I'm flying high like
+The bird in the sky
+Darling, don't let me drop
+I'm begging you
+Whatever you do
+Don't turn my life upside down
+I love you so
+And I guess you know
+I'm too far gone to turn around
+I'm too far gone to turn around
+(I'm too far gone to turn around)

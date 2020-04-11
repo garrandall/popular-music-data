@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-sentimental-reasons-the-cleftones
+lyrics_url: https://genius.com/The-cleftones-for-sentimental-reasons-stereo-lyrics
 name: For Sentimental Reasons
 rankings:
 - end_date: '1961-09-10'
@@ -31,4 +32,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
 ---
+I love you for sentimental reasons
+I hope you do believe me
+I'll give you my heart
 
+I love you and you alone were meant for me
+Please give your loving heart to me
+And say we'll never part
+
+I think of you every morning
+Dream of you every night
+Darling, I'm never lonely
+Whenever you are in sight
+
+I love you for sentimental reasons
+I hope you do believe me
+I've given you my heart
+
+Instrumental interlude
+
+I love you for sentimental reasons
+I hope you do believe me
+I've given you my heart
+
+I love you for sentimental reasons
+I hope you do believe me
+I'll give you my heart
+
+I love you
+And you alone were meant for me
+Please give your loving heart to me
+And say we'll never part
+
+I think of you every morning
+Dream of you every night
+Darling I'm never lonely
+Whenever you're in sight
+
+I love you for sentimental reasons
+I hope you do believe me
+I've given you my heart
+
+I think of you every morning
+Dream of you every night
+Darling I'm never lonely
+Whenever you're in sight
+
+I love you for sentimental reasons
+I hope you do believe me
+I've given you my heart

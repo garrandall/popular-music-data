@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: but-i-do-clarence-henry
+lyrics_url: https://www.musixmatch.com/lyrics/Clarence-Henry/I-Don-t-Know-Why-But-I-Do
 name: But I Do
 rankings:
 - end_date: '1961-02-26'
@@ -71,4 +72,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-06-05'
 ---
+I don't know why I love you but I do
+I don't know why I cry so but I do
+I only know I'm lonely and that I want you only
+I don't know why I love you but I do
 
+I can't sleep nights because I feel so restless
+I don't know what to do, I feel so helpless
+And since you've been away, I cry both night and day
+I don't know why I love you but I do
+
+My days have been so lonely
+My nights have been so blue
+I don't know how I spend it, but I do
+
+Each night I sit alone and tell myself
+That I will fall in love with someone else
+I guess I'm wastin' time but I've got to clear my mind
+I don't know why I love you but I do

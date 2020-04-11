@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: like-the-big-guys-do-the-rocky-fellers
+lyrics_url: https://www.musixmatch.com/lyrics/The-Rocky-Fellers/Like-the-Big-Guys-Do
 name: Like The Big Guys Do
 rankings:
 - end_date: '1963-07-05'
@@ -27,4 +28,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-07-27'
 ---
+Like the big guys do
+I wanna do it
+Like the big guys do
+I wanna do it
 
+Ahhhh, huh
+Down on the floor there, every night
+That's where you'll find me under the light
+Why don't the? girls? my way
+Hoping that one will be mine someday
+
+
+I wanna hold someone
+Love someone
+Kiss someone
+Every night
+Tell someone my love is true
+I wanna do the things that the big guys do
+
+Why do they always pass me by
+Why don't they stop when I give them the eye
+Why don't those city girls ever see
+There's a lot lovin' in a little package like me
+
+
+
+I wanna tell them lies, like the big guys do
+I wanna treat them bad, like the big guys do
+I wanna break their hearts, like the big guys do
+I wanna make them sad
+
+Every day? someone new
+I wanna do the things like the big guys do
+
+
+
+Like the big guys do, I wanna tell them lies
+Like the big guys do, I wanna treat them bad
+Like the big guys do, I wanna break their hearts
+Like the big guys do, I wanna...

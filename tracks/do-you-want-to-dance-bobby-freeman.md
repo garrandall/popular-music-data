@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-want-to-dance-bobby-freeman
+lyrics_url: https://genius.com/Bobby-freeman-do-you-want-to-dance-lyrics
 name: Do You Want To Dance
 rankings:
 - end_date: '1958-08-10'
@@ -27,4 +28,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-01'
 ---
+Do you want to dance and hold my hand?
+Tell me baby I'm your lover man
+Oh baby, do you want to dance?
 
+Do you do you do you do you want to dance
+Do you do you do you do you want to dance
+Do you do you do you do you want to dance
+
+Well do you want to dance under the moonlight?
+Squeeze me baby all through the night
+Oh baby, do you want to dance?
+
+Do you do you do you do you want to dance
+Do you do you do you do you want to dance
+Do you do you do you do you want to dance
+
+Well do you want to dance under the moonlight?
+Squeeze me baby all through the night
+Oh baby, do you want to dance

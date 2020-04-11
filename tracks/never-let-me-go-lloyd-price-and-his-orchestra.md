@@ -1,6 +1,6 @@
 ---
 artists:
-- Lloyd Price and His Orchestra
+- Lloyd Price
 features: []
 genres: []
 key: never-let-me-go-lloyd-price-and-his-orchestra

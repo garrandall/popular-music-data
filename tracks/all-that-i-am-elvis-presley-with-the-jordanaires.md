@@ -1,6 +1,7 @@
 ---
 artists:
-- Elvis Presley With The Jordanaires
+- Elvis Presley
+- The Jordanaires
 features: []
 genres: []
 key: all-that-i-am-elvis-presley-with-the-jordanaires

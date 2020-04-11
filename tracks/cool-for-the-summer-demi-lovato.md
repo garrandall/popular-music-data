@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cool-for-the-summer-demi-lovato
+lyrics_url: https://genius.com/Demi-lovato-cool-for-the-summer-lyrics
 name: Cool For The Summer
 rankings:
 - end_date: '2015-07-24'
@@ -87,4 +88,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
 ---
+Tell me what you want
+What you like
+It's okay
+I'm a little curious too
+Tell me if it's wrong, if it's right
+I don't care
+I can keep a secret, can you?
 
+
+Got my mind on your body and your body on my mind
+Got a taste for the cherry, I just need to take a bite
+Don't tell your mother
+Kiss one another
+Die for each other
+We're cool for the summer
+
+
+Ooh-ooh-ooh-ooh-ooh
+Ooh-ooh-ooh-ooh-ooh
+
+
+Take me down into your paradise
+Don't be scared, 'cause I'm your body type
+Just something that we wanna try
+'Cause you and I, we're cool for the summer
+
+
+Tell me if I won
+If I did, what's my prize?
+I just wanna play with you too
+Even if they judge, fuck it, I'll do the time
+I just wanna have some fun with you
+
+
+Got my mind on your body and your body on my mind
+Got a taste for the cherry, I just need to take a bite
+Don't tell your mother
+Kiss one another
+Die for each other
+We're cool for the summer
+
+
+Ooh-ooh-ooh-ooh-ooh
+Ooh-ooh-ooh-ooh-ooh
+
+
+Take me down into your paradise
+Don't be scared, 'cause I'm your body type
+Just something that we wanna try
+'Cause you and I, we're cool for the summer
+We're cool for the summer
+We're cool for the summer
+
+
+Shh...
+Don't tell your mother
+
+
+Got my mind on your body and your body on my mind
+Got a taste for the cherry, I just need to take a bite
+
+
+(Take me down) Take me down into your paradise
+(Don't be scared) Don't be scared, 'cause I'm your body type
+Just something that we wanna try (wanna try)
+'Cause you and I (you and I), we're cool for the summer
+
+
+(Take me down) We're cool for the summer
+(Don't be scared), 'cause I'm your body type
+(Just something) Just something that we wanna try
+'Cause you and I (you and I), we're cool for the summer
+Ooh-ooh-ooh-ooh-ooh
+We're cool for the summer

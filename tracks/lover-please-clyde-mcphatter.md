@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lover-please-clyde-mcphatter
+lyrics_url: https://genius.com/Clyde-mcphatter-lover-please-lyrics
 name: Lover Please
 rankings:
 - end_date: '1962-03-09'
@@ -63,4 +64,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-02'
 ---
+Lover please, please come back
+Don't take a train comin' down the track
+Don't, please don't, don't leave me
+Don't leave me in misery
 
+You would never hold me so near
+You would never call me "Dear"
+Dontcha know I'd die for you?
+Now you're gone, that's what I'll do
+
+Lover please, please come back
+Don't take a train comin' down the track
+Don't, please don't, don't leave me
+Don't leave me in misery
+
+All those stories, not too long
+About a love that went all wrong
+The girl left the boy, just as bad
+Now she's gone, she's so sad
+
+Lover please, please come back
+Don't take a train comin' down the track
+Don't, please don't, don't leave me
+Don't leave me in misery
+
+You would never hold me so near
+You would never have called me "Dear"
+Dontcha know I'd die for you?
+Now you're gone, that's what I'll do
+
+Lover please, please come back
+Don't take a train comin' down the track
+Don't, please don't, don't leave me
+Don't leave me in misery

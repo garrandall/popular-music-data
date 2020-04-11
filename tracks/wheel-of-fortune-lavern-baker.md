@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wheel-of-fortune-lavern-baker
+lyrics_url: https://genius.com/Lavern-baker-wheel-of-fortune-lyrics
 name: Wheel Of Fortune
 rankings:
 - end_date: '1960-05-08'
@@ -23,4 +24,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-23'
 ---
+The wheel of fortune goes spinning round
+Will the arrow point my way, will this be the day?
+Oh, wheel of fortune, please don't pass me by
+Let me know the magic of a kiss and a sigh
 
+While the wheel is spinning, spinning, spinning
+I'll not dream of winning fortune or fame
+While the wheel is turning, turning, turning
+I'll be ever yearning for love's precious flame
+
+Oh, wheel of fortune, I'm hoping somehow
+If you'll ever smile on me, please let it be now

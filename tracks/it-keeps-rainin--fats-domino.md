@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-keeps-rainin--fats-domino
+lyrics_url: https://genius.com/Fats-domino-it-keeps-rainin-lyrics
 name: It Keeps Rainin'
 rankings:
 - end_date: '1961-05-21'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-07-24'
 ---
+It keep rainin' an rainin'
+Tears from my eyes
+Since you've gone
+All I do is cry
 
+Won't somebody help me?
+Somebody help me
+Can't you see?
+That my baby done left me
+
+She left me reelin' and rockin'
+Walkin' the floor
+She left a note last night
+She won't be back no more
+
+It keep rainin' an rainin'
+Tears from my eyes
+Since you gone
+All I do is cry
+
+Won't somebody help me
+Somebody help me?
+Can't you see?
+That my baby done left me
+
+She left me reelin' and rockin'
+Walkin' the floor
+She left a note last night
+She won't be back no more

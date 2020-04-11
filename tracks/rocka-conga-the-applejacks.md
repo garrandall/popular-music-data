@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rocka-conga-the-applejacks
+lyrics_url: https://www.musixmatch.com/lyrics/The-Applejacks/Rock-a-Conga
 name: Rocka-Conga
 rankings:
 - end_date: '1958-12-28'
@@ -47,4 +48,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-23'
 ---
+Love that conga
+Rocka-conga
+1, 2, 3, kick
+Love that conga
 
+Love that conga
+Rocka-conga
+1, 2, 3, kick
+Love that conga
+
+Love that conga
+Rocka-conga
+1, 2, 3, kick
+Love that conga
+
+1, 2, 3, kick
+1, 2, 3, kick
+1, 2, 3, kick
+1, 2, 3, kick
+1, 2, 3, kick
+1, 2, 3, kick

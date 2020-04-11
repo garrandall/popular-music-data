@@ -1,6 +1,6 @@
 ---
 artists:
-- Don Costa And His Orchestra And Chorus
+- Don Costa And Chorus
 features: []
 genres: []
 key: i-ll-walk-the-line-don-costa-and-his-orchestra-and-chorus

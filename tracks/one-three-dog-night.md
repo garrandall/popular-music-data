@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-three-dog-night
+lyrics_url: https://genius.com/Three-dog-night-one-lyrics
 name: One
 rankings:
 - end_date: '1969-05-09'
@@ -71,4 +72,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
 ---
+One is the loneliest number that you'll ever do
+Two can be as bad as one
+It's the loneliest number since the number one
 
+
+No is the saddest experience you'll ever know
+Yes, it's the saddest experience you'll ever know
+'Cause one is the loneliest number that you'll ever do
+One is the loneliest number, whoa-oh, worse than two
+
+
+It's just no good anymore since you went away
+Now I spend my time just making rhymes of yesterday
+
+
+One is the loneliest number
+One is the loneliest number
+One is the loneliest number that you'll ever do
+One is the loneliest
+One is the loneliest
+One is the loneliest number that you'll ever do
+
+
+It's just no good anymore since you went away
+
+
+(Number)
+One is the loneliest (number)
+One is the loneliest (number)
+One is the loneliest number that you'll ever do (number)
+One is the loneliest (number)
+One is the loneliest (number)
+One is the loneliest number that you'll ever do (number)
+One (one is the loneliest number that you'll ever do)(number)
+One is the loneliest number that you'll ever do (number)
+One is the loneliest number that you'll ever do

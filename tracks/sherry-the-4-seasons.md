@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sherry-the-4-seasons
+lyrics_url: https://www.musixmatch.com/lyrics/The-4-Seasons/Sherry
 name: Sherry
 rankings:
 - end_date: '1962-08-31'
@@ -63,4 +64,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-11-24'
 ---
+Sherry, Sherry baby
+Sherry, Sherry baby
+Sherry can you come out tonight
+Come, come, come out tonight
 
+Sherry, Sherry baby
+Sherry, Sherry baby
+Can you come out tonight?
+Why don't you come on?
+Come on twist party
+Where the bright moon shines
+We'll dance the night away
+I'm gonna make you mine
+
+Sherry, Sherry baby
+Can you come out tonight?
+Come, come, come out tonight
+
+You'd better ask your Mama
+Tell her everything is alright
+Why don't you come on, come on?
+With your red dress on
+You look so fine
+You move it nice and easy
+You make me lose my mind
+
+Sherry, Sherry baby
+Sherry, Sherry baby
+Can you come out tonight?
+Come, come, come out tonight.

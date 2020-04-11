@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: are-you-gonna-be-my-girl-jet
+lyrics_url: https://genius.com/Jet-band-are-you-gonna-be-my-girl-lyrics
 name: Are You Gonna Be My Girl
 rankings:
 - end_date: '2003-12-26'
@@ -107,4 +108,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-06-05'
 ---
+Let go
+So 1, 2, 3, take my hand and come with me
+Because you look so fine
+And I really wanna make you mine
+I say you look so fine
+That I really wanna make you mine
 
+
+Oh 4, 5, 6, come on and get your kicks
+Now you don't need that money
+When you look like that, do you honey
+
+
+Big black boots
+Long brown hair
+She's so sweet
+With her get back stare
+
+
+Well I could see, you home with me
+But you were with another man, yeah
+I know we ain't got much to say
+Before I let you get away, yeah
+I said, are you gonna be my girl
+
+
+So 1, 2, 3, take my hand and come with me
+Because you look so fine
+And I really wanna make you mine
+I say you look so fine
+That I really wanna make you mine
+
+
+Oh 4, 5, 6, come on and get your kicks
+Now you don't need that money
+With a face like that, do you
+
+
+Big black boots
+Long brown hair
+She's so sweet
+With her get back stare
+
+
+Well I could see, you home with me
+But you were with another man, yeah
+I know we ain't got much to say
+Before I let you get away, yeah
+I said, are you gonna be my girl
+
+
+Oh yeah, oh yeah, come on
+
+
+I could see, you home with me
+But you were with another man, yeah
+I know we ain't got much to say
+Before I let you get away, yeah
+Uh, be my girl
+Be my girl
+Are you gonna be my girl, yeah

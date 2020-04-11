@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-glad-jennifer-lopez
+lyrics_url: https://genius.com/Jennifer-lopez-im-glad-lyrics
 name: I'm Glad
 rankings:
 - end_date: '2003-05-09'
@@ -71,4 +72,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-08-16'
 ---
+Baby, when I think about
+The day that we first met (The day that we first met)
+Wasn't looking for what I found
+But I found you and I'm bound to
+Find happiness in being around you
 
+
+I'm glad when I'm making love to you
+I'm glad for the way you make me feel
+I love it 'cause you seem to blow my mind
+Every time
+I'm glad (I'm glad) when you walk (I'm glad), you hold my hand (I'm glad)
+I'm happy that you know how to be a man
+I'm glad (I'm glad) that you came into my life (I'm glad)
+I'm so glad (I'm glad)
+
+
+I dig the way that you get down (You get down thugged out)
+And you still know how to hold me (And you still know how to hold me)
+Perfect blend, masculine (Can't get enough now)
+I think I'm in love, damn, finally
+
+
+I'm glad when I'm making love to you
+I'm glad for the way you make me feel
+I love it 'cause you seem to blow my mind
+Every time
+I'm glad (I'm glad) when you walk (I'm glad), you hold my hand (I'm glad)
+I'm happy that you know how to be a man
+I'm glad (I'm glad) that you came into my life (I'm glad)
+I'm so glad (I'm glad)
+
+
+I'm glad that you (Glad that you)
+Turned out to be (Turned out to be)
+That certain someone special
+Who makes this life worth living (Worth living)
+I'm glad you're here (I'm glad that you are here)
+Just loving me (Just loving me)
+So say that you won't leave (No)
+'Cause since the day you came, I've been glad (Glad)
+
+
+I'm glad when I'm making love to you
+I'm glad for the way you make me feel
+I love it 'cause you seem to blow my mind
+Every time
+I'm glad (I'm glad) when you walk (I'm glad), you hold my hand (I'm glad)
+I'm happy that you know how to be a man
+I'm glad (I'm glad) that you came into my life (I'm glad)
+I'm so glad (I'm glad)

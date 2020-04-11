@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: fourfiveseconds-rihanna-kanye-west-paul-mccartney
+lyrics_url: https://genius.com/Rihanna-kanye-west-and-paul-mccartney-fourfiveseconds-lyrics
 name: FourFiveSeconds
 rankings:
 - end_date: '2015-02-13'
@@ -89,4 +90,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-06-20'
 ---
+I think I've had enough
+I might get a little drunk
+I say what's on my mind
+I might do a little time
+'Cause all of my kindness
+Is taken for weakness
 
+
+Now I'm four, five seconds from wildin'
+And we got three more days 'til Friday
+I'm just tryna make it back home by Monday mornin'
+I swear I wish somebody would tell me
+Ooh, that's all I want
+
+
+Woke up an optimist
+Sun was shinin', I'm positive
+We can run
+Then I heard you was talkin' trash
+I'm on a mystery
+Hold me back, I'm 'bout to spaz
+
+
+Yeah, 'bout four, five seconds from wildin'
+And we got three more days ‘til Friday
+I’m tryna make it back home by Monday mornin'
+I swear I wish somebody would try me
+Ooh, that’s all I want
+
+
+And I know that you're up tonight
+Thinkin', "How could I be so selfish?"
+But you called 'bout a thousand times
+Wondering where I've been
+
+Now I know that you're up tonight
+Thinkin', "How could I be so reckless?"
+But I just can't apologize
+I hope you can understand, yeah
+
+
+If I go to jail tonight
+Promise you'll pay my bail
+See they want to buy my pride
+But that just ain't up for sale
+See all of my kindness (mhm)
+Is taken for weakness
+
+
+Now I'm four, five seconds from wildin'
+And we got three more days 'til Friday
+I'm tryna make it back home by Monday mornin'
+I swear I wish somebody would tell me
+Ooh, that's all I want
+
+Four, five seconds from wildin'
+And we got three more days 'til Friday
+Just tryna make it back home by Monday mornin'
+I swear I wish somebody would tell me
+'Cause that's all I want

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-symphony-for-susan-the-arbors
+lyrics_url: https://genius.com/The-arbors-a-symphony-for-susan-lyrics
 name: A Symphony For Susan
 rankings:
 - end_date: '1966-10-21'
@@ -47,4 +48,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
 ---
+If I could write a symphony for Susan
+I would write a melody
+That would tell her
+Create a spell for her
+Ring a bell for her
+And let her know
+How much I fell for her
 
+If I could write a symphony for Susan
+I'd compose some harmonies
+That would let her know
+How much my love could grow
+How it's warmth would glow
+What better way is there
+To tell her so?
+
+I would try to invent new rhythms
+That would let her know
+All the thrills I feel
+When her lips touch mine
+
+Later on
+There would be a strain
+So full of tenderness
+That she must confess
+That she knows
+That I love her so
+
+If I could write a symphony for Susan
+There would be so many ways
+I could let her know
+How much my love could grow
+How it's warmth would glow
+What better way is there
+To tell her so?
+
+There would be so many ways
+I could let her know
+How much my love could grow
+How it's warmth would glow
+What better way is there
+To tell her so?

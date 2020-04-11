@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mandrill-mandrill
+lyrics_url: https://genius.com/Mandrill-mandrill-lyrics
 name: Mandrill
 rankings:
 - end_date: '1971-06-11'
@@ -19,4 +20,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-19'
 ---
-
+Mandrill
+Mandrill
+Mandrill
+Mandrill
+Mandrill

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feel-so-close-calvin-harris
+lyrics_url: https://genius.com/Calvin-harris-feel-so-close-lyrics
 name: Feel So Close
 rankings:
 - end_date: '2012-03-02'
@@ -111,4 +112,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-08-18'
 ---
+I feel so close to you right now
+It's a force field
+I wear my heart upon my sleeve, like a big deal
+Your love pours down on me
+Surround me like a waterfall
+And there's no stopping us right now
+I feel so close to you right now
 
+
+
+
+I feel so close to you right now
+It's a force field
+I wear my heart upon my sleeve, like a big deal
+Your love pours down on me
+Surround me like a waterfall
+And there's no stopping us right now
+I feel so close to you right now
+
+
+
+
+And there's no stopping us right now
+And there's no stopping us right now
+And there's no stopping us right now
+I feel so close to you right now

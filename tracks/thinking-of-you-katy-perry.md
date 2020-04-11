@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thinking-of-you-katy-perry
+lyrics_url: https://genius.com/Katy-perry-thinking-of-you-lyrics
 name: Thinking Of You
 rankings:
 - end_date: '2009-02-06'
@@ -67,4 +68,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-05-09'
 ---
+Comparisons are easily done
+Once you've had a taste of perfection
+Like an apple hanging from a tree
+I picked the ripest one
+I still got the seed
 
+
+You said move on, where do I go?
+I guess second best is all I will know
+
+
+'Cause when I'm with him, I am thinking of you
+Thinking of you
+What you would do if
+You were the one who was spending the night
+Oh, I wish that I was looking into your eyes
+
+
+You're like an Indian summer in the middle of winter
+Like a hard candy with a surprise center
+How do I get better once I've had the best?
+You said there's tons of fish in the water
+So the waters I will test
+
+
+He kissed my lips, I taste your mouth, oh
+He pulled me in, I was disgusted with myself
+
+
+'Cause when I'm with him, I am thinking of you
+(Thinking of you, thinking of you)
+Thinking of you
+What you would do if
+You were the one who was spending the night
+(Spending the night, spending the night)
+Oh, I wish that I was looking into your
+
+
+The best
+And yes, I do regret
+How I could let myself let you go
+Now, now the lesson's learned
+I touched it, I was burned
+Oh, I think you should know
+
+
+'Cause when I'm with him, I am thinking of you
+Thinking of you
+What you would do if
+You were the one who was spending the night
+(Spending the night, spending the night)
+Oh, I wish that I was looking into your eyes
+Looking into your eyes
+Looking into your eyes
+Oh, won't you walk through
+And bust in the door and take me away
+Oh, no more mistakes
+'Cause in your eyes, I'd like to stay
+Stay

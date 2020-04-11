@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: black-byrd-donald-byrd
+lyrics_url: https://genius.com/Donald-byrd-black-byrd-lyrics
 name: Black Byrd
 rankings:
 - end_date: '1973-06-15'
@@ -31,4 +32,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-07-28'
 ---
+Walking along playing a song
+Walk along, starting us off
+Walking along playing a song
+Walk along, starting us off
 
+Check it out
+Black bird shouting out
+
+Listen to the horn carry on
+Listen to the horn carry on
+Listen to the horn carry on
+Listen to the horn carry on
+
+Check it out
+Black bird shouting out
+
+Get in the groove and move
+Just can't lose
+Get in the groove and move
+Just can't lose
+Get in the groove and move
+Just can't lose
+
+Check it out
+Black bird shouting out
+
+Black bird, just can't lose
+Black bird, just can't lose
+
+Black bird
+Get in the groove and move
+Black bird
+Get in the groove and move
+
+Get in the groove and move
+Get in the groove and move
+Get in the groove and move....

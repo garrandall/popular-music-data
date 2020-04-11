@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girls-grow-up-faster-than-boys-the-cookies
+lyrics_url: https://genius.com/The-cookies-girls-grow-up-faster-than-boys-lyrics
 name: Girls Grow Up Faster Than Boys
 rankings:
 - end_date: '1963-12-06'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-08'
 ---
+Girls grow up faster than boys do
+Girls grow up faster than boys
 
+Girls grow up faster than boys do
+So, baby, I'm old enough for you
+Once you used to date my big sister
+Now, baby, she's too old for you
+
+Won't you take a look at me now
+You'll be surprised at what you see now
+I'm everything a girl should be now
+Thirty-six, twenty-one, thirty-five
+
+I'll tell you
+Girls grow up faster than boys do
+So, baby, I'm old enough for you
+
+Won't you take a look at me now
+You'll be surprised at what you see now
+I'm everything a girl should be now
+Thirty-six, twenty-one, thirty-five
+
+I'll tell you
+Girls grow up faster than boys do
+So, baby, I'm old enough for you
+
+Girls grow up faster than boys do
+Girls grow up faster than boys do
+Girls grow up faster than boys do...

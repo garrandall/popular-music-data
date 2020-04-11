@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: silence-is-golden-the-tremeloes
+lyrics_url: https://genius.com/The-tremeloes-silence-is-golden-lyrics
 name: Silence Is Golden
 rankings:
 - end_date: '1967-06-23'
@@ -63,4 +64,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
 ---
+Oh don't it hurt deep inside
+To see someone do something to her
+Oh don't it pain to see someone cry
+Especially if that someone is her
 
+Silence is golden, but my eyes still see
+Silence is golden, golden, but my eyes still see
+
+Talking is cheap, people follow like sheep
+Even though there is nowhere to go
+How could she tell he deceived her so well
+Pity, she'll be the last one to know
+
+Silence is golden, but my eyes still see
+Silence is golden, golden, but my eyes still see
+
+Doo-wee-doo-wah-wah
+Doo-wee-doo-wah-wah
+
+How many times will she fall for his lines
+Should I tell her or should I be cool
+And if I tried, I know she'd say I lied
+Mind your business don't hurt her you fool
+
+Silence is golden, but my eyes still see
+Silence is golden, golden, but my eyes still see
+
+But my eyes still see
+But my eyes still see

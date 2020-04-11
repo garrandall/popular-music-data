@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hangin--tough-new-kids-on-the-block
+lyrics_url: https://genius.com/New-kids-on-the-block-hangin-tough-lyrics
 name: Hangin' Tough
 rankings:
 - end_date: '1989-07-21'
@@ -75,4 +76,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-11-04'
 ---
+Oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh
 
+
+Listen up, everybody, if you wanna take a chance
+Just get on the floor and do the New Kids' dance
+Don't worry 'bout nothing, 'cause it won't take long
+We're gonna put you in a trance with a funky song
+
+
+'Cause you gotta be hangin' tough
+Hangin' tough
+Hangin' tough
+Are you tough enough?
+Hangin' tough
+Hangin' tough
+Hangin' tough
+We're rough
+
+
+Oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh
+
+
+Everybody's always talkin' 'bout who's on top
+Don't cross our path, 'cause you're gonna get stomped
+We ain't gonna give anybody any slack
+And if you try to keep us down, we're gonna come right back
+
+
+And you know we're hangin' tough
+Hangin' tough
+Hangin' tough
+Are you tough enough?
+Hangin' tough
+Hangin' tough
+Hangin' tough
+We're rough
+
+
+Oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh
+
+
+Get loose everybody, 'cause we're gonna do our thing
+'Cause you know it ain't over 'til the fat lady sings
+Now check it out
+
+
+Everybody's hangin' tough
+
+Oh, oh, oh, oh, oh, just hangin' tough
+Oh, oh, oh, oh, oh, hangin' tough
+Oh, oh, oh, oh, oh, just hangin' tough
+Oh, oh, oh, oh, oh, hangin' tough
+Oh, oh, oh, oh, oh, just hangin' tough
+Oh, oh, oh, oh, oh, hangin' tough

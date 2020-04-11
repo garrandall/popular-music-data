@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gone-gone-gone-the-everly-brothers
+lyrics_url: https://genius.com/The-everly-brothers-gone-gone-gone-lyrics
 name: Gone Gone Gone
 rankings:
 - end_date: '1964-10-23'
@@ -47,4 +48,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-12-19'
 ---
+Some sunny day, baby
+When everything seems OK, baby
+You'll wake up and find that you're alone
+'Cause I'll be gone
+Gone gone gone
+Really gone
+Done moved on
+'Cause you done me wrong
 
+Everyone that you meet, baby
+As you walk down the street, baby
+Will ask you why you're walking all alone
+Why you're on your own
+Just say I'm gone
+Gone gone gone
+Done moved on
+'Cause you done me wrong
+
+If you change your way, baby
+You might get me to stay, baby
+Better hurry up if you don't want to be alone
+Or I'll be gone
+Gone gone gone
+Really gone
+Done moved on
+'Cause you done me wrong

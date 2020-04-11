@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mendocino-sir-douglas-quintet
+lyrics_url: https://genius.com/The-sir-douglas-quintet-mendocino-lyrics
 name: Mendocino
 rankings:
 - end_date: '1969-01-24'
@@ -67,4 +68,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
 ---
-
+Teeny Bopper, my teenage lover
+I caught your waves last night
+It sent my mind to wonderin'
+You're such a groove
+Please don't move
+Please stay in my love house by the river
+Fast talkin' guys with strange red eyes
+Have put things in your head
+And started your mind to wonderin'
+I love you so, please don't go
+Please stay here with me in Mendocino
+Mendocino, Mendocino
+Where life's such a groove
+You blow your mind in the morning
+We used to walk through the park
+Make love along the way in Mendocino
+(Ah, play it, Augie! Yeah!)
+Hey!
+Like I told you, Can you dig it?
+If you wanna groove, I'll be glad to have you
+'Cause I love you so, please don't go
+Please stay here with me in Mendocino
+Mendocino, Mendocino
+Where life's such a groove
+You blow your mind in the morning
+We used to walk through the park
+Make love along the way in Mendocino
+Mendocino, Mendocino, Mendocino

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-coming-home-johnny-mathis
+lyrics_url: https://genius.com/Johnny-mathis-im-coming-home-lyrics
 name: I'm Coming Home
 rankings:
 - end_date: '1973-09-28'
@@ -47,4 +48,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-24'
 ---
+Sittin' in a railway station with my suitcase in my hand
+Goin' back where I came from, I've had more than I can stand
+Of watchin' men destroy my dreams, they picked my brain till it was clean
+When I was up they knocked me down
+I ain't goin' to hang around, I'm goin' home
 
+I'm goin' home, goin' home
+Tell someone to meet me I'm comin' home
+
+Came to this old town seeking fortune and some fame
+Never got the chance to prove myself, though I tried to play their game
+But usin' people just ain't my thing
+And I don't dangle from any string
+To please some fool that don't care about
+They turned me inside out, I'm goin' home
+
+I'm goin' home, goin' home
+Tell someone to meet me I'm comin' home
+
+Tell someone to meet me I'm comin' home
+
+I'm goin' home, goin' home
+Tell someone to meet me I'm comin' home
+
+I'm goin' home, goin' home
+Tell someone to meet me I'm comin' home
+
+I'm goin' home, goin' home
+Tell someone to meet me I'm comin' home

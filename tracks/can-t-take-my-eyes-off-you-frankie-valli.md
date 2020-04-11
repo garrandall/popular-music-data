@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-take-my-eyes-off-you-frankie-valli
+lyrics_url: https://genius.com/Frankie-valli-cant-take-my-eyes-off-you-lyrics
 name: Can't Take My Eyes Off You
 rankings:
 - end_date: '1967-05-26'
@@ -71,4 +72,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
 ---
+You're just too good to be true
+Can't take my eyes off  of you
+You'd be like Heaven to touch
+I wanna hold you so much
+At long last love has arrived
+And I thank God I'm alive
+You're just too good to be true
+Can't take my eyes off you
 
+
+Pardon the way that I stare
+There's nothing else to compare
+The sight of you leaves me weak
+There are no words left to speak
+But if you feel like I feel
+Please let me know that it's real
+You're just too good to be true
+Can't take my eyes off you
+
+
+I love you, baby, and if it's quite alright
+I need you, baby, to warm a lonely night
+I love you, baby, trust in me when I say:
+Oh, pretty baby, don't bring me down, I pray
+Oh, pretty baby, now that I found you, stay
+And let me love you, baby, let me love you
+
+
+You're just too good to be true
+Can't take my eyes off of you
+You'd be like Heaven to touch
+I wanna hold you so much
+At long last love has arrived
+And I thank God I'm alive
+You're just too good to be true
+Can't take my eyes off you
+
+
+I love you, baby, and if it's quite alright
+I need you, baby, to warm a lonely night
+I love you, baby, trust in me when I say:
+Oh, pretty baby, don't bring me down, I pray
+Oh, pretty baby, now that I found you, stay
+Oh, pretty baby, trust in me when I say

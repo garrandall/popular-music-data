@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: back-to-life-soul-ii-soul
+lyrics_url: https://genius.com/Soul-ii-soul-back-to-life-one-world-remix-lyrics
 name: Back To Life
 rankings:
 - end_date: '1989-09-29'
@@ -119,4 +120,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-03-31'
 ---
+Back to life, back to reality
+Back to life, back to reality
+Back to life, back to reality
+Back to the here and now, yeah
 
+Show me how decide
+What you want from me
+Tell me, maybe I could be there for you
+
+How ever do you want me
+How ever do you need me
+How ever do you want me
+How ever do you need me
+
+How ever do you want me
+How ever do you need me
+How ever do you want me
+How ever do you need me
+
+Back to life, back to the present time
+Back from a fantasy, yes
+Tell me, now, take the initiative
+I'll leave it in your hands until you're ready
+
+How ever do you want me
+How ever do you need me
+How ever do you want me
+How ever do you need me
+
+How ever do you want me
+How ever do you need me
+How ever do you want me
+How ever do you need me
+
+How ever do you need me
+How ever do you need me
+How ever do you need me
+How ever do you need me
+
+I live at the top of the block
+No more room for trouble and fuss
+Need a change, a positive change
+Look, it's me writing on the wall
+
+How ever do you want me
+How ever do you need me
+How ever do you want me
+How ever do you need me
+
+How ever do you want me
+How ever do you need me
+How ever do you want me
+How ever do you need me
+
+Back to life, back to the day we have
+Let's end this foolish game
+Hear me out, don't let it waste away
+Make up your mind so I know where I stand
+
+How ever do you want me
+How ever do you need me
+How ever do you want me
+How ever do you need me
+
+How ever do you want me
+How ever do you need me
+How ever do you want me
+How ever do you need me
+
+How ever do you want me
+How ever do you need me
+How ever do you want me
+How ever do you need me
+
+How ever do you want me
+How ever do you need me
+How ever do you want me
+How ever do you need me

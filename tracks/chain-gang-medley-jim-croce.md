@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chain-gang-medley-jim-croce
+lyrics_url: https://genius.com/Jim-croce-chain-gang-medley-lyrics
 name: Chain Gang Medley
 rankings:
 - end_date: '1976-01-09'
@@ -43,4 +44,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-02-28'
 ---
-
+That's the sound of the men working on the chain gang
+That's the sound of the men working on the chain gang
+All day long they work so hard till the sun is goin' down
+Working on the highways and byways and wearin', wearin' a frown
+Hear them moanin' their lives away
+Then you hear somebody say
+That's the sound of the men working on the chain gang
+That's the sound of the men working on the chain gang
+He don't love you, like I love you
+If he did he wouldn't break your heart
+He don't love you, like I love you
+He's trying to tear us apart
+Gonna find her, I'm gonna find her, I'm gonna find her
+Oh, if I have to climb a mountain, you know I will
+And if I have to swim a river, you know I will
+And I might find her hidin' up on Blueberry Hill
+How am I gonna find her, child, you know I will
+Cause I'm goin' searchin'
+I'm goin' searchin'
+Searchin' everywhere
+Just like some Northwest Mountie
+That's the sound of the men working on the chain gang
+That's the sound of the men working on the chain gang
+All day long they work so hard till the sun is goin' down
+Working on the highways and byways and wearin', wearin' a frown
+Hear them moanin' their lives away
+Then you hear somebody say
+That's the sound of the men working on the chain gang
+That's the sound of the men working on the chain gang
+That's the sound of the men working on the chain gang

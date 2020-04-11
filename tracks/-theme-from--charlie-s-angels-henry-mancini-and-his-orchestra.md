@@ -1,6 +1,6 @@
 ---
 artists:
-- Henry Mancini And His Orchestra
+- Henry Mancini
 features: []
 genres: []
 key: -theme-from--charlie-s-angels-henry-mancini-and-his-orchestra

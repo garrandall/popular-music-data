@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: friday-night-eric-paslay
+lyrics_url: https://genius.com/Eric-paslay-friday-night-lyrics
 name: Friday Night
 rankings:
 - end_date: '2013-11-08'
@@ -87,4 +88,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-03-15'
 ---
+Here we go
+Uh, ha ha
+Yeah
 
+
+I don't wanna be your Monday morning heading back to work
+Stuck in traffic goin' slow, nothin' on the radio
+I don't wanna be another chore to check off on your list
+Of things you gotta do and places that you gotta go
+Oh no
+
+
+I wanna be your Friday night sweet ride
+Summertime sunshine, barefoot in the moonlight
+I wanna be your jackpot hot spot
+Wide open road in a candy apple rag top
+I wanna set you free
+I wanna take you high
+I wanna be, wanna be your Friday night
+Oh, your Friday night
+
+
+We can rock together, let the good times roll forever
+Fill up our cup, make a memory, drink it up
+I don't wanna miss another minute, wanna live it with you
+'Neath the blue sky fallin' in love
+
+
+I wanna be your Friday night sweet ride
+Summertime sunshine, barefoot in the moonlight
+I wanna be your jackpot hot spot
+Wide open road in a candy apple rag top
+I wanna set you free
+I wanna take you high
+I wanna be, wanna be your Friday night
+Oh, your Friday night
+One, two, three, uh
+
+
+I wanna be your lemonade in the shade
+Money in your pocket 'cause you just got paid, babe
+Oh
+
+
+I wanna be your Friday night sweet ride
+Summertime sunshine, barefoot in the moonlight
+I wanna be your jackpot hot spot
+Wide open road in a candy apple rag top
+I wanna set you free
+I wanna take you high
+I wanna be, wanna be your Friday night
+
+
+Oh your Friday night
+Hey
+Your Friday night
+Hey, you friday night
+Oh, oh, F-F-F-Friday night

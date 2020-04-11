@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-day-the-rains-came-jane-morgan
+lyrics_url: https://www.musixmatch.com/lyrics/Jane-Morgan/The-Day-The-Rains-Came
 name: The Day The Rains Came
 rankings:
 - end_date: '1958-09-28'
@@ -67,4 +68,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-29'
 ---
+The day that the rains came down
+Mother Earth smiled again
+Now the lilacs could bloom
+Now the fields could grow greener
 
+The fday that the rains came down
+Buds were born, love was born
+As the young buds will grow
+So our young love will grow
+Love, sweet love
+
+A robin sang a song of love
+A willow tree reached up to the heavens
+Asif to thank the sky above
+For all that rain, that welcome rain
+
+We looked across the meadowland
+And seemed to sense a kind of a miracle
+Much too deep to understand
+And there we were, so much in love
+
+The day that the rains came down
+Mountain streams swelled with pride
+Gone the dry river bed
+Gone the dust from the valley
+
+The day that the rains came down
+Buds were born, love was born
+As the young buds will grow
+So our young love will grow
+
+Love, sweet love
+Rain sweet rain

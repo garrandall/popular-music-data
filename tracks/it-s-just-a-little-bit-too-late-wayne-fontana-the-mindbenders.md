@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: it-s-just-a-little-bit-too-late-wayne-fontana-the-mindbenders
+lyrics_url: https://www.musixmatch.com/lyrics/Wayne-Fontana-Feat-The-Mindbenders-2/Its-Just-a-Little-Bit-Too-Late
 name: It's Just A Little Bit Too Late
 rankings:
 - end_date: '1965-06-18'
@@ -40,4 +41,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
 ---
+What good does it do
+To worry about the past
+I know I can't undo
+The wrong I've done
+But please baby please
+I'm begging on my knees
+Please take me back
+And give me one more chance
 
+No, no, no, no
+It's just a little bit too late
+A little bit too late now
+It's just a little bit too late
+
+Oh, girl
+Can't you see?
+There's been a change in me
+My eyes are closed
+But now I see the light
+This lone loneliness
+Is tearing me apart
+I did you wrong
+But now I'll make it right
+
+No, no, no, no
+It's just a little bit too late
+A little bit too late now
+It's just a little bit too late.

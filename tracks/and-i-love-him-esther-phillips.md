@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: and-i-love-him-esther-phillips
+lyrics_url: https://genius.com/Esther-phillips-and-i-love-him-lyrics
 name: And I Love Him
 rankings:
 - end_date: '1965-05-14'
@@ -43,4 +44,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-03'
 ---
+I give him all my love
+That's all I do
+And if you saw my love
+You'd love him, too
+I love him
 
+He gives me everything
+And tenderly
+The kiss my lover brings
+He brings to me
+I love him
+
+A love like ours
+Could never die
+As long as I
+Have you near me
+
+Bright are the stars that shine
+Dark is the sky
+I know this love of mine
+Will never die
+I love him
+
+Bright are the stars that shine
+Dark is the sky
+I know this love of mine
+Will never never die
+And I love him
+And I love him
+And I love him

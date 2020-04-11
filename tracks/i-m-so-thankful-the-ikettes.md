@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-so-thankful-the-ikettes
+lyrics_url: https://genius.com/The-ikettes-im-so-thankful-lyrics
 name: I'm So Thankful
 rankings:
 - end_date: '1965-10-15'
@@ -35,4 +36,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-20'
 ---
+You're the one I
+Met in skies of gray
+And you're the one who
+Chased the clouds away
 
+I thought that I would
+Never find a love all mine
+And for this, I'm so thankful
+For this, I'm so thankful to you
+
+Thank you, baby
+Ooh, thank you, baby
+Ooh, baby
+
+You're the flame
+Who set my soul on fire
+I'm proud to have a
+Love that you inspire
+
+And when we walk together
+Hand in hand, understand
+For this, I'm so thankful
+For this, I'm so thankful to you
+
+Thank you, baby
+Ooh, thank you, baby
+
+I used to think
+That I could be your queen
+And have the things
+That only money brings
+
+But I have more than
+All that gold can buy
+That is why, for this
+I'm so thankful
+For this, I'm thankful
+
+For this, I'm thankful
+Ooh, every day now
+Ooh, every minute

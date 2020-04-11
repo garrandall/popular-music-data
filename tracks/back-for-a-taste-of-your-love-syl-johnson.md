@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: back-for-a-taste-of-your-love-syl-johnson
+lyrics_url: https://genius.com/Syl-johnson-back-for-a-taste-of-your-love-lyrics
 name: Back For A Taste Of Your Love
 rankings:
 - end_date: '1973-11-02'
@@ -31,4 +32,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-01'
 ---
+Here I come
+I'm coming for a taste of your love
+Here I come, baby
+Because I like what you do for me
 
+Little by little, bit by bit
+I'm falling in love all over again
+
+Here I come
+I'm coming for a taste of your love
+Here I come now, baby
+Just like I did before
+And I'm coming back
+'cause this time I'm sure
+
+It takes two, to make it
+And I know you can take it, again
+
+Here I come
+I'm back for a taste of your Love
+Here I come
+I'm coming back for you now
+
+Guitar
+
+What you've been
+Just come down on me
+You've got the lock, pretty baby
+But I've got the key
+
+Little by little, bit by bit
+I'm falling in Love all over again
+
+Here I come
+I'm coming for a taste of your love
+Here I come now baby
+I'm back for a taste of your love
+
+You know, I'm coming back for a taste of your love
+You know, I've got to come back now baby

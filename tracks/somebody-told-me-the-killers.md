@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somebody-told-me-the-killers
+lyrics_url: https://genius.com/The-killers-somebody-told-me-lyrics
 name: Somebody Told Me
 rankings:
 - end_date: '2004-09-10'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-01-15'
 ---
+Breaking my back just to know your name
+Seventeen tracks and I've had it with this game
+I'm breaking my back just to know your name
+But Heaven ain't close in a place like this
+Anything goes but don't blink, you might miss
+'Cause heaven ain't close in a place like this
+I said, oh, heaven ain't close in a place like this
+Bring it back down, bring it back down tonight
+Never thought I'd let a rumor ruin my moonlight
 
+
+Well, somebody told me you had a boyfriend
+Who looked like a girlfriend
+That I had in February of last year
+It's not confidential, I've got potential
+
+
+Ready? Let's roll onto something new
+Taking its toll then I'm leaving without you
+'Cause heaven ain't close in a place like this
+I said, oh, heaven ain't close in a place like this
+Bring it back down, bring it back down tonight
+Never thought I'd let a rumor ruin my moonlight
+
+
+Well, somebody told me you had a boyfriend
+Who looked like a girlfriend
+That I had in February of last year
+It's not confidential, I've got potential
+A-rushing, rushing around
+
+
+Pace yourself for me
+I said maybe, baby, please
+But I just don't know now (Maybe, baby)
+When all I want to do is try
+
+
+Well, somebody told me you had a boyfriend
+Who looked like a girlfriend
+That I had in February of last year
+It's not confidential, I've got potential
+A-rushing, rushing around
+Somebody told me you had a boyfriend
+Who looked like a girlfriend
+That I had in February of last year
+It's not confidential, I've got potential
+A-rushing, rushing around
+Somebody told me you had a boyfriend
+Who looked like a girlfriend
+That I had in February of last year
+It's not confidential, I've got potential
+A-rushing, rushing around

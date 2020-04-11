@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: i-hope-we-get-to-love-in-time-marilyn-mccoo-billy-davis-jr-
+lyrics_url: https://genius.com/Marilyn-mccoo-and-billy-davis-jr-i-hope-we-get-to-love-in-time-lyrics
 name: I Hope We Get To Love In Time
 rankings:
 - end_date: '1976-04-02'
@@ -41,4 +42,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-07-10'
 ---
+I hope we get to love in time
+'Cause I got to make you mine
+Before I lose you; I couldn't stand the pain
 
+
+The road to love has tragedies
+Some loves don't get to be
+Laying the tears in someone's eyes, I won't cry
+
+
+And it could happen to us if we're not strong
+So why don't we hurry to love before it's gone
+
+
+I hope we get to love in time
+'Cause I got to make you mine
+Before I lose you, I couldn't stand the pain
+I hope you'll fall in love with me
+'Cause it would be a tragedy
+If I should lose you, I couldn't stand the pain
+
+
+The gates are open, we're so close
+Love is almost ours to hold
+A few more steps and we'll be there, if you care
+
+
+We'll make it together, it's easier that way
+With two falling deeper love will soon be ours to stay
+
+
+I hope we get to love in time
+'Cause I got to make you mine
+Before I lose you, I couldn't stand the pain
+I hope you'll fall in love with me
+'Cause it would be a tragedy
+If I should lose you, I couldn't stand the pain

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ain-t-that-loving-you-baby-elvis-presley
+lyrics_url: https://genius.com/Elvis-presley-aint-that-loving-you-baby-lyrics
 name: Ain't That Loving You Baby
 rankings:
 - end_date: '1964-10-16'
@@ -47,4 +48,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
 ---
+I could ride around the world in an old oxcart
+And never let another girl thrill my heart
 
+
+Ain't that loving you baby?
+Ain't that loving you baby?
+Ain't that loving you baby?
+Ain't that loving you so?
+
+I could meet a hundred girls and have loads of fun
+My hugging and my kissing belong to just one
+
+
+
+If you gave me nine lives like an alley cat
+I'd give them all to you and never take one back
+
+
+
+I'm putting on my Sunday suit and I'm going downtown
+But I'll be kissing your lips before the sun goes down
+
+
+
+
+Ain't that loving you baby?
+Ain't that loving you so?

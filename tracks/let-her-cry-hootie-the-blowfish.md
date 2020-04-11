@@ -1,7 +1,6 @@
 ---
 artists:
-- Hootie
-- The Blowfish
+- Hootie and The Blowfish
 features: []
 genres: []
 key: let-her-cry-hootie-the-blowfish

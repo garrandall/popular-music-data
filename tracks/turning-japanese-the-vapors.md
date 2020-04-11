@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: turning-japanese-the-vapors
+lyrics_url: https://genius.com/The-vapors-turning-japanese-lyrics
 name: Turning Japanese
 rankings:
 - end_date: '1980-10-03'
@@ -75,4 +76,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-01-17'
 ---
+I've got your picture
+Of me and you
+You wrote "I love you"
+I wrote "Me too"
+I sit there staring, and there's nothing else to do
+Oh, it's in colour
+Your hair is brown
+Your eyes are hazel
+And soft as clouds
+I often kiss you when there's no one else around
 
+
+I've got your picture, I've got your picture
+I'd like a million of you, all 'round my cell
+I want a doctor to take your picture
+So I can look at you from inside as well
+You've got me turning up and turning down
+And turning in and turning 'round
+
+
+I'm turning Japanese, I think I'm turning Japanese
+I really think so
+Turning Japanese, I think I'm turning Japanese
+I really think so
+I'm turning Japanese, I think I'm turning Japanese
+I really think so
+Turning Japanese, I think I'm turning Japanese
+I really think so
+
+
+I've got your picture, I've got your picture
+I'd like a million of you, all 'round my cell
+I want a doctor to take your picture
+So I can look at you from inside as well
+You've got me turning up and turning down
+And turning in and turning 'round
+
+
+I'm turning Japanese, I think I'm turning Japanese
+I really think so
+Turning Japanese, I think I'm turning Japanese
+I really think so
+I'm turning Japanese, I think I'm turning Japanese
+I really think so
+Turning Japanese, I think I'm turning Japanese
+I really think so
+
+
+No sex, no drugs, no wine, no women
+No fun, no sin, no you, no wonder it's dark
+Everyone around me is a total stranger
+Everyone avoids me like a cyclone ranger, everyone
+
+
+That's why I'm turning Japanese, I think I'm turning Japanese
+I really think so
+Turning Japanese, I think I'm turning Japanese
+I really think so
+I'm turning Japanese, I think I'm turning Japanese
+I really think so
+Turning Japanese, I think I'm turning Japanese
+I really think so
+
+
+
+
+Turning Japanese, I think I'm turning Japanese
+I really think so
+Turning Japanese, I think I'm turning Japanese
+I really think so (Think so, think so, think so)
+I'm turning Japanese, I think I'm turning Japanese
+I really think so
+Turning Japanese, I think I'm turning Japanese
+I really think so (Think so, think so, think so)

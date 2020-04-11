@@ -1,6 +1,6 @@
 ---
 artists:
-- Don Costa And His Orchestra And Chorus
+- Don Costa And Chorus
 features: []
 genres: []
 key: theme-from--the-unforgiven---the-need-for-love--don-costa-and-his-orchestra-and-chorus

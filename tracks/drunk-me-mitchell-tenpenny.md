@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: drunk-me-mitchell-tenpenny
+lyrics_url: https://genius.com/Mitchell-tenpenny-drunk-me-lyrics
 name: Drunk Me
 rankings:
 - end_date: '2018-08-17'
@@ -91,4 +92,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-01-12'
 ---
+Some people don't know when to quit, and that's why they quit
+Some need to hit the bottom to see they got a problem, they can't handle it
+But that ain't why I started cleaning up my life
+Wish it was, but, ooh, that would be a lie
 
+
+I've been sober 'cause there ain't no hangover like you, girl
+No, no, no
+Baby, can you come over?
+I always find those words at the bottom of a hundred proof, yeah
+Girl, every time you do
+I just end up, head all messed up like the sheets where we made love
+I've been sober since you broke my heart in two
+'Cause drunk me can't get over you (There ain't no hangover like you)
+Can't get over, can't get over (There ain't no hangover like you)
+Oh, no, no, no
+
+
+All those bottles sitting up on the shelf are just salt on the wound
+One sip and I'm picking up the phone tryin' not to go home without you
+And that ain't nothin' but a whole lotta pain
+And that kind of hurt, ooh hurts, it ain't worth another drink
+
+
+I've been sober 'cause there ain't no hangover like you, girl
+No, no, no
+Baby, can you come over?
+I always find those words at the bottom of a hundred proof, yeah
+Girl, every time you do
+I just end up, head all messed up like the sheets where we made love
+I've been sober since you broke my heart in two
+'Cause drunk me can't get over you, no
+Can't get over you, oh, no, no, no
+I've been sober 'cause there ain't no hangover like you, no, no, no
+
+Can you come over?
+I always find those words at the bottom of a hundred proof, yeah
+Girl, every time you do
+I just end up, head all messed up like the sheets where we made love
+I've been sober since you broke my heart in two
+'Cause drunk me, yeah drunk me, yeah drunk me
+Can't get over you, no (there ain't no hangover like you)
+Can't get over, can't get over
+(There ain't no hangover like you), oh, no, no, no

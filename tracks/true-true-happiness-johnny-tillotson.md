@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: true-true-happiness-johnny-tillotson
+lyrics_url: https://genius.com/Johnny-tillotson-true-true-happiness-lyrics
 name: True True Happiness
 rankings:
 - end_date: '1959-08-30'
@@ -43,4 +44,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-10-19'
 ---
+True true happiness will folow
+True true happiness will folow if you'll only follow
+True true happiness will folow if you'll only follow me yeah yeah
 
+When you're feeling lost inside let my true love be your guide
+True true happiness will follow if you'll only follow me yeah
+
+True true happiness will folow...
+
+Come with me and find the way you can trust me when I say
+True true happiness will follow if you'll only follow me yeah
+
+True true happiness will folow...
+
+Let me lead you like a steady take my hand and say you're ready
+True true happiness will follow if you'll only follow me yeah
+
+True true happiness will folow...

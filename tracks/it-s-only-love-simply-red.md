@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-only-love-simply-red
+lyrics_url: https://genius.com/Simply-red-its-only-love-lyrics
 name: It's Only Love
 rankings:
 - end_date: '1989-03-03'
@@ -43,4 +44,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-04-22'
 ---
+It's only love
+It's only love
 
+
+Don't be afraid to touch me, babe
+Girl, let's be real
+There's nothing wrong with the way
+We're carrying on
+So enjoy and live
+Because
+
+
+It's only love doing its thing, baby
+It's only love that you're feeling
+It's only love doing its thing, babe
+It's only love that you're giving
+
+
+I wanna stay with you night and day
+Until the end of time
+It's O.K. when you lay
+Lay your body next to mine
+Because
+
+
+It's only love doing its thing, baby
+It's only love that you're feeling
+It's only love doing its thing, baby
+It's only love that you're giving

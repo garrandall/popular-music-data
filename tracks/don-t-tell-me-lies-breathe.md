@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-tell-me-lies-breathe
+lyrics_url: https://genius.com/Breathe-uk-dont-tell-me-lies-lyrics
 name: Don't Tell Me Lies
 rankings:
 - end_date: '1989-01-20'
@@ -71,4 +72,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-04-29'
 ---
-
+Every move you made before was never meant for real
+Over my naivety is this how I should feel?
+Burning with my own desire, visions that all seem so clear
+Now I see this in your eyes, they'll never ever be another one
+Don't tell me lies
+Don't tell me lies
+Looking back I realize it's always been this way
+We must note what has gone and never turn away
+When desire takes hold of me, what I've seen just sets me free
+Now I see this in your eyes, they'll never ever be another one
+Don't tell me lies
+Don't tell me lies
+Don't tell me lies
+Broken loose from indecision
+Now I'm alright on my own
+Still I wait from your confession
+I guess I'm alright on my own
+Don't tell me lies
+Don't tell me lies
+Don't, don't, don't tell me, Don't, don't, don't tell me
+Don't tell me lies

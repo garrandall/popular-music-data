@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-to-be-wanted-brenda-lee
+lyrics_url: https://genius.com/Brenda-lee-i-want-to-be-wanted-lyrics
 name: I Want To Be Wanted
 rankings:
 - end_date: '1960-09-18'
@@ -67,4 +68,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-19'
 ---
+(Wanted wanted)
+Alone, so alone that I could cry
+I want to be wanted (wanted)
+Alone, watching lovers passing by
+I want to be wanted
 
+When I am kissed
+I want his lips to really kiss me
+When we're apart
+I want his heart to really miss me
+I want to know
+He loves me so his eyes are misting
+That's the way I want to be loved
+
+Alone, just my lonely heart knows how
+I want to be wanted (wanted) right now
+Not tomorrow, but right now
+I want to be wanted
+
+I want someone
+To share my laughter and my tears with
+Someone I know
+I'd love to spend a million years with
+Where is this someone somewhere meant for me?
+
+(Alone) Just my lonely heart knows how
+I want to be wanted (right now)
+Not tomorrow, but right now
+I want to be wanted
+
+I want someone
+To share my laughter and my tears with
+Someone I know
+I'd love to spend a million years with
+Where is this someone somewhere meant for me?
+(Someone, somewhere) Meant for me

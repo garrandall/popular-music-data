@@ -1,10 +1,10 @@
 ---
 artists:
-- Joan Jett
-- the Blackhearts
+- Joan Jett & the Blackhearts
 features: []
 genres: []
 key: i-hate-myself-for-loving-you-joan-jett-the-blackhearts
+lyrics_url: https://genius.com/Joan-jett-and-the-blackhearts-i-hate-myself-for-loving-you-lyrics
 name: I Hate Myself For Loving You
 rankings:
 - end_date: '1988-07-01'
@@ -112,4 +112,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-12-17'
 ---
+Midnight, gettin' uptight, where are you?
+You said you'd meet me, now it's quarter to two
+I know I'm hangin' but I'm still wantin' you
+Hey Jack, it's a fact they're talkin' in town
+I turn my back and you're messin' around
+I'm not really jealous, don't like lookin' like a clown
 
+
+I think of you every night and day
+You took my heart and you took my pride away
+
+
+I hate myself for loving you
+Can't break free from the things that you do
+I wanna walk but I run back to you
+That's why I hate myself for loving you
+Ow! Uh
+
+
+Daylight, spent the night without you
+But I've been dreamin' 'bout the lovin' you do
+I'm won't be as angry 'bout the hell you put me through
+Hey, man, bet you can treat me right
+You just don't know what you was missin' last night
+I wanna see you begging, say forget it just for spite
+
+
+I think of you every night and day
+You took my heart and you took my pride away
+
+
+I hate myself for loving you
+Can't break free from the things that you do
+I wanna walk but I run back to you
+That's why I hate myself for loving you
+Ow! Uh
+
+
+
+
+I think of you every night and day
+You took my heart and you took my pride away
+
+
+I hate myself for loving you
+Can't break free from the things that you do
+I wanna walk but I run back to you
+That's why I hate myself for loving you
+Ow! Uh
+
+
+I hate myself for loving you
+Can't break free from the things that you do
+I wanna walk but I run back to you
+That's why I hate myself for loving you
+Ow! Uh
+
+
+I hate myself for loving you
+I hate myself for loving you
+I hate myself for loving you
+I hate myself
+I hate myself for loving you

@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: you-ve-made-me-so-very-happy-blood-sweat-tears
+lyrics_url: https://genius.com/Blood-sweat-and-tears-youve-made-me-so-very-happy-lyrics
 name: You've Made Me So Very Happy
 rankings:
 - end_date: '1969-03-07'
@@ -61,4 +62,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
 ---
+I lost at love before
+Got mad and closed the door
+But you said child just once more
 
+
+I chose you for the one
+Now we're havin' so much fun
+You treated me so kind
+I'm about to lose my mind
+
+
+You made me so very happy
+I'm so glad you
+Came into my life
+
+
+The others were untrue
+But when it came to lovin' you
+I'd spend my whole life with you
+
+
+'Cause you came and you took control
+You touch my very soul
+You always show me that
+Lovin' you is where it's at
+
+
+
+Thank you, baby
+Yeah yeah
+
+
+I love you so much you see
+You're even in my dreams
+I can hear
+Baby, I can hear you calling me
+I'm so in love with you
+All I ever want to do is
+Thank you baby, thank you baby
+
+
+
+You made me so very happy
+You made me so, so very happy
+I'm so glad you
+Came into my life
+
+
+Mmmm, I want to thank you, girl
+Every day of my life
+I wanna thank you
+You made me so very happy
+Oh, I wanna spend my life thanking you
+Thank you baby, thank you baby
+Thank you baby thank you baby

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: say-john-mayer
+lyrics_url: https://genius.com/John-mayer-say-lyrics
 name: Say
 rankings:
 - end_date: '2007-12-21'
@@ -119,4 +120,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-08-02'
 ---
+Take all of your wasted honor
+Every little past frustration
+Take all of your so-called problems
+Better put 'em in quotations
 
+
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+
+
+Walking like a one man army
+Fighting with the shadows in your head
+Living out the same old moment
+Knowing you'd be better off instead
+If you could only
+
+
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+
+
+Have no fear for giving in
+Have no fear for giving over
+You'd better know that in the end
+It's better to say too much
+Than never say what you need to say again
+
+Even if your hands are shaking
+And your faith is broken
+Even as the eyes are closing
+Do it with a heart wide open
+
+
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say
+Say what you need to say

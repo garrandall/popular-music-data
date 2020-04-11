@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-hurtin--roy-orbison
+lyrics_url: https://genius.com/Roy-orbison-im-hurtin-lyrics
 name: I'm Hurtin'
 rankings:
 - end_date: '1960-12-18'
@@ -39,4 +40,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
 ---
+Felt this way yesterday
+Today I keep hurtin', yeah hurtin'
+Time goes by, right on by, and I
+I'm still hurtin', yeah hurtin'
 
+You walked away, the pain began
+I knew I'd never love again
+Oh my heart tore apart
+And I'm sure hurtin', yeah hurtin'
+
+You walked away, the pain begain
+I knew I'd never love again
+Seems to me my destiny
+Is to be just hurtin', yeah hurtin

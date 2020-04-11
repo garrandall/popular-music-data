@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-saw-you-dancing-yaki-da
+lyrics_url: https://genius.com/Yaki-da-i-saw-you-dancing-lyrics
 name: I Saw You Dancing
 rankings:
 - end_date: '1995-06-09'
@@ -51,4 +52,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-08-12'
 ---
-
+I saw you dancing
+And I'll never be the same again for sure
+I saw you dancing
+Say Yaki-Da my love
+I'm waiting for a chance
+To get to know you
+To ask for a dance
+Just look into my eyes
+And I'll take you to paradise
+REFRAIN
+I'm falling, I'm falling
+'Cause life's not easy for me
+Please touch me like you do
+To have you near me
+To go where you go
+Why waste a lot of time
+My love is not a serious crime
+REFRAIN
+I'm falling to pieces
+Who do you think you are
+Maybe I've gone too far
+Maybe I'm in love with you
+Don't hurt me or treat me bad
+'Cause I will fight for what is mine
+Say Yaki-Da
+'Cause life is meant for living

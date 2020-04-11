@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-are-so-beautiful-joe-cocker
+lyrics_url: https://genius.com/Joe-cocker-you-are-so-beautiful-lyrics
 name: You Are So Beautiful
 rankings:
 - end_date: '1975-01-17'
@@ -75,4 +76,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-03'
 ---
+You are so beautiful
+To me
+You are so beautiful
+To me
+Can't you see
 
+You're everything I hoped for
+You're everything I need
+You are so beautiful to me
+You are so beautiful to me
+
+Such joy and happiness you bring
+Such joy and happiness you bring
+Like a dream
+A guiding light that shines in the night
+Heavens gift to me
+You are so beautiful to me
+
+You are so beautiful
+To me
+Can't you see
+You're everything I hoped for
+Every, everything I need
+You are so beautiful to me

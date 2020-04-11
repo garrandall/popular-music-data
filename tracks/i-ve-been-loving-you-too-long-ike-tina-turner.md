@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-ve-been-loving-you-too-long-ike-tina-turner
+lyrics_url: https://genius.com/Ike-and-tina-turner-ive-been-loving-you-too-long-lyrics
 name: I've Been Loving You Too Long
 rankings:
 - end_date: '1969-05-02'
@@ -36,4 +37,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-07'
 ---
+I've been loving you too long, I don't wanna stop now
+You are tired and you want to be free
+But my love for you is growing stronger
+You see, you've become a habit to me
+Ooh, I've been loving you that much too long
+Please don't make me stop now
+Oh, I don't wanna stop now
 
+
+I've been loving a little too long
+I dont wanna stop now, oh, I don't wanna
+Please don't make me stop now
+Oh, don't make me stop now
+I'm down on my bended knees, don't make me stop now
+Oh, don't make me stop now
+Baby, baby, I love you
+Honey, honey, child, don't you know that I love you
+I said I, I love you with all my heart and soul
+Don't make me stop, don't make me stop now
+Oh, I love you; oh, said I love you
+Oh, don't make me, don't make me stop now
+Oh, oh, you you you, you can make me do anything you want me to do
+And I'll, I'll even say anything you want me to say
+Buy anything you want me to buy ya
+If you, if you just stay and make, and make love to me
+If you, if you just make me say, "Oh, oh, baby, oh, oh, baby"
+Baby, come on, baby, sock it, sock it, sock it
+Sock it to me, baby
+Oh, oh, oh, baby, baby, baby, don't make me stop now
+Oh, oh, I love you, don't make me stop now, baby, oh...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tangerine-the-salsoul-orchestra
+lyrics_url: https://genius.com/The-salsoul-orchestra-tangerine-lyrics
 name: Tangerine
 rankings:
 - end_date: '1976-01-30'
@@ -59,4 +60,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-04-17'
 ---
-
+(Male)
+Tangerine - she is all they claim
+With her eyes of night and lips as bright as flame
+Tangerine – when she dances by
+Senoritas stare and caballeros sigh
+And I’ve seen toasts to Tangerine
+Raised in every bar across the Argentine
+Yes – she has them all on the run
+But her heart belongs to just one
+Her heart belongs to Tangerine
+(Female)
+Tangerine – she is all they say
+With mascara’d eyes, and chapeaux by Dache
+Tangerine with her lips of flame
+If the colour keeps, Louis Philippe’s to blame
+And I’ve seen clothes on Tangerine
+Where the label says from Macy’s Mezzanine
+Yes, she’s got the guys in a whirl
+But she’s only fooling one girl
+She’s only fooling Tangerine

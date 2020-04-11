@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: more-than-this-10-000-maniacs
+lyrics_url: https://genius.com/10000-maniacs-more-than-this-lyrics
 name: More Than This
 rankings:
 - end_date: '1997-07-18'
@@ -79,4 +80,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-11-08'
 ---
-
+I could feel at the time
+There was no way of knowing
+Fallen leaves in the night
+Who can say where they're blowing
+As free as the wind
+And hopefully learning
+Why the sea on the tide
+Has no way of turning
+More than this
+You know there is nothing
+More than this
+Tell me one thing
+More than this
+You know there is nothing
+It was fun for a while
+There was no way of knowing
+Like a dream in the night
+Who can say where we're going
+No care in the world
+Maybe I'm learning
+Why the sea on the tide
+Has no way of turning
+More than this
+You know there is nothing
+More than this
+Tell me one thing
+More than this
+You know there is nothing
+Oooh aaaah
+More than this
+You know there is nothing
+More than this
+Tell me one thing
+More than this
+There is nothing
+Ooooh Ooooh Ooooooh Aaaaaaah Ooooooh

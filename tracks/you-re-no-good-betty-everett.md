@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-no-good-betty-everett
+lyrics_url: https://genius.com/Betty-everett-youre-no-good-lyrics
 name: You're No Good
 rankings:
 - end_date: '1963-11-29'
@@ -47,4 +48,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-01'
 ---
+Feeling better, now that we're through
+Feeling better, 'cause I'm over you
+I've learned my lesson, it left a scar
+And now I see how you really are
 
+You're no good
+You're no good
+You're no good
+Baby, you're no good
+
+I'm gonna say it again
+You're no good
+You're no good
+You're no good
+Baby, you're no good
+
+You know, I broke a heart that's gentle and true
+I left a boy for someone like you
+I'll beg his forgiveness on bending knee
+But I wouldn't blame him if he said to me
+
+It's no good
+No good
+It's no good
+Baby, it's no good
+
+Hey, I'm gonna say it louder
+No good
+No good
+It's no good
+Baby, it's no good
+Mm, no good
+
+Mm, if you help me, we'll start anew
+It'll be easy, forgetting you
+
+You're no good
+You're no good
+You're no good
+Baby, you're no good
+
+Oh, you know what I mean
+You're no good
+You're no good
+You're no good
+You're no good
+You're no good
+
+Oh, oh, oh
+I'm warning you now, baby, and I'm going my way
+Forget about you, baby, I'm leaving to stay
+
+You're no good
+No good
+No good
+Baby, you're no good
+
+Oh, oh, I say
+You're no good
+No good
+You're no good
+Baby, you're no good
+...

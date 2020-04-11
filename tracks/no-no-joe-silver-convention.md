@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-no-joe-silver-convention
+lyrics_url: https://genius.com/Silver-convention-no-no-joe-lyrics
 name: No No Joe
 rankings:
 - end_date: '1976-08-13'
@@ -31,4 +32,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
 ---
+No, no, Joe
+No, no, Joe
+No, no, Joe
+The party's over and I gotta go
+No, no, Joe
+Oh no, you shouldn't turn the lights down low
+Mama won't like it
 
+No, no, Joe
+No, no, Joe
+No, no, Joe
+The party's over and I gotta go
+No, no, Joe
+You mustn't think that my feelings show
+Mama won't like it
+
+No, no, Joe
+No, no, Joe
+No, no, Joe
+The party's over and I gotta go
+No, no, Joe
+Oh no, you shouldn't turn the lights down low
+Mama won't like it
+
+No, no, Joe, mama won't like it

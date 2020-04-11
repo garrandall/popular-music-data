@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-guitar-richard-chamberlain
+lyrics_url: https://www.musixmatch.com/lyrics/Richard-Chamberlain/Blue-Guitar
 name: Blue Guitar
 rankings:
 - end_date: '1963-10-04'
@@ -39,4 +40,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-16'
 ---
+Please hear the song
+My blue guitar is playing
+Why did you go away
+The song is saying
 
+Listen to my
+Blue guitar call to you
+While my heart is aching
+And breaking in two
+
+Every note repeats I want you
+Night and day, my song will haunt you
+Til things are like they were before
+And you are in my arms once more
+
+Play, play, my blue guitar
+Tell her that I love her so
+Play, play, my blue guitar
+True love will find a way, I know
+
+Play, play, my blue guitar
+Tell her that I love her so
+Play, play, my blue guitar
+True love will find a way, I know
+
+Every note repeats I want you
+Night and day, my song will haunt you
+Til things are like they were before
+And you are in my arms once more

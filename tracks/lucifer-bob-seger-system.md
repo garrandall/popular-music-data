@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lucifer-bob-seger-system
+lyrics_url: https://www.musixmatch.com/lyrics/The-Bob-Seger-System/Lucifer
 name: Lucifer
 rankings:
 - end_date: '1970-04-10'
@@ -31,4 +32,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-05-23'
 ---
-
+Cruisin on the grey snakes till my dyin day
+Checkin all the hen houses out along the way
+Wastin time and drikin wine
+Life is short and I ain't lyin
+Livin all I Can thru every day
+You can call me Lucifer
+If you think you should
+Now I know I'm good
+Everynight I'm barrelhousin till the moon is low
+Shoutin blues and payin dues & throwin way my dough
+Ramblin, Gamblin, Lovin, Shovin probably won't end up with nothin
+But at least I'll reap the seeds I sow
+You can call me Lucifer
+If you think you should
+Now I know I'm good
+Funky water farmers daughter gonna make the law
+Lucy Blue Chicago Green I'll love em till they thaw
+Courtin all the lovely foxes, brunette, redheads, goldi locks
+Talkin time to grind my crosscut saw
+You can call me Lucifer
+If you think you should
+Now I know I'm good

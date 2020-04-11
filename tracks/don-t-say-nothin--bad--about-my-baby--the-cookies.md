@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-say-nothin--bad--about-my-baby--the-cookies
+lyrics_url: https://genius.com/The-cookies-dont-say-nothin-bad-about-my-baby-lyrics
 name: Don't Say Nothin' Bad (About My Baby)
 rankings:
 - end_date: '1963-03-08'
@@ -59,4 +60,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-05-25'
 ---
+Don't say nothin' bad about my baby
+(Oh, no)
+Don't say nothin' bad about my baby
+(I love him so)
+Don't say nothin' bad about my baby
+(Oh, don't you know)
+Don't say nothin' bad about my baby
 
+He's good
+(He's good)
+He's good to me
+(Good to me)
+And that's all I care about
+
+(Oh, no)
+Don't you tell me my baby's just a playboy
+(It isn’t true)
+Don't you tell me my baby's just a playboy
+(That’s a lie)
+I won't listen to a single word you say
+(He's my guy)
+Don't you tell me my baby's just a playboy
+
+He's true
+(He's true)
+He's true to me
+(True to me)
+So, girl, you better shut your mouth
+
+(Everybody says he's lazy)
+But not when he's kissin' me
+(Everybody says he's crazy)
+Sure he's crazy
+Crazy about me, oh, yeah
+
+Don't say nothin' bad about my baby
+(Oh, no)
+Don't say nothin' bad about my baby
+(I love him so)
+Don't say nothin' bad about my baby
+(Oh, don't you know)
+Don't say nothin' bad about my baby
+
+He's good
+(He's good)
+He's good to me
+(Good to me)
+And that's all I care about
+
+(Oh, no)
+Don't say nothin' bad about my baby
+(Oh, no)
+Don't say nothin' bad about my baby
+(I love him so)
+Don't say nothin' bad about my baby
+(Oh, don't you know)
+Don't say nothin' bad about my baby
+
+He's true
+(He's true)
+He's true to me
+(True to me)
+So, girl, you better shut your mouth
+
+(Oh, no)
+Don't say nothin' bad about my baby
+(Oh, no)
+Don't say nothin' bad about my baby
+
+Don't say nothin' bad about my baby
+(Oh, no)
+Don't say nothin' bad about my baby
+(Oh, no)
+
+Don't say nothin' bad about my baby
+(Oh, no)
+Don't say nothin' bad about my baby

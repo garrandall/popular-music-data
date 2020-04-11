@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breathe-telepopmusik
+lyrics_url: https://genius.com/Telepopmusik-breathe-lyrics
 name: Breathe
 rankings:
 - end_date: '2003-01-03'
@@ -47,4 +48,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-03-01'
 ---
+I brought you something close to me
+Left for something you see though your here
+You haunt my dreams
+There's nothing to do but believe
+Just Believe
+Just Breathe
 
+
+Another day, just believe
+Another day, just breathe
+Another day, just believe
+Another day, just breathe
+
+
+I'm used to it by now
+Another day, just believe
+Just breathe, just believe
+Just breathe
+Lying in my bed
+Another day, staring at the ceiling
+Just breathe, another day
+Another day, just believe
+Another day
+I'm used to it by now
+I'm used to it by now
+
+
+Just breathe, just believe
+Just breathe, just believe
+Just believe, just breathe
+Just believe
+
+
+Another day, just believe
+Another day
+Another day, just believe
+Another day, just breathe
+Another day (I do believe)
+Another day (so hard to breathe)
+Another day (not so hard to believe)
+Another day, another day

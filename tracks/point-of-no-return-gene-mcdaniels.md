@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: point-of-no-return-gene-mcdaniels
+lyrics_url: https://genius.com/Gene-mcdaniels-point-of-no-return-lyrics
 name: Point Of No Return
 rankings:
 - end_date: '1962-08-10'
@@ -47,4 +48,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
 ---
+You know that once upon a time
+I didn't need you so
+It would have been so easy then
+For me to turn and go
 
+But now there's no leavin' you
+I know that for a fact
+I'm at the point of no return
+And for me there'll be no turning back
+
+I told myself you'd always be
+A habit I could break
+But now a day without your kiss
+Would be so hard to take
+
+You just can't get off a train
+That's movin' down the track
+I'm at the point of no return
+And for me there'll be no turning back
+
+Once I could have said goodbye
+But that was at the start
+Now I think I'd rather die
+Than be the one to say, "We'll part"
+
+Maybe you will break my heart
+Or maybe you'll be true
+No matter what the future brings
+I've got to see it through
+
+Maybe your love for me is nothin' but an act
+I'm at the point of no return
+And for me there'll be no turnin' back
+Yeah, for me there'll be no turnin' back
+Unh, unh, unh, unh, unh, unh

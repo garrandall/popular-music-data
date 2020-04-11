@@ -1,6 +1,6 @@
 ---
 artists:
-- Martin Denny and His Orchestra
+- Martin Denny
 features: []
 genres: []
 key: a-taste-of-honey-martin-denny-and-his-orchestra

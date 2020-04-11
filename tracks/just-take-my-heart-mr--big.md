@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-take-my-heart-mr--big
+lyrics_url: https://genius.com/Mr-big-just-take-my-heart-lyrics
 name: Just Take My Heart
 rankings:
 - end_date: '1992-04-17'
@@ -87,4 +88,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-08-22'
 ---
+It's late at night and neither one of us is sleeping
+I can't imagine living my life after you're gone
+Wondering why so many questions have no answers
+I keep on searching for the reason why we went wrong
 
+Where is our yesterday
+You and I could use it right now
+But if this is goodbye...
+
+Just take my heart when you go
+I don't have the need for it anymore
+I'll always love you, but you're too hard to hold
+Just take my heart when you go
+
+Here we are about to take the final step now
+I just can't fool myself, I know there's no turning back
+Face to face it's been an endless conversation
+But when the love is gone you're left with nothing but talk
+
+I'd give my everything
+If only I could turn you around
+But if this is goodbye...
+
+Just take my heart when you go
+I don't have the need for it anymore
+I'll always love you, but you're too hard to hold
+Just take my heart when you go

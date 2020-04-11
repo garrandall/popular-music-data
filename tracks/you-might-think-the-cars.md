@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-might-think-the-cars
+lyrics_url: https://genius.com/The-cars-you-might-think-lyrics
 name: You Might Think
 rankings:
 - end_date: '1984-03-16'
@@ -75,4 +76,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-06-30'
 ---
+You might think I'm crazy to hang around with you
+Maybe you think I'm lucky to have something to do
+But I think that you're wild
+Inside me is some child
 
+
+You might think I'm foolish
+Or maybe it's untrue (you might think)
+You might think I'm crazy (but all I want)
+But all I want is you
+
+
+You might think it's hysterical, but I know when you're weak
+You think you're in the movies, and everything's so deep
+But I think that you're wild
+When you flash that fragile smile
+
+
+You might think it's foolish
+What you put me through (you might think)
+You might think I'm crazy (but all I want)
+All I want is you
+
+
+And it was hard, so hard to take
+There's no escape without a scrape
+But you kept it going till the sun fell down
+You kept it going
+
+
+Well, you might think I'm delirious the way I run you down
+But somewhere sometimes, when you're curious, I'll be back around
+Oh, I think that you're wild
+And so uniquely styled
+
+
+You might think it's foolish
+This chancy rendezvous
+You might think I'm crazy (but all I want)
+But all I want is you
+All I want is you
+All I want is you

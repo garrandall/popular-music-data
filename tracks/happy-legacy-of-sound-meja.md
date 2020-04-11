@@ -5,6 +5,7 @@ features:
 - Meja
 genres: []
 key: happy-legacy-of-sound-meja
+lyrics_url: https://genius.com/Legacy-of-sound-happy-lyrics
 name: Happy
 rankings:
 - end_date: '1993-07-30'
@@ -56,4 +57,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-10-09'
 ---
+Featuring Meja
 
+Hap hap hap hap
+(Found me a new day)
+(Repeat twice)
+
+(Chorus)
+Happy is
+Happy is
+Hap hap happy
+Is what we are
+Happy
+Is what we are when we're together
+
+You know we have a friendship going on that will last
+A long long time
+The love we share will always be a memory
+'Cuz good times always conquer the bad ones
+
+It's true people get happy when they see us together
+Yes they do
+
+The joy we bring
+Together we can show the world what happiness can be
+All together
+
+Chorus
+
+I feel free, yeah
+
+It all that we have that brings us closer together
+That we can be enjoying life
+
+That all that matters to me
+
+Believe in all that we have
+Is something special to offer
+The time we had
+
+Surrounded by the good days
+And the feeling of a good good vibration
+
+Chorus
+
+Oh what we are
+
+Chorus
+
+Hap hap hap hap
+(Found me a new day)
+(Repeat three times)
+
+Believe in what we had
+
+I said belive
+I said believe, yeah
+
+Believe in what we are
+
+Believe, yeah
+
+Believe in what we had
+
+Believe in what we are
+
+Believe in what we are
+
+So do it baby
+
+Chorus
+
+When we're together
+We are
+
+Chorus
+
+Yeah yeah
+
+Chorus
+
+Happy is what we are
+
+Chorus

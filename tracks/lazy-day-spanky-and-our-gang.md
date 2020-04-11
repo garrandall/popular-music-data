@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lazy-day-spanky-and-our-gang
+lyrics_url: https://genius.com/Spanky-and-our-gang-lazy-day-lyrics
 name: Lazy Day
 rankings:
 - end_date: '1967-10-20'
@@ -51,4 +52,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-12-23'
 ---
+Blue sky, sunshine
+What a day to take a walk in the park
+Ice cream, daydream
+Till the sky becomes a blanket of stars
+What a day for pickin' daisies
+And lots of red balloons
+And what a day for holdin' hands
+And bein' with you
 
+Lazy day just right for lovin' away
+Lazy day made for a-strollin' the lane
+Baby you and me
+(You and me)
+And a honey bee
+'Neath a shady tree
+Lazy day, lazy day
+Lazy day for you and me
+
+Blue sky, sunshine
+Flowers bloomin', children sayin' hello
+Rowboats, bird notes
+People smilin' everywhere that we go
+What a day to be together
+And what a sky of blue
+And what a day for thinkin' right out loud
+I love you
+
+Lazy day just right for lovin' away
+Lazy day made for a-strollin' the lane
+Baby you and me
+(You and me)
+And a honey bee
+'Neath a shady tree
+Lazy day, lazy day
+Lazy day for you and me
+
+What a day for pickin' daisies
+And lots of red balloons
+And what a day for thinkin' right out loud
+I love you
+
+Lazy day just right for lovin' away
+Lazy day made for a-strollin' the lane
+Lazy day just right for lovin' away
+Lazy day

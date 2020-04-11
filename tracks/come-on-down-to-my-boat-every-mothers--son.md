@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-on-down-to-my-boat-every-mothers--son
+lyrics_url: https://genius.com/Every-mothers-son-come-on-down-to-my-boat-lyrics
 name: Come On Down To My Boat
 rankings:
 - end_date: '1967-05-12'
@@ -67,4 +68,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
 ---
+She sits on the dock a fishin' in the water, uh huh
+I don't know her name she's the fisherman's daughter, uh huh
+Come on down to my boat, baby
+Come on down where we can play
+Come on down to my boat baby
+Come on down, we'll sail away
 
+She smiled so nice like she wants to come with me, uh huh
+But she's tied to the dock and she can't get free
+Come on down to my boat, baby
+Come on down where we can play
+Come on down to my boat, baby
+Come on down, we'll sail away
+
+Fish all day, sleep all night
+Father never lets her out of his sight
+Soon I'm gonna have to get my knife and cut that rope (cut that rope)
+
+Then we can go fishin' in my little red boat
+Make you happy in my little red boat
+So come on down to my boat baby
+Come on down where we can play
+Come on down to my boat, baby
+Come on down, we'll sail away
+
+Come on down to my boat, baby
+Come on down where we can play
+Come on down to my boat, baby
+Come on down we'll sail away

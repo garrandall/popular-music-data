@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: funky-stuff-kool-the-gang
+lyrics_url: https://genius.com/Kool-and-the-gang-funky-stuff-lyrics
 name: Funky Stuff
 rankings:
 - end_date: '1973-09-14'
@@ -56,4 +57,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-24'
 ---
+Party!
+Party!
 
+I can't get enough of that funky stuff
+I can't get enough of that funky stuff
+
+I said, "Whoa, whoa, whoa, whoa, whoa
+Whoa, whoa, whoa, whoa, whoa, whoa, yeah"
+
+I can't get enough of that funky stuff
+I can't get enough of that funky stuff
+
+I said, "Whoa, whoa, whoa, whoa, whoa
+Whoa, whoa, whoa, whoa, whoa, whoa, yeah"
+
+Daa dii daa dii daa, daa dii daa dii daa
+Daa dii daa dii daa, daa dii daa dii daa
+Daa dii daa dii daa, daa dii daa dii daa
+Daa dii daa dii daa, daa dii daa dii daa
+
+I said, "Whoa, whoa, whoa, whoa, whoa
+Whoa, whoa, whoa, whoa, whoa, whoa, yeah"

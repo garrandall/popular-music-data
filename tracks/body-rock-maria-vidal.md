@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: body-rock-maria-vidal
+lyrics_url: https://genius.com/Maria-vidal-body-rock-lyrics
 name: Body Rock
 rankings:
 - end_date: '1984-09-14'
@@ -55,4 +56,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-11-24'
 ---
+Born on a hungry street
+Children of darkness grew upon the beat
+Anything in our way
+We'll just move away
 
+I've got the heart to win
+You got the eyes that say that I can
+We're gonna turn this town
+Upside down tonight
+
+They can't stop us now
+
+Body rock
+Get your body in the music
+Body rock
+Comes from deep inside you
+Body rock
+Let your body talk to me tonight
+
+We come from underground
+Oh stickin' together gonna turn the world around
+Runnin' through the neon night
+With a dream inside
+
+This feels like something new
+Heartbeats, your heartbeat comin' straight at you
+We've got the moment now
+Once we're on the move
+
+They can't hold us now
+
+Body rock
+Get your body in the music
+Body rock
+Comes from deep inside you
+Body rock
+Let your body talk to me tonight
+
+Body rock
+Means you do it like you feel it
+Body shot
+Turns the beat electric
+Body rock
+Let your body talk to me tonight

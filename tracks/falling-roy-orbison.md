@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: falling-roy-orbison
+lyrics_url: https://genius.com/Roy-orbison-falling-lyrics
 name: Falling
 rankings:
 - end_date: '1963-06-14'
@@ -39,4 +40,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-07-27'
 ---
+I'm falling, I'm falling
+Falling in love with you
 
+Baby, Come closer closer to me, And listen listen so carefully
+Remember all the nights that I told you that I loved you
+It wasn't true, I used you, And you were just someone new
+
+To thrill this lonely heart of mine
+I was lying all the time
+Pretending to be falling in love with you
+But it's different now, I've kissed you now
+So forgive me forgive me somehow
+
+Hold me tight for tonight, Then tell me truth
+If you still love me, Say that you love me
+Don't leave me now
+
+Now that I'm falling for you
+I'm falling, I'm falling
+Falling in love, Falling in love with you

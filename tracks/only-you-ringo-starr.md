@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-you-ringo-starr
+lyrics_url: https://genius.com/Ringo-starr-only-you-lyrics
 name: Only You
 rankings:
 - end_date: '1974-11-22'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-02-08'
 ---
-
+Only you
+Can make this world seem right
+Only you
+Can make the darkness bright
+Only you, and you alone
+Can thrill me like ya do
+And fill my heart with love
+For only you
+Only you
+Can make this change in me
+For it's true!
+You are my destiny
+When you hold my hand, I understand
+The magic that you do
+Your my dream come true
+My one and only you...
+(speaking)
+Only you
+Can make this world seem right
+Only you
+Can make, my darkness bright
+Only you, and you alone
+Can thrill me like ya do
+And fill my heart
+With love for only you
+Oh-only you
+Can make this change in me
+For it's true!
+You are my destiny
+When you hold my hand I understand
+The magic that you do
+Your my dream come true
+My one, my one and only you
+Only you, only you, only you.......

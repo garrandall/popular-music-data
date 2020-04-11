@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: runaround-the-fleetwoods
+lyrics_url: https://genius.com/The-fleetwoods-runaround-lyrics
 name: Runaround
 rankings:
 - end_date: '1960-05-29'
@@ -59,4 +60,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-15'
 ---
+I'll never be the one to part
+You've found a place here in my heart
+Go have your fun (I'll have my fun)
+Runaround
 
+I'll never leave you
+I'm forever bound
+The streets are noisy
+I'm all alone
+I sit and wait, dear, for you to phone
+Go have your fun (I'll have my fun)
+Go have your fun
+Runaround
+
+I've waited so long it seems
+You're running out of my dreams
+Maybe a new love you've found
+Settle down
+Runaround
+
+Ooh, ooh, ooh, ooh
+Ooh, ooh, ooh, ooh
+Ooh, ooh, ooh, ooh
+Ooh, ooh, ooh, ooh
+
+Go have your fun (I'll have my fun)
+Go have your fun
+Runaroud
+
+I've waited so long it seems
+You're running out of my dreams
+Maybe a new love you've found
+Settle down
+Runaround
+
+I'll never be the one to part
+You've found a place here in my heart
+Go have your fun (I'll have my fun)
+Go have your fun
+Runaround

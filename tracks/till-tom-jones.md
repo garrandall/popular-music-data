@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: till-tom-jones
+lyrics_url: https://genius.com/Tom-jones-till-lyrics
 name: Till
 rankings:
 - end_date: '1971-11-05'
@@ -35,4 +36,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-12-11'
 ---
+Till the moon deserts the sky
+Till all the seas run dry
+Till then I'll worship you
+Till the tropic sun grows cold
+Till this young world grows old
+My darling I'll adore you
 
+You are my reason to live
+All I own I would give
+Just to have you adore me
+Till the rivers flow up stream
+Till lovers cease to dream
+Till then I'm yours
+Be mine

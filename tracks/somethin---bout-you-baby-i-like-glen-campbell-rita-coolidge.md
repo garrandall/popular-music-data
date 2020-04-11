@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: somethin---bout-you-baby-i-like-glen-campbell-rita-coolidge
+lyrics_url: https://www.musixmatch.com/lyrics/Glen-Campbell-Rita-Coolidge/Somethin-Bout-You-Baby-I-Like
 name: Somethin' 'Bout You Baby I Like
 rankings:
 - end_date: '1980-05-23'
@@ -48,4 +49,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-07-19'
 ---
-
+I see you every day
+Walking down the avenue
+I'd like to get to know you
+But all I do is smile at you
+Oh baby, when it comes to talking
+My tongue gets so tight
+This sidewalk love affair
+Has got me high as a kite
+Yeah, yeah, there's something 'bout you, baby, I like
+Well, I'm a slow walker
+But girl, I'd race a mile for you
+Just to get there in time
+For my peek-a-boo rendezvous
+Well, maybe it's the way you
+Wear you're blue jeans so tight
+I can't put my finger on
+What you're doing right
+Yeah, yeah, there's something 'bout you, baby, I like
+Yeah, yeah, there's something 'bout you, baby, I like
+Well, I'm standing on a corner
+Smiling by a telephone
+I'd just love to check you over
+Get to know you like a fine tooth comb
+Oh, now when I go home
+I turn out the light
+And you come strolling through
+My dreams every night
+Yeah, yeah, there's something 'bout you, baby, I like
+Yeah, yeah, there's something 'bout you, baby, I like
+Yeah, yeah, there's something 'bout you, baby, I like

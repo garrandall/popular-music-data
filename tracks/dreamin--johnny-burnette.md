@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dreamin--johnny-burnette
+lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Burnette/Dreamin
 name: Dreamin'
 rankings:
 - end_date: '1960-07-31'
@@ -67,4 +68,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-31'
 ---
+Dreamin', I'm always dreamin'
+Dreamin', love will be mine
+Searchin', I'm always searchin'
+Hopin' someday I'll find
 
+Someone, someone to love me
+Someone to need me but until then
+
+Well, I'll keep on dreamin'
+Keep right on dreamin'
+Dreamin' till my dreamin' comes true
+
+Dreamin', I'm always dreamin'
+Dreamin', love will be mine
+Searchin' I'm always searchin'
+Hopin' someday I'll find
+
+Someone, someone to needs me
+Someone to love me but until then
+
+Well, I'll keep on dreamin'
+Keep right on dreamin'
+Dreamin' till my dreamin' comes true
+
+Well, I'll keep on dreamin'
+I got I'll keep on dreamin'
+I got I'll keep

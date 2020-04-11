@@ -5,6 +5,7 @@ features:
 - Pitbull
 genres: []
 key: on-the-floor-jennifer-lopez-pitbull
+lyrics_url: https://genius.com/Covergirl-on-the-floor-jennifer-lopez-feat-pitbull-tribute-lyrics
 name: On The Floor
 rankings:
 - end_date: '2011-03-18'
@@ -124,3 +125,134 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-09-24'
 ---
+Girls on the dance floor, stereotypes
+Girls on the dance floor
+Girls on the dance floor
+Girls on the dance floor
+
+I see you chillin' by the bar
+Why don't you grab your girls
+And come, chill with a star
+
+We up in VIP, drinks on me
+Swag on tight with a gangsta lead
+Everybody knows just who I are, yeah
+
+Girl, you know what it is?
+(Girl, you know what it is?)
+Follow me to da floor
+(Follow me to da floor)
+
+You can bring a couple of friends
+(You can bring a couple of friends)
+They can drink a lil' mo'
+(They can drink a lil' mo')
+
+They can drink a lil' mo'
+(They can drink a lil' mo')
+They can drink a lil' mo'
+(They can drink a lil' mo')
+
+Oh, you don't hear me tho?
+(Oh, you don't hear me tho?)
+They can drink a lil' mo
+
+If ya lookin' for me, I'm with da
+(Girls on the dance floor)
+I'm easy to see, I'm with da
+(Girls on the dance floor)
+
+You know I love it when da
+(Girls on the dance floor)
+That's why this one is for da
+(Girls on the dance floor)
+
+Do you know about the stereotypes?
+I take a shot of Petron, two shots and it's on
+Three shots, four shots, five shots
+Oh shit, I think I'm gone
+
+You see that girl walkin' by?
+She gimme them bedroom eyes
+Later on I'mma take that home
+And smack the, bedroom thighs
+
+Girl, you know what it is?
+(Girl, you know what it is?)
+Follow me to da floor
+(Follow me to da floor)
+
+You can bring your friends
+(You can bring your friends)
+They can bring a couple mo'
+(They can bring a couple mo')
+
+They can bring a couple mo'
+(They can bring a couple mo')
+They can bring a couple mo'
+(They can bring a couple mo')
+
+Oh, you don't hear me tho?
+(Oh, you don't hear me tho?)
+They can bring a couple mo'
+
+If ya lookin' for me, I'm with da
+(Girls on the dance floor)
+I'm easy to see, I'm with da
+(Girls on the dance floor)
+
+You know I love it when I'm with da
+(Girls on the dance floor)
+That's why this one is for da
+(Girls on the dance floor)
+
+All my girls hit the dance floor
+I'mma get you drunk and make you lose control
+Gotta arch your back, swing your hair
+Just like that, I don't care
+After here, I'm 'bout to take you home
+
+Yo, sip a lil' Henn and I'm good to go
+Girls and good fellas, so remarkable
+When crock hits tho, I'm out da door
+So, get your ass on the floor
+(Get your ass on the floor)
+
+So get your ass on the floor
+(Get your ass on the floor)
+So get your ass on the floor
+(Get your ass on the floor)
+
+Oh, you don't hear me tho?
+(Oh, you don't hear me tho?)
+Get your ass on the floor
+
+If ya lookin' for me, I'm with da
+(Girls on the dance floor)
+I'm easy to see, I'm with da
+(Girls on the dance floor)
+
+You know I love it when da
+(Girls on the dance floor)
+That's why this one is for da
+(Girls on the dance floor)
+
+If ya lookin' for me, I'm with da
+(Girls on the dance floor)
+I'm easy to see, I'm with da
+(Girls on the dance floor)
+
+You know I love it when da
+(Girls on the dance floor)
+That's why this one is for da
+(Girls on the dance floor)
+
+Get low
+(Girls on the dance floor)
+Get low
+(Girls on the dance floor)
+
+Get low
+(Girls on the dance floor)
+Get low
+(Girls on the dance floor)

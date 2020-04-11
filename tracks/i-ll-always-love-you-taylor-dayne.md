@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-always-love-you-taylor-dayne
+lyrics_url: https://genius.com/Taylor-dayne-ill-always-love-you-lyrics
 name: I'll Always Love You
 rankings:
 - end_date: '1988-06-17'
@@ -127,4 +128,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-12-31'
 ---
+Hoooooooooo! Ah Ah Ahhhh!
 
+I'll always love you
+For the rest of my days
+You have won my heart and my soul
+With your sweet, sexy ways
+
+You gave me hope
+When I needed someone near
+You bring me happiness
+Every day of every year
+
+And I'll always love you
+For all that you are
+You have made my life complete
+You're my lucky star
+You are the one
+That I'd been searching for
+You are my everything
+Tell me who could ask for more
+And I'll always love you
+
+Honey, this will never end
+I need you by my side, baby
+You're my lover my friend
+Oh, my friend
+You gave my world
+A thrill I've never known
+
+And filled my eager heart
+With a love to call my own
+And I'll always love you
+You must know how much I do
+You can count on me forever
+And I will take good care
+Of you
+
+I'll always love you
+I'm so happy that your mine
+I always love you
+Till the end of time

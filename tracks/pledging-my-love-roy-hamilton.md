@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pledging-my-love-roy-hamilton
+lyrics_url: https://genius.com/Roy-hamilton-pledging-my-love-lyrics
 name: Pledging My Love
 rankings:
 - end_date: '1958-11-23'
@@ -55,4 +56,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-02'
 ---
+Forever, my darling, our love will be true
+Always and forever I'll love only you
+Just promise me, darling, your love in return
+May this fire in my soul, dear, forever burn
 
+
+My heart's at your command, dear
+To keep love and to hold
+Making you happy is my desire, dear
+Keeping you is my goal
+
+I'll forever love you
+For the rest of my days
+I'll never part from you
+Or your loving ways
+Just promise me, darling, your love in return
+May this fire in my soul, dear, forever burn
+
+
+I'll forever love you
+For the rest of my days
+I'll never part from you
+Or your loving ways
+Just promise me, darling, your love in return
+May this fire in my soul, dear, forever burn

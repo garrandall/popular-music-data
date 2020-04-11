@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shambala-b-w--stevenson
+lyrics_url: https://genius.com/Bw-stevenson-shambala-lyrics
 name: Shambala
 rankings:
 - end_date: '1973-05-18'
@@ -39,4 +40,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-30'
 ---
+Wash away my troubles, wash away my pain
+With the rain in Shambala
+Wash away my sorrow, wash away my shame
+With the rain in Shambala
 
+Yay-ey-yay-he-yay
+Yeah, yeah, yeah, yeah, yeah
+Yay-ey-yay-he-yay
+Yeah, yeah, yeah, yeah, yeah
+
+Everyone is helpful, everyone is kind
+On the road to Shambala
+Everyone is helpful, everyone is kind
+On the road to Shambala
+
+How does your light shine
+In the halls of Shambala
+How does your light shine
+In the halls of Shambala
+Tell me, how does your light shine
+In the halls of Shambala
+(Tell me) How does your light shine
+In the halls of Shambala
+
+I can tell my sister by the flowers in her eyes
+On the road to Shambala
+I can tell my brother by the flowers in his eyes
+On the road to Shambala
+
+Yay-ey-yay-he-yay
+Yeah, yeah, yeah, yeah, yeah
+Yay-ey-yay-he-yay
+Yeah, yeah, yeah, yeah, yeah
+
+Yay-ey-yay-he-yay
+Yeah, yeah, yeah, yeah, yeah
+Yay-ey-yay-he-yay
+Yeah, yeah, yeah, yeah, yeah

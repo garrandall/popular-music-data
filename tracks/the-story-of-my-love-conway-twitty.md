@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-story-of-my-love-conway-twitty
+lyrics_url: https://www.musixmatch.com/lyrics/Conway-Twitty/The-Story-of-My-Love
 name: The Story Of My Love
 rankings:
 - end_date: '1959-02-01'
@@ -55,4 +56,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
 ---
+Darling, were not very old
+But theres a love story that has to be told
+By stars above I swear that it's true
+It's the story of my love, for you.
+(My love for you)
 
+It starts when you came into my life
+You vowed someday you'd be my wife
+Sweetheart, I thought the world of you
+You made my world of dreams come true
+(Of dreams come true)
+
+The years may come, and years may pass
+And I reach the end of lifes journey at last
+Though time may change me in some ways it's true
+It could never change my love, for you.
+(Change my love, for you)
+
+Oh, when I'm gone, you bury me
+On the highest mountain of history
+Then all the world will hear me cry
+My love for you will never die.
+(For you will never die)...

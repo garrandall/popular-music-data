@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -i-m-not-your--steppin--stone-the-monkees
+lyrics_url: https://genius.com/The-monkees-im-not-your-steppin-stone-lyrics
 name: (I'm Not Your) Steppin' Stone
 rankings:
 - end_date: '1966-12-23'
@@ -39,4 +40,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-02-04'
 ---
+I, I, I, I, I'm not your steppin' stone
+I, I, I, I, I'm not your steppin' stone
 
+You're tryin' to make your mark in society
+You're usin' all the tricks that you used on me
+You're readin' all them high-fashion magazines
+The clothes you're wearin', girl, are causin' public scenes
+
+I said I, I, I, I, I'm not your steppin' stone
+I, I, I, I, I'm not your steppin' stone
+Not your steppin' stone
+Not your steppin' stone
+
+When I first met you girl you didn't have no shoes
+But now you're walkin' 'round like you're front page news
+You've been awful careful 'bout the friends you choose
+But you won't find my name in your book of Who's Who
+
+I said I, I, I, I, I'm not your steppin' stone (no girl, not me)
+I, I, I, I, I'm not your steppin' stone
+Not your steppin' stone
+I'm not your steppin' stone
+Not your steppin' stone
+Not your steppin' stone...

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: too-late-to-turn-back-now-cornelius-brothers-sister-rose
+lyrics_url: https://genius.com/Cornelius-brothers-and-sister-rose-too-late-to-turn-back-now-lyrics
 name: Too Late To Turn Back Now
 rankings:
 - end_date: '1972-06-02'
@@ -64,4 +65,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-08-26'
 ---
+My mama told me
+She said, son, please beware
+There's this thing called love
+And it's everywhere
 
+She told me, it can break your heart
+And put you in misery
+Since I met this little woman
+I feel it's happened to me
+And I'm telling you
+
+It's too late to turn back now
+I believe, I believe
+I believe I'm falling in love
+It's too late to turn back now
+I believe, I believe
+I believe I'm falling in love
+
+I found myself phoning her
+At least ten times a day
+You know, it's so unusual for me
+To carry on this way
+
+I'll tell you, I can't sleep at night
+Wanting to hold her tight
+I've tried so hard to convince myself
+That this feeling just can't be right
+And I'm telling you
+
+It's too late to turn back now
+I believe, I believe
+I believe I'm falling in love
+It's too late to turn back now
+I believe, I believe
+I believe I'm falling in love
+
+It's too late to turn back now, baby
+I believe, I believe
+I believe I'm falling in love
+It's too late, baby (to turn back now)
+I believe, I believe
+I believe I'm falling in love
+
+I wouldn't mind it if I knew
+She really loved me too
+But I hate to think
+That I'm in love alone
+And nothing that I can do, whoa
+
+It's too late to turn back now
+I believe, I believe
+I believe I'm falling in love
+It's too late to turn back now
+I believe, I believe
+I believe I'm falling in love
+
+It's too late to turn back now
+I believe, I believe
+I believe I'm falling in love
+It's too late to turn back now
+I believe, I believe
+I believe I'm falling in love
+
+It's too late to turn back now
+I believe, I believe
+I believe I'm falling in love
+It's too late to turn back now
+I believe, I believe
+I believe I'm falling in love

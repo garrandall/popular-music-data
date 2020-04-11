@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rockaway-beach-ramones
+lyrics_url: https://genius.com/Ramones-rockaway-beach-lyrics
 name: Rockaway Beach
 rankings:
 - end_date: '1977-12-09'
@@ -63,4 +64,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-03-04'
 ---
+Chewing out a rhythm on my bubble gum
+The sun is out and I want some
+It's not hard, not far to reach
+We can hitch a ride to Rockaway Beach
+Up on the roof, out on the street
+Down in the playground the hot concrete
+Bus ride is too slow
+They blast out the disco on the radio
 
+
+Rock rock Rockaway Beach
+Rock rock Rockaway Beach
+Rock rock Rockaway Beach
+We can hitch a ride to Rockaway Beach
+Rock rock Rockaway Beach
+Rock rock Rockaway Beach
+Rock rock Rockaway Beach
+We can hitch a ride to Rockaway Beach
+
+
+It's not hard, not far to reach
+We can hitch a ride to Rockaway Beach
+It's not hard, not far to reach
+We can hitch a ride to Rockaway Beach
+
+
+Chewing out a rhythm on my bubble gum
+The sun is out and I want some
+It's not hard, not far to reach
+We can hitch a ride to Rockaway Beach
+Up on the roof, out on the street
+Down in the playground the hot concrete
+Bus ride is too slow
+They blast out the disco on the radio
+
+
+Rock rock Rockaway Beach
+Rock rock Rockaway Beach
+Rock rock Rockaway Beach
+We can hitch a ride to Rockaway Beach
+
+
+Rock rock Rockaway Beach
+Rock rock Rockaway Beach
+Rock rock Rockaway Beach
+We can hitch a ride to Rockaway Beach
+Rock rock Rockaway Beach
+Rock rock Rockaway Beach
+Rock rock Rockaway Beach
+We can hitch a ride to Rockaway Beach

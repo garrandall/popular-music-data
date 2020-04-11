@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-sister-elvis-presley
+lyrics_url: https://genius.com/Elvis-presley-little-sister-lyrics
 name: Little Sister
 rankings:
 - end_date: '1961-08-27'
@@ -59,4 +60,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-13'
 ---
+Little sister, don't you
+Little sister, don't you
+Little sister, don't you kiss me once or twice
+Then say it's very nice
+And then you run
+Little sister, don't you
+Do what your big sister done
 
+
+Well, I dated your big sister
+And I took her to a show
+I went for some candy
+Along came Jim Dandy
+And they snuck right out of the door
+
+
+Little sister, don't you
+Little sister, don't you
+Little sister, don't you kiss me once or twice
+Then say it's very nice
+And then you run
+Little sister, don't you
+Do what your big sister done
+
+
+Every time I see your sister
+Well she's got somebody new
+She's mean and she's evil
+Like that little old boll weevil
+Guess I'll try my luck with you
+
+
+Little sister, don't you
+Little sister, don't you
+Little sister, don't you kiss me once or twice
+Then say it's very nice
+And then you run
+Little sister, don't you
+Do what your big sister done
+
+
+Well, I used to pull your pigtails
+And pinch your turned-up nose
+But you been a growing
+And baby, it's been showing
+From your head down to your toes
+
+
+Little sister, don't you
+Little sister, don't you
+Little sister, don't you kiss me once or twice
+Then say it's very nice
+And then you run
+Little sister, don't you
+Do what your big sister done
+
+
+Little sister, don't you
+Do what your big sister done
+Little sister, don't you
+Do what your big sister done

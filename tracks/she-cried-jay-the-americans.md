@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: she-cried-jay-the-americans
+lyrics_url: https://www.musixmatch.com/lyrics/Jay-feat-The-Americans/She-Cried-2
 name: She Cried
 rankings:
 - end_date: '1962-03-23'
@@ -64,4 +65,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-16'
 ---
+And when I told her
+I didn't love her anymore
+She cried (she cried)
+And when I told her
+Her kisses were not like before
+She cried (she cried)
+I thought that our romance was over and done
+But to her it had just begun
 
+And when I told her
+Another girl had caught my eye
+She cried (she cried)
+And when I kissed her
+A kiss that only meant goodbye
+She cried (she cried)
+
+------ strings ------
+
+(Sha-la-la-la sha-la-la)
+
+And when I told her
+I didn't love her anymore
+She cried (she cried)

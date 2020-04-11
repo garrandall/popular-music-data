@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: got-to-have-loving-don-ray
+lyrics_url: https://www.musixmatch.com/lyrics/Don-Ray-2/Got-to-Have-Loving
 name: Got To Have Loving
 rankings:
 - end_date: '1978-09-29'
@@ -71,4 +72,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-01-13'
 ---
+It's a shame to complain, but we got to have a lot more love
+It's a shame to complain, but we got to have a lot more love
+It's a shame to complain, but we got to have a lot more love
+It's a shame to complain, but we got to have a lot more love
+It's a shame to complain, but we got to have a lot more lovin'
+It's a shame to complain, but we got to have a lot more lovin'
 
+Inside this world there's lots of casul lovers
+Unselfish lovin' they leave to the others
+They got to have it
+They can't do without it
+But ain't just a shame the way that they go about it
+
+
+For your information
+We need more loving
+To help the situation
+Got to have lovin'
+To keep the world together
+We need more loving
+We got to stick together
+Got to have lovin'
+We got to (got to)
+Need to (Have it)
+Have lots more lovin'
+We need to (Have it)
+Go to (Have it)
+Lots more lovin'
+It's a shame to complain, but we got to have a lot more love
+It's a shame to complain, but we got to have a lot more love
+It's a shame to complain, but we got to have a lot more lovin'
+It's a shame to complain, but we got to have a lot more lovin'
+
+And in this world you find the kind that would please you
+One day they love you, the next day they leave you
+They love to be loved, but seldom return it
+They're using up a good thing and they just don't deserve it
+
+
+
+It's a shame to complain, but we got to have a lot more love
+It's a shame to complain, but we got to have a lot more love
+It's a shame to complain, but we got to have a lot more love
+It's a shame to complain, but we got to have a lot more love
+It's a shame to complain, but we got to have a lot more lovin'
+It's a shame to complain, but we got to have a lot more lovin'
+It's a shame to complain, but we got to have a lot more lovin'
+It's a shame to complain, but we got to have a lot more lovin'
+
+A world so big can make a person feel lonely
+You got no money, your clothes may be homely
+It's a shame to complain, but we got to have a lot more lovin'
+It's a shame to complain, but we got to have a lot more lovin'
+But if your pockets light as a feather
+Just wrap yourself in lovin' and you'll feel a lot better
+It's a shame to complain, but we got to have a lot more lovin'
+It's a shame to complain, but we got to have a lot more lovin'
+It's a shame to complain, but we got to have a lot more

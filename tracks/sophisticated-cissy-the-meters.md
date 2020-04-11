@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sophisticated-cissy-the-meters
+lyrics_url: https://genius.com/The-meters-sophisticated-cissy-lyrics
 name: Sophisticated Cissy
 rankings:
 - end_date: '1969-02-14'
@@ -39,4 +40,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
 ---
-
+Instrumental

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-clapping-song-pia-zadora
+lyrics_url: https://genius.com/Pia-zadora-the-clapping-song-lyrics
 name: The Clapping Song
 rankings:
 - end_date: '1982-12-17'
@@ -67,4 +68,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-03-19'
 ---
+Three, six, nine
+The goose drank wine
+The monkey chew tobacco on the street car line
+The line broke
+The monkey got choked
+And they all went to heaven in a little row boat
 
+Clap Pat
+Clap Pat
+Clap Pat
+Clap Slap!
+Clap Pat!
+Clap your hand
+
+Pat it on your partner's hand
+Right hand
+Clap Pat!
+Clap your hand
+Cross it with your left arm
+
+Pat your partner's leff palm
+Clap Pat!
+Clap your hand
+Pat your partner's right palm
+With your right palm again
+
+Clap Slap!
+Clap your hand
+Slap your thighs and sing a little song
+
+My mama told me if I was goody
+That she would buy me a rubber dolly
+My Aunty told her I kissed a soldier
+Now she won't buy me a rubber dolly
+
+Three-six-nine
+The goose drank wine
+
+Clap Clap!
+Clap your hands and prepare to pat
+Pat!
+Take your right arm
+Put your partners right palm with your right palm
+Clap!
+Take your hand back and clap
+
+Pat!
+Take your right arm
+Cross your right ann with your left arm
+Pat your partner's left palm with your left palm
+Clap!
+Now back with a clap
+Slap
+Take the pats of your palms and slap your thighs
+
+And watch the fun materialize
+As you sing this little song
+My mama told me if I was goody
+Three, six, nine
+The goose drank wine
+Clap Clap
+My mama told me if I was goody

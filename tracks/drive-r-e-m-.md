@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: drive-r-e-m-
+lyrics_url: https://genius.com/Rem-drive-lyrics
 name: Drive
 rankings:
 - end_date: '1992-11-06'
@@ -67,4 +68,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-02-06'
 ---
+Smack, crack, bushwhacked
+Tie another one to your racks, baby
+Hey kids, rock and roll
+Nobody tells you where to go, baby
 
+
+What if I ride, what if you walk?
+What if you rock around the clock?
+Tick-tock, tick-tock
+What if you did, what if you walk?
+What if you tried to get off, baby?
+
+
+Hey, kids, where are you?
+Nobody tells you what to do, baby
+Hey kids, shake a leg
+Maybe you're crazy in the head, baby
+
+
+Maybe you did, maybe you walked
+Maybe you rocked around the clock
+Tick-tock, tick-tock
+Maybe I ride, maybe you walk
+Maybe I drive to get off, baby
+
+
+Hey kids, shake a leg
+Maybe you're crazy in the head, baby
+Ollie, Ollie, Ollie, Ollie, Ollie
+Ollie, Ollie in come free, baby
+Hey, kids, where are you?
+Nobody tells you what to do, baby
+
+
+Smack, crack, shack-a-lack
+Tie another one to your backs, baby
+Hey kids, rock and roll
+Nobody tells you where to go, baby
+
+
+Maybe you did, maybe you walk
+Maybe you rock around the clock
+Tick-tock, tick-tock
+Maybe I ride, maybe you walk
+Maybe I drive to get off, baby
+
+
+Hey kids, where are you?
+Nobody tells you what to do, baby
+Hey kids, rock and roll
+Nobody tells you where to go, baby
+Baby
+Baby

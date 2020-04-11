@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: day-by-day-hooters
+lyrics_url: https://genius.com/The-hooters-day-by-day-lyrics
 name: Day By Day
 rankings:
 - end_date: '1985-12-20'
@@ -79,4 +80,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-04-12'
 ---
+Give me what you can tonight
+Time is all we have to play
+Tell me you can't live without me
+Tell me every day by day by day
+Nothing lasts forever, only fades away
+Day by day
 
+Give me what you can tonight
+I'm back tomorrow anyway
+Show me some appreciation
+Show me every day by day by day
+The chance you gotta take's the price you gotta pay
+Day by day
+
+And if you break down, I will remind you
+Of what you were yesterday
+You can break down, I'll be behind you
+Day by day

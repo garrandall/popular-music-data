@@ -1,9 +1,11 @@
 ---
 artists:
-- Elvis Presley With The Jordanaires
+- Elvis Presley
+- The Jordanaires
 features: []
 genres: []
 key: hard-headed-woman-elvis-presley-with-the-jordanaires
+lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-feat-The-Jordanaires/Hard-Headed-Woman
 name: Hard Headed Woman
 rankings:
 - end_date: '1958-08-10'
@@ -39,4 +41,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-22'
 ---
+Well a hard headed woman
+A soft hearted man
+Been the cause of trouble
+Ever since the world began
 
+Oh yeah, ever since the world began
+A hard headed woman been
+A thorn in the side of man
+
+Adam told to Eve
+Listen here to me
+Don't you let me catch you
+Messin' round that apple tree
+
+Oh yeah, ever since the world began
+A hard headed woman been
+A thorn in the side of man
+
+Oh yeah, ever since the world began
+A hard headed woman been
+A thorn in the side of man
+
+Samson told Delilah
+Loud and clear
+Keep your cotton pickin' fingers
+Out my curly hair
+
+Oh yeah, ever since the world began
+A hard headed woman been
+A thorn in the side of man
+
+I heard about a king
+Who was doing swell
+Till he started playing
+With that evil Jezebel
+
+Oh yeah, ever since the world began
+A hard headed woman been
+A thorn in the side of man
+
+I got a woman
+A head like a rock
+If she ever went away
+I'd cry around the clock
+
+Oh yeah, ever since the world began
+A hard headed woman been
+A thorn in the side of man
+
+A hard headed woman been
+A thorn in the side of man

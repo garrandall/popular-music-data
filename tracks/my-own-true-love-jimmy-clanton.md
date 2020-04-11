@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-own-true-love-jimmy-clanton
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Clanton/My-Own-True-Love
 name: My Own True Love
 rankings:
 - end_date: '1959-08-09'
@@ -55,4 +56,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-10-19'
 ---
+My own true love
+My own true love
+At last I've found you
+My own true love
 
+No lips but yours
+No arms but yours
+Will ever lead me
+Through Heaven's doors
+
+I roamed the Earth
+In search of this
+I knew I'd know you
+Know you by your kiss
+
+And by your kiss
+You've shown true love
+I'm yours forever
+My own true love
+
+My own true love

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: byob-system-of-a-down
+lyrics_url: https://genius.com/System-of-a-down-byob-lyrics
 name: BYOB
 rankings:
 - end_date: '2005-04-22'
@@ -87,4 +88,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-08-27'
 ---
+You!
+Why do they always send the poor?
 
+
+Barbarisms by Barbaras with pointed heels
+Victorious victories kneel for brand new spanking deals
+Marching forward, hypocritic and hypnotic computers
+You depend on our protection, yet you feed us lies from the table cloth
+
+
+Lalalalalalalalalala, ooh-ooh
+Everybody's going to the party, have a real good time
+Dancing in the desert, blowing up the sunshine
+
+
+Kneeling roses disappearing into Moses' dry mouth
+Breaking into Fort Knox, stealing our intentions
+Hangars sitting dripped in oil, crying, "Freedom!"
+Handed to obsoletion, still, you feed us lies from the table cloth
+
+
+Lalalalalalalalalala, ooh-ooh
+Everybody's going to the party, have a real good time
+Dancing in the desert, blowing up the sunshine
+Everybody's going to the party, have a real good time
+Dancing in the desert, blowing up the sunshine
+
+
+Blast off! It's party time!
+And we don't live in a fascist nation!
+Blast off! It's party time!
+And where the fuck are you?!
+
+
+Where the fuck are you?
+Where the fuck are you?
+Why don't presidents fight the war?
+Why do they always send the poor?
+Why don't presidents fight the war?
+Why do they always send the poor?
+Why do they always send the poor?
+Why do they always send the poor?
+Why do they always send the poor?
+
+
+Kneeling roses disappearing into Moses' dry mouth
+Breaking into Fort Knox, stealing our intentions
+Hangars sitting dripped in oil, crying, "Freedom!"
+Handed to obsoletion, still, you feed us lies from the table cloth
+
+
+Lalalalalalalalalala, ooh-ooh
+Everybody's going to the party, have a real good time
+Dancing in the desert, blowing up the sunshine
+Everybody's going to the party, have a real good time
+Dancing in the desert, blowing up the sun–
+
+
+Where the fuck are you?
+Where the fuck are you?
+Why don't presidents fight the war?
+Why do they always send the poor?
+Why don't presidents fight the war?
+Why do they always send the poor?
+Why do they always send the poor?
+Why do they always send the poor?
+
+
+Why do they always send the poor?
+Why do they always send the poor?
+Why do they always send the poor?
+They always send the poor
+They always send the poor

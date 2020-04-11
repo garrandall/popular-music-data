@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-on-to-the-nights-richard-marx
+lyrics_url: https://genius.com/Richard-marx-hold-on-to-the-nights-lyrics
 name: Hold On To The Nights
 rankings:
 - end_date: '1988-05-27'
@@ -91,4 +92,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-08'
 ---
+Just when I believed
+I couldn't ever want for more
+This ever-changing world
+Pushes me through another door
 
+I saw you smile
+And my mind
+Could not erase the beauty of your face
+Just for awhile
+Won't you let me shelter you
+
+
+Hold on to the nights
+Hold on to the memories
+I wish that I could give you
+Something more
+That I could be yours
+
+
+How do we explain
+Something that took us by surprise
+Promises in vain
+Love that is real
+But in disguise
+
+What happens now
+Do we break another rule?
+Let our lovers play the fool?
+I don't know how
+To stop feeling this way
+
+
+Hold on to the nights
+Hold on to the memories
+If only I could give you more
+
+
+Well, I think that I've been true
+To everybody else but me
+And the way I feel about you
+Makes my heart long to be free
+
+Every time I look into your eyes
+I'm helplessly aware
+That the someone I've been searching for
+Is right there
+
+
+Hold on to the nights
+Hold on to the memories
+I wish that I could give you more
+That I can be yours

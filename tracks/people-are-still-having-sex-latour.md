@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: people-are-still-having-sex-latour
+lyrics_url: https://genius.com/Latour-people-are-still-having-sex-lyrics
 name: People Are Still Having Sex
 rankings:
 - end_date: '1991-04-12'
@@ -51,4 +52,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-06-15'
 ---
+Have you noticed that people are still having sex?
+All the denouncement had absolutely no effect
+Parents and counselors constantly scorn them
+But people are still having sex and nothing seems to stop them
 
+Do you realize that people are still having sex?
+They've been told not to, perhaps they are perplexed
+When you see them holding hands, they are making future plans
+To engage in the activity; do you understand me?
+
+People are still having sex
+Lust keeps on lurking
+Nothing makes them stop;
+This AIDS thing's not working
+
+People are still having sex;
+It's been going on for quite a while
+Perhaps it is quite fashionable
+It hasn't gone out of style
+
+It's a fact that people are still having sex;
+It's rather obvious, it's just what one expects
+The evidence is all around that everyone in every town
+Has had it at one time or another in their life
+
+At this very moment, people are still having sex
+In a downtown condo or a street in the projects
+Even though you can't see them, or hear their breathing sounds
+Someone in this world is having sex right now
+
+People are still having sex
+People are still having sex
+People are still having sex
+People are still having sex
+
+Sex, sex, sex, sex, sex...

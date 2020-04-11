@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: magic-carpet-ride-bardeux
+lyrics_url: https://genius.com/Bardeux-magic-carpet-ride-lyrics
 name: Magic Carpet Ride
 rankings:
 - end_date: '1988-03-04'
@@ -35,4 +36,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-04-09'
 ---
+I've never seen a boy who
+Looks as good as you tonight
+I'm feeling kind of fresh
+You know, I'm looking out of sight
 
+I know a little place
+That we can run away and hide
+And the only way to go
+Is on a magic carpet ride
+
+Come on and take a ride with me
+I'll show you just how fun
+My love can be
+Put your heart into my hands
+I'll take you to a wonderland
+
+On my magic carpet
+Flying so high
+With my love to guide you
+On my magic carpet
+Nothing but sky and stars
+All around you
+
+Yeah, yeah, yeah
+
+I got a magic carpet
+Wanna take you for a ride
+You're getting kinda nervous
+I can see it in your eyes
+
+Your heart is beating faster
+And your throat is getting dry
+But once you've tried it, baby
+It's the only way to fly
+
+Come on and take a ride with me
+I'll show you just how fun
+My love can be
+Put your heart into my hands
+I'll take you to a wonderland
+
+On my magic carpet
+Flying so high
+With my love to guide you
+On my magic carpet
+Nothing but sky and stars
+All around you
+
+On my magic carpet
+Flying so high
+With my love to guide you
+On my magic carpet
+Nothing but sky and stars
+All around you
+
+Yeah, yeah, yeah
+
+Come and take a ride
+Come and take a ride
+Come and take a ride with me
+
+Come on and take a ride with me
+I'll show you just how fun
+My love can be
+Put your heart into my hands
+I'll take you to a wonderland
+
+On my magic carpet
+Flying so high
+With my love to guide you
+On my magic carpet
+Nothing but sky and stars
+All around you
+
+On my magic carpet
+Flying so high
+With my love to guide you
+On my magic carpet
+Nothing but sky and stars
+All around you

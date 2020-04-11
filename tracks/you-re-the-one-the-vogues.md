@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-the-one-the-vogues
+lyrics_url: https://genius.com/The-vogues-youre-the-one-lyrics
 name: You're The One
 rankings:
 - end_date: '1965-09-24'
@@ -55,4 +56,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-12-04'
 ---
+Every time we meet, everything is sweet
+Oh, you're so tender, I must surrender
+My love is your love, now and forever
 
+You're the one that I long to kiss
+Baby, you're the one that I really miss
+Yeah, yeah, yeah
+You're the one that I'm dreamin' of
+Baby, you're the one that I love
+
+Keep me in your heart, never let us part
+Ooh, never leave me, please don't deceive me
+I want you only, you must believe me
+
+You're the one that I long to kiss
+Baby, you're the one that I really miss
+Yeah, yeah, yeah
+You're the one that I'm dreamin' of
+Baby, you're the one that I love
+
+I adore you and no one before you could make me feel this way, yeah
+Since I met you I just can't forget you, I love you more each day
+Yeah, yeah, yeah, yeah
+
+You're the one
+
+Yeah, yeah
+
+There may be some tears through the comin' years
+Ooh, all the while I know you'll be smilin'
+Your love will guide me through ev'ry mile 'cause
+
+You're the one that I long to kiss
+Baby, you're the one that I really miss
+Yeah, yeah, yeah
+You're the one that I'm dreamin' of
+Baby, you're the one that I love
+
+You're the one that I long to kiss
+Baby, you're the one that I really miss
+Yeah, yeah, yeah
+You're the one that I'm dreamin' of
+Baby, you're the one that I love

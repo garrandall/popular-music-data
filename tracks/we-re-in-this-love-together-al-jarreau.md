@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-re-in-this-love-together-al-jarreau
+lyrics_url: https://www.musixmatch.com/lyrics/Al-Jarreau/We-re-in-This-Love-Together
 name: We're In This Love Together
 rankings:
 - end_date: '1981-08-07'
@@ -103,4 +104,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-09'
 ---
+It's like a diamond ring, it's a precious thing
+And we never want to lose it
+It's like a favorite song that we love to sing
+Every time we hear the music
 
+And we're in this love together
+We got the kind that lasts forever
+We're in this love together
+And like berries on the vine, it gets sweeter all the time
+
+It's like a rainy night in candlelight
+And, ooh it's so romantic
+We got the whole thing working out so right, yes
+And it's just the way we planned it
+
+We're in this love together
+We got the kind that lasts forever
+Don't you know that we're in this love together
+And like berries on the vine, it gets sweeter all the time
+
+Don't you know, we're in this love together
+We got the kind that lasts forever
+We're in this love together
+We got a kind that will last forever and evermore
+
+Don't you know, we're in this love together
+We got the kind that lasts forever
+Tell you that we're in this love together
+Why don't you find love that has broken up the law
+
+Don't you know, that we're in this love together
+We got the kind that brings to mind a favorite song
+Girl they say that, we're in this love together
+We got the kind that lingers all night long, hey hey
+
+We're in this love together

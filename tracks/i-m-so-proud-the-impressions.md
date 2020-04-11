@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-so-proud-the-impressions
+lyrics_url: https://genius.com/The-impressions-im-so-proud-lyrics
 name: I'm So Proud
 rankings:
 - end_date: '1964-04-10'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-13'
 ---
+Prettier than all the world
+And I'm so proud (I'm so proud) I'm so proud of you
+You're only one fellow's girl
+Oh, and I'm so proud (I'm so proud) I'm so proud of you
+I'm so proud of being loved by you
 
+
+And it would hurt, hurt to know
+If you ever were untrue
+
+
+Sweeter than the taste of a cherry so sweet
+And I'm so proud girl (I'm so proud) I'm so proud of you
+Complements to you from all the people we meet
+Yes and I'm so proud now (I'm so proud)
+Believe me I love you too
+I'm so proud of being loved by you
+
+
+
+
+I'm so proud of being loved by you
+And it would hurt, hurt to know
+If you ever were untrue
+
+
+Sweeter than the taste of a cherry so sweet
+Yeah and I'm so proud (I'm so proud) I'm so proud of you
+I'm so proud of bein loved by you

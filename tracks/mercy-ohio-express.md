@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mercy-ohio-express
+lyrics_url: https://genius.com/Ohio-express-mercy-lyrics
 name: Mercy
 rankings:
 - end_date: '1969-04-04'
@@ -39,4 +40,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
 ---
+I love you mercy, mercy
+Oh, you know, you're such a beautiful thing
+You're laying kisses on me girl
+All you know all the pleasure it brings
+Ah, ah, ah, ah
+You're spending all my money
+And you're making me crawl up the wall
 
+Mercy, mercy
+You're doing me without any mercy at all
+And I'm calling you:
+Have mercy, mercy have mercy on me
+Have mercy, mercy, mercy on me
+
+A man's supposed to be stronger
+And is used to getting his way, ah
+But mercy girl you got my number
+And I'll do any thing that you say
+But stop playing with me
+Have mercy, mercy have mercy on me
+Have mercy, mercy, mercy on me

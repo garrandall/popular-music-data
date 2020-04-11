@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-won-t-ever-be-lonely-andy-griggs
+lyrics_url: https://genius.com/Andy-griggs-you-wont-ever-be-lonely-lyrics
 name: You Won't Ever Be Lonely
 rankings:
 - end_date: '1999-04-02'
@@ -87,4 +88,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-08-07'
 ---
+Life may not always go your way
+And every once in a while you might have a bad day
+But I promise you now you won't ever be lonely
+The sky turns dark and everything goes wrong
+Run to me and I'll leave the light on
+And I promise you now you won't ever be lonely
+For as long as I live
+There will always be a place you belong
+Here beside me
+Heart and soul baby -- you only
+And I promise you now you won't ever be lonely
 
+It's still gonna snow and it's still gonna rain
+The wind's gonna blow on a cold winter day
+And I promise you now you won't ever be lonely
+You're safe from the world wrapped in my arms
+And I'll never let go
+Baby, here's where it starts
+And I promise you now you won't ever be lonely
+Here's a shoulder you can cry on
+And a love you can rely on
+For as long as I live
+There will always be a place you belong
+
+Here beside me
+Heart and soul baby -- you only
+And I promise you now you won't ever be lonely
+No, no, you won't ever be lonely

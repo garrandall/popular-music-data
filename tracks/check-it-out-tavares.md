@@ -89,7 +89,7 @@ Mmm, can't you see (Look into my eyes, girl)
 Ooh, can't you see (Ain't a big surprise, girl)
 
 There may not be a dreary day
-For you to suffer through {No, no, no, no}
+For you to suffer through
 If you would let me lead the way
 I'd give the world to you
 
@@ -100,14 +100,14 @@ Baby, check it out (Check it out, check it out, girl)
 Check out your mind (Check it out, check it out, girl)
 Check it out (Check it out, check it out, girl)
 
-Look into my eyes, girl {Look into my eyes}
+Look into my eyes, girl
 Look into my eyes (Ain't a big surprise, girl)
 Check it out (Check it out, check it out, girl)
 Mmm, check it out (Check it out, check it out, girl)
 Check out your mind (Check it out, check it out, girl)
 Oh, check it out (Check it out, check it out, girl)
 
-Look into my eyes, girl {Look into my eyes}
+Look into my eyes, girl
 Look into my eyes (Ain't a big surprise, girl)
 Check it out (Check it out, check it out, girl)
 Check it out (Check it out, check it out, girl)

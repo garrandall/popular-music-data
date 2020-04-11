@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mona-lisa-carl-mann
+lyrics_url: https://genius.com/Carl-mann-mona-lisa-lyrics
 name: Mona Lisa
 rankings:
 - end_date: '1959-06-07'
@@ -71,4 +72,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-09-14'
 ---
+Mona lisa, mona lisa, men have named you
+You're so like the lady with the mystic smile
+Is it only 'cause you're lonely they have blamed you?
+For that mona lisa strangeness in your smile?
 
+Do you smile to tempt a lover, mona lisa?
+Or is this your way to hide a broken heart?
+Many dreams have been brought to your doorstep
+They just lie there and they die there
+Are you warm, are you real, mona lisa?
+Or just a cold and lonely lovely work of art?
+
+Do you smile to tempt a lover, mona lisa?
+Or is this your way to hide a broken heart?
+Many dreams have been brought to your doorstep
+They just lie there and they die there
+Are you warm, are you real, mona lisa?
+Or just a cold and lonely lovely work of art?
+
+Mona lisa, mona lisa

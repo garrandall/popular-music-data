@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: reveille-rock-johnny-and-the-hurricanes
+lyrics_url: https://genius.com/Johnny-and-the-hurricanes-reveille-rock-lyrics
 name: Reveille Rock
 rankings:
 - end_date: '1959-11-08'
@@ -59,4 +60,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-25'
 ---
+All right you guys rise and shine
 
+Wake up

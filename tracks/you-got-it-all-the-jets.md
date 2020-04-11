@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-got-it-all-the-jets
+lyrics_url: https://genius.com/The-jets-group-you-got-it-all-lyrics
 name: You Got It All
 rankings:
 - end_date: '1986-11-21'
@@ -111,4 +112,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-05-09'
 ---
+I
+I was a game he would play
+He brought the clouds to my day
+Then like a ray of light
+You came my way one night
 
+Just one look
+And I knew
+You would make everything clear
+Make all the clouds disappear
+
+Put all your fears to rest
+Who do I love the best?
+Don't you know
+Don't you know
+
+
+You got it all over him
+You got me over him
+Honey, it's true
+
+There's just you
+You must have been heaven sent
+Hearing me call you went
+Out on a limb
+
+And you're all that he's not
+Just look what I got
+'Cause you got it all
+Over him
+
+
+No
+Don't let him worry you so
+Once I met you I let go
+Oh, you can surely see
+You're so much more to me
+
+Just one look
+And I knew
+You would make everything clear
+Make all the clouds disappear
+
+You're better than all the rest
+Who do I love the best
+Don't you know
+Don't you know

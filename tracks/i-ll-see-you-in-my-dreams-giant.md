@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-see-you-in-my-dreams-giant
+lyrics_url: https://genius.com/Giant-ill-see-you-in-my-dreams-lyrics
 name: I'll See You In My Dreams
 rankings:
 - end_date: '1990-03-30'
@@ -87,4 +88,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-08-04'
 ---
+Gone, the voice that used to fill the room is all but gone
+An echo of a perfect love that ended wrong
+Girl, we tried so hard when love was on our side
+And yesterday will always be the reason why
 
+You keep comin'
+You keep comin' back
+You keep comin' back for more
+
+I'll see you in my dreams
+There we'll be safe tonight from the lonely days of memory
+I'll see you in my dreams, oh
+
+Time, time will never be a friend of mine again
+It tries to make your memory fade, but I won't let it end
+Let the sun go down, so I can drift away
+Let me close my eyes and live another day
+
+You keep comin'
+You keep comin' back
+You keep comin' back for more
+
+I'll see you in my dreams
+There we'll be safe tonight from the lonely days of memory
+I'll see you in my dreams, oh
+
+The truth, oh it's there for you to see
+Sometimes it's painful to be on your own, on your own
+
+I'll see you in my dreams
+There we'll be safe tonight from the lonely days of memory
+I'll see you in my dreams
+Back in my arms again and no matter what tomorrow brings
+I'll see you in my dreams
+Oh, oh, oh

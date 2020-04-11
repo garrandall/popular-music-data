@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-happy-organ-dave--baby--cortez
+lyrics_url: https://genius.com/Dave-baby-cortez-the-happy-organ-lyrics
 name: The Happy Organ
 rankings:
 - end_date: '1959-03-22'
@@ -75,4 +76,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-07-06'
 ---
+The best things in life are free, but you can give them to the birds and bees
+I need money
+That's what I want
+(That's what I want. That's what I want.)
+That's what I want, that 's what I want
+(That's what I want. That's what I want.)
 
+Your love gives me such a thrill, but your love don't pay my bills
+I need money
+That's what I want
+(That's what I want. That's what I want.)
+That's what I want, that 's what I want
+(That's what I want. That's what I want.)
+
+Money don't get ev'rything, it's true, but what it don't get I can't use
+I need money
+That's what I want
+(That's what I want. That's what I want.)
+That's what I want, that 's what I want
+(That's what I want. That's what I want.)
+
+Money, lots of money
+(That's what I want, uh huh.)
+Whole lot of money
+(That's what I want, uh huh.)
+Uh huh. Ah, ah, oh, yeah
+(That's what I want, uh huh. That's what I want.)
+(That's what I want, uh huh. That's what I want.)
+
+Money, lots of money
+(That's what I want, uh huh.)
+Whole lot of money
+(That's what I want, uh huh.)
+Uh huh. Ah, ah, oh, yeah
+(That's what I want, uh huh. That's what I want.)

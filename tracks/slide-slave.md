@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: slide-slave
+lyrics_url: https://genius.com/Slave-slide-lyrics
 name: Slide
 rankings:
 - end_date: '1977-06-24'
@@ -59,4 +60,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-09-10'
 ---
+Yeah, slide to me
+Won't you come away?
+Don't worry baby, everything's okay
 
+You can't run the game, if you don't know my name
+I'll take you where you've never been before
+There's something for you, a whole lot more
+You ain't got to seek, everyone knows you're a freak
+
+Slide, slide, slide
+Yeah, baby baby, slide
+Slide, slide, slide, slide
+Why don't you slide?
+
+Don't be afraid 'cause you gonna be laid
+I need you now don't let me down
+You're a low down lady, but your game is kinda shaky
+ when you want to get down
+
+Slide, slide, slide, slide
+Slide, slide, slide, slide
+Why don't you slide?
+
+You can slide, don't think I'm on it
+You can slide, don't think I'm on it
+You can slide, don't think I'm on it
+You can slide, don't think I'm on it

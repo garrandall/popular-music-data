@@ -6,6 +6,7 @@ features:
 - Justin Bieber
 genres: []
 key: despacito-luis-fonsi-daddy-yankee-justin-bieber
+lyrics_url: https://genius.com/Malinda-google-translate-sings-despacito-by-luis-fonsi-and-daddy-yankee-ft-justin-bieber-lyrics
 name: Despacito
 rankings:
 - end_date: '2017-02-10'
@@ -217,3 +218,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-01-20'
 ---
+Come at me
+Many priests, the good things in there
+Change all conditions in Heaven yes, Ae Ae
+Black dark day
+He made me feel something
+You are every night I want to slowly slowly taste
+My equality, how much love how to put it
+I have only one angle
+You seem to have ears, you feel my words
+You can spend a long time in a very short time
+
+
+You, you are a mechanic and made of iron
+See how, coming soon
+Simply pulse acceleration (Yes)
+If you are interested in more than money
+My mind is all necessary
+I killed without problems
+
+
+Quickly, I want to get rid of your throat
+I will show you something in your ear
+If you are not with me you will lose
+Quickly, gently shared your clothes locked, I want to
+Let’s sign a labyrinth wall
+And make plaintiff’s regime (Growing, growing, growing)
+Growing, growing plant
+
+
+I see your chest hair, I want to be your objective
+I want to see my face
+Favorite Business (Favorite, a favorite child)
+Vunerability to secure the Danger Zone
+It also provokes your jealousy
+A surname here is (Tell me, Dadi Derides)
+
+
+If I ask to see the kiss gimme, I know your belief converted
+Bucket I have sought for some time, mother, until today
+I know your heart I decided to be honest
+I know that the child is my right
+How do you know what comes to my face?
+I would, I wish, I want to know down the fullness of I love art
+I am in a hurry, I want to go
+First of all, surprise
+
+
+By steps, soft and flabby stage, we are a bit stranded
+I blame you for that, I see you are malice with delicacy
+By steps, soft and flabby stage, we are a bit weak and needy
+And its aesthetic is a conundrum but here I am on the mountain, oh yeah
+
+
+Quickly
+Retro, unknown, coastline, inside, profile, lit
+"Or a blessing!" from the howling waves
+So that my seal stays with you
+
+
+Quickly
+By steps, soft and flabby stage, we are a bit stranded
+I want to see my face, favorite business (Favorite, a favorite child)
+By steps, soft and flabby stage, we are a little bit stuck
+It also provokes your jealousy, a surname here
+Quickly

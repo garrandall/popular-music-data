@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-i-m-for-real-the-originals
+lyrics_url: https://genius.com/The-originals-baby-im-for-real-lyrics
 name: Baby I'm For Real
 rankings:
 - end_date: '1969-10-03'
@@ -71,4 +72,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-10'
 ---
+Baby, baby
+You don't understand
+How much I love you baby
+And how much I wanna be your only man, oh baby
 
+
+Baby, baby, baby
+You don't have to go
+Stay a little while longer baby
+I wanna talk to you just a little more
+
+
+I see the little tears in your eyes about to fall
+You are wondering if I'm for real
+But if you cry, I wonder why you cry
+I tell you, know why this is how I feel
+
+
+Baby I'm for real
+(Baby I'm for real)
+(Baby I'm for real)
+
+
+But if you wanna know the truth about it
+Girl, I just can't live with out you
+And that's why I'm confessing my love to you
+So that I can live my whole life with you
+
+
+Baby, baby, baby
+(My whole life with you)
+Don't leave
+(My whole life with you)
+Never, never, never, never gonna leave you baby
+(My whole life with you)
+Oh
+(My whole life with you)

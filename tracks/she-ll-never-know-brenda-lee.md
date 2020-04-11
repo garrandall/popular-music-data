@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-ll-never-know-brenda-lee
+lyrics_url: https://genius.com/Brenda-lee-shell-never-know-lyrics
 name: She'll Never Know
 rankings:
 - end_date: '1963-02-01'
@@ -31,4 +32,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-02'
 ---
+I wish the very best to you and your new love
+And all you do
+Don't worry about my love for you
+She'll never know, oh never know
 
+Oh how I wish I could forget
+But secretly I love you yet
+But if she's the one I've no regrets
+She'll never know
+
+I'm the one you told goodbye
+I'm the one that you made cry
+And I'm the one who's lips you taught to kiss
+
+Yes, I'm the one who's lonely now
+But I'm gonna get by, someway, somehow
+She'll take your hand, but I'll take this vow
+She'll never know
+
+I'm the one you told goodbye
+I'm the one that you made cry
+And I'm the one who's lips you taught to kiss
+
+Whoa oh oh, I'm the one who's lonely now
+But, I'll get by someway, somehow
+She'll take your hand, but I'll take this vow
+She'll never know

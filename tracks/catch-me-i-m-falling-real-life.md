@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: catch-me-i-m-falling-real-life
+lyrics_url: https://genius.com/Real-life-catch-me-im-falling-lyrics
 name: Catch Me I'm Falling
 rankings:
 - end_date: '1984-03-30'
@@ -51,4 +52,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-06-02'
 ---
+I lay down to rest my head
+My soul to keep the night ahead
+It's no dream
+Slumber comes as darkness falls
+And Shadows dance across my walls
+It's no dream
 
+Well I never sleep alone
+(Wake up don't sleep)
+My dreams become so real to me
+(Wake up don't sleep)
+I unplug the phone
+While the night is young
+
+Catch me I'm falling
+Down again
+I know it's a dream but
+Just the same
+
+There's a face before my eyes
+Are closed but I can recognise
+The danger there
+Slumber comes and darkness falls
+And shadows dance across my walls
+It's no dream
+
+Well I never sleep alone
+(Wake up don't sleep)
+My dreams become so real to me
+(Wake up don't sleep)
+I unplug the phone
+While the night is young
+
+Catch me I'm falling
+Down again
+I know it's a dream but
+Just the same
+Catch me I'm falling
+Falling
+
+Catch me I'm falling
+Down again
+I know it's a dream but
+Just the same
+Catch me I'm falling
+Down again
+I know it's a dream but
+Just the same
+
+I'm falling
+I'm falling
+
+Catch me I'm falling
+
+I'm falling
+
+Catch me I'm falling
+I'm falling
+
+Catch me I'm falling
+I'm falling

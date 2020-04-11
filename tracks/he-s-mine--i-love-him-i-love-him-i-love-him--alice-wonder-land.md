@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: he-s-mine--i-love-him-i-love-him-i-love-him--alice-wonder-land
+lyrics_url: https://www.musixmatch.com/lyrics/Alice-Wonder-Land/He-s-Mine
 name: He's Mine (I Love Him I Love Him I Love Him)
 rankings:
 - end_date: '1963-09-20'
@@ -35,4 +36,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-26'
 ---
+I know he doesn't
+Have much dough
+But he will someday
+Somehow
 
+He starts his hard work
+After school
+Let me tell you
+He's nobody's fool
+
+And he's mine
+(I love him, I love him)
+(I love him) oh, he's mine
+(I love him, I love him)
+(I love him) yeah, he's mine
+(I love him, I love him)
+(I love him) he's so fine
+And he's mine, all mine
+
+He doesn't leave any doubt
+He goes his own way
+And he's stout
+He's right to hold
+His head up high
+I tell you he's
+The greatest guy
+
+And he's mine
+(I love him, I love him)
+(I love him) oh, he's mine
+(I love him, I love him)
+(I love him) yeah, he's mine
+(I love him, I love him)
+(I love him) he's so fine
+And he's mine, all mine
+
+And he's mine
+(I love him, I love him)
+(I love him) oh, he's mine
+(I love him, I love him)
+(I love him) yeah, he's mine
+(I love him, I love him)
+(I love him) he's so fine
+And he's mine, all mine
+
+And he's mine
+(I love him, I love him)
+(I love him) oh, he's mine
+(I love him, I love him)
+(I love him) yeah, he's mine
+(I love him, I love him)
+(I love him) he's so fine
+And he's mine, all mine
+
+And he's mine
+(I love him, I love him)
+(I love him) oh, he's mine
+(I love him, I love him)
+(I love him) yeah, he's mine
+(I love him, I love him)
+(I love him) he's so fine
+And he's mine, all mine

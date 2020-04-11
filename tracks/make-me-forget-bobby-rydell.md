@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-me-forget-bobby-rydell
+lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Rydell/Make-Me-Forget
 name: Make Me Forget
 rankings:
 - end_date: '1964-04-03'
@@ -31,4 +32,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-02'
 ---
+Make me forget her
+With her lips on mine
+Make me forget her
+Kisses sweet as wine
 
+Leave me this day and take
+Her memories from my heart
+Make me forget her
+And fall for you
+
+Make me forget the way
+I held her near
+Make me forget her
+Now that you are here
+
+Show me the way to leave
+My cares so far behind
+Make me forget her
+And fall for you
+
+No use resisting
+The look that's in your eyes
+Tried to fight but
+I can't win so I gotta give in
+
+Make me forget the one
+I left behind
+Make me forget her
+Or else I'll lose my mind
+
+Give me your love and take
+The place here in my heart
+Then I'll forget her
+And fall for you
+
+No use resisting
+The look that's in your eyes
+Tried to fight but
+I can't win so I gotta give in
+
+Make me forget the one
+I left behind
+Make me forget her
+Or else I'll lose my mind
+
+Give me your love and take
+The place here in my heart
+Then I'll forget her
+And fall for you
+
+Give me your love and take
+The place here in my heart
+Then I'll forget her
+And fall for you

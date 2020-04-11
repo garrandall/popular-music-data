@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-it-s-at--yep-yep--dustin-lynch
+lyrics_url: https://genius.com/Dustin-lynch-where-its-at-lyrics
 name: Where It's At (Yep Yep)
 rankings:
 - end_date: '2014-05-09'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-10-04'
 ---
+It ain’t in a high rise looking for a good time shutting down the city lights
+It ain’t in the water floating like a bobber soaking up that hot sunshine
+As good as it gets, no that ain’t where it is
 
+
+It’s at 2 A.M. when she's reaching over
+Faded T-shirt hanging off her shoulder
+Dressed up, hair down, in a ball cap
+Yep Yep, as long as I get that
+Sweet little something late night kiss
+On a plane or a train or way back in the sticks
+I swear, if she's there, that’s where
+Yep yep, that's where it's at
+
+
+It ain’t in a suped-up shiny red new truck, if she ain’t to my right
+It ain’t in a dive bar, tall can of PBR, poppin' tops rockin' all night
+As good as it gets, no, that ain’t where it is
+
+
+It’s at 2 A.M. when she's reaching over
+Faded T-shirt hanging off her shoulder
+Dressed up, hair down, in a ball cap
+Yep Yep, as long as I get that
+Sweet little something late night kiss
+On a plane or a train or way back in the sticks
+I swear, if she's there, that’s where
+Yep yep, that's where it's at
+
+
+No, it don’t matter wherever we’re at (no)
+No, it don’t get no better than that
+It ain’t in a suped-up shiny red new truck, if she ain’t to my right
+
+
+It’s at 2 A.M. when she's reaching over
+Faded T-shirt hanging off her shoulder
+Dressed up, hair down, in a ball cap
+Yep Yep, as long as I get that
+Sweet little something late night kiss
+On a plane or a train or way back in the sticks
+I swear, if she's there, that’s where
+Yep yep, that's where it's at
+
+
+Yeah, that’s where it’s at
+Yep, yep, (that’s where it’s at)
+2 A.M. when she’s reaching’ over
+Faded t-shirt hanging off her shoulder (that’s where it’s at)

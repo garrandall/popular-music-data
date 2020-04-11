@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: shake-and-fingerpop-jr--walker-the-all-stars
+lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-shake-and-fingerpop-lyrics
 name: Shake And Fingerpop
 rankings:
 - end_date: '1965-08-06'
@@ -40,4 +41,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-18'
 ---
+Put on your wig, woman
+We goin' out to shake and fingerpop, hey baby
+I said, put on your wig, woman
+We goin' out to shake and fingerpop, hey girl
+We gonna get out on the floor now
+Dance like we never dance befo', right on
 
+I said, look at them people
+Tryin' the big, Fly
+Doin' The Barracuda
+The Jerk and The Twine
+
+Kick off your shoes, baby
+And get in the groove
+'Cause when you hear the music
+Yo' feet has got to move
+
+I said, put on your wig, woman
+Goin' out to shake and fingerpop
+That's what I'll do
+Gonna get out on the floor now
+Dance like we never danced befo'
+Dance, dance
+
+I said, do The Boomerang
+The Twine and The Jerk
+They're jammin' at the bandstand
+So ev'rybody work
+
+I said, put on your wig, woman
+We goin' out to shake and fingerpop
+Stay is what I'll do
+Gonna get out on the floor, now
+Dance like we never danced befo'
+Hey, shake

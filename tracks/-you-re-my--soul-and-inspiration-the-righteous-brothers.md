@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -you-re-my--soul-and-inspiration-the-righteous-brothers
+lyrics_url: https://genius.com/The-righteous-brothers-youre-my-soul-and-inspiration-lyrics
 name: (You're My) Soul And Inspiration
 rankings:
 - end_date: '1966-03-11'
@@ -59,4 +60,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-28'
 ---
+Girl, I can't let you do this
+Let you walk away
+Girl, how can I live through this?
+When you're all I wake up for each day baby
 
+You're my soul and my heart's inspiration
+You're all I got to get me by
+You're my soul and my heart's inspiration
+Without you baby what good am I?
+
+I never had much going
+But at least I had you
+How can you walk out knowing
+I ain't got nothing left if you do, baby
+
+You're my soul and my heart's inspiration
+You're all I got to get me by
+You're my soul and my heart's inspiration
+Without you baby what good am I?
+Oh, what good am I?
+
+Baby, I can't make it without you
+And I'm, I'm telling you honey
+You're my reason for laughing, for crying
+For living and for dying
+
+Baby, I can't make it without you
+Please, I'm begging you baby
+If you go it will kill me, I swear it
+Girl, I just can't bear it
+
+You're my soul and my heart's inspiration
+You're all I got to get me by
+You're my soul and my heart's inspiration
+Without you baby what good am I?
+What good am I?
+
+Mmm
+Ooh

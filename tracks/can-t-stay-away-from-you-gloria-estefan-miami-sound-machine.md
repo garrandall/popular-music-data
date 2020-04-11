@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: can-t-stay-away-from-you-gloria-estefan-miami-sound-machine
+lyrics_url: https://genius.com/Gloria-estefan-cant-stay-away-from-you-lyrics
 name: Can't Stay Away From You
 rankings:
 - end_date: '1987-11-27'
@@ -100,4 +101,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-04-23'
 ---
+"Time flies when you're having fun"
+I heard somebody say
+But if all I've been is fun
+Then baby let me go
+Don't wanna be in your way
 
+And I don't wanna be your second choice
+Don't wanna be just your friend
+You keep telling me that you're not in love
+You wanna throw it all away
+
+But I can't stay away from you
+I don't wanna let you go
+And though it's killing me that's true
+There's just some things I can't control
+
+Your love is slipping through my hands
+And though I've heard it all before
+I know you're telling me the truth
+I know it's just no use
+But I can't stay away from you
+
+Hold on to every bit of hope
+That's all I ever do
+Hoping you might change your mind
+And call me up to say
+How much you need me too
+
+And though you're leaving me no other choice
+Than to turn and walk away
+Look over your shoulder, I'll be there
+You can count on me to stay
+
+'Cause I can't stay away from you
+I don't wanna let you go
+And though it's killing me that's true
+There's just some things I can't control
+
+Your love slipping through my hands
+And though I've heard it all before
+I know you're telling me the truth
+I know it's just no use
+But I can't stay away from you
+
+I know you're telling me the truth
+I know it's just no use
+But I can't stay away from you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-kill--bury-me--thirty-seconds-to-mars
+lyrics_url: https://genius.com/Thirty-seconds-to-mars-the-kill-bury-me-lyrics
 name: The Kill (Bury Me)
 rankings:
 - end_date: '2006-08-11'
@@ -87,4 +88,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-12-16'
 ---
+What if I wanted to break?
+Laugh it all off in your face
+What would you do?
+What if I fell to the floor?
+Couldn't take all this anymore
+What would you do (Do, do)?
 
+
+Come, break me down
+Bury me, bury me
+I am finished with you
+
+
+What if I wanted to fight?
+Beg for the rest of my life
+What would you do (Do, do)?
+You say you wanted more
+What are you waiting for?
+I'm not running from you (From you)
+
+
+Come, break me down
+Bury me, bury me
+I am finished with you
+Look in my eyes
+You're killin' me, killin' me
+All I wanted was you
+
+
+I tried to be someone else
+But nothing seemed to change
+I know now, this is who I really am inside
+Finally found myself fighting for a chance
+I know now, this is who I really am
+Oh, oh
+Oh, oh
+Oh, oh
+
+
+Come, break me down
+Bury me, bury me
+I am finished with you, you, you
+Look in my eyes
+You're killing me, killing me
+All I wanted was you
+
+
+Come, break me down
+Break me down, break me down
+(You say you wanted more)
+What if I wanted to break?
+(What are you waiting for?)
+(I'm not running from you)
+What if I, what if I, what if I, what if I
+Bury me, bury me

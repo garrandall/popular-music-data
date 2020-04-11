@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: better-than-i-used-to-be-tim-mcgraw
+lyrics_url: https://genius.com/Tim-mcgraw-better-than-i-used-to-be-lyrics
 name: Better Than I Used To Be
 rankings:
 - end_date: '2012-01-06'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-06-16'
 ---
+I know how to hold a grudge
+I can send a bridge up in smoke
+And I can't count the people I've let down, the hearts I've broke
+You ain't gotta dig too deep
+If you wanna find some dirt on me
+I'm learning who you've been
+Ain't who you've got to be
+It's gonna be an uphill climb
+Aw honey I won't lie
 
+
+I ain't no angel
+I still got a few more dances with the devil
+I’m cleaning up my act little by little
+I’m getting there
+I can finally stand the man in the mirror I see
+I ain’t as good as I’m gonna get
+But I’m better than I used to be
+
+
+I’ve pinned a lot of demons to the ground
+I’ve got a few old habits left
+But there’s still one or two I might need you to help me get
+Standing in the rain so long has left me with a little rust
+But put some faith in me
+And someday you’ll see
+There’s a diamond under all this dust
+
+
+I ain't no angel
+I still got a few more dances with the devil
+I’m cleaning up my act little by little
+I’m getting there
+I can finally stand the man in the mirror I see
+I ain’t as good as I’m gonna get
+But I’m better than I used to be
+
+
+I ain't no angel
+I still got a few more dances with the devil
+I’m cleaning up my act little by little
+I’m getting there
+I can finally stand the man in the mirror I see
+I ain’t as good as I’m gonna get
+But I’m better than I used to be

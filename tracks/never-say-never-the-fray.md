@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-say-never-the-fray
+lyrics_url: https://genius.com/The-fray-never-say-never-lyrics
 name: Never Say Never
 rankings:
 - end_date: '2009-07-03'
@@ -87,4 +88,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-11-07'
 ---
+Some things we don't talk about
+Rather do without and just hold the smile
+Falling in and out of love
+Ashamed and proud of, together all the while
 
+
+You can never say never
+While we don't know when
+But time and time again
+Younger now than we were before
+
+
+Don't let me go
+Don't let me go
+Don't let me go
+Don't let me go
+Don't let me go
+Don't let me go
+
+
+Picture, you're the queen of everything
+Far as the eye can see under your command
+I will be your guardian when all is crumbling
+I'll steady your hand
+
+
+You can never say never
+While we don't know when
+But time, time, and time again
+Younger now than we were before
+
+
+Don't let me go
+Don't let me go
+Don't let me go
+Don't let me go
+Don't let me go
+Don't let me go
+
+
+We're pulling apart and coming together again and again
+We're growing apart, but we pull it together
+Pull it together, together again
+
+
+Don't let me go
+Don't let me go
+Don't let me go
+Don't let me go
+Don't let me go
+Don't let me go
+Don't let me go
+Don't let me go
+Don't let me go
+Don't let me go
+Don't let me go
+Don't let me go

@@ -1,9 +1,11 @@
 ---
 artists:
-- Duane Eddy And The Rebels
+- Duane Eddy
+- The Rebels
 features: []
 genres: []
 key: because-they-re-young-duane-eddy-and-the-rebels
+lyrics_url: https://genius.com/Duane-eddy-and-the-rebels-because-theyre-young-lyrics
 name: Because They're Young
 rankings:
 - end_date: '1960-05-29'
@@ -67,4 +69,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-29'
 ---
-
+Because they're young, because they're young
+The stars are twice as bright above
+Their dreams are new but they'll come true
+Because they're young and in love
+Just like me and you
+See the happy couples strolling through the park
+Swinging hands as they go by
+We know they feel the way we feel
+And we also know the reason why
+Because they're young, because they're young
+The stars are twice as bright above
+Their dreams are new but they'll come true
+Because they're young and in love
+Just like me and you
+See the way they search to find a secret spot
+Now at last they're all alone
+They touch, they kiss and breathe each kiss
+They remind us of the joy we've known
+Because they're young, because they're young
+The stars are twice as bright above
+Their dreams are new but they'll come true
+Because they're young and in love
+Just like me and you
+Just like me and you

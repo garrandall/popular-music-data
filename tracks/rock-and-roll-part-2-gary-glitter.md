@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-and-roll-part-2-gary-glitter
+lyrics_url: https://genius.com/Gary-glitter-rock-and-roll-part-2-lyrics
 name: Rock And Roll Part 2
 rankings:
 - end_date: '1972-07-28'
@@ -51,4 +52,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-30'
 ---
-
+Hey! Hey!
+Hey! Hey! Hey! Hey!
+Hey! Heey! Heey!
+Hey! Huh! Huh! Huh!
+Pshhhh...
+Heeey! Heeey! Heeey!
+Hey! Huh! Psh! Huh! Huh!
+He-ey! He-ey! He-e-ey! He-e-ey, he-e-ey!
+He-ey, he-ey! He-e-e-ey, he-e-e-ey, he-e-e-ey!
+He-ey, he-ey! He-ey, he-ey!
+He-e-e-e-ey... ouuuu!
+Hey! Heeey! Heeey!
+Huh! Huh! Huh! Huh!
+He-ey, he-ey! He-e-ey! He-e-ey, he-e-ey!
+He-e-e-ey! He-ey, he-ey! He-ey, he-ey! He-ey, he-ey!
+He-e-e-ey, he-e-e-ey, he-e-e-ey, he-e-e-ey
+He-e-e-ey, he-e-e-ey, he-e-e-ey, he-e-e-ey
+Ouuu...
+Hey!

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ooh--mary-j--blige
+lyrics_url: https://genius.com/Mary-j-blige-ooh-lyrics
 name: Ooh!
 rankings:
 - end_date: '2003-09-12'
@@ -55,4 +56,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-11-22'
 ---
+In the middle of the night, you hold me tight
+Said it's alright, I'm yours forever
+I do what you want, if you don't hurt me
+I'll cook and clean, I'll make you happy
 
+
+Ooh, what you do to me
+(What you do to me)
+Ooh, you're my everything
+(You're my everything)
+Ooh, I'm so glad I found you
+(I'm so glad I found you)
+Ooh, I can't live without you
+
+
+Got a jones in my bones, and it's all for you, babe
+Can't leave you alone, I'm so addicted
+I can't shake thang, it's the sweetest pain
+So who's your girl? You better say my name
+
+
+Ooh, what you do to me
+(What you do to me, baby baby baby)
+Ooh, you're my everything
+(You're my every, everything)
+And ooh, I'm so glad I found you
+(I'm so glad I found you, yeah)
+Ooh, I can't live without you
+
+
+What you do to me, it's just a mystery
+It's hard to believe, that you are here with me
+Making all my dreams a sweet reality
+All my life I tried to find what's best for me
+It's you
+
+
+Ooh, what you do to me
+(What you do to me, baby baby)
+Ooh you're my everything
+(You're my everything)
+Ooh I'm so glad I found you
+(I'm so glad I found you, baby)
+Ooh I can't live without you
+(What you do to me, baby)
+Ooh, what you do to me
+Ooh, you're my everything
+(You're my everything, everything)
+Ooh, I'm so glad I found you
+Ooh, I can't live without you
+(I can't live without you)
+Ooh, what you do to me
+(What you do to me, baby baby)
+Ooh, you're my everything
+(You're my everything)
+Ooh, I'm so glad I found you
+(I'm so glad that I found you)
+Ooh, I can't live without you
+
+
+What you do to me it's just a mystery
+It's hard to believe that you are here with me
+Making all my dreams a sweet reality
+(You made all my dreams, made 'em all come true)
+All my life I tried to find what's best for me
+It's you
+
+
+Ooh, what you do to me
+(What you do to me)
+Ooh, you're my everything
+(Everything, baby)
+Ooh, I'm so glad I found you
+(I'm so glad I found you)
+Ooh, I can't live without you
+(I can't live, I can't live without you)
+Ooh, what you do to me
+Ooh, you're my everything
+Ooh, I'm so glad I found you
+(I'm so glad I found you)
+Ooh, I can't live without you

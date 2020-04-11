@@ -1,9 +1,10 @@
 ---
 artists:
-- Lloyd Price and His Orchestra
+- Lloyd Price
 features: []
 genres: []
 key: for-love-lloyd-price-and-his-orchestra
+lyrics_url: https://www.musixmatch.com/lyrics/Lloyd-Price/For-Love
 name: For Love
 rankings:
 - end_date: '1960-05-08'
@@ -31,4 +32,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-06-06'
 ---
+(For love)
+Honey may I change your name
+(For love)
+I know I'll be a happy man
+(For love)
+Losing you would be a shame
+(For love)
+I'm sewn to you, ball and chain.
 
+For love, for love, for love, your love
+For love, for love, for love
+
+(For love)
+Maybe we could settle down
+(For love)
+In some little country town
+(For love)
+I'd buy myself a rockin' chair
+(For love)
+And maybe we'll be happy there
+
+For love, for love, for love, your love
+For love, for love, for love
+
+(Music interlude)
+
+For love, for love, for love, your love
+For love, for love, for love
+
+(For love)
+Honey may I change your name
+(For love)
+I know I'll be a happy man
+(For love)
+Losing you would be a shame
+(For love)
+I'm sewed to you, ball and chain.
+
+For love, for love, for love, your love
+For love, for love, for your love

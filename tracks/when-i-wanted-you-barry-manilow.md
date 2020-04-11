@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-i-wanted-you-barry-manilow
+lyrics_url: https://genius.com/Barry-manilow-when-i-wanted-you-lyrics
 name: When I Wanted You
 rankings:
 - end_date: '1979-12-21'
@@ -71,4 +72,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-29'
 ---
+Tho' we're going our separate ways
+There can only be brighter days
+'Cause I didn't mean that much to you
+Work it out, don't lose the fight
+You can make it turn out right
+'Cause you've got the heart to be secure
 
+When I wanted you I needed you
+And I still can't bring myself to say I'm over you
+When I gave you time to make up your mind
+You turned you back on me
+And now I've got to turn my back on you
+
+After all that we've been through
+Leavin' you is so hard to do
+But when I close my eyes I don't feel the pain
+What was wrong and who was right
+In the end you see the light
+'Cause you think a lot when you're on your own
+
+When I wanted you
+I needed you
+And I still can't bring myself to say I'm over you
+When I gave you time to make up your mind
+You turned you back on me
+And now I'm turnin' mine on you
+
+Now you're on your own
+How does it feel
+To feel the way I used to feel
+
+Chorus

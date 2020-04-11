@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-tonight-nancy-martinez
+lyrics_url: https://genius.com/Nancy-martinez-for-tonight-lyrics
 name: For Tonight
 rankings:
 - end_date: '1986-10-10'
@@ -91,4 +92,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-02-21'
 ---
+Another night
+It's getting colder
+Just when I thought that it was over
+I realized that I can't be denied
+Your love
+It's taking me over
+Many times I've tried to spend to many lies
+I've forgiven you
 
+You got your foolish pride
+And you know down deep inside
+I'm breaking all the rules
+What else can I do?
+
+Cause for tonight
+A little love and candlelight
+For tonight
+A little love and candlelight
+Can't we be in love for just one night?
+
+I couldn't see that deep inside of me
+I couldn't hold on any longer
+Can't believe how you get to me
+I know
+It keeps getting stronger
+Many times I've tried to tell you
+All the reasons why I'm leaving you
+
+You got your foolish pride
+And you know down deep inside
+I'm breaking all the rules
+What else can I do?
+
+Cause for tonight
+A little love and candlelight
+For tonight
+A little love and candlelight
+Can't we be in love for just one night?
+
+Cause for tonight
+A little love and candlelight
+For tonight
+A little love and candlelight
+Can't we be in love for just one night?
+
+Cause for tonight
+A little love and candlelight
+For tonight
+A little love and candlelight
+Can't we be in love for just one night?

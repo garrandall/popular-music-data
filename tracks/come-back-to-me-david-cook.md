@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-back-to-me-david-cook
+lyrics_url: https://genius.com/David-cook-come-back-to-me-lyrics
 name: Come Back To Me
 rankings:
 - end_date: '2009-04-24'
@@ -83,4 +84,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-10-03'
 ---
+You say you gotta go and find yourself
+You say that you're becoming someone else
+Don't recognize the face in the mirror looking back at you
+You say you're leaving as you look away
+I know there's really nothing left to say
+Just know I'm here whenever you need me
+I'll wait for you
 
+
+So I'll let you go, I'll set you free
+And when you've seen what you need to see
+When you find you, come back to me
+
+
+Take your time, I won't go anywhere
+Picture you with the wind in your hair
+I'll keep your things right where you left them
+I'll be here for you
+
+
+Oh and I'll let you go, I'll set you free
+And when you've seen what you need to see
+When you find you, come back to me
+And I hope you find everything that you need
+I'll be right here waiting to see
+You find you, come back to me
+
+
+I can't get close if you're not there
+I can't get inside if there's no soul there
+I can't fix you, I can't save you
+It's something you'll have to do
+
+
+So I'll let you go, I'll set you free
+And when you've seen what you need to see
+When you find you, come back to me
+Come back to me
+
+
+So I'll let you go, I'll set you free
+And when you've seen what you need to see
+When you find you, come back to me
+And I hope you find everything that you need
+I'll be right here waiting to see
+When you find you, come back to me
+
+
+Ah, ooo
+Ah, ooo
+When you find you, come back to me
+Ah, ooo
+Ah, ooo
+When you find you, come back to me
+When you find you, come back to me

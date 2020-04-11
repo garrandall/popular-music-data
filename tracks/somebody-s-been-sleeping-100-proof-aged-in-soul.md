@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somebody-s-been-sleeping-100-proof-aged-in-soul
+lyrics_url: https://genius.com/100-proof-aged-in-soul-somebodys-been-sleeping-lyrics
 name: Somebody's Been Sleeping
 rankings:
 - end_date: '1970-09-11'
@@ -63,4 +64,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-12-05'
 ---
-
+Fe Fi Fo Fum
+I can feel the presence of someone
+Somebody's been sleeping in my bed
+Somebody's been sitting in my chair
+They ate up all my food
+And I don't stand to search
+Don't ell me it was a woman
+'Cause a woman don't eat that much
+My brand new silk pajama's
+They're rolled up in the chair
+My mind ain't playing tricks on me
+Now tell me is he still here
+Somebody's been sleeping in my bed
+Somebody's been sitting in my chair
+Cigarettes in my ashtray
+And I don't even smoke
+Somebody's been in my best booze
+I can tell cause the seal is broke
+I left my bedroom slippers
+Last night underneath of my bed
+And now they're in my living room
+And my bed was left unmade
+Somebody's been sleeping in my bed
+Somebody's been sitting in my chair
+Fe Fi Fo Fum
+I can feel the presence of someone
+Fe Fi Fo Fum
+I can feel the presence of someone
+Somebody's been sleeping in my bed
+Somebody's been eating my food
+Somebody's been looking at my shoes
+Somebody's been sitting in my chair
+Somebody's been sleeping in my bed

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-is-no-arizona-jamie-o-neal
+lyrics_url: https://www.musixmatch.com/lyrics/Jamie-O-Neal/There-Is-No-Arizona
 name: There Is No Arizona
 rankings:
 - end_date: '2000-12-29'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-05-05'
 ---
+He promised her a new and better life
+Out in Arizona
+Underneath the blue neverending sky
+Swore that he was gonna
+Get things in order
+He'd send for her
+When he left her behind
+It never crossed her mind
 
+There is no Arizona
+No Painted Desert, no Sedona
+If there was a Grand Canyon
+She could fill it up with the lies he's told her
+But they don't exist, those dreams he sold her
+She'll wake up and find there is no Arizona
+
+She got a postcard with no return address
+Postmarked Tombstone
+It said, "I don't know where I'm goin' next
+But when I do I'll let you know"
+May, June, July
+She wonders why
+She's still waiting
+She'll keep waiting
+
+'Cause there is no Arizona
+No Painted Desert, no Sedona
+If there was a Grand Canyon
+She could fill it up with the lies he's told her
+But they don't exist, those dreams he sold her
+She'll wake up and find there is no Arizona
+
+Each day the sun sets into the west
+Her heart sinks lower in her chest
+And friends keep asking when she's going
+Finally she tells them, don't you know
+
+There is no Arizona
+No Painted Desert, no Sedona
+If there was a Grand Canyon
+She could fill it up with the lies he's told her
+But they don't exist, those dreams he sold her
+She'll wake up and find there is no Arizona
+
+He promised her a new and better life
+Out in Arizona

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: puppy-love-barbara-lewis
+lyrics_url: https://genius.com/Barbara-lewis-puppy-love-lyrics
 name: Puppy Love
 rankings:
 - end_date: '1964-01-17'
@@ -55,4 +56,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
 ---
+Puppy love
+Donny Osmond
+(Paul Anka)
 
+And they called it puppy love
+Oh, I guess they'll never know
+How a young heart really feels
+And why I love her so
+
+And they called it puppy love
+Just because we're in our teens
+Tell them all it isn't fair
+To take away my only dream
+
+I cry each night my tears for you
+My tears are all in vain
+I'll hope and I'll pray that maybe someday
+You'll be back in my arms once again
+
+Someone, help me, help me, help me please
+Is the answer up above
+How can I, how can I tell them
+This is not a puppy love

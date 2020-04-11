@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: calling-america-electric-light-orchestra
+lyrics_url: https://genius.com/Electric-light-orchestra-calling-america-lyrics
 name: Calling America
 rankings:
 - end_date: '1986-02-07'
@@ -67,4 +68,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-10'
 ---
+(Somebody)
+Told her that there was a place like Heaven
+'Cross the water on a 747
+Yeah we're living in
+In a modern world
+(Dum-dee-doo-doo-doo-dum)
+And pretty soon she'd really got the notion
+Of flying out across the big blue ocean
+Yeah we're living in
+In a modern world
 
+Talk is cheap on satellite
+But all I get is (static)
+Information, I'm still here
+Redial on automatic
+
+Calling America
+Can't get a message through
+Calling America
+That's what she said to do
+Calling America
+That's where she has to be
+Calling America
+She left a number for me
+
+But I'm just talking to a satellite
+Twenty-thousand miles up in the sky each night
+Yeah we're living in
+In a modern world
+(Dum-dee-doo-doo-doo-dum)
+All I had to do was pick up the phone
+I'm out in space trying to talk to someone
+Yeah we're living in
+In a modern world
+
+She left a number I could call
+But no one's there, no one at all
+There must be something going wrong
+That number just rings on and on
+
+Calling America
+Can't get a message through
+Calling America
+That's what she said to do
+Calling America
+That's where she has to be
+Calling America
+She left a number for me
+
+Said she'd call when she'd been gone a while
+Guess she's missing me across the miles
+Yeah, we're living in
+In a modern world
+
+Calling America
+Can't get a message through
+Calling America
+That's what she said to do
+Calling America
+That's where she has to be
+Calling America
+She left a number for me
+
+Calling America, Calling America

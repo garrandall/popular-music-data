@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-love-me-love-frank-mills
+lyrics_url: https://www.musixmatch.com/lyrics/Frank-Mills/Love-Me-Love-Me-Love
 name: Love Me Love Me Love
 rankings:
 - end_date: '1972-02-04'
@@ -43,4 +44,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-25'
 ---
+Standing on a corner
+Passing time away
+I thought I heard an organ grinder
+Singing as he played
+He had a little monkey
+With a little cup of tin
+And he danced for joy
+Hen someone put a penny in
 
+He sang, love me, love me, love
+Why did you ever leave me, girl
+If you love me, love me, love
+Why did you ever go
+If you love me, love me, love
+Why did you ever leave me, girl
+If you love me, love me, love
+Why did you ever go
+
+I couldn't help but wonder
+How the old man got his song
+What a tragic tale of loneliness
+How fate had done him wrong
+Whatever made the old man
+Want to brave the cold and rain
+And tell the world his story
+'Til death could ease the pain
+
+He sang, love me, love me, love
+Why did you ever leave me, girl
+If you love me, love me, love
+Why did you ever go
+If you love me, love me, love
+Why did you ever leave me, girl
+If you love me, love me, love
+Why did you ever go
+
+I went back to the corner
+Just to hear the old man play
+A policeman said the old man died
+One cold November day
+I waited for a minute
+Then sadly walked away
+Though I couldn't see the old man
+I'm sure I heard him play
+
+He sang, love me, love me, love
+Why did you ever leave me, girl
+If you love me, love me, love
+Why did you ever go
+If you love me, love me, love
+Why did you ever leave me, girl
+If you love me, love me, love
+Why did you ever go

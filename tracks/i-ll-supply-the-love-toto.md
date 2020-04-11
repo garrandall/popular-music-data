@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-supply-the-love-toto
+lyrics_url: https://genius.com/Toto-ill-supply-the-love-lyrics
 name: I'll Supply The Love
 rankings:
 - end_date: '1979-02-16'
@@ -43,4 +44,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-04-07'
 ---
+You supply the night, baby
+I'll supply the love
+You supply the night, baby
+I'll supply the love
 
+I see a horseman in the sky
+It makes me turn and wonder why
+I hear the same old fourteen reasons
+Must be the changin' of the seasons
+
+You supply the night, baby
+I'll supply the love
+You supply the night, baby
+I'll supply the love
+
+I met the girl across the sea
+She saved my life and came with me
+A tender night of dark persuasion
+Could be my first and last occasion
+
+You supply the night, baby
+I'll supply the love
+You supply the night, baby
+I'll supply the love
+
+You supply the night, baby
+I'll supply the love
+You supply the night, baby
+I'll supply the love
+
+You supply the night, baby
+I'll supply the love
+You supply the night, baby
+I'll supply the love
+
+Baby, I'll supply the love
+Baby, I'll supply the
+I'll supply the love

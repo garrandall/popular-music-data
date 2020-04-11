@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: harvest-for-the-world-the-isley-brothers
+lyrics_url: https://genius.com/The-isley-brothers-harvest-for-the-world-lyrics
 name: Harvest For The World
 rankings:
 - end_date: '1976-08-27'
@@ -51,4 +52,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-10-30'
 ---
+All babies together, everyone a seed
+Half of us are satisfied, half of us in need
+Love's bountiful in us, tarnished by our greed
+When will there be a harvest for the world
 
+A nation planted, so concerned with gain
+As the seasons come and go, greater grows the pain
+And far too many feelin' the strain
+When will there be a harvest for the world
+
+Gather every man, gather every woman
+Celebrate your lives, give thanks for your children
+Gather everyone, gather all together
+Overlooking none, hopin' life gets better for the world
+
+Dress me up for battle, when all I want is peace
+Those of us who pay the price, come home with the least
+Nation after nation, turning into beast
+When will there be a harvest for the world?
+When will there be?
+I wanna know now, now
+When will there be, a harvest?
+When will there be, a harvest?
+When will there be, a harvest?
+When will there be, a harvest?
+When will there be, a harvest?
+When will there be, a harvest?
+When will there be?
+When will there be?
+Everybody, talking bout the children
+When will there be, a harvest?
+When will there be?

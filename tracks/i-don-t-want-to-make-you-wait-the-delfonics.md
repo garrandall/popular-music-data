@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-want-to-make-you-wait-the-delfonics
+lyrics_url: https://genius.com/The-delfonics-i-dont-want-to-make-you-wait-lyrics
 name: I Don't Want To Make You Wait
 rankings:
 - end_date: '1973-06-15'
@@ -23,4 +24,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-30'
 ---
+Baby, baby, baby, baby, baby, baby
 
+It's possible, my love, I could be wrong
+And it's possible that the things I'll do take long
+Like always being late and always breaking our date
+You can't even concentrate and I don't want to make you wait
+
+I don't want to make you wait
+I don't want to make you wait
+
+And it's possible, I could slow down and see
+It's possible that love you will give to me
+Is real, listen but still, I'm always doing you wrong
+And you just tag along, gee, you must be strong
+
+I don't want to make you wait
+I don't want to make you wait
+
+I said I'm always doing you wrong
+And you just tag along
+Gee, you must be strong
+And I don't wanna do you wrong
+
+I don't want to make you wait
+I don't want to make you wait
+I don't want to make you wait
+I don't want to make you wait
+I don't want to make you wait

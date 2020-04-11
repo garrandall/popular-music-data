@@ -1,7 +1,6 @@
 ---
 artists:
-- Simon
-- Garfunkel
+- Simon & Garfunkel
 features: []
 genres: []
 key: my-little-town-simon-garfunkel

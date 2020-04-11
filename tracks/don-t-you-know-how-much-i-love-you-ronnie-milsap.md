@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-you-know-how-much-i-love-you-ronnie-milsap
+lyrics_url: https://genius.com/Ronnie-milsap-dont-you-know-how-much-i-love-you-lyrics
 name: Don't You Know How Much I Love You
 rankings:
 - end_date: '1983-08-19'
@@ -35,4 +36,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-09-24'
 ---
+Why must you disappear
+Why must you go when I need you here with me
+Don't you know how much I love you?
+And why must you say goodbye
+Once you saved my life
+Now you're leaving me here to die
+Girl, don't you know how much I love you?
 
+You give me just enough to keep me hoping
+Enough to make me forget the promises you've broken
+Oh, why must you come around just to pick me up
+So you can watch me hit the ground
+Don't you know how much I love you?
+
+Don't you know
+Oh
+Don't you know
+Oh
+Don't you know
+Oh
+Don't you know
+Don't you know
+Don't you know how much I love you?
+
+You give me just enough to keep me hoping
+Enough to make me forget the promises you've broken
+Oh, tell me how long must this go on?
+I'm so far gone
+I'm on my knees now, baby
+
+Don't you know how much I love you?
+Don't you know how much I love you?
+Don't you know how much I love you?
+
+Don't you know
+Oh
+Don't you know
+Oh
+Don't you know
+Oh
+Don't you know
+Don't you know
+Don't you know how much I love you?

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-all-about-you--not-about-me--tracie-spencer
+lyrics_url: https://genius.com/Tracie-spencer-its-all-about-you-lyrics
 name: It's All About You (Not About Me)
 rankings:
 - end_date: '1999-08-20'
@@ -59,4 +60,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-11-06'
 ---
+When we first met
+Stole my heart away
+Your love was incredible
+Wonderful
+Then you began to change
+You used to make me feel special
+Now all you do is make me cry
+I gave you my everything baby
+But all you gave me was lies
 
+(Chorus 2x)
+I, I try to be the one for baby, you you
+Never was into nothin'
+What I do, do
+That's why Im leaving
+'Cause it's all about you
+And not about me
+
+When we get in a fight
+Im always the first to apologize
+Even if it was you who did wrong
+I never do enough to please you
+That's why I can't go on
+No matter what I do for you
+Its never any good for you
+You always got to complain
+That's why I got to say
+I can't stay
+
+(Chorus 2x)
+Selfish baby
+Anything you want I do
+I never understand how you
+Could treat me bad and be so cruel
+Youre begging me to come back to you
+Baby I gave you all my love
+But what I had was not enough
+You turned around & broke my trust
+Got the nerve to ask me
+What about us?
+(Chorus to fade

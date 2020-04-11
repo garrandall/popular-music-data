@@ -1,6 +1,6 @@
 ---
 artists:
-- Joe Harnell And His Orchestra
+- Joe Harnell
 features: []
 genres: []
 key: fly-me-to-the-moon---bossa-nova-joe-harnell-and-his-orchestra

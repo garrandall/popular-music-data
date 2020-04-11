@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-will-always-love-you-whitney-houston
+lyrics_url: https://genius.com/Whitney-houston-i-will-always-love-you-lyrics
 name: I Will Always Love You
 rankings:
 - end_date: '1992-11-20'
@@ -123,4 +124,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-03-10'
 ---
+If I should stay
+I would only be in your way
+So I'll go but I know
+I'll think of you every step of the way
 
+
+And I will always love you
+I will always love you
+You
+My darling, you
+
+
+Bittersweet memories
+That is all I'm taking with me
+So good-bye
+Please don't cry
+We both know I'm not what you, you need
+
+
+And I will always love you
+I will always love you
+You
+
+
+I hope life treats you kind
+And I hope you have all you've dreamed of
+And I wish you joy and happiness
+But above all this I wish you love
+
+
+And I will always love you
+I will always love you
+I will always love you
+I will always love you
+I will always love you
+I, I will always love you
+
+
+You
+Darling, I love you
+I'll always
+I'll always love you

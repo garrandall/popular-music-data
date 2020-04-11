@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bus-stop-the-hollies
+lyrics_url: https://genius.com/The-hollies-bus-stop-lyrics
 name: Bus Stop
 rankings:
 - end_date: '1966-07-29'
@@ -63,4 +64,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-22'
 ---
+Bus stop, wet day
+She's there, I say
+Please share my umbrella
 
+Bus stops, bus goes
+She stays, love grows
+Under my umbrella
+
+All that summer we enjoyed it
+Wind and rain and shine
+That umbrella, we employed it
+By August she was mine
+
+Every morning I would see her
+Waiting at the stop
+Sometimes she'd shop
+And she would show me what she'd bought
+
+Other people stared
+As if we were both quite insane
+Someday my name and hers
+Are going to be the same
+
+That's the way the whole thing started
+Silly but it's true
+Thinking of our sweet romance
+Beginning in a queue
+
+Came the sun
+The ice was melting
+No more sheltering now
+Nice to think that that umbrella
+Led me to a vow
+
+Every morning I would see her
+Waiting at the stop
+Sometimes she'd shop
+And she would show me what she'd bought
+
+Other people stared
+As if we were both quite insane
+Someday my name and hers
+Are going to be the same
+
+Came the sun
+The ice was melting
+No more sheltering now
+Nice to think that that umbrella
+Led me to a vow

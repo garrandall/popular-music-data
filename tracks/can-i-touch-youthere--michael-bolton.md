@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-i-touch-youthere--michael-bolton
+lyrics_url: https://genius.com/Michael-bolton-can-i-touch-you-there-lyrics
 name: Can I Touch YouThere?
 rankings:
 - end_date: '1995-09-08'
@@ -63,4 +64,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-12-02'
 ---
+Baby, show me what you feel
+Come to me, show me somethin' real
+I need to know, I need you completely
+(closer, baby, closer) Come on closer, baby (let's begin)
+Love is takin' over, gotta let it in
+Ooh and I need to feel the heart of you
+I need to reach the very deepest part of you
 
+Can I touch you there, touch you deep inside
+Can I touch your heart, the way you're touchin' mine
+Can I touch you there, touch you deep within, oh
+Can I touch you there, can I touch you oh...(there)
+
+Oooh Baby, tell me with your eyes
+Tell me every secret, darlin'
+Every deep desire, till you and I
+Are makin' love completely
+(closer,baby, closer) come on closer, baby
+(can't be close enough)
+I can't help the way I hold you
+I just hunger for your love
+Oooh and I need to feel the heart of you
+I need to reach the deepest part of you
+
+Can I touch you there, touch you deep inside
+Can I touch your heart, the way you're touchin' mine
+Can I touch you there, touch you deep within, oh
+Can I touch you there, can I touch you oh...(there)
+
+All I wanna dois touch you, baby
+Touch you very soul insideof you
+Oooh and I need to feel the heart of you
+I need to reach the very deepest part of you
+Oh, let me be the one to show you
+Just what love can do
+Come on, baby, come on
+
+Can I touch you there, touch you deep inside
+Can I touch your heart, the way you're touchin' mine
+Can I touch you there, touch you deep within, oh
+Can I touch you there, can I touch you oh...(there)

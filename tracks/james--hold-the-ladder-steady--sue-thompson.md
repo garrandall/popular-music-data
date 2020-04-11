@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: james--hold-the-ladder-steady--sue-thompson
+lyrics_url: https://genius.com/Sue-thompson-james-hold-the-ladder-steady-lyrics
 name: James (Hold The Ladder Steady)
 rankings:
 - end_date: '1962-10-05'
@@ -47,4 +48,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
 ---
+James, James hold the ladder steady
+James, James I'm packed tonight I'm ready
+James, James hold the ladder steady
+I'm a'comin' down to your ar-ar-ar-rms
+I'm a'comin' down to your arms
+Now James and I we went to mama and showed her my diamond ring
+She said "my poor little baby, you must be crazy, to think of such a thing"
+So James, James hold the ladder steady
+James, James I'm packed tonight I'm ready
+James, James hold the ladder steady
+I'm a'comin' down to your ar-ar-ar-rms
+I'm a'comin' down to your arms
+Now James and I we went to daddy and said that we want to be wed
+Daddy said "nope, you'll just have to elope" and laughed as he went to bed"
+But James, James hold the ladder steady
+James, James I'm packed tonight I'm ready
+James, James hold the ladder steady
+I'm a'comin' down to your ar-ar-ar-rms
+I'm a'comin' down to your arms
+I'd hate to see 'em in the morning when they both completely flip
+He'll be sayin' "they cain't", she'll be feeling faint"
+And I'll be kissing my husband's lips
+So James, James hold the ladder steady
+James, James I'm packed tonight I'm ready
+James, James hold the ladder steady
+I'm a'comin' down to your ar-ar-ar-rms
+I'm a'comin' down to your arms
 
+James, James hold the ladder steady
+James, James I'm packed tonight I'm ready
+James, James hold the ladder steady

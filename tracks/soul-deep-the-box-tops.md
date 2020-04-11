@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: soul-deep-the-box-tops
+lyrics_url: https://genius.com/The-box-tops-soul-deep-lyrics
 name: Soul Deep
 rankings:
 - end_date: '1969-07-11'
@@ -63,4 +64,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-10-04'
 ---
+Darling, I don't know much
+But I know I love you so much
+My life depends on your touch
 
+And my love is a river running soul deep
+Way down inside me, it's-a soul deep
+It's too big to hide
+And it can't be denied
+My love is a river running soul deep
+
+I'll work myself to death for you
+Just to show I adore you
+Nothing I wouldn't do for you
+
+'Cause my love is a river running soul deep
+Way down inside me, it's-a soul deep
+It's too big to hide
+And it can't be denied
+My love is a river running soul deep
+
+All I ever, ever hope to be
+Depends on your love for me
+Baby, believe me
+If you should leave me
+I'd be nothing but an empty shell
+I know darn well, I can tell, now
+
+I don't know much
+But I know I love you so much
+My life depends on your touch
+
+And my love is a river running soul deep
+Way down inside me, it's-a soul deep
+It's too big to hide and it can't be denied
+My love is a river running soul deep
+
+My love is a river running soul deep
+Way down inside me, it's-a soul deep
+My love is a river running soul deep
+Way down inside me, it's-a soul deep
+Well, my love is a river running soul deep
+Way down inside me, it's-a soul deep

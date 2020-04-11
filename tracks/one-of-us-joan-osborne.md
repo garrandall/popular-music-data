@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-of-us-joan-osborne
+lyrics_url: https://genius.com/Joan-osborne-one-of-us-lyrics
 name: One Of Us
 rankings:
 - end_date: '1995-12-15'
@@ -95,4 +96,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-05-04'
 ---
+If God had a name, what would it be?
+And would you call it to his face
+If you were faced with Him in all His glory?
+What would you ask if you had just one question?
 
+
+And yeah, yeah, God is great
+Yeah, yeah, God is good
+Yeah, yeah, yeah, yeah, yeah
+
+
+What if God was one of us
+Just a slob like one of us
+Just a stranger on the bus, trying to make his way home?
+
+
+If God had a face, what would it look like?
+And would you want to see
+If seeing meant that you would have to believe
+In things like heaven and in Jesus and the saints
+And all the prophets?
+
+
+And yeah, yeah, God is great
+Yeah, yeah, God is good
+Yeah, yeah, yeah, yeah, yeah
+
+
+What if God was one of us
+Just a slob like one of us
+Just a stranger on the bus, trying to make his way home?
+
+
+Just trying to make his way home
+Back up to heaven all alone
+Nobody calling on the phone
+'cept for the Pope, maybe in Rome
+
+
+Yeah, yeah, God is great
+Yeah, yeah, God is good
+Yeah, yeah, yeah, yeah, yeah
+
+
+What if God was one of us
+Just a slob like one of us
+Just a stranger on the bus, trying to make his way home
+Just trying to make his way home, just like a holy rolling stone?
+Back up to heaven all alone, just trying to make his way home
+
+
+Nobody calling on the phone
+'Cept for the Pope, maybe in Rome

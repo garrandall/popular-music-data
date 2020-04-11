@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: listen-to-what-the-man-said-wings
+lyrics_url: https://genius.com/Paul-mccartney-and-wings-listen-to-what-the-man-said-lyrics
 name: Listen To What The Man Said
 rankings:
 - end_date: '1975-06-06'
@@ -63,4 +64,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-08-30'
 ---
+All right, okay, he-he-he
+Very good to see you down in New Orleans, man
+Yeah, here it is, yeah, yeah
 
+
+Any time, any day
+You can hear the people say that love is blind
+Well, I don't know, but I say love is kind
+
+Du-du-du...
+
+
+Soldier boy kisses girl
+Leaves behind a tragic world
+But he won't mind
+He's in love and he says love is fine
+
+Duh duh duh duh
+Uh duh duh duh duh
+Duh duh duh
+
+
+Oh yes, indeed we know
+That people will find a way to go
+No matter what the man said
+And love is fine for all we know
+For all we know, our love will grow
+That's what the man said
+So won't you listen to what the man said?
+He said
+
+(Doo doo doo, doo doo doo doo doo)
+Ah, take it away!
+
+
+
+
+Oh - yes, indeed we know
+That people will find a way to go
+No matter what the man said
+And love is fine for all we know
+For all we know, our love will grow
+That's what the man said
+So won't you listen to what the man said
+
+
+The wonder of it all baby
+The wonder of it all baby
+The wonder of it all baby

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-end-earl-grant
+lyrics_url: https://genius.com/Earl-grant-the-end-lyrics
 name: The End
 rankings:
 - end_date: '1958-09-21'
@@ -83,4 +84,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-19'
 ---
+At the end of a rainbow, you'll find a pot of gold
+At the end of a story, you'll find it's all been told
+But our love has a treasure our hearts can always spend
+And it has a story without any end
 
+At the end of a river, the water stops its flow
+At the end of a highway, there's no place you can go
+But just tell me you love and you are only mine
+And our love will go on 'til the end of time
+
+At the end of a river, the water stops its flow
+At the end of a highway, there's no place you can go
+But just tell me you love and you are only mine
+And our love will go on 'til the e-end of time
+
+'Til the end of time

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: god-tori-amos
+lyrics_url: https://genius.com/Tori-amos-god-lyrics
 name: God
 rankings:
 - end_date: '1994-02-25'
@@ -55,4 +56,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-05-07'
 ---
+God sometimes you just don’t come through
+God sometimes you just don’t come through
+Do you need a woman to look after you?
+God sometimes you just don’t come through
 
+
+You make pretty daisies, pretty daisies love
+(Come down and tell me what you mean, now)
+I’ve gotta find, find, find what you’re doing about things here
+(Huh, whatcha doing?)
+A few witches burning, gets a little toasty here
+(Hey now, what do you know, what do you know)
+I gotta find, find, find why you always go when the wind blows
+
+
+God sometimes you just don’t come through
+God sometimes you just don’t come through, babe
+Do you need a woman to look after you?
+God sometimes you just don’t come through
+
+
+Well, tell me you’re crazy maybe then I’ll understand
+(Come down and tell me what you mean, now)
+You got your 9, 9 iron in the back seat just in case
+(Huh, whatcha doing?)
+Heard you’ve gone south, well, babe you love your new 4-wheel
+(Hey now, what do you know, what do you know)
+I gotta find, find, find why you always go when the wind blows
+
+
+“Give not thy strength unto women nor thy ways to that which destroyeth kings”
+
+
+Will you even tell her if you decide to make the sky fall?
+Will you even tell her if you decide to make the sky..?
+
+
+God sometimes you just don’t come through
+God sometimes you just don’t come through, babe
+Do you need a woman to look after you?
+God sometimes you just don’t come through
+Do you need a woman to look after you?
+God sometimes you just don’t come through

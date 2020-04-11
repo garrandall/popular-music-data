@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: help-me-girl-the-outsiders
+lyrics_url: https://genius.com/Outsiders-us-band-help-me-girl-lyrics
 name: Help Me Girl
 rankings:
 - end_date: '1966-11-04'
@@ -47,4 +48,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-31'
 ---
+Girl have you ever been hungry
+So hungry that you had no pride?
+Well i got that feeling
+That biting, gnawing deep inside
+It's a funny pain
+One i can't explain
+You gotta help me girl
+Oh help me girl
+'cause i'm going insane - hey hey
 
+I know about all the good things
+And what that long green stuff can buy
+Right or wrong it's a groove girl
+Yet somehow i'm not satisfied
+You gotta show me the way
+Turn my night into day
+Oh help me girl
+Oh help me girl
+'cause i'm going insane
+Oh, i need someone
+Someone to comfort me
+Be my someone
+Be my reality girl
+
+You gotta show me the way
+And turn my night into day
+Oh help me girl
+Oh help me girl
+'cause i'm going insane hey
+Help me baby
+Help me girl
+Come on into my nights
+Come on?to to? me today
+I said help me baby
+Help me girl
+Come on into my days
+Come on? way
+
+I said help me baby
+Help me girl
+Come on enjoy the nights
+Come one
+Help me baby say come on
+
+Help me girl
+Help me baby come on into my days
+Come on...

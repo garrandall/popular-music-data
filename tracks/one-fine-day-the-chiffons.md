@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-fine-day-the-chiffons
+lyrics_url: https://genius.com/Chiffons-one-fine-day-lyrics
 name: One Fine Day
 rankings:
 - end_date: '1963-06-07'
@@ -47,4 +48,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-03'
 ---
+One fine day you'll look at me
+And you will know our love was meant to be
+One fine day you're gonna want me for your girl
 
+The arms I long for will open wide
+And you'll be proud to have me right by your side
+One fine day you're gonna want me for your girl
+
+Though I know you're the kind of boy
+Who only wants to run around
+I'll be waiting and someday, darling
+You'll come to me when you want to settle down, oh
+
+One fine day we'll meet once more
+And then you'll want the love you threw away before
+One fine day you're gonna want me for your girl
+
+One fine day you're gonna want me for your girl
+(One fine day you're gonna want me for your girl)
+One fine day, oh, yeah, one fine day

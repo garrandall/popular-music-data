@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartbreak-road-bill-withers
+lyrics_url: https://www.musixmatch.com/lyrics/Bill-Withers/Heartbreak-Road
 name: Heartbreak Road
 rankings:
 - end_date: '1975-01-03'
@@ -23,4 +24,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-01-18'
 ---
+Wonder who is waiting for me
+At the end of Heartbreak Road
+Hope that she'll be tender
+Someone I can know
 
+Heartaches just don't, don't last forever
+But it's a lonely road
+A road we all must travel
+Once before we go
+
+I believe that love's a good teacher
+When you're in it
+And darling even if it don't work out
+You ain't gone never understand it
+'Til you been all down in it
+And find out what it's all about
+But that's all right because
+
+Heartaches just don't, don't last forever
+But it's a lonely road
+A road we all must travel
+Once before we go
+
+I believe that love's a good teacher
+When you're in it
+And even if it don't work out
+You ain't gone never understand it
+'Til you been all down in it
+And find out what it's all about
+But that's all right because
+
+Heartaches just don't, don't last forever
+But it's a lonely road
+A road we all must travel
+Once before we go

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-dance-chris-montez
+lyrics_url: https://genius.com/Chris-montez-lets-dance-lyrics
 name: Let's Dance
 rankings:
 - end_date: '1962-08-10'
@@ -63,4 +64,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-11-10'
 ---
+(One, two)
+(One, two, three, four)
 
+Hey baby won't you take a chance?
+Say that you'll let me have this dance
+
+Well let's dance, well let's dance
+We'll do the twist, the stomp, the mashed potato too
+Any old dance that you want to do
+But let's dance, well let's dance
+
+Hey baby, yeah, you thrill me so
+Hold me tight, don't you let me go
+
+But let's dance, well let's dance
+We'll do the twist, the stomp, the mashed potato too
+Any old dance that you want to do
+But let's dance, well let's dance
+
+OK, wail now. Oh, yeah
+Hey, baby, if you're all alone
+Maybe you'll let me walk you home
+
+But let's dance, well let's dance
+We'll do the twist, the stomp, the mashed potato too
+Any old dance that you want to do
+But let's dance, well let's dance
+
+Hey, baby, things are swingin' right
+Yes, I know that this is the night
+
+Well let's dance, well let's dance
+We'll do the twist, the stomp, the mashed potato too
+Any old dance that you want to do
+But let's dance, well let's dance
+
+But let's dance
+But let's dance
+But let's dance

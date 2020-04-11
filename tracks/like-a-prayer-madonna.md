@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: like-a-prayer-madonna
+lyrics_url: https://genius.com/Madonna-like-a-prayer-lyrics
 name: Like A Prayer
 rankings:
 - end_date: '1989-03-24'
@@ -71,4 +72,126 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-07-01'
 ---
+Life is a mystery
+Everyone must stand alone
+I hear you call my name
+And it feels like home
 
+
+When you call my name
+It's like a little prayer
+I'm down on my knees
+I want to take you there
+In the midnight hour
+I can feel your power
+Just like a prayer
+You know I'll take you there
+
+
+I hear your voice
+It's like an angel sighing
+I have no choice
+I hear your voice
+Feels like flying
+I close my eyes
+Oh God, I think I'm falling
+Out of the sky
+I close my eyes
+Heaven, help me
+
+
+When you call my name
+It's like a little prayer
+I'm down on my knees
+I want to take you there
+In the midnight hour
+I can feel your power
+Just like a prayer
+You know I'll take you there
+
+
+Like a child
+You whisper softly to me
+You're in control
+Just like a child
+Now I'm dancing
+It's like a dream
+No end and no beginning
+You're here with me
+It's like a dream
+Let the choir sing
+
+
+When you call my name
+It's like a little prayer
+I'm down on my knees
+I wanna take you there
+In the midnight hour
+I can feel your power
+Just like a prayer
+You know I'll take you there
+When you call my name
+It's like a little prayer
+I'm down on my knees
+I wanna take you there
+In the midnight hour
+I can feel your power
+Just like a prayer
+You know I'll take you there
+
+
+Life is a mystery
+Everyone must stand alone
+I hear you call my name
+And it feels like home
+
+
+Just like a prayer
+Your voice can take me there
+Just like a muse to me
+You are a mystery
+Just like a dream
+You are not what you seem
+Just like a prayer, no choice
+Your voice can take me there
+
+
+Just like a prayer, I'll take you there
+It's like a dream to me
+Just like a prayer, I'll take you there
+It's like a dream to me
+Just like a prayer, I'll take you there
+It's like a dream to me
+Just like a prayer, I'll take you there
+It's like a dream to me
+
+
+Just like a prayer
+Your voice can take me there
+Just like a muse to me
+You are a mystery
+Just like a dream
+You are not what you seem
+Just like a prayer, no choice
+Your voice can take me there
+Just like a prayer
+Your voice can take me there
+Just like a muse to me
+You are a mystery
+Just like a dream
+You are not what you seem
+Just like a prayer, no choice
+Your voice can take me there
+Your voice can take me there
+Like a prayer
+Like a prayer
+
+
+Just like a prayer, your voice can take me there
+It's like a dream to me
+Just like a prayer, your voice can take me there
+It's like a dream to me
+Just like a prayer, your voice can take me there
+It's like a dream to me
+Just like a prayer, your voice can take me there
+It's like a dream to me

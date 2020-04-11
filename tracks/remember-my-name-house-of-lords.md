@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: remember-my-name-house-of-lords
+lyrics_url: https://genius.com/House-of-lords-remember-my-name-lyrics
 name: Remember My Name
 rankings:
 - end_date: '1991-01-11'
@@ -43,4 +44,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-03-02'
 ---
+I heard it on the radio
+Somebody reaching out tonight
+Another soul that never sleeps
+Until the shadows touch the morning lights
 
+I know you well
+I've been holding on
+Weak and strong
+But right or wrong
+I had to call your number
+I had to know for sure
+Whoa-whoa-whoa
+
+Do you really wanna fall in love
+Take the chance again
+Do you feel inside
+The fire never dies
+And it burns until the end
+Do you really wanna give enough
+Talk all night
+Make love in the rain
+If you really do
+All I ask of you
+Remember my name
+Remember my name, oh
+
+The moment that we said hello
+I could almost see your face
+Two voices on a midnight phone
+With nothing but time to fill the space
+
+I know you well
+And I've been holding tight
+Day and night
+Wrong or right
+I had to call your number
+I had to know for sure
+Whoa-whoa-whoa
+
+Do you really wanna fall in love
+Take the chance again
+Do you feel inside
+The fire never dies
+And it burns until the end
+Do you really wanna give enough
+Talk all night
+Make love in the rain
+If you really do
+All I ask of you
+Remember my name
+Remember my name
+
+Do you really wanna fall in love
+Talk all night
+Make love in the rain
+If you really do
+All I ask of you
+Remember my name
+Remember my name
+
+(Do you really wanna fall in love)
+Yeah, yeah
+Remember my name
+(Do you really wanna give enough)
+Do you really
+Do you really wanna fall
+
+(Do you really wanna fall in love)
+Talk all night
+Make love in the rain
+(Do you really wanna give enough)
+Do you wanna fall in love, yeah
+
+(Do you really wanna fall in love)
+Yeah, remember my name
+(Do you really wanna give enough)
+Remember my name

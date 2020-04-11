@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: purple-haze-dion
+lyrics_url: https://genius.com/Dion-purple-haze-lyrics
 name: Purple Haze
 rankings:
 - end_date: '1969-01-31'
@@ -23,4 +24,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-02-15'
 ---
+Purple haze
+Running through my brain
+Somehow, people, lately
+Things don't seem the same
 
+I'm acting funny
+And found the reason why
+Excuse me while
+I kiss the sky
+
+Purple haze
+Now it's coming all around
+Don't know whether of if
+I'm coming up or down
+
+Somebody, am I happy
+Or am I in misery
+Whatever it is
+She put a spell on me
+
+Put a spell on me
+Purple haze

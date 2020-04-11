@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: scotch-and-soda-the-kingston-trio
+lyrics_url: https://genius.com/Kingston-trio-scotch-and-soda-lyrics
 name: Scotch And Soda
 rankings:
 - end_date: '1962-05-04'
@@ -35,4 +36,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
 ---
+Scotch and Soda
+Mud in yer eye
+Baby do I feel high oh me oh my
+Do I feel high
 
+Dry martini
+Jigger of gin
+Oh what a spell you've got me in, oh my
+Do I feel high
+
+People won't believe me
+They'll think that I'm just braggin'
+But I could feel the way I do
+And still be on the wagon
+
+All I need is one of your smiles
+Sunshine of your eye oh me oh my
+Do I feel higher than a kite can fly
+Give me lovin' baby I feel high
+
+People won't believe me
+They'll think that I'm just braggin'
+But I could feel the way I do
+And still be on the wagon
+
+All I need is one of your smiles
+Sunshine of your eye oh me oh my
+Do I feel higher than a kite can fly
+Give me lovin' baby I feel high

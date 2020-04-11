@@ -1,6 +1,7 @@
 ---
 artists:
-- Aaron Lewis Of Staind With Fred Durst
+- Aaron Lewis
+- Fred Durst
 features: []
 genres: []
 key: outside-aaron-lewis-of-staind-with-fred-durst

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-last-farewell-roger-whittaker
+lyrics_url: https://genius.com/Roger-whittaker-the-last-farewell-lyrics
 name: The Last Farewell
 rankings:
 - end_date: '1975-04-11'
@@ -67,4 +68,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-07-12'
 ---
+There's a ship lies rigged and ready in the harbor
+Tomorrow for old England she sails
+Far away from your land of endless sunshine
+To my land full of rainy skies and gales
+And I shall be aboard that ship tomorrow
+Though my heart is full of tears at this farewell
 
+For you are beautiful, and I have loved you dearly
+More dearly than the spoken word can tell
+For you are beautiful, and I have loved you dearly
+More dearly than the spoken word can tell
+
+I've heard there's a wicked war a-blazing
+And the taste of war I know so very well
+Even now I see the foreign flag a-raising
+Their guns on fire as we sail into Hell
+I have no fear of death, it brings no sorrow
+But how bitter will be this last farewell
+
+For you are beautiful, and I have loved you dearly
+More dearly than the spoken word can tell
+For you are beautiful, and I have loved you dearly
+More dearly than the spoken word can tell
+
+Though death and darkness gather all about me
+And my ship be torn apart upon the seas
+I shall smell again the fragrance of these islands
+And the heaving waves that brought me once to thee
+And should I return safe home again to England
+I shall watch the English mist roll through the dale
+
+For you are beautiful, I have loved you dearly
+More dearly than the spoken word can tell
+For you are beautiful, I have loved you dearly
+More dearly than the spoken word can tell

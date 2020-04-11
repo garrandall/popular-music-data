@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: money--that-s-what-i-want--barrett-strong
+lyrics_url: https://genius.com/Barrett-strong-money-thats-what-i-want-lyrics
 name: Money (That's what I want)
 rankings:
 - end_date: '1960-02-07'
@@ -75,4 +76,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-23'
 ---
+The best things in life are free
+But you can keep them for the birds and bees
 
+
+I need money
+That's what I want
+That's what I want
+That's what I want
+
+
+Your love give me such a thrill
+But your love don't pay my bills
+
+
+I need money
+That's what I want
+That's what I want
+That's what I want
+
+
+Money don't get everything it's true
+What it don't get I can't use
+
+
+I need money
+That's what I want
+That's what I want
+That's what I want
+
+
+Money
+Lots of money
+Whole lot of money
+Uh huh
+All I want
+Woah Yeah
+Give me Money
+Oh, lots of money
+All those lean greens, Yeah
+I got that, uh, that's what I mean
+All that I want
+Woah Yeah

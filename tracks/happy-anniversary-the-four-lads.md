@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happy-anniversary-the-four-lads
+lyrics_url: https://www.musixmatch.com/lyrics/The-Four-Lads/Happy-Anniversary
 name: Happy Anniversary
 rankings:
 - end_date: '1959-11-15'
@@ -27,4 +28,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-07'
 ---
+Here's to you
+Here's to me
+Here's to a
+Happy Anniversary
 
+Here's to days gone by
+And those that are to be
+Oh, here's to a
+Happy Anniversary
+
+And if I have my way
+One day a long
+Time from now
+I'll say
+
+Here's to you
+And here's to me
+And here's to
+A Happy Anniversary
+
+And if I have my way
+One day a long
+Time from now
+I'll say
+
+Here's to you
+And here's to me
+And here's to a
+Very happy Anniversary

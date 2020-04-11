@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-might-need-somebody-turley-richards
+lyrics_url: https://www.musixmatch.com/lyrics/Turley-Richards/You-Might-Need-Somebody
 name: You Might Need Somebody
 rankings:
 - end_date: '1980-02-01'
@@ -35,4 +36,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-08'
 ---
-
+When somebody reaches for your heart
+Open up and let them through
+'Coz everybody needs someone around
+Things can tumble down on you
+You'll discover when you look around
+You don't have to be alone
+Just one lover is all you need to know
+When you're feeling all alone
+You might need somebody
+You might need somebody too
+You might need somebody
+You might need somebody too
+If there is fire stolen in your heart
+And you're sure it's wrong and right
+Keep it burning through the cold and I
+It can warm your lonely nights
+You might need somebody
+You might need somebody too
+You might need somebody
+You might need somebody too ...

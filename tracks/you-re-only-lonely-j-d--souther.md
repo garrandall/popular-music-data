@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-only-lonely-j-d--souther
+lyrics_url: https://www.musixmatch.com/lyrics/JD-Souther/You-re-Only-Lonely
 name: You're Only Lonely
 rankings:
 - end_date: '1979-09-14'
@@ -91,4 +92,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-01-26'
 ---
+When the world is ready to fall on your little shoulders
+And when you're feeling lonely and small
+You need somebody there to hold you.
+You can call out my name... when you're only lonely
+Now, don't you ever be ashamed, you're only lonely
 
+When you need somebody around on the nights that try you
+(Remember) i was there when you were a queen
+And i'll be the last one there beside you.
+So you can call out my name... when you're only lonely.
+Now, don't you ever be ashamed, you're only lonely
+
+When the world is ready to fall on your little shoulders
+And when you're feeling lonely and small
+You need somebody there to hold you.
+So don't you ever be ashamed, you're only lonely.
+Ah, you can call out my name... when you're only lonely
+
+When you're only lonely...
+Ah, it's no crime... darling, we've got lots of time.
+
+Ah, there's nothing wrong with you...
+Darling, i get lonely, too.
+So if you need me, all you gotta do is call me.
+You're only lonely

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wouldn-t-beg-for-water-sheena-easton
+lyrics_url: https://genius.com/Sheena-easton-i-wouldnt-beg-for-water-lyrics
 name: I Wouldn't Beg For Water
 rankings:
 - end_date: '1982-11-05'
@@ -35,4 +36,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-12-11'
 ---
+I make friends, I make enemies, it doesn't matter all that much to me
+I'm not the kind who deals behind the scenes
+I won't sell my soul, I'd be nothing without some integrity
 
+Chorus:
+I wouldn't beg for water, I wouldn't beg for water
+If my soul was on fire, that's the last thing I would ever do
+I wouldn't beg for water, I wouldn't beg for water
+If my soul was on fire, but I'd get down on my knees for you
+
+I've got pride, it's not the foolish kind
+Don't owe people favours, that's my peace of mind
+I don't know why I deserve someone like you
+But you're my one and only sole exception to all my rules
+
+Chorus
+
+Real love is hard to find, as holding back the sands of time
+And time can change my life as much as you
+
+I wouldn't beg for water, I wouldn't beg for water
+If my soul was on fire, you know me well enough to know it's true
+I wouldn't beg for water, I wouldn't beg for water
+(If my soul was on fire), but I'd get down on my knees for you

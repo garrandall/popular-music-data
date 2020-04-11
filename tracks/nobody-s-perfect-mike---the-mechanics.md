@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nobody-s-perfect-mike---the-mechanics
+lyrics_url: https://genius.com/Mike-the-mechanics-nobodys-perfect-lyrics
 name: Nobody's Perfect
 rankings:
 - end_date: '1988-11-11'
@@ -51,4 +52,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-14'
 ---
+It must be hard
+Being an angel
+When the devil in your heart
+Won't set you free
+It must be hard
+Being an angel
+When the world has let you down
+Imperfection all around
 
+Hey look at me
+It must be hard
+It must be hard
+It must be hard
+
+Nobody's perfect
+All of the time
+Nobody's perfect
+We are what we are
+There's no perfect reason
+And no perfect rhyme
+For most of the time
+That's what we're looking for
+
+Gentlemen gentlemen please!
+Can you please support the notion
+Of what I'm saying here
+That the person here in question
+Must be an angel here on earth
+If they can't see a human being
+For what a human being's really worth
+Gentlemen please!
+
+Nobody's perfect
+All of the time
+Nobody's perfect
+We are what we are
+There's no perfect reason
+And no perfect rhyme
+For most of the time
+That's what we're looking for
+
+It must be hard
+Being an angel
+It must be hard
+When the world has let you down
+It must be hard
+Being an angel
+It must be hard
+
+Nobody's perfect
+All of the time
+Nobody's perfect
+We are what we are
+There's no perfect reason
+No perfect rhyme
+Most all of the time
+That's what we're looking for...

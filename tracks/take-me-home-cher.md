@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-me-home-cher
+lyrics_url: https://www.musixmatch.com/lyrics/Cher/Take-Me-Home
 name: Take Me Home
 rankings:
 - end_date: '1979-02-16'
@@ -83,4 +84,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-06-16'
 ---
+Take me home, take me home
+Want to feel you close to me
+Take me home, take me home
+With you is where I wanna be
 
+Wrapped in your arms tonight
+Just making love
+Music and candlelight
+Stars up above
+
+Take me home, take me home
+Oh, can't you see I want you near
+Take me home, take me home
+Ooh, baby, let's get out of here
+
+I'd follow you anywhere
+Your place or mine
+Just a one night affair
+Would be so fine
+
+I'm in heaven
+Seems like heaven
+So much in heaven
+
+(Take me home)
+(Take me home)
+
+One night with you
+Lying here next to me
+It's the right thing to do
+It would be ecstasy
+
+I'm in heaven
+Seems like heaven
+So much in heaven
+
+Take me home, take me home
+Want to feel you close to me
+Take me home, take me home
+With you is where I wanna be
+
+Wrapped in your arms tonight
+Just making love
+Music and candlelight
+Stars up above
+
+I'm in heaven
+Seems like heaven (Take me, take me home, home with you)
+Ah can't you see I want you near
+Baby, baby let's get out of here
+(Take me, take me home, home with you)

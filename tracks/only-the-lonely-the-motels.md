@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-the-lonely-the-motels
+lyrics_url: https://genius.com/The-motels-only-the-lonely-lyrics
 name: Only The Lonely
 rankings:
 - end_date: '1982-04-30'
@@ -99,4 +100,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-09-25'
 ---
+We walked the loneliest mile
+We smiled without any style
+We kiss altogether wrong
+No intention
 
+We lied about each other's drinks
+We lived without each other thinking
+What anyone would do
+Without me and you
+
+It's like I told you
+Only the lonely can play
+
+So hold on, here we go
+Hold on to nothing we know
+I feel so lonely
+Way up here
+
+You mention the time we were together
+So long ago
+Well, I don't remember
+All I know is that it makes me feel good now
+
+It's like I told you
+Only the lonely can play
+Only the lonely
+Only the lonely can play
+
+Only the lonely
+Only the lonely can play
+It's like I told you
+Only the lonely can play
+Only the lonely
+Only the lonely can play

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: human-the-killers
+lyrics_url: https://genius.com/The-killers-human-lyrics
 name: Human
 rankings:
 - end_date: '2008-10-24'
@@ -87,4 +88,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-02-28'
 ---
+I did my best to notice
+When the call came down the line
+Up to the platform of surrender
+I was brought but I was kind
+And sometimes I get nervous
+When I see an open door
+Close your eyes, clear your heart
+Cut the cord
 
+
+Are we human
+Or are we dancer?
+My sign is vital
+My hands are cold
+And I'm on my knees
+Looking for the answer
+Are we human
+Or are we dancer?
+
+
+
+
+Pay my respects to grace and virtue
+Send my condolences to good
+Give my regards to soul and romance
+They always did the best they could
+And so long to devotion
+You taught me everything I know
+Wave goodbye, wish me well
+You've got to let me go
+
+
+Are we human
+Or are we dancer?
+My sign is vital
+My hands are cold
+And I'm on my knees
+Looking for the answer
+Are we human or are we dancer?
+
+
+Will your system be alright
+When you dream of home tonight?
+There is no message we're receiving
+Let me know, is your heart still beating?
+
+
+Are we human
+Or are we dancer?
+My sign is vital
+My hands are cold
+And I'm on my knees
+Looking for the answer
+
+
+You've got to let me know
+
+
+Are we human
+Or are we dancer?
+My sign is vital
+My hands are cold
+And I'm on my knees
+Looking for the answer
+Are we human
+Or are we dancer?
+
+
+Are we human or are we dancer?
+Are we human or are we dancer?

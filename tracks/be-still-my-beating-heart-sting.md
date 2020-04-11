@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: be-still-my-beating-heart-sting
+lyrics_url: https://genius.com/Sting-be-still-my-beating-heart-lyrics
 name: Be Still My Beating Heart
 rankings:
 - end_date: '1988-01-22'
@@ -63,4 +64,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-04-16'
 ---
+Be still my beating heart
+It would be better to be cool
+It's not time to be open just yet
+A lesson once learned is so hard to forget
+Be still my beating heart
+Or I'll be taken for a fool
+It's not healthy to run at this pace
+The blood runs so red to my face
+I've been to every single book I know
+To soothe the thoughts that plague me so
 
+
+I sink like a stone that's been thrown in the ocean
+My logic has drowned in a sea of emotion
+Stop before you start
+Be still my beating heart
+
+
+Restore my broken dreams
+Shattered like a falling glass
+I'm not ready to be broken just yet
+A lesson once learned is so hard to forget
+Be still my beating heart
+You must learn to stand your ground
+It's not healthy to run at this pace
+The blood runs so red to my face
+I've been to every single book I know
+To soothe the thoughts that plague me so
+Stop before you start
+Be still my beating heart
+Never to be wrong
+Never to make promises that break
+It's like singing in the wind
+Or writing on the surface of a lake
+And I wriggle like a fish caught on dry land
+And I struggle to avoid any help at hand

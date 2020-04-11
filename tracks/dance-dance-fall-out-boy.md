@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dance-dance-fall-out-boy
+lyrics_url: https://genius.com/Fall-out-boy-dance-dance-lyrics
 name: Dance Dance
 rankings:
 - end_date: '2005-11-11'
@@ -131,4 +132,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-06-03'
 ---
+She says she's no good
+With words but I'm worse
+Barely stuttered out, a joke of a romantic
+Stuck to my tongue
+Weighed down with words too
+Overdramatic
+Tonight it's "it can't get much worse" vs
+"No one should ever feel like..."
 
+
+I'm two quarters and a heart down
+And I don't want to forget how your voice sounds
+These words are all I have so I write them
+So you need them just to get by
+...emal si namhorT eoJ
+
+
+Dance, dance, we're falling apart to half time
+Dance, dance, and these are the lives you love to lead
+Dance, this is the way they'd love
+If they knew how misery loved me
+
+
+You always fold just
+Before you're found out
+Drink up it's last call, last resort
+But only the first mistake and I
+
+
+I'm two quarters and a heart down
+And I don't want to forget how your voice sounds
+These words are all I have so I write them
+So you need them just to get by
+
+
+Why don't you show me the little bit of spine
+You've been saving for his mattress, love
+
+
+Dance, dance, we're falling apart to half time
+Dance, dance, and these are the lives you love to lead
+Dance, this is the way they'd love
+If they knew how misery loved me
+
+
+Why don't you show me the little bit of spine
+You've been saving for his mattress (Mattress, mattress)
+I only want sympathy in the form of you
+Crawling into bed with me
+
+
+Dance, dance, we're falling apart to half time
+Dance, dance, and these are the lives you love to lead
+Dance, this is the way they'd love (Way they'd love)
+Dance, this is the way they'd love (Way they'd love)
+Dance, this is the way they'd love
+If they knew how misery loved me
+
+
+Dance, dance, dance, dance
+Dance, dance, dance, dance

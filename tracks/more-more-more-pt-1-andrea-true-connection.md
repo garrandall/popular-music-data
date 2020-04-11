@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: more-more-more-pt-1-andrea-true-connection
+lyrics_url: https://www.musixmatch.com/lyrics/Andrea-True-Connection/More-More-More-Pt-1
 name: More More More Pt 1
 rankings:
 - end_date: '1976-03-19'
@@ -107,4 +108,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-28'
 ---
+Ooh, how do you like your love?
+Ooh, how do you like your love?
+But if you want to know
+How I really feel
+Just get the cameras rollin'
+And get the action goin'
+Baby you know
+My love for you is real
+So take me where you want to
+Me and my heart you steal
 
+(More, more, more) How do you like it? How do you like it?
+(More, more, more) How do you like it? How do you like it?
+(More, more, more) How do you like it? How do you like it?
+
+Ooh, how do you like your love?
+Ooh, how do you like your love?
+
+But if you want to know
+How I really feel
+Just get the cameras rollin'
+Get the action goin'
+Baby you know
+My love for you is real
+So take me where you want to
+Me and my heart you steal
+
+(More, more, more) How do you like it? How do you like it?
+(More, more, more) How do you like it? How do you like it?
+(More, more, more) How do you like it? How do you like your love?
+
+But if you want to know
+How I really feel
+Get the cameras rollin'
+Get the action goin'
+(More, more, more) How do you like it? How do you like it?
+(More, more, more) How do you like it? How do you like it?
+(More, more, more) How do you like it? How do you like it?

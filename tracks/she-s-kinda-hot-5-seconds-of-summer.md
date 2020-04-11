@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-kinda-hot-5-seconds-of-summer
+lyrics_url: https://genius.com/5-seconds-of-summer-shes-kinda-hot-lyrics
 name: She's Kinda Hot
 rankings:
 - end_date: '2015-08-14'
@@ -43,4 +44,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-10-03'
 ---
+My girlfriend’s bitching 'cause I always sleep in
+She’s always screaming when she’s calling her friends
+She’s kinda hot though
+Yeah, she’s kinda hot though
+(Just a itty bitty, little bit hot)
+My shrink is telling me I've got crazy dreams
+She’s also saying I've got low self-esteem
+She’s kinda hot though
+Yeah, she’s kinda hot though
+(Just a little bit, a little bit hot)
+She put me on meds, she won’t get out of my head
+She’s kinda hot though
+(1,2,3 ... go!)
 
+
+My friend left college 'cause it felt like a job
+His mum and dad both think he’s a slob
+He’s got a shot though
+(No, no, not really)
+Yeah, he’s got a shot though
+(No, no, not really)
+When you've got bigger plans that no one else understands
+You've got a shot though
+(My, my, that's a big plan you've got there!)
+
+
+They say we’re losers and we’re alright with that
+We are the leaders of the not coming backs
+But we’re alright though
+Yeah, we’re alright though
+We are the kings and the queens of the new broken scene
+Yeah, we’re alright though
+(Uno, dos, tres, cuatro!)
+
+
+Sometimes I'm feeling like I'm going insane
+My neighbour told me that I've got bad brains
+But I'm alright though (We're alright though)
+Yeah, we’ll be alright though (We're alright though)
+'Cause we're the kings and the queens of the new broken scene
+And we're alright though
+(1, 2, 3, 4!)
+
+
+They say we’re losers and we’re alright with that
+We are the leaders of the not coming backs
+But we’re alright though (We're alright though)
+Yeah, we’re alright though (We're alright though)
+We are the kings and the queens of the new broken scene
+Yeah, we’re alright though (We're gonna be okay)
+
+
+
+Na na na na na na na na na na na
+But we’re alright though
+Na na na na na na na na na na na
+Yeah, we’re alright though
+Na na na na na na na na na na na
+We are the kings and the queens of the new broken scene
+Yeah, we’re alright though

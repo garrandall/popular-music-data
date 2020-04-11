@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: drive-by-train
+lyrics_url: https://www.musixmatch.com/lyrics/Train/Drive-By
 name: Drive By
 rankings:
 - end_date: '2012-02-03'
@@ -151,4 +152,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-09-29'
 ---
+On the other side of a street I knew
+Stood a girl that looked like you,
+I guess that's déjà vu
+But I thought this can't be true 'cause
+You moved to west LA, or New York or Santa Fe, or
+Wherever, to get away from me
 
+Oh, but that one night, was more than just right
+I didn't leave you 'cause I was all through
+Oh, I was overwhelmed, and frankly scared as Hell
+Because I really fell for you
+
+Oh, I swear to you, I'll be there for you
+This is not a drive by-y-y-y-y
+Just a shy guy, looking for a two-ply Hefty bag to hold my-y-y-y-y-y love
+
+When you move me, everything is groovy
+They don't like it sue me, hmm the way you do me
+Oh, I swear to you, I'll be there for you
+This is not a drive by-y-y-y-y
+
+On the upside of a downward spiral, my love for you went viral
+And I loved you every mile you drove away
+But now here you are again
+So let's skip the 'how you been?' and get down to the 'more than friends' at last
+
+Oh, but that one night, is still the highlight
+I didn't need you, until I came to
+And I was overwhelmed, and frankly scared as Hell
+Because I really fell for you
+
+Oh, I swear to you, I'll be there for you
+This is not a drive by-y-y-y-y
+Just a shy guy, looking for a two-ply Hefty bag to hold my-y-y-y-y-y love
+
+When you move me, everything is groovy
+They don't like it sue me, hmm the way you do me
+Oh, I swear to you, I'll be there for you
+This is not a drive by-y-y-y-y
+
+Please believe that when I leave
+There's nothing up my sleeve, but love for you
+And a little time to get my head together too
+
+On the other side of a street I knew
+Stood a girl that looked like you
+I guess that's déjà vu, but I thought this can't be true, 'cause
+
+Oh, I swear to you, I'll be there for you
+This is not a drive by-y-y-y-y
+Just a shy guy, looking for a two-ply
+Hefty bag to hold my-y-y-y-y-y love
+
+When you move me, everything is groovy
+They don't like it sue me, mmh the way you do me
+Oh, I swear to you, I'll be there for you
+This is not a drive by-y-y-y-y

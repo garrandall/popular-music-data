@@ -5,6 +5,7 @@ features:
 - Chaka Khan
 genres: []
 key: once-you-get-started-rufus-chaka-khan
+lyrics_url: https://genius.com/Rufus-once-you-get-started-live-version-lyrics
 name: Once You Get Started
 rankings:
 - end_date: '1975-02-21'
@@ -60,4 +61,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-10'
 ---
-
+Once you get started, oh it's hard to stop
+You can't stop you just can't stop
+When you get down y'all
+When you get down ain't no turnin' back no
+Everybody party hearty
+To get back in the groove
+I like the way you do it... way you do it
+I like the way you move
+It's a good thing
+Hear a funky sound
+Everybody let's get on down
+You gon do it like you never done before
+Hey... hey
+I just want you to know that
+Once you get started, oh it's hard to stop
+You can't stop you just can't stop
+When you get down y'all
+When you get down ain't no turnin' back no
+Everybody party hearty
+To get right in the groove
+I love the way you do it... way you do it
+I like the way you move
+It's the new thing
+When ya know that ya getting' on down, yeah
+Everybody come on y'all and get down with me
+You can do it like you never done before, yeah
+Once you get started, oh it's hard to stop
+You can't stop you just can't stop
+When you get down y'all
+When you get down ain't no turnin' back no
+Now that ya got down
+We just wanna say
+If you dig the funky, funky music
+Come on and move it this way
+Come on and move, come on and groove

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cry-to-me-loleatta-holloway
+lyrics_url: https://genius.com/Loleatta-holloway-cry-to-me-lyrics
 name: Cry To Me
 rankings:
 - end_date: '1975-03-21'
@@ -31,4 +32,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-04-19'
 ---
-
+"baby, i see you packing
+But it's no surprise for me
+You see, i knew it was coming for a long time
+Say what ? no, no i won't cry
+You see i'm a big girl now, and i just can't cry no more
+But there's something i want you to know:
+That i love you, i love you, i love you !
+And there's one more thing i want you to know:
+That if you ever need a friend
+You can count on me
+And honey:"
+If you're falling down
+And you can't seem to stay on the ground
+And when friends get few
+I'll be there to get you up
+And if she puts you down
+I'll be around, so don't be afraid
+Cause i'll be there to get you up
+And if it steal the smiles, rain and shine
+If you're sad or glad, happy or bad
+You can cry to me (cry to me)
+Cry to me (cry to me)
+No matter how harder things got to be
+You can cry to me
+Cry cry cry cry to me
+Now i know i must sound
+Just like a fool man love
+But i can't help myself really comes to loving you baby
+And i know you said
+That our love was true
+But if it "don't" work out
+Honey here's what i want you to do
+Drown my number
+Knock on the door
+Write me a letter
+But just let me know
+Cause you can cry to me (cry to me)
+Honey cry to me (cry to me)
+No matter how harder things got to be
+You can cry to me (cry to me)
+Oh yes you can cry, oh oh oh oh oh
+Oh baby, oooh baby how i'm gonna miss you ...
+Cause we've been together for so long
+But i know it's gonna be hard to live without you
+But i want you to know that
+When times get harder you can drown my number
+Knock on my door
+Honey send me a telegram
+But just let, just let me know
+You can cry to me (cry to me)
+No matter how harder things got to be
+Cry to me (cry to me)
+You can cry to me
+Ooh baby, ooh baby
+It's been so good, it's been really good
+I hope you feel the same way i do
+I hope that you feel that it's been good too

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-dreams-la-bouche
+lyrics_url: https://genius.com/La-bouche-sweet-dreams-lyrics
 name: Sweet Dreams
 rankings:
 - end_date: '1996-04-05'
@@ -135,4 +136,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-11-02'
 ---
+Sweet dreams of rhythm and dancing
+Sweet dreams of passion through the night
+Sweet dreams are taking over
+Sweet dreams of dancing through the night
 
+
+I wanna get into motion
+A better devotion
+So I can make it through the night
+So the music is playin
+You know what Im saying
+Now everything will be alright
+
+
+Sweet dreams of rhythm and dancing
+Sweet dreams of passion through the night
+Sweet dreams are taking over
+Sweet dreams of dancing through the night
+
+
+Ola ola e, ola ola e
+Ola ola e, ola ola e
+
+
+Rhythm is a creation a better sensation
+That will lead you through the night
+When your body is movin the music is groovin
+I want to take you home tonight
+
+
+Keep dancin hard
+Give this groove more feeling
+Dance trance dance more dealing
+In out up down all around
+On the dance floor gettin down
+Take time just to show them who
+We can make your body move
+Totally, yes the partys started
+Sweet dreams keep comin harder
+
+
+Sweet dreams of rhythm and dancing
+Sweet dreams of passion through the night
+Sweet dreams are taking over
+Sweet dreams of dancing through the night
+
+
+Ola ola e, ola ola e
+Ola ola e, ola ola e

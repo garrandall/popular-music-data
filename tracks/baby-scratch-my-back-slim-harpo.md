@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-scratch-my-back-slim-harpo
+lyrics_url: https://genius.com/Slim-harpo-baby-scratch-my-back-lyrics
 name: Baby Scratch My Back
 rankings:
 - end_date: '1966-02-04'
@@ -59,4 +60,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
 ---
+Aww, I'm itchy,and I don't know where to scratch
+Come here baby, scratch my back
+I know you can do it, so baby get to it
 
+Aww,you're workin with it now
+You got me feelin' so good
+Just look to the sun now baby
+Ummmmm...
+
+This little girl sho' knows how'd scratch
+Now, you're doin' the chicken scratch
+Aww, its lookin' good baby
+Just gettin' scratch
+That's what I'm talkin' bout

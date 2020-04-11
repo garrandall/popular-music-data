@@ -5,6 +5,7 @@ features:
 - Chaka Khan
 genres: []
 key: tell-me-something-good-rufus-chaka-khan
+lyrics_url: https://genius.com/Rufus-tell-me-something-good-live-lyrics
 name: Tell Me Something Good
 rankings:
 - end_date: '1974-06-21'
@@ -76,4 +77,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
 ---
+You ain't got no kind of feeling inside
+I got something that'll sho nuff set yo' stuff on fire
+You refuse to put anything before your pride
+What I got will knock your pride aside
 
+Tell me something good
+Tell me that you love me, yeah
+Tell me something good
+Tell me that you like it, yeah
+
+Got no time is what you're known to say
+(Got no time, no, got no time)
+I'll make you wish there was 48 hours to each day
+Your problem is you ain't been loved like you should
+What I got to give will sho nuff do you good
+
+Tell me somethin good
+(tell me tell me tell me)
+Tell me that you love me, yeah
+Tell me somethin good
+(tell me tell me tell me)
+Tell me that you like it, yeah
+
+You ain't got no kind of feeling inside
+I got something that'll sho nuff set yo' stuff on fire
+You refuse to put anything before your pride
+What I got will knock your pride aside
+
+Tell me something good
+Tell me that you love me, yeah
+Tell me something good
+Tell me that you like it, yeah
+
+Got no time is what you're known to say
+(Got no time, no, got no time)
+I'll make you wish there was 48 hours to each day
+Your problem is you ain't been loved like you should
+What I got to give will sho nuff do you good
+
+Tell me somethin good
+(tell me tell me tell me)
+Tell me that you love me, yeah
+Tell me somethin good
+(tell me tell me tell me)
+Tell me that you like it, yeah
+
+You ain't got no kind of feeling inside
+I got something that'll sho nuff set yo' stuff on fire
+You refuse to put anything before your pride
+What I got will knock your pride aside
+
+Tell me somethin good! (oh yeah! yeah!)
+Tell me that you love me yeah...
+Tell me somethin good!(oh baby baby baby yeah!)
+Tell me that you like it yeah!
+Tell me somethin good(Oh! Tell me baby Tell me!)
+Tell me that you love me...Yeah yeah, yeahyeahyeah
+Tell me something good!(ohhhhh tell me tell me tell me...that you like me...yeah)

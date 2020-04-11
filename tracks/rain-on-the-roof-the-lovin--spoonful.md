@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rain-on-the-roof-the-lovin--spoonful
+lyrics_url: https://genius.com/The-lovin-spoonful-rain-on-the-roof-lyrics
 name: Rain On The Roof
 rankings:
 - end_date: '1966-10-21'
@@ -47,4 +48,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
 ---
+You and me and rain on the roof
+Caught up in a summer shower
+Drying while it soaks the flowers
+Maybe we'll be caught for hours
+Waiting out the sun
 
+You and me, we're gabbing away
+Dreamy conversation, sitting in the hay
+Honey, how long was I laughing in the rain with you?
+Cause I didn't feel a drop til the thunder brought us to
+
+You and me underneath a roof of tin
+Pretty comfy feeling, how the rain ain't leaking in
+We can sit and dry just as long as it can pour
+Cause the way it makes you look makes me hope it rains some more
+
+You and me and rain on the roof
+Caught up in a summer shower
+Drying while it soaks the flowers
+Maybe we'll be caught for hours
+Waiting out the sun

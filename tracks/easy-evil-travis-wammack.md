@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: easy-evil-travis-wammack
+lyrics_url: https://www.musixmatch.com/lyrics/Travis-Wammack/Easy-Evil
 name: Easy Evil
 rankings:
 - end_date: '1975-10-03'
@@ -31,4 +32,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-11-01'
 ---
+Well you are such an easy evil
+Such a senuous sin
+Sometimes I don't know where I'm goin'
+'Til I been takin' in
 
+Such an easy evil
+Such a promise of fun
+Sometimes I don't know what I'm doin'
+'Til I'm done
+You're a sneaky one
+
+Here she comes now
+Touchin' me
+Callin' my name again
+
+Here I go now
+Like a moth to a flame
+I'm a sucker for you baby
+
+Such an easy evil
+Such a promise of fun
+Sometimes I don't know what I'm doin'
+'Til I'm done
+You're a sneaky one
+
+Here she comes now
+Touchin' me
+Callin' my name again
+
+Here I go now
+Like a moth to a flame
+I'm a sucker for you baby
+
+(Foreign lyrics)
+
+Such an easy evil
+Such a senuous sin
+Such an easy evil
+Such a senuous sin
+Such an easy evil
+Such a senuous sin

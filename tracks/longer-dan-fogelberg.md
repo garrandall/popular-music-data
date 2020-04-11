@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: longer-dan-fogelberg
+lyrics_url: https://genius.com/Dan-fogelberg-longer-lyrics
 name: Longer
 rankings:
 - end_date: '1979-12-21'
@@ -95,4 +96,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
 ---
+Longer than
+There've been fishes in the ocean
+Higher than any bird ever flew
+Longer than there`ve been
+Stars up in the heavens
+I've been in love with you
 
+Stronger than
+Any mountain cathedral
+Truer than any tree ever grew
+Deeper than
+Any forest primeval
+I am in love with you
+
+I'll bring fire in the winters
+You'll send showers in the springs
+We`ll fly through
+The falls and summers
+With love on our wings
+
+Through the years
+As the fire starts to mellow
+Burning lines
+In the book of our lives
+
+Though the binding cracks
+And the pages start to yellow
+I'll be in love with you
+I'll be in love with you
+
+Longer than
+There`ve been fishes in the ocean
+Higher than any bird ever flew
+Longer than
+There`ve been stars up in the heavens
+I`ve been in love with you
+I am in love with you

@@ -1,6 +1,6 @@
 ---
 artists:
-- Raymond Lefevre and His Orchestra
+- Raymond Lefevre
 features: []
 genres: []
 key: ame-caline--soul-coaxing--raymond-lefevre-and-his-orchestra

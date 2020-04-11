@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ebony-eyes-bob-welch
+lyrics_url: https://genius.com/Bob-welch-ebony-eyes-lyrics
 name: Ebony Eyes
 rankings:
 - end_date: '1978-02-03'
@@ -75,4 +76,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-20'
 ---
+Well, have you seen that girl in the corner
+I'd like to take her out of her chains
+'Cause if I had my way with you, baby
+I would be changing your life today
 
+Your eyes got me dreaming
+Your eyes got me blind
+Your eyes got me hoping
+That I'll be holding you close tonight
+
+Your eyes got me dreaming
+Your eyes got me blind
+Your eyes got me hoping
+That I'll be holding you close tonight
+
+She was the same as a hundred ladies
+But when my eyes looked at her I learned
+That she was keeping a secret fire
+And if I got real close I'd burn
+
+So it looked like I had to move slowly
+Just like a cat at night in the trees
+'Cause I was waiting for her to show me
+That way that she liked her love to feel
+
+Your eyes got me dreaming
+Your eyes got me blind
+Your eyes got me hoping
+That I'll be holding you close tonight
+
+Your eyes got me dreaming
+Your eyes got me blind
+Your eyes got me hoping
+That I'll be holding you close tonight
+
+Ebony eyes
+Ebony eyes
+Ebony eyes
+Ebony eyes
+
+Your eyes got me dreaming
+Your eyes got me blind
+Your eyes got me hoping
+That I'll be holding you close tonight
+
+Your eyes got me dreaming
+Your eyes got me blind
+Your eyes got me hoping
+That I'll be holding you close tonight
+
+Your eyes got me dreaming
+Your eyes got me blind
+Your eyes got me hoping
+That I'll be holding you close tonight

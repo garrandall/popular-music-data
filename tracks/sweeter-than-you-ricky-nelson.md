@@ -65,10 +65,10 @@ And what more could I long for than to have you for my own
 My only desire is loving you eternally
 For no, no other love could ever mean so much to me
 So if you say you love me forever I'll be true
-And what more could I long for than to live my life {with you}
+And what more could I long for than to live my life
 
 I could never be loved by anyone sweeter than you
-And I could never belong to anyone {sweeter than you}
+And I could never belong to anyone
 
 
 

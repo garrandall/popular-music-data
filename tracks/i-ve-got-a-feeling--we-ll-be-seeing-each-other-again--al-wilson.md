@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-got-a-feeling--we-ll-be-seeing-each-other-again--al-wilson
+lyrics_url: https://genius.com/Al-wilson-ive-got-a-feeling-well-be-seeing-each-other-again-lyrics
 name: I've Got A Feeling (We'll Be Seeing Each Other Again)
 rankings:
 - end_date: '1976-04-02'
@@ -47,4 +48,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
 ---
-
+I've got a feeling
+That we'll be seeing
+Each other again
+I've got a feeling
+That we'll be seeing
+Each other again
+Let's not say goodbye
+Let's just say so long
+It didn't work out this time, girl
+Chances are that we'll get it on
+Cause I've got a world of faith
+That we're gonna make it someday
+Some other time and situation
+I know we can form a
+Stronger relation
+Cause I've got a feeling
+That we'll be seeing
+Each other again
+Someday, someway, girl
+I've got a feeling
+That we'll be seeing
+Each other again
+The short time I've known you
+I have truly found that you
+Are the kind of the lady
+I love to be around
+But your hangups
+As well as mine
+Wouldn't know how it
+To happen this time
+But I'm the kind
+Who truly believes it
+And try it again, if you
+First you don't succeed
+I've got a feeling
+That we'll be seeing
+Each other again
+Someday, someway, girl
+I've got a feeling
+That we'll be seeing
+Each other again
+Now, baby, listen to me
+I've got the feeling
+And I'm missing you
+I've got the feeling
+That you miss me too
+I've got the feeling
+That I'll be with you
+Oh, girl, miss you, too
+I've got a feeling
+That we'll be seeing
+Each other again
+Someday, someway, girl
+I've got a feeling
+That we'll be seeing
+Each other again
+Believe me
+Cause I love you
+I've got a feeling
+That we'll be seeing
+Each other again
+Can't you see it
+One more time, girl

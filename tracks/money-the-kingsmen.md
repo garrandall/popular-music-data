@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: money-the-kingsmen
+lyrics_url: https://genius.com/The-kingsmen-money-lyrics
 name: Money
 rankings:
 - end_date: '1964-03-20'
@@ -51,4 +52,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-23'
 ---
+You know the best things in life are free
+But you can give 'em to the birds and bees
 
+I want money
+Yeah, lots of money, child
+Yeah, stomp and shout, work it on out
+Every day, yeah
+
+You know there's many things to cure your ills
+But there is one thing gonna pay your bills
+
+And that's money
+Yeah, money, child
+Yeah, stomp and shout, work it on out
+Every day, yeah
+
+You know there's lots of things that I'd like to do
+Yeah, child, I wanna do 'em with you
+
+And that takes money
+Yeah, lots of money, child
+Yeah, stomp and shout, work it on out
+Every day, yeah

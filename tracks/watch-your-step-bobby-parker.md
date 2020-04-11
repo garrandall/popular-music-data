@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: watch-your-step-bobby-parker
+lyrics_url: https://genius.com/Bobby-parker-watch-your-step-lyrics
 name: Watch Your Step
 rankings:
 - end_date: '1961-06-18'
@@ -31,4 +32,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-07-17'
 ---
+You better take it easy, baby
+Before you go away
+You did me dirty
+But you'll get yours one day
 
+You better (watch your step)
+Talking about you (watch your step)
+You better (watch your step)
+(Watch your step)
+
+Keep your eyes open wide
+'Cause you'll be hurting down inside
+(Watch your step)
+(Watch your step)
+
+You better leave me all your money
+Before you go away
+Don't think I'm funny, honey
+But all I've gotta say
+
+You better (watch your step)
+Whoa, oh (watch your step)
+(Watch your step)
+(Watch your step)
+
+'Cause when you
+Took your love from me
+You left me full of misery
+(Watch your step) hey, hey
+(Watch your step)
+
+I'm gonna miss your loving every night
+When I get myself together
+I'm gonna be all right now
+Yeah, yeah
+
+(Watch your step)
+(Watch your step)
+(Watch your step)
+(Watch your step)
+
+Need me by your side
+I'm gonna say
+Go somewhere and hide
+(Watch your step) hey, hey
+(Watch your step)
+
+You better watch out, baby
+(Watch your step)
+Everything you do
+(Watch your step)
+I'm gonna keep my eyes focused
+(Watch your step)
+Right on you
+(Watch your step)
+
+You're gonna look out, honey
+(Watch your step)
+Eerywhere you go
+(Watch your step)...

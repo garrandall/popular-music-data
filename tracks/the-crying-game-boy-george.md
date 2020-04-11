@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-crying-game-boy-george
+lyrics_url: https://genius.com/Boy-george-the-crying-game-lyrics
 name: The Crying Game
 rankings:
 - end_date: '1993-03-19'
@@ -75,4 +76,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-07-03'
 ---
+I know all there is to know about the crying game
+I've had my share of the crying game
+First there are kisses
+Then there are sighs
+And then, before you know where you are
+You're sayin' goodbye
 
+
+One day soon, I'm gonna tell the moon about the crying game
+And if he knows, maybe he'll explain
+Why there are heartaches (Heartaches)
+Why there are tears (So sad)
+Then what to do to stop feeling blue
+When love disappears
+
+
+I know all there is to know about the crying game
+I've had my share of the crying game
+First there are kisses (Kisses)
+Then there are sighs (So sad)
+And then, before you know where you are
+You're sayin' goodbye
+
+
+Don't want no more of the crying game (Don't want no more)
+Don't want no more of the crying game (Don't want no more)
+Don't want no more of the crying game (Don't want no more)
+Don't want no more of the crying game

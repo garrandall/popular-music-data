@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kings-and-queens-thirty-seconds-to-mars
+lyrics_url: https://genius.com/Thirty-seconds-to-mars-kings-and-queens-lyrics
 name: Kings And Queens
 rankings:
 - end_date: '2009-11-06'
@@ -27,4 +28,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-01-09'
 ---
+Ooh, ooh, ooh
+Ooh, ooh, ooh
+Ooh, ooh, ooh
+Ooh, ooh, ooh
 
+
+Into the night
+Desperate and broken
+The sound of a fight
+Father has spoken
+
+
+We were the kings and queens of promise
+We were the victims of ourselves
+Maybe the children of a lesser God
+Between heaven and hell
+Heaven and hell
+
+
+Into your eyes
+Hopeless and taken
+We stole our new lives
+Through blood and name
+In defense of our dreams
+In defense of our dreams
+
+
+We were the kings and queens of promise
+We were the victims of ourselves
+Maybe the children of a lesser God
+Between heaven and hell
+Heaven and hell
+
+
+The age of man is over
+A darkness comes at dawn
+These lessons that we’ve learned here
+Have only just begun
+
+
+We were the kings and queens of promise
+We were the victims of ourselves
+Maybe the children of a lesser God
+Between heaven and hell
+
+
+We are the kings
+We are the queens
+We are the kings
+We are the queens

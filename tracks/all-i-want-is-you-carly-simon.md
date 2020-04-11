@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-i-want-is-you-carly-simon
+lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/alliwantisyou.html
 name: All I Want Is You
 rankings:
 - end_date: '1988-01-29'
@@ -43,4 +44,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-03-19'
 ---
-
+What do the neighbors say
+When they hear us scream at night
+Do they talk about a love
+All in tatters
+What do the neighbors know
+About the heart and soul
+The fire down below
+That really matters
+They can never guess
+In the silences
+That all I want is you
+And the sexy hurricane
+We got here
+All I want is you
+I don't want a man
+To say "good morning dear"
+Let 'em listen at the door
+Let 'em listen through the floor
+Let 'em go ahead and draw the wrong conclusion
+So chase me 'round the room
+Make me crazy like the moon
+They can never guess
+In the silences
+That all I want is you
+And the sexy hurricane that we share
+All I want is you
+I don't want a man
+Who tiptoes up the stairs
+All I want is you
+And the freight train
+Whistling over my track
+All I want is you
+And your Mack truck loving
+Jumping me Jack!
+Oh, Jack!

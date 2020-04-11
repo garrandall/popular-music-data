@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-minute-of-your-time-tom-jones
+lyrics_url: https://genius.com/Tom-jones-a-minute-of-your-time-lyrics
 name: A Minute Of Your Time
 rankings:
 - end_date: '1968-12-27'
@@ -47,4 +48,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-02-22'
 ---
+For you to think of me
+It would only take a minute of your time
+To spare one thought for me
+Would you miss just one minute of your time?
 
+When you are far away
+I'd like to be part of your time each day
+So think of me
+
+A minute of your time
+Is all it takes to bring us close
+
+When we are far apart
+And if I'm on your mind
+I know that there's a chance
+You'll ind that I'm there in your heart
+One minute ev'ry day
+May help to keep the wolf away
+Until that moment you are back to stay
+But better still I'd like to think of me
+Ev'ry minute of your time

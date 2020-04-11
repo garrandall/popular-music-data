@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-one-look-doris-troy
+lyrics_url: https://genius.com/Doris-troy-just-one-look-lyrics
 name: Just One Look
 rankings:
 - end_date: '1963-06-14'
@@ -63,4 +64,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-09-07'
 ---
+Just one look and I fell so hard
+In love with you
 
+I found out how good it feels
+To have your love
+
+Say you will be mine
+Forever and always
+
+Just one look and I knew
+That you were my only one
+
+I thought I was dreaming
+But I was wrong, yeah yeah yeah
+But I'm gonna keep on scheming
+Until I make you, make you my own
+
+So you see I really care
+Without you, I'm nothing
+
+Just one look and I know
+I'll get you someday
+
+Just one look that's all it took
+Just one look that's all it took...

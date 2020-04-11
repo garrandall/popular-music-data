@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lights-journey
+lyrics_url: https://genius.com/Journey-lights-lyrics
 name: Lights
 rankings:
 - end_date: '1978-08-25'
@@ -75,4 +76,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-02-27'
 ---
+When the lights go down in the City
+And the sun shines on the bay
+Ooh, I wanna be there in my City, oh
+Oh, oh, oh
 
+
+So you think you're lonely
+Well, my friend, I'm lonely too
+I want to get back to my City by the bay
+Oh, oh, oh
+
+
+It's sad, oh, there's been mornings out on the road without you
+Without your charms
+Ooh, my, my, my, my, my, my
+Oh, oh, oh
+
+
+When the lights go down in the City
+And the sun shines on the bay
+Ooh, I wanna be there in my City, oh
+Oh, oh, oh
+
+
+When the lights go down in the City
+And the sun shines on the bay
+Ooh, I wanna be there in my City, oh
+Oh, oh, oh
+Mmm
+Oh, oh, oh

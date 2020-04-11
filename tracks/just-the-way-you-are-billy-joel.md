@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-the-way-you-are-billy-joel
+lyrics_url: https://genius.com/Billy-joel-just-the-way-you-are-lyrics
 name: Just The Way You Are
 rankings:
 - end_date: '1977-11-18'
@@ -115,4 +116,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-13'
 ---
+Don't go changing to try and please me
+You never let me down before
+Don't imagine you're too familiar
+And I don't see you anymore
 
+
+I would not leave you in times of trouble
+We never could have come this far
+I took the good times, I'll take the bad times
+I'll take you just the way you are
+
+
+Don't go trying some new fashion
+Don't change the color of your hair
+You always have my unspoken passion
+Although I might not seem to care
+
+
+I don't want clever conversation
+I never want to work that hard
+I just want someone that I can talk to
+I want you just the way you are
+
+
+I need to know that you will always be
+The same old someone that I knew
+What will it take till you believe in me
+The way that I believe in you
+
+
+I said I love you and that's forever
+And this I promise from the heart
+I could not love you any better
+I love you just the way you are
+
+
+
+
+I don't want clever conversation
+I never want to work that hard
+I just want someone that I can talk to
+I want you just the way you are

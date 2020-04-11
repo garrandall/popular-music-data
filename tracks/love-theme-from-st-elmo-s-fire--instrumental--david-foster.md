@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-theme-from-st-elmo-s-fire--instrumental--david-foster
+lyrics_url: https://genius.com/David-foster-love-theme-from-st-elmos-fire-instrumental-lyrics
 name: Love Theme From St Elmo's Fire (Instrumental)
 rankings:
 - end_date: '1985-08-30'
@@ -95,4 +96,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-18'
 ---
-
+INSTRUMENTAL

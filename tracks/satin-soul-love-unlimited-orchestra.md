@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: satin-soul-love-unlimited-orchestra
+lyrics_url: https://www.musixmatch.com/lyrics/The-Love-Unlimited-Orchestra-2/Satin-Soul
 name: Satin Soul
 rankings:
 - end_date: '1975-02-14'
@@ -55,4 +56,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-04-26'
 ---
-
+Am I a man who knows how to love
+When you hate what you fear the most here
+I'll wash your feet as you spit in my face
+Hey you, I love your soul
+I'm gonna love when you hate
+You can't outrun or escape this liquid
+My life poured out like water here
+I'm gonna drown you
+With maddening forgiveness
+Hey you, I love your soul
+I can't depend on your hate
+To define my love
+Am I strong enough
+To love your soul
+Love doesn't care to receive what it gives
+Bleeding compassion to extreme
+Love stretches out to die for its enemies
+Hey you, I love your soul
+I can't depend on your hate
+To define my love
+Am I strong enough
+To love your soul
+No bounds on the deep
+No bounds on the wide
+Am I deep enough
+Yo love your soul
+God, I want to swim in the deep of You
+God, in You I'm strong enough
+Strong enough, strong enough
+I can't depend on your hate
+To define my love
+Am I strong enough
+To love your soul
+No bounds on the deep
+No bounds on the wide
+Am I deep enough
+To love your soul

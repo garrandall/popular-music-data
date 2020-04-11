@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ain-t-she-sweet-the-beatles
+lyrics_url: https://genius.com/The-beatles-aint-she-sweet-lyrics
 name: Ain't She Sweet
 rankings:
 - end_date: '1964-07-24'
@@ -43,4 +44,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-12'
 ---
+Oh ain't she sweet?
+Well see her walking down that street
+Yes I ask you very confidentially
+Ain't she sweet?
 
+
+Oh ain't she nice?
+Well look her over once or twice
+Yes I ask you, very confidentially
+Ain't she nice?
+
+
+Just cast an eye
+In her direction
+Oh me, oh my
+Ain't that perfection?
+
+
+Oh I repeat
+Well don't you think that's kind of neat?
+Yes I ask you, very confidentially
+Ain't she sweet?
+
+
+Oh ain't she sweet?
+Well see her walking down that street?
+Yes I ask you, very confidentially
+Ain't she sweet?
+
+
+Oh ain't she nice?
+Well look her over once or twice
+Yes I ask you, very confidentially
+Ain't she nice?
+
+
+Just cast an eye
+In her direction
+Oh me, oh my
+Ain't that perfection?
+
+
+Oh I repeat
+Well don't you think that's kind of neat?
+Yes I ask you, very confidentially
+Ain't she sweet?
+
+
+Oh ain't she sweet?
+Well see her walking down that street?
+Well I ask you, very confidentially
+Ain't she sweet?
+Well I ask you, very confidentially
+Ain't she sweet?

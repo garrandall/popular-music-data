@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nobody-s-supposed-to-be-here-deborah-cox
+lyrics_url: https://genius.com/Deborah-cox-nobodys-supposed-to-be-here-lyrics
 name: Nobody's Supposed To Be Here
 rankings:
 - end_date: '1998-10-09'
@@ -123,4 +124,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-04-17'
 ---
+How did you get here? Nobody's supposed to be here
+I tried that love thing for the last time
+My heart says "No, no." Nobody's supposed to be here
+But you came along and changed my mind
 
+
+I've spent all my life on a search to find
+The love who'll stay for eternity
+The heaven sent to fulfill my needs
+But when I turn around, again, love has knocked me down
+My heart got broken, oh it hurts so bad
+I'm sad to say love wins again
+
+
+So I placed my heart under lock and key
+To take some time to take care of me
+But I turn around and you're standing here
+
+
+
+
+This time I swear I'm through
+But, if only you knew how many times I've said those words
+Then fall again, when will I ever learn?
+Knowing these tears I cry, this lovely black butterfly
+Must take a chance, and spread my wings
+Love can make you do some crazy things

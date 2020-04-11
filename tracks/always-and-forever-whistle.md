@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-and-forever-whistle
+lyrics_url: https://genius.com/Whistle-always-and-forever-lyrics
 name: Always And Forever
 rankings:
 - end_date: '1990-04-13'
@@ -67,4 +68,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-07-14'
 ---
+And every day
+Love me your own special way
+Melt all my heart away
+With a smile
 
+Take time to tell me
+You really care
+And feel sad tomorrow together
+I'll always love you
+Forever, forever
+
+Always and forever
+Each moment with you
+Is just like a dream to me
+That somehow came true
+
+And I know tomorrow
+Will still be the same
+Cause we`ve got a life of love
+That won`t ever change
+
+And every day
+Love me your own special way
+Melt all my heart away
+With a smile
+
+Take time to tell me
+You really care
+And feel sad tomorrow together
+I'll always love you
+Forever, forever
+
+There'll always be sunshine
+When I look at you
+Something I can't explain
+Just the things that you do
+
+And if you get lonely
+Phone me
+And take a second to give to me
+The magic you make
+
+And every day
+Love me your own special way
+Melt all my heart away
+With a smile
+
+Take time to tell me
+You really care
+And feel sad tomorrow together
+I'll always love you
+Forever, forever

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-you-care-the-buckinghams
+lyrics_url: https://genius.com/The-buckinghams-dont-you-care-lyrics
 name: Don't You Care
 rankings:
 - end_date: '1967-03-17'
@@ -63,4 +64,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-10'
 ---
+If you don't love me
+Why don't you tell me
+Instead of running around
+With all the other guys in town
+Can't you see
+You're hurting me
+Don't you care
+Don't you care
 
+If you don't want me
+Why don't you tell me
+Instead of telling lies
+And making me cry
+Can't you see
+You're hurting me
+Don't you care
+Don't you care
+
+Whatever happened
+To all the good times we used to have
+The times we cried and laughed
+I want to know, I want to know
+Will you ever love me again
+Or will I find out that this is the end
+Don't you care
+My my my my baby
+
+You said that you'd believe me
+Then why'd you ever leave me
+I'm standing here all alone
+Without a girl of my own
+Can't you see
+You're hurting me
+Don't you care
+Don't you care
+
+Don't you care
+Don't you care
+Don't you care
+Don't you care
+Don't you care
+Don't you care

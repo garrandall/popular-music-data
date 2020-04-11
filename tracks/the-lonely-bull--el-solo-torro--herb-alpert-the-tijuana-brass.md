@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: the-lonely-bull--el-solo-torro--herb-alpert-the-tijuana-brass
+lyrics_url: https://www.musixmatch.com/lyrics/Herb-Alpert-feat-The-Tijuana-Brass-2/The-Lonely-Bull-2
 name: The Lonely Bull (El Solo Torro)
 rankings:
 - end_date: '1962-11-02'
@@ -64,4 +65,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-01-26'
 ---
-
+When you're standing on the edge of nowhere
+There's only one way up, so your heart's got to go there
+Through the darkest nights to see the light shine bright
+When heroes fall in love or war they live forever
+'Cause this is a song for the lonely
+Can you hear me tonight?
+For the broken hearted, battle scarred
+I'll be by your side
+And this is a song for the lonely
+When your dreams won't come true
+Can you hear this prayer?
+'Cause someone's there for you
+Well love don't need a reason
+She can pick you up or leave you bleeding
+I've seen a strong man cry, I know the reason why
+We all forgive, we all forget, we just keep believing
+'Cause this is a song for the lonely
+Can you hear me tonight?
+For the broken hearted, battle scarred
+I'll be by your side
+And this is a song for the lonely
+When your dreams won't come true
+Can you hear this prayer?
+'Cause someone's there for you
+(Don't give up)
+So let it find you
+(Just hold on)
+Wherever you may go
+()
+I'm right beside you
+You don't have to look no more
+You don't have to look no more, oh no
+It's gonna be alright
+It's gonna be alright
+It's gonna be alright
+This is a song, a song for the lonely
+And that's not you only
+Through the darkest night
+You're gonna see the light
+This a song for the lonely
+When your dreams won't come true
+Can you hear this prayer?
+'Cause there's someone there
+Can you hear this prayer?
+'Cause someone's there
+Can you hear this prayer?
+'Cause someone's there for you

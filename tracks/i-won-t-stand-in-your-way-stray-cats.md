@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-won-t-stand-in-your-way-stray-cats
+lyrics_url: https://genius.com/Stray-cats-i-wont-stand-in-your-way-lyrics
 name: I Won't Stand In Your Way
 rankings:
 - end_date: '1983-11-04'
@@ -59,4 +60,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-01-21'
 ---
+I, I've got a low down dirty feeling
+That I've been cheated on, and lied to
+If it's old then it's wrong, we've held on for so long
+Why don't we have that magic anymore
 
+I've got a strange sneaking suspicion
+That it's been going on for some time now
+Something shines in your eyes, something stirs deep inside
+I won't stand in your way anymore
+
+You said that I'm just a little boy
+Who's easily led astray
+Well aren't you the same little girl
+Who always gets her way

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kiss-and-tell-the-breakfast-club
+lyrics_url: https://genius.com/Breakfast-club-kiss-and-tell-lyrics
 name: Kiss And Tell
 rankings:
 - end_date: '1987-07-17'
@@ -43,4 +44,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-09-05'
 ---
+Every time somebody says to me
+It's a secret
+Well I have to laugh
+'Cause that is something I just can't keep
+It's a secret
+Oh I tried it once or twice
+But it didn't work too well
+So you'd better think it over
+'Cause I'm gonna tell
 
+I kiss and tell
+And everybody's gonna know
+I kiss and tell
+I've gotta let my feelings show
+
+Don't you tell me it's gotta be a secret thing
+It's no secret
+Well I've heard that before
+And there's always someone waiting in the wings
+It's no secret
+
+If there's somebody else on your mind
+Then it's not gonna work too well
+You would only be wasting your time
+'Cause I'm gonna tell
+
+I kiss and tell
+And everybody's gonna know
+I kiss and tell
+I've gotta let my feelings show
+
+Well I'm not gonna get down to it
+Until you make your mind up, you make your mind up, mind up
+Mind up
+Hurry up, 'cause I want to kiss and tell
+
+If there's somebody else on your mind
+Then it's not gonna work too well
+You would only be wasting your time
+'Cause I'm gonna tell
+
+I kiss and tell
+And everybody's gonna know
+I kiss and tell
+I've gotta let my feelings show
+
+Well I'm not gonna get down to it
+Until you make your mind up, you make your mind up, mind up
+Mind up
+Hurry up, 'cause I want to kiss and tell
+
+I kiss and tell
+And everybody's gonna know
+I kiss and tell
+I've gotta let my feelings show
+
+Well I'm not gonna get down to it
+Until you make your mind up

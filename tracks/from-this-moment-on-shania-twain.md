@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: from-this-moment-on-shania-twain
+lyrics_url: https://genius.com/Shania-twain-from-this-moment-on-lyrics
 name: From This Moment On
 rankings:
 - end_date: '1998-12-11'
@@ -63,4 +64,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-03-06'
 ---
+I do swear that I'll always be there
+I'd give anything and everything and I will always care
+Through weakness and strength, happiness and sorrow
+For better for worse, I will love you
+With every beat of my heart
 
+
+From this moment, life has begun
+From this moment, you are the one
+Right beside you is where I belong
+From this moment on
+From this moment, I have been blessed
+I live only for your happiness
+And for your love, I'd give my last breath
+From this moment on
+
+
+I give my hand to you with all my heart
+I can't wait to live my life with you, can't wait to start
+You and I will never be apart
+My dreams came true because of you
+
+
+From this moment, as long as I live
+I will love you, I promise you this
+There is nothing I wouldn't give
+From this moment on
+Ohh
+
+
+You're the reason I believe in love
+And you're the answer to my prayers from up above
+All we need is just the two of us
+My dreams came true because of you
+
+
+From this moment, as long as I live
+I will love you, I promise you this
+There is nothing I wouldn't give
+From this moment
+
+
+I will love you (I will love you), as long as I live
+From this moment on (On)
+Mmm, mmm

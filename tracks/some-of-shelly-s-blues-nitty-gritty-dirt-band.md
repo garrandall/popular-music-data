@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: some-of-shelly-s-blues-nitty-gritty-dirt-band
+lyrics_url: https://genius.com/The-nitty-gritty-dirt-band-some-of-shellys-blues-lyrics
 name: Some Of Shelly's Blues
 rankings:
 - end_date: '1971-09-17'
@@ -39,4 +40,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
 ---
+Tell me
+Just one more time the reason why you must leave
+Tell me once more why you're sure you don't need me
+Tell me again but don't think you'll convince me
 
+You said
+About fallin' in love again you'd rather be dead
+When someone breaks your heart you cry your eyes red
+There's nothin' so hard about the life that you've led
+
+As far as I can see
+There's no reason for goodbye
+You're just runnin' scared
+And that's something I won't buy
+
+So you lose
+I won't let you go there's nothin' to show but more blues
+All this talk about leavin' is strictly bad news
+So you settle down and stay with the boy that loves you
+
+As far as I can see
+There's no reason for goodbye
+You're just runnin' scared
+And that's something I won't buy
+
+So you lose
+I won't let you go and there's nothin' to show but more blues
+All this talk about leavin' is strictly bad news
+So you settle down and stay with the boy that loves you
+
+Ah, you settle down and stay with the boy that loves you
+Yeah, you settle down and stay with the boy that loves you

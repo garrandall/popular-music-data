@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bang-a-gong--get-it-on--t--rex
+lyrics_url: https://genius.com/T-rex-get-it-on-bang-a-gong-lyrics
 name: Bang A Gong (Get It On)
 rankings:
 - end_date: '1972-01-07'
@@ -67,4 +68,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-08'
 ---
+Well you're dirty and sweet
+Clad in black don't look back and I love you
+You're dirty and sweet, oh yeah
+Well you're slim and you're weak
+You've got the teeth of the hydra upon you
+You're dirty sweet and you're my girl
 
+
+Get it on, bang a gong, get it on
+Get it on, bang a gong, get it on
+
+
+Well you're built like a car
+You've got a hubcap diamond star halo
+You're built like a car, oh yeah
+Well you're an untamed youth
+That's the truth with your cloak full of eagles
+You're dirty sweet and you're my girl
+
+
+Get it on, bang a gong, get it on
+Get it on, bang a gong, get it on
+
+
+Well you're windy and wild
+You've got the blues in your shoes and your stockings
+You're windy and wild, oh yeah
+Well you're built like a car
+You've got a hubcap diamond star halo
+You're dirty sweet and you're my girl
+
+
+Get it on, bang a gong, get it on
+Get it on, bang a gong, get it on
+
+
+Well you're dirty and sweet
+Clad in black, don't look back and I love you
+You're dirty and sweet, oh yeah
+Well you dance when you walk
+So let's dance, take a chance, understand me
+You're dirty sweet and you're my girl
+
+
+Get it on, bang a gong, get it on
+Get it on, bang a gong, get it on (ow)
+Get it on, bang a gong, get it on (ow - get it on - mh)
+Get it on, bang a gong, get it on
+Get it on, bang a gong, get it on (a-a-a-a)
+Get it on, bang a gong, get it on
+Get it on, bang a gong, get it on
+Take me, for a meanwhile I'm still thinking

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-mountain-s-high-dick-and-deedee
+lyrics_url: https://www.musixmatch.com/lyrics/Dick-And-Deedee/The-Mountain-s-High
 name: The Mountain's High
 rankings:
 - end_date: '1961-08-06'
@@ -67,4 +68,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
 ---
+Yeah, yeah, yeah, yea-hea, yea-hea, yea-hea yea-hea
+The mountains high and the valleys so deep
+Cant get across to the other si-hi-hi-hi-hi-hi-hi-hi-hide
+Dont ya give up baby, dont you cry
+Dont ya give up till I reach the other si-hi-hi-hi-hi-hi-hide
 
+I was lonely baby, I couldnt sleep
+The night they took you from my si-hi-hi-hi-hi-hide
+
+I was a lonely soul
+Until you became my goal
+And then I saw the spark of love
+And then the stars fell from (up above OH YEAH!)
+
+I know someday we will meet again
+But I dont know exactly where or whe-he-he-he-he-he-he-hen
+But baby, if fate has its way
+Well meet again some other day-aaaaaaaaaayyyy
+
+The mountains high and the valleys so deep
+Cant get across to the other si-hi-hi-hi-hi-hi-hi-hide
+Dont ya give up baby, dont you cry
+Dont ya give up till I reach the other si-hi-hi-hi-hi-hi-hi-hide
+
+Hoo hoo hoo hoo (I know it to I tell ya)
+Hoo hoo hoo hoo (I know it to I tell ya)
+I know, I know hoo hoo hoo hoo
+FADES-
+I know, I know hoo hoo hoo hoo
+The valleys deep baby...

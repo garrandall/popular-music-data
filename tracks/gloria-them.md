@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gloria-them
+lyrics_url: https://genius.com/Them-gloria-lyrics
 name: Gloria
 rankings:
 - end_date: '1965-05-28'
@@ -35,4 +36,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-28'
 ---
-
+Like to tell ya about my baby
+You know she comes around
+She about five feet four
+From her head to the ground
+You know she comes around here
+At just about midnight
+She make ya feel so good, Lord
+She make ya feel all right
+And her name is G-L-O-R-I
+G-L-O-R-I-A (GLORIA)
+G-L-O-R-I-A (GLORIA)
+I'm gonna shout it all night (GLORIA)
+I'm gonna shout it everyday (GLORIA)
+Yeah-yeah-yeah-yeah-yeah-yeah
+She comes around here
+Just about midnight
+Ha, she make me feel so good, Lord
+I wanna say she make me feel alright
+Comes a-walkin' down my street
+When she comes to my house
+She knocks upon my door
+And then she comes in my room
+Yeah, an' she make me feel alright
+G-L-O-R-I-A (GLORIA)
+G-L-O-R-I-A (GLORIA)
+I'm gonna shout it all night (GLORIA)
+I'm gonna shout it everyday (GLORIA)
+Yeah-yeah-yeah-yeah-yeah
+Looks so good (GLORIA) alright
+Just so good (GLORIA) alright, yeah

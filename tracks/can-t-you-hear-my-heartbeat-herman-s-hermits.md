@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-you-hear-my-heartbeat-herman-s-hermits
+lyrics_url: https://genius.com/Hermans-hermits-cant-you-hear-my-heart-beat-lyrics
 name: Can't You Hear My Heartbeat
 rankings:
 - end_date: '1965-02-05'
@@ -67,4 +68,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-08'
 ---
+(Carter/Lewis)
 
+Every time I see you lookin' my way
+Baby, baby, can't you hear my heartbeat?
+In the car or walking down the highway
+Baby, baby, can't you hear my heartbeat?
+
+When you move up closer to me
+I get a feelin' that's ooo-wee
+Can't you hear the poundin' of my heartbeat
+'cause you're the one I love, you're the one I love
+
+When I feel you put your arms around me
+Baby, baby, can't you hear my heartbeat?
+Then I'm glad, I'm mighty glad I found you
+Baby, baby, can't you hear my heartbeat?
+
+When you asked me to meet your Ma
+I knew that baby, we'd be going far
+Can't you hear the poundin' of my heartbeat?
+'cause you're the one I love, you're the one I love
+
+------ rhythm guitar ------
+
+All my friends are cryin' out to meet you
+Baby, baby, can't you hear my heartbeat?
+Now's the time to go and see the preacher
+Baby, baby, can't you hear my heartbeat?
+
+Wedding bells are gonna chime
+Baby, baby, you're gonna be mine
+Can't you hear the poundin' of my heartbeat
+'cause you're the one I love, you're the one I love
+
+Baby, baby, can't you hear my heartbeat?
+Baby, baby, can't you hear my heartbeat?
+Baby, baby, can't you hear my heartbeat?

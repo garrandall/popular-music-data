@@ -5,6 +5,7 @@ features:
 - Dennis Yost
 genres: []
 key: stormy-classics-iv-dennis-yost
+lyrics_url: https://genius.com/Classics-iv-stormy-feat-denis-yost-lyrics
 name: Stormy
 rankings:
 - end_date: '1968-11-01'
@@ -68,4 +69,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-02-01'
 ---
+You were the sunshine, baby, whenever you smiled
+But I call you Stormy today
+All of a sudden that ole rain's fallin' down
+And my world is cloudy and gray
+You've gone away
+Oh Stormy, oh Stormy
+Bring back that sunny day
 
+Yesterday's love was like a warm summer breeze
+But, like the weather ya changed
+Now things are dreary, baby
+And it's windy and cold
+And I stand alone in the rain
+Callin' your name
+Oh Stormy, oh Stormy
+Bring back that sunny day
+
+
+
+Oh Stormy, oh Stormy
+Bring back that sunny day
+
+Bring back that sunny day
+
+Oh Stormy
+
+Oh Stormy

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: these-boots-are-made-for-walkin--nancy-sinatra
+lyrics_url: https://genius.com/Nancy-sinatra-these-boots-are-made-for-walkin-lyrics
 name: These Boots Are Made For Walkin'
 rankings:
 - end_date: '1966-01-28'
@@ -63,4 +64,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
 ---
+You keep saying you got something for me
+Something you call love, but confess
+You've been messing where you shouldn't have been messing
+And now someone else is getting all your best
 
+
+These boots are made for walking
+And that's just what they'll do
+One of these days these boots
+Are gonna walk all over you
+Yeah
+
+
+You keep lying when you ought to be truthing
+You keep losing when you ought to not bet
+You keep saming when you ought to be changing
+Now, what's right is right, but you ain't been right yet
+
+
+These boots are made for walking
+And that's just what they'll do
+One of these days these boots
+Are gonna walk all over you
+
+
+You keep playing where you shouldn't be playing
+And you keep thinking that you'll never get burnt, hah
+Well, I've just found me a brand new box of matches, yeah
+And what he knows you ain't had time to learn
+
+
+These boots are made for walking
+And that's just what they'll do
+One of these days these boots
+Are gonna walk all over you
+
+
+Are you ready, boots?
+Start walking

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: loop-de-loop-johnny-thunder
+lyrics_url: https://genius.com/Johnny-thunder-loop-de-loop-lyrics
 name: Loop De Loop
 rankings:
 - end_date: '1962-12-28'
@@ -51,4 +52,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-02'
 ---
-
+LOOP DE LOOP
+Johnny Thunder
+Here we go loop de loop
+Here we go loop de li
+Here we go loop de loop
+On a saturday night
+We're having a party
+Ev'rybody's havin' a great time
+All the gang's here and a-dancin'
+Yeah I'm loopin' with a baby of mine
+Here we go loop de loop
+Here we go loop de li
+Here we go loop de loop
+On a saturday night
+Darling are you ready
+To loop a loop loop with me
+Start right there
+Wait just a minute until I count to three
+(one, two, three)
+Here we go loop de loop
+Here we go loop de li
+Here we go loop de loop
+On a saturday night

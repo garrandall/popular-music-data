@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wake-up-crying-chuck-jackson
+lyrics_url: https://genius.com/Chuck-jackson-i-wake-up-crying-lyrics
 name: I Wake Up Crying
 rankings:
 - end_date: '1961-08-27'
@@ -39,4 +40,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
 ---
+I wake up crying
+After tossing and turning
+And yearning the whole night long
+Pretty baby, since you went away
+I haven't spent a happy day
 
+I wake up crying
+After sobbing and sighing
+And wondering just what went wrong
+Pretty baby, I was good to you
+Why'd you go and make me blue?
+
+I need your arms to hold me tight!
+I need your lips to kiss me goodnight!
+I'm so unhappy on my own...
+Don't, don't, leave me sad and lonely
+
+I wake up crying
+After tossing and turning
+And yearning the whole night long
+Pretty baby, please come back to me
+Save me from this misery...
+Oh baby, won't you save me from this misery?
+Oh baby, won't you save me from this misery?

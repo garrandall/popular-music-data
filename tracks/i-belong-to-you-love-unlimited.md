@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-belong-to-you-love-unlimited
+lyrics_url: https://genius.com/Love-unlimited-i-belong-to-you-lyrics
 name: I Belong To You
 rankings:
 - end_date: '1974-12-06'
@@ -67,4 +68,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-08'
 ---
+I belong to you
+For as long as you want me to
+I belong to you
+For as long as you want me to
 
+In love with you I'll always be
+Forever true till you set me free
+Please don't you worry
+About all the guys around
+They can't sweet talk me
+They can't put you down
+
+Ain't nothin' they can say
+My darlin' ain't no way
+All that I want I've got
+All I can think of is only you now
+
+I belong to you
+For as long as you want me to
+I belong to you baby
+For as long as you want me to
+
+There's no love
+Like what we've known
+Everything is right
+We can't go wrong
+
+Girls don't bother me
+No matter what they do
+Any fool can see
+Baby I've got you
+
+I may not be the best but
+I ain't seen no one yet
+Love you the way I do
+All I can think of is only you love
+
+I belong to you
+For as long as you want me to
+I belong to you
+
+Ain't nothin' they can say
+My darlin' ain't no way
+All that I want I've got
+All I can think of is only you now
+And only you now that's all I can think of
+
+I belong to you
+For as long as you want me to
+I belong to you
+For as long as you want me to
+
+I belong to you
+For as long as you want me to
+I belong to you

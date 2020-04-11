@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-the-lovelight-starts-shining-through-his-eyes-the-supremes
+lyrics_url: https://genius.com/The-supremes-when-the-lovelight-starts-shining-through-his-eyes-lyrics
 name: When The Lovelight Starts Shining Through His Eyes
 rankings:
 - end_date: '1963-12-06'
@@ -51,4 +52,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-08'
 ---
+He gave me the eye
+But I just passed him by
+I treated him unkind
+But he didn't seem to mind
+I told him be on his way
+But not a word did he say
+He just stood there kind of bold
+While I acted cold
 
+
+But when the lovelight starts shining through his eyes
+Made me realize I should apologize
+And when he placed a kiss upon my face
+Then I knew
+Oh, then I knew
+That he won my heart
+
+
+So I quickly apologized
+Hoping he hadn't changed his mind
+But not a word did he say
+So I turned to walk away
+
+
+But when the lovelight starts shining through his eyes
+Made me realize how he felt inside
+And when he placed a kiss upon my face
+Then I knew
+Oh, then I knew
+That he won my heart
+
+
+Ooh-wa!
+
+
+When he asked could he walk my way
+I hoped sweet things he'd say
+Instead, he smiled kind of nice
+As he held my hand kind of tight
+
+
+But when the lovelight starts shining through his eyes
+Made me realize how he felt inside
+And when he placed a kiss upon my face
+Then I knew
+Oh, then I knew
+That he won my heart
+
+
+But when the lovelight starts shining through his eyes
+Made me realize how he felt inside
+And when he placed a kiss upon my face
+Ooh, ooh

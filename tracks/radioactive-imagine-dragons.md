@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: radioactive-imagine-dragons
+lyrics_url: https://genius.com/Imagine-dragons-radioactive-lyrics
 name: Radioactive
 rankings:
 - end_date: '2012-08-24'
@@ -355,4 +356,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-05-10'
 ---
+Whoah-oh
+Whoah-oh
+Whoah-oh
+Whoah
 
+
+I'm waking up to ash and dust
+I wipe my brow and I sweat my rust
+I'm breathing in the chemicals
+Yeah, ah
+
+
+I'm breaking in, shaping up
+Then checking out on the prison bus
+This is it, the apocalypse
+Whoa
+
+
+I'm waking up, I feel it in my bones
+Enough to make my system blow
+Welcome to the new age, to the new age
+Welcome to the new age, to the new age
+
+
+Whoa-oh, whoa
+I'm radioactive, radioactive
+Whoa-oh, whoa
+I'm radioactive, radioactive
+
+
+I raise my flags, dye my clothes
+It's a revolution, I suppose
+We're painted red to fit right in
+Whoa
+
+
+I'm breaking in, shaping up
+Then checking out on the prison bus
+This is it, the apocalypse
+Whoa
+
+
+I'm waking up, I feel it in my bones
+Enough to make my system blow
+Welcome to the new age, to the new age
+Welcome to the new age, to the new age
+
+
+Whoa-oh, whoa
+I'm radioactive, radioactive
+Whoa-oh, whoa
+I'm radioactive, radioactive
+
+
+All systems go, the sun hasn't died
+Deep in my bones, straight from inside
+
+
+I'm waking up, I feel it in my bones
+Enough to make my system blow
+Welcome to the new age, to the new age
+Welcome to the new age, to the new age
+
+
+Whoa-oh, whoa
+I'm radioactive, radioactive
+Whoa-oh, whoa
+I'm radioactive, radioactive

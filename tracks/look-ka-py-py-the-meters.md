@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: look-ka-py-py-the-meters
+lyrics_url: https://www.musixmatch.com/lyrics/The-Meters/Look-Ka-Py-Py
 name: Look-Ka Py Py
 rankings:
 - end_date: '1969-12-12'
@@ -47,4 +48,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-07'
 ---
-
+'Cause Downtown Brooklyn Is Where I Was Born =
+But When The Snow Is Falling, Then I'm Gone
+You Might Think That I'm A Fanatic
+A Phone

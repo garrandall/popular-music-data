@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 100--pure-love-crystal-waters
+lyrics_url: https://genius.com/Crystal-waters-100-pure-love-lyrics
 name: 100% Pure Love
 rankings:
 - end_date: '1994-06-03'
@@ -187,4 +188,107 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-04-01'
 ---
+It's twelve past midnight
+Don't close your eyes
+Your soul's half alive
+And I'll be by your side
 
+I've come to take you there
+Show you how to care
+Just be aware
+That you'll have to share
+
+
+I want your love
+I want it tonight
+I'm taking your heart
+So don't you fight
+
+I'll be your answer
+I'll be your wish
+I'll be your fantasy
+Your favorite dish
+
+
+From the back to the middle
+And around again
+I'm gonna be there till the end
+100% pure love
+From the back to the middle
+And around again
+I'm gonna be there till the end
+100% pure love
+
+
+You saw a brand new high
+Thought that you could fly
+Did I hear you cry
+Or did you like the ride?
+
+You call my name again
+No, it's not a sin
+I'll show you how to win
+And where I've been
+
+
+I want your love
+I want it tonight
+I'm taking your heart
+So don't you fight
+
+I'll be your answer
+I'll be your wish
+I'll be your fantasy
+Your favorite dish
+
+
+From the back to the middle
+And around again
+I'm gonna be there till the end
+100% pure love
+From the back to the middle
+And around again
+I'm gonna be there till the end
+100% pure love
+From the back to the middle
+And around again
+I'm gonna be there till the end
+100% pure love
+From the back to the middle
+And around again
+I'm gonna be there till the end
+100% pure love
+
+
+You'll never have to run away
+You'll always have a friend to play
+You'll never go out on your own
+In me
+You will find a home
+Home
+
+
+From the back to the middle
+And around again
+I'm gonna be there till the end
+100% pure love
+From the back to the middle
+And around again
+I'm gonna be there till the end
+100% pure love
+From the back to the middle
+And around again
+I'm gonna be there till the end
+100% pure love
+From the back to the middle
+And around again
+I'm gonna be there till the end
+100% pure love
+From the back to the middle
+And around again
+I'm gonna be there till the end
+100% pure love
+From the back to the middle
+And around again
+I'm gonna be there till the end
+100% pure love

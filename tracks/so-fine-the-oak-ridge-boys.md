@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-fine-the-oak-ridge-boys
+lyrics_url: https://genius.com/The-oak-ridge-boys-so-fine-lyrics
 name: So Fine
 rankings:
 - end_date: '1982-06-18'
@@ -23,4 +24,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-07-03'
 ---
+So fine, so fine, so fine, yeah
+My baby's so doggone fine
+And she loves me, come rain, come shine
+Woh-oh, yeah, so fine
 
+She thrills me, she thrills me, she thrills me, yeah
+My baby thrills me all the time
+She sends cold chills up and down my spine
+Woh-oh, yeah, so fine
+
+Well, I know, I know she loves me so
+Well, I know, I know because my baby tells me so-woh-woh
+So fine, so fine, so fine, yeah
+My baby's so doggone fine
+She sends cold chills up and down my spine
+Woh-oh, yeah, so fine

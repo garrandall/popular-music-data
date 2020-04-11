@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: okie-from-muskogee-merle-haggard-and-the-strangers
+lyrics_url: https://www.musixmatch.com/lyrics/Merle-Haggard-and-the-Strangers-2/Okie-from-Muskogee
 name: Okie From Muskogee
 rankings:
 - end_date: '1969-11-07'
@@ -63,4 +64,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
 ---
+We don't smoke marijuana in Muskogee;
+We don't take no trips on LSD
+We don't burn no draft cards down on Main Street;
+We like livin' right, and bein' free.
 
+I'm proud to be an Okie from Muskogee,
+A place where even squares can have a ball
+We still wave Old Glory down at the courthouse,
+And white lightnin's still the biggest thrill of all
+
+We don't make a party out of lovin';
+We like holdin' hands and pitchin' woo;
+We don't let our hair grow long and shaggy,
+Like the hippies out in San Francisco do.
+
+And I'm proud to be an Okie from Muskogee,
+A place where even squares can have a ball.
+We still wave Old Glory down at the courthouse,
+And white lightnin's still the biggest thrill of all.
+
+Leather boots are still in style for manly footwear;
+Beads and Roman sandals won't be seen.
+Football's still the roughest thing on campus,
+And the kids here still respect the college dean.
+
+We still wave Old Glory down at the courthouse,
+In Muskogee, Oklahoma, USA.

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-old-heart-james-brown-and-the-famous-flames
+lyrics_url: https://genius.com/James-brown-and-the-famous-flames-this-old-heart-lyrics
 name: This Old Heart
 rankings:
 - end_date: '1960-09-04'
@@ -27,4 +28,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-09-26'
 ---
+This old heart
+Can't stand much more
+This old heart
+Can't stand much more
 
+Though I'm hurting
+I won't take it, no no
+
+This old heart
+Can't bear this pain
+This old heart
+Can't bear this pain
+If you love me
+You won't hurt me
+And refrain
+
+You took my love
+And now you're gone
+You took my heart
+And gone on home
+I know, pretty baby
+That you won't be true
+And I don't care what you do
+
+This old heart
+Can't bear this pain
+This old heart
+Can't bear this pain
+If you love me
+You won't hurt me
+And refrain
+OW!
+
+You took my love
+And now you're gone
+You took my heart
+And you gone on home
+I know, pretty baby
+That you won't be true
+And I don't care what you do
+
+This old heart
+Can't stand no more
+This old heart
+Can't stand no more
+
+Though I'm hurting
+I won't take it, no no
+Though I'm hurting
+I won't take it, no no
+Though I'm hurting
+I won't take it, no no
+Though I'm hurting
+I won't take it, no no

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-will-rain-bruno-mars
+lyrics_url: https://genius.com/Bruno-mars-it-will-rain-lyrics
 name: It Will Rain
 rankings:
 - end_date: '2011-10-21'
@@ -123,4 +124,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-04-28'
 ---
+If you ever leave me, baby
+Leave some morphine at my door
+'Cause it would take a whole lot of medication
+To realize what we used to have
+We don't have it anymore
+There's no religion that could save me
+No matter how long my knees are on the floor, oh
+So keep in mind all the sacrifices I'm making
+To keep you by my side
+To keep you from walking out the door
 
+
+'Cause there'll be no sunlight
+If I lose you, baby
+There'll be no clear skies
+If I lose you, baby
+Just like the clouds
+My eyes will do the same if you walk away
+Everyday, it'll rain
+Rain, rain
+
+
+I'll never be your mother's favorite
+Your daddy can't even look me in the eye
+Ooh, if I was in their shoes, I'd be doing the same thing
+Saying, "There goes my little girl
+Walking with that troublesome guy"
+But they're just afraid of something they can't understand
+Ooh, but little darling watch me change their minds
+Yeah, for you I'll try, I'll try, I'll try, I'll try
+And pick up these broken pieces till I'm bleeding
+If that'll make you mine
+
+
+'Cause there'll be no sunlight
+If I lose you, baby
+There'll be no clear skies
+If I lose you, baby
+Just like the clouds
+My eyes will do the same if you walk away
+Everyday, it'll rain
+Rain, rain
+
+
+Ooh, don't you say (Don't you say)
+Goodbye (Goodbye)
+Don't you say (Don't you say)
+Goodbye (Goodbye)
+I'll pick up these broken pieces till I'm bleeding
+If that'll make it right
+
+
+'Cause there'll be no sunlight
+If I lose you, baby
+And there'll be no clear skies
+If I lose you, baby
+And just like the clouds
+My eyes will do the same if you walk away
+Everyday, it'll rain
+Rain, rain

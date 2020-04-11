@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: could-it-be-love-jennifer-warnes
+lyrics_url: https://genius.com/Jennifer-warnes-could-it-be-love-lyrics
 name: Could It Be Love
 rankings:
 - end_date: '1981-12-11'
@@ -47,4 +48,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-02-06'
 ---
+Well, it seems right
+But I wonder and it feels right
+But I wonder if I know how true love feels
 
+Well, he shows me
+But I wonder
+He tells me
+But I wonder
+If he knows how true love feels
+
+Is it all infatuation?
+(Or is it possibly real?)
+Is it heartache's consulation?
+(Or is it possibly real?)
+
+Tell me again
+(This could be just what you wanted so long)
+Please tell me again
+(This could be someone who has wants and needs of his own)
+
+Well, it seems right
+(Could it be love?)
+But I wonder
+(Could it be love?)
+And it feels right
+Oh, but I wonder
+(Could it be love?)
+If we know how true love feels
+
+Is it all infatuation
+(Or is it possibly real?)
+Is it heartache's consulation?
+(Or is it possibly real?)
+
+Tell me again
+(This could be just what you wanted so long)
+Please tell me again
+(This could be someone who has wants and needs of his own)
+
+Well, it seems right
+But I wonder
+It feels right
+But I wonder
+If we know how true love feels
+
+Well, he shows me
+But I wonder
+He tells me
+But I wonder
+If we know how true love feels
+
+Well, it seems right
+But I wonder
+It feels right
+But I wonder

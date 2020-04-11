@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cleopatra-s-theme-cleopatra
+lyrics_url: https://genius.com/Cleopatra-cleopatras-theme-lyrics
 name: Cleopatra's Theme
 rankings:
 - end_date: '1998-07-10'
@@ -83,4 +84,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-11-07'
 ---
+Hey, ohohohoho
+Let me hear you say it
+(Cleopatra) Come on
 
+(Cleopatra comin' atcha, Cleopatra comin' atcha)
+(Cleopatra comin' atcha, Cleopatra comin' atcha)
+
+Get a pen and paper, write down our name
+You will realize our aim is the same (As the others)
+We all have that dream to make it to the top
+When we do we know we're never gonna stop
+
+(Be together) Oooh (Last forever), hey, yeah
+Our minds will stay the same
+We won't be beaten down by fame
+
+(Lovin' each other, one and another)
+We all want the same success
+So we're wishin' for the best
+
+(Hey, we're here) Oh
+(Fresh new talent's here and we know) Know
+(We're never gonna go, Cleopatra) Hey
+
+(We know the way to move, so we're gonna) Gonna
+(We're gonna blow the roof)
+(Gonna blow it) Hey, ohohohoho
+
+Let me hear you say it (Cleopatra)
+Come on
+
+We need education to get us to the ranks
+We've no time to play those silly little pranks
+(So we're saying) Please don't try to change the person you are
+Keep on dreamin' that you'll be a superstar
+
+(Be together, we'll last forever) Hey, yeah
+Our minds will stay the same
+We won't be beaten down by fame
+
+(Lovin' each other, one and another)
+We all want the same success
+So we're wishin' for the best
+
+(Hey, we're here) Oh
+(Fresh new talent's here and we know) Know
+(We're never gonna go, Cleopatra) Hey
+
+(We know the way to move, so we're gonna) Gonna
+(We're gonna blow the roof)
+(Gonna blow it) Hey, ohohohoho
+Let me hear you say it, yeah (Cleopatra)
+Come on
+
+(C-L-E-O-P-A)
+T-R-A
+
+(Hey, we're here) Oh
+(Fresh new talent's here and we know) Come on, girl
+(We're never gonna go, Cleopatra) Hey
+(We know the way to move, so we're gonna) Gonna
+
+We're gonna blow the roof, gonna blow it)
+Hey
+Yeah, hey
+(Cleopatra) Come on
+
+(C-L-E-O-P-A)
+T-R-A
+
+(Hey we're here)
+(Fresh new talent's here and we know)
+(We're never gonna go) We're never gonna go
+(Cleopatra, we know the way to move so we're gonna) Gonna
+(We're gonna blow the roof)
+
+(Hey we're here) Oh
+(Fresh new talent's here and we know) Know
+(We're never gonna go, Cleopatra) Hey
+(We know the way to move so we're gonna) Gonna
+(We're gonna blow the roof)

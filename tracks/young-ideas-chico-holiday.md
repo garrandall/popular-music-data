@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: young-ideas-chico-holiday
+lyrics_url: https://www.musixmatch.com/lyrics/Chico-Holiday/Young-Ideas
 name: Young Ideas
 rankings:
 - end_date: '1959-05-10'
@@ -31,4 +32,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-08'
 ---
+Oh, oh, oh, oh...
 
+Now we're gonna make love
+Well-a, well-a, well-a, well
+
+Young ideas
+Young ideas
+Young ideas
+Come, we're gonna make love
+Well-a, well-a, well-a, well
+
+Hug me close
+Whisper low
+I love you so
+Yes we're gonna make love
+Well-a, well-a, well-a, well
+
+Young ideas
+Young ideas
+Young ideas
+Come, we're gonna make love
+Well-a, well-a, well-a, well
+
+Diamond ring
+Engagement ring
+You're the prettiest thing
+And I need your love
+
+Making plans
+Future plans
+Hand in hand
+And we're gonna make love
+
+Oh, oh, oh, oh...
+
+And we're gonna make love
+Well-a, well-a, well-a, well
+
+Wedding vows
+Truest spouse
+We're married now
+And we're gonna make love
+Well-a, well-a, well-a, well
+
+You and me
+Then a family
+Maybe two or three
+Yes, we're gonna make love
+Well-a, well-a, well-a, well
+
+Young ideas
+Young ideas
+Young ideas
+Come, we're gonna make love
+
+Oh, oh, oh, oh...

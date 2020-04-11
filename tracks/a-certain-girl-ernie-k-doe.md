@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-certain-girl-ernie-k-doe
+lyrics_url: https://www.musixmatch.com/lyrics/Ernie-K-Doe/A-Certain-Girl-2002-Digital-Remaster
 name: A Certain Girl
 rankings:
 - end_date: '1961-11-19'
@@ -23,4 +24,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-12-04'
 ---
-
+There's a certain girl I've been in love with a long, long time
+What's her name?
+I can't tell you
+Ahh...
+I can't reveal her name until she's mine
+What's her name?
+I can't tell you
+Ahh...
+I've tried to make her time and time again
+Still we're introduced as nothing but friends
+There's a certain girl I've been in love with a long, long time
+What's her name?
+I can't tell you
+Ahh...
+There's a certain chick I've been sweet on since I met her
+What's her name?
+I can't tell you
+Ahh...
+I can't reveal her name until I get her
+What's her name?
+I can't tell you
+Ahh...
+Someday I'm going to wake up and say
+I'll do anything just to be your slave
+There's a certain girl I've been in love with a long, long time
+What's her name?
+I can't tell you
+Ahh...
+There's a certain girl I've been in love with a long, long time
+What's her name?
+I can't tell you
+Ahh...
+I can't reveal her name until she's mine
+What's her name?
+I can't tell you
+Ahh...
+I've tried to make her time and time again
+Still we're introduced as nothing but friends
+There's a certain girl I've been in love with a long, long time
+What's her name?
+I can't tell you
+Ahh...

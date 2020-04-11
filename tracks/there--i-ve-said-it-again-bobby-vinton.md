@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there--i-ve-said-it-again-bobby-vinton
+lyrics_url: https://genius.com/Bobby-vinton-there-ive-said-it-again-lyrics
 name: There! I've Said It Again
 rankings:
 - end_date: '1963-12-06'
@@ -59,4 +60,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-22'
 ---
+I love you, there's nothing to hide
+It's better than burning inside
+I love you, no use to pretend
+There! I've said it again
 
+I've said it, what more can I say?
+Believe me, there's no other way
+I love you, I will to the end
+There! I've said it again
+
+I try to drum up
+A phrase that will sum up
+All that I feel for you
+But what good are phrases?
+The thought that amazes
+Is that you love me and it's heavenly
+
+Forgive me for wanting you so
+But one thing I want you to know
+I've loved you since heaven knows when
+There! I've said it again
+
+Forgive me for wanting you so
+But one thing I want you to know
+I've loved you since heaven knows when
+There! I've said it again

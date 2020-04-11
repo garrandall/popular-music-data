@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: questions-chris-brown
+lyrics_url: https://genius.com/Chris-brown-questions-lyrics
 name: Questions
 rankings:
 - end_date: '2017-09-15'
@@ -59,4 +60,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-12-09'
 ---
+Oh, yuh ah deal wid
 
+
+From the moment you was dancing in the party, pushing all on me
+Giving everything, you're giving everything tonight
+And if you thought you could get away from me and get away from me
+Girl, just take your time (Time, time), you're coming home with me tonight
+
+
+Girl, I got a question for ya
+Can I get an answer?
+Yeah, yeah (Eh); yeah, yeah (Eh)
+Yeah, yeah (Eh); yeah, yeah (Eh)
+Girl, I got a question for ya
+Can I get an answer?
+Yeah, yeah (Eh);yeah, yeah (Eh)
+Yeah, yeah(Eh); yeah, yeah (Eh)
+
+
+She only love me 'cause I'm dangerous (Dangerous) (Ooh yeah)
+That pum pum something like angel dust (Angel dust) (Some')
+Girl, let me hold ya (Oh), put mi ting all around ya (Ooh)
+Make me feel like I own ya (Ooh), kill the poon like a warrior (Oh), hit that pum like
+
+
+Girl, I got a question for ya (I got)
+Can I get an answer? (An answer)
+Yeah, yeah (Eh); yeah, yeah (Eh) (Yeah, yeah)
+Yeah, yeah (Eh); yeah, yeah (Eh)
+Girl, I got a question for ya (Girl, I got)
+Can I get an answer? (Can I get an answer?)
+Yeah, yeah (Eh); yeah, yeah (Eh) (Oh, woah)
+Yeah, yeah (Eh); yeah, yeah (Eh)
+
+
+Let me hold you
+Come caress my body
+You got me going crazy
+You turn me on, turn me on
+Girl, let me love you
+Put your arms around me
+You got me going crazy
+You turn me on, turn me on, yeah
+
+
+Girl, I got a question for ya (For you)
+Can I get an answer? (Yeah, yeah)
+Yeah, yeah (Eh); yeah, yeah (Eh) (Yeah, yeah)
+Yeah, yeah (Eh); yeah, yeah (Eh) (Yeah, yeah)
+Girl, I got a question for ya (For you)
+Can I get an answer?
+Yeah, yeah (Eh); yeah, yeah (Eh) (Woo)
+Yeah, yeah (Eh); yeah, yeah (Eh) (Woo-ooh)

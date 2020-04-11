@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stop-her-on-sight--sos--edwin-starr
+lyrics_url: https://genius.com/Edwin-starr-sos-stop-her-on-sight-lyrics
 name: Stop Her On Sight (SOS)
 rankings:
 - end_date: '1966-02-25'
@@ -39,4 +40,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-09'
 ---
+Hey, hey, hey
+I'm sending out an S.O.S
+Hey, hey, hey
+I'm sending out an S.O.S
 
+I'm sending out an S.O.S
+Because I'm in so much distress
+So if you see my baby
+If you see my baby
+Stop her on sight
+
+Hey, hey, hey
+I'm sending out an S.O.S
+Hey, hey, hey
+I'm sending out an S.O.S
+
+I'm gonna tell the F.B.I
+I'm likely to get myself a secret spy
+Because I lost my baby
+So if you see my baby
+Stop her on sight
+
+You can tell her by the way she walks
+You can tell her by the way she talks
+You can tell her by the way she smiles
+I guarantee you it will drive you wild
+So if you see my baby
+If anybody sees my baby
+Stop her on sight
+
+Hey, hey, hey
+I'm sending out an S.O.S
+Hey, hey, hey
+I'm sending out an S.O.S

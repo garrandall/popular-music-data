@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-all-mariah-carey
+lyrics_url: https://genius.com/Mariah-carey-my-all-lyrics
 name: My All
 rankings:
 - end_date: '1998-05-15'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-09-19'
 ---
+I am thinking of you
+In my sleepless solitude tonight
+If it's wrong to love you
+Then my heart just won't let me be right
+'Cause I've drowned in you
+And I won't pull through
+Without you by my side
 
+
+I'd give my all to have
+Just one more night with you
+I'd risk my life to feel
+Your body next to mine
+'Cause I can't go on
+Living in the memory of our song
+I'd give my all for your love tonight
+
+
+Baby, can you feel me?
+Imagining I'm looking in your eyes
+I can see you clearly
+Vividly emblazoned in my mind
+And yet you're so far, like a distant star
+I'm wishing on tonight
+
+
+I'd give my all to have
+Just one more night with you
+I'd risk my life to feel
+Your body next to mine
+'Cause I can't go on
+Living in the memory of our song
+I'd give my all for your love tonight
+
+
+
+
+I'd give my all to have
+Just one more night with you
+I'd risk my life to feel
+Your body next to mine
+'Cause I can't go on
+Living in the memory of our song
+I'd give my all for your love tonight
+
+
+Give my all for your love
+Tonight

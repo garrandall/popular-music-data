@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-drive-55-sammy-hagar
+lyrics_url: https://genius.com/Sammy-hagar-i-cant-drive-55-lyrics
 name: I Can't Drive 55
 rankings:
 - end_date: '1984-10-05'
@@ -71,4 +72,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-01-12'
 ---
+One foot on the brake and one on the gas, hey
+Well, there's too much traffic, I can't pass, no
+So I tried my best illegal move
+A big black and white come and crushed my groove again
 
+Go on and write me up for 125
+Post my face, wanted dead or alive
+Take my license, all that jive
+I can't drive 55, oh no, uh
+
+So I signed my name on number 24, hey
+Yeah the judge said, "Boy, just one more, huh
+I'm gonna throw your ass in the city joint"
+Looked me in the eye, said, "You get my point?"
+I say "Yeah!, Oh yeah"
+
+Write me up for 125
+Post my face, wanted dead or alive
+Take my license, all that jive
+I can't drive 55, oh yeah
+
+(I can't drive 55)
+(I can't drive 55)
+(I can't drive 55)
+(I can't drive) 55, uh
+
+When I drive that slow, you know it's hard to steer
+And I can't get my car out of second gear
+What used to take two hours now takes all day
+Huh, it took me 16 hours to get to L.A
+
+Go on and write me up for 125
+Post my face, wanted dead or alive
+Take my license, all that jive
+I can't drive 55
+
+No, no, no, I can't drive, (I can't drive 55)
+I can't drive (I can't drive 55)
+(I can't drive 55)
+(I can't drive 55)

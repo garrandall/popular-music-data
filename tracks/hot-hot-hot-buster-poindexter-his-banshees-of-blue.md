@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: hot-hot-hot-buster-poindexter-his-banshees-of-blue
+lyrics_url: https://genius.com/Buster-poindexter-and-his-banshees-of-blue-hot-hot-hot-lyrics
 name: Hot Hot Hot
 rankings:
 - end_date: '1987-12-18'
@@ -60,4 +61,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-03-05'
 ---
-
+Ole ole - ole ole / Ole ole - ole ole
+EE-Yessa Ha-ha
+Ee-yes girls
+Me mind on fire -- Me soul on fire -- Feeling hot hot hot
+Party people -- All around me feeling hot hot hot
+What to do - On a night like this
+Music sweet - I can't resist
+We need a party song - A fundamental jam
+So we go rum-bum-bum-bum
+Yeah we rum-bum-bum-bum
+Feeling hot hot hot -- Feeling hot hot hot - oh Lord
+(me la la la lum bum bum)
+See people rocking -- Hear people chanting -- Feeling hot hot hot
+Keep up this spirit -- Come on let's do it -- Feeling hot hot hot
+It's in the air - Celebration time
+Music sweet - captivate your mind
+We have this party song - This fundamental jam
+So we go rum-bum-bum-bum
+Yeah we rum-bum-bum-bum
+Feeling hot hot hot -- Feeling hot hot hot - Oh Lord
+Ha-ha
+Ole ole - ole ole / Ole ole - ole ole
+Ole ole - ole ole / Ole ole - ole ole
+EE-yes girls
+People in the party - hot hot hot
+People in the party - hot hot hot
+They come to the party know what they got
+They come to the party know what they got
+I'm hot -- You're hot -- He's hot -- She's hot
+I'm hot -- You're hot -- He's hot -- She's hot
+(Real hot) -- (Real hot) -- (Real hot) -- (Real hot)H
+A-ha-ha - Oh Lord
+How you feeling? (Hot hot hot)
+How you feeling? (Hot hot hot)
+How you feeling? (Hot hot hot)
+How you feeling? (Hot hot hot)
+(Hot hot hot)(Hot hot hot)
+(Hot hot hot)(Hot hot hot)
+{repeat & fade}

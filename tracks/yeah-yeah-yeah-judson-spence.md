@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yeah-yeah-yeah-judson-spence
+lyrics_url: https://www.musixmatch.com/lyrics/Judson-Spence/Yeah-Yeah-Yeah
 name: Yeah Yeah Yeah
 rankings:
 - end_date: '1988-10-21'
@@ -63,4 +64,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-14'
 ---
+I'm standing outside your window
+I've been here all night long
+June feels like December
+'Cuz I'm out here all alone
+If you come down to the back door
+I'll climb down from this tree
+Baby you can grab your steps
+And take a walk with me
 
+Now that you've got me speechless
+So much I wanna say
+I can kiss my cool goodbye
+Every time you look at me that way
+I'd get down on my knees to make you understand
+That you're the girl who holds the heart
+Inside this man
+
+Whoa ho! - whoa ho ho! - ooh ooh ooh
+Now if you feel the way I do
+Just say yeah yeah yeah
+Whoa ho! - whoa ho ho oh! - ooh ooh ooh
+Baby if you love me, won't you say you love me
+Say yeah yeah yeah
+
+If I could offer you heaven
+Girl you know I would
+I'd be your guardian angel
+Baby if I could
+But if I have to wait a lifetime
+Girl I will do anything to show you
+That I love you still
+
+Whoa ho! - whoa ho ho! - ooh ooh ooh
+Now if you feel the way I do
+Just say yeah yeah yeah
+Whoa ho! - whoa ho ho oh! - ooh ooh ooh
+Baby if you love me, won't you say you love me
+Say yeah yeah yeah
+
+Shout it out loud
+Tell your mama
+Tell your daddy
+Everybody hear me
+Everybody here sing
+Shout it out loud
+Shout it out loud
+Shout it out loud
+Tell the world

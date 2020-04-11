@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wrong-again-martina-mcbride
+lyrics_url: https://genius.com/Martina-mcbride-wrong-again-lyrics
 name: Wrong Again
 rankings:
 - end_date: '1998-12-11'
@@ -43,4 +44,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-01-30'
 ---
-
+From the day we met
+You made me forget
+All my fears
+Knew just what to say
+And you kissed away
+All my tears
+I knew this time I had finally found
+Someone to build my life around
+Be a lover and a friend
+After all my heart had put me through
+I knew that it was safe with you
+And what we had would never end
+Wrong again
+Everybody swore
+They'd seen this before
+We'd be fine
+And you'd come to see that you still loved me
+In good time
+And they said there's nothing you can do
+It's something that he's going through
+It happens to a lot of men
+And I told myself that they were right
+That you'd wake up and see the light
+And I just had to wait 'til then
+Wrong again
+And it seemed to me the pain would last
+My chance for happiness had passed
+And nothing waited 'round the bend
+I was sure I'd never find someone
+To heal the damage you had done
+My poor heart would never mend
+Wrong again
+Wrong again

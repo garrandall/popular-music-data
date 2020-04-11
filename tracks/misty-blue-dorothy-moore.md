@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: misty-blue-dorothy-moore
+lyrics_url: https://genius.com/Dorothy-moore-misty-blue-lyrics
 name: Misty Blue
 rankings:
 - end_date: '1976-03-26'
@@ -95,4 +96,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-14'
 ---
+Oh, it's been such a long, long time
+Looks like I'd get you off my mind
+Oh, but I can't
+Just the thought of you
+Turns my whole world misty blue
 
+Oh honey, just the mention of your name
+Turns the flicker to a flame
+Listen to me good, baby
+I think of the things we used to do
+And my whole world turns misty blue
+
+Ooooh baby, I should forget you
+Heaven knows I tried
+Baby, when I say that I'm glad we're through
+Deep in my heart I know I've lied
+I've lied, I've lied
+
+Ooooh honey, it's been such a long, long time
+Looks like I'd get you off my mind
+But I can't
+Just the thought of you, my love
+My whole world turns misty blue
+
+Ooooh, Oh, I can't, Oh, I can't
+Oh, I can't forget you
+My whole world turns misty blue
+Ooooh, Oh, my love
+My whole world turns misty blue
+Baby, baby, baby, baby
+Baby, I can't forget you
+My whole world turns misty blue

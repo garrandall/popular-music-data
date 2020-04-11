@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: linda-lu-ray-sharpe
+lyrics_url: https://www.musixmatch.com/lyrics/Ray-Sharpe/Linda-Lu
 name: Linda Lu
 rankings:
 - end_date: '1959-07-26'
@@ -59,4 +60,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-10-12'
 ---
-
+Well, they call my Baby, Patty
+But her real name, her real name, her real name is Linda Lu
+Well now now they call my Baby, Patty
+But her real name, her real name, her real name is Linda Lu
+She's so fine, fair and pretty
+You never know what my Baby's gonna do
+My Linda Lu
+Now when she goes stroling down the street
+All the cats, All the cats, All the cats
+Turn to look around
+Well now she gives everybody the eye
+You never know, You never know,
+What my Baby's gonna put down
+Everybody always tells me
+I got the cutest little girl in town
+I'm gonna marry that girl
+Next Saturday night
+I'll stay with her for the rest of my life
+From now on my rovin' days are through
+And it's all because of that chick, a-Linda Lu
+Linda Lu, Linda Lu, tell me, tell me, tell me
+What are you gonna do
+I had a real bad dream last night, Honey
+You said, you said, you said that we were through
+Well now, if you ever leave me
+You're gonna break my poor heart in two
+My Linda Lu
+Alvino99

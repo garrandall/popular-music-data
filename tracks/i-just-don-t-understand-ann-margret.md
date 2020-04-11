@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-just-don-t-understand-ann-margret
+lyrics_url: https://genius.com/Ann-margret-i-just-dont-understand-lyrics
 name: I Just Don't Understand
 rankings:
 - end_date: '1961-07-30'
@@ -55,4 +56,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
 ---
+Well you call me your baby
+When you're holdin' my hand
+Mm, how you can hurt me
+I just don't understand
 
+Well you say that you need me
+Like the ocean needs sand
+But the way you mistreat me
+I just don't understand
+
+Well you know that I love you
+More than anyone can
+But a one-sided love
+I just don't understand (don't understand)
+
+Well you know that I love you
+More than anyone can
+But a one-sided love
+I just don't understand (don't understand)
+
+Well you call me your baby
+And you hold my hand
+Ah, honey, you hurt me
+And I just don't understand (don't understand)

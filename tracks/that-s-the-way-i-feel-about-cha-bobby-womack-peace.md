@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: that-s-the-way-i-feel-about-cha-bobby-womack-peace
+lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Womack-Peace/That-s-the-Way-I-Feel-About-Cha
 name: That's The Way I Feel About Cha
 rankings:
 - end_date: '1971-12-17'
@@ -60,4 +61,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-04'
 ---
-
+Huh, you know life is funny when you look at it
+Everybody wants love
+But everybody's afraid of love
+You know, I'm a true believer
+If you get anything out of life
+You got to put up with the toil and strife
+Ooh You're pushin' my love
+A little bit

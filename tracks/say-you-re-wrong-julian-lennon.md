@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: say-you-re-wrong-julian-lennon
+lyrics_url: https://www.musixmatch.com/lyrics/Julian-Lennon/Say-You-re-Wrong
 name: Say You're Wrong
 rankings:
 - end_date: '1985-04-26'
@@ -55,4 +56,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-07-06'
 ---
+You say you love me, but I think you're wrong
+We've had times in the past when we weren't so strong
+Well, I don't know which way to turn
+And I don't know which way to turn
+The times have changed, I can read your face
+There's been so many lies and no tears with your cries
+Well I don't know which way to turn
+And I don't know which way to turn
 
+I've been ashamed for so many years
+I don't know how to cope when you bring out the tears
+And I don't know which way to turn
+'Cause I don't know which end to burn
+
+I love you more than a man could say
+We've been through a lot
+Gone our sep'rate ways
+'Cause I don't know which way to turn
+And I don't know which way to turn
+
+I said I love you, well, I do
+I don't know whether I'm wrong or whether I'm right
+Or which way to turn
+And I don't know which way to turn

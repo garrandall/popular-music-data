@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girl-like-you-jason-aldean
+lyrics_url: https://genius.com/Jason-aldean-girl-like-you-lyrics
 name: Girl Like You
 rankings:
 - end_date: '2018-12-07'
@@ -83,4 +84,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-04-13'
 ---
+Love how you close your eyes when I pull you in closer
+Tonight's moving fast but we ain't taking it slower
+You hit me harder than a drink does
+You're gonna take me all the way up
+Something about you baby, got me going crazy
+I don't know what to do
 
+
+I've never met a girl like you
+That's ever done it quite like you do
+Your kiss is double-barrel bourbon on rocks
+Your lips are just the cherry on top
+I've never been high like this
+Turn out the lights and let me breathe you in
+Your eyes are so diamond, body so gold
+And I don't want to let you go
+I've never met a girl like you
+
+
+Love how you say my name and make it sound so sexy
+Love how you do that thing, yeah you know what gets me
+I'm talking slow motion all night long
+Baby, love you with the lights on
+
+
+I've never met a girl like you
+That's ever done it quite like you do
+Your kiss is double-barrel bourbon on rocks
+Your lips are just the cherry on top
+I've never been high like this
+Turn out the lights and let me breathe you in
+Your eyes are so diamond, body so gold
+And I don't want to let you go
+I've never met a girl like you
+
+
+I've never met a girl like you
+That's ever done it quite like you do
+Your kiss is double-barrel bourbon on rocks
+Your lips are just the cherry on top
+I've never been high like this
+Turn out the lights and let me breathe you in
+Your eyes are so diamond, body so gold
+And I don't want to let you go
+I've never met a girl like you
+I've never met a girl like you

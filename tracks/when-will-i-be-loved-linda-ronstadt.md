@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-will-i-be-loved-linda-ronstadt
+lyrics_url: https://genius.com/Linda-ronstadt-when-will-i-be-loved-lyrics
 name: When Will I Be Loved
 rankings:
 - end_date: '1975-04-18'
@@ -67,4 +68,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-07-19'
 ---
+I've been cheated
+Been mistreated
+When will I be loved?
 
+
+I've been put down
+I've been pushed 'round
+When will I be loved?
+
+
+When I find a new man
+That I want for mine
+He always breaks my heart in two
+It happens every time
+
+
+I've been made blue
+I've been lied to
+When will I be loved?
+
+
+
+
+When I find a new man
+That I want for mine
+He always breaks my heart in two
+It happens every time
+
+
+Oh, I've been cheated
+Been mistreated
+When will I be loved?
+When will I be loved?
+Tell me, when will I be loved?

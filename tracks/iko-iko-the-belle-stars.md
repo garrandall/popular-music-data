@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: iko-iko-the-belle-stars
+lyrics_url: https://genius.com/The-belle-stars-iko-iko-lyrics
 name: Iko Iko
 rankings:
 - end_date: '1989-03-10'
@@ -79,4 +80,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-07-01'
 ---
+My grandma and your grandma
+Sitting by the fire
+My grandma says to your grandma
+"I'm gonna set your flag on fire"
 
+Talkin' 'bout
+Hey now
+Hey now
+Iko iko an nay
+Jockomo feena ah na nay
+Jockomo feena nay
+
+Look at my king all dressed in red
+Iko iko an nay
+I bet you five dollars he'll kill you dead
+Jockomo feena nay
+
+Talkin' 'bout
+Hey now (hey now)
+Hey now (hey now)
+Iko iko an nay (whoah-oh)
+Jockomo feena ah na nay
+Jockomo feena nay
+
+My flag boy and your flag boy
+Sitting by the fire
+My flag boy says to your flag boy
+"I'm gonna set your flag on fire"
+
+Talkin' 'bout
+Hey now (hey now)
+Hey now (hey now)
+Iko iko an nay (whoah-oh)
+Jockomo feena ah na nay
+Jockomo feena nay
+Jockomo feena nay
+
+(hey now)
+(hey now)
+(hey now)
+(hey now)
+Jockomo feena nay
+Iko!
+
+See that guy all dressed in green
+Iko iko an nay
+He's not a man, he's a loving machine
+Jockomo feena nay
+
+Talkin' 'bout
+Hey now (hey now)
+Hey now (hey now)
+Iko iko an nay (whoah-oh)
+Jockomo feena ah na nay
+Jockomo feena nay
+
+Talkin' 'bout
+Hey now (hey now)
+Hey now (hey now)
+Iko iko an nay (whoah-oh)
+Jockomo feena ah na nay
+Jockomo feena nay (x 15)

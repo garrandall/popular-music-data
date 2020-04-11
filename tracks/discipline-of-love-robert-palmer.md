@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: discipline-of-love-robert-palmer
+lyrics_url: https://genius.com/Robert-palmer-discipline-of-love-lyrics
 name: Discipline Of Love
 rankings:
 - end_date: '1985-11-22'
@@ -27,4 +28,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-12-14'
 ---
+You naughty girl
+So sharp and dry
+Don't fill yourself with foolish pride
+You wanted me to notice you
+But when I came
+You cut me
 
+Why did you do it?
+Why did you go and spoil the fun?
+Why did you do it?
+You need the discipline of love
+Some discipline
+
+You wild child
+How sweet you smile
+Your crystal ball
+It's broken
+
+Why did you do it?
+Why did you go and spoil the fun?
+Why did you do it?
+You need the discipline of love
+Some discipline
+
+Take notice now
+My turn to talk
+The gate of love
+It's narrow

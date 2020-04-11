@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-know-why-norah-jones
+lyrics_url: https://genius.com/Norah-jones-dont-know-why-lyrics
 name: Don't Know Why
 rankings:
 - end_date: '2002-10-04'
@@ -131,4 +132,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-04-26'
 ---
+I waited 'til I saw the sun
+I don't know why I didn't come
+I left you by the house of fun
+I don't know why I didn't come
+I don't know why I didn't come
 
+
+When I saw the break of day
+I wished that I could fly away
+Instead of kneeling in the sand
+Catching tear-drops in my hand
+
+
+My heart is drenched in wine
+But you'll be on my mind
+Forever
+
+
+Out across the endless sea
+I will die in ecstasy
+But I'll be a bag of bones
+Driving down the road alone
+
+
+My heart is drenched in wine
+But you'll be on my mind
+Forever
+
+
+Something has to make you run
+I don't know why I didn't come
+I feel as empty as a drum
+I don't know why I didn't come
+I don't know why I didn't come
+I don't know why I didn't come

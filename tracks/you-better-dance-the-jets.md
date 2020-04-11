@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-better-dance-the-jets
+lyrics_url: https://genius.com/The-jets-group-you-better-dance-lyrics
 name: You Better Dance
 rankings:
 - end_date: '1989-08-04'
@@ -35,4 +36,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-09'
 ---
+Hey
+Heartache, no cure
+Broken down
+You see I've heard it all, all before
+Leave your trouble behind and walk out the door
 
+Ain't no sense crying out loud
+You better get dancing out in the crowd
+You better dance
+Dance your troubles away
+You better dance
+Dance all day
+You better dance
+Dance your troubles away
+You better dance
+
+You better dance
+Hey!
+
+Can't work, and nothing to eat
+
+Ain't no sense crying out loud
+You better get dancing in the crowd
+You better dance
+Dance your troubles away
+You better dance
+Dance all day
+You better dance
+Dance your troubles away
+You better dance
+
+You better dance
+Dance your troubles away
+You better dance
+Dance all day
+You better dance
+Dance your troubles away
+You better dance
+
+Dance, dance, dance

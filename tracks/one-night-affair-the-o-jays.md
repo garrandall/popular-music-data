@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-night-affair-the-o-jays
+lyrics_url: https://genius.com/The-ojays-one-night-affair-lyrics
 name: One Night Affair
 rankings:
 - end_date: '1969-08-15'
@@ -31,4 +32,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-09-13'
 ---
+Don't wanna love you
+Don't wanna make you my wife
+Don't wanna see ya
+Everyday for the rest of my life
 
+
+All I want is a one-night affair (One night affair)
+Oh, I got to have
+(One night affair)
+Oh, I'll hit and run
+(Hit and run)
+I'm a son-of-a gun
+(Son of a gun)
+I'll hit and run
+(Hit and run)
+Yes, I will, yes, I will
+
+
+Yes, I'll wine and dine ya
+Take you anywhere you wanna go
+And when the night is over
+I don't want to see you no more
+
+
+All I want is a one-night affair (One night affair)
+Oh, let me have
+(One night affair)
+Oh, I'll hit and run
+(Hit and run)
+I'm a son-of-a gun
+(Son of a gun)
+I'll hit and run
+(Hit and run)
+Yes, I will, yes, I will
+
+
+Oh, I'll never let you under my skin
+'Cause I don't want to be hurt again
+
+
+Oh, I
+(Hit and run)
+Yes, I will
+(Son of a gun)
+Yes, I am
+(Hit and run)
+Yes, I will
+All I want is a one-night affair (One night affair)
+Oh, let me have
+(One night affair)
+Oh, I'll hit and run
+(Hit and run)
+I'm a son-of-a gun
+(Son of a gun)
+I'll hit and run
+(Hit and run)
+Yes, I will, yes, I will
+
+
+Oh, I'll never let you under my skin
+'Cause I don't want to be hurt again
+
+
+Oh, I
+(Hit and run)
+Yes, I will
+(Son of a gun)
+Yes, I am
+(Hit and run)
+Yes, I will
+All I want is a one-night affair (One night affair)
+Oh, let me have
+(One night affair)
+Oh, I'll hit and run
+(Hit and run)
+I'm a son-of-a gun
+(Son of a gun)
+I'll hit and run
+(Hit and run)
+Yes, I will, yes, I will

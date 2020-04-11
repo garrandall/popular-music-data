@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hung-up-madonna
+lyrics_url: https://genius.com/Madonna-hung-up-lyrics
 name: Hung Up
 rankings:
 - end_date: '2005-11-11'
@@ -87,4 +88,102 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-03-18'
 ---
+Time goes by so slowly
+Time goes by so slowly
+Time goes by so slowly
+Time goes by so slowly
+Time goes by so slowly
+Time goes by so slowly
 
+
+Every little thing that you say or do
+I'm hung up, I'm hung up on you
+Waiting for your call, baby, night and day
+I'm fed up, I'm tired of waiting on you
+
+
+Time goes by so slowly for those who wait
+No time to hesitate
+Those who run seem to have all the fun
+I'm caught up
+I don't know what to do
+
+
+Time goes by so slowly
+Time goes by so slowly
+Time goes by so slowly
+I don't know what to do
+
+
+Every little thing that you say or do
+I'm hung up, I'm hung up on you
+Waiting for your call, baby, night and day
+I'm fed up, I'm tired of waiting on you
+Every little thing that you say or do
+I'm hung up, I'm hung up on you
+Waiting for your call, baby, night and day
+I'm fed up, I'm tired of waiting on you
+
+
+Ring, ring, ring goes the telephone
+The lights are on, but there's no one home
+Tick tick tock, it's a quarter to two
+And I'm done
+I'm hanging up on you
+I can't keep on waiting for you
+I know that you're still hesitating
+Don't cry for me, 'cause I'll find my way
+You'll wake up one day
+But it'll be too late
+
+
+Every little thing that you say or do
+I'm hung up, I'm hung up on you
+Waiting for your call, baby, night and day
+I'm fed up, I'm tired of waiting on you
+Every little thing that you say or do
+I'm hung up, I'm hung up on you
+Waiting for your call, baby, night and day
+I'm fed up, I'm tired of waiting on you
+
+
+Every little thing, every little thing
+I'm hung up, I'm hung up on you
+Waiting for you call, waiting for you call
+I'm fed up, I'm tired waiting on you
+
+
+Time goes by so slowly
+Time goes by so slowly
+Time goes by so slowly
+Time goes by so slowly
+(So slowly...)
+(So slowly...)
+(So slowly...)
+(So slowly...)
+(So slowly...)
+(So slowly...)
+(So slowly...)
+(So slowly...)
+(So slowly...)
+(So slowly...)
+(So slowly...)
+(So slowly...)
+(So slowly...)
+I don't know what to do
+
+
+Every little thing that you say or do
+I'm hung up, I'm hung up on you
+Waiting for your call, baby, night and day
+I'm fed up, I'm tired of waiting on you
+Every little thing that you say or do
+I'm hung up, I'm hung up on you
+Waiting for your call, baby, night and day
+I'm fed up, I'm tired of waiting on you
+
+
+Every little thing, every little thing
+I'm hung up, I'm hung up on you
+Waiting for you call, waiting for you call
+I'm fed up, I'm tired waiting on you

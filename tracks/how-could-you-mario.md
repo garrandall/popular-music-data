@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-could-you-mario
+lyrics_url: https://genius.com/Mario-how-could-you-lyrics
 name: How Could You
 rankings:
 - end_date: '2005-03-25'
@@ -75,4 +76,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-07-09'
 ---
+It's kinda crazy babe
+How I remember things, (like where you came from and how you had nothin)
+I went and made you fly
+Put extras on your ride, (didn't miss a birthday now you can't even remember mine)
 
+
+You made it clear to me (you wasn't down for me)
+(Love made me blind, baby) but now I see
+(you had things up your sleeve, don't even lie to me) I even heard it from your family
+
+
+How could you let somebody lay where I laid?
+How could you give him everything that we made?
+How could you call him all the names that you used to call me?
+How could you, how could you just forget about me?
+How could you teach him all the things I taught you?
+How could you put him on to the Ghetto Kama Sutra?
+How could you put me in the back and give him the front seat?
+How could you, how could you just forget about me?
+
+
+You must be out your mind
+You got a lot of nerve (to think that I'm gon' chill after all the shit I heard)
+I damn near carried you
+I could've married you
+Good thing I found out before I bought that 7 karat for you
+
+
+(I know your sick about) the way I found you out
+(Go head and pack it out) I hope he's got room in his house
+You should have thought of me before you hopped in them sheets
+Damn I can't believe that you did this to me
+
+
+
+
+Girl I tried to give you everything
+Can't believe the ways you repaid me
+Girl you had it all
+But I guess my all wasn't good enough for you
+Baby I've accepted it
+And I ain't gone trip
+Girl I'm moving on
+Sometimes I can't help but think that another man's gonna get the one I made for me
+
+
+
+How could you let somebody lay where I laid?
+How could you give him everything that we made?
+How could you call him all the names that you used to call me?
+How could you, how could you just forget about me?
+How could you teach him all the things I taught you??
+How could you put him on to the Ghetto Kama Sutra??

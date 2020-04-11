@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: california-dreamin--the-mamas-the-papas
+lyrics_url: https://genius.com/The-mamas-and-the-papas-california-dreamin-lyrics
 name: California Dreamin'
 rankings:
 - end_date: '1966-01-14'
@@ -76,4 +77,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
 ---
+All the leaves are brown
+(All the leaves are brown)
+And the sky is gray
+(And the sky is gray)
+I've been for a walk
+(I've been for a walk)
+On a winter's day
+(On a winter's day)
+I'd be safe and warm
+(I'd be safe and warm)
+If I was in L.A
+(If I was in L.A.)
+California dreamin'
+(California dreamin') on such a winter's day
 
+
+Stopped in to a church I passed along the way
+Well I got down on my knees
+(got down on my knees)
+And I pretend to pray
+(I pretend to pray)
+You know the preacher likes the cold
+(preacher likes the cold)
+He knows I'm gonna stay
+(knows I'm gonna stay)
+California dreamin'
+(California dreamin') on such a winter's day
+
+
+
+
+All the leaves are brown
+(All the leaves are brown)
+And the sky is gray
+(And the sky is gray)
+I've been for a walk
+(I've been for a walk)
+On a winter's day
+(On a winter's day)
+If I didn't tell her
+(If I didn't tell her)
+I could leave today
+(I could leave today)
+California dreamin' (California dreamin') on such a winter's day
+California dreamin' on such a winter's day
+California dreamin' on such a winter's day

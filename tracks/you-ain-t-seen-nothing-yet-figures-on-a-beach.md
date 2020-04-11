@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-ain-t-seen-nothing-yet-figures-on-a-beach
+lyrics_url: https://genius.com/Figures-on-a-beach-you-aint-seen-nothing-yet-lyrics
 name: You Ain't Seen Nothing Yet
 rankings:
 - end_date: '1989-04-14'
@@ -35,4 +36,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-05-20'
 ---
-
+I met a devil woman
+She took my heart away
+She said, I've had it comin' to me
+But I wanted it that way
+I think that any love is good lovin'
+So I took what I could get, mmh
+Oooh, oooh she looked at me with big brown eyes
+And said
+You ain't seen nothin' yet
+B-b-b-baby, you just ain't seen n-n-nothin' yet
+Here's something that you never gonna forget
+B-b-b-baby, you just ain't seen n-n-nothin' yet
+Nothin' yet, you ain't been around
+That's what they told me
+And now I'm feelin' better
+'Cause I found out for sure
+She took me to her doctor
+And he told me of a cure
+He said that any love is good love
+So I took what I could get
+Yes, I took what I could get
+And then she looked at me with them big brown eyes
+And said
+You ain't seen nothin' yet
+B-b-b-baby, you just ain't seen n-n-nothin' yet
+Here's something, here's something your never gonna forget, baby
+You know, you know, you know you just ain't seen nothin' yet
+You need educatin'
+You got to got to school
+Any love is good lovin'
+So I took what I could get
+Yes, I took what I could get
+And then, and then, and then
+She looked at me with them big brown eyes
+And said
+You ain't seen nothin' yet
+Baby, you just ain't seen n-n-nothin' yet
+Here's something, here's something
+Here's something that your never gonna forget, baby
+Baby, baby, baby you ain't seen n-n-nothin' yet
+You ain't been around
+You ain't seen nothin' yet
+That's what she told me
+She said, I needed educatin', go to school
+I know I ain't seen nothin' yet
+I know I ain't seen nothin' yet
+Got something for you right now
+Feels good, alright, how do you do that?
+But I ain't seen nothin' yet
+I deserve it one of these days
+Woohoo, but I ain't seen nothin' yet
+Yeahyeahyeahyeahyeahyeah
+I ain't seen nothin' yet
+I'll wait, I'll wait, I'll wait
+If you want to show me what I ain't seen, where I ain't been
+Lalalalalala

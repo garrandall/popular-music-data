@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-ever-you-re-in-my-arms-again-peabo-bryson
+lyrics_url: https://genius.com/Peabo-bryson-if-ever-youre-in-my-arms-again-lyrics
 name: If Ever You're In My Arms Again
 rankings:
 - end_date: '1984-05-18'
@@ -107,4 +108,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-10-27'
 ---
+It all came so easy
+All the lovin' you gave me
+The feelings we shared
+And I still can remember
+How your touch was so tender
+It told me you cared
 
+We had a once in a lifetime
+But I just couldn't see
+Until it was gone
+A second once in a lifetime
+May be too much to ask
+But I swear from now on
+
+If ever you're in my arms again
+This time I'll love you much better
+If ever you're in my arms again
+This time I'll hold you forever
+This time we'll never end
+
+Now I'm seeing clearly
+How I still need you near me
+I still love you so
+There's something between us
+That won't ever leave us
+There's no letting go
+(No letting go)
+
+We had a once in a lifetime
+But I just didn't know it
+'Til my life fell apart
+A second once in a lifetime
+Isn't too much to ask
+Cause I swear from the heart
+
+If ever you're in my arms again
+This time I'll love you much better
+If ever you're in my arms again
+This time I'll hold you forever
+This time we'll never end, never end
+
+The best of romances
+Deserve second chances
+I'll get to you somehow
+Cause I promise now
+
+If ever you're in my arms again
+This time I'll love you much better
+If ever you're in my arms again
+This time I'll hold you forever
+This time we'll never end
+
+If ever you're in my arms again
+This time I'll love you much better
+If ever you're in my arms again
+This time I'll hold you forever
+This time we'll never end
+
+If ever you're in my arms again
+This time I'll love you much better
+If ever you're in my arms again
+This time I'll hold you forever
+This time we'll never end
+If ever you're in my arms again

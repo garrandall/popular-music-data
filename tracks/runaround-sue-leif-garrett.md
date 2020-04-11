@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: runaround-sue-leif-garrett
+lyrics_url: https://genius.com/Leif-garrett-runaround-sue-lyrics
 name: Runaround Sue
 rankings:
 - end_date: '1977-11-18'
@@ -63,4 +64,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-11'
 ---
+I should have known it from the very start
+This girl would leave me with a broken heart
+Now listen people what I'm tellin' you
+Keep away from a Runaround Sue
 
+I miss her lips and the smile on her face
+The touch of her hand and this qirl's warm embrace
+So if you don't wanna cry like I do
+Keep away from a Runaround Sue
+She likes to travel around
+She'll love ya and she'll put you down
+Now people let me set you wise
+Sue goes out with other guys
+Here's the moral of the story from the guy who knows
+I fell in love and my love still grows
+Ask any fool that she ever knew
+They'll say
+Keep away from a Runaround Sue
+She like to travel around
+
+Runaround Sue

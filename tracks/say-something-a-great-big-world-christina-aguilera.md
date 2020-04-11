@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: say-something-a-great-big-world-christina-aguilera
+lyrics_url: https://genius.com/Say-something-say-something-tribute-to-a-great-big-world-and-christina-aguilera-instrumental-version-lyrics
 name: Say Something
 rankings:
 - end_date: '2013-11-29'
@@ -112,4 +113,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-05-17'
 ---
-
+Instrumental

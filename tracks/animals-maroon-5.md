@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: animals-maroon-5
+lyrics_url: https://genius.com/Maroon-5-animals-lyrics
 name: Animals
 rankings:
 - end_date: '2014-09-12'
@@ -139,4 +140,94 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-04-18'
 ---
+Baby, I'm preying on you tonight
+Hunt you down, eat you alive
+Just like animals, animals, like animals-mals
+Maybe you think that you can hide
+I can smell your scent from miles
+Just like animals, animals, like animals-mals
+Baby, I'm... (Hey)
 
+
+So what you trying to do to me? (Hey)
+It's like we can't stop, we're enemies (Hey)
+But we get along when I'm inside you, yeah (Hey)
+You're like a drug that's killing me (Hey)
+I cut you out entirely (Hey)
+But I get so high when I'm inside you
+
+
+Yeah, you can start over, you can run free (Hey)
+You can find other fish in the sea (Hey)
+You can pretend it's meant to be (Hey)
+But you can't stay away from me
+I can still hear you making that sound (Hey)
+Taking me down, rolling on the ground (Hey)
+You can pretend that it was me, but no, oh (Hey)
+
+
+Baby, I'm preying on you tonight
+Hunt you down, eat you alive
+Just like animals, animals, like animals-mals
+Maybe you think that you can hide
+I can smell your scent from miles
+Just like animals, animals, like animals-mals
+Baby, I'm... (Hey)
+
+
+So if I run, it's not enough (Hey)
+You're still in my head, forever stuck (Hey)
+So you can do what you wanna do, yeah (Hey)
+I love your lies, I'll eat 'em up (Hey)
+But don't deny the animal (Hey)
+That comes alive when I'm inside you
+
+
+Yeah, you can start over, you can run free (Hey)
+You can find other fish in the sea (Hey)
+You can pretend it's meant to be
+But you can't stay away from me
+I can still hear you making that sound (Hey)
+Taking me down, rolling on the ground (Hey)
+You can pretend that it was me, but no, oh (Hey)
+
+
+Baby, I'm preying on you tonight
+Hunt you down, eat you alive
+Just like animals, animals, like animals-mals
+Maybe you think that you can hide
+I can smell your scent from miles
+Just like animals, animals, like animals-mals
+Baby, I'm...
+
+
+Don't tell no lie, lie, lie, lie
+You can't deny-ny-ny-ny
+The beast inside, si-si-side
+Yeah, yeah, yeah
+No girl don't lie, lie, lie, lie (No, no, don't lie)
+You can't deny-ny-ny-ny (You can't deny)
+The beast inside, si-si-side
+Yeah, yeah, yeah, yo-oh, oh, oh, oh, oh, oh, oh
+Just like animals, animals, like animals-mals (Hey, hey)
+Just like animals, animals, like animals-mals, oww!
+(Yeah, yeah, yeah)
+
+
+Baby, I'm preying on you tonight
+Hunt you down, eat you alive
+Just like animals, animals, like animals-mals
+Maybe you think that you can hide
+I can smell your scent from miles
+Just like animals, animals, like animals-mals
+Baby, I'm...
+
+
+Don't tell no lie, lie, lie, lie
+You can't deny-ny-ny-ny
+The beast inside, si-si-side
+Yeah, yeah, yeah
+No girl don't lie, lie, lie, lie (No, no, don't lie)
+You can't deny-ny-ny-ny (You can't deny)
+The beast inside, si-si-side
+Yeah, yeah, yeah

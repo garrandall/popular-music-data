@@ -1,6 +1,6 @@
 ---
 artists:
-- Daryl Hall John Oates
+- Hall & Oates
 features: []
 genres: []
 key: why-do-lovers--break-each-other-s-heart---daryl-hall-john-oates

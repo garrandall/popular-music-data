@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-by-myself-celine-dion
+lyrics_url: https://genius.com/Celine-dion-all-by-myself-lyrics
 name: All By Myself
 rankings:
 - end_date: '1997-04-04'
@@ -87,4 +88,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-08-09'
 ---
+When I was young
+I never needed anyone
+And making love was just for fun
+Those days are gone
+Livin' alone
+I think of all the friends I've known
+When I dial the telephone
+Nobody's home
 
+
+All by myself
+Don't wanna be
+All by myself
+Anymore
+
+
+Hard to be sure
+Sometimes I feel so insecure
+And loves so distant and obscure
+Remains the cure
+
+
+All by myself
+Don't wanna be
+All by myself
+Anymore
+All by myself
+Don't wanna live
+All by myself
+Anymore
+
+
+When I was young
+I never needed anyone
+Making love was just for fun
+Those days are gone
+
+
+All by myself
+Don't wanna be
+All by myself
+Anymore
+All by myself
+Don't wanna live
+Oh
+Don't wanna live
+By myself, by myself
+Anymore
+By myself
+Anymore
+Oh
+All by myself
+Don't wanna live
+I never, never, never
+Needed anyone

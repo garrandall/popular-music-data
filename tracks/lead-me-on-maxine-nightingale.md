@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lead-me-on-maxine-nightingale
+lyrics_url: https://genius.com/Maxine-nightingale-lead-me-on-lyrics
 name: Lead Me On
 rankings:
 - end_date: '1979-06-01'
@@ -99,4 +100,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
 ---
+I have often heard you say
+You love me as a friend
+But I love you more than anyone
+You know I can't pretend no longer
+I would give you anything
+I could throw my world away
+But you don't want to hear that anymore
+And you want to hear me say
 
+Chorus:
+Come on and lead me on
+Come on and tease me all night long
+Loving you I know it's right
+I'll always need you
+I'll never leave you
+Come on and lead me on
+Tease me all night long
+I'd rather be a fool with a broken heart
+Than someone who never had a part of you
+
+You know I told you from the start
+Exactly how I feel
+Time goes on, seems nothing's changed
+I'm in love for real
+We have never played the games
+That real lovers do
+So maybe we are better off
+Baby, I'd still like this from you
+
+Repeat Chorus and fade

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: delicate-terence-trent-d-arby
+lyrics_url: https://genius.com/Terence-trent-darby-delicate-lyrics
 name: Delicate
 rankings:
 - end_date: '1993-09-03'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-10-16'
 ---
+Delicate
+Delicate like rain
+Delicate like snow
+Delicate like birds
+Delicate just so
+Delicate like air
+Delicate like breeze
+Delicate like you and me
 
+A delicate advance
+A delicate retreat
+Delicately planned
+Delicate like peace
+Delicate like a touch
+That's delicately brief
+Delicate like you and me
+
+Delicate like trinkets on her bracelet
+(Like trinkets on her bracelet)
+Delicate like a bracelet on your arm
+(Like a bracelet on your arm)
+Delicate like sweet arms around me
+(Your sweet arms around me)
+Delicate like me on top of you
+
+Delicate like words
+Delicate how time
+So delicately runs
+Then delicately dies
+Delicate how eyes
+So delicately breathe
+Delicate like you my dear
+Delicate like me my love
+Delicate like you and
+Delicate like me and
+Delicate like
+Delicate like you and me

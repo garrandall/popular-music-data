@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: the-fool-on-the-hill-sergio-mendes-brasil--66
+lyrics_url: https://genius.com/Sergio-mendes-and-brasil-66-the-fool-on-the-hill-lyrics
 name: The Fool On The Hill
 rankings:
 - end_date: '1968-08-16'
@@ -56,4 +57,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-10-26'
 ---
+Day after day alone on the hill
+The man with the foolish grin
+Is keeping perfectly still
+But nobody wants to know him
+They can see that he's just a fool
+And he never gives an answer
+But the fool on the hill
+Sees the sun going down
+And the eyes in his head
+See the world spinning around
 
+Well on his way his head in a cloud
+The man of a thousand voices
+Talking percetly loud
+But nobody ever hears him
+Or the sound he appears to make
+And he never seems to notice
+But the fool on the hill
+Nobody seems to like him
+They can tell what he wants to do
+And he never shows his feelings
+But the fool on the hill

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nicole-point-blank
+lyrics_url: https://genius.com/Point-blank-band-nicole-lyrics
 name: Nicole
 rankings:
 - end_date: '1981-07-03'
@@ -63,4 +64,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-09-26'
 ---
+I hear you're goin' through some changes
+I hear your friends all turn their backs on you
+And now you're hangin' round with strangers
+Now just be careful who you're talkin' to
 
+Oh Nicole, my sweet Nicole
+Oh Nicole, sweet sweet Nicole
+
+You started lookin' like a burn out
+You're lookin' like you just stayed up all night
+You're lookin' like you've been turned out
+The way your actin' girl it just ain't right now
+
+Oh Nicole, my sweet Nicole
+Oh Nicole, my sweet Nicole
+
+You know you really drive me crazy
+You upset me with your wicked little smile
+You started lookin' kind of spaced out
+You drive a man stark ravin' wild
+
+Oh Nicole, my sweet Nicole
+Oh Nicole, sweet sweet Nicole

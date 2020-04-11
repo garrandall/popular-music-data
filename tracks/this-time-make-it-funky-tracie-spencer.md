@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-time-make-it-funky-tracie-spencer
+lyrics_url: https://genius.com/Tracie-spencer-this-time-make-it-funky-lyrics
 name: This Time Make It Funky
 rankings:
 - end_date: '1991-05-24'
@@ -35,4 +36,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-06-29'
 ---
+Times are changing
+And I'm changing too
+A new direction and this nasty groove
+Gets me over
+In a funky way
 
+
+This time make it funky
+Make it funky this time
+This time make it funky
+
+Drop the bass and make it funky
+
+
+I'm steady moving
+I want this world to know
+Just what I'm doing
+
+I've got to take control
+Made my mind
+To come back hard this time
+
+
+Yo, Tracie?
+
+
+What?
+
+
+Tell 'em what's on your mind

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-give-my-heart-to-you-kitty-kallen
+lyrics_url: https://www.musixmatch.com/lyrics/Kitty-Kallen/If-I-Give-My-Heart-to-You
 name: If I Give My Heart To You
 rankings:
 - end_date: '1959-10-11'
@@ -55,4 +56,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
 ---
+If I give my heart to you, will you handle it with care?
+Will you always treat me tenderly and in every way be fair?
+If I give my heart to you, will you give me all your love?
+Will you swear that you'll be true to me by the light that shines above?
+And will you sigh with me when I'm sad
+Smile with me when I'm glad
+And always be as you are with me tonight
 
+Think it over and be sure
+Please don't answer 'til you do
+When you promise all these things to me
+Then I'll give my heart to you
+
+If I give my heart to you, will you handle it with care?
+Will you always treat me tenderly and in every way be fair?
+If I give my heart to you, will you give me all your love?
+Will you swear that you'll be true to me by the light that shines above?
+And will you sigh with me when I'm sad
+Smile with me when I'm glad
+And always be as you are with me tonight
+
+Think it over and be sure
+Please don't answer 'til you do
+When you promise all these things to me
+Then I'll give my heart to you

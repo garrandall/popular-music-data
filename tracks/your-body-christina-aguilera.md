@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-body-christina-aguilera
+lyrics_url: https://genius.com/Christina-aguilera-your-body-lyrics
 name: Your Body
 rankings:
 - end_date: '2012-10-12'
@@ -43,4 +44,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-12-01'
 ---
+Ah-ah
+Ah-ah
 
+
+I came here tonight to get you out of my mind
+I'm gonna take what I find (Uh-oh, yeah!)
+So open the box, don't need no key, I'm unlocked
+And I won't tell you to stop (Uh-oh, yeah!)
+
+
+Hey boy! I don't need to know where you've been
+All I need to know is you in, no need for talkin'
+Hey boy! So don't even tell me your name
+All I need to know is whose place
+And let's get walkin'
+
+
+All I wanna do is love your body
+Tonight's your lucky night, I know you want it
+All I wanna do is love your body
+Tonight's your lucky night, I know you want it
+
+
+It's true what you heard, I am a freak, I'm disturbed
+So come on and give me your worst (Uh-oh, yeah)
+We're moving faster than slow
+If you don't know where to go
+I'll finish off on my own (Oh-oh, yeah)
+
+
+Hey boy! I don't need to know where you've been
+All I need to know is you in, no need for talkin'
+Hey boy! So don't even tell me your name
+All I need to know is whose place
+And let's get walkin'
+Say, say, hey
+
+
+All I wanna do is love your body
+Tonight's your lucky night, I know you want it
+All I wanna do is love your body (Your body)
+Tonight's your lucky night, I know you want it
+Yeah, yeah
+
+
+I think you already know my name
+I think you already know my name
+Hey, hey, ha! Alright, say
+I think you already know my name
+
+
+All I wanna do is love your body (Hey, hey, say)
+Tonight's your lucky night, I know you want it
+All I wanna do is love your body (Say, say, hey)
+Tonight's your lucky night, I know you want it

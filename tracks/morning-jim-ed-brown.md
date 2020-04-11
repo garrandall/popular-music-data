@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: morning-jim-ed-brown
+lyrics_url: https://genius.com/Jim-ed-brown-morning-lyrics
 name: Morning
 rankings:
 - end_date: '1970-11-20'
@@ -51,4 +52,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-23'
 ---
+Here in this room this narrow room
+Where life began when we were young last night
+I feel your back pressed close to me
+And hear your steady breathing as you sleep
 
+Then as the first soft glow of dawn moves silver grey
+Like paint along the wall
+I touch your hand and feel your ring
+And know this night is all we'll ever have
+
+Suddenly I look into your sleepy eyes
+You breathe my name and it just seems to dangle there
+Then I feel your fingers running through my mind
+Jumbling up my thoughts to leave them tangled there
+
+I know so well, that this is all there is
+And when we leave this room it's gone
+My mind is clear as we walk down
+The crooked little steps to the front door
+
+A ray of sun that ricoches
+From off a rooftop light our stumbling way
+I touch your hand and feel your ring
+And know this night is all we'll ever have
+
+Suddenly I look into your sleepy eyes
+You breathe my name and it just seems to dangle there
+Then I feel your fingers running through my mind
+Jumbling up my thoughts to leave them tangled there
+
+Suddenly I look into your sleepy eyes
+You breathe my name and it just seems to dangle there
+Then I feel your fingers running through my mind
+Jumbling up my thoughts to leave them tangled there
+
+Suddenly I look into your sleepy eyes
+You breathe my name and it just seems to dangle there
+Then I feel your fingers running through my mind
+Jumbling up my thoughts to leave them tangled there...

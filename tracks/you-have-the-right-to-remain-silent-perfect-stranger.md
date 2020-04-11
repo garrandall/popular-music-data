@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-have-the-right-to-remain-silent-perfect-stranger
+lyrics_url: https://genius.com/Perfect-stranger-you-have-the-right-to-remain-silent-lyrics
 name: You Have The Right To Remain Silent
 rankings:
 - end_date: '1995-08-11'
@@ -47,4 +48,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-10-07'
 ---
+Can I have this dance my you're looking pretty
+Is there something wrong did he leave you hurting
+I don't mean to pry but that tear in your eye gave you away
+If you don't want to talk we'll keep it quiet
+But sometimes a heartache hurts worse if you hide it
+I think there's a chance one slow dance might ease the pain
 
+You have the right to remain silent
+Anything that you say as I hold you against me
+Will forever be a secret between us two
+I've been wanting you but you didn't know it
+And now that he's gone at last I can show it
+If your heart is tired for the rest of your life
+Lay your love on me
+
+So many times my eyes have held you
+Tonight please give my arms that chance
+If you don't feel the need for conversation
+We'll just let our hearts talk while we dance
+
+You have the right to remain silent
+Anything that you say as I hold you against me
+Will forever be a secret between us two
+I've been wanting you but you didn't know it
+And now that he's gone at last I can show it
+If your heart is tired for the rest of your life
+Lay your love on me
+If your heart is tired for the rest of your life
+Lay your love on me

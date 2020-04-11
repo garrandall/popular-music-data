@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: will-you-be-there--in-the-morning--heart
+lyrics_url: https://genius.com/Heart-will-you-be-there-in-the-morning-lyrics
 name: Will You Be There (In The Morning)
 rankings:
 - end_date: '1993-12-31'
@@ -79,4 +80,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-04-23'
 ---
+I'm lying beside you, just thinking about us
+To tired to go to sleep, I'm too much in love
+I know I'm crazy, but I can't close my eyes
+I'm scared you won't be there, in the morning when I rise
 
+Will you be there..
+
+Now who do you dreams about, when you're alone in your sleep
+To who do you reach out, oh let it be me
+Now baby, you're my obsession, my addiction, my drug
+Don't wanna be without you, when I wake up
+Oh no..
+
+Chorus:
+Will you be there in the morning
+Will you be there when I want to
+Will you be there when I wake up
+I need you to be there
+In the morning
+
+Will you be there..
+
+You're so close to me, but I feel so alone
+The more that I touch you, the more I want
+Don't know what to do, about me loving you
+But I pray to God, that you feel it to
+
+Now baby, you're my obsession, my addiction, my drug
+So let the candle grow, into a great fire of love
+
+Chorus:
+Will you be there in the morning
+Will you be there when I want to
+Will you be there when I wake up
+I need you to be there
+In the morning
+
+I wanna love you forever
+Don't want a love that now or never
+Can't you see you got me down on the floor
+I want more, more
+
+Chorus:
+Will you be there in the morning
+Will you be there when I want to
+Will you be there when I wake up
+Will you be there in the morning
+Will you be there
+Will you be there when I want to
+Will you be there when I wake up

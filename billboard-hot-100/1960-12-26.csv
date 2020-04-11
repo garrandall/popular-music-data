@@ -1,6 +1,6 @@
 song,artist,start_date,end_date,rank,ranking_list
 Are You Lonesome To-night?,Elvis Presley With The Jordanaires,1960-12-26,1961-01-01,1,Billboard Hot 100
-Wonderland By Night,Bert Kaempfert And His Orchestra,1960-12-26,1961-01-01,2,Billboard Hot 100
+Wonderland By Night,Bert Kaempfert,1960-12-26,1961-01-01,2,Billboard Hot 100
 Last Date,Floyd Cramer,1960-12-26,1961-01-01,3,Billboard Hot 100
 A Thousand Stars,Kathy Young With The Innocents,1960-12-26,1961-01-01,4,Billboard Hot 100
 Exodus,Ferrante & Teicher,1960-12-26,1961-01-01,5,Billboard Hot 100
@@ -39,8 +39,8 @@ I'll Save The Last Dance For You,Damita Jo,1960-12-26,1961-01-01,37,Billboard Ho
 Ballad Of The Alamo,Marty Robbins,1960-12-26,1961-01-01,38,Billboard Hot 100
 I Gotta Know,Elvis Presley With The Jordanaires,1960-12-26,1961-01-01,39,Billboard Hot 100
 The Hucklebuck,Chubby Checker,1960-12-26,1961-01-01,40,Billboard Hot 100
-Last Date,Lawrence Welk And His Orchestra,1960-12-26,1961-01-01,41,Billboard Hot 100
-Calcutta,Lawrence Welk And His Orchestra,1960-12-26,1961-01-01,42,Billboard Hot 100
+Last Date,Lawrence Welk,1960-12-26,1961-01-01,41,Billboard Hot 100
+Calcutta,Lawrence Welk,1960-12-26,1961-01-01,42,Billboard Hot 100
 Am I Losing You,Jim Reeves,1960-12-26,1961-01-01,43,Billboard Hot 100
 Save The Last Dance For Me,The Drifters,1960-12-26,1961-01-01,44,Billboard Hot 100
 "Adeste Fideles (Oh, Come, All Ye Faithful)",Bing Crosby,1960-12-26,1961-01-01,45,Billboard Hot 100
@@ -65,7 +65,7 @@ You Are The Only One,Ricky Nelson,1960-12-26,1961-01-01,63,Billboard Hot 100
 Am I The Man,Jackie Wilson,1960-12-26,1961-01-01,64,Billboard Hot 100
 Natural Born Lover,Fats Domino,1960-12-26,1961-01-01,65,Billboard Hot 100
 Your Other Love,The Flamingos,1960-12-26,1961-01-01,66,Billboard Hot 100
-The Magnificent Seven,Al Caiola And His Orchestra,1960-12-26,1961-01-01,67,Billboard Hot 100
+The Magnificent Seven,Al Caiola,1960-12-26,1961-01-01,67,Billboard Hot 100
 My Last Date (With You),Skeeter Davis,1960-12-26,1961-01-01,68,Billboard Hot 100
 The Puppet Song,Frankie Avalon,1960-12-26,1961-01-01,69,Billboard Hot 100
 Main Theme from Exodus (Ari's Theme),Mantovani & His Orch.,1960-12-26,1961-01-01,70,Billboard Hot 100

@@ -1,7 +1,6 @@
 ---
 artists:
-- Huey Lewis
-- The News
+- Huey Lewis & The News
 features: []
 genres: []
 key: if-this-is-it-huey-lewis-the-news
@@ -80,7 +79,7 @@ rankings:
 
 I've been phoning
 Night and morning
-I heard you say 
+I heard you say
 "Tell him I'm not home"
 
 Now you're confessing
@@ -92,14 +91,14 @@ Girl don't lie
 Just to save my feelings
 Girl don't cry
 And tell me nothing's wrong
-Girl don't try 
+Girl don't try
 To make up phony reasons
 I'd rather leave
 Than never believe
 
 If this is it
 Please let me know
-If this ain't love 
+If this ain't love
 You'd better let me go
 
 If this is it
@@ -109,7 +108,7 @@ Just say so
 
 You've been thinking
 And I've been drinking
-We both know that it's 
+We both know that it's
 Just not right
 
 Now you're pretending
@@ -128,7 +127,7 @@ Or make we want to stay
 
 If this is it
 Please let me know
-If this ain't love 
+If this ain't love
 You'd better let me go
 
 If this is it
@@ -138,7 +137,7 @@ Just say so
 
 If this is it
 Please let me know
-If this ain't love 
+If this ain't love
 You'd better let me go
 
 If this is it

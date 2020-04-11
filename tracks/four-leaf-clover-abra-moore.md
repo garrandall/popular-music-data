@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: four-leaf-clover-abra-moore
+lyrics_url: https://genius.com/Abra-moore-four-leaf-clover-lyrics
 name: Four Leaf Clover
 rankings:
 - end_date: '1997-07-25'
@@ -59,4 +60,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-10-11'
 ---
+He's got the best of me
+It's such a price to pay
+He's got the best of me
 
+
+See, I've been thinking it over
+It's all just a little too much
+You see I got this four leaf clover
+It's gotta bring a little luck
+Yeah
+(He's got the best of me) uh huh
+Yeah (such a price to pay)
+(He's got the best of me) uh huh
+
+
+So I let go of all of the big deals
+I let go of the bitter dream
+You see the girl in the pretty white picture
+Well it's never what it really seems
+Yeah
+Uh huh
+Yeah
+Uh huh
+
+
+My mind is always racing
+And my body's on overload
+You've got my heart in the middle of a feeling
+I've got no place to go
+Yeah
+Uh huh
+
+
+See, I've been thinking it over
+It's all just a little too much
+You see I got a four leaf clover
+It's gotta bring a little luck
+
+
+I'm running
+But I got nowhere to be
+But I'm all right
+
+I'm running
+It's got the best of me
+But it's all right
+
+
+'Cause see, I've been thinking it over
+It's all just a little too much
+You see I got a four leaf clover
+It's gotta bring a little luck
+Oh yeah
+
+
+Said, I've been thinking it over
+(Yeah)
+It's all just a little too much
+(Yeah)
+You see I got a four leaf clover
+(Yeah)
+It's gotta bring a little luck
+(Yeah)
+Uh huh
+
+
+Said, I've been thinking it over
+(Yeah)
+It's all just a little too much
+(Yeah)
+Said I've got a four leaf clover
+(Yeah)
+It's gotta bring a little luck

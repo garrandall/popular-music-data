@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heavy-metal--takin--a-ride--don-felder
+lyrics_url: https://genius.com/Don-felder-heavy-metal-takin-a-ride-lyrics
 name: Heavy Metal (Takin' A Ride)
 rankings:
 - end_date: '1981-07-31'
@@ -75,4 +76,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-11-14'
 ---
+Drive it on up and let's cruise a while
+Leave your troubles far behind
+You can hedge your bet on a clean Corvette
+To get you there right on time
+Now if you're ready to dive into overdrive
+Baby, the green lights are on
+It's like you're running your brain on some high octane
+Every time she reaches fully blown
 
+
+Won't you take that ride on heavy metal?
+It's the only way that you can travel down that road
+Satisfied on heavy metal
+Baby won't you ride, ride it until it explodes
+
+Heavy metal
+
+
+My oh my, how this lady can fly
+Once she starts rollin' beneath you
+You know you just can't lose, the way she moves
+You wait for her to finally release you
+It's not a big surprise to feel your temperature rise
+You've got a touch of redline fever
+'Cause there is just one cure that we know for sure
+You just become a heavy metal believer
+
+
+Won't you take that ride on heavy metal?
+It's the only way that you can travel down that road
+Satisfied on heavy metal
+Baby won't you ride, ride it until it explodes
+
+Heavy metal
+
+
+Heavy metal
+Heavy metal

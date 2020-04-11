@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: morning-dance-spyro-gyra
+lyrics_url: https://genius.com/Spyro-gyra-morning-dance-lyrics
 name: Morning Dance
 rankings:
 - end_date: '1979-06-22'
@@ -67,4 +68,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-09-22'
 ---
-
+Instrumental

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-no-no-the-chanters
+lyrics_url: https://genius.com/The-chanters-no-no-no-lyrics
 name: No No No
 rankings:
 - end_date: '1961-06-25'
@@ -43,4 +44,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-14'
 ---
+No, No, No
+Don't kiss me anymore
+No, No, No
+I told you once before
+No, No, No
+Don't kiss me anymore
+No, No, No means Yes, Yes, Yes
 
+I love you
+And no one else will do
+My heart sings
+So never say we're through
+Please tell me
+Our love was meant to be
+Please be mine
+
+You know I love you
+With all my heart
+Please don't say that we will ever part
+Your kisses thrill me when you are in my arms
+Kiss me darling I'm lost in your charms
+
+No, No, No
+Don't kiss me anymore
+No, No, No
+I told you once before
+No, No, No
+Don't kiss me anymore
+No, No, No means Yes, Yes, Yes
+
+
+
+No, No, No
+Don't kiss me anymore
+No, No, No
+I told you once before
+No, No, No
+Don't kiss me anymore
+No, No, No means Yes, Yes, Yes

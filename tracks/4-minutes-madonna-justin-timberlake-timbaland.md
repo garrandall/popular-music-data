@@ -6,6 +6,7 @@ features:
 - Timbaland
 genres: []
 key: 4-minutes-madonna-justin-timberlake-timbaland
+lyrics_url: https://genius.com/Madonna-4-minutes-timbalands-mobile-underground-remix-lyrics
 name: 4 Minutes
 rankings:
 - end_date: '2008-04-11'
@@ -89,4 +90,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-08-16'
 ---
+Yeah
+Yeah, uh-huh
 
+
+C'mon boy
+I've been waiting for somebody to pick up my stroll
+Well, don't waste time
+Give me a sign, tell me how you wanna roll
+I want somebody to speed it up for me
+Then take it down slow
+There's enough room for both
+Well, I can handle that
+You just gotta show me where this at
+Are you ready to go?
+Are you ready to go?
+
+
+If you want it, you already got it
+If you thought it, it better be what you want
+If you feel it, it must be real just
+Say the word, and I'mma give you what you want
+
+
+The time is waiting
+(We only got four minutes to save the world!)
+No hesitating
+Grab a boy (then grab a girl!)
+Time is waiting
+(We only got four minutes to save the world!)
+No hesitating
+(We only got four minutes, heh a-four minutes)
+
+
+So keep it up, keep it up
+Don't be a pri... (Hey!) ..Ma donna, uh
+You gotta get 'em on, hop
+(Tick tock, tick tock, tick tock, tick tock)
+That's right, keep it up, keep it up
+Don't be a pri... (Hey!) ..Ma donna, uh
+You gotta get 'em on, hop
+(Tick tock, tick tock, tick tock, tick tock)
+
+
+
+
+
+If you want it, you already got it
+If you thought it, it better be what you want
+If you feel it, it must be real just
+Say the word, and I'mma give you what you want
+
+
+The time is waiting
+(We only got four minutes to save the world!)
+No hesitating
+Grab a boy (then grab a girl!)
+Time is waiting
+(We only got four minutes to save the world!)
+No hesitating
+(We only got four minutes, heh a-four minutes)
+
+
+So keep it up, keep it up
+Don't be a pri... (Hey!) ..Ma donna, uh
+You gotta get 'em on, hop
+(Tick tock, tick tock, tick tock, tick tock)
+That's right, keep it up, keep it up
+Don't be a pri... (Hey!) ..Ma donna, uh
+You gotta get 'em on, hop
+(Tick tock, tick tock, tick tock, tick tock)

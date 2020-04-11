@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-got-love-bobby-rydell
+lyrics_url: https://genius.com/Bobby-rydell-we-got-love-lyrics
 name: We Got Love
 rankings:
 - end_date: '1959-10-18'
@@ -75,4 +76,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-01'
 ---
+(We got love)
 
+'cause you've got ONE lucky fella TWO love you true
+And I got THREE little words I'm sayin' with FOUR only you
+FIVE o'clock I call you and by SIX we got a date
+SEVEN I'll be heaven-bound and in your arms by EIGHT
+
+Everybody now (We got love)
+By the numbers (We got love)
+Ooh yeah, yeah, yeah (ain't it wonderful we got love.)
+
+'cause I got ONE million kisses TWO thrill you through
+And I got THREE thousand hugs I'm savin' FOUR only you'
+FIVE'll get you TEN, dear, that in SIX more years we rate
+SEVEN little children, dear, or maybe we'll have EIGHT
+
+Let me hear it, baby (We got love)
+Ah, dontcha know it now (We got love)
+Ooh yeah, yeah, yeah (ain't it wonderful we got love.)
+
+When we marry
+FIVE'll get you TEN, dear, that in SIX more years we rate
+SEVEN little children, dear, or maybe we'll have EIGHT
+
+All together now (We got love)
+Ah let me tell ya (We got love)
+Ooh yeah, yeah, yeah (ain't it wonderful we got love.)
+
+One more time (We got love)
+Ah dontcha know it baby (We got love)
+Ooh yeah, yeah, yeah (ain't it wonderful we got love.)

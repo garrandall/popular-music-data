@@ -68,27 +68,27 @@ rankings:
 ---
 
 
-{Is, is} (Yeah)
-{Is, isn't}
-{Is, isn't good, is} (Yeah)
-{Is, is}
+ (Yeah)
+
+ (Yeah)
+
 We The Best Music!
-{Isn't good enough}
+
 I worked my whole life for this one
-{Isn't good enough} (Yeah)
+ (Yeah)
 Another one
-{Isn't good enough} (Yeah)
-{Isn't good enough}
+ (Yeah)
+
 DJ Khaled!
 
 
 Shinin', shinin', shinin', shinin', yeah (shinin', yeah)
 All of this winnin', I've been losin' my mind, yeah (losin' my mind)
 Oh, hold on (hold on, baby)
-Don't {don't} try to {try to}
-Slow me down {down}
+Don't  try to
+Slow me down
 Hold on (hold on)
-Don't {don't} try to {try to}
+Don't  try to
 Slow me down
 Slow me down
 
@@ -110,10 +110,10 @@ It's all smiles through all four seasons
 Shinin', shinin', shinin', shinin', yeah (shinin', yeah)
 All of this winnin', I've been losin' my mind, yeah (losin' my mind)
 Oh, hold on (hold on)
-Don't {don't} try to {try to}
-Slow me down {down}
+Don't  try to
+Slow me down
 Hold on (hold on)
-Don't {don't} try to {try to}
+Don't  try to
 Slow me down
 Slow me down, yeah
 
@@ -141,10 +141,10 @@ Shinin', shinin', shinin', shinin', yeah (shinin', yeah)
 All of this winnin', I've been losin' my mind, yeah
 (Losin' my mind, losin' my mind)
 Oh, hold on (hold on)
-Don't {don't} try to {try to}
+Don't  try to
 Slow me down (down}
 Hold on (hold on)
-Don't {don't} try to {try to}
+Don't  try to
 Slow me down
 Slow me down, yeah
 
@@ -153,15 +153,15 @@ All of this winnin' (haha)
 All of this winnin'
 All of this winnin'
 All of this winnin'
-All of this winnin' {That dance}
-All of this winnin' {That dance}
+All of this winnin'
+All of this winnin'
 All of this winnin'
 
 
 Ayy don't (don't) try to (try to) hold me (down) down
 Don't (don't) try to (try to) hold me down, ayy
-{Just because you say things are gonna change}
-{Things are gonna change, things are gonna change}
+
+
 (Another one)
 Make 'em wait
 
@@ -195,10 +195,10 @@ Next year he gon' have to buy a palace, shinin'
 Shinin', shinin', shinin', shinin', yeah (shinin', yeah)
 All of this winnin', I've been losin' my mind (losin' my mind)
 Oh, hold on (hold on, baby)
-Don't {don't} try to {try to}
-Slow me down {down}
+Don't  try to
+Slow me down
 Hold on (hold on)
-Don't {don't} try to {try to}
+Don't  try to
 Slow me down
 Slow me down, yeah
 

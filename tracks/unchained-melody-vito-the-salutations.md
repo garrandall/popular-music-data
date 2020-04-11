@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: unchained-melody-vito-the-salutations
+lyrics_url: https://genius.com/Vito-and-the-salutations-unchained-melody-lyrics
 name: Unchained Melody
 rankings:
 - end_date: '1963-11-01'
@@ -32,4 +33,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-30'
 ---
-
+Oh, my love, my darling
+I've hungered for your
+Touch, touch, touch, touch, touch
+Whooo-ooh, ooh-ooh-ooh-ooh
+Time goes by so slowly
+And time can do so much
+Much, much, much, much, much
+Whooo-ooh, ooh-ooh-ooh-ooh
+Are you still mine
+I need your love
+I need your love
+God speed your love to me
+Lonely rivers flow to the sea
+To the sea
+To the open arms of the sea
+Lonely rivers sigh
+Wait for me, wait for me
+I'll be coming home, wait for me
+Oh, my love, my darling
+I've hungered for your
+Touch, touch, touch, touch, touch
+Whooo-ooh, ooh-ooh-ooh-ooh
+Time goes by so slowly
+And time can do so much
+Much, much, much, much, much
+Whooo-ooh, ooh-ooh-ooh-ooh
+Are you still mine
+I need your love
+I need your love
+God speed your love to me
+Oh, my love, my darling
+I've hungered for your
+Touch, touch, touch, touch, touch
+Whooo-ooh, ooh-ooh-ooh-ooh

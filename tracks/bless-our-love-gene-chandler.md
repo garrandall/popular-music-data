@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bless-our-love-gene-chandler
+lyrics_url: https://genius.com/Gene-chandler-bless-our-love-lyrics
 name: Bless Our Love
 rankings:
 - end_date: '1964-10-02'
@@ -43,4 +44,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
 ---
+God bless our love
+(God bless our love)
 
+And God forgive us
+Our temptations
+He knows that we have
+Been tempted beyond
+And above humiliation
+(God bless our love)
+
+Will he be by our side
+When we need a guide
+And as he blessed
+The stars above
+Oh, God bless our love
+
+When our emotions
+Are playing games
+And we don't know
+Right from wrong
+
+As we began feeling ashamed
+We'll get down on
+Our knees and pray
+And thank God every day
+For showing us the
+Right way to love and believe
+
+That he'll be by our side
+And as he's blessed
+The stars above
+Oh, God bless our love
+
+(God bless our love)
+God bless our love
+(God bless our love)
+God bless our love
+(God bless our love)
+God bless our love

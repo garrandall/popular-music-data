@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-gigolo-o-bryan
+lyrics_url: https://genius.com/Obryan-the-gigolo-lyrics
 name: The Gigolo
 rankings:
 - end_date: '1982-04-02'
@@ -43,4 +44,98 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-05-22'
 ---
+He walked into the party
+And looked at everybody in the room
+She looked into those flaming eyes
+She went and stood beside him
+I thought she moved just a little too soon
+I must admit to my surprise
 
+He would not dance with her
+He could not stay he said
+He got no time to waste
+He took her to, he took her to bed
+
+(He's just a freak)
+He don't love nobody
+(He's won't dance)
+He just wants your body, baby
+(He's just a gigolo)
+I don't think she really knows, ooh, yeah
+
+(He's just a freak)
+He don't love nobody
+(He's won't dance)
+He just wants your body, baby
+(He's just a gigolo)
+I don't think she really knows
+
+I could not understand it
+I don't know why she followed him home
+She had not seen this man before
+He touched her with his body
+And then she could not leave him alone
+They left me standing on the phone
+
+He would not dance with her
+He could not stay he said
+He got no time to waste
+He took her to
+He took her to bed
+
+(He's just a freak)
+He don't love nobody
+(He's won't dance)
+He just wants your body, baby
+(He's just a gigolo)
+I don't think she really knows, oh, no
+
+(He's just a freak)
+He don't love nobody
+(He's won't dance)
+He just wants your body, baby
+(He's just a gigolo)
+I don't think she really knows
+
+(He's just a freak)
+(He's won't dance)
+(He's just a gigolo)
+(He's just a freak)
+(He's won't dance)
+(He's just a gigolo)
+
+(He's just a freak)
+He don't love nobody
+(He's won't dance)
+He just wants your body, baby
+(He's just a gigolo)
+I don't think you really know, ooh, yeah
+
+(He's just a freak)
+He don't love nobody
+(He's won't dance)
+He just wants your body, baby
+(He's just a gigolo)
+I don't think you really know
+
+(He's just a freak)
+He don't love nobody
+(He's won't dance)
+He just wants your body, baby
+(He's just a gigolo)
+I don't think you really know, oh, no
+
+(He's just a freak)
+He don't love nobody
+(He's won't dance)
+He just wants your body, baby
+(He's just a gigolo)
+I don't think you really know, oh
+
+(He's just a freak)
+He don't love nobody
+(He's won't dance)
+He just wants your body, baby
+(He's just a gigolo)
+I don't think you really know, oh, no
+(He's just a freak)

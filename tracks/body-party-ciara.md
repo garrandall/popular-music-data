@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: body-party-ciara
+lyrics_url: https://genius.com/Ciara-body-party-lyrics
 name: Body Party
 rankings:
 - end_date: '2013-05-17'
@@ -87,3 +88,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-09-21'
 ---
+Ohh, oooh
+Ohh, ohhh
+Yeah, right there
+No, right there
+I was having fun
+I hope you're having fun too
+I said it
+
+
+My body is your party, baby
+Nobody's invited but you, baby
+I can do it slow now tell me what you want
+Baby, put your phone down, you should turn it off
+'Cause tonight it's going down, tell your boys it's going down
+We in the zone now, don't stop
+Ooooh, oooh
+
+
+You can't keep your hands off me
+Touch me right there, rock my body
+I can't keep my hands off you
+Your body is my party
+I'm doing this little dance for you
+You got me so excited
+Now it's just me and you
+Your body's my party, let's get it started, ohh
+Boy, you should know that
+Your love is always on my mind
+I'm not gonna fight it
+I want it all the time
+Boy, you should know that
+Your love is always on my mind
+And I can't deny it
+I want you, I'm on you
+
+
+I can't lie, I won't lie, it's amazing
+My faces go places, you're taking me
+Baby, take your time now, there's no need to rush
+We can go another round if that's what you want
+'Cause tonight it's going down
+Yeah, you know it's going down
+We in the zone now, don't stop
+Oooh, ohh
+
+
+You can't keep your hands off me
+Touch me right there, rock my body
+I can't keep my hands off you
+Your body is my party
+I'm doing this little dance for you
+You got me so excited
+Now it's just me and you
+Your body's my party, let's get it started, ohh
+Boy, you should know that
+Your love is always on my mind
+I'm not gonna fight it
+I want it all the time
+Boy, you should know that
+Your love is always on my mind
+And I can't deny it
+I want you, I'm on you
+
+
+The things I wanna do to you
+My body's calling you
+I'm having so much fun with you
+Now it's just me and you
+Your body's my party, let's get it started
+Ohhh

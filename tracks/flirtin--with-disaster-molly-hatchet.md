@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: flirtin--with-disaster-molly-hatchet
+lyrics_url: https://www.musixmatch.com/lyrics/Molly-Hatchet/Flirtin-With-Disaster
 name: Flirtin' With Disaster
 rankings:
 - end_date: '1980-01-11'
@@ -47,4 +48,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-08'
 ---
+I'm travelin' down the road, and I'm flirtin' with disaster
+I got the pedal to the floor, and my life is runnin' faster
+I'm out of money, out of hope it looks like self destruction
+Well how much more can we take with all of this corruption
 
+We're flirtin' with disaster, ya'll know what I mean
+And the way we run our lives it makes no sense to me
+I don't know about yourself or what you want to be, yeah
+When we gamble with our time we choose our destiny
+
+I'm travelin' down that lonesome road
+Feel like I'm draggin' a heavy load
+Yeah, I've tried to turn my head away
+Feel 'bout the same most every day
+(You know what I'm talkin' about, baby)
+Speedin' down the fast lane from home
+And we're playin' from town to town
+The boys and I have been burnin' it up
+Can't seem to slow us down
+We got the pedal to the floor our lives are runnin' faster
+We got our sights set straight ahead
+But I ain't sure what we're after
+
+Flirtin' with disaster ya'll damn sure know what I mean
+You know the way we run our lives it makes no sense to me
+I don't know about yourself or what you plan to be, yeah
+When we gamble with our time we choose our destiny
+
+Yeah, we're travelin' down that lonesome road
+Feel like I'm draggin' a heavy load
+Don't try to turn my head away
+I'm flirtin' with disaster every day
+(And you are too, baby)
+(It ain't for everybody)
+(Ahh, c'mon man)
+
+Flirtin' with disaster, babe ya'll know what I mean
+You know the way we run our lives it makes no sense to me
+I don't know about yourself or what you plan to be
+When we gamble with our time we choose our destiny
+
+Yeah, we're travelin' down this lonesome road
+Feel like I'm draggin' a heavy load
+Don't try to turn my head away, bahh bop bop yeah
+I'm flirtin' with disaster every day

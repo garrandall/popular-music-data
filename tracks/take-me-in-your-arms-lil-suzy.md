@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-me-in-your-arms-lil-suzy
+lyrics_url: https://genius.com/Lil-suzy-take-me-in-your-arms-lyrics
 name: Take Me In Your Arms
 rankings:
 - end_date: '1992-07-10'
@@ -83,4 +84,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-11-07'
 ---
+You came and turned and looked my way
+What else can I say
+Love was in my eyes
 
+You came and made my life complete
+With your love so sweet
+You gave your love to me
+(You gave your love to me)
+
+Take me, take me in your arms
+And don't you let me go
+I need you more and more
+(I need you more and more)
+
+Your love is all ever need
+You're my destiny
+This love was meant to be
+
+We'll find a paradise for two
+A place for me and you
+With our love so true
+We'll make our dreams come true
+(We'll make our dreams come true)
+
+Take me
+Take me in your arms
+And don't you let me go
+I need you more and more
+(I need you more and more)
+
+Take me, take me in your arms
+And don't you let me go
+I need you more and more
+(I need you more and more)

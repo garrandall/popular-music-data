@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-a-midnight-mover-wilson-pickett
+lyrics_url: https://genius.com/Wilson-pickett-im-a-midnight-mover-lyrics
 name: I'm A Midnight Mover
 rankings:
 - end_date: '1968-06-28'
@@ -35,4 +36,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-08-03'
 ---
-
+Im a midnight mover, huh! all the night through
+Im a midnight teaser huh! real soul pleaser
+Im a midnight hurter (a midnight hurter)
+All night lover, look-a-here, (and a lover)
+Trust in me when you're down and out
+(please baby) I will always bring you out (ooo)
+They call me the midnight mover, oh yeah
+Ay! Im a midnight walker, sweet soul talker
+Im a midnight creeper, all day sleeper
+Im a midnight rover, I have to look things over
+Leave your love light shinin bright (please baby)
+Makes me know that everythings alright
+Ay! Ah! Im a mover, groover, teaser, pleaser
+Hurter, lover, Wow! talker, OW!
+Got to be a midnight mover, (whoa)
+Got to be a midnight groover, (whoa)
+Got to be a midnight teaser, (whoa)
+Got to be a real soul pleaser, (whoa)
+Got to be a midnight hugger,(whoa)
+Got to be a mignight lover,(whoa)
+Got to be a midnight walker,(whoa)
+(A midnight walker, whoa)
+I got to be a midnight talker, whoa
+I midnight pleaser.........fades

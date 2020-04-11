@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-will-live-my-life-for-you-tony-bennett
+lyrics_url: https://www.musixmatch.com/lyrics/Tony-Bennett/I-Will-Live-My-Life-For-You
 name: I Will Live My Life For You
 rankings:
 - end_date: '1963-01-11'
@@ -39,4 +40,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-09'
 ---
+I will live my life for you
+Just for you, only you
+I will give all I possess
+For your happiness
 
+Every wish I will fulfill
+Even make the world stand still
+
+So until I'm old and gray
+I will pray that I may
+Live my life for you
+
+Every wish I will fulfill
+Even make the world stand still
+
+So until I'm old and gray
+I will pray that I may
+Live my life for you

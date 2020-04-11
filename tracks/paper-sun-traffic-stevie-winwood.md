@@ -5,6 +5,7 @@ features:
 - Stevie Winwood
 genres: []
 key: paper-sun-traffic-stevie-winwood
+lyrics_url: https://www.musixmatch.com/lyrics/Traffic/Paper-Sun
 name: Paper Sun
 rankings:
 - end_date: '1967-09-08'
@@ -12,4 +13,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
 ---
+So you think your having good times
+With the boy that you just met
+Kicking sand from beach to beach
+Your clothes all soaking wet
+But if you look around and see
+A shadow on the run
+Don't be too upset because its just a paper sun
 
+Ahh Paper Sun, Ahh Paper Sun
+
+In the room where you've been sleeping
+All your clothes all thrown about
+Cigarettes burn window sills
+Your meter's all run out
+But then again its nothing
+You just split when day is done
+Pitching lips to nowhere, hung up on the paper sun
+
+Standing in the cool of my room
+Fresh cut flowers give me sweet perfume
+Too much sun will burn!
+
+When you're feeling tired and lonely
+You see people going home
+You can't make the train fare
+Or the six pence for the phone
+And icicles your crying
+From your cheek have just begun
+Dont be sad, good times are had
+Beneath the paper sun
+
+Daylight breaks while you sleep on the sand
+A seagull is stealing the ring from your hand
+The boy who had given you so much fun
+Has left you so cold in the paper sun

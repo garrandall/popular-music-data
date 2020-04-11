@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: last-kiss-j--frank-wilson-and-the-cavaliers
+lyrics_url: https://genius.com/J-frank-wilson-and-the-cavaliers-last-kiss-lyrics
 name: Last Kiss
 rankings:
 - end_date: '1964-09-11'
@@ -87,4 +88,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-19'
 ---
+Well where oh where can my baby be
+The Lord took her away from me
+She's gone to heaven so I got to be good
+So I can see my baby when I leave this world
 
+
+We were out on a date in my daddy's car
+We hadn't driven very far
+There in the road straight ahead
+A car was stalled the engine was dead
+I couldn't stop so I swerved to the right
+I'll never forget the sound that night
+The crying tires the busting glass
+The painful scream that I heard last
+
+
+Well where oh where can my baby be
+The Lord took her away from me
+She's gone to heaven so I got to be good
+So I can see my baby when I leave this world
+
+
+Well when I woke up the rain was pouring down
+There were people standing all around
+Something warm running in my eyes
+But I found my baby somehow that night
+I raised her head and she smiled and said
+Hold me darling for a little while
+I held her close I kissed her our last kiss
+I found the love that I knew I would miss
+But now she's gone even though I hold her tight
+I lost my love my life that night
+
+
+Well where oh where can my baby be
+The Lord took her away from me
+She's gone to heaven so I got to be good
+So I can see my baby when I leave this world
+
+Woh, Woh, Woh, Woh
+Ohh, Ohh, Ohh, Ohh

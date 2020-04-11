@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-chance-moon-martin
+lyrics_url: https://genius.com/Moon-martin-no-chance-lyrics
 name: No Chance
 rankings:
 - end_date: '1979-11-09'
@@ -35,4 +36,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
 ---
+Every night the sun goes down
+All alone my room gets dark
+I wish I could shut down
+This feeling in my heart
 
+I got no chance of loving you
+No chance at all
+I got no chance of loving you
+No chance at all
+
+I hate it when you come my way
+But I hate when you leave me too
+I'm hooked, I know that look
+There's nothing I can do
+
+I got no chance of loving you
+No chance at all
+I got no chance of loving you
+No chance at all
+
+I'm a hard boy to beat
+I get back on my feet
+But I better go home
+And leave that girl alone
+
+I got no chance of loving you
+No chance at all
+I got no chance of loving you
+No chance at all

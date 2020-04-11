@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jealous-heart-tab-hunter
+lyrics_url: https://www.musixmatch.com/lyrics/Tab-Hunter/Jealous-Heart
 name: Jealous Heart
 rankings:
 - end_date: '1958-10-26'
@@ -47,4 +48,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-22'
 ---
-
+Jealous heart
+Oh, jealous heart stop beating
+Can't you see the damage you have done?
+You have driven her away forever
+Jealous heart, now I'm the lonely one
+I was part of everything she planned for
+And I know she loved me at the start
+Now she hates the side of all I stand for
+All because of you, oh, jealous heart
+I was part of everything she planned for
+And I know she loved me at the start
+Now she hates the side of all I stand for
+All because of you, oh, jealous heart

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-letter-the-box-tops
+lyrics_url: https://genius.com/The-box-tops-the-letter-lyrics
 name: The Letter
 rankings:
 - end_date: '1967-08-18'
@@ -71,4 +72,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
 ---
+Gimme a ticket for an aeroplane
+I ain't got time to take a fast train
+Lonely days are gone, I'm a goin' home
+My baby jus' wrote me a letter
 
+I don't care how much money I gotta spend
+I got to get back to my baby again
+Lonely days are gone, I'm a goin' home
+My baby jus' wrote me a letter
+
+Well, she wrote me a letter
+Saying she couldn't live without me no more
+Listen mister can't you see
+I gotta get back to my baby once more
+Any way, yeah
+
+Gimme a ticket for an aeroplane
+I ain't got time to take a fast train
+Lonely days are gone, I'm a goin' home
+My baby jus' wrote me a letter
+
+Well, she wrote me a letter
+Saying she couldn't live without me no more
+Listen mister can't you see
+I gotta get back to my baby once more
+Any way, yeah
+
+Gimme a ticket for an aeroplane
+I ain't got time to take a fast train
+Lonely days are gone, I'm a goin' home
+My baby jus' wrote me a letter
+
+My baby jus' wrote me a letter

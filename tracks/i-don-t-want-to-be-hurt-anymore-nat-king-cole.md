@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-want-to-be-hurt-anymore-nat-king-cole
+lyrics_url: https://genius.com/Nat-king-cole-i-dont-want-to-be-hurt-anymore-lyrics
 name: I Don't Want To Be Hurt Anymore
 rankings:
 - end_date: '1964-05-01'
@@ -43,4 +44,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
 ---
+I don't want to be hurt anymore
+By a part-time love affair
+And I don't want to cry like before
+Why pretend, again, you care
 
+Please don't coax me back into your arms
+I've been fooled many times by your charms
+I know if I kissed you, I might not resist you
+I don't want to be hurt anymore
+
+Please don't coax me back into your arms
+I've been fooled many times by your charms
+I know if I kissed you, I might not resist you
+I don't want to be hurt anymore

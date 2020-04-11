@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -you-make-me-feel-like--a-natural-woman-aretha-franklin
+lyrics_url: https://genius.com/Aretha-franklin-you-make-me-feel-like-a-natural-woman-lyrics
 name: (You Make Me Feel Like) A Natural Woman
 rankings:
 - end_date: '1967-10-06'
@@ -43,4 +44,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
 ---
+Looking out on the morning rain
+I used to feel so uninspired
+And when I knew I had to face another day
+Lord, it made me feel so tired
+Before the day I met you
+Life was so unkind
+And you're the key to my piece of mind
 
+
+'Cause you make me feel
+You make me feel
+You make me feel like a natural woman
+(Woman)
+
+
+When my soul was in the lost and found
+You came along to claim it
+I didn't know just what was wrong with me
+Till your kiss helped me name it
+Now I'm no longer doubtful of what I'm living for
+And if I make you happy, I don't need to do more
+
+
+'Cause you make me feel
+You make me feel
+You make me feel like a natural woman
+(Woman)
+
+
+Oh baby, what you've done to me (What you've done to me)
+You made me feel so good inside (Good inside)
+And I just wanna be (Wanna be)
+Close to you, you make me feel so alive
+
+
+You make me feel
+You make me feel
+You make me feel like a natural woman
+(Woman)
+You make me feel
+You make me feel
+You make me feel like a natural woman
+(Woman)
+You make me feel
+You make me feel
+You make me feel like a natural woman

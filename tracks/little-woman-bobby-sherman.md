@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-woman-bobby-sherman
+lyrics_url: https://genius.com/Bobby-sherman-little-woman-lyrics
 name: Little Woman
 rankings:
 - end_date: '1969-08-29'
@@ -59,4 +60,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
 ---
+Hey Little Woman please make up your mind
+You've got to come into my world and leave your world behind
+Come on now
+Na, na, na, na...
+You got to come down from that cloud girl and Leave your world behind
 
+When your with me I feel sunshine Even when I'm standing in the rain
+Something happens that I can't explain When I hear your name
+But you can't help it that
+You're always chasing rainbows in your mind
+There's so much I wanna say to you
+And there's so little time
+
+Hey Little Woman please make up your mind
+You've got to come into my world
+And leave your world behind
+Na, na, na, na...
+You got to come down from that cloud girl and Leave your world behind
+
+What do you see, when your walking down a busy street and I'm not there
+Is my picture hanging in your mind
+Walking with you there
+That's how it is in my world girl
+You're with me all the time
+Why don't you come into my world and leave your world behind
+
+Hey Little Woman please make up your mind
+You've got to come into my world and leave your world behind
+All right now.... Na, na, na, na...
+You got to come down from that cloud girl and Leave your world behind

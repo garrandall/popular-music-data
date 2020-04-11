@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-warm-and-tender-paul-anka
+lyrics_url: https://genius.com/Paul-anka-love-me-warm-and-tender-lyrics
 name: Love Me Warm And Tender
 rankings:
 - end_date: '1962-03-02'
@@ -55,4 +56,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-05-12'
 ---
+Love me warm and tender, dear
+Love me warm like the glow of the morning sun
+Love me warm and tender, dear
+Love me so just as though I'm the o-o-o-onl-why-why one
 
+Kiss me warm and tender, dear
+Kiss me strong, kiss me long 'til the end of time
+Kiss me warm and tender, dear
+Let me know, tell me so 'til the end of time
+
+I'm in heaven in-a your embrace
+See the glow of your angel face
+Heaven sings, heaven rings, on your wings we will fly away
+We will fly, you and I, to the sky where we'll always stay
+
+Love me warm and tender, dear
+Take my lips, take my arms, they belong to you
+Love me warm and tender, dear
+I'm a part of your heart for my whole life through
+
+Love me warm and tender, dear
+Love me warm like the glow of the morning sun
+Love me warm and tender, dear
+Love me so just as though I'm the o-o-o-onl-why-why one

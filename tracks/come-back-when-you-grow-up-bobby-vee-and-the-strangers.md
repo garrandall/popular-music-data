@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-back-when-you-grow-up-bobby-vee-and-the-strangers
+lyrics_url: https://genius.com/Bobby-vee-and-the-strangers-come-back-when-you-grow-up-lyrics
 name: Come Back When You Grow Up
 rankings:
 - end_date: '1967-07-28'
@@ -71,4 +72,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-11-04'
 ---
+Come back when you grow up, girl
+You're still livin' in a paper-doll world
+Livin' ain't easy, lovin's twice as tough
+So come back, baby, when you grow up
 
+You look real good like a woman now
+Your mind hasn't gotten the message somehow
+So if you can't take it 'n' the goin' gets rough
+Come back, baby, when you grow up
+
+I want you girl but your wide-eyed innocence
+Has really messed up my mind, yeah-eah-eah
+I'd rather you get your very first heartbreak
+Somewhere else along the line
+
+Come back when you grow up, girl
+You're still livin' in a paper-doll world
+Some day be a woman ready to love
+Come back, baby, when you grow up
+
+Come back when you grow up, girl
+You've still got a lotta time left in the world
+You'll some day be a woman ready to love
+Come back, baby, when you grow up

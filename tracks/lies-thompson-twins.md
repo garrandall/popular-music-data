@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lies-thompson-twins
+lyrics_url: https://www.musixmatch.com/lyrics/Thompson-Twins/Lies
 name: Lies
 rankings:
 - end_date: '1983-01-28'
@@ -71,4 +72,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-07'
 ---
+You told me you loved me
+So I don't understand
+Why promises are snapped in two
+And words are made to bend
+(The bigger, the better)
+Some stolen from Japan
+Collected from around the world
+They'll catch you if they can
 
+Lies lies lies yeah
+Lies lies lies yeah
+Lies lies lies yeah
+Lies lies lies yeah
+
+Do I have to catch you out
+To know what's on your mind
+Well, Cleopatra died for Egypt
+What a waste of time
+
+White ones and red ones
+And some you can't disguise
+Twisted truth and half the news
+Can't hide it in your eyes
+
+Lies lies lies yeah
+Lies lies lies yeah
+Lies lies lies yeah
+Lies lies lies yeah
+
+You say you'll try harder
+But I think it's just too late
+Well the car is revving in the drive
+And I'm not the sort to wait
+
+(The bigger, the better)
+Some nicked from old saigon
+Collected from around the world
+Love lies on and an and on and on and on and
+
+Lies lies lies yeah (they're gonna get you)
+Lies lies lies yeah (they won't forget you)
+Lies lies lies yeah (they're gonna get you)
+Lies lies lies yeah
+
+Oh you know I know
+
+Lies lies lies yeah...
+(REPEAT TILL FADE OUT)

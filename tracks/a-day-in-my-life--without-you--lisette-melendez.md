@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-day-in-my-life--without-you--lisette-melendez
+lyrics_url: https://genius.com/Lisette-melendez-a-day-in-my-life-without-you-lyrics
 name: A Day In My Life (Without You)
 rankings:
 - end_date: '1991-10-04'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-02-08'
 ---
+You said that you still loved me
+Never once believed your eyes
+You found a way to touch me
+But still inside
+You're filled with lies
 
+I never said
+I need to love you
+But still you know I do
+
+I need you here to feel this moment
+My heart depends on you
+But my love
+I can`t decide so please
+
+My love is in your hands
+Just touch my heart
+You`ll see
+Baby, please
+
+
+A day in my life without you
+Keep your love line close to me
+A day in my life without you
+Give me your love like it used to be
+
+
+Those times you caught me crying
+You never tried to understand
+I need to have you near me
+Baby, you need to hold my hand
+Don`t ever think I`d fall to pieces
+
+You know my hearts too strong
+But deep inside
+I know I love you
+With you is where I belong
+
+But my love
+I can`t decide
+So please
+My love is in your hands
+Touch my heart, you`ll see
+Baby, please

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-on-blue-bobby-vinton
+lyrics_url: https://genius.com/Bobby-vinton-blue-on-blue-lyrics
 name: Blue On Blue
 rankings:
 - end_date: '1963-05-24'
@@ -59,4 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-10'
 ---
+Blue on blue, heartache on heartache
+Blue on blue, now that we are through –
+Blue on blue, heartache on heartache
+And I find I can't get over losing you!
 
+I walk along the street we used to walk –
+Two by two, lovers pass
+And as they're passing by
+I could die
+'Cause you're not here with me!
+Now the trees are bare, there's
+Sadness in the air and
+I'm as blue as I can be!
+
+Blue on blue, heartache on heartache
+Blue on blue, now that we are through –
+Blue on blue, heartache on heartache
+And I find I can't get over losing you!
+
+Night after lonely night, we meet in dreams
+As I run to your side
+You wait with open arms –
+Open arms
+That now are closed to me!
+Through a veil of tears your
+Vision disappears and
+I'm as blue as I can be!
+
+Blue on blue, heartache on heartache
+Blue on blue, now that we are through –
+Blue on blue, heartache on heartache
+And I find I can't get over losing you
+
+Blue on blue, heartache on heartache
+Blue on blue, now that we are through –
+Blue on blue . .

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-bad-paul-mccartney
+lyrics_url: https://genius.com/Paul-mccartney-so-bad-lyrics
 name: So Bad
 rankings:
 - end_date: '1983-12-30'
@@ -63,4 +64,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-03-24'
 ---
+There is a pain, inside my heart
+You mean so much to me
+Girl I love you, girl I love you so bad
+And if you leave my pain will go
+But that's no good to me
+Girl I love you, yes I love you so bad
 
+
+Well it feels so good, sometimes it feels so bad
+This is worse than anything I've ever had
+
+
+There was a pain but now you're here
+And I don't fear a thing
+Girl I love you, yes I love you so bad
+And she said, boy I love you
+Boy I love you so bad
+
+
+
+
+Girl, I love you
+Girl, I love you so bad
+
+
+Well it feels so good, sometimes it feels so bad
+This is worse than anything I've ever had
+
+
+Girl, I love you
+Girl, I love you

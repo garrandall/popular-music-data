@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: day-by-day-godspell
+lyrics_url: https://genius.com/Godspell-day-by-day-lyrics
 name: Day By Day
 rankings:
 - end_date: '1972-05-26'
@@ -63,4 +64,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-08-19'
 ---
+DAY BY DAY
+GODSPELL
+Day by day (solo voice)
+Day by day
+Oh Dear Lord
+Three things I pray
+To see thee more clearly
+Love thee more dearly
+Follow thee more nearly
+Day by day
 
+Day by day (chorus)
+Day by day
+Oh Dear Lord
+Three things I pray
+To see thee more clearly
+Love thee more dearly
+Follow thee more nearly
+Day by day

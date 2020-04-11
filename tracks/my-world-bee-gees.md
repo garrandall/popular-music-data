@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-world-bee-gees
+lyrics_url: https://genius.com/Bee-gees-my-world-lyrics
 name: My World
 rankings:
 - end_date: '1972-02-04'
@@ -39,4 +40,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-18'
 ---
+Don't shed a tear for me
+No, it's not your style
+If you're not here by me
+Then it's not worth while
 
+
+My world is our world
+And this world is your world
+And your world is my world
+And my world is your world is mine
+
+
+I've been crying, I'm lonely
+What do I do to have you stay?
+I've pleaded you to cry on
+I've written to you nearly every day
+
+
+My world is our world
+And this world is your world
+And your world is my world
+And my world is your world is mine
+
+
+Don't shed a tear for me
+No, that's not your style
+If you're not here by me
+Then it's not worth while
+
+
+My world is our world
+And this world is your world
+And your world is my world
+And my world is your world is mine
+
+
+I've been crying, I'm lonely
+What do I do to have you stay?
+I've pleaded you to cry on
+I've written to you nearly every day
+
+x3
+My world is our world
+And this world is your world
+And your world is my world
+And my world is your world is mine

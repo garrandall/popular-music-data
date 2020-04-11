@@ -4,7 +4,7 @@ artists:
 - Gucci Mane
 - Big Sean
 - 2 Chainz
-- Travi$ Scott
+- Travis Scott
 - Yo Gotti
 - Quavo
 - Desiigner
@@ -143,7 +143,7 @@ I put the real in gorilla
 I did this shit for my niggas
 
 
-1500, all in singles {straight up!}
+1500, all in singles
 Throw it up, watch it fall and drop
 Round and round they go
 (Round and round they go, round and round they go)
@@ -192,7 +192,7 @@ And I don't really fuck around
 I gave my bitch two mil' cause she stuck around
 
 
-1500, all in singles {straight up!}
+1500, all in singles
 Throw it up, watch it fall and drop
 Round and round they go
 (Round and round they go, round and round they go)

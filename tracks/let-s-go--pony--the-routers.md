@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-go--pony--the-routers
+lyrics_url: https://genius.com/The-routers-lets-go-lyrics
 name: Let's Go (pony)
 rankings:
 - end_date: '1962-11-09'
@@ -59,4 +60,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-01-26'
 ---
-
+Instrumental

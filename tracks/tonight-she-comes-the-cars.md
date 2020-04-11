@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tonight-she-comes-the-cars
+lyrics_url: https://genius.com/The-cars-tonight-she-comes-lyrics
 name: Tonight She Comes
 rankings:
 - end_date: '1985-11-08'
@@ -75,4 +76,102 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-02-22'
 ---
+I know tonight she comes
+She's takin' a swipe at fun
+She gives me a reason
+For sighting my sights
+Well I know tonight she comes
+She jangles me up
+She does it with ease
+And sometimes she passes through me
+Just like a breeze
+She gives me a reason
+For feelin' all right
+Oh well
+(know tonight, I know tonight)
+I know tonight
+(know tonight, I know tonight)
+I know tonight
+(know tonight, I know tonight)
+She comes
 
+And I know she's gonna do it to me
+One more time (one more time)
+I know she's gonna stay implanted
+In my mind
+Why does she keep me hanging on the line, oh
+(why does she keep me hanging on the liiiiiiine)
+
+Ah yeah, I know she's gonna do it to me
+One more time (one more time)
+I know she's gonna stay implanted
+In my mind
+Oh, why does she keep me hanging on the line, oh yeah
+(why does she keep me hanging on the liiiiiiine)
+
+I know the way she feels
+And all of the hearts that she steals
+She tells me it's easy
+When you do it right
+Oh well, ell I know tonight she comes
+(I know tonight she comes)
+She tells me it's easy
+When you do it right
+(know tonight, I know tonight) I know tonight
+(know tonight, I know tonight) I know tonight
+(know tonight, I know tonight) she comes
+(she comes)
+I know tonight, oh yeah
+(know tonight, I know tonight)
+(I know tonight) well I know tonight
+(know tonight, I know tonight)
+Know tonight she comes
+She's takin' a swipe at fun
+She gives me a reason
+For sighting my sights
+Well I know tonight she comes
+She jangles me up
+She does it with ease
+And sometimes she passes through me
+Just like a breeze
+She gives me a reason
+For feelin' all right
+Oh well
+(know tonight, I know tonight)
+I know tonight
+(know tonight, I know tonight)
+I know tonight
+(know tonight, I know tonight)
+She comes
+
+And I know she's gonna do it to me
+One more time (one more time)
+I know she's gonna stay implanted
+In my mind
+Why does she keep me hanging on the line, oh
+(why does she keep me hanging on the liiiiiiine)
+
+Ah yeah, I know she's gonna do it to me
+One more time (one more time)
+I know she's gonna stay implanted
+In my mind
+Oh, why does she keep me hanging on the line, oh yeah
+(why does she keep me hanging on the liiiiiiine)
+
+I know the way she feels
+And all of the hearts that she steals
+She tells me it's easy
+When you do it right
+Oh well, ell I know tonight she comes
+(I know tonight she comes)
+She tells me it's easy
+When you do it right
+(know tonight, I know tonight) I know tonight
+(know tonight, I know tonight) I know tonight
+(know tonight, I know tonight) she comes
+(she comes)
+I know tonight, oh yeah
+(know tonight, I know tonight)
+(I know tonight) well I know tonight
+(know tonight, I know tonight)
+Tonight she comes

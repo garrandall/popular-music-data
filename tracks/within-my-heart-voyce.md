@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: within-my-heart-voyce
+lyrics_url: https://www.musixmatch.com/lyrics/Voyce/Within-My-Heart
 name: Within My Heart
 rankings:
 - end_date: '1991-12-06'
@@ -59,4 +60,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-02-22'
 ---
+When I look into your eyes
+It's hard to realize
+The way we used to be
+Why did you set me free
+I gave you all my love
+With the hope that we would be
+A passion that would last
+Through all eternity
 
+Within my heart
+I don't know what to do
+Within my heart
+'Cause I'm still in love with you
+Within my heart
+Why did it have to be this way
+'Cause within my heart
+I always wanted you to stay
+
+You are always on my mind
+And I hope to someday find
+A love that we once shared
+Can't you see I really care
+You know I need you now
+And I have to find out how
+We would ever be
+Baby you and me
+
+Within my heart
+I don't know what to do
+Within my heart
+'Cause I'm still in love with you
+Within my heart
+Why did it have to be this way
+'Cause within my heart
+I always wanted you to stay
+
+Within my heart
+I don't know what to do
+Within my heart
+'Cause I'm still in love with you
+Within my heart
+Why did it have to be this way
+'Cause within my heart
+I always wanted you to stay
+
+Being with you girl
+Is all that matters
+I once had a dream girl
+And now it's shattered
+'Cause you went your way
+And I went mine
+Girl I will always love you
+
+Within my heart
+I don't know what to do
+Within my heart
+'Cause I'm still in love with you
+Within my heart
+Why did it have to be this way
+'Cause within my heart
+I always wanted you to stay
+
+Within my heart
+I don't know what to do
+Within my heart
+'Cause I'm still in love with you
+Within my heart
+Why did it have to be this way
+'Cause within my heart
+I always wanted you to stay
+
+Within my heart
+I wanted you to stay
+Within my heart
+'Cause within my heart
+I always wanted you to stay
+
+Within my heart
+I don't know what to do
+Within my heart
+'Cause I'm still in love with you
+Within my heart
+Why did it have to be this way
+'Cause within my heart
+I always wanted you to stay

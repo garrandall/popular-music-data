@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tequila-sunrise-eagles
+lyrics_url: https://genius.com/Eagles-tequila-sunrise-lyrics
 name: Tequila Sunrise
 rankings:
 - end_date: '1973-06-29'
@@ -39,4 +40,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-08-11'
 ---
+{​Instrumental lead}​
 
+It's another tequila sunrise
+Starin' slowly 'cross the sky said goodbye
+He was just a hired hand
+Workin' on the dreams he planned to try
+The days go by
+
+Every night when the sun goes down
+Just another lonely boy in town
+And she's out runnin' 'round
+
+She wasn't just another woman
+And I couldn't keep from comin' on
+It's been so long
+Oh and it's a hollow feelin' when
+It comes down to dealin' friends
+It never ends
+
+{​Instrumental}​
+
+Take another shot of courage
+Wonder why the right words never come
+You just get numb
+It's another tequila sunrise, this old world
+Still looks the same
+Another frame, mmm

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: well-all-right-santana
+lyrics_url: https://genius.com/Santana-well-all-right-lyrics
 name: Well All Right
 rankings:
 - end_date: '1978-11-17'
@@ -39,4 +40,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-30'
 ---
+Well, all right so I'm being foolish
+Well, all right let people know
+About the dreams and wishes you wish
+In the night when the lights are low
 
+Well, all right, well all right
+We'll live and love with all our might
+Well, all right, well all right
+Our lifetime love will be all right
+
+Well, all right, so I'm going steady
+It's all right when people say
+That those foolish kids can't be ready
+For the love that comes their way
+
+Well, all right, well all right
+We'll live and love with all our might
+Well, all right, well all right
+Our lifetime love will be all right
+
+Well, all right, well all right
+We'll live and love with all our might
+Well, all right, well all right
+Our lifetime love will be all right

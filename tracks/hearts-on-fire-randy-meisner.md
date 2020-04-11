@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hearts-on-fire-randy-meisner
+lyrics_url: https://genius.com/Randy-meisner-hearts-on-fire-lyrics
 name: Hearts On Fire
 rankings:
 - end_date: '1981-01-30'
@@ -67,4 +68,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-02'
 ---
+Had myself a tall one
+Waitin' at the bar
+Wasn't gonna leave here
+'Til I had her in the car
 
+Moon was growing bright
+Stars were standing still
+Waiting for my baby
+In the cold December chill
+
+I been achin'
+From desire
+Blood runnin' like a ragin' river
+But her heart's on fire
+
+Couldn't write a letter
+'Cause I don't know what to say
+Couldn't write a song
+'Cause I don't know what to play
+
+Come a little closer
+Better hold me tight
+Gonna roll on down the highway
+And rock on with my baby all night

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-call-anne-murray
+lyrics_url: https://genius.com/Anne-murray-the-call-lyrics
 name: The Call
 rankings:
 - end_date: '1976-02-27'
@@ -27,4 +28,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-03-20'
 ---
+It's a long distance phone
+And I feel so alone
+Here without him
 
+Its a crime and a shame
+That I ain't got the change
+And don't you know that
+I'm worried about him
+
+I've been all over street
+Every street, up and down
+Looking for the man
+
+It's just a face in the crowd
+Where the traffic roars loud
+But don't you know he'd be
+Proud to give a helping hand
+
+Mister, can you
+Fnd it in your heart
+To lend me a dollar
+For the times have been slow
+I'm fresh outta dough
+And I ain't got the
+Money to call him
+
+I threw my pride out the door
+'Cause I've been turned down before
+But I'll keep trying
+
+This kind of pain is
+Kind of hard to explain
+But the feeling's the same
+As like dying
+
+Mister, can you
+Find it in your heart
+To lend me a dollar
+For the times have been slow
+I'm fresh outta dough
+And I ain't got the
+Money to call him
+
+You put the change in my hand
+You're the world's kindest man
+And I thank you, Sir
+
+You'll never know what you've done
+For this poor mother's son
+A thirsty man just got a
+Cold cup of water
+
+Mister, can you
+Find it in your heart
+To lend me a dollar
+For the times have been slow
+I'm fresh outta dough
+And I ain't got the
+Money to call him
+
+Mister, can you
+Find it in your heart
+To lend me a dollar
+For the times have been slow
+I'm fresh outta dough
+And I ain't got the
+Money to call him

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-not-in-love-will-to-power
+lyrics_url: https://genius.com/Will-to-power-im-not-in-love-lyrics
 name: I'm Not In Love
 rankings:
 - end_date: '1990-11-23'
@@ -79,4 +80,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-03-16'
 ---
+I'm not in love, so don't forget it
+It's just a silly phase I'm going through
+And just because I call you up
+Don't get me wrong, don't think you've got it made
+I'm not in love, oh no, just because
 
+I like to see you, but then again
+That doesn't mean you mean that much to me
+So if I call you, don't make a fuss
+Don't tell your friends about the two of us
+I'm not in love, no, no, just because
+(There's something about the way she makes me feel)
+
+Ooh, you wait a long time for me
+Ooh, you wait a long time
+
+Just because
+Ooh, you wait a long time for me
+Ooh, you wait a long time
+
+I keep your picture upon the wall
+It hides a nasty stain that's lyin' there
+But don't you ask me to give it back
+I know you know it doesn't mean that much to me
+I'm not in love, I'm not in love

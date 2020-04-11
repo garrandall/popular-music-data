@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-make-me-feel--mighty-real--sylvester
+lyrics_url: https://genius.com/Sylvester-you-make-me-feel-mighty-real-lyrics
 name: You Make Me Feel (Mighty Real)
 rankings:
 - end_date: '1979-01-19'
@@ -47,4 +48,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-17'
 ---
+When we're out there dancin' on the floor darlin'
+And I feel like I need some more
+And I feel your body close to mine
+And I know my love, it's about that time
+Make me feel, mighty real
+Make me feel, mighty real
 
+
+You make me feel mighty real
+You make me feel mighty real
+
+
+When we get home darlin'
+And it's nice and dark
+And the music's in me
+And I'm still real hot
+Then you kiss me there
+And it feels real good
+And I know you'll love me
+Like you... should!
+
+
+Oh, you make me feel mighty real
+You make me feel mighty real
+Make me feel, mighty real
+Make me feel, mighty real
+Make me feel, mighty real
+Make me feel, mighty real
+
+
+I feel real, I feel real, I feel real, I feel real
+Real real, I feel real, I feel real, I feel real, woo!
+
+I feel real, I feel real, I feel real, real real
+Woo! I feel real
+Woo! I feel real
+I feel real, real real, I feel real, I'm real real
+
+
+You make me feel mighty real
+You make me feel mighty real
+Oh, you make me feel mighty real
+You make me feel mighty real
+
+
+Oh, I feel real, when you touch me
+I feel real, when you kiss me
+I feel real, when you touch me
+I feel real, when you hold me
+Ooh, ooh, ooh
+Ooh, ooh, ooh...

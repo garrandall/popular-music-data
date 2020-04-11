@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bad-of-the-heart-george-lamond
+lyrics_url: https://genius.com/George-lamond-bad-of-the-heart-lyrics
 name: Bad Of The Heart
 rankings:
 - end_date: '1990-05-18'
@@ -75,4 +76,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-09-01'
 ---
+Because you're bad of the heart
 
+How could you be so cruel
+You treat me like a fool
+After all I did for you
+You cut me like a blade
+My trust is slowly fading
+Now I don't know what to do
+I thought that when you gave me love
+My life would start to change
+Instead I saw that I was wrong
+My life was re-aranged
+How I wonder why
+You just put my love aside
+You threw me in the gutter and you left me there to lie
+
+Bad of the heart
+You never wanted to start
+Cause your just bad of the heart
+You never played the game to smart
+Cause you know your bad
+
+When I was by your side
+You kissed and told me lies
+You hurt me each and everyday
+
+I made it through the night
+Lying to myself, why did it have to be this way
+I thought that when you gave me love
+My life would start to change
+Instead I saw that I was wrong
+My life was re-aranged
+How I wonder why
+You just put my love aside
+You threw me in the gutter and you left me there to lie
+
+Bad of the heart
+You never wanted to start
+Cause your just bad of the heart
+Now your tearing me apart
+
+Bad of the heart
+You never wanted to start
+Cause your just bad of the heart
+You really didn't want me baby, oh girl
+
+Bad of the heart
+You didn't really want me baby
+You never really needed me
+Cause your just bad of the heart
+Repeat (1x)

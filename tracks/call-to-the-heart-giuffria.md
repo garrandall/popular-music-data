@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: call-to-the-heart-giuffria
+lyrics_url: https://genius.com/Giuffria-call-to-the-heart-lyrics
 name: Call To The Heart
 rankings:
 - end_date: '1984-11-16'
@@ -83,4 +84,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
 ---
+Can I ever live without you girl?
+Get back on my feet again
+Now I'm lost in your world
+And there's no simple way to let you go
+When you've been such a part of me
+And though you choose to walk a separate road
+I still believe in you
+So I call to your heart, hear me calling to you
+Oh, I call to your heart, I'm calling to you
+Distant voices in the silent night, call to a memory
+Someone touched me but it don't feel right
+It's only you I need
+When I call to your heart
+Can you hear all the times
+When I call to your heart
+Calling to you, Calling to you
 
+Call to your heart
+Your love I lost along the way
+But darling, I'll find you someday
+Darlin', you remember the dreams that we had
+I'd give everything, my world, to hold you again
+And darlin', together, we can make it work out
+So stay with me baby, I need you now
+I call to your heart, hear me calling to you
+Hear me call to your heart, hear me calling to you
+Calling to you
+I'll call to your heart, call to your heart
+Hear me calling to you, to your heart

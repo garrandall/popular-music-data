@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-coming-home-stories
+lyrics_url: https://genius.com/Stories-im-coming-home-lyrics
 name: I'm Coming Home
 rankings:
 - end_date: '1972-06-23'
@@ -55,4 +56,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
 ---
+I'm coming yes I'm coming home
+You know that'll I'll be there
+I'm coming now don't you try to phone
+Or turn the music down low
 
+I'm coming yes I'm coming
+You know that I'll be runnin'
+I'm comin' darling I'll be there
+
+Darling you once said
+We could make everything work that we had
+I didn't think that you would lie
+Or try to hide them inside
+
+I'm comin' yes I'm comin'
+You know that I'll be runnin'
+I'm comin' yes you know that
+
+I said many times before
+You would never close your door
+I I I I I c'mon
+
+I said many times before
+You would never close your door
+I I I I I
+
+I'm comin' yes I'm comin' home
+You know that'll I'll be there
+I'm comin' don't you try to phone
+Or turn the music down low
+
+I'm comin' yes I'm comin'
+You know that I'll be runnin'
+I'm comin' yes you know that I....
+
+Oooh I'm coming home yeah
+C'mon
+Oh I'm coming home yeah
+Don't, don't try to phone no no
+Oh oh now
+Now I'm coming home
+Oooh

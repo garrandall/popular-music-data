@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-only-knew-ozark-mountain-daredevils
+lyrics_url: https://genius.com/Ozark-mountain-daredevils-if-i-only-knew-lyrics
 name: If I Only Knew
 rankings:
 - end_date: '1976-01-23'
@@ -35,4 +36,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-02-28'
 ---
+(INTRO)
 
+If I only knew what wakes me
+
+If I only knew
+
+Then I would be outside walkin'
+
+Through the morning dew with you
+
+It shouldn't be too far
+
+It shouldn't be far away, away, away
+
+If I only knew which road went where
+
+If I only knew
+
+Then I would be outside walkin'
+
+Through the morning air with you
+
+It shouldn't be too hard
+
+It shouldn't be hard to see, to see, to see
+
+(SAX SOLO)
+
+Hey you
+
+Put some funny looking clothes on
+
+Me too
+
+Then we can run around and show our happy glow
+
+If I only knew what it would take
+
+If I only knew
+
+Then I wouldn't make the same mistakes
+
+That I usually do with you
+
+It shouldn't be too hard
+
+It shouldn't be hard to do, to do, to do, to do
+
+(GUITAR SOLO)
+
+Lyrics are copyright 1975, Larry Lee & Steve Cash

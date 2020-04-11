@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happy-go-lucky-me-paul-evans
+lyrics_url: https://genius.com/Paul-evans-happy-go-lucky-me-lyrics
 name: Happy-Go-Lucky-Me
 rankings:
 - end_date: '1960-05-08'
@@ -63,4 +64,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-01'
 ---
+I can laugh
+When things ain't funny
+(a haha) Happy go lucky me
 
+Yes, I can smile
+When i ain't got no money
+(a haha) Happy go lucky me
+
+It may sound silly but
+Mmm, I don't care
+I got the moonlight
+I got the sun
+I've got the stars above
+
+Me and my filly well, we both share
+This slappy go happy, happy go lucky looovve
+
+Well! Life is sweet ..Whooa sweet as honey
+(a haha) happy go lucky me
+
+*pause....music and laughing*
+
+It may sound silly but
+Mmm, I don't care
+I got the moonlight
+I got the sun
+I've got the stars above
+
+Me and my filly well, we both share
+This slappy go happy, happy go lucky looovve
+
+Well! Life is sweet whooa yea! sweet as honey
+(a haha) Happy go lucky me
+(a haha) Happy go lucky me

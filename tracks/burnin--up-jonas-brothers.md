@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: burnin--up-jonas-brothers
+lyrics_url: https://genius.com/Jonas-brothers-burnin-up-lyrics
 name: Burnin' Up
 rankings:
 - end_date: '2008-07-18'
@@ -71,4 +72,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-10-25'
 ---
+I'm hot, you're cold
+You go around like you know
+Who I am, but you don't
+You've got me on my toes
 
+
+I'm slipping into the lava
+And I'm trying to keep from going under
+Baby, who turned the temperature hotter?
+'Cause I'm burnin' up, burnin' up for you, baby
+Come on, girl
+
+
+I fell (I fell) so fast (So fast)
+Can't hold myself back
+High heels (High heels), red dress (Red dress)
+All by yourself, gotta catch my breath
+
+
+I'm slipping into the lava
+And I'm trying to keep from going under
+Baby, who turned the temperature hotter?
+'Cause I'm burnin' up, burnin' up for you, baby
+
+
+Walk in the room, all I can see is you, oh
+Staring me down, I know you feel it, too
+
+
+I'm slipping into the lava
+And I'm trying to keep from going under
+Baby, who turned the temperature hotter?
+'Cause I'm burnin' up, burnin' up for you, baby
+
+
+Slipping into the lava
+And I'm trying to keep from going under
+Baby, who turned the temperature hotter?
+'Cause I'm burnin' up, burnin' up for you, baby
+
+
+Yo, we're burning up in this place tonight
+Your Brothers sing it loud (And we're feeling right)
+Get up and dance (Don't try and fight it)
+Big Rob's for real (And that's no lie)
+Stop, drop and roll (And touch the floor)
+(It keeps on burnin' up) more and more
+I got JB with me (Laying it down)
+Come on boys, let’s bring the chorus around
+
+
+I'm slipping into the lava
+And I'm trying to keep from going under (Yeah)
+Baby, who turned the temperature hotter? (Come on, man)
+'Cause I'm burnin' up, burnin' up for you, baby
+
+
+Burnin' up (Sup?), burnin' up for you, baby

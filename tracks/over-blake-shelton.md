@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: over-blake-shelton
+lyrics_url: https://genius.com/Blake-shelton-over-lyrics
 name: Over
 rankings:
 - end_date: '2012-07-06'
@@ -79,4 +80,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-10-27'
 ---
+If I could
+I would dare
+Feed your dreams
+And starve your fears
+If I could
+Light the world
+We could sit
+And watch it burn
+We could fall asleep inside the glow
 
+
+So tell me what I got to do to win you over
+You'll never have to wonder if you need another
+You'll never have to wonder if I understand
+And every time you reach for me you'll find a hand out
+Oh
+
+
+If I could
+Take you in
+Feeling you deep
+Beneath my skin
+Then I could
+Slip away
+With you as a poison in my veins
+I don't want to fall asleep alone
+And wake up knowing that I died without the one
+
+
+So tell me what I got to do to win you over
+You'll never have to wonder if you need another
+You'll never have to wonder if I understand
+And every time you reach for me you'll find a hand out
+Oh
+So tell me what I got to do to win you over
+You'll never have to wonder if you need another
+You'll never have to wonder if I understand
+And every time you reach for me you'll find a hand out
+Oh
+
+
+If I could
+I would dare
+Feed your dreams
+And starve your fears

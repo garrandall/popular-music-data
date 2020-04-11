@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sending-all-my-love-linear
+lyrics_url: https://genius.com/Linear-sending-all-my-love-lyrics
 name: Sending All My Love
 rankings:
 - end_date: '1990-02-23'
@@ -115,4 +116,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-08-18'
 ---
+Girl, I close my eyes
+And then I start to cry for you
+You're the reason why
+I have to say goodbye to you
 
+This pain I have inside
+Just makes me want to die for you
+All these lonely nights
+They just don't seem so right for you
+
+I'm sending you all my...
+
+
+Sending all my love
+I'm sending all my love to you
+I'm sending all my love
+I'm sending all my love to you
+
+
+Every move you make
+Day by day I pray for you
+When I close my eyes
+Teardrops start to fall for you
+
+I'm sending all my love
+Sending all my love to you
+This pain I have inside
+Just makes me want to die for you
+
+
+I'm sending all my love
+Sending all my love to you
+I'm sending all my love
+Sending all my love to you
+
+
+I'm sending all my love
+Sending all my love to you
+(Sending you all my)
+
+Sending all my love
+Sending all my love to you
+
+
+Girl, I close my eyes
+And then I start to cry for you
+You're the reason why
+I have to say goodbye to you
+
+This pain I have inside
+Just makes me want to cry for you
+All these lonely nights
+They just don't seem so right for you
+
+
+I'm sending all my love
+Sending all my love to you
+I'm sending all my love
+Sending all my love to you
+
+I'm sending all my love
+Sending all my love to you
+I'm sending all my love
+Sending all my love to you

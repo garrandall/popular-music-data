@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forever-the-little-dippers
+lyrics_url: https://genius.com/The-little-dippers-forever-lyrics
 name: Forever
 rankings:
 - end_date: '1960-01-31'
@@ -63,4 +64,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-25'
 ---
+Hold me, kiss me
+Whisper sweetly
+That you love me
+Forever
 
+Hold me, kiss me
+Whisper sweetly
+That you love me
+Forever

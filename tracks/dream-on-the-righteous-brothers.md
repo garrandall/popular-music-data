@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dream-on-the-righteous-brothers
+lyrics_url: https://genius.com/The-righteous-brothers-dream-on-lyrics
 name: Dream On
 rankings:
 - end_date: '1974-11-15'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-12-28'
 ---
+Lay your head down on my shoulder
+I won't let the night get colder
+I'll protect you
+I'll be keepin' trouble far from where your sleepin'
+Until you wake in the mornin '
+You've got the world to yourself
 
+Dream on
+Dream about the world we're gonna live in one fine day
+Dream on
+Spend the night in heaven, I'll be here to light your way
+Someday tomorrow will smile
+But little girl in the meanwhile
+Dream on
+
+You're a princess. Chains around you
+I'm a hero who just found you
+'Til a brand new day must wake you
+Let imagination take you
+Go where the music is playin'
+I'll be along in a while
+
+Baby, baby Dream on
+Dream about the world we're gonna live in one fine day
+Dream on
+Spend the night in heaven, I'll be here to light your way
+Dream on
+Dream on

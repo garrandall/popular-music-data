@@ -1,11 +1,10 @@
 ---
 artists:
-- Earth
-- Wind
-- Fire
+- Earth, Wind & Fire
 features: []
 genres: []
 key: wanna-be-with-you-earth-wind-fire
+lyrics_url: https://genius.com/Earth-wind-and-fire-wanna-be-with-you-lyrics
 name: Wanna Be With You
 rankings:
 - end_date: '1982-01-29'
@@ -37,4 +36,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-03-06'
 ---
+Yesterday seems like so long ago
+This space I'm in, reminds me so
+Of the times, I use to rip and run
+Shootin' my guns and out for fun
 
+As time passed by, I changed my point of view
+Started to search for someone like you
+You made me feel so much love from the heart
+Enough to know we'll never part
+
+I wanna be with you
+That's all I want to do
+I wanna be with you
+That's all I want to do
+I wanna be with you
+
+Look at you, like someone from a dream
+You came to me, in time of need
+You are the best, You're different from the rest
+You take the cake, for goodness sake
+
+I take you out, to prove that it's true
+The greatest love I ever knew
+Is in my arms, for more than just a night
+'Cause baby now, you are my life
+
+I wanna be with you
+That's all I want to do
+I wanna be with you
+That's all I want to do
+I wanna be with you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-of-my-life-the-everly-brothers
+lyrics_url: https://www.musixmatch.com/lyrics/The-Everly-Brothers/Love-of-My-Life
 name: Love Of My Life
 rankings:
 - end_date: '1958-11-30'
@@ -31,4 +32,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-29'
 ---
+Love of my life
+Come close to me
+Say you will always be true
+Our love must be, sweet destiny
+Love of my life, I love you
 
+No other love could thrill me so completely
+No other lips could satisfy me
+Baby baby, don't deny me
+
+My hungry arms
+Long for your charms
+Mmmm... love of my life, I love you
+
+No other love could thrill me so completely
+No other lips could satisfy me
+Baby baby, don't deny me
+
+My hungry arms
+Long for your charms
+Mmmm... love of my life, I love you
+
+Love of my life, I love you

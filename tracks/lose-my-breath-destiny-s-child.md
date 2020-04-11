@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lose-my-breath-destiny-s-child
+lyrics_url: https://genius.com/Destinys-child-lose-my-breath-lyrics
 name: Lose My Breath
 rankings:
 - end_date: '2004-10-01'
@@ -99,4 +100,97 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-02-26'
 ---
+Hit me!
 
+
+Can you keep up?
+Baby boy, make me lose my breath
+Bring the noise, make me lose my breath
+Hit me hard, make me lose my (Hah Hah)
+Can you keep up?
+Baby boy, make me lose my breath
+Bring the noise, make me lose my breath
+Hit me hard, make me lose my breath (Hah Hah)
+
+
+Oooh!
+I put it right there, made it easy for you to get to
+Now you wanna act like ya don't know what to do
+After I done everything that you asked me
+Grabbed you, grind you, liked you, tried you
+Moved so fast baby now I can't find you
+Oooh!
+I'm startin' to believe that I'm way too much for you
+All that talk but it seems like it can't come through
+All them lies like you could satisfy me
+Now I see where believing you got me
+Gave you the wheel, but you can't drive me
+
+
+Can you keep up?
+Baby boy, make me lose my breath
+Bring the noise, make me lose my breath
+Hit me hard, make me lose my (Hah Hah)
+Can you keep up?
+Baby boy, make me lose my breath
+Bring the noise, make me lose my breath
+Hit me hard, make me lose my breath (Hah Hah)
+
+
+Oooh!
+Two things I don't like when I tryin' to get my groove
+Is a partna that meets me only half way and just can't prove
+Take me out so deep when you know you can't swim
+Need a lifeguard and I need protection
+To put it on me deep in the right direction
+Oooh!
+You understand the facts that I'm tryin' to give to you
+You movin' so slow like you just don't have a clue
+Didn't mama teach you to give affection?
+I know the difference of a man and an adolescent
+It ain't you, boo, so get to steppin'!
+
+
+Can you keep up?
+Baby boy, make me lose my breath
+Bring the noise, make me lose my breath
+Hit me hard, make me lose my (Hah Hah)
+Can you keep up?
+Baby boy, make me lose my breath
+Bring the noise, make me lose my breath
+Hit me hard, make me lose my breath (Hah Hah)
+Can you keep up?
+Baby boy, make me lose my breath
+Bring the noise, make me lose my breath
+Hit me hard, make me lose my (Hah Hah)
+Can you keep up?
+Baby boy, make me lose my breath
+Bring the noise, make me lose my breath
+Hit me hard, make me lose my breath (Hah Hah)
+
+
+If you can't make me say 'oooh'
+Like the beat of this drum
+Why you ask for some and you really want none
+If you can't make me say 'oooh'
+Like the beat of this groove
+(You don't have no business in this here's your papers
+Baby you are dismissed, dismissed, dismissed....)
+
+
+Can you keep up?
+Baby boy, make me lose my breath
+Bring the noise, make me lose my breath
+Hit me hard, make me lose my (Hah Hah)
+Can you keep up?
+Baby boy, make me lose my breath
+Bring the noise, make me lose my breath
+Hit me hard, make me lose my breath (Hah Hah)
+Can you keep up?
+Baby boy, make me lose my breath
+Bring the noise, make me lose my breath
+Hit me hard, make me lose my (Hah Hah)
+Can you keep up?
+Baby boy, make me lose my breath
+Bring the noise, make me lose my breath
+Hit me hard, make me lose my breath (Hah Hah)

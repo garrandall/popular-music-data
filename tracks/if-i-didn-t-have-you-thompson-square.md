@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-didn-t-have-you-thompson-square
+lyrics_url: https://genius.com/Thompson-square-if-i-didnt-have-you-lyrics
 name: If I Didn't Have You
 rankings:
 - end_date: '2012-11-23'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-06-01'
 ---
+Sometimes it feels like, I'm gonna break
+Sometimes this world, gives more than I can take
+Sometimes, sunshine gets lost in the rain
+And it keeps pouring down
+It just keeps coming down
 
+
+This life would kill me If I didn't have you
+I couldn't live without you baby
+I wouldn't want to
+If you didn't love me so much
+I'd never make it through
+'Cause this life would kill me
+This life would kill me if I didn't have you
+
+
+You are my heart, every breath I breathe
+I'm safe in your arms, you rescue me
+When I'm weak, you're strong
+If you were gone I don't know where I'd be
+You were made for me
+You were made for me
+
+
+This life would kill me If I didn't have you
+I couldn't live without you baby
+I wouldn't want to
+If you didn't love me so much
+I'd never make it through
+'Cause this life would kill me
+This life would kill me if I didn't have you
+
+
+If you didn't love me so much
+If you didn't love me so much
+This life would kill me
+If I didn't have you
+This life would kill me
+
+
+Couldn't live without you baby
+I wouldn't want to
+If you didn't love me so much
+I'd never make it through
+'Cause this life would kill me
+This life would kill me if I didn't have you

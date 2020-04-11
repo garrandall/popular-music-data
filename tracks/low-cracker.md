@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: low-cracker
+lyrics_url: https://genius.com/Cracker-low-lyrics
 name: Low
 rankings:
 - end_date: '1994-04-15'
@@ -59,4 +60,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-07-02'
 ---
+Sometimes I wanna take you down
+Sometime I wanna get you low
+Brush your hair back from your eyes
+Take you down, let the river flow
+Sometimes I go and walk the street
+Behind the green sheet of glass
+A million miles below their feet
+A million miles, a million miles
 
+
+I'll be with you girl, like being low
+Hey, hey, hey, like being stoned
+I'll be with you girl, like being low
+Hey, hey, hey, like being stoned
+
+
+A million poppies' gonna make me sleep
+Just one rose and knows your name
+The fruit is rusting on the vine
+The fruit is calling from the trees
+Hey, don't you wanna go down
+Like some junkie cosmonaut
+A million miles below their feet
+A million miles, a million miles
+
+
+I'll be with you girl, like being low
+Hey, hey, hey, like being stoned
+I'll be with you girl, like being low
+Hey, hey, hey, like being stoned
+
+
+Blue, blue is the sun
+A brown, brown is the sky
+A green, green are her eyes
+A million miles, a million miles
+Hey, don't you wanna go down
+Like some disgraced cosmonaut
+A million miles below their feet
+A million miles, a million miles
+
+
+I'll be with you girl, like being low
+Hey, hey, hey, like being stoned
+I'll be with you girl, like being low
+Hey hey hey like being stoned
+I'll be with you girl, like being low
+Hey, hey, hey, like being stoned
+I'll be with you girl, like being low
+Hey hey hey like being stoned

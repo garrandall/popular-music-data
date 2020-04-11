@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everything-i-shouldn-t-be-thinking-about-thompson-square
+lyrics_url: https://genius.com/Thompson-square-everything-i-shouldnt-be-thinking-about-lyrics
 name: Everything I Shouldn't Be Thinking About
 rankings:
 - end_date: '2014-02-07'
@@ -55,4 +56,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-04-19'
 ---
+_Verse 1:_
+My motorcycle needs an oil change
+Fence needs mending, house needs paint
+I got a million things that need to be done but
+Baby I can only focus on one
 
+_Chorus 1:_
+The way you're looking back at me right now
+I'm thinking about everything I shouldn't be thinking about
+You're playing with my mind, baby ain't no doubt
+I'm thinking about everything I shouldn't be thinking about
+You're everything I shouldn't be thinking about
+
+_Verse 2:_
+Baby you've always had a one track mind
+So what you're saying ain't no surprise
+What may come as a shock to you
+Is that I'm having all those little thoughts too yea
+
+_Chorus 1:_
+The way you're looking back at me right now
+I'm thinking about everything I shouldn't be thinking about
+You're playing with my mind, baby ain't no doubt
+I'm thinking about everything I shouldn't be thinking about
+You're everything I shouldn't be thinking about
+
+_Bridge:_
+Baby since you and me are on the same page
+Let's do something 'bout it, what do you say, ay?
+
+_Chorus 1:_
+The way you're looking back at me right now
+I'm thinking about everything I shouldn't be thinking about
+You're playing with my mind, baby ain't no doubt
+I'm thinking about everything I shouldn't be thinking about
+
+_Chorus 2:_
+The way you're looking back at me right now
+I'm thinking about everything I shouldn't be thinking about
+You're playing with my mind, baby ain't no doubt
+I'm thinking about everything I shouldn't be thinking about
+You're everything I shouldn't be thinking about

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: lisa-ferrante-teicher
+lyrics_url: https://www.musixmatch.com/lyrics/Ferrante-feat-Teicher/Lisa
 name: Lisa
 rankings:
 - end_date: '1962-06-22'
@@ -16,4 +17,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
 ---
-
+Instrumental

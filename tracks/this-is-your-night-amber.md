@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-is-your-night-amber
+lyrics_url: https://www.musixmatch.com/lyrics/Amber/This-Is-Your-Night
 name: This Is Your Night
 rankings:
 - end_date: '1996-06-21'
@@ -167,4 +168,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-03-15'
 ---
+Dah dah dah dah dad, ditita ta tay
+Dah dah dah dah dad, ditita ta tay
+Dah dah dah dah dad, ditita ta tay
+Ditita ta tay, ditita ta tay
 
+Dah dah dah dah dad, ditita ta tay
+Dah dah dah dah dad, ditita ta tay
+Dah dah dah dah dad, ditita ta tay
+Ditita ta tay
+
+This is your night
+Dancing free until the morning light
+Together forever 'cause this is your night
+And everything is gonna be alright
+
+Aww yeah, so in love with you
+Aww yeah, it's too good to be true
+Aww yeah, feelin' so brand-new, aww yeah
+Eee-yeah, eee-yeah, ooh, ooh, ooh, ooh
+
+You captured my heart, you're the key to my life
+A vision of our love, that made me survive
+Regaining the mood, that we're in, it's so real
+It's time to move up, and to face what I feel, ohh
+
+This is your night
+Dancing free until the morning light
+Together forever 'cause, this is your night
+And everything is gonna be alright
+
+Aww yeah, so in love with you
+Aww yeah, it's too good to be true
+Aww yeah, feelin' so brand-new, aww yeah
+Eee-yeah, eee-yeah, ooh, ooh, ooh, ooh
+
+Tonight with my spirits, the one that you call
+I'm ready to stand up and ready to fall
+I can't find a way, so attracted by you
+Let me be your girl and I'll be so true, ooh
+
+This is your night
+Dancing free until the morning light
+Together forever 'cause this is your night
+And everything is gonna be alright
+
+Aww yeah, so in love with you
+Aww yeah, it's too good to be true
+Aww yeah, feelin' so brand-new, aww yeah
+Eee-yeah, eee-yeah
+
+Dah dah dah dah dad, ditita ta tay
+Dah dah dah dah dad, ditita ta tay
+Dah dah dah dah dad, ditita ta tay
+Ditita ta tay, ditita ta tay
+
+Dah dah dah dah dad, ditita ta tay
+Dah dah dah dah dad, ditita ta tay
+Dah dah dah dah dad, ditita ta tay
+Ditita ta tay
+
+This is your night
+Dancing free until the morning light
+Together forever 'cause this is your night
+And everything is gonna be alright
+
+Aww yeah, so in love with you
+Aww yeah, it's too good to be true
+Aww yeah, feelin' so brand-new, aww yeah
+Eee-yeah, eee-yeah
+
+This is your night
+Dancing free until the morning light
+Together forever 'cause this is your night
+And everything is gonna be alright

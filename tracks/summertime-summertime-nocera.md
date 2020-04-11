@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: summertime-summertime-nocera
+lyrics_url: https://genius.com/Nocera-summertime-summertime-lyrics
 name: Summertime Summertime
 rankings:
 - end_date: '1987-01-23'
@@ -35,4 +36,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-02-28'
 ---
+Take me
+Take me to the water
+Summertime, summertime
+Maybe, we can fall in love
+In summertime, summertime
 
+I listen to the rain outside
+Please come and take me for a ride
+I really want you
+To come and take me far away
+I want to say
+
+Take me
+Take me to the water
+Summertime, summertime
+Maybe, we can fall in love
+In summertime, summertime
+
+I'm dreaming, lying on the sand
+You talk to me and take my hand
+I can't believe it's true
+But you called me out today
+I hear you say
+
+Take me
+Take me to the water
+Summertime, summertime
+Maybe, we can fall in love
+In summertime, summertime
+
+Take me
+Take me to the water
+Summertime, summertime
+Maybe, we can fall in love
+In summertime, summertime
+
+Summer, summer, summertime
+Time, time, summertime
+Summer, summer, summertime
+Time, time, summertime
+Summer, summer, summertime
+Take me baby
+
+Take me
+Take me to the water
+Summertime, summertime
+Maybe, we can fall in love
+In summertime, summertime
+
+I listen to the rain outside
+Please come and take me for a ride
+I really want you
+To come and take me far away
+I want to say
+
+Take me
+Take me to the water
+Summertime, summertime
+Maybe, we can fall in love

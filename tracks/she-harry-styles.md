@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-harry-styles
+lyrics_url: https://genius.com/Harry-styles-she-lyrics
 name: She
 rankings:
 - end_date: '2020-01-03'
@@ -11,4 +12,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-12-28'
 ---
+Nine in the morning, the man drops his kids off at school
+And he's thinking of you, like all of us do
+Sends his assistant for coffee in the afternoon
+Around 1:32, like he knows what to do
 
+
+She (She), she lives in daydreams with me (She)
+She's the first one that I see, and I don't know why
+I don't know who she is (She, she)
+
+
+He takes a boat out, imagines just sailing away (Away, away)
+And not telling his mates (Not telling his mates)
+He wouldn't know what to say (Wouldn't know what to say, to say)
+
+
+She (She), she lives in daydreams with me (She)
+She's the first one that I see, and I don't know why
+I don't know who she is (She)
+She (She), she's the first one that I see (She)
+She lives in daydreams with me, and I don't know why
+I don't know where she is (She, she)
+
+
+Lives for the memory
+A woman who's just in his head (Just in his head)
+And she sleeps in his bed (His bed)
+While he plays pretend (Pretend)
+So pretend (Pretend)
+
+
+She (She), she lives in daydreams with me (She)
+She's the first one that I see, and I don't know why
+I don't know who she is (She, she)
+She (She), she's the first one that I see (She)
+She lives in daydreams with me, and I don't know why
+I don't know where she is (She, she)

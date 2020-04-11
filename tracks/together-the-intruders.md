@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: together-the-intruders
+lyrics_url: https://www.musixmatch.com/lyrics/The-Intruders/Together
 name: Together
 rankings:
 - end_date: '1967-05-05'
@@ -43,4 +44,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-24'
 ---
+(Together, together)
+Oh, oh we could be on a desert
+Lost without a place (place) to (to) go (go)
+And we're so in love, in love with each other
+That we wouldn't even (even) know (know)
 
+(Oh, I) don't care (I don't care)
+Anyplace, anywhere (anywhere)
+(Just as long as) just as long
+(We are there) as we are there, baby, baby
+(Together) together, baby
+(Together) together, baby
+(Baby, just you and me) just you and me
+(Woah) oh, how (happy) happy (we'll) we'll be (be)
+
+And, oh, oh, oh, we could be in proverty
+No one to lend a helping (helping) hand (hand)
+But it's alright (alright), alright I know
+Because you always under(under)stand(stand)
+
+(Oh, I) and I don't care (I don't care)
+Anyplace, anywhere (anywhere)
+(Just as long as) just as long
+(We can share) as we share them, baby, baby
+(Together) together, baby
+(Together) together, baby
+(Baby, just you and me) just you and me
+(Woah) oh, how (happy) happy (we'll) we'll (be) be
+
+(Oh, I) and I don't care (I don't care)
+Anyplace, anywhere (anywhere)
+(Just as long as) just as long
+(We can share) as we share them, baby, baby
+(Together) together, baby
+(Together) together, baby
+(Baby, just you and) just (me) you and me
+(Woah) oh, how happy (happy) we'll (we'll) be (be)
+
+(Together) oh, we're together
+(Together) we're gonna stay together
+(Together) do it all together
+(Together) gonna work together
+(Together) girl, every day, ever now
+(Together) gonna stay together
+(Together) oh, we're together

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-we-ain-t-got-jake-owen
+lyrics_url: https://genius.com/Jake-owen-what-we-aint-got-lyrics
 name: What We Ain't Got
 rankings:
 - end_date: '2015-01-23'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-03-28'
 ---
+We all want what we ain't got
+Our favorite doors are always locked
+On a higher hill with a taller top
+We all want what we ain't got
+We ain't happy where we are
+There's greener grass in the neighbors yard
+A bigger house and a faster car
+We ain't happy where we are
 
+
+All I want is what I had
+I'll trade it all just to get her back
+She's moving on, but I guess I'm not
+We all want what we ain't got
+
+
+We all wish it didn't hurt
+When you try your best and it doesn't work
+And goodbye's such a painful word
+We all wish it didn't hurt
+
+
+All I want is what I had
+I'll trade it all just to get her back
+She's moving on, but I guess I'm not
+We all want what we ain't got
+
+
+All I want is what I had
+I'll trade it all just to get her back
+She's moving on, but I guess I'm not
+We all want what we ain't got
+
+
+I wanted the world until my whole world stopped
+You know a love like that ain't easily forgot
+I guess we all want what we ain't got
+Yeah, we all want what we ain't got

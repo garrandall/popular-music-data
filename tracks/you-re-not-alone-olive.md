@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-not-alone-olive
+lyrics_url: https://genius.com/Olive-youre-not-alone-lyrics
 name: You're Not Alone
 rankings:
 - end_date: '1997-10-31'
@@ -87,4 +88,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-03-07'
 ---
+In a way, it's all a matter of time
+I will not worry for you, you'll be just fine
+Take my thoughts with you, and when you look behind
+You will surely see a face that you recognize
 
+
+You're not alone, I'll wait 'til the end of time
+Open your mind, surely it's plain to see
+You're not alone, I'll wait 'til the end of time for you
+Open your mind, surely there's time to be with me
+
+
+It is the distance that makes life a little hard
+Two minds that once were close, now, so many miles apart
+I will not falter, though, I'll hold on 'til you're home
+Safely back where you belong, and see how our love has grown
+
+
+You're not alone, I'll wait 'til the end of time
+Open your mind, surely it's plain to see
+You're not alone, I'll wait till the end of time for you
+Open your mind, surely there's time to be with me
+
+You're not alone, I'll wait 'til the end of time
+Open your mind, surely it's plain to see
+You're not alone, I'll wait 'til the end of time for you
+Open your mind, surely there's time to be with me
+
+You're not alone, I'll wait 'til the end of time
+Open your mind, baby, there's time to be with me
+You're not alone, I'll wait 'til the end of time
+Open your mind, surely there's time to be with me
+
+You're not alone, I'll wait 'til the end of time for you
+Open your mind, baby, there's time for me and you

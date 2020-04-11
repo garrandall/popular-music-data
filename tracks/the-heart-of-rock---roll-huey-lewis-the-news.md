@@ -1,7 +1,6 @@
 ---
 artists:
-- Huey Lewis
-- The News
+- Huey Lewis & The News
 features: []
 genres: []
 key: the-heart-of-rock---roll-huey-lewis-the-news
@@ -129,7 +128,7 @@ that really really drives 'em wild
 They say the heart of rock and roll is still beating
 And from what I've seen I believe 'em
 Now the old boy may be barely breathing
-But the heart of rock and roll, heart of rock and roll is still beating 
+But the heart of rock and roll, heart of rock and roll is still beating
 
 In Cleveland
 Detroit!!

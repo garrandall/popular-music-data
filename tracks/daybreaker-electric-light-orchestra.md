@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daybreaker-electric-light-orchestra
+lyrics_url: https://genius.com/Electric-light-orchestra-daybreaker-lyrics
 name: Daybreaker
 rankings:
 - end_date: '1974-05-10'
@@ -27,4 +28,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-01'
 ---
-
+Instrumental

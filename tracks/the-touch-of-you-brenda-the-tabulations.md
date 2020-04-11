@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: the-touch-of-you-brenda-the-tabulations
+lyrics_url: https://genius.com/Brenda-and-the-tabulations-the-touch-of-you-lyrics
 name: The Touch Of You
 rankings:
 - end_date: '1970-01-23'
@@ -40,4 +41,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-03-07'
 ---
+The touch of you
+(Baby, baby, the touch of you)
+Is drivin' me out of my head, oh boy
+(Baby, baby, out of my head)
 
+What a touch from a little hand can do
+(Can do)
+Especially coming from you
+Turn my life all around
+I can't seem to settle down
+Oh, baby, hey, hey, hey, hey, hey
+
+The touch of you
+(Baby, baby, the touch of you)
+Is drivin' me out of my head, oh boy
+(Baby, baby, out of my head)
+
+The touch of you
+(Baby, baby, the touch of you)
+Is drivin' me out of my head, oh boy
+(Baby, baby, out of my head)
+
+I'm hooked on you and I can't help myself
+(Can't help myself)
+There's just no time for anything else
+(Anything else)
+
+You're all I want and all I need
+I will follow if you will lead
+Oh, baby, hey, hey, hey, hey, hey
+
+(Baby, baby, the touch of you)
+Is drivin' me out of my head, oh boy
+(Baby, baby, out of my head)
+
+Baby, baby, baby, the touch of you
+(Baby, baby, the touch of you)
+Is drivin' me out of my head, oh boy
+(Baby, baby, out of my head)
+
+Baby, baby, baby

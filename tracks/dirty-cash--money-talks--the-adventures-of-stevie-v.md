@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dirty-cash--money-talks--the-adventures-of-stevie-v
+lyrics_url: https://genius.com/Adventures-of-stevie-v-dirty-cash-todd-terry-radio-mix-lyrics
 name: Dirty Cash (Money Talks)
 rankings:
 - end_date: '1990-07-27'
@@ -83,4 +84,100 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-11-24'
 ---
+Mmm, hmm, hmm, hmm, hmm, hmm
 
+Want you, money
+
+I've no excuse, I just want you to use me
+
+Take me and abuse me
+
+I got no taboos, I'll make a trade with you
+
+Do anything you want me to
+
+Money talks, mmm, mmm, money talks
+
+Dirty cash I want you, dirty cash I need you, ooh
+
+Money talks, money talks
+
+Dirty cash I want you, dirty cash I need you, ooh
+
+(Dirty cash, dirty cash)
+
+I once had pride, now that's all behind
+
+I want to get rich quick
+
+I want success and all that goes with it
+
+And I'm gonna use my sex
+
+Money talks, mmm, mmm, money talks
+
+Dirty cash I want you, dirty cash I need you, ooh
+
+Money talks, money talks
+
+Dirty cash I want you, dirty cash I need you, ooh
+
+I want you, money
+
+I'm dirty cash, the one that you asked for
+
+I'm wanted by the rich and the poor
+
+More and more, you just can't reject it
+
+You're the junkie and I inject it
+
+Into your blood stream, it's like a bad dream
+
+Money's the theme, do you know what I mean?
+
+(I'm dirty cash)
+
+People are lying in the street
+
+Trying to find somebody to meet
+
+Who'll get them to the top and get them there fast
+
+Trying to get that dirty cash
+
+It doesn't matter, woman or man
+
+Anyone who'll give them a hand
+
+Cash money, that green
+
+Cold cash, that's the scene
+
+Mmm, want you, money
+
+I've no excuse, I just want you to use me
+
+Take me and abuse me
+
+I got no taboos, I'll make a trade with you
+
+Do anything you want me to
+
+Money talks, mmm, mmm, money talks
+
+Dirty cash I want you, dirty cash I need you, ooh
+
+Money talks, money talks
+
+Dirty cash I want you, dirty cash I need you, ooh
+
+(Dirty cash, dirty cash)
+
+Money talks, mmm, mmm, money talks
+
+Dirty cash I want you, dirty cash I need you, ooh
+
+Money talks, money talks
+
+Dirty cash I want you, dirty cash I need you, ooh

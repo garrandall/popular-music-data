@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: deeper-shade-of-soul-urban-dance-squad
+lyrics_url: https://genius.com/Urban-dance-squad-deeper-shade-of-soul-lyrics
 name: Deeper Shade Of Soul
 rankings:
 - end_date: '1990-12-21'
@@ -79,4 +80,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-04-13'
 ---
+Mellow...that's my style
 
+Surprise, surprise! So you rub your eyes
+Never knew UDS, so cool as ice?
+Hear the vibes man, they'll stupefy
+Ducks categorize us as hardcriers
+That's a lie, we know why we're occupiers
+No blurs, but obscure styles, these are higher
+Profiles are low - as soon as we go
+As a breeze straight from a deeper shade of soul
+
+(Chorus)
+A deeper shade of soul, yeah
+A deeper shade of soul
+A deeper shade of soul, yeah
+A deeper shade of soul
+
+Five souls play the head role
+Excite the middle between the two poles
+The globe rotates from new to old
+UDS take both to reach the souls
+Narrow mind clydes (suckers!), still holding a pose
+What we pour 'n flow when we come close
+To the contrary, they pinch their earlobes
+They call it rogue-rock, but it's a deeper shade of soul
+
+(Chorus)
+
+We blend everythin', with the color of skin
+Under the skin, we're in like Flynn
+Ducks stare at us, as soon as we begin
+To innovate the frame of thought they're in
+Again, music's got to do with only feeling
+It's not where you're from, it's 'can' they yield in
+The stuff that we rock and what we're giving
+A piece of the mind connects with rhythm
+
+(Chorus)

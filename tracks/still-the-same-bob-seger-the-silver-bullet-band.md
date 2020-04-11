@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: still-the-same-bob-seger-the-silver-bullet-band
+lyrics_url: https://www.musixmatch.com/lyrics/Bob-Seger-feat-The-Silver-Bullet-Band/Still-the-Same
 name: Still The Same
 rankings:
 - end_date: '1978-05-19'
@@ -80,4 +81,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-09-09'
 ---
+You always won every time you placed a bet
+You're still damn good no one's gotten to you yet
+Every time they were sure they had you caught
+You were quicker than they thought
+You'd just turn your back and walk
 
+You always said the cards would never do you wrong
+The trick you said was never play the game too long
+A gambler's share the only risk that you would take
+The only loss you could forsake
+The only bluff you couldn't fake
+
+And you're still the same
+I caught up with you yesterday
+(Still the same)
+(Still the same)
+Moving game to game
+No one standing in your way
+Turning on the charm
+Long enough to get you by
+
+(Still the same)
+(Still the same)
+You're still the same
+
+You still aim high...
+(Still the same)
+(Still the same)
+(Still the same)
+(Still the same)
+There you stood everybody watched you play
+I just turned and walked away
+I had nothing left to say
+'Cause you're still the same
+(Still the same)
+(Baby-baby still the same)
+You're still the same
+(Still the same)
+(Baby-baby still the same)
+Moving game to game
+(Still the same)
+(Baby-baby still the same)
+Some things never change
+(Still the same)
+(Baby-baby still the same)
+Ah you're still the same
+(Still the same)
+(Baby-baby still the same)
+Still the same
+(Still the same)

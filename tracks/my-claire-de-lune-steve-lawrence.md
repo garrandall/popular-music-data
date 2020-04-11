@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-claire-de-lune-steve-lawrence
+lyrics_url: https://www.musixmatch.com/lyrics/Steve-Lawrence/My-Claire-De-Lune
 name: My Claire De Lune
 rankings:
 - end_date: '1961-07-23'
@@ -27,4 +28,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-14'
 ---
+I call her Clair de Lune
+She walks be moonlight
+My Clair de Lune
 
+And when the moon's bright
+I'll see her on some sandy beach
+Or on a hilltop
+Smiling just out of my reach
+
+I reach for Clair de Lune
+As one obsessed might look for the moon
+As one possessed might see
+Something others don't see
+
+I see her face
+And I hear a strange melody
+
+How strange and sweet
+Is the haunting theme
+
+How strange and sweet
+This dream
+
+She's waiting,
+Clair de Lune
+There where the moonlight
+Falls on the dune
+
+I run to meet her
+But like all dreams
+Mine ends too soon
+
+For just as I approach
+My Clair de Lune
+She fades and vanishes
+Just like the moon
+
+And I am left
+With but the lonely tune

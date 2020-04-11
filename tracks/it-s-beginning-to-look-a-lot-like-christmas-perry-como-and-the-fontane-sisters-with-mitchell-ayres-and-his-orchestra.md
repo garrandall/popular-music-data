@@ -1,6 +1,6 @@
 ---
 artists:
-- Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra
+- Perry Como And The Fontane Sisters With Mitchell Ayres
 features: []
 genres: []
 key: it-s-beginning-to-look-a-lot-like-christmas-perry-como-and-the-fontane-sisters-with-mitchell-ayres-and-his-orchestra

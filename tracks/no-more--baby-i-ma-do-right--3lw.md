@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-more--baby-i-ma-do-right--3lw
+lyrics_url: https://genius.com/3lw-no-more-remix-lyrics
 name: No More (Baby I'ma Do Right)
 rankings:
 - end_date: '2000-11-10'
@@ -107,4 +108,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-04-21'
 ---
+Everyday she walk by
+See me on the same block
+Same crew, like she never seen rocks
+Chain watch, rims blue
+Different color boots on, park Yukon
+You predicates ex-cons, rip arms, bettin' chips
+Puff medicine play my gangsta beats
+Tunnel bangers, Flex, Clue tapes bang in the streets
+I'm just a fly, thuggish baller shorty anxious to meet
+Till I die keep wanting to head mink to the feet
+But shorty jail bait, might get me five to life
+Maybe in time you can be Nas's wife
+Place school, study law
+I'mma pay your tuition
+Come on campus, buy you books
+Do your babysitting
+My unusual style make your future unwild
+When you get older I'mma bless you with a child
+See now you was unaware that this thug had affection
+Let me be your angel and I'll be your protection
 
+1 - 
+It's either you will
+Either you won't
+Sometimes you do
+Sometimes you don't
+Sometimes it's yes
+Other times it's no
+But I can't take it no more
+Take your wrong and make it right
+Just say you can make up your mind
+Is it serious or isn't it?
+Cause I can't take it no more
+
+Make 'em clap to this...
+
+Baby, baby you keep
+Putting things before me
+But I was there for you when you had nothing
+So baby, baby
+Basically it's them or me
+Now or never
+Give me all or nothing
+
+Repeat 1
+
+Make 'em clap to this...
+
+Baby, baby
+You keep telling me you're changing
+You promise you will be a better man
+But no soon as you see your peeps
+There you go switching out on me
+And we're back at square one again
+
+
+Don 3, can't get with me
+Y'all just a child-child
+Maybe I can get you with little Sammie and Bow Wow
+Please girls try to understand me now-now
+Like my little sisters I'mma hold you down-down
+Got the whole world in your hands
+Three little woman got these young boys tryna be their man
+Do your thing shorty but if they get disrespectful
+Get on your cell phone call big brother Esco
+Now let's go
+
+
+Cause all this back and forth
+In and out, ups and downs
+Is beginning to wear me out
+See you gotta tell me now
+Tell me now
+Don't wait till the end
+It's either me or your friends
+Yeah, yeah, yeah
+
+
+Remix, Trackmasters, Remix
+Remix, Precision, Remix
+We about to make ya clap to this
+Remix, uh
+
+Repeat 1 till end

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: give-it-up-kc
+lyrics_url: https://genius.com/Kc-and-the-sunshine-band-give-it-up-lyrics
 name: Give It Up
 rankings:
 - end_date: '1983-12-30'
@@ -91,4 +92,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-05-12'
 ---
+Everybody wants you
+Everybody wants your love
+I'd just like to make you mine all night
 
+Na, na, na, na, na, na, na, na, na, na, na
+Baby give it up
+Give it up
+Baby give it up
+Na, na, na, na, na, na, na, na, na, na, na
+Baby give it up
+Give it up
+Baby give it up
+
+Everybody sees you
+Everybody looks and stares
+I'd just like to make you mine all mine
+
+Na, na, na, na, na, na, na, na, na, na, na
+Baby give it up
+Give it up
+Baby give it up
+Na, na, na, na, na, na, na, na, na, na, na
+Baby give it up
+Give it up
+Baby give it up
+Can you give it
+Can you give it
+Give it up
+
+Na, na, na, na, na, na, na, na, na, na, na
+Baby give it up
+Give it up
+Baby give it up
+Na, na, na, na, na, na, na, na, na, na, na
+Baby give it up
+Give it up
+Baby give it up
+
+Everybody wants you
+Everybody wants your love
+I'd just like to make you mine all night
+
+Na, na, na, na, na, na, na, na, na, na, na
+Baby give it up
+Give it up
+Baby give it up
+Na, na, na, na, na, na, na, na, na, na, na
+Baby give it up
+Give it up
+Baby give it up
+
+Come on baby I need your love
+Do you know I want it baby
+Come on baby I want your love
+Give it up, some of your love
+Come on and play the game of love

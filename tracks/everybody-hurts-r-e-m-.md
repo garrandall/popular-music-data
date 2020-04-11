@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-hurts-r-e-m-
+lyrics_url: https://genius.com/Rem-everybody-hurts-lyrics
 name: Everybody Hurts
 rankings:
 - end_date: '1993-09-17'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-01-22'
 ---
+When the day is long
+And the night, the night is yours alone
+When you're sure you've had enough
+Of this life, well, hang on
 
+
+Don't let yourself go
+'Cause everybody cries
+And everybody hurts
+Sometimes
+
+
+Sometimes everything is wrong
+Now it's time to sing along
+When your day is night alone (Hold on, hold on)
+If you feel like letting go (Hold on)
+If you think you've had too much
+Of this life, well, hang on
+
+
+'Cause everybody hurts
+Take comfort in your friends
+And everybody hurts
+
+
+Don't throw your hand
+Oh, no
+Don't throw your hand
+If you feel like you're alone
+No, no, no, you're not alone
+
+
+If you're on your own in this life
+The days and nights are long
+When you think you've had too much
+Of this life to hang on
+
+
+Well, everybody hurts
+Sometimes, everybody cries
+And everybody hurts
+Sometimes
+And everybody hurts
+Sometimes
+
+
+So, hold on, hold on
+Hold on, hold on
+Hold on, hold on
+Hold on, hold on
+Everybody hurts
+No, no, no, no, no, you're not alone

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nobody-love-tori-kelly
+lyrics_url: https://genius.com/Tori-kelly-nobody-love-lyrics
 name: Nobody Love
 rankings:
 - end_date: '2015-03-20'
@@ -51,4 +52,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-05-23'
 ---
+(Okay, okay)
+(Why, why)
+(Okay, okay)
 
+
+Everybody's looking for that something (Okay, okay)
+No one ever wants to pay the price (Okay, okay)
+Everyone is scared of going nowhere (Okay, okay)
+But we ain't going anywhere tonight (Okay, okay)
+
+
+I should be more cynical and tell myself that’s not okay
+(To feel this good when I'm with you)
+I try my best to fight it, say "I hate you", but I always stay
+Woah, oh, oh, cause
+
+
+Ain't nobody love, ain't nobody love like you do
+Ain't nobody love, ain't nobody love like you do
+Ain't nobody love, ain't nobody love like you do
+Ain't nobody love, ain't nobody love like you do
+
+
+Everybody's talking bout the next thing
+Feel like what they got ain't good enough (oh, oh yeah)
+But all I wanna do is release the tension (all right, all right)
+Bring the conversation back to us (oh yeah)
+
+
+I should be more cynical and tell myself that’s not okay
+(To feel this good when I'm with you)
+I try my best to fight it, say "I hate you", but I always stay
+Woah, oh, oh, cause
+
+
+Ain't nobody love, ain't nobody love like you do
+Ain't nobody love, ain't nobody love like you do
+Ain't nobody love, ain't nobody love like you do
+Ain't nobody love, ain't nobody love like you do
+
+
+Can we stop all the yelling baby, hear me out
+I want you here and now
+I try my best to fight it, say I hate you but I always stay
+Hey, hey, hey-ey! Oh yeah!
+Yeah, all right, everybody’s looking for that new thang
+Oh oh oh, oh oh oh
+Ain't nobody, nobody, nobody love
+
+Ain't nobody love, ain't nobody love like you do
+Ain't nobody love, ain't nobody love like you do
+Ain't nobody love, ain't nobody love like you do
+Ain't nobody love, ain't nobody love like you do
+
+Ain't nobody love, ain’t nobody love like you do
+Ain't nobody love, ain’t nobody love like you do

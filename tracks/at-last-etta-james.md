@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: at-last-etta-james
+lyrics_url: https://genius.com/Etta-james-at-last-lyrics
 name: At Last
 rankings:
 - end_date: '1961-01-22'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
 ---
+I was never spellbound by a starry sky
+What is there to moon glow, when love has passed you by
+Then there came a midnight and the world was new
+Now here am I so spellbound, darling
+Not by stars, but just by you
 
+At last my love has come along
+My lonely days are over and life is like a song
+At last the skies above are blue
+My heart was wrapped in clover the night I looked at you
+I found a dream that I can speak to
+A dream that I can call my own
+I found a thrill to press my cheek to
+A thrill I've never known
+You smiled and then the spell was cast
+And here we are in Heaven
+For you are mine at last
+
+At last my love has come along
+My lonely days are over and life is like a song
+At last the skies above are blue
+My heart was wrapped in clover the night I looked at you
+I found a dream that I can speak to
+A dream that I can call my own
+I found a thrill to press my cheek to
+A thrill I've never known
+You smiled and then the spell was cast
+And here we are in Heaven

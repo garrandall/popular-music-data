@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-good-news-week-hedgehoppers-anonymous
+lyrics_url: https://genius.com/Hedgehoppers-anonymous-its-good-news-week-lyrics
 name: It's Good News Week
 rankings:
 - end_date: '1965-12-10'
@@ -47,4 +48,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
 ---
+It's good news week
+Someone's dropped a bomb somewhere
+Contaminating atmosphere
+And blackening the sky
 
+It's good news week
+Someone's found a way to give
+The rotting dead a will to live
+Go on and never die
+
+Have you heard the news
+What did it say?
+Who's won that race?
+What's the weather like today?
+
+It's good news week
+Families shake the need for gold
+By stimulating birth control
+We're wanting less to eat
+
+It's good news week
+Doctors finding many ways
+Of wrapping brains on metal trays
+To keep us from the heat
+
+It's good news week
+Someone's dropped a bomb somewhere
+Contaminating atmosphere
+And blackening the sky
+
+It's good news week
+Someone's found a way to give
+The rotting dead a will to live
+Go on and never die
+
+Have you heard the news
+What did it say?
+Who's won that race?
+What's the weather like today?
+What's the weather like today?
+
+It's good news week
+Families shake the need for gold
+By stimulating birth control
+We're wanting less to eat
+
+It's good news week
+Doctors finding many ways
+Of wrapping brains on metal trays
+To keep us from the heat
+To keep us from the heat
+To keep us from the heat

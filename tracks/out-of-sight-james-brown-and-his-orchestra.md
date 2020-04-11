@@ -1,6 +1,6 @@
 ---
 artists:
-- James Brown And His Orchestra
+- James Brown
 features: []
 genres: []
 key: out-of-sight-james-brown-and-his-orchestra

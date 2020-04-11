@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-dreams-roy-orbison
+lyrics_url: https://genius.com/Roy-orbison-in-dreams-lyrics
 name: In Dreams
 rankings:
 - end_date: '1963-02-15'
@@ -59,4 +60,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-05-04'
 ---
+A candy-colored clown they call the sandman
+Tiptoes to my room every night
+Just to sprinkle stardust and to whisper
+"Go to sleep. Everything is all right."
 
+I close my eyes, then I drift away
+Into the magic night, I softly say
+A silent prayer like dreamers do
+Then I fall asleep to dreams, my dreams of you
+
+In dreams I walk with you, in dreams I talk to you
+In dreams you're mine, all of the time
+We're together in dreams, in dreams
+
+But just before the dawn, I awake and find you gone
+I can't help it, I can't help it, if I cry
+I remember that you said goodbye
+
+It's too bad that all these things
+Can only happen in my dreams
+Only in dreams, in beautiful dreams

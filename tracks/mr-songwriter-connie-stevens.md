@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mr-songwriter-connie-stevens
+lyrics_url: https://genius.com/Connie-stevens-mr-songwriter-lyrics
 name: Mr Songwriter
 rankings:
 - end_date: '1962-08-10'
@@ -39,4 +40,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-22'
 ---
-
+I don't know any poetry
+How can I show
+What he means to me

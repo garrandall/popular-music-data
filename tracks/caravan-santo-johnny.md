@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: caravan-santo-johnny
+lyrics_url: https://genius.com/Santo-and-johnny-caravan-lyrics
 name: Caravan
 rankings:
 - end_date: '1960-03-20'
@@ -40,4 +41,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-02'
 ---
-
+(Instrumental)

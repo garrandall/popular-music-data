@@ -1,10 +1,10 @@
 ---
 artists:
-- Simon
-- Garfunkel
+- Simon & Garfunkel
 features: []
 genres: []
 key: a-hazy-shade-of-winter-simon-garfunkel
+lyrics_url: https://www.musixmatch.com/lyrics/Simon-Garfunkel/A-Hazy-Shade-of-Winter
 name: A Hazy Shade Of Winter
 rankings:
 - end_date: '1966-11-11'
@@ -44,4 +44,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-31'
 ---
+Time, time, time, see what's become of me
+While I looked around for my possibilities
+I was so hard to please
 
+But look around, the leaves are brown
+And the sky is a hazy shade of winter
+
+Hear the Salvation Army band
+Down by the riverside, it's bound to be a better ride
+Than what you've got planned
+Carry your cup in your hand
+
+And look around you, leaves are brown now
+And the sky is a hazy shade of winter
+
+Hang on to your hopes, my friend
+That's an easy thing to say, but if your hopes should pass away
+Simply pretend that you can build them again
+
+Look around, the grass is high
+The fields are ripe
+It's the springtime of my life
+
+Ah, seasons change with the scenery
+Weaving time in a tapestry
+Won't you stop and remember me
+At any convenient time?
+Funny how my memory skips
+While looking over manuscripts of unpublished rhyme
+Drinking my vodka and lime
+
+I look around, leaves are brown now
+And the sky is a hazy shade of winter
+
+Look around, leaves are brown
+There's a patch of snow on the ground
+Look around, leaves are brown
+There's a patch of snow on the ground
+Look around, leaves are brown
+There's a patch of snow on the ground

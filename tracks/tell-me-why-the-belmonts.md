@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-me-why-the-belmonts
+lyrics_url: https://genius.com/The-belmonts-tell-me-why-lyrics
 name: Tell Me Why
 rankings:
 - end_date: '1961-05-28'
@@ -51,4 +52,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-07-31'
 ---
+Tell me why..
+Though I try to forget
+Tell me why..
+Why I think of you yet..
+I know I'll never be free..
+What has happened to me..
 
+Tell me why..
+When we danced until three
+Tell me why
+Why my heart couldn't see..
+I never dreamed of romance..
+Never gave it a chance..
+
+When I think of how you looked that day..
+In your gown of silk and lace..
+Should have known the day you came my way..
+That this was the time and the place..
+
+Tell me why
+I keep fooling my heart
+When I know
+It was love from the start..
+Why don't we give it a try..
+If you know tell me why..
+
+Tell me why..
+I keep fooling my heart..
+When I know
+It was love from the start..
+Why don't we give it a try..
+If you know tell me why..
+Tell me...Tell me... Why!!

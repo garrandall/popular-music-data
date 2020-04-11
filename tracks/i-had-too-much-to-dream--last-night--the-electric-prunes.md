@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-had-too-much-to-dream--last-night--the-electric-prunes
+lyrics_url: https://genius.com/The-electric-prunes-i-had-too-much-to-dream-last-night-lyrics
 name: I Had Too Much To Dream (Last Night)
 rankings:
 - end_date: '1966-12-16'
@@ -63,4 +64,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
 ---
+Last night your shadow fell upon my lonely room
+I touched your golden hair and tasted your perfume
+Your eyes were filled with love the way they used to be
+Your gentle hand reached out to comfort me
+Then came the dawn
+And you were gone
+You were gone, gone, gone
 
+I had too much to dream last night
+Too much to dream
+I'm not ready to face the light
+I had too much to dream
+Last night
+
+The room was empty as I staggered from my bed
+I could not bear the image racing through my head
+You were so real that I could feel your eagerness
+And when you raised your lips for me to kiss
+
+Came the dawn
+And you were gone
+You were gone, gone, gone
+
+Oh, too much to dream
+Oh, too much to dream
+Too much to dream last night
+Oh, too much to dream

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-a-woman-the-beatles
+lyrics_url: https://genius.com/The-beatles-shes-a-woman-lyrics
 name: She's A Woman
 rankings:
 - end_date: '1964-12-11'
@@ -43,4 +44,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
 ---
+My love don't give me presents
+I know that she's no peasant
+Only ever has to give me
+Love forever and forever
+My love don't give me presents
+Turn me on when I get lonely
+People tell me that she's only
+Fooling, I know she isn't
 
+
+She don't give the boys the eye
+She hates to see me cry
+She is happy just to hear me say
+That I will never leave her
+She don't give boys the eye
+She will never make me jealous
+Gives me all her time as well as
+Loving, don't ask me why
+
+
+She's a woman who understands
+She's a woman who loves her man
+
+
+My love don't give me presents
+I know that she's no peasant
+Only ever has to give me
+Love forever and forever
+My love don't give me presents
+Turn me on when I get lonely
+People tell me that she's only
+Fooling, I know she isn't
+
+
+
+
+She's a woman who understands
+She's a woman who loves her man
+
+
+My love don't give me presents
+I know that she's no peasant
+Only ever has to give me
+Love forever and forever
+My love don't give me presents
+Turn me on when I get lonely
+People tell me that she's only
+Fooling, I know she isn't
+
+
+She's a woman
+She's a woman
+She's a woman
+She's a woman
+She's a woman

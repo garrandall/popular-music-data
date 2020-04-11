@@ -5,6 +5,7 @@ features:
 - Chaka Khan
 genres: []
 key: you-got-the-love-rufus-chaka-khan
+lyrics_url: https://genius.com/Rufus-you-got-the-love-lyrics
 name: You Got The Love
 rankings:
 - end_date: '1974-10-18'
@@ -72,4 +73,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-01-25'
 ---
+Love me right
+What's the matter with you
+Hold me tight
+Why must I tell you what to do
+Smilin' ? smilin'
+Comes as no surprise
+Smile ain't hidin'
+What I see in your eyes
+The story goes much deeper
+Than the eye can ? yes it do
+Stop runnin' a game
+I can tell you're avoiding me
 
+Oh ain't nothin'
+I wouldn't pay
+Just to hear ? hear you say
+I love you I need you
+
+Oh ain't nothin'
+I wouldn't pay
+Just to hear ? hear you say
+I love you I need you
+
+You got the love
+Gimme the strength
+To keep on livin'
+Whatever it is
+I can't do without what cha givin'
+
+Oh ain't nothin'
+I wouldn't pay
+Just to hear, Just to hear you say
+I love you I need you
+
+You got the love
+Gimme the strength
+To keep on livin' yeah
+Whatever it is
+I can't do without
+What cha givin'

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-stop-lovin--you-van-halen
+lyrics_url: https://genius.com/Van-halen-cant-stop-lovin-you-lyrics
 name: Can't Stop Lovin' You
 rankings:
 - end_date: '1995-03-31'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-08-05'
 ---
+There's a time and place for everything, for everyone
+We can push with all our might, but nothing's gonna come
+Oh no, nothing's gonna change
+And if I asked you not to try
+Oh could you let it be
+I wanna hold you and say
+We can't throw this all away
+Tell me you won't go, you won't go
+Do you have to hear me say
 
+
+
+I can't stop lovin' you
+And no matter what you say or do
+You know my heart is true, oh
+I can't stop lovin' you
+
+
+
+You can change your friends, your place in life
+You can change your mind
+We can change the things we say
+And do it anytime
+Oh no, but I think you'll find
+That when you look inside your heart
+Oh baby, I'll be there
+Hold on
+I'm holding on
+Baby, just come on, come on, come on
+I just wanna hear you say
+
+
+
+Oh, I'm twisted and tied
+And all I can remember
+Is how hard we tried
+Only to surrender
+And when it's over
+I know how it's gonna be
+And true love will never die
+No, not fade away
+
+
+
+And I know what I got to do
+Hey Ray, what you said is true
+I can't stop lovin' you, oh
+Oh, I can't stop lovin' you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: zing-went-the-strings-of-my-heart-the-trammps
+lyrics_url: https://genius.com/The-trammps-penguin-at-the-big-apple-zing-went-the-strings-of-my-heart-lyrics
 name: Zing Went The Strings Of My Heart
 rankings:
 - end_date: '1972-07-14'
@@ -51,4 +52,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-16'
 ---
+Ha, look here, mm hmm
+Strings of my heart, baby
+Sing for you
 
+Dear, when you smiled at me (Mm hmm)
+I heard a melody (Yeah)
+It haunted me from the start
+Something inside of me (Mm hmm)
+Started a symphony (Honey)
+Zing! Went the strings of my heart
+
+Whoa, like a breath of spring
+I heard a robin sing, yes I did
+About a nest in the park
+Ooh, baby, everything seemed to be
+In perfect harmony
+Zing! Went the strings of my heart
+Listen to me now
+
+Heh
+Lord, have mercy
+Hit me, fellas
+Heh, it's alright
+Sock it to 'em
+Mm hmm, honey, honey, it's alright, ooh
+It's alright
+
+I still recall that thrill
+I guess I always will
+I hope we'll never ever part (Never ever part, honey)
+Dear, with your lips to mine (Mm hmm)
+A rhapsody divine
+Zing! Went the strings of my heart
+Huh, listen to me now
+
+Ow, it's alright, uh huh, honey
+Every day, baby, baby, baby
+Sing for you, ow!
+It's alright, huh
+Mm hmm, honey
+Let me sing about my baby
+Every day, ow, ow, ow
+It's alright, huh
+Mm hmm, honey
+That's alright, baby
+Oh yeah, oh
+Early in the morning
+Midnight hour, baby
+Sing about my baby
+Every day, oh

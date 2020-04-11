@@ -1,6 +1,6 @@
 ---
 artists:
-- Henry Mancini And His Orchestra
+- Henry Mancini
 features: []
 genres: []
 key: -theme-from--love-story-henry-mancini-and-his-orchestra

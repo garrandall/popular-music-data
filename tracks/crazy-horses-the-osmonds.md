@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crazy-horses-the-osmonds
+lyrics_url: https://genius.com/The-osmonds-crazy-horses-lyrics
 name: Crazy Horses
 rankings:
 - end_date: '1972-10-27'
@@ -55,4 +56,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-06'
 ---
+There's a message floating in the air
+Crazy horses riding everywhere
 
+It's a warning
+It's in every tongue
+Gotta stop them crazy
+Horses on the run
+
+What a show, there they go
+Smoking up the sky, yeah
+Crazy horses all got riders
+And they're you and I
+
+Crazy horses
+Crazy horses
+
+Never stop and they never die
+They just keep on puffin
+How they multiply
+
+Crazy horses
+Will they never halt
+If they keep on moving
+Then it's all our fault
+
+What a show, there they go
+Smoking up the sky, yeah
+Crazy horses all got riders
+And they're you and I
+
+So take a good look around
+See what they've done
+What they've done
+They've done, they've done
+They've done, they've done
+They've done, they've done
+
+Crazy horses
+Crazy horses
+Crazy horses
+Crazy horses.....

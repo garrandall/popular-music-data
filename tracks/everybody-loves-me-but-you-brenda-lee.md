@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-loves-me-but-you-brenda-lee
+lyrics_url: https://genius.com/Brenda-lee-everybody-loves-me-but-you-lyrics
 name: Everybody Loves Me But You
 rankings:
 - end_date: '1962-04-20'
@@ -51,4 +52,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
 ---
+Why did I listen to my friends
+When they told me what to do
+Yes, I still have my friends
+But I don't have you
+And like true friends, they still come around
+And say, "I'm sorry you're blue"
+Oh, everybody loves me but you
 
+My friends don't know what they've done
+Wwell, they wouldn't understand anyhow
+I can't tell them they were wrong
+'Cause I'm afraid they'll leave me, too
+Now it's funny but more than ever
+I need them now
+
+I still ask my friends what to do
+But it seems they don't know
+How to bring
+How to bring you back
+They say, "what made him go?"
+Yes, like true friends, they still come around
+And say, "I'm sorry you're blue"
+Oh, everybody loves me but you

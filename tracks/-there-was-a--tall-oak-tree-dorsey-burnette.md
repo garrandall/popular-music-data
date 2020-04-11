@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -there-was-a--tall-oak-tree-dorsey-burnette
+lyrics_url: https://genius.com/Dorsey-burnette-there-was-a-tall-oak-tree-lyrics
 name: (There Was A) Tall Oak Tree
 rankings:
 - end_date: '1960-02-07'
@@ -67,4 +68,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
 ---
-
+There was a tall oak tree
+That loved a babblin brook
+And the babblin brook
+Loved the mountain high
+And the mountain high
+Loved the sky above
+The Creator looked down
+And saw everything was love, love, love
+No, he took a bone
+And a piece of mud --
+He made a man and a woman
+To be flesh and blood
+And then along came the devil
+Up out of the ground --
+He tempted the woman
+And that spread sin all round, all round, all round
+Now, if she?d left that apple
+On that apple tree
+There?d be no tears or sorrow
+We?d live eternally
+And then along came Man
+And chopped the oak tree down
+And now the babblin brook
+Is solid ground
+And now the mountain high
+Don't stand so high
+And there's a cloud of smoke
+That covers up the clear blue sky
+There was a tall oak tree
+There was a tall oak tree
+There was a tall oak tree

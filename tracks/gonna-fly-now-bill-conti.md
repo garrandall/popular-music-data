@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gonna-fly-now-bill-conti
+lyrics_url: https://genius.com/Bill-conti-gonna-fly-now-lyrics
 name: Gonna Fly Now
 rankings:
 - end_date: '1977-04-29'
@@ -87,4 +88,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-09-03'
 ---
+Trying hard now
+It's so hard now
+Trying hard now
 
+Getting strong now
+Won't be long now
+Getting strong now
+
+Gonna fly now
+Flying high now
+Gonna fly, fly, fly

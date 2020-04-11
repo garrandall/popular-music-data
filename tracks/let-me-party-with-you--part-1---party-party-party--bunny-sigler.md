@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-party-with-you--part-1---party-party-party--bunny-sigler
+lyrics_url: https://genius.com/Bunny-sigler-let-me-party-with-you-lyrics
 name: Let Me Party With You (Part 1) (Party Party Party)
 rankings:
 - end_date: '1978-03-03'
@@ -51,4 +52,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-06'
 ---
-
+Party, party
+Let's party
+Ooh, Lord now, party
+Party, party, party
+Let me party with you
+Ooh, baby
+Party, party, party
+Let me party with you
+Come on
+Party, party, party
+Let me party with you
+Party, party, party
+Let me party with you
+I know I didn't come here rich
+But I sure love trying to get through
+Hey, little girl
+Lay your love on me
+I know what I'm trying to do
+I'm trying to get it on with you
+Ooh wee, baby, I'd like
+To sweet confession with you
+Come, on baby
+Just party, party, party
+Let me party with you
+You can do it
+Party, party, party
+Let me party with you
+Lay it on, my baby
+Party, party, party
+Let me party with you
+Party, party, party
+Let me party with you
+Ooh, ooh.....

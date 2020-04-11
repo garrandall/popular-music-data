@@ -1,9 +1,11 @@
 ---
 artists:
-- Roberta Flack With Donny Hathaway
-features: []
+- Roberta Flack
+features:
+- Donny Hathaway
 genres: []
 key: you-are-my-heaven-roberta-flack-with-donny-hathaway
+lyrics_url: https://genius.com/Roberta-flack-you-are-my-heaven-lyrics
 name: You Are My Heaven
 rankings:
 - end_date: '1980-02-22'
@@ -51,4 +53,93 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-04-26'
 ---
+An angel whispered to me when I woke this morning
+That I would find heaven by my side
+And there you were you angel, heaven in the morning
+Laying in my arms and in my life
 
+And I reached this decision, I love you, my religion
+That is in my soul and in my heart
+No one could ever change my mind, oh, no
+'Cause I got you here right by my side
+
+You are my love
+(You are my love)
+You are my heaven
+You are my love
+Make me sing la di da
+
+You are my love
+(You are my love)
+You are my heaven
+Darling, I, oh
+I won't let them take you away
+(Won't let them take you away, take you, baby)
+
+If angels whispered to you early every morning
+It's really something wonderful and rare
+I get up in the morning feeling that forever
+I have all your love and all your care
+
+If someone tries to tell that I do not love you
+Tell them they must be out of their mind
+I ain't gonna let them change my mind, oh, no
+'Cause I got you here right by my side
+
+You are my love
+(You are my love)
+You are my heaven
+You are my love
+(You are my love)
+Make me sing la di da
+
+You are my love
+(You are my love)
+You are my heaven
+Darling, I, oh
+I won't let them take
+
+Darling, I, oh
+I won't let them take
+Darling, I, oh
+I won't let them take you away
+(Won't let them take, take you, baby)
+
+You are my love
+(You are my love)
+You are my heaven
+You are my love
+(You are my love)
+Make me sing la di da
+
+You are my love
+(You are my love)
+You are my heaven
+Darling, I, oh
+I won't let them take you away
+(Won't let them take)
+
+You are my love
+(You are my love)
+You are my heaven
+You are my love
+(You are my love)
+Make me sing la di da
+
+You are my love
+(You are my love)
+You are my heaven
+Darling, I, oh
+I won't let them take you away
+I won't let them take you
+
+You are my love
+(You are my love)
+You are my heaven
+You are my love
+(You are my love)
+Make me sing la di da
+
+You are my love
+(You are my love)
+You are my heaven, oh

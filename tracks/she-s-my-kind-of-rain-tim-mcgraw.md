@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-my-kind-of-rain-tim-mcgraw
+lyrics_url: https://genius.com/Tim-mcgraw-shes-my-kind-of-rain-lyrics
 name: She's My Kind Of Rain
 rankings:
 - end_date: '2003-03-07'
@@ -87,4 +88,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-07-12'
 ---
+She's my kind of rain
+Like love in a drunken sky
+She's confetti falling
+Down all night
 
+
+She sits quietly there
+Black water in a jar
+Says, Baby why are you
+Trembling like you are
+
+
+So I wait
+And I try
+I confess like a child
+
+
+She's my kind of rain
+Like love from a drunken sky
+Confetti falling
+Down all night
+She's my kind of rain
+
+
+She's the sun set shadows
+She's like Rembrandt's light
+She's the history that's made at night
+She's my lost companion
+She's my dreaming tree
+Together in this brief eternity
+Summer days, winter snows
+She's all things to behold
+
+
+She's my kind of rain
+Like love from a drunken sky
+Confetti falling
+Down all night
+She's my kind of rain
+
+
+So I wait
+And I try
+I confess all my crimes
+
+
+She's my kind of rain
+Like love from a drunken sky
+Confetti falling
+Down all night
+She's my kind of rain
+She's my kind of rain
+Like love from a drunken sky
+Confetti falling
+Down all night
+She's my kind of rain
+
+
+She's my kind of rain
+Oh, rain on me
+She's my kind of rain

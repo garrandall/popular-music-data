@@ -6,6 +6,7 @@ features:
 - Alice Bowie
 genres: []
 key: earache-my-eye-cheech-chong-alice-bowie
+lyrics_url: https://genius.com/Cheech-and-chong-earache-my-eye-feat-alice-bowie-lyrics
 name: Earache My Eye
 rankings:
 - end_date: '1974-08-16'
@@ -61,4 +62,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-02'
 ---
+My mamma talk'in to me, try'in to tell me how to live
+But I don't listen to her cause my head is like a sieve
 
+My daddy, he disowned me cause I wear my sister's clothes
+He caught me in the bathroom in a pair of pantyhose
+
+My basketball coach, he done kicked me off the team
+For wearing high heeled sneakers and acting like a queen
+
+Gonna tie my pecker to a tree, to a tree!
+Gonna tie my pecker to a tree (Gonna tie his pecker to a tree)
+
+The world's comin to an end, I don't even care!
+As long as I can have a limo and my orange hair
+
+And it don't bother me if people think I'm funny
+Cause I'm a big rock star and I'm making lots of money
+Money, Money Money, Money! MONEY!! MONEY!!! AHHHhhhhhh-
+Hahahaha........
+
+I'm so bloody rich! Haha Haha ha ha........
+I own apartment buildings and shopping centers! Ahh Haha ha.....
+I only know three chords, Hahaha ha ha.......
+Watch me burn.....You fools!!!! Hahahahaha!!!!! !  !  !

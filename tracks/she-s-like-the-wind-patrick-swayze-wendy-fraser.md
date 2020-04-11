@@ -5,6 +5,7 @@ features:
 - Wendy Fraser
 genres: []
 key: she-s-like-the-wind-patrick-swayze-wendy-fraser
+lyrics_url: https://genius.com/Patrick-swayze-shes-like-the-wind-lyrics
 name: She's Like The Wind
 rankings:
 - end_date: '1987-12-25'
@@ -92,4 +93,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-05-07'
 ---
+She's like the wind
+Through my tree
+She rides the night next to me
+She leads me through moonlight
+Only to burn me with the sun
+She's taken my heart
+But she doesn't know what she's done
 
+
+Feel her breath in my face
+Her body close to me
+Can't look in her eyes
+She's out of my league
+
+
+Just a fool to believe
+I have anything she needs
+She's like the wind
+
+
+I look in the mirror
+And all I see
+Is a young old man with only a dream
+Am I just fooling myself
+That she'll stop the pain?
+Living without her
+I'd go insane
+
+
+I feel her breath in my face
+Her body close to me
+Can't look in her eyes
+She's out of my league
+
+
+Just a fool to believe
+I have anything she needs
+She's like the wind
+
+
+I feel your breath in my face
+Your body close to me
+Can't look in your eyes
+You're out of my league
+
+
+Just a fool to believe (Just a fool to believe)
+She's like the wind
+(Just a fool to believe) Just a fool to believe
+(She's like the wind)
+Just a fool to believe (Just a fool to believe)
+She's like the wind
+(Just a fool to believe) Just a fool to believe
+She's like the wind
+
+
+(Just a fool, she's like the wind)
+(She's like the wind)
+(Just a fool, she's like the wind)
+(Just a fool)

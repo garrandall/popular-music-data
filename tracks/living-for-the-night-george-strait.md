@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: living-for-the-night-george-strait
+lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/livingforthenight.html
 name: Living For The Night
 rankings:
 - end_date: '2009-07-03'
@@ -75,4 +76,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-10-17'
 ---
+Everyday is a lifetime without you
+Hard to get through, since you’ve gone
+So I do the only thing I know how to , to get back
+I’m living for the night
 
+I’ve drawn all the curtains in this old house
+To keep the sun out, off of my face
+Friends stop by to check - in ‘cause I’ve checked out
+I tell them I’m fine, I’m just living for the night
+
+I can’t hide the tears I cry, the pain that came with your goodbye
+The memories that keep me out of sight
+Every night I venture out, into those neon arms that hold me tight
+I’m living for the night
+
+I’m a whole lot easier to talk to, when I’ve had a few, settled down
+Whiskey kills the man you’ve turned me into
+And I come alive
+I’m living for the night
+
+I can’t hide the tears I cry, the pain that came with your goodbye
+The memories that keep me out of sight
+Every night I venture out, into those neon arms that hold me tight
+I’m living for the night
+I’m living for the night
+
+Everyday is a lifetime without you

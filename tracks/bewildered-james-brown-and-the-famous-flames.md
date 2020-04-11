@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bewildered-james-brown-and-the-famous-flames
+lyrics_url: https://genius.com/James-brown-and-the-famous-flames-bewildered-lyrics
 name: Bewildered
 rankings:
 - end_date: '1961-03-05'
@@ -39,4 +40,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
 ---
-
+Bewildered, lost in a dream
+In the love I need why did we part
+Bewildered, has love, has love died dear
+Wishing your heart could feel
+What's in my heart
+Must i have sleepless night
+And endless days
+Oh love why did you keep my soul
+Without a spark I'm in the dark
+Bewildered
+I need your, i need your i need your guiding hand
+I'll never, no I'll never understand
+How you can love me, how you can love me
+How you can love me, how you can love me
+How you can love me and leave me bewildered, bewildered

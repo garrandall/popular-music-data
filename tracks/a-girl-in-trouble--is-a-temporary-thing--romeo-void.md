@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-girl-in-trouble--is-a-temporary-thing--romeo-void
+lyrics_url: https://genius.com/Romeo-void-a-girl-in-trouble-is-a-temporary-thing-lyrics
 name: A Girl In Trouble (Is A Temporary Thing)
 rankings:
 - end_date: '1984-09-07'
@@ -59,4 +60,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-11-24'
 ---
+She's got a face that shows that she knows
+She's heard every line
+Tenderly she talks on the phone
+There's a way to walk
+That says "Stay away"
+And a time to go around the long way
 
+A girl in trouble is a temporary thing
+(Temporary, temporary, temporary, temporary)
+A girl in trouble is a temporary thing
+(Temporary, temporary, temporary, temporary)
+
+There's a time when every girl learns
+To use her head
+Tears will be saved
+'Til they're better spent
+There's no time for her to be afraid
+So instead she takes care of business
+Keeps a cool head
+
+A girl in trouble is a temporary thing
+(Temporary, temporary, temporary, temporary)
+A girl in trouble is a temporary thing
+(Temporary, temporary, temporary, temporary)
+
+She's got a face that shows that she knows
+She's heard every line
+Tenderly she talks on the phone
+There's a way to walk
+That says "Stay away"
+And a time to go around the long way
+
+A girl in trouble is a temporary thing
+(Temporary, temporary, temporary, temporary)
+A girl in trouble is a temporary thing
+(Temporary, temporary, temporary, temporary)
+A girl in trouble is a temporary thing

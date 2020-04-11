@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shakedown-cruise-jay-ferguson
+lyrics_url: https://www.musixmatch.com/lyrics/Jay-Ferguson/Shakedown-Cruise
 name: Shakedown Cruise
 rankings:
 - end_date: '1979-05-11'
@@ -63,4 +64,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-08-04'
 ---
+It was thirty days around the horn
+The captain says it's a thirty-five more
+The moon looks mean and the crew ain't staying
+There's gonna be some blood
+Is what they're all saying
 
+It's a shakedown cruise
+And I was just another tool
+There ain't no easy way out
+They're gonna shake you 'til you shout
+
+They treat you like a dog
+But you're only human
+You miss your home Lord,
+You miss that woman
+The captain laughs, he says,
+"You boys want some sex?"
+You can squeeze the sails,
+You can lick the decks"
+
+It was a shakedown cruise
+I guess I just was born to lose
+They tell you life is going cheap
+I got myself in pretty deep
+
+Starlight lost in the night
+Drift away and it feels all right
+Starlight alone in the night
+Drift away and it feels all right
+I guess it feels all right
+
+The fever's hot,
+The winds are blowin' cold
+The captain's crazy eye puts the fear in your soul
+I heard somebody cryin'
+"Lord let this end
+You know I'll never go to sea again"
+
+It was a shakedown cruise
+And now we're sendin' out the news
+There ain't no victory at sea
+Unless it's mutiny
+
+Now if I don't get off alive
+It's just as well
+I'll be waking up in heaven
+'Cause I've been through hell
+On this shakedown cruise
+
+They call it a shakedown cruise
+Shakedown, shakedown cruise
+Shakedown, shake it up and move
+Shakedown, shakin' in my shoes

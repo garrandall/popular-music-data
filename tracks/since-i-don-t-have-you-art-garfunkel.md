@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: since-i-don-t-have-you-art-garfunkel
+lyrics_url: https://genius.com/Art-garfunkel-since-i-dont-have-you-lyrics
 name: Since I Don't Have You
 rankings:
 - end_date: '1979-06-15'
@@ -39,4 +40,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-07-28'
 ---
+I don't have plans and schemes
+And I don't have hopes and dreams
+I don't have anything
+Since I don't have you
 
+I don't have fond desires
+And I don't have happy hours
+I don't have anything
+Since I don't have you
+
+I don't have happiness, and I guess
+I never will ever again
+When you walked out on me, in walked ol' misery
+And he's been here since then
+
+I don't have love to share
+And I don't have one who cares
+I don't have anything
+Since I don't have you
+
+I don't have love to share
+And I don't have one who cares
+I don't have anything
+Since I don't have you...you...you...you…

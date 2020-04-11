@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-it-neil-diamond
+lyrics_url: https://genius.com/Neil-diamond-do-it-lyrics
 name: Do It
 rankings:
 - end_date: '1970-11-13'
@@ -47,4 +48,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-09'
 ---
+Do it, while your soul's still burnin'
+Don't hide the yearnin' away
+Say what you want to say
+'Cause if you let her go
+You'll always know you blew it
+Go to it and do it
+Yeah
+Do it, yeah
 
+Tell her, just how much you love her
+And that no other
+Could do what she does to you
+'Cause if you take your time
+You're gonna find you blew it
+Go thru it and do it
+Yeah, do it
+Yeah, do it
+
+
+
+'Cause if you take your time
+You're gonna find you blew it
+Go thru it and do it
+Yeah, do it
+Do it, go and do it

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-u-were-mine-the-u-krew
+lyrics_url: https://www.musixmatch.com/lyrics/The-U-Krew/If-U-Were-Mine
 name: If U Were Mine
 rankings:
 - end_date: '1990-02-02'
@@ -95,4 +96,103 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-06-23'
 ---
+If you were mine
+I'd take you on a
+Trip around the world
+If you were mine
+I'd buy you diamonds and pearls
 
+If you were mine
+I'd so be so tender
+Sweet and kind
+If you were mine
+I'd make love to you all night
+Only if you were mine
+
+Hey, girl, listen up
+Cause you know it's true
+There's no one more qualified
+For me than you
+
+If you were mine
+You know things would
+Be kinda right
+I don't beg, girl
+But for you, I just might
+
+Get down upon my knees
+And beg and plead
+To make you realize
+It's you that I need
+
+You're the main reason
+I dress to impress
+And hope so maybe one day
+I will end all this lonlieness
+
+You're on my mind
+You're what I think about most
+I dream of nights of us alone
+Girl, I'm holding you close
+
+I will be yours forever
+If you're forever mine
+Girl, it's just a matter of time
+
+If you were mine
+If you were mine
+If you were mine
+If you were mine
+
+You know, if you were my girl
+I would be so true
+I would live just to give
+All my love to you
+
+You've been mistreated
+By all those guys
+Didn't understand
+Or even realize
+
+That a lady needs love
+Tenderness and care
+Someone they can call
+And who will always be there
+
+To pick em up when they're done
+Make em happy when they're blue
+If you were my girl
+That's what I'd do
+
+I'd take you out, do you right
+Buy you things you like
+I'd try not to fuss
+And try not to fight
+
+And if things got bad
+And push come to shove
+I'd still be dedicated
+To the girl that I love
+
+If you were mine
+If you were mine
+If you were mine
+If you were mine
+
+Girl, don't waste my time
+Cause my love is genuine
+I've got to make you mine
+Yo, Marlon, get busy one time
+
+If you were mine
+I'd take you on a
+Trip around the world
+If you were mine
+I'd buy you diamonds and pearls
+
+If you were mine
+I'd so be so tender
+Sweet and kind
+If you were mine, I'd make
+Love to you all the time
+Only if you were mine

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pony-ginuwine
+lyrics_url: https://genius.com/Ginuwine-pony-lyrics
 name: Pony
 rankings:
 - end_date: '1996-09-13'
@@ -115,4 +116,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-03-08'
 ---
+I'm just a bachelor
+I'm looking for a partner
+Someone who knows how to ride
+Without even falling off
+Gotta be compatible takes me to my limits
+Girl when I break you off
+I promise that you won't wanna get off
 
+
+If you're horny, let's do it, ride it, my pony
+My saddle's waitin', come and jump on it
+If you're horny, let's do it, ride it, my pony
+My saddle's waitin', come and jump on it
+
+
+Sitting here flossing
+Peeping your steelo
+Just once if I have the chance
+The things I would do to you
+You and your body, every single portion
+Send chills up and down your spine
+Juices flowing down your thigh
+
+
+If you're horny, let's do it, ride it, my pony
+My saddle's waitin', come and jump on it
+If you're horny, let's do it, ride it, my pony
+My saddle's waitin', come and jump on it
+
+
+If we're gonna get nasty baby
+First we'll show and tell
+Till I reach your pony tail
+Lurk all over and through you baby
+Until we reach the stream
+You'll be on my jockey team
+
+
+If you're horny, let's do it, ride it, my pony
+My saddle's waitin', come and jump on it
+If you're horny, let's do it, ride it, my pony
+My saddle's waitin', come and jump on it
+If you're horny, let's do it, ride it, my pony
+My saddle's waitin', come and jump on it
+If you're horny, let's do it, ride it, my pony
+My saddle's waitin', come and jump on it
+If you're horny, let's do it, ride it, my pony
+My saddle's waitin', come and jump on it
+Ride it
+My saddle

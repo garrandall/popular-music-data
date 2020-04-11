@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: quarter-to-three-u-s--bonds
+lyrics_url: https://genius.com/Gary-us-bonds-quarter-to-three-lyrics
 name: Quarter To Three
 rankings:
 - end_date: '1961-05-28'
@@ -67,4 +68,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-28'
 ---
-
+Don't you know that I danced, I danced till a quarter to three
+With the help, last night, of Daddy G
+He was swingin on the sax like a nobody could
+And I was dancin' all over the room
+Oh, don't you know the people were dancin' like they were mad
+It was the swingin'est band they had, ever had
+It was the swingin'est song that could ever be
+It was a night with Daddy G
+Let me tell you now
+I never had it so good
+Yeah and I know you never could
+Until you get hip with that jive
+And take a band like the Church Street Five
+Oh don't you know that I danced
+I danced till a quarter to three
+With the help last night of Daddy G
+Everybody was as happy as they could be
+And they were swingin with Daddy G
+Blow Daddy!
+Let me tell you now
+I never had it so good
+Yeah and I know you never could
+Until you get hip with that jive
+And take a band like the Church Street Five
+Oh don't you know that I danced
+I danced till a quarter to three
+With the help last night of Daddy G
+He was swingin on the sax like a nobody could
+And I was dancin all over the room
+Oh don't you know the
+Dance, do bee wa dah
+Dance, do bee wah dah
+You can dance, do bee wah dah
+You can dance, dance, dance

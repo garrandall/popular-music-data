@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: souvenirs-voyage
+lyrics_url: https://genius.com/Voyage-band-souvenirs-lyrics
 name: Souvenirs
 rankings:
 - end_date: '1979-02-23'
@@ -43,4 +44,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-04-14'
 ---
+Souvenirs are signs that take you away
+Souvenirs will make you leave here today
+For a world of joy and living
+A world of love and giving away far away
 
+Souvenirs are signs that take me away
+Souvenirs will make me leave here today
+For a world of joy and living
+A world of love and giving away far away
+
+'Cause all we need is a world of dreams
+Forgotten feelings come back in streams
+Come join us don't hesitate
+Just be yourself be free let's be free
+
+'Cause all we need is a world of dreams
+Forgotten feelings come back in streams
+Come join us don't hesitate
+Just be yourself be free let's be free
+
+Souvenirs are signs that take you away
+Souvenirs will make you leave here today
+For a world of joy and living
+A world of love and giving away far away
+
+Souvenirs will leave the day far behind
+Souvenirs, your secret signs in the mind
+In a world of love and giving a world
+Where joy of living we call paradise
+
+Let's find a place with celebrations and songs
+And souvenirs go along let's keep on moving
+
+We'll find a place with celebrations and dance
+And souvenirs and romance
+We'll keep on moving
+
+Let's find a place
+Let's find a place
+Let's find a place
+Let's keep on moving
+
+We'll find a place
+We'll find a place
+We'll find a place
+We'll keep on moving
+
+Let's find a place with celebrations and songs
+And souvenirs go along let's keep on moving
+
+Let's find a place with celebrations and dance
+And souvenirs and romance
+We'll keep on moving
+Let's find a place
+Let's find a place
+Let's find a place

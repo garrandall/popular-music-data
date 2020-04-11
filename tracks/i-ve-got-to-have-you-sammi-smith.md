@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-got-to-have-you-sammi-smith
+lyrics_url: https://www.musixmatch.com/lyrics/Sammi-Smith/I-ve-Got-to-Have-You
 name: I've Got To Have You
 rankings:
 - end_date: '1972-09-01'
@@ -35,4 +36,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-07'
 ---
+You came smiling softly shinin' through,
+Easy as a dreamer, into my world
+And before I realized the danger
+I found myself starin' into your eyes
+Somewhere in that cause
+I saw promises of things I've never seen before
+And it's all over
+I've got to have you
 
+I'm holdin' on to (tug?), sayin' nothing,
+No-one in the room, I could lose you
+Then without a warnin'
+I remembered that you trembled at the touch of my hand
+Knowing when you came to me
+That no-one else ever feels the same in my arms
+And it's all over
+I've got to have you
+
+Wakin' every mornin'
+To the tenderness of holdin' you, asleep, in my arms
+Dreamin' while my head was roamin'
+Softer than whispers on your cheek, A huh
+But I don't know the feelin'
+So I don't know if it's love, but it's enough
+It's enough, I can't help it
+I've got to have you
+
+Ohh it's all over
+I've got to have you

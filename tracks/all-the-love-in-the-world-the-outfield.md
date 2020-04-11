@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-the-love-in-the-world-the-outfield
+lyrics_url: https://www.musixmatch.com/lyrics/The-Outfield/All-the-Love-in-the-World
 name: All The Love In The World
 rankings:
 - end_date: '1986-06-13'
@@ -71,4 +72,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-20'
 ---
+I can't believe the things that happen to me
+I guess that I should have seen a long, long time ago
+Letters you write don't help me get through the night
+So, I'll just turn out the light
+And sleep here all alone
 
+All the love, all the love in the world
+All the love, I'll be sending you girl
+All the love
+All the love in the world
+
+Time after time I put my life on the line
+But I ain't committed no crime, so take what you can find
+Forget what i say cos I'll keep running away
+I only live for today, but I'm one day behind
+
+All the love, all the love in the world
+All the love, I'll be sending you girl
+All the love
+All the love in the world
+
+These are the words that I whisper on every first night
+But that day you left me
+Those words were on that same flight
+
+I can't believe the things that happen to me
+I guess that I should have seen a long, long time ago
+Letters you write don't help me get through the night
+So, I'll just turn out the light
+And sleep here all alone
+All the love, all the love in the world
+All the love, I'll be sending you girl
+All the love, all the love in the world
+All the love, all the love in the world

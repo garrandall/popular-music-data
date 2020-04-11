@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-let-me-be-lonely-tonight-james-taylor
+lyrics_url: https://genius.com/James-taylor-dont-let-me-be-lonely-tonight-lyrics
 name: Don't Let Me Be Lonely Tonight
 rankings:
 - end_date: '1972-12-08'
@@ -51,4 +52,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
 ---
+Do me wrong, do me right
+Tell me lies but hold me tight
+Save your goodbyes for the morning light
+But don't let me be lonely tonight
 
+Say goodbye and say hello
+Sure enough good to see you, but it's time to go
+Don't say yes but please don't say no
+I don't want to be lonely tonight
+
+Go away then, damn you, go on and do as you please yeah
+You ain't gonna see me gettin' down on my knees
+I'm undecided, and your heart's been divided
+You've been turnin' my world upside down
+
+Do me wrong, do me right right now, baby
+Go on and tell me lies but hold me tight
+Save your goodbyes for the morning light, morning light
+But don't let me be lonely tonight
+
+I don't want to be lonely tonight, no, no
+I don't want to be lonely tonight
+
+I don't want to be lonely tonight

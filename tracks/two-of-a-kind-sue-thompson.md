@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: two-of-a-kind-sue-thompson
+lyrics_url: https://genius.com/Sue-thompson-two-of-a-kind-lyrics
 name: Two Of A Kind
 rankings:
 - end_date: '1962-03-23'
@@ -43,4 +44,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-05-12'
 ---
-
+They say we're searching for love we'll never find
+They say we're foolish kids, we're two of a kind
+We know we've found our love when your lips meet mine
+That's when we know they're right, we're two of a kind
+No matter what they say when it's all said and done
+And we are old enough, we two will be one
+And when we pass them by with your hand in mine
+Then they'll just smile and say "they're two of a kind"
+No matter what they say when it's all said and done
+And we are old enough, we two will be one
+And when we pass them by with your hand in mine
+Then they'll just smile and say "they're two of a kind"

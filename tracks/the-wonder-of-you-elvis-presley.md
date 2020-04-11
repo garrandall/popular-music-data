@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-wonder-of-you-elvis-presley
+lyrics_url: https://genius.com/Elvis-presley-the-wonder-of-you-lyrics
 name: The Wonder Of You
 rankings:
 - end_date: '1970-05-22'
@@ -55,4 +56,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-01'
 ---
+When no one else can understand me
+When everything I do is wrong
+You give me hope and consolation
+You give me strength to carry on
+And you're always there to lend a hand
+In everything I do
+That's the wonder
+The wonder of you
 
+And when you smile the world is brighter
+You touch my hand and I'm a king
+Your kiss to me is worth a fortune
+Your love for me is everything
+I'll guess I'll never know the reason why
+You love me as you do
+That's the wonder
+The wonder of you
+
+I'll guess I'll never know the reason why
+You love me as you do
+That's the wonder
+The wonder of you

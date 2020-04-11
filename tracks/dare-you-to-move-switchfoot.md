@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dare-you-to-move-switchfoot
+lyrics_url: https://genius.com/Switchfoot-dare-you-to-move-lyrics
 name: Dare You To Move
 rankings:
 - end_date: '2004-10-08'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-02-12'
 ---
+Welcome to the planet
+Welcome to existence
+Everyone's here
+Everyone's here
+Everybody's watching you now
+Everybody waits for you now
+What happens next?
+What happens next?
 
+
+I dare you to move
+I dare you to move
+I dare you to lift yourself up off the floor
+I dare you to move
+I dare you to move
+Like today never happened
+Today never happened before
+
+
+Welcome to the fallout
+Welcome to resistance
+The tension is here
+Tension is here
+Between who you are and who you could be
+Between how it is and how it should be, yeah
+
+
+I dare you to move
+I dare you to move
+I dare you to lift yourself up off the floor
+I dare you to move
+I dare you to move
+Like today never happened
+Today never happened
+
+
+Maybe redemption has stories to tell
+Maybe forgiveness is right where you fell
+Where can you run to escape from yourself?
+Where you gonna go?
+Where you gonna go?
+Salvation is here
+
+
+I dare you to move
+I dare you to move
+I dare you to lift yourself
+To lift yourself up off the floor
+I dare you to move
+I dare you to move
+Like today never happened
+Today never happened
+Today never happened
+Today never happened before

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jimmy-s-girl-johnny-tillotson
+lyrics_url: https://genius.com/Johnny-tillotson-jimmys-girl-lyrics
 name: Jimmy's Girl
 rankings:
 - end_date: '1961-01-15'
@@ -51,4 +52,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-20'
 ---
+Jimmy's girl Jimmy's girl
+Wish that I were holding Jimmy's girl
 
+I'm in love with Jimmy's girl though I've never met her
+Still I can't forget her Jimmy's girl
+
+Jimmy's always telling me that her hair is golden
+Wish that I were holdin' Jimmy's girl
+He says her lips are warm each time they kiss good night
+And just as sweet as any lips can be
+And then I close my eyes and though it's make believe
+I pretend she's in love with me
+
+How I long for Jimmy's girl but her love is taken
+So my heart is breakin' for Jimmy's girl
+When I close my eyes although it's make believe
+I pretend she's in love with me
+
+I'm in love with Jimmy's girl but her love is taken
+So my heart is breakin' for Jimmy's girl
+How my heart is breakin' for Jimmy's girl

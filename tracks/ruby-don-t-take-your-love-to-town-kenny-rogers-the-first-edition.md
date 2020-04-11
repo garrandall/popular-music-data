@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: ruby-don-t-take-your-love-to-town-kenny-rogers-the-first-edition
+lyrics_url: https://genius.com/Kenny-rogers-and-the-first-edition-ruby-dont-take-your-love-to-town-lyrics
 name: Ruby Don't Take Your Love To Town
 rankings:
 - end_date: '1969-06-13'
@@ -60,4 +61,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-08-30'
 ---
+
+
+You've painted up your lips and rolled and curled your tinted hair
+Ruby are you contemplating going out somewhere?
+The shadows on the wall tell me the sun is going down
+Oh Ruby, don't take your love to town
+
+It wasn't me that started that old crazy Asian war
+But I was proud to go and do my patriotic chore
+And yes, it's true that I'm not the man I used to be
+Oh Ruby, I still need some company
+
+It's hard to love a man whose legs are bent and paralyzed
+And the wants and needs of a woman your age Ruby, I realize
+But it won't be long, I've heard them say, until I'm not around
+Oh Ruby, don't take your love to town
+
+She's leaving now cause I just heard the slamming of the door
+The way I know I heard its slams one hundred times before
+And if I could move I'd get my gun and put her in the ground
+Oh Ruby, don't take your love to town
+
+Oh Ruby, for God's sake, turn around
+
 

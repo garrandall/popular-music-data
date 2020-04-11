@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-thing-you-do--the-wonders
+lyrics_url: https://genius.com/The-wonders-that-thing-you-do-lyrics
 name: That Thing You Do!
 rankings:
 - end_date: '1996-10-18'
@@ -67,4 +68,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-01-18'
 ---
+You
+Doing that thing you do
+Breaking my heart into a million pieces
+Like you always do
 
+And you
+Don't mean to be cruel
+You never even knew about the heartache
+I've been going through
+
+Well, I try and try to forget you, girl
+But it's just so hard to do
+Every time you do that thing you do
+
+I
+Know all the games you play
+And I'm gonna find a way to let you know that
+You'll be mine someday
+
+'Cause we
+Could be happy, can't you see?
+If you'd only let me be the one to hold you
+And keep you here with me
+
+'Cause I try and try to forget you, girl
+But it's just so hard to do
+Every time you do that thing you do
+
+I don't ask a lot, girl (I don't ask a lot, girl)
+But I know one thing's for sure (know one thing's for sure)
+It's the love I haven't got, girl
+And I just can't take it anymore, wah!
+
+
+
+'Cause we
+Could be happy, can't you see?
+If you'd only let me be the one to hold you
+And keep you here with me
+
+'Cause it hurts me so just to see you go
+Around with someone new
+
+And if I know you, you're doing that thing
+Every day just doing that thing
+I can't take you doing that thing you do

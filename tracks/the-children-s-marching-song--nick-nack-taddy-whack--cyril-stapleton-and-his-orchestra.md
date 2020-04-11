@@ -1,9 +1,10 @@
 ---
 artists:
-- Cyril Stapleton And His Orchestra
+- Cyril Stapleton
 features: []
 genres: []
 key: the-children-s-marching-song--nick-nack-taddy-whack--cyril-stapleton-and-his-orchestra
+lyrics_url: https://www.musixmatch.com/lyrics/Cyril-Stapleton/The-Children-s-Marching-Song-Nick-Nack-Paddy-Whack
 name: The Children's Marching Song (Nick Nack Taddy Whack)
 rankings:
 - end_date: '1959-01-18'
@@ -63,4 +64,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
 ---
+This old man he played one
+He played nick nack on my drum
+With a nick nack paddy whack
+Give a dog a bone
+This old man came rolling home
+This old man he played two
+He played nick nack on my shoe
+With a nick nack paddy whack
+Give a dog a bone
+This old man came rolling home
+This old man he played three
+He played nick nack on my tree
+With a nick nack paddy whack
+Give a dog a bone
+This old man came rolling home
+This old man he played four
+He played nick nack on my door
+With a nick nack paddy whack
+Give a dog a bone
+This old man came rolling home
+This old man he played five
+He played nick nack on my hive
+With a nick nack paddy whack
+Give a dog a bone
+This old man came rolling home
 
+This old man he played six
+He played nick nack on my stick
+With a nick nack paddy whack
+Give a dog a bone
+This old man came rolling home
+This old man he played seven
+He played nick nack on my deven
+With a nick nack paddy whack
+Give a dog a bone
+This old man came rolling home
+This old man he played eight
+He played nick nack on my gate
+With a nick nack paddy whack
+Give a dog a bone
+This old man came rolling home
+This old man he played nine
+He played nick nack on my vine
+With a nick nack paddy whack
+Give a dog a bone
+This old man came rolling home
+This old man he played ten
+He played nick nack on my hen
+With a nick nack paddy whack
+Give a dog a bone
+This old man came rolling home
+.

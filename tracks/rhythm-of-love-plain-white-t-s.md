@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rhythm-of-love-plain-white-t-s
+lyrics_url: https://genius.com/Plain-white-ts-rhythm-of-love-lyrics
 name: Rhythm of Love
 rankings:
 - end_date: '2010-09-03'
@@ -91,4 +92,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-02-19'
 ---
+My head is stuck in the clouds
+She begs me to come down
+Says, "Boy, quit foolin' around"
+I told her, "I love the view from up here
+Warm sun and wind in my ear
+We'll watch the world from above
+As it turns to the rhythm of love"
 
+
+We may only have tonight
+But 'til the morning sun, you're mine
+All mine
+Play the music low
+And sway to the rhythm of love
+
+
+My heart beats like a drum
+A guitar string to the strum
+A beautiful song to be sung
+She's got blue eyes deep like the sea
+That roll back when she's laughing at me
+She rises up like the tide
+The moment her lips meet mine
+
+
+We may only have tonight
+But 'til the morning sun, you're mine
+All mine
+Play the music low
+And sway to the rhythm of love
+
+
+When the moon is low
+We can dance in slow motion
+And all your tears will subside
+All your tears will dry
+
+Bop ba (bop ba) bop ba
+Bop ba (bop ba) bop ba
+Da da da dum da da dum
+
+Bop ba (bop ba) bop ba
+Bop ba (bop ba) bop ba
+Da da da dum da da dum
+
+
+And long after I've gone
+You'll still be humming along
+And I will keep you in my mind
+The way you make love so fine
+
+
+We may only have tonight
+But 'til the morning sun, you're mine
+All mine
+Play the music low
+And sway to the rhythm of love
+
+Oh, play the music low
+And sway to the rhythm of love
+Yeah, sway to the rhythm of love

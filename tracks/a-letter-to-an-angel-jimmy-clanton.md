@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-letter-to-an-angel-jimmy-clanton
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Clanton/A-Letter-to-an-Angel
 name: A Letter To An Angel
 rankings:
 - end_date: '1958-10-26'
@@ -55,4 +56,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-05'
 ---
-
+Dearest darling
+I'm writing to say
+That I still love you
+And will, come what may They say I won't find you
+That you're in a dream
+But dearest darling
+You're an angel to me I see you in the moonlight
+I see you in the trees
+Oh, how is it possible
+To love just a dream So angel, my angel
+I'll close for today
+And write you tomorrow
+Please hear what I say I see you in the moonlight
+I see you in the trees
+Oh, how is it possible
+To love just a dream So angel, my angel
+I'll close for today
+And write you tomorrow
+So hear what I say

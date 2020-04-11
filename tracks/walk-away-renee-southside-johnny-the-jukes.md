@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: walk-away-renee-southside-johnny-the-jukes
+lyrics_url: https://genius.com/Southside-johnny-and-the-asbury-jukes-walk-away-renee-lyrics
 name: Walk Away Renee
 rankings:
 - end_date: '1986-08-22'
@@ -28,4 +29,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-13'
 ---
+(B. Calilli/M. Brown/T. Sansone)
 
+And when I see the sign that points one way
+The lot we used to pass by everyday
+
+Just walk away Renee
+You won't see me follow you back home
+The empty sidewalks on my block
+Are not the same
+You're not to blame
+
+From deep inside the tears, I'm forced to cry
+From deep inside the pain, I chose to hide
+
+Just walk away Renee
+You won't see me follow you back home
+Now let the rain beat down
+Upon my weary eyes
+For me and mine
+
+Just walk away Renee
+You won't see me follow you back home
+Now let the rain beat down
+Upon my weary eyes
+For me and mine
+
+Your name and mine inside a heart upon the wall
+Still finds a way to haunt me
+Though they're so small
+
+Just walk away Renee
+You won't see me follow you back home
+The empty sidewalks on my block
+Are not the same
+You're not to blame

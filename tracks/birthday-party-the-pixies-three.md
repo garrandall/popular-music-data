@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: birthday-party-the-pixies-three
+lyrics_url: https://genius.com/The-pixies-three-birthday-party-lyrics
 name: Birthday Party
 rankings:
 - end_date: '1963-08-23'
@@ -43,4 +44,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-12'
 ---
+Birthday party!
+Birthday party!
+Birthday party!
+Birthday party!
 
+Gonna have a birthday party
+Everybody's invited
+Janie, Jimmie and Artie
+Gonna make a night of it
+Come on, come along
+Tonight is the night
+
+Got a whole lot of presents
+And a beautiful cake
+Gonna blow out the candles
+Then a wish I will make
+Help me celebrate, don’t be late
+Tonight it’s a date
+
+I got the latest records we all know
+And we can dance to the radio
+I thought that everything would turn out right
+Just walk down my street to the party lights
+Come on, come along
+Tonight is the night
+
+I got the latest records we all know
+And we can dance to the radio
+I know that everything will turn out right
+Just walk down my street to the party lights
+
+Gonna have a birthday party
+Everybody’s invited
+I can wait ‘til we start it
+Cause I’m so excited
+Come on, come along
+Tonight is the night
+Happy Birthday to.......................
+Birthday party!
+Birthday party!
+Birthday party!

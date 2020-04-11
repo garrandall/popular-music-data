@@ -1,9 +1,10 @@
 ---
 artists:
-- Daryl Hall John Oates
+- Hall & Oates
 features: []
 genres: []
 key: so-close-daryl-hall-john-oates
+lyrics_url: https://www.azlyrics.com/lyrics/halloates/soclose.html
 name: So Close
 rankings:
 - end_date: '1990-10-05'
@@ -83,4 +84,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-02-02'
 ---
+They met on the dance floor in the old high school gym
+He fell like a rock
+She kinda liked him
+And his heart beat like thunder as they moved cross the floor
+But when the music was over she slipped out the door
+Yeah a man loves a woman but he can't understand
+Why she's sad when she stares at the ring on her hand
+Then she sits in some club where the long shadows fall
+Drops a coin in the jukebox not the phone on the wall
 
+
+So close
+Yet so far away
+We believe in tomorrow and a better day
+We lie down to sleep so close
+Yet so far away
+
+There's a restless look in you eye tonight
+There's a secret hurt in my heart
+And the dream that pulls us together girl
+Is a dream that keeps us
+So close
+Yet so far away
+
+Some people think if you really believe
+That's all you need to solve all the mysteries
+Well I know someone who just heads for the sun
+She says "I don't wanna be wise, I just wanna stay young"
+
+
+
+There's a restless look in your eye tonight
+There's a secret hurt in my heart
+And the dream that pulls us together girl is a dream
+That's gonna tear us apart

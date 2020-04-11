@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-the-world-go-away-timi-yuro
+lyrics_url: https://genius.com/Timi-yuro-make-the-world-go-away-lyrics
 name: Make The World Go Away
 rankings:
 - end_date: '1963-07-26'
@@ -51,4 +52,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-09-28'
 ---
-
+Make the world go away
+Get it off my shoulder
+Say the things we used to say
+And make the world, make it go away
+Do you remember when you loved me
+Before the world took you away
+Well if you do, then forgive me
+And make the world, make it go away
+Make the world go away
+Get it off my shoulder
+Say the things we used to say
+And make the world, make it go away
+Now I'm sorry if I hurt you
+Let me make it up to you day by day
+And if you will please forgive me
+And make the world, make it go away
+Make the world go away
+Get it off my shoulder
+Say the things we used to say
+And make the world, make it go away

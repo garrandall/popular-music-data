@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: put-your-hand-in-the-hand-ocean
+lyrics_url: https://genius.com/Ocean-put-your-hand-in-the-hand-lyrics
 name: Put Your Hand In The Hand
 rankings:
 - end_date: '1971-03-19'
@@ -63,4 +64,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-12'
 ---
+Put your hand in the hand
+Of the man who stilled the water
 
+Put your hand in the hand
+Of the man who calmed the sea
+Take a look at yourself and
+A you can look at others differently
+
+By puttin' your hand in the hand
+Of the man from-a Galilee
+
+Every time I look into the Holy Book
+I want to tremble
+When I read about the part
+Where a carpenter cleared the temple
+For the buyers and the sellers were
+No different fellas than what I profess to be
+
+And it causes me shame to know
+I'm not the gal that I should be
+
+Put your hand in the hand
+
+Mama taught me how to pray before
+I reached the age of seven
+
+And when I'm down on my knees that's a
+When I'm close to heaven
+Daddy lived his life with two kids and a wife
+You do must you must do
+But he showed me
+Enough of what it takes to get you through

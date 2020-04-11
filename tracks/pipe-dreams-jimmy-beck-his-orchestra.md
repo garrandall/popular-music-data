@@ -1,7 +1,6 @@
 ---
 artists:
 - Jimmy Beck
-- His Orchestra
 features: []
 genres: []
 key: pipe-dreams-jimmy-beck-his-orchestra

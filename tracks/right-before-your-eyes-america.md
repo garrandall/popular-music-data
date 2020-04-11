@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: right-before-your-eyes-america
+lyrics_url: https://genius.com/America-right-before-your-eyes-lyrics
 name: Right Before Your Eyes
 rankings:
 - end_date: '1982-12-03'
@@ -59,4 +60,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-02-19'
 ---
+Every day I sit beside you
+On the bus to Madison Avenue
+Work in the big gray store
+With the revolving doors
 
+You don't even know my name
+I guess that I'm to blame
+Don't know the right things to say
+So I pretend away
+
+That I'm Rudolph Valentino
+Pull up in my limousine, oh
+Won't you come in out of the rain
+Things'll never be the same
+And then just like Greta Garbo
+You stare like there's no tomorrow
+And you'll know what I'm thinking of
+Right before your eyes I fall in love with you
+
+Today I'm done with games (today I'm done with games)
+Gonna ask you for your name
+Say I've been watching you
+I even know what you do
+
+Maybe today I'll tell you (maybe today I'll tell you)
+I've found the nerve to sell you
+On a guy like me
+Who wishes that he could be
+
+Your Rudolph Valentino
+Pull up in my limousine, oh
+Won't you come in out of the rain
+Things'll never be the same
+And then just like Greta Garbo
+You stare like there's no tomorrow
+And you'll know what I'm thinking of
+Right before your eyes I fall in love with you
+
+Right before your eyes I fall in love with you
+Right before my eyes you'll say you love me too
+
+Rudolph Valentino
+I pull up in my limousine, oh
+Won't you come in out of the rain
+Things'll never be the same
+And then just like Greta Garbo
+You stare like there's no tomorrow
+And you'll know what I'm thinking of, ooh

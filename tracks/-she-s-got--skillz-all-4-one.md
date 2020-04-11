@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -she-s-got--skillz-all-4-one
+lyrics_url: https://genius.com/All-4-one-shes-got-skillz-lyrics
 name: (She's Got) Skillz
 rankings:
 - end_date: '1995-01-13'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-05-20'
 ---
+Little rump shaker she can really shake and bake
+She's got skillz
+Watch her slippin and a slidin' working booty left to right
 
+She's got skillz
+She can work it to the left
+Work it to the right
+She wants to get a little freaky tonight
+
+She's got the potion in the motion
+To cure my illz
+She's got skillz
+
+She shimmies up my jimmy and she'll do me all night long
+She's got skillz
+In the mornin' when I'm yawnin' she gives me a sticky bun
+She's got skillz
+
+Yum yum eat 'em up think I'm in luck because
+She wants to lick me like a lollipop
+She's got the potion in the motion
+To cure my illz
+She's got skillz
+
+Skillz
+Girl has it goin' on
+She's got skillz
+Work her booty all night long
+She's got skillz
+Makes me wanna scooby doo
+She's got skillz
+Makes me want to zoom zoom zoom
+
+She's got the potion in the motion
+To cure my illz
+She's got skillz
+
+Yum yum eat 'em up think I'm in luck because
+She wants to lick me like a lollipop
+
+She's got the potion in the motion
+To cure my illz
+She's got skillz
+
+Little rump shaker got the flavor that I like
+She's got skillz
+Little cutie with that booty, think I'll take her home
+Tonight
+She's got skillz

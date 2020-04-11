@@ -1,6 +1,6 @@
 ---
 artists:
-- Ke$ha
+- Kesha
 features:
 - will.i.am Or Juicy J
 genres: []

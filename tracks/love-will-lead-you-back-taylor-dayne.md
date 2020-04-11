@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-will-lead-you-back-taylor-dayne
+lyrics_url: https://genius.com/Taylor-dayne-love-will-lead-you-back-lyrics
 name: Love Will Lead You Back
 rankings:
 - end_date: '1990-02-02'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-06-09'
 ---
+Saying goodbye is never an easy thing
+But you never said, that you'd stay forever
+So if you must go, well, darling, I'll set you free
+But I know in time that we'll be together
 
+
+I won't try to stop you now from leaving
+Cause in my heart I know
+
+
+Love will lead you back
+Someday I just know that
+Love will lead you back to my arms
+Where you belong
+
+I'm sure
+Sure as stars are shining
+One day you will find me again
+It won't be long
+
+One of these days
+Our love will lead you back
+
+
+One of these nights, well, I'll hear your voice again
+You're gonna say how much you miss me
+You walked out this door, but someday you'll walk back in
+Darling I know, I know this will be
+
+
+Sometimes it takes, some time out on your own now
+To find your way back home
+
+
+
+
+But I won't try to stop you now from leaving
+Cause in my heart I know, oh yeah
+
+
+
+Love will lead you back
+Someday I just know that
+Love will lead you back to my arms
+It won't be long
+One of these days
+Our love will lead you back

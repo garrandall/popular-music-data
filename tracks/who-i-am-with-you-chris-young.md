@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-i-am-with-you-chris-young
+lyrics_url: https://genius.com/Chris-young-who-i-am-with-you-lyrics
 name: Who I Am With You
 rankings:
 - end_date: '2014-05-16'
@@ -83,4 +84,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-09-13'
 ---
+I've been a rolling stone all my life
+Flying all alone, flying blind
+I've seen it all, I've been around
+I've been lost and I've been found
 
+
+But who I am with you
+Is who I really wanna be
+You're so good for me
+And when I'm holdin' you
+It feels like I've got the world in my hands
+Yeah, a better man is who I am with you
+
+
+I've got a ways to go on this ride
+But I got a hand to hold that fits just right
+You make me laugh, you make me high
+You make me want to hold on tight
+
+
+'Cause who I am with you
+Is who I really wanna be
+You're so good for me
+And when I'm holdin' you
+It feels like I've got the world in my hands
+Yeah, a better man is who I am with you
+Who I am with you
+
+
+Because of you,  I'm a lucky man
+And you're the best part of who I am
+
+
+Who I am with you
+Is who I really want to be
+You're so good
+You're so good for me, baby
+And when I'm holdin' you
+It feels like I've got the world in my hands
+Yeah, a better man is who I am with you
+Yes, who I am with you

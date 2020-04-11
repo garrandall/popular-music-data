@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh-no-not-my-baby-maxine-brown
+lyrics_url: https://genius.com/Maxine-brown-oh-no-not-my-baby-lyrics
 name: Oh No Not My Baby
 rankings:
 - end_date: '1964-10-30'
@@ -59,4 +60,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-16'
 ---
+When my friends told me you had someone new
+I didn't believe a single word was true
+I told them all I had faith in you
+I, I, I, I just kept on sayin'
 
+Oh no, not my baby
+Oh no, not my sweet baby
+You're not like those other guys
+Who lead you on and tell you lies
+
+My mama told me when rumors spread
+There's truth somewhere and I should use my head
+But I didn't listen to a-what she said
+I, I, I, I kept right on sayin'
+
+Oh no, not my baby
+Oh no, not my sweet baby
+You're not like those other boys
+Who play with hearts like they were toys
+
+Well, you might have had a last-minute fling
+But I am sure it didn't mean a thing
+'Cause yesterday you gave me your ring
+And now I'm glad that I kept on sayin'
+
+Oh no, not my baby
+Oh no, not my sweet baby
+You're not like those other guys
+Who lead you on and tell you lies
+
+Oh no, not my baby, oh no, not my sweet baby
+Oh no, not my baby, no, no, no, no, not my sweet baby
+Oh no

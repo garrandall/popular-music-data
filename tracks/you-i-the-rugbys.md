@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-i-the-rugbys
+lyrics_url: https://genius.com/The-rugbys-you-i-lyrics
 name: You I
 rankings:
 - end_date: '1969-08-29'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
 ---
+You
+Are the color blue
+As I'm looking through
+At the magic mood
+I
+Don't know what to do
+When I look at you
+Are you looking too?
 
+You
+You don't want me to
+Fall in love with you
+What else can I do
+I
+When I think of you
+Every time I do
+All I see is blue
+
+You
+All I need is you
+All I want is you
+Don't you want me too?
+
+You
+If you want me to
+Let me know it's true
+I'm in love with you
+You
+Are the color blue
+And I'm looking through
+At the magic mood

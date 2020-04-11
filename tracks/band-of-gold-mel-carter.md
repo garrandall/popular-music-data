@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: band-of-gold-mel-carter
+lyrics_url: https://genius.com/Mel-carter-band-of-gold-lyrics
 name: Band Of Gold
 rankings:
 - end_date: '1966-04-15'
@@ -39,4 +40,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-28'
 ---
+I've never wanted wealth untold
+My life has one design
+A simple little band of gold
+To prove that you are mine
 
+Don't want the world to have and hold
+For fame is not my line
+Just want a little band of gold
+To prove that you are mine
+
+Some sail away to Araby and other lands of mystery
+But all the wonders that they see will never tempt me
+
+Their memories will soon grow cold
+But till the end of time
+There'll be a little band of gold
+To prove that you are mine
+
+I've never wanted wealth untold
+But till the end of time
+There'll be a little band of gold
+To prove that you are mine

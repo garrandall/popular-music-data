@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-is-contagious-taja-sevelle
+lyrics_url: https://genius.com/Taja-sevelle-love-is-contagious-lyrics
 name: Love Is Contagious
 rankings:
 - end_date: '1987-09-18'
@@ -47,4 +48,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-11-14'
 ---
+Was a girl in the rain
+No one else could feel her pain
+Was a boy all alone
+Nothing left to call his own
 
+Something came along
+Secrets of surprise
+Force of love was far too strong
+Saw it in their eyes
+
+They tried
+And they tried
+They tried
+But they couldn`t play it off
+
+Love is contagious
+When it`s alright
+Love is contagious
+Love is contagious
+Yeah, it`s alright
+Love is contagious, yeah
+Ooh, ooh, ooh
+
+Now they`re standing in the light
+Got a love that`s sure enough tight
+Kind that stops on the street
+Ain`t about being discreet
+
+Our love`s a storm in disguise
+It`s alright
+I couldn`t keep away if I tried
+Understand
+It`s in your hands
+
+Cause I tried and I tried
+I tried
+But there ain`t no playing it off
+
+Love is contagious
+When it`s alright
+Love is contagious
+Love is contagious
+Yeah, it`s alright
+Love is contagious, yeah, yeah
+
+Ooh, ooh, ooh, ooh
+Ooh, ooh, ooh, ooh
+Ooh, ooh, ooh
+Ooh ooh, ah
+
+Ooh, ooh, ooh, ooh
+Ooh, ooh, ooh, ooh
+Ooh, ooh, ooh
+Ooh, ooh, ah
+
+I tried
+And I tried
+I tried
+But there ain`t no playing it off
+
+Love is contagious
+When it`s alright
+Love is contagious
+Love is contagious
+Yeah, it`s alright
+Love is contagious, yeah, hey
+
+Ooh, ooh
+Ooh, ooh
+(Contagious)
+Our love`s a storm
+You can`t deny
+
+(Contagious)
+Ooh, ooh, ooh, ooh
+Oh, oh
+Oh, yeah
+(Contagious)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-ll-be-the-day-linda-ronstadt
+lyrics_url: https://genius.com/Linda-ronstadt-thatll-be-the-day-lyrics
 name: That'll Be The Day
 rankings:
 - end_date: '1976-08-27'
@@ -71,4 +72,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-12-04'
 ---
+Well, that'll be the day when you say goodbye
+That'll be the day when you make me cry
+You say you're gonna leave me, you know it's a lie
+'Cause that'll be the day when I die
 
+Well, that'll be the day when you say goodbye
+That'll be the day when you make me cry
+You say you're gonna leave me, you know it's a lie
+'Cause that'll be the day when I die
+
+Well, you gave me all your loving and your turtle doving
+All your hugs and kisses and your money, too
+You know you love me, baby, still you tell me maybe
+That somebody, well, I'll be through
+
+Well, that'll be the day when you say goodbye
+That'll be the day when you make me cry
+You say you're gonna leave me, you know it's a lie
+'Cause that'll be the day when I die
+
+Well, when Cupid shot his dart, he shot it at your heart
+So if we ever part and I'll leave you
+You kiss and hold me and you tell me boldly
+Well, that some day, well, I'll be through
+
+Well, that'll be the day when you say goodbye
+That'll be the day when you make me cry
+You say you're gonna leave me, you know it's a lie
+'Cause that'll be the day when I die
+
+Oh, that'll be the day, ooh
+That'll be the day, ooh
+That'll be the day, ooh
+That'll be the day when I die

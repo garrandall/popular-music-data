@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: from-a-jack-to-a-king-ned-miller
+lyrics_url: https://genius.com/Ned-miller-from-a-jack-to-a-king-lyrics
 name: From A Jack To A King
 rankings:
 - end_date: '1963-01-04'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-23'
 ---
+From a Jack to a King
+From loneliness to a wedding ring
+I played an Ace and I won a Queen
+And walked away with your heart
 
+
+From a Jack to a King
+With no regret I stacked the cards last night
+And lady luck played her hand just right
+To make me King of your heart
+
+
+For just a little while
+I thought that I might lose the game
+Then just in time
+I saw the twinkle in your eye
+
+
+From a Jack to a King
+From loneliness to a wedding ring
+I played an Ace and I won a Queen
+You made me King of your heart
+
+
+For just a little while
+I thought that I might lose the game
+Then just in time
+I saw the twinkle in your eye
+
+
+From a Jack to a King
+From loneliness to a wedding ring
+I played an Ace and I won a Queen
+You made me King of your heart

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sometimes-good-guys-don-t-wear-white-the-standells
+lyrics_url: https://genius.com/The-standells-sometimes-good-guys-dont-wear-white-lyrics
 name: Sometimes Good Guys Don't Wear White
 rankings:
 - end_date: '1966-08-19'
@@ -39,4 +40,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
 ---
+I'm a poor boy born in a rubble
+And some say my manners ain't the best
+And some of my friends, yeah, they've been in real trouble
+And some say I'm no better than the rest
+But tell your mama and your papa
+Sometimes good guys don't wear white
 
+Yeah, every day, baby, I work hard
+And it's true at night I spend the restless time
+But those rich kids and all that lazy money
+Can't hold a candle to mine
+So tell your mama and your papa
+Sometimes good guys don't wear white
+
+Good guys, bad guys, which is which?
+The white collar worker or the digger in the ditch?
+Hey, and who's to say who's the better man
+When I've always done the best I can?
+
+A-bad words and dirty minds
+All those messed-up chicks of the changin' times
+White pills and easy livin'
+Can't replace the love I've given
+So tell your mama and your papa
+Sometimes good guys don't wear white
+
+Ha! I mean to tell ya
+You better tell your mama and your papa somethin'
+I'll split off by myself with another chick, yeah
+Ah, it's just a kick
+You think those guys in the white collars are better than I am baby?
+Then flake off!
+You don't dig this long hair? Get yourself a crewcut, baby!
+Yeah, I mean what I say

@@ -5,6 +5,7 @@ features:
 - Johnny Gill
 genres: []
 key: slow-and-sexy-shabba-ranks-johnny-gill
+lyrics_url: https://www.musixmatch.com/lyrics/Shabba-Ranks-feat-Johnny-Gill/Slow-and-Sexy
 name: Slow And Sexy
 rankings:
 - end_date: '1992-10-30'
@@ -84,4 +85,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-02-27'
 ---
+Sensuous emotion
+They're gettin' my attention
+Staring up easy
+To find the right position
+Don't rush don't hurry now
+Take your time girl, get it right
+No need to accelerate
+'Cause we can kill the feeling
 
+Keep it slow and sexy
+Instant aphrodisiac
+For the love of me
+Keep it slow and sexy
+
+Girls, they like it when I hold them tight
+Makin' love all through the night
+Take the time and do it right
+'Cause we can kill the feeling
+
+Keep it slow and sexy
+Instant aphrodisiac
+For the love of me
+Keep it slow and sexy
+
+Too much movement might hurt the back
+For the love of me, Shabba
+(Take it off)
+(Take it off)
+(Take it off)
+
+Such passion I know where that came from
+Great romancing can never be overdone
+Girls, they like it when I hold them tight
+Making love all through the night
+
+Take the time and do it right
+'Cause we can kill the feeling
+
+Keep it slow and sexy
+Instant aphrodisiac
+For the love of me
+Keep it slow and sexy

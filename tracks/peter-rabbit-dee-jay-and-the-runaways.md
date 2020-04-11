@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: peter-rabbit-dee-jay-and-the-runaways
+lyrics_url: https://genius.com/Dee-jay-and-the-runaways-peter-rabbit-lyrics
 name: Peter Rabbit
 rankings:
 - end_date: '1966-05-13'
@@ -51,4 +52,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-16'
 ---
+Peter Rabbit and Little Boy Blue
+Hidden in the brush with Mr. Magoo
+Along came Mcdonald with his trusty gun
+And he goes, everybody run
 
+Peter Rabbit
+Peter Rabbit
+Peter Rabbit
+He'll be hopping along
+
+Peter Rabbit and Goldilocks
+Out in the toolies
+Eating porridge by the pot
+Along came Mcdonald with his trusty gun
+And he goes, everybody run
+
+Peter Rabbit
+Peter Rabbit
+Peter Rabbit
+He'll be hopping along
+
+Peter Rabbit and the little red hen
+Talking things over in the high wired pen
+Along came Mcdonald with his trusty gun
+And he goes, everybody run
+
+Peter Rabbit
+Peter Rabbit
+Peter Rabbit
+He'll be hopping along
+
+Well, Peter Rabbit
+Peter Rabbit
+Peter Rabbit
+He'll be hopping along
+
+Well, Peter Rabbit
+Peter Rabbit
+Peter Rabbit...

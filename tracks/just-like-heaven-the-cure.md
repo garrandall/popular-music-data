@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-like-heaven-the-cure
+lyrics_url: https://genius.com/The-cure-just-like-heaven-lyrics
 name: Just Like Heaven
 rankings:
 - end_date: '1987-10-16'
@@ -83,4 +84,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-02-13'
 ---
+"Show me, show me, show me how you do that trick
+The one that makes me scream", she said
+"The one that makes me laugh", she said
+And threw her arms around my neck
+"Show me how you do it, and I promise you
+I promise that I'll run away with you
+I'll run away with you"
 
+
+Spinning on that dizzy edge
+Kissed her face and kissed her head
+Dreamed of all the different ways I had to make her glow
+"Why are you so far away?", she said
+"Why won't you ever know that I'm in love with you?
+That I'm in love with you?"
+
+
+You, soft and only
+You, lost and lonely
+You, strange as angels
+Dancing in the deepest oceans
+Twisting in the water
+You're just like a dream
+You're just like a dream
+
+
+Daylight licked me into shape
+I must have been asleep for days
+And moving lips to breathe her name
+I opened up my eyes
+And found myself alone, alone
+Alone above a raging sea
+That stole the only girl I loved
+And drowned her deep inside of me
+
+
+You, soft and only
+You, lost and lonely
+You, just like heaven

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: iko-iko-the-dixie-cups
+lyrics_url: https://genius.com/The-dixie-cups-iko-iko-lyrics
 name: Iko Iko
 rankings:
 - end_date: '1965-04-09'
@@ -47,4 +48,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-05'
 ---
+My grandma and your grandma
+Were sittin' by the fire
+My grandma told your grandma
+"I'm gonna set your flag on fire."
 
+Talkin' 'bout
+Hey now (hey now)
+Hey now (hey now)
+Iko, Iko, an day (oh)
+Jocomo fee no an dan day
+Jocomo fee nan nay
+
+
+
+Look at my king
+All dressed in red
+Iko, Iko, an day
+I betcha five dollars
+He'll kill you dead
+Jocomo fee nan nay
+
+Talkin' 'bout
+Hey now (hey now)
+Hey now (hey now)
+Iko, Iko, an day (oh)
+Jocomo fee no an dan day
+Jocomo fee nan nay
+
+
+
+My flag boy and your flag boy
+Sittin' by the fire
+My flagboy told your flagboy
+"I'm gonna set your flag on fire."
+
+Talkin' 'bout
+Hey now (hey now)
+Hey now (hey now)
+Iko, Iko, an day (oh)
+Jocomo fee no an dan day
+Jocomo fee nan nay
+
+
+
+(Oh... yes)
+See that guy all dressed in green?
+Iko, Iko, an day
+He not a man
+He a lovin' machine
+Jocomo fee nan nay
+
+Talkin' 'bout
+Hey now (hey now)
+Hey now (hey now)
+Iko, Iko, an day (oh)
+Jocomo fee no an dan day
+Jocomo fee nan nay
+
+
+
+Talkin' 'bout
+Hey now
+Hey now (hey now)
+Iko, Iko, an day (oh)
+Jocomo fee no an dan day
+Jocomo fee nan nay
+Jocomo fee nan nay
+(I say he's dressed in green)
+Jocomo fee nan nay
+(Iko)
+Jocomo fee nan nay

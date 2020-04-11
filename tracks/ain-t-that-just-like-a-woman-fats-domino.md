@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ain-t-that-just-like-a-woman-fats-domino
+lyrics_url: https://genius.com/Fats-domino-aint-that-just-like-a-woman-lyrics
 name: Ain't That Just Like A Woman
 rankings:
 - end_date: '1961-01-29'
@@ -39,4 +40,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-13'
 ---
+Yes, Adam was happy
+As a man could be
+'Til Eve started messing
+With that old apple tree
 
+Ain't that just like a woman
+Ain't that just like a woman
+Ain't that just like a woman
+They'll do it every time
+
+You can buy a woman clothes
+Give her money on the side
+No matter what you do
+She's never satisfied
+
+Ain't that just like a woman
+Ain't that just like a woman
+Ain't that just like a woman
+They'll do it every time
+
+Marie Antoinette watched
+Those cats at the gate
+Then cried in French
+Said, let em eat cake
+
+Ain't that just like a woman
+Ain't that just like a woman
+Ain't that just like a woman
+They'll do it every time
+
+Yes, Adam was happy
+As a man could be
+'Til Eve started messing
+With that old apple tree
+
+Ain't that just like a woman
+Ain't that just like a woman
+Ain't that just like a woman
+They'll do it every time
+
+You can buy a woman clothes
+Give her money on the side
+No matter what you do
+They're never satisfied
+
+Ain't that just like a woman
+Yes, that's just like a woman
+Ain't that just like a woman
+They'll do it every time

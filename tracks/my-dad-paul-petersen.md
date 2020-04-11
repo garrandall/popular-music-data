@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-dad-paul-petersen
+lyrics_url: https://genius.com/Paul-petersen-my-dad-lyrics
 name: My Dad
 rankings:
 - end_date: '1962-11-23'
@@ -71,4 +72,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-02'
 ---
+He isn't much in the eyes of the world; He'll never make history
+No, he isn't much in the eyes of the world, But he is the world to me
 
+My dad, now here is a man
+To me he is ev'rything strong; no he can't do wrong, my dad
+My dad, now he understands when I bring him troubles to share;
+Oh, he's always there, my dad
+When I was small I felt ten feet tall
+When I walked by his side
+And ev'ry one would say, "that's his son,"
+And my heart would burst with pride
+My dad, oh, I love him so
+And I only hope that some day my own son will say
+"My dad, now here is a man."
+
+My dad, now here is a man
+To me he is ev'rything strong; no he can't do wrong, my dad
+My dad, now he understands when I bring him troubles to share;
+Oh, he's always there, my dad
+When I was small I felt ten feet tall
+When I walked by his side
+And ev'ry one would say, "that's his son,"
+And my heart would burst with pride
+My dad, oh, I love him so
+And I only hope that some day my own son will say

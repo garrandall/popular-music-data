@@ -6,6 +6,7 @@ features:
 - Mark Lindsay
 genres: []
 key: just-like-me-paul-revere-the-raiders-mark-lindsay
+lyrics_url: https://www.musixmatch.com/lyrics/Paul-Revere-The-Raiders-feat-Mark-Lindsay-2/Just-Like-Me
 name: Just Like Me
 rankings:
 - end_date: '1965-12-10'
@@ -69,4 +70,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
 ---
+It's just like me
+To say to you
+Love me do
+And I'll be true
+And what I'd like
+For you to say
+Is you'll come home
+To me each day
 
+Ah, you'll be my girl
+That's what I want
+Just you sweet girl
+And not a front
+It's just like me
+To feel so good
+And fall so much
+In love with you
+
+It's just like me
+It's just like me
+I'm actin' the fool
+That's how I'll be
+But it's just like you
+To say goodbye
+And leave me all
+Alone at night, waah!
+
+It's just like me ...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-she-goes-babyface
+lyrics_url: https://genius.com/Babyface-there-she-goes-lyrics
 name: There She Goes
 rankings:
 - end_date: '2001-05-18'
@@ -67,4 +68,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-08-18'
 ---
+It's something about her you know that
+The way she cares of herself, she's just so bad
+Ooh, I dont know
 
+
+Her style, her mind compares
+To nothing on this earth
+She's not the kind to share
+Only God know what she's worth
+
+
+I gotta show her that I want her
+I recognize that she is bad
+If I can't have her then I'll go crazy
+Spending all my time just chasing
+I gotta show her that I want her
+I recognize that she is bad
+If I can't have her then I'll go crazy
+Spending all my time just chasing
+
+
+Her eyes, her smile, her skin
+Her smell, her hair (She's incredible, baby, ooh)
+Her walk, her talk, her way her savoir faire
+There she goes, there she goes
+(There she goes)
+
+
+I hope to find her there
+Gotta make some eye contact
+She's not the kind to stare
+Move quick or lose her fast
+
+
+I gotta show her that I want her
+I recognize that she is bad
+If I can't have her then I'll go crazy
+Spending all my time just chasing
+I gotta show her that I want her
+I recognize that she is bad
+If I can't have her then I'll go crazy
+Spending all my time just chasing
+
+
+Her eyes, her smile, her skin
+Her smell, her hair (Ooh baby, she's incredible, baby)
+Her walk, her talk, her way, her savoir faire
+There she goes, there she goes, ooh
+(There she goes)
+Her eyes, her smile, her skin
+Her smell, her hair (You're incredible, baby)
+Her walk, her talk, her way, her savoir faire
+There she goes (There she goes)
+
+
+Spending all my time watchin' that girl go (dance)
+Gotta love the way she moves (Get down, girl)
+Spending all my time watchin' that girl go (dance)
+Gotta love the way she moves
+
+
+Her eyes, her smile, her skin
+Her smell, her hair (She's incredible, baby)
+Her walk, her talk, her way, her savoir faire
+There she goes (There she goes, baby)
+Her eyes, her smile, her skin
+Her smell, her hair (You're incredible, baby)
+Her walk, her talk, her way, her savoir faire
+There she goes (There she goes)
+Her eyes, her smile, her skin
+Her smell, her hair (Oh, baby, yeah)
+Her walk, her talk, her way, her savoir faire
+There she goes (There she goes)
+
+
+Spending all my time watchin' that girl go (dance)
+Gotta love the way she moves (Get down, girl)
+Spending all my time watchin' that girl go (dance)
+Watch her go, watch her go
+Gotta love the way she moves (dance)
+
+I got to show her that I want her
+Spending all my time watchin' that girl go
+If I can't have her, then I'll go crazy
+Gotta love the way she moves
+I got to show her that I want her
+Spending all my time watchin' that girl go
+If I can't have her, then I'll go crazy
+Gotta love the way she moves
+I got to show her that I want her...
+If I can't have her, then I'll go crazy...
+I got to show her that I want her...

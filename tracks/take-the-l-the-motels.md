@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-the-l-the-motels
+lyrics_url: https://genius.com/The-motels-take-the-l-lyrics
 name: Take The L
 rankings:
 - end_date: '1982-09-10'
@@ -43,4 +44,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-10-30'
 ---
+Watching my head, holding my face
+One more evening gone to waste
+No longer do I know my place
+Killing time and missing my cues
+Watching her belong to you
+Tears could only change my view
 
+Take the L out of lover and it's over (x2)
+
+Growing up has always been tough
+Good intentions never good enough
+I would take you far away
+Do anything to make you stay
+
+Take the L out of lover and it's over (x3)
+
+Every drink and ciggarette
+All those hands we never met
+There are things we should forget
+Now its over
+Over
+
+Take the L out of lover and it's over (x3)
+
+(music)
+
+Take the L out of lover and it's over (until fade)

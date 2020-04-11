@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: these-dreams-heart
+lyrics_url: https://genius.com/Heart-these-dreams-lyrics
 name: These Dreams
 rankings:
 - end_date: '1986-01-24'
@@ -87,4 +88,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-31'
 ---
+Spare a little candle
+Save some light for me
+Figures up ahead
+Moving in the trees
+White skin in linen
+Perfume on my wrist
+And the full moon that hangs over
+These dreams in the mist
+Darkness on the edge
+Shadows where I stand
+I search for the time
+On a watch with no hands
+I want to see you clearly
+Come closer than this
+But all I remember
+Are the dreams in the mist
 
+These dreams go on when I close my eyes
+Every second of the night I live another life
+These dreams that sleep when it's cold outside
+Every moment I'm awake the further I'm away
+
+Is it cloak 'n dagger
+Could it be spring or fall
+I walk without a cut
+Through a stained glass wall
+Weaker in my eyesight
+The candle in my grip
+And words that have no form
+Are falling from my lips
+
+These dreams go on when I close my eyes
+Every second of the night I live another life
+These dreams that sleep when it's cold outside
+Every moment I'm awake the further I'm away
+
+There's something out there
+I can't resist
+I need to hide away from the pain
+There's something out there
+I can't resist
+The sweetest song is silence
+That I've ever heard
+Funny how your feet
+In dreams never touch the earth
+In a wood full of princes
+Freedom is a kiss
+But the prince hides his face
+From dreams in the mist
+
+These dreams go on when I close my eyes
+Every second of the night I live another life
+These dreams that sleep when it's cold outside
+Every moment I'm awake the further I'm away
+
+These dreams go on when I close my eyes
+Every second of the night I live another life
+These dreams that sleep when it's cold outside
+Every moment I'm awake the further I'm away

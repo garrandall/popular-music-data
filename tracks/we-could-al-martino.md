@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-could-al-martino
+lyrics_url: https://genius.com/Al-martino-we-could-lyrics
 name: We Could
 rankings:
 - end_date: '1964-11-13'
@@ -31,4 +32,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
 ---
+If anyone could find the joy
+That true brings a girl and boy
+We could, (we could)
+We could, you and I
 
+If anyone could ever say
+That their true love
+Was here to stay
+We could, (we could)
+We could, you and I
+
+When you're in my arms, I know
+You're happy to be there
+And just as long as I'm with you
+I'm happy anywhere
+
+If anyone could pray each night
+To thank the Lord cause all is right
+We could, (we could)
+We could, you and I
+
+When you're in my arms, I know
+You're happy to be there
+And just as long as I'm with you
+I'm happy anywhere
+
+If anyone could pray each night
+To thank the Lord cause all is right
+We could, (we could)
+We could, you and I

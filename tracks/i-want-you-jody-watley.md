@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-you-jody-watley
+lyrics_url: https://genius.com/Jody-watley-i-want-you-lyrics
 name: I Want You
 rankings:
 - end_date: '1991-12-06'
@@ -67,4 +68,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-03-07'
 ---
+When the night falls, surrounds us gently
+With a sexy atmosphere
+We'll light some candles, play some music
+Ooh I just want feel that intimacy
 
+Nobody but you and I
+Loving and kissing so passionately
+Sharing our feelings, just caress my body
+Ooh baby let me whisper in your ear
+
+I want your love
+I'll have your love
+I need your love
+I want your love
+
+I want your love
+I'll have your love
+I need your love
+I want your love
+
+Turn the lights down low
+And baby come close
+I wanna give it to you
+Like you've never had it before
+
+Unplug the phone
+Don't disturb this groove
+I just want to concentrate on you
+
+Nobody but you and I
+Just loving and kissing
+So passionately
+Sharing our feelings
+Just caress my body
+Ooh baby let me whisper in your ear
+
+I want your love
+I'll have your love
+I need your love
+I want your love
+
+I want your love
+I'll have your love
+I need your love
+I want your love

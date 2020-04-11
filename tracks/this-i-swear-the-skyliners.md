@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-i-swear-the-skyliners
+lyrics_url: https://genius.com/The-skyliners-this-i-swear-lyrics
 name: This I Swear
 rankings:
 - end_date: '1959-06-07'
@@ -55,4 +56,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-08-17'
 ---
+This I swear is true
 
+My love for you will last
+Till time itself is through
+Oh, my darling, oh, my darling
+This I swear is true
+(Swear is true)
+
+My heart is yours my dear
+There will be no one new
+Oh, my darling, oh, my darling
+This I swear is true
+(Swear is true)
+
+I promise you that I
+Will never make you cry
+This love will be eternally
+Cross my heart and hope to die
+
+My lips will kiss I vow
+Nobody else but you
+Oh, my darling, oh, my darling
+This I swear is true
+(This I swear is true)
+
+This I swear is true
+This I swear is true
+This I swear is true
+
+This I swear is true
+This I swear is true
+This I swear is true
+This I swear is true
+Ooh

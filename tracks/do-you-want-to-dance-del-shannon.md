@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-you-want-to-dance-del-shannon
+lyrics_url: https://genius.com/Del-shannon-do-you-want-to-dance-lyrics
 name: Do You Want To Dance
 rankings:
 - end_date: '1964-09-25'
@@ -35,4 +36,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
 ---
+Do you wanna dance and hold my hand?
+Tell me that I'm your man
+Baby, do you wanna dance?
 
+Do you wanna dance under the moonlight?
+Squeeze and kiss me all through the night
+Baby, do you wanna dance?
+Do you wanna dance girl and hold my hand?
+Tell me that I'm your man
+Baby, do you wanna dance?
+Do you wanna dance under the moonlight?
+Love me girl all through the night
+Baby, do you wanna dance?
+
+
+Girl now do you do you do you do you wanna dance?
+Do you do you do you do you wanna dance?
+Do you do you wanna dance?
+
+
+Yes, do you wanna dance I mean under the moonlight?
+Squeeze and kiss me all through the night
+Baby, do you wanna dance?

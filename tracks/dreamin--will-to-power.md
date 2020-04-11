@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dreamin--will-to-power
+lyrics_url: https://genius.com/Will-to-power-dreamin-lyrics
 name: Dreamin'
 rankings:
 - end_date: '1987-07-03'
@@ -71,4 +72,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-10'
 ---
+Tell me that I'm dreamin'
+I'm dreamin'
+Don't you stop me from believin'
+I'm dreamin'
 
+You, you came into my life
+Without a reason why
+Why did you have to smile?
+Why did you have to touch my soul?
+
+It cries right out for you
+I love the little things you do
+My heart depends on you
+So say, you'll never leave me
+
+Tell me that I'm dreamin'
+I'm dreamin'
+Don't you stop me from believin'
+I'm dreamin'
+
+You, you walked out of my life
+We didn't even say goodbye
+I didn't even hear you cry
+I know how hard you tried
+
+'Cause your soul is still part of my dreams
+You'll never know what I mean
+I miss you but you'll never see
+You said you'd never leave me
+
+Tell me that I'm dreamin'
+I'm dreamin'
+Don't you stop me from believin'
+I'm dreamin'
+
+Stay with me, don't ever go away
+Being with you is a holiday
+If my dream should ever fade away
+You will still be here with me today
+
+Seems so far, but I don't know why
+Keep on pushin' up to the sky
+I'm dreamin', believin'
+Time is runnin', but I don't why
+Keep on pushin' up to the sky
+I'm dreamin', believin'
+
+I'm dreamin', believin'
+I'm dreamin', believin'
+
+You mean the world to me
+The time is right for you to see
+You mean the world to me
+The time is right for you to see
+
+You mean the world to me
+The time is right for you to see
+You mean the world to me
+The time is right for you to see
+
+Seems so far, but I don't know why
+Keep on pushin' up to the sky
+I'm dreamin', believin'
+Time is runnin', but I don't why
+Keep on pushin' up to the sky
+I'm dreamin', believin'
+
+I'm dreamin', believin'
+I'm dreamin'

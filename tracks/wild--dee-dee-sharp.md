@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wild--dee-dee-sharp
+lyrics_url: https://genius.com/Dee-dee-sharp-wild-lyrics
 name: Wild!
 rankings:
 - end_date: '1963-10-11'
@@ -43,4 +44,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-30'
 ---
+Baby, baby you're no good
+Never treat me like a lover should
+And I know in the end
+You're gonna leave me, my friend
+But I go on, oh, when you kiss me
+And I go on when you hug me
+You're gonna break my heart, I know
+And if I played it smart I'd go
+But I'm so wild, wild about you baby
 
+Baby, baby every day
+I take my mind up and away
+But I find love is blind
+One kiss and I change my mind
+Yes, I go wild, when you kiss me
+And I go wild, oh, when you hug me
+Because I love you so, I try
+But if you ever go I'd die
+But I'm so wild, wild about you baby
+Yay, yay, yay
+Oh, I'm oh, you drive me crazy
+Can't think of anything, I'm a wild

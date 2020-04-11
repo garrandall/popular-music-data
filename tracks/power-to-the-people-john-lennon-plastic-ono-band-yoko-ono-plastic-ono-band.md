@@ -1,9 +1,11 @@
 ---
 artists:
-- John Lennon/Plastic Ono Band Yoko Ono/Plastic Ono Band
+- John Lennon
+- Plastic Ono Band
 features: []
 genres: []
 key: power-to-the-people-john-lennon-plastic-ono-band-yoko-ono-plastic-ono-band
+lyrics_url: https://www.musixmatch.com/lyrics/John-Lennon-and-the-Plastic-Ono-Band-2/Power-to-the-People
 name: Power To The People
 rankings:
 - end_date: '1971-04-09'
@@ -43,4 +45,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-05-29'
 ---
+Power to the people
+Power to the people
+Power to the people
+Power to the people
+Power to the people
+Power to the people
+Power to the people
+Power to the people, right on
 
+Say you want a revolution
+We better get on right away
+Well you get on your feet
+And out on the street
+
+Singing power to the people
+Power to the people
+Power to the people
+Power to the people, right on
+
+A million workers working for nothing
+You better give em what they really own
+We got to put you down
+When we come into town
+
+Singing power to the people
+Power to the people
+Power to the people
+
+Power to the people, right on
+
+I gotta ask you comrades and brothers
+How do you treat you own woman back home
+She got to be herself
+So she can free herself
+
+Singing power to the people
+Power to the people
+Power to the people
+Power to the people, right on
+Now, now, now, now
+
+Oh well, power to the people
+Power to the people
+Power to the people
+Power to the people, right on
+
+Yeah, power to the people
+Power to the people
+Power to the people
+Power to the people, right on
+
+Power to the people
+Power to the people
+Power to the people
+Power to the people, right on

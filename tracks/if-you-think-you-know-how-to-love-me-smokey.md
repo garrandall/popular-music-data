@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-think-you-know-how-to-love-me-smokey
+lyrics_url: https://www.musixmatch.com/lyrics/Smokey/If-You-Think-You-Know-How-to-Love-Me
 name: If You Think You Know How To Love Me
 rankings:
 - end_date: '1975-08-01'
@@ -19,4 +20,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-09-13'
 ---
+A breathless drive on a downtown street,
+A motor-bike ride in the midday heat,
+The dust that hung from the desert skies,
+Run though we'd run it still burned our eyes,
 
+Oh yes we may walk on the wild wild side of life,
+And our movements traced by a stranger close by your side,
+And in the shadows of a promise you can take my hand,
+And show me a way to understand.
+
+So if you think you know how to love me,
+And you think you know what I need,
+And if you really really want me to stay,
+You've got to lead the way,
+Yes if you think you know how to love me,
+And you think you can stand by me,
+And if you really really want me to stay,
+You've got to lead the way.
+
+A reckless nite in a nameless town,
+Then we moved out of sight with a silent sound,
+A beach that wept with deserted waves,
+That's where we slept knowing we'd be safe,
+Now you may think you can walk on the wild, wild side with me,
+But there's a lot I can learn and a lot that I've yet to see,
+You know you've got my life lying in your hands,
+It's up to you to make me understand.
+
+So if you think you know how to love me,
+And you think you know what I need,
+And if you really really want me to stay,
+You've got to lead the way,
+
+Yes if you think you know how to love me,
+And you think you can stand by me,
+And if you really really want me to stay,
+You've got to lead the way.

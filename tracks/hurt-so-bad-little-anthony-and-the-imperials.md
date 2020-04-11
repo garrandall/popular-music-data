@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hurt-so-bad-little-anthony-and-the-imperials
+lyrics_url: https://genius.com/Little-anthony-and-the-imperials-hurt-so-bad-lyrics
 name: Hurt So Bad
 rankings:
 - end_date: '1965-02-12'
@@ -43,4 +44,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
 ---
+I know you
+Don't know what I'm goin' through
+Standing here
+Looking at you
 
+Well, let me tell you that it
+(Hurt) Hurts so bad (Hurts so bad)
+It makes me feel so sad (Hurts so bad)
+It makes me hurt so bad
+To see you again
+
+Like needles and pins, people say
+You've been making out okay
+She's in love, don't stand in her way
+
+But let me tell you that it
+(Hurt) Hurts so bad (Hurts so bad)
+It makes me feel so sad (Hurts so bad)
+It's gonna hurt so bad
+If you walk away
+
+Why don't you stay and let me make it up to you
+(Stay) I'll do anything you want me to
+You loved me before
+Please love me again
+I can't let you go back to him
+
+Please don't go, please don't go
+Ohhhh, hurts so bad
+Come back, it hurts so bad
+Don't make it hurt so bad
+I'm beggin' you please
+
+Please don't go, please don't go
+Ohhhh, hurts so bad
+Come back, it hurts so bad
+Don't make it hurt so bad
+I'm beggin' you please
+
+Please don't go, please don't go
+Ohhhh, hurts so bad
+Come back, it hurts so bad

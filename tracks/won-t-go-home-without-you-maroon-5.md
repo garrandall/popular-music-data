@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: won-t-go-home-without-you-maroon-5
+lyrics_url: https://genius.com/Maroon-5-wont-go-home-without-you-lyrics
 name: Won't Go Home Without You
 rankings:
 - end_date: '2008-01-04'
@@ -87,4 +88,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-05-10'
 ---
+I asked her to stay, but she wouldn't listen
+And she left before I had the chance to say
+Oh, oh
+Words that would mend the things that were broken
+But now it's far too late; she's gone away
 
+
+Every night you cry yourself to sleep
+Thinking, "Why does this happen to me?
+Why does every moment have to be so hard?"
+Hard to believe that
+
+
+It's not over tonight
+Just give me one more chance to make it right
+I may not make it through the night
+I won't go home without you
+
+
+The taste of her breath, I'll never get over
+The noises that she made, kept me awake
+Oh
+The weight of things that remained unspoken
+Built up so much it crushed us every day
+
+
+Every night you cry yourself to sleep
+Thinking, "Why does this happen to me?
+Why does every moment have to be so hard?"
+Hard to believe that
+
+
+It's not over tonight
+Just give me one more chance to make it right
+I may not make it through the night
+I won't go home without you
+Oh, oh, oh, oh
+It's not over tonight
+Just give me one more chance to make it right
+I may not make it through the night
+I won't go home without you
+Oh, oh, oh, oh
+
+
+Of all the things I felt but never really showed
+Perhaps the worst is that I ever let you go
+I should not ever let you go
+Oh, oh, oh, oh
+
+
+It's not over tonight
+Just give me one more chance to make it right
+I may not make it through the night
+I won't go home without you
+Oh, oh, oh, oh
+It's not over tonight
+Just give me one more chance to make it right
+I may not make it through the night
+I won't go home without you
+
+
+And I won't go home without you
+And I won't go home without you
+I won't go home without you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rain-dance-the-guess-who
+lyrics_url: https://genius.com/The-guess-who-rain-dance-lyrics
 name: Rain Dance
 rankings:
 - end_date: '1971-08-20'
@@ -55,4 +56,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
 ---
+Don't you wanna rain dance with me?
+Don't you wanna rain dance with me?
+Don't you wanna rain dance with me?
+Don't you wanna rain dance with me?
 
+
+Fifi said to Don the Baker
+"Can you show me how to bake another bun, Don?"
+And I'm still sitting with my next-door neighbor saying
+"Where'd you get the gun, John?"
+
+
+Don't you wanna rain dance with me?
+Don't you wanna rain dance with me?
+Don't you wanna rain dance with me?
+Don't you wanna rain dance with me?
+
+
+Christopher was asking the astronomer
+"Can your telescope tell me where the sun's gone?"
+And I'm still sitting with my next-door neighbor saying
+"Where'd you get the gun, John?"
+
+
+Don't you wanna rain dance with me?
+Don't you wanna rain dance with me?
+Don't you wanna rain dance with me?
+Don't you wanna rain dance with me?
+
+
+Changing just a few things
+Laughing while the bell rings on the door
+Changing just a few things
+Shooting when the bird sings
+
+
+Don't you wanna rain dance with me?
+Don't you wanna rain dance with me?
+Don't you wanna rain dance with me?
+Don't you wanna rain dance with me?

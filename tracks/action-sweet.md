@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: action-sweet
+lyrics_url: https://genius.com/Sweet-action-lyrics
 name: Action
 rankings:
 - end_date: '1976-02-20'
@@ -63,4 +64,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-15'
 ---
+So you think you'll take another piece of me
+To satisfy your intellectual need
+(Do you want?)
+Do you want action?
+(Action, action, action)
 
+Gonna bring you down
+'Cause you're pushin' me
+You gotta recognize my superiority
+
+(Liar, liar, liar, liar)
+You know you believed it!
+(Liar, liar, liar, liar)
+'Cause I'm the main man!
+And that's why
+
+Everybody wants a piece of the action!
+Everybody needs a main attraction!
+I got what everybody needs, satisfaction guaranteed!
+Everybody wants a piece of the action...
+
+Ooh, I was suicidal 'cause she was my idol
+Baby, baby, baby, bring it to your knees
+Now, there was a time I would have walked the line
+But you bled me dry
+With your insatiable greed
+
+(Liar, liar, liar, liar)
+You know you believed it
+(Liar, liar, liar, liar)
+'Cause I'm the main man
+And that's why
+
+Everybody wants a piece of the action
+Everybody needs a main attraction
+I got what everybody needs, satisfaction guaranteed
+Everybody wants a piece of the action
+
+Do you want action, action?
+Everybody wants, everybody needs
+Everybody wants, everybody needs
+
+Everybody wants a piece of the action
+Everybody needs a main attraction
+I got what everybody needs, satisfaction guaranteed
+Everybody wants a piece of the action, action, action

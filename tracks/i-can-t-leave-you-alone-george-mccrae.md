@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-leave-you-alone-george-mccrae
+lyrics_url: https://genius.com/George-mccrae-i-cant-leave-you-alone-lyrics
 name: I Can't Leave You Alone
 rankings:
 - end_date: '1974-10-18'
@@ -31,4 +32,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-16'
 ---
+Baby
+It happens when you're close to me
+My heart starts beating - hey - a strong beat
+Oh
+I can't leave you alone
+Can't leave you alone
+Oh
+I can't leave you alone
+Can't leave you alone
+That's why I keep holdin' on
+Keep holdin' on
+Keep holdin' on
+Keep holdin' on
 
+Oh Darling I can't resist your love no more
+'Cause darling
+I love you
+I love you much too much
+
+I can't leave you alone
+Can't leave you alone
+Oh
+I can't leave you alone
+Can't leave you alone
+That's why I keep holdin' on
+Keep holdin' on
+Keep holdin' on
+Keep holdin' on
+Keep holdin' on
+
+Oh
+I can't leave you alone
+Can't leave you alone
+...

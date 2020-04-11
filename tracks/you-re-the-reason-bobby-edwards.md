@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-the-reason-bobby-edwards
+lyrics_url: https://genius.com/Bobby-edwards-youre-the-reason-lyrics
 name: You're The Reason
 rankings:
 - end_date: '1961-09-03'
@@ -75,4 +76,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-12-18'
 ---
-
+(You're the reason I don't sleep at night)
+I just lay here at night
+Toss and I turn
+Loving you so
+How my heart yearns
+You're the reason I don't sleep at night (don't sleep at night)
+Walkin' the floor
+Feelin' so blue
+Smoke cigarettes
+Drink coffee too
+Honey, you're the reason I don't sleep at night (don't sleep at night)
+I'm bettin' you're not losin' sleep over me
+But if I'm wrong, don't fail to call
+Come over and keep me company (whoa, whoa, whoa)
+Sometimes I go for a walk
+Take a look at the moon
+Strum my guitar
+Sing a love tune
+A- honey, you're the reason I don't sleep at night (don't sleep at night)
+Walkin' the floor
+Feelin' so blue
+Smoke cigarettes
+Drink coffee too
+Strum my guitar
+Look at the moon
+Losin' sleep over you
+I'm bettin' you're not losin' sleep over me
+But if I'm wrong, don't fail to call
+Come over and keep me company (whoa, whoa, whoa)
+Sometimes I go for a walk
+Take a look at the moon
+Strum my guitar
+Sing a love tune
+A- honey, you're the reason I don't sleep at night (don't sleep at night)
+Walkin' the floor
+Feelin' so blue
+Smoke cigarettes
+Drink coffee too
+Strum my guitar
+Look at the moon
+Losin' sleep over you
+You're the reason
+You're the reason
+You're the reason
+I don't sleep at night

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: midnight-at-the-oasis-maria-muldaur
+lyrics_url: https://genius.com/Maria-muldaur-midnight-at-the-oasis-lyrics
 name: Midnight At The Oasis
 rankings:
 - end_date: '1974-03-01'
@@ -103,4 +104,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-08-03'
 ---
+Midnight at the oasis
+Send your camel to bed
+Shadows painting our faces
+Traces of romance in our heads
+Heaven's holding a half moon
+Shining just for us
+Let's slip off to
+A sand dune, real soon
+And kick up a little dust
 
+
+Come on, cactus is our friend
+He'll point out the way
+Come on, til the evening ends
+Til the evening ends
+
+
+You don't have to answer
+There's no need to speak
+I'll be your belly dancer, prancer
+And you can be my sheik
+
+
+
+
+I know your Daddy's a sultan
+A nomad known to all
+With fifty girls to attend him
+They all send him
+Jump at his beck and call
+
+But you won't need no harem, honey
+When I'm by your side
+And you won't need no camel, no no
+When I take you for a ride
+
+
+Come on, cactus is our friend
+He'll point out the way
+Come on, til the evening ends
+Til the evening ends
+
+
+Midnight at the oasis
+Send your camel to bed
+Got shadows painting our faces
+And traces of romance in our heads
+
+
+Oh come on, oh come on
+Woo hoo hoo, yeah, oh yeah

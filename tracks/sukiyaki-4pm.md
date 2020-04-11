@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sukiyaki-4pm
+lyrics_url: https://genius.com/4-pm-sukiyaki-lyrics
 name: Sukiyaki
 rankings:
 - end_date: '1994-09-23'
@@ -135,4 +136,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-04-22'
 ---
+It's all because of you, I'm feeling sad and blue
+You went away, now my life is just a rainy day
 
+And I love you so, how much you'll never know
+You've gone away and left me lonely
+
+Untouchable memories, seem to keep haunting me
+Of a love so true
+That it once turned all my gray skies blue
+
+But you disappeared
+Now my eyes are filled with tears
+And I'm wishing you were here with me
+
+Soaked with love are my thoughts of you
+Now that you're gone, I just don't know what to do
+
+If only you were here
+You'd wash away my tears
+The sun would shine and once again
+You'd be mine all mine
+
+But in reality, you and I will never be
+'Cause you took your love away from me
+
+Girl, I don't know what I did
+To make you leave me but what I do know
+Is that since you've been gone
+There's such an emptiness inside
+I'm wishing you'd come back to me
+
+If only you were here
+You'd wash away my tears
+The sun would shine and once again
+You'd be mine all mine
+
+But in reality, you and I will never be
+'Cause you took your love away from me
+
+Oh, baby, you took your love away from me

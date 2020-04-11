@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-love-you-back-easton-corbin
+lyrics_url: https://genius.com/Easton-corbin-i-cant-love-you-back-lyrics
 name: I Can't Love You Back
 rankings:
 - end_date: '2011-04-01'
@@ -51,4 +52,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
 ---
+I can love you in the mornin'
+I can love you all day
+I can love you even more when I get home
+I can love you every second
+To the ends of the earth
+Where needing you's the only thing that's on
+My broken one track mind
 
+
+Girl, I love you crazy
+It comes so easy, after all we had
+I could love you with all my heart
+But the hardest part is
+I just can't love you back
+
+
+I could write a thousand letters
+Call a hundred times a day
+Or try to drown my sorrow at the bar
+I could go down to the church
+Get on my knees and pray
+But it still won't change the way things really are
+Won't bring you back again
+
+
+Girl, I love you crazy
+It comes so easy, after all we had
+I could love you with all my heart
+But the hardest part is
+I just can't love you back
+
+
+I can love you for all I'm worth
+To the ends of the earth
+But I just can't love you back

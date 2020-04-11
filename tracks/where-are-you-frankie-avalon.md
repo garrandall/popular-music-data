@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-are-you-frankie-avalon
+lyrics_url: https://genius.com/Frankie-avalon-where-are-you-lyrics
 name: Where Are You
 rankings:
 - end_date: '1960-06-19'
@@ -55,4 +56,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-29'
 ---
+A starlit sky, a moon above
+The perfect night to share our love
+But darling, where are you
 
+A rendezvous just meant for two
+A time and place to say I do
+But darling, where are you
+
+Why can't this love of mine be seen?
+Or will she always be a dream
+And if someday, my dream comes true
+Will I have all these little things with you?
+
+Like wedding bells
+Bride and groom
+We'll have the perfect honeymoon
+But darling, where are you
+
+We'll have wedding bells
+Bride and groom
+We'll have the perfect honeymoon
+But darling, where are you

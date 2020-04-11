@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-with-the-proper-stranger-jack-jones
+lyrics_url: https://genius.com/Jack-jones-love-with-the-proper-stranger-lyrics
 name: Love With The Proper Stranger
 rankings:
 - end_date: '1964-02-21'
@@ -39,4 +40,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-04-04'
 ---
+I could fall in love with the proper stranger
+If I heard the bells and the banjos ring
+If two certain eyes with the look of danger
+Smiled a welcome warm as spring
 
+If the beating in my heart
+Sounded out a warning
+Don't let her
+Don't let her walk through the door
+This is the one you've been waiting for
+Oh, yes, I'd know
+However wild it seems
+You know I'd know
+
+And I'd whisper
+Come take my hand, proper stranger
+Don't go through life as a stranger
+For I'm a poor proper stranger, too
+
+Don't let her
+Don't let her walk through the door
+This is the one you've been waiting for
+Oh, yes, I'd know
+However wild it seems
+You know I'd know
+
+And I'd whisper
+Come take my hand, proper stranger
+Don't go through life as a stranger
+For I'm a poor proper stranger, too

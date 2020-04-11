@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: say-it-right-nelly-furtado
+lyrics_url: https://genius.com/Nelly-furtado-say-it-right-lyrics
 name: Say It Right
 rankings:
 - end_date: '2006-12-01'
@@ -127,4 +128,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-06-16'
 ---
+Frk-frk-down
+Hey
+You don't mean nothin' at all to me
+Hey, hey
 
+
+In the day, in the night
+Say it right, say it all
+You either got it, or you don't
+You either stand, or you fall
+When your will is broken
+When it slips from your hand
+When there's no time for jokin'
+There's a hole in the plan
+
+
+Oh, you don't mean nothing at all to me (Hey, oh, oh, hey)
+No, you don't mean nothing at all to me (Hey, oh, oh, hey)
+But you got what it takes to set me free (Hey, oh, oh, hey)
+Oh, you could mean everything to me (Hey, oh, oh, hey)
+
+
+I can't say (Say) that I'm not (Not)
+Lost (Lost) and at fault (Fault)
+I can't say (Say) that I don't (Don't)
+Love the light (Love) and the dark
+I can't say that I don't (Don't)
+Know that I am alive
+And all of what I feel (Feel)
+I could show (Show) you tonight, you tonight
+
+
+Oh, you don't mean nothing at all to me (Hey, oh, oh, hey)
+No, you don't mean nothing at all to me (Hey, oh, oh, hey)
+But you got what it takes to set me free (Hey, oh, oh, hey)
+Oh, you could mean everything to me (Hey, oh, oh, hey)
+
+
+From my hands I could give you
+Something that I made
+From my mouth, I could sing you another brick that I laid
+From my body, I could show you a place God knows
+You should know the space is holy
+Do you really wanna go?
+(Three, four)
+
+
+Hey, hey, hey
+You don't mean nothin' at all to me
+Hey, hey
+Hey, hey, hey
+You don't mean nothin' at all to me
+Hey, hey

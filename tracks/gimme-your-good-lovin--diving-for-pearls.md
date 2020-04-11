@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gimme-your-good-lovin--diving-for-pearls
+lyrics_url: https://genius.com/Diving-for-pearls-gimme-your-good-lovin-lyrics
 name: Gimme Your Good Lovin'
 rankings:
 - end_date: '1989-12-15'
@@ -31,4 +32,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-01-13'
 ---
+I'm in love and I'm in deep
+When my hands start to shiver
+My knees get weak, I can't eat and I can't sleep
+Just a kiss from you, baby, is all I need
 
+Anyway, you want it
+That's the way you'll get it
+Anyway, you want it to be
+Anyway, you want it
+
+That's the way you'll get it
+Anyway, you want it
+Just gimme, gimme your good loving
+Gimme, gimme your good love
+
+All I want, you're all I need
+Now I'll do anything, just to make you see
+Now I know, and it's for sure
+Baby, I got the fever, you've got the cure
+
+Anyway, you want it
+That's the way you'll get it
+Anyway, you want it to be
+Anyway, you want it
+
+That's the way you'll get it
+Anyway, you want it
+Just gimme, gimme your good loving
+Gimme, gimme your good love
+
+Gimme, gimme your good loving
+Gimme your good loving
+Gimme, gimme your good love
+Gimme your good love
+
+Gimme, gimme your good loving
+Gimme your good loving
+Gimme, gimme your good love
+Gimme your good love
+
+Gimme, gimme your good loving
+Gimme your good loving
+Gimme, gimme your good love
+Gimme your good love

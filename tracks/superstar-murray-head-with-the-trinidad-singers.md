@@ -1,9 +1,11 @@
 ---
 artists:
-- Murray Head With The Trinidad Singers
-features: []
+- Murray Head
+features:
+- The Trinidad Singers
 genres: []
 key: superstar-murray-head-with-the-trinidad-singers
+lyrics_url: https://www.musixmatch.com/lyrics/Murray-Head-The-Trinidad-Singers/Superstar
 name: Superstar
 rankings:
 - end_date: '1970-02-06'
@@ -131,4 +133,91 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-26'
 ---
+Every time I look at you
+I don't understand
+Why you let the things you did
+Get so out of hand
+You'd have managed better
+If you'd had it planned
+Now why'd you choose such a backward time
+And such a strange land?
 
+If you'd come today
+You could have reached the whole nation
+Israel in 4 BC had no mass communication
+(Don't you get me wrong)
+Don't you get me wrong
+(Don't you get me wrong, now)
+Don't you get me wrong
+(Don't you get me wrong)
+Don't you get me wrong
+(Don't you get me wrong, now)
+Don't you get me wrong
+
+(Only want to know)
+Only want to know
+(Only want to know, now)
+Only want to know
+(Only want to know)
+Only want to know
+(Only want to know, now)
+Only want to know
+
+Jesus Christ
+Jesus Christ
+Who are you? What have you sacrificed?
+Jesus Christ
+Jesus Christ
+Who are you? What have you sacrificed?
+Jesus Christ
+Superstar
+Do you think you're what they say you are?
+Jesus Christ
+Superstar
+Do you think you're what they say you are?
+Tell me what you think
+About your friends at the top
+Now who d'you think besides yourself
+Was the pick of the crop?
+Buddah was he where it's at?
+Is he where you are?
+Could Muhammmed move a mountain
+Or was that just PR?
+Did you mean to die like that?
+Was that a mistake or
+Did you know your messy death
+Would be a record breaker?
+(Don't you get me wrong) Don't you get me wrong
+(Don't you get me wrong, now) Don't you get me wrong
+(Don't you get me wrong) Don't you get me wrong
+(Don't you get me wrong, now) Don't you get me wrong
+(Only want to know) Only want to know
+(Only want to know, now) Only want to know
+(Only want to know) Only want to know
+(Only want to know, now) I only want to know
+
+Jesus Christ
+Jesus Christ
+Who are you? What have you sacrificed?
+Jesus Christ
+Jesus Christ
+Who are you? What have you sacrificed?
+Jesus Christ
+Superstar
+Do you think you're what they say you are?
+Jesus Christ
+Superstar
+Do you think you're what they say you are?
+
+Jesus Christ
+Jesus Christ
+Who are you? What have you sacrificed?
+Jesus Christ
+Jesus Christ
+Who are you? What have you sacrificed?
+Jesus Christ
+Superstar
+Do you think you're what they say you are?
+Jesus Christ
+Superstar
+Do you think you're what they say you are?

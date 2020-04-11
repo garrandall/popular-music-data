@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stacy-s-mom-fountains-of-wayne
+lyrics_url: https://genius.com/Fountains-of-wayne-stacys-mom-lyrics
 name: Stacy's Mom
 rankings:
 - end_date: '2003-10-17'
@@ -75,4 +76,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-01-31'
 ---
+Stacy's mom has got it goin' on
+Stacy's mom has got it goin' on
+Stacy's mom has got it goin' on
+Stacy's mom has got it goin' on
 
+
+Stacy, can I come over after school? (After school)
+We can hang around by the pool (Hang by the pool)
+Did your mom get back from her business trip? (Business trip)
+Is she there, or is she trying to give me the slip? (Give me the slip)
+
+
+You know, I'm not the little boy that I used to be
+I'm all grown up now, baby, can't you see?
+
+
+Stacy's mom has got it going on
+She's all I want and I've waited for so long
+Stacy, can't you see? You're just not the girl for me
+I know it might be wrong, but I'm in love with Stacy's mom
+Stacy's mom has got it goin' on
+Stacy's mom has got it goin' on
+
+
+Stacy, do you remember when I mowed your lawn? (Mowed your lawn)
+Your mom came out with just a towel on (Towel on)
+I could tell she liked me from the way she stared (Way she stared)
+And the way she said, "You missed a spot over there" (Spot over there)
+
+
+And I know that you think it's just a fantasy
+But since your dad walked out, your mom could use a guy like me
+
+
+Stacy's mom has got it going on
+She's all I want and I've waited for so long
+Stacy, can't you see? You're just not the girl for me
+I know it might be wrong, but I'm in love with Stacy's mom
+
+
+
+
+Stacy's mom has got it goin' on (She's got it goin' on)
+She's all I want and I've waited for so long (Waited and waited)
+Stacy, can't you see? You're just not the girl for me
+I know it might be wrong, I'm in love with...
+
+
+Stacy's mom, ah-oh-ah-oh (I'm in love with-)
+Stacy's mom, ah-oh-ah-oh (Wait a minute)
+Stacy, can't you see? You're just not the girl for me
+I know it might be wrong but, I'm in love with Stacy's mom

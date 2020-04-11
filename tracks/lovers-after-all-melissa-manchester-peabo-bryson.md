@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: lovers-after-all-melissa-manchester-peabo-bryson
+lyrics_url: https://genius.com/Melissa-manchester-lovers-after-all-lyrics
 name: Lovers After All
 rankings:
 - end_date: '1981-03-06'
@@ -44,4 +45,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-04-25'
 ---
+When I look deep into your eyes
+That's when I know I'm living
 
+
+For every moment of our lives
+We should be forgiven, oh
+
+
+We'll hold each other when we cry
+Even if we fall
+Somehow, we'll be lovers after all
+
+
+In time we'll learn to understand
+The meaning of together, my love
+
+
+If we keep walking hand in hand
+Then nothing else will matter
+
+
+There will be no need to hide
+Feelings that we keep inside
+We'll hold each other when we cry
+Even if we fall
+Somehow, we'll be lovers after all
+Oooooh, ooh
+
+We'll hold each other when we cry
+Even if we fall
+Somehow we'll be lovers after all, ooooh
+
+Lovers, lovers after all
+We're still lovers
+Lovers, lovers after all

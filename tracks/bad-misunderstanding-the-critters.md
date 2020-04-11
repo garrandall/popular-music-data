@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bad-misunderstanding-the-critters
+lyrics_url: https://www.musixmatch.com/lyrics/The-Critters/Bad-Misunderstanding
 name: Bad Misunderstanding
 rankings:
 - end_date: '1966-12-09'
@@ -31,4 +32,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-07'
 ---
+It just flew right by your head
+Each move I made, each word I said
+You've got everything all wrong
+For I am right to love you so strong
 
+
+What a bad misunderstanding
+The trip was wild
+But now we're landing
+
+We got close but not inside
+You have your youth
+I have my pride
+
+Now all's forgotten for a dime
+I would explain
+But why waste the time

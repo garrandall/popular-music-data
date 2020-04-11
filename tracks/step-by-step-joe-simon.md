@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: step-by-step-joe-simon
+lyrics_url: https://www.musixmatch.com/lyrics/Joe-Simon/Step-by-Step
 name: Step By Step
 rankings:
 - end_date: '1973-02-23'
@@ -55,4 +56,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-05-05'
 ---
-
+Oh yeah Step by step
+I've got to get close to you
+Step by step
+I've got to get to know you - oh yeah You came into my life, my gods have the rain falling from above *And I knew when I first saw you
+You were the one for me to love
+But as sudden as you came, oh, you vanished into the night - yeah
+I knew my life wouldn't be complete
+Oh, without you to hold me tight Step by step
+I've got to get close to you
+Step by step
+I've got to get to know you My friends all tell me
+Tell me you're a woman of the street
+Oh, but to me, baby, you're all my eyes can ever see
+If we had one night together
+I'll make you understand
+That I need your love, baby
+And I surely wanna be your man
+Let me tell you, honey Step by step
+I've got to get close to you
+Step by step
+Oh, I've got to get to know you - oh yeah Oh yeah - oh yeah Step by step ...

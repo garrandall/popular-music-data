@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-mr-sun-tommy-edwards
+lyrics_url: https://genius.com/Tommy-edwards-please-mr-sun-lyrics
 name: Please Mr Sun
 rankings:
 - end_date: '1959-02-22'
@@ -59,4 +60,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-05-11'
 ---
+Talk to her please, Mr. Sun
+Speak to her, Mr. Rainbow
+And take her under
+Your branches, Mr. Tree
 
+Whisper to her, Mr. Wind
+Sing to her, Mr. Robin
+And Mrs. Moonlight
+Put in a word for me
+
+Tell her how I feel
+It shouldn't end this way
+Since you are all her friends
+She'll listen to whatever
+
+Babble to her, Mr. Brook
+Kiss her for me, Miss Raindrop
+And watch to see they all do
+Please, Mr. Sun
+
+Babble to her, Mr. Brook
+Kiss her for me, Miss Raindrop
+And watch to see they all do
+Please, Mr. Sun

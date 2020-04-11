@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-be-good-to-you-carla-thomas
+lyrics_url: https://www.musixmatch.com/lyrics/Otis-Redding-feat-Carla-Thomas/Let-Me-Be-Good-to-You-2
 name: Let Me Be Good To You
 rankings:
 - end_date: '1966-05-06'
@@ -31,4 +32,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-06-04'
 ---
+Baby, let me be good to you
+I'll do anything you want me to
 
+Your love has brought me around
+Every time I was feeling down
+And I'm so glad you gave everything you had
+Now it's my turn
+
+Baby, let me be good to you
+
+Now sit in your easy chair
+What you want, I'll bring it there
+Even good can be better
+Here's my love on a silver platter take it all
+
+Baby, let me be good to you
+
+Here it is, take it all
+Don't be shy you need no alibi
+I wanna do it
+
+Baby, let me be good to you
+
+Here's my love, take it all
+Don't be shy you need no alibi
+I wanna do it
+
+Baby, let me, oh, I wanna be good to you
+Baby, let me I wanna be good to you
+Baby, baby, let me be good to you
+Oh, I wanna be so good
+
+Ooh, baby, baby please let me be good to you
+Oh, I wanna be so good
+Oh, baby, oh, baby I wanna be good to you

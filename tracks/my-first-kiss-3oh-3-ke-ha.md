@@ -2,7 +2,7 @@
 artists:
 - 3OH!3
 features:
-- Ke$ha
+- Kesha
 genres: []
 key: my-first-kiss-3oh-3-ke-ha
 lyrics_url: https://www.azlyrics.com/lyrics/3oh3/myfirstkiss.html

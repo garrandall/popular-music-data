@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shame-shame-magic-lanterns
+lyrics_url: https://www.musixmatch.com/lyrics/Magic-Lanterns/Shame-Shame
 name: Shame Shame
 rankings:
 - end_date: '1968-11-01'
@@ -55,4 +56,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
 ---
+Love, was the game
+Fool, was my name
+I thought you'd know wrong from right
+But you ran to his arms tonight
 
+Shame, shame
+We had a good thing, baby
+Shame, shame
+He doesn't love you, baby
+Shame, shame
+He'll only break your heart
+And leave you standing out in the rain
+Shame, shame
+
+I was your clown
+But he'd be around
+You call him up on your stage
+But he's acting out every page
+
+Shame, shame
+We had a good thing, baby
+Shame, shame
+He doesn't love you, baby
+Shame, shame
+He'll only break your heart
+And leave you standing out in the rain
+Shame, shame
+
+I thought you'd know wrong from right
+But you ran to his arms tonight
+
+Shame, shame
+We had a good thing, baby
+Shame, shame
+He doesn't love you, baby
+Shame, shame
+He'll only break your heart
+And leave you standing out in the rain
+Shame, shame
+
+Hey!
+
+Shame, shame
+We had a good thing, baby
+Shame, shame
+He doesn't love you, baby
+Shame, shame
+He'll only break your heart
+And leave you standing out in the rain
+Shame, shame

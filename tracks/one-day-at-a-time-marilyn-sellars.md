@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-day-at-a-time-marilyn-sellars
+lyrics_url: https://genius.com/Marilyn-sellars-one-day-at-a-time-lyrics
 name: One Day At A Time
 rankings:
 - end_date: '1974-08-30'
@@ -47,4 +48,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-10-26'
 ---
+I'm only human, I'm just a man
+Help me believe in what I could be and all that I am
+Show me the stairway
+I have to climb
+Lord for my sake
+Teach me to take
+One day at a time
 
+One day at a time, sweet Jesus
+That's all I'm asking from you
+Give me the strength to do everything that I have to do
+Yesterday's gone sweet Jesus
+And tomorrow may never be mine
+Help me today
+Show me the way
+One day at a time
+
+Could you remember
+When you walked among men
+Jesus, you know when you're looking below
+It's worse now than then
+Pushin' and shovin' crowd in your mind
+Lord for my sake
+Teach me to take
+One day at a time

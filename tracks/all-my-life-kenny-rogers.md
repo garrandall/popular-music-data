@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-my-life-kenny-rogers
+lyrics_url: https://genius.com/Kenny-rogers-all-my-life-lyrics
 name: All My Life
 rankings:
 - end_date: '1983-05-06'
@@ -51,4 +52,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-07-09'
 ---
+Are you sure I
+Haven't loved you somewhere before
+In another time, another place
+On some distant shore?
 
+You know me so well
+Better than I know myself
+
+And you loved me tonight (tonight)
+Like you loved me all my life
+All my life
+
+And with the touch of your hand
+You took me farther than I've never been
+You love me like
+You've loved me all my life
+
+Love like we made
+Could have taken a lifetime to find
+But you found the way
+To my heart in a moment of time
+
+You know how to care
+Just like you've always been there
+(Just like you've always been there)
+Just like you've always been there
+
+And you loved me tonight (tonight)
+Like you loved me all my life
+All my life
+
+And with the touch of your hand
+You took me farther than I've never been
+You love me like
+You've loved me all my life
+
+With the touch of your hand
+You took me farther than I've never been
+You love me like
+You've loved me all my life
+
+You love me like
+You've loved me all my life

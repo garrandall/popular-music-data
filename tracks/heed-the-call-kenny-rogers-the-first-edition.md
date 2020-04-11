@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: heed-the-call-kenny-rogers-the-first-edition
+lyrics_url: https://genius.com/Kenny-rogers-and-the-first-edition-heed-the-call-lyrics
 name: Heed The Call
 rankings:
 - end_date: '1970-10-23'
@@ -48,4 +49,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-12-19'
 ---
+Have you been listening, (Listen to the music)
+Have you been sleeping (The sermon's in the music)
+(The man standing next to you, he must surely be your brother)
 
+(So brother please) heed the call
+
+(The piper he's still piping)
+The magic in the music
+(The drummer he's still drumming)
+The message in the music
+(Sweet song of loving you should be singing)
+(So brother please) heed the call
+
+Listen to the music, Listen to the music
+(Listen to the music) heed the call
+(Listen to the music) heed the call
+
+Heed the call of the music
+Heed the call of the music
+Heed the call of the music
+Heed the call of the music
+
+(It's still early in our morning)
+There's still time for singing
+Let's not waste our morning
+Join in the singing
+The outlaw of the midnight
+He all too soon comes winging
+
+(So brother please, please) heed the call
+
+(Listen to the music) (Listen to the music) yeah
+(Listen to the music) (Listen to the music) oh oh
+(Listen to the music) oh oh oh (Listen to the music)
+(Listen to the music)

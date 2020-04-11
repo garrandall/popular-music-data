@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: diamond-rings-and-old-barstools-tim-mcgraw-with-catherine-dunn
+lyrics_url: https://www.musixmatch.com/lyrics/Tim-McGraw-with-Catherine-Dunn/Diamond-Rings-and-Old-Barstools
 name: Diamond Rings And Old Barstools
 rankings:
 - end_date: '2015-04-03'
@@ -75,4 +76,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-07-25'
 ---
+Diamond rings and old barstools
+One's for queens and one's for fools
+One's the future and one's the past
+One's forever and one won't last
 
+It ain't like midnight and cigarette smoke
+It ain't like watered down whiskey and coke
+I guess some things just don't mix like you hoped
+Like me and you
+And diamond rings and old barstools
+
+The wrongs and rights, the highs and lows
+The "I love you's," the "I told you so's"
+Past few miles to wherever's home
+Another morning waking up alone
+
+We ain't like midnight and cigarette smoke
+Nothing like watered down whiskey and coke
+I guess some things just don't mix like you hoped
+Like me and you
+And diamond rings and old barstools

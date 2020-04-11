@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crackin-up-bo-diddley
+lyrics_url: https://genius.com/Bo-diddley-crackin-up-lyrics
 name: Crackin Up
 rankings:
 - end_date: '1959-07-12'
@@ -27,4 +28,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-08-03'
 ---
+You always holling about wherever I been
+You always screaming about the money I spend
+What's bugging you?
+(Yeah, yeah, you're cracking up)
 
+
+I do your laundry and your cooking, too
+What for a woman, can I man like me do?
+You're bugging me
+(Yeah, yeah, you're cracking up)
+
+
+I spoiled you woman a long time a go
+I used to cook your meals and bring to your door
+I'm all fed up
+(Yeah, yeah, you bugging me)

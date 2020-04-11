@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-make-me-over-sybil
+lyrics_url: https://genius.com/Sybil-dont-make-me-over-lyrics
 name: Don't Make Me Over
 rankings:
 - end_date: '1989-09-29'
@@ -99,4 +100,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-02-24'
 ---
+I need you
+I need You
+Don't, Don't, Don't
+Don't Make me
+Don't, Don't, Don't
+Don't Make me
+Don't, Don't, Don't
+Don't Make me
+Don't, Don't, Don't
+Don't Make me
 
+Don't make me over
+Now that you know how I adore you
+
+Don't make me over
+Now that I'd do anything for you
+Don't make me over
+Now that you know how I adore you
+
+Don't pick on the things I say, the things I do
+Just love me with all my faults, the way I love you
+I'm begging you
+
+Don't make me over
+Now that I can't make it without you
+(I need you so)
+Don't make me over
+(Can't you do me)
+I wouldn't change one thing about you
+
+Just take me inside your arms, and hold me tight
+I'll always be by your side, when if you wrong or right
+I'm begging you
+
+Don't make me over
+(Don't make me over)
+Now that I'd do anything for you
+(I love so)
+Don't make me over
+Don't change, don't change
+Don't change
+Now that you know how I adore you
+Don't make me over
+Don't make me over
+Now that you've got me at your command
+
+Accept me for what I am
+Accept me for the things that I do
+Accept me for what I am
+Accept me for the things that I do
+
+Don't make me over

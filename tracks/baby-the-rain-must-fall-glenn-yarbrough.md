@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-the-rain-must-fall-glenn-yarbrough
+lyrics_url: https://genius.com/Glenn-yarbrough-baby-the-rain-must-fall-lyrics
 name: Baby The Rain Must Fall
 rankings:
 - end_date: '1965-03-19'
@@ -63,4 +64,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-12'
 ---
-
+Some men climb a mountain
+Some men swim the sea
+Some men fly above the sky:
+They are what they must be
+But, baby the rain must fall
+Baby, the wind must blow
+Wherever my heart leads me
+Baby, I must go, baby I must go
+I do not love for silver
+I do not love for gold
+My heart is mine to give away
+It never will be sold
+So, baby the rain must fall
+Baby, the wind must blow
+Wherever my heart leads me
+Baby I must go, baby I must go
+I am not rich or famous:
+But who can ever tell?
+I don't know now what waits for me
+Maybe heaven, maybe hell
+Baby, the rain must fall
+Baby, the wind must blow
+Wherever my heart leads me
+Baby I must go, baby I must go

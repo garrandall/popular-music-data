@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: almost-saturday-night-dave-edmunds
+lyrics_url: https://genius.com/Dave-edmunds-almost-saturday-night-lyrics
 name: Almost Saturday Night
 rankings:
 - end_date: '1981-05-15'
@@ -39,4 +40,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-06-27'
 ---
+Outside my window
+I can hear the radio
+And I know that motor wagon is ready to fly
+'Cause it's almost Saturday night
 
+Bye bye tomorrow
+Jody's gone to the rodeo
+And you know some good old boys getting ready to ride
+'Cause it's almost Saturday night
+
+Gonna push all the clouds away
+Let the music have its way
+Let it steal my heart away
+And you know I'm goin'
+
+Outside, they're ringing
+The night train is bringin' me home
+When you hear that locomotion, get ready to ride
+'Cause it's almost Saturday night
+
+Gonna push all the clouds away
+Let the music have its way
+Let it steal my heart away
+'Cause you know I'm goin'
+
+Outside, they're ringin'
+The night train is bringin' me home
+When you hear that locomotion, get ready to ride
+'Cause it's almost Saturday night
+
+(Outside my window, outside)
+It's almost Saturday night
+(Outside, they're ringing, outside)
+'Cause it's almost Saturday night
+(Outside my window, outside)
+Yeah, it's almost Saturday night

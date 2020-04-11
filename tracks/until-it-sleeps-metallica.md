@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: until-it-sleeps-metallica
+lyrics_url: https://genius.com/Metallica-until-it-sleeps-lyrics
 name: Until It Sleeps
 rankings:
 - end_date: '1996-06-14'
@@ -87,4 +88,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-10-19'
 ---
+Where do I take this pain of mine
+I run but it stays right by my side
 
+
+So tear me open and pour me out
+There's things inside that scream and shout
+And the pain still hates me
+So hold me until it sleeps
+
+
+Just like the curse, just like the stray
+You feed it once and now it stays
+Now, it stays
+
+
+So tear me open but beware
+There's things inside without a care
+And the dirt still stains me
+So wash me until I'm clean
+
+
+It grips you so hold me
+It stains you so hold me (yeah)
+It hates you so hold me (yeah)
+It holds you so hold me
+Until it sleeps (Until it sleeps)
+Until it sleeps
+
+
+So tell me why you've chosen me
+Don't want your grip, don't want your greed
+Don't want it
+
+
+I'll tear me open, make you gone
+No more can you hurt anyone
+And the fear still shakes me
+So hold me, until it sleeps
+
+
+It grips you so hold me
+It stains you so hold me
+It hates you so hold me (yeah)
+It holds you
+Holds you, holds you
+Until it sleeps (Until it sleeps)
+Until it sleeps (Until it sleeps, until it sleeps)
+
+
+I don't want it, I don't want it
+Want it, want it, want it, want it, no, woah-woah
+
+
+So tear me open but beware
+There's things inside without a care
+And the dirt still stains me
+So wash me 'til I'm clean
+
+
+I'll tear me open, make you gone
+No longer will you hurt anyone
+And the hate still shapes me
+So hold me until it sleeps
+
+
+Until it sleeps, until it sleeps
+Until it sleeps, until it sleeps

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-is-it-scotty-mccreery
+lyrics_url: https://genius.com/Scotty-mccreery-this-is-it-lyrics
 name: This Is It
 rankings:
 - end_date: '2018-12-28'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-05-04'
 ---
+Way up in the mountains, four thousand feet high
+There's a trail through the trees to a cliff where Carolina meets the sky
+Oh, and there's a view I just can't describe
+No, we're not there yet, just a few more steps, baby wait
+Okay, you can open your eyes
 
+
+This is it, this is now, this is what I've been talking 'bout
+Looking out, can't you see forever?
+Take my hand, just take it in
+This is a moment we won't forget
+On top of the world, here, together
+If there ever was a time for a perfect kiss, this is it
+
+
+Girl, I know that you've been waiting and talking to your friends
+Wondering if and wondering where and wondering when
+Well, I've been waiting too, holding on to this ring
+For the right words to say, for the right time and place, for me to get on one knee
+
+
+This is it, this is now, this is what I've been talking 'bout
+Looking out, can't you see forever?
+Take my hand, just take it in
+This is a moment we won't forget
+On top of the world here together
+If there ever was a time for a perfect kiss, well this is it
+This is it
+
+
+Now you're walking down the aisle
+And I can't help but smile
+
+
+This is it, this is now, it's what I've been talking 'bout
+Looking out, I can see forever
+So take my hand, just take it in (Take it in)
+This is a moment we won't forget (Won't forget)
+On top of the world, here, together
+Surrounded by our family and our friends
+If there ever was a time for a perfect kiss
+This is it
+Yeah, this is it

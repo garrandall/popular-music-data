@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -say--you-re-my-girl-roy-orbison
+lyrics_url: https://genius.com/Roy-orbison-youre-my-girl-lyrics
 name: (Say) You're My Girl
 rankings:
 - end_date: '1965-07-16'
@@ -35,4 +36,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-08-21'
 ---
-
+Hello, may I have this dance with you?
+How have you been, girl?
+Hold me, and then girl
+Just let me look at you
+Tell me, now, is it true?
+Oh, did you break up?
+No chance to make up
+I hate to take up all your time
+But tell me
+Oh, no it won

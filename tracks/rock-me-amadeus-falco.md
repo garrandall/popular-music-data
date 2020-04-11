@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-me-amadeus-falco
+lyrics_url: https://genius.com/Falco-and-sun-diego-rock-me-amadeus-lyrics
 name: Rock Me Amadeus
 rankings:
 - end_date: '1986-02-14'
@@ -75,4 +76,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-31'
 ---
+Yeah!
 
+
+Osnabrück 49 ist Feuerhölle, ey
+Yeah, ein Jude macht jetzt neue deutsche Welle, ey
+Yeah, rappe, weil ich hasse, wie sie rappen, yeah (hey)
+Trappe, weil ich hasse, wie sie trappen, yeah (wouh)
+BBM-Kartell, bleibe die Number One
+Ich filterte die Szene, denn alle Rapper sind Sons von Sun
+Ein Yahudi mit Araber im Rücken wie Dromedar
+Ich verbrenne das Weed wie ein Holländer, yeah, yeah, ey
+Hitte Jaro, blow' den Nebel aus dem Lambo
+Hasse dieses Leben, so wie Falco
+Will mein Requiem erschaffen, Amadeus
+Und alles ruft noch heute, „Come and rock me, Sunny Diego!“, do it
+
+
+Amadeus, Amadeus
+Ich gab mein Leben weg für PR
+Irgendwann, wenn Gott will, GT-R
+Yeah, yeah, yeah
+Amadeus, Amadeus
+Yayo und Weed die einzigen Bros
+Seele ist Minus, Konto Mios
+Yeah, yeah, yeah
+
+
+Amadeus, Amadeus
+Amadeus, Amadeus
+
+
+Er war ein Punker und er lebte in der großen Stadt
+Es war in Wien, war Vienna, wo er alles tat
+Er hatte Schulden, denn er trank, doch ihn liebten alle Frau'n
+Und jede rief: „Now, come and rock me Amadeus!“
+Er war Superstar, er war populär
+Er war so exaltiert, because er hatte Flair
+Er war ein Virtuose, war 'n Rockidol
+Und alles rief: „Now, come and rock me Amadeus!“
+
+
+Amadeus, Amadeus
+Ich gab mein Leben weg für PR
+Irgendwann, wenn Gott will, GT-R
+Yeah, yeah, yeah
+Amadeus, Amadeus
+Yayo und Weed die einzigen Bros
+Seele ist Minus, Konto Mios
+Yeah, yeah, yeah
+
+
+Amadeus, Amadeus
+Amadeus, Amadeus
+
+
+Amadeus, Amadeus
+Ich gab mein Leben weg für PR
+Irgendwann, wenn Gott will, GT-R
+Yeah, yeah, yeah
+Amadeus, Amadeus
+Yayo und Weed die einzigen Bros
+Seele ist Minus, Konto Mios
+Yeah, yeah, yeah

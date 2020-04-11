@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: recovery-fontella-bass
+lyrics_url: https://genius.com/Fontella-bass-recovery-lyrics
 name: Recovery
 rankings:
 - end_date: '1965-12-31'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
 ---
+Ooh baby, recovery
+I'm falling again happiness is in my heart, yeah
+Though you misuse me, and false accuse me
+I've gotten to understand
+You treated me like a heart that was used
+But I've gotten over you
+My heart is free it's my recovery
+I'm feeling better
 
+I feel good inside the heartache and pain have gone, yeah
+You want my love, but next time you come along, yeah
+You treated me like a heart that was used
+But I've gotten over you
+My heart is free it's my recovery
+I'm feeling better. (Recovery)
+So much better
+
+I've got peace of mind this heartache I've left behind, yeah
+(Left behind, yeah)
+And now I'm laughing and you'll never catch me crying, yeah
+You treated me like a heart that was used
+But I've gotten over you
+My heart is free it's my recovery
+I'm feeling better. (Recovery)
+So much better
+
+Recovery, my heart is free
+Feeling better (feeling better)
+So much better (so much better)
+Feeling better (feeling better)
+I feel, I feel...
+Mmm mmm hmm (Mmm mmm hmm)
+Mmm mmm hmm (Mmm mmm hmm)
+Hmm hmm (Hmm hmm)
+Mmm hmm hmm hmm (Mmm hmm hmm hmm)
+
+Submitted by Michael Hack

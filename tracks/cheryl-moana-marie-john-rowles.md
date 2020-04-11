@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cheryl-moana-marie-john-rowles
+lyrics_url: https://genius.com/John-rowles-cheryl-moana-marie-lyrics
 name: Cheryl Moana Marie
 rankings:
 - end_date: '1971-01-08'
@@ -39,4 +40,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-02-20'
 ---
+Chorus:
+Cheryl Moana Marie
+Back home she's waiting for me
+Cheryl Moana Marie
+There on the shore she waits so patiently
 
+Verse 1:
+In the sleepy little town
+Where soft breezes blow
+There's a lovely little Maui Miss I used to know
+Someday I'll go find my way and I'll return
+From over the sea
+To where my island sweetheart waits for me
+
+Verse 2: (Repeated twice)
+Cheryl Moana Marie
+Someday our waiting will end
+Safe in my arms she will be
+My Cheryl Moana Marie

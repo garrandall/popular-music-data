@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-love-me-mint-condition
+lyrics_url: https://genius.com/Mint-condition-if-you-love-me-lyrics
 name: If You Love Me
 rankings:
 - end_date: '1999-11-12'
@@ -87,4 +88,115 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-03-18'
 ---
+If you love me
+Like you say you do
+Won’t you show me
+Just how much you do?
 
+If you love me unconditionally
+Say that you'll always
+Always be with me
+
+
+In my heart
+There is a love
+That's yearning for you
+Let me know if you feel the same
+The yearning that I do
+
+All I know is
+That I need a love to get what I need
+Don’t be afraid or hesitate
+I’m trying to make you see how it's gotta be
+
+
+If you love me
+(Lady)
+Like you say you do
+Won’t you show me
+(Show me)
+Just how much you do?
+
+If you love me
+(If you love me)
+Unconditionally
+Say that you’ll always
+Always be with me
+
+
+All the words
+That you didn’t say
+Pushed me away from you
+Words of love that
+I need to hear
+To let me know you do
+
+Seems at night
+I dry my eyes
+For now I have learned
+Lonely tears
+They fall the same
+When love is not returned
+Love is not returned
+
+
+If you love me
+(If you really love me, oh, oh)
+Like you say you do
+(Like you say you do)
+
+Won’t you show me
+(Won’t you show me, yeah)
+Just how much you do
+(Oh, oh, oh)
+
+If you love me
+(If you love me)
+Unconditionally
+(Unconditionally)
+Say that you’ll always
+(Oh)
+Always be with me
+(Always be with me)
+
+If you love me
+(If you love me)
+Like you say you do
+(Like you say you do)
+
+Won’t you show me
+(Why don’t you show me, show me, show me, show me?)
+Just how much you do?
+(How much you do?)
+
+If you love me
+(Love me, love me)
+Unconditionally
+(Unconditionally)
+Say that you’ll always
+(Always)
+Always be with me
+
+If you love me
+(Like you say)
+Like you say you do
+(Every little thing that you say)
+Won’t you show me
+(Hey, hey, hey, hey)
+Just how much you do?
+(Ooh, how much you do?)
+
+If you love me
+(I’ve got what you want and you’ve got what I want)
+Unconditionally
+(Unconditionally)
+Say that you’ll always
+(Always)
+Always be with me
+(Always be with me)
+
+La, da, da, da, da
+Da, da, da, da
+Da, da, da
+Da, da, da
+Hey, yeah

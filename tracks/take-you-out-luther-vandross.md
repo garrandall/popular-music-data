@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-you-out-luther-vandross
+lyrics_url: https://genius.com/Luther-vandross-take-you-out-lyrics
 name: Take You Out
 rankings:
 - end_date: '2001-07-27'
@@ -75,4 +76,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-12-08'
 ---
+Here it is...
 
+
+She caught me by surprise, I must say
+'Cause I never have seen a pretty face
+With such a warm and beautiful smile
+It wasn't hard for me to notice her style
+
+I was fascinated surely
+She took my heart and held it for me
+I wouldn't let her get away
+Not until she heard me say...
+
+
+Excuse me miss, but what's your name?
+Where are you from, and can I come?
+And possibly, can I take you out tonight?
+To a movie, to the park
+I'll have you home, before it's dark
+So let me know
+Can I take you out tonight?
+
+
+Don't care if I get rejected
+At least then I won't regret
+Regret the fact I missed the chance for romance, at least
+I'll walk away knowing, I tried my best and I'm going
+I'm going on with my day
+'Cause at least she heard me say...
+
+
+Excuse me miss, but what's your name?
+Where are you from, and can I come?
+And possibly, can I take you out tonight?
+To a movie, to the park
+I'll have you home, before it's dark
+So let me know
+Can I take you out tonight?
+
+Excuse me miss, but what's your name?
+Where are you from, and can I come?
+And possibly, can I take you out tonight?
+To a movie, to the park
+I'll have you home, before it's dark
+So let me know
+Can I take you out tonight?
+
+
+That's why I had to come over
+And introduce myself to you
+'Cause you're never gonna know where you find love
+And hopefully, I'll find it in you
+
+
+Excuse me miss, but what's your name?
+Where are you from, and can I come?
+And possibly, can I take you out tonight?
+To a movie, to the park
+I'll have you home, before it's dark
+So let me know
+Can I take you out tonight?
+
+Excuse me miss, but what's your name?
+Where are you from, and can I come?
+And possibly, can I take you out tonight?
+To a movie, to the park
+I'll have you home, before it's dark
+So let me know
+Can I take you out tonight?
+(Let me make your house a home, baby)
+
+Excuse me miss, but what's your name?
+Where are you from, and can I come?
+And possibly, can I take you out tonight?
+To a movie, to the park
+I'll have you home, before it's dark
+So let me know
+Can I take you out tonight?

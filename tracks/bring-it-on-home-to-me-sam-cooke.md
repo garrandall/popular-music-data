@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bring-it-on-home-to-me-sam-cooke
+lyrics_url: https://genius.com/Sam-cooke-bring-it-on-home-to-me-lyrics
 name: Bring It On Home To Me
 rankings:
 - end_date: '1962-06-29'
@@ -51,4 +52,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-15'
 ---
+If you ever change your mind
+About leaving, leaving me behind
 
+
+Baby (Oh), bring it to me
+Bring your sweet loving
+Bring it on home to me
+Yeah (yeah) yeah (yeah) yeah (yeah)
+
+
+I know I laughed when you left
+But now I know I only hurt myself
+
+
+Baby (Oh), bring it to me
+Bring your sweet loving
+Bring it on home to me
+Yeah (yeah) yeah (yeah) yeah (yeah)
+
+
+I'll give you jewelry and money, too
+That ain't all, that ain't all I'll do for you
+
+
+Baby if you (Oh), bring it to me
+Bring your sweet loving
+Bring it on home to me
+Yeah (yeah) yeah (yeah) yeah (yeah)
+
+
+You know I'll always be your slave
+'Till I'm buried, buried in my grave
+
+
+Oh honey (Oh), bring it to me
+Bring your sweet loving
+Bring it on home to me
+Yeah (yeah) yeah (yeah) yeah (yeah)
+
+
+One more thing, I tried to treat you right
+But you stayed out, stayed out day and night
+
+
+But I forgive you (Oh), Bring it to me
+Bring your sweet loving
+Bring it on home to me
+Yeah (yeah) yeah (yeah) yeah (yeah)
+Yeah (yeah) yeah (yeah) yeah (yeah)
+Yeah (yeah) yeah (yeah) yeah (yeah)

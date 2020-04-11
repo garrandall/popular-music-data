@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goody-goody-gumdrops-1910-fruitgum-co-
+lyrics_url: https://genius.com/1910-fruitgum-company-goody-goody-gumdrops-lyrics
 name: Goody Goody Gumdrops
 rankings:
 - end_date: '1968-11-01'
@@ -43,4 +44,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-12-21'
 ---
-
+I'm gettin' weaker, weaker
+Ev'ry time I hear her name
+Ah she's gettin' sweeter, sweeter
+This girl is driving me insane
+Refrain: Goody Goody Gumdrops
+My heart is doin' flip-flops
+Gee, what love can do
+I'm gonna shout it from the rooftops
+Goody Goody Gumdrops
+With a girl like you
+Ev'rything is good about her
+I just couldn't live without her
+'Cause when I kiss her
+My words come out this way
+Repeat Refrain
+To look into her baby blue eyes
+Right down to her dainty shoe size
+The way I see her
+There's nothing left to say, but
+Goody Goody Gumdrops
+My heart is dooin' flipflops
+Gee, what love can do
+I'm gonna shout it from the rooftops
+Goody Goody Gumdrops
+With a girl like you

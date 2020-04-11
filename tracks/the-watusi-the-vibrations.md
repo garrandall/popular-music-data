@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-watusi-the-vibrations
+lyrics_url: https://www.musixmatch.com/lyrics/The-Vibrations/The-Watusi
 name: The Watusi
 rankings:
 - end_date: '1961-02-26'
@@ -39,4 +40,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-04-10'
 ---
-
+There's a dance called the Watusi it's out of sight,
+First you slide to the left then to the right.
+The Watusi is out of sight,
+You slide to the left, then to the right.
+Take two steps up and keep it tight.
+And do the Watusi, it sure is a sight.
+Come, on try, sugar pie,
+Keep with the beat and Watusi, Watusi with me.
+Shimmy and shoulder and slop with your feet,
+And wiggle your hips in time to the beat,
+You do the Bow and Arrow, come out on the Horse,
+And Pigmy Shuffle, when you take your choice.
+Come, on try, sugar pie,
+There's a dance called the watusi it's out of sight,
+First you slide to the left then to the right.
+Two steps forward, keep it tight.
+There's a dance called the Watusi it's out of sight.
+Don't stop now, I'm really not thru,
+There's so many more steps that you can do,
+Well the Dish Rag, the Stiff, the Boy Pete,
+The Double Watusi, honey, in time with the beat,
+Come, on try, sugar pie,
+It's easy to do, and Watusi, Watusi with me.

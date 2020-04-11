@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-gotta-be-des-ree
+lyrics_url: https://genius.com/Desree-you-gotta-be-lyrics
 name: You Gotta Be
 rankings:
 - end_date: '1994-09-09'
@@ -183,4 +184,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-07-01'
 ---
+Listen as your day unfolds
+Challenge what the future holds
+Try to keep your head up to the sky
+Lovers, they may cause you tears
+Go ahead, release your fears
+Stand up and be counted
+Don't be ashamed to cry
 
+
+You gotta be bad, you gotta be bold, you gotta be wiser
+You gotta be hard, you gotta be tough, you gotta be stronger
+You gotta be cool, you gotta be calm, you gotta stay together
+All I know, all I know, love will save the day
+
+
+Herald what your mother said
+Read the books your father read
+Try to solve the puzzles in your own sweet time
+Some may have more cash than you
+Others take a different view
+My oh my, hey, hey
+
+
+You gotta be bad, you gotta be bold, you gotta be wiser
+You gotta be hard, you gotta be tough, you gotta be stronger
+You gotta be cool, you gotta be calm, you gotta stay together
+All I know, all I know, love will save the day
+
+
+Time asks no questions, it goes on without you
+Leaving you behind if you can't stand the pace
+The world keeps on spinning
+You can't stop it, if you try to
+This time it's danger staring you in the face, oh
+
+
+Remember, listen as your day unfolds
+Challenge what the future holds
+Try and keep your head up to the sky
+Lovers, they may cause you tears
+Go ahead, release your fears
+My oh my, hey hey
+
+
+You gotta be bad, you gotta be bold, you gotta be wiser
+You gotta be hard, you gotta be tough, you gotta be stronger
+You gotta be cool, you gotta be calm, you gotta stay together
+All I know, all I know, love will save the day
+You gotta be bad, you gotta be bold, you gotta be wiser
+You gotta be hard, you gotta be tough, you gotta be stronger
+You gotta be cool, you gotta be calm, you gotta stay together
+All I know, all I know, love will save the day
+
+
+Gotta be bold, gotta be bad
+Gotta be wise, don't ever say
+Gotta be hard, not too too hard
+All I know is love will save the day
+You gotta be bad, you gotta be bold, you gotta be wiser
+You gotta be hard, you gotta be tough, you gotta be stronger
+You gotta be cool, you gotta be calm, you gotta stay together
+Yeah
+You gotta be bad, you gotta be bold, you gotta be wiser
+You gotta be hard, you gotta be tough, you gotta be stronger

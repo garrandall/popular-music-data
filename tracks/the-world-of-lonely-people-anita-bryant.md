@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-world-of-lonely-people-anita-bryant
+lyrics_url: https://genius.com/Anita-bryant-the-world-of-lonely-people-lyrics
 name: The World Of Lonely People
 rankings:
 - end_date: '1964-05-22'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-04'
 ---
+The world is full of lonely people
+I know because I'm one of them
+I don't have someone who
+I can give my kisses to or share my heartaches
+When I am feeling blue
 
+I'm in the world of lonely people
+Who wait around for someone's call
+I know that feeling of wanting someone you can love
+But having no one at all
+
+Once I had a guy
+And though I loved him so
+He cared for someone else
+So sad to see him go
+I need him so
+
+I'm in the world of lonely people
+And here I'll stay till who knows when
+All I can do is cry
+And count the minutes ticking by
+Until he's in my arms again
+
+All I can do is cry
+And count the minutes ticking by
+Until he's in my arms again
+Until he's in my arms again
+Until he's in my arms again

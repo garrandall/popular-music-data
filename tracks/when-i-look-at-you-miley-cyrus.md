@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-i-look-at-you-miley-cyrus
+lyrics_url: https://www.musixmatch.com/lyrics/Miley-Cyrus/When-I-Look-at-You
 name: When I Look At You
 rankings:
 - end_date: '2010-02-05'
@@ -59,4 +60,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-05-22'
 ---
+Everybody needs inspiration
+Everybody needs a song
+A beautiful melody
+When the night's so long
 
+'Cause there is no guarantee
+That this life is easy
+
+Yeah, when my world is falling apart
+When there's no light to break up the dark
+That's when I, I
+I look at you
+
+When the waves
+Are flooding the shore and I can't
+Find my way home anymore
+That's when I, I
+I look at you
+
+When I look at you, I see forgiveness
+I see the truth
+You love me for who I am
+Like the stars hold the moon
+Right there where they belong
+And I know I'm not alone
+
+Yeah, when my world is falling apart
+When there's no light to break up the dark
+That's when I, I
+I look at you
+
+When the waves
+Are flooding the shore and I can't
+Find my way home anymore
+That's when I, I
+I look at you
+
+You appear just like a dream to me
+Just like Kaleidoscope colors that
+Cover me, all I need
+Every breath that I breathe
+Don't you know you're beautiful?
+
+Yeah, yeah, yeah
+
+When the waves
+Are flooding the shore and I can't
+Find my way home anymore
+That's when I, I
+I look at you
+I look at you
+
+You appear just like a dream
+To me

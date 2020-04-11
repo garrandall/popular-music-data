@@ -5,6 +5,7 @@ features:
 - Felly
 genres: []
 key: pump-up-the-jam-technotronic-felly
+lyrics_url: https://www.musixmatch.com/lyrics/Technotronic/Pump-Up-the-Jam
 name: Pump Up The Jam
 rankings:
 - end_date: '1989-10-20'
@@ -104,4 +105,109 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-03-24'
 ---
+Pump up the jam
+Pump it up
+While your feet are stomping
+And the jam is pumping
+Look ahead, the crowd is jumpin'
 
+Pump it up a little more
+Get the party goin' on the dance floor
+See? Cause that's where the party's at
+And you'll find out, if you do that
+
+I want
+A place to stay
+Get your booty on the floor, tonight
+Make my day
+
+I want
+A place to stay
+Get your booty on the floor, tonight
+Make my day
+Make my day
+Make my day
+Make my day
+Make my day
+
+Yo! Pump up the jam
+Pump it up
+While your feet are stomping
+And the jam is pumping
+Look ahead, the crowd is jumpin'
+
+Pump it up a little more
+Get the party goin' on the dance floor
+See? Cause that's where the party's at
+And you'll find out, if you do that
+
+I want
+A place to stay
+Get your booty on the floor, tonight
+Make my day
+
+I want
+A place to stay
+Get your booty on the floor, tonight
+Make my day
+Make my day
+Make my, make my, make
+Make my day
+Make my day
+Make my day
+Make my, make my, make
+Make my day
+
+Yo! Pump up the jam
+Pump it up
+Pump it up
+Yo! Pump it!
+Pump up the jam
+Pump it up
+Pump it up
+Yo! Pump it
+Pump up the jam
+Pump it up
+Pump it up
+Yo! Pump it
+Pump up the jam
+Pump it, pump it, pump it, pump it, yep
+
+Pump up the jam
+Pump up the jam
+Pump up the jam
+Pump it up
+Pump it, pump it, pump it
+
+Pump up the jam
+Pump up the jam
+Pump up the jam
+Pump it, pump it, pump it, pump it
+
+Pump up the jam
+Pump it up
+While your feet are stomping
+And the jam is pumping
+Look ahead, the crowd is jumpin'
+
+Pump it up a little more
+Get the party goin' on the dance floor
+See? Cause that's where the party's at
+And you'll find out, if you do that
+
+I want
+A place to stay
+Get your booty on the floor, tonight
+Make my day
+
+I want
+A place to stay
+Get your booty on the floor, tonight
+Make my day
+I want
+A place to stay
+Get your booty on the floor, tonight
+Make my day
+I want
+A place to stay
+Get your booty on the floor, tonight

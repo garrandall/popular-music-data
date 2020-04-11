@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-could-use-a-love-song-maren-morris
+lyrics_url: https://genius.com/Maren-morris-i-could-use-a-love-song-lyrics
 name: I Could Use A Love Song
 rankings:
 - end_date: '2017-09-08'
@@ -91,4 +92,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-01-20'
 ---
+Usually a drink will do the trick
+Take the edge off quick, sitting in the dark
+With a shared cigarette
+Seeing eye-to-eye, and heart-to-heart
+But maybe I’m just getting old
+Used to work, but now it don’t
 
+
+A long gone drive
+You know the kind where you take a turn
+And you don’t know why
+But it clears your mind, a surefire cure
+I need something stronger
+That’ll last a little longer
+
+
+I could use a love song
+That takes me back, just like that
+When it comes on
+To a time when I wouldn’t roll my eyes
+At a guy and a girl
+Who make it work in a world
+That for me so far just seems to go so wrong
+Yeah, I could use, I could use a love song
+
+
+I wish I didn’t know so much
+I peeked behind the curtain
+Now that magic rush
+Feels like a trick that isn’t working
+But I haven’t lost all hope yet
+Yeah, it’s hurting, but it ain’t dead
+
+
+I could use a love song
+That takes me back, just like that
+When it comes on
+To a time when I wouldn’t roll my eyes
+At a guy and a girl
+Who make it work in a world
+That for me so far just seems to go so wrong
+Yeah, I could use, I could use a love song
+
+
+Give me a sign or a rhyme or a reason
+Just something that I can believe in
+
+
+I could use a love song
+That takes me back, just like that
+When it comes on
+To a time when I wouldn’t roll my eyes
+At a guy and a girl
+Who make it work in a world
+That for me so far just seems to go so wrong
+Yeah, I could use
+Yeah, I could use, I could use a love song

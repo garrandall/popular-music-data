@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-green-bag-george-baker-selection
+lyrics_url: https://genius.com/George-baker-selection-little-green-bag-lyrics
 name: Little Green Bag
 rankings:
 - end_date: '1970-03-27'
@@ -59,4 +60,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-06-13'
 ---
+{Intro}
+Yeah
 
+
+Lookin’ back on the track for a little greenback
+Got to find just the kind or losin’ my mind
+Out of sight in the night, out of sight in the day
+Lookin’ back on the track, gonna do it my way
+Out of sight in the night, out of sight in the day
+Lookin’ back on the track, gonna do it my way
+Lookin’ back
+
+
+Lookin’ for some happiness
+But there is only loneliness to find
+Jump to the left, turn to the right
+Lookin’ upstairs, lookin’ behind
+
+Lookin’ for some happiness
+But there is only loneliness to find
+Jump to the left, turn to the right
+Lookin’ upstairs, lookin’ behind
+
+
+Lookin’ back on the track for a little greenback
+Got to find just the kind or losin’ my mind
+Out of sight in the night, out of sight in the day
+Lookin’ back on the track, gonna do it my way
+Lookin’ back on the track for a little, little greenback
+Got to find just the kind or losin’ my mind
+
+{Hook}
+Lookin’ for some happiness
+But there is only loneliness to find
+Jump to the left, turn to the right
+Lookin’ upstairs, lookin’ behind
+Lookin’ for some happiness
+But there is only loneliness to find
+Turn to the left, turn to the right
+Lookin’ upstairs, lookin’ behind

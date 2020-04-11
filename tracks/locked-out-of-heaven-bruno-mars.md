@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: locked-out-of-heaven-bruno-mars
+lyrics_url: https://www.musixmatch.com/lyrics/Bruno-Mars/Locked-Out-of-Heaven
 name: Locked Out Of Heaven
 rankings:
 - end_date: '2012-10-26'
@@ -151,4 +152,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-06-22'
 ---
+One, two, one, two, three
 
+Oh yeah yeah
+Oh yeah yeah yeah yeah, uh!
+Oh yeah yeah
+Oh yeah yeah yeah yeah, uh!
+
+Never had much faith in love or miracles (miracles) uh!
+Never wanna put my heart on the line, uh!
+But swimming in your water is something spiritual (spiritual) uh!
+I'm born again every time you spend the night, uh!
+
+'Cause your sex takes me to paradise
+Yeah your sex takes me to paradise
+And it shows, yeah, yeah, yeah
+
+'Cause you make me feel like
+I've been locked out of heaven
+For too long, for too long
+Yeah you make me feel like
+I've been locked out of heaven
+For too long, for too long, ooh
+
+Oh yeah yeah yeah yeah, uh!
+Oh yeah yeah
+Oh yeah yeah yeah yeah, uh!
+
+You bring me to my knees
+You make me testify (testify) uh!
+You can make a sinner change his ways, uh!
+Open up your gates 'cause I can't wait to see the light, uh!
+And right there is where I wanna stay, uh!
+
+'Cause your sex takes me to paradise
+Yeah your sex takes me to paradise
+And it shows, yeah, yeah, yeah
+
+'Cause you make me feel like
+I've been locked out of heaven
+For too long, for too long
+Yeah you make me feel like
+I've been locked out of heaven
+For too long, for too long, ooh
+
+Oh oh oh oh, yeah, yeah, yeah
+Can't I just stay here?
+Spend the rest of my days here?
+Oh oh oh oh, yeah, yeah, yeah
+Can't I just stay here?
+Spend the rest of my days here?
+
+'Cause you make me feel like
+I've been locked out of heaven
+For too long, for too long
+Yeah you make me feel like
+I've been locked out of heaven
+For too long, for too long, ooh
+
+Oh yeah yeah yeah yeah, uh!
+Oh yeah yeah
+Oh yeah yeah yeah yeah, uh!

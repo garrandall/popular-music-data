@@ -1,9 +1,11 @@
 ---
 artists:
-- Elvis Presley With The Jordanaires
+- Elvis Presley
+- The Jordanaires
 features: []
 genres: []
 key: good-luck-charm-elvis-presley-with-the-jordanaires
+lyrics_url: https://genius.com/Elvis-presley-good-luck-charm-lyrics
 name: Good Luck Charm
 rankings:
 - end_date: '1962-03-23'
@@ -59,4 +61,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-09'
 ---
+Don't want a four leaf clover
+Don't want an old horse shoe
+Want your kiss because I just can't miss
+With a good luck charm like you
 
+Come on and be my little good luck charm
+Uh-huh huh, you sweet delight
+I want a good luck charm
+A-hanging on my arm
+To have, to have, to hold, to hold tonight
+
+Don't want a silver dollar
+Rabbit's foot on a string
+The happiness in your warm caress
+No rabbit's foot can bring
+
+If I found a lucky penny
+I'd toss it across the bay
+Your love is worth all the gold on earth
+No wonder that I say

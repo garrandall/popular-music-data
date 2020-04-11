@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: when-i-was-young-eric-burdon-the-animals
+lyrics_url: https://genius.com/Eric-burdon-and-the-animals-when-i-was-young-lyrics
 name: When I Was Young
 rankings:
 - end_date: '1967-04-14'
@@ -44,4 +45,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
 ---
+The rooms were so much colder then
+My father was a soldier then
+And times were very hard
+When I was young
+When I was young
 
+I smoked my first cigarette at ten
+And for girls, I had a bad yen
+And I had quite a ball
+When I was young
+
+When I was young, it was more important
+Pain more pain
+But I laughed a much louder, Yeah
+When I was young
+When I was young
+
+I met my first love at thirteen
+She was brown and I was pretty green
+And I learned quite a lot when I was young
+When I was young
+When I was young
+
+Na na na na na na
+Na na na na na na
+
+When I was young, it was more important
+Pain more painful
+Laughed a much louder, Yeah
+When I was young
+When I was young
+
+My faith was so much stronger then
+I believed in fellow man
+And I was so much older then
+When I was young
+When I was young
+When I was young
+When I was young
+Na na na na na na
+When I was young

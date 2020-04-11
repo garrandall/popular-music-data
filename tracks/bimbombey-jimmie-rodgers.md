@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bimbombey-jimmie-rodgers
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/Bimbombey
 name: Bimbombey
 rankings:
 - end_date: '1958-11-16'
@@ -71,4 +72,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-23'
 ---
+Bimbombey, Bimbombey
 
+On the way to Bimbombey
+There's a hill on the way to Bimbombey
+There's a house on the hill and a girl in the house
+On the hill on the way to Bimbombey
+A house on the hill and a girl in the house
+On the hill on the way to Bimbombey
+
+Jing-a-ling-a-lyoh (jing-a-ling-a-lyoh)
+Jing-a-ling-a-lyay (jing-a-ling-a-lyay)
+Jing-a-ling-a-ly jing-a-ling-a-ly
+Jing-a-ling-a-lyay-ay-ay
+Jing-a-ling-a-lyay (jing-a-ling-a-lyay)
+
+There's a store in Bimbombey
+There's a ring in the store in Bimbombey
+That's where I'll buy the ring for the girl in the house
+On the hill on the way to Bimbombey
+I'll buy the ring for the girl in the house
+On the hill on the way to Bimbombey
+
+Jing-a-ling-a-lyoh (jing-a-ling-a-lyoh)
+Jing-a-ling-a-lyay (jing-a-ling-a-lyay)
+Jing-a-ling-a-ly jing-a-ling-a-ly
+Jing-a-ling-a-lyay-ay-ay
+Jing-a-ling-a-lyay (jing-a-ling-a-lyay)
+
+Once I get to Bimbombey
+You can bet I will stay in Bimbombey
+That's where I'll settle down with the girl in the house
+On the hill on the way to Bimbombey
+I'll settle down with the girl in the house
+On the hill on the way to Bimbombey
+
+Jing-a-ling-a-lyoh (jing-a-ling-a-lyoh)
+Jing-a-ling-a-lyay (jing-a-ling-a-lyay)
+Jing-a-ling-a-ly jing-a-ling-a-ly
+Jing-a-ling-a-lyay-ay-ay
+Jing-a-ling-a-lyay (jing-a-ling-a-lyay)
+
+Bimbombey
+Bimbombey
+Bimbombey

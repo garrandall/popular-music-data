@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: games-redeye
+lyrics_url: https://genius.com/Red-eye-games-lyrics
 name: Games
 rankings:
 - end_date: '1970-11-13'
@@ -63,4 +64,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-02-06'
 ---
+See how they run
+Taking a ride on an everyday fight to nowhere
+Run inside it's a great place to hide themselves
+And you know
+Yeah you know
+Yeah you know
+Yeah you know
+You know what they're doing
 
+Can't they see
+The dreams in the mind are the only thing
+That bind them together
+Serving the purpose until
+They turn it away for dead feeling
+And you know
+Yeah you know
+Yeah you know
+Yeah you know
+You know what they're feeling
+
+You play the game
+Take it while you can
+Don't you give it to the man behind you
+You can put it down 'til
+You pick it up again
+If you want to
+And you know
+Yeah you know
+Yeah you know
+Yeah you know
+
+You know what you're doing

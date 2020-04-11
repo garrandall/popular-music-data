@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: follow-you-follow-me-genesis
+lyrics_url: https://genius.com/Genesis-follow-you-follow-me-lyrics
 name: Follow You Follow Me
 rankings:
 - end_date: '1978-04-28'
@@ -71,4 +72,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
 ---
+Stay with me
+My love, I hope you'll always be
+Right here by my side if ever I need you
+Oh, my love
 
+In your arms
+I feel so safe and so secure
+And every day is such a perfect day to spend
+Alone with you
+
+
+I will follow you, will you
+Follow me all the
+Days and nights that we
+Know will be, I will
+Stay with you will you
+Stay with me just one
+Single tear in each
+Passing year
+
+
+With the dark
+Oh, I see so very clearly now
+All my fears are drifting by me so slowly now
+Fading away
+
+I can say
+The night is long, but you are here
+Close at hand, oh, I'm better for the smile you give
+And while I live I will
+
+
+Follow you, will you
+Follow me all the days and nights that we
+Know will be I will
+Stay with you will you
+Stay with me just one
+Single tear in each
+Passing year there will be
+
+
+
+
+I will follow you will you
+Follow me All the
+Days and nights that we
+Know will be I will
+Stay with you will you
+Stay with me just one
+Single tear in each
+Passing year I will
+
+Follow you, will you
+Follow me all the
+Days and nights that we
+Know will be, I will
+Stay with you, will you
+Stay with me, just one
+Single tear in each
+Passing year, I will
+
+Follow you, will you
+Follow me all the
+Days and nights that we
+Know will be, I will
+Stay with you, will you
+Stay with me, just one
+Single tear in each
+Passing year...

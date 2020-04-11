@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-forever-the-ebonys
+lyrics_url: https://genius.com/The-ebonys-its-forever-lyrics
 name: It's Forever
 rankings:
 - end_date: '1973-07-13'
@@ -31,4 +32,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-08-11'
 ---
+(Ba ba-ba ba-ba baaa)
+(Ba ba-ba ba-ba baaa)
 
+Forever...
+That's how long I'm gonna love you
+Forever...
+That's how long I'm gonna need you
+Forever...
+That's how long I'm gonna make you mine
+All mine (all mine)
+All mine, all mine, all mine
+
+You wanna know
+How long am I
+Gonna be your guy?
+(Yeah, yeah)
+You wanna know
+How long It'll be
+You sleepin' with me?
+(Yeah, yeah)
+Just as long
+As the sun stays in the sky
+That's how long
+It's gonna be you and I
+(All mine, All mine)
+
+Forever... (forever)
+That's how long I'm gonna love you
+(We're gonna stay together)
+Forever...
+That's how long I'm gonna need you
+Forever...
+That's how long I'm gonna make you mine!
+All mine
+All mine, all mine, all mine
+
+You wanna know
+How long will we
+Live in fantasy... yeah, yeah... listen
+An' you wanna know
+How long am I
+Gonna share the tears you cry... yeah, yeah
+Just as long as one and one is two
+That's how long
+It's gonna be me and you!
+
+Forever...
+That's how long I'm gonna love you
+Forever...
+That's how long I'm gonna need you
+(Stay together)
+Forever...
+That's how long I'm gonna love you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bad-liar-selena-gomez
+lyrics_url: https://genius.com/Selena-gomez-bad-liar-lyrics
 name: Bad Liar
 rankings:
 - end_date: '2017-06-09'
@@ -63,4 +64,104 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-09-02'
 ---
+I was walking down the street the other day
+Tryna distract myself
+But then I see your face
+Oh wait, that's someone else
+Tryna play it coy
+Tryna make it disappear
+But just like the battle of Troy
+There's nothing subtle here
+In my room there's a king size space
+Bigger than it used to be
+If you want you can rent that place
+Call me an amenity
+Even if it's in my dreams
 
+
+Ooh you're taking up a fraction of my mind
+Ooooh every time I watch you serpentine
+
+
+Oh I'm tryin', I'm tryin', I'm tryin'
+I'm tryin', I'm tryin'
+Oh tryin', I'm tryin', I'm tryin'
+I'm tryin', I'm tryin'
+Not to think about you
+No, no, no, no
+Not to think about you
+No, no, no, no
+Oh I'm tryin', I'm tryin', I'm tryin'
+I'm tryin', I'm tryin'
+Oh tryin', I'm tryin', I'm tryin'
+I'm tryin', I'm tryin'
+Not to give in to you
+No, no, no, no
+Not to give in to you
+No, no, no, no
+
+
+With my feelings on fire
+Guess I'm a bad liar
+
+
+I see how your attention builds
+It's like looking in a mirror
+Your touch like a happy pill
+But still all we do is fear
+What could possibly happen next?
+Can we focus on the love?
+Paint my kiss across your chest
+If you're the art, I'll be the brush
+
+
+Ooh you're taking up a fraction of my mind
+Ooooh every time I watch you serpentine
+
+
+Oh I'm tryin', I'm tryin', I'm tryin'
+I'm tryin', I'm tryin'
+Oh tryin', I'm tryin', I'm tryin'
+I'm tryin', I'm tryin'
+Not to think about you
+No, no, no, no
+Not to think about you
+No, no, no, no
+Oh I'm tryin', I'm tryin', I'm tryin'
+I'm tryin', I'm tryin'
+Oh tryin', I'm tryin', I'm tryin'
+I'm tryin', I'm tryin'
+Not to give in to you
+No, no, no, no
+Not to give in to you
+No, no, no, no
+
+
+With my feelings on fire
+Guess I'm a bad liar
+
+
+And oh baby let's make reality, actuality, a reality
+Oh baby let's make reality, actuality, a reality
+
+
+Oh, oh, I'm tryin', I'm tryin', I'm tryin'
+I'm tryin', I'm tryin'
+Oh tryin', I'm tryin', I'm tryin'
+I'm tryin', I'm tryin'
+Not to think about you
+No, no, no, no
+Not to think about you
+No, no, no, no
+Oh I'm tryin', I'm tryin', I'm tryin'
+I'm tryin', I'm tryin'
+Oh tryin', I'm tryin', I'm tryin'
+I'm tryin', I'm tryin'
+Not to give in to you
+No, no, no, no
+Not to give in to you
+No, no, no, no
+
+
+With my feelings on fire
+Guess I'm a bad liar

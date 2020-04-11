@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: day-tripper-the-beatles
+lyrics_url: https://genius.com/The-beatles-day-tripper-lyrics
 name: Day Tripper
 rankings:
 - end_date: '1965-12-24'
@@ -47,4 +48,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-19'
 ---
+Got a good reason
+For taking the easy way out
+Got a good reason
+For taking the easy way out, now
 
+
+She was a day tripper
+A one way ticket, yeah
+It took me so long
+To find out, and I found out
+
+
+She's a big teaser
+She took me half the way there
+She's a big teaser
+She took me half the way there, now
+
+
+She was a day tripper
+A one way ticket, yeah
+It took me so long
+To find out, and I found out
+
+
+
+
+Tried to please her
+She only played one night stands
+Tried to please her
+She only played one night stands, now
+
+
+She was a day tripper
+A Sunday driver, yeah
+It took me so long
+To find out, and I found out
+
+
+Day tripper
+Day tripper, yeah
+Day tripper
+Day tripper, yeah
+Day tripper

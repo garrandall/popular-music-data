@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-got-more-soul-dyke-and-the-blazers
+lyrics_url: https://genius.com/Dyke-and-the-blazers-we-got-more-soul-lyrics
 name: We Got More Soul
 rankings:
 - end_date: '1969-05-23'
@@ -47,4 +48,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-07-19'
 ---
+Tell the world
+Sisters and my brothers
+We got more soul, dig it
+Sisters and my brothers
 
+We got more soul
+We got Ray Charles
+Doing his thing
+We got James Brown, yeah
+Doing his thing too
+
+We got more soul
+We got more soul
+We got more soul
+We got more soul
+Dig it now
+
+When we walk
+We got more soul
+We got it, when we talk
+We got more soul
+We got it, when we sing
+Lord, have mercy
+
+We got more soul
+We got it
+When we dance
+We got more soul
+
+We got Johnnie Taylor
+Doing his thing
+We got Johnnie Taylor
+Yeah, doing his, ow
+Listen!
+
+We got more soul
+We got more soul
+We got more soul
+We got more soul
+Dig it
+
+We got Aretha Franklin
+Doing her thing
+We got Nancy Wilson
+Doing her thing
+We got Pearl Bailey
+Yeah, doing her thing
+
+We got more soul
+We got more soul, dig it
+My sisters and my brothers
+We got more soul
+
+When we walk
+We got it...

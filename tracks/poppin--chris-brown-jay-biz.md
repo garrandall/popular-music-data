@@ -5,6 +5,7 @@ features:
 - Jay Biz
 genres: []
 key: poppin--chris-brown-jay-biz
+lyrics_url: https://www.musixmatch.com/lyrics/Chris-Brown-feat-Jay-Biz/Poppin
 name: Poppin'
 rankings:
 - end_date: '2006-12-22'
@@ -88,4 +89,98 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-04-28'
 ---
+Say what yo name is
+Ooh yeah that fits you girl
+Tell me where you headed
+Can I walk with you girl?
+You got that look in yo eyes,
+That look like you give yo boy a here good ol' time
+And i'm on it girl, that's right I'm on it girl
 
+See this is the first time I had a girl,
+Who looks set me on fire
+I'm really tryna get to know you better girl,
+You aint gotta act like you shy.
+Cause we gon do, sumthing
+Sumthing is gon get, done
+And we gon get, crunk
+And have a lot of, fun
+And I say
+
+Shawty, shawty
+She wearing her hair
+She working them jeans
+She talking that talk just l-l-like I like it
+She keep it on and, poppin
+Shawty keep it on and poppin
+Ooh, oooh, ooh yeah
+Shawty, shawty
+The way you wearing that top got yo boy so hot
+Aint no mistaking, playing, or faking,
+You got me open and waitin, and poppin
+You keep me on and poppin oooooh, oooooooh
+
+Umh, Umh, let me tell you
+I tryna keep my swagger, but you bout to have me girl
+Jump through about four or five hoops of, ooh baby
+Let's take it to the hood so the people can see you girl
+Oh yes you mean and viscious the way you switchin'
+Now I say
+
+This is the first time I had a girl
+Who looks set me on fire
+I'm really tryna get to know you better girl,
+You aint gotta act like you shy.
+Cause we gon do, sumthing
+Sumthing, is gon get done
+And we gon get, crunk
+And have a lot of, fun
+Ooooh, Ohhhhh
+
+Shawty, shawty
+She wearing her hair
+She working them jeans
+She talking that talk just l-l-like I like it
+She keep it on and, poppin
+Shawty keep it on and poppin
+Ooh, oooh, ooh yeah
+Shawty, shawty
+The way you wearing that top got yo boy so hot
+Aint no mistaking, playing, or faking,
+You got me open and waitin, and poppin
+You keep me on and poppin oooooh, oooooooh
+
+Shawty, shawty
+She wearing her hair
+She working them jeans
+She talking that talk just l-l-like I like it
+She keep it on and, poppin
+Poppin'
+Shawty, shawty
+The way you wearing that top got yo boy so hot
+Aint no mistaking, playing, or faking,
+You got me open and waitin, and poppin
+Shawtry got me poppin'
+
+Ooooooooooh, ooooooooooh
+Ooh, oo, ooh, ooo, oooh, ooo, oooh
+You make me feel like a winner girl I wanna say
+Ooh, oo, ooh, oooh, oooh, oo, oooh
+Let me put my hand around your waist while the background sing
+Oooooh, oooo, ooooh, ooooh, ooo, oooh
+Cause we gon do sumthing, Sumthing is gon get done
+Oooooh, oooo, ooooh, ooooh, ooo, oooh
+I'm about to have a fit, Cause you're my number 1
+
+Shawty, shawty
+She wearing her hair
+She working them jeans
+She talking that talk just l-l-like I like it
+She keep it on and, poppin
+Shawty keep it on and poppin
+Ooh, oooh, ooh yeah
+Shawty, shawty
+The way you wearing that top got yo boy so hot
+Aint no mistaking, playing, or faking,
+You got me open and waitin, and poppin
+You keep me on and poppin oooooh, oooooooh

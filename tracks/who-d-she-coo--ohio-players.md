@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-d-she-coo--ohio-players
+lyrics_url: https://genius.com/Ohio-players-whod-she-coo-lyrics
 name: Who'd She Coo?
 rankings:
 - end_date: '1976-07-03'
@@ -75,4 +76,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-10-16'
 ---
+Are you ready
+Do what you wanna do
+Do what you wanna do
 
+We don't care what you do
+Just as long as you
+Who'd she coo?
+
+Everybody, everybody do it
+Everybody do it, do the, who'd she coo?
+Who'd she coo?
+Who'd she coo?
+Who'd she coo?
+
+Everybody, everybody do it
+Everybody do it, do the, who'd she coo?
+Who'd she coo?
+
+Everybody, everybody do it
+Everybody do it, do the, who'd she coo?
+Who'd she coo?
+
+Who'd she coo?
+Who'd she coo?
+Who'd she coo?
+
+Everybody, everybody do it
+Everybody do it, do the, who'd she coo?
+Who'd she coo?
+
+Who'd she coo?
+Who'd she coo?
+Who'd she coo?
+
+Everybody, everybody do it
+Everybody do it, do the, who'd she coo?
+Who'd she coo?
+
+Who'd she coo?
+Who'd she coo?
+
+Everybody, everybody do it
+Everybody do it, do the, who'd she coo?
+Who'd she coo?
+
+Everybody, everybody do it
+Everybody do it, do the, who'd she coo?
+Who'd she coo?
+Who'd she coo?
+
+Everybody, everybody do it
+Everybody do it, do the, who'd she coo?
+Who'd she coo?
+
+Who'd she coo?
+Who'd she coo?
+
+Everybody, everybody do it
+Everybody do it, do the, who'd she coo?
+Who'd she coo?

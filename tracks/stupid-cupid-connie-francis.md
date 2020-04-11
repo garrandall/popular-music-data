@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stupid-cupid-connie-francis
+lyrics_url: https://genius.com/Connie-francis-stupid-cupid-lyrics
 name: Stupid Cupid
 rankings:
 - end_date: '1958-08-10'
@@ -59,4 +60,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-10-27'
 ---
+Stupid cupid
+You're a real mean guy
+I'd like to clip your wings
+So you can't fly
+I'm in love
+And it's a crying shame
+And I know that you're the one to blame
 
+Hey, hey
+Set me free
+Stupid cupid
+Stop picking on me
+
+I can't do my homework
+And I can't think straight
+I meet him every morning
+'Bout a half past eight
+I'm acting like a lovesick fool
+You've even got me carrying his books to school
+
+Hey, hey
+Set me free
+Stupid cupid
+Stop picking on me
+
+You mixed me up
+But good
+Right from the very start
+Hey, go play Robin Hood with somebody else's heart
+
+You've got me jumping
+Like a crazy clown
+And I don't feature what you're putting down
+Since I kissed his loving lips of wine
+The thing that bothers me is that I like it fine
+
+Hey, hey
+Set me free
+Stupid cupid
+Stop picking on me
+
+You've got me jumping like a crazy clown
+And I don't feature what you're putting down
+Since I kissed his loving lips of wine
+The thing that bothers me is that I like it fine
+
+Hey, hey
+Set me free
+Stupid cupid
+Stop picking on me
+
+Hey, hey
+Set me free
+Stupid cupid
+Stop picking on me
+(Stupid cupid)
+(Stupid cupid)
+(Stupid cupid)

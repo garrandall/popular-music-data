@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: monster-mash-bobby--boris--pickett-and-the-crypt-kickers
+lyrics_url: https://genius.com/Zombina-and-the-skeletones-monster-mash-bobby-boris-pickett-and-the-crypt-kickers-cover-lyrics
 name: Monster Mash
 rankings:
 - end_date: '1962-09-14'
@@ -155,4 +156,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-09-15'
 ---
+I was working in the lab late one night
+When my eyes beheld an eerie sight
+For my monster from his slab began to rise
+And suddenly to my surprise
 
+
+He did the mash
+He did the monster mash
+The monster mash
+It was a graveyard smash
+He did the mash
+It caught on in a flash
+He did the mash
+He did the monster mash
+
+
+From my laboratory in the castle east
+To the master bedroom where the vampires feast
+The ghouls all came from their humble abodes
+To get a jolt from my electrodes
+
+
+They did the mash
+They did the monster mash
+The monster mash
+It was a graveyard smash
+They did the mash
+It caught on in a flash
+They did the mash
+They did the monster mash
+
+
+The zombies were having fun
+The party had just begun
+The guests included Wolf Man
+Dracula and his son
+
+
+The scene was rockin', all were digging the sounds
+Igor on chains, backed by his baying hounds
+And I, Zombina was about to arrive
+With my vocal group, "The Skeletones"
+
+
+They played the mash
+They played the monster mash
+The monster mash
+It was a graveyard smash
+They played the mash
+It caught on in a flash
+They played the mash
+They played the monster mash
+
+
+Out from his coffin, Drac's voice did ring
+Seems he was troubled by just one thing
+He opened the lid and shook his fist
+And said, "Whatever happened to my Transylvania twist?"
+
+
+It's now the mash
+It's now the monster mash
+The monster mash
+And it's a graveyard smash
+It's now the mash
+It's caught on in a flash
+It's now the mash
+It's now the monster mash
+
+
+Now everything's cool, Drac's a part of the band
+And my monster mash is the hit of the land
+For you, the living, this mash was meant too
+When you get to my door, tell them Zombina sent you
+
+
+Then you can mash
+Then you can monster mash
+The monster mash
+And do my graveyard smash
+Then you can mash
+You'll catch on in a flash
+Then you can mash
+Then you can monster mash

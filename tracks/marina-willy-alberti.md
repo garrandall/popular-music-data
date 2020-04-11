@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: marina-willy-alberti
+lyrics_url: https://www.musixmatch.com/lyrics/Willy-Alberti/Marina
 name: Marina
 rankings:
 - end_date: '1959-12-06'
@@ -39,4 +40,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-18'
 ---
+Marina, Marina, Marina
+Ti voglio al piu presto sposar
+Marina, Marina, Marina
+Ti voglio al piu presto sposar
 
+(CHORUS)
+O mia bella mora
+No non mi lsciare
+Non mi devi rovinare
+Oh, no, no, no, no, no
+
+(CHORUS)
+
+Mi sono innamorato di Marina
+Una ragazza mora ma carina
+Ma lei nun vuol saperne del mio amore
+Cosa faro' per conquistarle il cuor
+
+Un giorno l'ho incontrata sola sola
+Il cuore mi batteva mille all'ora
+Quando le dissi che la volevo amare
+Mi diede un bacio e l'amor s'boccio
+
+Marina, Marina, Marina
+Ti voglio al piu presto sposar
+Marina, Marina, Marina
+Ti voglio al piu presto sposar
+
+Oh, no, no, no, no, no
+
+(CHORUS) 2X
+
+Marina, Marina, Marina
+Ti voglio al piu presto sposar
+Marina, Marina, Marina
+Ti voglio al piu presto sposar
+
+(CHORUS) 2X
+
+Oh, no, no, no, no, no...

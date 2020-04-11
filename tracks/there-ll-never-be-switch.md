@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-ll-never-be-switch
+lyrics_url: https://genius.com/Switch-r-b-band-therell-never-be-lyrics
 name: There'll Never Be
 rankings:
 - end_date: '1978-10-13'
@@ -59,4 +60,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-30'
 ---
+Since we are lyin' here ah
+For the first time, you and I
+Show me what you'll do for me
+And then will I
+Don't try to hide your nature
+No other girl could never rate ya
 
+There'll never be a better love, love, love, love
+La la la la la la
+There'll never be, be, be
+La la la la la la la la
+Ooo wo wo la la la la la
+Oo wo wo la la la la la la
+There'll never be a better love, love, love, love
+
+Please come over here and let me whisper in your ear
+I'll say something good to you, you
+Always wanted to hear
+So real I know you won't regret it
+So good I know you won't forget it
+
+There'll never be a better love, love, love, love for you
+La la la la la la
+There'll never be, be, be
+La la la la la la
+Oo wo wo la la la la
+Oo wo wo la la la la la la
+La la la la la

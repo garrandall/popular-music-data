@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: java-floyd-cramer
+lyrics_url: https://genius.com/Floyd-cramer-java-lyrics
 name: Java
 rankings:
 - end_date: '1963-01-04'
@@ -51,4 +52,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-09'
 ---
-
+[Instrumental}

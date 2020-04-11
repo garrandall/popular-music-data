@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forgive-rebecca-lynn-howard
+lyrics_url: https://genius.com/Rebecca-lynn-howard-forgive-lyrics
 name: Forgive
 rankings:
 - end_date: '2002-11-15'
@@ -27,4 +28,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-12-07'
 ---
+I always said that'd be it
+That I wouldn't stick around
+If it ever came to this
+And here I am
+So confused
+How am I supposed to leave?
+When I can't even move
 
+In the time it would have took to say
+Honey I'm home how was your day?
+You dropped a bomb right where we live
+And just expect me to forgive
+
+Well that's a mighty big word for such a small man
+And I'm not sure I can
+Cause I don't even know now who I am
+It's too soon for me to say forgive..
+
+I should ask but I won't
+Was it love or just her touch
+Cause I don't think I wanna know
+So get you some things
+And get out (get out, get out)
+Don't call me for a day or two
+So I can sort this out
+
+Well you might as well've ripped the life
+Right out of me
+Right here tonight
+And through the fallin tears you said
+Can you ever just forgive?
+
+Well, thats a mighty big word for such a small man
+And I'm not sure I can
+Cause I don't even know now who I am
+It's too soon for me to say forgive..

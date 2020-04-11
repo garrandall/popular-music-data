@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-lived-it-blake-shelton
+lyrics_url: https://genius.com/Blake-shelton-i-lived-it-lyrics
 name: I Lived It
 rankings:
 - end_date: '2018-03-23'
@@ -79,4 +80,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-07-14'
 ---
+Daddy drove the wheels off a flatbed Ford
+Flies found a hole in the old screen door
+Granny said the dress that my sister wore
+To church wasn't long enough
+Mama poured grease in a Crisco can
+Put a hundred thousand miles on a Sears box fan
+Uncle Joe put tobacco on my hand
+Where them yellow jackets torn me up
+And I ain't making this up
 
+
+Oh, you think I'm talking crazy in a different language
+You might not understand
+Oh, that's alright, that's just the kind of life
+That made me who I am
+Just taking my mind on a visit, back in time 'cause I miss it
+You wouldn't know to love it like I love it
+Unless you lived it and man, I lived it
+
+
+Granddaddy smoked Salems with the windows up
+Drove me around in the back of that truck
+We drank from the hose and spit in the cup
+We all survived somehow
+Them ol' Duke boys were flattening the hills
+Hollywood was fake, wrestling was real
+Wouldn't dream of spending that two dollar bill
+From pushing a lawn mower around
+I'd go back there right now
+
+
+Oh, you think I'm talking crazy in a different language
+You might not understand
+Oh, that's alright, that's just the kind of life
+That made me who I am
+Just taking my mind on a visit, back in time 'cause I miss it
+You wouldn't know to love it like I love it
+Unless you lived it and man, I lived it
+Oh man, I lived it
+
+
+Oh, you think I'm talking crazy in a different language
+You might not understand
+Oh, that's alright, that's just the kind of life
+That made me who I am
+Just taking my mind on a visit, back in time 'cause I miss it
+You wouldn't know to love it like I love it
+Unless you lived it and man, I lived it
+Oh man, I lived it

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: too-blind-to-see-it-kym-sims
+lyrics_url: https://genius.com/Kym-sims-too-blind-to-see-it-lyrics
 name: Too Blind To See It
 rankings:
 - end_date: '1991-11-22'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-03-28'
 ---
+"Honey, let me tell you something
+No man in the world!"
 
+Don't wait for me
+Cause I won't be there
+Not this time
+Boy can't you see
+That I am leaving you behind
+
+
+Too blind to see it
+Too blind to see what you were doing
+Too blind to see it
+Too blind to see what you were doing
+
+The only one
+I was your baby
+That's what I thought
+But you had your fun
+You tried to play me
+And now you're caught
+
+(I've tried and I've tried just to hide it)
+Hide the way I feel
+But that's not real
+(I've tried and I've tried to deny it)
+But you did me wrong
+So I'm moving, moving on
+
+
+
+
+"Honey, let me tell you something
+No man in the world!"
+
+(I've tried and I've tried to deny it)
+But you did me wrong
+So I'm moving, moving on
+
+
+
+What you did to me I can't believe
+Now I realize baby I was
+Too blind, too blind I was
+I realize
+I can't believe, oh baby I was...

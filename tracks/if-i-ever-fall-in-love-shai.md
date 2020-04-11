@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-ever-fall-in-love-shai
+lyrics_url: https://genius.com/Shai-if-i-ever-fall-in-love-lyrics
 name: If I Ever Fall In Love
 rankings:
 - end_date: '1992-10-23'
@@ -115,4 +116,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-04-17'
 ---
+The very first time
+That I saw your brown eyes
+Your lips said "Hello"
+And I said "Hi"
+I knew right then you were the one
+But I was caught up
+In physical attraction
+But to my satisfaction
+Baby you were more than just a phase
+And if I ever (ever fall) in love again (again)
+I will be sure that the lady is a friend
+And if I ever (ever fall) in love so true (true)
+I will be sure that the lady's just like you
+Oooh
+Yeeaah, baby, yeah
+Ma-ma, ma-my, ma-my
+I swear next time she'll be my friend
+If I say that I can be your one and only
+(Promise, promise) Promise that you'll never leave me lonely
+I just wanna be the one you need
+Oh baby
+I just wanna be the one who serves you
+Sometime I feel as if I don't deserve you
+I cherish every moment that we share
+And if I ever (ever fall) in love again (again)
+I will be sure that the lady is a friend
+And if I ever (ever fall) in love so true (true)
+I will be sure that the lady's just like you
+(My friend)
+Very next time she will be my friend
+Someone who I can believe in
+(My friend)
 
+And if I ever (ever fall) in love again (again)
+I will be sure that the lady is a friend
+And if I ever (ever fall) in love so true (true)
+I will be sure that the lady's just like you
+---
+.

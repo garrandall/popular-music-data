@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: find-your-love-drake
+lyrics_url: https://genius.com/Drake-find-your-love-lyrics
 name: Find Your Love
 rankings:
 - end_date: '2010-05-28'
@@ -91,4 +92,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-10-09'
 ---
+I'm more than just an option (Hey, hey, hey)
+Refuse to be forgotten (Hey, hey, hey)
+I took a chance with my heart, (Hey, hey, hey)
+And I feel it taking over
 
+
+I better find your loving, I better find your heart
+I better find your loving, I better find your heart
+I better find your loving, I better find your heart
+I bet if I give all my love then nothing's gonna tear us apart
+
+
+I'm more than just a number (Hey, hey, hey)
+I doubt you'll find another (Hey, hey, hey)
+So every single summer (Hey, hey, hey)
+I'll be the one that you'll remember and—
+
+
+I better find your loving, I better find your heart
+I better find your loving, I better find your heart
+I better find your loving, I better find your heart
+I bet if I give all my love then nothing's gonna tear us apart
+
+
+It's more than just a mission (Hey, hey, hey)
+You hear, but you don't listen (Hey, hey, hey)
+You better pay attention (Hey, hey, hey)
+And get what you've been missing
+
+
+I better find your loving, I better find your heart
+I better find your loving, I better find your heart
+I better find your loving, I better find your heart
+I bet if I give all my love then nothing's gonna tear us apart
+
+
+Too many times I've been wrong
+I guess being right takes too long
+I'm done waiting, there's nothing left to do
+But give all I have to you and
+
+
+I better find your loving, I better find your heart
+I better find your loving
+I bet if I give all my love then nothing's gonna tear us apart
+I bet if I give all my love then nothing's gonna tear us apart

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: da-butt-e-u-
+lyrics_url: https://genius.com/Eu-da-butt-lyrics
 name: Da'Butt
 rankings:
 - end_date: '1988-04-22'
@@ -55,4 +56,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-02'
 ---
+Alright, come on, sing it one time
+(Yeah-yeah, yeah, yeah, yeah, yeah)
+Sing, oww (Yeah-yeah, yeah, yeah, yeah, yeah)
+Ha, ha
 
+
+Walked in this place, surprised to see
+A big girl gettin' busy, just rockin' to the go-go beat
+The way she shook her booty sho' looked good to me
+I said, 'Come here, big girl, won't you rock my world?
+Show that dance to me'
+
+
+She was doin' the butt, hey pretty, pretty
+When you get that notion
+Put your backfield in motion, hey
+Doin' the butt, hey sexy, sexy
+Ain't nothing wrong
+If you wanna do the butt, all night long
+
+(Yeah-yeah, yeah, yeah, yeah, yeah)
+What you gonna do about it?
+(Yeah-yeah, yeah, yeah, yeah, yeah)
+Shake it
+
+
+I took that girl out on the floor
+She rocked me from the backside
+We did the butt 'til it made me sore
+Now, it's a physical thing, but not hard to do
+You just shake-a shake, shake, shake, shake-a shake, shake
+Doin' the butt the whole night through, come on
+
+
+She was doin' the butt, hey pretty, pretty
+When you get that notion
+Put your backfield in motion, hey
+Doin' the butt, hey sexy, sexy
+Ain't nothing wrong
+If you wanna do the butt, all night long
+
+
+(We got the butt)
+D.C. (We got the butt)
+L.A., What you got to say (We got the butt)
+Philly (We got the butt)
+Atlanta (We got the butt)
+Baltimore, Won't you come holla at me
+
+Tanya got a big ol' butt (Oh yeah)
+Shirley got a big ol' butt (Oh yeah)
+Irene got a big ol' butt (Oh yeah)
+Teresa got a big ol' butt (Big ol' butt)
+Sonya got a big ol' butt (Oh yeah)
+Melissa got a big ol' butt (Oh yeah)
+Ol' Tammy got a bubble butt(Oh yeah)
+Little Keisha got a big ol' butt (Big ol' butt)
+Now, gimme the butt!
+
+(Yeah-yeah, yeah, yeah, yeah, yeah)
+I'm gonna drop you lines before we set up
+We're screamin' at girls with the big ol' butt, sing it
+Oww (Yeah-yeah, yeah, yeah, yeah, yeah)
+I want your butt, that butt, that big ol', big ol' butt, oww
+
+
+She was doin' the butt, hey pretty, pretty
+When you get that notion
+Put your backfield in motion, hey
+Doin' the butt, hey sexy, sexy
+Ain't nothing wrong
+If you wanna do the butt, all night long

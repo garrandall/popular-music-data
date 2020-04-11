@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-hold-back-chanson
+lyrics_url: https://genius.com/Chanson-dont-hold-back-lyrics
 name: Don't Hold Back
 rankings:
 - end_date: '1978-11-17'
@@ -71,4 +72,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-02-24'
 ---
+Don't hold back
+If it feels good, do it
+Don't hold back
 
+Don't hold back
+If it feels good
+Don't hold back
+
+
+If you want to shout
+And dance all around
+Don't hold back
+
+Said if you want to party
+Party, party, party
+Don't hold back
+
+
+Don't hold back
+If it feels good, do it
+Don't hold back
+
+Don't hold back
+If it feels good
+Don't hold back
+
+
+If you want to change your mind
+And it feels good, do it
+Don't hold back
+
+And if the music makes you move
+Stand up, do the groove
+Don't hold back
+
+
+Don't hold back
+If it feels good, do it
+Don't hold back
+
+
+Don't hold back
+If it feels good
+Don't hold back
+
+
+Don't hold back
+If it feels good, do it
+Don't hold back
+
+
+Don't hold back
+If it feels good
+Don't hold back
+
+
+Don't hold back 
+If it feels good, do it
+Don't hold back
+[Don't hold back
+Don't hold back, baby, yeah]
+
+Don't hold back
+If it feels good
+Don't hold back
+
+
+Don't hold back
+If it feels good, do it 
+Don't hold back 
+Don't hold back
+Don't hold back
+
+Don't hold back 
+If it feels good 
+Don't hold back
+
+Baby, don't hold back
+If it feels good, do it
+Don't hold back
+
+Don't hold back
+If it feels...

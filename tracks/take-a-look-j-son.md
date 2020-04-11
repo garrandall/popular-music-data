@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-a-look-j-son
+lyrics_url: https://genius.com/Json-take-a-look-lyrics
 name: Take A Look
 rankings:
 - end_date: '1996-03-01'
@@ -55,4 +56,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-05-11'
 ---
+Ooh, ooh
+Take a look at me
 
+
+Take a look at me
+And tell me what you see
+I need somebody to love me for me
+
+Why don't you take a look at me
+And tell me what you see
+I need somebody to love me for me
+
+
+Every time
+I look around for someone
+To help me out from being down
+You’re always there by my side
+Never asking for too much
+
+You’re always willing to try
+So baby
+Take a look
+
+
+Oh, how bad I need someone
+(To love me for me)
+Could you be the one
+(To set my heart so free?)
+
+How I need you, girl
+(Oh, oh, to show that you care)
+I’m in need of love
+(Somebody to share)
+
+
+Take a look at me
+And tell me what you see
+(Tell me, baby)
+I need somebody to love me for me
+
+Why don't you take a look at me
+(Take a look)
+And tell me what you see
+(Tell me what you see)
+I need somebody to love me for me
+
+
+Can somebody help me out
+And tell me is this a dream
+Or so it seems
+That this is love is rare
+
+Do you really care?
+I need to need to know right now
+That you'll always be there
+
+
+
+
+
+
+Oh, how I need someone
+(Oh, yeah)
+To love me for me
+Could you be the one
+(Could you be the one?)
+To set my heart free
+
+How I need you bad
+(Yeah)
+To show that you care
+I’m in need of love
+(Just take a look)
+Somebody to share
+
+
+
+Take a look at me

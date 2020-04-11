@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ran--so-far-away--a-flock-of-seagulls
+lyrics_url: https://genius.com/A-flock-of-seagulls-i-ran-live-lyrics
 name: I Ran (So Far Away)
 rankings:
 - end_date: '1982-07-16'
@@ -95,4 +96,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-12-04'
 ---
+I walk along the avenue
+I never thought I'd meet a girl like you
+Meet a girl like you
+With auburn hair and tawny eyes
+The kind of eyes that hypnotize me through
+You hypnotize me through
 
+
+And I ran, I ran so far away
+I just ran, I ran all night and day
+I couldn't get away
+
+
+A cloud appears above your head
+A beam of light comes shining down on you
+Shining down on you
+The cloud is moving nearer still
+Aurora Borealis comes in view
+Aurora comes in view
+
+
+And I ran, I ran so far away
+I just ran, I ran all night and day
+I couldn't get away
+
+
+Reached out a hand to touch your face
+You're slowly disappearing from my view
+'Appearing from my view
+Reached out a hand to try again
+I'm floating in a beam of light with you
+A beam of light with you
+
+
+And I ran, I ran so far away
+I just ran, I ran all night and day
+And I ran, I ran so far away
+I just ran, I couldn't get away

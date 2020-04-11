@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pledging-my-love-johnny-tillotson
+lyrics_url: https://genius.com/Johnny-tillotson-pledging-my-love-lyrics
 name: Pledging My Love
 rankings:
 - end_date: '1960-04-17'
@@ -31,4 +32,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
 ---
+Forever my darling our love will be true
+Always and forever I'll love just you
+Just promise me darling your love in return
+Let this fire in my soul dear forever burn
 
+My heart's at your command dear to keep love and to hold
+Making you happy is my desire dear keeping you is my goal
+I'll forever love you the rest of my days
+I'll never part from you and your loving way
+
+My heart's at your command dear...

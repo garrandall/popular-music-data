@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stand-by-me-john-lennon
+lyrics_url: https://genius.com/John-lennon-stand-by-me-lyrics
 name: Stand By Me
 rankings:
 - end_date: '1975-03-21'
@@ -43,4 +44,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-10'
 ---
+When the night has come
+And the land is dark
+And the moon
+Is the only light we'll see
+No, I won't be afraid
+No, I won't be afraid
+Just as long as you stand
+Stand by me
 
+
+So, darling, darling stand by me
+Oh, stand by me
+Oh, stand, stand by me, stand by me
+
+
+If the sky that we look upon
+Should tumble and fall
+And the mountain should crumble in the sea
+I won't cry, I won't cry
+No I won't shed a tear
+Just as long as you stand
+Stand by me
+
+
+So, darling, darling stand by me
+Oh, stand by me
+Oh, stand, stand by me, stand by me

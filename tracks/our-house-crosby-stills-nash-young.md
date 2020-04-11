@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: our-house-crosby-stills-nash-young
+lyrics_url: https://www.musixmatch.com/lyrics/Crosby-Stills-Nash-Young-feat-Young/Our-House
 name: Our House
 rankings:
 - end_date: '1970-09-25'
@@ -43,4 +44,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-14'
 ---
+I'll light the fire
+You place the flowers in the vase
+That you bought today
 
+Staring at the fire
+For hours and hours while I listen to you
+Play your love songs all night long for me
+Only for me
+
+Come to me now (Come to me now)
+And rest your head for just five minutes
+Everything is done
+Such a cozy room (Such a cozy room)
+The windows are illuminated
+By the evening sunshine through them
+Fiery gems for you, only for you
+
+Our house is a very, very, very fine house
+With two cats in the yard
+Life used to be so hard
+Now everything is easy 'cause of you
+And our
+
+La-la, la-la-la-la-la
+La-la-la-la, la-la-la-la-la
+La-la-la-la-la-la-la
+La-la-la-la-la-la-la-la
+La-la, la-la-la-la-la
+La-la-la-la, la-la-la-la-la
+La-la-la-la-la-la-la
+
+Our house is a very, very, very fine house
+With two cats in the yard
+Life used to be so hard
+Now everything is easy 'cause of you
+And our
+
+I'll light the fire
+While you place the flowers in the vase
+That you bought today

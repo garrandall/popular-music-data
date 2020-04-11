@@ -1,8 +1,6 @@
 ---
 artists:
-- Earth
-- Wind
-- Fire
+- Earth, Wind & Fire
 features: []
 genres: []
 key: side-by-side-earth-wind-fire

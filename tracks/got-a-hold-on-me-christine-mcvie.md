@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: got-a-hold-on-me-christine-mcvie
+lyrics_url: https://genius.com/Christine-mcvie-got-a-hold-on-me-lyrics
 name: Got A Hold On Me
 rankings:
 - end_date: '1984-02-03'
@@ -71,4 +72,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-05-12'
 ---
+You're lifting me up
+Never let me down
+And I smile
+Whenever you're around
 
+Ooh
+And I've got a feeling
+It'll work out right
+Can't stop thinking about you
+Every day and night
+
+Ooh, I got a love
+(I got somebody)
+This love
+(Got a hold on me)
+
+Yeah, I got a love
+(I got somebody)
+This love
+(Got a hold on me)
+
+Well, I've been in love
+And I've lost
+I can count the tears
+But I can't count the cost
+
+Oh, I've been down
+I've been used
+Now I know, I know, I know
+That I just can't lose
+
+Ooh, I got a love
+(I got somebody)
+This love
+(Got a hold on me)
+Yeah, I got a love
+(I got somebody)
+This love
+(Got a hold on me)
+
+Yeah, I got a love
+(I got somebody)
+This love
+(Got a hold on me)
+Ooh, I got a love
+(I got somebody)
+This love
+(Got a hold on me)
+
+Yeah, I got a love
+(I got somebody)
+This love
+(Got a hold on me)
+Ooh, I got a love
+(I got somebody)
+This love
+(Got a hold on me)
+
+I got a love
+(I got somebody)
+This love's got a hold on me
+I got a love
+(I got somebody)
+This love
+(Got a hold on me)
+
+Ooh, I got a love
+(I got somebody)
+This love
+(Got a hold on me)
+I got a love
+(I got somebody)
+This love's got a hold on me

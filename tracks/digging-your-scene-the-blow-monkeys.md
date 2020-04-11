@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: digging-your-scene-the-blow-monkeys
+lyrics_url: https://genius.com/The-blow-monkeys-digging-your-scene-lyrics
 name: Digging Your Scene
 rankings:
 - end_date: '1986-05-09'
@@ -83,4 +84,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-06'
 ---
+I just got your message, baby
+So sad to see you fade away
+(What in the world is this feeling
+To catch a breath and leave me reeling?)
+It'll get you in the end, it's God's revenge
 
+Oh, I know I should come clean
+But I prefer to deceive
+(Everyday I walk alone
+And I pray that God won't see me)
+
+I know it's wrong
+I know it's wrong
+
+Tell me why
+Is it I'm digging your scene?
+I know I'll die
+Baby
+
+They put you in a home to fill in
+Oh, but I wouldn't call that living
+(I'm like a boy among men
+I'd like a permanent friend)
+
+I'd like to think that I was just myself again
+
+Oh, tell me why
+Is it I'm digging your scene?
+I know I'll die
+Baby
+
+I just got your message, baby
+So sad to see you fade away
+(I'm like a boy among men
+I'd like a permanent friend)
+
+I'd like to think that I was just myself again
+
+Oh, tell me why
+Is it I'm digging your scene?
+I know I'll die
+Baby
+
+Now tell me why
+Is it I'm digging your scene?
+I know I'll die
+Baby
+
+Oh, come on, baby
+
+Oh, come on, baby

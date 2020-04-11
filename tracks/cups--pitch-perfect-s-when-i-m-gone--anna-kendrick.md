@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cups--pitch-perfect-s-when-i-m-gone--anna-kendrick
+lyrics_url: https://genius.com/Anna-kendrick-cups-pop-version-lyrics
 name: Cups (Pitch Perfect's When I'm Gone)
 rankings:
 - end_date: '2013-01-18'
@@ -183,4 +184,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-11-09'
 ---
+I've got my ticket for the long way 'round
+Two bottle'a whiskey for the way
+And I sure would like some sweet company
+And I'm leaving tomorrow, what do you say?
 
+
+When I'm gone
+When I'm gone
+You’re gonna miss me when I'm gone
+You're gonna miss me by my hair
+You're gonna miss me everywhere, oh
+You're gonna miss me when I’m gone
+When I'm gone
+When I'm gone
+You're gonna miss me when I'm gone
+You're gonna miss me by my walk
+You're gonna miss me by my talk, oh
+You're gonna miss me when I'm gone
+
+
+I've got my ticket for the long way 'round
+The one with the prettiest of views
+It's got mountains, it's got rivers, it's got sights to give you shivers
+But it sure would be prettier with you
+
+
+When I'm gone
+When I'm gone
+You're gonna miss me when I'm gone
+You're gonna miss me by my walk
+You're gonna miss me by my talk, oh
+You're gonna miss me when I'm gone
+When I'm gone
+When I'm gone
+You’re gonna miss me when I'm gone
+You're gonna miss me by my hair
+You're gonna miss me everywhere, oh
+You're sure gonna miss me when I’m gone
+
+
+When I'm gone
+When I'm gone
+You’re gonna miss me when I'm gone
+You're gonna miss me by my walk
+You're gonna miss me by my talk, oh
+You're gonna miss me when I'm gone

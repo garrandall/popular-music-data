@@ -5,6 +5,7 @@ features:
 - Dolly Parton
 genres: []
 key: when-i-get-where-i-m-going-brad-paisley-dolly-parton
+lyrics_url: https://genius.com/Brad-paisley-and-dolly-parton-when-i-get-where-im-going-lyrics
 name: When I Get Where I'm Going
 rankings:
 - end_date: '2005-12-09'
@@ -88,4 +89,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-04-15'
 ---
-
+When I get where I'm goin'
+On the far side of the sky
+The first thing that I'm gonna do
+Is spread my wings and fly
+I'm gonna land beside a lion
+And run my fingers through his mane
+Or I might find out what it's like
+To ride a drop o' rain
+Yeah, when I get where I'm goin'
+There'll be only happy tears
+I will shed the sins and struggles
+I have carried all these years
+And I'll leave my heart wide open
+I will love and have no fear
+Yeah, when I get where I'm goin'
+Don't cry for me down here
+I'm gonna walk with my Grandaddy
+And he'll match me step for step
+And I'll tell him how I've missed him
+Every minute since he left
+And then I'll hug his neck
+Yeah, when I get where I'm goin'
+There'll be only happy tears
+I will shed the sins and struggles
+I have carried all these years
+And I'll leave my heart wide open
+I will love and have no fear
+Yeah, when I get where I'm goin'
+Don't cry for me down here
+So much pain and so much darkness
+In this world we stumble through
+All these questions I can't answer
+And so much work to do
+But when I get where I'm goin'
+And I see my Maker's face
+I'll stand forever in the light
+Of His amazing grace
+Yeah, when I get where I'm goin'
+Oh when I get where I'm goin'
+There'll be only happy tears
+I love you, yeah
+I will love and have no fear
+When I get where I'm goin'
+Yeah, when I get where I'm goin'

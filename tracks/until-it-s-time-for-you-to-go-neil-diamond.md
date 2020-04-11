@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: until-it-s-time-for-you-to-go-neil-diamond
+lyrics_url: https://genius.com/Neil-diamond-until-its-time-for-you-to-go-lyrics
 name: Until It's Time For You To Go
 rankings:
 - end_date: '1970-02-27'
@@ -31,4 +32,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
 ---
+You're not a dream
+You're not an angel
+You're a woman
 
+I'm not a king
+I'm a man
+Take my hand
+We'll make a space
+In the lives that we planned
+And here we'll stay
+Until it's time for you to go
+
+Yes we're different worlds apart
+We're not the same
+We laughed and played
+At the start like in a game
+You could have stayed outside my heart
+But in you came
+And here you'll stay
+Until it's time for you to go
+
+Don't ask why
+Don't ask how
+Don't ask for ever, honey
+Love me, now
+This love of mine
+Had no beginning it has no end
+I was an oak now I'm a willow
+Now I can bend
+And though
+I'll never in my life see you again
+Still I'll stay
+Until it's time for you to go
+
+Don't ask why of me
+Don't ask how of me
+Don't ask forever of me honey
+Love me Love me
+
+You're not a dream
+You're not an angel
+You're a woman
+I'm not a king
+I'm a man
+Take my hand
+We'll make a space
+In the lives that we planned
+And here we'll stay
+Until it's time for you to go

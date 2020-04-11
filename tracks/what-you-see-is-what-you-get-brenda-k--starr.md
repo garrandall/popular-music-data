@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-you-see-is-what-you-get-brenda-k--starr
+lyrics_url: https://genius.com/Brenda-k-starr-what-you-see-is-what-you-get-lyrics
 name: What You See Is What You Get
 rankings:
 - end_date: '1988-08-12'
@@ -59,4 +60,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
 ---
+Ooh, yeah
 
+
+What you see is what you get
+What you get is everything now, honey
+What you see is what you get
+Nothing more and nothing less
+
+
+Ooh
+I been watching your eyes
+Looking for someone
+(Time...)
+Time after time
+They met mine, the chase is on
+
+You think I'm this
+You think I'm that
+I wonder why you stop and go
+
+Do you think I'm weak
+Do you think I'm strong
+I think I ought to let you know
+
+
+What you see is what you get, baby
+What you get is everything now, honey
+What you see is what you get
+You get nothing more and nothing less, no
+
+
+Ooh, move closer, baby
+Come on, keep me company
+Say, do anything but
+Don't try rearranging me
+
+'Cause I may be this
+And I may be that
+But I don't know
+Why you stop and go
+
+If you decide to make up your mind
+I think I ought to let you know
+
+
+
+Oh, oh, oh
+What you see is what you
+What you see is what you
+What you see is what you
+What you see is what you get, get, get
+
+
+'Cause I may be this
+I may be that
+I don't know why you stop and go
+If you decide to make up your mind
+I think I ought to let you know
+
+
+What you see is what you get, baby
+What you get is everything now, honey
+What you see is what you get, sugar
+Nothing more and nothing less
+
+Nothing more and nothing less
+No, no

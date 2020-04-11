@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: morning-has-broken-cat-stevens
+lyrics_url: https://genius.com/Cat-stevens-morning-has-broken-lyrics
 name: Morning Has Broken
 rankings:
 - end_date: '1972-04-07'
@@ -63,4 +64,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-07-01'
 ---
+Morning has broken like the first morning
+Blackbird has spoken like the first bird
+Praise for the singing, praise for the morning
+Praise for them springing fresh from the Word
 
+Sweet the rain's new fall, sunlit from Heaven
+Like the first dew fall on the first grass
+Praise for the sweetness of the wet garden
+Sprung in completeness where His feet pass
+
+Mine is the sunlight, mine is the morning
+Born of the One Light Eden saw play
+Praise with elation, praise every morning
+God's recreation of the new day
+
+Morning has broken like the first morning
+Blackbird has spoken like the first bird
+Praise for the singing, praise for the morning
+Praise for them springing fresh from the Word

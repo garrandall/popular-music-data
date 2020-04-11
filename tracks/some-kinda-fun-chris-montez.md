@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: some-kinda-fun-chris-montez
+lyrics_url: https://genius.com/Chris-montez-some-kinda-fun-lyrics
 name: Some Kinda Fun
 rankings:
 - end_date: '1962-12-14'
@@ -43,4 +44,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-02'
 ---
+Well, they're dancing all over, yeah
+They're dancing everywhere I go
+You know I see 'em on the TV
+And I hear it on the radio
 
+Gonna twist, gonna stomp with you
+Do the wobble and the watusi too
+Locomotion here we come
+Gonna have some kinda' fun
+
+Well, they're moving and a grooving, yeah
+They're dancing with all they got
+I see them shimmy waddle waddle
+And they're stomping like I don't know what
+
+Gonna twist, gonna stomp with you
+Do the wobble and the watusi too
+Locomotion here we come
+Gonna have some kinda' fun
+
+Work out
+Oh, yeah
+
+Well, they're dancing all over, yeah
+They're dancing everywhere I go
+You know I see 'em on the TV
+And I hear it on the radio
+
+Gonna twist, gonna stomp with you
+Do the wobble and the watusi too
+Locomotion here we come
+Gonna have some kinda' fun
+
+Well, they're moving and a grooving, yeah
+They're dancing with all they got
+I see them shimmy waddle waddle
+And they're stomping like I don't know what
+
+Gonna twist, gonna stomp with you
+Do the wobble and the watusi too
+Locomotion here we come
+Gonna have some kinda' fun
+
+Some kinda' fun
+Some kinda' fun
+Some kinda' fun
+Some kinda' fun
+Some kinda' fun
+Some kinda' fun

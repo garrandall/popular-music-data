@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: break-three-days-grace
+lyrics_url: https://genius.com/Three-days-grace-break-lyrics
 name: Break
 rankings:
 - end_date: '2009-10-02'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-02-06'
 ---
+Tonight, my head is spinning
+I need something to pick me up
+I’ve tried, but nothing is working
+I won’t stop, I won’t say I’ve had enough
 
+
+Tonight, I start the fire
+Tonight, I break away
+
+
+Break away from everybody
+Break away from everything
+If you can’t stand the way this place is
+Take yourself to higher places
+
+
+At night I feel like a vampire
+It’s not right but I just can’t give it up
+I’ll try to get myself higher
+Let’s go, we’re going to light it up
+
+
+Tonight, we start the fire
+Tonight, we break away
+
+
+Break away from everybody
+Break away from everything
+If you can’t stand the way this place is
+Take yourself to higher places
+
+
+If you can’t stand the way this place is
+Take (take) yourself (yourself) to higher places
+
+
+Break away from everybody
+Break away from everything
+If you can’t stand the way this place is
+Take yourself to higher places
+
+
+Higher places
+To higher places
+Higher places
+Take yourself to higher places

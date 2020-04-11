@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: selfish-one-jackie-ross
+lyrics_url: https://genius.com/Jackie-ross-selfish-one-lyrics
 name: Selfish One
 rankings:
 - end_date: '1964-08-07'
@@ -47,4 +48,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-03'
 ---
+Selfish one why keep your love to yourself
+Oh oh yeah
+It's like a souvenir that just sits on a shelf
+Oh oh oh oh oh oh
+It seems like you built a fence around your heart and afraid that sharing
+Might tear it apart and ya pass up every chance at the start of romance oh
+Oh oh oh oh Selfish one why keep your love in store oh oh yeah you think
+It's steel that will keep forever more oh oh oh oh oh but steel wears out
+Through weather and age and a heart could break down in a lonely stage you
+Better let your heart down mate, before it's too late
 
+You let so much time pass by, and I find myself still giving you the eye
+Then you must have realized, cause much to my surprise you're making eyes
+At me Is it really you?
+
+Now, selfish one you're walking me to my door
+Oh oh yeah
+Selfish one, you never did this before
+Oh oh no
+Without a chance to resist, your lips met mine
+You begin to let your lovelight shine
+And I can see that you're really on the ball, and
+You're not selfish at all
+No-o-o, not at all
+No-o, the way you hold me
+Oh oh yeah, the way you squeeze me
+No you're not selfish, no no no
+You're not selfish at all
+Oh oh oh, not at all
+No-o the way ya kiss me
+Don't ya know that I love the way ya hold me yeah
+No-o-o not at all, no-o-o not at all, no-o-o not at all

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: eye-to-eye-go-west
+lyrics_url: https://genius.com/Go-west-eye-to-eye-lyrics
 name: Eye To Eye
 rankings:
 - end_date: '1985-10-04'
@@ -35,4 +36,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-09'
 ---
+Maybe it's the wrong time
+But when is the right time to say i lied ?
+I've been keeping secrets
+Could this be the last time we say goodbye ?
 
+(here we are)
+Eye to eye no conversation
+You know what i'm going to say
+Eye to eye it's a sad situation
+Girl have i thrown it away ?
+
+I was missing you, missing you
+I needed someone to comfort me
+When you closed the door baby
+How could i know that i still had the key ?
+
+Your love never thought that i would lose it
+My love won't you tell me what it takes to prove it ?
+All i want is your love
+
+It's all up to you girl
+I just couldn't keep it to myself
+She was nothing to me
+And you know in your heart
+I don't want anyone else

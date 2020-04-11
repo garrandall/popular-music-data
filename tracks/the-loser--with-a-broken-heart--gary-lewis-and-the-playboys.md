@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-loser--with-a-broken-heart--gary-lewis-and-the-playboys
+lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-the-loser-with-a-broken-heart-lyrics
 name: The Loser (With A Broken Heart)
 rankings:
 - end_date: '1967-03-17'
@@ -31,4 +32,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-04-15'
 ---
+Have I got the right to call myself a man
+Or will I go livin' up to my name again?
+When I get the chance to love I let it pass
+It's not the first I lost and it won't be the last
 
+'Cause I'm a
+(Loser)
+With a broken heart
+(Loser)
+Tearin' me apart
+(Loser)
+And the loser is my name
+
+When I use my heart just like a stepping stone
+And when it's torn apart I feel so all alone
+Feelin' sorry for myself is all I do
+Things don't ever turn out like I want 'em to
+
+'Cause I'm a
+(Loser)
+With a broken heart
+(Loser)
+Tearin' me apart
+(Loser)
+And the loser is my name
+
+I'm not asking much from love
+Not expecting much from love
+If just once I could win
+I could fall in love again
+
+In the end I know that I will always choose
+I have only one direction I can choose
+Stay and let me treat her like the fool I am
+Have I got the right to call myself a man?
+
+'Cause I'm a
+(Loser)
+With a broken heart
+(Loser)
+Tearin' me apart
+(Loser)
+
+'Cause I'm a
+(Loser)
+With a broken heart
+(Loser)
+Tearin' me apart
+(Loser)
+
+'Cause I'm a
+(Loser)
+With a broken heart
+(Loser)
+Tearin' me apart
+(Loser)
+...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: change-of-heart-tom-petty-and-the-heartbreakers
+lyrics_url: https://genius.com/Tom-petty-and-the-heartbreakers-change-of-heart-lyrics
 name: Change Of Heart
 rankings:
 - end_date: '1983-03-04'
@@ -51,4 +52,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-07'
 ---
+Well I fought for you
+I fought too hard
+To do it all again babe
+It's gone too far
+You never needed me
+You only wanted me around
+It gets me down
 
+There's been a change
+Yeah there's been a change of heart
+Said there's been a change
+You push just a little too far
+You make it just a little to hard
+There's been a change of heart
+
+I'll get over you
+It won't take long
+I've stood in yer gallery
+Seen what's hanging from the wall
+You were the moon and sun
+Yer just a loaded gun now
+It gets me down
+
+(Chorus)
+
+Looks like we finally found the turning point
+Looks like it's time for me to kiss it goodbye
+Kiss it goodbye
+
+(Chorus)

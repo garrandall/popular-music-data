@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-thing-finger-eleven
+lyrics_url: https://genius.com/Finger-eleven-one-thing-lyrics
 name: One Thing
 rankings:
 - end_date: '2004-07-30'
@@ -123,4 +124,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-02-05'
 ---
+Restless tonight
+'Cause I wasted the light
+Between both these times
+I drew a really thin line
 
+It’s nothing I planned
+And not that I can
+But you should be mine
+Across that line
+
+
+If I traded it all
+If I gave it all away for one thing
+Just for one thing
+If I sorted it out
+If I knew all about this one thing
+Wouldn’t that be something
+
+I promise I might
+Not walk on by
+Maybe next time
+But not this time
+
+Even though I know
+I don’t want to know
+Yeah, I guess I know
+I just hate how it sounds
+
+
+If I traded it all
+If I gave it all away for one thing
+Just for one thing
+If I sorted it out
+If I knew all about this one thing
+Wouldn’t that be something
+
+If I traded it all
+If I gave it all away for one thing
+Just for one thing
+If I sorted it out
+If I knew all about this one thing
+Wouldn’t that be something
+
+Even though I know
+I don't wanna know
+Yeah, I guess I know
+I just hate how it sounds
+
+Even though I know
+I don't wanna know
+Yeah, I guess I know
+I just hate how it sounds
+
+
+If I traded it all
+If I gave it all away for one thing
+Just for one thing
+If I sorted it out
+If I knew all about this one thing
+Wouldn’t that be something
+
+If I traded it all
+If I gave it all away for one thing
+Just for one thing
+If I sorted it out
+If I knew all about this one thing
+Wouldn’t that be something
+
+If I traded it all
+If I gave it all away for one thing
+Just for one thing
+If I sorted it out
+If I knew all about this one thing
+Wouldn’t that be something
+
+If I traded it all
+If I gave it all away for one thing
+Just for one thing
+If I sorted it out
+If I knew all about

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweat--a-la-la-la-la-long--inner-circle
+lyrics_url: https://genius.com/Inner-circle-sweat-lyrics
 name: Sweat (A La La La La Long)
 rankings:
 - end_date: '1993-08-13'
@@ -107,4 +108,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-01-22'
 ---
-
+I've been watching you
+A la la la la long, a la la la la long long li long long long
+C'mon
+A la la la la long, a la la la la long long li long long long
+Hey
+Standing across the room
+I saw you smile
+Said i want to talk to you-oo-oo
+For a little while
+But before i make my move
+My emotions start running wild
+My tongue gets tied
+And that's no lie
+Looking in your eyes
+Looking in your big brown eyes
+Ooh yeah
+And i've got this to say to you
+Hey!
+Girl i want to make you sweat
+Sweat till you can't sweat no more
+And if you cry out
+I'm gonna push it some, more, more
+Girl i want to make you sweat
+Sweat till you can't sweat no more
+And if you cry out
+I'm gonna push it
+Push it, push it some more
+A la la la la long, a la la la la long long li long long long
+C'mon
+A la la la la long, a la la la la long long li long long long
+So i said to myself
+Does she love me or not?
+But the dreads done know
+That love is his to get
+With a little bit of this
+And a little bit of that
+My lyric goes on the attack
+My tongue gets tied
+And that's no lie
+Looking in you eyes
+Looking in your big brown eyes
+Ooh girl
+And i've got this to say to you
+Hey!
+Girl i want to make you sweat
+Sweat till you can't sweat no more
+And if you cry out
+I'm gonna push it some, more, more
+Girl i want to make you sweat
+Sweat till you can't sweat no more
+And if you cry out
+I'm gonna push it
+Push it, push it some more
+A la la la la long, a la la la la long long li long long long
+Ooh yeah
+A la la la la long, a la la la la long long li long long long
+One more time
+A la la la la long, a la la la la long long li long long long
+Sing it
+A la la la la long, a la la la la long long li long long long
+Hey
+Woo woo woo woo wee yeah
+Eyes
+Looking in your big brown eyes
+And i've got this to say to you
+Hey
+Girl i want to make you sweat
+Sweat till you can't sweat no more
+And if you cry out
+I'm gonna push it some, more, more
+Girl i want to make you sweat
+Sweat till you can't sweat no more
+And if you cry out
+I'm gonna push it
+Push it, push it some more

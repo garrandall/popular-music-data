@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mr-dieingly-sad-the-critters
+lyrics_url: https://genius.com/The-critters-mr-dieingly-sad-lyrics
 name: Mr Dieingly Sad
 rankings:
 - end_date: '1966-08-19'
@@ -51,4 +52,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-22'
 ---
+Just a breeze will muss your hair
+But you smile away each little care
+And if the rain should make you blue
+You say tomorrow is a new
+Blue be your eyes, blonde your hair
+You realize beyond a care
+Life's in a hurry, but
+You've got no worry, you're
+So mystifyingly glad
+I'm Mr. Dieingly Sad
 
+And when the leaves begin to fall
+Answering old winter's call
+I feel my tears, they fall like rain
+Weeping forth the sad refrain
+Blue, dark, and dim it may seem
+You mark a grin, a moonbeam
+Brightens your smile, pray tell me
+How all the while you can be
+So mystifyingly glad
+I'm Mr. Dieingly Sad
+
+You say "take my hand and walk with me
+Wake this land and stop the sea
+Show me love, unlock
+All doors
+I'm yours"
+
+Then the tide rolls up to shore
+I whisper low, "I love you more
+More than even you could know"
+Adore me do so I could show
+I'm so mystifyingly glad
+Not Mr. Dieingly Sad

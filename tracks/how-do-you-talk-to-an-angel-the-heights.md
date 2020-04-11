@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-do-you-talk-to-an-angel-the-heights
+lyrics_url: https://genius.com/The-heights-musical-how-do-you-talk-to-an-angel-lyrics
 name: How Do You Talk To An Angel
 rankings:
 - end_date: '1992-10-09'
@@ -87,4 +88,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-02-13'
 ---
+I hear her voice
+In my mind
+I know her face by heart
+Heaven and earth are moving in my soul
+And I dont know where to start
+Tell me tell me the words to define
+The way I feel about someone so fine
 
+How do you talk to an angel?
+How do you hold her close to where you are?
+How do you talk to an angel?
+It's like tryin' to catch a falling star
+
+At night I dream and she is there
+And I can feel her in the air
+Tell me tell me the words to define
+The way I feel about someone so fine
+
+How do you talk to an angel?
+How do you hold her close to where you are?
+How do you talk to an angel?
+It's like tryin' to catch a falling star
+
+How do you talk to an angel?
+How do you hold her close to where you are?
+How do you talk to an angel?
+It's like tryin' to catch a falling star
+
+How do you talk to an angel?
+How do you hold her close to where you are?
+How do you talk to an angel?
+It's like tryin' to catch a falling star

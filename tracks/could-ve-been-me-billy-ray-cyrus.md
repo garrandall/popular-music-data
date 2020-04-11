@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: could-ve-been-me-billy-ray-cyrus
+lyrics_url: https://genius.com/Billy-ray-cyrus-couldve-been-me-lyrics
 name: Could've Been Me
 rankings:
 - end_date: '1992-10-16'
@@ -43,4 +44,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-01-02'
 ---
+I hear you just got married
+Took a month-long honeymoon
+And you were all smiles at the wedding
+You cried when you kissed the groom
+I got no invitation
+I guess the mailman didn't bring it to me
+But I see the whole thing in slow motion
+Every night as I try to sleep
 
+
+My buddy John said you looked real pretty
+And you acted like you were in love
+He said the preacher asked for objections
+And he thought about standing up
+I told John he must have been crazy
+'Cause you were just about to say I do
+He just gave me a wink and said all he could think
+Was it could've been me with you
+
+
+It could've been me standing there with you
+It could've been me and my dreams coming true
+But those dreams move on if you wait too long
+It took me till now to see it could've been me
+
+
+I don't guess I ever told you
+That I went out and bought you a ring
+I even carry it around in my pocket
+Waiting to say the right thing
+I pulled it out the other day
+But the diamond had lost its shine
+Well, I know how it feels cause my eyes grow dim
+When I think you could have been mine
+
+
+It could've been me standing there with you
+It could've been me and my dreams coming true
+But those dreams move on if you wait too long
+It took me till now to see it could've been me
+
+
+I know I called just in time a bit too late
+You know dreams move on if you wait too long
+It took me till now to see that
+
+
+It could've been me standing there with you
+It could've been me and my dreams coming true
+But those dreams move on if you wait too long
+It took me till now to see it could've been me
+
+
+(It could've been me) it could've been me
+(It could've been me) it could've been me
+(It could've been me) it could've been me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sugar-and-spice-the-cryan--shames
+lyrics_url: https://genius.com/The-cryan-shames-sugar-and-spice-lyrics
 name: Sugar And Spice
 rankings:
 - end_date: '1966-07-29'
@@ -43,4 +44,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-17'
 ---
+Sugar and spice and all things nice, kisses sweeter than wine
+Sugar and spice and all things nice, you know that little girl is mine
 
+Everybody stops and stares at my baby, when she's walking down the street
+People passing by just look at my baby, cause my baby looks so sweet
+
+You know she's
+Sugar and spice and all things nice, kisses sweeter than wine
+Sugar and spice and all things nice, you know that little girl is mine
+
+Every time we kiss I get that feeling, every time we simply meet
+When I see her smile I get that feeling, cause my baby looks so sweet
+
+You know she's
+Sugar and spice and all things nice, kisses sweeter than wine
+Sugar and spice and all things nice, you know that little girl is mine
+
+Sugar and spice and all things nice, kisses sweeter than wine
+Sugar and spice and all things nice, you know that little girl is mine
+
+Never eve knew a girl so lovely, sweet enough to want to meet
+Everyone's crazy 'bout my baby, cause my baby looks so sweet
+
+You know she's
+Sugar and spice and all things nice, kisses sweeter than wine
+Sugar and spice and all things nice, you know that little girl is mine

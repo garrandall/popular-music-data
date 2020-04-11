@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wild-world-mr--big
+lyrics_url: https://genius.com/Mr-big-wild-world-lyrics
 name: Wild World
 rankings:
 - end_date: '1993-10-15'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-02-19'
 ---
+Now that I've lost everything to you
+You say you wanna start something new
+And it's breaking my heart you're leavin'
+Baby, I'm grieving
 
+But if you wanna leave, take good care
+Hope you have a lot of nice things to wear
+But then, a lot of nice things turn bad out there
+
+Oooh, baby, baby, it's a wild world
+It's hard to get by just upon a smile
+Oooh, baby, baby, it's a wild world
+And I'll always remember you like a child, girl
+
+You know, I've seen a lot of what the world can do
+And it's breakin' my heart in two
+'Cause I never want to see you sad girl
+Don't be a bad girl
+
+But if you wanna leave, take good care
+Hope you make a lot of nice friends out there
+Just remember there's a lot of bad and beware
+
+Oooh, baby, baby, it's a wild world
+It's hard to get by just upon a smile
+Oooh, baby, baby, it's a wild world
+And I'll always remember you like a child, girl
+
+Baby I love you
+
+But if you wanna leave, take good care
+Hope you make a lot of nice friends out there
+Just remember there's a lot of bad and beware
+
+Oooh, baby, baby, it's a wild world
+It's hard to get by just upon a smile
+Oooh, baby, baby, it's a wild world
+And I'll always remember you like a child, girl
+
+Oooh, baby, baby, it's a wild world
+It's hard to get by just upon a smile
+Oooh, baby, baby, it's a wild world
+And I'll always remember you like a child, girl

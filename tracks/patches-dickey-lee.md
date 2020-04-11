@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: patches-dickey-lee
+lyrics_url: https://genius.com/Dickey-lee-patches-lyrics
 name: Patches
 rankings:
 - end_date: '1962-08-31'
@@ -63,4 +64,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-11-24'
 ---
+Down by the river that flows by the coal yards
+Stand wooden houses with shutters torn down
+There lives a girl everybody calls Patches
+Patches, my darling, of Old Shanty town
 
+We planned to marry when June brought the summer
+I couldn't wait to make Patches my bride
+Now I don't see how that ever can happen
+My folks say "No" and my heart breaks inside
+
+Patches, oh what can I do
+I swear I'll always love you
+But a girl from that place
+Would just bring me disgrace
+So my folks won't let me love you
+
+Each night I cry as I think of that shanty
+And pretty Patches there watching the door
+She dosn't know that I can't come to see her
+Patches must think that I love her no more
+
+I hear a neighbour telling my father
+He says a girl name of Patches was found
+Floating face down in that dirty old river
+That flows by the coal yards in Old Shanty Town
+
+Patches, oh what can I do
+I swear I'll always love you
+It may not be right
+But I'll join you tonight
+Patches I'm coming to you

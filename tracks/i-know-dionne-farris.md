@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-know-dionne-farris
+lyrics_url: https://genius.com/Dionne-farris-i-know-lyrics
 name: I Know
 rankings:
 - end_date: '1995-02-03'
@@ -159,4 +160,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-10-14'
 ---
+I know what you're doing, yeah, yeah
+I know why you dialed my number
+I know what you're doing, yeah, yeah
+I know why you care
 
+I know what you're doing, yeah, yeah
+I know why you say you love me
+I know what you're doing, yeah, yeah
+And I don't think it's fair
+
+I know why you dialed my number
+I know why you say you're mine
+I know what you're doing
+And it's not gonna work this time
+Not gonna work this time
+
+I know what you're doing, yeah, yeah
+I can never sing in that key
+I know what you're doing, yeah, yeah
+And you're the one to blame
+
+I know what you're doing, yeah, yeah
+I know why you can't forgive me
+I know why you're singing lost love
+The lyrics haven't changed
+
+I can recognize the symptoms
+You should know I've changed my mind
+I know what you're doing
+And it's not gonna work this time
+Hey, said it's not gonna work this time
+Not gonna work this time
+Not gonna work this time
+
+I know what you're doing, baby
+I know why you call my name
+I know why you say you love me
+But I can't say the same
+
+I can recognize the symptoms
+You should know I've changed my mind
+I know what you're doing
+And it's not gonna work this time

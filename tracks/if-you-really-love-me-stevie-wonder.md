@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-really-love-me-stevie-wonder
+lyrics_url: https://genius.com/Stevie-wonder-if-you-really-love-me-lyrics
 name: If You Really Love Me
 rankings:
 - end_date: '1971-08-20'
@@ -63,4 +64,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-11-13'
 ---
+And if you really love me won't you tell me
+And if you really love me won't you tell me
+And if you really love me won't you tell me
+Then I won't have to be
+Playing around
 
+
+You call my name
+Ooh so sweet
+To make your kiss incomplete
+When your mood is clear
+You quickly change your ways
+Then you say I'm untrue
+What am I supposed to do
+Be a fool who sits alone waiting for you
+
+
+And if you really love me won't you tell me
+And if you really love me won't you tell me
+And if you really love me won't you tell me (yeah)
+Then I won't have to be
+Playing around
+
+
+I see the light of your smile
+Calling me all the while
+You are saying baby
+It's time to go
+First the feeling's alright
+Then it's gone from sight
+So I'm taking out this time to say
+Ooh oh
+
+
+And if you really love me won't you tell me
+And if you really love me won't you tell me
+And if you really love me won't you tell me, baby tell me
+Then I won't have to be
+Playing around
+Playing around (oh Yeah)
+Playing around
+
+
+Hey yeah
+Goofing around no
+Oh baby
+Playing around no
+Let me know how you feel baby (ooooh ooh)
+Hey oh baby
+Playing around no (oh oh)

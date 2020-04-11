@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: laura-what-s-he-got-that-i-ain-t-got-frankie-laine
+lyrics_url: https://genius.com/Frankie-laine-laura-whats-he-got-that-i-aint-got-lyrics
 name: Laura What's He Got That I Ain't Got
 rankings:
 - end_date: '1967-08-18'
@@ -31,4 +32,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
 ---
+Laura, hold these hands and count my fingers
+Laura, touch these lips you once desired
+Lay your head upon my chest, hear my heartbeat
+Gently run your fingers through my hair
 
+Mmm, touch these ears that listened to your wishes
+Most of them fulfilled, and that's a lot
+Let your soft gentle hands caress my body
+And then tell me what he's got that i ain't got
+
+Oh, yes tell me what he's got that i can't give you
+Well, it must be something i was born without
+You took an awful chance to be with another man
+So tell me what he's got that i ain't got
+Laura, see these walls that i built for you
+Laura, see this carpet that i laid
+See those fancy curtains on the windows
+Touch those satin pillows on your bed
+
+Laura, count the dresses in your closet
+Note the name upon the checkbook in your bag
+And if there's time before i pull this trigger
+Then tell me what he's got that i ain't got
+
+Oh, yes tell me what he's got that i can't give you
+Well, it must be something i was born without
+And if there's time before i pull this trigger
+Then tell me what he's got that i ain't got
+
+Laura, tell me what he's got that i ain't got

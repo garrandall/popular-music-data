@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pink-shoe-laces-dodie-stevens
+lyrics_url: https://genius.com/Dodie-stevens-pink-shoe-laces-lyrics
 name: Pink Shoe Laces
 rankings:
 - end_date: '1959-02-22'
@@ -83,4 +84,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
 ---
+Now I've got a guy and his name is Dooley
+He's my guy and I love him truly
+He's not good lookin', heaven knows
+But I'm wild about his crazy clothes
 
+He wears tan shoes with pink shoelaces
+A polka dot vest and man, oh, man
+Tan shoes with pink shoelaces
+And a big Panama with a purple hat band
+
+Ooh-ooh, ooh, ooh
+Ooh-ooh, ooh, ooh
+
+He takes me deep-sea fishing in a submarine
+We got to drive-in movies in a limousine
+He's got a whirly-birdy and a 12-foot yacht
+Ah, but that's-a not all he's got
+
+He's got tan shoes with pink shoelaces
+A polka dot vest and man, oh, man
+Tan shoes with pink shoelaces
+And a big Panama with a purple hat band
+
+Now Dooley had a feelin' we were goin' to war
+So he went out and enlisted in a fightin' corps
+But he landed in the brig for raisin' such a storm
+When they tried to put 'em in a uniform
+
+He wanted tan shoes with pink shoelaces
+A polka dot vest and man, oh, man
+He wanted tan shoes with pink shoelaces
+And a big Panama with a purple hat band
+
+Ooh-ooh, ooh, ooh
+Ooh-ooh, ooh, ooh
+
+Now one day Dooley started feelin' sick
+And he decided that he better make his will out quick
+He said "Just before the angels come to carry me
+I want it down in writin' how to bury me."
+
+A'wearin tan shoes with pink shoelaces
+A polka dot vest and man, oh, man
+Give me tan shoes with pink shoelaces
+And a big Panama with a purple hat band
+
+Ooh-ooh, ooh, ooh
+Ooh-ooh, ooh, ooh
+Ooh-ooh, ooh, ooh
+
+And a big Panama with a purple hat band!!

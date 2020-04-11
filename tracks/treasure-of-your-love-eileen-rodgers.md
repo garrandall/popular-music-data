@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: treasure-of-your-love-eileen-rodgers
+lyrics_url: https://www.musixmatch.com/lyrics/Eileen-Rodgers/Treasure-of-Your-Love
 name: Treasure Of Your Love
 rankings:
 - end_date: '1958-08-31'
@@ -67,4 +68,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
 ---
+If I could have a mountain made of gold and diamonds like the stars above,
+The treasure I would most be longing for would be the treasure of your love.
 
+If I could have a silver ship to sail and all the pearls within the sea,
+
+Oh I would gladly give them all away if you would give your love to me.
+
+The one thing I want no riches can buy,
+A love that is true and you by my side.
+
+Don't want a silver ship or gold or pearls or diamonds like the stars above,
+What good would all these treasures be to me without the treasure of your love.
+
+The one thing I want no riches can buy,
+A love that is true and you by my side
+
+Don't want a silver ship or gold or pearls, or diamonds like the stars above
+What good would all these treasures be to me without the treasure of your love.

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: woodstock-matthews--southern-comfort
+lyrics_url: https://genius.com/Matthews-southern-comfort-woodstock-lyrics
 name: Woodstock
 rankings:
 - end_date: '1971-03-12'
@@ -71,4 +72,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-19'
 ---
+I came upon a child of God
+He was walking along the road
+When I asked him, where are you going?
+This he told me
+I'm going down to Yasgur's farm
+Think I'll join a rock and roll band
+I'll camp out on the land
+I'll try and set my soul free
 
+We are stardust, we are golden
+And we've got to get ourselves back to the garden
+
+Then can I walk beside you
+I have come here to lose the smog
+And I feel just like a cog
+In something turning
+Well maybe it's the time of year
+Or maybe it's the time of man
+And I don't know who I am
+But life's for learning
+
+We are stardust, we are golden
+And we've got to get ourselves back to the garden
+
+By the time I got to Woodstock
+They were half a million strong
+Everywhere there were songs
+And celebration
+And I dreamed I saw the bombers
+Riding shotgun in the sky
+Turning into butterflies
+Above our nation
+
+We are stardust, we are golden
+And we've got to get ourselves back to the garden
+
+We are stardust, we are golden
+And we've got to get ourselves back to the garden
+
+We are stardust, we are golden
+And we've got to get ourselves back to the garden

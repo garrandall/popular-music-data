@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fool-in-love-with-you-jim-photoglo
+lyrics_url: https://genius.com/Jim-photoglo-fool-in-love-with-you-lyrics
 name: Fool In Love With You
 rankings:
 - end_date: '1981-04-24'
@@ -71,4 +72,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-08-01'
 ---
-
+When you said goodbye
+I didn't need to cry
+Cause I was not in love with you
+Oh but now that we have parted
+I just can't get started
+I'm just a fool in love with you
+I'm a fool in love with you, with youo
+Darlin, darlin when a fool has got it
+That's when he don't want it
+That's a game I played with you
+Now that I ain't got it
+Girl you know I want it
+I'm just a fool in love with you
+Fool in love with you
+Girls I know that phone me
+They all want to own me
+What am I supposed to do
+Cause when my heart's on fire
+Burnin with desire
+All I think about is you
+I'm a fool in love with you, with youo
+Darlin, darlin when a fool has got it
+That's when he don't want it
+That's a game I played with you
+Now that I ain't got it
+Girl you know I want it
+I'm just a fool in love with you
+Fool in love with you

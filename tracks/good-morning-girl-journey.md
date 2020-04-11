@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-morning-girl-journey
+lyrics_url: https://genius.com/Journey-good-morning-girl-lyrics
 name: Good Morning Girl
 rankings:
 - end_date: '1980-08-29'
@@ -39,4 +40,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-10-11'
 ---
+Good morning girl, how you been?
+Good morning girl, is love within?
 
+
+I see your face every where
+I see your smile your golden hair
+I see your eyes shining through
+Those gentle eyes silver blue
+
+
+Good morning girl, how you been?
+Good morning girl, is love within?
+
+
+Good morning girl, it's been long
+Good morning girl, to you this song
+I sing it girl from the heart
+I'll sing it girl from the start
+
+
+Good morning girl, how you been?
+Good morning girl, is love within?

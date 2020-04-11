@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girls-nite-out-tyler-collins
+lyrics_url: https://genius.com/Tyler-collins-girls-nite-out-lyrics
 name: Girls Nite Out
 rankings:
 - end_date: '1990-05-04'
@@ -91,4 +92,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-09-15'
 ---
+We're sick and tired of being left at home
+While the boys go out
+And leave us all alone, yeah
 
+I wanna go out
+With my girlfriends and party all night
+And this time
+You won't change my mind
+'Cause I've got my mind made up
+So don't wait up for me
+
+It's the girls nite out
+Na, na, night out
+And there's nothing you can say, baby
+It's the girls' night to play
+Our night to play
+So don't wait up for me
+
+We're stepping out
+And we're leaving all that troubles behind
+Yeah, yeah, oh, yeah
+I've got the girls
+And we've only got one thing on our mind
+Where are we going tonight?
+
+The time is right
+So are you ready to party all night?
+And this time
+I'm leaving you behind
+'Cause I've got my mind made up
+So don't wait up for me
+
+It's the girls' nite out
+Na, na, night out
+And there's nothing you can say, baby
+It's the girls' night to play
+Our night to play
+So don't wait up for me
+
+I like to party
+I'm outta here
+
+Which the time has come
+For the boys to realize
+That is our turn to have some fun
+And it's gonna be tonight
+
+It's the girls nite out
+Na, na, night out
+And there's nothing you can say, baby
+It's the girls' night to play
+Our night to play
+So don't wait up for me

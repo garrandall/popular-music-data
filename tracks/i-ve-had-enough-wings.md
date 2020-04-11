@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-had-enough-wings
+lyrics_url: https://www.musixmatch.com/lyrics/Wings-6/I-ve-Had-Enough-1993-Digital-Remaster
 name: I've Had Enough
 rankings:
 - end_date: '1978-06-23'
@@ -51,4 +52,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-26'
 ---
+You're talking to me from the back of the car
+And I can't get nothing right
+And then you wonder why I stand at the bar
+Day and night
 
+I've had enough
+I can't put up with any more
+No no no no no no no
+I've had enough
+I can't put up with any more
+No no no no no no no
+
+You stand behind me with a watch in your hand
+And I can't get nothing done
+Well people tell me you're a punctual man
+But come on
+
+I've had enough
+I can't put up with any more
+No no no no no no no
+I've had enough
+I can't put up with any more
+No no no no no no no
+
+I earn the money and you take it away
+
+When I don't know where you're from
+I should be worried but they say
+It'll pay for a bomb
+
+I've had enough
+I can't put up with any more
+No no no no no no no
+I've had enough
+I can't put up with any more
+No no no no no no no
+
+I've had enough
+
+Baby you know sometimes you get a little weary
+But if it ever happens honey
+You must come along to me
+Because you know
+
+I've had enough
+I can't put up with any more
+No no no no no no no
+I've had enough
+I can't put up with any more
+No no no no no no no

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breakfast-for-two-country-joe-mcdonald
+lyrics_url: https://www.musixmatch.com/lyrics/Country-Joe-McDonald/Breakfast-for-Two
 name: Breakfast For Two
 rankings:
 - end_date: '1975-12-05'
@@ -35,4 +36,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-10'
 ---
+We went out to dinner
+Boy, what an appetite
+We just couldn't stop eating
+We stayed up most of the night
 
+And after three or four hours
+Our stomachs began to hurt
+But everything tasted so good
+We didn't stop until after dessert
+
+
+Ooh la la, breakfast for two
+Ooh la la, you got me and I got you
+
+I've eaten in Italy
+Yes, I've eaten in Spain
+I must admit I'd be licking my lips
+If I ever was to eat there again
+
+But last night at dinner
+You really, really blew my mind
+The way we supped just filled me up
+I think about food all of the time
+
+
+
+People always come up to me
+They say, hey, man
+How about a little smile
+Don't take life so seriously
+Lighten up for a little while
+
+I say that a man's a fool
+If he don't know how to cry
+When I get down, I sure get down
+But when I'm up, I know how to fly

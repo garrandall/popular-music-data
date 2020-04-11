@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-just-stand-there-patty-duke
+lyrics_url: https://genius.com/Patty-duke-dont-just-stand-there-lyrics
 name: Don't Just Stand There
 rankings:
 - end_date: '1965-07-02'
@@ -51,4 +52,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-04'
 ---
+Please don't just stand there
 
+Come and kiss me like before
+
+Please don't just stand there
+
+Looking down at the floor
+
+If something is wrong
+
+Give me just one little sign
+
+If there's someone else, please tell me
+
+Tell me, what, what, what
+
+What's on your mind
+
+Once when we'd meet
+
+You'd run to hold me tight
+
+Life was so sweet until tonight
+
+Please don't just stand there
+
+Get it over if we're through
+
+Please don't just stand there
+
+While my heart breaks in two
+
+Knowing I care, how can you be so unkind?
+
+Please stop hurting me and help me
+
+Tell me, what, what, what
+
+What's on your mind
+
+If it's a game
+
+I don't want to play it
+
+And if it's goodbye
+
+Why can't you just say it?
+
+Why make me cry like you do?
+
+How can you be so unkind?
+
+Please start loving me or leave me
+
+Tell me, what, what, what
+
+What's on your mind
+
+Don't just stand there
+
+Tell me, what, what, what
+
+What's on your mind
+
+Don't just stand there
+
+Tell me, what, what, what
+
+What's on your mind
+
+Don't just stand there
+
+Tell me, what, what, what
+
+What's on your mind

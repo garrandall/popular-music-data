@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: let-it-be-me-glen-campbell-bobbie-gentry
+lyrics_url: https://genius.com/Bobbie-gentry-and-glen-campbell-let-it-be-me-lyrics
 name: Let It Be Me
 rankings:
 - end_date: '1969-01-31'
@@ -44,4 +45,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-22'
 ---
+I bless the day I found you
+I want to stay around you
+And so I beg you
+Let it be me
 
+Don't take this heaven from one
+If you must cling to someone
+Now and forever
+Let it be me
+
+Each time we meet, love
+I find complete love
+Without your sweet, sweet love
+What would life be?
+
+So never leave me lonely
+Tell me you love me only
+And that you'll always
+Let it be me
+
+Now and forever
+Let it be me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-on-dancing-the-gentrys
+lyrics_url: https://genius.com/The-gentrys-keep-on-dancing-lyrics
 name: Keep On Dancing
 rankings:
 - end_date: '1965-09-17'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-12-04'
 ---
+I keep on dancin' (keep on)
+Keep on doin' the jerk right now
+Shake it, shake it, baby
+Come on & show me how you work
+Yellin' in motion
+Keep on doin' the Locomotion, yeah
+Don't worry, little babe
+Shake it, shake it, shake it, shake it, yes!
 
+Keep on dancin' & a-prancin' (ah)
+Keep on dancin' & a-prancin' (ah)
+Keep on dancin' & a-prancin' (ah)
+
+I keep on dancin' (keep on)
+Keep on doin' the jerk
+Shake it, shake it, baby
+Come on & show me how you work
+Yellin' in motion
+Keep on doin' the locomotion, yeah
+Don't worry, little babe
+Shake it, shake it, shake it, shake it, yes!
+
+Keep on dancin' & a-prancin' (ah)
+Keep on dancin' & a-prancin' (ah)
+Keep on dancin' & a-prancin' (ah)
+
+I keep on dancin' (keep on)
+Keep on doin' the jerk right now
+Shake it, shake it, baby
+Come on & show me how you work
+
+Keep on dancin' & a-prancin' (ah)
+Keep on dancin' & a-prancin' (ah)
+Keep on dancin' & a-prancin' (ah)

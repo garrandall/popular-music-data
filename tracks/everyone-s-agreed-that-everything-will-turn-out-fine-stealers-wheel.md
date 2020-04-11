@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everyone-s-agreed-that-everything-will-turn-out-fine-stealers-wheel
+lyrics_url: https://genius.com/Stealers-wheel-everyones-agreed-that-everything-will-turn-out-fine-lyrics
 name: Everyone's Agreed That Everything Will Turn Out Fine
 rankings:
 - end_date: '1973-07-20'
@@ -39,4 +40,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-09-01'
 ---
+Riding on the subway, watching all the people stare
+Everyone just listens, they won't do any talking (oh no, oh no)
+They just sit there waitin', waitin' with their eyes
+Don't ask any questions, you won't get an answer (oh no, oh no)
 
+Everybody seems to have a good time
+Nobody goes stepping out of line
+Everyone's agreed that everything will turn out fine
+
+Moving through the city, making all the rounds
+Trying different places, didn't like the faces (oh no, oh no)
+Rollin' in the gutter, throwin' up my pride
+Belly full of whiskey, was it hard to swallow (oh no, oh no)
+
+Everybody seems to have a good time
+Nobody goes stepping out of line
+Everyone's agreed that everything will turn out fine
+
+Everybody seems to have a good time
+Nobody goes stepping out of line
+Everyone's agreed that everything will turn out fine
+
+Everyone's agreed that everything will turn out fine
+Everyone's agreed that everything will turn out fine
+Fine (fine), fine (fine)
+So fine (fine) fine (fine)
+Fine (fine), fine (fine)
+Fine (fine), so fine (fine)
+
+Oh no

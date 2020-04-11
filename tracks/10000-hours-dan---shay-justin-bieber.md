@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: 10000-hours-dan---shay-justin-bieber
+lyrics_url: https://genius.com/Dan-shay-and-justin-bieber-10000-hours-lyrics
 name: 10000 Hours
 rankings:
 - end_date: '2019-10-25'
@@ -100,4 +101,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
+Do you love the rain, does it make you dance
+When you're drunk with your friends at a party?
+What's your favorite song, does it make you smile?
+Do you think of me?
 
+
+When you close your eyes, tell me, what are you dreamin'?
+Everything, I wanna know it all
+
+
+I'd spend ten thousand hours and ten thousand more
+Oh, if that's what it takes to learn that sweet heart of yours
+And I might never get there, but I'm gonna try
+If it's ten thousand hours or the rest of my life
+I'm gonna love you (Ooh, ooh-ooh, ooh, ooh)
+
+
+Do you miss the road that you grew up on?
+Did you get your middle name from your grandma?
+When you think about your forever now, do you think of me?
+
+
+When you close your eyes, tell me, what are you dreamin'?
+Everything, I wanna know it all
+
+
+I'd spend ten thousand hours and ten thousand more
+Oh, if that's what it takes to learn that sweet heart of yours
+And I might never get there, but I'm gonna try
+If it's ten thousand hours or the rest of my life
+I'm gonna love you (Ooh, ooh-ooh, ooh, ooh)
+I'm gonna love you (Ooh, ooh-ooh, ooh, ooh)
+
+
+Ooh, want the good and the bad and everything in between
+Ooh, gotta cure my curiosity
+Ooh, yeah
+
+
+I'd spend ten thousand hours and ten thousand more
+Oh, if that's what it takes to learn that sweet heart of yours (Sweet heart of yours)
+And I might never get there, but I'm gonna try (Yeah)
+If it's ten thousand hours or the rest of my life
+I'm gonna love you (Ooh, ooh-ooh, ooh, ooh)
+I'm gonna love you (Ooh, ooh-ooh, ooh, ooh)
+Yeah
+And I...
+Do you love the rain, does it make you dance?
+I'm gonna love you (I'm gonna love you)
+I'm gonna love you

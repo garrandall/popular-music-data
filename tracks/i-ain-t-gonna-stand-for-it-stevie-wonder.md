@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ain-t-gonna-stand-for-it-stevie-wonder
+lyrics_url: https://genius.com/Stevie-wonder-i-aint-gonna-stand-for-it-lyrics
 name: I Ain't Gonna Stand For It
 rankings:
 - end_date: '1980-12-19'
@@ -83,4 +84,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-04-18'
 ---
+Don't wanna believe what they're telling me
+Somebody's been picking in my cherry tree
+Don't wanna mistrust nobody by mistake
+But I can tell someone's been digging round in my cake
 
+
+And I ain't gonna stand for it baby
+And I ain't gonna stand for it baby
+And I ain't gonna stand for it baby
+And I ain't gonna stand for it baby
+And I ain't gonna stand for it baby
+I ain't gonna stand for it baby
+
+
+Don't wanna believe what somebody said
+But somebody said somebody's shoes was under my bed
+Don't wanna cause nobody no bodily harm
+But somebody's been rubbing on my good luck charm
+
+
+And I ain't gonna stand for it baby
+And I ain't gonna stand for it baby
+And I ain't gonna stand for it baby
+And I ain't gonna stand for it baby
+And I ain't gonna stand for it baby
+I ain't gonna stand for it baby
+
+
+
+
+And I ain't gonna stand for it baby
+And I ain't gonna stand for it baby
+And I ain't gonna stand for it baby
+And I ain't gonna stand for it baby
+And I ain't gonna stand for it baby
+I ain't gonna stand for it baby

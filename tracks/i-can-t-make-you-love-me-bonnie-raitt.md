@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-make-you-love-me-bonnie-raitt
+lyrics_url: https://genius.com/Bonnie-raitt-i-cant-make-you-love-me-lyrics
 name: I Can't Make You Love Me
 rankings:
 - end_date: '1991-11-29'
@@ -87,4 +88,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-04-04'
 ---
+Turn down the lights
+Turn down the bed
+Turn down these voices inside my head
+Lay down with me
+Tell me no lies
+Just hold me close
+Don't patronize
+Don't patronize me
 
+
+'Cause I can't make you love me if you don't
+You can't make your heart feel something it won't
+Here in the dark in these final hours
+I will lay down my heart and I'll feel the power
+But you won't, no you won't
+'Cause I can't make you love me if you don't
+
+
+I'll close my eyes
+Then I won't see
+The love you don't feel when you're holding me
+Morning will come
+And I'll do what's right
+Just give me 'til then to give up this fight
+And I’ll give up this fight
+
+
+'Cause I can't make you love me if you don't
+You can't make your heart feel something it won't
+Here in the dark in these final hours
+I will lay down my heart and I'll feel the power
+But you won't, no you won't
+'Cause I can't make you love me if you don't

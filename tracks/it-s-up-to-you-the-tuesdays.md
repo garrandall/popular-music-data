@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-up-to-you-the-tuesdays
+lyrics_url: https://genius.com/The-tuesdays-its-up-to-you-lyrics
 name: It's Up To You
 rankings:
 - end_date: '1998-03-27'
@@ -47,4 +48,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-05-23'
 ---
+I know we never meant to fall
+But the moment that my eyes met yours
+Our hearts went tumbling
+Before we new what happened
 
+And now that I'm looking back
+Ya know I get the feeling that
+We started givin' up
+Just to keep from givin' in
+
+I still find hope in what little words we say
+And I'm holding on in a big way
+
+So if you ever change your mind
+I'll be waiting first in line
+You can hang your toothbrush next to mine
+It's up to you
+
+Every time I look at you
+I don't know how to hold on to
+The way I think and feel and breathe
+When I'm around you
+
+Oh we've been down the roughest roads
+I know we've gone so far, and come so close
+
+Sometimes I sit inside your chair
+I try to see what you saw from there
+Too much too soon
+But I've got so much to share

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-on-get-higher-matt-nathanson
+lyrics_url: https://www.musixmatch.com/lyrics/Matt-Nathanson/Come-on-Get-Higher
 name: Come On Get Higher
 rankings:
 - end_date: '2008-09-19'
@@ -87,4 +88,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-01-24'
 ---
+I miss the sound of your voice
+I miss the rush of your skin
+I miss the still of the silence
+As you breathe out and I breathe in
 
+If I could walk on water
+If I could tell you whats next
+Make you believe
+Make you forget
+
+Come on get higher
+Loosen my lips
+Faith and desire
+And the swing of your hips
+Just pull me down hard
+And drown me in love
+
+Come on get higher
+Loosen my lips
+Faith and desire
+And the swing of your hips
+Just pull me down hard
+And drown me in love
+
+I miss the sound of your voice
+The loudest thing in my head
+And I ache to remember
+All the violent, sweet, perfect words that you said
+
+If I could walk on water
+If I could tell you whats next
+Make you believe
+Make you forget
+
+Come on get higher
+Loosen my lips
+Faith and desire
+And the swing of your hips
+Just pull me down hard
+And drown me in love
+
+Come on get higher
+Loosen my lips
+Faith and desire
+And the swing of your hips
+Just pull me down hard
+And drown me in love
+
+I miss the pull of your heart
+I taste the sparks on your tongue
+I see angels and devils and God when you come on
+Hold on
+
+Hold on, hold on, hold on...
+Sing shaa la la la laa
+Ouuu
+
+Come on get higher
+Loosen my lips
+Faith and desire
+And the swing of your hips
+Just pull me down hard
+And drown me in love
+
+Come on get higher
+Loosen my lips
+Faith and desire
+And the swing of your hips
+Just pull me down hard
+And drown me
+Drown me in love
+
+It's all wrong
+It's all wrong
+Its so right
+Come on get higher
+Come on and get higher
+Because everything works love
+Because everything works in your arms

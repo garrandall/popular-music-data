@@ -6,6 +6,7 @@ features:
 - Mark Lindsay
 genres: []
 key: mr-sun-mr-moon-paul-revere-the-raiders-mark-lindsay
+lyrics_url: https://www.musixmatch.com/lyrics/Paul-Revere-The-Raiders-feat-Mark-Lindsay-2/Mr-Sun-Mr-Moon
 name: Mr Sun Mr Moon
 rankings:
 - end_date: '1969-02-21'
@@ -57,4 +58,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
 ---
+Life is bringing you so down
+You don't think you can make it
+Every night is a show down
+Every day, it's just fake it
+Let me show you a new place
+If you follow directions
+You'll be wearing a new face
+Add it to your collection
+Come on
 
+Mr. Sun, make it fine
+Shine on down for this baby of mine
+Mr. Moon, come on through
+When Mr. Sun goes we'll be counting on you
+Mr. Sun, make it fine
+Shine on down for this baby of mine
+Mr. Moon, come on through
+When Mr. Sun goes we'll be counting on you
+
+Let me show you a new place
+If you follow directions
+You'll be wearing a new face
+Add it to your collection
+
+And if you are interested in
+What I'm trying to say to you
+Look at me
+Your heart will start to gain on you
+
+Mr. Sun, make it fine
+Shine on down for this baby of mine
+Mr. Moon, come on through
+When Mr. Sun goes we'll be counting on you
+
+Mr. Sun, make it fine
+Shine on down for this baby of mine
+Mr. Moon, come on through
+When Mr. Sun goes we'll be counting on you
+Mr. Sun, make it fine
+Shine on down for this baby of mine
+Mr. Moon, come on through
+When Mr. Sun goes we'll be counting on you
+Mr. Sun, make it fine
+Shine on down for this baby of mine
+Mr. Moon, come on through
+Oh, we're counting on you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: country-boy-fats-domino
+lyrics_url: https://genius.com/Fats-domino-country-boy-lyrics
 name: Country Boy
 rankings:
 - end_date: '1960-02-07'
@@ -47,4 +48,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-04'
 ---
+Have you heard the story
+Of a little country boy
+He is always happy and full of joy
+Nothing in this world
+That he's thinking of
+All he really cares for
+Is the one he loves
+And the moon above
+Stars above
+Heaven above
+That is all he thinking of
+Now you heard my story
+Darling can't you see
+That little country boy
+Happens to be me
 
+Have you heard the story
+Of the little country boy
+He is always happy and full of joy
+Nothing in this world
+That he's thinking of
+All he really cares for
+Is the one he love
+And the moon above
+Stars above
+Heaven above
+That is all he's thinking of
+Now you heard my story
+Darling can't you see
+That little country boy
+Happens to be me

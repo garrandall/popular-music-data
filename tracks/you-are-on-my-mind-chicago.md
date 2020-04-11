@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-are-on-my-mind-chicago
+lyrics_url: https://genius.com/Chicago-you-are-on-my-mind-lyrics
 name: You Are On My Mind
 rankings:
 - end_date: '1977-04-15'
@@ -35,4 +36,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-05-21'
 ---
-
+You are on my mind
+The echo of your laughter flowing through me
+Sitting by a mountain fire
+And wishing you were in my arms
+And loving me completely
+Rocky mountain highs are very nice
+But you are gone and nothing's quite the same
+L.A. is so far away and I can't
+Stand another day
+Without you by my side
+Though I've tried, tried, tried
+You are on my mind
+You are everything a woman could be
+Consequently I believe that no one
+Else could take your place if you
+Should ever leave me
+I'll be coming home again to you
+And look upon the woman that I love
+There is nothing I can say that celebrates
+The special way you keep me satisfied
+Pretty girl
+Feeling just a little lonely
+Wishing you were in my arms
+Yeah
+You are on my mind
+The echo of your laughter flowing through me
+Sitting by a mountain fire
+And wishing you were in my arms
+And loving me completely
+Rocky mountain highs are very nice
+But you are gone and nothing's quite the same
+L.A. is so far away and i can't
+Stand another day
+Without you by my side
+Though I've tried, tried, tried

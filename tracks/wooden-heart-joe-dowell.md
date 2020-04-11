@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wooden-heart-joe-dowell
+lyrics_url: https://genius.com/Joe-dowell-wooden-heart-lyrics
 name: Wooden Heart
 rankings:
 - end_date: '1961-07-02'
@@ -71,4 +72,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
 ---
+Can't you see, I love you
+Please don't break my heart in two
+That's not hard to do
+'Cause I don't have a wooden heart
 
+And if you say goodbye
+Then I know that I would cry
+Maybe I would die
+'Cause I don't have a wooden heart
+
+There are no strings upon this love of mine
+It was always you from the start
+Treat me nice, treat me good, treat me like you know you should
+'Cause I'm not made of wood and I don't have a wooden heart

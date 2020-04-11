@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: be-good-to-yourself-journey
+lyrics_url: https://genius.com/Journey-be-good-to-yourself-lyrics
 name: Be Good To Yourself
 rankings:
 - end_date: '1986-04-18'
@@ -67,4 +68,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-07-19'
 ---
+Running out of self-control
+Getting close to an overload
+Up against a no win situation
+Shoulder to shoulder, push and shove
+I'm hangin' up my boxing gloves
+I'm ready for a long vacation
 
+
+Be good to yourself when, nobody else will
+Oh be good to yourself
+You're walking a high wire, caught in a cross fire
+Oh be good to yourself
+
+
+When you can't give no more
+They want it all but you gotta say no
+I'm turning off the noise that makes me crazy
+Lookin' back with no regrets
+To forgive is to forget
+I want a little peace of mind to turn to
+
+
+Be good to yourself when, nobody else will
+Oh be good to yourself
+You're walking a high wire, caught in a cross fire
+Oh be good to yourself
+
+
+Be good to yourself when, nobody else will

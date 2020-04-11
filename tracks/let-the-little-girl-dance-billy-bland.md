@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-the-little-girl-dance-billy-bland
+lyrics_url: https://genius.com/Billy-bland-let-the-little-girl-dance-lyrics
 name: Let The Little Girl Dance
 rankings:
 - end_date: '1960-02-21'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-06-27'
 ---
+(Little wallflower on the shelf)
+(Standing by herself)
+(Never had the nerve to take a chance)
+(So let the little girl dance)
 
+Let the little girl dance
+Let the little girl dance
+She never danced before
+So let her on the floor
+(So let her on the floor)
+
+Let the little girl dance
+Let the little girl dance
+She wants to give it a try
+So let the little girl by
+(So let the little girl by)
+
+She's been a little wallflower on the shelf
+Standing by herself
+Now she got the nerve to take a chance
+So let the little girl dance
+
+Let the little girl through
+She wants to pass by you
+Buddy, can't you see
+She wants to dance with me
+(She wants to dance with me)
+
+(Instrumental Interlude)
+
+She's been a little wallflower on the shelf
+Standing by herself
+Now she got the nerve to take a chance
+So let the little girl dance
+
+Let the little girl through
+She wants to pass by you
+Buddy, can't you see
+She wants to dance with me
+(She wants to dance with me)
+
+(Little wallflower on the shelf)
+(Standing by herself)
+(Never had the nerve to take a chance)
+Let the little girl dance
+(Let the little girl dance)

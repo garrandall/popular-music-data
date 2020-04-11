@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-comes-my-baby-the-tremeloes
+lyrics_url: https://genius.com/The-tremeloes-here-comes-my-baby-lyrics
 name: Here Comes My Baby
 rankings:
 - end_date: '1967-04-14'
@@ -55,4 +56,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-24'
 ---
+In the midnight moonlight
+I'll be walking a long and lonely mile
+And every time I do
+I keep seeing this picture of you
 
+Here comes my baby, here she comes now
+And-a it becomes as no surprise to me
+With another guy
+
+Well, here comes my baby, here she comes now
+Walking with a love
+With a love that's oh so fine
+Never to be mine, no matter how I try
+
+You'll never walk alone
+And you're forever talking on the phone
+I try to call you names
+But every time it comes out the shame
+
+Here comes my baby .......

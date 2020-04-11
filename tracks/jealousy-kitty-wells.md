@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jealousy-kitty-wells
+lyrics_url: https://genius.com/Kitty-wells-jealousy-lyrics
 name: Jealousy
 rankings:
 - end_date: '1958-08-10'
@@ -15,4 +16,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-08-11'
 ---
+Jealousy
+Is there no cure your distrust
+Hurts me darling
+That's for sure
+Have faith in my love or set me free
+You are driving me crazy with jealousy
 
+Jealousy
+You must control your suspicious heart
+Controls your life and soul
+Don't you realize the shame it's causing me
+Making me feel like a fool by jealousy
+
+Jealous of the air I breathe
+Don't be a fool your love
+I've never deceived
+If you are in love
+Oh, can't you see
+That you're wrecking my life with jealousy
+Jealousy
+Is there no cure...

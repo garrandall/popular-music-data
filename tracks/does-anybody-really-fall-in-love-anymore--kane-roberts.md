@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: does-anybody-really-fall-in-love-anymore--kane-roberts
+lyrics_url: https://genius.com/Kane-roberts-does-anybody-really-fall-in-love-anymore-lyrics
 name: Does Anybody Really Fall In Love Anymore?
 rankings:
 - end_date: '1991-05-03'
@@ -59,4 +60,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-07-20'
 ---
+I walk down the street, people passing me by
+They look you up and down but they don't look you in the eye
 
+I'm just another stranger in my own hometown
+Looking for a angel but heaven can't be found
+
+I said hey are you lonely tonight
+Hey I'm gonna make it
+But that don't make it right
+
+Does anybody really fall in love anymore
+Does anybody really give their heart to somebody
+Does anybody really have opened the door
+I know, I know, you gotta love somebody
+I know, I know, I've got to find somebody to love
+
+There's a sad face in the mirror and I'm sad to say it's me
+Like a ghost up in the attic only love can set you free
+
+I've been running round in circles on this roller coaster ride
+There's a lonely world around us, we get sucked in by the tide
+
+I said hey, love ain't a crime
+So why is everybody so afraid to cross the line
+
+Does anybody really fall in love anymore
+Does anybody really give their heart to somebody
+Does anybody really have opened the door
+I know, I know, you gotta love somebody
+I know, I know, I've got to find somebody to love
+
+I said hey, I'll be alright
+Cause I know that someone somewhere's gonna
+Say these words tonight
+
+Does anybody really fall in love anymore
+Does anybody really give their heart to somebody
+Does anybody really have opened the door
+I know, I know, you gotta love somebody
+I know, I know, I've got to find somebody to love

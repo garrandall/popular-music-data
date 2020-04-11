@@ -1,7 +1,6 @@
 ---
 artists:
-- Joan Jett
-- the Blackhearts
+- Joan Jett & the Blackhearts
 features: []
 genres: []
 key: crimson-and-clover-joan-jett-the-blackhearts

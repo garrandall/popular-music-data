@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-we-swv
+lyrics_url: https://genius.com/Swv-can-we-lyrics
 name: Can We
 rankings:
 - end_date: '1997-08-08'
@@ -67,4 +68,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-11-08'
 ---
+Me and Timbaland we got the shot
+That hits from here, from here to overseas
+With SWV's, check it, one time
+Ahah, ahah, ahh see, umm
+Me I'm Supa Fly, Supa Dupa Fly
+Rub your hands up my thigh and go supa dupa high
+Til you see my apple pie
+Tell me if you like, tell me if you like
 
+
+Baby got me, tipsy, tipsy
+Off the Remy, your love, tasty, baby
+You're sendin me, crazy, crazy
+Can I be your lady
+I love the things you say to me
+I like it when you talkin' dir-tay
+
+
+Can we get kinky tonight?
+I got so many things on my mind
+I never seen a guy so fine
+I like it when you do me-do me
+Can we get kinky tonight?
+I got so many things on my mind
+I wanna feel you squeeze me tight
+
+
+Ooooooh honey, got me, so high, so high
+I can't lie, about the way you play me
+If you want me, then take me
+You sendin' me, crazy, crazy, baby
+I love the way you taste me
+Yes you taste me like pas-trayyyyy
+
+
+
+
+Spend the night with me
+Spend the night with me...
+Spend the night with me
+Don't care what we do
+Just as long as I'm with you
+
+
+
+
+Can we get kinky tonight?
+Got so many things on my mind
+Never seen a guy so fine
+I like it when you do me-do me
+Can we get kinky tonight?
+I got so many things on my mind
+I wanna feel you squeeze me tight
+
+
+We could sit, in the back of my 300
+We kissin' and we fondlin'
+We high and we blunted
+Take me if you want it to the Ho-Jo
+Up all night like No-Doz
+Yes I got the feelin', feel me blow
+Don't ask me if I'm nasty
+Freaky deaky
+See, y'all can't see me
+Me, Timbaland and SWVs
+We hit you with the hee
+Now shall we?
+Hah-hah, check it out

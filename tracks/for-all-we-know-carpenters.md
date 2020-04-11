@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-all-we-know-carpenters
+lyrics_url: https://genius.com/Carpenters-for-all-we-know-lyrics
 name: For All We Know
 rankings:
 - end_date: '1971-02-12'
@@ -59,4 +60,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-05-01'
 ---
+Love, look at the two of us
+Strangers in many ways
+We've got a lifetime to share
+So much to say
+And as we go from day to day
+I'll feel you close to me
+But time alone will tell
 
+Let's take a lifetime to say
+I knew you well
+For only time will tell us so
+And love may grow
+For all we know
+
+Love (love), look at the two of us
+Strangers in many ways
+
+Let's take a lifetime to say
+I knew you well
+For only time will tell us so (and love may grow)
+And love may grow
+For all we know
+(love)

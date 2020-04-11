@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-someone-the-mad-lads
+lyrics_url: https://genius.com/The-mad-lads-i-want-someone-lyrics
 name: I Want Someone
 rankings:
 - end_date: '1966-03-11'
@@ -31,4 +32,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-09'
 ---
+I want someone
+To hold me, hold me (Hold me)
+I've got to have that
+I want someone
+To caress (To caress)
+Someone to confess
+That she loves me
+I know, I know, I know
 
+
+I know there must be someone
+Someone that must feel the same
+And we'll lay our blames
+To this love of mine
+
+
+I want someone
+To love (Baby, baby, baby)
+That's what I need (To love me)
+I've got to have it
+I want someone (I want someone)
+To care for, for, 
+I know, I know
+
+
+I know there must be someone somewhere
+Someone that's got to feel the same
+And we'll lay our blames
+To this love of mine
+
+
+I've got to have her
+You know I need a girl like that
+Baby baby, baby baby
+My love (Who's gonna be sweet, oh, miss me so much)
+(I've got to have, I've got to have)
+Baby baby, baby baby (I want someone)
+My love (Oh, oh, oh, oh)
+...

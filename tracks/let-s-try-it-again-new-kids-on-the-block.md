@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-try-it-again-new-kids-on-the-block
+lyrics_url: https://www.musixmatch.com/lyrics/New-Kids-On-the-Block/Let-s-Try-It-Again
 name: Let's Try It Again
 rankings:
 - end_date: '1990-10-12'
@@ -39,4 +40,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-11-24'
 ---
+I've heard of true loves that lasted forever
+I guess there is a way
+And I've heard of true loves that needed each other
+More and more each day
 
+What is love when there is no one that cares
+Next time you need my love I'll be there, be right by your side
+
+Let's try it again, try it again
+Let's try it again my love for you it has no end
+Let's try it again till the end
+All because I love you
+
+I've heard of true loves that stayed with each other
+Didn't wander through the night
+And I've heard of true loves that prayed for each other
+Didn't argue, fuss or fight
+
+Now I know just what love's all about
+Next time you need my love I won't doubt, doubt your love again
+
+Let's try it again, try it again
+Let's try it again my love for you it has no end
+Let's try it again till the end
+All because I love you
+
+You got to try it again
+My love for you it has no end
+You know and I know
+It's all because I love you
+
+Let's try it again, try it again
+Let's try it again my love for you it has no end
+Let's try it again till the end
+All because I love you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nice-to-be-with-you-gallery
+lyrics_url: https://genius.com/Gallery-nice-to-be-with-you-lyrics
 name: Nice To Be With You
 rankings:
 - end_date: '1972-03-03'
@@ -95,4 +96,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-07-22'
 ---
+Oh, it's so nice to be with you
+I love all the things you say and do
+And it's so nice to hear you say
+You're gonna please me in every way
+Honey, I got the notion
+You're causing commotion in my soul
+Baby, you and me
+Have got something that's real
+I know it's gonna last a lifetime
+Aww, you better believe it, girl
 
+At night, I call your name
+Darkness fills my room
+I'm only dreaming about
+The time I`m gonna be with you
+
+Oh, it's so nice to be with you
+I love all the things you say and do
+And it's so nice to hear you say
+You're gonna please me in every way
+Honey, I got the notion
+You're causing commotion in my soul
+
+When I'm feeling down
+You're there to pick me up
+And help me to carry on
+Aww, little things mean a lot
+
+When you need a shoulder to cry on
+I'm there to ease the pain
+And chase away the rain
+Aww darling, I just gotta say
+
+Oh, it's so nice to be with you
+I love all the things you say and do
+And it's so nice to hear you say
+You're gonna please me in every way
+
+Oh, it's so nice to be with you
+I love all the things you say and do
+And it's so nice to hear you say
+You're gonna please me in every way

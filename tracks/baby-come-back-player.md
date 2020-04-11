@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-come-back-player
+lyrics_url: https://genius.com/Player-baby-come-back-lyrics
 name: Baby Come Back
 rankings:
 - end_date: '1977-10-07'
@@ -135,4 +136,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-06'
 ---
+Spendin' all my nights, all my money goin' out on the town
+Doin' anythin' just to get you off of my mind
+But when the mornin' comes, I'm right back where I started again
+And tryin' to forget you is just a waste of time
 
+
+Baby come back, any kind of fool could see
+There was somethin' in everything about you
+Baby come back, you can blame it all on me
+I was wrong and I just can't live without you
+
+
+All day long, I'm wearin' a mask of false bravado
+Tryin' to keep up a smile that hides a tear
+But as the sun goes down, I get that empty feelin' again
+How I wish to God that you were here
+
+
+Baby come back, oh baby, any kind of fool could see
+There was somethin' in everything about you
+Baby come back, you can blame it all on me
+I was wrong and I just can't live without you, oh
+
+
+Now that I put it all together, oh-oh
+Give me the chance to make you see
+Have you used up all the love in your heart?
+Nothing left for me? Ain't there nothing left for me?
+
+
+Baby come back, oh darling, any kind of fool could see
+There was somethin' in everything about you
+Baby come back, listen baby, you can blame it all on me
+I was wrong and I just can't live without you
+I was wrong and I just can't live

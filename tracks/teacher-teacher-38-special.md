@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: teacher-teacher-38-special
+lyrics_url: https://genius.com/38-special-teacher-teacher-lyrics
 name: Teacher Teacher
 rankings:
 - end_date: '1984-10-05'
@@ -55,4 +56,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
 ---
+Just when I thought I finally learned my lesson well
+There was more to this than meets the eye
+And for all the things you taught me, only time will tell
+If I'll be able to survive, oh yeah
 
+
+Teacher, teacher, can you teach me?
+Can you tell me all I need to know?
+Teacher, teacher, can you reach me?
+Or will I fall when you let me go? Oh no
+
+
+Am I ready for the real world? Will I pass the test?
+You know it's a jungle out there
+Ain't nothin' gonna stop me, I won't be second best
+But the joke's on those who believe the system's fair, oh yeah
+
+
+Teacher, teacher, can you teach me?
+Can you tell me if I'm right or wrong?
+Teacher, teacher, can you reach me?
+I wanna know what's goin' on, oh yeah
+
+
+So the years go on and on, but nothing's lost or won
+And what you learn is soon forgotten
+They take the best years of your life
+Try to tell you wrong from right
+But you walk away with nothing, oh, oh
+
+
+Teacher, teacher, can you teach me?
+Can you tell me all I need to know?
+Teacher, teacher, can you reach me?
+Or will I fall when you let me go?
+
+
+Teacher, teacher, can you teach me?
+Can you tell me if I'm right or wrong?
+Teacher, teacher, can you reach me?
+I wanna know what's goin' on, oh
+
+
+Teacher, teacher, can you teach me?
+Teacher, teacher, can you reach me?
+Teacher, teacher, can you teach me?
+Teacher, teacher, oh yeah
+Teacher, teacher
+Teacher, teacher

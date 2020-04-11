@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: stay--i-missed-you--lisa-loeb-nine-stories
+lyrics_url: https://genius.com/Lisa-loeb-and-nine-stories-stay-lyrics
 name: Stay (I Missed You)
 rankings:
 - end_date: '1994-05-13'
@@ -128,4 +129,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-11-26'
 ---
+You say
+I only hear what I want to
+You say
+I talk so all the time
+So
 
+And I thought what I felt was simple
+And I thought that I don't belong
+And now that I am leavin'
+Now I know that I did somethin' wrong 'cause I missed you
+Yeah, yeah I missed you
+
+And you say
+I only hear what I want to, I don't listen hard
+Don't pay attention to the distance that you're runnin'
+To anyone, anywhere, I
+Don't understand if you really care, I'm only hearing negative
+No, no, no (bad)
+
+So I, I turn the radio on, I turn the radio up
+And this woman was singin' my song
+Lovers in love and the others run away
+Lover is crying 'cause the other won't stay
+Some of us hover while we're waiting for the other who was dyin' since the day they were born, well
+Well, this is not that, think that I'm throwin' but I'm thrown
+
+And I thought I'd live forever
+But now I'm not so sure
+You try to tell me that I'm clever
+That won't take me anyhow
+Or anywhere
+With you
+
+You said that I was naive, and (naive...)
+I thought that I was strong, oh
+I thought, "hey, I can leave, I can leave", oh (leave...)
+But now I know that I was wrong, 'cause I missed you
+Yeah... I miss you
+
+You said, "You caught me 'cause you want me" and one day you let me go
+You try to keep away a keeper or keep me 'cause you know you're just so
+Scared to lose
+
+And you say
+"Stay"
+
+You say
+I only hear what I want to

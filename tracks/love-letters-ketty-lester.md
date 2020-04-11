@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-letters-ketty-lester
+lyrics_url: https://genius.com/Ketty-lester-love-letters-lyrics
 name: Love Letters
 rankings:
 - end_date: '1962-03-02'
@@ -63,4 +64,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-05-26'
 ---
+Love letters straight from your heart
+Keep us so near while apart
+I'm not alone in the night
+When I can have all the love you write
 
+I memorize every line
+And I kiss the name that you sign
+And, darling, then I read again right from the start
+Love letters straight from your heart
+
+I memorize every line
+And I kiss the name that you sign
+And, darlin', then I read again right from the start
+Love letters straight from your heart

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: till-there-was-you-anita-bryant
+lyrics_url: https://genius.com/Anita-bryant-till-there-was-you-lyrics
 name: Till There Was You
 rankings:
 - end_date: '1959-07-05'
@@ -59,4 +60,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-09-21'
 ---
-
+Till There Was You
+Anita Bryant
+The song is of course from Meredith Wilson's "The Music Man"
+And I figure Anita (who is not known as a wildly inventive singer in my
+Country) probably sang it straight
+There were bells on a hill
+But I never heard them ringing
+No I never heard them at all
+Till there was you
+There were birds in the sky
+But I never saw them winging
+No I never saw them at all
+Till there was you
+Then there was music and wonderful roses
+They tell me in sweet fragrant meadows of dawn and dew
+There was love all around
+But I never heard it singing
+No I never heard it at all
+Till there was you
+Then there was music and wonderful roses
+They tell me in sweet fragrant meadows of dawn and dew
+There was love all around
+But I never heard it singing
+No I never heard it at all
+Till there was you

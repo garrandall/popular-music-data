@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: muddy-river-johnny-rivers
+lyrics_url: https://genius.com/Johnny-rivers-muddy-river-lyrics
 name: Muddy River
 rankings:
 - end_date: '1969-07-04'
@@ -51,4 +52,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-09-06'
 ---
-
+Life is like a mighty river
+Rolling on and on forever
+Growing as we go along
+Shallow deep minds became strong ???
+Rolling on muddy river roll
+Your dirty water cannot taint your soul
+Rolling on, rolling on, till you are free
+In the peaceful sea
+Yeah, yeah, now – all right!
+When life has it uncertainty
+There’s a place I like to be
+Waiting for the sun ?
+Listening to a river song
+Rolling on muddy river roll
+Your dirty water cannot taint your soul
+Rolling on, rolling on, till you are free
+In the peaceful sea
+Oh, Rolling on muddy river roll
+Your dirty water cannot taint your soul
+Rolling on, rolling on, till you are free, free
+Rolling on muddy river roll
+Your dirty water cannot taint your soul
+Rolling on, rolling on, till you are free, free
+Yeah, now
+Rolling on, rolling on, till you are free

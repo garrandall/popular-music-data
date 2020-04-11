@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: party-lights-claudine-clark
+lyrics_url: https://genius.com/Claudine-clark-party-lights-lyrics
 name: Party Lights
 rankings:
 - end_date: '1962-07-06'
@@ -67,4 +68,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
 ---
+(Party lights, I see the party lights)
+Wo
+(They're red and blue and green)
+Lights
+(Everybody in the crowd's there)
+Mama, I wanna go, go, go, go, go, go, yeah, yeah
 
+Well, mama dear, tell me, do you hear?
+We're partying tonight
+I tell you, I can't sleep because across the street
+Wo, oh, I see the party lights
+
+I see the lights, I see the party lights
+They're red and blue and green
+Everybody in the crowd's there
+But you won't let me make a scene
+
+Well, mama dear
+Look here, oh, dear
+There goes Mary Lou
+I see Tommy and Joe
+
+Oh, oh, and Betty Sue
+Oh, oh, and there goes my boyfriend too
+I see the lights
+
+I see the lights, I see the party lights
+They're red and blue and green
+Everybody in the crowd's there
+But you won't let me make a scene
+
+Listen to the party, mama
+
+Well, mama dear
+Look here, oh, dear
+I'm feeling, oh, so blue
+They're doin' the twist, the fish
+
+The mashed potatoes too
+I fear, I'm lookin' at you
+I see the lights
+
+I see the lights, I see the party lights
+They're red and blue and green
+Everybody in the crowd's there
+But you won't let me make a scene
+
+They're doin' the fish, they're doin' the twist
+The watusi, the mashed potatoes
+I see the lights, I see the lights
+They're doin' the bop, I wanna go

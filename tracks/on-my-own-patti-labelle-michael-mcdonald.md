@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: on-my-own-patti-labelle-michael-mcdonald
+lyrics_url: https://genius.com/Patti-labelle-and-michael-mcdonald-on-my-own-lyrics
 name: On My Own
 rankings:
 - end_date: '1986-03-28'
@@ -100,4 +101,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-08-23'
 ---
+So many times
+Said it was forever
+Said our love would always be true
+Something in my heart always knew
+I'd be lying here beside you
+On my own
+On my own
+On my own
 
+So many promises never should be spoken
+Now I know what loving you cost
+Now we're up to talking divorce
+And we weren't even married
+On my own
+Once again now
+One more time
+By myself
+
+No one said it was easy
+But it once was so easy
+Well I believed in love
+Now here I stand
+I wonder why
+
+I'm on my own
+Why did it end this way
+On my own
+This wasn't how it was supposed to be
+On my own
+I wish that we could do it all again
+
+So many times
+I know I should have told you
+Losing you it cut like a knife
+You walked out and there went my life
+I don't want to live without you
+On my own
+On my own
+On my own
+Chorus Repeat
+
+This wasn't how it was supposed to end
+I wish that we could do it all again
+I never dreamed I'd spend one night alone
+On my own, I've got to find where I belong again
+I've got to learn how to be strong again
+I never dreamed I'd spend one night alone
+By myself by myself
+I've got to find out what was mine again
+My heart is saying that it's my time again
+And I have faith that I will shine again
+I have faith in me
+On my own
+On my own
+On my own

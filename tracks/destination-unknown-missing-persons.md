@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: destination-unknown-missing-persons
+lyrics_url: https://genius.com/Missing-persons-destination-unknown-lyrics
 name: Destination Unknown
 rankings:
 - end_date: '1982-10-08'
@@ -63,4 +64,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-01'
 ---
+Life is so strange when you don't know
+How can you tell where you're going to
+You can't be sure of any situation
+Something could change and then you won't know
 
+You ask yourself
+Where do we go from here
+It seems so all too near
+Just as far beyond as I can see
+I still don't know what this all means to me
+
+So you tell yourself
+I have nowhere to go
+I don't know what to do
+And I don't even know the time of day
+I guess it doesn't matter anyway
+
+
+Life is so strange
+Destination unknown
+When you don't know
+Your destination
+And Something could change
+It's unknown
+And then you won't know
+Destination unknown
+
+
+
+You ask yourself
+When will my time come
+Has it all been said and done
+I know I'll leave when it's my time to go
+'Til then I'll carry on with what I know
+
+
+
+Life is so strange
+Life is so strange...

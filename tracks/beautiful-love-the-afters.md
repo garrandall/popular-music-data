@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beautiful-love-the-afters
+lyrics_url: https://genius.com/The-afters-beautiful-love-lyrics
 name: Beautiful Love
 rankings:
 - end_date: '2006-04-14'
@@ -35,4 +36,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-05-27'
 ---
+Far away, I feel your beating heart
+All alone, beneath the crystal stars
+Staring into space, what a lonely face
+I'll try to find my place with you
 
+Chorus:
+What a Beautiful smile
+Can I stay for a while
+On this beautiful night
+We'll make everything right
+My beautiful love
+My beautiful love
+
+Larger than the moon, my love for you
+Worlds collide, as heaven pulls us through
+The secret of the world is written in the stars
+I'm carrying your heart in mine
+
+What a Beautiful smile
+Can I stay for a while
+On this beautiful night
+We'll make everything right
+My beautiful love
+
+Maybe a greater thing will happen
+Maybe all will see
+Maybe our love will catch like fire
+As it burns through me
+
+Maybe a greater thing will happen
+Maybe all will see
+Maybe our love will catch like fire
+As it burns through me
+
+Maybe a greater thing will happen
+Maybe all will see
+Maybe our love will catch like fire
+As it burns through me
+
+What a Beautiful smile
+Can I stay for a while
+On this beautiful night
+We'll make everything all right
+
+What a Beautiful smile
+Can I stay for a while
+On this beautiful night
+We'll make everything all right
+
+My beautiful love
+La la la la love
+La la la la love
+
+My beautiful love
+La la la la love
+La la la la love
+
+My Beautiful love

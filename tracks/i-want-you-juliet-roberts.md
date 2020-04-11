@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-you-juliet-roberts
+lyrics_url: https://www.musixmatch.com/lyrics/Juliet-Roberts/I-Want-You
 name: I Want You
 rankings:
 - end_date: '1994-03-25'
@@ -63,4 +64,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-06-18'
 ---
+Yeah, I really want you baby
+Do you really want me, 'cause I want you, Do you want me
+Do you want me? Want me?
+Do you really want me, 'cause I want you, Do you want me 'cause I know that I love you
+Do you really want me, 'cause I want you, Do you want me
+Do you really want me, 'cause I want you, Do you want me 'cause I know that I love you
 
+Everytime I try and walk away
+I'm magnetized and want to stay
+There's a better way to reach the sky
+Don't get me down I'm here to say
+The way you do the things you do
+Touches my soul
+The feelings that we have to share is out of control
+You let me down, see you around, I take my heart
+Can't express deeper the feelings I share
+I want you more than you know
+I need you please let me show you
+I want you more than you know
+I need you please let me show you
+
+Do you want me, 'cause I want you, Do you want me 'cause I know that I love you
+Do you want me, 'cause I want you, Do you want me 'cause I want you to want me too
+Do you want me, 'cause I want you, Do you want me 'cause I know that I love you
+Do you want me, 'cause I want you, Do you want me 'cause I want you to want me too
+
+Baby, baby oh listen to me
+I'm as helpess as a kitten up a tree
+Being honest with my heart and not my mind
+'Cause I can tell you're the real loving kind
+
+The way you do the things you do
+Touches my soul
+The feelings that we have to share is out of control
+You let me down, see you around, I take my heart
+Can't express deeper the feelings I share
+I want you more than you know
+I need you please let me show you
+I want you more than you know
+I need you please let me show you
+
+Do you want me, 'cause I want you, Do you want me 'cause I know that I love you
+Do you want me, 'cause I want you, Do you want me 'cause I want you to want me too
+Do you want me, 'cause I want you, Do you want me 'cause I know that I love you
+Do you want me, 'cause I want you, Do you want me 'cause I want you to want me too
+
+I want you, you know I really do and there's only you
+The way you do the things you do
+The feelings that we have to share
+Out of control
+You let me down, see you around,
+I take my heart
+Can't express deeper
+The feelings I share
+I want you more than you know
+I need you please let me show you
+I want you more than you know
+I need you please let me show you
+I want you more than you know
+I need you please let me show you
+I want you more than you know
+I need you please let me show you
+
+'Cause a woman needs a good man
+To understand
+'Cause a woman needs a good man
+Who will understand
+I'm here for you
+I won't leave you
+I need you
+I want you
+You know I'm begging you please

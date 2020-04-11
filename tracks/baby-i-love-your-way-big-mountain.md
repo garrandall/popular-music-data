@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-i-love-your-way-big-mountain
+lyrics_url: https://genius.com/Big-mountain-baby-i-love-your-way-lyrics
 name: Baby I Love Your Way
 rankings:
 - end_date: '1994-03-04'
@@ -119,4 +120,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-09-03'
 ---
+Ooo, baby, I love your way, everyday
+Ooo, baby, I love your way, everyday
 
+Shadows grow so long before my eyes
+And they're moving across the page
+Suddenly the day turns into night
+Far away from the city
+Well, don't hesitate
+'Cause your love just won't wait
+
+Ooo, baby, I love your way, everyday
+Wanna tell you I love your way, everyday
+Wanna be with you night and day
+
+The moon appears to shine and light the skies
+With the help of some fireflies
+I wonder how they have the power to shine
+I can see them under the pine
+But don't hesitate
+'Cause your love won't wait
+
+Ooo, baby, I love your way, everyday
+Wanna tell you I love your way, everyday
+Wanna be with you night and day
+
+I can see the sunset in your eyes
+Brown and grey, blue besides
+Clouds are stalking islands in the sun
+I wish I could buy one out of season
+But don't hesitate
+'Cause your love won't wait, just won't wait
+
+Ooo, baby, I love your way, everyday
+Wanna tell you I love your way, everyday
+Wanna be with you night and day
+
+Ooo, baby, I love your way
+Wanna tell you I love your way
+Wanna be with you night and day
+
+Ooo, baby, I love your way
+Wanna tell you I love your way

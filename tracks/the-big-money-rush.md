@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-big-money-rush
+lyrics_url: https://genius.com/Rush-the-big-money-lyrics
 name: The Big Money
 rankings:
 - end_date: '1985-11-15'
@@ -63,4 +64,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-02-08'
 ---
+Big money goes around the world
+Big money underground
+Big money got a mighty voice
+Big money make no sound
+Big money pull a million strings
+Big money hold the prize
+Big money weave a mighty web
+Big money draw the flies
 
+
+Sometimes pushing people around
+Sometimes pulling out the rug
+Sometimes pushing all the buttons
+Sometimes pulling out the plug
+
+
+It's the power and the glory
+It's a war in paradise
+It's a Cinderella story
+On a tumble of the dice
+
+
+Big money goes around the world
+Big money take a cruise
+Big money leave a mighty wake
+Big money leave a bruise
+Big money make a million dreams
+Big money spin big deals
+Big money make a mighty head
+Big money spin big wheels
+
+
+Sometimes building ivory towers
+Sometimes knocking castles down
+Sometimes building you a stairway
+Lock you underground
+It's that old time religion
+It's the kingdom they would rule
+It's the fool on television
+Getting paid to play the fool
+
+
+It's the power and the glory
+It's a war in paradise
+It's a Cinderella story
+On a tumble of the dice
+
+
+Big money goes around the world
+Big money give and take
+Big money done a power of good
+Big money make mistakes
+Big money got a heavy hand
+Big money take control
+Big money got a mean streak
+Big money got no soul

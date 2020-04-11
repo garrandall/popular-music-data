@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pretty-blue-eyes-steve-lawrence
+lyrics_url: https://genius.com/Steve-lawrence-pretty-blue-eyes-lyrics
 name: Pretty Blue Eyes
 rankings:
 - end_date: '1959-11-29'
@@ -79,4 +80,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-03-21'
 ---
+Thought I was in love before
+And then you moved in next door
+Pretty blue eyes, pretty blue eyes
 
+All the guys from the neighborhood
+Keep sayin' you sure look good
+With your blue eyes, pretty blue eyes
+
+Saw you from my window
+My heart skipped a beat
+Gonna sit by your doorstep
+So that I can meet
+
+Pretty blue eyes, please come out today
+So I can tell you what I have to say
+That I love you, love you
+Pretty blue eyes
+
+Saw you from my window
+My heart skipped a beat
+Gonna sit by your doorstep
+So that I can meet
+
+Pretty blue eyes, please come out today
+So I can tell you what I have to say
+That I love you, love you
+Pretty blue eyes
+
+
+Pretty blue eyes

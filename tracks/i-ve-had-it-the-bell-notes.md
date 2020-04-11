@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-had-it-the-bell-notes
+lyrics_url: https://genius.com/The-bell-notes-ive-had-it-lyrics
 name: I've Had It
 rankings:
 - end_date: '1959-02-01'
@@ -71,4 +72,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-05-11'
 ---
-
+La la la la la...
+When I saw her on the corner
+Then I knew that I was a goner
+I've had it
+Well I've had it
+When you say that I should phone
+Then I do and there's nobody home
+I've had it
+Well I've had it
+La la la la la...
+La la la la la...
+When you say that you'll keep a date
+Then you show up two hours late
+I've had it
+Well I've had it
+When you say that you love me honey
+When you really need my money
+I've had it
+Well I've had it
+La la la la la...

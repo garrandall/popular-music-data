@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-it-like-it-is-heart
+lyrics_url: https://genius.com/Heart-tell-it-like-it-is-lyrics
 name: Tell It Like It Is
 rankings:
 - end_date: '1980-11-28'
@@ -71,4 +72,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-03-07'
 ---
+If you want something to play with
+Go and find yourself a toy
+Cause baby, baby, my time is much too expensive
+And I don't want no little boy
 
+But if you, if you are serious
+Don't go playing with my heart, it makes me furious
+And if want me to love you
+Ooo baby, I will, ooo yeah I will
+
+Tell it like it is
+Oh yeah, just let your conscience be your guide
+You know, deep down inside
+I believe you love me, just forget your foolish pride
+
+I think life's too short for all this sorrow
+We might be here today and gone tomorrow
+I might as well just get what I want
+I wanna live, I wanna live
+
+Tell it like it is
+Don't be ashamed now let your conscience be your guide
+Ooo yeah deep down inside
+I believe you love me, just forget your foolish pride
+Oh oh, oh oh oh oh oh

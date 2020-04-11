@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-you-re-gone-the-cranberries
+lyrics_url: https://genius.com/The-cranberries-when-youre-gone-lyrics
 name: When You're Gone
 rankings:
 - end_date: '1996-11-29'
@@ -87,4 +88,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-04-05'
 ---
+Do-be-da, do-be-da
+Do-be-da, do-be-da
+Do-be-da, do-be-da
+Do-be-da, do-be-da
 
+Do-be-da, do-be-da
+Do-be-da, do-be-da
+Do-be-da, do-be-da
+Do-be-da, do-be-da
+
+Hold onto love
+That is what I do
+Now that I've found you
+And from above
+Everything's stinking
+They're not around you
+
+And in the night
+I could be helpless
+I could be lonely
+Sleeping without you
+
+And in the day
+Everything's complex
+There's nothing simple
+When I'm not around you
+
+But I miss you when you're gone
+That is what I do
+Hey, baby
+And it's going to carry on
+That is what I knew
+Hey, baby
+
+Do-be-da, do-be-da
+Do-be-da, do-be-da
+
+Hold onto my hands
+I feel I'm sinking
+Sinking without you
+And to my mind
+Everything's stinking
+Stinking without you
+
+And miss you when you're gone
+That is what I do
+Hey, baby
+And it's going to carry on
+That is what I knew
+Hey, baby
+
+Do-be-da, do-be-da
+Do-be-da, do-be-da
+
+Hey, baby
+
+Do-be-da, do-be-da
+Do-be-da, do-be-da
+
+Hey, baby

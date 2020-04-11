@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-paula-paul-and-paula
+lyrics_url: https://www.musixmatch.com/lyrics/Paul-and-Paula/Hey-Paula
 name: Hey Paula
 rankings:
 - end_date: '1963-01-04'
@@ -67,4 +68,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-04-06'
 ---
-
+Hey, hey Paula, I wanna marry you
+Hey, hey Paula, no one else could ever do
+I've waited so long for school to be through
+Paula, I can't wait no more for you
+My love, my love
+Hey Paul, I've been waiting for you
+Hey, hey, hey Paul, I want to marry you too
+If you love me true, if you love me still, our love will always be real
+My love, my love
+True love means planning a life for two
+Being together the whole day through
+True love means waiting and hoping that soon wishes we've made will come true
+My love, my love
+Hey, hey Paula, I've been waiting for you
+Hey, hey Paul, I want to marry you too
+True love means planning a life for two
+Being together the whole day through
+True love means waiting and hoping that soon wishes we've made will come true
+My love, my love

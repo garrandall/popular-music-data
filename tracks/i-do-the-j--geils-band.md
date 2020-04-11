@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-do-the-j--geils-band
+lyrics_url: https://genius.com/The-j-geils-band-i-do-lyrics
 name: I Do
 rankings:
 - end_date: '1982-11-26'
@@ -63,4 +64,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-02-19'
 ---
+Two, one, two, three, four
 
+Do, do, do, do, do, do, do, do, do, do
+Do, do, do, do, do, do, do, do, do, do
+Do, do, do, do, do, do, do, do, do, do
+Do, do, do, do, do, do, do, do, do, do
+Oh do I love you with all my heart
+I do, I do now, yes I do
+
+Do I want you to stay by my side
+I do, I do now, yes I do
+
+Do I want you to be all mine
+I do, I do now, yes I do
+And I love you my baby, yes I do
+And I want you my baby
+Yeah, yeah I do now
+
+Oh do I want you to stay by my side
+I do, I do now, yes I do
+
+Do I want you to be all mine
+I do, I do now, yeah, yeah, I do now
+
+Do, do, do, do, do, do, do, do, do, do
+Do, do, do, do, do, do, do, do, do, do
+Do, do, do, do, do, do, do, do, do, do
+Yeah, yeah, yeah, yeah, yeah, yeah
+And I love you my baby, yes I do
+And I need you my baby, yes I do
+Yeah, yeah, yeah baby, yeah, yeah, yeah, baby
+Do, do, do, do, do, do, do, do
+Do, do, do, do, wah

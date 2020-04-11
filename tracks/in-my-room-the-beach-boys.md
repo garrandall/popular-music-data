@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-my-room-the-beach-boys
+lyrics_url: https://genius.com/The-beach-boys-in-my-room-lyrics
 name: In My Room
 rankings:
 - end_date: '1963-11-08'
@@ -51,4 +52,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-01-11'
 ---
+There's a world where I can go
+And tell my secrets to
+In my room
+In my room
 
+In this world I lock out
+All my worries and my fears
+In my room
+In my room
+
+Do my dreaming and my scheming
+Lie awake and pray
+Do my crying and my sighing
+Laugh at yesterday
+
+Now it's dark and I'm alone
+But I won't be afraid
+In my room
+In my room

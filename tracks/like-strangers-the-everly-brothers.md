@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: like-strangers-the-everly-brothers
+lyrics_url: https://genius.com/The-everly-brothers-like-strangers-lyrics
 name: Like Strangers
 rankings:
 - end_date: '1960-11-06'
@@ -47,4 +48,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
 ---
+Like strangers
+That's what we are
+Darling how can lovers pull apart so far?
+Like strangers
+How can it be?
+Only days ago, we loved so tenderly
 
+I love you, truly I do
+And I hope deep in your heart you love me too
+
+Let's forget that we've been angry
+Let's be lovers like before
+And swear not to be like strangers, anymore
+
+Let's forget that we've been angry
+Let's be lovers like before
+And swear not to be like strangers, anymore

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hey-da-da-dow-the-dolphins
+lyrics_url: https://www.musixmatch.com/lyrics/The-Dolphins-2/Hey-Da-Da-Dow
 name: Hey-Da-Da-Dow
 rankings:
 - end_date: '1964-12-25'
@@ -35,4 +36,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
 ---
+Bom bom bom...
 
+Lay your head on her shoulder
+Give out a little sigh-yi-yi
+Talk a walk in the moonlight
+With a twinkle in your eye
+
+And you've got
+
+Hey da da dow
+Dow dow doo dow dow
+It's a little thing
+That they call love
+Hey da da dow
+Dow dow doo dow dow
+It's a little thing
+That they call love
+
+If you miss one another and
+The day goes slowly by-yi-yi
+You can't wait to see him
+It's enough to make you cry
+
+Then you've got
+
+Bom bom bom...
+
+If you'd give every treasure
+Just to be by your si-yi-yi-ide
+And every night you're a dreamer
+Of being his bride
+
+Then you've got
+
+It's a little thing
+That they call love

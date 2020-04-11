@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: house-at-pooh-corner-nitty-gritty-dirt-band
+lyrics_url: https://genius.com/The-nitty-gritty-dirt-band-house-at-pooh-corner-lyrics
 name: House At Pooh Corner
 rankings:
 - end_date: '1971-04-30'
@@ -59,4 +60,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-07-17'
 ---
+Christopher Robin and I walked along
+Under branches lit up by the moon
+Posing our questions to Owl and Eeyore
+As our days disappeared all too soon
 
+But I wandered much further today than I should
+And I can't find my way to the three-acre wood
+
+So help me if you can, I've got to get
+Back to the house at Pooh Corner by one
+You'd be surprised there's so much to be done
+
+Count all the bees in the hive
+Chase all the clouds from the sky
+Back to the days of Christopher Robin and Pooh
+
+Winnie the Pooh doesn't know what to do
+Got a honey jar stuck on his nose
+He came to me asking help and advice
+And from here no one knows where he goes
+
+So I sent him to ask of the Owl if he's there
+How to loosen a jar from the nose of a bear
+
+So help me if you can I've got to get
+Back to the house at Pooh Corner by one
+You'd be surprised there's so much to be done
+
+Count all the bees in the hive
+Chase all the clouds from the sky
+Back to the days of Christopher Robin
+Back to the ways of Christopher Robin
+Back to the days of Pooh

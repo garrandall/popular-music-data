@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-found-someone-of-my-own-the-free-movement
+lyrics_url: https://genius.com/Free-movement-ive-found-someone-of-my-own-lyrics
 name: I've Found Someone Of My Own
 rankings:
 - end_date: '1971-05-28'
@@ -111,4 +112,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-11-27'
 ---
-
+I got up this morning
+While I was having my coffee
+My woman came in, sat down by my side
+With tears in her eyes
+She said Ive a confession to make
+I said Woman, speak whats on your mind
+She said Ive found somebody new
+To take your place
+I said dont feel so all alone
+Ive found someone of my own
+All those lonely nights
+You left me all alone
+My true love would call
+And talk to me on the phone
+I said Woman, if thats the way its gotta be
+Then darlin, dont you worry about me
+She said Ive found somebody new
+To take your place
+I said dont feel so all alone
+Ive found someone of my own
+I got up from the table
+Reached down and wiped the tears
+From her face
+I put out my cigarette
+Turned and walked away
+She said Ive found somebody new
+To take your place
+I said dont feel so all alone
+Ive found someone of my own

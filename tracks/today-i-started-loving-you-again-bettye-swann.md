@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: today-i-started-loving-you-again-bettye-swann
+lyrics_url: https://genius.com/Bettye-swann-today-i-started-loving-you-again-lyrics
 name: Today I Started Loving You Again
 rankings:
 - end_date: '1973-02-02'
@@ -35,4 +36,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-03-10'
 ---
-
+Today I started loving you again
+I'm right back where I've really always been
+I got over you just long enough to let my heartache mend
+Then today I started loving you again
+What a fool I was to think I could get by
+With only these few million tears I've cried
+I should've known the worst was yet to come
+And the crying time for me had just begun
+'Cause today I started loving you again
+I'm right back where I've really always been
+I got over you just long enough to let my heartache mend
+Then today I started loving you again

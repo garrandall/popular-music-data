@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-don-t-come-easy-ringo-starr
+lyrics_url: https://genius.com/Ringo-starr-it-dont-come-easy-lyrics
 name: It Don't Come Easy
 rankings:
 - end_date: '1971-05-07'
@@ -55,4 +56,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-07-17'
 ---
+It don't come easy
+You know it don't come easy
+It don't come easy
+You know it don't come easy
 
+
+Got to pay your dues if you wanna sing the blues
+And you know it don't come easy
+You don't have to shout or leap about
+You can even play them easy
+
+
+Forget about the past and all your sorrows
+The future won't last
+It will soon be over tomorrow
+
+
+I don't ask for much, I only want trust
+And you know it don't come easy
+And this love of mine keeps growing all the time
+And you know it just ain't easy
+
+
+Open up your heart, let's come together
+Use a little love
+And we will make it work out better
+
+
+Got to pay your dues if you wanna sing the blues
+And you know it don't come easy
+You don't have to shout or leap about
+You can even play them easy
+
+
+Peace, remember peace is how we make it
+Here within your reach
+If you're big enough to take it
+
+
+I don't ask for much, I only want trust
+And you know it don't come easy
+And this love of mine keeps growing all the time
+And you know it don't come easy

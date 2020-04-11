@@ -5,6 +5,7 @@ features:
 - Dobie Gray
 genres: []
 key: drift-away-uncle-kracker-dobie-gray
+lyrics_url: https://genius.com/Uncle-kracker-drift-away-lyrics
 name: Drift Away
 rankings:
 - end_date: '2003-04-04'
@@ -148,4 +149,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-11-22'
 ---
+Day after day, I'm more confused
+Yet, I look for the light through the pourin' rain
+You know that's a game that I hate to lose
 
+
+And I'm feelin' the strain
+Oh, ain't it a shame?
+
+
+Oh, give me the beat boys and free my soul
+I wanna get lost in your rock and roll and drift away
+Give me the beat boys and free my soul
+I wanna get lost in your rock and roll and drift away
+Won't you take me away?
+
+
+Beginin' to think that I'm wastin' time
+I don't understand the things I do
+The world outside looks so unkind
+
+
+And I'm countin' on you
+You can carry me through
+
+
+Oh, give me the beat boys and free my soul
+I wanna get lost in your rock and roll and drift away
+Give me the beat boys and free my soul
+I wanna get lost in your rock and roll and drift away
+Won't you take me away?
+
+
+And when my mind is free
+You know a melody can move me
+When I'm feelin' blue
+The guitars come in through to soothe me
+Thanks for the joy that you've given me
+(Ooh, the joy that you've given me)
+I want you to know that I believe in your song (oh, yeah)
+Your rhythm, and rhyme, and harmony (mm)
+You helped me along (makin' me strong)
+Oh, you're makin' me strong
+
+
+Oh, give me the beat boys and free my soul
+I wanna get lost in your rock and roll and drift away (drift away, ooh)
+And give me the beat boys and free my soul
+I wanna get lost in your rock and roll and drift away (drift away)
+
+
+Give me the beat boys and free my soul
+I wanna get lost in your rock and roll and drift away (drift away, oh)
+Give me the beat boys and free my soul
+I wanna get lost in your rock and roll and drift away
+
+
+Yeah, won't you take me?
+Won't you take me?
+I wanna drift away (won't you take me away?)
+I wanna drift away
+I wanna drift away (won't you take me?)
+Take me home
+Let me drift away
+Won't you take me away?

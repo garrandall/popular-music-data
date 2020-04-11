@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-all-i-can-do-anne-murray
+lyrics_url: https://genius.com/Anne-murray-its-all-i-can-do-lyrics
 name: It's All I Can Do
 rankings:
 - end_date: '1981-10-02'
@@ -43,4 +44,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-11-21'
 ---
+It's been a while, how have you been
+It's really good you know to see you again
+You'd think by now those old feelings had died
+But it only takes just one look in your eyes
 
+And it's all I can do to talk about the weather
+To keep myself together when I'm fallin' apart
+And it's all I can do to smile and say I'm fine
+When I'm really losin' my mind
+It's all I can do (all I can do)
+To keep this heart from just breaking in two
+
+To see the lips I used to kiss
+Doesn't make it easy to just stand here like this
+I get to thinkin' I'm doin' all right
+Then I see the arms that once held me so tight
+
+And it's all I can do to talk about the weather
+To keep myself together when I'm fallin' apart
+And it's all I can do to smile and say I'm fine
+When I'm really losin' my mind
+It's all I can do (all I can do)
+It's all I can do
+To keep this heart from just breaking in two

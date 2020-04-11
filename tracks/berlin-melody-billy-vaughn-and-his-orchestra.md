@@ -1,6 +1,6 @@
 ---
 artists:
-- Billy Vaughn And His Orchestra
+- Billy Vaughn
 features: []
 genres: []
 key: berlin-melody-billy-vaughn-and-his-orchestra

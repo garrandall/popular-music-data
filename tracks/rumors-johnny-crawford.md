@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rumors-johnny-crawford
+lyrics_url: https://genius.com/Johnny-crawford-rumors-lyrics
 name: Rumors
 rankings:
 - end_date: '1962-11-09'
@@ -47,4 +48,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-01-05'
 ---
+Do, dooby, dooby
+Sha, la, la, la
 
+Everyone in town
+Just wants to put me down
+With their rumors
+(Rumors)
+
+They've been telling you
+That your baby's been untrue
+But it's rumors
+(Rumors)
+
+Aw, people love to talk
+Let them have their say
+They can take a walk
+We'll make out okay
+
+Darling, this you must believe
+I would never, never
+Ever leave you
+
+People jealous of a boy
+And girl in love started rumors
+(Rumors)
+Don't believe a word of
+Those silly things you heard
+They're just rumors
+(Rumors)
+
+Aw, let the rumors fly
+You'll find by and by
+Deep within my heart
+You're the only one that I adore
+So don't believe the rumors anymore
+
+Aw, let the rumors fly
+You'll find by and by
+Deep within my heart
+You're the only one that I adore
+So don't believe the rumors anymore
+
+Do, dooby, dooby
+Sha, la, la, la

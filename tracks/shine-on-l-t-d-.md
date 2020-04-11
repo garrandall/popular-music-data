@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shine-on-l-t-d-
+lyrics_url: https://genius.com/Ltd-shine-on-lyrics
 name: Shine On
 rankings:
 - end_date: '1980-11-21'
@@ -71,4 +72,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-28'
 ---
+Just yesterday
+I cast my eyes upon your lovely face, but that was yesterday
+Now just a dream, a dream that lives inside my memory
+Wish it could be reality
 
+Shine on yesterday, carry me away and let me be back
+In your arms holding you again
+Shine on yesterday, carry me away to be with you
+Somehow let my dream come true
+
+You know sometimes
+I stop and stare no matter where I am, thinking of you again
+Once in a while I call your name out loud hoping you'll hear
+Hoping my prayer will bring you here
+
+Shine on yesterday, carry me away and let me be back
+In your arms holding you again
+Shine on yesterday, carry me away to be with you
+Somehow let my dream come true
+
+Shine on yesterday, carry me away and let me be back
+In your arms holding you again
+Shine on yesterday, carry me away and let me be back
+In your arms holding you again
+
+Shine on yesterday, carry me away and let me be back
+In your arms holding you again
+Shine on yesterday, carry me away to be with you
+Because this is for me, my one and only dream
+I ever wanted to come true

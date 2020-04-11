@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: temptation-roger-williams
+lyrics_url: https://www.musixmatch.com/lyrics/Roger-Williams/Temptation
 name: Temptation
 rankings:
 - end_date: '1960-10-02'
@@ -31,4 +32,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-31'
 ---
+You came, I was alone
+I should have known you were temptation
+You smiled, luring me on
+My heart was gone, you were temptation
+It would be thrilling
+If you were willing
+If it can never be
+Pity me for you are temptation and I am yours
 
+Here is my heart, take it and say
+We'll never part
+I'm just a slave
+Only a slave to you, temptation
+You were born to be kissed
+I can't resist.
+
+You are temptation and I am yours
+Here is my heart, take it and say
+We'll never part
+I'm just a slave
+Only a slave to you, temptation

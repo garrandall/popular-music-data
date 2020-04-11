@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jam-up-jelly-tight-tommy-roe
+lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Roe/Jam-Up-Jelly-Tight
 name: Jam Up Jelly Tight
 rankings:
 - end_date: '1969-11-21'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-14'
 ---
-
+Jam Up and Jelly Tight
+My, my, my, my, baby, now you're outta sight
+Jam Up and Jelly Tight
+You look a little naughty but you're so polite
+Jam Up and Jelly Tight
+You won't say you will, but there's a chance that you might
+I said; the first day I met you
+Someday, I'm gonna pet you
+Now you're here and baby I love it
+So come on and give me some lovin'
+Jam Up and Jelly Tight
+My, my, my, my, baby, now you're outta sight
+Jam Up and Jelly Tight
+You look a little naughty but you're so polite
+Jam Up and Jelly Tight
+You won't say you will, but there's a chance that you might
+You've got a sweet disposition
+So come on and give me permission
+For one kiss and maybe another
+You'll see we were meant for each other
+Jam Up and Jelly Tight
+My, my, my, my, baby, now you're outta sight
+Jam Up and Jelly Tight
+You look a little naughty but you're so polite
+Jam Up and Jelly Tight, yeah
+Jam Up and Jelly Tight
+(Written by Tommy Roe & Freddy Weller)
+(Reached #8 in the USA in late 1969 & early 1970

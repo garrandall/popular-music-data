@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-take-my-heart-away-james-darren
+lyrics_url: https://genius.com/James-darren-you-take-my-heart-away-lyrics
 name: You Take My Heart Away
 rankings:
 - end_date: '1977-03-25'
@@ -43,4 +44,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-05-14'
 ---
-
+Love me
+Love me from your heart
+Let us never part
+Bring me all the dreams
+You thought would never be
+We'll make them all reality
+Just you and me
+You take my heart away, away
+Touch me
+Take me in your arms
+Shelter me from harm
+Let me love you
+For a million years or more
+I never felt this way before
+Before your kiss
+You take my heart away, away
+You're my dream come true
+Baby, I love you
+I confess, I need you
+I will never leave you alone
+Oh, I love you too
+My whole word is you
+I confess, I need you
+I will never leave you alone
+You take my heart away
+(You take my heart away) away
+You take my heart away
+(You take my heart away) away
+You take my heart away, away
+Love me, do do do
+Touch me, do do do
+Take me, do do do
+I never felt this way before
+You take my heart away
+You're my dream come true
+Baby, I love you
+Oh, I love you too
+(I love you, baby)
+My whole word is you
+(I love you, love you)
+You're my dream come true
+(Oh, baby) baby
+(Oh, baby) I love you
+Oh, I love you too...

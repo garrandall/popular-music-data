@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sorry-seems-to-be-the-hardest-word-elton-john
+lyrics_url: https://genius.com/Elton-john-sorry-seems-to-be-the-hardest-word-lyrics
 name: Sorry Seems To Be The Hardest Word
 rankings:
 - end_date: '1976-11-19'
@@ -63,4 +64,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-12'
 ---
+What have I gotta do to make you love me?
+What have I gotta do to make you care?
+What do I do when lightning strikes me?
+And I wake to find that you're not there
 
+
+What do I do to make you want me?
+What have I gotta do to be heard?
+What do I say when it's all over?
+And sorry seems to be the hardest word
+
+
+It's sad, (so sad) so sad
+It's a sad, sad situation
+And it's getting more and more absurd
+It's sad, (so sad) so sad
+Why can't we talk it over?
+Oh, it seems to me
+That sorry seems to be the hardest word
+
+
+It's sad, (so sad) so sad
+It's a sad, sad situation
+And it's getting more and more absurd
+It's sad, (so sad) so sad
+Why can't we talk it over?
+Oh, it seems to me
+That sorry seems to be the hardest word
+
+
+What do I do to make you love me?
+Oh, what have I gotta do to be heard?
+What do I do when lightning strikes me?
+What have I gotta do?
+What have I gotta do?
+Ooh, and sorry seems to be the hardest word

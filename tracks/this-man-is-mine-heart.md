@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-man-is-mine-heart
+lyrics_url: https://genius.com/Heart-this-man-is-mine-lyrics
 name: This Man Is Mine
 rankings:
 - end_date: '1982-05-21'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-08-07'
 ---
+Now everybody in this neighborhood
+All you women better listen good
+I know it's just a matter of time
+Till one of you steps out of line
+All I got is this to say
+Simple message to relay
+Get out of here and just keep away
+Coz this man is mine
+This man is mine
+This man, this man is mine
 
+I know the women round here recognize something good
+Even try to take it if they could
+So I'm using every little trick I know
+Making sure that he won't go
+I put up all my resistance
+All you girls you better keep your distance
+We don't need no more of your assistance
+
+This man is mine
+This man is mine
+This man, this man is mine
+
+He got passion burning in his eyes
+Steaming up the night
+Always makes me realize
+What I done was right
+
+This man is mine
+This man is mine
+This man, this man is mine
+
+(Gonna love him, gonna teach him
+I'm gonna tell him..gonna reach him)

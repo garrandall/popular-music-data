@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-daddy-john-denver
+lyrics_url: https://genius.com/John-denver-please-daddy-dont-get-drunk-this-christmas-lyrics
 name: Please Daddy
 rankings:
 - end_date: '1973-12-28'
@@ -27,4 +28,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-19'
 ---
+Please Daddy, don't get drunk this Christmas
+I don't wanna see my Mumma cry
+Please Daddy, don't get drunk this Christmas
+I don't wanna see my Mumma cry
 
+Just last year when I was only seven
+And now I'm almost eight as you can see
+You came home at a quarter past eleven
+Fell down underneath our Christmas tree
+
+Please Daddy, don't get drunk this Christmas
+I don't wanna see my Mumma cry
+Please Daddy, don't get drunk this Christmas
+I don't wanna see my Mumma cry
+
+Mumma smiled and looked outside the window
+She told me son, you better go upstairs
+Then you laughed and hollered Merry Christmas
+I turned around and saw my Mumma's tears
+
+Please Daddy, don't get drunk this Christmas
+I don't wanna see my Mumma cry
+Please Daddy, don't get drunk this Christmas
+I don't wanna see my Mumma cry
+No, I don't wanna see my Mumma cry

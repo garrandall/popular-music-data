@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: moon-river-jerry-butler
+lyrics_url: https://genius.com/Jerry-butler-moon-river-lyrics
 name: Moon River
 rankings:
 - end_date: '1961-10-15'
@@ -75,4 +76,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-03'
 ---
-
+Moon River
+Wider than a mile
+I'm crossing you in style someday
+Oh, dream maker
+You old heartbreaker
+Wherever you're going, I'm going your way
+Two drifters
+Off to see the world
+There's such a lot of world to see
+We're after the same rainbow's end
+Waiting 'round the bend
+My huckleberry friend
+Moon River and me
+We're after the same rainbow's end
+Waiting 'round the bend
+My huckleberry friend
+Moon River and me

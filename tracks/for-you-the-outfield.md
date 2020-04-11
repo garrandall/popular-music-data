@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-you-the-outfield
+lyrics_url: https://genius.com/The-outfield-for-you-lyrics
 name: For You
 rankings:
 - end_date: '1990-11-09'
@@ -79,4 +80,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-03-02'
 ---
+I'm so sad - feeling blue
+Since you left - I've been missing you
+Need your love - oh so bad
+Realize - everything we had
 
+(chorus)
+All day - all night
+You can have it anyway you want it
+One love - so right
+Don't you know that I live my life for you
+
+I was wrong - my mistake
+I regret - look at the price I paid
+Take these words - understand
+Try forgiving - I'm a broken man
+
+(chorus)
+I'm so sad - feeling blue
+Since you left - I've been missing you
+Take these words - understand
+Try forgiving - I'm a broken man
+
+(Chorus)
+For you - for you
+You can have it anyway you want it
+For you - for you
+Doesn't matter if the sun don't shine

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: broken-hearted-the-miracles
+lyrics_url: https://genius.com/The-miracles-broken-hearted-lyrics
 name: Broken Hearted
 rankings:
 - end_date: '1961-07-09'
@@ -11,4 +12,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-07-03'
 ---
+Broken hearted since we parted
+I don't go nowhere, but what do I care
+I'm just broken hearted since we parted
 
+
+I'm so blue, baby, without you
+Yes, I don't have no one, ain't been havin no fun
+Since you been gone, I can't go on
+I keep on cryin', my hope keeps dyin'
+Oh, I'm broken hearted, baby since we parted
+
+
+Maybe you don't know it, girl
+So let me just remind you
+That I still love you, girl
+And I'm gonna find you
+But until, I hope that you
+Will leave the past behind you
+And come on and let me know
+That you've been so
+
+
+Broken hearted, ooh since we parted
+Just say you will give me a thrill
+Come on, come on home
+Nevermore to roam
+I'm so broken hearted, baby, since we parted
+
+
+I don't have no one
+I ain't havin' no fun
+'Cause I need you
+You bet your life
+You bet your life I do
+So come on, come on, come on

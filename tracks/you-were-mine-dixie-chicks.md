@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-were-mine-dixie-chicks
+lyrics_url: https://genius.com/Dixie-chicks-you-were-mine-lyrics
 name: You Were Mine
 rankings:
 - end_date: '1999-01-29'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-06-05'
 ---
+I can't find a reason to let go
+Even though you've found a new love
+And she's what your dreams are made of
+I can find a reason to hang on
+What went wrong can be forgiven
+Without you it ain't worth livin' alone
 
+
+Sometimes I wake up cryin' at night
+And sometimes I scream out your name
+What right does she have to take you away
+When for so long you were mine?
+
+
+I took out all the pictures of our wedding day
+It was a time of love and laughter, happy ever after
+But even those old pictures have begun to fade
+Please tell me she's not real and that you're really comin' home to stay
+
+
+Sometimes I wake up cryin' at night
+And sometimes I scream out your name
+What right does she have to take your heart away
+When for so long you were mine?
+
+
+I can give you two good reasons
+To show you love's not blind
+He's two and she's four and you know they adore you
+So how can I tell them you've changed your mind?
+
+
+Sometimes I wake up cryin' at night
+And sometimes I scream out your name
+What right does she have to take your heart away
+When for so long you were mine?
+
+
+I remember when you were mine

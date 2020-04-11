@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: through-the-rain-tanya-blount
+lyrics_url: https://genius.com/Tanya-blount-through-the-rain-lyrics
 name: Through The Rain
 rankings:
 - end_date: '1994-10-14'
@@ -31,4 +32,107 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-11-12'
 ---
+I'm not looking for a fantasy
+All I want is reality and you
+I'm not looking for a diamond ring
+Not into material things
+All I want is your love
 
+I'll be there
+Through the thick and rhin
+Keeping my loving strong
+It will go on and on
+And on and on and on
+
+Through the rain
+And storms together
+We can make it last
+Boy, you know our love's forver
+Take the time to see
+
+And we'll go through
+The rain and storms together
+We can make it last
+Boy, you knew our love's forever
+Take the time to see
+
+Hard times may come and go
+But I'm here to let you know
+I'll be here by your side
+
+No matter what they may say
+Your faith can abide in me
+I'll always be here for you, baby
+
+It doesn't matter how hard it gets
+I'm keeping my loving strong
+It will go on and on
+And on and on and on
+
+Through the rain
+And storms together
+We can make it last
+(Gonna make it last)
+Boy, you know our love's forver
+Take the time to see
+(Take the time)
+
+And we'll go through
+The rain and storms together
+We can make it last
+Boy, you knew our love's forever
+Take the time to see
+
+Don't you worry
+I know the stormy night?
+Here to tell you
+Everything's gonna be all right
+
+Through storm and rains
+I'll be there by your side
+That's what love is all about
+
+Through the rain (through the rain)
+(Through the rain) through the rain
+(Through the rain, through the rain)
+(Through the rain, through the rain)
+(Through the rain, through the rain)
+(Through the rain, take the time to see)
+
+I said through the rain
+(Through the rain, through the rain)
+I said through the rain
+(Through the rain, through the rain)
+
+I'll be missing you, baby
+(Through the rain, through the rain)
+(Through the rain, take the time to see)
+I ain't going nowhere, baby
+
+(Through the rain, through the rain)
+Through storms together
+(Through the rain, we can make it last)
+Boy, you know our love's forever
+(Through the rain, take the time to see)
+
+And we'll go through
+(Through the rain, through the rain)
+The rain and storms together
+(Through the rain, through the rain)
+We can make it last
+(Through the rain, through the rain)
+Boy, you knew our love's forever
+(Through the rain, take the time to see)
+
+No matter what they may say
+Your faith can abide in me
+Now that I bring myself to say
+
+I'm not looking for a fantasy
+All I want is reality and you
+
+And we'll go through
+The rain and storms together
+We can make it last
+Boy, you knew our love's forever
+Take the time to see...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-the-midnight-hour-cross-country
+lyrics_url: https://genius.com/Cross-country-in-the-midnight-hour-lyrics
 name: In The Midnight Hour
 rankings:
 - end_date: '1973-08-24'
@@ -55,4 +56,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-03'
 ---
+I'm gonna wait 'til the midnight hour
+That's when my love comes tumblin' down
+I'm gonna wait 'til the midnight hour
+When there's no-one else around
+I'm gonna take you girl and hold you
+And do all the things I told you
+In the midnight hour
 
+I'm gonna wait 'til the stars come out
+And see the twinkle in your eyes
+I'm gonna wait 'til the midnight hour
+When my love begins to shine (shine)
+You're the only girl I know
+That really loves me so
+In the midnight, in the midnight hour
+
+
+
+Ah-haaaaa
+
+I'm gonna wait 'til the midnight hour
+That's when my love comes tumblin' down
+I'm gonna wait 'til the midnight hour
+When there's no-one else around
+I'm gonna wait 'til the midnight hour
+Gonna wait 'til the midnight hour
+Gonna wait 'til the midnight hour
+Gonna wait 'til the midnight hour
+Gonna wait (fade)

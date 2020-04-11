@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-only-happened-yesterday-jack-scott
+lyrics_url: https://genius.com/Jack-scott-it-only-happened-yesterday-lyrics
 name: It Only Happened Yesterday
 rankings:
 - end_date: '1960-08-07'
@@ -43,4 +44,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-09-26'
 ---
+It only happened yesterday
+And already I miss you, my dear
+If I had known I'd be alone
+Do you think that I would've let you go
 
+It only happened yesterday
+And already I'm losing my mind
+I was smart, I broke your heart
+Mmm-mmm, foolish boy
+
+Love like this love I have for you
+Will never, my dear, ever die
+Alone am I, alone I'll be
+Yet these lonely nights have got the best of me
+
+It only happened yesterday
+Forgive me if I cry
+I'm on my knees, I'm begging please
+Forgive me for yesterday
+(I'm on my knees)
+I'm begging please
+Forgive me for yesterday

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-the-bass-bardeux
+lyrics_url: https://www.musixmatch.com/lyrics/Bardeux/I-Love-the-Bass
 name: I Love The Bass
 rankings:
 - end_date: '1989-09-22'
@@ -47,4 +48,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-11-18'
 ---
+Deeper and deeper and deeper down into the ground
+Deeper and deeper and deeper and deeper
+Woah ohhh oh oh ohhh oh ohhh
 
+I'm not one to play around but I'll make an exception
+Loosen up you attitude and lend me your attention
+Boy I'll be your rhythm ace I'll do it nice and slow
+By the time we get to my house baby I'll be good to go
+
+Fade to black heart attack now we're goin all around got a rockin' in your heartbeat gonna spread your love around
+I love the bass I love the good vibrations the way you love me gives me cool sensations
+So turn it up
+Don't bring me down
+I love the bass
+
+Never underestimate the power of attraction
+Put aside your silly pride and feel my love reaction
+Come a little closer baby can you feel the heat
+Jammin' is my specialty
+Can you feel the beat
+Feel the beat
+
+I love the bass I love the good vibrations

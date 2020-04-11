@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: angel-of-the-morning-merrilee-rush-the-turnabouts
+lyrics_url: https://genius.com/Merrilee-rush-and-the-turnabouts-angel-of-the-morning-lyrics
 name: Angel Of The Morning
 rankings:
 - end_date: '1968-05-10'
@@ -72,4 +73,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-08-17'
 ---
+There'll be no strings to bind your hands
+Not if my love can't bind your heart
+And there's no need to take a stand
+For it was I who chose to start
+I see no reason to take me home
+I'm old enough to face the dawn
 
+Just call me angel of the morning, Angel
+Just touch my cheek before you leave me, baby
+Just call me angel of the morning, Angel
+Then slowly turn away... from me
+
+Maybe the sun's light will be dim
+And it won't matter anyhow
+If morning's echo says we've sinned
+Well, it was what I wanted now
+And if we're the victims of the night
+I won't be blinded by light
+
+Just call me angel of the morning, Angel
+Just touch my cheek before you leave me, baby
+Just call me angel of the morning, Angel
+Then slowly turn away...
+I won't beg you to stay... with me...
+Through the tears... of the day....
+Of the years... baby, baby --
+
+Just call me angel of the morning, Angel
+Just touch my cheek before you leave me, baby
+Just call me angel of the morning, Angel
+Just touch my cheek before you leave me, baby....

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girl-i-ve-been-hurt-snow
+lyrics_url: https://genius.com/Snow-girl-ive-been-hurt-lyrics
 name: Girl I've Been Hurt
 rankings:
 - end_date: '1993-05-21'
@@ -75,4 +76,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-09-04'
 ---
+Girl I've been hurt
+Girl I've been hurt
 
+
+You said there will be no other love
+But me but girl I know much better
+I'm no fool; you've been playing games on me
+Come here tell me what you're thinking of (of)
+Is he real, have you found another love?
+How long must we play this masquerade?
+
+
+Girl I've been hurt now I need another lover
+You are no'
+Girl I've been hurt now I need another lover
+You are no'
+Girl I've been hurt now I need another lover
+You are no good
+
+
+Who do you think you are?
+Let me tell ya about it
+Who do you think you are?
+Girl is there something you should tell me
+Cause you've been acting kinda strange lately
+But I already know what's been going on
+I'm in love but love it doesn't blind me
+Now I'm moving on and leaving you behind me baby
+I have to go I just can't take it any more
+
+
+Girl I've been hurt now I need another lover
+You are no'
+Girl I've been hurt now I need another lover
+You are no'
+Girl I've been hurt now I need another lover
+You are no good
+
+
+Love this girl me say love this girl
+Love this girl me say love this girl
+Don't you know say Daddy me Snow
+Give her diamond and pearl
+Give this girl me say diamond and pearl
+Love her in my heart me say down to belly
+He say Daddy me snow me are the cooler daddy
+Me love this girl but she left me lonely
+Love this girl now she left me lonely
+She want go play with me heart, bye bye bye
+She want go play with me heart, bye bye bye
+Find another lover me say find another one
+Find another lover me say find another one
+To make me feel fine
+Make me feel fine
+Make me feel fine lord
+
+
+Girl I've been hurt now I need another lover
+You are no'
+Girl I've been hurt now I need another lover
+You are no'
+Girl I've been hurt now I need another lover
+You are no good

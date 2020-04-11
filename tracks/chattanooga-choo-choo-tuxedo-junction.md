@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chattanooga-choo-choo-tuxedo-junction
+lyrics_url: https://www.musixmatch.com/lyrics/Tuxedo-Junction/Chattanooga-Choo-Choo
 name: Chattanooga Choo Choo
 rankings:
 - end_date: '1978-04-28'
@@ -75,4 +76,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-12'
 ---
+Pardon me boy, is that the Chattanooga Choo Choo?
+Track twenty nine, boy you can gimme a shine
+I can afford to board a Chattanooga Choo Choo
+I've got my fare and just a trifle to spare
 
+You leave the Pennsylvania station 'bout a quarter to four
+Read a magazine and then you're in Baltimore
+Dinner in the diner, nothing could be finer
+Than to have your ham 'n' eggs in Carolina
+
+When you hear the whistle blowin' eight to the bar
+Then you know that Tennessee is not very far
+Shovel all the coal in, gotta keep it rollin'
+Woo, woo, Chattanooga, there you are
+
+There's gonna be a certain party at the station
+Satin and lace, I used to call funny face
+She's gonna cry until I tell her that I'll never roam

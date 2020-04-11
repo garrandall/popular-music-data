@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fly-like-an-eagle-steve-miller
+lyrics_url: https://genius.com/Steve-miller-band-fly-like-an-eagle-lyrics
 name: Fly Like An Eagle
 rankings:
 - end_date: '1976-12-24'
@@ -87,4 +88,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-04-30'
 ---
+(Tick tock tick) Doo doo doo-doo
+(Tick tock tick) Doo doo doo-doo
+(Tick tock tick) Doo doo doo-doo
+(Tick tock tick) Doo doo doo-doo
 
+
+Time keeps on slippin', slippin', slippin'
+Into the future
+Time keeps on slippin', slippin', slippin'
+Into the future
+
+
+I wanna fly like an eagle
+To the sea
+Fly like an eagle
+Let my spirit carry me
+I want to fly like an eagle
+'Til I'm free
+Oh, Lord, through the revolution
+
+
+Feed the babies
+Who don't have enough to eat
+Shoe the children
+With no shoes on their feet
+House the people
+Livin' in the street
+Oh, oh, there's a solution
+
+
+I want to fly like an eagle
+To the sea
+Fly like an eagle
+Let my spirit carry me
+I want to fly like an eagle
+'Til I'm free
+Fly through the revolution
+
+
+Time keeps on slippin', slippin', slippin'
+Into the future
+Time keeps on slippin', slippin', slippin'
+Into the future
+
+
+Time keeps on slippin', slippin', slippin'
+Into the future
+Time keeps on slippin', slippin', slippin'
+Into the future
+
+
+Doo, doo, doo-doo
+Doo, doo, doo-doo
+Doo, doo, doo-doo
+Doo, doo, doo-doo
+Doo, doo, doo-doo
+Doo, doo, doo-doo
+Doo, doo, doo-doo
+Doo, doo, doo-doo
+
+
+I want to fly like an eagle
+To the sea
+Fly like an eagle
+Let my spirit carry me
+I want to fly like an eagle
+'Til I'm free
+Fly through the revolution
+
+
+(Tick tock tick) Doo doo doo-doo
+(Tick tock tick)
+(Tick tock tick) Doo doo doo-doo
+(Tick tock tick) Doo doo doo-doo
+(Tick tock tick) Doo doo doo-doo
+
+
+Time keeps on slippin', slippin', slippin'
+Into the future
+Time keeps on slippin', slippin', slippin'
+Into the future

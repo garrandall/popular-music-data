@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-told-every-little-star-linda-scott
+lyrics_url: https://genius.com/Linda-scott-ive-told-every-little-star-lyrics
 name: I've Told Every Little Star
 rankings:
 - end_date: '1961-03-19'
@@ -63,4 +64,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-06-12'
 ---
+Why haven't I told you?
 
+I've told every little star
+Just how sweet I think you are
+Why haven't I told you?
+
+I've told ripples in a brook
+Made my heart an open book
+Why haven't I told you?
+
+Friends ask me am I in love
+I always answer yes
+Might as well confess
+If the answer's yes
+
+Maybe you may love me too
+Oh my darling if you do
+Why haven't you told me?
+
+Friends ask me am I in love
+I always answer yes
+Might as well confess
+If the answer's yes
+
+Maybe you may love me too
+Oh my darling if you do
+Why haven't you told me?

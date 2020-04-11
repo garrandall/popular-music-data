@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-believe-in-you-don-williams
+lyrics_url: https://genius.com/Don-williams-i-believe-in-you-lyrics
 name: I Believe In You
 rankings:
 - end_date: '1980-10-03'
@@ -87,4 +88,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-07'
 ---
+I don't believe in superstars
+Organic food and foreign cars
+I don't believe the price of gold
+The certainty of growing old
+That right is right and left is wrong
+That north and south can't get along
+That east is east and west is west
+And being first is always best
 
+
+But I believe in love
+I believe in babies
+I believe in mom and dad
+And I believe in you
+
+
+Well I don't believe that heaven waits
+For only those who congregate
+I like to think of God as love
+He's down below, he's up above
+He's watchin' people, everywhere
+He knows who does and doesn't care
+And I'm an ordinary man
+Sometimes I wonder who I am
+
+
+But I believe in love
+I believe in music
+I believe in magic
+And I believe in you
+
+
+I know with all my certainty
+What's going on with you and me
+Is a good thing
+It's true
+I believe in you
+
+
+I don't believe virginity
+Is as common as it used to be
+In working days and sleeping nights
+That black is black and white is white
+That Superman and Robin Hood
+Are still alive in Hollywood
+That gasoline's in short supply
+The rising cost of gettin' by
+
+
+But I believe in love
+I believe in old folks
+I believe in children
+I believe in you
+
+
+I believe in love
+I believe in babies
+I believe in mom and dad
+And I believe in you

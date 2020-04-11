@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: with-you-tony-terry
+lyrics_url: https://genius.com/Tony-terry-with-you-lyrics
 name: With You
 rankings:
 - end_date: '1991-07-05'
@@ -99,4 +100,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-11-30'
 ---
+Yeah, just like that
+Ah-ha-ha-ha
+(Ooh, ooh, ooh)
+Ooh...hoo...hoo...
 
+(Ooh, ooh, ooh)
+Yeah, yeah
+
+When I'm with you, I hear a sound
+That makes me laugh and smile and sing to you
+When I'm with you, I feel so free
+I love that love is going to take control of me
+
+When I'm with you
+It's for real (It's for real)
+What I feel (What I feel)
+When I'm with you (You), uh-huh
+
+When I'm with you, I wonder why
+People do stop and stare and smile at us
+When I'm with you, the sun shines my way
+Baby, our love reflects its rays of light on everyone in the world
+
+When I'm with you
+It's for real (It's for real)
+What I feel (What I feel)
+When I’m with you , you, hey, hey, hey
+
+Oh
+Special touch, a warm embrace
+A sweet and tender kiss, your smile, whoa
+Body warm my heart, so pure
+Chills when I look, look in your eyes
+
+I wonder why
+People do stop
+And stare (And stare and smile at us)
+And smile at us
+When I’m with you, the sun shines my way
+Baby, our love reflects its rays of light
+On everyone in the world
+
+When I’m with you
+It’s for real (It’s for real)
+What I feel (What I feel)
+When I’m with you , you, hey, hey, hey
+
+Oh, girl
+I love you, baby
+Ye-ye-ye-yes, I do
+Ye-ye-ye-yes, I do
+I’d give the world to you, baby
+When I’m with you, whoa...baby
+
+It’s for real (It’s for real)
+What I feel (What I feel)
+When I’m with you (You), yeah, yeah, eah, hey
+
+Everything, everything’s alright
+When I’m with you
+It’s for real (It’s for real, what I feel)
+What I feel (You’re heavy on my mind)
+It’s okay (It’s okay, gonna pray)
+Every day (Every day)
+It’s so nice (So nice)
+So right now (So right)
+When I’m with you (You)
+Nobody but you
+Honey, I love you

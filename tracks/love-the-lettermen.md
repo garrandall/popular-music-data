@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-the-lettermen
+lyrics_url: https://genius.com/The-lettermen-never-my-love-lyrics
 name: Love
 rankings:
 - end_date: '1971-10-15'
@@ -47,4 +48,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-12-11'
 ---
+You ask me if there'll come a time
+When I grow tired of you
+Never my love
+Never my love
 
+You wonder if this heart of mine
+Will lose its desire for you
+Never my love
+Never my love
+
+What makes you think love will end
+When you know that my whole life depends
+On you (on you)
+
+Never my love
+Never my love
+
+You say you fear I'll change my mind
+And I won't require you
+Never my love
+Never my love
+
+How can you think love will end
+When I've asked you to spend your whole life
+With me (with me, with me

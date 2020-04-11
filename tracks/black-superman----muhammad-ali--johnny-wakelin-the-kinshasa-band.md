@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: black-superman----muhammad-ali--johnny-wakelin-the-kinshasa-band
+lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Wakelin-The-Kinshasa-Band/Black-Superman-Muhammad-Ali
 name: Black Superman - "Muhammad Ali"
 rankings:
 - end_date: '1975-03-14'
@@ -116,4 +117,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-09-27'
 ---
+This here's the story of Cassius Clay
+Who changed his name to Muhammad Ali
+He knows how to talk and he knows how to fight
+And all the contenders were beat out of sight
 
+Sing, Muhammad, Muhammad Ali
+He floats like a butterfly and stings like a bee
+Mohammed, the black superman
+Who calls to the other guy I'm Ali catch me if you can
+
+Now all you fight fans, you've got to agree
+There ain't no flies on Muhammad Ali
+He fills the arena wherever he goes
+And everyone gets what they paid for
+
+Muhammad, was known to have said
+You watch me shuffle and I'll jab off your head
+He moves like the black superman
+And calls to the other guy I'm Ali catch me if you can
+
+He says I'm the greatest the worlds ever seen
+The heavyweight champion who came back again
+My face is so pretty you don't see a scar
+Which proves I'm the king of the ring by far
+
+Sing, Muhammad, Muhammad Ali
+He floats like a butterfly and stings like a bee
+Mohammed, the black superman
+Who calls to the other guy I'm Ali catch me if you can
+
+Sing, Muhammad, Muhammad Ali
+He floats like a butterfly and stings like a bee
+Muhammad, the black superman
+Who calls to the other guy I'm Ali catch me if you can
+
+I'm Ali catch me if you can

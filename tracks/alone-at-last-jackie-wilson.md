@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alone-at-last-jackie-wilson
+lyrics_url: https://genius.com/Jackie-wilson-alone-at-last-lyrics
 name: Alone At Last
 rankings:
 - end_date: '1960-10-16'
@@ -67,4 +68,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-16'
 ---
-
+Alone at last, you and I
+Together locked in a sigh
+The musics soft, lights are low;
+The mood is one all lovers know
+Oh, my darling at last we are one;
+The trip to heavens begun;
+I kiss your fingertips, your eyes, your lips
+Oh what exciting moments we share when were
+All alone at last
+Oh, my darling, at last, you and I
+Together locked in a sigh
+The musics soft, lights are low;
+The mood is one all lovers know
+Oh, my darling at last we are one;
+The trip to heavens begun;
+I kiss your fingertips, your eyes, your lips
+Oh what exciting moments we share when were
+All alone at last

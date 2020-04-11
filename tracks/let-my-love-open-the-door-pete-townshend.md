@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-my-love-open-the-door-pete-townshend
+lyrics_url: https://genius.com/Pete-townshend-let-my-love-open-the-door-lyrics
 name: Let My Love Open The Door
 rankings:
 - end_date: '1980-06-20'
@@ -83,4 +84,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-10-18'
 ---
+When people keep repeating
+That you'll never fall in love
+When everybody keeps retreating
+But you can't seem to get enough
 
+
+Let my love open the door
+Let my love open the door
+Let my love open the door
+To your heart
+
+
+Let my love open the door
+Let my love open the door
+Let my love open the door
+Let my love open the door
+
+
+When everything feels all over
+Everybody seems unkind
+I'll give you a four leaf clover
+Take all worry out of your mind
+
+
+Let my love open the door
+Let my love open the door
+Let my love open the door
+To your heart
+
+
+Let my love open the door
+Let my love open the door
+Let my love open the door
+Let my love open the door
+
+
+I have the only key to your heart
+I can stop you falling apart
+Try today, you'll find this way
+Come on and give me a chance to say
+
+Let my love open the door, it's all I'm living for
+Release yourself from misery
+There's only one thing gonna set you free
+That's my love, that's my love
+
+
+Let my love open the door
+Let my love open the door
+Let my love open the door
+Let my love open the door
+
+
+When tragedy befalls you
+Don't let it drag you down
+Love can cure your problems
+You're so lucky I'm around
+
+
+Let my love open the door
+Let my love open the door
+Let my love open the door
+To your heart

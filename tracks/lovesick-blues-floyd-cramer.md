@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lovesick-blues-floyd-cramer
+lyrics_url: https://genius.com/Floyd-cramer-lovesick-blues-lyrics
 name: Lovesick Blues
 rankings:
 - end_date: '1962-04-20'
@@ -19,4 +20,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-04-28'
 ---
-
+Instrumental

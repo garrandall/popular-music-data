@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: a-teenager-in-love-dion-the-belmonts
+lyrics_url: https://genius.com/Dion-and-the-belmonts-a-teenager-in-love-lyrics
 name: A Teenager In Love
 rankings:
 - end_date: '1959-04-26'
@@ -68,4 +69,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-07-27'
 ---
+Each time we have a quarrel
+It almost breaks my heart
+'Cause I'm so afraid
+That we will have to part
 
+
+Each night I ask the stars up above
+Why must I be a teenager in love?
+
+One day, I feel so happy
+The next day, I feel so sad
+I guess I'll learn to take
+The good with the bad
+
+
+'Cause each night I ask the stars up above
+Why must I be a teenager in love?
+
+
+I cried a tear
+For nobody but you
+I'll be a lonely one
+If you should say we're through
+
+
+Well, if you want to make me cry
+That won't be so hard to do
+If you should say goodbye
+I'll still go on loving you
+
+
+Each night I ask the stars up above
+Why must I be a teenager in love?
+
+
+I cried a tear
+For nobody but you
+I'll be a lonely one
+If you should say we're through
+
+
+Well, if you want to make me cry
+That won't be so hard to do
+And if you should say goodbye
+I'll still go on loving you
+
+
+Each night I ask the stars up above
+Why must I be a teenager in love?
+(In love) Why must I be a teenager in love?
+(In love) Why must I be a teenager in love?
+(In love) Why must I be a teenager in love?

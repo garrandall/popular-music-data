@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-mammy-the-happenings
+lyrics_url: https://www.musixmatch.com/lyrics/The-Happenings/My-Mammy
 name: My Mammy
 rankings:
 - end_date: '1967-07-21'
@@ -39,4 +40,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
 ---
-
+Mammy, mammy
+The sun shines east, the sun shines west
+But I've just learned where the sun shines best
+Mammy, Mammy
+My heart strings are tangled around Alabamy
+Ise a-comin, sorry that I made you wait
+Ise a-commin, hope and pray I'm not too late
+Mammy, Mammy
+I'd walk a million miles for one of your smiles
+My Mammy

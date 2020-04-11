@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: higher-creed
+lyrics_url: https://www.musixmatch.com/lyrics/Creed/Higher
 name: Higher
 rankings:
 - end_date: '1999-09-17'
@@ -235,4 +236,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-12-02'
 ---
+When dreaming
+I'm guided to another world
+Time and time again
 
+At sunrise, I fight to stay asleep
+'Cause I don't want to leave the comfort of this place
+'Cause there's a hunger, a longing to escape
+
+From the life I live when I'm awake
+So let's go there
+Let's make our escape
+Come on, let's go there
+Let's ask can we stay
+
+Can you take me higher
+To a place where blind men see
+Can you take me higher
+To a place with golden streets
+
+Although I would like our world to change
+It helps me to appreciate
+Those nights and those dreams
+
+But my friend
+I'd sacrifice all those nights
+If I could make the Earth and my dreams the same
+
+The only difference is
+To let love replace all our hate
+
+So let's go there
+Let's make our escape
+Come on, let's go there
+Let's ask can we stay
+
+Can you take me higher
+To a place where blind men see
+Can you take me higher
+To a place with golden streets
+
+So let's go there (so let's go there)
+Let's go there (Let's go there)
+Come on, let's go there (come on let's go there)
+Let's ask can we stay
+
+Up high, I feel like I'm
+Alive for the very first time
+Said up high, I'm strong enough
+To take these dreams
+And make them mine
+
+Said up high, I'm strong enough
+To take these dreams
+And make them mine
+
+Can you take me higher
+To a place where blind men see
+Can you take me higher
+To a place with golden streets
+
+Can you take me higher
+To a place where blind men see
+Can you take me higher
+To a place with golden streets

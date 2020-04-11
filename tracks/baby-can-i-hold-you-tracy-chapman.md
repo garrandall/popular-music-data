@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-can-i-hold-you-tracy-chapman
+lyrics_url: https://genius.com/Tracy-chapman-baby-can-i-hold-you-lyrics
 name: Baby Can I Hold You
 rankings:
 - end_date: '1988-11-11'
@@ -55,4 +56,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-21'
 ---
+Sorry
+Is all that you can say
+Years gone by and still
+Words don't come easily
+Like sorry, like sorry
 
+
+Forgive me
+Is all that you can say
+Years gone by and still
+Words don't come easily
+Like forgive, me forgive me
+
+
+But you can say baby
+Baby can I hold you tonight
+Maybe if I told you the right words
+At the right time, you'd be mine
+
+
+I love you
+Is all that you can say
+Years gone by and still
+Words don't come easily
+Like I love you, I love you
+
+
+But you can say baby
+Baby can I hold you tonight
+Maybe if I told you the right words
+At the right time, you'd be mine
+Baby can I hold you tonight
+Maybe if I told you the right words
+At the right time, you'd be mine
+You'd be mine
+You'd be mine

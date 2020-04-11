@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: people-are-strange-the-doors
+lyrics_url: https://genius.com/The-doors-people-are-strange-lyrics
 name: People Are Strange
 rankings:
 - end_date: '1967-09-29'
@@ -43,4 +44,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
 ---
+People are strange when you're a stranger
+Faces look ugly when you're alone
+Women seem wicked when you're unwanted
+Streets are uneven when you're down
 
+
+When you're strange
+Faces come out of the rain
+When you're strange
+No one remembers your name
+When you're strange
+When you're strange
+When you're strange
+
+
+People are strange when you're a stranger
+Faces look ugly when you're alone
+Women seem wicked when you're unwanted
+Streets are uneven when you're down
+
+
+When you're strange
+Faces come out of the rain
+When you're strange
+No one remembers your name
+When you're strange
+When you're strange
+When you're strange
+Alright, yeah
+
+
+When you're strange
+Faces come out of the rain
+When you're strange
+No one remembers your name
+When you're strange
+When you're strange
+When you're strange

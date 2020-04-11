@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-can-t-be-true-eddie-holman
+lyrics_url: https://genius.com/Eddie-holman-this-cant-be-true-lyrics
 name: This Can't Be True
 rankings:
 - end_date: '1966-01-21'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-03-26'
 ---
+(Doo-ooh-woo-ooh)
+(Doo-ooh-woo-ooh)
+This can't be true, girl
+(Doo-ooh-woo-ooh)
+Your love for me, girl
+(Doo-ooh-woo-ooh)
 
+Just yesterday you saw me walking home
+You took my hand and asked me to walk you home
+And I felt good inside, sweetheart
+(Doo-doo-doo-doo-doo-ooh-ooh)
+I felt good inside, sweetheart
+(Doo-doo-doo-doo-doo-ooh-ooh)
+This can't be true, girl
+(Doo-ooh-woo-ooh)
+Are you for real, girl
+(Doo-ooh-woo-ooh)
+
+Or am I dreaming dreams about you
+Or am I dreaming dreams that can't come true
+Well I feel good inside, sweetheart
+(Doo-doo-doo-doo-doo-ooh-ooh)
+Oh-oh-oh
+
+This can't be true, girl
+Your love for me, girl
+
+Or am I dreaming dreams about you
+Or am I dreaming dreams that can't come true
+Well, I feel good inside, sweetheart
+(Doo-doo-doo-doo-doo-ooh-ooh)
+Oh-oh-oh, I feel good inside, sweetheart
+(Doo-doo-doo-doo-doo-ooh-ooh)
+This can't be true, girl
+(This can't be true, girl)
+Your love for me, girl
+(This can't be true, girl)
+This can't...

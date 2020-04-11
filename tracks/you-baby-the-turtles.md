@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-baby-the-turtles
+lyrics_url: https://genius.com/The-turtles-you-baby-lyrics
 name: You Baby
 rankings:
 - end_date: '1966-02-11'
@@ -55,4 +56,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
 ---
+From the time I fall asleep
+'Til the mornin' comes I dream about
+You, baby
+And I feel alright
+'Cause I know tonight I'll be with
+You, baby
+And who makes me feel like smilin'
+When the weary day is through?
 
+(You baby, no one but you, baby, nobody but you)
+(You baby, no one but you, baby, nobody but you)
+
+They say candy is sweet
+But it just can't compete with
+You, baby
+You've got everything I need
+And nobody can please like
+You do, baby
+And who believes all my wildest dreams
+And my craziest schemes will come true?
+
+(You baby, no one but you, baby, nobody but you)
+(You baby, no one but you, baby, nobody but you)
+
+A little ray of sunshine
+A little bit of soul
+Add just a touch of magic
+You got the greatest thing since rock 'n' roll
+
+(You baby, no one but you, baby, nobody but you)
+(You baby, no one but you, baby, nobody but you)
+(You baby, no one but you, baby, nobody but you)
+(You baby, no one but you, baby, nobody but you)

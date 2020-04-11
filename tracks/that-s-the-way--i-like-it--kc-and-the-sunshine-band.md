@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-s-the-way--i-like-it--kc-and-the-sunshine-band
+lyrics_url: https://genius.com/Kc-and-the-sunshine-band-thats-the-way-i-like-it-lyrics
 name: That's The Way (I Like It)
 rankings:
 - end_date: '1975-10-31'
@@ -71,4 +72,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-02-07'
 ---
+{Lead in}
 
+That's the way, aha, aha
+I like it, aha, aha
+That's the way, aha, aha
+I like it, aha, aha
+That's the way, aha, aha
+I like it, aha, aha
+That's the way, aha, aha
+I like it, aha, aha
+
+When you take me by the hand
+Tell me I'm your lovin' man
+When you give me all your love
+And do it babe the very best you can
+
+That's the way, aha, aha
+I like it, aha, aha
+That's the way, aha, aha
+I like it, aha, aha
+That's the way, aha, aha
+I like it, aha, aha
+That's the way, aha, aha
+I like it, aha, aha
+
+When I get to be in your arms
+When we're all, all alone
+When you whisper sweet in my ear
+When you turn, turn me on
+
+That's the way, aha, aha
+I like it, aha, aha
+That's the way, aha, aha
+I like it, aha, aha
+That's the way, aha, aha
+I like it, aha, aha
+That's the way, aha, aha
+I like it, aha, aha
+
+Babe
+Oh babe, aha
+That's the way, aha
+That's the way, aha
+
+Babe
+Oh babe, aha
+That's the way, aha
+That's the way, aha
+
+That's the way, aha, aha
+I like it, aha, aha
+That's the way, aha, aha
+I like it, aha, aha
+That's the way, aha, aha
+I like it, aha, aha
+That's the way, aha, aha
+I like it, aha, aha
+
+That's the way, aha, aha
+I like it, aha, aha
+That's the way, aha, aha
+I like it, aha, aha
+That's the way, aha, aha
+I like it, aha, aha
+That's the way, aha, aha
+I like it, aha, aha

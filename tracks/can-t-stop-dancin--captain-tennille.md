@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: can-t-stop-dancin--captain-tennille
+lyrics_url: https://genius.com/Captain-and-tennille-cant-stop-dancin-lyrics
 name: Can't Stop Dancin'
 rankings:
 - end_date: '1977-03-25'
@@ -56,4 +57,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-06-04'
 ---
+Oh, you can't stop dancin'
+Just because the music's gone
+You know you can't stop dancin'
+Yeah, yeah
 
+Just because
+The band has packed it up and gone home
+You know you can't stop dancin'
+Just because the music's gone
+
+Cause if you keep on dancin'
+If you keep on dancin'
+If you keep on dancin'
+You're gonna turn the music back on
+
+There's a rhythm in the universe
+And the music is always there
+But whenever life goes wrong
+Sometimes it's so hard to hear just the same
+
+We've got to move with the time
+If you don't
+You're gonna be left behind
+Just remember that the beat goes on
+Pretty soon
+They're gonna play your song
+
+And you can't stop dancin'
+Just because the music's gone
+You know you can't stop dancin'
+Yeah, yeah
+
+Just because
+The band has packed it up and gone home
+You know you can't stop dancin'
+Just because the music's gone
+
+Cause if you keep on dancin'
+If you keep on dancin'
+If you keep on dancin'
+You're gonna turn the music back on

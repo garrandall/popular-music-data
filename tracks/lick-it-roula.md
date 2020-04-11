@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lick-it-roula
+lyrics_url: https://genius.com/Roula-lick-it-lyrics
 name: Lick It
 rankings:
 - end_date: '1995-03-31'
@@ -67,4 +68,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-07-01'
 ---
+Chorus:
+You gotta lick it (you gotta lick it)
+Before we kick it (before we kick it)
+You gotta take that extra step so we can kick it (so we can kick)
 
+Alternate Chorus:
+You gotta lick it (you gotta lick it)
+Before we kick it (before we kick it)
+You gotta get it soft and wet so we can kick it (so we can kick)
+
+Chorus
+Boom (ba dada dada) (x7)
+Baby work it
+I met a real cutie
+He had a nice tight booty
+He semed to be the frequent lover type
+
+Let's cut right through the chase
+Come on and get a taste
+You've got to face it so that I can get high
+
+Chorus (x2)
+Boom (ba dada dada) (x7)
+Baby work it
+My lips are sweet as candy (Alternate: Come on and show you're able)
+I need a man that's handy (Alternate: And go below my navel)
+Don't be a tease
+Just give me what I like
+
+I'm full of freakiness
+So come and get with this (Alternate: So give my cat a kiss)
+And make me purr (Alternate: And make it purr)
+So we can do this right
+
+Chorus (x2)
+Boom (ba dada dada) (x7)
+Baby work it
+You know men are dogs
+So go bark up someone else's tree
+
+Here boy!
+Come and get it
+Chorus (x4)
+Boom (ba dada dada) (x7)
+Baby work it
+Chorus (To fade)

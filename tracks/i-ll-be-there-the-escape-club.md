@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-be-there-the-escape-club
+lyrics_url: https://genius.com/The-escape-club-ill-be-there-lyrics
 name: I'll Be There
 rankings:
 - end_date: '1991-05-31'
@@ -107,4 +108,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-11-09'
 ---
+Over Mountains
+Over Trees
+Over Oceans
+Over Seas
+Across the desert
+I'll be there
 
+In a whisper on the wind
+On the smile of a new friend
+Just think of me
+And I'll be there
+
+Don't be afraid, oh my love
+I'll be watching you from above
+And I'd give all the world tonight
+To be with you
+Because I'm on your side
+And I still care
+I may have died
+But I've gone nowhere
+
+Just think of me
+And I'll be there
+
+On the edge of a waking dream
+Over Rivers
+Over Streams
+Through Wind and Rain
+I'll be there
+
+Across the wide and open sky
+Thousands of miles I'd fly
+To be with you
+I'll be there
+
+Don't be afraid, oh my love
+I'll be watching you from above
+And I'd give all the world tonight
+To be with you
+Because I'm on your side
+And I still care
+I may have died
+But I've gone nowhere
+
+Just think of me
+And I'll be there
+
+In the breath of a wind that sighs
+Oh, there's no need to cry
+
+Just think of me
+And I'll be there

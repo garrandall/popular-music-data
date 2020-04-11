@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: words-bee-gees
+lyrics_url: https://genius.com/Bee-gees-words-lyrics
 name: Words
 rankings:
 - end_date: '1968-01-26'
@@ -51,4 +52,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-30'
 ---
+Smile an everlasting smile
+A smile can bring you near to me
+Don't ever let me find you gone
+Cause that would bring a tear to me
 
+
+This world has lost it's glory
+Let's start a brand new story
+Now my love, right now
+There'll be no other time
+And I can show you how, my love
+
+Talk in everlasting words
+And dedicate them all to me
+And I will give you all my life
+I'm here if you should call to me
+
+
+You think that I don't even mean
+A single word I say
+
+
+It's only words, and words are all I have
+To take your heart away
+
+
+You think that I don't even mean
+A single word I say
+
+
+It's only words, and words are all I have
+To take your heart away
+It's only words, and words are all I have
+To take your heart away
+It's only words, and words are all I have
+To take your heart away

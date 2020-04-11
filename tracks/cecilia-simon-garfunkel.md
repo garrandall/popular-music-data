@@ -1,7 +1,6 @@
 ---
 artists:
-- Simon
-- Garfunkel
+- Simon & Garfunkel
 features: []
 genres: []
 key: cecilia-simon-garfunkel

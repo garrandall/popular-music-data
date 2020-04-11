@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: magnet-and-steel-walter-egan
+lyrics_url: https://genius.com/Walter-egan-magnet-and-steel-lyrics
 name: Magnet And Steel
 rankings:
 - end_date: '1978-06-02'
@@ -95,4 +96,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-10-21'
 ---
+(Ooh, ooh, ah)
 
+
+Now I told you, so you ought to know (ooh)
+It takes some time for a feeling to grow (ooh)
+But you're so close now, I can't let you go (ooh)
+And I can't let go
+
+
+(With you I'm not shy) to show the way I feel
+(With you I might try) my secrets to reveal
+For you are a magnet and I am steel
+
+
+I can't hope that I'll hold you for long (ooh)
+You're a woman who's lost to your song (ooh)
+But the love that I feel is so strong (ooh)
+And it can't be wrong
+
+
+(With you I'm not shy) to show the way I feel
+(With you I might try) my secrets to reveal
+For you are a magnet and I am steel
+
+(Ooh)
+(Ooh)
+(Ooh)
+
+
+(With you I'm not shy) to show the way I feel
+(With you I might try) my secrets to reveal
+For you are a magnet and I am steel
+
+
+For you are a magnet and I am steel
+For you are a magnet and I am steel

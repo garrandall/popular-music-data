@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-love-can-break-your-heart-neil-young
+lyrics_url: https://genius.com/Neil-young-only-love-can-break-your-heart-lyrics
 name: Only Love Can Break Your Heart
 rankings:
 - end_date: '1970-10-30'
@@ -55,4 +56,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-09'
 ---
+When you were young and on your own
+How did it feel to be alone?
 
+
+I was always thinking of games that I was playing
+Trying to make the best of my time
+
+
+But only love can break your heart
+Try to be sure right from the start
+Yes, only love can break your heart
+What if your world should fall apart?
+
+
+I have a friend I've never seen
+He hides his head inside a dream
+
+
+Someone should call him and see if he can come out
+Try to lose the down that he's found
+
+
+But only love can break your heart
+Try to be sure right from the start
+Yes, only love can break your heart
+What if your world should fall apart?
+
+
+I have a friend I've never seen
+He hides his head inside a dream
+
+
+Yes, only love can break your heart
+Yes, only love can break your heart
+Yes, only love can break your heart
+Yes, only love can break your heart
+Yes, only love can break your heart

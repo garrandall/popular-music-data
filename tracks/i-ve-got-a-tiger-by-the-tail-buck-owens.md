@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-got-a-tiger-by-the-tail-buck-owens
+lyrics_url: https://genius.com/Buck-owens-ive-got-a-tiger-by-the-tail-lyrics
 name: I've Got A Tiger By The Tail
 rankings:
 - end_date: '1965-01-29'
@@ -43,4 +44,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-03-20'
 ---
+I've got a tiger by the tail it's plain to see
+I won't be much when you get through with me
+Well I'm a losing weight and a turning mighty pale
+Looks like I've got a tiger by the tail
 
+
+Well I thought the day I met you, you were meek as a lamb
+Just the kind to fit my dreams and plans
+But now the pace we're living takes the wind from my sails
+And it looks like I've got a tiger by the tail
+
+
+I've got a tiger by the tail it's plain to see
+I won't be much when you get through with me
+Well I'm a losing weight and a turning mighty pale
+Looks like I've got a tiger by the tail
+
+
+Well every night you drag me where the bright lights are found
+There ain't no way to slow you down
+Im as 'bout as helpless as a leaf in a gale
+And it looks like I've got a tiger by the tail
+
+
+I've got a tiger by the tail it's plain to see
+I won't be much when you get through with me
+Well I'm a losing weight and a turning mighty pale
+Looks like I've got a tiger by the tail

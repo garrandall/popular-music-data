@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-on-by-leroy-van-dyke
+lyrics_url: https://genius.com/Leroy-van-dyke-walk-on-by-lyrics
 name: Walk On By
 rankings:
 - end_date: '1961-11-05'
@@ -71,4 +72,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
 ---
+If I see you tomorrow on some street in town
+Pardon me if I don't say hello (hello)
+I be long to an other, it wouldn't look so good
+To know someone I'm not supposed to know
 
+Just walk on by, wait on the corner
+I love you, but we're strangers when we meet
+Just walk on by, wait on the corner
+I love you, but we're strangers when we meet
+
+In a dimly lit corner in a place outside of town
+Tonight we'll try to say goodbye again (goodbye)
+But I know it's not over, I'll call tomorrow night
+I can't let you go, so why pretend

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-wouldn-t-wanna-be-me-keith-urban
+lyrics_url: https://genius.com/Keith-urban-who-wouldnt-wanna-be-me-lyrics
 name: Who Wouldn't Wanna Be Me
 rankings:
 - end_date: '2003-08-22'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-12-27'
 ---
+I got no money in my pockets
+I got a hole in my jeans
+I had a job and I lost it
+But it won't get to me
 
+Because I'm riding with my baby
+And it's a brand new day
+We're on the wheels of an angel
+Flying away
+
+
+And the sun is shining
+This road keeps winding
+Through the prettiest country
+From Georgia to Tennessee
+And I got the one I love beside me
+My troubles behind me
+I'm alive and I'm free
+Who wouldn't wanna be me
+
+
+Now she's strumming on my six-string
+Across her pretty knees
+She's stomping out a rhythm
+And singing to me the sweetest song
+
+
+And the sun is shining
+This road keeps winding
+Through the prettiest country
+From Georgia to Tennessee
+And I got the one I love beside me
+My troubles behind me
+I'm alive and I'm free
+Who wouldn't wanna be me
+And the sun is shining
+This road keeps winding
+Through the prettiest country
+From Georgia to Tennessee
+And I got the one I love beside me
+My troubles behind me
+I'm alive and I'm free
+Who wouldn't wanna be me
+
+
+I got no money in my pockets
+I got a hole in my jeans
+We're on the wheels of an angel
+And I'm free
+She's strumming on my six-string
+It's across her pretty knees
+She's stomping out a rhythm
+And she's singin' to me

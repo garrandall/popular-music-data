@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-adore-him-the-angels
+lyrics_url: https://genius.com/The-angels-usa-i-adore-him-lyrics
 name: I Adore Him
 rankings:
 - end_date: '1963-11-01'
@@ -35,4 +36,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-12-07'
 ---
+They say he doesn't love me
+But they don't know
+He makes me feel so happy when I'm feeling low
+My friends just can't seem to see
+That he means the world to me
 
+And that is why I adore him
+(He's everything, everything to me)
+Oh, I adore him
+(He's all that a boy, all a boy should be)
+Yes, I adore him
+(Sometimes he hurts, he hurts my pride)
+Do anything for him
+(But he's so good, so good inside)
+Yeah, yeah, yeah
+
+When we're with other people
+He treats me when
+But when we're off together
+Oh, you know, I'm his queen
+Though, sometimes when I cry at night
+He makes things turn out alright
+
+And that is why I adore him
+(He's everything, everything to me)
+Oh, I adore him
+(He's all that a boy, all a boy should be)
+Yes, I adore him
+(Sometimes he hurts, he hurts my pride)
+Do anything for him
+(But he's so good, so good inside)
+Yeah, yeah, yeah
+
+When we walk hand in hand
+Through the roughest part of town
+I never feel afraid
+Knowing he's around
+
+He maybe cheating on me
+But I don't care
+Cause when I need his loving
+He's always there
+I can't help but wonder why
+I've been blessed with such a guy
+
+And that is why I adore him
+(He's everything, everything to me)
+Oh, I adore him
+(He's all that a boy, all a boy should be)
+Yeah, yeah, I love him so
+(Sometimes he hurts, he hurts my pride)
+You know I'll never, never, never let him go
+(But he's so good, so good inside)
+No, no, no, no, no, no, no
+He's mine
+(He's everything, everything to me)
+Yeah, yeah, I'm gonna love him all the time
+(He's all that a boy, all a boy)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-ll-be-together-sting
+lyrics_url: https://genius.com/Sting-well-be-together-lyrics
 name: We'll Be Together
 rankings:
 - end_date: '1987-10-16'
@@ -79,4 +80,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-02-06'
 ---
+I see me with you and all the things you do
+Keep turning round and round in my mind
+Forget the weather we should always be together
+And any other thought is unkind
 
+
+To have you with me I would swim the sevens seas
+To have you as my guide and my light
+My love is a flame that burns in your name
+We'll be together We'll be together tonight
+
+
+We'll be together, yeah
+
+
+I see you with me and all I wanna be
+Is dancing here with you in my arms
+Forget the weather we should always be together
+Always be a slave to your charm
+
+
+
+
+
+
+Call me baby. You can call me anything you want
+Call me baby Call me Just call me
+
+
+I see you with me and baby makes three
+I see me with you and all the things we do
+Forget the weather we should always be together
+I need you as my guide and my light
+My love is a flame that burns in your name
+We'll be together We'll be together tonight

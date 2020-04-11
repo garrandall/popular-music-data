@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: our-anniversary-shep-and-the-limelites
+lyrics_url: https://genius.com/Shep-and-the-limelites-our-anniversary-lyrics
 name: Our Anniversary
 rankings:
 - end_date: '1962-02-23'
@@ -39,4 +40,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-04-07'
 ---
+Anniversary, Anniversary
 
+Tomorrow will be our anniversary
+I'm so glad, so happy to know that your still mine
+Congratulations, congratulations
+
+Together we shared all the heartaches and the tears
+And I hope it will last for a very long time
+One, two, three years ago
+That's when I fell for you
+Four, five, six years will go by
+And I promise to keep on loving you
+
+Tomorrow will be our anniversary
+I'm so glad, so happy to know that your still mine
+Congratulations, congratulations
+I love you

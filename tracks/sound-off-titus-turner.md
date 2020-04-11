@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sound-off-titus-turner
+lyrics_url: https://genius.com/Titus-turner-sound-off-lyrics
 name: Sound-Off
 rankings:
 - end_date: '1961-01-22'
@@ -23,4 +24,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-06'
 ---
+(Hut, two, three, four)
+(Hut, two, three, four)
+Their heads are up
+The chests are out
+Their arms are swinging
 
+
+
+Now sound off!
+(One two)
+Sound off!
+(Three four)
+Fellas now
+(One two three four)
+(One two - three four!)
+Innie-minnie miney-mo
+Let's go work and 
+
+
+
+You had a good home but ya left
+And you wanna go home but you can't
+You think the girl that you left
+Is she waitin' for you but she ain't
+
+
+Ain't no use in goin' home
+Alan's got your girl alone
+Ain't no use in feelin' blue
+Alan's got your sister too

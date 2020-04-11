@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-the-things-you-do-five
+lyrics_url: https://www.musixmatch.com/lyrics/Five/It-s-the-Things-You-Do
 name: It's The Things You Do
 rankings:
 - end_date: '1998-11-20'
@@ -47,4 +48,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-01-16'
 ---
+It's the things you do
+That have made me fall
+So in love with you
+You can have it all
+What else can I do
+Nothing left to prove
+It's the things you do
 
+You touched my love line so deep inside I
+Never thought I'd feel so good
+Oh no. No need to hide now
+Open up your mind now
+Let me make it understood because
+
+Nobody ever said to me
+All of the things we shared within
+Now that I know that you can see
+Let me fill you up
+
+It's the things you do
+That have made me fall
+So in love with you
+You can have it all
+What else can I do
+Nothing left to prove
+It's the things you do
+
+You and me baby like the ABC K-I-S-S-I-N-G
+Could it be unity I need like J Hoffa
+Romance your body work it out - MM proper
+One of the finest things on my mind is
+Now you make me feel like gold your queen Midas
+Straight A plus the material I bust
+It's the things that you do
+Keep me up and it's a must
+
+Nobody ever said to me
+All of the things we shared within
+Now that I know that you can see
+Let me fill you up
+
+It's the things you do
+That have made me fall
+So in love with you
+You can have it all
+What else can I do
+Nothing left to prove
+It's the things you do
+That have made me fall
+So in love with you
+You can have it all
+What else can I do
+Nothing left to prove
+Give me a chance and let me in
+There's no need to hide what's there within
+Now that I know that you can see
+Let me fill you up
+You got that Midas touch
+I love you more than enough
+For all the things that you do
+It's the things you do
+That have made me fall
+So in love with you
+You can have it all
+What else can I do
+Nothing left to prove
+It's the things you do

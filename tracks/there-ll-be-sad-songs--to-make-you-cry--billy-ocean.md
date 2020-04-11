@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-ll-be-sad-songs--to-make-you-cry--billy-ocean
+lyrics_url: https://genius.com/Billy-ocean-therell-be-sad-songs-lyrics
 name: There'll Be Sad Songs (To Make You Cry)
 rankings:
 - end_date: '1986-04-25'
@@ -91,4 +92,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-06'
 ---
-
+There'll be sad songs to make you cry
+Billy Ocean
+Sometimes I wonder by the look in your eyes
+When I'm standing beside you
+There's a fever burning deep inside
+Is there another in your memory?
+Do you think of that someone
+When you hear that special melody?
+I always stop and think of you
+Especially when the words of love song
+Touch the very heart of me
+There'll be sad songs to make you cry
+Love songs often do
+They can touch the heart of someone new
+Saying I love you, I love you
+I often wonder how it could be
+You loving me, two hearts in perfect harmony
+I'll count the hours until that day
+The rhapsody plays a melody for you and me
+Until the moment that you give your love to me
+You're the one I care for
+The one I will wait for
+There'll be sad songs to make you cry
+Love songs often do
+They can touch the heart of someone new
+Saying I love you, ooh ooh ooh, oh
+You're my desire, you take me higher
+My love is like a river running so deep
+Until the moment that you give your love to me
+You're the one I care for, the one that I will wait for
+There'll be sad songs to make you cry
+Love songs often do
+They can touch the heart of someone new
+Saying I love you
+Ah... Aah...
+There'll be sad songs to make you cry
+Love songs often do
+They can touch the heart of someone new
+Saying I love you, I love you
+Do do do do do do do do do do do do do
+Ooh...
+Saying I love you
+(Spoken)
+I love you

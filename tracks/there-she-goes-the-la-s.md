@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-she-goes-the-la-s
+lyrics_url: https://genius.com/The-las-there-she-goes-lyrics
 name: There She Goes
 rankings:
 - end_date: '1991-07-26'
@@ -47,4 +48,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-09-21'
 ---
+There she goes
+There she goes again
+Racing through my brain
 
+
+And I just can't contain
+This feeling that remains
+
+
+There she goes
+There she goes again
+Pulsing through my vein
+
+
+And I just can't contain
+This feeling that remains
+
+
+There she goes
+There she goes again
+She calls my name, pulls my train
+No one else could heal my pain
+
+
+And I just can't contain
+This feelin' that remains
+
+
+There she goes
+There she goes again
+Chasing down my lane
+
+
+And I just can't contain
+This feelin' that remains
+
+
+There she goes
+There she goes again
+There she goes
+There she goes again
+There she goes
+There she goes again

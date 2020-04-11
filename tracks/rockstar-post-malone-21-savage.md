@@ -5,6 +5,7 @@ features:
 - 21 Savage
 genres: []
 key: rockstar-post-malone-21-savage
+lyrics_url: https://genius.com/Genius-turkce-ceviri-post-malone-rockstar-ft-21-savage-turkce-ceviri-lyrics
 name: Rockstar
 rankings:
 - end_date: '2017-10-13'
@@ -172,4 +173,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
 ---
+Hahahahaha
+Tank God
+Ayy, ayy
 
+
+Sürtükleri becerip hap alıyorum
+Adamım, kendimi rock yıldızı gibi hissediyorum
+Kardeşlerimin otu sağlam
+Ve Rasta gibi tüttürüyorlar
+Benimle uğraş, Uzi'ni kap gel
+Ortaya çık ve vurucularımla karşılaş
+Dostlarım mahallene uğradığında o silahın gra-ta-ta-ta gibi patlayacağından emin olacaklar
+
+
+Tarzımı değiştirdim, siyahlar içerisinde geldim
+"Huzur içinde yat Bon Scott" demeye başladım
+Kapıyı kapat, tüttürüyoruz
+Benden çakmak istedi beni Morrisson sanıyor (ayy)
+Sahnede aptal gibi davran
+Büyük ihtimalle şovumdan polis arabası ile ayrılacaksın
+Efsaneviydi, Montage'ın tepesinden televizyonu aşağı fırlattı
+Masanın üstünde Kokain var, likör karışıyor hiç bir şey umrumuzda değil
+Dostum, kız arkadaşın bir sürtük içeri girmeye uğraşıyor
+"Ben gruptanım" diyor (ayy, ayy)
+Kafayı yemiş gibi davranmaya başladı pantolonlarımdan tutmaya çalışıyor
+Karavanımda yüz tane orospu var ve hiç birinin bir erkeği yok
+Hepsi bir arkadaşını getirmiş
+
+
+Sürtükleri becerip hap alıyorum
+Adamım, kendimi rock yıldızı gibi hissediyorum
+Kardeşlerimin otu sağlam
+Ve Rasta gibi tüttürüyorlar
+Benimle uğraş, Uzi'ni kap gel
+Ortaya çık ve vurucularımla karşılaş
+Dostlarım mahallene uğradığında o silahın gra-ta-ta-ta gibi patlayacağından emin olacaklar (pow, pow, pow)
+
+
+Hills'de süperstarları beceriyordum
+Popstar gibi hissediyorum (21,21,21)
+Henny yudumluyorum fena orospular havuzuma atlıyor
+Ve sütyenleri yok
+Arkadan vur, saçlarından çek
+"Yeter artık" diye bağırıyor (evet, evet, evet)
+"Savage, neden 12 tane garajın var ve 6 araban var?" diye soruyorlar
+İlişki aramıyorum, bunu nasıl buldun? (nasıl buldun?)
+Karıcığın benim tam yalamalık olduğumu düşünüyor (yalamalık)
+Yeşil yüzlükler kasamda, eski paralarım var (eski para)
+LA sürtükleri her zaman "Kokain nerde" diye sorar (21,21)
+Rock yıldızı gibi yaşa, polis arabasını parçala
+Pop-Tart'dan daha tatlı, sert olmadığını biliyorsun
+En yükseklere çıktım, hatırla sağlam traplerdim
+Rock yıldızı gibi yaşa, Rock yıldızı gibi yaşıyorum (ayy)
+
+
+Sürtükleri becerip hap alıyorum
+Adamım, kendimi rock yıldızı gibi hissediyorum
+Kardeşlerimin otu sağlam
+Ve Rasta gibi tüttürüyorlar
+Benimle uğraş, Uzi'ni kap gel
+Ortaya çık ve vurucularımla karşılaş
+Dostlarım mahallene uğradığında o silahın gra-ta-ta-ta gibi patlayacağından emin olacaklar (pow, pow, pow)
+
+
+Yıldız, yıldız, Rock yıldızı, rock yıldızı, yıldız
+Rock yıldızı
+Aynı bir Rock yıldızı gibi hissediyorum

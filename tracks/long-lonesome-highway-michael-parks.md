@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: long-lonesome-highway-michael-parks
+lyrics_url: https://www.musixmatch.com/lyrics/Michael-Parks/Long-Lonesome-Highway
 name: Long Lonesome Highway
 rankings:
 - end_date: '1970-03-06'
@@ -55,4 +56,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-05-16'
 ---
+Going down that long lonesome highway
+Bound for the mountains and the plains
+Sure ain't nothing here gonna tie me
+And I got some friends I'd like to see
+One of these days I'm gonna settle down
+But till I do I won't be hanging round
+Going down that long lonesome highway
+Gonna live life my way
 
+One of these days I'm gonna settle down
+But till I do I won't be hanging round
+Going down that long lonesome highway
+Gonna live life my way
+Yes I'm going down that long lonesome highway
+Gonna live life my way

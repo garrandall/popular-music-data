@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-ever-wanna-lose-ya-new-england
+lyrics_url: https://genius.com/New-england-dont-ever-wanna-lose-ya-lyrics
 name: Don't Ever Wanna Lose Ya
 rankings:
 - end_date: '1979-05-11'
@@ -55,4 +56,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
 ---
+You're driving home in a downpour
+Can't wait for you to walk through the door
+The rain is beating on my brain
+As the look on my face stays the same
 
+Don't ever wanna lose ya (3x's)
+
+And when I hear a speedy siren
+My heart gets so still just like dying
+Do anything to get you home safe
+Where could you be it's getting so late
+
+Repeat chorus

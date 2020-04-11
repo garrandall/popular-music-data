@@ -5,6 +5,7 @@ features:
 - Natasja
 genres: []
 key: calabria-2008-enur-natasja
+lyrics_url: https://genius.com/Enur-calabria-2008-feat-natasja-and-mims-lyrics
 name: Calabria 2008
 rankings:
 - end_date: '2007-12-07'
@@ -88,4 +89,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-04-12'
 ---
-
+Whoop whoop!
+Whoop whoop!
+Whoop whoop!
+Whoop whoop! Whoop whoop!
+Easy now, no need fi go down
+Easy now, no need fi go down
+Rock that, run that, this where we from
+Easy now, no need fi go down
+Easy now, no need fi go down
+Rock that, run that, this where we from
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop!
+Easy now, no need fi go down
+Easy now, no need fi go down
+Walk it gently and no break nah bone
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop!
+Whoop whoop! Whoop whoop!
+Easy now, no need fi go down
+(When you run come around)
+(Car I know youre the talk of the town, yeah)
+Easy now, no need fi go down
+(When you run come around)
+(Car I know youre the talk of the town, yeah)
+Rock that, run that, this where we from
+Easy now, no need fi go down
+(When you run come around)
+(Car I know youre the talk of the town, yeah)
+Easy now, no need fi go down
+(When you run come around)
+(Car I know youre the talk of the town, yeah)
+Rock that, run that, this where we from
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop, when you run come around
+Car I know youre the talk of the town, yeah
+Whoop whoop!
+Whoop whoop!

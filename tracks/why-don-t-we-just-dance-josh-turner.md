@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-don-t-we-just-dance-josh-turner
+lyrics_url: https://genius.com/Josh-turner-why-dont-we-just-dance-lyrics
 name: Why Don't We Just Dance
 rankings:
 - end_date: '2009-12-04'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-04-10'
 ---
+Baby why don't we just turn that TV off?
+Three hundred fifteen channels
+Of nothing but bad news on
+Well, it might be me, but the way I see it
+The whole wide world has gone crazy
+So baby, why don't we just dance?
+Guess the little bitty living room ain't going to look like much
+When the lights go down and we move the couch
+It's going to be more than enough
+For my two left feet and our two hearts beating
+Nobody's going to see us go crazy
+So baby, why don't we just dance?
 
+
+Down the hall, maybe straight up the stairs
+Bouncing off the wall, floating on air
+Baby, why don't we just dance?
+
+
+Baby, why don't you go put your best dress on?
+Those high heeled shoes you love to lose
+As soon as the tunes come on
+On second thought, just the way you are
+Is already driving me crazy
+So baby, why don't we just dance?
+
+
+Down the hall, maybe straight up the stairs
+Bouncing off the wall, floating on air
+Baby, why don't we just dance?
+
+
+Well it might be me but the way I see it
+The whole wide world has gone crazy
+So baby, why don't we just dance?
+Oh baby, why don't we just dance?

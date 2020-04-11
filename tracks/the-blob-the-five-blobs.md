@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-blob-the-five-blobs
+lyrics_url: https://genius.com/The-five-blobs-the-blob-lyrics
 name: The Blob
 rankings:
 - end_date: '1958-10-12'
@@ -47,4 +48,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-08'
 ---
+Bpa
+Beware of the blob, it creeps
+And leaps and glides and slides
+Across the floor
+Right through the door
+And all around the wall
+A splotch, a blotch
+Be careful of the blob
+Bpa
 
+Bpa
+Beware of the blob, it creeps
+And leaps and glides and slides
+Across the floor
+Right through the door
+And all around the wall
+A splotch, a blotch
+Be careful of the blob
+Bpa
+
+Bpa
+Beware of the blob, it creeps
+And leaps and glides and slides
+Across the floor
+Right through the door
+And all around the wall
+A splotch, a blotch
+Be careful of the blob
+Bpa
+
+Bpa
+Beware of the blob, it creeps
+And leaps and glides and slides
+Across the floor
+Right through the door
+And all around the wall
+A splotch, a blotch
+Be careful of the blob
+Bpa
+
+Bpa
+Beware of the blob, it creeps . .

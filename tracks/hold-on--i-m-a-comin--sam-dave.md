@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: hold-on--i-m-a-comin--sam-dave
+lyrics_url: https://www.musixmatch.com/lyrics/Sam-feat-Dave-2/Hold-On-I-m-a-Comin
 name: Hold On! I'm A Comin'
 rankings:
 - end_date: '1966-04-29'
@@ -60,4 +61,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-16'
 ---
+Don't you ever feel sad
+Lean on me when times are bad
+When the day comes and you're down
+In a river of trouble and about to drown
 
+Just hold on, I'm comin'
+Hold on, I'm comin'
+
+I'm goin' my way, your lover
+If you get cold, I will be your cover
+Don't have to worry 'cause I'm here
+No need to suffer baby, 'cause I'm here
+
+'Cause hold on, I'm comin'
+Hold on, I'm comin'
+Hold on, I'm comin'
+Hold on, I'm comin'
+
+Reach out to me for satisfaction
+Call my name now for quick reaction
+
+Now don't you ever feel sad
+Lean on me when the times are bad
+When the day comes and you're down, baby
+In a river of trouble and about to drown
+
+Just hold on, I'm comin'
+Hold on, I'm comin'
+
+Just hold on, I'm comin'
+Hold on, I'm comin'
+
+Just hold on, I'm comin'
+Hold on, I'm comin'

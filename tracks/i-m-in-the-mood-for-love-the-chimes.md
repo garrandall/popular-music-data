@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-in-the-mood-for-love-the-chimes
+lyrics_url: https://www.musixmatch.com/lyrics/The-Chimes-2/I-m-in-the-Mood-for-Love
 name: I'm In The Mood For Love
 rankings:
 - end_date: '1961-04-02'
@@ -43,4 +44,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-05-22'
 ---
-
+I'm in the mood for love
+Simply because you're near me
+Funny but when you're near me
+I'm in the mood for love
+Heaven is in your eyes
+Bright as the stars we're under
+But is there any wonder
+I'm in the mood for love
+Why stop to think of whether
+This little dream might fade
+We'll put our hearts together
+Now we are one I'm not afraid
+If there's a cloud above
+If it should rain we'll let it
+But for tonight forget it
+I'm in the mood for love

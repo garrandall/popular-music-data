@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-supposed-to-keep-your-love-for-me-jermaine-jackson
+lyrics_url: https://genius.com/Jermaine-jackson-youre-supposed-to-keep-your-love-for-me-lyrics
 name: You're Supposed To Keep Your Love For Me
 rankings:
 - end_date: '1980-07-18'
@@ -59,4 +60,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-10-04'
 ---
+What are you doing out there baby
+Messin' 'round with all the guys
+What are you doing out there playing
+Aren't you supposed to be mine
+What are you doing out there baby
+That ain't the way it's supposed to be
+Because, you're, you're supposed to keep your love for me
 
+What are you doing out there sugar
+Trying to bring my spirit down
+Because I've heard that you've been sneaking
+Around with every guy in town
+What are you doing out there baby
+You're acting like you're fancy free
+When, you're, you're supposed to keep your love for me
+(so keep your love for me)
+Da da da da da da da da da da da (4x)
+
+Sooner or later I'm gonna leave you
+Though I've said this many times before
+And on the day you least expect it
+You'll find me walking out the door
+What are you doing out there baby
+I guess our love will never be
+Because, you, you don't wanna keep your love for me
+(say it one more time)
+You, you don't wanna keep your love for me
+(when all the time)
+You're, you're supposed to keep your love for me
+Da da da da da da da da da da da ('til end)

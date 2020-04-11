@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-take-away-the-music-tavares
+lyrics_url: https://genius.com/Tavares-dont-take-away-the-music-lyrics
 name: Don't Take Away The Music
 rankings:
 - end_date: '1976-11-05'
@@ -55,4 +56,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-01-15'
 ---
+Don't take away the music, it's the only thing I've got
+It's my piece of the rock
 
+I knew you were always there
+You were my song
+How am I supposed to bear it
+Now that you've gone
+
+Would you separate the words
+Memories from a sweet melody
+Baby would you take away
+The music from a symphony
+
+Don't take away the music, it's the only thing I've got
+It's my piece of the rock
+Don't take away the music, everything else is gone
+Don't strip my world of this song
+
+Every time you whispered low
+My heart would sing
+Now it's silent like the phone
+The phone that never rings
+
+Memories of love's refrain
+Memories keep haunting me
+What are we doing to the song we sang
+What happened to our sweet harmony
+
+Don't take away the music, it's the only thing I've got
+It's my piece of the rock
+Don't take away the music, everything else is gone
+Don't strip my world of this song
+
+Don't take away the music ooh ooh ooh
+Don't take away the music ooh ooh ooh
+Don't take away the music ooh ooh ooh
+Don't take away the music ooh ooh ooh
+
+Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh
+Since you're not here with me
+My whole life seems out of key
+
+Don't take away the music, it's the only thing I've got
+It's my piece of the rock
+Don't take away the music, everything else is gone
+Don't strip my world of this song
+
+Don't take away the music, it's the only thing I've got
+It's my piece of the rock
+
+Don't take away the music ooh ooh ooh
+Don't take away the music ooh ooh ooh
+Don't take away the music ooh ooh ooh
+Don't take away the music ooh ooh ooh
+Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh
+
+Don't take away the music, it's the only thing I've got
+It's my piece of the rock
+Don't take away the music, everything else is gone
+Don't strip my world of this song
+
+Don't take away the music, ooh ooh ooh
+Don't take away the music, don't take it away
+Don't take away the music, ooh ooh ooh
+Don't take away the music, don't take it away
+
+Don't take away the music, ooh ooh ooh
+Don't take away the music, don't take it away
+Don't take away the music, ooh ooh ooh
+Don't take away the music, don't take it away
+Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh
+
+Don't take away the music, ooh ooh ooh
+Don't take away the music, don't take it away
+Don't take away the music, ooh ooh ooh
+Don't take away the music, don't take it away

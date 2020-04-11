@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: go-home-stevie-wonder
+lyrics_url: https://genius.com/Stevie-wonder-go-home-lyrics
 name: Go Home
 rankings:
 - end_date: '1985-11-29'
@@ -75,4 +76,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-15'
 ---
+Her parents said, "Girl, don't leave home"
+But her heart kept cheering her on
+She had a real good man, steady job
+But the two of them just weren't in her heart
 
+
+She only wanted to be close to me
+To give me the love she knew someday I'd need
+But I kept saying, "Girl you're wrong, go home"
+
+
+Long days, short nights when you're on the road
+For a pretty girl it's a heavy load
+And even so, who'll pay your fare?
+She said I'll make it on a wing and a prayer
+
+
+She only wanted to be close to me
+To give me the love she knew someday I'd need
+But I kept saying, "Girl, you're wrong, go home"
+
+
+She said I've on right to tell her how life should be
+Especially when the only one she ever cared about in life was me
+But she agreed to go along with my final word
+
+
+As fate would have life come around
+My world started tumbling down
+I lost my family, my friends and job
+And set free the only one who stuck with me from the start
+
+
+She only wanted to be close to me
+To give me the love she knew someday I'd need
+But I kept saying, "Girl, you're wrong, go home"
+
+
+She said I've on right to tell her how life should be
+Especially when the only one she ever cared about in life was me
+But she agreed to go along with my final word, my final word
+
+
+As fate would have life come around
+My world started tumbling down
+I lost my family, my friends and job
+And set free the only one who stuck with me from the start
+
+
+She only wanted to be close to me
+To give me the love she knew someday I'd need
+But I kept saying, "Girl, you're wrong, go home"
+
+She only wanted to be close to me
+To give me the love she knew someday I'd need
+But I kept saying, "Girl, you're wrong, go home"
+
+
+Go home, baby
+You never, go home right now
+Go home, girl, go, you better go home
+Go home, girl
+Go home, girl, go, you better go home
+Ooh, yeah yeah yeah yeah
+Go home, girl, go, you better go home
+Go home, baby
+Go home, girl, go, you better go home
+Go home, baby
+Go home, girl, go, you better go home
+Pack up your things and go on home
+Pack up your things and go on home
+Go home, girl, go, you better go home
+Go home, girl, go, you better go home
+Go home, girl, go, you better go home

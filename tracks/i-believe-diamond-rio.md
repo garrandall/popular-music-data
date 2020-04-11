@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-believe-diamond-rio
+lyrics_url: https://genius.com/Diamond-rio-i-believe-lyrics
 name: I Believe
 rankings:
 - end_date: '2003-03-28'
@@ -87,4 +88,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-08-02'
 ---
+Every now and then
+Soft as breath upon my skin
+I feel you come back again
+And it's like you haven't been
+Gone a moment from my sight
+Like the tears were never cried
+Like the hands of time were holding you and me
 
+And with all my heart I'm sure
+We're closer than we ever were
+I don't have to hear or see
+I've got all the proof I need
+There are more than angels watching over me
+I believe
+Oh, I believe
+
+Now when you die, your life goes on
+It doesn't end here when you're gone
+Every soul is filled with light
+It never ends, if I'm right
+Our love can even reach across eternity
+I believe
+Oh, I believe
+
+Forever, you're a part of me
+Forever in the heart of me
+I would hold you even longer if I can
+Oh, the people who don't see the most
+
+See that I believe in ghosts
+If that makes me crazy, then I am
+'Cause I believe
+Oh, I believe
+
+There are more than angels watching over me
+I believe
+Oh, I believe
+
+Every now and then
+Soft as breath upon my skin
+I feel you come back again
+And I believe

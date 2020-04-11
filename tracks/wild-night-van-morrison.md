@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wild-night-van-morrison
+lyrics_url: https://genius.com/Van-morrison-wild-night-lyrics
 name: Wild Night
 rankings:
 - end_date: '1971-10-15'
@@ -51,4 +52,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-12-18'
 ---
+As you brush your shoes, stand before the mirror
+And you comb your hair, grab your coat and hat
+And you walk wet streets, tryin' to remember
+All the wild night breezes in your mem'ry ever
 
+
+And everything looks so complete
+When you're walkin' out on the street
+And the wind catches your feet
+Sends you flyin', cryin'
+Ooo-woo-wee, wild night is calling
+Ooo-ooh-wee, wild night is calling
+
+
+All the girls walk by, dressed up for each other
+And the boys do the boogie-woogie on the corner of the street
+And the people passin' by stare in wild wonder
+And the inside jukebox roars out just like thunder
+
+
+And everything looks so complete
+When you're walkin' out on the street
+And the wind catches your feet
+Sends you flyin', cryin'
+Ooo-woo-wee, wild night is calling
+Ooo-ooh-wee, wild night is calling
+The wild night is calling
+The wild night is calling
+
+
+Come on out and dance
+Whoa, come on out and make romance
+Come on out and dance
+Come on out, make romance

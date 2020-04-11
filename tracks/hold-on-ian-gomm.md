@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-on-ian-gomm
+lyrics_url: https://genius.com/Ian-gomm-hold-on-lyrics
 name: Hold On
 rankings:
 - end_date: '1979-09-07'
@@ -55,4 +56,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-11-17'
 ---
+I've been drifting on the sea of heartbreak
+Tryin' to get myself ashore
+For so long, for so long
 
+Listenin' to the strangest stories
+Wondering where it all went wrong
+For so long, for so long
+
+But hold on hold on hold on
+To what you've got
+So hold on hold on hold on
+To what you've got
+
+I've been dreaming of a new tomorrow
+And wakin' in the morning sun
+For so long, for so long
+
+There's no time for revolution
+I've got to be travellin' on
+Here so long, for so long
+
+But hold on hold on hold on
+To what you've got
+So hold on hold on hold on
+To what you've got
+
+Hold on to what you've got
+
+Hold on hold on hold on to what you got
+Hold on hold on hold on to what you got
+
+Hold on to what you've got, to what you've got
+
+Hold on hold on hold on to what you got
+
+Hold on to what you've got, to what you've got
+
+Hold on hold on hold on to what you got
+Hold on hold on hold on to what you got
+
+Hold on to what you've got, to what you've got
+
+Hold on hold on hold on to what you got
+
+Hold on to what you've got, to what you've got

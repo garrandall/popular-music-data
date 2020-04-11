@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-the-blue-of-the-night-tommy-mara
+lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Mara/Where-The-Blue-Of-The-Night
 name: Where The Blue Of The Night
 rankings:
 - end_date: '1958-08-24'
@@ -23,4 +24,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
 ---
-
+Where The Blue Of The Night
+Meets The Gold Of The Day
+Someone Waits For Me
+And The Gold Of Her Hair
+Crowns The Blue Of Her Eyes
+Like A Halo, Tenderly
+If Only I Could See Her
+Oh How Happy I Would Be
+Where The Blue Of The Night
+Meets The Gold Of The Day
+Someone Waits For Me
+(Bing Whistles)
+Where The Blue Of The Night
+Meets The Gold Of The Day
+Someone Waits For Me

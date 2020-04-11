@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: are-you-really-mine-jimmie-rodgers
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/Are-You-Really-Mine
 name: Are You Really Mine
 rankings:
 - end_date: '1958-08-10'
@@ -59,4 +60,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-10-27'
 ---
+Jimmie Rodgers
+Miscellaneous
+Are You Really Mine
+(Really really really mine you're really mine
+Really really really mine you're really mine)
 
+You tell me that you love me
+And you tell me that you want me
+And you even wear my graduation ring
+
+(Doo-wah) It's too wonderful
+(Doo-wah) It's too beautiful
+(Doo-wah) It's a fantastic thing
+
+Are you really really mine (really mine)
+Really mine (really mine)
+Really mine
+Will my lucky little star (little star)
+Really shine (really shine)
+Really shine
+Kiss me with feeling
+Make my heart go reeling
+Make me know that you are really really really mine
+
+(Really really really mine you're really mine
+Really really really mine you're really mine)
+
+You call me every morning
+And you see me every evening
+And you swear that I'm the only one for you
+
+(Doo-wah) Here's the funny part
+(Doo-wah) Though you cross your heart
+(Doo-wah) I can't believe it's true
+
+Are you really really mine (really mine)
+Really mine (really mine)
+Really mine
+Will my lucky little star (little star)
+Really shine (really shine)
+Really shine
+Kiss me with feeling
+Make my heart go reeling
+Make me know that you are really really really mine
+
+(Really really really mine you're really mine)
+Really mine
+(Really really really mine you're really mine)
+Really mine
+(Really really really mine you're really mine)

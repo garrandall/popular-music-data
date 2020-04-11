@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-come-knockin--fats-domino
+lyrics_url: https://www.musixmatch.com/lyrics/Fats-Domino/Don-t-Come-Knockin
 name: Don't Come Knockin'
 rankings:
 - end_date: '1960-07-03'
@@ -51,4 +52,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
 ---
-
+Don't come knockin' on my door
+I don't want you round no more, no more
+'Round me no more
+I tell you once and I'll tell you twice
+I'll find the one gonna treat me right, treat me right
+Gonna treat me right.
+You, you done me wrong
+Stole my love and gone
+I just can't go on
+I just can't go on
+You can go on baby, baby that's all right
+I'll find the one gonna treat me right, treat me right
+Gonna treat me right.
+You, you done me wrong
+Took my love and gone
+I just can't go on
+I just can't go on
+You can go on baby, baby that's all right
+I'll find the one gonna treat me right, treat me right
+Gonna treat me right.

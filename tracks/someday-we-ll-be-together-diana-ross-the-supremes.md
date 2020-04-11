@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: someday-we-ll-be-together-diana-ross-the-supremes
+lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross/Someday-We-ll-Be-Together-feat-The-Supremes
 name: Someday We'll Be Together
 rankings:
 - end_date: '1969-11-14'
@@ -72,4 +73,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
 ---
+I say, say, say it again
+(Someday, we'll be together)
+Oh, yeah, oh, yeah
+You're far away from me, my love
 
+And just as sure my, my, baby
+As there are stars above
+I wanna say, wanna say, wanna say
+(Someday, we'll be together)
+
+Yes we will, yes we will
+(Say, someday, we'll be together)
+Some sweet day
+I know, I know, I know, I know
+My love is yours, baby
+
+Oh, right from the start
+You, you, you possess my soul now, honey
+And I know, I know you own my heart
+And I wanna say
+(Ooh, someday, we'll be together)
+
+Some sweet day
+Oh, yes we will, yes we will
+(Someday, we'll be together)
+Tell everybody, yes we will, yes we will
+Long time ago, my, my sweet thing
+
+I made a big mistake, honey
+I, I, I say, I said, goodbye
+Oh, oh, baby, ever, ever, ever
+Ever, ever and ever since that day
+All I wanna do, all I wanna do was cry, cry, oh
+Hey, hey, hey
+
+I long for you every, every night
+Ooh, just to kiss your sweet, sweet lips, baby
+Hold you ever, ever so tight
+And I wanna say
+Someday we'll be together
+Yes we will, yes we will
+Someday we'll be together
+Yes we will, yes we will
+Someday we'll be together
+Someday we'll be together
+Yes we will, yes we will

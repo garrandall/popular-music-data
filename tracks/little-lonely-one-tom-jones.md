@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-lonely-one-tom-jones
+lyrics_url: https://genius.com/Tom-jones-little-lonely-one-lyrics
 name: Little Lonely One
 rankings:
 - end_date: '1965-06-04'
@@ -43,4 +44,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-24'
 ---
+If you give me just a little while
+I'll turn each tear drop to smile
 
+He promised happiness
+But he left you loneliness
+What makes you hurt inside
+True love or injured pride
+
+
+Oh little lonely one now don't you cry
+You'll forget him by and by
+And if you give me just a little while
+I'll turn each tear drop to a smile
+
+I know what you've been through
+Your heart's been broken too
+He kept you on a string
+While you gave your everything
+
+(Repeat Chorus twice)
+It will be hard for me
+To fight his ever-loving memory
+But give me one more chance
+And I'll find true romance
+
+Oh little lonely one now don't you cry
+You'll forget him by and by
+And if you give me just a little while
+I'll turn each tear drop to a smile
+And if you give me just a little while
+I'll turn each tear drop to a smile
+And if you give me just a little while
+I'll turn each tear drop to a smile

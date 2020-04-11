@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: funny-how-time-slips-away-jimmy-elledge
+lyrics_url: https://genius.com/Jimmy-elledge-funny-how-time-slips-away-lyrics
 name: Funny How Time Slips Away
 rankings:
 - end_date: '1961-11-19'
@@ -63,4 +64,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
 ---
+Well, hello there
+My, it's been a long, long time
+How am I doin'?
+Oh, I guess I'm doin' fine
 
+It's been so long now
+And it seems that
+It was only yesterday
+Ain't it funny how time slips away
+
+How's your new love?
+I hope that he's doin' fine
+Heard you told him
+That you'd love him till the end of time
+
+Now that's the same thing that you told me
+Seems like just the other day
+Ain't it funny how time slips away
+
+Gotta go now
+Guess I'll see you around
+Don't know when though
+Never know when I'll be back in town
+
+But I remember what I told you
+That in time you're gonna pay
+And it's surprisin' how time slips away

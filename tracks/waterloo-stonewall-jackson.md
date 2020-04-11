@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: waterloo-stonewall-jackson
+lyrics_url: https://genius.com/Stonewall-jackson-waterloo-lyrics
 name: Waterloo
 rankings:
 - end_date: '1959-05-31'
@@ -71,4 +72,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-09-07'
 ---
+Waterloo Waterloo
+Where will you meet your Waterloo?
+Every puppy has his day
+Everybody has to pay
+Everybody has to meet his Waterloo
 
+Now old Adam
+Was the first in history
+With an apple
+He was tempted and deceived
+Just for spite
+The devil made him take a bite
+And that's where old Adam
+Met his Waterloo
+
+Waterloo Waterloo
+Where will you meet your Waterloo?
+Every puppy has his day
+Everybody has to pay
+Everybody has to meet his Waterloo
+
+Little General Napoleon of France
+Tried to conquer the world
+But lost his pants
+Met defeat
+Known as Bonaparte's Retreat
+And that's when Napoleon
+Met his Waterloo
+
+Waterloo Waterloo
+Where will you meet your Waterloo?
+Every puppy has his day
+Everybody has to pay
+Everybody has to meet his Waterloo
+
+Now a feller
+Whose darling proved untrue
+Took her life
+But he lost his too
+Now he swings where the little birdie sings
+And that's where Tom Dooley
+Met his Waterloo
+
+Waterloo Waterloo
+Where will you meet your Waterloo?
+Every puppy has his day
+Everybody has to pay
+Everybody has to meet his Waterloo

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-goes-my-life-kenny-chesney
+lyrics_url: https://genius.com/Kenny-chesney-there-goes-my-life-lyrics
 name: There Goes My Life
 rankings:
 - end_date: '2003-11-14'
@@ -87,4 +88,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-03-20'
 ---
+All he could think about was I'm too young for this
+Got my whole life ahead
+Hell, I'm just a kid myself
+How'm I going to raise one
 
+All he could see were his dreams going up in smoke
+So much for ditching this town
+And hangin' out on the coast
+Oh well, those plans are long gone
+
+
+And he said
+There goes my life
+There goes my future, my everything
+Might as well kiss it all good-bye
+There goes my life
+
+
+A couple years of up all night
+And a few thousand diapers later
+That mistake he thought he made covers up the refrigerator
+Oh yeah, he loves that little girl
+
+Momma's waiting to tuck her in
+As she fumbles up those stairs
+She smiles back at him
+Dragging that teddy bear
+Sleep tight, blue eyes and bouncing curls
+
+
+He smiles
+There goes my life
+There goes my future, my everything
+I love you, daddy good-night
+There goes my life
+
+
+She had that Honda loaded down
+With Abercrombie clothes and 15 pairs of shoes
+And his American Express
+He checked the oil and slammed the hood
+Said you're good to go
+She hugged them both and headed off to the West Coast
+
+
+And he cried
+There goes my life
+There goes my future, my everything
+I love you
+Baby, good-bye
+
+
+There goes my life
+There goes my life
+Baby good-bye

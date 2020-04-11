@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cars-gary-numan
+lyrics_url: https://genius.com/Gary-numan-cars-lyrics
 name: Cars
 rankings:
 - end_date: '1980-02-22'
@@ -107,4 +108,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-08-02'
 ---
+Here in my car
+I feel safest of all
+I can lock all my doors
+It's the only way to live
+In cars
+Here in my car
+I can only receive
+I can listen to you
+It keeps me stable for days
+In cars
 
+
+Here in my car
+Where the image breaks down
+Will you visit me please?
+If I open my door
+In cars
+Here in my car
+I know I've started to think
+About leaving tonight
+Although nothing seems right
+In cars

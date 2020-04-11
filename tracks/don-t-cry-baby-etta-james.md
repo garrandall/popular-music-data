@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-cry-baby-etta-james
+lyrics_url: https://genius.com/Etta-james-dont-cry-baby-lyrics
 name: Don't Cry Baby
 rankings:
 - end_date: '1961-08-13'
@@ -35,4 +36,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-09-18'
 ---
+Don't cry, don't cry baby
+Don't cry baby
+Dry your eyes, and let's be sweethearts again
+And oh, cuz you know
+You know I didn't mean
+To ever treat you so mean
+C'mon, c'mon sweetheart
+And let's try it over again
 
+And oh, don't cry
+Don't cry baby
+Don't cry, don't cry
+Dry your eyes, and let's be sweethearts again
+And oh, cuz you know I didn't mean
+To ever treat you so mean
+C'mon, c'mon sweetheart
+And let's try it over again
+
+Repeat

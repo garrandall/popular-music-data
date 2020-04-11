@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: brooklyn-girls-robbie-dupree
+lyrics_url: https://genius.com/Robbie-dupree-brooklyn-girls-lyrics
 name: Brooklyn Girls
 rankings:
 - end_date: '1981-05-29'
@@ -35,4 +36,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-07-04'
 ---
+She spins the wheel of fortune on the boardwalk
+Where lovers draw their secrets in the sand
+Those Coney Island boys in satin jackets
+Choose up among themselves
+To see who get a chance at those
 
+Brooklyn girls - they like to talk tough
+Brooklyn girls - they shine in the rough
+Brooklyn girls - Hold on, I'm coming for you
+
+She dreams about the lights across the river
+Dances in the dark while the radio plays
+She knows that someone out there must be waiting
+To take her in his arm and steal her heart away, oh
+
+Brooklyn girls - they like to talk tough
+Brooklyn girls - they shine in the rough
+Brooklyn girls - Hold on, I'm coming for you
+
+So much love
+Lost in a crowd
+Take a look around
+She's just waiting to be found

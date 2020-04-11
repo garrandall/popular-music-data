@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-truth-tami-show
+lyrics_url: https://www.musixmatch.com/lyrics/Tami-Show/The-Truth
 name: The Truth
 rankings:
 - end_date: '1991-08-09'
@@ -59,4 +60,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-10-26'
 ---
+I don't want something complicated baby
+I just want something simple like the truth
 
+Now's the time, this time I'm going to take a stand
+Call me honestly only if you show your hand
+Don't keep walking away, today we got to work it out now, understand
+Give me yours, I'll give you mine, put your heart on the line
+
+I don't want something complicated baby
+Just want something simple like the truth
+I don't want something fabricated baby
+Just want something simple like the truth
+
+Hot love, cold lies, can't you find a compromise
+Good bad, never had anything but troubled times
+And how come every time I need a little sincerity, it's such a crime
+Give me yours, I'll give you mine, put your heart on the line
+
+I don't want something complicated baby
+Just want something simple like the truth
+I don't want something fabricated baby
+Just want something simple like the truth
+
+Look in my eyes don't look away
+Look in my eyes
+Hey... Hey... Hey... Hey...
+I don't want something complicated baby
+
+I don't want something complicated baby
+Just want something simple like the truth
+I don't want something fabricated baby
+Just want something simple like the truth
+
+Not complicated... like the truth
+Not fabricated... like the truth
+Not educated don't want it complicated
+Not calculated... like the truth

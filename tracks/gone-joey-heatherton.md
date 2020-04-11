@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gone-joey-heatherton
+lyrics_url: https://genius.com/Joey-heatherton-gone-lyrics
 name: Gone
 rankings:
 - end_date: '1972-06-02'
@@ -67,4 +68,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
 ---
+Since you've gone
+The moon, the sun, the stars in the sky
+Know the reason why I cry
+Love divine once was mine
+Now youve gone
 
+Since you've gone
+My heart, my lips, my tear-dimmed eyes
+A lonely soul within me cries
+I acted smart, broke your heart
+Now you've gone
+
+Oh, what I'd give for the lifetime I've wasted
+The love that I've tasted
+I was wrong now youve gone
+
+Oh, what I'd give for the lifetime I've wasted
+The love that I've tasted
+I was wrong now you've gone

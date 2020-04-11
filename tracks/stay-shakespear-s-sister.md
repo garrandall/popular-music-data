@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-shakespear-s-sister
+lyrics_url: https://genius.com/Shakespears-sister-stay-lyrics
 name: Stay
 rankings:
 - end_date: '1992-07-10'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-11-14'
 ---
+If this world is wearing thin
+And you're thinking of escape
+I'll go anywhere with you
+Just wrap me up in chains
+But if you try to go out alone
+Don't think I'll understand
 
+
+(Stay) Stay with me
+Stay with me
+
+In the silence of your room
+In the darkness of your dreams
+You must only think of me
+There can be no in-betweens
+When your pride is on the floor
+I'll make you beg for more
+
+
+(Stay) Stay with me
+Stay with me
+
+You'd better hope and pray
+That you make it safe back to your own world
+You'd better hope and pray
+That you wake one day in your own world
+'Cuz when you sleep at night
+They don't hear your cries in your own world
+Only time will tell
+If you can break the spell back in your own world
+
+(Stay) Stay with me
+(Stay) Stay with me
+(Stay) Stay, stay with me ahh-haaa
+(Stay) Stay, stay, stay, stay, stay
+(Stay)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: superman--it-s-not-easy--five-for-fighting
+lyrics_url: https://genius.com/Five-for-fighting-superman-lyrics
 name: Superman (It's Not Easy)
 rankings:
 - end_date: '2001-09-07'
@@ -147,4 +148,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-04-27'
 ---
+I can't stand to fly
+I'm not that naïve
+I'm just out to find
+The better part of me
 
+I'm more than a bird
+I'm more than a plane
+More than some pretty face beside a train
+And it's not easy to be me
+
+I wish that I could cry
+Fall upon my knees
+Find a way to lie
+'Bout a home I'll never see
+
+It may sound absurd
+But don't be naïve
+Even heroes have the right to bleed
+I may be disturbed
+But won't you concede
+Even heroes have the right to dream
+And it's not easy to be me
+
+Up, up and away, away from me
+Well it's alright
+You can all sleep sound tonight
+I'm not crazy or anything
+
+I can't stand to fly
+I'm not that naïve
+Men weren't meant to ride
+With clouds between their knees
+
+I'm only a man in a silly red sheet
+Digging for Kryptonite on this one-way street
+Only a man in a funny red sheet
+Looking for special things inside of me, inside of me
+Inside of me, yeah inside of me, inside of me
+
+I'm only a man in a funny red sheet
+I'm only a man looking for a dream
+I'm only a man in a funny red sheet
+And it's not easy
+It's not easy to be me

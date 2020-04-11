@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: o-dio-mio-annette
+lyrics_url: https://www.musixmatch.com/lyrics/Annette-Funicello/O-Dio-Mio
 name: O Dio Mio
 rankings:
 - end_date: '1960-02-28'
@@ -55,4 +56,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
 ---
+O Dio Mio, please let him know
+How much I need him
+How much I want him
+How much I long for his love
 
+O Dio Mio, please hear my prayer
+O Dio Mio, please make him care
+If he would love me
+I'd be in Heaven above
+Heaven above
+
+Each time I hear
+The church bells chime
+I dream I'm his
+And he is mine
+
+O Dio Mio, I love him so
+O Dio Mio, please let him know
+How much I need him
+How much I long for his love
+Make him my love
+
+How much I need him
+How much I long for his love
+Make him my love
+Make him my love
+Make him my love
+O Dio, Mio

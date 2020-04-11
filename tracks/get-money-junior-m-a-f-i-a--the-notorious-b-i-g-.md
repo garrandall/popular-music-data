@@ -5,6 +5,7 @@ features:
 - The Notorious B.I.G.
 genres: []
 key: get-money-junior-m-a-f-i-a--the-notorious-b-i-g-
+lyrics_url: https://genius.com/Junior-mafia-gettin-money-get-money-remix-lyrics
 name: Get Money
 rankings:
 - end_date: '1996-02-16'
@@ -88,4 +89,104 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-06-22'
 ---
+Mafioso, mafioso
+Mafioso, what, uhh, mafioso uhh
+Mafioso, uhh, mafioso, what, uhh
 
+
+Check, how you figure that your team can affect my cream
+Gold and platinum plaques since I stepped on the scene
+Knahmean, peep the scene
+Jacuzzi full of women (uhh)
+She hitting me and him and him, much love like Wimbledon
+While niggas screaming killa, I'm overseas in my villa
+With my masseuse, nothing illa
+Frank switch the plan, cop the Lexus Land
+C-Gutta, Rockafella, 400's and better (uhh, uhh)
+Lil' Cease push threes with fives in his eyes
+Knocking Not Gon' Cry by Mary Blige
+I die for my niggas packing steel, chickenheads with sex appeal
+Reveal sexual acts up in Capone's Ac' (what?)
+The chocolate dimes watch the M.A.F.I.A. shine
+Uhh, girls get your own can't touch a dime of mine
+
+
+And if you don't stop, then we won't stop
+Continuously to (get money)
+You can be as good as the best of them
+But as bad as the worst, so don't test me (get money)
+You better move over (get money)
+And if you don't stop, then we won't stop
+Continuously to (get money)
+You can be as good as the best of them
+But as bad as the worst, so don't test me (get money)
+You better move over (get money), uhh, uhh
+
+
+Big Momma, keys in Tijuana (uhh)
+Some call me Donna Karan or Armani
+Gats by the poonani
+For brown-nose pussy crushers
+Cap peeling lovers, ignorant motherfuckers
+Drive a Benz, no Miata (uhh)
+This honey's got a sweet piñata, six-shotta, damn
+Lil' Kim the Black Erika Caine and
+Who remains in Chanel frames and
+Animals of all kind
+Russian Fendi sables (what?)
+With matching pool tables
+Read the label - M.A.F.I.A
+Admiring my shoes by Gucci
+I be eating sushi, playing with my coochie
+Counting lucci, nigga I got banks to rob
+Convertible Saab, I'm married to the mob
+
+
+And if you don't stop, then we won't stop
+Continuously to (get money)
+You can be as good as the best of them
+But as bad as the worst, so don't test me (get money)
+You better move over (get money)
+And if you don't stop, then we won't stop
+Continuously to (get money)
+You can be as good as the best of them
+But as bad as the worst, so don't test me (get money)
+You better move over (get money), uhh, uhh
+
+
+Frank White the Desperado
+Used to rock the all-black Movado
+The all-black El Dorado
+All that and a bottle of Dom P (uhh)
+Niggas can't harm me, I keep the army
+Is Brooklyn in the house? Without a doubt (uhh)
+I'm the rapper with clout everybody yap about
+Check it out: guns, I bust 'em
+Problems with my wife, don't discuss 'em
+Coupes and Lear jets, I lust them
+Fingerprints, I dust them (uhh), recent address (what?)
+Stuck you for your stash in your pissy mattress (uhh)
+Your mom's an actress, didn't wanna show me the safe
+It's okay, she was old anyway!
+I display (uhh), Hot97 rhyme-ready
+Cock MAC-11, line steady (what?)
+Like Tevin Campbell, I'm ready (uhh)
+To do what I do, continuously to (get money)
+
+
+And if you don't stop, then we won't stop
+Continuously to (get money)
+You can be as good as the best of them
+But as bad as the worst, so don't test me (get money)
+You better move over (get money)
+And if you don't stop, then we won't stop
+Continuously to (get money)
+You can be as good as the best of them
+But as bad as the worst, so don't test me (get money)
+You better move over (get money), uhh, uhh
+
+
+'96 catalog
+Cease-A-Leo De Janeiro (uhh)
+Big Momma Queen Bee (mafioso)
+Notorious well-known, Frank White

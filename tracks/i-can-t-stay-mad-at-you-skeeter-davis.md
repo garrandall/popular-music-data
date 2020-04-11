@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-stay-mad-at-you-skeeter-davis
+lyrics_url: https://genius.com/Skeeter-davis-i-cant-stay-mad-at-you-lyrics
 name: I Can't Stay Mad At You
 rankings:
 - end_date: '1963-09-13'
@@ -59,4 +60,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-30'
 ---
+I can't stay mad at you
+You can make me cry
+You can break my heart
+But I'll never say we're through
+And even when I shout
+I can't stay mad at you
+I can't stay mad at you
 
+I got mad at you last night
+When you were holding
+Another girl tight
+But when I thought about all your charms
+I bounced right back into your arms...
+
+I think you'll know for sure
+I won't be the one to fall in love with someone new
+I'll never say goodbye
+I can't stay mad at you

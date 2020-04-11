@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: devil-inside-inxs
+lyrics_url: https://genius.com/Inxs-devil-inside-lyrics
 name: Devil Inside
 rankings:
 - end_date: '1988-02-19'
@@ -75,4 +76,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-06-04'
 ---
+Here comes the woman, with the look in her eye
+Raised on leather, with flesh on her mind
+Words as weapons, sharper than knives
+Makes you wonder, how the other half die? Other half die
+Makes you wonder, wonder, wonder
 
+Here come the man, with the look in his eye
+Fed on nothing, but full of pride
+Look at them go, look at them kick
+Makes you wonder, how the other half live
+
+
+The devil inside, the devil inside
+Every single one of us the devil inside
+The devil inside, the devil inside
+Every single one of us the devil inside
+
+
+Here come the world, with the look in its eye
+Future uncertain, but certainly slight
+Look at the faces, listen to the bells
+It's hard to believe we need a place called hell, place called hell
+
+
+
+
+Here comes the woman, with the look in her eye
+Raised on leather, with flesh on her mind
+Words as weapons sharper than knives
+Makes you wonder, how the other half die
+
+
+
+
+The devil inside, yeah, yeah, yeah
+The devil inside, yeah, yeah, yeah

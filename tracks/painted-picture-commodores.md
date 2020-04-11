@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: painted-picture-commodores
+lyrics_url: https://genius.com/Commodores-painted-picture-lyrics
 name: Painted Picture
 rankings:
 - end_date: '1982-12-10'
@@ -31,4 +32,98 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-08'
 ---
+You're my painted picture
+You fill my life with color
+You're my painted picture
+You're the one that I adore
 
+Loving you comes easy
+I'll never try to change you
+You're my inspiration
+You're the one I'm living for
+
+You know, girl
+Looking at you makes my life so complete
+And you have a way of looking at me right back
+That makes me feel 
+
+Look into my eyes, my love
+And tell a story
+They are just a window to my soul
+I can see the beauty that is rare and precious
+You're worth more to me than any man's gold
+
+Girl, you have a way of blinding me
+Every time I look into your eyes
+You know how to start the fire
+You know how to make the temperature rise
+Don't be suspicious of what I am saying
+All my feelings run so deep for you
+
+You're the painted picture of my life
+I'm hoping that I'm in your painted picture too
+You're my life
+You're my love
+You're mine
+You're the one that I adore
+
+You're my life
+You're my love
+You're mine
+You're the one I'm living for
+
+You're my life
+You're my love
+Painted picture
+Painted picture
+My illuminated painted picture
+
+You're so satisfying
+When nothing else makes sense
+And when I'm tired of trying
+You bring me tenderness
+
+You're my painted picture
+You fill my life with color
+You're my painted picture
+You're the one that I adore
+
+Loving you comes easy
+I'll never try to change you
+You're my inspiration
+You're the one I'm living for
+
+You're my life
+You're my love
+You're mine
+Painted picture
+Painted picture
+My illuminated painted picture
+
+You're my life
+You're my love
+What dreams are made of
+Painted picture
+Painted picture
+My illuminated painted picture
+
+Let me tell you that
+You're my life
+You're my love
+You're mine
+Painted picture
+Painted picture
+My illuminated painted picture
+
+Apple of my eye
+Been on my mind
+Painted picture
+Painted picture
+My illuminated painted picture
+
+You're my life
+You're my love
+You're what dreams are made of
+Painted picture
+Painted picture
+My illuminated painted picture

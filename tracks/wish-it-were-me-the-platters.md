@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wish-it-were-me-the-platters
+lyrics_url: https://www.musixmatch.com/lyrics/The-Platters/Wish-It-Were-Me
 name: Wish It Were Me
 rankings:
 - end_date: '1959-09-20'
@@ -35,4 +36,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-10-26'
 ---
+Saw you dancing last night with someone
+Wish it were me, wish it were me
+Dancing with you, wish it were true
 
+Saw you holding your arms around him
+Wish it were me, wish it were me
+Clinging to you, wish it were true
+
+Don't say it's hopeless
+Won't you learn to tell
+How I'd like to touch you
+With my prayer
+
+Yes, I pray that my prayers
+Will touch you, touch you for true
+So you'd love me too
+
+And the whole world would see
+Wish it were me
+And the whole world would see
+I wish it were me

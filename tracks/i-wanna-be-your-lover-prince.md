@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wanna-be-your-lover-prince
+lyrics_url: https://genius.com/Prince-i-wanna-be-your-lover-lyrics
 name: I Wanna Be Your Lover
 rankings:
 - end_date: '1979-11-30'
@@ -71,4 +72,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-08'
 ---
+I ain't got no money
+I ain't like those other guys you hang around
+And it's kinda funny
+But they always seem to let you down
+And I get discouraged
+'Cause I never see you anymore
+And I need your love, babe, yeah
+That's all I'm living for, yeah
+I didn't wanna pressure you, baby
+But all I ever wanted to do
 
+
+I wanna be your lover
+I wanna be the only one that makes you come running
+I wanna be your lover
+I wanna turn you on, turn you out, all night long, make you shout
+Oh, lover! yeah
+I wanna be the only one you come for
+
+
+I wanna be your brother
+I wanna be your mother and your sister, too
+There ain't no other
+That can do the things that I'll do to you
+And I get discouraged
+'Cause you treat me just like a child
+And they say I'm so shy, yeah
+But with you I just go wild, woo!
+I didn't wanna pressure you, baby, no
+But all I ever wanted to do
+
+
+I wanna be your lover
+I wanna be the only one that makes you come running
+I wanna be your lover
+I wanna turn you on, turn you out, all night long, make you shout
+Oh, lover! yeah
+I wanna be the only one you come for, yeah

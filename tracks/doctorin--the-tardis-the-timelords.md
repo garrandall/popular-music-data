@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: doctorin--the-tardis-the-timelords
+lyrics_url: https://genius.com/The-timelords-doctorin-the-tardis-lyrics
 name: Doctorin' The Tardis
 rankings:
 - end_date: '1988-12-23'
@@ -59,4 +60,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-03-11'
 ---
+Doctor Who! (Hey) Doctor Who
+Doctor Who! (Hey) The TARDIS
+Doctor Who! (Hey) Doctor Who
+Doctor Who doc...Doctor Who
+Exterminate!
+Bosh Bosh Bosh, loads of money
 
+Who-ha
+Ha ha ha Who ha
+Ha ha ha Who ha
+Ha ha ha Who ha
+Ha ha ha Who ha
+Ha ha
+
+Doctor Who! (Hey) Doctor Who
+Doctor Who! (Hey) The TARDIS
+Doctor Who! (Hey) Doctor Who
+Doctor Who doc...Doctor Who
+Doctor Who doc...Doctor Who
+
+You wot?
+You wot?
+You wot?
+You wot?
+You wot?
+You wot?
+You wot?
+
+Exterminate!
+Who-ha
+Ha ha ha who ha
+Ha ha ha who ha
+We obey no-one
+Ha ha ha who ha
+We are the superior beings
+Ha ha ha who ha
+Ha ha
+
+Doctor Who! (Hey) Doctor Who
+Doctor Who! (Hey) The TARDIS
+Doctor Who! (Hey) Doctor Who
+Doctor Who doc...Doctor Who
+Doctor Who doc...Doctor Who
+
+Doctor Who! (Hey) Doctor Who
+Doctor Who! (Hey) The TARDIS
+Doctor Who! (Hey) Doctor Who
+Doctor Who doc...Doctor Who
+Doctor Who doc...Doctor Who

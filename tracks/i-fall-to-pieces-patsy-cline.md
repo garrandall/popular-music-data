@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-fall-to-pieces-patsy-cline
+lyrics_url: https://genius.com/Patsy-cline-i-fall-to-pieces-lyrics
 name: I Fall To Pieces
 rankings:
 - end_date: '1961-05-28'
@@ -87,4 +88,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-02'
 ---
+I fall to pieces
+Each time I see you again
+I fall to pieces
+How can I be just your friend?
 
+
+You want me to act like we've never kissed
+You want me to forget, pretend we've never met
+And I've tried and I've tried but I haven't yet
+You walk by and I fall to pieces
+
+
+I fall to pieces
+Each time someone speaks your name
+I fall to pieces
+Time only adds to the flame
+
+
+You tell me to find someone else to love
+Someone who'll love me, too, the way you used to do
+But each time I go out with someone new
+You walk by and I fall to pieces

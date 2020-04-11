@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-hear-you-no-more-helen-reddy
+lyrics_url: https://genius.com/Helen-reddy-i-cant-hear-you-no-more-lyrics
 name: I Can't Hear You No More
 rankings:
 - end_date: '1976-08-13'
@@ -43,4 +44,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-10-02'
 ---
-
+Here you are again
+Tell me you're sorry baby
+Tell me you wanna come back home
+Where you belong
+There you go again
+Lyin and alibi'ing
+Singin that same old worn out song
+Here it comes now
+I can't hear you no more
+I've heard it all before
+You ain't reachin me no how, no way
+No time till noon today
+I can't hear you no more
+I can't hear you no more
+You walked out on me
+Once too often baby
+And I can't take no more of your jive
+And that's the truth
+I ain't about to let you
+Rub me in the ground
+I'm not gonna throw away my youth
+Not for any man
+I can't hear you no more
+I've heard it all before
+You ain't reachin me no how, no way
+No time until noon today
+I can't hear you no more
+I can't hear you no more
+I can't hear you no more
+I've heard it all before

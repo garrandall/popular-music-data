@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-gonna-get-you-bizarre-inc
+lyrics_url: https://genius.com/Bizarre-inc-im-gonna-get-you-lyrics
 name: I'm Gonna Get You
 rankings:
 - end_date: '1993-01-29'
@@ -99,4 +100,107 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-06-26'
 ---
+Da-da-da a-doo da-da
+Da-da-da a-doo da-da-da
+Da-da-da a-doo da-da
+Da-da-da a-doo da-da-da
 
+Da-da-da a-doo da-da
+Da-da-da a-doo da-da-da
+Da-da-da a-doo da-da
+(Yo, DJ, pump this party!)
+
+Why waste your time?
+You know you're gonna be mine
+You know you're gonna be mine
+You know you're gonna be mine
+
+Why waste your time?
+You know you're gonna be mine
+You know you're gonna be mine
+You know you're gonna be mine
+
+Why waste your time?
+You know you're gonna be mine
+You know you're gonna be mine
+You know you're gonna be mine
+
+Why waste your time?
+You know you're gonna be mine
+You know you're gonna be mine
+You know you're gonna be mine
+
+I'm gonna get you, baby
+I'm gonna get you, yes, I am
+I'm gonna get you, baby
+I'm gonna get you, yes, I am
+
+I'm gonna get you, baby
+I'm gonna get you, yes, I am
+I'm gonna get you, baby
+I'm gonna get you, yes, I am
+
+Why waste your time?
+You know you're gonna be mine
+You know you're gonna be mine
+You know you're gonna be mine
+
+Why waste your time?
+You know you're gonna be mine
+You know you're gonna be mine
+You know you're gonna be mine
+
+Why waste your time?
+You know you're gonna be mine
+You know you're gonna be mine
+You know you're gonna be mine
+
+Why waste your time?
+You know you're gonna be mine
+You know you're gonna be mine
+You know you're gonna be mine
+
+I'm gonna get you, baby
+I'm gonna get you, yes, I am
+I'm gonna get you, baby
+I'm gonna get you, yes, I am
+
+I'm gonna get you, baby
+I'm gonna get you, yes, I am
+I'm gonna get you, baby
+I'm gonna get you, yes, I am
+
+Da-da-da a-doo da-da
+Da-da-da a-doo da-da-da
+Da-da-da a-doo da-da
+Da-da-da a-doo da-da-da
+
+Da-da-da a-doo da-da
+Da-da-da a-doo da-da-da
+Da-da-da a-doo da-da
+(Yo, DJ, pump this party!)
+
+Why waste your time?
+You know you're gonna be mine
+You know you're gonna be mine
+You know you're gonna be mine
+
+Why waste your time?
+You know you're gonna be mine
+You know you're gonna be mine
+You know you're gonna be mine
+
+Why waste your time?
+You know you're gonna be mine
+You know you're gonna be mine
+You know you're gonna be mine
+
+Why waste your time?
+You know you're gonna be mine
+You know you're gonna be mine
+You know you're gonna be mine
+
+Da-da-da a-doo da-da
+Da-da-da a-doo da-da-da
+Da-da-da a-doo da-da
+Da-da-da a-doo da-da-da

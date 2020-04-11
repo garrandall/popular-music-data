@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happy-paul-anka
+lyrics_url: https://www.musixmatch.com/lyrics/Paul-Anka-Neil-Sedaka/Happy-Birthday-Sweet-Sixteen
 name: Happy
 rankings:
 - end_date: '1969-11-28'
@@ -19,4 +20,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-12-06'
 ---
+Tra la-la-la-la la-la-la-la
+Happy birthday sweet-sixteen
+Tra la-la-la-la la-la-la-la
+Happy birthday sweet-sixteen
 
+Tonight's the night I've waited for
+Because you're not a baby anymore
+You've turned into the prettiest girl I've ever seen,
+Happy birthday sweet-sixteen
+
+What happened to that funny face
+My little tomboy now wears satins and lace
+I can't believe my eyes you're just a teenage dream
+Happy birthday sweet-sixteen
+
+When you were only six I was your big brother
+Then when you were ten we didn't like each other
+When you were thirteen
+You were my funny valentine
+But since you've grown up
+Your future is sewn up
+From now on you're gonna be mine, so
+
+If I should smile with sweet surprise
+It's just that you've grown up before my very eyes
+You've turned into the prettiest girl I've ever seen
+Happy birthday sweet-sixteen
+
+If I should smile with sweet surprise
+It's just that you've grown up before my very eyes
+You've turned into the prettiest girl I've ever seen
+Happy birthday sweet-sixteen
+
+Tra la-la-la-la la-la-la-la Happy birthday sweet-sixteen
+Tra la-la-la-la la-la-la-la Happy birthday sweet-sixteen
+Tra la-la-la-la la-la-la-la Happy birthday sweet-sixteen

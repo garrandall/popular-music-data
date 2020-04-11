@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-need-to-be-jim-weatherly
+lyrics_url: https://genius.com/Jim-weatherly-the-need-to-be-lyrics
 name: The Need To Be
 rankings:
 - end_date: '1974-09-20'
@@ -71,4 +72,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-12-28'
 ---
+To for-fill to need to be
+Who I am in this world
+Is all I ask
+I can't pretend to be something I'm not
+And I won't wear a mask
+You've touched my face with love in your eyes
+But will you touch my heart
+With the understanding that it takes to realize
+I just can't play a part
+There's the need to be true to myself
+And make my own mistakes
+And not to lean too hard on someone else
+No matter what it takes
 
+So if you're sure it's love
+Just be sure it's love
+For this thing called me
+'Cause I am what I am and
+I have the need to be
+
+I'm not fool enough to ever think
+That I could be the master of my fate
+But it's up to me to choose my roads in life
+Rocky may well be the ones I take
+There's the need to be something more than
+Just a reflection of a man
+I can't survive in someone's shadow
+I need my own spot to stand
+
+So if you're sure it's love
+Just be sure it's love
+For this thing called me
+I am what I am and
+I have the need to be
+
+So if you're sure it's love
+Just be sure it's love
+For this thing called me
+I am what I am and
+I have the need to be...

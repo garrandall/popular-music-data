@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-dream-never-dies-cooper-brothers
+lyrics_url: https://www.musixmatch.com/lyrics/Cooper-Brothers/The-Dream-Never-Dies
 name: The Dream Never Dies
 rankings:
 - end_date: '1978-11-03'
@@ -59,4 +60,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
 ---
+The dream never dies
+Just the dreamer
+The dream never dies
+If it's strong
+The song never dies
+Just the singer
+So come on, everybody
+Sing along
 
+Some men dream of fame
+And some of fortune
+Some men dream about
+Time gone by
+
+All men dream of someone
+They'd like to become
+Cause without dreams inside us
+Yeah, without dreams
+How would we all get by
+
+The dream never dies
+The dream never dies
+So, come on, everybody
+Dream along
+
+Some men dream of Heaven
+And some of the Lord above
+Some men dream about
+Pie in the sky
+
+All men dream of happiness
+And all men dream of love
+Cause without dreams to guide us
+Yeah, without dreams
+How would we all get by
+
+The dream never dies
+The dream never dies
+So, come on, everybody
+Dream along
+
+The dream never dies
+The dream never dies
+So, come on, everybody
+Dream along
+
+The dream never dies
+Just the dreamer
+The dream never dies
+If it's strong
+The song never dies
+Just the singer
+So come on, everybody
+Sing along

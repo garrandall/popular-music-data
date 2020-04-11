@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: years-from-now-dr--hook
+lyrics_url: https://genius.com/Dr-hook-years-from-now-lyrics
 name: Years From Now
 rankings:
 - end_date: '1980-07-11'
@@ -43,4 +44,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-08-30'
 ---
+Years from now, I want you years from now
+And I hold you years from now as I love you tonight
+You are my one true friend, always my one true friend
+And I love you 'till I'd say as I love you tonight
 
+I know this world that we live in can be hard
+Now and then and it will be again
+Many times we've been down
+Still love has kept us together the flame never dies
+When I look in your eyes the future I see
+
+Wanting you years from now
+And holding you years from now
+And loving you years from now
+As I love you tonight
+
+I know this world that we live in can be hard
+Now and then and it will be again
+Many times we've been down
+Still love has kept us together the flame never dies
+When I look in your eyes the future I see
+
+Wanting you years from now
+And holding you years from now
+And loving you years from now
+As I love you tonight

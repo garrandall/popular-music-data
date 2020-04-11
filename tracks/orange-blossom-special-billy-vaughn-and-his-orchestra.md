@@ -1,9 +1,10 @@
 ---
 artists:
-- Billy Vaughn And His Orchestra
+- Billy Vaughn
 features: []
 genres: []
 key: orange-blossom-special-billy-vaughn-and-his-orchestra
+lyrics_url: https://www.musixmatch.com/lyrics/Billy-Vaughn/Orange-Blossom-Special
 name: Orange Blossom Special
 rankings:
 - end_date: '1961-02-26'
@@ -31,4 +32,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-27'
 ---
+Look a-yonder comin'
+Comin' down that railroad track
+Hey, look a-yonder comin'
+Comin' down that railroad track
 
+It's the Orange Blossom special
+Bringin' my baby back
+
+Well, I'm going down to Florida
+And get some sand in my shoes
+Or maybe California
+And get some sand in my shoes
+
+I'll ride that Orange Blossom special
+And lose these New York blues
+
+Hey, talk about a-ramblin'
+She's the fastest train on the line
+Talk about a-travellin'
+She's the fastest train on the line
+
+It's that Orange Blossom special
+Rollin' down the seaboard line

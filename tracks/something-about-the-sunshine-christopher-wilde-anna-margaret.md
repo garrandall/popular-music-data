@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: something-about-the-sunshine-christopher-wilde-anna-margaret
+lyrics_url: https://www.musixmatch.com/lyrics/Christopher-Wilde-Anna-Margaret/Something-About-the-Sunshine
 name: Something About The Sunshine
 rankings:
 - end_date: '2010-03-12'
@@ -12,4 +13,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-03-06'
 ---
+Wake up to the blue sky
+Grab your shades and let's go for a ride
+Breakfast by the ocean
+We'll do lunch at Sunset and Vine
 
+Every day's a dream in California
+Every night the stars come out to play
+Wish that I could always
+Feel this way
+
+There's something about the sunshine, baby
+I'm seeing you in a whole new light
+Out of this world for the first time, baby
+Oh, it's so right
+
+There's something about the sunshine
+There's something about the sunshine
+
+In Hollywood, we're rocking
+In Malibu, we hang out and chill
+It's all about the shopping
+From Melrose to Beverly Hills
+
+Everywhere's a scene and now we're in it
+I don't want to paint this town alone
+When I see your smile
+I always feel at home
+
+There's something about the sunshine, baby
+I'm seeing you in a whole new light
+L.A.'s a breeze with the palm trees swayin'
+Oh, it's so right
+
+Now that you're here
+It's suddenly clear
+The sun's coming through, I never knew
+Whatever I do, it's better with you
+(It's better with you)
+
+There's something about the sunshine, baby
+(Something about it)
+I'm seeing you in a whole new light
+(Whole new light)
+Out of this world for the first time, baby
+(Yeah)
+Oh, it's so right
+(So right)
+
+There's something about the sunshine, baby
+(There's something about it)
+I'm seeing you in a whole new light
+(A whole new light)
+Out of this world for the first time, baby
+(Oh)
+Oh, it's so right
+
+There's something about the sunshine, baby
+(Something about it)
+I'm seeing you in a whole new light
+LA's a breeze with the sunshine swayin'
+Oh, it's so right
+(So right)
+
+There's something about the sunshine

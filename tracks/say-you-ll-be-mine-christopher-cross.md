@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: say-you-ll-be-mine-christopher-cross
+lyrics_url: https://genius.com/Christopher-cross-say-youll-be-mine-lyrics
 name: Say You'll Be Mine
 rankings:
 - end_date: '1981-04-03'
@@ -63,4 +64,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-06-27'
 ---
+Say you'll be mine
+Say you'll be mine until the sun shines
+Say you'll be mine
+And bring me the dream of a lifetime
 
+I just can't hide the truth no more
+I've got to get my feet back down on the floor
+I love you so
+I need you so
+I just don't think I can let you go
+
+Say you'll be mine
+Say you'll be mine until the sun shines
+Say you'll be mine
+And bring me the dream of a lifetime
+
+Well, it's you that keeps me feeling this way
+I don't think I can take it even one more day
+It don't seem right
+That I should be alone tonight
+
+Say you'll be mine
+Say you'll be mine until the sun shines
+Say you'll be mine
+And bring me the dream of a lifetime
+
+I just can't hide the truth no more
+I've got to get my feet back down on the floor
+I love you so
+I need you so
+I just don't think I can let you go
+
+Say you'll be mine
+Say you'll be mine until the sun shines
+Say you'll be mine
+And bring me the dream of a lifetime

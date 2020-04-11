@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-love-maroon-5
+lyrics_url: https://genius.com/Maroon-5-this-love-lyrics
 name: This Love
 rankings:
 - end_date: '2004-02-20'
@@ -179,4 +180,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-12-04'
 ---
+I was so high I did not recognize
+The fire burning in her eyes
+The chaos that controlled my mind
+Whispered goodbye as she got on a plane
+Never to return again
+But always in my heart
 
+
+This love has taken its toll on me
+She said goodbye too many times before
+And her heart is breaking in front of me
+And I have no choice, 'cause I won't say goodbye anymore
+
+
+I tried my best to feed her appetite
+Keep her coming every night
+So hard to keep her satisfied
+Keep playing love like it was just a game
+Pretending to feel the same
+Then turn around and leave again
+
+
+This love has taken its toll on me
+She said goodbye too many times before
+And her heart is breaking in front of me
+And I have no choice, 'cause I won't say goodbye anymore
+
+
+I'll fix these broken things
+Repair your broken wings
+And make sure everything's alright (It's alright, it's alright)
+My pressure on your hips
+Sinking my fingertips
+Into every inch of you
+'Cause I know that's what you want me to do
+
+
+This love has taken its toll on me
+She said goodbye too many times before
+And her heart is breaking in front of me
+And I have no choice, 'cause I won't say goodbye anymore
+This love has taken its toll on me
+She said goodbye too many times before
+And my heart is breaking in front of me
+She said goodbye too many times before
+This love has taken its toll on me
+She said goodbye too many times before
+And her heart is breaking in front of me
+I have no choice, 'cause I won't say goodbye anymore

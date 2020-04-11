@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-will-show-us-how-christine-mcvie
+lyrics_url: https://genius.com/Christine-mcvie-love-will-show-us-how-lyrics
 name: Love Will Show Us How
 rankings:
 - end_date: '1984-05-04'
@@ -47,4 +48,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-06-30'
 ---
+I don't fool around on my baby
+And he don't fool around on me
+And I know when I need him
+He'll be there for me
 
+Ooh
+And if he asks me some questions
+Well, I don't tell him lies
+And I don't have the need
+The need for alibis
+
+I don't know how
+Love will survive
+But it's all right for now
+
+Still I believe
+Love will show us how
+There must be a way
+To keep it alive
+
+And so keep our vows
+And I believe
+Love will show us how
+Still I believe
+Love will show us how
+
+I don't know how
+Love will survive
+But it's all right for now
+
+Still I believe
+Love will show us how
+There must be a way
+To keep it alive
+
+And so keep our vows
+And I believe
+Love will show us how
+Still I believe
+Love will show us how

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: free-chicago
+lyrics_url: https://www.azlyrics.com/lyrics/chicago/free.html
 name: Free
 rankings:
 - end_date: '1971-02-26'
@@ -43,4 +44,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-04-17'
 ---
-
+I just want to be free
+I just want to be free
+I want to be free of all the hurt
+Free of all the pain
+I want to just end these lonely hours
+End these lonely days
+I just want to be free
+I just want to be free
+I just want to be free
+I just want to be free

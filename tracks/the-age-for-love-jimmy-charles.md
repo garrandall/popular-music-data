@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-age-for-love-jimmy-charles
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Charles/The-Age-for-Love
 name: The Age For Love
 rankings:
 - end_date: '1960-12-11'
@@ -55,4 +56,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
 ---
+Too young to be in love they say
+Too young to know the score
+When will we come to the age for love
+That's what we're waiting for
 
+We know our love would pass the test
+If we could have the chance
+Well, any age is the age for love
+The age for sweet romance
+
+Can we explain the true way we feel
+How can we show them our love is real
+
+Someday we'll find a way to prove
+We're not too young at all
+They'll realize that the age for love
+Is ageless after all
+
+They'll realize that the age for love
+Is ageless after all
+(This is the age for love)

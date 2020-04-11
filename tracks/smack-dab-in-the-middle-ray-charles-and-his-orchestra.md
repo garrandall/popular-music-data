@@ -1,9 +1,10 @@
 ---
 artists:
-- Ray Charles and his Orchestra
+- Ray Charles
 features: []
 genres: []
 key: smack-dab-in-the-middle-ray-charles-and-his-orchestra
+lyrics_url: https://genius.com/Ray-charles-smack-dab-in-the-middle-lyrics
 name: Smack Dab In The Middle
 rankings:
 - end_date: '1964-10-02'
@@ -35,4 +36,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-11-07'
 ---
+Pick me a town in any clime
+Where people like, a rocking time
+And stay awake both day and night
+Till everybody's feeling good an' right
 
+
+Then throw me
+(Smack dab in the middle)
+I wanna be
+(Smack dab in the middle)
+Ahh, smack dab in the middle, boys now
+So I can rock and roll to satisfy my soul
+
+
+Ten Cadillacs, a diamond mill
+Ten suits of clothes to dress to kill
+A ten room house, some barbecue
+And fifty chicks not over twenty-two
+
+
+
+
+One hundred beds with chorus girls
+A street that's paved with natural pearls
+A wagon load of bonds and stocks
+Then open up the door at Fort Knox
+
+
+Then throw me
+(Smack dab in the middle)
+I wanna be
+(Smack dab in the middle)
+Ahh, now listen boys throw me smack dab in the middle right now
+So Ray can rock and roll to satisfy his soul
+
+That's all right!
+
+
+A lot of bread and gangs of meat
+Oodles of butter and something sweet
+Gallons of coffee to wash it down
+Bicarbonated soda by the pound

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: misty--groove--holmes
+lyrics_url: https://genius.com/Richard-groove-holmes-misty-lyrics
 name: Misty
 rankings:
 - end_date: '1966-07-01'
@@ -51,4 +52,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
 ---
-
+(Instrumental)

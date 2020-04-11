@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: non-dimenticar--don-t-forget--nat-king-cole
+lyrics_url: https://genius.com/Nat-king-cole-non-dimenticar-lyrics
 name: Non Dimenticar (Don't Forget)
 rankings:
 - end_date: '1958-10-19'
@@ -51,4 +52,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-22'
 ---
+Non dimenticar means don't forget you are my darling
+Don't forget to be
+All you mean to me
+Non dimenticar my love is like a star, my darling
+Shining bright and clear
+Just because you're here
 
+Please do not forget that our lips have met
+
+And I've held you tight, dear
+Was it dreams ago my heart felt this glow?
+Or only just tonight, dear?
+
+Non dimenticar although you travel far, my darling
+It's my heart you own, so I'll wait alone
+Non dimenticar
+
+Se ci separ¨°, se ci allontan¨°
+L'ala del destino
+Non ne ho colpa, no, e mi sentiro sempre a te vicino
+
+Non dimenticar although you travel far, my darling
+It's my heart you own, so I'll wait alone
+Non dimenticar

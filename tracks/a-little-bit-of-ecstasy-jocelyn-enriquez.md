@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-little-bit-of-ecstasy-jocelyn-enriquez
+lyrics_url: https://genius.com/Jocelyn-enriquez-a-little-bit-of-ecstasy-lyrics
 name: A Little Bit Of Ecstasy
 rankings:
 - end_date: '1997-04-11'
@@ -87,4 +88,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-08-16'
 ---
-
+A little bit of ecstasy
+A little bit of you and me
+A little bit of such a free
+A little bit of ecstasy
+A little bit of ecstasy
+A little bit of you and me
+A little bit of such a free
+A little bit of ecstasy
+Tell me that you want me
+Tell me that you need me
+Tell me that you want me
+Tell me that you love me
+I'll be your dream
+You be my fantasy
+I'll be your dream
+You be my fantasy
+I'll be your dream
+I'll be your dream
+I'll be your dream
+You be my fantasy
+Ooh, ooh yeah
+(Let the beat...
+Let the beat...
+Let the beat control your body)
+A little bit of ecstasy

@@ -1,9 +1,11 @@
 ---
 artists:
-- Elvis Presley With The Jordanaires
+- Elvis Presley
+- The Jordanaires
 features: []
 genres: []
 key: crying-in-the-chapel-elvis-presley-with-the-jordanaires
+lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-and-the-Jordanaires-2/Crying-in-the-Chapel
 name: Crying In The Chapel
 rankings:
 - end_date: '1965-04-30'
@@ -63,4 +65,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-24'
 ---
+The tears I shed were tears of joy
+I know the meaning of contentment
+Now I am happy with the Lord
 
+Just a plain and simple chapel
+Where humble people go to pray
+I pray the Lord that I'll grow stronger
+As I live from day to day
+
+I've searched and I've searched
+But I couldn't find
+No way on earth
+To gain peace of mind
+
+Now I'm happy in the chapel
+Where people are of one accord
+We gather in the chapel
+Just to sing and praise the Lord
+
+Ev'ry sinner looks for something
+That will put his heart at ease
+There is only one true answer
+He must get down on his knees
+
+Meet your neighbor in the chapel
+Join with him in tears of joy
+You'll know the meaning of contentment
+Then you'll be happy with the Lord
+
+You'll search and you'll search
+But you'll never find
+No way on earth
+To gain peace of mind
+
+Take your troubles to the chapel
+Get down on your knees and pray
+Your burdens will be lighter
+And you'll surely find the way

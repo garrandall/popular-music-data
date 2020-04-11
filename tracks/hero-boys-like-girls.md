@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hero-boys-like-girls
+lyrics_url: https://genius.com/Boys-like-girls-hero-heroine-lyrics
 name: Hero
 rankings:
 - end_date: '2007-12-28'
@@ -75,4 +76,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-04-12'
 ---
+It's too late baby, there's no turning around
+I got my hands in my pocket and my head in a cloud
+This is how I do, when I think about you
+I never thought that you could break me apart
+I keep a sinister smile and a hole in my heart
+You want to get inside, then you can get in line
+But not this time
 
+
+'Cause you caught me off guard
+Now I'm running and screaming
+I feel like a hero and you are my heroine
+
+
+I won't try to philosophize
+I'll just take a deep breath then I'll look in your eyes
+This is how I feel, and it's so surreal
+I got a closet filled up to the brim
+With the ghosts of my past and their skeletons
+And I don't know why
+You'd even try
+But I won't lie
+
+
+You caught me off guard
+Now I'm running and screaming
+I feel like a hero and you are my heroine
+Do you know that your love is the sweetest sin?
+
+
+And I feel a weakness coming on
+It never felt so good to be so wrong
+Had my heart on lockdown
+And then you turned me around
+And I'm feeling like a newborn child
+Every time I get a chance to see you smile
+It's not complicated
+I was so jaded
+
+
+And you caught me off guard
+Now I'm running and screaming
+
+
+I feel like a hero and you are my heroine
+Do you know that your love is the sweetest sin?
+(I feel like a hero and you are my heroine)
+
+
+And I feel a weakness coming on
+It never felt so good to be so wrong
+Had my heart on lockdown
+And then you turned me around
+(Do you know that your love is the sweetest sin?)
+And I'm feeling like a newborn child
+Every time I get a chance to see you smile
+It's not complicated
+I was so jaded
+
+
+(I feel like a hero and you are my heroine)
+And I feel a weakness coming on
+It never felt so good to be so wrong
+Had my heart on lockdown
+And then you turned me around
+(Do you know that your love is the sweetest sin?)

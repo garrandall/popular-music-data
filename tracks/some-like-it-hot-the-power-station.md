@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: some-like-it-hot-the-power-station
+lyrics_url: https://genius.com/The-power-station-some-like-it-hot-lyrics
 name: Some Like It Hot
 rankings:
 - end_date: '1985-03-22'
@@ -79,4 +80,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-07-13'
 ---
+We want to multiply, are you gonna do it?
+I know you qualify, are you gonna do it?
+Don't be so circumscribed, are you gonna do it?
+Just get yourself untied, are you gonna do it?
 
+Feel the heat pushing you to decide
+Feel the heat burning you up, ready or not
+
+Some like it hot, and some sweat when the heat is on
+Some feel the heat and decide that they can't go on
+Some like it hot, but you can't tell how hot till you try
+Some like it hot, so let's turn up the heat till we fry
+
+The girl is at your side, are you gonna do it?
+She wants to be your bride, are you gonna do it?
+She wants to multiply, are you gonna do it?
+I know you won't be satisfied until you do it
+
+Feel the heat pushing you to decide
+Feel the heat burning you up, ready or not
+
+Some like it hot, and some sweat when the heat is on
+Some feel the heat and decide that they can't go on
+Some like it hot, but you can't tell how hot till you try
+Some like it hot, so let's turn up the heat till we fry
+
+Feel the heat pushing you to decide
+Feel the heat burning you up, ready or not
+
+Some like it hot, and some sweat when the heat is on
+Some feel the heat and decide that they can't go on
+Some like it hot, but you can't tell how hot till you try
+Some like it hot, so let's turn up the heat till we fry
+
+Some like it hot, some like it hot
+Some like it hot, some like it hot
+Some like it hot, some like it hot
+Some like it hot, some like it hot

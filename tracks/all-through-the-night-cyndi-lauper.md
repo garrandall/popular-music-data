@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-through-the-night-cyndi-lauper
+lyrics_url: https://www.musixmatch.com/lyrics/Cyndi-Lauper/All-Through-the-Night
 name: All Through The Night
 rankings:
 - end_date: '1984-10-12'
@@ -83,4 +84,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-02-09'
 ---
+All through the night
+I'll be awake and I'll be with you
+All through the night
+This precious time
+When time is new
 
+Oh
+All through the night today
+Knowing that we feel the same without saying
+
+We have no past
+We won't reach back
+Keep with me forward all through the night
+And once we start
+The meter clicks
+And it goes running all through the night
+Until it ends there is no end
+
+All through the night
+Stray cat is crying
+So stray cat sings back
+All through the night
+They have forgotten
+What binding they lack
+
+Oh
+Under those white street lamps
+There is a little chance they may see
+
+We have no past
+We won't reach back
+Keep with me forward all through the night
+And once we start
+The meter clicks
+And it goes running all through the night
+Until it ends there is no end
+
+Oh
+The sleep in your eyes is enough
+Let me be there
+Let me stay there awhile
+
+We have no past
+We won't reach back
+Keep with me forward all through the night
+And once we start
+The meter clicks
+And it goes running all through the night
+Until it ends there is no end
+Keep with me forward all through the night
+And once we start
+The meter clicks
+And it goes running all through the night
+Until it ends there is no end

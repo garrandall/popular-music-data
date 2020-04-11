@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fortuneteller-bobby-curtola
+lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Curtola/Fortune-Teller
 name: Fortuneteller
 rankings:
 - end_date: '1962-05-11'
@@ -63,4 +64,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-08-04'
 ---
+Fortune teller, can you see
+What my future's going to be
+Can you see it all
+In your crystal ball
+Have you got a dream for me
 
+Fortune teller, is she free
+Has she waited just for me
+You can see it all
+In your crystal ball
+Tell me that it's meant to be
+
+Tell me, tell me, tell me
+Will we meet on a busy corner
+Will she know that I'm the one
+Will I be like little Jack Horner
+Get myself a sugar plum
+
+Fortune teller, will she stay
+Close beside me all the way
+You have seen it
+All in your crystal ball
+She's the only love for me
+
+Fortune teller, is she free
+Has she waited just for me
+You can see it all
+In your crystal ball
+Tell me that it's meant to be
+
+Tell me, tell me, tell me
+Will we meet on a busy corner
+Will she know that I'm the one
+Will I be like little Jack Horner
+Get myself a sugar plum
+
+Fortune teller, will she stay
+Close beside me all the way
+You have seen it all
+In your crystal ball
+Gotta find a dream, you see
+
+Whoa, oh, oh
+She's the only love for me
+She's the only love for me

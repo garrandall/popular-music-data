@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: spice-up-your-life-spice-girls
+lyrics_url: https://www.musixmatch.com/lyrics/Spice-Girls/Spice-Up-Your-Life
 name: Spice Up Your Life
 rankings:
 - end_date: '1997-11-14'
@@ -87,4 +88,128 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-03-21'
 ---
+La, la, la, la, la, la, la, la
+La, la, la, la, la, la
+La, la, la, la, la, la, la, la
+La, la, la, la, la, la
 
+When you're feelin' sad and low
+We will take you where you gotta go
+Smilin', dancin', everything is free
+All you need is positivity
+
+Colours of the world
+Spice up your life
+Every boy and every girl
+Spice up your live
+People of the world
+Spice of your life
+Ahhh
+
+Slam it to the left
+If you're havin' a good time
+Shake it to the right
+If ya know that you feel fine
+Chicas to the front
+Ha ha (uh uh)
+Go round
+
+Slam it to the left
+If you're havin' a good time
+Shake it to the right
+If ya know that you feel fine
+Chicas to the front
+Ha ha
+Hi si ja
+Hold tight
+
+La, la, la, la, la, la, la, la
+La, la, la, la, la, la
+La, la, la, la, la, la, la, la
+La, la, la, la, la, la
+
+Yellow man in Timbuktu
+Colour for both me and you
+Kung Fu Fighting
+Dancing Queen
+Trival Spaceman
+And all that's in between
+
+Colours of the world
+Spice up your life
+Every boy and every girl
+Spice up your live
+People of the world
+Spice of your life
+Ahhh
+
+Slam it to the left
+If you're havin' a good time
+Shake it to the right
+If ya know that you feel fine
+Chicas to the front
+Ha ha
+Go round
+
+Slam it to the left
+If you're havin' a good time
+Shake it to the right
+If ya know that you feel fine
+Chicas to the front
+Ha ha
+Hi si ja
+Hold tight
+
+Flamenco
+Lambada
+But hip-hop is harder
+We moonwalk the foxtrot
+Then polka the salsa
+
+Shake it, shake it, shake it
+Haka
+Shake it, shake it, shake it
+Haka
+Arriba aha
+
+Colours of the world
+Spice up your life
+Every boy and every girl
+Spice up your live
+People of the world
+Spice of your life
+Ahhh
+
+Slam it to the left
+If you're havin' a good time
+Shake it to the right
+If ya know that you feel fine
+Chicas to the front
+Ha ha
+Go round
+
+Slam it to the left
+If you're havin' a good time
+Shake it to the right
+If ya know that you feel fine
+Chicas to the front
+Ha ha
+Hi si ja
+Hold tight
+
+Slam it to the left
+If you're havin' a good time
+Shake it to the right
+If ya know that you feel fine
+Chicas to the front
+Ha ha
+Go round
+
+Slam it to the left
+If you're havin' a good time
+Shake it to the right
+If ya know that you feel fine
+Chicas to the front
+Ha ha
+Hi si ja
+Hold tight

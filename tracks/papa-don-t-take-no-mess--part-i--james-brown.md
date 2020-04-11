@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: papa-don-t-take-no-mess--part-i--james-brown
+lyrics_url: https://genius.com/James-brown-papa-dont-take-no-mess-lyrics
 name: Papa Don't Take No Mess (Part I)
 rankings:
 - end_date: '1974-08-30'
@@ -51,4 +52,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-02'
 ---
+Papa don't take no mess
+Papa is the man who can understand
+How a man has to do
+Whatever he can
 
+
+Papa don't, Papa don't, Papa don't
+Papa don't take no mess, no
+He don't take no mess
+
+
+Now Papa might grin
+Drink a little taste of gin
+Bet his last ten on
+A little game of skins, hit me
+
+
+Papa don't take no mess
+Papa don't, Papa don't, Papa don't
+Papa don't, Papa don't
+Papa don't take no mess, hey, hey
+
+
+Papa digs the chick
+If she look real slick
+Papa rap is very quick
+He defintely isn't no trick
+
+Oh, yeah
+
+
+Papa don't, Papa don't, Papa don't
+Papa don't, Papa don't
+Papa don't take no mess
+Papa is the man
+Who will take a stand
+Papa don't take no mess
+Papa don't, Papa don't
+Papa don't, don't, Papa don't
+
+Look, dig this
+
+
+Papa didn't cuss
+He didn't raise a whole lotta fuss
+But when we did wrong
+Papa beat the hell out of us
+
+
+Papa don't, Papa don't
+Papa don't take no mess
+
+
+I saw Papa cry when he
+Thought that I would die
+Lookie here
+I saw papa cry
+I saw Papa cry when he
+Thought that I would die
+He says something was in his eye
+I knew it was a lie
+Papa loves his son
+Mama said Papa's smart
+Papa got a whole lot of heart
+And Papa would do his part
+When the game get hard, hit me

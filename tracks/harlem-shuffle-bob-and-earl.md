@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: harlem-shuffle-bob-and-earl
+lyrics_url: https://genius.com/Bob-and-earl-harlem-shuffle-lyrics
 name: Harlem Shuffle
 rankings:
 - end_date: '1963-12-27'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-29'
 ---
+You move it to the left
+Yeah, then you go for yourself
+You move it to the right
+Yeah, if it takes all night
 
+
+Now  kinda slow
+With a whole lot of soul
+Don't move it too fast and make it last
+You know you scratch just like a monkey
+Yeah, you do, real, yeah
+You slide into the limbo
+Yeah, how low can you go?
+
+
+But oh, come on, baby
+I don't want you to scuffle now
+You just groove it right here to the Harlem shuffle
+Yeah, yeah, yeah, do the Harlem shuffle
+Oh, do the monkey shine
+Yeah, yeah, yeah, do the Harlem shuffle
+
+
+
+
+Hitch, hitch-hike, baby, across the floor
+Whoa, whoa, whoa, I can't stand it no more
+Now come on, baby
+Now get into your slide
+We're gonna ride, ride, ride, little pony ride
+Yeah
+
+
+Shake, shake, shake, shake a tail feather, baby
+Ooh
+Shake, shake, shake, shake a tail feather, baby
+Ooh (One more time)
+Shake, shake, shake, do the monkey , baby

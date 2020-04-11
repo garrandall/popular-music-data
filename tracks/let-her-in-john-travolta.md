@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-her-in-john-travolta
+lyrics_url: https://genius.com/John-travolta-let-her-in-lyrics
 name: Let Her In
 rankings:
 - end_date: '1976-05-07'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
 ---
+I'm different today, hey-hey
+Somethin' she said has stuck in my head
+And I can't get away
 
+Gonna let her in
+Gonna let her in, um-hmm
+Gonna let her in my life
+
+You know what I find, I find
+A look at her face and there isn't a trace
+Of doubt in my mind
+
+Gonna let her in
+Gonna let her in, um-hmm
+Gonna let her in my life
+Let her in my life
+
+Gonna open up
+After so long
+Gonna open up
+After so long
+With my feet stuck on the ground
+And my head against the wall
+I've been called
+
+And I can't answer why, why-hy
+Somethin' inside and it can't be denied
+And I'm ready to try
+
+Gonna let her in
+Gonna let her in, um-hmm
+Gonna let her in my life
+
+Gonna let her in
+Gonna let her in, um-hmm
+Gonna let her in my life
+Let her in my life
+
+Gonna let her in, woah-woah
+Gonna let her in my life
+Let her in my li-fe
+
+Gonna let her in, woah-woah
+Gonna let her in my life
+Let her in my li-fe

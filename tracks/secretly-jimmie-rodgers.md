@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: secretly-jimmie-rodgers
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/Secretly
 name: Secretly
 rankings:
 - end_date: '1958-08-10'
@@ -19,4 +20,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-08-18'
 ---
-
+Why must I meet you in a secret rendezvous?
+Why must we steal away to steal a kiss or two?
+Why must we wait to do the things we want to do?
+Why, oh why, oh why, oh why, oh why?
+Wish we didn't have to meet secretly
+Wish we didn't have to kiss secretly
+Wish we didn't have to be afraid
+To show the world that we're in love
+Till we have the right to meet openly
+Till we have the right to kiss openly
+We'll just have to be content to be in love secretly
+Why, oh why, oh why, oh why, oh why?
+Wish we didn't have to meet secretly
+Wish we didn't have to kiss secretly
+Wish we didn't have to be afraid
+To show the world that we're in love
+Till we have the right to meet openly
+Till we have the right to kiss openly
+We'll just have to be content to be in love secretly

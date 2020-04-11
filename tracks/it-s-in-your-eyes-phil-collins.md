@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-in-your-eyes-phil-collins
+lyrics_url: https://genius.com/Phil-collins-its-in-your-eyes-lyrics
 name: It's In Your Eyes
 rankings:
 - end_date: '1997-02-21'
@@ -63,4 +64,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-05-17'
 ---
+It's in your eyes
+The love you hide away
+You can't disguise
+The things you feel, the thing you say
 
+
+If you just call my name
+Any time at all, I'll be there
+
+
+I don't know why
+The way you're falling away from me
+I can't describe
+It's how it feels, it's what I see
+
+
+
+
+I look around, all I see is you
+But you gotta tell me that you want me too
+Look at me, you're all that I need, it's true
+
+
+
+
+
+
+I can't disguise
+The love I wait for you to share
+I can't deny
+If you reach out and touch my hand it's there

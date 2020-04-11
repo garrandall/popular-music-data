@@ -1,9 +1,11 @@
 ---
 artists:
-- Elvis Presley With The Jordanaires
+- Elvis Presley
+- The Jordanaires
 features: []
 genres: []
 key: stuck-on-you-elvis-presley-with-the-jordanaires
+lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-feat-The-Jordanaires/Stuck-On-You
 name: Stuck On You
 rankings:
 - end_date: '1960-04-10'
@@ -71,4 +73,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-07-18'
 ---
+You can shake an apple off an apple tree
+Shake-a, shake, sugar
+But you'll never shake me
+Uh-uh-uh
+No-sir-ee, uh, uh
+I'm gonna stick like glue
+Stick because I'm
+Stuck on you
 
+Gonna run my fingers through your long black hair
+Squeeze you tighter than a grizzly bear
+Uh-uh-uh
+Yes-sir-ee, uh, uh
+I'm gonna stick like glue
+Stick, because I'm
+Stuck on you
+
+Hide in the kitchen, hide in the hall
+Ain't gonna do you no good at all
+Cause once I catch ya, and the kissin' starts
+A team of wild horses couldn't tear us apart
+Try to take a tiger from his daddy's side
+That's how love is gonna keep us tied
+Uh-uh-uh
+Yes-sir-ee, uh, uh
+I'm gonna stick like glue
+Stick, because I'm
+Stuck on you
+Hide in the kitchen, hide in the hall
+Ain't gonna do you no good at all
+Cause once I catch ya, and the kissin' starts
+A team of wild horses couldn't tear us apart
+Try to take a tiger from his daddy's side
+That's how love is gonna keep us tied
+Uh-uh-uh
+Yes-sir-ee, uh, uh
+I'm gonna stick like glue
+Stick, because I'm
+Stuck on you

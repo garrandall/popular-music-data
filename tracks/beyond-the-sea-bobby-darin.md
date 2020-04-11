@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beyond-the-sea-bobby-darin
+lyrics_url: https://genius.com/Bobby-darin-beyond-the-sea-lyrics
 name: Beyond The Sea
 rankings:
 - end_date: '1960-01-24'
@@ -63,4 +64,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-18'
 ---
+Somewhere beyond the sea
+Somewhere waiting for me
+My lover stands on golden sands
+And watches the ships that go sailing
 
+Somewhere beyond the sea
+She's there watching for me
+If I could fly like birds on high
+Then straight to her arms
+I'd go sailing
+
+It's far beyond the stars
+It's near beyond the moon
+I know beyond a doubt
+My heart will lead me there soon
+
+We'll meet beyond the shore
+We'll kiss just as before
+Happy we'll be beyond the sea
+And never again I'll go sailing
+
+I know beyond a doubt
+My heart will lead me there soon
+We'll meet (I know we'll meet) beyond the shore
+We'll kiss just as before
+Happy we'll be beyond the sea
+And never again I'll go sailing
+
+No more sailing
+So long sailing
+Bye, bye sailing...

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: time-for-livin--sly-the-family-stone
+lyrics_url: https://genius.com/Sly-and-the-family-stone-time-for-livin-lyrics
 name: Time For Livin'
 rankings:
 - end_date: '1974-07-12'
@@ -56,4 +57,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
 ---
+Time for livin', time for givin'
+No time for makin' up a monster to share
+Time for livin', time for givin'
+No time for breakin' our own fairytale
 
+Ain't, ain't, ain't nobody's got to spell it for me
+Ooh, ain't nobody got to yell, I can see
+Ain't nobody got to think, I can hear
+But if I have to I will yell in your ear
+AAH-OOH!
+
+Time for livin', time for givin'
+No time for runnin' over anyone
+Let's share time for livin', time for givin'
+No time for passin', done the fun
+
+Ain't nobody's got to spell it for me
+Ain't nobody got to yell, I can see
+Ain't nobody got to think, I can hear
+Don't you, don't you, don't you, don't you yell in my ear
+
+Time for changin', re-arrangin'
+No time for peace, just pass the buck
+Rearrangin', leader's changin'
+Pretty soon he might not give a damn
+
+Ain't nobody's got to spell it for me
+Ain't nobody got to yell, I can see
+Ain't nobody got to think, I can hear
+But if I have to I will yell in your ear
+
+Time's a changin', rearrangin'
+Time's a changin', rearrangin'
+(Time) Time's a changin', (time) rearrangin'
+(Time) Time's a changin', (rearrangin') rearrangin'
+
+Time rearrangin', time rearrangin'
+(Time) Time's a changin', (rearrangin') rearrangin'
+(Time) Time's a changin', rearrangin'
+(Oh time) Time's a changin', rearrangin'
+Time's a changin', rearrangin'

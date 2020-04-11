@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gotta-travel-on-billy-grammer
+lyrics_url: https://genius.com/Billy-grammer-gotta-travel-on-lyrics
 name: Gotta Travel On
 rankings:
 - end_date: '1958-11-30'
@@ -87,4 +88,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-06'
 ---
-
+I've laid around and played around this old town too long
+Summer's almost gone, yes, winter's comin' on
+I've laid around and played around this old town too long
+And I feel like I gotta travel on
+Poppa writes to Johnny, but Johnny can't come home
+Johnny can't come home, no, Johnny can't come home
+Poppa writes to Johnny, but Johnny can't come home
+'Cause he's been on the chain gang too long
+I've laid around and played around this old town too long
+Summer's almost gone, yes, winter's comin' on
+I've laid around and played around this old town too long
+And I feel like I gotta travel on
+High sheriff and police riding after me
+Riding after me, yes, coming after me
+High sheriff and police coming after me
+And I fee like I gotta travel on
+I've laid around and played around this old town too long
+Summer's almost gone, yes, winter's comin' on
+I've laid around and played around this old town too long
+And I feel like I gotta travel on
+Want to see my honey, want to see her bad
+Want to see her bad, oh, want to see her bad
+Want to see my honey, want to see her bad
+She's the best girl, this poor boy ever had
+I've laid around and played around this old town too long
+Summer's almost gone, yes, winter's comin' on
+I've laid around and played around this old town too long
+And I feel like I gotta travel on

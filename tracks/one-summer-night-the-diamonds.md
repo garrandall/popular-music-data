@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-summer-night-the-diamonds
+lyrics_url: https://genius.com/The-diamonds-one-summer-night-lyrics
 name: One Summer Night
 rankings:
 - end_date: '1961-07-09'
@@ -43,4 +44,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-28'
 ---
-
+One summer night
+We fell in love
+One summer night
+I held you tight
+You and I
+Under the moon of love
+Moon of love
+One summer night
+I kissed your lips
+One summer night
+I held you close
+You and I
+Under the moon of love
+You kissed me, oh, so tenderly
+And I knew this was love
+And I as held you, oh, so close
+I knew no one could ever take your place, oh
+One summer night
+We fell in love
+One summer night
+I held you tight
+You and I
+Under the moon of love
+Moon of love

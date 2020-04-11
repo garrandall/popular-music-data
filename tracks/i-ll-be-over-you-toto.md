@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-be-over-you-toto
+lyrics_url: https://genius.com/Toto-ill-be-over-you-lyrics
 name: I'll Be Over You
 rankings:
 - end_date: '1986-09-05'
@@ -99,4 +100,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-31'
 ---
+Some people live their dreams
+Some people close their eyes
+Some people's destiny
+Passes by
 
+There are no guarantees
+There are no alibis
+That's how our love must be
+Don't ask why
+
+
+It takes some time
+God knows how long
+I know that I can forget you
+
+
+As soon as my heart stops breakin'
+Anticipating
+As soon as forever is through
+I'll be over you
+
+
+Remembering times gone by
+Promises we once made
+What are the reasons why
+Nothing stays the same
+
+
+There were the nights
+Holding you close
+Someday I'll try to forget them
+
+
+As soon as my heart stops breakin'
+Anticipating
+As soon as forever is through
+I'll be over you
+
+
+
+
+As soon as my heart stops breakin'
+Anticipating
+(Anticipating)
+Someday I'll be over you
+
+As soon as my heart stops breakin'
+Anticipating
+(Anticipating)
+Someday I'll be over you
+As soon as my heart
+(As soon as my heart stops breakin')
+(Anticipating)

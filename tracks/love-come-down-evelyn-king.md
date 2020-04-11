@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-come-down-evelyn-king
+lyrics_url: https://www.musixmatch.com/lyrics/Evelyn-King/Love-Come-Down
 name: Love Come Down
 rankings:
 - end_date: '1982-09-03'
@@ -71,4 +72,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-12-11'
 ---
+No sleep last night
+Been dreaming of you
+Please hold me tight
+Cause I cant help the way that I feel
 
+I just cant help the way that I feel
+
+Deep in the night
+You took my heart
+Now danger's in sight
+Cause I can't help the way that I feel
+I just can't help the way that I feel
+Do do dit dit dit dit
+Dit dit do do do
+
+Baby you make my love come down
+Oh you make my love come down
+Make it come all the way down
+Oh you make my love come down
+Baby you make my love come down
+Oh you make my love come down
+
+Can't do without your tender love
+There's no way out
+And I can't help the way that I feel
+I just can't help the way that I feel
+Do do dit dit dit dit
+Dit dit do do do
+
+Baby you make my love come down
+Oh you make my love come down
+Make it come all the way down
+Oh you make my love come down
+Baby you make my love come down
+Oh you make my love come down

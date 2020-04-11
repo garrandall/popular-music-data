@@ -86,10 +86,10 @@ I hunger for your love
 
 I'm burnin' with desire, baby
 Your body heat just drives me crazy, yeah, yeah
-{I hunger for your love}
+
 I need your lovin' here tonight
 To fill my lovin' appetite, I hunger
-{I hunger for your love}
+
 
 Hunger for your love
 I hunger for your love

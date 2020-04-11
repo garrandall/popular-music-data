@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: baby-you-re-so-fine-mickey-sylvia
+lyrics_url: https://genius.com/Mickey-and-sylvia-baby-youre-so-fine-lyrics
 name: Baby You're So Fine
 rankings:
 - end_date: '1961-08-27'
@@ -32,4 +33,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-09-25'
 ---
+Hoo-wee, baby
+Baby you`re so fine
+Gotta have your loving any old time
+Oooh, baby
+Baby, baby
+You`re so fine, fine, fine
 
+Hoo-wee, baby
+Remember last night?
+You said you were leaving
+We had a big fight
+Oooh, baby
+Baby, baby
+You`re so fine, fine, fine
+
+Remember the night I met you?
+We danced until a quarter to two
+You held my hands and you kissed my lips
+Baby, what you trying a-do?
+Woo-woo-woo
+
+Hoo-wee, baby
+Gotta let you know
+What you reap, baby
+You sure gotta sow
+Oooh, baby
+Baby, baby
+You`re so fine, fine, fine
+
+
+
+Hoo-wee, baby
+Baby, you`re so fine
+Gotta have your loving any old time
+Oooh, baby
+Baby, baby
+You`re so fine, fine, fine
+Oooh, baby
+Like to make-a your all mine, mine, mine
+
+Oooh, baby
+Baby, baby
+You`re so fine, fine, fine
+Oooh, baby

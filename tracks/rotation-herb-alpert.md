@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rotation-herb-alpert
+lyrics_url: https://genius.com/Herb-alpert-rotation-lyrics
 name: Rotation
 rankings:
 - end_date: '1979-11-23'
@@ -59,4 +60,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
 ---
-
+Instrumental

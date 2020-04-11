@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: reach-out-of-the-darkness-friend-and-lover
+lyrics_url: https://genius.com/Friend-and-lover-reach-out-of-the-darkness-lyrics
 name: Reach Out Of The Darkness
 rankings:
 - end_date: '1968-05-24'
@@ -63,4 +64,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-08-17'
 ---
+I think it's so groovy now
+That people are finally getting together
+I think it's so wonderful and how
+That people are finally getting together
+I think it's so groovy now
+That people are finally getting together
+I think it's so wonderful and how
+That people are finally getting together
 
+Reach out in the darkness
+Reach out in the darkness
+Reach out in the darkness
+And you may find a friend
+
+I knew a man that I did not care for
+And then one day this man gave me a call
+We sat and talked about things on our mind
+And now this man, he is a friend of mine
+
+Reach out in the darkness
+Reach out in the darkness
+Reach out in the darkness
+And you may find a friend
+
+I think it's so groovy now
+That people are finally getting together
+I think it's so wonderful and how
+That people are finally getting together
+I think it's so groovy now
+That people are finally getting together
+I think it's so wonderful and how
+That people are finally getting together
+
+Don't be afraid of love
+Don't be afraid
+Don't be afraid, don't be afraid to love
+Listen to me
+Everybody needs a little love
+Everybody needs somebody
+That they can be thinking of
+
+Now, reach out!
+Reach out in the darkness
+Reach out in the darkness
+Reach out in the darkness
+And you may find a friend
+
+I think it's so groovy now
+That people are finally getting together
+I think it's so wonderful and how
+That people are finally getting together
+I think it's so groovy now
+That people are finally getting together
+I think it's so wonderful and how
+That people are finally getting together
+
+I think it's so groovy now
+That people are finally getting together
+I think it's so wonderful and how
+That people are finally getting together
+I think it's so groovy now
+That people are finally getting together
+I think it's so wonderful and how
+That people are finally getting together

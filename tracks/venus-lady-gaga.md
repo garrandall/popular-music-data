@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: venus-lady-gaga
+lyrics_url: https://www.musixmatch.com/lyrics/Lady-Gaga/Venus
 name: Venus
 rankings:
 - end_date: '2013-11-22'
@@ -11,4 +12,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-11-16'
 ---
+Rocket number nine, take off to the planet, to the planet Venus
+Aphrodite lady, seashell bikini, garden panty, Venus
+Let's blast off to a new dimension, in your bedroom, Venus
+Aphrodite lady, seashell bikini, get with me, Venus
 
+I can't help the way I'm feeling
+Goddess of love, please take me to your leader
+I can't help, I keep on dancing
+Goddess of love, Goddess of love
+
+Take me to your planet (to the planet)
+Take me to your planet (to the planet)
+Take me to your leader (to the planet)
+Your leader, your leader (to the planet)
+
+Take me to your planet (to the planet)
+Take me to your planet (to the planet)
+Take me to your Venus (to the planet)
+Your Venus, your Venus (to the planet)
+
+When you touch me, I die just a little inside
+I wonder if this could be love, this could be love
+'Cause you're out of this world, galaxy, space and time
+I wonder if this could be love (Venus)
+
+Have an oyster, baby, it's aphrod-i-sy
+Act sleazy, Venus
+Worship to the land, a girl from the planet
+To the planet (to the planet)
+
+I can't help the way I'm feeling
+Goddess of love, please take me to your leader
+I can't help, I keep on dancing
+Goddess of love, Goddess of love
+
+Take me to your planet (to the planet)
+Take me to your planet (to the planet)
+Take me to your leader (to the planet)
+Your leader, your leader (to the planet)
+
+Take me to your planet (to the planet)
+Take me to your planet (to the planet)
+Take me to your Venus (to the planet)
+Your Venus, your Venus (to the planet)
+
+When you touch me, I die just a little inside
+I wonder if this could be love, this could be love
+'Cause you're out of this world, galaxy, space and time
+I wonder if this could be love, this could be love
+
+Wonder if this could be love, this could be...
+Goddess of love
+Wonder if this could be love, Venus
+
+Neptune, go
+Now serve, Pluto
+Saturn, Jupiter, Mercury, Venus, uh ha
+Uranus, don't you know my ass is famous?
+Mars, now serve for the gods
+Earth, serve for the stars
+
+When you touch me, I die just a little inside
+I wonder if this could be love, this could be love
+'Cause you're out of this world, galaxy, space and time
+I wonder if this could be love, this could be love
+
+Wonder if this could be love, this could be...
+Goddess of love
+Wonder if this could be love
+Venus

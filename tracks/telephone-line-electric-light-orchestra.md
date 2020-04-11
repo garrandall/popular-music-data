@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: telephone-line-electric-light-orchestra
+lyrics_url: https://genius.com/Electric-light-orchestra-telephone-line-lyrics
 name: Telephone Line
 rankings:
 - end_date: '1977-06-17'
@@ -99,4 +100,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-12'
 ---
+Hello! How are you?
+Have you been alright
+Through all those lonely, lonely, lonely, lonely, lonely nights?
+That's what I'd say
+I'd tell you everything
+If you'd pick up that telephone
+Yeah, yeah, yeah
 
+
+Hey! How you feelin'?
+Are you still the same?
+Don't you realize the things we did, we did
+Were all for real, not a dream?
+I just can't believe
+They've all faded out of view
+Yeah, yeah, yeah, yeah, ooh
+
+
+Doo-wop, do-be-do-do-wop
+Doo-wa-doo-day
+Blue days, black nights
+Doo-wa-doo-day
+I look into the sky
+(The love you need ain't gonna see you through)
+And I wonder why
+(The little things you planned ain't comin' true)
+
+
+Oh, oh, telephone line, give me some time
+I'm living in twilight
+Oh, oh, telephone line, give me some time
+I'm living in twilight
+
+
+Ok, so no one's answering
+Well, can't you just let it ring a little longer, longer, longer?
+Oh
+I'll just sit tight
+Through shadows of the night
+Let it ring forevermore
+Yeah, yeah, yeah
+
+
+Doo-wop, do-be-do-do-wop
+Doo-wa-doo-day
+Blue days, black nights
+Doo-wa-doo-day
+I look into the sky
+(The love you need ain't gonna see you through)
+And I wonder why
+(The little things you planned ain't comin' true)
+
+
+Oh, oh, telephone line, give me some time
+I'm living in twilight
+Oh, oh, telephone line, give me some time
+I'm living in twilight
+
+
+Oh, oh, telephone line, give me some time
+I'm living in twilight
+Oh, oh, telephone line, give me some time
+I'm living in twilight

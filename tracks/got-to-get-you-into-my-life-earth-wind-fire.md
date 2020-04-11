@@ -1,11 +1,10 @@
 ---
 artists:
-- Earth
-- Wind
-- Fire
+- Earth, Wind & Fire
 features: []
 genres: []
 key: got-to-get-you-into-my-life-earth-wind-fire
+lyrics_url: https://www.musixmatch.com/lyrics/Earth-feat-Wind-Fire/Got-to-Get-You-into-My-Life-From-The-Best-of-Earth-Wind-Fire-Vol-1
 name: Got To Get You Into My Life
 rankings:
 - end_date: '1978-07-28'
@@ -61,4 +60,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-10-14'
 ---
+Got to get you into my life, into my life
+Got to get you into my life, into my life
+Got to get you into my life, into my life
+Got to get you into my life, into my life
+Got to get you into my life, into my life
 
+I was alone, I took a ride
+I didn't know what I would find there
+Another road where maybe
+I could see another sign there
+Oo, then I suddenly see you
+Oo, and did I tell you I need you
+Ev'ry single day of my life
+
+You didn't run, you didn't lie
+You knew I wanna to hold you
+And had you gone you knew in time
+We'd meet again for I had told you
+Oh, you were meant to be near me
+Oh, I really want for you to hear me
+Say we'll be together every day
+
+Got to get you into my life
+Got to get you in, got to get you into my life
+Got to get you into my life
+Got to get you in, got to get you into my life
+Got to get you into my life
+
+Ooo, then I suddenly see you
+Ooo, and did I tell you that I need you
+Ev'ry single day of my life
+
+Got to get you into my life
+Got to get you in, got to get you into my life
+Got to get you into my life
+Got to get you into my life
+
+Got to get you in, got to get you in
+Got to get you in, got to get you in
+Into my life
+Got to get you into my life
+Got to get you in, got to get you in
+Got to get you in, got to get you in
+Into my life

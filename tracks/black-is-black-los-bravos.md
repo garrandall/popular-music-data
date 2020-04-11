@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: black-is-black-los-bravos
+lyrics_url: https://genius.com/Los-bravos-black-is-black-lyrics
 name: Black Is Black
 rankings:
 - end_date: '1966-08-19'
@@ -55,4 +56,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-29'
 ---
+Black is black, I want my baby back
+It's grey, it's grey, since she went away, oh oh
+What can I do, 'cause I, I'm feelin' blue
 
+
+If I had my way, she'd be here today
+But she'd go in time, and leave me to cry again, oh no
+What can I do, cause I, I'm feelin' blue
+I can't choose, it's too much to lose when our love's too strong
+Maybe if she would come back to me, then I can't go wrong
+Bad is bad, that I feel so sad
+It's time, it's time, that I felt peace of mind, oh oh
+What can I do, cause I, I'm feelin' blue
+I can't choose, it's too much to lose when our love's too strong
+Maybe if she would come back to me, then I can't go wrong
+
+
+Black is black, I want my baby back
+It's grey, it's grey, since she went away, oh oh
+What can I do, 'cause I, I'm feelin' blue
+'Cause I, I'm feelin' blue, 'cause I, I'm feelin' blue

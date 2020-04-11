@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-night-elvis-presley
+lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley/One-Night-of-Sin
 name: One Night
 rankings:
 - end_date: '1958-11-16'
@@ -75,4 +76,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-02'
 ---
+One night of sin, yeah
+Is what I'm now paying for
+The things I did and I saw
+Would make the earth stand still
 
+Don't call my name
+It makes me feel so ashamed
+I lost my sweet helping hand
+I got myself to blame
+
+Always lived very quiet life
+Ain't never did no wrong
+Now I know that very quiet life
+Has cost me nothing but harm
+
+One night of sin, yeah
+Is what I'm now paying for
+The things I did and I saw
+Would make the earth stand still
+
+Always lived very quiet life
+Ain't never did no wrong
+But now I know that very quiet life
+Has cost me nothing but harm
+
+One night of sin
+Is what I'm now paying for
+The things I did and I saw
+Would make the earth stand still

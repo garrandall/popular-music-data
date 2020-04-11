@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-n-me-steve-miller
+lyrics_url: https://genius.com/Steve-miller-band-rockn-me-lyrics
 name: Rock'n Me
 rankings:
 - end_date: '1976-08-20'
@@ -79,4 +80,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-12-11'
 ---
+Well, I've been lookin' real hard
+And I'm tryin' to find a job
+But it just keeps gettin' tougher every day
+But I got to do my part, cause I know in my heart
+I got to please my sweet baby, yeah
 
+
+Well, I ain't superstitious
+And I don't get suspicious
+But my woman is a friend of mine
+And I know that it's true that all the things that I do
+Will come back to me in my sweet time
+
+
+So keep on rock'n me, baby
+Keep on-a rock'n me, baby
+Keep on-a rock'n me, baby
+Keep on-a rock'n me, baby
+
+
+I went from Phoenix, Arizona
+All the way to Tacoma
+Philadelphia, Atlanta, L.A
+Northern California, where the girls are warm
+So I could be with my sweet baby, yeah
+
+
+Keep on-a rock'n me, baby
+Keep on-a rock'n me, baby
+Keep on-a rock'n me, baby
+Keep on-a rock'n me, baby
+Baby, baby, baby
+
+
+Keep on rock'n
+Rock'n me, baby
+Keep on-a rock'n
+Rock'n me, baby
+Ooh yeah
+
+
+Don't get suspicious
+Now, don't be suspicious
+Babe, you know you are a friend of mine
+And you know that it's true
+That all the things that I do
+Are gonna come back to you in your sweet time
+
+
+I went from Phoenix, Arizona
+All the way to Tacoma
+Philadelphia, Atlanta, L.A
+Northern California, where the girls are warm
+So I could hear my sweet baby say
+
+
+Keep on-a rock'n me, baby
+Keep on-a rock'n me, baby
+Keep on-a rock'n me, baby
+Keep on-a rock'n me
+Rock'n me, rock'n
+Baby, baby, baby
+
+
+Keep on rock'n me, baby
+Keep on-a rock'n me, baby
+Keep on-a rock'n me, baby
+Keep on-a rock'n me, baby

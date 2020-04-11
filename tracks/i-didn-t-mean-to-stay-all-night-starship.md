@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-didn-t-mean-to-stay-all-night-starship
+lyrics_url: https://genius.com/Starship-i-didnt-mean-to-stay-all-night-lyrics
 name: I Didn't Mean To Stay All Night
 rankings:
 - end_date: '1989-12-01'
@@ -39,4 +40,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-01-13'
 ---
+My love is drifting in a sweet dream
+And my heart is beatin' like a drum
+And my words don't make a sound
+And I'm dancin' but my feet ain't on the ground
 
+Chorus:
+I am flyin', forever within your arms
+Oh I'm flyin', forever within your heart, I am flyin'
+I didn't mean to stay all night, oh no, but baby you hold so tight
+I didn't mean to turn you loose, oh no, but baby you won't refuse
+I didn't mean to turn you on, oh no, it's heaven it can't be wrong
+I didn't mean to stay all night
+
+My thoughts are runnin' in a race
+And my mind is slippin' into space
+Cause your world is all around
+So I'm dancing but my feet ain't on the ground
+
+I am flyin', forever within your arms
+Oh I'm flyin', forever within your heart, I am flyin'
+I didn't mean to stay all night, oh no, but baby you hold so tight
+I didn't mean to turn you loose, oh no, but baby you won't refuse
+I didn't mean to turn you on, oh no, it's heaven it can't be wrong
+
+(Guitar solo)
+
+I am flyin', forever within your arms
+Oh I'm flyin', forever within your heart
+
+I didn't mean - I didn't mean to make you stay, oh but baby you got your way
+I didn't mean - I didn't mean to fool around, but baby you held me down
+
+I didn't mean to stay all night
+I didn't mean - I didn't mean to make you stay - oh no
+I didn't mean to let you get your way
+I didn't mean - I didn't mean to fool around - oh no
+I didn't mean to let you hold me down
+I didn't mean - to turn you on baby - oh no
+To make you fall in love, I didn't mean
+I didn't mean - to turn you loose honey - oh no
+But you just can't refuse, and I didn't mean
+I didn't mean - to stay all night, oh no, but you won't let go
+I didn't mean - I didn't mean to make you stay - oh no
+I didn't mean to let you get your way
+I didn't mean - I didn't mean to fool around - oh no...

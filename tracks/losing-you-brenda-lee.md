@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: losing-you-brenda-lee
+lyrics_url: https://genius.com/Brenda-lee-losing-you-lyrics
 name: Losing You
 rankings:
 - end_date: '1963-04-12'
@@ -59,4 +60,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-29'
 ---
+Don't sigh a sigh for me
+Don't ever cry for me
+This is goodbye for me
+I know we're through
+I'm Losing you
 
+Love sang it's song for me
+Then things went wrong for me
+Nights are too long for me
+Because I'm losing you
+
+Our love and our devotion
+Were deep as any ocean
+Then one day like the tide you began to change
+And you became a perfect stranger
+
+Someone is holding you
+Sharing the lips I knew
+I can't believe it's true
+That I am losing you
+
+I can't believe it's true
+That I am losing you

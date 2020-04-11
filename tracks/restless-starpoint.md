@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: restless-starpoint
+lyrics_url: https://genius.com/Starpoint-restless-lyrics
 name: Restless
 rankings:
 - end_date: '1986-03-28'
@@ -55,4 +56,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-06-07'
 ---
+Restless
+Do do do
 
+Sunday morning, break of dawn
+And I don't think I've slept at all
+I toss and turn and body's yearning
+Thinking 'bout you all night long
+
+Feel the thunder in my heart beating
+It's tearing me apart
+I won't rest until you're here beside me
+Sharing my love through the night
+
+I'm restless, I can't sleep a wink
+Can't live without your love
+I'm restless, I can't sleep a wink
+I can't live without your love
+
+I tried to fight it, tried to hide it
+Just another passing flame, well
+Here today and gone tomorrow
+But with you the fire raged
+
+Over my mind, body and soul baby
+You took complete control
+I'm on the verge of going crazy maybe
+You're all I want
+Don't you leave me in the cold
+
+I'm restless, I can't sleep a wink
+Can't live without your love
+I'm restless, I can't sleep a wink
+I can't live without your love
+
+I'm restless, I can't sleep a wink
+Can't live without your love
+I'm restless, I can't sleep a wink
+I can't live without your love
+
+I'm restless, I can't sleep a wink
+Can't live without your love
+I'm restless, I can't sleep a wink
+I can't live without your love
+
+I'm restless, I can't sleep a wink
+Can't live without your love
+I'm restless, I can't sleep a wink
+I can't live without your love
+
+I won't rest until you're here beside me
+
+I'm restless, I can't sleep a wink
+Can't live without your love
+I'm restless, I can't sleep a wink
+I can't live without your love

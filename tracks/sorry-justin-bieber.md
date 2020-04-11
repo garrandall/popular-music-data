@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sorry-justin-bieber
+lyrics_url: https://genius.com/Justin-bieber-sorry-lyrics
 name: Sorry
 rankings:
 - end_date: '2015-11-20'
@@ -175,4 +176,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-08-27'
 ---
+You gotta go and get angry at all of my honesty
+You know I try but I don't do too well with apologies
+I hope I don't run out of time, could someone call a referee?
+'Cause I just need one more shot at forgiveness
+I know you know that I made those mistakes maybe once or twice
+By once or twice I mean maybe a couple a hundred times
+So let me, oh let me redeem, oh redeem, oh myself tonight
+'Cause I just need one more shot at second chances
 
+
+Yeah, is it too late now to say sorry?
+'Cause I'm missing more than just your body
+Is it too late now to say sorry?
+Yeah I know that I let you down
+Is it too late to say I'm sorry now?
+
+
+I'm sorry, yeah
+Sorry, yeah
+Sorry
+Yeah I know that I let you down
+Is it too late to say I'm sorry now?
+
+
+I'll take every single piece of the blame if you want me to
+But you know that there is no innocent one in this game for two
+I'll go, I'll go and then you go, you go out and spill the truth
+Can we both say the words and forget this?
+
+
+Is it too late now to say sorry?
+'Cause I'm missing more than just your body
+Is it too late now to say sorry?
+Yeah I know that I let you down
+Is it too late to say I'm sorry now?
+
+
+I'm not just trying to get you back on me
+'Cause I'm missing more than just your body
+Is it too late now to say sorry?
+Yeah I know that I let you down
+Is it too late to say I'm sorry now?
+
+
+I'm sorry, yeah
+Sorry, oh
+Sorry
+Yeah I know that I let you down
+Is it too late to say I'm sorry now?
+I'm sorry, yeah
+Sorry, oh
+Sorry
+Yeah I know that I let you down
+Is it too late to say I'm sorry now?

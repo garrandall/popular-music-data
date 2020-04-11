@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-forget-i-still-love-you-bobbi-martin
+lyrics_url: https://www.musixmatch.com/lyrics/Bobbi-Martin/Don-t-Forget-I-Still-Love-You
 name: Don't Forget I Still Love You
 rankings:
 - end_date: '1964-12-04'
@@ -55,4 +56,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
 ---
+DON'T FORGET I STILL LOVE YOU
+Bobbi Martin
 
+Don't forget I still love you
+Everyday we're apart
+Someone else will be kissing you
+But you'll still be in my heart
+
+Don't forget I still love you
+When his arms hold me tight
+Just remember that I still care
+Tho' I'm losing you tonight
+
+When I told you I loved you
+I promised I'd be true
+And I'll keep that promise
+My whole life thru
+
+I could never forget you
+And how our love was so true
+Goodbye my darling and don't forget
+That I'm still in love with you

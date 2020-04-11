@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: prayer-disturbed
+lyrics_url: https://genius.com/Disturbed-prayer-lyrics
 name: Prayer
 rankings:
 - end_date: '2002-10-04'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-02-08'
 ---
+Another dream that will never come true
+Just to compliment your sorrow
+Another life that I've taken from you
+A gift to add onto your pain and suffering
 
+Another truth you can never believe
+Has crippled you, completely
+All the cries you're beginning to hear
+Trapped in your mind, and the sound is deafening
+
+
+Let me enlighten you
+This is the way I pray
+
+
+Living just isn't hard enough
+Burn me alive, inside
+Living my life's not hard enough
+Take everything away
+
+
+Another nightmare about to come true
+Will manifest, tomorrow
+Another love that I've taken from you
+Lost in time, on the edge of suffering
+
+Another taste of the evil I breed
+Will level you, completely
+Bring to life everything that you fear
+Live in the dark, and the world is threatening
+
+
+Let me enlighten you
+This is the way I pray
+
+
+Living just isn't hard enough
+Burn me alive, inside
+Living my life's not hard enough
+Take everything away
+
+
+Return to me, return to me, return to me
+Turn to me, leave me no one
+Turn to me, return to me, return to me
+Turn to me, cast aside
+
+Return to me, return to me, return to me
+Turn to me, leave me no one
+Turn to me, return to me, return to me
+You've made me turn away
+
+
+Living just isn't hard enough
+Burn me alive, inside
+Living my life's not hard enough
+They take everything from you
+
+Living just isn't hard enough
+Burn me alive, inside
+Living my life's not hard enough
+Take everything away

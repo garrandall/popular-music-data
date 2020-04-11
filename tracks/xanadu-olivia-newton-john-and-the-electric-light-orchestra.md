@@ -1,9 +1,11 @@
 ---
 artists:
-- Olivia Newton-John And The Electric Light Orchestra
+- Olivia Newton-John
+- Electric Light Orchestra
 features: []
 genres: []
 key: xanadu-olivia-newton-john-and-the-electric-light-orchestra
+lyrics_url: https://genius.com/Olivia-newton-john-and-electric-light-orchestra-xanadu-lyrics
 name: Xanadu
 rankings:
 - end_date: '1980-08-15'
@@ -75,4 +77,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-29'
 ---
+A place where nobody dared to go
+The love that we came to know
+They call it Xanadu
+(It takes your breath)
+(It'll leave you blind)
 
+
+And now, open your eyes and see
+What we have made is real
+We are in Xanadu
+(A dream of it)
+(We offer you)
+
+
+A million lights are dancing and there you are, a shooting star
+An everlasting world and you're here with me, eternally
+
+
+Xanadu
+Xanadu
+(Now we are here)
+In Xanadu (Xanadu)
+Xanadu
+Xanadu
+(Now we are here)
+In Xanadu
+
+
+Xanadu
+Your neon lights will shine
+For you, Xanadu
+
+
+The love, the echoes of long ago
+You needed the world to know
+They are in Xanadu
+(With every breath)
+(You drift away)
+
+
+The dream that came through a million years
+That lived on through all the tears
+It came to Xanadu
+(The dream you dream)
+(Well it will happen for you)
+
+
+A million lights are dancing and there you are, a shooting star
+An everlasting world and you're here with me, eternally
+
+
+Xanadu
+Xanadu
+(Now we are here)
+In Xanadu (Xanadu)
+Xanadu
+Xanadu
+(Now we are here)
+In Xanadu
+(Xanadu Xanadu)
+
+
+Now that I'm here
+Now that you're near
+In Xanadu
+Now that I'm here
+Now that you're near
+In Xanadu
+Xanadu

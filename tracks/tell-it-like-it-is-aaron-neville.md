@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-it-like-it-is-aaron-neville
+lyrics_url: https://genius.com/Aaron-neville-tell-it-like-it-is-lyrics
 name: Tell It Like It Is
 rankings:
 - end_date: '1966-12-09'
@@ -63,4 +64,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
 ---
+If you want something to play with
+Go and find yourself a toy
+Baby my time is too expensive
+And I'm not a little boy
 
+If you are serious
+Don't play with my heart
+It makes me furious
+But if you want me to love you
+Then a baby I will, girl you know that I will
+
+Tell it like it is
+Don't be ashamed to let your conscience be your guide
+But I know deep down inside me
+I believe you love me, forget your foolish pride
+
+Life is too short to have sorrow
+You may be here today and gone tomorrow
+You might as well get what you want
+So go on and live, baby go on and live
+
+Tell it like it is
+I'm nothing to play with
+Go and find yourself a toy
+But I... Tell it like it is
+My time is too expensive and I'm not your little boy

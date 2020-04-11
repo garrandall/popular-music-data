@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-you-love-a-woman-journey
+lyrics_url: https://genius.com/Journey-when-you-love-a-woman-lyrics
 name: When You Love A Woman
 rankings:
 - end_date: '1996-11-01'
@@ -95,4 +96,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-03-22'
 ---
+In my life I see where I've been
+I said that I'd never fall again
+Within myself I was wrong
+My searching ain't over...over
+I know that
 
+
+When you love a woman
+You see your world inside her eyes
+When you love a woman
+You know she's standing by your side
+A joy that lasts forever
+There's a band of gold that shines waiting somewhere...oh yeah
+
+
+If I can't believe that someone is true
+To fall in love is so hard to do
+I hope and pray tonight
+Somewhere you're thinking of me girl
+Yes I know...I know that
+
+
+When you love a woman
+You see your world inside her eyes
+When you love a woman
+You know she's standing by your side
+A joy that lasts forever
+There's a band of gold that shines waiting somewhere...oh
+
+
+It's enough to make you cry
+When you see her walking by
+And you look into her eyes
+
+
+When you love a woman
+You see your world inside her eyes
+When you love a woman
+You know she's standing by your side
+A joy that lasts forever
+There's a band of gold that shines waiting somewhere...oh
+
+
+When you love a woman
+When you love, love, love, love
+When you love a woman
+You see your world inside her eyes

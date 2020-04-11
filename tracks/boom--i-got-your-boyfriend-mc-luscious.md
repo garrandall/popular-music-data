@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boom--i-got-your-boyfriend-mc-luscious
+lyrics_url: https://genius.com/Mc-luscious-boom-i-got-your-boyfriend-lyrics
 name: Boom! I Got Your Boyfriend
 rankings:
 - end_date: '1992-02-14'
@@ -87,4 +88,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-06-20'
 ---
+Boom! I got your boyfriend, I got your man
+Boom! I got your boyfriend, I got your man
+Boom! I got your boyfriend, I got your man
+Boom! I got your boyfriend, I got your man
 
+When I walked in the gym your man was talkin
+Lickin his lips while I was walkin
+He called my name to make me smile
+Cause his buds were in the gym and I'm walkin with style
+So he grabbed my by the arm and pulled me to the side
+Said he'd be mine till the day I die
+He told me he'd love me till the very end
+Hey girl! I got your boyfriend!
+
+Boom! I got your boyfriend, I got your man
+Boom! I got your boyfriend, I got your man
+Boom! I got your boyfriend, I got your man
+Boom! I got your boyfriend, I got your man
+
+When I first saw your man, he was really fine, he had a natural shake, it was so devine, he had a red mercedes benz that was drop down low, gold pin stripe it was good to go, it had a gucci rad top, with a system that thumped 30 foot ___ w/ a boom in the trunk, he kissed me on the cheek, and you know that's all he got, now he calls me everyday saying "I like you a lot"
+
+Boom! I got your boyfriend, I got your man
+Boom! I got your boyfriend, I got your man
+Boom! I got your boyfriend, I got your man
+Boom! I got your boyfriend, I got your man
+
+Ohhh gurl u know i love ya
+Ohhh gurl u know i love ya
+Ohhh gurl u know i love ya
+Ohhh gurl u know i love ya
+
+Boom! I got your boyfriend, I got your man
+Boom! I got your boyfriend, I got your man
+Boom! I got your boyfriend, I got your man
+Boom! I got your boyfriend, I got your man
+
+If you got a boyfreidn, you better hold on tight, and keep him in sight every single night, cause when I got out, I look so fine, cause i'm dressed to impress, and I'm one of a kind, I take him, shake him, work him on out, show your man what I'm all about, so when he tells you it's the end, that's when you know I got your boyfriend
+
+Boom! I got your boyfriend, I got your man
+Boom! I got your boyfriend, I got your man
+Boom! I got your boyfriend, I got your man
+Boom! I got your boyfriend, I got your man

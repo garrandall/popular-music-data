@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hijack-herbie-mann
+lyrics_url: https://genius.com/Herbie-mann-hijack-annotated
 name: Hijack
 rankings:
 - end_date: '1975-02-14'
@@ -67,4 +68,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-06-07'
 ---
-
+*to be typed*

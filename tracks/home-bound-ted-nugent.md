@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: home-bound-ted-nugent
+lyrics_url: https://genius.com/Ted-nugent-home-bound-lyrics
 name: Home Bound
 rankings:
 - end_date: '1978-02-10'
@@ -23,4 +24,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-25'
 ---
-
+Instrumental

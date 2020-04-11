@@ -1,7 +1,6 @@
 ---
 artists:
 - Joe Sherman
-- his Orchestra and Chorus
 features: []
 genres: []
 key: toys-in-the-attic-joe-sherman-his-orchestra-and-chorus

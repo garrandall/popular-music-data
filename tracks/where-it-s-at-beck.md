@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-it-s-at-beck
+lyrics_url: https://genius.com/Beck-where-its-at-lyrics
 name: Where It's At
 rankings:
 - end_date: '1996-07-05'
@@ -83,4 +84,89 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-11-02'
 ---
+There's a destination a little up the road
+From the habitations and the towns we know
+A place we saw the lights turn low
+The jig-saw jazz and the get-fresh flow
+Pulling out jives and jamboree handouts
+Two turntables and a microphone
+Bottles and cans just clap your hands
+Just clap your hands
 
+
+Where it's at!
+I got two turntables and a microphone
+Where it's at!
+I got two turntables and a microphone
+Where it's at!
+I got two turntables and a microphone
+Where it's at!
+I got two turntables and a microphone
+
+
+(Take me home with my elevator bones!)
+(That was a good drum break)
+Pick yourself up off the side of the road
+With your elevator bones
+And your whip-flash tones
+Members only hyponotizers
+Move through the room like ambulance drivers
+Shine your shoes with your microphone blues
+Hirsute with your parachute fruits
+Passing the dutchie from coast to coast
+Like my man Gary Wilson (rocks the most)
+
+
+Where it's at!
+I got two turntables and a microphone
+Where it's at!
+I got two turntables and a microphone
+
+
+("What about those who swing both ways? AC-DC's?")
+(Let's make it out baby)
+
+Mmmmmmm
+Cheese
+
+Two turntables and a microphone
+Two turntables and a microphone
+Two turntables and a microphone
+Two turntables and a microphone
+Two turntables and a microphone
+Two turntables and a microphone
+(We're all part of the total scene)
+
+
+Where it's at!
+I got two turntables and a microphone
+Where it's at!
+I got two turntables and a microphone
+
+Make yourself 
+(That's beautiful, dad)
+Got my microphone
+
+
+There's a destination a little up the road
+From the habitations and the towns we know
+A place we saw the lights turn low
+The jig-saw jazz and the get-fresh flow
+Pulling out jives and jamboree handouts
+Two turntables and a microphone
+Bottles and cans just clap your hands
+Just clap your hands
+
+
+Where it's at!
+I got two turntables and a microphone
+Where it's at!
+I got two turntables and a microphone
+
+(Make it our baby)
+(Make it our baby)
+(Let's make it our baby)
+
+Ohhhhhhhhhhh
+It's all good
+All good

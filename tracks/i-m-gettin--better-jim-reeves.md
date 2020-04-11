@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-gettin--better-jim-reeves
+lyrics_url: https://genius.com/Jim-reeves-im-gettin-better-lyrics
 name: I'm Gettin' Better
 rankings:
 - end_date: '1960-06-26'
@@ -47,4 +48,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-22'
 ---
+I walked by the river
+Where we said goodbye
+Thought of your kisses
+And didn't even cry
+I'm gettin' better, I'm gettin' better
 
+I talked with an old friend
+He asked about you
+I managed to tell him
+With just a tear or two
+I'm gettin' better, I'm gettin' better
+
+I know I'll never be the same
+I was standin' too close to the flame
+But it doesn't hurt so much
+To hear your name
+I think I'll make it, I'm gettin' better...

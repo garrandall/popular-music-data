@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: first-quarrel-paul-and-paula
+lyrics_url: https://genius.com/Paul-and-paula-first-quarrel-lyrics
 name: First Quarrel
 rankings:
 - end_date: '1963-06-07'
@@ -39,4 +40,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-07-20'
 ---
+Both We had our first quarrel today
+Paula I threw your picture away
+Paul Im sorry I made you cry
+Paula Forgive me, so am I
+Both We had our first quarrel today
 
+Paul I thought I saw you with Jim
+Paula I was just talking with him
+Paul Well, I guess I had it wrong
+Paula I should have been at home
+Both We had our first quarrel today
+
+What may seem wrong at the time isnt always true
+Our love will go on as long as theres me and you
+
+Paul What was it all about?
+Paula I dont remember now
+Both We had our first quarrel today
+
+What may seem wrong at the time isnt always true
+Our love will go on as long as theres me and you
+
+Paul What was it all about?
+Paula I dont remember now
+Both We had our first quarrel today

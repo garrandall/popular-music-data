@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: want-you-to-know-rotary-connection
+lyrics_url: https://genius.com/Rotary-connection-want-you-to-know-lyrics
 name: Want You To Know
 rankings:
 - end_date: '1970-01-09'
@@ -15,4 +16,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-10'
 ---
+Want you to know
+You made me happy
+Want you to know
+You made me sad
+Want you to know
+You made me happy
+You are the best thing that I ever had
 
+Want you to know
+You made me happy
+Want you to know
+You made me sad
+Want you to know
+You made me happy
+You are the best thing that I ever had
+
+Want you to know
+You made me happy
+Want you to know
+You made me sad
+Want you to know
+You made me happy
+You are the best thing that I ever had
+
+Want you to know
+You made me happy
+Want you to know
+You made me sad
+Want you to know
+You made me happy
+You are the best thing that I ever had
+
+Want you to know
+You made me happy
+Want you to know
+You made me sad
+Want you to know
+You made me happy
+You are the best thing that I ever had
+
+Want you to know
+You made me happy
+Want you to know
+You made me sad
+Want you to know
+You made me happy
+You are the best thing that I ever had
+
+Want you to know
+You made me happy
+Want you to know
+You made me sad
+Want you to know
+You made me happy
+You are the best thing that I ever had
+
+Want you to know
+You made me happy
+Want you to know
+You made me sad
+Want you to know
+You made me happy
+You are the best thing that I ever had

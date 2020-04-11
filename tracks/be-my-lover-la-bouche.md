@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: be-my-lover-la-bouche
+lyrics_url: https://genius.com/La-bouche-be-my-lover-lyrics
 name: Be My Lover
 rankings:
 - end_date: '1995-11-17'
@@ -159,4 +160,92 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-07-27'
 ---
+La da da dee da da, da da
+La da da dee da da, da da
+La da da dee da
+La da da da dee da
+La da dee da da da, da da
+Be my lover
+Wanna be my lover
 
+
+Looking back on all the time we've spent together
+You oughta know right now, if you wanna be my lover
+Wanna be my lover
+Go ahead and take your time, boy, you gotta feel secure
+Before I make you mine, baby, you have to be sure
+You wanna be my lover, wanna be my lover, wanna be my lover
+
+
+La da da dee da da, da da
+La da da dee da da, da da
+La da da dee da
+La da da da dee da
+La da dee da da da, da da
+
+La da da dee da da, da da
+La da da dee da da, da da
+La da da dee da
+La da da da dee da
+La da dee da da da da da
+
+
+Ah ha yeah hey, wanna be my lover
+Ah ha yeah hey, wanna be my lover
+Ah ha yeah hey, wanna be my lover
+Ah ha yeah hey, wanna be my lover
+
+
+I must confess
+Girl yes, I want to be your lover
+Take a chance, my love is like no other
+On the dance floor getting down
+Hold tight, I'll never let you down
+My love is definitely the key
+Like Boyz II Men, I'm on bended knee
+Loving you, not like your brother, ah yeah
+I want to be your lover
+
+
+I hear what you say
+I see what you do
+I know everything I need to know about you
+And I want you to know that it's telling me
+You wanna be my lover
+
+
+La da da dee da da, da da
+La da da dee da da, da da
+La da da dee da
+La da da da dee da
+La da dee da da da, da da
+
+
+Ah ha yeah hey, wanna be my lover
+Ah ha yeah hey, wanna be my lover
+Ah ha yeah hey, wanna be my lover
+Ah ha yeah hey, wanna be my lover, hey yeah
+
+Oh, be my lover, yeah
+Oh, be my lover
+I know you wanna be my lover
+I know you wanna be mine
+
+
+La da da dee da da, da da
+La da da dee da da, da da
+La da da dee da
+La da da da dee da
+La da dee da da da, da da
+
+La da da dee da da, da da
+La da da dee da da, da da
+La da da dee da
+La da da da dee da
+La da dee da da da, da da
+
+
+Ah ha yeah hey, wanna be my lover
+Ah ha yeah hey, wanna be my lover
+Ah ha yeah hey, wanna be my lover
+Ah ha yeah hey, oh be my lover, yeah

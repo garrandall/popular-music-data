@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-creed
+lyrics_url: https://genius.com/Creed-one-lyrics
 name: One
 rankings:
 - end_date: '1999-03-05'
@@ -87,4 +88,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-07-10'
 ---
+Affirmative may be justified
+Take from one, give to another
+The goal is to be unified
+Take my hand, be my brother
+The payment silenced the masses
+Sanctified by oppression
+Unity took a back seat
+Sliding further into regression
 
+
+One, oh, one, the only way is one
+One, oh, one, the only way is one
+
+
+I feel angry, I feel helpless
+Want to change the world, yeah
+I feel violent, I feel alone
+Don't try and change my mind, no
+
+
+Society, blind by color
+Why hold down one to raise another?
+Discrimination, now on both sides
+Seeds of hate blossom further
+The world is headed for mutiny
+When all we want is unity
+We may rise and fall
+But in the end, we'll meet our fate again, oh
+
+
+One, oh, one, the only way is one
+One, oh, one, the only way is one
+
+
+I feel angry, I feel helpless
+Want to change the world, yeah
+I feel violent, I feel alone
+Don't try and change my mind, no
+I feel angry, I feel helpless
+Want to change the world, yeah
+I feel violent, I feel alone
+Don't try and change my mind, no
+I feel angry, I feel helpless
+Want to change the world, yeah
+I feel violent, I feel alone
+Don't try and change my mind, no
+I feel angry, I feel helpless
+Want to change the world, yeah
+I feel violent, I feel alone
+Don't try and change my mind, no

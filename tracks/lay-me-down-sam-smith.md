@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lay-me-down-sam-smith
+lyrics_url: https://www.musixmatch.com/lyrics/Sam-Smith/Lay-Me-Down
 name: Lay Me Down
 rankings:
 - end_date: '2015-02-27'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-07-04'
 ---
+Yes, I do, I believe
+That one day I will be where I was
+Right there, right next to you
+And it's hard, the days just seem so dark
+The moon, the stars are nothing without you
 
+Your touch, your skin, where do I begin?
+No words can explain the way I'm missing you
+Deny this emptiness, this hole that I'm inside
+These tears, they tell their own story
+
+Told me not to cry when you were gone
+But the feeling's overwhelming
+It's much too strong
+
+Can I lay by your side?
+Next to you, you
+And make sure you're alright
+I'll take care of you
+I don't want to be here
+If I can't be with you tonight
+
+I'm reaching out to you
+Can you hear my call?
+This hurt that I've been through
+I'm missing you, missing you like crazy
+
+You told me not to cry when you were gone
+But the feeling's overwhelming
+It's much too strong
+
+Can I lay by your side?
+Next to you, you
+And make sure you're alright
+I'll take care of you
+I don't want to be here
+If I can't be with you tonight
+
+Lay me down tonight
+Lay me by your side
+Lay me down tonight
+Lay me by your side
+Can I lay by your side?
+Next to you
+You

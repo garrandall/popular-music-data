@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-the-story-goes-living-in-a-box
+lyrics_url: https://genius.com/Living-in-a-box-so-the-story-goes-lyrics
 name: So The Story Goes
 rankings:
 - end_date: '1987-10-23'
@@ -23,4 +24,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-11-07'
 ---
+Empty rooms without a view
+And empty space to see it through
+Blow by blow my first mistake
+Fast hearts begin to make
 
+You never said that you'd change your mind
+Never said you could
+You never said that you'd need me back
+If it's love you want
+Let the feeling go
+Follow your heart
+So the story goes
+If there's time for us
+Maybe heaven knows
+Love will return
+So the story goes
+I love you
+
+Moving clouds, fading grey
+Slid through, another day
+Passion runs, where passion kills
+Clouding up, those diamond towns
+
+You never said that you'd change your mind
+Never said you could
+You never said that you'd need me back
+If it's love you want
+Let the feeling go
+Follow your heart
+So the story goes
+If there's time for us
+Maybe heaven knows
+Love will return
+So the story goes
+I love you
+
+So the story goes
+
+You never said that you'd change your mind
+Never said you could
+You never said that you'd need me back
+If it's love you want
+Let the feeling go
+Follow your heart
+So the story goes
+If there's time for us
+Maybe heaven knows
+Love will return
+So the story goes
+I love you
+
+If it's love you want
+Let the feeling go
+That's how the story goes
+
+If it's love you want
+Let the feeling go
+That's how the story goes
+
+If it's love you want
+Let the feeling go
+That's how the story goes
+
+If it's love you want
+Let the feeling go
+How the story goes
+
+If it's love you want
+Let the feeling go
+How the story goes
+
+If it's love you want
+Let the feeling go
+If it's love you want

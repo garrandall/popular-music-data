@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-best-of-times-styx
+lyrics_url: https://genius.com/Styx-the-best-of-times-lyrics
 name: The Best Of Times
 rankings:
 - end_date: '1981-01-30'
@@ -83,4 +84,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-30'
 ---
-
+Tonight's the night we'll make history
+Honey, you and I
+And I'll take any risk to tie back the hands of time
+And stay with you here tonight
+I know you feel these are the worst of times
+I do believe it's true
+When people lock their doors and hide inside
+Rumor has it, it's the end of paradise
+But I know, if the world just passed us by
+Baby I know, I wouldn't have to cry, no no
+The best of times are when I'm alone with you
+Some rain some shine, we'll make this a world for two
+Our memories of yesterday will last a lifetime
+We'll take the best, forget the rest
+And someday we'll find
+These are the best of times
+These are the best of times
+The headlines read, "These are the worst of times"
+I do believe it's true
+I feel so helpless like a boat against the tide
+I wish the summer winds could bring back paradise
+But I know, if the world turned upside down
+Baby, I know you'd always be around, my my
+The best of times are when I'm alone with you
+Some rain some shine, we'll make this a world for two
+The best of times are when I'm alone with you
+Some rain some shine, we'll make this a world for two

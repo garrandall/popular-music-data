@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-cry-anymore-sheryl-crow
+lyrics_url: https://genius.com/Sheryl-crow-cant-cry-anymore-lyrics
 name: Can't Cry Anymore
 rankings:
 - end_date: '1995-07-14'
@@ -79,4 +80,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-11-04'
 ---
+Took your car
+Drove to Texas
+Sorry, honey
+But I suspected we were through
+And I can't cry anymore
+Since I left
+Been feeling better, cause
+That's what you get when you
+Stay together too long
+And I can't cry anymore
 
+
+Wouldn't it be good if
+We could hop a flight to anywhere?
+So long to this life
+So much for pretending
+Bad luck's never-ending
+And now I know that
+
+
+Money comes in
+But the fact is
+There's not enough to
+Pay my taxes
+And I can't cry anymore
+Well, got a brother
+He's got real problems
+Heroin - no
+There's just no stopping him tonight
+And I won't cry anymore
+
+
+Wouldn't it be good if
+We could hop a flight to anywhere?
+So long to this life
+So much for pretending
+Bad luck's never-ending
+And now I know that
+
+
+It's never ending
+
+
+It could be worse
+I could've missed my calling
+Sometimes it hurts
+But when you read the writing on the wall
+Can't cry anymore
+
+
+Wouldn't it be good if
+We could hop a flight to anywhere?
+So long to this life
+So much for pretending
+Bad luck's never-ending
+And now I know that
+
+
+And too much time I've been spending
+With my heart in my hands
+Waiting for time to come and mend it
+I can't cry anymore

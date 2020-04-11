@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-cry-guns-n--roses
+lyrics_url: https://genius.com/Guns-n-roses-dont-cry-lyrics
 name: Don't Cry
 rankings:
 - end_date: '1991-09-27'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-02-01'
 ---
+Talk to me softly, there's something in your eyes
+Don't hang your head in sorrow and please don't cry
+I know how you feel inside, I've, I've been there before
+Something is changing inside you and don't you know?
 
+
+Don't you cry tonight, I still love you, baby
+And don't you cry tonight
+Don't you cry tonight, there's a heaven above you, baby
+And don't you cry tonight
+
+
+Give me a whisper and give me a sigh
+Give me a kiss before you tell me goodbye
+Don't you take it so hard now and please don't take it so bad
+I'll still be thinking of you and the times we had, baby
+
+
+And don't you cry tonight
+Don't you cry tonight
+Don't you cry tonight, there's a heaven above you, baby
+And don't you cry tonight
+
+
+
+
+And please remember that I never lied, oh
+And please remember how I felt inside now, honey
+You gotta make it your own way but you'll be alright now, sugar
+You'll feel better tomorrow, come the morning light now, baby
+
+
+And don't you cry tonight
+Don't you cry tonight
+Don't you cry tonight, there's a heaven above you, baby
+And don't you cry
+Don't you ever cry
+Don't you cry tonight, baby, maybe someday
+Don't you cry, don't you ever cry
+Don't you cry tonight

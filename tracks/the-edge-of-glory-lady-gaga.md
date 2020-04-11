@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-edge-of-glory-lady-gaga
+lyrics_url: https://genius.com/Lady-gaga-the-edge-of-glory-lyrics
 name: The Edge Of Glory
 rankings:
 - end_date: '2011-06-03'
@@ -103,4 +104,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-11-05'
 ---
+There ain't no reason you and me should be alone
+Tonight, yeah, baby
+Tonight, yeah, baby
+But I got a reason that you-hoo should take me home tonight
+I need a man that thinks it right when it's so wrong
+Tonight, yeah, baby
+Tonight, yeah, baby
+Right on the limit's where we know we both belong, tonight
 
+
+It's hot to feel the rush
+To brush the dangerous
+I'm gonna run right to, to the edge with you
+Where we can both fall far in love
+
+
+I'm on the edge of glory
+And I'm hangin' on a moment of truth
+Out on the edge of glory
+And I'm hangin' on a moment with you
+I'm on the edge
+The edge, the edge, the edge
+The edge, the edge, the edge
+I'm on the edge of glory
+And I'm hangin' on a moment with you
+I'm on the edge with you
+
+
+Another shot, before we kiss the other side
+Tonight, yeah, baby
+Tonight, yeah, baby
+I'm on the edge of something final we call life, tonight
+(Alright! Alright!)
+Put on your shades, 'cause I'll be dancing in the flames
+Tonight, yeah, baby
+Tonight, yeah, baby
+It isn't hell if everybody knows my name, tonight
+(Alright! Alright!)
+
+
+It's hot to feel the rush
+To brush the dangerous
+I'm gonna run right to, to the edge with you
+Where we can both fall far in love
+
+
+I'm on the edge of glory
+And I'm hangin' on a moment of truth
+Out on the edge of glory
+And I'm hangin' on a moment with you
+I'm on the edge
+The edge, the edge, the edge
+The edge, the edge, the edge
+I'm on the edge of glory
+And I'm hangin' on a moment with you
+I'm on the edge with you
+I'm on the edge with you
+I'm on the edge with you
+
+
+
+
+I'm on the edge of glory
+And I'm hangin' on a moment of truth
+Out on the edge of glory
+And I'm hangin' on a moment with you
+I'm on the edge
+The edge, the edge, the edge
+The edge, the edge, the edge
+I'm on the edge of glory
+And I'm hangin' on a moment with you
+I'm on the edge with you, with you, with you, with you, with you
+I'm on the edge with you, with you, with you, with you, with you
+I'm on the edge with you, with you, with you, with you, with you
+I'm on the edge with you, with you, with you, with you, with you

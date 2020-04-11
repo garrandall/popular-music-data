@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: head-over-boots-jon-pardi
+lyrics_url: https://genius.com/Jon-pardi-head-over-boots-lyrics
 name: Head Over Boots
 rankings:
 - end_date: '2016-03-25'
@@ -103,4 +104,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-08-27'
 ---
+I wanna sweep you off your feet tonight
+I wanna love you and hold you tight
+Spin you around on some old dance floor
+Act like we never met before for fun
 
+
+'Cause you're the one I want
+You're the one I need
+Baby, if I was a king
+Ah, you would be my queen
+You're the rock in my roll
+You're good for my soul, it's true
+I'm head over boots for you
+
+
+The way you sparkle like a diamond ring
+Maybe one day we can make it a thing
+Test time and grow old together
+Rock in our chairs and talk about the weather, yeah
+So, bring it on in for that angel kiss
+Put that feel good on my lips, cause
+
+
+'Cause you're the one I want
+You're the one I need
+Baby, if I was a king
+Ah, you would be my queen
+You're the rock in my roll
+You're good for my soul, it's true
+I'm head over boots for you
+
+
+Yeah, I'm here to pick you up
+And I hope I don't let you down, no
+
+
+'Cause you're the one I want
+You're the one I need
+Baby, if I was a king
+Ah, you would be my queen
+You're the rock in my roll
+You're good for my soul, it's true
+I'm head over boots for you
+
+
+'Cause you're the one I want
+You're the one I need
+Baby, if I was a king
+Ah, you would be my queen
+You're the rock in my roll
+You're good for my soul, it's true
+I'm head over boots for you
+
+
+I wanna sweep you off your feet tonight
+I wanna love you and hold you tight
+Spin you around on some old dance floor

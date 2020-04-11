@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: double-dutch-bus-frankie-smith
+lyrics_url: https://genius.com/Frankie-smith-double-dutch-bus-lyrics
 name: Double Dutch Bus
 rankings:
 - end_date: '1981-05-22'
@@ -83,4 +84,94 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-09-19'
 ---
+FRANKIE: Gimme a "ho" if you got your funky bus fare
 
+KIDS: Ho! Ho! Ho!
+
+FRANKIE:
+There's a double dutch bus coming down the street
+Moving pretty fast so kinda shuffle your feet (shk-a-shk)
+Get on the bus, pay your fare
+Then tell the driver that you're going to a Double Dutch Affair
+Fe Fi Fo Fum
+Well I'll be darned, here it comes
+The Double Dutch Bus is on the street
+You'd better get off the curb, move your feet
+
+Bus fare trans-pass
+That's the way my money lasts
+Ain't got no car to get around
+When I go to work, I've gotta go downtown
+Now I've missed my train, that's a darn shame
+When I'm running late, no sleep's to blame
+If you've got a wife, you know I'm right
+You got a special man? Well, I can understand
+Uptown, downtown everybody's getting down
+Say uptown, say downtown
+Well, I missed my bus I know I'm late
+I gotta do something I know I hate
+I'm gonna walk to work fifteen blocks
+I already got a hole in my socks
+Go ahead and laugh that's okay
+Cause what I really wanna say
+I got bad feet my corns hurt
+To top it off I'm late for work
+Let me tell you what I say
+When I'm dealin' wit a funky sidewalk
+Let me show you how I walk
+When I gotta do my funky walk
+Let me tell you what I say
+When I'm dealing wit a funky sidewalk
+I say shhhhhhhhhhh-sugarrrrr
+
+BOY: Hizzey, gizzirls! Y'izzall hizzave t' mizzove izzout the wizzay sizzo the gizzuys can plizzay bizzasketbizzal
+
+GIRLS: Izzsay whizzat? Nizzo yizzou izzain't
+
+BOY: Y'izzall bizzetter mizzove!
+
+GIRLS: Izzsay whizzat? Willze illzain't millzovin'...
+
+BOY: Shillzu-gillza! Milzza nilzza bilzzaby!
+
+GIRLS: Willze illzare plizzayin' dizzouble dizzutch! Dizzouble dizzutch! Dizzouble dizzutch!
+Willze illzare plizzayin' dizzouble dizzutch! Dizzouble dizzutch! Dizzouble dizzutch!
+
+BOY: Millze gillzot sillzomebillzody plillzays dillzouble dillzzutch
+
+GIRL: Whozzo?
+
+BOY: My gizzirl!
+
+GIRL: Brillzing her izzin!
+
+BOY: Izzo kizzay!
+
+GIRL: Izzall rizzight...
+
+BOY: Izzo kizzay!
+
+GIRL: Izzall rizzight! Nizzow wilzee wilzill sillzee.
+
+FRANKIE:
+Bip, bomp, bam, alakazam
+But only if you're grooving with the Double Dutch Man
+Put on your skates, don't forget your rope
+Cause I know I'm gonna see you at my Double Dutch Show
+Rebecca, Lolita, Veshawn and Dawn
+Every time you do the Double Dutch you really turn it on
+Bilzarbra, Milzary, Bilzetty, Pilzam
+Tilzommy, Tilzerrance, Bilzobby that's my man
+Come on get on my Double Dutch Bus
+(The Double Dutch Bus)
+
+Let me hear you say do that
+(Do that)
+Let me hear you say do that again
+(Do that again)
+Let me hear you say do the do
+(Do the do)
+Let me hear you say do the do the do
+(Do the do the do)
+Do the do the do the do do do
+(Do the do the do the do do do)

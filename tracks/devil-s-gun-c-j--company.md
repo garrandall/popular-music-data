@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: devil-s-gun-c-j--company
+lyrics_url: https://genius.com/Cj-and-co-devils-gun-lyrics
 name: Devil's Gun
 rankings:
 - end_date: '1977-05-27'
@@ -124,4 +125,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-12-03'
 ---
+Fee fie, fo fum
+We're looking down the barrel of the devil's gun
+I said nowhere to run
+We've gotta make the stand against the devil's gun
+Fee fie, fo fum
+We're looking down the barrel of the devil's gun
+Nowhere to run
+We've gotta make the stand against the devil's gun
 
+
+Better make a move now (Well, well)
+You know there ain't no time to lose now
+Oh, well, his fingers on the trigger, he's waiting to deliver
+Can we ever figure out a way to make the people shout?
+
+
+Fee fie, fo fum
+We're looking down the barrel of the devil's gun
+Nowhere to run
+We've gotta make the stand against the devil's gun
+
+
+Find a new direction (Well, well, well)
+Another resurrection (Well, now)
+Don't wait, hesitate or it's gonna be too late
+Flames are getting higher, got to jump out of the fire!
+
+
+He's watching us burn, he's watching us burn
+One day we'll learn, one day we'll learn
+Fee fie, fo fum
+
+
+Fee fie, fo fum
+We're looking down the barrel of the devil's gun
+Nowhere to run
+We've gotta make the stand
+Against the devil's gun
+
+
+Find a new direction (Well, well, well)
+Another resurrection (Well, now)
+Don't wait, hesitate or it's gonna be too late
+Flames are getting higher, got to jump out of the fire!
+
+
+He's watching us burn, he's watching us burn
+One day we'll learn, one day we'll learn
+Fee fie, fo fum
+
+
+Fee fie, fo fum
+We're looking down the barrel of the devil's gun
+Nowhere to run
+We've gotta make the stand against the devil's gun
+
+Find a new direction (Well, well, well)
+Another resurrection (Well, now)
+Don't wait, hesitate or it's gonna be too late
+Flames are getting higher, got to jump out of the fire!
+
+
+He's watching us burn, he's watching us burn
+One day we'll learn, one day we'll learn
+Fee fie, fo fum (Yeah)
+
+
+Fee fie, fo fum
+We're looking down the barrel of the devil's gun
+Nowhere to run
+We've gotta make the stand against the devil's gun
+Fee fie, fo fum
+We're looking down the barrel of the devil's gun
+Nowhere to run
+We've gotta make the stand against the devil's gun
+Fee fie, fo fum
+We're looking down the barrel of the devil's gun
+Nowhere to run

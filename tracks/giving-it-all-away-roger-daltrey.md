@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: giving-it-all-away-roger-daltrey
+lyrics_url: https://genius.com/Roger-daltrey-giving-it-all-away-lyrics
 name: Giving It All Away
 rankings:
 - end_date: '1973-06-08'
@@ -35,4 +36,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-07-21'
 ---
+I paid all my dues so I picked up my shoes
+I got up and walked away
+Oh, I was just a boy
+I didn't know how to play
 
+Worked hard and failed
+Now all I can say is
+I threw it all away
+Oh, I was just a boy
+Giving it all away...
+
+Sail away, sail away
+Ooh, I know better now, I know better now
+Giving it all away
+
+Ooh, I know better now, I know better now
+I've given it all away...
+
+Went out in the world too much for my nerves
+Only myself to blame
+Oh, I was just a boy
+Nobody else to blame...
+
+I've done all I can, now it's out of my hands
+Stand on my head and say
+Oh, I was just a boy
+Giving it all away...
+
+Sail away, sail away
+Ooh, I know better now, I know better now
+Giving it all away
+
+Ooh, I know better now, I know better now
+Given it all away...
+
+Just a boy, giving it all away
+Just a boy, giving it all away
+I was just a boy, giving it all away
+Just a boy...

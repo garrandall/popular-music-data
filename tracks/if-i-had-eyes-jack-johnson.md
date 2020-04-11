@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-had-eyes-jack-johnson
+lyrics_url: https://genius.com/Jack-johnson-if-i-had-eyes-lyrics
 name: If I Had Eyes
 rankings:
 - end_date: '2008-01-04'
@@ -51,4 +52,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-03-29'
 ---
+If I had eyes in the back of my head
+I would have told you that
+You looked good
+As I walked away
 
+If you could have tried to trust the hand that fed
+You would've never been hungry
+But you never really be
+
+The more of this or less of this or is there any difference
+Or are we just holding onto the things we don't have anymore
+
+
+Sometimes time doesn't heal
+No, not at all
+Just stand still
+While we fall
+In or out of love again I doubt I'm going to win you back
+When you got eyes like that
+It won't let me in
+Always looking out
+
+
+
+
+Lot of people spend their time just floating
+We were victims together but lonely
+You got hungry eyes that just can't look forward
+Can't give them enough but we just can't start over
+
+Building with bent nails we're
+Falling but holding, I don't want to take up anymore of your time
+Time, time, time
+
+
+Sometimes time doesn't heal
+No, not at all
+Just stand still
+While we fall
+In or out of love again I doubt I'm going to win you back
+When you got eyes like that
+It won't let me in
+Always looking out
+
+
+Always looking
+Always looking
+Always looking
+Always looking out

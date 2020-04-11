@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: red-river-rock-johnny-and-the-hurricanes
+lyrics_url: https://genius.com/Johnny-and-the-hurricanes-red-river-rock-lyrics
 name: Red River Rock
 rankings:
 - end_date: '1959-08-09'
@@ -75,4 +76,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-23'
 ---
+Unknown
+Miscellaneous
+Paddy And The Whale
+PADDY AND THE WHALE
 
+Paddy O'Brian left Ireland in glee;
+He had a strong notion old England to see;
+He shipped in the Nellie, for England was bound
+And the whiskey he drank made his head go around
+
+Cho: Laddy whack, fol de dol, fol de rol I dee dee *
+
+O, Paddy been never sailing before;
+It made his heart ache when he heard the loud roar;
+For the glance of his eye, a whale he did spy:
+"I'm going to be ate," says Paddy,"by-and-by"
+
+O, Paddy run forward and caught hold of the mast
+He grasped his arms round and there he held fast
+The boat gave a tip, and, losing his grip
+Down in the whale's belly poor Paddy did slip
+
+He was down in the whale six months and five days
+Till luck one day to his throat he did pop
+The whale give a snort and then give a blow
+And out on the land poor Paddy did go
+
+O, Paddy is landed and safe on the shore;
+He swears that he 'll never go to sea any more
+The next time he wishes old England to see
+It will be when the railroad runs over the sea
+
+Note: Alternate chorus I've heard is:
+Caterwaulin', Tarpaulin', Harpoonin' and all
+Tune is another Derry Down variant RG
+From Ballads and Sea Songs of Newfoundland, Greenleaf
+Collected from John Edison, Fleur de Lys, 1929
+@sailor @fish
+Filename[ PADWHAL
+Play.exe DERRDWN2
+RG
+===DOCUMENT BOUNDARY===

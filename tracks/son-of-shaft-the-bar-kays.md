@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: son-of-shaft-the-bar-kays
+lyrics_url: https://genius.com/The-bar-kays-son-of-shaft-lyrics
 name: Son Of Shaft
 rankings:
 - end_date: '1971-12-31'
@@ -47,4 +48,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-02-26'
 ---
+I'm the son of a—(Shut your mouth!)
 
+Son of Shaft
+(Don't forget my daddy)
+Son of Shaft
+Son of Shaft
+
+I was born and raised
+And thrown in the street
+Had the problems of a man
+At the age of three
+
+My daddy was bad
+I've been told
+So my family name
+I must serve on
+
+I love by the clock
+And live by the gun
+If you ever met the father
+Assume you met the son, yeah
+
+Check now
+I'm the son of Shaft
+(Now you can believe that)
+Have trust on me

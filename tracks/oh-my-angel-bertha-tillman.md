@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh-my-angel-bertha-tillman
+lyrics_url: https://genius.com/Bertha-tillman-oh-my-angel-lyrics
 name: Oh My Angel
 rankings:
 - end_date: '1962-05-11'
@@ -43,4 +44,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-30'
 ---
+Oh, my angel
+Come back to me
+And I will love you
+Till eternity
 
+Oh, my angel
+This fire in my heart
+Concerns my happiness
+Since we are apart
+
+I have nothing to hope for
+I have nothing to cling to
+Life for me has no meaning, darling
+If I have to live it without you
+
+Oh, my angel
+Come back to me
+And I will love you
+Till eternity
+
+Oh, my angel

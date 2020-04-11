@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-happy-that-love-has-found-you-jimmy-hall
+lyrics_url: https://genius.com/Jimmy-hall-im-happy-that-love-has-found-you-lyrics
 name: I'm Happy That Love Has Found You
 rankings:
 - end_date: '1980-10-03'
@@ -75,4 +76,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-01-17'
 ---
+We could make it happen
+If we try a little harder
+I could tell by lookin
+There was love in your heart
 
+I could stay forever with you
+Right here where we started
+In this side of heaven
+That I found here in your arms
+
+'Cause you make me feel like someone new
+You make me feel so good
+You make me realize what your love could do
+I'm happy that love has found you
+
+Let it flow as the river runs wild
+I'm happy that love has found you
+Now I know this love will never run dry
+You keep setting fire
+
+To the soul that burns inside me
+I won't let you go until I fill you with its light
+We can make it happen if we try a little harder
+I could tell by lookin there was love in your heart
+
+
+'Cause you make me feel so wonderful
+You make me feel brand new
+You made my hopeless dreaming come true

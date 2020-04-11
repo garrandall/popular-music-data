@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-wait-deniece-williams
+lyrics_url: https://genius.com/Deniece-williams-i-cant-wait-lyrics
 name: I Can't Wait
 rankings:
 - end_date: '1988-09-30'
@@ -39,4 +40,103 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-11-12'
 ---
+Late in the morning
+The boss is throwin' his hands all in the air
+I'm given a warnin'
+He says I'm losin' my good position there
+But right now I don't care
 
+Tell you what I did this mornin'
+Tell you what I did last night
+Looked into my baby's eyes
+And kissed and hugged and held him tight
+
+And I can't wait
+To spend another lazy night
+In my baby's arms
+I tell you that I can't help it
+I just can't help it
+
+I can't wait
+To spend another lazy night
+In my baby's arms
+I tell you that I can't help it
+I just can't help it
+
+
+Ooh, to be in my baby's arms
+
+Gotta be right here where I belong
+
+It's late in the evening
+You know they're jamming' at parties all around, and oh...
+Rockin' and a-reelin'
+And all of my friends are goin' out to paint the town
+But I won't be around
+
+Baby's gonna be right over
+Told me that he won't be long
+Got to light a candle up
+And be right here where I belong
+
+'Cause I can't wait
+To spend another lazy night
+In my baby's arms, uh-huh
+I tell you that I can't help it
+I just can't help it
+
+I tell you that I can't wait
+To spend another lazy night
+In my baby's arms, ooh, ooh
+I tell you that I can't help it
+I just can't help it
+
+
+Ooh, to be in my baby's arms
+
+To be right here where I belong
+
+Baby's gonna be right over
+Told me that he won't be long
+Got to light a candle up
+And be right here where I belong
+
+'Cause I can't wait
+To spend another lazy night
+In my baby's arms, yeah, yeah
+I tell you that I can't help it
+I just can't help it
+
+I tell you that I can't wait
+To spend another lazy night
+In my baby's arms, yeah
+I tell you that I can't help it
+I just can't help it
+
+I can't seem to help myself, oh, no
+Never, never, never, never, never
+No, no, baby
+
+ Uh-huh
+ No, I can't wait here
+For those crazy nights, ah...
+
+I can't wait (Baby)
+To spend another lazy night (Oh, no)
+In my baby's arms, oh, yeah
+I tell you that I can't help it
+I just can't help it
+
+I tell you that I can't wait (Yeah)
+To spend another lazy night
+Gonna be in my baby's arms, uh-huh
+I tell you that I can't help it
+I just can't help it
+
+I tell you that I can't seem to wait
+To spend another lazy night (Oh, no)
+In my baby's arms, uh-huh
+I tell you that I can't help it
+I just can't help it
+
+I tell that you I can't wait, no, no, no

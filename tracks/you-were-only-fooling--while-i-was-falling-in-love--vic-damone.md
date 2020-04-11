@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-were-only-fooling--while-i-was-falling-in-love--vic-damone
+lyrics_url: https://genius.com/Vic-damone-you-were-only-fooling-while-i-was-falling-in-love-lyrics
 name: You Were Only Fooling (While I Was Falling In Love)
 rankings:
 - end_date: '1965-04-23'
@@ -47,4 +48,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
 ---
+You were only fooling
+While I was falling in love
+It's a story as old as Adam and Eve
+I was making love
+But you were making believe
+You lied to me with kisses
+That I was once dreaming of
+You were only fooling, dear
+While I was falling in love
 
+You were only fooling
+While I was falling in love
+It's a story as old as Adam and Eve
+I was making love
+But you were making believe
+You lied to me with kisses
+That I was once dreaming of
+You were only fooling, dear
+While I was falling in love

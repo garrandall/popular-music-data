@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: funny-how-time-slips-away-dorothy-moore
+lyrics_url: https://genius.com/Dorothy-moore-funny-how-time-slips-away-lyrics
 name: Funny How Time Slips Away
 rankings:
 - end_date: '1976-07-30'
@@ -51,4 +52,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-10-02'
 ---
+Well, hello there
+My it's been a long long time
+How am I doin'?
+You really want to know?
+Oh I guess I'm doin' fine
+It's been so long now
+Since I've seen you
+But it seems like yesterday
+Ain't it funny how time slips right on away
 
+
+Ooh, how's your new love
+Oh, I guess she's doing fine
+I heard you told her
+That you were gonna love her 'til the end of time
+Well that's the same thing that you told me
+And it seems like yesterday
+Ain't it funny how time slips right on away
+
+
+Ooh, gotta go now
+Oh I guess I'll see you somewhere around
+I don't know when though
+I'll never know when I'm back in town
+
+
+But please remember what I told you
+In time you are gonna say
+Ain't it funny how time slips right on away
+Yeah, yeah
+Ain't it funny, ain't it funny, yeah, slips right on away

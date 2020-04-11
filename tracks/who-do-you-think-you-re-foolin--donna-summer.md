@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-do-you-think-you-re-foolin--donna-summer
+lyrics_url: https://genius.com/Donna-summer-who-do-you-think-youre-foolin-lyrics
 name: Who Do You Think You're Foolin'
 rankings:
 - end_date: '1981-02-27'
@@ -51,4 +52,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-02'
 ---
+You made it to the bright lights
+You only come alive at night
+You're one of the sights
 
+You hang out with those big names
+A rising star out on the gain
+
+That's the price of your fame
+
+(Fame is only a dream land away)
+
+Who do you think you're foolin'
+(you're foolin')
+Who do you think you are
+Who do you think you're foolin'
+You're a star, you're a star
+Who do you think you're foolin'
+(you're foolin')
+Who do you think you are
+Who do you think you're foolin'
+You're a star, such a star, you're a star?
+
+You're halfway up the ladder
+Or are you really halfway down
+You never know in this town
+But you swear you're gonna make it
+And you don't care how you fake your life
+You're gonna make it alright
+
+(Fame is only a dream world away)
+
+Who do you think you're foolin'
+(you're foolin')
+Who do you think you are
+Who do you think you're foolin'
+You're a star, you're a star
+Who do you think you're foolin'
+(you're foolin')
+Who do you think you are
+Who do you think you're foolin'
+You're a star, such a star, you're a star?
+
+Fame is only a dream world away
+Fame is only a dream world away
+
+Who do you think you're foolin'
+(you're foolin')
+Who do you think you are
+Who do you think you're foolin'
+You're a star, you're a star
+Who do you think you're foolin'
+(you're foolin')
+Who do you think you are
+Who do you think you're foolin'
+You're a star, such a star, you're a star?

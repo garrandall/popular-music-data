@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: soul-finger-bar-kays
+lyrics_url: https://genius.com/The-bar-kays-soul-finger-lyrics
 name: Soul Finger
 rankings:
 - end_date: '1967-05-26'
@@ -67,4 +68,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
 ---
+Soulfinger!
+Soulfinger!
+Soulfinger!
 
+Soulfinger!
+Soulfinger!
+Soulfinger!
+
+Soulfinger!
+Soulfinger!
+Soulfinger!
+Soulfinger!
+Soulfinger!
+Soulfinger!

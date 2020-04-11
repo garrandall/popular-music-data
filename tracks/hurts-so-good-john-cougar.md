@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hurts-so-good-john-cougar
+lyrics_url: https://www.musixmatch.com/lyrics/John-Cougar/Hurts-So-Good
 name: Hurts So Good
 rankings:
 - end_date: '1982-04-30'
@@ -119,4 +120,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-10-30'
 ---
+When I was a young boy
+Said put away those young boy ways
+Now that I'm gettin' older, so much older
+I love all those young boy days.
+With a girl like you
+With a girl like you
+Lord knows there are things we can do, baby
+Just me and you.
+Come on and make it
 
+Hurt so good.
+Come on baby, make it hurt so good.
+Sometimes love don't feel like it should.
+You make it hurt so good.
+
+Don't have to be so exiting.
+Just tryin' to give myself a little bit of fun, yeah.
+You always look so invitin'
+You ain't as green as you are young
+Hey baby, its you.
+Come on, girl, now, its you.
+Sink your teeth right through my bones, baby.
+Let's see what we can do.
+Come on and make it
+
+Hurt so good.
+Come on baby, make it hurt so good.
+Sometimes love don't feel like it should.
+You make it hurt so good.
+
+I ain't talkin' no big deals
+I ain't made no plans myself.
+I ain't talkin' no high heels
+Maybe we could walk around all day long
+Walk around all day long.
+
+Hurt so good.
+Come on baby, make it hurt so good.
+Sometimes love don't feel like it should.
+You make it hurt so good.
+Hurt so good.
+Come on baby, make it hurt so good.
+Sometimes love don't feel like it should.
+You make it hurt so good.
+Hey, hey

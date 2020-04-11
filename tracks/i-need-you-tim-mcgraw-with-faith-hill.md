@@ -1,9 +1,11 @@
 ---
 artists:
-- Tim McGraw With Faith Hill
-features: []
+- Tim McGraw
+features:
+- Faith Hill
 genres: []
 key: i-need-you-tim-mcgraw-with-faith-hill
+lyrics_url: https://genius.com/Tim-mcgraw-i-need-you-lyrics
 name: I Need You
 rankings:
 - end_date: '2007-06-08'
@@ -71,4 +73,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-09-15'
 ---
+I want to drink that shot of whiskey
+I want to smoke that cigarette
+I want to smell that sweet addiction on my breath
+I want to ride across West Virginia in the backseat of a Cadillac
+You know some cowboys like me go out like that
+So I need you
 
+
+Like a needle needs a vein
+Like my Uncle Joe in Oklahoma needs a rain
+I need you like a lighthouse on the coast
+Like the father and the son meet the holy ghost
+I need you
+
+
+I want to get lost in some corner booth
+Cantina Mexico
+I want to dance to the static of an a.m. radio
+I want to wrap the moon around us and lay beside you skin on skin
+Make love 'til the sun comes up til the sun goes down again
+'Cause I need you
+
+
+Like a needle needs a vein
+Like my Uncle Joe in Oklahoma needs a rain
+I need you like a lighthouse on the coast
+Like the father and the son meet the holy ghost
+I need you
+Oh, I need you
+
+
+I want to drink that shot of whiskey
+I want to smoke that cigarette
+You know some cowboys like me go out like that
+So I need you, oh, I need you
+I need you, I need you, I need you, I need you
+
+
+Oh, I need you, I need you
+I need you, I need you
+I need you, I need you, I need you, too

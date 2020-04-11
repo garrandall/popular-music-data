@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-only-love-tommy-james-and-the-shondells
+lyrics_url: https://genius.com/Tommy-james-and-the-shondells-its-only-love-lyrics
 name: It's Only Love
 rankings:
 - end_date: '1966-11-11'
@@ -43,4 +44,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-31'
 ---
+You can't laugh
+You can't cry
+You're acting kinda funny and you don't know why
+Cause your heart keeps beating like a big, bass drum
+And the beat's getting stronger and it's so much fun
+And you keep on singing but the words are wrong
+And you can't stop laughing, baby, what's going on?
 
+It's only love trying to get through
+It's only love trying to get through
+It's only love trying to get through
+
+You can't run
+You can't hide
+No matter what you do you're on a ten-cent ride
+Going up, down, baby, and it's so much fun
+And your heart keeps beating like a big, bass drum
+And the beat's getting stronger and it just won't quit
+Better hold on, baby, cause you know that it's
+
+It's only love trying to get through
+It's only love trying to get through
+It's only love trying to get through
+
+It's only love trying to get through
+It's only love trying to get through
+It's only love trying to get through
+It's only love trying to get through
+It's only love trying to get through
+It's only love trying to get through
+It's only love trying to get through
+It's only love trying to get through
+It's only love trying to get through
+It's only love trying to get through

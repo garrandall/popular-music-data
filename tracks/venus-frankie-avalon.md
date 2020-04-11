@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: venus-frankie-avalon
+lyrics_url: https://genius.com/Frankie-avalon-venus-lyrics
 name: Venus
 rankings:
 - end_date: '1959-02-15'
@@ -119,4 +120,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-04-03'
 ---
+Hey, Venus!
+Oh, Venus!
 
+Venus, if you will
+Please send a little girl for me to thrill
+A girl who wants my kisses and my arms
+A girl with all the charms of you
+
+Venus, make her fair
+A lovely girl with sunlight in her hair
+And take the brightest stars up in the skies
+And place them in her eyes for me
+
+Venus, goddess of love that you are
+Surely the things I ask
+Can't be too great a task
+
+Venus, if you do
+I promise that I always will be true
+I'll give her all the love I have to give
+As long as we both shall live
+
+Venus, goddess of love that you are
+Surely the things I ask
+Can't be too great a task
+
+Venus, if you do
+I promise that I always will be true
+I'll give her all the love I have to give
+As long as we both shall live
+
+Hey, Venus!
+Oh, Venus!
+Make my wish come true

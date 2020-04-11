@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: personal-jesus-depeche-mode
+lyrics_url: https://genius.com/Depeche-mode-personal-jesus-lyrics
 name: Personal Jesus
 rankings:
 - end_date: '1989-12-15'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
 ---
+Reach out and touch faith
 
+
+Your own personal Jesus
+Someone to hear your prayers
+Someone who cares
+Your own personal Jesus
+Someone to hear your prayers
+Someone who's there
+
+
+Feeling unknown and you're all alone
+Flesh and bone by the telephone
+Lift up the receiver, I'll make you a believer
+Take second best, put me to the test
+Things on your chest you need to confess
+I will deliver, you know I'm a forgiver
+
+
+Reach out and touch faith
+Reach out and touch faith
+
+
+Your own personal Jesus
+Someone to hear your prayers
+Someone who cares
+Your own personal Jesus
+Someone to hear your prayers
+Someone who's there
+
+
+
+
+Feeling unknown and you're all alone
+Flesh and bone by the telephone
+Lift up the receiver, I'll make you a believer
+I will deliver, you know I'm a forgiver
+
+
+Reach out and touch faith
+Your own personal Jesus
+Reach out and touch faith
+Reach out and touch faith
+Reach out and touch faith
+
+
+
+
+Reach out and touch faith
+Reach out and touch faith
+(Reach out, reach out)
+Reach out and touch faith

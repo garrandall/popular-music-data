@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whisper-to-a-scream--birds-fly--icicle-works
+lyrics_url: https://genius.com/The-icicle-works-birds-fly-whisper-to-a-scream-lyrics
 name: Whisper To A Scream (Birds Fly)
 rankings:
 - end_date: '1984-04-27'
@@ -55,4 +56,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-07-07'
 ---
+Some things take forever
+But with building bricks of trust and love
+Mountains can be moved
 
+Love come, down upon us 'til you flow like water
+Burning, with the hope of insight
+Feathered, look they're covered with a bright elation
+Stolen, in the sight of love
+
+We are, we are, we are but your children
+Finding our way around indecision
+We are, we are, we are ever helpless
+Take us forever, a whisper to a scream
+
+Birds fly, in the eye of the faithless daughter
+Broken, at the bitter end
+Wasted, sacrifice for a new nirvana
+Night time, sends us on our way
+
+We are, we are, we are but your children
+Finding our way around indecision
+We are, we are, we are ever helpless
+Take us forever, a whisper to a scream
+
+A whisper to a scream
+A whisper to a scream
+A whisper to a scream
+A whisper to a scream
+
+We are, we are, we are but your children
+Finding our way around indecision
+We are, we are, we are ever helpless
+Take us forever, a whisper to a scream
+
+We are, we are, we are but your children
+Finding our way around indecision
+We are, we are, we are ever helpless
+Take us forever, a whisper to a scream
+
+We are, we are, we are but your children
+Finding our way around indecision
+We are, we are, we are ever helpless
+Take us forever, a whisper to a scream
+
+We are, we are, we are but your children
+Finding our way around indecision
+We are, we are, we are ever helpless
+Take us forever, a whisper to a scream

@@ -5,6 +5,7 @@ features:
 - Frankie Beverly
 genres: []
 key: while-i-m-alone-maze-frankie-beverly
+lyrics_url: https://genius.com/Maze-featuring-frankie-beverly-while-im-alone-lyrics
 name: While I'm Alone
 rankings:
 - end_date: '1977-06-03'
@@ -52,4 +53,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-08-06'
 ---
+Doo Doo Doo Doo..Doo
+Doo Doo Doo Doo..Doo Doo..Doo Doo..Doo
+Doo Doo Doo Doo..Doo
+Doo Doo Doo Doo..Doo Doo..Doo Doo..Doo
+Doo Doo Doo Doo..Doo
+Doo Doo Doo Doo..Doo Baby, Don't You, Want Me, Love You
+Baby Baby Baby Baby Babe
 
+Lahhhhh
+Lah Dah Dah Dah Dah..Dah
+Lah Dah Dah Dah Dah
+
+I Guess The Weekend's Over Now, And You'll Have To Make Your
+Way (Have To Make Your Way)
+We Had A Ball Of Dynomite, Right From The First Day (From The
+First Day)
+You Tell Me That You'll Call Me Just As Soon As You Get Home
+To Pacify My Heart While I'm Alone
+I Don't Like Bein' Alone
+
+The Things We Did This Time My Love, We've Never Done Before
+(Never Done Before)
+You've Made Some Changes In My Head, I Don't Feel The Same
+No More (Feel The Same No More)
+Tell Me It's Not Make Believe, This Feeling That You've Shown
+To Comfort Me My Love While I'm Alone
+I Don't Like Bein' Alone
+
+Doo Doo Doo
+Doo Doo
+Doo Doo Doo
+Doo Doo
+
+Doo Doo Doo
+Doo Doo
+Doo Doo Doo
+Doo Doo
+
+Just Think The Times You Left Before, And Me Burnin' Up Inside
+(Burnin' Up Inside)
+Somethin' I Can't See No More, Not From My Foolish Pride (From
+My Foolish Pride)
+Please Be With Me Honey, All The Times When You're Not Home
+To Pacify My Heart While I'm Alone
+I Don't Like Bein' Alone
+
+Hey Hey I Don't Like It
+Bein' Alone
+I Can't Stand It
+Bein' Alone
+Aw Baby
+Aw Baby Babe Baby
+Hey-E-Ay-E-Ay-E-Ay-E-Ay-E-Ay-E-Hey..Lah..Lah
+Doo Doo Doo
+Doo Doo
+Alright Now, Baby
+Ooh, I Miss You, Baby
+All The Time, You Know I Don't Like Bein' All Alone, Baby
+Oohhhhh
+Baby Baby...

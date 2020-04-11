@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-little-bit-of-heaven-ronnie-dove
+lyrics_url: https://genius.com/Ronnie-dove-a-little-bit-of-heaven-lyrics
 name: A Little Bit Of Heaven
 rankings:
 - end_date: '1965-06-11'
@@ -47,4 +48,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-08-07'
 ---
+(CHORUS)
+Got a little bit of Heaven
+In this lonely world
+Got a little bit of Heaven on Earth
+When I'm with my girl
 
+When shadows fall
+She's waiting just for me
+To kiss her lips and
+Love her tenderly
+
+I'm such a lucky guy
+I found a little angel
+Such a lucky guy cause I
+
+(CHORUS)
+I got the stars
+Oh, they're all in her eyes
+She speaks my name
+And I'm in paradise
+
+I'm such a lucky guy
+I found a little angel
+Such a lucky guy cause I
+
+(CHORUS)
+Got a little bit of Heaven
+In this lonely world...

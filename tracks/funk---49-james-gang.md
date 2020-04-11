@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: funk---49-james-gang
+lyrics_url: https://genius.com/James-gang-band-funk-49-lyrics
 name: 'Funk # 49'
 rankings:
 - end_date: '1970-09-04'
@@ -47,4 +48,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-31'
 ---
+I sleep all day, out all night
+I know where you're goin'
+I don't think that's a-actin' right
+You don't think it's showin'
 
+
+
+
+A-jumpin' up, fallin' down
+Don't misunderstand me
+You don't think that I know your plan
+What you tryin' to hand me?
+
+
+
+
+Out all night, sleep all day
+I know what you're doin'
+If you're gonna a-act that way
+I think there's trouble brewin'

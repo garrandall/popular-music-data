@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: poetry-in-motion-johnny-tillotson
+lyrics_url: https://genius.com/Johnny-tillotson-poetry-in-motion-lyrics
 name: Poetry In Motion
 rankings:
 - end_date: '1960-10-16'
@@ -67,4 +68,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-16'
 ---
+When I see my baby, what do I see
+Poetry, poetry in motion
 
+Poetry in motion, walkin' by my side
+Her lovely locomotion keeps my eyes open wide
+Poetry in motion, see her gentle sway
+A wave out on the ocean could never move that way
+
+I love every movement
+There’s nothing I would change
+She doesn't need improvement
+She's much too nice to rearrange
+
+Poetry in motion, dancing close to me
+A flower of devotion a-swaying gracefully
+
+Oh, a-whoa, whoa, whoa, whoa, whoa
+A-whoa, whoa, whoa, whoa, whoa
+A-whoa, whoa, whoa, whoa, whoa
+Whoa
+
+Poetry in motion, see her gentle sway
+A wave out on the ocean could never move that way
+
+I love every movement
+There’s nothing I would change
+She doesn't need improvement
+She's much too nice to rearrange
+
+Poetry in motion, all that I adore
+No number nine love potion could make me love her more
+
+Oh, a-whoa, whoa, whoa, whoa, whoa
+A-whoa, whoa, whoa, whoa, whoa
+A-whoa, whoa, whoa, whoa, whoa
+A-whoa, whoa, whoa, whoa, whoa

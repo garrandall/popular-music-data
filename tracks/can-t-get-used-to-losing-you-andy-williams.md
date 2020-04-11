@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-get-used-to-losing-you-andy-williams
+lyrics_url: https://genius.com/Andy-williams-cant-get-used-to-losing-you-lyrics
 name: Can't Get Used To Losing You
 rankings:
 - end_date: '1963-03-08'
@@ -67,4 +68,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-08'
 ---
+Guess there's no use in hangin' 'round
+Guess I'll get dressed and do the town
+I'll find some crowded avenue
+Though it will be empty without you
 
+Can't get used to losin' you
+No matter what I try to do
+Gonna live my whole life through
+Loving you
+
+Called up some girl I used to know
+After I heard her say "Hello"
+Couldn't think of anything to say
+Since you're gone it happens every day
+
+Can't get used to losin' you
+No matter what I try to do
+Gonna live my whole life through
+Loving you
+
+I'll find somebody, wait and see
+Who am I kiddin', only me
+'Cause no one else could take your place
+Guess that I am just a hopeless case
+
+Can't get used to losin' you
+No matter what I try to do
+Gonna live my whole life through
+Loving you
+
+I can't get used to losin' you
+No matter what I try to do
+Gonna live my whole life through
+Loving you

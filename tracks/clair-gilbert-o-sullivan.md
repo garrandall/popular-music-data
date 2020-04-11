@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: clair-gilbert-o-sullivan
+lyrics_url: https://genius.com/Gilbert-osullivan-clair-lyrics
 name: Clair
 rankings:
 - end_date: '1972-11-03'
@@ -71,4 +72,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
 ---
+Clair, the moment I met you, I swear
+I felt as if something, somewhere
+Had happened to me, which I couldn't see
+And then, the moment I met you, again
+I knew in my heart that we were friends
+It had to be so, it couldn't be, No
 
+But try as hard as I might do, I don't know why
+You get to me in a way I can't describe
+Words mean so little when you look up and smile
+I don't care what people say
+To me you're more than a child
+
+Oh, Clair
+Clair
+
+Clair, if ever a moment so rare
+Was captured for all to compare
+That moment is you in all that you do
+But why in spite of our age difference do I cry
+Each time I leave you I feel I could die
+Nothing means more to me than hearing you say
+"I'm going to marry you
+Will you marry me, Uncle Ray"
+
+Oh, Clair
+Clair
+
+Clair, I've told you before "Don't you dare"
+"Get back into bed"
+"Can't you see that it's late"
+"No you can't have a drink"
+"Oh, alright then, but wait just a minute"
+
+While I, in an effort to babysit, catch up my breath
+What there is left of it
+You can be murder at this hour of the day
+But in the morning this hour will seem a lifetime away
+Oh Clair
+Clair
+Oh Clair

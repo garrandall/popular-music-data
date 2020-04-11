@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walking-to-new-orleans-fats-domino
+lyrics_url: https://genius.com/Fats-domino-walking-to-new-orleans-lyrics
 name: Walking To New Orleans
 rankings:
 - end_date: '1960-06-26'
@@ -63,4 +64,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-09-19'
 ---
+It's time I'm walkin' to New Orleans
+I'm walkin' to New Orleans
+I'm going to need two pair of shoes
+When I get through walkin' these blues
+When I get back to New Orleans
 
+I've got my suitcase in my hand
+Now, ain't that a shame
+I'm leavin' here today
+Yes, I'm goin' back home to stay
+Yes, I'm walkin' to New Orleans
+
+You used to be my honey
+Till you spent all my money
+No use for you to cry
+I'll see you bye and bye
+Cause I'm walkin' to New Orleans
+
+I've got no time for talkin'
+I've got to keep on walkin'
+New Orleans is my home
+That's the reason why I'm goin'
+Yes, I'm walkin' to New Orleans
+
+I'm walkin' to New Orleans
+I'm walkin' to New Orleans
+I'm walkin' to New Orleans

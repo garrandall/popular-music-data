@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: silent-running--on-dangerous-ground--mike---the-mechanics
+lyrics_url: https://genius.com/Mike-the-mechanics-silent-running-lyrics
 name: Silent Running (On Dangerous Ground)
 rankings:
 - end_date: '1985-11-29'
@@ -103,4 +104,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-03'
 ---
+Take the children and yourself
+And hide out in the cellar
+By now the fighting will be close at hand
+Don't believe the church and state
+And everything they tell you
+Believe in me, I'm with the high command
 
+
+Can you hear me, can you hear me running?
+Can you hear me running, can you hear me calling you?
+Can you hear me, can you hear me running?
+Can you hear me running, can you hear me calling you?
+
+
+There's a gun and ammunition
+Just inside the doorway
+Use it only in emergency
+Better you should pray to God
+The Father and the Spirit
+Will guide you and protect from up here
+
+
+Can you hear me, can you hear me running?
+Can you hear me running, can you hear me calling you?
+Can you hear me, can you hear me running?
+Can you hear me running, can you hear me calling you?
+
+
+Swear allegiance to the flag
+Whatever flag they offer
+Never hint at what you really feel
+Teach the children quietly
+For some day sons and daughters
+Will rise up and fight while we stood still
+
+
+Can you hear me, can you hear me running?
+Can you hear me running, can you hear me calling you?
+Can you hear me, can you hear me running?
+Can you hear me running, can you hear me calling you?
+
+Can you hear me running (can you hear me calling you?)
+(Can you hear me) hear me calling you?
+(Can you hear me running) hear me running babe?
+(Can you hear me running) hear me running?
+Calling you, calling you

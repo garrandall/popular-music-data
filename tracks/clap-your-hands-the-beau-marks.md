@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: clap-your-hands-the-beau-marks
+lyrics_url: https://genius.com/The-beau-marks-clap-your-hands-lyrics
 name: Clap Your Hands
 rankings:
 - end_date: '1960-05-22'
@@ -63,4 +64,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-15'
 ---
-
+Oh, clap your hands, clap your hands
+Oh, clap your hands if you can
+You've got the rhythm in your feet
+Now clap your hands to get the beat
+Clap your hands, clap your hands
+You've danced the Bop and done the Stroll
+The Conga-rock is getting old
+Now clap your hands right through the dance
+The beat will put you in a trance
+Clap your hands, clap your hands
+Now gather 'round and listen close
+This is the dance that is the most
+Oh, face-to-face you gotta stand
+And get the big beat from the band
+Clap your hands, clap your hands
+You've got the beat, you're in the groove
+Now grab your chick and start to move
+This isn't just-a rock 'n' roll
+This is a dance for young and old
+Clap your hands, clap your hands
+Don't go away
+Let's get together once again
+This is the way to make a friend
+Oh, if you're ever feelin' blue
+This is advice I give to you
+Clap your hands, clap your hands

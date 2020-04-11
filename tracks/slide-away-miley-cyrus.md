@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: slide-away-miley-cyrus
+lyrics_url: https://genius.com/Miley-cyrus-slide-away-lyrics
 name: Slide Away
 rankings:
 - end_date: '2019-09-06'
@@ -31,4 +32,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-10-05'
 ---
+Woo-ooh, woo-ooh, woo-ooh
+Woo-ooh, woo-ooh, woo-ooh
 
+
+Once upon a time, it was paradise
+Once upon a time, I was paralyzed
+Think I'm gonna miss these harbor lights
+But it's time to let it go
+Once upon a time, it was made for us
+Woke up one day, it had turned to dust
+Baby, we were found, but now we're lost
+So it's time to let it go
+
+
+I want my house in the hills
+Don't want the whiskey and pills
+I don't give up easily
+But I don't think I'm down
+
+
+So won't you slide away?
+Back to the ocean, I'll go back to the city lights
+So won't you slide away?
+Back to the ocean, la-la-la, you'll slide away
+So won't you slide away?
+Back to the ocean, I'll go back to the city lights
+So won't you slide away?
+Back to the ocean, la-la-la, you'll slide away
+
+
+Once upon a time, it was paradise
+Once upon a time, I was paralyzed
+Think I'm gonna miss these harbor lights
+But it's time to let it go
+Once upon a time, it was made for us (For us)
+Woke up one day, it had turned to dust
+Baby, we were found, but now we're lost
+So it's time to let it go
+
+
+Move on, we're not seventeen
+I'm not who I used to be
+You say that everything changed
+You're right, we're grown now
+
+
+So won't you slide away?
+Back to the ocean, I'll go back to the city lights
+So won't you slide away?
+Back to the ocean, la-la-la, you'll slide away
+So won't you slide away?
+Back to the ocean, I'll go back to the city lights
+So won't you slide away?
+Back to the ocean, la-la-la, you'll slide away
+
+
+Move on, we're not seventeen
+I'm not who I used to be
+You say that everything changed
+You're right, we're grown now

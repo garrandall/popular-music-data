@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: light-my-fire-the-doors
+lyrics_url: https://genius.com/The-doors-light-my-fire-lyrics
 name: Light My Fire
 rankings:
 - end_date: '1967-06-09'
@@ -99,4 +100,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-10-05'
 ---
+You know that it would be untrue
+You know that I would be a liar
+If I was to say to you
+Girl, we couldn't get much higher
 
+
+Come on baby, light my fire
+Come on baby, light my fire
+Try to set the night on fire
+
+
+The time to hesitate is through
+No time to wallow in the mire
+Try now we can only lose
+And our love become a funeral pyre
+
+
+Come on baby, light my fire
+Come on baby, light my fire
+Try to set the night on fire
+Yeah...
+
+
+
+
+The time to hesitate is through
+No time to wallow in the mire
+Try now we can only lose
+And our love become a funeral pyre
+
+
+Come on baby, light my fire
+Come on baby, light my fire
+Try to set the night on fire
+Yeah
+
+
+You know that it would be untrue
+You know that I would be a liar
+If I was to say to you
+Girl, we couldn't get much higher
+
+
+Come on baby, light my fire
+Come on baby, light my fire
+Try to set the night on fire
+Try to set the night on fire
+Try to set the night on fire
+Try to set the night on fire

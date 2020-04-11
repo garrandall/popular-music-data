@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: vado-via-drupi
+lyrics_url: https://genius.com/Drupi-vado-via-lyrics
 name: Vado Via
 rankings:
 - end_date: '1973-11-09'
@@ -23,4 +24,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-24'
 ---
+Vado, questa volta ho deciso che vado
+Ma perché non me l'hai detto tu
+Di non poterne più?
 
+Dentro a quel mezzo sorriso un po' spento
+Ho scoperto i difetti che hai
+Ma come avrò potuto amarti mai?
+
+Giuro che vado via
+Casa tua più non c'è
+
+È meglio se
+Io ti lascio, adesso che posso, ti lascio
+Non son più quel ragazzo che sai
+Ma come avrò potuto amarti mai?
+
+Giuro che vado via
+Casa tua più non c'è
+È meglio se...
+
+Tremo sul confine di un mondo sereno
+Il mio viaggio finisce con te
+Ma come avrò potuto amare te?
+
+Giuro che vado via
+Casa tua più non c'è
+
+È meglio se
+Io ti lascio, adesso che posso, ti lascio...
+Adesso che posso, ti lascio

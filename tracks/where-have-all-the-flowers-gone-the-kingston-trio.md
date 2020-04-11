@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-have-all-the-flowers-gone-the-kingston-trio
+lyrics_url: https://genius.com/Kingston-trio-where-have-all-the-flowers-gone-lyrics
 name: Where Have All The Flowers Gone
 rankings:
 - end_date: '1962-01-26'
@@ -63,4 +64,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-04-21'
 ---
+Where have all the flowers gone?
+Long time passing
+Where have all the flowers gone?
+Long time ago
+Where have all the flowers gone?
+Young girls picked them, every one
+When will they ever learn?
+When will they ever learn?
 
+Where have all the young girls gone?
+Long time passing
+Where have all the young girls gone?
+Long time ago
+Where have all the young girls gone?
+Gone to young men, every one
+When will they ever learn?
+When will they ever learn?
+
+Where have all the young men gone?
+Long time passing
+Where have all the young men gone?
+Long time ago
+Where have all the young men gone?
+Gone for soldiers, every one
+When will they ever learn?
+When will they ever learn?
+
+Where have all the soldiers gone?
+Long time passing
+Where have all the soldiers gone?
+A long, long time ago
+Where have all the soldiers gone?
+Gone to graveyards, every one
+When will they ever learn?
+When will they ever learn?
+
+Where have all the graveyards gone?
+Long time passing
+Where have all the graveyards gone?
+Long time ago
+Where have all the graveyards gone?
+Gone to flowers, every one
+When will they ever learn?
+When will they ever learn?

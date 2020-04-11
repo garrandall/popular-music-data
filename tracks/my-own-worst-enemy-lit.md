@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-own-worst-enemy-lit
+lyrics_url: https://genius.com/Lit-my-own-worst-enemy-lyrics
 name: My Own Worst Enemy
 rankings:
 - end_date: '1999-04-30'
@@ -87,4 +88,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-09-04'
 ---
+Can we forget about the things I said when I was drunk?
+I didn't mean to call you that
+I can't remember what was said or what you threw at me
+Please tell me
 
+
+Please tell me why
+My car is in the front yard
+And I'm sleeping with my clothes on
+I came in through the window last night
+And you're gone, gone
+
+
+It's no surprise to me, I am my own worst enemy
+'Cause every now and then, I kick the living shit out of me
+The smoke alarm is going off, and there's a cigarette
+Still burning
+
+
+Please tell me why
+My car is in the front yard
+And I'm sleeping with my clothes on
+I came in through the window last night
+And you're gone, gone
+
+
+Please tell me why
+My car is in the front yard
+And I'm sleeping with my clothes on
+I came in through the window last night
+
+
+(Ah) It's no surprise to me, I am my own worst enemy (Ah)
+'Cause every now and then, I kick the living shit out of me (Ah)
+Can we forget about the things I said when I was drunk? (Ah)
+I didn't mean to call you that

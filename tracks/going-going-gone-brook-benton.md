@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: going-going-gone-brook-benton
+lyrics_url: https://genius.com/Brook-benton-going-going-gone-lyrics
 name: Going Going Gone
 rankings:
 - end_date: '1964-01-31'
@@ -35,4 +36,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-07'
 ---
+Going, going, gone
+Information society
 
+Sometimes looking back I can't
+Believe how many times I left her
+I guess it's all part of the game
+That we play
+
+All is fair in love and war
+But in this case they're quite the same thing
+What's the difference if I go
+Or if I stay?
+
+I tried to tell her
+I was not the only one to turn to
+But she was indifferent to my pleas
+And now she's
+Going, going, gone
+And I did nothing wrong
+But she's going, going, gone
+
+If I disappeared tonight
+It would not change her mind about me
+She's in love with someone who has changed
+Since that day
+
+She tried to tell me
+I was not the only one to turn to
+But I won't get down on my knees
+So she's
+Going, going, gone
+And I did nothing wrong
+But she's going, going, gone

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-goes-my-everything-jack-greene
+lyrics_url: https://genius.com/Jack-greene-there-goes-my-everything-lyrics
 name: There Goes My Everything
 rankings:
 - end_date: '1967-01-13'
@@ -43,4 +44,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
 ---
+There goes my only possesion there goes my everything
+I hear footsteps slowly walking as they gently walk across a lonely floor
+And a voice is softly saying darling this will be goodbye forever more
+There goes my reason for living there goes the one of my dreams
+There goes my only possesion there goes my everything
 
+As my mem'ry turns back the pages I can see the happy years we had before
+Now the love that kept this old heart beating
+Has been shattered by the closing of a door
+There goes my reason for living...

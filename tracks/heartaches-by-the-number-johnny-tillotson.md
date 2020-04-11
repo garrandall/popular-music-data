@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartaches-by-the-number-johnny-tillotson
+lyrics_url: https://genius.com/Johnny-tillotson-heartaches-by-the-number-lyrics
 name: Heartaches By The Number
 rankings:
 - end_date: '1965-09-03'
@@ -39,4 +40,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-10-16'
 ---
+I've got heartaches by the number when you left me
+I never knew that I could hurt this way
+O, how my heart was filled, when you come home again
+But you came back an' never meant to stay
 
+Now, I've got heartaches by the number
+Troubled by the shore
+Ever day I love you more an' more
+I've got heartaches by the number
+It's a love that I can't win
+But th day you stop lovin' me
+Is th day my world will end
+
+Got heartaches by the number
+When you called me an' said
+You were coming back to stay
+With hopeful heart I waited for you
+But you must have lost your way

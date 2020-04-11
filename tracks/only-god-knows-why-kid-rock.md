@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-god-knows-why-kid-rock
+lyrics_url: https://www.azlyrics.com/lyrics/kidrock/onlygodknowswhy.html
 name: Only God Knows Why
 rankings:
 - end_date: '2000-02-25'
@@ -87,4 +88,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-07-01'
 ---
+I've been sittin here
+Tryin to find myself
+I get behind myself
+I need to rewind myself
+Lookin for the payback
+Listen for the playback
+They say that every man bleeds just like me
+And I feel like number one
+Yet I'm last in line
+I watch my youngest son
+And it helps to pass the time
+I take too many pills it helps to ease the pain
+I made a couple of dollar bills, but still I feel the same
+Everybody knows my name
+They say it way out loud
+A lot of folks fuck with me
+It's hard to hang out in crowds
+I guess that's the price you pay
+To be some big shot like I am
+Out strecthed hands and one night stands
+Still I can't find love
 
+And when your walls come tumbling down
+I will always be around
+
+Yeah
+As it...hey
+
+And when your walls come tumbling down
+I will always be around
+
+People don't know about the things I say and do
+They don't understand about the shit that I've been through
+It's been so long since I've been home
+I've been gone, I've been gone for way too long
+Maybe I forgot all things I miss
+Oh somehow I know there's more to life than this
+I said it too many times
+And I still stand firm
+You get what you put in
+And people get what they deserve
+Still I ain't seen mine
+No I ain't seen mine
+I've been giving just ain't been gettin
+I've been walking that there line
+So I think I'll keep a walking
+With my head held high
+I'll keep moving on and only God knows why
+
+Only God
+Only God
+Only God knows why, why, why, why
+Only God...knows...why, why, why
+Only God knows why
+Take me to the river edge
+Take me to the river, hey hey hey

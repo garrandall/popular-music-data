@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-touch-a-star-terry-stafford
+lyrics_url: https://www.musixmatch.com/lyrics/Terry-Stafford/I-ll-Touch-a-Star
 name: I'll Touch A Star
 rankings:
 - end_date: '1964-05-29'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
 ---
+I'll touch a star
+When your lips touch mine
+The first I see
+In the twilight time
 
+I'll touch a star
+Shining through the sky
+But it won't shine
+As bright as your eyes
+
+Verse:
+Don't make me wait here
+At heaven's door
+It's only one kiss
+That I'm asking for
+
+Chorus:
+I'll touch a star
+Take it from the blue
+And give away
+My heart to you
+
+Verse
+
+Chorus
+
+And give a way my heart to you
+I'll touch a star.

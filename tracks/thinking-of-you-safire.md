@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: thinking-of-you-safire
+lyrics_url: https://genius.com/Safire-thinking-of-you-lyrics
 name: Thinking Of You
 rankings:
 - end_date: '1989-02-10'
@@ -103,4 +104,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-07-15'
 ---
+As I sit looking out the window
+I can still remember
+They call me to tell me
+You went away
+It was such a cold day
 
+
+On a Sunday morning
+It came without a warning
+And all the pain I felt inside
+I just can't forget you
+
+I'm feeling so alone
+Though many times I've tried
+I can't get you off my mind
+
+
+I'm thinking of you
+Wonder where you are tonight
+I wish that I could hold you tight
+I'm thinking of you
+Wish you could stay
+But you're so far away
+So far away
+
+
+And even though you're gone
+I know you're happy where you are
+I know someday
+We'll be together together again
+
+
+
+
+
+
+I know someday I'll hold you again
+You and me together again
+But until that day
+I'm thinking of you

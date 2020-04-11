@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-fell-in-love-rockell
+lyrics_url: https://genius.com/Rockell-i-fell-in-love-lyrics
 name: I Fell In Love
 rankings:
 - end_date: '1996-11-15'
@@ -79,4 +80,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-03-08'
 ---
+1 - I fell in love, gave you my heart
+You turned your back, and walked out on me
+I once was blind, but now I see
+And I'm so glad you set me free
 
+Repeat 1
+
+You used to be mine
+
+Set me free, set me free, set me free
+Free, free, free
+
+I fell in love
+
+Set me free, set me free, set me free
+Free, free, free
+
+You used to be mine
+But now it has gone away, gone away
+A love so divine
+And I used to think that I could not stand on my own
+Something about the way you touch me, baby, made me crazy
+
+But now that you're on your way
+Don't think for a second I want you to stay, oh
+
+2 - Maybe I'm falling, a warning
+Boy let me show you how it's going down
+Just keep on walking, nobody talking
+I don't have no time to play around
+
+Repeat 1
+
+I used to be loved
+But now I'm all alone
+So all alone
+And don't tell me how much you got
+'Cause when I needed you, you weren't there, so
+
+Repeat 2
+Repeat 1 to fade

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-lets-her-hair-down--early-in-the-morning--gene-pitney
+lyrics_url: https://genius.com/Gene-pitney-she-lets-her-hair-down-lyrics
 name: She Lets Her Hair Down (Early In The Morning)
 rankings:
 - end_date: '1969-12-19'
@@ -27,4 +28,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-24'
 ---
+She walks barefoot through the meadow early in the mornin'
+Early in the mornin' ev'ry day
+And she wakes up the sleepin' flowers early in the mornin'
+Early in the mornin' on the way
 
+And she lets her hair down when the sun comes up
+Yes, she lets her hair down
+And the morning glows bright with a newborn light
+Yes, the morning glows bright
+
+She goes walkin' past my window early in the mornin'
+Early in the mornin' on the way
+Some day I'll reach out and touch her early in the mornin'
+Early in the mornin' one fine day
+
+And I'll give her my love till the day I die
+Yes, I'll give her my love
+And the morning glows bright with a newborn light
+Yes, the morning glows bright
+
+She walks barefoot through the meadow early in the mornin'
+Early in the mornin' ev'ry day
+
+And the morning glows bright with a newborn light
+Yes, the morning glows bright
+
+And I'll give her my love till the day I die
+Yes, I'll give her my love
+
+And she lets her hair down when the sun comes up
+Yes, she lets her hair down
+
+And she lets her hair down when the sun comes up
+Yes, she lets her hair down

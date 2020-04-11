@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -our-love--don-t-throw-it-all-away-andy-gibb
+lyrics_url: https://genius.com/Andy-gibb-our-love-dont-throw-it-all-away-lyrics
 name: (Our Love) Don't Throw It All Away
 rankings:
 - end_date: '1978-10-20'
@@ -79,4 +80,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-02-10'
 ---
+Maybe I don't wanna know the reason why
+But lately you don't talk to me
+Darling I can't see me in your eyes
+I hold you near but you're so far away
+And it's losing you I can't believe
+To watch you leave and let this feeling die
 
+You alone are the living thing that keeps me alive
+And tomorrow if I'm here without your love
+You know I can't survive
+Only my love can raise you high above it all
+
+Don't throw it all away, our love, our love
+Don't throw it all away, our love
+Don't throw it all away, our love, our love
+Don't throw it all away, our love
+
+We can take the darkness and make if full of light
+But let your love flow back to me
+How can you leave and let this feeling die
+This happy room will be a lonely place when you are gone
+And I won't even have your shoulders for the crying on
+No other woman's love could be as true, I'm begging you
+
+Don't throw it all away, our love, our love
+Don't throw it all away, our love
+Don't throw it all away, our love, our love
+Don't throw it all away, our love
+
+We changed the world we made it ours to hold
+But dreams are made for those who really try
+This losing you is real
+But I still feel you here inside
+
+Don't throw it all away, our love, our love
+Don't throw it all away, our love
+Don't throw it all away, our love, our love
+Don't throw it all away, our love
+
+Don't throw it all away, our love, our love
+Don't throw it all away, our love
+Don't throw it all away, our love, our love
+Don't throw it all away, our love
+
+Don't throw it all away, our love, our love
+Don't throw it all away, our love
+Don't throw it all away, our love, our love
+Don't throw it all away, our love

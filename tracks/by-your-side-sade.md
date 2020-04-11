@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: by-your-side-sade
+lyrics_url: https://genius.com/Sade-by-your-side-lyrics
 name: By Your Side
 rankings:
 - end_date: '2001-01-26'
@@ -51,4 +52,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-31'
 ---
+You think I'd leave your side baby
+You know me better than that
+You think I'd leave you down
+When you're down on your knees
+I wouldn't do that
+I'll tell you you're right when you want
+And if only you could see into me
 
+
+Oh, when you're cold
+I'll be there
+Hold you tight to me
+
+
+When you're on the outside baby
+And you can't get in
+I will show you
+You're so much better than you know
+When you're lost and you're alone
+And you can't get back again
+I will find you
+Darling and I will bring you home
+And if you want to cry
+I am here to dry your eyes
+And in no time, you'll be fine
+
+
+You think I'd leave your side baby
+You know me better than that
+You think I'd leave you down
+When you're down on your knees
+I wouldn't do that
+I'll tell you you're right when you're wrong
+And if only you could see into me
+
+
+Oh, when you're cold
+I'll be there
+Hold you tight to me
+Oh, when you're low
+I'll be there
+By your side, baby
+Oh, when you're cold
+I'll be there
+Hold you tight to me
+Oh, when you're low
+I'll be there
+By your side, baby

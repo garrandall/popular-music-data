@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: maps-yeah-yeah-yeahs
+lyrics_url: https://genius.com/Yeah-yeah-yeahs-maps-lyrics
 name: Maps
 rankings:
 - end_date: '2004-03-19'
@@ -59,4 +60,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-06-05'
 ---
+Pack up
+I'm straight
+Enough
 
+
+I'll say, say, say
+I'll say, say, say
+I'll say, say, say
+I'll say, say, say
+I'll say, say, say
+
+
+Wait, they don't love you like I love you
+Wait, they don't love you like I love you
+Maps
+Wait, they don't love you like I love you
+
+
+Made off
+Don't stray
+My kind's your kind
+I'll stay the same
+Pack up
+Don't stray
+
+
+I'll say, say, say
+I'll say, say, say
+
+
+Wait, they don't love you like I love you
+Wait, they don't love you like I love you
+Maps
+Wait, they don't love you like I love you
+Wait, they don't love you like I love you
+Maps
+Wait, they don't love you like I love you
+
+
+
+
+Wait, they don't love you like I love you
+Wait, they don't love you like I love you
+Maps
+Wait, they don't love you like I love you
+Wait, they don't love you like I love you
+Maps
+Wait, they don't love you like I love you

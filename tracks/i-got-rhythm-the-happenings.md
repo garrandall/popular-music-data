@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-got-rhythm-the-happenings
+lyrics_url: https://genius.com/The-happenings-i-got-rhythm-lyrics
 name: I Got Rhythm
 rankings:
 - end_date: '1967-04-14'
@@ -59,4 +60,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-01'
 ---
+In this vast and troubled world
+We sometimes lose our way
+But I am never lost
+I feel this way because
 
+Dit-dit-dit-dit-dit-dit-dit-dit-dit-dit
+Dit-dit-rhythm, dit-dit-rhythm
+Dit-dit-rhythm, dit-dit-rhythm
+
+I've got rhythm
+I've got music
+I got my girl
+Who could ask for anything more?
+
+I've got good times
+No more bad times
+I've got my girl
+Who could ask for anything more?
+
+Old man trouble (Old man trouble)
+I don't mind him (I don't mind him)
+You won't find him
+Round my door
+
+I've got starlight (I've got starlight)
+I've got sweet dreams (I've got sweet dreams)
+I've got my girl
+Who could ask for, who could ask for more?
+
+Dit-dit-dit-dit-dit-dit-dit-dit
+Dit-dit-dit-dit-dit-dit-dit-dit
+
+Old man trouble (Old man trouble)
+I don't mind him (I don't mind him)
+You won't find, you're never gonna find him
+Round my door
+
+I've got rhythm (Hey, I've got rhythm)
+And I've got music (Hey, I've got music)
+And I've got my girl
+Who could ask for anything more?
+
+In this vast and troubled world
+Dit-dit-dit-dit-dit-dit-dit-dit (Rhythm, rhythm)
+Dit-dit-dit-dit-dit-dit-dit-dit (Rhythm, rhythm)
+Dit-dit-dit-dit-dit-dit-dit-dit (I've got rhythm)
+Dit-dit-dit-dit-dit-dit-dit-dit (I've got rhythm)
+Dit-dit-dit-dit-dit-dit-dit-dit (I've got rhythm)
+Dit-dit-dit-dit-dit-dit-dit-dit (I've got rhythm)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-knock-my-love---pt-1-wilson-pickett
+lyrics_url: https://www.musixmatch.com/lyrics/Wilson-Pickett/Don-t-Knock-My-Love-Pt-1
 name: Don't Knock My Love - Pt 1
 rankings:
 - end_date: '1971-04-30'
@@ -55,4 +56,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-07-10'
 ---
-
+If my love won't pull you up
+And my kisses won't shake your stuff
+Don't be afraid to let me know
+There's other places, baby that I can go
+If you don't like it, don't knock it
+Somebody else, might wanna rock it
+If you don't need it, don't waste it
+Somebody else, might wanna taste it
+Oh baby, oh baby
+If my thrill, don't turn you on
+And my will, is just too strong
+Don't waste my time with your foolish ways
+I got other things to do with my days
+If you don't like it, don't knock it
+Somebody else, might wanna rock it
+Oh if you don't need it, don't waste it
+Somebody else, might wanna taste it
+Hey! Oh Lord Lord Hey!
+I'm going up, I'm going down
+I'm going all the way around town
+I'm the one that turned you on
+I'm the same one to leave you alone
+Don't knock my love, don't knock my love
+Don't knock it, don't knock my love
+AWWW Good God almighty, it's alright
+Don't knock it, don't knock my love

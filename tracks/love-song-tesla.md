@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-song-tesla
+lyrics_url: https://genius.com/Tesla-love-song-lyrics
 name: Love Song
 rankings:
 - end_date: '1989-10-06'
@@ -115,4 +116,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-03-31'
 ---
+So you think that it's over
+That your love has finally reached the end
+Any time you call, night or day
+I'll be right there for you when you need a friend, yeah
 
+It's gonna take a little time
+Time is sure to mend your broken heart
+Don't you even worry, pretty darlin'
+I know you'll find love again
+
+Yeah, love is all around you
+Love is knockin' outside your door
+Waitin' for you is this love made just for two
+Keep an open heart and you'll find love again, I know
+
+Love is all around you, yeah
+Love is knockin' outside your door
+Waitin' for you is this love made just for two
+Keep an open heart and you'll find love again, I know
+
+It's all around
+
+Love will find a way
+Darlin', love is gonna find a way
+Find its way back to you
+Love will find a way
+So look around, open your eyes
+
+Love is gonna find a way
+Love is gonna, love is gonna find a way
+Love will find a way
+Love's gonna find a way back to you, yeah
+
+I know
+I know
+I know
+I know

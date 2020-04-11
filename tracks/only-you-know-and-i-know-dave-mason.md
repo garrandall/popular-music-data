@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-you-know-and-i-know-dave-mason
+lyrics_url: https://genius.com/Dave-mason-only-you-know-and-i-know-lyrics
 name: Only You Know And I Know
 rankings:
 - end_date: '1970-08-07'
@@ -47,4 +48,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-03'
 ---
+Only you know and I know
+All the lovin' we've got to show
+So don't refuse to believe it
+By reading too many meanings
 
+'Cause you know that I mean what I say
+So don't go, and never take me the wrong way
+You know you can't go on gettin' your own way
+'Cause if you do, it's gonna get you someday
+
+We're both here to be pleasin'
+Oh, no, no, not deceivin'
+But it's hard to believe in
+Ah yeah, when you've been so mistreated
+
+'Cause you know that I mean what I say
+So don't go, and never take me the wrong way
+You know you can't go on gettin' your own way
+'Cause if you do, it's gonna get you someday
+
+If I seem to mislead you
+It's just my craziness comin' through
+But when it comes down to just two
+Ah, I ain't no crazier than you
+
+'Cause you know that I mean what I say
+So don't go, and never take me the wrong way
+You know you can't go on gettin' your own way
+'Cause if you do, it's gonna get you someday
+
+Only you know and I know
+Only you know and I know
+Only you know and I know, oh yeah
+Only you know and I know, oh yeah, get up

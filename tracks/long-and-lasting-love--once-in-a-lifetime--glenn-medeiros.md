@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: long-and-lasting-love--once-in-a-lifetime--glenn-medeiros
+lyrics_url: https://genius.com/Glenn-medeiros-long-and-lasting-love-once-in-a-lifetime-lyrics
 name: Long And Lasting Love (Once In A Lifetime)
 rankings:
 - end_date: '1988-08-19'
@@ -47,4 +48,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-15'
 ---
+A long and lasting love
+Not many people find it
+But those who do
+Their whole life through
+Put their hearts and souls behind it
+A long and lasting love
 
+A long and lasting love
+It's what I've always dreamed of
+And when I looked into your eyes
+I knew I'd really seen love
+A long and lasting love
+
+
+We got a once in a lifetime
+All the dreams we're waiting for
+Are just beginning to come true
+
+It happens once in a lifetime
+When you find the special girl
+Who knows the meaning of love like you
+
+
+A long and lasting love
+We share for many reasons
+A special bond that goes beyond
+The changing of the seasons
+A long and lasting love
+
+When a love like ours appears
+It cherishes it
+Through all the years
+A long and lasting love
+
+
+
+A long and lasting love
+It's what I've always dreamed of
+And when I looked into your eyes
+I knew I'd really seen love
+A long and lasting love
+It's what I've always dreamed of
+My long and lasting love

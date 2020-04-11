@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-it-go-ray-j
+lyrics_url: https://genius.com/Ray-j-let-it-go-lyrics
 name: Let It Go
 rankings:
 - end_date: '1997-03-14'
@@ -87,4 +88,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-07-19'
 ---
+Uh huh, yeah
+Uh huh, yeah
 
+Come on y'all
+Don't stop y'all
+Gotta make y'all rock, y'all
+Come on y'all
+Don't stop y'all
+Stevie gotta make ya rock, y'all
+
+Every now and then it invades my mind
+Some have missed a place through the hard times
+From the 9 to 5 or just a world they see
+But get your boogey shoes, there's a remedy
+
+I insist that you relax and let it go
+I insist that you believe it's gonna get better
+I insist you understand right now you can't do nothin' better
+So let it go
+
+(1) - Everybody's out on the floor don't you know
+Can't do nothin better so let it go
+Set your troubles free
+Dance with me
+Loose control
+Let it go
+
+Every now and then it seems hard to find
+Some have lost their way of loving, peace of mind
+And if there's any pain or hostility
+Well get down on the floor cuz there's a remedy
+
+I insist that you be down and ready to party
+I insist that you relax and let it go
+I insist that you believe it's gonna get better
+I insist you understand right now you can't do nothin' better
+So let it go
+
+(Repeat 1)
+
+Let it go
+Guess it's time to let it go
+Even if your feelings show
+It's ok to let it go
+Guess it's time to let it
+
+A one-two
+A one-two
+A one-two
+
+Come on y'all Don't stop y'all
+
+(Repeat 1)
+
+Can't do nothin better so let it go
+
+(Repeat 1)
+
+Come on y'all Don't stop y'all
+Stevie's gotta make ya rock y'all
+Don't stop y'all
+
+Uh huh
+Yeah They won't stop y'all Uh huh, yeah Yeah, yeah, yeah Yeah, yeah

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-live-for-the-sun-the-sunrays
+lyrics_url: https://genius.com/Sunrays-i-live-for-the-sun-lyrics
 name: I Live For The Sun
 rankings:
 - end_date: '1965-09-10'
@@ -47,4 +48,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
 ---
+Go!
+Sun sun sun sun
+Sun sun sun sun
 
+I live for the sun (sun sun sun sun)
+Because it makes fun (fun)
+Pretty girls with their guys
+Such a love you can't buy
+Baby, We all live for the sun
+
+Go!
+Sun sun sun sun
+Sun sun sun sun
+
+My girl, my girl and me (sun sun sun sun)
+We will stay right by the sea (sun)
+Livin' and lovin' this way
+We're with the sun every day
+We, we all live for the sun
+
+Go!
+Sun sun sun sun
+Sun sun sun sun
+
+Sunsets are for lovers
+And dads and mothers
+Whoa and little girls
+And their brothers
+They all live for the sun
+
+Go!
+Sun sun sun sun
+Sun sun sun sun
+
+Listen, ah listen 'cause (sun sun sun sun)
+Don't be, don't be a dud (sun)
+Take your girl by the hand
+Walk with her in the sand
+And always, yes always
+We got to live for the...
+Sun sun sun sun
+Sun sun sun sun
+Go!
+Sun sun sun sun
+Sun sun sun sun
+Go!
+Sun sun sun sun
+Sun sun sun sun

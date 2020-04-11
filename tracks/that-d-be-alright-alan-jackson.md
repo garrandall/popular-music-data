@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-d-be-alright-alan-jackson
+lyrics_url: https://genius.com/Alan-jackson-thatd-be-alright-lyrics
 name: That'd Be Alright
 rankings:
 - end_date: '2003-02-14'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-06-21'
 ---
+If money grew on hackberry trees
+If time wasn't such a luxury
+If love was lovesick over me
+That'd be alright
+If I could keep the wind in my sails
+Keep a hold of the tiger by the tail
+A half a ham sandwich in my lunch pail
+That'd be alright
 
+
+Yeah, that'd be alright
+That'd be alright
+If everybody, everywhere
+Had a lighter load to bear
+And a little bigger piece of the pie
+We'd be living us a pretty good life
+And that'd be alright
+
+
+Hey, go heavy on the good and light on the bad
+A hair more happy and a shade less sad
+Turn all that negative down just a tad
+That'd be alright
+If my dear old dog never got old
+If my family farm never got sold
+If another bad joke never got told
+That'd be alright
+
+
+Yeah, that'd be alright
+That'd be alright
+If everybody, everywhere
+Had a lighter load to bear
+And a little bigger piece of the pie
+We'd be living us a pretty good life
+And that'd be alright
+
+
+Yeah, that'd be alright
+That'd be alright
+Yeah, that'd be alright
+That'd be alright
+Yeah, that'd be alright
+That'd be alright
+That'd be alright

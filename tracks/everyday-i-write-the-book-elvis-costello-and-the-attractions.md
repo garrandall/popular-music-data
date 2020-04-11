@@ -1,7 +1,8 @@
 ---
 artists:
-- Elvis Costello And The Attractions
-features: []
+- Elvis Costello
+features:
+- The Attractions
 genres: []
 key: everyday-i-write-the-book-elvis-costello-and-the-attractions
 name: Everyday I Write The Book

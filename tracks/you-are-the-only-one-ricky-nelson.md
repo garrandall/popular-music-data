@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-are-the-only-one-ricky-nelson
+lyrics_url: https://genius.com/Ricky-nelson-you-are-the-only-one-mono-lyrics
 name: You Are The Only One
 rankings:
 - end_date: '1961-01-01'
@@ -39,4 +40,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-13'
 ---
+You are the only one
+My one and only one
+Together we've had a lot of fun
+But what'll I do if you leave me?
 
+If someone else should come along
+And take your love from me
+Darlin', you could never know
+How lonely I would be
+
+You are the only one
+My one and only one
+Together we've had a lot of fun
+But what'll I do if you leave me?
+
+I tried to be the kinda guy
+You'd wanna call your own
+So please don't go and throw away
+The truest love you've known
+
+You are the only one
+My one and only one
+Together we've had a lot of fun
+But what'll I do if you leave me?
+
+What'll I do if you ever take your love from me?
+'cause in your arms is where I always wanna be
+
+If you should ever go away
+My eyes would fill with tears
+And the heartaches I would feel
+Would last a thousand years
+
+You are the only one
+My one and only one
+Together we've had a lot of fun
+But what'll I do if you leave me?
+
+What'll I do if you leave me?
+What'll I do if you leave me?
+
+What'll I do if you leave me?
+What'll I do if you leave me?

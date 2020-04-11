@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: without-you-johnny-tillotson
+lyrics_url: https://genius.com/Johnny-tillotson-without-you-lyrics
 name: Without You
 rankings:
 - end_date: '1961-08-13'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-30'
 ---
+You made me happy, you made me sing
+But now without you, I've lost everything
+And I know, know it's true that I-I must go throu-ou-gh
+All my life (all my life) all my life (all my life)
+Wi-ithout yo-ou-ou (wi-ithout you)
 
+No one to talk to when I'm alone
+No one to call me, call me her own
+And I know, know it's true that I-I must go throu-ou-gh
+All my life (all my life) all my life (all my life)
+Wi-ithout yo-ou-ou (wi-ithout you)
+
+(dum-dum-dum-dum)
+SPOKEN: Maybe tomorrow
+(dum-dum-dum-dum)
+SPOKEN: Maybe in time
+(dum-dum-dum-dum)
+SPOKEN: I'll find an angel
+(dum-dum-dum-dum)
+SPOKEN: Who wants to be mine
+(dum-dum-dum-dum)
+SPOKEN: Someone who needs me
+(dum-dum-dum-dum)
+SPOKEN: Like I'm needing you
+(dum-dum-dum-dum)
+SPOKEN: Someone to love me and to always be true
+
+But, oh my darling (oh-oh oh yes)
+I love you still (he loves you still)
+I dream about you (oh-oh oh yes)
+And I always will (he always will)
+And I know, know it's true that I-I must go throu-ou-gh
+All my life (all my life) all my life (all my life)
+Wi-ithout you (wi-ithout you)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: broken-hearted-melody-sarah-vaughan
+lyrics_url: https://genius.com/Sarah-vaughan-broken-hearted-melody-lyrics
 name: Broken-Hearted Melody
 rankings:
 - end_date: '1959-07-26'
@@ -83,4 +84,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-23'
 ---
+Br-oooo-ken hearted me-eee-lo-dy
+Ooooonce you were our song of love
+Nooooow you just keep taunting me
+Wiiiiith the memory of (ba-da-da)
+His tender love. Ooooh
+Broken hearted melody
+Must you keep reminding me
+Of the lips I long to kiss
+And the love I miss since he went away
+Night and day they play
+That broken hearted melody
+That he used to sing to me
+When our love was young and bright
+As he held me tight
+Suddenly I found, I was heaven bound
 
+Brooooken hearted melody
+Ooooonce you were our song of love
+Nooooow you just keep taunting me
+Wiiiiiith the memory of (ba-da-da)
+His tender love, Ooooh
+Broken hearted melody
+Won't you bring him back to me
+Sing to him until he yearns
+For when he returns no more will he be
+A broken hearted melody
+Oooooooo, oo-oo
+Oo-oo, oo-oo, ooooooooo
+Oooooooo, oo-oo
+Oo-oo, oo-oo, ooooooooo

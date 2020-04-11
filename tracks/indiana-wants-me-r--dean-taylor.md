@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: indiana-wants-me-r--dean-taylor
+lyrics_url: https://genius.com/R-dean-taylor-indiana-wants-me-lyrics
 name: Indiana Wants Me
 rankings:
 - end_date: '1970-09-11'
@@ -67,4 +68,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-12-12'
 ---
+Mmm,mmm
 
+
+Indiana wants me, Lord I can't go back there
+Indiana wants me, Lord I can't go back there
+I wish I had you, to talk to
+
+
+If a man ever needed dying he did
+No one had a right to say what he said about you
+And it's so cold and lonely here without you
+Out there the law is coming
+I've been so tired of running
+
+
+Indiana wants me, Lord I can't go back there
+Indiana wants me, Lord I can't go back there
+I wish I had you, to talk to
+
+
+It hurts to see the man that I've become
+To know I'll never see the morning sunshine on the land
+I'll never see your smiling face or touch your hand
+If just once more I could see
+You, our home and our little baby
+
+
+Indiana wants me, Lord I can't go back there
+Indiana wants me, Lord I can't go back there
+I wish I had you, to talk to
+
+
+I hope this letter finds it's way to you
+Forgive me love for the shame I've put you through and all the tears
+Hang on love to the memories of those happy years
+Red lights are flashing around me
+Good Lord it looks like they found me
+
+
+Indiana wants me, Lord I can't go back there
+Indiana wants me, Lord I can't go back there
+I wish I had you, to talk to
+Indiana wants me, Lord I can't go back there
+"This is the police. You are surrounded
+Give yourself up."
+Indiana wants me, Lord I can't go back there
+"This is the police. You are surrounded
+Give yourself up."
+Indiana wants me, Lord I can't go back there
+"This is the police. You are surrounded
+Give yourself up."
+Indiana wants me, Lord I can't go back there
+Indiana wants me, Lord I can't go back there
+Indiana wants me, Lord I can't go back there
+Indiana wants me

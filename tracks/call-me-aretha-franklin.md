@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: call-me-aretha-franklin
+lyrics_url: https://genius.com/Aretha-franklin-call-me-lyrics
 name: Call Me
 rankings:
 - end_date: '1970-02-13'
@@ -55,4 +56,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-04-25'
 ---
+I love you (I love you
+And I love you (I love you
+And I love you too (and I love you
+Baby will you call me the moment you get there?
+Hey baby, um-hum
+I love you (I love you
+And I love you (I love you
+And I love you too (and I love you
+Baby will you call me the moment you get there?
+Hey baby, um-hum
 
+
+Call me (the moment
+The moment (you get there
+You get there? yeah, yeah, baby, yeah
+
+
+My dearest, my dearest of all darling (ah-ooo
+I know, I know, I know, I know we’ve got to part (ah-ooo
+Baby, baby, baby, baby, baby
+It really doesn’t hurt me that bad yeah (ah-ooo
+Because you’re taking me with you
+And I’m keeping you right-a here in my heart
+It’s all because I love you (I love you
+Woo-hoo, and I love you (I love you
+And I love you too (and I love you
+Baby will you call me the moment you get there, baby?
+Will you do that? Will you do that for me now?
+
+
+Call me (the moment
+The moment (you get there
+You get there? yeah, yeah, baby, yeah
+Call me (the moment
+The moment (you get there
+You get there? yeah, yeah, baby, yeah
+Call me (the moment
+The moment (you get there
+You get there? yeah, yeah, baby, yeah

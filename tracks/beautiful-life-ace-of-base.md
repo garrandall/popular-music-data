@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beautiful-life-ace-of-base
+lyrics_url: https://genius.com/Ace-of-base-beautiful-life-lyrics
 name: Beautiful Life
 rankings:
 - end_date: '1995-11-17'
@@ -87,4 +88,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-03-23'
 ---
+You can do what you want, just seize the day
+What you're doin' tomorrow's gonna come your way
+Don't you ever consider givin' up
+You will find, oh oh
 
+
+It's a beautiful life, oh, oh-oh-oh
+It's a beautiful life, oh, oh-oh-oh
+It's a beautiful life, oh, oh-oh-oh
+I just wanna be here beside you
+(And stay until the break of dawn)
+
+
+Take a walk in the park when you feel down
+There's so many things there that's gonna lift you up
+See the nature in bloom, a laughing child
+Such a dream, whoa-oh
+
+
+It's a beautiful life, oh, oh-oh-oh
+It's a beautiful life, oh, oh-oh-oh
+It's a beautiful life, oh, oh-oh-oh
+I just wanna be here beside you
+(Oh, yeah, alright!)
+I just wanna be here beside you
+(And stay until the break of dawn)
+
+
+You're looking for somewhere to belong
+You're standing all alone
+For someone to guide you on your way
+Now and forever
+
+
+It's a beautiful life, oh, oh-oh-oh
+It's a beautiful life, oh, oh-oh-oh
+It's a beautiful life, oh, oh-oh-oh
+I just wanna be anybody
+We're living in different ways
+
+
+It's a beautiful life
+I'm gonna take you to the place
+I've never been before, oh yeah
+It's a beautiful life
+I'm gonna take you in my arms
+And fly away with you tonight
+
+Yeah, alright!
+It's a beautiful life
+Yeah, alright!
+It's a beautiful life
+
+It's a beautiful life
+It's a beautiful life
+It's a beautiful life
+It's a beautiful life
+Oh, yeah, alright!
+It's a beautiful life
+Oh, yeah, alright!
+It's a beautiful life
+Oh, yeah, alright!
+It's a beautiful life
+It's a beautiful life!

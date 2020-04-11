@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-want-your-love-chic
+lyrics_url: https://genius.com/Chic-i-want-your-love-lyrics
 name: I Want Your Love
 rankings:
 - end_date: '1979-02-16'
@@ -83,4 +84,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-06-16'
 ---
+I want your love, I want your love
+I want your love, I want your love
 
+Do you feel like you ever want
+To try my love and see how well it fits?
+Baby, can't you see when you look at me
+I can't kick this feeling when it hits?
+All alone in my bed at night
+I grab my pillow and squeeze it tight
+I think of you and I dream of you
+All of the time, what am I gonna do?
+
+I want your love, I want your love
+I want your love, I want your love
+
+Sometime, don't you feel like you
+Never really had a love that's real?
+Well, here I am and who's to say?
+A better love you won't find today
+Just one chance and I will show you love
+Like no other, two steps above
+On your ladder I'll be a peg
+I want your lovin', please don't make me beg
+
+I want your love, I want your love
+I want your love, I want your love
+I want your love, I want your love
+I want your love, I want your love
+
+I want your love, I need your love
+I'll share my dreams and make you see
+How really bad your love I need
+I want your love, I need your love
+Just like the birds need sky above
+I'll share my dreams and make you see
+How really bad your love I need
+
+I want your love, I want your love
+I want your love, I want your love
+I want your love, I want your love

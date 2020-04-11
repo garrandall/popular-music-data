@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: and-the-grass-won-t-pay-no-mind-mark-lindsay
+lyrics_url: https://genius.com/Mark-lindsay-and-the-grass-wont-pay-no-mind-lyrics
 name: And The Grass Won't Pay No Mind
 rankings:
 - end_date: '1970-09-25'
@@ -55,4 +56,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-12-05'
 ---
+Listen easy, you can hear God callin'
+Walkin' barefoot by a stream
+Come unto me, your hair softly fallin'
+On my face as in a dream
 
+And the time will be our time
+And the grass won't pay no mind
+
+Sayin' nothin', lyin' where the sun is
+Bakin' down upon our sighs
+My lips touch you with their soft wet kisses
+Your hands gentle in reply
+
+And the time will be our time
+And the grass won't pay no mind
+
+Child, touch my soul with your cries
+And the music will know what we found
+I hear a hundred goodbyes
+But today I hear only one sound
+
+The moment we're livin' is now
+Na, na, na, na, na, na
+
+Young bird flyin' and a soft wind blowin'
+Cools the sweat inside my palms
+Close my eyes and see the flowers growin'
+As you lay sleepin' in my arms
+
+And the time will be our time
+And the grass won't pay no mind

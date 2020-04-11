@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-still-have-dreams-richie-furay
+lyrics_url: https://genius.com/Richie-furay-i-still-have-dreams-lyrics
 name: I Still Have Dreams
 rankings:
 - end_date: '1979-11-02'
@@ -51,4 +52,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-01-05'
 ---
+You can find me
+When you need me
+I'll be around
+You're still on my mind
+But I guess until
+This feeling leaves me
+I'm all alone
+On the other side
+Well I still have dreams
+Where you still love me
+That probably comes
+As a surprise
+But those dreams
+Seem so foolish
+When I remember the day
+You walked right by
+Is this good-bye
+I'll never know why
+We never talked
+At all about it
+I don't know why
+Don't know whose fault
+Soon I'll be gone
+And for a long time
 
+And too far gone
+To work it all out
+Well I still have dreams
+Where you still love me
+That probably comes
+As a surprise
+But those dreams
+Seem so foolish
+When I remember the day
+You walked right by
+When I remember the day
+You walked right by

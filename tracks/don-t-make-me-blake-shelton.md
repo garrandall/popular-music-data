@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-make-me-blake-shelton
+lyrics_url: https://genius.com/Blake-shelton-dont-make-me-lyrics
 name: Don't Make Me
 rankings:
 - end_date: '2007-05-11'
@@ -31,4 +32,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-06-09'
 ---
+Girl when I look at you, you look through me
+Like I'm not even there
+I try not to give up, to be strong but
+I'm afraid to say I'm scared
+I can't find the place, your heart is hidin'
+I'm no quitter but I'm tired of fightin'
 
+
+Baby I love you, don't want to lose you
+Don't make me let you go
+Took such a long time, for me to find you
+Don't make me let you go
+Baby I'm beggin' please
+And I'm down here on my knees
+I... don't want to have to set you free
+Don't make me
+
+
+What if when I'm long gone, it dawns on you
+You just might want me back
+Let me make myself clear, if I leave here
+It's done; I'm gone, that's that
+You carry my love around
+Like it's a heavy burden
+Well I'm about to take it back
+Are you sure it's worth it
+
+
+Baby I love you, don't want to lose you
+Don't make me let you go
+Took such a long time, for me to find you
+Don't make me let you go
+Baby I'm beggin' please
+And I'm down here on my knees
+I... don't want to have to set you free
+Don't make me
+Don't make me (Don't make me)
+
+
+Baby I'm beggin' please
+And I'm down here on my knees
+I... don't want to have to set you free
+Don't make me
+
+
+(Baby I love you
+Don't want to lose you
+Don't make me let you go)
+Don't make me
+Stop lovin' you
+(Don't make me)
+Stop needin' you

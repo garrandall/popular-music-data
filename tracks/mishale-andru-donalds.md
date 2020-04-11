@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mishale-andru-donalds
+lyrics_url: https://genius.com/Andru-donalds-mishale-lyrics
 name: Mishale
 rankings:
 - end_date: '1994-12-16'
@@ -83,4 +84,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-04-15'
 ---
+There's many a day I act free
+We're oceans apart
+Even though my tears have dried
+There's an emptiness I feel in my heart
+Come forward
 
+Uh, from the first time that I loved you
+I told you from the start
+Our love would come together
+If we could stand to be apart
+I never mean to break to you heart, no
+
+The days I cope without you
+I feel so all alone
+I see you in my dreams at night
+I feel your touch so strong (So strong)
+I feel your pain and tears miles away
+I surrender my soul to you, dear
+
+Love you
+Love you
+Love you
+Love
+
+Mishale, what am I supposed to do
+Mishale, I'll never get over you
+Mishale (Mishale), loving you is heaven
+Missing you is hell and I need for our love to be strong
+
+No matter where I find myself
+You're always on my mind (Always on my mind)
+The photographs stare back at me
+Reminds me that your love's deep as mine (Deep as mine)
+I'm coming home to you, babe, is worth livin' for, yeah, yeah (Yeah)
+
+Love you
+Love you
+Love you
+Love
+
+Mishale (Mishale), what am I supposed to do (Mishale)
+Mishale (Oh'oh'), I'll never get over you (Mishale)
+Mishale, loving you is heaven (Loving you is heaven)
+Missing you is hell and I need for our love to be strong, ho'oh'oh'
+
+My swollen eyes reveal my pain
+As my tears fall like November rain
+My life's fading
+I'mma just gonna miss you
+
+Love (Love) you (You)
+Love (Love) you (You)
+Love (Love) you (You)
+Love
+
+Mishale, what am I supposed to do (Mishale)
+Mishale (Oh'oh'), I'll never get over you (I'll never get over you)
+Mishale (Mishale), loving you is heaven (Loving you's heaven)
+Missing you is hell and I surrender myself to you, dear
+
+Mishale (Oh), what am I supposed to do (What am I supposed to do)
+Mishale (Oh'oh'), I'll never get over you
+Mishale (Mishale), loving you is heaven (Loving you is heaven)
+Missing you is hell and I need for our love to be strong, oh'oh'
+
+What am I supposed to do
+Mishale (Mishale), I'll never get over you
+Mishale, loving you is heaven (Loving you is heaven)
+Missing you is hell

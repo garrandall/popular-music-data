@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-let-go-wang-chung
+lyrics_url: https://genius.com/Wang-chung-dont-let-go-lyrics
 name: Don't Let Go
 rankings:
 - end_date: '1984-02-10'
@@ -51,4 +52,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-04-14'
 ---
+I got your letter
+I felt so scared to
+Pick up the paper knife and read within
+I read the contents
+I got what you meant
+I know its hard for you but don't give in
+Maybe, maybe slow things go fast
+Maybe, maybe its all in the past
 
+Chorus:
+Oh oh if you need me don't let go - oh
+(You know I'll never give up on you)
+Oh oh if you need me don't let go - oh
+(You know I won't give up on you)
+Oo oo - oo oo oo - oo
+You know I'll never give up on you
+
+I phoned the station
+For information
+To try and get the times of trains to York
+And on the platform
+I saw your hatform
+A kind of halo in the crowd - crush talk
+
+But baby baby don't run away
+Maybe, maybe it's just today
+
+Repeat Chorus
+
+I saw your sad face
+You dropped your suitcase
+And I appreciate the state you're in
+You mustn't hurry
+You mustn't worry
+I know it's hard on you but don't give in
+
+Maybe, maybe slow things go fast
+Maybe, maybe its all in the past
+
+Repeat Chorus

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: movin--brass-construction
+lyrics_url: https://genius.com/Brass-construction-movin-lyrics
 name: Movin'
 rankings:
 - end_date: '1976-04-09'
@@ -71,4 +72,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-07-17'
 ---
+Got myself together, yeah
+Gonna get higher
+Oooh!
+And I'm movin' on
 
+Got myself together, yeah
+Gonna get higher
+Oooh!
+And I'm movin' on
+
+Got myself together, yeah
+Oooh!
+And I'm movin' on
+
+Don't stop, keep on, don't stop, keep on
+Don't stop, keep on, don't stop, keep on
+Don't stop, keep on, don't stop, keep on
+Don't stop, keep on, don't stop, keep on
+Don't stop, keep on, don't stop, keep on
+Don't stop, keep on, don't stop, keep on
+Don't stop, keep on, don't stop, keep on
+Don't stop, keep on, don't stop, keep on
+Don't stop

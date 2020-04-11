@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: joanne-michael-nesmith-the-first-national-band
+lyrics_url: https://genius.com/Michael-nesmith-joanne-lyrics
 name: Joanne
 rankings:
 - end_date: '1970-08-14'
@@ -56,4 +57,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-24'
 ---
+Her name was Joanne
+And she lived in a meadow by a pond
+And she touched me for a moment
+With a look that spoke to me of her sweet love
+Then the woman that she was
+Drove her on with desperation
+And I saw as she went
+A most hopeless situation
+For Joanne, and the man, and the time
+That made them both run
 
+
+She was only a girl
+I know that well, but still I could not see
+That the hold that she had
+Was much stronger than the love she felt for me
+But staying with her
+And my little bit of wisdom
+Broke down her desires
+Like a light through a prism
+Into yellows and blues and a tune
+That I could not have sung
+
+
+Though the essence is gone
+I have no tears to cry for her
+And my only thoughts of her are kind
+
+
+Her name was Joanne
+And she lived near the meadow by a pond
+And she touched me for a moment
+With a look that spoke to me of her sweet love
+Then the woman that she was
+Drove her on with desperation
+And I saw as she went
+A most hopeless situation
+For Joanne, and the man, and the time
+That made them both run
+For Joanne, and the man, and the time
+That made them both run

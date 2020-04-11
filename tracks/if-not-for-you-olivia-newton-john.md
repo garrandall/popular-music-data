@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-not-for-you-olivia-newton-john
+lyrics_url: https://genius.com/Olivia-newton-john-if-not-for-you-lyrics
 name: If Not For You
 rankings:
 - end_date: '1971-06-04'
@@ -75,4 +76,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-18'
 ---
+If not for you
+Babe, I couldn't even find the door
+I couldn't even see the floor
+I'd be sad and blue
+If not for you
 
+
+If not for you
+Babe, the night would see me wide awake
+The day would surely have to break
+It would not be new
+If not for you
+
+
+If not for you
+My sky would fall
+Rain would gather too
+Without your love
+I'd be nowhere at all
+I'd be lost
+If not for you
+
+
+If not for you
+The Winter would hold no Spring
+Couldn't hear a robin sing
+I just wouldn't have a clue
+If not for you
+
+
+If not for you
+My sky would fall
+Rain would gather too
+Without your love
+I'd be nowhere at all
+I'd be lost
+If not for you
+
+
+If not for you
+The Winter would hold no Spring
+You couldn't hear a robin sing
+I just wouldn't have a clue
+If not for you
+
+
+If not for you

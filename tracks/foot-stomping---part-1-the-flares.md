@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: foot-stomping---part-1-the-flares
+lyrics_url: https://www.musixmatch.com/lyrics/The-Flares/Foot-Stomping-Part-1
 name: Foot Stomping - Part 1
 rankings:
 - end_date: '1961-09-10'
@@ -67,4 +68,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-12-11'
 ---
+Everybody young and old
+Learn how to rock and roll
+Listen, here's something new
+Everybody sure can do
+(Come on...)
 
+
+Foot stompin' (10 times)
+A good time
+
+No wonderin' and a-guessin'
+Don't need dancing lessons
+Listen to the jerky beat
+Shake your head and stomp your feet
+(Come on...)
+
+
+
+Even just the other day
+Taught it to my sister Mae
+Peg-leg Mr. Blue
+Can do the foot stompin', too
+(Come on...)
+
+
+
+Instrumental
+
+Meet me at the dance hall
+We're gonna have a ball
+Sure cure for a corn
+'Fore long, real gone

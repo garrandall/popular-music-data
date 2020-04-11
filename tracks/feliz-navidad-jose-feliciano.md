@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feliz-navidad-jose-feliciano
+lyrics_url: https://genius.com/Jose-feliciano-feliz-navidad-lyrics
 name: Feliz Navidad
 rankings:
 - end_date: '2017-01-13'
@@ -43,4 +44,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
 ---
+Feliz Navidad
+Feliz Navidad
+Feliz Navidad
+Próspero año y felicidad
+Feliz Navidad
+Feliz Navidad
+Feliz Navidad
+Próspero año y felicidad
 
+
+I wanna wish you a Merry Christmas
+I wanna wish you a Merry Christmas
+I wanna wish you a Merry Christmas
+From the bottom of my heart
+I wanna wish you a Merry Christmas
+I wanna wish you a Merry Christmas
+I wanna wish you a Merry Christmas
+From the bottom of my heart
+
+
+Feliz Navidad
+Feliz Navidad
+Feliz Navidad
+Próspero año y felicidad
+Feliz Navidad
+Feliz Navidad
+Feliz Navidad
+Próspero año y felicidad
+
+
+I wanna wish you a Merry Christmas
+I wanna wish you a Merry Christmas
+I wanna wish you a Merry Christmas
+From the bottom of my heart
+I wanna wish you a Merry Christmas
+I wanna wish you a Merry Christmas
+I wanna wish you a Merry Christmas
+From the bottom of my heart
+
+
+Feliz Navidad
+Feliz Navidad
+Feliz Navidad
+Próspero año y felicidad
+Feliz Navidad
+Feliz Navidad
+Feliz Navidad
+Próspero año y felicidad
+
+
+I wanna wish you a Merry Christmas
+I wanna wish you a Merry Christmas
+I wanna wish you a Merry Christmas
+From the bottom of my heart
+I wanna wish you a Merry Christmas
+I wanna wish you a Merry Christmas
+I wanna wish you a Merry Christmas
+From the bottom of my heart
+
+
+Feliz Navidad, ey, ey
+Feliz Navidad
+Feliz Navidad
+Próspero año y felicidad

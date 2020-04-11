@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shut-up-and-let-me-go-the-ting-tings
+lyrics_url: https://www.musixmatch.com/lyrics/The-Ting-Tings/Shut-Up-and-Let-Me-Go
 name: Shut Up And Let Me Go
 rankings:
 - end_date: '2008-05-23'
@@ -51,4 +52,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-10-11'
 ---
+Shut up and let me go
+This hurts, I tell you so
+For the last time you will kiss my lips
+Now shut up and let me go
+Your jeans were once so clean
+I bet you changed your wardrobe since we met
+Now oh so easily you're over me
+Gone is love
+It's you that ought to be holding me
+I'm not containable
+This time love is not sustainable
+I ain't freakin'
+I ain't fakin' this
+I ain't freakin'
+I ain't fakin' this
+I ain't freakin'
+I ain't fakin' this
+Shut up and let me go
+Hey!
+Shut up and let me go
 
+This hurts what I can't show
+For the last time you have me in bits
+Now shut up and let me go
+For fear of living in regret
+I've changed since from when we first met
+Now oh so easily you're over me
+Gone is love
+It's me that ought to be moving on
+You're not adorable
+I want something un-ignorable
+I ain't freakin'
+I ain't fakin' this
+I ain't freakin'
+I ain't fakin' this
+I ain't freakin'
+I ain't fakin' this
+Shut up and let me go
+Hey!
+
+Oh love, hold this.
+
+Hey!
+
+Hey!
+
+Shut up and let me go
+This hurts, I told you so
+For the last time you will kiss my lips
+Now shut up and let me go
+Hey!

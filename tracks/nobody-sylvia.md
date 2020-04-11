@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nobody-sylvia
+lyrics_url: https://genius.com/Sylvia-hutton-nobody-lyrics
 name: Nobody
 rankings:
 - end_date: '1982-09-03'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-08'
 ---
+Sitting in a restaurant
+She walked by
+I seem to recall that certain look in your eye
+I asked who's that?
+You said with a smile
+Oh, it's nobody
+Nobody
 
+Well, maybe that explains the last two weeks
+You called me up, dead on your feet
+Working late again
+I ask who with
+You say nobody
+Oh, nobody
+
+Well, your nobody called today
+She hung up when I asked her name
+Well, I wonder
+Does she think shes being clever?
+
+You say nobody's after you
+The fact is what you say is true
+But I can love you like nobody can even better
+
+Late last night
+We went for a ride
+You were miles away
+I asked who's on your mind?
+
+You said nobody, nobody
+Why do you ask?
+Oh, her again
+I could have told you that
+
+We went back home
+Got ready for bed
+I said to myself I've got one shot left
+You're still mine
+And I won't stand in line behind nobody
+Oh, nobody
+
+Well, your nobody called today
+She hung up when I asked her name
+Well, I wonder
+Does she think she's being clever?
+
+You say nobody's after you
+The fact is what you say is true
+But I can love you like nobody can even better

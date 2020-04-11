@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dominoes-robbie-nevil
+lyrics_url: https://genius.com/Robbie-nevil-dominoes-lyrics
 name: Dominoes
 rankings:
 - end_date: '1987-02-20'
@@ -71,4 +72,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-05-30'
 ---
+Steam was rising in the Asian quarter
+When she stepped out in the street
+Voices dropped and every eye was on her
+As she braved the midnight heat
 
+Dominique, she was a cool oasis
+She could soothe the burning heart
+Dreams of passion written on their faces
+One by one they fall apart
+
+Soldiers of fortune surrender like children
+And follow wherever she leads
+And they all fall down
+
+It's one more night of (dominoes, dominoes)
+Every heart is falling
+But something else is calling her into the night
+Can't you hear me? (dominoes, dominoes)
+I'm coming back to find you
+Don't let the shadows blind you from love when it's mine
+
+To eyes that stared she never shared emotion
+It's a secret that she keeps
+And no one sees the tears that I see falling
+Urgent whispers calling me
+
+Conquering heroes have soon fallen prey
+To that far away look in her eyes
+And they all fall down
+
+It's one more night of (dominoes, dominoes)
+Every heart is falling
+But something else is calling her into the night
+Can't you hear me? (dominoes, dominoes)
+I'm coming back to find you
+Don't let the shadows blind you from love when it's mine
+
+And they all fall down
+And they all fall down
+
+Can't you hear me? (dominoes, dominoes)
+Every heart is falling
+But something else is calling her into the night
+Can't you hear me? (dominoes, dominoes)
+I'm coming back to find you
+Don't let the shadows blind you from love when it's mine
+
+(Dominoes, dominoes)
+Every heart is falling
+But something else is calling her into the night
+Can't you hear me? (dominoes, dominoes)
+I'm coming back to find you
+Don't let the shadows blind you from love when it's mine
+When it's mine
+
+(Dominoes, dominoes)
+(Dominoes, dominoes)

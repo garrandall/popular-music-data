@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sandy-ronny-and-the-daytonas
+lyrics_url: https://genius.com/Ronny-and-the-daytonas-sandy-lyrics
 name: Sandy
 rankings:
 - end_date: '1965-12-10'
@@ -51,4 +52,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
 ---
+Hey, girl, with sunlight in your hair (wo-o-o-oh)
+It hurts me so to see you standing there (wo-o-o-oh)
+O-O-Oh Sandy, you laugh and run away
+You just don't care
 
+Your kiss was warmer than the sun (wo-o-o-oh)
+And I can't forget all the things we've done (wo-o-o-oh)
+O-0-Oh Sandy, do you remember when
+I was the one?
+
+You've been around since
+That new boy who found you
+Took you uptown
+So far from me
+
+But someday, you're good times will be through (wo-o-o-oh)
+And I know just what you're gonna do (wo-o-o-oh):
+You'll come back, Sandy; you know I'll still be here
+Waiting for you
+
+(Spoken:)
+Sandy. Sandy. I love you

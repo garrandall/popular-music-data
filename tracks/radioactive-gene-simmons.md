@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: radioactive-gene-simmons
+lyrics_url: https://genius.com/Gene-simmons-radioactive-lyrics
 name: Radioactive
 rankings:
 - end_date: '1978-12-08'
@@ -39,4 +40,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
 ---
+You're my food, you're my water
+You've got to be the devil's daughter
+Can't get near, can't get far
+You've got the power, but know you are
 
+
+She's radioactive (Radioactive)
+She's very selective (Radioactive)
+She's what I need
+She's so pretty indeed
+She wants it all the time
+
+
+And I'm crazy, kinda hazy
+I'm not sorry, gonna worry
+I'm not lonely, she's my only
+She's got me eatin' out of her hands
+
+
+She's radioactive (Radioactive)
+She's very selective (Radioactive)
+She's what I need
+She's so pretty indeed
+I've gotta make her mine
+
+
+She's radioactive (Radioactive)
+She's very selective (Radioactive)
+She's what I need
+She's so pretty indeed
+I've gotta make her mine
+
+
+She's radioactive (Radioactive)
+She's very selective (Radioactive)
+She's what I need
+She's so pretty indeed
+I've gotta make her mine
+
+
+She's my little baby (Radioactive)
+She's such a lady (Radioactive)
+She knows how I feel
+She knows that it's real
+She wants it all the time
+
+
+She's radioactive (Radioactive)
+She's very selective (Radioactive)
+She's what I need
+She's so pretty indeed
+I've gotta make her mine
+
+
+She's my little baby (Radioactive)
+She's such a lady (Radioactive)
+She knows how I feel
+She knows that it's real
+She wants it all the time

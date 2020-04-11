@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-don-t-use-jelly-the-flaming-lips
+lyrics_url: https://www.musixmatch.com/lyrics/The-Flaming-Lips/She-Don-t-Use-Jelly
 name: She Don't Use Jelly
 rankings:
 - end_date: '1994-12-23'
@@ -87,4 +88,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-04-29'
 ---
+I know a girl who thinks of ghosts,
+She'll make you breakfast, she'll make you toast.
+But she don't use butter.
+And she don't use cheese.
+She don't use jelly, or any of these.
+She uses Vaseline
+Vaseline
+Vaseline
 
+I know a guy who goes to shows,
+When he's at home an' he blows his nose,
+He don't use tissues,
+Or his sleeves,
+He don't use napkins, or any of these.
+He uses Magazines
+Magazines
+Magazines
+Magazines
+
+I know a girl who reminds me of Cher,
+She's always changin' the color of her hair,
+But she don't use nothin', That you buy at the store,
+She likes her hair to, be real orange
+She uses Tangerines
+Tangerines
+Tangerines
+Tangerines
+Tangerines
+Tangerines

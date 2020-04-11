@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-judge-me-chris-brown
+lyrics_url: https://genius.com/Chris-brown-dont-judge-me-lyrics
 name: Don't Judge Me
 rankings:
 - end_date: '2012-11-23'
@@ -87,4 +88,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-03-30'
 ---
+I don't wanna go there
+We should never go there
+Damn, why you wanna go there?
+I guess I gotta go there
 
+
+You're hearing rumors about me and you can't stomach the thought
+Of someone touching my body when you're so close to my heart
+I won't deny what they saying because most of it is true
+But it was all before I fell for you, so please, babe
+
+
+So please don't judge me and I won't judge you
+'Cause it could get ugly before it gets beautiful
+Please don't judge me and I won't judge you
+And if you love me, then let it be beautiful
+
+
+(Oh)
+Let it be beautifu-u-ul (Oh)
+Let it be beautiful (Oh)
+Let it be beautifu-u-ul (Oh)
+Let it be beautiful
+
+
+Everything I say right now is gonna be used in another fight
+And I've been through this so many times
+Can we change the subject?
+You gonna start asking me questions like
+"Was she attractive? Was she an actress?"
+Baby, the fact is
+
+
+You're hearing rumors about me and saw some pictures online
+Saying they got you so angry, making you wish you were blind
+Before we start talking crazy, saying some things we'll regret
+Can we just slow it down and press reset? (Damn)
+You're beautiful, so baby
+
+
+(So baby)
+So please don't judge me and I won't judge you
+'Cause it could get ugly before it gets beautiful
+Please don't judge me and I won't judge you
+And if you love me, then let it be beautiful
+
+
+Just let the past, just be the past
+And focused on things that are gonna make us laugh
+Take me as I am (Take me as I am) and not who I was (Not who I was)
+I'll promise I'll be the one that you can trust, so please
+
+
+So please don't judge me (Don't judge me)
+And I won't judge you (And I won't 'cause)
+'Cause it could get ugly before it gets beautiful
+So please don't judge me and I won't judge you (No, I won't)
+And if you love me (If you love me), then let it be beautiful, babe
+
+
+Let it be beautifu-u-ul (Oh, ooh)
+Let it be beautiful (Let it)
+Let it be, oh
+Let it be beautiful, ayy
+Let it be beautiful
+Yeah, yeah, yeah
+
+
+I don't wanna go there, baby (Be there)
+We should never go there (Oh)

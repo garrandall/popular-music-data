@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: laughter-in-the-rain-neil-sedaka
+lyrics_url: https://www.musixmatch.com/lyrics/Neil-Sedaka/Laughter-in-the-Rain
 name: Laughter In The Rain
 rankings:
 - end_date: '1974-10-25'
@@ -87,4 +88,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-01'
 ---
+Strolling along country roads with my baby
+It starts to rain, it begins to pour
+Without an umbrella we're soaked to the skin
+I feel a shiver run up my spine
+I feel the warmth of her hand in mine
 
+Oh, I hear laughter in the rain
+Walking hand in hand with the one I love
+Oh, how I love the rainy days
+And the happy way I feel inside
+
+After a while we run under a tree
+I turn to her and she kisses me
+There with the beat of the rain on the leaves
+Softly she breathes and I close my eyes
+Sharing our love under stormy skies
+
+Oh, I hear laughter in the rain
+Walking hand in hand with the one I love
+Oh, how I love the rainy days
+And the happy way I feel inside
+
+I feel the warmth of her hand in mine
+
+Oh, I hear laughter in the rain
+Walking hand in hand with the one I love
+Oh, how I love the rainy days
+And the happy way I feel inside
+
+Oh, I hear laughter in the rain
+Walking hand in hand with the one I love
+Oh, how I love the rainy days
+And the happy way I feel inside

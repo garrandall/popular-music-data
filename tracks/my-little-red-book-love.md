@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-little-red-book-love
+lyrics_url: https://www.musixmatch.com/lyrics/Love/My-Little-Red-Book
 name: My Little Red Book
 rankings:
 - end_date: '1966-05-06'
@@ -51,4 +52,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
 ---
+I just got out my little red book
+The minute that you said goodbye
+I thumbed right through my little red book
+I wasn't gonna sit and cry
+And I went from A to Z
+I took out every pretty girl in town
+They danced with me and as I held them
 
+All I did was talk about you
+Hear your name and I'd start to cry
+There's just no getting over you... oh, no...
+
+There ain't no girl in my little red book
+Who could ever replace your charms
+And each girl in my little red book
+Knows you're the one I'm thinkin' of
+Oh won't you please come back
+Without your precious love I can't go on
+Where can love be I need you so much
+
+All I did was talk about you
+Hear your name and I'd start to cry
+There's just no getting over you... oh, no...
+
+Oh won't you please come back
+Without your precious love I can't go on
+It's haunting me I need you so much
+
+All I did was talk and talk about you
+Hear your name and I'd start to cry
+There's just no getting over you
+All I did was talk and talk about you
+Hear your name and I'd start to cry
+There's just no getting over you... oh no

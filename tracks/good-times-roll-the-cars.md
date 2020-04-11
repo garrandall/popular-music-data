@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-times-roll-the-cars
+lyrics_url: https://genius.com/The-cars-good-times-roll-lyrics
 name: Good Times Roll
 rankings:
 - end_date: '1979-03-23'
@@ -47,4 +48,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
 ---
+Let the good times roll
+Let them knock you around
+Let the good times roll
+Let them make you a clown
 
+
+Let them leave you up in the air
+Let them brush your rock and roll hair
+Let the good times roll
+Let the good times roll, oh
+Let the good times roll
+
+
+Let the stories be told
+Let them say what they want
+Let the photos be old
+Let them show what they want
+
+
+Let them leave you up in the air
+Let them brush your rock and roll hair
+Let the good times roll
+Let the good times roll, oh
+Won't you let the good times roll
+
+
+Good times roll
+
+
+If the illusion is real
+Let them give you a ride
+If they got thunder appeal
+Let them be on your side
+
+
+Let them leave you up in the air
+Let them brush your rock and roll hair
+Let the good times roll
+Won't you let the good times roll, oh
+Let the good times roll
+
+Let the good times roll
+Won't you let the good times roll
+Well, let the good times roll
+Let 'em roll
+Good times roll
+
+Let the good times roll
+Let the good times roll
+Ooh, let the good times roll
+Let 'em roll (Good times roll)
+
+
+Well, let the good times roll (Let the good times roll)
+Let the good times roll (Good times roll)
+(Let the good times roll)
+Let the good times roll
+Let 'em roll

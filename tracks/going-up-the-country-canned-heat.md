@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: going-up-the-country-canned-heat
+lyrics_url: https://genius.com/Canned-heat-going-up-the-country-lyrics
 name: Going Up The Country
 rankings:
 - end_date: '1968-12-13'
@@ -51,4 +52,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-02-15'
 ---
+I'm going up the country, baby, don't you wanna go?
+I'm going up the country, baby, don't you wanna go?
+I'm going to some place where I've never been before
 
+I'm going, I'm going where the water tastes like wine
+I'm going where the water tastes like wine
+We can jump in the water, stay drunk all the time
+
+I'm gonna leave this city, got to get away
+I'm gonna leave this city, got to get away
+All this fussing and fighting, man, you know I sure can't stay
+
+Now, baby, pack your leaving trunk, you know we've got to leave today
+Just exactly where we're going I cannot say, but
+We might even leave the USA
+'Cause there's a brand new game that I wanna play
+
+No use of you running or screaming and crying
+'Cause you've got a home as long as I've got mine

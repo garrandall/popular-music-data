@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shadrack-brook-benton
+lyrics_url: https://genius.com/Brook-benton-shadrack-lyrics
 name: Shadrack
 rankings:
 - end_date: '1962-01-19'
@@ -43,4 +44,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
 ---
+(Shadrack, Meshach, Abednego!)
+(Shadrack, Meshach, Abednego!)
 
+Now there were three children from the land of Israel
+(Shadrack, Meshach, Abednego!)
+Ah, they took a little trip to the land of Babylon
+(Shadrack, Meshach, Abednego!)
+And ol' Nebudchanezzer was the king of Babylon
+(Shadrack, Meshach, Abednego!)
+So they took a lot of gold, and made 'em an idol
+(Shadrack, Meshach, Abednego!)
+
+And they told everybody 'when you hear the music of the clarinet,'
+They told everybody 'when you hear the music of the flute,'
+'Now listen, children, when you hear the music of the horn,'
+'Ah, you gotta bow down and worship the idol!'
+(Shadrack, Meshach, Abednego!)
+
+Ah, but the children of Israel would not bow down!
+(Shadrack, Meshach, Abednego!)
+'We ain't goin' to bow to no golden idol!'
+(Shadrack, Meshach, Abednego!)
+No, you couldn't fool the children with the golden idol!
+(Shadrack, Meshach, Abednego!)
+
+So the king cast the children in the fiery furnace
+(Shadrack, Meshach, Abednego!)
+He heaped on coal and red-hot brimstone, the Good Book say
+(Shadrack, Meshach, Abednego!)
+Even made it seven times hotter than it oughtta be!
+(Shadrack, Meshach, Abednego!)
+Now they burned up the soldiers that the king had put there
+(Shadrack! Meshach, Abednego!)
+Oh, Shadrack! Meshach, Abednego!
+
+Um hmm, then the Good Lord called an angel
+Gave him a couple of wings
+He said 'go down there through the middle of the furnace
+And begin to coolin' the flames.'
+And those children got so happy
+They went struttin' right through the fire
+And this lot they had them talkin' about the power of the gospel
+(Shadrack, Meshach, Abednego!)
+
+Oh, Shadrack! Meshach, Abednego!!!

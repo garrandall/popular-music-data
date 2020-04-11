@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-d-like-to-teach-the-world-to-sing--in-perfect-harmony--the-hillside-singers
+lyrics_url: https://genius.com/The-hillside-singers-id-like-to-teach-the-world-to-sing-in-perfect-harmony-lyrics
 name: I'd Like To Teach The World To Sing (In Perfect Harmony)
 rankings:
 - end_date: '1971-12-03'
@@ -55,4 +56,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-02-12'
 ---
+Id like to build the world a home
+And furnish it with love
+Grow apple trees and honey bees and snow-white turtle doves
 
+I'd like to teach the world to sing
+In perfect harmony
+I'd like to hold it in my arms and keep it company
+
+I'd like to see the world for once
+All standing hand in hand
+And hear them echo through the hills "Ah, peace throughout the land"
+
+(That's the song I hear)
+I'd like to teach the world to sing (that the world sings today)
+In perfect harmony
+
+I'd like to teach the world to sing
+In perfect harmony
+
+Id like to build the world a home
+And furnish it with love
+Grow apple trees and honey bees and snow-white turtle doves

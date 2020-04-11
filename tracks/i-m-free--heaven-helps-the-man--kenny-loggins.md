@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-free--heaven-helps-the-man--kenny-loggins
+lyrics_url: https://genius.com/Kenny-loggins-im-free-lyrics
 name: I'm Free (Heaven Helps The Man)
 rankings:
 - end_date: '1984-06-22'
@@ -63,4 +64,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-09-15'
 ---
+Looking into your eyes I know I'm right
+If there's anything worth my love it's worth a fight
+We only get one chance
+But nothing ties our hands
+You're what I want
+Listen to me
+Nothing I want
+Is out of my reach
 
+Chorus
+(I'm free)
+Heaven helps the man who fights his fear
+Love's the only thing that keeps me here
+You're the reason that I'm hanging on
+My heart's staying where my heart belongs
+(I'm free)
+
+Running away will never make me free
+And nothing we sign is any kind of guarantee
+But I wanna hold you now
+And I won't hold you down
+
+I'm shaking the past
+Making my breaks
+Taking control
+If that's what it takes
+
+Chorus

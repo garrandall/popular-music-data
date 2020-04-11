@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: two-occasions-the-deele
+lyrics_url: https://genius.com/The-deele-two-occasions-lyrics
 name: Two Occasions
 rankings:
 - end_date: '1988-03-04'
@@ -91,4 +92,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-16'
 ---
+A summer love is beautiful
+But it's not enough
+To satisfy emotions
+That are shared between us
+A winter love is cozy
+But I need so much more
+It just intensifies my wants
+To have a love that endures
 
+
+'Cause every time I close my eyes
+I think of you
+And no matter what the season is
+I still love you
+With all my heart
+And I wanna be with you
+Wherever you are
+
+
+I only think of you on two occasions
+That's day and night
+I'd go for broke if I could be with you
+Only you can make it right
+
+
+
+An autumn love is special
+At this time of the year
+But when the leaves are gone
+Does that love disappear?
+I never underestimate the new love of spring
+But I'm glad to say in my heart
+I know my love's lasting
+
+
+'Cause every time I close my eyes
+I think of you
+And no matter what the season is
+I still love you
+With all my heart
+And I wanna be with you
+Wherever you are
+
+
+I only think of you on two occasions (What's that?)
+That's day and night
+I'd go for broke if I could be with you
+Only you can make it right
+I only think of you on two occasions
+That's day and night
+I'd go for broke if I could be with you
+Only you can make it right
+
+
+'Cause every time I close my eyes
+I think of you
+And no matter what the season is
+I still love you
+With all my heart
+And I wanna be with you
+Wherever you are
+
+
+I only think of you on two occasions
+That's day and night
+I'd go for broke if I could be with you
+Only you can make it right
+I only think of you on two occasions
+That's day and night
+I'd go for broke if I could be with you
+Only you can make it right

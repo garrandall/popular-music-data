@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-stop-jeffrey-osborne
+lyrics_url: https://genius.com/Jeffrey-osborne-dont-stop-lyrics
 name: Don't Stop
 rankings:
 - end_date: '1984-10-19'
@@ -67,4 +68,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-01-19'
 ---
+Baby, don't stop
 
+Every time I look at you, my heart starts dancin'
+And every little thing you do is so entrancin'
+You open up a door, I never knew before
+You leave me wanting more n' more n' more
+
+Don't stop when the love's gone crazy
+Never thought I'd ever be sane, baby
+Don't stop, my whole world's gone crazy
+I can't fight this feeling anymore
+
+Hey, hey, hey!
+Hey, hey, hey!
+
+Hours on the telephone, it's so frustrating
+Hanging up and all alone, anticipating
+The magic of your touch, that warm electric rush
+You keep me rising up and up and up
+
+Don't stop when the love's gone crazy
+Never thought I'd ever be sane, baby
+Don't stop, my whole world's gone crazy
+No use fighting this wild feeling, baby
+
+Don't stop when the love's gone crazy
+Never thought I'd ever be sane, baby
+Don't stop, my whole world's gone crazy
+I can't fight this feeling anymore
+
+Baby, don't stop
+
+Oh-oh-oh-oh...
+
+Oh, baby
+
+You open up a door, I never knew before
+You leave me wanting more n' more n' more
+Oh...
+
+Don't stop when the love's gone crazy
+Never thought I'd ever be sane, baby
+Don't stop, my whole world's gone crazy
+No use fighting this wild feeling, baby
+
+Don't stop when the love's gone crazy
+Never thought I'd ever be sane, baby
+Don't stop, my whole world's gone crazy
+I can't fight this, no, baby
+
+(Don't stop)
+Oh, no, baby, no
+(Don't stop)
+You know you open up a door
+That I never knew before
+(Don't stop)
+You know you leave me wanting more
+And more and more and more and more, baby
+(Don't stop)
+Don't stop, baby, no, no
+Baby, don't stop
+
+(Don't stop)
+(Don't stop, no, don't stop)
+(Don't stop)
+(Don't stop, no, don't stop...)

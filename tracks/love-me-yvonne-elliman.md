@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-yvonne-elliman
+lyrics_url: https://genius.com/Yvonne-elliman-love-me-lyrics
 name: Love Me
 rankings:
 - end_date: '1976-10-08'
@@ -83,4 +84,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-05'
 ---
+I remember times my love when we really had it all
+You were always there to make me smile, help me when I fall
+Ooh, I can't believe you're leaving me
+When there's so much more to say -- I can't let you go
+Ooh , ev'ry time I look at you I still can feel the glow
+Let it be, let it grow
 
+Love me , please , just a little bit longer
+Together we can make it
+Our love is much too young to break it
+Love me , please , just a little bit harder
+
+All I ever wanted was to have you to myself
+Then I see you standing there in the arms of someone else
+You know a man can stand so much
+And it's more then I can bear -- I can't let you go
+Ooh, ev'ry time I look at you I still can feel the glow
+Let it be , let it grow
+
+Love me , please, just a little bit longer
+Together we can make it
+Our love is much too young to break it
+Love me , please, just a little bit harder
+
+Never even try to see things her way
+It's hard on a woman when love ain't no love at all
+And when she walks away (no no) -- and she probably will
+You're gonna be sorry, begging her , please
+
+Love me , please, just a little bit longer
+Together we can make it
+Our love is much too young to break it
+Love me , please, just a little bit harder
+
+I think I can work it out
+I can't get enough
+I want you tomorrow
+
+Love me , please, just a little bit longer
+Together we can make it
+Our love is much too young to break it
+Love me , please, just a little bit longer
+Together we can make it
+Our love is much too young to break it
+
+(repeat and fade)

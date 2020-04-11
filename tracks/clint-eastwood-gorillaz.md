@@ -1,10 +1,11 @@
 ---
 artists:
 - Gorillaz
-features: []
+features:
+- Del the Funky Homosapien
 genres: []
 key: clint-eastwood-gorillaz
-lyrics_url: https://www.azlyrics.com/lyrics/gorillaz/clinteastwoodedcasesweetieirierefix.html
+lyrics_url: https://genius.com/Gorillaz-clint-eastwood-lyrics
 name: Clint Eastwood
 rankings:
 - end_date: '2001-08-31'
@@ -52,83 +53,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-11-03'
 ---
-
-
-Bu-whoa
-Dis da man you call Sweet
-Alongside a man called Ed Case
-Wit da Gorillaz
-The refix
-Can I see it
-Na na na all right
-Na na na oh
-It's a bigger o'ting
-Cha
-
+Hoo-hoo-hoo-hoo-hoo
 
 I ain't happy, I'm feeling glad
-I got sunshine, in a bag
+I got sunshine in a bag
 I'm useless, but not for long
 The future is coming on
+I ain't happy, I'm feeling glad
+I got sunshine in a bag
+I'm useless, but not for long
+The future is coming on
+It's coming on, it's coming on
+It's coming on, it's coming on
+
+Finally, someone let me out of my cage
+Now, time for me is nothing, 'cause I'm countin' no age
+Nah, I couldn't be there, now you shouldn't be scared
+I'm good at repairs, and I'm under each snare
+Intangible, bet you didn't think, so I command you to
+Panoramic view, look, I'll make it all manageable
+Pick and choose, sit and lose, all you different crews
+Chicks and dudes, who you think is really kickin' tunes?
+Picture you getting down in a picture tube
+Like you lit the fuse, you think it's fictional?
+Mystical? Maybe, spiritual hero
+Who appears in you to clear your view when you're too crazy?
+Lifeless to those, the definition for what life is
+Priceless to you, because I put you on the hype shit
+You like it? Gun smokin', righteous with one toke
+Get psychic among those, possess you with one dose
+
+I ain't happy, I'm feeling glad
+I got sunshine in a bag
+I'm useless, but not for long
+The future is coming on
+I ain't happy, I'm feeling glad
+I got sunshine in a bag
+I'm useless, but not for long
+The future is coming on (That's right)
+It's coming on, it's coming on
+It's coming on, it's coming on
+
+The essence, the basics, without it, you make it
+Allow me to make this childlike in nature
+Rhythm, you have it or you don't, that's a fallacy
+I'm in them, every sproutin' tree, every child of peace
+Every cloud and sea, you see with your eyes
+I see destruction and demise, corruption in disguise (That's right)
+From this fuckin' enterprise, now I'm sucked into your lies
+Through Russel, not his muscles
+But percussion he provides for me as a guide, y'all can see me now
+'Cause you don't see with your eye, you perceive with your mind
+That's the inner (Fuck 'em) so I'ma stick around with Russ and be a mentor
+Bust a few rhymes so motherfuckers remember
+Where the thought is, I brought all this
+So you can survive when law is lawless (Right here)
+Feelings, sensations that you thought was dead
+No squealing and remember that it's all in your head
+
+I ain't happy, I'm feeling glad
+I got sunshine in a bag
+I'm useless, but not for long
+The future is coming on
+I ain't happy, I'm feeling glad
+I got sunshine in a bag
+I'm useless, but not for long
+My future is coming on
+It's coming on, it's coming on
+It's coming on, it's coming on
+
+My future is coming on
+It's coming on, it's coming on
+It's coming on, it's coming on
+My future
+Is coming on
+It's coming on, it's coming on
+It's coming on, it's coming on
 It's coming on
-
-
-Ah ah ah ah, give 'em some, ah ah
-Ah ah ah ah, bigger, oh ah ah
-
-Oh, you wanna live like star
-Oh, off with ya clothes with the cure
-Oh, wanna see me new Rolex
-Time to get the Sergeant 
-So me gotta oh
-
-Oh, them others watch 
-Oh,  some diamonds and fur
-Oh, don't matter what you  heard
-Oh, Come on
-We're makin' money
-Oh Babylon a chat to me funny
-Oh, 
-That'll get the Sergeant weak
-So me gotta
-
-Feed Ma' Motion
-Feed Ma' Motion
-Music is from the sheet
-Designed to make you
-Move your feet and
-Feed Mama Oshun
-Feed Mama Oshun
-And then on and then on
-
-
-
-
-Oh, you wanna make 'nuf dough
-Oh Popular me everywhere me go
-Oh, you wanna live like star
-Off with ya clothes with the cure
-
-
-
-
-It's a bigger o'ting, cha
-
-Feed Ma' Motion
-Feed Ma' Motion
-Music is from the sheet
-Designed to make you
-Move your feet and
-Feed Mama Oshun
-Feed Mama Oshun
-And then on and then on
-
-Oh, you wanna make 'nuf dough
-Oh Popular me everywhere me go
-Oh, you wanna live like star
-Off with ya clothes with the cure
-
-
-
-
-
+My future is coming on
+It's coming on, it's coming on
+My future
+It's coming on, it's coming on
+It's coming on
+My future
+It's coming on, it's coming on
+My future

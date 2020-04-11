@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: itsy-bitsy-teenie-weenie-yellow-polkadot-bikini-brian-hyland
+lyrics_url: https://genius.com/Brian-hyland-itsy-bitsy-teenie-weenie-yellow-polkadot-bikini-lyrics
 name: Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini
 rankings:
 - end_date: '1960-07-10'
@@ -67,4 +68,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-10'
 ---
+Bop bop bop bop bopopopopopopop
 
+She was afraid to come out of the locker
+She was as nervous as she could be
+She was afraid to come out of the locker
+She was afraid that somebody would see
+
+Two three four
+Tell the people what she wore
+
+It was an itsy bitsy teenie weenie yellow polka dot bikini
+That she wore for the first time today
+An itsy bitsy teenie weenie yellow polka dot bikini
+So in the locker, she wanted to stay
+
+Two three four
+Stick around we'll tell you more
+Bop bop bop bop bopopopopopopop
+
+She was afraid to come out in the open (badadup)
+And so a blanket around her she wore (badadup)
+She was afraid to come out in the open (badadup)
+And so she sat, bundled up on the shore (badadup)
+
+Two three four
+Tell the people what she wore
+
+It was an itsy bitsy teenie weenie yellow polka dot bikini
+That she wore for the first time today
+An itsy bitsy teenie weenie yellow polka dot bikini
+So in the blanket, she wanted to stay
+
+Two three four
+Stick around we'll tell you more
+Bop bop bop bop bopopopopopopop
+
+Now she's afraid to come out of the water
+And I wonder what she's gonna do
+Now she's afraid to come out of the water
+And the poor little girl's turning blue
+
+Two three four
+Tell the people what she wore
+
+It was an itsy bitsy teenie weenie yellow polka dot bikini
+That she wore for the first time today
+An itsy bitsy teenie weenie yellow polka dot bikini
+So in the water, she wanted to stay
+
+From the locker to the blanket
+From the blanket to the shore
+From the shore to the water
+Guess there isn't any more

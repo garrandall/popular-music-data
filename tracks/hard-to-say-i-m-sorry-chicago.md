@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hard-to-say-i-m-sorry-chicago
+lyrics_url: https://genius.com/Chicago-hard-to-say-im-sorry-lyrics
 name: Hard To Say I'm Sorry
 rankings:
 - end_date: '1982-06-11'
@@ -103,4 +104,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-11-13'
 ---
+Everybody needs a little time away
+I heard her say, from each other
+Even lovers need a holiday
+Far away, from each other
 
+
+Hold me now
+It's hard for me to say I'm sorry
+I just want you to stay
+
+
+After all that we've been through
+I will make it up to you, I promise to
+And after all that's been said and done
+You're just a part of me, I can't let go
+
+
+Couldn't stand to be kept away
+Just for the day, from your body
+Wouldn't wanna be swept away
+Far away, from the one that I love
+
+
+Hold me now
+It's hard for me to say I'm sorry
+I just want you to know
+Hold me now
+I really wanna tell you I'm sorry
+I could never let you go
+
+
+After all that we've been through
+I will make it up to you, I promise to
+And after all that's been said and done
+You're just a part of me, I can't let go
+
+
+After all that we've been through
+I will make it up to you, I promise to
+
+
+You're gonna be the lucky one
+
+
+When we get there gonna jump in the air
+No one'll see us cause there's nobody there
+After all, you know we really don't care
+Hold on, I'm gonna take you there

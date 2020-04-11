@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-walked-in-dinah-washington
+lyrics_url: https://genius.com/Dinah-washington-love-walked-in-lyrics
 name: Love Walked In
 rankings:
 - end_date: '1960-10-09'
@@ -47,4 +48,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
 ---
+Love walked right in and drove the shadows away
+Love walked right in and brought my sunniest day
+One magic moment and my heart seemed to know
+That love said "Hello" though not a word was spoken
 
+One look and I forgot the gloom of the past
+One look and I had found my future at last
+One look and I had found a world completely new
+When love walked in with you

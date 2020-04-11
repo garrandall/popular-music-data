@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: invincible--theme-from-the-legend-of-billie-jean--pat-benatar
+lyrics_url: https://genius.com/Pat-benatar-invincible-lyrics
 name: Invincible (Theme From The Legend Of Billie Jean)
 rankings:
 - end_date: '1985-07-12'
@@ -75,4 +76,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-10-26'
 ---
+This bloody road remains a mystery
+This sudden darkness fills the air
+What are we waiting for?
+Won't anybody help us?
+What are we waiting for?
 
+
+We can't afford to be innocent
+Stand up and face the enemy
+It's a do-or-die situation
+We will be invincible
+
+
+This shattered dream you cannot justify
+We're gonna scream until we're satisfied
+What are we running for?
+We've got the right to be angry
+What are we running for?
+When there's nowhere we can run to anymore
+
+
+We can't afford to be innocent
+Stand up and face the enemy
+It's a do or die situation
+We will be invincible
+And with the power of conviction
+There is no sacrifice
+It's a do-or-die situation
+We will be invincible
+
+
+Won't anybody help us?
+What are we running for?
+When there's nowhere, nowhere we can run to anymore
+
+
+We can't afford to be innocent
+Stand up and face the enemy
+It's a do or die situation
+We will be invincible
+And with the power of conviction
+There is no sacrifice
+It's a do-or-die situation
+We will be invincible
+
+
+Yeah, oo-ooh ooh
+Yeah, yeah
+Oo-ooh ooh, yeah, yeah, yeah (we can't afford to be innocent)
+Yeah, oooh (stand up and face the enemy)
+(it's a do-or-die situation)
+(We will be invincible)
+Yeah (We can't afford to be innocent)
+(Stand up and face the enemy)
+(It's a do-or-die situation)
+(We will be invincible)

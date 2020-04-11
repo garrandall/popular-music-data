@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: to-the-door-of-the-sun--alle-porte-del-sole--al-martino
+lyrics_url: https://genius.com/Al-martino-to-the-door-of-the-sun-lyrics
 name: To The Door Of The Sun (Alle Porte Del Sole)
 rankings:
 - end_date: '1974-12-27'
@@ -71,4 +72,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-04-05'
 ---
+I look in the mirror, but I look at a stranger
+Can this be the sensible me who said he wouldn't fall in love
+I suddenly saw you, and I knew there was danger
+Why run away when I love you and want you forever
+I know I'm a dreamer, but I don't want to wake up
+Whenever you touch me I can fly to the sky
 
+To the door of the sun, to the ends of the sea
+I will travel anywhere as long as you are there with me
+On the wings of the wind, in the arms of a storm
+It is always summer weather, with your love to keep me warm
+
+To the door of the sun, to the ends of the sea
+I will travel anywhere as long as you are there with me
+There is no-one else but you
+There is no-one else but you
+
+I look in the future, the golden tomorrows
+As long as you're walking beside me, I'll always be a dreamer
+As long as we're sharing, the smiles and the sorrows
+Make everyday we're together, a day to remember
+I have no illusions, just a heart full of lovin'
+It's a wonderful world I know, whenever you're near
+
+To the door of the sun, to the ends of the sea
+I will travel anywhere as long as you are there with me
+On the wings of the wind, in the arms of a storm
+It is always summer weather, with your love to keep me warm
+
+To the door of the sun, to the ends of the sea
+I will travel anywhere as long as you are there with me
+There is no-one else but you
+There is no-one else but you
+No-one but you...

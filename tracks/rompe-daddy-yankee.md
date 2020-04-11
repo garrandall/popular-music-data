@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rompe-daddy-yankee
+lyrics_url: https://genius.com/Daddy-yankee-rompe-lyrics
 name: Rompe
 rankings:
 - end_date: '2005-12-09'
@@ -119,4 +120,91 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-06-10'
 ---
+You know
+Los capos están ready
+Las mamis están ready
+Y en la calle estamos ready
+Yeah, yeah, andamos ready
+Los barrios están ready
+One, two, get ready, come on!
+Oh, oh, oh, oh!
 
+
+Rompe, rompe, rompe, bien guilla'o
+Rompe, rompe, rompe, ese cuerpo ella lo—
+Rompe, rompe, rompe, bien guilla'o
+Are you ready!?
+
+Rompe, rompe, rompe, break it down
+Rompe, rompe, rompe, the way she moves, ella lo—
+Rompe, rompe, rompe, break it down
+Let's go!
+
+
+My boo, no se limita a la hora de romper su pum-pum
+Con curvas más calientes que el sur, right through
+Enséñame si tienes la actitud, mami
+Dale, go! Dale, go! Dale, go! Go!
+Tiempo; llego el momento, baby, de perder el control
+Trabájame ese cuerpo más que un shot de Winstrol
+Sube ese temperamento, dame movimiento
+Lento, lento, ella lo—
+
+
+Rompe, rompe, rompe, bien guilla'o
+Rompe, rompe, rompe, ese cuerpo ella lo—
+Rompe, rompe, rompe, bien guilla'o
+Are you ready!?
+
+Rompe, rompe, rompe, break it down
+Rompe, rompe, rompe, the way she moves, ella lo—
+Rompe, rompe, rompe, break it down
+G-Go! G-Go! G-Go! G-Go!
+
+
+Voy chillin', tranquilo, that's right
+Buscando una gata que cae
+No escondas todo eso que traes
+Yo, baby, ¿qué es la que hay?
+Voy chillin', tranquilo, that's right
+Buscando una gata que cae
+No escondas todo eso que traes
+¿Qué pasa, socio?, ¿qué es la que hay?
+(What!? What!? What!? What!?)
+
+
+Pinche, guey, pensaste que esto era un mamey
+No vo'a dar break, deja ese guille de Scarface
+Get out my way, usted no vende ni en eBay
+No das pa' na', conmigo estás Frito-Lay
+Chequea el swing, que se le pega a to'as las nenas más que un G-string
+Yo soy la pesadilla de todos los dream team
+Ya se te acabo el magazine
+Conmigo no te la guilles, pa', de Listerine
+Daddy te—
+
+
+Rompe, rompe, rompe, bien guilla'o
+Rompe, rompe, rompe, ese cuerpo ella lo—
+Rompe, rompe, rompe, bien guilla'o
+Are you ready!?
+
+Rompe, rompe, rompe, break it down
+Rompe, rompe, rompe, the way she moves, ella lo—
+Rompe, rompe, rompe, break it down
+Let's go!
+
+
+You know!
+Oh!, oh!
+En Directo
+Oh!, oh!
+Daddy Yankee, yo!
+Con Los Jedis, Monserrate & DJ Urba
+Fish!
+It's official!
+Daddy Yankee!
+Cartel Records
+En Directo
+Who's this?
+Hahaha

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: and-she-was-talking-heads
+lyrics_url: https://genius.com/Talking-heads-and-she-was-lyrics
 name: And She Was
 rankings:
 - end_date: '1985-09-13'
@@ -87,4 +88,80 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-18'
 ---
+Hey!
 
+
+And she was lying in the grass
+And she could hear the highway breathing
+And she could see a nearby factory
+She's making sure she is not dreaming
+See the lights of a neighbor's house
+Now she's starting to rise
+Take a minute to concentrate
+And she opens up her eyes
+
+
+The world was moving and she was
+Right there with it, and she was
+The world was moving she was
+Floating above it, and she was
+And she was
+
+
+And she was drifting through the backyard
+And she was taking off her dress
+And she was moving very slowly
+Rising up above the earth
+Moving into the universe
+And she's drifting this way and that
+Not touching the ground at all
+And she's up above the yard
+
+
+The world was moving and she was right there with it
+And she was
+Hey, hey
+The world was moving she was floating above it
+And she was
+Hey, hey, hey
+
+
+And she was glad about it, no doubt about it
+She isn't sure about what she's done
+No time to think about what to tell them
+No time to think about what she's done
+And she was
+Hey, he-hey, hey!
+
+And she was looking at herself
+And things were looking like a movie
+She had a pleasant elevation
+She's moving out in all directions, oh, oh, oh
+
+
+Hey, hey, hey, hey hey, hey, hey
+Hey, hey, hey hey, hey (hey)
+Hey, hey, hey, hey hey, hey, hey
+Hey, hey, hey hey, hey
+
+
+The world was moving, she was right there with it
+And she was
+The world was moving, she was floating above it
+And she was
+
+
+Joining the world of missing persons
+And she was (hey, hey, hey, hey, hey, hey, hey)
+Missing enough to feel alright
+And she was, ha, ha
+
+
+And she was
+And she was
+And she was
+And she was
+And she was, hey, hey
+And she was
+And she was
+And she was

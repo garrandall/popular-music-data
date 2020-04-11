@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sentimental-lady-bob-welch
+lyrics_url: https://genius.com/Bob-welch-sentimental-lady-lyrics
 name: Sentimental Lady
 rankings:
 - end_date: '1977-10-21'
@@ -79,4 +80,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-11'
 ---
+You are here and warm
+But I could look away and you'd be gone
+'Cause we live in a time
+When meaning falls in splinters from our lives
+And that's why I've traveled far
+'Cause I come so together where you are
 
+
+Yes, and all of the things that I said that I wanted
+Come rushing by in my head when I'm with you
+Fourteen joys and a will to be merry
+All of the things that they say are very
+
+
+Sentimental gentle wind
+Blowing through my life again
+Sentimental lady, gentle one (All I need is you)
+Sentimental gentle wind
+Blowing through my life again
+Sentimental lady, gentle one
+
+Ooh, sentimental lady
+
+
+Yes, and all of the things that I said that I wanted
+Come rushing by in my head when I'm with you
+Fourteen joys and a will to be merry
+All of the things that they say are very
+
+
+Sentimental gentle wind
+Blowing through my life again
+Sentimental lady, gentle one (All I need is you)
+Sentimental gentle wind
+Blowing through my life again
+Sentimental lady, gentle one (All I need is you)
+
+
+All of the things that I said that I wanted
+Come rushing by in my head when I'm with you
+Fourteen joys and a will to be merry
+All of the things that they say are very (All I need is you)
+
+All of the things that I said that I wanted
+Come rushing by in my head when I'm with you

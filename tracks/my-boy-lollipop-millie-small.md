@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-boy-lollipop-millie-small
+lyrics_url: https://genius.com/Millie-small-my-boy-lollipop-lyrics
 name: My Boy Lollipop
 rankings:
 - end_date: '1964-05-29'
@@ -55,4 +56,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-08'
 ---
+My boy Lollipop
+You make my heart go giddyup
+You are as sweet as candy
+You're my sugar dandy
 
+Whoa oh, my boy Lollipop
+Never ever leave me
+Because it would grieve me
+My heart told me so
+
+I love you, I love you, I love you so
+But I don't want you to know
+I need you, I need you, I need you so
+And I'll never let you go
+
+My boy Lollipop
+You make my heart go giddyup
+You set the world on fire
+You are my one desire
+Whoa, my Lollipop
+
+I love you, I love you, I love you so
+But I don't want you to know
+I need you, I need you, I need you so
+And I'll never let you go
+
+My boy Lollipop
+You make my heart go giddyup
+You set the world on fire
+You are my one desire
+Whoa, my Lollipop
+Whoa, my Lollipop
+
+My boy Lollipop
+My boy Lollipop
+My boy Lollipop
+My boy Lollipop

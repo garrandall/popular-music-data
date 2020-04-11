@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-ketchup-song--hey-hah--las-ketchup
+lyrics_url: https://genius.com/Las-ketchup-the-ketchup-song-asereje-spanglish-version-lyrics
 name: The Ketchup Song (Hey Hah)
 rankings:
 - end_date: '2002-10-18'
@@ -43,4 +44,114 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-12-07'
 ---
+Friday night, it's party time
+Feelin' ready, lookin' fine
+Viene Diego rumbeando
+With the magic in his eyes
+Checkin' every girl in sight
+Groovin' like he does the mambo
 
+
+And he's the man alli en la disco, playin' sexy, feelin' hotter
+He's the king bailando el ritmo ragatanga
+And the DJ that he knows well
+On the spot always around twelve
+Plays the mix that Diego mezcla con la salsa
+Y la baila and he dances y la canta
+
+
+Aserejé ja de je
+De jebe tu de jebere
+Sebiunouva
+Majabi an de bugui
+An de buididipí
+Aserejé ja de je
+De jebe tu de jebere
+Sebiunouva
+Majabi an de bugui
+An de buididipí
+
+
+Many think its brujeria
+How he comes and disappears
+Every move will hypnotize you
+Some will call it chuleria
+Others say that its the real
+Rastafari afrogitano
+
+
+And he's the man alli en la disco, playin' sexy, feelin' hotter
+He's the king bailando el ritmo ragatanga
+And the DJ that he knows well
+On the spot always around twelve
+Plays the mix that Diego mezcla con la salsa
+Y la baila and he dances y la canta
+
+
+Aserejé ja de je
+De jebe tu de jebere
+Sebiunouva
+Majabi an de bugui
+An de buididipí
+Aserejé ja de je
+De jebe tu de jebere
+Sebiunouva
+Majabi an de bugui
+An de buididipí
+
+
+A nanana, nanana, nananana, na!
+A nanana, nananana, na!
+A nanana, nanana, nananana, na!
+A nananay, ay, ay, ay, yo!
+A nanana, nanana, nananana, na!
+A nanana, nananana, na!
+A nanana, nanana, nananana, na!
+A nananay, ay, ay, ay, yo! (oh!)
+
+
+Aserejé ja de je
+De jebe tu de jebere
+Sebiunouva
+Majabi an de bugui
+An de buididipí
+Aserejé ja de je
+De jebe tu de jebere
+Sebiunouva
+Majabi an de bugui
+An de buididipí
+Aserejé ja de je
+De jebe tu de jebere
+Sebiunouva
+Majabi an de bugui
+An de buididipí
+Aserejé ja de je
+De jebe tu de jebere
+Sebiunouva
+Majabi an de bugui
+An de buididipí
+Aserejé ja de je
+De jebe tu de jebere
+Sebiunouva
+Majabi an de bugui
+An de buididipí
+Aserejé ja de je
+De jebe tu de jebere
+Sebiunouva
+Majabi an de bugui
+An de buididipí
+Aserejé ja de je
+De jebe tu de jebere
+Sebiunouva
+Majabi an de bugui
+An de buididipí
+Aserejé ja de je
+De jebe tu de jebere
+Sebiunouva
+Majabi an de bugui
+An de buididipí
+Aserejé ja de je
+De jebe tu de jebere
+Sebiunouva
+Majabi an de bugui
+An de buididipí

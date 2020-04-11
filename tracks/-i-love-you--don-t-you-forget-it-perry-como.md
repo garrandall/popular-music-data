@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -i-love-you--don-t-you-forget-it-perry-como
+lyrics_url: https://genius.com/Perry-como-dont-you-forget-it-lyrics
 name: (I Love You) Don't You Forget It
 rankings:
 - end_date: '1963-06-07'
@@ -43,4 +44,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-07-27'
 ---
+I love you an' don't you forget it
+I love you an' don't you forget it
+I love you an' don't you forget it, baby!
 
+Love me too an' you won't regret it
+Love me too an' you won't regret it
+Love me too an' you won't regret it, baby!
+
+I love you an' don't you forget it
+I love you an' don't you forget it
+I love you an' don't you forget it, baby!
+
+I love you an' don't you forget it
+That makes seven times that I've said it
+I don't see how you can forget it now!
+
+I love you in the springtime
+I love you in the fall
+I love you at a party
+We always have a ball!
+
+And when you're in my arms dear
+I love you most of all . . 
+In the morning an' in the evening
+An' when it's cloudy or clear
+I'm in love with you, so in love with you
+Every day of the year!
+
+I love you an' don't you forget it
+I love you an' don't you forget it
+I love you an' nun't you forget it, baby!
+
+Love me too an' you won't regret it
+Love me too an' you won't regret it
+Love me too an' you won't regret it, baby!
+
+I love you an' don't you forget it
+I love you an' don't you forget it
+I love you an' don't you forget it, baby!
+
+I love you an' don't you forget it
+That makes twenty times that I've said it
+I don't see how you can forget it now!
+
+
+
+I love you an' don't you forget it
+There, that's one more time that I've said it
+I don't see how you can forget it now!

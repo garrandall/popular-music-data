@@ -29,6 +29,3 @@ They're not gonna happen
 
 You'll go to hell
 For what your dirty mind is thinking
-
-
-

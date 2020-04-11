@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-is-gone-goo-goo-dolls
+lyrics_url: https://genius.com/Goo-goo-dolls-here-is-gone-lyrics
 name: Here Is Gone
 rankings:
 - end_date: '2002-03-29'
@@ -87,4 +88,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-08-03'
 ---
+You and i got something
+But it's all and then it's nothing to me, yeah
+And i got my defenses
+When it comes through your intentions for me, yeah
+And we wake up in the breakdown
+With the things we never thought we could be, yeah
 
+
+I'm not the one who broke you
+I'm not the one you should fear
+We got to move you darling
+I thought i lost you somewhere
+But you were never really ever there at all
+
+
+And i want to get free
+Talk to me
+I can feel you falling
+And i wanted to be
+All you need
+Somehow here is gone
+
+
+I am no solution
+To the sound of this pollution in me, yeah
+And i was not the answer
+So forget you ever thought it was me, yeah
+
+
+I'm not the one who broke you
+I'm not the one you should fear
+We got to move you darling
+I thought i lost you somewhere
+But you were never really ever there at all
+
+
+And i want to get free
+Talk to me
+I can feel you falling
+And i wanted to be
+All you need
+Somehow here is gone
+
+
+And i don't need the fallout
+Of all the past that's in between us
+And i'm not holding on
+And all your lies weren't enough to keep me here
+
+
+And i want to get free
+Talk to me
+I can feel you falling
+And i wanted to be
+All you need
+Somehow here is gone
+
+
+
+And i want to get free
+Talk to me
+I can feel you falling
+I know it's out there
+I know it's out there
+And i can feel you falling
+I know it's out there
+I know it's out there
+Somehow here is gone, yeah
+I know it's out there
+I know it's out there
+Somehow here is gone, yeah

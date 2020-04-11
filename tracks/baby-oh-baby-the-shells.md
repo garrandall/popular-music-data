@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-oh-baby-the-shells
+lyrics_url: https://www.musixmatch.com/lyrics/The-Shells/Baby-Oh-Baby
 name: Baby Oh Baby
 rankings:
 - end_date: '1960-12-25'
@@ -39,4 +40,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-06'
 ---
+Baby oh baby, I love you, love you so madly
+Baby oh baby, I need you, need you so badly
 
+There is a favorite, favorite girl I meet
+Baby oh baby, there is nothing I wouldn't do for you
+Yeah, I go walkin' down the street
+
+Yeah, yeah, yeah, on the arm to look nice
+But then when I'm with you, I'm in paradise
+Baby I love you, oh baby I do for you
+
+Baby oh baby, why don't you be true?
+Baby oh baby, there is nothing I wouldn't do
+
+Yeah, yeah, yeah, on the arm to look nice
+But then when I'm with you, I'm in paradise
+Baby I love you, oh baby I do for you
+
+Baby I do, I do love you

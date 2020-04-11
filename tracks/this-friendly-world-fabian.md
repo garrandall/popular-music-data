@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-friendly-world-fabian
+lyrics_url: https://genius.com/Fabian-this-friendly-world-lyrics
 name: This Friendly World
 rankings:
 - end_date: '1959-11-29'
@@ -59,4 +60,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-15'
 ---
-
+Written by Kenneth Lorin Darby
+Peaked at # 12 in 1959
+In this friendly, friendly world with each day so full of joy
+Why should any heart be lonely?
+In this friendly, friendly world with each night so full of dreams
+Why should any heart be afraid?
+The world is such a wonderful place to wander through
+When you've got someone you love to wander along with you
+With the skies so full of stars and the river so full of song
+Every heart should be so thankful
+Thankful for this friendly, friendly world

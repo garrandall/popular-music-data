@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-up-and-boogie--that-s-right--silver-convention
+lyrics_url: https://genius.com/Silver-convention-get-up-and-boogie-lyrics
 name: Get Up And Boogie (That's Right)
 rankings:
 - end_date: '1976-03-19'
@@ -91,4 +92,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-07-31'
 ---
+(That's right)
+Get up and boogie, get up and boogie
+(That's right)
+Get up and boogie, get up and boogie
+(That's right)
+Get up and boogie, get up and boogie
+Boogie, boogie
 
+(That's right)
+Get up and boogie, get up and boogie
+(That's right)
+Get up and boogie, get up and boogie
+(That's right)
+Boogie, boogie
+
+(That's right)
+Get up and boogie, get up and boogie
+(That's right)
+Get up and boogie, get up and boogie
+Boogie, boogie
+
+(That's right)
+Get up and boogie, get up and boogie
+Get up and boogie, get up and boogie
+Get up and boogie, get up and boogie
+Get up and boogie, get up and boogie

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-it-ride-bachman-turner-overdrive
+lyrics_url: https://genius.com/Bachmanturner-overdrive-let-it-ride-lyrics
 name: Let It Ride
 rankings:
 - end_date: '1974-03-01'
@@ -67,4 +68,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-01'
 ---
+{Intro}
 
+Goodbye, hard life
+Don't cry, would you let it ride?
+Goodbye, hard life
+Don't cry, would you let it ride?
+
+{hook}
+
+You can see the mornin', but I can see the light
+Try, try, try, let it ride
+While you've been out runnin', I've been waitin' half the night
+Try, try, try, let it ride
+
+And would you cry if I told you that I lied?
+And would you say goodbye or would you let it ride?
+And would you cry if I told you that I lied?
+And would you say goodbye or would you let it ride?
+
+Seems my life is not complete, I never see you smile
+Try, try, try, let it ride
+Baby you want the forgivin' kind, and that's just not my style
+Try, try, try, let it ride
+
+And would you cry if I told you that I lied?
+And would you say goodbye or would you let it ride?
+And would you cry if I told you that I lied?
+And would you say goodbye or would you let it ride?
+
+{Bridge}
+
+I've been doin' things worthwhile, and you've been bookin' time
+Try, try, try, let it ride
+
+And would you cry if I told you that I lied?
+And would you say goodbye, would you let it ride?
+And would you cry if I told you that I lied?
+And would you say goodbye or would you let it ride?
+
+Would you let it ride?
+Would you let it ride?
+Would you let it ride?
+Would you let it ride?
+
+Try, try, try, let it ride
+Try, try, try, let it ride
+Try, try, try, let it ride
+Try, try, try, let it ride
+
+Try, try, try, let it ride
+Try, try, try, let it ride
+Try, try, try, let it ride
+Try, try, try, let it ride
+Try, try, try, let it ride
+
+Would you let it ride?
+Would you let it ride?
+Would you let it ride?
+Would you let it ride?
+
+{Outro}

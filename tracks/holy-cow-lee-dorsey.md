@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: holy-cow-lee-dorsey
+lyrics_url: https://genius.com/Lee-dorsey-holy-cow-lyrics
 name: Holy Cow
 rankings:
 - end_date: '1966-10-28'
@@ -43,4 +44,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
 ---
+I can't weep and I can't eat
+Since you walked out on me
+Holy smoke, what you doin' to me, yeah?
 
+I can't eat and I can't sleep
+Since you walked out on me, yeah
+Holy cow, whatcha doin', child, child?
+
+Holy cow, whatcha doin', child?
+Whatcha doin', whatcha doin', child?
+Holy smoke, girl, it ain't no joke, no joke
+Hey, hey, hey
+
+Hurts my bones, job I lost
+Since you walked out on me, yeah
+Holy smoke, what you doin' to me, yeah?
+
+Walkin' the ledge, my nerve's on edge
+Since you walked out on me, yeah
+Holy cow, whatcha doin', child, child?
+
+Holy cow, whatcha doin', child?
+Whatcha doin', whatcha doin', child?
+Holy smoke, girl, it ain't no joke, no joke
+Hey, hey, hey
+
+I can't weep and I can't eat
+Since you walked out on me
+Holy smoke, what you doin' to me, yeah?
+
+I can't eat and I can't sleep
+Since you walked out on me
+Holy cow, whatcha doin', child, child?
+
+Holy cow, whatcha doin', child?
+Whatcha doin', whatcha doin', child?
+Holy smoke, girl, it ain't no joke

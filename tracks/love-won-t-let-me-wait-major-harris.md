@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-won-t-let-me-wait-major-harris
+lyrics_url: https://genius.com/Major-harris-love-wont-let-me-wait-annotated
 name: Love Won't Let Me Wait
 rankings:
 - end_date: '1975-04-04'
@@ -79,4 +80,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-07-26'
 ---
+The time is right
+You hold me tight
+And love's got me high
 
+Please tell me, yes
+And don't say no, honey
+Not tonight
+I need to have you next to me
+In more ways than one
+And I refuse to leave 'till I see the
+Morning sun creep through your window pane
+Cause love won't let me wait
+(not one more minute, baby)
+
+The time is right
+Turned down the lights
+And take my hand
+We will take a flight
+And spend the night
+In a wonderland
+Now move a little close to me
+You owe it to yourself
+And I will selfishly take a little for myself
+And it's because of you
+That love won't let me wait
+
+(No, listen girl)
+
+I need your love so desperately
+And only you can set me free
+When I make love to you
+We will explode in ecstacy
+And I won't take the blame
+Cause love won't let me wait, no
+
+Love won't let me wait (my temperature's rising)
+Love won't let me wait (cause your so tantalizing)
+
+(Oh listen girl)
+
+Love won't let me wait

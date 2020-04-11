@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-the-small-things-blink-182
+lyrics_url: https://www.musixmatch.com/lyrics/Blink-182-5/All-the-Small-Things
 name: All The Small Things
 rankings:
 - end_date: '1999-12-10'
@@ -99,4 +100,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-05-06'
 ---
+All the small things
+True care, truth brings
+I'll take one lift
+Your ride, best trip
 
+Always I know
+You'll be at my show
+Watching, waiting
+Commiserating
+
+Say it ain't so, I will not go
+Turn the lights off, carry me home
+
+Na-na, na-na, na-na, na-na, na-na
+Na-na, na-na, na-na, na-na, na-na
+Na-na, na-na, na-na, na-na, na-na
+Na-na, na-na, na-na, na-na, na-na
+
+Late-night come home
+Work sucks, I know
+She left me roses by the stairs
+Surprises let me know she cares
+
+Say it ain't so, I will not go
+Turn the lights off, carry me home
+
+Na-na, na-na, na-na, na-na, na-na
+Na-na, na-na, na-na, na-na, na-na
+Na-na, na-na, na-na, na-na, na-na
+Na-na, na-na, na-na, na-na, na-na
+
+Say it ain't so, I will not go
+Turn the lights off, carry me home
+Keep your lips still, I'll be your thrill
+The night will go on, my little windmill
+
+Say it ain't so, I will not go
+Turn the lights off, carry me home
+Keep your lips still, I'll be your thrill
+The night will go on, the night will go on, my little windmill

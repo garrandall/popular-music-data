@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: second-avenue-tim-moore
+lyrics_url: https://genius.com/Tim-moore-second-avenue-lyrics
 name: Second Avenue
 rankings:
 - end_date: '1974-09-27'
@@ -27,4 +28,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-10-19'
 ---
+Since we can no longer make it, girl
+I've found a new place to live my life
+It's really no place at all
+Just a hole in the wall, you see
+It's cold and dusty but I let it be
+Livin' here without you
+On Second Avenue
 
+And since our stars took different paths
+I guess I won't be shavin' in your looking glass
+Guess my old friendly grin
+Must have started to dim, somehow
+And I certainly don't need it now
+Still, I keep smiling through
+On Second Avenue
+
+I can still see you standing
+There on the third-floor landing
+The day you visited we hardly said a word
+
+Outside it was rainin'
+You said you couldn't be stayin'
+And you went back to your flowers and your birds
+
+Since we can no longer see the light
+The way we did when we kissed that night
+Then all the things that we felt
+Must eventually melt and fade
+Like the frost on my window pane
+Where I wrote: "I am you"
+On Second Avenue
+
+I can still see you standing
+There on the third-floor landing
+The day you visited we hardly said a word
+
+Outside it was rainin'
+You said you couldn't be stayin'
+And you went back to your flowers and your birds
+
+Since we can no longer see the light
+The way we did when we kissed that night
+Then all the things that we felt
+Must eventually melt and fade
+Like the frost on my window pane
+Where I wrote: "I am you"
+On Second Avenue

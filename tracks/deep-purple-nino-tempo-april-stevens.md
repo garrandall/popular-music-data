@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: deep-purple-nino-tempo-april-stevens
+lyrics_url: https://genius.com/Nino-tempo-and-april-stevens-deep-purple-lyrics
 name: Deep Purple
 rankings:
 - end_date: '1963-09-20'
@@ -68,4 +69,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-12-21'
 ---
+When the deep purple falls over sleepy garden walls
+And the stars begin to twinkle in the night
+In the mist of my memory, you wander on back to me
+Breathing my name with a sigh
 
+In the still of the night once again I hold you tight
+Though you've gone, your love lives on when moonlight beams
+And as long as my heart will beat, sweet lover, we'll always meet
+Here in my deep purple dreams
+
+When the deep purple falls over sleepy garden walls
+And the stars begin to twinkle in the night
+In the mist of my memory, you wander on back to me
+Breathing my name with a sigh
+
+In the still of the night once again I hold you tight
+Though you've gone, your love lives on when moonlight beams
+And as long as my heart will beat, sweet lover, we'll always meet
+Here in my deep purple dreams
+
+And as long as my heart will beat, sweet lover, we'll always meet
+Here in my deep purple dreams
+And as long as my heart will beat, sweet lover, we'll always meet
+Here in my deep purple dreams

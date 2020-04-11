@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: breaking-up-is-hard-to-do-the-happenings
+lyrics_url: https://www.musixmatch.com/lyrics/The-Happenings/Breaking-Up-Is-Hard-to-Do
 name: Breaking Up Is Hard To Do
 rankings:
 - end_date: '1968-08-02'
@@ -27,4 +28,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
 ---
+Breaking up is hard to do...
 
+Don't take your love away from me
+Don't you leave my heart in misery.
+If you go then I'll be blue
+Cause breakin' up is hard to do.
+
+Remember when you held me tight
+And you kissed me all through the night
+Think of all that we've been through
+Cause breakin' up is hard to do.
+
+They say that breakin' up is hard to do.
+Now I know
+I know that it's true.
+Don't say that this is the end.
+Instead of breakin' up
+I wish that we were makin' up again.
+
+I beg of you don't say goodbye
+Won't you give our love another try?
+Come on baby, let's start anew
+Cause breakin' up is hard to do.

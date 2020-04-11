@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -i-ll-be-with-you-in--apple-blossom-time-tab-hunter
+lyrics_url: https://genius.com/Tab-hunter-ill-be-with-you-in-apple-blossom-time-lyrics
 name: (I'll Be With You In) Apple Blossom Time
 rankings:
 - end_date: '1959-02-08'
@@ -51,4 +52,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
 ---
-
+I'll be with you in apple blossom time
+I'll be with you and change your name to mine
+One day in May, I'll hear you say
+"Happy the bride the sun shines on today."
+What a wonderful wedding there will be
+What a wonderful day for you and me
+Church bells will chime
+You will be mine
+In apple blossom time

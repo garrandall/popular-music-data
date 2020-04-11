@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-re-reading-this-tim-mcgraw
+lyrics_url: https://genius.com/Tim-mcgraw-if-youre-reading-this-lyrics
 name: If You're Reading This
 rankings:
 - end_date: '2007-08-31'
@@ -79,4 +80,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-12-22'
 ---
+If you're reading this, my Momma's sitting there
+Looks like I only got a one-way ticket over here
+Sure wish I could give you one more kiss
+And war was just a game we played when we were kids
 
+
+I'm laying down my gun
+I'm hanging up boots
+I'm up here with God and we're both watching over you
+
+
+So lay me down
+In that open field out on the edge of town
+And know my soul
+Is where my momma always prayed
+That it would go
+And if you're reading this
+I'm already home
+
+
+If you're reading this
+Halfway around the world
+I won’t be there
+To see the birth of our little girl
+I hope she looks like you
+I hope she fights like me
+Stand up for the innocent and the weak
+
+
+I'm laying down my gun
+I'm hanging up boots
+Tell dad I don't regret that I followed in his shoes
+
+
+So lay me down
+In that open field out on the edge of town
+And know my soul
+Is where my momma always prayed
+That it would go
+And if you're reading this
+I'm already home
+
+
+If you're reading this
+There’s going to come a day
+When you'll move on
+And find someone else
+And that's OK
+Just remember this
+I'm in a better place
+Where soldiers live in peace
+And angels sing amazing grace
+
+
+So lay me down
+In that open field out on the edge of town
+And know my soul
+Is where my momma always prayed
+That it would go
+And if you're reading this
+If you're reading this
+I'm already home

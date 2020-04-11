@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tonight-the-heartache-s-on-me-dixie-chicks
+lyrics_url: https://genius.com/Dixie-chicks-tonight-the-heartaches-on-me-lyrics
 name: Tonight The Heartache's On Me
 rankings:
 - end_date: '1999-05-21'
@@ -71,4 +72,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-08-28'
 ---
+You could've heard a pin drop
+When they walked trough the door
+I had to turn my eyes away
+My heart fell to the floor
+Someone whispered "Where's her halo?"
+Cause she had an angel's face
+He stood there smiling
+Holding on to the one who took my place
 
+
+So tonight the heartache's on me, on me
+Let's drink a toast to the fool who couldn't see
+Bartender pour the wine 'cause the hurtin's all mine
+Tonight the heartache's on me
+
+
+I wonder if he told her she's the best he's ever known
+The way he told me ev'ry night when we were all alone
+She'll find out when the new wears off
+He'll find somebody new
+She'll learn what the heartache's all about
+And what I'm going through
+
+
+So tonight the heartache's on me, on me
+Let's drink a toast to the fool who couldn't see
+Bartender pour the wine 'cause the hurtin's all mine
+Tonight the heartache's on me
+So tonight the heartache's on me, on me
+Let's drink a toast to the fool who couldn't see
+Bartender pour the wine 'cause the hurtin's all mine
+Tonight the heartache's on me
+
+
+Yes tonight the heartache's on me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: zip-a-dee-doo-dah-bob-b--soxx-and-the-blue-jeans
+lyrics_url: https://genius.com/Bob-b-soxx-and-the-blue-jeans-zip-a-dee-doo-dah-lyrics
 name: Zip-A-Dee Doo-Dah
 rankings:
 - end_date: '1962-11-23'
@@ -59,4 +60,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-09'
 ---
+Zip a dee doo dah, zip a dee ay
+My, my, my, my, my, my what a wonderful day
+Plenty of sunshine headin’ my way
+Zip a dee doo dah, zip a dee ay
 
+Woah Mister Bluebird on my shoulder
+Ain't it truth, oh no it's actual
+Everything's gonna be (satisfactual)
+
+Zip a dee doo dah, zip a dee ay
+Wonderful feeling, wonderful day
+
+Oh Mister Bluebird on my shoulder
+Ain't it truth, oh no it's actual
+Everything's gonna be (yeah, yeah, yeah, yeah)
+
+Zip a dee doo dah, zip a dee ay
+Wonderful feeling, wonderful day
+(One more time child)
+Wonderful feeling, wonderful day
+(Oh yeah)
+Wonderful feeling, wonderful day
+(One more time now)

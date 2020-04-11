@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-cry-out-loud-melissa-manchester
+lyrics_url: https://genius.com/Melissa-manchester-dont-cry-out-loud-lyrics
 name: Don't Cry Out Loud
 rankings:
 - end_date: '1978-11-24'
@@ -99,4 +100,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
 ---
+Baby cried the day the circus came to town
+'Cause she didn't want parades just passing by her
+So she painted on a smile and took up with some clown
+While she danced without a net upon the wire
+I know a lot about her, 'cause you see
+Baby is an awful lot like me
 
+Don't cry out loud
+Just keep it inside
+And learn how to hide your feelings
+Fly high and proud
+And if you should fall
+Remember you almost had it all
+
+Baby saw that when they pulled that big top down
+They left behind her dreams among the litter
+And the different kind of love she thought she'd found
+There was nothing left but sawdust and some glitter
+But Baby can't be broken, 'cause you see
+She had the finest teacher, that was me
+I told her
+
+Don't cry out loud
+Just keep it inside
+And learn how to hide your feelings
+Fly high and proud
+And if you should fall
+Remember you almost had it all
+
+Don't cry out loud
+Just keep it inside
+And learn how to hide your feelings
+Fly high and proud
+And if you should fall
+Remember you almost made it
+
+Don't cry out loud
+Just keep it inside
+And learn how to hide your feelings
+Fly high and proud
+And if you should fall
+Remember you almost had it all

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: invisible-clay-aiken
+lyrics_url: https://genius.com/Clay-aiken-invisible-lyrics
 name: Invisible
 rankings:
 - end_date: '2003-11-28'
@@ -87,4 +88,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-04-03'
 ---
+What you doing tonight?
+I wish I could be
+A fly on your wall
+Are you really alone?
+Who's stealing your dreams?
+Why can't I breathe
+You into my life? (So tell me)
+What would it take
+To make you see that I'm alive?
 
+
+If I was invisible (Invisible, invisible, invisible)
+Then I could just watch you in your room
+If I was invisible
+I'd make you mine tonight
+If hearts were unbreakable
+Then I could just tell you where I stand
+I would be the smartest man
+If I was invisible
+Wait, I already am
+
+
+Saw your face in the crowd
+I call out your name
+You don't hear a sound
+I keep tracing your steps
+Each move that you make
+Wish I could be
+What goes through your mind (Oh baby)
+Wish you could touch me
+With the colors of your life
+
+
+If I was invisible (Yeah, yeah)
+Then I could just watch you in your room
+If I was invisible
+I'd make you mine tonight
+If hearts were unbreakable
+Then I could just tell you where I stand
+I would be the smartest man
+If I was invisible
+Wait, I already am
+
+
+I'd make you mine tonight (Invisible)
+I'd make you mine tonight
+
+
+I reach out
+You don't even see me
+Even when I scream out
+Baby, you don't hear me (You don't hear me)
+I am nothing without you
+Just a shadow passing through
+(Invisible, invisible, invisible, invisible, invisible)
+Oooh
+
+
+If I was invisible (Whoa)
+Then I could just watch you in your room
+If I was invisible
+I'd make you mine tonight (I would make you mine)
+If hearts were unbreakable (Hearts broke)
+Then I could just tell you where I stand
+I would be the smartest man
+If I was invisible (I'd make you mine tonight)
+If I was invisible (I'd make you mine tonight)
+If I was invisible (I'd make you mine tonight)
+If I was invisible (I'd make you mine tonight)
+If I was invisible (I'd make you mine tonight)

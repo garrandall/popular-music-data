@@ -1,6 +1,6 @@
 ---
 artists:
-- Larry Elgart And His Manhattan Swing Orchestra
+- Larry Elgart
 features: []
 genres: []
 key: hooked-on-swing-larry-elgart-and-his-manhattan-swing-orchestra

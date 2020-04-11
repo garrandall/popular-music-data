@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-look-back-boston
+lyrics_url: https://genius.com/Boston-dont-look-back-lyrics
 name: Don't Look Back
 rankings:
 - end_date: '1978-08-25'
@@ -59,4 +60,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-11-11'
 ---
+Don't look back (ooh, a new day is breakin')
+It's been too long since I felt this way
+I don't mind (ooh, where I get taken)
+The road is callin', today is the day
 
+I can see, it took so long just to realize
+I'm much too strong not to compromise
+Now I see what I am is holding me down
+I'll turn it around, oh, yes, I will
+
+I finally see the dawn arrivin'
+I see beyond the road I'm drivin'
+
+It's a bright horizon (ooh, and I'm awakin' now)
+Oh, I see myself in a brand new way
+The sun is shinin' (ooh, the clouds are breakin')
+'Cause I can't lose now, there's no game to play
+
+I can tell there's no more time left to criticize
+I've seen what I could not recognize
+Everything in my life was leading me on
+But I can be strong, oh, yes, I can
+
+I finally see the dawn arrivin'
+I see beyond the road I'm drivin'
+Ooh, far away and left behind, left behind
+
+Oh, the sun is shinin' and I'm on that road
+
+Don't look back (ooh, a new day is breakin')
+Oh, It's been so long since I felt this way
+I don't mind (ooh, where I get taken)
+The road is callin', today is the day
+
+I can see, it took so long just to realize
+I'm much too strong not to compromise
+Now I see what I am is holding me down
+I'll turn it around, oh, yes, I will
+
+I finally see the dawn arrivin'
+I see beyond the road I'm drivin'
+Oh, far away and left behind
+
+Don't look back
+Don't look back
+Don't look back
+Don't look back

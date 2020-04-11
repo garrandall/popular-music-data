@@ -1,6 +1,6 @@
 ---
 artists:
-- Ray Charles and his Orchestra
+- Ray Charles
 features: []
 genres: []
 key: but-on-the-other-hand-baby-ray-charles-and-his-orchestra

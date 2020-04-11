@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lambada-kaoma
+lyrics_url: https://genius.com/Kaoma-lambada-lyrics
 name: Lambada
 rankings:
 - end_date: '1990-03-09'
@@ -55,4 +56,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-05-19'
 ---
+Chorando se foi quem um dia só me fez chorar
+Chorando se foi quem um dia só me fez chorar
+Chorando estara ao lembrar de um amor
+Que um dia não soube cuidar
+Chorando estará ao lembrar de um amor
+Que um dia não soube cuidar
+A recordação vai estar com ele aonde for
+A recordação vai estar pra sempre aonde for
 
+
+Dança sol e mar guardarei no olhar
+O amor faz perder encontrar
+Lambando estarei ao lembrar que este amor
+Por um dia um instante foi rei
+
+
+A recordaçao vai estar com ele aonde for
+A recordaçao vai estar pra sempre aonde for
+Chorando estará ao lembrar de um amor
+Que um dia não soube cuidar
+Canção riso e dor melodia de amor
+Um momento que fica no ar
+
+
+Ai, ai, ai
+Dançando Lambada!

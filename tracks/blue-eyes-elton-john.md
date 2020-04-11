@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-eyes-elton-john
+lyrics_url: https://genius.com/Elton-john-blue-eyes-lyrics
 name: Blue Eyes
 rankings:
 - end_date: '1982-07-16'
@@ -79,4 +80,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-11-06'
 ---
+Blue eyes
+Baby's got blue eyes
+Like a deep, blue sea
+On a blue, blue day
+Blue eyes
+Baby's got blue eyes
+When the mornin' comes
+I'll be far away
+And I say
 
+
+Blue eyes, holdin' back the tears
+Holdin' back the pain
+Baby's got blue eyes
+And she's alone again
+
+
+Blue eyes
+Baby's got blue eyes
+Like a clear, blue sky
+Watchin' over me
+Blue eyes
+Ooh, I love blue eyes
+When I'm by her side
+Where I long to be
+I will see
+
+
+Blue eyes, laughin' in the sun
+Laughin' in the rain
+Baby's got blue eyes
+And I am home, and I am home again
+
+
+Blue eyes, laughin' in the sun
+Laughin' in the rain
+Baby's got blue eyes
+And I am home again

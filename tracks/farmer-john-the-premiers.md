@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: farmer-john-the-premiers
+lyrics_url: https://genius.com/The-premiers-farmer-john-lyrics
 name: Farmer John
 rankings:
 - end_date: '1964-06-26'
@@ -43,4 +44,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-15'
 ---
+Farmer John
+I'm in love with your daughter
+The one
+With the champagne eyes
+She knows that I love her
+Ever since she showed me those eyes
 
+Farmer John
+Someday I will marry
+The one
+With the champagne eyes
+She won't accept my hand
+She won't wear my wedding band
+
+I dig the way she walks
+The way she talks
+She really knocks me out
+When she starts moving slow
+
+Let me tell ya Farmer John
+I'm in love with your daughter
+The one
+With the champagne eyes

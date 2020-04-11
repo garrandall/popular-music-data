@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: hot-fun-in-the-summertime-sly-the-family-stone
+lyrics_url: https://genius.com/Sly-and-the-family-stone-hot-fun-in-the-summertime-lyrics
 name: Hot Fun In The Summertime
 rankings:
 - end_date: '1969-08-15'
@@ -72,4 +73,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-22'
 ---
+End of the spring and here she comes back
+Hi, hi, hi, hi there
 
+Them summer days
+Those summer days
+
+That's when I have most of my fun back
+High, high, high, high there
+
+Them summer days
+Those summer days
+
+I cloud nine when I want to
+Out of school, yeah
+County fair in the country sun
+And everything is cool
+Ooh, yeah
+
+Hot fun in the summertime
+Hot fun in the summertime
+Hot fun in the summertime
+Hot fun in the summertime
+
+First of the fall and there she goes back
+Bye, bye, bye, bye there
+
+Them summer days
+Those summer days
+
+Bop-bop-ba-bop-bop when I want to
+Out of school, yeah
+County fair in the country sun
+And everything is cool
+Ooh, yeah
+
+Hot fun in the summertime
+Hot fun in the summertime
+Hot fun in the summertime

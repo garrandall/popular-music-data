@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: then-you-can-tell-me-goodbye-the-casinos
+lyrics_url: https://genius.com/The-casinos-then-you-can-tell-me-goodbye-lyrics
 name: Then You Can Tell Me Goodbye
 rankings:
 - end_date: '1967-01-20'
@@ -59,4 +60,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-04-08'
 ---
+Kiss me each morning for a million years
+Hold me each evening by your side
+Tell me you'll love me for a million years
+Then if it don't work out, then if it don't work out
+Then you can tell me goodbye
 
+Sweeten my coffee with a morning kiss
+Soften my dreams with your sighs
+Tell me you'll love me for a million years
+Then if it don't work out, then if it don't work out
+Then you can tell me goodbye
+
+If you must go, oh no, I won't grieve
+If you wait a lifetime before you leave
+
+Then if you must go, I won't tell you, no
+Just so that we can say we tried
+Tell me you'll love me for a million years
+Then if it don't work out, then if it don't work out
+Then you can tell me goodbye

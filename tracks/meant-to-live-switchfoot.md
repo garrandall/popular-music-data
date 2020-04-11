@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: meant-to-live-switchfoot
+lyrics_url: https://genius.com/Switchfoot-meant-to-live-lyrics
 name: Meant To Live
 rankings:
 - end_date: '2004-04-09'
@@ -119,4 +120,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-10-09'
 ---
+Fumbling his confidence
+And wondering why the world has passed him by
+Hoping that he's bent for more than arguments
+And failed attempts to fly, fly
 
+
+We were meant to live for so much more
+Have we lost ourselves?
+Somewhere we live inside
+Somewhere we live inside
+We were meant to live for so much more
+Have we lost ourselves?
+Somewhere we live inside
+
+
+Dreaming about Providence
+And whether mice or men have second tries
+Maybe we've been livin with our eyes half open
+Maybe we're bent and broken, broken
+
+
+We were meant to live for so much more
+Have we lost ourselves?
+Somewhere we live inside
+Somewhere we live inside
+We were meant to live for so much more
+Have we lost ourselves?
+Somewhere we live inside
+
+
+We want more than this world's got to offer
+We want more than this world's got to offer
+We want more than the wars of our fathers
+And everything inside screams for second life, yeah
+
+
+We were meant to live for so much more
+Have we lost ourselves?
+We were meant to live for so much more
+Have we lost ourselves?
+We were meant to live for so much more
+Have we lost ourselves?
+We were meant to live
+We were meant to live

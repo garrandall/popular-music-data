@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: mammas-don-t-let-your-babies-grow-up-to-be-cowboys-waylon-willie
+lyrics_url: https://genius.com/Waylon-jennings-and-willie-nelson-mammas-dont-let-your-babies-grow-up-to-be-cowboys-lyrics
 name: Mammas Don't Let Your Babies Grow Up To Be Cowboys
 rankings:
 - end_date: '1978-02-17'
@@ -48,4 +49,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-04-15'
 ---
+Cowboys ain't easy to love and they're harder to hold
+They'd rather give you a song than diamonds or gold
 
+
+Lonestar belt buckles and old faded Levis
+And each night begins a new day
+And if you don't understand him, and he don't die young
+He'll probably just ride away
+
+
+Mammas, don't let your babies grow up to be cowboys
+Don't let 'em pick guitars and drive them old trucks
+Let 'em be doctors and lawyers and such
+Mammas, don't let your babies grow up to be cowboys
+They'll never stay home and they're always alone
+Even with someone they love
+
+
+Cowboys like smoky old pool rooms and clear mountain mornings
+
+
+Little warm puppies and children and girls of the night
+Them that don't know him won't like him and them that do
+Sometimes won't know how to take him
+
+
+He ain't wrong, he's just different, but his pride won't let him
+Do things to make you think he's right
+
+
+Mammas, don't let your babies grow up to be cowboys
+Don't let 'em pick guitars and drive them old trucks
+Let 'em be doctors and lawyers and such
+Mammas, don't let your babies grow up to be cowboys
+'Cause they'll never stay home and they're always alone
+Even with someone they love
+
+
+Mammas, don't let your babies grow up to be cowboys
+Don't let 'em pick guitars and drive them old trucks
+Let 'em be doctors and lawyers and such

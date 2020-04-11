@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-blue-the-echoes
+lyrics_url: https://genius.com/The-echoes-band-baby-blue-lyrics
 name: Baby Blue
 rankings:
 - end_date: '1961-03-12'
@@ -55,4 +56,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-05-22'
 ---
+Be -be -A-be -why, be -be -L-you-E
+Be -be -A-be -why, be -be -L-you-E
 
+You're my Baby Blue (baby blue)
+That's what I call you
+You know what to do (what to do)
+With those eyes of blue
+Ba-a-a-a-by blu-you-ue
+I-I-I love yo-ou-ou, I do
+(B-be -A-be -why, be -be -L-you-E)
+
+Are you really wise? (really wise)
+Do you realize
+That those devil eyes (devil eyes)
+Are bluer than the skies?
+Ba-a-a-a-by blu-you-ue
+I-I-I love yo-ou-ou, I do
+(B-be -A-be -why, Baby Blue, ooh, ohh)
+
+I don't call you "Honey" even though you're sweet
+It's really not the name for you-ou-ou
+Sweetheart, angel, lover, all are incomplete
+Only one name will do-ooh-ooh-ooh
+
+So I'm tellin' you (tellin' you)
+Though you're seventeen
+You will always be (always be)
+Baby Blue to me
+Ba-a-a-a-by blu-you-ue
+I-I-I love yo-ou-ou, I do
+(B-be -A-be -why, be -be -L-you-E)
+
+Fade
+(B-be -A-be -why, be -be -L-you-E)

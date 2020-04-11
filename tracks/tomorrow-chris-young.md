@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tomorrow-chris-young
+lyrics_url: https://genius.com/Chris-young-tomorrow-lyrics
 name: Tomorrow
 rankings:
 - end_date: '2011-03-11'
@@ -91,4 +92,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-08-13'
 ---
+Tomorrow I'm gonna leave here
+I'm gonna let you go and walk away
+Like every day I said I would
+And tomorrow, I'm gonna listen
+To that voice of reason inside my head
+Telling me that we're no good
 
+
+But, tonight I'm gonna give in one last time
+Rock you strong in these arms of mine
+Forget all the regrets that are bound to follow
+We're like fire and gasoline
+I'm no good for you, you're no good for me
+We only bring each other tears and sorrow
+But tonight, I'm gonna love you like there's no
+
+
+Tomorrow I'll be stronger
+I'm not gonna break down and call you up
+When my heart cries out for you
+And tomorrow, you won't believe it
+But when I pass your house, I won't stop
+No matter how bad I want to
+
+
+But, tonight I'm gonna give in one last time
+Rock you strong in these arms of mine
+Forget all the regrets that are bound to follow
+We're like fire and gasoline
+I'm no good for you, you're no good for me
+We only bring each other tears and sorrow
+But tonight, I'm gonna love you like there's no
+Tomorrow
+
+
+Baby, when we're good, you know we're great
+But there's too much bad for us to think
+That there's anything worth trying to save
+
+
+But tonight I'm gonna give in one last time
+Rock you strong in these arms of mine
+Forget all the regrets that are bound to follow
+We're like fire and gasoline
+I'm no good for you, you're no good for me
+We only bring each other tears and sorrow
+But tonight, I'm gonna love you like there's no
+
+
+Tomorrow, I'm gonna leave here
+Yeah, I'm gonna let you go and walk away
+Like every day I said I would

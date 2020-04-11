@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: brazil-the-ritchie-family
+lyrics_url: https://genius.com/The-ritchie-family-brazil-lyrics
 name: Brazil
 rankings:
 - end_date: '1975-08-08'
@@ -79,4 +80,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
 ---
+Yeah...
 
+You've got me where you want me
+You've got me where you want me
+
+You've got me where you want me
+You've got me where you want me
+You've got me where you want...
+
+Wooo!
+
+Dit-it-it!
+Dit-it-it!
+Dit-it-it!
+Dit-it-it!
+
+Oooooooh, ooooooh, oooooooh
+Oooooooh, ooooooh, oooooooh
+Oooooooh, ooooooh, oooooooh
+
+You've got me where you want me
+You've got me where you want me
+You've got me where you want me
+You've got me where you want me
+You've got me where you want me
+You've got me where you want me
+You've got me where you want me
+You've got me where you want me
+
+Doo-do doo-doo-do!
+Doo-do doo-doo-do!
+Doo-do doo-doo-do!
+
+You've got me...
+You've got me...
+You've got me...
+You've got me...
+You've got me!
+
+Wooo!
+
+Dit-it-it!
+Dit-it-it!
+Dit-it-it!
+
+Oooooooh, ooooooh, oooooooh
+Oooooooh, ooooooh, oooooooh
+Oooooooh, ooooooh, oooooooh
+
+You've got me where you want me
+You've got me...
+You've got me...
+
+You've got me where you want me
+You've got me...
+You've got me...
+
+You've got me where you want me
+You've got me...
+You've got me...
+
+You've got me where you want me
+You've got me...
+You've got me...
+
+Wooooh!
+
+Doo-do doo-doo-do!
+Doo-do doo-doo-do!
+Doo-do doo-doo-do!
+
+Doo-do doo-doo-do!
+Doo-do doo-doo-do!
+Doo-do doo-doo-do!

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: must-be-nice-lyfe-jennings
+lyrics_url: https://www.musixmatch.com/lyrics/Lyfe-Jennings/Must-Be-Nice
 name: Must Be Nice
 rankings:
 - end_date: '2005-06-03'
@@ -87,4 +88,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-10-22'
 ---
+Ayo you
+You that just flipped on this CD player
+I just wanna inform you that
+When you got somebody good
 
+You hold on to em'
+Mmm...
+Must be nice
+Having someone who understands
+
+The life you live
+Must be nice
+Having someone who's slow to take
+And quick to give
+
+Must be nice
+Having someone who sticks around
+When the rough times get thick
+Someone who's smile is bright enough
+
+To make the projects feel like a mansion
+Must be nice
+Having someone who loves you
+Despite your faults
+
+Must be nice
+Having someone who talks the talk
+But also walks the walk
+Must be nice
+
+Having someone who understands
+That a thug has feelings too
+Someone who loves you for sho'
+
+You just remember to never let 'em go
+Even when your hustling days are gone
+She'll be by your side still holding on
+Even when those 20's stop spinning
+
+And all those gold-digging women disappear
+She'll still be here
+Must be nice
+Having someone you can come home to
+
+From a long day of work
+Must be nice
+Having someone you don't have to show
+They know exactly where it hurts
+
+Must be nice
+Having someone who trusts you
+Despite what they've heard
+Someone as mighty as a lion
+
+But still as gentle as a bluebird
+Must be nice
+Having someone you don't have to tell
+You don't want to be alone no, no
+Must be nice
+Having someone you can grow old with
+Until God calls ya'll home
+Must be nice
+Having someone who understands
+That a thug has feelings too
+Someone who loves you for sho'
+You never let 'em go
+X3
+Even when your hustling days are gone
+She'll be by your side still holding on
+Even when those 20's stop spinning
+And all those gold-digging women disappear
+She'll still be here
+Well I guess the next part of the story is that
+After all this lust and all this time
+I finally found me ssombody for me
+Somebody I can tell the way I feel about you

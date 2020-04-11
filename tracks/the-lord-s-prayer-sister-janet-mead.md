@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-lord-s-prayer-sister-janet-mead
+lyrics_url: https://genius.com/Sister-janet-mead-the-lords-prayer-lyrics
 name: The Lord's Prayer
 rankings:
 - end_date: '1974-03-01'
@@ -59,4 +60,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-05-18'
 ---
+Our Father
+Who art in heaven
+Hallowed be Thy name
+Thy kingdom come
+Thy will be done
+On earth as it is in heaven
+Our Father
+Who art in heaven
+Hallowed be Thy name
+Thy kingdom come
+Thy will be done
+On earth as it is in heaven
 
+Give us this day our daily bread
+Forgive us our trespasses
+As we forgive them who trespass against us
+Forgive us our trespasses
+
+Our Father
+Who art in heaven
+Hallowed be Thy name
+Thy kingdom come
+Thy will be done
+On earth as it is in heaven
+
+Our Lord lead us not into temptation
+But save us from evil
+And the kingdom, the power
+And the glory forever
+Will be Yours
+
+Our Father
+Who art in heaven
+Hallowed be Thy name
+Thy kingdom come
+Thy will be done
+On earth as it is in heaven
+
+Our Father
+Who art in heaven
+Hallowed be Thy name
+Thy kingdom come
+Thy will be done
+On earth as it is in heaven
+
+Our Father
+Who art in heaven
+Hallowed be Thy name
+Thy kingdom come
+Thy will be done
+On earth as it is in heaven
+
+Our Father
+Who art in heaven
+Hallowed be Thy name
+Thy kingdom come
+Thy will be done
+On earth as it is in heaven

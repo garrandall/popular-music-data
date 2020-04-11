@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: double-shot--of-my-baby-s-love--swingin--medallions
+lyrics_url: https://genius.com/Swingin-medallions-double-shot-of-my-babys-love-lyrics
 name: Double Shot (Of My Baby's Love)
 rankings:
 - end_date: '1966-04-29'
@@ -59,4 +60,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-16'
 ---
+Woke up this morning, my head was so bad
+The worst hangover that I ever had
+What happened to me last night
+That girl of mine, she loved me so right (yeah!) (oh, oh)
+She loved me so long and she loved me so hard
+I finally passed out in her front yard (whoo!)
+It wasn't wine that I had too much of
+It was a double shot of my baby's love
 
+Double shot of my baby's love, yeah yeah, yeah
+Double shot of my baby's love, yeah yeah, yeah
+A potion that I had too much of
+It was a double shot of my baby's love
+
+It was such a thrill it was hurtin' me (ooh!)
+I was sufferin' in ecstasy
+She had me turnin' flips and-a shoutin' out loud (yah-hah!)
+A sip of her love and I was walkin' on a cloud
+One night a week is-a plenty enough
+It's a good thing for me they don't bottle that stuff 
+Well, my heart begins to fly like a dove
+When I take a double shot of my baby's love
+
+Double shot of my baby's love, yeah yeah, yeah
+Double shot of my baby's love, yeah yeah, yeah
+A potion that I had too much of
+It was a double shot of my baby's love
+
+Double shot of my baby's love, yeah yeah, yeah

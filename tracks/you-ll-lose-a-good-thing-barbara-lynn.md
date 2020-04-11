@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-ll-lose-a-good-thing-barbara-lynn
+lyrics_url: https://genius.com/Barbara-lynn-youll-lose-a-good-thing-lyrics
 name: You'll Lose A Good Thing
 rankings:
 - end_date: '1962-06-22'
@@ -59,4 +60,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
 ---
+If you should lose me,oh yeah,you'll lose a good thing
+If you should lose me, oh yeah,you'll lose a good thing
 
+You know I love you,do anything for you
+Just don't mistreat me,and I'll be good to you
+
+Cause if you should lose me, oh yeah, you'll lose a good thing
+
+I'm givin you one more chance,for you to do right
+If you'll only straighten up,we'll have a good life
+
+Cause if you should lose me,oh yeah,you'll lose a good thing
+
+This is my last time,not asking any more
+If you don't do right,I'm gonna march outa that door
+
+And if you don't believe me, just try it daddy
+And you'll lose a good thing
+Just try it daddy and you'll lose a good thing
+Just try it daddy and you'll lose a good thing
+Just try it daddy and you'll lose a good thing
+Just try it daddy and you'll lose a good thing....fades

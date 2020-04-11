@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-want-to-be-a-hero-johnny-hates-jazz
+lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Hates-Jazz/I-Don-t-Want-To-Be-A-Hero-2008-Digital-Remaster
 name: I Don't Want To Be A Hero
 rankings:
 - end_date: '1988-07-15'
@@ -55,4 +56,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-09-24'
 ---
+Oh, send me off to war with a gun in my hand
+But I won't pull the trigger
+Out destiny is here 'neath the red, white and blue
+So lead me to the slaughter
 
+Now don't be afraid, come and join the parade
+For the ultimate in sacrifice
+It's an old-fashioned story of hope and of glory
+A ticket for taking life
+
+I, I don't want to be a hero
+I don't want to die for you
+I don't want to be a hero, no
+
+Oh, send me off to war in a far away land
+I never knew existed
+Subject me to the truth, to the horror and pain
+Until my mind is twisted
+
+And what if I fail, will you put me in jail
+For a murder I will not commit?
+'Cause you don't understand till there's blood on your hands
+That it's time to forget and forgive
+
+I, I don't want to be a hero
+I don't want to die for you
+I don't want to be a hero, no
+No, no, no, no, oh no, oh, no, no
+
+And those who return, come back only to learn
+That they're hated by those who they love
+'Cause you're not satisfied till the thousand will die
+And your anger is paint for their blood
+
+I, I don't want to be a hero
+I don't want to die for you
+I don't want to be a hero
+
+I, I don't want to be a hero
+I don't want to die for you
+I don't want to be a hero, oh no
+
+I, I don't want to be a hero
+I don't want to die for you
+I don't want to be a hero, no, no
+
+I, I don't want to be a hero
+I don't want to die for you

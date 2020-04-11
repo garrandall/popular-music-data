@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-times-with-bad-boys-boy-krazy
+lyrics_url: https://genius.com/Boy-krazy-good-times-with-bad-boys-lyrics
 name: Good Times With Bad Boys
 rankings:
 - end_date: '1993-06-04'
@@ -43,4 +44,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-07-24'
 ---
+You're gonna see some changes in me
+From now on I have a heart of stone
+I'm not the girl I used to be
+I'm going out into the danger zone
 
+And I don't mind what people may say
+Should I care what they think of me?
+I'm looking out for a different way
+I'm cuttin' loose, runnin' wild and free
+
+Know what I want, know where to go
+No one can stop me, no
+Whoa, whoa
+
+Good times with bad, bad boys
+They live it up and get down easy
+Good times with bad, bad boys
+That's what I want, that's what I'm needin'
+
+Don't need their love, I wanna be free
+I'm not a toy that anyone can own
+They take it all so seriously
+I'm going out into the great unknown
+
+You only live once, that's what they say
+No one can stop me, no
+Whoa, whoa
+
+Good times with bad, bad boys
+They live it up and get down easy
+Good times with bad, bad boys
+That's what I want, that's what I'm needin'
+
+Good times with bad, bad boys
+Just havin' fun, fast and easy
+Good times with bad, bad boys
+Know what it takes, know how to please me
+
+Know what I want, know where to go
+You'll never stop me, no
+Whoa, whoa
+
+Good times with bad, bad boys
+They live it up and get down easy
+Good times with bad, bad boys
+That's what I want, that's what I'm needin'
+
+(Repeat to fade)

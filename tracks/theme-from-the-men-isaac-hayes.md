@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: theme-from-the-men-isaac-hayes
+lyrics_url: https://genius.com/Isaac-hayes-theme-from-the-men-lyrics
 name: Theme From The Men
 rankings:
 - end_date: '1972-10-27'
@@ -43,4 +44,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-12-16'
 ---
-
+Instrumental

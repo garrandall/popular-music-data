@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -the-lament-of-the-cherokee--indian-reservation-don-fardon
+lyrics_url: https://www.musixmatch.com/lyrics/Don-Fardon/Indian-Reservation
 name: (The Lament Of The Cherokee) Indian Reservation
 rankings:
 - end_date: '1968-09-06'
@@ -43,4 +44,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-10-26'
 ---
+They took the whole Indian nation
 
+Put us on this resevation
+
+Took away our way of life
+
+Tomahawk and the prairie-knife.
+Took away our native tongue
+
+Taught their English to our young
+
+And all the beads we made by hand
+Are nowadays made in Japan.
+Cherokee people
+Cherokee tribe
+
+So proud you lived
+So proud you'll die.
+
+They took the whole Indian nation
+
+Put us on this reservation
+
+Brick built houses by the score
+
+Won't need tepees anymore.
+Although they've changed our ways of old
+
+They'll never change our heart and soul
+
+And suddenly when the world has learned
+
+Cherokee Indian will return.
+Will return
+Will return
+
+Will return
+Will return
+Will return!

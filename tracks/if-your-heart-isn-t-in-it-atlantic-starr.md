@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-your-heart-isn-t-in-it-atlantic-starr
+lyrics_url: https://genius.com/Atlantic-starr-if-your-heart-isnt-in-it-lyrics
 name: If Your Heart Isn't In It
 rankings:
 - end_date: '1986-04-25'
@@ -55,4 +56,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-07-05'
 ---
+It's a fragile situation
+It could fall apart at any time
+And none would be the wiser
+'Cept you and I
 
+It seems that we stopped talking
+Like we're afraid to disagree
+And after we've been through
+Can we still be that naive
+
+CHORUS
+If my heart isn't in it
+Why can't you tell me so
+If my heart wasn't in it
+I'd have gone long ago
+If your heart isn't in it
+Why keep me hanging on
+Just tell me and I'll be gone
+From your life
+
+You treat me like a stranger
+As if I wasn't there
+
+Oh, baby, I waited for a miracle
+To make you show that you care
+
+CHORUS
+
+If your heart isn't in it
+Why can't...
+
+I can't go through the motions
+I have to know
+
+If your heart isn't in it
+Why can't you tell me so
+
+I can't go to the limit
+I have to know
+
+If your heart...
+Ooh, can't you tell me so
+I have to know
+If your heart isn't it
+Why keep me hanging on
+Just tell me and I'll be gone
+Don't keep me hanging on
+For dear life

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walking-the-dog-rufus-thomas
+lyrics_url: https://genius.com/Rufus-thomas-walking-the-dog-lyrics
 name: Walking The Dog
 rankings:
 - end_date: '1963-10-11'
@@ -63,4 +64,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-01-04'
 ---
+Mary mac, dressed in black
+Silver buttons all down her back
+High to low, tip to toe
+She broke a needle and she can't sew
 
+
+Walkin' the dog
+Just a-walkin' the dog
+If you don't know how to do it
+I'll show you how to walk the dog
+
+C'mon now, c'mon, c'mon!
+
+
+Asked my mama for fifteen cents
+See the elephant jump the fence
+He jumped so high he touched the sky
+Never got back till the Fourth of July
+
+
+Walkin' the dog
+Just a-walkin' the dog
+If you don't know how to do it
+I'll show you how to walk the dog
+C'mon now, c'mon, c'mon!
+
+
+Baby, baby, quite contrary
+Tell me, how does your garden grow
+You got silver bells and you got cockle shells
+Pretty maids all in a row
+
+
+Walkin' the dog
+Just a-walkin' the dog
+If you don't know how to do it
+I'll show you how to walk the dog
+C'mon now, c'mon, c'mon!
+
+
+Oh ho
+Just-a, just-a, just a-walkin'
+Just-a, just-a, just a-walkin'
+Just-a, just-a, just a-walkin'
+Oh yeah
+If you don't know how to do it
+I'll show you how to walk the dog
+Ohh!
+Just-a, just-a, just-a, just-a, just a-walkin'
+Just-a, just-a, just-a, just-a, just a-walkin'
+
+
+Ohh!
+Just-a, just-a, just-a, just-a, just a-walkin'
+Just-a, just-a, just-a, just-a, just a-walkin'

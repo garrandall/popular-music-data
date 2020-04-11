@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: my-prayer-ray-goodman-brown
+lyrics_url: https://www.musixmatch.com/lyrics/Ray-feat-Goodman-Brown/My-Prayer
 name: My Prayer
 rankings:
 - end_date: '1980-08-29'
@@ -49,4 +50,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-10-25'
 ---
+When the twilight is gone
+And no songbirds are singing
+When the twilight is gone
+You come into my heart
+And here in my heart you will stay
+While I pray
 
+My prayer
+Is to linger with you
+At the end of the day
+In a dream that's divine
+
+My prayer (My prayer)
+Is a rapture in bloom (Rapture in bloom)
+With the world far away
+And your lips close to mine
+
+Tonight while our hearts are aglow
+Oh, tell me the words that I'm longing to know
+
+Woo... ooh... ooh... ooh... ooh... ooh... ooh...
+
+My prayer (My prayer)
+And the answer you give (Answer you give)
+May they still be the same
+For as long as we live
+
+That you'll always be there
+At the end of my prayer (My prayer)

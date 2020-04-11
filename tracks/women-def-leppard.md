@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: women-def-leppard
+lyrics_url: https://genius.com/Def-leppard-women-lyrics
 name: Women
 rankings:
 - end_date: '1987-08-28'
@@ -27,4 +28,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-09-19'
 ---
+In the beginning, God made the land
+Then He made the water and creatures, then He made man
+He was born with a passion, love and hate
+A restless spirit with a need for a mate
+But there was something missing, something lost
+So He came with the answer, here's what it cost
+One part love, one part wild, one part lady, one part child
 
+
+I give you (Women, women)
+Lots of pretty women
+(Men, men) They can't live without them
+(Women, women) Lots of pretty women
+(Men, men) They can't live without them
+
+
+And in the garden, lust began
+The animal instinct, the wanton man
+She fed him with a hunger, an appetite
+And filling with emotion he took a bite
+It was one part love, one part child
+One part lover, one part wild
+
+
+
+
+Skin on skin
+Let the love begin
+Women
+
+
+It was one part love, one part wild
+One part lover, one part child
+A whole lot of fire, a little bit of ice
+A whole lot of something you can't sacrifice
+
+
+(I give you) Hair, eyes, skin on skin
+(Legs) Legs
+(Thighs) Thighs
+What's that spell? (Spell, what's that spell?)
+(What's that spell?) What's that spell?
+(What's that spell?) (Women, women)
+Oh, oh, oh
+Oh, oh, oh
+(Women) Women
+(Women) Calling every girl
+(Women, women) All around the world
+(Women) Women
+(Women) Oh, we can't live without them
+(Women) Women

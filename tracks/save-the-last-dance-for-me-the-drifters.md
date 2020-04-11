@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: save-the-last-dance-for-me-the-drifters
+lyrics_url: https://genius.com/The-drifters-save-the-last-dance-for-me-lyrics
 name: Save The Last Dance For Me
 rankings:
 - end_date: '1960-09-11'
@@ -79,4 +80,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
 ---
+You can dance
+Every dance with the guy
+Who gave you the eye
+Let him hold you tight
 
+You can smile
+Every smile for the man
+Who held your hand
+'Neath the pale moonlight
+
+But don't forget who's taking you home
+And in whose arms you're gonna be
+So darlin'
+Save the last dance for me, mmm
+
+Oh I know
+That the music is fine
+Like sparkling wine
+Go and have your fun
+
+Laugh and sing
+But while we're apart
+Don't give your heart
+To anyone
+
+But don't forget who's taking you home
+And in whose arms you're gonna be
+So darlin'
+Save the last dance for me, mmm
+
+Baby don't you know I love you so?
+Can't you feel it when we touch?
+I will never, never let you go
+I love you oh so much
+
+You can dance
+Go and carry on
+Till the night is gone
+And it's time to go
+
+If he asks
+If you're all alone
+Can he take you home
+You must tell him no
+
+Cause don't forget who's taking you home
+And in whose arms you're gonna be
+So darlin'
+Save the last dance for me
+
+Cause don't forget who's taking you home
+And in whose arms you're gonna be
+So darlin'
+Save the last dance for me, mmm
+
+Save the last dance for me, mmm
+Save the last dance for me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-blue-day-don-gibson
+lyrics_url: https://genius.com/Don-gibson-blue-blue-day-lyrics
 name: Blue Blue Day
 rankings:
 - end_date: '1958-08-10'
@@ -39,4 +40,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-22'
 ---
+It's been a blue blue day I feel like runnin' away I feel like runnin' away from it all
+My love has been untrue she's found somebody new it's been a blue blue day for me
+Well I feel like crying dying what can I do
+I feel like praying saying I'm glad we're through
+It's been a blue blue day I feel like runnin' away I feel like runnin' away from the blues
 
+Yes how can I make believe that I don't sit and grieve it's been a blue blue day for me
+I can't pretend and say that I don't love her anyway it's been a blue blue day for me
+Well I feel like crying...
+I feel like runnin' away from the blues

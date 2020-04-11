@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happy-the-sunshine-company
+lyrics_url: https://genius.com/The-sunshine-company-happy-lyrics
 name: Happy
 rankings:
 - end_date: '1967-07-21'
@@ -47,4 +48,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
 ---
+Happiness is when
+I'm near you
+To share your smile
+If I love to
 
+Happy's the day I found you
+Happy's the world around you
+
+I'll never cry as long as
+We're together
+My happiness is you
+
+Happy's the way I love you
+Happy's just thinking of you
+I've found a lifetime of pleasure
+A hidden treasure
+In the happiness of you
+
+You're the girl
+I wanna marry
+You're the girl that makes me
+That makes me happy
+
+Happy's our life together
+Happy's our love forever
+What more in life
+Could you give me?
+
+Happy is the day
+All my life with you
+Happiness is when I'm near you
+To share your smile
+If I love to
+
+Happy's the day I found you
+Happy's the world around you
+Happy's the way I love you
+Happy's just thinking of you
+Happy's our life together

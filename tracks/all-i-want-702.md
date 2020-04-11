@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-i-want-702
+lyrics_url: https://genius.com/702-all-i-want-lyrics
 name: All I Want
 rankings:
 - end_date: '1997-08-22'
@@ -55,4 +56,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-11-01'
 ---
+All I want is someone I can talk to
+Someone who will listen to what I have to say
+All I need is some special attention
+Someone who will mention the special things in me
 
+
+I'm not the kind of girl
+Who doesn't know what she wants
+I see it in my mind
+The kind of guy to treat me right
+I know he'll be strong
+He'll keep me going on
+I'll know him when he comes
+He'll be my number one
+
+
+All I want is someone I can talk to
+Someone who will listen to what I have to say
+All I need is some special attention
+Someone who will mention the special things in me
+
+
+Special in every way
+Takes time from busy days
+To satisfy my needs
+Says things to comfort me
+It's not much to ask for
+The things I want
+I'll know him when he comes
+He'll be my number one
+
+
+All I want is someone I can talk to
+Someone who will listen to what I have to say
+All I need is some special attention
+Someone who will mention the special things in me
+
+
+All that I'm (All that I'm)
+Looking for (looking for)
+Got to have (got to have)
+Someone mature (ooh baby)
+Ooh, everything (everything)
+You do and say (do and say)
+Touch my heart (touch my heart in a special way)
+All I want
+All I need
+Someone special
+
+
+All I want is someone I can talk to
+Someone who will listen to what I have to say
+All I need is some special attention
+Someone who will mention the special things in me

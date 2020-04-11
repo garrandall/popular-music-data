@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-my-girl-the-turtles
+lyrics_url: https://genius.com/The-turtles-shes-my-girl-lyrics
 name: She's My Girl
 rankings:
 - end_date: '1967-11-17'
@@ -47,4 +48,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-01-13'
 ---
+Mornin', mornin' glory
+If you'd like to know where was I last night
+Well, I saw a girl with a boy in her eye
+And she's so outta sight
 
+She's my girl
+And that's where I was last night
+Off in a dream
+
+She's my girl
+I took her away last night
+Went for a ride
+Off in the sky, that's where I was last night
+
+I just come back to tell ya
+There's a little bit of heaven underneath the apple tree
+And every time I see you with that smile upon your face
+There's a little bit there for me
+
+And she's my girl
+And that's where I was last night
+Went for a ride
+
+She's my girl
+I took her away last night
+We went for a ride
+My girl
+And that's where I was last night
+Off in the sky
+
+She's my girl
+I took her away last night
+Off in the sky
+My girl
+And that's where I was last night
+Gettin' so high
+Off in the sky, that's where I was last night
+
+My girl
+I took her away last night
+We went for a ride
+My girl
+And that's where I was last night
+Gettin' so high
+My girl
+I took her away last night
+Off in the sky
+My girl
+And that's where I was last night
+Gettin' so high

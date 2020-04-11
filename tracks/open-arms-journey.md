@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: open-arms-journey
+lyrics_url: https://www.azlyrics.com/lyrics/journey/openarms.html
 name: Open Arms
 rankings:
 - end_date: '1982-01-22'
@@ -79,4 +80,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-05-15'
 ---
+Lying beside you
+Here in the dark
+Feeling your heartbeat with mine
+Softly you whisper
+You're so sincere
+How could our love be so blind
+We sailed on together
+We drifted apart
+And here you are
+By my side
 
+So now I come to you
+With open arms
+Nothing to hide
+Believe what I say
+So here I am
+With open arms
+Hoping you'll see
+What your love means to me
+Open arms
+
+Living without you
+Living alone
+This empty house seems so cold
+Wanting to hold you
+Wanting you near
+How much I wanted you home
+
+But now that you've come back
+Turned night into day
+I need you to stay
+
+So now I come to you
+With open arms
+Nothing to hide
+Believe what I say
+So here I am
+With open arms
+Hoping you'll see
+What your love means to me
+Open arms

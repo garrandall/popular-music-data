@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: run-to-you-bryan-adams
+lyrics_url: https://genius.com/Bryan-adams-run-to-you-lyrics
 name: Run To You
 rankings:
 - end_date: '1984-11-09'
@@ -83,4 +84,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-03-09'
 ---
+She says her love for me could never die
+But that'd change if she ever found out about you and I
 
+
+Oh, but her love is cold
+Wouldn't hurt her if she didn't know, cause
+When it gets too much
+I need to feel your touch
+
+
+I'm gonna run to you
+I'm gonna run to you
+Cause when the feeling's right I'm gonna run all night
+I'm gonna run to you
+
+
+She's got a heart of gold, she'd never let me down
+But you're the one that always turns me on, you keep me comin' 'round
+
+
+I know her love is true
+But it's so damn easy makin' love to you
+I got my mind made up
+I need to feel your touch
+
+
+I'm gonna run to you
+Yeah, I'm gonna run to you
+Cause when the feeling's right I'm gonna stay all night
+I'm gonna run to you
+
+Yeah, I'm gonna run to you
+Oh, when the feeling's right I'm gonna run all night
+I'm gonna run to you
+
+
+When the feeling's right
+Ooohh
+
+
+Oh, I'm gonna run to you
+Yeah, I'm gonna run to you
+Cause when the feeling's right I'm gonna stay all night
+I'm gonna run to you
+
+
+Oh, I'm gonna run to you
+Yeah, when the feeling's right I'm gonna stay all night
+Oh, when the feeling's right now
+Oh, yeah, when the feeling's right now
+
+I'm gonna run to you
+Oh, oh
+
+Yeah, I'm gonna run to you
+Yeah, now
+Oh, I'm gonna run to you, run to you
+Yeah, I'm gonna run to you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: macarena-christmas-los-del-rio
+lyrics_url: https://genius.com/Los-del-rio-macarena-christmas-lyrics
 name: Macarena Christmas
 rankings:
 - end_date: '1996-12-27'
@@ -23,3 +24,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-01-11'
 ---
+Joy to the world, Joy to the world
+Joy to the world, Joy to the world
+Joy to the world, Joy to the world
+Joy to the world, Joy to the world
+
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+Ay!
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+Ay!
+
+Joy to the world, Joy to the world
+Joy to the world, Joy to the world
+
+Jingle bells, jingle bells
+Jingle all the way!
+O what fun it is to ride
+In a one-horse open sleigh
+
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+Ay!
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+Ay!
+
+Rudolph the red-nosed reindeer
+Had a very shiny nose
+And if you ever saw it
+You would even say it glows
+Rudolph with your nose so bright
+Won't you guide my sleigh tonight?
+
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+Ay!
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+Ay!
+
+I'm dreaming of a white Christmas
+With every Christmas card I write
+May your days be merry and bright
+And may all your Christmases be white
+
+
+Dale a tu cuerpo alegria Macarena
+Que tu cuerpo es pa' darle alegria y cosa buena
+(Joy to the world)
+Dale a tu cuerpo alegria, Macarena
+Hey Macarena
+Ay!
+(Joy to the world)
+
+Should auld acquaintance be forgot
+And never brought to mind?
+Should auld acquaintance be forgot
+For the sake of auld lang syne?
+For auld lang syne, my dear
+For auld lang syne
+We'll tak a cup of kindness yet
+For auld lang syne!

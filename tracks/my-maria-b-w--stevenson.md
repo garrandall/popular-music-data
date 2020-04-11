@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-maria-b-w--stevenson
+lyrics_url: https://genius.com/Bw-stevenson-my-maria-lyrics
 name: My Maria
 rankings:
 - end_date: '1973-08-03'
@@ -71,4 +72,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-10'
 ---
+My Maria
+Don't you know I have come a long, long way
+I've been longing to see her, when she's around, she takes my blues away
 
+Sweet Maria
+The sunlight surely hurts my eyes
+I'm a lonely dreamer on a highway in the skies
+
+Maria (oh, Maria, I love you, girl, oh, my Maria)
+Maria (oh, Maria, I love you, girl), I love you
+
+My Maria
+There were some blue and sorrow times
+Just my thoughts about you bring back my peace of mind
+
+Gypsy lady
+You're a miracle worker for me
+You set my soul free like a ship sailing on the sea
+
+She is the sunlight when the skies are grey
+She treats me so right, lady, take me away
+
+Maria (oh, Maria, I love you, girl, oh, my Maria)
+Maria (oh, Maria, I love you, girl), I love you
+
+Maria (oh, Maria, I love you, girl, oh, my Maria)
+Maria (oh, Maria, I love you, girl), I love you

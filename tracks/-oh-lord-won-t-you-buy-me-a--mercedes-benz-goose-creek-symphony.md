@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -oh-lord-won-t-you-buy-me-a--mercedes-benz-goose-creek-symphony
+lyrics_url: https://genius.com/Goose-creek-symphony-oh-lord-wont-you-buy-me-a-mercedes-benz-lyrics
 name: (Oh Lord Won't You Buy Me A) Mercedes Benz
 rankings:
 - end_date: '1972-02-04'
@@ -43,4 +44,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-25'
 ---
+Oh Lord, won't you
+Buy me a Mercedes Benz
+My friends all drive Porsches
+I must make amends
 
+Worked hard all my lifetime
+No help from my friends
+So Lord, won't you
+Buy me a Mercedes Benz
+
+Oh Lord, won't you
+Buy me a color TV
+Dialing For Dollars
+Is trying to find me
+
+I wait for delivery
+Each day until three
+So, oh, Lord, won't you
+Buy me a color TV
+
+Oh, Lord, won't you
+Buy me a night on the town
+I'm counting on you, Lord
+Please don't let me down
+
+Prove that you love me
+And buy the next round
+Oh, Lord, won't you
+Buy me a night on the town
+
+Everybody, oh, Lord, won't you
+Buy me a Mercedes Benz
+My friends all drive Porsches
+I must make amends
+
+Worked hard all my lifetime
+No help from my friends
+So, oh, Lord, won't you
+Buy me a Mercedes Benz

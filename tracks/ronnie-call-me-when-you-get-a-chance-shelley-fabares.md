@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ronnie-call-me-when-you-get-a-chance-shelley-fabares
+lyrics_url: https://genius.com/Shelley-fabares-ronnie-call-me-when-you-get-a-chance-lyrics
 name: Ronnie Call Me When You Get A Chance
 rankings:
 - end_date: '1963-05-03'
@@ -27,4 +28,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-05-25'
 ---
+Ronnie, I know that you're mad at me
+So, I'm writing this note to ask you please
 
+Ronnie, call me when you get a chance
+There's something I just have to say
+I wasn't flirting with Jim
+When you saw me with him
+I could never hurt you that way
+
+So, Ronnie, call me when you get a chance
+And give me a chance to explain
+You saw me talking to Joe
+But I want you to know
+Every other word was your name (Ronnie)
+
+You saw me with some of your buddies
+And that was careless of me (Sha la la)
+Everything went wrong (Sha la la)
+When you came along (Sha la la)
+And saw what you weren't supposed to see
+
+So, Ronnie, call me when you get a chance
+So you can get everything right
+I only met with the guys
+Just to plan a surprise
+For your birthday, Saturday night
+
+(Ronnie, call me when you get a chance)
+(Ronnie)
+
+You saw me with some of your buddies
+And that was careless of me (Sha la la)
+Everything went wrong (Sha la la)
+When you came along (Sha la la)
+And saw what you weren't supposed to see
+
+So, Ronnie, call me when you get a chance
+So you can get everything right
+I only met with the guys
+Just to plan a surprise
+For your birthday, Saturday night
+
+(Ronnie, call me when you get a chance)
+Ronnie, call me when you get a chance
+(Ronnie, call me when you get a chance)
+Ronnie, call me when you get a chance
+(Ronnie, call me when you get a chance)
+Ronnie, call me when you get a chance

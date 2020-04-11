@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-made-me-love-you-nat-king-cole
+lyrics_url: https://genius.com/Nat-king-cole-you-made-me-love-you-lyrics
 name: You Made Me Love You
 rankings:
 - end_date: '1959-05-10'
@@ -43,4 +44,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-29'
 ---
+You made me love you
+I didn't wanna do it
+I didn't wanna do it
+You made me want you
 
+And all the time you knew it
+I guess you always knew it
+You made me happy
+
+Sometimes you made me glad
+But there were times
+You made me feel so bad
+
+You made me sigh for
+I didn't wanna tell you
+I didn't wanna tell you
+
+I want some love
+That's true, yes, I do
+'Deed I do, you know I do
+
+Give me, give me what I cry for
+You know you got the brand of kisses
+That I die for
+You know you made me love you
+
+Give me, give me what I cry for
+You know you got the brand of kisses
+That I die for
+You know you made me love you

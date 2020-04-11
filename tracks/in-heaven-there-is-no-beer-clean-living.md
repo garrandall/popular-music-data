@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-heaven-there-is-no-beer-clean-living
+lyrics_url: https://genius.com/Clean-living-in-heaven-there-is-no-beer-lyrics
 name: In Heaven There Is No Beer
 rankings:
 - end_date: '1972-11-10'
@@ -55,4 +56,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
 ---
+In heaven there is no beer
+That's why we drink it here
+And when we're gone from here
+Well, our friends will be drinking all the beer
+Everybody, sing!
 
+In heaven there is no beer
+That's why we drink it here
+And when we're gone from here
+Well, our friends will be drinking all the beer
+
+La la, la-la-la-la
+La la, la-la-la-la
+La la, la-la-la
+La la, la-la-la, la-la-la
+
+Piano solo!
+
+In heaven there is no beer
+That's why we drink it here
+And when we're gone from here
+Well, our friends will be drinking all the beer
+
+In heaven there is no beer
+That's why we drink it here
+And when we're gone from here
+Well, our friends will be drinking all the beer
+
+La la, la-la-la-la
+La la, la-la-la-la
+La la, la-la
+La la, la-la-la, la-la-la
+La la, la-la-la-la
+La la, la-la-la-la...

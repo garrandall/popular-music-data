@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-feel-love-donna-summer
+lyrics_url: https://genius.com/Donna-summer-i-feel-love-lyrics
 name: I Feel Love
 rankings:
 - end_date: '1977-08-12'
@@ -99,4 +100,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-07'
 ---
+Ooh
+It's so good, it's so good
+It's so good, it's so good
+It's so good
 
+Ooh
+Heaven knows, heaven knows
+Heaven knows, heaven knows
+Heaven knows
+
+Ooh
+I feel love, I feel love
+I feel love, I feel love
+I feel love
+
+
+I feel love
+I feel love
+I feel love
+
+
+Ooh
+Fallin' free, fallin' free
+Fallin' free, fallin' free
+Fallin' free
+
+Ooh
+You and me, you and me
+You and me, you and me
+You and me
+
+Ooh
+I feel love, I feel love
+I feel love, I feel love
+I feel love
+
+
+I feel love
+I feel love
+I feel love
+I feel love
+
+
+Ooh
+I'll get you, I'll get you
+I'll get you, I'll get you
+I'll get you
+
+Ooh
+What you do, what you do
+What you do, what you do
+What you do
+
+Ooh
+I feel love, I feel love
+I feel love, I feel love
+I feel love
+
+
+I feel love
+I feel love
+I feel love
+I feel love
+I feel love
+
+Ooh
+I'll get you, I'll get you
+I'll get you, I'll get you
+I'll get you
+
+Ooh
+What you do, what you do
+What you do, what you do
+What you do
+
+Ooh
+I feel love, I feel love
+I feel love, I feel love
+I feel love
+
+
+I feel love
+I feel love
+I feel love
+I feel love

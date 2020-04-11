@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-more-mountain-to-climb-ronnie-dove
+lyrics_url: https://genius.com/Ronnie-dove-one-more-mountain-to-climb-lyrics
 name: One More Mountain To Climb
 rankings:
 - end_date: '1967-02-24'
@@ -31,4 +32,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-25'
 ---
+You open your arms when you see me
+You cry when I walk away
+But though you tell me you need me
+There's still one word you won't say
 
+I've got one more mountain to climb
+One more river to cross
+Say you love me this time
+I've got one more mountain to climb
+
+I know that somebody hurt you
+He broke each promise he made
+But I'd rather die than desert you
+So love me and don't be afraid
+
+I've got one more mountain to climb
+One more river to cross
+Say you love me this time
+I've got one more mountain to climb
+
+You need me, I know it
+You do little things to show it
+I keep getting closer to you
+So why can't you say you love me too?
+
+One more mountain to climb
+One more river to cross
+Say you love me this time
+I've got one more mountain to climb

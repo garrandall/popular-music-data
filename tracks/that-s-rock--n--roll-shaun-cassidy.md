@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-s-rock--n--roll-shaun-cassidy
+lyrics_url: https://genius.com/Shaun-cassidy-thats-rock-n-roll-lyrics
 name: That's Rock 'N' Roll
 rankings:
 - end_date: '1977-07-29'
@@ -103,4 +104,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-12-31'
 ---
+When I was sixteen, and sick of school
+I didn't know what I wanted to do
+I bought a guitar
+I sang my heart out
+That's Rock N' Roll
 
+I played at parties, played at bars
+I spent my money buyin' new guitars
+I screamed my heart out
+But how I loved it
+That's Rock N' Roll
+
+Come on everybody get down and get with it!
+Come on everybody get down and get with it!
+Come on everybody get down and get with it!
+That's Rock N' Roll
+
+And if you feel it, clap your hands;
+You'll see some sweat from the boys in the band
+Just get the rhythm, and let it fill ya
+That's Rock N' Roll
+
+Come on everybody get down and get with it!
+Come on everybody get down and get with it!
+Come on everybody get down and get with it!
+That's Rock N' Roll

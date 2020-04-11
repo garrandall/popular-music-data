@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-same-one-brook-benton
+lyrics_url: https://genius.com/Brook-benton-the-same-one-lyrics
 name: The Same One
 rankings:
 - end_date: '1960-08-28'
@@ -55,4 +56,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-11-07'
 ---
+The same one you said you needed
+The same one who needed you
+That same one is lonely
+Please mend the heart you've broken in two
 
+The same one you played a game with
+The same one who gave his all
+That same one is begging
+Completely at your beck and call
+
+Although you're fickle-hearted
+But darling, I will forgive
+'Cause I knew the day we parted
+Without you I could not live
+
+The same one you played a game with
+The same one who gave his all
+That same one is waiting
+Completely at your beck and call
+
+The same one, the same one
+The same one, the same one
+I'm the same one
+The same one, the same one

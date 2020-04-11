@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: quit-playing-games--with-my-heart--backstreet-boys
+lyrics_url: https://genius.com/Backstreet-boys-quit-playing-games-with-my-heart-lyrics
 name: Quit Playing Games (With My Heart)
 rankings:
 - end_date: '1997-07-04'
@@ -179,4 +180,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-04-18'
 ---
+Baby, oh
 
+
+Even in my heart, I see
+You're not being true to me
+Deep within my soul, I feel
+Nothing's like it used to be
+
+
+Sometimes I wish I could turn back time
+Impossible as it may seem
+But I wish I could so bad, baby
+
+
+Quit playing games with my heart
+Quit playing games with my heart (with my heart)
+Before you tear us apart (my heart)
+Quit playing games with my heart
+I should have known from the start
+You know you have got to stop (from my heart)
+You are tearing us apart (my heart, my heart)
+Quit playin' games with my heart
+
+
+I live my life the way
+To keep you coming back to me
+Everything I do is for you
+So what is it that you can't see
+
+
+Sometimes I wish I could turn back time
+Impossible as it may seem
+But I wish I could so bad, baby
+You better
+
+
+Quit playing games with my heart
+Quit playing games with my heart (with my heart)
+Before you tear us apart (my heart)
+Quit playing games with my heart
+I should have known from the start
+You know you have got to stop (from my heart)
+You are tearing us apart (my heart, my heart)
+Quit playin' games with my heart
+Quit playing games
+
+
+Baby, baby the love that we had was so strong
+Don't leave me hanging here forever
+Oh baby, baby this is not alright, let's stop this tonight
+Baby, oh
+Quit playing games
+Na na na na na na
+Na na na na na na, baby
+Na na na na na na
+
+
+Sometimes I wish I could turn back time
+Impossible as it may seem
+But I wish I could so bad, baby
+
+
+Quit playing games with my heart
+Quit playing games with my heart (with my heart)
+Before you tear us apart (my heart)
+Quit playing games with my heart
+I should have known from the start
+You know you have got to stop (from my heart)
+You are tearing us apart (my heart, my heart)
+Quit playin' games with my heart
+
+
+Quit playing games with my heart
+Na na na na na na
+Na na na na na, baby
+Na na na na na na
+Quit playing games with my heart
+My heart, with my heart, my heart
+Na na na na na na
+Na na na na na, baby
+Na na na na na na

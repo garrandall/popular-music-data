@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-this-isn-t-love-jennifer-hudson
+lyrics_url: https://genius.com/Jennifer-hudson-if-this-isnt-love-lyrics
 name: If This Isn't Love
 rankings:
 - end_date: '2009-03-20'
@@ -59,4 +60,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-06-13'
 ---
+I'm calling his phone up just to tell him how much
+I really love him cause he's everything I want
+He listens to me, cares for me
+So I truly believe
 
+
+God sent me an angel up from above
+That's gonna love me for life
+Might as well be perfect
+Only because it's the only way I can describe, so
+
+
+If this isn't love
+Tell me what it is
+Cause I could be dreaming or just plain crazy
+If this isn't love
+Tell me what it is
+'Cause I never felt like this, baby
+If this isn't love
+L-O-V-E, what it means to me
+L-O-V-E, oh, if this isn't love
+L-O-V-E, what it means to me
+L-O-V-E, oh, if this isn't love
+
+
+I'm selfish 'cause I don't wanna share him with nobody
+Not even those people that came before me
+But see, I never believe
+
+
+God sent me an angel up from above
+That's gonna love me for life
+Might as well be perfect
+Only because it's the only way I can describe, so
+
+
+If this isn't love
+Tell me what it is
+'Cause I could be dreaming or just plain crazy, no
+If this isn't love, no
+Tell me what it is
+'Cause I never felt like this, baby
+If this isn't love
+L-O-V-E, what it means to me
+L-O-V-E, oh, if this isn't love
+L-O-V-E, what it means to me
+L-O-V-E, oh, if this isn't love
+
+
+So if you got real love
+Let me see you put your hands up
+See you put your hands up
+The kind of love that fits tight like a glove
+Let me see you put your hands up
+See you put your hands up
+If this isn't love
+'Cause I know I ain't crazy, I know I ain't trippin'
+I know I ain't slippin', I know that it's love
+See me with my hands up
+If you think I'm dreaming, I know I ain't dreaming
+'Cause this reason maybe and I know what is love
+If this isn't love...
+
+
+If this isn't love
+Tell me what it is
+'Cause I could be dreaming or just plain crazy, no
+If this isn't love, no
+Tell me what it is
+'Cause I never felt like this, baby
+If this isn't love
+L-O-V-E, what it means to me
+L-O-V-E, oh, if this isn't love
+L-O-V-E, what it means to me
+L-O-V-E, oh, if this isn't love

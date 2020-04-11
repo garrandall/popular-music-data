@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: secret-madonna
+lyrics_url: https://genius.com/Madonna-secret-lyrics
 name: Secret
 rankings:
 - end_date: '1994-10-14'
@@ -95,4 +96,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-03-04'
 ---
+Things haven't been the same
+Since you came into my life
+You found a way to touch my soul
+And I'm never, ever, ever gonna let it go
 
+
+Happiness lies in your own hand
+It took me much too long to understand
+How it could be
+Until you shared your
+Secret with me
+
+
+Something's comin' over
+Mmm-mmm, something's comin' over
+Mmm-mmm, something's comin' over me
+My baby's got a secret
+
+
+You gave me back the paradise
+That I thought I lost for good
+You helped me find the reason why
+It took me by surprise that you understood
+You knew all along
+What I never wanted to say
+Until I learned to love myself
+I was never ever loving anybody else
+
+
+Happiness lies in your own hand
+It took me much too long to understand
+How it could be
+Until you shared your
+Secret with me
+
+
+Something's comin' over
+Mmm-mmm, something's comin' over
+Mmm-mmm, something's comin' over me
+My baby's got a secret
+Mmm-mmm, something's comin' over
+Mmm-mmm, something's comin' over
+Mmm-mmm, something's comin' over me
+My baby's got a secret
+
+
+Happiness lies in your own hand
+It took me much too long to understand
+How it could be
+Until you shared your
+Secret with me
+
+
+Something's comin' over
+Mmm-mmm, something's comin' over
+Mmm-mmm, something's comin' over me
+My baby's got a secret
+Mmm-mmm, something's comin' over
+Mmm-mmm, something's comin' over
+Mmm-mmm, something's comin' over me
+My baby's got a secret
+
+
+Mmm-mmm, my baby's got a secret
+Mmm-mmm, my baby's got a secret
+Mmm-mmm, my baby's got a secret for me
+Mmm-mmm, mmm-mmm, mmm-mmm

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-the-freddie-freddie-and-the-dreamers
+lyrics_url: https://genius.com/Freddie-and-the-dreamers-do-the-freddie-lyrics
 name: Do The Freddie
 rankings:
 - end_date: '1965-04-30'
@@ -39,4 +40,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-12'
 ---
+Hear the happy feet dancing to the beat of the Freddie (Freddie)
+Put a guy in front make a line in back then you're ready (ready)
 
+Kick your feet up swing your arms up too
+Move your head both ways like you see me do
+Then jump three feet to the swinging beat
+Do the Freddie (Freddie) Do the Freddie (Freddie)
+
+It's an easy dance give yourself a chance
+Dance the Freddie (Freddie)
+It's the thing to do kids will envy you
+So do the Freddie (Freddie) [high pitched maniacial laughter follows)
+
+Kick your feet up swing your arms up too
+Move your head both ways like you see me do
+Then jump three feet to the swinging beat
+Do the Freddie (Freddie) Do the Freddie (Freddie)
+
+Wow! 
+
+Kick your feet up swing your arms up too
+Move your head both ways like you see me do
+Then jump three feet to the swinging beat
+Do the Freddie (Freddie) Do the Freddie (Freddie)
+
+Dance the Freddie Dance the Freddie

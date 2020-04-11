@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-of-us--will-weep-tonight--patti-page
+lyrics_url: https://www.musixmatch.com/lyrics/Patti-Page/One-of-Us-Will-Weep-Tonight
 name: One Of Us (Will Weep Tonight)
 rankings:
 - end_date: '1960-06-12'
@@ -63,4 +64,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
 ---
+Two men have quarreled, so two men will fight
+Oh, stop them before it's too late
+Lord, stop them from doing this terrible thing
+For the sake of two women who wait.
 
+Or one of us will weep tonight,
+One of wont sleep tonight,
+One of us will walk forth tomorrow,
+Out of a happy life,
+Into a lonely life,
+Wearing the black dress of sorrow
+
+Out is the street now they reach for their guns,
+Please stop them before it's too late
+But a bullet rings out and the pain can be felt
+In the hearts of two women that wait.
+
+Now one of us will weep tonight,
+One of us wont sleep tonight,
+One of us will walk forth tomorrow,
+One of us a happy life
+One of us a lonely life
+Wearing the black dress of sorrow.

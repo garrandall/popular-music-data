@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: believe-elton-john
+lyrics_url: https://genius.com/Elton-john-believe-lyrics
 name: Believe
 rankings:
 - end_date: '1995-03-17'
@@ -87,4 +88,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-07-22'
 ---
+I believe in love, it's all we got
+Love has no boundaries, costs nothin' to touch
+War makes money, cancer sleeps
+Curled up in my father, and that means somethin' to me
 
+
+Churches and dictators, politics and papers
+Everything crumbles sooner or later
+
+
+But love
+I believe in love
+
+
+I believe in love, it's all we got
+Love has no boundaries, no borders to cross
+Love is simple, hate breeds
+Those who think difference is the child of disease
+
+
+Father and son make love and guns
+Families together kill someone
+
+
+Without love
+I believe in love
+
+
+
+
+Without love, I wouldn't believe
+In anythin' that lives and breathes
+Without love, I'd have no anger
+I wouldn't believe in the right to stand here
+
+
+Without love, I wouldn't believe
+I couldn't believe in you and I wouldn't believe in me
+
+
+Without love
+I believe in love
+I believe in love
+I believe in love

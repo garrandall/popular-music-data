@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-me--planet-p
+lyrics_url: https://genius.com/Planet-p-project-why-me-lyrics
 name: Why Me?
 rankings:
 - end_date: '1983-04-22'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-06-11'
 ---
+Sitting up here watching all the lights blink down below
+The earth is turning, why does it go so slow?
+Thinking about the girl I left behind
+Houston can you hear me, or have I lost my mind?
+Why me? Why me?
 
+I was waiting on the pad, all systems were go
+The man up in the tower was enjoying the show
+Then I got this feeling that I never had before
+Hey let me out of here, what am I here for?
+Why me?
+
+There must be a thousand other guys
+Must be some other way to look good in your eyes
+Why am I up here? What do they see in me?
+Must be one thousand other places to be
+Why me? Why Me?
+
+The last man to be here was never heard from again
+He won't be back this way till 2010
+Now I'm riding on a fountain of fire
+With my back to the earth, I go higher and higher
+Why me? Why me?
+
+There must be a thousand other guys
+Must be some other way to look good in your eyes
+Why am I up here? What do they see in me?
+Must be one thousand other places to be
+Why me? Why me?
+Take anyone but me. Why me?
+Take anyone but me. Why me?

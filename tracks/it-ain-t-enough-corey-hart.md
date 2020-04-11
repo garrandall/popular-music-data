@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-ain-t-enough-corey-hart
+lyrics_url: https://genius.com/Corey-hart-it-aint-enough-lyrics
 name: It Ain't Enough
 rankings:
 - end_date: '1984-10-05'
@@ -83,4 +84,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-02-02'
 ---
+I could capture all the love the great romantics had
+Sing you a song that ain't half bad
+But that ain't enough... that ain't enough for you
+And I could run across the world, to bring you the sun
+Look in your eyes one on one
+But that ain't enough... that ain't enough for you
 
+And I could carry the weight of your sad times, dear
+And give you the strength to face your fears
+I know I'll never be afraid to say
+I'm here by your side and I'm gonna stay
+
+I could preach about love that one shouldn't forsake
+Work on my style of give and take
+But that ain't enough... That ain't enough for you
+Said ain't enough... it ain't enough for you
+
+And I could carry the weight of your sad times, dear
+And give you the strength to face your fears
+I know I'll never be afraid to say
+I'm here by your side and I'm gonna stay
+Just a little closer to you, yeah
+
+I could pour you a drink like I pour out my heart
+Smile when I'm sad and act dumb when I'm smart
+But that ain't enough... that ain't enough for you
+That ain't enough for you

@@ -1,8 +1,6 @@
 ---
 artists:
-- Earth
-- Wind
-- Fire
+- Earth, Wind & Fire
 features: []
 genres: []
 key: kalimba-story-earth-wind-fire
@@ -80,6 +78,3 @@ Kalimba, ooh kalimba, play me a tune
 Kalimba, ooh kalimba, I'm glad I found you
 Kalimba, ooh kalimba, play me a tune
 Kalimba, ooh kalimba sends a message to you
-
-
-

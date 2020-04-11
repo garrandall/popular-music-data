@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: on-the-wings-of-love-jeffrey-osborne
+lyrics_url: https://genius.com/Jeffrey-osborne-on-the-wings-of-love-lyrics
 name: On The Wings Of Love
 rankings:
 - end_date: '1982-10-01'
@@ -79,4 +80,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
 ---
+Just smile for me
+And let the day begin
+You are the sunshine
+That lights my heart within
 
+And I'm sure that
+You're an angel in disguise
+Come take my hand and
+Together we will rise
+
+
+On the wings of love
+Up and above the clouds
+The only way to fly
+Is on the wings of love
+
+On the wings of love
+Only the two of us
+Together flying high
+Flying high up on the wings of love
+
+
+You look at me
+And I begin to melt
+Just like the snow when
+A ray of sun is felt
+
+And I'm crazy 'bout cha
+Baby, can't you see
+I'd be so delighted if
+You would come with me
+
+
+On the wings of love
+Up and above the clouds
+The only way to fly
+Is on the wings of love
+
+On the wings of love
+Only the two of us
+Together flying high
+Flying high up on the wings of love
+
+
+Yes, you belong to me
+I'm yours exclusively
+Right now we live
+And breathe each other
+
+Inseparable it seems
+We're flowing like a stream
+Running free traveling
+On the wings of love
+
+
+On the wings of love
+Up and above the clouds
+The only way to fly
+Is on the wings of love
+
+On the wings of love
+Only the two of us
+Together flying high
+Together flying high
+
+On the wings of love
+Up and above the clouds
+The only way to fly
+Is on the wings of love
+
+On the wings of love
+Only the two of us
+Together flying high
+Flying high up on the wings of love

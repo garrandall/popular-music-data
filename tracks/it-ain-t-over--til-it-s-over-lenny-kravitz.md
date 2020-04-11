@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-ain-t-over--til-it-s-over-lenny-kravitz
+lyrics_url: https://genius.com/Lenny-kravitz-it-aint-over-til-its-over-lyrics
 name: It Ain't Over 'til It's Over
 rankings:
 - end_date: '1991-06-14'
@@ -83,4 +84,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-10-12'
 ---
+Here we are still together
+We are one
+So much time wasted
+Playing games with love
 
+
+So many tears I've cried
+So much pain inside
+But baby It ain't over until it's over
+So many years we've tried
+To keep our love alive
+But baby it ain't over until it's over
+
+
+How many times
+Did we give up
+But we always worked things out
+And all my doubts and fears
+Kept me wondering, yeah
+If I'd always, always be in love
+
+
+So many tears I've cried
+So much pain inside
+But baby It ain't over until it's over
+So many years we've tried
+And kept our love alive
+But baby it ain't over until it's over
+
+
+So many tears I've cried
+So much pain inside
+But baby It ain't over until it's over
+So many years we've tried
+And kept our love alive
+But baby it ain't over until it's over
+So many tears I've cried
+So much pain inside
+But baby It ain't over until it's over
+So many years we've tried
+To keep our love alive
+Cause baby it ain't over until it's over
+So many tears we've cried
+So much pain inside
+But baby It ain't over until it's over
+So many years we've tried
+To keep our love alive
+Cause baby it ain't over until it's over
+
+
+So many tears we've cried
+So much pain inside
+Baby It ain't over until it's over
+Over

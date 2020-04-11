@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bohemian-rhapsody-the-braids
+lyrics_url: https://www.musixmatch.com/lyrics/The-Braids/Bohemian-Rhapsody
 name: Bohemian Rhapsody
 rankings:
 - end_date: '1996-10-25'
@@ -75,4 +76,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-02-08'
 ---
+Mama, just killed a man,
+Put a gun against his head,
+Pulled my trigger now he's dead
+Mama life had just begun,
+But now I've gone and thrown it all away
 
+Mama, ooooh
+I ddn't mean to make you cry
+If I'm not back again this time tomorrow
+Oh carry on, carry on, as if nothing really matters
+
+Too late,
+My time has come,
+Send shivers down my spine
+Body's aching all the time
+Goodbye everybody
+I've got to go
+Gotta leave you all behind and face the truth
+
+Mama, oooh
+I don't wanna die
+I sometimes wish I never been born at all
+
+(Oh oh carry on nothing really matters) I didn't mean to make you cry
+If i'm not back again this time tomorrow
+(Carry on, carry on, as if nothin really matters)
+
+I don't wanna die
+I sometimes wish I never been born at all,
+(Carry on, nothing really matters)
+
+So you think you can stone me and spit in my eye
+So you think you can love me and leave me to die
+Oh, baby
+Can't do this baby
+Just gotta get right out of here
+
+Oh, baby
+Can't do this baby
+
+Just gotta get right out of here
+
+Oh oh carry on nothing really matters
+I sometimes wish I never been born at all
+
+(Ooh carry on, nothing really matters)
+
+Nothing really matters
+Anyone can feel
+
+Nothing really matters to me
+Anyway the wind blows

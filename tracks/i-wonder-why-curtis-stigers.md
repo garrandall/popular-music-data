@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wonder-why-curtis-stigers
+lyrics_url: https://genius.com/Curtis-stigers-i-wonder-why-lyrics
 name: I Wonder Why
 rankings:
 - end_date: '1991-09-13'
@@ -87,4 +88,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-01-18'
 ---
+Love is a hunger
+That burns in my soul
+But you never notice the pain
+Love is an anchor
+That won't let me go
+I reach out to hold you
+But you push me away
+You always convince to stay
 
+And I wonder why
+We hold on with tears in your eyes
+And I wonder why
+We have to break down to just make things right
+And I wonder why
+I can't seem to tell you goodbye
+Yeah, I wonder why
+
+I'm no angel
+With my selfish pride
+But I love you more everyday
+Love is an anger
+That builds up inside
+As the tears of frustation
+Roll down my face
+Why does love always have to turn out this way
+
+I don't want to fight again tonight
+About the little things please baby
+I just want to find my way
+Back to love
+And I'll need you there, baby

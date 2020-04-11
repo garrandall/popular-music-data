@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-letter-the-arbors
+lyrics_url: https://genius.com/The-arbors-the-letter-lyrics
 name: The Letter
 rankings:
 - end_date: '1969-02-28'
@@ -47,4 +48,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
 ---
+Gimme a ticket for an airplane
+Ain't got time to take a fast train
+Lonely days are gone
+I'm a-goin' home
+My baby wrote me a letter
+Ah
 
+I don't care how much I gotta spend
+Gotta get back to my baby again
+Lonely days are gone
+I'm a-goin' home
+My baby wrote me a letter
+
+Well, she wrote me a letter
+Said she couldn't live without me no more
+Listen, mister, can't you see
+I've gotta get back to my baby once more?
+
+Wrote me a letter
+Said she couldn't live without me no more
+Listen, mister, can't you see
+I gotta get back to my baby once more?
+
+Well, she wrote me a letter
+Said she couldn't live without me no more
+Listen, mister, can't you see
+I gotta get back to my baby once more?
+
+Gimme a ticket for an airplane
+Gotta get back to my baby again
+Lonely days are gone
+I'm a-goin' home
+My baby wrote me a letter

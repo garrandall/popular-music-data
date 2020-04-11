@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: shotgun-jr--walker-the-all-stars
+lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-shotgun-lyrics
 name: Shotgun
 rankings:
 - end_date: '1965-02-19'
@@ -64,4 +65,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-15'
 ---
+I said, Shotgun!
+Shoot 'em 'fore they run now
+Do the jerk, baby
+Do the dirty now
+Hey
 
+Put on your red dress
+And then you go downtown now
+I said, Buy yourself a shotgun now
+We're going to break it down baby now
+We're going to load it up baby now
+Oh can you shoot 'em 'fore they run now
+
+I said, Shotgun!
+Shoot 'em 'fore they run now
+Do the jerk, baby
+Do the dirty now
+Hey
+
+Shotgun!
+Shoot 'em 'fore they run now
+Do the jerk, baby
+Do the dirty now
+Hey
+
+Put on your high heel shoes
+I said we're going down here listen to 'em play the blues
+We're gonna dig potatoes
+We're gonna pick tomatoes
+
+I said, Shotgun!
+Shoot 'em 'fore they run now
+Do the jerk, baby
+Do the dirty now
+Hey
+
+I said it's twine time
+I said it's twine time
+I said it's twine time
+Hey, look at that

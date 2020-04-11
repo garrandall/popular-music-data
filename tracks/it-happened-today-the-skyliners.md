@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-happened-today-the-skyliners
+lyrics_url: https://genius.com/The-skyliners-it-happened-today-lyrics
 name: It Happened Today
 rankings:
 - end_date: '1959-10-04'
@@ -39,4 +40,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-16'
 ---
+I knew someday you'd come my way
+It happened, it happened today
+I knew somehow that you would smile
+It happened, it happened today
 
+
+I told everybody that I'd win your heart
+They said that we would fall apart
+Today you said you'd just love me
+Now I'm as happy as I can be
+I knew someday you'd come my way
+It happened, it happened today
+
+
+
+I knew someday that I'd hear you say
+You'd love me come what may
+And it happened, it happened today

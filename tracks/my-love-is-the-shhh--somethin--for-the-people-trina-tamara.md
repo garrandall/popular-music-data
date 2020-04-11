@@ -6,6 +6,7 @@ features:
 - Tamara
 genres: []
 key: my-love-is-the-shhh--somethin--for-the-people-trina-tamara
+lyrics_url: https://genius.com/Somethin-for-the-people-my-love-is-the-shhh-lyrics
 name: My Love Is The Shhh!
 rankings:
 - end_date: '1997-09-05'
@@ -113,4 +114,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-02-21'
 ---
+Boy you'll never find another love
+As good as this
+So ya better represent
+'Cause my love is the shhh (the bomb baby)
+Girl you'll never find another love
+As good as this
+So ya better represent
+Cause my love is the shhh (the bomb baby)
 
+
+You keep telling me on the telephone
+How ya got it going on
+And how you keep me satisfied (oh yeah)
+But actions speak louder than words
+I must see what I've heard
+Is it true or do you lie?
+'Cause I need somebody
+Givin' nothin' but good lovin'
+All through the night (oh yeah)
+Someone to break me off a little somethin'
+When I need to be satisfied
+And I got one thing in mind
+
+
+Boy you'll never find another love
+As good as this
+So ya better represent
+'Cause my love is the shhh (the bomb baby)
+Girl you'll never find another love
+As good as this
+So ya better represent
+Cause my love is the shhh (the bomb baby)
+
+
+All these things I say to you
+I swear that they are true
+I'm all you'll ever need (oh yeah)
+Good love is so hard to find
+And I won't waste your time
+Satisfaction is guaranteed
+I'll be the lover
+That you need
+To break you off in the middle of the night
+I'll take a little trip downtown
+I'll be the freak
+You need in your life
+And I'm knowin'
+
+
+Girl you'll never find another love
+As good as this
+So ya better represent
+Cause my love is the shhh (the bomb baby)
+Girl you'll never find another love
+As good as this
+So ya better represent
+Cause my love is the shhh (the bomb baby)
+
+
+Don't stop, get it, get it
+Don't stop, get it, get it
+Don't stop, get it, get it
+Don't stop, get it, get it
+Let me work that body baby
+Let me work that body baby
+Let me work that body baby
+Let me work that body baby
+
+
+Boy you'll never find another love
+As good as this
+So ya better represent
+'Cause my love is the shhh (the bomb baby)
+Girl you'll never find another love
+As good as this
+So ya better represent
+
+You see, can't nobody love you like me (girl you never)
+Oh baby oh (boy you never)
+Nobody loves me better
+Oh that's good, that's good enough
+Represent

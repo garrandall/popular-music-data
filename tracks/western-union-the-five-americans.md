@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: western-union-the-five-americans
+lyrics_url: https://genius.com/The-five-americans-western-union-lyrics
 name: Western Union
 rankings:
 - end_date: '1967-03-10'
@@ -55,4 +56,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
 ---
+Things went wrong today
+Bad news came my way
+I woke up to find
+That I had blew my mind
 
+Western Union man
+Bad news in his hand
+Knocking at my door
+Selling me the score
+
+Fifteen cents a word to read
+A telegram I didn't need
+Says she doesn't care no more
+Think I'll throw it on the floor
+
+Got your cable just today
+Tell the girl what I've got to say..ay
+Western Union
+Dit, da dit, da dit (8x)
+
+Now you've gone away, and
+How it's sad to say you've gone
+I remember what they said
+Now I'm going out of my head
+Telegram just had to say
+You've learned your lesson all the way..ay
+
+(BREAK)
+
+Telegram just had to say
+You've learned your lesson all the way..ay
+Western Union
+Dit, da dit, da dit (8x)
+
+I'll be on my way 'cause
+There's another girl for me
+I'll be sure of her, and
+Things will be as they were
+Western Union
+Oh, Western Union
+Western Union
+Western Union (fade)

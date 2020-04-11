@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: your-mama-don-t-dance-kenny-loggins-jim-messina
+lyrics_url: https://www.musixmatch.com/lyrics/Kenny-Loggins-Jim-Messina/Your-Mama-Don-t-Dance
 name: Your Mama Don't Dance
 rankings:
 - end_date: '1972-11-17'
@@ -72,4 +73,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-02-24'
 ---
+Your mama don't dance and your daddy don't rock and roll
+Your mama don't dance and your daddy don't rock and roll
+When evening rolls around and it's time to go to town
+Where do you go to rock and roll?
 
+The old folks say that ya gotta end your date by ten
+If you're out on a date and you bring it home late, it's a sin
+There just ain't no excusin' you know you're gonna lose and never win
+I'll say it again
+
+And it all because
+Your mama don't dance and your daddy don't rock and roll
+Your mama don't dance and your daddy don't rock and roll
+When evening rolls around and it's time to go to town
+Where do you go to rock and roll?
+
+You pull into a drive-in and find a place to park
+You hop into the backseat where you know it's nice and dark
+You're just about to groove and you're thinkin' it's a breeze
+There's a light in your eye and then a guy says
+"Out of the car, long hair
+Louise, you're comin' with me and no more movies"
+
+And it all because
+Your mama don't dance and your daddy don't rock and roll
+Your mama don't dance and your daddy don't rock and roll
+When evening rolls around and it's time to go to town
+Where do you go to rock and roll?
+Where do you go to rock and roll?
+Where do you go to rock and roll?

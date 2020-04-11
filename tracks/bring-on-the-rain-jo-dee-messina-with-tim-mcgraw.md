@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bring-on-the-rain-jo-dee-messina-with-tim-mcgraw
+lyrics_url: https://www.musixmatch.com/lyrics/Jo-Dee-Messina-with-Tim-McGraw/Bring-On-the-Rain
 name: Bring On The Rain
 rankings:
 - end_date: '2001-12-14'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-04-20'
 ---
+Another day has almost come and gone
+Can't imagine what else could go wrong
+Sometimes I'd like to hide away somewhere and lock the door
+A single battle lost but not the war
 
+'Cause, tomorrow's another day
+And I'm thirsty anyway
+So bring on the rain
+
+It's almost like the hard times circle 'round
+A couple drops and they all start coming down
+Yeah, I might feel defeated and I might hang my head
+I might be barely breathing but I'm not dead, no
+
+'Cause, tomorrow's another day
+And I'm thirsty anyway
+So bring on the rain, ooh
+
+I'm not gonna let it get me down
+I'm not gonna cry
+And I'm not gonna lose any sleep tonight
+
+'Cause, tomorrow's another day
+And I'm thirsty anyway
+So bring on the rain
+
+'Cause, tomorrow's another day
+And I'm thirsty anyway
+So bring on the rain, ooh
+
+Bring on, bring on the rain
+
+No I'm not gonna let it get me down
+I'm not gonna cry
+So bring on the rain, ooh
+
+Bring on, bring on the rain
+Bring on the rain
+Bring on the rain, ooh

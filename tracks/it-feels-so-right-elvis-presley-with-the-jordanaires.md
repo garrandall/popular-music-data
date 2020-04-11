@@ -1,6 +1,7 @@
 ---
 artists:
-- Elvis Presley With The Jordanaires
+- Elvis Presley
+- The Jordanaires
 features: []
 genres: []
 key: it-feels-so-right-elvis-presley-with-the-jordanaires

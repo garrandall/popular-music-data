@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shake-your-rump-to-the-funk-the-bar-kays
+lyrics_url: https://www.musixmatch.com/lyrics/The-Bar-Kays/Shake-Your-Rump-to-the-Funk
 name: Shake Your Rump To The Funk
 rankings:
 - end_date: '1976-10-22'
@@ -71,4 +72,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-01-29'
 ---
+Don't stop dancing to the music
+Just let the music make you high
+We've got rhythm, you can use it
+Don't let this feeling pass you by, by, by
 
+Don't fight the feeling in your soul
+Just boogie on back and
+Let the good times roll, yeah
+We're here to move your soul
+
+Just get on up, yeah
+Everybody party, come on
+Y'all, let's get started, yeah, yeah
+
+Shake your rump to the funk now
+Shake your rump to the funk now
+Shake your rump to the funk now
+Shake your rump to the funk now
+Well, well, well, well
+
+Everybody, keep on moving
+Just get on up and do your stuff, yeah, yeah
+Everybody, keep on grooving
+Moving and grooving is what they all are doing
+
+Come on, everybody, yeah, yeah
+Feel this stuff, yeah
+We just wanna groove you
+Till you get enough, yeah
+
+We want to play for you
+Our funky sound, yeah
+Move it to the music and
+Get down, down, down
+
+Shake your rump to the funk now
+Shake your rump to the funk now
+Shake your rump to the funk now
+Shake your rump to the funk now
+
+Well, well, well
+Well, well, well
+
+Shake your rump to the funk, come on and
+Come on and, come on and
+
+Shake your rump to the funk
+Shake your rump to the funk now
+Shake your rump to the funk now
+Shake your rump to the funk now
+
+Shake your rump to the funk now
+Shake your rump to the funk now
+Shake your rump to the funk now
+Shake your rump to the funk now

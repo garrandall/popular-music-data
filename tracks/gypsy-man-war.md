@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gypsy-man-war
+lyrics_url: https://genius.com/War-gypsy-man-lyrics
 name: Gypsy Man
 rankings:
 - end_date: '1973-07-27'
@@ -59,4 +60,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-10-13'
 ---
+They call
+They call me a gypsy man
+They call me a gypsy man
 
+They call me a gypsy man
+They call me a gypsy man
+
+They call me a gypsy man
+'Cause I don't stay in one place too long
+
+I'm searchin' for a brand new world
+To make and call my home
+
+I gotta find a friend, a nice sharp baby
+I gotta find a friend, a nice sharp baby
+
+To make my home ohh, yeah
+To make my home
+
+'Cause I'm a gypsy man
+Yes, I'm a gypsy man
+Oh, I'm a gypsy man

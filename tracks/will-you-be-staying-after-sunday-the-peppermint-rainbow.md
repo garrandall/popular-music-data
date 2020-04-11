@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: will-you-be-staying-after-sunday-the-peppermint-rainbow
+lyrics_url: https://genius.com/The-peppermint-rainbow-will-you-be-staying-after-sunday-lyrics
 name: Will You Be Staying After Sunday
 rankings:
 - end_date: '1969-01-24'
@@ -63,4 +64,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
 ---
+Don't let a lonely Monday come again
 
+Will you be staying after Sunday or go home on Monday
+Will you be staying after Sunday or go home
+Your lips are warm on Friday night
+The next two days you hold me tight
+But when it's done, you always run, and I'm alone
+
+Will you be staying after Sunday or go home on Monday
+I'll be waiting for that one day you'll be mine
+I'd give the world to keep you here
+Why do you need to disappear
+And when I press, you do your best, you stall for time
+
+I wouldn't try to own your soul
+You can be free
+I only want you here each night
+Loving me
+
+Will you be staying after Sunday or go home on Monday
+We gotta let this feeling grow or let it end
+You say you care, well if you do
+Don't ever go I'm begging you
+Don't let a lonely Monday come again
+
+Will you be staying after Sunday or go home on Monday
+Will you be staying after Sunday or go home on Monday
+Will you be staying after Sunday or go home on Monday
+Will you be staying after Sunday...

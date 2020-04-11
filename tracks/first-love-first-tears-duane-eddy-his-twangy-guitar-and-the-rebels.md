@@ -1,6 +1,7 @@
 ---
 artists:
-- Duane Eddy His Twangy Guitar And The Rebels
+- Duane Eddy
+- The Rebels
 features: []
 genres: []
 key: first-love-first-tears-duane-eddy-his-twangy-guitar-and-the-rebels

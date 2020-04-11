@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: with-pen-in-hand-vikki-carr
+lyrics_url: https://www.musixmatch.com/lyrics/Vikki-Carr/With-Pen-in-Hand
 name: With Pen In Hand
 rankings:
 - end_date: '1969-05-09'
@@ -59,4 +60,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
 ---
+With pen in hand you sign your name
+Today I find I'll be on that train
+And you'll be free and i will be alone
+So alone
+If you think we can't find
+The love we once knew
+If you think I can't make
+Everything up to you
+Then I'll be gone
+And you'll be on your own
+You'll be on your own
 
+Can you take good care of Jenny
+Can you take her to school everyday
+Can you teach her how to play
+All the games that little girls play
+Here what I say
+
+Can you teach her how to roll up her hair
+Can you make sure each night
+That she says her prayers
+Well if you can do these things
+Then maybe she won't miss me
+Maybe she won't miss me
+
+And tonight as you lay
+In that big lonely bed
+And you look at that pillow
+Where I laid my head
+With your heart on fire
+Will you have no desire
+To kiss me
+Or to hold me
+And if you can forget
+The good times that we had
+If you don't think the good times
+Outweigh the bad
+Than go ahead and sign your name
+And I'll be on my way
+I'll be on my way
+La da da da da da da da da
+La da da da da da da da da
+FADE

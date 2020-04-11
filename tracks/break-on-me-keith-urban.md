@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: break-on-me-keith-urban
+lyrics_url: https://genius.com/Keith-urban-break-on-me-lyrics
 name: Break On Me
 rankings:
 - end_date: '2016-01-22'
@@ -55,4 +56,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-04-02'
 ---
+There'll be days your heart don't wanna beat
+You pray more than you breathe
+And you just wanna fall to pieces
+And nights, those 2 AM calls
+Where dreams become walls
+And you just need a break
+Break on me
 
+
+Shatter like glass
+Come apart in my hands
+Take as long as it takes, girl
+Break on me
+Put your head on my chest
+Let me help you forget
+When your heart needs to break
+Just break on me
+
+
+There'll be times when someone you know
+Becomes someone you knew
+But you'd do anything to change it
+And words you wanna take back
+But you know you can't
+When the page just won't turn
+And it still hurts
+Break on me
+
+
+Shatter like glass
+Come apart in my hands
+Take as long as it takes, girl
+Break on me
+Put your head on my chest
+Let me help you forget
+When your heart needs to break
+Just break on me
+(Ooo oo aah aah, ooo oo aaah aah ooo ooo aaah aaah)
+
+
+Oh, when you need somebody
+When you need somebody right now
+You're where I'll be
+Break on me
+
+
+Shatter like glass
+Come apart in my hands
+Take as long as it takes, girl
+Break on me
+Put your head on my chest
+Let me help you forget
+When your heart needs to break
+Just break on me
+Break on me
+Break on me, baby
+Hmmmm

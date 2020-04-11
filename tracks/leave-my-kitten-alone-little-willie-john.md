@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: leave-my-kitten-alone-little-willie-john
+lyrics_url: https://www.musixmatch.com/lyrics/Little-Willie-John/Leave-My-Kitten-Alone
 name: Leave My Kitten Alone
 rankings:
 - end_date: '1959-08-09'
@@ -67,4 +68,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
 ---
+You better leave (meow) my kitten alone (meow, meow)
+You better leave (meow, meow) my kitten alone (meow, meow)
+I done told you big bad bulldog
+You better leave her alone (meow, meow)
 
+Don't you know my kitten is a dream?
+Don't you know my kitten is a dream?
+So, get your hands off of her, 'cause I'm her lovin' man
+
+*Mr. Dog I'm gonna hit you on the top a yo' head
+The Batgirl's gonna miss you
+And you'll wish that you were dead
+
+If you don't lee-ee-eave my kitten alone
+Yes, I love my little kitten
+Like you hounddogs love your bone
+
+(Instrumental & sax)
+
+Mr. Dog, I'm gonna hit you on the top a yo' head
+The *Batgirl's gonna miss you
+And you'll wish that you were dead
+
+If you don't lee-eee-eave my kitten alone
+Yes, I love my little kitten
+Like all you hounddogs love your bone
+
+Oh yeah
+You better leave
+You better leave
+FADES-
+You better lee-eee-eee-eave.
+
+Note:
+* Mr. Dog ('The Bathound) and *Batgirl, might refer to the comic characters from the 50's in Batman and Detective Comic Books.
+(Not sure, just guessing!)
+~

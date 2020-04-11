@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: on-the-way-up-elisa-fiorillo
+lyrics_url: https://genius.com/Elisa-fiorillo-on-the-way-up-lyrics
 name: On The Way Up
 rankings:
 - end_date: '1990-10-05'
@@ -83,4 +84,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-02-02'
 ---
+I'm on the way up
+Look out
+Ow!
+Babe
+Oh, babe
 
+
+People tell me
+I can't have everything
+But still I wanna have it all
+
+They say I cannot succeed in life
+That I'll get so far
+And then I'll fall
+
+I don't need no negative outlook
+I don't need nobody putting me down
+Don't they know that talk is useless?
+Nothing's gonna keep my feet on the ground
+
+
+Because I'm on the way up
+I've got it all together
+Nothing's gonna hold me back
+
+Yeah, I'm on the way up
+I'm only getting better
+Now tell me what you think about that
+Look out
+
+
+If and when you make it
+All kinds of people come around
+Some of them in your corner
+Some of them put you down
+But one thing they all agree on
+Is that you are gonna change
+
+When all along
+They're the only ones
+Who never ever remain the same
+Now tell me which one of us changed?
+
+Only fools dont take chances
+If you wanna be on top
+You gotta work every single moment
+Cause another's after your spot
+
+All the suckers scream and shout
+They don't know what it's all about
+This is my world
+And I'm sorry
+This table is reserved
+
+
+
+Oh
+Oh, yeah
+
+
+
+People think I can't have everything
+But I'm gonna get it all
+I'm on the way up
+
+Nothing's gonna make me fall
+No, no, no
+Now what you think about that?
+
+Tell me what you think about that?
+Uh-huh
+Thought so

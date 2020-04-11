@@ -1,7 +1,8 @@
 ---
 artists:
-- Ray Conniff And The Singers
-features: []
+- Ray Conniff
+features:
+- The Ray Conniff Singers
 genres: []
 key: somewhere-my-love-ray-conniff-and-the-singers
 name: Somewhere My Love

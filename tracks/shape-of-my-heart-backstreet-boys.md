@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shape-of-my-heart-backstreet-boys
+lyrics_url: https://genius.com/Backstreet-boys-shape-of-my-heart-lyrics
 name: Shape Of My Heart
 rankings:
 - end_date: '2000-10-20'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-02-24'
 ---
+Mmmmh! Yeah, yeah
+Baby, please try to forgive me
+Stay here don't put out the glow (glow, glow)
+Hold me now don't bother
+If every minute it makes me weaker
+You can save me from the man that I've become, oh yeah
 
+
+Looking back on the things I've done
+I was trying to be someone
+I played my part, kept you in the dark
+Now let me show you the shape of my heart
+
+
+Sadness is beautiful, loneliness that's tragical
+So help me I can't win this war, oh no
+Touch me now, don't bother
+If every second it makes me weaker
+You can save me from the man I've become
+
+
+Looking back on the things I've done
+I was trying to be someone
+I played my part, kept you in the dark
+Now let me show you the shape of my heart
+
+
+I'm here with my confession
+Got nothing to hide no more
+I don't know where to start
+But to show you the shape of my heart
+
+
+I'm lookin' back on things I've done
+I never wanna play the same old part
+I'll keep you in the dark (In the dark)
+Now let me show you the shape of my heart
+Looking back on the things I've done
+I was trying to be someone (Trying to be someone)
+I played my part, kept you in the dark
+Now let me show you the shape of my heart
+Looking back on the things I've done
+I was trying to be someone
+I played my part, kept you in the dark
+Now let me show you the shape of
+
+
+Show you the shape of my heart

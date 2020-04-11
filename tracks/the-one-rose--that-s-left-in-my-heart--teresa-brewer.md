@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-one-rose--that-s-left-in-my-heart--teresa-brewer
+lyrics_url: https://www.musixmatch.com/lyrics/Teresa-Brewer/The-One-Rose
 name: The One Rose (That's Left In My Heart)
 rankings:
 - end_date: '1959-01-11'
@@ -27,4 +28,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-02'
 ---
+So blue Lonesome too But still true
 
+Rosie haunts me Makes me think of you
+
+You're the one rose that's left in my heart, dear I love you, adore you, I do
+
+Each night in dreamland we wander along
+Telling love stories anew
+When from a blue sky a black cloud came rolling
+Breaking my heart in two
+Oh we ought not to part
+I have said from the start
+You're the one rose that's left in my heart
+
+Oh we ought not to part
+I have said from the start
+You're the one rose that's left in my heart

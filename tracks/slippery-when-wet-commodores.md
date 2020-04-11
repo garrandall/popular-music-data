@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: slippery-when-wet-commodores
+lyrics_url: https://genius.com/Commodores-slippery-when-wet-lyrics
 name: Slippery When Wet
 rankings:
 - end_date: '1975-05-16'
@@ -67,4 +68,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-08-16'
 ---
+Listen to me brothers
+Listen well
+Brothers we got something to tell
+You can't run around
+Being a married man
+You're not taking care of business very well
+You've got to keep yourself together
+If you dig on what you got
+'Cause what you got can sho'nuff mean a lot
 
+If you ain't taking care of business
+This you must expect
+Love gets slippery when it's wet
+
+You know hanging loose can be outta sight
+But hanging loose
+No it just ain't right
+You see slipping a tipping
+Having fun ain't no good
+Leaving homework undone
+You've got keep your thing together
+If you dig on what you've got
+'Cause what you've got can sho'nuff mean a lot
+
+If you ain't taking care of business
+This you can expect
+Love gets slippery when it's wet
+
+If you ain't taking care of business
+This you can expect
+Love gets slippery when it's wet
+
+Uh huh slippery, slippery
+Love gets slippery when it's wet oh
+It'll slip away yeah
+Love gets slippery when it's wet ooooooh
+Love gets slippery when it's wet
+Slippery, slippery
+Love gets slippery when it's wet
+Don't let your love slip away
+Love gets slippery when it's wet ow
+Taking care of business
+Love gets slippery when it's wet…

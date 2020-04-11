@@ -1,8 +1,6 @@
 ---
 artists:
-- Earth
-- Wind
-- Fire
+- Earth, Wind & Fire
 features: []
 genres: []
 key: keep-your-head-to-the-sky-earth-wind-fire

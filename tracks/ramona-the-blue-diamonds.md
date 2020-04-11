@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ramona-the-blue-diamonds
+lyrics_url: https://genius.com/Blue-diamonds-ramona-lyrics
 name: Ramona
 rankings:
 - end_date: '1960-12-04'
@@ -27,4 +28,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-26'
 ---
+Ramona, I hear the mission bells above
+Ramona, they ringing out a song of love
 
+I press you caress you
+And bless the day you taught me to care
+To always remember
+The ramblin rose you wear in your hair
+
+Ramona, when day is done you hear my call
+Ramona, we'll meet beside the waterfall
+
+I'll dread the dawn
+When I awake to find you gone
+Ramona
+I need you, my own
+
+Ramona, I hear the mission bells above
+Ramona, they ringing out a song of love
+
+I press you caress you
+And bless the day you taught me to care
+To always remember
+The ramblin rose you wear in your hair
+
+Ramona, when day is done you hear my call
+Ramona, we'll meet beside the waterfall
+
+I'll dread the dawn
+When I awake to find you gone
+Ramona
+I need you, my own

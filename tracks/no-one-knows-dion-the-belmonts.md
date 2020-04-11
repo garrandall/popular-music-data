@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: no-one-knows-dion-the-belmonts
+lyrics_url: https://genius.com/Dion-and-the-belmonts-no-one-knows-lyrics
 name: No One Knows
 rankings:
 - end_date: '1958-08-31'
@@ -72,4 +73,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-08'
 ---
+No one knows what I go through
+And the tears I cried for you
+And when I smile, it's just a pose
+My heart is breaking but no one knows
 
+Friends won't learn the truth from me
+I don't want their sympathy
+You go to parties, dances and shows
+I still love you but no one knows
+
+Maybe some how, some time, some where
+You'll walk by and hear my prayer
+My loneliness will fade away
+Darling please tell me you'll stay
+
+But if you should pass me by
+I'll be hurt but I won't cry
+And though my love for you still grows
+I feel it's better if no one knows

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-bayou-roy-orbison
+lyrics_url: https://genius.com/Roy-orbison-blue-bayou-lyrics
 name: Blue Bayou
 rankings:
 - end_date: '1963-09-20'
@@ -47,4 +48,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-11-16'
 ---
+I feel so bad I've got a worried mind
+I'm so lonesome all the time
+Since I left my baby behind on Blue Bayou
 
+Saving nickels, saving dimes
+Working 'till the sun don't shine
+Looking forward to happier times
+On Blue Bayou
+I'm going back some day
+Come what may to Blue Bayou
+Where you sleep all day
+And the catfish play on Blue Bayou
+
+All those fishing boats
+With their sails afloat
+If I could only see
+That familiar sunrise
+Through sleepy eyes
+How happy I'd be
+
+Go to see my baby again
+And to be with some of my friends
+Maybe I'd be happy then on Blue Bayou
+
+I'm going back some day
+Gonna stay on Blue Bayou
+Where the folks are fine
+And the world is mine
+On Blue Bayou
+Oh, that girl of mine by my side
+The silver moon and the evening tide
+Oh, some sweet day gonna take away
+This hurtin' inside
+I'll never be blue
+My dreams come true on Blue Bayou

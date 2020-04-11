@@ -2,7 +2,7 @@ song,artist,start_date,end_date,rank,ranking_list
 Runaround Sue,Dion,1961-10-23,1961-10-29,1,Billboard Hot 100
 Bristol Stomp,The Dovells,1961-10-23,1961-10-29,2,Billboard Hot 100
 Big Bad John,Jimmy Dean,1961-10-23,1961-10-29,3,Billboard Hot 100
-Hit The Road Jack,Ray Charles and his Orchestra,1961-10-23,1961-10-29,4,Billboard Hot 100
+Hit The Road Jack,Ray Charles,1961-10-23,1961-10-29,4,Billboard Hot 100
 Sad Movies (Make Me Cry),Sue Thompson,1961-10-23,1961-10-29,5,Billboard Hot 100
 This Time,Troy Shondell,1961-10-23,1961-10-29,6,Billboard Hot 100
 I Love How You Love Me,The Paris Sisters,1961-10-23,1961-10-29,7,Billboard Hot 100
@@ -66,7 +66,7 @@ Your Last Goodbye,Floyd Cramer,1961-10-23,1961-10-29,63,Billboard Hot 100
 Crazy,Patsy Cline,1961-10-23,1961-10-29,65,Billboard Hot 100
 Tonight,Ferrante & Teicher,1961-10-23,1961-10-29,66,Billboard Hot 100
 Young Boy Blues,Ben E. King,1961-10-23,1961-10-29,67,Billboard Hot 100
-Moon River,Henry Mancini And His Orchestra,1961-10-23,1961-10-29,68,Billboard Hot 100
+Moon River,Henry Mancini,1961-10-23,1961-10-29,68,Billboard Hot 100
 Goodbye Cruel World,James Darren,1961-10-23,1961-10-29,69,Billboard Hot 100
 Morning After,Mar-Keys,1961-10-23,1961-10-29,70,Billboard Hot 100
 I'll Be Seeing You,Frank Sinatra,1961-10-23,1961-10-29,71,Billboard Hot 100
@@ -75,9 +75,9 @@ The Astronaut (Parts 1 & 2),Jose Jimenez,1961-10-23,1961-10-29,73,Billboard Hot 
 Don't Get Around Much Anymore,The Belmonts,1961-10-23,1961-10-29,74,Billboard Hot 100
 The Bridge Of Love,Joe Dowell,1961-10-23,1961-10-29,75,Billboard Hot 100
 The Way I Am,Jackie Wilson,1961-10-23,1961-10-29,76,Billboard Hot 100
-Berlin Melody,Billy Vaughn And His Orchestra,1961-10-23,1961-10-29,77,Billboard Hot 100
+Berlin Melody,Billy Vaughn,1961-10-23,1961-10-29,77,Billboard Hot 100
 Don't Cry No More,Bobby Bland,1961-10-23,1961-10-29,78,Billboard Hot 100
-Come September,Billy Vaughn And His Orchestra,1961-10-23,1961-10-29,79,Billboard Hot 100
+Come September,Billy Vaughn,1961-10-23,1961-10-29,79,Billboard Hot 100
 Somewhere Along The Way,Steve Lawrence,1961-10-23,1961-10-29,80,Billboard Hot 100
 Here Comes The Night,Ben E. King,1961-10-23,1961-10-29,81,Billboard Hot 100
 Under The Moon Of Love,Curtis Lee,1961-10-23,1961-10-29,82,Billboard Hot 100

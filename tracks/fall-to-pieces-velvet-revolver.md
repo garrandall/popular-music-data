@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fall-to-pieces-velvet-revolver
+lyrics_url: https://genius.com/Velvet-revolver-fall-to-pieces-lyrics
 name: Fall To Pieces
 rankings:
 - end_date: '2004-10-01'
@@ -87,4 +88,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-02-05'
 ---
+It's been a long year
+Since you've been gone
+I've been alone here
+I've grown old
+I fall to pieces, I'm falling
+Fell to pieces and I'm still falling
 
+Every time I'm falling down
+All alone I fall to pieces
+
+I keep a journal of memories
+I'm feeling lonely, I can't breathe
+I fall to pieces, I'm falling
+Fell to pieces and I'm still falling
+
+All the years I've tried
+With more to go
+Will the memories die
+I'm waiting
+Will I find you
+Can I find you
+We're falling down
+I'm falling
+
+Every time I’m falling down
+All alone I fall to pieces
+Every time I’m falling down
+All alone I fall to pieces
+Every time I’m falling down
+All alone I fall to pieces
+Every time I’m falling down
+All alone I fall to pieces

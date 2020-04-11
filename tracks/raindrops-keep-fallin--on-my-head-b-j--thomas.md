@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: raindrops-keep-fallin--on-my-head-b-j--thomas
+lyrics_url: https://genius.com/Bj-thomas-raindrops-keep-fallin-on-my-head-lyrics
 name: Raindrops Keep Fallin' On My Head
 rankings:
 - end_date: '1969-11-07'
@@ -95,4 +96,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
 ---
+Raindrops keep fallin' on my head
+And just like the guy whose feet are too big for his bed
+Nothin' seems to fit
+Those raindrops are fallin' on my head, they keep fallin'
 
+So I just did me some talkin' to the sun
+And I said I didn't like the way he got things done
+Sleepin' on the job
+Those raindrops are fallin' on my head, they keep fallin'
+
+But there's one thing I know
+The blues they send to meet me won't defeat me
+It won't be long 'til happiness steps up to greet me
+
+Raindrops keep fallin' on my head
+But that doesn't mean my eyes will soon be turnin' red
+Cryin's not for me
+'Cause I'm never gonna stop the rain by complainin'
+Because I'm free
+Nothing's worryin' me
+
+It won't be long 'til happiness steps up to greet me
+
+Raindrops keep fallin' on my head
+But that doesn't mean my eyes will soon be turnin' red
+Cryin's not for me
+'Cause I'm never gonna stop the rain by complainin'
+Because I'm free
+Nothing's worryin'
+Me

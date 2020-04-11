@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-saved-my-soul-burton-cummings
+lyrics_url: https://genius.com/Burton-cummings-you-saved-my-soul-lyrics
 name: You Saved My Soul
 rankings:
 - end_date: '1981-09-18'
@@ -51,4 +52,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-11-21'
 ---
+We went together for so long
+Ev'ry second record on the radio seemed like our song
+How we hurt each other; oh baby it was so wrong
+Something in the bottom of my heart will keep me holding on
 
+'cause you saved my soul
+You came along and took me out of the night time
+Yeah you saved my soul
+Taught me to fly...and I gave my heart
+And babe that's something that there's just no returning
+'cause if I have you now I'll never have to make it alone
+
+We were lovers for so long
+Every second record on the radio seemed like our song
+Even though we're older, things we're feeling can't be all wrong
+Something in the bottom of my heart will keep me holding on
+
+'cause you....(repeat chorus)
+..............I'll never have to make it alone
+Saved my soul; saved my soul
+Saved my soul; saved my soul
+
+You saved my soul....(repeat chorus)...
+...............never have to make it alone
+
+Yes if I have you now I'll never have to make it alone
+Yes if I have you now I'll never have to make it alone

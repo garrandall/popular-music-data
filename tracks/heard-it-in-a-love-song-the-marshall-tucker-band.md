@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heard-it-in-a-love-song-the-marshall-tucker-band
+lyrics_url: https://genius.com/The-marshall-tucker-band-heard-it-in-a-love-song-lyrics
 name: Heard It In A Love Song
 rankings:
 - end_date: '1977-03-18'
@@ -91,4 +92,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-07-30'
 ---
+I ain't never been with a woman long enough for my boots to get old
+We've been together so long now they both need re-soled
+If I ever settle down you'd be my kind
+And it's a good time for me to head on down the line
 
+
+Heard it in a love song
+Heard it in a love song
+Heard it in a love song
+Can't be wrong
+
+
+I'm the kind of man who likes to get away
+Like to start dreaming 'bout tomorrow today
+Never said that I love you even though it's so
+Where's that duffel bag of mine, it's time to go
+
+
+Heard it in a love song
+Heard it in a love song
+Heard it in a love song
+Can't be wrong
+
+
+
+
+I'm gonna be leavin' at the break of dawn
+Wish you could come but I don't need no woman taggin' along
+Goin' sneak out that door, couldn't stand to see you cry
+I'd stay another year if I saw a teardrop in your eye
+
+
+Heard it in a love song
+Heard it in a love song
+Heard it in a love song
+Can't be wrong
+
+
+I never had a damn thing but what I had, I had to leave it behind
+You're the hardest thing I ever tried to get off my mind
+Always something greener on the other side of that hill
+I was born a wrangler and a rounder and I guess I always will
+
+
+Heard it in a love song
+Heard it in a love song
+Heard it in a love song
+Can't be wrong

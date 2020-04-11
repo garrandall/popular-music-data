@@ -21,8 +21,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-07-20'
 ---
-
-
 Tell 'em, slime
 
 Yeah, I am the king of the E.A.
@@ -118,6 +116,3 @@ I was just fucked up, I was just down, down bad
 I had to tighten the fuck up, but I'm here for the crown, crown (Oh, shit)
 I was just fucked up, I was just down, down bad
 I had to tighten the fuck up, but I'm here for the crown, crown, crown, crown
-
-
-

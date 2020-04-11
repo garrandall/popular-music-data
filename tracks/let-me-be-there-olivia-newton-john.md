@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-be-there-olivia-newton-john
+lyrics_url: https://genius.com/Olivia-newton-john-let-me-be-there-lyrics
 name: Let Me Be There
 rankings:
 - end_date: '1973-11-23'
@@ -83,4 +84,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-03-23'
 ---
+Wherever you go
+Wherever you may wander in your life
+Surely you know
+I always wanna be there
+Holding you hand
+And standing by to catch you when you fall
+Seeing you through
+In everything you do
 
+Let me be there in your morning
+Let me be there in your night
+Let me change whatever's wrong and make it right
+Let me take you through that wonderland
+That only two can share
+All I ask you is let me be there
+Oh, let me be there
+
+Watching you grow
+And going through the changes in your life
+That's how I know
+I always wanna be there
+Whenever you feel you need a friend to lean on, here I am
+Whenever you call, you know I'll be there
+
+Let me be there in your morning
+Let me be there in your night
+Let me change whatever's wrong and make it right
+Let me take you through that wonderland
+That only two can share
+All I ask you is let me be there

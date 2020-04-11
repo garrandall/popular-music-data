@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: free-ride-edgar-winter-group
+lyrics_url: https://genius.com/The-edgar-winter-group-free-ride-lyrics
 name: Free Ride
 rankings:
 - end_date: '1973-08-17'
@@ -67,4 +68,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-11-17'
 ---
+The mountain is high, the valley is low
+And you're confused on which way to go
+So I've come here to give you a hand
+And lead you into the promised land, so
 
+Come on and take a free ride (Free ride)
+Come on and sit here by my side
+Come on and take a free ride
+
+All over the country, I'm seeing it the same
+Nobody's winning at this kind of game
+We gotta do better, it's time to begin
+You know all the answers must come from within, so
+
+Come on and take a free ride (Free ride)
+Come on and sit here by my side
+Come on and take a free ride
+
+Yeah, yeah, yeah, yeah
+Ooh, ooh, ooh
+Ooh, ooh, ooh
+Ooh, ooh, free ride
+
+Come on and take a free ride
+Yeah, yeah, yeah, yeah
+Come on and take a free ride
+Yeah, yeah, yeah, yeah
+
+Come on and take a free ride
+Yeah, yeah, yeah, yeah
+Come on and take a free ride
+Yeah, yeah, yeah, yeah
+
+Come on and take a free ride
+Yeah, yeah, yeah, yeah
+Come on and take a free ride
+Yeah, yeah, yeah, yeah

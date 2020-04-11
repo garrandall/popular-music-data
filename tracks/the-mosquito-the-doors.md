@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-mosquito-the-doors
+lyrics_url: https://genius.com/The-doors-the-mosquito-lyrics
 name: The Mosquito
 rankings:
 - end_date: '1972-10-06'
@@ -23,4 +24,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-10-21'
 ---
-
+No me moleste mosquito
+No me moleste mosquito
+No me moleste mosquito
+Why don't you go home?
+No me moleste mosquito
+Let me eat my burrito
+No me moleste mosquito
+Why don't you go home?

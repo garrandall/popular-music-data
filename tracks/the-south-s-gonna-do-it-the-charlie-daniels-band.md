@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-south-s-gonna-do-it-the-charlie-daniels-band
+lyrics_url: https://www.musixmatch.com/lyrics/The-Charlie-Daniels-Band/The-South-s-Gonna-Do-It
 name: The South's Gonna Do It
 rankings:
 - end_date: '1975-02-14'
@@ -47,4 +48,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-04-12'
 ---
+Well, the train to Grinderswitch is runnin' right on time
+And the Tucker boys are cookin' down in Carolin'
+People down in Florida can't be still
+When old Lynyrd Skynyrd's pickin' down in Jacksonville
+And people down in Georgia come from near and far
+To hear Richard Betts pickin' on that red guitar
 
+So gather round
+Gather round, children
+Get down
+Well, just get down children
+Get loud
+Well, you can be loud here and
+Be proud
+You can be proud here
+Now be proud to be a Rebel 'cause the South's gonna do it again
+(And again)
+
+Elvin Bishop sittin' on a bale of hay
+He ain't good lookin', but he sure can play
+And, there's ZZ Top, and you can't forget
+That old brother Will is gettin' soakin' wet
+And all the good people down in Tennessee
+Are diggin' barefoot Jerry and the CDB
+
+Well, gather round
+Gather round, children
+Get down
+Well, you can get down children
+Get loud
+Well, you can get loud here and
+Be proud
+You can be proud here
+Now be proud to be a Rebel 'cause the South's gonna do it again
+(Yes it is)

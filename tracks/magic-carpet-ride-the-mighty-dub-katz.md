@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: magic-carpet-ride-the-mighty-dub-katz
+lyrics_url: https://genius.com/Mighty-dub-katz-magic-carpet-ride-the-house-moguls-remix-lyrics
 name: Magic Carpet Ride
 rankings:
 - end_date: '1995-10-20'
@@ -87,4 +88,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-02-24'
 ---
+I like to dream
+Right between the sound machine
+On a cloud of sound I drift in the night
+Any place it goes is right
+Goes far, flies near, to the stars away from here
+Well, you don't know what we can find
+Why don't you come with me little girl on a magic carpet ride?
+You don't know what we can see
+Why don't you tell your dreams to me?, fantasy will set you free
+Last night I held Aladdin's lamp, and so I wished that I could stay
 
+Before the thing could answer me well someone came and took the lamp away
+I looked around, a lousy candle was all I found
+Well, you don't know what we can find
+Why don't you come with me little girl on a magic carpet ride?
+Well, you don't know what we can see
+Why don't you tell your dreams to me? fantasy will set you free
+Close your eyes girl, look inside girl, let the Sound take you away
+You don't know what we can find
+Why don't you come with me little girl on a magic carpet ride?
+Well, you don't know what we can find
+Why don't you come with me little girl on a magic carpet ride?

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heart-in-hand-brenda-lee
+lyrics_url: https://genius.com/Brenda-lee-heart-in-hand-lyrics
 name: Heart In Hand
 rankings:
 - end_date: '1962-07-13'
@@ -47,4 +48,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
 ---
+Here I stand heart in hand
+Looking like a fool
+Left behind by you
 
+There was I so starry eyed
+I couldn't see that you didn't
+You didn't love me
+
+Yes, I was the last one
+I was the very last one to know
+I was believin', you were deceivin'
+And now as my tears flow
+
+Here I stand heart in hand
+Looking like a fool
+Left behind by you
+
+Here I stand
+I've got my heart in my hand
+
+Looking like a fool
+Left behind by you

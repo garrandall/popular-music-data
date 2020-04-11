@@ -5,6 +5,7 @@ features:
 - John Legend
 genres: []
 key: like-i-m-gonna-lose-you-meghan-trainor-john-legend
+lyrics_url: https://genius.com/Meghan-trainor-like-im-gonna-lose-you-lyrics
 name: Like I'm Gonna Lose You
 rankings:
 - end_date: '2015-07-31'
@@ -164,4 +165,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
 ---
+I found myself dreaming in silver and gold
+Like a scene from a movie that every broken heart knows
+We were walking on moonlight, and you pulled me close
+Split second and you disappeared and then I was all alone
+I woke up in tears, with you by my side
+A breath of relief, and I realized
+No, we're not promised tomorrow
 
+
+So I'm gonna love you, like I'm gonna lose you
+I'm gonna hold you, like I'm saying goodbye
+Wherever we're standing, I won't take you for granted
+'Cause we'll never know when
+When we'll run out of time
+So I'm gonna love you, like I'm gonna lose you (Lose you)
+I'm gonna love you, like I'm gonna lose you
+
+
+In the blink of an eye, just a whisper of smoke
+You could lose everything, the truth is you never know
+So I'll kiss you longer, babe (Hey), any chance that I get
+I'll make the most of the minutes and love with no regret
+Let's take our time to say what we want (Say what we want)
+Use what we got before it's all gone (Oh no)
+'Cause no (No), we're not promised tomorrow
+
+
+So I'm gonna love you, like I'm gonna lose you (Lose you)
+I'm gonna hold you (Hey), like I'm saying goodbye
+Wherever we're standing (Yeah), I won't take you for granted
+'Cause we'll never know when
+When we'll run out of time
+So I'm gonna love you (I'm gonna love you), like I'm gonna lose you (Like I'm gonna lose you)
+I'm gonna love you (Love you), like I'm gonna lose you
+Hey
+
+
+I'm gonna love you (Oh)
+Like I'm gonna lose you (Like I'm gonna lose you)
+I'm gonna hold you, like I'm saying goodbye
+Wherever we're standing, I won't take you for granted
+'Cause we'll never know when
+When we'll run out of time
+So I'm gonna love you (I'm gonna love you, baby)
+Like I'm gonna lose you (Like I'm gonna lose you)
+I'm gonna love you (Oh), like I'm gonna lose you

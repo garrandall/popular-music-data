@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: julie-do-ya-love-me-bobby-sherman
+lyrics_url: https://genius.com/Bobby-sherman-julie-do-ya-love-me-lyrics
 name: Julie Do Ya Love Me
 rankings:
 - end_date: '1970-08-07'
@@ -67,4 +68,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-07'
 ---
-
+Bein' alone at night makes me sad, girl
+Yeah, it brings me down all right
+Tossin' and turnin' and freezin' and burnin'
+And cryin' all through the night
+Whoa-oh
+Julie, Julie, Julie, do ya love me?
+Julie, Julie, Julie, do ya care?
+Julie, Julie, are ya thinkin' of me?
+Julie, Julie, will ya still be there?
+We had so much fun together
+I was sure that you were mine
+But leavin' you, baby, is drivin' me crazy
+It's got me wonderin' all the time
+Whoa-oh
+Julie, Julie, Julie, do ya love me?
+Ah, Julie, Julie, Julie, do ya care?
+Julie, Julie, are ya thinkin' of me?
+Julie, Julie, will ya still be there?
+Honey, you cried the day I left you
+Even though we knew I couldn't stay
+But baby, remember, I'll be back September
+But till then I'll write you every day
+Whoa-oh
+Julie, Julie, Julie, do ya love me?
+Ah, Julie, Julie, Julie, do ya care?
+Come on, Julie, Julie, are ya thinkin' of me?
+Julie, Julie, will ya still be there?
+Oh-oh
+Julie, Julie, Julie, do ya love me?
+Ah, Julie, Julie, Julie, do ya care?
+Julie, Julie, are ya thinkin' of me?
+Julie, Julie, will ya still be there?

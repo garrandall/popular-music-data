@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wwwmemory-alan-jackson
+lyrics_url: https://genius.com/Alan-jackson-wwwmemory-lyrics
 name: wwwmemory
 rankings:
 - end_date: '2000-11-10'
@@ -67,4 +68,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-02-10'
 ---
+I know your leaving I see the signs
+Your going to walk out on this heart of mine
+You'll never call me, you'll never write
+You made your mind up and your gone to night
+If some rainy day your all alone
+And feel like talking you can log me on
 
+
+At www dot memory
+I'll be waiting for you patiently
+If you feel the need just click on me
+At www dot memory
+
+
+You won't even have to hold me or look into my eyes
+You can tell me that you love me
+Through your keyboard and wires
+Though you won't have to touch me or even take my hand
+Just slide your little mouse around until you see it land
+
+
+
+
+If you feel the need just click on me
+At www dot memory

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-wait-stevie-nicks
+lyrics_url: https://genius.com/Stevie-nicks-i-cant-wait-lyrics
 name: I Can't Wait
 rankings:
 - end_date: '1986-02-28'
@@ -59,4 +60,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-05-17'
 ---
+I can't wait
+How will I love you
+I can't wait, I can't wait
 
+
+Sometime she talks to him
+Sometimes while she's only dreaming
+Then when she wakes up
+Somehow she still believes him
+
+
+Yes, I know you
+Though we've been out of touch
+Yes, I know you
+To be continued, it's too much, well
+
+
+I can't wait, I can't wait
+Well, if I'm wasting my time while you make up your mind, well
+I can't wait, I can't wait
+And I've got to know when I can see you again, well
+I can't wait, I can't wait
+Yes, I know you
+Though we've been out of touch
+I can't wait, I can't wait, I can't wait
+What can I do when I'm crazy for you
+
+
+She wonders how many more hours
+Her heart will feel broken
+In secret she says she needs to see him
+But no words are spoken
+
+
+Well, she dances around in a circle
+Well, she's got that feeling now
+Blame it on something at first sight
+Put the blame on me if you want to
+To be continued
+
+
+I can't wait, I can't wait
+If I'm wasting my time while you make up your mind, now baby
+I can't wait, I can't wait
+And I've got to know when I can see you again, well
+I can't wait, I can't wait, I can't wait
+What can I do when I'm crazy for you, baby
+I can't wait, I can't wait, I can't wait
+If I'm wasting my time, make up your mind, baby
+
+How will I love you
+How will I love you
+
+
+I can't wait, I can't wait
+If I'm wasting my time while you make up your mind, baby
+I can't wait, I can't wait
+And I've got to know when I can see you again, well
+I can't wait, I can't wait, I can't wait
+Wasting my time while you make up your mind, baby
+I can't wait, I can't wait, I can't wait
+How will I love you
+How will I love you

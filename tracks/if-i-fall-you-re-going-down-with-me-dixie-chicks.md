@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-fall-you-re-going-down-with-me-dixie-chicks
+lyrics_url: https://genius.com/Dixie-chicks-if-i-fall-youre-going-down-with-me-lyrics
 name: If I Fall You're Going Down With Me
 rankings:
 - end_date: '2001-03-23'
@@ -79,4 +80,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-07-14'
 ---
+Was it the pull of the moon now baby
+That led you to my door
+You say the night's got you acting crazy
+I think it's something more
+I've never felt the Earth move honey
+Until you school my tree
+Nobody runs from the law now baby
+Of love and gravity it pulls you so strong
+Baby you gotta hold on
 
+
+If I fall you're going down with me
+You're going down with me baby if I fall
+You can't take back every little chill you give me
+You're going down with me baby heart and all ooh yeah
+
+
+We're hanging right on the edge now baby
+The wind is getting stronger
+We're hanging on by a thread now honey
+We can't hold on much longer
+It's a long way down but it's too late
+
+
+If I fall you're going down with me
+You're going down with me baby if I fall
+You can't take back every little chill you give me
+You're going down with me baby heart and all ooh yeah
+
+
+Ooh baby I couldn't get any higher
+This time I'm willing to dance on the wire
+If I fall, If I fall
+
+
+If I fall you're going down with me
+You're going down with me baby if I fall
+You can't take back every little chill you give me
+You're going down with me baby heart and all ooh yeah
+
+
+If I fall
+If I fall

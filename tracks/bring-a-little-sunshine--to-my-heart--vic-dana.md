@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bring-a-little-sunshine--to-my-heart--vic-dana
+lyrics_url: https://genius.com/Vic-dana-bring-a-little-sunshine-to-my-heart-lyrics
 name: Bring A Little Sunshine (To My Heart)
 rankings:
 - end_date: '1965-05-28'
@@ -31,4 +32,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
 ---
+Bring a little sunshine to my heart
+Just before you say goodbye
+Make me smile for just awhile
+Before you make me cry
 
+Bring a little sunshine to my heart
+With a little kiss or two
+Hold me tight with all your might
+Before you make me blue
+
+Make believe for one sweet moment
+Things are still the same
+Just the warmth of one carress
+Will help to ease my pain
+
+Bring a little sunshine to my heart
+Darling, if you do, I pray
+The feeling of my tender love
+Will make you change your mind and stay
+
+Just the warmth of one carress
+Will help to ease my pain
+
+Bring a little sunshine to my heart
+Darling, if you do, I pray
+The feeling of my tender love
+Will make you change your mind and stay

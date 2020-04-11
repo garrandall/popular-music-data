@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-can-t-i-be-you--the-cure
+lyrics_url: https://genius.com/The-cure-why-cant-i-be-you-lyrics
 name: Why Can't I Be You?
 rankings:
 - end_date: '1987-06-26'
@@ -55,4 +56,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-09-05'
 ---
+You're so gorgeous I'll do anything
+I'll kiss you from your feet to where your head begins
+You're so perfect, you're so right as rain
+You make me, make me, make me, make me hungry again
 
+
+Everything you do is irresistible
+Everything you do is simply kissable
+Why can't I be you?
+
+
+I'll run around in circles until I run out of breath
+I'll eat you all up or I'll just hug you to death
+You're so wonderful, too good to be true
+You make me, make me, make me, make me hungry for you
+
+
+Everything you do is simply delicate
+Everything you do is quite angelicate
+Why can't I be you?
+Why can't I be you?
+
+
+You turn my head when you turn around
+You turn the whole world upside down
+I'm smitten, I'm bitten, I'm hooked, I'm cooked, I'm stuck like glue
+You make me, make me, make me, make me hungry for you
+
+
+Everything you do is simply dreamy
+Everything you do is quite delicious
+So why can't I be you?
+Why can't I be you?
+Why can't I be you?
+Why can't I be you?
+Why can't I be you?
+You're simply elegant

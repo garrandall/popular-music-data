@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: you-re-my-girl-franke-the-knockouts
+lyrics_url: https://genius.com/Franke-and-the-knockouts-youre-my-girl-lyrics
 name: You're My Girl
 rankings:
 - end_date: '1981-07-10'
@@ -60,4 +61,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-09-26'
 ---
+You said you wanna showdown
+But did I take your love too right?
+Now here’s the lowdown
+But I’ll keep telling you night after night
 
+You’re my girl
+You’re the only one
+The only one
+You’re my girl
+You’re the only one
+The only one
+
+You know I poured my heart out
+Stop playing with my sympathy
+‘Cause baby, there’s no doubt
+I thought of a plan to make you believe
+
+You’re my girl
+You’re the only one
+The only one
+You’re my girl
+You’re the only one
+The only one
+
+Hold me tighter
+Ooh, tighter and tighter
+Never let you go of me, baby
+‘Cause when we’re in harmony
+
+You’re my girl
+You’re the only one
+The only one
+You’re my girl
+You’re the only one
+The only one
+
+You’re my girl
+You’re the only one
+The only one
+You’re my girl
+You’re the only one
+
+Oh, come on, baby
+(You’re my girl)
+Every night and every day
+(You’re my girl)
+You’re my girl
+Oh, girl
+(You’re my girl)

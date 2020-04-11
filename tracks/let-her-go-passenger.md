@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-her-go-passenger
+lyrics_url: https://genius.com/Passenger-let-her-go-lyrics
 name: Let Her Go
 rankings:
 - end_date: '2013-08-23'
@@ -179,4 +180,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-06-07'
 ---
+Well you only need the light when it's burning low
+Only miss the sun when it starts to snow
+Only know you love her when you let her go
+Only know you've been high when you're feeling low
+Only hate the road when you're missing home
+Only know you love her when you let her go
+And you let her go...
 
+
+Staring at the bottom of your glass
+Hoping one day you'll make a dream last
+But dreams come slow and they go so fast
+You see her when you close your eyes
+Maybe one day you'll understand why
+Everything you touch surely dies
+
+
+But you only need the light when it's burning low
+Only miss the sun when it starts to snow
+Only know you love her when you let her go
+Only know you've been high when you're feeling low
+Only hate the road when you're missing home
+Only know you love her when you let her go
+
+
+Staring at the ceiling in the dark
+Same old empty feeling in your heart
+'Cause love comes slow and it goes so fast
+Well you see her when you fall asleep
+But never to touch and never to keep
+'Cause you loved her too much and you dived too deep
+
+
+Well you only need the light when it's burning low
+Only miss the sun when it starts to snow
+Only know you love her when you let her go
+Only know you've been high when you're feeling low
+Only hate the road when you're missing home
+Only know you love her when you let her go
+And you let her go...
+
+
+Oh, oh, woah, oh, oh
+And you let her go
+Oh, oh, woah, oh, oh
+When you let her go
+Whoa
+
+
+'Cause you only need the light when it's burning low
+Only miss the sun when it starts to snow
+Only know you love her when you let her go
+Only know you've been high when you're feeling low
+Only hate the road when you're missing home
+Only know you love her when you let her go
+'Cause you only need the light when it's burning low
+Only miss the sun when it starts to snow
+Only know you love her when you let her go
+Only know you've been high when you're feeling low
+Only hate the road when you're missing home
+Only know you love her when you let her go
+And you let her go...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: season-of-the-witch-pt-1-vanilla-fudge
+lyrics_url: https://www.musixmatch.com/lyrics/Vanilla-Fudge/Season-of-the-Witch-Pt-1
 name: Season Of The Witch Pt 1
 rankings:
 - end_date: '1968-12-27'
@@ -19,4 +20,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-01-04'
 ---
+When I look outside my window
+What do I see?
+And when I look outside my window
+So many different people to be yeah
+That it's strange, so strange
+You've got to pick up every stitch
+To rabbits running in a ditch
+The hippies out to make it rich
+Oh, no must be the season of the witch
+Must be the season of the witch
+Oh, no must be the season of the witch
+Must be the season of the witch
 
+What's the matter?
+Help me somebody help him
+And as I look over my shoulder
+What do I see?
+And as I look over my shoulder
+Some ancient fellow I'm longing to be
+
+It's so strange, so strange
+You've got to pick up every stitch
+To rabbits running in a ditch
+The hippies out to make it rich
+Oh, no must be the season of the witch
+Must be the season of the witch yeah
+Must be the season of the witch.

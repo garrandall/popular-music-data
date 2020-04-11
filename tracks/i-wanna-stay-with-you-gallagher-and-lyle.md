@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wanna-stay-with-you-gallagher-and-lyle
+lyrics_url: https://genius.com/Gallagher-and-lyle-i-wanna-stay-with-you-lyrics
 name: I Wanna Stay With You
 rankings:
 - end_date: '1976-04-16'
@@ -63,4 +64,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-07-10'
 ---
+Inside, outside, up and around
+Love set me up and love let me down
+What a game, feel like I?
+One day sun, next day rain
 
+And you ask me if I even care
+Don't you know the answer
+Rainy day blues never felt this way
+
+I wanna stay with you
+For the rest of my life
+I wanna live with you
+For the rest of my life
+I wanna stay with you
+For the rest of my life
+
+And when I give my loving to you
+You're giving little to me
+Somehow someway you changed my point of view
+
+Good times, bad times, happy or sad
+Being in love is better than being alone
+I might have had my doubts
+But nothing to write home about
+
+I wanna stay with you
+For the rest of my life
+I wanna live with you
+For the rest of my life
+I wanna stay with you
+For the rest of my life
+
+I wanna stay with you
+For the rest of my life
+I wanna live with you
+For the rest of my life
+I wanna stay with you
+For the rest of my life

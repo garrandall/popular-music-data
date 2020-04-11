@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh-no-commodores
+lyrics_url: https://genius.com/Commodores-oh-no-lyrics
 name: Oh No
 rankings:
 - end_date: '1981-10-02'
@@ -87,4 +88,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-02-06'
 ---
+I want you to want me
+I'm going crazy knowing he will be your lover tonight
+And when he comes, I'll let you go
+I'll just pretend as you walk out the door
 
+Oh no
+I can't sleep
+Oh no
+I'm going crazy with love
+Over you
+
+I need you to need me
+I want to hold you but you're holding someone else in your arms
+When I close my eyes I see your face
+I'm just not sure how much my heart can erase
+
+Oh no
+I can't think, ooh
+Oh no
+I'm going crazy with love
+Over you
+
+Oh, honey
+Oh, sugar
+
+Oh no
+I can't sleep anymore baby
+Oh no
+I can't think anymore baby
+Oh no
+I'm going crazy with love
+Over you

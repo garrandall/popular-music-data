@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: be-anything--but-be-mine--connie-francis
+lyrics_url: https://www.musixmatch.com/lyrics/Connie-Francis/Be-Anything-But-Be-Mine
 name: Be Anything (But Be Mine)
 rankings:
 - end_date: '1964-05-15'
@@ -39,4 +40,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
 ---
+Be a beggar, be a thief
+Be my sunshine or my grief
+Be anything, but, darling, be mine
 
+Be a wise man, be a fool
+Treat me tender or be cruel
+Be anything, but, darling, be mine
+
+Climb to the top of the ladder
+Be master of all you survey
+Fail and it still doesn't matter
+If you love me, everything is okay
+
+Be the angel of my prayers
+Be the devil, who cares
+Be anything, but, darling, be mine
+
+Be the angel of my prayers
+Be the devil, who cares
+Be anything, but, darling, be mine

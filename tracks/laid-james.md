@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: laid-james
+lyrics_url: https://genius.com/James-laid-lyrics
 name: Laid
 rankings:
 - end_date: '1994-02-11'
@@ -59,4 +60,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-04-30'
 ---
+This bed is on fire
+With passionate love
+The neighbours complain about the noises above
+But she only comes when she's on top
 
+
+My therapist said not to see you no more
+She said you're like a disease without any cure
+She said I'm so obsessed that I'm becoming a bore, oh no
+Ah, you think you're so pretty
+
+
+Caught your hand inside a till
+Slammed your fingers in the door
+Fought with kitchen knives and skewers
+Dressed me up in women's clothes
+Messed around with gender roles
+Line my eyes and call me pretty
+
+
+Moved out of the house, so you moved next door
+I locked you out, you cut a hole in the wall
+I found you sleeping next to me, I thought I was alone
+You're driving me crazy, when are you coming home
+
+
+Laid
+Laid

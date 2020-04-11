@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: since-i-don-t-have-you-the-skyliners
+lyrics_url: https://genius.com/The-skyliners-since-i-dont-have-you-lyrics
 name: Since I Don't Have You
 rankings:
 - end_date: '1959-02-22'
@@ -83,4 +84,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
 ---
+I don't have plans and schemes
+And I don't have hopes and dreams
+I-I-I don't have anything
+Since I don't have you
 
+I don't have fond desires
+And I don't have happy hours
+I-I-I don't have anything
+Since I don't have you
+
+I don't have happiness and I guess
+I never will again
+When you walked out on me
+In walked old misery
+And he's been here since then
+
+I don't have love to share
+And I don't have one who cares
+I-I-I don't have anything
+Since I don't have
+
+You, you, you, you
+You, you, you, you
+You, you, you, you
+(You )

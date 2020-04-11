@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: summer-war
+lyrics_url: https://www.musixmatch.com/lyrics/War/Summer
 name: Summer
 rankings:
 - end_date: '1976-07-16'
@@ -71,4 +72,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-10-23'
 ---
+Ridin round town with all the windows down
+Eight track playin all your favorite sounds
+The rhythm of the bongos fill the park
+The street musicians tryin to get a start
 
+Cause it's summer
+Summer time is here
+Yes it's summer
+My time of year
+Yes it's summer
+My time of year
+
+Stretched out on a blanket in the sand
+Kids of all ages diggin Disneyland
+Rappin on the C.B. radio in your van
+We'll give a big "10-4" to the truckin man
+
+Cause it's summer
+Summer time is here
+Yes it's summer
+My time of year
+Yes it's summer
+My time of year
+
+Young boys playin stick ball in the street
+Fire hydrants help to beat the heat
+Old man feeding pigeons in the square
+Nighttime finds young lovers walking there
+
+Cause it's summer
+Summer time is here
+Yes it's summer
+My time of year
+Yes it's summer
+My time of year
+
+In Atlantic City or out in Malibu
+Or any where between, I'm telling you
+When you feel those balmy breezes on your face
+Summer time is the best time any place
+
+Cause it's summer
+Summer time is here
+Yes it's summer
+My time of year
+Yes it's summer
+My time of year

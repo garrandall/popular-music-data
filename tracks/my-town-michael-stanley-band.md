@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-town-michael-stanley-band
+lyrics_url: https://www.musixmatch.com/lyrics/Michael-Stanley-Band/My-Town
 name: My Town
 rankings:
 - end_date: '1983-10-07'
@@ -47,4 +48,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-12-03'
 ---
+This old town's been home long as I remember
+This town's gonna be here long after I'm gone
+East side, West side--give up, or surrender
+--been down,
+ButI still rock on...
 
+Oh, and this town
+Is my town--alright?
+Love or hate it--it don't matter
+'Cause I'm gonna stand and fight
+This town--is my town
+She's got her ups and downs
+But love or hate it--it don't matter
+'Cause this is my town
+
+This old town is where I learned about lovin'
+This old town is where I learned to hate
+This town, buddy, has done its share of shovin'
+This town taught me
+That it's never too late
+
+Oh, and this town
+Is my town--alright?
+Love or hate it--it don't matter
+'Cause I'm gonna stand and fight
+This town--is my town
+She's got her ups and downs
+But love or hate it--it don't matter
+'Cause this is my town
+
+Oh, and this town
+Is my town--alright?
+Love or hate it--it don't matter
+'Cause I'm gonna stand and fight
+This town--is my town
+She's got her ups and downs
+But love or hate it--it don't matter
+'Cause this is my town
+
+This is MY TOWN
+This is MY TOWN
+This is MY TOWN...

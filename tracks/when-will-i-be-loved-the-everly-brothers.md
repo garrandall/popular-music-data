@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-will-i-be-loved-the-everly-brothers
+lyrics_url: https://genius.com/The-everly-brothers-when-will-i-be-loved-lyrics
 name: When Will I Be Loved
 rankings:
 - end_date: '1960-06-05'
@@ -59,4 +60,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-22'
 ---
+I've been made blue
+I've been lied to
+When will I be loved
 
+I've been turned down
+I've been pushed 'round
+When will I be loved
+
+When I meet a new girl that I want for mine
+She always breaks my heart in two
+It happens every time
+
+I've been cheated
+Been mistreated
+When will I be loved
+
+When I meet a new girl that I want for mine
+She always breaks my heart in two
+It happens every time
+
+I've been cheated
+Been mistreated
+When will I be loved
+When will I be loved
+When will I be loved

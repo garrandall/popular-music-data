@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-got-to-have-a-reason-the-dave-clark-five
+lyrics_url: https://genius.com/The-dave-clark-five-ive-got-to-have-a-reason-lyrics
 name: I've Got To Have A Reason
 rankings:
 - end_date: '1967-01-13'
@@ -35,4 +36,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
 ---
+I've got to have a reason
+I got to have a reason
+I got to have a reason why
+You're walkin' out on me
 
+There's somethin' on your mind
+But you won't tell me
+Mmm, tell me why you're cryin'
+And I will help you, help you, help you
+
+But I gotta have a reason
+I got to have a reason
+I got to have a reason why
+You're walkin' out on me
+
+If there is someone else
+Then I would like to know
+But you know I'm never ever gonna find out
+If you won't tell me, tell me, tell me
+
+But I gotta have a reason
+I got to have a reason
+I got to have a reason why
+You're walkin' out on me
+
+If you tell me what you're thinkin'
+Everything will be all right (everything will be all right)
+Love will never leave your side (love will never leave your side)
+If you place your trust in me
+
+I got to have a reason
+I got to have a reason
+I got to have a reason why
+You're walkin' out on me
+
+I got to have a reason
+I got to have a reason

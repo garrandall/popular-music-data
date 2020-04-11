@@ -1,6 +1,6 @@
 ---
 artists:
-- Edmundo Ros and His Orchestra
+- Edmundo Ros
 features: []
 genres: []
 key: i-talk-to-the-trees-edmundo-ros-and-his-orchestra

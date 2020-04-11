@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: primrose-lane-jerry-wallace-with-the-jewels
+lyrics_url: https://genius.com/Jerry-wallace-with-the-jewels-primrose-lane-lyrics
 name: Primrose Lane
 rankings:
 - end_date: '1959-08-23'
@@ -91,4 +92,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-04'
 ---
-
+Primrose Lane, life's a holiday on Primrose Lane
+Just a holiday on Primrose Lane with you
+Can't explain when we're walkin' down the Primrose Lane
+Even roses bloomin' in the rain with you
+Sweet perfume
+Those little old roses bloom
+And I want to walk with you my whole life through
+Primrose Lane, life's a holiday on Primrose Lane
+Just a holiday on Primrose Lane with you
+Sweet perfume
+Those little old roses bloom
+And I want to walk with you my whole life through
+Primrose Lane, life's a holiday on Primrose Lane
+Just a holiday on Primrose Lane with you
+Wi-i-i-th you
+Wi-i-i-th you
+FADE
+Wi-i-i-th you

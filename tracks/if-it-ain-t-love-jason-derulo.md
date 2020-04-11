@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-it-ain-t-love-jason-derulo
+lyrics_url: https://genius.com/Jason-derulo-if-it-aint-love-lyrics
 name: If It Ain't Love
 rankings:
 - end_date: '2016-05-06'
@@ -39,4 +40,132 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-06-18'
 ---
+(Could use a little love)
+(Why can't you get enough?)
+(Could use, could use a little love)
+(Why can't you get enough?)
+(Could use...)
 
+
+Short days, long nights, tangled up with you
+I don't wanna move
+Your eyes don't lie
+And if I needed proof, that body tell the truth
+
+
+Ooh-ooh-ooh
+Your body is a blessing
+Ooh-ooh-ooh
+Don't know if I deserve it
+Ooh-ooh-ooh
+Before round two, I've got a question for you, babe
+
+
+If it ain't love
+Why does it feel so good?
+Why does it feel so good?
+If it ain't love
+Why does it feel so good?
+Why does it feel so good?
+
+
+If it ain't love
+(Oh, oh, oh, oh)
+(Oh, oh, oh, oh)
+(Oh, oh, oh, oh)
+Why does it feel so good?
+If it ain't love
+(Oh, oh, oh, oh)
+(Oh, oh, oh, oh)
+(Oh, oh, oh, oh)
+Why does it feel so good?
+
+
+(Could use a little love)
+(Why can't you get enough?)
+(Could use, could use a little love)
+(Why can't you get enough?)
+(Could use...)
+
+
+On the tip of my tongue
+The flavor of your skin lingers on my lips
+Each time we dine
+We do it again, again and again, ooh
+
+
+Ooh-ooh-ooh
+Your body is a blessing, oh
+Ooh-ooh-ooh
+What'd I do to deserve it? (What'd I)
+Ooh-ooh-ooh
+Before round three, I've got a question for you, baby
+
+
+If it ain't love
+Why does it feel so good? (So good)
+Why does it feel so good?
+If it ain't love
+Why does it feel so good?
+Why does it feel so good?
+Tell me what it is
+
+
+If it ain't love
+(Oh, oh, oh, oh) Oh, babe
+(Oh, oh, oh, oh)
+(Oh, oh, oh, oh)
+Why does it feel so good? (So ggod)
+If it ain't love
+(Oh, oh, oh, oh) Then what is it?
+(Oh, oh, oh, oh)
+(Oh, oh, oh, oh)
+Why does it feel so good?
+
+
+(Could use a little love) Aw, yeah
+(Why can't you get enough?)
+(Could use, could use)
+
+
+You know soon that you walk in, it going up, going up
+Slow it down for me, girl, we ain't gotta rush it (we ain't gotta rush)
+Always a movie, we ain't saying much
+Baby, I'm just your type, I know what bad girls like
+But I'll confess tonight
+Your body is a blessing, oh yeah
+What'd I do to deserve it?
+(Short days, long nights)
+Short days and long nights, yeah
+
+
+If it ain't love
+(Why) Why does it feel so good?
+(Does it feel) Why does it feel so good?
+(So good) Tell me what it is
+If it ain't love
+(Why) Why does it feel so good?
+(Does it feel) Why does it feel so good?
+(So good) So good, yeah, yeah
+
+
+If it ain't love (woo)
+(Oh, oh, oh, oh) (Why) What is it?
+(Oh, oh, oh, oh) (Does it feel) What is it?
+(Oh, oh, oh, oh) (So good)
+Why does it feel so good?
+If it ain't love
+(Oh, oh, oh, oh) (Why) Then what is it?
+(Oh, oh, oh, oh) (Does it feel) What is it?
+(Oh, oh, oh, oh) (So good)
+Why does it feel so good?
+
+
+(Could use a little love)
+(Why can't you get enough?)
+(Could use, could use a little love)
+(Why can't you get enough?)
+(Could use a little love)
+(Why can't you get enough?)
+(Could use, could use a little love)
+(Why can't you get enough?)

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: help-me-girl-eric-burdon-the-animals
+lyrics_url: https://genius.com/Eric-burdon-and-the-animals-help-me-girl-lyrics
 name: Help Me Girl
 rankings:
 - end_date: '1966-12-02'
@@ -44,4 +45,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
 ---
+Girl have you ever been hungry
+So hungry that you had no pride?
+Well I got that feeling
+That biting, gnawing deep inside
+It's a funny pain
+One I can't explain
+You gotta help me girl
+Help me girl
+'Cause I'm going insane
 
+I know about all the good things
+And what that long green stuff can buy
+Right or wrong it's a groove girl
+Yet somehow I'm not satisfied
+You gotta show me the way
+Turn my night into day
+You gotta help me girl
+Help me girl
+'Cause I'm going insane
+Oh, I need someone
+Someone to comfort me
+Be my someone
+Be my reality girl
+
+You gotta show me the way
+And turn my night into day
+Help me girl
+Help me girl
+'Cause I'm going insane
+Oh, Help me girl
+Help me
+Baby
+Help me girl
+In need your love
+I need your love so bad
+Help me...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-go-the-cars
+lyrics_url: https://genius.com/The-cars-lets-go-lyrics
 name: Let's Go
 rankings:
 - end_date: '1979-07-06'
@@ -67,4 +68,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-06'
 ---
+She's driving away
+With the dim lights on
+And she's making a play
+She can't go wrong
+She never waits too long
+She's winding them down
+On her clock machine
+And she won't give up
+'Cause she's seventeen
 
+
+She's a frozen fire
+She's my one desire
+And I don't want to hold her down
+Don't want to break her crown
+When she says
+
+
+Let's go
+(I like the nightlife baby)
+She says
+(I like the nightlife baby)
+She says
+(Let's go)
+
+
+She's laughing inside
+'Cause they can't refuse
+She's so beautiful now
+She doesn't wear her shoes
+She never likes to choose
+She's got wonderful eyes
+And a risqué mouth
+And when I asked her before
+She said she's holding out
+
+
+She's a frozen fire
+She's my one desire
+And I don't want to hold her down
+Don't want to break her crown
+When she says
+
+
+Let's go
+(I like the nightlife baby)
+She says
+(I like the nightlife baby)
+She says
+(Let's go)
+
+
+(I like the nightlife baby)
+She says
+(I like the nightlife baby)
+She says
+(Let's go)

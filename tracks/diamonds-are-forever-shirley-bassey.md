@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: diamonds-are-forever-shirley-bassey
+lyrics_url: https://genius.com/Shirley-bassey-diamonds-are-forever-lyrics
 name: Diamonds Are Forever
 rankings:
 - end_date: '1972-02-04'
@@ -43,4 +44,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-25'
 ---
+Diamonds are forever
+They are all I need to please me
+They can stimulate and tease me
+They won't leave in the night
+I've no fear that they might desert me
 
+
+Diamonds are forever
+Hold one up and then caress it
+Touch it, stroke it and undress it
+I can see every part
+Nothing hides in the heart to hurt me
+I don't need love
+For what good will love do me?
+Diamonds never lie to me
+For when love's gone
+They'll luster on
+
+
+Diamonds are forever
+Sparkling round my little finger
+Unlike men, the diamonds linger;
+Men are mere mortals who
+Are not worth going to your grave for
+I don't need love
+For what good will love do me?
+
+
+Diamonds never lie to me
+For when love's gone
+They'll luster on
+Diamonds are forever, forever, forever
+Diamonds are forever, forever, forever
+Forever and ever

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gentle-dino
+lyrics_url: https://genius.com/Dino-dean-esposito-gentle-lyrics
 name: Gentle
 rankings:
 - end_date: '1990-11-16'
@@ -63,4 +64,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-02-09'
 ---
+Girl, I promise
+I'll be gentle
 
+Sometimes at night
+I call your name
+And I catch myself falling
+Where there is love
+Sometimes there's pain
+
+Soon my love is falling
+So, please be gentle
+Please be gentle
+When you're loving me
+
+I'll be gentle, yeah
+
+I'm in a daze
+I'm so confused
+Since you have
+Stopped running
+
+I'll take my time
+I'll wait for you
+Cause I know you'll be coming
+
+I'll be gentle
+Baby, I'm gonna be gentle
+When I'm loving you
+When I'm loving you
+
+When I'm loving you
+(Holding you)
+Wanting to please you
+(When you're lying next to me)
+
+Baby girl
+You've got me calling
+Calling out your name
+Yeah
+
+I'll be gentle
+(Please, be very gentle)
+When I'm loving you
+When I'm loving you, baby
+
+(When I'm loving you)
+Holding you
+(Wanting to please you)
+When you're lying next to me
+
+(Baby, you've got me)
+Calling your name, baby, yeah
+Hey, baby, baby, baby
+Baby, you, you've got me
+Yeah, calling
+Calling, calling your name
+
+Baby, you've got me calling
+Calling, calling your name
+Babe, I'm calling, calling
+Calling your name, yeah
+
+Calling, calling
+Calling your name
+Calling, calling
+I will be calling your name
+
+I don't ever wanna stop
+Loving you, girl
+So don't you ever stop
+Being in my world
+
+I don't ever wanna quit
+Loving you, boy
+So don't you ever stop
+Giving me joy...

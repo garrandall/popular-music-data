@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rush-big-audio
+lyrics_url: https://genius.com/Big-audio-dynamite-rush-lyrics
 name: Rush
 rankings:
 - end_date: '1991-09-27'
@@ -75,4 +76,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-01-11'
 ---
+If I had my time again
+I would do it all the same
+And not change a single thing
+Even when I was to blame
 
+For the heartache and the pain
+That I caused throughout my years
+How I learned to be a man
+Through the laughter and the tears
+
+Situation no win
+Rush for a change of atmosphere
+I can't go on so I give in
+Gotta get myself right outta here
+
+Now I'm fully grown
+And I know where it's at
+Somehow I stayed thin
+While the other guys got fat
+
+All the chances that I've blown
+And the times that I've been down
+I didn't get too high
+Kept my feet on the ground
+
+(Chorus)
+
+(Peter Sellers speaking)
+Yes, yes, delightful, delightful
+
+Rush for a change of atmosphere
+
+(Peter Sellers again)
+Mmm, I wish I could sing like that
+'Cause not everything's singing, you know
+The only important thing these days is rhythm and melody
+Rhythm
+And melody
+
+And of all my friends
+You've been the best to me
+Soon will be the day
+When I repay you handsomely
+
+Broken hearts are hard to mend
+I know, I've had my share
+But life just carries on
+Even when I'm not there
+
+(Chorus x2)
+
+Gotta get myself right
+Gotta get myself right
+Gotta get myself right
+Outta here
+(x2)

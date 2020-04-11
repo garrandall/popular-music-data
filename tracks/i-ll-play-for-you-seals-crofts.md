@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-ll-play-for-you-seals-crofts
+lyrics_url: https://genius.com/Seals-and-crofts-ill-play-for-you-lyrics
 name: I'll Play For You
 rankings:
 - end_date: '1975-04-11'
@@ -68,4 +69,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-07-12'
 ---
+Tonight while the lights are shinin' and the microphone is on, I'll play for you
+So many will be the blessings and so short will the time, I'll stay with you
+But I'll play for you, I love you yes I do. You can say that I'm your friend
+You can see my life begin and end. I'll always play for you
 
+Hear the band, hear the band. Won't you let the music take you, hear the band
+And let this night go on forever, and don't you ever stop the music. Let your spirit set you free
+Hear the band, hear the band. You can sing and stomp you feet and clap your hands
+And these few moments we'll share together, and I'll play for you
+
+I've practiced many years and I have come a long, long way just to play for you
+My life is but a song that I have written in many ways, just to say to you
+To say, I love you yes I do. And I'd like for you to be
+Whatever you would like to be. You'll always be special to me
+
+(repeat chorus)

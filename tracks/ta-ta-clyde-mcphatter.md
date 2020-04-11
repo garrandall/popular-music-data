@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ta-ta-clyde-mcphatter
+lyrics_url: https://genius.com/Clyde-mcphatter-ta-ta-lyrics
 name: Ta Ta
 rankings:
 - end_date: '1960-07-24'
@@ -63,4 +64,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
 ---
+When I hold my baby tight
+With all my might
+I tell her I'm gonna never
+Let her out of my sight
 
+She says ta ta
+Just like a baby
+
+You know she fears no harm
+When she's in my arms
+With me telling her
+All about her charms
+
+She says ta ta ta
+Just like a baby
+
+Come here, let me bend your ear
+Tell you of this love of mine
+The way she soothes me
+The way she grooves me
+She's the only one
+That ever moves me
+
+She says it's good to have
+A love to call your own
+Instead of being in a crowd
+Feeling all alone
+
+And I say ta ta
+Just like a baby
+
+Come here, let me bend your ear
+Tell you of this love of mine
+The way she soothes me
+The way she grooves me
+She's the only one
+That ever moves me
+
+She says it's good to have
+A love to call your own
+Instead of being in a crowd
+Feeling all alone
+
+And I say ta ta
+Just like a baby

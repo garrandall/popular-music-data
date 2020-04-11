@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bad-boy-miami-sound-machine
+lyrics_url: https://genius.com/Miami-sound-machine-bad-boy-lyrics
 name: Bad Boy
 rankings:
 - end_date: '1986-03-14'
@@ -83,4 +84,92 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-07-12'
 ---
+Bad boy, bad boy
+Bad boy, bad boy
 
+
+Boys will be boys
+Bad boy, bad boy
+Boys will be boys
+Bad boy, bad boy
+Boys will be boys
+(Always get so restless)
+Bad boy, bad boy
+Boys will be boys
+(Nothing but trouble)
+Bad boy, bad boy
+Boys will be boys
+(If you're feeling breathless)
+Bad boy, bad boy
+Boys will be boys
+(Nothing but trouble)
+Bad boy, bad boy
+
+
+Bad, bad, bad, bad boy
+You make me feel so good
+You naughty bad, bad, bad, bad, boy
+You make me feel so good
+Knew you would
+
+
+The way you hold me tight
+You get me so excited
+You do me oh so right
+My heart goes beat beat
+Beat beat, beat beat
+
+
+Bad, bad, bad, bad boy
+You make me feel so good
+You naughty bad, bad, bad, bad, boy
+You make me feel so good
+Knew you would
+
+
+Boys will be boys
+(Always get so restless)
+Bad boy, bad boy
+Boys will be boys
+(Nothing but trouble)
+Bad boy, bad boy
+Boys will be boys
+(If you're feeling breathless)
+Bad boy, bad boy
+Boys will be boys
+(Nothing but trouble)
+Bad boy, bad boy
+
+
+And when he drives me home
+I feel safe at night
+You call me on the phone
+It goes ring, ring, ring
+Ring-a-ring, ring
+
+
+Boys will be boys
+Bad boy, bad boy
+Boys will be boys
+Bad boy, bad boy
+Boys will be boys
+(Always get so restless)
+Bad boy, bad boy
+Boys will be boys
+(Nothing but trouble)
+Bad boy, bad boy
+Boys will be boys
+(If you're feeling breathless)
+Bad boy, bad boy
+Boys will be boys
+(Nothing but trouble)
+Bad boy, bad boy
+Boys will be boys
+(Always get so restless)
+Bad boy, bad boy
+Boys will be boys
+(Nothing but trouble)
+Bad boy, bad boy
+Boys will be boys
+(If you're feeling breathless)
+Bad boy, bad boy

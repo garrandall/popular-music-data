@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: black-horse---the-cherry-tree-kt-tunstall
+lyrics_url: https://genius.com/Kt-tunstall-black-horse-and-the-cherry-tree-lyrics
 name: Black Horse & The Cherry Tree
 rankings:
 - end_date: '2006-03-31'
@@ -127,4 +128,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-10-14'
 ---
+Two, three, four
+(Woohoo, woohoo)
+(Woohoo, woohoo)
 
+
+Well, my heart knows me better than I know myself
+So I'm gonna let it do all the talking
+(Woohoo, woohoo)
+I came across a place in the middle of nowhere
+With a big black horse and a cherry tree
+(Woohoo, woohoo)
+I felt a little fear upon my back
+I said, "Don't look back, just keep on walking"
+(Woohoo, woohoo)
+Well, the big black horse said, "Look this way"
+He said, "Hey lil' lady, will you marry me?"
+
+
+But I said, "No no, no no no no"
+I said, "No no"
+You're not the one for me"
+No no, no no no no
+I said, "No no, you're not the one for me
+Ooh, woohoo
+
+
+And my heart had a problem in the early hours
+So I stopped it dead for a beat or two
+(Woohoo, woohoo)
+But I cut some cord and I shouldn't have done it
+And it won't forgive me after all these years
+(Woohoo, woohoo)
+So I sent her to a place in the middle of nowhere
+With a big black horse and a cherry tree
+(Woohoo, woohoo)
+Now it won't come back cause it's oh so happy
+And now I've got a hole for the world to see, yeah
+(Woohoo, woohoo)
+
+
+And it said, "No no, no no no no
+I said, "No no
+You're not the one for me"
+No no, no no no no
+I said, "No no, you're not the one for me"
+Ooh, woohoo
+(Not the one for me, yeah)
+(Woohoo)
+
+
+I said, "No no no no, no no no
+No, no
+You're not the one for me" (Woohoo)
+No no no no
+No no
+No no, you're not the one for me"
+(Woohoo)
+
+
+Big black horse and a cherry tree
+(No no, no no no no)
+I can't quite get there
+'Cause my heart's forsaken me
+Yeah, yeah, yeah (No no)
+Big black horse and a cherry tree (No no, no no no no)
+I can't quite get there cause my heart's forsaken me

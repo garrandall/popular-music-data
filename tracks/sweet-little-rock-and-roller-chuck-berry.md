@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-little-rock-and-roller-chuck-berry
+lyrics_url: https://genius.com/Chuck-berry-sweet-little-rock-and-roller-lyrics
 name: Sweet Little Rock And Roller
 rankings:
 - end_date: '1958-11-16'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-05'
 ---
+At nine years old and sweet as she can be
+All dressed up like a downtown Christmas tree
+Dancing and humming a rock-roll melody
+Shes the daughter of a well-respected man
+Who taught her how to judge and understand
+Since she became a rock-roll music fan
 
+
+Sweet little rock and roller
+Sweet little rock and roller
+Her daddy don't have to scold her
+Her partner can't hardly hold her
+She never gets any older
+Sweet little rock and roller
+
+
+
+
+Should've seen her eyes when the band began to play
+And the famous singers sang and barred away
+When the stars performed, she screamed and yelled, "Hooray!"
+Ten thousand eyes were watching them leave the floor
+Five thousand tongues were screaming, "More! More!"
+And about fifteen hundred waitin outside the door
+
+
+Sweet little rock and roller
+Sweet little rock and roller
+Sweet little rock and roller
+Sweet little rock and roller
+Sweet little rock and roller

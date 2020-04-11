@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-leave-orchestral-manoeuvres-in-the-dark
+lyrics_url: https://genius.com/Orchestral-manoeuvres-in-the-dark-if-you-leave-lyrics
 name: If You Leave
 rankings:
 - end_date: '1986-03-14'
@@ -87,4 +88,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-07-19'
 ---
+If you leave, don't leave now
+Please don't take my heart away
+Promise me, just one more night
+Then we'll go our separate ways
+We've always had time on our side
+Now it's fading fast
+Every second, every moment
+We've gotta make it last
 
+
+I touch you once, I touch you twice
+I won't let go at any price
+I need you now like I need you then
+You always said we'd still be friends someday
+
+
+If you leave I won't cry
+I won't waste one single day
+But if you leave don't look back
+I'll be running the other way
+Seven years went under the bridge
+Like time was standing still
+Heaven knows what happens now
+You've gotta say you will
+
+
+I'll touch you once, I'll touch you twice
+I won't let go at any price
+I need you now like I need you then
+You always said we'd meet again
+
+
+I touch you once, I touch you twice
+I won't let go at any price
+I need you now like I need you then
+You always said we'd still be friends
+
+
+I touch you once, I touch you twice
+I won't let go at any price
+I need you now like I need you then
+You always said we'd meet again someday
+
+
+If you leave
+If you leave
+If you leave
+Don't look back
+Don't look back

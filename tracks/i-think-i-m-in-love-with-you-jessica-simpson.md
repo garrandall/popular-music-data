@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-think-i-m-in-love-with-you-jessica-simpson
+lyrics_url: https://genius.com/Jessica-simpson-i-think-im-in-love-with-you-lyrics
 name: I Think I'm In Love With You
 rankings:
 - end_date: '2000-07-07'
@@ -71,4 +72,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-10-14'
 ---
+Yeah, yeah, yeah
+Oh-oh
+Oh-oh-oh
 
+
+Every time you're near, baby
+I get kinda crazy in my head for you
+I don't know what to do
+And oh baby
+I get kinda shaky when they mention you
+I just lose my cool
+
+
+My friends tell me
+Something has come over me
+And I think I know what it is
+I think I'm in love
+
+
+Boy, I think that I'm in love with you
+Got me doin' silly things when it comes to you (In love)
+Boy, I think that I'm in love with you (Boy, I think I'm in love)
+I've been telling all my friends what I feel for you
+
+
+Just the other night, baby
+I saw you hanging
+You were with your crew, I was with mine too
+You took me by surprise
+When you turned and looked me in my eyes
+Boy, you really blew my mind
+
+
+I don't know what's gotten into me
+But I kinda think I know what it is
+I think I'm in love
+
+
+Boy, I think that I'm in love with you (In love)
+Got me doin' silly things when it comes to you (I'm in love)
+Boy, I think that I'm in love with you (I'm in love)
+I've been telling all my friends what I feel for you
+Boy, I think that I'm in love with you
+Got me telling all my friends what I feel for you
+
+
+Something strange has come over me
+Got me going out of my mind
+Never met a guy like you before
+You make me feel special inside
+I think I'm in love
+
+
+Boy, I think that I'm in love with you (Oh yeah)
+Got me doin' silly things when it comes to you (I think I'm in love)
+Boy, I think that I'm in love with you (In love with you)
+I've been telling all my friends what I feel for you
+(Feel for you, ah-ah)
+Boy, I think that I'm in love with you (Ah-ah, in love with you)
+Got me doin' silly things when it comes to you
+(Goin' out of my mind, boy)
+Boy, I think that I'm in love with you (I think I'm in love)
+I've been telling all my friends what I feel for you
+Baby, every time you call my name
+Boy, I think that I'm in love with you
+(You drivin' me insane)
+Got me doin' silly things when it comes to you
+(I don't know what to do)
+Boy, I think that I'm in love with you
+(Never met a guy like you)
+I've been telling all my friends what I feel for you

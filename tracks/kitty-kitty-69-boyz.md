@@ -90,24 +90,24 @@ rankings:
 ---
 
 
-{Here kitty-kitty, here kitty-kitty-kittyyyyy!}  
+
 Aw, kitty kitty!
-{Here kitty-kitty, here kitty-kitty-kittyyyyy!}  
+
 I thought I saw a puddy tat!
 
 
-(What you doin'?) {Nuttin', hon! Uhh, uhh, I'm just nuttin', hon!}
-(What you doin'?) {Nuttin', hon! Aww, honey-hon!}
+(What you doin'?)
+(What you doin'?)
 
-Like I said, the party ain't dead, 
+Like I said, the party ain't dead,
 These girls ain't even scared to give head!
 
 Girl, stop tryin' to be smooth
 Make way for a brother to make the first move
 You're tryin' to act nice and sweet
 'Cause I know that you is a freak
-So let a brother lick them paws 
-And run the tongue on the g-string draws 
+So let a brother lick them paws
+And run the tongue on the g-string draws
 And tease the kitty just a little
 Then stick my pole in the middle
 Before I hit, let me ask
@@ -153,10 +153,10 @@ Jack and Jill went up the hill to fetch a pail of water
 Jack came down, said "Thank you ma'am, but uh, you got change for a quarter?"  Aaow!
 
 
-{Oh, baby!} (Hey!)
+ (Hey!)
 
 
-Check it out!  
+Check it out!
 Lil' Miss Muffet sat on a tuffet eatin' a bowl o' cream o' wheat
 She gave me a show, whatta you know, that lil' (hoe) was a freak!  Aaow!
 

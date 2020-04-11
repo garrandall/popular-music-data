@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-a-little-bit-of-you-michael-jackson
+lyrics_url: https://genius.com/Michael-jackson-just-a-little-bit-of-you-lyrics
 name: Just A Little Bit Of You
 rankings:
 - end_date: '1975-06-13'
@@ -55,4 +56,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-08-23'
 ---
+Just a little bit of you every day
+Will surely keep the doctor away
+Just a little bit of you every day
+Will surely keep the doctor away
 
+
+I told my mama how I feel about your power
+Your love can heal, no doctor's remedy
+Ever do what you do for me
+
+
+Just a little bit of you every day
+Will surely keep the doctor away
+Eeny weeny teeny bit of your love
+Baby it is all I need, it is all I need
+
+
+Since the day I have been loving you
+I cannot catch a cold, I cannot catch the flu
+The sweet loving you have been giving me
+Has become my daily need
+
+
+Just a little of your love, every day
+It is all I need, that is all I need
+Just a little bit baby
+That is all I need, that is all I need
+
+
+So do not send no doctor to my door
+Because Doctor John has been here before
+Do not you send him, just come yourself
+Bring your love and nothing else
+
+
+Ooh just a, just a
+Just a little bit of you every day
+Will surely keep the doctor away
+Just a little bit of you every day
+Will surely keep the doctor away

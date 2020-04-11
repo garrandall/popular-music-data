@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: high-on-a-hill-scott-english
+lyrics_url: https://genius.com/Scott-english-high-on-a-hill-lyrics
 name: High On A Hill
 rankings:
 - end_date: '1964-02-28'
@@ -27,4 +28,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-04-18'
 ---
+Ooh, ooh...
 
+High on a hill
+Where troubles were few
+High on a hill
+By our old rendezvous
+
+Here am I, I can't go on
+Since you're gone (you're gone)
+Since you're gone (you're gone)
+You're gone and I'm alone
+
+We made a vow
+We never would part
+You held your hand
+So close to my heart
+
+How could I know
+How could I believe
+You would leave me this way
+
+All my dreams
+All my schemes
+Have lost their glow
+Since you're away
+
+What can I do
+Is there still a chance
+To have you (to have you)
+To hold you (to hold you)
+To love you forevermore
+
+High on a hill
+I'm begging to you
+You were my life
+I need you, I do
+
+Till you come back to me
+Here I will be
+High on a hill
+High on a hill
+
+Ooh, ooh...

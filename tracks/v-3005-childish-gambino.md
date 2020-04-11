@@ -4,7 +4,8 @@ artists:
 features: []
 genres: []
 key: v-3005-childish-gambino
-name: V 3005
+lyrics_url: https://genius.com/Childish-gambino-v-3005-lyrics
+name: '3005'
 rankings:
 - end_date: '2014-01-03'
   rank: 99
@@ -87,4 +88,96 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-11-01'
 ---
+No matter what you say or what you do
+When I'm alone, I'd rather be with you
+Fuck these other niggas, I'll be right by your side
+'Til 3005, hol' up
 
+
+Okay, hold up, wait a minute, all good just a week ago
+Crew at my house and we party every weekend so
+On the radio, that's my favorite song
+Make me bounce around, like I don't know, like I won't be here long
+Now the thrill is gone, got no patience, 'cause I'm not a doctor
+Girl why is you lying, girl why you Mufasa
+Yeah, mi casa su casa, got it stripping like Gaza
+Got so high off volcanoes, now the flow is so lava
+Yeah, we spit that saliva, iPhone got message from Viber
+Either the head is so hydra, or we let bygones be bygones
+"My God, you pay for your friends?" I'll take that as a compliment
+Got a house full of homies, why I feel so the opposite?
+Incompetent ain't the half of it
+Saturdays we're Young Lavish-ing
+Saddest shit, is I'm bad as it
+Beans they took from the cabinet (Whoa)
+Sorry, I'm just scared of the future
+'Til 3005, I got your back, we can do this, hold up
+
+
+No matter what you say or what you do
+When I'm alone, I'd rather be with you
+Fuck these other niggas, I'll be right by your side
+'Til 3005, hol' up (Hol' up)
+Hol' up (Hol' up), hol' up (Hol' up)
+Hol' up (Hol' up), hol' up (Hol' up)
+Hol' up (Hol' up), hol' up (Hol' up)
+Hol' up (Hol' up)
+
+
+No matter what you say or what you do
+When I'm alone, I'd rather be with you
+Fuck these other niggas, I'll be right by your side
+'Til 3005, hol' up (Hol' up)
+Hol' up (Hol' up), hol' up (Hol' up)
+Hol' up (Hol' up), hol' up (Hol' up)
+Hol' up (Hol' up), hol' up (Hol' up)
+Hol' up (Hol' up)
+
+
+I used to care what people thought, but now I care more
+I mean, nobody out here's got it figured out
+So therefore, I've lost all hope of a happy ending
+Depending on whether or not it's worth it, so insecure, no one's perfect
+We spend it with no shame, we blow that like Coltrane
+We in here like Rogaine, or leave it like Cobain
+And when I'm long gone, whole crew sing a swan song
+Cause we all just ticking time bombs, got a Lambo like LeBron's mom
+And no matter where all of my friends go, Emily, Fam, and Lorenzo
+All of them people my kinfolk, at least I think so, can't tell
+'Cause when them checks clear, they're not here
+'Cause they don't care, it's kinda sad but I'm laughing whatever happens
+Assassins, I'm stabbed in the back of my cabin
+Labrador yapping, I'm glad that it happened, I mean it
+Between us, I think there's something special, and if I lose my mental
+Just hold my hand, even if you don't understand, hol' up
+
+
+No matter what you say or what you do (No, no)
+When I'm alone, I'd rather be with you (You and me)
+Fuck these other niggas, I'll be right by your side
+'Til 3005, hol' up (Hol' up)
+Hol' up (Hol' up), hol' up (Hol' up)
+Hol' up (Hol' up), hol' up (Hol' up)
+Hol' up (Hol' up), hol' up (Hol' up)
+Hol' up
+
+
+No matter what you say or what you do
+When I'm alone, I'd rather be with you
+Fuck these other niggas, I'll be right by your side
+'Til 3005, hol' up (Hol' up)
+Hol' up (Hol' up), hol' up (Hol' up)
+Hol' up (Hol' up), hol' up (Hol' up)
+Hol' up (Hol' up), hol' up (Hol' up)
+Hol' up (Hol' up)
+
+
+Hol' up, hol' up
+Hol' up, hol' up
+Hol' up, hol' up
+Hol' up, hol' up
+
+
+Na—na—na, na—na—na—na—na
+We did it! Yay!
+Nigga, you so thirsty

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-the-one-the-chartbusters
+lyrics_url: https://www.musixmatch.com/lyrics/The-Chartbusters/She-s-the-One
 name: She's The One
 rankings:
 - end_date: '1964-07-17'
@@ -39,4 +40,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-29'
 ---
+One, two, three, go
 
+She's the one
+Don't let her get away
+She's the one
+Believe me when I say
+
+She stole my love
+And now she's gotta pay
+
+She's the one
+I'd like to let her go
+She's the one
+Cause I ought to know
+
+She stole my love
+And now she's gotta pay
+
+It's not right
+For her to run around
+She took my love and
+Stomped it to the ground, woo
+
+She's the one
+Who stole my love from me
+She's the one
+But I won't set her free
+
+She stole my love
+And now she's gotta pay
+
+It's not right
+For her to run around
+She took my love and
+Stomped it to the ground, woo
+
+She's the one
+Who stole my love from me
+She's the one
+But I won't set her free
+
+She stole my love
+And now she's gotta pay
+
+One more time
+
+She's the one
+Who stole my love from me
+She's the one
+And I won't set her free
+
+She stole my love
+And now she's gotta pay

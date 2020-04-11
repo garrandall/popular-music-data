@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dancer-gino-soccio
+lyrics_url: https://genius.com/Gino-soccio-dancer-bailarina-lyrics
 name: Dancer
 rankings:
 - end_date: '1979-04-13'
@@ -31,4 +32,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-05-12'
 ---
+Dancer
+Dancer
+Dancer
+Dancer
 
+Dancer
+Let your body free now
+Dancer
+If you want to feel good
+Dancer
+Got to get a move on
+Dancer
+Try to take it higher
+Dancer
+
+Dancer
+Try to take it higher
+Dancer
+
+Dancer
+Try to take it higher
+Dancer
+
+CHORUS
+You never knew the power of your body
+But when you keep on dancing to the music
+You reach up high into the sky
+
+Dancer
+Got to get a move on
+Dancer
+If you want to feel good
+Dancer
+Keep your body shaking
+Dancer
+Try to take it higher
+Dancer
+
+Dancer
+Dancer
+Dancer
+Try to take it higher
+
+(Chorus x2)
+Dancer
+Got to get a move on
+Dancer
+If you want to feel good...

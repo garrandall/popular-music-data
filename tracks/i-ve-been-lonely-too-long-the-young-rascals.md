@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-been-lonely-too-long-the-young-rascals
+lyrics_url: https://genius.com/The-young-rascals-ive-been-lonely-too-long-lyrics
 name: I've Been Lonely Too Long
 rankings:
 - end_date: '1967-02-03'
@@ -63,4 +64,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-04-29'
 ---
-
+I've been lonely too long, I've been lonely too long
+In the past it's come and gone, I feel like I can't go on without
+Love
+I've been lonely too long. (He's been lonely too long.)
+I've been lonely too long. (He's been lonely.)
+As I look back
+I can see me lost and searching
+Now I find that I can choose, I'm free. Oh, Yeah!
+So funny I just have to laugh
+All my troubles been torn in half
+I been lonely too long. (He's been lonely too long.)
+Lonely too long. (He's been lonely.)
+In the past it's come and gone
+I feel like I can't go on without love
+(Lonely), lonely too long
+I've been lonely too long. (He's been lonely)
+Just see me now
+Makes it worth the time I've waited
+She was all I need to make me see, Oh, Yeah!
+I keep hopin' with all my mind
+Everything gonna turn out right
+I've been lonely too long. (He's been lonely too long)
+I've been lonely too long. (He's been lonely.)
+Now look at me
+Gliding through this world of beauty
+Everything I do brings ecstasy, Oh, Yeah!
+No wonder I could die
+I feel like I'm 'bout ten miles high!
+I've been lonely too long. (He's been lonely too long.)
+Lonely too long. (He's been lonely.)
+Found myself somebody. (He's been lonely)
+Don't have to be alone no more. (He's been lonely, He's been lonely.)
+Don't have to alone no more, no more. (He's been lonely, He's been
+Lonely.)

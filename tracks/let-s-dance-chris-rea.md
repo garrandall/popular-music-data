@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-dance-chris-rea
+lyrics_url: https://genius.com/Chris-rea-lets-dance-lyrics
 name: Let's Dance
 rankings:
 - end_date: '1987-09-04'
@@ -27,4 +28,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-09-26'
 ---
+When you sing of the joy only love can bring
+Heaven knows it's in my heart and my soul
+Caught in a world full of tears
+So many bad times and fears
+So while there's a chance and you're near
 
+Let's dance
+Let's dance
+
+There's a world far away from the one we see
+There's a dream I will never let go
+One thing is certainly true
+This moment's for me and for you
+So while there's not a thing that we can do
+
+Let's dance
+Let's dance

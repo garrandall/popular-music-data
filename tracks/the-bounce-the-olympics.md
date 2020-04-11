@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-bounce-the-olympics
+lyrics_url: https://www.musixmatch.com/lyrics/The-Olympics/The-Bounce
 name: The Bounce
 rankings:
 - end_date: '1963-05-03'
@@ -47,4 +48,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-06-29'
 ---
+Well you know there's a dance
+Goin around
+In every city
+Every town.
+You need a little soul
+About one ounce
+To do the dance,
+To do the dance,
+To do the dance
+Called the bounce.
 
+You put your right foot out,
+Your left one, too.
+You listen here girl
+What were gonna do.
+You wiggle your knees
+Round and round.
+Now you're doin the dance,
+You're doin the dance,
+You're doin the dance
+Called the bounce.
+
+You put your hands in the air.
+Bring them back.
+Move your hair
+To the Jimmy Mack.
+You need a little soul,
+About one ounce.
+Now you're doin the dance,
+Oh, the dance.
+You're doin the dance,
+Called the bounce.
+Hey you're doin the dance.
+You're doin the dance,
+Hey, the dance,
+Called the bounce.

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: living-in-a-box-living-in-a-box
+lyrics_url: https://genius.com/Living-in-a-box-living-in-a-box-lyrics
 name: Living In A Box
 rankings:
 - end_date: '1987-06-26'
@@ -67,4 +68,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-09-26'
 ---
+Woke up this morning
+Closed in on all sides
+Nothing doing
+I feel resistance
+As I open my eyes
+Someone's fooling
+I've found a way to break through this cellophane line
+Cause I know what's going on in my own mind
 
+Am I living in a box?
+Am I living in a cardboard box?
+Am I living in a box?
+Am I living in a cardboard box?
+Am I living in a box?
+
+Life goes in circles
+Around and around, circulating
+I sometimes wonder
+What's moving underground
+I'm escaping
+I've found a way to break through this cellophane line
+Cause I know what's going on in my own mind
+
+Am I living in a box? (living)
+Am I living in a cardboard box?
+Am I living in a box? (living)
+Am I living in a cardboard box?
+Am I living in a box?
+Woah
+
+Uh-huh
+I found a way to break through this cellophane line
+Cause I know what's going on in my own mind
+
+Am I living in a box? (living)
+Am I living in a cardboard box?
+Am I living in a box? (living)
+Am I living in a cardboard box?
+Am I living in a box? (living)
+Am I living in a cardboard box?
+Am I living in a box? (living)
+Am I living in a cardboard box?
+Am I living in a box? (living)
+Am I living in a cardboard box?
+Am I living in a box? (living)
+Am I living in a cardboard box?
+Am I living, am I living, am I living
+Am I living, am I living, am I living
+
+Am I living in a box? (am I living, am I living)
+Am I living in a cardboard box?
+Am I living in a box? (am I living, am I living)
+Am I living in a cardboard box?
+Am I living in a box?

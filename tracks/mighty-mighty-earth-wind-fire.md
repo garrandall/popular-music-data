@@ -1,11 +1,10 @@
 ---
 artists:
-- Earth
-- Wind
-- Fire
+- Earth, Wind & Fire
 features: []
 genres: []
 key: mighty-mighty-earth-wind-fire
+lyrics_url: https://genius.com/Earth-wind-and-fire-mighty-mighty-lyrics
 name: Mighty Mighty
 rankings:
 - end_date: '1974-03-15'
@@ -69,4 +68,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-15'
 ---
+Walk around, why wear a frown?
+Say little people, try to put you down
+What you need, a helpin' hand
+All the strength, at your command
 
+How's ya faith? 'Cause ya faith is you
+Who you kiddin'? To yourself be true
+Spread ya love, for a brighter day
+For what ya search, you'll find a way
+
+We are people, of the mighty
+Mighty people of the sun
+In our hearts lies all the answers
+To the truth you can't run from
+
+Eagles fly, every seven days
+Still cryin' the blues, all about ya pay
+What ya gonna do 'bout your living thang?
+Will ya make it better, or just complain?
+
+Every day is real, don't run from fear
+'Cause better days are very near
+There are times when you're bound to cry
+One more time, head to the sky
+
+We are people, of the mighty
+Mighty people of the sun
+In our hearts lies all the answers
+To the truth you can't run from

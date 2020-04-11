@@ -1,6 +1,6 @@
 ---
 artists:
-- Walter Brennan With Billy Vaughn and his Orchestra
+- Walter Brennan With Billy Vaughn
 features: []
 genres: []
 key: dutchman-s-gold-walter-brennan-with-billy-vaughn-and-his-orchestra

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: not-just-another-girl-ivan-neville
+lyrics_url: https://www.musixmatch.com/lyrics/Ivan-Neville/Not-Just-Another-Girl
 name: Not Just Another Girl
 rankings:
 - end_date: '1988-10-14'
@@ -83,4 +84,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-02-11'
 ---
+The place was jammed, the music loud
+I could see her face standing out in the crowd as she winked at me
+Feeling good I didn't care
+All I could see was her standing there
+See the crowd got up, the band was playing
+And in my mind I could hear her saying, I love you
 
+She could have been from anywhere
+She could have had most anyone
+I bet the girls in another world
+Not just another girl
+
+When I met her folks there was no surprise
+Had her old mans ways and her mothers eyes
+Silver spoons, she had everything
+She'd leave it all just to hear me sing
+
+I say, the crowd got up, the band was playing
+And in my mind I could hear her saying, I love you
+
+She could have been from anywhere
+She could have had most anything
+I bet the girls in another world
+Not just another girl
+
+I gotta find a way inside her lovely world
+I gotta see the day when I can really be sure shell be my girl
+
+Her royal blood didn't mean a thing Even though I first thought I might be a king
+I say, the crowd got up, the band was playing
+And in my mind, I could hear her saying, I love you
+
+She could have been from anywhere
+She could have had most anyone
+I think the girls in another world
+Not just another girl
+
+She could have been from anywhere
+Place was jammed, music loud
+She could have had most anything
+I could see her face
+I bet the girls in another world
+Hey, woman when you getting home tonight?
+Not just another girl

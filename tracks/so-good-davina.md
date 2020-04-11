@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-good-davina
+lyrics_url: https://www.musixmatch.com/lyrics/Davina-feat-Xzibit/So-Good
 name: So Good
 rankings:
 - end_date: '1997-11-07'
@@ -83,4 +84,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-03-07'
 ---
+Tres, un tres tres, un tres
+Tres, un tres, tres, un tres
+Tres, un tres tres, un tres
+Tres, un tres, tres, un tres
 
+Yeah, yeah, yeah, yeah, yeah
+Feel so good, yeah, ha feels so good
+Like this, yeah, feel so good
+Hey ya live, bring it
+
+See I been waiting all my whole life
+For something like this
+Who woulda thought the end of all time
+Would start wit a kiss
+
+I'm not the type to show emotion
+At the drop of a dime
+But at the bottom of the line
+The decision is mine
+
+To approach and get close
+Takin' a chance in a way
+But Xzibit give a damn
+What the next man say
+
+Because you only die once
+I'm tryin' to live to the limits
+And it just now hit me that
+I wanna take you wit me
+
+For the long haul, I'll be there
+Whenever you call
+And get together, we stand
+And everything goes according to plan
+
+We'll be tight from tonight
+'Till the daylight
+If lovin' you is wrong
+Then I don't wanna be right so good
+
+Never have I been so mystified
+By anyone's love before
+(Hey, yeah)
+I feel so natural, I keep coming back for more
+And each time we touch you open up a new door
+
+Baby, you're such a midnight tease
+It's gonna take everything to keep you from me
+(Hey, yeah)
+And the joy that your lovin' brings
+Can separate the mountains from the sea
+
+I don't wanna be wrong
+But it feels right
+If loving you is so wrong
+I don't want to go on
+
+I don't wanna be wrong
+But it feels right
+It feels good
+So good, so good, so good
+
+Spent so many nights believing I was wrong
+For you being

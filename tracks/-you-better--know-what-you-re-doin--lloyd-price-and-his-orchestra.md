@@ -1,6 +1,6 @@
 ---
 artists:
-- Lloyd Price and His Orchestra
+- Lloyd Price
 features: []
 genres: []
 key: -you-better--know-what-you-re-doin--lloyd-price-and-his-orchestra

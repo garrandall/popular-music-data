@@ -1,6 +1,6 @@
 ---
 artists:
-- Bert Kaempfert And His Orchestra
+- Bert Kaempfert
 features: []
 genres: []
 key: bye-bye-blues-bert-kaempfert-and-his-orchestra

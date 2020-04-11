@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-was-i-skip-and-flip
+lyrics_url: https://genius.com/Skip-and-flip-it-was-i-lyrics
 name: It Was I
 rankings:
 - end_date: '1959-06-28'
@@ -71,4 +72,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-10-05'
 ---
+You're tellin' everybody I'm the one
+To blame for all the wrong that you have done
+The day that you walked out and left, didn't say goodbye
+Who was home alone to sit and cry?
+It was I, it was I-I-I-I-I
 
+I gave you all the love I ever had
+The only things I got from you were bad
+The times you didn't show up, the times you didn't call
+Who was left alone through it all?
+It was I, it was I-I-I-I-I
+
+My love was always yours to treasure and to hold
+But when you let a love grow idle it will soon grow cold
+Temptation is too strong to hide, are you really satisfied
+With my love the way it is? Let me tell you how it is
+
+Please come back and try to start anew
+I know that it's the proper thing to do
+Darling, if we make up I know we'll never break up
+Then I know it's only me and you
+Me and you

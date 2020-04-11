@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-am-woman-helen-reddy
+lyrics_url: https://genius.com/Helen-reddy-i-am-woman-lyrics
 name: I Am Woman
 rankings:
 - end_date: '1972-06-30'
@@ -95,4 +96,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
 ---
+I am woman, hear me roar
+In numbers too big to ignore
+And I know too much to go back an' pretend
+Cause I've heard it all before
+And I've been down there on the floor
+No one's ever gonna keep me down again
 
+Oh yes, I am wise
+But it's wisdom born of pain
+Yes, I've paid the price
+But look how much I gained
+If I have to, I can do anything
+I am strong
+(Strong)
+I am invincible
+(Invincible)
+I am woman
+
+You can bend but never break me
+Cause it only serves to make me
+More determined to achieve my final goal
+And I come back even stronger
+Not a novice any longer
+Cause you've deepened the conviction in my soul
+
+Oh yes, I am wise
+But it's wisdom born of pain
+Yes, I've paid the price
+But look how much I gained
+If I have to, I can do anything
+I am strong
+(Strong)
+I am invincible
+(Invincible)
+I am woman
+
+I am woman watch me grow
+See me standing toe to toe
+As I spread my lovin' arms across the land
+But I'm still an embryo
+With a long, long way to go
+Until I make my brother understand
+
+Oh yes, I am wise
+But it's wisdom born of pain
+Yes, I've paid the price
+But look how much I gained
+If I have to, I can face anything
+I am strong
+(Strong)
+I am invincible
+(Invincible)
+I am woman
+
+I am woman
+I am invincible
+I am strong
+I am woman
+I am invincible
+I am strong
+I am woman

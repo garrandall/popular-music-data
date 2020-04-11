@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: give-it-up-the-goodmen
+lyrics_url: https://genius.com/The-goodmen-give-it-up-lyrics
 name: Give It Up
 rankings:
 - end_date: '1993-12-03'
@@ -63,4 +64,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-02-26'
 ---
-
+You got your sugar
+You got your spice
+You got a kitten
+Now isn't that nice
+You just can't wait for a picnic in Spring
+I just get nauseous
+When I think of those things
+You wait and wait and you wait for a lifetime
+For a little piece of cake in the night time yeah
+You wait and wait you can't wait any longer
+You wait and wait, couldn't be any wronger no
+Give it up
+Don't let it get you down
+Give it up
+You really really blew it
+Give it up
+Turn your head around
+You shop around for a sensible car
+You hold your breath when you wish on a star
+You settle down in a warm little house
+You make some babies with your warm little spouse
+Ah, how nice
+You wait and wait and you wait for a lifetime
+For a little piece of cake in the night time yeah
+You wait and wait you can't wait any longer
+You wait and wait, couldn't be any wronger no
+Give it up
+Don't let it get you down
+Give it up
+You really really blew it
+Give it up
+Turn your head around
+Just when you got it made
+And all your bills are paid
+You stumble and fall into your grave
+Ah, too bad
+You wait and wait and you wait for a lifetime
+For a little piece of cake in the night time yeah
+You wait and wait you can't wait any longer
+You wait and wait, couldn't be any wronger no
+Give it up
+Don't let it get you down
+Give it up
+You really really blew it
+Give it up
+Turn your head around

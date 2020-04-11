@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-i-have-to-give-backstreet-boys
+lyrics_url: https://genius.com/Backstreet-boys-all-i-have-to-give-lyrics
 name: All I Have To Give
 rankings:
 - end_date: '1999-02-05'
@@ -91,4 +92,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-06-19'
 ---
+I don't know what he does to make you cry
+But I'll be there to make you smile
+I don't have a fancy car
+To get to you I'd walk a thousand miles
+I don't care if he buys you nice things
+Does his gifts come from the heart?
+I don't know, but if you were my girl
+I'd make it so we'd never be apart
 
+
+But my love is all I have to give
+Without you I don't think I could live
+I wish I could give the world to you
+But love is all I have to give
+
+
+When you talk, does it seem like he's not
+Even listening to a word you say?
+That's okay, babe, just tell me your problems
+I'll try my best to kiss them all away
+Does he leave when you need him the most?
+Does his friends get all your time?
+Baby, please, I'm on my knees
+Praying for the day that you'll be mine
+
+
+But my love is all I have to give
+Without you I don't think I could live
+I wish I could give the world to you
+But love is all I have to give
+Oh, to you
+
+
+Hey, girl
+I don't want you to cry no more inside
+All the money in the world
+Could never add up to
+(All the love I have inside, inside of you)
+And I will give it to you
+(All I can give, all I can give)
+(Everything I have is for you)
+You're the one I need
+(My love is)
+All that I have to give
+(All that I have is for you)
+
+
+But my love is all I have to give
+My love is all
+Without you I don't think I could live
+I don't think that I can live without you
+I wish I could give the world to you
+But love is all I have to give
+It's all that I have
+But my love is all I have to give
+Without you I don't think I could live
+I wish I could give the world to you
+But love is all I have to give
+
+
+To you, oooh
+I have to give
+Without you I don't think I could live
+Give the world to you, baby
+But love is all I have to give
+That's all I got to give
+But my love is all I have to give
+Yeah, yeah
+Without you I don't think I could live
+I wish I could give the world to you
+But love is all I have to give

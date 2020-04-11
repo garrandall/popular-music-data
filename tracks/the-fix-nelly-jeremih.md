@@ -5,6 +5,7 @@ features:
 - Jeremih
 genres: []
 key: the-fix-nelly-jeremih
+lyrics_url: https://genius.com/Nelly-the-fix-lyrics
 name: The Fix
 rankings:
 - end_date: '2015-09-11'
@@ -88,4 +89,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-02-27'
 ---
+Yeah, Mustard on the beat ho
 
+
+Shawty hit me on the late night
+Got a man, got me thinkin', shawty, ain’t right (Ain’t right)
+She say she ain't about the creep life (Creep life)
+But all she wanna do is take pipe
+I ain't mad at nobody (Nobody)
+I just wanna have your body (Your body)
+Now, I can give you the key, girl
+Or you can meet me in the lobby
+Talkin' 'bout it
+
+
+Oh, I'll lay you down and go down
+Girl, 'til I reach your ocean
+Oh, so come and get this dick
+
+
+When you need that fix, yeah, that medicine
+I know you like it like this
+When you get that itch, adrenaline
+Heart beatin' outta your chest
+(Heart beatin' outta yo chest)
+And when that pressure's buildin'
+I got what you need, come fuck with me
+And when you get that feelin'
+I got sexual healin'
+Oh, baby
+(Talkin' 'bout)
+Baby
+
+
+Bust it open every time I get up inside
+Soakin' wet, turn the bed to a slip 'n' slide
+Spread eagle, nigga eatin' like it's suppa time
+Shawty knows whose is it, it's all mine
+I ain't mad at nobody (No-ooo)
+I just wanna have your body (Your body, body)
+And if you can take it deep
+Then let a nigga like me, get at that body girl
+
+
+Oh, I'll lay you down and go down
+Girl, 'til I reach your ocean
+Oh, so come and get this dick
+
+
+When you need that fix, yeah, that medicine
+I know you like it like this
+When you get that itch, adrenaline
+Heart beatin' outta your chest
+(Heart beatin' outta yo chest)
+And when that pressure's buildin'
+I got what you need, come fuck with me
+And when you get that feelin'
+I got sexual healin'
+
+
+Oh, baby
+(Talkin' 'bout)
+Baby
+(Sweat 'em all out)
+Baby
+(I can't hold it much longer)
+Baby
+(I'm gettin' stronger and stronger)
+
+
+When you need that fix, yeah, that medicine
+I know you like it like this
+When you get that itch, adrenaline
+Heart beatin' outta your chest
+(Heart beatin' outta yo chest)
+And when that pressure's buildin' (Ah)
+I got what you need, come fuck with me
+And when you get that feelin'
+I got sexual healin'
+Oh, baby
+Baby

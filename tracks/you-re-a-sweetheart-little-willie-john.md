@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-a-sweetheart-little-willie-john
+lyrics_url: https://www.musixmatch.com/lyrics/Little-Willie-John/You-re-a-Sweetheart
 name: You're A Sweetheart
 rankings:
 - end_date: '1958-08-17'
@@ -23,4 +24,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-08'
 ---
+You're, you're a sweetheart
+If there ever was one
+If there ever was one
+It's you
 
+Life without you
+Was an incomplete dream
+You are every sweet
+Dream come true
+
+My search was such a blind one
+And I was all at sea
+I never thought I'd find one
+Quite so perfect for me
+
+Oh, you're, you're
+You're, you're
+You're a sweetheart
+If there ever was one
+If there ever was one
+It's you
+
+My search was such a blind one
+And I was all at sea but
+I never thought I'd find one
+Quite so perfect
+Quite so perfect
+Quite so perfect for me
+
+Oh, you're, you're
+You're, you're
+You're a sweetheart
+If there ever was one
+If there ever was one
+It's you

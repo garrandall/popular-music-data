@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh-how-happy-shades-of-blue
+lyrics_url: https://genius.com/Shades-of-blue-oh-how-happy-lyrics
 name: Oh How Happy
 rankings:
 - end_date: '1966-05-13'
@@ -55,4 +56,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
 ---
+Oh, how happy
+You have made me
+Oh, how happy
+You have made me
 
+I have kissed your lips a thousand times
+And more times than I can count
+I have called you mine
+You have stood by me in my darkest hour
+
+Oh, how happy
+You have made me
+Oh, how happy
+You have made me
+
+Oh, how happy
+You have made me
+Oh, how happy
+You have made me
+
+In our years together
+We have had stormy weather
+But our love has been so strong
+That somehow we've carried on
+
+Oh, how happy
+You have made me
+Oh, how happy
+You have made me
+
+Girl, you brought joy to my delight
+And all that was wrong
+You have made it right
+And I love, I love, I love you
+
+Oh, how happy
+You have made me
+Oh, how happy
+You have made me
+
+(Oh, how happy)
+Oh, how happy
+(Oh, how happy)
+Oh, how happy
+(Oh, how happy)
+You
+
+(You have made me)
+You have made me
+(You have made me)
+You have made me
+(You have made me)
+You have made me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: paperback-writer-the-beatles
+lyrics_url: https://genius.com/The-beatles-paperback-writer-lyrics
 name: Paperback Writer
 rankings:
 - end_date: '1966-06-17'
@@ -47,4 +48,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-08-13'
 ---
+Paperback writer (writer, writer)
 
+
+Dear Sir or Madam, will you read my book?
+It took me years to write, will you take a look?
+It's based on a novel by a man named Lear
+And I need a job, so I want to be a paperback writer
+Paperback writer!
+
+
+It's a dirty story of a dirty man
+And his clinging wife doesn't understand
+His son is working for the Daily Mail
+It's a steady job, but he wants to be a paperback writer
+Paperback writer!
+
+
+Paperback writer (writer, writer)
+
+
+It's a thousand pages, give or take a few (Frère)
+I'll be writing more in a week or two (Jacques)
+I could make it longer if you like the style (Frère)
+I can change it 'round and I want to be a paperback writer (Jacques)
+Paperback writer!
+
+
+If you really like it, you can have the rights (Frère)
+It could make a million for you overnight (Jacques)
+If you must return it, you can send it here (Frère)
+But I need a break, and I want to be a paperback writer (Jacques)
+Paperback writer!
+
+
+Paperback writer (writer, writer)
+
+
+Paperback writer, paperback writer
+Paperback writer, paperback writer
+Paperback writer, paperback writer
+Paperback writer, paperback writer

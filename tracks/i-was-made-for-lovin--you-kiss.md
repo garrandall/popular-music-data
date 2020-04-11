@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-was-made-for-lovin--you-kiss
+lyrics_url: https://genius.com/Kiss-i-was-made-for-lovin-you-lyrics
 name: I Was Made For Lovin' You
 rankings:
 - end_date: '1979-06-01'
@@ -71,4 +72,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-09-08'
 ---
+Mmmm, yeah, ha
+Do, do, do, do, do, do, do, do, do
+Do, do, do, do, do, do, do
+Do, do, do, do, do, do, do, do, do
+Do, do, do, do, do, do, do
 
+
+Tonight I wanna give it all to you
+In the darkness there's so much I want to do
+And tonight I wanna lay it at your feet
+'Cause, girl, I was made for you
+And, girl, you were made for me
+
+
+I was made for loving you, baby
+You were made for loving me
+And I can't get enough of you, baby
+Can you get enough of me?
+
+
+Tonight I wanna see it in your eyes
+Feel the magic, there's something that drives me wild
+And tonight we're going to make it all come true
+'Cause, girl, you were made for me
+And, girl, I was made for you
+
+
+I was made for loving you, baby
+You were made for loving me
+And I can't get enough of you, baby
+Can you get enough of me?
+I was made for loving you, baby
+You were made for loving me
+And I can give it all to you, baby
+Can you give it all to me?
+
+
+Oh, can't get enough, oh, oh
+I can't get enough, oh, oh
+I can't get enough
+Yeah, ha
+
+
+
+
+Do, do, do, do, do, do, do, do, do
+Do, do, do, do, do, do, do
+Do, do, do, do, do, do, do, do, do
+Do, do, do, do, do, do, do
+
+
+I was made for loving you, baby
+You were made for loving me
+And I can't get enough of you, baby
+Can you get enough of me?
+
+
+Oh, I was made
+You were made
+I can't get enough
+No, I can't get enough
+
+
+I was made for loving you, baby
+You were made for loving me
+And I can't get enough of you, baby
+Can you get enough of me?
+
+
+I was made for loving you, baby

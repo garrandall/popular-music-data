@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-want-to-live-without-it-pablo-cruise
+lyrics_url: https://genius.com/Pablo-cruise-dont-want-to-live-without-it-lyrics
 name: Don't Want To Live Without It
 rankings:
 - end_date: '1978-09-22'
@@ -71,4 +72,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-30'
 ---
+I remember how you caught my eye
+The first time you smiled at me
+Something kind of happened from the very start
+Just like it was meant to be
 
+Your love has taken hold of me
+And now I've just got to let you know
+
+Don't want to live without it
+Now that I've found your love
+There ain't no doubt about it
+You are the one I love
+
+Sometimes it seems like magic
+When two people come together
+I can't believe what you done for me
+Our love keeps getting better
+
+I feel like I've been born again
+And I know that the best is yet to come
+
+Don't want to live without it
+Now that I've found your love
+There ain't no doubt about it, no
+You are the one I love, oh
+
+Don't want to live without it
+(No I don't)
+Now that I've found your love
+(Now that I've found your love)
+
+There ain't no doubt about it
+(Ain't no doubt about it)
+You are the one I love
+(The one I love)
+
+Don't want to live without it
+(No, baby)
+Now that I've found your love
+(Now that I've found it for sure)
+There ain't no doubt about it
+(There ain't no doubt about it)
+You are the one I love
+(You are the one, you are the one)
+
+Don't want to live without you
+Now that I've found your love
+There ain't no doubt
+(Ain't no doubt about it, baby)
+You are the one I love
+(You are the one)
+
+Don't want to live without it
+(No)
+Don't want to live without it
+(Don't want to live without your love)
+
+Don't want to live without it
+(Oh)
+Don't want to live without it
+(Oh, yes about you)
+
+Don't want to live without it
+(No I don't, oh no)
+Don't want to live without it
+(Oh)
+Don't want to live without it

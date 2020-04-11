@@ -5,6 +5,7 @@ features:
 - Rihanna
 genres: []
 key: this-is-what-you-came-for-calvin-harris-rihanna
+lyrics_url: https://genius.com/Calvin-harris-this-is-what-you-came-for-lyrics
 name: This Is What You Came For
 rankings:
 - end_date: '2016-05-27'
@@ -136,4 +137,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
 ---
+Baby, this is what you came for
+Lightning strikes every time she moves
+And everybody's watching her
+But she's looking at
+You, oh, oh, you, oh, ooh
+You, oh, oh, you, oh, ooh
+You, oh, oh, you, oh, ooh-oooh
 
+Baby, this is what you came for
+Lightning strikes every time she moves
+And everybody's watching her
+But she's looking at
+You, oh, oh, you, oh, ooh
+You, oh, oh, you, oh, ooh
+You, oh, oh, you, oh, oooh-oooh
+
+
+You, oh, oh, you, oh, ooh
+You, oh, oh, you, oh, ooh
+You, oh, oh, you, oh, oooh-oooh
+
+
+We go fast with the game we play (Game we play, game we play)
+Who knows why it's gotta be this way? (Be this way, be this way)
+We say nothing more than we need (Than we need, than we need)
+
+
+Baby, this is what you came for
+Lightning strikes every time she moves
+And everybody's watching her
+But she's looking at
+You, oh, oh, you, oh, ooh
+You, oh, oh, you, oh, ooh
+You, oh, oh, you, oh, oooh-oooh
+
+
+You, oh, oh, you, oh, ooh
+You, oh, oh, you, oh, ooh
+You, oh, oh, you, oh, oooh-oooh
+
+
+Baby, this is what you came for
+Lightning strikes every time she moves
+Yeah
+
+
+Baby, this is what you came for
+Lightning strikes every time she moves
+And everybody's watching her
+But she's looking at
+You, oh, oh, you, oh, ooh
+You, oh, oh, you, oh, ooh
+You, oh, oh, you, oh, oooh-oooh
+
+
+You, oh, oh, you, oh, ooh
+You, oh, oh, you, oh, ooh
+You, oh, oh, you, oh, oooh-oooh

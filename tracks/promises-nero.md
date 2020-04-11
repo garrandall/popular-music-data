@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: promises-nero
+lyrics_url: https://genius.com/Nero-promises-lyrics
 name: Promises
 rankings:
 - end_date: '2012-07-20'
@@ -47,4 +48,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-09-22'
 ---
+You got me so wild
+How can I ever deny
+You got me so high
+So high I cannot feel the fire
 
+
+And you keep telling me
+Telling me that you'll be sweet
+And you'll never want to leave my side
+As long as I don't break these
+
+
+Promises, and they still feel all so wasted on myself
+Promises, and they still feel all so wasted on myself
+Promises, and they still feel all so wasted on myself
+Promises, and they still feel all so wasted on myself
+
+
+You got me so wild
+Why should I be so surprised?
+You got me so high
+Don't you see it in my eyes?
+
+
+And you keep telling me
+Telling me that you'll be sweet
+And you'll never want to leave my side
+As long as I don't break these
+Promises, and they still feel all so wasted on myself
+Promises, and they still feel all so wasted on myself
+Promises, and they still feel all so wasted on myself
+Promises, and they still feel all so wasted on myself
+
+
+They are so wasted on myself
+They are so wasted on myself
+They are so wasted on myself
+They are so wasted on myself
+They are so wasted on myself
+They are so wasted on myself
+They are so wasted on myself
+They are so wasted on myself
+They are so wasted on myself
+They are so wasted on myself
+They are so wasted on myself
+They are so wasted on myself
+
+
+Promises, and they still feel all so wasted on myself
+Promises, and they still feel all so wasted on myself
+Promises, and they still feel all so wasted on myself
+Promises, and they still feel all so wasted on myself

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-keep-forgettin---every-time-you-re-near--michael-mcdonald
+lyrics_url: https://genius.com/Michael-mcdonald-i-keep-forgettin-every-time-youre-near-lyrics
 name: I Keep Forgettin' (Every Time You're Near)
 rankings:
 - end_date: '1982-08-13'
@@ -83,4 +84,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-12-11'
 ---
+I keep forgettin' we're not in love anymore
+I keep forgettin' things will never be the same again
+I keep forgettin' how you made that so clear
+I keep forgettin'
 
+
+Everytime you're near
+Everytime I see you smile
+Hear your "hello"
+Saying you can only stay a while
+
+
+Hey, I know that it's hard for you
+To say the things that we both know are true
+But tell me how come (I)
+
+
+I keep forgettin' we're not in love anymore
+I keep forgettin' things will never be the same again
+I keep forgettin' how you made that so clear
+I keep forgettin'
+
+
+Everytime I hear
+How you never want to live a lie
+How it's gone too far
+And you don't have to tell me why
+
+
+Why you're gone and why the game is through
+If this is what's real, if this is what's true
+Tell me how come (I)
+
+
+I keep forgettin' we're not in love anymore (Baby)
+I keep forgettin' things will never be the same again
+I keep forgettin' how you made that so clear (Yeah)
+I keep forgettin'
+
+
+Don't say that, don't say that, don't say that
+I know you're not mine anymore-anyway-anytime
+But tell me how come (I)
+
+
+I keep forgettin' we're not in love anymore
+I keep forgettin' things will never be the same again
+I keep forgettin' how you made that so clear
+I keep forgettin'
+I keep forgettin' we're not in love anymore
+I keep forgettin' things will never be the same again
+I keep forgettin' how you made that so clear
+I keep forgettin'

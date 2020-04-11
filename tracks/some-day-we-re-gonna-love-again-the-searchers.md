@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: some-day-we-re-gonna-love-again-the-searchers
+lyrics_url: https://genius.com/The-searchers-someday-were-gonna-love-again-lyrics
 name: Some Day We're Gonna Love Again
 rankings:
 - end_date: '1964-08-21'
@@ -39,4 +40,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-03'
 ---
-
+Someday we're gonna love again
+Someday we're gonna love again
+When we broke up I still wore a smile
+I told myself you'd only gone for a while
+But in my heart I grinned, I held up my chin
+Because I knew someday we're gonna love again
+Someday we're gonna love again
+Someday we're gonna love again
+Someday we're gonna love again
+I didn't worry 'bout it when you left
+I knew that I could take care of myself
+You wouldn't be gone long and nothin' could go wrong
+Because I knew someday we're gonna love again
+Someday we're gonna love again
+Someday we're gonna love again
+Someday we're gonna love again
+You just told me that your love hasn't changed
+And that's why I'd like to arrange to see you again
+I don't know when but I do know that someday we're gonna love again
+Someday we're gonna love again
+Someday we're gonna love again
+Someday we're gonna love again

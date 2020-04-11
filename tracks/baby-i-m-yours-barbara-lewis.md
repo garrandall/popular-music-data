@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-i-m-yours-barbara-lewis
+lyrics_url: https://genius.com/Barbara-lewis-baby-im-yours-lyrics
 name: Baby I'm Yours
 rankings:
 - end_date: '1965-06-25'
@@ -63,4 +64,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-18'
 ---
+Baby I'm yours
+And I'll be yours until the stars fall from the sky
+Yours until the rivers all run dry
+In other words, until I die
 
+Baby I'm yours
+And I'll be yours until the sun no longer shines
+Yours until the poets run out of rhyme
+In other words, until the end of time
+I'm gonna stay right here by your side
+
+Do my best to keep you satisfied
+Nothing in this world can drive me away
+'Cause every day you'll hear me say
+Baby I'm yours
+And I'll be yours until two and two is three
+Yours until the mountain crumbles to the sea
+In other words, until eternity
+
+Baby I'm yours
+Till the stars fall from the sky
+Baby I'm yours
+Till the rivers all run dry
+Baby I'm yours
+Till the poets run out of rhyme
+Baby I'm yours

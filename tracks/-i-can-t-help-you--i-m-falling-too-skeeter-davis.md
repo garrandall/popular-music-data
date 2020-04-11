@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -i-can-t-help-you--i-m-falling-too-skeeter-davis
+lyrics_url: https://genius.com/Skeeter-davis-i-cant-help-you-im-falling-too-lyrics
 name: (I Can't Help You) I'm Falling Too
 rankings:
 - end_date: '1960-08-28'
@@ -35,4 +36,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
 ---
+You say that you're falling
+But what can I do?
+You want me to help you
+But I'm falling too
 
+I know that we're wrong dear
+But when I'm with you
+I can't help you darlin'
+'Cause I'm falling too
+
+You belong to another
+Whose arms have grown cold
+But, you must keep the vows dear
+Although they've grown old
+
+You can never be free dear
+Though our love is true
+I can't help you darlin'
+'Cause I'm falling too
+
+We could never be happy
+Living in sin
+Our love's a temptation
+But we just can't win
+
+You ask me to help you
+But what can I do?
+I can't help you darlin'
+'Cause I'm falling too

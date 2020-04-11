@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-steady-aretha-franklin
+lyrics_url: https://genius.com/Aretha-franklin-rock-steady-lyrics
 name: Rock Steady
 rankings:
 - end_date: '1971-11-05'
@@ -43,4 +44,97 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-12-25'
 ---
+Rock steady, baby!
+That's what I feel now
+Let's call this song exactly what it is
+Step and move your hips
+With a feeling from side to side
+Sit yourself down in your car
+And take a ride
+And while you're moving
+Rock steady
+Rock steady, baby
 
+
+Let's call this song exactly what it is
+(What it is -what it is - what it is)
+It's a funky and low down feeling'
+(What it is)
+In my hips from left to right
+(What it is)
+What it is is I might be doing
+(What it is)
+This funky dance all night
+Oh!
+(Wave your hands up in the air)
+Oh!
+(Got the feeling and ain't got a care)
+Oh!
+(What fun to take this ride
+Rock steady will only slide)
+
+
+Rock steady — rock steady, baby
+Rock steady — rock steady, baby
+
+
+Step and move your hips
+With a feeling from side to side
+Sit yourself down in your car
+And take a ride
+While you're moving rock steady
+Rock steady
+
+
+Let's call this song exactly what it is
+(What it is -what it is - what it is)
+It's a funky and low down feeling'
+(What it is)
+In my hips from left to right
+(What it is)
+What it is is I might be doing
+(What it is)
+This funky dance all night
+Oh!
+(Wave your hands up in the air)
+Oh!
+(Got the feeling and ain't got a care)
+Oh!
+(What fun to take this ride
+Rock steady will only slide)
+
+
+Rock steady, baby
+Rock steady ... woo!
+Rock steady
+
+(Rock... steady!... rock... steady!)
+
+
+(What it is)
+It's a funky and low down feeling'
+(What it is)
+In my hips from left to right
+(What it is)
+What it is is I might be doing
+(What it is)
+This funky dance all night
+Oh!
+(Wave your hands up in the air)
+Oh!
+(Got the feeling and ain't got a care)
+Oh!
+(What fun to take this ride
+Rock steady will only slide)
+
+
+Rock steady
+Steady, baby!
+Rock...rock steady, baby
+Baby
+(What it is)
+Baby baby
+(What it is)
+Baby
+(What it is)
+Baby...

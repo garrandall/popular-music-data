@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pom-poms-jonas-brothers
+lyrics_url: https://genius.com/Jonas-brothers-pom-poms-lyrics
 name: Pom Poms
 rankings:
 - end_date: '2013-04-26'
@@ -11,4 +12,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-04-20'
 ---
+More to love when your hands are free
+Baby put your pom poms down for me
+Come on shake it up 123
+Baby put your pom poms down for me
 
+
+Yeah they come from miles away
+Just to see how you get down
+Feels like an earthquake
+Every time you come around
+You hear ‘em saying yeah (yeah)
+Every time feels like a revival (glory)
+So get up, right now
+We’re coming for the title
+
+
+More to love when your hands are free
+Baby put your pom poms down for me
+Come on shake it up 123
+Baby put your pom poms down for me
+When you move I fall to my knees
+Baby put your pom poms down for me
+Come on shake it up 543
+Baby put your pom poms down for me
+
+
+I want you on my team
+Want you like kid just wants a milkshake
+And I won’t let it go to waste if I get a taste
+I’m gonna drink the whole thing
+You hear ‘em saying yeah (yeah)
+Every time feels like a revival (glory)
+So get up, right now
+We’re coming for the title
+
+
+More to love when your hands are free
+Baby put your pom poms down for me
+Come on shake it up 123
+Baby put your pom poms down for me
+When you move I fall to my knees
+Baby put your pom poms down for me
+Come on shake it up 543
+Baby put your pom poms down for me
+
+
+Ladies to the left, fellas to the right
+If you wanna see me put my pom poms down
+Then sing it to me baby sing it right now
+Na, na, na, na, na, na, yeah, yeah
+If you wanna see me put my pom poms down
+Then sing it to me baby sing it right now
+Na, na, na, na, na, na, yeah, yeah
+
+
+More to love when your hands are free
+Baby put your pom poms down for me
+Come on shake it up 123
+Baby put your pom poms down for me
+When you move I fall to my knees
+Baby put your pom poms down for me
+Come on shake it up 543
+Baby put your pom poms down for me

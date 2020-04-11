@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-girl-is-a-woman-now-gary-puckett-and-the-union-gap
+lyrics_url: https://genius.com/Gary-puckett-and-the-union-gap-this-girl-is-a-woman-now-lyrics
 name: This Girl Is A Woman Now
 rankings:
 - end_date: '1969-08-29'
@@ -51,4 +52,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
 ---
+This girl walked in dreams
+Playing in a world of her own
+This girl was a child
+Existing in a playground of stone
 
+Then one night her world was changed
+Her life and dreams were rearranged
+And she would never be the same again
+
+This girl is a woman now
+She's learned how to give
+This girl is a woman now
+She's found out what it's all about and she's learning
+Learning to live
+
+This girl tasted love
+As tender as the gentle dawn
+She cried a single tear
+A teardrop that was sweet and warm
+
+Our hearts told us we were right
+And on that sweet and velvet night
+A child had died
+A woman had been born
+
+This girl is a woman now
+She's learned how to give
+This girl is a woman now
+She's found out what it's all about and she's learning
+Learning to live
+
+This girl is a woman now
+She's learned how to give
+This girl is a woman now
+She's found out what it's all about and she's learning, learning, learning to live
+
+This girl is a woman now
+She's learned how to give
+This girl

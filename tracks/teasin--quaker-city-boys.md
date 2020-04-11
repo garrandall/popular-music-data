@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: teasin--quaker-city-boys
+lyrics_url: https://genius.com/The-quaker-city-boys-teasin-lyrics
 name: Teasin'
 rankings:
 - end_date: '1958-12-28'
@@ -43,4 +44,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-16'
 ---
+Teasing, were you teasing
+The night you whispered
+Love words in my ear
 
+Fooling, were you fooling
+When you said
+I love you so, my dear
+
+Were you deceiving
+Make believing
+Pretending that you
+Loved me from the start
+
+Gee, I hope it isn't so
+It would break my heart to know
+That you were only teasing
+Sweetheart
+
+Teasing, were you teasing
+The night you whispered
+Love words in my ear
+
+Were you deceiving
+Make believing
+Pretending that you
+Loved me from the start
+
+Gee, I hope it isn't so
+It would break my heart to know
+That you were only teasing
+Sweetheart
+
+You were only teasing
+Sweetheart

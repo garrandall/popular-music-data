@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: going-back-to-cali-ll-cool-j
+lyrics_url: https://www.musixmatch.com/lyrics/LL-Cool-J/Going-Back-To-Cali
 name: Going Back To Cali
 rankings:
 - end_date: '1988-02-26'
@@ -63,4 +64,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-05-21'
 ---
+I'm going back to cali, cali, cali
+I'm going back to cali. hmm, I don't think so
+I'm going back to cali, cali, cali
+I'm going back to cali. I don't think so
+
+Going back to cali, stylin, profilin
+Growlin, and smilin, while in the sun
+The top is down, on the black corvette
+And it's fly, cause it's sittin on dayton's
+Laurents steering wheel, plushed out, gold-leaf phantom top
+And three girls waiting
+Vrrrroom engine's blowin, the chrome, is shining
+Passing all the cars on the way
+Movement of the wind, back wheels spin
+Pop in a cassette and push play
+
+I'm going back to cali, cali, cali
+I'm going back to cali - yea y'all, I don't think so
+I'm going back to cali, cali, cali
+I'm going back to cali.
+
+I'm going back to cali, shakin 'em, bakin 'em
+Takin 'em to spots they never before hung
+? The place, on sunset it's a trip
+Where the a.c.'s cold, and the girls still strip
+The record skip, but this girl kept dancin
+Prancin, grindin, grinnin, romancin
+I asked her to the barn, so we could hit the hay
+I wanna do this, brutus, but I don't wanna pay
+
+I'm going back to cali, cali, cali
+I'm going back to cali - no man I don't think so
+I'm going back to cali, cali, cali
+I'm going back to cali.
+
+.
+
+I'm going back to cali, rising, surprising
+Advising realizing, she's sizing me up
+Her bikini - small; heels - tall
+She said, she liked, the ocean
+She showed me a beach, gave me a peach
+And pulled out the suntan lotion
+Now I thought that was fast, but this girl was faster
+She's lookin for a real good time
+I said, close your eyes, I got a surprise,
+And I ran away with the bottle of wine
+
+I'm going back to cali, cali, cali
+I'm going back to cali. I don't think so
+I'm going back to cali, cali, cali
+I'm going back to cali. I don't think so
+
 

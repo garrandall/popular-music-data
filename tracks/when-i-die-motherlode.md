@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-i-die-motherlode
+lyrics_url: https://genius.com/Motherlode-when-i-die-lyrics
 name: When I Die
 rankings:
 - end_date: '1969-08-15'
@@ -59,4 +60,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
 ---
+When I die I hope to be
+A better man then you thought I'd be
+It's been hard to make you see
+What kind of man I'm trying to be
+All I ask for you to try
+To understand what it means to me
 
+It's not hard to understand why you
+Get discouraged all the time
+I keep trying not to worry but I
+Can't help feeling lost in you
+But I love you, want you
+And I need you
+
+Time goes by and you'll find
+That we'll achieve a love sublime
+When I die, I hope I'll be
+The kind of man that you thought I'd be
+
+It's not hard to understand why you
+Get discouraged all the time
+I keep trying not to worry but I
+Can't help feeling lost in you
+But I love you, want you
+And I need you
+
+Cause I love you
+And I want you
+Cause I gotta, gotta have you
+Cause I, cause I need you
+
+When I die, I hope I'll be
+The kind of man that you thought I could be
+
+Be (The kind of man that you thought I)

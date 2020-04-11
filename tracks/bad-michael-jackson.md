@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bad-michael-jackson
+lyrics_url: https://genius.com/Michael-jackson-bad-lyrics
 name: Bad
 rankings:
 - end_date: '1987-09-25'
@@ -63,4 +64,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-12-19'
 ---
+Your butt is mine, gonna tell you right
+Just show your face in broad daylight
+I'm telling you on how I feel
+Gonna hurt your mind, don't shoot to kill
+Shamone, Shamone
+Lay it on me, all right
+I'm giving you on count of three
+To show your stuff or let it be
+I'm telling you just watch your mouth
+I know your game what you're about
 
+
+Well they say the sky's the limit
+And to me that's really true
+But my friend you have seen nothing
+Just wait til I get through
+
+
+Because I'm bad, I'm bad (Shamone, really, really bad)
+You know I'm bad, I'm bad
+You know it (Really, really bad)
+You know I'm bad, I'm bad (Shamone)
+You know (Really, really bad)
+And the whole world has to answer right now
+Just to tell you once again: Who's bad?
+
+
+The word is out, you're doing wrong
+Gonna lock you up before too long
+Your lying eyes gonna tell you right
+So listen up, don't make a fight
+Your talk is cheap, you're not a man
+You're throwing stones to hide your hands
+
+
+Well they say the sky's the limit
+And to me that's really true
+But my friend you have seen nothing
+Just wait til I get through
+
+
+Because I'm bad, I'm bad (Shamone, really, really bad)
+You know I'm bad, I'm bad
+You know it (Really, really bad)
+You know I'm bad, I'm bad (Shamone)
+You know (Really, really bad)
+And the whole world has to answer right now
+Just to tell you once again: Who's bad?
+
+
+
+
+We can change the world tomorrow
+This could be a better place
+If you don't like what I'm saying
+Then won't you slap my face?
+
+
+Because I'm bad, I'm bad (Shamone, really, really bad)
+You know I'm bad, I'm bad
+You know it (Really, really bad)
+You know I'm bad, I'm bad
+You know it, you know (Really, really bad)
+And the whole world has to answer right now
+Just to tell you once again
+You know I'm bad, I'm bad (Shamone, really, really bad)
+You know I'm bad, I'm bad
+You know it (Really, really bad)
+You know it, you know, you know, you know (Really, really bad)
+You know, shamone
+And the whole world has to answer right now
+Just to tell you once again
+You know I move, I'm bad, you know it (really, really bad)
+You know I'm bad, I'm bad (Really, really bad)
+You know, you know, you know (Really, really bad)
+Shamone, You know (Really, really bad)
+And the whole world has to answer right now
+Just to tell you once again
+You know I'm bad, I'm bad, you know it (really, really bad)
+You know I'm bad
+You know, woo! (Really, really bad)
+You know I'm bad, I'm bad, you know it (really, really bad)
+You know
+And the whole world has to answer right now
+Just to tell you once again: Who's bad?

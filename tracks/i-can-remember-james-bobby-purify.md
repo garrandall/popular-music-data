@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-can-remember-james-bobby-purify
+lyrics_url: https://genius.com/James-and-bobby-purify-i-can-remember-lyrics
 name: I Can Remember
 rankings:
 - end_date: '1968-05-03'
@@ -32,4 +33,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-06-01'
 ---
-
+I can remember
+Not too long ago
+I couldn't find my way
+I didn't know
+Of a place to go
+You came along one day
+And now with you here to guide me
+Stand close beside me
+And fill all my hours with day
+I'm gonna trade in my sorrow
+For each bright tomorrow
+And throw all my worries away
+Oh I can remember
+Not too long ago
+I wanted to run away
+While I was looking
+For a place to go
+I found you
+That day
+And now with you here to guide me
+And stand close beside me
+And fill all my hours with day
+I'm gonna trade in my sorrow
+For each bright tomorrow
+And throw all my worries away
+And now with you here to guide me
+And stand close beside me
+And fill all my hours with day
+I'm gonna trade in my sorrow
+For each bright tomorrow
+And throw all my worries away
+Mmhmm mmhmmm mmmmm...

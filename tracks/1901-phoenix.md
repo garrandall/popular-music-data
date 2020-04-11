@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 1901-phoenix
+lyrics_url: https://genius.com/Phoenix-1901-lyrics
 name: '1901'
 rankings:
 - end_date: '2009-12-25'
@@ -59,4 +60,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-04-03'
 ---
+Counting all different ideas drifting away
+Past and present, they don't matter, now the future's sorted out
+Watch her moving in elliptical patterns
+Think it's not what you say, what you say is way too complicated
+For a minute, thought I couldn't tell how to fall out
 
+
+It's twenty seconds 'til the last call
+You're going, "Hey, hey, hey, hey, hey, hey"
+Lie down, you know it's easy
+Like we did it over summer long
+And I'll be anything you ask and more
+Going, "Hey, hey, hey, hey, hey, hey, hey"
+It's not a miracle we needed
+And no, I wouldn't let you think so
+Fold it, fold it, fold it, fold it
+
+
+Girlfriend, oh, your girlfriend is drifting away
+Past and present, 1855-1901
+Watch them built up a material tower
+Think it's not going to stay anyway, think it's overrated
+For a minute, thought I couldn't tell how to fall out
+
+
+It's twenty seconds 'til the last call
+You're going, "Hey, hey, hey, hey, hey, hey"
+Lie down, you know it's easy
+Like we did it over summer long
+And I'll be anything you ask and more
+Going, "Hey, hey, hey, hey, hey, hey, hey"
+It's not a miracle we needed
+No, I wouldn't let you think so
+Fold it, fold it, fold it, fold it
+
+
+Fold it, fold it, fold it, fold it
+Fold it, fold it, fold it, fold it
+Fold it, fold it, fold it, fold it

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: that-s-what-it-s-all-about-brooks-dunn
+lyrics_url: https://genius.com/Brooks-and-dunn-thats-what-its-all-about-lyrics
 name: That's What It's All About
 rankings:
 - end_date: '2004-09-03'
@@ -88,4 +89,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-01-08'
 ---
+Hey
+Well you work and you slave and you spend all day in your thankless job
+Then you jump in your Ford
+Door to Door
+With a hombound mob
+Then you pull in the drive and you hit the chair
+And the one you love is waitin' there
 
+Hey, That's what it's all about
+Hey, this is the life i couldn't live without
+It's a moment frozen there in time
+When the reasons all begin to rhyme
+Where loves a little bigger and you finally start figurin' out
+That's what it's all about
+
+When they won't go to bed
+And do what you said
+And they eat their food
+They Cry, and they Fuss and you can't Cuss
+Cause they'll say it to
+Your Tired, Num, Stressed and your Mad
+She smiles and says I Love You Dad
+
+Hey, That's what it's all about
+Hey, this is the life i couldn't live without
+It's a moment frozen there in time
+When the reasons all begin to rhyme
+Where loves a little bigger and you finally start figurin' out
+That's what it's all about
+
+Hey, That's what it's all about
+Hey, this is the life i couldn't live without
+It's a moment frozen there in time
+When the reasons all begin to rhyme
+Where loves a little bigger and you finally start figurin' out
+That's what it's all about
+
+Hey That's what it's all about
+The life i couldn't live without
+Hey That's What it's all about
+
+That's What it's all about
+That's What it's all about
+That's What it's all about

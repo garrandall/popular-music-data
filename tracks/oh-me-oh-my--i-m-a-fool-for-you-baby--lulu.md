@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oh-me-oh-my--i-m-a-fool-for-you-baby--lulu
+lyrics_url: https://genius.com/Lulu-oh-me-oh-my-lyrics
 name: Oh Me Oh My (I'm A Fool For You Baby)
 rankings:
 - end_date: '1970-01-02'
@@ -63,4 +64,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
 ---
+To make you laugh I'd play the fool for you
+Although the people turn and stare
+I'd give my everything to keep you for
+It breaks my heart when you're not there
+I'll stage a ballet on a table top
+Command performacne finger size
+Though I ain't got no tune my show won't flop
+Cause I'll find the music in your eye
 
+Oh me oh my
+I'm a fool for you baby
+Oh me oh my
+When I'm crazy, said I'm crazy
+Oh me oh my
+I'm a fool for you baby
+Let your love light shine on me
+
+We'll blow a genie from a cigarette
+We'll take a magic carpet ride
+We'll tell our smoky friends now don't forget
+You must keep us side by side
+
+Oh me oh my
+I'm a fool for you baby
+Oh me oh my
+When I'm crazy, said I'm crazy
+Oh me oh my
+I'm a fool for you baby
+Just let your love light shine on me

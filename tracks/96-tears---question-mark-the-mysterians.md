@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: 96-tears---question-mark-the-mysterians
+lyrics_url: https://www.musixmatch.com/lyrics/Question-Mark-The-Mysterians/96-Tears
 name: 96 Tears
 rankings:
 - end_date: '1966-09-09'
@@ -68,4 +69,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-10'
 ---
+Too many teardrops
+For one heart to be cryin'
+Too many teardrops
+For one heart to carry on
 
+You're way on top now
+Since you left me
+You're always laughin'
+Way down at me
+
+But watch out now
+I'm gonna get there
+We'll be together
+For just a little while
+
+And then I'm gonna put you
+Way down here
+And you'll start cryin'
+96 tears
+
+Cry
+Cry
+
+And when the sun comes up
+I'll be on top
+You'll be right down there
+Lookin' up
+
+And I might wave
+Come up here
+But I don't see you
+Wavin' now
+
+I'm way down here
+Wonderin' how
+I'm gonna get you
+But I know now
+
+I'll just cry
+Cry
+I'll just cry
+
+Too many teardrops
+For one heart to be cryin'
+Too many teardrops
+For one heart to carry on
+
+You're gonna cry 96 tears
+You're gonna cry 96 tears
+You're gonna cry, cry, cry, cry, now
+You're gonna cry, cry, cry, cry
+
+96 tears, c'mon, let hear you cry, now
+96 tears, woo, I wanna hear you cry
+Night and day, yeah, all night long
+
+96 tears, cry, cry, cry
+C'mon baby, let me hear you cry now
+All night long, 96 tears
+Yeah, c'mon now, 96 tears

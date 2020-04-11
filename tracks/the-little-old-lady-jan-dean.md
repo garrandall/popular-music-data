@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: the-little-old-lady-jan-dean
+lyrics_url: https://genius.com/The-beach-boys-the-little-old-lady-from-pasadena-jan-and-dean-lyrics
 name: The Little Old Lady
 rankings:
 - end_date: '1964-07-03'
@@ -52,4 +53,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
 ---
+It's the little old lady from Pasadena
 
+The little old lady from Pasadena
+Go granny, go granny, go granny go
+Has a pretty little flower bed of white gardenias
+Go granny, go granny, go granny go
+But parked in her rickety old garage
+Is a brand new shiny red Super-Stock Dodge
+
+And everybody's saying that there's nobody meaner
+Than the little old lady from Pasadena
+She drives real fast and she drives real hard
+She's the terror of Colorado Boulevard
+
+It's the little old lady from Pasadena
+
+If you see her on the street don't try to choose her
+Go granny, go granny, go granny go
+You might try a goer but you'll never lose her
+Go granny, go granny, go granny go
+She's gonna get a ticket now sooner or later
+'Cause she can't keep her foot off the accelerator
+
+And everybody's saying that there's nobody meaner
+Than the little old lady from Pasadena
+She drives real fast and she drives real hard
+She's the terror of Colorado Boulevard
+
+It's the little old lady from Pasadena
+
+Go granny, go granny, go granny go
+Go granny, go granny, go granny go
+The guys come to race her from miles around
+But she'll give 'em a length then she'll shut 'em down
+
+And everybody's saying that there's nobody meaner
+Than the little old lady from Pasadena
+She drives real fast and she drives real hard
+She's the terror of Colorado Boulevard
+
+It's the little old lady from Pasadena
+
+Go granny, go granny, go granny go
+Go granny, go granny, go granny go
+Go granny, go granny, go granny go
+Go granny, go granny, go granny go
+
+Go granny, go granny, go granny go
+Go granny, go granny, go granny go

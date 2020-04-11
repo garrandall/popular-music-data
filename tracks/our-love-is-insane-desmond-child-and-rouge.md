@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: our-love-is-insane-desmond-child-and-rouge
+lyrics_url: https://genius.com/Desmond-child-and-rouge-our-love-is-insane-lyrics
 name: Our Love Is Insane
 rankings:
 - end_date: '1979-01-26'
@@ -51,4 +52,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-31'
 ---
+You've got me doing the craziest things
+Up and turned me around and around and around
+Like a yo-yo on a string
+You've got me thinkin' the world's gonna end
+Then you fill me with hope and love
+And tear me down again
 
+Oh, our love is insane
+Things are up in the air
+Then down on the ground with nowhere in between
+Oh, our love is insane
+I wouldn't give it up
+No, not for anything
+
+You've got me swearing
+I'll walk out that door
+Out of touch, out of time
+Without a friend or a dime
+I'm drawn to you once more
+
+Oh, our love is insane
+Things are up in the air
+Then down on the ground with nowhere in between
+Oh, our love is insane
+I wouldn't give it up
+No, not for anything
+
+You soothe the wound then you break my heart in two 
+Tell me to touch you then to take my hands off you (touch me, touch me)
+We yakkity yak then for days you won't talk to me
+Your honey's so sweet but you know that you're stinging
+Stinging like a killer bee
+
+Oh, our love is insane (you know it is, yes, yes)
+(You know it is, yes)
+Oh, our love is insane (you know it is, yes, yes)
+(You know it is, yes) our love is insane
+
+Oh, our love is insane (you know it is, yes, yes)
+(You know it is, yes) oh, our love is insane
+Oh, our love is insane (you know it is, yes, yes)
+(You know it is, yes, yes)
+(You know it is, yes, yes)
+(You know it is, yes, yes)
+(You know it is, yes, yes)
+(You know it is, yes, yes)

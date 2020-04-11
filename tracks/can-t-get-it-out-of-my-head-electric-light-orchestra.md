@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-get-it-out-of-my-head-electric-light-orchestra
+lyrics_url: https://genius.com/Electric-light-orchestra-cant-get-it-out-of-my-head-lyrics
 name: Can't Get It Out Of My Head
 rankings:
 - end_date: '1974-12-27'
@@ -71,4 +72,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-04-05'
 ---
+Midnight on the water
+I saw the ocean's daughter
+Walking on a wave chicane
+Staring as she called my name
 
+
+And I can't get it out of my head
+No, I can't get it out of my head
+Now my old world is gone for dead
+'Cause I can't get it out of my head
+
+
+Breakdown on the shoreline
+Can't move, it's an ebb tide
+Morning don't get here till night
+Searching for her silver light
+
+
+And I can't get it out of my head
+No, I can't get it out of my head
+Now my old world is gone for dead
+'Cause I can't get it out of my head, no no
+
+
+
+
+Bank job in the city
+Robin Hood and William Tell and Ivanhoe and Lancelot, they don't envy me
+Sitting till the sun goes down
+In dreams the world keep going round and round
+
+
+And I can't get it out of my head
+No, I can't get it out of my head
+Now my old world is gone for dead
+'Cause I can't get it out of my head, no no
+
+And I can't get it out of my head
+No, I can't get it out of my head
+Now my old world is gone for dead
+'Cause I can't get it out of my head, no no
+
+No, I can't get it out of my head
+No, I can't get it out of my head
+Now my old world is gone for dead
+'Cause I can't get it out of my head, no no no no

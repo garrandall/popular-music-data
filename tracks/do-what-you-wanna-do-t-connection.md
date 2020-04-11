@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-what-you-wanna-do-t-connection
+lyrics_url: https://genius.com/T-connection-do-what-you-wanna-do-lyrics
 name: Do What You Wanna Do
 rankings:
 - end_date: '1977-03-18'
@@ -75,4 +76,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-07-02'
 ---
+Everybody's startin' to pick on you
+Just can't let them tell you what to do
+You've only got one life, so live it cool
+In this world of strife, you can't be a fool
 
+Don't let nobody tell ya what to do
+You gotta be your judge, and your jury too
+Don't let nobody tell ya what to do
+Gotta be your judge and jury too
+
+All right
+
+Gotta do your thing, and let it all hang out
+Gotta really show them, what it's all about
+Move on up, don't look around
+People will always try to put you down, down, now
+
+Don't let nobody tell ya what to do
+You gotta be your judge, and your jury too
+Don't let nobody tell ya what to do
+Gotta be your judge and jury too
+
+Woooo!
+
+What you wanna
+What you wanna
+Yeah, yeah
+(Do what you wanna do)
+Oh yeah
+(Be the judge and the jury, too)
+I'm gonna do, I'm gonna do
+(Do what you wanna do)
+I'm gonna do, yeah
+(Be the judge and the jury, too)
+I'm gonna do
+(Do what you wanna do)
+Yeah, yeah
+(Be the judge and the jury, too)
+I'm gonna do, yeah
+(Do what you wanna do)
+I don't want to hurt nobody
+(Be the judge and the jury, too)
+I don't want to hurt nobody
+(Do what you wanna do)
+I don't want to hurt nobody
+(Be the judge and the jury, too)
+Just got to do my thing, now
+(Do what you wanna do)
+Gotta do, gotta do, gotta do
+(Be the judge and the jury, too)
+(Do what you wanna do)
+
+(Do what you wanna do)
+(Do what you wanna do)
+(Do what you wanna do)
+(Do what you wanna do)

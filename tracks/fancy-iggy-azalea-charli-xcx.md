@@ -180,7 +180,6 @@ Rooftop like we bringin' '88 back (what?)
 Bring the hooks in, where the bass at?
 Champagne spillin', you should taste that
 
-
 I'm so fancy
 You already know
 I'm in the fast lane
@@ -189,7 +188,6 @@ I'm so fancy
 Can't you taste this gold?
 Remember my name
 'Bout to blow
-
 
 I said, "Baby, I do this, I thought that you knew this"
 Can't stand no haters and honest, the truth is
@@ -204,7 +202,6 @@ Put that paper over all, I thought you knew that, knew that
 I be the I-G-G-Y, put my name in bold
 I been working, I'm up in here with some change to throw
 
-
 I'm so fancy
 You already know
 I'm in the fast lane
@@ -213,7 +210,6 @@ I'm so fancy
 Can't you taste this gold?
 Remember my name
 'Bout to blow
-
 
 Trash the hotel
 Let's get drunk on the mini bar
@@ -225,7 +221,6 @@ Film star, yeah I'm deluxe
 Classic, expensive, you don't get to touch
 Ow...
 
-
 Still stuntin', how you love that?
 Got the whole world asking how I does that
 Hot girl, hands off, don't touch that
@@ -234,7 +229,6 @@ It's just the way you like it, huh?
 You're so good, he's just wishing he could bite it, huh?
 Never turn down nothing
 Slaying these hoes, gold trigger on the gun like
-
 
 I'm so fancy
 You already know
@@ -245,7 +239,6 @@ Can't you taste this gold?
 Remember my name
 'Bout to blow
 
-
 Who that, who that, I-G-G-Y
 That do that, do that, I-I-G-G-Y
 Who that, who that, I-G-G-Y
@@ -255,6 +248,3 @@ Who-who-who-who that, who that, I-G-G-Y
 That do that, do that, I-G-G-Y
 Who that, who that, I-G-G-Y
 Blow
-
-
-

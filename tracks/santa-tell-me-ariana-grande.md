@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: santa-tell-me-ariana-grande
+lyrics_url: https://genius.com/Ariana-grande-santa-tell-me-lyrics
 name: Santa Tell Me
 rankings:
 - end_date: '2014-12-19'
@@ -27,4 +28,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-01-10'
 ---
+Santa, tell me if you're really there
+Don't make me fall in love again if he won't be here next year
+Santa, tell me if he really cares
+'Cause I can't give it all away if he won't be here next year
 
+
+Feeling Christmas all around
+And I'm trying to play it cool
+But it's hard to focus when I see him walking 'cross the room
+"Let It Snow" is blasting out
+But I won't get it in the mood
+I'm avoiding every mistletoe until I know it's
+
+
+True love that he thinks of
+So next Christmas I'm not all alone, boy
+
+
+Santa, tell me if you're really there
+Don't make me fall in love again if he won't be here next year
+Santa, tell me if he really cares
+'Cause I can't give it all away if he won't be here next year
+
+
+I've been down this road before
+Fell in love on Christmas night
+But on New Year's Day, I woke up and he wasn't by my side
+Now I need someone to hold
+Be my fire in the cold
+But it's hard to tell if this is just a fling or if it's
+
+
+True love that he thinks of
+So next Christmas I'm not all alone, boy
+
+
+Santa, tell me if you're really there
+Don't make me fall in love again if he won't be here next year
+Santa, tell me if he really cares
+'Cause I can't give it all away if he won't be here next year
+
+
+Oh, I wanna have him beside me, like oh-woo-oh
+On the 25th, by that fireplace, oh-woo-oh
+But I don't want a new broken heart
+This year I've got to be smart
+Oh, baby
+(Santa, tell me, Santa, tell me)
+If he will be, if he will be here
+(Santa, tell me, Santa, tell me)
+Oh, woah
+
+
+Santa, tell me (Santa, tell me) if you're really there ('Cause I really care)
+Don't make me fall in love again if he won't be here next year
+Santa, tell me (Tell me) if he really cares (Tell me, boy)
+'Cause I can't give it all away if he won't be here next year
+
+
+Santa, tell me (Tell me) if you're really there (Santa, baby)
+Don't make me fall in love again if he won't be here next year (If he won't be, if he won't be here)
+Santa, tell me (Tell me) if he really cares (Do you care?)
+'Cause I can't give it all away if he won't be here next year

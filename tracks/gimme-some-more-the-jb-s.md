@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gimme-some-more-the-jb-s
+lyrics_url: https://genius.com/The-jbs-gimme-some-more-lyrics
 name: Gimme Some More
 rankings:
 - end_date: '1972-01-28'
@@ -39,4 +40,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-11'
 ---
-
+Can you gimme some more?
+Can you gimme some more?
+Can you gimme some more?
+...

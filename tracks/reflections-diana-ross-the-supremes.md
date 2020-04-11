@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: reflections-diana-ross-the-supremes
+lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross/Reflections-feat-The-Supremes
 name: Reflections
 rankings:
 - end_date: '1967-08-18'
@@ -52,4 +53,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-10-21'
 ---
+Through the mirror of my mind
+Time after time, I see reflections of you and me
+Reflections of the way life used to be
+Reflections of the love you took from me
 
+Oh, I'm all alone now, no love to shield me
+Trapped in a world that's a distorted reality
+Happiness you took from me
+And left me alone with only memories
+
+Through the mirror of my mind
+Through these tears that i'm crying
+Reflects a hurt I can't control
+'Cause although you're gone, I keep holding on
+To the happy times, oh, when you were mine
+
+As I peer through the window of lost time
+Looking over my yesterdays and all the love
+I gave all in vain
+(All the love)
+All the love that I've wasted
+(All the tears)
+All the tears that I've tasted
+All in vain
+
+Through the hollow of my tears
+I see a dream that's lost
+From the hurt that you have caused
+Everywhere I turn, seems like everything I see
+Reflects the love that used to be
+
+In you I put all my faith and trust
+Right before my eyes my world has turned to dust
+After all the nights I sat alone and wept
+Just a handful of promises are all that's left of loving you
+
+Reflections of the way life used to be
+Reflections of the love you took from me
+In you I put all my faith and trust
+Right before my eyes my world has turned to dust

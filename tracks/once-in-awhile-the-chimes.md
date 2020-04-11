@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: once-in-awhile-the-chimes
+lyrics_url: https://genius.com/Chimes-once-in-a-while-lyrics
 name: Once In Awhile
 rankings:
 - end_date: '1960-11-06'
@@ -79,4 +80,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
 ---
-
+Once in awhile will you try to give one little thought to me
+Though someone else maybe nearer your heart
+Once in awhile will you dream of the moments I shared with you
+Moments before we two drifted apart
+In love's smoldering ember one spark may remain
+If love still can remember, the spark may burn again a-a-a-a-and
+I know that I'll be contented with yesterday's mem-ory
+Knowing you'll think of me once in awhile

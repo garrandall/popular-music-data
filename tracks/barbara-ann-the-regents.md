@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: barbara-ann-the-regents
+lyrics_url: https://genius.com/The-regents-barbara-ann-lyrics
 name: Barbara-Ann
 rankings:
 - end_date: '1961-05-21'
@@ -47,4 +48,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-07-17'
 ---
+Bar bar bar bar Barbara Ann
+Bar bar bar bar Barbara Ann
+Barbara Ann
+Take my hand
+Barbara Ann
+You got me rockin' and a rollin'
+Rockin' and a reelin'
+Barbara Ann
+Bar bar bar bar Barbara Ann
 
+Went to a dance, looking for romance
+Saw Barbara Ann, so I thought I'd take a chance on
+Barbara Ann, Barbara Ann
+Take my hand
+Oh Barbara Ann, Barbara Ann
+Take my hand
+You got me rockin' and a rollin'
+Rockin' and a reelin'
+Barbara Ann
+Bar bar bar bar Barbara Ann
+
+
+Bar bar bar bar Barbara Ann
+Bar bar bar bar Barbara Ann
+Barbara Ann
+Take my hand
+Barbara Ann
+You got me rockin' and a rollin'
+Rockin' and a reelin'
+Barbara Ann
+Bar bar bar bar Barbara Ann
+
+Played our favorite tune
+Danced with Betty Lou
+Tried Peggy Sue
+But I knew they wouldn't do
+Oh Barbara Ann, Barbara Ann
+Take my hand
+Oh Barbara Ann, Barbara Ann
+Take my hand
+You got me rockin' and a rollin'
+Rockin' and a reelin'
+Barbara Ann
+Bar bar bar bar Barbara Ann
+
+Played our favorite tune
+Danced with Betty Lou
+Tried Peggy Sue
+But I knew they wouldn't do
+Oh Barbara Ann, Barbara Ann
+Take my hand
+Oh Barbara Ann, Barbara Ann
+Take my hand
+You got me rockin' and a rollin'
+Rockin' and a reelin' Barbara Ann
+Bar bar bar bar Barbara Ann
+
+
+Bar bar bar bar Barbara Ann
+Bar bar bar bar Barbara Ann
+Barbara Ann
+Take my hand
+Barbara Ann
+You got me rockin' and a rollin'
+Rockin' and a reelin'
+Barbara Ann
+Bar bar bar bar Barbara Ann

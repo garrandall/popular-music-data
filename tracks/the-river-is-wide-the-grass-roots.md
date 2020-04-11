@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-river-is-wide-the-grass-roots
+lyrics_url: https://genius.com/The-grass-roots-the-river-is-wide-lyrics
 name: The River Is Wide
 rankings:
 - end_date: '1969-04-18'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
 ---
+The sky was clear on that windy day
+'Til the clear blue sky began to turn to grey
+The lightning flashed, the thunder roared above
+Then fell a drop of rain to start our love
 
+Let the river get wide, the river gets long now
+The water runs deep as our love gets strong now
+So baby, don't you fight and say you belong now
+To me
+
+Upon the roof we heard the gentle rain
+With the rhythm of our heartbeats down it came
+As it hit each drop our hearts could feel the pain
+No one on earth can stop a drop of rain
+
+And the river get wide, the river gets long now
+The water runs deep as our love gets strong now
+So baby, don't you fight and say you belong now
+To me
+
+Let the river get wide, the river gets long now
+The water runs deep as our love gets strong now
+So baby, don't you fight and say you belong now
+To me, yeah
+
+Let the river get wide, the river gets long now
+The water runs deep as our love gets strong now
+So baby, don't you fight and say you belong now
+To me

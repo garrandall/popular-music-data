@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: out-of-my-mind-johnny-tillotson
+lyrics_url: https://genius.com/Johnny-tillotson-out-of-my-mind-lyrics
 name: Out Of My Mind
 rankings:
 - end_date: '1963-03-08'
@@ -47,4 +48,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-05-04'
 ---
+I just can't understand how you could hurt me so
+Then turn and walk away, pretending you don't know
+Each time I see you out with someone new
+I go out of my mind over you
 
+I go out of my mind when you're out of my heart
+I can't help lovin' you like I do
+My heart breaks up inside with each tear that I cry
+And I'm out of my mind over you
+
+Each day I think of all the things we used to do
+And all the plans we made that won't be comin' true
+It seems that all my dreams are fallin' through
+And I'm out of my mind over you
+
+I go out of my mind when you're out of my heart
+I can't help lovin' you like I do
+My heart breaks up inside with each tear that I cry
+And I'm out of my mind over you

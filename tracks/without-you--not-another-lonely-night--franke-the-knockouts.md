@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: without-you--not-another-lonely-night--franke-the-knockouts
+lyrics_url: https://genius.com/Franke-and-the-knockouts-without-you-lyrics
 name: Without You (Not Another Lonely Night)
 rankings:
 - end_date: '1982-04-09'
@@ -68,4 +69,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-07-10'
 ---
+You know
+Not too long ago
+You used to close your eyes
+And say real low, uh-huh
+Baby, I'm satisfied
+Oh, I remember like it was yesterday
 
+So stop pretending
+Ooh, baby
+Didn't you hear me say
+
+Not another lonely night
+No more lonely days
+Cause I don't want to be without you
+No, not another lonely night
+Cause it ain't feelin right
+And it just ain't the same for me
+Without you
+
+You know
+Not too long ago
+You used to hold me tight
+So then, let me know before you go
+Ooh, baby
+What's on your mind
+
+Oh, oh
+I remember like it was yesterday
+So stop pretending
+Ooh, baby
+Didn't you hear me say
+
+Baby, without you
+
+Just tell me now that you remember
+All those nights
+You loved me tender
+There's nothing I won't do without you
+
+Not another lonely night
+No more lonely days
+It ain't the same without you
+Not another lonely night
+'Cause it ain't feeling right
+It ain't the same without you
+
+Not another lonely night
+No more lonely days
+It ain't the same without you
+Not another lonely night
+Cause it ain't feeling right
+I don't wanna be

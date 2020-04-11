@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dream-on-aerosmith
+lyrics_url: https://genius.com/Aerosmith-dream-on-lyrics
 name: Dream On
 rankings:
 - end_date: '1973-10-26'
@@ -123,4 +124,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
 ---
+Every time​ that I look in the mirror
+All these lines on my face getting clearer
+The past is gone
+It went by like dusk to dawn
+Isn't that the way?
+Everybody's got their dues in life to pay, yeah
 
+
+I know nobody knows
+Where it comes and where it goes
+I know it's everybody's sin
+You got to lose to know how to win
+
+
+Half my life's in books' written pages
+Lived and learned from fools and from sages
+You know it's true
+All the things come back to you
+
+
+Sing with me, sing for the year
+Sing for the laughter and sing for the tear
+Sing with me, it's just for today
+Maybe tomorrow the good Lord will take you away
+
+
+
+
+Sing with me, sing for the year
+Sing for the laughter and sing for the tear
+Sing with me, it's just for today
+Maybe tomorrow the good Lord will take you away
+
+
+Dream on, dream on, dream on
+Dream yourself a dream come true
+Dream on, dream on, dream on
+Dream until your dream come through
+Dream on, dream on
+Dream on, dream on
+Dream on, dream on
+Dream on
+Aaaaah!
+
+
+Sing with me, sing for the year
+Sing for the laughter and sing for the tear
+Sing with me, it's just for today
+Maybe tomorrow the good Lord will take you away
+
+
+Sing with me, sing for the year
+Sing for the laughter and sing for the tear
+Sing with me, it's just for today
+Maybe tomorrow the good Lord will take you away

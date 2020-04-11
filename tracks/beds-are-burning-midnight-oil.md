@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beds-are-burning-midnight-oil
+lyrics_url: https://genius.com/Midnight-oil-beds-are-burning-lyrics
 name: Beds Are Burning
 rankings:
 - end_date: '1988-04-08'
@@ -95,4 +96,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-08-27'
 ---
+Out where the river broke
+The bloodwood and the desert oak
+Holden wrecks and boiling diesels
+Steam in forty-five degrees
 
+
+The time has come to say fair's fair
+To pay the rent, to pay our share
+The time has come, a fact's a fact
+It belongs to them, let's give it back
+
+
+How can we dance when our earth is turning?
+How do we sleep while our beds are burning?
+How can we dance when our earth is turning?
+How do we sleep while our beds are burning?
+
+
+The time has come to say fair's fair
+To pay the rent now, to pay our share
+
+
+Four wheels scare the cockatoos
+From Kintore, east to Yuendemu
+The Western Desert lives and breathes
+In forty-five degrees
+
+
+The time has come to say fair's fair
+To pay the rent, to pay our share
+The time has come, a fact's a fact
+It belongs to them, let's give it back
+
+
+How can we dance when our earth is turning?
+How do we sleep while our beds are burning?
+How can we dance when our earth is turning?
+How do we sleep while our beds are burning?
+
+
+The time has come to say fair's fair
+To pay the rent now, to pay our share
+The time has come, a fact's a fact
+It belongs to them, we're gonna give it back
+
+
+How can we dance when our earth is turning?
+How do we sleep while our beds are burning?

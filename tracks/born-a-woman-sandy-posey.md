@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: born-a-woman-sandy-posey
+lyrics_url: https://genius.com/Sandy-posey-born-a-woman-lyrics
 name: Born A Woman
 rankings:
 - end_date: '1966-07-29'
@@ -63,4 +64,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-22'
 ---
+It makes no difference
+If you're rich or poor
+Or if you're smart or dumb
+A woman's place in this old world
+Is under some man's thumb
 
+And if you're born a woman
+You're born to be hurt
+You're born to be stepped on
+Lied to, cheated on
+And treated like dirt
+
+Ah, if you're born a woman
+You're born to be hurt
+A woman's lot is to give and give
+And go on giving
+A woman's got to love and lose
+And go on living
+
+Well, I was born a woman
+I didn't have no say
+And when my man finally comes home
+He makes me glad it happened that way
+Because to be his woman
+No price is too great to pay
+
+Yes, I was born a woman
+I'm glad it happened that way
+Oh, I was born a woman
+I'm glad it happened that way

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-help-myself--sugar-pie-honey-bunch--bonnie-pointer
+lyrics_url: https://genius.com/Bonnie-pointer-i-cant-help-myself-sugar-pie-honey-bunch-lyrics
 name: I Can't Help Myself (Sugar Pie Honey Bunch)
 rankings:
 - end_date: '1979-12-28'
@@ -59,4 +60,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-15'
 ---
+Sugarpie honeybunch
+You know that i love you
+I can't help myself
+I love you and nobody else
+In and out my life
+You come and you go
+Leaving just your picture behind
+And i kissed it a thousand times
 
+When you snap your fingers
+Or wink your eye
+I come a running to you
+I'm tied to your apron strings
+And there's nothing i can do
+
+Ooh, sugarpie honeybunch
+I'm weaker than a girl should be
+I can't help myself
+I'm a fool in love, you see
+Wanna tell you i don't love you
+Tell you that we're through
+And i've tried
+But everytime i see your face
+I get up all choked up inside
+
+Ooh, sugarpie honeybunch
+You know that i love you
+I can't help myself
+I love you and nobody else
+
+When i call your name, boy
+It starts the flame burning in my heart
+Tearin' it all apart
+No matter how i try
+My love i cannot hide
+
+Ooh, sugarpie honeybunch
+I'm weaker than a girl should be
+I can't help myself
+I'm a fool in love, you see
+Wanna tell you i don't love you
+Tell you that we're through
+And i've tried
+But everytime i see your face
+I get up all choked up inside
+
+Sugarpie honeybunch
+You now that i'm weak for you
+I can't help myself
+I love you and nobody else
+
+Ooh, sugarpie honeybunch
+I'm weaker than a girl should be
+I can't help myself
+I'm a fool in love, you see
+
+Sugar
+Honey
+I can't help myself
+Oh, i can't help myself
+
+Sugarpie honeybunch
+You know that i love you

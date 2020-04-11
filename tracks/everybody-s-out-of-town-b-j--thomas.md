@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-s-out-of-town-b-j--thomas
+lyrics_url: https://genius.com/Bj-thomas-everybodys-out-of-town-lyrics
 name: Everybody's Out Of Town
 rankings:
 - end_date: '1970-04-03'
@@ -43,4 +44,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-05-23'
 ---
+Where have the people gone
+Seems like there's no one hangin' on
+Look through the window
+The houses are empty
+Hey, everybody's out of town
+Seems like I'm the only one around
 
+All of the streets are bare
+No traffic tie-ups anywhere
+Don't have to wait for a seat at the movie
+Hey, everybody's out of town
+Seems like, I'm the only one around
+
+Everyone's moved out
+From the ghetto
+Lots of space
+Empty apartments
+No more pollution
+Plenty of classrooms everyplace
+And it looks like we're ready
+To give it one more try
+This time there'll be no alibi
+I'm gonna send out a message to noah
+Hey, better send some people down
+Everyone on earth
+Is out of town

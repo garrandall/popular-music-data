@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: southtown-usa-the-dixiebelles
+lyrics_url: https://www.musixmatch.com/lyrics/The-Dixiebelles/Southtown-U-S-A
 name: Southtown USA
 rankings:
 - end_date: '1964-01-24'
@@ -39,4 +40,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-07'
 ---
+Well, I'm gonna pack my
+Clothes and leave tonight
+I got a big sugar daddy
+That's waiting to hold me tight
 
+His kisses knock me off my feet
+I wanna go where loving is sweet
+In Southtown, USA
+
+Southtown, Southtown
+I'm coming home
+My heart is aching for a lovely time
+And a honeysuckle vine
+
+So I'm going back to my honey shack
+In Southtown, Southtown, USA
+
+There's a little old house
+Where you can eat by candlelight
+And all the hip cats
+Meet there every night
+
+They got a red hot band
+That you can't beat
+And all the cornbread you can eat
+At Southtown, USA
+
+Southtown, Southtown
+I'm coming home
+Oh, how I'm yearning for
+Blackeyed peas and a sassafras tea
+
+So I'm going back to my honey shack
+In Southtown, Southtown, USA

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-bomb---these-sounds-fall-into-my-mind--the-bucketheads
+lyrics_url: https://genius.com/The-bucketheads-the-bomb-these-sounds-fall-into-my-mind-lyrics
 name: The Bomb! (These Sounds Fall Into My Mind)
 rankings:
 - end_date: '1995-07-07'
@@ -79,4 +80,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-10-28'
 ---
+These sounds, The-the-the-the
+These sounds, These, These
 
+These sounds fall into my mind
+These sounds fall into my mind
+These sounds fall into my mind
+These sounds fall into my mind
+
+These sounds fall into my mind
+These sounds fall into my mind
+These sounds fall into my mind
+These sounds fall into my mind
+
+Mind
+Mind
+Mind
+Mind
+
+These sounds fall into my mind
+These sounds fall into my mind
+These sounds fall into my mind
+These sounds fa-fall into my mind
+
+Mind
+Mind
+Mind
+Mind

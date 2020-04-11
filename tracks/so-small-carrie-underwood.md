@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-small-carrie-underwood
+lyrics_url: https://genius.com/Carrie-underwood-so-small-lyrics
 name: So Small
 rankings:
 - end_date: '2007-09-07'
@@ -87,4 +88,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-01-12'
 ---
+Yeah, yeah, yeah
 
+
+What you got if you ain't got love?
+The kind that you just wanna give away
+It's okay to open up
+Go ahead and let the light shine through
+I know it's hard on a rainy day
+You wanna shut the world out and just be left alone
+But don't run out on your faith
+
+
+'Cause sometimes that mountain you've been climbing is just a grain of sand
+And what you've been up there searching for forever is in your hands
+When you figure out love is all that matters after all
+It sure makes everything else seem so small
+
+
+It's so easy to get lost inside
+A problem that seems so big at the time
+It's like a river that's so wide
+It swallows you whole
+While you're sitting 'round thinking 'bout what you can't change
+And worrying about all the wrong things
+Time's flying by
+Moving so fast
+You better make it count 'cause you can't get it back
+
+
+Sometimes that mountain you've been climbing is just a grain of sand
+And what you've been up there searching for forever is in your hands
+Oh, and when you figure out love is all that matters after all
+It sure makes everything else
+Seem so small
+Yeah, yeah, yeah, yeah, yeah
+
+
+Sometimes that mountain you've been climbing is just a grain of sand
+And what you've been up there searching for forever is in your hands
+Oh, and when you figure out love is all that matters after all
+It sure makes everything else
+Oh, it sure makes everything else
+Seem so small
+
+
+Yeah, yeah

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 5705-city-boy
+lyrics_url: https://www.musixmatch.com/lyrics/City-Boy/5-7-0-5
 name: '5705'
 rankings:
 - end_date: '1978-08-18'
@@ -55,4 +56,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-10-28'
 ---
+Five seven o five
+But there's no reply
+Five seven o five
 
+Got myself just one more dime
+But will the operator hold the line
+When my ears keep telling me
+There's no reply, no reply
+I pick up the telephone
+I go crazy when there's no one home
+I feel cheated and small when
+My number's on the wall of her room
+Call me soon
+
+Hey operator
+Five seven o five
+But there's no reply
+Five seven o five
+Why do you keep me hanging on the line
+
+I can't believe that there's no one there
+Is this a private number love affair
+With your phone booth lover
+Still waiting on the wire, high wire
+I saw the light shine behind your door
+I heard the party on the second floor
+But you only pretend that you've been
+Visiting friends from abroad, tell me more
+
+Hey operator
+Five seven o five
+But there's no reply
+Five seven o five
+Why do you keep me hanging on the line
+Mysterious people I can't believe what she done to me
+It's too late now
+It's all over town
+
+Five seven o five
+But there's no reply
+Five seven o five
+Can you hold the line

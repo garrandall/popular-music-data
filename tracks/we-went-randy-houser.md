@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-went-randy-houser
+lyrics_url: https://genius.com/Randy-houser-we-went-lyrics
 name: We Went
 rankings:
 - end_date: '2015-11-27'
@@ -59,4 +60,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-04-02'
 ---
+Black Pontiac with a pocket of cash
+Foot on the gas ready and throwing up a little dust
+Like a pickup truck does in the mud
+But ain’t nobody slowing us down right now
 
+She said, "I need a little something with some get up and go
+And nobody knows how to get me going quite like you do
+When you do the things you do
+Wanna give this sleepy podunk town something to talk about"
+
+We were taillights fading from some blue lights chasing
+Cut a path through the corn on County Road 44
+Tore up a fence, jumped in a ditch, felt so good
+We didn’t want it to end so we went
+
+Looking for a dive just to kill some time
+Let the heat cool off we could do us some dancing
+Didn’t take long, just a couple of songs
+You know it’s last call when the law comes walking in
+
+So we were taillights fading from some blue lights chasing
+Cut a path through the corn off County Road 44
+Tore up a fence, jumped in a ditch, felt so good
+We didn’t want it to end so we went
+
+Rocking to the radio, fogging up the windows
+Headlights off in a spot nobody else knows
+
+We were taillights fading from some blue lights chasing
+Cut a path through the corn on County Road 44
+Tore up a fence, jumped in a ditch, felt so good
+We didn’t want it to end
+
+Black Pontiac with a pocket of cash
+Foot on the gas ready and throwing up a little dust
+Like a pick up truck does in the mud
+But ain’t nobody slowing us down right now

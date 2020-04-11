@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: surfin--usa-leif-garrett
+lyrics_url: https://www.musixmatch.com/lyrics/Leif-Garrett/Surfin-USA
 name: Surfin' USA
 rankings:
 - end_date: '1977-09-02'
@@ -67,4 +68,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-12-03'
 ---
+If everybody had an ocean
+Across the USA
+Then everybody'd be surfing
+Like California
 
+You'd see em
+Wearing their baggies
+Huarachi sandals too
+A bushyn bushy blonde hairdo
+Surfin USA
+
+You'd catch em
+Surfin at Del Mar
+(Inside, outside, USA)
+Ventura County line
+(Inside, outside, USA)
+Santa Cruz and Trestle
+(Inside, outside, USA)
+Australia's Narrabeen
+(Inside, outside, USA)
+All over Manhattan
+(Inside, outside, USA)
+And down Doheny Way
+(Inside, outside, USA)
+Everybody's gone surfin
+Surfin USA
+
+We'll all be planning that route
+We're gonna take real soon
+We're waxing down our surfboards
+We can't wait for June
+
+We'll all be gone for the summer
+We're on safari to stay
+Tell the teacher we're surfin
+Surfin USA
+
+Haggerties and Swamies
+(Inside, outside, USA)
+Pacific Palisades
+(Inside, outside, USA)
+San Onofre and Sunset
+(Inside, outside, USA)
+Redondo Beach, L. A.
+(Inside, outside, USA)
+All over La Jolla
+(Inside, outside, USA)
+At Waimea Bay
+(Inside, outside)
+Everybody's gone surfin
+Surfin USA
+
+Everybody's gone surfin
+Surfin USA
+Now, everybody's gone surfin
+Surfin USA
+Yeah, everybody's gone surfin
+Surfin USA

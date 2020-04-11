@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-man-i-ll-never-be-boston
+lyrics_url: https://genius.com/Boston-a-man-ill-never-be-lyrics
 name: A Man I'll Never Be
 rankings:
 - end_date: '1978-11-24'
@@ -55,4 +56,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
 ---
+If I said what's on my mind
+You'd turn and walk away
+Disappearing way back in your dreams
+It's so hard to be unkind
+So easy just to say
+That everything is just the way it seems
 
+
+You look up at me
+And somewhere in your mind you see
+A man I'll never be
+If only I could find a way
+I'd feel like I'm the man you believe I am
+And it's getting harder every day for me
+To hide behind this dream you see
+A man I'll never be
+
+
+I can't get any stronger
+I can't climb any higher
+You'll never know just how hard I've tried
+Cry a little longer
+And hold a little tighter
+Emotions can't be satisfied

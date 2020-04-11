@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-found-someone-cher
+lyrics_url: https://genius.com/Cher-i-found-someone-lyrics
 name: I Found Someone
 rankings:
 - end_date: '1987-11-27'
@@ -111,4 +112,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-05-14'
 ---
+Don't you know
+So many things - they come and go?
+Like your words that once rang true
+Just like the love I thought I found in you
 
+
+And I remember the thunder
+Talking 'bout the fire in your eyes
+But you walked away when I needed you most
+Now maybe, baby, maybe, baby
+
+
+I found someone
+To take away the heartache
+To take away the loneliness
+I've been feelin' since you've been gone
+Since you've been gone
+
+
+Dry your eyes
+I never could bear to see you cry
+Someday your love will shine through
+And show you the feelings that you never really knew
+
+
+But baby, don't you loose that thunder
+Talking 'bout the fire in your eyes
+You're lookin' at me but you still don't believe
+That maybe baby, maybe baby
+
+
+I found someone
+To take away the heartache
+To take away the loneliness
+I've been feelin' since you've been gone
+Since you've been gone
+
+
+Too long on the border line
+Wondering if your love was really mine
+But you left me with open eyes
+And when I realized
+
+
+Baby, I found someone
+To take away the heartache
+To take away the loneliness
+I've been feelin' since you've been gone
+Baby, I found someone
+To take away the heartache
+To take away the loneliness
+I've been feelin' since you've been gone
+Since you've been gone

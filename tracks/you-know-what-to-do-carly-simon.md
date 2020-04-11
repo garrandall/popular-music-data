@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-know-what-to-do-carly-simon
+lyrics_url: https://genius.com/Carly-simon-you-know-what-to-do-lyrics
 name: You Know What To Do
 rankings:
 - end_date: '1983-09-30'
@@ -23,4 +24,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-10-15'
 ---
+(Carly Simon/Jacob Brackman)
 
+The night is filled with pretty girls
+Dancing shoes and flying hair
+Not one of them would refuse
+To follow you up the stairs
+You could have your pick of them
+Why decide to pick on me
+You promised me you'd stay away
+You promised me you'd set me free
+Pounding of my heart
+Trembling of my hands
+Somethings I'll just never understand
+
+Chorus:
+You know what to do to me
+You know what it does to me
+You know what to do to me
+You know what it does to me
+You know what to do
+
+The night is filled with shooting stars
+I watch them fall 'cause I can't sleep
+I pray that you won't call at all
+I'm still awake at ten to three
+I hear your motorcycle roar
+You pull up short outside my door
+I don't know how I got outside
+I don't know why I'm on this ride
+
+We make love like a house on fire
+We make love like dogs gone mad
+Somethings I'll just never understand
+
+Chorus
+
+Pounding out my heart
+Trembling of my hands
+Somethings I'lll just never understand
+
+Chorus

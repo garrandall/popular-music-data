@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-in-the-first-degree-bananarama
+lyrics_url: https://genius.com/Bananarama-love-in-the-first-degree-lyrics
 name: Love In The First Degree
 rankings:
 - end_date: '1988-03-25'
@@ -47,4 +48,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-05-21'
 ---
+Last night I was dreaming
+I was locked in a prison cell
+When I woke up I was screaming
+Calling out your name (whoa)
 
+And the judge and the jury
+They all put the blame on me (the blame on me)
+They wanna tell from my story
+They want to hear my plea
+
+Only you can set me free
+'Cause I'm guilty (guilty)
+Guilty as a girl can be
+Come on baby, can't you see
+I stand accused
+Of love in the first degree
+
+(Guilty) Of love in the first degree
+
+Someday I'm believing
+You will come to my rescue
+Unchain my heart, you'll keep him
+Let me start a new (you)
+
+The hours passed so slowly
+Since they've thrown away the key (away the key)
+Can't you see that I'm lonely
+Won't you help me please
+
+Only you can set me free
+'Cause I'm guilty (guilty)
+Guilty as a girl can be
+Come on baby, can't you see
+I stand accused
+Of love in the first degree
+
+(Guilty) Of Love in the first degree
+
+(Guilty)
+Of Love
+
+(Guilty)
+Of Love in
+
+(Guilty) Of Love
+
+(Guilty) Of Love in
+
+(Guilty)
+Of love in the first degree
+
+And the judge and the jury
+They all put the blame on me
+They wanna tell from my story
+They wanna hear my plea
+
+Only you can set me free
+'Cause I'm guilty (Guilty)
+As a girl can be
+Come on baby, can't you see
+I stand accused
+Of love in the first degree

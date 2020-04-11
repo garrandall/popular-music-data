@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: red-rubber-ball-the-cyrkle
+lyrics_url: https://genius.com/The-cyrkle-red-rubber-ball-lyrics
 name: Red Rubber Ball
 rankings:
 - end_date: '1966-05-27'
@@ -59,4 +60,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-08-13'
 ---
+I should have known
+You'd bid me farewell
+There's a lesson to be learned from this
+And I learned it very well
+Now I know you're not the only
+Starfish in the sea
+If I never hear your name again
+It's all the same to me
 
+And I think it's gonna be alright
+Yeah, the worst is over now
+The morning sun is shining
+Like a red rubber ball
+
+You never care
+For secrets I confide
+For you I'm just an ornament
+Something for your pride
+Always running, never caring
+That's the life you live
+Stolen minutes of your time
+Were all you had to give
+
+And I think it's gonna be alright
+Yeah, the worst is over now
+The morning sun is shining
+Like a red rubber ball
+
+The story's in the past
+With nothing to recall
+I've got my life to live
+And I don't need you at all
+The rollercoaster ride we took
+Is nearly at an end
+I bought my ticket with my tears
+That's all I'm gonna spend
+
+And I think it's gonna be alright
+Yeah, the worst is over now
+The mornin' sun is shining
+Like a red rubber ball
+
+Oh, I think it's gonna be alright
+Yeah, the worst is over now
+The mornin' sun is shining
+Like a red rubber ball

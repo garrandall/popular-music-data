@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -you-don-t-have-to--paint-me-a-picture-gary-lewis-and-the-playboys
+lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-you-dont-have-to-paint-me-a-picture-lyrics
 name: (You Don't Have To) Paint Me A Picture
 rankings:
 - end_date: '1966-10-14'
@@ -39,4 +40,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-11-26'
 ---
+You don't have to paint me a picture
+The handwriting's on the wall
+It's very plain to see that you don't love me
+No, you never loved me at all
 
+You went out with other fellas
+You think that I don't know
+Well, you don't have to paint a rose on me
+'Cause I knew it long ago
+
+I have tried to make excuses for the things you do
+I've tried to be fair in every way
+It's no use pretendin' that you haven't been untrue
+It's over now, so I'll be on my way
+
+I don't need a fortuneteller
+I don't need a crystal ball
+It's very plain to see that you don't love me
+No, you never loved me at all
+
+I have tried to make excuses for the things you do
+I've tried to be fair in every way
+It's no use pretendin' that you haven't been untrue
+It's over now, so I'll be on my way, hey hey
+
+I don't need a fortuneteller
+I don't need a crystal ball
+It's very plain to see that you don't love me
+No, you never loved me at all
+
+You don't have to paint me a picture
+The handwriting's on the wall
+It's very plain to see that you don't love me
+No, you never loved me at all
+
+You don't have to paint me a picture
+The handwriting's on the wall
+It's very plain to see that you don't love me
+No, you never loved me at all

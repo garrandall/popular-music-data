@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: to-know-him-is-to-love-him-the-teddy-bears
+lyrics_url: https://genius.com/The-teddy-bears-us-to-know-him-is-to-love-him-lyrics
 name: To Know Him Is To Love Him
 rankings:
 - end_date: '1958-09-28'
@@ -99,4 +100,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-23'
 ---
+To know, know, know him
+Is to love, love, love him
+Just to see him smile
+Makes my life worthwhile
 
+To know, know, know him
+Is to love, love, love him
+And I do
+(And I do, and I)
+(And I do, and I)
+(And I do, and I)
+(And I do, and I)
+
+I'd be good to him
+I'd bring love to him
+Everyone says there'll come a day
+When I'll walk along side of him
+
+Yes, yes to know him
+Is to love, love, love him
+And I do
+(And I do, and I)
+(And I do, and I)
+(And I do, and I)
+(And I do, and I)
+
+Why can't he see
+How blind can he be?
+Someday he will see that he
+Was meant for me
+Oh, oh yes
+
+To know, know, know him
+Is to love, love, love him
+Just to see him smile
+Makes my life worthwhile
+
+To know, know, know him
+Is to love, love, love him
+And I do
+(And I do, and I)
+(And I do, and I)
+(And I do, and I)
+(And I do, and I)

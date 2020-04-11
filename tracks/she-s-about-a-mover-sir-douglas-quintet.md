@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-about-a-mover-sir-douglas-quintet
+lyrics_url: https://genius.com/The-sir-douglas-quintet-shes-about-a-mover-lyrics
 name: She's About A Mover
 rankings:
 - end_date: '1965-04-09'
@@ -55,4 +56,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
 ---
+Well, she was walking down the street
+Looking fine as she could be, hey, hey
+Well, she was walking down the street
+Looking fine as she could be, hey, hey
+If you have love and conversation
+Whoa, yeah, what'd I say?
+Hey, hey
 
+She's about a mover
+She's about a mover
+She's about a mover
+She's about a mover
+Hey, hey, hey, hey
+What'd I say?
+She's about a mover
+She's about a mover
+Well, you know I love you, baby
+Whoa, yeah, what'd I say?
+Hey, hey
+
+Well, she strolled on up to me
+And said, "Hey, big boy, what's your name?"
+Hey, hey
+Well, she strolled on up to me
+And said, "Hey, big boy, what's your name?"
+Hey, hey
+Well, you know I love you, baby
+Whoa, yeah, what'd I say?
+Hey, hey
+
+She's about a mover
+She's about a mover
+She's about a mover
+She's about a mover
+Hey, hey, hey, hey

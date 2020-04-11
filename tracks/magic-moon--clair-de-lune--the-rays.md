@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: magic-moon--clair-de-lune--the-rays
+lyrics_url: https://www.musixmatch.com/lyrics/The-Rays/Magic-Moon
 name: Magic Moon (Clair De Lune)
 rankings:
 - end_date: '1961-08-20'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-02'
 ---
+Magic moon
+Clair de Lune
+Magic moon
+Clair de Lune
 
+Magic moon (magic moon)
+Clair de Lune (Clair de Lune)
+Shine on the lover
+Of my dreams
+Light up a pathway
+Leading her straight to my arms
+Send down your lovelight
+Magical queen of the night
+
+Magic moon (magic moon)
+Clair de Lune (Clair de Lune)
+Sprinkle your moonbeams
+In her hair
+She'll be an angel
+Twinkling like stardust
+Oh answer me answer me
+If you hear my prayer
+Oh where is the loving for me to share
+
+There in the depth of night (?)
+When she'll come my way
+But until that night
+I'll forever pray
+Magic moon above
+Won't you send me someone
+To love
+
+Magic moon
+Clair de Lune
+Magic moon
+Clair de Lune
+Magic moon

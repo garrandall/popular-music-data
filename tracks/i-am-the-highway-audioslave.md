@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-am-the-highway-audioslave
+lyrics_url: https://genius.com/Audioslave-i-am-the-highway-lyrics
 name: I Am The Highway
 rankings:
 - end_date: '2004-01-16'
@@ -75,4 +76,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-05-01'
 ---
+Pearls and swine
+Bereft of me
+Long and weary
+My road has been
+I was lost in the cities
+Alone in the hills
+No sorrow or pity
+For leaving, I feel, yeah
 
+
+I am not your rolling wheels
+I am the highway
+I am not your carpet ride
+I am the sky
+
+
+Friends and liars
+Don't wait for me
+Cause I'll get on
+All by myself
+I put millions of miles
+Under my heels
+And still too close
+To you, I feel, yeah
+
+
+I am not your rolling wheels
+I am the highway
+I am not your carpet ride
+I am the sky
+I am not your blowing wind
+I am the lightning
+I am not your autumn moon
+I am the night, the night
+
+
+Yeah! I am not your rolling wheels
+I am the highway
+I am not your carpet ride
+I am the sky
+Well, I am not your blowing wind
+I am the lightning
+I am not your autumn moon
+I am the night, the night
+
+
+Yeah, yeah, yeah, yeah

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-do-love-you-billy-stewart
+lyrics_url: https://genius.com/Billy-stewart-i-do-love-you-lyrics
 name: I Do Love You
 rankings:
 - end_date: '1965-04-02'
@@ -59,4 +60,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-08'
 ---
+I do love you, but it's
+All alright
 
+I do love you, yes, I do now
+I do love you, yes, I do now
+I do love you, yes, I do now
+
+Oh, I love a you so a right now
+Now a my, my, baby yeah, yeah, yeah
+Little darlin' I said, I love a you so a right now
+Never, never gonna let, gonna let, gonna let you go, no, no, no
+
+Pretty little baby said, I want you to try
+To understand a that I, that I, that I
+I want to be your lover man
+Aw baby, love a me so a
+I don't want you to go, no, no, no, no, no
+
+Why don't you decide to be
+I'll take you all of my dreams now
+Oh, I love you, I pray for your love
+Woulda come to me a someday
+
+Because I love you so bad now
+It's about to drive a me
+Mad girl, I said I do
+Love you, I do love you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-no-mistake-he-s-mine-barbra-streisand-with-kim-carnes
+lyrics_url: https://www.musixmatch.com/lyrics/Barbra-Streisand-with-Kim-Carnes/Make-No-Mistake-He-s-Mine
 name: Make No Mistake He's Mine
 rankings:
 - end_date: '1984-12-21'
@@ -47,4 +48,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-02-16'
 ---
-
+Don't call him up anymore
+Cause I don't wanna hear your voice
+I don' t wanna see your face
+Answer his door
+Make no mistake he's mine he's mine, he's mine
+He only knows how I feel
+I only know what he's like
+When he needs me
+Oh how he needs me
+Deep in the night
+Make no mistake
+He's mine, He's mine, he's mine
+Don't get to close when you dance
+Cause I don't wanna hear from my friends
+You were out on the town
+There in his arms (there in his arms)
+There in his arms (there in his arms)
+Don't include him in you dreams (I wanna be in his dreams)
+Cause I don't wanna close my eyes (my eyes)
+I don't wanna know where he goes
+Each might when he leaves (leaves)
+Make no mistake (make no mistake)
+He's mine (he's mine) He's mine (he's mine)
+He is mine...
+Don't call him up anymore
+Don't call him up anymore...

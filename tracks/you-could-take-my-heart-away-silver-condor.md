@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-could-take-my-heart-away-silver-condor
+lyrics_url: https://genius.com/Silver-condor-you-could-take-my-heart-away-lyrics
 name: You Could Take My Heart Away
 rankings:
 - end_date: '1981-07-31'
@@ -59,4 +60,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-10-17'
 ---
+You could take my heart away tonight
+You could take my heart away tonight
+Come on, girl, reach into my life
+Can keep what you want if you hold on tight
+You could take my heart away tonight
 
+You could be my dream machine tonight
+You could be my dream machine tonight
+You caught me turning out the light
+Don't let me down, keep me up all night
+You could take my heart away tonight
+
+You could help me find my way
+You could fill these empty days
+You could take my heart away tonight, oh baby
+If you should walk away I'll be all right
+I could play it cool with all my might
+I could fake it through this lonely life
+
+You could take my heart away tonight, tonight
+You could take my heart away tonight
+Come on, girl, reach into my life
+If not forever maybe once or twice
+You could take my heart away
+Let me know what part to play
+You could take my heart away tonight
+Lead me through this lonely life
+You could take my heart away tonight
+Take me all the way tonight
+Take my heart away tonight
+Take me all the way, all the way
+Take my heart away tonight

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yes--chad-brock
+lyrics_url: https://www.musixmatch.com/lyrics/Chad-Brock/Yes
 name: Yes!
 rankings:
 - end_date: '2000-04-14'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-08-19'
 ---
+She moved into my old apartment
+That's how we got this whole thing started
 
+She called and said that I had mail
+Waiting there for me
+I told her that I'd come and get it
+How could I know in just a minute
+That I'd be standing face to face
+With my own destiny
+
+Oh and we sat there talkin' just like we were old friends
+Oh then I asked her, "Can I see you again?"
+
+And she said, "Yes!"
+And I said, "Wow!
+And she said, "When?"
+And I said, "How about right now!"
+Love can't wait
+Then I asked if she believed in fate
+And she said, "Yes!"
+
+But days flew by just like a fast train
+And nothing else has been on my brain
+Except the thought of how she makes me
+The man I want to be
+She's the one I want for a million reasons
+Loving her is just like breathin'
+It's easy and it's obvious
+That she was made for me
+
+Oh then it happened one night lookin' in her eyes
+Oh when I popped the question much to my surprise
+
+She said, "Yes!"
+And I said, "Wow!
+And she said, "When?"
+And I said, "How about right now!"
+Love can't wait
+Then I asked if she believed in fate
+And she said, "Yes!"
+
+So we called the preacher, family and friends
+And nothin's been the same since...
+
+She said, "Yes!"
+And I said, "Wow!
+And she said, "When?"
+And I said, "How about right now!"
+Love can't wait
+Then I asked if she believed in fate
+And she said, "Yes!"
+
+She said, "Yes!"

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hound-dog-man-fabian
+lyrics_url: https://www.musixmatch.com/lyrics/Fabian/Hound-Dog-Man
 name: Hound Dog Man
 rankings:
 - end_date: '1959-11-22'
@@ -67,4 +68,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
 ---
+Hound dog man, hound dog man, i wanna be a hound dog man
 
+I'm gonna get me an ol' hound dog
+I'm gonna let 'im lead the way
+Then i'm gonna turn 'im loose
+We'll go huntin' every day
+That's the kind of life for me
+There's one thing i wanna be, and that's a
+Hound dog man, hound dog man, i wanna be a hound dog man
+
+I'm wanna get up in the mornin'
+A-yeah, with the risin' sun
+I'm gonna stay right on that trail
+Till the day is done
+I think i am old enough
+I'm young in years but i'm mighty tough, a-like a
+Hound dog man, hound dog man, i wanna be a hound dog man
+
+I'm lookin' for a girl who'll be waitin' when i come home
+She's gonna meet me with a kiss
+She's gonna be one pretty miss
+And every time i go, she gonna miss-a me more and more
+She's gonna have a tear in her eye, the time's gonna pass so slow
+
+That's the kind of life for me
+A-there's one thing i wanna be, and that's a
+Hound dog man, hound dog man, i wanna be a hound dog man
+
+And every time i go, she gonna miss-a me more and more
+She's gonna have a tear in her eye, the time's gonna pass so slow
+
+That's the kind of life for me
+A-there's one thing i wanna be, and that's a
+Hound dog man, hound dog man, i wanna be a hound dog man
+Hound dog man, hound dog man, i wanna be a hound dog man
+Hound dog man
+Hound dog man

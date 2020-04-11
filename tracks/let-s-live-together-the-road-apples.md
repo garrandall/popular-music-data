@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-live-together-the-road-apples
+lyrics_url: https://genius.com/The-road-apples-lets-live-together-lyrics
 name: Let's Live Together
 rankings:
 - end_date: '1975-10-03'
@@ -63,4 +64,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-24'
 ---
+The Road Apples
+Miscellaneous
+Let's Live Together
+LET'S LIVE TOGETHER
+Road Apples
+Hey baby I got to tell you something
+Something you oughta know
+You're the honey in my sweet life
+I oughta let it show
+When I think about the good times
+Baby that I had with you
+When I feel the way I'm feeling
+The fire baby got to let you know
+Oh baby got to let you know
+I want you baby
+I need you baby
+I love you baby
+Let's live together
+I love you baby
+I's thinkin' maybe say come on baby
+Let's live together
+Now baby I wanna tell you something
+Something been on my mind
+You're the sun and the spring of my life
+I oughta let it shine now
+When I think about the happiness
+When I think that you got me feeling like this
+Baby gotta let you know
+Gotta let you know
 
+(repeat chorus)

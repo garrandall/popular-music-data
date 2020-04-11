@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 7-and-7-is-love
+lyrics_url: https://genius.com/Love-7-and-7-is-lyrics
 name: 7 And 7 Is
 rankings:
 - end_date: '1966-08-05'
@@ -47,4 +48,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
 ---
+When I was a boy I thought about the times I'd be a man
+I'd sit inside a bottle and pretend that I was in a can
+In my lonely room I'd sit my mind in an ice cream cone
+You can throw me if you wanna cause I'm a bone and I go
+Oop-ip-ip oop-ip-ip, yeah!
 
+
+If I don't start cryin' it's because that I have got no eyes
+My father's in the fireplace and my dog lies hypnotized
+Through a crack of light I was unable to find my way
+Trapped inside a night but I'm a day and I go
+Oop-ip-ip oop-ip-ip, yeah!
+
+1,2,3,4!

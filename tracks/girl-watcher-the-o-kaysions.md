@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girl-watcher-the-o-kaysions
+lyrics_url: https://genius.com/The-okaysions-girl-watcher-lyrics
 name: Girl Watcher
 rankings:
 - end_date: '1968-08-23'
@@ -63,4 +64,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-16'
 ---
+I'm a girl watcher
+I'm a girl watcher
+Watchin' girls go by
+My, my, my
 
+I'm a girl watcher
+I'm a girl watcher
+Here comes one now
+Mmmm, mmm, mmm
+
+I was just a boy
+When I threw away my toys
+I found a new pastime
+To dwell on
+
+Whenever I detect
+Members of the other s**
+I play the game I do so well, oh
+
+I'm a girl watcher
+I'm a girl watcher
+Watchin' girls go by
+My, my, my
+
+I'm a girl watcher
+I'm a girl watcher
+Here comes one now
+
+Hello there, female
+My, my, but you do look swell
+Could you please walk
+A little slower
+
+I wonder if you know
+That you're putting on a show
+Could you please walk
+A little closer
+
+I'm a girl watcher
+I'm a girl watcher
+Watchin' girls go by
+My, my, my
+
+I'm a girl watcher
+I'm a girl watcher
+Here comes one now
+Mmm, mmm, mmm

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-you-so-much-new-colony-six
+lyrics_url: https://www.musixmatch.com/lyrics/The-New-Colony-Six/Love-You-So-Much
 name: Love You So Much
 rankings:
 - end_date: '1967-02-24'
@@ -31,4 +32,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-25'
 ---
+Hear this praises from a grateful heart
+Each time I think of You the praises start
+I Love You so much, Jesus
+I Love You so much
 
+Lord, I love You, my soul sings
+In Your presence carried on Your wings
+I Love You so much, Jesus
+I Love You so much
+
+How my soul longs for you
+Longs to worship You forever
+In Your power and majesty
+Lift my hands, lift my heart
+Lift my voice towards the heavens
+For You are my sun and shield
+
+Hear this praises from a grateful heart
+Each time I think of You the praises start
+I Love You so much, Jesus
+I Love You so much
+
+Lord, I love You, my soul sings
+In Your presence, carried on Your wings
+I Love You so much, Jesus
+I Love You so much
+
+How my soul longs for you
+Longs to worship You forever
+In Your power and majesty
+Lift my hands, lift my heart
+Lift my voice towards the heavens
+For You are my sun and shield
+
+How my soul longs for you
+It longs to worship You forever
+In Your power and majesty
+Lift my hands, lift my heart
+Lift my voice towards the heavens
+For You are my sun and shield
+
+Hear this praises from a grateful heart
+Each time I think of You the praises start
+I Love You so much, Jesus
+I Love You so much
+I Love You so much, Jesus
+I Love You so much

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-like-kut-klose
+lyrics_url: https://genius.com/Kut-klose-i-like-lyrics
 name: I Like
 rankings:
 - end_date: '1995-04-21'
@@ -87,4 +88,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-08-26'
 ---
+Tender loving
+It's one on one
+Don't wanna rush it, nah
+Let's take it nice and slow, honey
+Caress my body
+And hold me tight
+Don't let me go, baby
+Until I get enough, oooh
 
+
+(Baby tonight) baby tonight
+(The loving is right) the loving is right
+(You know how I like it)
+You know how I like it, yeah
+(You know how I want it)
+You know just what I want, baby
+
+
+I like the way you tease me
+I like the way you squeeze me
+I like the way you touch me
+I like the way you sex me
+
+
+Turn down the lights, baby
+Take off what you have on
+Let's do it to the music
+Come bring your loving on
+My body's yearning for you, baby
+For a taste of your love
+Only you can fill this appetite
+Come on and satisfy my love
+
+
+(Baby tonight) baby tonight
+(The loving is right) the loving is right
+(You know how I like it)
+You know how I like it
+(You know how I want it)
+You know how I want it
+
+
+I like the way you tease me
+I like the way you squeeze me
+I like the way you touch me
+I like the way you sex me
+I like the way you tease me
+I like the way you squeeze me
+I like the way you touch me
+I like the way you sex me
+
+
+Baby, don't you hold back on me
+(Can't nobody do it like you do it)
+Give me everything you've got
+I wanna give you all my loving
+It will be good to the last drop
+Baby, don't you hold back on me
+Give me everything you've got
+I wanna give you all my loving
+It will be good to the last drop
+
+
+I like the way you tease me
+I like the way you squeeze me
+I like the way you touch me
+I like the way you sex me
+I like the way you tease me
+I like the way you squeeze me
+I like the way you touch me
+I like the way you sex me
+I like the way you tease me
+I like the way you squeeze me
+I like the way you touch me
+I like the way you sex me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somebody-s-watching-you-little-sister
+lyrics_url: https://www.musixmatch.com/lyrics/Little-Sister/Somebody-s-Watching-You
 name: Somebody's Watching You
 rankings:
 - end_date: '1970-12-18'
@@ -59,4 +60,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
 ---
+Pretty pretty pretty as a picture
+Witty witty witty as you can be
+Blind, 'cause your eyes see only glitter
+Closed to the things that make you free
 
+Ever stop to think about a downfall
+Happens at the end of every line
+Just when you think you pulled a fast one
+Happens to the foolish all the time
+
+Somebody's watching you
+Somebody's watching you
+Somebody's watching you
+Somebody's watching you
+
+Games are to be played with toys, etc.
+Love is to be made when you're for real
+Ups and downs are caused by life in general
+Some are yours no matter how you feel
+
+Shady as a lady in a moustache
+Feelings camouflaged by groans and grins
+Secrets have a special way about them
+Moving to and fro among your friends
+
+Somebody's watching you
+Somebody's watching you
+Somebody's watching you
+Somebody's watching you
+
+Live it up today if you want to
+Live it down tomorrow afternoon
+Sunday school don't make you cool forever
+And neither does the silver of your spoon
+
+The nicer the nice, the higher the price
+And that's what you pay for what you need
+The higher the price, the nicer the nice
+Jealous people like to see you bleed
+
+Somebody's watching you
+Somebody's watching you
+Somebody's watching you
+Somebody's watching you

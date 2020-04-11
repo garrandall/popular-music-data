@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-have-you-been-all-my-life-fotomaker
+lyrics_url: https://genius.com/Fotomaker-where-have-you-been-all-my-life-lyrics
 name: Where Have You Been All My Life
 rankings:
 - end_date: '1978-04-28'
@@ -31,4 +32,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-27'
 ---
+It used to be
+My life was like a puzzle in a million pieces
+And it seemed
+My purpose and my destiny were mysteries then
 
+Girl you came
+Into my life
+And you brought my heart a one way ticket
+Straight to paradise
+
+And just where have you been all my life?
+Tell me where have you been all my life?
+Girl just where have you been all my life?
+
+Once I believed
+My life was like a story book of empty pages
+But now I see
+All the years I spent in waiting were preparing me for you
+
+And it's true
+Love can make someone brand new
+'Cause I feel just like a newborn child
+Whenever I'm with you
+
+And just where have you been all my life?
+Tell me where have you been all my life?
+
+All my life I've been waiting
+All my life I've been waiting
+All my life I've been waiting
+Just for you
+
+Where were you all my life?
+
+All my life I've been waiting
+All my life I've been waiting
+All my life I've been waiting
+Just for you
+
+Where were you all my life?
+Tell me where have you been all my life?
+Girl just where have you been all my life?
+Tell me where have you been all my life?
+Girl just where have you been all my life?

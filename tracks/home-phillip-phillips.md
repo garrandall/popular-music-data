@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: home-phillip-phillips
+lyrics_url: https://genius.com/Phillip-phillips-home-lyrics
 name: Home
 rankings:
 - end_date: '2012-06-15'
@@ -167,4 +168,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-04-13'
 ---
+Hold on, to me as we go
+As we roll down this unfamiliar road
+And although this wave (wave) is stringing us along
+Just know you're not alone
+Cause I'm gonna make this place your home
 
+
+Settle down, it'll all be clear
+Don't pay no mind to the demons
+They fill you with fear
+The trouble it might drag you down
+If you get lost, you can always be found
+
+
+Just know you're not alone
+Cause I'm gonna make this place your home
+
+
+Ooo-oo-oo-oo-oo-oo-oo. Oo-oo-oo-oo
+Ooo-oo-oo-oo-oo-oo-oo
+Aaa-aa-aa-aa-aa-aa-aa. Aa-aa-aa-aaaaaa
+Aaa-aa-aa-aa-aa-aa-aa
+Aaa-aa-aa-aa-aa-aa-aa. Aa-aa-aa-aaaaaa
+Aaa-aa-aa-aa-aa-aa-aa
+Aaa-aa-aa-aa-aa-aa-aa
+
+
+Settle down, it'll all be clear
+Don't pay no mind to the demons
+They fill you with fear
+The trouble it might drag you down
+If you get lost, you can always be found
+
+
+Just know you're not alone
+Cause I'm gonna make this place your home
+
+
+Aaa-aa-aa-aa-aa-aa-aa. Aa-aa-aa-aaaaaa
+Aaa-aa-aa-aa-aa-aa-aa
+Aaa-aa-aa-aa-aa-aa-aa
+Aaa-aa-aa-aa-aa-aa-aa. Aa-aa-aa-aaaaaa
+Aaa-aa-aa-aa-aa-aa-aa
+
+
+Aaa-aa-aa-aa-aa-aa-aa
+
+
+Aaa-aa-aa-aa-aa-aa-aa. Aa-aa-aa-aaaaaa
+Aaa-aa-aa-aa-aa-aa-aa

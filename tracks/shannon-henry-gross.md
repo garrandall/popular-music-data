@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shannon-henry-gross
+lyrics_url: https://genius.com/Henry-gross-shannon-lyrics
 name: Shannon
 rankings:
 - end_date: '1976-03-05'
@@ -87,4 +88,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-07-10'
 ---
+Another day is at end
+Mama says she's tired again
+No one can even begin to tell her
+I hardly know what to say
+But maybe it's better that way
+If Papa were here I'm sure he'd tell her
 
+Shannon is gone, I hope she's drifting out to sea
+She always loved to swim away
+Maybe she'll find an island with a shaded tree
+Just like the one in our backyard
+
+Mama tries hard to pretend
+Things will get better again
+Somehow she's keeping it all inside her
+But finally the tears fill our eyes
+And I know that somewhere tonight
+She knows how much we really miss her
+
+Shannon is gone, I hope she's drifting out to sea
+She always loved to swim away
+Maybe she'll find an island with a shaded tree
+Just like the one in our backyard
+Just like the one in our backyard

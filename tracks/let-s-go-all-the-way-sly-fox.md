@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-go-all-the-way-sly-fox
+lyrics_url: https://genius.com/Sly-fox-us-duo-lets-go-all-the-way-lyrics
 name: Let's Go All The Way
 rankings:
 - end_date: '1986-01-03'
@@ -107,4 +108,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-06-14'
 ---
+Sitting with the thinker
+Just trying to work it out
+It's a traffic jam of the brain
+Makes you want to scream and shout
 
+Presidential party
+No one wants to dance
+Looking for a new star
+To put you in a trance
+
+Let's go all the way
+Let's go all the way
+(Yeah yeah yeah yeah yeah)
+Let's go all the way
+
+Workin' in a factory
+Eight days a week
+Tryin' to make dollar
+Down what a beat
+
+Cartoon capers
+Happen in reality
+Rich man poor man
+Livin' in fantasy
+
+Let's go all the way
+Let's go all the way
+(Ohh ohh ohh)
+Let's go all the way
+
+(Yeah yeah yeah)
+
+Livin' in New York
+Looks like an apple core (apple core)
+Asphalt jungle
+Got to be a man-of-war
+
+California dreamers
+Sinkin' in the sand (the sand the sand)
+The Hollywood squares are
+Living in Disneyland
+
+(Wheee ahhhhhh)
+Let's go all the way
+(Let's go all the way)
+Let's go all the way
+(Let's go all the way)
+(Ahh ahh ahh)
+Let's go all the way
+
+Let's go all the way
+
+Let's go all the way
+Let's go all the way
+We need heaven on earth today
+(Ahh ahh ahhhh)
+We can make a better way
+
+Let's go all the way
+
+Go all the way
+
+Let's go all the way
+(Yeah)
+
+Na na na na
+Na na na na
+Na na na na

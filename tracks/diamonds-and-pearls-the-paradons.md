@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: diamonds-and-pearls-the-paradons
+lyrics_url: https://www.musixmatch.com/lyrics/The-Paradons/Diamonds-and-Pearls
 name: Diamonds And Pearls
 rankings:
 - end_date: '1960-08-28'
@@ -71,4 +72,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
 ---
+There are diamonds pearls emeralds and rings
+None of these jewels show me a thing
+I want only only only I want your love
 
+Your eyes your lips set me on fire
+Your love your kiss my one desire
+I want only only only I want your love
+
+To hold me
+To kiss me
+To thrill me
+
+I don't want a chest full of gold
+Just want someone to have and to hold
+I want only only only I want your love

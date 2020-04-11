@@ -1,6 +1,6 @@
 ---
 artists:
-- Al Caiola And His Orchestra
+- Al Caiola
 features: []
 genres: []
 key: bonanza-al-caiola-and-his-orchestra

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-kid-s-american-matthew-wilder
+lyrics_url: https://genius.com/Matthew-wilder-the-kids-american-lyrics
 name: The Kid's American
 rankings:
 - end_date: '1984-02-24'
@@ -59,4 +60,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-05-12'
 ---
+Rocking with the top down
+Barrelling down Highway 9
+Picking up the same crowd
+By the exit sign
 
+Baby, gun your cares
+Paint your lips
+And it shines like glass
+
+Midnight riders
+Lovers
+And rock and roll
+Oh, yeah
+Yeah, yeah
+
+
+Gotta it in the blood
+The kid's American
+Underneath the hood
+You know
+
+The kid's American
+Cause he looks so good
+The kid's American
+Cruising faster than he should
+The kid's American
+
+
+Out behind the high school
+Smoking that cigarette
+Deep into the blue jeans
+And going to get deeper yet
+
+Oh, the night cougars
+Something's in the wind
+And it's coming fast
+Hold on, baby
+Try to take it slow
+Oh, no
+Yeah, yeah
+
+
+
+
+Dragging on all night
+Til there's nothing left
+By morning light
+Driving til your chassis bottoms out
+Oh, yeah

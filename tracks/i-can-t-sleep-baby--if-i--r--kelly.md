@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-sleep-baby--if-i--r--kelly
+lyrics_url: https://genius.com/R-kelly-i-cant-sleep-baby-remix-lyrics
 name: I Can't Sleep Baby (If I)
 rankings:
 - end_date: '1996-07-19'
@@ -87,4 +88,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-11-23'
 ---
+Baby I'm sorry
+Can't you find a way to somehow forgive me
+I never meant to touch you
 
+
+Somebody take my hand off
+Cause I never meant to hit you, babe
+I know I don't deserve another chance
+But I had to say it anyway
+
+
+I can't sleep
+I can't think
+I can't eat
+I'm so weak
+And I won't breathe again
+Breathe again
+Breathe again
+It was such a silly move I made
+On the only one who truly loves me
+Took advantage of the love you gave
+And turned around the truth
+Now look at me
+I can't sleep
+I can't think
+I can't eat
+I'm so weak
+And I can't breathe again
+Breathe again
+Breathe again
+Na, na, na, na, na, na, na
+Na, na, na, na, na, na, na
+Na, na, na, na, na, na, na
+Na, na, na, na, na, na, na
+
+
+Now I'm the nigga that you read about
+In those freaky magazines
+Sometimes I can't believe my ears
+And what they say about me
+Who gives a fuck about what they think
+Is what my OG used to say
+You just keep on doing your own thing boy
+And sing your praises up that way
+
+
+And you'll sleep
+And you'll think
+And you'll eat
+Won't be weak
+And you will breathe again
+Breathe again
+Breathe again
+Na, na, na, na, na, na, na
+Na, na, na, na, na, na, na
+Na, na, na, na, na, na, na
+Na, na, na, na, na, na, na
+Na, na, na, na, na, na, na
+Na, na, na, na, na, na, na
+Na, na, na, na, na, na, na
+Na, na, na, na, na, na, na
+You will breathe again
+Breathe again
+Breathe again
+Breathe again
+You will breathe again
+Breathe again
+Breathe again
+Breathe again
+You'll breathe again
+Breathe again
+Breathe again
+Breathe again
+You'll breathe
+You'll sleep
+You'll think
+Whoo
+Na, na, na, na, na, na, na

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-i-looked-at-him-expose
+lyrics_url: https://genius.com/Expose-when-i-looked-at-him-lyrics
 name: When I Looked At Him
 rankings:
 - end_date: '1989-08-25'
@@ -87,4 +88,105 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-12-30'
 ---
+Ooh
+Ooh, yeah
 
+I've never known someone before
+Who feels the way you do
+All my dreams somehow came true
+With you
+And I've never wanted someone more
+As much as I want you
+Love will last forever, it's true
+With you
+
+I will always fear
+(I will always fear)
+Awaking in the night
+And not having you by my side
+
+(It's not a dream)
+We all need love and understanding
+(We must break through)
+And make a love that's everlasting
+We'll be as one
+I can see it in your eyes
+
+(When I looked at him)
+When I looked at him
+(And he turned to me
+He said you're more than a friend)
+To love to need
+(When I looked at him)
+When I looked at him
+(And he held me so tight
+When I looked at him it's love)
+Eternally
+
+They say I should be acting cool
+They tell me I'm a fool
+But they don't see the things I see
+In you
+
+We cannot forget
+(We cannot forget)
+The changes we've been through
+I could never love someone new
+
+(Don't say goodbye)
+It would tear in two my heart
+(The time is right)
+And we could never be apart
+We'll be as one
+I can see it in your eyes
+
+(When I looked at him)
+When I looked at him
+(And he turned to me
+He said you're more than a friend)
+To love to need
+(When I looked at him)
+When I looked at him
+(And he held me so tight)
+When I looked at him it's love
+Eternally
+
+(It's not a dream)
+We all need love and understanding
+(We must break through)
+And make a love that's everlasting
+We'll be as one
+I can see it in your eyes
+
+(When I looked at him)
+When I
+(And he turned to me)
+Looked at him
+(He said you're more than a friend)
+To love
+(To love to need)
+To need
+(When I looked at him)
+When I looked at him
+(And he held me so tight)
+(When I looked at him it's love)
+Eternally
+
+(When I looked at him)
+When I looked at him
+(And he turned to me
+He said you're more than a friend)
+To love
+(To love to need)
+To need
+(When I looked at him
+And he held me so tight)
+Held me, held me tight
+(When I looked at him it's love)
+When I
+(Eternally)
+Looked at him
+
+(When I looked at him)
+When I looked at him
+(And he turned to me)

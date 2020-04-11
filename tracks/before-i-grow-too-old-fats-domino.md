@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: before-i-grow-too-old-fats-domino
+lyrics_url: https://genius.com/Fats-domino-before-i-grow-too-old-lyrics
 name: Before I Grow Too Old
 rankings:
 - end_date: '1960-05-15'
@@ -15,4 +16,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
 ---
+I'm goin' to go out dancin' every night
+And I'm gonna see all girls city lights
+And I'm gonna do everything that I've been told
+But I've got to hurry up before I grow too old
+And I'm gonna take a trip 'round the world
+And I'm gonna to kiss all girls pretty girls
+And I'm gonna do everything with silver and gold
+But I've got to hurry up before I grow too old
 
+Because I'm gonna do a lot of things
+I know that's wrong
+And I hope that I'm forgiven before I've gone
+And it will take a lot of prayers to save my soul
+But I've got to hurry up before I grow too old
+I'm gonna do a lot of things
+I know that's wrong
+So I hope that I'm forgiven before I've gone
+And it will take a lot of prayers to save my soul
+But I've got to hurry up before I grow too old

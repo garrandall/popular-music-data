@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-in-love-orchestral-manoeuvres-in-the-dark
+lyrics_url: https://genius.com/Orchestral-manoeuvres-in-the-dark-so-in-love-lyrics
 name: So In Love
 rankings:
 - end_date: '1985-09-06'
@@ -75,4 +76,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-12-21'
 ---
+Talk to me, don't lie to me
+Save your breath
 
+Don't look at me, don't smile at me
+Just close your eyes
+
+I was so impressed by you
+I was running blind
+I would fall for every trick
+Every twist of mind
+
+
+Heaven is cold
+Without any soul
+It's hard to believe
+I was so in love with you
+
+
+Don't say your prayers, don't build your hopes
+Just walk away
+
+Don't phone me up, don't call around
+Don't waste your time
+
+You were so in awe of me
+You were so divine
+You would do just anything
+To still be mine
+
+
+Heaven is cold
+Without any soul
+It's hard to believe
+I was so in love with you
+
+
+All the things you said to me
+I was so obsessed
+You were always talking talking
+God I did my best
+
+
+Heaven is cold
+Without any soul
+It's hard to believe
+I was so in love with you

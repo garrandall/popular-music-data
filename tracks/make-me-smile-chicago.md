@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-me-smile-chicago
+lyrics_url: https://genius.com/Chicago-ballet-for-a-girl-in-buchannon-i-make-me-smile-lyrics
 name: Make Me Smile
 rankings:
 - end_date: '1970-04-10'
@@ -63,4 +64,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-07-04'
 ---
+Children play in the park, they don't know
+I'm alone in the dark, even though
+Time and time again I see your face smiling inside
 
+
+I'm so happy
+That you love me
+Life is lovely
+When you're near me
+Tell me you will stay
+Make me smile
+
+
+Living life is just a game, so they say
+All the games we used to play fade away
+We may now enjoy the dreams we shared so long ago
+
+
+Oh my darling
+Got to have you
+Feel the magic
+When I hold you
+Cry sweet tears of joy
+Touch the sky
+
+
+
+
+
+
+Now I need you
+More than ever
+No more crying
+We're together
+Tell me you will stay
+Make me smile

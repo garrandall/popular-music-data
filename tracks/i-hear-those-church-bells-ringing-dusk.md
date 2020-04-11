@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-hear-those-church-bells-ringing-dusk
+lyrics_url: https://www.musixmatch.com/lyrics/Dusk-4/I-Hear-Those-Church-Bells-Ringing
 name: I Hear Those Church Bells Ringing
 rankings:
 - end_date: '1971-06-18'
@@ -59,4 +60,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
 ---
+You kiss me real good now
+Like I knew that you could now
+Time to do what you should now
+Because you're getting to me
 
+Oh, no, no, no, boy
+Got to take it real slow, boy
+This is far as we go, boy
+Until you hear what I hear
+
+I hear those church bells ringing
+Will you marry me
+Will you carry me
+Across the threshold tenderly
+
+I hear those church bells ringing
+Can't you hear them too
+Listen, honey
+Ringing, I love you
+
+Let's get it together
+The sooner the better
+God, I can't wait forever
+When I need you right now
+
+Ain't getting much stronger
+Can't resist you much longer
+To let you go would be wronger
+Than to love you right now
+
+I hear those church bells ringing
+Will you marry me
+Will you carry me
+Across the threshold tenderly, yeah
+
+I hear those church bells ringing
+Can't you hear them too
+Listen, honey
+Singing, I love you
+
+Oh, honey
+I hear those church bells ringing
+Will you marry me
+Will you carry me
+Across the threshold tenderly, yeah
+
+I hear those church bells ringing
+Can't you hear them too
+Listen, honey
+Singing, I love you
+
+I hear those church bells ringing
+Will you marry me...

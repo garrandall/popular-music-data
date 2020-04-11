@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-more-night-amber
+lyrics_url: https://genius.com/Amber-one-more-night-lyrics
 name: One More Night
 rankings:
 - end_date: '1997-10-24'
@@ -87,4 +88,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-02-28'
 ---
+One
+Baby I'm waiting
+One
+Baby I'm waiting
+Baby I'm waiting
+Baby I'm waiting
+I'm waiting
 
+One more night show me things that I never knew
+This night it felt right to be near you
+One more night give me all I want and some more
+Oh Baby I'm waiting
+
+Oh Baby I'm waiting
+Some thing in your eyes told me to stay
+I don't know where
+I'm sayin' goodbye
+But this day makes me sad
+Oh baby I do
+
+One more night this time
+I hold your body very close to mine
+You make me feel the tenderness you have inside of you
+So tell me the reason why
+This one more night
+Show me things that I never knew
+This night it felt right to be near you
+One more night give me all I want and some more
+
+One more night show me things that I never knew
+This night it felt right to be near you
+One more night give me all I want and some more
+Oh Baby I'm waiting
+Oh Baby I'm waiting
+Oh Baby I'm waiting
+Oh Baby I'm waiting
+Oh Baby I'm waiting
+Oh Baby I'm waiting
+Yeah yeah yeah
+
+I won't say goodbye
+To hear your heart beat close to mine
+Caught up in your magic and your passion
+Oh baby I see why
+One more night
+Show me things that I never knew
+This night it felt right to be near you
+One more night give me all I want and some more
+
+One more night show me things that I never knew
+This night it felt right to be near you
+One more night give me all I want and some more
+Oh Baby I'm waiting
+Oh Baby I'm waiting
+Oh Baby I'm waiting
+Oh Baby I'm waiting
+Oh Baby I'm waiting
+Oh Baby I'm waiting
+Yeah yeah yeah

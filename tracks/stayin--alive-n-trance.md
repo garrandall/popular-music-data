@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stayin--alive-n-trance
+lyrics_url: https://genius.com/N-trance-stayin-alive-lyrics
 name: Stayin' Alive
 rankings:
 - end_date: '1996-01-26'
@@ -75,4 +76,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-05-11'
 ---
+Now who got the fever for the flav'
+Who can dig da way that I flex on a track
+I'm causin' rampage
+Ricky Rick on point wid da 9-5 style from ma lips
+They'll be rollin' da mad joints
+So put ya hands in da air
+Coz there's a party over here
+So grab yourself a beer
+And we can get our fever on
+I'm wid it, so let me put my big brown beaver on
+I'm comin' wid da disco
+I can flip so
+I'm a drop the solo tip
+Somethin' for da honeys in da crowd
+Lend me yar ear so I can turn the party out
+Til tomorrow afternoon
+'cause when I grips ma steel, no one leaves da room
+So tell me can you feel the
+Mad skills comin' wid da fever fever fever
 
+Ah, ha, ha, ha, stayin' alive, stayin' alive
+Ah, ha, ha, ha, stayin' alive, stayin' alive
+Ah-ha, ha, ha, ha, stayin' alive, stayin' alive
+Ah, ha, ha, ha, stayin' alive
+
+Step to the side
+You'd better run and hide
+Move to the side
+Everybody wants to stay alive
+
+Everybody's in da house
+We had to run this back
+So you can break ya flares out
+N-Trance and da only one
+We got it goin' on
+So let me get ma flowin' on
+It's a blast from the past and ya heard o'
+Me and da boyz comin' down wid murder
+And its gotta be the way
+Everybody wants to make a move so just party
+And we can have a jam
+So get ya move on, I'm a take this groove and slam
+Flip it how we want it flipped
+From da back to the front when I drops me the manuscript
+'cause I got da moves
+And I'm always done ma flow with the crazy crazy grooves
+So tell me can you feel the
+Mad skills comin' wid da fever, fever, fever
+
+Ah, ha, ha, ha, stayin' alive, stayin' alive
+Ah, ha, ha, ha, stayin' alive, stayin' alive
+Ah-ha, ha, ha, ha, stayin' alive, stayin' alive
+Ah, ha, ha, ha, stayin' alive
+
+Step to the side
+You'd better run and hide
+Move to the side
+Everybody wants to stay alive
+
+Everybody in da house come on an let me hear ya say oh ho
+(OH HO)
+Everybody in da house come on an let me hear ya say ho ho
+(HO HO)
+Everybody in da house come on an let me hear ya say oh ho
+(OH HO)
+Everybody in da house come on an let me hear ya say ho ho ho
+(HO HO HO)
+
+It's about time everybody in da house
+Bust a move to ma vicious raw rhymes
+Ricky Rick on a tip wid ma boys
+Bringin' disco noise as I drop da wickedness
+Gettin' sharp wid da flow
+We took a Bee Gees loop and broke it down like Lego
+A disco lick that's deeper
+'cause we gotta get wid da fever, fever, fever

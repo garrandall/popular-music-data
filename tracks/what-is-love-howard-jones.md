@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-is-love-howard-jones
+lyrics_url: https://genius.com/Howard-jones-what-is-love-lyrics
 name: What Is Love
 rankings:
 - end_date: '1984-04-27'
@@ -59,4 +60,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-07-14'
 ---
+I love you whether or not you love me
+I love you even if you think that I don't
+Sometimes I find you doubt my love for you
+But I don't mind
+Why should I mind
+Why should I mind
 
+What is love anyway
+Does anybody love anybody anyway
+What is love anyway
+Does anybody love anybody anyway
+
+Can anybody love anyone so much that they will never fear
+Never worry never be sad
+The answer is they cannot love this much nobody can
+This is why I don't mind you doubting
+
+What is love anyway
+Does anybody love anybody anyway
+What is love anyway
+Does anybody love anybody anyway
+
+And maybe love is letting people be just what they want to be
+The door always must be left unlocked
+To love when circumstance may lead someone away from you
+And not to spend the time just doubting
+
+What is love anyway
+Does anybody love anybody anyway
+What is love anyway
+Does anybody love anybody anyway
+
+What is love anyway
+Does anybody love anybody anyway
+What is love anyway
+Does anybody love anybody anyway
+
+What is love anyway
+Does anybody love anybody anyway
+What is love anyway
+Does anybody love anybody anyway
+
+What is love anyway
+Does anybody love anybody anyway
+What is love anyway
+Does anybody love anybody anyway
+What is love anyway
+Does anybody love anybody anyway
+What is love anyway
+Does anybody love anybody anyway
+What is love anyway
+Does anybody love anybody anyway

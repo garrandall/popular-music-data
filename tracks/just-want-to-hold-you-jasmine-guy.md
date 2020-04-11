@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-want-to-hold-you-jasmine-guy
+lyrics_url: https://genius.com/Jasmine-guy-just-want-to-hold-you-lyrics
 name: Just Want To Hold You
 rankings:
 - end_date: '1991-08-09'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-12-14'
 ---
+You're the very best
+I ever had
+But I don't want to move too fast
+No
 
+Too soon to let
+Our true feelings show
+And if we make love now
+Then you'll never know
+
+
+That I
+I just want to hold you
+And I
+I never told you
+
+That I
+I want this love to last
+So let's not move too fast
+
+
+I love you more than
+Than making love
+So tell me
+What you're thinking of
+
+Am I more than just a fantasy?
+'Cause I'm hurting, boy
+Can't you see?
+Ooh
+
+
+
+
+I want you
+I want you
+I need you
+I need you
+And I'll be yours for the rest of my life
+
+I want you
+I want you
+Yes, I need you
+Oh, I need you, baby
+And I'll be yours for the rest of my life
+
+
+
+Slow it down
+Slow it down
+You're moving too fast for me

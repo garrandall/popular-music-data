@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-everything-keith-urban
+lyrics_url: https://genius.com/Keith-urban-your-everything-lyrics
 name: Your Everything
 rankings:
 - end_date: '2000-07-21'
@@ -71,4 +72,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-10-28'
 ---
+The first time I looked in your eyes I knew
+That I would do anything for you
+The first time you touched my face I felt
+Like I've never felt with anyone else
 
+
+I wanna give back what you've giving to me
+And I wanna witness all of your dreams
+Now that you've shown me who I really am
+I wanna be more than just your man
+
+
+I wanna be the wind that fills your sails
+And be the hand that lifts your veil
+And be the moon that moves your tide
+The sun coming up in your eyes
+Be the wheels that never rust
+And be the spark that lights you up
+All that you've been dreaming of and more
+So much more, I wanna be your everything
+
+
+When you wake up, I'll be the first thing you see
+And when it gets dark you can reach out for me
+I'll cherish your words and I'll finish your thoughts
+And I'll be your compass baby, when you get lost
+
+
+I wanna be the wind that fills your sails
+And be the hand that lifts your veil
+And be the moon that moves your tide
+The sun coming up in your eyes
+Be the wheels that never rust
+And be the spark that lights you up
+All that you've been dreaming of and more
+So much more, I wanna be your everything
+
+
+Be the wheels that never rust
+And be the spark that lights you up
+All that you've been dreaming of and more
+So much more, I wanna be your everything
+I wanna be your everything

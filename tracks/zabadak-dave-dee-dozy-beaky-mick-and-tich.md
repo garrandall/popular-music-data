@@ -7,6 +7,7 @@ artists:
 features: []
 genres: []
 key: zabadak-dave-dee-dozy-beaky-mick-and-tich
+lyrics_url: https://genius.com/Dave-dee-dozy-beaky-mick-and-tich-zabadak-lyrics
 name: Zabadak
 rankings:
 - end_date: '1968-01-12'
@@ -34,4 +35,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
 ---
+Zabadak, Zabadak
+Karakakora kakarakak
+Zabadak
+Shai shai skagalak
 
+Zabadak, Zabadak
+Karakakora kakarakak
+Zabadak
+Shai shai skagalak
+
+Zabadak, Zabadak
+Karakakora kakarakak
+Zabadak
+Shai shai skagalak
+
+Look for meaning not in words
+But in the way you're feeling
+If it's love we'll understand
+For love is all revealing
+
+Like a rhythm like a spell
+It sets your soul in motion
+Love that's sure could rule the world
+A tide to turn an ocean
+
+Zabadak, Zabadak
+Karakakora kakarakak
+Zabadak
+Shai shai skagalak
+
+Zabadak, Zabadak
+Karakakora kakarakak
+Zabadak
+Shai shai skagalak
+
+Zabadak, Zabadak
+Karakakora kakarakak

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: charlena-the-sevilles
+lyrics_url: https://www.musixmatch.com/lyrics/The-Sevilles/Charlena
 name: Charlena
 rankings:
 - end_date: '1961-01-29'
@@ -27,4 +28,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-20'
 ---
+Oh, Charlena,
+Oh, Charlena,
 
+Big brown eyes,
+Long brown hair,
+Charlena,
+Charlena, don't you know I care?
+
+Fine, fine, fine,
+Please be mine,
+Charlena.
+
+Oh, how I love you,
+Oh, how I love you,
+Please behave,
+Don't go away.
+Charlena,
+Charlena baby, don't you play.
+
+Fine, fine, fine,
+Please be mine,
+Charlena.
+Oh Charlena.
+
+Oh, Charlena,
+Oh, Charlena.
+Big brown eyes,
+Long brown hair,
+Charlena,
+Charlena, don't you know I care?
+
+Fine, fine, fine,
+Please be mine,
+Charlena.
+
+Fine, fine, fine,
+Please be mine,
+Charlena.
+
+Charlena,
+Charlena,
+Charlena,
+Don't you know I care.
+You know I cry.
+Charlena.
+Whoah!

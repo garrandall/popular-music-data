@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: my-sweet-potato-booker-t--the-mg-s
+lyrics_url: https://genius.com/Booker-t-and-the-mgs-my-sweet-potato-lyrics
 name: My Sweet Potato
 rankings:
 - end_date: '1966-09-09'
@@ -28,4 +29,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
 ---
-
+Instrumental

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goodbye-time-blake-shelton
+lyrics_url: https://genius.com/Blake-shelton-goodbye-time-lyrics
 name: Goodbye Time
 rankings:
 - end_date: '2005-06-17'
@@ -43,4 +44,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-08-06'
 ---
+It's your life, you say you need a change
+Don't all the dreams we've seen come true mean anything
+You say it's different now and you keep starin' at the door
+How can you walk away, don't I matter anymore
 
+
+If bein' free's worth what you leave behind
+And if it's too late for love to change your mind
+Then it's goodbye time
+
+
+If we had known our love would come to this
+We could have saved our hearts the hurt of wasted years
+Well it's been fun, what else can I say
+If the feeling's gone words won't stop you anyway
+
+
+If bein' free's worth what you leave behind
+And if it's too late for love to change your mind
+Then it's goodbye time
+
+
+Goodbye, Baby

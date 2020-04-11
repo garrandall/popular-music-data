@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-nobody-till-somebody-loves-you-dean-martin
+lyrics_url: https://genius.com/Dean-martin-youre-nobody-till-somebody-loves-you-lyrics
 name: You're Nobody Till Somebody Loves You
 rankings:
 - end_date: '1964-12-18'
@@ -43,4 +44,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
 ---
+You're nobody til somebody loves you
+You're nobody til somebody cares
+You may be king, you may possess the world and it's gold
+But gold won't bring you happiness when you're growing old
+The world still is the same, you never change it
+As sure as the stars shine above
+You're nobody til somebody loves you
+So find yourself somebody to love
 
+The world still is the same, you never change it
+As sure as the stars shine above
+Well, you're nobody til somebody loves you
+So find yourself somebody to love

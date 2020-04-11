@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-believe-in-you-and-me-whitney-houston
+lyrics_url: https://genius.com/Whitney-houston-i-believe-in-you-and-me-film-version-lyrics
 name: I Believe In You And Me
 rankings:
 - end_date: '1997-01-03'
@@ -87,4 +88,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-05-10'
 ---
+I believe In you and me
+I believe that we will be
+In love eternally
+Well as far as I can see
+You will always be the one
+For me
+Oh yes, you will
 
+
+I believe in dreams again
+I believe that love will never end
+And like the river finds the sea
+I was lost, now I'm free
+'Cause I believe In you and me
+
+
+I will never leave your side
+I will never hurt your pride
+When all the chips are down
+I will always be around
+Just to be right where you are
+My love, oh, you know I love you, boy
+I will never leave you out
+I will always let you in
+To places no-one's ever been
+Deep inside, can't you see?
+That I believe in you and me
+
+
+Well, maybe I'm a fool
+To feel the way I do
+But I will play the fool forever
+Just to be with you forever
+
+
+I believe in miracles
+And love is the miracle
+And yes, baby you're my dream come true
+I was lost, now I'm free
+Oh, darling
+I believe in you and me
+See, I was lost, now I'm free
+'Cause I believe in you and me

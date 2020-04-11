@@ -1,6 +1,6 @@
 ---
 artists:
-- The Jive Five With Joe Rene And Orchestra
+- The Jive Five
 features: []
 genres: []
 key: my-true-story-the-jive-five-with-joe-rene-and-orchestra

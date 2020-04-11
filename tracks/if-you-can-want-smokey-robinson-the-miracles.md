@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: if-you-can-want-smokey-robinson-the-miracles
+lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/ifyoucanwant.html
 name: If You Can Want
 rankings:
 - end_date: '1968-03-01'
@@ -56,4 +57,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
 ---
+Oh you may not love me now but I'm stayin' around
+'Cause you want my company
+Just like push can turn to shove, like can turn to love
+It's my philosophy that
 
+If you can want, you can need
+And if you can need, you can care
+If you can care, you can love, now
+So when you want me, I'll be there
+Said whenever you want me, I'll be there
+
+Oh now this may take some time, if time was money
+I would be a millionaire
+So whenever you want me, call any time at all
+And for sure I'll be right there, 'cause
+
+If you can want, you can need
+And if you can need baby, you can care
+If you can care, you can love
+So when you want me, I'll be there
+I'll be there whenever you want me, oh yeah
+
+I'll be standin' by, not far way
+Let your heart give me a sign
+'Cause I'm prepared to wait until I abdicate
+When you want me all the time, 'cause
+
+You can want, you can need
+If you can need baby, you can care
+If you can care baby you can love
+So when you want me, I'll be there
+I'll be there whenever you want me
+
+You can want, you can need
+And if you can need baby, you can care

@@ -50,15 +50,15 @@ rankings:
   start_date: '1997-11-01'
 ---
 
-{Mmm, mmm} Enough of the break up {Yeah, hea}
+ Enough of the break up
 Girl, let's deal with the make up
 Alimony mean all the money
 Ha, ha, ha, ha
 
-Didn't I make you feel {Didn't I make you feel}
-Like you were the only man {You were the only man} (The only man in you life)
+Didn't I make you feel
+Like you were the only man  (The only man in you life)
 Didn't I give you everything
-That a woman possibly can {Oh, yes I did} (Mmm)
+That a woman possibly can  (Mmm)
 
 But for all the love I gave ya
 It's never enough (Not enough)
@@ -70,16 +70,16 @@ So what, you have me under pressure
 Despite the fact say in life you give me pleasure
 I'm the only man and I possess the keys to you treasure
 So give the contender on the trail
-Captivate your mind, I'll make your heart grow fonder {Ooh..}
+Captivate your mind, I'll make your heart grow fonder
 Still you're trying to find out whose covers that I'm under
-So you start to wonder, heart beat like thunder {Yeah}
+So you start to wonder, heart beat like thunder
 So I blow my cover
 'Cause I'm the great pretender, girl, surrender, yeah
 
-{Take it} Take another little piece of my heart now, baby
-{Oh, oh, break it} Break another little bit of my heart now, honey
+ Take another little piece of my heart now, baby
+ Break another little bit of my heart now, honey
 (Hey, darling, give it up, give it up, give it up)
-{Oh, oh, have it} Have another little bit of my heart now, baby
+ Have another little bit of my heart now, baby
 You know you got it if it makes you feel good
 
 You play detective boo, want a new suit
@@ -91,34 +91,34 @@ Easy on the tears, oops, man, you soil my suit
 Do yourself a favor and find a new recruit
 And don't take it personal because you got the boot
 
-You're out on the streets {Looking good} (Absolutely)
+You're out on the streets  (Absolutely)
 And you know deep down in you heart that that ain't right (Come on, come on)
-And, oh, you never, never hear me when I cry at night {Oh oh oh oh oh}
+And, oh, you never, never hear me when I cry at night
 I tell myself, that I can stand the pain
-But when you hold me in your arms (Yeah) I sing it again {Say it again}
+But when you hold me in your arms (Yeah) I sing it again
 So come on, come on, come on, come on (So what?) and
 
-{Take it} Take another little piece of my heart now, baby {Why don't you}
-{Oh, oh, break it} Break another little bit of my heart now, honey (I don't think you know)
-{Oh, oh, have it} Have another little bit of my heart now, baby
+ Take another little piece of my heart now, baby
+ Break another little bit of my heart now, honey (I don't think you know)
+ Have another little bit of my heart now, baby
 You know you got it if it makes you feel good
 
-I can make you {Ooh}, you can make me {Ah}
+I can make you , you can make me
 Anyway you want it, baby, we can do it right
 Jump out a the frying pan and straight down in a the fire
 I'm Mr. Gigolo, your most notorious liar
-Ex-amount of loving you get what me did require {Ooh}
+Ex-amount of loving you get what me did require
 Your personal attendant, well, my love is not for hire
 Girl, search yourself, 'cause I'm you heart's desire
 25 girls in a my life, don't want a wife, I need a lover, yeah
 
-{Take it} Take another little piece of my heart now, baby
-{Oh, oh, break it} Break another little bit of my heart now, honey
+ Take another little piece of my heart now, baby
+ Break another little bit of my heart now, honey
 (I got your heart, I got your heart, girl)
-{Oh, oh, have it} (Shoop) Have another little bit of my heart now, baby
+ (Shoop) Have another little bit of my heart now, baby
 You know you got it if it makes you feel good
 
-{Ooh, ah}
+
 Rock, baby
 
 

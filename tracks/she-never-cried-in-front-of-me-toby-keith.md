@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-never-cried-in-front-of-me-toby-keith
+lyrics_url: https://genius.com/Toby-keith-she-never-cried-in-front-of-me-lyrics
 name: She Never Cried In Front Of Me
 rankings:
 - end_date: '2008-08-01'
@@ -87,4 +88,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-12-06'
 ---
+Seven Thirty-five
+She's someone else’s wife
+I can get on with my life
+And that thrills me
+She married him today
+Her daddy gave the bride away
+I heard a tear roll down her face
+And that kills me
 
+
+'Cause now I
+Can see why
+She's finally crying
+
+
+How was I supposed to know?
+She was slowly letting go?
+If I was putting her through her hell
+Hell I couldn't tell
+She could've given me a sign
+Could've opened up my eyes
+How was I supposed to see?
+She never cried in front of me
+
+
+Yeah, maybe I might’ve changed
+It's hard for me to say
+But the story's still the same
+It's a sad one
+And I'll always believe
+If she ever did cry for me
+They were tears that you can't see
+You know the bad ones
+
+
+And now I
+Can see why
+She's finally crying
+
+
+How was I supposed to know?
+She was slowly letting go?
+If I was putting her through her hell
+Hell I couldn't tell
+She could've given me a sign
+Could've opened up my eyes
+How was I supposed to see?
+She never cried in front of me
+
+
+Without a doubt
+I know now
+How it outta be
+Now she's gone
+And it's wrong
+And it bothers me
+Tomorrow I'll still be
+Asking myself
+
+
+How was I supposed to know?
+She was slowly letting go?
+If I was putting her through her hell
+Hell I couldn't tell
+She could've given me a sign
+Could've opened up my eyes
+How was I supposed to see?
+How was I supposed to see?
+She never cried in front of me
+Hell I couldn't tell

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-tango-bill-black-s-combo
+lyrics_url: https://genius.com/Bill-blacks-combo-blue-tango-lyrics
 name: Blue Tango
 rankings:
 - end_date: '1960-12-04'
@@ -47,4 +48,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
 ---
-
+Here am I with you in a world of blue
+And we're dancing to the tango we loved when first we met
+While the music plays, we recall the days
+When our love was a tune that we couldn't soon forget
+As I kiss your cheek, we don't have to speak
+The violins, like a choir, express the desire
+We used to know not long ago
+So just hold me tight in your arms tonight

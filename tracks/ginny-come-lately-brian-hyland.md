@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ginny-come-lately-brian-hyland
+lyrics_url: https://genius.com/Brian-hyland-ginny-come-lately-lyrics
 name: Ginny Come Lately
 rankings:
 - end_date: '1962-03-16'
@@ -51,4 +52,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-05-19'
 ---
+I only met you just a couple of days ago
+I only met you and I want your lovin' so
+Ginny-Come-Lately, sweet, sweet as can be-ee-ee-ee
+You may have come lately but Ginny-Come-Lately
+You're the one for me
 
+I only had to see the sunlight in your hair
+Your soft, soft silhouette to know I'd always care
+Ginny-Come-Lately, sweet, sweet as can be-ee-ee-ee
+You may have come lately but Ginny-Come-Lately
+You're the one for me
+
+You only had to smile a little smile
+Do nothing more than look at me
+You only had to smile and in a little while
+I was dreamin' recklessly-ee-ee-ee
+
+I only met you just a couple of days ago
+And oh, my love for you has no more room to grow
+Ginny-Come-Lately, my dream come true-ooh-ooh-ooh
+You may have come lately but Ginny-Come-Lately
+I'm in love with you

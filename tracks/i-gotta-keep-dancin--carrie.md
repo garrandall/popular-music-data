@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-gotta-keep-dancin--carrie
+lyrics_url: https://genius.com/Carrie-lucas-i-gotta-keep-dancin-lyrics
 name: I Gotta Keep Dancin'
 rankings:
 - end_date: '1977-05-06'
@@ -39,4 +40,142 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-06-18'
 ---
+Keep on dancing
+Do do do, yeah, yeah, yeah
+Keep on smiling
+Do do do, yeah, yeah, yeah
+Keep on dancing
+Do do do, yeah, yeah, yeah
+Keep on smiling
+Do do do, yeah, yeah, yeah
 
+
+Body began to spin
+Please help me pretend
+That I don't see
+Who just walked in the door
+
+I'm weak in the knees
+But I gotta make believe
+That I'm hurt free
+I just can't let him know
+That my heart is breaking apart
+Music, rescue me
+
+
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To keep from breaking apart
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To cover up my broken heart
+
+Don't let the music stop
+I've gotta camouflage my feelings
+He's not here with me
+
+I should have known
+That I never should
+Have come to the party
+I must listen to the beat
+Music, can you take my away
+Help me hide the pain
+
+
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To keep from breaking apart
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To cover up my broken heart
+
+Don't let the music stop
+I've gotta camouflage my feelings
+He's not here with me
+
+I should have known
+That I never should
+Have come to the party
+I must listen to the beat
+
+Music, can you take my away
+Help me hide the pain
+
+
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To keep from breaking apart
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To cover up my broken heart
+
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To keep from breaking apart
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To cover up my broken heart
+
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To keep from breaking apart
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To cover up my broken heart
+
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To keep from breaking apart
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To cover up my broken heart
+
+Keep on dancing
+Do do do do, yeah
+Keep on smiling
+Do do do do, yeah
+
+
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To keep from breaking apart
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To cover up my broken heart
+
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To keep from breaking apart
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To cover up my broken heart
+
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To keep from breaking apart
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To cover up my broken heart
+
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To keep from breaking apart
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To cover up my broken heart
+
+Keep on dancing
+Do do do do, yeah
+Keep on smiling
+Do do do do, yeah
+
+
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To keep from breaking apart
+I gotta keep dancing (keep dancing)
+Smiling (keep smiling)
+To cover up my broken heart
+Keep on dancing
+Do do do, yeah, yeah, yeah
+Keep on smiling

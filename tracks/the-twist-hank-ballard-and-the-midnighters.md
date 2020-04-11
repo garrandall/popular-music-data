@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-twist-hank-ballard-and-the-midnighters
+lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-the-twist-lyrics
 name: The Twist
 rankings:
 - end_date: '1960-07-24'
@@ -71,4 +72,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-31'
 ---
+Come on, baby, let's do the twist
+Come on, baby, let's do the twist
+Take me by my little hand and go like this
 
+Yeah, twist, baby, baby
+Twist, ooh yeah, just like this
+Come on, little miss, and do the twist
+
+My daddy is sleepin' and mama ain't around
+Yeah, daddy's just sleepin' and mama ain't around
+We're gonna twisty, twisty, twisty
+Till we tear the house down
+
+Come on and twist, yeah, baby
+Twist, ooh yeah, just like this
+Come on, little miss, and do the twist, yeah
+
+Yeah, you should see my little sis
+You should see my, my little sis
+She really knows how to rock
+She knows how to twist
+
+Come on and twist, yeah, baby
+Twist, ooh yeah, just like this
+Come on, little miss, and do the twist
+
+Yeah, rock on now
+Yeah, twist on now, twist

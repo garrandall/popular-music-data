@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-thing-of-the-past-the-shirelles
+lyrics_url: https://genius.com/The-shirelles-a-thing-of-the-past-lyrics
 name: A Thing Of The Past
 rankings:
 - end_date: '1961-07-16'
@@ -39,4 +40,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-28'
 ---
+Our love's becoming a thing of the past (x2)
+Your kisses taste like it's goodbye
+My eyes know they're gonna cry
+I feel I'm losing you too fast, oh yeah
+And our love's becoming a thing of the past
 
+What happened to those happy hours
+And where is the sweet bouquet of flowers
+I'm so afraid the die is cast, oh yeah
+And our love's becoming a thing of the past
+
+You used to call me your sugar baby
+Now I say call me, you tell me maybe
+If you don't love me, stop pretending
+Who needs a book with a heartbreak ending
+
+This is the moment to decide
+Don't be influenced by foolish pride
+Let's try to make our little love last, oh yeah
+Because our love's becoming a thing of the past
+Remember, every other time we love
+Our love's becoming a thing of the past
+Darlin', tell me I've been dreamin' 'bout it
+Our love's becoming a thing of the past

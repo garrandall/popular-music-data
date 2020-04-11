@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-your-monkey-do-the-dog-rufus-thomas
+lyrics_url: https://genius.com/Rufus-thomas-can-your-monkey-do-the-dog-lyrics
 name: Can Your Monkey Do The Dog
 rankings:
 - end_date: '1964-02-07'
@@ -43,4 +44,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
 ---
+E-I-E-I-O
+Can your monkey do the dog
+Can your monkey do
+Can your monkey do the dog
+Can your monkey do the dog
+Well, my dog can monkey just like you
+But can your monkey do the do the do the dog like I do?
 
+He can shake it to the east
+He can shake it to the west
+He can shake it to the poodle dog
+That he loves the best
+Well, my dog can monkey just like you
+But can your monkey do the do the do the dog like I do?
+
+Can he prarie dog?
+Can he hound dog?
+Can he poodle dog?
+Can your monkey walk his dog?
+Walkin' the dog
+Just walkin' the dog
+Well, my dog can do any dance he wants to do
+But can your monkey do the do the do the dog like I do?
+
+Bring your monkey, I'll bring my dog
+Bring your monkey, I'll bring my dog
+Oh baby, come on child
+Bring your monkey, race a while
+Well, my dog can monkey just like you
+But can your monkey do the do the do the dog like I do?
+
+Can your monkey monkey monkey do the dog, do the dog?
+Can your monkey monkey monkey do the dog, do the dog?
+Can your monkey monkey monkey do the dog, do the dog?
+Can your monkey monkey monkey do the dog, do the dog?
+My dog can monkey just like you
+But can your monkey do the do the do the dog like I do?
+
+Bring your monkey, I'll bring my dog
+Bring your monkey, I'll bring my dog
+Bring your monkey, I'll bring my dog
+Bring your monkey, I'll bring my dog

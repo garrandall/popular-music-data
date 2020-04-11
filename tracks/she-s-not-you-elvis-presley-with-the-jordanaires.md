@@ -1,9 +1,11 @@
 ---
 artists:
-- Elvis Presley With The Jordanaires
+- Elvis Presley
+- The Jordanaires
 features: []
 genres: []
 key: she-s-not-you-elvis-presley-with-the-jordanaires
+lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-with-The-Jordanaires/She-s-Not-You
 name: She's Not You
 rankings:
 - end_date: '1962-08-10'
@@ -47,4 +49,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
 ---
+Her hair is soft and her eyes are oh so blue
+She's all the things a girl should be,
+But she's not you.
 
+She knows just how to make me laugh when I feel blue
+She's ev'rything a man could want,
+But she's not you.
+
+And when we're dancing
+It almost feels the same
+I've got to stop myself from
+Whisp'ring your name
+
+She even kisses me like you used to do.
+And it's just breaking my heart
+Cause she's not you.
+
+And it's just breaking my heart
+Cause she's not you
+
+And when we're dancing
+It almost feels the same
+I've got to stop myself from
+Whisp'ring your name
+
+She even kisses me like you used to do.
+And it's just breaking my heart
+Cause she's not you.

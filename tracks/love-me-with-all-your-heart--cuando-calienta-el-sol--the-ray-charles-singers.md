@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-with-all-your-heart--cuando-calienta-el-sol--the-ray-charles-singers
+lyrics_url: https://genius.com/Ray-charles-singers-love-me-with-all-your-heart-cuando-calienta-el-sol-lyrics
 name: Love Me With All Your Heart (Cuando Calienta El Sol)
 rankings:
 - end_date: '1964-04-17'
@@ -67,4 +68,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-18'
 ---
-
+Ray Charles Singers
+Miscellaneous
+Love Me With All Your Heart (cuando Calienta El Sol)
+Love Me With All Your Heart (Cuando Calienta El Sol)
+The Ray Charles Singers
+M. Vaughan
+(Aaaah, Aaaah)
+Love me with all of your heart, that's all I want dear
+Love me with all of your heart or not at all
+Just promise me this: that you'll give me all your kisses every
+Winter, every summer, every fall
+When we are far apart or when you're near me
+Love me with all of your heart as I love you
+Don't give me your love for a moment or an hour
+Love me always as you loved me from the start:
+With every beat of your heart
+(Aaaah, Aaaah)
+When we are far apart or when you're near me
+Love me with all your heart as I love you
+Don't give me your love for a moment or an hour
+Love me always as you loved me from the start:
+With every beat of your heart
+With every beat of your heart
+With every beat of your heaaarrrt
+(Aaaaaaaah)

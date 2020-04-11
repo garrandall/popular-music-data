@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-on-to-my-love-jimmy-ruffin
+lyrics_url: https://genius.com/Jimmy-ruffin-hold-on-to-my-love-lyrics
 name: Hold On To My Love
 rankings:
 - end_date: '1980-03-07'
@@ -63,4 +64,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-31'
 ---
+Today you came by to tell me you are leaving me
+And to say that the love
+And all that we knew had just drifted away
+And I look in your eyes
+And I couldn't bear the pain I felt inside of my heart
+To think that I'm gonna be lonely again
+And if ever you go then I know at a glance
+I don't stand a chance
 
+Hold on to my love I'm nothing
+And I can't get along without you
+You're the light of my life
+And no living without your love
+
+It's so hard to believe that you're going away
+Couldn't make me feel so down
+'cause I know that from this moment on I won't have you around
+And if ever you go then I know at a glance
+That won't stand a chance
+
+Hold on to my love I'm nothing
+And I can't get along without you
+You're the light of my life
+And no living without your love
+
+Oh oh baby
+Nobody's taking your place
+But for you , but for me
+Our love would live on for the whole world to see
+
+So hold on to my love , I'm nothing
+And I can't get along without you
+You're the light of my life
+And no living without your love

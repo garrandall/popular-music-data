@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: understand-this-groove-sound-factory
+lyrics_url: https://www.musixmatch.com/lyrics/Sound-Factory/Understand-This-Groove
 name: Understand This Groove
 rankings:
 - end_date: '1993-01-01'
@@ -75,4 +76,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-04-17'
 ---
+Understand this groove
+Understand this groove
 
+I know you want me to move
+
+Understand this groove
+Understand this groove
+
+I know you want me to move
+
+Understand this groove
+Understand this groove
+Understand this groove
+Understand this groove
+Understand this groove
+Understand this groove

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-you-are-martina-mcbride
+lyrics_url: https://genius.com/Martina-mcbride-there-you-are-lyrics
 name: There You Are
 rankings:
 - end_date: '2000-09-15'
@@ -59,4 +60,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-12-02'
 ---
+There you are in the early light of day
+There you are in the quiet words I pray
+I've been blessed by the simple happiness
+Of the perfect love we've made
 
+
+Every time I turn around
+When I'm lost and when I'm found
+Like an angel standing guard
+There you are
+Every time I take a breath
+And when I forget to breathe
+You're watching over me
+There you are
+
+
+When I'm looking for the light
+In the middle of the night
+Searching for the brightest star
+There you are
+
+
+There you are in standing in a crowded room
+There you are the earth and I'm the moon
+My desire is to stand by the fire
+That burns inside of you
+
+
+
+
+
+
+There you are
+There you are

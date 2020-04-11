@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-timin--jimmy-jones
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Jones/Good-Timin
 name: Good Timin'
 rankings:
 - end_date: '1960-04-24'
@@ -67,4 +68,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-07-25'
 ---
-
+Oh, you need timin'
+A tick, a tick, a tick, good timin'
+A tock, a tock, a tock, a tock
+A timin' is the thing
+It's true, good timin' brought me to you
+If little, little David hadn't grabbed that stone
+Alyin' there on the ground
+Big Goliath might've stomped on him
+Instead of the other way 'round
+But he had timin'
+A tick, a tick, a tick, good timin'
+A tock, a tock, a tock, a tock
+A timin' is the thing
+It's true, good timin' brought me to you
+Who in the world would've ever known
+What Columbus could do
+If Queen Isabella hadn't hocked her jewels
+In fourteen ninety two
+But she had timin'
+A tick, a tick, a tick, good timin'
+A tock, a tock, a tock, a tock
+A timin' is the thing
+It's true, good timin' brought me to you
+What would've happened if you and I
+Hadn't just happened to meet
+We might've spent the rest of our lives
+Walkin' down Misery Street
+But we had timin'
+A tick, a tick, a tick, good timin'
+A tock, a tock, a tock, a tock
+A timin' is the thing
+It's true, good timin' brought me to you
+Yeah, we had timin'
+Whoa, whoa, whoa, good timin'
+Yeah, yeah, yeah, yeah, timin' is the thing
+It's true, good timin' brought me to you
+Yeah, we had timin'
+Whoa, whoa, whoa, good timin'
+Yeah, yeah, yeah, yeah, timin' is the thing
+It's true, good timin' brought me to you

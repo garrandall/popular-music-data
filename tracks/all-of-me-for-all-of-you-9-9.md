@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-of-me-for-all-of-you-9-9
+lyrics_url: https://www.musixmatch.com/lyrics/9-9/All-of-Me-for-All-of-You
 name: All Of Me For All Of You
 rankings:
 - end_date: '1985-08-30'
@@ -59,4 +60,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-16'
 ---
+All of me for all of you
+Nothing less will ever do
+I can't give you all of me
+Not for half of you
+All of you for all of me
+That's the way it's got to be
+I won't give you all of me
+Not for half of you
+This is the beginning
+Of a love for us
+We're holding, squeezing
+Talking that lovey stuff
+I need you, want you
+Hoping anyone should be
+Allowed to need a love
+Anything
+Bring to me the
+Same thing I'm bringing
+Oh, by the way
+One more thing, it's
 
+This is the beginning
+Of a me and you
+Kissy, kissy, kissy
+Meaning I love you
+Huggy, huggy meaning
+No one else will do
+I'm your baby as long
+As you're my baby too
+Let's make this an adventure
+Not a trip
+
+That ain't really love
+All of me for all of you
+Nothing less will ever do
+I can't give you all of me
+Not for half of you
+I'm bringing you a woman
+(Nothing less will do)
+Bring me a man, hey
+I'm bringing you a woman
+(Nothing less will do)
+Bring me a man
+
+All of me for all of you
+Nothing less will ever do
+I love you more
+Than I did yesterday
+You picked a loving
+Each and every day
+All of me for all of you
+Nothing less will ever do
+I'll give you loving
+That won't rub off of you
+Tender sweet love that'll
+Knock the socks off of you
+
+Not for half of you

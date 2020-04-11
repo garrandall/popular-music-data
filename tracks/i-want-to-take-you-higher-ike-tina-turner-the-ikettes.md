@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: i-want-to-take-you-higher-ike-tina-turner-the-ikettes
+lyrics_url: https://www.musixmatch.com/lyrics/Ike-feat-Tina-Turner/I-Want-to-Take-You-Higher
 name: I Want To Take You Higher
 rankings:
 - end_date: '1970-05-29'
@@ -81,4 +82,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-09-19'
 ---
+Hey, hey, hey, hey
 
+Beat is gettin' stronger
+The beat is gettin' longer too
+Music's soundin' good to me
+But I wanna, said I wanna
+
+I wanna take you higher
+Yeah, let me take you higher
+Baby, baby, let me light your fire
+Ooh yeah, little bit higher
+
+Boom shacka lacka lacka
+Boom shacka la boonka boo
+
+Hey, hey, hey, hey
+
+Beat is nitty-gritty
+Music's in your city too
+Music's gettin' good to me
+But now don't ya, I said don't ya
+
+Don't ya wanna get higher?
+Yeah, don't ya wanna get higher?
+Baby, baby, let me light your fire
+Ooh ha, little bit higher
+
+Boom shacka lacka lacka
+Boom shacka la boonka boo
+
+Hey, hey, hey, hey
+
+Come on baby
+(Higher)
+Don't ya wanna get high
+(Higher)
+Ooh, yeah
+(Higher)
+Light your fire
+(Fire)
+
+Come on daddy
+(Higher)
+A little bit higher
+(Higher)
+I wanna
+(Higher)
+Said I wanna light your fire
+(Fire)
+
+Boom shacka lacka lacka
+Boom shacka la boonka boo
+
+Hey, hey, hey, hey
+
+Beat is here to make you move
+Music's here to help you groove
+Music's soundin' good to me
+But take your places
+
+I'm gonna take you
+(Higher, higher)
+Yeah, baby
+Gonna take ya
+(Higher, higher)
+Ooh, yeah
+
+Little bit higher
+C'mon daddy
+(Higher)
+A little bit
+(Higher)

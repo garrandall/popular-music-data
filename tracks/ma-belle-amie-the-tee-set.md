@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ma-belle-amie-the-tee-set
+lyrics_url: https://genius.com/Tee-set-ma-belle-amie-lyrics
 name: Ma Belle Amie
 rankings:
 - end_date: '1970-01-30'
@@ -55,4 +56,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-04-11'
 ---
+Ma Belle Amie
+You were a child of the sun and the sky and the deep blue sea
+Ma belle amie
+Apres tout les beau jours, je te dit merci merci!
 
+You were the answer to all my questions before we were through
+I want to tell you, that I adore you and always do
+That you amaze me by leaving me now to start anew
+Ma belle amie, I'm in love with you
+
+
+
+Let the bells ring, let the birds sing
+Let's all give my substitute a big cheer
+Let the bells ring
+Let the birds sing, for the man after him waits here
+For the man after him waits here
+
+Ma Belle Amie, you were a child of the sun and the sky and the deep blue sea
+Ma belle amie, it was a time that you thought that your only friend was me
+
+You were the answer to all my questions before we were through
+I want to tell you, that I adore you and always do
+That you amaze me by leaving me now to start anew
+Ma belle amie, I'm in love with you
+
+Let the bells ring
+Let the birds sing, let's all give my substitute a big cheer
+Let the bells ring
+Let the birds sing, for the man after him waits here
+For the man after him waits here
+
+Ma Belle Amie, you were a child of the sun and the sky and the deep blue sea
+Ma belle amie, apres tout les beau jours, je te dit merci merci!
+
+You were the answer to all my questions before we were through
+I want to tell you, that I adore you and always do
+That you amaze me by leaving me now to start a new
+Ma belle amie, I'm in love with you
+Ma belle amie, I'm in love with you

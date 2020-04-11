@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tonight-i-ll-be-staying-here-with-you-bob-dylan
+lyrics_url: https://genius.com/Bob-dylan-tonight-ill-be-staying-here-with-you-lyrics
 name: Tonight I'll Be Staying Here With You
 rankings:
 - end_date: '1969-11-07'
@@ -35,4 +36,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-12-13'
 ---
+Throw my ticket out the window
+Throw my suitcase out there, too
+Throw my troubles out the door
+I don’t need them anymore
+'Cause tonight I’ll be staying here with you
 
+
+I should have left this town this morning
+But it was more than I could do
+Oh, your love comes on so strong
+And I’ve waited all day long
+For tonight when I’ll be staying here with you
+
+
+Is it really any wonder
+The love that a stranger might receive?
+You cast your spell and I went under
+I find it so difficult to leave
+
+
+I can hear that whistle blowin'
+I see that stationmaster, too
+If there’s a poor boy on the street
+Then let him have my seat
+'Cause tonight I’ll be staying here with you
+
+
+Throw my ticket out the window
+Throw my suitcase out there, too
+Throw my troubles out the door
+I don’t need them anymore
+'Cause tonight I’ll be staying here with you

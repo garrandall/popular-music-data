@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-tell-you-why-brownstone
+lyrics_url: https://genius.com/Brownstone-i-cant-tell-you-why-lyrics
 name: I Can't Tell You Why
 rankings:
 - end_date: '1995-07-21'
@@ -59,4 +60,118 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-10-07'
 ---
+Look at us baby
+Up all night
+Tearing the love apart
+Aren't we the same two
+People who lived through the years
+In the dark
+Oh no
+Every time I try to walk away
+Something makes me turn around and stay
 
+And I can't tell you why
+No baby I can't tell you why
+I can't tell you why
+Oh no
+No baby
+
+When we're crazy
+It just ain't right
+Cause baby I get lonely too
+You don't have to worry
+Baby hold on tight
+You've got to know I'll always love you
+Nothing's wrong as far as I can see
+You make it harder than it has to be
+
+And I can't tell you why
+No I can't tell you why
+I can't tell you why
+Every time I try to walk away
+
+
+Something makes me turn around and stay
+It's your love
+And it makes me feel real good
+So I can't tell you
+So I can't tell you
+I can't
+I can't
+I can't tell you
+No I can't tell you
+(Repeat) I can't tell you why
+I love you
+Love you, love you
+I need your love baby
+And so
+Won't you help me
+Won't you help me
+I've gotta tell you why
+I've gotta tell you why
+I wanna be your only thing
+I wanna be your only thing
+Tell me why
+Tell me why
+Somebody tell me why
+Somebody tell me why
+Tell me why
+Please tell me why
+I can't tell you babyLook at us baby
+Up all night
+Tearing the love apart
+Aren't we the same two
+People who lived through the years
+In the dark
+Oh no
+Every time I try to walk away
+Something makes me turn around and stay
+
+And I can't tell you why
+No baby I can't tell you why
+I can't tell you why
+Oh no
+No baby
+
+When we're crazy
+It just ain't right
+Cause baby I get lonely too
+You don't have to worry
+Baby hold on tight
+You've got to know I'll always love you
+Nothing's wrong as far as I can see
+You make it harder than it has to be
+
+And I can't tell you why
+No I can't tell you why
+I can't tell you why
+Every time I try to walk away
+
+
+Something makes me turn around and stay
+It's your love
+And it makes me feel real good
+So I can't tell you
+So I can't tell you
+I can't
+I can't
+I can't tell you
+No I can't tell you
+(Repeat) I can't tell you why
+I love you
+Love you, love you
+I need your love baby
+And so
+Won't you help me
+Won't you help me
+I've gotta tell you why
+I've gotta tell you why
+I wanna be your only thing
+I wanna be your only thing
+Tell me why
+Tell me why
+Somebody tell me why
+Somebody tell me why
+Tell me why
+Please tell me why
+I can't tell you baby

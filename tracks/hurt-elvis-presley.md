@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hurt-elvis-presley
+lyrics_url: https://genius.com/Elvis-presley-hurt-lyrics
 name: Hurt
 rankings:
 - end_date: '1976-04-02'
@@ -51,4 +52,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-06-05'
 ---
+I'm so hurt to think that you lied to me
+I'm hurt way down deep inside of me
+You said our love was true and we'll never, never part
+Now you've got someone new and it breaks my heart
 
+
+I'm hurt, much more than you'll ever know
+Yes darling, I'm so hurt because I still love you so
+But even though you hurt me like nobody else could ever do
+I would never ever hurt you, oh you, not you

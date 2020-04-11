@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-tryin--trace-adkins
+lyrics_url: https://genius.com/Trace-adkins-im-tryin-lyrics
 name: I'm Tryin'
 rankings:
 - end_date: '2001-10-26'
@@ -87,4 +88,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-03-02'
 ---
+This gettin' up early, pullin' double shifts
+Gonna make an old man of me long before I ever get rich
+But I'm tryin'
+It's been two years since we've finalized
+I still ain't used to puttin' ex, in front of wife
+But I'm tryin'
 
+
+Send more money right away is pretty much all she has to say
+When she calls these days, and don't you be late
+
+
+But all I can do, is all I can do
+And I keep on tryin'
+And all I can be, is all I can be
+And I keep on tryin'
+
+
+But there's always a mountain in front of me
+Seems I'm always climbin' and fallin' and climbin'
+But I keep on tryin'
+
+
+I remember daddy sayin' keep your eye on the ball
+Run like hell, play to win, get up when you fall
+I'm tryin'
+Don't say nothin' that you can't take back
+Never do anything you might regret, no don't do that
+Daddy, I'm tryin'
+
+
+Know the difference between heaven and hell
+Go easy on the bottle, be hard on yourself
+And I know he meant well
+
+
+But all I can do, is all I can do
+And I keep on tryin'
+And all I can be, is all I can be
+And I keep on tryin'
+
+
+But there's always a mountain in front of me
+Seems I'm always climbin' and fallin' and climbin'
+But I keep on tryin'
+I keep on tryin'
+
+
+But all I can do, is all I can do
+And I keep on tryin'
+And all I can be, well that's all I can be
+And I keep on tryin'
+All I can do, is all I can do
+But I keep on tryin'
+
+
+But there's always a mountain in front of me
+Seems I'm always climbin' and stumblin' and then fallin' and then climbin'
+But I keep on tryin'
+
+
+This gettin' up early, pullin' double shifts
+Gonna make an old man of me long before I ever get rich
+But I'm tryin'

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-rhythm-of-the-night-corona
+lyrics_url: https://genius.com/Corona-band-the-rhythm-of-the-night-lyrics
 name: The Rhythm Of The Night
 rankings:
 - end_date: '1994-11-18'
@@ -115,4 +116,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-05-13'
 ---
+This is the rhythm of the night
+The night, oh yeah
+The rhythm of the night
+This is the rhythm of my life
+My life, oh yeah
+The rhythm of my life
 
+
+You could put some joy upon my face
+Oh, sunshine in an empty place
+Take me to turn to, and babe I'll make you stay
+Oh, I can ease you of your pain
+Feel you give me love again
+Round and round we go, each time I hear you say
+
+
+This is the rhythm of the night
+The night, oh yeah
+The rhythm of the night
+This is the rhythm of my life
+My life, oh yeah
+The rhythm of my life
+
+
+Won't you teach me how to love and learn
+There'll be nothing left for me to yearn
+Think of me and burn, and let me hold your hand
+I don't wanna face the world in tears
+Please think again, I'm on my knees
+Sing that song to me, no reason to repent
+I know you wanna say it
+
+
+This is the rhythm of the night
+The night, oh yeah
+The rhythm of the night
+This is the rhythm of my life
+My life, oh yeah
+The rhythm of my life
+
+
+This is the rhythm of the night
+Ooooh-oooooh
+This is the rhythm of the night
+
+
+This is the rhythm of the night
+The night, oh yeah
+The rhythm of the night
+This is the rhythm of my life
+My life, oh yeah
+The rhythm of my life
+
+
+This is the rhythm of the night
+The night, oh yeah
+The rhythm of the night
+This is the rhythm of my life
+My life, oh yeah
+The rhythm of my life
+
+
+This is the rhythm of the night

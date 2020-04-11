@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-there-cake
+lyrics_url: https://genius.com/Cake-never-there-lyrics
 name: Never There
 rankings:
 - end_date: '1998-12-11'
@@ -75,4 +76,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-03-27'
 ---
+I need your arms around me
+I need to feel your touch
+I need your understanding, I need your love
+So much
 
+You tell me that you love me so
+You tell me that you care
+But when I need you, (Baby!)
+Baby, (You're never there)
+
+On the phone
+Long long distance
+Always through such
+Strong resistance
+
+When first you say
+You're too busy
+I wonder if you
+Even miss me
+
+Never there
+You're never there
+You're never, ever
+Ever ever there
+
+(Hey!)
+
+A golden bird that flies away
+A candle's fickle flame
+To think I held you yesterday
+Your love was just a game
+
+A golden bird that flies away
+A candle's fickle flame
+To think I held you yesterday
+Your love was just a game
+
+You tell me that you love me so
+You tell me that you care
+But when I need you, (BABY)
+Baby
+
+Take the time
+To get to know me
+If you want me
+Why can't you just show me
+
+We're always on
+This roller coaster
+If you want me
+Why can't you get closer
+
+Never there
+You're never there
+You're never, ever
+Ever ever there
+
+Never there
+You're never there
+You're never, ever
+Ever ever there

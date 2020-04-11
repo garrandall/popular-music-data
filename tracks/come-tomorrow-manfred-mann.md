@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-tomorrow-manfred-mann
+lyrics_url: https://genius.com/Manfred-mann-come-tomorrow-lyrics
 name: Come Tomorrow
 rankings:
 - end_date: '1965-02-26'
@@ -31,4 +32,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
 ---
+If the song of the songbird
+Could replace my wrong word
+Then my dear, that's the song I would borrow
 
+And tonight you would hear
+The saddest song of the year
+And you'd be mine once again come tomorrow
+
+If the song of the swallow
+Could reveal my sorrow
+Then my dear, he would sing just for you
+
+And tonight you would hear
+The saddest song of the year
+And you'd be mine once again come tomorrow
+
+Just tonight, while in flight
+On your windowsill daylight
+To tell you all of my tears
+
+And tonight you would hear
+The saddest song of the year
+And you'd be mine once again come tomorrow
+
+If the song of the swallow
+Could reveal my sorrow
+Then my dear, he would sing just for you
+
+And tonight you would hear
+The saddest song of the year
+And you'd be mine once again come tomorrow
+
+And tonight you would hear
+The saddest song of the year
+And you'd be mine once again come tomorrow
+
+Sing, sing, sing, sing, sing, Mr. Songbird
+Come on and sing just one, little swallow
+And make her mine once again come tomorrow

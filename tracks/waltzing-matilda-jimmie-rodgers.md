@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: waltzing-matilda-jimmie-rodgers
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/Waltzing-Matilda
 name: Waltzing Matilda
 rankings:
 - end_date: '1960-01-24'
@@ -39,4 +40,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-03-07'
 ---
+Once a jolly swagman sat beside the billabong,
+Under the shade of a coulibah tree,
+And he sang as he sat and waited by the billabong,
+You'll come a waltzing matilda with me.
 
+Waltzing matilda, waltzing matilda
+You'll come a waltzing matilda with me,
+And he sang as he sat and waited by the billabong,
+You'll come a waltzing matilda with me.
+
+Down came a jumbuck to drink beside the billabong
+Up jumped the swagman and seized him with glee
+And he sang as he tucked jumbuck in his tuckerbag,
+'You'll come a waltzing matilda with me.
+
+Down came the stockman, riding on his thoroughbred,
+Down came the troopers, one, two, three.
+Where's the jolly jumbuck you've got in your tuckerbag?
+You'll come a waltzing matilda with me'.
+
+Up jumped the swagman and plunged into the billabong,
+You'll never catch me alive, cried he!
+And his ghost may be heard as you ride beside the billabong,
+You'll come a waltzing matilda with me.

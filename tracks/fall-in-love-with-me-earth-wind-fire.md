@@ -1,8 +1,6 @@
 ---
 artists:
-- Earth
-- Wind
-- Fire
+- Earth, Wind & Fire
 features: []
 genres: []
 key: fall-in-love-with-me-earth-wind-fire

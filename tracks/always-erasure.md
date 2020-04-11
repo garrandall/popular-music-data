@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-erasure
+lyrics_url: https://genius.com/Erasure-always-lyrics
 name: Always
 rankings:
 - end_date: '1994-05-06'
@@ -99,4 +100,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-01'
 ---
+Open your eyes I see
+Your eyes are open
+Wear no disguise for me
+Come into the open
 
+
+When it's cold outside
+Am I here in vain?
+Hold on to the night
+There will be no shame
+
+
+Always, I want to be with you
+And make believe with you
+And live in harmony, harmony oh love
+
+
+Melting the ice for me
+Jump into the ocean
+Hold back the tide I see
+Your love in motion
+
+
+When it's cold outside
+Am I here in vain?
+Hold on to the night
+There will be no shame
+
+
+Always, I want to be with you
+And make believe with you
+And live in harmony, harmony oh love
+
+
+When it's cold outside
+Am I here in vain?
+Hold on to the night
+There will be no shame
+
+
+Always, I want to be with you
+And make believe with you
+And live in harmony, harmony oh love

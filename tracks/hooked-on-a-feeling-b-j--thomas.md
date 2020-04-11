@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hooked-on-a-feeling-b-j--thomas
+lyrics_url: https://genius.com/Bj-thomas-hooked-on-a-feeling-lyrics
 name: Hooked On A Feeling
 rankings:
 - end_date: '1968-11-22'
@@ -71,4 +72,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
 ---
+I can't stop this feelin'
+Deep inside of me
+Girl, you just don't realize
+What you do to me
 
+When you hold me in your arms so tight
+You let me know everything's alright
+
+I
+I'm hooked on a feelin'
+High on believin'
+That you're in love with me
+
+Lips are sweet as candy
+The taste stays on my mind
+Girl, you keep me thirsty
+For another cup of wine
+
+I got it bad for you, girl
+But I don't need a cure
+I'll just stay addicted
+And hope I can endure
+
+All the good love when we're all alone
+Keep it up girl, yeah you turn me on
+
+I
+I'm hooked on a feelin'
+High on believin'
+That you're in love with me
+
+All the good love when we're all alone
+Keep it up girl, yeah you turn me on
+
+I
+I'm hooked on a feelin'
+I'm high on believin'
+That you're in love with me

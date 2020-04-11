@@ -1,7 +1,7 @@
 ---
 artists:
 - Ray Charles
-- The Raelets
+- The Raelettes
 features: []
 genres: []
 key: i-chose-to-sing-the-blues-ray-charles-the-raelets

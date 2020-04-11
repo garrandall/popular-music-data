@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-nose-is-gonna-grow-johnny-crawford
+lyrics_url: https://genius.com/Johnny-crawford-your-nose-is-gonna-grow-lyrics
 name: Your Nose Is Gonna Grow
 rankings:
 - end_date: '1962-08-17'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
 ---
+I carry your books I give you looks that say "I love you"
 
+I send you flowers Spend my hours thinking of you
+
+But I saw you late last night You were holding another boy tight
+
+Go ahead, explain But remember, if you lie
+
+The bogeyman will get you And your nose is gonna grow
+
+So remember if you lie Ev'ryone will know
+
+Remember, if you lie your nose is gonna grow-oh-oh-oh-oh-oh
+
+And ev'ryone will know
+
+You're holding my hand Making plans to stay together
+
+Promising me that our love will be forever
+
+If everything you say is true who's the boy I saw with you
+
+Go ahead, explain But remember if you lie
+
+The bogeyman will get you And your nose is gonna grow-oh-oh-oh-oh-oh
+
+So remember, if you lie ev'ryone will know, ooh-oh-oh
+
+The bogeyman will get you Your nose is gonna grow-oh-oh-oh-oh-oh
+
+The bogeyman will..............FADE

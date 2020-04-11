@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: b-a-b-y-carla-thomas
+lyrics_url: https://genius.com/Carla-thomas-b-a-b-y-lyrics
 name: B-A-B-Y
 rankings:
 - end_date: '1966-08-26'
@@ -71,4 +72,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-03'
 ---
+Baby, ooh, baby
+I love to call you baby
+Baby, oh oh, baby
+I love for you to call me baby
 
+When you squeeze me real tight
+You make wrong things right
+And I can't stop loving you
+And I won't stop calling you
+
+Baby, oh baby
+You look so good to me baby
+Baby, ooh baby
+You are so good to me baby
+
+Just one look in your eye
+And my temperature goes sky high
+I live for you and can't help it
+You know I really don't want to help it
+
+B-A-B-Y, baby
+B-A-B-Y, baby
+
+Whenever the sun don't shine
+You go out to light my hind
+Then I get real close to you
+And your sweet kisses see me through
+
+I said, baby, ooh baby
+You look so good to me baby
+Baby, ooh baby
+How I love for you to call me baby
+
+When you squeeze me real tight
+You know you make wrong things right
+And I can't stop loving you
+And I won't stop calling you
+
+B-A-B-Y, baby

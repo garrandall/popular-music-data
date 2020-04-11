@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: slip-away-clarence-carter
+lyrics_url: https://genius.com/Clarence-carter-slip-away-lyrics
 name: Slip Away
 rankings:
 - end_date: '1968-07-19'
@@ -71,4 +72,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-10-26'
 ---
+What would I give for just a few moments
+What would I give just to have you near
+Tell me you will try to slip away somehow
+Oh, I need you darling, I want to see you right now
 
+Can you slip away, slip away, slip away, yeah
+Oh, I need you so
+
+Love, oh love, how sweet it is
+When you're still in, darling, let me tell you something now
+How sweet it is
+
+Now I know it's wrong, the things I ask you to do
+But please believe me darling, I don't mean to hurt you
+But could you just slip away without him knowing you're gone
+Then we could meet somewhere, somewhere where we're both unknown
+
+Can you just, can you slip away, slip away, slip away, yeah
+I need you so
+
+Oh, can you slip away, baby
+I'd like to see you right now, darling
+Can you slip away now, baby
+'Cause I got to, I got to see you
+I feel a deep burning inside

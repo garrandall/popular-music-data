@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -you-re-gonna--hurt-yourself-frankie-valli
+lyrics_url: https://genius.com/Frankie-valli-youre-gonna-hurt-yourself-lyrics
 name: (You're Gonna) Hurt Yourself
 rankings:
 - end_date: '1966-01-21'
@@ -35,4 +36,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-26'
 ---
+I love you, just you, it's true (Baby, it's true)
+But how much more do you need to be satisfied
+Than I can give, the way you live (Baby, can give)
+You cheat all over, the rover you are
+Makes me tell you
 
+
+Oh, girl (Yeah)
+You know you're gonna hurt yourself (Hey)
+You know you're gonna hurt yourself
+When you're broke and worn out
+When your heart is torn out
+Don't call me
+
+
+Don't call me late, don't wait, 'til it's too late (Baby, it's true)
+If you want my love, take my love, but don't go shoppin'
+Round town 'til you have found (Baby, can give)
+The guy you needed was me all along
+
+
+Baby, baby, oh, girl (Yeah)
+You know you're gonna hurt yourself (Hey)
+You know you're gonna hurt yourself
+When you're broke and worn out
+When your heart is torn out
+Don't call me
+I love you
+
+
+
+
+Girl (Yeah)
+You know you're gonna hurt yourself (Hey)
+You know you're gonna hurt yourself
+When you're broke and worn out
+When your heart is torn out
+Oh, call me
+I love you
+
+
+Girl, don't hurt yourself
+Girl, come on now girl
+You know you're gonna hurt yourself
+Come on, girl

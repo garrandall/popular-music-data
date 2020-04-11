@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dress-you-up-madonna
+lyrics_url: https://genius.com/Madonna-dress-you-up-lyrics
 name: Dress You Up
 rankings:
 - end_date: '1985-08-23'
@@ -71,4 +72,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-30'
 ---
+You've got style, that's what all the girls say
+Satin sheets and luxuries so fine
+All your suits are custom made in London
+But I've got something that you'll really like
 
+
+Gonna dress you up in my love
+All over, all over
+Gonna dress you up in my love
+All over your body
+
+
+Feel the silky touch of my caresses
+They will keep you looking so brand new
+Let me cover you with velvet kisses
+I'll create a look that's made for you
+
+
+Gonna dress you up in my love
+All over, all over
+Gonna dress you up in my love
+All over your body
+Gonna dress you up in my love, in my love
+All over your body, all over your body
+In my love
+All over, all over
+From your head down to your toes
+
+
+
+
+Gonna dress you up in my love
+All over, all over
+Gonna dress you up in my love
+All over your body
+Gonna dress you up in my love, in my love
+All over your body, all over your body
+In my love
+All over, all over
+From your head down to your toes
+
+Gonna dress you up in my love
+All over, all over
+Gonna dress you up in my love
+All over your body
+Gonna dress you up in my love, in my love
+All over your body, all over your body
+In my love
+All over, all over
+From your head down to your toes
+
+Gonna dress you up in my love
+Gonna dress you up in my love
+All over, all over
+Gonna dress you up in my love
+Gonna dress you up in my love
+In my love
+All over your body
+All over your body
+Gonna dress you up in my love
+Gonna dress you up in my love
+All over, all over
+Gonna dress you up in my love
+Gonna dress you up in my love
+In my love
+All over your body, yeah love me boy
+Gonna dress you up in my love
+All over your body
+Gonna dress you up in my love
+All over, all over
+From your head down to your toes
+Gonna dress you up in my love
+Gonna dress you up in my love
+All over your body , yeah love me boy
+Gonna dress you up in my love
+All over your body
+Gonna dress you up in my love
+All over, all over

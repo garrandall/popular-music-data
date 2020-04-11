@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: the-look-of-love-sergio-mendes-brasil--66
+lyrics_url: https://www.musixmatch.com/lyrics/Sergio-Mendes-feat-Brasil-66-4/The-Look-of-Love
 name: The Look Of Love
 rankings:
 - end_date: '1968-05-17'
@@ -64,4 +65,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-08-10'
 ---
+The look of love is in your eyes
+A look the time can't disguise
 
+The look of lo... ove
+Is saying so much more
+Than just words could ever say
+And what my heart has heard
+Well it takes my breath away
+
+I can hardly wait to hold you
+Feel my arms around you
+How long I have waited
+Waited just to love you
+Now that I have found you
+You've got the look of love
+It's on your face
+A look the time can't erase
+
+Be mine toni-ight
+Let this be just the start of so many nights like this
+Let's take a lover's vow
+And then seal it with a kiss
+I can hardly wait to hold you
+Feel my arms around you
+How long I have waited
+Waited just to love you
+Now that I have found you
+Don't ever go
+(Don't ever go)
+Don't ever go
+(Don't ever go)
+Don't ever go
+(Don't ever go)
+Don't ever go
+(Don't ever go)
+Don't ever go
+(Don't ever go)
+Don't ever go
+(Don't ever go)
+Don't ever go
+(Don't ever go)

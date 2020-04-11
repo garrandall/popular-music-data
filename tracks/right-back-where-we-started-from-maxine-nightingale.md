@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: right-back-where-we-started-from-maxine-nightingale
+lyrics_url: https://genius.com/Maxine-nightingale-right-back-where-we-started-from-lyrics
 name: Right Back Where We Started From
 rankings:
 - end_date: '1976-02-20'
@@ -87,4 +88,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-06-26'
 ---
+Ooh, and it's alright and it's coming on
+We gotta get right back to where we started from
+Love is good, love can be strong
+We gotta get right back to where we started from
 
+
+Do you remember the day
+(That sunny day)
+When you first came my way
+I said, no one could take your place
+And if you get hurt
+(If you get hurt)
+By the little things I say
+I can put that smile back on your face
+
+
+Ooh, and it's alright and it's coming on
+We gotta get it right back to where we started from
+Love is good, love can be strong
+We gotta get it right back to where we started from
+(Oh oh oooh oooh ooh)
+
+
+A love like ours
+(A love like ours)
+Can never fade away
+You know it's only just begun
+You gave me your love
+(Gave me your love)
+I just can't stay away, no, no
+I know you are the only one
+
+
+Ooh, and it's alright and it's coming on
+We gotta get it right back to where we started from
+Love is good, love can be strong
+We gotta get it right back to where we started from
+(Oh oh oooh oooh ooh)
+
+
+You gave me your love
+(gave me your love)
+I just can't stay away, no
+I know you are the only one
+
+
+Ooh, an it's alright and it's coming on
+We gotta get it right back to where we started from
+Love is good, love can be strong
+We gotta get it right back to where we started from
+Alright and it's coming on
+We gotta get it right back to where we started from
+Love is good, love can be strong
+We gotta get it right back to where we started from
+Alright and it's coming on
+We gotta get it right back to where we started from
+Love is good, love can be strong
+We gotta get it right back to where we started from
+It's alright and it's coming on

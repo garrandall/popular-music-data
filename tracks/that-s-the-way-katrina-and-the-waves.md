@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-s-the-way-katrina-and-the-waves
+lyrics_url: https://genius.com/Katrina-and-the-waves-thats-the-way-lyrics
 name: That's The Way
 rankings:
 - end_date: '1989-07-28'
@@ -55,4 +56,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-10-07'
 ---
+Slow your lovin' up
+Slow your lovin' down
 
+Love gaining not losin' ground
+No worry
+No hurry
+Take your sweet time
+Baby
+Dabble dally
+Shilly shally
+Slow down this ain't a race car rally
+
+Bit by bit
+Inch by inch
+Cool your heels
+We're hangin' fire
+
+That's the way
+That's the way
+That's our love in slow motion
+
+That's the way
+Like the way
+That's our love in slow motion
+
+Strolling when we walk
+Whisper when we talk
+
+Grass growing right up under our feet
+Oh stay
+Lover
+Delay
+Lover
+Take a little more time with me
+
+That's the way
+That's the way
+That's our love in slow motion
+...
+
+Slow down greased lightning
+Make love
+Gentle not frightening
+
+Deep down devotion
+That's our love in slow motion
+
+Lighten up and lay your rocket down
+
+Little by little
+Not in leaps and bounds
+Ride at anchor restin' on your oars
+
+A little laissez-fair
+Honey
+More
+More
+More
+More !
+
+That's the way
+That's the way
+That's our love in slow motion
+...

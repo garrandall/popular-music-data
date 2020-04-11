@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ex-s---oh-s-elle-king
+lyrics_url: https://genius.com/Elle-king-exs-and-ohs-lyrics
 name: Ex's & Oh's
 rankings:
 - end_date: '2015-07-31'
@@ -159,4 +160,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-04-09'
 ---
+Well, I had me a boy, turned him into a man
+I showed him all the things that he didn't understand
+Whoa, and then I let him go
+Now, there's one in California who's been cursin' my name
+'Cause I found me a better lover in the UK
+Hey, hey, until I made my getaway
 
+
+One, two, three, they're gonna run back to me
+Cause I'm the best baby that they never gotta keep
+One, two, three, they're gonna run back to me
+They always wanna come, but they never wanna leave
+
+
+Ex's and the oh, oh, oh's they haunt me
+Like gho-o-osts they want me to make 'em oh, oh, oh
+They won't let go
+Ex's and oh's
+
+
+I had a summer lover down in New Orleans
+Kept him warm in the winter, left him frozen in the spring
+My, my, how the seasons go by
+I get high, and I love to get low
+So the hearts keep breaking, and the heads just roll
+You know that's how the story goes
+
+
+One, two, three, they're gonna run back to me
+'Cause I'm the best baby that they never gotta keep
+One, two, three, they're gonna run back to me
+They always wanna come, but they never wanna leave
+
+
+Ex's and the oh, oh, oh's they haunt me
+Like gho-o-osts they want me to make 'em oh, oh, oh
+They won't let go
+Ex's and the oh, oh, oh's they haunt me
+Like gho-o-osts they want me to make 'em oh, oh, oh
+They won't let go
+Ex's and oh's
+
+
+One, two, three, they gonna run back to me
+Climbing over mountains and a-sailing over seas
+One, two, three, they gonna run back to me
+They always wanna come, but they never wanna leave
+
+
+My ex’s and the oh, oh, oh’s they haunt me
+Like gho-o-osts they want me to make ‘em oh, oh, oh
+They won’t let go
+Ex’s and the oh, oh, oh’s they haunt me
+Like gho-o-osts they want me to make ‘em oh, oh, oh
+They won’t let go
+Ex’s and oh’s

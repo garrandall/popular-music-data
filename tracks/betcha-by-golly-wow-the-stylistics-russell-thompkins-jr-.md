@@ -5,6 +5,7 @@ features:
 - Russell Thompkins,Jr.
 genres: []
 key: betcha-by-golly-wow-the-stylistics-russell-thompkins-jr-
+lyrics_url: https://genius.com/The-stylistics-betcha-by-golly-wow-lyrics
 name: Betcha By Golly Wow
 rankings:
 - end_date: '1972-03-03'
@@ -72,4 +73,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-06-10'
 ---
+There's a spark of magic in your eyes
+Candyland appears each time you smile (ooh ooh ooh)
+Never thought that fairy tales came true
+But they come true
+When I'm near you
 
+
+You're a genie in disguise (ooh ooh ooh)
+Full of wonder and surprise
+And
+
+
+Betcha by golly, wow
+You're the one that I've been waiting for forever
+And ever will my love for you
+Keep growing strong
+Keep growing strong
+
+
+If I could I'd catch a falling star
+To shine on you so I'll know where you are (ooh ooh ooh)
+Order rainbows in your favorite shade
+To show I love you
+Thinking of you
+
+
+Write your name across the sky (ooh ooh ooh)
+Anything you ask I'll try
+'Cause
+
+
+Betcha by golly, wow
+You're the one that I've been waiting for forever
+And ever will my love for you
+Keep growing strong
+Keep growing strong
+
+
+Betcha by golly, wow
+You're the one that I've been waiting for forever
+And ever will my love for you
+Keep growing strong
+Keep growing strong
+
+
+Betcha by golly, wow
+You're the one that I've been waiting for forever
+And ever will my love for you
+Keep growing strong
+Keep growing strong
+
+
+Betcha by golly, wow
+You're the one that I've been waiting for forever

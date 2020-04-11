@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-quit-her-the-arbors
+lyrics_url: https://genius.com/The-arbors-i-cant-quit-her-for-emily-wherever-i-may-find-her-lyrics
 name: I Can't Quit Her
 rankings:
 - end_date: '1969-06-06'
@@ -27,4 +28,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-28'
 ---
+I can't quit her
+She got a hold on me
+She got her hand on my soul
+I can't quit her
+'Cause I see her face everywhere I go
+In the city streets, country fields
+In the back of my mind
+I know it can't be real
+For a woman to possess
+All the tenderness she had
 
+But the hands of time
+Keep tickin' on my back
+'Cause it's been so long
+Since I had her back beside me
+
+Oh, I love you, girl
+Oh, oh, I love you
+Oh, oh, I love you
+
+I can't quit her
+'Cause in my darkest night
+She comes on like a light
+I can't quit her
+Try as I may, with all my might
+She had a woman's touch
+Young girl's eyes
+And in seconds flat I was hypnotized
+Turned around
+And made to feel sweet love
+
+But the hands of time
+Keep tickin' on my back
+'Cause it's been so long
+Since I had her back beside me
+
+Oh, I love you, girl
+Oh, oh, I love you
+Oh, oh, I love you
+
+Oh, I love you, girl
+Oh, oh, I love you
+Oh, oh, I love you
+Oh, oh, I love you
+Oh, oh, I love you
+Oh, oh, I love you
+Oh, oh, I love you
+Oh, oh, I love you
+Oh, oh, I love you
+Oh, oh, I love you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-s-the-playground-susie-glen-campbell
+lyrics_url: https://genius.com/Glen-campbell-wheres-the-playground-susie-lyrics
 name: Where's The Playground Susie
 rankings:
 - end_date: '1969-05-09'
@@ -39,4 +40,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
 ---
+The end has come
+And found us here
+With our toys
+Scattered all around us here
+The puzzle that we never found
+An answer for
+Still asks us, darlin'
+Just what all the games were for?
 
+
+And here we stand
+In a box of sand
+
+
+Where's the playground Susie?
+You're the one who's supposed to know
+Her way around
+Where's the playground Susie?
+If I don't stay around?
+If I don't stay around?
+
+
+The carousel
+Has stopped us here
+It twirled a time or two
+And then it dropped us here
+And still you're not content
+With something about me?
+But what merry-go-round
+Can you ride without me?
+
+
+To take your hand
+How would you stand?
+
+
+Where's the playground Susie?
+If I decide to let you go
+And play around?
+Where's the playground Susie?
+If I don't stay around?
+If I don't stay around?
+
+
+Where's the playground Susie?
+You're the one who's supposed to know
+Her way around
+Where's the playground Susie?
+If I decide to let you go
+And play around?

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: desiderata-les-crane
+lyrics_url: https://genius.com/Les-crane-desiderata-lyrics
 name: Desiderata
 rankings:
 - end_date: '1971-10-15'
@@ -55,4 +56,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-12-25'
 ---
+Desiderata. Desiderata. Desiderata
+Go placidly amid the noise and haste
+And remember what peace there may be in silence
+As far as possible without surrender
+Be on good terms with all persons
+Speak your truth quietly and clearly, and listen to others -
+Even the dull and ignorant, they too have their story
+Avoid loud and aggressive persons - they are vexations to the spirit
+If you compare yourself with others, you may become vain and bitter
+For always there will be greater and lesser persons than yourself
 
+Enjoy your achievements as well as your plans
+Keep interested in your own career -
+However humble, it is a real possession in the changing fortunes of time
+Exercise caution in your business affairs
+For the world is full of trickery
+But let this not blind you to what virtue there is
+Many persons strive for high ideals
+And everywhere life is full of heroism
+Be yourself
+Especially do not feign affection, neither be cynical about love
+For in the face of all aridity and disenchantment
+It is as perenial as the grass
+Take kindly the council of the years
+Gracefully surrendering the things of youth
+Nurture strength of spirit to shield you in sudden misfortune
+But do not distress yourself with imaginings -
+Many fears are borne of fatigue and loneliness
+Beyond a wholesome discipline, be gentle with yourself
+
+You are a child of the universe
+No less than the trees and the stars, you have a right to be here
+And whether or not it is clear to you
+No doubt the universe is unfolding as it should
+
+Therefore, be at peace with God, whatever you conceive him to be
+And whatever your labors and aspirations
+In the noisy confusion of life
+Keep peace with your soul
+With all its sham, drudgery, and broken dreams
+It is still a beautiful world
+Be careful. Strive to be happy

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-got-to-be-somebody-billy-joe-royal
+lyrics_url: https://genius.com/Billy-joe-royal-ive-got-to-be-somebody-lyrics
 name: I've Got To Be Somebody
 rankings:
 - end_date: '1965-12-10'
@@ -39,4 +40,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
 ---
+I never had any reason
+For ambition or drive
+In fact, I never anybody
+That cared if I'm alive
 
+But then one day she came my way
+And I heard a voice within me say don't let her get away whatever you do
+But I never thought that this could be
+That she would ever look at me
+Seriously
+
+And that's why, oh Lord, Lord, Lord
+I got to be somebody
+I'm down on my knees
+Begging please, please, please, please
+I got to win her love for me
+
+I grew upon the sidewalks
+Got along the best I could
+Mama worked all day long
+And papa was no good
+
+I never asked for much before
+But here I am at Heaven's door
+So help me please
+Don't let her pass me by
+
+Cause I would rather die than see
+Her love turn into sympathy
+For me
+
+And that's why I'm, oh, Lord, Lord, Lord
+I got to be somebody
+I'm down on my knees
+Begging please, please, please, please
+I got to win her love for me
+
+Mmm
+Got to be somebody
+
+Got to be a somebody
+So tired of being a nobody
+
+Oh, Lord, Lord, Lord
+I got to be somebody
+I'm down on my knees
+Begging please, please, please, please
+I got to win her love for me

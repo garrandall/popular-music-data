@@ -1,6 +1,6 @@
 ---
 artists:
-- Bert Kaempfert And His Orchestra
+- Bert Kaempfert
 features: []
 genres: []
 key: cerveza-bert-kaempfert-and-his-orchestra

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: friends-feather
+lyrics_url: https://www.musixmatch.com/lyrics/Brown-Feather-Sparrow-and-Friends/Een-Kind-Is-Ons-Geboren
 name: Friends
 rankings:
 - end_date: '1970-06-05'
@@ -27,4 +28,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-06-27'
 ---
-
+Een kind is ons geboren
+Een zoon is ons gegeven
+En de heerschappij rust op zijn schouders
+Deze namen zal hij dragen;
+Wonderbare raadsman goddelijke held eeuwige vader
+Vredevorst
+Groot is zijn heerschappij
+Groot is zijn heerschappij
+Groot is zijn heerschappij
+Aan de vrede zal geen einde komen
+Een kind is ons geboren
+Een zoon is ons gegeven
+En de heerschappij rust op zijn schouders
+Deze namen zal hij dragen;
+Wonderbare raadsman goddelijke held eeuwige vader
+Vredevorst
+Groot is zijn heerschappij
+Groot is zijn heerschappij
+Groot is zijn heerschappij
+Aan de vrede zal geen einde komen
+Vrede op aarde
+Vrede op aarde
+Vrede op aarde
+In de mensen 'n welbehagen

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: evil-woman-don-t-play-your-games-with-me-crow
+lyrics_url: https://genius.com/Crow-evil-woman-dont-play-your-games-with-me-lyrics
 name: Evil Woman Don't Play Your Games With Me
 rankings:
 - end_date: '1969-10-31'
@@ -67,4 +68,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
 ---
+I see the look of evil in your eyes
+You've been filling me all full of lies
+The morrow will not change your shameful deed
+You will be someone else' fertile seed
+Evil woman don't play your games with me
+Evil woman don't play your games with me
 
+Now I know just what your looking for
+You want me to claim this child you bore
+But I know that it was he, not me
+And you know just how it's got to be
+Evil woman don't play your games with me
+Evil woman don't play your games with me
+
+Wickedness lies in your moistened lips
+Your body moves just like the crack of a whip
+Black cats lay atop your satin bed
+You sure wish that you could see me dead
+Evil woman don't play your games with me
+Evil woman don't play your games with me

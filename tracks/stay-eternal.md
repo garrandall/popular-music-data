@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-eternal
+lyrics_url: https://genius.com/Eternal-stay-lyrics
 name: Stay
 rankings:
 - end_date: '1994-01-21'
@@ -87,4 +88,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-05-28'
 ---
+"Stay"
 
+Stay (x3)
+
+Stay baby
+Stay, come on darling now
+Stay, you know I want you back
+Stay with me tonight
+Come on won't you stay
+Stay, oh
+Stay
+Stay with me
+
+It seems I have the strangest dream
+I'm dreaming that you are gonna leave me
+I wake up and I find it's true
+What will I do without you?
+I don't know, I don't know
+Just what it takes to get to you
+I don't know, I don't know
+Baby I'll be true if only you
+
+Stay
+Baby though I made you cry
+Stay
+Baby don't you say goodbye
+Stay
+Baby look me in my eye
+Stay with me tonight
+
+Come on baby
+
+Baby though I made you cry
+Stay
+Baby don't you say goodbye
+Stay
+Won't you stay
+
+They say that love will come and go
+But your love's indispensible to me
+I really wanna be with you
+What are we gonna do boy
+I don't know, I don't know
+Just what it takes to get to you
+I don't know, I don't know
+Baby I'll be true if only you
+
+Stay
+Baby though I made you cry
+Stay
+Baby don't you say goodbye
+Stay
+Baby look me in my eye
+Stay with me tonight
+
+Even though I told you lies
+Stay
+Baby give me one more try
+Stay
+Stay with me
+
+Come on baby
+Won't you, won't you
+Why don't you stay
+Why don't you stay
+
+Come on, come on, come on and stay
+Come on, come on, come on and stay
+Stay with me tonight
+
+Oh, oh, oh
+I want you to stay
+Stay
+Baby though I made you cry
+Stay
+Baby don't you say goodbye
+Stay with me tonight
+Come on baby
+Made you cry
+You don't have to say goodbye
+Stay
+
+(ad lib to fade)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: indian-giver-1910-fruitgum-co-
+lyrics_url: https://genius.com/1910-fruitgum-company-indian-giver-lyrics
 name: Indian Giver
 rankings:
 - end_date: '1969-01-31'
@@ -59,4 +60,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-19'
 ---
+Can still remember it wasn't long ago
+Things you used to tell me
+You said I had to know
+Told me that you love me
+And that you always would
+Then I said I loved you
+You said that that was good
+Girl you made a promise
+Said you'd never want me to go
+Oh no, oh
 
+Chorus:
+Indian giver
+Indian giver
+You took your love away from me
+Indian giver
+Indian giver
+Took back the love you gave to me
+Baby, I was feeling the way I wanna feel
+You had me believing the love we had was real
+Things we did together
+You said they'd never end
+Now and till forever
+Oh yeah, that's what you said
+Girl when I was down I knew that you would always be there
+Oh, yeh
+Chorus
+Oh!
+Chorus x 3

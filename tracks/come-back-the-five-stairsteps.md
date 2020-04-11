@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-back-the-five-stairsteps
+lyrics_url: https://www.musixmatch.com/lyrics/Five-Stairsteps-2/Come-Back
 name: Come Back
 rankings:
 - end_date: '1966-11-11'
@@ -31,4 +32,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-10'
 ---
-
+Come back
+Come back
+Come back to me
+Where have you gone now?
+Off with somone new?
+If you really love me
+Let me be yoir friend
+Just come back
+Come.back
+To me
+Come back
+Come back
+Come back to me
+What have i done
+Oooh
+To make you feel this way
+Oooh
+If i cant stop crying
+I would have to stay
+Just come back
+Come back
+To me
+Come back
+Come back to me
+Im sa mad about you
+Mad about you
+Dont know what to do without you
+Oiih
+You always are on my mind
+I dream of you all the time
+So come back
+Come back
+To me
+Come back
+Come back
+To me...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mama-told-me--not-to-come--three-dog-night
+lyrics_url: https://genius.com/Three-dog-night-mama-told-me-lyrics
 name: Mama Told Me (Not To Come)
 rankings:
 - end_date: '1970-05-29'
@@ -67,4 +68,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-29'
 ---
-
+Jeremiah was a bullfrog
+Was a good friend of mine
+Never understood a single word he said
+But I helped him drink his wine
+Yes he always had some mighty fine wine
+Singing joy to the world
+All the boys and girls now
+Joy to the fishes in the deep blue sea
+Joy to you and me
+If I were the king of the world
+Tell you what I'd do
+Throw away the cars and bars and wars
+And make sweet love to you
+Yes I'd make sweet love to you
+Singing joy to the world
+All the boys and girls now
+Joy to the fishes in the deep blue sea
+Joy to you and me
+You know I love the ladies
+Love to have my fun
+I'm a high night flyer and a rainbow rider
+A straight shootin' son of a gun
+Yes a straight shootin' son of a gun
+Singing joy to the world
+All the boys and girls now
+Joy to the fishes in the deep blue sea
+Joy to you and me
+Joy to the world
+All the boys and girls
+Joy to the world
+Joy to you ane me
+Joy to the world
+All the boys and girls
+Joy to the fishes in the deep blue sea
+Joy to you and me

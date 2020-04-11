@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-the-young-journey
+lyrics_url: https://genius.com/Journey-only-the-young-lyrics
 name: Only The Young
 rankings:
 - end_date: '1985-02-01'
@@ -71,4 +72,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-05-11'
 ---
+Another night in any town
+You can hear the thunder of their cry
+Ahead of their time
+They wonder why
 
+In the shadows of a golden age
+A generation waits for dawn
+Brave carry on
+Bold and the strong
+
+
+Only the young can say
+They're free to fly away
+Sharing the same desires
+Burning like wildfire
+
+
+They are seeing through the promises
+And all the lies they dare to tell
+Is it heaven or hell?
+They know very well
+
+
+Only the young can say
+They're free to fly away
+Sharing the same desires
+Burning like wildfire
+
+
+
+
+Only the young can say
+They're free to fly away
+Sharing the same desires
+Burning like wildfire
+
+
+Only the young can say
+Only the young can say (young can say)
+Only the young can say
+Only the young can say (young can say)
+Only the young can say

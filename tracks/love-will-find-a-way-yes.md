@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-will-find-a-way-yes
+lyrics_url: https://genius.com/Yes-love-will-find-a-way-lyrics
 name: Love Will Find A Way
 rankings:
 - end_date: '1987-10-09'
@@ -83,4 +84,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-02-06'
 ---
+You wanna get close to me, the feeling so clear
+But I need some time to see, vision through my tears
+You wanna get next to me, I need your intrusion
+I don't need to be blinded by confusion
 
+
+Here is my heart, waiting for you
+Here is my soul; I eat at Chez Nous
+
+
+Love will find a way, if you want it to
+Love will find a way, love will find a way for me and you
+
+
+Love will find a way...
+Love will find a way...
+Love will find a way...
+Love will find... (a way)
+
+
+So you want to get over me, and that's how you feel
+Everything you want to be seems so unreal
+I want to be all of you, and that's the confusion
+It's so hard for me to draw a conclusion
+
+
+Here is my heart, waiting for you
+Here is my soul; I eat at Chez Nous
+
+
+Love will find a way, if you want it to
+Love will find a way, love will find a way
+
+
+
+
+Love will find a way, if you want it to
+Love will find a way, love will find a way
+
+
+(Will love find a way?)
+I believe that there's a way (if you want it to)
+(Will love find a way?) Love will find a way
+(Will love find a way?) Love will find a way...

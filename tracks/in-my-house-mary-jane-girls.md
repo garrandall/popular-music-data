@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-my-house-mary-jane-girls
+lyrics_url: https://genius.com/Mary-jane-girls-in-my-house-lyrics
 name: In My House
 rankings:
 - end_date: '1985-03-15'
@@ -95,4 +96,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-08-03'
 ---
+Boy, you can just believe
+I'm the only girl in your life
+I'll be your sugar in the morning
+And the sweet stuff you need at night
+And you can just best believe
+When it comes down to making love
+I'll satisfy your every need
+And every fantasy you think of
 
+
+So when you need a little peace of mind
+Come on over, boy, anytime
+I'll keep you happy and so satisfied
+In my house, in my house
+So when you need some love and tenderness
+And it's me, baby, that you miss
+Here's the key to unlock the door
+To my house, my house
+Woo-ooh (In my house)
+Woo-ooh-ooh-ooh-ooh (In my house)
+Woo-ooh-ooh-ooh-ooh-ooh
+Ooh-ooh-ooh, ooh-ooh-ooh-ooh-ooh
+
+
+Boy, anytime of the day or night
+When you call me I will be there
+Just call me up on the phone
+When you need someone around to care
+And when you feel sad and blue
+You just come see me anytime
+I'll kiss away all your tears
+And your fears you can leave behind
+
+
+So when you need a little peace of mind
+Come on over, boy, anytime
+I'll keep you happy and so satisfied
+In my house, in my house
+So when you need some love and tenderness
+And it's me, baby, that you miss
+Here's the key to unlock the door
+To my house, in my house
+
+
+Woo-ooh (In my house)
+Woo-ooh-ooh-ooh-ooh (In my house)
+Woo-ooh-ooh-ooh-ooh-ooh
+Ooh-ooh-ooh, ooh-ooh-ooh-ooh-ooh
+Woo-ooh (In my house)
+Woo-ooh-ooh-ooh-ooh (In my house)
+Woo-ooh-ooh-ooh-ooh-ooh
+Ooh-ooh-ooh, ooh-ooh-ooh-ooh-ooh
+Woo-ooh (In my house)
+Woo-ooh-ooh-ooh-ooh (In my house)
+Woo-ooh-ooh-ooh-ooh-ooh
+Ooh-ooh-ooh, ooh-ooh-ooh-ooh-ooh
+Woo-ooh (In my house)
+Woo-ooh-ooh-ooh-ooh (In my house)
+Woo-ooh-ooh-ooh-ooh-ooh
+Ooh-ooh-ooh, ooh-ooh-ooh-ooh-ooh

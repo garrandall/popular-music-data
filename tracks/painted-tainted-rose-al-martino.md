@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: painted-tainted-rose-al-martino
+lyrics_url: https://genius.com/Al-martino-painted-tainted-rose-lyrics
 name: Painted Tainted Rose
 rankings:
 - end_date: '1963-08-02'
@@ -55,4 +56,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-12'
 ---
+Peaked at number 15 in 1963
+She was a wild and lovely rose
+Oh, how I loved her, heaven knows
+But though my heart was true, it would never do
+Party life was what she chose
 
+Last night I saw my lovely rose
+All painted up in fancy clothes
+Her eyes had lost their spark, the years had left their mark
+She's just a painted, tainted rose
+
+But though my heart was true, it would never do
+Party life was what she chose
+
+Her eyes had lost their spark, the years had left their mark
+She's just a
+
+She's just a

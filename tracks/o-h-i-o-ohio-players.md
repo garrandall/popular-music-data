@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: o-h-i-o-ohio-players
+lyrics_url: https://genius.com/Ohio-players-o-h-i-o-lyrics
 name: O-H-I-O
 rankings:
 - end_date: '1977-07-29'
@@ -55,4 +56,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-10-08'
 ---
+O-H-I-O, O-H-I-O
+O-H-I-O, O-H-I-O
+O-H-I-O, O-H-I-O
+O-H-I-O, O-H-I-O
 
+Ohio, Ohio, Ohio, Ohio
+Ohio, Ohio, Ohio, Ohio
+
+O-H-I-O, O-H-I-O
+O-H-I-O, O-H-I-O
+
+Ohio, Ohio, Ohio, Ohio
+Ohio, Ohio, Ohio, Ohio
+
+Ohio, Ohio, Ohio, Ohio
+Ohio, Ohio, Ohio, Ohio

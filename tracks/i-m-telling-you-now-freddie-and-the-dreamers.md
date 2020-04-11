@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-telling-you-now-freddie-and-the-dreamers
+lyrics_url: https://www.musixmatch.com/lyrics/Freddie-And-The-Dreamers/I-m-Telling-You-Now
 name: I'm Telling You Now
 rankings:
 - end_date: '1965-03-19'
@@ -51,4 +52,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-22'
 ---
-
+Freddie & The Dreamers
+I'm Telling You Now
+I'm telling you now
+I'm telling you right away
+I'll be staying for many a day
+I'm in love with you now
+I'm telling you now
+I'll say what you wanna hear
+I'll be saying you for many a year
+I'm in love with you now
+Do you think I'm foolin'
+When I say "I love you"?
+I love you
+Maybe you'll believe me
+When I'm finally through, through, through, through
+I'm telling you now
+I know it's been said before
+Say you love me and I will be sure
+I'm in love with you now
+I'm telling you now
+I'm telling you right away
+I'll be saying for many a day
+I'm in love with you now
+Do you think I'm foolin'
+When I say "I love you"?
+I love you
+Maybe you'll believe me
+When I'm finally through, through, through, through
+I'm telling you now
+I know it's been said before
+Say you love me and I will be sure
+I'm in love with you now
+I'm in love with you now
+I'm telling you now
+Alvino99

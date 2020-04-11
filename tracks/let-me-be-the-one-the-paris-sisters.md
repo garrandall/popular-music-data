@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-be-the-one-the-paris-sisters
+lyrics_url: https://genius.com/The-paris-sisters-let-me-be-the-one-lyrics
 name: Let Me Be The One
 rankings:
 - end_date: '1962-05-18'
@@ -27,4 +28,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-09'
 ---
+Let me be the one to always love you
+Let me be the one to take care of you
+When you want someone to go to
+When your day is through
+Darling, let me be the one for you
 
+Let me be the one when you are lonely
+Let me be the one you think of only
+When you're looking for a girl
+To tell your troubles to
+Darling, let me be the one for you
+
+Let mine be the lips to kiss you sweetly
+Let mine be the arms to hold you tight
+Darling, give your heart to me completely
+Let me be the one you pray for every night
+
+Let me be the one to stand beside you
+Let me be the one to help and guide you
+When you're looking for a girl
+Whose love is always true
+Darling, let me be the one for you
+
+(Let me be the one) To always love you
+(Let me be the one) To take care of you

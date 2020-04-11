@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-sun-ain-t-gonna-shine-anymore-nielsen-pearson
+lyrics_url: https://genius.com/Nielsen-pearson-the-sun-aint-gonna-shine-anymore-lyrics
 name: The Sun Ain't Gonna Shine Anymore
 rankings:
 - end_date: '1981-08-14'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-09-26'
 ---
+Loneliness is a coat you wear
+The dark shade of blue is always there
+The sun ain't gonna shine anymore
+The moon ain't gonna rise in the sky
+The tears are always clouding your eyes
+When you're without her
 
+Happiness is a place you're in
+With nothing to lose and nothing to win
+The sun ain't gonna shine anymore
+The moon ain't gonna rise in the sky
+Your tears are always clouding your eyes
+When you're without her
+
+Lonely, without you babe
+So lonely, I can't go on
+Tears are always clouding your eyes
+When you're without her, without her
+
+The sun ain't gonna shine anymore
+The moon ain't gonna rise in the sky
+The tears are always clouding your eyes
+When you're without her
+
+The sun ain't gonna shine anymore
+The moon ain't gonna rise in the sky
+The tears are always clouding your eyes
+When you're without her

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: green-green-the-new-christy-minstrels
+lyrics_url: https://www.musixmatch.com/lyrics/The-New-Christy-Minstrels/Green-Green
 name: Green Green
 rankings:
 - end_date: '1963-07-05'
@@ -55,4 +56,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-09-14'
 ---
+(CHORUS)
+Green, green,
+It's green they say,
+On the far side of the hill.
+Green, green,
+I'm going away to where
+The grass is greener still.
 
+A-well, I told my mama
+On the day I was born,
+Don't you cry
+When you see I'm gone.
+
+You know there ain't no woman
+Gonna settle me down.
+I just gotta be traveling on,
+A-singing...
+
+(CHORUS)
+
+Nah, there ain't nobody
+In this whole wide world
+Gonna tell me how to spend my time.
+I'm just a good loving rambling man,
+Say, buddy, can you spare me a dime?
+Hear me crying, it's a...
+
+(CHORUS)
+
+Yeah, I don't care
+When the sun goes down,
+Where I lay my weary head.
+Green, green valley or rocky road,
+It's there I'm gonna make my bed.
+Easy, now...
+
+(CHORUS)
+
+Everybody, I wanna hear it now...
+
+(CHORUS)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-turn-to-stone-four-tops
+lyrics_url: https://genius.com/The-four-tops-ill-turn-to-stone-lyrics
 name: I'll Turn To Stone
 rankings:
 - end_date: '1967-07-21'
@@ -27,4 +28,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
 ---
+If you take your love from me
+I'll turn to stone, turn to stone
+If your love I couldn't call my own
+I'll turn to stone, turn to stone
 
+I need your love in every way
+Your love I cling to
+When things slip away
+Without your love
+I'll be lost and alone
+No reason for living
+All purpose would be gone
+Without you there
+For my eyes to behold
+My life would be empty
+My heart would grow cold
+
+If you take your love from me
+I'll turn to stone, turn to stone
+If your love I couldn't call my own
+I'll turn to stone, turn to stone
+
+When I think of love
+I think of me and you
+When I think of happiness
+I think of us too
+You're my yesterdays
+And all my tomorrows
+The air I breathe
+Everything I need
+If from my life
+You were ever gone
+I'd fall to pieces
+You I depend on
+
+If you take your love from me
+I'll turn to stone, turn to stone
+If your love I couldn't call my own
+I'll turn to stone, turn to stone
+
+Darling without you
+I'll go on searching
+With a lonely heart
+That won't stop hurting
+Sorrow would be written
+On my face
+All my tears
+Would leave its trace
+I would be like a statue in a park
+Cold and alone
+A man without a heart
+
+If you take your love from me
+I'll turn to stone, turn to stone
+If your love I couldn't call my own
+I'll turn to stone, turn to stone
+
+Turn to stone, turn to stone
+Just turn to stone, I'll turn to stone
+If your love I couldn't call my own
+I'll turn to stone, just turn to stone
+I'll turn to stone, turn to stone...

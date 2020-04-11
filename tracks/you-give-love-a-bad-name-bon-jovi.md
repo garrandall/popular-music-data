@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-give-love-a-bad-name-bon-jovi
+lyrics_url: https://genius.com/Bon-jovi-you-give-love-a-bad-name-lyrics
 name: You Give Love A Bad Name
 rankings:
 - end_date: '1986-09-12'
@@ -103,4 +104,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-02-14'
 ---
+Shot through the heart and you're to blame
+Darling, you give love a bad name
 
+
+An angel's smile is what you sell
+You promise me heaven, then put me through hell
+Chains of love got a hold on me
+When passion's a prison, you can't break free
+
+
+Whoa, you're a loaded gun, yeah
+Whoa, there's nowhere to run
+No one can save me, the damage is done
+
+
+Shot through the heart and you're to blame
+You give love a bad name (Bad name)
+I play my part and you play your game
+You give love a bad name (Bad name)
+Yeah, you give love a bad name
+
+
+Paint your smile on your lips
+Blood red nails on your fingertips
+A school boy's dream, you act so shy
+Your very first kiss was your first kiss goodbye
+
+
+Whoa, you're a loaded gun
+Whoa, there's nowhere to run
+No one can save me, the damage is done
+
+
+Shot through the heart and you're to blame
+You give love a bad name (Bad name)
+I play my part and you play your game
+You give love a bad name (Bad name)
+You give love a...
+
+
+
+
+Oh, shot through the heart and you're to blame
+You give love a bad name
+I play my part and you play your game
+You give love a bad name (Bad name)
+Shot through the heart and you're to blame
+You give love a bad name (Bad name)
+I play my part and you play your game
+You give love a bad name (Bad name)
+
+
+You give love
+You give love, bad name
+You give love
+You give love, bad name
+You give love
+You give love, bad name

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: endlessly-brook-benton
+lyrics_url: https://genius.com/Brook-benton-endlessly-lyrics
 name: Endlessly
 rankings:
 - end_date: '1959-04-26'
@@ -59,4 +60,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-07-13'
 ---
+Higher than the highest mountain
+And deeper than the deepest sea
+That's how I will love you, oh, darling, endlessly
 
+Softer than the gentle breezes
+And stronger than the wild oak tree
+That's how I will hold you, oh, darling, endlessly
+
+Oh, my love, you are my heaven
+You are my kingdom, you are my crown
+Oh, my love, you're all that I prayed for
+You were made for these arms to surround
+
+Faithful as a morning sunrise
+And sacred as a love can be
+That's how I will love you, oh darling, endlessly
+
+Darling, endlessly
+Darling, endlessly
+
+Fade
+
+And do not necessarily correspond with lyrics from other recordings, sheet
+Music, songbooks or lyrics printed on album jackets

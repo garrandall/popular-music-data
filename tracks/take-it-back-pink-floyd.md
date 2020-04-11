@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-it-back-pink-floyd
+lyrics_url: https://genius.com/Pink-floyd-take-it-back-lyrics
 name: Take It Back
 rankings:
 - end_date: '1994-06-24'
@@ -35,4 +36,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-07-30'
 ---
+Her love rains down on me easy as the breeze
+I listen to her breathing, it sounds like the waves on the sea
+I was thinking all about her, burning with rage and desire
+We were spinning into darkness; the earth was on fire
 
+
+She could take it back, she might take it back someday
+
+
+So I spied on her, I lied to her, I made promises I cannot keep
+Then I hear their laughter rising, rising from the deep
+And I make her prove her love for me, I take all that I can take
+And I push her to the limit to see if she will break
+
+
+She might take it back, she could take it back some day
+
+
+Ring-a-ring o’ roses
+A pocket full of posies
+A-tishoo! A-tishoo!
+We all fall down
+
+
+Now I have seen the warnings, screaming from all sides
+It’s easy to ignore them, God knows I’ve tried
+All of this temptation, you know it turned my faith to lies
+Until I couldn’t see the danger or hear the rising tide
+
+
+She can take it back, she will take it back some day
+She can take it back, she will take it back some day
+She will take it back, she will take it back some day

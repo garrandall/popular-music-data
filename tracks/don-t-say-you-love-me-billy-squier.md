@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-say-you-love-me-billy-squier
+lyrics_url: https://genius.com/Billy-squier-dont-say-you-love-me-lyrics
 name: Don't Say You Love Me
 rankings:
 - end_date: '1989-06-30'
@@ -67,4 +68,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-30'
 ---
+You can't get up
+You can't get down
+You can't sit still
+You never settle down
 
+Don't say you love me
+Just say 'huh'!
+
+You love runs hot
+Your love runs cold
+You can't get loose
+Until you get control
+
+Don't say you love me
+Just say 'huh'!
+Don't say you love me
+Just say 'all right'
+
+You're scared to win
+You're scared to lose
+You're scared to live
+With the life you choose
+
+Don't say you love me
+Just say
+
+You can't say 'yes'
+You can't say 'no'
+Your mind's made up
+You don't know where to go
+
+Don't say you love me
+Whatcha say?
+Don't say you love me
+Just say 'huh'!
+
+I can see you comin' round again
+I can feel you but I can't say when
+I will be there in your now and then

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-only-imagine-mercyme
+lyrics_url: https://genius.com/Mercyme-i-can-only-imagine-lyrics
 name: I Can Only Imagine
 rankings:
 - end_date: '2003-10-17'
@@ -79,4 +80,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-04-03'
 ---
+I can only imagine what it will be like
+When I walk by Your side
+I can only imagine what my eyes will see
+When Your face is before me
+I can only imagine
+I can only imagine
 
+
+Surrounded by Your glory
+What will my heart feel?
+Will I dance for You, Jesus
+Or in awe of You be still?
+Will I stand in Your presence
+Or to my knees will I fall?
+Will I sing hallelujah
+Will I be able to speak at all?
+I can only imagine
+I can only imagine
+
+
+I can only imagine when that day comes
+And I find myself standing in the Son
+I can only imagine
+When all I will do is forever
+Forever worship You
+I can only imagine
+I can only imagine
+
+
+Surrounded by Your glory
+What will my heart feel?
+Will I dance for You, Jesus
+Or in awe of You be still?
+Will I stand in Your presence
+Or to my knees will I fall?
+Will I sing hallelujah
+Will I be able to speak at all?
+I can only imagine

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -i-ve-been--searchin--so-long-chicago
+lyrics_url: https://genius.com/Chicago-ive-been-searchin-so-long-lyrics
 name: (i've Been) Searchin' So Long
 rankings:
 - end_date: '1974-03-22'
@@ -67,4 +68,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-22'
 ---
+As my life goes on I believe
+Somehow something's changed
+Something deep inside
+Ooh, a part of me
+There's a strange new light in my eyes
+Things I've never known
+Changing my life
+Changing me
 
+
+I've been searching
+So long
+To find an answer
+Now I know my life has meaning
+
+
+Now I see myself as I am
+Feeling very free
+Life is everything
+Ooh it's meant to be
+When my tears have come to an end
+I will understand
+What I left behind
+Part of me
+
+
+
+
+Searching
+Don't you know I'm hell yeah
+For an answer
+To the question
+Oh yeah
+For our minds
+Baby
+Baby it's true
+It's only natural
+It's only natural baby, yeah
+Good things
+In life
+Take a long time
+Yeah yeah

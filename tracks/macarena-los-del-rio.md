@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: macarena-los-del-rio
+lyrics_url: https://genius.com/Los-del-rio-macarena-lyrics
 name: Macarena
 rankings:
 - end_date: '1996-07-12'
@@ -91,3 +92,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-11-23'
 ---
+Dale a tu cuerpo alegría, Macarena
+Que tu cuerpo es pa' darle alegría y cosa buena
+Dale a tu cuerpo alegría, Macarena
+Eh, Macarena, ¡Ay!
+Dale a tu cuerpo alegría, Macarena
+Que tu cuerpo es pa' darle alegría y cosa buena
+Dale a tu cuerpo alegría, Macarena
+Eh, Macarena, ¡Ay!
+
+
+Macarena tiene un novio que se llama
+Que se llama de apellido Vitorino
+Y en la jura de bandera el muchacho
+Se la vio con dos amigos
+Macarena tiene un novio que se llama
+Que se llama de apellido Vitorino
+Y en la jura de bandera el muchacho
+Se la vio con dos amigos
+
+
+Dale a tu cuerpo alegría, Macarena
+Que tu cuerpo es pa' darle alegría y cosa buena
+Dale a tu cuerpo alegría, Macarena
+Eh, Macarena, ¡Ay!
+Dale a tu cuerpo alegría, Macarena
+Que tu cuerpo es pa' darle alegría y cosa buena
+Dale a tu cuerpo alegría, Macarena
+Eh, Macarena, ¡Ay!
+
+
+Macarena, Macarena, Macarena
+Que tributo a los veranos de Marbella
+Macarena, Macarena, Macarena
+Que te gusta la movida guerrillera ¡Ay!
+
+
+Dale a tu cuerpo alegría, Macarena
+Que tu cuerpo es pa' darle alegría y cosa buena
+Dale a tu cuerpo alegría, Macarena
+Eh, Macarena, ¡Ay!
+Dale a tu cuerpo alegría, Macarena
+Que tu cuerpo es pa' darle alegría y cosa buena
+Dale a tu cuerpo alegría, Macarena
+Eh, Macarena, ¡Ay!
+
+
+Macarena sueña con El Corte Inglés
+Y se compra los modelos más modernos
+Le gustaría vivir en Nueva York
+Y ligar un novio nuevo, ¡Ay!
+Macarena sueña con El Corte Inglés
+Y se compra los modelos más modernos
+Le gustaría vivir en Nueva York
+Y ligar un novio nuevo, ¡Ay!
+
+
+Dale a tu cuerpo alegría, Macarena
+Que tu cuerpo es pa' darle alegría y cosa buena
+Dale a tu cuerpo alegría, Macarena
+Eh, Macarena, ¡Ay!
+Dale a tu cuerpo alegría, Macarena
+Que tu cuerpo es pa' darle alegría y cosa buena
+Dale a tu cuerpo alegría, Macarena
+Eh, Macarena, ¡Ay!
+
+
+Macarena tiene un novio que se llama
+Que se llama de apellido Vitorino
+Y en la jura de bandera el muchacho
+Se la vio con dos amigos
+Macarena tiene un novio que se llama
+Que se llama de apellido Vitorino
+Y en la jura de bandera el muchacho
+Se la vio con dos amigos
+
+
+Dale a tu cuerpo alegría, Macarena
+Que tu cuerpo es pa' darle alegría y cosa buena
+Dale a tu cuerpo alegría, Macarena
+Eh, Macarena, ¡Ay!
+Dale a tu cuerpo alegría, Macarena
+Que tu cuerpo es pa' darle alegría y cosa buena
+Dale a tu cuerpo alegría, Macarena
+Eh, Macarena, ¡Ay!

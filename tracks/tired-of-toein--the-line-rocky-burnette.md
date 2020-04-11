@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tired-of-toein--the-line-rocky-burnette
+lyrics_url: https://genius.com/Rocky-burnette-tired-of-toein-the-line-lyrics
 name: Tired Of Toein' The Line
 rankings:
 - end_date: '1980-05-16'
@@ -83,4 +84,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-13'
 ---
+Baby
+I'm tired of toein' the line
+Don't know why you wanna jump on me
+Baby, baby, baby
+You're making me cry
 
+
+Baby, I
+I'm gonna find myself someone new
+Someone who will be true
+And no more toein' the line
+
+I know it's over
+Cause I see the signs
+Don't let me waste your precious time
+
+Baby
+I'm tired of toeing the line
+If you want to get rid of me
+Baby, baby, baby
+You're doing fine
+
+
+Baby
+I'm tired of toein' the line
+I'm gonna put on my walking shoes
+And leave you far behind
+
+You're rolling over
+And over so divine
+But you can't fix this broken heart of mine
+
+
+
+Baby
+I'm tired of toein' the line
+Baby
+I'm tired of toein' the line
+Baby
+I'm tired of toein' the line
+Baby
+I'm tired of toein' the line
+Baby
+I'm tired of toein' the line
+Baby
+I'm tired of toein' the line

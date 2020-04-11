@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-sun-always-shines-on-tv-a-ha
+lyrics_url: https://genius.com/A-ha-the-sun-always-shines-on-tv-lyrics
 name: The Sun Always Shines on TV
 rankings:
 - end_date: '1985-12-06'
@@ -75,4 +76,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-22'
 ---
+Touch me, how can it be?
+Believe me the sun always shines on TV
+Hold me close to your heart
+Touch me and give all your love to me, to me
 
+
+I reached inside myself and found
+Nothing there to ease the pressure of my ever worrying mind
+All my powers waste away
+I fear the crazed and lonely looks the mirror's sending me these days
+
+
+
+
+Please don't ask me to defend
+The shameful lowlands of the way I'm drifting gloomily through time
+I reached inside myself today
+Thinking there's got to be some way to keep my troubles distant
+
+
+
+
+Hold me close to your heart
+Touch me and give all your love to me
+Your love to me

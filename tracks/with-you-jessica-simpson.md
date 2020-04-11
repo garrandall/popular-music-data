@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: with-you-jessica-simpson
+lyrics_url: https://genius.com/Jessica-simpson-with-you-lyrics
 name: With You
 rankings:
 - end_date: '2004-01-02'
@@ -99,4 +100,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-05-29'
 ---
+The real me is a Southern girl with her Levis on and an open heart
+Wish I could save the world, like I was super girl
+The real me used to laugh all night
+Lying in the grass just talking about love
+But lately, I've been jaded, life got so complicated
 
+
+I start thinking about it
+I almost forgot what it was like
+To know what it feels like
+With you
+
+
+I can let my hair down
+I can say anything crazy
+I know you'll catch me right before I hit the ground
+With nothing but a T-shirt on
+I never felt so beautiful
+Baby, as I do now
+Now that I'm with you
+With you, with you, with you
+Oh-oh, oh-oh
+Now that I'm with you
+
+
+You speak and it's like a song
+And just like that, all my walls come down
+It's like a private joke just meant for us to know
+I relate to you naturally
+Everybody else just fades away
+Sometimes it's hard to breathe
+Just knowing you found me
+
+
+'Cause I start thinking about it
+I almost forgot what it was like
+To know when love feels like
+'Cause with you
+
+
+I can let my hair down
+I can say anything crazy
+I know you'll catch me right before I hit the ground
+With nothing but a T-shirt on
+I never felt so beautiful
+Baby, as I do now
+Now that I'm with you
+With you, with you, with you
+Oh-oh, oh-oh
+
+
+Come and take me
+Love you, save me
+Like nobody else
+Now I can be myself
+With you
+
+
+I can let my hair down
+I can say anything crazy
+I know you'll catch me right before I hit the ground
+With nothing but a T-shirt on
+I never felt so beautiful
+Baby, as I do now (Baby, as I do now)
+Now that I'm with you (Now that I'm with you)
+I can let my hair down
+I can say anything crazy (Crazy)
+I know you'll catch me right before I hit the ground
+With nothing but a T-shirt on
+I never felt so beautiful
+Baby, as I do now
+Now that I'm with you

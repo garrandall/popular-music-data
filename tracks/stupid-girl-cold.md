@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stupid-girl-cold
+lyrics_url: https://www.musixmatch.com/lyrics/COLD/Stupid-Girl
 name: Stupid Girl
 rankings:
 - end_date: '2003-04-25'
@@ -87,4 +88,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-08-30'
 ---
+Wanna love ya
+Wanna bug ya
+Wanna squeeze ya
+Stupid girl
 
+Wanna touch ya
+Wanna take ya
+Wanna shut ya
+Stupid girl.
+
+I can't take this
+Born to break this.
+
+She's going away
+(She's going away)
+What's wrong with my life today?
+She's going away
+
+(She's going away)
+What's wrong with my life today?
+
+Stupid girl, Stupid girl
+I'm a loner
+I'm a loser
+I'm a winner
+In my mind.
+I'm a bad one
+
+I'm a good one
+I'm a sick one
+
+With a smile.
+I can't take this
+Born to break this.
+She's going away
+(She's going away)
+What's wrong with my life today?
+
+She's going away
+(She's going away)
+What's wrong with my life today?
+(What's wrong with my life today?)
+
+She's going away
+(She's going away)
+What's wrong with my life today?
+(Acoustic break)
+Stupid girl, Stupid girl
+Stupid girl, Stupid girl
+
+(Whoa)
+She's going away
+(She's going away)
+What's wrong with my life today?
+She's going away
+(She's going away)
+What's wrong with my life today?
+(What's wrong with my life today?)
+She's going away
+(She's going away)
+What's wrong with my life today?
+Stupid girl, Stupid girl
+Stupid girl, Stupid girl

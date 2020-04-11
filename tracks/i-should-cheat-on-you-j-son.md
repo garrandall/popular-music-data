@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-should-cheat-on-you-j-son
+lyrics_url: https://genius.com/Json-i-should-cheat-on-you-lyrics
 name: I Should Cheat On You
 rankings:
 - end_date: '1998-09-11'
@@ -59,4 +60,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
 ---
+You keep saying
+I’m creeping
+And I keep explaining for no reason
+Cause I’m not cheating
 
+But I’m thinking
+Since I go through
+What’s the difference if I do, babe?
+
+
+What can I say?
+(What can I say?)
+You don’t believe me anyway
+(Anyway)
+I should just cheat on you
+(On you)
+
+What (what)
+Can I do? (can I do?)
+Girl, you keep accusing me
+(Oh, you)
+I should just cheat on you
+(You)
+
+
+You keep saying you love me
+But save it, baby
+You don’t trust me
+
+Caught you checking my pager
+If I was cheating
+I would have erased it
+(Tell me, babe, why?)
+
+Must everywhere you go be on the down low?
+If you wasn't creeping
+Tell me why
+
+If I told you
+You’d say it was untrue
+I keep denying
+Sick of trying
+Maybe I should lie to you
+
+
+
+I should just
+I should just cheat on you
+I should just
+I should just cheat on you
+I should just
+I should just cheat on you
+
+What you gon’, gon’, gon’ do?
+
+
+Please, please, please
+How you gonna play me?
+Now you gonna make me cheat, cheat, cheat
+Got me going crazy
+I thought I was your baby
+
+
+
+Please, please, please
+Cheat, cheat, cheat
+Got me going crazy
+I thought I was your baby
+What can I say?

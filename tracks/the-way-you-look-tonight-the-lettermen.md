@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-way-you-look-tonight-the-lettermen
+lyrics_url: https://genius.com/The-lettermen-the-way-you-look-tonight-lyrics
 name: The Way You Look Tonight
 rankings:
 - end_date: '1961-09-10'
@@ -59,4 +60,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
 ---
+Some day, when I'm awfully low
+When the world is cold
+I will feel a glow just thinking of you...
+And the way you look tonight
 
+Yes you're lovely, with your smile so warm
+And your cheeks so soft
+There is nothing for me but to love you
+And the way you look tonight
+
+With each word your tenderness grows
+Tearing my fear apart...
+
+And that laugh that wrinkles your nose
+It touches my foolish heart
+
+Lovely ... Never, ever change
+Keep that breathless charm
+Won't you please arrange it ?
+'Cause I love you ... Just the way you look tonight
+
+Mm, Mm, Mm, Mm
+Just the way you look to-night

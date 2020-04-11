@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: spinning-around--i-must-be-falling-in-love--the-main-ingredient
+lyrics_url: https://genius.com/The-main-ingredient-spinning-around-i-must-be-falling-in-love-lyrics
 name: Spinning Around (I Must Be Falling In Love)
 rankings:
 - end_date: '1971-05-14'
@@ -43,4 +44,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-07-03'
 ---
+I'm spinning around and around ooh
+I'm walking on cloud nine
+I'm just about to blow my cool
+If I don't unwind
 
+I'm spinning around
+Spinning around
+Spinning around
+Spinning around
+I must be falling in love
+Baby
+I must be falling in love
+'Round and around and around
+
+I'm spinning around I can't stop
+I've lost my self-control
+I'm spinning around 'til I drop
+I'm whipped down to the soul
+
+I'm spinning around
+Spinning around
+Spinning around
+Spinning around
+I must be falling in love
+Baby
+I must be falling in love
+
+Turning around
+I'm upside-down
+Like a feather swift
+The wind will blow my mind
+The wind will blow my mind
+Won't let me stop
+
+Spinning around
+Spinning around
+Spinning around
+Spinning around
+I must be falling in love
+Baby
+I must be falling in love
+I'm falling
+I must be falling in love
+Baby
+I must be falling in love

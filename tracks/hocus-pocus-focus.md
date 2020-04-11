@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hocus-pocus-focus
+lyrics_url: https://genius.com/Focus-band-hocus-pocus-lyrics
 name: Hocus Pocus
 rankings:
 - end_date: '1973-03-09'
@@ -83,4 +84,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-07-07'
 ---
+Ôi orôrôi rôrôrôi rôrôrôi rôrôrôi rôrôrôi ohrorô poPÔ
+Yôi orôrôi rôrôrôi rôrôrôi rôrôrôi rôrôrôi ohrorô
+PoPÔ
+Aaaah aaah aaah aaah
+Uuuh oooh oooh ooooooooh
 
+
+Ôi orôrôi rôrôrôi rôrôrôi rôrôrôi rôrôrôi ohrorô poPÔ
+Yôi orôrôi rôrôrôi rôrôrôi rôrôrôi rôrôrôi ohrorô
+BoumPÔ
+Aaaah aaah aaah aaah
+Uuuh oooh oooh ooooooooh
+
+
+Tatrrrepôtetretrepiecôã-é-é-ô-hã-hén-Hén
+Ôi trégueregué-dôi detêro deguedô
+A tataro teguereguedaw
+Teguereguedêro dêdow Ô-Éhr-Ôhr-Êhr-Êhr-Áhr-Ó
+Hé Hã He How
+
+
+Ãi erêrãi rãrãrôi rôrôrôi rôrôrôi rôrôrôi ohrorô poPÔ
+Yôi orôrôi rôrôrôi rôrôrôi rôrôrôi rôrôrôi ohrorôm
+PomPÔ
+Aaaah aaah aaah aaah
+Uuuh oooh oooh ooooooooh
+
+
+Ôi orôrôi rôrôrôi rôrôrôi rôrôrôi rôrôrôi ohrorô poPÔ
+Yôi orôrôi rôrôrôi rô
+Aaaah aaah aaah aaah
+Uuuh oooh oooh ooooooooh
+UaaahuHahaha... Eee hi hi hááá

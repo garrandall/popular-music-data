@@ -1,6 +1,7 @@
 ---
 artists:
-- Duane Eddy And The Rebels
+- Duane Eddy
+- The Rebels
 features: []
 genres: []
 key: drivin--home-duane-eddy-and-the-rebels

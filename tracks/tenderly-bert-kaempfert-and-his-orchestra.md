@@ -1,6 +1,6 @@
 ---
 artists:
-- Bert Kaempfert And His Orchestra
+- Bert Kaempfert
 features: []
 genres: []
 key: tenderly-bert-kaempfert-and-his-orchestra

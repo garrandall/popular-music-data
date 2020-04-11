@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-a-fool-to-care-joe-barry
+lyrics_url: https://genius.com/Joe-barry-im-a-fool-to-care-lyrics
 name: I'm A Fool To Care
 rankings:
 - end_date: '1961-04-30'
@@ -55,4 +56,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-07-10'
 ---
+I'm a fool to care when you treat me this way
+I know I love you but what can I do
+I'm a fool to care
 
+
+I'm a fool to cry when you tell me goodbye
+You left me so blue when you were untrue
+I'm a fool to care
+
+
+I know I should laugh and call it a day
+But I know I would cry if you went away
+
+
+I'm a fool to care when you don't care for me
+So why should I pretend I'd lose in the end
+I'm a fool to care
+
+
+I know I should laugh and call it a day
+But I know I would cry if you went away
+
+
+I'm a fool to care when you don't care for me
+So why should I pretend I'd lose in the end
+I'm a fool to care

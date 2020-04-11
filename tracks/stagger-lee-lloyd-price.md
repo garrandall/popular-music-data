@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stagger-lee-lloyd-price
+lyrics_url: https://genius.com/Lloyd-price-stagger-lee-lyrics
 name: Stagger Lee
 rankings:
 - end_date: '1958-12-14'
@@ -91,4 +92,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-27'
 ---
+The night was clear
+And the moon was yellow
+And the leaves came tumbling down
 
+I was standing on the corner
+When I heard my bulldog bark
+He was barking at the two men
+Who were gambling in the dark
+
+It was Stagger Lee and Billy
+Two men who gambled late
+Stagger Lee threw seven
+Billy swore that he threw eight
+
+Stagger Lee told Billy
+"I can't let you go with that
+You have won all my money
+And my brand new Stetson hat."
+
+Stagger Lee started off
+Goin down that railroad track
+He said, I can't get you Billy
+But don't be here when I come back
+
+Go on, Stagger Lee
+
+Stagger Lee went home
+And he got his .44
+Said, "I'm going to the bar room
+Just to pay that debt I owe."
+
+Stagger Lee went to the bar room
+And he stood across the bar room door
+Said, "Now nobody move."
+And he pulled his .44
+
+"Stagger Lee," cried Billy
+"Oh, please don't take my life
+I got three little children
+And a very sickly wife."
+
+Stagger Lee shot Billy
+Oh he shot that poor boy so bad
+Till the bullet came through Billy
+And it broke the bartender's glass
+
+Now look out, Stagg, come on

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-shed-a-tear-paul-carrack
+lyrics_url: https://genius.com/Paul-carrack-dont-shed-a-tear-lyrics
 name: Don't Shed A Tear
 rankings:
 - end_date: '1987-11-20'
@@ -103,4 +104,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-04-23'
 ---
+Cab fare to nowhere is what you are
+A white line to an exit sign is what you are
+Oh but I saw in you, now I see through
 
+CHORUS:
+Don't shed a tear for me
+My life won't end without you
+Long as the night will be
+The sun will rise without you
+
+A locked door on a candy store is what you are
+A slim chance in tight pants is what you are
+All that I loved you for, I want it more
+
+CHORUS
+
+You are giving what I'm not taking
+I'm not missing what we ain't making
+Oh but I saw in you, now I see through
+
+CHORUS
+
+CHORUS
+
+Don't shed no tears
+I don't need a thing

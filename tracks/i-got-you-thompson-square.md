@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-got-you-thompson-square
+lyrics_url: https://genius.com/Thompson-square-i-got-you-lyrics
 name: I Got You
 rankings:
 - end_date: '2011-09-09'
@@ -79,4 +80,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-12-31'
 ---
+A car's got gasoline to run, down the road
+A crop's got rain, dirt and sun, to make 'em grow
+A song's got rhyme
+A clock's got time
+You got me and
 
+
+Baby I got you
+Yeah you're it
+The missing piece that makes me fit
+I got you, the breath I breathe
+And there ain't nothing else I need
+Baby I got you
+Yeah yeah yeah yeah
+
+
+I don't need a big ol' house, full of stuff
+What my arms are wrapped around, that's enough
+Your morning smile, your kiss goodnight
+
+And everything's alright
+
+
+'Cause I got you
+Yeah you're it
+The missing piece that makes me fit
+I got you, the breath I breathe
+And there ain't nothing else I need
+Baby I got you
+
+
+
+When the right goes wrong
+
+When I'm scared to death and got nothing left to lean on
+
+
+
+I got you
+
+Yeah yeah yeah yeah
+Yeah I do
+
+Baby I got you
+
+Yeah yeah yeah yeah
+
+Yeah you got me too
+
+
+I got you
+Yeah you're it
+The missing piece that makes me fit
+I got you, the breath I breathe
+And there ain't nothing else I need
+Baby I got you
+Yeah yeah yeah yeah
+
+
+
+Yeah baby
+
+I got you
+
+Yeah yeah yeah yeah
+
+Baby I got you
+Baby I got you

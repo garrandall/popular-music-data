@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: nights-are-forever-without-you-england-dan-john-ford-coley
+lyrics_url: https://genius.com/England-dan-and-john-ford-coley-nights-are-forever-without-you-lyrics
 name: Nights Are Forever Without You
 rankings:
 - end_date: '1976-10-15'
@@ -72,4 +73,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-01-22'
 ---
+Lying in bed with the radio on
+Moonlight falls like rain
+Soft summer nights spent
+Thinking of you
+When will I see you again?
 
+Soft and low the music moans
+I can't stop thinking about you
+Thinking 'bout you
+
+
+I didn't know it would be so strong
+Waiting and wondering about you
+I didn't know it would last so long
+Nights are forever without you
+
+
+Curtains still dance
+With the wind and the sky
+The sun will be coming up soon
+But I just can't sleep for thinking of you
+Here alone with the moon
+
+Soft and low the music moans
+I can't stop thinking about you
+Thinking 'bout you
+
+
+
+
+Nights are forever without you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tennessee-waltz-jerry-fuller
+lyrics_url: https://www.musixmatch.com/lyrics/Jerry-Fuller/Tennessee-Waltz
 name: Tennessee Waltz
 rankings:
 - end_date: '1959-10-25'
@@ -31,4 +32,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-23'
 ---
+Well I was dancin'
+With my baby
+To the Tenne Tennessee Waltz
+When an old friend
+I happened I happened to see
 
+I introduced him
+To my baby
+And while and while they were a-dancin'
+My friend stole my baby from me
+
+Well I remember remember that night
+And that Tennessee Waltz
+Well only you know just how much how much I've lost
+
+Well, I lost her, I lost my baby
+The night the night that they were playin'
+That beautiful Tennessee Waltz
+
+
+
+Well I remember remember that night
+And that Tennessee Waltz
+Well only you know, just how much how much I've lost
+
+Well I lost I lost my baby
+The night, the night that they were playin'
+That beautiful Tennessee Waltz
+Hmmm, hmmm, hmmmm, Tennessee Waltz
+Hmmm, hmmm, hmmmm, Tennessee Waltz

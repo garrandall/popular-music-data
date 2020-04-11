@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: strength-the-alarm
+lyrics_url: https://genius.com/The-alarm-strength-lyrics
 name: Strength
 rankings:
 - end_date: '1986-01-03'
@@ -47,4 +48,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-01'
 ---
+GIVE ME LOVE
+GIVE ME HOPE
+GIVE ME STRENGTH
+GIVE ME SOMEONE TO LIVE FOR
 
+Who will light the fire
+That I need to survive
+Who will be the life blood
+Coursing through my veins
+
+Like a river flowing
+That will never change
+I need someone
+I can depend on
+
+'Cause I'm a man of emotions
+Who can't hide the tears
+I'm a man of feeling
+Who can't hide the pain
+
+I'm alone on the outskirts of town
+Where no one knows my name
+I'm at the point in my life
+Where I need affection
+
+WON'T YOU
+GIVE ME LOVE (Give me love)
+GIVE ME HOPE (Give me hope)
+GIVE ME STRENGTH
+GIVE ME SOMEONE TO LIVE FOR
+
+GIVE ME LOVE (Give me love)
+GIVE ME HOPE (Give me hope)
+GIVE ME STRENGTH
+GIVE ME SOMEONE TO LIVE FOR
+
+I NEED IT NOW
+I NEED IT NOW
+
+Someone write me a letter
+I need to know that I'm still alive
+Someone give me a telephone call
+I need to hear a human sound
+Someone open up a door
+And let me out of this place
+I've been caged up for oh so long
+I don't know if I'm living or dying
+
+SOMEONE BETTER
+GIVE ME LOVE (Give me love)
+GIVE ME HOPE (Give me hope)
+GIVE ME STRENGTH
+GIVE ME SOMEONE TO LIVE FOR
+
+GIVE ME LOVE (Give me love)
+GIVE ME HOPE (Give me hope)
+GIVE ME STRENGTH
+GIVE ME SOMEONE TO LIVE FOR
+
+I walk alone across the outskirts of town
+I can't control what I'm going through now
+Will you light the fire that I need to survive
+Will you donate the life blood
+Coursing through my veins
+Will you open up the door & let me out of this place
+
+I've been caged up for oh so long
+I don't know if I'm living or dying
+
+WON'T YOU
+GIVE ME LOVE (Give me love)
+GIVE ME HOPE (Give me hope)
+GIVE ME STRENGTH
+GIVE ME SOMEONE TO LIVE FOR
+
+GIVE ME LOVE (Give me love)
+GIVE ME HOPE (Give me hope)
+GIVE ME STRENGTH
+GIVE ME SOMEONE
+SOMEONE TO LIVE FOR

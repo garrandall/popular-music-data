@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-ask-me-to-be-friends-the-everly-brothers
+lyrics_url: https://genius.com/The-everly-brothers-dont-ask-me-to-be-friends-lyrics
 name: Don't Ask Me To Be Friends
 rankings:
 - end_date: '1962-10-26'
@@ -35,4 +36,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
 ---
+After all we've been
+To one another
+How can we become
+Like sister and brother
+Darling I beg of you
+If our love must end
+Ask me to forget you
+But don't ask me to be friends
 
+After being the one
+That you took pride in
+I just couldn't be
+The friend you'd confide in
+If it's goodbye for us
+We'll never meet again
+Ask me to forget you
+But don't ask me to be friends
+
+Wanting you so badly
+Needing you like this
+How can I just look at
+The lips that I used to kiss
+
+If there's someone else
+Don't let me see him
+‘Cause I'll spend my life
+Wishing I could be him
+Darling I beg of you
+If our love must end
+Ask me to forget you
+But don't ask me to be friends

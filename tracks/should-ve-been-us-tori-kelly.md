@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: should-ve-been-us-tori-kelly
+lyrics_url: https://genius.com/Tori-kelly-shouldve-been-us-lyrics
 name: Should've Been Us
 rankings:
 - end_date: '2015-08-07'
@@ -47,4 +48,89 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-10-03'
 ---
+Walk around with my head down
+But I can't hide with these high heels on
+Downtown in the thick crowd
+But it’s just you that my mind is on
+Dressed up, got my heart messed up
+You got yours and I got mine
+It's unfair that I still care
+And I wonder where you are tonight
 
+
+Thinkin it could be different, maybe we missed it
+Thinkin it could be different
+It could, it could
+
+
+It should've been us
+Should've been a fire, should've been the perfect storm
+It should've been us
+Could've been the real thing, now we'll never know for sure
+We were crazy, but amazing
+Baby, we both know
+It should've been us, us
+It, it, it should've been us
+
+
+Back and forth like a tug o’ war
+What's it all for? Do I want it back?
+Still got a little flame for ya
+Even though you drove me mad
+Now and then, I pretend
+That it's you when I close my eyes
+You got yours, I got mine
+But I wonder where you are tonight
+
+
+It should've been us
+Should've been a fire, should've been the perfect storm
+It should've been us
+Could've been the real thing, now we'll never know for sure
+We were crazy, but amazing
+Baby, we both know
+It should've been us, us
+It, it, it should've been us
+
+
+Oh oh, oh oh
+It should've been us
+Oh oh, oh oh, oh oh oh
+Oh oh, oh oh
+It should've been us
+It, it, it should've been us
+Oh oh, oh oh, oh oh oh
+Oh oh, oh oh
+Oh oh, oh oh, oh oh oh
+Oh oh, oh oh
+
+
+Thinkin it could be different, maybe we missed it
+Thinkin it could be different
+It could, it could
+
+
+It should've been us
+Should've been a fire, should've been the perfect storm
+It should've been us
+Could've been the real thing, now we'll never know for sure
+Ooh, we were crazy, but amazing
+Baby, we both know
+It should've been us, us
+It, it, it should've been us
+
+
+Oh oh, oh oh
+It should've been us
+Oh oh, oh oh, oh oh oh
+Oh oh, oh oh
+Oh oh, oh oh
+It should've been us
+It, it, it should've been us
+Oh oh, oh oh
+It should've been us
+Oh oh, oh oh, oh oh oh
+Oh oh, oh oh
+Oh oh, oh oh
+It should've been us
+It, it, it should've been us

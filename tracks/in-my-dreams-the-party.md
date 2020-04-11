@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-my-dreams-the-party
+lyrics_url: https://www.musixmatch.com/lyrics/The-Party/In-My-Dreams
 name: In My Dreams
 rankings:
 - end_date: '1991-11-22'
@@ -79,4 +80,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-03-14'
 ---
+In my dreams it's still the same
+Your love is strong, it still remains
+Yeah
+Uh huh
 
+Toss and turn all night in the sheets
+I can't sleep (I can't sleep)
+Night after night don't know what it means
+In my dreams (In my dreams)
+What can I say or do
+You wont come back, were through
+I've realized too late
+That, baby, your love has turned away
+In my dreams it's still the same
+Your love is strong, it still remains
+In my dreams you're still by me
+Just the way it used to be
+Hey
+Ahh
+Calling your name, but you're turning away
+Please don't leave
+Running in circles, waiting to see
+You in my dreams (in my dreams)
+What can I say or do
+(What can I say or do)
+You wont come back, we're through
+I've realized too late
+That, baby, your love has turned away
+In my dreams it's still the same
+Your love is strong, it still remains
+In my dreams you're still by me
+Just the way it used to be
+
+In my dreams I'll never be without you
+In my dreams there's nothing we can't do
+In my dreams I never have to doubt you
+In my dreams I'm still in love with you, it's true
+
+In my dreams it's still the same
+Your love is strong, it still remains
+In my dreams you're still by me
+Just the way it used to be
+In my dreams it's still the same
+Your love is strong, it still remains
+In my dreams you're still by me
+Just the way it used to be
+In my dreams it's still the same
+Your love is strong, it still remains

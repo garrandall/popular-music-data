@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-more-i-see-you-chris-montez
+lyrics_url: https://genius.com/Chris-montez-the-more-i-see-you-lyrics
 name: The More I See You
 rankings:
 - end_date: '1966-04-22'
@@ -63,4 +64,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-16'
 ---
+The more I see you, the more I want you
+Somehow this feeling just grows and grows
+With every sigh I become more mad about you
+More lost without you and so it goes
 
+Can you imagine how much I love you?
+The more I see you as years go by
+I know the only one for me can only be you
+My arms won't free you, and my heart won't try
+
+Can you imagine how much I love you?
+The more I see you as years go by
+I know the only one for me can only be you
+My arms won't free you, and my heart won't try

@@ -1,6 +1,6 @@
 ---
 artists:
-- Art Mooney And His Orchestra
+- Art Mooney
 features: []
 genres: []
 key: banjo-boy-art-mooney-and-his-orchestra

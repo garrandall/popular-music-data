@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-a-beauty-the-tubes
+lyrics_url: https://genius.com/The-tubes-shes-a-beauty-lyrics
 name: She's A Beauty
 rankings:
 - end_date: '1983-04-15'
@@ -87,4 +88,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-08-20'
 ---
+Step right up, and don't be shy
+Because you will not believe your eyes
+She's right here, behind the glass
+You're gonna like her 'cause she's got class
 
+
+You can look inside another world
+You get to talk to a pretty girl
+She's everything you dream about
+
+
+(But don't fall in love)
+She's a beauty
+(She's one in a million girl)
+She's a beauty
+(Why would I lie?)
+Why would I lie?
+
+
+You can say anything you like
+But you can't touch the merchandise
+She'll give you every penny's worth
+But it will cost you a dollar first
+
+
+You can step outside your little world
+(Step outside your world)
+You can talk to a pretty girl
+She's everything you dream about
+
+
+(But don't fall in love)
+She's a beauty
+(She's one in a million girl)
+She's a beauty
+(Why would I lie?)
+Why would I lie?
+
+
+(But don't fall in love)
+'Cause if you do you find out she don't love you
+(She's one in a million girl)
+One in a million girl
+(Why would I lie?)
+Now, why would I lie? Oh
+
+
+
+
+Step outside your world
+
+
+(But don't fall in love)
+She's a beauty
+(She's one in a million girl)
+One in a million girl
+(Why would I lie?)
+Now, why would I lie?
+
+
+(But don't fall in love)
+Cause if you do you find out she don't love you
+(She's one in a million girl)
+One in a million girl
+(Why would I lie?)
+Why would I lie?
+
+
+(But don't fall in love)
+(She's one in a million girl)
+(Why would I lie?)

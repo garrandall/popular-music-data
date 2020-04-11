@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-we-dance-sting
+lyrics_url: https://genius.com/Sting-when-we-dance-lyrics
 name: When We Dance
 rankings:
 - end_date: '1994-11-04'
@@ -79,4 +80,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-02-25'
 ---
+If he loves you
+Like I love you
+I would walk away in shame
+I'd move town
+I'd change my name
 
+
+When he watches you
+When he counts to buy your soul
+On your hand his golden rings
+Like he owns a bird that sings
+
+
+When we dance, angels will run and hide their wings
+
+
+The priest has said my soul's salvation
+Is in the balance of the angels
+And underneath the wheels of passion
+I keep the faith in my fashion
+When we dance, angels will run and hide their wings
+I'm still in love with you
+I'm going to find a place to live
+Give you all I've got to give
+
+
+When we dance, angels will run and hide their wings
+When we dance, angels will run and hide their wings
+
+
+If I could break down these walls
+And shout my name at heaven's gate
+I'd take these hands
+And I'd destroy the dark machineries of fate
+Cathedrals are broken
+Heaven's no longer above
+And hellfire's a promise away
+I'd still be saying
+I'm still in love
+
+He won't love you
+Like I love you
+He won't care for you this way
+He'll mistreat you if you stay
+Come and live with me
+We'll have children of our own
+I would love you more than life
+If you'll come and be my wife
+
+
+When we dance, angels will run and hide their wings
+When we dance, angels will run and hide their wings
+When we dance, angels will run and hide their wings
+When we dance, angels will run and hide their wings

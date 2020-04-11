@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: he-did-with-me-vicki-lawrence
+lyrics_url: https://genius.com/Vicki-lawrence-he-did-with-me-lyrics
 name: He Did With Me
 rankings:
 - end_date: '1973-06-29'
@@ -35,4 +36,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-08-04'
 ---
+Look at you, girl
+Walking down the street
+For all the world to see
+And if it seems you walk on air
+Well, who wouldn't be?
 
+You're closer to your brand new love
+With every step you take
+And I can almost tell you
+Every little move he'll make
+
+
+Does he hold you till you're sleeping softly every night?
+Does he wake you with a kiss to share the morning light?
+And when he loves you
+Does he close his eyes?
+
+And reach for you each time you rise?
+Has he told you yet
+He'll never set you free?
+He did with me
+
+I used to smile at how he'd leave
+His clothes all scattered on the floor
+And leave the shower running
+And forget to close the door
+
+The way he said each Sunday
+Let's have breakfast here in bed
+And all the toast that used to burn
+While we'd make love instead
+
+
+Does he hold you till you're sleepig' softly every night?
+Does he wake you with a kiss to share the morning light?
+And when he loves you
+Does he close his eyes?
+
+And reach for you each time you rise?
+Has he told you yet
+He'll never set you free?
+He did with me

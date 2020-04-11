@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-are-you-now--jimmy-harnen-with-synch
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Harnen-with-Synch/Where-Are-You-Now
 name: Where Are You Now?
 rankings:
 - end_date: '1986-03-07'
@@ -151,4 +152,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-08-05'
 ---
+All alone tonight im calling out your name
+Somewhere deep inside this part of you remains
+Images of love take me back in time
 
+I don't know how it started
+Or why it ever had to end
+Something stepped inside
+
+We didn't let it in
+It's keeping us apart
+Someone there tonight
+Holding what was mine
+
+You wonder where i am
+Are you really feeling fine
+Going through my life without you by my side
+
+You're the only thing that keeps going through my mind
+And nothing that i do can take the place of you
+Someone there tonight holding what was mine
+
+Where are you now, do you wonder where i am
+Are you really feeling fine
+Ooh thinking about you girl
+
+There's gotta be a place for me
+Somewhere in your heart
+All alone tonight i'm calling out your name
+Somewhere deep inside this part of you remains
+Images of love and where are you now
+Is someone there tonight holding what was mine
+You wonder where i am, i need you here tonight.

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-fine-fine-day-tony-carey
+lyrics_url: https://genius.com/Tony-carey-a-fine-fine-day-lyrics
 name: A Fine Fine Day
 rankings:
 - end_date: '1984-03-09'
@@ -67,4 +68,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-06-09'
 ---
+When my Uncle Sonny blew back into town
+Said "I'll just go for a ride
+And have a look 'round."
+And he took off his fidora
+And stuck his fingers in the crown
+And he pulled out twenty dollars
+And he laid that money down
 
+And he called out to a taxi cab
+"Take me down to central park
+And keep that meter runnin'
+To the twenty dollar mark."
+And he kept his eyes turned forward
+And he sat up straight and tall
+And no one even noticed him
+No one cared at all
+
+It's a Fine, Fine Day
+For a reunion
+It's a Fine, Fine Day
+For comin' home
+You did your sittin'
+You did hard time
+But you ain't gonna sit no more
+They can't keep you there no more
+It's a Fine, Fine Day
+And nothin's gonna take it
+Nothin's gonna take it away
+It's a Fine, Fine Day
+
+First time I saw Sonny
+I was just about this tall
+And he always made my momma
+Kinda crazy when he'd call
+Him and my old man
+Would stand and whisper in the hall
+Then they'd disappear
+And maybe not come home at all
+
+Then one day Sonny stopped comin' round
+Heard he'd gotten himself into
+A little trouble out in town
+Sometime after that
+He finally dissappeared for good
+Then he pulled out ol' Houdini
+Like we always knew he would!
+
+It's a Fine, Fine Day
+For a reunion
+It's a Fine, Fine Day
+For comin' home
+You did your sittin'
+You did hard time
+But you ain't gonna sit no more
+They can't keep you there no more
+It's a Fine, Fine Day
+And nothin's gonna take it
+Nothin's gonna take it away
+It's a Fine, Fine Day
+
+"I see you made it back alright, alright
+I see you're none the worse for wear
+It's been a long time comin'
+Nothin's gonna drag you away from here!"
+
+A Fine, Fine Day!
+And nothin's gonna take
+Nothin's gonna take it away
+Oh yeah
+A Fine, Fine Day... A Fine Day

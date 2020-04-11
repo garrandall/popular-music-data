@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-your-girl-only-knew-aaliyah
+lyrics_url: https://genius.com/Aaliyah-if-your-girl-only-knew-lyrics
 name: If Your Girl Only Knew
 rankings:
 - end_date: '1996-09-06'
@@ -87,4 +88,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-01-11'
 ---
+If your girl only knew
+That you was trying to get with me (what would she do)
+If your girl only knew
+That you was dissin' her to talk to me
 
+
+She would probably leave you alone
+She would probably curse you out and unplug her phone
+I bet she'd be glad that you was gone
+And then she wouldn't have to worry
+
+
+If your girl only knew
+That I would want to kick it with you (If she knew)
+And if your girl could only see
+How you be calling me, getting fresh with me (She would leave!)
+
+
+She would probably leave you alone (Leaave. You alone)
+She would probably curse you out and unplug her phone
+I bet she'd be glad that you was gone
+And then she wouldn't have to worry
+
+
+She's crazy to put up with you
+Oh boy I won't be no fool
+Let you like what you see
+It ain't easy to get with me
+But it's dumb to put up with you
+I won't be no fool
+Let you like what you see
+It ain't easy to get with me
+
+
+She would probably leave you alone
+She would probably curse you out and unplug her phone
+I bet she'd be glad that you was gone
+And then she wouldn't have to worry
+
+She would probably leave you alone
+She would probably curse you out and unplug her phone
+I bet she'd be glad that you was gone
+And then she wouldn't have to worry
+
+(If your girl only knew) She would probably leave you alone
+She would probably curse you out and unplug her phone
+(If your girl only knew) I bet she'd be glad that you was gone
+And then she wouldn't have to worry
+
+
+If your girl only knew
+What you saying, what you saying, what you saying, huh?
+What you saying, what you saying, what you saying, huh?
+What you saying, what you saying
+If your girl only knew
+What you saying, what you saying, what you saying, huh?
+What you saying, what you saying, what you saying, huh?
+What you saying, what you saying, huh? Check
+
+If your girl only knew
+What you saying, what you saying, what you saying, huh?
+What you saying, what you saying, what you saying, huh?
+You ain't saying nothin' baby check
+If your girl only knew
+What you saying, what you saying, what you saying, huh?
+What you saying, what you saying, what you saying, huh?
+You ain't saying nothin' baby, uh
+Like that, uh
+You ain't sayin' nothin' baby, uh
+Let the music ride
+Just take a walk down with me baby
+Can you feel me, can you feel me? Word
+Timbaland, mo' 'gain
+Blackground, check

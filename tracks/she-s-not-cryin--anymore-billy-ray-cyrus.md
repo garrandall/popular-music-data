@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-not-cryin--anymore-billy-ray-cyrus
+lyrics_url: https://genius.com/Billy-ray-cyrus-shes-not-cryin-anymore-lyrics
 name: She's Not Cryin' Anymore
 rankings:
 - end_date: '1993-03-19'
@@ -43,4 +44,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-05-08'
 ---
+She used to cry when I'd come home late
+She couldn't buy the lies I told
+All she wanted was to be needed
+Someone that she could call her own
+Her love, I know I took for granted
+Until she walked out of my door
+Too little too late to say I'm sorry
+'Cause she's not crying anymore
 
+
+She's not crying anymore
+And she ain't lonely any longer
+There's a smile upon her face
+A new love takes my place
+She's not crying anymore
+
+
+I guess she's really doing well
+Now she's picked herself up off the ground
+I wasn't there when I was needed
+But I was there to let her down
+Sometimes, you know, I feel so foolish
+If I knew then what I know now
+Another tear would never fall
+'Cause I'd give our love my all
+If we could work things out somehow
+
+
+But she's not crying anymore
+And she ain't lonely any longer
+There's a smile upon her face
+A new love takes my place
+She's not crying anymore
+
+
+She's not crying anymore
+And she ain't lonely any longer
+There's a smile upon her face
+A new love takes my place
+She's not crying anymore
+There's a smile upon her face
+A new love takes my place
+She's not crying anymore

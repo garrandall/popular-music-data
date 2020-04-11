@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: those-oldies-but-goodies--remind-me-of-you--little-caesar-and-the-romans
+lyrics_url: https://genius.com/Little-caesar-and-the-romans-those-oldies-but-goodies-annotated
 name: Those Oldies But Goodies (Remind Me Of You)
 rankings:
 - end_date: '1961-05-07'
@@ -59,4 +60,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-07-24'
 ---
+Those oldies but goodies reminds me of you
+The songs of the past bring back memories of you
+I always remember the first night we met
+The songs they were playing I never will forget
 
+I always will treasure them so close to my heart
+They always will haunt me although we're apart
+Each time that I hear them a tear's bound to fall
+For I love those memories that I, I-I recall
+
+Those oldies but goodies reminds me of you
+The songs of the past bring back memories of you
+Forever they will haunt me but what can I do
+Those oldies but goodies reminds me of you
+
+(Oldies but goodies reminds me of you) - repeat several times over David Johnson's ad-lib spoken-word portion about memories
+
+Those oldies but goodies reminds me of you
+The songs of the past bring back memories of you
+Forever they will haunt me but what can I do
+Those oldies but goodies reminds me of you

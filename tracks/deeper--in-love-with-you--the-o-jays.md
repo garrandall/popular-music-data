@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: deeper--in-love-with-you--the-o-jays
+lyrics_url: https://www.musixmatch.com/lyrics/The-O-Jays-2/Deeper-In-Love-With-You
 name: Deeper (In Love With You)
 rankings:
 - end_date: '1970-04-10'
@@ -35,4 +36,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-05-16'
 ---
+There is a longing
+Only You can fill
+A raging tempest
+Only You can still
+My soul is thirsty Lord
+To know You as I'm known
+Drink from the river
+That flows before Your throne
 
+Take me deeper
+Deeper in love with You
+Jesus hold me close in Your embrace
+Take me deeper
+Deeper than I've ever been before
+I just want to love You more and more
+How I long to be deeper in love
+
+Sunrise to sunrise
+I will seek Your face
+Drawn by the Spirit
+To the promise of Your grace
+My heart has found in You
+A hope that will abide
+Here in Your presence
+Forever satisfied
+
+Take me deeper
+Deeper in love with You
+Jesus hold me close in Your embrace
+Take me deeper
+Deeper than I've ever been before
+I just want to love You more and more
+How I long to be deeper in love
+
+How I long to be deeper in love

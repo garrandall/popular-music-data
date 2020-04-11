@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-way-we-were-barbra-streisand
+lyrics_url: https://genius.com/Barbra-streisand-the-way-we-were-lyrics
 name: The Way We Were
 rankings:
 - end_date: '1973-11-30'
@@ -99,4 +100,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-04-27'
 ---
+Hmmmmm hmmmmm
+Hmm hmm hmmmmmm hmmm hmmm hmm hmm
+Hmm hmm hmmmm hmmmm hmmmmm hmm
+Hmm hmm hmm hmm hmmmmmm
 
+
+Hmm hmm
+Memories
+Light the corners of my mind
+Misty water-colored memories
+Of the way we were
+
+
+Scattered pictures
+Of the smiles we left behind
+Smiles we gave to one another
+For the way we were
+
+
+Can it be that
+It was all so simple then?
+Or has time re-written every line?
+If we had the chance to do it all again
+Tell me, would we?
+Could we?
+
+
+Memories
+May be beautiful and yet
+What's too painful to remember
+We simply choose to forget
+
+
+So it's the laughter
+We will remember
+Whenever we remember
+The way we were
+The way we were
+Hmmmmm hmmmmm
+Hmm hmm hmmmmmm hmmm hmmm hmm hmm
+Hmmm hmmm hmmmmm hmmmmm hmmmmmmmmmmm

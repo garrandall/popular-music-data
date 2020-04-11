@@ -5,6 +5,7 @@ features:
 - Daya
 genres: []
 key: don-t-let-me-down-the-chainsmokers-daya
+lyrics_url: https://genius.com/The-chainsmokers-dont-let-me-down-lyrics
 name: Don't Let Me Down
 rankings:
 - end_date: '2016-03-04'
@@ -216,4 +217,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
 ---
+Crashing, hit a wall
+Right now I need a miracle
+Hurry up now, I need a miracle
+Stranded, reaching out
+I call your name, but you're not around
+I say your name, but you're not around
 
+
+I need you, I need you, I need you right now
+Yeah, I need you right now
+So don't let me, don't let me, don't let me down
+I think I'm losing my mind now
+It's in my head, darling, I hope
+That you'll be here when I need you the most
+So don't let me, don't let me, don't let me down
+D-don't let me down
+Don't let me down
+
+
+Don't let me down, down, down
+Don't let me down
+Don't let me down, down, down
+
+
+R-r-running out of time
+I really thought you were on my side
+But now there's nobody by my side
+
+
+I need you, I need you, I need you right now
+Yeah, I need you right now
+So don't let me, don't let me, don't let me down
+I think I'm losing my mind now
+It's in my head, darling, I hope
+That you'll be here when I need you the most
+So don't let me, don't let me, don't let me down
+D-don't let me down
+Don't let me down
+
+
+Don't let me down, down, down
+Don't let me down, down, down
+Don't let me down, down, down
+Don't let me down
+Don't let me down, down, down
+
+
+Ooh, I think I'm losing my mind now, yeah
+Ooh, I think I'm losing my mind now, yeah
+
+
+I need you, I need you, I need you right now
+Yeah, I need you right now
+So don't let me, don't let me, don't let me down
+I think I'm losing my mind now
+It's in my head, darling, I hope
+That you'll be here when I need you the most
+So don't let me, don't let me, don't let me down
+Don't let me down
+
+
+Yeah, don't let me down
+Yeah, don't let me down
+Don't let me down, oh, no
+Say don't let me down
+Don't let me down, no-o
+Don't let me down
+Don't let me down, down, down

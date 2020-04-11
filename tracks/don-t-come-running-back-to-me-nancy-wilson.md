@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-come-running-back-to-me-nancy-wilson
+lyrics_url: https://genius.com/Nancy-wilson-dont-come-running-back-to-me-lyrics
 name: Don't Come Running Back To Me
 rankings:
 - end_date: '1965-02-05'
@@ -27,4 +28,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-27'
 ---
+If she walks out on you
+Don't come running back to me
+Don't come running back to me
 
+When you're alone and blue
+Don't come running back to me
+Don't come running back to me
+
+If she's the one you want
+Good luck and goodbye
+I won't stand in your way
+I won't even try
+
+Someday you'll miss my kiss
+You'll come knocking on my door
+You'll come knocking on my door
+
+But just remember this
+I won't want you anymore
+I won't want you anymore
+
+When you wake up and find
+I'm in your heart and on your mind
+Don't come running back to me
+Don't come running back to me
+Don't come running back to me
+
+When you wake up and find
+I'm in your heart and on your mind
+Don't come running back to me
+Don't come running back to me
+Don't come running back to me

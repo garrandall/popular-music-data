@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-day-in-the-life-of-a-fool-jack-jones
+lyrics_url: https://genius.com/Jack-jones-a-day-in-the-life-of-a-fool-lyrics
 name: A Day In The Life Of A Fool
 rankings:
 - end_date: '1966-11-04'
@@ -39,4 +40,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
 ---
+A day in the life of a fool
+A sad and a long lonely day
+I walk the avenue and hope I'll run into
+The welcome sight of you coming my way
 
+I stop just across from your door
+But you're never home any more
+So back to my room and there in the gloom
+I cry tears of goodbye
+'Till you come back to me that's the way it will be
+Every day in the life of fool

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-ask-me-why-billy-joel
+lyrics_url: https://genius.com/Billy-joel-dont-ask-me-why-lyrics
 name: Don't Ask Me Why
 rankings:
 - end_date: '1980-08-08'
@@ -67,4 +68,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-08'
 ---
+All the waiters in your grand cafe
+Leave their tables when you blink
+Every dog must have his everyday
+Every drunk must have his drink
 
+
+Don't wait for answers
+Just take your chances
+Don't ask me why
+
+
+All your life you had to stand in line
+Still you're standing on your feet
+All your choices made you change your mind
+Now your calendar's complete
+
+
+Don't wait for answers
+Just take your chances
+Don't ask me why
+
+
+You can say the human heart
+Is only make-believe
+And I am only fighting fire with fire
+But you are still a victim
+Of the accidents you leave
+As sure as I'm a victim of desire
+
+
+All the servants in your new hotel
+Throw their roses at your feet
+Fool them all but baby I can tell
+You're no stranger to the street
+
+
+Don't ask for favors
+Don't talk to strangers
+Don't ask me why
+
+
+Yesterday you were an only child
+Now your ghosts have gone away
+You can kill them in the classic style
+Now you, "parlez vous francais"
+
+
+Don't look for answers
+You took your chances
+Don't ask me why
+Don't ask me why

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-and-the-river-nat-king-cole
+lyrics_url: https://www.musixmatch.com/lyrics/Nat-King-Cole/Time-and-the-River
 name: Time And The River
 rankings:
 - end_date: '1960-02-07'
@@ -39,4 +40,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-03-21'
 ---
+Time and the river
+Will bring my love to me.
+If I must, I'll wait forever
+By the river that took her to the sea.
 
+Here by the river
+We loved, we laughed, we cried.
+But with time, my love, my darling,
+Left my arms and was gone with the tide.
+
+*How long I've been lonely;
+Star of love, shine bright.
+I need her; oh, lead her
+To my arms tonight.
+
+Time and the river,
+How swiftly they go by.
+But my heart will beat for no other
+Till time stands still and the river runs dry.
+
+(Instrumental interlude and pick up at *.)
+
+How long I've been lonely;
+Star of love, shine bright.
+I need her; oh, lead her
+To my arms tonight.
+
+Time and the river,
+How swiftly they go by.
+But my heart will beat for no other
+Till time stands still and the river runs dry.

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: haven-t-got-time-for-the-pain-carly-simon
+lyrics_url: https://genius.com/Carly-simon-havent-got-time-for-the-pain-lyrics
 name: Haven't Got Time For The Pain
 rankings:
 - end_date: '1974-05-17'
@@ -55,4 +56,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-07-27'
 ---
+All those crazy nights when I cried myself to sleep
+Now melodrama never makes me weep anymore
+'Cause I haven't got time for the pain
+I haven't got room for the pain
+I haven't the need for the pain
+Not since I've known you
 
+You showed me how, how to leave myself behind
+How to turn down the noise in my mind
+Now I haven't got time for the pain
+I haven't got room for the pain
+I haven't the need for the pain
+Not since I've known you
+
+Suffering was the only thing that made me feel I was alive
+Though that's just how much it cost to survive in this world
+'Til you showed me how, how to fill my heart with love
+How to open up and drink in all that white love
+Pouring down from the heaven
+I haven't got time for the pain
+I haven't got room for the pain
+I haven't the need for the pain
+Not since I've known you

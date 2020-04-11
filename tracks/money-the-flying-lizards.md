@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: money-the-flying-lizards
+lyrics_url: https://genius.com/Cid-bahary-and-the-flying-lizards-money-lyrics
 name: Money
 rankings:
 - end_date: '1979-12-07'
@@ -47,4 +48,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-02-02'
 ---
+The best things in life are free
+But you can give them to the birds and bees
+I want money
 
+
+I want money
+Money
+I want money
+Money, money, money
+
+I want money
+Money
+Money
+Money, money , money
+
+
+Money don't get everything, it's true
+What it don't get, I can't use
+I want money
+
+
+I want money
+Money
+I want money
+Money, money, money
+
+
+Your love gives me such a thrill
+But your love won't pay my bills
+
+I want money
+That's what I want
+I want money
+That's what I want
+I want money
+
+
+The best things in life are free
+But you can give them to the birds and bees
+I want money
+
+
+I want money
+Money
+I want money
+Money, money, money
+
+I want money
+I want money
+Money
+I want money
+Money, money, money, money
+Money

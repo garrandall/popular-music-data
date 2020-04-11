@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: up-all-night-slaughter
+lyrics_url: https://genius.com/Slaughter-up-all-night-lyrics
 name: Up All Night
 rankings:
 - end_date: '1990-05-04'
@@ -63,4 +64,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-07-28'
 ---
+And when morning comes...
 
+Up all night, sleep all day
+Up all night, sleep all day
+
+When evening comes I am alive
+I love to prowl around in the streets
+It's the moonlight that controls my mind
+Now I've got the power to speak, yeah
+
+(Awake from dusk to dawn)
+Watching the city lights
+(Stars are shining down)
+They'll be shining down on you and I
+(And when the morning comes)
+And I'll hold you till the morning light
+
+Everybody sing it now
+Up all night, sleep all day
+Up all night, sleep all day
+That's right
+
+Driving down the boulevard all alone
+The neon signs are calling your name
+Find me in the corner having the time of my life
+You'd think you'd wanna do the same
+
+(Awake from dusk to dawn)
+Watching the city lights
+(Stars are shining down)
+They'll be shining down on you and I
+(And when the morning comes)
+And I'll hold you till the morning light
+
+Everybody sing it now
+Up all night, sleep all day
+Up all night, sleep all day
+That's right
+Up all night, sleep all day
+Come on, come on
+Up all night
+Ah, maybe we can just stay up
+Twenty four hours a day
+
+
+
+(Awake from dusk to dawn)
+Watching the city lights
+(Stars are shining down)
+They'll be shining down on you and I
+(And when the morning comes)
+And I'll hold you till the morning light
+
+Everybody sing it now
+Up all night, sleep all day
+Up all night, sleep all day
+Come on, come on
+Up all night, sleep all day
+That's right
+Up all night, sleep all day
+Up all night
+
+(Land where my fathers died)
+(Land of the pilgrims' pride)
+(From every mountainside)
+(Let freedom ring)

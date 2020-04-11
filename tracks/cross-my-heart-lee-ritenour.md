@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cross-my-heart-lee-ritenour
+lyrics_url: https://www.musixmatch.com/lyrics/Lee-Ritenour/Cross-My-Heart
 name: Cross My Heart
 rankings:
 - end_date: '1982-12-10'
@@ -35,4 +36,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-15'
 ---
+You ask me all about my past
+My other love affairs
+Cause you're not sure
+That this love will last
+Or if I'd ever leave you
+You saw me with another girl
+You think that I'm untrue
+For all the gold that's in the world
+I will never trade your love
 
+Cross my heart
+I'd never deceive you
+So cross my heart
+I will never tell you lies
+
+Can't you see?
+You're the only one
+Why don't you believe in me?
+But I don't know
+What you think I've done
+I can look you in the eyes
+
+Cross my heart
+I'd never deceive you
+So cross my heart
+I will never leave your love
+
+Cross my heart
+I'd never deceive you
+So cross my heart
+I will never tell you lies
+
+You don't have to worry 'bout me
+No-one is this world
+Could make me want to
+Put my love into jeopardy
+Nothing in this world
+Could take my heart away
+
+Cross my heart
+Cross my heart
+I will never tell you lies
+Cross my heart
+Try to believe me
+So cross my heart
+I will never leave your love
+Cross my heart
+I will always love you
+So cross my heart
+I will never tell you lies
+Cross my heart...

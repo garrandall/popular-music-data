@@ -1,6 +1,6 @@
 ---
 artists:
-- Ke$ha
+- Kesha
 features: []
 genres: []
 key: crazy-beautiful-life-ke-ha

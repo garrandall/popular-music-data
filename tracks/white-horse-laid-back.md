@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: white-horse-laid-back
+lyrics_url: https://genius.com/Laid-back-white-horse-lyrics
 name: White Horse
 rankings:
 - end_date: '1984-03-02'
@@ -79,4 +80,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-06-23'
 ---
+If you wanna ride
+Don't ride the white horse
+If you wanna ride
+Don't ride the white horse
 
+White horse
+Don't ride the white horse
+White horse
+Don't ride the white horse
+
+Nonono
+
+If you wanna ride
+Don't ride the white horse
+If you wanna ride
+Don't ride the white horse
+
+If you wanna ride
+Don't ride the white horse
+If you wanna ride
+Don't ride the white horse
+
+White horse
+Don't ride the white horse
+White horse
+Don't ride the white horse
+
+Nonono
+
+(If you wanna be rich)
+You got to be a bitch
+(I said) Rich
+Bitch
+
+(If you wanna be rich)
+You got to be a bitch
+Rich
+Bitch
+
+Rich
+(You bitch)
+
+If you wanna ride
+Ride the white pony
+
+Ride, ride the white pony
+White pony, white pony

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-after-time-inoj
+lyrics_url: https://www.musixmatch.com/lyrics/INOJ/Time-After-Time
 name: Time After Time
 rankings:
 - end_date: '1998-08-28'
@@ -71,4 +72,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-12-05'
 ---
+I'm lying in my bed
+Hear the clock tick
+And think of you
+Caught up in circles
+Confusion, there's nothing new
+Flashback, warm nights
+Almost left behind
+Suitcase of memories
+Time after...
 
+Sometimes you'll picture me
+I'm walking too far ahead
+You're calling to me
+I can't hear what you've said
+And you say, go slow
+I fall behind
+The second hand unwinds
+
+If you're lost, you can look
+And you will find me
+Time after time
+If you fall, I will catch you
+I'll be waiting
+Time after time
+
+If you're lost, you can look
+And you will find me (And you will find me)
+Time after time (Time after)
+If you fall, I will catch you
+I'll be waiting (I will be waiting)
+Time after time
+
+After my picture fades
+And darkness has turned to gray
+Watching through windows
+You're wondering if I'm okay
+Secret stolen
+All from deep inside
+The 808's on time
+
+If you're lost, you can look
+And you will find me
+Time after time (Time after)
+If you fall, I will catch you
+I'll be waiting (I will be waiting)
+Time after time
+
+Time after
+
+And you say, go slow
+I fall behind
+The 808's on time
+
+If you're lost, you can look
+And you will find me
+Time after time (Time)
+If you fall, I will catch you
+I'll be waiting (I will be waiting)
+Time after time (Time after)
+If you're lost, you can look
+And you will find me (I know you will find me)
+Time after time (Time after)
+If you fall, I will catch you
+I'll be waiting (I will be waiting)
+Time after time
+Time after time (Time after time)
+Time after time (Time after time)
+Time after time (Time after time)
+Time after time (Time after time)
+Time after time (Time after time)
+Time after time (Time after time)
+Time after time (Time after time)
+Time after time (Time after time)...

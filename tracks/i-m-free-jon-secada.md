@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-free-jon-secada
+lyrics_url: https://genius.com/Jon-secada-im-free-lyrics
 name: I'm Free
 rankings:
 - end_date: '1993-07-02'
@@ -87,4 +88,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-11-06'
 ---
-
+Do you see what I see
+A rainbow shining over us
+In the middle of a hopeless storm
+Sometimes I'm blinded by my feelings
+And I can't see beyond my troubled mind
+Afraid of what I'll find
+The story of our lives
+But there's tomorrow
+Chorus
+Cause I'm free, I'm free
+And things are only as important
+As I want them to be
+We'll have a breath of sunshine
+When the rain goes away
+I pray, I pray
+Do you need a friend right now
+In the road that you're going to
+If you get lost just call me I'll be there
+Yes I'll be right there
+Cause though I may not have the answer
+At least I know what I'm looking for
+Yes I can do without sorrow
+There's a day after tomorrow
+So I'm leaving behind
+Chorus
+I'm free, I'm free
+And things are only as important
+As I want them to be
+We'll have a breath of sunshine
+When the rain goes away
+I pray, I pray
+And if you want to share my dreams
+Well all you have to do is say it, say it
+Let me hear you loud and clear
+Cause I need you if you wanna be, if you wanna be
+Do you see what I see
+A rainbow shining over us
+In the middle of a hopeless storm
+We'll be safe and warm
+Repeat chorus

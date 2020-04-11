@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-away-renee-the-left-banke
+lyrics_url: https://genius.com/The-left-banke-walk-away-renee-lyrics
 name: Walk Away Renee
 rankings:
 - end_date: '1966-09-16'
@@ -59,4 +60,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-03'
 ---
+And when I see the sign that points one way
+The lot we used to pass by every day
 
+
+Just walk away, Renee
+You won't see me follow you back home
+The empty sidewalks on my block are not the same
+You're not to blame
+
+
+From deep inside the tears that I'm forced to cry
+From deep inside the pain that I chose to hide
+
+
+Just walk away, Renee
+You won't see me follow you back home
+Now, as the rain beats down upon my weary eyes
+For me, it cries
+
+
+
+
+
+
+Your name and mine inside a heart upon a wall
+Still finds a way to haunt me though they're so small

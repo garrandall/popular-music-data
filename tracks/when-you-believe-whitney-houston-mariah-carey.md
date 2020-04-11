@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: when-you-believe-whitney-houston-mariah-carey
+lyrics_url: https://genius.com/Whitney-houston-when-you-believe-lyrics
 name: When You Believe
 rankings:
 - end_date: '1998-12-11'
@@ -76,4 +77,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-03-27'
 ---
+Many nights we've prayed
+With no proof anyone could hear
+In our hearts a hopeful song
+We barely understood
+Now, we are not afraid
+Although we know there's much to fear
+We were moving mountains
+Long before we knew we could
 
+
+There can be miracles when you believe
+Though hope is frail, it's hard to kill
+Who knows what miracles you can achieve?
+When you believe, somehow you will
+You will when you believe
+
+
+In this time of fear
+When prayer so often proves in vain
+Hope seems like the summer birds
+Too swiftly flown away
+Yet now I'm standing here
+My heart's so full, I can't explain
+Seeking faith and speaking words
+I never thought I'd say
+
+
+There can be miracles when you believe
+Though hope is frail, it's hard to kill
+Who knows what miracles you can achieve?
+When you believe, somehow you will
+You will when you    believe
+
+
+They don't always happen when you ask
+And it's easy to give in to your fears
+But when you're blinded by your pain
+Can't see your way clear through the rain
+A small but still resilient voice says, "Help is very near!"
+
+
+There can be miracles when you believe
+Though hope is frail, it's hard to kill
+Who knows what miracles you can achieve?
+When you believe, somehow you will
+Now, you will, you will when you believe
+You will when you believe, just believe
+Just believe, you will when you believe

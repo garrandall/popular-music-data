@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dearer-than-life-brook-benton
+lyrics_url: https://www.musixmatch.com/lyrics/Brook-Benton/Dearer-Than-Life
 name: Dearer Than Life
 rankings:
 - end_date: '1963-03-15'
@@ -39,4 +40,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-04-27'
 ---
+Sweeter than honey are your kisses
+Truer than all the stars above
+More precious than gold
+Are the arms that I hold
+And dearer than life is your love
 
+And there's not a single moment
+Of each day that I go through
+That I don't stop a dozen times
+To think of you
+
+
+
+Dearer than life is your love

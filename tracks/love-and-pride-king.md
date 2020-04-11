@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-and-pride-king
+lyrics_url: https://genius.com/Paul-king-love-and-pride-lyrics
 name: Love And Pride
 rankings:
 - end_date: '1985-07-26'
@@ -51,4 +52,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-09-28'
 ---
+That's what my heart yearns for now
+Love and pride
+That's what my heart yearns for now
+Love and pride
 
+Start your journey
+Early or maybe later
+(Get your boots on)
+Look for rainbows
+(It's cloudy)
+Take your hair-dryer, blow them all away
+
+In you, I've found a story I want to keep hearing
+In you, I see all colours, not just black or white
+In you, I find a reason and hope for all dreamers
+You are my fill, you're my supply of love and pride
+
+That's what my heart yearns for now
+Love and pride
+That's what my heart yearns for now
+Love and p-p-p-p-pride
+
+Knowing, sensing
+Seeing, eating, sleeping
+(That's just being)
+Touching and testing
+Loving, wanting and taking more love and more pride
+
+In you, I've found a story I want to keep hearing
+In you, I see all colours, not just black or white
+In you, I find a reason and hope for all dreamers
+You are my fill, you're my supply of love and pride
+
+That's what my heart yearns for now
+Love and pride
+That's what my heart yearns for now
+Love and pride
+
+I'm taking it 'round the world (world)
+World
+(I'm taking it round the world)
+Some love and pride
+
+That's what my heart yearns for now
+Love and pride
+That's what my heart yearns for now
+Love and pride
+I say that's what my heart yearns for now
+Love and pride
+That's what my heart yearns for now
+Love and pride, ooh

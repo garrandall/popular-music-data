@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-beginning-to-get-to-me-clay-walker
+lyrics_url: https://genius.com/Clay-walker-youre-beginning-to-get-to-me-lyrics
 name: You're Beginning To Get To Me
 rankings:
 - end_date: '1998-12-11'
@@ -59,4 +60,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-02-27'
 ---
+I can't sleep at all
+I'm making late night calls
+Just to talk to you and hear your voice again
+That flower shop on Main
+Knows me by my first name
+And how I want the card to read
+And where I want the roses set
 
+I'm not saying I'm in love
+I'd admit it if I was
+I'm just saying I believe
+You're beginning to get to me
+The way I need you all the time
+The way you hold this heart of mine
+I think it's time that I concede
+You're beginning to get to me
+
+I've got your picture up
+On the dash of my new truck
+So I can have you with me every road I'm on
+Baby, what I feel
+Is just a tip of what I will
+I can only guess What I'll be like
+When I'm completely gone
+
+I'm not saying I'm in love
+I'd admit it if I was
+I'm just saying I believe
+You're beginning to get to me
+The way I need you all the time
+The way you hold this heart of mine
+I think it's time that I concede
+You're beginning to get to me
+
+I'm not saying I'm in love
+I'd admit it if I was
+I'm just saying I believe
+You're beginning to get to me
+The way I need you all the time
+The way you hold this heart of mine
+I think it's time that I concede
+You're beginning to get to me

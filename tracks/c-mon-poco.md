@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: c-mon-poco
+lyrics_url: https://genius.com/Poco-cmon-lyrics
 name: C'mon
 rankings:
 - end_date: '1971-04-02'
@@ -35,4 +36,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-05-08'
 ---
+(richie furay)
 
+I don't sing no songs to make you sad
+Only ones to love me
+Every now and then again
+If you're feeling down and lonely
+C'mon, c'mon, c'mon, c'mon, c'mon
+C'mon and love me
+
+Ain't it downright sad at times
+When your love's been mistaken
+There's no one left, no one's around
+Only your heart breaking
+C'mon, c'mon, c'mon, c'mon, c'mon
+C'mon and love me
+
+I believe that you and I as men
+Should love one and another
+Satiesfied, have a peace of mind
+Love your neighbour as your brother
+C'mon, c'mon, c'mon, c'mon, c'mon
+C'mon and love me
+C'mon, c'mon, c'mon, c'mon, c'mon
+C'mon and love me
+C'mon, c'mon, c'mon, c'mon, c'mon
+C'mon and love me

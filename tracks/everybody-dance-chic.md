@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-dance-chic
+lyrics_url: https://genius.com/Chic-everybody-dance-lyrics
 name: Everybody Dance
 rankings:
 - end_date: '1978-04-28'
@@ -47,4 +48,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-06-24'
 ---
+Everybody dance, do-do-do
+Clap your hands, clap your hands
+Everybody dance, do-do-do
+Clap your hands, clap you hands
 
+Everybody dance, do-do-do
+Clap your hands, clap your hands
+Everybody dance, do-do-do
+Clap your hands, clap your hands
+
+
+Music never lets you down
+Puts a smile on your face any time, anyplace
+Dancing helps relieve the pain
+Soothes your mind, makes you happy again
+Listen to those dancing feet
+Close your eyes and let go
+But it don't mean a thing if it ain't got that swing
+Bop-shoo-wa, bop-shoo-wa, bop-shoo-wa
+
+
+
+
+Spinning all around the floor just like Rogers and Astaire
+Who found love without a care stepping to our favorite tune
+The good times always end too soon
+Everybody's dancing lift your feet, have some fun
+Come on everybody, get on your feet
+Clap your hands everybody's screaming
+
+ (x2)
+
+
+
+
+
+
+Everybody dance
+Everybody dance
+Everybody dance
+Everybody dance
+
+Everybody dance
+Everybody dance
+Everybody dance
+Everybody dance
+
+
+Everybody dance, do-do-do
+Clap your hands, clap your hands
+Everybody dance, do-do-do
+Clap your hands, clap you hands
+(x4)

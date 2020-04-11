@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-heart-will-go-on-celine-dion
+lyrics_url: https://genius.com/Celine-dion-my-heart-will-go-on-lyrics
 name: My Heart Will Go On
 rankings:
 - end_date: '1998-03-06'
@@ -87,4 +88,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-07-11'
 ---
+Every night in my dreams
+I see you, I feel you
+That is how I know you go on
+Far across the distance
+And spaces between us
+You have come to show you go on
 
+
+Near, far, wherever you are
+I believe that the heart does go on
+Once more, you open the door
+And you're here in my heart
+And my heart will go on and on
+
+
+Love can touch us one time
+And last for a lifetime
+And never let go 'til we're gone
+Love was when I loved you
+One true time I hold to
+In my life, we'll always go on
+
+
+Near, far, wherever you are
+I believe that the heart does go on
+Once more, you open the door
+And you're here in my heart
+And my heart will go on and on
+
+
+You're here, there's nothing I fear
+And I know that my heart will go on
+We'll stay forever this way
+You are safe in my heart
+And my heart will go on and on

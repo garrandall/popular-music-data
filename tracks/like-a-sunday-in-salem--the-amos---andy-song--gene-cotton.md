@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: like-a-sunday-in-salem--the-amos---andy-song--gene-cotton
+lyrics_url: https://www.musixmatch.com/lyrics/Gene-Cotton/Like-a-Sunday-in-Salem
 name: Like A Sunday In Salem (The Amos & Andy Song)
 rankings:
 - end_date: '1978-10-06'
@@ -47,4 +48,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-12-02'
 ---
-
+Gene Cotton
+Miscellaneous
+Like A Sunday In Salem (the Amos & Andy Song)
+LIKE A SUNDAY IN SALEM
+Gene Cotton
+There was a lights out television show
+There was an Amos and Andy on the radio
+And a man on a hill runnin' round don't you know
+Sayin' "ev'rybody here got to go"
+Sayin' "ev'rybody here got to go"
+There were some people out in Hollywood
+The words they had spoken it was well understood
+But three thousand miles and for ev'ryone's good
+A man stood singing his song
+Dancin' around all the tombstones he said
+"That a man if he's livin' would rather be dead"
+And he opened the eyes to the typewriter lead
+And he said, "Now it won't be too long."
+(Repeat chorus)
+The people they gathered from miles all around
+Like a Sunday in Salem they all could be found
+And the lights all went out with a deafening sound
+As the church bells rang once again
+The curtains were drawn and the prophets had cried
+When somebody screamed that the joker had lied
+But the damage was done and the saints crucified
+And the truth will be lost till the end
+(Repeat Chorus)

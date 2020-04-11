@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: suddenly-you-love-me-the-tremeloes
+lyrics_url: https://genius.com/The-tremeloes-suddenly-you-love-me-lyrics
 name: Suddenly You Love Me
 rankings:
 - end_date: '1968-02-23'
@@ -47,4 +48,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-04-20'
 ---
+Oh! There's never been a woman who could treat me like you do
+Who could trample on my pride and play around as much as you
+Well, you really shake my mind up with your cheating and your lies
+Till at last, I make my mind up and I turn to say goodbye
+(say goodbye)
 
+Suddenly you love me and your arms are open wide
+Suddenly there's nothing that could tear you from my side
+Everytime it happens, as I turn to walk away
+Suddenly you love me and I know I've got to stay
+Di di di di, di di di di, di di di di, di di di di
+
+When you find your fascination in the arms of other guys
+You must know my reputation comes to nothing in their eyes
+Still you take off in a hurry anytime it pleases you
+And you only start to worry when I say I'm leaving you
+(leaving you)
+
+Suddenly you love me and your arms are open wide
+Suddenly there's nothing that could tear you from my side
+Everytime it happens as I turn to walk away
+Suddenly you love me and I know I've got to stay
+Di di di di, di di di di, di di di di, di di di di
+Oh oh, oh oh! Oh oh, oh oh!
+
+Suddenly you love me and your arms are open wide
+Suddenly there's nothing that could tear you from my side
+Everytime it happens as I turn to walk away
+Suddenly you love me and I know I've got to stay
+Di di di di, di di di di, di di di di, di di di di
+Oh oh, oh oh! Oh oh, oh oh!

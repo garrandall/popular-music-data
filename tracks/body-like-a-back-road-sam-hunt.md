@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: body-like-a-back-road-sam-hunt
+lyrics_url: https://www.musixmatch.com/lyrics/Sam-Hunt/Body-Like-a-Back-Road
 name: Body Like A Back Road
 rankings:
 - end_date: '2017-02-24'
@@ -171,4 +172,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-11-25'
 ---
+Got a girl from the Southside
+Got braids in her hair
+First time I seen her walk by
+Man I 'Bout fell up out my chair
 
+Had to get her number
+Took me like 6 weeks
+Now me and her go way back
+Like Cadillac seats
+
+Body like a back road
+Could drive it with my eyes closed
+I know every curve like the back of my hand
+Doin' fifteen in a thirty
+I ain't in no hurry
+I'm a take it slow just as fast as I can
+
+The way she fit in them blue jeans
+She don't need no belt
+But I can turn 'em inside out
+I don't need no help
+
+Got hips like honey
+So thick and so sweet
+Ain't no curves like hers
+On them downtown streets
+
+Body like a back road
+Could drive it with my eyes closed
+I know every curve like the back of my hand
+Doin' fifteen in a thirty
+I ain't in no hurry
+I'm a take it slow just as fast as I can
+
+We're out here in the boondocks
+With the breeze and the birds
+Tangled up in the tall grass
+With my lips on hers
+
+On a highway to Heaven
+Headed south of her smile
+Get there when we get there
+Every inch is a mile
+
+Body like a back road
+Could drive it with my eyes closed
+I know every curve like the back of my hand
+Doin' fifteen in a thirty
+I ain't in no hurry
+I'm a take it slow just as fast as I can
+
+I'm take it slow just as fast I can
+
+Got the breeze, aah ha
+
+(Body like a back road
+Could drive it with my eyes closed
+I know every curve like the back of my hand)

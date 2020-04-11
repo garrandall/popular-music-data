@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-love-forgive-me--amore-scusami--robert-goulet
+lyrics_url: https://genius.com/Robert-goulet-my-love-forgive-me-amore-scusami-lyrics
 name: My Love Forgive Me (Amore Scusami)
 rankings:
 - end_date: '1964-10-30'
@@ -67,4 +68,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
 ---
+My love, forgive me
+I didn't mean to have it end like this
+I didn't mean to have you fall in love, in love with me
 
+My love, please kiss me
+Arrivederci amore, kiss me
+Remember when we part, you'll have my heart
+I love you so
+
+It was just a slight flirtation
+That was all it was to be
+How could I know this fascination
+Would turn to love for you and me
+How to tell you of my heartache?
+How to tell you I'm not free?
+How can I bear to see your heart break
+To see your heart break over me
+
+Amore scusami se sto piangendo
+Amore scusami, ma ho capito che lasciandoti io soffriro
+
+Amore baciami, arrivederci amore baciami
+E se mi penserai ricordati che amo te
+
+Ti ricordi quella sera che per gioco ti bacia?
+Sembrava solo un'avventura, un'avventura in riva al mar
+Ti baciavo nel silenzio, non volevo confessar
+Che stavo forse a poco a poco innamorandomi di te
+
+My love, forgive me 
+I didn't mean to have it end like this
+I didn't mean to have you fall in love, in love with me
+
+My love, please kiss me
+Arrivederci amore, kiss me
+Though we're apart, you'll still be in my heart
+I love so, I love so, I love so

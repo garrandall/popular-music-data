@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-the-good-times-ray-price
+lyrics_url: https://genius.com/Ray-price-for-the-good-times-lyrics
 name: For The Good Times
 rankings:
 - end_date: '1970-09-04'
@@ -103,4 +104,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-02-06'
 ---
+Don't look so sad
+I know it's over
+But life goes on
+And this old world will keep on turning
+Let's just be glad
+We had some time to spend together
+There's no need to watch the bridges
+That were burning
 
+Lay your head upon my pillow
+Hold your warm and tender body close to mine
+Hear the whisper of the raindrops
+Blowing soft against the window
+And make believe you love me
+One more time for the good times
+
+I'll get along
+You'll find another
+And I'll be here
+If you should find you ever need me
+Don't say a word about tomorrow or forever
+There'll be time enough for sadness when you leave me
+
+Lay your head upon my pillow
+Hold your warm and tender body close to mine
+Hear the whisper of the raindrops
+Blowing soft against the window
+And make believe you love me
+One more time for the good times

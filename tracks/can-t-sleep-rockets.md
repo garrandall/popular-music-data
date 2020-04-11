@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-sleep-rockets
+lyrics_url: https://genius.com/Rockets-detroit-cant-sleep-lyrics
 name: Can't Sleep
 rankings:
 - end_date: '1979-04-27'
@@ -43,4 +44,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-06-16'
 ---
-
+Mmmm
+Mmmm
+Can't sleep it's so bad
+You got me tossing and turning
+Can't sleep I get sad
+Loving you
+Little things you do
+You made me love you
+Girl when you passed me by
+You left me hypnotized
+Baby baby
+Can't sleep it's so bad
+You got me tossing and turning
+Can't sleep I get sad
+Loving you
+If you love me
+Please tell me
+So I won't feel the blues
+If you love me
+Please tell me
+So I can go on loving you (loving you)
+Loving you baby (loving you)
+Said loving you (loving you)
+Yeah yeah yeah yeah
+Mmmm
+Mmmm
+Other boys you knew
+Cheated and most are cruel
+You'd better walk away
+Misery is all it seemed
+Baby baby
+Can't sleep it's so bad
+You got me tossing and turning
+Can't sleep I get sad
+Loving you
+Can't sleep it's so bad
+You got me tossing and turning (you got me tossing)
+Can't sleep I get sad
+Loving you
+Can't sleep it's so bad
+You got me tossing and turning (you got me turning)
+Can't sleep I get sad
+Loving you
+'Cause I'm loving you (loving you)
+Darling can't you see I'm loving you (loving you)
+Loving you baby loving you baby (loving you)
+Yeah I'm loving you baby (loving you)
+Well you got me turning (loving you)
+You got me tossing and turning yeah (loving you)
+I'm loving you baby (loving you)
+I'm loving you baby (loving you)

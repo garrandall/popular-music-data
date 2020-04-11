@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-green-leaves-of-summer-the-brothers-four
+lyrics_url: https://genius.com/The-brothers-four-the-green-leaves-of-summer-lyrics
 name: The Green Leaves Of Summer
 rankings:
 - end_date: '1960-11-06'
@@ -35,4 +36,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-12'
 ---
+Oooooooooooh, oooh ooh...
 
+A time to be reaping, a time to be sowing
+The green leaves of summer are calling me home
+It was good to be young then in the season of plenty
+When the catfish were jumping as high as the sky
+
+A time just for planting, a time just for plowing
+A time to be courting a girl of your own
+T'was so good to be young then, to be close to the earth
+And to stand by your wife, at the moment of birth
+
+A time to be reaping, a time to be sowing
+A time just for living, a place for to die
+T'was so good to be young then, to be close to the earth
+Now the green leaves of Summer are calling me home
+
+T'was so good to be young then, to be close to the earth
+Now the green leaves of Summer are calling be home
+
+Ooooooooooooooh, oooh oooh...

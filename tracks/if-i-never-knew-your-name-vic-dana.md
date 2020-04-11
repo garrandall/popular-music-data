@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-never-knew-your-name-vic-dana
+lyrics_url: https://www.musixmatch.com/lyrics/Vic-Dana/If-I-Never-Knew-Your-Name
 name: If I Never Knew Your Name
 rankings:
 - end_date: '1970-01-16'
@@ -55,4 +56,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
 ---
+You got me feeling crazy
+You're always on my mind
+And I get to feeling lately
 
+(CHORUS)
+If I never knew your name
+I'd love you all the same
+But I have you to myself
+Wanting nothing else
+Knowing that you're mine
+
+Good time, bad time
+All the time
+Hands reaching cross a room
+
+(CHORUS)
+
+And I know somewhere
+Inside my mind
+
+(CHORUS)
+
+Have you to myself
+Wanting nothing else
+Knowing that you're mine

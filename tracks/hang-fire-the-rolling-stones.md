@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hang-fire-the-rolling-stones
+lyrics_url: https://genius.com/The-rolling-stones-hang-fire-lyrics
 name: Hang Fire
 rankings:
 - end_date: '1982-03-26'
@@ -51,4 +52,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-05-29'
 ---
+In the sweet old country where I come from
+Nobody ever works
+Yeah nothing ever gets done
+We hang fire, we hang fire
+You know marrying money is a full time job
+I don't need the aggravation
+I'm a lazy slob
+I hang fire, I hang fire
+Hang fire, put it on the wire
+We've got nothing to eat
+We got nowhere to work
+Nothing to drink
+We just lost our shirts
+I'm on the dole
+We ain't for hire
+Say what the hell
+Say what the hell, hang fire
+Hang fire, hang fire, put it on the wire
+Doo doo doo
 
+
+Take a thousand dollars go have some fun
+Put it all on at a hundred to one
+Hang fire, hang fire, put it on the wire

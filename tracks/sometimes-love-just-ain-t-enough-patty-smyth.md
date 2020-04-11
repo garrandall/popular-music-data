@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sometimes-love-just-ain-t-enough-patty-smyth
+lyrics_url: https://genius.com/Patty-smyth-sometimes-love-just-aint-enough-lyrics
 name: Sometimes Love Just Ain't Enough
 rankings:
 - end_date: '1992-08-21'
@@ -103,4 +104,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-01-23'
 ---
+Now, I don't wanna lose you
+But I don't wanna use you
+Just to have somebody by my side
+And I don't wanna hate you
+I don't wanna take you
+But I don't wanna be the one to cry
 
+
+And that don't really matter
+To anyone anymore
+But like a fool I keep losing my place
+And I keep seeing you walk through that door
+
+
+But there's a danger in loving somebody too much
+And it's sad when you know it's your heart you can't trust
+There's a reason why people don't stay where they are
+Baby, sometimes love just ain't enough
+
+
+Now, I could never change you
+I don't want to blame you
+Baby, you don't have to take the fall
+Yes, I may have hurt you
+But I did not desert you
+Maybe I just want to have it all
+
+
+It makes a sound like thunder
+It makes me feel like rain
+And like a fool who will never see the truth
+I keep thinking something's gonna change
+
+
+But there's a danger in loving somebody too much
+And it's sad when you know it's your heart you can't trust
+There's a reason why people don't stay where they are
+Baby, sometimes love just ain't enough
+
+
+And there's no way home
+When it's late at night and you're all alone
+Are there things that you wanted to say
+And do you feel me beside you in your bed
+There beside you where I used to lay
+
+
+And there's a danger in loving somebody too much
+And it's sad when you know it's your heart they can't touch
+There's a reason why people don't stay who they are
+Baby, sometimes love just ain't enough
+Baby, sometimes love
+It just ain't enough, oh, no, no

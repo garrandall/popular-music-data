@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: body-language-queen
+lyrics_url: https://genius.com/Queen-body-language-lyrics
 name: Body Language
 rankings:
 - end_date: '1982-05-07'
@@ -63,4 +64,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-07-31'
 ---
+Give me, body
+Give me, body (body)
+Give me your body
 
+
+Don't talk, don't talk, don't talk
+(Don't talk, don't talk, don't talk, don't talk)
+Baby, don't talk
+
+
+Body language
+Body language
+Body language
+
+
+Give me your body
+Just give me, yeah, your body
+Give me, yeah, your body
+
+
+Don't talk
+
+
+Body language
+Body language
+Body language
+
+
+You got red lips
+Snakes in your eyes
+Long legs
+Great thighs
+You've got the cutest ass I've ever seen
+Knock me down for a six anytime
+Mmm, ha
+Look at me - I got a case of body language
+Look at me - I got a case of body language
+Look at me - I got a case of body language
+Look at me - I got a case of body language
+Of body language
+Of body language
+Yeah
+
+
+Sexy body
+Sexy, sexy body
+I want your body
+
+
+Baby, you're hot
+
+
+Body language
+Body language
+Body language
+Body language
+Body language
+Body language
+Body language
+Body language
+Body language...

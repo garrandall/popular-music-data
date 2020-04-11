@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: children-joe-south
+lyrics_url: https://genius.com/Joe-south-children-lyrics
 name: Children
 rankings:
 - end_date: '1970-03-27'
@@ -35,4 +36,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-05-02'
 ---
+Children
+Go and run and jump and play
+You'll be
+Men and women some day
+Then you'll have to leave
+Your world of make believe
+Now, children
 
+Young (Children)
+Carefree (Children)
+Children
+
+Children (Children)
+Need someone to understand
+Children
+Need someone to hold their hands
+Yeah
+To cheer you when you're sad
+To spank you when you're bad now
+Children
+
+Haughty (Children)
+Naughty (Children)
+Children
+
+Pride goes before destruction
+A holy spirit goes before a fall
+Don't you know that we're all children
+And it's all for one and one for all, mm
+
+Children (Children)
+Call each other names
+Children
+Playin' grown-up games
+And the thing that's really sad
+We lose the faith we had
+When we were children mm-hmm
+
+Loud (Children)
+Proud (Children)
+Children
+
+Children (Children)
+Who think that they are grown
+Children
+With children of their own
+From the cradle to the grave
+Why must we all behave like
+Children? (Na-na, na-na, na, na, na-na, na-na, na, na)
+
+Lost (Children)
+Lonely (Children)
+Children
+
+Lost
+Lonely
+Children
+
+Young
+Carefree
+Children
+
+Haughty
+Naughty
+Children
+
+Lost
+Lonely
+Children

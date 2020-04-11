@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-only-have-to-say-you-love-me-hannah-jones
+lyrics_url: https://genius.com/Hannah-jones-you-only-have-to-say-you-love-me-lyrics
 name: You Only Have To Say You Love Me
 rankings:
 - end_date: '1998-06-19'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-10-24'
 ---
+I don't know why
+Don't know why that I torture myself
+Overact and draw conclusions of truth
+Sometimes I hate myself for wanting you but then
+You only have to say you love me
+To make it worth it
+You only have to say you love me
+And I'm flying flying
+So many times I try
+To find a way that I
+Will never be denied
+To your world
+I put aside my pride
+Cross the great divide
+I wanna stay inside
+In your world
+I don't know why
+Don't know why that I torture myself
+Overact and draw conclusions of truth
+Sometimes I hate myself for wanting you but then
+You only have to say you love me
+To make it worth it
+You only have to say you love me
+And I'm flying flying
+You only have to say you love me
+To make it worth it
+You only have to say you love me
+And I'm flying flying
 
+(bridge)
+Love me
+Love me
+You only have to say you love me
+So many times you say
+There's gonna come a day
+Your heart will always stay
+By my side
+Why do I act so foolishly
+Need you to notice me
+Why can't I love you patiently
+I don't know why don't know why
+That I torture myself
+Overact and draw conclusions of truth
+Sometimes I hate myself for wanting you but then
+You only have to say you love me
+To make it worth it
+You only have to say you love me
+And I'm flying flying
+You only have to say you love me
+To make it worth it
+You only have to say you love me
+And I'm flying flying
+And I'm flying flying

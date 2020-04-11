@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-s-a-kind-of-hush-herman-s-hermits
+lyrics_url: https://genius.com/Hermans-hermits-theres-a-kind-of-hush-lyrics
 name: There's A Kind Of Hush
 rankings:
 - end_date: '1967-02-17'
@@ -55,4 +56,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-04-29'
 ---
-
+There's a kind of hush
+All over the world tonight
+All over the world
+You can hear the sound of lovers in love
+You know what I mean
+Just the two of us and nobody else in sight
+There's nobody else
+And I'm feeling good just holding you tight
+So listen very carefully
+Move closer now
+And you will see what I mean
+It isn't a dream
+The only sound that you will hear
+Is when I whisper in your ear
+I love you forever and ever
+There's a kind of hush
+All over the world tonight
+All over the world
+You can hear the sound of lovers in love
+La la la
+La la la
+La la la
+So listen very carefully
+Move closer now
+And you will see what I mean
+It isn't a dream
+The only sound that you will hear
+Is when I whisper in your ear
+I love you forever and ever
+There's a kind of hush
+All over the world tonight
+All over the world
+People just like us are fallin' in love
+Yeah, they're fallin' in love
+Hush, they're fallin' in love
+Hush

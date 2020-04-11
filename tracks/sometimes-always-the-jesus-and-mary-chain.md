@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sometimes-always-the-jesus-and-mary-chain
+lyrics_url: https://genius.com/The-jesus-and-mary-chain-sometimes-always-lyrics
 name: Sometimes Always
 rankings:
 - end_date: '1994-10-21'
@@ -15,4 +16,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-22'
 ---
+I gave you all I had
+I gave you good and bad
+I gave but you just threw it back
 
+
+I won't get on my knees
+Don't make me do that please
+I've been away but now I'm back
+
+
+Don't be too sure of that
+What makes you sure of that
+You went away you can't come back
+
+
+I walked away from you
+I hurt you through and through
+Aw honey give me one more chance
+
+
+Aw you're a lucky son
+Lucky son of a gun
+You went away, you went away
+You went away but now you're back
+
+
+I got down on my knees
+And then I begged you please
+I always knew you'd take me back

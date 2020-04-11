@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-you-believe-it-andy-williams
+lyrics_url: https://genius.com/Andy-williams-dont-you-believe-it-lyrics
 name: Don't You Believe It
 rankings:
 - end_date: '1962-09-21'
@@ -47,4 +48,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-11-17'
 ---
+If you should hear
+That someone new
+Has eased the pain
+Of losing you
 
+Don't you believe it
+Not for a moment
+Don't you believe it
+Because it isn't true
+
+Those angry words
+That made us part
+Put out the flame
+That's in my heart
+
+Don't you believe it
+Not for a moment
+Don't you believe it
+Because it isn't true
+
+I haven't changed
+I still love you
+And it will always be
+
+I only hope and
+I pray each night
+You'll feel the
+Same about me
+
+So if you hear
+Some false alarms
+Like you're not welcome
+In my arms
+
+Don't you believe it
+Not for a moment
+Don't you believe it
+Because it isn't true
+
+Oh, how I still love you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: small-sad-sam-phil-mclean
+lyrics_url: https://genius.com/Phil-mclean-small-sad-sam-lyrics
 name: Small Sad Sam
 rankings:
 - end_date: '1961-12-10'
@@ -47,4 +48,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-02-10'
 ---
-
+Small Sad Sam
+Phil McLean Versatile VER 107
+(Sunny Skylar/E. V. Deane) R.F.D. Music Pub. Co., Inc. ASCAP
+(Small sad Sam, small sad Sam)
+Here's a tale of a man who was puny and weak
+Stood four foot six in his stocking feet
+Kinda narrow in the shoulder and heavy in the waist
+Everything about him seemed to be misplaced, small Sam
+(Small sad Sam)
+He slid into town one rainy night
+Runnin' like a dog away from a fight
+He had a pretty big mouth for a guy his size
+And everything he said was a pack of lies, small Sam
+(Small sad Sam)
+One day he got on a downtown bus
+First thing you know there was an awful fuss
+They threw Sam off into the street
+For trying to steal an old lady's seat, bad Sam
+(Small bad Sam)
+One day nobody know's what for
+An elevator stuck on the eighty-fifth floor
+Some cables broke and so it's said
+That car just hung there by a thread
+The women were calm and the men were balm
+But Sam screamed and cried like a little child
+He squeezed himself through the emergency door
+And pulled himself up to the eighty-sixth floor
+Small Sam, chicken Sam (Small chicken Sam)
+And then instead of helpin' others get free
+Sam said, "I'm lookin' out for me"
+The cable snapped and all the way down
+They cursed out Sam when they hit the ground, small Sam
+(Small sad Sam)
+Now someday Sam's gonna get his due
+And when he does I'll make a bet with you
+There ain't nobody even gonna pass a hat
+Cause Sam was nothin' but a no good cat
+(Small sad Sam) Yes, small Sam
+(Small sad Sam) Chicken Sam
+(Small sad Sam) No good Sam
+(Small sad Sam)
+FADE:
+(Small sad Sam)
+Above, and are for personal use and research interest only

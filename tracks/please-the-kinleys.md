@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: please-the-kinleys
+lyrics_url: https://www.musixmatch.com/lyrics/The-Kinleys/Please
 name: Please
 rankings:
 - end_date: '1997-10-10'
@@ -55,4 +56,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-12-20'
 ---
+(Tony haselden)
 
+There ain't no easy way to start this conversation
+So I'll just say what's on my mind
+Once our hearts both shared a common destination
+To love until the end of time
+
+Lately we've been drifting further from each other
+Someone's gotta take the wheel
+I won't wait until it's too late to recover
+So let me tell you how I feel
+
+I'll do anything if it'll bring our hearts together
+I'll stand and fight or get down on my knees
+If we can fix what's wrong and just go on in love forever
+Baby I'll be beggin' please
+
+I'm strong enough to handle any situation
+But honey true love has no pride
+So I can say without a moments hesitation
+Before I'll let you say goodbye
+
+I'll do anything if it'll bring our hearts together
+I'll stand and fight or get down on my knees
+If we can fix what's wrong and just go on in love forever
+Baby I'll be beggin' please
+
+Boy you know your love's my one true weakness
+When it comes to you I'm helpless
+
+I'll do anything if it'll bring our hearts together
+I'll stand and fight or get down on my knees
+If we can fix what's wrong and just go on in love forever
+Baby I'll be beggin' please... please

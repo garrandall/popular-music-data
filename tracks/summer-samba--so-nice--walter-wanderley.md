@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: summer-samba--so-nice--walter-wanderley
+lyrics_url: https://genius.com/Walter-wanderley-summer-samba-lyrics
 name: Summer Samba (So Nice)
 rankings:
 - end_date: '1966-09-02'
@@ -43,4 +44,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-22'
 ---
-
+Someone to hold me tight
+That would be very nice
+Someone to love me right
+That would be very nice
+Someone to understand
+Each little dream in me
+Someone to take my hand
+To be a team with me
+So nice, life would be so nice
+If one day I'd find
+Someone who would take my hand
+And samba through life with me
+Someone to cling to me
+Stay with me right or wrong
+Someone to sing to me
+Some little samba song
+Someone to take my heart
+And give his heart to me
+Someone who's ready to
+Give love a start with me
+Oh yes, that would be so nice
+Should it be you and me
+I can see it would be nice
+Someone to cling to me
+Stay with me right or wrong
+Someone to sing to me
+Some little samba song
+Someone to take my heart
+And give his heart to me
+Someone who's ready to
+Give love a start with me
+So nice, that would be so nice
+Should it be you and me
+I can see it could be nice

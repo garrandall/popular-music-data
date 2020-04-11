@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: election-day-arcadia
+lyrics_url: https://www.musixmatch.com/lyrics/Arcadia-8/Election-Day
 name: Election Day
 rankings:
 - end_date: '1985-11-01'
@@ -71,4 +72,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-02-08'
 ---
+Wild kind of look to the day
+Opening eyes impale neon flickers
+She moon she turning away
+The city's her slave
+He's cheating his mistress
 
+She's moody and gray
+She's mean and she's so restless
+So restless, so restless indeed
+
+All over you as they say
+Rumours or rivals yell at the strike force
+Hi guys, by the way
+Are you aware you're being illegal?
+
+It's making your saviour behaviour look evil
+'Scuse my timing but say
+How d'you fit in with this flim, flam and judy
+
+Maximum big surprise
+Your smile is something new
+I pull my shirt off and pray
+We're sacred and bound
+To suffer the heatwave
+
+Pull off my shirt and pray
+We're coming up on re-election day
+
+Stretching my luck down the way
+To your invitation stretching my body
+Use your intuitive play
+'Cause maybe we have more play time than money
+
+Maximum big surprise
+She knows something new
+I pull my shirt off and pray
+I'm saving myself
+To suffer the heatwave
+
+Pull off my shirt and pray
+We're coming up on re-election day
+
+By roads and backways
+A lover's chance downwind
+Cut open murmurs and sounds
+Becalm hands on the skin
+Carry further
+Entangled strands all sing
+I'm saving some time to slip away
+We could die
+
+Shouldn't be asking
+Wild and scheming
+Could be my election day
+
+Maximum big surprise
+Your know is something new
+I pull my shirt off and pray
+We're sacred and bound
+To suffer the heatwave
+
+Pull off my shirt and pray
+We're coming up on re-election day
+
+Re-election day

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: sisters-are-doin--it-for-themselves-eurythmics-aretha-franklin
+lyrics_url: https://genius.com/Eurythmics-sisters-are-doin-it-for-themselves-lyrics
 name: Sisters Are Doin' It For Themselves
 rankings:
 - end_date: '1985-10-25'
@@ -68,4 +69,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-25'
 ---
+Now there was a time when they used to say
+That behind every - "great man"
+There had to be a - "great woman"
+But in these times of change you know
+That it's no longer true
+So we're coming out of the kitchen
+Cause there's something we forgot to say to you (we say)
 
+Sisters are doing it for themselves
+Standing on their own two feet
+And ringing on their own bells
+Sisters are doing it for themselves
+
+Now this is a song to celebrate
+The conscious liberation of the female state
+Mothers, daughters and their daughters too
+Woman to woman
+We're singing with you
+The "inferior sex" got a new exterior
+We got doctors, lawyers, politicians too
+Everybody - take a look around
+Can you see - can you see - can you see
+There's a woman right next to you
+
+Sisters are doing it for themselves
+Standing on their own two feet
+And ringing on their own bells
+Sisters are doing it for themselves
+
+Now we ain't making stories
+And we ain't laying plans
+Cause a man still loves a woman
+And a woman still loves a man
+(Just the same though)
+
+Sisters are doing it for themselves
+Standing on their own two feet
+And ringing on their own bells
+Sisters are doing it for themselves
+
+Thank you, I'll get it myself

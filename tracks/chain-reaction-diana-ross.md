@@ -64,11 +64,11 @@ Crying, trying, anything for you
 
 I'm in the middle of a chain reaction
 You give me all the after midnight action
-(don't pass me by) {background same time as above}
+(don't pass me by)
 I wanna get you where I can let you make all that love to me
 I'm on a journey for the inspiration
 To anywhere and there ain't no salvation
-(don't make me cry) {background same time as above}
+(don't make me cry)
 I need you to get me nearer to you
 So you can set me free
 We talk about love, love, love
@@ -87,12 +87,12 @@ Crying, dying, all you gotta do is
 
 Get in the middle of a chain reaction
 You get a medal when you're lost in action
-(don't pass me by) {background same time as above}
+(don't pass me by)
 I wanna get your love all ready for the sweet sensation
 Instant radiation
 You let me hold you for the first explosion
 We get a picture of our love in motion
-(don't make me cry) {background same time as above}
+(don't make me cry)
 My arms will cover, my lips will smother you
 With no more left to say
 We talk about love, love, love

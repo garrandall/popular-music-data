@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: down-on-me-big-brother-and-the-holding-company
+lyrics_url: https://genius.com/Big-brother-and-the-holding-company-down-on-me-lyrics
 name: Down On Me
 rankings:
 - end_date: '1968-09-06'
@@ -39,4 +40,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
 ---
+Down on me, down on me
+Looks like everybody in this whole round world
+They're down on me
 
+Love in this world is so hard to find
+When you've got yours and I got mine
+That's why it looks like everybody in this whole round world
+They're down on me
+
+Saying they're down on me, down on me
+Looks like everybody in this whole round world
+Down on me
+
+When you see a hand that's held out toward you
+Give it some love, some day it may be you
+That's why it looks like everybody in this whole round world
+They're down on me, yeah
+
+Lord, they're down on me, down on me, oh!
+Looks like everybody in this whole round world
+Is down on me
+
+Believe in your brother, have faith in man
+Help each other, honey, if you can
+Because it looks like everybody in this whole round world
+Is down on me
+
+I'm saying down on me, oh, down on me, oh!
+It looks like everybody in this whole round world
+Down on me!!

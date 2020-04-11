@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: more-than-just-the-two-of-us-sneaker
+lyrics_url: https://genius.com/Sneaker-more-than-just-the-two-of-us-lyrics
 name: More Than Just The Two Of Us
 rankings:
 - end_date: '1981-11-06'
@@ -67,4 +68,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-02-06'
 ---
+There are times when all your love is meant for me
+Then you're the wind, alone and free
+Our love is more than you and me
 
+And you're the one I can give myself away
+And I'm the one who calls your name
+In the quiet of a dream
+
+It's more than just the two of us
+And we just have to keep holding on, holding on
+More than just the two of us
+And we just have to keep holding on, holding on
+
+In your touch come the words so hard to say
+And in your very special way
+You can make me understand
+
+In my eyes you are the warmth of the sun
+And after all is said and done
+Our love is more than you and me
+
+It's more than just the two of us
+And we just have to keep holding on, holding on
+More than just the two of us
+And we just have to keep holding on, holding on
+
+In my eyes you are the warmth of the sun
+And after all is said and done
+Our love is more than you and me
+
+It's more than just the two of us
+And we just have to keep holding on, holding on
+More than just the two of us
+And we just have to keep holding on, holding on
+
+It's more than just the two of us
+And we just have to keep holding on, holding on
+More than just the two of us
+And we just have to keep holding on, holding on

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: easy-to-be-hard-three-dog-night
+lyrics_url: https://genius.com/Three-dog-night-easy-to-be-hard-lyrics
 name: Easy To Be Hard
 rankings:
 - end_date: '1969-08-15'
@@ -59,4 +60,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
 ---
+How can people be so heartless?
+How can people be so cruel?
+Easy to be hard
+Easy to be cold
 
+How can people have no feelings?
+How can they ignore their friends?
+Easy to be proud
+Easy to say No
+
+Especially people who care about strangers
+Who care about evil and social injustice
+Do you only care about the "being crowd"?
+How about a needed friend? I need a friend
+
+How can people be so heartless?
+You know I'm hung up on you
+Easy to be proud
+Easy to say No
+
+Especially people who care about strangers
+Who care about evil and social injustice
+Do you only care about the "being crowd"?
+How about a needed friend? We all need a friend
+
+How can people be so heartless?
+How can people be so cruel?
+
+Easy to be proud
+Easy to say no
+Easy to be cold
+Easy to say no
+
+Come on, easy to give in
+Easy to say No
+Easy to be cold
+Easy to say No
+
+Oh, it's too easy to say No

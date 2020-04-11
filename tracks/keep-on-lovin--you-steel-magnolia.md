@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-on-lovin--you-steel-magnolia
+lyrics_url: https://genius.com/Steel-magnolia-keep-on-lovin-you-lyrics
 name: Keep On Lovin' You
 rankings:
 - end_date: '2010-03-26'
@@ -67,4 +68,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
 ---
+Maybe life has got you rundown
+I think it's time, girl, that we slow down
+So take a look, it's almost sundown
 
+So why don't you lay right here?
+Let me just ease your mind
+I'm givin' you all my time
+I'm gonna keep on, keep on loving you
+
+Strong and slow
+The way that you want me to
+Maybe my whole life through
+I'm gonna keep on, keep on loving you
+
+When that morning sun is dawning
+Baby, both of us should call in
+'Cause we got too much love to fall in
+
+So why don't you lay right here?
+Let me just ease your mind
+I'm givin' you all my time
+I'm gonna keep on, keep on loving you
+
+Strong and slow
+The way that you want me to
+Maybe my whole life through
+I'm gonna keep on, keep on loving you
+
+Why don't you lay right here?
+Let me just ease your mind
+Give you all my time
+I'm gonna keep on, keep on
+
+Strong and slow
+The way that you want me to
+Maybe my whole life through, girl
+I'm gonna keep on, keep on loving you
+
+Soft and slow
+The way you want me to
+Maybe my whole life through
+I'm gonna keep on, keep on, keep on loving you
+I'm gonna keep on, keep on loving you

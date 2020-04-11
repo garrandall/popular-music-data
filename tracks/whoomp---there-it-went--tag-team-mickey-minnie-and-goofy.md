@@ -1,10 +1,10 @@
 ---
 artists:
 - Tag Team
-- Mickey
-- Minnie
-- And Goofy
-features: []
+features:
+- Mickey Mouse
+- Minnie Mouse
+- Goofy
 genres: []
 key: whoomp---there-it-went--tag-team-mickey-minnie-and-goofy
 name: Whoomp! (There It Went)

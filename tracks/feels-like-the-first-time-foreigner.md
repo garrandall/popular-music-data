@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feels-like-the-first-time-foreigner
+lyrics_url: https://genius.com/Foreigner-feels-like-the-first-time-lyrics
 name: Feels Like The First Time
 rankings:
 - end_date: '1977-04-01'
@@ -95,4 +96,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-08-20'
 ---
+I would climb any mountain
+Sail across a stormy sea
+If that's what it takes me, baby
+To show you how much you mean to me
 
+
+And I guess it's just the woman in you
+That brings out the man in me
+I know I can't help myself
+You're all in the world to me
+
+
+(It feels like the first time)
+(Feels like the very first time)
+(It feels like the first time)
+(It feels like the very first time)
+
+
+I have waited a lifetime
+Spent my time so foolishly
+But now that I've found you
+Together we'll make history
+
+
+And I know that it must be the woman in you
+That brings out the man in me
+I know I can't help myself
+You're all that my eyes can see
+
+
+And it feels like the first time
+Like it never did before
+Feels like the first time
+Like we've opened up the door
+Feels like the first time
+Like it never will again
+Never again
+
+
+(Feels like the first time)
+It feels like the first time
+(It feels like the very first time)
+Very first, feels
+(It feels like the first time)
+Oh, it feels like the first time
+(Feels like the very first time)
+
+
+Open up the door
+Won't you open up the door? Yeah
+
+
+(Feels like the first time)
+(And it feels like the very first time)
+(And it feels like the very first time)
+(It feels like the very first time)
+
+
+(And it feels like the first time)
+(It feels like the very first time)
+Oh, it feels
+(Feels like the first time)
+Yeah, it feels like the first time
+(Feels like the very first time)

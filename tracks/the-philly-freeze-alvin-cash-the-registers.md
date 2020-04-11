@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: the-philly-freeze-alvin-cash-the-registers
+lyrics_url: https://www.musixmatch.com/lyrics/Alvin-Cash-The-Registers/The-Philly-Freeze
 name: The Philly Freeze
 rankings:
 - end_date: '1966-08-05'
@@ -44,4 +45,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
 ---
+Here I am, baby
+I'm back again
 
+It ain't the Twine, baby
+It's Philly Freeze time
+
+Now when I say freeze, baby
+I want you to stop
+
+Ooh wee
+
+Come on, baby
+Freeze
+
+Aw, but you're looking good now
+Ooh wee
+
+Hit it, baby
+Aw, have mercy
+Here we go now
+
+Here we go now
+Freeze
+
+Do you like it, baby
+Do you like it, baby
+
+(I like it, I like it
+I like it like that
+I like it, I like it
+I like it like that)
+
+Come on, baby
+Freeze
+
+Aw, have mercy
+Ooh wee
+
+Aw, but you're looking good now
+
+(I like it, I like it
+I like it like that
+I like it, I like it
+I like it like that)

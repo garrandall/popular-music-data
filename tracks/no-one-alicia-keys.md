@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-one-alicia-keys
+lyrics_url: https://genius.com/Alicia-keys-no-one-lyrics
 name: No One
 rankings:
 - end_date: '2007-09-28'
@@ -163,4 +164,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-06-14'
 ---
+I just want you close
+Where you can stay forever
+You can be sure
+That it will only get better
 
+
+You and me together
+Through the days and nights
+I don't worry 'cause
+Everything's going to be alright
+People keep talking, they can say what they like
+But all I know is everything's gonna be alright
+
+
+No one, no one, no one
+Can get in the way of what I'm feelin'
+No one, no one, no one
+Can get in the way of what I feel for you, you, you
+Can get in the way of what I feel for you
+
+
+When the rain is pouring down
+And my heart is hurting
+You will always be around
+This I know for certain
+
+
+You and me together
+Through the days and nights
+I don't worry 'cause
+Everything's going to be alright
+People keep talking, they can say what they like
+But all I know is everything's gonna be alright
+
+
+No one, no one, no one
+Can get in the way of what I'm feelin'
+No one, no one, no one
+Can get in the way of what I feel for you, you, you
+Can get in the way of what I feel
+
+
+I know some people search the world
+To find something like what we have
+I know people will try, try to divide, something so real
+So till the end of time, I'm telling you there ain't no one
+
+
+No one, no one
+Can get in the way of what I'm feelin'
+No one, no one, no one
+Can get in the way of what I feel for you
+
+
+Oh, oh oh oh, oh oh oh, oh oh oh oh oh oh oh oh oh oh
+Oh, oh oh oh, oh oh oh, oh oh oh oh oh oh oh oh oh oh

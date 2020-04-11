@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-love-the-nightlife--disco--round--alicia-bridges
+lyrics_url: https://genius.com/Alicia-bridges-i-love-the-night-life-disco-round-lyrics
 name: I Love The Nightlife (Disco 'round)
 rankings:
 - end_date: '1978-07-14'
@@ -131,4 +132,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
 ---
+Oh, I love the nightlife
+I've got to boogie
+On the disco' round, oh yeah
 
+Oh, I love the nightlife
+I've got to boogie
+On the disco' round, oh yeah
+
+Please don't talk about love tonight
+Please don't talk about sweet love
+Please don't talk about being true
+And all the trouble we've been through
+
+Ah, please don't talk about all of the plans we had
+For fixin' this broken romance
+I want to go where the people dance
+I want some action, I want to live!
+
+Action, I got so much to give
+I want to give it
+I want to get some too
+
+Ohoho, I
+Oh, I love the nightlife
+I've got to boogie
+On the disco' round, oh yeah
+
+Oh, I love the nightlife
+I've got to boogie
+On the disco' round, oh yeah
+
+Please don't talk about love tonight
+Your sweet talking won't make it right
+Love and lies just bring me down
+When you've got women all over town
+
+You can love them all and when you're through
+Maybe that'll make, huh, a man out of you
+I got to go where the people dance
+I want some action, I want to live!
+
+Action, I got so much to give
+I want to give it
+I want to get some too
+
+Ohoho, I
+Oh, I love the nightlife
+I've got to boogie
+On the disco' round, oh yeah
+
+Oh, I love the nightlife
+I've got to boogie
+On the disco' round, oh yeah
+
+Oh, I love the nightlife
+I've got to boogie
+On the disco' round, oh yeah
+
+Oh, I love the nightlife
+I've got to boogie
+On the disco' round, oh yeah
+
+Oh, I love the nightlife
+I've got to boogie
+On the disco' round, oh yeah
+
+Oh, I love the nightlife
+I've got to boogie
+On the disco' round, oh yeah
+
+I love the nightlife
+I've got to boogie
+On the disco' round, oh yeah

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-like-it-i-love-it-tim-mcgraw
+lyrics_url: https://genius.com/Tim-mcgraw-i-like-it-i-love-it-lyrics
 name: I Like It I Love It
 rankings:
 - end_date: '1995-09-01'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-01-06'
 ---
+Spent forty-eight dollars last night at the county fair
+I threw out my shoulder but I won her that teddy bear
+She's got me sayin' sugar-pie, honey, darlin', and dear
+I ain't seen the Braves play a game all year
+I'm gonna get fired if I don't get some sleep
+My long lost buddies say I'm gettin' in too deep
 
+
+But I like it, I love it, I want some more of it
+I try so hard, I can't rise above it
+Don't know what it is 'bout that little gal's lovin'
+But I like it, I love it, I want some more of it
+
+
+My Mama and Daddy tried to teach me courtesy
+But it never sank in 'til that girl got a hold of me
+Now I'm holdin' umbrellas and openin' up doors
+I'm takin' out the trash and I'm sweepin' my floors
+I'm crossin' my fingers and countin' every kiss
+Prayin' that it keeps goin' on like this
+
+
+'Cause I like it, I love it, I want some more of it
+I try so hard, I can't rise above it
+Don't know what it is 'bout that little gal's lovin'
+But I like it, I love it, I want some more of it
+
+
+Gotta wash my truck and dress up
+To pick her up to watch TV
+And she sits down on the sofa, she'll move a little closer
+She can't get enough of me
+
+
+Yeah, I like it, I love it, I want some more of it
+I try so hard, I can't rise above it
+Don't know what it is 'bout that little gal's lovin'
+But I like it, I love it, I want some more of it
+
+
+Come on, baby
+You know what I like
+Yeah, I like that
+Mmm, mmm, mmm
+Hey, don't forget to turn out the lights

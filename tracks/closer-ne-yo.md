@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: closer-ne-yo
+lyrics_url: https://genius.com/Ne-yo-closer-lyrics
 name: Closer
 rankings:
 - end_date: '2008-05-09'
@@ -163,4 +164,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-01-24'
 ---
+Closer
+Closer
+Closer
+Closer
 
+
+Turn the lights off in this place
+And she shines just like a star
+And I swear I know her face
+I just don't know who you are
+Turn the music up in here
+I still hear her loud and clear
+Like she's right there in my ear
+Telling me that she wants to own me
+To control me
+
+
+Come closer
+Come closer
+
+
+And I just can't pull myself away
+Under her spell I can't break
+I just can't stop
+I just can't stop
+I just can't stop
+I just can't stop
+And I just can't bring myself no way
+But I don't want to escape
+I just can't stop
+I just can't stop
+I just can't stop
+I just can't stop
+
+
+I can feel her on my skin
+I can taste her on my tongue
+She's the sweetest taste of sin
+The more I get the more I want
+She wants to own me
+
+
+Come closer
+Come closer
+
+
+And I just can't pull myself away
+Under her spell I can't break
+I just can't stop
+I just can't stop
+I just can't stop
+I just can't stop
+And I just can't bring myself no way
+But I don't want to escape
+I just can't stop
+I just can't stop
+I just can't stop
+I just can't stop
+
+
+Come closer
+Come closer
+Come closer
+Come closer
+
+
+I just can't stop, no no
+I just can't stop, no no
+I just can't stop, no no
+I just can't stop, no no
+No, no, no, no
+
+
+And I just can't pull myself away
+Under her spell I can't break
+I just can't stop
+I just can't stop
+I just can't stop
+I just can't stop
+And I just can't bring myself no way
+But I don't want to escape
+I just can't stop
+I just can't stop
+I just can't stop
+I just can't stop
+And I just can't pull myself away
+Under her spell I can't break
+I just can't stop
+I just can't stop
+I just can't stop
+I just can't stop
+Come closer

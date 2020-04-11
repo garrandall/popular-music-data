@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: apple-green-june-valli
+lyrics_url: https://www.musixmatch.com/lyrics/June-Valli/Apple-Green
 name: Apple Green
 rankings:
 - end_date: '1960-03-13'
@@ -59,4 +60,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-30'
 ---
+Don't the sun shine sunnier?
+Don't the kiss taste honeyer?
+And all the world look apple green
+When you're 17 and in love
 
+Don't your feet feel dancier?
+And your heart romancier?
+And don't the moon look apple green?
+When you're 17 and in love.
+
+Everything just seems to be in bloom.
+There's something in the air
+That smells like sweet perfume.
+
+Don't you feel so all aglow?
+When you're young, that's how you know.
+And all the world looks apple green
+When you're 17 and in love.

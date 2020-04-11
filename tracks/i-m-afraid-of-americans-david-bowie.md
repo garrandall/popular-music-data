@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-afraid-of-americans-david-bowie
+lyrics_url: https://genius.com/David-bowie-im-afraid-of-americans-lyrics
 name: I'm Afraid Of Americans
 rankings:
 - end_date: '1997-11-28'
@@ -71,4 +72,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-03-07'
 ---
+Johnny's in America, Lo-Teks at the wheel
+No one needs anyone, they don't even just pretend
+Johnny's in America
 
+
+I'm afraid of Americans
+I'm afraid of the world
+I'm afraid I can't help it
+I'm afraid I can't
+I'm afraid of Americans
+I'm afraid of the world
+I'm afraid I can't help it
+I'm afraid I can't
+I'm afraid of Americans
+
+Johnny's in America
+
+
+Johnny wants a plane, Johnny wants to suck on a Coke
+Johnny wants a woman, Johnny wants to think of a joke
+Johnny's in America
+
+
+I'm afraid of Americans
+I'm afraid of the world
+I'm afraid I can't help it
+I'm afraid I can't
+I'm afraid of Americans
+I'm afraid of the world
+I'm afraid I can't help it
+I'm afraid I can't
+I'm afraid of Americans
+Johnny's in America
+
+
+Johnny's in America, Johnny looks up at the stars
+Johnny combs his hair and Johnny wants pussy and cars
+Johnny's in America
+Johnny's in America
+
+
+I'm afraid of Americans
+I'm afraid of the world
+I'm afraid I can't help it
+I'm afraid I can't
+I'm afraid of Americans
+I'm afraid of the world
+I'm afraid I can't help it
+I'm afraid I can't
+I'm afraid of Americans
+
+
+God is an American
+God is an American
+
+
+I'm afraid of Americans
+I'm afraid of the world
+I'm afraid I can't help it
+I'm afraid I can't
+I'm afraid of Americans
+I'm afraid of the world
+I'm afraid I can't help it
+I'm afraid I can't
+Yeah, I'm afraid of Americans
+I'm afraid of the world
+I'm afraid I can't help it
+I'm afraid I can't
+I'm afraid of Americans
+
+
+God is an American
+God is an American
+God is an American
+God is an American
+God is an American

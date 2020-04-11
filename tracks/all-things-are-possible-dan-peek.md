@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-things-are-possible-dan-peek
+lyrics_url: https://www.musixmatch.com/lyrics/Dan-Peek-2/All-Things-Are-Possible
 name: All Things Are Possible
 rankings:
 - end_date: '1979-09-21'
@@ -27,4 +28,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-13'
 ---
+When you turn misty blue
+I have my eyes on you
+The good things will come true
+Just believe in your heart
 
+There's nothing too much for you
+With me there to help you through
+
+All things are possible
+With you by my side
+All things are possible
+With you to be my guide
+
+And now the time has come
+To put away those things that made you run
+Keep your eye on the Son
+And your feet on the path
+
+(Repeat bridge and)
+
+(Break)
+
+(Repeat)

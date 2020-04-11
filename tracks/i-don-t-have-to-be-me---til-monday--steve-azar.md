@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-have-to-be-me---til-monday--steve-azar
+lyrics_url: https://genius.com/Steve-azar-i-dont-have-to-be-me-til-monday-lyrics
 name: I Don't Have To Be Me ('til Monday)
 rankings:
 - end_date: '2002-04-12'
@@ -87,4 +88,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-08-17'
 ---
+I got me a brand new car
+Waiting in the driveway
+Shining like a bright new star
+I've been wishing on it every day
+To take me away from here
 
+
+So I called in to where I work
+Told a little white lie
+No, my back don't really hurt
+But that's my alibi
+My temporary ticket to anywhere but there
+
+
+Call it an early weekend
+Call it going off the deep end
+Call it what you want
+I made up my mind
+
+
+I don't have to be me 'til Monday
+Friday, Saturday, Sunday
+I ain't gonna face reality
+Three days without punching a time clock
+Three nights of goin' non-stop
+No work and all play
+I don't have to be me 'til Monday
+Yeah
+
+
+I can do what I wanna do
+Be who I wanna be
+I got no one to answer to
+Soon as I turn the key
+A cash machine, gasoline, and we're outta here
+
+
+Call it an early weekend
+Call it going off the deep end
+Baby, you and me
+We can leave it all behind
+
+
+'Cause I don't have to be me 'til Monday
+Friday, Saturday, Sunday
+I ain't gonna face reality
+Three days without punching a time clock
+Three nights of going non-stop
+No work and all play
+I don't have to be me 'til Monday
+
+
+Oh, three days without punching a time clock
+Three nights of going non-stop
+No work and all play
+I don't have to be me 'til Monday
+
+
+(I don't have to be me)
+I don't have to be me 'til Monday
+(I don't have to be me)
+I don't have to be me 'til Monday
+(I don't have to be me)
+I don't have to be me 'til Monday

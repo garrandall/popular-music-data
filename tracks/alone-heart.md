@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alone-heart
+lyrics_url: https://genius.com/Heart-alone-lyrics
 name: Alone
 rankings:
 - end_date: '1987-05-22'
@@ -91,4 +92,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-03'
 ---
+I hear the ticking of the clock
+I'm lying here the room's pitch dark
+I wonder where you are tonight
+No answer on the telephone
+And the night goes by so very slow
+Oh, I hope that it won't end though
+Alone
 
+
+'Till now I always got by on my own
+I never really cared until I met you
+And now it chills me to the bone
+How do I get you alone?
+How do I get you alone?
+
+
+You don't know how long I have wanted
+To touch your lips and hold you tight, oh
+You don't know how long I have waited
+And I was gonna tell you tonight
+But the secret is still my own
+And my love for you is still unknown
+Alone
+
+
+'Till now I always got by on my own
+I never really cared until I met you
+And now it chills me to the bone
+How do I get you alone?
+How do I get you alone?
+
+
+
+
+How do I get you alone?
+How do I get you alone?
+Alone, alone

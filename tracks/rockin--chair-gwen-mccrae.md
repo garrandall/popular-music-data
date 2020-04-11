@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rockin--chair-gwen-mccrae
+lyrics_url: https://genius.com/Gwen-mccrae-rockin-chair-lyrics
 name: Rockin' Chair
 rankings:
 - end_date: '1975-05-23'
@@ -63,4 +64,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-08-16'
 ---
+Sexy baby, good loving daddy
+Let me be your rocking chair
+Just rock me away from here
+Let's get in on; come to me baby
+Let me be your rocking chair
+Just rock me away from here
 
+Let your arms shelter me from all hurt and pain
+Light my heart with your everlasting flame
+
+Sexy baby, good loving daddy
+Let me be your rocking chair
+Rock me away from here
+Let's get it on; come to me baby
+Let me be your rocking chair
+Rock me away from here
+
+Rock me gently;
+Make me feel like a cloud in the sky
+Whisper softly;
+Let my heart take wing and fly
+
+Sexy baby, good loving daddy
+Let me be your rocking chair
+Just rock me away from here
+Let's get it on; come to me honey
+Let me be your rocking chair
+Rock me away from here
+
+Just rock me baby
+In my rocking chair, baby
+All night long till the morning comes
+Just you, baby
+Just rock me hun; rock me baby
+Till the midnight hour
+In my rocking chair
+All night long
+Come on baby, sexy baby
+Let me be your rocking chair
+Just rock me away from here
+Come on baby, sexy honey
+Let me be your rocking chair
+Just rock me away from here
+Rock me baby

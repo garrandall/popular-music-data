@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sailor--your-home-is-the-sea--lolita
+lyrics_url: https://genius.com/Lolita-sailor-your-home-is-the-sea-lyrics
 name: Sailor (Your Home Is The Sea)
 rankings:
 - end_date: '1960-10-30'
@@ -79,4 +80,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-20'
 ---
-
+Ueber Rio und Shanghai
+Ueber Bali und Hawaii
+Deine liebe ist dein schiff
+And the stars are your best friends
+And though you find your thrills in the places far away from me
+Just remember I'm always waiting when your journey ends

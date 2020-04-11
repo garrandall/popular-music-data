@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-s-do-something-cheap-and-superficial-burt-reynolds
+lyrics_url: https://genius.com/Burt-reynolds-lets-do-something-cheap-and-superficial-lyrics
 name: Let's Do Something Cheap And Superficial
 rankings:
 - end_date: '1980-10-24'
@@ -27,4 +28,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-11-15'
 ---
+Though your hair is all in tangles
+And your makeup is a mess
+Most of what you're drinking
+Is spilling down your dress
 
+And to keep from falling off
+Your barstool's 'bout
+All that you can do
+I'll make my proposition
+'Cause I'm just as drunk as you
+
+
+Let's do something cheap and superficial
+Let's do something that we might regret
+Let's do something shabby and insensitive
+This might be the only chance we get
+
+You got lipstick showing on your teeth
+And a run down your hose
+Where you got that cheap perfume
+God only knows
+
+Now I'll be glad to have you home
+Long before daylight
+The sun is your worst enemy
+Thank God it's dark tonight
+
+
+
+This might be the only chance we get

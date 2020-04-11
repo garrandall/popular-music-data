@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-you-get-is-what-you-see-tina-turner
+lyrics_url: https://genius.com/Tina-turner-what-you-get-is-what-you-see-lyrics
 name: What You Get Is What You See
 rankings:
 - end_date: '1987-02-13'
@@ -63,4 +64,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-05-09'
 ---
+Some boys just got the look of a Greek Adonis
+An' some boys just try to talk you off your feet
+Some boys think they're God's gift to woman
+An' some boys just think they're sweet enough to eat
+I change the habit of a lifetime
+Don't even try
+'Cause when you cut down deeper than the icing
+You realize
 
+
+What you get is what you see
+Ain't nothing more to it
+And if you wanna love a woman like me
+It takes a man to do it
+If what you get is what you see
+Then I don't want your kind of love
+
+
+Some guys just got lips that you can't help kissing
+And some guys just got a smile you can't resist
+Some guys just got to build a reputation
+They just wanna add you to the list
+You got a lot of physical attraction
+I can't deny, but can you guarantee me satisfaction
+While, I'm still waiting, waiting, waiting, waiting, waiting, oohhh
+
+
+What you get is what you see
+Ain't nothing more to it
+And if you wanna love a woman like me
+It takes a man to do it
+If what you get is what you see
+Then I don't want your kind of love
+
+
+
+So, let me see your cards on the table
+Before I buy
+I always read the writing on the label
+So, give me reason to believe
+There's more to you than meets the eye
+
+
+What you get is what you see
+Ain't nothing more to it
+And if you wanna love a woman like me
+It takes a man to do it
+If what you get is what you see
+Then I don't want your kind of love
+
+
+
+Ain't nothing more to it
+Doesn't matter, doesn't matter at all
+I don't want your kind of love
+Ain't nothing else to it
+I don't want your kind of love, oooohh
+What you get is what you see

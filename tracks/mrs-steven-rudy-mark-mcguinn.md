@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mrs-steven-rudy-mark-mcguinn
+lyrics_url: https://genius.com/Mark-mcguinn-mrs-steven-rudy-lyrics
 name: Mrs Steven Rudy
 rankings:
 - end_date: '2001-03-30'
@@ -67,4 +68,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-06-30'
 ---
+I get up on Sunday, about eight-fifteen
+Just to get the paper that I never read
+'Cause I know she'll be there barely in her robe
+Sittin' on her front porch paintin' on her toes
+Her husband's always on the road
 
+Hey, Mrs. Steven Rudy
+You don't know what you do to me
+Every night I dream one day of being with you
+Hey, Mrs. Steven Rudy
+You're the neighborhood beauty
+And that wedding ring is as ugly as your husband is to you
+
+Sometimes Mrs. Rudy calls cryin' late at night
+'Cause her and Mr. Ugly have had another fight
+We talk a while, and I hear her smile
+When she says thank you, I tell her that she's welcome
+Like any friend would do
+I only wish she knew
+
+Hey, Mrs. Steven Rudy
+You don't know what you do to me
+Every night I dream one day of being with you
+Hey, Mrs. Steven Rudy
+You're the neighborhood beauty
+And that wedding ring is as ugly as your husband is to you
+
+Imagination, infatuation
+I'm what she deserves
+I wonder if she thinks about me
+The way I think about her
+
+Hey, Mrs. Steven Rudy
+You don't know what you do to me
+Every night I dream one day of being with you
+Hey, Mrs. Steven Rudy
+You're the neighborhood beauty
+And that wedding ring is as ugly as your husband is to you
+
+Hey, Mrs. Steven Rudy
+You don't know what you do to me
+Every night I dream one day of being with you
+Hey, Mrs. Steven Rudy
+You're the neighborhood beauty
+And that wedding ring is as ugly as your husband is to you
+
+Hey
+Oh Mrs. Rudy
+That wedding ring is as ugly to me
+As your husband is to you
+Mrs. Rudy
+You don't know
+You don't know what you do
+To me

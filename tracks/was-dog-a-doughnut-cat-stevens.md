@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: was-dog-a-doughnut-cat-stevens
+lyrics_url: https://genius.com/Cat-stevens-was-dog-a-doughnut-lyrics
 name: Was Dog A Doughnut
 rankings:
 - end_date: '1977-11-25'
@@ -43,4 +44,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-14'
 ---
-
+Cat Stevens
+Izitso
+Was Dog A Doughnut?
+(instrumental)

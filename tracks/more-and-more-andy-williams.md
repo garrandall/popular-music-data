@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: more-and-more-andy-williams
+lyrics_url: https://genius.com/Andy-williams-more-and-more-lyrics
 name: More And More
 rankings:
 - end_date: '1967-07-14'
@@ -23,4 +24,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
 ---
+More and more I miss you, honey
+More and more each day
 
+Nights are, oh, so cold and lonely
+Since you have gone away
+
+When all this heartaches over
+We will be back in clover
+So please hurry home, I need you more
+And more
+
+More and more I miss you, honey
+More and more each day
+
+Nights are, oh, so cold and lonely
+Since you have gone away
+
+Though there are seas that part us
+Home is right where the heart is
+So please hurry home, I need you more
+More and more

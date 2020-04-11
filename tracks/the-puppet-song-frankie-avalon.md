@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-puppet-song-frankie-avalon
+lyrics_url: https://genius.com/Frankie-avalon-the-puppet-song-lyrics
 name: The Puppet Song
 rankings:
 - end_date: '1960-12-18'
@@ -35,4 +36,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-23'
 ---
+In a little town, many years ago
+Lived a puppet maker who would give a puppet show
+And his lifetime wish, for which he used to pray
+Was to hear his puppets sing and play
 
+In his world of dreams, he began to feel
+That his little puppets, to him were very real
+Every night, he dreamed that soon would come the day
+He'd hear his little puppets, sing and play
+
+My name Pancho
+My name Pedro
+My name Cisco
+My name Jingo
+Won't you listen to us as we play?
+
+With his faith and love
+He believed somewhere, someone up above
+Would grant his little prayer
+The miracle occurred before his ending day
+The old man heard his puppets sing and play
+
+My name Pancho
+My name Pedro
+My name Cisco
+My name Jingo
+Won't you listen to us as we play?

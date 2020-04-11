@@ -1,7 +1,6 @@
 ---
 artists:
-- Huey Lewis
-- The News
+- Huey Lewis & The News
 features: []
 genres: []
 key: i-want-a-new-drug-huey-lewis-the-news
@@ -86,52 +85,52 @@ rankings:
   start_date: '1984-05-19'
 ---
 
-Yeah-eah! 
+Yeah-eah!
 
 I want a new drug
-One that won't make me sick 
-One that won't make me crash my car 
+One that won't make me sick
+One that won't make me crash my car
 Or make me feel three feet thick
 
 I want a new drug
-One that won't hurt my head 
-One that won't make my mouth too dry 
+One that won't hurt my head
+One that won't make my mouth too dry
 Or make my eyes too red
 
-One that won't make me nervous 
-Wondering what to do 
-One that makes me feel like I feel when I'm with you 
+One that won't make me nervous
+Wondering what to do
+One that makes me feel like I feel when I'm with you
 When I'm alone with you
 
-I want a new drug 
-One that won't spill 
-One that don't cost too much 
+I want a new drug
+One that won't spill
+One that don't cost too much
 Or come in a pill
 
-I want a new drug 
-One that won't go away 
-One that won't keep me up all night 
+I want a new drug
+One that won't go away
+One that won't keep me up all night
 One that won't make me sleep all day
 
-One that won't make me nervous 
-Wondering what to do 
-One that makes me feel like I feel when I'm with you 
-When I'm alone with you 
+One that won't make me nervous
+Wondering what to do
+One that makes me feel like I feel when I'm with you
+When I'm alone with you
 I'm alone with you, baby
 
-I want a new drug 
-One that does what it should 
-One that won't make me feel too bad 
+I want a new drug
+One that does what it should
+One that won't make me feel too bad
 One that won't make me feel too good
 
-I want a new drug 
-One with no doubt 
-One that won't make me talk too much 
+I want a new drug
+One with no doubt
+One that won't make me talk too much
 Or make my face break out
 
-One that won't make me nervous 
-Wondering what to do 
-One that makes me feel like I feel when I'm with you 
+One that won't make me nervous
+Wondering what to do
+One that makes me feel like I feel when I'm with you
 When I'm alone with you
 I'm alone with you
 

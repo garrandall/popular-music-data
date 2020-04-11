@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: something-s-always-wrong-toad-the-wet-sprocket
+lyrics_url: https://genius.com/Toad-the-wet-sprocket-somethings-always-wrong-lyrics
 name: Something's Always Wrong
 rankings:
 - end_date: '1994-10-07'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-02-11'
 ---
+Another day, I call and never speak
+And you would say nothing's changed at all
+And I can't feel much hope for anything
+If I won't be there to catch you if you fall
 
+
+Again (We fail)
+It seems we meet (To meet and mend)
+In the spaces (Spaces safe)
+In between (Between intents)
+We always say (Say too much)
+It won't be long (Long been gone)
+Oh, but something's always wrong
+
+
+Another game of putting things aside
+As if we'll come back to them some time
+A brace of hopes, a pride of innocents
+And you would say something has gone wrong
+
+
+Again (We fail)
+It seems we meet (To make amends)
+In the spaces (And wend our way)
+In between (Between intent)
+We always say (Looking back)
+It won't be long (Not moving on)
+Oh, but something's always wrong
+
+
+Yeah, hey, hey
+Yeah, hey, hey, hey
+Yeah, hey, hey
+Yeah, hey, hey, hey
+
+
+Again (We fail)
+It seems we meet (To meet and mend)
+In the spaces (Spaces safe)
+In between (Between intent)
+We always say (Say too much)
+It won't be long (Long been gone)
+Oh, but something's always wrong
+Something's always wrong
+Something's always wrong
+
+Hey, hey, hey, hey

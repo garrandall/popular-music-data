@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-me-you-love-me-demi-lovato
+lyrics_url: https://genius.com/Demi-lovato-tell-me-you-love-me-lyrics
 name: Tell Me You Love Me
 rankings:
 - end_date: '2017-09-22'
@@ -87,4 +88,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-04-21'
 ---
+Oh no, here we go again
+Fighting over what I said
+I'm sorry, yeah I’m sorry
+Bad at love, no, I'm not good at this
+But I can't say I’m innocent
+Not hardly, but I'm sorry
 
+
+And all my friends, they know and it's true
+I don't know who I am without you
+I got it bad, baby
+Got it bad
+
+
+Oh, tell me you love me
+I need someone on days like this, I do
+On days like this
+Oh, tell me you love me
+I need someone
+On days like this, I do
+On days like this
+Oh, can you hear my heart say
+Ooohhhh, ooh
+No, you ain't nobody 'til you got somebody
+You ain't nobody 'til you got somebody
+
+
+And I hope I never see the day
+That you move on and be happy without me
+Without me
+What’s my hand without your heart to hold?
+I don’t know what I'm living for
+If I’m living without you
+
+
+All my friends, they know and it's true
+I don't know who I am without you
+I've got it bad, baby
+I got it bad
+
+
+Oh, tell me you love me
+I need someone on days like this, I do
+On days like this
+Oh, tell me you love me
+I need someone
+On days like this, I do
+On days like this
+Oh, can you hear my heart say
+Ooohhhh, ooh
+You ain’t nobody 'til you got somebody
+You ain't nobody 'til you got somebody
+My heart's like
+Ooooh, ooh
+No, you ain't nobody 'til you got somebody
+You ain't nobody 'til you got somebody
+
+
+Everything I need
+Is standing in front of me
+I know that we will be alright, alright, yeah
+Through the ups and downs
+Baby, I'ma stick around
+I promise we will be alright, alright
+
+
+Oh, tell me you love me
+I need someone on days like this, I do
+On days like this
+Oh, tell me you love me
+I need someone
+On days like this, I do
+On days like this
+Oh, can you hear my heart say
+Ooohhhh, ooh
+You ain't nobody 'til you got somebody
+You ain't nobody 'til you got somebody
+
+
+My heart's like
+Ooooh, ooh
+Everything I need
+Is standing right in front of me
+I know that we will be alright, alright, yeah

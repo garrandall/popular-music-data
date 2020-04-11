@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-s-grown-deep-kenny-nolan
+lyrics_url: https://genius.com/Kenny-nolan-loves-grown-deep-lyrics
 name: Love's Grown Deep
 rankings:
 - end_date: '1977-04-08'
@@ -79,4 +80,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-07-30'
 ---
+I love you, so much
+Somewhere back in time
+You became a friend of mine
+And day by day we've grown a little closer
+You're my spirit to be strong
+A friend when things go wrong
+So I've written down these words to let you know
 
+Loves grown deep, deep into the heart of me
+You've become a part of me
+Let us plant the seed and watch it grow
+Loves grown deep, deep into the heart of me
+You've become a part of me
+
+As we travel down the road
+Side-by-side we'll share the load
+Hand-in-hand we'll see each other through
+Though we've only just begun
+Let's count our blessings one-by-one
+I thank God for life, I thank God for you
+
+Loves grown deep, deep into the heart of me
+You've become a part of me
+Let us plant the seed and watch it grow
+Loves grown deep, deep into the heart of me
+You've become a part of me
+
+And as the seasons slip away
+Forever lovers we will stay
+Together, do-or-die, with all our hearts
+
+Loves grown deep, deep into the heart of me
+You've become a part of me
+Let us plant the seed and watch it grow
+Loves grown deep, deep into the heart of me
+You've become a part of me

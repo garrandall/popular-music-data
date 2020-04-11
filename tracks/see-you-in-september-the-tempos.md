@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: see-you-in-september-the-tempos
+lyrics_url: https://genius.com/The-tempos-see-you-in-september-lyrics
 name: See You In September
 rankings:
 - end_date: '1959-07-05'
@@ -63,4 +64,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-09-28'
 ---
+I'll be alone each and every night
+While you're away, don't forget to write
 
+See you in September
+See you when the summer's through
+If you are saying goodbye at the station
+Summer vacation is taking you away
+
+Have a good time but remember
+There is danger in the summer moon above
+Will I see you in September
+Or lose you to a summer love?
+
+Counting the days 'til I'll be with you
+Counting the hours and the minutes too
+
+Have a good time but remember
+There is danger in the summer moon above
+Will I see you in September
+Or lose you to a summer love?

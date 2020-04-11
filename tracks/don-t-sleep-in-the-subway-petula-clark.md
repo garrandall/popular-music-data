@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-sleep-in-the-subway-petula-clark
+lyrics_url: https://www.musixmatch.com/lyrics/Petula-Clark/Don-t-Sleep-in-the-Subway
 name: Don't Sleep In The Subway
 rankings:
 - end_date: '1967-06-09'
@@ -47,4 +48,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
 ---
+You wander around
+On your own little cloud
+When you don't see the why
+Or the wherefore.
 
+Ooh, you walk out on me
+When we both disagree
+'Cause to reason is not what you care for.
+
+I've heard it all a million times before.
+Take off your coat, my love, and close the door.
+
+Don't sleep in the subway, darlin'.
+Don't stand in the pouring rain.
+Don't sleep in the subway, darlin'.
+The night is long.
+Forget your foolish pride.
+Nothing's wrong,
+Now you're beside me again.
+
+You try to be smart
+Then you take it apart
+'Cause it hurts when your ego is deflated.
+Um-m-um-um-um-um
+You don't realize
+That it's all compromise
+And the problems are so over-rated.
+
+Good-bye means nothing when it's all for show.
+So why pretend you've somewhere else to go?
+
+Don't sleep in the subway, darlin'.
+Don't stand in the pouring rain.
+Don't sleep in the subway, darlin'.
+The night is long.
+Forget your foolish pride.
+Nothing's wrong,
+Now you're beside me again.
+
+Oh, oh, oh.
+Don't sleep in the subway, darlin'.
+Don't stand in the pouring rain.
+Don't sleep in the subway, darlin'.
+The night is long.
+Forget your foolish pride.
+Nothing's wrong,
+Now you're beside me again.
+
+Oh, oh, oh, oh, oh,
+(Repeat chorus and fade out)

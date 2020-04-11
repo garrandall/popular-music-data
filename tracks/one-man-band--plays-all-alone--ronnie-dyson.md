@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-man-band--plays-all-alone--ronnie-dyson
+lyrics_url: https://genius.com/Ronnie-dyson-one-man-band-plays-all-alone-lyrics
 name: One Man Band (Plays All Alone)
 rankings:
 - end_date: '1973-02-23'
@@ -59,4 +60,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-05-12'
 ---
+All my life I’ve been alone but I’ve never really cared
+Just a face inside a crowd a stranger everywhere
+Everyone I’ve ever known has disappointed me
+I live and breathe only for me
 
+No one’s ever been inside the wall surrounding me
+I depend on me myself to keep me company
+No one cares about me so I take good care of me
+I’m in a world all of my own
+
+Oh a one man band plays all alone, he plays to a song of his own
+(Yes he does, yes he does, yes he does)
+Oh a one man band plays all alone, he plays to a song of his own
+
+And I’m so self-contented that it sometimes frightens me
+I can do most anything with no one helping me
+I’m concerned in everything that’s for the good of me
+No one but me cares about me
+
+And each man is the master of his own destiny
+And I can surely best determine what is right for me
+If I had the chance to chance to change my life I wouldn’t dare
+Doing okay living this way
+
+Oh a one man band plays all alone, he plays to a song of his own
+(Yes he does, yes he does, yes he does)
+Oh a one man band plays all alone, he plays to a song of his own
+
+(bridge)
+Oh a one man band plays all alone, he plays to a song of his own
+(Yes he does, yes he does, yes he does)
+Oh a one man band plays all alone, he plays to a song of his own
+(Yes he does, yes he does, yes he does)
+Oh a one man band plays all alone, he plays to a song of his own
+(Yes he does, yes he does, yes he does)
+Oh a one man band plays all alone, he plays to a song of his own
+(fade...)

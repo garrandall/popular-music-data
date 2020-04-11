@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hang-loose-mandrill
+lyrics_url: https://genius.com/Mandrill-hang-loose-lyrics
 name: Hang Loose
 rankings:
 - end_date: '1973-08-17'
@@ -35,4 +36,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-09-22'
 ---
+Funky Instrumental intro
 
+People fighting for a dollar
+The proof in the street
+Sister, brother. Hustling other
+Trying to make ends meet
+
+Got to loose, better hang loose
+Got to loose, better hang loose
+
+Yea!
+
+Funky Instrumental bridge
+
+Everybody trying to be somebody
+Ain't no doubt!
+Everybody trying to be somebody
+
+Funky Instrumental outro

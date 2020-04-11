@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: heartbreak-hotel-the-jacksons
+lyrics_url: https://www.musixmatch.com/lyrics/The-Jacksons/This-Place-Hotel-Heartbreak-Hotel
 name: Heartbreak Hotel
 rankings:
 - end_date: '1980-12-12'
@@ -71,4 +72,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-03-21'
 ---
+"This Place Hotel"
 
+Live in sin
+Ten years ago on this day
+My heart was yearning
+I promise I would never ever be returning
+Where my baby broke my heart and left me yearning
+As we walked to the room
+There were faces starring
+Glaring, tearing through me
+Someone said welcome to your doom
+Then they smiled with eyes
+That looked as if they knew me
+This is scarring me
+
+We walked up the stairs
+Still concealing gloom
+There were two girls
+(Sitting in my room)
+She walked up to my face
+Said this is the place
+You said meet you right here at noon
+
+This is Heartbreak Hotel
+Welcome to Heartbreak Hotel
+So this is Heartbreak Hotel
+This place is Heartbreak Hotel
+
+Hope is dead
+She thought that I had cheated for another lover
+I turn my back to see that I'm undercover
+Now I can't convince this girl there ain't no other
+Someone's evil to hurt my soul
+Every smile's a trial thought
+In beguile to hurt me
+This is scaring me
+Then the man next door had told
+He's been here in tears for fifteen years
+This is scaring me
+
+We came to this place
+Where the vicious dwelt
+Found that wicked women
+(Run this strange hotel)
+There was Sefra and Sue
+Every girl that I knew
+And my baby said love is through
+
+This is Heartbreak Hotel
+Welcome to Heartbreak Hotel
+So evil
+(Heartbreak Hotel)
+This place is Heartbreak Hotel
+Someone's stabbin' my heart
+(Heartbreak Hotel)
+This is Heartbreak Hotel
+(Heartbreak Hotel)
+Ten years ago today
+(Heartbreak Hotel)
+This is Heartbreak Hotel
+(Heartbreak Hotel)
+
+Someone's stabbin' my heart
+(Heartbreak Hotel)
+This is heartbreal hotel
+(Heartbreak Hotel)
+Ten years ago today
+(Heartbreak Hotel)
+Hurting my mind
+(Heartbreak Hotel)
+You break my baby's heart
+(Heartbreak Hotel)
+This is Heartbreak Hotel
+(Heartbreak Hotel)
+Just welcome to the scene

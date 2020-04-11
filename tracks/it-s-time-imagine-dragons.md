@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-time-imagine-dragons
+lyrics_url: https://genius.com/Imagine-dragons-its-time-lyrics
 name: It's Time
 rankings:
 - end_date: '2012-06-29'
@@ -195,4 +196,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-05-11'
 ---
+So this is what you meant
+When you said that you were spent
+And now it's time to build from the bottom of the pit
+Right to the top
+Don't hold back
+Packing my bags and giving the academy a rain check
 
+
+I don't ever wanna let you down
+I don't ever wanna leave this town
+'Cause after all
+This city never sleeps at night
+
+
+It's time to begin, isn't it?
+I get a little bit bigger, but then I'll admit
+I'm just the same as I was
+Now don't you understand
+That I'm never changing who I am
+
+
+So this is where you fell
+And I am left to sell
+The path to heaven runs through miles of clouded hell
+Right to the top
+Don't look back
+Turn in the rags and giving the commodities a rain check
+
+
+I don't ever wanna let you down
+I don't ever wanna leave this town
+'Cause after all
+This city never sleeps at night
+
+
+It's time to begin, isn't it?
+I get a little bit bigger, but then I'll admit
+I'm just the same as I was
+Now don't you understand
+That I'm never changing who I am
+It's time to begin, isn't it?
+I get a little bit bigger, but then I'll admit
+I'm just the same as I was
+Now don't you understand
+That I'm never changing who I am
+
+
+This road never looked so lonely
+This house doesn't burn down slowly
+To ashes, to ashes
+
+
+It's time to begin, isn't it?
+I get a little bit bigger, but then I'll admit
+I'm just the same as I was
+Now don't you understand
+That I'm never changing who I am
+It's time to begin, isn't it?
+I get a little bit bigger, but then I'll admit
+I'm just the same as I was
+Now don't you understand
+That I'm never changing who I am

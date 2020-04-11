@@ -5,6 +5,7 @@ features:
 - Baby
 genres: []
 key: still-in-love-teena-marie-baby
+lyrics_url: https://genius.com/Teena-marie-im-still-in-love-lyrics
 name: Still In Love
 rankings:
 - end_date: '2004-06-04'
@@ -88,4 +89,117 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-10-09'
 ---
+Yeah, yeah, okay
+I know you all hearing that beautiful voice, right?
+One more time mama, one more time mama
+You see I rub cash money just to see a seal original classes
+Y'all might know it's Tina Marie
+Who call her lady Tina La Donna, come on mama
 
+Tell me baby, how long has it been
+Here you come, and here I go again
+I must admit you looking rather fly
+You're a sight for sore eyes
+
+Situation wasn't quite that cool
+Seven years ago we both the fools
+But I'm real enough to let you know
+That I'm never gonna let you go
+
+I'm lovin' you
+I'm still loving you, baby
+I'm still in love
+Nobody's gonna take your place in my life
+No one else but you baby
+
+I'm lovin' you
+I'm still lovin' you, honey
+Yeah, yeah, yeah
+I'm feeling you, what you feeling tonight? Baby
+
+What's that look upon your face my dear?
+It must be magic in the atmosphere
+I'm gonna heat it up, the chemistry
+Stir it up sugar free
+(Stir it up, stir it up baby)
+
+Sexy Joe be blazing everywhere
+My crib's closer honey let's go there
+You got a sista feening baby please
+I'm about to be your main squeeze
+
+I'm lovin' you
+I'm still lovin' you, baby
+I'm still in love
+Nobody's gonna take your place in my life
+I'm still in love
+
+I'm lovin' you
+I'm still lovin' you, honey
+(Still in love with you baby)
+I'm feeling you
+What you feeling tonight?
+(What you feeling)
+
+Come on baby let me stir it up
+I'll remix it in my lovin' cup
+Things are getting heated, let's go chill
+I'm about to be in your grill
+
+Sexy Joe be blazing knuckle sounds
+My crib's closer on the west side now
+You gotta sista feening baby please
+I'm about to be your main squeeze
+
+I'm lovin' you
+I'm still loving you, baby
+I'm still in love
+Nobody's gonna take your place in my life
+(Still in love with you babe)
+I'm still in love
+
+I'm lovin' you
+I'm still lovin' you, honey
+(I'm still in love)
+I'm feeling you
+What you feeling tonight?
+(What you feeling?)
+
+(Gonna stir it, gonna stir it, gonna stir it on up)
+I'm gonna stir it on up
+(Gonna mix it, gonna mix it in my lovin' cup)
+I'm gonna mix it in my lovin' cup
+(Gonna stir it, gonna stir it, gonna stir it on up)
+Stir it on up, stir it on up
+(Gonna mix it, gonna mix it in my lovin' cup)
+In my lovin' cup
+
+All the ladies to my left if you feel what I'm feeling
+Holla, let me hear you scream
+(Yeah, yeah)
+All the sistas to my right if you been there before
+Stir it up with me
+(Stir it up, stir it up with me)
+All the ladies to my left if you feel what I'm feeling
+Holla, let me hear you scream
+(Yeah, yeah)
+All the sistas to my right if you been there before
+Stir it up with me
+
+(Gonna stir it up)
+I'm gonna stir it
+(Mix it in my cup)
+I'm gonna mix it
+(Gonna stir it up)
+Stir it, stir it
+(Mix it in my lovin' cup)
+
+(Gonna stir it up)
+I'm gonna stir it
+(Mix it in my cup)
+Yeah, I'm gonna mix it
+(Gonna stir it up)
+I'm gonna stir it
+(Mix it in my lovin' cup)
+Mix it in my cup
+Stir it

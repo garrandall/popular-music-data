@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-thinks-she-needs-me-andy-griggs
+lyrics_url: https://genius.com/Andy-griggs-she-thinks-she-needs-me-lyrics
 name: She Thinks She Needs Me
 rankings:
 - end_date: '2004-08-06'
@@ -71,4 +72,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-11-13'
 ---
+She thinks I walk on water
+She thinks I hung the moon
+She tells me every morning
+"They just don't make men like you"
 
+She thinks I've got it together
+She swears I'm as tough as nails
+But I don't have the heart to tell her
+She don't know me that well
+
+She don't know how much I need her
+She don't know I'd fall apart
+Without her kiss, without her touch
+Without her faithful, loving arms
+She don't know that it's all about her
+She don't know I can't live without her
+She's my world, she's my everything
+And she thinks she needs me
+
+Sometimes she cries on my shoulder
+When she's lying next to me
+But she don't know that when I hold her
+That she's really holding me, holding me
+
+She don't know how much I need her
+She don't know I'd fall apart
+Without her kiss, without her touch
+Without her faithful, loving arms
+She don't know that it's all about her
+She don't know I can't live without her
+She's my world, she's my everything
+And she thinks she needs me
+
+Yeah, and the funny thing is
+She thinks she's the lucky one
+
+She don't know how much I need her
+She don't know I'd fall apart
+Without her kiss, without her touch
+Without her faithful, loving arms
+She don't know that it's all about her
+She don't know I can't live without her
+She's my world, she's my everything
+And she thinks she needs me
+
+She thinks I walk on water
+She thinks I hung the moon

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: michael-the-c-o-d--s
+lyrics_url: https://genius.com/The-cods-michael-lyrics
 name: Michael
 rankings:
 - end_date: '1965-12-03'
@@ -55,4 +56,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
 ---
-
+Michael, the lover
+Before him, there was no other
+In his time, there may be many
+When he's gone, there won't be any
+I'm talking 'bout Michael, the lover
+Michael, the lover
+Girls are tender, sad and sweet
+But no other boys can compete
+'Cause Michael's got a style of his own
+And the girls say his rap is strong
+That's Michael, the lover
+Michael, the lover
+Everybody knows him
+For his rap is strong
+With lots of fame
+When the girls see him coming
+They tighten up their game
+Cause Michael's 'bout
+The loveliest boy
+And he's got to bring you
+Your pride and joy
+That's Michael, the lover
+Before him, there was no other
+In his time, there may be many
+When he's gone, there won't be any
+Talking 'bout, talking 'bout
+Talking 'bout, talking 'bout
+Michael, the lover
+Michael, the lover
+He's a lover
+Everybody knows that's Michael
+Everybody calls him Michael, the lover
+Michael, everybody knows him
+I know you know him
+The girls all know him
+Michael, the lover...

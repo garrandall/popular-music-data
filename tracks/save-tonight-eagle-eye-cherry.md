@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: save-tonight-eagle-eye-cherry
+lyrics_url: https://genius.com/Eagle-eye-cherry-save-tonight-lyrics
 name: Save Tonight
 rankings:
 - end_date: '1998-12-11'
@@ -119,4 +120,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-06-12'
 ---
+Go on and close the curtains
+'Cause all we need is candlelight
+You and me and a bottle of wine
+Going to hold you tonight, uh yeah
 
+
+Well we know I'm going away
+And how I wish, I wish it weren't so
+So take this wine and drink with me
+Let's delay our misery
+
+
+Save tonight
+And fight the break of dawn
+Come tomorrow
+Tomorrow I'll be gone
+Save tonight
+And fight the break of dawn
+Come tomorrow
+Tomorrow I'll be gone
+
+
+There's a log on the fire
+And it burns like me for you
+Tomorrow comes with one desire
+To take me away, oh it's true
+
+
+It ain't easy to say goodbye
+Darling please don't start to cry
+'Cause girl you know I've got to go, oh
+Lord I wish it wasn't so
+
+
+Save tonight
+And fight the break of dawn
+Come tomorrow
+Tomorrow I'll be gone
+Save tonight
+And fight the break of dawn
+Come tomorrow
+Tomorrow I'll be gone
+
+
+Tomorrow comes to take me away
+I wish that I, that I could stay
+Girl you know I've got to go, oh
+Lord I wish it wasn't so
+
+
+Save tonight
+And fight the break of dawn
+Come tomorrow
+Tomorrow I'll be gone
+Save tonight
+And fight the break of dawn
+Come tomorrow
+Tomorrow I'll be gone
+
+
+Save tonight
+And fight the break of dawn
+Come tomorrow
+Tomorrow I'll be gone
+Save tonight
+And fight the break of dawn
+Come tomorrow
+Tomorrow I'll be gone
+
+
+Tomorrow I'll be gone
+Tomorrow I'll be gone
+Tomorrow I'll be gone
+Tomorrow I'll be gone
+Save tonight
+Save tonight
+Save tonight
+Save tonight
+Oh, that's right
+Save tonight

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-the-girl-the-click-five
+lyrics_url: https://genius.com/The-click-five-just-the-girl-lyrics
 name: Just The Girl
 rankings:
 - end_date: '2005-08-05'
@@ -87,4 +88,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-12-10'
 ---
+She's cold and she's cruel
+But she knows what she's doing
+She pushed me in the pool
+At our last school reunion
+She laughs at my dreams
+But I dream about her laughter
+Strange as it seems
+She's the one I'm after
 
+
+'Cause she's bittersweet
+She knocks me off of my feet
+And I can't help myself
+I don't want anyone else
+She's a mystery
+She's too much for me
+But I keep coming back for more
+She's just the girl I'm looking for
+
+
+She can't keep a secret
+For more than an hour
+She runs on 100 proof attitude power
+And the more she ignores me
+The more I adore her
+What can I do?
+I'd do anything for her
+
+
+'Cause she's bittersweet
+She knocks me off of my feet
+And I can't help myself
+I don't want anyone else
+She's a mystery
+She's too much for me
+But I keep coming back for more
+She's just the girl I'm looking for
+
+
+And when she sees it's me
+On her caller ID
+She won't pick up the phone
+She'd rather be alone
+But I can't give up just yet
+'Cause every word she's ever said
+Is still ringing in my head
+Still ringing in my head
+She's cold and she's cruel
+But she knows what she's doing
+Knows just what to say
+So my whole day is ruined
+
+
+'Cause she's bittersweet
+She knocks me off of my feet
+And I can't help myself
+I don't want anyone else
+She's a mystery
+She's too much for me
+But I keep coming back for more
+'Cause she's bittersweet
+She knocks me off of my feet
+And I can't help myself
+I don't want anyone else
+She's a mystery
+She's too much for me
+But I keep coming back for more
+Oh, I keep coming back for more
+She's just the girl I'm looking for
+Just the girl I'm looking for
+
+
+Just the girl
+I'm looking for
+She's just the girl
+I'm looking for
+Just the girl
+I'm looking for
+Just the girl I'm looking for

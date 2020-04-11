@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hurt-so-bad-the-lettermen
+lyrics_url: https://genius.com/The-lettermen-hurt-so-bad-lyrics
 name: Hurt So Bad
 rankings:
 - end_date: '1969-06-06'
@@ -91,4 +92,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-10-18'
 ---
+I know you
+Don't know what I'm going through
+Standing here looking at you
+Well let me tell you that it hurts so bad
+It makes me feel so sad
+It makes me hurt so bad
+To see you again
+Like needles and pins people say
+You've been making out OK
+She's in love don't stand in her way
+But let me tell you that it hurts so bad
 
+It makes me feel so bad
+It's gonna hurt so bad if you walk away
+Why don't you stay and let me make it up to you
+Stay I'll do anything you want me to
+You loved me before please love me again
+I can't let you go back to him
+Please don't go please don't go
+It hurts so bad it hurts so bad it hurts so bad
+I'm begging you please please don't go please don't go
+(song fades away)

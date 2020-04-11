@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-s-crying-now-journey
+lyrics_url: https://genius.com/Journey-whos-crying-now-lyrics
 name: Who's Crying Now
 rankings:
 - end_date: '1981-07-24'
@@ -91,4 +92,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-12-05'
 ---
+It's been a mystery
+And still they try to see
+Why something good can hurt so bad
+Caught on a one-way street
+The taste of bittersweet
+Love will survive somehow, some way
 
+
+One love feeds the fire
+One heart burns desire
+I wonder, who's crying now
+Two hearts born to run
+Who'll be the lonely one
+I wonder who's crying now
+
+
+So many stormy nights
+So many wrongs or rights
+Neither could change
+Their headstrong ways
+And in a lover's rage
+They tore another page
+The fighting is worth
+The love they save
+
+
+One love feeds the fire
+One heart burns desire
+I wonder who's crying now
+Two hearts born to run
+Who'll be the lonely one
+I wonder who's crying now
+
+
+Only so many tears you can cry
+'Till the heartache is over
+And now you can say your love
+Will never die
+
+Whoooooa-oh-whoa
+Whoooa-oh
+Ooooooh-whoa, ooh-whooa
+
+
+One love feeds the fire
+One heart burns desire
+Wonder who's crying now
+Two hearts born to run
+Who will be the lonely one
+Wonder who's crying now

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-live-a-dream-the-osmonds
+lyrics_url: https://genius.com/The-osmonds-i-cant-live-a-dream-lyrics
 name: I Can't Live A Dream
 rankings:
 - end_date: '1976-10-08'
@@ -43,4 +44,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
 ---
+The day that you moved away
+Life was so empty
+All I had left
+Was your memory
 
+Memory, memory
+
+Livin', it seems
+What was left
+Was a dream
+A dream of the way
+It used to be
+
+But I can't live a dream
+Anymore than I can live forever
+Anymore than I can climb a mountain
+To the sun
+To the sun...
+To the sun...
+
+No I can't live a dream
+Anymore than I can move a mountain
+Anymore than I can live my life
+Without you
+Can't live, no...
+No I can't live...
+
+No, no
+No, no...
+
+All of the things I done
+Leaving me lonely
+All of the nights
+Of missing you only
+Only!
+Lonely!
+
+I spend my time
+With your face
+On my mind
+Just closing my eyes
+Dreaming of you
+
+But I can't live a dream
+Anymore than I can live forever
+Anymore than I can climb a mountain
+To the sun
+To the sun...
+To the sun...
+
+I can't live a dream
+Anymore than I can live forever
+Anymore than I can climb a mountain
+To the sun
+To the sun...
+To the sun...
+
+No I can't live a dream
+Anymore than I can move a mountain
+Anymore than I can live my life
+Without you
+Without you...
+Without you...
+
+No I can't live a dream
+Anymore than I can live forever

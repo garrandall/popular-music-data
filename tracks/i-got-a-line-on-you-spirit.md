@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-got-a-line-on-you-spirit
+lyrics_url: https://genius.com/Spirit-i-got-a-line-on-you-lyrics
 name: I Got A Line On You
 rankings:
 - end_date: '1969-01-24'
@@ -55,4 +56,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-05'
 ---
+Let me take you baby, down to the river bed
+Got to tell you somethin', go right to your head
+Cause I got a line on you, babe
+I got a line on you
 
+Gotta put your arms around me
+With every bit of your love
+If you know what to do, I'll make love to you
+Cause you got the right line to make it through these times
+I got a line on you babe
+I got a line on you babe
+I got a line on you babe
+
+I got a line on you
+I got a line on you babe
+You know my winter's almost over
+My summer, she's comin' on strong
+
+I can love you, love you, love you
+Love you all year long
+I got a line on you babe
+I got a line on you
+I got a line on you babe
+I got a line on you
+I got a line on you babe

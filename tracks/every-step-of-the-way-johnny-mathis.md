@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: every-step-of-the-way-johnny-mathis
+lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Mathis/Every-Step-of-the-Way
 name: Every Step Of The Way
 rankings:
 - end_date: '1963-05-31'
@@ -35,4 +36,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-07-06'
 ---
+Well walk the road of life together, day by day
+And I will love you every step of the way
+The road may wind beneath a sky of blue or gray
+But I will love you every step of the way.
+So only love me, and love me only
+And we will never walk with loneliness
+For just as sure as every April turns to May
 
+So will I love you every step of the way.
+So only love me, and love me only
+... And we will never walk with loneliness
+For just as sure as every April turns to May
+So will I love you every step of the way
+I'll love you only, every step of the way.

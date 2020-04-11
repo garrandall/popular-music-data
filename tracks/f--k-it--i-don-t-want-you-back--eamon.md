@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: f--k-it--i-don-t-want-you-back--eamon
+lyrics_url: https://www.musixmatch.com/lyrics/Eamon/F-k-It-I-Don-t-Want-You-Back
 name: F**k It (I Don't Want You Back)
 rankings:
 - end_date: '2003-12-12'
@@ -91,4 +92,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-04-24'
 ---
+Whoa oh oh
+Ooh hooh
+No No No
 
+See I don't, know why, I liked you so much
+I gave you all, of my trust
+I told you, I loved you, now thats all down the drain
+Ya put me through pain, I wanna let u know how I feel
+
+Fuck what I said it don't mean shit now
+Fuck the presents might as well throw em out
+Fuck all those kisses, they didn't mean jack
+Fuck you, you ho, I don't want you back
+
+Fuck what I said it don't mean shit now
+Fuck the presents might as well throw em out
+Fuck all those kisses, they didn't mean jack
+Fuck you, you ho, I don't want you back
+
+You thought, you could
+Keep this shit from me, yeah
+Ya burnt bitch, I heard the story
+Ya played me, ya even gave him head
+Now ya askin for me back
+Ya just another hag, look elsewhere
+Cuz ya done with me
+
+Fuck what I said it don't mean shit now
+Fuck the presents might as well throw em out
+Fuck all those kisses, they didn't mean jack
+Fuck you, you hoe, I don't want you back
+
+Fuck what I said it don't mean shit now
+Fuck the presents might as well throw em out
+Fuck all those kisses, they didn't mean jack
+Fuck you, you hoe, I don't want you back
+
+Oh oh Oh oh
+Uh huh yeah
+Oh oh Oh oh
+Uh huh yeah
+Oh oh Oh oh
+Uh huh yeah
+Oh oh Oh oh
+Uh huh yeah
+
+Ya questioned, if I care
+You could ask anyone, I even said
+Ya were my great one
+Now its, over, but I do admit i'm sad
+It hurt real bad, I cant sweat that, cuz I loved a ho
+
+Fuck what I said it don't mean shit now
+Fuck the presents might as well throw em out
+Fuck all those kisses, they didn't mean jack
+Fuck you, you hoe, I don't want you back
+
+Oh oh Oh oh
+Uh huh yeah
+Oh oh Oh oh
+Uh huh yeah
+Oh oh Oh oh
+Uh huh yeah
+Oh oh Oh oh
+Uh huh yeah

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-different-story--world-of-lust-and-crime--peter-schilling
+lyrics_url: https://genius.com/Peter-schilling-the-different-story-a-world-of-lust-and-crime-german-translate-lyrics
 name: The Different Story (World Of Lust And Crime)
 rankings:
 - end_date: '1989-03-31'
@@ -47,4 +48,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-05-27'
 ---
+Ich bin so einsam auf meinem Weg
+Warte auf einen besseren Tag
+Nur eine Sache hinter sich lassen
+Eine Welt der Lust und Verbrechen
 
+Es gibt keinen Platz für mich zum verstecken
+Ich weiß nicht was richtig oder falsch ist
+Schmerz und Leid in meinem Kopf
+Eine Welt der Lust und Verbrechen
+
+Siehe den weisen Mann auf dem Friedhof
+Schreit und weint die andere Geschichte
+Einsame Menschen in seinem eigenem Herzen
+Wissen die Antwort für alles
+
+Liebe zeigt eine freundliche Seite
+Mit einer anderen Geschichte
+Es wird dein Herz öffnen
+Liebe ist immer ein endloses Spiel
+Mach dir keine Sorgen
+Weil es einfach zu Spielen ist
+
+Es gibt eine Chance für dich und mich
+Mache alle deine Träume wahr
+Vertraue in die Liebe und du wirst sie nicht finden
+Eine Welt der Lust und Verbrechen
+
+Siehe den weisen Mann auf dem Friedhof
+Schreit und weint die andere Geschichte
+Einsame Menschen in seinem eigenem Herzen
+Wissen die Antwort für alles
+
+Liebe zeigt eine freundliche Seite
+Mit einer anderen Geschichte
+Es wird dein Herz öffnen
+Liebe ist immer ein endloses Spiel
+Mach dir keine Sorgen
+Weil es einfach zu Spielen ist
+
+Siehe den weisen Mann auf dem Friedhof
+Schreit und weint die andere Geschichte
+Einsame Menschen in seinem eigenem Herzen
+Kennen das Licht der Hoffnung und des Ruhms

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-been-thinking-about-you-londonbeat
+lyrics_url: https://www.musixmatch.com/lyrics/Londonbeat/I-ve-Been-Thinking-About-You
 name: I've Been Thinking About You
 rankings:
 - end_date: '1991-02-15'
@@ -83,4 +84,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-06-15'
 ---
+We must have been stone crazy
+When we thought we were just friends
+'Cause I miss you, baby
+And I've got those feelings again
+I guess I'm all confused about you
+I feel so in love
+Oh, baby, what can I do?
 
+I've been thinking about you
+I've been thinking about you
+I've been thinking about you
+I've been thinking about you
+
+Suddenly we're strangers
+I watch you walking away
+She was my one temptation
+Oh, I did not want her to stay
+Deep down, I'm still confused about you
+Oh, yes I have baby
+I feel so in love
+Oh, baby, what can I do?
+
+I've been thinking about you
+I've been thinking about you
+I've been thinking about you
+I've been thinking about you
+Got you on my mind
+
+I've been thinking about you
+I've been thinking about you
+I've been thinking about you
+I've been thinking about you
+Got you on my mind
+
+What good is being here without you?
+I wanna know
+I feel so in love
+Oh, baby, what can I do?
+
+I've been thinking about you
+I've been thinking about you
+I've been thinking about you, uhh yeah
+I've been thinking about you
+
+I've been thinking about you
+Oh baby, can't get you out of my mind
+I've been thinking about you
+I've been thinking about you
+You read me baby, I think about you all the time
+I've been thinking about you
+I've been thinking about you
+Got you on my mind
+I've been thinking about you
+I've been thinking about you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: be-careful-of-stones-that-you-throw-dion
+lyrics_url: https://www.musixmatch.com/lyrics/Dion/Be-Careful-of-Stones-That-You-Throw
 name: Be Careful Of Stones That You Throw
 rankings:
 - end_date: '1963-07-12'
@@ -35,4 +36,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-17'
 ---
+So be careful of stones that you throw
 
+Oh, a tongue can accuse and carry bad news
+Gossip is cheap and it's low
+So unless you've made no mistakes in your life
+Just be careful of stones that you throw
+
+A neighbor was passin' my garden one time
+She stopped and I knew right away
+That it was gossip, not flowers, she had on her mind
+And this is what I heard my neighbor say
+
+"You know, that girl down the street
+Should be run from our midst
+She drinks and she talks quite a lot
+She knows not to speak to my child or me"
+My neighbor then smiled and I thought
+
+Oh, a tongue can accuse and carry bad news
+Gossip is cheap and it's low
+But unless you've made no mistakes in your life
+Be careful of stones that you throw
+
+Just then a car speeded by in the screamin' of brakes
+A sound that made my blood chill
+For my neighbor's one child had been pulled from the path
+And saved by a girl lyin' still
+
+The child was unhurt and my neighbor cried out
+"Oh, who was that brave girl so sweet?"
+I covered the crushed broken body and said
+"The bad girl who lived down the street"
+
+So unless you've made no mistakes in your life
+Just be careful of stones that you throw

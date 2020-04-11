@@ -5,6 +5,7 @@ features:
 - Aaron Neville
 genres: []
 key: don-t-know-much-linda-ronstadt-aaron-neville
+lyrics_url: https://genius.com/Linda-ronstadt-dont-know-much-lyrics
 name: Don't Know Much
 rankings:
 - end_date: '1989-10-06'
@@ -112,4 +113,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-03-24'
 ---
+Look at this face
+I know the years are showing
+Look at this life
+I still don't know where it's going
 
+
+I don't know much
+But I know I love you
+And that may be all I need to know
+
+
+Look at these eyes
+They never seen what matters
+Look at these
+Dreams so beaten and so battered
+
+
+I don't know much
+But I know I love you
+And that may be all I need to know
+
+
+So many questions still left unanswered
+So much I've never broken through
+And when I feel you near me, sometimes I see so clearly
+That only truth I'll never know is me and you
+
+
+Look at this man
+So blessed with inspiration
+Look at this soul
+Still searching for salvation
+
+
+I don't know much
+But I know I love you
+And that may be
+All I need to know
+
+
+
+
+I don't know much
+But I know I love you
+And that may be
+All I need to know
+
+
+I don't know much
+But I know I love you
+And that may be all there is to know

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-so-fine-the-falcons
+lyrics_url: https://genius.com/Falcons-youre-so-fine-lyrics
 name: You're So Fine
 rankings:
 - end_date: '1959-04-26'
@@ -87,4 +88,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-08-31'
 ---
-
+You're so fine, you're so fine
+You're mine, you're mine
+I walk, and I talk, about you
+I love you, I love you
+I need you, I need you
+I walk, and I talk, about you
+There's nothing in the world as sweet as your kiss
+So fine, so fine
+Everytime we meet, my heart skips a beat
+You're my first cup of coffee
+( my last cup of tea) Bass line
+You're so fine, you're so fine
+You're mine, you're mine
+I walk, and I talk, about you
+Sax solo
+You're so fine, you're so fine
+You're mine, you're mine
+I walk, and I talk, about you

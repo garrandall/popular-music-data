@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: well-i-told-you-the-chantels
+lyrics_url: https://www.musixmatch.com/lyrics/The-Chantels/Well-I-Told-You
 name: Well I Told You
 rankings:
 - end_date: '1961-11-19'
@@ -43,4 +44,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-01-13'
 ---
+Well, I told you
+To hit the road, Jack
+I'm sorry now, so
+Won't you come on back
 
+Why you go and
+Break my heart now
+You know that we
+Should never, never part
+
+Well, come on, come on
+Come on, come on
+Come on, come on now
+
+Well, I told you
+That you had to go
+When I found out
+You ain't had no dough
+
+Whoa, money ain't everything
+My love means more than anything
+
+Well, come on, come on
+Come on, come on
+Come on, come on now
+
+Now I'm back down on my knees
+Say you want me back
+
+Yeah, you come on, daddy
+Cause I need a Cadillac
+
+Well now, you told me
+To pack my bags, baby
+And that I had to go now
+
+Well, that was yesterday
+Well, I ain't coming back
+No more, no, no, no
+
+Well, I told you
+To hit the road, Jack
+I'm sorry now, so
+Won't you come on back
+
+Well now, you told me
+To pack my bags
+I had to go out on my own
+
+Well, come on, come on
+Come on, come on
+Come on, come on now
+
+Well, I told you
+To hit the road, Jack
+I'm sorry now, so
+Won't you come on back
+
+Well now, you told me
+To pack my bags and go
+Oh, I don't know now
+
+Come on, come on
+Come on, come on
+Come on, come on back
+
+Come on, come on
+Come on, come on
+Come on, come on back

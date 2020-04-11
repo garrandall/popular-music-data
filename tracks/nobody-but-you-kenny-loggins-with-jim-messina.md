@@ -1,7 +1,8 @@
 ---
 artists:
-- Kenny Loggins With Jim Messina
-features: []
+- Kenny Loggins
+features:
+- Jim Messina
 genres: []
 key: nobody-but-you-kenny-loggins-with-jim-messina
 name: Nobody But You

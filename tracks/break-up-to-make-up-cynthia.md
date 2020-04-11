@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: break-up-to-make-up-cynthia
+lyrics_url: https://genius.com/Cynthia-break-up-to-make-up-lyrics
 name: Break Up To Make Up
 rankings:
 - end_date: '1991-06-28'
@@ -39,4 +40,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-08-10'
 ---
+Tell me what's wrong with you now
+Tell me why I
+Never seem to make you happy
+Though heaven knows I try
 
+What does it take to please you?
+Tell me just how
+I can satisfy you, baby
+You're driving me wild
+
+
+Break up to make up
+That's all we do
+First you love me, then you hate me
+That's a game for fools
+
+
+When I come home from working
+You're on the phone
+Talking about how bad I treat you
+Now tell me I'm wrong
+
+You say it's me who argues
+I'll say it's you
+We have got to get together
+Or baby, we're through

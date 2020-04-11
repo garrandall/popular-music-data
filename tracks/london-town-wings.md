@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: london-town-wings
+lyrics_url: https://genius.com/Paul-mccartney-and-wings-london-town-lyrics
 name: London Town
 rankings:
 - end_date: '1978-09-15'
@@ -39,4 +40,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-10-28'
 ---
+Walking down the sidewalk on a purple afternoon
+I was accosted by a barker playing a simple tune upon his flute
+Toot, toot, toot, toot
+Silver rain was falling down upon the dirty ground of London town
 
+People pass me by on my imaginary street
+Ordinary people it's impossible to meet
+Holding conversations that are always incomplete
+Well, I don't know
+
+
+Oh, where are there places to go?
+Someone, somewhere has to know
+I don't know
+
+
+Out of work again, the actor entertains his wife
+With the same old stories of his ordinary life
+Maybe he exaggerates the trouble and the strife
+Well, I don't know
+
+
+Oh, where are there places to go?
+Someone, somewhere has to know
+I don't know
+
+
+Crawling down the pavement on a Sunday afternoon
+I was arrested by a rozzer wearing a pink balloon about his foot
+Toot, toot, toot, toot
+Silver rain was falling down upon the dirty ground of London town
+
+
+Someone, somewhere has to know
+Silver rain was falling down upon the dirty ground of London town

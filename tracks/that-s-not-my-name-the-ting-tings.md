@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: that-s-not-my-name-the-ting-tings
+lyrics_url: https://www.musixmatch.com/lyrics/The-Ting-Tings/That-s-Not-My-Name
 name: That's Not My Name
 rankings:
 - end_date: '2008-12-26'
@@ -111,4 +112,120 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-08-22'
 ---
+Four letter word just to get me along
+It's a difficulty and I'm bitin' on my tongue
+And I, I keep stallin' and keepin' it together
+People around gotta find somethin' to say now
+Holdin' back everyday the same
+Don't wanna be a loner
+Listen to me, oh no
+I never say anything at all
+But with nothin' to consider they forget my name (ame, ame, ame)
 
+They call me hell
+They call me Stacey
+They call me Her
+They call me Jane
+
+That's not my name
+That's not my name
+That's not my name
+That's not my name
+
+They call me quiet
+But I'm a riot
+Mary-Jo-Lisa
+Always the same
+
+That's not my name
+That's not my name
+That's not my name
+That's not my name
+
+I'll miss the catch if they throw me the ball
+I'm the last chick standing up against the wall
+Keep fa-fallin', these heels that keep me borin'
+Getting clamped up and sittin' on the fence now
+So alone all the time and I lock myself away
+Listen to me, oh no
+And though I'm dressed up out and all
+With everything considered they forget my name (ame, ame, ame)
+
+They call me hell
+They call me Stacey
+They call me her
+They call me Jane
+
+That's not my name
+That's not my name
+That's not my name
+That's not my name
+
+They call me quiet
+But I'm a riot
+Mary-Jo-Lisa
+Always the same
+
+That's not my name
+That's not my name
+That's not my name
+That's not my name
+
+Are you callin' me darlin'?
+Are you callin' me bird?
+Are you callin' me darlin'?
+Are you callin' me bird?
+
+They call me hell
+They call me Stacey
+They call me her
+They call me Jane
+
+That's not my name
+That's not my name
+That's not my name
+That's not my name
+
+They call me quiet
+But I'm a riot
+Mary-Jo-Lisa
+Always the same
+
+That's not my name
+That's not my name
+That's not my name
+That's not my name
+
+They call me hell
+They call me Stacey
+They call me her
+They call me Jane
+
+That's not my name
+That's not my name
+That's not my name
+That's not my name
+
+They call me quiet
+But I'm a riot
+Mary-Jo-Lisa
+Always the same
+
+That's not my name
+That's not my name
+That's not my name
+That's not my name
+
+They call me hell
+They call me Stacey
+They call me her
+They call me Jane
+
+That's not my name
+That's not my name
+That's not my name
+That's not my name
+
+So alone all the time and I lock myself away
+Though I'm dressed up out and all
+With everything considered they forget my name

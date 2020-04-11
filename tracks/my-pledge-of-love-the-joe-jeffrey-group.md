@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-pledge-of-love-the-joe-jeffrey-group
+lyrics_url: https://www.musixmatch.com/lyrics/The-Joe-Jeffrey-Group/My-Pledge-Of-Love
 name: My Pledge Of Love
 rankings:
 - end_date: '1969-06-13'
@@ -55,4 +56,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-08-23'
 ---
+I woke up this mornin', Baby
+I had you on my mind
+I woke up this mornin', Baby
+You know that I felt so fine
+You know I need you
+You know that I love you
+This is my pledge of love to
+My pledge of love
+My pledge of love
+Darlin', Darlin', Darlin' to you
+Yeah, to you, yeah
 
+I woke up this mornin', Baby
+I had you on my mind
+I felt so much love this mornin'
+Little girl, little girl, you feel so fine
+You know I need you
+You know that I love you
+Darling, this is my pledge of love
+My pledge of love
+My pledge of love
+Darlin', Darlin', Darlin' to you
+Oh yeah, to you, yea-yeah
+
+Sky's gettin dark above me
+Baby, I need your lovin'
+Got to have all of your lovin'
+Baby, I want your lovin'
+Baby (Baby), Baby (Baby)
+Baby (Baby), Baby (Baby)
+Baby (Baby), Baby (Baby)
+Baby (Baby), Baby (Baby)
+
+I woke up this mornin', Baby
+Yes, and I called your name
+I felt so much love this mornin'
+Little girl, little girl, for shame
+You know I need you
+You know that I love you
+And this is my pledge of love to
+My pledge of love, hey
+My pledge of love
+Darlin', Darlin', Darlin' to you, yeah
+Oh, got to have your lovin'
+Baby, you know I want your lovin'
+Ooooooh, need your...

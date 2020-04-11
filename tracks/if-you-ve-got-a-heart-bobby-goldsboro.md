@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-ve-got-a-heart-bobby-goldsboro
+lyrics_url: https://genius.com/Bobby-goldsboro-if-youve-got-a-heart-lyrics
 name: If You've Got A Heart
 rankings:
 - end_date: '1965-10-01'
@@ -39,4 +40,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-13'
 ---
+I'd like to know if you can cry
+I'd like to see a tear in your eye
 
+I'm tired of you tearing me apart
+I'd like to know if you've got a heart
+
+True love won't change, so I am told
+But one day you're warm, next day you're cold
+
+I think you enjoy tearing me apart
+I'd like to know if you've got a heart
+
+I think you're using me
+Till you find someone new
+But if you wait too long
+You'll have to find me too
+
+Make up your mind and then let me know
+Tell me you're mine or leave me alone
+
+I'm tired of you tearing me apart
+I'd like to know if you've got a heart
+
+I think you enjoy tearing me apart
+I'd like to know if you've got a heart
+I'd like to know if you've got a heart
+I'd like to know if you've got a heart

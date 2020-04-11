@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-best-man-in-the-world-ann-wilson
+lyrics_url: https://genius.com/Ann-wilson-the-best-man-in-the-world-lyrics
 name: The Best Man In The World
 rankings:
 - end_date: '1986-12-05'
@@ -55,4 +56,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-02-14'
 ---
+You've been taken by the city
+The oldest story in the world
+You come for the gold
+And end up bought and sold
 
+You can't seem
+To make no difference
+With all the lies that you've been told
+What you don't know is you're
+The best man in the world
+
+There's more than meets the eye
+There's so much you don't see
+Like the power of your heart
+Driving your destiny
+Magic takes what she deserves
+A lesser heart would lose it's nerve
+
+You've been taken by the city
+But you've done better than you know
+You're part of the sky
+You're part of the street
+You've got the talent to satisfy me
+
+What you don't know is you're
+The best man in the world
+Best man in the world
+Best man in the world
+
+There's more than meets the eye
+There is so much you don't see
+Like the power of your heart
+Driving your destiny
+Magic takes what she deserves
+A lesser heart would lose it's nerve
+
+You've been taken by the city
+But you've done better than you know
+You're part of the sky
+Part of the street
+You've got the talent to satisfy me
+
+What you don't know is you're
+The best man in the world
+Best man in the world
+Best man in the world
+Best man in the world
+Best man in the world
+Best man in the world

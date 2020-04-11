@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: part-time-lover-stevie-wonder
+lyrics_url: https://genius.com/Stevie-wonder-part-time-lover-lyrics
 name: Part-Time Lover
 rankings:
 - end_date: '1985-09-13'
@@ -91,4 +92,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-25'
 ---
+Call up, ring once, hang up the phone
+To let me know you made it home
+Don't want nothing to be wrong with part-time lover
+If she's with me, I'll blink the lights
+To let you know tonight's the night
+For me and you, my part-time lover
 
+
+We are undercover passion on the run
+Chasing love up against the sun
+We are strangers by day, lovers by night
+Knowing it's so wrong, but feeling so right
+
+
+If I'm with friends and we should meet
+Just pass me by, don't even speak
+Know the word's "discreet" with part-time lovers
+But if there's some emergency
+Have a male friend to ask for me
+So then she won't peek it's really you my part-time lover
+
+
+We are undercover passion on the run
+Chasing love up against the sun
+We are strangers by day, lovers by night
+Knowing it's so wrong, but feeling so right
+
+
+(Part-time lovers)
+
+(Part-time lovers)
+
+
+We are undercover passion on the run, yeah
+Chasing love up against the sun
+We are strangers by day, lovers by night
+Knowing it's so wrong, but feeling so right
+
+
+I've got something that I must tell
+Last night someone rang our doorbell
+And it was not you, my part-time lover
+And then a man called our exchange
+But didn't want to leave his name
+I guess that two can play the game
+Of part-time lovers
+You and me, part-time lovers
+But, she and he, part-time lovers
+
+
+(Repeat until end)

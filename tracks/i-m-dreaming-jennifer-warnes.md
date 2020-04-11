@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-dreaming-jennifer-warnes
+lyrics_url: https://genius.com/Jennifer-warnes-im-dreaming-lyrics
 name: I'm Dreaming
 rankings:
 - end_date: '1977-08-05'
@@ -35,4 +36,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-09-10'
 ---
+Watching all the fishing boats coming
+Lying back in the warm, soft sand
+Seeing you with the sun in your eyes
 
+Looking 'round with the wind in my hair
+Easing down without a care
+Touching you under sweet summer skies
+
+There's a place I can go to any time
+I feel myself unwind
+And oh, the feeling's fine
+
+I'm dreaming of a time beyond today
+When you turn to me and say
+?You'll always feel this way?
+
+I'm dreaming of a sun that never sets
+Of a life without regrets
+In a world that lets its lovers' dreams come true
+
+Taking time to talk to each other
+Finding out who we really are
+Being happy, being here with you
+
+Feeling sure that the feeling will last
+Even when this dream is past
+We will see our love come shining through
+
+I'm dreaming of a time beyond today
+When you turn to me and say
+?You'll always feel this way?
+
+I'm dreaming of a time beyond today
+When you turn to me and say
+?You'll always feel this way?
+
+I'm dreaming of a sun that never sets
+Of a life without regrets
+In a world that lets its lovers' dreams come true
+
+Dreaming of a time beyond today
+When you turn to me and say
+?You'll always feel this way?
+
+I'm dreaming of a sun that never sets
+Of a life without regrets
+In a world that lets its lovers' dreams come true

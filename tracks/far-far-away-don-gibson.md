@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: far-far-away-don-gibson
+lyrics_url: https://genius.com/Don-gibson-far-far-away-lyrics
 name: Far Far Away
 rankings:
 - end_date: '1960-08-07'
@@ -27,4 +28,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-29'
 ---
+Far far away is my love of yesterday
+And she's gone gone gone gone from me from me
+Far far away is my life my love my way
+And wonder where where where oh where can she be
+Days endless days nights dark as may lonely I'm lonely where can she be
+Far far away is my love of yesterday
+Wonder where where where where where oh where can she be
 
+Far far away...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: young-lovers-paul-and-paula
+lyrics_url: https://genius.com/Paul-and-paula-young-lovers-lyrics
 name: Young Lovers
 rankings:
 - end_date: '1963-03-22'
@@ -47,4 +48,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-05-18'
 ---
-
+We pledged our love to each other
+We know that our love will last
+Paula, I give you my heart
+Yours in return's all I ask
+We've waited so long for this moment
+Tomorrow is our special day
+I'll take you, Paul, & you only
+Here in my heart you will stay
+So good luck to Paul & Paula
+Good luck, young lovers everywhere
+If your love is strong, then you can't go wrong
+True love will find a way
+Paula, I give you my heart
+Paul, I've been waiting for you
+Good luck to Paul & Paula
+Good luck, young lovers everywhere
+If your love is strong, then you can't go wrong
+Good luck, young lovers, tonight
+Good luck, young lovers everywhere
+...& fade

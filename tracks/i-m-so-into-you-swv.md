@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-so-into-you-swv
+lyrics_url: https://genius.com/Swv-im-so-into-you-lyrics
 name: I'm So Into You
 rankings:
 - end_date: '1993-02-12'
@@ -115,4 +116,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-08-07'
 ---
+Boy there you go
+You're tellin me that you love me
+When will you know
+That you belong to another girl who loves you
 
+
+You are so fine
+You blow my mind
+With the things you do to me
+She sees she's not blind
+To the things you do for me
+But I know
+
+
+I'm so into you
+I don't know what I'm gonna do
+Boy you got me so confused
+I don't know what I'm gonna do
+
+
+Friends ask how could
+I give myself to one who belongs to someone else
+They just don't know
+Your love's so good
+That they would want for themselves
+
+
+You are so fine
+You blow my mind
+With the things you for to me
+She sees she's not blind
+To the things you do for me
+But I know
+
+
+I'm so into you
+I don't know what I'm gonna do
+Boy you got me so confused
+I don't know what I'm gonna do
+
+
+You're not, you're not mine
+You're not, you're not mine
+You're not, you're not mine
+You're not
+Ooh, what am I supposed to do
+
+
+I'm so into you
+I don't know what I'm gonna do
+Boy you got me so confused
+I don't know what I'm gonna do

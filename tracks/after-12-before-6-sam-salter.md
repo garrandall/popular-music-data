@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: after-12-before-6-sam-salter
+lyrics_url: https://www.musixmatch.com/lyrics/Sam-Salter-feat-Tamar-Braxton-Nicci-Gilbert-Scott-Galbraith/After-12-Before-6
 name: After 12 Before 6
 rankings:
 - end_date: '1997-08-29'
@@ -71,4 +72,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-12-06'
 ---
+I heard the phone ring, it's you
+Telling me all I do is neglect you
+The first thing that I wanna say
+You know I've been working hard and all day, baby
 
+I don't trip on what your friends say
+'Cause you know they all want me anyway
+You know that I'll be true to you
+My love can't start until, oh love
+
+After 12, before 6
+I want you all up in my mix
+I wanna make love to you
+All night long
+
+After 12, before 6
+I want you all up in my mix
+I wanna make love to you
+All night long
+
+And now it's 12 o'clock is here
+I wanna please you and I'm being sincere
+The rest of the night is yours and mine
+We're gonna chill, relax and unwind, baby
+
+I go to work tired each and every day
+'Cause I spent the night before pleasing my babe
+You know that I am true to you
+But love can't start until, yeah, yeah
+
+After 12, before 6
+I want you all up in my mix
+I wanna make love to you
+All night long
+
+After 12, before 6
+I want you all up in my mix
+I wanna make love to you
+All night long
+
+You will never be alone, no
+'Cause I know, yeah, yeah
+Just how to keep my baby satisfied
+
+After 12, before 6
+I want you all up in my mix
+I wanna make love to you
+All night long
+
+After 12, before 6
+I want you all up in my mix
+I wanna make love to you
+All night long
+
+After 12, after 12, after 12, babe
+After 12, after 12, after 12, babe
+After 12, after 12, after 12, babe
+All night, all night long, yeah yeah yeah

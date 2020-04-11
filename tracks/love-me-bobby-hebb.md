@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-me-bobby-hebb
+lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Hebb/Love-Me
 name: Love Me
 rankings:
 - end_date: '1967-01-06'
@@ -19,4 +20,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-14'
 ---
+Love me
+That's all I want you to do
+Just as long as your love
+For me is true
 
+Want me, baby
+Just like a baby boy wants a toy
+I'll be your pride and joy
+Come on, baby, and love me
+
+Need me, oh, just like I need you
+It ain't hard to do as long as you
+Really, really love me
+
+Come on, love me
+No matter if I'm up or down
+No greater love can be found
+Come on, darling, shucks
+And love me
+
+Just want me, want me
+With all your heart and soul
+Our love will never grow old
+Baby, not if you really want me
+
+Birds will sing
+The sun is gonna shine
+Don't you know
+Happiness, we'll find, oh
+When you say you are mine
+
+Love me, oh
+That's all I want you to do
+Just as long as your love
+For me is true, ooh, baby
+
+Well, I'm gonna
+Come on and love me, love me
+Wrap your arms around me
+Around me
+
+Come on, baby, squeeze me
+Tease me, please me, baby
+Squeeze me, yeah, baby

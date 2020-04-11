@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: since-i-fell-for-you-lenny-welch
+lyrics_url: https://genius.com/Lenny-welch-since-i-fell-for-you-lyrics
 name: Since I Fell For You
 rankings:
 - end_date: '1963-11-01'
@@ -71,4 +72,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-02-08'
 ---
+When you just give love
+And never get love
+You'd better let love depart
+I know it so
+And yet I know
+I can't get you out of my heart
 
+You
+Made me leave my happy home
+You took my love and now you're gone
+Since I fell for you
+
+Love
+Brings such misery and pain
+I guess I'll never be the same
+Since I fell for you
+
+Well it's too bad
+And it's too sad
+But I'm in love with you
+
+You love me
+Then you snub me
+But what can I do
+I'm still in love with you
+
+Well I
+Guess I'll never see the light
+I get the blues most every night
+Since I fell for you
+
+Since I fell for you...

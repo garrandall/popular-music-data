@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-in-to-you-atlanta-rhythm-section
+lyrics_url: https://genius.com/Atlanta-rhythm-section-so-into-you-lyrics
 name: So In To You
 rankings:
 - end_date: '1977-02-04'
@@ -83,4 +84,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-06-04'
 ---
+When you walked into the room
+There was voodoo in the vibes
+I was captured by your style
+But I could not catch your eyes
+Now I stand here helplessly
+Hoping you'll get into me
 
+I am so into you
+I can't think of nothing else
+I am so into you
+I can't think of nothing else
+
+Thinking how it's going to be
+Whenever I get you next to me
+It's gonna be good, dont you know
+From your head to your toe
+Gonna love you all over, over and over
+Me into you, you into me, me into you
+
+I am so into you
+I am so into you, ooh
+
+When you walked into the room
+There was voodoo in the vibes
+I was captured by your style
+But I could not catch your eyes
+Now I stand here helplessly
+Hoping you'll get into me
+
+I am so into you
+I can't get to nothing else
+I am so into you baby
+I can't get to nothing else
+No no no come on baby
+I am so into you
+Love the things you do
+
+Listen baby
+Driving me crazy, oooh
+Come on baby, oo-ooh
+I am so into you
+Love the things you do
+Come on baby
+I am so into you
+I am so into you
+I am so into you

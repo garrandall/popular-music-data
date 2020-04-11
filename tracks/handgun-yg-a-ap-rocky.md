@@ -17,8 +17,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-08-18'
 ---
-
-
 I mix the 400 with the designer, nigga
 Stay dangerous
 On Bloods
@@ -57,8 +55,7 @@ Eat it up, then slide in her, make her tell me who she love
 Uh, uh, uh, uh
 Uh, uh, uh, uh
 
-
-Big gun, handgun, shootout, and-1
+Big gun, handgun, shootout, and 1
 Hop out, tap out, time out, damn, son (what?)
 Goyard trunks, Gucci trunks
 Goku, Trunks, asthma, pump
@@ -75,7 +72,6 @@ My little man was on the corner with the clink clink
 Gold link, rolled 8's, bold links
 Whole gang hold weight, ho
 
-
 I just bought me a handgun and that shit came with the drum
 Do a nigga fast like And-1, I need a bag then and some
 Uh, uh, uh, uh
@@ -84,6 +80,3 @@ I hop out the tub, my feet land on Gucci rug
 Eat it up, then slide in her, make her tell me who she love
 Uh, uh, uh, uh
 Uh, uh, uh, uh
-
-
-

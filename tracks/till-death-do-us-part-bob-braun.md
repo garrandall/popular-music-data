@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: till-death-do-us-part-bob-braun
+lyrics_url: https://www.musixmatch.com/lyrics/Bob-Braun/Till-Death-Do-Us-Part
 name: Till Death Do Us Part
 rankings:
 - end_date: '1962-07-27'
@@ -47,4 +48,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-22'
 ---
-
+One love, one life
+One dream forever
+One love for one heart
+Till death do us part Till death do us part
+Do you know what that means
+As long as I live there'll
+Never be anyone but you And when the time comes
+I pray I'll be the first
+Because I couldn't live
+Without you anyhow Till death do us part
+For better or worse
+That's only a question
+Which asks if I'd stick it out
+If the going got rough Well, I only have to
+Think how rough it
+Would be without you
+And I know I could go through
+Anything as long as you love me For richer or poorer
+Well, that's no problem
+If I had all the
+Kingdoms of the world
+I'd still be poor without you And yet though I'm poor
+I'm the richest man in the world
+If I have your love Till death do us part
+In my arms, in my heart
+In my dreams and with
+Every breath I take
+I think of you For me, you're the reason
+Every new day dawns
+Because I love you so much
+And I always will
+Till death do us part One love, one life
+One dream forever
+One love for one heart
+Till death do us part
+Till death do us part

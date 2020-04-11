@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-boo-ghost-town-dj-s
+lyrics_url: https://genius.com/Ghost-town-djs-my-boo-lyrics
 name: My Boo
 rankings:
 - end_date: '1996-07-12'
@@ -151,4 +152,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-06-18'
 ---
+Boy you should know that
+I've got you on my mind
+Your secret admirer
+I've been watching you
 
+
+At night
+I think of you
+I want to be your lady, maybe
+If your game is on give me a call, boo
+If your lovin' strong, gonna give my all to you
+At night I think of you
+I want to be your lady, maybe
+If your game is on give me a call, boo
+If your love is strong gonna give my all to you
+
+
+Every day I pray my heart can win
+Every night I pray I can call you my man (Yeah, yeah, yeah)
+I need you, I want you, to have you, hold you, squeeze you
+So I'm going out
+Every weekend
+Just to see my boo again
+
+
+At night
+I think of you
+I want to be your lady, maybe
+If your game is on give me a call, boo
+If your love is strong, gonna give my all to you
+At night I think of you
+I want to be your lady, maybe
+If your game is on give me a call, boo
+If your love is strong gonna give my all to you
+
+
+These feelings I have for you
+Can go deeper if you can come
+Correct with your game boy (No, no)
+No, you can't be lame, boy
+But if you can please me
+Then my love will come easy
+I'll do anything you want
+Freak me, boy
+I'm thinking of you
+
+
+At night I think of you
+I want to be your lady, maybe
+If your game is on give me a call, boo
+If your lovin' strong, gonna give my all to you
+At night I think of you
+I want to be your lady, maybe
+If your game is on give me a call, boo
+If your love is strong, gonna give my all to you
+
+
+Boy you've got all I need
+From what I see
+And boy every night I am constantly thinking of you
+
+
+At night I think of you
+I want to be your lady, maybe
+If your game is on give me a call, boo
+If your lovin' strong, gonna give my all to you
+At night I think of you
+I want to be your lady, maybe
+If your game is on give me a call, boo
+If your lovein' strong, gonna give my all to you

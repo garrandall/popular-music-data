@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 5-10-15-20--25-30-years-of-love--the-presidents
+lyrics_url: https://www.musixmatch.com/lyrics/The-Presidents/5-10-15-20-25-30-Years-of-Love
 name: 5-10-15-20 (25-30 Years Of Love)
 rankings:
 - end_date: '1970-10-09'
@@ -67,4 +68,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-09'
 ---
-
+The Presidents
+Miscellaneous
+5-10-15-20 (25-30 Years Of Love)
+5 -10 -15 - 20 (25 - 30 Years Of Love)
+The Presidents
+(Boyd/Powell)
+As found on Soul Hits Of The 70's, Vol. 3
+Lasting forever now
+5 -10 -15 - 20 (25 - 30 Years Of Love)
+Aren't we happy
+Look at the little kids playing
+And having fun
+Don't they remind you of us
+When we were young
+5 -10 -15 - 20 (25 - 30 years ago)
+Weren't we happy
+And we have so much to be thankful for
+We've got
+5 -10 -15 - 20 (25 - 30 Years Of Love)
+Holding hands and talking
+Walking in the park
+Aren't we happy
+Watching the kids play
+Girl, brings memories to our hearts
+Aren't we happy
+And here I cry out
+Thank you for giving me
+5 -10 -15 - 20 (25 - 30 Years Of Love)
+Aren't we happy
+Thank you for
+5 -10 -15 - 20 (25 - 30 Years Of Love)
+Aren't we happy
+Lasting forever now
+5 -10 -15 - 20 (25 - 30 Years Of Love)
+Aren't we happy
+5 -10 -15 - 20 (25 - 30 Years Of Love)
+Aren't we happy?
+(Delfi4110@aol.com)

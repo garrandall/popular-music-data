@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-may-not-live-to-see-tomorrow-brian-hyland
+lyrics_url: https://genius.com/Brian-hyland-i-may-not-live-to-see-tomorrow-lyrics
 name: I May Not Live To See Tomorrow
 rankings:
 - end_date: '1962-11-30'
@@ -35,4 +36,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-01-05'
 ---
+If I can see this one night through
+Maybe I'll get over you
+And realize our love was never right
 
+But I may not live to see tomorrow
+I may die of a broken heart tonight
+
+If I'm around when daylight breaks
+I may find the strength it takes
+To love again and make things
+Come out right
+
+But I may not live to see tomorrow
+I may die of a broken heart tonight
+
+I tell myself tomorrow's
+Gonna be a better day
+But tomorrow seems to be
+A century away
+
+If I survive the morning dew
+Maybe I'll find someone new
+And start again to build
+A brand new life
+
+But I may not live to see tomorrow
+I may die of a broken heart tonight
+
+No, I may not live to see tomorrow
+I may die of a broken heart tonight

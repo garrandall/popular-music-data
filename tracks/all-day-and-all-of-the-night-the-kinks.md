@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-day-and-all-of-the-night-the-kinks
+lyrics_url: https://genius.com/The-kinks-all-day-and-all-of-the-night-lyrics
 name: All Day And All Of The Night
 rankings:
 - end_date: '1965-01-01'
@@ -55,4 +56,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-03-13'
 ---
+I'm not content to be with you in the daytime
+Girl, I want to be with you all of the time
+The only time I feel all right is by your side
+Girl, I want to be with you all of the time
+All day and all of the night
+All day and all of the night
+All day and all of the night
 
+I believe that you and me last forever
+Oh yeah, all day and nighttime yours, leave me never
+The only time I feel alright is by your side
+Girl, I want to be with you all of the time
+All day and all of the night
+All day and all of the night
+Oh, come on
+
+{Instrumental}
+
+I believe that you and me last forever
+Oh yeah, all day and nighttime yours, leave me never
+The only time I feel alright is by your side
+Girl, I want to be with you all of the time
+All day and all of the night
+All day and all of the night-time
+All day and all of the night

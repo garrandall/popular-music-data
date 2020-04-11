@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: daydream-believer-the-monkees
+lyrics_url: https://genius.com/The-monkees-daydream-believer-lyrics
 name: Daydream Believer
 rankings:
 - end_date: '1967-11-24'
@@ -71,4 +72,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-22'
 ---
+Chip: 7A
+Davy: What number is this, Chip?
+Other 3 Monkees: 7-A!
+Davy: OK!, know what I mean, like don't get excited man. It's cause I'm short, I know
 
+
+Oh, I could hide 'neath the wings
+Of the bluebird as she sings
+The six o'clock alarm would never ring
+But it rings and I rise
+Wipe the sleep out of my eyes
+My shavin' razor's cold and it stings.
+
+
+Cheer up, sleepy Jean
+Oh, what can it mean
+To a daydream believer
+And the homecoming queen
+
+
+You once thought of me
+As a white knight on his steed
+Now you know how happy I can be
+Oh, and our good times starts and end
+Without dollar one to spend.
+But how much, baby, do we really need
+
+
+Cheer up, sleepy Jean
+Oh, what can it mean
+To a daydream believer
+And the homecoming queen
+
+
+Cheer up, sleepy Jean
+Oh, what can it mean
+To a daydream believer
+And the homecoming queen
+
+
+
+
+Cheer up, sleepy Jean
+Oh, what can it mean
+To a daydream believer
+And the homecoming queen
+
+
+Cheer up, sleepy Jean
+Oh, what can it mean
+To a daydream believer
+And the homecoming queen

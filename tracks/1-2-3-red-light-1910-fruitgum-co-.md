@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: 1-2-3-red-light-1910-fruitgum-co-
+lyrics_url: https://genius.com/1910-fruitgum-company-1-2-3-red-light-lyrics
 name: 1 2 3 Red Light
 rankings:
 - end_date: '1968-08-02'
@@ -59,4 +60,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
 ---
-
+Ev'ry time I try to prove I love you
+1, 2, 3, Red Light
+You stop me,.
+Baby you ain't right to stop me
+1, 2, 3, Red Light, you stop me
+Ev'ry time I make a move to love you
+1, 2, 3, Red Light, you stop me
+Baby, ev'ry night you stop me
+1, 2, 3, Red Light
+Stop the game, you've got too much to lose
+If you stop me again, that's when we might end
+So please don't refuse
+Ev'ry time I make a move to love you
+1, 2, 3, Red Light, don't stop me
+Baby you ain't right to stop me
+1, 2, 3, Red Light won't stop me
+Ev'ry time I try to prove I love you
+1, 2, 3, Red Light won't stop me
+When I know I'm right don't stop me
+1, 2, 3, Red Light

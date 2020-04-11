@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-satisfied-mind-bobby-hebb
+lyrics_url: https://genius.com/Bobby-hebb-a-satisfied-mind-lyrics
 name: A Satisfied Mind
 rankings:
 - end_date: '1966-10-14'
@@ -31,4 +32,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-11-12'
 ---
-
+How many times
+Have you heard someone say
+If I had his money
+I would do things my way
+But little they know
+That it's so hard to find
+One rich man in ten
+With a satisfied mind
+Once I was winning
+In fortune and fame
+Everything that I dreamed for
+To get a start in life's game
+But suddenly it happened
+(Oh, so suddenly)
+I lost every dime
+(Oh, so suddenly)
+But I'm richer by far
+With a satisfied mind
+'Cause money can't buy back
+Your youth when you're old
+Or a friend when you're lonely
+Or a love that's grown cold
+Why, the wealthiest person
+Is a poor man at times
+Compared to the man
+With a satisfied mind
+Don't you know you can't buy back
+Your youth when you're old
+Not a friend when you're lonely
+And what about that love
+That love you know that's grown cold
+Now you take the wealthiest person
+He ain't nothing but a poor man at times
+Compared to the man
+With a satisfied mind

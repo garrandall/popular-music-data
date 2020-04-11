@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: written-in-the-sand-old-dominion
+lyrics_url: https://genius.com/Old-dominion-written-in-the-sand-lyrics
 name: Written In The Sand
 rankings:
 - end_date: '2017-12-15'
@@ -87,4 +88,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-04-14'
 ---
+Turn me on turn me off then you turn me back on by the weekend
+And you won’t say the words that I want but you flirt when you’re drinkin’
+I see those bubbles pop up like you’re texting then they disappear
+Lets cut through the shit then let’s get to what we’re doing here
 
+
+Are we just a backseat, tryna get it while we can
+Are we names in a tattoo, or just a number on a hand
+Are we last call kissing or will we be reminiscing with each other for the next forty years
+Are we written in the stars, baby, or are we written in the sand
+
+
+Yeah, I want you to want me to take you back home to my mama
+Put my name on your lips call me yours and forget all this drama
+Your makeup is next to my toothbrush but you never put it away on the shelf
+I'm asking you baby 'cause i’m tired of asking myself
+
+
+Are we just a backseat, tryna get it while we can
+Are we names in a tattoo, or just a number on a hand
+Are we last call kissing, are we dancing in the kitchen, baby tell me what it is or what it isn't
+Are we written in the stars, baby, or are we written in the sand
+
+
+Are we just a backseat, tryna get it while we can
+Are we names in a tattoo, or just a number I should wash right off my hand
+Are we last call kissing or will we be reminiscing with each other for the next forty years
+Are we written in the stars baby, or are we written in the sand
+Are we written in the stars baby, or are we written in the sand

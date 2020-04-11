@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: la---la---means-i-love-you-the-delfonics
+lyrics_url: https://genius.com/The-delfonics-la-la-means-i-love-you-lyrics
 name: La - La - Means I Love You
 rankings:
 - end_date: '1968-02-09'
@@ -67,4 +68,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
 ---
+Many guys have come to you
+With a line that wasn't true
+And you passed them by
+Now you're in the center ring
+And their lines don't mean a thing
+Why don't you let me try
+Now I don't wear a diamond ring
+I don't even know a song to sing
+All I know is
 
+
+La la la la la la la la la means
+I love you
+Oh, baby please now
+La la la la la la la la la means
+I love you
+
+
+If I ever saw a girl
+That I needed in this world
+You are the one for me, (one for me)
+Let me hold me in my arms
+Girl, and thrill you with my charms
+I'm sure you will see, (you will see)
+The things I am sayin' are true
+And the way I explain them to you
+Listen to me
+
+
+La la la la la la la la la means
+I love you
+Oh, baby baby
+La la la la la la la la la means
+I love you
+
+The things I am sayin' are true
+And the way I explain them to you, yes to you
+Listen to me
+
+
+La la la la la la la la la means
+I love you
+Oh, you'll have to understand now
+La la la la la la la la la means
+I love you
+Come on and take my hand
+La la la la la la la la la means

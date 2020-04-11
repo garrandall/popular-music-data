@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-afraid-to-go-home-brian-hyland
+lyrics_url: https://genius.com/Brian-hyland-im-afraid-to-go-home-lyrics
 name: I'm Afraid To Go Home
 rankings:
 - end_date: '1963-07-05'
@@ -39,4 +40,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-17'
 ---
+I'm afraid to go home, I'm afraid to go home
+Worries on my mind, afraid of what I'll find
+Will my family be gone? I'm afraid to go home
+Back to Tennessee, afraid of what I'll see
 
+As I walk down this dusty road, got a heart with a heavy load
+Ain't one thing that's the same, so much sorrow and pain
+Headin' home in a single file, every inch is a quarter mile
+Ain't heard nobody sing, ain't seen one livin' thing
+
+Someone's waitin' for me, honey sweet as candy
+Wanna hold her tightLord, make her be all right
+Maybe 'round on next bend, all the ashes of land
+Valleys will be green instead of what I've seen
+
+I'm afraid for the scrubby pine, for the sweet honeysuckle vine
+I'm afraid for my home, for the fields that I roamed
+Kick along down a homeward road, and your heart's gotta take the load
+I'm afraid to go home, I'm afraid to go home
+
+Sherman's been in my town, burned it all to the ground
+Now there's not a tree 'tween Memphis and the Sea
+Now there's not a tree 'tween Memphis and the Sea

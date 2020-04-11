@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-s-up-dj-miko
+lyrics_url: https://genius.com/Dj-miko-whats-up-lyrics
 name: What's Up
 rankings:
 - end_date: '1994-06-24'
@@ -87,4 +88,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-29'
 ---
+Hey-ey-ey
+Hey-ey-ey
+I said "Hey, a-what's going on?"
+And I say, hey-ey-ey
+Hey-ey-ey
+I said "Hey, a-what's going on?"
 
+
+25 years and my life is still
+Tryin' to get up that great big hill of hope
+For a destination
+
+I realized quickly when I knew I should
+That the world was made up of this brotherhood of man
+For whatever that means
+
+
+And so I cry sometimes when I'm lying in bed
+Just to get it all out what's in my head
+And I, I am feeling a little peculiar
+
+And so I wake in the morning and I step outside
+And I take a deep breath and I get real high
+And I scream from the top of my lungs
+"What's going on?"
+
+
+And I say, hey-ey-ey
+Hey-ey-ey
+I said "Hey, a-what's going on?"
+And I say, hey-ey-ey
+Hey-ey-ey
+I said "Hey, a-what's going on?"
+
+
+And I try
+Oh my God, do I try
+I try all the time
+In this institution
+
+And I pray
+Oh my God, do I pray
+I pray every single day
+For revolution
+
+
+And so I cry sometimes when I'm lying in bed
+Just to get it all out, what's in my head
+And I, I am feeling a little peculiar
+
+And so I wake in the morning and I step outside
+And I take a deep breath and I get real high
+And I scream from the top of my lungs
+"What's going on?"
+
+
+And I say, hey-ey-ey
+Hey-ey-ey
+I said "Hey, what's going on?"
+And I say, hey-ey-ey
+Hey-ey-ey
+I said "Hey, a-what's going on?"
+And I say, hey-ey-ey
+Hey-ey-ey
+I said "Hey, what's going on?"
+And I say, hey-ey-ey
+Hey-ey-ey
+I said "Hey, a-what's going on?"

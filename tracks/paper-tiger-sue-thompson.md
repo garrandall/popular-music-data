@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: paper-tiger-sue-thompson
+lyrics_url: https://genius.com/Sue-thompson-paper-tiger-lyrics
 name: Paper Tiger
 rankings:
 - end_date: '1965-01-08'
@@ -47,4 +48,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-03-06'
 ---
+Quit beatin' your chest and actin' like you're gonna bite a big hole out of me
+Quit messin' and testin' 'cause this ain't at all impressin' to me
+Paper tiger, paper tiger, you paper tigers are all alike
+Your roar is much worse than your bite
+Quit spyin' and sighin' and lyin' and tryin' to be so mean
+'cause you ain't scarin' nobody, baby, you're just makin' a scene
+Paper tiger, paper tiger, you're just a'flutterin' in the tree
+Ain't shakin' no one but the leaves
+Oh how you try to be so brave
+Thinkin' that I'll run back to ya and be afraid
+And so you try to come on strong
+Thinkin' that I will go along, but you're wrong
+Paper tiger, paper tiger, you paper tigers are all alike
+Your roar is much worse than your bite
+Your roar is much worse than your bite
 
+C'mere, kitty. Here, kitty, kitty, kitty ah ha ha ha ha

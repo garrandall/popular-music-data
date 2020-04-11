@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: summertime-in-the-lbc-the-dove-shack
+lyrics_url: https://genius.com/The-dove-shack-summertime-in-the-lbc-lyrics
 name: Summertime In The LBC
 rankings:
 - end_date: '1995-08-18'
@@ -87,4 +88,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-12-23'
 ---
+Yeah, This is C Knight from the Dove Shack
+Gettin' dojahed out
+Kickin' it at King's Park with all the homies
+Heh, and you know what I'm sayin'
+So why don't you uh, check out my homie Bo to the Roc
 
+
+I ride with the, I slide with the
+Locs and doggs from the LBC
+All of the hoes wanna kick it with me
+Cause I run with Warren G
+Blaze your weed, bustas and G's
+Water balloon fighters
+Low riders, and East Siders (East Siders)
+All come around (Come around)
+To hear the Dove Shack G Funk sound
+All come around (Come around)
+To kick it in my town, yeah
+
+
+Let me hear you say ooh ahh
+Summertime in the LBC
+Ooh ahh
+Summertime in the LBC
+
+
+Now me and my girls are deep
+In a '94 Wrangler Jeep
+Flossin' all through Long Beach
+Daisy Dukes gets props
+Hair and nails fresh from the shop
+And we are at the bombest spot
+Called the shack
+
+
+Three months of pleasure
+How can I measure the relaxation
+All the fun I'm facing
+My homies got green, that's them
+For sho' though
+Hit the sto' do' so I can get a 4-0
+My lil' cousin rushin to the park to munch
+Standin in line to get a free lunch
+Why do we do what we do when we do what we do
+Hanging out late with no curfew
+
+
+Let me hear you say ooh ahh
+Summertime in the LBC
+Ooh ahh
+Summertime in the LBC
+
+
+Damn, it's hot than a mutha
+I'm smothering ribs with barbecue sauce
+Fools get tossed if they reach across my barbecue grill
+So continue to chill
+At King's Park in the LBC
+That's where you'll find me
+Hangin' with my homies and my friends
+We got the Coke and Henn'
+We got Da Five Footaz and the Twinz
+We got Warren G and the D-O-G
+All come around
+To hear the Dove Shack G Funk sound, yeah
+
+
+Let me hear you say ooh
+Let me hear you say ahh
+Let me hear you say ooh
+Summertime in the LBC
+Let me hear you say ooh
+Let me hear you say ahh
+Let me hear you say ooh
+Summertime in the LBC

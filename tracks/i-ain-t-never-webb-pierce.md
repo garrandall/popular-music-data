@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ain-t-never-webb-pierce
+lyrics_url: https://genius.com/Webb-pierce-i-aint-never-lyrics
 name: I Ain't Never
 rankings:
 - end_date: '1959-08-16'
@@ -63,4 +64,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-09'
 ---
-
+Well I ain't never I ain't never
+Seen nobody like you no no no never have I ever seen nobody like you
+You call me up and say to meet me at nine
+I have to hurry hurry but I'm there on time
+I walk right up and knock on your door the landlord says she ain't a here no more
+I ain't never oh darling seen nobody like you
+Hoo hoo but I love you yeah I love you I love you just the same
+( guitar )
+Well you tell me sweet things that you don't mean
+You've got me a livin' in a haunted dream
+You make me do things I don't wanna do
+My friends say oh Webb what's wrong with you
+I ain't never oh darling seen nobody like you
+Hoo hoo but I love you yeah I love you I love you just the same
+I love you just the same I love you just the same

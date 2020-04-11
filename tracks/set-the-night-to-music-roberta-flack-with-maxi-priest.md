@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: set-the-night-to-music-roberta-flack-with-maxi-priest
+lyrics_url: https://genius.com/Roberta-flack-with-maxi-priest-set-the-night-to-music-duet-with-maxi-priest-lyrics
 name: Set The Night To Music
 rankings:
 - end_date: '1991-09-27'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-02-01'
 ---
+Set the night to music
+Set the night to music
 
+Look at all the stars tonight
+Look at all the moonlight
+Look at us we're all alone
+
+Oh, and it's just like a dream
+Like some romantic fantasy
+Darlin' come and hold me close
+We could be makin' love
+And with the slightest touch
+
+We could set the night to music
+We could set the night to music
+We could do what we want to do
+It'll only take me and you
+To set the night to music
+
+Find a rhythm on our own
+Melt into it nice and slow
+Love ourselves away from here
+
+Your heart beating next to mine
+Perfect love in perfect time
+Watch the world just disappear
+This moment is ours to take
+And with the love we make
+
+We could set the night to music
+We could set the night to music
+We could do what we want to do
+It'll only take me and you
+To set the night to music
+
+This moment is ours to take
+(This moment is ours)
+And with the love we make
+(And with the love we make)
+And with the stars that shine
+
+We could set the night to music
+We could set the night to music
+We could do what we want to do
+It'll only take me and you
+To set the night to music, to music
+
+Set the night, set the night to music, to music
+(Set the night to music)
+Set the night, set the night to music, to music
+(Set the night to music)
+Set the night, set the night to music, to music
+(Set the night to music)
+
+We could be makin', we could be makin' love
+(Set the night to music)
+Tonight, makin' love, makin' love with the stars above
+(Set the night to music)
+We could be makin' love, makin' love, yes we could, with the stars above
+(Set the night to music)
+Makin' love with the stars above
+(Set the night to music)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: boom-boom--out-go-the-lights--pat-travers
+lyrics_url: https://genius.com/Pat-travers-boom-boom-lyrics
 name: Boom Boom (Out Go The Lights)
 rankings:
 - end_date: '1979-09-07'
@@ -35,4 +36,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-13'
 ---
+BOOM BOOM, OUT GO THE LIGHTS
+As performed by Pat Travers
 
+No kiddin'
+I'm ready to fight
+I've been lookin' for my baby all night
+If I get her in my sight
+Boom boom! RIGHT HERE! Out go the lights!
+
+No kiddin'
+I'm ready to go
+When I find her boy don't you know
+If I get her in my sight
+Boom boom! WHAT IS IT? Out go the lights!
+
+I thought I treat my baby fair
+I just found out she don't want me here
+If I get her in my sight
+Boom boom! COME ON! Out go the lights!
+
+- solo -
+
+I never felt this mad before
+When I just found out she don't want me no more
+If I get her in my sight
+Boom boom! COME ON! Out go the lights!
+
+No kiddin'
+I'm ready to fight
+I've been lookin' for my baby all night
+If I get her in my sight
+Boom boom! ONE MORE! Out go the lights!
+
+Take it home!!

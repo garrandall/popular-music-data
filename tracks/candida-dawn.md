@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: candida-dawn
+lyrics_url: https://www.musixmatch.com/lyrics/Tony-Orlando-Dawn-Dawn/Candida
 name: Candida
 rankings:
 - end_date: '1970-07-31'
@@ -79,4 +80,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-21'
 ---
+The stars won't come out
+If they know that you're about
+'Cause they couldn't match the glow of your eyes
+And, oh, who am I?
+Just an ordinary guy
+Tryin' hard to win me first prize
 
+Oh, Candida
+We could make it together
+The further from here girl the better
+Where the air is fresh and clean
+Hmm hmm, Candida
+Just take my hand and I'll lead ya
+I promise that life will be sweeter
+And it said so in my dreams
+
+The future is bright
+The gypsy told me so last night
+Said, "She saw our children playin' in the sunshine"
+And there were you and I
+In a house, baby no lie
+And all these things were yours
+And they were mine
+
+Oh, my Candida
+We could make it together
+The further from here girl the better
+Where the air is fresh and clean
+Hmm hmm, Candida
+Just take my hand and I'll lead ya
+I promise life will be sweeter
+And it said so in my dreams
+
+And, oh, who am I?
+Just an ordinary guy
+You know I
+Tryin' hard to win me first prize
+
+Oh, my Candida
+We could make it together
+The further from here girl the better
+Where the air is fresh and clean
+Oh, my Candida
+Just take my hand and I'll lead ya
+I promise that life will be sweeter
+'Cause it said so in my dreams

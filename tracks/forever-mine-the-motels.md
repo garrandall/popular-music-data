@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forever-mine-the-motels
+lyrics_url: https://genius.com/The-motels-forever-mine-lyrics
 name: Forever Mine
 rankings:
 - end_date: '1982-11-19'
@@ -39,4 +40,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-01'
 ---
+They say, before we met
+How perfect we would be
+There's no question, there's no answer
+My forever mine, my forever mine
 
+Sweetly spoken lines
+Erase all those bad times
+How long I've longed
+For the longing to stop
+My forever mine, my forever mine
+
+Take me in your arms
+Whisper words like always
+Stay until you go
+Live forever, love forever
+My forever mine, my forever mine
+
+The memories are there
+To prove how real or rare
+Maybe just a place in time
+My forever mine, my forever mine
+
+Take me in your arms
+Whisper words like always
+(Always, always)
+Stay until you go
+Live forever, love forever
+My forever mine, my forever mine
+
+(BRIDGE)
+Take me in your arms
+Whisper words like always
+(Always, always)
+Stay until you go
+Live forever, love forever
+My forever mine, my forever mine
+My forever mine, my forever mine
+My forever mine, my forever mine
+My forever mine, my forever mine
+My forever mine, my forever mine
+My forever mine, my forever mine

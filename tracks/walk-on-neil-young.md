@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-on-neil-young
+lyrics_url: https://genius.com/Neil-young-walk-on-lyrics
 name: Walk On
 rankings:
 - end_date: '1974-07-19'
@@ -35,4 +36,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-08-24'
 ---
+I hear some people been talking me down
+Bring up my name, pass it around
+They don't mention the happy times
+They do their thing, I do mine
 
+Ooh baby that's hard to change
+I can't tell them how to feel
+Some get stoned, some get strange
+But sooner or later it all gets real
+
+
+Walk on, walk on 
+
+
+I remember the good old days
+Stayed up all night getting crazed
+Then the money was not so good
+But we still did the best we could
+
+Ooh baby that's hard to change
+I can't tell them how to feel
+Some get stoned, some get strange
+But sooner or later it all gets real

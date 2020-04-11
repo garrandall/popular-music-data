@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: easy-come-easy-go-bobby-sherman
+lyrics_url: https://genius.com/Bobby-sherman-easy-come-easy-go-lyrics
 name: Easy Come Easy Go
 rankings:
 - end_date: '1970-02-13'
@@ -63,4 +64,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-05-09'
 ---
-
+I'm taking the shade out of the sun
+Whatever made me think that I was number one
+I oughta know, easy come, easy go
+Sittin' it out, I'm spinnin' the dial
+Thinkin' about the chump I've been ,I have to smile
+Didn't I know, easy come, easy go
+She wasn't kind, I wasn't smart
+I lost my mind and fell apart
+I had to find myself in time
+Now I can start all over again
+Just Hangin' around, takin' it slow
+So happy I found I still can smile and dig the show
+Lettin' me know, easy come, easy go

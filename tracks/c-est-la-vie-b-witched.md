@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: c-est-la-vie-b-witched
+lyrics_url: https://genius.com/Bwitched-cest-la-vie-lyrics
 name: C'est La Vie
 rankings:
 - end_date: '1999-02-26'
@@ -67,4 +68,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-05-29'
 ---
+"Some people say I look like me dad"
+"What? Are you serious?"
 
+
+I say hey boy, sittin' in your tree
+Mummy always wants you to come for tea
+Don't be shy, straighten up your tie
+Get down from your treehouse sittin' in the sky
+I wanna know just what to do
+Is it very big?
+Is there room for two?
+I got a house with windows and doors
+I'll show you mine if you show me yours
+
+
+Gotta let me in, hey, hey, hey
+Let the fun begin, hey
+I'm the wolf today hey, hey, hey
+I'll huff, I'll puff
+I'll huff, I'll puff, I'll blow you away
+
+
+Say you will, say you won't
+Say you'll do what I don't
+Say you're true, say to me
+C'est la vie
+Say you will, say you won't
+Say you'll do what I don't
+Say you're true, say to me (Get a life!)
+C'est la vie
+
+
+Do you play with the girls, play with the boys?
+Do you ever get lonely playing with your toys?
+We can talk, we can sing
+I'll be the queen and you'll be the king
+Hey boy, in your tree
+Thrown down your ladder, make a room for me
+I got a house with windows and doors
+I'll show you mine if you show me yours
+
+
+Gotta let me in, hey, hey, hey
+Let the fun begin, hey
+I'm the wolf today hey, hey, hey
+I'll huff, I'll puff
+I'll huff, I'll puff, I'll blow you away
+
+
+Say you will, say you won't
+Say you'll do what I don't
+Say you're true, say to me (Say you will, yeah)
+C'est la vie
+Say you will, say you won't (Oh, say you will)
+Say you'll do what I don't (Say you will)
+Say you're true, say to me (What are you like?)
+C'est la vie
+
+
+Huh, huh
+Na-na-nah, hey
+Na-na-nah oh
+Na-na-nah, hey
+Huh, huh, huh, huh
+
+
+Say you will, say you won't
+Say you'll do what I don't (Say you will)
+Say you're true, say to me
+Wanna say, c'est la vie
+Say you will, say you won't
+Say you'll do what I don't
+Say you're true, say to me (Say you will)
+C'est la vie (Fight like me dad as well!)
+
+
+Na-na-nah, hey
+Na-na-nah oh (C'est la vie)
+Na-na-nah, hey
+Huh, huh, huh, huh (C'est la vie)

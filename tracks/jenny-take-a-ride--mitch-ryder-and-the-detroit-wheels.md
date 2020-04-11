@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jenny-take-a-ride--mitch-ryder-and-the-detroit-wheels
+lyrics_url: https://genius.com/Mitch-ryder-and-the-detroit-wheels-jenny-take-a-ride-lyrics
 name: Jenny Take A Ride!
 rankings:
 - end_date: '1965-12-17'
@@ -55,4 +56,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-26'
 ---
+Oh see, C. C. Rider
+I said see, what you have done now
+Oh see, C. C. Rider
+I said see, what you have done now
+Ahh, you made me love you
+Now, now, now, now your man has gone
 
+Oh, I'm going with my baby
+And I won't be back 'til fall, yeah
+Oh, I'm going with my baby
+And I won't be back 'til fall, yeah
+And if I find me a new girl
+I won't be back at all
+
+Ah, Jenny, Jenny, Jenny, won't you come along with me
+(Jenny, Jenny, woo, Jenny, Jenny)
+Jenny Jenny, Jenny, won't you come along with me
+(Jenny, Jenny, woo, Jenny, Jenny)
+I worry 'bout you, baby, spendin' nights in misery
+
+Spinnin', spinnin', spinnin', spinnin' like a spinnin' top
+(Jenny, Jenny, woo, Jenny, Jenny)
+Spinnin', spinnin', spinnin', spinnin' like a spinnin' top
+(Jenny, Jenny, woo, Jenny, Jenny)
+Come along, baby, 
+
+Yeah, see, C. C. Rider
+I said see, what you have done now
+Oh see, C. C. Rider
+Ah, come on see, baby, what you have done now
+Ahh, you made me love you
+Now, now, now, now your man has gone
+
+Jenny, Jenny, Jenny, won't you come along with me
+(Jenny, Jenny, woo, Jenny, Jenny)
+Jenny Jenny, Jenny, won't you come along with me
+(Jenny, Jenny, woo, Jenny, Jenny)
+Come along baby, 
+
+Spin, spin, spinnin' like a spinnin' top
+(Jenny, Jenny, woo, Jenny, Jenny)
+Spin, spin, spinnin' like a spinnin' top
+(Jenny, Jenny, woo, Jenny, Jenny)

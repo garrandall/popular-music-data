@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-good-care-of-her-adam-wade
+lyrics_url: https://genius.com/Adam-wade-take-good-care-of-her-lyrics
 name: Take Good Care Of Her
 rankings:
 - end_date: '1961-03-19'
@@ -63,4 +64,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-06-12'
 ---
+I suppose I ought to say congratulations
+For you've won the only girl
+I ever loved
 
+But I hurt too much to face the situation
+Just take good care of her
+Take good care of her
+
+Just to be around her
+Was my greatest pleasure
+She was everything
+My future held in store
+
+So, remember
+When you take my only treasure
+Please, take good care of her
+Take good care of her
+
+I must accept it
+She loves you more than me
+So with my broken heart
+I'll bow out gracefully
+
+Please don't send me
+Any wedding invitation
+For I couldn't bear to see her there with you
+
+If she's happy
+That will be my consolation
+So, take good care of her
+Take good care of her
+
+Take good care of her
+Take good care of her

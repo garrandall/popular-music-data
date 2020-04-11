@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -marie-s-the-name--his-latest-flame-elvis-presley
+lyrics_url: https://genius.com/Elvis-presley-maries-the-name-of-his-latest-flame-lyrics
 name: (Marie's The Name) His Latest Flame
 rankings:
 - end_date: '1961-09-03'
@@ -51,4 +52,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
 ---
+A very old friend came by today
+Because he was telling everyone in town
+About the love that he just found
+And Marie's the name of his latest flame
 
+
+Though I smiled the tears inside were a-burning
+I wished him luck and then he said goodbye
+He was gone but still his words kept returning
+What else was there for me to do but cry
+
+
+He talked and talked and I heard him say
+That she had the longest blackest hair
+The prettiest green eyes anywhere
+And Marie's the name of his latest flame
+
+
+Would you believe that yesterday
+This girl was in my arms and swore to me
+She'd be mine eternally
+And Marie's the name of his latest flame

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: let-it-be-me-betty-everett-jerry-butler
+lyrics_url: https://genius.com/Jerry-butler-and-betty-everett-let-it-be-me-lyrics
 name: Let It Be Me
 rankings:
 - end_date: '1964-09-11'
@@ -60,4 +61,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
 ---
-
+I bless the day I found you
+I want to stay around you
+And so I beg you
+Let it be me
+Don't take this heaven from one
+If you must cling to someone
+Now and forever
+Let it be me
+Each time we meet love
+I find complete love
+Oh, without your sweet love
+What would life be?
+So, never leave me lonely
+Tell me you love me only
+And that you'll always
+Let it be me
+And that you'll always
+Let it be me
+Each time we meet love
+I find complete love
+Without your sweet love
+Betty, what would life be?
+So, never leave me lonely
+Tell me love me only
+And that you'll always
+Let it be me
+And that you'll always

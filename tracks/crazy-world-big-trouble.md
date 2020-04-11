@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crazy-world-big-trouble
+lyrics_url: https://genius.com/Big-trouble-crazy-world-lyrics
 name: Crazy World
 rankings:
 - end_date: '1987-10-23'
@@ -35,4 +36,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-11-28'
 ---
+Waste into the shadows
+Chase away the demon
+Looking for the answer
+Always gonna need one now
 
+I've got to tell you
+When you're always running
+There's nowhere you can hide
+Under the gun
+Feel the fear inside you now, yeah
+
+'Cause we are living in a crazy, crazy world
+You know, you really got to wonder what's going on
+(What's going on?)
+We're living in a crazy, crazy world
+You know, you only got one time around, yeah
+
+Why should I believe you
+When everything you tell me it's not the truth?
+You're really trying to sell me now
+Just keep on moving
+
+Right along the ledge
+Got nowhere left to hide
+Don't know where you're headed
+Feel the fear inside you now
+
+'Cause we are living in a crazy, crazy world
+You know, you really got to wonder what's going on
+(What's going on?)
+Living in a crazy, crazy world
+You know, you only got one time around
+
+Though we're going crazy
+We see the light of day anyway
+Even though it's hazy
+It's never too late
+(Never, never)
+Don't make me wait
+
+You know we're living in a crazy, crazy world
+You know, you really got to wonder what's going on
+(What's going on?)
+Living in a crazy, crazy world
+You know, you only got one time around
+
+Living in a crazy, crazy world
+You know, you really got to wonder what's going on
+Living in a crazy, crazy world
+You know, you only got one time, one time around
+
+We're living in a crazy, crazy world
+You know you really got to wonder what's going on
+(What's going on?)
+Living in a crazy, crazy world
+You know, you only got one time, one time around

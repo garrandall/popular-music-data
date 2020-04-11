@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: leave-me-alone--let-me-cry--dicky-doo-and-the-don-ts
+lyrics_url: https://genius.com/Dicky-doo-and-the-donts-leave-me-alone-let-me-cry-lyrics
 name: Leave Me Alone (Let Me Cry)
 rankings:
 - end_date: '1958-10-05'
@@ -43,4 +44,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-24'
 ---
+Every time you told me
+That you loved me
+You were telling me another lie
 
+Don't come around no more
+And say you love me
+Just leave me alone and let me cry
+
+You were telling lies
+So you could kiss me
+When you had enough
+You said goodbye
+
+Don't come around no more
+And say you miss me
+Just leave me alone and let me cry
+
+There will come a day
+When you'll be lonely
+There will come a day
+You'll sit and sigh
+
+There will come a day
+You'll want me only
+But I'll leave you alone
+And let you cry
+
+Leave you alone and let you cry
+Leave you alone and let you cry

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whispers--gettin--louder--jackie-wilson
+lyrics_url: https://genius.com/Jackie-wilson-whispers-gettin-louder-lyrics
 name: Whispers (Gettin' Louder)
 rankings:
 - end_date: '1966-10-21'
@@ -55,4 +56,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-07'
 ---
-
+Calling your name, Peaches
+Calling your name, Peaches
+In my lonely, lonely room, there's nothing left but the past
+I think of how, my love, you speak
+And why it didn't last, I think of how sweet all the love was
+All the good times we had
+I want you to come home, cause I feel so all alone
+And I feel so sad
+Calling out your name, Peaches
+The whispers gettin louder
+Calling your name, Peaches
+Don't you hear, Peaches
+Don't you hear it, little baby?
+Every time I think about you
+I can hear you calling my name
+And every time I'm all alone
+The whispers be come back again
+Don't you hear it, Peaches?
+Don't you hear it, little baby?
+The whispers gettin louder
+Whispers gettin louder
+Calling your name
+Hear it baby
+Calling to you Peaches
+Fades... louder, baby...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shout-it-out-loud-kiss
+lyrics_url: https://genius.com/Kiss-shout-it-out-loud-lyrics
 name: Shout It Out Loud
 rankings:
 - end_date: '1976-03-26'
@@ -67,4 +68,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-18'
 ---
+Well, the night's begun, and you want some fun
+Do you think you're gonna find it (Think you're gonna find it)
+You got to treat yourself like number one
+Do you need to be reminded (Need to be reminded)
 
+
+It doesn't matter what you do or say
+Just forget the things that you've been told
+We can't do it any other way
+Everybody's got to rock and roll, whoa, whoa
+
+
+Shout it, shout it, shout it out loud
+Shout it, shout it, shout it out loud
+
+
+If you don't feel good, there's a way you could
+Don't sit there broken-hearted (Sit there broken-hearted)
+Call all your friends in the neighborhood
+And get the party started (Get the party started)
+
+
+Don't let 'em tell you that there's too much noise
+They're too old to really understand
+You'll still get rowdy with the girls and boys
+'Cause it's time for you to take a stand, yeah, yeah
+(Yeah)
+
+
+Shout it, shout it, shout it out loud
+Shout it, shout it, shout it out loud
+
+
+Shout it, shout it, shout it out loud
+You've got to have a party
+Shout it, shout it, shout it out loud
+Turn it up louder
+Shout it, shout it, shout it out loud
+And everybody, shout it now
+Shout it, shout it, shout it out loud
+Oh yeah
+Shout it, shout it, shout it out loud
+I hear it getting louder
+Shout it, shout it, shout it out loud
+And everybody, shout it now
+Shout it, shout it, shout it out loud
+Whoo!

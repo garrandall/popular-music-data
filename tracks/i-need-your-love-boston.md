@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-need-your-love-boston
+lyrics_url: https://genius.com/Boston-i-need-your-love-lyrics
 name: I Need Your Love
 rankings:
 - end_date: '1994-06-17'
@@ -47,4 +48,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-08-13'
 ---
+Can't help this feeling
+Can't help this feeling
+I can't believe it's open for discussion
+We've said our goodbyes
+I've been a fool not to see the repercussions
+You've had in my life
+I'm at the point of no return
+I've finally crossed the line
+Don't want to stop and watch the bridges burn
+Cause I can't stand to see you stay behind
 
+
+I need your love
+I want you every way
+I need your love
+Can't help this feeling coming back everyday
+
+
+I stayed around hoping you'd discover
+How much there was to lose
+I spelled it out, I led you to the water
+But you're too blind to choose
+I gave it everything and more to make it
+I've waited for so long
+I saw the chance to run and had to take it
+But something's missing and I know it's wrong
+
+
+
+
+I've passed the point of no return
+And all the tears have dried
+Don't want to stop and watch the bridges burn
+Because I keep wishing I was on your side

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: three-hearts-in-a-tangle-roy-drusky
+lyrics_url: https://genius.com/Roy-drusky-three-hearts-in-a-tangle-lyrics
 name: Three Hearts In A Tangle
 rankings:
 - end_date: '1961-04-16'
@@ -71,4 +72,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-07-24'
 ---
+Three hearts in a tangle one heart will have to break
+Tonight as I sit by my window watching the people go by
+I'm trying to reach a decision but I know I can't do what's right
+Three hearts in a tangle which heart should I take
+Three hearts in a tangle which heart will I break
 
+If I choose the one that I should choose then the other heart would break
+But if I'll leave them both then I'd suffer which heart will pay for my mistake
+Three hearts in a tangle...

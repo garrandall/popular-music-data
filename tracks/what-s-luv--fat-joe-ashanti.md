@@ -138,14 +138,14 @@ It should be about us
 Be about trust
 
 
-What's love? (Got to do, got to do with it babe) {Yeah, Yeah, Y'All}
+What's love? (Got to do, got to do with it babe)
 What's love?
-It's about us {It's about us}
-It's about trust babe {Be about trust}
-What's love? (Got to do, got to do with it babe) {Yeah, Yeah, Uh}
+It's about us
+It's about trust babe
+What's love? (Got to do, got to do with it babe)
 What's love?
-It should be about us {It should be about us}
-It should be about trust babe {Be about trust}
+It should be about us
+It should be about trust babe
 What's love?
 
 
@@ -160,17 +160,17 @@ Don't wanna lose the feelin'
 Cause the roof is chillin'
 It's on fire & you lookin'
 Good for the gettin'
-I'm rida 
+I'm rida
 Other in a hoodie or a linner I'ma provider
 You should see the jewelery on my women
-& I'm livin' it up 
+& I'm livin' it up
 The squad stay feelin' the truck
 With Chicks that's willin' to triz with us uh
 You say you gotta man & your in love
-But what's love 
+But what's love
 Gotta do with a little menage
-After the party 
-Just me & you 
+After the party
+Just me & you
 Could just slide for a few
 & she could come too
 That's love!
@@ -187,9 +187,9 @@ Tattoo in your chest with his name in the middle
 Uh, I'm not a hater I just crush a lot
 & the way you shake your booty I don't want you to stop
 You Need to come a little closer (You need to come a little closer)
-& let me put you under my arm like a Don is supposed ta 
+& let me put you under my arm like a Don is supposed ta
 (Like a Don is supposed ta)
-Please believe 
+Please believe
 You leave with me
 We'd be freakin' all night like we was on E
 You need to trust the god & jump in the car
@@ -204,7 +204,7 @@ Yeah, uh, yo, I stroll in the club with my hat down
 Michael Jack style
 Hot steppin who the mack now?
 Not my fault cause they love the kid
-Ma be the chain or the whip 
+Ma be the chain or the whip
 I don't know what it is
 We just party & bullshit
 Come on mommy put your body in motion
@@ -217,10 +217,10 @@ All my ladies come on
 When I look in your eyes there's no stopin' me
 I want the Thug Joey Crack on top of me (Uh-huh)
 Don't want your stacks (Yeah)
-Just break my back (Uh) 
+Just break my back (Uh)
 Gonna cut you no slack (Whoo)
 Cause I'm on it like that (Uh, Come On)
-Come on (Yeah, Yeah, Y'All) & put it (Yeah, Yeah, Y'All) 
+Come on (Yeah, Yeah, Y'All) & put it (Yeah, Yeah, Y'All)
 on me (Put it on ya Girl) on me (I'm put it on ya Girl)
 
 

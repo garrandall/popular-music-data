@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sure-know-something-kiss
+lyrics_url: https://genius.com/Kiss-sure-know-something-lyrics
 name: Sure Know Something
 rankings:
 - end_date: '1979-09-07'
@@ -51,4 +52,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-11-10'
 ---
+I've been up and down, I've been all around
+I was mystified, almost terrified
+But late at night I still hear you call my name
 
+
+I've been on my own, I've been all alone
+I was hypnotized, I felt paralyzed
+But late at night I still want you just the same
+
+
+I've been a gambler, but I'm nobody's fool
+And I sure know something, sure know something
+You showed me things they never taught me in school
+And I sure know something, sure know something
+No one can make me feel the way that you do
+And I sure know something, aha
+
+
+I was seventeen, you were just a dream
+I was mesmerized, I felt scared inside
+You broke my heart and I still can feel the pain
+
+
+I've been counted out, I've had fear and doubt
+I've been starry eyed, never satisfied
+Because late at night I still need you just the same
+Just the same
+
+
+I've been a gambler, but I'm nobody's fool
+And I sure know something, sure know something
+You showed me things they never taught me in school
+And I sure know something, sure know something
+No one can make me feel the way that you do
+And I sure know something, aha
+
+
+I've been counted out, I've had fear and doubt
+I've been starry eyed, never satisfied
+Because late at night I still need you just the same
+Just the same
+
+
+I've been a gambler, but I'm nobody's fool
+And I sure know something, sure know something
+You showed me things they never taught me in school
+And I sure know something, sure know something
+No one can make me feel the way that you do
+And I sure know something, sure know something
+No one can tell me untill I hear it from you
+And I sure know something, sure know something
+I've been a gambler, but I'm nobody's fool
+Sure know something, sure know something
+You showed me things they never taught me in school
+Sure know something, sure know something
+No one can make me feel the way that you do

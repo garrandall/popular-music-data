@@ -1,8 +1,8 @@
 ---
 artists:
-- Tom Petty
-- The Heartbreakers With Stevie Nicks
-features: []
+- Tom Petty & The Heartbreakers
+features:
+- Stevie Nicks
 genres: []
 key: needles-and-pins-tom-petty-the-heartbreakers-with-stevie-nicks
 name: Needles And Pins

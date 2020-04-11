@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-call-me-baby-madison-avenue
+lyrics_url: https://genius.com/Madison-avenue-dont-call-me-baby-lyrics
 name: Don't Call Me Baby
 rankings:
 - end_date: '2000-07-14'
@@ -87,4 +88,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-11-18'
 ---
+You and me, we have an opportunity
+And we could make it something really cool
+But you, you think I'm not that kind of girl
+I'm here to tell ya' baby, I know how to rock your world
 
+
+Don't think that I'm not strong
+I'm the one to take you on
+Don't underestimate me boy
+I'll make you sorry you were born
+You don't know me
+The way you really should
+You're sure misunderstood
+
+
+Don't call me baby
+You've got some nerve and baby, that'll never do
+You know I don't belong to you
+It's time you knew I'm not your baby
+I belong to me, so don't call me baby
+
+
+Behind my smile is my IQ
+I must admit this does not sit with the likes of you
+You're really sweet
+Mmm, you're really nice
+But didn't mama ever tell ya' not to play with fire?
+
+
+Don't think that I'm not strong
+I'm the one to take you on
+Don't underestimate me boy
+I'll make you sorry you were born
+You don't know me
+The way you really should
+You're sure misunderstood
+
+
+Don't call me baby
+You've got some nerve and baby, that'll never do
+You know I don't belong to you
+It's time you knew I'm not your baby
+I belong to me, so don't call me baby
+
+
+You and me, we have an opportunity
+And we could make it something really cool
+But you, you think I'm not that kind of girl
+I'm here to tell ya' baby, I know how to rock your world
+
+
+Don't think that I'm not strong
+I'm the one to take you on
+Don't underestimate me boy
+I'll make you sorry you were born
+You don't know me
+The way you really should
+You're sure misunderstood
+
+
+Don't call me baby
+You've got some nerve and baby, that'll never do
+You know I don't belong to you
+It's time you knew I'm not your baby
+I belong to me, so don't call me baby
+You've got some nerve and baby, that'll never do
+You know I don't belong to you
+It's time you knew I'm not your baby
+I belong to me, so don't call me baby

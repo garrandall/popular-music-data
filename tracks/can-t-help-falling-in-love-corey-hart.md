@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: can-t-help-falling-in-love-corey-hart
+lyrics_url: https://genius.com/Corey-hart-cant-help-falling-in-love-lyrics
 name: Can't Help Falling In Love
 rankings:
 - end_date: '1986-12-19'
@@ -63,4 +64,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-03-14'
 ---
-
+Wise men say
+Only fools rush in
+But I can't help
+Fallin' in love with you
+Shall I stay
+Or would it be a sin
+For I can't help
+Fallin' in love with you
+Like a river flows
+Surely to the sea
+Darlin' so it goes
+Something's are meant to be
+Take my hand
+And take my whole life too
+For I can't help
+Fallin' in love with you
+Like a river flows
+Surely to the sea
+Darlin' so it goes
+Something's were meant to be
+Wise men say
+That only fools rush in
+But I can't help
+Falling in love with you
+Oh now
+That I can't help
+Falling in love with you
+Falling in love with you
+With you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tonight-it-s-you-cheap-trick
+lyrics_url: https://genius.com/Cheap-trick-tonight-its-you-lyrics
 name: Tonight It's You
 rankings:
 - end_date: '1985-08-02'
@@ -75,4 +76,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-16'
 ---
+Time's not sleeping and time won't lose
+You can't win 'cause time can't lose
+So stop (so stop) what you're doin'
+Start on something new
+Don't (no don't) don't be hypnotized
+Don't start thinkin' with your eyes
 
+(I don't know) Why you mean that much to me
+(You don't know) What it feels like lovin' you
+(We all know) A change is good for you
+(That's all right) Gotta do what you gotta do
+Anyway
+
+All I want is a place in your heart to fall into
+All I need is someone to love
+And tonight it's you, tonight it's you
+
+Time's not sleeping and time won't lose
+You can't win 'cause time can't lose
+So stop (so stop) what you're doin'
+Start on something new
+Don't (no don't) don't be hypnotized
+Don't start thinkin' with your eyes
+
+(I don't know) Why you mean that much to me
+(You don't know) What it feels like lovin' you
+(We all know) A change is good for you
+(That's all right) Gotta do what you gotta do
+Anyway
+
+All I want is a place in your heart to fall into
+All I need is someone to love
+And tonight it's you, tonight it's you
+
+Come to my world
+Come away with me
+Smile with your eyes
+So I can see
+
+(I don't know) Why you mean that much to me
+(You don't know) What it feels like lovin' you
+(We all know) A change is good for you
+(That's all right) Gotta do what you gotta do
+Anyway
+
+All I want is a place in your heart to fall into
+All I need is someone to love
+And tonight it's you, tonight it's you
+Tonight it's you
+
+All I want is a place in your heart to fall into
+All I need is someone to love
+And tonight it's you, tonight it's you
+Tonight it's you, tonight's it's you

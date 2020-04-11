@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cold-cold-winter-the-pixies-three
+lyrics_url: https://genius.com/The-pixies-three-cold-cold-winter-lyrics
 name: Cold Cold Winter
 rankings:
 - end_date: '1963-12-20'
@@ -27,4 +28,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-01-11'
 ---
+When we had to part
+That's when I knew
+Baby
+It’s gonna be a cold cold winter without you
 
+The snow is fallin' on the ground
+The wind is blowin' all around
+From June until September
+I always will remember
+But it’s a cold cold winter night
+
+I miss those summer days with you
+The silly things we used to do
+And since we're not together
+I need you more than ever
+But it's a cold cold winter night
+
+True, summer's great for havin' fun
+But you
+
+I sit at home and watch the storm
+Wish you were here to keep me warm
+Can't wait till next vacation
+I'll see you when that day comes
+But it's a cold cold winter night
+
+Can’t wait till next vacation
+I’ll kiss you when that day comes
+But it's a cold cold winter night
+Can’t wait till next vacation
+I'll love you when that day comes
+But it's a cold cold winter night
+Can't wait till next vacation
+I’ll love you when that day comes

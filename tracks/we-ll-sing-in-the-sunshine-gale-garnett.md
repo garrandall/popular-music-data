@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-ll-sing-in-the-sunshine-gale-garnett
+lyrics_url: https://genius.com/Gale-garnett-well-sing-in-the-sunshine-lyrics
 name: We'll Sing In The Sunshine
 rankings:
 - end_date: '1964-08-14'
@@ -75,4 +76,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
 ---
+We'll sing in the sunshine
+We'll laugh every day
+We'll sing in the sunshine
+Then I'll be on my way
 
+I will never love you
+The cost of love's too dear
+But though I'll never love you
+I'll stay with you one year
+
+And we can sing in the sunshine
+We'll laugh everyday
+We'll sing in the sunshine
+Then I'll be on my way
+
+I'll sing to you each morning
+I'll kiss you every night
+But darlin' don't cling to me
+I'll soon be out of sight
+
+But we can sing in the sunshine
+We'll laugh everyday
+We'll sing in the sunshine
+Then I'll be on my way
+
+My daddy he once told me
+"Hey, don't you love you any man
+Just take what they may give you
+And give but what you can."
+
+And you can sing in the sunshine
+You'll laugh everyday
+You'll sing in the sunshine
+Then be on your way
+
+And when a year has ended
+And I have gone away
+You'll often speak about me
+And this is what you'll say:
+
+We sang in the sunshine
+You know we laughed everyday
+We sang in the sunshine
+Then she went on her way

@@ -5,6 +5,7 @@ features:
 - Chris J
 genres: []
 key: put-it-on-ya-plies-chris-j
+lyrics_url: https://genius.com/Plies-put-it-on-ya-feat-chris-j-lyrics
 name: Put It On Ya
 rankings:
 - end_date: '2008-12-12'
@@ -60,4 +61,94 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-02-28'
 ---
+(Chorus)
+Shorty I wanna know if you come over
+If you don't mind girl put your legs up on my shoulders
+Don't lie, I can see it in your eyes
+You want for you and I to do the freaky things you like
+When I put-put-put it on girl, when I put-put-put it on ya
+When I put-put-put it on girl, when I put-put-put it on ya
+When I put-put-put it on girl, when I put-put-put it on ya
+When I put-put-put it on ya, put-put-put it on ya
 
+(Verse 1)
+Let's ride round the city, make love in the car
+Let's get on express way, and let me tease you ma
+And while you drive baby, I wanna taste your tongue
+Pull in to rest area, and let me give you some
+You ever been driving while your man made you cum
+I wanna hit and stay, I wanna hit and run
+Let's pull the car over, and have a little fun
+The AC working, so we ain't gotta bun
+
+(Bridge)
+Can I lick it, can I stick it, can I touch it, can I grab it
+Baby tell me can I have it
+Can I rub it, can I flip it, can I hold it, can I grip it
+Anyway I wanna get it
+
+(Chorus)
+Shorty I wanna know if you come over
+If you don't mind girl put your legs up on my shoulders
+Don't lie, I can see it in your eyes
+You want for you and I to do the freaky things you like
+When I put-put-put it on girl, when I put-put-put it on ya
+When I put-put-put it on girl, when I put-put-put it on ya
+When I put-put-put it on girl, when I put-put-put it on ya
+When I put-put-put it on ya, put-put-put it on ya
+
+(Verse 2)
+If that don't work for ya, I got another idea
+Ain't nobody home, so girl come over here
+Let's play hide and seek, in our underwear
+I find you, I can get it right there
+You find me, then I get bare
+Either way we both win, now that's fair
+Whatever I gotta do to be with you I don't care
+You my queen, I'm your king, now that's a nice pair
+
+(Bridge)
+Can I lick it, can I stick it, can I touch it, can I grab it
+Baby tell me can I have it
+Can I rub it, can I flip it, can I hold it, can I grip it
+Anyway I wanna get it
+
+(Chorus)
+Shorty I wanna know if you come over
+If you don't mind girl put your legs up on my shoulders
+Don't lie, I can see it in your eyes
+You want for you and I to do those freaky things you like
+When I put-put-put it on girl, when I put-put-put it on ya
+When I put-put-put it on girl, when I put-put-put it on ya
+When I put-put-put it on girl, when I put-put-put it on ya
+When I put-put-put it on ya, put-put-put it on ya
+
+(Verse 3)
+Let me grade you, give you a report card
+Your first test is, can you get it hard
+Show me how good you communicate when we start
+Today's pop quiz, to find your hot spot
+Wanna see how good your balance is on top
+Give you a A+ if you don't stop
+This a big test, you looking kinda shocked
+Either you get promoted, or you get dropped
+Your final exam, show me your wet box
+Ain't no tattle teller, i keep my mouth locked
+Make you an honor student, show me you back shot
+You passed with flying colors, ooh that's a nice twat
+
+(Bridge)
+Can I lick it, can I stick it, can I touch it, can I grab it
+Baby tell me can I have it
+Can I rub it, can I flip it, can I hold it, can I grip it
+Anyway I wanna get it
+
+(Chorus)
+Shorty I wanna know if you come over
+If you don't mind girl put your legs up on my shoulders
+Don't lie, I can see it in your eyes
+You want for you and I to do those freaky things you like
+When I put-put-put it on girl, when I put-put-put it on ya
+When I put-put-put it on girl, when I put-put-put it on ya
+When I put-put-put it on girl, when I put-put-put it on ya
+When I put-put-put it on ya, put-put-put it on ya

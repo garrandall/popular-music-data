@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-gonna-make-you-mine-lou-christie
+lyrics_url: https://genius.com/Lou-christie-im-gonna-make-you-mine-lyrics
 name: I'm Gonna Make You Mine
 rankings:
 - end_date: '1969-08-29'
@@ -55,4 +56,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-08'
 ---
+I'll try every trick in the book
+With every step that you take
+Everywhere that you look
+Just look and you'll find
+I'll try to get to your soul
+I'll try to get to your mind
+I'm gonna make you mine
 
+I know I'll never give up
+I'm at the end of my rope
+From the morning 'til supper time
+And you'll find
+I'll be waiting in line
+I'll be waiting in line
+I'm gonna make you mine
+
+Baby, I'm gonna make you mine
+Make you mine, I'm gonna make you mine
+Baby, I'm gonna make you mine
+I'm gonna make you mine
+
+I'll try every trick in the book
+With every step that you take
+Everywhere that you look
+Just look and you'll find
+I'll be waiting in line
+I'll be waiting in line
+'Cause I'm gonna make you mine
+
+Baby, I'm gonna make you mine
+Make you mine, I'm gonna make you mine
+Baby, I'm gonna make you mine
+I'm gonna make you mine
+
+I'll be a hard lovin', pushin' kinda, uh, individual
+Knocking night and day at your door
+You'll have to turn me away
+Like a indestructible force
+
+Oh, oh, oh, oh, oh
+
+Baby, I'm gonna make you mine
+Make you mine, I'm gonna make you mine
+Baby, I'm gonna make you mine
+I'm gonna make you mine
+
+I'll try every trick in the book
+With every step that you take
+Everywhere that you look
+Just look and you'll find
+I'll try to get to your soul
+I'll try to get to your mind
+'Cause I'm gonna make you mine
+
+Baby, I'm gonna make you mine
+Make you mine, I'm gonna make you mine
+Baby, I'm gonna make you mine
+I'm gonna make you mine
+
+Baby, I'm gonna make you mine
+Make you mine, I'm gonna make you mine
+Baby, I'm gonna make you mine
+I'm gonna make you mine

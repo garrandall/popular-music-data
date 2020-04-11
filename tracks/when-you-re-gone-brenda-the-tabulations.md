@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: when-you-re-gone-brenda-the-tabulations
+lyrics_url: https://genius.com/Brenda-and-the-tabulations-when-youre-gone-lyrics
 name: When You're Gone
 rankings:
 - end_date: '1967-11-10'
@@ -36,4 +37,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-12-16'
 ---
+Never goodbye, baby
+It'll be never goodbye, baby
+That's how long I love you
+That's how long you'll
+Be in my heart
 
+
+When you're gone
+When you're gone
+Never goodbye, baby
+It'll be never goodbye, baby
+Everything I do
+Every little dream
+I dream of you
+
+
+Never, never, never
+Never, never, never
+Goodbye, baby
+It'll be never goodbye, baby

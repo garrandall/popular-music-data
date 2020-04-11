@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: may-you-always-the-mcguire-sisters
+lyrics_url: https://www.musixmatch.com/lyrics/The-McGuire-Sisters/May-You-Always
 name: May You Always
 rankings:
 - end_date: '1959-01-11'
@@ -71,4 +72,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-20'
 ---
+May you always walk in sunshine
+Slumber warm when night winds blow
+May you always live with laughter
+For a smile becomes you so
 
+May good fortune find your doorway
+May the bluebird sing your song
+May no trouble travel your way
+May no worry stay too long
+
+May your heartaches be forgotten
+May no tears be spilled
+May old acquaintance be remembered
+And your cup of kindness filled
+
+And may always be a dreamer
+May your wildest dream come true
+May you find someone to love
+As much as I love you
+
+(May your heartaches be forgotten)
+(May no tears be spilled)
+May old acquaintance be remembered
+And your cup of kindness filled
+
+And may always be a dreamer
+May your wildest dream come true
+May you find someone to love
+As much as I love you

@@ -5,6 +5,7 @@ features:
 - Rihanna
 genres: []
 key: if-i-never-see-your-face-again-maroon-5-rihanna
+lyrics_url: https://genius.com/Maroon-5-if-i-never-see-your-face-again-remix-lyrics
 name: If I Never See Your Face Again
 rankings:
 - end_date: '2008-05-30'
@@ -88,4 +89,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-10-04'
 ---
+Now as the summer fades, I let you slip away
+You say I'm not your type, but I can make you sway
+It makes you burn to learn you're not the only one
+I'd let you be if you put down your blazing gun
 
+
+Now you've gone somewhere else far away
+I don't know if I will find you (Find you, find you)
+But you feel my breath on your neck
+Can't believe I'm right behind you (Right behind you)
+
+
+'Cause you keep me coming back for more (Coming back for more)
+And I feel a little better than I did before
+If I never see your face again, I don't mind
+'Cause we got much further than I thought we'd get tonight
+
+
+Sometimes you move so well, it's hard not to give in
+I'm lost, I can't tell where you end and I begin
+It makes you burn to learn I'm with another man
+I wonder if he's half the lover that I am
+
+
+Now you've gone somewhere else far away
+I don't know if I will find you (Find you, find you)
+But you feel my breath on your neck
+Can't believe I'm right behind you (Right behind you)
+
+
+'Cause you keep me coming back for more (Coming back for more)
+And I feel a little better than I did before
+If I never see your face again, I don't mind
+'Cause we got much further than I thought we'd get tonight
+
+
+Baby, baby, please believe me
+Find it in your heart to reach me
+Promise not to leave me behind
+(Promise not to leave me behind)
+Take me down, but take it easy
+Make me think, but don't deceive me
+Torture me by taking your time
+(Talk to me, yeah, talk to me)
+
+
+'Cause you keep me coming back for more
+And I feel a little better than I did before
+If I never see your face again, I don't mind
+'Cause we got much further than I thought we'd get tonight
+(Talk to me, yeah, talk to me)
+
+
+Keep me coming back for more (Coming back for more)
+And I feel a little better than I did before (Did before)
+If I never see your face again, I don't mind
+'Cause we got much further than I thought we'd get tonight

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: livin--it-up--friday-night--bell-james
+lyrics_url: https://genius.com/Bell-and-james-livin-it-up-friday-night-lyrics
 name: Livin' It Up (Friday Night)
 rankings:
 - end_date: '1979-02-02'
@@ -72,4 +73,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-05-12'
 ---
+Up in the morning, it's six o'clock
+Head for the city
+Turn on the music, the radio
+Nobody's boogie (Nobody's boogie)
 
+Day after day, ooh ooh ooh ooh
+Slavin' away, yeah yeah yeah yeah
+
+Punch in the timer, I'm late again
+Sneak in the back way
+I count the hours, minutes too
+So glad it's Friday (So glad it's Friday)
+
+Jump in my ride, ooh ooh ooh ooh
+It's Friday night, yeah yeah yeah yeah
+
+Livin' it up, livin' it up, oh yeah
+Friday night
+Livin' it up, livin' it up at last
+Livin' it up, livin' it up, oh yeah
+Friday night
+Livin' it up, livin' it up at last
+
+Only on a Friday
+Never on a Sunday
+Never on a Monday
+
+Same situation every day
+Some kind of voodoo (Some kind of voodoo)
+Same complications stand in the way
+Nowhere to run to (Nowhere to run to)
+
+My mind is dreaming I'm somewhere else
+Can't seem to shake it (Can't seem to shake it)
+I miss the feeling, having fun
+No way to fake it (No way to fake it)
+
+Jump in my ride, ooh ooh ooh ooh
+It's Friday night, yeah yeah yeah yeah
+
+Livin' it up, livin' it up, oh yeah
+Friday night
+Livin' it up, livin' it up at last
+Livin' it up, livin' it up, oh yeah
+Friday night
+Livin' it up, livin' it up at last
+
+Livin' it up, livin' it up, oh yeah
+Livin' it up, livin' it up at last
+Livin' it up, livin' it up, oh yeah
+Livin' it up, livin' it up at last
+
+Livin' it up, livin' it up, oh yeah
+Friday night
+Livin' it up, livin' it up at last
+Livin' it up, livin' it up, oh yeah
+Friday night
+Livin' it up, livin' it up at last
+
+Livin' it up, livin' it up, oh yeah
+Friday night

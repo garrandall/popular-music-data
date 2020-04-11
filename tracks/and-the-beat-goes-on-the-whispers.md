@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: and-the-beat-goes-on-the-whispers
+lyrics_url: https://genius.com/The-whispers-and-the-beat-goes-on-lyrics
 name: And The Beat Goes On
 rankings:
 - end_date: '1980-02-15'
@@ -67,4 +68,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-17'
 ---
+And the beat goes on
+Just like my love everlasting
+And the beat goes on
+Still moving strong on and on
 
+Do you ever wonder
+That to win, somebody's got to lose
+I might as well get over the blues
+Just like fishing in the ocean
+There'll always be someone new
+You did me wrong 'cause I've been through stormy weather
+
+And the beat goes on
+Just like my love everlasting
+And the beat goes on you'd better believe it
+Still moving strong on and on
+
+Don't stop for nobody
+This time I'll keep my feet on solid ground
+Now I understand myself when I'm down
+Like the sweet sound of hip music
+There'll always be something new
+To keep the tables turning
+Hey this super song
+There'll never be an ending
+
+And the beat goes on
+Just like my love everlasting
+And the beat goes on
+Still moving strong on and on (the beat goes on) on
+
+Get down playing that fee, sure the beat is real
+The beat goes on
+
+And the beat goes on

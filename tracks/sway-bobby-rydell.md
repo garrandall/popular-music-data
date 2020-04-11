@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sway-bobby-rydell
+lyrics_url: https://genius.com/Bobby-rydell-sway-lyrics
 name: Sway
 rankings:
 - end_date: '1960-11-13'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-16'
 ---
+When marimba rhythms start to play
+Dance with me, make me sway
+Like the lazy ocean hugs the shore
+Hold me close, sway me more
 
+Like a flower bending in the breeze
+Bend with me, sway with ease
+When we dance, you have a way with me
+Stay with me, sway with me
+
+Other dancers may be on the floor
+I got eyes to see only you
+Only you have that magic technique
+When we sway, I grow weak
+
+I can hear the sound of violins
+Long before it begins
+Make me thrill as only you know how
+Sway me smooth, sway me now
+
+Like the lazy ocean hugs the shore
+Hold me close, sway me more
+
+When we dance, you have a way with me
+Stay with me, sway with me
+
+Other dancers may be on the floor
+Dear, but my eyes will see only you
+Only you have that magic technique
+When we sway, I grow weak
+
+I can hear that sound of violins
+Long before it begins
+Make me thrill as only you know how
+Sway me smooth, sway me now
+
+Make me thrill as only you know how
+Come on and sway me now

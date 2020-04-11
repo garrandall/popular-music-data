@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: baby-don-t-forget-my-number-milli-vanilli
+lyrics_url: https://genius.com/Milli-vanilli-baby-dont-forget-my-number-lyrics
 name: Baby Don't Forget My Number
 rankings:
 - end_date: '1989-05-05'
@@ -91,4 +92,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
 ---
+Babe, don't be shy
+When you're holding my hand
+'Cause this time goes back
+You got to understand
+It's you
 
+Ba, ba, ba baby
+In your eyes
+I see it so clearly
+
+That our love it's so strong
+And you never go wrong
+I got the best for you
+So I'm waiting down
+
+If you need someone
+Baby, call my line
+Call me anytime
+
+I'll be there for you
+You, you
+I've been searching high
+High, high
+I've been searching low
+
+
+Ba, ba, ba, ba, baby
+Don't forget my number
+Baby, don't be stronger than a thunder
+
+Ba, ba, ba, ba, baby
+Don't forget my number
+Love will see you through
+
+
+I've been searching high
+I've been searching low
+I want to spend spend my life with you
+
+Ba, ba, ba, ba, ba, ba, ba, ba
+My desper youth
+Ba, ba, ba, ba, ba, ba, ba, ba
+Love will see you through
+
+Ba, ba baby
+In your eyes
+I see it so clearly

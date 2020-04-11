@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: is-anybody-goin--to-san-antone-charley-pride
+lyrics_url: https://genius.com/Charley-pride-is-anybody-goin-to-san-antone-lyrics
 name: Is Anybody Goin' To San Antone
 rankings:
 - end_date: '1970-03-20'
@@ -35,4 +36,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-04-25'
 ---
-
+Rain drippin' off the brim of my hat
+Sure is cold today
+Here I am walkin' down 66
+Wish she hadn't done me that way
+Sleepin' under a table in a roadside park
+A man could wake up dead
+But it sure seems warmer than it did
+Sleepin' in my king sized bed
+Is anybody goin' to San Antone
+Or Phoenix, Arizona?
+Any place is all right as long as I
+Can forget I've ever known her?
+Wind creepin' down the neck of my shirt
+Like I ain't got nothin' on
+But I'd rather fight the wind and rain
+Than what I've been fightin' at home
+Yonder comes a truck with the U.S. Mail
+People writin' letters back home
+Tomorrow she'll probably want me back
+But I'll be just as gone
+Is anybody goin' to San Antone
+Or Phoenix, Arizona?
+Any place is all right as long as I
+Can forget I've ever known her?

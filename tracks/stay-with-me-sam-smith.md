@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-with-me-sam-smith
+lyrics_url: https://genius.com/Sam-smith-stay-with-me-lyrics
 name: Stay With Me
 rankings:
 - end_date: '2014-04-25'
@@ -223,4 +224,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-05-02'
 ---
+Guess it's true, I'm not good at a one-night stand
+But I still need love 'cause I'm just a man
+These nights never seem to go to plan
+I don't want you to leave, will you hold my hand?
 
+
+Oh, won't you stay with me?
+'Cause you're all I need
+This ain't love, it's clear to see
+But darling, stay with me
+
+
+Why am I so emotional?
+No, it's not a good look, gain some self-control
+And deep down I know this never works
+But you can lay with me so it doesn't hurt
+
+
+Oh, won't you stay with me?
+'Cause you're all I need
+This ain't love, it's clear to see
+But darling, stay with me
+Oooh, oooh
+Oooh, oooh
+
+
+Oh, won't you stay with me?
+'Cause you're all I need
+This ain't love, it's clear to see
+But darling, stay with me
+
+
+Oh, won't you stay with me?
+'Cause you're all I need
+This ain't love, it's clear to see
+But darling, stay with me

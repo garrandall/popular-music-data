@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: if-i-loved-you-chad-jeremy
+lyrics_url: https://genius.com/Chad-jeremy-if-i-loved-you-lyrics
 name: If I Loved You
 rankings:
 - end_date: '1965-02-26'
@@ -44,4 +45,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
 ---
-
+Trees swayin' in the summer breeze
+Showin' off their silver leaves
+As we walked by
+Soft kisses on a summer's day
+Laughing all our cares away
+Just you and I
+Sweet sleepy warmth of summer nights
+Gazing at the distant lights
+In the starry sky
+They say that all good things must end some day
+Autumn leaves must fall
+But don't you know that it hurts me so
+To say goodbye to you
+Wish you didn't have to go
+No no no no
+And when the rain
+Beats against my window pane
+I'll think of summer days again
+And dream of you
+They say that all good things must end some day
+Autumn leaves must fall
+But don't you know that it hurts me so
+To say goodbye to you
+Wish you didn't have to go
+No no no no
+And when the rain
+Beats against my window pane
+I'll think of summer days again
+And dream of you
+And dream of you

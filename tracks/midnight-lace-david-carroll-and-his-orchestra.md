@@ -1,6 +1,6 @@
 ---
 artists:
-- David Carroll And His Orchestra
+- David Carroll
 features: []
 genres: []
 key: midnight-lace-david-carroll-and-his-orchestra

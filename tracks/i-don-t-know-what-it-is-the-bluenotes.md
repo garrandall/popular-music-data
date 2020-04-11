@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-know-what-it-is-the-bluenotes
+lyrics_url: https://www.musixmatch.com/lyrics/The-Bluenotes/I-Don-t-Know-What-It-Is
 name: I Don't Know What It Is
 rankings:
 - end_date: '1959-12-20'
@@ -43,4 +44,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-08'
 ---
+I don't know what it is
+That makes the flowers grow
+And I don't know what it is
+That makes me love you so
 
+But without sunshine and rain
+The flower soon will die
+And without your love
+So would I, so would I
+
+I never even tried to understand
+Why it thrills me so
+When you only touch my hand
+
+And I don't know what it is
+That lights the stars above
+And I don't know what it is
+That makes me need your love
+
+But I know the stars will shine
+In the night as years go by
+And I know I'll love you
+Til I die, til I die
+
+Oh, oh, oh...
+
+But I know the stars will shine
+In the night as years go by
+And I know I'll love you
+Til I die, til I die
+
+Oh, oh, oh...

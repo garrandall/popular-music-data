@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-darlin--sheila
+lyrics_url: https://www.musixmatch.com/lyrics/Sheila/Little-Darlin
 name: Little Darlin'
 rankings:
 - end_date: '1981-12-11'
@@ -43,4 +44,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-30'
 ---
+Would you know me in a passing crowd
+Lonely faces that once gripped eyes
+From the moment that I caught your eye
+I felt my loneliness fly
+Tell me, would you know me?
+Show me, There's no need to be afraid
 
+
+Oh little darling
+Would you love me forever?
+Oh little darling
+Would you love me forever?
+Oh little darling
+Never leave me, no never
+Oh little darling
+Would you love me forever?
+
+You know it's empty out on the street
+Now there is magic where we used to meet
+A year ago I didn't know your name
+'Cause I was out there playing silly games
+Hold me for a moment
+I'm here with you
+And everything just disappears

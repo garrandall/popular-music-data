@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: american-baby-dave-matthews-band
+lyrics_url: https://genius.com/Dave-matthews-band-american-baby-lyrics
 name: American Baby
 rankings:
 - end_date: '2005-05-20'
@@ -51,4 +52,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-07-23'
 ---
+If these walls came crumbling down
+Fell so hard to make us lose our faith
+From what's left you'd figure it out
+Still make lemonade taste like a sunny day
 
+
+Stay beautiful baby
+I hope you stay American baby
+American baby
+
+
+Nobody's laughing now
+God's grace lost and the devil is proud
+But I've been walking for a thousand miles
+If for one last time I could see you smile
+
+
+I, I hold, hold on to you
+You bring me hope I'll see you soon
+And if I don't see you, oh
+I'm afraid we've lost the way
+
+
+
+
+I hold on to you
+You lift me up and always will
+I see you in light
+Hope I don't get left behind
+
+
+
+
+
+
+Stay
+American baby
+Beautiful baby
+Nobody's laughing now
+But you could always make me laugh out loud
+Stay
+American baby
+American baby
+Stay
+American baby
+American baby

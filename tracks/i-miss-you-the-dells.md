@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-miss-you-the-dells
+lyrics_url: https://genius.com/The-dells-i-miss-you-lyrics
 name: I Miss You
 rankings:
 - end_date: '1974-01-25'
@@ -35,4 +36,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-03-02'
 ---
+Woke up this mornin'
+Sunlight shinin' in my eyes
+Woke up this mornin'
+And I cried, Lord I cried all night
 
+Pillow's drippin', soakin' wet
+From dreams of you, baby
+And tryin' hard to forget
+But what's the use, I'm hooked on you
+
+And I miss you, baby
+With all my heart and soul
+I, I, I miss you, baby and I need you too
+
+Day in and day out
+I do nothin' but miss her in my life
+Tryin' to find a replacement
+For the love you could only provide
+
+What am I gonna do, who's gonna love me?
+If you don't love me like you say you'll do
+Baby, why couldn't you be true?
+'Cause I miss you, baby, I miss you, baby
+
+You're breakin' my heart
+You're tearin' it apart
+What am I gonna do?
+I need your lovin' and your kisses too
+
+I miss you, baby, I miss you, baby
+I, I miss you, baby, girl, what am I gonna do?
+I ain't got you, you know I miss you, baby
+I miss you, baby, I miss you, baby
+
+You can see it all in my walk
+You can tell by the way I talk
+I miss you, baby, no sense denyin'
+I miss you, baby, I miss you, baby
+
+I'll tell the whole wide world
+I can't live without you, I miss you, baby
+No matter who you're with tonight
+If you come back, I'll treat you right
+
+I said I miss you, baby
+I miss you, baby, longin' for you

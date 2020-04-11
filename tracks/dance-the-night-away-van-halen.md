@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dance-the-night-away-van-halen
+lyrics_url: https://genius.com/Van-halen-dance-the-night-away-lyrics
 name: Dance The Night Away
 rankings:
 - end_date: '1979-05-04'
@@ -67,4 +68,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-08-04'
 ---
+Have you seen her?
+So fine and pretty
+Fooled me with her style and ease
+And I feel her from across the room
+Yes, it's love in the third degree
 
+
+Ooh, baby, baby
+Won'tcha turn your head my way?
+Ooh, baby, baby
+Come on, take a chance, you're old enough to
+Dance the night away
+Oh, come on, baby, dance the night away
+
+
+A live wire
+Barely a beginner, but just watch that lady go
+She's on fire
+'Cause dancing gets her higher than anything else she knows
+
+
+Ooh, baby, baby
+Won'tcha turn your head my way?
+Ooh, baby, baby
+Well, don't skip romance, 'cause you're old enough to
+Dance the night away
+Oh, come on, baby, dance the night away
+
+
+Ohh, oh-oh-oh, oh yeah
+
+
+
+
+Dance the night away
+Hey, hey, yeah
+Dance, dance, dance the night away
+Uh-come on, baby
+Dance the night away
+Hey, hey, yeah
+Dance, dance, dance the night away
+Uh-come on, baby, baby
+Dance the night away
+Ooh, ooh-ooh-ooh, yeah
+Dance, dance, dance the night away
+Ahh, ahh-ah, ow!

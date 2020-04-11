@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-are-the-girl-the-cars
+lyrics_url: https://genius.com/The-cars-you-are-the-girl-lyrics
 name: You Are The Girl
 rankings:
 - end_date: '1987-09-04'
@@ -63,4 +64,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-11-28'
 ---
+Why don't you dream anymore?
+What's in the way?
+How come you point to the door
+And ask me to stay?
 
+Why don't you flash that smile
+Like you used to do?
+Why don't you stay for awhile?
+Uh well, it's up to you
+
+'Cause you are the girl
+That keeps me up at night
+You are the girl
+That makes me feel all right
+You are the girl
+Well you give me a twirl
+You are the girl
+In my dreams
+
+Why don't you talk anymore?
+What did I say?
+How is it what I came for
+Is floating away?
+
+Why don't you flash that smile
+Like you used to do?
+Why don't you stay for awhile?
+Uh well, it's up to you
+
+'Cause you are the girl
+That keeps me up at night
+You are the girl
+That makes me feel all right
+You are the girl (you are the girl)
+Well you give me a twirl
+You are the girl
+You are the girl
+In my dreams
+
+Why don't you dream anymore?
+What's in the way?
+How come you point to the door
+And you ask me to stay?
+
+Why don't you flash that smile
+Like you used to do?
+Why don't you stay for awhile?
+Uh 'cause it's up to you oh
+
+You are the girl
+That keeps me up at night
+You are the girl
+That makes me feel all right
+You are the girl (you are the girl)
+Oh you give me a twirl
+You are the girl
+You are the girl
+In my dreams
+
+Well, you are the girl
+You are the girl
+And you give me a twirl
+You are the girl
+You are the girl
+In my dreams
+
+Oh, you are the girl
+In my dreams

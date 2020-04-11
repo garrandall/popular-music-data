@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tuck-me-in-kimberly-scott
+lyrics_url: https://www.musixmatch.com/lyrics/Kimberly-Scott/Tuck-Me-In
 name: Tuck Me In
 rankings:
 - end_date: '1997-12-19'
@@ -63,4 +64,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-03-14'
 ---
+Ooh? hoo? hoo?
+Oh? hey?
 
+After spending my whole weekend
+Kicking back with all my friends
+Think my battery has run out
+But I fight to raise my hand
+
+And I get a little nervous
+Watching day turn into night
+Read another bedtime story
+Before you turn out the light
+
+Tuck me in (Mmm)
+And hold me real right
+That's the only way I'll know
+Everything is gonna be alright
+
+Tuck me in (Hmm)
+Before you tell me goodnight (Mmm? hmm)
+That's the only way I'll know (Oh)
+Everything is gonna be just fine
+
+You wonder why I get so nervous
+Wonder why I get so scared
+Friend of mine I used to hang with
+Has an address way up there
+
+She was minding her own business
+Tryin' to have herself a little fun
+And she never knew what hit her
+She never saw tomorrow come
+
+Tuck me in (Oh? oh? yeah? yeah? yeah?)
+And hold me real right (Yeah, hey, yeah, hey)
+That's the only way I'll know (That's the only way I'll know)
+Everything is gonna be alright (Everything is gonna be alright)
+
+Tuck me in
+Before you tell me goodnight (Goodnight)
+That's the only way I'll know
+Everything is gonna be just fine
+
+And I wake up in the middle, in the middle of the night
+I just can't sleep so I hold my pillow tight
+Counting backwards from a hundred, only get to ninety-nine
+When I call out to you tuck me in one more time
+
+Tuck me in, hold me tight
+Don't let go until the morning light (Won't you)
+Tuck me in, hold me tight
+Don't let go until the morning light
+
+Tuck me in (Tuck me in, yeah)
+And hold me real right (Oh, no, no, no, no, oh?)
+That's the only way I'll know (No, no, no, no)
+Everything is gonna be alright (No, no)
+
+Tuck me in (Where's my ring, yeah) hold me tight (Ho?)
+Don't let go until the morning light
+Tuck me in, hold me tight
+Don't let go until the morning light (Tuck me in)
+
+Tuck me in, hold me tight

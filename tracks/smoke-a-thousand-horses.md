@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: smoke-a-thousand-horses
+lyrics_url: https://www.musixmatch.com/lyrics/A-Thousand-Horses/Smoke
 name: Smoke
 rankings:
 - end_date: '2015-03-20'
@@ -87,4 +88,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-07-25'
 ---
+She comes rolling right off the tip of my tongue so easy
+She'll be the first damn thing alone when I start drinking
+I'm breathing her in, breathing her out, once I pick her up I can't put her down
 
+She's smoke
+I put her in nice and slow
+She's a habit and I can't let go
+Blowing rings around my heart
+The one she stole
+Watching her sway and go
+It's killing me and I know
+Can't stop her once you start
+She's smoke
+
+She'll go floating around like a downtown ballroom gypsy
+She goes great with ice cold beer or a shot of whiskey
+Put one in my hand, her on my lips
+Man, that's as good as it gets
+
+She's smoke
+I put her in nice and slow
+She's a habit and I can't let go
+Blowing rings around my heart
+The one she stole
+Watching her sway and go
+It's killing me and I know
+Can't stop her once you start
+She's smoke
+
+When the night burns out
+And we all go home
+Smell of sweet perfume
+All over your clothes
+Like smoke, ooh, ooh
+Like smoke ooh, ooh
+
+She's smoke
+I put her in nice and slow
+She's a habit and I can't let go
+Blowing rings around my heart
+The one she stole
+Watching her sway and go
+It's killing me and I know
+Can't stop her once you start
+She's smoke
+She's smoke
+
+When the night burns out
+And we all go home
+The smell of sweet perfume
+All over your clothes
+She's smoke, ooh, ooh
+She's smoke, ooh, ooh

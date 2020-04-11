@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-must-be-a-way-joni-james
+lyrics_url: https://genius.com/Joni-james-there-must-be-a-way-lyrics
 name: There Must Be A Way
 rankings:
 - end_date: '1959-01-25'
@@ -55,4 +56,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-06'
 ---
+There must be a way to help me forget that we're through
+There must be a way to stop me from dreamin' of you
+There must be a star in the skies that isn't reflecting your eyes
+I just don't know how to disguise how much I miss you
 
+There must be a song that doesn't remind me of you
+There must be a kiss that'll thrill me like yours used to do
+I look for a way to be happy, happy with somebody new
+Oh, there must be a way but I can't find a way without you
+
+There must be a song that doesn't remind me of you
+Yes, there must be a kiss that'll thrill me like yours used to do
+I look for a way to be happy, happy with somebody new
+Oh, there must be a way but I can't find a way without you

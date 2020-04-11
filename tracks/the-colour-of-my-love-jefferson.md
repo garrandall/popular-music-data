@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-colour-of-my-love-jefferson
+lyrics_url: https://www.musixmatch.com/lyrics/Jefferson/The-Colour-of-My-Love
 name: The Colour Of My Love
 rankings:
 - end_date: '1969-08-22'
@@ -43,4 +44,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
 ---
+Her hair was the colour of the sun
+Was the colour of her eyes
+Was the colour of my own true love
 
+Her hair was the colour of the sun
+Was the colour of her eyes
+Was the colour of my own only love
+
+Love maker, make me a lovesong to sing
+I'm in the night, she is wrong and she knows
+(He's in love and it shows)
+
+I want her love but she won't let me in
+When I see her I think who's fooling who?
+(She loves you too)
+
+Her hair was the colour of the sun
+Was the colour of her eyes
+Was the colour of my only love
+
+Her hair was the colour of the sun
+Was the colour of her eyes
+Was the colour of my only love
+
+Maybe there's someone else but I won't give in
+I'II play her game and I hope I don't lose
+(You'II be the one she would choose)
+
+Love maker make me a love song to sing
+She'II hear my song and I hope she'II be there
+(She knows you care)
+
+Her hair was the colour of the sun
+Was the colour of her eyes
+Was the colour of my only love
+
+Her hair was the colour of the sun
+Was the colour of her eyes
+Was the colour of my only love
+
+Her hair was the colour of the sun
+Was the colour of her eyes
+Was the colour of my only love
+
+Her hair was the colour of the sun
+Was the colour of her eyes
+Was the colour of my only love

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: judy-s-turn-to-cry-lesley-gore
+lyrics_url: https://genius.com/Lesley-gore-judys-turn-to-cry-lyrics
 name: Judy's Turn To Cry
 rankings:
 - end_date: '1963-07-12'
@@ -51,4 +52,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-09-14'
 ---
+'Cause now it's Judy's turn to cry
+Judy's turn to cry, Judy's turn to cry
+'Cause Johnny's come back to me
 
+
+Oh, when Judy left with Johnny at my party (My party)
+And came back wearing his ring
+I sat down and cried my eyes out
+Now that was a foolish thing
+
+
+'Cause now it's Judy's turn to cry
+Judy's turn to cry, Judy's turn to cry
+'Cause Johnny's come back to me
+
+
+Well, it hurt me so to see them dance together (Together)
+I felt like making a scene
+Then my tears just fell like rain drops
+'Cause Judy's smile was so mean
+
+
+But now it's Judy's turn to cry
+Judy's turn to cry, Judy's turn to cry
+'Cause Johnny's come back to me
+
+
+Oh, one night I saw them kissing at a party (A party)
+So I kissed some other guy
+Johnny jumped up and he hit him
+'Cause he still loves me, that's why
+
+
+So now it's Judy's turn to cry
+Judy's turn to cry, Judy's turn to cry
+'Cause Johnny's come back to me
+
+
+Yay, now it's Judy's turn to cry
+Judy's turn to cry, Judy's turn to cry
+'Cause Johnny's come back to me

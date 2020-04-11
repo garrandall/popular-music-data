@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-in-you-peter-frampton
+lyrics_url: https://genius.com/Peter-frampton-im-in-you-lyrics
 name: I'm In You
 rankings:
 - end_date: '1977-06-03'
@@ -87,4 +88,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-10-08'
 ---
+I don't care where I go
+When I'm with you
+When I cry, you don't laugh
+Because you know me
 
+
+I'm in you, you're in me
+I'm in you, you're in me
+Because you gave me the love
+Love that I never had
+Yes, you gave me the love
+Love that I never had
+
+
+You and I don't pretend
+We make love
+I can't feel any more
+Than I'm singing, yeah
+
+
+
+
+Come so far when you think
+Of last fall
+You can't buy what we made
+You and I, oh
+
+
+
+
+You gave me the love
+Love that I never had
+I don't care where I go
+When I'm with you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-know--you-don-t-love-me-no-more--barbara-george
+lyrics_url: https://genius.com/Barbara-george-i-know-lyrics
 name: I Know (You Don't Love Me No More)
 rankings:
 - end_date: '1961-11-19'
@@ -83,4 +84,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-24'
 ---
+I know, you don't love me no more
+(I know)
+No more, no, no more
+(No more)
+And I don't want to be hurt anymore
+(No more)
+Anymore
+(No more)
 
+Yeah, yeah, I have loved so hard
+Everything I did was no 
+If I can't love you right, baby
+I don't have to love you at all
+
+I know, you don't want me no more
+(I know)
+No more, no, no more
+(No more)
+And it has to be someone else loving you more
+(No more)
+Loving you more
+(No more)
+
+Ain't no use in me crying now
+If not for you, I wouldn't be down
+Don't want me no more, baby
+Ain't no use in you hanging 'round
+
+I know, no more, no more
+No more, no more
+I know, you don't want me no more
+(I know)
+No more, no, no more
+(No more)
+
+And it has to be someone else loving you more
+(No more)
+Loving you more
+(No more)
+
+Ain't no use in me crying now
+If not for you, I wouldn't be down
+Don't want me no more, baby
+Ain't no use in you hanging 'round
+I know, I know
+(I know, I know)

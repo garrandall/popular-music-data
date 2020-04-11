@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: costafine-town-splinter
+lyrics_url: https://genius.com/Splinter-costafine-town-lyrics
 name: Costafine Town
 rankings:
 - end_date: '1974-12-20'
@@ -39,4 +40,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-02-01'
 ---
+Purvis-Elliott
 
+Dirty old hole in the side of the road for the man who cleans the streets
+Open pub doors where the working class goes at night
+Written on walls where the cats never crawl for the glass along the top
+Man, I was born there, I'm gonna walk right back
+
+CHORUS:
+Costafine Town, it's a fine town, I'm coming home
+I feel so lonely, I've been too long away
+Costafine Town, it's a fine town, I'm coming home
+I wish I'd never made up my mind to stray
+
+Nobody owns all the dirty old clothes that are lying in the lane
+Whistling loud, the four-thirty shift has gone
+Little old man with a pole in his hand lighting lamps along the way
+Hurry me back there, I wish I'd never gone
+
+Repeat CHORUS 3 times
+
+Costafine Town, it's a fine town, I'm coming home...

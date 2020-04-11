@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wedding-song--there-is-love--petula-clark
+lyrics_url: https://genius.com/Petula-clark-wedding-song-there-is-love-lyrics
 name: Wedding Song (There Is Love)
 rankings:
 - end_date: '1972-10-13'
@@ -47,4 +48,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-12-09'
 ---
+He is now to be among you
+At the calling of your hearts
+Rest assured this troubadour
+Is acting on His part
 
+The union of your spirits here
+Has caused Him to remain
+For whenever two or more of you
+Are gathered in His name
+There is Love, there is Love
+
+Well, a man shall leave his mother
+And a woman leave her home
+They shall travel on to where
+The two shall be as one
+
+As it was in the beginning
+Is now and till the end
+Woman draws her life from man
+And gives it back again
+There is Love, there is Love
+
+Well, there must have been a reason
+For becoming man and wife
+Is it love that brings it here
+Or Love that brings you life?
+
+(Is it law that brings you here
+Or Love that gives you life?)
+
+For if Loving is the answer
+Then who's the giving for?
+Do you believe in something
+That you've never seen before?
+Oh, there is Love
+Oh, there's Love
+
+Oh, the marriage (union) of your spirits here
+Has caused Him to remain
+For whenever two or more of you
+Are gathered in His name
+There is Love, there is Love

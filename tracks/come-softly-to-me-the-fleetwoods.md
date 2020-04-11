@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-softly-to-me-the-fleetwoods
+lyrics_url: https://genius.com/The-fleetwoods-come-softly-to-me-lyrics
 name: Come Softly To Me
 rankings:
 - end_date: '1959-03-15'
@@ -71,4 +72,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
 ---
+Doo dooby doo
+Dum dum, dum doo dum, dooby doo
+Dum dum, dum doo dum, dooby doo
+Dum dum, dum doo dum, dooby doo
+Dum dum, dum doo dum, dooby doo
 
+(Come softly, darling) Dum dum, dum doo dum, dooby doo
+(Come softly, darling) Dum dum, dum doo dum, dooby doo
+(Come softly, darling) Dum dum, dum doo dum, dooby doo
+(Come softly, darling) Dum dum, dum doo dum, dooby doo
+
+(Come softly, darling) Dum dum, dum doo dum, dooby doo
+(Come to me, stay) Dum dum, dum doo dum, dooby doo
+(You're my obsession) Dum dum, dum doo dum, dooby doo
+(Forever and a day) Dum dum, dum doo dum, dooby doo
+
+I want, want you to know, dooby do
+I love, I love you so, doby do
+Please hold, hold me so tight, dooby do
+All through, all through the night, dooby do
+
+(I speak softly, darling) Dum dum, dum doo dum, dooby doo
+(Hear what I say) Dum dum, dum doo dum, dooby doo
+(I love you always) Dum dum, dum doo dum, dooby doo
+(Always, always) Dum dum, dum doo dum, dooby doo
+
+I've waited, waited so long, dooby do
+For your kisses and your love, dooby do
+Please come, come to me, dooby do
+From up, from up above, dooby do
+
+(Come softly, darling) I want, want you to know, dooby do
+(Come softly, darling) I love, I love you so, dooby do
+(Come softly) I need, Ineed you so much, dooby do
+(Come softly) Want to feel your warm, warm touch, dooby do
+
+Dum dum, dum doo dum, dooby doo
+Dum dum, dum doo dum, dooby doo
+Dum dum, dum doo dum, dooby doo
+Dum dum, dum doo dum, dooby doo
+
+Dum dum, dum doo dum, dooby doo
+Dum dum, dum doo dum, dooby doo
+Dum dum, dum doo dum, dooby doo

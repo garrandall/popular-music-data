@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-been-around-fats-domino
+lyrics_url: https://genius.com/Fats-domino-ive-been-around-lyrics
 name: I've Been Around
 rankings:
 - end_date: '1959-11-01'
@@ -43,4 +44,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
 ---
+I've been around the world it's true
+Searching for someone exactly like you
+And finally I found a love that is true
+Whoa ho ho ho, whoa ho ho ho, whoa ho ho ho
 
+Nobody know just how I feel
+You had me spinning just like the spinning wheel
+But finally I found a love that is true
+Whoa ho ho ho, whoa ho ho ho, whoa ho ho
+
+You heard my story, you heard just what I said
+A man without love, he might as well be dead
+But I finally I found a love that is true
+Whoa ho ho ho, whoa ho ho ho, whoa ho ho ho
+
+I've been around the world it's true
+Searching for someone exactly like you
+And finally I found a love that is true
+Whoa ho ho ho, whoa ho ho ho, whoa ho ho ho

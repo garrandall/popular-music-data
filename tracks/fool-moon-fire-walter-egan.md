@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fool-moon-fire-walter-egan
+lyrics_url: https://genius.com/Walter-egan-fool-moon-fire-lyrics
 name: Fool Moon Fire
 rankings:
 - end_date: '1983-04-15'
@@ -47,4 +48,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-06-11'
 ---
+I once was a fresh young kid
+Nothing could drag me down
+I lived and I loved what I did
+No one could turn me ‘round
 
+I laughed and I joked with my friends
+They don’t suspect a thing
+Alone in the light of the moon
+A change comes over me
+
+How can I stand this lunacy
+Feeding my dark desires?
+Look at the nighttime sky, you fool
+It’s a fool moon fire
+
+Day after day, it’s no use
+At night there’s something changed
+I just gotta play it loose
+Be cool, but it’s getting strange
+
+I know it won’t be long
+Before the world can see
+Alone in the light of moon
+My mad lycanthropy
+
+How can I stand this lunacy
+Feeding my dark desires?
+Look at the nighttime sky, you fool
+It’s a fool moon fire
+
+Now my friend, you know
+It’s so, so hard to say
+Sometimes darkness beats
+Defeats the light of day
+
+How can I stand this lunacy
+Feeding my dark desires?
+Look at the nighttime sky, you fool
+It’s a fool moon fire
+
+How can I stand this lunacy
+Feeding my dark desires?
+Look at the nighttime sky, you fool
+It’s a fool moon fire
+
+Fool moon fire
+Fool moon fire
+Fool moon fire
+Fool moon fire
+Fool moon fire
+Fool moon fire
+Fool moon fire
+Fool moon fire
+Fool moon fire
+Fool moon fire
+Fool moon fire
+Fool moon fire…

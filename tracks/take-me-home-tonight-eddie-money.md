@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-me-home-tonight-eddie-money
+lyrics_url: https://genius.com/Eddie-money-take-me-home-tonight-lyrics
 name: Take Me Home Tonight
 rankings:
 - end_date: '1986-08-22'
@@ -99,4 +100,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-17'
 ---
+Ohhh.. Yeah..
 
+
+I feel a hunger, it's a hunger
+That tries to keep a man awake at night
+Are you the answer? I shouldn't wonder
+When I can feel you whet my appetite
+With all the power you're releasing
+It isn't safe to walk the city streets alone
+Anticipation is running through me
+Let's find the keys and turn this engine on
+
+
+I can feel you breathe
+I can feel your heart beat faster (Faster)
+
+
+Take me home tonight
+I don't want to let you go 'til you see the light
+Take me home tonight
+Listen, honey, just like Ronnie sang
+Be my little baby, oh, ho, oh
+
+
+I get frightened in all this darkness
+I get nightmares I hate to sleep alone
+I need some company a guardian angel
+To keep me warm when the cold winds blow
+
+
+I can feel you breathe
+I can feel your heart beat faster (Faster)
+
+
+Take me home tonight
+I don't want to let you go 'til you see the light
+Take me home tonight
+Listen, honey , just like Ronnie sang
+Be my little baby
+Be my little baby, uh-huh
+
+Just like Ronnie sang
+I said
+Just like Ronnie sang
+Be my little baby
+Baby, my darlin', uh, uh, oh, oh, oh
+
+
+I feel a hunger
+It's a hunger
+
+
+Take me home tonight
+I don't want to let you go 'til you see the light
+Take me home tonight
+Listen, honey, just like Ronnie sang
+Be my little baby, oh, ho, oh
+
+
+Take me home tonight
+I don't want to let you go 'til you see the light
+Take me home tonight
+Listen, honey, just like Ronnie sang
+Be my little baby, oh, ho, oh
+
+
+Take me home tonight
+I don't want to let you go 'til you see the light
+Take me home tonight
+Listen, honey, just like Ronnie sang
+Be my little baby, oh, ho, oh

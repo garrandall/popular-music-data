@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-t-stand-the-rain-eruption
+lyrics_url: https://genius.com/Eruption-i-cant-stand-the-rain-lyrics
 name: I Can't Stand The Rain
 rankings:
 - end_date: '1978-03-17'
@@ -95,4 +96,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
 ---
+I can't stand the rain against my window
+Bringing back sweet memories
+I can't stand the rain against my window
+Because he's not here with me
 
+Hey window pane do you remember?
+How sweet it used to be
+When we were together
+Everything was so grand, yes it was
+Now that we've parted
+There's one sound that I just can't stand...
+
+I can't stand the rain
+
+Alone with the pillow
+Where his head used to lay, yeah
+I know you've got some sweet memories
+But like a window you ain't got nothin' to say
+
+I can't stand the rain against my window
+Bringing back sweet memories
+I can't stand the rain against my window, no, no
+'Cause he's not here with me
+
+Alone with the pillow
+Where his head used to lay, yeah
+I know you've got some sweet memories
+But like a window you ain't got nothin' to say
+
+(I can't, I can't, I can't, can't stand the rain)
+(I can't, I can't, I can't, can't stand the rain)
+(I can't, I can't, I can't, can't stand the rain)
+Against my window, no
+(I can't, I can't, I can't, can't stand the rain)
+Against my window, against my window
+(I can't, I can't, I can't, can't stand the rain)
+I can't stand the rain
+I can't stand the rain

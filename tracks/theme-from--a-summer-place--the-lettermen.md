@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: theme-from--a-summer-place--the-lettermen
+lyrics_url: https://genius.com/The-lettermen-theme-from-a-summer-place-lyrics
 name: Theme From "A Summer Place"
 rankings:
 - end_date: '1965-07-02'
@@ -43,4 +44,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-08-21'
 ---
+There's a summer place
+Where it may rain or storm
+Yet I'm safe and warm
+For within that summer place
+Your arms reach out to me
+And my heart is free from all care
 
+For it knows
+There are no gloomy skies
+When seen through the eyes
+Of those who are blessed with love
+
+And the sweet secret of
+A summer place
+Is that it's anywhere
+Where two people share
+All their hopes
+All their dreams
+All their love
+
+There's a summer place
+Where it may rain or storm
+Yet I'm safe and warm
+In your arms, in your arms
+In your arms, in your arms
+In your arms, in your arms

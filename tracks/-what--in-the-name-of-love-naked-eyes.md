@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -what--in-the-name-of-love-naked-eyes
+lyrics_url: https://genius.com/Naked-eyes-what-in-the-name-of-love-lyrics
 name: (what) In The Name Of Love
 rankings:
 - end_date: '1984-08-17'
@@ -55,4 +56,95 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-10-27'
 ---
+As I watch you close the door
+With nothing to say
+I remember us before
+Love slipped away
 
+
+Won't you tell me
+What did I do? What did I say?
+How about you running away?
+Tell me
+
+
+(What) in the name of love
+Are we doing?
+In the name of love
+(What) in the name of love
+Are we losing?
+What are we doing?
+
+
+Take the risk and pay the price
+And leave it to fate
+It's better to have loved and lost
+Well, that's what they say
+
+
+Don't you tell me
+What I can do, what I can say
+I'm not the one running away
+Tell me
+
+
+(What) in the name of love
+Are we doing?
+In the name of love
+(What) in the name of love
+Are we losing?
+What are we doing?
+
+
+You don't know what you could lose
+Until you have lost
+I won't be the only one
+Left counting the cost
+
+
+So won't you tell me
+What I can do, what I can say
+How can you leave when I want you to stay?
+Tell me
+
+
+(What) in the name of love
+Are we doing?
+In the name of love
+(What) in the name of love
+Are we losing?
+What are we doing?
+
+In the name of love
+In the name of love
+In the name of love
+
+In the name of love
+In the name of love
+What are we doing?
+
+(What) in the name of love
+Are we doing?
+In the name of love
+(What) in the name of love
+Are we losing?
+What are we doing?
+
+In the name of love
+In the name of love
+In the name of love
+
+In the name of love
+In the name of love
+What are we doing?
+
+(What) in the name of love
+Are we doing?
+In the name of love
+(What) in the name of love
+Are we losing?
+What are we doing?
+
+In the name of love
+In the name of love
+In the name of love

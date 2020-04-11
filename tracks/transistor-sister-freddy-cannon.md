@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: transistor-sister-freddy-cannon
+lyrics_url: https://genius.com/Freddy-cannon-transistor-sister-lyrics
 name: Transistor Sister
 rankings:
 - end_date: '1961-08-06'
@@ -39,4 +40,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-09-18'
 ---
+She's my transistor sister
+Ah, with a radio on her arm
+No one can resist her
+'Cause she's loaded with a musical charm
 
+It's Presley, Darin and U.S. Bonds
+And it's Fats and Connie and Orbison
+She's my transistor sister
+Playin' her radio
+
+Yeah, now early in the mornin' 'til late at night
+She's in tune with the local DJs
+Sings all the words to the latest hits
+Right along with the records they play
+
+Whoa, oh, oh, oh
+Transistor sister
+Transistor sister
+Transistor sister
+Playin' her radio
+Whoa, oh, oh, oh
+
+Whoa, oh, oh, oh
+
+She's my transistor sister
+Boy, you've got to love her alot
+The guys just can't resist her
+Oh, with a 15,000 watt
+
+If you got it right you get no static
+The time and weather is automatic
+My transistor sister
+Playin' her radio
+
+Yeah, now early in the mornin' 'til late at night
+She's in tune with the local DJs
+Sings all the words to the latest hits
+Right along with the records they play
+
+Whoa, oh, oh, oh
+Transistor sister
+Transistor sister
+Transistor sister
+Playin' her radio
+
+Whoa, oh, oh, oh
+Transistor sister
+Playin' her radio
+
+Whoa, oh, oh, oh
+Transistor sister
+Playin' her radio
+
+Whoa, oh, oh, oh
+Transistor sister

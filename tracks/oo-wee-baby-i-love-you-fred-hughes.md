@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: oo-wee-baby-i-love-you-fred-hughes
+lyrics_url: https://www.musixmatch.com/lyrics/Fred-Hughes/Oo-Wee-Baby-I-Love-You
 name: Oo Wee Baby I Love You
 rankings:
 - end_date: '1965-06-04'
@@ -47,4 +48,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
 ---
+Come back baby, I love you
+Come back baby, I need you
+Come back baby, I love you
 
+Ooh baby, I love you
+Ooh-ooh
+Ooh baby, I love you
+Ooh-ooh
+
+Although I know you are gone
+Memories still linger on
+From your love I'll never be free
+I love you, baby
+You'll always be a part of me
+I need you, ooh
+
+These memories
+Just won't give me time, I love you
+There's always
+Something here to remind me
+
+Ooh baby, I love you
+Ooh-ooh
+Ooh baby, I love you
+Ooh-ooh
+
+Everyday, I just walk alone
+'Cause without you I just can't go on
+The months have come
+The months have gone, I love you, baby
+
+But I still wait for you
+To come back home
+I need you, baby
+
+Every night I wake up crying
+I love you, baby
+But baby, there's no need denying
+
+Ooh baby, I love you
+Ooh-ooh
+Ooh baby, I love you
+Come back baby, I love you
+Come back baby, I need you
+
+Can't you hear me calling you, yeah
+Come back baby, I love you

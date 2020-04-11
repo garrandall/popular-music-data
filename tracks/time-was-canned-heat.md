@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-was-canned-heat
+lyrics_url: https://genius.com/Canned-heat-time-was-lyrics
 name: Time Was
 rankings:
 - end_date: '1969-03-21'
@@ -27,4 +28,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-12'
 ---
+Time was... when we got along
+Time was... when we got along
+It's too bad, that feeling's gone
 
+Time was... when we could agree
+Time was... when we could agree
+That time's gone, now you find fault with me
+
+I've got time, things will work out fine
+
+Trouble... will not wreck my life
+Trouble... will not wreck my life
+Someday you'll like, what I'm putting down

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-about-me-moving-pictures
+lyrics_url: https://genius.com/Moving-pictures-what-about-me-lyrics
 name: What About Me
 rankings:
 - end_date: '1982-09-24'
@@ -179,4 +180,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-12-02'
 ---
+Well, there's a little boy waiting
+At the counter of the corner shop
+He's been waiting down there, waiting half the day
+They never ever see him from the top
+He gets pushed around, knocked to the ground
+He gets to his feet and he says
 
+
+What about me? It isn't fair
+I've had enough, now I want my share
+Can't you see, I wanna live
+But you just take more than you give
+
+
+Well, there's a pretty girl serving
+At the counter of the corner shop
+She's been waiting back there, waiting for a dream
+Her dreams walk in and out; they never stop
+Well she's not too proud, to cry out loud
+She runs to the street and she screams
+
+
+What about me? It isn't fair
+I've had enough, now I want my share
+Can't you see, I wanna live
+But you just take more than you give
+More than you give
+
+
+Take a step back and see the little people
+They might be young
+But they're the ones that make the big people big
+So listen as they whisper:
+"What about me?"
+
+
+And now I'm standing on the corner
+All the world's gone home
+Nobody's changed, nobody's been saved
+And I'm feeling cold and alone
+I guess I'm lucky, I smile a lot
+But sometimes I wish for more, than I've got
+
+
+What about me? It isn't fair
+I've had enough, now I want my share
+Can't you see, I wanna live
+But you just take more
+What about me? It isn't fair
+I've had enough, now I want my share
+Can't you see, I wanna live
+But you just take more, you just take more
+You just take more than you give
+
+
+What about me?
+What about me?
+What about me?

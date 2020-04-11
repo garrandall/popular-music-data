@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shame-the-motels
+lyrics_url: https://genius.com/The-motels-shame-lyrics
 name: Shame
 rankings:
 - end_date: '1985-07-26'
@@ -59,4 +60,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-10-12'
 ---
+A very simple statement
+A very simple crime
+A lot of grief reflecting
+In how we spend our time
 
+I want to change things
+I want to make a change
+I'm tired of spending time
+Agonizing yesterdays
+
+Shame on me, shame on you
+Shame on every little
+Thing that we do
+Shame on me, shame on you
+Now there's only one
+Thing we can do
+
+Another empty day
+Another day comes true
+A lot of selfish dreams
+Are waiting here for you
+
+I've got to have you
+I've got no one to blame
+It's just the two of us
+With nothing left to say but
+
+Shame on me, shame on you
+Shame on every little
+Thing that we do
+Shame on me, shame on you
+Now there's only one
+Thing we can do
+
+Shame on me, shame on you
+Shame on me, shame on you
+
+I've got to change things
+I've got to make a change
+I'm tired of spending time
+Agonizing yesterdays
+
+Shame on me, shame on you
+Shame on every little
+Thing that we do
+Shame on me, shame on you
+Now there's only one
+Thing we can do
+
+Shame on me, shame on you
+Shame on me, shame on you
+Shame on me, shame on you...

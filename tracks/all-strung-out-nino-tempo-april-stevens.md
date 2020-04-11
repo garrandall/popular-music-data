@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: all-strung-out-nino-tempo-april-stevens
+lyrics_url: https://genius.com/Nino-tempo-and-his-sister-april-stevens-all-strung-out-lyrics
 name: All Strung Out
 rankings:
 - end_date: '1966-09-16'
@@ -40,4 +41,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-29'
 ---
-
+I just can't get enough of you baby
+There just ain't enough of you to go around
+Just when I'm needin' you baby
+You ain't no where to be found
+Baby, it's gettin' me down
+Because I'm all strung out on you baby
+All strung out on you baby
+All strung out on you baby
+Oh, maybe, maybe someday you'll love me too
+Maybe, maybe I don't know what to do
+Baby, baby, I'm all strung out on you
+It hurts when you needle me baby (it hurts when you needle me)
+But I'd rather have the pain than lose your love
+I know you're no good for me baby
+But I keep trampin' around, trackin' you all over town
+Because I'm all strung out on you baby
+All strung out on you baby
+All strung out on you baby
+Oh, maybe,maybe someday you'll love me too
+Maybe, maybe I don't know what to do
+Baby, baby, I'm all strung out on you
+I love you (I love you) (I love you) (I love you)
+Just the way you are
+Like a spinnin' shinin' star:
+I'm gonn'a get you someday
+And you'll never go away
+Because I'm all strung out on you baby
+All strung out on you baby
+All strung out on you baby
+Oh, baby, baby, someday you'll love me, too
+Baby, baby, I don't see but I'm all strung out on you baby
+All strung out on you baby
+All strung out on you baby
+All strung out on you baby
+All strung out on you baby
+All strung out

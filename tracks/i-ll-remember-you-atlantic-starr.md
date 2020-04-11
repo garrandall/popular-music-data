@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-remember-you-atlantic-starr
+lyrics_url: https://genius.com/Atlantic-starr-ill-remember-you-lyrics
 name: I'll Remember You
 rankings:
 - end_date: '1994-06-10'
@@ -59,4 +60,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-08-27'
 ---
+Words have left us all alone
+And something's come between us
+To turn the fire cold
+Thoughts that chase you in the night
+Silently the storm
+The life from in your eyes
+And I remain alone, no matter who
+May try and take your place
 
+CHORUS:
+And I'll remember you
+The dreams we could of dreamed
+The tears I should have seen
+We used to say forever
+But I'll remember you
+Your pure and simple heart
+Your shadows painted dark
+I will always love you
+I'll remember you
+
+Summer rain to fallen snow
+We knew that it would last
+But there's no way to know
+It's such a storm that's in the sky
+Quietly will pass, quietly we'll cry
+And here I stand, alone with every
+Promise melted through my hands
+
+(Chorus)
+Oh, and I remain, alone no matter
+Who may try and take your place
+
+(Chorus 2x)
+I'll remember you....
+I'll remember you.....

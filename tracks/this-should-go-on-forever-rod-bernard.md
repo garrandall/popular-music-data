@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-should-go-on-forever-rod-bernard
+lyrics_url: https://genius.com/Rod-bernard-this-should-go-on-forever-lyrics
 name: This Should Go On Forever
 rankings:
 - end_date: '1959-03-15'
@@ -55,4 +56,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-05-25'
 ---
+This should go on forever
+It should never, ever end
+If it's wrong to really love you
+I'll forever live in sin
 
+This should go on forever
+Let me stay in your arms
+Just to gaze into your eyes, dear
+And to capture all your charms
+
+If it's sin to really love you
+Then a sinner I will be
+If it's wrong to hug and kiss you
+Oh, my soul will never be free
+
+This should go on forever
+It should never, ever end
+If it's wrong to really love you
+I'll forever live in sin
+
+If it's sin to really love you
+Then a sinner I will be
+If it's wrong to hug and kiss you
+Oh, my soul will never be free
+
+This should go on forever
+It should never, ever end
+If it's wrong to really love you
+I'll forever live in sin

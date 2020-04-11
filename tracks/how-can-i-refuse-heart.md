@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-can-i-refuse-heart
+lyrics_url: https://genius.com/Heart-how-can-i-refuse-lyrics
 name: How Can I Refuse
 rankings:
 - end_date: '1983-08-19'
@@ -51,4 +52,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-10-22'
 ---
+Wake me up with laughter
+Wrap me in your arms
+This ain't no morning after
+Never been so warm
+It didn't take so long
+For us to feel this way
+Can a good thing last
+Longer than a day?
 
+Where do we take it now
+Now that we caught fire?
+Will something greater grow
+Out of this desire?
+Should I drop my guard
+At the risk of being used?
+But the way you do those things to me
+How can I refuse?
+
+I could get addicted
+To your energy
+The way you take me over
+Pulling on me
+Our hearts beat together
+Our timing is the same
+Can I trust my feelings
+Save myself the pain?
+
+Where do we take it now
+Now that we caught fire?
+Will something greater grow
+Out of this desire?
+Should I drop my guard
+At the risk of being used?
+But the way you do those things to me
+How can I refuse?
+
+We could share they mystery
+Spare ourselves the misery
+Discover it again every day
+We could take love all the way
+
+Where do we take it now
+Now that we caught fire?
+Will something greater grow
+Out of this desire?
+Should I drop my guard
+At the risk of being used?
+But the way you do those things to me
+How can I refuse?

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-it-up-ronnie-milsap
+lyrics_url: https://genius.com/Ronnie-milsap-get-it-up-lyrics
 name: Get It Up
 rankings:
 - end_date: '1979-10-12'
@@ -51,4 +52,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
 ---
+Been preparin'
+All week long
+To get it ready
+To get it on
 
+The only thing
+That's on my mind
+Is drivin' it home
+In 4-4 time
+
+1, 2, 3, 4...
+
+
+You gotta get it up
+Get down
+Get it on
+Or get on out
+
+That's the only way
+To make my baby shout
+
+You gotta get it up
+Get down
+Get it on
+Or get on out
+
+You gotta get it up
+Get down
+Get it on
+Or get on out
+
+
+This is what she said to me
+The only way you can set me free
+Is show me every move you got
+And move it till it hits the spot
+
+5, 6, 7, 8...
+
+
+Yeah...
+Get it on, white boy
+
+
+Get it up
+Get down
+Get it on
+Or get on out
+
+
+ 3x
+
+
+
+The second verse now...
+
+This is what she said to me
+The only way you can set me free
+Is show me every move you got
+And move it till it hits the spot
+
+
+ 4x
+
+
+
+Let's give it to Warren...
+Ah you're cookin' now...
+You're cookin' Warren
+
+Do it to me...
+Do it to me...
+Go on, do it to me...
+
+
+ 4x
+
+Go on, give it to me ya'll
+You know I can sit here
+And do this thing all night long...

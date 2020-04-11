@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: you-ll-always-be-loved-by-me-brooks-dunn
+lyrics_url: https://genius.com/Brooks-and-dunn-youll-always-be-loved-by-me-lyrics
 name: You'll Always Be Loved By Me
 rankings:
 - end_date: '2000-06-16'
@@ -84,4 +85,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-10-14'
 ---
+I know forever is a long long time
+For a girl to put her heart on the line
+Trust is a tight rope we all have to walk
+Baby don't be afraid I won't let you fall
+With a little faith mountains move
+You and me we can't lose
 
+
+You can count on the sun to rise
+And stars to come out at night
+As long as there's air to breathe
+You'll always be loved by me
+
+
+Love comes so many times goes
+So much out there we'll never know
+Call it fate call it destiny
+But I think we were meant to be
+This old world it spins so fast
+So many times they just don't last
+
+
+
+
+You'll always be loved by me

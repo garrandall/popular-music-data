@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hold-on-my-heart-genesis
+lyrics_url: https://genius.com/Genesis-hold-on-my-heart-lyrics
 name: Hold On My Heart
 rankings:
 - end_date: '1992-05-08'
@@ -87,4 +88,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-09-12'
 ---
+Hold on my heart
+Just hold on to that feeling
+We both know we've been here before
+We both know what can happen
 
+Hold on my heart
+Cause I'm looking over your shoulder
+Ooh please don't rush in this time
+Don't show her how you feel
+
+Hold on my heart
+Throw me a lifeline
+I'll keep a place for you
+Somewhere deep inside
+
+So hold on my heart
+Please tell her to be patient
+Cause there has never been a time
+That I wanted something more
+
+If I can recall this feeling
+And I know there's a chance
+Oh I will be there
+Yes I will be there
+Be there for you
+Whenever you want me to
+Whenever you call
+Oh I will be there
+Yes I will be there
+
+Hold on my heart
+Don't let her see you crying
+No matter where I go
+She'll always be with me
+So hold on my heart
+Just hold on to that feeling
+We both know we've been here before
+We both know what can happen
+
+So hold on my heart
+Just hold on my heart
+I'm gonna hold on to your heart
+Hold on my heart
+Hold on (hold on my heart)
+Just hold on
+Just hold on
+Just hold on
+Just hold on

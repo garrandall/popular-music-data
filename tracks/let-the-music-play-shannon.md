@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-the-music-play-shannon
+lyrics_url: https://genius.com/Shannon-let-the-music-play-lyrics
 name: Let The Music Play
 rankings:
 - end_date: '1983-11-18'
@@ -103,4 +104,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-04-21'
 ---
+We started dancing
+And love put us into a groove
+As soon as we started to move
+The music played
+While our bodies
+Displayed through the dance
+Then love picked us out for romance
 
+
+I thought it was clear
+The plan was we would share
+This feeling just between ourselves
+But when the music changed
+The plan was re-arranged
+He went to dance with someone else
+
+We started dancing
+And love put us into a groove
+But now he's with somebody new
+What does love want me to do?
+Love said
+
+
+Let the music play
+He won't get away
+Just keep the groove
+And then he'll come back to you again
+(Let it play)
+
+Let the music play
+He won't get away
+This groove he can't ignore
+He won't leave you anymore
+No, no, no
+
+
+He tried pretending
+A dance is just a dance
+But I see
+He's dancing his way back to me
+Guess he's discovered
+
+We are truly lovers
+Magic from the very start
+'Cause love just kept me groovin'
+And he felt me movin'
+Even though we danced apart
+
+
+So we started dancing
+And love put us into the groove
+As soon as we started to move
+As soon as we started to move
+Love said
+
+
+Let the music play
+He won't get away
+Just keep the groove
+And then he'll come back to you again
+(Let it play)
+
+Let the music play
+He won't get away
+This groove he can't ignore
+He won't leave you anymore
+No, no, no
+
+
+He tried pretending
+A dance is just a dance
+But I see
+He's dancing his way back to me
+He's dancing his way back to me
+Love said
+(Let the music play)
+
+Let the music play
+(He won't get away)
+Just keep the groove
+And then he'll come back to you again
+(Let it play)
+Let the music play
+He won't get away...

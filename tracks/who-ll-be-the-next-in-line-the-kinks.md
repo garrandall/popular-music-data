@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: who-ll-be-the-next-in-line-the-kinks
+lyrics_url: https://www.musixmatch.com/lyrics/The-Kinks/Who-ll-Be-the-Next-in-Line
 name: Who'll Be The Next In Line
 rankings:
 - end_date: '1965-08-20'
@@ -35,4 +36,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
 ---
+Who'll be the next in line?
+Who'll be the next in line for heartaches?
+Who'll make the same mistakes I made over you?
+Who'll be the next in line?
+Who'll be the next in line for you?
 
+Who'll be the next in line?
+Who'll be the next to watch your love fade?
+All your affections finally fade away
+There'll be no use in sighing
+Who'll be the next in line for you?
+
+One day you'll find out when I'm gone
+I was the best one you had
+I was the one who gave you love
+
+Who'll be the next in line?
+Who'll be the next in line for heartaches?
+Who'll make the same mistakes I made over you?
+There'll be no use in sighing
+Who'll be the next in line for you?
+
+One day you'll find out when I'm gone
+I was the best one you had
+I was the one who gave you love
+
+Who'll be the next in line?
+Who'll be the next in line for heartaches?
+Who'll make the same mistakes I made over you?
+Who'll be the next in line?
+Who'll be the next in line for you, for you?

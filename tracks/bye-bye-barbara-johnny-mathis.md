@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bye-bye-barbara-johnny-mathis
+lyrics_url: https://genius.com/Johnny-mathis-bye-bye-barbara-lyrics
 name: Bye Bye Barbara
 rankings:
 - end_date: '1964-02-07'
@@ -35,4 +36,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-14'
 ---
+Never more to hurt me deep
+Bye, bye Barbara
+(Bye, bye Barbara)
 
+Never more to make me weep
+Bye, bye Barbara
+(Bye, bye Barbara)
+
+I have gone in the search of
+A much truer love than your own
+
+I'll find me one who understands
+Bye, bye Barbara
+(Bye, bye Barbara)
+
+Holds my heart in tender hands
+Bye, bye Barbara
+(Bye, bye Barbara)
+
+I have gone in the search of
+A much truer love than I've known
+(Bye, bye Barbara)
+
+Just read my note on your door
+Just goodbye
+Nothing more
+
+It's better to leave you this way
+You couldn't change
+I couldn't stay
+
+Never more to hurt me deep
+Bye, bye Barbara
+(Bye, bye Barbara)
+
+Never more to make me weep
+Bye, bye Barbara
+(Bye, bye Barbara)
+
+Since you are what you are
+You'll not very long be alone
+(Bye, bye Barbara, bye, bye Barbara)
+
+I have gone in the search
+Of a much truer love than your own
+(Bye, bye Barbara)

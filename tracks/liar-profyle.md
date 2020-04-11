@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: liar-profyle
+lyrics_url: https://genius.com/Profyle-liar-lyrics
 name: Liar
 rankings:
 - end_date: '2000-09-22'
@@ -87,4 +88,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-01-27'
 ---
+Tell my why did you do this to me
+After we made plans for a family
+And you swear you would bare my child
+All the while you were out running wild
+With yo' friends
+Spendin' all my ends
+And I caught you screamin' Ooo Ahh with him
+I think it's time I let you know you can go
+There's the do' (door)
 
+You're nothing but
+A liar, a cheater, a deciever, heart breaker
+And I won't let you back in my life
+So I'm takin
+The house, the cars, the kids, and the dog
+I want it all
+You're nothing but
+A liar, a cheater, a deciever, heart breaker
+And I won't let you back in my life
+So I'm takin
+The house, the cars, the kids, and the dog
+I want it all
+You're nothing but
+
+Seven years I have lived this lie
+When inside you made me cry
+Through it all I still remained
+Till' you messed up and called me his name
+Please don't explain
+You go your way
+And I'll maintain
+Don't worry the kids are okay
+Just remember
+
+You're nothing but
+A liar, a cheater, a deciever, heart breaker
+And I won't let you back in my life
+So I'm takin
+The house, the cars, the kids, and the dog
+I want it all
+You're nothing but
+A liar, a cheater, a deciever, heart breaker
+And I won't let you back in my life
+So I'm takin
+The house, the cars, the kids, and the dog
+I want it all
+You're nothing but
+
+Look at you now
+Cause your down and out, down and out
+And you needin' me to keep you strong, keep you strong
+
+You're nothing but
+A liar, a cheater, a deciever, heart breaker
+And I won't let you back in my life
+So I'm takin
+The house, the cars, the kids, and the dog
+I want it all
+You're nothing but
+A liar, a cheater, a deciever, heart breaker
+And I won't let you back in my life
+So I'm takin
+The house, the cars, the kids, and the dog
+I want it all
+You're nothing but
+
+You're nothing but
+A liar, a cheater, a deciever, heart breaker
+And I won't let you back in my life
+So I'm takin
+The house, the cars, the kids, and the dog
+I want it all
+You're nothing but
+A liar, a cheater, a deciever, heart breaker
+And I won't let you back in my life
+So I'm takin
+The house, the cars, the kids, and the dog
+I want it all
+You're nothing but

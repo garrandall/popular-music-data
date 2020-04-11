@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: master-jack-four-jacks-and-a-jill
+lyrics_url: https://www.musixmatch.com/lyrics/Four-Jacks-and-a-Jill/Master-Jack
 name: Master Jack
 rankings:
 - end_date: '1968-04-05'
@@ -63,4 +64,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-06-29'
 ---
+It's a strange, strange world we live in, Master Jack
+You taught me all I know and I'll never look back
+It's a very strange world and I thank you, Master Jack
 
+You took a colored ribbon from out of the sky
+And taught me how to use it as the years went by
+To tie up all your problems and make them look neat
+And then to sell them to the people in the street
+
+It's a strange, strange world we live in, Master Jack
+You taught me all I know and I'll never look back
+It's a very strange world and I thank you, Master Jack
+
+I saw right through the way you started teachin' me now
+So someday soon you could get to use me somehow
+I thank you very much and know you've been very kind
+But I'd better move along before you change my mind
+
+It's a strange, strange world we live in, Master Jack
+No hard feelings if I never come back
+It's a very strange world and I thank you, Master Jack
+
+You taught me all the things the way you'd like them to be
+But I'd like to see if other people agree
+It's all very interesting the way you disguise
+But I'd like to see the world through my own eyes
+
+It's a strange, strange world we live in, Master Jack
+No hard feelings if I never come back
+You're a very strange man and I thank you, Master Jack
+You're a very strange man and I thank you, Master Jack
+You're a very strange man, aren't you, Master Jack?

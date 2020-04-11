@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-girl-like-you-the-young-rascals
+lyrics_url: https://genius.com/The-young-rascals-a-girl-like-you-lyrics
 name: A Girl Like You
 rankings:
 - end_date: '1967-07-21'
@@ -43,4 +44,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-09'
 ---
-
+The Young Rascals
+Miscellaneous
+A Girl Like You
+A Girl Like You
+The Young Rascals
+(written by Felix Cavaliere & Eddie Brigati
+(No. 10 in 1967)
+I don't know what it's all about
+But I feel I"ll soon find out; I'm sure, never felt this secure
+It's nothin' like I ever thought it would be
+Someone opened up a door for me
+A girl like, (I'm in love with)
+Girl like you. (I'm in love with you.)
+Must be you that caused this feelin' in me. (Must be you.)
+You that fills me confidently, (Must be you.)
+You that brings out the best in me
+You....Uhhhhhh......Nobody but you
+-----------
+I don't know what it's all about
+I can't begin to figure out what to do so I leave it to you
+Only know that when you're away from me
+Nothin' satisfies the need in me
+For a girl like (I'm in love with)
+A girl like you. (I'm in love with)
+Must be you that caused this feelin' in me. (Must be you.)
+You that fills me confidently, (Must be you.)
+You that brings out the best in me
+You.... Nobody, nobody, Oh, Yeah!
+------------
+Every time I'm holdin' you close to me
+Trouble's gone, it's gone, I'm in ecstasy
+With a girl (I'm in love with)
+A girl like you. (I'm in love with)
+Someone to love me, H'yeah (I'm in love with)
+Girl like you (I'm in love with)
+Someone, someone to understand. (I'm in love with)
+'Xactly like you, hon (I'm in love with)
+Girl, girl, girl (I'm in love with)
+Girl, girl, girl (I'm in love with)
+Girl, girl........

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bobbie-sue-the-oak-ridge-boys
+lyrics_url: https://genius.com/The-oak-ridge-boys-bobbie-sue-lyrics
 name: Bobbie Sue
 rankings:
 - end_date: '1982-01-22'
@@ -63,4 +64,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-04-17'
 ---
+I heard about her from a friend of mine
+He said she lived across the county line
+The sweetest grape that ever grew on the vine
+And now that's where I'm spending all my time
 
+Her daddy Robert and her mama Ruth
+They had a daughter they named Bobbie Sue
+And now she's eighteen and she knows the truth
+Nobody's gonna tell her what to do
+
+Bo-Bo, Bo-Bo, Bobbie Sue
+Ca-can't you see my love is true?
+I want to ma-ma, ma-ma, marry you
+Bo-Bo-Bo-Bo-Bo- Bobbie Sue
+
+I'll take her riding on a Friday night
+Straight down the highway in the clear moonlight
+My Chevy’s humming and she holds me tight
+We'll find a preacher and we'll do it right
+
+Her daddy told her that she'd have to wait
+Her mama said, "don't make a big mistake"
+But we'll keep driving till we're out of state
+And when they find us it'll be too late
+
+Bo-Bo, Bo-Bo, Bobbie Sue
+Ca-can't you see my love is true?
+I want to ma-ma, ma-ma, marry you
+Bo-Bo-Bo-Bo-Bo- Bobbie Sue
+
+Bo-Bo, Bo-Bo, Bobbie Sue
+Ca-can't you see my love is true?
+I want to ma-ma, ma-ma, marry you
+Bo-Bo-Bo-Bo-Bo- Bobbie Sue
+
+Bob, Bob, Bob, Bob, Bob Bobbie Sue
+
+Bo-Bo, Bo-Bo, Bobbie Sue
+
+B...o...b...b...y Sue

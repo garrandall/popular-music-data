@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-cry-daddy-elvis-presley
+lyrics_url: https://genius.com/Elvis-presley-dont-cry-daddy-lyrics
 name: Don't Cry Daddy
 rankings:
 - end_date: '1969-12-05'
@@ -59,4 +60,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
 ---
+Today I stumbled from my bed
+With thunder crashing in my head
+My pillow still wet
+From last night tears
+And as I think of giving up
+A voice inside my coffee-cup
+Kept crying out, ringing in my ears
 
+
+Don't cry daddy
+Daddy, please don't cry
+Daddy, you've still got me and little Tommy
+Together we'll find a brand new mommy
+Daddy, daddy, please laugh again
+Daddy ride us on your back again
+Oh, daddy, please don't cry
+
+
+Why are children always first
+To feel the pain and hurt the worst
+It's true, but somehow
+It just don't seem right
+Cause every time I cry I know
+It hurts my little children so
+I wonder will it be the same tonight

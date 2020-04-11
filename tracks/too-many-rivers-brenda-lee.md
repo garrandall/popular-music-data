@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: too-many-rivers-brenda-lee
+lyrics_url: https://genius.com/Brenda-lee-too-many-rivers-lyrics
 name: Too Many Rivers
 rankings:
 - end_date: '1965-06-04'
@@ -59,4 +60,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-08-21'
 ---
+I wish I could come back to you, dear
+'Cause I know that you want me to
+But too much water run under that old bridge
+There's too many rivers between me and you
+There's too many rivers to cross, dear
 
+Too many dreams have been lost
+And there's too many long nights
+That I've turned and tossed
+There's too many rivers to cross
+
+Now don't think for a moment, I blame only you
+We both killed the fruit on the vine
+And when you try to put love back together
+There's always a few little pieces you can't find
+
+Yes, there's too many rivers to cross, dear
+And there's too many dreams that have been lost
+Oh there's too many long nights
+That I've turned and I've tossed
+There's too many rivers to cross

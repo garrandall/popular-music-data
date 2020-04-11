@@ -1,6 +1,6 @@
 ---
 artists:
-- Garfunkel
+- Art Garfunkel
 features: []
 genres: []
 key: i-shall-sing-garfunkel

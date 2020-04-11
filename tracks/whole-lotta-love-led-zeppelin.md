@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: whole-lotta-love-led-zeppelin
+lyrics_url: https://genius.com/Led-zeppelin-whole-lotta-love-lyrics
 name: Whole Lotta Love
 rankings:
 - end_date: '1969-11-28'
@@ -67,4 +68,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-28'
 ---
+You need coolin', baby, I'm not foolin'
+I'm going to send you back to schoolin'
+Way down inside, honey, you need it
+I'm goin' to give you my love
+I'm goin' to give you my love, oh
 
+
+Want a whole lotta love
+Want a whole lotta love
+Want a whole lotta love
+Want a whole lotta love
+
+
+You've been learnin', baby, I've been yearnin'
+All them good times, baby, baby, I've been learnin'
+Way, way down inside, honey, you need it
+I'm gonna give you my love, ah
+I'm goin' to give you my love, ah, oh
+
+
+Want a whole lotta love
+Want a whole lotta love
+Want a whole lotta love
+Want a whole lotta love
+
+
+
+
+
+You've been coolin', baby, I've been droolin'
+All the good times, baby, I've been misusin'
+Way, way down inside, I'm goin' to give you my love
+I'm goin' to give you every inch of my love
+Goin' to give you my love, hey, alright, yes, sir
+
+
+Want a whole lotta love
+Want a whole lotta love
+Want a whole lotta love
+Want a whole lotta love
+
+
+Way down inside, woman, you need love
+Shake for me, girl, I want to be your backdoor man
+Hey! Oh! Hey! Oh! Hey! Oh!
+Keep it coolin', baby
+Keep it coolin', baby
+Keep it coolin', baby
+Keep it coolin', baby
+Keep it coolin', baby

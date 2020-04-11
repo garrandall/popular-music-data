@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: little-coco-palm-jerry-wallace
+lyrics_url: https://www.musixmatch.com/lyrics/Jerry-Wallace/Little-Coco-Palm
 name: Little Coco Palm
 rankings:
 - end_date: '1960-01-10'
@@ -43,4 +44,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-29'
 ---
+Little coco palm
+Growing in the island sun
+Little coco palm
+Do you know what
+You have done
 
+From your coconut
+Comes the meat
+To make us stuck
+And your milk is sweet
+So we drink and eat
+All the day long
+
+Little coco palm
+When we use your coconut
+Then we take your leaves
+And we build a little hut
+
+Make a hula skirt for
+The one I'm dreaming of
+Little coco palm, little coco palm
+Tree that we love
+
+Little coco palm
+Waving in the island breeze
+Do you ever think of
+The many hearts you please
+
+Mama, to live out?
+May you always wave about
+Little coco palm, little coco palm
+Tree that we love
+
+Little coco palm, little coco palm
+Tree that we love

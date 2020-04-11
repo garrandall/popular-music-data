@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: k-jee-the-nite-liters
+lyrics_url: https://genius.com/The-nite-liters-k-jee-lyrics
 name: K-Jee
 rankings:
 - end_date: '1971-07-09'
@@ -71,4 +72,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-23'
 ---
-
+Instrumental

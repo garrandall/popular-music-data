@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: there-she-goes-jerry-wallace
+lyrics_url: https://genius.com/Jerry-wallace-there-she-goes-lyrics
 name: There She Goes
 rankings:
 - end_date: '1961-01-01'
@@ -47,4 +48,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
 ---
+There she goes, she's walkin' away
+Each step she takes brings heartaches my way
+He's won her heart, I lost her some way
+There she goes, she's walkin' away
 
+If I hadn't cheated, if I hadn't lied
+I'd be the one who's walkin' by her side
+
+I love her still and I guess that it shows
+She's walkin' away, there she goes
+
+There she goes!
+She's walkin' away
+Each step she takes… brings
+Heartaches my way
+
+If I hadn't cheated, if I hadn't lied
+I'd be the one who's walkin' by her side (by her side)
+
+I love her still and I guess that it shows
+She's walkin' away, there she goes
+
+There she goes
+There she goes
+There she goes

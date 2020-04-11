@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-were-on-my-mind-crispian-st--peters
+lyrics_url: https://genius.com/Crispian-st-peters-you-were-on-my-mind-lyrics
 name: You Were On My Mind
 rankings:
 - end_date: '1967-07-07'
@@ -31,4 +32,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
 ---
+Well I woke up this morning
+You were on my mind
+I said you were on my mind
 
+Oh, I got troubles, oh, oh
+I got worries, oh, oh
+I got wounds to bind
+
+So I went to the corner
+Just to ease my pain
+I said just to ease my pain
+
+Oh, I got troubles, oh, oh
+I got worries, oh, oh
+I came home again
+
+But I woke up this morning
+You were on my mind
+You were on my mind
+
+Oh, I got troubles, oh, oh
+I got worries, oh, oh
+I got wounds to bind
+
+But I've got a feeling
+Yeah, down in my shoes
+I said way down in my shoes
+
+Well, I gotta ramble, oh, oh
+I gotta move on, oh, oh
+I gotta walk away my blues
+
+When I woke up this morning
+You were on my mind
+I said you were on my mind
+
+Well, I got troubles, oh, oh
+I got worries, oh, oh
+I got wounds to bind, yeah

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mr-big-stuff-jean-knight
+lyrics_url: https://www.musixmatch.com/lyrics/Jean-Knight/Mr-Big-Stuff
 name: Mr Big Stuff
 rankings:
 - end_date: '1971-06-04'
@@ -71,4 +72,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-11'
 ---
+(Oh yeah)(Ooh)
+Mr. Big Stuff
 
+Who do you think you are?
+Mr. Big Stuff
+You're never gonna get my love
+Now, because you wear all those fancy clothes (oh yeah)
+
+And have a big, fine car, oh yes you do now
+Do you think I can afford to give you my love? (oh yeah)
+You think you're higher than every star above
+Mr. Big Stuff
+
+Who do you think you are?
+Mr. Big Stuff
+You're never gonna get my love
+Now, I know all the girls I've seen you with
+
+I know you broke their hearts one after another now, bit by bit
+You made 'em cry, many poor girls cry
+When they tried to keep you happy, they just tried to keep you satisfied
+Mr. Big Stuff, tell me, tell me
+
+Who do you think you are?
+Mr. Big Stuff
+You're never gonna get my love
+BREAK
+
+I'd rather give my love to a poor guy that has a love that's true (oh yeah)
+
+Than to be fooled around and get hurt by you
+'Cause when I give my love, I want love in return (oh yeah)
+Now, I know this is a lesson, Mr. Big Stuff, you haven't learned
+Mr. Big Stuff, tell me
+
+Who do you think you are?
+Mr. Big Stuff
+You're never gonna get my love
+Mr. Big Stuff
+You're never gonna break my heart
+Mr. Big Stuff
+You're never gonna make me cry
+(Repeat and fade out)

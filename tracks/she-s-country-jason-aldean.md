@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-country-jason-aldean
+lyrics_url: https://genius.com/Jason-aldean-shes-country-lyrics
 name: She's Country
 rankings:
 - end_date: '2008-12-05'
@@ -87,4 +88,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-06-13'
 ---
+You boys ever met a real country girl
+Talkin', true blue, out in the woods, down home, country girl
 
+
+She's a hot little number in her pickup truck
+Daddy's sweet money done jacked it up
+She's a party all nighter from South Carolina
+A bad mamajama from down in Alabama
+She's a ragin' cajun, a lunatic from Brunswick
+Juicy Georgia peach with a thick southern drawl
+Sexy swing and walk, brother, she's all
+
+
+Country (shoot)
+From her cowboy boots to her down home roots
+She's country
+From the songs she plays to the prayers she prays
+That's the way she was born and raised
+She ain’t afraid to stay
+Country
+Brother, she's country
+
+
+A hell raisin' sugar when the sun goes down
+Mama taught her how to rip up the town
+Honey drippin' honey from the holler in Kentucky
+Get you flippin', kinda trippy like a Mississippi hippie
+She's a Kansas princess
+Crazy mother trucker, undercover lover
+Thick southern drawl, sexy swing and walk
+Brother, she's all
+
+
+Country, (shoot)
+From her cowboy boots to her down home roots
+She's country
+From the songs she plays to the prayers she prays
+That's the way she was born and raised
+She ain’t afraid to stay
+Country
+Nothin' but country
+
+
+(Thick southern drawl)
+(Sexy swing and walk)
+(Aw, show 'em how a country girl does it one time now)
+
+
+
+
+Brother, she's country
+From her cowboy boots to her down home roots
+Nothin' but country
+Yeah, yeah-ah
+She's country (shoot)
+From her cowboy boots to her down home roots
+She's country
+From the songs she plays to the prayers she prays
+That's the way she was born and raised
+She ain't afraid to stay
+Country
+Yeah, she's nothin' but country
+
+
+She's all about the country
+From the backwoods, she's a homegrown, down to the bone
+She's country

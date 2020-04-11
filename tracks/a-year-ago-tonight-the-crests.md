@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: a-year-ago-tonight-the-crests
+lyrics_url: https://www.musixmatch.com/lyrics/The-Crests/A-Year-Ago-Tonight
 name: A Year Ago Tonight
 rankings:
 - end_date: '1959-12-13'
@@ -47,4 +48,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-08'
 ---
+A year ago tonight
+You were sixteen
+The sweetest teenage
+Queen I've ever seen
 
+A year ago tonight
+I let you know
+That sixteen candles
+In my heart would glow
+
+When you made wish, kid
+I was wishing too
+That I'd be saying
+Happy birthday
+Your whole life through
+
+Oh, yeah
+A year ago tonight
+I kissed you dear
+And told you that
+I'd be yours
+Throughout the years
+
+Now, Father Time
+Has proven we were right
+Woah, woah, two lovers
+Born a year ago tonight
+(Tonight, tonight)
+
+When you made wish, kid
+I was wishing too
+That I'd be saying
+Happy birthday
+Your whole life through
+
+Oh, a year ago tonight
+I kissed you dear
+And told you that
+I'd be yours
+Throughout the years
+
+Now, Father Time
+Has proven we were right
+Woah, woah, two lovers
+Born a year ago tonight
+(Tonight, tonight)
+
+Woah, woah, woah
+Two lovers born
+A year ago tonight
+Yeah, yeah
+Two lovers born
+A year ago tonight

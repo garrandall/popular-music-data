@@ -1,9 +1,10 @@
 ---
 artists:
-- Ke$ha
+- Kesha
 features: []
 genres: []
 key: take-it-off-ke-ha
+lyrics_url: https://www.azlyrics.com/lyrics/keha/takeitoff.html
 name: Take It Off
 rankings:
 - end_date: '2010-01-29'
@@ -87,4 +88,122 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-12-11'
 ---
+There's a place downtown,
+Where the freaks all come around.
+It's a hole in the wall.
+It's a dirty free for all.
 
+When the dark
+Of the night comes around.
+That's the time,
+That the animal comes alive.
+Looking for
+Something wild.
+
+And now we lookin' like pimps
+In my gold Trans-Am.
+Got a water bottle full of whiskey
+In my handbag.
+Got my drunk text on
+I'll regret it in the mornin'
+But tonight
+I don't give a
+I don't give a
+I don't give a
+
+There's a place downtown,
+Where the freaks all come around.
+It's a hole in the wall.
+It's a dirty free for all.
+
+And they turn me on.
+When they Take It Off.
+When they Take It Off.
+Everybody Take It Off.
+
+There's a place I know
+If you're looking for a show.
+Where they go hardcore
+And there's glitter on the floor.
+
+And they turn me on.
+When they Take It Off.
+When they Take It Off.
+Everybody Take It Off.
+
+Lose your mind.
+Lose it now.
+Lose your clothes
+In the crowd.
+We're delirious.
+Tear it down
+'Til the sun comes back around.
+
+N-now we're getting so smashed.
+Knocking over trash cans.
+Eurbody breakin' bottles
+It's a filthy hot mess.
+Gonna get faded
+I'm not the designated
+Driver so
+I don't give a
+I don't give a
+I don't give a
+
+There's a place downtown,
+Where the freaks all come around.
+It's a hole in the wall.
+It's a dirty free for all.
+
+And they turn me on.
+When they Take It Off.
+When they Take It Off.
+Everybody Take It Off.
+
+There's a place I know
+If you're looking for a show.
+Where they go hardcore
+And there's glitter on the floor.
+
+And they turn me on.
+When they Take It Off.
+When they Take It Off.
+Everybody Take It Off.
+
+Oh, oh, oh!
+
+EVERYBODY TAKE IT OFF!
+
+Oh, Oh, Oh!
+
+EVERYBODY TAKE IT OFF!
+
+Right now! TAKE IT OFF!
+Right now! TAKE IT OFF!
+Right now! TAKE IT OFF!
+
+Oooh.
+
+Right now! TAKE IT OFF!
+
+EVERYBODY TAKE IT OFF!
+
+There's a place downtown,
+Where the freaks all come around.
+It's a hole in the wall.
+It's a dirty free for all.
+
+And they turn me on.
+When they Take It Off.
+When they Take It Off.
+Everybody Take It Off.
+
+There's a place I know
+If you're looking for a show.
+Where they go hardcore
+And there's glitter on the floor.
+
+And they turn me on.
+When they Take It Off.
+When they Take It Off.
+Everybody Take It Off.

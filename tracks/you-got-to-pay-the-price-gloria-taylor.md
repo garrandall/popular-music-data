@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-got-to-pay-the-price-gloria-taylor
+lyrics_url: https://www.musixmatch.com/lyrics/Gloria-Taylor/You-Got-to-Pay-the-Price
 name: You Got To Pay The Price
 rankings:
 - end_date: '1969-11-14'
@@ -43,4 +44,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-03'
 ---
+You've got to pay the price
+Love don't come so easy
+You've got to make every sacrifice
+You've got to pay the price
 
+Because sooner than your fashion
+There is something hard to find
+You might spend a lifetime trying
+For that love's when you finally found
+Someone you can build your life around
+
+It's worth it to find a love that's true
+And you'll best the pain
+You been through
+
+But you've got to pay the price
+Love don't come so easy
+You've got to make every sacrifice
+You've got to pay the price
+
+That means hurtings and remember
+Going from one boy to another
+Looking and finding
+Finally you'll discover
+That true love is confusion
+And it might just be an illusion
+
+Bad days when you're feeling blue
+But lady luck smiles on a heart that's true
+
+But you've got to pay the price
+Love don't come so easy
+You've got to make every sacrifice
+You've got to pay the price
+You've got to pay the price
+
+Ooh ooh ooh
+Ooh ooh ooh
+Ooh ooh ooh
+You've got to pay the price
+You've got to pay the price
+
+You've got to pay the price
+Love don't come so easy
+You've got to make every sacrifice
+You've got to pay the price
+
+While you're looking for affection
+Just be warned you've got to pay your dues
+Here's some advice you might can use
+Keep your eyes in one direction
+'Til you make
+The right connection
+
+Somehow
+Somewhere
+One day
+True love will find a way
+
+But you've got to pay the price
+Love don't come so easy
+You've got to make every sacrifice
+You've got to pay the price
+You've got to pay the price
+Can't get something for nothing
+You've got to pay the price
+Can't get something for nothing

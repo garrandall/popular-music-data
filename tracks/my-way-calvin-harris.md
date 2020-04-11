@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-way-calvin-harris
+lyrics_url: https://genius.com/Calvin-harris-my-way-lyrics
 name: My Way
 rankings:
 - end_date: '2016-10-14'
@@ -47,4 +48,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-12-10'
 ---
+Why wait to say, at least I did it my way
+Lie awake, two faced
+But in my heart I understand
+I made my move and it was all about you
+Now I feel so far removed
 
+
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+
+
+My way, oh way, oh way, oh way
+My way, oh way, oh way, oh way
+My way, oh way, oh way, oh way
+My way, my way, my way
+
+
+Why wait to say, at least I did it my way
+Lie awake, two faced
+But in my heart I understand
+I made my move and it was all about you
+Now I feel so far removed
+
+
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+
+
+My way, oh way, oh way, oh way
+My way, oh way, oh way, oh way
+My way, oh way, oh way, oh way
+My way, my way, my way
+
+
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+You were the one thing in my way
+
+
+My way, oh way, oh way, oh way
+My way, oh way, oh way, oh way
+My way, oh way, oh way, oh way
+My way, oh way, oh way, oh way
+My way, oh way, oh way, oh way
+My way, oh way, oh way, oh way

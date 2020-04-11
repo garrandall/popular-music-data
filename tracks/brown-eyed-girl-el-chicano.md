@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: brown-eyed-girl-el-chicano
+lyrics_url: https://genius.com/El-chicano-brown-eyed-girl-lyrics
 name: Brown Eyed Girl
 rankings:
 - end_date: '1972-06-23'
@@ -35,4 +36,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-07-29'
 ---
+Hey where did we go
+Days when the rains came?
+Down in the hollow
+Playin' a new game
+Laughing and a running hey, hey skipping and a jumping
+In the misty morning fog with our hearts a thumpin' and you
+My brown eyed girl, you my brown eyed girl
 
+Whatever happened to Tuesday and so slow
+Going down the old mind with a transistor radio
+Standing in the sunlight laughing hiding behind a rainbow's wall
+Slipping and sliding all along the water fall, with you
+My brown eyed girl, you my brown eyed girl
+
+Do you remember when we used to sing
+Ha la la la la la la dee da
+Ha la la la la la la dee da
+Laa dee da
+Ha la la la la la la dee da?
+
+So I had to find my way now that I'm on my own
+I saw you the other day and my my my how you have grown
+Cast my memory back there Lord hey sometime, sometime I'm overcome
+Making love in the green grass behind the stadium with you
+My brown eyed girl, you my brown eyed girl
+
+Sha la la la la la la dee da
+La dee da
+Sha la la la la la la dee da
+Sha la la la la la la dee da
+La dee da
+Sha la la la la la la dee da

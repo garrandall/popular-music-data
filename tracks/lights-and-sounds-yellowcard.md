@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lights-and-sounds-yellowcard
+lyrics_url: https://genius.com/Yellowcard-lights-and-sounds-lyrics
 name: Lights And Sounds
 rankings:
 - end_date: '2006-02-10'
@@ -47,4 +48,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-04-08'
 ---
+Hello you, how was the rest?
+You made it through but nevertheless
+I got you out on a wire
+You be love and I'll be a liar
+Tell it all and fill up the air
+But make it loud cause nobody's there
+Nobody’s there
+Nobody’s there
 
+
+Stop, turn, take a look around
+At all the lights and sounds
+Let them bring you in
+Slow burn, let it all fade out
+Pull the curtain down
+And wonder where you’ve been
+
+
+Make it new but stay in the lines
+Just let go but keep it inside
+Smile big for everyone
+Even when you know what they've done
+They gave you the end but not where to start
+Not how to build, how to tear it apart
+So tell it all and fill up the air
+But make it loud cause nobody's there
+Nobody’s there
+
+
+Stop, turn, take a look around
+At all the lights and sounds
+Let them bring you in
+Slow burn, let it all fade out
+Pull the curtain down
+And wonder where you’ve been
+
+
+I've got a way to work this out
+I've got a way and you know how
+I've got a way to work this out
+I've got a way and you know how
+I've got a way to work this out
+I've got a way
+
+
+Stop, turn, take a look around
+At all the lights and sounds
+Let them bring you in
+Slow burn, let it all fade out
+Pull the curtain down
+And wonder where you’ve been
+You’ve earned everything you’ve found
+And painted faces frown
+I'll say I knew you when

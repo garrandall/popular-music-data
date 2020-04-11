@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sneakin--up-behind-you-the-brecker-brothers
+lyrics_url: https://genius.com/The-brecker-brothers-sneakin-up-behind-you-lyrics
 name: Sneakin' Up Behind You
 rankings:
 - end_date: '1975-06-13'
@@ -43,4 +44,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-08-02'
 ---
-
+Sneakin' Up Behind You

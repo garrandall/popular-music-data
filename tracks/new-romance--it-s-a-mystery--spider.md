@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: new-romance--it-s-a-mystery--spider
+lyrics_url: https://genius.com/Spider-new-romance-its-a-mystery-lyrics
 name: New Romance (It's A Mystery)
 rankings:
 - end_date: '1980-04-25'
@@ -51,4 +52,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-06-28'
 ---
+I fell in love today
+Never thought I'd feel this way
+Been so tired of one-night stands
+Now I'm ready for a new romance
 
+Ooh, it's a mystery, do you know
+I can't figure it out
+Ooh, it's a mystery, do you know
+What I'm talking about
+
+Do you love me?
+Do you want me?
+Maybe it's crazy, give it a chance
+I think I like this new romance
+
+It was only yesterday
+That love felt so far away
+Then you smiled and asked me to dance
+Now I'm ready for a new romance
+
+Ooh, it's a mystery, do you know
+I can't figure it out
+Ooh, it's a mystery, do you know
+What I'm talking about
+
+Do you love me?
+Do you want me?
+Maybe it's crazy, give it a chance
+I think I like this new romance
+
+Ooh, it's a mystery, do you know
+I can't figure it out
+Ooh, it's a mystery, do you know
+What I'm talking about
+
+Do you love me?
+Do you want me?
+Maybe it's crazy, give it a chance
+I think I like this new romance
+
+Do you love me? (I'm looking for)
+Do you want me? (a new romance)
+Do you love me? (I'm gonna find)
+Do you want me? (a new romance)
+Do you love me? (I'm looking for)
+Do you want me? (a new romance)

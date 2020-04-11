@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-bitch-is-back-elton-john
+lyrics_url: https://genius.com/Elton-john-the-bitch-is-back-lyrics
 name: The Bitch Is Back
 rankings:
 - end_date: '1974-09-13'
@@ -63,4 +64,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-12-07'
 ---
+I was justified when I was five
+Raising Cain, I spit in your eye
+Times are changing, now the poor get fat
+But the fever's gonna catch you when the bitch gets back (oh)
 
+
+Eat meat on Friday, that's alright
+I even like steak on a Saturday night
+I can bitch the best at your social do's
+I get high in the evening sniffing pots of glue, ooh
+
+
+I'm a bitch, I'm a bitch, oh, the bitch is back
+Stone-cold sober, as a matter of fact
+I can bitch, I can bitch 'cause I'm better than you
+It's the way that I move, the things that I do, oh
+
+
+I entertain by picking brains
+Sell my soul by dropping names
+I don't like those, my God, what's that?
+Oh, it's full of nasty habits when the bitch gets back (oh)
+
+
+I'm a bitch, I'm a bitch, oh, the bitch is back
+Stone-cold sober, as a matter of fact
+I can bitch, I can bitch 'cause I'm better than you
+It's the way that I move, the things that I do, oh
+(Oh)
+
+
+
+
+I'm a bitch, I'm a bitch, oh, the bitch is back
+Stone-cold sober, as a matter of fact
+I can bitch, I can bitch 'cause I'm better than you
+It's the way that I move, the things that I do, oh
+
+
+Bitch, bitch, bitch is back
+Bitch, bitch, bitch is back
+Bitch, bitch, bitch is back
+Bitch, bitch, bitch is back
+Bitch, bitch, bitch is back
+Bitch, bitch, bitch is back
+Bitch, bitch, bitch is back
+Bitch, bitch, bitch is back

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gonna-fly-now--theme-from--rocky---maynard-ferguson
+lyrics_url: https://genius.com/Maynard-ferguson-gonna-fly-now-lyrics
 name: Gonna Fly Now (Theme From "Rocky")
 rankings:
 - end_date: '1977-04-29'
@@ -59,4 +60,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-07-16'
 ---
+Trying hard now
+It's so hard now
+Trying hard now
 
+Getting strong now
+Won't be long now
+Getting strong now
+
+Gonna fly now
+Flying high now
+Gonna fly, fly, fly

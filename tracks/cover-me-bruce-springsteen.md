@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cover-me-bruce-springsteen
+lyrics_url: https://genius.com/Bruce-springsteen-cover-me-lyrics
 name: Cover Me
 rankings:
 - end_date: '1984-08-17'
@@ -79,4 +80,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-12-08'
 ---
+The times are tough now, just getting tougher
+This old world is rough, it's just getting rougher
+Cover me, come on baby, cover me
 
+
+Well I'm looking for a lover who will come on in and cover me
+
+
+Promise me baby you won't let them find us
+Hold me in your arms, let's let our love blind us
+Cover me, shut the door and cover me
+
+
+Well I'm looking for a lover who will come on in and cover me
+
+
+Outside's the rain, the driving snow
+I can hear the wild wind blowing
+Turn out the light, bolt the door
+I ain't going out there no more
+
+
+This whole world is out there just trying to score
+I've seen enough; I don't want to see any more
+Cover me, come on and cover me
+
+
+Well I'm looking for a lover who will come on in and cover me
+
+
+Outside's the rain, the driving snow
+I can hear the wild wind blowing
+Turn out the light, bolt the door
+I ain't going out there no more
+
+
+Well I'm looking for a lover who will come on in and cover me
+Well I'm looking for a lover who will come on in and cover me
+Well I'm looking for a lover who will come on in and cover me
+
+
+Come on baby
+Come on baby
+Come on baby

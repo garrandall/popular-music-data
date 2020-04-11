@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: what-do-you-want-with-me-chad-jeremy
+lyrics_url: https://genius.com/Chad-and-jeremy-what-do-you-want-with-me-lyrics
 name: What Do You Want With Me
 rankings:
 - end_date: '1965-04-16'
@@ -40,4 +41,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-29'
 ---
+Stuart-Clyde
 
+What do you want with me?
+Oh baby, can't you see
+My love and I were happy
+Before you came along
+And it'll stay that way
+'Cause I won't let her down
+I love her, can't you see?
+What do you want with me?
+
+What do you want with me?
+Oh baby, I can see
+You only want to break us up
+And use me for a while
+Then you'll leave me cryin'
+I've heard it all before
+Your other boys have told me
+What do you want with me?
+
+The love I've got
+Is something else again
+She's loving, she's true
+Let me tell you, she's not a bit like you
+And I'm asking you a question
+
+What do you want with me?
+Why don't you let me be?
+I know it would be easy
+To fool around with you
+But you should know by now
+I've promised to be true
+I love her can't you see
+What do you want with me?

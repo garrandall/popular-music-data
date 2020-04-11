@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: all-that-i-can-say-mary-j--blige
+lyrics_url: https://genius.com/Mary-j-blige-all-that-i-can-say-lyrics
 name: All That I Can Say
 rankings:
 - end_date: '1999-07-30'
@@ -63,4 +64,101 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-10-23'
 ---
+Loving you is wonderful
+Something like a miracle
+Rest assured I feel the same way you do
+Needing you, it isn't hard
+With you, I can let down my guard
+Stay secure that's all I'm asking from you
+(Stay secure)
 
+
+I wish I had words to tell (I wish)
+This feeling that I know so well
+But I don't, I don't
+
+
+All that I can say
+(Do do, do do, do do, doo)
+All that I can say
+(Do do, do do, do do, doo)
+All that I can say
+(Do do, do do, do do, doo)
+All that I can say
+(Do do, do do, do do, doo)
+
+
+I've always been curious
+Meeting someone serious
+Looking for someone who loves like me
+But the day I stopped my search
+It seemed that you were put on Earth
+To show me everything I could not see
+
+
+I wish I could find a way
+To tell you how I felt that day
+But I can't (I just can't)
+I can't
+
+
+All that I can say
+(Do do, do do, do do, doo)
+All that I can say
+(Do do, do do, do do, doo)
+All that I can say
+(Do do, do do, do do, doo)
+All that I can say
+(Do do, do do, do do, doo)
+
+
+Knowing him, loving him
+Showing him that I'm all in
+Living and, forgiving and
+I would do it all again
+Genuine, seraphim
+Sweeter than cinnamon
+Heaven-sent gentleman
+Synonyms for loving him
+
+
+All that I can say
+(Do do, do do, do do, doo)
+All that I can say
+(Do do, do do, do do, doo)
+All that I can say
+(Do do, do do, do do, doo)
+All that I can say
+(Do do, do do, do do, doo)
+
+
+You're all...
+(Do do, do do, do do, doo)
+All that I can say
+(Do do, do do, do do, doo)
+All I can say
+(Do do, do do, do do, doo)
+All that I can say
+(Do do, do do, do do, doo)
+
+
+He's all that I'll ever need
+He's got a hold on me
+I love you
+Oh, I don't wanna live without you
+You're all that I can say, hey
+Loving you is wonderful
+(Do do, do do, do do, doo)
+All that I can say
+(Do do, do do, do do, doo)
+All that I can say
+(Do do, do do, do do, doo)
+All that I...
+(Do do, do do, do do, doo)
+
+All I can say
+Loving you is wonderful
+(Do do, do do, do do, doo)
+(Do do, do do, do do, doo)
+(Do do, do do, do do, doo)
+(Do do, do do, do do, doo)

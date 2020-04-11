@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-wanna-lose-you-gloria-estefan
+lyrics_url: https://genius.com/Gloria-estefan-dont-wanna-lose-you-lyrics
 name: Don't Wanna Lose You
 rankings:
 - end_date: '1989-07-14'
@@ -79,4 +80,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-11-04'
 ---
+Sometimes it's hard to make things clear
+I know when to face the truth
+And I know when the moment is here
+I'll open my heart and show you inside
 
+My love has no pride
+I feel with you
+I've got nothing to hide
+So open your eyes and see who I am
+And not who you want for me to be
+I am only myself, myself
+
+
+I don't wanna lose you now
+We're gonna get through somehow
+I don't wanna lose you now forever
+
+Baby, I finally found
+The courage to stand my ground
+But if you want me
+I'll be around forever
+
+
+We all make mistakes
+We all lose our way
+But we stood the test of time
+And I hope that's the way it will stay
+
+It's all up to you to tell me to go
+'Cause it won't be me to walk away
+When you're all that I know
+And I know that
+
+
+
+I don't wanna lose you
+Lose you now
+We're gonna get through somehow
+
+I don't wanna lose you now
+I don't wanna lose you
+I don't wanna lose you

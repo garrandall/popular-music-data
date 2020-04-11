@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bring-a-little-lovin--los-bravos
+lyrics_url: https://genius.com/Los-bravos-bring-a-little-lovin-lyrics
 name: Bring A Little Lovin'
 rankings:
 - end_date: '1968-05-31'
@@ -35,4 +36,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-07-06'
 ---
+I know that it's ten and you're stayin' in
+La la la la la la la la la
+And you're stayin' home and I'm all alone
+La la la la la la la la la
 
+Won't you, won't you, won't you
+Bring a little water, bring a little wine
+Bring a little lovin', and I feel fine
+I know that you want to, and I know that you do
+Come in here and love with me
+
+It's thunder and rains, but it's all the same
+La la la la la la la la la
+I'm paying for this call, and I don't mind at all
+La la la la la la la la la
+
+Won't you, won't you, won't you
+Bring a little water, bring a little wine
+Bring a little lovin', and I feel fine
+I know that you want to, and I know that you do
+Come in here and love with me
+
+Won't you, won't you, won't you
+Won't you, won't you, won't you
+Bring a little water, bring a little wine
+Bring a little lovin', and I feel fine
+I know that you want to, and I know that you do
+Come in here and love with me
+
+Won't you, won't you, won't you
+Bring a little water, bring a little wine
+Bring a little lovin', and I feel fine
+Bring a little water, bring a little wine
+Bring a little lovin', and I feel fine
+
+Won't you, won't you, won't you
+Bring a little water, bring a little wine
+Bring a little lovin', and I feel fine

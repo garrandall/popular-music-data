@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sweet-freedom--theme-from--running-scared---michael-mcdonald
+lyrics_url: https://genius.com/Michael-mcdonald-sweet-freedom-lyrics
 name: Sweet Freedom (Theme From "Running Scared")
 rankings:
 - end_date: '1986-06-20'
@@ -87,4 +88,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
 ---
+No more running down the wrong road
+Dancing to a different drum
+Can`t you see what`s going on
+Deep inside your heart?
 
+Always searching for the real thing
+Living like it's far away
+Just leave all the madness in yesterday
+You're holding the key when you believe it
+
+Shine, sweet freedom
+Shine your light on me
+You are the magic
+You're right where I want to be
+
+Oh, sweet freedom
+Carry me along
+We'll keep the spirit alive
+On and on
+
+We'll be dancing in the moonlight
+Smiling with the rising sun
+Living like we've never known
+Going all the way
+
+Reaching out to meet the changes
+Touching every shining star
+The light of tomorrow
+It's right where we are
+There's no turning back from what I'm feeling
+
+Shine, sweet freedom
+Shine your light on me
+You are the magic
+You're right where I want to be
+
+Oh, sweet freedom
+Carry me along
+We'll keep the spirit alive
+On and on
+
+Cause they'll be starlight all night
+When it comes together
+Share those feelings
+Dancing in your eyes
+Tonight they're guiding us
+Shining til the morning light
+
+Shine, sweet freedom
+Shine your light on me
+You are the magic
+You're right where I want to be
+
+Oh, sweet freedom
+Carry me along
+We'll keep the spirit alive
+On and on
+
+Shine, sweet freedom
+Shine your light on me
+You are the magic, magic, baby
+Oh, sweet freedom
+Carry me along
+We'll keep the spirit
+Alive, on and on
+
+Shine, sweet freedom
+Shine your light on me
+Shine, sweet freedom
+Carry me along
+Shine your light on me
+We'll keep the spirit
+Alive, on and on
+
+Shine, sweet freedom
+Shine your light on me
+You are the magic
+You are the magic, babe

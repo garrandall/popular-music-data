@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: connected-stereo-mc-s
+lyrics_url: https://genius.com/Stereo-mcs-connected-lyrics
 name: Connected
 rankings:
 - end_date: '1993-04-02'
@@ -87,4 +88,118 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-08-07'
 ---
+Ah ah ah ah
+Ah ah ah ah
+Ah ah ah ah
+Ah ah ah ah
 
+
+Something ain't right
+I'm gonna get myself
+I'm gonna get myself
+I'm gonna get myself connected
+I ain't gonna go blind
+For the light which is reflected
+I see thru you, I see thru you
+I see thru you, I see thru you
+Ya dirty tricks
+Ya make me sick
+I see thru you
+I see thru you
+I'm gonna do it again
+I'm gonna do it again
+Oh!
+
+
+I'm gonna do it again
+Gotta do right
+Cause something ain't right
+Gotta do right
+Come on
+If you make sure you're connected
+The writing's on the wall
+But if your mind's neglected
+Stumble you might fall
+Stumble you might fall
+Stumble you might fall
+(Stereo MC's)
+
+
+I!
+Ain't gonna go blind
+I see thru you, I see thru you
+I see thru you, I see thru you
+I'm gonna get myself
+I'm gonna get myself
+I'm gonna get myself connected
+I ain't gonna go blind
+For the light that is reflected
+Hear me out
+Can ya hear me out
+Can ya hear me out
+Do it again
+Do it again
+Do it again
+Do it again
+I
+Wanna do it again
+I wanna do it again
+I wanna do it again
+Ya terrified
+I wanna do it again
+Ain't gonna go blind
+Ain't gonna go blind
+I wanna do it again
+
+
+Here we go
+If you make sure you're connected
+The writing's on the wall
+But if your mind's neglected
+Stumble you might fall
+Stumble you might fall
+Hear me out
+Stumble you might fall
+
+
+Interstate 5
+Stayin' alive
+Won't someone try
+Open up your eyes
+You must be blind
+If you can't see
+The gaping hole called reality
+Wanna do it again
+I gonna gonna do it again
+I wanna do it again
+Come on
+I'm gonna do it again
+Hear me out
+Terrified
+Something ain't right
+Here we go
+
+
+If you make sure you're connected
+The writing's on the wall
+But if your mind's neglected
+Stumble you might fall
+Stumble you might fall
+Stumble you might fall
+If you make sure you're connected
+The writing's on the wall
+But if your mind's neglected
+Stumble you might fall
+Stumble you might fall
+Stumble you might fall
+If you make sure you're connected
+The writing's on the wall
+But if your mind's neglected
+Stumble you might fall
+Stumble you might fall
+Stumble you might fall
+If you make sure you're connected
+The writing's on the wall
+But if your mind's neglected
+Stumble you might fall
+Stumble you might fall

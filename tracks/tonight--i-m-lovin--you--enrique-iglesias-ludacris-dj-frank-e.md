@@ -6,6 +6,7 @@ features:
 - DJ Frank E
 genres: []
 key: tonight--i-m-lovin--you--enrique-iglesias-ludacris-dj-frank-e
+lyrics_url: https://genius.com/Enrique-iglesias-tonight-im-fuckin-you-lyrics
 name: Tonight (I'm Lovin' You)
 rankings:
 - end_date: '2010-12-17'
@@ -109,4 +110,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-05-28'
 ---
+You-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
+Ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
+You-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
+Ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
 
+
+I know you want me
+I made it obvious that I want you too
+So put it on me
+Let's remove the space between me and you
+Now rock your body, oh-oh
+Damn, I like the way that you move
+So give it to me, oh, oh-oh-oh
+'Cause I already know what you wanna do
+
+
+Here's the situation, been to every nation
+Nobody's ever made me feel the way that you do
+You know my motivation, given my reputation
+Please excuse me, I don't mean to be rude
+
+
+But tonight I'm fuckin' you
+Oh-oh, you know-oh, that tonight I'm fuckin' you
+Oh-oh, you know-oh, that tonight I'm fuckin' you
+Oh-oh, you know-oh, that tonight I'm fuckin' you
+Oh-oh, you know-oh
+
+
+You're so damn pretty
+If I had a type, then baby, it would be you
+I know you're ready
+If I never lied, then baby, you'd be the truth
+
+
+Here's the situation, been to every nation
+Nobody's ever made me feel the way that you do
+You know my motivation, given my reputation
+Please excuse me, I don't mean to be rude
+
+
+But tonight I'm fuckin' you
+Oh-oh, you know-oh, that tonight I'm fuckin' you
+Oh-oh, you know-oh, that tonight I'm fuckin' you
+Oh-oh, you know-oh, that tonight I'm fuckin' you
+Oh-oh, you know-oh
+
+
+(Hah! Luda)
+Tonight I'm, gonna do (Gonna do)
+Everything that I want with you (With you)
+Everything that you need, everything that you want
+I wanna honey, I wanna stunt with you (You)
+From the window to the wall, gotta give you my all (My all)
+Winter and the summertime
+When I get you on the springs, I'ma make you fall (Make you fall)
+You got that body that make me wanna get up on the floor just to see you dance (Dance)
+And I love the way you shake that ass
+Turn around and let me see them pants (Pants)
+You stuck with me, I'm stuck with you
+Let's find something to do (Do)
+Please excuse me, I don't mean to be rude
+
+
+But tonight I'm fuckin' you
+Oh-oh, you know-oh, that tonight I'm fuckin' you
+Oh-oh, you know-oh, that tonight I'm fuckin' you
+Oh-oh, you know-oh, that tonight I'm fuckin' you
+Oh-oh, you know-oh
+
+
+That tonight I'm fuckin' you
+Yeah, tonight I'm fuckin' you
+Yeah

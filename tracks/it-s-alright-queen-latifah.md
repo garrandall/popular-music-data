@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-alright-queen-latifah
+lyrics_url: https://genius.com/Queen-latifah-its-alright-lyrics
 name: It's Alright
 rankings:
 - end_date: '1997-09-19'
@@ -23,4 +24,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-10-04'
 ---
+When I'm sexin' you
+When I'm next to you
+I know
+It's alright
+It's the things you do
+Make me cling to you
+Cause I know
+It's alright
 
+
+(Verse 1)
+There's a special way there
+You do what you do
+Anywhere and anytime
+You're not an ordinary lover
+You give me good times
+Get me so satisfied when I'm
+
+
+
+(Verse 2)
+I'm overwhelmed by the way that you handle
+Cause I've been down for a little while
+I got experience
+To know
+When it's this good
+Everything, everything is alright
+
+
+
+
+It's alright
+It's alright
+
+
+When you're near
+I don't fear
+I feel so safe
+And secure
+You feel good in my arms
+And I know that you are
+You're the one for me
+
+
+
+
+How do I know
+You'll never go
+You've got to be
+Someone for me
+I always wait
+That you will stay
+Cause, baby
+You're the one

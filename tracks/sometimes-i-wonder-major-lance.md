@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sometimes-i-wonder-major-lance
+lyrics_url: https://genius.com/Major-lance-sometimes-i-wonder-lyrics
 name: Sometimes I Wonder
 rankings:
 - end_date: '1964-12-11'
@@ -39,4 +40,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
 ---
-
+Sometimes (sometimes)
+You make me wonder (wonder)
+I get the blues (blues)
+And then I wonder (wonder)
+When you should
+Hate me day and night
+But when I'm home
+Everything's alright
+Who's the fool, me or you
+Sometimes I wonder (wonder)
+Can I get an answer
+(Can I get an answer)
+You sit there with a
+Smile upon your face
+What's on your mind (mind)
+But you're just prancing
+All over the place
+When you should
+Hate me day and night
+But when I'm home
+Everything's alright
+Who's the fool, me or you
+Sometimes I wonder (wonder)
+You make me wonder (wonder)
+Sometimes I wonder (wonder)
+(Wonder, wonder, wonder)
+If you should
+Hate me day and night
+But when I'm home
+Everything's alright
+Who's the fool, me or you
+Sometimes I wonder (wonder)
+You make me wonder (wonder)...

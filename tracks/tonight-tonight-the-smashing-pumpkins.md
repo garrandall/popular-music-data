@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tonight-tonight-the-smashing-pumpkins
+lyrics_url: https://genius.com/The-smashing-pumpkins-tonight-tonight-lyrics
 name: Tonight Tonight
 rankings:
 - end_date: '1996-07-05'
@@ -87,4 +88,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-11-09'
 ---
+Time is never time at all
+You can never ever leave
+Without leaving a piece of youth
+And our lives are forever changed
+We will never be the same
+The more you change the less you feel
 
+
+Believe
+Believe in me
+Believe, believe
+That life can change
+That you're not stuck in vain
+We're not the same
+We're different
+
+
+Tonight (tonight)
+Tonight, so bright
+Tonight (tonight)
+
+
+And you know you're never sure
+But you're sure you could be right
+If you held yourself up to the light
+And the embers never fade
+In your city by the lake
+The place where you were born
+
+
+Believe
+Believe in me
+Believe, believe
+In the resolute urgency of now
+And if you believe there's not a chance
+
+
+Tonight (tonight)
+Tonight, so bright
+Tonight (tonight)
+
+
+We'll crucify the insincere tonight (tonight)
+We'll make things right
+We'll feel it all tonight (tonight)
+We'll find a way to offer up the night tonight
+The indescribable moments of your life (tonight)
+The impossible is possible tonight (tonight)
+Believe in me as I believe in you
+
+
+Tonight...
+Tonight, tonight...
+Tonight...
+Tonight...

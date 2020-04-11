@@ -1,6 +1,6 @@
 ---
 artists:
-- Ke$ha
+- Kesha
 features:
 - 3OH!3
 genres: []

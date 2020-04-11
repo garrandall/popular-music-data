@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dance-by-the-light-of-the-moon-the-olympics
+lyrics_url: https://genius.com/The-olympics-dance-by-the-light-of-the-moon-lyrics
 name: Dance By The Light Of The Moon
 rankings:
 - end_date: '1960-12-11'
@@ -51,4 +52,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-20'
 ---
+Dance By The Light of The Moon
+The Olympics
+(Jimmy Eaton, Clif Goldsmith, Mickey Leader, Terry Shand, Fred Smith)
+& Alexander M. Courage, Public Domain Share PD
+Arvee Records # 5020
+Pop Chart #47 Dec 5, 1960
 
+Intro:
+Dance! Dance! Dance! Dance!
+
+Ask your mom and your daddy
+Can you go out tonight
+When the starts are bright
+Beneath the pale moonlight
+Ask your mom and your daddy
+Can you go out tonight
+We gonna dance by the light of the moon
+
+Ooh, by the light, by the light, of the silvery moon
+We gonna dance by the light of the moon
+By the light, by the light of the silvery moon
+We gonna dance (dance)
+
+I got a dollar in my pocket
+Gonna keep the juke a-rockin'
+Keep the juke a-rockin'
+'Till she wears out her stockin'
+Got a dollar in my pocket
+Gonna keep the juke a rockin'
+Dance by the light of the moon
+
+Ooh, by the light, by the light, of the silvery moon
+We gonna dance by the light of the moon
+From the light, from the light of the silvery moon
+We gonna dance (yeah)
+
+I'm gonna dance with my darlin'
+With a hole in her stockin'
+Knees keep a-rockin'
+Toes keep a-poppin'
+
+Gonna dance with my darlin'
+With a hold in her stockin'
+Dance by the light of the moon
+
+Ooh, by the light, by the light, of the silvery moon
+We gonna dance a-by the light of the moon
+By the light, by the light, of the silvery moon
+We gonna dance (yeah)
+
+Dance, dance, oh the silvery moon
+Dance, dance, oh the silvery moon
+
+(Yeah-Yea!)
+
+I'm gonna dance with my darlin' with the hole in her stockin'
+Knees keep a knockin'
+Toes keep a-poppin'
+Gonna dance with my darlin' with the hole in her stockin'
+Dance by the light of the moon
+
+Ooh, by the light
+(By the light, of the silvery moon)
+C'mon now, baby (yeah)
+By the light of the moon
+By the light, by the light, of the silvery moon
+We gonna dance
+(Yeah!)
+
+A-by the light
+(By the light, of the silvery moon)
+
+FADES-
+C'mon now, sugar (yeah)
+A-by the light of they moon
+A-by the light, by the light, of the silvery moon
+We gonna dance
+(Yeah)
+
+~

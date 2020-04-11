@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: again-lenny-kravitz
+lyrics_url: https://genius.com/Lenny-kravitz-again-lyrics
 name: Again
 rankings:
 - end_date: '2000-11-24'
@@ -135,4 +136,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-06-23'
 ---
+I've been searching for you
+I heard a cry within my soul
+I've never had a yearning quite like this before
+Know that you are walking right through my door
 
+
+All of my life
+Where have you been
+I wonder if I'll ever see you again?
+And if that day comes
+I know we could win
+I wonder if I'll ever see you again?
+
+
+A sacred gift of heaven
+For better worse, wherever
+And I would never let somebody break you down
+Until you cried, never
+
+
+All of my life
+Where have you been
+I wonder if I'll ever see you again?
+And if that day comes
+I know we could win
+I wonder if I'll ever see you again?
+
+
+At every time I've always known
+That you were there
+Upon your throne
+A lonely queen without her king
+I longed for you
+My love forever
+
+
+All of my life
+Where have you been
+I wonder if I'll ever see you again?
+And if that day comes
+I know we could win
+I wonder if I'll ever see you again?
+All of my life
+Where have you been
+I wonder if I'll ever see you again?
+And if that day comes
+I know we could win
+I wonder if I'll ever see you again?
+All of my life
+Where have you been
+I wonder if I'll ever see you again
+And if that day comes
+I know we could win
+I wonder if I'll ever see you again
+
+
+I wonder if I'll ever see you again
+I wonder if I'll ever see you again
+I wonder if I'll ever see you again
+I wonder if I'll ever see you again
+I wonder if I'll ever see you again
+I wonder if I'll ever see you again
+I wonder if I'll ever see you again

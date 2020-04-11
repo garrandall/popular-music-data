@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-fly-tony-terry
+lyrics_url: https://genius.com/Tony-terry-shes-fly-lyrics
 name: She's Fly
 rankings:
 - end_date: '1987-12-04'
@@ -43,4 +44,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
 ---
+She's fly and fresh
+She's fly and fresh
+She's def
+Truly def
 
+Hey
+You got me jumping
+You're beautiful body sure is thumping
+Hey I just want to talk to you
+But you keep digging me
+Like you got something else to do
+
+She's fly
+You're fly
+And fresh
+And fresh
+Girl is truly def
+Girl won't you be mine
+
+She's fly
+So fly
+And fresh
+And fresh
+She's def
+And I want to be your man
+
+Hey
+I didn't get your name
+You got your numbers all in the air
+Tell me what's your claim to fame
+Hey
+So you don't wanna listen
+Well I'm just super cool crushin' to start dissin'
+
+You walk around here with your butt on your back
+Tell me baby, what's up like that
+You have to drive off in a Cadillac
+Tell me, baby (sure you're right)
+What's up like that
+
+She's fly
+You're fly
+And fresh
+And fresh
+Girl is truly def
+Girl won't you be mine
+
+She's fly
+So fly
+And fresh
+That girl's the best
+And I want to be your man
+
+Girl, don't be shy
+'Cause I'm not your average guy
+Listen to me if you can
+'Cause I want to be your man
+
+She's fly
+You're fly
+And fresh
+That girl's the best
+
+She's fly
+You're fly
+And fresh
+That girl's the best

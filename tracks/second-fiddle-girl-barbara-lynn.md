@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: second-fiddle-girl-barbara-lynn
+lyrics_url: https://genius.com/Barbara-lynn-second-fiddle-girl-lyrics
 name: Second Fiddle Girl
 rankings:
 - end_date: '1962-09-28'
@@ -39,4 +40,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-11-10'
 ---
-
+Hey, hey, hey
+You've seen the world
+You went out with every girl
+But let me hip you
+I won't be your second fiddle girl
+All your letters
+You said you were true
+When I got back
+I heard the news
+So let me hip you
+I won't be your second fiddle girl
+Hey, hey, hey
+You know I love you
+Do anything you ask me to
+But in this case
+I won't be your second fiddle girl
+I packed your things
+Now there's the door
+Stay out of my life
+I don't want you no more
+So let me tell you that
+I won't be your second fiddle girl
+Hey, hey, hey
+You know I love you
+Do anything you ask me to
+But in this case
+I won't be your second fiddle girl
+I won't be your second fiddle girl
+I won't be your second fiddle girl
+I won't be your second fiddle girl...

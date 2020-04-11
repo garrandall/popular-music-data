@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happiness-is-me-and-you-gilbert-o-sullivan
+lyrics_url: https://genius.com/Gilbert-osullivan-happiness-is-me-and-you-lyrics
 name: Happiness Is Me And You
 rankings:
 - end_date: '1974-03-29'
@@ -35,4 +36,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-05-04'
 ---
+When the evening is over
+Put your head upon my shoulder
+And I'll tell you something
+I believe is true
+Happiness is me and you
 
+In a world so distorted
+Where the worst is best reported
+Love maybe something
+That will see us through
+Happiness is me and you
+
+There maybe girls that I'll remember
+That made me happy for a while
+But none of them compare with you my love
+However hard they they all may try
+
+If the bus that we're taking
+Has for ages kept us waiting
+What does it matter
+Even in a queue
+Happiness is me and you
+
+There may be days when you discover
+I'm not the man you think I am
+But through it all we will recover
+Without the aid of any plan
+
+When the weeks turn to hours
+And in June it's April showers
+I'll tell you something I believe is true
+Happiness is me and you
+Happiness is me and you
+Happiness is me and you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: roll-to-me-del-amitri
+lyrics_url: https://genius.com/Del-amitri-roll-to-me-lyrics
 name: Roll To Me
 rankings:
 - end_date: '1995-07-14'
@@ -151,4 +152,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-03-09'
 ---
+Look around your world pretty baby
+Is it everything you hoped it'd be
+The wrong guy, the wrong situation
+The right time to roll to me
+Roll to me
 
+Look into your heart pretty baby
+Is it aching with some nameless need
+Is there something wrong and you can't put your finger on it
+Right then, roll to me
+
+And I don't think I have ever seen a soul so in despair
+So if you want to talk the night through
+Guess who will be there?
+
+So don't try to deny it pretty baby
+You've been down so long you can hardly see
+When the engine's stalled and it won't stop raining
+It's the right time to roll to me
+Roll to me, Roll to me
+
+So Look around your world pretty baby
+Is it everything you hoped it'd be
+The wrong guy, the wrong situation
+The right time to roll to me
+The right time to roll to me
+The right time to roll to me
+OOOOOHHHHH

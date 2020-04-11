@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: friends-and-lovers-carl-anderson-gloria-loring
+lyrics_url: https://genius.com/Gloria-loring-and-carl-anderson-friends-and-lovers-lyrics
 name: Friends And Lovers
 rankings:
 - end_date: '1986-07-11'
@@ -92,4 +93,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-22'
 ---
+What would you think if I told you
+I've always wanted to hold you?
+I don't know what we're afraid of
+Nothing would change if we made love
 
+So I'll be your friend
+And I'll be your lover
+'Cause, I know in our hearts we agree
+We don't have to be one or the other
+
+Yes, it's a chance that we're taking
+And somebody's heart may be breaking
+But we can't stop what's inside us
+Our love for each other will guide us
+
+So I'll be your friend
+And I'll be your lover
+'Cause, I know in our hearts we agree
+We don't have to be one or the other
+
+I've been through you
+And you've been through me
+Sometimes a friend is the hardest to see
+We always know when it's laid on the line
+Nobody else is as easy to find
+
+So I'll be your friend
+And I'll be your lover
+Well, I know in our heart we agree
+We don't have to be one or the other
+Other

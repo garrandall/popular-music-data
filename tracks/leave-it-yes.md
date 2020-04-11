@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: leave-it-yes
+lyrics_url: https://genius.com/Yes-leave-it-lyrics
 name: Leave It
 rankings:
 - end_date: '1984-03-09'
@@ -67,4 +68,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-06-09'
 ---
+I can feel no sense of measure
+No illusions as we take
+Refuge in young man's pleasure
+Breaking down the dreams we make
+Real
 
+One down one to go
+Another town and one more show
+Downtown they're giving away
+But she never came back
+
+No phone can take your place
+You know what I mean
+We have the same intrigue
+As a court of kings
+
+Ah... leave it
+Ah... leave it
+
+Two down there you go
+MacArthur Park in the driving snow
+Uptown they're digging it out
+Better lay your claim
+
+Get home you're not alone
+You just broke out of the danger zone
+Be there to show your face
+On another dreamy day
+
+Ah... leave it
+Ah... leave it
+
+(Do do do...)
+
+(Ah...) Goodbye goodbye goodbye bad
+(...leave it) Hello hello heaven
+(Ah...) Goodbye goodbye goodbye bad
+(...leave it) Hello hello heaven
+
+I can feel no sense of measure
+No illusions as we take
+Refuge in young man's pleasure
+Breaking down the dreams we make
+Real
+
+Ah leave it
+Ah leave it
+
+(Ah...) Goodbye goodbye goodbye bad
+(...leave it) Hello hello heaven
+(Ah...) Goodbye goodbye goodbye bad
+(...leave it) Hello hello heaven
+
+(Ah...)
+One down one to go
+Another town and one more show
+(...leave it)
+(Ah...)
+One down one to go
+Another town and one more show
+Leave it!

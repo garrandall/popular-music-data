@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: white-lies-grin
+lyrics_url: https://genius.com/Grin-white-lies-lyrics
 name: White Lies
 rankings:
 - end_date: '1972-02-11'
@@ -31,4 +32,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-03-11'
 ---
+This ain't fair, but I fear
+I traveled here alone 'cause of you
+Think I may be daydreamin' baby but I know
+I know what I still don't mean to you
 
+While I try, while I try, while I try, don't start tellin'
+White lies, you better talk it over
+White lies, everywhere I go I'm hearin'
+White lies
+Tellin' everybody that I love you
+Tellin' everybody that I love you
+
+Ramble on, stars set and gone
+And I feel like I've been broken inside
+Tell me I'm wrong pretty lady
+But the strong part of me keeps on by your side
+
+While I try (come and listen baby)
+While I try (don't be mean)
+While I try (don't start tellin')
+
+White lies, you better talk it over
+White lies, everywhere I go I'm hearin'
+White lies
+
+Tellin' everybody that I love you
+Tellin' everybody that I love you
+
+While I try (don't be mean)
+While I try
+While I try (don't start tellin')
+
+White lies, you better talk it over
+White lies, everywhere I go I'm hearin'
+White lies
+
+Tellin' everybody that I love you
+Tellin' everybody that I love you

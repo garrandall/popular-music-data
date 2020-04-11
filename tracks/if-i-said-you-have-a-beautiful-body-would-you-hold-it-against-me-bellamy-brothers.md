@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-said-you-have-a-beautiful-body-would-you-hold-it-against-me-bellamy-brothers
+lyrics_url: https://genius.com/The-bellamy-brothers-if-i-said-you-have-a-beautiful-body-would-you-hold-it-against-me-lyrics
 name: If I Said You Have A Beautiful Body Would You Hold It Against Me
 rankings:
 - end_date: '1979-06-01'
@@ -51,4 +52,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-08-04'
 ---
+If I said you have a beautiful body
+Would you hold it against me?
+If I swore you were an angel
+Would you treat me like the devil tonight?
+If I was dying of thirst
+Would your flowing love come quench me?
+If I said you have a beautiful body
+Would you hold it against me?
 
+
+Now we could talk all night
+About the weather
+Could tell you about my friends
+Out on the coast
+I could ask a lot of crazy questions
+Or ask you what I really wanna know
+
+
+If I said you have a beautiful body
+Would you hold it against me?
+If I swore you were an angel
+Would you treat me like the devil tonight?
+If I was dying of thirst
+Would your flowing love come quench me?
+If I said you have a beautiful body
+Would you hold it against me?
+
+
+Now rain can fall so soft
+Against the window
+Sun can shine so bright
+Up in the sky
+But Daddy always told me
+"Don't make small talk"
+He said, "Come on out and say
+What's on your mind"
+
+
+So if I said you have a beautiful body
+Would you hold it against me?
+If I swore you were an angel
+Would you treat me like the devil tonight?
+If I was dying of thirst
+Would your flowing love come quench me?
+If I said you have a beautiful body
+Would you hold it against me?
+
+
+If I said you have a beautiful body
+Would you hold it against me?
+If I swore you were an angel
+Would you treat me like the devil tonight?

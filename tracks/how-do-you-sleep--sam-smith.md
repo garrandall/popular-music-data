@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-do-you-sleep--sam-smith
+lyrics_url: https://genius.com/Sam-smith-how-do-you-sleep-lyrics
 name: How Do You Sleep?
 rankings:
 - end_date: '2019-08-09'
@@ -87,4 +88,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-12-14'
 ---
+I'm done hatin' myself for feelin'
+I'm done cryin' myself awake
+I gotta leave and start the healin'
+But when you move like that, I just wanna stay
 
+
+What have I become now?
+Lookin' through your phone now
+Oh now, love to you is just a game
+Look what I have done now
+Dialling up the numbers on you
+I don't want my heart to break
+
+
+Baby, how do you sleep when you lie to me?
+All that shame and all that danger
+I'm hopin' that my love will keep you up tonight
+Baby, how do you sleep when you lie to me?
+All that fear and all that pressure
+I'm hopin' that my love will keep you up tonight
+
+
+(Tell me, how do you—)
+Love will keep you up tonight
+(Tell me, how do you—)
+
+
+Oh, no, how did I manage to lose me?
+I am not this desperate, not this crazy
+There's no way I'm stickin' 'round to find out
+I won't lose like that, I won't lose myself
+
+
+Look what I have done (Done)
+Diallin' up the numbers on you
+I don't want my heart to break
+
+
+Baby, how do you sleep when you lie to me?
+All that shame and all that danger
+I'm hopin' that my love will keep you up tonight
+Baby, how do you sleep when you lie to me?
+All that fear and all that pressure
+I'm hopin' that my love will keep you up tonight
+
+
+(Tell me how do you—)
+Yeah, yeah, yeah
+Love will keep you up tonight
+(Tell me how do you—)
+Oh, love will keep you up tonight
+
+
+Baby, how do you sleep when you lie to me?
+All that shame and all that danger
+I'm hopin' that my love will keep you up tonight
+Baby, how do you sleep when you lie to me? (Oh)
+All that fear and all that pressure (Oh)
+I'm hopin' that my love will keep you up tonight
+(Tell me how do you—)

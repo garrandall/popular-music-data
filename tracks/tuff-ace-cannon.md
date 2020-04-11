@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tuff-ace-cannon
+lyrics_url: https://genius.com/Ace-cannon-tuff-lyrics
 name: Tuff
 rankings:
 - end_date: '1962-01-05'
@@ -71,4 +72,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-04-14'
 ---
-
+When you say it's dead and gone, yes, I know you're wrong
+Cut and slash, sharpest knife, it won't die
+Poison cup, drank it up, it won't die
+No fire, no gun, no rope, no stone, it won't die
+Why you gotta shove it in my face?
+As if you put me in my place
+'Cause I don't care if you or me is wrong or right
+Ain't gonna spend another night in your bed, in your bed
+Laws of man, are just pretend, they ain't mine
+Love so good, love so bad, it won't die
+Some talk too long, they know it all, I just smile and move on
+Words ain't free like you and me, I don't mind
+Why'd you have to be so mean and cruel?
+The dogs are loose I'm on to you
+You ball and chained together from the dawn to dusk
+Can't call it leavin', 'cause it's just, I never came
+I never came, I never came, I never came
+I never came, I never came, I never came

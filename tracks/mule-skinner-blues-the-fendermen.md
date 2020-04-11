@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mule-skinner-blues-the-fendermen
+lyrics_url: https://genius.com/The-fendermen-mule-skinner-blues-lyrics
 name: Mule Skinner Blues
 rankings:
 - end_date: '1960-05-29'
@@ -79,4 +80,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-09-19'
 ---
+Well, good morning, Captain
+Well, good morning to you
+Do you need another mule skinner
+Down on your new mud run
+Ha, ha, hip, ee, ee...
 
+Well, I'm an old mule skinner
+From down Kentucky way
+And I can make any mule listen
+Or I won't accept your pay
+Ha, ha, ha, ha, ha
+Hee, hee, hee, hee, hee, ha, ha
+Well hey, hey
+
+Little water boy, come here boy
+Bring that water bucket around
+Ha, ha, ha
+If you don't like your job
+Water boy, put that bucket down
+Ha, ha, ha, ee, ee, ha, ha, ha
+
+Well, I'm an old mule skinner
+From down Kentucky way
+And I can make any mule listen
+Or I won't accept your pay
+Ha, ha, ha, ha, ha
+Hee, hee, hee, hee, hee, ha, ha
+Well hey, hey

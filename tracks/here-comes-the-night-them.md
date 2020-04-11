@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: here-comes-the-night-them
+lyrics_url: https://genius.com/Them-here-comes-the-night-lyrics
 name: Here Comes The Night
 rankings:
 - end_date: '1965-06-04'
@@ -47,4 +48,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
 ---
+Whoa, here it comes
+Here comes the night
+Here comes the night
+Whoa-whoa-whoa-yeah
 
+I could see right out my window
+Walkin' down the street, my girl
+With another guy
+
+His arm around her
+Like it used to be with me
+Whoa, it makes me want to die-i
+
+Yeah-yeah-yeah
+Well, here it comes
+Here comes the night
+Here comes the night
+Whoa-whoa-whoa-whoa-yeah
+
+There they go
+It's funny how they look so good together
+Wonder what is wrong with me?
+Why can't I, accept the fact she's chosen him
+And simply let them be?
+Whoa-whoa-whoa
+
+Well, here it comes
+Here comes the night
+Here comes the night
+Whoa-whoa-whoa-yeah
+
+She's with him
+He's turning down the lights
+And now he's holding her
+The way I used to do
+
+I could see, her closing her eyes
+And tellin' him lies
+Exactly like she told me, too
+Yeah-yeah-yeah
+
+Well, here it comes
+Here comes the night
+The long, the long and lonely night
+Night, night, night, night, night, night
+FADES-
+Whoa, here comes the night
+The long, the long, the long and lonely night

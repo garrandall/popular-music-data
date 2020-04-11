@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ram-bunk-shush-the-ventures
+lyrics_url: https://genius.com/The-ventures-ram-bunk-shush-lyrics
 name: Ram-Bunk-Shush
 rankings:
 - end_date: '1961-01-29'
@@ -43,4 +44,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-20'
 ---
-
+Instrumental

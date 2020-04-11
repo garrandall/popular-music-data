@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: white-on-white-danny-williams
+lyrics_url: https://genius.com/Danny-williams-white-on-white-lyrics
 name: White On White
 rankings:
 - end_date: '1964-03-13'
@@ -63,4 +64,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-06'
 ---
+White on white, lace on satin
+Blue velvet ribbons on her bouquet
+White on white, lace on satin
+My little angel is getting married today
 
+Here she comes in her wedding gown lookin' like a queen
+She has been my only love since she was thirteen
+I've been dreaming of this day and how proud I'd be
+When she came walkin' down the aisle and held out her hand to me
+
+White on white, lace on satin
+Blue velvet ribbons on her bouquet
+White on white, lace on satin
+My little angel is getting married today
+
+I'll be waiting to kiss the bride when her name is new
+Standing oh, so close to her silently saying "I do"
+I'll be holding back my tears till she's gone away
+Cause she'll belong to someone else when the organ starts to play
+
+White on white, lace on satin
+Blue velvet ribbons on her bouquet
+White on white, lace on satin
+My little angel is ge-e-etting ma-a-rried today

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-particular-place-to-go-chuck-berry
+lyrics_url: https://genius.com/Chuck-berry-no-particular-place-to-go-lyrics
 name: No Particular Place To Go
 rankings:
 - end_date: '1964-05-29'
@@ -51,4 +52,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-01'
 ---
+Ridin' along in my automobile
+My baby beside me at the wheel
+I stole a kiss at the turn of a mile
+My curiosity runnin' wild
+Cruisin' and playin' the radio
+With no particular place to go
 
+
+Ridin' along in my automobile
+I's anxious to tell her the way I feel
+So I told her softly and sincere
+And she leaned and whispered in my ear
+Cuddlin' more and drivin' slow
+With no particular place to go
+
+
+
+
+No particular place to go
+So we parked way out on the kokomo
+The night was young and the moon was bold
+So we both decided to take a stroll
+Can you imagine the way I felt?
+I couldn't unfasten her safety belt
+
+
+Ridin' along in my calaboose
+Still tryin' to get her belt aloose
+All the way home I held a grudge
+But the safety belt it wouldn't budge
+Cruisin' and playin' the radio
+With no particular place to go

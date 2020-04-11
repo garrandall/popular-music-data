@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-were-a-boy-beyonce
+lyrics_url: https://genius.com/Beyonce-if-i-were-a-boy-lyrics
 name: If I Were A Boy
 rankings:
 - end_date: '2008-10-31'
@@ -87,4 +88,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-03-07'
 ---
+If I were a boy
+Even just for a day
+I'd roll out of bed in the morning
+And throw on what I wanted then go
+Drink beer with the guys
+And chase after girls
+I'd kick it with who I wanted
+And I'd never get confronted for it
+'Cause they'd stick up for me
 
+
+If I were a boy
+I think I could understand
+How it feels to love a girl
+I swear I'd be a better man
+I'd listen to her
+'Cause I know how it hurts
+When you lose the one you wanted
+'Cause he's taken you for granted
+And everything you had got destroyed
+
+
+If I were a boy
+I would turn off my phone
+Tell everyone it's broken
+So they'd think that I was sleepin' alone
+I'd put myself first
+And make the rules as I go
+'Cause I'd know that she'd be faithful
+Waitin' for me to come home
+To come home
+
+
+If I were a boy
+I think I could understand
+How it feels to love a girl
+I swear I'd be a better man
+I'd listen to her
+'Cause I know how it hurts
+When you lose the one you wanted (Wanted)
+'Cause he's taken you for granted (Granted)
+And everything you had got destroyed
+
+
+It's a little too late for you to come back
+Say, it's just a mistake
+Think I'd forgive you like that
+If you thought I would wait for you
+You thought wrong
+
+
+But you're just a boy
+You don't understand
+(Yeah, you don't understand, oh)
+How it feels to love a girl
+Someday, you'll wish you were a better man
+You don't listen to her
+You don't care how it hurts
+Until you lose the one you wanted
+'Cause you've taken her for granted
+And everything you have got destroyed
+But you're just a boy...

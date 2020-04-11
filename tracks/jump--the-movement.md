@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jump--the-movement
+lyrics_url: https://genius.com/The-movement-la-jump-lyrics
 name: Jump!
 rankings:
 - end_date: '1992-08-14'
@@ -87,4 +88,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-12-19'
 ---
+Aww yeah
+We are to make you jump
+Only for the hardcore
+Simply for the headstrong
+Are you ready?
+5, 4, 3, You know the rest
 
+
+Jump everybody
+Jump everybody
+Jump!
+
+Jump everybody
+Jump everybody
+Jump!
+
+Jump everybody
+Jump everybody
+Jump!
+
+Jump everybody, jump!
+Jump everybody, jump!
+Jump everybody, jump!
+
+Jump everybody
+Jump everybody
+Jump!
+
+Jump! jump! jump! jump!
+Jump! jump! jump! jump!
+Jump! jump! jump! jump!
+Jump! jump! jump! jump!
+Jump! jump! jump! jump!
+
+
+That's some serious jumpin'
+
+Boom boom, mommy mommy
+Boom boom, mommy mommy
+Boom boom, mommy mommy
+Boom boom, mommy mommy
+
+Are you ready!
+
+
+Jump everybody
+Jump everybody
+Yeah!
+Jump everybody
+Jump everybody
+Yeah!
+
+Jump everybody
+Jump everybody
+Yeah!
+
+Jump everybody
+Jump everybody
+
+Jump everybody, jump!
+Jump everybody, jump!
+Jump everybody, jump!
+
+Jump everybody
+Jump everybody
+Jump!
+
+Jump! jump! jump! jump!
+Jump! jump! jump! jump!
+Jump! jump! jump! jump!
+Jump! jump! jump! jump!
+Jump! jump! jump! jump!

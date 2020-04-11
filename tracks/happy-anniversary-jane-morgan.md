@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: happy-anniversary-jane-morgan
+lyrics_url: https://genius.com/Jane-morgan-happy-anniversary-lyrics
 name: Happy Anniversary
 rankings:
 - end_date: '1959-11-15'
@@ -43,4 +44,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-04'
 ---
-
+Here's to you
+Here's to me
+Here's to a happy anniversary
+Here's to days gone by
+And those that are to be
+Oh, here's to a happy anniversary
+And if I have my way
+One day a long time from now
+I'll say
+Here's to you
+And here's to me
+And here's to a happy anniversary
+And if I have my way
+One day a long time from now
+I'll say
+Here's to you
+Here's to me
+And here's to a very happy anniversary

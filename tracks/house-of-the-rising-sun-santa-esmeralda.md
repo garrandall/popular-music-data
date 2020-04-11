@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: house-of-the-rising-sun-santa-esmeralda
+lyrics_url: https://genius.com/Santa-esmeralda-house-of-the-rising-sun-lyrics
 name: House Of The Rising Sun
 rankings:
 - end_date: '1978-04-07'
@@ -19,4 +20,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-04-15'
 ---
+There is a house in New Orleans
+They call the Rising Sun
+And it's been the ruin of many a poor boy
+And, God, I know I'm one
 
+My mother was a tailor
+She sewed my new blue jeans
+My father, he was a gamblin' man
+Way down in New Orleans
+
+There is a house in New Orleans
+They call the Rising Sun
+And it's been the ruin of many a poor boy
+And, God, I know I'm one
+
+My mother was a tailor
+She sewed my new blue jeans
+My father, he was a gamblin' man
+Way down in New Orleans
+
+Oh, mother, tell your children
+Not to do what I have done
+Don't spend your life in sheer misery
+In the House of the Rising Sun
+
+Don't spend your life
+In the House of the Rising Sun
+Don't, don't, don't spend your life
+In the House of the Rising Sun

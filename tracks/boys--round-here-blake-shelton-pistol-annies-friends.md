@@ -6,6 +6,7 @@ features:
 - Friends
 genres: []
 key: boys--round-here-blake-shelton-pistol-annies-friends
+lyrics_url: https://www.musixmatch.com/lyrics/Blake-Shelton-feat-Pistol-Annies-Friends/Boys-Round-Here
 name: Boys 'round Here
 rankings:
 - end_date: '2013-04-19'
@@ -93,4 +94,89 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-08-31'
 ---
+Well the boys 'round here don't listen to The Beatles
+Run ole Bocephus through a jukebox needle
+At a honky-tonk, where their boots stomp
+All night; what? (that's right)
+Yeah, and what they call work, digging in the dirt
+Gotta get it in the ground 'fore the rain come down
+To get paid, to get the girl
+In your four wheel drive (a country boy can survive)
 
+Yea the boys 'round here
+Drinking that ice cold beer
+Talkin' 'bout girls, talkin' 'bout trucks
+Runnin' them red dirt roads out, kicking up dust
+The boys 'round here
+Sending up a prayer to the man upstairs
+Backwoods legit, don't take no shi-
+Chew tobacco, chew tobacco, chew tobacco, spit
+
+Aw heck
+Red red, red, red, red, red, redneck
+
+Well the boys 'round here, they're keeping it country
+Ain't a damn one know how to do the dougie
+(You don't do the dougie?) no, not in Kentucky
+But these girls 'round here yep, they still love me
+Yeah, the girls 'round here, they all deserve a whistle
+Shakin' that sugar, sweet as Dixie crystal
+They like that y'all and southern drawl
+And just can't help it cause they just keep fallin'
+
+For the boys 'round here
+Drinking that ice cold beer
+Talkin' 'bout girls, talkin' 'bout trucks
+Runnin' them red dirt roads out, kicking up dust
+The boys 'round here
+Sending up a prayer to the man upstairs
+Backwoods legit, don't take no shi-
+Chew tobacco, chew tobacco, chew tobacco, spit
+
+(Ooh... let's ride) to the country side
+(Ooh, let's ride)
+Down to the river side
+
+Hey now girl, hop inside, (ooh... let's ride)
+Me and you gonna take a little ride to the river
+Let's ride (that's right)
+Lay a blanket on the ground
+Kissing and the crickets is the only sound
+
+We out of town
+Have you ever got down with a...
+Red red, red, red, red, red, redneck?
+And do you wanna get down with a...
+Red red, red, red, red, red, redneck?
+Girl you gotta get down
+
+With the boys 'round here
+Drinking that ice cold beer
+Talkin' 'bout girls, talkin' 'bout trucks
+Runnin' them red dirt roads out, kicking up dust
+The boys 'round here
+Sending up a prayer to the man upstairs
+Backwoods legit, don't take no shi-
+Chew tobacco, chew tobacco, chew tobacco, spit
+
+(Ooh, let's ride)
+Red red, red, red, red, red, redneck
+(Ooh, let's ride)
+I'm one of them boys 'round here
+(Ooh, let's ride)
+Red, red, red, red, red, red, redneck
+(Ooh, let's ride)
+
+Well all I'm thinkin' 'bout is you and me, how we'll be
+(Ooh, let's ride)
+So come on girl, hop inside
+Me and you, we're gonna take a little ride
+Lay a blanket on the ground
+Kissing and the crickets is the only sound
+We out of town (ooh, let's ride)
+(Ooh, let's ride)
+Girl you gotta get down with a...
+(Ooh, let's ride, ooh, let's ride)
+Come on through the country side
+(Ooh, les't ride)
+Down to the river side

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: well-i-m-your-man-johnny-tillotson
+lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Tillotson/Well-I-m-Your-Man
 name: Well I'm Your Man
 rankings:
 - end_date: '1958-10-12'
@@ -19,4 +20,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-10-20'
 ---
+Rocking queen with eyes of blue
+Looking for a love that's true
+A boy to kiss and hold your hand
+Oh believe me girl, well I'm your man
+Well I'm your man
 
+Tight blue jeans that fit so snug
+You're the girl I wanna hug
+And I'm the boy who thinks you're grand
+Oh believe me girl, well I'm your man
+Well I'm your man
+
+Well, everything you say and do
+Suits me to a T
+And I'd be very set for life
+You'd go steady with me
+
+Well rocking queen, my heart's a-whirl
+Won't you be my steady girl
+No one loves you like I can
+And believe me girl, well I'm your man
+Well I'm your man
+
+Well, now everything you say and do
+Suits me to a T
+And I'd be very set for life
+You'd go steady with me
+
+Well rocking queen, my heart's a-whirl
+Won't you be my steady girl
+No one loves you like I can
+And believe me girl, well I'm your man
+Well I'm your man
+Well I'm your man
+Well...

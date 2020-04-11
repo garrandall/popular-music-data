@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: human-tommy-hunt
+lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Hunt/Human
 name: Human
 rankings:
 - end_date: '1961-09-10'
@@ -47,4 +48,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
 ---
+Oh lord
+Why did you make me (human) human
+I've gotta laugh
+I've gotta cry
+I've got to live whoa
+I've got to die (human)
 
+And oh lord
+Why why did you make me human
+I've got the best girl in the world
+But make her understand that I'm only a man
+Human
+
+When I made the tears fall from her eyes
+Forgive me 'cause I apologize
+Oh and when I break her heart and tear it all apart
+Forgive me I'm only human
+
+And oh lord
+Why why did you make me (human) human
+I've gotta work every day
+So little love so little pay
+
+And I'm just human
+Mmm I'm just human

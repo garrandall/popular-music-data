@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: look-for-a-star-deane-hawley
+lyrics_url: https://genius.com/Deane-hawley-look-for-a-star-lyrics
 name: Look For A Star
 rankings:
 - end_date: '1960-06-26'
@@ -51,4 +52,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-29'
 ---
+When life doesn't seem worth the living
+And you don't really care who you are
+When you feel there is no one beside you
+Look for a star
 
+When you know you're alone and so lonely
+And your friends have traveled afar
+There is someone waiting to guide you
+Look for a star
+
+Oh everyone has a lucky star
+That shines in the sky up above
+If you wish on a lucky star
+You're sure to find someone to love
+
+A rich man man, a poor man, a beggar
+No matter whoever you are
+There's a friend whos waiting to guide you
+Look for a star
+
+A rich man, a poor man, a beggar
+No matter whoever you are
+There's a friend whos waiting to guide you
+Look for a star

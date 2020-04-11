@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tender-kisses-tracie-spencer
+lyrics_url: https://genius.com/Tracie-spencer-tender-kisses-lyrics
 name: Tender Kisses
 rankings:
 - end_date: '1991-10-25'
@@ -87,4 +88,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-02-29'
 ---
+I'm so confused
+And I think I'm gonna cry tonight
+What must I do, babe?
+You don't know what you mean, oh
+Tell me something
+Tell me could this really be
 
+You're so unpredictable
+Why must you treat me this way?
+I want you to love me
+For who I am
+
+
+Whatever happened to the dream
+We used to share?
+Where did our love go?
+Boy, don't you even care?
+
+
+Tender kisses
+Blown away
+Tender kisses
+Gone tomorrow, gone today
+Tender kisses
+Bye baby, bye baby
+
+
+Don't leave
+Leave me here all alone
+I want someone I can call my own
+I may be young
+But I'm ready
+Ready to fall in love
+
+Im so confused
+You're so unpredictable
+Trust in me
+As I trust in you
+Put our hearts together
+There's nothing we can't do
+
+
+
+
+
+
+I wonder if you ever loved me
+Tell me, was I so blind
+That I could not see
+
+Holding on to the memories
+Of the way you used to kiss me
+All I ever really wanted
+Was someone to call my own
+
+I'll never know
+You'll never know
+We'll never know
+All those tender kisses blown away
+
+Bye baby, bye

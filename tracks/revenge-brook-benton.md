@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: revenge-brook-benton
+lyrics_url: https://genius.com/Brook-benton-revenge-lyrics
 name: Revenge
 rankings:
 - end_date: '1961-11-26'
@@ -47,4 +48,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-01-27'
 ---
+You keep looking at me
+While you dance in another's arms
+And you pretend to be
+So enchanted with all his charms
 
+Revenge, revenge
+Is that all you want?
+Well, you've had your revenge
+Now come back to my arms
+
+You keep telling your friends
+Only heartaches I gave to you
+And you hope in the end
+That my heart will be crying, too
+
+Revenge, revenge
+Is that all you want?
+Well, you've had your revenge
+Now come back to my arms
+
+Maybe you want me
+To get down on my knees to you
+Well, I'll do it gladly, darling
+If that's what pleases you
+
+But you got to tell me tonight
+You'll give our love a brand-new start
+For you've had your delight
+With just tearing my heart apart
+
+Revenge, revenge
+Is that all you want?
+Well, you've had your revenge
+Now come on back to my arms
+
+I'm waiting, revenge, revenge
+Is that all you want?
+Well, you've had your revenge
+Now come back to my arms
+
+Revenge, revenge
+Is that all you want?
+Well, you've had your revenge
+Now come back to my arms

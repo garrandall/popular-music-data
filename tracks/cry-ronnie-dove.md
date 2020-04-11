@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cry-ronnie-dove
+lyrics_url: https://www.musixmatch.com/lyrics/Ronnie-Dove/Cry
 name: Cry
 rankings:
 - end_date: '1966-12-02'
@@ -43,4 +44,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
 ---
+(Cry, cry, cry)
 
+If your sweetheart
+Sends a letter of goodbye
+It's no secret, you'll
+Feel better if you cry
+
+When waking from a bad dream
+Don't you sometimes think it's real
+But it's only false emotions
+That you feel
+
+If your heartaches seem
+To hang around too long
+And your blues keep
+Getting bluer with each song
+
+Remember, sunshine can be
+Found behind a cloudy sky
+So let your hair down
+And go on and cry
+
+If your heartaches seem
+To hang around too long
+And your blues keep
+Getting bluer with each song
+
+Remember, sunshine can be
+Found behind a cloudy sky
+So let your hair down and
+Go right on, baby, and cry
+(Cry, cry)

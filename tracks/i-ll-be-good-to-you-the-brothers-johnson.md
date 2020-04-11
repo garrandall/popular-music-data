@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-be-good-to-you-the-brothers-johnson
+lyrics_url: https://genius.com/The-brothers-johnson-ill-be-good-to-you-lyrics
 name: I'll Be Good To You
 rankings:
 - end_date: '1976-05-07'
@@ -75,4 +76,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-21'
 ---
+I want to know
+Just how you feel
+Said-a I want to know
+If what you feel is real
 
+'Cause there is a reason, yeah
+For the things that I say
+I want to love you, girl
+In a special way
+
+We've been together
+For so very long
+I would hate to break up
+Break up our happy home
+
+The way we stand and the way we lie
+The way we love and the way we cry
+Of all these things there lies a tie
+Makes me feel that it's worth a try
+I'll be good to you
+
+Good to you, good to you, good to you
+I'll be good to you, good to you, good to you
+I'll be good to you, good to you, good to you
+I'll be good to you, good to you
+
+'Cause there is a reason
+For the things that I say
+I wanna love you, girl
+In a special way
+
+We've been together
+For so very long
+I would hate to break up
+Break up our happy home
+
+Take a step now, and let me know how
+All of your ways, girl
+And all your know-hows
+I'll be good to you
+
+Good to you, good to you, good to you
+I'll be good to you, good to you, good to you
+I'll be good to you, good to you, good to you
+I'll be good to you, good to you
+
+Good to you, good to you, good to you
+I'll be good to you, good to you, good to you
+I'll be good to you, good to you, good to you
+I'll be good to you, good to you
+
+Good to you, good to you, good to you
+I'll be good to you, good to you, good to you
+I'll be good to you, good to you, good to you
+I'll be good to you, good to you
+
+Good to you, good to you, good to you
+I'll be good to you, good to you, good to you
+I'll be good to you, good to you, good to you
+I'll be good to you, good to you
+
+Good to you, good to you, good to you
+I'll be good to you, good to you, good to you
+I'll be good to you, good to you, good to you
+I'll be good to you, good to you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: maybe-tomorrow-the-iveys
+lyrics_url: https://genius.com/The-iveys-maybe-tomorrow-lyrics
 name: Maybe Tomorrow
 rankings:
 - end_date: '1969-02-21'
@@ -31,4 +32,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-22'
 ---
+Listen to a lonely sound
+See the gray and sadness all around
+See the people go their way
+Care not of me and love I've lost today
 
+Maybe tomorrow, I will love again
+I'll never know until I looked into her eyes
+Maybe tomorrow, I will love again
+I'll never know until I've seen her once or twice
+
+And so I'm living for a dream
+Each lonely day spent looking for the sunshine
+I make believe that I don't care
+I tell my friends I love my life I'm happy
+
+Maybe tomorrow, I will love again
+I'll never know until I looked into her eyes
+Maybe tomorrow, I will love again
+I'll never know until I've seen her once or twice
+
+Wherever, whoever you may be
+Let the light of your love
+
+Shine through the window of my heart
+Then when you've colored all thoughts bright
+Don't let me ever, ever thing of night, no-oo yeah
+
+Maybe tomorrow, you will love again
+I'll never know until I look into her eyes
+Maybe, tomorrow, you will love again
+I'll never know until I've seen her once or twice
+
+Maybe tomorrow, you will love again
+Maybe tomorrow, I will love!

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ooh-child-dino
+lyrics_url: https://genius.com/Dino-dean-esposito-ooh-child-lyrics
 name: Ooh Child
 rankings:
 - end_date: '1993-07-16'
@@ -87,4 +88,94 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-11-20'
 ---
+Don't you worry bout a thing
+Oh, no, no
 
+Ooh, child
+Things are gonna get easier
+Ooh, child
+Things'll get brighter
+
+Ooh, child
+Things are gonna get easier
+Ooh, child
+Things'll get brighter
+
+Some day, yeah
+We'll put it together
+And we'll get it undone
+Some day when your head
+Is much lighter
+
+Some day, yeah
+We'll walk in the
+Rays of a beautiful sun
+Some day when the world
+Is much brighter
+
+Ooh, child
+Things are gonna be easier
+Ooh, child
+Things'll be brighter
+
+Ooh, child
+Things are gonna be easier
+Ooh, child
+Things'll be brighter
+
+Some day, yeah
+We'll put it together
+And we'll get it undone
+Some day when your head
+Is much lighter
+
+Some day, yeah
+We'll walk in the
+Rays of a beautiful sun
+Some day when the world
+Is much brighter
+
+La la la la la...
+
+Some day (some day)
+We'll put it together
+And we'll get it undone
+Some day when your head
+Is much lighter
+
+Some day (some day)
+We'll walk in the
+Rays of a beautiful sun
+Some day when the world
+Is much brighter, oh, oh
+
+Don't you worry about a thing
+Cause life goes up and down
+You gotta keep moving on
+
+Ooh, child
+Things are gonna get easier
+Ooh, child
+Things'll get brighter
+
+Ooh, child
+Things are gonna get easier
+Ooh, child
+Things'll get brighter
+Oh, right now
+
+(Oh, yeah) right now
+(Right now) oh, baby
+You just wait and see
+Things are gonna be
+You just wait and see
+Things are gonna be
+
+All right, yeah
+All right, yeah, yeah
+
+Baby, open your soul now
+Baby, don't you let go now
+No, no, no, baby
+You've got to give it
+Just a little more time

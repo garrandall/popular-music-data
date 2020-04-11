@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: you-re-the-love-seals-crofts
+lyrics_url: https://genius.com/Seals-and-crofts-youre-the-love-lyrics
 name: You're The Love
 rankings:
 - end_date: '1978-04-21'
@@ -72,4 +73,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-07-29'
 ---
+From the albums TAKIN' IT EASY (1978) and THE SEALS & CROFTS COLLECTION (1979)
 
+Well love, you came to my rescue. I knew the moment I met you
+Lonely and I was cryin'. Hurtin', I felt like dyin'
+
+Oooo. You're the love, you're the love in my heart and soul
+You're the dream, you're the dream, you're the dream in my life
+You're the way, you're the way, you're the way that my feelings flow
+Oh, my love loves you, girl. You, ah ah. You, girl, girl. You
+
+Showed me that I was someone. Gave me the strength to go on
+Now that I'm flyin' and free. Thank you for what you gave me
+
+Oooo. You're the love, you're the love in my heart and soul
+You're the dream, you're the dream, you're the dream in my life
+You're the way, you're the way, you're the way that my feelings flow
+Oh, my love loves you, girl. You, ah ah. You, girl, girl. You

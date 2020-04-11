@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-leavin--elvis-presley
+lyrics_url: https://genius.com/Elvis-presley-im-leavin-lyrics
 name: I'm Leavin'
 rankings:
 - end_date: '1971-07-16'
@@ -43,4 +44,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
 ---
+La la la la la la la la la la la la la
+La la la la la la la la la la la la la
+La la la la la la la la la la la la la
+La la la la la la la la la la la la la
 
+
+Oh well I know
+If I'd arrived in time to know you
+If you had taken the time to show me
+I wouldn't be lonely
+
+
+Where will I go
+Who will I have to lie beside me
+To ease this emptiness inside me
+I'm so lonely
+
+
+Tried so hard each time, each time I just can't make it
+Feelin' fast vibrations and I just can't take it
+Living from day to day, chasing the dream
+I'm, I'm leavin'
+
+La la la la la la la la la la la la la
+La la la la la la la la la la la la la
+
+
+Tried so hard each time, each time I just can't make it
+Feelin' fast vibrations and I just can't take it
+Living from day to day, chasing the dream
+I'm, I'm leavin'
+
+La la la la la la la la la la la la la
+La la la la la la la la la la la la la
+La la la la la la la la la la la la la
+La la la la la la la la la la la la la
+I'm, I'm leavin'
+
+La la la la la la la la la la la la la
+La la la la la la la la la la la la la
+La la la la la la la la la la la la la
+La la la la la la la la la la la la la

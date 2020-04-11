@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-ve-been-my-inspiration-the-main-ingredient
+lyrics_url: https://genius.com/The-main-ingredient-youve-been-my-inspiration-lyrics
 name: You've Been My Inspiration
 rankings:
 - end_date: '1970-07-03'
@@ -43,4 +44,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-22'
 ---
+Prettier than all the world
+And I'm so proud (I'm so proud)
+I'm so proud of you
 
+You're only one fellow's girl
+And I'm so proud (I'm so proud)
+Believe me, I love you too
+
+I'm so proud of being loved by you
+And it would hurt, hurt to know
+If you ever were untrue
+
+Sweeter than the taste of a cherry so sweet
+And I'm so proud (I'm so proud)
+I'm so proud of you
+
+Compliments to you from all the people we meet
+Yes, and I'm so proud (I'm so proud)
+Believe me, I love you too
+
+I'm so proud of being loved by you
+I'm so proud of being loved by you
+And it would hurt, hurt to know
+If you ever were untrue
+
+Sweeter than the taste of a cherry so sweet
+And I'm so proud (I'm so proud)
+I'm so proud of you
+
+Compliments to you from all the people we meet
+Yes, and I'm so proud (I'm so proud)
+Believe me, I love you too

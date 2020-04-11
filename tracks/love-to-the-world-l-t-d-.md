@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-to-the-world-l-t-d-
+lyrics_url: https://genius.com/Ltd-love-to-the-world-prayer-lyrics
 name: Love To The World
 rankings:
 - end_date: '1977-02-04'
@@ -19,4 +20,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-12'
 ---
-
+Love to the World
+Here I pray to the God in Heaven
+Deliver Us from Evil
+Praise the Lord

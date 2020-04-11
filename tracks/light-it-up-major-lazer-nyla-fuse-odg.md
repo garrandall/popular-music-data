@@ -6,6 +6,7 @@ features:
 - Fuse ODG
 genres: []
 key: light-it-up-major-lazer-nyla-fuse-odg
+lyrics_url: https://genius.com/Major-lazer-light-it-up-remix-lyrics
 name: Light It Up
 rankings:
 - end_date: '2016-04-08'
@@ -89,4 +90,74 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-08-13'
 ---
+Danger them is, while some call them "Major Lazer"
 
+
+Stand up like a solider, baby
+Yeah, I know you're built like that
+Gun it like a holster, baby
+Show dem say you're wicked like that
+We live where the war is raging
+Chasing our crazy dreams
+Hoping that the bridge won't cave in
+Tonight we let it all go free
+
+
+Gimme the ting and make me rock in a dance
+Gimme the ting and make me rock in a dance
+Mash it up, hot step in a dance
+Gimme the ting and make me rock, rock, rock, rock
+Gimme the ting and make me rock in a dance
+Gimme the ting and make me rock in a dance
+Mash it up, hot step in a dance
+Gimme the ting and make me
+
+
+Light it up!
+Light it up!
+Light it up!
+(Light it up, light it up)
+
+
+Show them you're flame to the fire
+It's written like your name on a flyer
+They wanna tame your desire
+But you light it up, now your aims getting higher
+I dey wait for messiah
+But until that day I'mma rise up high
+I put my light in the air
+I wanna see everywhere
+
+
+1 by 1, let me see you
+2 by 2 for the sequel
+3 by 3 for my people
+I know say I'm bound to be next like my neighbour, ye
+1 by 1, let me see you
+2 by 2 for the sequel
+3 by 3 for my people
+1, 2, 3, everybody go!
+
+
+Light it up!
+Light it up, light it up!
+Light it up!
+Light it up!
+
+
+1 by 1, let me see you
+2 by 2 for the sequel
+3 by 3 for my people
+I know say I'm bound to be next like my neighbour, ye
+1 by 1, let me see you
+2 by 2 for the sequel
+3 by 3 for my people
+Set it ablaze
+
+
+Light it up!
+
+
+Set it ablze like a candle wick
+Hotter, hotter, hotter, hotter
+Yeah, light it up

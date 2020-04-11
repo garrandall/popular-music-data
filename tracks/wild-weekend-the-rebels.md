@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wild-weekend-the-rebels
+lyrics_url: https://genius.com/The-rockin-rebels-wild-weekend-lyrics
 name: Wild Weekend
 rankings:
 - end_date: '1963-01-04'
@@ -75,4 +76,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-04-20'
 ---
-
+Pd... Musik: Russ Hallett; Aldo Brozzetti; and Jack Sinchaski ℗1963 ...Pd
+Pd... ®ReRec1963; Us Ht#8 ...Pd
+Pd...  ...Pd
+...Pd...

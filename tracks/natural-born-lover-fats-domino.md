@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: natural-born-lover-fats-domino
+lyrics_url: https://genius.com/Fats-domino-natural-born-lover-lyrics
 name: Natural Born Lover
 rankings:
 - end_date: '1960-11-06'
@@ -43,4 +44,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-26'
 ---
+I've done got over, yes I've done got over at last
+I've done got over, yes I've done got over at last
 
+I'm a natural born lover since I got rid of all my trav'lin
+Yes I've done got over at last
+
+No more crying, no more sighing, no more walking the floor over you
+No more crying, no more signing, no more walking the floor over you
+I'm a natural born lover, since I got rid of all my trav'lin
+Yes I've done got over at last

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: most-people-get-married-patti-page
+lyrics_url: https://www.musixmatch.com/lyrics/Patti-Page/Most-People-Get-Married
 name: Most People Get Married
 rankings:
 - end_date: '1962-04-27'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-09'
 ---
+When the kisses get so long that you can't catch your breath
+And the huggin' gets so strong that it's gotcha scared to death
+Most people get married (married)
+That's what they do-o-o
+Most people get married (married)
+And that's what I wanna do with you
 
+When you only wanna walk (let's walk) together
+Only wanna talk (let's talk) together
+Only wanna touch (let's touch) too much
+You never wanna say "Good night"
+
+Most people get married (married)
+That's what they do-o-o
+I-I-I wanna get married (married)
+An' I only wanna do it to you
+
+When you light up like a flame each time your baby calls
+
+And the way he says your name has gotcha climbin' walls
+Most people get married (married)
+That's what they do-o-o
+Most people get married (married)
+And that's what I wanna do with you
+
+When you're feelin' in your heart (doo-wop), what I feel
+Reelin' in your heart (doo-wop) like I reel
+An' you wanna shout (you shout) "Look out,
+Somethin's gotta give tonight"
+
+Most people get married (married)
+That's what they do-o-o
+I-I-I wanna get married (married)
+An' I only wanna do it to you
+
+I-I-I wanna get married
+An' I hope you wanna do it, too

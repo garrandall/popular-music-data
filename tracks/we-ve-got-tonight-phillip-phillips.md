@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-ve-got-tonight-phillip-phillips
+lyrics_url: https://genius.com/Phillip-phillips-weve-got-tonight-lyrics
 name: We've Got Tonight
 rankings:
 - end_date: '2012-06-15'
@@ -11,4 +12,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-06-09'
 ---
+I know it's late, I know you're weary
+I know your plans don't include me
+Still here we are, both of us lonely
+Longing for shelter from all that we see
+Why should we worry, no one will care girl
+Look at the stars so far away
+We've got tonight, who needs tomorrow?
+We've got tonight babe
+Why don' you stay?
+Deep in my soul
+I've been so lonely
+All of my hopes, fading away
+I've longed for love, like everyone else does
+I know I'll keep searching, even after today
+So there it is girl, I've said it all now
 
+And here we are babe, what do you say?
+We've got tonight, who needs tomorrow?
+We've got tonight babe
+Why don't you stay?
+I know it's late, I know you're weary
+I know your plans don't include me
+Still here we are, both of us lonely
+Both of us lonely
+We've got tonight, who needs tomorrow?
+Let's make it last, let's find a way
+Turn out the light, come take my hand now
+We've got tonight babe
+Why don't you stay?
+Why don't you stay?

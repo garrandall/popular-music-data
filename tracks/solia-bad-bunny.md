@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: solia-bad-bunny
+lyrics_url: https://genius.com/Bad-bunny-solia-lyrics
 name: Solia
 rankings:
 - end_date: '2020-03-20'
@@ -11,3 +12,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
 ---
+Llegó soliá, salió sin la' amiga'
+Revelá', en el alcohol buscando una salida
+De esa relación de mentira
+Mami, ya vi cómo me miras
+Te lo repito por si se te olvida
+Envíale un mensaje que diga
+
+
+Que no te deje sola
+Porque puede perderte
+Si algún día vuelve a verte
+De mi parte le dice' que no te deje sola
+Porque puede perderte
+Si algún día vuelve a verte
+Eh, eh, eh, eh
+
+
+Eh, eh-eh
+Oh-oh-oh-oh
+Eh, eh-eh
+Oh-oh-oh-oh
+Eh, eh-eh
+Oh-oh-oh-oh
+Eh, eh-eh
+Oh-oh-oh-oh
+
+
+Hoy quiere bailar la noche entera, eh
+Está casi soltera
+No le presento a nadie, eso le da flojera
+Total, al final de la noche ella tiene lo que quiera
+La luna ya le indicó
+Subió algo pa'l story, alguien se picó
+Sonó su canción y se la dedicó
+Dice que quiere hacerlo conmigo rico, eh
+Que lo' cristale' se empañen
+La nena está grande, como pa' que alguien la regañe
+La noche no le dañe, eh
+Que la Kardashian ya no está pa' Kanye
+Han sido mucha' decepcione', eh
+Mentira' de to' esto' cabrone', eh
+Una ve' má' le fallaron
+Daría una oportunida', pero se le acabaron
+
+
+Llegó soliá, salió sin la' amiga'
+Revelá', en el alcohol buscando una salida
+De esa relación de mentira
+Mami, ya vi cómo me miras
+Te lo repito por si se te olvida
+Envíale un mensaje que diga
+
+
+Que no te deje sola
+Porque puede perderte
+Si algún día vuelve a verte
+De mi parte le dice' que no te deje sola
+Porque puede perderte
+Si algún día vuelve a verte

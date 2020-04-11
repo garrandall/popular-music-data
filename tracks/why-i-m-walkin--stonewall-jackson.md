@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-i-m-walkin--stonewall-jackson
+lyrics_url: https://genius.com/Stonewall-jackson-why-im-walkin-lyrics
 name: Why I'm Walkin'
 rankings:
 - end_date: '1960-04-03'
@@ -19,4 +20,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-11'
 ---
+I've got my angel on my mind that's why I'm walkin'
+There's such an ache in this old heart now I ain't talkin'
+The little hand that held mine tight just waved goodbye tonight
+I've got her sweet love on my mind that's why I'm walkin'
+With an old love on your mind life's not worth livin'
+I breathe her name with every breath I'm breathin'
+Why could I never see how much she meant to me
+I've got her sweet love on my mind that's why I'm walkin'
 
+With an old love on your mind...
+I've got my angel on my mind that's why I'm walkin'

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-like-mondays-the-boomtown-rats
+lyrics_url: https://genius.com/The-boomtown-rats-i-dont-like-mondays-lyrics
 name: I Don't Like Mondays
 rankings:
 - end_date: '1980-02-08'
@@ -27,4 +28,85 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-01'
 ---
+The silicon chip inside her head
+Gets switched to overload
+And nobody's gonna go to school today
+She's gonna make them stay at home
+And daddy doesn't understand it
+He always said she was good as gold
+And he can see no reasons
+'Cause there are no reasons
+What reason do you need to be shown?
 
+
+Tell me why
+I don't like Mondays
+Tell me why
+I don't like Mondays
+Tell me why
+I don't like Mondays
+I wanna shoot the whole day down
+
+
+The Telex machine is kept so clean
+And it types to a waiting world
+And mother feels so shocked
+Father's world is rocked
+And their thoughts turn to their own little girl
+Sweet 16 ain't that peachy keen
+Now that ain't so neat to admit defeat
+They can see no reasons
+'Cause there are no reasons
+What reasons do you need?
+Oh oh oh whoa whoa
+
+
+Tell me why
+I don't like Mondays
+Tell me why
+I don't like Mondays
+Tell me why
+I don't like Mondays
+I wanna shoot
+The whole day down, down, down, shoot it all down
+
+
+And all the playing's stopped in the playground now
+She wants to play with the toys a while
+And school's out early and soon we'll be learning
+And the lesson today is how to die
+And then the bullhorn crackles
+And the captain tackles
+(With the problems of the how's and why's)
+And he can see no reasons
+'Cause there are no reasons
+What reason do you need to die, die?
+Oh oh oh
+
+
+The silicon chip inside her head
+Gets switched to overload
+And nobody's gonna go to school today
+She's gonna make them stay at home
+And daddy doesn't understand it
+He always said she was good as gold
+And he can see no reasons
+'Cause there are no reasons
+What reason do you need to be shown?
+
+
+Tell me why
+I don't like Mondays
+Tell me why
+I don't like Mondays
+Tell me why
+I don't like
+I don't like (Tell me why)
+I don't like Mondays
+Tell me why
+I don't like
+I don't like (Tell me why)
+I don't like Mondays
+Tell me why
+I don't like Mondays
+I wanna shoot the whole day down

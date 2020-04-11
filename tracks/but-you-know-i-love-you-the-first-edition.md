@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: but-you-know-i-love-you-the-first-edition
+lyrics_url: https://genius.com/Kenny-rogers-and-the-first-edition-but-you-know-i-love-you-lyrics
 name: But You Know I Love You
 rankings:
 - end_date: '1969-01-24'
@@ -51,4 +52,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
 ---
+When the morning sun
+Streaks across my room
+And I'm wakin' up
+From another dream of you
+Yes I'm on the road
+Once again it seems
+All I've left behind
+Is a chain of broken dreams
 
+
+But you know I love you
+Yes, I love you
+Whoa, I love you
+
+How I wish that love
+Was all we'd need to live
+What a life we'd have
+'Cause I've got so much to give
+And it seems so wrong
+Deep inside my heart
+That the dollar sign
+Could be keeping us apart
+
+
+And if only I could find
+My way back to the time
+When the problems of this life
+Had not yet crossed our minds
+All the answers could be found
+In children's nursery rhymes
+I'd come running back to you
+I'd come running back to you
+
+But you know we can't
+Live on dreams alone
+And to pay the rent
+I must leave you all alone
+'Cause you know I made my choice
+Many years ago
+Now this traveling life
+Is the only one I know
+
+x6

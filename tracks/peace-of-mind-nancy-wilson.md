@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: peace-of-mind-nancy-wilson
+lyrics_url: https://genius.com/Nancy-wilson-peace-of-mind-lyrics
 name: Peace Of Mind
 rankings:
 - end_date: '1968-10-04'
@@ -35,4 +36,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
 ---
+All we need
+But it's so hard to find
+Is some peace
+Peace of mind
 
+All we need
+But it's so hard to find
+Is some peace
+Peace of mind
+
+When the father
+And the mother
+Fight all the time
+Even the sisters
+And the brothers
+No time to rhyme
+
+To the left
+To the right
+So far apart
+But with so much
+To consider
+No time for the heart
+Time for the heart
+
+Woah, all we need
+Is so hard to find
+Is some peace
+Peace of mind
+
+Woah, all we need
+But it's so hard to find
+We need peace
+Peace of mind
+Peace of mind
+Peace of mind

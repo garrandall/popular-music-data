@@ -153,13 +153,13 @@ A dime if you tell me that you love me
 
 Penny for your thoughts, a nickel for a kiss
 A dime if you tell me that you love me
-Penny for your thoughts {Only me, only me}, a nickel for a kiss
-(Just me) {Yeah, yeah, yeah} (Oh, yeah, yeah)
+Penny for your thoughts , a nickel for a kiss
+(Just me)  (Oh, yeah, yeah)
 
 Penny for your thoughts (Just your thoughts), a nickel for a kiss (And a kiss, baby)
 A dime if you tell me that you love me (Tell me you love me)
-Penny for your thoughts {Only me}, a nickel for a kiss {Darling, can't you see}
-(Oh, yeah) {Yeah, yeah} (Yeah, yeah)
+Penny for your thoughts , a nickel for a kiss
+(Oh, yeah)  (Yeah, yeah)
 
 Penny for your thoughts (Ooh, baby), a nickel for a kiss
 A dime if you tell me that you love me

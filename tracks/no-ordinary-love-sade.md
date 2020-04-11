@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-ordinary-love-sade
+lyrics_url: https://genius.com/Sade-no-ordinary-love-lyrics
 name: No Ordinary Love
 rankings:
 - end_date: '1992-11-13'
@@ -115,4 +116,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-06-19'
 ---
+I gave you all the love I got
+I gave you more than I could give
+I gave you love
+I gave you all that I have inside
+And you took my love
+You took my love
 
+
+Didn't I tell you
+What I believe?
+Did somebody say that
+A love like that won't last?
+Didn't I give you
+All that I've got to give, baby?
+
+
+I gave you all the love I got
+I gave you more than I could give
+I gave you love
+I gave you all that I have inside
+And you took my love
+You took my love
+
+
+I keep crying
+I keep trying for you
+There's nothing like you and I baby
+
+
+This is no ordinary love
+No ordinary love
+This is no ordinary love
+No ordinary love
+
+
+When you came my way
+You brightened every day
+With your sweet smile
+
+
+Didn't I tell you
+What I believe?
+Did somebody say that
+A love like that won't last?
+Didn't I give you
+All that I've got to give, baby?
+
+
+This is no ordinary love
+No ordinary love
+This is no ordinary love
+No ordinary love
+
+
+I keep crying
+I keep trying for you
+There's nothing like you and I baby
+
+
+This is no ordinary love
+No ordinary love
+This is no ordinary love
+No ordinary love
+
+
+Keep trying for you
+Keep crying for you
+Keep flying for you
+Keep flying, I'm falling
+
+Keep trying for you
+Keep crying for you
+Keep flying for you
+Keep flying, I'm falling
+And I'm falling

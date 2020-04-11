@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-got-the-beat-go-go-s
+lyrics_url: https://genius.com/The-go-gos-we-got-the-beat-lyrics
 name: We Got The Beat
 rankings:
 - end_date: '1982-02-05'
@@ -83,4 +84,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-06-05'
 ---
+See the people walking down the street
+Fall in line just watching all their feet
+They don't know where they wanna go
+But they're walking in time
 
+
+They got the beat
+They got the beat
+They got the beat, yeah
+They got the beat
+
+
+See the kids just getting out of school
+They can't wait to hang out and be cool
+Hang around 'til quarter after twelve
+That's when they fall in line
+
+
+They got the beat
+They got the beat
+Kids got the beat, yeah
+Kids got the beat
+
+
+Go-go music really makes us dance
+Do the pony puts us in a trance
+Do the watusi just give us a chance
+That's when we fall in line
+
+
+'Cause we got the beat
+We got the beat
+We got the beat, yeah
+We got it
+
+
+We got the beat
+We got the beat
+We got the beat
+Everybody get on your feet
+We got the beat
+We know you can dance to the beat
+We got the beat
+Jumpin',get down
+We got the beat
+Round and round and round
+We got the beat
+We got the beat...

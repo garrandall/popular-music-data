@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: am-i-that-easy-to-forget-debbie-reynolds
+lyrics_url: https://genius.com/Debbie-reynolds-am-i-that-easy-to-forget-lyrics
 name: Am I That Easy To Forget
 rankings:
 - end_date: '1960-01-24'
@@ -75,4 +76,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
 ---
-
+They say you've found somebody new
+But that won't stop my loving you
+I just can't let you walk away
+Forget the love I had for you
+Guess I could find somebody, too
+But I don't want no one but you
+How could you leave without regret?
+Am I that easy to forget?
+Before you leave be sure you find
+You want her (his) love much more than mine
+'Cause I'll just say we've never met
+If I'm that easy to forget
+Before you leave be sure you find
+You want her (his) love much more than mine
+'Cause I'll just say we've never met
+If I'm that easy to forget
+If I'm that easy to forget

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sun-arise-rolf-harris
+lyrics_url: https://genius.com/Rolf-harris-sun-arise-lyrics
 name: Sun Arise
 rankings:
 - end_date: '1963-03-22'
@@ -35,4 +36,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-04-27'
 ---
+Sun arise, she bring in the morning
+Sun arise, bring in the morning, fluttering the skirts all around
+Sun arise, she come with the dawning
+Sun arise, come with the dawning, spreading all the light all around
 
+Sun arise, on the kangaroo paw
+Sun arise, on the kangaroo paw, glistening the dew all around
+
+Sun arise, filling all the hollows
+Sun arise, filling all the hollows, lighting up the hills all around
+
+Sun arise, come with the dawning
+Sun arise, she come every day
+Sun arise, bring in the morning
+Sun arise, every, every, every, every, day
+She drive away the darkness, every day
+Drive away the darkness
+Bringing back the warmth to the ground
+
+Sun arise, oh, oh
+Sun arise, oh, oh
+Spreading all the light all around
+
+Sun arise, bring in the morning
+Sun arise, bring in the morning, spreading all the light all around

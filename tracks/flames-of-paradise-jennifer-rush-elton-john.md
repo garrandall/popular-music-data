@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: flames-of-paradise-jennifer-rush-elton-john
+lyrics_url: https://genius.com/Jennifer-rush-with-elton-john-flames-of-paradise-lyrics
 name: Flames Of Paradise
 rankings:
 - end_date: '1987-05-22'
@@ -60,4 +61,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-08'
 ---
-
+Flames Of Paradise
+Elton John duet with Jennifer Rush
+Written by Bruce Roberts and Andy Goldmark
+Released as a single in 1987
+You're walking, talking like a flame, baby
+You're walking, talking like a flame, baby
+Never knew what my heart would be facing
+Guess I must have been blind saying goodbye yo you, baby
+Close my eyes at night I can taste it
+I'm running back in the fire where I once had you, baby
+You said don't ever leave me
+But I say that's something I won't ever do
+I want you back in my arms
+In the flames of paradise
+In the flames of paradise
+I want you back in my arms
+In the flames of paradise
+The flames of paradise
+I give all of my love just to you
+It's been so long baby
+I give you all my love waits for you
+Don't take too long baby
+I've been making some brave conversation
+Telling friends I'm way better off without you
+Then I was living in my imagination
+Thinking I could make it without you too baby
+My heart tried to deceive me
+But that's one thing it just can't do
+You said don't ever leave me
+Oh that's one thing I won't ever do

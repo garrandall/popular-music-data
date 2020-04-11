@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: substitute-clout
+lyrics_url: https://genius.com/Clout-substitute-lyrics
 name: Substitute
 rankings:
 - end_date: '1978-09-08'
@@ -47,4 +48,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-11-18'
 ---
+Sam
+You've been waiting much too long now
+It looks like she's not coming home
 
+Sam
+You've been loyal, true and faithful
+All this time with being alone
+
+If I could get that same dedication
+I'd give you everything in creation
+If she doesn't come back (If she doesn't come back)
+
+I'll be your substitute
+Whenever you want me, ohoho
+Don't you know I'll be your substitute
+Whenever you need me, oho
+
+Sam
+Every day you waited for her
+I've been waiting here for you
+
+Sam
+All this time I've been lonely
+I know what you've been going through
+
+I'll wait until my chances occur
+'Cause you can't keep relying on her
+If she doesn't come back (If she doesn't come back)
+
+I'll be your substitute
+Whenever you want me, ohoho
+Don't you know I'll be your substitute
+Whenever you need me, oho
+
+Each day by your window
+You sit and sigh hoping to see her face
+Ah, you might as well forget about her
+And find someone to take her place (If she doesn't come back)
+
+I'll be your substitute
+Whenever you want me, ohoho
+Don't you know I'll be your substitute
+Whenever you want me, oho
+
+Don't you know I'll be your substitute
+Whenever you want me, ohoho
+Don't you know I'll be your substitute
+Whenever you want me, oho
+
+Don't you know I'll be your substitute
+Whenever you want me, ohoho
+Don't you know I'll be your substitute
+Whenever you want me, oho

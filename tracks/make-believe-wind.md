@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: make-believe-wind
+lyrics_url: https://genius.com/Wind-make-believe-lyrics
 name: Make Believe
 rankings:
 - end_date: '1969-09-12'
@@ -43,4 +44,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
 ---
-
+Wind
+Miscellaneous
+Make Believe
+Make Believe
+Wind
+Written by Bo Gentry and Joey Levine (I think)
+I know, you know
+Everybody knows it's true
+I'm in love
+But it's only make believe to you
+I love your love
+All the things that lovers do now, baby
+I can tell
+That it's only make believe to you
+I said-a ah, ah, ah, ah, ah
+It's only make believe to you, girl
+It's only make believe, you're driving me insane
+It's only make believe to you, girl
+Baby, baby, baby, baby, I can't stand the pain
+I kiss, you kiss
+But I ain't getting through
+No I don't
+'Cause it's only make believe to you
+I cry, oh my
+But you ain't crying too, baby
+No you don't
+'Cause it's only make believe to you
+I said-a ah, ah, ah, ah, ah
+It's only make believe to you, girl
+It's only make believe, you're driving me insane
+It's only make believe to you, girl
+Baby, baby, baby, baby, I can't take the pain
+From: John Hedin

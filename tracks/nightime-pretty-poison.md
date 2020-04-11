@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nightime-pretty-poison
+lyrics_url: https://genius.com/Pretty-poison-nightime-spanish-mix-lyrics
 name: Nightime
 rankings:
 - end_date: '1988-04-08'
@@ -55,4 +56,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-06-18'
 ---
+Oh yeah, está bien
+Esta noche
+Solo tú y yo
+Vamos
 
+Ven siente el ritmo del anochecer
+Siento por ti un gran placer
+Bebé la noche pronto vendrá
+Sabes dónde voy a estar
+Bailando en la oscuridad
+
+En la noche (Noche)
+Culpa a la noche (Noche)
+En la noche (Noche)
+Que me vuelve loca (Loca)
+
+Escucha
+Hay un deseo extraño en mi cuerpo
+Algo diferente, quiero bailar
+Las estrellas brillan más
+Ven conmigo a bailar
+Sé mi amante hasta el final
+
+En la noche (Noche)
+Culpa a la noche (Noche)
+En la noche (Noche)
+Que me vuelve loca (Loca)
+
+En la noche (Noche)
+Culpa a la noche (Noche)
+En la noche (Noche)
+Que me vuelve loca (Loca)
+
+En la noche, en la noche
+La noche es para mí
+Baila hasta el final
+Bailando voy a estar
+En la noche, en la noche
+La noche es para mí
+Baila hasta el final
+Bailando voy a estar
+En la noche, en la noche
+La noche es para mí
+Baila hasta el final
+Bailando voy a estar
+
+En la noche (Noche)
+Culpa a la noche (Noche)
+En la noche (Noche)
+Que me vuelve loca (Loca)
+
+En la noche (Noche)
+Culpa a la noche (Noche)
+En la noche (Noche)
+Que me vuelve loca (Loca)
+
+En la noche, en la noche
+La noche es para mí, oh yeah, yeah, yeah
+En la noche, en la noche
+La noche es para mí, oh yeah
+Noche
+La noche es para mí, oh yeah, yeah, yeah

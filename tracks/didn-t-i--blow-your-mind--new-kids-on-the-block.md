@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: didn-t-i--blow-your-mind--new-kids-on-the-block
+lyrics_url: https://genius.com/New-kids-on-the-block-didnt-i-blow-your-mind-lyrics
 name: Didn't I (Blow Your Mind)
 rankings:
 - end_date: '1989-09-22'
@@ -83,4 +84,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-01-20'
 ---
+I gave my heart and soul to you, girl
+(Now didn't I do it, baby, didn't I do it, baby?)
+Gave you the love you never knew, girl, oh
+(Didn't I do it baby, didn't I do it baby?)
+I've cried so many times and that's no lie
+It seems to make you laugh each time I cry
 
+Didn't I blow your mind this time
+Didn't I
+Didn't I blow your mind this time
+Didn't I, this time?
+
+I thought that heart of yours was true, girl
+(Now, didn't I think it, baby, didn't I think it, baby?)
+But this time I'm really leaving you girl, oh
+(Hope you know it, baby, hope you know it, baby)
+
+Ten times or more, yes, I walked out that door
+Get this into your head, there'll be no more
+
+Didn't I blow your mind this time
+Didn't I
+Didn't I blow your mind this time
+Didn't I, this time?
+
+(Didn't I do it baby, didn't I do it baby?)
+(Didn't I do it baby, didn't I do it baby?)
+
+Ten times or more, yes, I walked out that door
+Get this into your head, there'll be no more
+
+Didn't I blow your mind this time
+Didn't I
+Didn't I blow your mind this time
+Didn't I, this time?
+
+Girl, can we talk for a second?
+(Baby can we talk)
+I know it's been a long time
+Since someone blew your mind, like I did
+(Ooh, baby)
+But there'll be other times
+(Didn't I blow your mind it happens all the time)
+For me and you
+(All the time)(Ooh, baby)
+And I can see the tears fallin' from your eyes
+(I can see the tears falling from your eyes)
+Tell me girl did I blow your mind?
+
+Didn't I blow your mind this time
+Didn't I
+Didn't I blow your mind this time
+Didn't I, this time?

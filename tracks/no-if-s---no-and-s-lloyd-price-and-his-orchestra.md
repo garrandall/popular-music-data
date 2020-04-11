@@ -1,6 +1,6 @@
 ---
 artists:
-- Lloyd Price and His Orchestra
+- Lloyd Price
 features: []
 genres: []
 key: no-if-s---no-and-s-lloyd-price-and-his-orchestra

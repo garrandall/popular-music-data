@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gimme-gimme-good-lovin--crazy-elephant
+lyrics_url: https://genius.com/Crazy-elephant-gimme-gimme-good-lovin-lyrics
 name: Gimme Gimme Good Lovin'
 rankings:
 - end_date: '1969-03-07'
@@ -59,4 +60,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
 ---
+From Atlanta, Georgia, to the Gulf Stream water
+Up to Californ-i-a
+I'm gonna spend my life a-both a-night and day
+I say:
 
+
+Gimme, gimme good lovin' every night
+(Hey you know it's alright, child)
+Gimme, gimme good lovin' make it alright
+Ha, ha, ha, ha, ha
+
+
+To the girls in 'Frisco, to the girls in New York
+To the girls in Texican, you gotta understand
+That baby I'm your man
+I say:

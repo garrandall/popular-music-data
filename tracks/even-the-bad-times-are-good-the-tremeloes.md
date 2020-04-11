@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: even-the-bad-times-are-good-the-tremeloes
+lyrics_url: https://genius.com/The-tremeloes-even-the-bad-times-are-good-original-1967-recording-lyrics
 name: Even The Bad Times Are Good
 rankings:
 - end_date: '1967-10-06'
@@ -35,4 +36,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-11-11'
 ---
+La la la la la la la la la
+La la la la la la la la la
 
+There are times in this life of mine
+I think that the sun forgot how to shine
+But as long as you're always there
+It don't bother me 'cause why should I care
+When all I've gotta do
+Is run to you
+
+Even the bad times are good
+Soon as I get to you baby
+You just gotta hold me
+And even the bad times are good
+Even the bad times are good
+Soon as I get to you baby
+You just gotta kiss me
+And even the bad times are good
+La la la la la la la la la
+La la la la la la la la la
+
+When the day seems to drag along
+And all that I do is workin' out wrong
+Still I find that I never cry
+As long as I know that you're standing by
+Then all I've gotta do
+Is run to you
+
+Even the bad times are good ..

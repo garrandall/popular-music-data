@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: you-ve-been-in-love-too-long-martha-the-vandellas
+lyrics_url: https://genius.com/Martha-reeves-and-the-vandellas-youve-been-in-love-too-long-lyrics
 name: You've Been In Love Too Long
 rankings:
 - end_date: '1965-08-20'
@@ -36,4 +37,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
 ---
+Girls, you've been in love too long
+(You're a fool for your baby)
+Don't you know girls?
+You've been in love too long
+(You're a fool for your baby)
 
+When just his smile takes all your pain away
+And you find yourself believing whatever he may say
+Now when he keeps you cryin'
+But your heart tells you, girl, keep right on tryin'
+
+Girls, you've been in love too long
+(You're a fool for your baby)
+Don't you know, girls?
+You've been in love too long
+(You're a fool for your baby)
+
+When you accept his wrongs
+Just to share his kiss
+And even your lonely nights
+Are filled with happiness
+
+Now girl, you're in trouble
+You know your heart is seein' double
+When your head tells you to run
+But your heart says he's the only one
+
+Girls, you've been in love too long
+You're a fool for your baby
+(Girl, you've been in love too long)
+You're a fool 'cause when a week of loneliness
+Can be erased with just one sweet caress
+
+Girls, you've been in love too long
+(You're a fool for your baby)
+I say girls, oh yeah, you're a fool
+When his wrongs looks right
+'Cause he always treats you bad
+
+When you find little excuses
+For all the sadness and abuses
+Don't you know, girls you're in love?
+You're just a fool for your baby

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dreams-of-the-everyday-housewife-glen-campbell
+lyrics_url: https://genius.com/Glen-campbell-dreams-of-the-everyday-housewife-lyrics
 name: Dreams Of The Everyday Housewife
 rankings:
 - end_date: '1968-07-12'
@@ -39,4 +40,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
 ---
+She looks in the mirror
+And stares at the wrinkles that
+Weren't there yesterday
+And thinks of the young man
+That she almost married
+What would he think
+If he saw her this way?
+She picks up her apron
+In little girl fashion
+As something comes into her mind
+Then slowly starts dancing
+Remembering her girlhood
+And all of the boys
+She had waiting in line
 
+
+Ah such are the dreams
+Of the everyday housewife
+You see everywhere anytime of the day
+An everyday housewife
+Who gave up the good life for me
+
+
+The photograph album
+She takes from the closet
+And slowly turns the page
+And carefully picks up
+The crumbling flower
+The first one he gave her
+Now withered with age
+She closes her eyes
+And touches the house dress that
+Suddenly disappears
+And just for a moment
+She's wearing the gown
+That broke all their minds
+Back so many years
+
+
+Ah such are the dreams
+Of the everyday housewife
+You see everywhere anytime of the day
+An everyday housewife
+Who gave up the good life for me
+
+
+Ah such are the dreams
+Of the everyday housewife
+You see everywhere anytime of the day
+An everyday housewife
+Who gave up the good life for me
+
+
+Ah such are the dreams
+Of the everyday housewife
+You see everywhere...

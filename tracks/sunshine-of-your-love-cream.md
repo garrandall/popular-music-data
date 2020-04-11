@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sunshine-of-your-love-cream
+lyrics_url: https://genius.com/Cream-sunshine-of-your-love-lyrics
 name: Sunshine Of Your Love
 rankings:
 - end_date: '1968-01-19'
@@ -111,4 +112,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
 ---
+It’s getting near dawn
+When lights close their tired eyes
+I’ll soon be with you, my love
+To give you my dawn surprise
+I’ll be with you, darling, soon
+I’ll be with you when the stars start falling
 
+
+I’ve been waiting so long
+To be where I’m going
+In the sunshine of your love
+
+
+I’m with you, my love
+The lights shining through on you
+Yes, I’m with you, my love
+It’s the morning and just we two
+I’ll stay with you, darling, now
+I’ll stay with you 'til my seas are dried up
+
+
+I’ve been waiting so long
+To be where I’m going
+In the sunshine of your love
+
+
+
+
+I’m with you, my love
+The lights shining through on you
+Yes, I’m with you, my love
+It’s the morning and just we two
+I’ll stay with you, darling, now
+I’ll stay with you 'til my seas are dried up
+
+
+I’ve been waiting so long
+I’ve been waiting so long
+I’ve been waiting so long
+To be where I’m going
+In the sunshine of your love

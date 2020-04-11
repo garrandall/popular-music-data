@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: round---round-selena-gomez-the-scene
+lyrics_url: https://genius.com/Selena-gomez-and-the-scene-round-and-round-lyrics
 name: Round & Round
 rankings:
 - end_date: '2010-07-16'
@@ -64,4 +65,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-10-09'
 ---
+Round and round
+Round and round
+Round and round
 
+
+You see me standing there and act like you don't know me
+But last night, you were calling me, saying you want me
+Oh, why you always make me feel like I'm the one that's crazy?
+You got my heart racing
+My, my heart racing
+
+
+Boy, I need you here with me
+We can't go on this way
+I'm falling hard for you
+All I can say
+
+
+We're going 'round and 'round
+We're never gonna stop going
+'Round and 'round
+We'll never get where we're going
+'Round and 'round
+Well, you're gonna miss me, 'cause I'm getting dizzy
+Going 'round and 'round and 'round
+
+
+You come to pull me close and whisper in my ear
+You always told me lies, I've cried out all my tears
+I push my feelings to the side, but then you bring them back
+Br-bring 'em back, now you got me singing
+
+
+Boy, I need you here with me
+We can't go on this way
+I'm falling hard for you
+All I can say
+
+
+We're going 'round and 'round
+We're never gonna stop going
+'Round and 'round
+We'll never get where we're going
+'Round and 'round
+Well, you're gonna miss me, 'cause I'm getting dizzy
+Going 'round and 'round and 'round
+
+
+Love me, or love me not
+I'm staring at the clock
+I pick them flower petals off
+And then I watch them drop
+Love me, or love me not
+I'm staring at the clock
+I pick them flower petals off
+And then I watch them drop
+
+
+Boy, I need you here with me
+I can't go on this way
+I'm falling hard for you
+All I can say
+
+
+We're going 'round and 'round
+We're never gonna stop going
+'Round and 'round
+We'll never get where we're going
+'Round and 'round
+Well, you're gonna miss me, 'cause I'm getting dizzy
+Going 'round and 'round and 'round and 'round
+We're going 'round and 'round
+We're never gonna stop going
+'Round and 'round
+We'll never get where we're going
+'Round and 'round
+Well, you're gonna miss me, 'cause I'm getting dizzy
+Going 'round and 'round and 'round
+
+
+Ooh, whoa, whoa, whoa
+Ooh, whoa, whoa, whoa
+Ooh, whoa, whoa, whoa

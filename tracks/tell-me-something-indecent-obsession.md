@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-me-something-indecent-obsession
+lyrics_url: https://www.musixmatch.com/lyrics/Indecent-Obsession/Tell-Me-Something
 name: Tell Me Something
 rankings:
 - end_date: '1990-08-03'
@@ -55,4 +56,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-10-13'
 ---
-
+I, I've got it all together Cause I want someone here forever Cause you, you make me feel so right When I hold you near I only get what she feels Won't you tell me somethin Who's gonna give me lovin All I want is one thing And I need your lovin It seems that I won't get much closer My dreams are pushed off like a feather Cause she, shes the only thing that's real If I can survive I will redeem in her eyes I, I've got it all together Cause I want someone here forever Cause she, shes the only thing that's real If I can survive I will redeem in her eyes

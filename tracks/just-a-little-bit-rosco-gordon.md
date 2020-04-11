@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-a-little-bit-rosco-gordon
+lyrics_url: https://genius.com/Rosco-gordon-just-a-little-bit-lyrics
 name: Just A Little Bit
 rankings:
 - end_date: '1960-02-21'
@@ -35,4 +36,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-03-28'
 ---
+I don't want much
+I just-a want a little bit
+No, I don't want it all, I told you
+I just-a want a little bit
+Just a eeny weeny bit
+I want a teeny weeny bit of your love
 
+Turn your lights down low
+Honey, slip me a kiss
+Turn your lights down low, I beg you
+I just can't-a resist
+But that's a eeny weeny bit
+I want a teeny weeny bit of your love
+
+I want you forever
+A-just a peace of mind
+Please say you'll never leave, ever
+A-till the end of times
+
+But that's a eeny weeny bit
+I want a teeny weeny bit of your love
+
+I want you forever
+A-just for peace of mind
+Please say you'll never leave me, ever
+A-till the end of times
+But that's a eeny weeny bit
+I want a teeny weeny bit of your love
+
+From just a eeny weeny bit
+I want a teeny weeny bit of your love
+
+From just a eeny weeny bit
+I want a teeny weeny bit of your love
+
+Girl!

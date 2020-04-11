@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-come-around-here-no-more-tom-petty-and-the-heartbreakers
+lyrics_url: https://genius.com/Tom-petty-and-the-heartbreakers-dont-come-around-here-no-more-lyrics
 name: Don't Come Around Here No More
 rankings:
 - end_date: '1985-03-22'
@@ -63,4 +64,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-06-15'
 ---
+Hey!
+Hey!
 
+
+Don't come around here no more
+Don't come around here no more
+Whatever you're looking for
+Hey! Don't come around here no more
+I've given up, stop
+I've given up, stop
+Ah, ah, ah, ooh-ooh
+I've given up, stop, on waiting any longer
+I've given up, on this love getting stronger
+
+
+Don't come around here no more
+Don't come around here no more
+Don't come around here no more
+Don't come around here no more
+
+
+I don't feel you anymore
+You darken my door
+Whatever you're looking for
+Hey! Don't come around here no more
+I've given up, stop
+I've given up, stop
+Ah, ah, ah, ooh-ooh
+I've given up, stop, you tangle my emotions
+I've given up, honey please, admit it's over
+
+
+Hey! Don't come around here no more
+Don't come around here no more
+Don't come around here no more
+Hey! Don't come around here no more
+
+
+Stop walking down my street
+Don't come around here no more
+Who did you expect to meet?
+Don't come around here no more
+Whatever you're looking for
+Hey! Don't come around here no more
+Hey!
+
+
+Honey please (Honey please)
+Don't come around here no more
+Whatever you're looking for
+Don't come around here no more

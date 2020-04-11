@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: tell-him-no-travis-bob
+lyrics_url: https://www.musixmatch.com/lyrics/Travis-Bob/Tell-Him-No
 name: Tell Him No
 rankings:
 - end_date: '1959-03-29'
@@ -60,4 +61,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-15'
 ---
+Tell him "no", oh-oh-oh
+Tell him "no", oh-oh-oh
+When he asks for a date, tell him no-oh-oh-oh
+Tell him "no"
 
+Tell him "no", oh-oh-oh
+Tell him "no", oh-oh-oh
+When he asks for a kiss, tell him no-oh-oh-oh
+Tell him "no"
+
+It's all right to go to a party
+It's all right to have some fu-un
+It's all right to take in a movie
+But don't let him be the one
+
+Tell him "no", oh-oh-oh
+Tell him "no", oh-oh-oh
+If he offers his ring, tell him no-oh-oh-oh
+Tell him "no"
+
+Did he tell you that he loved you?
+And did you thrill to his charms?
+And did you feel much more better
+When he held you in his arms?
+
+Tell him "no", oh-oh-oh
+Tell him "no", oh-oh-oh
+When he asks for a date, tell him no-oh-oh-oh
+Tell him "no"
+
+FADE
+Tell him "no", oh-oh-oh
+Tell him "no", oh-oh-oh

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-your-love-locked--deep-in-your-heart--paul-petersen
+lyrics_url: https://www.musixmatch.com/lyrics/Paul-Petersen/Keep-Your-Love-Locked-Deep-in-Your-Heart
 name: Keep Your Love Locked (Deep In Your Heart)
 rankings:
 - end_date: '1962-06-15'
@@ -31,4 +32,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-07-14'
 ---
+Don't stay at home when I go away
+Don't waste your time with letters each day
+You can have fun and see everyone that you wanna see
+Just keep all your love locked deep in your heart
+And don't give the key to anyone else but me
 
+Don't miss a party, don't miss the dance
+Go on a date if you get the chance
+Give him your hand and I'll understand that's how it should be
+But, darling, keep all your love locked deep in your heart
+And don't give the key to anyone else but me
+
+You can be waiting without being lonely
+Just save your love for your one and only
+
+I won't be mad if you don't resist
+If someone else should ask for a kiss
+Give him the right to kiss you goodnight if it has to be
+But, darling, keep all your love locked deep in your heart
+And don't give the key to anyone else but me
+And don't give the key to anyone else but me

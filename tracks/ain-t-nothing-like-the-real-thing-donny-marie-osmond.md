@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: ain-t-nothing-like-the-real-thing-donny-marie-osmond
+lyrics_url: https://www.musixmatch.com/lyrics/Donny-Marie-Osmond/Ain-t-Nothing-Like-the-Real-Thing
 name: Ain't Nothing Like The Real Thing
 rankings:
 - end_date: '1976-12-03'
@@ -60,4 +61,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-19'
 ---
+Ain't nothing like the real thing baby
+Ain't nothing like the real thing
+Ain't nothing like the real thing baby
+Ain't nothing like the real thing
 
+Oh baby, I got your picture
+Hanging on the wall
+But it can't see or come to me
+When I call your name
+I realize it's just a picture
+Inside a frame
+I read your letters when you're not near me
+But they don't move me
+And they don't groove me
+Like when I hear
+Your sweet voice whispering in my ear
+
+Ain't nothing like the real thing baby
+Ain't nothing like the real thing
+Ain't nothing like the real thing baby
+Ain't nothing like the real thing
+
+I played the game of fantasy
+I pretend I'm not in reality
+I need the shelter of your arms
+To comfort me
+No other sound is quite the same
+As your name
+No touch can do as half as much
+To make me feel better
+So let's stay together
+I've got some memories to look back on
+Though they help when you're gone
+I'm well aware
+Nothing can take the place of your nearness
+
+So glad we got the real thing baby
+So glad we got the real thing
+So glad we got the real thing baby
+So glad we got the real thing
+
+Repeat last verse and fade.

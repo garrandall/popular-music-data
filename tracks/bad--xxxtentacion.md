@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bad--xxxtentacion
+lyrics_url: https://genius.com/Xxxtentacion-bad-lyrics
 name: BAD!
 rankings:
 - end_date: '2018-11-30'
@@ -51,4 +52,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-02-09'
 ---
+Yeah
 
+
+Shawty, heard you bad... word? So profane
+Somethin' like a bad, word, want your love
+Call me when you can, girl
+Goin' up, goin' down, in and out, turn around
+Shawty, heard you bad... word? So profane
+Somethin' like a bad, word, want your love
+Call me when you can, girl
+Goin' up, goin' down, in and out, turn around
+Love you the way you movin' now
+
+
+I might be insane, yeah
+But I love the pain, yeah
+Feel it in the brain, yeah-ahh
+Realize she just want me hit it right
+'Cause I get 'em goin' right
+
+
+Shawty, heard you bad... word? So profane
+Somethin' like a bad, word, want your love
+Call me when you can, girl
+Goin' up, goin' down, in and out, turn around
+Shawty, heard you bad... word? So profane
+Somethin' like a bad, word, want your love
+Call me when you can, girl
+Goin' up, goin' down, in and out, turn around
+Love you the way you movin' now

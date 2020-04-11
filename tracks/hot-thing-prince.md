@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hot-thing-prince
+lyrics_url: https://genius.com/Prince-hot-thing-lyrics
 name: Hot Thing
 rankings:
 - end_date: '1988-02-12'
@@ -43,4 +44,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-04-02'
 ---
+Hot thing!
 
+
+Hot thing, barely 21
+Hot thing, looking for big fun
+Hot thing, what's your fantasy?
+Hot thing, do you want to play with me?
+
+
+Hot thing, baby you dance so good
+Hot thing, baby I knew you would
+Hot thing, tell me what you see
+Hot thing, When you smile, when you smile, when you smile
+Are your smiles, are your smiles for me?
+
+
+Hot thing, maybe you should give your folks a call
+Hot thing, tell them you're going to the Crystal Ball
+Hot thing, tell them you're coming home late
+If you're coming home at all
+Hot thing, tell them you found a brand new baby doll
+Hot thing, I can't wait to get you home
+Hot thing, where we could be alone
+Hot thing, I could read you poetry
+And then we could make a story of our own
+
+
+Hot thing
+Hot, hot, hot thing
+Hot thing, hot thing
+Hot thing, hot thing
+
+
+Hot thing!
+Hot thing, barely 21
+Hot thing, looking for big fun
+Hot thing, what's your fantasy?
+Hot thing, don't you want to play with me?
+Hot thing!
+Hot thing, barely 21
+Hot thing, looking for big fun
+Hot thing, what's your fantasy?
+Hot thing, don't you want to play with me?

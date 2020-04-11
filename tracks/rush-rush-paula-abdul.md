@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rush-rush-paula-abdul
+lyrics_url: https://genius.com/Paula-abdul-rush-rush-lyrics
 name: Rush Rush
 rankings:
 - end_date: '1991-05-17'
@@ -83,4 +84,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-09-14'
 ---
+You're the whisper of a summer breeze
+You're the kiss that puts my soul at ease
+What I'm saying is I'm into you
+Here's my story and the story goes
+You give love, you get love
+And more than heaven knows
 
+
+You're gonna see
+I'm gonna run, I'm gonna try
+I'm gonna take this love right to ya
+All my heart, all the joy
+Oh, baby, baby, please
+
+
+(Rush, rush) Hurry, hurry, lover, come to me
+(Rush, rush) I wanna see ya, I wanna see ya get free with me
+(Rush, rush) I can feel it, I can feel you all through me
+(Rush, rush) Ooh, what you do to me
+
+
+And all I want from you is what you are
+And even if you're right next to me
+You're still too far away
+If I'm not inside your arms
+I get dramatic, baby, yes, I know
+But I need you, I want you, oh, man, I love you so
+
+
+You're gonna see
+I'm gonna run, I'm gonna try
+I'm gonna take this love right to ya
+All my heart, all the joy
+Oh, baby, baby, please
+
+
+(Rush, rush) Hurry, hurry, lover, come to me
+(Rush, rush) I wanna see ya, I wanna see ya get free with me
+(Rush, rush) I can feel it, I can feel you all through me
+(Rush, rush) Ooh, what you do to me
+(Rush, rush) Hurry, hurry, lover, come to me
+(Rush, rush) I wanna see ya, I wanna see ya get free with me
+(Rush, rush) I can feel it, I can feel you all through me
+(Rush, rush) Ooh, what you do to me
+
+
+When you kiss me up and down
+You turn my senses all around
+Oh, baby, oh, baby
+I don't know just how or why
+But no one else has touched me
+So deep, so deep, so deep inside
+
+
+You're gonna see
+I'm gonna run, I'm gonna try
+I'm gonna take this love right to ya
+All my heart, all the joy
+Oh, baby, baby, please
+
+
+(Rush, rush) Hurry, hurry, lover, come to me
+(Rush, rush) I wanna see ya, I wanna see ya get free with me
+(Rush, rush) I can feel it, I can feel you all through me
+(Rush, rush) Ooh, what you do to me
+(Rush, rush) Hurry, hurry, lover, come to me
+(Rush, rush) I wanna see ya, I wanna see ya get free with me
+(Rush, rush) I can feel it, I can feel you all through me
+(Rush, rush) Ooh, what you do to me
+
+
+(Rush, rush) No, no, no, no, no
+(Rush, rush) No, no, no, no, no
+(Rush, rush) No, no, no, no, no
+(Rush, rush) No, no, no, no, no
+(Rush, rush) Hurry, hurry, lover, come to me

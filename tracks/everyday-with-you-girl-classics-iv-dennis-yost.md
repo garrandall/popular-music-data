@@ -5,6 +5,7 @@ features:
 - Dennis Yost
 genres: []
 key: everyday-with-you-girl-classics-iv-dennis-yost
+lyrics_url: https://www.musixmatch.com/lyrics/Classics-IV/Every-Day-With-You-Girl
 name: Everyday With You Girl
 rankings:
 - end_date: '1969-05-09'
@@ -52,4 +53,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-07-12'
 ---
+Cada día contigo chica,
+Es más dulce
+Que el día anterior.
+Cada día te amo
 
+Más y más, más y más y más.
+Dicen que todas las cosas
+Buenas deben
+Llegar a un final,
+
+Pero chica,
+No es verdad,
+Cada día contigo
+Me enamoro otra vez.
+
+Cada día contigo, chica,
+Es más dulce
+Que el día anterior
+Cada día te amo
+
+Más y más, más y más y más.
+Y cuando voy a dormir
+En la noche,
+Rezo por el mañana,
+Porque cada día contigo,
+Chica, es más dulce
+Que el día anterior.

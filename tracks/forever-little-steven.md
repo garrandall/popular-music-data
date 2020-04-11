@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forever-little-steven
+lyrics_url: https://www.musixmatch.com/lyrics/Little-Steven-feat-The-Disciples-of-Soul/Forever-1999-Digital-Remaster
 name: Forever
 rankings:
 - end_date: '1982-12-31'
@@ -43,4 +44,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-02-19'
 ---
+Well, I don't think that this is the original key
+But I use to play the song with those chords, have fun
+I'll give you my heart, would you love me forever?
 
+I learned when I was a young boy
+You turn your cheek you get slapped
+I take the punches I can't slip and I give it right back
+
+Even if I win girl, you know it really won't mean too much
+What I want baby most of all is the only thing I can't touch
+
+If I give you my heart would you love me forever
+Would you pick up the pieces if I stumble and fall?
+If my world falls apart could you keep it together
+If I can't have you I don't want no one at all

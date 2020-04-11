@@ -5,6 +5,7 @@ features:
 - Adam Gontier
 genres: []
 key: i-don-t-care-apocalyptica-adam-gontier
+lyrics_url: https://genius.com/Apocalyptica-i-dont-care-lyrics
 name: I Don't Care
 rankings:
 - end_date: '2008-11-07'
@@ -72,4 +73,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-02-14'
 ---
+I try to make it through my life
+In my way there's you...
+I try to make it through these lies
+That's all I do
 
+Just don't deny it
+Just don't deny it
+And deal with it
+Yeah, deal with it
+You tried to break me
+You wanna break me
+Bit by bit
+That's just part of it
+
+If you were dead or still alive
+I don't care
+I don't care
+And all the things you left behind
+I don't care
+I don't care
+
+I try to make you see my side
+Always try to stay in line
+But your eyes see right through
+That's all they do
+I'm getting tired of this shit
+I've got no room when it's like this
+What you want of me, just deal with it
+
+So...
+
+If you were dead or still alive
+I don't care
+I don't care
+And all the things you left behind
+I don't care
+I don't care
+
+
+
+
+Nothing can care about
+I'm taking care of it
+You won't be there for me
+You won't be there for me
+
+
+
+If you were dead or still alive
+I don't care
+I don't care
+And all the things you left behind
+I don't care
+I don't care
+
+If you were dead or still alive
+I don't care (nothing can care about)
+I don't care... (I'm taking care of it)
+And all the things you've left behind
+I don't care (you won't be there for me.)
+I don't care... at all

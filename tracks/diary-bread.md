@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: diary-bread
+lyrics_url: https://genius.com/Bread-diary-lyrics
 name: Diary
 rankings:
 - end_date: '1972-04-28'
@@ -51,4 +52,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-07-01'
 ---
+I found her diary underneath a tree
+And started reading about me
+The words she's written
+Took me by surprise
+You'd never read them in her eyes
 
+They said that she had found
+The love she'd waited for
+Wouldn't you know it?
+She wouldn't show it
+
+When she confronted
+With the writing there
+Simply pretended not to care
+I passed it off
+As just in keeping
+With her total disconcerting air
+
+And though she tried
+To hide the love that she denied
+Wouldn't you know it?
+She wouldn't show it
+
+And as I go through my life
+I will give to her, my wife
+All the sweet things I can find
+
+I found her diary underneath a tree
+And started reading about me
+The words began stick, and tears to flow
+Her meaning now was clear to see
+
+The love she'd waited for
+Was someone else, not me
+Wouldn't you know it?
+She wouldn't show it
+
+And as I go through my life
+I will wish for her, his wife
+All the sweet things she can find
+All the sweet things they can find

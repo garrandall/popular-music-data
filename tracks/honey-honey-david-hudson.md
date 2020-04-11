@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: honey-honey-david-hudson
+lyrics_url: https://www.musixmatch.com/lyrics/David-Hudson/Honey-Honey
 name: Honey Honey
 rankings:
 - end_date: '1980-07-04'
@@ -51,4 +52,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-06'
 ---
+Hhhhhhmmmmm
+Yeeeeaaaaaah
+Honey, honey, girl you know i'm gonna get ya
+Honey, honey, you know that i gotta get with ya
+We've been kissing and touching
+I'm burning through and through
+If Kissing and touching really turn you on
+Let me make love to you
+Let me make love to you
 
+'Til you reach over and hold me tight
+I reach over and turn out the light
+We're gonna (love) in the middle of the night
+Let's (love) 'til broad daylight, gonna...(love)
+Ohhh, honey, it's so right
+Stay right here, honey let's do it together -- together
+
+(Come here)
+Honey, honey, girl i really really really love
+Honey, honey, i wanna take care of you
+Honey, just let me love you
+Just lay here in my arms
+Girl, hold me tight, we got all night
+Let me make love to you
+Just let me make love to you
+
+'Til you reach over and hold me tight
+I reach over and turn out the light
+We're gonna (love) in the middle of the night
+Let's (love) 'til broad daylight, gonna...(love)
+Ohhh, honey, it's so right
+Stay right here, honey let's do it together -- together
+
+Now honey i need encouragement
+If you want this high
+If kissing and touching really turn you on
+Let's reach for the sky
+Girl, let's reach for the sky
+
+'Til you reach over and hold me tight
+I reach over and turn out the light
+We're gonna (love) in the middle of the night
+Let's (love) 'til broad daylight, gonna...(love)
+Ohhh, honey, it's so right
+Stay right here, honey let's do it together -- together
+
+I really want you
+I can't stand to go a night without holding in my arms
+Honey, youuu...
+
+Ohhh, baby
+Ohh, baby

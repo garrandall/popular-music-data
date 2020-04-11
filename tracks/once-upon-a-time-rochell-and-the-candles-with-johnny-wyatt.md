@@ -1,7 +1,8 @@
 ---
 artists:
-- Rochell And The Candles With Johnny Wyatt
-features: []
+- Rochell And The Candles
+features:
+- Johnny Wyatt
 genres: []
 key: once-upon-a-time-rochell-and-the-candles-with-johnny-wyatt
 name: Once Upon A Time

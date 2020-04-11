@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dance-across-the-floor-jimmy--bo--horne
+lyrics_url: https://genius.com/Jimmy-bo-horne-dance-across-the-floor-lyrics
 name: Dance Across The Floor
 rankings:
 - end_date: '1978-04-07'
@@ -79,4 +80,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-07-29'
 ---
+Ah lets do it
+Lets dance
+Lets dance across the floor
+Yeah lets do it
+Lets dance
+Lets do it some more
+Ah lets do it
+Lets dance
+Dance across the floor
+Yeah lets do it
+Lets dance
+Lets do it some more
 
+With your baby
+All night long
+Doin the boogie to a funky song
+Havin a good time doin it all
+Gettin happy havin a ball, yall
+
+Lets do it
+Lets dance
+Lets dance across the floor
+Yeah lets do it
+Lets dance
+Lets do it some more
+
+Get on up, come on and get on down
+Shake your booty, shake it all around
+Are you gonna, do you wanna
+Come on out of your corner

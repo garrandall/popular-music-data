@@ -1,6 +1,7 @@
 ---
 artists:
-- The London Symphony Orchestra/John Williams
+- John Williams
+- The London Symphony Orchestra
 features: []
 genres: []
 key: theme-from-superman--main-title--the-london-symphony-orchestra-john-williams

@@ -1,10 +1,10 @@
 ---
 artists:
-- Huey Lewis
-- The News
+- Huey Lewis & The News
 features: []
 genres: []
 key: give-me-the-keys--and-i-ll-drive-you-crazy--huey-lewis-the-news
+lyrics_url: https://genius.com/Huey-lewis-and-the-news-give-me-the-keys-and-ill-drive-you-crazy-lyrics
 name: Give Me The Keys (And I'll Drive You Crazy)
 rankings:
 - end_date: '1989-01-27'
@@ -40,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-03-11'
 ---
+I can see you've got your motor running
+Don't you think you're movin kinda slow
+If you feel the way I feel
+Let me get behind the wheel
+We don't need any destination baby
+Anywhere you wanna go
 
+Give me the keys, and I'll drive you crazy
+Give me the keys, I'll drive you out of your mind
+
+Honey we don't need no registration
+We don't need no license anymore
+Let me in the driver's side
+And we can take a ride
+We don't need to ask directions baby
+I know where you wanna go
+
+Give me the keys, and I'll drive you crazy
+Give me the keys, I'll drive you out of your mind
+Give me the keys, and I'll drive you crazy
+Give me the keys, I'll drive you out of your mind
+
+Maybe we'll just ride into the sunset
+Drive around til who knows where or when
+And when it gets a little dark
+We'll find a quiet place to park
+And when the sun comes up in the morning baby
+Do it all over again

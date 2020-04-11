@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wheels-the-string-a-longs
+lyrics_url: https://genius.com/The-string-a-longs-wheels-lyrics
 name: Wheels
 rankings:
 - end_date: '1961-01-15'
@@ -71,4 +72,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-04-24'
 ---
+Berry Chuck
+Miscellaneous
+Down The Road A Piece
+Now if you wanna hear some boogie like I'm gonna play
+It's just an old piano and a knockout bass
+The drummer man's a cat they call Kickin' McCoy
+You know, remember that rubber-legged boy?
+Mama's cookin' chicken fried and bacon grease
+Come on along boys it's just down the road apiece
 
+Well, there's a place you really get your kicks
+It's open every night about twelve to six
+Now if you wanna hear some boogie you can get your fill
+And shove and sting like an old steam drill
+Come on along you can lose your lead
+Down the road, down the road, down the road apiece
+
+There's a place you really get your kicks
+It's open every night about twelve to six
+Now if you wanna hear some boogie you can get your fill
+And shove and sting like an old steam drill
+Come on along you can lose your lead
+Down the road, down the road, down the road apiece

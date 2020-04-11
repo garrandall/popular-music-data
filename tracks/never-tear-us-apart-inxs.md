@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-tear-us-apart-inxs
+lyrics_url: https://genius.com/Inxs-never-tear-us-apart-lyrics
 name: Never Tear Us Apart
 rankings:
 - end_date: '1988-08-19'
@@ -99,4 +100,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-14'
 ---
+Don't ask me
+What you know is true
+Don't have to tell you
+I love your precious heart
 
+
+I, I was standing
+You were there
+Two worlds collided
+And they could never tear us apart
+
+
+We could live
+For a thousand years
+But if I hurt you
+I'd make wine from your tears
+I told you
+That we could fly
+Cause we all have wings
+But some of us don't know why
+
+
+I,I was standing
+You were there
+Two worlds collided
+And they could never, ever tear us apart
+
+
+I, I was standing
+You were there
+Two worlds collided
+And they could never ever tear us apart
+
+
+I, I was standing
+You were there
+Two worlds collided
+And they could never tear us apart
+
+
+You was standing
+I was there
+Two worlds collided
+And they could never tear us apart
+
+
+I was standing
+You were there

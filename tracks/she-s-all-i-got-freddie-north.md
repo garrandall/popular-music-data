@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-all-i-got-freddie-north
+lyrics_url: https://www.musixmatch.com/lyrics/Freddie-North/She-s-All-I-Got
 name: She's All I Got
 rankings:
 - end_date: '1971-10-08'
@@ -55,4 +56,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-12-18'
 ---
+Friend, don't take her
+Please don't take her
+Love away from me
 
+I'm begging you, friend
+Don't take her
+She's everything in life
+I'll ever need
+
+She is life
+When I want to live
+She's everything to me
+In life that life can give
+
+She's my water
+When I need a drink
+She's the first thought
+In my mind each time
+I try to think
+
+And I say, friend
+Don't take her
+Please don't take her
+Love away from me
+
+I'm begging you, friend
+Don't take her
+She's everything in
+Life I'll ever need
+
+She's my fingers
+When I want to feel
+She's the only thing in life
+To me that's really real
+
+She is love
+She's all the love I know
+She could kiss the
+Ground in wintertime
+And make a flower grow
+
+Don't take her
+Please don't take her
+Please don't take her
+She's all I got...
+
+I'm begging you, friend
+Don't take her
+She's everything in life to me
+She is my life
+
+She's my love
+She's my fingers
+When I want to feel...

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: undercover-angel-alan-o-day
+lyrics_url: https://genius.com/Alan-oday-undercover-angel-lyrics
 name: Undercover Angel
 rankings:
 - end_date: '1977-04-08'
@@ -107,4 +108,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-09-17'
 ---
+Crying on my pillow, lonely in my bed
+Then I heard a voice beside me and she softly said
+Wonder is your night light, magic is your dream
+And as I held her, she said, see what I mean
 
+I said what?
+She said oo-oo-oo wee
+I said all right
+She said love me, love me, love me
+
+Undercover angel, midnight fantasy
+I've never had a dream that made sweet love to me
+Undercover angel, answer to my prayer
+You made me know that there's a love for me out there
+(Somewhere) Yeah, somewhere
+
+Heavenly surrender, sweet afterglow (undercover)
+I'm givin' up my heart to you, now angel don't go
+She said, go find the right one, love her and then (undercover)
+When you look into her eyes, you'll see me again
+
+I said what?
+She said oo-oo-oo wee
+I said all right
+She said love me, love me, love me
+
+Undercover angel, midnight fantasy
+I've never had a dream that made sweet love to me
+Undercover angel, answer to my prayer
+You made me know that there's a love for me out there
+(Somewhere) Woah, somewhere
+
+Now you know my story and, girl, if it's right
+I'm gonna take you in my arms and love you tonight
+Underneath the covers, the answer lies
+I'm lookin' for my angel in your sweet lovin' eyes
+
+She said what?
+I said oo-oo-oo wee
+She said all right
+I said lay next to me
+She said what?
+I said oo-oo-oo wee
+She said all right
+She said love me, love me, love me
+
+Undercover angel, midnight fantasy
+I've never had a dream that made sweet love to me (ooh)
+Undercover angel, answer to my prayer
+You made me know that there's a love for me
+
+Love me, love me, love me
+
+Undercover angel, midnight fantasy
+I've never had a dream that made sweet love to me
+Undercover angel, answer to my prayer
+You made me know that there's a love for me out there
+
+Out there somewhere

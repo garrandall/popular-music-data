@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: -i-d-know-you--anywhere-ashford-simpson
+lyrics_url: https://genius.com/Ashford-and-simpson-anywhere-lyrics
 name: (I'd Know You) Anywhere
 rankings:
 - end_date: '1974-01-25'
@@ -20,4 +21,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-02'
 ---
+There may be other hands
+But they're just imitation
+Cause they can't and never will
+Make Me feel the same vibration
+And there may be another voice
+That may sound just as sweet
+Could there be another pair of arms
+To make Me feel so complete
 
+I'd know You anywhere (3x)
+
+Chorus:
+Said I would know You
+Anywhere You go
+Said I would know You
+Anywhere You go
+
+Said I would know You, babe
+Anywhere You go
+I'd know You, baby, anywhere You go
+You don't know how long it's been
+You couldn't fool Me
+No matter where or when I would know You
+
+A thousand hands may touch Me with their eyes closed
+Oh, baby, I'd know You by the tenderness
+I would know You by the sweet, sweet tenderness
+A thousand voices may call My name out loud in a crowd
+But I'd know You by the melody that flows from You
+
+Repeat Chorus
+
+Change the world if You want to
+I'd know You, baby, I'd know You
+
+A thousand hands may touch Me with their eyes closed
+Oh, baby, I'd know You by the tenderness
+I would know You by the sweet, sweet tenderness
+A thousand voices may call My name out loud in a crowd
+But I'd know You by the melody that flows from You
+
+Repeat Chorus

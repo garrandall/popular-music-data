@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-saw-her-standing-there-the-beatles
+lyrics_url: https://genius.com/The-beatles-i-saw-her-standing-there-lyrics
 name: I Saw Her Standing There
 rankings:
 - end_date: '1964-02-14'
@@ -51,4 +52,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-04-18'
 ---
+1, 2, 3, 4!
 
+
+Well, she was just 17, if you know what I mean
+And the way she looked
+Was way beyond compare
+So how could I dance with another? (Ooh)
+When I saw her standing there?
+
+
+Well, she looked at me, and I, I could see
+That before too long, I'd fall in love with her
+She wouldn't dance with another (Woo)
+When I saw her standing there
+
+
+Well, my heart went "boom"
+When I crossed that room
+And I held her hand in mine
+
+
+Well, we danced through the night
+And we held each other tight
+And before too long, I fell in love with her
+Now, I'll never dance with another (Woo)
+Since I saw her standing there
+
+
+
+
+Well, my heart went "boom"
+When I crossed that room
+And I held her hand in mine
+
+
+Oh, we danced through the night
+And we held each other tight
+And before too long, I fell in love with her
+Now I'll never dance with another (Woo)
+Since I saw her standing there
+
+
+Oh, since I saw her standing there
+Yeah, well, since I saw her standing there

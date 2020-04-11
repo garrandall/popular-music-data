@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-luv-u-baby-the-original
+lyrics_url: https://genius.com/Original-i-luv-u-baby-lyrics
 name: I Luv U Baby
 rankings:
 - end_date: '1996-10-25'
@@ -71,4 +72,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-02-01'
 ---
+I love you baby
+I love you baby
+I love you baby
+I love you baby
+I love you baby
+I love you baby
+I love you baby
 
+
+There's so many angels surrounding me
+And clouds I see are below
+Tellin' me what I already know
+The sun couldn't be brighter
+And the moon at night like a tune I like
+It's such a joy
+That my lips can't hold anymore
+
+
+I, I love you baby, I love you baby
+I, I love you baby
+I love you baby
+I love you baby
+I love you baby
+I love you baby
+I love you baby
+I love you baby
+I love you baby
+I love you baby
+
+
+I feel like I'm dancin'
+To my own heartbeat
+My soul's got feet
+And I pray
+That this feelin' never ends
+I can't stop smilin'
+My mouth can't hide what's deep down inside my soul
+And I gotta say it again, and again, and again, and again
+
+
+I, I love you baby, I love you baby
+I, I love you baby
+I love you baby
+I love you baby
+I love you baby
+I love you baby
+I love you baby
+I love you baby
+I love you baby
+I love you baby
+I
+I
+(I love you baby)

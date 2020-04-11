@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lucky-greg-kihn
+lyrics_url: https://genius.com/Greg-kihn-lucky-lyrics
 name: Lucky
 rankings:
 - end_date: '1985-02-22'
@@ -55,4 +56,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-05-04'
 ---
+Aw, aw, aw...
 
+Games, I never used to play
+Cause everytime I'd lose
+It just turns out that way
+I almost lost it all
+
+And then I, I got lucky
+Ooh, I got lucky
+I got lucky
+Ooh, I got lucky
+
+In love
+My fortunes never changed
+And I always took the blame
+And I had nothing left to gain
+I was just about to quit
+And then I, I got lucky
+Ooh, I got lucky
+I got lucky
+Ooh, I got lucky
+I got lucky
+Ooh, I got lucky
+I got lucky
+
+Aw, aw, aw
+Aw, aw, aw
+
+Lucky, lucky
+Lucky, lucky
+Lucky, lucky
+Lucky, lucky
+
+Time was always running out
+And it took me by surprise
+And it filled my life with doubt
+I almost lost it all
+
+And then I, I got lucky
+Ooh, I got lucky
+I got lucky
+Ooh, I got lucky
+I got lucky
+Ooh, I got lucky
+I got lucky
+Ooh, I got lucky
+
+Yeah, yeah, oh, oh

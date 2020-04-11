@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: see-me-feel-me-the-who
+lyrics_url: https://genius.com/The-who-see-me-feel-me-lyrics
 name: See Me Feel Me
 rankings:
 - end_date: '1970-10-02'
@@ -59,4 +60,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-12-19'
 ---
+See Me
+Feel Me
+Touch Me
+Heal Me
 
+See Me
+Feel Me
+Touch Me
+Heal Me
+
+Listening to you, I get the music
+Gazing at you, I get the heat
+Following you, I climb the mountain
+I get excitement at your feet
+
+Right behind you, I see the millions
+On you, I see the glory
+From you, I get opinion
+From you, I get the story
+
+Listening to you, I get the music
+Gazing at you, I get the heat
+Following you, I climb the mountain
+I get excitement at your feet
+
+Right behind you, I see the millions
+On you, I see the glory
+From you, I get opinion
+From you, I get the story

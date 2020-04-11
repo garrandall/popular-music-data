@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-wake-me-up-chris-brown
+lyrics_url: https://genius.com/Chris-brown-dont-wake-me-up-lyrics
 name: Don't Wake Me Up
 rankings:
 - end_date: '2012-06-15'
@@ -119,4 +120,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-01-19'
 ---
+Dearly beloved, if this love only exists in my dreams
+Don't wake me up
 
+
+Too much light in this window, don't wake me up
+Only coffee, no sugar inside my cup
+If I wake and you're here still, give me a kiss
+I wasn't finished dreaming about your lips
+
+
+Don't wake me up, up, up, up, up, up
+Don't wake me up, up, up, up, up, up
+Don't wake me up, up, up, up, up, up
+Don't wake me up, don't wake me
+
+
+Don't wake me up, up
+Don't wake me up
+Don't wake me up, yeah
+Don't wake me up, up, up, up, up, up
+Don't wake me up, don't wake me
+
+
+So much life in the city, you won't believe
+Been awake for some days now, no time to sleep
+If your heart is a pillow, this love's the bed
+Tell me what is the music inside my head
+
+
+Don't wake me up, up, up, up, up, up
+Don't wake me up, up, up, up, up, up
+Don't wake me up, up, up, up, up, up
+Don't wake me up, don't wake me
+
+
+Don't wake me up, up, up
+Don't wake me up
+Don't wake me up, yeah
+Don't wake me up, up, up, up, up, up
+Don't wake me up, don't wake me
+
+
+I don't wanna fall, fall, fall, fall asleep, no
+I don't wanna fall unless I'm falling for you
+I don't wanna fall, fall, fall, fall asleep, no
+I don't wanna fall unless I'm falling for you
+
+
+Don't wake me up, up, up
+Don't wake me up
+Don't wake me up, yeah
+Don't wake me up, up, up, up, up, up
+Don't wake me up, don't wake me

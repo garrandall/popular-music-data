@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: arrow-through-me-wings
+lyrics_url: https://genius.com/Paul-mccartney-and-wings-arrow-through-me-lyrics
 name: Arrow Through Me
 rankings:
 - end_date: '1979-08-31'
@@ -47,4 +48,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
 ---
+Ooh baby
+You couldn't have done a worse thing to me
+If you'd have taken an arrow
+And run it right through me, ooh
+Ooh baby, a bird in the hand
+Is worth two flying
+But when it came to love
+I knew you'd be lying
 
+It could have been a finer fling
+Would have been a major attraction
+With no other thing
+Offering a note of distraction
+Come on, get up, get under way
+And bring your love
+
+Ooh baby
+You wouldn't have found a more down hero
+If you'd have started at nothing
+And counted to zero
+
+Ooh baby
+You couldn't have done a worse thing to me
+If you'd have taken an arrow
+And run it right through me
+
+It could have been a finer fling
+Flying in a righter direction
+With no other thing
+Featuring but love and affection
+Come on, get up, get under way
+And bring your love
+
+Ooh baby
+You wouldn't have found a more down hero
+If you'd have started at nothing
+And counted to zero

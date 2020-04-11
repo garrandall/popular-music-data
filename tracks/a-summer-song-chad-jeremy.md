@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: a-summer-song-chad-jeremy
+lyrics_url: https://genius.com/Chad-and-jeremy-a-summer-song-lyrics
 name: A Summer Song
 rankings:
 - end_date: '1964-08-21'
@@ -64,4 +65,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-11-14'
 ---
+Trees swayin' in the summer breeze
+Showin' off their silver leaves
+As we walked by
 
+Soft kisses on a summer's day
+Laughing all our cares away
+Just you and I
+
+Sweet sleepy warmth of summer nights
+Gazing at the distant lights
+In the starry sky
+
+They say that all good things must end some day
+Autumn leaves must fall
+But don't you know that it hurts me so
+To say goodbye to you
+Wish you didn't have to go
+No no no no
+
+And when the rain
+Beats against my window pane
+I'll think of summer days again
+And dream of you
+
+They say that all good things must end some day
+Autumn leaves must fall
+But don't you know that it hurts me so
+To say goodbye to you
+Wish you didn't have to go
+No no no no
+
+And when the rain
+Beats against my window pane
+I'll think of summer days again
+And dream of you
+And dream of you

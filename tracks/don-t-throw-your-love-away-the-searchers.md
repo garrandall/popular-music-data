@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-throw-your-love-away-the-searchers
+lyrics_url: https://genius.com/The-searchers-dont-throw-your-love-away-lyrics
 name: Don't Throw Your Love Away
 rankings:
 - end_date: '1964-06-05'
@@ -51,4 +52,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-08'
 ---
+Don't throw your love away
+No, no, no, no
+Don't throw your love away
+For you might need it someday
 
+Don't throw your dreams away
+No, no, no, no
+Keep them another day
+For you might need them someday
+
+Lovers of today
+Just throw their dreams away
+And play at love
+They give their love away
+To anyone who'll say
+"I love you"
+
+Don't throw your love away
+No, no, no, no
+Don't throw your love away
+For you might need it someday
+
+Lovers of today
+Just throw their dreams away
+And play at love
+They give their love away
+To anyone who'll say
+"I love you"
+
+Go out and have your fun
+You better
+Have your fun with anyone
+But don't throw your love away
+
+Don't throw your love away
+No, no, no, no
+Don't throw your love away
+For you might need it someday
+
+Don't throw your love away
+No, no, no, no
+Don't throw your love away-ay

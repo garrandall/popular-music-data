@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-would-die-4-u-prince-and-the-revolution
+lyrics_url: https://genius.com/Prince-and-the-revolution-i-would-die-4-u-lyrics
 name: I Would Die 4 U
 rankings:
 - end_date: '1984-12-21'
@@ -71,4 +72,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-05-14'
 ---
+I'm not a woman
+I'm not a man
+I am something that you'll never understand
+I'll never beat you
+I never lie
+And if you're evil I'll forgive you by and by, 'cause...
 
+
+You - I would die for you, yeah
+Darling, if you want me to
+You - I would die for you
+
+
+I'm not your lover
+I'm not your friend
+I am something that you'll never comprehend
+No need to worry
+No need to cry
+I'm your messiah, and you're the reason why, 'cause...
+
+
+You - I would die for you, yeah
+Darling, if you want me to
+You - I would die for you, woo!
+
+
+
+
+You're just a sinner, I am told
+Be your fire when you're cold
+Make you happy when you're sad
+Make you good when you are bad
+I'm not a human
+I am a dove
+I'm your conscience
+I am love
+All I really need is to know that you believe
+
+
+Yeah, I would die for you, yeah
+Darling, if you want me to
+You - I would die for you
+Yeah, say one more time
+You - I would die for you
+Darling, if you want me to
+You - I would die for you
+2, 3, 4, you!
+
+
+I would, die for, you
+I would, die for, you
+You - I would, die for, you
+You - I would, die for, you

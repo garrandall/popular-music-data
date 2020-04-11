@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-climb-the-kingsmen
+lyrics_url: https://genius.com/The-kingsmen-the-climb-lyrics
 name: The Climb
 rankings:
 - end_date: '1965-05-14'
@@ -31,4 +32,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-12'
 ---
+I say come on everybody (come on everybody)
+And do the climb (do the climb)
+Yeah come on everybody (come on everybody)
+Do the climb (do the climb)
+Come on everybody yeah yeah right on time
 
+I say come on everybody (come on everybody)
+Do the climb now (do the climb)
+Come on pretty baby, yeah (come on everybody)
+Do the climb (do the climb)
+Yeah, come on everybody right on time
+Oh do the climb, I'm listenin'
+
+Yeah, lemme hear those hands
+Come on, I can't hear you
+Come on, come on
+Are you ready (yeah)
+Said are you ready (yeah)
+Here we go
+I said climb, climb, climb, climb, climb
+
+Come on everybody (come on everybody)
+Do the climb now yeah (do the climb)
+Yeah come on everybody (come on everybody)
+Do the climb (do the climb)
+Yeah, come on everybody right on time
+Yeah one more time
+
+Clap those hand, yeah, come on, come on
+Are you ready (yeah)
+Here we go, let me hear it
+I said climb, come on
+I can't hear you (climb, climb, climb, climb)
+
+I said come on everybody (come on everybody)
+And do the climb now, yeah yeah (do the climb)
+Come on everybody (come on everybody)
+Do the climb (do the climb)
+Come on everybody yeah yeah and do the climb

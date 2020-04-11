@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-ain-t-your-color-keith-urban
+lyrics_url: https://genius.com/Keith-urban-blue-aint-your-color-lyrics
 name: Blue Ain't Your Color
 rankings:
 - end_date: '2016-10-07'
@@ -91,4 +92,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-02-18'
 ---
+I can...
+See you over there starin' at your drink
+Watchin' that ice sink, all alone tonight
+And...
+Chances are you're sittin' here in this bar
+'Cause he ain't gonna treat you right
+Well, it's...
+Probably not my place but I'm gonna say it anyway
+‘Cause you look like
+You...
+Haven’t felt the fire, had a little fun
+Hadn’t had a smile in a little while, baby
 
+
+Blue...
+Looks good on the sky
+Looks good on that neon buzzin’ on the wall
+But darlin', it don’t match your eyes
+I’m tellin’ you...
+You don’t need that guy
+It’s so black and white, he’s stealin’ your thunder
+Baby, blue ain’t your color
+
+
+I'm not tryna...
+Be another just pick you up kinda guy
+Tryna drink you up, tryna take you home
+But I just...
+I don't understand how another man
+Can take your sun and turn it ice cold
+Well, I've...
+Had enough to drink and it's makin' me think
+That I just might
+Tell you...
+If I were a painter I wouldn’t change ya
+I’d just paint you bright, baby
+
+
+'Cause blue...
+Looks good on the sky
+Looks good on that neon buzzin’ on the wall
+But darlin', it don’t match your eyes
+I’m tellin’ you...
+You don’t need that guy
+It’s so black and white, he’s stealin’ your thunder
+Baby, blue ain’t your color
+
+
+No, no, no
+Mmmm
+It ain't your color baby
+Mmm, baby
+
+
+Blue...
+Looks good on the sky
+Looks good on that neon buzzin’ on the wall
+But darlin', it don’t match your eyes
+I’m tellin’ you...
+You don’t need that guy
+It’s so black and white, he’s stealin’ your thunder
+Baby, blue ain’t your color
+Blue ain’t your color
+
+
+Mmm, no, no, no baby
+Come here, baby
+Let me light up your world

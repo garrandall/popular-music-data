@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-ve-got-a-way-shania-twain
+lyrics_url: https://genius.com/Shania-twain-youve-got-a-way-lyrics
 name: You've Got A Way
 rankings:
 - end_date: '1999-07-23'
@@ -59,4 +60,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-10-09'
 ---
+You've got a way with me
+Somehow you got me to believe
+In everything that I could be
+I've gotta say, you really got a way
+You've got a way it seems
+You gave me faith to find my dreams
+You'll never know just what that means
+Can't you see?
+You've got a way with me
 
+
+It's in the way you want me
+It's in the way you hold me
+The way you show me just what love's made of
+It's in the way we make love
+
+
+You've got a way with words
+You get me smiling even when it hurts
+There's no way to measure what your love is worth
+I can't believe the way you get through to me
+
+
+It's in the way you want me
+It's in the way you hold me
+The way you show me just what love's made of
+It's in the way we make love
+
+
+Oh, how I adore you
+Like no one before you
+I love you just the way you are
+
+
+It's in the way you want me
+Oh, it's in the way you hold me
+The way you show me just what love's made of
+It's in the way we make love
+
+
+It's just the way you are

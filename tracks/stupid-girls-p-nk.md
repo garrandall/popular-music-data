@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stupid-girls-p-nk
+lyrics_url: https://www.musixmatch.com/lyrics/P-nk-2/Stupid-Girls
 name: Stupid Girls
 rankings:
 - end_date: '2006-03-03'
@@ -71,4 +72,96 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-06-10'
 ---
+Stupid girl
+Stupid girls
+Stupid girls
 
+Maybe if I act like that
+That guy will call me back
+Porno paparazzi girls
+I don't wanna be a stupid girl
+
+Go to Fred Segal, you'll find them there
+Laughing loud, so all the little people stare
+Looking for a daddy, to pay for the champagne
+Droppin' names
+
+What happened to the dream of a girl president
+She's dancing in the video next to 50 cent
+They travel in packs of two and three
+With their itsy bitsy doggies, and their teeny-weeny tees
+
+Where, oh where, have the smart people gone
+Where, oh where could they be
+
+Maybe if I act like that
+That guy will call me back
+Porno paparazzi girls
+I don't wanna be a stupid girl
+
+Maybe if I act like that
+Flippin' my blond hair back
+Push up my bra like that
+I don't wanna be a stupid girl
+
+Break it down, now
+
+The disease is growing, it's epidemic
+I'm scared that there ain't a cure
+The world believes it, and I'm going crazy
+I cannot take any more
+
+I'm so glad that I'll never fit in
+That will never be me
+Outcasts and girls with ambition
+That's what I wanna see (c'mon)
+
+Disaster's all around
+A world of despair
+Your only concern
+Will they fuck up my hair
+
+Maybe if I act like that
+That guy will call me back
+Porno paparazzi girls
+I don't wanna be a stupid girl
+
+Maybe if I act like that
+Flippin' my blond hair back
+Push up my bra like that
+I don't wanna be a stupid girl
+
+Do ya thing, do ya thing,
+Do ya thing, do ya thing, do ya
+I like this, like this, like this
+
+Pretty will you fuck me girl
+Silly I'm so lucky girl
+Pull my hair I'll suck it girl
+Stupid girl
+Pretty will you fuck me girl
+Silly I'm so lucky girl
+Pull my hair I'll suck it girl
+Stupid girl
+
+Maybe if I act like that
+Flipping my blond hair back
+Push up my bra like that
+Stupid girl
+
+Maybe if I act like that
+That guy will call me back
+Porno paparazzi girls
+I don't wanna be a stupid girl
+
+Maybe if I act like that
+Flippin' my blond hair back
+Push up my bra like that
+I don't wanna be a stupid girl
+
+Maybe if I act like that
+Flipping my blond hair back
+Push up my bra like that
+Stupid girl
+Stupid girl
+Stupid girl

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-can-t-do-that-the-beatles
+lyrics_url: https://genius.com/The-beatles-you-cant-do-that-lyrics
 name: You Can't Do That
 rankings:
 - end_date: '1964-04-10'
@@ -23,4 +24,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-04-25'
 ---
+I’ve got something to say that might cause you pain
+If I catch you talking to that boy again
+I’m going to let you down
+And leave you flat
+Because I told you before
+Oh, you can’t do that
 
+
+Well, it’s the second time I’ve caught you talking to him
+Do I have to tell you one more time, I think it’s a sin
+I think I'll let you down (Let you down)
+And leave you flat (Going to let you down and leave you flat)
+Because I told you before
+Oh, you can’t do that
+
+
+Everybody's green
+'Cause I'm the one who won your love
+But if they'd seen
+You talking that way
+They'd laugh in my face
+
+
+So please listen to me if you want to stay mine
+I can’t help my feelings, I go out of my mind
+I'm going to let you down (Let you down)
+And leave you flat (Going to let you down and leave you flat)
+Because I told you before
+Oh, you can’t do that!
+
+
+(You can't do that)
+(You can't do that)
+(You can't do that)
+(You can't do that)
+(You can't do that)
+
+
+Everybody's green
+'Cause I'm the one who won your love
+But if they'd seen
+You talking that way
+They'd laugh in my face
+
+
+So please listen to me if you want to stay mine
+I can’t help my feelings, I go out of my mind
+I'm going to let you down (Let you down)
+And leave you flat (Going to let you down and leave you flat)
+Because I told you before
+Oh, you can’t do that!

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-girl-on-page-44-the-four-lads
+lyrics_url: https://www.musixmatch.com/lyrics/The-Four-Lads/The-Girl-on-Page-44
 name: The Girl On Page 44
 rankings:
 - end_date: '1959-01-11'
@@ -47,4 +48,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-09'
 ---
+I'd like to get a girl
+From Sears and Roebuck
+Like the one that I saw
+Wearing short shorts on page 44
 
+I sent for lots of things
+From Sears and Roebuck
+Spark plugs and fancy ties
+Now I'd like to send for the
+Gal with baby blue eyes
+
+So tell me, what's the order number
+For the cutest number in your catalog
+Gee, I need her, oh, so badly
+I'll spend a million kisses gladly
+
+I'm lonely
+Mr. Sears and Mr. Roebuck
+Come on and send her to me
+And make it Air Mail Special KOD
+
+Wearing short shorts on page 44
+
+Now I'd like to send for the
+Gal with baby blue eyes
+
+So tell me, what's the order number
+For the cutest number in your catalog
+Gee, I need her, oh, so badly
+I'll spend a million kisses gladly
+
+I'm lonely
+Mr. Sears and Mr. Roebuck
+Come on and send her to me
+And make it Air Mail Special KOD
+
+Kisses On Delivery
+Air Mail Special KOD

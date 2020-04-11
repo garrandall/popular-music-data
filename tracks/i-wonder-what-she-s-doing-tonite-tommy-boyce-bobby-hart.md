@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: i-wonder-what-she-s-doing-tonite-tommy-boyce-bobby-hart
+lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Boyce-feat-Bobby-Hart/I-Wonder-What-She-s-Doing-Tonite
 name: I Wonder What She's Doing Tonite
 rankings:
 - end_date: '1967-12-29'
@@ -64,4 +65,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-03-23'
 ---
+If I had told her that I loved her
+She would have stayed till who knows when
+But I guess she couldn't understand it
+When I said I want to be your friend
+Cause a friend would never doubt you
+Or ever put you uptight
+And now I wonder what she's doing tonight
 
+REFRAIN
+
+Oh yes I wonder
+What she's doing tonight
+Ohoh I wonder what she's doing
+Tonight
+
+We were so close we shouldn't get closer
+And it's making me feel so sad
+But I tell myself I didn't lose her
+Cause you can't lose a friend you never had (come on now)
+Cause a friend won't say it's over
+And go out just for spite
+And now I wonder what she's doing tonight
+
+REFRAIN
+
+(All right Bobby)
+Because a friend will always be there
+If you're wrong or if you're right
+And now I wonder what she's doing tonight
+
+REFRAIN

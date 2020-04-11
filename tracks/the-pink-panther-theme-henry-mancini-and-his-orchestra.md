@@ -1,9 +1,10 @@
 ---
 artists:
-- Henry Mancini And His Orchestra
+- Henry Mancini
 features: []
 genres: []
 key: the-pink-panther-theme-henry-mancini-and-his-orchestra
+lyrics_url: https://www.musixmatch.com/lyrics/Henry-Mancini-and-His-Orchestra-Chorus/The-Pink-Panther-Theme
 name: The Pink Panther Theme
 rankings:
 - end_date: '1964-04-10'
@@ -39,4 +40,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-23'
 ---
+Think of all the animals you've ever heard about
+Like rhinoceroses and tigers, cats and mink
+There are lots of funny animals in all this world
+But have you ever seen a panther that is pink?
 
+Think!
+
+A panther that is positively pink,
+
+Well here he is, the pink panther,
+The rinky-dink panther,
+Isn't he a panther ever so pink?
+
+He really is a groovy cat,
+And what a gentleman, a scholar, what an acrobat!
+
+He's in the pink, the pink panther
+The rinky-dink panther,
+And it's as plain as your nose,
+That he's the one and only, truly original,
+Panther-pink (panther) from head to toes!

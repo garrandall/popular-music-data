@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-rita-coolidge
+lyrics_url: https://genius.com/Rita-coolidge-i-believe-in-you-lyrics
 name: You
 rankings:
 - end_date: '1978-07-07'
@@ -55,4 +56,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-09-16'
 ---
+Now that you found yourself losing your mind
+Are you here again?
+Finding that what you once thought was real
+Is gone, and changing?
 
+Now that you made yourself love me
+Do you think I can change it in a day?
+How can I place you above me?
+Am I lying to you when I say
+That I believe in you
+I believe in you
+
+Coming to you at night
+I see my questions
+I feel my doubts
+Wishing that maybe in a year or two
+We could laugh and let it all out
+
+Now that you made yourself love me
+Do you think I can change it in a day?
+How can I place you above me?
+Am I lying to you when I say
+That I believe in you
+I believe in you

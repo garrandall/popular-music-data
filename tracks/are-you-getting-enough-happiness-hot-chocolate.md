@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: are-you-getting-enough-happiness-hot-chocolate
+lyrics_url: https://www.musixmatch.com/lyrics/Hot-Chocolate/Are-You-Getting-Enough-Happiness
 name: Are You Getting Enough Happiness
 rankings:
 - end_date: '1982-12-24'
@@ -35,4 +36,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-29'
 ---
+Every time I go to the movies
+All I see is happy love on the silver screen
+Everywhere I go, I see men and women lovin'
+Kissin' and a huggin', enjoyin' life
 
+Oh, what's the matter with me, am I lonely?
+Is there anybody out there who feels the same?
+Every time I turn on my TV
+I see somebody lovin' somebody
+
+Are you getting enough happiness?
+Are you getting enough of what makes you happy?
+Are you getting enough happiness?
+Are you getting enough of what makes you happy?
+
+Every time I open a book or read a magazine
+There's happy love everywhere I look
+Every page I turn I can read between the lines
+That the boys gonna get it, get it tonight
+
+Well, what's the matter with me? Am I the only one?
+Oh, is there somebody out there who feels the same?
+Every time I turn on my radio
+I hear a love song playin' on every show
+
+Are you getting enough happiness?
+Are you getting enough of what makes you happy?
+Are you getting enough happiness?
+Are you getting enough of what makes you happy?
+
+I need excitement in my life
+I need happiness, happiness every night
+I need someone to call upon
+When the need is strong for lovin', lovin'
+
+Are you getting enough happiness?
+Are you getting enough of what makes you happy?
+Are you getting enough happiness?
+Are you getting enough of what makes you happy?
+
+Are you getting enough, kissin', huggin', lovin'?
+Are you getting enough of what makes you happy?
+Are you getting enough lovin'?
+Are you getting enough of what makes you happy?
+
+Are you getting enough of happiness?
+Are you getting enough of what makes you happy?
+Are you getting enough of happiness?
+Are you getting enough of what makes you happy?
+
+Are you getting enough happiness?
+Are you getting enough of what makes you happy?
+Are you getting enough of happiness?
+Are you getting enough of what makes you happy?
+
+Are you getting enough happiness?
+Are you getting enough of what makes you happy?

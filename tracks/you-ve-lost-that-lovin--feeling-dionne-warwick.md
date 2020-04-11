@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-ve-lost-that-lovin--feeling-dionne-warwick
+lyrics_url: https://genius.com/Dionne-warwick-youve-lost-that-lovin-feeling-lyrics
 name: You've Lost That Lovin' Feeling
 rankings:
 - end_date: '1969-09-26'
@@ -47,4 +48,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-22'
 ---
+You never close your eyes any more when I kiss your lips
+And there's no tenderness like before in your fingertips
+Mmm, you're tryin' hard not to show it, baby
+But baby, baby I know it
 
+You've lost that lovin' feelin' me like you used to do
+You know that
+We had a love, a love, a love you don't find every day
+No no, no no, no no no no no no no
+So don't, don't, don't, don't, baby don't throw it away
+Na na, don't throw it away, don't throw it away
+Now baby, oh baby, I beg you baby, oh baby
+I beg you please, I need your love
+So bring it on back, bring it back
+Bring it back, bring it, bring it, bring it back
+
+Bring back that lovin' feelin' o-o-oh that lovin' feelin'

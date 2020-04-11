@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-never-rains-in-southern-california-albert-hammond
+lyrics_url: https://genius.com/Albert-hammond-it-never-rains-in-southern-california-lyrics
 name: It Never Rains In Southern California
 rankings:
 - end_date: '1972-10-27'
@@ -71,4 +72,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-02-03'
 ---
+Got on board a westbound seven forty-seven
+Didn't think before deciding what to do
+Ooh, that talk of opportunities
+TV breaks and movies
+Rang true, sure rang true
 
+
+Seems it never rains in southern California
+Seems I've often heard that kind of talk before
+It never rains in California, but girl, don't they warn ya?
+It pours, man, it pours
+
+
+Out of work, I'm out of my head
+I'm out of self respect, I'm out of bread
+I'm under-loved, I'm underfed
+I wanna go home
+
+
+It never rains in California, but girl, don't they warn ya?
+It pours, man, it pours
+
+
+Will you tell the folks back home I nearly made it?
+Had offers but didn't know which one to take
+Please don't tell 'em how you found me
+Don't tell 'em how you found me
+Gimme a break, give me a break
+
+
+Seems it never rains in southern California
+Seems I've often heard that kind of talk before
+It never rains in California, but girl, don't they warn ya?
+It pours, man, it pours

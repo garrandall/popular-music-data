@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: superman-herbie-mann
+lyrics_url: https://genius.com/Herbie-mann-superman-lyrics
 name: Superman
 rankings:
 - end_date: '1979-01-19'
@@ -79,4 +80,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-05-12'
 ---
-
+(Spoken)
+Look, up in the sky! It's a bird!
+It's a plane!
+Nooo! It's Superman!
+Superman, I love you Superman
+Do it to them, Superman
+We love you, Superman
+Superman, we love you Superman
+Do it to them, Superman
+We need you, Superman
+Superman, you make me feel like the queen of the world
+Superman, you make me feel so special when
+You're zooming up and down around
+You're flying oh so high and wow!
+You lift me up your super bad
+I wanna shout again and again
+Superman, we love you Superman
+Do it to them, Superman
+We love you, Superman
+Superman, you make me feel like the queen of the world
+Superman, you make me feel so special when
+You're zooming up and down around
+You're flying oh so high and wow!
+You lift me up your super bad
+I wanna shout again and again
+Superman, we love you Superman
+Do it to them, Superman
+We need you, Superman
+Superman, I love you Superman
+Do it to them, Superman
+I love you, Superman
+FADE:
+Superman, I love you Superman

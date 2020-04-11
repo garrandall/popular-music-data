@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: goodbye-baby-jack-scott
+lyrics_url: https://genius.com/Jack-scott-goodbye-baby-lyrics
 name: Goodbye Baby
 rankings:
 - end_date: '1958-12-21'
@@ -71,4 +72,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-30'
 ---
+Ooh, bye bye
+Ooh, bye bye
 
+Goodbye baby, bye bye
+Goodbye baby, bye bye
+Goodbye baby, bye bye
+I'm gonna leave you now
+
+Goodbye baby, bye bye
+Goodbye baby, bye bye
+Goodbye baby, bye bye
+Johnny's going away
+
+You were wrong, pretty baby, bye bye
+Oh, so wrong, pretty baby, bye bye
+Yes, so wrong, pretty baby, bye bye
+Please don't you cry
+
+Oh, goodbye baby, baby, bye bye
+Goodbye baby, baby, bye bye
+Goodbye baby, baby, bye bye
+I'm gonna leave you now
+
+Baby, bye bye, baby, bye bye
+Baby, bye bye, baby, bye bye
+Baby, bye bye, baby, bye bye
+Baby, bye bye, baby, bye bye
+
+Oh, goodbye baby, bye bye
+Goodbye baby, bye bye
+Goodbye baby, bye bye
+Johnny's going away
+
+Take my hand, pretty baby, bye bye
+One more time, pretty baby, bye bye
+Take my hand, pretty baby, bye bye
+Hope you'll understand
+
+Oh, oh
+Goodbye, bay-hey, hey, hey
+Goodbye, bay-hey, hey, hey
+
+Ooh, bye bye
+Ooh, bye bye

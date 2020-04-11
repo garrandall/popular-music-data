@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: without-you-mariah-carey
+lyrics_url: https://genius.com/Mariah-carey-without-you-lyrics
 name: Without You
 rankings:
 - end_date: '1994-02-04'
@@ -99,4 +100,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-07-02'
 ---
+No, I can't forget this evening
+Or your face as you were leaving
+But I guess that's just the way the story goes
+You always smile, but in your eyes, your sorrow shows
+Yes, it shows
+No, I can't forget tomorrow
+When I think of all my sorrow
+When I had you there, but then I let you go
+And now it's only fair that I should let you know
+What you should know
 
+
+I can't live
+If living is without you
+I can't live
+I can't give anymore
+I can't live
+If living is without you
+I can't give
+I can't give anymore
+
+
+Well, I can't forget this evening
+Or your face as you were leaving
+But I guess that's just the way the story goes
+You always smile, but in your eyes, your sorrow show
+Yes, it shows
+
+
+I can't live
+If living is without you
+I can't live
+I can't give anymore
+I can't live
+If living is without you
+I can't live
+I can't give anymore
+(No, can't live)
+(No, I can't live)
+No, no, no, no, hey
+I can't live (No, can't live)
+If living is without you (No, I can't live)
+I can't live
+I can't give anymore
+Can't live (No, can't live, no, I can't live)

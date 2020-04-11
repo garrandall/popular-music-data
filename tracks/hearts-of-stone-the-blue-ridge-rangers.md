@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hearts-of-stone-the-blue-ridge-rangers
+lyrics_url: https://genius.com/Blue-ridge-rangers-hearts-of-stone-lyrics
 name: Hearts Of Stone
 rankings:
 - end_date: '1973-04-06'
@@ -55,4 +56,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-16'
 ---
+Well, hearts made of stone
+Will never break
+And the love you give
+It just won't take
 
+You can ask them please
+Please, please, please break
+And all of your love
+Is there to take
+
+Well, hearts of stone
+Will cause you pain
+Although you love them
+They'll stop you just the same
+
+You can ask them please
+Please, please, please break
+And all of your love
+Is there to take
+
+But they'll say no, no, no, no
+No, no, no, no, no, no, no, no
+
+Everybody knows
+I thought you knew
+Hearts made of stone
+
+Well, hearts of stone
+Will cause you pain
+Although you love them
+Stop you just the same
+
+You can ask them please
+Please, please, please, please
+And all of your love
+Is there to take, yeah
+
+But they'll say no, no, no, no
+No, no, no, no, no, no, no, no
+
+Everybody knows
+I thought you knew
+Hearts made of stone

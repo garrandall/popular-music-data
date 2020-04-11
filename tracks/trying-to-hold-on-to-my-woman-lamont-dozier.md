@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: trying-to-hold-on-to-my-woman-lamont-dozier
+lyrics_url: https://genius.com/Lamont-dozier-trying-to-hold-on-to-my-woman-lyrics
 name: Trying To Hold On To My Woman
 rankings:
 - end_date: '1973-12-28'
@@ -79,4 +80,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-04-20'
 ---
+I'm just tryin' to hold on to my woman
+To my life
+I've got a woman that satisfies my every need
+She's got a formula guaranteed to please
+You know what, there was once a time
+When I ran the streets
+And tryin' to sweep all the girls
+Off their feet
+But that kind of kind
+It only destroys
+And that's why I have no desire
+To paint the town with the boys
+I stay home
+I just tryin', tryin ta hold on, hold on
+To my..., aah
+My woman, my life
 
+I feel like I want to testify
+For all the wrong I've done
+She never once complained
+She stuck beside me
+All through the sunshine and rain
+And I don't gamble with her love
+That's something I couldn't stand to lose
+Her confidence in me
+I don't dare misuse
+If I get the urge to go
+She may not know where I'm goin'
+But I don't fear me
+That when I come in
+She knows where I been
+
+In my life she's first and she's last
+She's my future
+And I'm telling you all
+She my past
+And for what she's given me
+I can never repay
+I can only hope (only hope)
+Only hope (only hope)
+That she let me (let me)
+Let me (let me)
+I said let me (let me)
+Serve her for the rest of her days
+Always and always
+
+I'm just tryin' to hold on, hold on
+To my...
+To my home and my life love
+Some call me henpecked
+For giving my woman the proper respect
+But I don't care
+I don't mind if they tease me
+As long as my woman is pleasing me
+I'm just tryin' ta
+Tryin ta, tryin' ta
+Tryin' ta
+Hold on
+To my...
+My woman my life

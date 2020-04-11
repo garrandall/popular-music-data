@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: hang--em-high-booker-t--the-mg-s
+lyrics_url: https://genius.com/Booker-t-and-the-mgs-hang-em-high-lyrics
 name: Hang 'Em High
 rankings:
 - end_date: '1968-11-15'
@@ -80,4 +81,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-08'
 ---
-
+Instrumental

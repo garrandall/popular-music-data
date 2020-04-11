@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: good-times-edie-brickell
+lyrics_url: https://genius.com/Edie-brickell-good-times-lyrics
 name: Good Times
 rankings:
 - end_date: '1994-08-26'
@@ -39,4 +40,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-10-08'
 ---
+You don't even have to try
+It comes easy for you
+The way you move is so appealing
+It could make me cry
+Go out driving with my friends
+In Bobby's big old beat up car
+I'm with a lot of people then
+I wonder where you are
 
+Good times, bad times, give me some of that
+Good times, bad times, give me some of that
+Good times, bad times, give me some of that
+
+I don't want to say goodbye
+Don't want to walk you to the door
+I spend a little time with you
+I want a little more
+
+Good times, bad times, give me some of that
+Good times, bad times, give me some of that
+Good times, bad times, give me some of that

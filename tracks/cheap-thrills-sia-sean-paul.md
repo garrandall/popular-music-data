@@ -5,6 +5,7 @@ features:
 - Sean Paul
 genres: []
 key: cheap-thrills-sia-sean-paul
+lyrics_url: https://genius.com/Genius-traductions-francaises-sia-cheap-thrills-remix-ft-sean-paul-traduction-francaise-lyrics
 name: Cheap Thrills
 rankings:
 - end_date: '2016-03-11'
@@ -216,4 +217,110 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
 ---
+Enjaille-toi avec ça meuf
+Rock avec ça meuf
+Montre-leur ça meuf (Bada bang bang)
+Sautille avec ça bébé
+Danse avec ça bébé
+Vas-y avec ça bébé (Bada bang bang)
 
+
+Allez, allez, allume la radio
+On est vendredi soir et je serai pas longue
+Je dois me faire les cheveux, me maquiller
+On est vendredi soir et je serai pas longue(J'aime les plaisirs faciles)
+
+
+Jusqu'à ce que j'embrase le dance floor (Bada bang bang)
+J'embrase le dance floor (Bada bang)
+J'ai tout ce dont j'ai besoin
+Non je n'ai pas besoin d'argent, non je n'ai pas besoin d'argent
+Mais je t'ai bébé
+(Seulement toi et moi)
+
+
+Bébé je n'ai pas besoin d'argent pour m'amuser ce soir
+(J'aime les plaisirs faciles!)
+Bébé je n'ai pas besoin d'argent pour m'amuser ce soir
+(J'aime les plaisirs faciles!)
+Je n'ai pas besoin d'argent
+Tu vaux plus que des diamants, plus que de l'or
+Aussi longtemps que je peux ressentir le beat
+Mek Di Beat juste prend le contrôle
+Je n'ai pas besoin d'argent
+Tu vaux plus que des diamants, plus que de l'or
+Aussi longtemps que je continue à danser
+Libère-toi, sois juste hors de contrôle
+
+
+Allez, allez, allume la radio
+On est samedi soir et je serai pas longue
+Je dois me faire les ongles, enfiler mes talons aiguilles
+On est samedi soir et je serai pas longue
+
+
+Jusqu'à ce que j'embrase le dance floor (Bada bang bang)
+J'embrase le dance floor (Bada bang)
+J'ai tout ce dont j'ai besoin (Sia)
+Non je n'ai pas besoin d'argent, non je n'ai pas besoin d'argent
+Mais je t'ai bébé
+(Seulement toi et moi)
+
+
+Bébé je n'ai pas besoin d'argent pour m'amuser ce soir
+(J'aime les plaisirs faciles!)
+Bébé je n'ai pas besoin d'argent pour m'amuser ce soir
+(J'aime les plaisirs faciles!)
+Je n'ai pas besoin d'argent
+Tu vaux plus que des diamants, plus que de l'or
+Aussi longtemps que je peux ressentir le beat
+Mek Di Beat juste prend le contrôle
+Je n'ai pas besoin d'argent
+Tu vaux plus que des diamants, plus que de l'or
+Aussi longtemps que je continue à danser
+Libère-toi, sois juste hors de contrôle
+
+
+Moi et toi, bébé, toi et moi
+Lâche tout sur la piste et laisse-moi voir ton énergie parce-que
+Je ne me cache pas en admirant
+Tu me fais voir ce que t'as et ça m'affaiblit meuf (Libre)
+Parce-qu'à chaque fois que tu te trémousses et déchires ça
+Le dj force le truc et le fait rejouer, meuf
+Je vais pas m'emparer d'un dollar dans ma poche
+Car rien de ce monde ne vaut plus que ta valeur (J'aime les plaisirs faciles !)
+
+
+Je n'ai pas besoin d'argent
+Tu vaux plus que des diamants, plus que de l'or
+Aussi longtemps que je peux ressentir le beat
+Mek Di Beat juste prend le contrôle
+Je n'ai pas besoin d'argent
+Tu vaux plus que des diamants, plus que de l'or
+Aussi longtemps que je continue à danser
+Libère-toi, sois juste hors de contrôle
+Oh, oh
+
+
+Bébé je n'ai pas besoin d'argent pour m'amuser ce soir
+(J'aime les plaisirs faciles!)
+Bébé je n'ai pas besoin d'argent pour m'amuser ce soir
+(J'aime les plaisirs faciles!)
+Je n'ai pas besoin d'argent
+Tu vaux plus que des diamants, plus que de l'or
+Aussi longtemps que je peux ressentir le beat
+Mek Di Beat juste prend le contrôle
+Je n'ai pas besoin d'argent
+Tu vaux plus que des diamants, plus que de l'or
+Aussi longtemps que je continue à danser
+Libère-toi, sois juste hors de contrôle
+
+
+La, la, la, la, la, la
+(J'aime les plaisirs faciles!)
+La, la, la, la, la, la
+(J'aime les plaisirs faciles!)
+La, la, la, la, la, la
+(J'aime les plaisirs faciles!)
+La, la, la, la, la, la
+(J'aime les plaisirs faciles!)

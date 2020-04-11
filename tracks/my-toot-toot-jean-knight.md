@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-toot-toot-jean-knight
+lyrics_url: https://www.musixmatch.com/lyrics/Jean-Knight/My-Toot-Toot
 name: My Toot Toot
 rankings:
 - end_date: '1985-05-10'
@@ -67,4 +68,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-08-10'
 ---
-
+Don't mess with my toot toot, don't mess with my toot toot, Well you can have the other woman, but don't mess with my toot toot.
+She was born in her birth suit, the doctor slap her behind, (SLAP!) Say you're gonna to be special, you sweet little toot toot.
+Well you can look as much, but if you much as touch, You're gonna have yourself a case - I'm gonna break your face!
+Oh toot, hey!
+Whoa, Mama was the same way too, all the fellas didn't know what to do, And Papa never had a chance, with a sweet little toot toot.
+She was born in her birth suit, the doctor slap her behind, (SLAP!) Said you're gonna to be special, you sweet little toot toot.

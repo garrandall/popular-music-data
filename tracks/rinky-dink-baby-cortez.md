@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rinky-dink-baby-cortez
+lyrics_url: https://genius.com/Dave-baby-cortez-rinky-dink-lyrics
 name: Rinky Dink
 rankings:
 - end_date: '1962-07-20'
@@ -63,4 +64,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-10-13'
 ---
-
+♫  ♫

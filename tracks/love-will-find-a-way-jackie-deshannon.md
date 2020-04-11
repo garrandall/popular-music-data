@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-will-find-a-way-jackie-deshannon
+lyrics_url: https://genius.com/Jackie-deshannon-love-will-find-a-way-lyrics
 name: Love Will Find A Way
 rankings:
 - end_date: '1969-11-07'
@@ -39,4 +40,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-12-20'
 ---
+There can be a new tomorrow
+There can be a brighter day
+There can be a new tomorrow
+Love will find a way
+Love will find a way
 
+The days go passin' by and we try to live life so carefree
+Wond'rin' what is real, do you feel there's a change that should be?
+In the end what will win?
+Let's hold on, keep love strong
+
+There can be a new tomorrow
+And there can be a brighter day
+There can be a new tomorrow
+Love will find a way
+Love will find a way
+
+We're livin' in a time where you find we must share the burden
+It's a heavy load on a road that is so uncertain
+It may seem we're chasin' dreams
+But let's hold on and keep love strong
+
+There can be a new tomorrow
+And there can be a brighter day
+There can be a new tomorrow
+Love will find a way
+Love will find a way
+
+There can be a new tomorrow
+There can be a brighter day
+There can be a new tomorrow
+There can be a brighter day
+And there can be a new tomorrow

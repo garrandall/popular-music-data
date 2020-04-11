@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wipe-out-the-surfaris
+lyrics_url: https://genius.com/The-surfaris-wipe-out-lyrics
 name: Wipe Out
 rankings:
 - end_date: '1963-06-28'
@@ -127,4 +128,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-29'
 ---
-
+Ah ha ha ha ha ha ha ha ha ha ha ha, wipe out

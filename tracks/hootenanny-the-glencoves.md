@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: hootenanny-the-glencoves
+lyrics_url: https://www.musixmatch.com/lyrics/The-Glencoves/Hootenanny
 name: Hootenanny
 rankings:
 - end_date: '1963-06-21'
@@ -43,4 +44,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-10'
 ---
+There's gonna be a big
+Hootenanny, hootenanny
+Everybody's gonna come along
+All join in at the
+Hootenanny, hootenanny
+Sing a hooting, hollering song
 
+Put on your hat
+Put out the cat
+Bring a little money
+Cause you might need that
+
+Throw out the blues
+Kick off your shoes
+Sing a little, sing a little
+Make a little love a little
+
+Bring a little honey to
+The hootenanny, hootenanny
+Everybody's gonna have a date
+Hurry hurry, hurry to
+The hootenanny, hootenanny
+We don't wanna be late
+
+You get the girls
+I'll get the car
+Bring a banjo and an old guitar
+Get out the spoons
+You know the tunes
+Hey diddle diddle with
+A fiddle in the middle
+
+If you can't fiddle
+At the hootenanny, hootenanny
+Play a little paper and comb
+Once you get to the
+Hootenanny, hootenanny
+You'll never wanna go home
+
+You get the girls
+I'll get the car
+Bring a banjo and an old guitar
+Get out the spoons
+You know the tunes
+Hey diddle diddle with
+A fiddle in the middle
+
+If you can't fiddle at the
+Hootenanny, hootenanny
+Play a little paper and comb
+Once you get to the
+Hootenanny, hootenanny
+You'll never wanna go home
+You'll never wanna go home
+You'll never want to go home

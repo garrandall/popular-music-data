@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: losing-sleep-chris-young
+lyrics_url: https://genius.com/Chris-young-losing-sleep-lyrics
 name: Losing Sleep
 rankings:
 - end_date: '2017-10-20'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-02-17'
 ---
+Light a candle
+Turn all the lights down low
+Baby, let's just lose control, lose control
+I can handle every single curve, you know
+That I love you, let me show you, oh
 
+
+Fall into me, let me breathe the air you breathe
+I can take you anywhere you wanna be
+When it comes to us every single touch is something special
+When we're wrapped up in those sheets
+Yeah, we're winning when we're losing
+When we're losing sleep
+
+
+Real life, when it's this good don't you know
+We don't need to dream at all
+Baby, so...
+
+
+Fall into me, let me breathe the air you breathe
+I can take you anywhere you wanna be
+When it comes to us every single touch is something special
+When we're wrapped up in those sheets
+Yeah, we're winning when we're losing
+When we're losing sleep
+
+Fall into me, let me breathe the air you breathe
+I can take you anywhere you wanna be, yeah
+When it comes to us every single touch is something special
+When we're wrapped up in those sheets
+Yeah, we're winning when we're losing
+When we're losing sleep
+When we're losing sleep
+Yeah, we're winning when we're losing
+
+
+Light a candle
+Turn all the lights down low

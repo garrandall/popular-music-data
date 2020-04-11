@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-about-love--til-tuesday
+lyrics_url: https://genius.com/Til-tuesday-what-about-love-lyrics
 name: What About Love
 rankings:
 - end_date: '1986-09-26'
@@ -63,4 +64,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-12-20'
 ---
+Living on silence
+Living by the book
+You get it to a science
+Of living on one good look
+So put out all the fires
+And blow away the smoke
+I'm getting pretty tired
+Of living on hope
 
+So what about love, baby
+What about making room for two
+What about love, baby
+What about you
+
+Living on daydreams
+Walking in my sleep
+And nothing is as it seems
+When you're in so deep
+So put out all the fires
+And blow away the smoke
+Unless you're getting tired
+Of living on hope
+
+So what about love, baby
+What about making room for two
+What about love, baby
+What about you
+
+So what about love, baby
+What about making room for two
+What about love, baby
+What about you
+
+What about you
+What about you
+What about me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: more-trace-adkins
+lyrics_url: https://genius.com/Trace-adkins-more-lyrics
 name: More
 rankings:
 - end_date: '2000-05-05'
@@ -51,4 +52,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-07-08'
 ---
+If anybody had told me, that anybody'd have a hold on me
+I'd say they were out of their mind
+But speakin' of crazy, I'm findin' lately
+All I want, all I need, all the time is
 
+
+More of your sweet love, too much just ain't enough
+I never needed a fix like this before
+Too strong to resist, I don't know when to quit
+Like a kid in a candy store, you keep me comin' back for more
+
+
+I can't explain it, I'm more than infatuated
+You got me good, I got it bad
+There's no doubt about it, I can't live without it
+What you got I just got to have, so give me
+
+
+More of your sweet love, too much just ain't enough
+I never needed a fix like this before
+Too strong to resist, I don't know when to quit
+Like a kid in a candy store, you keep me comin' back for more
+
+
+Too strong to resist, I don't know when to quit
+Like a kid in a candy store, you keep me comin' back for more
+
+
+You keep me comin' back for more
+You keep me comin' back for more, more, and more , and more
+Comin' back for more, more
+Keep me comin', give me some more
+I'm comin' back for more

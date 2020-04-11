@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: looks-that-kill-motley-crue
+lyrics_url: https://genius.com/Motley-crue-looks-that-kill-lyrics
 name: Looks That Kill
 rankings:
 - end_date: '1984-02-10'
@@ -47,4 +48,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-04-07'
 ---
+Now listen up
+She's a razor sharp
+If she don't get her way
+She'll slice you apart
+Now she's a cool, cool black
+She moves like a cat
+If you don't get her name
+Well, you might not make it back
 
+
+She's got the looks that kill, that kill, oh
+She's got the looks that kill, that kill, oh
+She's got the look
+(She's got looks that kill
+She's got looks that kill)
+
+
+Now she's bulletproof
+She keeps her motor clean
+And believe me, you
+She's a number thirteen
+The church strikes midnight
+She's looking louder and louder
+She's going to turn on our juice, boy
+So she turns on the power
+
+
+She's got the looks that kill, that kill, oh
+She's got the looks that kill, that kill, oh
+She's got the look
+(She's got looks that kill
+She's got looks that kill
+She's got looks that kill
+She's got the look)
+
+
+Now listen up
+She's a razor sharp
+If she don't get her way
+She'll slice you apart
+Now she's a cool, cool black
+Moves like a cat
+If you don't get her name
+You might not make it back
+
+
+She's got the looks that kill, that kill, oh
+She's got the looks that kill, that kill, oh
+She's got the look
+(She got looks that kill
+She's got looks that kill)
+
+
+She's got looks that kill
+She's got looks that kill
+She's got looks that kill
+She's got looks that kill
+She's got looks that kill
+She's got looks that kill
+She's got looks that kill
+She's got looks that kill

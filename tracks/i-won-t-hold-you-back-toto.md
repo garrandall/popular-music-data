@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-won-t-hold-you-back-toto
+lyrics_url: https://genius.com/Toto-i-wont-hold-you-back-lyrics
 name: I Won't Hold You Back
 rankings:
 - end_date: '1983-03-18'
@@ -75,4 +76,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-07-02'
 ---
+If I had another chance tonight
+I'd try to tell you that the things we had were right
+Time can erase the love we shared
+But it gives me time to realize just how much you cared
+Now you're gone, I'm really not the same
+I guess I held myself to blame
+Time can erase the things we said
+But it gives me time to realize that you're the one who's sad
 
+
+You know I won't hold you back now
+The love we had just can't be found
+You know I can't hold you back now
+
+
+Now that I'm alone it gives me time
+To think about the years that you were mine
+Time can erase the love we shared
+But it gives me time to realize just how much you cared
+
+
+You know I won't hold you back now
+The love we had just can't be found (Listen to me, baby)
+You know I can't hold you back now
+
+
+
+
+You know I won't hold you back now
+The love we had just can't be found
+You know I can't hold you back now

@@ -1,7 +1,8 @@
 ---
 artists:
-- Tamiko Jones with Herbie Mann
-features: []
+- Tamiko Jones
+features:
+- Herbie Mann
 genres: []
 key: a-man-and-a-woman-tamiko-jones-with-herbie-mann
 name: A Man And A Woman

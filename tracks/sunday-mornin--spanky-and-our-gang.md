@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sunday-mornin--spanky-and-our-gang
+lyrics_url: https://genius.com/Spanky-and-our-gang-sunday-mornin-lyrics
 name: Sunday Mornin'
 rankings:
 - end_date: '1968-01-12'
@@ -39,4 +40,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-02-24'
 ---
+Sunday mornin' (Sunday mornin')
+Sun shinin' on your eyes, sleepy face
+Smilin' a smile, Sunday mornin' (sit down)
+Lots of time with nothin' to do
+Lots of time to spend with you (Sunday mornin')
+On Sunday mornin', Sunday mornin'
+It's so quiet in the street
+You can hear the sound of feet walkin' by
+I'll put the coffee on to brew
+We can have a cup or two
+And do what other people do on Sunday mornin'
+Sunday mornin', Sunday mornin', Sunday, Sunday, I love Sunday
 
+Sunday mornin', come hold me in your arms
+(I love you, everything's all right)
+Lots of time, lots of time, lots of time with nothin' to do
+Lots of time to spend with you (on Sunday mornin')
+On Sunday mornin' (Sunday mornin')
+Sunday mornin'.. it's so quiet in the street
+We can hear the sound of feet walkin' by
+I'll put coffee on to brew
+We can have a cup or two
+And do what other people do
+On Sunday mornin'. . . mornin',Yeah!
+
+Sunday mornin', Sunday mornin'
+Sunday, Sunday, I love Sunday
+Sunday mornin. . 
+C'mon, hold me in your arms (I love you)
+C'mon, everything's all right (Sunday mornin')
+Everything's all right (Sunday mornin')
+Everything's all right (Sunday mornin')
+Everything's all right (Sunday mornin')
+Everything's all right . . 
+
+(On Sunday, mornin', Sunday mornin' Sunday
+Sunday, Sunday,mornin', Sunday, mornin, mornin
+On Sunday mornin', lot's of time with nothin' to do
+Sunday mornin', lot's of time to spend with you
+Mornin', Sunday, mornin'. . . . . . . )

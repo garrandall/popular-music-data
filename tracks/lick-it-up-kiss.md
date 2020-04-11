@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lick-it-up-kiss
+lyrics_url: https://genius.com/Kiss-lick-it-up-lyrics
 name: Lick It Up
 rankings:
 - end_date: '1983-11-18'
@@ -51,4 +52,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-01-21'
 ---
+Yeah, yeah
 
+
+Don't want to wait until you know me better
+Let's just be glad for the time together
+Life's such a treat and it's time you taste it
+There isn't a reason on earth to waste it
+It isn't a crime to be good to yourself
+
+
+Lick it up, lick it up, oh-oh-ohh (It's only right now)
+Lick it up, lick it up, oh-oh-ohh (Woo yeah)
+Lick it up, lick it up, oh-oh-ohh (Come on, come on)
+Lick it up, lick it up, oh-oh-ohh (Uh)
+
+
+Don't need to wait for an invitation
+You got to live like you're on vacation
+There's something sweet you can't buy with money
+Lick it up, lick it up
+It's all you need, so believe me honey
+It ain't a crime to be good to yourself
+
+
+Lick it up, lick it up, oh-oh-ohh (It's only right now)
+Lick it up, lick it up, oh-oh-ohh (Woo yeah)
+Lick it up, lick it up, oh-oh-ohh (Come on, come on)
+Lick it up, lick it up, oh-oh-ohh (Come on)
+
+
+It's only right now (it's only right now)
+Ooh yeah (ooh yeah) ooh yeah (ooh yeah), yeah yeah
+
+Oooooooohhhhhh, wooo!
+
+
+Lick it up, lick it up, oh-oh-ohh (It's only right now)
+Lick it up, lick it up, oh-oh-ohh (Woo yeah)
+Lick it up, lick it up, oh-oh-ohh (Come on, come on)
+Lick it up, lick it up, oh-oh-ohh (Aww)
+Lick it up, lick it up, oh-oh-ohh (Yeah, yeah, yeah, yeah)

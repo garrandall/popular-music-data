@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-can-i-forget-marvin-gaye
+lyrics_url: https://genius.com/Marvin-gaye-how-can-i-forget-lyrics
 name: How Can I Forget
 rankings:
 - end_date: '1970-01-16'
@@ -35,4 +36,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
 ---
+They ask me to forget about you
+Go out and find someone new
+But that won't be easy, you see
+After all the things you've done for me
+Told the men I ain't too proud to say
+With you I stand tall and strong
+Because without you, girl, I'm nothing at all
 
+
+How, how can I forget you?
+After all you've done for me
+Oh woman, you'll always be a part of me
+I, I can't forget you
+It's impossible, you see
+Woman, you'll always be a part of me
+
+
+Girl, I'm down on my bended knees
+And I'm begging you please, begging you please
+Woman, woman, don't set me free
+Because right this moment in the sun
+My life was wasting away
+Girl, your love gave me hope and strength
+You're the reason I'm alive today
+Girl, you don't realize what your love means to me
+It's more precious than the evergreens
+
+How, how can I forget you?
+After all you've done for me
+Oh woman, you'll always be a part of me
+I, I can't forget you
+It's impossible, you see
+Woman, you'll always be a part of me

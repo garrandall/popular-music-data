@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: this-heart-gene-redding
+lyrics_url: https://www.musixmatch.com/lyrics/Gene-Redding/This-Heart
 name: This Heart
 rankings:
 - end_date: '1974-05-10'
@@ -71,4 +72,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-08-17'
 ---
+Yours are the lips that
+Are tempting mine, oh, baby
+Your eyes keep giving me
+The go ahead sign, yes, they are
 
+I should turn my
+Head and walk away
+But there's always
+Something that you say
+
+That puts me where
+You want me, girl
+Like a fool, I stay
+
+I'm telling you this heart
+Has never been broken
+This heart has never been broken
+This heart has never been
+Broken before, don't break it now
+
+One night was all it took, oh, darling
+You'd lead me to the point
+Of no return, yes, would would
+
+I'm revealing things I never showed
+There's just no way my eager arms say no
+I'm caught up in the things you do
+And now I can't let go
+
+I'm telling you this heart
+(This heart of mine)
+Has never been broken
+(I ain't gonna let you break it)
+This heart has never been broken
+(I been doing fine)
+This heart has never been
+Broken before, don't break it now
+
+I'm a victim of your tenderness
+Lost just like a child, I guess
+There's no way my arms say no
+I'm caught up in the things you do
+And now I can't let go
+
+I'm telling you this heart
+(This heart of mine)
+Has never been broken
+(I ain't gonna let you break it)
+This heart has never been broken
+(I been doing fine)
+This heart has never been
+Broken before, don't break it now

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: proud-johnny-crawford
+lyrics_url: https://genius.com/Johnny-crawford-proud-lyrics
 name: Proud
 rankings:
 - end_date: '1963-01-11'
@@ -39,4 +40,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
 ---
+We had a quarrel the other day
+And I just let you walk away
+'Cause I was proud
+So proud and strong
+Yes I was much too proud to say I was wrong
 
+You turned back crying and called to me
+But I just stood there silently
+'Cause I was proud
+So proud and strong
+Yes I was much too proud to say I was wrong
+
+Some other guy might have crawled to you
+And said don't go, I need you so
+But I wouldn't do it
+No, I couldn't do it
+And so I let you say good-bye
+And I was proud to let you cry
+Proud I held my head up high
+And now I'm just a proud and lonely guy

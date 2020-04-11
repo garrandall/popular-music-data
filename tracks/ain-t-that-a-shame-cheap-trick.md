@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ain-t-that-a-shame-cheap-trick
+lyrics_url: https://genius.com/Cheap-trick-aint-that-a-shame-lyrics
 name: Ain't That A Shame
 rankings:
 - end_date: '1979-08-10'
@@ -47,4 +48,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-06'
 ---
+You made me cry when you said good-bye
+Ain't that a shame...my tears fall like rain
+Ain't that a shame...you're the one to blame
+You broke my heart, now we're apart
+Ain't that a shame...my tears fall like rain
+Ain't that a shame...you're the one to blame
 
+Ah, yes you are
+Farewell, good-bye, although I'll cry
+Ain't that a shame...my tears fall like rain
+Ain't that a shame...you're the one to blame
+
+Ah!
+You made me cry when you said good-bye
+Ain't that a shame...my tears fall like rain
+Ain't that a shame...you're the one to blame

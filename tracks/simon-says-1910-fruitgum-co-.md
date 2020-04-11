@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: simon-says-1910-fruitgum-co-
+lyrics_url: https://www.musixmatch.com/lyrics/1910-Fruitgum-Company/Simon-Says
 name: Simon Says
 rankings:
 - end_date: '1968-02-02'
@@ -63,4 +64,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-04-27'
 ---
+I'd like to play a game
+That is so much fun
+And it's not so very hard to do
+The name of the game is Simple Simon says
+And I would like for you to play it to
 
+Put your hands in the air
+Simple Simon says
+Shake them all about
+Simple Simon says
+Do it when Simon says
+Simple Simon says
+And you will never be out.
+
+Simple Simon says
+Put your hands on your head
+Let your back bone stretch
+Simon says
+
+Simple simon says
+Put your hands on your head
+Let your back bone stiff
+Simon says
+
+Put your hands on your head
+Simple Simon says
+Bring them down by your side
+Simple Simon says
+Shake them to your left
+Simple Simon Says
+Now shake them to your right
+
+Put your hands on your head
+Simple Simon says
+Bring them down by your side
+Simple Simon says
+Shake them to your left
+Simple Simon Says
+Now shake them to your right
+
+Now that you have learnt
+To play this game with me
+You can see its not so hard to do
+Lets try it once again
+This time more carefully
+And I hope the winner will be you.
+
+Clap your hands in the air
+Simple Simon says
+Do it double time
+Simple Simon says
+Slow it down like before
+Simple Simon says
+Ah, your looking fine.
+Simple Simon says
+Now clap them high in the air
+Simple Simon says
+Do it double time
+Simple Simon says
+Slow it down like before
+Simple Simon says
+Ah, your looking fine.

@@ -1,6 +1,6 @@
 ---
 artists:
-- Daryl Hall John Oates
+- Hall & Oates
 features: []
 genres: []
 key: the-way-you-do-the-things-you-do-daryl-hall-john-oates

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: action-speaks-louder-than-words-chocolate-milk
+lyrics_url: https://genius.com/Chocolate-milk-action-speaks-louder-than-words-lyrics
 name: Action Speaks Louder Than Words
 rankings:
 - end_date: '1975-07-18'
@@ -27,4 +28,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-08-09'
 ---
-
+Action speaks louder than words
+Action speaks louder than words
+Action speaks louder than words
+(Action, action, action)
+Action speaks louder than words
+(Action, action, action)
+People say
+It's gonna be a better day
+(Yeah, yeah, yeah)
+But the world is the same
+In every way
+Action speaks louder than words
+Action speaks louder than words
+Action speaks louder than words
+(Action, action, action)
+Action speaks louder than words
+(Action, action, action)
+The president says
+The world is gonna change, yeah
+(Yeah, yeah, yeah)
+Mister say is nothing
+Mister do is the man
+Action speaks louder than words
+Action speaks louder than words
+Action speaks louder than words
+(Action, action, action)
+Action speaks louder than words
+(Action, action, action, action)
+Action speaks louder than words
+Action speaks louder than words
+(Action, action, action)
+Action speaks louder than words
+(Action, action, action)
+Action speaks louder than words
+(Action, action, action, action)

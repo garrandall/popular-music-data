@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-the-day-begin-the-call
+lyrics_url: https://genius.com/The-call-let-the-day-begin-lyrics
 name: Let The Day Begin
 rankings:
 - end_date: '1989-07-28'
@@ -43,4 +44,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
 ---
+Here's to the babies in a brand new world
+Here's to the beauty of the stars
+Here's to the travellers on the open road
+Here's to the dreamers in the bars
 
+Here's to the teachers in the crowded rooms
+Here's to the workers in the fields
+Here's to the preachers of the sacred words
+Here's to the drivers at the wheel
+
+
+Here's to you my little loves with blessings from above
+Now let the day begin
+Here's to you my little loves with blessings from above
+Now let the day begin, let the day begin
+
+Here's to the winners of the human race
+Here's to the losers in the game
+Here's to the soldiers of the bitter war
+Here's to the wall that bears their names
+
+
+Here's to you my little loves with blessings from above
+Now let the day begin
+Here's to you my little loves with blessings from above
+Let the day begin, let the day begin, let the day start
+
+Here's to the doctors and their healing work
+Here's to the loved ones in their care
+Here's to the strangers on the streets tonight
+Here's to the lonely everywhere
+
+Here's to the wisdom from the mouths of babes
+Here's to the lions in the cage
+Here's to the struggles of the silent poor
+Here's to the closing of the age
+
+
+Here's to you my little loves with blessings from above
+Now let the day begin
+Oh, Here's to you my little loves with blessings from above
+Let the day begin
+
+Here's to you my little loves with blessings from above
+Let the day begin
+Here's to you my little loves with blessings from above
+Now let the day begin, let the day begin, let the day start

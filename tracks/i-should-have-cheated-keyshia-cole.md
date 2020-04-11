@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-should-have-cheated-keyshia-cole
+lyrics_url: https://genius.com/Keyshia-cole-i-should-have-cheated-lyrics
 name: I Should Have Cheated
 rankings:
 - end_date: '2005-10-14'
@@ -83,4 +84,100 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-02-11'
 ---
+Baby
+First of all let me say
+You can't accuse me of all the things you know that you are guilty of
+And I see
+That it is easy for you to blame everything on me
+If that's the case
+I should go have my fun and do all the things you say I do
+Boy I can't
+Continue to take this from you
 
+
+I might as well have cheated on you
+As much as you accused me of cheating
+I might as well have lied to you
+As much as you accused me of lying
+I might as well have gone to the club
+As much as you accused me of clubbin'
+I might as well have threw away my love
+As much as you accused me
+I should have cheated
+
+
+You say I was out
+With somebody else when my girl told me she saw you with some girl
+But I didn't
+Accuse you of something that I didn't see myself
+Realize
+That I would never do anything to disrespect you
+Trust me
+You gotta stop accusing me
+
+
+I might as well have cheated on you
+As much as you accused me of cheating
+I might as well have lied to you
+As much as you accused me of lying
+I might as well have gone to the club
+As much as you accused me of clubbin'
+I might as well have threw away my love
+As much as you accused me
+
+
+Don't you know I wish I knew that you would treat me this way
+If you don't promise me that you've changed your ways, I'm leaving today
+And I ain't coming back
+And you made it like that
+Was unfair to me
+All this jealousy
+I'm your everything
+What will you do without me?
+Why you trippin'?
+
+
+I might as well have cheated on you
+As much as you accused me of cheating
+I might as well have lied to you
+As much as you accused me of lying
+I might as well have gone to the club
+As much as you accused me of clubbin'
+I might as well have threw away my love
+I should have gave it all away
+As much as you accused me
+I should have cheated
+
+
+I should have lied, I should have cheated
+Maybe I should have went out to the club
+Or maybe I, I should have done it
+I should have given away all my love
+Or maybe I, I should have played you
+'Cause you don't appreciate me, no
+And I tried to stay down with you
+But your making it hard on me
+
+
+I might as well have cheated on you
+As much as you accused me of cheating
+I might as well have lied to you
+As much as you accused me of lying
+I might as well have gone to the club
+'Cause I love you
+As much as you accused me of clubbin'
+I might as well have threw away my love
+As much as you accused me
+I should have cheated
+As much as you accused me of cheating
+I should have cheated
+As much as you accused me of lying
+As much as you accused me of clubing
+I love you
+As much as you accused me of cheating
+I should have cheated
+I should have cheated
+I should have cheated
+I should have cheated
+I should have cheated
+I should have cheated

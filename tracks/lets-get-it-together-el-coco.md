@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lets-get-it-together-el-coco
+lyrics_url: https://www.musixmatch.com/lyrics/El-Coco/Let-s-Get-It-Together
 name: Lets Get It Together
 rankings:
 - end_date: '1976-10-29'
@@ -39,4 +40,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-12-11'
 ---
+Let's get it, get it together
+Let's get it, get it together
+Let's get it, get it together
+Let's get it, get it together
 
+Let's get it, get it together
+Let's get it, get it together
+Let's get it, get it together
+Let's get it, get it together...
+
+(Repeated throughout song)

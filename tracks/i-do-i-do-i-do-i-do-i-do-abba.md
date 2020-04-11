@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-do-i-do-i-do-i-do-i-do-abba
+lyrics_url: https://genius.com/Abba-i-do-i-do-i-do-i-do-i-do-lyrics
 name: I Do I Do I Do I Do I Do
 rankings:
 - end_date: '1976-02-20'
@@ -67,4 +68,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
 ---
+Love me or leave me, make your choice but believe me
+I love you, I do, I do, I do, I do, I do
+I can't conceal it, don't you see, can't you feel it?
+Don't you too? I do, I do, I do, I do, I do
 
+
+Oh, I've been dreaming through my lonely past
+Now I just made it, I found you at last
+
+
+So come on, now let's try it, I love you, can't deny it
+'Cause it's true, I do, I do, I do, I do, I do
+
+
+
+
+Oh, no hard feelings between you and me
+If we can't make it, but just wait and see
+
+
+So come on, now let's try it, I love you, can't deny it
+'Cause it's true, I do, I do, I do, I do, I do
+So love me or leave me, make your choice but believe me
+I love you, I do, I do, I do, I do, I do
+I can't conceal it, don't you see, can't you feel it?
+Don't you too? I do, I do, I do, I do, I do

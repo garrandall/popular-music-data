@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-misunderstand-me-rossington-collins-band
+lyrics_url: https://genius.com/Rossington-collins-band-dont-misunderstand-me-lyrics
 name: Don't Misunderstand Me
 rankings:
 - end_date: '1980-08-01'
@@ -43,4 +44,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-20'
 ---
+Well, I know where you're goin'
+I see where you've been
+Don't you know by now, you never take life on the chin
+Still you sit and wonder why the past is gone
+Baby, you'll go under if you don't carry on
 
+Don't misunderstand me
+I realize it ain't easy to take
+But you've been hidin'
+And I've been ridin' like the wind to find you
+Just you
+
+I don't need no promises, just tell me the truth
+Mister, keep it honest, that's all I ask of you
+Don't be second-guessin', 'bout where you want to be
+Baby, count your blessings 'cause you won't find one like me
+
+Don't misunderstand me
+I realize it ain't easy to take
+But you've been hidin'
+And I've been ridin' like the wind to find you
+
+Well now, lady, get your dress on, grab them fancy shoes
+Honey, I'm ready and waiting on you
+Time is surely wastin', we've so much to do
+We're both too smart to be fakin'
+
+And I know it doesn't matter which road we take
+Or if it's your way or my way
+Well, lady, let me tell you what we're gonna do
+Uh huh
+We're gonna ride every highway
+
+Don't misunderstand me
+Bet I realize it ain't easy to take
+But you've been hidin'
+And I've been ridin' like the wind to find you
+
+To find you
+To find you
+To find you
+To find you
+To find you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: ain-t-nobody-faith-evans
+lyrics_url: https://genius.com/Faith-evans-aint-nobody-lyrics
 name: Ain't Nobody
 rankings:
 - end_date: '1996-04-19'
@@ -71,4 +72,89 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-07-27'
 ---
+Ain't nobody who can love me like you do
+Ain't no reason that I'll ever be untrue
+There's no need for me to try
+I can't find the reason why
+Ain't nobody who can really love me like you do
 
+
+I was always the one
+Who needed some affection
+And you opened your heart to me
+Now I'm falling in love
+And I can't get enough of your love
+There ain't no...
+
+
+Ain't nobody who can love me like you do (nobody)
+Ain't no reason that I'll ever be untrue (never be untrue)
+There's no need for me to try
+I can't find the reason why
+Ain't nobody who can really love me like you do
+
+
+Since you've been in my life
+Now I have direction
+And I know where I want to be
+Boy, you know it's with you
+'Cause I love what you do
+When you're making sweet love to me
+
+
+I thought that I was wrong
+For wanting to be with you all the time
+I never knew
+That you would play games with my mind, yeah yeah
+
+
+Ain't nobody who can love me like you do
+Ain't no reason that I'll ever be untrue
+(I won't ever be untrue)
+There's no need for me to try
+I can't find the reason why
+Ain't nobody who can really love me like you do
+
+
+When you hold me in your arms
+I get this feeling
+Fill me with your love
+Can't nobody love me like you, boy
+'Cause you give me your good love
+Ain't nobody who can love me like you do
+When you hold me in your arms
+I get this feeling
+Fill me with your love
+Can't nobody love me like you, boy
+'Cause you give me your good love
+Ain't nobody who can love me like you do
+When you hold me in your arms
+I get this feeling
+Fill me with your love
+Can't nobody love me like you, boy
+'Cause you give me your good love
+Ain't nobody who can love me like you do
+When you hold me in your arms
+I get this feeling
+Fill me with your love
+Can't nobody love me like you, boy
+'Cause you give me your good love
+Ain't nobody who can love me like you do
+When you hold me in your arms
+I get this feeling
+Fill me with your love
+Can't nobody love me like you, boy
+'Cause you give me your good love
+Ain't nobody who can love me like you do
+When you hold me in your arms
+I get this feeling
+Fill me with your love
+Can't nobody love me like you, boy
+'Cause you give me your good love
+Ain't nobody who can love me like you do
+When you hold me in your arms
+I get this feeling
+Fill me with your love
+Can't nobody love me like you, boy
+'Cause you give me your good love
+Ain't nobody who can love me like you do

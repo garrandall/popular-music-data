@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: beep-beep-the-playmates
+lyrics_url: https://genius.com/The-playmates-beep-beep-lyrics
 name: Beep Beep
 rankings:
 - end_date: '1958-11-09'
@@ -67,4 +68,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-09'
 ---
+While riding in my Cadillac
+What to my surprise
+A little Nash Rambler was following me -
+About one third my size
+The guy must've wanted to pass me up
+As he kept on tooting his horn. Beep! Beep!
+I'll show him that a Cadillac
+Is not a car to scorn
+Beep beep. Beep! Beep! Beep beep. Beep! Beep!
+His horn went beep beep beep. Beep! Beep!
 
+I pushed my foot down to the floor
+To give the guy the shake
+But the little Nash Rambler stayed right behind;
+He still had on his brake
+He must have thought his car had more guts
+As he kept on tooting his horn. Beep! Beep!
+I'll show him that a Cadillac
+Is not a car to scorn
+Beep beep. Beep! Beep! Beep beep. Beep! Beep!
+His horn went beep beep beep. Beep! Beep!
+
+My car went into passing gear
+And we took off with gust
+Soon we were doing ninety -
+Must've left him in the dust
+When I peeked in the mirror of my car
+I couldn't believe my eyes:
+The little Nash Rambler was right behind -
+I think that guy could fly
+Beep beep. Beep! Beep! Beep beep. Beep! Beep!
+His horn went beep beep beep
+
+Now we're doing a hundred and ten -
+This certainly was a race
+For a Rambler to pass a Caddy
+Would be a big disgrace
+The guy must've wanted to pass me up
+As he kept on tooting his horn
+I'll show him that a Cadillac
+Is not a car to scorn
+Beep beep. Beep! Beep! Beep beep. Beep! Beep!
+His horn went beep beep beep
+
+Now we're doing a hundred and twenty -
+As fast as I could go
+The Rambler pulled along side of me
+As if we were going slow
+The fellow rolled down his window
+And yelled for me to hear
+"Hey, Buddy, how can I get this car
+Out of second gear!"
+Beep! Beep! Beep! Beep! Beep! Beep!

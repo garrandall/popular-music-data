@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-gonna-knock-on-your-door-eddie-hodges
+lyrics_url: https://genius.com/Eddie-hodges-i-m-gonna-knock-on-your-door-lyrics
 name: I'm Gonna Knock On Your Door
 rankings:
 - end_date: '1961-06-25'
@@ -59,4 +60,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-09-11'
 ---
+I'm gonna knock on your door
+Ring on your bell
+Tap on your window, too
+If you don't come out tonight, when the moon is bright
+I'm gonna knock and ring and tap until you do
 
+I'm gonna knock on your door (how-how)
+Call out your name (how-how)
+Wake up the town, you'll see (how-how)
+I'm gonna hoo-hoot and howl like the lovesick owl
+Until you say you're gonna come out with me
+
+Hey little girl (how-how) this ain't no time to sleep
+Let's count kisses 'stead of countin' sheep
+How (how-how) how can I hold ya near
+
+With you up there and me down here?
+
+I'm gonna knock on your door
+Ring on your bell, tap on your window, too
+If you don't come out tonight when the moon is bright
+I'm gonna knock and ring and tap until you do
+
+Hey little girl (hey little girl)
+This ain't no time to sleep (how-how)
+Let's count kisses 'stead of countin' sheep (how-how)
+How (how-how) how can I hold ya near (how-how)
+With you up there and me down here?
+
+I'm gonna knock on your door
+Ring on your bell, tap on your window, too
+If you don't come out tonight, when the moon is bright
+I'm gonna knock and ring and tap until you do
+
+I'm gonna knock and ring and tap
+And knock and ring and tap
+And knock and ring and tap
+And knock and ring until you do

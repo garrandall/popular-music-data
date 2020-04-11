@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-wish-i-were-andy-kim
+lyrics_url: https://www.musixmatch.com/lyrics/Andy-Kim/I-Wish-I-Were
 name: I Wish I Were
 rankings:
 - end_date: '1971-04-02'
@@ -31,4 +32,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-05-01'
 ---
+I wish I were your pillow
+To touch your face at night
+I wish I was the sunshine, oh
+To be your morning light
 
+
+I wish I were, I wish I were
+All I should have been
+But most of all, oh, most of all
+I wish I were him
+
+I wish I were your mirror
+To watch you comb your hair
+And hear you hum that
+Little song you used to hum
+When I was really there
+
+
+
+Didn't I tell you
+What I wanted to tell you
+Oh, didn't I
+
+Didn't I show you
+What I wanted to show you
+Oh, didn't I
+Oh, didn't I
+Oh, didn't I
+
+You know what I do now every night
+While laying in my bed
+Take back all the things I did
+And half the things I said
+
+And I wish I were, I wish I were
+All I should have been
+But most of all, oh, most of all
+I wish, I wish, I wish, ooh

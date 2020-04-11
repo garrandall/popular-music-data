@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-turn-me-on-i-m-a-radio-joni-mitchell
+lyrics_url: https://genius.com/Joni-mitchell-you-turn-me-on-im-a-radio-lyrics
 name: You Turn Me On I'm A Radio
 rankings:
 - end_date: '1972-11-17'
@@ -71,4 +72,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-02-24'
 ---
-
+If you're driving into town
+With a dark cloud above you
+Dial in the number
+Who's bound to love you
+Oh honey you turn me on
+I'm a radio
+I'm a country station
+I'm a little bit corny
+I'm a wildwood flower
+Waving for you
+I'm a broadcasting tower
+Waving for you
+And I'm sending you out
+This signal here
+I hope you can pick it up
+Loud and clear
+I know you don't like weak women
+You get bored so quick
+And you don't like strong women
+Cause they're hip to your tricks
+It's been dirty for dirty
+Down the line
+But you know I come when you whistle
+When you're loving and kind
+But if you've got too many doubts
+If there's no good reception for me
+Then tune me out, cause honey
+Who needs the static
+It hurts the head
+And you wind up cracking
+And the day goes dismal
+From "Breakfast Barney"
+To the sign-off prayer
+What a sorry face you get to wear
+I'm going to tell you again now
+If you're still listening there
+If you're driving into town
+With a dark cloud above you
+Dial in the number
+Who's bound to love you
+If you're lying on the beach
+With the transistor going
+Kick off the sandflies honey
+The love's still flowing
+If your head says forget it
+But your heart's still smoking
+Call me at the station
+The lines are open

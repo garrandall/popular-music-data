@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: sleep-walk-santo-johnny
+lyrics_url: https://genius.com/Santo-and-johnny-sleepwalk-lyrics
 name: Sleep Walk
 rankings:
 - end_date: '1959-08-02'
@@ -80,4 +81,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-23'
 ---
-
+(Instrumental)

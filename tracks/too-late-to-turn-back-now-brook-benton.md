@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: too-late-to-turn-back-now-brook-benton
+lyrics_url: https://genius.com/Brook-benton-too-late-to-turn-back-now-lyrics
 name: Too Late To Turn Back Now
 rankings:
 - end_date: '1964-05-15'
@@ -39,4 +40,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
 ---
-
+Too Late To Turn Back Now
+- Artist: Brook Benton as sung on "The Satin Sound Brook Benton"
+- Suffolk Marketing-SMI 2
+- peak Billboard position # 43 in 1964
+- Words and Music (written as "IT'S Too Late To Turn Back Now) by Clyde Otis
+You don't know how much you hurt me
+When you broke our precious vows
+But I can't stop loving you
+I know it's too late to turn back now
+Though I said "Go-o on, be happy, bless you child"
+I thought you could guess somehow
+My secret heart was sayin'
+"Man, it's too late to turn back now"
+Was I a fool from the start
+Building castles in the skies?
+Or did I just dream I saw heaven
+Shining in your eyes?
+If you knew how much I love you, yes I do
+Oh, my darling, your heart would bow
+Mmm, yes, you'd know, you'd know why I have said
+"It's too late to turn back now"
+(Too late to turn back now)
+Yes, I love you
+(Too late to turn back now)
+And do not necessarily correspond with lyrics from other recordings, sheet
+Music, songbooks or lyrics printed on album jackets

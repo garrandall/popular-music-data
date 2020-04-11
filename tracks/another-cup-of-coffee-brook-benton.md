@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: another-cup-of-coffee-brook-benton
+lyrics_url: https://genius.com/Brook-benton-another-cup-of-coffee-lyrics
 name: Another Cup Of Coffee
 rankings:
 - end_date: '1964-05-22'
@@ -35,4 +36,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
 ---
+Another cup of coffee, another cigarette
+Another hour of mem'ries so hard to forget
+How your crazy-lovin' arms held me so tight
+Another cup of java, another lonely night
 
+Put a dime in the jukebox, play a sad, sad song
+And all the time I'll be thinkin' about the dream that's gone wrong
+And where you used to say "Our love is still alive"
+Another cup of coffee, another lonely night
+
+But there'll be me, I don't blame you for walkin' out on me
+'Cause the way I cheated on you, I deserve this misery
+
+Another love has found you, he's a lucky guy
+Another's arms all around you, I'm so sad I could cry
+Darling, if you don't come back, I know what's in sight
+Another cup of coffee, another lonely night
+
+Whoa, dear, if you don't come back, I know what's in sight
+Another cup of coffee, another lonely night
+
+Another cup of coffee, hmmm, another lonely night

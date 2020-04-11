@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: el-amante-nicky-jam
+lyrics_url: https://genius.com/Nicky-jam-el-amante-lyrics
 name: El Amante
 rankings:
 - end_date: '2017-02-24'
@@ -67,3 +68,101 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-09-02'
 ---
+Ya yo me cansé, no quiero ser tu amante
+Te digo de mi parte, que no aguanto más
+Ya no aguanto ver el otro como dice que es el dueño tuyo
+Me mata el orgullo, él ni te sabe hablar
+
+
+Esta la hice pa' él
+Cuando la escuche quiero estar ahí para ver
+Cuando se entere y sepa que soy dueño de usted
+Tal vez suene un poco mal, lo sé y no me luce
+Todo es por usted
+
+
+Mami, yo me siento tuyo
+Yo sé que tú te sientes mía
+Dile al noviecito tuyo
+Que con él te sientes fría
+
+Mami, yo me siento tuyo
+Yo sé que tú te sientes mía
+Dile al noviecito tuyo
+Que él es una porquería
+
+
+Te caliento más, más, más
+Te caliento más, más, más
+Te caliento más, más, más
+Te caliento más, más, más
+Te caliento más
+
+
+Sólo una cosa te preguntaré
+Si tienes frío, ¿quién te da calor?
+Yo soy el dueño de tus fantasías
+Nadie lo hace como yo
+
+Si te viste bonita, él no te dice na'
+Y a mí tú me gustas hasta sin maquillar
+Tú siempre a mí me dices que él te trata mal
+Y eso lo tienes que acabar
+
+Dime qué tú vas a hacer
+Mami, tengo la inquietud
+Si quieres sufrir con él
+Eso lo decides tú
+
+Que seas feliz con él
+Yo no te contestaré
+Sé que me vas a llamar
+Cuando me extrañe tu piel (tu piel)
+
+
+Ma-Mami, yo me siento tuyo
+Yo sé que tú te sientes mía
+Dile al noviecito tuyo
+Que con él te sientes fría
+
+Mami, yo me siento tuyo
+Yo sé que tú te sientes mía
+Dile al noviecito tuyo
+Que él es una porquería
+
+
+Esta la hice pa' él
+Cuando la escuche quiero estar ahí para ver
+Cuando se entere y sepa que soy dueño de usted
+Tal vez suene un poco mal, lo sé y no me luce
+Todo es por usted
+
+
+Mami, yo me siento tuyo
+Yo sé que tú te sientes mía
+Dile al noviecito tuyo
+Que con él te sientes fría
+
+Mami, yo me siento tuyo
+Yo sé que tú te sientes mía
+Dile al noviecito tuyo
+Que él es una porquería
+
+
+Te caliento más, más, más
+Te caliento más, más, más
+Te caliento más, más, más
+Te caliento más, más, más
+Te caliento más
+
+
+Mami, yo me siento tuyo
+Yo sé que tú te sientes mía
+Dile al noviecito tuyo
+Que él es una porquería
+
+N-I-C-K (oh)
+Nicky, Nicky, Nicky Jam (oh)
+Saga WhiteBlack (oh-oh)
+La Industria Inc
+Ya no quiero ser tu amante

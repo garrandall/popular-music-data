@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: jessica-the-allman-brothers-band
+lyrics_url: https://genius.com/The-allman-brothers-band-jessica-lyrics
 name: Jessica
 rankings:
 - end_date: '1974-01-25'
@@ -32,3 +33,19 @@ rankings:
   start_date: '1974-02-23'
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The recording is the album’s version – the long one…

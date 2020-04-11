@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: guantanamera-the-sandpipers
+lyrics_url: https://genius.com/The-sandpipers-guantanamera-lyrics
 name: Guantanamera
 rankings:
 - end_date: '1966-08-05'
@@ -51,4 +52,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-10-08'
 ---
+Guantanamera, Guajira Guantanamera
+Guantanamera, Guajira Guantanamera
 
+Yo soy un hombre sincero
+De donde crecen las palmas
+Yo soy un hombre sincero
+De donde crecen las palmas
+Y antes de morir me quiero
+Echar mis versos del alma
+
+Guantanamera, Guajira Guantanamera
+Guantanamera, Guajira Guantanamera
+
+Mi verso es de un verde claro
+Y de un carmín encendido
+Mi verso es de un verde claro
+Y de un carmín encendido
+Mi verso es un ciervo herido
+Que busca en el monte amparo
+
+The words mean "I am a truthful man from the land of the palm trees
+And before dying, I want to share these poems of my soul
+My poems are soft green
+My poems are also flaming crimson
+My poems are like a wounded fawn seeking refuge in the forest
+
+The last verse says:'Con los pobres de la tierra'
+With the poor people of this earth I want to share my fate
+The streams of the mountains please me more than the sea"
+
+(background)
+Por los pobres de la tierra
+Quiero yo mi suerte echar
+Por los pobres de la tierra
+Quiero yo mi suerte echar
+Y el arroyo de la sierra
+Me complace más que el mar
+
+Guantanamera, Guajira Guantanamera
+Guantanamera, Guajira Guantanamera

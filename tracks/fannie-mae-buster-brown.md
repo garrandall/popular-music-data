@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: fannie-mae-buster-brown
+lyrics_url: https://genius.com/Buster-brown-fannie-mae-lyrics
 name: Fannie Mae
 rankings:
 - end_date: '1960-02-07'
@@ -75,4 +76,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-23'
 ---
+Well, I want somebody
+Tell me what's wrong with me
+I want somebody
+Tell me what's wrong with me
+No, I ain't in trouble
+In so much a-misery
 
+Now, Fannie Mae
+Baby, won't you please come home?
+Fannie Mae-ae-ae
+Baby, won't you please come home?
+No, I ain't been myself
+Girl, since you been gone
+
+I can hear your name a-ringin'
+All down the line
+
+I can hear your little engine
+All down the line
+I wanna know do ya love me
+Am or I j' wa'tin' my time?
+
+Yeah!
+
+(harmonica - hoo ha)
+
+Cryin', oh
+Oh, oh, oh, poor me!
+Cryin', oh
+Oh, whoa, oh, poor me!
+Well, I ain't in trouble
+So much a-misery
+
+~

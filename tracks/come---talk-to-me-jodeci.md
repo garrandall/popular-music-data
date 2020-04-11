@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come---talk-to-me-jodeci
+lyrics_url: https://genius.com/Jodeci-come-and-talk-to-me-lyrics
 name: Come & Talk To Me
 rankings:
 - end_date: '1992-04-10'
@@ -119,4 +120,97 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-10-10'
 ---
+Been watching you baby
+For a long time
+You look so good
+Got my eyes on you
+I've been watching you
+For so very long
+Trying to get my nerve built up to be so strong
+I really want to meet you
+But I'm kind of scared
+Cause you're the kind of lady
+With so much class
+Get my thoughts together
+For the very next day
+But when I see you lady
+I forget what to say
+Your eyes and hair
+Such a beautiful tone
+The way you dress and walk
+It really turns me on
+Ooh, you really turn me on
+Ooh, you really turn me on
+Come on, come on, come on
 
+
+Come and talk to me
+I really want to meet you
+Can I talk to you?
+I really want to know you
+Come and talk to me
+I really want to meet you
+Can I talk to you?
+I really want to know you
+
+
+There you are again
+With the same smile each day
+I wanna know what it is
+That makes me feel this way
+I wish I could grab you
+Tell you what it means to me
+To see you walking by my way
+It really makes my day
+Before I go to sleep and dream about you
+I'm a single man
+I hope that you are single too
+Why do I seek
+Something to set my mind free
+Cause curiosity is bugging
+The hell outta me
+Talk to me, talk to me, talk to me, baby
+
+
+Come and talk to me
+I really want to meet you
+Can I talk to you?
+I really want to know you
+Come and talk to me
+I really want to meet you
+Can I talk to you?
+I really want to know you
+
+
+I wanna know, you wanna tell me your name
+Let me play your game
+I wanna know, you wanna tell me your name
+Let me play your game
+I wanna know, you wanna tell me your name
+Let me play your game
+
+
+Come and talk to me
+I really want to meet you
+Can I talk to you?
+I really want to know you
+Come and talk to me
+I really want to meet you
+Can I talk to you?
+I really want to know you
+Come and talk to me
+I really want to meet you
+Can I talk to you?
+I really want to know you
+Come and talk to me
+I really want to meet you
+Can I talk to you?
+I really want to know you
+I wanna know, you wanna tell me your name
+Let me play your game
+I wanna know, you wanna tell me your name
+Let me play your game
+I wanna know, you wanna tell me your name
+Let me play your game
+I wanna know, you wanna tell me your name
+Let me play your game

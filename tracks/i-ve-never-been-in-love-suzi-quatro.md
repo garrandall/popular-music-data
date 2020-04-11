@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ve-never-been-in-love-suzi-quatro
+lyrics_url: https://genius.com/Suzi-quatro-ive-never-been-in-love-lyrics
 name: I've Never Been In Love
 rankings:
 - end_date: '1979-09-14'
@@ -39,4 +40,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
 ---
+Oh no I can't write my name
+Oh - don't you know I'm so blasted
+How this revelation it is hotter
+Than a matchhead
+And I'm ready to go
 
+Ready to fly away with you
+
+And I may lose everything
+But I don't give a damn if I do
+
+Because I've never been in love
+Never been in love
+
+Never been in love
+
+Never been in love
+
+I've never been in love like this before
+
+Oh - what did I miss before
+
+Well
+This good luck
+It's breaking out of bounds
+And I just got to tell it
+Tell it
+Tell it
+
+Oh scream and shout
+Well you came like a hurricane
+And sent me into the clouds
+Oh and I haven't seen my feet for days
+'Cause I'm miles above the ground
+
+Because I've never been in love...
+
+Well who says I need a doctor
+'Cause I'm a second-hand crazed
+I've been laughing so much
+
+Oh they want to put me away
+And I'm really gonna take these chains
+Of off my life 'cause this lightening I know
+I would never ever strike twice

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-gonna-let-my-heart-do-the-walking-the-supremes
+lyrics_url: https://genius.com/The-supremes-im-gonna-let-my-heart-do-the-walking-lyrics
 name: I'm Gonna Let My Heart Do The Walking
 rankings:
 - end_date: '1976-06-04'
@@ -63,4 +64,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-28'
 ---
+Goodbye my love
+Happy life my love
+I'm tired and I just can't take no more
+Tired of being tough
+'Cause enough is enough
+This time I'm really headed for the door
+You better believe
 
+I'm gonna let my heart do the walking
+(Whoo-oo, oo-oo)
+Walk me in to something good
+(So good, so good)
+I'm gonna let my heart do the walking
+(Do the walking)
+Oh, it ain't no make believin'
+My heart's set on leaving
+
+You take my very best
+And give me less
+I'm tired and I just can't take no more
+Your love is unstable
+Darling, while I'm able
+Gonna ease on out the door
+You better believe
+
+I'm gonna let my heart do the walking
+(Whoo-oo, oo-oo)
+Walk me in to something good
+(So good, so good)
+I'm gonna let my heart do the walking
+(Do the walking)
+Oh, I never thought I could
+But I'm leaving for good
+
+Gonna let it do the walking, baby
+(Do the walking)
+Ooh, I'm gonna let it do the walking, baby
+(Do the walking)
+Oh, oh, oh, oh-ooo
+
+Walk on heart, walk on
+Walk on heart, tip on out the door
+Walk on heart, walk on
+Walk on heart, tip on out the door
+Walk on heart, walk on
+Walk on heart
+Walk on out the door with your bad self
+
+I'm gonna let my heart do the walking
+(Whoo-oo, oo-oo)
+Walk me in to something good
+(So good, so good)
+I'm gonna let my heart do the walking
+(Do the walking)
+Oh, I never thought I could
+But I'm leaving for good
+
+I'll let my heart do the walking, baby
+I'm gonna let it do the walking, yes I am
+I'm gonna let it do the walking, baby
+Oh, hey, hey
+I'm gonna let, let, let my heart do the walking, yeah
+Walk me in to something good
+Let my heart do the walking

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chains-the-cookies
+lyrics_url: https://genius.com/The-cookies-chains-lyrics
 name: Chains
 rankings:
 - end_date: '1962-11-16'
@@ -55,4 +56,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-01-26'
 ---
+Chains, my baby's got me locked up in chains
+And they ain't the kind that you can see
+Whoa, it's chains of love got a hold on me, yeah
 
+
+Chains, well I can't break away from these chains
+Can't run around, 'cause I'm not free
+Whoa, oh, these chains of love won't let me be, yeah
+
+
+Now believe me when I tell you
+I think you're fine
+I'd like to love you
+But, darlin', I'm imprisoned by these
+
+
+Chains, my baby's got me locked up in chains
+And they ain't the kind that you can see
+Oh, oh, it's chains of love got a hold on me
+
+
+I wanna tell you pretty baby
+Your lips look sweet
+I'd like to kiss them
+But I can't break away from all of these
+
+
+Chains, my baby's got me locked up in chains
+And they ain't the kind that you can see
+Whoa, oh, it's chains of love got a hold on me, yeah
+
+
+Chains, chains of love
+Chains of love
+Chains of love

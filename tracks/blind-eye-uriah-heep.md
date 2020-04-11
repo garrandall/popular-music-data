@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blind-eye-uriah-heep
+lyrics_url: https://www.musixmatch.com/lyrics/Uriah-Heep/Blind-Eye
 name: Blind Eye
 rankings:
 - end_date: '1973-01-26'
@@ -19,4 +20,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-02-03'
 ---
+Stranger than the sunrise
+Darker than the night
+Fiercer than a rainstorm
+This is man's delight
+This is man's delight
 
+Weaker than a moment
+And hot as any fire
+Blinder than the blind eye
+This is man's desire
+This is man's desire
+
+I ran to a place in the open sea
+
+Where I pledged
+My life to the sun
+It was good for a while
+I could laugh, I could smile
+But when I woke up one day
+The sun had gone
+
+So what of my meaning
+What am I trying to say
+What of my caution
+I'm a man anyway
+I'm a man anyway

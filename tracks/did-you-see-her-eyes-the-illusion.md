@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: did-you-see-her-eyes-the-illusion
+lyrics_url: https://www.musixmatch.com/lyrics/The-Illusion-2/Did-You-See-Her-Eyes
 name: Did You See Her Eyes
 rankings:
 - end_date: '1969-07-11'
@@ -59,4 +60,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-09-27'
 ---
+Hey, hey now
 
+Well now here she comes, walking down the street
+Well now here she comes, walking down the street
+
+Did you see her eyes
+Did you see her eyes
+Did you see her eyes
+Yeah, yeah, yeah, now
+
+Well now here she comes, walking down my street, alright
+Well now here she comes, ahhhh, she looks so sweet
+
+She can make you feel so good
+She can make you feel so fine
+She can make you feel so good
+If you give her time, she can blow your mind
+
+Naaaaaa, na-na-na, na-na-na-na-na
+
+Well now here she comes, she looks so sweet
+Well now here she comes, she looks so fine
+Well now here she comes, I'm gonna make her mine

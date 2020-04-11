@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: me-love-sean-kingston
+lyrics_url: https://genius.com/Sean-kingston-me-love-lyrics
 name: Me Love
 rankings:
 - end_date: '2007-08-24'
@@ -79,4 +80,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-01-12'
 ---
+Oh oh oh oh oh ooh
+Why do you have to go?
+Away from all
+Me love. (2x)
 
+
+See the first time me looking at your eyes
+Me be tell you want a guy like me (Guy like me)
+We use to have good times on the evening
+Me and you chilling on the beach (On the beach)
+We use to kiss and caress an chess me
+Girl it feels so sweet (Feels so sweet)
+Then one day you move
+Now I'm feeling kinda blue
+Cause we had to see you leave (You leave)
+
+
+I feel like I'm drowning in the ocean
+Somebody come and take me away
+Oh oh oh oh oh ooh
+Why do you have to go?
+Away from all
+Me love
+Oh oh oh oh oh ooh
+Why do you have to go?
+Away from all
+Me love
+
+
+Now I'm sittin' in a chair with no one here
+And I'm feelin all alone (All alone)
+Thinkin to myself like
+Damn, why my baby up and gone (Up and gone)
+It's like I'm missin' her and I know she's missin' me (Missin' me)
+It's been two years an a half in july will make it three. (Make it three)
+
+
+
+
+Why you leave me, w-why you leave me?
+Baby tell me, b-baby tell me
+Why you leave me, w-why you leave me?
+Why you leave me? (2x)
+
+
+
+
+Oh oh oh oh oh ooh
+(Why you leave me, w-why you leave me)
+(Baby tell me, b-baby tell me)
+Why'd you have to go?
+(Why you leave me, w-why you leave me)
+(Baby tell me, b-baby tell me)
+Away from all
+Me love

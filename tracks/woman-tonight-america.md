@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: woman-tonight-america
+lyrics_url: https://genius.com/America-woman-tonight-lyrics
 name: Woman Tonight
 rankings:
 - end_date: '1975-12-05'
@@ -43,4 +44,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-24'
 ---
+Oh, hold me tight
+Won't you be my woman tonight?
+Oh, hold me tight
+Won't you be my woman tonight?
 
+I get the shivers up and down my spine
+The only time I'm happy's when I know she's mine
+So hold, hold me tight
+
+Treat me right
+Won't you be my woman tonight?
+So treat me right
+Won't you be my woman tonight?
+
+First I see you
+And then you let me go
+The only time I touch you's when you don't wanna know
+So hold, hold me tight, all right
+
+Hold me tight
+Hold me tight
+Won't you be my woman tonight
+Hold me tight
+Won't you be my woman tonight
+
+I get the shivers up and down my spine
+The only time I'm happy's when I know she's mine
+So, hold, hold me tight
+Hold me tight, woman tonight

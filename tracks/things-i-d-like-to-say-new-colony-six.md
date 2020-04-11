@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: things-i-d-like-to-say-new-colony-six
+lyrics_url: https://genius.com/New-colony-six-things-id-like-to-say-lyrics
 name: Things I'd Like To Say
 rankings:
 - end_date: '1969-01-03'
@@ -71,4 +72,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-12'
 ---
+Baby, is he looking after you?
+Is he showing you the same love, the warm love
+Just like we knew?
 
+Baby, baby, it's you I'm thinking of
+In the morning when I wake up
+In the evening, it's you that I dream of
+
+Sometimes love hurts, and sometimes love's unkind
+And sometimes you might feel blue
+But remember now, darling, if his words are real
+This will never, never happen to you
+
+Baby, baby, there's things I'd like to say
+I was hoping that with our love
+We would get married someday
+
+Baby, baby, it's you I'm thinking of
+In the morning when I wake up
+In the evening, it's you that I dream of
+
+Sometimes love hurts, and sometimes love's unkind
+And sometimes you might feel blue
+But remember now, baby, if his words are real
+This will never, never happen to you
+
+Baby, baby, there's things I'd like to say
+I was hoping that with our love
+We would get married someday

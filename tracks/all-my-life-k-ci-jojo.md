@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: all-my-life-k-ci-jojo
+lyrics_url: https://genius.com/K-ci-and-jojo-all-my-life-145221-lyrics
 name: All My Life
 rankings:
 - end_date: '1998-04-03'
@@ -152,4 +153,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
 ---
+Baby baby baby baby baby baby baby baby baby baby baby
 
+
+I will never find another lover sweeter than you
+Sweeter than you
+And I will never find another lover more precious than you
+More precious than you
+Girl you are close to me, you're like my mother
+Close to me, you're like my father
+Close to me, you're like my sister
+Close to me, you're like my brother
+And you are the only one my everything
+And for you this song I sing
+
+
+And all my life, I prayed for someone like you
+And I thank God that I, that I finally found you
+All my life, I prayed for someone like you
+And I hope that you feel the same way too
+Yes, I pray that you do love me too
+I said you're all that I'm thinking of, baby
+
+
+Said, I promise to never fall in love with a stranger
+You're all I'm thinking of, I praise the Lord above
+For sending me your love
+I cherish every hug
+I really love you
+
+
+And all my life, I prayed for someone like you
+And I thank God that I, that I finally found you
+All my life, I prayed for someone like you
+And I hope that you feel the same way too
+Yes, I pray that you do, love me
+
+
+You're all that I ever know
+When you smile, on my face, all I see is a glow
+You turned my life around
+You picked me up when I was down
+You're all that I ever know
+When you smile, our face glows
+You picked me up when I was down
+Said, you're all that I ever know
+When you smile, our face glows
+You picked me up when I was down
+And I hope that you feel the same way too
+Yes, I pray that you do love me too
+
+
+And all my life, I prayed for someone like you
+And I thank God that I, that I finally found you
+All my life, I prayed for someone like you
+Yes, I pray that you do love me too
+
+And all my life, I prayed for someone like you
+And I thank God that I, that I finally found you
+All my life, I prayed for someone like you
+Yes, I pray that you do love me too

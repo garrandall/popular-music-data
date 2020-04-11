@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-in-the-mood-cece-peniston
+lyrics_url: https://genius.com/Cece-peniston-im-in-the-mood-east-87th-st-mix-lyrics
 name: I'm In The Mood
 rankings:
 - end_date: '1994-01-07'
@@ -87,4 +88,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-05-14'
 ---
+You ain't nothin' but a sweet thing, yeah
+And I'll come back for more every day
 
+Feels so, so good to me (I'm in the mood)
+Makes me feel oh, so right
+I'm in the mood, ahaha, boy
+I want you forever
+I'm in the mood
+
+Let's start tonight out right
+You and I bathed in candlelight
+Tasting the wine on your lips
+Touching your body tenderly with my fingertips
+
+I feel a sweet sensation rushing through my body
+It needs no explaining, it's for your lovin'
+Just dim the lights and ask me what I want, oh, baby
+So I can say exactly how I feel
+
+I'm in the mood and I hope you feel it too
+Take me away and I'll come back for more every day
+I'm in the mood and I hope you feel it too
+Take me away and I'll come back for more every day
+
+Ahaha, boy, I want you forever
+I don't know if you know it or not
+But I'm in the mood
+
+Let's not spoil the moment, boy
+Unplug the phone so we can be alone
+There is something about your kiss
+That makes me feel like nothing else exists
+
+Let's get into the moment, we won't regret it
+There's so much passion between us, we can't control it
+This is a night that we soon won't forget, oh, baby
+I've never been more ready for your love
+
+I'm in the mood and I hope you feel it too
+Take me away and I'll come back for more every day
+I'm in the mood and I hope you feel it too
+Take me away and I'll come back for more every day
+
+You ain't nothin' but a sweet thing, yeah
+And I'll come back for more every day
+Ahaha, boy, I want you forever (Heyeyey)
+Check this out
+
+Ahaha, boy, I want you forever
+Every day (Check this out)
+I'm in the mood (You make me feel so good)
+You make me feel, oh, so right
+
+I'm in the mood (So, so good to me)
+Makes me feel oh, so right (Makes me feel so good)
+
+I don't know if you know it or not
+But I'm in the mood
+
+Ready for your love every day
+
+And I'll come back for more every day
+
+Ahaha, boy, I want you forever
+Every day (Check this out)
+I'm in the mood (So, so good to me)
+Makes me feel oh, so right (Makes me feel so good)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-you-won-t-do-for-love-bobby-caldwell
+lyrics_url: https://genius.com/Bobby-caldwell-what-you-wont-do-for-love-lyrics
 name: What You Won't Do For Love
 rankings:
 - end_date: '1978-12-29'
@@ -87,4 +88,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-05-05'
 ---
+I guess you wonder where I've been
+I searched to find a love within
+I came back to let you know
+Got a thing for you and I can't let go
 
+My friends wonder what is wrong with me
+Well I'm in a daze from your love, you see
+I came back to let you know
+Got a thing for you and I can't let go
+
+
+Some people go around the world for love
+But they may never find what they dream of
+
+
+What you won't do, do for love
+You've tried everything but you don't give up
+In my world only you
+Make me do for love what I would not do
+
+
+My friends wonder what is wrong with me
+Well, I'm in a daze from your love, you see
+I came back to let you know
+Got a thing for you and I can't let go
+
+
+And though I only want the best, it's true
+I can't believe the things I do for you
+
+
+What you won't do, do for love
+You've tried everything but you won't give up
+In my world, only you make me do for love what I would not do
+Make me do for love what I would not do
+Make me do for love what I would not do
+Make me do for love what I would not do

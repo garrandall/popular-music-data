@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-boy-joanie-sommers
+lyrics_url: https://genius.com/Joanie-sommers-one-boy-lyrics
 name: One Boy
 rankings:
 - end_date: '1960-07-10'
@@ -43,4 +44,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-29'
 ---
+One boy, one special boy
+One boy to go with, to talk with and walk with
+One boy, that's the way it should be
 
+One boy, one certain boy
+One boy to laugh with, to joke with, have Coke with
+One boy, not two or three
+
+One day you'll find out
+This is what life is all about
+You'll need someone who
+Is living just for you-ou
+
+One boy, one steady boy
+One boy to be with for ever and ever
+One boy, that's the way it should be
+
+That's the way it should be
+That's the way it should be

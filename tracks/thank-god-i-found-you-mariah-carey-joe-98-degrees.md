@@ -6,6 +6,7 @@ features:
 - 98 Degrees
 genres: []
 key: thank-god-i-found-you-mariah-carey-joe-98-degrees
+lyrics_url: https://genius.com/Mariah-carey-thank-god-i-found-you-lyrics
 name: Thank God I Found You
 rankings:
 - end_date: '1999-12-17'
@@ -89,4 +90,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-04-22'
 ---
+I would give up everything
+Before I'd separate myself from you
+After so much suffering
+I finally found unvarnished truth
+I was all by myself for the longest time
+So cold inside
+And the hurt from the heartache would not subside
+I felt like dying
+Until you saved my life
 
+
+Thank God I found you
+I was lost without you
+My every wish and every dream
+Somehow became reality
+When you brought the sunlight
+Completed my whole life
+I'm overwhelmed with gratitude
+'Cause baby I'm so thankful I found you
+
+
+I will give you everything
+There's nothing in this world I wouldn't do
+To ensure your happiness
+I'll cherish every part of you
+'Cause without you beside me I can't survive
+Don't wanna try
+If you keeping me warm each and every night
+I'll be alright
+'Cause I need you in my life
+
+
+Thank God I found you
+I was lost without you
+My every wish and every dream
+Somehow became reality
+When you brought the sunlight
+Completed my whole life
+I'm overwhelmed with gratitude
+'Cause baby, I'm so thankful I found you
+
+
+See, I was so desolate before you came to me
+Looking back
+I guess it shows that we were destined
+To shine over the rain, to appreciate
+The gift of what we have
+And I'd go through it all over again
+To be able to feel
+This way
+
+
+Thank God I found you
+I was lost without you
+My every wish and every dream
+Somehow became reality
+When you brought the sunlight
+Completed my whole life
+I'm overwhelmed with gratitude
+See baby, I'm so thankful I found you
+Thank God I found you
+I was lost without you
+I'm overwhelmed with gratitude
+My baby, I'm so thankful I found
+You
+You
+
+
+I'm overwhelmed with gratitude
+My baby, I'm so thankful I found you

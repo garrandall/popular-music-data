@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-you-were-mine-ray-charles
+lyrics_url: https://genius.com/Ray-charles-if-you-were-mine-lyrics
 name: If You Were Mine
 rankings:
 - end_date: '1970-10-09'
@@ -79,4 +80,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
 ---
-
+If you were mine
+I'd never let you leave me
+If you were mine
+I'd never let you go
+Because you are
+Just what I've always wanted
+And I think that you oughta know
+From the moment I first saw you
+Girl, you went straight to my brain
+In my heart I've got a feeling
+That I could never explain
+If you were mine
+You'd never know no sorrow
+If you were mine
+I'd marry you tomorrow
+Yes, I would
+Believe me, girl
+What the occasion
+If you call me
+I'll come with no persuasion
+You just call
+And I'll come running
+Oh, yes, I will, baby
+Come rain or storm
+Hail or snow
+Because the way I feel about you
+No place is too remote to go
+Oh, well, baby, oh, well
+Now now now now now...
+Oh, baby, oh, well...

@@ -1,6 +1,7 @@
 ---
 artists:
-- Paul Simon/Phoebe Snow
+- Paul Simon
+- Phoebe Snow
 features: []
 genres: []
 key: gone-at-last-paul-simon-phoebe-snow

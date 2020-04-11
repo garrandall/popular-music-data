@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-s-made-a-fool-of-you-bobby-fuller-four
+lyrics_url: https://genius.com/Bobby-fuller-four-loves-made-a-fool-of-you-lyrics
 name: Love's Made A Fool Of You
 rankings:
 - end_date: '1966-04-22'
@@ -31,4 +32,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
 ---
+You know love makes a fool of you
+You do anything that it wants you to
+Love can make-a you feel so good
+When it goes like you think it should
+Or it can make you cry at night
+When your baby don't treat you right
+When you're feelin' sad and blue
+You know love's made a fool of you
+You know love's made a fool of you
 
+You know love makes a fool of men
+But you don't care, you're gonna try it again
+Times goes by, it's a-passing fast
+You think your love-a has come at last
+By and by you're gonna find
+Crazy love-a has-a made you blind
+When you're feelin' sad and blue
+You know love's made a fool of you
+You know love's made a fool of you
+
+Love can make-a you feel so good
+When it goes like you think it should
+Or it can make you cry at night
+When your baby don't treat you right
+When you're feelin' sad and blue
+You know love's made a fool of you
+You know love's made a fool of you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: nothing-but-a-heartache-the-flirtations
+lyrics_url: https://genius.com/The-flirtations-nothing-but-a-heartache-lyrics
 name: Nothing But A Heartache
 rankings:
 - end_date: '1969-03-14'
@@ -63,4 +64,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-07'
 ---
+Nothing but a heartache every day
+(Nothing but a heartache)
+Nothing but a teardrop all of the way
+(Nothing but a teardrop)
+Loving a bad guy is such a sin, yeah
+He's got me all won
+Can I get him?
 
+Nothing but a heartache every day yeah
+(Nothing but a heartache)
+Nothing but a teardrop all of the way
+(Nothing but a teardrop)
+It is one situation that I just can't win, yeah
+He's got me all won
+Can I get him?
+
+I got a lot of those heartaches
+I got a lot of those teardrops
+Heartaches, teardrops, all of the way
+Nothing but a heartache every day
+
+Nothing but a heartache every day
+(Nothing but a heartache)
+Nothing but a teardrop all of the way
+(Nothing but a teardrop)
+Him loving me is just too slim, yeah
+He's got me all won
+Can I get him?
+
+I got a lot of those heartaches
+I got a lot of those teardrops
+Heartaches, teardrops, all of the way
+Nothing but a heartache every day
+
+Nothing but a heartache every day
+(Nothing but a heartache)
+Nothing but a teardrop all of the way
+(Nothing but a teardrop)
+Him loving me is just too slim, yeah
+He's got me all won
+Can I get him?
+
+Nothing but a heartache every day yeah
+(Nothing but a heartache)
+Nothing but a teardrop all of the way
+(Nothing but a teardrop)
+Heartache, ooh, I get 'em every, every day
+(Nothing but a heartache)
+
+Tears pouring all down my face
+(Nothing but a teardrop)
+Ooh, the man has got me, so uptight
+(Nothing but a teardrop)
+Nothin' I do, seem to

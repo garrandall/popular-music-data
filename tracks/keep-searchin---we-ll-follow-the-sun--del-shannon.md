@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-searchin---we-ll-follow-the-sun--del-shannon
+lyrics_url: https://genius.com/Del-shannon-keep-searchin-well-follow-the-sun-lyrics
 name: Keep Searchin' (We'll Follow The Sun)
 rankings:
 - end_date: '1964-11-27'
@@ -63,4 +64,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-20'
 ---
+No one will understand what I've gotta do
+I've gotta find a place to hide with my baby by my side
+She's been hurt so much, they treat her mean and cruel
+They try to keep us far apart, there's only one thing left we can do
 
+We gotta keep searchin', searchin', find a place to hide
+Searchin', searchin', she'll be by my side
+If we gotta keep on the run, we'll follow the sun-ah, wee-ooh
+Follow the sun-ah, wee-ooh
+
+Doesn't matter, doesn't matter what people might say
+She's mine and I'm gonna take her anyway
+
+Gotta keep searchin', searchin', find a place to stay
+Searchin', searchin', every night and day
+If we gotta keep on the run, we'll follow the sun-ah, wee-ooh
+Follow the sun-ah, wee-ooh
+
+We gotta keep searchin', searchin', find a place to hide
+Searchin', searchin', she'll be by my side
+If we gotta keep on the run we'll follow the sun-ah, wee-ooh
+Follow the sun-ah, wee-ooh
+Follow the sun-ah, wee-ooh, follow the sun-ah

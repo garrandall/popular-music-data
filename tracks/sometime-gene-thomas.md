@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sometime-gene-thomas
+lyrics_url: https://genius.com/Gene-thomas-sometime-lyrics
 name: Sometime
 rankings:
 - end_date: '1961-11-05'
@@ -35,4 +36,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-12-11'
 ---
-
+Sometimes I cry when I'm lonely
+Sometimes I cry when I'm blue
+Right now I'm cryin' 'cause I love you
+I'm cryin' 'cause you don't love me too
+Come on & tell me that you love me
+Won't you please answer yes or no
+Tell me if I'm your one & only
+So I can either stay or go, wo oh
+Tell me, my darlin', if you love me
+Now tell me if you feel the same
+Tell me, my darlin', if you love me
+Or if all the tears I she'd were she'd in vain
+Oh tell me now
+Sometimes I cry when I'm lonely
+Sometimes I cry when I'm blue
+Right now I'm cryin' 'cause I love you
+I'm cryin' 'cause you don't love me too
+I'm cryin' 'cause you don't love me too...

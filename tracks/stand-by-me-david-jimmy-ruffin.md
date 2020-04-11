@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: stand-by-me-david-jimmy-ruffin
+lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Ruffin-feat-David-Ruffin/Stand-by-Me
 name: Stand By Me
 rankings:
 - end_date: '1970-10-30'
@@ -36,4 +37,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-12-05'
 ---
+When the night has come
+And the land is dark
+And the moon is the only light we'll see
 
+No I won't be afraid, no I won't be afraid
+Just as long as you stand, stand by me
+
+So darlin', darlin', stand by me, oh stand by me
+Oh stand, stand by me, stand by me
+
+If the sky that we look upon
+Should tumble and fall
+Or the mountains should crumble to the sea
+I won't cry, I won't cry, no I won't shed a tear
+Just as long as you stand, stand by me
+
+And darlin', darlin', stand by me, oh stand by me
+Oh stand now, stand by me, stand by me
+
+And darlin', darlin', stand by me, oh stand by me
+Oh, stand now, stand by me, stand by me
+
+Whenever you're in trouble won't you stand by me
+Oh stand by me, won't you stand now
+Oh stand, stand by me

@@ -6,6 +6,7 @@ features:
 - Akon
 genres: []
 key: kush-dr--dre-snoop-dogg-akon
+lyrics_url: https://genius.com/Dr-dre-kush-lyrics
 name: Kush
 rankings:
 - end_date: '2010-12-10'
@@ -77,4 +78,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-03-26'
 ---
+Hold up, wait a minute
+Let me put some kush up in it
+Hold up, wait a minute
+Let me put some kush up in it
+Hold up, wait a minute
+Let me put some kush up in it
+Hold up, wait a minute
+Let me put some kush up in it
 
+
+Now, this that puff, puff, pass shit
+Cheech and Chong glass shit
+Blunts to the head, kush pillows, no mattress
+Speedboat traffic, bitches automatic
+Cross that line, fuck around and get yo' ass kicked
+We roll shit that burn slow as fuckin' molasses
+Probably won't pass it, smoke it 'til the last hit
+Down to the ashes, Mary J. a bad bitch
+Andre, 3001, another classic
+Go ahead, ask him, bitches, 'bout how I be smokin' out
+Party all night, yeah, it's goin' down
+Order rounds, we smoke a quarter pound of that good stuff
+Oh yeah, we smokin' all night
+Yeah, puff puff pass that shit right here
+Nigga, better than my last batch
+Caramel complexion and her ass fat
+(Inhale, exhale, inhale, exhale)
+
+
+I know you tryin' to get high
+Type of shit that have you leanin' sideways
+Take a whiff of this suicide
+Holla at me, ‘cause I got it all day
+No need to fly to Jamaica
+For the ganja, we can get the same thing
+You want that bom bom biggy?
+Holla at my niggie right here in L.A.
+(Inhale, exhale, inhale, exhale!)
+
+
+Hold up, wait a minute!
+Let me put some kush up in it!
+Hold up, wait a minute!
+Let me put some kush up in it!
+
+
+Still I am tighter than the pants on will.i.am
+Backthrow, back still, I have a pound in my backpack
+Next to where the swishas at
+Smokin' presidential; got some bubba, I give me that
+Need it for my cataracts
+Four hoes and I'm the pimp in my Cadillac
+You can tell them Cali back, matter fact
+They'll know this ain't 'dro, get a whiff of that
+No, it ain't no seeds in my sack
+You ain't never gotta ask, dog
+What he smokin' on? Shit, kush 'til my mind gone
+What you think I'm on? Eyes low, I'm blown
+High as a motherfucker, there ain't no question 'bout it
+Niggas say, "Smoke me out," yeah, I really doubt it
+I'm Bob Marley reincarnated, so faded
+So if you want it, you know your nigga homie
+You can put it in a zag or a blunt and get blunted
+(Inhale, exhale, inhale, exhale!)
+
+
+I know you tryin' to get high
+Type of shit that have you leanin' sideways
+Take a whiff of this suicide
+Holla at me, ‘cause I got it all day
+No need to fly to Jamaica
+For the ganja, we can get the same thing
+You want that bom bom biggy?
+Holla at my, niggie, right here in L.A.
+(Inhale, exhale, inhale, exhale!)
+
+
+Need that kush, we blow on the best smoke
+Inhale slow, no joke, make yo' ass choke
+Hold up, wait a minute, you can go put it back
+‘Cause what you got in your sack, boy, it ain't that
+Need that kush, we blow on the best smoke
+Inhale slow, no joke, make yo' ass choke
+(Inhale, exhale, inhale, exhale!)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: norman-sue-thompson
+lyrics_url: https://genius.com/Sue-thompson-norman-lyrics
 name: Norman
 rankings:
 - end_date: '1961-12-10'
@@ -71,4 +72,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-24'
 ---
-
+Norman , ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Norman, hmm, hmm, hmm, hmm, hmm, hmm, hmm, hmm, hmm
+Norman, Norman, my love
+Jimmy called me on the phone but I was gone, not at home
+'cause I was out parked all alone with darlin' Norman
+Bill invited me to a show but I said no, cannot go
+There's a dress that I've got to sew and wear for Norman
+Norman holds me close to him, Norman kisses me and then
+Norman knows my heart belongs to him and him and only him, oh
+Norman, ooh, ooh, ooh, ooh, ooh, ooh ohh, ooh, ooh, ooh
+Norman, ooh, ooh, ooh, ooh, ooh, ooh ohh, ooh, ooh, ooh
+Norman, Norman, my love
+Joey asked me for a date, he wanted to take me out to skate
+But I told Joey he would have to make 'rangements with Norman
+Norman is my only love, Norman's all I'm thinking of
+Norman gives me all his lovin', kissin', huggin', lovey-dovin'
+Norman, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Norman, hmm, hmm, hmm, hmm, hmm, hmm, hmm, hmm, hmm
+Norman, Norman, my love

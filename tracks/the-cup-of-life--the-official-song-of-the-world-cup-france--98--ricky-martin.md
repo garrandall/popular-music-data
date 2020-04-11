@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-cup-of-life--the-official-song-of-the-world-cup-france--98--ricky-martin
+lyrics_url: https://genius.com/Ricky-martin-the-cup-of-life-spanglish-radio-edit-lyrics
 name: The Cup Of Life (The Official Song Of The World Cup France '98)
 rankings:
 - end_date: '1998-07-03'
@@ -143,4 +144,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-10-09'
 ---
+The cup of life
+This is the one
+Now is the time
+Don't ever stop
+Push it along
+Gotta be strong
+Push it along
+Right to the top
 
+Como Cain y Abel
+Es un partido cruel
+Tienes que pelear
+Por una estrelia
+Consigue con honor
+La copa del amor
+Para sobrevivir y luchar por ella
+Luchar por ella (Yeah)
+Do you really want it...(Yeah)
+
+Here we go! Ale, Ale, Ale!
+Go, go, go! Ale, Ale, Ale!
+Arriba va!! El mundo esta de pie
+Go, Go, Go!! Ale, Ale, Ale
+
+La vida es
+Competicion
+Hay que sonar
+Ser campeon
+La copa es
+La bendicion
+La ganaras
+Go, Go, Go!
+
+And when you feel the heat
+The world is at your feet
+No one can hold you down
+If you really want it
+Just steal your destiny
+Right from the hands of fate
+Reach for the cup of life
+'Cause your name is on it
+Do you really want it...(Yeah!)
+Do you really want it...(Yeah!)
+
+Tu y yo! Ale, Ale, Ale
+Go, go, go! Ale, Ale, Ale
+Tonight's the night we're gonna celebrate
+The cup of life!!! Ale, Ale, Ale

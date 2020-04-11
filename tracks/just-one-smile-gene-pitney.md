@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-one-smile-gene-pitney
+lyrics_url: https://genius.com/Gene-pitney-just-one-smile-lyrics
 name: Just One Smile
 rankings:
 - end_date: '1966-12-30'
@@ -31,4 +32,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-01-28'
 ---
+Can't I cry? A little bit
+There's nobody to notice it
+Can't I cry if I want to
+No one cares
 
+Why can't I pretend
+That you love me again
+All I've had has been taken from me
+Now I'm crying and tears don't become me
+
+Just one smile the pain's forgiven
+Just one kiss the hurt's all gone
+Just one smile to make my life worth living
+A little dream to build my world upon
+
+How I wish I could say
+All the things that I want to say
+If some way you could see what's in my heart
+I don't ask for much
+A look, a smile, a touch
+Try to forget Lord knows I'm trying
+But it's hard to forget when your whole world is dying
+
+Just one smile the pain's forgiven
+Just one kiss the hurt's all gone
+Just one smile to make my life worth living
+A little dream to build my world upon
+Just one smile the pain's forgiven
+Just one kiss the hurt's all gone
+Just one smile to make my life worth living
+A little dream to build my world upon

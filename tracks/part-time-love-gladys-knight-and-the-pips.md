@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: part-time-love-gladys-knight-and-the-pips
+lyrics_url: https://genius.com/Gladys-knight-and-the-pips-part-time-love-lyrics
 name: Part Time Love
 rankings:
 - end_date: '1975-11-14'
@@ -51,4 +52,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
 ---
+I need somebody
+Who's consistent with me
+Someone already there
+When I need company
 
+'Cause when I'm feelin' low
+I don't wanna have to go out lookin'
+For a part time kinda love
+
+And when the dreams and rainbows
+Start to disappear
+I don't want somebody
+Up and runnin' out of here
+
+'Cause when you stop and start
+Baby, it's just too hard upon my heart
+That part time kinda love
+
+I can't take you, darlin'
+Livin' here, wait and see
+I want somebody who's
+Committed now, to me
+
+Somewhere, someday
+You've got to take a chance
+If you like the music, baby
+Get up and dance
+
+If we grow together
+Darin' to dream
+I know we're gonna find our share of
+Peaches and cream
+
+And when the juices flow
+I don't want no, no, no excuses
+Just want your full time love for me
+(No part time love for me)
+Just want your full time love for me

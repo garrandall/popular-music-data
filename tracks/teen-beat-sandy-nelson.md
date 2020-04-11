@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: teen-beat-sandy-nelson
+lyrics_url: https://genius.com/Sandy-nelson-teen-beat-lyrics
 name: Teen Beat
 rankings:
 - end_date: '1959-09-13'
@@ -71,4 +72,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
 ---
-
+♫  ♫

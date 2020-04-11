@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-be-the-turtles
+lyrics_url: https://genius.com/The-turtles-let-me-be-lyrics
 name: Let Me Be
 rankings:
 - end_date: '1965-11-05'
@@ -35,4 +36,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-12-11'
 ---
+Please don't mistake me or try to make me
+A shadow of anybody else
+I ain't the him or her you think I am
+I'm just trying hard to be myself
+Oh, society's goal is to be part of the whole
+That may sound good to you, not to me
 
+Let me be, let me be
+To think like I want to
+Let me be, let me be
+That's all I ask of you
+I am what I am and that's all I ever can be
+
+Don't try to plan me or understand me
+I can't stand to be understood
+I could never give in to or ever live up to
+Bein' like you think I should
+I've got some inner need which I'm tryin' to heed
+I can't take hand-me-down destiny
+
+Let me be, let me be
+To think like I want to
+Let me be, let me be
+That's all I ask of you
+I am what I am and that's all I ever can be
+
+Don't try to change me or rearrange me
+To satisfy the selfishness in you
+I'm not a piece of clay to mold to your moods each day
+And I'm not a pawn to be told how to move
+I'm sorry I'm not the fool you thought would play by your rules
+But to each his own philosophy
+
+Let me be, let me be
+To think like I want to
+Let me be, let me be
+That's all I ask of you
+I am what I am and that's all I ever can be
+
+I said that's all I ever can be
+I said that's all I ever can be
+I said that's all I ever can be

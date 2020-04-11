@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: montego-bay-bobby-bloom
+lyrics_url: https://genius.com/Bobby-bloom-montego-bay-lyrics
 name: Montego Bay
 rankings:
 - end_date: '1970-09-18'
@@ -71,4 +72,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-12-26'
 ---
+Vernon'll meet me when the BOAC lands
+Keys to the MG will be in his hands
+Adjust to the drivin' and I'm on my way
+It's all on the right side in Montego Bay
+Sing out
 
+Whoa-oh-oh, whoa-oh, whoa-whoa, whoa-oh-oh, whoa
+Whoa-oh-oh, whoa-oh, whoa-whoa, whoa-oh-oh, whoa
+Come sing me loud
+Come sing me Montego Bay
+Whoa-oh-oh, whoa-oh, whoa-whoa, whoa-oh-oh, whoa
+
+'N' Gillian'll meet me like a brother would
+I think I remember but it's twice as good
+Like how cool the rum is from his silver tray
+I thirst to be thirsty in Montego Bay
+Sing out
+
+Whoa-oh-oh, whoa-oh, whoa-whoa, whoa-oh-oh, whoa
+Whoa-oh-oh, whoa-oh, whoa-whoa, whoa-oh-oh, whoa
+Come sing me loud
+Come sing me Montego Bay
+Whoa-oh-oh, whoa-oh, whoa-whoa, whoa-oh-oh, whoa
+
+I lay on a lilo 'til I'm lobster red
+I still feel the motion here at home in bed
+I tell you it's hard for me to stay away
+You ain't been 'til you've been high Montego Bay
+Sing out
+
+Whoa-oh-oh, whoa-oh, whoa-whoa, whoa-oh-oh, whoa
+Whoa-oh-oh, whoa-oh, whoa-whoa, whoa-oh-oh, whoa
+Come sing me loud
+Come sing me Montego Bay
+Whoa-oh-oh, whoa-oh, whoa-whoa, whoa-oh-oh, whoa
+
+Dance in the streets
+
+Just sing me loud
+Come sing me Montego Bay
+Whoa-oh-oh, whoa-oh, whoa-whoa, whoa
+Whoa
+
+Oh, what a beautiful mornin'
+Oh, what a beautiful day
+And I've got a beautiful feelin'
+Everything's goin' my way

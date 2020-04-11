@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: we-ve-got-tonight-kenny-rogers-and-sheena-easton
+lyrics_url: https://www.musixmatch.com/lyrics/Kenny-Rogers-And-Sheena-Easton/We-ve-Got-Tonight
 name: We've Got Tonight
 rankings:
 - end_date: '1983-02-04'
@@ -79,4 +80,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-28'
 ---
+I know it's late,
+I know you're weary
+I know your plans don't include me
+Still here we are, both of us lonely
+Longing for shelter from all that we see
+Why should we worry?, no one will care girl
+Look at the stars now so far away
 
+We've got tonight,
+Who needs tomorrow?
+We've got tonight, babe
+Why don't you stay?
+
+Deep in my soul
+I've been so lonely
+All of my hopes, fading away
+I've longed for love
+Like everyone else does
+I know I'll keep searching after today
+
+So there it is girl
+We've got it all now
+And here we are, babe
+What do you say?
+
+We've got tonight,
+Who needs tomorrow?
+We've got tonight, babe
+Why don't you stay?
+
+I know it's late, i know you're weary
+I know your plans don't include me
+
+Still here we are,
+Both of us lonely
+Both of us lonely
+
+We've got tonight,
+Who needs tomorrow?
+Let's make it last,
+Let's find a way
+Turn out the light,
+Come take my hand now
+We've got tonight, babe
+Why don't you stay?
+
+We've got tonight, babe
+Why don't you stay?

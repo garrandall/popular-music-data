@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rock-on-michael-damian
+lyrics_url: https://genius.com/Michael-damian-rock-on-lyrics
 name: Rock On
 rankings:
 - end_date: '1989-03-24'
@@ -91,4 +92,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-08-05'
 ---
+Hey kids, rock and roll
+Rock on, ooh my soul
+Hey kids, boogie too, did ya?
 
+Hey shout, summertime blues
+Jump up and down in my blue suede shoes
+Hey kids, rock and roll, rock on
+
+And where do we go from here?
+Which is the way that's clear?
+
+Still looking for that blue jean
+Baby queen
+Prettiest girl I've ever seen
+See her shake on the movie screen
+Jimmy Dean
+
+And where do we go from here?
+Which is the way that's clear?
+
+Still looking for that blue jean
+Baby queen
+Prettiest girl I've ever seen
+See her shake on the movie screen
+Jimmy Dean
+(James Dean)
+Jimmy Dean
+Rock on
+
+Rock on
+Rock on
+Rock on
+Rock on
+
+Hey kid, rock and roll
+(Rock on)
+Rock on
+Hey shout, summertime blues
+(Rock on)
+Rock on
+
+Hey kid, boogie too
+(Rock on)
+Rock on
+Hey kid, rock and roll
+(Rock on)
+Rock on
+
+Hey, kid
+Boogie too

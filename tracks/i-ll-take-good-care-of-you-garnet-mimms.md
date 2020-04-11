@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-take-good-care-of-you-garnet-mimms
+lyrics_url: https://genius.com/Garnet-mimms-ill-take-good-care-of-you-lyrics
 name: I'll Take Good Care Of You
 rankings:
 - end_date: '1966-04-01'
@@ -43,4 +44,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
 ---
+I'll take good care of you
+I'll take good care of you
 
+I let you go, for what a fool I was
+To hurt you so but now I know
+
+All of the good times, big city sights
+I had enough of bright party lights
+They'll never make up
+For long, lonely nights
+
+'Cause I need you, I need you
+I need you, I need you
+I need you and I promise that
+
+I'll take good care of you
+I'll take good care of you
+
+Ain't it a crime
+I know I've wasted
+So much precious time
+So much precious time
+
+You gave me real love, beautiful poems
+But I gave you nothing but heartache and pain
+Baby, believe me, It won't happen again
+
+'Cause I need you, I need you
+I need you, I need you
+I need you and I promise that
+
+I'll take good care of you
+I'll take good care of you
+
+Let me take away the pain, babe
+I need you
+And let me hide those teardrops
+I need you
+
+You know every day and every night
+I need you
+I'm gonna, I'm gonna stand by you
+
+And I'll take good care of you
+I'll take good care of you
+I'll take good care of you

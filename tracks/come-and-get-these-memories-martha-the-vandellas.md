@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: come-and-get-these-memories-martha-the-vandellas
+lyrics_url: https://www.musixmatch.com/lyrics/Martha-Reeves-feat-The-Vandellas-20/Come-and-Get-These-Memories-2
 name: Come And Get These Memories
 rankings:
 - end_date: '1963-04-12'
@@ -72,4 +73,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-07-20'
 ---
+Lover you've gone from me
+And left behind so many memories
+Here's your friendship ring
+I can't wear it no more
+Here's your love letters
+I can't read 'em anymore
 
+Lover you've gone from me
+And left behind so many memories
+
+Here's that old teddy bear
+(Come and get 'em)
+That you won for me at the state fair
+Here's some old Valentine cards
+(Come and get 'em)
+Give them to your new sweetheart
+
+Lover you've gone from me
+And left behind so many memories
+Yeah, yeah, yeah
+
+Come and get
+Come and get
+Come and get
+
+Here's our old favourite record
+(Come and get 'em)
+I can't stand to hear it anymore
+Here's some old lingering love
+(Come and get 'em)
+That's in my heart and it's tearing it apart
+
+Because of these memorize
+I never think of anybody but you
+So come on and get 'em
+Cause I've found me somebody new
+
+Come and get these memories so my heart
+(Come and get 'em)
+And my mind can be at ease
+(Come and get 'em)
+Since you're gone out of my life
+Give them to your new love
+Give them to your new love
+So come and get these memories.

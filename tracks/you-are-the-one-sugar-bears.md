@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-are-the-one-sugar-bears
+lyrics_url: https://www.musixmatch.com/lyrics/Sugar-Bears/You-Are-the-One
 name: You Are The One
 rankings:
 - end_date: '1972-03-17'
@@ -59,4 +60,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
 ---
+I got a feeling for you
+That I just can't hide any more.
+Nobody else in the world
+Ever made me feel this way before.
+I've been afraid to show it,
+But now you've got to know it.
+Baby, baby
+I'm in love with you
 
+And I want to spent the rest of my life with you.
+You brighten up the world with everything you do.
+Baby, you're my morning sun
+You are the one.
+Oooh baby, you're my morning sun
+You are the one.
+
+Ever since I can remember
+I've just been looking around.
+You came along and I couldn't believe
+What a good thing I found.
+I've got to scream and shout it.
+There's no more doubt about it.
+Baby, baby
+No one else will do
+
+Baby you know that I needed you so
+Please don't turn me away.
+Now that you know I've been feeling about you
+There's so much to say.
+But you've got to know it baby,
+I want you more than maybe
+Tell me, tell me
+You could love me too
+
+Ooh baby, you're my morning sun

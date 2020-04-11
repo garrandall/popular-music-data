@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-the-voice-john-farnham
+lyrics_url: https://genius.com/John-farnham-youre-the-voice-lyrics
 name: You're The Voice
 rankings:
 - end_date: '1990-02-16'
@@ -39,4 +40,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-03-31'
 ---
+We have the chance to turn the pages over
+We can write what we want to write
+We gotta make ends meet, before we get much older
 
+We're all someone's daughter
+We're all someone's son
+How long can we look at each other
+Down the barrel of a gun?
+
+You're the voice, try and understand it
+Make the noise and make it clear, oh, woah
+We're not gonna sit in silence
+We're not gonna live with fear, oh, woah
+
+This time, we know we all can stand together
+With the power to be powerful
+Believing we can make it better
+
+Ooh, we're all someone's daughter
+We're all someone's son, oh
+How long can we look at each other
+Down the barrel of a gun?
+
+You're the voice, try and understand it
+Make the noise and make it clear, oh, woah
+We're not gonna sit in silence
+We're not gonna live with fear, oh, woah
+
+Ooh, we're all someone's daughter
+We're all someone's son
+How long can we look at each other
+Down the barrel of a gun?
+
+You're the voice, try and understand it
+Make the noise and make it clear, oh, woah
+We're not gonna sit in silence
+We're not gonna live with fear, oh, woah
+
+You're the voice, try and understand it
+Make the noise and make it clear, oh, woah
+We're not gonna sit in silence
+We're not gonna live with fear, oh, woah
+
+You're the voice, try and understand it
+Make the noise and make it clear, oh, woah
+We're not gonna sit in silence
+We're not gonna live with fear, oh, woah
+
+You're the voice, try and understand it
+Make the noise and make it clear, oh, woah
+We're not gonna sit in silence
+We're not gonna live with fear, oh, woah
+We're not gonna sit in silence
+We're not gonna sit in silence
+We're not gonna live with fear, oh, woah
+You're the voice, try and understand it
+Make the noise and make it clear, oh, woah
+We're not gonna sit in silence
+We're not gonna live with fear, oh, woah

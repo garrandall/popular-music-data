@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: play-that-song-train
+lyrics_url: https://genius.com/Train-play-that-song-lyrics
 name: Play That Song
 rankings:
 - end_date: '2016-12-16'
@@ -87,4 +88,91 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-04-29'
 ---
+Play that song
+The one that makes me go all night long
+The one that makes me think of you
+That's all you gotta do
 
+
+Hey mister DJ when you gonna spin it
+My baby's favorite record
+She been waiting for a minute
+She invited all her friends
+And I'm buying all the rounds
+And they're all dolled up
+DJ please don't let me down
+
+When you gonna play that song, now
+When you gonna earn that pay
+When you gonna play that song
+And make my day
+
+She said
+
+
+Play that song
+The one that makes me go all night long
+The one that makes me think of you
+That's all you gotta do
+Hey
+
+
+Play that song
+The one the makes me stay out till dawn
+The one that makes me go "ooh"
+That's all you gotta do
+
+
+Hey Mr. guitar
+When you gonna strum it
+My girl just heard this song
+And you should play it cause she loves it
+Can you get me off the hook
+Get them fingers picking now
+I'll throw some money in your cup
+Mister please don't let me down
+
+When you gonna play that song, now
+Why you gotta hesitate
+When you gonna play that song
+And make my day
+
+She said
+
+
+Play that song
+The one that makes me go all night long
+The one that makes me think of you
+That's all you gotta do
+Hey
+
+
+Play that song
+The one the makes me stay out till dawn
+The one that makes me go "ooh"
+That's all you gotta do
+
+
+Oh
+Wait till you see my baby moo-oo-oove
+Moo-oo-oove Moo-oo-oove
+Moo-oo-oove Wait till you see my baby moo-oo-oove
+Moo-oo-oove Moo-oo-oove
+Moo-oo-oove
+
+Oh come on now
+
+
+Play that song
+The one that makes her go all night long
+The one that makes her think of me
+That's all you gotta do
+Hey
+
+
+Play that song
+The one the makes me stay out till dawn
+The one that makes me go "ooh"
+That's all you gotta do
+Oo oo oo oo
+Oo oo oo oo

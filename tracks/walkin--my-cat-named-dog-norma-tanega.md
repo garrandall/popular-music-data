@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walkin--my-cat-named-dog-norma-tanega
+lyrics_url: https://www.musixmatch.com/lyrics/Norma-Tanega/Walkin-My-Cat-Named-Dog
 name: Walkin' My Cat Named Dog
 rankings:
 - end_date: '1966-03-04'
@@ -43,4 +44,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
 ---
+I'm walkin all around the town
+Singin all the people down
+Talkin around, talkin around.
+Me and my cat named Dog
+Are walkin high against the fog
+Singin the sun
+Singin the sun
 
+Happy, sad and crazy wonder
+Chokin up my mind with perpetual dreamin...
+
+I'm driftin up and down the street
+Searchin for the sound of people
+Swingin their feet, swingin their feet
+Dog is a good old cat
+People what you think of that?
+That's where I'm at, that's where I'm at.
+
+Happy, sad and crazy wonder
+Chokin up my mind with perpetual dreamin...
+
+Dog is a good old cat
+People what you think of that?
+That's where I'm at, that's where I'm at, that's where I'm at.

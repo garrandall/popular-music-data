@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: with-open-arms-jane-morgan
+lyrics_url: https://genius.com/Jane-morgan-with-open-arms-lyrics
 name: With Open Arms
 rankings:
 - end_date: '1959-08-02'
@@ -51,4 +52,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-10-05'
 ---
+A-plink a chunk, ooh, ooh
+Ooh, a-plink a chunk, ooh, ooh
+Ooh, a-plink a chunk
 
+I wait with open arms
+(A-plink a chunk)
+Down by the river
+Where the boats comes in
+
+(A-plink a chunk)
+And when the boats come in
+I run to him with open arms
+(A-plink a chunk)
+
+Although he's on the shore
+(A-plink a chunk)
+His heart is still
+A hundred miles at sea
+
+(A-plink a chunk)
+But then he kisses me
+And I can tell
+He's mine once more
+
+All night I hold him tight
+He's mine until the dawn
+Then when the fishing boats
+Go out again he's gone
+Gone away and
+
+I pray all through the day
+(A-plink a chunk)
+That he'll return
+And make my life begin
+
+(A-plink a chunk)
+And when his boat comes in
+I run to him with open arms
+(Down by the river)
+(Where the boats come in)
+
+All night I hold him tight
+He's mine until the dawn
+Then when the fishing boats
+Go out again he's gone
+Gone away and
+
+I pray all through the day
+(A-plink a chunk)
+That he'll return
+And make my life begin
+
+(A-plink a chunk)
+And when his boat comes in
+I run to him with
+
+(With open arms)
+Open
+(With open arms)
+Arms
+
+Down by the river
+Where the boats come in
+A-plink a chunk

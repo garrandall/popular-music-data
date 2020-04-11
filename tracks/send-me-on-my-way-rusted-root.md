@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: send-me-on-my-way-rusted-root
+lyrics_url: https://genius.com/Rusted-root-send-me-on-my-way-lyrics
 name: Send Me On My Way
 rankings:
 - end_date: '1995-09-08'
@@ -35,4 +36,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-10-14'
 ---
+(On my way, on my way)
+(On my way, on my way)
 
+I would like to reach out my hand
+I may see you, I may tell you to run (On my way, on my way)
+You know what they say about the young
+
+Well, pick me up with golden hand
+Oombayseeyou, I may tell you to run (On my way, on my way)
+You know what they say about the young
+
+Well, I would like to hold my little hand
+And we will run, we will, we will crawl, we will
+I would like to hold my little hand
+And we will run, we will, we will crawl
+
+Send me on my way (On my way)
+Send me on my way (On my way)
+Send me on my way (On my way)
+Send me on my way (On my way)
+Send me on my way (On my way)
+Send me on my way (On my way)
+Send me on my way (On my way)
+Mm hmm (On my way)
+
+I would like to reach out my hand
+I may see you, I may tell you to run (On my way, on my way)
+You know what they say about the young
+
+Now pick me up with golden hand
+I may see you, I may tell you to run (On my way, on my way)
+You know what they say about the young
+
+Well, I would like to hold my little hand
+And we will run, we will, we will crawl, we will
+I would like to hold my little hand
+And we will run, we will, we will crawl
+
+Send me on my way (On my way)
+Send me on my way (On my way)
+Send me on my way (On my way)
+Hmmm(on my way)
+Well, I would like to hold my little hand
+And we will run, we will, we will crawl, we will
+I would like to hold my little hand
+And we will run, we will, we will crawl
+
+Send me on my way
+Send me on my way
+Send me on my way
+On my way
+Send me on my way
+Send me on my way
+Send me on my way
+(ooooh oooh oooh ooooh oooh oooh)
+(Hey hey hey hey hey hey hey)
+On my way
+(Hey hey hey hey hey hey hey)
+On my way
+
+I would like to reach out my hand
+I may see you, I may tell you to run (On my way, on my way)
+You know what they say about the young
+Thank you
+Thank you
+Thank you very much

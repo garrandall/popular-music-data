@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: time-time-ed-ames
+lyrics_url: https://www.musixmatch.com/lyrics/Ed-Ames/Time-Time
 name: Time Time
 rankings:
 - end_date: '1967-05-12'
@@ -35,4 +36,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-17'
 ---
+Rolls the hills along
+Makes the stars go round
+To the sky's bright song
+Stirs the endless sea
+Maybe time will bring
+You back to me
 
+The summer was golden
+Their love young and new
+His bold arms, her rendesvous
+
+But now leaves have fallen
+And tears fill her eyes
+His warm lips a memory
+As she sighs
+
+The snow's come
+And gone now
+And still, they're apart
+How empty
+Her yearning heart
+
+But spring brings it's promise
+And old memories burn
+While she dreams
+With summer, he'll return
+
+Maybe time will bring
+You back to me

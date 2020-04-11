@@ -5,6 +5,7 @@ features:
 - Ellie Goulding
 genres: []
 key: i-need-your-love-calvin-harris-ellie-goulding
+lyrics_url: https://genius.com/Calvin-harris-and-ellie-goulding-a-kinda-cover-by-youtuber-the-kawaii-duo-i-need-your-love-lyrics
 name: I Need Your Love
 rankings:
 - end_date: '2013-05-10'
@@ -108,4 +109,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-10-19'
 ---
-
+I need your love
+I need your time
+When everything's wrong
+You make it right
+I feel so high
+I come alive
+I need to be free with you tonight
+I need your love
+I need your love
+I take a deep breath every time I pass your door
+I know you're there but I can't see you anymore
+And that's the reason you're in the dark
+I've been a stranger ever since we fell apart
+I feel so out of sea
+Watch my eyes are filled with fear
+Tell me do you feel the same
+Hold me in your arms again
+I need your love
+I need your time
+When everything's wrong
+You make it right
+I feel so high
+I go alive
+I need to be free with you tonight
+I need your love
+I need your love
+Now I'm dreaming, will ever find you now?
+I walk in circles but I never make it out
+What I mean to you, do I belong
+I try to fight this but I know I'm not that strong
+And I feel so helpless here
+Watch my eyes are filled with fear
+Tell me do you feel the same
+Hold me in your arms again
+I need your love
+I need your time
+When everything's wrong
+You make it right
+I feel so high
+I come alive
+I need to be free with you tonight
+I need your love
+I need your love
+All the years
+All the times
+You were never been to blame
+And now my eyes are open
+And now my heart is closing
+And all the tears
+All the lies
+All the waste
+I've been trying to make it change
+And now my eyes are open
+I need your love
+I need your time
+When everything's wrong
+You make it right
+I feel so high
+I come alive
+I need to be free

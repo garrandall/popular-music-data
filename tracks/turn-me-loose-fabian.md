@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: turn-me-loose-fabian
+lyrics_url: https://genius.com/Fabian-turn-me-loose-lyrics
 name: Turn Me Loose
 rankings:
 - end_date: '1959-04-05'
@@ -59,4 +60,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
 ---
+Turn me loose, turn me loose I say
+This is the first time I have felt this way
+Gonna get a thousand kicks or kiss a thousand chicks
+So turn me loose
 
+Turn me loose, turn me loose I say
+Gonna rock'n'roll long as the band's gonna play
+Gonna holler, gonna shout, gonna knock myself right out
+So turn me loose (turn me loose, ooh-ahh)
+
+I've got some change in my pocket and I'm rarin' to go
+Takin' some chick-a to the picture show
+And when I see her home and we kiss goodnight
+Well, turn me loose, turn me loose, turn me loose, turn me loose
+
+Turn me loose, turn me loose I say
+Yes, today is gonna, is gonna be the day
+I want you all to understand, now I am a man
+So turn me loose (turn me loose, ooh-ahh)
+
+I've got some change in my pocket and I'm rarin' to go
+Takin' some chick-a to the picture show
+And when I see her home and we kiss goodnight
+Well, turn me loose, turn me loose, turn me loose, turn me loose
+
+Turn me loose, turn me loose I say
+Yes, today is gonna, is gonna be the day
+I want you all to understand, now I am a man
+So turn me loose (turn me loose, ooh-ahh)

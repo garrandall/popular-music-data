@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: linda-jan-dean
+lyrics_url: https://www.musixmatch.com/lyrics/Jan-feat-Dean/Linda-2
 name: Linda
 rankings:
 - end_date: '1963-03-01'
@@ -60,4 +61,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-05-18'
 ---
+L-l, l-l-l, l-l-l-l-linda
+L-l, l-l-l, l-l-l-l-linda
+When i go to sleep
+I never count sheep
+I count all the char-ar-ar-arms
+About l-l, l-l-l, l-l-l-l-linda
+And lately it seems
+(Lately it seems)
+In all of my dreams
+(All of my dreams)
+I walk with my ar-ar-ar-arms about linda
+But what good does it do me
+'Cause linda doesn't know i exist
+I can't help feelin' gloomy
+Thinkin' 'bout the lovin' i've missed
+We pass on the street
+(Pass on the street)
+My heart skips a beat
+(Heart skips a beat)
+I say to mysel-el-el-elf
+Hello l-l, l-l-l, l-l-l-l-linda
+If only she'd smile
+(Only she'd smile)
+I'd stop for a while
+(Stop for a while)
+And then i would ge-e-e-et to know linda
 
+But miracles still happen
+And when my lucky star begins to shine
+(Ah-ah-ah-ah)
+With one lucky break i'll make linda mine
+L-l, l-l-l, l-l-l-l-linda
+L-l, l-l-l, l-l-l-l-linda
+----- instrumental interlude -----
+But miracles still happen
+And when my lucky star begins to shine
+(Ah-ah-ah-ah)
+With one lucky break i'll make linda mine
+L-l, l-l-l, l-l-l-l-linda
+L-l, l-l-l, l-l-l-l-linda
+L-l, l-l-l, l-l-l-l-linda
+L-l, l-l-l, l-l-l-l-linda
+L-l, l-l-l, l-l-l-l-linda
+L-l, l-l-l, l-l-l-l-linda
+L-l, l-l-l, l-l-l-l-linda

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-a-lonely-heart-sees-felix-cavaliere
+lyrics_url: https://genius.com/Felix-cavaliere-only-a-lonely-heart-sees-lyrics
 name: Only A Lonely Heart Sees
 rankings:
 - end_date: '1980-03-07'
@@ -51,4 +52,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
 ---
+You, soft and lovely are
+Lighting my dreams
+Like a morning star
+Rocking my world
+With your open arms
 
+I could not feel the sun
+Looking for something
+So high above
+Guess you could say
+I was blind to love
+
+
+Hey, only a lonely heart sees
+Where love can be
+Hey, only a lonely heart sees
+Where love can be
+Where love can be
+
+You, magic in your eyes
+Peaceful and clear
+As a summer sky
+Showed me the truth
+Behind love's disguise
+
+I could not hear a sound
+Pure as the melodies ever sung
+Two strings together
+That makes us one
+
+
+Hey, hey, hey
+Where love can be
+
+You, breezing through my mind
+Oh, no, my lady, I can't deny
+You know the way to paradise
+
+Oh, could this be blown apart
+Standing alone in the pouring rain
+Running from love
+When it brings you pain

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: stereo-love-edward-maya-vika-jigulina
+lyrics_url: https://genius.com/Dj-redo-stereo-love-edward-maya-feat-vika-jigulina-ultra-weekend-6instrumental-lyrics
 name: Stereo Love
 rankings:
 - end_date: '2010-10-29'
@@ -120,4 +121,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-04-30'
 ---
-
+Instrumental

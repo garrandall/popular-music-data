@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: look-homeward-angel-the-monarchs
+lyrics_url: https://www.musixmatch.com/lyrics/The-Monarchs/Look-Homeward-Angel
 name: Look Homeward Angel
 rankings:
 - end_date: '1964-02-28'
@@ -59,4 +60,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
 ---
+(Ahh, ahh, ahh, ahh, ahh)
 
+Look homeward, angel
+Tell me what you see.
+Do the folks I used to know remember me?
+
+Look homeward, angel
+Find my lady fair.
+Does she dream about the love we used to share?
+So she'll know how very much I miss her.
+Angel, while she's dreaming, won't you kiss her?
+
+Look homeward, angel
+One thing I must know.
+Do her empty arms still yearn for me alone?
+
+So she'll know how very much I miss her.
+Angel, while she's dreaming, won't you kiss her?
+
+Look homeward, angel
+One thing I must know
+Do her empty arms still yearn for me alone?
+
+Do her empty arms still yearn for me alone

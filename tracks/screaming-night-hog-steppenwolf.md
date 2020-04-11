@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: screaming-night-hog-steppenwolf
+lyrics_url: https://genius.com/Steppenwolf-screaming-night-hog-lyrics
 name: Screaming Night Hog
 rankings:
 - end_date: '1970-08-28'
@@ -35,4 +36,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-10-03'
 ---
+Out on my Night Hog somebody temptin'
+Hear it scream on by your house
+The highway sign is my only call
+Cause a demon deep inside keeps driving me to roam
 
+Well I'm nobody's slave, I'm nobody's master
+Time is mine, morning, night and afternoon
+And you hitch-hiking woman, when you see me coming
+Jump on my back and let your hair come tumbling down
+
+I'm going downtown to see my lady
+I'm going downtown to tell her goodbye
+I won't hang around, it's driving me crazy
+I'll be out of town 'til the chilly winds start to blow
+
+Out on my Night Hog somebody temptin'
+Hear it scream on by your house
+My rolling hog will hunt the night
+And chase the road until it's time to strike
+
+Well I'm nobody's slave, I'm nobody's master
+Time is mine, morning, night and afternoon
+And you hitch-hiking woman, when you see me coming
+Jump on my back and let your hair come tumbling down

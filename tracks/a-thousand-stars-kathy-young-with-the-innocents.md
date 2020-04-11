@@ -1,9 +1,11 @@
 ---
 artists:
-- Kathy Young With The Innocents
+- Kathy Young
+- The Innocents
 features: []
 genres: []
 key: a-thousand-stars-kathy-young-with-the-innocents
+lyrics_url: https://genius.com/Kathy-young-and-the-innocents-a-thousand-stars-lyrics
 name: A Thousand Stars
 rankings:
 - end_date: '1960-10-30'
@@ -75,4 +77,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-13'
 ---
+A thousand stars in the sky like the stars in your eyes
 
+They say to me that there'll never be
+
+No other love like you for me
+
+A thousand stars in the sky make me realize
+
+You are the one love that I'll adore
+
+Tell me you love me
+
+Tell me you're mine once more
+
+Once more, once more
+
+Each night I count the stars in the sky
+
+Hoping that you aren't telling me lies
+
+You're with me tonight, I'm captured by your charms
+
+Oh, pretty baby, won't you hold me in your arms?
+
+A thousand stars in the sky make me realize
+
+You are the one love that I'll adore
+
+Tell me you love me
+
+Tell me you're mine once more
+
+Once more, once more
+
+Each night I count the stars in the sky
+
+Hoping that you aren't telling me lies
+
+You're with me tonight, I'm captured by your charms
+
+Oh, pretty baby, won't you hold me in your arms?
+
+A thousand stars in the sky make me realize
+
+You are the one love that I'll adore
+
+Tell me you love me
+
+Tell me you're mine once more
+
+I'm yours

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-wanted-someone-to-play-with--i-wanted-someone-to-love--frankie-laine
+lyrics_url: https://genius.com/Frankie-laine-you-wanted-someone-to-play-with-lyrics
 name: You Wanted Someone To Play With (I Wanted Someone To Love)
 rankings:
 - end_date: '1967-06-23'
@@ -35,4 +36,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-29'
 ---
+I know that you wanted someone to play with
+While i wanted someone to love
+And you made me feel that your love was real
+The love that i always dreamed of
 
+And then you laughed when i cried for your kisses
+To me they meant heaven above
+Oh, oh, oh you wanted someone to play with
+While i wanted someone to love
+
+(oh, you wanted someone to play)
+(while i wanted someone to love)
+And you made me feel that your love was real
+The love that i always dreamed of
+
+And then you laughed when i cried for your kisses
+To me they meant heaven above
+Oh, oh, oh you wanted someone to play with
+While i wanted, while i wanted someone to love

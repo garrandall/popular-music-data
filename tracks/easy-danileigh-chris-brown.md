@@ -5,6 +5,7 @@ features:
 - Chris Brown
 genres: []
 key: easy-danileigh-chris-brown
+lyrics_url: https://genius.com/Danileigh-easy-remix-lyrics
 name: Easy
 rankings:
 - end_date: '2019-11-22'
@@ -68,4 +69,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
 ---
+Yeah, yeah
 
+
+Let me catch ya vibe, let's just take our time
+Just relax your mind and take it easy
+Don't have to decide, you do, I do, I
+Don't have to be mine, let's take it easy
+
+
+Damn, we so fi', bae
+Whippin' through the 305 highway
+Love it how you ride in the fast lane
+Make me wanna say, "That's my babe," yeah
+Dani gotta behave, gotta be chill like a Sunday
+Never wanna look too thirsty
+But your drip got me feeling wavy
+
+
+Make you feel lucky, lucky
+Make you wanna love me, love me
+Baby, when you with me, with me
+Got no worries, worries
+I love it when you touch me, touch me
+Feelin' so lovely, lovely
+Make me wanna love me, love me
+Make me feel lucky, lucky
+
+
+Let me catch ya vibe, let's just take our time
+Just relax your mind and take it easy
+Don't have to decide, you do, I do, I
+Don't have to be mine, let's take it easy
+
+
+Hey, yeah
+And take it easy
+Hey
+
+
+When you pull up on my side, babe
+Speedin' down that 101 highway
+Movin' too fast, couldn't see the place
+But you see that look on my face, so you know what it is
+Pedal to the metal, all gas, no brake
+Girl, I would never get in your way
+I'ma shut up and let you drive
+Put that thing to the floor, one for the road
+
+
+Make you feel lucky, lucky (Lucky)
+Make you wanna love me, love me
+Baby, when you with me, with me (Right here)
+Got no worries, worries (Worries, oh no)
+I love it when you touch me, touch me
+Feelin' so lovely, lovely (I love it)
+Make me wanna love me, love me (Ooh)
+Make me feel lucky, lucky (Oh no, baby)
+
+
+Let me catch ya vibe, let's just take our time
+Just relax your mind and take it easy
+Don't have to decide, you do, I do, I
+Don't have to be mine, let's take it easy
+
+
+Hey, yeah
+And take it easy
+Hey
+Let's take it easy
+Hey, yeah
+And take it easy
+Hey

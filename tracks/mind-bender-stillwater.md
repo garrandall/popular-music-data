@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mind-bender-stillwater
+lyrics_url: https://genius.com/Stillwater-mind-bender-lyrics
 name: Mind Bender
 rankings:
 - end_date: '1977-11-25'
@@ -59,4 +60,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-02-25'
 ---
+(Guitar Intro)
+While browsing through a pawn shop
+I saw this old guitar
+It's keys were bent and rusty
+It's body scratched and scared
+Holy- moses
+Would you believe that guitar began to talk
+I swear it did
+Now it's not like your thinkin
+I wasn't stoned or drinkin
+When I heard that talkin Guitar say
+(Talk Box)
+My Daddy was a gibson
+My Mama was a Fender
+That's why they call me Mindbender
+Mindbender. That's my name
+You better believe it
+It was a mind-bending thing
+(Guitar Lead)
+I said now listen Guitar
+What you tryin to do
+People will think I'm crazy
+If they see me talkin to you
+He said
+(Talk Box)
+*What's that you say*
+I Said You Better Hold Your Tongue
 
+Now it's not like your thinkin
+I wasn't stoned or drinkin
+I swear I heard that Guitar say
+(Talk Box)
+My Daddy was a gibson
+My Mama was a Fender
+That's why they call me Mindbender
+Mindbender. That's my name My Name
+
+You better believe it Brother
+It was a Mind Bending thing
+(Guitar Lead)
+And Talk Box

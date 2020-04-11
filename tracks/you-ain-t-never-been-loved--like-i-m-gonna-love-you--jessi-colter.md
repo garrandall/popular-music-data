@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-ain-t-never-been-loved--like-i-m-gonna-love-you--jessi-colter
+lyrics_url: https://genius.com/Jessi-colter-you-aint-never-been-loved-like-im-gonna-love-you-lyrics
 name: You Ain't Never Been Loved (Like I'm Gonna Love You)
 rankings:
 - end_date: '1975-09-12'
@@ -27,4 +28,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-10-04'
 ---
+You ain't never been loved
+Like I'm going to love you
+You ain't never had done
+What I'm going to do
+I'm going take love, sweet love
+And wrap it around you
+You'll know you've been loved
+Before I get through
 
+
+Funny how I answer
+Every time you call
+Funny how no one else
+Matters at all
+Funny to see me to do
+Things I never would
+Funny to have a feeling
+So natural, so good

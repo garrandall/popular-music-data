@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-the-faith-bon-jovi
+lyrics_url: https://genius.com/Bon-jovi-keep-the-faith-lyrics
 name: Keep The Faith
 rankings:
 - end_date: '1992-10-30'
@@ -71,4 +72,94 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-02-06'
 ---
+Mother mother tell your children
+That their time has just begun
+I have suffered for my anger
+There are wars that can't be won
+Father father please believe me
+I am layin' down my guns
+I am broken like an arrow
+Forgive me
+Forgive your wayward son
+Everybody needs somebody to love
+(mother, mother)
+Everybody needs somebody to hate
+(please believe me)
+Everybody's bitching 'cause they can't get enough
+And it's hard to hold on
+When there's no one to lean on
 
+
+Faith, you know you're gonna live through the rain
+Lord we've gotta keep the faith
+Faith, don't you let your love turn to hate
+Right now we've gotta keep the faith
+Keep the faith
+Keep the faith
+Lord, we've gotta keep the faith
+
+
+Tell me baby when I hurt you
+Do you keep it all inside
+Do you tell me all's forgiven
+And just hide behind your pride, yeah
+Everybody needs somebody to love
+(mother, father)
+Everybody needs somebody to hate
+(please don't leave me)
+Everybody's bleeding
+'Cause the times are tough
+Well it's hard to be strong
+When there's no one to dream on
+
+
+Faith, you know you're gonna live through the rain
+Lord we've gotta keep the faith
+Faith, don't you know it's never too late
+Right now we've gotta keep the faith
+Faith, don't you let your love turn to hate
+Lord, we've gotta keep the faith
+Keep the faith
+Keep the faith
+Oh, we've gotta keep the faith
+Keep the faith
+Keep the faith
+Lord, we've gotta keep the faith
+Ooh yeah, ooh yeah
+Yeah yeah yeah
+
+
+I've been walking in the footsteps
+Of society's lies
+I don't like what I see no more
+Sometimes I wish that I was blind
+Sometimes I wait forever
+To stand out in the rain
+So no one sees me crying
+Trying to wash away this pain
+Mother father (Everybody needs somebody to love)
+There's things I've done I can't erase (Everybody needs somebody to hate)
+And every night we fall from grace (Everybody's bitching 'cause they can't get enough)
+It's hard with the world in your face (Everybody needs)
+Trying to hold on, trying to hold on (Everybody, keep the faith)
+
+
+Faith, you know you're gonna live through the rain
+Lord you gotta keep the faith
+Faith, don't you let your love turn to hate
+Right now we've gotta keep the faith
+Keep the faith
+Keep the faith
+Trying to hold on, trying to hold on, yeah
+Keep the faith
+Keep the faith
+Everybody keep the faith
+Keep the faith
+Keep the faith
+Ooh yeah, ooh yeah, ooh yeah, ooh yeah, ooh yeah
+Everybody needs somebody to love
+(Ooh yeah, ooh yeah, ooh yeah, ooh yeah, ooh yeah)
+Everybody needs somebody to hate
+Everybody's bitching 'cause they can't get enough
+Everybody needs
+Everybody, keep the faith

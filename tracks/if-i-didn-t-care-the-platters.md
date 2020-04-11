@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: if-i-didn-t-care-the-platters
+lyrics_url: https://genius.com/The-platters-if-i-didnt-care-lyrics
 name: If I Didn't Care
 rankings:
 - end_date: '1961-01-15'
@@ -39,4 +40,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
 ---
+They asked me how I knew
+My true love was true
+Oh, I of course replied
+Something here inside
+Cannot be denied
 
+They said someday you'll find
+All who love are blind
+Oh, when your heart's on fire
+You must realize
+Smoke gets in your eyes
+
+So I chaffed them and I gaily laughed
+To think they could doubt my love
+Yet today my love has flown away
+I am without my love
+
+Now laughing friends deride
+Tears I cannot hide
+Oh, so I smile and say
+When a lovely flame dies
+Smoke gets in your eyes
+(Smoke gets in your eyes, smoke gets in your eyes)
+Smoke gets in your eyes

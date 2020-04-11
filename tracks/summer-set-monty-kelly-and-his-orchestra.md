@@ -1,6 +1,6 @@
 ---
 artists:
-- Monty Kelly And His Orchestra
+- Monty Kelly
 features: []
 genres: []
 key: summer-set-monty-kelly-and-his-orchestra

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-plays-the-fool-the-main-ingredient
+lyrics_url: https://genius.com/The-main-ingredient-everybody-plays-the-fool-lyrics
 name: Everybody Plays The Fool
 rankings:
 - end_date: '1972-07-21'
@@ -79,4 +80,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-11-11'
 ---
+Okay, so you're heartbroken
+You sit around mopin'
+Crying, crying
+You say you're even thinking about dying?
+Well, before you do anything rash
+Dig this
 
+
+Everybody plays the fool sometime
+There's no exception to the rule
+Listen, baby
+It may be factual, may be cruel
+I ain't lying
+Everybody plays the fool
+
+
+Falling in love is such an easy thing to do
+And there's no guarantee that the one you love
+Is gonna love you
+
+Oh, loving eyes, they cannot see
+A certain person could never be
+Love runs deeper than any ocean
+It clouds your mind with emotion
+
+
+Everybody plays the fool sometime
+There's no exception to the rule
+Listen, baby
+It may be factual, may be cruel
+I wanna tell you that
+Everybody plays the fool
+
+
+How can you help it when the music starts to play
+And your ability to reason is swept away
+
+Oh, heaven on earth is all you see
+You're out of touch with reality
+And now you cry, but when you do
+Next time around someone cries for you
+
+
+Everybody plays the fool sometime
+They use your heart just like a tool
+Listen baby
+They never tell you so in school
+I wanna say it again
+Everybody plays the fool
+
+Listen to me, baby
+Everybody plays the fool sometime
+(There's no exception to the rule)
+No exception to the rule
+It may be factual, may be cruel sometimes
+Everybody plays the fool
+
+
+Listen, listen, baby
+Everybody plays the fool

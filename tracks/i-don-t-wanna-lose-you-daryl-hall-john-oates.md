@@ -1,6 +1,6 @@
 ---
 artists:
-- Daryl Hall John Oates
+- Hall & Oates
 features: []
 genres: []
 key: i-don-t-wanna-lose-you-daryl-hall-john-oates

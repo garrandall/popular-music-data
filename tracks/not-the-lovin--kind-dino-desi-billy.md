@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: not-the-lovin--kind-dino-desi-billy
+lyrics_url: https://www.musixmatch.com/lyrics/Dino-Desi-Billy/Not-the-Lovin-Kind
 name: Not The Lovin' Kind
 rankings:
 - end_date: '1965-09-24'
@@ -45,4 +46,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-13'
 ---
+Tell you, baby
+I'm not the loving kind
+So you better get it
+Off your mind
 
+Give you money, I don't care
+Take you with me anywhere
+I'll tell you, baby
+I'm not the loving kind
+
+Tell you, baby
+I'm not the loving kind
+Get somebody else
+And you'll be fine
+
+Cast your tears into the sea
+Don't waste those good tears on me
+I'll tell you, baby
+I'm not the loving kind
+
+Tell you, baby
+I'm not the loving kind
+So you better
+Move on down the line
+
+I told you so, I never lie
+Love's a train I'll never ride
+I'll tell you, baby
+I'm not the loving kind
+
+Not the loving kind
+Not the loving kind
+Not the loving kind
+Not the loving kind...

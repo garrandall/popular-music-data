@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: come-to-me-marv-johnson
+lyrics_url: https://genius.com/Marv-johnson-come-to-me-lyrics
 name: Come To Me
 rankings:
 - end_date: '1959-03-22'
@@ -67,4 +68,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
 ---
+Yeah, Yeah uh-huh, oh yeah come on, little girl
+Yeah, Yeah
+Well, oh oh baby won't you come to me
+I love you only
+Come to me, I'm so lonely
+Come to me, I love you only baby
+Well, you just said you could come
+Whenever I need you and you can bet I'm a gonna please you
+So come a runnin' 'cause now I need you baby
+Hey hey, you know I miss you baby
 
+Well, a just come when the lights are burnin low
+I want to hear your knock on my door
+Tell me baby that you love me so
+Love me, love me, love me till you can't no more
+
+Come to me, Oh I a miss you
+Come to me, I want to kiss a you
+Come to me, Oh I a miss you baby
+
+Hey, hey you know I miss you baby
+Well, a just come when the lights are burnin low
+I want to hear your knock on my door
+Tell me baby that you love me so
+Love me, love me, love me till you can't no more
+
+Come to me, oh I miss a you
+Come to me, I want to kiss you
+Come to me, oh I miss you baby
+
+Hey hey, you know I miss you baby
+You know that a I miss a you baby
+Girl, you've been gone too long
+Tell me that you're coming on a home
+Girl I don't want to have to be alone
+
+Baby baby baby be my own
+Baby baby baby be my own

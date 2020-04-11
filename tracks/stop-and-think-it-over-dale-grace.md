@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: stop-and-think-it-over-dale-grace
+lyrics_url: https://www.musixmatch.com/lyrics/Dale-Grace/Stop-and-Think-It-Over
 name: Stop And Think It Over
 rankings:
 - end_date: '1964-01-31'
@@ -44,4 +45,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-21'
 ---
+We've got to stop and think it over
+Before we say we're in love
+Are we right for each other
+Can what we feel be lasting love
 
+We've got to stop and think it over
+Before we break each other's heart
+Will this love last forever
+Or someday calls us to part
+
+For many loves
+Have gone wrong
+Oh so many hearts
+Are in pain
+Just like us
+They were too young
+And they played
+A losing game
+
+We've got to stop and think it over
+Before we break each other's heart
+Will this love last forever
+Or someday calls us to part
+Or someday calls us to part

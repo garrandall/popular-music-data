@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: function-at-the-junction-shorty-long
+lyrics_url: https://genius.com/Shorty-long-function-at-the-junction-lyrics
 name: Function At The Junction
 rankings:
 - end_date: '1966-09-30'
@@ -11,4 +12,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
 ---
+I'm getting ready for the Function at the Junction
+And baby you'd better come on right now
+Because everybody's gonna be there
+We got people comin' from everywhere
 
+We got Ling Ting Tong from China
+Long Tall Sally from Carolina
+We got 007, the private eye
+And he's bringin' all the guys from "I Spy"
+
+Come one, come all, we gonna have a ball
+Down at the function at the junction
+And baby you'd better come on right now
+
+We serving egg foo yung and barbecue
+Having chicken dumplings and kidney stew
+Having heap big fun 'til the break of dawn
+Gonna shake a tailfeather shoot him 'fore he run
+
+Hold a shotgun on the rooster, and dare him to crow
+How could anybody sleep when they could get out on the floor
+
+Tell him, tell them, tell one and tell `em all
+Tell 'em 'bout the Function at the Junction
+Tell 'em that they'd better come on right now
+Tell 'em 'bout the Function at the Junction
+Tell 'em that they'd better come on right now
+
+Oh the soul brothers, Jitterbugs
+Hip cats and fancy hats and
+Pretty girls with pretty smiles
+All decked out in the latest styles
+And Farmer Jim and Guitar Slim and
+Betty Boop and ooo-boop-e-doop
+And Mohair Sam from Alabam'
+And Minnesota Fats from Hobo Flats
+Breath-takin' hip-shakin' give it now
+Talkin' 'bout some fascinatin' demonstratin' beauty line
+
+They all be gathering here, from far and near
+For the Function at the Junction
+Brother, you'd better come on right now
+Tell 'em 'bout the Function at the Junction
+Sister, you'd better come on right now
+Talkin' 'bout a Function at the Junction
+Everybody you'd better come on right now
+You ain't ever seen the Function at the Junction

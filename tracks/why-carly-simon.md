@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-carly-simon
+lyrics_url: https://genius.com/Carly-simon-why-lyrics
 name: Why
 rankings:
 - end_date: '1982-07-23'
@@ -31,4 +32,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-08-21'
 ---
+Ladidadida
+Ladidadida
+Ladidadida
+Ladidadida
 
+Why does your love hurt so much?
+Why?
+Why does you love hurt so much?
+Don´t know why
+
+You know I loved you baby
+But all the while you just betrayed me
+In the world of a day
+All the things that you said were
+
+Ladidadida
+Ladidadida
+Ladidadida
+Ladidadida
+
+Why does your love hurt so much?
+Why?
+Why does your love hurt so much?
+Don´t know why
+
+You said our love was secret
+But you left me alone to make it
+You want to come back again someday
+But darling here´s what I say
+
+Ladidadida
+Ladidadida
+Ladidadida
+Ladidadida
+
+Why does your love hurt so much?
+Why?
+Why does your love hurt so much?
+
+Ladidadida
+Ladidadida
+Ladidadida
+Ladidadida
+
+You say you come back again someday
+But darling here´s what I say
+
+Ladidadida
+Ladidadida
+
+Why does your love hurt so much?
+Don't know why
+Why does your love hurt so much?
+Why?

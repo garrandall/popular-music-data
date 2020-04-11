@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-that-love-thompson-twins
+lyrics_url: https://genius.com/Thompson-twins-get-that-love-lyrics
 name: Get That Love
 rankings:
 - end_date: '1987-04-03'
@@ -51,4 +52,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-06-06'
 ---
+I gave up on lovin'
+A long long time ago
+Ooh yeah I had myself believing
+I'd rather be on my own
 
+If you're pickin' and choosin'
+Yeah playin' it cool
+Well ya wind up loosin'
+I'm no fool
+
+I won't give up on love
+No I won't give up on love
+Get that love
+I won't let that love escape me once again
+I'm gonna get that love and make it mine
+
+You know that hearts and flowers
+Never meant that much to me
+But telling lies, lies, lies to myself
+Will never set me free
+
+If you're pickin' and choosin'
+Yeah playin' it cool
+Well ya wind up loosin'
+I'm no fool
+
+I won't give up on love
+No, no I won't give up on love
+Get that love
+I won't let that love escape me once again
+I'm gonna get that love and make it mine
+
+You know you can build any fortress
+Any that you choose
+Then later discover the prisoner
+The prisoner is you
+
+If you're pickin' and choosin'
+Yeah playin' it cool
+Well ya wind up loosin'
+I'm no fool
+
+Get that love
+Oh yeah
+I'm gonna get that love
+Get that love
+Oo, won't give up
+You gotta
+Get that love
+I'm gonna get that love
+Get that love
+I, I won't give up
+
+I won't give up on love
+No, I won't give up on love
+Get that love
+I won't let that love escape me once again
+I'm gonna get that love and make it mine
+
+I won't give up on love (I won't give up)
+No, I won't give up on love
+Get that love
+I won't let that love escape me once again
+I'm gonna get that love and make it mine
+
+I won't give up on love (I won't give up)
+No, I won't give up on love
+Get that love
+I won't let that love escape me once again
+I'm gonna get that love and make it mine

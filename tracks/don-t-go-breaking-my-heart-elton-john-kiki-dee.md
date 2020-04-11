@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: don-t-go-breaking-my-heart-elton-john-kiki-dee
+lyrics_url: https://genius.com/Elton-john-dont-go-breaking-my-heart-lyrics
 name: Don't Go Breaking My Heart
 rankings:
 - end_date: '1976-07-09'
@@ -88,4 +89,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-11-13'
 ---
+Don't go breaking my heart
+I couldn't if I tried
+Oh honey if I get restless
+Baby you're not that kind
+Don't go breaking my heart
+You take the weight off of me
+Oh honey when you knock on my door
+Ooh, I gave you my key
 
+
+Ooh, nobody knows it
+When I was down
+I was your clown
+Ooh, nobody knows it (Nobody knows it)
+Right from the start
+I gave you my heart
+Oh, I gave you my heart
+
+
+So don't go breaking my heart
+I won't go breaking your heart
+Don't go breaking my heart
+
+
+And nobody told us
+Because nobody showed us
+And now it's up to us babe
+Oh, I think we can make it
+So don't misunderstand me
+You put the light in my life
+Oh, you put the spark to the flame
+I've got your heart in my sights
+
+
+Ooh, nobody knows it
+When I was down
+I was your clown
+Ooh, nobody knows it (Nobody knows it)
+Right from the start
+I gave you my heart
+Oh, I gave you my heart
+
+
+Don't go breaking my heart
+I won't go breaking your heart
+Don't go breaking my heart
+
+
+Ooh, nobody knows it
+When I was down
+I was your clown
+Right from the start
+I gave you my heart
+Oh, I gave you my heart
+
+
+Don't go breaking my heart
+I won't go breaking your heart
+Don't go breaking my
+Don't go breaking my
+Don't go breaking my heart
+Don't go breaking my
+Don't go breaking my
+I won't go breaking your heart
+Don't go breaking my heart
+Don't go breaking my
+I won't go breaking your heart
+Don't go breaking my heart
+Don't go breaking my
+I won't go breaking your heart
+Don't go breaking my heart
+Don't go breaking my
+I won't go breaking your heart
+Don't go breaking my heart
+Don't go breaking my
+I won't go breaking your heart
+Don't go breaking my heart
+Don't go breaking my
+I won't go breaking your heart
+Don't go breaking my heart

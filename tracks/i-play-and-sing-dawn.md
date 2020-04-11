@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-play-and-sing-dawn
+lyrics_url: https://www.musixmatch.com/lyrics/Tony-Orlando-feat-Dawn/I-Play-and-Sing
 name: I Play And Sing
 rankings:
 - end_date: '1971-04-02'
@@ -39,4 +40,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-05-15'
 ---
+When they ask me for my autograph
+I catch you in the corner of my eye
+And I know that smile upon your face
+Means we made it girl, you and I
 
+From the hard life on the south side
+To the spotlight here on the stage
+
+Now watch me play
+Hear me sing
+La la la, la la la la
+I play and sing for you
+La la la la
+Hear the applause
+
+Without you, no telling where I'd be
+Singing me a different song
+Breaking rocks for ten or twenty years
+But you wouldn't let me go wrong
+
+Standing by me 'cause you love me
+Now darling, this one's for you
+
+Now watch me play
+Hear me sing
+La la la, la la la la
+I play and sing for you
+La la la la
+Hear the applause
+
+Watch me play
+Hear me sing
+La la la, la la la la
+I play and sing for you
+La la la la
+Hear the applause
+
+Now watch me play
+Hear me sing
+La la la, la la la la
+I play and sing for you
+La la la la
+Hear the applause
+
+Now watch me play
+Hear me sing

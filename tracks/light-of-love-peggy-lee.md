@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: light-of-love-peggy-lee
+lyrics_url: https://www.musixmatch.com/lyrics/Peggy-Lee/Light-of-Love
 name: Light Of Love
 rankings:
 - end_date: '1958-11-09'
@@ -31,4 +32,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-08'
 ---
+I'm gonna open up all of my doors
+I'm gonna open up all of my doors
+I'm gonna open up all of my doors
+And let the light of love come in
 
+I'm gonna say a prayer every day
+Till some happiness come my way
+I'm gonna open up all of my doors
+And let the light of love come in
+
+Gonna open up the front door
+The wide door, the back door, the side door
+All the doors to my heart
+Gonna open up the left door
+The right door, the day door, the night door
+Now's the time to start
+
+Gonna put aside everything
+'Cause I wanna hear door bells ring
+I'm gonna open up all of my doors
+And let the light of love come in
+
+Gonna open up the front door
+The wide door, the back door, the side door
+All the doors to my heart
+Gonna open up the left door
+The right door, the day door, the night door
+Now's the time to start
+
+I'm gonna put aside everything
+'Cause I wanna hear door bells ring
+Gonna open up all of my doors
+And let the light of love come in
+And let the light of love come in

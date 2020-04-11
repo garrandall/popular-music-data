@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: chirpy-chirpy-cheep-cheep-mac-and-katie-kissoon
+lyrics_url: https://genius.com/Mac-and-katie-kissoon-chirpy-chirpy-cheep-cheep-lyrics
 name: Chirpy Chirpy Cheep Cheep
 rankings:
 - end_date: '1971-07-30'
@@ -67,4 +68,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
 ---
+Where's your mama gone
+Where's your mama gone
+Little baby bird
+Little baby bird
+Where's your mama gone
+Where's your mama gone
 
+Far, far away
+Far, far away...
+
+Chorus:
+Last night I heard my mama singing this song
+Ooh wee chirpy chirpy cheep cheep
+Woke up this morning and my mama was gone
+Ooh wee chirpy chirpy cheep cheep
+Chirpy chirpy cheep cheep chirp
+
+Where's your mama gone
+Where's your mama gone
+Little baby bird
+Little baby bird
+Where's your mama gone
+Where's your mama gone far, far away
+
+Where's your papa gone
+Where's your papa gone
+Little baby bird
+Little baby bird
+Where's your papa gone
+Where's your papa gone
+
+Far, far away, far, far away...
+
+Repeat Chorus 3x
+
+Where's your mama gone
+Where's your mama gone
+Little baby bird
+Little baby bird
+Where's your mama gone
+Where's your mama gone
+
+Far far away
+Where's your papa gone
+Where's your papa gone
+Little baby bird
+Little baby bird
+Where's your papa gone

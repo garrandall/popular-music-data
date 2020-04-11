@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-the-platters
+lyrics_url: https://genius.com/The-platters-where-lyrics
 name: Where
 rankings:
 - end_date: '1959-09-13'
@@ -43,4 +44,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-02'
 ---
+Where is the heaven that we hoped would be?
+Where is the gladness my heart came to see?
+Where is the rapture we can't recapture?
+Where is the future your love promised to me?
 
+Where is the promise of the joy we knew?
+Where are you, princess, are you crying too?
+Why has it ended, was love pretended?
+Where is the splendid world I shared with you?
+
+Where are you? Where are you?
+Why, oh, why they all now have died?
+Where are you, darling, are you crying too?

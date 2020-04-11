@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: like-you-ll-never-see-me-again-alicia-keys
+lyrics_url: https://genius.com/Alicia-keys-like-youll-never-see-me-again-lyrics
 name: Like You'll Never See Me Again
 rankings:
 - end_date: '2007-11-30'
@@ -103,4 +104,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-05-03'
 ---
+If I had no more time
+No more time left to be here
+Would you cherish what we had?
+Was I everything that you were looking for?
+If I couldn't feel your touch
+And no longer were you with me
+I'd be wishing you were here
+To be everything that I've been looking for
 
+
+I don't wanna forget the present is a gift
+And I don't wanna take for granted
+The time you may have here with me
+'Cause Lord only knows another day here's not really guaranteed
+
+
+So every time you hold me
+Hold me like this is the last time
+Every time you kiss me
+Kiss me like you'll never see me again
+Every time you touch me
+Touch me like this is the last time
+Promise that you'll love me
+Love me like you'll never see me again
+Oh oh oh
+
+
+How many really know what love is?
+Millions never will
+Do you know until you lose it?
+That it's everything that we are looking for
+When I wake up in the morning
+And you're beside me
+I'm so thankful that I found
+Everything that I've been looking for
+
+
+I don't wanna forget the present is a gift
+And I don't wanna take for granted
+The time you may have here with me
+'Cause Lord only knows another day here's not really guaranteed
+
+
+So every time you hold me
+Hold me like this is the last time
+Every time you kiss me
+Kiss me like you'll never see me again
+Every time you touch me
+Touch me like this is the last time
+Promise that you'll love me
+Love me like you'll never see me again
+So every time you hold me
+Hold me like this is the last time
+Every time you kiss me
+Kiss me like you'll never see me again
+(Can you do that for me, baby?)
+Every time you touch me
+(See, we don't really know)
+Touch me like this is the last time
+(Say every day, we never know)
+Promise that you'll love me
+(I want you to run with me)
+Love me like you'll never see me again
+(Like you'll never see me again)
+
+
+Oh oh oh, oh oh oh
+Oh oh oh, oh oh oh
+Oh oh oh, oh oh oh
+Oh oh oh, oh oh oh

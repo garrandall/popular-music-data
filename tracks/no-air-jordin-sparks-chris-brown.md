@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: no-air-jordin-sparks-chris-brown
+lyrics_url: https://genius.com/Jordin-sparks-and-chris-brown-no-air-tiesto-radio-edit-lyrics
 name: No Air
 rankings:
 - end_date: '2008-01-25'
@@ -148,4 +149,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-09-13'
 ---
+Tell me how I'm supposed to breathe with no air?
+If I should die before I wake
+It's cause you took my breath away
+Losing you is like living in a world with no air, oh
 
+Chris Brown
+I'm here alone, didn't wanna leave
+My heart won't move, It's incomplete
+If there was a way that I could make you understand
+
+But how do you expect me to live alone with just me?
+Cause my world revolves around you, it's so hard for me to breathe
+
+Tell me how I'm supposed to breathe with no air?
+Can't live, can't breathe with no air
+It's how I feel whenever you ain't there
+There's no air, no air
+
+Got me out here in the water so deep
+Tell me how you gonna breathe without me?
+If you ain't here I just can't breathe
+There's no air, no air
+
+No air, air
+No air, air
+No air, air
+No air, air
+
+Chris Brown
+I walked, I ran, I jumped, I flew
+Right off the ground To float to you
+With no gravity to hold me down for real
+
+But somehow I'm still alive inside
+You took my breath but I survived
+I don't know how but I don't even care
+
+So how do you expect me to live alone with just me?
+Cause my world revolves around you, it's so hard for me to breathe
+
+Tell me how I'm supposed to breathe with no air?
+Can't live, can't breathe with no air
+That's how I feel whenever you ain't there
+There's no air, no air
+
+Got me out here in the water, so deep
+Tell me how you gonna breathe without me?
+If you ain't here I just can't breathe
+There's no air, no air
+
+No air, air
+No air, air
+No air, air
+No air, air
+
+No more
+Baby
+There's no air, no air
+No air, oh!
+
+Tell me how I'm supposed to breathe with no air?
+I can't live, I can't breathe with no air
+That's how I feel whenever you ain't there
+There's no air, no air
+
+Got me out here in the water, so deep
+Tell me how you gonna breathe without me?
+If you ain't here I just can't breathe
+There's no air, no air
+
+Tell me how I'm supposed to breathe with no air?
+I can't live, I can't breathe with no air
+That's how I feel whenever you ain't there
+There's no air, no air
+
+Got me out here in the water, so deep
+Tell me how you gonna breathe without me?
+If you ain't here I just can't breathe
+There's no air, no air
+
+No air, air
+No air, air
+No air, air
+No air

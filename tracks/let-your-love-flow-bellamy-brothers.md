@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-your-love-flow-bellamy-brothers
+lyrics_url: https://genius.com/The-bellamy-brothers-let-your-love-flow-lyrics
 name: Let Your Love Flow
 rankings:
 - end_date: '1976-02-06'
@@ -83,4 +84,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-06-05'
 ---
+There's a reason for the sun-shining sky
+And there's a reason why I'm feeling so high
+Must be the season when that
+Love light shines all around us
 
+
+So, let that feeling grab you deep inside
+And send you reeling where your love can't hide
+And then go stealing
+Through the moonlit nights with your lover
+
+
+Just let your love flow
+Like a mountain stream
+And let your love grow
+With the smallest of dreams
+And let your love show
+And you'll know what I mean
+It's the season
+Let your love fly
+Like a bird on a wing
+And let your love bind you
+To all living things
+And let your love shine
+And you'll know what I mean
+That's the reason
+
+
+There's a reason for the warm sweet nights
+And there's a reason for the candlelights
+Must be the season when those
+Love lights shine all around us
+
+
+So, let that wonder take you into space
+And lay you under its loving embrace
+Just feel the thunder as it warms your face
+You can't hold back
+
+
+Just let your love flow
+Like a mountain stream
+And let your love grow
+With the smallest of dreams
+And let your love show
+And you'll know what I mean
+It's the season
+Let your love fly
+Like a bird on a wing
+And let your love bind you
+To all living things
+And let your love shine
+And you'll know what I mean
+That's the reason
+
+
+Just let your love flow
+Like a mountain stream
+And let your love grow
+With the smallest of dreams
+And let your love show
+And you'll know what I mean
+It's the season
+Let your love fly
+Like a bird on a wing
+And let your love bind you
+To all living things
+And let your love shine
+And you'll know what I mean
+That's the reason
+
+
+Just let your love flow
+Like a mountain stream
+And let your love grow

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: songbird-kenny-g
+lyrics_url: https://genius.com/Kenny-g-songbird-lyrics
 name: Songbird
 rankings:
 - end_date: '1987-04-10'
@@ -95,4 +96,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-29'
 ---
-
+Instrumental

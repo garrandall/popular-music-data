@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wake-me-up-when-september-ends-green-day
+lyrics_url: https://genius.com/Green-day-wake-me-up-when-september-ends-lyrics
 name: Wake Me Up When September Ends
 rankings:
 - end_date: '2005-08-12'
@@ -115,4 +116,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-02-04'
 ---
+Summer has come and passed, the innocent can never last
+Wake me up when September ends
+Like my father's come to pass, seven years has gone so fast
+Wake me up when September ends
 
+
+Here comes the rain again falling from the stars
+Drenched in my pain again, becoming who we are
+As my memory rests, but never forgets what I lost
+Wake me up when September ends
+
+
+Summer has come and passed, the innocent can never last
+Wake me up when September ends
+Ring out the bells again, like we did when spring began
+Wake me up when September ends
+
+
+Here comes the rain again, falling from the stars
+Drenched in my pain again, becoming who we are
+As my memory rests, but never forgets what I lost
+Wake me up when September ends
+
+
+
+
+Summer has come and passed, the innocent can never last
+Wake me up when September ends
+Like my father's come to pass, twenty years has gone so fast
+Wake me up when September ends
+Wake me up when September ends
+Wake me up when September ends...

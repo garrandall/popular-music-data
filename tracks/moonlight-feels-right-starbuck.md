@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: moonlight-feels-right-starbuck
+lyrics_url: https://genius.com/Starbuck-moonlight-feels-right-lyrics
 name: Moonlight Feels Right
 rankings:
 - end_date: '1976-04-23'
@@ -95,4 +96,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
 ---
+The wind blew some luck in my direction
+I caught it in my hands today
+I finally made a tricky French connection
+You winked and gave me your o.k
+
+I'll take you on a trip beside the ocean
+And drop the top at Chesapeake Bay
+Ain't nothing like the sky to dose a potion
+The moon'll send you on your way
+
+
+Moonlight
+Feels right
+Moonlight
+Feels right
+
+
+We'll lay back and observe the constellations
+And watch the moon smilin' bright
+I'll play the radio on southern stations
+Cause southern belles are hell at night
+
+You say you came to Baltimore from Ole Miss
+Class of seven four gold ring
+The eastern moon looks ready for a wet kiss
+To make the tide rise again
+
+
+Moonlight
+Feels right
+Moonlight
+Feels right
+
+
+
+
+
+We'll see the sun come up on Sunday morning
+And watch it fade the moon away
+I guess you know I'm giving you a warning
+Cause me and moon are itching to play
+
+I'll take you on a trip beside the ocean
+And drop the top at Chesapeake Bay
+Ain't nothin' like the sky to dose a potion
+The moon'll send you on your way
+
+
+Moonlight
+Feels right
+Moonlight
+Feels right
+
 

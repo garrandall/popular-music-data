@@ -5,6 +5,7 @@ features:
 - Britney Spears
 genres: []
 key: s-m-rihanna-britney-spears
+lyrics_url: https://www.musixmatch.com/lyrics/Rihanna-feat-Britney-Spears/S-M
 name: S&M
 rankings:
 - end_date: '2010-12-10'
@@ -112,4 +113,103 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-07-23'
 ---
+I like it-like it
+I like it-like it
+I like it-like it
+I I like it-like it
+I like it-like it
+I like it-like it
+I like it-like it
 
+Na na na na
+Come on (I like it-like it)
+Na na na na
+Come on (I I like it-like it)
+Na na na na na
+Come on (I like it-like it)
+Na na na na
+Come on, come on, come on
+Na na na na na na
+
+Feels so good being bad (Oh uh, oh oh uh)
+There's no way I'm turning back (Oh uh, oh oh uh)
+Now the pain is my pleasure cause nothing could measure (Oh uh, oh oh uh)
+
+Love is great, love is fine (Oh uh, oh oh uh)
+Out the box, outta line (Oh uh, oh oh uh)
+The affliction of the feeling leaves me wanting more (Oh uh, oh oh uh)
+
+Cause I may be bad, but I'm perfectly good at it
+Sex in the air, I don't care, I love the smell of it
+Sticks and stones may break my bones
+But chains and whips excite me
+
+Cause I may be bad, but I'm perfectly good at it
+Sex in the air, I don't care, I love the smell of it
+Sticks and stones may break my bones
+But chains and whips excite me
+
+Na na na na
+Come on, come on, come on
+I like it-like it
+Come on, come on, come on (Na na na)
+I like it-like it
+Come on, come on, come on
+I like it-like it
+Come on, come on, come on
+
+Just one night full of sin (Oh uh, oh oh uh)
+Feel the pain on your skin (Oh uh, oh oh uh)
+Ten bottles, scream mercy, it's your turn to hurt me (Oh! Oh! Oh! Oh!)
+
+If I'm bad, tell me that (Oh uh, oh oh uh)
+Shut me up, gag and bound... me (Oh uh, oh oh uh)
+Cause the pain is my pleasure, nothing comes better (Yeah, Oh! Oh! Oh! Oh!)
+
+Cause I may be bad, but I'm perfectly good at it
+Sex in the air, I don't care, I love the smell of it
+Sticks and stones may break my bones
+But chains and whips excite me
+
+Na na na na
+Come on, come on, come on
+I like it-like it
+Come on, come on, come on (Na na na)
+I like it-like it
+Come on, come on, come on
+I like it-like it
+Come on, come on, come on
+
+S-S-S and M-M-M
+S-S-S and M-M-M
+
+Oh, I love the feeling you bring to me, oh you turn me on
+That's exactly what I've been yearning for, give it to me strong
+And meet me in my boudoir, make my body say ah ah ah
+I like it-like it
+
+Cause I may be bad, but I'm perfectly good at it
+Sex in the air, I don't care, I love the smell of it
+Sticks and stones may break my bones
+But chains and whips excite me
+
+Cause I may be bad, but I'm perfectly good at it
+Sex in the air, I don't care, I love the smell of it
+Sticks and stones may break my bones
+But chains and whips excite me
+
+Na na na na
+Come on, come on, come on
+I like it-like it
+Come on, come on, come on (Na na na)
+I like it-like it
+Come on, come on, come on
+I like it-like it
+Come on, come on, come on
+
+S-S-S and M-M-M
+S-S-S and M-M-M
+S-S-S and M-M-M
+S-S-S and M-M-M
+
+(Uh!)

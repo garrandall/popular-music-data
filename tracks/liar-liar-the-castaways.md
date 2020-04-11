@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: liar-liar-the-castaways
+lyrics_url: https://genius.com/The-castaways-liar-liar-lyrics
 name: Liar Liar
 rankings:
 - end_date: '1965-08-20'
@@ -63,4 +64,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-13'
 ---
+Liar, liar, pants on fire
+Your nose is longer than a telephone wire
 
+
+Ask me, baby, why I'm sad
+You been out all night, know you been bad
+Don't tell me different, know it's a lie
+Come kill me, honey, see how I cry
+
+
+Why must you hurt me, do what you do
+Listen here, girl, can't you see I love you
+Make a little effort, try to be true
+I'll be happy, not so blue
+
+
+
+
+
+Verse 3:
+If you keep on tellin' me those lies
+Still goin' out with other guys
+There'll come a day I'll be gone
+Take my advice, won't be long
+
+Verse 4:
+When that day comes, won't be mad
+Be free of you, but I'll still be sad
+In spite of your cheatin', still love you so
+I'll be unhappy if I let you go

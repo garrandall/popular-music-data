@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-babe-ronnie-dove
+lyrics_url: https://genius.com/Ronnie-dove-my-babe-lyrics
 name: My Babe
 rankings:
 - end_date: '1967-04-28'
@@ -31,4 +32,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-05-27'
 ---
+My babe, I got my babe
+And I won't lie babe
+Without your love
+I'm just one of a million other guys
 
+Well it's a hard time world
+With part time girls to spend your time with
+And life ain't always fair but I don't care
+As long as I'm with
+
+My babe
+I got my babe
+And I won't lie babe
+Without your love
+I'm just one of a million other guys
+
+You take one look around
+You'll hear the sounds of young hearts breakin'
+The game's galled runnin' free
+It ain't for me
+'Cause my hearts taken with
+
+My babe
+I got my babe
+And I won't lie babe
+Without your love
+I'm just one of a million other guys
+
+My babe, I got my babe
+And I won't lie babe
+Without your love
+I'm just one of a million other guys

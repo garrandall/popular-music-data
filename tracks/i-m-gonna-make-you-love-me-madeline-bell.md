@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-gonna-make-you-love-me-madeline-bell
+lyrics_url: https://genius.com/Madeline-bell-im-gonna-make-you-love-me-lyrics
 name: I'm Gonna Make You Love Me
 rankings:
 - end_date: '1968-02-16'
@@ -43,4 +44,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-04-06'
 ---
-
+I'm gonna do all the things for you a man wants a girl to do
+Oh baby, oh baby
+I'll sacrifice for you, I'd even do wrong too, oh baby
+Every minute, every hour, I'm gonn'a shower
+You with love and affection, look out it's comin' in your direction!
+I'm gonn'a make you love me. Yes I will, (yes I will) yes, I will!
+I'm gonn'a make you love me. Yes I will, yes I will
+My love is strong you see I know you'll never get tired of me
+Oh baby, oh baby
+I'm going to use every trick in the book 
+To try my best to get you hooked
+Oh baby
+Every night, every day, I'm gonna say
+I'm gonn'a get you, I'm gonn'a get you
+Look out boy 'cause I'm gonn'a get you
+I'm gonn'a make you love me. Yes I will (yes I will) Yes I will!
+I'm gonn'a make you love me. Yes I will (yes I will) Yes I will
+Woooooooo, woooooo
+Every night, every day, I'm gonn'a say
+I'm gonn'a get you, I'm gonn'a get you
+Look out boy 'cause I'm gonn'a get you
+I'm gonn'a make you love me. Yes I will (yes I will)
+Believe i will (yes i will)
+You know that I'm gonn'a make you love me
+Yes I will woooo, yes, I will
+I'm gonn'a make you...

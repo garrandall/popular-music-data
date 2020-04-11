@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-a-price-fats-domino
+lyrics_url: https://genius.com/Fats-domino-what-a-price-lyrics
 name: What A Price
 rankings:
 - end_date: '1961-01-29'
@@ -43,4 +44,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-20'
 ---
+Oh what a price
+I had to pay
+For lovin you, you
 
+I bought her home
+A diamond ring
+I had to give up everything
+Oh what a price
+I had to pay
+For lovin you, you
+
+I try so hard
+To do whats right
+But you only wrecked my life
+Oh what a price
+I had to pay
+For lovin you, you
+
+I stopped my ramblin
+I even stopped gamblin
+I even stopped staying out all night
+Oh what a price
+I had to pay
+For lovin you, you
+
+You heard my story
+I sang my song
+So goodbye, baby I'm gone
+Oh what a price
+I had to pay
+For lovin you, you

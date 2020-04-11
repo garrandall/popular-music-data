@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: another-sleepless-night-jimmy-clanton
+lyrics_url: https://genius.com/Jimmy-clanton-another-sleepless-night-lyrics
 name: Another Sleepless Night
 rankings:
 - end_date: '1960-05-01'
@@ -59,4 +60,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-07-18'
 ---
-
+The nights have been so lonely since you went away
+I could not get to sleep try as I may
+But now you're back, and you're here to stay....
+CHORUS
+Still it looks like another sleepless night
+Oh but darlin', that's alright Just as long as you are holdin' me tight
+Makin' love 'till the early morning light
+Only whets our appetite
+This will be another sleepless night
+Hold me, while the moon shines in through the window
+Let your love flow
+Hold me, we can orchestrate love's scenario with the radio
+Still it looks like another sleepless night
+Oh but darlin', that's alright
+Just as long as you are holdin' me tight
+LEAD BREAK
+Hold me, while the moon shines...etc
+CHORUS

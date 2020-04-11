@@ -1,6 +1,6 @@
 ---
 artists:
-- Ke$ha
+- Kesha
 features: []
 genres: []
 key: f--k-him-he-s-a-dj-ke-ha

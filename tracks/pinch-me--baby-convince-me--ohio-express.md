@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pinch-me--baby-convince-me--ohio-express
+lyrics_url: https://genius.com/Ohio-express-pinch-me-baby-convince-me-lyrics
 name: Pinch Me (Baby Convince Me)
 rankings:
 - end_date: '1969-06-27'
@@ -15,4 +16,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-06-28'
 ---
+If you are mine
+Come on, girl
+And give me the sign
+I need affection
+Come on, baby
+Supply the direction
+Come on
 
+Pinch me, baby, pinch me
+Come on and convince me
+Pinch me, baby, pinch me
+Come on and convince me
+
+Don't tell me stop when
+I'm on my way to the top
+I want to groove
+So come on, baby
+And make your move
+Come on
+
+Pinch me, baby, pinch me
+Come on and convince me
+Pinch me, baby, pinch me
+Come on and convince me
+
+Do do do do
+Do do do do
+Do do do do
+Do do do do
+
+If you survive
+We got to do it
+One more time
+It's nothing moves
+You pinch me
+And I'll pinch you
+Come on now
+
+Pinch me, baby, pinch me
+Come on and convince me
+Alright
+Pinch me, baby, pinch me
+Come on and convince me
+Do do do do
+Pinch me, baby, pinch me
+Come on and convince me
+Do do do do
+Pinch me, baby, pinch me
+Come on and convince me
+Do do do do
+Pinch me, baby, pinch me
+Come on and convince me

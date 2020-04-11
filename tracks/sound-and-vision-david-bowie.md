@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sound-and-vision-david-bowie
+lyrics_url: https://www.musixmatch.com/lyrics/David-Bowie/Sound-and-Vision-2013
 name: Sound And Vision
 rankings:
 - end_date: '1977-04-15'
@@ -31,4 +32,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-05-14'
 ---
+Ah
+Ah
 
+(Doo doo doo doo doo-doo)
+(Doo doo doo doo doo doo doo)
+
+Don't you wonder sometimes
+About sound and vision?
+
+Blue, blue, electric blue
+That's the colour of my room
+Where I will live
+Blue, blue
+Pale blinds drawn all day
+Nothing to do, nothing to say
+Blue, blue
+I will sit right down
+Waiting for the gift of sound and vision
+And I will sing
+Waiting for the gift of sound and vision
+Drifting into my solitude
+Over my head
+
+Don't you wonder sometimes
+About sound and vision?

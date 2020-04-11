@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: modern-love-david-bowie
+lyrics_url: https://genius.com/David-bowie-modern-love-lyrics
 name: Modern Love
 rankings:
 - end_date: '1983-09-23'
@@ -59,4 +60,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-12-10'
 ---
+I know when to go out
+And when to stay in
+Get things done
 
+
+I catch the paper boy
+But things don't really change
+I'm standing in the wind
+But I never wave bye-bye
+But I try
+I try
+
+
+There's no sign of life
+It's just the power to charm
+I'm lying in the rain
+But I never wave bye-bye
+But I try
+I try
+
+
+Never going to fall for
+(Modern Love) walks beside me
+(Modern Love) walks on by
+(Modern Love) gets me to the church on time
+(Church on Time) terrifies me
+(Church on Time) makes me party
+(Church on Time) puts my trust in God and Man
+(God and Man) no confessions
+(God and Man) no religion
+(God and Man) don't believe in Modern Love
+
+
+It's not really work
+It's just the power to charm
+I'm still standing in the wind
+But I never wave bye bye
+But I try
+I try
+
+
+Never going to fall for
+(Modern Love) walks beside me
+(Modern Love) walks on by
+(Modern Love) gets me to the church on time
+(Church on Time) terrifies me
+(Church on Time) makes me party
+(Church on Time) puts my trust in God and Man
+(God and Man) no confessions
+(God and Man) no religion
+(God and Man) don't believe in Modern Love
+
+
+(Modern Love) walks beside me
+(Modern Love) walks on by
+(Modern Love) gets me to the church on time
+(Church on time) terrifies me
+(Church on time) makes me party
+(Church on time) puts my trust in God and Man
+(God and Man) no confessions
+(God and Man) no religion
+(God and Man) don't believe in Modern Love
+
+
+Modern love, modern love, modern love, modern love
+Modern love, modern love, modern love, modern love
+Modern love, modern love, modern love, modern love
+(Modern love, modern love, modern love, modern love)
+Modern love, walks beside me (modern love)
+Modern love, walks on by (modern love)
+Modern love, walks beside me (modern love)
+Modern love, walks on by (modern love)
+Never gonna fall for
+(Modern love, modern love, modern love, modern love)

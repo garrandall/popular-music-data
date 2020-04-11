@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-lose-my-number-phil-collins
+lyrics_url: https://genius.com/Phil-collins-dont-lose-my-number-lyrics
 name: Don't Lose My Number
 rankings:
 - end_date: '1985-07-26'
@@ -79,4 +80,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-11-16'
 ---
+They came at night leaving fear behind
+Shadows were on the ground
+Nobody knew where to find him
+No evidence was found
+"I'm never coming back"
+They heard him cry
+And I believe him
+Well he never meant to do anything wrong
+It's gonna get worse if he waits too long
 
+
+Billy, Billy don't you lose my number
+Because you're not anywhere
+That I can find you
+Oh now Billy, Billy don't you lose my number
+Because you're not anywhere that I can find you, oh no
+
+
+Searching through the day and into the night
+They wouldn't stop till they found him
+They didn't know him and they didn't understand
+They never asked him why
+"Get out of my way"
+They heard him shout
+Then a blinding light
+Ooh all I could see was him running down the street
+Out of the shadows and into the night
+
+
+
+
+Don't give up
+Keep running, keep hiding
+Don't give up
+Billy, if you know you're right
+Don't give up
+You know that I am on your side
+Don't give up
+Oh Billy, you better, you better, you better run for your life
+
+
+
+
+They came at night leaving fear behind
+Shadows were on the ground
+Nobody knew where to find him
+No evidence was found
+"I'm never coming back"
+They heard him cry
+And I believe him
+He never meant to do anything wrong
+It's gonna get worse if he waits too long
+
+
+Now Billy, Billy don't you lose my number
+Because you're not anywhere
+That I can find you, oh
+Now Billy, Billy don't you lose my number
+Because you're not anywhere that I can find you, oh

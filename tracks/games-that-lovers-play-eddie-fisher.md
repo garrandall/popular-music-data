@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: games-that-lovers-play-eddie-fisher
+lyrics_url: https://www.musixmatch.com/lyrics/Eddie-Fisher/Games-That-Lovers-Play
 name: Games That Lovers Play
 rankings:
 - end_date: '1966-11-04'
@@ -43,4 +44,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-24'
 ---
+There are games that many,
+Foolish lovers play.
+Blindly chasing happy endings,
+Come what may.
 
+Never caring,
+Who gets hurt,
+Along the way.
+
+Let's not play those games,
+That lovers play.
+
+Sometimes lovers,
+Hurt each other,
+Telling lies.
+Acting out charades,
+Behind their,
+Smiling eyes.
+
+If you love me, darling,
+You must realize,
+We can't play those games,
+That lovers play.
+
+When I whisper,
+I'll be yours eternally.
+In my heart I feel,
+Our love is meant to be.
+
+It's not just to have you share,
+One dream with me.
+I'm not playing games
+That lovers play.
+
+Sometimes lovers hurt each other,
+Telling lies.
+Acting out charades,
+Behind their smiling eyes.
+
+If you love me,
+Darling, you must realize,
+We can't play those games,
+That lovers play.
+
+Let's not play those games,
+That lovers play.

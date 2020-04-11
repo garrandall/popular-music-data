@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-honeythief-hipsway
+lyrics_url: https://genius.com/Hipsway-the-honeythief-lyrics
 name: The Honeythief
 rankings:
 - end_date: '1987-01-30'
@@ -67,4 +68,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-05-02'
 ---
+Sleek, big cat
+Bible black
+Honeysuckle
+I would never deny
 
+The light of deep regret
+Let me see what I don't get
+The light of deep regret
+Let me see what I don't get
+
+Pass through the heat
+Come on, come on and pass
+Through the heat
+Catch a thief
+A honeythief
+I am a thief
+A honeythief
+
+The light of deep regret
+Let me see what I don't get
+The light of deep regret
+Let me see what I don't get
+
+That's the price you pay
+When love gets in the way
+Stealth in the night
+I come to steal
+With stealth in the night
+You got the sugar to satisfy
+I am the man you can never deny
+
+The light of deep regret
+Let me see what I don't get
+The light of deep regret
+Let me see what I don't get

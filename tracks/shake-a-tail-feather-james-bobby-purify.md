@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: shake-a-tail-feather-james-bobby-purify
+lyrics_url: https://genius.com/James-and-bobby-purify-shake-a-tail-feather-lyrics
 name: Shake A Tail Feather
 rankings:
 - end_date: '1967-04-21'
@@ -44,4 +45,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-10'
 ---
-
+Ow! Get it baby! Alright
+Well I heard about the fella
+You been dancing with
+All over the neighbourhood
+So why didn't you ask me baby?
+Or didn't you think I could?
+Well I know that the Boogaloo is out of sight
+But the shing-a-ling's the thing tonight
+And if that was you and me out there baby
+I would have shown you how to do it right
+Do it right, do it right
+Do it right
+Ahhhhhhhhhhhhhh!
+Twistin'
+Shake it shake it shake it shake it baby
+Here we go loop-de-loop
+Shake it up baby
+Here we go loop-de-lie
+A-bend over let me see you shake your tail feather
+Bend over let me see you shake your tail feather
+Come on let me see you shake your tail feather
+Ahhhhhhhhhhhhhh!
+(Twistin')
+Shake it shake it shake it shake it baby
+Here we go loop-de-loop (oh yeah)
+Shake it up baby
+Here we go loop-de-lie
+A-bend over let me see you shake your tail feather
+Bend over let me see you shake your tail feather
+Bend over let me see you shake your tail feather
+Ahhhhhhhhhhhhhh!
+Twistin'
+Oh yeah
+Alright
+C'mon girl, baby
+C'mon child
+Do the shing-a-ling
+Shake that thing
+C'mon O yeah...

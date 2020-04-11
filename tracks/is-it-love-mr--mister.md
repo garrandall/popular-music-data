@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: is-it-love-mr--mister
+lyrics_url: https://genius.com/Mr-mister-is-it-love-lyrics
 name: Is It Love
 rankings:
 - end_date: '1986-04-04'
@@ -75,4 +76,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-07-19'
 ---
+I say I love you, I hold you near me
+You say I scare you, well that's your fear
+I know the message my heart is sending
+But you don't read it, you keep me guessing
 
+Is it love, is it love you're after
+Is it love, is it, is it love
+
+The broken record goes round and round
+Within a circle, without a sound
+I'm under water, in overdrive
+You hide in laughter, what's on your mind
+
+Is it love, is it love you're after - why don't you tell me
+Is it love, is it, is it love
+Is it love, is it love you're after - why can't you tell me
+Is it love, is it really love
+
+(Solo)
+
+Is it love, is it love you're after - why can't you tell me
+Is it love, is it, is it love
+Is it love, is it love you're after
+Hey girl, I got to know, is it really, really love
+Is it love, is it really love - hey
+
+Is it love, is it love you're after - why don't you tell me
+Is it love, is it, is it love
+Is it love, is it love you're after
+Everybody's lookin' for the magic love to come along and hope we'll find it
+Is it love, is it really love... (to fade)

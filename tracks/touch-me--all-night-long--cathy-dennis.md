@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: touch-me--all-night-long--cathy-dennis
+lyrics_url: https://www.musixmatch.com/lyrics/Cathy-Dennis/All-Night-Long-Touch-Me
 name: Touch Me (All Night Long)
 rankings:
 - end_date: '1991-03-08'
@@ -87,4 +88,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-07-13'
 ---
+Copyright 1990 EMI Songs/Chrysalis Music
 
+We're starting it over, we're making way for destiny
+A time to turnover a better life for you and me
+A new recreation to channel all this energy
+Let's solove the equation, I need to feel, you close to me
+So baby let your conscience go
+There's no turning back when love takes hold
+Hold me baby, drive me crazy
+Touch me all night long
+Make me love you, kiss and hug you
+Touch me all night long
+
+The more that I see you
+The more I know that love belongs
+With you in my mind boy
+I wouldn't know what's right from wrong
+Cos love will takeover
+And leave you out of sight and mind
+You've got to go with the feeling
+And trust fate to be kind
+And baby let your conscience go
+There's no turning back when love takes hold
+Hold me baby, drive me crazy
+Touch me all night long
+Make me love you, kiss and hug you
+Touch me all night long
+Hold me baby, drive me crazy
+Touch me all night long
+Make me love you, kiss and hug you
+Touch me all night long
+
+And baby let your conscience go
+There's no turning back once love gets hold
+Hold me baby, drive me crazy
+Touch me all night long
+Make me love you, kiss and hug you
+Touch me all night long

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-message-cymande
+lyrics_url: https://genius.com/Cymande-the-message-lyrics
 name: The Message
 rankings:
 - end_date: '1973-01-26'
@@ -47,4 +48,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-03-24'
 ---
-
+Together, fore we go
+Forever like it was before
+Remember, you've been told
+Together, we can go
+My brother, I watch you go
+Like a river, all love has flow
+Make your way, don't help me
+Don't watch where I go
+Make your way, don't help me
+Don't watch where I go
+Together, fore we go
+Forever like it was before
+Remember, you've been told
+Together, we can go

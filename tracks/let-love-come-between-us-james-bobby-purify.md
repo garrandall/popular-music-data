@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: let-love-come-between-us-james-bobby-purify
+lyrics_url: https://genius.com/James-and-bobby-purify-let-love-come-between-us-lyrics
 name: Let Love Come Between Us
 rankings:
 - end_date: '1967-09-15'
@@ -44,4 +45,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-11-04'
 ---
-
+Baby I found a way to stop all this fussin', yeah
+It's just not right darling
+The way that we fight
+Girl, if you would listen to what we have to say
+We could stop all this fussin'
+And we could do it this way
+We could let love come between us
+And let love bring us together
+And let love be born today
+And let love, let love live forever
+I don't believe that you realize
+How much I need you darling
+And the way my heart cries
+It's so hard for us to get alone
+And if you'd only listen to the words of our song
+And let love come between us
+And let love bring us together
+And let love be born today
+And let love, let love live forever

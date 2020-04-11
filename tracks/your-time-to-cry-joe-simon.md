@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: your-time-to-cry-joe-simon
+lyrics_url: https://genius.com/Joe-simon-your-time-to-cry-lyrics
 name: Your Time To Cry
 rankings:
 - end_date: '1970-12-25'
@@ -59,4 +60,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-03-13'
 ---
+I gave you all of my love
+But you treated me like a fool
+I gave up the right for the wrong
+Tryin to get along with you
+When I wanted to hold you close, you gone always too tight
+Or you had some place to go - and listen to me honey
 
+Im walkin out the door, tellin you good-bye
+I can't take it no more
+Its your time to cry - its your time to cry
+
+Oh, I tried to stay with you because of our kids
+But you just wouldn't do right
+You leave home late in the morning
+I wouldn't see you till late, late at night
+Baby, also I still love you Im afraid to survey
+
+I cannot go on to make that same mistake again
+And listen to me honey
+
+Im walkin out the door, tellin you good-bye
+I can't take it no more
+Its your time to cry - oh its your time to cry
+
+Mmh mmh, its all over - your time to cry, its all over
+Your time to cry, its all over ....
+Its all over - its all over
+Im walking out the door tonight, can't stand it no longer
+I can't stand it hear the telephone ring, its breaking my heart
+Im leaving home ....

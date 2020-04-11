@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lonely-days-bee-gees
+lyrics_url: https://genius.com/Bee-gees-lonely-days-lyrics
 name: Lonely Days
 rankings:
 - end_date: '1970-12-11'
@@ -63,4 +64,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
 ---
+Good morning mister sunshine, you brighten up my day
+Come sit beside me in your way
+I see you every morning, outside the restaurants
+The music plays so nonchalant
 
+
+Lonely days, lonely nights
+Where would I be without my woman?
+Lonely days, lonely nights
+Where would I be without my woman?
+Lonely days, lonely nights
+Where would I be without my woman?
+Lonely days, lonely nights
+Where would I be without my woman?
+
+Lonely days, lonely nights
+Where would I be without my woman?
+
+
+Good morning mister sunshine, you brighten up my day
+Come sit beside me in your way
+
+
+Lonely days, lonely nights
+Where would I be without my woman?
+Lonely days, (Lonely days,) lonely nights (Lonely nights)
+Where would I be without my woman? (Lonely days, lonely nights)
+Yeah, lonely days, (Lonely days,) lonely nights (Lonely nights)
+Where would I be without my woman? (Lonely days, lonely nights)
+Lonely days, (Lonely days,) lonely nights (Lonely nights)
+Where would I be without my woman? (Lonely days, lonely nights)
+Yeah, lonely days, (Lonely days,) lonely nights

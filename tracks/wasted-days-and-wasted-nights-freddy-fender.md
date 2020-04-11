@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wasted-days-and-wasted-nights-freddy-fender
+lyrics_url: https://genius.com/Freddy-fender-wasted-days-and-wasted-nights-lyrics
 name: Wasted Days And Wasted Nights
 rankings:
 - end_date: '1975-06-27'
@@ -83,4 +84,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-10-25'
 ---
+Wasted days and wasted nights
+I have left for you behind
+For you don't belong to me
+Your heart belongs to someone else
 
+
+Why should I keep loving you?
+When I know that you're not true
+And why should I call your name
+When you're the blame for making me blue
+
+
+Don't you remember the day
+That you went away and left me
+I was so lonely, prayed for you only
+My love
+
+
+Why should I keep loving you?
+When I know that you're not true
+And why should I call your name
+When you're the blame for making me blue
+
+
+Oooh, oooh. ooh
+(Music)
+
+
+Don't you remember the day
+That you went away and left me
+I was so lonely, cried for you only
+My love
+
+
+Why should I keep loving you?
+When I know that you're not true
+And why should I call your name
+When you're the blame for making me blue

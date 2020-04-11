@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: vivir-mi-vida-marc-anthony
+lyrics_url: https://genius.com/Marc-anthony-vivir-mi-vida-lyrics
 name: Vivir Mi Vida
 rankings:
 - end_date: '2013-08-16'
@@ -27,4 +28,69 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-09-28'
 ---
+Voy a reír, voy a bailar
+Vivir mi vida la la la la
+Voy a reír, voy a gozar
+Vivir mi vida la la la la
 
+
+Voy a reír (eso), voy a bailar
+Vivir mi vida la la la la
+Voy a reír, voy a gozar
+Vivir mi vida la la la la
+
+
+A veces llega la lluvia
+Para limpiar las heridas
+A veces sólo una gota
+Puede vencer la sequía
+
+
+Y para que llorar, pa' qué
+Si duele una pena, se olvida
+Y para qué sufrir, pa' qué
+Si así es la vida, hay que vivirla la la le
+
+
+Voy a reír, voy a bailar
+Vivir mi vida la la la la
+Voy a reír, voy a gozar
+Vivir mi vida la la la la
+
+
+Voy a vivir el momento
+Para entender el destino
+Voy a escuchar en silencio
+Para encontrar el camino
+
+
+Y para que llorar, pa' qué
+Si duele una pena, se olvida
+Y para qué sufrir, pa' qué
+Si duele una pena, se olvida la la le
+
+
+Voy a reír, voy a bailar
+Vivir mi vida la la la la
+Voy a reír, voy a gozar
+Vivir mi vida la la la la
+
+
+Voy a reír, voy a bailar
+Pa´qué llorar, pa’ que sufrir
+Empieza a soñar, a reír
+Voy a reír, voy a bailar
+Siente y baila y goza
+Que la vida es una sola
+Voy a reír, voy a bailar
+Vive, sigue
+Siempre pa’lante
+No mires pa’ tras
+Mi gente
+La vida es una
+
+
+Voy a reír, voy a bailar
+Vivir mi vida la la la la
+Voy a reír, voy a gozar
+Vivir mi vida la la la la

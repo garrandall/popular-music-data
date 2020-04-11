@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: so-cold-breaking-benjamin
+lyrics_url: https://genius.com/Breaking-benjamin-so-cold-lyrics
 name: So Cold
 rankings:
 - end_date: '2004-09-17'
@@ -87,4 +88,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-01-22'
 ---
+Crowded streets are cleared away one by one
+Hollow heroes separate
+As they run
+You're so cold
+Keep your hand in mine
+Wise men wonder, while strong men die
 
+
+Show me how it ends, it's alright
+Show me how defenseless you really are
+Satisfied and empty inside
+Well, that's alright, let's give this another try
+
+
+If you find your family
+Don't you cry
+In this land of make believe
+Dead and dry
+You're so cold, but you feel alive
+Lay your hand on me, one last time
+
+
+Show me how it ends, it's alright
+Show me how defenseless you really are
+Satisfied and empty inside
+Well, that's alright, let's give this another try
+
+
+
+
+Show me how it ends, it's alright
+Show me how defenseless you really are
+Satisfied and empty inside
+Well, that's alright, let's give this another try
+
+
+It's alright
+It's alright
+It's alright
+It's alright
+It's alright
+It's alright
+It's alright
+It's alright
+It's alright

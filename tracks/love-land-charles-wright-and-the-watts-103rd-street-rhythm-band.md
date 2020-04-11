@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-land-charles-wright-and-the-watts-103rd-street-rhythm-band
+lyrics_url: https://genius.com/Charles-wright-and-the-watts-103rd-street-rhythm-band-love-land-lyrics
 name: Love Land
 rankings:
 - end_date: '1970-04-17'
@@ -75,4 +76,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-01'
 ---
+I Have heard all about Love Land
+And all of its little charms
+But I know I'll never get to Love Land
+Unless I'm wrapped up in your arms
+Got to take me with you
+Baby please, take me with you
 
+How I'd love to walk down that golden street
+Hand-in-hand with you where all the lovers meet
+Whoa, I'd love to go to Love Land with you
+
+Pretty baby, 'Cause my love is true, I swear, I do
+
+I have heard all about Love Land
+And all of its youthful hearts
+Well, loneliness just can't live there
+And happiness is the answer
+You've got to take me with you
+Baby, got to take me with you, oh yeah
+
+How I'd love to walk down that golden street
+Hand-in-hand with you where all the lovers meet
+How I'd love to go to Love Land with you, yeah
+
+Oh, I'd like to walk with you down that golden street
+Hand-in-hand with you where all the lovers meet
+Oh, I'd love to go to Love Land, Love Land with you
+
+I do, swear I do, my love is true
+Take me with you, baby
+Yeah, take me with you, baby yeah
+
+Got to, got to, got to, got to
+Got to take me by the hand
+Tell me, tell me, tell me baby, I'm your lover man
+
+Together we can go and where we'll stop, yeah
+Everybody will know, got to take me with you
+Got to take me with you

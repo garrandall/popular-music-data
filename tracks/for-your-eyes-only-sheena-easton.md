@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: for-your-eyes-only-sheena-easton
+lyrics_url: https://www.musixmatch.com/lyrics/Sheena-Easton/For-Your-Eyes-Only
 name: For Your Eyes Only
 rankings:
 - end_date: '1981-07-31'
@@ -107,4 +108,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-09'
 ---
+For your eyes only
+Can see me through the night
+For your eyes only
+I never need to hide
 
+You can see so much in me
+So much in me that's new
+I never felt until I looked at you
+
+For your eyes only
+Only for you
+You see what no one else can see
+
+And now I'm breaking free
+For your eyes only
+Only for you
+The love I know you need in me
+
+The fantasy you freed in me
+Only for you
+Only for you
+
+For your eyes only
+The nights are never cold
+You really know me
+That's all I need to know
+Maybe I'm an open book
+Because I know you're mine
+But you won't need to read between the lines
+
+For your eyes only
+Only for you
+You'll see what no one else can see
+And now I'm breaking free
+For your eyes only
+Only for you
+The passions that collide in me
+The wild abandon side of me
+Only for you
+For your eyes only

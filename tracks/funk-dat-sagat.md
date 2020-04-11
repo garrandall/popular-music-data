@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: funk-dat-sagat
+lyrics_url: https://genius.com/Sagat-funk-dat-lyrics
 name: Funk Dat
 rankings:
 - end_date: '1994-01-07'
@@ -75,4 +76,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-04-23'
 ---
+Funk dat!
 
+
+Question:
+Why is it that every time I'm walking down the street
+Somebody wants to stop me
+Just to give me a flyer?
+
+
+Come on, man!
+Funk dat!
+Get out of my way!
+
+
+Question:
+Why is it that every time I walk into the bank
+The tellers look at me
+Like I'm the one that robbed them last week?
+
+
+Come on, man
+Funk dat!
+What are you lookin' at?
+
+
+Question:
+Why is it that every time I turn on the radio
+I hear the same 5 songs
+15 times a day, for 3 months?
+
+
+Man...
+Funk dat!
+Get a new DJ!
+
+
+Question:
+Why is it that bums ask me for money
+When I ain't got none?
+What is it an "in" thing or something?
+Let me remind this dude he ain't got no money, hm?
+
+
+Man...
+Funk dat!
+Get a job!
+
+
+You know
+Every time I see my neighbor
+She tells me to stay out of trouble
+The other one looks at me
+Like I'm the one that got her daughter strung out
+
+
+Come on, man
+Funk dat!
+What are you lookin' at?
+
+
+Seems like every time
+It never fails, it never fails
+I'm just chillin' in my crib
+Mindin' my on business
+And somebody wants to call me just to talk about nothin'
+
+
+Funk dat!
+Get a life!
+
+
+Question:
+Why is it that when I go out to a nightclub
+Only the ugly chicks want to step to me?
+I mean, like I'm ugly or somethin', huh?
+What you mean, huh?
+
+
+Funk dat!
+Get out of my face!

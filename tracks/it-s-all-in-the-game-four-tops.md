@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-all-in-the-game-four-tops
+lyrics_url: https://genius.com/The-four-tops-its-all-in-the-game-lyrics
 name: It's All In The Game
 rankings:
 - end_date: '1970-05-01'
@@ -59,4 +60,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
 ---
+Many a tear has to fall
+But it's all in the game
+All in the wonderful game
+That we know, that we know as love
 
+
+You have words, you have words with him
+And your future's looking dim
+But these things
+Your heart can rise, rise above
+
+
+Once in a while he won't call
+But it's all in the game
+Soon he'll be there at your side
+With a sweet, a sweet bouquet
+With a sweet bouquet
+
+
+And he'll kiss your lips
+And caress your waiting fingertips
+And your heart, your hearts got to fly
+Fly way
+Come on and sing now...
+
+
+And he'll kiss your lips
+And caress your waiting fingertips
+And your heart will fly away
+
+
+It's all in the game, the game called love
+It's all in the game, the game called love

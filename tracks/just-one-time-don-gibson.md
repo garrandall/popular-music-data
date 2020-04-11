@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-one-time-don-gibson
+lyrics_url: https://genius.com/Don-gibson-just-one-time-lyrics
 name: Just One Time
 rankings:
 - end_date: '1960-03-13'
@@ -51,4 +52,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
 ---
+If I could see you just one time oh how it'd ease my troubled mind
+If I could hold you just one time and then pretend that you're still mine
+Lips that used to thrill me so they now thrill someone else I know
+Gone is the love that once was mine wish I could see you just one time
+I I I I miss you so oh I need you so
+I I I'd give this heart of mine if I could see you just one time
 
+I I I I miss you so...

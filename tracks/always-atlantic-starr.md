@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: always-atlantic-starr
+lyrics_url: https://genius.com/Atlantic-starr-always-lyrics
 name: Always
 rankings:
 - end_date: '1987-04-03'
@@ -95,4 +96,89 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-22'
 ---
+Girl, you are to me
+All that a woman should be
+And I dedicate my life
+To you, always
 
+The love like yours is grand
+It must have been
+Sent from up above
+And I know you'll stay this way
+For always
+
+
+And we both know
+That our love will grow
+And forever
+It will be
+You and me, hey
+
+
+Ooh, you're like the sun
+Chasing all of the rain away
+When you come around
+You bring brighter days
+
+You're the perfect one
+For me and you
+Forever will be
+And I will love you so
+For always
+
+
+Come with me, my sweet
+Let's go make a family
+And they will bring us joy
+For always
+
+Oh, boy
+I love you so
+I can't find enough ways
+To let you know
+But you can be sure I'm yours
+For always
+
+
+And we both know
+That our love will grow
+And forever
+It will be
+You and me, hey
+
+
+Ooh, you're like the sun
+Chasing all of the rain away
+When you come around
+You bring brighter days
+
+You're the perfect one
+For me and you
+Forever will be
+And I will love you so
+For always
+
+
+
+
+Ooh, you're like the sun
+Chasing all of the rain away
+When you come around
+You bring brighter days
+
+You're the perfect one
+For me and you
+Forever will be
+And I will love you so
+For always
+
+
+Ooh, ooh
+I will love you so
+For always
+Ooh, ooh
+I will love you so
+For always
+Ooh, ooh
+I will love you so
+For always

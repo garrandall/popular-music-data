@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: are-you-happy-now--michelle-branch
+lyrics_url: https://genius.com/Michelle-branch-are-you-happy-now-lyrics
 name: Are You Happy Now?
 rankings:
 - end_date: '2003-06-06'
@@ -87,4 +88,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-10-11'
 ---
+No, don't just walk away
+Pretending everything's okay
+And you don't care about me
+And I know it's just no use
+When all your lies become your truths
+And I don't care
+Yeah, yeah, yeah, yeah
 
+
+Could you look me in the eye
+And tell me that you're happy now? (Ooh)
+Would you tell it to my face?
+Or have I been erased?
+Are you happy now?
+Are you happy now?
+
+
+You took all there was to take
+And left me with an empty plate
+And you don't care about it, yeah
+And I am giving up this game
+And leaving you with all the blame
+'Cause I don't care
+
+
+Could you look me in the eye
+And tell me that you're happy now? (Ooh)
+Would you tell it to my face?
+Or have I been erased?
+Are you happy now? (Ooh)
+Are you happy now?
+Are you happy now?
+Yeah, yeah, yeah
+
+
+Do you really have everything you want?
+You can't ever give something you ain't got
+You can't run away from yourself
+Could you look me in the eye
+And tell me that you're happy now? (Yeah, yeah)
+
+
+C'mon, tell it to my face
+Or have I been replaced?
+Are you happy now?
+Yeah, yeah, yeah, yeah (Are you happy now?)
+Oh, oh
+(Are you happy now?) Yeah, yeah, oh, oh
+Would you look me in the eye?
+Could you look me in the eye?
+I've had all that I can take
+I'm not about to break
+'Cause I'm happy now (Ooh)
+Are you happy now?

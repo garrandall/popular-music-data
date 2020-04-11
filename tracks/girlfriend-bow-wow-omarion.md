@@ -74,7 +74,7 @@ rankings:
  Uh
  So special
  LB Dub
- Ahhh 
+ Ahhh
  That's my girl, yeah
  True that
  That's my girl
@@ -98,16 +98,16 @@ Just to see how far they go down down
 Shawty put it on me like a pro
 They say she got my head gone (yep)
 She got my head gone (Shol is)
-I can't even lie 
+I can't even lie
 She put it on me (Shol is)
-I can't even lie 
+I can't even lie
 She got me homie (Shol is)
 I'll fight you, Try to take her from me
 'Cause she's all I got
 'Cause she's all I got
 
 
-You got 
+You got
 Baby you got that good stuff
 Good love
 Put it on me
@@ -145,7 +145,7 @@ She number one like T-mac
 What nigga gonna do you like that
 
 
-You got 
+You got
 Baby you got that good stuff (you got that good stuff)
 Good love (good looove)
 Put it on me
@@ -168,17 +168,17 @@ Shawty got keys to my car
 Keys to my crib
 Always where I is
 Always paying the bills (yeahh)
-I keep it G 
+I keep it G
 Yeah shawty put me down
-I spend a G every time she comes around 
+I spend a G every time she comes around
 She's my girl but I wanna tip her, yeeah
 And her body's built like a stripper, yeeah
 We keep it hot up in that Range
-With the feet up on the dashboard, dashboard 
+With the feet up on the dashboard, dashboard
 She'll do anything I like (yeaaahhhh, yeeahhh)
 
 
-You got 
+You got
 baby you got that good stuff
 Good love
 Put it on me
@@ -202,14 +202,14 @@ You've got that (fire love)
 People might hate us
 But you'll always be my girl
 (Don't be mad at me)
-(Cause my girl is all mines, all mines) {sheee's all minnne}
+(Cause my girl is all mines, all mines)
 That's my baby, that's my girl
 And I need her in my world
-She's got me going craaaaazy 
+She's got me going craaaaazy
 (Craaaazy baaabyy)
 
 
-You got 
+You got
 baby you got that good stuff
 Good love (she got that good stuff and that good looove)
 Put it on me
@@ -243,7 +243,7 @@ you know what I mean
 
 Said that's my girlfriend (yep)
 You see, said that's my girlfriend (yep)
- {We got another hit O}
+
 You see, See she my girlfriend
 Rockin that O chain
 Yeah that's me man
@@ -252,7 +252,7 @@ I know you can tell she with me right?
 Say man, just ask her
 
 
-You can catch me man, 
+You can catch me man,
 Ridin with the top down in my red L430 man
 She sittin right there by my side
 All day you know what im talkin about

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-ain-t-my-fault-brothers-osborne
+lyrics_url: https://genius.com/Brothers-osborne-it-aint-my-fault-lyrics
 name: It Ain't My Fault
 rankings:
 - end_date: '2017-07-07'
@@ -71,4 +72,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-10-21'
 ---
+Blame the whiskey on the beer
+Blame the beer on the whiskey
+Blame the mornin’ on the night
+For whose lyin’ here with me
+Blame the bar for the band
+Blame the band for the song
+Blame the song for the party that went all night long
 
+
+But it ain’t my fault
+No it ain’t my fault
+Mighta had a little fun
+Lotta wrong got done
+But it ain’t my fault
+
+
+Blame the heart for the hurtin’
+Blame the hurtin’ on the heart
+Blame the dark on the devil
+Blame the devil on the dark
+Blame the ex for the drinkin’
+Blame the drinkin’ for the ex
+Blame the two for one tequila’s for whatever happens next
+
+
+But it ain’t my fault
+No it ain’t my fault
+Mighta had a little fun
+Lotta wrong got done
+But it ain’t my fault
+
+
+I got my hands up
+I need an alibi
+Find me a witness who can testify
+You made a mistake
+You got the wrong guy
+I’m only guilty of a damn good time
+No it ain’t my fault
+
+
+Blame my raisin' on my name
+Blame my name on my raisin'
+Blame my lack of knowing better on public education
+Blame smoke on the fire
+Blame fire on the smoke
+Blame the fight on the bouncer that couldn’t take a joke
+But it ain’t my fault
+
+
+I got my hands up
+I need an alibi
+Find me a witness who can testify
+You made a mistake
+You got the wrong guy
+I’m only guilty of a damn good time
+No it ain’t my fault
+No it ain’t my fault
+No it ain’t my fault

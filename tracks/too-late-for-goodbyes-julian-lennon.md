@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: too-late-for-goodbyes-julian-lennon
+lyrics_url: https://genius.com/Julian-lennon-too-late-for-goodbyes-lyrics
 name: Too Late For Goodbyes
 rankings:
 - end_date: '1985-02-01'
@@ -75,4 +76,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
 ---
+Ever since you've been leaving me
+I've been wanting to cry
+Now I know how it feels for you
+I've been wanting to die
 
+
+But it's much too late for goodbyes
+Yes it's much too late for goodbyes
+
+
+Time has gone since I've been with you
+We've been starting to die
+Now it seems you don't care for me
+And I don't understand why
+
+
+
+
+Ever since you've been far away
+I've been wanting to fly
+Now I know what you meant to me
+I'm the one who should cry
+
+
+
+
+Ever since you've been leaving me
+I've been wanting to cry
+Now I know how it feels for you
+I've been wanting to die
+
+
+
+
+Ooh, ah
+Dit dit dit dit doo
+Ba da ba da ba da ba ba
+Ba ba ba ba ba

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-climb-miley-cyrus
+lyrics_url: https://genius.com/Miley-cyrus-the-climb-lyrics
 name: The Climb
 rankings:
 - end_date: '2009-03-27'
@@ -119,4 +120,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-09-26'
 ---
+I can almost see it
+That dream I'm dreaming, but
+There's a voice inside my head saying
+"You'll never reach it"
+Every step I'm taking
+Every move I make feels lost, with no direction
+My faith is shaken
 
+
+But I, I gotta keep trying
+Gotta keep my head held high
+
+
+There's always gonna be another mountain
+I'm always gonna wanna make it move
+Always gonna be an uphill battle
+Sometimes I'm gonna have to lose
+Ain’t about how fast I get there
+Ain’t about what's waiting on the other side
+It's the climb
+
+
+The struggles I'm facing
+The chances I'm taking
+Sometimes might knock me down, but
+No, I'm not breaking
+I may not know it
+But these are the moments that I'm gonna remember most, yeah
+Just gotta keep going
+
+
+And I, I gotta be strong
+Just keep pushing on, 'cause...
+
+
+There's always gonna be another mountain
+I'm always gonna wanna make it move
+Always gonna be an uphill battle
+Sometimes I'm gonna have to lose
+Ain’t about how fast I get there
+Ain’t about what's waiting on the other side
+It's the climb
+
+
+
+
+There's always gonna be another mountain
+I'm always gonna wanna make it move
+Always gonna be an uphill battle
+Sometimes you're gonna have to lose
+Ain’t about how fast I get there
+Ain’t about what's waiting on the other side
+It's the climb
+
+
+Keep on moving
+Keep climbing
+Keep the faith, baby
+It's all about, it's all about the climb
+Keep your faith, keep your faith
+Woah-u-oh

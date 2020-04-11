@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: distant-shores-chad-jeremy
+lyrics_url: https://genius.com/Chad-and-jeremy-distant-shores-lyrics
 name: Distant Shores
 rankings:
 - end_date: '1966-07-15'
@@ -44,4 +45,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
 ---
+Sweet soft summer nights
+Dancing shadows in the distant lights
+You came for me to follow
+And we kissed on distant shores
 
+Long quiet hours of play
+Sounds of tomorrow from yesterday
+Love came for me to follow
+And we kissed on distant shores
+
+The careful glance of children playing
+Raindrops fall as if they're saying
+Quiet thoughts of you caressed by time
+
+The breeze of summer's gone
+Whispered memories as nights grow long
+You came for me to follow
+And we kissed on distant shores

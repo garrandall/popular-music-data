@@ -1,6 +1,6 @@
 ---
 artists:
-- Lawrence Welk His Orchestra And Chorus
+- Lawrence Welk
 features: []
 genres: []
 key: riders-in-the-sky-lawrence-welk-his-orchestra-and-chorus

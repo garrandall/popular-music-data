@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-can-t-we-live-together-timmy-thomas
+lyrics_url: https://genius.com/Timmy-thomas-why-cant-we-live-together-lyrics
 name: Why Can't We Live Together
 rankings:
 - end_date: '1972-12-01'
@@ -67,4 +68,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-03-03'
 ---
+Tell me why? Tell me why? Tell me why?
+Mmm, why can't we live together?
+Tell me why? Tell me why?
+Mmm, why can't we live together?
 
+
+Everybody wants to live together
+Why can't we live together?
+
+
+No more wars, no more wars, no more war
+Mmm, just a little peace in this world
+No more wars, no more war
+All we want is some peace in this world
+
+
+Everybody wants to live together
+Why can't we live together?
+
+
+Can't live, can't live
+Can't live together
+Can't live together
+
+
+No matter, no matter what color
+Mmm, you are still my brother
+I said, no matter, no matter what color
+Mmm, you are still my brother
+
+
+Everybody wants to live together
+Why can't we live together?

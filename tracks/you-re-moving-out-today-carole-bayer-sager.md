@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-moving-out-today-carole-bayer-sager
+lyrics_url: https://genius.com/Carole-bayer-sager-youre-moving-out-today-lyrics
 name: You're Moving Out Today
 rankings:
 - end_date: '1977-10-21'
@@ -35,4 +36,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-11-26'
 ---
+I stayed out late one night and you moved in
+I didn't mind 'cause of the state you were in
+May I remind you that it's been a year since then
 
+Today the landlady, she said to me (what did she say?)
+You're looney friend just made a pass at me (slap him in the face)
+Perhaps you might enjoy a cottage by the sea
+
+So pack your toys away
+Your pretty boys away
+Your 45s away
+Your alibis away
+Your Spanish flies away
+Your one-more-tries away
+Your old tie-dyes away
+You're moving out today
+
+Your nasty habits ain't confined to bed (Ha Ha Ha Ha)
+The grocer told me what you do with bread (what do you do?)
+Why don't you take up with the baker's wife instead of me, fool!
+
+Pack up your rubber duck
+I'd like to wish you luck
+Your funny cigarettes
+Your sixty-one cassettes
+Pack all your clothes away
+Your rubber hose away
+Your old-day-glos away
+You're moving out today
+
+Pack up your dirty looks
+Your songs that have no hooks
+Your stacks of Modern Screen
+Your portrait of the Queen
+
+Your mangy cat away
+Your baby fat away
+You're headed that-a-way
+You're moving out today
+
+Pack up your fork and spoon
+Please leave my Lorna Doones
+Your map of Mozambique
+Your water bed that leaks

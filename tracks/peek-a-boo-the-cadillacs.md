@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: peek-a-boo-the-cadillacs
+lyrics_url: https://www.musixmatch.com/lyrics/The-Cadillacs/Peek-A-Boo
 name: Peek-A-Boo
 rankings:
 - end_date: '1958-12-14'
@@ -47,4 +48,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-09'
 ---
+Peek-A-Boo 2: 05 Trk 14
+(Hammer)
+The Cadillacs
+Earl 'Speedy' Carroll - lead tenor
+Charles Brooks - tenor
+Bobby Phillips - bass and Earl Wade - baritone.
+Josie Records single #846
+Pop Chart #28 Dec 8, 1958+
+Album: The Best of The Cadillacs, Rhino 70955
+Transcriber: Awcantor@aol.com
 
+When you come home from the dance
+Stand in the halls and make a romance
+When ya do the thing you shouldn't do
+(Peek-a-boo, a-watchin' you)
+
+When you ought to be in school
+Learning about the golden rule
+When ya tell a tale that isn't true
+(Peek-a-boo, a-watchin' you)
+
+Look in the dark
+You see my face
+(Aaaah!)
+Don't try to hide
+I'm e'rry place
+Very cool, hot and sweet
+I'm gonna give you, *hot feet
+
+Hope you heard the things I said
+Let it sink in your big hard head
+When you dance
+The soles right off your shoes
+(Peek-a-boo, I'm watchin' you)
+
+(Ha-ha-ha-ha-ha)
+
+(Guitar & instrumental)
+
+Look in the dark
+You see my face
+(Oooow!)
+Don't try to hide
+I'm er'ry place
+Very cool, kind-a sweet
+I'm gonna give you, hot feet
+
+Hope you heard the things I said
+Let it sink in your big hard head
+When you dance
+The soles right off the shoes
+(Peek-a-boo, I'm watchin' you)
+
+Doin' the things you shouldn't do
+(Peek-a-boo, I'm watchin' you)
+
+Doin' the things you shouldn't do
+(Peek-a-boo, I'm watchin' you)
+
+FADES-
+
+Doin' the things you shouldn't do
+(Peek-a-boo, I'm watchin' you)
+
+Doin' the things you shouldn't do
+(Peek-a-boo, I'm watchin' you).
+
+~
+* 'hot feet' refers to a Southern hoodoo
+Foot track magic powder (in a can) used to
+Send the unwanted person away. Sprinkled
+On footprints or socks or shoes. Some of the
+Scents are hot, sweet and/or spicey.

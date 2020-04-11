@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: get-down-tonight-kc-and-the-sunshine-band
+lyrics_url: https://genius.com/Kc-and-the-sunshine-band-get-down-tonight-lyrics
 name: Get Down Tonight
 rankings:
 - end_date: '1975-07-18'
@@ -67,4 +68,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-10-18'
 ---
+Baby, baby
+Let's get together
+Honey, honey, me and you
+And do the things
+Ah, do the things
+That we like to do
 
+Oh, do a little dance
+Make a little love
+Get down tonight, get down tonight
+Do a little dance
+Make a little love
+Get down tonight, get down tonight
+
+Baby, baby
+I'll meet you
+Same place, same time
+Where we can all get together
+And ease up our mind
+
+Oh, do a little dance
+Make a little love
+Get down tonight, whoo
+
+Get down tonight, hey
+Do a little dance
+Make a little love
+Get down tonight
+Get down tonight, baby
+
+Oh, do a little dance
+Make a little love
+Get down tonight, whoo
+Get down tonight, hey
+
+Do a little dance
+Make a little love
+Get down tonight, whoo
+Get down tonight, baby
+
+Get down, get down
+
+Get down, get down, get down
+Get down, get down tonight, baby
+Get down, get down, get down
+
+Get down, get down tonight, baby
+Get down, get down, get down
+Get down, get down tonight, baby
+
+Get down, get down, get down
+Get down, get down tonight, baby
+Get down, get down, get down
+
+Get down, get down tonight, baby
+Get down, get down, get down
+Get down, get down tonight, baby
+Get down, get down..

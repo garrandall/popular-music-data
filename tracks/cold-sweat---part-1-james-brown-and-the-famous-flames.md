@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cold-sweat---part-1-james-brown-and-the-famous-flames
+lyrics_url: https://genius.com/James-brown-and-the-famous-flames-cold-sweat-part-1-lyrics
 name: Cold Sweat - Part 1
 rankings:
 - end_date: '1967-07-21'
@@ -55,4 +56,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-30'
 ---
+I don't care, about your past
+I just want, our love to last
+I don't care, darlin', about your faults, ha
+I just want to satisfy your pulse
+OH!
 
+
+When you kiss me
+When you miss me
+Hold my hand
+Make me understand
+I break out - in a cold sweat
+
+Ho! Uh! Ho!
+
+
+I don't care, about your wants
+I just wanna, ha, tell ya about the do's and don'ts
+I don't care about the way you treat me, darlin', ha
+I just want, to understand me, honey
+OH!
+
+
+When you kiss me
+And ya miss me
+You hold me tight
+Make everything all right
+I break out - in a cold sweat
+
+
+Maceo, come on now, brother
+Put it, put it where it's at now
+AHH, let me have it

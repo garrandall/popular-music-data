@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: malinda-bobby-taylor-the-vancouvers
+lyrics_url: https://genius.com/Bobby-taylor-and-the-vancouvers-malinda-lyrics
 name: Malinda
 rankings:
 - end_date: '1968-12-13'
@@ -36,4 +37,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-01-18'
 ---
+Malinda, Malinda
 
+Malinda's the girl (Girl)
+Who came to my world
+And made my interest
+In all other girls stop
+Malinda's a dream (Dream)
+Beauty to the extreme
+Malinda is the cream of the crop
+
+So many guys in love
+With my Malinda (They can't get her)
+You ought to see the presents
+Others send her
+Trying to make her surrender
+Surrender them some of that tender
+Love she's giving me (Malinda)
+
+Oh, but she doesn't know
+She'll never go
+She's where she'd rather be
+In the arms of a man
+Who fits in her plan (Fits into her plan)
+She lets them know that man is me
+
+So many guys have
+Tried for my Malinda (But they can't get her)
+From the Casanovas
+To the real big spenders
+But all they do is offend her
+Offend Malinda and send her
+Calling out to me
+In a lover's speed
+Love me tenderly
+
+(Malinda) Oh
+(Malinda, I love Malinda)
+I love Malinda
+(Yeah, Malinda Malinda)
+(I love Malinda)
+Ooh, I love that girl (Yeah)
+
+Ain't gonna let no
+Jill or Jane or Brenda
+(Any one of those girls)
+Come between me and my Malinda
+
+I'll never let another girl hinder
+The chance that Malinda's gonna
+Spend her every night and day
+Satisfy this day
+In love with me this way
+
+(Malinda, Malinda, I love Malinda)
+Oh, she only has eyes for me (Yeah)
+(Malinda, Malinda, I love Malinda)
+Yeah, she gives up all the
+Other guys for me (Yeah)
+(Malinda, Malinda, I love Malinda)
+She is mine, all mine
+That's the way it was meant to be

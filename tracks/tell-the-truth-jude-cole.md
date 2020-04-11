@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-the-truth-jude-cole
+lyrics_url: https://genius.com/Jude-cole-tell-the-truth-lyrics
 name: Tell The Truth
 rankings:
 - end_date: '1993-01-29'
@@ -55,4 +56,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-04-10'
 ---
-
+Something about the way your eyes lately
+Look up and down and everywhere but me, yeah
+Something about tonight I know is missing
+And I know it's more than insecurity, yeah
+After all, all the time we've spent together
+Don't you think I'd feel something
+If I have to read your mind
+Maybe we're just wasting time
+Tell the truth
+You know my heart is in your hand
+So give it up or make a stand
+Tell the truth
+Come on, tell the truth
+There's no sense in going on this way, baby
+You know it's time to say what you mean
+There's no sense in going out trying to replace
+A love that never came clean
+After all, all the time we've spent together
+Don't you think it's worth something
+If I have to read your mind
+Maybe we're just wasting time
+Tell the truth
+You know my heart is in your hand
+So give it up or take a stand
+Just tell the truth
+Come on, tell the truth
+Let's start it over, or call it over somehow
+(Start it over, or call it over)
+Just bring your love back to me baby
+Baby, somehow
+( Solo )
+So if you want to be mine
+Baby, let's stop wasting time
+Just tell the truth
+'Cause you know my heart is in your hand
+So give it up or take a stand
+Just tell the truth
+I said, if you want to be mine
+Baby, stop wasting time
+Just tell the truth
+'Cause you know my heart is in your hand
+So give it up, give it up
+Come on, tell the truth
+Let's start it over, or call it over
+(Start it over, or call it over)
+Just bring your love back to me baby
+Baby, somehow
+(Start it over, or call it over)
+Over
+(Start it over, or call it over)
+Bring it on back to me baby
+Baby, somehow, yeah

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-a-picture-filter
+lyrics_url: https://genius.com/Filter-take-a-picture-lyrics
 name: Take A Picture
 rankings:
 - end_date: '1999-12-03'
@@ -87,4 +88,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-04-08'
 ---
+Awake on my airplane, awake on my airplane
+My skin is bare, my skin is theirs
+Awake on my airplane, awake on my airplane
+My skin is bare, my skin is theirs
+I feel like a newborn
+And I feel like a newborn
+Awake on my airplane, awake on my airplane
+I feel so real
 
+
+Could you take my picture?
+'Cause I won't remember
+Could you take my picture?
+'Cause I won't remember
+Could you take my picture?
+'Cause I won't remember
+Could you take my picture?
+'Cause I won't remember, yeah
+
+
+I don't believe in, I don't believe in
+In your sanctity, your privacy
+I don't believe in, I don't believe in
+Sanctity, a hypocrisy
+Could everyone agree that
+No one should be left alone?
+Could everyone agree that
+They should not be left alone? Yeah
+And I feel like a newborn
+And I feel like a newborn
+(Kicking and screaming)
+
+
+Could you take my picture?
+'Cause I won't remember
+Could you take my picture?
+'Cause I won't remember
+Could you take my picture?
+'Cause I won't remember
+Could you take my picture?
+'Cause I won't remember, yeah
+
+
+Hey dad, what do you think about your son now?
+Hey dad, what do you think about your son now?
+
+
+Could you take my picture?
+'Cause I won't remember
+Could you take my picture?
+'Cause I won't remember
+Could you take my picture?
+'Cause I won't remember
+Could you take my picture?
+'Cause I won't remember
+Could you take my picture?
+'Cause I won't remember
+Could you take my picture?
+'Cause I won't remember, yeah

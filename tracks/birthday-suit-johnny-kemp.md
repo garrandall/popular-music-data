@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: birthday-suit-johnny-kemp
+lyrics_url: https://genius.com/Johnny-kemp-birthday-suit-lyrics
 name: Birthday Suit
 rankings:
 - end_date: '1989-03-03'
@@ -63,4 +64,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-05-27'
 ---
+Have mercy on my eyes
+Lady, whatcha wearing now?
+You know it's a crime
+The way you look in clothes
 
+Girl
+You take the prize
+Five foot five
+And dressed to kill
+Strike my fancy every time
+You strike a pose
+
+
+There's one more outfit
+That I ain't seen yet
+One more outfit
+That looks great
+I bet
+
+I bet you sure look cute
+In your birthday suit
+I bet you sure look cute
+In your birthday suit
+
+You've got your best feature
+Straight from Mother Nature
+Now I bet you sure look cute
+In your birthday suit
+
+
+Got so many shoes
+You got satin
+You got lace
+You got things from head to toe
+That make you look so hot
+
+Don't have to pick and choose
+You don't have to shop around
+I don't think you really know
+What you already got
+
+
+
+
+Sure looks good, baby
+
+Flash that smile
+And work that hair (aw yeah!)
+Give it all you've got
+(Say what?)
+
+When the photographer starts to shoot
+Make sure you're wearing
+Your birthday suit

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: squeeze-box-the-who
+lyrics_url: https://genius.com/The-who-squeeze-box-lyrics
 name: Squeeze Box
 rankings:
 - end_date: '1975-12-05'
@@ -71,4 +72,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-03-13'
 ---
+Mama's got a squeeze box
+She wears on her chest
+And when Daddy comes home
+He never gets no rest
 
+Cause she's playing all night
+And the music's alright
+Mama's got a squeeze box
+Daddy never sleeps at night
+
+Well the kids don't eat
+And the dog can't sleep
+There's no escape from the music
+In the whole damn street
+
+Cause she's playing all night
+And the music's alright
+Mama's got a squeeze box
+Daddy never sleeps at night
+
+She goes in and out and in and out
+And in and out and in and out
+She's playin' all night and the music's all right
+Mama's got a squeeze box
+Daddy never sleeps at night
+
+She goes, squeeze me, come on and squeeze me
+Come on and tease me like you do
+I'm so in love with you
+Mama's got a squeeze box
+Daddy never sleeps at night
+
+She goes in and out and in and out
+And in and out and in and out
+Well, she's playing all night
+And the music's alright
+Mama's got a squeeze box
+Daddy never sleeps at night

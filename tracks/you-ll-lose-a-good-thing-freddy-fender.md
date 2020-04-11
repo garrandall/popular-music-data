@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-ll-lose-a-good-thing-freddy-fender
+lyrics_url: https://genius.com/Freddy-fender-youll-lose-a-good-thing-lyrics
 name: You'll Lose A Good Thing
 rankings:
 - end_date: '1976-02-20'
@@ -47,4 +48,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-04-17'
 ---
+Well if you lose me, oh yes
+You'll lose a good thing
+Well if you lose me, oh yes
+You'll lose a good thing
 
+You know I love you girl
+But I want you to do right
+If you would only straighten up
+We'd have a good life
+And if you don't believe me, oh yes
+You'll lose a good thing
+
+Well if you lose me, oh yes
+You'll lose a good thing
+You do all your parading
+With every guy in town
+I try to find you, woman
+And you're nowhere to be found
+
+But if you lose me, oh yes
+You'll lose a good thing
+Well if you lose me, oh yes
+You'll lose a good thing
+
+You know I love you woman
+I can't tell you anymore
+If you don't straighten up
+I'm gonna walk right out of that door
+
+And if you don't believe me, oh yes
+You'll lose a good thing, oh yes
+You'll lose a good thing, oh yes, oh yes
+You'll lose a good thing, don't you know

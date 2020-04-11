@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dreaming-of-you-selena
+lyrics_url: https://genius.com/Selena-dreaming-of-you-lyrics
 name: Dreaming Of You
 rankings:
 - end_date: '1995-11-03'
@@ -87,4 +88,55 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-03-09'
 ---
+Late at night when all the world is sleeping
+I stay up and think of you
+And I wish on a star that somewhere you are
+Thinking of me too
 
+
+'Cause I'm dreaming of you tonight
+'Till tomorrow, I'll be holding you tight
+And there's nowhere in the world I'd rather be
+Than here in my room dreaming about you and me
+
+
+Wonder if you ever see me (See me)
+And I wonder if you know I'm there (Am I there? Am I?)
+If you looked in my eyes, would you see what's inside?
+Would you even care?
+I just wanna hold you close, but so far
+All I have are dreams of you
+So I wait for the day and the courage to say
+How much I love you, yes I do!
+
+
+I'll be dreaming of you tonight
+'Till tomorrow, I'll be holding you tight
+And there's nowhere in the world I'd rather be
+Than here in my room dreaming about you and me
+
+
+(Corazón)
+I can't stop dreaming of you
+(No puedo dejar de pensar en ti)
+I can't stop dreaming
+(Cómo te necesito)
+I can't stop dreaming of you
+(Mi amor, cómo te extraño)
+
+
+Late at night when all the world is sleeping
+I stay up and think of you
+And I still can't believe that you came up to me
+And said, "I love you"
+I love you too!
+
+
+Now I'm dreaming with you tonight
+'Till tomorrow and for all of my life
+And there's nowhere in the world I'd rather be
+Than here in my room dreaming with you endlessly
+With you tonight
+And there's nowhere in the world where I'd rather be
+Than here in my room, I'll be dreaming
+With you tonight

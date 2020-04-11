@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: special-delivery-1910-fruitgum-co-
+lyrics_url: https://genius.com/1910-fruitgum-company-special-delivery-lyrics
 name: Special Delivery
 rankings:
 - end_date: '1969-05-16'
@@ -43,4 +44,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-07-05'
 ---
-
+What makes me feel so good
+I got your lovin every day
+Just like you know you should
+You keep it coming, coming my way
+Yeah yeah yeah
+Ain't never felt so fine
+It's for sure, tell you
+That you're up on the top one of a kind
+You bring your love to me, special delivery
+Special delivery, you give your love to me
+Who got the love I need
+Baby, it's you and I know for sure
+You know the way to please
+And when I need it you got the cure
+Let me tell you now
+Ain't no lie, tell you that I
+Ain't never felt so fine
+It's for sure, tell you
+That you're up on the top one of a kind
+You bring your love to me, special delivery
+Special delivery, you give your love to me
+All right, up on the top, one of a kind
+You bring your love to me, special delivery
+Special delivery, you give your love to me
+You bring your love to me, special delivery
+Special delivery, you give your love to me

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: no-one-knows-queens-of-the-stone-age
+lyrics_url: https://genius.com/Queens-of-the-stone-age-no-one-knows-lyrics
 name: No One Knows
 rankings:
 - end_date: '2003-01-03'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-05-10'
 ---
+We get some rules to follow
+That and this, these and those
+No one knows
+We get these pills to swallow
+How they stick in your throat
+Tastes like gold
+Oh, what you do to me
+No one knows
 
+
+And I realize you're mine
+Indeed a fool am I
+And I realize you're mine
+Indeed a fool am I
+
+
+I journey through the desert
+Of the mind with no hope
+I follow
+I drift along the ocean
+Dead lifeboats in the sun
+And come undone
+Pleasantly caving in
+I come undone
+
+
+And I realize you're mine
+Indeed a fool am I
+And I realize you're mine
+Indeed a fool am I
+
+
+Heaven smiles above me
+What a gift here below
+But no one knows
+A gift that you give to me
+No one knows
+
+
+Ustedes que son padres de familia...
+…Buenas tardes señores y señoritas aquí está el
+"DJ Héctor Bonifacio Echevarría Cervantes de la Cruz Arroyo Rojas"
+Esta es la radio Quetzalcoatl
+Estación donde el rock vive y no muere
+Vamos a escuchar un par de temas de Queens of the Stone Age
+Primero vamos a escuchar "First It Giveth..."
+...qué música impresionante temible y verdaderamente ahora van a ver a ver a ver a ver aquí va aquí va aquí va aquí va…

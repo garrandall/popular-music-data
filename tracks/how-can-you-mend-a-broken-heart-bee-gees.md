@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: how-can-you-mend-a-broken-heart-bee-gees
+lyrics_url: https://genius.com/Bee-gees-how-can-you-mend-a-broken-heart-lyrics
 name: How Can You Mend A Broken Heart
 rankings:
 - end_date: '1971-07-02'
@@ -67,4 +68,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-02'
 ---
+I can think of younger days when living for my life
+Was everything a man could want to do
+I could never see tomorrow
+But I was never told about the sorrows
 
+
+And, how can you mend a broken heart?
+How can you stop the rain from falling down?
+How can you stop the sun from shining?
+What makes the world go round?
+How can you mend this broken man?
+How can a loser ever win?
+Please help me mend my broken heart and let me live again
+
+
+I can still feel the breeze that rustles through the trees
+And misty memories of days gone by
+We could never see tomorrow
+No one said a word about the sorrow
+
+
+And how can you mend a broken heart?
+How can you stop the rain from falling down?
+How can you stop the sun from shining?
+What makes the world go round?
+And how can you mend this broken man?
+How can a loser ever win?
+Please help me mend my broken heart and let me live again
+
+
+La la la la la la, la la la la
+La la la la la la, la la la la
+
+
+Please help me mend my broken heart and let me live again
+
+Da da da da
+Da da da da, da da da da da, da

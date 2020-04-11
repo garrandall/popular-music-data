@@ -1,7 +1,6 @@
 ---
 artists:
 - Kai Winding
-- Orchestra
 features: []
 genres: []
 key: more-kai-winding-orchestra

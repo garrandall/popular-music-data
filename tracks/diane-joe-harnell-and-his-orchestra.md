@@ -1,6 +1,6 @@
 ---
 artists:
-- Joe Harnell And His Orchestra
+- Joe Harnell
 features: []
 genres: []
 key: diane-joe-harnell-and-his-orchestra

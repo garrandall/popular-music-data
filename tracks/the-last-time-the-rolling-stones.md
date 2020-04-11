@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-last-time-the-rolling-stones
+lyrics_url: https://www.musixmatch.com/lyrics/The-Rolling-Stones/The-Last-Time-Top-Gear-1965
 name: The Last Time
 rankings:
 - end_date: '1965-04-02'
@@ -47,4 +48,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-29'
 ---
+Well I told you once and I told you twice
+But ya never listen to my advice
+You don't try very hard to please me
+With what you know it should be easy
+Well this could be the last time
+This could be the last time
+Maybe the last time I don't know
+Oh no
+Oh no
 
+Well, I'm sorry girl but I can't stay
+Feelin' like I do today
+It's too much pain and too much sorrow
+Guess I'll feel the same tomorrow
+Well this could be the last time
+This could be the last time
+Maybe the last time I don't know
+Oh no
+Oh no
+
+Well this could be the last time
+This could be the last time
+Maybe the last time I don't know
+Oh no
+Oh no
+
+Well I told you once and I told you twice
+That someone will have to pay the price
+But here's a chance to change your mind
+'Cause I'll be gone a long, long time
+
+Well this could be the last time
+This could be the last time
+Maybe the last time I don't know
+Oh no
+Oh no
+
+Last time baby
+Last time baby (Maybe the last time)
+I see you no more (Maybe the last time)
+Baby I don't know (Maybe the last time)
+Well I don't know (Maybe the last time)
+No, I don't know (Maybe the last time)
+No, I don't know (Maybe the last time)
+No, I don't know (Maybe the last time)

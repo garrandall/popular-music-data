@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: trouble-in-paradise-the-crests
+lyrics_url: https://genius.com/The-crests-trouble-in-paradise-lyrics
 name: Trouble In Paradise
 rankings:
 - end_date: '1960-06-19'
@@ -59,4 +60,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
 ---
+Calling all angels
+Calling all angels
+Calling all angels
+Woo woo woo
+Calling all angels
+Calling all angels
+Calling all angels
+Woo
 
+There's trouble in paradise
+And heaven's not the same
+Etc

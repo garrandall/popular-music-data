@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-things-we-do-for-love-10cc
+lyrics_url: https://www.musixmatch.com/lyrics/10cc/The-Things-We-Do-For-Love-1
 name: The Things We Do For Love
 rankings:
 - end_date: '1977-01-14'
@@ -83,4 +84,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-05-14'
 ---
+Too many broken hearts have fallen in the river
+Too many lonely souls have drifted out to sea
+You lay your bets and then you pay the price
+The things we do for love (The things we do for love)
 
+Communication is the problem to the answer
+You've got her number and your hand is on the phone
+The weather's turned and all the lines are down
+The things we do for love (The things we do for love)
+
+Like walking in the rain and the snow
+When there's nowhere to go
+When you're feeling like a part of you is dying
+And you're looking for the answer in her eyes
+You think you're gonna break up
+Then she says she wants to make up
+
+Ooh, you make me love you
+Ooh, you've got a way
+Ooh, you had me crawling up the wall
+
+Like walking in the rain and the snow
+When there's nowhere to go
+When you're feeling like a part of you is dying
+And you're looking for the answer in her eyes
+You think you're gonna break up
+Then she says she wants to make up
+
+Ooh, you make me love you
+Ooh, you've got a way
+Ooh, you had me crawling up the wall
+
+A compromise would surely help the situation
+Agree to disagree, but disagree to part
+When after all it's just a compromise
+Of the things we do for love (The things we do for love)
+
+The things we do for love (The things we do for love)
+The things we do for love (The things we do for love)
+The things we do for love (The things we do for love)
+The things we do for love (The things we do for love)
+The things we do for love (The things we do for love)
+The things we do for love (The things we do for love)
+The things we do for love (The things we do for love)

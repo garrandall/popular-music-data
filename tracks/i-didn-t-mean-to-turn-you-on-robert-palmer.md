@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-didn-t-mean-to-turn-you-on-robert-palmer
+lyrics_url: https://genius.com/Robert-palmer-i-didnt-mean-to-turn-you-on-lyrics
 name: I Didn't Mean To Turn You On
 rankings:
 - end_date: '1986-08-22'
@@ -95,4 +96,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-10'
 ---
+When I took you out
+I knew what you were all about
+But when I did
+I didn't mean to turn you on
 
+Now I bring you home
+You tell me good night's not enough for you
+I'm sorry, baby
+I didn't mean to turn you on
+Whoa, I didn't mean to turn you on
+
+You read me wrong
+I wasn't tryin' to lead you on
+Not like you think
+I didn't mean to turn you on
+
+I know you
+Expected a one-night-stand
+When I refused, I knew you wouldn't understand
+I'm sorry, baby
+I didn't mean to turn you on
+
+I told you twice
+I was only trying to be nice
+Only trying to be nice
+Oh, I didn't mean to turn you on
+
+Hey, now why should I
+Feel guilty 'cause I won't give
+Guilty 'cause I won't give in
+I didn't mean to turn you on
+Whoa, I didn't mean to turn you on
+
+When I took you out
+I knew what you were all about
+But when I did
+I didn't mean to turn you on
+Whoa, I didn't mean to turn you on
+
+Didn't mean to turn you on
+I didn't mean to turn you on
+I didn't mean to turn you on
+I didn't mean to turn you on
+I didn't mean to turn you on
+I didn't mean to turn you on
+I didn't mean to turn you on
+I didn't mean to turn you on
+I didn't mean to turn you on

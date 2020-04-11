@@ -5,6 +5,7 @@ features:
 - Ozuna
 genres: []
 key: escapate-conmigo-wisin-ozuna
+lyrics_url: https://genius.com/Wisin-escapate-conmigo-lyrics
 name: Escapate Conmigo
 rankings:
 - end_date: '2017-07-07'
@@ -88,3 +89,98 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-11-11'
 ---
+(Ozuna)
+(W)
+Será la magia que tienen tus ojos
+Y esos truquitos para enamorar
+Tú me seduces a tu antojo
+Y de tu hechizo no puedo escapar
+Qué ganas tengo de buscarte (Ajá)
+Y de volverte a besar (Baby)
+Por más que traten de alejarte
+Baby, hoy conmigo tú te vas
+(Yo sólo quiero que confíes en mí y seas valiente, bebé)
+
+
+Escápate conmigo (Yeah) esta noche, bebé (Ajá)
+Te quiero comer (Mucho' besos), te va a encantar (Yeh, yeh)
+Tú sabes que conmigo siempre la pasas bien (La pasas bien)
+Te quiero comer (Bebé), tus labios besar (Oye bien)
+
+
+Bebé, no digas que no (No, no, no)
+Si sólo somos tú y yo (Yeh, yeh, yeh)
+Y se te eriza la piel (Te eriza la piel)
+Cuando entramos en calor
+Bebé, no digas que no (No, no, no)
+Si sólo somos tú y yo (Yeh, yeh, yeh)
+Si se te eriza la piel (Te eriza la piel)
+Cuando entramos en calor (Bañados en sudor)
+Señores, la poderosa
+
+
+Mi supernova (Heh), la que una sonrisa me roba
+Tremenda loba, sólo un beso y calienta la alcoba
+Se me pega y me soba, no se incomoda
+La baby es una pantera, yo soy su casanova (Heh-heh)
+Escápate conmigo (Pa-pa), donde no haya testigos (Pa-pa)
+Si te preguntan, diles que soy tu mejor amigo (Pa-pa-pa)
+Yo quiero un beso, tú quieres castigo
+Sabes que no te obligo
+Te deseo, siempre te lo digo
+(Mamita, deja la ventana abierta)
+
+
+Escápate conmigo esta noche, bebé
+Te quiero comer, te va a encantar (Yeh, yeh)
+Tú sabes que conmigo siempre la pasas bien (La pasas bien)
+Te quiero comer (Bebé), tus labios besar
+(Yo en verdad no sé qué tiene)
+
+
+Es que yo quiero un poco más (Un poco más)
+De tu rica desnudez (De tu desnudez)
+Es que el sudor de tu piel (De tu piel)
+Es el que yo quiero probar (Princesa)
+Es que yo quiero un poco más (Un poco más)
+De tu rica desnudez (De tu desnudez)
+Es que el sudor de tu piel (Yeah)
+Es el que yo quiero probar
+Baby, andamos con los poderes
+Ozuna
+
+
+Mi mente descontrola
+Y si la llamo, ella me dice que la busque, que está sola
+Que no hay tiempo, pero haciéndolo no se demora (Yeah)
+Y si le fallo, que tranquilo, porque no se enamora
+Tranquila, la vida conmigo te la vacilas
+Que no he visto otra baby de tu liga
+Esos besitos que me dan ganas
+De amanecer contigo todas las mañanas
+(A las 2 de madrugada estoy en tu casa)
+
+
+Escápate conmigo esta noche, bebé (Ajá)
+Te quiero comer (Es solo eso), te va a encantar
+Tú sabes que conmigo siempre la pasas bien
+Te quiero comer, tus labios besar
+
+
+Bebé, no digas que no (No, no, no)
+Si sólo somos tú y yo (Yeh, yeh, yeh)
+Y se te eriza la piel (Te eriza la piel)
+Cuando entramos en calor (Bañados en sudor)
+Bebé, no digas que no (No, no, no)
+Si sólo somos tú y yo (Yeh, yeh, yeh)
+Si se te eriza la piel (Te eriza la piel)
+Cuando entramos en calor (Bañados en sudor)
+
+
+Señoritas, es sencillo: todos los temas para ustedes
+Junte poderoso: W, Ozuna
+Multi Millo Records
+Los Legendarios
+Hyde, El Químico
+Gaby Music
+Otros niveles musicales

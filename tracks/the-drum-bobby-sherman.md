@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-drum-bobby-sherman
+lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Sherman/The-Drum
 name: The Drum
 rankings:
 - end_date: '1971-05-07'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-19'
 ---
+Love comes, beats on drums
+And the people sing
+Anything, any song will do
 
+Love dies, lover cries
+And crawls away
+Nothing to say to you
+
+
+All it is is all
+All it is is all
+I think I hear the drum
+Boom ba boom ba boom
+Boom ba boom ba boom
+Your turn to dance will come
+
+Love comes, beats on drums
+And your hopes arise
+Open your eyes and see
+
+Hearts beat
+Love was sweet
+And played our song
+Now you belong to me
+
+
+
+Oh, love comes, beats on drums
+And the people will sing
+I think I hear the drum
+
+Oh, love comes, beats on drums
+And the people will sing
+Your turn to dance will come
+
+Love comes, beats on drums
+And the people will sing...

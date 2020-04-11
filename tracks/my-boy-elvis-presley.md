@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-boy-elvis-presley
+lyrics_url: https://genius.com/Elvis-presley-my-boy-lyrics
 name: My Boy
 rankings:
 - end_date: '1975-01-31'
@@ -51,4 +52,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-04-05'
 ---
+You're sleeping son, I know
+But, really, this can't wait
+I wanted to explain
+Before it gets too late
+For your mother and me
+Love has finally died
+This is no happy home
+But God knows how I've tried
 
+
+Because you're all I have, my boy
+You are my life, my pride, my joy
+And if I stay, I stay because of you, my boy
+
+
+I know it's hard to understand
+Why did we ever start?
+We're more like strangers now
+Each acting out a part
+I have laughed, I have cried
+I have lost every game
+Taken all I can take
+But I'll stay here just the same
+
+
+Sleep on, you haven't heard a word
+Perhaps it's just as well
+Why spoil your little dreams
+Why put you through the hell
+Life is no fairytale
+As one day you will know
+But now you're just a child
+I'll stay here and watch you grow

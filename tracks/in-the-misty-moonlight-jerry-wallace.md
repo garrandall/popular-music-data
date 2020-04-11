@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: in-the-misty-moonlight-jerry-wallace
+lyrics_url: https://genius.com/Jerry-wallace-in-the-misty-moonlight-lyrics
 name: In The Misty Moonlight
 rankings:
 - end_date: '1964-07-31'
@@ -51,4 +52,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-03'
 ---
+In the misty moonlight
+By the flickering firelight
+Any place is all right
+Long as I'm with you (as long as I'm with you-ooh)
 
+In a far-away land
+On the tropic sea sand
+If your hand's in my hand
+I won't be blue
+
+Way up on the mountain
+Or way down in the valley
+I know I'll be happy
+Anyplace, anywhere, I don't care
+
+In the misty moonlight
+By the flickering firelight
+Any place is all right
+Long as you are there
+
+I could be happy in one little room with only a table and chair. As
+Happy as I'd be in a kingdom by the sea, darling, if you were there. And I could be
+Rich or I could be poor.. but if you were by my side, I could be any place in this whole
+Wide world…and I know I'd be satisfied
+
+Way up on the mountain
+Or way down in the valley
+I know I'll be happy
+Anyplace, anywhere, I don't care
+
+In the misty moonlight
+By the flickering firelight
+Any place is all right
+Long as you are there
+
+In the misty moonlight
+By the flickering firelight
+Any place is all right
+Long as you are there
+
+In the misty moonlight
+By the flickering firelight
+Any place is all right
+Long as you are there

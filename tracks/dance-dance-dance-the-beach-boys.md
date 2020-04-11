@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dance-dance-dance-the-beach-boys
+lyrics_url: https://genius.com/The-beach-boys-dance-dance-dance-lyrics
 name: Dance Dance Dance
 rankings:
 - end_date: '1964-11-13'
@@ -51,4 +52,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-16'
 ---
+After six hours of school I've had enough for the day
+I hit the radio dial and turn it up all the way
 
+
+I got to dance (Dance, dance, dance now the beat's really hot)
+Right on the spot (Dance, dance, dance right there on the spot)
+The beat's really hot
+(Dance, dance, dance now the beat's really hot)
+(Dance) Dance, (dance) dance
+(Dance) Dance, yeah!
+
+
+When I feel put down I try to shake it off quick
+With my chick by my side the radio does the trick
+
+
+I got to dance (Dance, dance, dance now the beat's really hot)
+Right on the spot (Dance, dance, dance right there on the spot)
+The beat's really hot
+(Dance, dance, dance now the beat's really hot)
+(Dance) Dance, (dance) dance
+(Dance) Dance, yeah!
+Oh my!
+
+
+At a weekend dance we like to show up last
+I play it cool when it's slow and jump it up when it's fast
+
+
+I love to dance (Dance, dance, dance now the beat's really hot)
+Right on the spot (Dance, dance, dance right there on the spot)
+The beat's really hot
+(Dance, dance, dance now the beat's really hot)
+(Dance) Dance, (dance) dance
+(Dance) Dance, yeah!
+
+
+Dance, dance, dance now the beat's really hot
+Dance, dance, dance right there on the spot
+Dance, dance, dance now the beat's really hot
+(Dance) Dance, (dance) dance
+(Dance) Dance, yeah!
+Dance, dance, dance now the beat's really hot
+Dance, dance, dance right there on the spot
+Dance, dance, dance now the beat's really hot

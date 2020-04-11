@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: never-satisfied-good-2-go
+lyrics_url: https://www.musixmatch.com/lyrics/Good-2-Go/Never-Satisfied
 name: Never Satisfied
 rankings:
 - end_date: '1992-05-15'
@@ -63,4 +64,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-08-08'
 ---
+(Chorus)
+Never Satisfied
+Never Satisfied
+Never Satisfied
+Never Satisfied
 
+I know I've given you all that I've could
+No matter what I do to you it never good
+I'm always doin' the best that I can
+The way you make me feel I never understand
+
+You don't appreciate anything I ever do (No you don't appreciate the things I do)
+All you do is complain, what's the matter with you
+
+(Chorus)
+Never Satisfied... You are...
+Never Satisfied... Never Satisfied...
+Never Satisfied... No...
+Never Satisfied
+
+I go to work each day while you stay at home
+Lying in bed all day while talkin' on my phone
+Then you tell me that you need time alone
+Out in the streets I'm like some stakin' doggone hoe
+
+You don't appreciate anything I ever do (No you don't appreciate the things I do)
+All you do is complain, what's the matter with you... no...
+
+(Chorus)
+Never Satisfied... You are... never...
+Never Satisfied... Never Satisfied...
+Never Satisfied... No...
+Never Satisfied
+
+I'll give the world to you if only I could
+But you don't treat me like a gentleman should
+I give you what you want and more than you need
+I just can't understand why it's so hard to please
+
+You don't appreciate anything I ever do (No you dooon't appreciate the things I do)
+All you do is complain, what's the matter with you
+
+Never Satisfied... (No no...)
+Never Satisfied... (No no...)
+Never Satisfied... (No no...)
+I can never do egnough for you (Never Satisfied...) Can't you see my love is true (Never Satisfied...) x5
+(Fade out)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: somebody-s-knockin--terri-gibbs
+lyrics_url: https://genius.com/Terri-gibbs-somebodys-knockin-lyrics
 name: Somebody's Knockin'
 rankings:
 - end_date: '1981-01-23'
@@ -95,4 +96,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-06-13'
 ---
+Somebody's knockin'
+Should I let him in
+Lord, it's the devil
+Would you look at him
+I've heard about him
+But I never dreamed
+He'd have blue eyes and blue jeans
 
+Well somebody's talkin'
+He's whispering to me
+Your place or my place
+Well, which will it be
+I'm gettin' weaker
+And he's comin' on strong
+But I don't wanna go wrong
+
+He must have tapped my telephone line
+He must have known
+I'm spendin' my time
+Alone
+He says we'll have one heavenly night
+My fever's burnin'
+So he ought be right at home
+
+Somebody's knockin'
+Should I let him in
+Lord, it's the devil
+Would you look at him
+I've heard about him
+But I never dreamed
+He'd have blue eyes and blue jeans
+
+He must have tapped my telephone line
+He must have known
+I'm spendin' my time
+Alone
+He says we'll have one heavenly night
+My fever's burnin'
+So he ought be right at home
+
+Somebody's knockin'
+(Somebody's knockin')
+Oh, somebody's knockin'

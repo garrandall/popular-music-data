@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gee-but-it-s-lonely-pat-boone
+lyrics_url: https://genius.com/Pat-boone-gee-but-its-lonely-lyrics
 name: Gee But It's Lonely
 rankings:
 - end_date: '1958-09-28'
@@ -43,4 +44,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-17'
 ---
-
+Got dad's car and chauffer but that's no good to half a pair
+Gee but it's lonely being alone may as well go home
+Got on my suit my shoes are shined all dressed up for a real good time
+Gee but it's lonely being alone might as well go home
+What's wrong with me that I can't find someone for my own
+Why should I be left behind left to be alone
+The girl I asked out told me a lie there she goes with some guy
+Gee but it's lonely being alone guess I'll go on home
+Guess I'll go on home guess I'll go on home guess I'll go on home

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: everybody-s-free--to-feel-good--rozalla
+lyrics_url: https://genius.com/Rozalla-everybodys-free-lyrics
 name: Everybody's Free (To Feel Good)
 rankings:
 - end_date: '1992-07-03'
@@ -87,4 +88,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-11-07'
 ---
+Everybody's free to feel good
+Everybody's free to feel good
+Everybody's free
 
+Brother and sister together we'll make it through
+Some day a spirit will lift you and take you there
+I know you've been hurting
+But I've been there waiting to be there for you
+And I'll be there just helping you out whenever I can
+
+Cause
+Everybody's free to feel good
+Everybody's free to feel good
+Everybody's free (to feel good)
+Everybody's free (to feel good)
+
+We all are a family that should stand together as one
+Helping each other instead of just wasting time
+Now is the moment to reach out to someone
+It's all up to you
+When everyone's sharing their hope
+Then love will win through
+
+Cause
+Everybody's free to feel good
+Everybody's free to feel good
+Everybody's free (to feel good)
+Everybody's free (to feel good)
+
+Everybody's free to feel good
+Everybody's free to feel good
+Everybody's free to feel good
+Everybody's free to feel good
+Everybody's free
+(repeat to fade)

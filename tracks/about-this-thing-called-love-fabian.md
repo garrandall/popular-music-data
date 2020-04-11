@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: about-this-thing-called-love-fabian
+lyrics_url: https://genius.com/Fabian-about-this-thing-called-love-lyrics
 name: About This Thing Called Love
 rankings:
 - end_date: '1960-03-06'
@@ -35,4 +36,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-11'
 ---
-
+Can a love so right
+Be a love so wrong
+Oh, does it leave you weak
+Instead of strong
+Somebody tell me about
+This thing called love
+Can a love be good
+When you feel so bad
+Oh, does it make you think
+That you're going mad
+Somebody tell me about
+This thing called love
+When I first looked in her eyes
+I thought she was the right one
+Then I held her close while we danced
+And soon started making
+Romance, romance, romance
+Can a love so real
+Be a love so false
+Oh, when you hold her near
+She's not there at all
+Somebody tell me about
+This thing called love
+When I first looked in her eyes
+I thought she was the right one
+Then I held her close while we danced
+And soon started making
+Romance, romance, romance
+Can a love so real
+Be a love so false
+Oh, when you hold her near
+She's not there at all
+Somebody tell me about
+This thing called love
+Somebody tell me
+About this thing called love

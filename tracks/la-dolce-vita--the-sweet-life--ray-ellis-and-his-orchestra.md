@@ -1,6 +1,6 @@
 ---
 artists:
-- Ray Ellis And His Orchestra
+- Ray Ellis
 features: []
 genres: []
 key: la-dolce-vita--the-sweet-life--ray-ellis-and-his-orchestra

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-with-you-avril-lavigne
+lyrics_url: https://genius.com/Avril-lavigne-im-with-you-lyrics
 name: I'm With You
 rankings:
 - end_date: '2002-12-13'
@@ -115,4 +116,68 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-06-07'
 ---
+I'm standing on the bridge
+I'm waiting in the dark
+I thought that you'd be here by now
+There's nothing but the rain
+No footsteps on the ground
+I'm listening, but there's no sound
 
+
+Isn't anyone trying to find me?
+Won't somebody come take me home?
+
+
+It's a damn cold night
+Trying to figure out this life
+Won't you take me by the hand?
+Take me somewhere new
+I don't know who you are, but I
+I'm with you
+I'm with you
+
+
+I'm looking for a place
+I'm searching for a face
+Is anybody here I know?
+'Cause nothing's going right
+And everything's a mess
+And no one likes to be alone
+
+
+Isn't anyone trying to find me?
+Won't somebody come take me home?
+
+
+It's a damn cold night
+Trying to figure out this life
+Won't you take me by the hand?
+Take me somewhere new
+I don't know who you are, but I
+I'm with you
+I'm with you
+
+
+Yeah-yeah, oh, why is everything so confusing?
+Maybe I'm just out of my mind
+Yeah-he-yaa, yeah-he-yah, yeah-he-yah, yeah-he-yah, yeah!
+
+
+It's a damn cold night
+Trying to figure out this life
+Won't you take me by the hand?
+Take me somewhere new
+I don't know who you are, but I
+I'm with you
+I'm with you
+Take me by the hand
+Take me somewhere new
+I don't know who you are, but I
+I'm with you
+I'm with you
+Take me by the hand
+Take me somewhere new
+I don't know who you are, but I
+I'm with you
+I'm with you
+I'm with you

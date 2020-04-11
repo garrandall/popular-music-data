@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: where-peaceful-waters-flow-gladys-knight-and-the-pips
+lyrics_url: https://genius.com/Gladys-knight-and-the-pips-where-peaceful-waters-flow-lyrics
 name: Where Peaceful Waters Flow
 rankings:
 - end_date: '1973-06-22'
@@ -51,4 +52,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-08-25'
 ---
+(Come and walk with me)
+(We can go where peaceful waters flow)
 
+If loneliness surrounds you
+And rain clouds always hang around you
+And wakin up each day gets you down (Gets you down, gets you down)
+And if the life that youre leading
+Seems hollow, then maybe what youre needing
+Is someone to turn your world around
+
+(Take my hand) Come take my hand and walk with me (And walk awhile)
+(Let me teach you how to smile) Let me teach you how to smile
+(And Ill show you skies ) And Ill show you skies where gentle breezes blow
+(Where breezes, gentle breezes blow) Yeah, hey
+
+And Ill take you where peaceful waters flow (Peaceful waters flow)
+If you let me Ill take you where peaceful waters flow
+(Come and walk with me) Mmm, hmm
+(We can go where peaceful waters flow)
+
+Now if the sunshine hurts your eyes, boy
+Then its time for you to realize, boy
+Beyond this moment theres
+A better day (Better day), mmm, hmm (Better day)
+
+And if you let me
+Ill guide you, mmm
+Ill always be there, right there beside you
+Reaching every step of your way
+
+(Come take my hand and walk) Come take my hand and walk with me awhile
+(And walk awhile) Yeah, hey, hey
+(Let me teach you how to smile ) Let me teach you how to smile
+And Ill show you skies (Ill show you skies ) where gentle breezes blow
+(Where breezes, gentle breezes blow) Hey, yeah, hey, hey, hey
+
+And Ill take you where peaceful waters flow (Peaceful waters flow)
+Hey, hey, if you trust me, Ill take you there where peaceful waters flow
+(Come and walk with me) Mmm...hmm...
+(We can go where peaceful waters flow)

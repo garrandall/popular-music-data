@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: letter-from-sherry-dale-ward
+lyrics_url: https://www.musixmatch.com/lyrics/dale-ward/A-Letter-From-Sherry
 name: Letter From Sherry
 rankings:
 - end_date: '1964-01-03'
@@ -51,4 +52,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-07'
 ---
-
+Oh boy, what a girl
+But to the boy who really loves her
+Its the end of the world.
+Brings teardrops to my eyes
+Oh why, Sherry, why?
+My best friend named Eddie
+Came by just yesterday
+With a letter from Sherry
+Heres what she had to say
+Dear Eddie Dear Eddie, I love you I love you
+With all my heart with all my heart
+Vacation last summer
+Was grand
+And though you
+You never write
+I pray I pray
+Each day and night
+For Im yours
+And yours alone
+And dear Sherry, shes comin home
+Oh boy, what a girl
+But to the boy who really loves her

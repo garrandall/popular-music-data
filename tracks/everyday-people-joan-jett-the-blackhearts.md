@@ -1,7 +1,6 @@
 ---
 artists:
-- Joan Jett
-- the Blackhearts
+- Joan Jett & the Blackhearts
 features: []
 genres: []
 key: everyday-people-joan-jett-the-blackhearts
@@ -78,7 +77,7 @@ And so on and so on scooby dooby dooby
 Ooh sha sha
 We got to live together
 
-There is a yellow one that won't 
+There is a yellow one that won't
 Accept the black one
 That won't accept the red one
 That won't accept the white one

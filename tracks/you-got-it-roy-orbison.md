@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-got-it-roy-orbison
+lyrics_url: https://genius.com/Roy-orbison-you-got-it-lyrics
 name: You Got It
 rankings:
 - end_date: '1989-01-27'
@@ -79,4 +80,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-05-20'
 ---
+Every time I look into your lovely eyes
+I see a love that money just can't buy
+One look from you, I drift away
+I pray that you are here to stay
 
+Anything you want, you got it
+Anything you need, you got it
+Anything at all, you got it
+Baby
+
+Every time I hold you, I begin to understand
+Everything about you tells me I'm your man
+I live my life to be with you
+No one can do the things you do
+
+Anything you want, you got it
+Anything you need, you got it
+Anything at all, you got it
+Baby
+Anything you want
+Anything you need
+Anything at all
+
+I'm glad to give my love to you
+I know you feel the way I do
+
+Anything you want, you got it
+Anything you need, you got it
+Anything at all, you got it
+Baby
+
+Anything you want, you got it
+Anything you need, you got it
+Anything at all, you got it
+Baby
+
+Anything at all
+Baby
+You got it

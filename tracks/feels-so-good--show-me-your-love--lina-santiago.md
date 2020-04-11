@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: feels-so-good--show-me-your-love--lina-santiago
+lyrics_url: https://genius.com/Lina-santiago-feels-so-good-show-me-your-love-lyrics
 name: Feels So Good (Show Me Your Love)
 rankings:
 - end_date: '1996-02-02'
@@ -87,4 +88,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-06-08'
 ---
+Oh, show me your love
+Oh, show me your love
+Oh, show me your love
+Oh, show me your love
 
+
+It feels so good
+It feels so good
+It feels so good
+It feels so good
+
+
+Show me, show me that you love me
+Show me, show me that you want my love
+Show me, show me that you need me
+Show me, show me that you want my love
+
+
+It feels so good
+It feels so good
+It feels so good
+It feels so good
+
+
+It feels so good, knowing that you're mine
+All I want is to have you all the time
+Satisfaction, that's what I intend to do
+Your devotion is all I need from you
+My love for you grows stronger every day
+In your arms is where I have to stay
+I don't believe what my heart makes me feel
+All I know it feels so real
+
+
+It feels so good
+It feels so good
+It feels so good
+It feels so good
+
+
+Oh, show me your love
+Oh, show me your love
+Oh, show me your love
+Oh, show me your love
+
+
+It feels so good
+It feels so good
+It feels so good
+It feels so good
+
+(It feels so good) I believe in you
+(It feels so good) If I believe in you
+(It feels so good) If I believe in you
+I believe in you
+
+
+Oh, show me your love
+Oh, show me your love
+Oh, show me your love
+Oh, show me your love
+
+
+Oh, show me your love

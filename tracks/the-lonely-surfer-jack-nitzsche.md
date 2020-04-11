@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-lonely-surfer-jack-nitzsche
+lyrics_url: https://genius.com/Jack-nitzsche-the-lonely-surfer-lyrics
 name: The Lonely Surfer
 rankings:
 - end_date: '1963-08-16'
@@ -39,4 +40,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-09-28'
 ---
-
+♫  ♫

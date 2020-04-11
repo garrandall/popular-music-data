@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dancing-on-the-ceiling-lionel-richie
+lyrics_url: https://genius.com/Lionel-richie-dancing-on-the-ceiling-lyrics
 name: Dancing On The Ceiling
 rankings:
 - end_date: '1986-07-25'
@@ -75,4 +76,59 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-08'
 ---
+(Cheering)
+Whoo!
 
+What is happening here
+Something going on that's not quite clear
+Somebody turn on the light
+We're gonna have a party, it's starting tonight
+
+Oh, what a feeling when we're dancing on the ceiling
+Oh, what a feeling when we're dancing on the ceiling
+
+The room is hot and that's good
+Some of my friends came by from the neighborhood
+The people starting to climb the walls
+Oooh, it looks like everybody is having a ball
+
+Oh, what a feeling when we're dancing on the ceiling
+Oh, what a feeling when we're dancing on the ceiling.  Ah
+Oh, oh, what a feeling when we're dancing on the ceiling
+Oh, what a feeling when we're dancing on the ceiling
+Come on!
+Whoo!
+Alright
+
+Everybody starts to lose control when the music is right
+If you see somebody hanging around, don't get uptight
+The only thing we wanna do tonight
+Is go round and round and turn upside down
+Come on, let's get down!
+
+(Cheering)
+Hey, hey, hey, hey, hey, hey, hey, hey!
+Hey, hey, hey.......(Cheering)
+
+So come on and get loose
+Don't hold back 'cause it ain't no use
+Hard to keep your feet on the ground
+'Cause when we like to party, we only wanna get down
+
+Oh, what a feeling when we're dancing on the ceiling
+Oh, what a feeling when we're dancing on the ceiling.  Ah
+Oh, what a feeling, baby, when we're dancing on the ceiling
+Oh, what a feeling when we're dancing on the ceiling.  Whoa!
+
+Say what?
+Can't stop now, just getting started
+Everybody clap your hands.  (Clapping)
+Come on!
+Everybody let's dance!
+Oh, oh, oh, oh, oh
+
+Oh, what a feeling when we're dancing on the ceiling
+Oh, what a feeling when we're dancing on the ceiling
+Oh, what a feeling when we're dancing on the ceiling
+Oh, what a feeling when we're dancing on the ceiling
+Oh, what a feeling when we're dancing on the ceiling

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: gonna-blake-shelton
+lyrics_url: https://genius.com/Blake-shelton-gonna-lyrics
 name: Gonna
 rankings:
 - end_date: '2015-10-09'
@@ -79,4 +80,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-01-30'
 ---
+I'm gonna take you for a date
+Take you for a ride
+Gonna get you over there on the passenger's side
+I'm gonna put the radio on your favorite song
+I'm gonna crank it on up and get you singing along
 
+
+Hey, hey (hey, hey)
+Alright (alright)
+Girl I'm digging on hittin' on you tonight
+It ain't a maybe, it's hopin' I, wishin' I wanna
+It's the damn right, hold you tight, baby I'm gonna
+
+
+So what's it gonna take?
+What's it gonna be?
+We can pump it on the boulevard
+Or kick it in the country
+Me and you, you and me
+Money back, guaranteed
+Love you every night in Daytona, I'm gonna
+
+
+Hey, hey (hey, hey)
+Alright (alright)
+Girl I'm digging on hittin' on you tonight
+It ain't a maybe, it's hopin' I, wishin' I wanna
+It's the damn right, hold you tight, baby I'm gonna
+
+
+Love you all night long
+Till the crickets start chirpin'
+Girl I ain’t just flirting, I’m certain
+I’m working on a long term plan
+Gonna be your man
+Gonna put a little rock steady on your hand
+
+
+Hey, hey (hey, hey)
+Alright (alright)
+Girl I'm digging on hittin' on you tonight
+It ain't a maybe, it's hopin' I, wishin' I wanna
+It's the damn right, hold you tight, baby I'm gonna
+
+
+Hey, hey (hey, hey)
+Alright (alright)
+Girl I'm digging on hittin' on you tonight
+It ain't a maybe, it's hopin' I, wishin' I wanna
+It's the damn right, hold you tight, baby I'm gonna
+
+
+Hey, hey (hey, hey)
+Alright (alright)
+Oooh
+Hey, hey (hey, hey)
+Alright (alright)

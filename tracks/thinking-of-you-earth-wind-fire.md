@@ -1,8 +1,6 @@
 ---
 artists:
-- Earth
-- Wind
-- Fire
+- Earth, Wind & Fire
 features: []
 genres: []
 key: thinking-of-you-earth-wind-fire

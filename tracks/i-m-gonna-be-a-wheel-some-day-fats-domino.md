@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-m-gonna-be-a-wheel-some-day-fats-domino
+lyrics_url: https://genius.com/Fats-domino-im-gonna-be-a-wheel-some-day-lyrics
 name: I'm Gonna Be A Wheel Some Day
 rankings:
 - end_date: '1959-08-02'
@@ -59,4 +60,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-10-19'
 ---
+I'm Gonna Be A Wheel Someday Trk 15 2: 01
+Antoine 'Fats' Domino
+(Roy Hayes, Antoine Domino, Dave Bartholomew)
+Session producer: Dave Bartholomew (Imperial records - Lew Chudd)
+Recorded: June 14, 1958 Pop Chart #17 July 27, 1959
+Fats Domino - piano & vocal, Joe Harris - alto sax
+Herb Hardesty & Clarence Hall - tenor sax
+Alvin 'Red Tyler - baritone sax, Ernest Mclean - guitar
+Frank Fields - bass, (The Great) Earl Palmer - drums
+Cosimo Matassa Studio (St. Philip St.) New Orleans, la
+Imperial/Capitol-Emi, 1990 cdp-7-92808-2
 
+(intro instrumental & background vocals)
+
+(Hey!)
+(Hey!)
+
+I'm gonna be a wheel some day
+I'm gonna be somebody
+I'm gonna be a real gone cat
+Then I won't want you
+
+Ev'rything's gonna go my way
+And I won't need nobody
+I'm gonna be a real gone cat
+Then I won't want you
+
+You can cry-i-i-i-i
+You gon' cry-ha-ha-hard
+You be wonderin' why
+I don't look at you
+When I go strollin' by
+
+I'm gonna be a wheel some day
+I'm gonna be somebody
+I'm gonna be a real gone cat
+Then I won't want you
+
+(instrumental & sax)
+
+(Hey!)
+(Hey!)
+
+I'm gonna be a wheel one day
+I'm gonna be somebody
+I'm gonna be a real gone cat
+Then I won't want you
+
+Ev'rything's gonna go my way
+And I won't need nobody
+I'm gonna be a real gone cat
+Then I won't want you
+
+You will cry-i-i-i, alright
+You gon', cry-ha-ha-hard
+You be wonderin' why
+I don't look at you
+When I go strollin' by
+
+I'm gonna be a wheel one day
+I'm gonna be somebody
+I'm gonna be a real gone cat
+Then l won't want you
+
+(instrumental & sax to end)
+
+~

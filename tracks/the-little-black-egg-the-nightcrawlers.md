@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-little-black-egg-the-nightcrawlers
+lyrics_url: https://genius.com/The-nightcrawlers-rock-the-little-black-egg-lyrics
 name: The Little Black Egg
 rankings:
 - end_date: '1967-01-27'
@@ -23,4 +24,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-02-11'
 ---
+I don't care what they say
+I'm gonna keep it anyway
+I won't let them stretch their necks
+To see my little black egg with the little white specks
 
+I found it in a tree just the other day
+Now it's mine all mine, they can't take it away
+
+There comes Mary, there comes Lee
+I'll bet what they want to see
+I won't let them stretch their necks
+To see my little black egg with the little white specks
+
+I found it in a tree just the other day
+And now it's mine all mine, they can't take it away
+
+Oh bother, what can I do ? Little black agg's gonna tell on you
+I won't let them stretch their necks
+To see my little black egg with the little white specks
+I won't let them stretch their necks
+To see my little black egg with the little white specks
+
+My little black egg (multiple x until fade out)

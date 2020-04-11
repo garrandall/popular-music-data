@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: scarborough-fair-sergio-mendes-brasil--66
+lyrics_url: https://genius.com/Sergio-mendes-and-brasil-66-scarborough-fair-lyrics
 name: Scarborough Fair
 rankings:
 - end_date: '1968-11-22'
@@ -44,4 +45,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
 ---
+Are you goin' to Scarborough Fair?
+Parsley, sage, rosemary and thyme
+Remember me to the one who lives there
+He once was a true love of mine
 
+Are you goin' to Scarborough Fair?
+Parsley, sage, rosemary and thyme
+Remember me to the one who lives there
+He once was a true love of mine
+
+Are you goin' to Scarborough Fair?
+Parsley, sage, rosemary and thyme
+Remember me to the one who lives there
+He once was a true love of mine
+
+Are you goin' to Scarborough Fair?
+Parsley, sage, rosemary and thyme
+Remember me to the one who lives there
+He once was a true love of mine
+
+Scarborough Fair
+Scarborough Fair
+Scarborough Fair . .

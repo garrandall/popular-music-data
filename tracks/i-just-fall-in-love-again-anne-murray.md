@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-just-fall-in-love-again-anne-murray
+lyrics_url: https://genius.com/Anne-murray-i-just-fall-in-love-again-lyrics
 name: I Just Fall In Love Again
 rankings:
 - end_date: '1979-02-02'
@@ -71,4 +72,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-05-12'
 ---
+Dreaming, I must be dreaming
+Or am I really lying here with you?
+Baby, you take me in your arms
+And though I'm wide awake, I know my dream is coming true
 
+And, oh, I just fall in love again
+Just one touch and then it happens every time
+There I go, I just fall in love again and when I do
+I can't help myself, I fall in love with you
+
+Magic, it must be magic
+The way I hold you and the night just seems to fly
+Easy for you to take me to a star
+Heaven is that moment when I look into your eyes
+
+And, oh, I just fall in love again
+Just one touch and then it happens every time
+There I go, I just fall in love again and when I do
+I can't help myself, I fall in love with you
+I can't help myself, I fall in love with you

@@ -5,6 +5,7 @@ features:
 - Elisa Fiorillo
 genres: []
 key: who-found-who-jellybean-elisa-fiorillo
+lyrics_url: https://genius.com/Jellybean-who-found-who-lyrics
 name: Who Found Who
 rankings:
 - end_date: '1987-07-17'
@@ -68,4 +69,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-10-17'
 ---
+How come you can't explain it
+The way you're acting recently
+It seems that everything is changing
+'Cause I can tell the way you're treating me
+I believe that you still love me
+But you find it hard to show
 
+Don't throw away the chance
+'Cause it might be your last
+And I won't let you forget
+
+Who
+(Who)
+Who found who
+Does it really matter?
+Who
+(Who)
+Who found who
+
+Look at all the time you've wasted
+And how your life is just a mess
+I took you home to meet my family
+It wasn't meant to be a test
+I wanted you to see devotion
+And feel that you were being loved
+
+Don't throw away this chance
+'Cause it might just be your last
+And I won't let you forget
+
+Who
+(Who)
+Who found who
+Does it really matter?
+Who
+(Who)
+Who found who
+
+Hold me, show me
+Oh, baby, don't fight it
+It's easy, you know
+There's nothing I would rather do
+Then to give my love to only you
+
+I'm holding out my arms to you
+Ooh, baby, don't let me down
+So show me that you love me
+'Cause it doesn't matter now
+
+Who
+(Who)
+Who found who
+Does it really matter?
+Who
+(Who)
+Who found who
+
+Who, who, who
+(Who)
+Who found who
+Does it really matter?
+Who, who
+(Who)
+Who found who, whoa
+
+So hold me in your arms
+And tell me that you're mine
+Don't throw away the chance
+'Cause it might just be your last
+
+Who
+(Who)
+Tell me, who found who
+
+Oh, whoa
+(Who)
+Who found who
+Does it really matter?
+(Who)
+Who found who

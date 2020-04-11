@@ -5,6 +5,7 @@ features:
 - Aaron Neville
 genres: []
 key: all-my-life-linda-ronstadt-aaron-neville
+lyrics_url: https://www.musixmatch.com/lyrics/Linda-Ronstadt-featuring-Aaron-Neville-feat-Aaron-Neville/All-My-Life
 name: All My Life
 rankings:
 - end_date: '1990-02-16'
@@ -68,4 +69,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-05-19'
 ---
+Am I really here in your arms?
+This is just like I dreamed it would be
+I feel like we're frozen in time
+And you're the only one I can see
 
+Hey, I've looked all my life for you
+Now you're here
+Hey, I've spent all my life with you
+All my life
+
+And I never really knew how to love
+I just hoped somehow I'd see
+Oh I ask for a little help from above
+Send that angel down to me
+
+Hey, I've looked all my life for you
+Now you're here
+Hey, I've spent all my life with you
+All my life
+
+I never thought that I could feel a love so tender
+Never thought I could let those feelings show
+But now my heart is on my sleeve
+And this love will never leave
+I know
+I know
+
+Hey, I've looked all my life for you
+And now you're here now you're here
+Hey, I've spent all my life with you
+All my life all my life
+
+Hey, I've looked all my life for you
+And now you're here now you're here
+Hey, I've spent all my life with you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: woman-john-lennon
+lyrics_url: https://genius.com/John-lennon-woman-lyrics
 name: Woman
 rankings:
 - end_date: '1981-01-23'
@@ -87,4 +88,42 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-05-30'
 ---
+(For the other half of the sky)
 
+
+Woman, I can hardly express
+My mixed emotions and my thoughtlessness
+After all, I'm forever in your debt
+And woman, I will try to express
+My inner feelings and thankfulness
+For showing me the meaning of success
+
+
+Ooh, well, well
+Doo, doo, doo, doo, doo
+Ooh, well, well
+Doo, doo, doo, doo, doo
+
+
+Woman, I know you understand
+The little child inside of the man
+Please remember my life is in your hands
+And woman hold me close to your heart
+However distant don't keep us apart
+After all it is written in the stars
+
+
+
+
+Woman please let me explain
+I never meant to cause you sorrow or pain
+So let me tell you again and again and again
+
+
+I love you, yeah, yeah
+Now and forever
+I love you, yeah, yeah
+Now and forever
+I love you, yeah, yeah
+Now and forever
+I love you, yeah, yeah

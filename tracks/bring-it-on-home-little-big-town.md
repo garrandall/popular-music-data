@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bring-it-on-home-little-big-town
+lyrics_url: https://genius.com/Little-big-town-bring-it-on-home-lyrics
 name: Bring It On Home
 rankings:
 - end_date: '2006-06-16'
@@ -79,4 +80,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-10-07'
 ---
+You got someone here wants to make it alright
+Someone who loves you more than life right here
+You got willing arms that'll hold you tight
+A hand to lead you on through the night right here
+I know your heart can get all tangled up inside
+But don't you keep it to yourself
 
+
+When your long day is over
+And you can barely drag your feet
+The weight of the world is on your shoulders
+I know what you need
+Bring it on home to me
+
+
+You know I know you like the back of my hand
+But did you know I'm going to do all that I can right here
+I'm going to lie with you till you fall asleep
+When the morning comes I'm still going to be right here (yes I am)
+So take your worries and just drop them at the door
+Baby leave it all behind
+
+
+
+
+Baby let me be your safe harbor
+Don't let the water come and carry you away
+
+
+
+
+You got someone here wants to make it alright
+Someone who loves you more than life right here

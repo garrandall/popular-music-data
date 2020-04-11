@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: dancing-in-the-street-martha-the-vandellas
+lyrics_url: https://genius.com/Martha-reeves-and-the-vandellas-dancing-in-the-street-lyrics
 name: Dancing In The Street
 rankings:
 - end_date: '1964-08-28'
@@ -64,4 +65,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
 ---
+Calling out around the world
+Are you ready for a brand new beat
+Summer's here
+And the time is right
+For dancing in the street
 
+They're dancing in Chicago
+Down in New Orleans
+Up in New York City
+
+
+All we need is music
+Sweet music
+There'll be music everywhere
+
+There'll be swinging
+Swaying
+And records playing
+Dancing in the street
+
+
+Oh
+It doesn't matter what you wear
+Just as long
+As you are there
+
+So come on
+Every guy
+Grab a girl
+Everywhere around the world
+They'll be dancing
+They're dancing in the street
+
+
+It's just an invitation
+Across the nation
+A chance for folks to meet
+
+There'll be laughing
+Singing
+Music swinging
+Dancing in the street
+
+Philadelphia, PA
+Baltimore and D.C. now
+Can't forget the Motor City
+
+
+All we need is music
+Sweet music
+There'll be music everywhere
+
+There'll be swinging
+Swaying
+And records playing
+Dancing in the street
+
+
+Oh
+It doesn't matter what you wear
+Just as long
+As you are there
+
+So, come on
+Every guy
+Grab a girl
+Everywhere
+Around the world
+Dancing
+They're dancing in the street
+
+Way down in L.A
+Every day
+(Dancing in the street)
+Across the ocean blue
+Me and you
+We're dancing in the street
+(Dancing in the street)

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-know-anybody-else-black-box
+lyrics_url: https://genius.com/Black-box-i-dont-know-anybody-else-lyrics
 name: I Don't Know Anybody Else
 rankings:
 - end_date: '1990-12-14'
@@ -63,4 +64,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-03-09'
 ---
+Tell me what you want and nothing more...
 
+I don't know
+I don't know
+I don't know anybody else
+
+I don't know
+I don't know
+I don't know anybody else
+
+I don't know
+I don't know
+I don't know anybody else
+
+I don't know
+I don't know
+I don't know anybody else
+
+I'll tell you what I know so well
+Your love is standing tall and swell
+Why! Come on out and hear him say
+Gonna get you now! Gonna get to you!
+We're livin' by this inspiration
+
+Come on, come on, come on, come on, come on!
+You 'n' nobody else
+Come on, come on, come on, come on, come on!
+Just walk this way
+Come on, come on, come on, come on, come on!
+You 'n' nobody else
+I wanna take you! So close to you!
+
+Just gotta touch me
+Just gotta touch me, touch me
+Just gotta touch me
+Just gotta touch me, touch me
+
+Can't you say it to my eyes, to my face?
+There's no need to wait
+Gonna get you now! Gonna get to you!
+We're livin' by this inspiration
+
+Come on, come on, come on, come on, come on!
+You 'n' nobody else
+Come on, come on, come on, come on, come on!
+Just walk this way
+Come on, come on, come on, come on, come on!
+You 'n' nobody else
+I wanna take you! So close to you!
+
+Just gotta touch me
+Just gotta touch me, touch me
+Just gotta touch me
+Just gotta touch me, touch me
+
+Just gotta touch me
+Just gotta touch me, touch me
+Just gotta touch me
+Just gotta touch me, touch me
+
+I don't know
+I don't know
+I don't know anybody else
+
+I don't know
+I don't know
+I don't know anybody else
+
+I don't know
+I don't know
+I don't know anybody else
+
+I don't know
+I don't know
+I don't know anybody else
+
+Come on, come on, come on, come on
+Come on, come on

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: under-your-spell-again-johnny-rivers
+lyrics_url: https://genius.com/Johnny-rivers-under-your-spell-again-lyrics
 name: Under Your Spell Again
 rankings:
 - end_date: '1965-12-24'
@@ -39,4 +40,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
 ---
+You got me under your spell again
+Saying those things again
+Making me believe that you're just mine
+You got me dreaming those dreams again
+Thinking those things again
+I gotta take you back just one more time
 
+I swore the last time that you let me down
+That I wouldn't see you if you came around
+But I can't tell my heart what's right or wrong
+And I've been so lonely since you've been gone
+
+You got me under your spell again
+Saying those things again
+Making me believe that you're just mine
+You got me dreaming those dreams again
+Thinking those things again
+I gotta take you back just one more time
+
+Well, every body tells me that I'm a fool
+That I never should have put my faith in you
+And way down deep inside I guess I know it's true
+But no one else can make me feel the way you do
+
+You got me under your spell again
+Saying those things again
+Making me believe that you're just mine
+You got me dreaming those dreams again
+Thinking those things again
+I gotta take you back just one more time

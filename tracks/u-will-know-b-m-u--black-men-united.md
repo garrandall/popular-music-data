@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: u-will-know-b-m-u--black-men-united
+lyrics_url: https://www.musixmatch.com/lyrics/Jason-s-Lyric-The-Original-Motion-Picture-Soundtrack-feat-B-M-U-Black-Men-United/U-Will-Know
 name: U Will Know
 rankings:
 - end_date: '1994-10-14'
@@ -87,4 +88,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-02-18'
 ---
+Mmm... hmm... hmm... mmm... hmm...
+Yeah, yeah
 
+When I was a young boy
+I had visions of fame
+They were wild and they were free
+They were blessed with my name
+
+And then I grew older
+And I saw what's to see
+That the world is full of pain
+And my dreams they left me
+
+And then I got stronger
+Inside of the pain
+That's when I picked up the pieces
+And I regained my name
+
+And I fought hard, y'all
+To call by my place
+And right now you could ask me
+And it all seems in vain
+
+Your dreams ain't easy
+You just stick by your plan
+Go from boys to men
+You gotta act like a man
+ When it gets hard, y'all
+Got what you know
+And my background sing
+
+You will know , yeah... eah...
+
+You will know, you will know
+
+And I know you're cryin'
+'Cause it's all in his vein
+And the things you want you can't have
+It just all went away
+
+But life ain't over
+Hoo... hoo...
+Just grab the winds and make demands
+And the vibe will take you far
+
+Your dreams ain't easy
+Stick by your plan, boy
+Go from boys to men
+I know it ain't easy
+ it gets hard sometime
+Yes, it does
+Stand up tall, don't you fall, and you will know, yeah
+
+Ah... ah... ah... (You will know)
+Hey, there's no doubt about it
+Hey, you will know
+
+You will know
+Hey... ey... hey...
+You will know, yeah
+ Hey...
+
+Your dreams ain't easy
+Stick by your plans
+Boys to men
+You must act like a man
+ It ain't hard, yeah
+Grab what you know
+Oh... oh... oh...
+
+Hey... hey... yeah
+Boys to men
+I know it ain't easy
+Yeah...
+Come on D and sing this song
+
+Yeah...
+You will know
+
+Hey...

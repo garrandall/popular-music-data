@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-julie-comes-around-the-cuff-links
+lyrics_url: https://genius.com/The-cuff-links-when-julie-comes-around-lyrics
 name: When Julie Comes Around
 rankings:
 - end_date: '1969-12-19'
@@ -43,4 +44,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-07'
 ---
+A poem with no rhyme
+A clock without time
+A ship without sails
+Just drifting on the water
+That's just how I feel
+Whenever she's gone
+That's just how I feel
+My life's unreal, but I go on (and on, and on)
 
+I wait till Julie comes around
+And sings a happy song of summer
+And lifts my spirit up
+And fills my foolish mind with wonder
+She smiles a gentle smile
+And suddenly I get that feeling, and then
+I'm inside out with love
+'Cause Julie's come around again
+
+She's just like a bird
+She follows the sun
+She spread out her wings
+And once again she leaves me
+It's always the same
+I'm broken in two
+But after a while
+I always know what I must do
+
+I wait till Julie comes around
+And sings a happy song of summer
+And lifts my spirit up
+And fills my foolish mind with wonder
+She smiles a gentle smile
+And suddenly I get that feeling, and then
+I'm inside out with love
+'Cause Julie's come around again
+
+When Julie comes around
+And sings a happy song of summer
+And lifts my spirit up
+And fills my foolish mind with wonder
+When Julie comes around

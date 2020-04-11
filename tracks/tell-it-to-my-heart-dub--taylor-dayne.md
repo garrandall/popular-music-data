@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tell-it-to-my-heart-dub--taylor-dayne
+lyrics_url: https://genius.com/Taylor-dayne-tell-it-to-my-heart-lyrics
 name: Tell It To My Heart(Dub)
 rankings:
 - end_date: '1987-10-16'
@@ -107,4 +108,81 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-03-26'
 ---
+I feel the night explode
+When we're together
+Emotion overload
+In the heat of pleasure
 
+
+Take me I'm yours into your arms
+Never let me go
+Tonight I really need to know
+
+
+Tell it to my heart
+Tell me I'm the only one
+Is this really love or just a game
+Tell it to my heart
+I can feel my body rock
+Every time you call my name
+
+
+The passion's so complete
+It's never ending
+As long as I receive
+This message you're sending
+
+
+Body to body, soul to soul
+Always feel you near
+So say the words I long to hear
+
+
+Tell it to my heart
+Tell me I'm the only one
+Is this really love or just a game
+Tell it to my heart
+I can feel my body rock
+Every time you call my name
+
+
+Love, love on the run
+Breaking us down
+Though we keep holding on
+I don't want to lose
+No, I can't let you go
+
+
+Tell it to my heart
+Tell me I'm the only one
+Is this really love or just a game
+Tell it to my heart
+I can feel my body rock
+Every time you call my name
+
+
+Tell it to my heart
+Tell me from the stars
+Tell it to my heart
+Tell it to my heart
+Tell me from the stars
+Tell it to my heart
+Never make it stop
+Oh take it to the heart
+Oh no no ah ah
+
+
+Tell it to my heart
+Tell me I'm the only one
+Is this really love or just a game
+Tell it to my heart
+I can feel my body rock
+Every time you call my name
+
+
+Tell it to my heart
+Tell me I'm the only one
+Is this really love or just a game
+Tell it to my heart
+I can feel my body rock
+Every time you call my name

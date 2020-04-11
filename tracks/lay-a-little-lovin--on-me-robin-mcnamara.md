@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lay-a-little-lovin--on-me-robin-mcnamara
+lyrics_url: https://genius.com/Robin-mcnamara-lay-a-little-lovin-on-me-lyrics
 name: Lay A Little Lovin' On Me
 rankings:
 - end_date: '1970-06-05'
@@ -67,4 +68,73 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-09-05'
 ---
+Can't you see that I am all for your love
+Now, Now -
+Can't you see
+Can't you see
+How much I need some more love
+Baby
+Can't you see
+Can't you see
+Ever since we kissed that night
+Ever since I held you tight
+I just don't want nobody else
+So put your lips on mine
+Leave them there 'til the morning time
+Lord don't leave me by myself
 
+Lay a little lovin' on me
+Lay a little lovin' on me
+Honey doggone it
+I depend upon it
+So lay a little lovin' on me
+You're gonna want me Babe
+Lay a little lovin' on me
+Lay a little lovin' on me
+Honey doggone it
+I depend upon it
+So lay a little lovin' on me
+
+Everyday is not enough of your love
+Everyday
+I need the day and every nighttime too
+Everyday
+Everyday
+Don't you know what I've got inside
+A love that's been denied
+A love that's growing day by day
+You're such a pretty child
+You're about to drive me wild
+Come on Babe
+Now what you say
+
+Lay a little lovin' on me
+Lay a little lovin' on me
+Honey doggone it
+I depend upon it
+So lay a little lovin' on me
+Lay a little lovin' on me
+Lay a little lovin' on me
+You're gonna want me Babe
+So lay a little lovin' on me
+Honey doggone it
+I depend upon it
+So lay a little lovin' on me
+
+Honey I want you
+Baby I need you
+I Love You
+I Love You
+
+Lay a little lovin' on me
+Lay a little lovin' on me
+Honey doggone it
+I depend upon it
+So lay a little lovin' on me
+Lay a little lovin' on me
+Lay a little lovin' on me
+You're gonna want me Babe
+So lay a little lovin' on me
+Honey doggone it
+I depend upon it
+So lay a little lovin' on me...

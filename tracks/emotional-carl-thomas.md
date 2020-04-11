@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: emotional-carl-thomas
+lyrics_url: https://genius.com/Carl-thomas-emotional-lyrics
 name: Emotional
 rankings:
 - end_date: '2000-12-01'
@@ -87,4 +88,83 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-04-07'
 ---
+I knew you when
+I had a friend
+Very deeply
+Love lived within
+But somehow we got loose
+From what was oh so tight
+Somewhere we went wrong
+When we were oh so right
 
+
+What's a man to do when he just can't take no more?
+What's a man to do?
+What am I to do when my heart leads me to the door?
+Now I've tried and tried again
+But now this is the end
+Tell me what's the use of holding on
+If we can't be friends
+
+
+I'm emotional
+And I can't let go
+I am trying to hold on to you
+(I'm trying to hold on to you)
+Though it hurts me so
+Gotta let you know
+That the love we once shared now is through
+Say goodbye to you
+
+
+You seem to hurt me purposely
+I didn't understand it
+Oh girl, why me?
+I had no choice
+What was best for us
+Was to terminate our love and be free
+
+
+What's a man to do when he just can't take no more?
+Oh, what's a man to do?
+What am I to do when my heart leads me to the door?
+Now we've tried and tried again
+But now this is the end
+Tell me what's the use of holding on
+If we can't be friends
+
+
+I'm emotional
+And I can't let go
+I am trying to hold on to you
+Though it hurts me so
+Gotta let you know
+That the love we once shared now is through
+Say goodbye to you
+
+
+What's a man to do when he just can't take no more?
+What's a man to do?
+What am I to do when my heart leads me to the door?
+Now we've tried and tried again
+But now this is the end
+Tell me what's the use of holding on
+If we can't be friends
+
+
+I'm emotional
+And I can't let go
+I am trying to hold on to you (I'm trying, I'm trying)
+Though it hurts me so
+Gotta let you know (Gotta let you go, gotta let you know)
+That the love we once shared now is through
+Say goodbye to you
+
+I'm emotional (How emotional)
+And I can't let go
+I am trying to hold on to you
+(I can't stop crying, my heart is slowly dying)
+Though it hurts me so
+Gotta let you know
+That the love we once shared now is through
+(The love that we once shared, you know it's through)

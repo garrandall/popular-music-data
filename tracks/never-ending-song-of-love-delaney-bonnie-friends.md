@@ -6,6 +6,7 @@ artists:
 features: []
 genres: []
 key: never-ending-song-of-love-delaney-bonnie-friends
+lyrics_url: https://www.musixmatch.com/lyrics/Delaney-Bonnie/Never-Ending-Song-of-Love
 name: Never Ending Song Of Love
 rankings:
 - end_date: '1971-05-28'
@@ -69,4 +70,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-08-28'
 ---
+I've got a never ending love for you
+From now on that's all I wanna do
+From the first time we met I knew
+I'd have never ending love for you
 
+I've got a never ending love for you
+From now on that's all I wanna do
+From the first time we met I knew
+I'd have a never ending love for you
+
+After all this time of being alone
+We can love one another
+Feel for each other
+From now on
+It's so good I can hardly stand it
+
+Never ending love for you
+From now on that's all I wanna do
+From the first time we met I knew
+I'd sing my never ending song, love you
+
+Do do do do do do do do do do do do do do do...
+
+After all this time of being alone
+We can love one another
+Live for each other
+From now on
+It's so good I can hardly stand it
+
+Never ending love for you
+From now on that's all I wanna do
+From the first we met I knew
+I'd sing my never ending song, love you
+
+I've got a never ending love for you
+From now on that's all I wanna do
+From the first time we met

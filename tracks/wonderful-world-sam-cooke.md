@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wonderful-world-sam-cooke
+lyrics_url: https://www.musixmatch.com/lyrics/Sam-Cooke/What-a-Wonderful-World
 name: Wonderful World
 rankings:
 - end_date: '1960-05-15'
@@ -67,4 +68,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-08-15'
 ---
+Don't know much about history
+Don't know much biology
+Don't know much about a science book
+Don't know much about the french I took
+But I do know that I love you
+Snd I know that if you love me, too
+What a wonderful world this would be
 
+Don't know much about geography
+Don't know much trigonometry
+Don't know much about algebra
+Don't know what a slide rule is for
+But I know that one and one is two
+And if this one could be with you
+What a wonderful world this would be.
+
+I don't claim to be an 'A' student
+But I'm tryin' to be
+For maybe by being an 'A'-student, baby
+I can win your love for me
+
+Don't know much about history
+Don't know much biology
+Don't know much about a science book
+Don't know much about the french I took
+But I do know that I love you
+And I know that if you love me, too
+What a wonderful world this would be (La, ta, ta, tata, ta, ta)
+
+History (Hmmmm)
+Biology (Woah, la, ta, ta, tata, ta, ta)
+Science book (Hmmmm)
+French I took (Yeah)
+But I do know that I love you,
+And I know that if you love me, too
+What a wonderful world this would be

@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: for-your-love-peaches-herb
+lyrics_url: https://genius.com/Peaches-and-herb-for-your-love-lyrics
 name: For Your Love
 rankings:
 - end_date: '1967-06-30'
@@ -40,4 +41,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
 ---
+For your love, I would do anything
+I would do anything, for your love, oh
+For your kiss, baby, baby, I would go anywhere
+I would go anywhere, for your kiss
 
+More foolish I grow, with each heart beat
+But we, we all get foolish and that's why I repeat
+For your love, I would do anything
+I would do anything, for your love, love

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-be-cruel-cheap-trick
+lyrics_url: https://genius.com/Cheap-trick-dont-be-cruel-lyrics
 name: Don't Be Cruel
 rankings:
 - end_date: '1988-08-05'
@@ -75,4 +76,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-11-19'
 ---
+Well you know I can be found
+Sitting all alone
+If you can't come around
+At least please telephone
+But don't be cruel
+To a heart that's true
 
+Baby, if I made you mad
+For something I might have said
+Please forget the past
+The future's bright ahead
+But don't be cruel
+To a heart that's true
+I don't want no other love
+Baby, it's just you I'm thinkin' of
+
+Don't stop thinkin' of me
+Don't make me feel this way
+Come on over and love me
+You know I want you to stay
+But don't be cruel
+To a heart that's true
+
+Let's walk down to the preacher
+Let's say "Hey, I do"
+And then I know you'll want me
+And you'll know I want you too
+
+But don't be cruel
+To a heart that's true
+I don't want no other love
+Baby, it's just you I'm thinkin' of
+
+Don't be cruel
+To a heart that's true
+Don't be cruel
+To a heart that's true
+Don't need no other love
+Baby, it's just you I'm thinkin' of
+
+Don't stop thinkin' of me
+Don't make me feel this way
+Come on over and love me
+You know I want you to stay
+But don't be cruel
+To a heart that's true
+
+Why should we be apart?
+Baby, you know I love you, cross my heart
+
+Don't be cruel
+To a heart that's true
+Don't be cruel
+To a heart that's true
+Don't be cruel
+To a heart that's true
+Don't be cruel
+To a heart that's true
+Don't want no other love
+Baby, it's just you I'm thinkin' of

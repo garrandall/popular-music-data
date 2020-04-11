@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lonely-eyes-robert-john
+lyrics_url: https://www.musixmatch.com/lyrics/Robert-John/Lonely-Eyes
 name: Lonely Eyes
 rankings:
 - end_date: '1979-12-14'
@@ -51,4 +52,70 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-02-16'
 ---
+Across the crowded room
+See her sitting all alone
+Looking like an angel
+With no place to call home
 
+Stiking up a conversation
+They begin by trading names
+She begins to smile
+And they begin to play the game
+
+She's heard every line
+They're a dozen for a dime
+But tonight she's gonna listen
+One more time
+
+Lonely eyes say she's willing
+Lonely eyes show her feelings
+She's seen too many nights
+Too many lovers
+Maybe tonight won't be
+Like all the others
+
+Sad lines on her face
+Show a lonesome midnight queen
+Nothing left to hope for
+Nothing left to dream
+
+And lately all her lovers
+Have begun to look the same
+Names that have no faces
+Faces without names
+
+She's heard every line
+They're a dozen for a dime
+But tonight she's gonna listen
+One more time
+
+Lonely eyes say she's willing
+Lonely eyes show her feelings
+She's seen too many nights
+Too many lovers
+Maybe tonight won't be
+Like all the others
+
+It's hard to face the morning
+With a stranger by your side
+But late at night it's easier
+To overcome her pride
+
+So she tells him that she loves him
+She says she knew it from the start
+But they both know she's lying
+It's not coming from the heart
+
+Lonely eyes say she's willing
+Lonely eyes show her feelings
+She's seen too many nights
+Too many lovers
+Maybe tonight won't be
+Like all the others
+
+Lonely eyes say she's willing
+Lonely eyes show her feelings
+Lonely eyes say she's willing
+Lonely eyes show her feelings
+Lonely eyes say she's willing
+Lonely eyes show her feelings

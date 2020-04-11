@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: cry-waterfront
+lyrics_url: https://genius.com/Waterfront-cry-lyrics
 name: Cry
 rankings:
 - end_date: '1989-04-14'
@@ -75,4 +76,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-07-29'
 ---
+Please don't apologize
+Just let me wipe the tears away
+Don't mean to act surprised
+If it's all right I'd like to stay, yeah
 
+I know that you are not a child
+But there's one thing that I love about you
+Your style
+Cry, please don't cry
+Cry, please don't cry
+
+I know you're just sixteen
+But looking all of twenty-one
+(Twenty-one, you'll be married with a gun)
+Daddy would go to jail for you
+If he thought you were having the wrong sort of fun
+
+I know that you are not a child
+But there's just one thing I love about you
+Your style
+Cry, please don't cry
+Cry, please don't cry
+
+The moment that you've gone
+You know that they will talk
+But they're wrong, and it makes me happy
+Even when you've gone, you know I'll carry on
+'Cos I'm strong, and it makes me happy
+
+I know that you are not a child
+But there's one thing that I love about you
+Your style
+Don't cry, please don't cry
+Cry, please don't cry

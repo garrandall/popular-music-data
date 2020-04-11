@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: remote-control-the-reddings
+lyrics_url: https://www.musixmatch.com/lyrics/The-Reddings/Remote-Control
 name: Remote Control
 rankings:
 - end_date: '1980-11-21'
@@ -59,4 +60,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-07'
 ---
+Transistor connector, solid state invention
+Guaranteed to make you move
+So much coming from this little bitty box
+Gets your mind into a groove.
 
+News, music, commercials too
+Everything from jazz to pop
+Night, day, or in between
+Seems like it will never stop
+
+Here comes the music,
+Push button to your soul
+How do you use it
+Turn on your radio.
+
+Remote Control (Theres a good, good feeling on your radio)
+Your Radio (It's coming at your body, let it take control)
+Remote Control (Theres a good, good feeling on your radio)
+Let it take control (It's coming at your body, let it take control), Ooh
+
+Everybody's got one, some have two or three
+Some wear head phones on the street
+Car stops at a stop light, if you check it out
+Driver's rocking to the beat
+
+Games, weather, and recipes
+It's about as plain as day
+Young, old, they all agree
+Radio is here to stay, Yeah
+
+Here comes the music,
+Push button to your soul
+How do you use it
+Turn on your radio.
+
+Remote Control (Theres a good, good feeling on your radio)
+Your Radio (It's coming at your body, let it take control)
+Remote Control (Theres a good, good feeling on your radio)
+Let it take control (It's coming at your body, let it take control)
+
+Here comes the music,
+Push button to your soul
+How do you use it
+Turn on your radio.
+
+Remote Control (Theres a good, good feeling on your radio)
+Your Radio (It's coming at your body, let it take control)
+Remote Control (Theres a good, good feeling on your radio)
+Let it take control (It's coming at your body, let it take control)

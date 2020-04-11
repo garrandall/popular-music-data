@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: la-do-dada-dale-hawkins
+lyrics_url: https://www.musixmatch.com/lyrics/Dale-Hawkins/La-Do-Dada
 name: La-Do-Dada
 rankings:
 - end_date: '1958-09-07'
@@ -55,4 +56,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-17'
 ---
+La-do-da-do-dada
+La-da-do-dada
+La-do-da-do-dada
+La-da-do-dada
+La-do-da-do-dada
+La-da-do-dada
 
+You are the one
+Who drives me crazy
+La-do-da-do-dada
+La-da-do-dada
+
+You never say yes or no
+But only maybe
+La-do-da-do-dada
+La-da-do-dada
+
+I ask if you love me
+And here's what you say
+La-do-da-do-dada
+La-da-do-dada
+
+Come again and ask me
+Some other day
+La-do-da-do-dada
+La-da-do-dada
+
+Ah, ah, ah
+Ah, ah, ah
+
+La-do-da-do-dada
+La-da-do-dada
+La-do-da-do-dada
+La-da-do-dada
+La-do-da-do-dada
+La-da-do-dada
+
+You mean more to me
+Than all the world
+La-do-da-do-dada
+La-da-do-dada
+
+Won't you say yes
+You'll be my girl
+La-do-da-do-dada
+La-da-do-dada
+
+Ah, ah, ah...

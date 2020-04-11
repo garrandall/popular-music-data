@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: only-sixteen-sam-cooke
+lyrics_url: https://genius.com/Sam-cooke-only-sixteen-lyrics
 name: Only Sixteen
 rankings:
 - end_date: '1959-06-14'
@@ -47,4 +48,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-08-10'
 ---
+She was only sixteen, only sixteen
+But I loved her so
+She was too young to fall in love
+And I was too young to know
 
+We'd laugh and we'd sing
+And do the little things
+That made my heart glow
+But she was too young to fall in love
+And I was too young to know
+
+Why did I give my heart so fast
+It never will happen again
+But I was a mere lad of sixteen
+I've aged a year since then
+
+She was only sixteen, only sixteen
+With eyes that would glow
+But she was too young to fall in love
+And I was too young to know
+
+(But why did you give your heart so fast?)
+Boy, it never will happen again
+(But you were a mere lad of sixteen)
+I've aged a year since then
+
+She was only sixteen, only sixteen
+With eyes that would glow
+But she was too young to fall in love
+And I was too young to know
+She was too young to fall in love
+And I was too young to know

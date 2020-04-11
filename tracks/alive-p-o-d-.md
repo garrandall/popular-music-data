@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: alive-p-o-d-
+lyrics_url: https://genius.com/Pod-alive-lyrics
 name: Alive
 rankings:
 - end_date: '2001-11-09'
@@ -87,4 +88,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-03-16'
 ---
+Every day is a new day
+I'm thankful for every breath I take
+I won't take it for granted (I won't take it for granted)
+So I learn from my mistakes
+It's beyond my control sometimes it's best to let go
+Whatever happens in this lifetime
+So I trust in love (So I trust in love)
+You have given me peace of mind
 
+I, I feel so alive
+For the very first time
+And I can't deny you
+I feel so alive
+And I, I feel so alive (so alive)
+For the very first time
+And I think I can fly
+
+Sunshine upon my face (Sunshine upon my face)
+A new song for me to sing
+I tell this world how I feel inside (Tell the world how I feel inside)
+Even though it might cost me everything
+Now that I know this all beyond my control
+Cause I could never turn my back away
+Now that I see you (Now that I see you)
+I can never look away
+
+I, I feel so alive
+For the very first time
+I can't deny you
+I feel so alive
+I, I feel so alive (I feel so alive)
+For the very first time (For the very first time)
+And I think I can fly
+
+And now that I know you
+I could never turn my back away
+And now that I see you
+I could never look away
+And now that I know you
+I could never turn my back away
+And now that I see you
+I believe no matter what they say
+
+I, I feel so alive
+For the very first time
+I can't deny you
+I feel so alive
+I, I feel so alive (I feel so alive)
+For the very first time (For the very first time)
+And I think I can fly
+I, I feel so alive (I feel so alive)
+For the very first time (For the very first time)
+For the very first time
+And I think I can fly
+I, I feel so alive (I feel so alive)
+For the very first time (For the very first time)
+And I think I can fly
+And I think I can fly
+And I think I can fly
+And I think I can fly

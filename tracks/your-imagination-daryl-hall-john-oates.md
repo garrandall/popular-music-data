@@ -1,9 +1,10 @@
 ---
 artists:
-- Daryl Hall John Oates
+- Hall & Oates
 features: []
 genres: []
 key: your-imagination-daryl-hall-john-oates
+lyrics_url: https://www.azlyrics.com/lyrics/halloates/yourimagination.html
 name: Your Imagination
 rankings:
 - end_date: '1982-06-25'
@@ -51,4 +52,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-08-28'
 ---
+I remember when I used to be the jealous kind
+I got over it, now you're taking over my old line
 
+You're caring too much about what I say
+You're wondering too much about what I do
+And baby, Your Imagination
+Imagination's got the best of you
+
+I ain't doin' nothing that you could really say was wrong
+Just one oversight and no that didn't last too long
+
+Listen, you're caring too much about what I say
+You're wondering too much about what I do
+And baby, Your Imagination
+Imagination's got the best of you
+
+Don't know what you're looking for
+What's this thing about "true blue"
+You know I ain't no danger boy
+You're the one I like to touch, touch you, you
+When the mood is right, change the light and the moment's gone
+Better turn around, `cause the light doesn't last too long
+
+You're caring too much about what I say
+You're wondering too much about what I do
+And baby, Your Imagination
+Imagination's got the best of you
+Imagination, Your Imagination
+Imagination, Use Your Imagination.

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: slipping-away-dave-edmunds
+lyrics_url: https://genius.com/Dave-edmunds-slipping-away-lyrics
 name: Slipping Away
 rankings:
 - end_date: '1983-05-20'
@@ -67,4 +68,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-08-20'
 ---
+I can feel you slipping away from me
+A little bit further now every day
+I'm holding on, but I can't believe
+This is how you want it to be
 
+Oh, you're slipping away
+Oh, you're slipping away
+
+It feels like walking down a long, dark road
+You never talk to me the way you did before
+You ride through the city with your head held high
+And all I can do is watch you go by
+
+Oh, you're slipping away
+Oh, you're slipping away
+
+I'm gonna give it all I've got to give
+I've got to hold on, see what tomorrow brings
+You're slipping away, but give me one more try
+One more chance to wipe these tears from my eyes
+You're slipping away
+Oh, you're slipping away

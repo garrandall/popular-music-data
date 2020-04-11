@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: mighty-high-mighty-clouds-of-joy
+lyrics_url: https://genius.com/The-mighty-clouds-of-joy-mighty-high-lyrics
 name: Mighty High
 rankings:
 - end_date: '1976-02-27'
@@ -47,4 +48,87 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-04-24'
 ---
+Take a load off your mind
+Ride the mighty glory
+Listen to my story
+Ride the mighty high
 
+Take a load off your mind
+Ride the mighty glory
+Listen to my story
+Ride the mighty high
+
+Take a load off your feet
+Hear what I'm saying
+Hear what I'm saying
+It will set your mind at ease
+
+I was just a man
+A lonely man indeed
+God took all my troubles
+Yes He did, He set me free
+
+Take a load off your mind
+Ride the mighty glory
+Listen to my story
+Ride the mighty high
+
+Take a load off your mind
+Ride the mighty glory
+Listen to my story
+Ride the mighty high
+
+He led me to discover
+The man that I could be
+Let Him be your leader
+He's so good He'll set you free
+
+Listen to my story
+Listen to my plea
+Let Him be your leader
+He will end your misery
+
+Take a load off your mind
+Ride the mighty glory
+Listen to my story
+Ride the mighty high
+
+Take a load off your mind
+Ride the mighty glory
+Listen to my story
+Ride the mighty high
+
+Come on and ride the mighty high
+Come on and ride the mighty high
+Come on and ride the mighty high
+Come on and ride the mighty high
+
+Take a load off your mind
+Ride the mighty glory
+Listen to my story
+Ride the mighty high
+
+Take a load off your mind
+Ride the mighty glory
+Listen to my story
+Ride the mighty high
+
+Come on and ride the mighty high
+Come on and ride the mighty high
+Come on and ride the mighty high
+Come on and ride the mighty high
+
+Take a load off your mind
+Ride the mighty glory
+Listen to my story
+Ride the mighty high
+
+Take a load off your mind
+Ride the mighty glory
+Listen to my story
+Ride the mighty high
+
+Come on and ride the mighty high
+Come on and ride the mighty high
+Come on and ride the mighty high
+Come on and ride the mighty high

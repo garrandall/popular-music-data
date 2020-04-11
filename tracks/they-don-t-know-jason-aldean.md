@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: they-don-t-know-jason-aldean
+lyrics_url: https://genius.com/Jason-aldean-they-dont-know-lyrics
 name: They Don't Know
 rankings:
 - end_date: '2017-08-25'
@@ -55,4 +56,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-11-04'
 ---
+They call us a two lane just passing by slow down town
+Yeah they say what's there to do when you ain't got nothin' around
+Just a few street lights, speed limit signs that all say 25
+But those folks ain't lived in our lives
 
+
+They ain't seen the blood sweat and tears
+It took to live their dreams
+When everything's on the line
+Ain't just another field, just another farm
+Naw, it's the ground we grew up on
+They think it's a middle of nowhere place where we take it slow
+Aw, but they don't know
+
+
+All they see is tractors, barbwire and tall green grass
+Naw they don't see the years spent working, busting their ass
+How they pray for rain
+They don't know a thing
+About what it takes
+Livin' this way
+
+
+They ain't seen the blood sweat and tears
+It took to live their dreams
+When everything's on the line
+Ain't just another field, just another farm
+Naw, it's the ground we grew up on
+They think it's a middle of nowhere place where we take it slow
+Aw, but they don't know
+No, they don't know
+
+
+They call us a two lane just passing by slow down town
+Yeah they say what's there to do when you ain't got nothin' around
+
+
+They ain't seen the blood sweat and tears
+It took to live their dreams
+When everything's on the line
+Ain't just another field, just another farm
+Naw, it's the ground we grew up on
+They think it's a middle of nowhere place where we take it slow
+Aw, but they don't know
+No, they don't know

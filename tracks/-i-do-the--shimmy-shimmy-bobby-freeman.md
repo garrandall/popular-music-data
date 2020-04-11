@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -i-do-the--shimmy-shimmy-bobby-freeman
+lyrics_url: https://genius.com/Bobby-freeman-i-do-the-shimmy-shimmy-lyrics
 name: (I Do The) Shimmy Shimmy
 rankings:
 - end_date: '1960-08-21'
@@ -59,4 +60,96 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-11-07'
 ---
-
+Shimmy shimmy, to and fro
+Shimmy shimmy, to and fro
+Shimmy shimmy, to and fro
+Shimmy shimmy, to and fro
+Shimmy shimmy, shimmy shimmy
+Shimmy shimmy, to and fro
+I do the shimmy
+When I walk down the street
+Cause that good music
+Gives me the creeps
+I do the shimmy
+Even when I walk
+My baby does the shimmy
+When she talks that talk
+Shimmy shimmy
+Ah, ooh, wa, wee
+You can do the shimmy
+By watching me
+The shimmy shimmy
+Is the dance of today
+The shimmy shimmy
+Is here to stay
+The shimmy shimmy's
+For old folks too
+You go backwards and forwards
+Then you're in the groove
+Shimmy shimmy
+Ooh, my soul
+The shimmy shimmy
+Will never grow old
+I did the shimmy
+With Betty Lou
+She sure can shimmy
+With her brand new shoes
+I did the shimmy out on a date
+My girl looked at me and said
+You're staying in taste
+Shimmy shimmy
+Ah, ooh, wa, wee
+The shimmy'll go down
+In history, hey
+The shimmy shimmy
+Is the dance of today
+The shimmy shimmy
+Is here to stay
+The shimmy shimmy's
+For old folks too
+You go backwards and forwards
+Then you're in the groove
+Shimmy shimmy
+Ooh, my soul
+The shimmy shimmy
+Will never grow old
+I did the shimmy
+With Betty Lou
+She sure can shimmy
+With her brand new shoes
+The shimmy shimmy out on a date
+They look at you and say
+You're staying in taste
+A shimmy shimmy
+Ah, ooh, wa, wee
+The shimmy'll go down
+In history
+Shimmy shimmy, to and fro (oh, yeah)
+Shimmy shimmy, to and fro (hey now)
+Shimmy shimmy, to and fro (oh, yeah)
+Shimmy shimmy, to and fro
+Shimmy shimmy (shimmy shimmy)
+Shimmy shimmy (shimmy shimmy)
+Oh, yeah (shimmy shimmy, to and fro)
+Shimmy shimmy
+(Shimmy shimmy, to and fro)
+Shimmy shimmy
+(Shimmy shimmy, to and fro)
+Shimmy shimmy
+(Shimmy shimmy, to and fro)
+Shimmy shimmy
+(Shimmy shimmy, to and fro)
+Shimmy shimmy (shimmy shimmy)
+Shimmy shimmy (shimmy shimmy)
+Shimmy shimmy (shimmy shimmy, to and fro)
+Come on, baby
+(Shimmy shimmy, to and fro)
+Come on, baby
+(Shimmy shimmy, to and fro)
+Come on, baby
+(Shimmy shimmy, to and fro)
+Come on, baby
+(Shimmy shimmy, to and fro)
+Yeah, shimmy shimmy (shimmy shimmy)
+Shimmy shimmy (shimmy shimmy)
+Shimmy shimmy (shimmy shimmy, to and fro)

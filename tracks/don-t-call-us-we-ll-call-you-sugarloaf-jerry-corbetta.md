@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-call-us-we-ll-call-you-sugarloaf-jerry-corbetta
+lyrics_url: https://www.musixmatch.com/lyrics/Sugarloaf-Jerry-Corbetta/Don-t-Call-Us-We-ll-Call-You
 name: Don't Call Us We'll Call You
 rankings:
 - end_date: '1974-12-13'
@@ -91,4 +92,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-04-26'
 ---
-
+A Long distance directory assistance, area code 212
+Say hey, A and R this is mister rhythm and blues
+He said hello, and put me on hold
+To say the least the cat was cold
+He said, don't call us child we'll call you
+I said, you got my number
+He said yeah, I got it when you walked in the door
+Don't call us, we'll call you
+Don't call us, we'll call you
+I got your name from a friend of a friend
+Who said he used to work with you
+Remember the all night creature from stereo ninety two
+Yeah I said could you relate to our quarter track tape
+You know the band performs in the nude
+He said uh huh don't call us child we'll call you
+Listen kid you paid for the call
+You ain't bad but we've heard it all before
+And it sounds like John, Paul and George
+Any way, we cut a hit and we toured a bit
+With a song he said he couldn't use
+And now he calls and begs and crawls
+It's telephone deja vu
+We got percentage points and lousy joints
+And all the glitter we can use, Mama
+So, uh huh, don't call us now, we'll call you
+Listen kid you paid for the call
+You ain't bad but I've heard it all before
+Don't call us, we'll call you
+Don't call us
+Don't call us, we'll call you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-last-date--with-you--skeeter-davis
+lyrics_url: https://genius.com/Skeeter-davis-my-last-date-with-you-lyrics
 name: My Last Date (With You)
 rankings:
 - end_date: '1960-12-18'
@@ -39,4 +40,31 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
 ---
+One hour and I'll be meeting you
+I know you're gonna make me blue
+My heart is trembling
+Through and through
+Cause I know very well
+I can tell
+I can tell
+This will be my last date with you
 
+Just can't believe that this could end
+I know I'll never love again
+You'll ask me to be just a friend
+This is plain as can be
+I can see
+I can see
+This will be my last date with you
+
+I know we had a quarrel
+But all sweethearts do
+I gave my love to prove to you
+That I will always love you and be true
+
+I know you've met someone new
+You'll tell me you and I are through
+My plans and dreams cannot come true
+And when you say goodbye
+I know I will cry cause
+I'll know it's my last date with you

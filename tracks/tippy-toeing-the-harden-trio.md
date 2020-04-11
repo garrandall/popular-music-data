@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tippy-toeing-the-harden-trio
+lyrics_url: https://www.musixmatch.com/lyrics/The-Harden-Trio-2/Tippy-Toeing
 name: Tippy Toeing
 rankings:
 - end_date: '1966-03-18'
@@ -47,4 +48,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-14'
 ---
+Well mama go a tippy, tippy toein' through the house
+Gotta see what's the matter with the baby
+It's been bawlin' and a-sqwallin' and a-kickin' on the wall
+Well I guess it dropped it's little bottle maybe
 
+Oh, daddy come a-runnin' with the water and a rag
+Gonna need another little diaper maybe
+No need a-hesitatin' or a-wonderin' and a-waitin'
+I know what's the matter with the baby
+No need a-hesitatin' or a-wonderin' and a-waitin'
+We know what's the matter with the baby
+
+Oh mama rock a baby, daddy rock a baby too
+It's a-yawnin' and a-gettin' sleepy maybe
+So mama keep a-rockin', daddy rock a little too
+And at last its a sleepin' little baby
+
+Well mama's tippy toein', daddy's tippy toein' too
+Gonna try to do a little sleepin' maybe
+Whether it'll be a minute or an hour or two
+Is dependin' 'tirely on the baby
+
+Well I hear the clock a-ringin', just a-dongin' and a-dingin'
+Daddy go and make a little money maybe
+Mama sleep a little longer but remember while I'm gone
+Won't you please take care of the baby
+After all he's just a little bitty baby
+
+Oh mama rock a baby, daddy rock a baby too
+It's a-yawnin' and a-gettin' sleepy maybe
+So mama keep a-rockin', daddy rock a little too
+And at last its a sleepin' little baby
+And at last its a sleepin' little baby
+And at last its a sleepin' little baby
+And at last

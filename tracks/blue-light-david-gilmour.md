@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: blue-light-david-gilmour
+lyrics_url: https://genius.com/David-gilmour-blue-light-lyrics
 name: Blue Light
 rankings:
 - end_date: '1984-04-13'
@@ -35,4 +36,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-05-19'
 ---
+She's a blue light, yes it cannot be denied
+She will give you back your pride
+She squeezes, she freezes, she does what she pleases
+But she says she thinks of others, all the time
 
+You must rise to her defense when she's in danger
+Turn around and you're looking at a stranger
+She steals your savings from under your bed
+And leads you into places even angels fear to tread
+She's a blue light
+
+She's not amused, when you're trying to upstage her
+So you choose to do nothing to enrage her
+'Cause under her mantle you feel safe from the cold
+And you're safe from the danger of ever growing old
+She's a blue light

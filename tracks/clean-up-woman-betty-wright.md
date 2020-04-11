@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: clean-up-woman-betty-wright
+lyrics_url: https://genius.com/Betty-wright-clean-up-woman-lyrics
 name: Clean Up Woman
 rankings:
 - end_date: '1971-12-03'
@@ -63,4 +64,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-02-26'
 ---
+A clean up woman is a woman who
+Gets all the love we girls leave behind
+The reason I know so much about her
+Is because she picked up a man of mine
 
+Chumpin' slick was my ruin
+'Cause, I found out all I was doin'
+Was making it easy for the clean up woman
+To get my man's love, oh yeah
+Just making it easy for the clean up woman
+To get my baby's love, uh-huh, um-hum
+
+I took this man's love and put it on a shelf
+And like a fool I thought I had him all to myself
+
+When you needed love I was out having fun
+But I found out that all I had done
+Was made it easy for the clean up woman
+To get my man's love, uh-huh
+Yeah, that's what I did, I made it easy for the clean up woman
+To steal my baby's love, oh yeah
+
+The clean up woman will wipe his blues away
+She'll give him plenty lovin' 24 hours a day
+The clean up woman, she'll sweep him off his feet
+She's the one who'll take him in when you dump him in the street
+So take a tip, you better get hip
+To the clean up woman 'cause she's tough
+I mean, she really cleans up

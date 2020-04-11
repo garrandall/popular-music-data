@@ -1,7 +1,6 @@
 ---
 artists:
-- Huey Lewis
-- The News
+- Huey Lewis & The News
 features: []
 genres: []
 key: the-power-of-love-huey-lewis-the-news

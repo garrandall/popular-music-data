@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: friends-jody-watley-with-eric-b--rakim
+lyrics_url: https://www.musixmatch.com/lyrics/Jody-Watley-with-Eric-B-Rakim/Friends
 name: Friends
 rankings:
 - end_date: '1989-06-23'
@@ -80,4 +81,106 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-10-14'
 ---
+Friends, friends, friends
+Friends, friends, friends
+Come on, come on
+Come on, come on
 
+Have you ever been stabbed in the back
+By someone you thought was really cool?
+Did they steal your lover or was it money?
+Or was it lies they told?
+
+Strangers just disguised as your friends
+Never again 'cause now you know
+
+That friends will let you down, that friends won't be around
+That friends will let you down, friends won't be around
+When you need them most, where are your friends?
+Oh friends are hard to find, friends, yours and mine
+I'm talkin' 'bout your friends
+
+Smiles they hide behind, never know what's on their mind
+Could be true deception
+Jealousy and envy reign they never want to see you get ahead
+They just hold you back
+
+Friends will let you down, friends won't be around
+When you need them most, where are your friends?
+Oh, friends are hard to find, friends, yours and mine
+I'm talkin' 'bout your friends
+
+Friends are hard to find, don't be scared
+Friends are hard to find
+Friends are hard to find
+Friends are hard to find, don't be scared
+What happened to the kisses and ride, how are you?
+
+You used to me kiss me, tell me you missed me
+But now you try to glaze me, play me and diss me
+Uh, wide awake, ready to break, so we argue
+What happened to the kisses and ride, how are you?
+
+Forgot about the times when I rhymed, when I bathed you
+Dreams was the only little things that I gave you
+You still ain't thankful, you're still complainin'
+Used to be a quiet storm but now it's rainin'
+
+Farther than ever, I'm thinkin' whether
+If we should be friends, let it end? Is it better
+To forget or remember? Your body's tender
+The vibe that I send her, makes her surrender
+
+The feelings of capture, caught in a rapture
+No woman can match ya, so when I'm lookin' at ya
+Paint a perfect picture so you can remember me
+But you can find the end if you pretend to be
+
+Friends will let you down, friends won't be around
+When you need them most, where are your friends?
+Yeah, friends are hard to find, friends, yours and mine
+I'm talkin' 'bout your friends
+
+They say they'll be with you through all times of thick and thin
+A shoulder to rely on, on the days that life gets rough
+There to wipe your tears away from that new heart break
+But when it happens, you can't find them, where are your friends?
+
+Friends, friends, friends
+Friends, friends, friends
+Come on, come on, come on, come on
+Come on, come on, come on, come on
+Come on, come on, come on, come on
+Come on, come on
+
+Come on, come on, come on, come on
+Are you ready?
+Come on, come on, come on, come on
+Are you ready?
+Come on, come on, come on, come on
+Are you ready?
+
+Friends are hard to find, so be careful
+You could find an inch or mile if I pay you
+Some ain't that bad, but one might back stab
+To get their fingertips on what one might have
+
+Bite the hand that feeds you, leave the people who need you
+For those who hold you back and mislead you
+So be a leader, don't get lead on unleaded
+The wrong direction, a dead end's next then
+
+You need a detour, life's like a seesaw
+Ups and downs, and I'll bet there'll be more
+Potholes and obstacles in our path, that's righteous
+At times we need a hand to fight this
+
+Way of life, straighten up, take the door to the placid
+And don't you act two-faced
+'Cause jealousy and envy and you still act friendly
+You could find the end when pretend to be
+
+Friends
+Friends
+Friends
+...

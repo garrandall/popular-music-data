@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-shut-me-out-kevin-paige
+lyrics_url: https://genius.com/Kevin-paige-dont-shut-me-out-lyrics
 name: Don't Shut Me Out
 rankings:
 - end_date: '1989-08-25'
@@ -103,4 +104,76 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-01-27'
 ---
+All I've been thinkin' 'bout something you said
+It seems to make no sense to me
+That you don't want nobody's love
+Just say you won't be hurt again
+Won't you let me in?
 
+You don't know what you've been missin'
+None of my love and none of my guessin'
+I love ya like this, I love ya like that
+I bet cha can't take that
+
+Don't shut me out (D-D-Don't)
+Don't tell me that you know what love's about
+'Cause baby you know nothin'
+Don't shut me out (D-D-Don't)
+Don't tell me that you'll live your life without
+'Cause baby I've got somethin' here
+
+I've been watchin' your body for years
+It seems to me you need my help
+But you've been drownin' that body in tears
+It's time for you to make that change
+Baby rearrange
+
+You don't know what you've been missin'
+None of my love and none of my guessin'
+I love ya like this, I love ya like that
+I bet cha can't take that
+
+Don't shut me out (D-D-Don't)
+Don't tell me that you know what love's about
+'Cause baby you know nothin'
+Don't shut me out (D-D-Don't)
+Don't tell me that you'll live your life without
+'Cause baby I've got somethin' here
+
+Don't shut me out, oh yeah, oh baby
+Tell me Tell me
+Why in the world do I have to take this?
+Why in the hell do you have to make this?
+Hard for you, hard for me
+Oh girl I love you, can't you see that
+
+Oh, my lovin', I try to give to you
+Tell me do you want it?
+Or would you rather have me say that
+I love you... you... you... yeah
+I love ya like this, I love ya like that
+I bet you can't take that
+
+Don't shut me out (D-D-Don't)
+Don't tell me that you know what love's about
+'Cause baby you know nothin'
+Don't shut me out (D-D-Don't)
+Don't tell me that you'll live your life without
+'Cause baby I've got somethin' here
+
+Baby, don't shut me out
+Oh baby you know nothing
+Nothing 'bout my girl
+Baby I don't believe it
+Baby I can't conceive it
+
+Don't shut me out
+(Baby don't shut me out)
+Don't shut me out
+Don't shut me out
+Don't shut me out
+(Yeah)
+Don't shut me out
+Don't shut me
+Don't Don't
+Don't shut me out

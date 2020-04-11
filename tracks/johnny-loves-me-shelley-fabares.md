@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: johnny-loves-me-shelley-fabares
+lyrics_url: https://genius.com/Shelley-fabares-johnny-loves-me-lyrics
 name: Johnny Loves Me
 rankings:
 - end_date: '1962-06-15'
@@ -47,4 +48,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-08-11'
 ---
+(Johnny loves her)
+(Johnny loves her)
 
+Johnny loves me
+He just told me so last night (Johnny loves her)
+Now, each star I see belongs to me
+And they're all shining twice as bright (Johnny loves her)
+
+Johnny loves me
+Johnny's heart is really mine (Johnny loves her)
+Love is everywhere and I could swear
+The world's a great big valentine
+
+I feel so pretty
+I'm all aglow
+When he says I'm wonderful
+He makes me feel it's so (Johnny loves her)
+
+Yes, Johnny loves me
+Now, each day is bright and new (Johnny loves her)
+And I only pray that I can say
+For every day my whole life through
+"Johnny loves me and I love my Johnny, too"
+
+(Johnny, Johnny loves me)
+Now, each day is bright and new (Johnny loves her)
+And I only pray that I can say
+For every day my whole life through
+"Johnny loves me and I love my Johnny, too"
+
+Johnny loves me (Johnny loves her, Johnny loves her)
+Johnny loves me (Johnny loves her, Johnny loves her)
+Johnny loves me (Johnny loves her, Johnny loves her)
+Johnny loves me (Johnny loves her, Johnny loves her)
+Johnny loves me

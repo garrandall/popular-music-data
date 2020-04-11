@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: don-t-change-your-love-five-stairsteps-cubie
+lyrics_url: https://www.musixmatch.com/lyrics/The-Five-Stairsteps-Cubie-Burke/Don-t-Change-Your-Love
 name: Don't Change Your Love
 rankings:
 - end_date: '1968-08-30'
@@ -44,4 +45,49 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
 ---
+With Cubie
+Baby, this year, I've been born again
+But don't change your love, don't change
+'Cause you're gonna get me broke
+Baby don't change your love
+Don't change it
+I'm in love
+And if it's all the same, don't change
+Baby, don't change
+Come on now, I love you, you know it
+Don't change your ways
+In two
+If I'm losing you
+So don't change your love
+Don't change
+Might be a little lazy
+But I'm goin' crazy
+Baby don't change your love, don't change
+I'm in love
+And if it's all the same, don't change
+Baby, don't change
+Come on now, I love you
 
+You know it too
+So don't change your ways
+
+In two
+If I'm losin' you
+So don't change your love
+Don't change
+I might be a little lazy
+You're goin' crazy
+Don't change your love
+Don't change
+Now I'm in love
+And if it's all the same, don't change
+Baby, don't change
+Here we go
+Now, I love you
+You know it too
+So don't change your ways
+Now I love you
+And you know it too
+Baby don't change your way
+Jump back
+I love you, you know it too

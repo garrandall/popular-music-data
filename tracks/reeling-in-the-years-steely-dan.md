@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: reeling-in-the-years-steely-dan
+lyrics_url: https://www.musixmatch.com/lyrics/Steely-Dan/Reeling-in-the-Years
 name: Reeling In The Years
 rankings:
 - end_date: '1973-03-16'
@@ -71,4 +72,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-23'
 ---
+Your everlasting summer you can see it fading fast
+So you grab a piece of something that you think is gonna last
+Well you wouldn't even know a diamond if you held it in your hand
+The things you think are precious I can't understand
 
+Are you reelin' in the years?
+Stowin' away the time
+Are you gatherin' up the tears?
+Have you had enough of mine?
+
+Are you reelin' in the years?
+Stowin' away the time
+Are you gatherin' up the tears?
+Have you had enough of mine?
+
+You been tellin' me you're a genius since you were seventeen
+In all the time I've known you I still don't know what you mean
+The weekend in the college didn't turn out like you planned
+The things that pass for knowledge I can't understand
+
+Are you reelin' in the years?
+Stowin' away the time
+Are you gatherin' up the tears?
+Have you had enough of mine?
+
+Are you reelin' in the years?
+Stowin' away the time
+Are you gatherin' up the tears?
+Have you had enough of mine?
+I spent a lot of money and I spent a lot of time
+The trip we made to hollywood is etched upon my mind
+After all the things we've done and seen you find another man
+The things you think are useless I can't understand
+Are you reelin' in the years?
+Stowin' away the time
+Are you gatherin' up the tears?
+Have you had enough of mine?
+Are you reelin' in the years?
+Stowin' away the time
+Are you gatherin' up the tears?
+Have you had enough of mine?

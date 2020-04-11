@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lightning-s-girl-nancy-sinatra
+lyrics_url: https://genius.com/Nancy-sinatra-lightnings-girl-lyrics
 name: Lightning's Girl
 rankings:
 - end_date: '1967-09-29'
@@ -35,4 +36,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-11-04'
 ---
+I've told you that I'm Lightning's girl
+But you keep hanging 'round
+If Lightning ever catches you
+He's got to put you down
+(spoken) About six feet!
 
+Stay away from Lightning's girl
+And this part of town
+Stay away from Lightning's girl
+Or he'll put you down...yeah
+
+Better stop your grooving 'round
+Another rooster's hen
+If Lightning ever catches you
+He's got to do you in
+In about two minutes!
+
+Stay away from Lightning's girl
+And this part of town
+Stay away from Lightning's girl
+Or he'll put you down
+
+Here comes Lightning down the street
+While you just stand there talking
+If I were you I'd start to move
+And tell my story walking
+About a hundred miles an hour!
+
+Stay away from Lightning's girl
+And this part of town
+Stay away from Lightning's girl
+Or he'll put you down
+
+Stay away from Lightning's g-i-r-l
+Stay away from Lightning's g-i-r-l
+Stay away from Lightning's g-i-r-l
+Stay away from Lightning's g-i-r-l

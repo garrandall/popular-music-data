@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: baby-don-t-go-sonny-cher
+lyrics_url: https://genius.com/Sonny-and-cher-baby-dont-go-lyrics
 name: Baby Don't Go
 rankings:
 - end_date: '1965-08-27'
@@ -56,4 +57,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
 ---
+Baby don't go, pretty baby please don't go
 
+I never had a mother, I hardly knew my dad
+I've been in town for 18 years
+You're the only boy I've had
+I can't stay, maybe I'll be back some day
+
+Baby don't go, pretty baby please don't go
+I love you so, pretty baby please don't go
+
+I never had no money, I bought at the second hand store
+The way this old town laughs at me
+I just can't take it no more
+I can't stay, I'm gonna be a lady some day
+
+Baby don't go, pretty baby please don't go
+I love you so, pretty baby please don't go
+
+When I get to the city, my tears will all be dry
+My eyes will look so pretty
+No one's gonna know I cried
+Yes I'm goin' away, maybe I'll be back some day
+
+Baby don't go, maybe I'll be back some day

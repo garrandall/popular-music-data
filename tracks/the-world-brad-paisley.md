@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-world-brad-paisley
+lyrics_url: https://genius.com/Brad-paisley-the-world-lyrics
 name: The World
 rankings:
 - end_date: '2006-05-12'
@@ -87,4 +88,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-09-16'
 ---
+To the teller down at the bank
+You're just another checking account
+To the plumber that came today
+You're just another house
+At the airport ticket counter
+You're just another fare
+At the beauty shop at the mall
+Well you're just another head of hair
 
+
+Well that's alright, that's ok
+If you don't feel important, honey
+All I've got to say is
+To the world
+You may be just another girl
+But to me
+Baby, you are the world
+
+
+To the waiter at the restaurant
+You're just another tip
+To the guy at the ice cream shop
+You're just another dip
+When you can't get reservations
+Cause you don't have the clout
+Or you didn't get an invitation
+Cause somebody left you out
+
+
+That's alright, that's ok
+If you don't feel important, honey
+All I've got to say is
+To the world
+You may be just another girl
+But to me
+Baby, you are the world
+
+
+
+You think you're one of millions but you're one in a million to me
+When you wonder if you matter, baby look into my eyes
+And tell me, can't you see you're everything to me
+
+
+That's alright, that's ok
+If you don't feel important, honey
+All I've got to say is
+To the world
+You may be just another girl
+But to me
+Baby, you are the world
+
+
+That's alright, that's ok
+If you don't feel important, honey
+All I've got to say is
+To the world
+You may be just another girl
+But to me
+Baby, you are the world

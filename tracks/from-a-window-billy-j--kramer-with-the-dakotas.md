@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: from-a-window-billy-j--kramer-with-the-dakotas
+lyrics_url: https://genius.com/Billy-j-kramer-with-the-dakotas-from-a-window-lyrics
 name: From A Window
 rankings:
 - end_date: '1964-08-28'
@@ -47,4 +48,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-24'
 ---
+Late yesterday night
+I saw a light shine from a window
+And as I looked again
+Your face came into sight
 
+I couldn't walk on
+Until you'd gone from your window
+I had to make you mine
+I knew you were the one
+
+Oh, I would be so glad
+Just to have a love like that
+Oh, I would be so true
+And I'd live my life for you
+
+So meet me tonight
+Just where the light shines from a window
+And as I take your hand
+Say that you'll be mine tonight
+
+------ guitar solo ------
+
+Oh, I would be so glad
+Just to have a love like that
+Oh, I would be true
+And I'd give my life for you
+
+So meet me tonight
+Just where the light shines from a window
+And as I take your hand
+Say that you'll be mine tonight

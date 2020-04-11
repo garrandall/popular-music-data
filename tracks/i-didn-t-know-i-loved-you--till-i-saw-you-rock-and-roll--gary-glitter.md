@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-didn-t-know-i-loved-you--till-i-saw-you-rock-and-roll--gary-glitter
+lyrics_url: https://genius.com/Gary-glitter-i-didnt-know-i-loved-you-till-i-saw-you-rock-and-roll-lyrics
 name: I Didn't Know I Loved You (Till I Saw You Rock And Roll)
 rankings:
 - end_date: '1972-11-10'
@@ -43,4 +44,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-12-30'
 ---
+Standing in the corner at the dance last night
+I was almost leaving when you came in sight
+You were dancing to the beat
+Man, my head was spinning when I saw your feat
 
+I didn't know I loved you, till I saw you Rock N Roll
+I didn't know I loved you, till I saw you Rock N Roll
+I didn't know I loved you, till I saw you Rock N Roll
+I didn't know I loved you, till I saw you Rock N Roll
+
+You're my inspiration, you're my hearts desire
+You really set me Rocking, set my soul on fire
+Now I'm gonna spend my life
+Rockin' and a rolling if you'll be my wife
+
+I didn't know I loved you, till I saw you Rock N Roll
+I didn't know I loved you, till I saw you Rock N Roll
+I didn't know I loved you, till I saw you Rock N Roll
+I didn't know I loved you, till I saw you Rock N Roll
+
+Hey, Hey, Hey, Hey...
+
+Dance to the music

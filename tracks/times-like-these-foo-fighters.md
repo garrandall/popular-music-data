@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: times-like-these-foo-fighters
+lyrics_url: https://genius.com/Foo-fighters-times-like-these-lyrics
 name: Times Like These
 rankings:
 - end_date: '2003-03-14'
@@ -87,4 +88,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-07-19'
 ---
+I, I'm a one way motorway
+I'm the one that drives away, follows you back home
+I, I'm a street light shining
+I'm a white light blinding bright, burning off and on
 
+
+It's times like these you learn to live again
+It's times like these you give and give again
+It's times like these you learn to love again
+It's times like these time and time again
+
+
+I, I'm a new day rising
+I'm a brand new sky to hang the stars upon tonight
+But I, I'm a little divided
+Do I stay or run away and leave it all behind?
+
+
+It's times like these you learn to live again
+It's times like these you give and give again
+It's times like these you learn to love again
+It's times like these time and time again
+
+
+
+
+It's times like these you learn to live again
+It's times like these you give and give again
+It's times like these you learn to love again
+It's times like these time and time again
+It's times like these you learn to live again
+It's times like these you give and give again
+It's times like these you learn to love again
+It's times like these time and time again
+It's times like these you learn to live again
+It's times like these you give and give again
+It's times like these you learn to love again
+It's times like these time and time again

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-the-saints-go-marching-in-fats-domino
+lyrics_url: https://genius.com/Fats-domino-when-the-saints-go-marching-in-lyrics
 name: When The Saints Go Marching In
 rankings:
 - end_date: '1959-02-22'
@@ -39,4 +40,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-06'
 ---
+Oh when the saints go marching in
+Oh when the saints go marching in
+I wants to be in that number
+When the saints go marching in
 
+Oh when the sun refuse to shine
+Oh when the sun refuse to shine
+I still wants to be in that number
+When the sun refuse to shine
+
+Oh when the saints go marching in
+Oh when the saints go marching in
+I'm going to sing as loud as thunder
+Oh when the saints go marching in
+
+Oh when the saints go marching in
+Oh when the saints go marching in
+Yes, I want to be in that number
+When the saints go marching in
+
+Oh when the saints go marching in
+Oh when the saints go marching in
+I still want to be in that number
+When the saints go marching in

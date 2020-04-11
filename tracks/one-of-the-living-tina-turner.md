@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-of-the-living-tina-turner
+lyrics_url: https://genius.com/Tina-turner-one-of-the-living-lyrics
 name: One Of The Living
 rankings:
 - end_date: '1985-10-11'
@@ -79,4 +80,52 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-02-01'
 ---
-
+In the desert sun ev'ry step that you take could be the final one
+And in the burning heat
+Hanging on the edge of destruction
+No
+You can't stop the pain of your children crying out in your head
+They always said that the living would envy the dead
+So now you're gonna shoot
+Shoot bullets of fire
+Don't wanna fight
+But sometimes you've got to
+You're some soul survivor
+And there's just one thing you've got to know:
+You've got ten more thousand miles to go because you're
+One of the living - and if you can't stick together
+Well
+You're one of the living - who's gonna make it tonight ?
+Walk tall
+Cool
+Collected
+But savage
+Walk tall
+Bruised
+Sensual
+Ravaged
+It's ev'ry man for himself
+Ev'ry woman
+Ev'ry child
+A new breed
+Ferocious and wild
+And all they wanna do is shoot bullets of fire
+They wanna fight
+But sometimes you've got to
+You're some soul survivor
+And there's just one thing you've got to know:
+You've got ten more thousand miles to go because you're
+One of the living - and if you can't stick together
+Well
+You're one of the living - who's gonna make it tonight ?
+You're one of the living - and if we can't stick together
+Well
+You're one of the living - who's gonna make it tonight ?
+Shoot bullets of fire
+...
+You're one of the living - and if we can't stick together
+...
+You're one of the living - and if we can't stick together
+...
+You're one of the living - and if we can't stick together
+...

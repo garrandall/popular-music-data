@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-harder-i-try--the-bluer-i-get--free-movement
+lyrics_url: https://www.musixmatch.com/lyrics/The-Free-Movement/The-Harder-I-Try
 name: The Harder I Try (The Bluer I Get)
 rankings:
 - end_date: '1971-12-17'
@@ -47,4 +48,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-02-12'
 ---
+THE HARDER I TRY
+At night I find that I canít sleep
+All day long I walk the streets(oohÖ)
+My heart is filled with misery and pain(ooh.)
+Tears filled my eyes when I speak your name forÖ
 
+The harder I try, the bluer I get
+Lord knows that I, I havenít gotten over losing you
+
+I canít get over losing you
+I canít get over losing you
+
+Iím so lonely Iíve lost my pride(lost my pride)
+Iíve got tears that I canít hide(I canít hide)
+Everyday Iím so sad and blue(oohÖ)
+Without your love, (ahÖ)what would I do forÖ
+(Repeat)
+
+Last night I held someone new
+But when I kissed her lips I was seeing you
+A kiss like this has no meaning you see
+And life without you has no future for me(future for meÖ)
+(Repeat)
+
+I canít get over losing youÖ

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-ashlee-simpson
+lyrics_url: https://genius.com/Ashlee-simpson-love-lyrics
 name: LOVE
 rankings:
 - end_date: '2005-11-11'
@@ -79,4 +80,99 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-04-22'
 ---
+I'm talkin' 'bout love
 
+
+All my girls stand in a circle and clap your hands
+This is for you
+Up's and downs, highs and lows
+And no matter what you see me through
+
+
+My boyfriend, he don't answer on the telephone
+I don't even know where the hell he goes
+But all my girls, we're in a circle
+And nobody's gonna break through
+
+
+L-O-L-O-L-O-L-O-V-E
+L-O-L-O-L-O
+(Oh, did you hear me say?)
+L-O-L-O-L-O-L-O-V-E
+L-O-L-O-L-O
+(Oh, did you hear me say?)
+L-O-L-O-L-O-L-O-V-E
+L-O-L-O-L-O
+I'm talkin' 'bout
+L-O-L-O-L-O-L-O-V-E
+L-O-L-O-L-O
+
+
+I'm talking' bout love
+Say you'll be my girls for life
+Girls for life
+
+
+Oh hold up, I need another one
+I think you, you do too
+Grab my bag, got my own money
+Don't need any man in this room
+
+
+My boyfriend, he'll be calling me now anytime
+I need all my girls to keep him off my mind
+So hold up, we need another one
+What we got is all good
+
+
+L-O-L-O-L-O-L-O-V-E
+L-O-L-O-L-O
+(Oh, did you hear me say?)
+L-O-L-O-L-O-L-O-V-E
+L-O-L-O-L-O
+(Oh, did you hear me say?)
+L-O-L-O-L-O-L-O-V-E
+L-O-L-O-L-O
+I'm talkin' 'bout
+L-O-L-O-L-O-L-O-V-E
+L-O-L-O-L-O
+I'm talkin' 'bout love
+
+
+Love is an energy
+Love is a mystery
+Love is meant to be true
+Love is a part of me
+Love is the heart of me
+Love is the best thing we do
+
+
+I'm talkin' 'bout love
+
+
+L-O-L-O-L-O-L-O-V-E
+L-O-L-O-L-O
+(Oh, did you hear me say?)
+L-O-L-O-L-O-L-O-V-E
+L-O-L-O-L-O
+(Did you hear me say?)
+L-O-L-O-L-O-L-O-V-E
+L-O-L-O-L-O
+(I'm talkin' 'bout)
+L-O-L-O-L-O-L-O-V-E
+L-O-L-O-L-O
+(I'm talkin' 'bout love)
+L-O-L-O-L-O-L-O-V-E
+L-O-L-O-L-O
+(Oh, did you hear me say?)
+L-O-L-O-L-O-L-O-V-E
+L-O-L-O-L-O
+(Did you hear me say?)
+L-O-L-O-L-O-L-O-V-E
+L-O-L-O-L-O
+(I'm talkin' 'bout)
+L-O-L-O-L-O-L-O-V-E
+L-O-L-O-L-O
+I'm talking' bout
+I'm talking' bout
+I'm talking' bout love

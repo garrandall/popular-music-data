@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: shoot-your-shot-jr--walker-the-all-stars
+lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-shoot-your-shot-lyrics
 name: Shoot Your Shot
 rankings:
 - end_date: '1967-07-28'
@@ -36,4 +37,82 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
 ---
+I say, "yeah-yeah-yeah-yeah"
+Yeah-yeah, shoot your shot
+What I mean
+I said, "Yeah-yeah-yeah-yeah"
+Yeah, yeah
+Shake what you've got
+Hey, girl!
 
+Now, you come to this home
+Don't stand on your block
+Come inside
+Watch ev'rybody rock
+
+Ev'rybody's feelin' like they
+Lost their minds
+Doin' a dance
+They call, The Twine
+
+So I say, "Yeah-yeah-yeah-yeah"
+Yeah-yeah, shoot your shot
+(Really gonna get it too, yeah)
+I say, "Yeah-yeah-yeah-yeah"
+Yeah, yeah
+Shake what you've got
+
+'Let's hear it, Marvin'
+Shake, shake
+('Let the sax in, too')
+
+(That's what we're doin)
+(That's what we're doin', now)
+(That's what we're doin')
+(That's what we're doin', now)
+(That's what we're doin')
+(That's what we're doin', now)
+
+(That's what we're doin')
+(That's what we're doin', now)
+
+(That's what we're doin')
+(That's what we're doin', now)
+(That's what we're doin')
+(That's what we're doin', now)
+
+I say, "Yeah-yeah-yeah-yeah"
+Yeah-yeah, shoot your shot
+'Call when I need you'
+I say, "Yeah-yeah-yeah-yeah"
+Yeah, yeah
+Shake what you've got
+Hey, girl!
+
+Looked at them start
+To block this house
+Somebody hollered
+"Hey, boy heard you rock!"
+
+Police is standin'
+At the door
+People, see 'em dancin'
+All ov'r the floor
+
+They hollered, "Yeah-yeah-yeah-yeah"
+Yeah-yeah, shoot your shot
+Woo!
+(Get away from here)
+I said, "Yeah-yeah-yeah-yeah"
+Yeah, yeah
+Shake what you got
+
+You know what I mean, now
+(Go ahead 'n work!)
+
+Do the Hully Gully
+The Wild Cat, too
+Wait a minute baby, now
+You ain't through
+
+(Hey!)

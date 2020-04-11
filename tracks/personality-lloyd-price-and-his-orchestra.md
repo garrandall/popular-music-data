@@ -1,6 +1,6 @@
 ---
 artists:
-- Lloyd Price and His Orchestra
+- Lloyd Price
 features: []
 genres: []
 key: personality-lloyd-price-and-his-orchestra

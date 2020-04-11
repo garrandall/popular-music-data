@@ -110,7 +110,7 @@ I want a dude that'll still kiss me when he mad
 Type to cut me diamonds, he can miss me with them bags
 
 
-{Girl we been right here, thinkin' 'bout it all night}
+
 Baby you should be up in my bed
 Ooh
 Do you mind, do you mind? (DJ Khaled!)
@@ -122,7 +122,7 @@ Get a little closer, maybe post up
 Ooh
 Do you mind? Do you mind? Do you mind?
 Do you mind? Do do you mind? Do you mind?
-{Girl we been right here, thinkin' 'bout it all night}
+
 Baby you should be up in my bed
 Ooh
 Do you mind, do you mind?
@@ -169,7 +169,7 @@ Get a little closer, maybe post up
 Ooh
 Do you mind? Do you mind? Do you mind?
 Do you mind? Do do you mind? Do you mind?
-{Girl we been right here, thinkin' 'bout it all night}
+
 Baby you should be up in my bed
 Ooh
 Do you mind, do you mind?
@@ -214,7 +214,7 @@ Get a little closer, maybe post up
 Ooh
 Do you mind? Do you mind? Do you mind?
 Do you mind? Do do you mind? Do you mind?
-{Girl we been right here, thinkin' 'bout it all night}
+
 Baby you should be up in my bed
 Ooh
 Do you mind, do you mind?
@@ -233,7 +233,7 @@ Get a little closer, maybe post up
 Ooh
 Do you mind? Do you mind? Do you mind?
 Do you mind? Do do you mind? Do you mind?
-{Girl we been right here, thinkin' 'bout it all night}
+
 Baby you should be up in my bed
 Ooh
 Do you mind, do you mind?

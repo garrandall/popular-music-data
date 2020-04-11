@@ -1,7 +1,8 @@
 ---
 artists:
-- Ray Conniff And The Singers
-features: []
+- Ray Conniff
+features:
+- The Ray Conniff Singers
 genres: []
 key: lookin--for-love-ray-conniff-and-the-singers
 name: Lookin' For Love

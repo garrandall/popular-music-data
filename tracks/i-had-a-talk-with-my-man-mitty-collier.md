@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-had-a-talk-with-my-man-mitty-collier
+lyrics_url: https://genius.com/Mitty-collier-i-had-a-talk-with-my-man-last-night-lyrics
 name: I Had A Talk With My Man
 rankings:
 - end_date: '1964-10-02'
@@ -47,4 +48,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
 ---
+I had a talk
+With my man last night
+He reassured me everything
+Was still all right
 
+As the night grew light
+My blues got bright
+He made me know
+I was the star of the show
+
+He said he was mine
+All to myself
+I won't if he won't
+Ever need nobody else
+
+He took me in his arms
+And turned on my alarm
+Oh, yes, he did, yes, he did
+Yes, he did, oh, yes
+I had a talk with my man last night
+
+I said I sat down and had
+A talk with my man last night
+He filled my heart with pure delight
+
+He told me that he needed me
+More than words could ever say
+And then he went on to prove it
+In such a sweet, sweet way
+
+He said never again
+Lonely will you be
+And that's when he asked
+To marry me
+
+I began to cry
+He kissed the tears
+From my weeping eyes
+
+Oh, yes, he did, yes, he did
+Yes, he did, oh, yes
+I had a talk with my man last night

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: back-on-the-street-again-the-sunshine-company
+lyrics_url: https://genius.com/The-sunshine-company-back-on-the-street-again-lyrics
 name: Back On The Street Again
 rankings:
 - end_date: '1967-10-27'
@@ -35,4 +36,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-12-02'
 ---
+I'm back on the street again
+Gotta stand on my own two feet again
+And I'm walkin' that beat again
+Rememberin' when, oh
+Rememberin' when
 
+Got a tear in my eye again
+Reminding me that I might cry again
+Feelin' sad wonderin' why again
+Rememberin' when, oh
+Rememberin' when
+
+Once I used to think that the world
+Belonged to me
+Now it belongs to someone else
+
+So, I'm thinkin' of me again
+That's the way it's gonna be again
+'Til the day I can be again
+Rememberin' when, oh
+Rememberin' when
+
+So, I'm thinkin' of me again
+That's the way it's gonna be again
+'Til the day I can be again
+Rememberin' when, oh
+Rememberin' when, oh
+Rememberin' when, mm
+Rememberin' when

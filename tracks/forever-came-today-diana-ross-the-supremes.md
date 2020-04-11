@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: forever-came-today-diana-ross-the-supremes
+lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross/Forever-Came-Today-feat-The-Supremes
 name: Forever Came Today
 rankings:
 - end_date: '1968-03-22'
@@ -44,4 +45,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
 ---
-
+Forever came today
+Diana ross & the supremes
+(Brian holland/lamont dozier/edward holland, jr.)
+There you were
+Standing there
+As your eyes reached out to me
+Something warm in your eyes
+Touched my heart right then and there
+All the love i never knew
+I found in you
+Suddenly
+My world stood still
+My life was then forfilled
+As you gently touched my hand
+I knew that we had laying a plan
+For everlasting love
+That i been forever dreaming of
+At last
+Ooh, at last
+My forever came today (my forever came today)
+When you walked into my life (when you walked into my life)
+And made my lonely life
+A paradise (a paradise)
+It came today
+Forever came today
+As we were standing there
+You didn't speak a single word
+But your eyes
+Your eyes said you wanted me
+Your touch said you needed me
+And my heart said tenderly
+Darling
+Ooh, my darling
+Make me yours
+Let your kiss touch my face
+And tell me love has let me
+To this place to your warm embrace
+And our hapiness
+Thanks to you my search has ended
+And i want the world to see
+How gently love has shined on me
+With everlasting love
+That i been forever dreaming of
+At last
+Ooh, at last
+My forever came today (my forever came today)
+When you walked into my life (when you walked into my life)
+And made my lonely life
+A paradise (a paradise)
+It came today
+Forever came today
+At last
+Ooh, at last
+My forever came today (my forever came today)
+When you walked into my life (when you walked into my life)
+And made my lonely life
+A paradise (a paradise)
+Oh, it came today
+Forever came today
+At last
+Ooh, at last
+My forever came today (my forever came today)
+When you walked into my life...

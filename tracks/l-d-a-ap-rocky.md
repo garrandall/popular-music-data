@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: l-d-a-ap-rocky
+lyrics_url: https://genius.com/A-ap-rocky-l-d-lyrics
 name: L$D
 rankings:
 - end_date: '2015-06-19'
@@ -19,4 +20,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-06-27'
 ---
+I know I dream about her all day
+I think about her with her clothes off
+I'm ridin' 'round with my system bumpin' LSD
+I look for ways to say "I love you"
+But I ain't into makin' love songs
+Baby, I'm just rappin' to this LSD
+She ain't a stranger to the city life
+I introduced her to this hippy life
+We make love under pretty lights, LSD (Acid)
+I get a feelin' it's a trippy night
+Them other drugs just don't fit me right
+Girl, I really fuckin' want love, sex, dream
+Another quarter to the face system
+Make no mistakes, it's all, a leap of faith for love
+It takes a place in, feelin' that you crave doin' love, sex, dreams
 
+
+It started in Hollywood
+Dreamin' of sharin' love
+My tongue at a loss for words
+Cause my feelings just said it all
+Party just started up
+Dreamin' of sharin' worlds
+Held this feeling for way too long
+Said, "I really wanna let it go"
+
+
+I've been gettin' fly because the gimmick's so dope
+I've been getting high cause I figured Lord told me
+I've been drinking, driving, now we'll never go home
+I gon' stay in doubt because the weather's so cold, oh
+
+
+Feeling low sometimes when the light shines down
+Makes me high
+Can you feel it?
+Can you feel it?
+Feeling low sometimes when the light shines down
+Makes me high
+Can you feel it?
+Can you feel it?
+
+
+It started in Hollywood
+Duh, duh-duh
+Dreamin' of sharin' love
+Duh, duh-duh
+My tongue at a loss for words
+Cause my feelings just said it all
+
+
+I look for ways to say, "I love you"
+But I ain't into makin' love songs
+Baby, I'm just rappin' to this LSD

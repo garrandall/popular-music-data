@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-kalin-twins
+lyrics_url: https://genius.com/Kalin-twins-when-lyrics
 name: When
 rankings:
 - end_date: '1958-08-10'
@@ -43,4 +44,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-09-29'
 ---
+When, when you smile, when you smile at me
+Well, well I know our love will always be
+When, when you kiss, when you kiss me right
+I, I don't want to ever say good night
 
+I need you
+I want you near me
+I love you
+Yes, I do and I hope you hear me
+
+When, when I say, when I say "Be mine"
+If, if you will I know all will be fine
+When will you be mine?
+
+(Oh, baby)
+(I need you)
+(I want you near me)
+(I love you)
+(Yes, I do and I hope you hear me when)
+
+When, when you smile, when you smile at me
+Well, well I know our love will always be
+When, when you kiss, when you kiss me right
+I, I don't want to ever say good night
+
+I need you
+I want you near me
+I love you
+Yes, I do and I hope you hear me
+
+When, when I say, when I say "Be mine"
+If, if you will I know all will be fine
+When will you be mine?

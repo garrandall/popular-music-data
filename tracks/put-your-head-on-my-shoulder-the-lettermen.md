@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: put-your-head-on-my-shoulder-the-lettermen
+lyrics_url: https://genius.com/The-lettermen-put-your-head-on-my-shoulder-lyrics
 name: Put Your Head On My Shoulder
 rankings:
 - end_date: '1968-11-22'
@@ -39,4 +40,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-01-04'
 ---
+Put your head on my shoulder
+Hold me in your arms, baby
+Squeeze me, oh, so tight
+Show me that you love me too
 
+Put your lips next to mine
+Won't you kiss me once, baby
+Just a kiss goodnight, maybe
+You and I will fall in love
+
+People say that love's a game
+A game you just can't win
+If there's a way, I'll find it someday
+And then this fool will rush in
+
+Put your head on my shoulder
+Whisper in my ear, baby
+Words I want to hear
+Tell me, that you love me too
+
+Put your head on my shoulder
+Whisper in my ear, baby
+Words I want to hear, baby
+Put your head on my shoulder
+Put your head on my shoulder

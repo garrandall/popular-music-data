@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sea-cruise-frankie-ford
+lyrics_url: https://genius.com/Frankie-ford-sea-cruise-lyrics
 name: Sea Cruise
 rankings:
 - end_date: '1959-02-15'
@@ -75,4 +76,48 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-01'
 ---
+Sound effects-buoy bell and fog horn
+Instrumental open
 
+Old man rhythm is in my shoes
+No use t'sittin' and a'singin' the blues
+So be my guest, you got nothin' to lose
+Won't ya let me take you on a sea cruise?
+
+Oo-ee, oo-ee baby
+Oo-ee, oo-ee baby
+Oo-ee, oo-ee baby
+Won't ya let me take you on a sea cruise?
+
+Feel like jumpin' baby won't ya join me please
+I don't like beggin' but I'm on bended knee
+
+I got to get t'rockin get my hat off the rack
+I got to boogie woogie like a knife in the back
+So be my guest, you got nothin' to lose
+Won't ya let me take you on a sea cruise?
+
+Oo-ee, oo-ee baby
+Oo-ee, oo-ee baby
+Oo-ee, oo-ee baby
+Won't ya let me take you on a sea cruise?
+
+Instrumental interlude
+
+I got to get t'movin' baby I ain't lyin'
+My heart is beatin' rhythm and it's right on time
+So be my guest, you got nothin' to lose
+Won't ya let me take you on a sea cruise?
+
+Oo-ee, oo-ee baby
+Oo-ee, oo-ee baby
+Oo-ee, oo-ee baby
+Won't ya let me take you on a sea cruise?
+
+Feel like jumpin' baby won't ya join me please
+I don't like beggin' but I'm on bended knee
+
+Oo-ee, oo-ee baby
+Oo-ee, oo-ee baby
+Oo-ee, oo-ee baby
+Won't ya let me take you on a sea cruise?

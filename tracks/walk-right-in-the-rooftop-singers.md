@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: walk-right-in-the-rooftop-singers
+lyrics_url: https://genius.com/The-rooftop-singers-walk-right-in-lyrics
 name: Walk Right In
 rankings:
 - end_date: '1963-01-11'
@@ -59,4 +60,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-03-30'
 ---
+Walk right in, sit right down
+Daddy, let your mind roll on
+Walk right in, sit right down
+Daddy, let your mind roll on
 
+Everybody's talkin' 'bout a new way of walkin'
+Do you want to lose your mind?
+Walk right in, sit right down
+Daddy, let your mind roll on
+
+Walk right in, sit right down
+Baby, let your hair hang down
+Walk right in, sit right down
+Baby, let your hair hang down
+
+Everybody's talkin' 'bout a new way of walkin'
+Do you want to lose your mind?
+Walk right in, sit right down
+Baby, let your hair hang down
+
+Walk right in, sit right down
+Daddy, let your mind roll on
+Walk right in, sit right down
+Daddy, let your mind roll on
+
+Everybody's talkin' 'bout a new way of walkin'
+Do you want to lose your mind?
+Walk right in, sit right down
+Daddy, let your mind roll on
+Daddy, let your mind roll on

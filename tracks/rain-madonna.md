@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: rain-madonna
+lyrics_url: https://genius.com/Madonna-rain-lyrics
 name: Rain
 rankings:
 - end_date: '1993-07-30'
@@ -87,4 +88,54 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-12-04'
 ---
+I feel it, it's coming
 
+
+Rain, feel it on my finger tips
+Hear it on my window pane
+Your love's coming down like
+Rain, wash away my sorrow
+Take away my pain
+Your love's coming down like rain
+
+
+When your lips are burning mine
+And you take the time to tell me how you feel
+When you listen to my words
+And I know you've heard, I know it's real
+Rain is what the thunder brings
+For the first time I can hear my heart sing
+Call me a fool but I know I'm not
+I'm gonna stand out here on the mountain top
+Till I feel your
+
+
+Rain, feel it on my finger tips
+Hear it on my window pane
+Your love's coming down like
+Rain, wash away my sorrow
+Take away my pain
+Your love's coming down like rain
+
+
+When you looked into my eyes
+And you said goodbye could you see my tears
+When I turned the other way
+Did you hear me say
+I'd wait for all the dark clouds bursting in a perfect sky
+You promised me when you said goodbye
+That you'd return when the storm was done
+And now I'll wait for the light, I'll wait for the sun
+Till I feel your
+
+
+Rain, feel it on my finger tips
+Hear it on my window pane
+Your love's coming down like
+Rain, wash away my sorrow
+Take away my pain
+Your love's coming down like rain
+
+
+Here comes the sun, here comes the sun
+And I say, never go away

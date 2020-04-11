@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: is-this-love-survivor
+lyrics_url: https://www.musixmatch.com/lyrics/Survivor/Is-This-Love
 name: Is This Love
 rankings:
 - end_date: '1986-10-31'
@@ -83,4 +84,58 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-02-28'
 ---
+I've heard talk of blind devotion
+Lovers through thick and thin
+Lives touched with real emotion
+Faithful till the bitter end
 
+Now I must admit that the story's attractive
+I've lost in far too many affairs
+I've seen all the pain that the morning can bring
+
+I need to prove to myself
+This is more than a crush
+Can you convince me
+It's not just a physical rush
+
+Is this love that I'm feelin'
+Is this love that's been keepin' me up all night
+Is this love that I'm feelin'
+Is this love
+
+So many nights in blind confusion
+I've walked the line of love
+We reach out in disillusion
+When one night isn't nearly enough
+
+Now I'd like to know that for once in my life
+I'm sure of what tomorrow may bring
+I've heard all your talk
+Can I take it to heart
+
+Now look me straight in the eye
+'Cause tonight is the night
+We've got to ask each other
+If the moment is right
+
+Is this love that I'm feelin'
+Is this love that's been keepin' me up all night
+Is this love that I'm feelin'
+Is this love
+
+I've tread those mean streets
+Blind alleys where the currency of love changes hands
+All touch, no feeling
+Just another one night stand
+
+I need to know that there's someone who cares
+Could you be the angel to answer my prayers
+Is this love that I'm feelin'
+Is this love that's been keepin' me up all night
+Is this love that I'm feelin'
+Is this love
+Is this love that I'm feelin'
+Is this love that's been keepin' me up all night
+Is this love that I'm feelin'
+Is this love
+Is this love

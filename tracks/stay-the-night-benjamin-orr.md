@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: stay-the-night-benjamin-orr
+lyrics_url: https://genius.com/Benjamin-orr-stay-the-night-lyrics
 name: Stay The Night
 rankings:
 - end_date: '1986-11-14'
@@ -87,4 +88,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-03-21'
 ---
+(I love you)
+Sometimes you twist
+Always insist that you know a way
+Should I let go now?
+Would I even know how to anyway?
 
+And all that matters
+Is turned around
+Over and over again
+We're at full circle
+It comes down to now again
+
+Stay the night
+Let a little love show
+Stay the night
+It's all right, yeah
+Stay the night
+Don't say you don't know
+Stay the night
+
+Trying so hard to hold onto you
+Can you show me how
+If I seem cautious maybe I'm lost
+Can you show me now
+
+And all that matters
+Is turned around
+Over and over again
+We're at full circle
+It comes down to now again
+
+Stay the night
+Let a little love show
+Stay the night
+It's all right
+Stay the night
+You lead, I'll follow
+Stay the night
+Stay tonight
+
+In all the making
+Yours for the taking
+Shaking me down
+You see what we've got
+You know what's it's not
+That turns you upside-down
+
+And all that matters
+Is turned around
+Over and over again
+We're at full circle
+It comes down to now again
+
+Stay the night
+Let a little love show
+Stay the night
+Don't say you don't know
+Stay the night
+You lead, I'll follow
+Stay the night, oh-oh...
+
+Stay the night
+Come on, stay the night
+Stay the night, yeah
+
+Stay the night
+Let a little love show
+Stay the night
+Stay the night
+Stay the night
+Don't say you don't know
+Stay the night
+It's all right
+Just stay the night
+
+Stay the night
+Let a little love show
+Stay the night
+Stay tonight
+Stay the night
+Don't say you don't know
+Stay the night
+You lead, I'll follow

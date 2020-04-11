@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-can-go-deep-silk
+lyrics_url: https://genius.com/Silk-i-can-go-deep-lyrics
 name: I Can Go Deep
 rankings:
 - end_date: '1994-11-18'
@@ -67,4 +68,62 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-02-18'
 ---
+So tell me baby
+Whatchu wanna do?
+We got all night
 
+So baby it's on, it's on, it's on, yeah
+Deeper, deeper baby
+Deeper than he's ever gone
+Cuz I can go on and on and on
+
+You've got to show me lady
+Just how you feel
+I want to relax your mind
+And go so deep
+Because I can go deeper baby
+Deeper than he's ever gone
+Cuz I need it, and you want it
+Cuz you've got what I want and I want what's inside
+
+1 - Can we do it on the low
+Keep the lights down
+I can do a sex move and get funkey
+Workin' it like it ain't no thing
+Makin' it sweet in the sheets
+From your head down to your feet
+
+2 - Deeper, deeper baby
+Deeper than he's ever gone
+So baby it's on, it's on, it's on
+I can go deeper, deeper baby
+Deeper than he's ever gone
+Cuz I can go on, and on, and on
+
+Champagne and candlelights would be nice
+Just me and you
+Let's start things off right tonight
+Girl, what should we do babe
+Let's sit and fantasize about me and you
+We're takin' it up and down and round and round
+Givin' you everything that you need
+
+Repeat 1
+Repeat 2
+
+Deeper baby, deeper baby
+Deeper than he's ever gone
+Deeper baby, deeper baby
+Deeper than he's ever gone
+
+I can go deep if you let me
+I can go deep if you want me
+I can go deep when you want me to
+I can go deep
+
+I can go deep if you let me
+I can go deep if you want me
+I can go deep when you want me to
+I can go deep
+
+Repeat 2 until fade

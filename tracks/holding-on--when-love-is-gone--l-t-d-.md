@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: holding-on--when-love-is-gone--l-t-d-
+lyrics_url: https://genius.com/Ltd-holding-on-when-love-is-gone-lyrics
 name: Holding On (When Love Is Gone)
 rankings:
 - end_date: '1978-08-25'
@@ -47,4 +48,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-10-21'
 ---
+Holding on
+Is very hard to do when love is gone
+And that's no lie
+Holding on
+Is very hard to do when love is gone
+Hey, hey, hey, yeah
 
+
+I betcha you’re unhappy
+I know you gotta be (I know you gotta be)
+‘Cause it can drive you outcha mind
+There ain’t no sense in crying
+It's time for you to leave (Time for you to leave)
+And baby that’s the bottom line
+Oh, I betcha lie awake nights, and never rest a bit
+And wish it all would disappear
+But still the bottom line is you got to deal with it
+And to yourself at least be fair
+
+
+Holding on
+Is very hard to do when love is gone
+And that's no lie
+Holding on
+Is very hard to do when love is gone
+Hey, hey, hey, yeah
+
+
+Ha, ha, ha, who are you kidding?
+Do do do do do
+Ha, ha, ha, who are you kidding?
+Do do do do do
+Ha, ha, ha, who are you kidding?
+Do do do do do
+Ha, ha, ha, who are you kidding?
+
+
+Holding on
+Is very hard to do when love is gone
+And that's no lie
+Holding on
+Is very hard to do when love is gone
+Hey, hey, hey, yeah
+
+I betcha you’re unhappy
+I know you gotta be (I know you gotta be)
+‘Cause it can drive you outcha mind
+There ain't no sense in crying
+It’s time for you to leave (Time for you to leave)
+And baby that’s the bottom line
+Oh, I betcha lie awake at nights, and never rest a bit
+And wish it all would disappear (Hey)
+But still the bottom line is you got to deal with it
+And to yourself at least be fair
+
+
+Holding on
+Is very hard to do when love is gone
+And that's no lie
+Holding on
+Is very hard to do when love is gone
+When love is gone
+
+Holding on...when love is gone
+Holding on...when love is gone
+
+
+So very hard to do, so very hard to do, yeah
+Oh, I said
+I said, I said, hey, I said
+Listen to me now
+Well, you know when the feeling's gone
+Then you've got to stop holding on
+'Cause that makes it twice as bad
+You can’t give love that you don’t have
+So why drag it on and on and on
+And on and on and on and on? Yeah
+
+Holding on...when love is gone
+(Yeah, yeah)
+Holding on...when love is gone
+(Said that holding on is so very hard to do when your love is gone)
+Holding on...when love is gone
+(Holding on, so very hard to do when your love is gone, yeah yeah)
+Holding on...when love is gone

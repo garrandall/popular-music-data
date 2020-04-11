@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: last-song-edward-bear
+lyrics_url: https://genius.com/Edward-bear-last-song-lyrics
 name: Last Song
 rankings:
 - end_date: '1972-12-22'
@@ -79,4 +80,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-04-14'
 ---
+Did you know I'd go to sleep and leave the lights on
+Hoping you'd come by and know that I was home, still awake
+But two years go by and still my light's on
+This is hard for me to say, but this is all that I can take
 
+It's the last song I'll ever write for you
+It's the last time that I'll tell you just how much I really care
+This is the last song I'll ever sing for you
+You'll come looking for the light and it won't be there
+But I love you
+Oh, yes I do
+Yes I do
+
+All the times that I spent waiting, wondering where you are
+Always knew the time would come when I would start to wonder why
+Now the time is here, I don't know where you are
+So I'll write you one more song, but it's the last time that I'll ever try
+
+It's the last song I'll ever write for you
+It's the last time that I'll tell you just how much I really care
+This is the last song I'll ever sing for you
+You'll come looking for the light and it won't be there
+But I love you
+Oh, yes I do
+Yes I do
+
+It's the last song I'll ever write for you
+It's the last song I'll ever write for you
+It's the last song I'll ever write for you

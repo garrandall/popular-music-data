@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: when-i-fall-in-love-etta-jones
+lyrics_url: https://genius.com/Etta-jones-when-i-fall-in-love-lyrics
 name: When I Fall In Love
 rankings:
 - end_date: '1961-01-22'
@@ -39,4 +40,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
 ---
+When I fall in love
+It  will be forever
+Or  I'll never fall in love
+In a restless world
 
+Like this is
+Love  is ended before its begun
+And  too many moonlight kisses
+Sing too cool in the warmth of the sun
+
+When  I give my heart
+It will be completely
+Or I'll never give
+My heart
+
+And  the moment
+I can feel that
+You feel that way too
+That's when I'll fall
+
+In love with you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: crazy-eyes-for-you-bobby-hamilton
+lyrics_url: https://genius.com/Bobby-hamilton-crazy-eyes-for-you-lyrics
 name: Crazy Eyes For You
 rankings:
 - end_date: '1958-08-10'
@@ -19,4 +20,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-08-18'
 ---
-
+I've got crazy eyes for you, baby
+I've got crazy eyes for you
+Oh, yes, my darling dear
+Indeed, indeed, I do
+Because I love, love
+I love you, oh, so true
+I've got those
+Crazy eyes for you
+I, I've got crazy eyes for you
+Oh, yes, you know, you know
+You know, you know I do
+Because I love, love
+I love you, oh, so true
+I've got those
+Crazy eyes for you
+Sometimes, you make
+Make me feel good
+Sometimes, you make
+Make me feel gay
+But I love you every second
+I love you every minute
+Every hour, hour, hour
+Of the day
+I, I, I, I
+I've got crazy eyes for you
+Oh, yes, my darling dear
+Indeed, indeed, I do
+Because I love, love
+I love you, oh, so true
+I've got those
+Crazy eyes for you
+Peggy, Peggy, Carol, Carol
+Glenda and Jenny
+Mary, Mary, Pat, Pat
+Sue Anne, Marie
+But most of all, my Sue
+I've got those
+Crazy eyes for you
+Crazy, crazy, crazy
+Crazy, crazy, crazy
+Cra-cra-cra-cra-cra
+Crazy, crazy, crazy...

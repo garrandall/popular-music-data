@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-great-escape-boys-like-girls
+lyrics_url: https://genius.com/Boys-like-girls-the-great-escape-lyrics
 name: The Great Escape
 rankings:
 - end_date: '2007-06-08'
@@ -107,4 +108,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-11-17'
 ---
+Paper bags and plastic hearts
+All are belongings in shopping carts
+It's goodbye
+But we got one more night
+Lets get drunk and ride around
+And make peace with an empty town
+We can make it right
 
+
+Throw it away
+Forget yesterday
+We'll make the great escape
+And we won't hear a word they say
+They don't know us anyway
+Watch it burn
+Let it die
+'Cause we are finally free tonight
+
+
+Tonight will change our lives
+It's so good to be by your side, but we'll cry
+We won't give up the fight
+We'll scream loud at the top of our lungs
+And they'll think it's just 'cause we're young
+And we'll feel so alive
+
+
+Throw it away
+Forget yesterday
+We'll make the great escape
+And we won't hear a word they say
+They don't know us anyway
+Watch it burn
+Let it die
+'Cause we are finally free tonight
+
+
+All of the wasted time
+The hours that were left behind me
+Answers that we'll never find
+They don't mean a thing tonight
+
+
+Throw it away
+Forget yesterday
+We'll make the great escape
+We won't hear a word they say
+They don't know us anyway
+Throw it away
+Forget yesterday
+We'll make the great escape
+We won't hear a word they say
+They don't know us anyway
+Throw it away
+Forget yesterday
+We'll make the great escape
+We won't hear a word they say
+They don't know us anyway
+
+
+Watch it burn
+Let it die
+'Cause we are finally free tonight

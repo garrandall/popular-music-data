@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: let-me-get-to-know-you-paul-anka
+lyrics_url: https://genius.com/Paul-anka-let-me-get-to-know-you-lyrics
 name: Let Me Get To Know You
 rankings:
 - end_date: '1974-01-11'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
 ---
+Let me get to know you
+Help me make it last
+Love me spare the moment
+Good things go so fast
 
+Let me kiss you slowly
+There, upon your mouth
+Let me get to know you
+North, east, west and south
+
+Love, love, love
+We found love
+Together
+In each other
+We found love
+
+Loving you comes easy
+With someone like you
+Skin to skin you please me
+I hope I please you, too
+
+Let me build you rainbows
+Keep you from the rain
+Fill your world with sunshine
+Time and time again
+
+Love, love, love
+We found love
+Together
+In each other
+We found love
+
+Love, love, love
+We found love
+Together
+In each other
+We found love

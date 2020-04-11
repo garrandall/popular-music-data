@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: abigail-beecher-freddy-cannon
+lyrics_url: https://genius.com/Freddy-cannon-abigail-beecher-lyrics
 name: Abigail Beecher
 rankings:
 - end_date: '1964-02-07'
@@ -39,4 +40,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-03-21'
 ---
+Hey everybody, get out of the street now
+I hear the roar of an XK-E now
+Flops and sweater and ponytail
+And the cop on the corner is turnin' pale
+Whoa, it's Abigail Beecher
+Our history teacher
 
+All the kids are just crazy about her
+Central High would be a drag without her
+She knows her history from A to Z
+She'd teach a monkey in Watusi
+Whoa, it's Abigail Beecher
+Our history teacher
+Whoa
+
+We're out in the hall and changin' classes
+Plays guitar, wears blue sunglasses
+She's friendly, pop'lar and a real swinger
+She's gonna be a rock 'n' roll singer
+Whoa, it's Abigail Beecher
+Our history teacher
+Whoa
+
+History class is gettin' bigger and bigger
+They come for miles 'cause they really dig her
+The PTA was really floored
+When she walked in with a red surfboard
+Whoa, it's Abigail Beecher
+Our history teacher
+
+Whoa
+
+Come on, girl
+Aw, you're too much
+Whoa
+Come on, girl
+Whoa

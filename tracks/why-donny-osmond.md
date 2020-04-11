@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: why-donny-osmond
+lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/why.html
 name: Why
 rankings:
 - end_date: '1972-09-01'
@@ -55,4 +56,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-11-11'
 ---
+I'll never let you go
+Why? Because I love you
+I'll always love you so
+Why? Because you love me
+No broken hearts for us, 'cause we love eachother
+And with our faith and trust there could be no other
+Why? 'Cause I love you
+Why? 'Cause you love me
 
+And I think you're awful sweet 
+Why? Because I love you
+You say I'm your special treat
+Why? Because you love me
+We've found the perfect love,
+yes, a love that's your's and mine
+I love you and you love me all the time
+
+
+
+Yes I love you
+Oh, you love me
+
+We've found the perfect love
+Yes, a love that's your's and mine
+I love you and you love me
+I love you and, baby, you love me
+We'll love eachother dear forever

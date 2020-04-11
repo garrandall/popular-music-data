@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: virginia--touch-me-like-you-do--bill-amesbury
+lyrics_url: https://genius.com/Bill-amesbury-virginia-touch-me-like-you-do-lyrics
 name: Virginia (Touch Me Like You Do)
 rankings:
 - end_date: '1974-02-22'
@@ -43,4 +44,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-04-13'
 ---
+Hey, Virginia
+I know it'll all come alright when I look into your eyes
+It's something in you doin' it to me
 
+My knees start to shake
+My hands start to perspirate
+And every time that you say: "Wait"
+Lord, I think my back will break
+
+Virginia, touch me like you do
+Touch me like you do
+Like you do, like you do
+Like you do, like you do
+
+Like you do
+Oh yeah
+
+Babe, believe me
+The only time I fall apart is when he make those sounds
+Don't ever leave me, ha
+
+When you're around the feet hesitate
+The voice starts fumbling
+And if I don't get a chance
+You always running up and dance
+
+Virginia, touch me like you do
+Touch me like you do
+Like you do, like you do
+Like you do, like you do
+
+Like you do
+Oh yeah
+
+Lalala...
+
+Ah, Virginia, touch me like you do
+Touch me like you do
+Like you do, like you do
+Like you do, like you do
+Like you do
+
+Hey, Virginia
+Now I know it'll come alright when I look into those eyes
+It's some medium
+Oh, but it ain't me
+
+My voice start to break
+My feet start to perspirate
+Every time you say: "Wait"
+My whole body starts to shake
+
+Virginia, touch me like you do
+Touch me like you do
+Like you do, like you do
+Like you do, like you do
+
+Like you do, like you do
+Like you do, like you do
+Like you do, like you do
+
+Like you do
+Oh yeah

@@ -6,6 +6,7 @@ features:
 - Kelis
 genres: []
 key: i-love-my-b-----busta-rhymes-will-i-am-kelis
+lyrics_url: https://www.musixmatch.com/lyrics/Busta-Rhymes-feat-Kelis-will-i-am/I-Love-My-Bitch
 name: I Love My B****
 rankings:
 - end_date: '2006-06-16'
@@ -57,4 +58,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-08-26'
 ---
+Aduh aduh abe, aduh be sakit sengoti tarik napas panje keno tehe sengat keli
+Guano sakit gini lalu sengal habis sendi tule hok ni jenis keli kayu meme sengat dio panje
+Aduh aduh abe, aduh be sakit sengoti tarik napas panje keno tehe sengat keli
+Abe tahu sengat panje bakpo suruh adik sie nanggung cabut tinggal lube tokleh nak okk sapa mengere
 
+Dulu gulai keli lembut adik kato puas jugok suap tokde 3 mulut adik royat selero tadok
+Aduh aduh abe, aduh be sakit sengoti tarik napas panje keno tehe sengat keli ore royat keli
+Bukit demo kato nyakut telajok keno sengat pon tak sakit gulai capor daun kadok
+Payoh keno selero demo sabit mudoh buleh balo tulun dengar abe kato lamo abe bini duo
+
+Aduh aduh abe, aduh be sakit sengoti tarik napas panje keno tehe sengat keli
+Guano sakit gini lalu sengal habis sendi tule hok ni jenis keli kayu meme sengat dio panje
+Aduh aduh abe, aduh be sakit sengoti tarik napas panje keno tehe sengat keli
+Abe tahu sengat panje bakpo suruh adik sie nanggung cabut tinggal lube tokleh nak okk sapa mengere
+
+Dulu gulai keli lembut adik kato puas jugok suap tokde 3 mulut adik royat selero tadok
+Aduh aduh abe, aduh be sakit sengoti tarik napas panje keno tehe sengat keli
+Walau sakit setaro mano pakat pakat cari ubat kito hidup berumoh tanggo kalu sedak samo sedak

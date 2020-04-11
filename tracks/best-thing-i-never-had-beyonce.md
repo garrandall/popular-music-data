@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: best-thing-i-never-had-beyonce
+lyrics_url: https://genius.com/Beyonce-best-thing-i-never-had-lyrics
 name: Best Thing I Never Had
 rankings:
 - end_date: '2011-06-24'
@@ -87,4 +88,78 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-10-29'
 ---
+What goes around, comes back around (Hey, my baby!)
+What goes around, comes back around (My, my, my baby!)
+I say, what goes around comes back around (Hey, my baby!)
+What goes around comes back around
 
+
+There was a time I thought
+That you did everything right
+No lies, no wrong
+Boy, I must've been out of my mind
+
+
+So when I think of the time that I almost loved you
+You showed your ass and I, I saw the real you
+Thank God you blew it
+Thank God I dodged the bullet
+I'm so over you, so baby, good looking out
+
+
+I wanted you bad, I'm so through with that
+'Cause honestly, you turned out to be the best thing I never had
+You turned out to be the best thing I never had
+And I'm gon' always be the best thing you never had
+I bet it sucks to be you right now
+
+
+So sad, you're hurt
+Boo hoo, oh, did you expect me to care?
+You don't deserve my tears
+I guess that's why they ain't there
+
+
+To I think that there was a time that I almost loved you
+You showed your ass, and baby, yes, I saw the real you
+Thank God you blew it
+Thank God I dodged the bullet
+I'm so over you, baby, good looking out
+
+
+I wanted you bad, I'm so through with that
+'Cause honestly, you turned out to be the best thing I never had
+I said, you turned out to be the best thing I never had
+And I'll never be the best thing you never had
+Oh baby, I bet it sucks to be you right now
+
+
+I know you want me back
+It's time to face the facts
+That I'm the one that's got away
+Lord knows that it would take another place, another time
+Another world, another life
+Thank God, I found the good in goodbye
+
+
+I used to want you so bad, I'm so through with that
+'Cause honestly, you turned out to be the best thing I never had
+Oh, you turned out to be the best thing I never had
+And I will always be the best thing you never had
+Ooh, best thing you never had
+I used to want you so bad, I'm so through with that
+'Cause honestly, you turned out to be the best thing I never had
+Oh, you turned out to be the best thing I never had
+Ooh, I will never be the best thing you never had
+Oh baby, I bet it sucks to be you right now
+
+
+What goes around, comes back around
+What goes around, comes back around
+(I bet it sucks to be you right now)
+What goes around, comes back around
+(I bet it sucks to be you right now)
+What goes around, comes back around
+(I bet it sucks to be you right now)
+What goes around, comes back around
+(I bet it sucks to be you right now)

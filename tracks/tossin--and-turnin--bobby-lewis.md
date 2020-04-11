@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tossin--and-turnin--bobby-lewis
+lyrics_url: https://genius.com/Bobby-lewis-tossin-and-turnin-lyrics
 name: Tossin' And Turnin'
 rankings:
 - end_date: '1961-04-30'
@@ -99,4 +100,60 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-09-25'
 ---
+Baby!
+Baby
+You did something to me
 
+I couldn't sleep at all last night
+Just a-thinkin' of you
+Baby, things weren't right
+
+Well, I was tossin' and turnin'
+Turnin' and tossin'
+Tossin' and turnin' all night
+
+I kicked the blankets on the floor
+Turned my pillow upside down
+I never, never did before
+
+'Cause I was tossin' and turnin'
+Turnin' and tossin'
+Tossin' and turnin' all night
+
+Jumped out of bed
+Turned on the light
+I pulled down the shade
+Went to the kitchen for a bite
+
+Rolled up the shade
+Turned off the light
+I jumped back into bed
+It was the middle of the night
+
+The clock downstairs was strikin' four
+Couldn't get you off my mind
+I heard the milkman at the door
+
+'Cause I was tossin' and turnin'
+Turnin' and tossin'
+Tossin' and turnin' all night
+
+Jumped outta bed
+Turned on the light
+I pulled down the shade
+Went to the kitchen for a bite
+
+Rolled up the shade
+Turned off the light
+I jumped back into bed
+It was the middle of the night
+
+The clock downstairs was strikin' four
+I couldn't get you of my mind
+I heard the milkman at the door
+
+I was tossin' and turnin'
+Turnin' and tossin'
+A-tossin' and turnin' all day, day, day
+I was tossin' and turnin'
+Turnin' and tossin'...

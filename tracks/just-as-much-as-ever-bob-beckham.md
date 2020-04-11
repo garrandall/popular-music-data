@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: just-as-much-as-ever-bob-beckham
+lyrics_url: https://genius.com/Bob-beckham-just-as-much-as-ever-lyrics
 name: Just As Much As Ever
 rankings:
 - end_date: '1959-08-16'
@@ -91,4 +92,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-04'
 ---
-
+Just as much as ever
+I need you and want you to be here
+Just as much as ever
+I love you, and always will, my dear
+Even though we two are parted
+My feelings for you never drop
+For loving you is something I started
+And don't know how to stop
+Just as much as ever
+I'm hoping that you'll be mine again
+Darlin', 'cause I'll never be satisfied till then
+For I am still the same old me
+With the same old love for you
+Just as much as ever, my heart beats for you
+(Just as much as ever)
+(I'm hoping that you'll be mine again)
+Darling, 'cause I'll never be satisfied till then
+For I am still the same old me
+With the same old love for you
+Just as much as ever, my heart beats for you

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: say-it-say-it-e-g--daily
+lyrics_url: https://genius.com/Eg-daily-say-it-say-it-lyrics
 name: Say It Say It
 rankings:
 - end_date: '1986-05-02'
@@ -47,4 +48,88 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-06-28'
 ---
+If you want my love, say it, say it
+Gotta let it out, say it, say it, yeah
+If you want my love, say it, say it, don't worry
+What it's all about, say it, say it, yeah
 
+
+When I'm with you
+You know just what the right things are to do
+Your actions move me
+But your attitude, it makes me so confused
+
+
+You lead me on in the right direction
+Then you let me down without protection
+Ain't gonna be your sacrifice
+Just a few words that might sound nice
+There ain't no use in playing games
+I'm wanting you, do you feel the same?
+When in comes down to the bottom line
+I really gotta know, am I wasting time?
+
+
+If you want my love, say it, say it, now, darling
+Gotta let it out, say it, say it, yeah
+If you want my love, say it, say it, don't worry
+What it's all about, say it, say it, yeah
+
+
+I can see right through you
+You're not as cool as you pretend to be
+Your reactions tell me you're just waiting
+For the words to come from me
+
+
+You lead me on in the right direction
+Then you let me down without protection
+Ain't gonna be your sacrifice
+Just a few words that might sound nice
+There ain't no use in playing games
+I'm wanting you, do you feel the same?
+When in comes down to the bottom line
+I really gotta know, am I wasting time?
+
+
+If you want my love, say it, say it, now, darling
+Gotta let it out, say it, say it, yeah
+If you want my love, say it, say it, don't worry
+What it's all about, say it, say it
+
+
+Don't try to disguise what's in your eyes
+They're so revealing
+I know you're afraid but it's O.K
+Say what you feel, ooh, yeah
+
+
+If you want my love, say it, say it, now, darling
+Gotta let it out, say it, say it
+If you want my love, say it, say it, don't worry
+What it's all about, say it, say it, yeah
+
+
+Don't try to disguise what's in your eyes
+They're so revealing
+I know you're afraid but it's O.K
+Say what you feel, ooh, yeah
+
+
+If you want my love, say it, say it, now, darling
+Gotta let it out, say it, say it, oh
+If you want my love, say it, say it, don't worry
+What it's all about, say it, say it, oh
+If you want my love, say it, say it, now, darling
+Gotta let it out, say it, say it, yeah
+If you want my love, say it, say it, don't worry
+What it's all about, say it, say it
+If you want my love, say it, say it, now, darling
+Gotta let it out, say it, say it
+If you want my love, say it, say it, now, darling
+What it's all about, say it, say it
+If you want my love
+If you want my love, say it, say it, now, darling
+Gotta let it out, say it, say it, yeah
+If you want my love, say it, say it, don't worry
+What it's all about, say it, say it, yeah

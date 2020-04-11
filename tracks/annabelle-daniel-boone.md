@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: annabelle-daniel-boone
+lyrics_url: https://www.musixmatch.com/lyrics/Daniel-Boone/Annabelle
 name: Annabelle
 rankings:
 - end_date: '1972-11-17'
@@ -27,4 +28,61 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-12-09'
 ---
+There's a certain thing that
+Happens when you're near me
+And I think that I can see
+Just how you feel
 
+There's a certain thing that
+Happens when you're near me
+And I think that I can see
+Just how you feel
+So let me tell you one more time
+I love you dearly
+And I'll never put you down
+Never let you go free
+
+Annabelle, I got a feeling, girl
+You know darn well
+That I really couldn't live
+Without you by my side
+Annabelle, I'm in love with you
+Can't you tell that I really
+Haven't got a single thing to hide
+My Annabelle
+
+You keep telling me
+That I don't really love you
+You keep saying things
+That make me feel so sad
+But I'm sure you know
+I put no one above you
+And I'll keep on trying
+Til you know I ain't so bad
+
+Annabelle, I got a feeling, girl
+You know darn well
+That I really couldn't live
+Without you by my side
+Annabelle, I'm in love with you
+Can't you tell that I really
+Haven't got a single thing to hide
+My Annabelle
+
+Annabelle, I got a feeling, girl
+You know darn well
+That I really couldn't live
+Without you by my side
+Annabelle, I'm in love with you
+Can't you tell that I really
+Haven't got a single thing to hide
+My Annabelle
+
+Annabelle, I got a feeling, girl
+You know darn well
+That I really couldn't live
+Without you by my side
+Annabelle, I'm in love with you
+Can't you tell that I really
+Haven't got a single thing to hide
+My Annabelle

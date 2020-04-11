@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: "nel-blu-dipinto-di-blu--volar\xE9--domenico-modugno"
+lyrics_url: https://genius.com/Domenico-modugno-nel-blu-dipinto-di-blu-lyrics
 name: "Nel Blu Dipinto Di Blu (Volar\xE9)"
 rankings:
 - end_date: '1958-08-10'
@@ -71,4 +72,51 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-17'
 ---
+Penso che un sogno così non ritorni mai più
+Mi dipingevo le mani e la faccia di blu
+Poi d'improvviso venivo dal vento rapito
+E incominciavo a volare nel cielo infinito
 
+
+Volare, oh oh
+Cantare, oh oh oh oh
+Nel blu dipinto di blu
+Felice di stare lassù
+
+
+E volavo, volavo felice
+Più in alto del sole ed ancora più su
+Mentre il mondo pian piano spariva, lontano laggiù
+Una musica dolce suonava soltanto per me
+
+
+Volare, oh oh
+Cantare, oh oh oh oh
+Nel blu dipinto di blu
+Felice di stare lassù
+
+
+Ma tutti i sogni nell'alba svaniscon perché
+Quando tramonta la luna li porta con sé
+Ma io continuo a sognare negli occhi tuoi belli
+Che sono blu come un cielo trapunto di stelle
+
+
+Volare, oh oh
+Cantare, oh oh oh oh
+Nel blu degli occhi tuoi blu
+Felice di stare quaggiù
+
+
+E continuo a volare felice
+Più in alto del sole ed ancora più su
+Mentre il mondo pian piano scompare negli occhi tuoi blu
+La tua voce è una musica dolce che suona per me
+
+
+Volare, oh oh
+Cantare, oh oh oh oh
+Nel blu degli occhi tuoi blu
+Felice di stare quaggiù
+Nel blu degli occhi tuoi blu
+Felice di stare quaggiù con te

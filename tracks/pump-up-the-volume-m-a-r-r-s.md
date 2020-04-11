@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: pump-up-the-volume-m-a-r-r-s
+lyrics_url: https://genius.com/M-a-r-r-s-pump-up-the-volume-lyrics
 name: Pump Up The Volume
 rankings:
 - end_date: '1987-12-04'
@@ -99,4 +100,77 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-04-30'
 ---
+That's right, this is gonna be the greatest record of the year
 
+Pump up the volume
+Pump up the volume
+Pump up the volume
+Check it out
+
+Brothers and sisters!
+Pump up the volume
+You're gonna get yours!
+
+Brothers and sisters!
+Pump up the volume
+Pump that bass
+
+Brothers and sisters
+Pump up the volume
+You're gonna get yours!
+
+Brothers and sisters!
+Pump up the volume
+Pump, pump me up!
+
+Do it!
+Do it! Do it!
+
+Yeah, yeah!
+Yeah, yeah!
+
+Gotta go now, gotta gotta go now
+Gotta go now
+
+Here we go, c'mon
+
+Watch me!
+Watch me!
+
+Let's do it!
+Do it!
+Do it!
+Do it!
+Ow!
+
+Pump up the volume
+Pump up the volume
+Pump up the volume
+Dance, dance
+
+Rhythmic, systematic, world control
+Magnetic, genetic, demands your soul
+Rhythmic, systematic, world control
+Magnetic, genetic, demands your soul
+Rhythmic, systematic, world control
+Magnetic, genetic, demands your soul
+Rhythmic, systematic, world control
+Magnetic, genetic, demands your soul
+
+It's just-oh!
+It's just-oh!
+It's just-oh! It's just-oh!
+It's ju- it's ju- it's just begun!
+Oh!
+
+Put the needle on the record
+Put the needle on the record
+Put the needle on the record
+Put the needle on the record
+Put the needle on the record
+When the drumbeats go like this
+
+Pump up the volume
+Pump up the volume
+Pump up the volume
+Dance, dance

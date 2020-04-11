@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: give-it-what-you-got-b-t--express
+lyrics_url: https://genius.com/Bt-express-give-it-what-you-got-lyrics
 name: Give It What You Got
 rankings:
 - end_date: '1975-08-15'
@@ -79,4 +80,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
 ---
+Give it what you got
+Give it what you got
+Give it what you got
+Give it what you got
 
+
+Give it what you got
+What you got, what you got
+Don't you ever stop
+Give it what you got
+What you got, what you got
+'Til you get on top
+Give it what you got
+What you got, what you got
+Don't you ever stop
+Give it what you got
+What you got, what you got
+'Til you get on top
+'Til you get on top
+I believe in doing and
+Giving what you got
+To get what you want
+If you want to get something
+That's good for you
+You got to give it what you got
+To get what you want
+
+
+People tell you, you can't make it
+And all that you do is just in vain
+Don't let them run your life
+Don't try and fake it
+Just give it what you got
+'Til you make it
+Hey, hey, hey
+Give it what you got
+Give it what you got
+
+
+You can make it
+With what you got
+You got to give it, give it
+Yeah, just what you got
+
+
+People tell you, you can't make it
+And all that you do is just in vain
+Don't let them run your life
+Don't try and fake it
+Just give it what you got
+'Til you make it
+Hey, hey, hey
+Give it what you got
+Give it what you got
+
+
+Give it what you got
+Give it what you got
+If it's good for you
+Give it what you got
+If you want to get something
+Give it what you got
+You can make it
+You gotta give it, yeah
+Just what you got
+I said give it just what you got
+It can't hurt you, no, no
+Only can help you, yeah
+If you believe it, do it

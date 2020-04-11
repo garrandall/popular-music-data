@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: somethin--stupid-nancy-sinatra-frank-sinatra
+lyrics_url: https://www.musixmatch.com/lyrics/Nancy-Sinatra-Frank-Sinatra/Somethin-Stupid
 name: Somethin' Stupid
 rankings:
 - end_date: '1967-03-24'
@@ -60,4 +61,36 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-06-10'
 ---
+I know I stand in line until you think
+You have the time to spend an evening with me
+And if we go someplace to dance
+I know that there's a chance you won't be leaving with me
 
+And afterwards we drop into a quiet little place
+And have a drink or two
+And then I go and spoil it all by saying
+Something stupid like I love you
+
+I can see it in your eyes that you despise
+The same old lies you heard the night before
+And though it's just a line to you for me it's true
+And never seemed so right before
+
+I practice every day to find some clever lines
+To say to make the meaning come true
+But then I think I'll wait until the evening gets late
+And I'm alone with you
+
+The time is right, your perfume fills my head
+The stars get red and oh, the night's so blue
+And then I go and spoil it all by saying
+Something stupid like I love you
+
+The time is right, your perfume fills my head
+The stars get red and oh, the night's so blue
+And then I go and spoil it all by saying
+Something stupid like I love you
+I love you
+I love you
+I love you
+I love you

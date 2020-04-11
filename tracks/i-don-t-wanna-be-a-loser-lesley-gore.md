@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-don-t-wanna-be-a-loser-lesley-gore
+lyrics_url: https://genius.com/Lesley-gore-i-dont-wanna-be-a-loser-lyrics
 name: I Don't Wanna Be A Loser
 rankings:
 - end_date: '1964-05-29'
@@ -27,4 +28,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
 ---
+I don't wanna be a loser
+I don't wanna have a broken heart
 
+Oh I don't wanna be a loser
+I don't want another girl to tear us apart
+
+Tell me, what can I do to keep from losin' you
+Cause I could never live without your love
+
+I don't wanna be, no I don't wanna be a loser
+I don't wanna hear you say goodbye
+Oh I don't wanna be a loser
+End up with a million tears that I'll have to cry
+
+Oh I'll fight with all my might, kiss you & hold you tight
+Until you say I'm right; I don't wanna be a loser in love
+
+I don't wanna be a loser
+I don't want another girl to tear us apart
+
+Oh please tell me, what can I do to keep from losin' you
+Cause I could never live without your love
+A loser in love, in love, I don't wanna be a loser in love
+Oh I don't wanna be a loser in love
+I don't wanna be a loser in love

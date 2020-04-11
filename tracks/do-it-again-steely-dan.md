@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: do-it-again-steely-dan
+lyrics_url: https://genius.com/Steely-dan-do-it-again-lyrics
 name: Do It Again
 rankings:
 - end_date: '1972-11-24'
@@ -75,4 +76,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-03-10'
 ---
+In the mornin you go gunnin'
+For the man who stole your water
+And you fire till he is done in
+But they catch you at the border
+And the mourners are all sangin'
+As they drag you by your feet
+But the hangman isn't hangin'
+And they put you on the street
 
+
+You go back, Jack, do it again
+Wheel turnin' 'round and 'round
+You go back, Jack, do it again
+
+
+When you know she's no high climber
+Then you find your only friend
+In a room with your two timer
+And you're sure you're near the end
+Then you love a little wild one
+And she brings you only sorrow
+All the time you know she's smilin'
+You'll be on your knees tomorrow
+
+
+You go back, Jack, do it again
+Wheel turnin' 'round and 'round
+You go back, Jack, do it again
+
+
+
+
+
+
+Now you swear and kick and beg us
+That you're not a gambling man
+Then you find you're back in Vegas
+With a handle in your hand
+Your black cards can make you money
+So you hide them when you're able
+In the land of milk and honey
+You must put them on the table
+
+
+Yeah you go back, Jack, do it again
+Wheel turnin' 'round and 'round
+You go back, Jack, do it again

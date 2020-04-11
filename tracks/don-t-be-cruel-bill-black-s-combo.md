@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-be-cruel-bill-black-s-combo
+lyrics_url: https://genius.com/Bill-blacks-combo-dont-be-cruel-lyrics
 name: Don't Be Cruel
 rankings:
 - end_date: '1960-09-18'
@@ -59,4 +60,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
 ---
-
+You know I can be found
+Sitting home all alone
+If you can't come around
+At least please telephone
+Dont be cruel to a heart thats true
+Baby, if I made you mad
+For something I might have said
+Please, lets forget the past
+The future looks bright ahead
+Dont be cruel to a heart thats true
+I dont want no other love
+Baby its just you Im thinking of
+Dont stop thinking of me
+Dont make me feel this way
+Come on over here and love me
+You know what I want you to say
+Dont be cruel to a heart thats true
+Why should we be apart?
+I really love you baby, cross my heart
+Lets walk up to the preacher
+And let us say I do
+Then youll know youll have me
+And Ill know that Ill have you
+Dont be cruel to a heart thats true
+I dont want no other love
+Baby its just you Im thinking of
+Dont be cruel to a heart thats true
+Dont be cruel to a heart thats true
+I dont want no other love
+Baby its just you Im thinking of

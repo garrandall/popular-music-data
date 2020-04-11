@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: love-yourself-justin-bieber
+lyrics_url: https://genius.com/Justin-bieber-love-yourself-lyrics
 name: Love Yourself
 rankings:
 - end_date: '2015-12-11'
@@ -171,4 +172,71 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2016-09-10'
 ---
+For all the times that you rained on my parade
+And all the clubs you get in using my name
+You think you broke my heart, oh girl for goodness sake
+You think I'm cryin' on my own, well I ain't
 
+
+And I didn't wanna write a song
+'Cause I didn't want anyone thinking I still care
+I don't but, you still hit my phone up
+And baby I'll be movin' on
+And I think you should be somethin'
+I don't wanna hold back
+Maybe you should know that
+
+
+My mama don't like you and she likes everyone
+And I never like to admit that I was wrong
+And I've been so caught up in my job, didn't see what's going on
+But now I know, I'm better sleeping on my own
+
+
+'Cause if you like the way you look that much
+Oh baby you should go and love yourself
+And if you think that I'm still holdin' on to somethin'
+You should go and love yourself
+
+
+But when you told me that you hated my friends
+The only problem was with you and not them
+And every time you told me my opinion was wrong
+And tried to make me forget where I came from
+
+
+And I didn't wanna write a song
+'Cause I didn't want anyone thinking I still care
+I don't but, you still hit my phone up
+And baby I'll be movin' on
+And I think you should be somethin'
+I don't wanna hold back
+Maybe you should know that
+
+
+My mama don't like you and she likes everyone
+And I never like to admit that I was wrong
+And I've been so caught up in my job, didn't see what's going on
+But now I know, I'm better sleeping on my own
+
+
+'Cause if you like the way you look that much
+Oh baby you should go and love yourself
+And if you think that I'm still holdin' on to somethin'
+You should go and love yourself
+
+
+For all the times that you made me feel small
+I fell in love, now I feel nothin' at all
+I never felt so low and I was vulnerable
+Was I a fool to let you break down my walls?
+
+
+'Cause if you like the way you look that much
+Oh baby you should go and love yourself
+And if you think that I'm still holdin' on to somethin'
+You should go and love yourself
+'Cause if you like the way you look that much
+Oh baby you should go and love yourself
+And if you think that I'm still holdin' on to somethin'
+You should go and love yourself

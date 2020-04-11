@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: flashback-the-5th-dimension
+lyrics_url: https://genius.com/The-5th-dimension-flashback-lyrics
 name: Flashback
 rankings:
 - end_date: '1973-12-21'
@@ -43,4 +44,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-09'
 ---
+I wake up to a cold sweat to a clock that says it's only 3AM
+Thinking that I felt you, when I really only dreamed of you again
+I'm clingin' to your pillow, like a dreamin' man would hold on, when I feel the flood of memories rushin' in
 
+And I flashback...Aww back to the time you were mine and we lived in a love song
+And I flashback...Aww chasin' the sun we would run with a dream we could grow on
+Everything that we touched...turned to love
+
+My cigarette has burned down, to my fingers, and it brings me back to now
+And I'm searchin' through the ashes, for the answers to the where, the why and how
+Did I ask for too much lovin', or did you need too much freedom? Did we both want more than heaven would allow?
+
+And I flashback...Aww back to the time you were mine and we lived in a love song
+Oh I flashback...Aww chasin' the sun we would run with a dream we could grow on
+Mmmmmm...
+
+(background singers)
+Summer day...runnin' in the rain
+Winter night...thinnin' in my brain
+
+Flashback...Aww back to the time you were mine and we lived in a love song
+Oh I flashback...Aww chasin' the sun we would run with a dream we could grow on
+Everything that we touched...turned to love
+
+(background singers)
+Flashback...Summer day...runnin' in the rain
+Flashback...Winter night...thinnin' in my brain
+Flashback...Summer day, winter night...
+Flashback...Summer day, winter night...
+Flashback...Summer day, winter night...
+Flashback...Summer day, winter night...
+Fade
+
+Submitted by Doug Hoyer
+"flashback"
+The 5th Dimension
+Marilyn McCoo (lead vocal)
+
+I wake up to a cold sweat to a clock that says it's only 3AM
+Thinking that I felt you, when I really only dreamed of you again
+I'm clingin' to your pillow, like a dreamin' man would hold on, when I feel the flood of memories rushin' in
+
+And I flashback...Aww back to the time you were mine and we lived in a love song
+And I flashback...Aww chasin' the sun we would run with a dream we could grow on
+Everything that we touched...turned to love
+
+My cigarette has burned down, to my fingers, and it brings me back to now
+And I'm searchin' through the ashes, for the answers to the where, the why and how
+Did I ask for too much lovin', or did you need too much freedom? Did we both want more than heaven would allow?
+
+And I flashback...Aww back to the time you were mine and we lived in a love song
+Oh I flashback...Aww chasin' the sun we would run with a dream we could grow on
+Mmmmmm...
+
+(background singers)
+Summer day...runnin' in the rain
+Winter night...thinnin' in my brain
+
+Flashback...Aww back to the time you were mine and we lived in a love song
+Oh I flashback...Aww chasin' the sun we would run with a dream we could grow on
+Everything that we touched...turned to love
+
+(background singers)
+Flashback...Summer day...runnin' in the rain
+Flashback...Winter night...thinnin' in my brain
+Flashback...Summer day, winter night...
+Flashback...Summer day, winter night...
+Flashback...Summer day, winter night...
+Flashback...Summer day, winter night...
+Fade
+
+Submitted by Doug Hoyer

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: take-me-out-franz-ferdinand
+lyrics_url: https://genius.com/Franz-ferdinand-take-me-out-lyrics
 name: Take Me Out
 rankings:
 - end_date: '2004-07-09'
@@ -83,4 +84,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-11-06'
 ---
+So if you're lonely, you know I'm here waiting for you
+I'm just a crosshair, I'm just a shot away from you
+And if you leave here, you leave me broken, shattered I lie
+I'm just a crosshair, I'm just a shot, then we can die
 
+
+I know I won't be leaving here with you
+
+
+I say, don't you know? You say you don't know
+I say: take me out
+I say, you don't show, don't move, time is slow
+I say: take me out
+Well, I say, you don't know, you say you don't know
+I say: take me out
+If I move, this could die, if eyes move, this could die
+I want you to take me out
+
+
+I know I won't be leaving here (with you)
+I know I won't be leaving here (with you)
+I know I won't be leaving here (with you)
+I know I won't be leaving here with you
+
+
+I say, don't you know? You say you don't know
+I say: take me out
+If I wane, this could die, I wait this, could die
+I want you to take me out
+If I move, this could die, eyes move, this can die
+Come on, take me out
+
+
+I know I won't be leaving here (with you)
+I know I won't be leaving here (with you)
+I know I won't be leaving here (with you)
+I know I won't be leaving here with you

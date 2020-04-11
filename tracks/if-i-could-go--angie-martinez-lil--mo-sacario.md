@@ -114,15 +114,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-12-14'
 ---
-
- Yeaaaaaaaaaaayyyyy!!!
- Oh yeah yeah
-{Lil' Mo] Yeaaaaaaaaaaayyyy!!!
- Uh, woo! come on, uh
- If I can go, with you
- Yo, yo, uh
-
-
 If I can chose a place to go it gotta be far away
 From here we could crossover like Hardaway
 Somewhere outside the states where tommorow's like today
@@ -140,12 +131,10 @@ Way out the states no 2 ways and no page
 No cells and no trace, and you just a phone call away
 So all I got to say is
 
-
 If I can go, contigo, I'll pack my things, soon as you say
 Baby vamos, we'll fly away, like there is no, no tomorrow
 If can go, contigo, I'll tell my friends, nothing at all
 I'll get my things, soon as you say, baby vamos, we'll fly away
-
 
 And, if I can go, with you
 Oh boy we 'bout to make a lot of people annoyed
@@ -164,67 +153,49 @@ Two cups, one in Senado one in Sand Beach
 And, I'll think I'll go, with you
 So tell the station you need a week back to you
 
-
 If I can go, contigo, I'll pack my things, soon as you say
 Baby vamos, we'll fly away, like there is no, no tomorrow
 If can go, contigo, I'll tell my friends, nothing at all
 I'll get my things, soon as you say, baby vamos, we'll fly away
-
 
 You can fly away, no one has to know
 Will you take me with you, cause if I can go
 Soon as you say the word, we'll be on our way
 To a foreign place, you got to tell me
 
-
 Yo, uh, so now that we got a plan are you comin? We could plan a week
 The only question now is LaGuardia or Kennedy?
-
 
 And a seat, know why? the window cause I like to see
 And seein as to how I'm so fly me and the clouds can speak
 
- 
 And, since we 'bout to go, in a few
 
- 
 Go 'head
-
 
 Oh, I just wanted to tell Trace thank you
 That week off I'm grateful what was you tryin to say boo?
 
- 
 Nuttin just grab my chain off the table and 2 way too
-
 
 Ok, that little place it's a great move
 But ain't no problems, unless the water don't stay blue
 
-
 And the shop's there?
-
-
 If they don't got em, they don't make em
 
-( True!)
 No concrete just sand, throw away your shoes
 Now, that we are on, our way
 And our bags is packed and the car service is not late
 Everything's ok, so I guess I catch you on the next track
 Now I don't gotta ask
 
-
 If I can go, contigo, I'll pack my things, soon as you say
 Baby vamos, we'll fly away, like there is no, no tomorrow
 If I can go, contigo, I'll tell my friends, nothing at all
 I'll get my things, soon as you say, baby vamos, we'll fly away
 
-
 If I can go, contigo, I'll pack my things, soon as you say
 Baby vamos, we'll fly way, like there is no, no tomorrow
 And if I can go, contigo, I'll tell my friends, nothing at all
 Nothing at all, I'll tell my friends, nothing at all
-
-
-

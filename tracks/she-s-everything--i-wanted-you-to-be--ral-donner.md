@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: she-s-everything--i-wanted-you-to-be--ral-donner
+lyrics_url: https://www.musixmatch.com/lyrics/Ral-Donner/She-s-Everything
 name: She's Everything (I Wanted You To Be)
 rankings:
 - end_date: '1962-01-05'
@@ -51,4 +52,26 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
 ---
+If only you would have kissed me
+The way that she kissed me
+And if only (la-la-la) you would have loved me (la-la-la)
+The way that (la-la-la) she loved me
+But you didn't, now she's with me
+Oh, yes, darlin', she's everything I wanted you to be-ee-ee-ee-ee
 
+And it's-a not that I love her so much more
+It's just she gave me the love I've been longin' for
+Oh-oh the love I wanted from you
+Oh, from you, oh
+
+If only (only) you would have wanted me (la-la-la)
+The way she (la-la-la) says she wants me (wants me)
+And if only (only) you said you needed me (la-la-la)
+The way she (la-la-la) said she needs me (needs me)
+But you didn't say a word to me
+Oh, yes, darlin', she's everything I wanted you to be-ee-ee-ee
+She's everything I wanted you to be
+Oh, ev-ev-everything I wanted you to be
+
+FADE
+Oh, yes, everything I wanted you to be

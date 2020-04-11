@@ -6,6 +6,7 @@ features:
 - Gente de Zona
 genres: []
 key: bailando-enrique-iglesias-descemer-bueno-gente-de-zona
+lyrics_url: https://genius.com/Enrique-iglesias-bailando-portugal-version-lyrics
 name: Bailando
 rankings:
 - end_date: '2014-05-23'
@@ -129,3 +130,79 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
 ---
+Letra de "Bailando (Portuguese Portugal Version)" com
+Enrique Iglesias, Mickael Carreira, Gente De Zona & Desmecer Bueno
+
+Yo te miro, se me corta la respiración
+Cuando tú me miras se me sube el corazón
+(Aceleras o meu coração)
+Y en un silencio tu mirada dice mil palabras
+La noche en la que te suplico que no salga el sol
+
+Bailando (bailando)
+Bailando (bailando)
+A noite aquecendo, teu corpo mexendo
+Subindo e baixando (subiendo y bajando)
+Bailando (bailando)
+Bailando (bailando)
+Este fogo cá dentro subindo crescendo
+Ardendo e queimando
+
+Con tu física y tu química también tu anatomía
+La cerveza y el tequila y tu boca con la mía
+Ya no puedo más (não aguento mais)
+Ya no puedo más (não aguento mais)
+Com essa melodia, és a minha fantasia
+Com a tua filosofia a minha mente está vazia
+Não aguento mais (ya no puedo más)
+Não aguento mais (ya no puedo más)
+
+Yo quiero estar contigo, vivir contigo
+Bailar contigo, tener contigo
+Una noche loca (una noche loca)
+Ay besar tu boca (y besar tu boca)
+Eu quero estar contigo, viver contigo
+Dançar contigo e ter contigo
+Uma noite louca (uma noite louca)
+Uma noite louca
+
+(Ooh, ooh, ooh, ooh)
+
+Tú me miras y me llevas a otra dimensión
+(Entro noutra dimensão)
+Tus latidos aceleran a mi corazón
+(Teu suspiro acelera o meu coração)
+Que ironia do destino não poder tocar-te
+Abrazarte y sentir la magia de tu olor
+
+Bailando (bailando)
+Bailando (bailando)
+A noite aquecendo, teu corpo mexendo
+Subindo e baixando (subiendo y bajando)
+Bailando (bailando)
+Bailando (bailando)
+Este fogo cá dentro subindo crescendo
+Ardendo e queimando
+
+Con tu física y tu química también tu anatomía
+La cerveza y el tequila y tu boca con la mía
+Ya no puedo más (não aguento mais)
+Ya no puedo más (não aguento mais)
+Com essa melodia, és a minha fantasia
+Com a tua filosofia a minha mente está vazia
+Não aguento mais (ya no puedo más)
+Não aguento mais (ya no puedo más)
+
+Yo quiero estar contigo, vivir contigo
+Bailar contigo, tener contigo
+Una noche loca (una noche loca)
+Ay besar tu boca (y besar tu boca)
+Eu quero estar contigo, viver contigo
+Dançar contigo e ter contigo
+Uma noite louca (uma noite louca)
+Uma noite louca
+(Ooh, ooh, ooh, ooh)
+
+Bailando amor
+Bailando amor
+Es que se me va el dolor

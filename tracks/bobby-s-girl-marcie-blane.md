@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: bobby-s-girl-marcie-blane
+lyrics_url: https://genius.com/Marcie-blane-bobbys-girl-lyrics
 name: Bobby's Girl
 rankings:
 - end_date: '1962-10-26'
@@ -71,4 +72,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-02'
 ---
+(You're not a kid anymore
+You're not a kid anymore.)
 
+When people ask of me
+'What would you like to be now that you're not a kid anymore?'
+(You're not a kid anymore.)
+I know just what to say
+I answer right away
+There's just one thing I've been wishing for
+
+I wanna be Bobby's girl
+I wanna be Bobby's girl
+That's the most important thing to me
+And if I was Bobby's girl
+If I was Bobby's girl
+What a faithful, thankful girl I'd be
+
+Each night I sit at home
+Hoping that he will phone
+But I know Bobby has someone else
+(You're not a kid anymore.)
+Still in my heart I pray
+There soon will come the day
+When I will have him all to myself
+
+I wanna be Bobby's girl
+I wanna be Bobby's girl
+That's the most important thing to me
+And if I was Bobby's girl
+If I was Bobby's girl
+What a faithful, thankful girl I'd be
+What a faithful, thankful girl I'd be
+I wanna be Bobby's girl
+I wanna be Bobby's girl
+I wanna be Bobby's girl

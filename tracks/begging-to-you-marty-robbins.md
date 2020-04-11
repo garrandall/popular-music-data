@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: begging-to-you-marty-robbins
+lyrics_url: https://genius.com/Marty-robbins-begging-to-you-lyrics
 name: Begging To You
 rankings:
 - end_date: '1963-12-06'
@@ -27,4 +28,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-12-28'
 ---
+I left you this morning couldn't take anymore
+You laughed and you dared me to walk out the door
+You said that I'd come back you knew what I'd do
+And you know you were right cause I'm back here tonight begging to you
 
+I won't disappoint you I'm begging to stay
+That's what you wanted to hear anyway
+It must make you happy to make me so blue
+What a pityful sight I must be tonight begging to you
+
+You don't want my loving but you let me stay around
+I guess just to walk on so you won't touch the ground
+To you it don't matter what you cause me to do
+As long as you keep me begging to you

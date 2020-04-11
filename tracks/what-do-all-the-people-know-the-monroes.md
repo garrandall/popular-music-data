@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: what-do-all-the-people-know-the-monroes
+lyrics_url: https://genius.com/The-monroes-what-do-all-the-people-know-lyrics
 name: What Do All The People Know
 rankings:
 - end_date: '1982-06-04'
@@ -39,4 +40,66 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-07-17'
 ---
+You know I told you once tonight
+That you could always speak your mind
+You work so hard to say what's right
+I watch you do it all the time
 
+And when I called you on the phone
+You said that I could be the one
+But here I'm standing all alone
+And you're out lying in the sun
+
+Tell me, am I getting in too deep?
+Every night I'm talking in my sleep
+Lately I am been so confused
+I really don't know what to do
+
+Could you be the one I'm thinking of?
+Could you be the girl I really love?
+All the people tell me so
+But what do all the people know?
+
+You know I told you once tonight
+That you could always speak your mind
+You work so hard to say what's right
+I watch you do it all the time
+
+And when I called you on the phone
+You said that I could be the one
+But here I'm standing all alone
+And you're out lying in the sun
+
+Tell me, am I getting in too deep?
+Every night I'm talking in my sleep
+Maybe we're just holding on
+To something that'll soon be gone
+
+Could you be the one I'm thinking of?
+Could you be the girl I really love?
+All the people tell me so
+But what do all the people know?
+
+Do you think I'm blind to what you do?
+Do you think I really care for you?
+Or is it just another game that you and I pretend to play?
+
+Do you think that we, oh, should let it show?
+Do you think that we, oh, should let it go?
+Or is it just another game that you and I pretend to play?
+
+Tell me, am I getting in too deep?
+Every night I'm talking in my sleep
+Lately I am so confused
+I really don't know what to do
+
+Could you be the one I'm thinking of?
+Could you be the girl I really love?
+All the people tell me so
+But what do all the people know?
+
+All the people tell me so
+But what do all the people know?
+
+All the people tell me so
+But what do all the people know?
