@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: yes-i-m-ready-teri-desario-with-k-c-
+lyrics_url: https://genius.com/Teri-desario-yes-im-ready-lyrics
 name: Yes I'm Ready
 rankings:
 - end_date: '1979-11-23'
@@ -99,4 +100,115 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-04-19'
 ---
+:
+I don't even know how to love you
+Just the way you want me to, oh, baby
+But I'm ready to learn
+Yes, I'm ready to learn
+:
+To fall in love
+To fall in love
+To fall in love with you
 
+:
+Oh, baby, I don't even know how to hold your hand
+Just to make you understand
+But I'm ready to learn
+Yes, I'm ready to learn
+:
+To hold your hand
+Make you understand
+To hold your hand right now
+
+:
+I don't even know how to kiss your lips
+At a moment like this, oh, yeah
+:
+Oh, but I'm gonna learn how to do
+All the things you want me to, yeah
+
+:
+Are you ready?
+:
+Yes, I'm ready
+Are you ready?
+:
+Yes, I'm ready
+:
+To fall in love
+To fall in love
+To fall in love with you
+
+:
+Are you ready?
+:
+Yes, I'm ready
+:
+Are you ready?
+:
+Yes, I'm ready
+:
+Are you ready?
+:
+Yes, I'm ready
+:
+Are you ready?
+
+:
+To love you
+:
+Hold you
+:
+Kiss you
+:
+Want you
+:
+Squeeze you
+:
+Need you
+
+:
+Oh, I'm ready
+:
+Oh, I'm ready
+:
+Yes, I'm ready
+:
+Oh, I'm ready
+
+:
+To love you
+:
+Need you
+:
+Kiss you
+:
+Want you
+:
+Squeeze you
+:
+Trust you
+:
+Take you
+
+:
+Oh, I'm ready
+:
+Yes, I'm ready
+:
+Yes, I'm ready
+:
+Yes, I'm ready
+
+:
+To love you
+:
+Want you
+:
+Kiss you
+:
+Need you
+:
+Squeeze you
+:
+Hold you

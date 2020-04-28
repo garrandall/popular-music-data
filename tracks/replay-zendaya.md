@@ -129,9 +129,6 @@ Beating for you
 I wanna put you on repeat, play you everywhere I go, e-e-everywhere I go, play you everywhere I go
 Put you on repeat, play you everywhere I go, e-e-everywhere I go, play you everywhere I go
 
-
-
-
 Feel it all, feel it all crashing down (down, down)
 I'm so lost, I'm so lost in your sound
 Yeah, wanna put this song on replay (put this song on replay) on replay
@@ -139,7 +136,7 @@ Lis-listen to you all day, to you all day!
 
 
 
-Yeah 
+Yeah
 
 
 

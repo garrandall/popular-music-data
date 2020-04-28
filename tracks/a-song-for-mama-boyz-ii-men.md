@@ -127,7 +127,7 @@ I can face anything
 And no one else can do
 What you have done for me
 You'll always be, you will always be
-The girl in my life, ooh oh
+The girl in my life, oh oh
 
 
 Mama, Mama you know I love you

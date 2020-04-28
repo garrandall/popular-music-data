@@ -22,8 +22,8 @@ rankings:
 ---
 
 My sweet Lord
-Hmm, my Lord
-Hmm, my Lord
+Hm, my Lord
+Hm, my Lord
 
 I really want to see you
 I really want to be with you
@@ -31,8 +31,8 @@ I really want to see you, Lord
 But it won't take long, my Lord
 
 My sweet Lord
-Hmm, my Lord
-Hmm, my Lord
+Hm, my Lord
+Hm, my Lord
 
 I really want to know you
 I really want to go with you
@@ -50,7 +50,7 @@ I really want to see you, Lord
 But it takes so long, my Lord
 
 My sweet Lord
-Hmm, my Lord
+Hm, my Lord
 My, my, Lord
 
 I really want to know you, Lord
@@ -59,7 +59,7 @@ I really want to show you, Lord
 That it won't take long, oh Lord
 
 (Hallelujah)
-Hmm Lord
+Hm Lord
 (Hallelujah)
 My sweet Lord
 (Hallelujah)

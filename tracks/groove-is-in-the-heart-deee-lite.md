@@ -158,7 +158,7 @@ Baby, you'll see that rhythm is the key (yeah)
 Get, get, wit' it, wit' it, can't think, quit it, quit it
 Stomp on the street when I hear a funk beat (bloop)
 Playin' Pied Piper, follow what's true
-Baby, just sing about the groove! 
+Baby, just sing about the groove!
 *Sing it*
 
 
@@ -180,7 +180,7 @@ Groove is in the heart
 Groove is in the heart
 
 
-Hmmmmm
+Hm
 He he he he
 C'mon, y'all deep
 Y'all are crazy, man

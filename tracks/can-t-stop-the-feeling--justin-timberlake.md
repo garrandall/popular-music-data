@@ -224,7 +224,7 @@ We're flying up, no ceiling, when we in our zone
 
 I got that sunshine in my pocket
 Got that good soul in my feet
-I feel that hot blood in my body when it drops (ooh)
+I feel that hot blood in my body when it drops (oh
 I can't take my eyes up off it, moving so phenomenally
 Room on lock, the way we rock it, so don't stop
 
@@ -247,7 +247,7 @@ I can't stop the feeling
 So just dance, dance, dance (Come on)
 
 
-Ooh, it's something magical
+Oh, it's something magical
 It's in the air, it's in my blood, it's rushing on
 I don't need no reason, don't need control
 I fly so high, no ceiling, when I'm in my zone

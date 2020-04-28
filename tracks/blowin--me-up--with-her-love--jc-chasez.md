@@ -145,14 +145,14 @@ She was uh uh oh, uh uh oh
 Blowin' me up with her love
 
 
-Ahhh, there's just something about you baby..
+Ah, there's just something about you baby..
 It's taking me over, I want you to know
 
 
 Now it's on tonight
 She took all control
 Turned off all the lights
-She said....don't you want to?
+She said...don't you want to?
 Na na na, na na na
 Hey!
 Na na na na na
@@ -203,4 +203,4 @@ All night long
 I just can't get enough
 She was ah ah oh, ah ah oh
 Blowin' me up with her love
-Ooo ooooo
+Ooo oo

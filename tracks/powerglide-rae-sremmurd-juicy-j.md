@@ -81,7 +81,7 @@ rankings:
 
 Yeah, Yeah, Yeah
 Mike WiLL Made-It
-Yeah, Yeah Yeaah
+Yeah, Yeah Yeah
 Mally Mall
 Oh, Oh, Oh
 Oh, Oh
@@ -140,7 +140,7 @@ She said, "I only wanna dance for you"
 We have no mercy for you, no (no)
 Me and my niggas closer than in-laws (than in-laws)
 Fuck an interview she know the answer (answer)
-Prototype cars not a Jaguar, aaah!
+Prototype cars not a Jaguar, ah!
 
 What's in ya' mug? Toasted up, no I ain't hostin'
 Kush all in my lap because these hoes don't want to roll it

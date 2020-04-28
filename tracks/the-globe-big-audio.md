@@ -93,17 +93,14 @@ It's 1 am let's go out to a rave
 One more in before we hit that grave
 It's hotter than a microwave wave
 
-(Chorus)
 
 (Lift it on up, lift it on up)
 
-(Chorus)
 
 (I am the fisherman
 On me way to the garden party at the palace
 Where's the party, officer?)
 
-(Chorus)
 
 (Here we go one time break it on down)
 
@@ -116,19 +113,15 @@ If you insist
 Here's one more chance now
 That you just missed
 
-Chorus
 
 (I believe you, I believe you)
 
-(Chorus)
 
 (A'waking up the global warming way
 Napalm cornflakes for my Special K
 What's the health department got to say?
 Don't smoke more than fifty fags a day)
 
-(Chorus)
 
 (C'mon, party on down)
 
-(Chorus)

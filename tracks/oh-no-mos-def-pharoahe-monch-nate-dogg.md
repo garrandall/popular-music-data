@@ -79,7 +79,7 @@ Say my name, say my name
 Observe how I stake my claim, I independently lay it down
 and played my game, my own two raise my flame
 Cause dick ridin ain't my thang
-I earned what they said I wouldn't 
+I earned what they said I wouldn't
 I got it the way they said I couldn't
 But now I'm gettin it and they whole grill is crooked
 Mad cause I'm gettin caked out from my bookings
@@ -88,7 +88,7 @@ What!? The kid's better buy my rookie card now
 Cause after this year the price ain't comin down
 And if you got a joint bubblin then get money now
 Cause in a minute, there's gonna be some real trouble comin out
-Just a warnin, as usual some cats wont heed it
+Just a warnin, as usual some cats won't heed it
 The hard headed always gotta feel it to believe it
 It's a shame the jealous gaze is too short to see it
 But when they face hit the cement, they nod in agreement
@@ -106,7 +106,7 @@ The do or die stay rumblin and bumblin hard
 And when we move, we ain't got no discussion at all
 East coast on your neck and you ain't shruggin it off
 Try to bullyfoot and end up stumblin off
-I'm Daddy Brooklyn, y'all niggaz are the sons of New York
+I'm Daddy Brooklyn, y'all niggas are the sons of New York
 Gettin spanked when there's too much trouble to talk
 Respect mine
 
@@ -124,7 +124,7 @@ Very contagious raps should be trapped in cages
 Through stages of wackness, Pharoahe's raps are blazin
 And it amazes - me how you claim thug
 but go two-ways without SkyTel pagers
-I'm intellectual, pass more essays/ese's 
+I'm intellectual, pass more essays/ese's
 than motorcade police parades through East L.A.
 More beef then deli's, thus what I vent is just
 What you lust to vent is irrele'

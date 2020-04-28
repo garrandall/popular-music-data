@@ -25,8 +25,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
 ---
-Ooh, hey, hey, ha
-Ooh, ooh
+Oh, hey, hey, ha
+Oh, oh
 
 Got my fingers crossed
 I'm hoping I'll be skating with you

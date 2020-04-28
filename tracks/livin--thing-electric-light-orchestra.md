@@ -87,7 +87,7 @@ Oh, rollin' and riding and slipping and sliding
 It's magic
 
 And you, and your sweet desire,
-You took me, ooh, oh, higher and higher, baby
+You took me, oh oh, higher and higher, baby
 
 It's a livin' thing,
 It's a terrible thing to lose
@@ -135,7 +135,7 @@ What a terrible thing to lose
 
 It's a living thing
 It's a terrible thing to lose
-It's a given thing....
+It's a given thing...
 
 
 

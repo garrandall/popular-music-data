@@ -112,7 +112,7 @@ You got what it takes to set my soul on fire
 But oh, oh, whoa-oh, whoa-oh whoa-oh-oh yeah
 You got what it takes for me
 
-Now when you're near me, ooo-wee
+Now when you're near me, oo-wee
 My head goes around and around
 And when you kiss me, a-little girl
 My love comes tumblin' down, you send me

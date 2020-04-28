@@ -64,7 +64,7 @@ I waited, I waited
 Time went by,
 
 I tried to laugh
-But all i could do was cry
+But all I could do was cry
 Silly, silly wasn't I,
 
 Oh wasn't I silly

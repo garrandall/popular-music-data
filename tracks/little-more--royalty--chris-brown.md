@@ -14,11 +14,11 @@ rankings:
 ---
 
 Wake me up before you go,
-Ooh, I need a little more
+Oh, I need a little more
 Just a little more, a little more of your love
 
 Wake me up before you go,
-Ooh, I need a little more
+Oh, I need a little more
 Just a little more, a little more of your love
 
 Oh, I need a jumpstart,
@@ -33,11 +33,11 @@ Girl, the way you make me smile is the definition of a real lady
 So before I go to work, can I ask you for a favor?
 
 Wake me up before you go,
-Ooh, I need a little more
+Oh, I need a little more
 Just a little more, a little more of your love
 
 Wake me up before you go,
-Ooh, I need a little more
+Oh, I need a little more
 Just a little more, a little more of your love
 
 'Cause your love, your love, your love
@@ -62,10 +62,10 @@ You're making me stronger, bring out the best of me
 So before I go to work, can I ask you a favor?
 
 Wake me up before you go,
-Ooh, I need a little more
+Oh, I need a little more
 Just a little more, a little more of your love
 Wake me up before you go,
-Ooh, I need a little more
+Oh, I need a little more
 Just a little more, a little more of your love
 
 'Cause your love, your love, your love

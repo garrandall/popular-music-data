@@ -87,9 +87,6 @@ It's not the ribbons in your hair
 And I don't mind you comin' here
 And wastin' all my time
 
-
-
-
 I don't mind you hangin' out
 And talkin' in your sleep
 It doesn't matter where you've been
@@ -108,9 +105,6 @@ I needed someone to feed
 I guess you're just what I needed
 (Just what I needed)
 I needed someone to bleed
-
-
-
 
 I don't mind you comin' here
 And wastin' all my time, time

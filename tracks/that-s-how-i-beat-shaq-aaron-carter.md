@@ -18,7 +18,7 @@ rankings:
 ---
 
 And it goes, and it goes
-And it goes a little something like this 
+And it goes a little something like this
 
 Hit It!
 Aaron's in the house
@@ -57,7 +57,7 @@ I knew I could take him
 Stared' at Shaq, psyche him out
 I said O'Neal, you're in my house now
 Start the game the whistle blows
-Pay attention close 'cause the story goes... 
+Pay attention close 'cause the story goes...
 
 
 It's like boom (boom)
@@ -123,8 +123,4 @@ If it was a dream and it wasn't real
 
 How'd I get a jersey with the name O'Neal?
 Woah...
-
-
-
-
 

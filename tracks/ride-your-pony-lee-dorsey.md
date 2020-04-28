@@ -52,19 +52,15 @@ Now stay in the saddle
 (Ride) New York City & Detroit too
 (Ride) on to New Orleans, the home of the blues
 
-(chorus)
 (Pistol yeah) now get ready
 Now shoot! (bang) Shoot! (bang) Shoot! (bang)
 
-(chorus)
 (We're gonna ride) to St. Louis where the girls are pretty
 (Ride) Atlanta, GA, what a swingin' city
 (Ride) Got to make it, that's for sho'
 (Ride) Move on furthermo'
 
-(chorus)
 (Pistol yeah) now get ready
 Now shoot! (bang) Shoot! (bang) Shoot! (bang)
 (Ride, ride) All right now, stay beside me, stay beside me
 (Ride, ride) All right! (Ride, ride)
-...& fade

@@ -96,10 +96,10 @@ rankings:
 Guy on phone: Yo let me talk to Snoop
 Snoop answers phone: E ai?
 Guy on phone: Yo dog we on the way to do the video
-Snoop: Fo shizzle! 
+Snoop: Fo shizzle!
 
 
-Ohhh-ohh-oh-ohhh-ohhh... (Oh-hooo!)
+Ohhh-oh-oh-oh-oh... (Oh-hooo!)
 Yeahhh, yeahh, yeah, yeahhhh... (Ehh... oh yeah, there's something about you...)
 
 Beautiful, I just want you to know (Oh-hooo!)
@@ -142,9 +142,6 @@ And we gon' be together until your moms move in... (Oh-hooo!)
 
  Ehh... oh yeah, there's something about you...
 
-
-
-
 ...See I just want you
 To know that you are really special...
 Ohh why, oh why, oh why, oh why...
@@ -153,25 +150,17 @@ Ohh why, oh why, oh why, oh why...
 Snoop Dogg Clothing, that's what I'm groomed in
 You got my pictures on the wall in your room-in (Oh-hooo!)
 Girls be complainin' you keep me boomin'
-But girls like that wanna listen to Pat Boone (Ehh... oh yeah, there's 
+But girls like that wanna listen to Pat Boone (Ehh... oh yeah, there's
 something about you...)
 You's a college girl, but that don't stop you from doin'
 Come and see the Dogg in a hood near you-in (Oh-hooo!)
 You don't ask why I roll wit a crew, and
-Twist up my fingers and wear dark blue-in (Ehh... oh yeah, there's something 
+Twist up my fingers and wear dark blue-in (Ehh... oh yeah, there's something
 about you...)
 On the eastside, that's the crew I choose
 Nothin' I do is new to you (Oh-hooo!)
 I smack up the world if they rude to you (Ehh...)
 'Cause baby girl you so beautiful...
 
-
-
-
-
  Ehh... oh yeah, there's something about you... Oh-hooo!
-
-
-
-
 

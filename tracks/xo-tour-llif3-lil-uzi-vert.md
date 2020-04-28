@@ -194,7 +194,7 @@ Saw the way she looked me in my eyes
 She said, "I am not afraid to die" (Yeah)
 All my friends are dead
 Push me to the edge (Yeah)
-All my friends are dead, yeah, ooh
+All my friends are dead, yeah, oh
 Push me to the edge
 All my friends are dead, yeah
 All my friends are dead, yeah
@@ -202,7 +202,7 @@ All my friends are dead, yeah
 
 That is not your swag, I swear you fakin'
 Now these niggas wanna take my cadence
-Rain on 'em, thunderstorm, rain on 'em (Ooh, yeah)
+Rain on 'em, thunderstorm, rain on 'em (Oh, yeah)
 Medicine, lil' nigga, take some (Yeh, yeh)
 Fast car, NASCAR, race on 'em
 In the club, ain't got no ones, then we would beg them

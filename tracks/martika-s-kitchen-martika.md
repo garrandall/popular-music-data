@@ -18,7 +18,7 @@ rankings:
 ---
 Wooo, here we go
 The table's set, baby
-Wooo, ahh
+Wooo, ah
 Here we go
 My oven is hot
 
@@ -40,7 +40,7 @@ I'll even let you break the dishes
 Come on
 Get some, get some, get some
 In Martika's kitchen, baby
-Ooh
+Oh
 We're talking about the kitchen
 
 Don't you just love springtime in the city
@@ -60,7 +60,7 @@ I'll even let you break the dishes
 Come on
 Get some, get some, get some
 In Martika's kitchen, baby
-Ooh
+Oh
 We're talking about the kitchen
 
 The table is set

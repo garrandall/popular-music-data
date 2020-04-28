@@ -172,9 +172,6 @@ I'm coming out
 I want the world to know
 I got to let it show
 
-
-
-
 I'm coming out
 I want the world to know
 Got to let it show

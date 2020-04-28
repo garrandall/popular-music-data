@@ -64,6 +64,6 @@ Baby, let me I wanna be good to you
 Baby, baby, let me be good to you
 Oh, I wanna be so good
 
-Ooh, baby, baby please let me be good to you
+Oh, baby, baby please let me be good to you
 Oh, I wanna be so good
 Oh, baby, oh, baby I wanna be good to you

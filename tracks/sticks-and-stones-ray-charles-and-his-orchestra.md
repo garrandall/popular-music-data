@@ -65,9 +65,6 @@ Scandlizin' my name
 They'll say anything just to make me feel bad
 Yes anything to make me shame
 
-
-
-
 People talkin' tryin' to break us, yup
 And they scandlizin' my name
 They'll say anything just to make me feel bad

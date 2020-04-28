@@ -49,14 +49,14 @@ I'm sitting and writing a letter to you
 Knowing that you will probably never receive it
 But I miss you, I walk by myself
 I talk to myself, I sleep by myself
-Ooh baby, I miss you
+Oh baby, I miss you
 
-Dirty dishes in the sink, mmm, hmm
+Dirty dishes in the sink, mmm, hm
 Lots of time for me to think
 Didn't think, didn't think I knew the tear
 It's been a week but oh, it seems like a year
 
-This house is not the same, ooh, since you've been gone
+This house is not the same, oh since you've been gone
 I never thought that you would stay so long
 You haven't written, woah, you never never call
 I hope you're okay but that ain't all
@@ -76,11 +76,11 @@ Come on back, come on back, let's start anew
 
 I kinda miss you, I kinda miss you
 I kinda miss you, I, you know, I miss you
-I kinda miss you, mmm, hmm
+I kinda miss you, mmm, hm
 I, I kinda miss you, I, you know, I miss you
 I kinda miss you, you know, I miss you
 
-Ooh baby, ooh, I miss you, I seal this letter,
+Oh baby, oh I miss you, I seal this letter,
 I seal this letter with a tear, baby, I miss you
 The kiss and the goodbye, I wish I could
 I wish I could do it all over again, oh baby, I miss you

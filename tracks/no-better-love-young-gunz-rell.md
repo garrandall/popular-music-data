@@ -75,7 +75,7 @@ Your everything
 
 
 
-I think i might wife her
+I think I might wife her
 You know, powder blue rocawear suite
 White nikes (uh)
 My niggas like her
@@ -94,7 +94,7 @@ I got my babygirl
 Plus she bout to drop my baby girl (off)
 Forget about all the rumors you hear girl
 A newer life is soon to be here girl
-And cant nothin fuck up that
+And can't nothin fuck up that
 Gotta fuck with that
 Cant find a better love than that
 
@@ -102,7 +102,7 @@ Cant find a better love than that
 
 Dont stop givin me your lovin
 Cuz my hearts been racin for your lovin
-I wont give it up for nothin
+I won't give it up for nothin
 (cuz there's no better love)
 Girl you got me goin crazy
 You got me thinkin bout you baby
@@ -111,34 +111,34 @@ Could you be my one and only lady
 
 
 
-Comin up i thought cupid was stupid
+Comin up I thought cupid was stupid
 Only two loves, my family and music
 Fallen through somethin, jus couldnt do it
 It was the beginin of time
 And you was like nine but god damn you was fine
 Use to stay on my mind
-When i was out on my grind
+When I was out on my grind
 Open up the bags when im choppin my dimes
 There in the spindell
 Stood by me from the windows
 Popped up mad shit with me and got me rentals
-Sick with the plastic, what can i say
-Bitches hat around the way i had a lady, they
+Sick with the plastic, what can I say
+Bitches hat around the way I had a lady, they
 Gossipin, watchin him, runnin back
 Moved up north, kinda fell of track
 Still my peoples though
-Love when i see you though
+Love when I see you though
 Once a while, might call
 Jus to chill, might ball
 Forever my dogg
-Even when i downfall
+Even when I downfall
 First in line whenever chicks is envolved
 
 
 
 Dont stop givin me your lovin
 Cuz my hearts been racin for your lovin
-I wont give it up for nothin
+I won't give it up for nothin
 (cuz there's no better love)
 Girl you got me goin crazy
 You got me thinkin bout you baby
@@ -151,7 +151,7 @@ We the youngest in charge
 So leave them other scrubs
 We give you better love
 The same time its tough
-Baby i feel the same as Neef do
+Baby I feel the same as Neef do
 Spit the game as he do
 You can take to
 Aint no need to bring your peoplelingere see through
@@ -164,21 +164,21 @@ Im ahead if you give head
 We do our jobs at the mall
 
 
-Every since the day i saw your face
+Every since the day I saw your face
 My mind told me
 You were the one that was down (for me)
-And baby when i get laced
+And baby when I get laced
 Im gonna do what you want, i'll be there (truelu)
-So dont you let a thing
+So don't you let a thing
 Turn you away from the love you need (my dear)
-I dont wanna play
-Around with you, cuz i know i found lovin right here
+I don't wanna play
+Around with you, cuz I know I found lovin right here
 
 
 
 Dont stop givin me your lovin
 Cuz my hearts been racin for your lovin
-I wont give it up for nothin
+I won't give it up for nothin
 (cuz there's no better love)
 Girl you got me goin crazy
 You got me thinkin bout you baby
@@ -189,7 +189,7 @@ Could you be my one and only lady
 
 Dont stop givin me your lovin
 Cuz my hearts been racin for your lovin
-I wont give it up for nothin
+I won't give it up for nothin
 (cuz there's no better love)
 Girl you got me goin crazy
 You got me thinkin bout you baby

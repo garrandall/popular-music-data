@@ -84,14 +84,14 @@ Its hard to believe life can be so demanding
 I'm sending out an s.o.s.
 Stop me from drowning baby I'll do the rest
 
-Rescue me 
+Rescue me
 Your love has given me hope (your love has given me hope)
-Rescue me 
+Rescue me
 I'm drowning, baby throw out your rope (baby throw out your rope)
 
 
-Ooh ahh, ooh ahh, love is understanding
-Ooh ahh, ooh ahh, love is understanding
+Oh ah, oh ah, love is understanding
+Oh ah, oh ah, love is understanding
 
 Love is understanding
 It's hard to believe life can be so demanding

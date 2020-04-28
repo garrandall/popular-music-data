@@ -93,19 +93,19 @@ Hush baby, wanna let ya know
 This is how its gonna go
 If u wanna come and play
 Gotta do it my way
-Hush baby, dont talk so much
+Hush baby, don't talk so much
 Just wanna feel ya touch
 Everything will be ok
 If u do it my way (my way, my way)
-Hush baby 
+Hush baby
 
 
 U feel so good
-Rest of my life i wish i could
+Rest of my life I wish I could
 Hold u tight and take a flight out the hood
-Was i foul or just misunderstood?
+Was I foul or just misunderstood?
 Mind-mannered or up to no-good
-It really doesnt matter, either way i should
+It really doesnt matter, either way I should
 Maximize the moment and hold ya close
 Jump in the drop spider and cruise down the coast
 Who loved u the most?
@@ -116,14 +116,11 @@ Runnin outta time
 Drama of all kind
 But theres faith in our mind
 We spiritually inclined
-Sometimes i flip
+Sometimes I flip
 Sometimes u flip
 Sometimes we wild out and act like lunatics
 We movin too fast, the whole world's in a rush
 Everybody just hush...
-
-
-
 
 Its all a test; the pain, the drama
 The villa in the bahamas
@@ -135,7 +132,7 @@ The people we meet, the hands that we shake
 Whether its Mortans or Sizzla steak
 But everything will be okay
  if we do it my way
-Cuz i believe in romance
+Cuz I believe in romance
 Kissin while ya slow dance
 Me bouncin baby? no chance
 No matter the circumstance
@@ -146,9 +143,6 @@ Unconditional love, forever we are attatched
 Deal with the drama, we can find our way back
 With or without the Maybach...
 
-
-
-
 I can feel ya pain
 Like we simese twins connected by our brains
 Walkin thru the desert in the ice cold rain
@@ -156,11 +150,8 @@ Want u in my life and nothins gonna change
 God willin, we still be doin our thang
 When my six-pack's faded
 Raps outdated
-But thats many years from now so dont rush
+But thats many years from now so don't rush
 Little mama just hush...
-
-
-
 
 Hush baby
 Hush hush darling
@@ -173,7 +164,7 @@ Hush baby hush
 Hush baby hush
 
 
-Hush baby wanna let ya know... 
+Hush baby wanna let ya know...
 
 
 

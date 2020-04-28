@@ -36,7 +36,7 @@ Uh, uh, play with that pussy like peek-a-boo, uh
 Play with that pussy like peek-a-boo, uh
 Play with that pussy like peek-a-boo, uh
 Play with that pussy like peek-a-boo, uh
-Play with that money like peek-a-boo, ooh
+Play with that money like peek-a-boo, oh
 Play with these bitches like peek-a-boo, uh
 Broke ass bitch ass nigga
 I'm not finna' play with you, that's what these rappers do
@@ -63,7 +63,7 @@ Aiming at you and your fellows
 My new bitch yellow
 She blow that dick like a cello
 Fuck it, then send that bitch home on the metro
-Ooh, young nigga fly like a pigeon
+Oh, young nigga fly like a pigeon
 Versace frames, they be hidin' my vision
 Make sure all my niggas eat, that's the mission
 Emotion, I'ma go get it, go get it, I got it
@@ -72,7 +72,7 @@ Uh, uh, play with that pussy like peek-a-boo, uh
 Play with that pussy like peek-a-boo, uh
 Play with that pussy like peek-a-boo, uh
 Play with that pussy like peek-a-boo, uh
-Play with that money like peek-a-boo, ooh
+Play with that money like peek-a-boo, oh
 Play with these bitches like peek-a-boo, uh
 Broke ass bitch ass nigga
 I'm not finna' play with you, that's what these rappers do
@@ -91,7 +91,7 @@ Made that lil' bitch tape a brick to her stomach
 You not the gang, we don't kick it or punt it
 Just bought the Wraith and I ride it tectonic
 Look at the numbers, mechanics ain't frontin'
-I came from the limp, went to jail, I got punished, ooh
+I came from the limp, went to jail, I got punished, oh
 Pull in the 4, Freddy Kreuger, wow
 My niggas' tongue barracuda
 You cappin', I came from trappin'
@@ -108,7 +108,7 @@ Uh, uh, play with that pussy like peek-a-boo, uh
 Play with that pussy like peek-a-boo, uh
 Play with that pussy like peek-a-boo, uh
 Play with that pussy like peek-a-boo, uh
-Play with that money like peek-a-boo, ooh
+Play with that money like peek-a-boo, oh
 Play with these bitches like peek-a-boo, uh
 Broke ass bitch ass nigga
 I'm not finna' play with you, that's what these rappers do
@@ -141,7 +141,7 @@ Uh, uh, play with that pussy like peek-a-boo, uh
 Play with that pussy like peek-a-boo, uh
 Play with that pussy like peek-a-boo, uh
 Play with that pussy like peek-a-boo, uh
-Play with that money like peek-a-boo, ooh
+Play with that money like peek-a-boo, oh
 Play with these bitches like peek-a-boo, uh
 Broke ass bitch ass nigga
 I'm not finna' play with you, that's what these rappers do

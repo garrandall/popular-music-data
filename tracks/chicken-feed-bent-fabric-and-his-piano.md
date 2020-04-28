@@ -1,6 +1,6 @@
 ---
 artists:
-- Bent Fabric and His Piano
+- Bent Fabric
 features: []
 genres: []
 key: chicken-feed-bent-fabric-and-his-piano

@@ -101,6 +101,6 @@ Don't wanna kiss me, don't kiss me
 That you don't wanna do, no
 
 
-La ooh ah, ooh-ooh ah
-Ooh-ooh-ooh
-Ooh ooh, ooh ooh
+La oh ah, oh-oh ah
+Oh-oh-oh
+Oh oh, oh oh

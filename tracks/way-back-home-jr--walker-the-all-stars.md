@@ -54,7 +54,7 @@ Way back home, now
 
 Oh, but we won't talk about that 'cause it's understood
 Ev'rybody sees the bad, but what about the good?
-Ooh, I'd give anything just to smell that scent
+Oh, I'd give anything just to smell that scent
 Of honeysuckle growin' on a backyard fence
 Way back home, now
 

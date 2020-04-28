@@ -36,7 +36,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-14'
 ---
-Ooh, baby
+Oh, baby
 Move closer to me
 I've had all that I can stand
 Take hold of me with your hands

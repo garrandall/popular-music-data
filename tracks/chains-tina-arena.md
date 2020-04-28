@@ -110,7 +110,7 @@ Baby, baby, I'm in chains
 I'm in chains
 Baby, baby, I'm in chains
 
-Ooh, ahh, ooh, ahh
+Oh, ah, oh ah
 
 Chains
 Baby, baby, I'm in chains

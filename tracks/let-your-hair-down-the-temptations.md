@@ -48,7 +48,7 @@ Well
 Get down
 Nah nah
 Hi yah hi hi hi
-Ahh yah ha
+Ah yah ha
 
 
 Hey (Let your hair down) Oh, doctor and lawyer

@@ -66,7 +66,7 @@ No, no, uh uh
 
 You got to take it off
 Hear what I said, girl
-You got to take it all off, ooh, yeah
+You got to take it all off, oh yeah
 
 You got to take it off, uh huh
 You got to take it all off

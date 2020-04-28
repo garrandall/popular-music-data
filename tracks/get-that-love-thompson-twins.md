@@ -54,7 +54,7 @@ rankings:
 ---
 I gave up on lovin'
 A long long time ago
-Ooh yeah I had myself believing
+Oh yeah I had myself believing
 I'd rather be on my own
 
 If you're pickin' and choosin'

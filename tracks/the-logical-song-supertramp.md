@@ -136,6 +136,6 @@ Oh!
 D-d-d-d-d-d-digital
 Yeah, one, two, three, five
 Oh, oh, oh, oh
-Ooh, it's getting unbelievable
+Oh, it's getting unbelievable
 Yeah
 B-b-bloody marvelous

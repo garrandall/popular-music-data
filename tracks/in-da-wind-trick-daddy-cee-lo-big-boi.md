@@ -112,13 +112,13 @@ None of my teachers ain't like me (uh-huh)
 But make it so bad, Pearl had seven mo' like me
 If you growed up the way I did
 You gotsta understand, Trick love the kids
-(Ooooooohh!) Trick love the kids
+(Oh!) Trick love the kids
 
 
 
 
 Cop me a seven-tres Chevy, put dubs on that bitch (uh-huh)
-Candy-apple green, niggaz lovin this shit (lovin this shit)
+Candy-apple green, niggas lovin this shit (lovin this shit)
 And when I'm in it, I'll act a fool
 Ya don't like how I'm livin? Bitch fuck you (uh-huh)
 That's right I'm a rude-ass nigga
@@ -143,16 +143,13 @@ Hoes, clothes, shows, Vogues, golds
 Big ol' bankrolls, that's all a nigga know
 Throw yo' elbows, I'm sicker than I suppose
 Hoes unchose, cuz my jewelry froze
-You know how it goes, these young niggaz don't want it like this
+You know how it goes, these young niggas don't want it like this
 Go off and get yo' gat, to silence the chit-chat, blast!
 So pass, outlast, bout cash
 Mo' sicky, talk tricky to the trick like trash
 Lo realer, a go-rilla, flow for mo' scrilla
 Come clean, lookin mean, but you ain't no killa!
-(Oooooooooh!) (Trick love the kids!)
-
-
-
+(Oh!) (Trick love the kids!)
 
 Look at what we got; the rims and all the 'dro
 The 'dro and all the smoke, my throat, it makes me choke
@@ -176,8 +173,4 @@ not intended for any illegal purposes'
 it's like anthrax and small pox in surplus to murder us
 (Ya gotsta understand Trick love the kids!)
 (Trick love the kids!)
-
-
-
-
 

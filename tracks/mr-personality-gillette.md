@@ -87,12 +87,12 @@ Mr personality, you so ugly
 Mr personality, you so ugly
 Mr personality, you so ugly
 
-When i look at you i go outta my mind
+When I look at you I go outta my mind
 Its like im lookin at someones behind
 You make the children scream and babys cry
 With your crusty teeth and your bloodshot eyes
 You so ugly, your dad hadda tie a porkchop around your neck just to get the dog to play witcha
-Ooh thats ugly
+Oh thats ugly
 
 CHORUS
 They call you mr personality because you so ugly...you so ugly
@@ -102,11 +102,11 @@ Mr personality, you so ugly
 Mr personality, you so ugly
 
 No matter what you wear, your face doesnt match
-I dont think you were born, you hadda be hatched
+I don't think you were born, you hadda be hatched
 Everyone you meet gets one hell of a stare
 They can't fall asleep cause your a walking nightmare
 You so ugly...i heard that when you were born, the dr slapped yo momma
-Ooh man thats ugly
+Oh man thats ugly
 
 CHORUS
 

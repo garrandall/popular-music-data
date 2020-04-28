@@ -73,7 +73,7 @@ To myself so long
 
 Keep coming closer
 Cause the urge to tell you
-Is burning me up, ooh
+Is burning me up, oh
 It's so strong
 
 Into my secret

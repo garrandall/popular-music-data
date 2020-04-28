@@ -26,7 +26,7 @@ rankings:
 ---
 Vocal By Buddy Miles
 
-Ooh, I bet you're wondering how I knew
+Oh, I bet you're wondering how I knew
 Bout your plans to make me blue
 Of some other guy you knew before
 Between the two of us guys
@@ -35,7 +35,7 @@ You know I love you more
 It took me by surprise, I must say
 Then I found out yesterday
 
-Ooh, I heard it through the grapevine
+Oh, I heard it through the grapevine
 Not much longer would you be mine
 Oh, I heard it through the grapevine
 And I'm just about to lose my mind
@@ -43,7 +43,7 @@ Honey, honey, yeah
 
 (Heard it through the grapevine
 Not much longer would you
-Be my baby, ooh, ooh, ooh)
+Be my baby, oh oohohoh
 
 I know a man ain't supposed to cry
 But these tears that I hold inside
@@ -61,7 +61,7 @@ Honey, honey, yeah
 
 (Heard it through the grapevine
 Not much longer would you
-Be my baby, ooh ooh ooh)
+Be my baby, ohoohhoh
 
 People say believe half of what you see
 Now now now, from what you hear

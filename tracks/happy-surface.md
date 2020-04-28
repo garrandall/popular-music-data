@@ -80,9 +80,6 @@ I have to let you know
 Forever
 You and me
 
-
-
-
 You must be Heaven sent
 Sent into my life
 And I compliment you, baby

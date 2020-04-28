@@ -73,7 +73,7 @@ Celebrate (Ah, yeah!)
 Holiday
 Holiday (Oh, I, I)
 Holiday
-Celebrate (Oooh!)
+Celebrate (Oh!)
 
 Then we both held hands in each other's for a chance to start it moving
 He reached deep inside of his vest and in his hand he held a ring

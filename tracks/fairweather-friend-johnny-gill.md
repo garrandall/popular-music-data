@@ -93,7 +93,7 @@ Time and time again
 I won't be no fairweather friend
 I'll be there till the end
 Even through stormy weather
-Time and time again, ooh
+Time and time again, oh
 
 Sometimes I know it's rough for you
 And then there are times you're hurt and blue
@@ -110,12 +110,12 @@ Baby, be strong, you can believe in me
 I won't be no fairweather friend
 I'll be there till the end (Oh...)
 Even through stormy weather (Even through stormy weather)
-Time and time again (Ooh)
+Time and time again (Oh)
 
 I won't be no fairweather friend (Never, never, never let you)
 I'll be there till the end (I'll never, never let you go)
 Even through stormy weather (Through the storm, through the rain)
-Time and time again, ooh
+Time and time again, oh
 
 I'll lay your head on my-my shoulder
 I'll lay your head up on my shoulder

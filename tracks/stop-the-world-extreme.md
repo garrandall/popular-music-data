@@ -81,8 +81,8 @@ Stop the world
 Stop the world
 Where there is love
 
-Aaah... Stop the world
-Stop the world... ooooh
+Ah... Stop the world
+Stop the world... oh
 
 All the world's a masquerade
 Made up of fools

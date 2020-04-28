@@ -135,7 +135,3 @@ We both go and seize the day
 'cause what's your hurry
 what's your hurry anyway
 
-
-
-
-

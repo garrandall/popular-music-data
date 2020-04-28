@@ -122,16 +122,10 @@ Oblivion is all you crave
 If there's some left for you
 You don't mind if you do
 
-
-
-
-Might as well face it, you're addicted to love 
+Might as well face it, you're addicted to love
 Your lights are on, but you're not home
 Your will is not your own
 Your heart sweats your teeth grind
 Another kiss and you'll be mine
-
-
-
 
 Might as well face it, you're addicted to love

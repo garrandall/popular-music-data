@@ -135,9 +135,6 @@ Say yes or say no
 Cause I really need somebody
 Tell me are you that somebody?
 
-
-
-
 Is it my go, is it your go
 Sometimes I'm goody-goody
 Right now I'm bout naughty naughty

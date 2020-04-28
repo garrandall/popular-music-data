@@ -76,7 +76,7 @@ Your love so good deserves an encore
 Your love so good deserves an encore
 (Your good love deserves an encore)
 
-Can't get enough, ooh
+Can't get enough, oh
 Of your gentle loving touch
 I can't get enough
 So intense, it drives me nuts

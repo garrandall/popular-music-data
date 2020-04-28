@@ -93,8 +93,8 @@ Funk boutique
 F-f-f-funk boutique
 Yeah, yeah
 
-Yeah, yeah, ooh
-Yeah, ooh, funky, yeah
+Yeah, yeah, oh
+Yeah, oh funky, yeah
 Funky, funky
 
 Come on down

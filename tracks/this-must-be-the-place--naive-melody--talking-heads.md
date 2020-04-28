@@ -77,4 +77,4 @@ Share the same space for a minute or two
 And you love me 'til my heart stops
 Love me 'til I'm dead
 Eyes that light up, eyes look through you
-Cover up the blank spots, hit me on the head, ah-ooh
+Cover up the blank spots, hit me on the head, ah-oh

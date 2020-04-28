@@ -135,7 +135,7 @@ Bye, bye (Bye)
 
 
 Sometimes I dream I'm drivin' down an old dirt road (Down an old dirt road)
-Not even listed on a map (Ooh, yeah)
+Not even listed on a map (Oh, yeah)
 I pass a dad and son carrying a fishing pole
 But I always wake up every time I try to turn back
 
@@ -158,7 +158,7 @@ Nananananana
 Na na
 Nanananana
 Nananananana
-Aah, na na
+Ah, na na
 (I miss Mayberry)
 Nanananana
 Nananananana

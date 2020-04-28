@@ -121,9 +121,6 @@ These are the things I can do without
 Come on
 I'm talking to you, come on
 
-
-
-
 Shout, shout, let it all out (Let it all out)
 These are the things I can do without
 Come on
@@ -145,9 +142,6 @@ Shout, shout, let it all out
 These are the things I can do without
 Come on
 I'm talking to you so come on
-
-
-
 
 Shout, shout, let it all out
 These are the things I can do without

@@ -173,7 +173,7 @@ I've been locked out of heaven
 For too long, for too long
 Yeah you make me feel like
 I've been locked out of heaven
-For too long, for too long, ooh
+For too long, for too long, oh
 
 Oh yeah yeah yeah yeah, uh!
 Oh yeah yeah
@@ -194,7 +194,7 @@ I've been locked out of heaven
 For too long, for too long
 Yeah you make me feel like
 I've been locked out of heaven
-For too long, for too long, ooh
+For too long, for too long, oh
 
 Oh oh oh oh, yeah, yeah, yeah
 Can't I just stay here?
@@ -208,7 +208,7 @@ I've been locked out of heaven
 For too long, for too long
 Yeah you make me feel like
 I've been locked out of heaven
-For too long, for too long, ooh
+For too long, for too long, oh
 
 Oh yeah yeah yeah yeah, uh!
 Oh yeah yeah

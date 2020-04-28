@@ -22,9 +22,9 @@ And be careful when you're walking into view
 Just be careful when you're walking into view
 
 
-Ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-oh-oh, oh-oh-oh-oh
 Got one eye on the road and one on you
-Ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-oh-oh, oh-oh-oh-oh
 Got one eye on the road and one on
 
 
@@ -38,9 +38,9 @@ Hear the crocodiles ticking 'round the world
 Hear the crocodiles ticking, they go ticking 'round the world
 
 
-Ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-oh-oh, oh-oh-oh-oh
 Got one eye on the road and one on you
-Ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-oh-oh, oh-oh-oh-oh
 Got one eye on the road and one on
 
 
@@ -48,7 +48,7 @@ You could hear them climbing the stairs
 Got my right side fighting while my left hides under the chairs
 
 
-Ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-oh-oh, oh-oh-oh-oh
 Got one eye on the road and one on you
-Ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-oh-oh, oh-oh-oh-oh
 Got one eye on the road and one on

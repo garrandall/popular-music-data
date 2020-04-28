@@ -57,7 +57,7 @@ This year (you got it)
 To save me from tears
 I'll give it to someone special
 
-Ooh, yeah
+Oh, yeah
 How could you leave Christmas morning?
 You broke my heart with no warning
 Boy, you blew it

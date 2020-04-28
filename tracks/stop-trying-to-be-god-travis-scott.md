@@ -22,16 +22,16 @@ This is the rewatch, the hot pockets, the fritters, the missiles, the humans, al
 And flying high as a kite
 
 
-(Hmm hmm) just know what this about (hmm, hmm hmm)
-(Hmm hmm) palm trees, oceans
+(Hm hm) just know what this about (hm, hm hm)
+(Hm hm) palm trees, oceans
 Fresh air that can break your heart
 
-(Hmm hmm) stop tryna be God (hmm hmm, hmm hmm)
-(Hmm hmm) stop tryna be God
-(Hmm hmm) that's not who you are
-(Hmm hmm) stop tryna be God
-(Hmm hmm) that's just not your job
-(Hmm hmm) stop tryna be God, God
+(Hm hm) stop tryna be God (hm hm, hm hm)
+(Hm hm) stop tryna be God
+(Hm hm) that's not who you are
+(Hm hm) stop tryna be God
+(Hm hm) that's just not your job
+(Hm hm) stop tryna be God, God
 
 
 Ride for it every night
@@ -47,19 +47,19 @@ Fuck the money, never leave your people behind
 It's never love, no matter what you try
 Still can see it comin' down your eyes
 
-'Cause they did not create commandments (ooh ooh)
-When you hustle, always make it fancy (ooh ooh)
-The signal's far from what you can be (ooh ooh)
+'Cause they did not create commandments (ohooh
+When you hustle, always make it fancy (ohooh
+The signal's far from what you can be (ohooh
 'Cause air traffic controls the landing
 Yeah, yeah yeah yeah
 
 
-(Hmm hmm) stop tryna be God (hmm hmm, hmm hmm)
-(Hmm hmm) stop tryna be God
-(Hmm hmm) that's not who you are
-(Hmm hmm) stop tryna be God
-(Hmm hmm) that's just not your job
-(Hmm hmm) stop tryna be God, God
+(Hm hm) stop tryna be God (hm hm, hm hm)
+(Hm hm) stop tryna be God
+(Hm hm) that's not who you are
+(Hm hm) stop tryna be God
+(Hm hm) that's just not your job
+(Hm hm) stop tryna be God, God
 
 
 Stop tryna play God almighty
@@ -83,12 +83,12 @@ Stay out of court when you got the attorney
 She say she love 'em, want to really burn me
 
 
-(Hmm hmm) stop tryna be God (hmm hmm, hmm hmm)
-(Hmm hmm) stop tryna be God
-(Hmm hmm) that's not who you are
-(Hmm hmm) stop tryna be God
-(Hmm hmm) that's just not your job
-(Hmm hmm) stop tryna be God, God
+(Hm hm) stop tryna be God (hm hm, hm hm)
+(Hm hm) stop tryna be God
+(Hm hm) that's not who you are
+(Hm hm) stop tryna be God
+(Hm hm) that's just not your job
+(Hm hm) stop tryna be God, God
 
 
 Is it the complex of the saint that's keeping you so, so still?

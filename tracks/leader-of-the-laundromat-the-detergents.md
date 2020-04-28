@@ -80,7 +80,7 @@ But I won't forget you, oh Leader Of the Laundromat
 
 (oh-oh-oh-oh)
 
-(ooh--ooh—ooh—ooh)
+(oh-oohhoh)oh
 
 (Who's that bangin' on the piano?
 I don't know.)

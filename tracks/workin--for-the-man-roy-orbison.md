@@ -109,7 +109,7 @@ So I slave all day without much pay
 (Oh, whoa, whoa, ha!)
 'Cause I'm just a-bidin' my time
 'Cause the company and the daughter, you see
-(Hoo! Hoo! Hoo! Hoo!!)
+(Hoo! Hoo! Hoo! Hoo!)
 They're both gonna be all mine
 
 

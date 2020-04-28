@@ -89,7 +89,7 @@ rankings:
   start_date: '2003-08-02'
 ---
 
-Oooh...ooh...ooh...ooh... (Yeah)
+Oh...oh...oh...oh... (Yeah)
 If they gleam in the sun
 while they spin and they fit on my truck then
 And if it came in the sack
@@ -167,7 +167,7 @@ And the fights keep getting worse (Gettin' worse)
 Findin' numbers in her purse (In her purse)
 Better put that woman first (Put that woman first)
 
-And you know she ain't wearin' her ring (Ooh, yeah)
+And you know she ain't wearin' her ring (Oh yeah)
 When she starts playin' little games (Her little games)
 Comin' in late from work (I'mma say it again)
 You better put that woman first (Put that woman, put that woman first)

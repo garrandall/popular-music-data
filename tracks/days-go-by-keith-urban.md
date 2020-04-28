@@ -105,7 +105,7 @@ Like a hand out the window in the wind
 As the cars go by
 Yeah, it's all we've been given
 So you better start living right now
-'Cause days go by, oh, ooh, ooh
+'Cause days go by, oh, oh oh
 
 
 Out on the roof just the other night
@@ -121,8 +121,8 @@ Like a hand out the window in the wind
 As the cars go by
 Yeah, it's all we've been given
 So you better start living right now
-And days go by, oh, ooh, ooh
-Yeah, the days go by, oh, ooh, ooh
+And days go by, oh, oh oh
+Yeah, the days go by, oh, oh oh
 
 
 We think about tomorrow, then it slips away
@@ -146,8 +146,8 @@ Like a hand out the window in the wind
 The cars go by
 Yeah, it's all we've been given
 So you better start living right now
-'Cause days go by, oh, ooh, ooh
-Yeah, 'cause days go by, oh, ooh, ooh
+'Cause days go by, oh, oh oh
+Yeah, 'cause days go by, oh, oh oh
 
 
 Oh, so take them by the hand
@@ -157,5 +157,5 @@ And live your life
 Take them by the hand
 Don't let them all fly by
 Come on, come on now
-Yeah, come on, oh, ooh, ooh
+Yeah, come on, oh, oh oh
 Don't you know the days go by?

@@ -92,6 +92,6 @@ That's what I want
 That's what I need
 
 A little dab'll do me
-Ooh sock it to me, Lord
+Oh sock it to me, Lord
 Somebody help me
 Help me find my way

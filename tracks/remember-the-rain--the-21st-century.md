@@ -18,7 +18,7 @@ She said that we were bad
 (She said that we were bad)
 I thought I'd better go on home (stepped it up and)
 You watched till I was gone
-Ooh, girl, you looked so sad
+Oh, girl, you looked so sad
 
 
 I picked you up when you fell and cut your knee

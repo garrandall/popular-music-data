@@ -23,7 +23,7 @@ You're the river that gave me a drink
 When a drop of water couldn't be found
 
 You give me what I want when I want it
-And all I'll ever want is you, ooh, ooh
+And all I'll ever want is you, oh oh
 
 I was born to be loved by somebody
 And I know that somebody is you

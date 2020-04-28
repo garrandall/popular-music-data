@@ -48,7 +48,7 @@ No
 No, no, no
 Don't come with me, no
 Don't come over here
-Ooh
+Oh
 
 You know I'm fair and that I care (I care)
 Boy, I'm crazy about you

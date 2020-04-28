@@ -163,9 +163,6 @@ I'm on the edge with you
 I'm on the edge with you
 I'm on the edge with you
 
-
-
-
 I'm on the edge of glory
 And I'm hangin' on a moment of truth
 Out on the edge of glory

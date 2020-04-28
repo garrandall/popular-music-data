@@ -69,7 +69,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-11-22'
 ---
-Ahh, Trackmasters
+Ah, Trackmasters
 My boo
  Dru Hill, Foxy
  Right
@@ -122,7 +122,6 @@ Only for the right dough shorty got that?  Still in here
 I'll be down when you're goin broke, Ill Na Na
 Master Tracks like Tone and Poke, and it's on
 
-Chorus
 
 Verse Three: Foxy Brown
 

@@ -61,10 +61,10 @@ rankings:
   start_date: '1981-10-31'
 ---
 
-In your letter ooh in your letter
-In your letter ooh in your letter
-In your letter ooh in your letter
-In your letter ooh in your letter
+In your letter oh in your letter
+In your letter oh in your letter
+In your letter oh in your letter
+In your letter oh in your letter
 In your letter you said you didn't love me
 You said you're gonna leave me
 But you could've said it better

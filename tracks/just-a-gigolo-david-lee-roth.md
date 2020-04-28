@@ -80,7 +80,7 @@ rankings:
 I'm just a gigolo and everywhere I go
 People know the part I'm playing
 Paid for every dance, selling each romance
-Ooh, and they're sayin'
+Oh, and they're sayin'
 
 There will come a day when youth will pass away
 What will they say about me?
@@ -91,7 +91,7 @@ Life goes on without me
 I'm just a gigolo and everywhere I go
 People know the part Dave's playing
 Paid for every dance, selling each romance
-Ooh, what they're sayin'
+Oh, what they're sayin'
 
 There will come a day when youth will pass away
 What will they say about me?

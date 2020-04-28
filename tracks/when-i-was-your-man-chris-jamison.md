@@ -17,7 +17,7 @@ Our song on the radio but it don't sound the same
 When our friends talk about you, all it does is just tear me down
 'Cause my heart breaks a little when I hear your name
 
-It all just sounds like oooooh...
+It all just sounds like oh...
 Mmm, too young, too dumb to realize
 That I should've bought you flowers
 And held your hand

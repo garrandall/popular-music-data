@@ -180,7 +180,7 @@ Everything you want so let me get up there
 I'm the baddest baby in the atmosphere
 Tell me what you want so we can do just what you like
 
-Ooh
+Oh
 Everything you know I'm flipping upside down
 Take you 'round the world
 You know I like it loud

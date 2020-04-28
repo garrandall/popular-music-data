@@ -115,7 +115,7 @@ We're in this love together
 And like berries on the vine, it gets sweeter all the time
 
 It's like a rainy night in candlelight
-And, ooh it's so romantic
+And, ohit's so romantic
 We got the whole thing working out so right, yes
 And it's just the way we planned it
 

@@ -41,7 +41,7 @@ rankings:
   start_date: '2020-03-21'
 ---
 
-Ooh-wee, yeah
+Oh-wee, yeah
 Yeah, yeah, yeah
 
 I know you love fuckin' me (Fuckin' me, fuckin' me)
@@ -78,7 +78,7 @@ You don't need no me time
 That's you and me time
 We be gettin' so loud
 That dick make my soul smile
-That dick make me so proud, ooh
+That dick make me so proud, oh
 
 Now lay your head down on the pillow
 I'ma fuck you real slow
@@ -101,7 +101,7 @@ You don't need no me time
 That's you and me time
 We be gettin' so loud
 That dick make my soul smile
-That dick make me so proud, ooh, I
+That dick make me so proud, oh I
 
 
 

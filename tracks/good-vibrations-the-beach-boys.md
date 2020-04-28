@@ -93,7 +93,7 @@ She's giving me excitations (Excitations, oom bop bop)
 Good, good, good, good vibrations (Oom bop bop)
 She's giving me excitations (Excitations)
 
-(Ahh)
+(Ah)
 (Ah, my my, what elation)
 I don't know where but she sends me there
 (Oh, my my, what a sensation)
@@ -104,7 +104,7 @@ Gotta keep those lovin' good vibrations a-happenin' with her
 Gotta keep those lovin' good vibrations a-happenin' with her
 Gotta keep those lovin' good vibrations a-happenin'
 
-(Ahh)
+(Ah)
 
 Good, good, good, good vibrations (Oom bop bop)
 (I'm pickin' up good vibrations) (Oom bop bop)

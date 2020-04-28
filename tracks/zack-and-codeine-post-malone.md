@@ -32,7 +32,7 @@ We turned the hotel lobby to a party
 
 I'm whippin' a fo' and I can't whip no Beetle
 I rock that Saint Laurent over my beater
-I like to stunt like I'm Evel Knievel (ooh)
+I like to stunt like I'm Evel Knievel (oh)
 But it don't mean nothing without all my people
 When I step up on stage, hands up to the sky
 Every little thing I do, they always analyze

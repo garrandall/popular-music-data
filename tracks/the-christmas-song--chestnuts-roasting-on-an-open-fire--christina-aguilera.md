@@ -25,9 +25,9 @@ rankings:
   start_date: '2000-01-08'
 ---
 
-Ooh, hmm, oh yeah
+Oh, hm, oh yeah
 Chestnuts roasting on an open fire
-Jack Frost nipping at your nose 
+Jack Frost nipping at your nose
 Yuletide carols being sung by a choir
 And folks dressed up like Eskimos
 
@@ -42,9 +42,9 @@ And every mother's child is gonna spy
 To see if reindeer really know how to fly
 
 And so I'm offering this simple phrase
-To kids from one to ninety-two, ooh yeah
+To kids from one to ninety-two, oh yeah
 Though its been said many times, many ways
-Merry Christmas to you, ooh oh yeah, ooh oh yeah
+Merry Christmas to you, oh oh yeah, oh oh yeah
 
 They know that Santa's on his way, he's on his way
 He's loaded lots of toys and goodies on his sleigh
@@ -57,7 +57,7 @@ Although its been said many times, many ways
 Merry Christmas, yeah
 Merry Christmas
 Merry Christmas, oh
-Oh yeah, oh yeah ooh
+Oh yeah, oh yeah oh
 Oh yeah to you
 (Hum, hum, hum...)
 Merry Christmas...

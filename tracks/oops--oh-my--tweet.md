@@ -104,9 +104,9 @@ Oops, there goes my shirt up over my head
 Oh my
 Oops, there goes my skirt dropin' to my feet
 Oh my
-Ooh, some kinda touch careesing my legs
+Oh, some kinda touch careesing my legs
 Oh my
-Ooh I'm turning red
+Oh I'm turning red
 Who could this be?
 
 I tried and I tried to avoid
@@ -124,7 +124,7 @@ Oops, there goes my shirt up over my head
 Oh my
 Oops, there goes my skirt dropin' to my feet
 Oh my
-Ooh, some kinda touch careesing my legs
+Oh, some kinda touch careesing my legs
 Oh my
 
 
@@ -132,7 +132,7 @@ Uh, yeah, yeah, Desert storm, yeah
 Fabolous, yeah, Tweet, yeah
 
 Shorty I strickly wanna spank you
-The most I gotta do is spell my name to get your 
+The most I gotta do is spell my name to get your
 Vickies to your ankles
 I'm serious mami
 You're fuckin wit the kid
@@ -142,13 +142,13 @@ that be Crushin and merkin
 Havin ladies touchin the herk
 And blushin and smirkin
 Early in the morning rushin for workin
-Screaming Ooh My F-A-B-O-L-O-U-S
+Screaming Oh My F-A-B-O-L-O-U-S
 Each night I'm freakin
-Ma, you ain't gonna talk me to death 
+Ma, you ain't gonna talk me to death
 cause you got free nights and weekends
 Ghetto Fab's all over the place
 Oops there goes my kids all over you face
-Ooh My
+Oh My
 
 
 (I looked over to the left)
@@ -165,12 +165,12 @@ Oops, there goes my shirt up over my head
 Oh my
 Oops, there goes my skirt dropin' to my feet
 Oh my
-Ooh, some kinda touch careesing my legs
+Oh, some kinda touch careesing my legs
 Oh my
-Ooh I'm turning red
+Oh I'm turning red
 Who could this be?
 
-Ooh My
+Oh My
 
 
 

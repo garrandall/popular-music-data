@@ -116,17 +116,14 @@ Between us which ones the blame
 I took a lot of too much to handle until I can't take this game no more this love thing is full
 Of scandal so you welcome to walk
 
-
-
-
 I had to take it there I had to take it there because I'm tired oh yeah
 
 
 
-You play games if you don't want me don't talk to me 
+You play games if you don't want me don't talk to me
 Hey go ahead and free yourself
 Baby if you don't want me don't talk to me I'll be alright go ahead to someone else
-Yeah yeah.....
+Yeah yeah...
 
 
 

@@ -29,17 +29,17 @@ rankings:
   start_date: '1994-03-12'
 ---
 
-i can sense it 
+i can sense it
 something important
-is about to happen 
+is about to happen
 it's coming up
 
 it takes courage to enjoy it
 the hardcore and the gentle
 big time sensuality
 
-we just met 
-and i know i'm a bit too intimate
+we just met
+and I know i'm a bit too intimate
 but something huge is coming up
 and we're both included
 
@@ -48,7 +48,7 @@ the hardcore and the gentle
 big time sensuality
 
 i don't know my future after this weekend
-and i don't want to
+and I don't want to
 
 it takes courage to enjoy it
 the hardcore and the gentle

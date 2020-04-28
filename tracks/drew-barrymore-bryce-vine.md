@@ -113,7 +113,7 @@ I am not afraid of no one
 You smoke that poison ivy
 Girl, I whip it, go the distance
 Then I kiss it 'cause they have it
-50 First Dates (uh), hit it then skate (ooh)
+50 First Dates (uh), hit it then skate (oh
 Get it with a real one, why you always fakin'?
 I don't got no patience
 I don't got no shame, man

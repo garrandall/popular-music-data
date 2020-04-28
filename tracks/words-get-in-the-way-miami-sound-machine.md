@@ -144,9 +144,6 @@ For the longest time
 And before you break my heart in two
 There's something I've been trying to say to you
 
-
-
-
 Your heart has always been an open door
 But baby I don't even know you any more
 And despite the fact it's hurting me

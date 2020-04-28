@@ -106,7 +106,7 @@ So promise you will never leave
 You never say this is the end you'll spend your life with me
 You'll be my wife and my best friend, raise a family
 Something we both can treasure
-Ooh yeah
+Ohyeah
 In the mean time
 I'm gonna put in work
 You gonna be fine

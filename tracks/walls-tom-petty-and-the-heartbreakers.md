@@ -58,9 +58,3 @@ Some things go on
 Part of me you carry
 Part of me is gone, but
 
-
-
-
-
-
-

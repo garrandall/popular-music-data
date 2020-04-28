@@ -42,7 +42,7 @@ rankings:
 ---
 
 If a man answers your phone when I call
-Ooh... there's gonna be some screamin'
+Oh.. there's gonna be some screamin'
 And that ain't all
 'cause if I'm here callin' you
 Then who's the who I'm talkin' to?
@@ -58,7 +58,7 @@ Where there ain't no party line
 Ya hear me talkin'...
 
 Gonna hang this phone up now and dial again
-Ooh... and there better be a soprano
+Oh.. and there better be a soprano
 On the other end
 'cause if the voice is baritone
 When you told me you'd be home alone.
@@ -74,7 +74,7 @@ Where there ain't no party line
 Ya hear me talkin'...
 
 Gonna hang this phone up now and dial again
-Ooooh... and there better be a soprano
+Oh... and there better be a soprano
 On the other end
 'cause if the voice is baritone
 When you told me you'd be home alone.

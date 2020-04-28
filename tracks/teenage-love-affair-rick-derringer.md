@@ -63,7 +63,7 @@ Teenage love affair
 A teenage love affair
 
 Then I heard a strange rumor about her
-And i didn't know just what to say
+And I didn't know just what to say
 It really -
 Brought me down
 You know it turned me around

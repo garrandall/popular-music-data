@@ -16,7 +16,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-03-07'
 ---
-Mmmm, You're my baby, say you love me
+Mmm, You're my baby, say you love me
 You're my baby, say you love me
 You're my baby, say you love me
 Say you love me and I'll love you

@@ -163,16 +163,12 @@ Same nigga used to be runnin' with Rusty and Kirby,
 Can a playa from tha nolia get a chance with it,
 but I can't bounce with you without using my hands with it
 
-
-
-
-
 Slow Motion, she open, I'm hopin' she don't leave my dick broken,
 with brush burns and swollen, I'm toting she don't wanna make me out and believe her,
 I guarantee I'ma see ya when I see ya,
 And just don't holla out my name like we was all in,
 Yo pussy throwback, and you know that,
-So stop stunt'n, slow motion for a real nigga, 
+So stop stunt'n, slow motion for a real nigga,
 I'm gone off that incredible potion and i'ma deal with you
 
 
@@ -184,8 +180,4 @@ Who you wit ? I'm in a rental today,
 Its going down at the Hamptown Inn and I remember the way,
 Less money we spend on bullshit, the more for the weed
 Whats it gonna take for you to come in slow motion with me like,
-
-
-
-
 

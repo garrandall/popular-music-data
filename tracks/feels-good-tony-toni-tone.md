@@ -167,7 +167,7 @@ Your rhythm, it sho' feels good to me
 
 You know that I love you (yeah)
 You know that I want you (it feels good)
-You know that I need you (ahhh)
+You know that I need you (ah)
 You know that I care
 It feels good, yeah
 It feels good

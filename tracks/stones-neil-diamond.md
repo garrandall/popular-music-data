@@ -67,7 +67,7 @@ The every prayer ever prayed
 For just two wild flowers that grow
 
 La la la la la la la la la on stones
-Mmmmmmmm.....
+Mmm...
 
 
 

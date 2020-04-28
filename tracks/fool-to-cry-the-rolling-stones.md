@@ -67,7 +67,7 @@ She said, "Tell me all your troubles"
 You know what she said? She said
 
 
-Ooh, "Daddy, you're a fool to cry
+Oh, "Daddy, you're a fool to cry
 You're a fool to cry
 And it makes me wonder why
 Daddy, you're a fool to cry"
@@ -77,20 +77,20 @@ Daddy, you're a fool to cry"
 
 
 Yeah, she said
-Ooh, "Daddy, you're a fool to cry
+Oh, "Daddy, you're a fool to cry
 You're a fool to cry
 And it makes me wonder why"
 She said
-Ooh, daddy you're a fool to cry
-Ooh, "Daddy, you're a fool to cry"
-Ooh, "Daddy, you're a fool to cry"
-Ooh, "Daddy, you're a fool to cry"
+Oh, daddy you're a fool to cry
+Oh, "Daddy, you're a fool to cry"
+Oh, "Daddy, you're a fool to cry"
+Oh, "Daddy, you're a fool to cry"
 Even my friends say to me sometimes
 I make out like I don't understand them
 You know what they say? They say
 
 
-Ooh, "Daddy, you're a fool to cry
+Oh, "Daddy, you're a fool to cry
 You're a fool to cry
 And it makes me wonder why" (Why, why)
 

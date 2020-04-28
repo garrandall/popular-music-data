@@ -121,8 +121,8 @@ When the night burns out
 And we all go home
 Smell of sweet perfume
 All over your clothes
-Like smoke, ooh, ooh
-Like smoke ooh, ooh
+Like smoke, oh, oh
+Like smoke oh, oh
 
 She's smoke
 I put her in nice and slow
@@ -139,5 +139,5 @@ When the night burns out
 And we all go home
 The smell of sweet perfume
 All over your clothes
-She's smoke, ooh, ooh
-She's smoke, ooh, ooh
+She's smoke, oh, oh
+She's smoke, oh, oh

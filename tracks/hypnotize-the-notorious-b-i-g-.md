@@ -198,6 +198,3 @@ Sometimes your words just hypnotize me
 And I just love your flashy ways
 Guess that's why they broke, and you're so paid
 
-
-
-

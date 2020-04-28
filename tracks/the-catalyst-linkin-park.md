@@ -85,7 +85,7 @@ To symphonies of blinding light!
 God save us everyone,
 Will we burn inside the fires of a thousand suns?
 
-Ooh!
+Oh!
 
 Like memories in cold decay,
 Transmissions echoing away,

@@ -93,5 +93,3 @@ If all the moving parts are put together so well
 Somebody please tell the record man
 To play a disco song
 So the ladies will dance
-
-(Repeat chorus)

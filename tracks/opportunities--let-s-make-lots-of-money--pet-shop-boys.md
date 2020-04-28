@@ -102,9 +102,9 @@ Make or break them
 I've got the brains, you've got the looks
 Let's make lots of money
 Let's make lots of -
-(Aahhhhh) Money
-(Aahhhhh)
-(Aahhhhh - Di du da di da bu di ba)
+(Ah) Money
+(Ah)
+(Ah - Di du da di da bu di ba)
 
 You can see I'm single-minded, I know what I could be
 How'd you feel about it, come and take a walk with me?
@@ -113,14 +113,14 @@ Think about it seriously, you know, it makes sense
 
 Let's (Got the brains)
 Make (Got the looks)
-Let's make lots of money (Oohh money)
+Let's make lots of money (Oh money)
 (Let's) You've got the brawn
 (Make) I've got the brains
-Let's make lots of money (Oohh money)
+Let's make lots of money (Oh money)
 
 I've got the brains (Got the brains)
 You've got the looks (Got the looks)
-Let's make lots of money (Oohh money)
+Let's make lots of money (Oh money)
 Money
 
 

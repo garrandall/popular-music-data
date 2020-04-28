@@ -95,27 +95,27 @@ Aint no party once we crash the party
 Imma squeeze shorty then vacate the party
 You keep grillin i'll pump pump the shotty
 Put you in the trunk then dump dump the body
-Nigga you dont know you betta ask somebody
+Nigga you don't know you betta ask somebody
 Ya'll get down we gonna clash prob'ly
 Builty snowflake out of the ampacomby
-I'm tryin to rip britney so i made ja sign me
+I'm tryin to rip britney so I made ja sign me
 Nigga catch me in tha club with a double lead banger
 Im the wrong one to fuck with
-Now i know the promoters im in with the musket
+Now I know the promoters im in with the musket
 Pound of the haze and a box of dutches
 High to the cotton mouth
 Paranoid make the wrong move bitch and your ass is out
 Like M.O.P. nigga i'll mash you out
-If i can't get your head swing by your house (motherfucker)
+If I can't get your head swing by your house (motherfucker)
 
 Ya'll niggas got it twisted huh?
 That liquor up in your U-Charge (U-Charge)
 That truth come out when u drunk
-Your ass wont make it to see tomorrow
+Your ass won't make it to see tomorrow
 Ya'll niggas got it twisted huh?
 That liquor up in your U-Charge (U-Charge)
 That truth come out when u drunk
-Your ass wont make it to see tomorrow
+Your ass won't make it to see tomorrow
 
 We step up in the club with one thing
 On our mind thats leave with something
@@ -130,17 +130,17 @@ Yo party over here aint shit over there
 The Mobb Deep boys got it locked right here
 Wherever we at we keep the cliqs right there
 So where ever theres beef is gettin fixed right there
-And they cant stop us they too scared
+And they can't stop us they too scared
 They know a calibur thug shoot at heads nigga
 Q.B. drop you off at that bridge (bye bye)
 Show you how we do it in Queens
 Murder aint shit nigga
-This is P talking show you where i live
+This is P talking show you where I live
 You come right through my crib (cmon) and get a few seers
 There'll be man slaughter right infront of my kids
 A little blood get on my daughter, thats nothing she'll live (just whipe that off)
 Got cops shoot to death of us
-We dont like D's
+We don't like D's
 You never catch us runnin with the police (nope)
 Ya'll niggas get ya'll vests up
 And ya'll better invest in some real heavy bulletproof paneling
@@ -148,11 +148,11 @@ And ya'll better invest in some real heavy bulletproof paneling
 Ya'll niggas got it twisted huh?
 That liquor up in your U-Charge (U-Charge)
 That turth come out when u drunk
-Your ass wont make it to see tomorrow
+Your ass won't make it to see tomorrow
 Ya'll niggas got it twisted huh?
 That liquor up in your U-Charge (U-Charge)
 That truth come out when u drunk
-Your ass wont make it to see tomorrow
+Your ass won't make it to see tomorrow
 
 We step up in the club with one thing
 On our mind thats leave with something

@@ -118,7 +118,7 @@ Our love is one in a million
 Eyes can see that we got a highway to the sky
 I don't want to hear your goodbye
 
-Ooh, ooh
+Oh, oh
 
 Pulses racing, darling
 How grand we are

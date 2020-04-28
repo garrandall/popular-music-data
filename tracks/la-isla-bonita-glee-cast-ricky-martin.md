@@ -77,7 +77,7 @@ David with Santana (Santana):
 Tropical the island breeze
 All of nature, wild and free
 This is where I long to be
-La Isla Bonita (Taa-aaa)
+La Isla Bonita (Taa-aa)
 
 David:
 And when the samba played

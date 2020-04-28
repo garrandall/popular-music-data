@@ -141,7 +141,7 @@ Stanking like clam chowder
 If they thinking that they wilder (okay)
 Every since I can remember
 I been toting that tember
-Keep the block hotter than July in the middle of December (aaahh! {2x})
+Keep the block hotter than July in the middle of December (ah! {2x})
 Niggas better know my M-O (M-O)
 From Houston down to the NO (unh hun)
 Came a long ways from Lindberg's flying

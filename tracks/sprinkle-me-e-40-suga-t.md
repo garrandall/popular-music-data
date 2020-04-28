@@ -83,7 +83,7 @@ Get off in your head like a neurologist
 Pushin more weight than Atlas
 Got a partner by the name of 2Pacalypse
 The seven-oh-seven my roots go hella far back to Flor Terrace
-I pull a forty out of my ballcap 
+I pull a forty out of my ballcap
 and den I flush it down my esopha-garus
 The group that I'm with The Click
 Suga, D-Shot, Legit
@@ -94,29 +94,29 @@ Sittin em down mutual
 Running through these lyrics as if I was fibered
 like Metamucil
 
-Timah timah.... forty wata.. forty wata
+Timah timah... forty wata.. forty wata
 Sprinkle me main, sprinkle me main, sprinkle me main, sprinkle me main
-Big timah timah, big timah.... forty wata-ahh
+Big timah timah, big timah... forty wata-ah
 Sprinkle me main, sprinkle me main, sprinkle me main
 Kick that shit Suga
 
 
-Here comes the top notch, ooh ooh ooh here I be
+Here comes the top notch, ohoohhohre I be
 Clicked out me Suga T from the V
 I'm quick to smob (quick to smob), always down for the job
 Ya gotta strut that's a gang of shot (gang of shot)
-Ooh ooh ooh I'm a fool
+Oh ohooh'm a fool
 Slangin more mail as I smobs through yo' hood
 Straight shakin all, these bustas and busterettes
 Tryin to claim fame off my Chavez rep (Chavez rep)
 Ohh, why oh why must I be so tight? (Why oh why)
-Most folks tell me, Suga you ain't right 
+Most folks tell me, Suga you ain't right
 (Why oh why Suga you ain't right)
 It makes me wanna scream while I make ya holla
 Pullin a gang of clout like that al-mighty dollar
 
 
-Suga Suga (ahh yeah that's me) Suga Suga
+Suga Suga (ah yeah that's me) Suga Suga
 That's my sista (you know my name!)
 Sprinkle me girl, sprinkle me girl (ahaha)
 Sprinkle me girl, sprinkle me girl
@@ -131,13 +131,13 @@ Tryin to knock the hustle just because we way too major
 (E they try to test your testicles, you know that shit ain't cool)
 Suga don't make me have to come up out the sound booth
 and act a fuckin fool
-(All these old hoe-cake ass niggaz, they make me so damn sick)
+(All these old hoe-cake ass niggas, they make me so damn sick)
 BOOM BOOM BOOM BOOM BOOM ON A TRICK
 Playa play her for false and get rubbed off ya don't want malse
 Fuck around and get evaporated
 
 
-Cause I'ma timah timah.... timah timah
+Cause I'ma timah timah... timah timah
 Forty wata... forty wata
 Sprinkle me main, sprinkle me main, sprinkle me main, sprinkle me main
 Big timah timah... big timah
@@ -153,7 +153,7 @@ Yeah that's what we do for the motherfuckin... nine-five
 Sick Wid It Records, Jive all the time
 (understandin the system main)
 It's Mob City, V-Town, it's Mob City
-It's Mob City V-Town niggaz
+It's Mob City V-Town niggas
 (mobbin through ya hood)
 
 

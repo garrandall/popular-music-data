@@ -61,7 +61,7 @@ Yes he will
 
 Don't you wanna feel good
 Yes I do
-Ooh, you should feel good
+Oh, you should feel good
 Yes I do
 You've gotta feel good, oh yeah
 Yes I do
@@ -80,9 +80,9 @@ Yes you will
 Love, love, love, love, love, love, love, love, love
 Yeah people
 And I'm talking to you
-And you-ooh-ooh-ooh yeah
+And you-oh-oh-oh yeah
 Say it, say it again
-Ooh, ooh, ooh... Oh yeah
+Oh, oh, oh... Oh yeah
 You sound so good
 
 

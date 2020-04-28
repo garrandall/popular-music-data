@@ -83,7 +83,7 @@ Here comes goodbye
 Here comes the last time
 Here comes the start of every sleepless night
 The first of every tear I'm gonna cry
-Here comes the pain 
+Here comes the pain
 Here comes me wishing things had never changed
 And she was right here in my arms tonight, but here comes goodbye
 
@@ -97,7 +97,7 @@ Here comes goodbye
 Here comes the last time
 Here comes the start of every sleepless night
 The first of every tear I'm gonna cry
-Here comes the pain 
+Here comes the pain
 Here comes me wishing things had never changed
 And she was right here in my arms tonight, but here comes goodbye
 
@@ -105,18 +105,18 @@ Why does it have to go from good to gone?
 Before the lights turn on, yeah and you're left alone
 All alone, but here comes goodbye
 
-Oh-oooo
+Oh-oo
 
 
-Here comes goodbye 
+Here comes goodbye
 Here comes the last time
 Here comes the start of every sleepless night
 The first of every tear I'm gonna cry
-Here comes the pain 
+Here comes the pain
 Here comes me wishing things had never changed
 And she was right here in my arms tonight, but here comes goodbye
 
-Oh-oooo
+Oh-oo
 
 
 

@@ -1,7 +1,8 @@
 ---
 artists:
-- Aretha Franklin with The Dixie Flyers
-features: []
+- Aretha Franklin
+features:
+- The Dixie Flyers
 genres: []
 key: spirit-in-the-dark-aretha-franklin-with-the-dixie-flyers
 name: Spirit In The Dark

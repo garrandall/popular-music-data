@@ -138,13 +138,13 @@ And it just goes on
 So quit with your complainin'
 Soon enough you will be gone
 
-Mmm-hmm, mmm-hmm
-Mmm-hmm, mmm-hmm
+Mmm-hm, mmm-hm
+Mmm-hm, mmm-hm
 Sure as I'm sittin' here
 Sure as I'm sittin' here
 
-Mmm-hmm, mmm-hmm
-Mmm-hmm, mmm-hmm
+Mmm-hm, mmm-hm
+Mmm-hm, mmm-hm
 Sure as I'm sittin' here
 Sure as I'm sittin' here
 

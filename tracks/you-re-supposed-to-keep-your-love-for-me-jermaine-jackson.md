@@ -76,7 +76,7 @@ What are you doing out there baby
 You're acting like you're fancy free
 When, you're, you're supposed to keep your love for me
 (so keep your love for me)
-Da da da da da da da da da da da (4x)
+Da da da da da da da da da da da
 
 Sooner or later I'm gonna leave you
 Though I've said this many times before

@@ -38,6 +38,6 @@ It's not another lie
 
 'Cause when you're in my arms
 My heart forgets all the times
-You've made me blue, ooh, ooh
+You've made me blue, oh oh
 And I can't say goodbye to you
 No, I can't say goodbye to you

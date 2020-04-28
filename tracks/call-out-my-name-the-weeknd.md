@@ -128,7 +128,7 @@ Girl, I'll be on my—
 
 
 On my way, on my way
-On my way, on my way, ooh
+On my way, on my way, oh
 On my way, on my way, on my way
 On my way, on my way, on my way
 (On my)

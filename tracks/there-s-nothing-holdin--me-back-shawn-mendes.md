@@ -150,7 +150,7 @@ I wanna let her take control
 'Cause everytime that she gets close, yeah
 
 
-She pulls me in enough to keep me guessing (Mmmm)
+She pulls me in enough to keep me guessing (Mmm)
 And maybe I should stop and start confessing, confessing, yeah
 
 

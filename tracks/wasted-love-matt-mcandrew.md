@@ -13,7 +13,7 @@ rankings:
   start_date: '2015-01-03'
 ---
 
-Ooh, wasted love
+Oh wasted love
 
 So I'm not supposed to love you no more
 I guess I'm not suppose to care.
@@ -27,8 +27,8 @@ I've been down every street, no, I won't give up
 If I have to die trying to justify, that's how it's gonna be
 Has anybody seen all my wasted love?
 
-Ooh, wasted love
-Ooh, wasted love
+Oh wasted love
+Oh wasted love
 
 It's late, I'm drunk and I'm running on empty tonight
 Baby, I'm chasing my shadow around

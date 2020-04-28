@@ -45,9 +45,6 @@ Wake up with a story to tell
 I'm just tryna have some fun
 And I ain't looking for love
 
-
-
-
 Sweating so hard you need three or four towels
 Shawty wanna be my boo like showtime at the Apollo
 Weezy F, the F for follow, follow me straight to my condo
@@ -59,9 +56,6 @@ You bark up my tree, that's a dead dog
 Where them hoes at? tell 'em I said wassup
 I like a shaved pussy, no razor bumps
 Yeah, YMCMB, when I step on stage, them hoes sweat like I'm Keith
-
-
-
 
 Say you got friends shawty, you can bring 'em too
 When I put this D on you, what you gon do
@@ -78,9 +72,6 @@ Bursting outta them jeans
 I'm saying shawty wassup
 Cause you killin' these other hoes
 And I don't mean to be mean, but shawty I'm tryna fuuu...
-
-
-
 
 YMCMB baby, uh huh
 It's YMCMB baby, ah hah

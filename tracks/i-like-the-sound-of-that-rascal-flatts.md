@@ -92,9 +92,9 @@ I like it turned up when you're blowing up my phone
 Wanna here you say come on over, cause when you tell me to come on over
 I like the sound of that
 
-Ohhh ohh ohh
+Ohhh oh oh
 I like the sound, I like the sound of that
-Ohhh ohh ohh
+Ohhh oh oh
 I like the sound, I like the sound of that
 
 Love the sound of the thunder roll in
@@ -116,9 +116,9 @@ I like it turned up when you're blowing up my phone
 Wanna here you say come on over, cause when you tell me to come on over
 I like the sound of that
 
-Ohhh ohh ohh
+Ohhh oh oh
 I like the sound, I like the sound of that
-Ohhh ohh ohh
+Ohhh oh oh
 I like the sound, I like the sound of that
 
 Turn your radio on
@@ -136,14 +136,14 @@ I like it turned up when you're blowing up my phone
 Wanna here you say come on over, cause when you tell me to come on over
 I like the sound of that
 
-Ohhh ohh ohh
+Ohhh oh oh
 I like the sound, I like the sound of that
-Ohhh ohh ohh
+Ohhh oh oh
 I like the sound, I like the sound of that
-Ohhh ohh ohh
+Ohhh oh oh
 I like the sound, I like the sound of that
 Yes I do
-Ohhh ohh ohh
+Ohhh oh oh
 I like the sound, I like the sound of that
 Ohhh
 

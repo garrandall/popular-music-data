@@ -60,7 +60,7 @@ You say the words (ah, huh)
 That I love to hear
 You got a way (ah, huh)
 That's so sincere
-I just go wild every time you're near, ooo, hoo, ooo
+I just go wild every time you're near, oo, hoo, oo
 Sweet little you
 
 Here we go now
@@ -73,7 +73,7 @@ You say the words (ah, huh)
 That I love to hear
 You got a way (ah, huh)
 That's so sincere
-I just go wild every time you're near, ooo, hoo, ooo
+I just go wild every time you're near, oo, hoo, oo
 Sweet little you
 
 Whoa, yeah

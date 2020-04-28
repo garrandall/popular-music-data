@@ -99,16 +99,16 @@ rankings:
 
 
 Yo yo, this Mase, youknowhatI'msayin?
-You got niggaz that don't like me for whatever reason
-You got niggaz that don't wanna see me rich
-You got niggaz that's mad, cause I'm always with they bitch
-Then you got niggaz that just don't like me
-You know, the, those P.H.D. niggaz
+You got niggas that don't like me for whatever reason
+You got niggas that don't wanna see me rich
+You got niggas that's mad, cause I'm always with they bitch
+Then you got niggas that just don't like me
+You know, the, those P.H.D. niggas
 But you know I pop a lot of shit but I back it up though
-see it's a difference, a lot of niggaz pop shit
-But a lot of niggaz don't make hits
+see it's a difference, a lot of niggas pop shit
+But a lot of niggas don't make hits
 But it's like this whole Bad Boy shit
-we come to bring it to y'all niggaz, me, B.I., Puff, Lox, whoever
+we come to bring it to y'all niggas, me, B.I., Puff, Lox, whoever
 Black Rob
 If you wanna dance, we dance
 
@@ -117,10 +117,10 @@ If you wanna dance, we dance
 Now trick what?  Lace who?  That ain't what Mase do
 Got a lot of girls that'd love to replace you
 Tell you to your face Boo, not behind your back
-Niggaz talk shit, we never mind that
+Niggas talk shit, we never mind that
 Funny, never find that, Puff a dime stack
 Write hot shit, and make a nigga say, 'Rewind that'
-Niggaz know, we go against the Harlem Jigalo
+Niggas know, we go against the Harlem Jigalo
 Getcha hoe, lick her low, make the bitch, hit the do'
 I represent honies with money fly guys with gems
 Drive with the tints that be thirty-five percent
@@ -128,19 +128,19 @@ Hoes hope I lay so I look both ways
 Cop says, 'OK, my tint smoke gray'
 No way, nigga leave without handin me my shit
 Got plans to get my Land and my 6
-Niggaz outta pen'll understand this shit
+Niggas outta pen'll understand this shit
 Pop champagne like I won a championship (uhh, uhh)
 
 [Chorus: sung by Notorious B.I.G.
 spoken words by Puff]
 
 Been around the world and I I I
-And we been playa hated 
+And we been playa hated
 I don't know and I don't know why
-Why they want us faded 
-I don't know why they hate us 
-Is it our ladies?  
-Or our drop Mercedes 
+Why they want us faded
+I don't know why they hate us
+Is it our ladies?
+Or our drop Mercedes
 Bay-bee bay-BEE!
 
 
@@ -169,7 +169,7 @@ Nigga please, I'm the macaroni with the cheese
 Now Puff rule the world, even though I'm young
 I make it my biz to see that all ladies come (yeah)
 Get em all strung from the tip of my tongue
-Lick em places niggaz wouldn't dare put they faces (c'mon)
+Lick em places niggas wouldn't dare put they faces (c'mon)
 
 Before I die, hope I, remake a flow by
 In the brand new treasure on a old try
@@ -200,9 +200,6 @@ You know, sometimes I gotta ask myself
 Why's there so much jealousy in the world?
 Don't look at mine, get yours
 
-
-
-
 OK after these messages we'll be back with
 the Mad Rapper and his brother the Mad Producer, after this
 (applause)
@@ -219,8 +216,8 @@ and quite frankly (yeah yeah) he's even madder (You god damn right!)
 Mr. Producer (yo, youknowhatI'msayin) why are you so mad?
 
 Yo, Iiiiiii, I'ma I'ma keep it real simple for you
-Yeah t-t-t-t-t-tell them niggaz why you mad son!
-Tell them niggaz why you mad son!
+Yeah t-t-t-t-t-tell them niggas why you mad son!
+Tell them niggas why you mad son!
 (OK, gentlemen please, one at a time)
 Tell em why you mad son, word up, tell em why you mad son!
 YouknowhatI'msayin? Iiiiiii, Iiiiiii be I be I been
@@ -258,7 +255,7 @@ The nigga climbin out the fuckin car!
 Let me see you try that shit on a train!
 YouknowhatI'msayin?  Try that shit on a fuckin train
 What kind of shit, youknowhatI'msayin?
-Got a thousand niggaz write for him, let ME write for you
+Got a thousand niggas write for him, let ME write for you
 Son my shit is jumpin, I got John Blaze shit...
 
 

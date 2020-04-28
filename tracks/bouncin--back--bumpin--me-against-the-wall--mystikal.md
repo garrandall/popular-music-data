@@ -144,7 +144,7 @@ You ain't seen bouncin' back
 
 
 Oh you heard about it, yeah you had to
-Hmm-huh, I know you change ya mind you ain't the only one with bad news
+Hm-huh, I know you change ya mind you ain't the only one with bad news
 I know that they made you feel strange huh
 You was right in the middle complaining and forgot what you was cryin bout
 It could be you time and it might be

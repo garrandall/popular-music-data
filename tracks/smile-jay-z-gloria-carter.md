@@ -100,7 +100,7 @@ I'm the true and livin'
 God in the flesh, the rest of these niggas is vain
 A stain on the white suit, inferior IQ
 Niggas'll rip your shit off TIDAL just to spite you
-Ahhhh, what did I do?
+Ah, what did I do?
 'Cept try to free you
 Niggas'll love you but hate you 'cause they can't be you
 Dump 'em all in the bayou, uh

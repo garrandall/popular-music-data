@@ -90,11 +90,11 @@ rankings:
   start_date: '2003-09-06'
 ---
 
-Real girls get down on the flo' on the flo' 
+Real girls get down on the flo' on the flo'
 Like a Pimp
-Real girls get down on the flo' on the flo' 
+Real girls get down on the flo' on the flo'
 Like a pimp
-Real girls get down on the flo' on the flo' 
+Real girls get down on the flo' on the flo'
 
 
 By the time I hit the door
@@ -129,7 +129,7 @@ And dis is how they gotta
 make they money every week
 
 
-Real girls get down on the flo' on the flo' 
+Real girls get down on the flo' on the flo'
 Like a pimp
 
 
@@ -155,9 +155,6 @@ So if you gotta hoe
 Shake em up and let em go uhh
 And let them girls get down on the flo' on the flo'
 Like a Pimp
-
-
-
 
 Now don't you hate them ole'
 Lying ass hoes
@@ -187,7 +184,7 @@ All of they sluts and
 All of the hoes
 So drop it like its hot girl
 Touch yo fucking toes
-Oohh
+Oh
 
 
 Gone touch yo toes and

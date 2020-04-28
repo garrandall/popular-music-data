@@ -99,7 +99,7 @@ I know you thought about it
 Se la, se la
 Se la, se la
 We want to say
-Se la, se la (ooh, ooh, ooh)
+Se la, se la (oh oohohoh
 Se la, se la
 Do it on the good foot
 Se la, se la
@@ -113,7 +113,7 @@ Se la, se la
 Tell me about the children
 We've got to help them now to survive
 One world, one heart, is our salvation
-Ooh, ooh, ooh
+Oh, oh oh
 Let us keep the dream alive
 
 Se se la, se la, se la
@@ -129,7 +129,7 @@ Se la (say it), se la (say it)
 Don't hold back no longer
 Se la, se la
 Can't you see it, just believe it
-Se la (say it), se la, ooh, ooh, ooh
+Se la (say it), se la, oh oohohoh
 Talking to you now
 Se la, se la
 Se la, se la

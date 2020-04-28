@@ -72,8 +72,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-10-03'
 ---
-Ooh yeah, ooh yeah
-Ooh yeah, listen
+Oh yeah, ohyeah
+Oh yeah, listen
 
 If this your favorite song, turn your radio on
 Play it for your man or your lady all day long

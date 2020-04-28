@@ -95,9 +95,6 @@ I don't want nobody, nobody
 'Cause baby, it's you (Sha la la la la la la)
 Baby, it's you (Sha la la la la la la)
 
-
-
-
 Woh oh oh, many, many, many nights go by
 I sit alone at home and I cry over you
 What can I do?

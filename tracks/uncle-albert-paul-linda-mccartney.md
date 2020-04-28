@@ -77,9 +77,6 @@ But we haven't done a bloody thing all day
 We're so sorry, Uncle Albert
 But the kettle's on the boil and we're so easily called away
 
-
-
-
 Hands across the water (Water)
 Heads across the sky
 Hands across the water (Water)

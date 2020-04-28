@@ -89,7 +89,7 @@ I'm all confused and I don't know what to do
 I've had time but I can't get you off my mind
 No
 I still can't get over loving you
-Ev'ry time I run into your friends
+Every time I run into your friends
 I just have to ask them with who and where you've been
 And when they tell me what I really didn't wanna know
 It only breaks my heart
@@ -102,7 +102,7 @@ I've tried to get involved with someone new
 But it's just no use 'cause I expect them to be like you
 Baby
 I don't know what I'm gonna do
-'cause ev'ry girl I date resembles you
+'cause every girl I date resembles you
 Oh
 Help me
 Baby
@@ -128,7 +128,7 @@ Girl
 I can't forget
 It's not over yet:
 I still can't get over loving you
-Ev'ry breath you take
+Every breath you take
 I'll be watching you
 Girl
 'cause I still can't get over loving you

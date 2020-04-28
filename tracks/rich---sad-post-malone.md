@@ -37,10 +37,10 @@ Hundred thousand for the chain and now my drop (drop, drop)
 When I pull out the garage, I chop my top (top, top)
 Just like a fiend, when I start I cannot stop (whoa)
 I got, I got hella guap, look at me now (at me now)
-Ooh, covered in carats, ooh, mahogany cabinets
-Ooh, I ball like the Mavericks, ooh, stable and stallions
-Ooh, massive medallions, ooh, I finally had it
-Ooh, but then you just vanished, damn, I thought I was savage
+Oh, covered in carats, oh, mahogany cabinets
+Oh, I ball like the Mavericks, oh, stable and stallions
+Oh, massive medallions, oh, I finally had it
+Oh, but then you just vanished, damn, I thought I was savage
 
 All this stuntin' couldn't satisfy my soul
 Got a hundred big places, but I'm still alone
@@ -55,7 +55,7 @@ Price went up, my price went up, we went our separate ways
 I just keep on wishin' that the money made you stay, ayy, ayy
 
 Buy me love, tried to buy me love
-Now I'm alone, Ice Box, Omarion (ooh)
+Now I'm alone, Ice Box, Omarion (oh)
 Plenty sluts grabbin' on my nuts (woah)
 Might have fucked, it was only lust (trust)
 I was livin' life, how could I have known? (could have known)
@@ -64,7 +64,7 @@ In the spotlight, but I'm on my own (oh)
 Now that you're gone (now that you're gone)
 
 All this stuntin' couldn't satisfy my soul
-Got a hundred big places, but I'm still alone 
+Got a hundred big places, but I'm still alone
 
 Ayy, I would throw it all away
 I just keep on wishin' that the money made you stay

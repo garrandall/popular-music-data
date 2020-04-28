@@ -63,7 +63,7 @@ I think I'll try
 Defying gravity
 And you won't bring me down!
 Bring me down!
-Ohh ohhh ohhhh!
+Ohh oh oh!
 
 
 

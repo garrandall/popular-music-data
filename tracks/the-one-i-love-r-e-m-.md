@@ -107,9 +107,6 @@ This one goes out to the one I love (Love)
 Fire! (She's comin' down on her own, now)
 Fire! (She's comin' down on her own)
 
-
-
-
 This one goes out to the one I love (Love)
 This one goes out to the one I've left behind
 Another prop has occupied my time

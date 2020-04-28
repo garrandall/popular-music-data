@@ -134,9 +134,6 @@ One in a million girl
 (Why would I lie?)
 Now, why would I lie? Oh
 
-
-
-
 Step outside your world
 
 

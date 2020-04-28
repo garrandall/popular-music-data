@@ -137,4 +137,4 @@ While we can
 I know now's the time that I went to find something new
 You know it's your crime that I'm out to find someone too
 
-(Aaaaahhhh, yeah!)
+(Ah, yeah!)

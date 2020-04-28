@@ -56,18 +56,10 @@ Any time the surf is up the time is right
 And when the surf is down to take its place
 We'll do the Surfer's Stomp it's the latest dance craze
 
-
-
-
-
-
 Now the dawn is breaking and we really got to go
 But we'll be back here very soon that you better know
 Yeah my surfer knots are rising and my board is losing wax
 But that won't stop me baby cause you know I'm coming back
-
-
-
 
 Surfing is the only life the only way for me
 Now come on pretty baby and surf with me

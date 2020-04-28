@@ -98,12 +98,11 @@ Don't know when I'm coming up
 Deep sea diving in your treasure
 I'm giving you all this pleasure
 
-Ooh girl, I'm so into you
+Oh girl, I'm so into you
 So deep I don't know what to do
 Just let the water flow
 Till the tidal wave washes us ashore
 
-(Chorus)
 
 Under, under
 Under, under

@@ -36,9 +36,9 @@ Like a People Eater should
 The Witch Doctor picked
 Like a Johnny B. Goode
 
-They went a-
-(Oooh eee
-Oooh ah ah
+They went
+(Oh ee
+Oh ah ah
 Ting tang
 Walla walla bing bang)
 
@@ -54,7 +54,7 @@ But you sure can play)
 
 Well there in the moonlight
 It seemed so strange
-While he played a little chorus of-a
+While he played a little chorus of
 Home on the Range
 
 They were comin' in strong
@@ -62,9 +62,9 @@ Like a rock n' roll star
 With the craziest beat
 This side of Mars
 
-They went a-
-(Oooh eee
-Oooh ah ah
+They went
+(Oh ee
+Oh ah ah
 Ting tang
 Walla walla bing bang)
 
@@ -88,17 +88,17 @@ Yeah, the people all gather
 From a-miles around
 To hear Doc and Ol' Purple with that crazy sound
 
-They went a-
-(Oooh eee
-Oooh ah ah
+They went
+(Oh ee
+Oh ah ah
 Ting tang
 Walla walla bing bang)
 
 One more time
 (Okay)
 
-(Oooh eee
-Oooh ah ah
+(Oh ee
+Oh ah ah
 Ting tang
 Walla walla bing bang)
 

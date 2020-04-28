@@ -93,9 +93,6 @@ Not a trace of doubt in my mind
 I'm in love, I'm a believer
 I couldn't leave her if I tried
 
-
-
-
 Love was out to get me
 That's the way it seemed
 Disappointment haunted all my dreams

@@ -83,7 +83,7 @@ Honey Chile
 Sure 'bout to drive me wild
 And I love you so, can't let go
 Now, Honey Chile
-Ooh, Sugar Chile
+Oh, Sugar Chile
 I'd walk me a country mile
 Just to be with you
 It's sad but true, now Honey Chile
@@ -115,13 +115,13 @@ Honey Chile
 Sure 'bout to drive me wild
 And I love you so, can't let go
 Now honey Chile
-Ooh, sugar Chile
+Oh, sugar Chile
 I'd walk me a country mile
 Just to be with you
 It's sad but true, now Honey Chile
 
 
-Ooh, listen here now
+Oh, listen here now
 One day I'm gonna get stronger
 And I won't need you no longer
 This feeling will be a goner

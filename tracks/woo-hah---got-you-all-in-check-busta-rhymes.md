@@ -5,7 +5,7 @@ features: []
 genres: []
 key: woo-hah---got-you-all-in-check-busta-rhymes
 lyrics_url: https://www.azlyrics.com/lyrics/bustarhymes/woohahgotyouallincheck.html
-name: Woo-Hah!! Got You All In Check
+name: Woo-Hah! Got You All In Check
 rankings:
 - end_date: '1996-03-15'
   rank: 86
@@ -107,7 +107,7 @@ And you know we come through
 to wreck the disco tech
 Woo-Hah
 I got you all in check
-Throw your hands up in the air 
+Throw your hands up in the air
 don't ever disrespect
 Woo-Hah
 I got you all in check
@@ -127,7 +127,7 @@ Watch me knock you out like Apollo Creed
 Body blow bustin' your shit making you bleed
 Just feed off dynamic flows an take heed
 Need more information homeboy then just read
-Ay-Ya!! you can read all about the pure breed
+Ay-Ya! you can read all about the pure breed
 Do the bogle dance I'll do the pepperseed
 
 
@@ -138,7 +138,7 @@ Please let me get down and blow a fuse
 Actin' fool breakin' shit down to molecules
 Yo let me hit you with my ill street blues
 Busta Rhymez always headlines the street news
-Woo-Hah!!! Yo baby girl don't be confused
+Woo-Hah! Yo baby girl don't be confused
 Sail my seven seas and enjoy my boat cruise
 I know you really want to know who's
 comin' through leaving bloodstains and residues
@@ -153,17 +153,17 @@ Get me through give me some space you excuse
 
 
 You now rockin wit the best
-the boy scout is who I be.....
+the boy scout is who I be...
 ...Flip Mode is the sqiddaud
 Hah
-Yah Yah Yah Yah Yah 
+Yah Yah Yah Yah Yah
 
 
 Yo which muthaphucka stole my flow
-eenie....meenie miney mo
+eenie...meenie miney mo
 Throw that type of nigga right out my window
 Blast your ass hit you with my direct blow
-Bo!! Coming through like G.I. Joe
+Bo! Coming through like G.I. Joe
 Star Wars movie deal like Han Solo
 Make you bounce around like this was calypso
 Always shine cause I got the high pro glow
@@ -171,7 +171,7 @@ You think that you can hide you think you can lay low
 Roll up on your ass like Hawaii 5-0
 Mad out with my dreads in my kango
 forget the Moet nigga just pass the Cisco
-Yo!! Take a trip down to Mexico
+Yo! Take a trip down to Mexico
 Come back with that shit that might make you psycho
 Maximum frequencies through your stereo
 Sorry this is it but homeboy I got to go

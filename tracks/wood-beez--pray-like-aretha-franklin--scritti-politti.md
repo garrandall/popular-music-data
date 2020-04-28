@@ -66,8 +66,8 @@ And each time I need you
 Oh, baby you know, you know, know, kn-know
 
 (I)
-(Ooh!)
-(Ooh!)
+(Oh!)
+(Oh!)
 Each time I go to bed I pray like Aretha Franklin
 Nothing, oh nothing
 Because baby, baooo

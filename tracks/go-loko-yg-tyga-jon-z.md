@@ -147,7 +147,7 @@ House party go until six-somethin'
 (House party go until six in the morning)
 My cup got lipstick on it (Yeah)
 Bitches wanna put they lips on it (Damn)
-And it's sweet, wanna lick on it (Ahh)
+And it's sweet, wanna lick on it (Ah)
 Wanna taste, eat it up like a strawberry
 Ice in your mouth, let it melt like Ben & Jerry
 That tongue so fire, fire (Woo)
@@ -199,9 +199,6 @@ My bitch go loco (Go loco, go loco)
 María, María, María
 Slide on a nigga with the .44 (With the .44, with the .44)
 Slide, slide, fo' (Go loco)
-
-
-
 
 My bitch go loco (Go loco, go loco)
 María, María, María

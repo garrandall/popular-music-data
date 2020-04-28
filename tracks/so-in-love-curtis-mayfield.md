@@ -71,9 +71,6 @@ You don't worry 'bout the rest
 And our love is our confession
 That we're so in love
 
-
-
-
 So in love
 I try to do the best that a man can do
 So in love

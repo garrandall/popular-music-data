@@ -74,7 +74,7 @@ rankings:
 ---
 (Ain't that just the way that life goes down down down down
 Movin' way too fast or much too slow)
-(oooooh)
+(oh)
 
 He was a very special warm and gentle person
 Who put in music in the world and spoken in rhyme

@@ -106,9 +106,6 @@ Im just a loner, my life is a movie
 Tonight we're just actors, and this is a sitcom
 So tell me you love me, and tell me i'll get some
 
-
-
-
 I'm makin this money
 Just to go spend it
 Livin the good life

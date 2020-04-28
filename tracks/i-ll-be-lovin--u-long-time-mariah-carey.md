@@ -65,7 +65,7 @@ I'll be lovin' you long time (as I can breathe)
 I'll be lovin' you long time (eternally)
 There's no stopping you and me
 I'll be lovin' you long time (as I can breathe)
-I'll be lovin' you long time (eternally) (ooh)
+I'll be lovin' you long time (eternally) (oh
 
 
 Don't care what no one has to say
@@ -104,8 +104,8 @@ I'll be lovin' you long time (as I can breathe) (I...)
 I'll be lovin' you long time (eternally) (gonna love you long time!)
 
 
-I'll be lovin', I'll be lovin', I'll be lovin', I'll be lovin' (I'll be lovin' you long time (eternally)) (ooh, ooh)
-I'll be lovin', I'll be lovin', I'll be lovin' you (ooh ooh)
+I'll be lovin', I'll be lovin', I'll be lovin', I'll be lovin' (I'll be lovin' you long time (eternally)) (oh oh
+I'll be lovin', I'll be lovin', I'll be lovin' you (ohooh
 I'll be lovin', I'll be lovin', I'll be lovin', I'll be lovin' (I'll be lovin' you long time (eternally)) (time)
 I'll be lovin', I'll be lovin', I'll be lovin' you (I'll be lovin' you long time (eternally))
 I'll be lovin', I'll be lovin', I'll be lovin', I'll be lovin' (I'll be lovin' you long time (eternally)) (long time)

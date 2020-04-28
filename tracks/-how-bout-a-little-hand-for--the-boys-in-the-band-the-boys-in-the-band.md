@@ -76,7 +76,7 @@ Oh you got a broken heart
 Just need to get away for a good time
 I got good news
 That's what me and the boys in the band
-Were born to do, ah ooh
+Were born to do, ah oh
 
 You can spend your whole life
 However you see fit
@@ -127,4 +127,4 @@ You got a broken heart
 And just need to get away for a good time
 I got good news
 That's what me and the boys in the band
-Were born to do, ah-ooh
+Were born to do, ah-oh

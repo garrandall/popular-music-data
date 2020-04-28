@@ -67,4 +67,4 @@ Right or wrong, day by day (right or wrong, day by day)
 All my love, all the way (all my love, all the way)
 I believe that I belong (I believe that I belong)
 By your side, right or wrong
-Right or wrong!!
+Right or wrong!

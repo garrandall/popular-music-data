@@ -110,7 +110,7 @@ Over the telephone
 Honey Ill stay up late for you
 And wait for your call
 Buzz me up at 5 AM
-And I dont mind at all
+And I don't mind at all
 Cuz Ill do anything for your loving
 Yes will Ill do anything But with a serious step are you qualified?
 Just can't
@@ -148,7 +148,7 @@ Stop delayin girl
 And make me yor natural selection
 Ha ha ha ha
 Youre crazy
-I dont know about you
+I don't know about you
 But I think I like you
 Do anything for your lovin
 Could you find the time to make me yours?

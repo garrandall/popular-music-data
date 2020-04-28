@@ -61,76 +61,76 @@ rankings:
   start_date: '2004-12-25'
 ---
 
-La La La 
-La La La 
+La La La
+La La La
 
-Maybe, it's me, maybe i bore u
-No no, it's my fault, cos i can't afford u
-Maybe baby, puffy, jay z 
+Maybe, it's me, maybe I bore u
+No no, it's my fault, cos I can't afford u
+Maybe baby, puffy, jay z
 would all be better for u
-Cos all i can do is luv u
+Cos all I can do is luv u
 
-Baby when i used to luv u
-Theres' nothing that i wouldn't do
+Baby when I used to luv u
+Theres' nothing that I wouldn't do
 I went thru the fire for you, do anything you asked me to
-But i tired of livin this lie
+But I tired of livin this lie
 It's getting harder to justify
-Realised that i just don't luv u
-Not like i used to
+Realised that I just don't luv u
+Not like I used to
 
 La la la
 la la la
 
-Maybe, i should rob somebody
+Maybe, I should rob somebody
 So we could, live like whitney and bobby
 It's probably my fault, my bad, my loss
 But u are, above cost
-Cos all i could do was luv u
+Cos all I could do was luv u
 
-Baby when i used to luv u, theres' nothing that i wouldn't do
+Baby when I used to luv u, theres' nothing that I wouldn't do
 I went thru the fire for you, do anything you asked me to
 But i'm tired of living this lie
 It's getting harder to justify
-Realised that i just don't luv u
-Not like i used to
+Realised that I just don't luv u
+Not like I used to
 
 Hola hola hola
 Hola hola hola
 
-Do you remember when i used to luv u
+Do you remember when I used to luv u
 Baby no not any more, luv u
-Ooohhhh, I luv u
+Oh, I luv u
 And you're gonna miss me now
 
-Baby when i used to luv u
-There's nothing that i wouldn't do, 
+Baby when I used to luv u
+There's nothing that I wouldn't do,
 I went thru the fire for u, and i'm not gonna play the fool
-No i can't live this life, and i can't justify, and i can't make up my life
-Cos i don't luv u
-Not like i used to do
+No I can't live this life, and I can't justify, and I can't make up my life
+Cos I don't luv u
+Not like I used to do
 
 Hola hola hola
 Hola hola hola
 
-Oh i used to luv u
-Oh i used to luv u
+Oh I used to luv u
+Oh I used to luv u
 
 Oh but I don't luv u
 Oh but I don't luv u
 
 Oh but you're gonna miss me now
 
-Baby when i used to luv u, theres' nothing that i wouldn't do
+Baby when I used to luv u, theres' nothing that I wouldn't do
 I went thru the fire for you, do anything you asked me to
 But i'm tired of living this lie
 It's getting harder to justify
-Realised that i just don't luv u
-Not like i used to
+Realised that I just don't luv u
+Not like I used to
 
-la la la 
 la la la
-Oh i used to luv u
-Oh i used to luv u
+la la la
+Oh I used to luv u
+Oh I used to luv u
 
 Oh but I don't luv u
 Oh but I don't luv u

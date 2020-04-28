@@ -44,7 +44,7 @@ Baby baby, don't deny me
 
 My hungry arms
 Long for your charms
-Mmmm... love of my life, I love you
+Mmm... love of my life, I love you
 
 No other love could thrill me so completely
 No other lips could satisfy me
@@ -52,6 +52,6 @@ Baby baby, don't deny me
 
 My hungry arms
 Long for your charms
-Mmmm... love of my life, I love you
+Mmm... love of my life, I love you
 
 Love of my life, I love you

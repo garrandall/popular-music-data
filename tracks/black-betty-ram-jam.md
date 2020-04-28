@@ -85,9 +85,6 @@ The damn thing gone blind (bam-ba-lam)
 I said oh, Black Betty (bam-ba-lam)
 Whoa, Black Betty (bam-ba-lam)
 
-
-
-
 Whoa, Black Betty (bam-ba-lam)
 Whoa, Black Betty (bam-ba-lam)
 She really gets me high (bam-ba-lam)
@@ -98,9 +95,6 @@ Whoa, Black Betty (bam-ba-lam)
 Whoa, Black Betty (bam-ba-lam)
 
 Get it!
-
-
-
 
 Whoa, Black Betty (bam-ba-lam)
 Whoa, Black Betty (bam-ba-lam)

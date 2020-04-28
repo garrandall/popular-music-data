@@ -211,7 +211,7 @@ But I think you're moving too fast
 Don't go chasing waterfalls
 Please stick to the rivers and the lakes that you're used to
 I know that you're gonna have it your way or nothing at all
-But I think you're movin' too fast (Ooh, you're movin' too fast)
+But I think you're movin' too fast (Oh, you're movin' too fast)
 
 Don't go chasing waterfalls (Don't go, don't go)
 Please stick to the rivers and the lakes that you're used to

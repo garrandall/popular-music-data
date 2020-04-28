@@ -103,6 +103,6 @@ I wonder, I wonder, I wonder
 I wonder why I feel like my heart is failing me
 
 (Feel like my heart is failing me) Tell me why, baby
-(I wonder why is failing..failing me) Please baby oh yeah
-(I wonder why is failing..failing me)
-(I wonder why is failing..failing me)
+(I wonder why is failing...failing me) Please baby oh yeah
+(I wonder why is failing...failing me)
+(I wonder why is failing...failing me)

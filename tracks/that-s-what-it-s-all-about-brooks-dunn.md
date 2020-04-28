@@ -98,7 +98,7 @@ Then you pull in the drive and you hit the chair
 And the one you love is waitin' there
 
 Hey, That's what it's all about
-Hey, this is the life i couldn't live without
+Hey, this is the life I couldn't live without
 It's a moment frozen there in time
 When the reasons all begin to rhyme
 Where loves a little bigger and you finally start figurin' out
@@ -113,21 +113,21 @@ Your Tired, Num, Stressed and your Mad
 She smiles and says I Love You Dad
 
 Hey, That's what it's all about
-Hey, this is the life i couldn't live without
+Hey, this is the life I couldn't live without
 It's a moment frozen there in time
 When the reasons all begin to rhyme
 Where loves a little bigger and you finally start figurin' out
 That's what it's all about
 
 Hey, That's what it's all about
-Hey, this is the life i couldn't live without
+Hey, this is the life I couldn't live without
 It's a moment frozen there in time
 When the reasons all begin to rhyme
 Where loves a little bigger and you finally start figurin' out
 That's what it's all about
 
 Hey That's what it's all about
-The life i couldn't live without
+The life I couldn't live without
 Hey That's What it's all about
 
 That's What it's all about

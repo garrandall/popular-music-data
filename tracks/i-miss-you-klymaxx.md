@@ -159,9 +159,6 @@ All the feelings that we used to share
 I refuse to believe
 That you don't care
 
-
-
-
 I've got to gather my senses together
 I've been through worse kinds of weather
 If it's over now

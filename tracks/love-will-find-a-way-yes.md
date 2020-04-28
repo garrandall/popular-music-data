@@ -117,9 +117,6 @@ Here is my soul; I eat at Chez Nous
 Love will find a way, if you want it to
 Love will find a way, love will find a way
 
-
-
-
 Love will find a way, if you want it to
 Love will find a way, love will find a way
 

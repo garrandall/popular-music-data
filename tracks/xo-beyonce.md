@@ -75,7 +75,7 @@ Xo you can turn my lights out
 
 
 We don't have forever
-Ooh, baby the daylights wasting (wasting, wasting, wasting)
+Oh, baby the daylights wasting (wasting, wasting, wasting)
 You better kiss me (kiss me)
 Before our time has run out
 Mmmhh yeah...

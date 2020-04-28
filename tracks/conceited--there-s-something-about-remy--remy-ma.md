@@ -37,7 +37,7 @@ Miraculous, phenomenal and ain't nobody in here stopping you
 Show no love cause you what's up
 Look at ya self in the mirror like what the fuck
 
-Damn I look good and cant nobody freak it like I could
+Damn I look good and can't nobody freak it like I could
 Yea OK I got a little fat but
 My shorty told me that he like it like that
 I'm happy
@@ -86,7 +86,7 @@ You know I look way to good to be in the crib
 I'm conceited I got a reason
 
 I don't know what I'm doing
-I cant stop my body from moving
+I can't stop my body from moving
 I'm bopping and poppin to the music
 He's watching me and he's bout to lose it
 I'm dropping that hotter den drop it like its hot

@@ -64,11 +64,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-01-24'
 ---
-The Road Apples
-Miscellaneous
-Let's Live Together
-LET'S LIVE TOGETHER
-Road Apples
 Hey baby I got to tell you something
 Something you oughta know
 You're the honey in my sweet life
@@ -93,5 +88,3 @@ When I think about the happiness
 When I think that you got me feeling like this
 Baby gotta let you know
 Gotta let you know
-
-(repeat chorus)

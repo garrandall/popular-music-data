@@ -90,7 +90,7 @@ I'm rollin with the New Jack crew.
 And I'm a hustler.
 
 H-U-S-T-L-E-R hustler
-New Jack, New Jack..........
+New Jack, New Jack...
 
 Here I come, so you better break North,
 As I stride, my gold chains glide back and forth.
@@ -120,7 +120,7 @@ Pregnant teens, children's screams,
 Life is weighed on the scales of a triple beam.
 You don't come here much, and ya better not.
 Wrong move (bang), ambulance cot.
-I gotta get more money than you got, 
+I gotta get more money than you got,
 So what, if some muthafucka gets shot?
 That's how the game is played,
 Another brother slayed, the wound is deep
@@ -135,4 +135,4 @@ A hustler.
 Hustler.
 H-U-S-T-L-E-R hustler.
 
-New Jack, New Jack......
+New Jack, New Jack...

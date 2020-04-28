@@ -91,9 +91,6 @@ Listen to me, Jack
 I ain't holding, back
 Cause
 
-
-
-
 Come on and wild with me, baby
 Everybody
 Come on

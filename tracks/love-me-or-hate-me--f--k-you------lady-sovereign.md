@@ -5,7 +5,7 @@ features: []
 genres: []
 key: love-me-or-hate-me--f--k-you------lady-sovereign
 lyrics_url: https://genius.com/Lady-sovereign-love-me-or-hate-me-lyrics
-name: Love Me Or Hate Me (F**k You!!!!)
+name: Love Me Or Hate Me (F**k You!)
 rankings:
 - end_date: '2006-11-03'
   rank: 81
@@ -44,7 +44,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-01-20'
 ---
-Yeah!!
+Yeah!
 It's officially the biggest midget in the game
 I dunno...
 Make way for the S-O-Veeeeeeeee!
@@ -69,11 +69,11 @@ I wear a big baggy t-shirt that hides that nasty shit (yeah)
 Ewww! Never had my nails done
 Bite them down until they're numb
 I'm the one with the non-existent bum
-Now I dont really give a - EWWW!
+Now I don't really give a - EWWW!
 I miss some of my shepherd's pie
 Like a high maintenance chick missin' her diamonds
 I'm missin' my clippers lighters, now bow down to your royal highness
-No I dont own a Corgi, had a hamster it died cause I ignored it
+No I don't own a Corgi, had a hamster it died cause I ignored it
 Go on then, go on report me, I'm English - try and deport me!
 
 

@@ -67,7 +67,7 @@ Never wanna stop the music
 	Girl, you're lookin' so sexy
 	When you're doin' that dance for me
 
-Ooh, now that I've got you baby
+Oh now that I've got you baby
 You know we gotta keep it sexy
 Touchin' all over me
 Baby, it's ecstasy

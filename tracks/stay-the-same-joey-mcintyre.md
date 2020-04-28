@@ -68,9 +68,9 @@ rankings:
 
 Don't you ever wish you were someone else,
 You were meant to be the way you are exactly.
-Don't you ever say you don't like the way you are. 
+Don't you ever say you don't like the way you are.
 When you learn to love yourself, you're better off by far.
-And I hope you always stay the same, 
+And I hope you always stay the same,
 cuz there's nothin' 'bout you I would change.
 
 
@@ -88,8 +88,4 @@ The love you find will set you free.
 Believe in yourself, you will come alive.
 Have faith in what you do.
 You'll make it through.
-
-
-
-
 

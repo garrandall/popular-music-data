@@ -115,7 +115,7 @@ All I want is you, mmh
 All I want is you, now
 All I want is you now, sugar
 Now that you’re gone, gone, gone
-All I want is you, ooh-ooh, ooh
+All I want is you, oh-oh, oh
 All I want is you, now
 All I want is you now, baby
 Now that you’re gone, gone, gone, gone, gone
@@ -152,7 +152,7 @@ All I want is you now, sugar
 Now that you’re gone, gone, gone, gone, gone
 
 
-Ooh, ooh
-Ooh, ooh, oh
+Oh, oh
+Oh, oh, oh
 Yeah, now that you're gone, gone, gone
 I want you back

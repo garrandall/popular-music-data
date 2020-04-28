@@ -173,7 +173,3 @@ Angel, (Ohh I) I wanna be your wife (yea yea)
 Angel (Oh I), it maybe long (zagga zow zow)
 Angel (yea yea), you and I explore (say one time)
 
-
-
-
-

@@ -41,7 +41,7 @@ rankings:
   start_date: '1978-09-23'
 ---
 
-...2 3 4  Raise a little hell, raise a little hell, raise a little hell! 
+...2 3 4  Raise a little hell, raise a little hell, raise a little hell!
 
 Raise a little hell, raise a little hell, raise a little hell!
 
@@ -61,16 +61,16 @@ If you know there's something wrong why don't you right it?
 
 Raise a little hell, raise a little hell, raise a little hell!
 
-Raise a little hell, raise a little hell, raise a little hell!          
+Raise a little hell, raise a little hell, raise a little hell!
 
 In the end it comes down to your  thinking
 And there's really nobody to blame
-When it feels like your ship is sinking  
+When it feels like your ship is sinking
 And you're too tired to play the game
 
 Nobody's going to help you
 You've just gotta stand up alone
-And dig in your heels and see how it feels 
+And dig in your heels and see how it feels
 To Raise a little Hell of your own
 
 Raise a little hell, raise a little hell, raise a little hell!
@@ -80,7 +80,7 @@ Raise a little hell, raise a little hell, raise a little hell!
 If you don't like what you've got, why don't you change it?
 If your world is all screwed up,  rearrange it!
 
-Oh ohoh 
+Oh ohoh
 
 Raise a little hell, raise a little hell, raise a little hell!
 
@@ -88,7 +88,7 @@ Raise a little hell, raise a little hell, raise a little hell!
 
 Raise a little hell, raise a little hell, raise a little hell!
 
-Raise a little hell, raise a little hell, raise a little hell! 
+Raise a little hell, raise a little hell, raise a little hell!
 
 RAISE A LITTLE HELL! RAISE A LITTLE HELL!
 

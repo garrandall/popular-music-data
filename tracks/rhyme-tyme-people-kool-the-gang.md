@@ -77,7 +77,7 @@ Strange places you've never been before
 Rhyme tyme people
 Rhyme tyme people
 Yeah, yeah, yeah, yeah
-Ooh-woo-woo-woo
+Oh-woo-woo-woo
 What you wanna do
 What you wanna do
 

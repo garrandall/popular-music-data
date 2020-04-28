@@ -98,7 +98,7 @@ We'll just go on burnin' bright
 Somewhere in the night
 
 We'll just go on burnin' bright
-Somewhere in the night!!
+Somewhere in the night!
 
 (We'll just go on burnin' bright)
 (Somewhere in the night)

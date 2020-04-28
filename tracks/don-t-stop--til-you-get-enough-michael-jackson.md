@@ -98,17 +98,17 @@ If you could keep on
 Because the force
 It’s got a lot of power
 And it make me feel like ah
-It make me feel like… oooh!
+It make me feel like… oh
 
 
 Lovely is the feeling now
 Fever, temperatures rising now
 Power is the force, the vow (Oh power)
-That makes it happen, it asks no questions why (Ooh)
+That makes it happen, it asks no questions why (Oh)
 So get closer (Closer now)
 To my body now
 Just love me
-Till you don't know how (Ooh)
+Till you don't know how (Oh)
 
 
 Keep on with the force don't stop
@@ -122,14 +122,14 @@ Don't stop 'til you get enough
 
 
 Touch me and I feel on fire
-Ain’t nothing like a love desire (Ooh)
+Ain’t nothing like a love desire (Oh)
 I'm melting (I'm melting)
 Like hot candle wax
 Sensation (Oh sensation)
 Lovely where we're at
 So let love take us through the hours
-I won't be complaining (Aah)
-Cause this is love power (Ooh)
+I won't be complaining (Ah)
+Cause this is love power (Oh)
 
 
 Keep on with the force don't stop
@@ -146,10 +146,10 @@ Don't stop 'til you get enough
 
 Heartbreak enemy despise
 Eternal (Oh eternal)
-Love shines in my eyes (Ooh)
+Love shines in my eyes (Oh)
 So let love take us through the hours (Oh, let love)
 I won't be complaining (No, no)
-Cause your love is alright, alright (Ooh)
+Cause your love is alright, alright (Oh)
 
 
 Keep on with the force don't stop
@@ -170,7 +170,7 @@ Keep on with the force don't stop
 Don't stop 'til you get enough
 
 
-Lovely is the feeling now I won't be complaining (Ooh, ooh)
+Lovely is the feeling now I won't be complaining (Oh, oh)
 The force is love power
 
 

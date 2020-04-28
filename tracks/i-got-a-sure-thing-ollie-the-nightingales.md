@@ -95,7 +95,7 @@ I know (I know I got a sure thing)
 I know (sure thing with my baby)
 
 
-Mmmm (sure thing with my baby)
+Mmm (sure thing with my baby)
 I got a sure thing (sure thing with my baby)
 Oh (I know I got a sure thing)
 I know (I know I got a sure thing)

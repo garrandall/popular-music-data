@@ -227,7 +227,7 @@ You done did it, come on, yeah, all right, hold on
 
 
 Baby, when we're grindin', I get so excited
-Ooh how I like it, I try but I can't fight it
+Oh how I like it, I try but I can't fight it
 Oh, you're dancin' real close, 'plus it's real, real slow
 You're makin' it hard for me
 
@@ -247,7 +247,7 @@ You know what I wanna do
 
 
 Baby, when we're grindin', I get so excited
-Ooh how I like it, I try but I can't fight it
+Oh how I like it, I try but I can't fight it
 Oh, you're dancin' real close, 'plus it's real, real slow
 You know you're makin' it hard for me
 
@@ -266,12 +266,12 @@ You know what I wanna do, oh yes
 
 
 Baby, when we're grindin', I get so excited
-Ooh how I like it, I try but I can't fight it
+Oh how I like it, I try but I can't fight it
 Oh, you're dancin' real close, 'plus it's real, real slow
 You know you're makin' it hard for me
 Baby, don't stop
 Baby, when we're grindin', I get so excited
-Ooh how I like it, I try but I can't fight it
+Oh how I like it, I try but I can't fight it
 Oh, you're dancin' real close, 'plus it's real, real slow
 You're makin' it hard for me
 
@@ -284,7 +284,7 @@ Baby, I like it
 
 
 Baby, when we're grindin', I get so excited
-Ooh how I like it, I try but I can't fight it
+Oh how I like it, I try but I can't fight it
 Oh, you're dancin' real close, 'plus it's real, real slow
 You're makin' it hard for me
 
@@ -294,6 +294,6 @@ I like the way you move
 You're making me want you oh the way you move
 ('Plus it's real, real slow)
 I like those things you do cause you're a little too close, yeah
-I get so excited, ooh, how I like it, I try but I can't fight it
+I get so excited, oh, how I like it, I try but I can't fight it
 Oh, you're dancin' real close, 'plus it's real, real slow
 You're makin' it hard for me

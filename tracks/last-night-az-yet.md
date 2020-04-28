@@ -185,6 +185,3 @@ I saw the sun, the moon
 The mountains and the rivers
 I saw heaven when I made sweet love to you
 
-
-
-

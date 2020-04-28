@@ -120,11 +120,11 @@ And you give yourself away
 
 
 With or without you
-With or without you, ohh
+With or without you, oh
 I can't live with or without you
 
 
 With or without you
-With or without you, ohh
+With or without you, oh
 I can't live with or without you
 With or without you

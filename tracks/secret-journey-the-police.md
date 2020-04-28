@@ -74,6 +74,3 @@ You will find this love you miss
 And when you've made your secret journey
 You will be a holy man
 
-
-
-

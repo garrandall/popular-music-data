@@ -95,9 +95,6 @@ rankings:
 (Like it slow)
 (Like it slow)
 
-
-
-
 (Like it slow)
 
 (Like it slow)
@@ -110,16 +107,13 @@ I can feel your touch
 Everytime you move back with your push
 And it feels so wet
 Then I get my slow motion right there
-(ooooohh I wanna love your body slow)
+(oh I wanna love your body slow)
 Everytime I count a punch
 And the rules go
 Always slow, toe to toe
 If you don't know
 They don't like that right attack
 Damn right
-
-
-
 
 Come, don't rush
 Ones that do, they're certain to get none

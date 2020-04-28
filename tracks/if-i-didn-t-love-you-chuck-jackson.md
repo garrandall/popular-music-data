@@ -62,7 +62,7 @@ You'd be mine..?
 (If I didn't love you, love you.)
 
 Oh baby, mmm honey
-Oh, mmm, ooo baby
+Oh, mmm, oo baby
 I've got to have you, honey
 
 If I didn't love you

@@ -161,7 +161,7 @@ Ms. Vicky, heard you got that sticky
 Let's go and take nine shots we'll just call it 50
 And I'm gonna licky licky licky 'til her hicky
 Have-have-have her river runnin' keep you gunnin' 'til you empty
-(BANG BANG BANG BANG!!!)
+(BANG BANG BANG BANG!)
 Oh you look so sweet
 What you work at Bally's? Look at your physique
 Girl you are a beauty well-well I am a beast

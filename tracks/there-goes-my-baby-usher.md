@@ -114,11 +114,11 @@ Right... (turn the lights off)
 
 
 There goes my baby
-(Oooh, girl, look at you)
+(Oh, girl, look at you)
 You don't know how good it feels to call you my girl
 There goes my baby
 Loving everything you do
-Oooh, girl, look at you
+Oh, girl, look at you
 
 
 Bet you ain't know that I be checking you out when you be putting your heels on
@@ -141,11 +141,11 @@ You gon' hear me say
 
 
 There goes my baby
-(Oooh, girl, look at you)
+(Oh, girl, look at you)
 You don't know how good it feels to call you my girl
 There goes my baby
 Loving everything you do
-Oooh, girl, look at you
+Oh, girl, look at you
 
 
 I get the chills whenever I see your face and you in the place, girl
@@ -168,11 +168,11 @@ You gon' hear me say
 
 
 There goes my baby
-(Oooh, girl, look at you)
+(Oh, girl, look at you)
 You don't know how good it feels to call you my girl
 There goes my baby
 Loving everything you do
-Oooh, girl, look at you
+Oh, girl, look at you
 
 
 And girl, I feel like it's our first time every time we get together
@@ -184,14 +184,14 @@ Our time away won't change my love
 
 
 There goes my baby
-(Oooh, girl, look at you)
+(Oh, girl, look at you)
 You don't know how good it feels to call you my girl
 There goes my baby
 Loving everything you do
-Oooh, girl, look at you
+Oh, girl, look at you
 There goes my baby
-(Oooh, girl, look at you)
+(Oh, girl, look at you)
 You don't know how good it feels to call you my girl
 There goes my baby
 Loving everything you do
-Oooh, girl, look at you
+Oh, girl, look at you

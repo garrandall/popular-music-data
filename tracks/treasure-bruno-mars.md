@@ -105,7 +105,7 @@ Baby squirrel, you's a sexy motherfucker
 
 Give me your, give me your, give me your attention, baby
 I gotta tell you a little something about yourself
-You're wonderful, flawless, ooh, you're a sexy lady
+You're wonderful, flawless, oh, you're a sexy lady
 But you walk around here like you wanna be someone else
 
 (Oh whoa-oh-oh)

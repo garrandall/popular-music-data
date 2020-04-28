@@ -108,8 +108,8 @@ Whoa whoa oh oh
 Whoa whoa oh oh, my lady soul
 
 
-Ooh ooh ooh (my, my)
-Ooh ooh ooh (My, my)
+Oh oh oh (my, my)
+Oh oh oh (My, my)
 My, my, my, my, my, my, my
 (My, My) My lady soul
 (My, My...My, My...My, My)

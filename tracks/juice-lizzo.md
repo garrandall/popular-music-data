@@ -26,11 +26,11 @@ rankings:
 ---
 
 Mirror, mirror on the wall
-Don't say it 'cause I know I'm cute (Ooh, baby)
+Don't say it 'cause I know I'm cute (Oh, baby)
 Louis down to my drawers
-LV all on my shoes (Ooh, baby)
+LV all on my shoes (Oh, baby)
 I be drippin' so much sauce
-Gotta been looking like RAGÃ (Ooh, baby)
+Gotta been looking like RAGÃ (Oh, baby)
 Lit up like a crystal ball
 That's cool, baby, so is you
 That's how I roll
@@ -49,12 +49,12 @@ Gotta blame it on my juice
 Ya-ya-ee, ya-ya-ee, ya-ya-ee, ya-ya-ee
 Blame it on my juice, blame it, blame it on my juice
 Ya-ya-ee, ya-ya-ee, ya-ya-ee, ya-ya-ee
-Blame it on my juice, blame it, blame it on my juice (Ooh, baby)
+Blame it on my juice, blame it, blame it on my juice (Oh, baby)
 
 No, I'm not a snack at all
-Look, baby, I'm the whole damn meal (Ooh, baby)
+Look, baby, I'm the whole damn meal (Oh, baby)
 David, you ain't bein' slick
-Don't dare try to cop a feel (Ooh, baby)
+Don't dare try to cop a feel (Oh, baby)
 The juice ain't worth the squeeze
 If the juice don't look like this (Like this, like this, like this)
 Hold up, nigga, please

@@ -22,7 +22,7 @@ rankings:
 ---
 Ho, Ho, Ho
 (I know I ain't hear somebody say
-Nuthin about hoes up in here, sshhh, ooh lord)
+Nuthin about hoes up in here, sshhh, ohlord)
 
 What's up Dallas, what's up (x2)
 Dallas jump on it, jump on it, jump on it
@@ -31,7 +31,7 @@ San Antonio jump on it, jump on it, jump on it
 What's up Austin, what's up (x2)
 Austin jump on it, jump on it, jump on it
 What's up Houston, what's up (x2)
-Houston jump on it, jump on it, jump on it (Ooh lord)
+Houston jump on it, jump on it, jump on it (Ohlord)
 
 Welcome to the 2 1 4
 Big B, D Texas
@@ -62,7 +62,7 @@ California jump on it, jump on it, jump on it
 What's up Vegas, what's up (x2)
 Las Vegas jump on it, jump on it, jump on it
 What's up Sea-town, what's up (x2)
-Seattle jump on it, jump on it, jump on it (Ooh lord)
+Seattle jump on it, jump on it, jump on it (Ohlord)
 
 Welcome to the 6 0 2
 It's a 105 in the shade
@@ -83,7 +83,7 @@ Back to the 2 0 6
 Double up my grits
 And Sea-town giving po po fits
 Chasing the skirts like a playa supposed ta
-348 roasta HIT IT! (ho, ho, ho... ooh Lord)
+348 roasta HIT IT! (ho, ho, ho... ohLord)
 
 What's up Atlanta, what's up (x2)
 Atlanta jump on it, jump on it, jump on it
@@ -111,7 +111,7 @@ And swing on up to the 8 1 3
 Around Tampa, I'm dialing up Stephanie
 She got me polished like chrome
 Sitting on a throne
-I'm wore out know, I'm going home (Ooh lord)
+I'm wore out know, I'm going home (Ohlord)
 
 What's up K.C., what's up (x2)
 Kansas City jump on it, jump on it, jump on it
@@ -121,7 +121,7 @@ Columbus jump on it, jump on it, jump on it
 What's up Little Rock, what's up (x2)
 Little Rock jump on it, jump on it, jump on it
 What's up Denver, what's up (x2)
-Denver jump on it, jump on it, jump on it (Ooh lord)
+Denver jump on it, jump on it, jump on it (Ohlord)
 What's up Chicago, what's up (x2)
 Chicago jump on it, jump on it, jump on it
 What's up Portland, what's up (x2)

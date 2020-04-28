@@ -95,7 +95,7 @@ rankings:
 
 This is some of the lingua-fringa of da funk business,
 And people come from miles around with an almost religious
-devotion to get on down.....
+devotion to get on down...
 
 
 1 2 3 4 get your woman on the floor
@@ -146,9 +146,6 @@ if you don't know who it is, it's Coolio,
 slide, slide, but that's the past,
 I got sumpin' brand new for that ass
 
-
-
-
 Push, push, in the bush
 but don't step on no toes cuz you might get smushed
 it's the brother from around the way
@@ -168,8 +165,4 @@ I got size in my rise and the motion for your ocean
 Coolio got the potion to kick the party open
 slide, slide, but that's the past
 I got sumpin' brand new for that ass.
-
-
-
-
 

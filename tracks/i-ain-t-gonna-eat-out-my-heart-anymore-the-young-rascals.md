@@ -44,31 +44,23 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-19'
 ---
-(Pam Sawyer - Lori Burton)
 (Yeah) I admit you got the biggest brown eyes
 And you know how to part your lips to tantalize, sure
 (Yeah) You can get any man you want goin' and you do it
 And don't say you don't know you do
 
-Chorus:
 Well, baby, I ain't gonna eat out my heart anymore
 I ain't gonna eat out my heart anymore
 So quit it
 
-Bridge:
 I love you, I love you, I do, little girl
 But you ain't gonna cheat on me
 I need you, I need you, I  do, girl
 Choose, is it him or me (is it him or me)
 
-Verse 2:
 (Yeah) Just 'cause I ain't been sayin' it, girl
 You should be ashamed of what I've been seein' - bad
 (Yeah) You better watch your step or, girl
 You can bet you're gonna lose the best thing you ever had
 
-
-
-
-Coda:
 I ain't gonna eat out my heart anymore

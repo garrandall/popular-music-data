@@ -62,7 +62,7 @@ Party, 'cause you know the future's all yours
 Dance 'til your feet don't touch the floor (the floor)
 Celebrate the day you've waited for
 Party, like you're ready for so much more
-Do it like you know it's never been done (ooh)
+Do it like you know it's never been done (oh
 Go a little crazy, have too much fun
 Today's the day, c'mon, everyone (everyone)
 The party's just begun
@@ -72,9 +72,9 @@ We can do anything
 Everything we wanna
 Finally, we get the chance
 Everybody wanna celebrate (celebrate)
-Let the party never end (ooh)
+Let the party never end (oh
 Ready for the summer holiday (holiday)
-Anticipating what's ahead (ooh, yeah)
+Anticipating what's ahead (oh yeah)
 Now we're better than we've ever been (been)
 And you know we do it right (you know we do it right)
 Acapella, now, bring it in (yeah)
@@ -84,7 +84,7 @@ Come on, girls, one more time
 Chillin' out, break it down
 That's the way we do it now (yeah)
 Attitude in the groove
-Getting into something new (ooh)
+Getting into something new (oh
 Say goodbye to yesterday, future lookin' good to me (yeah)
 All together, raise your hands
 Time to party, time to dance

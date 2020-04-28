@@ -82,9 +82,6 @@ Groovin' on a Sunday afternoon
 Really couldn't get away too soon
 No, no, no, no
 
-
-
-
 We'll keep on spending sunny days this way
 We're gonna talk and laugh our time away
 I feel it coming closer day by day

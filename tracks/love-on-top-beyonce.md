@@ -115,10 +115,10 @@ When I need you, make everything stop
 Finally, you put my love on top
 
 
-Ooh, come on, baby!
+Oh come on, baby!
 You put my love on top, top, top, top, top
 You put my love on top
-Ooh, come on, baby!
+Oh come on, baby!
 You put my love on top, top, top, top, top
 You put my love on top
 
@@ -146,10 +146,10 @@ When I need you, make everything stop
 Finally, you put my love on top
 
 
-Ooh, baby!
+Oh baby!
 You put my love on top, top, top, top, top
 You put my love on top
-Ooh, come on, baby!
+Oh come on, baby!
 You put my love on top, top, top, top, top
 You put my love on top
 

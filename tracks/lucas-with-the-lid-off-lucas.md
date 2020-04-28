@@ -152,7 +152,7 @@ Whoa-oh-oh
 Cause it's Lucas with the lid off
 Zem, Zem
 DaZow, Zow
-Skedadle-lah-ooh
+Skedadle-lah-oh
 Watch me now you hear me now
 Uh now, now, now
 
@@ -249,5 +249,5 @@ Cause it's Lucas with the lid off
 
 Zem, Zem
 DaZow, Zow
-Skedadle-lah-ooh
+Skedadle-lah-oh
 Watch me now you hear me now

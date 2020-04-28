@@ -53,9 +53,6 @@ From trying to ease my nervous tension taking all them pat and pills
 And ever since she started running around from bar to bar
 I just can't eat a bite or keep my stomach settled down
 
-
-
-
 She got a body, oh yeah, she got a motion, oh yeah
 Oh I'm blistered, oh, oh yeah
 Oh, oh, oh, oh, oh, oh yeah

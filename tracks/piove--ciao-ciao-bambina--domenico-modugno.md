@@ -13,7 +13,7 @@ rankings:
   start_date: '1959-03-09'
 ---
 Mille violini suonati dal vento
-Tutti i colori dell'arcobaleno
+Tutti I colori dell'arcobaleno
 Vanno a fermare una pioggia d'argento
 Ma piove, piove sul nostro amor
 

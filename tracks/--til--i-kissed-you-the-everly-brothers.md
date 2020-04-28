@@ -104,4 +104,4 @@ Uh-huh, I kissed ya, oh yeah
 
 I kissed ya, uh-huh
 I kissed ya, oh yeah
-I kissed ya...
+I kissed ya

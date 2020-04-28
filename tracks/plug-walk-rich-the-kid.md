@@ -96,7 +96,7 @@ I don't even understand how the fuck my plug talk
 (Huh? what, what?)
 Pick him up in a space coupe, I don't let my plug walk
 (Skrrt, pull up in a space coupe)
-New freak, had to cut my other lil' bitch off (ooh, ooh, lil' bitch)
+New freak, had to cut my other lil' bitch off (oh, oh, lil' bitch)
 50K, you could come and book a nigga for a plug walk
 
 
@@ -104,7 +104,7 @@ You can't reach me (what?)
 Space coupe like E.T. (E.T.)
 It's the plug tryna call me (skrrt, skrrt)
 I was up trappin' early in the morning (plug)
-Ooh, on the wave like a du-rag (du-rag)
+Oh, on the wave like a du-rag (du-rag)
 Pussy nigga callin' for his boo back (pussy)
 Plug walk, Gucci on my shoe racks (Gucci)
 Walk up in the house, where the stove at? (hit a rat-a-tat)
@@ -119,7 +119,7 @@ I don't even understand how the fuck my plug talk
 (Huh? what, what?)
 Pick him up in a space coupe, I don't let my plug walk
 (Skrrt, pull up in a space coupe)
-New freak, had to cut my other lil' bitch off (ooh, ooh, lil' bitch)
+New freak, had to cut my other lil' bitch off (oh, oh, lil' bitch)
 50K, you could come and book a nigga for a plug walk
 
 
@@ -142,5 +142,5 @@ I don't even understand how the fuck my plug talk
 (Huh? what, what?)
 Pick him up in a space coupe, I don't let my plug walk
 (Skrrt, pull up in a space coupe)
-New freak, had to cut my other lil' bitch off (ooh, ooh, lil' bitch)
+New freak, had to cut my other lil' bitch off (oh, oh, lil' bitch)
 50K, you could come and book a nigga for a plug walk

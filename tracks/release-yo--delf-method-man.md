@@ -13,32 +13,26 @@ rankings:
   start_date: '1995-03-18'
 ---
 
-
-
-When I first stepped on the scene, niggaz was petrified
+When I first stepped on the scene, niggas was petrified
 Jet back to the lab like they were being chased by homicide
 My rap flow does you like Tical, and it will never steer you wrong
-And all you bitch-ass niggaz in the industry
+And all you bitch-ass niggas in the industry
 your careers won't be lasting long
 
-
-
-
-
 Check it, I'm the fuckin man, who they mention
-Notice, that other niggaz rap styles is bogus
+Notice, that other niggas rap styles is bogus
 Doo-doo, prepare for this verse Tical voodoo
 Blazin, the stuff that ignites stimulation
 Inside ya, cuz I be that house over water
 forgot in the realm that be deep as the Poseidon
-adventure, niggaz need to touch they freakin picture
+adventure, niggas need to touch they freakin picture
 For the sickness, that be spreadin with the quickness
 Remedies, cousin I be doin on my enemies
 Penalty, then I drink forties to they memories
 Emotion, rushin through your down street vicinity
 Blunt smoke, in the air reveals my identity
 
-(Tical.... tical... ti-cal, ti-cal...)
+(Tical... tical... tical... tical...)
 As I keep it movin, we keep it movin uh
 Keep it movin, and keep it movin uh
 Keep it movin baby we be movin uh
@@ -46,7 +40,7 @@ Keep it movin, we keep it huh RHARHHH
 What's that rhythm what's that sound
 Party people getting down
 When it hit the baddest man
-Just release, yo delf!!
+Just release, yo delf!
 
 
 
@@ -59,10 +53,10 @@ For my brother, I bring it to the Pope, word to mother
 Serial, killa, style from Big Isle
 No Stat, my peoples are you with me where you at?
 Shit's gettin deep in here, I mean thick
-Niggaz lookin all in my face like they want dick
+Niggas lookin all in my face like they want dick
 It's about to hit the fan, hit the flo'
 That's all I can stands, and I can't stands no mo'
-What is it?  Niggaz think they bigga
+What is it?  Niggas think they bigga
 Cause they got the finga on the trigga of a pistol
 They don't know I'm wicked, when I start to kick it
 With the raw sound, wash it down with a Mystic
@@ -85,18 +79,10 @@ I plan to keep it movin, you know we keep it movin uh
 And keep it movin, baby we be movin uh
 And keep it movin, you know we keep it movin uh
 And keep it movin, you know we keep it movin
-Baby we be movin, you know we keep it moo..RARHRAH
-
-
-
-
+Baby we be movin, you know we keep it moovin
 
 Throw your hands in the sky
 And wave em from side to side
 And if you're ready to spark up the Meth-Tical
-Let me hear you say stim-uli
-
-
-
-
+Let me hear you say stimuli
 

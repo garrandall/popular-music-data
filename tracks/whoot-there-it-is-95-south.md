@@ -188,7 +188,7 @@ Boy look-a here
 Look-a here, look-a here, look-a here
 Boy look-a here
 Look-a here, look-a here, look-a here
-Boy look-a here.....here we go
+Boy look-a here...here we go
 
 
 Come on sexy get on the floor

@@ -32,7 +32,7 @@ Anytime she goes away
 I know, I know, I know, I know
 I know I know I know, I know
 I know, I know, I know
-I know....
+I know...
 
 Ain't no sunshine when she's gone
 Only darkness every day

@@ -141,9 +141,6 @@ Let him introduce himself real good
 He's the only one they call Feelgood
 Guitar!
 
-
-
-
 Listen to Jimmy
 Come play with Dr. Feelgood
 

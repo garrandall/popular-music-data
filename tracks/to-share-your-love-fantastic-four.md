@@ -45,7 +45,7 @@ Who can't see, oh baby, baby
 And it's shame, shame if you don't share
 Your love with me.
 I can't help it
-Oohh baby, if your lover is gone (Gone)
+Oh baby, if your lover is gone (Gone)
 You must try to forget him
 Oh you must live on (on and on and on and on)
 I said, It's a good thing, a good thing,
@@ -53,8 +53,8 @@ A very good thing
 To love someone, Oh baby, baby
 But it's a shame, shame if you don't share
 Your love with me.
-Ahhh, oooooh baby, darling share your,
+Ah, ohy, darling share your,
 Share your, share your,
 Share your love with me.
 Its a shame, a shame if you don't share
-Your love with me... Ooh ooh.
+Your love with me... Ohoh.

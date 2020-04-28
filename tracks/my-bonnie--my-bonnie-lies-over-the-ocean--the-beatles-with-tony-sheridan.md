@@ -42,7 +42,7 @@ Yeah bring back, ah bring back, oh bring back my bonnie to me to me.
 Oh bring back, oh bring back, oh bring back my bonnie to me.
 Well my bonnie lies over the ocean, my bonnie lies over the sea.
 Yeah my bonnie lies over the ocean.
-Oh i said bring back my bonnie to me.
+Oh I said bring back my bonnie to me.
 Yeah bring back, ah bring back, oh bring back my bonnie to me to me.
 Oh bring back, ah bring back, oh bring back my bonnie to me.
 From: david cassells

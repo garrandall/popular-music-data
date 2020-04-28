@@ -129,7 +129,7 @@ It's time, oh-oh
 
 (Hey!)
 I don't know about you, but I'm feeling 22
-Everything will be alright (ooh) if you keep me next to you
+Everything will be alright (oh) if you keep me next to you
 You don't know about me, but I'll bet you want to
 Everything will be alright if (alright)
 We just keep dancing like we're 22 (oh, oh, oh, oh, oh)
@@ -145,13 +145,13 @@ It feels like one of those nights
 You look like bad news
 I gotta have you
 I gotta have you
-Ooh, ooh, yeah
+Oh, oh, yeah
 
 
 (Hey!)
 I don't know about you
 But I'm feeling 22
-Everything will be alright if (ooh) you keep me next to you
+Everything will be alright if (oh) you keep me next to you
 You don't know about me
 But I'll bet you want to
 Everything will be alright if we just keep dancing like we're

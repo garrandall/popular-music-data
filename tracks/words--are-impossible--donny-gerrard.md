@@ -56,7 +56,7 @@ I feel the tears,
 But, all I can hear are those words that never were true,
 Just spoken to help nobody but you,
 Words with lies inside,
-But, small enough to hide till your playing was through, ahh.
+But, small enough to hide till your playing was through, ah.
 
 Now, I'm standing here,
 Strange, strange voices in my ears,

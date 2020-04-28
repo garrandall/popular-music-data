@@ -106,7 +106,7 @@ Makin' waves and catchin' rays up on the roof
 Jumpin' out the back, don't act like you don't want to
 Party in slow motion
 Out here in the open
-Mmmmmmm...motorboatin'
+Mmm...motorboatin'
 
 (Hoo hoo hoo)
 
@@ -120,7 +120,7 @@ Makin' waves and catchin' rays up on the roof
 Jumpin' out the back, don't act like you don't want to
 Party in slow motion
 Out here in the open
-Mmmmmm...motorboatin'
+Mmm...motorboatin'
 
 (Hoo hoo hoo)
 (Hoo hoo hoo)
@@ -136,7 +136,7 @@ Makin' waves and catchin' rays up on the roof
 Jumpin' out the back, don't act like you don't want to
 Party in slow motion
 I'm out here in the open
-Mmmmmmm...motorboatin'
+Mmm...motorboatin'
 
 On the pontoon
 

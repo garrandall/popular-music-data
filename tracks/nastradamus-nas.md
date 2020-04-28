@@ -40,7 +40,7 @@ Yo, I need an encore y'all, you should welcome me back
 You wanna ball till you fall, I can help you with that
 You want beef? I could let a slug melt in your hat
 Cuz I'm a wild barbarian, too hard, I'm scarin' 'em
-Century 21 solar eclipse 
+Century 21 solar eclipse
 While you listenin' to the words that I wrote on the disc
 Thelonius, my description is do-rags, pants sag down to my feet
 AK is my heat, everyday in the street till I lay six feet
@@ -53,14 +53,14 @@ The aim for the head and chest years
 What's your name? Make your name known
 For the next year's, better rep, yeah
 
- - Nasty, Nas the Esco to Escobar   
+ - Nasty, Nas the Esco to Escobar
 Now he is Nastrodamus
-Nasty, Nas the Esco to Escobar   
+Nasty, Nas the Esco to Escobar
 Now he is Nastrodamus
 
-Nasty, Nas the Esco to Escobar   
+Nasty, Nas the Esco to Escobar
 Now he is Nastrodamus
-Nasty, Nas the Esco to Escobar   
+Nasty, Nas the Esco to Escobar
 Now he is Nastrodamus
 
 I let y'all niggas bang my shit before Saddam hits
@@ -72,10 +72,10 @@ Run up in your crib, tie up your bitch
 Weigh the bricks and we loco, so broke, brown coke won't sell
 Spendin' your money on weed, smoke and hotels
 Hood rats and bullet wound up females
-Got babies by hustlers and niggaz in jail
+Got babies by hustlers and niggas in jail
 Slingin for chips and fiends with burnt finger tips
 Base heads, killed cab drivers just for a hit
-A week later, sportin' Gators, gettin' thrills 
+A week later, sportin' Gators, gettin' thrills
 Our honies wearin' Gucci high heels
 She come to scoop me, I chill
 Leave streets alone for a sec

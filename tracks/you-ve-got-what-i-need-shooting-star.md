@@ -47,9 +47,9 @@ Thank god I changed my mind
 Can't wait to see what I find in you
 
 You've got, you've got what I need
-You've got, you've got what I need, ooh yeah
+You've got, you've got what I need, oh yeah
 You've got, you've got what I need, baby now you've got it
-You've got, you've got what I need, ooh yeah
+You've got, you've got what I need, oh yeah
 You've got, you've got what I need
 You've got, you've got what I need, yeah yeah...
 

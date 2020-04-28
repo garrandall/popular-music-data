@@ -65,7 +65,7 @@ rankings:
   start_date: '1982-10-02'
 ---
 Can't seem to get my mind off of you
-Back here at home there's nothin' to do, ooh
+Back here at home there's nothin' to do, oh
 Now that I'm away
 I wish I'd stayed
 Tomorrow's a day of mine that you won't be in

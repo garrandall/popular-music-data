@@ -57,7 +57,7 @@ rankings:
   start_date: '1966-06-18'
 ---
 
-Spread your wings for New Orleans   
+Spread your wings for New Orleans
 Kentucky bluebird, fly away
 And take a message to Michael
 Message to Michael
@@ -79,7 +79,7 @@ And even though his dream of fame
 Fell through
 To me he will always be a star
 
-Spread your wings for New Orleans   
+Spread your wings for New Orleans
 Kentucky bluebird, fly away
 And take a message to Michael
 Message to Michael

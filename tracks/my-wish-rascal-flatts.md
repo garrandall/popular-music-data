@@ -88,7 +88,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-02-03'
 ---
-Ooh
+Oh
 
 
 I hope that the days come easy and the moments pass slow

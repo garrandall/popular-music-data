@@ -19,7 +19,7 @@ La la la la la la la la
 (That's how, that's how
 Heartaches are made)
 
-Ooh, they told me I was such a fool to love you
+Oh they told me I was such a fool to love you
 They say that you're the kind who'll never be true
 Pretty soon the day would come
 When I'd be the sorry one

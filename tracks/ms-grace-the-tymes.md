@@ -24,7 +24,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-01-11'
 ---
-Ooh ooh ooh Miss Grace
+Oh oh oh Miss Grace
 Satin and perfume and lace
 The minute I saw your face
 I knew that I loved you
@@ -42,7 +42,7 @@ You're the twinkle in my eye
 There's no need to wonder why
 I've fallen for you
 
-Ooh ooh ooh Miss Grace
+Oh oh oh Miss Grace
 Satin and perfume and lace
 The minute I saw your face
 I knew that I loved you
@@ -52,12 +52,12 @@ Is that this could happen to me
 Lady Grace she said she'll be so fine
 Someday I'll make her mine all mine
 
-Ooh ooh ooh Miss Grace
+Oh oh oh Miss Grace
 Satin and perfume and lace
 The minute I saw your face
 I knew that I loved you
 
-Ooh ooh ooh Miss Grace
+Oh oh oh Miss Grace
 Satin and perfume and lace
 The minute I saw your face
 I knew that I loved you

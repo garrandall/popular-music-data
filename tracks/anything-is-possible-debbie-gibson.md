@@ -63,7 +63,7 @@ Anything is possible
 Just put your mind to it
 Anything is possible
 If you put your mind to it
-Anything....
+Anything...
 Is possible
 
 
@@ -86,7 +86,7 @@ Anything is possible
 If you put your mind to it
 Anything is possible
 
-Break it down now.....
+Break it down now...
 
 No matter what it is, it's possible
 Say, anything is possible

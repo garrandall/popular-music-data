@@ -89,16 +89,10 @@ Unless they try to play it too darned fast
 And change the beauty of the melody
 Until it sounds just like a symphony
 
-
-
-
 I took my loved one over across the tracks
 So she could hear my man wailing sax
 I must admit they have a rocking band
 Man, they were blowing like a hurricane
-
-
-
 
 Way down south they gave a jubilee
 I tell you folks they had a jamboree

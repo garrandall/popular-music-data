@@ -125,7 +125,7 @@ And now it ain't no way we can be friends
 
 And all I can say is
 La la la la la la la, a
-La la la la la la la la la, la la la ooh
+La la la la la la la la la, la la la oh
 La la la la la la la la la la, hey
 Ain't no telling what we could have been
 Ain't no telling what we could have been, no
@@ -138,6 +138,6 @@ I've lost my only lover and my friend
 
 
 That's why I wish we never did it, woo
-Ooh yeah and I wish we never loved it
+Oh yeah and I wish we never loved it
 And I wish I never fell so deep in love with you
 And now it ain't no way we can be friends

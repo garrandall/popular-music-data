@@ -55,7 +55,7 @@ Why don't you lend your tender touch
 I got to have it now
 
 (Verse 3)
-Stand there, shakin' yo' head ooh baby
+Stand there, shakin' yo' head ohbaby
 Ease on away from my bed
 That girl's gonna' die if you can't fight it
 A note to yourself, you're the victim now
@@ -64,7 +64,7 @@ A note to yourself, you're the victim now
 Pick me up
 Pick me up
 Pick me up
-Ooh pick me up now
+Ohpick me up now
 
 (Bridge 2)
 What have you got to lose
@@ -81,6 +81,6 @@ Life is lost without another
 (Closing Ad-Lib By Mary Wells)
 Pick me up
 (Come on, pick me up, I feel like I wanna' moan)
-Mmm, Hmm...Help me, don't leave me baby
+Mmm, Hm...Help me, don't leave me baby
 Come on, wanna' do it again, More
-Mmm, hmmm, come on Mr. MD. Help Me
+Mmm, hm, come on Mr. MD. Help Me

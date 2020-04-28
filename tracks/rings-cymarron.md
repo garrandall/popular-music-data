@@ -59,7 +59,7 @@ rankings:
 Ring, ring, telephone rings
 Somebody said, "baby won't you do it?"
 I been wondering where you been
-Now and then, i think about you and me
+Now and then, I think about you and me
 No use? in' 'bout things we can't recall
 It don't matter now at allllll,
 Just come on home: baby we'll laugh and sing
@@ -70,7 +70,7 @@ I'm glad you've come around, i've been feelin' down
 Just talkin' to tony and mario
 You know they make good conversation,
 Still it ain't no consolation
-Cause i got love, baby i'll give you some
+Cause I got love, baby i'll give you some
 And if somebody comes, we'll let the doorbell ring
 Said 'ring, ring, golden ring
 Around the sun, around your pretty finger'
@@ -82,7 +82,7 @@ Hand in hand,
 We'll stand upon the sand
 With the preacher man
 Let the wedding bells ring
-Oh-ohhh, hand in hand
+Oh-oh, hand in hand
 We'll stand upon the sand
 With the preacher man
 Let the wedding bells ring...

@@ -73,7 +73,7 @@ But I'ma sleep on it, sleep on it
 And I'll get back at ya when I wanna
 
 
-Ooh, I ain't tryna be rude,
+Oh I ain't tryna be rude,
 But you're the third guy tonight that's come to me like this.
 You see I'm tryna be cool, but these dudes keep grabbing me,
 They keep on grabbing me.

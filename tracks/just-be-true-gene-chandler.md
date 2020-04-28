@@ -68,5 +68,5 @@ Baby
 Now all these things for you alone I'd do
 And I'd need nothing in return, just as long as you
 Just be true, to me, just be true
-To me, wo oh wo ooh wo baby
+To me, wo oh wo ohwo baby
 (fade) to me, be be be be be be be be true

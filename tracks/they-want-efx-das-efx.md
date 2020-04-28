@@ -159,7 +159,7 @@ Like Rosco P. Coltrane
 I spiggedy-spark a spiff and give a twist like Chubby Checker
 I take my Froot Loops with two scoops, make it double decker
 Oh Finster Baby come to Papa Duke
-A babaloo, ooh, a babaloo boogedy boo
+A babaloo, oh a babaloo boogedy boo
 I went from Gucci to Stussy, to fliggedy-flam a groupie
 To Zsa Zsa, to yibbedy-yabba dabba hoochie koochie
 Tally ho I-I'll take my Stove Top instead of my Tater, so

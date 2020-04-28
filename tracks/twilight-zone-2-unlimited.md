@@ -104,7 +104,7 @@ You want more more you get
 We're 2 Unlimited in effect!
 Check up the sound and stop this distortion
 When we get the fittess, here's another portion
-Just lay back as we take control 
+Just lay back as we take control
 Take you down into the "Twilight Zone"
 
 
@@ -130,8 +130,4 @@ Me and the lady howl megatone
 Fuck you up in the "Twilight Zone"
 
  Woow
-
-
-
-
 

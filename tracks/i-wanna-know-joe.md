@@ -201,7 +201,7 @@ I'd like to know what makes you cry (so)
 So I can be the one who always makes you smile
 
 
-Girl, he never understood what you were worth (hmm, no)
+Girl, he never understood what you were worth (hm, no)
 And he never took the time to make it work, no
 (You deserve more lovin', girl)
 Baby, I'm the kind of man who shows concern, yes I do, oh
@@ -237,7 +237,7 @@ I wanna know what turns you on (I wanna know)
 So I can be all that and more (and I'd like to know)
 I'd like to know what makes you cry (oh, yeah)
 So I can be the one who always makes you smile
-(ooh, tell me, tell me)
+(oh tell me, tell me)
 
 
 Tell me what I gotta do to please you

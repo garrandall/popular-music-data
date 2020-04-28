@@ -19,18 +19,18 @@ We began after the storm inside
 Lay the land (Ah), it's just the morning light (Woo, woo)
 Woo, woo, oh yeah
 
-Woo-ooh, ooh-ooh
+Woo-oh, oh-oh
 Switch your, switch your attitude
 Go 'head, level up yourself
 This that different latitude
-Ooh-ooh, ooh-ooh
+Oh-oh, oh-oh
 Life too short, go spoil yourself
 Feel that feel, enjoy yourself 'cause
 
-We have everything we need (Ooh-ooh, ooh-ooh, oh)
-We have everything we need (Ooh-ooh, ooh-ooh, oh, oh)
-We have everything we need (Ooh-ooh, ooh-ooh, oh)
-We have everything we need (Ooh-ooh, ooh-ooh, oh, woah)
+We have everything we need (Oh-oh, oh-oh, oh)
+We have everything we need (Oh-oh, oh-oh, oh, oh)
+We have everything we need (Oh-oh, oh-oh, oh)
+We have everything we need (Oh-oh, oh-oh, oh, woah)
 We have everything we need
 
 We began after the storm inside
@@ -44,10 +44,10 @@ What if Eve made apple juice?
 You gon' do what Adam do?
 Or say, "Baby, let's put this back on the tree" 'cause
 
-We have everything we need (Ooh-ooh, ooh-ooh, oh)
-We have everything we need (Ooh-ooh, ooh-ooh, oh, oh)
-We have everything we need (Ooh-ooh, ooh-ooh, oh)
-We have everything we need (Ooh-ooh, ooh-ooh, oh, woah)
+We have everything we need (Oh-oh, oh-oh, oh)
+We have everything we need (Oh-oh, oh-oh, oh, oh)
+We have everything we need (Oh-oh, oh-oh, oh)
+We have everything we need (Oh-oh, oh-oh, oh, woah)
 We have everything we need
 
 We began after the storm inside

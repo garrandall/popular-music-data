@@ -126,7 +126,7 @@ When it's nice and wet I'm ready for your love
 So who's making moves 'cause I'm
 Looking at you and I like it
 
-Ooh, anyway you want it, girl
+Oh, anyway you want it, girl
 
 
 Hit me off

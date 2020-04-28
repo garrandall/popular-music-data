@@ -73,7 +73,7 @@ That he doesn't really understand
 Baby, I'm a man and maybe you're the only woman
 Who could ever help me
 Baby, won't you help me understand?
-Ooh-ah
+Oh-ah
 
 
 Baby, I'm a man and maybe I'm a lonely man
@@ -82,7 +82,7 @@ That he doesn't really understand
 Baby, I'm a man and maybe you're the only woman
 Who could ever help me
 Baby, won't you help me understand?
-Ooh-ah
+Oh-ah
 
 
 Maybe I'm amazed at the way you're with me all the time
@@ -95,6 +95,6 @@ Oh, oh
 Oh
 Hey
 Oh, oh
-Oh, ooh-ooh-ooh
+Oh, oh-oh-oh
 Yeah-yeaiyeah
-Ooh
+Oh

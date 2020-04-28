@@ -93,7 +93,7 @@ Yeah
 Woo!
 Hey yeah
 Huh
-Ooh yeah
+Oh yeah
 Uh-huh
 Yeah
 I want to dance
@@ -160,8 +160,8 @@ Yeah! I wanna dance with somebody
 With somebody who loves me
 
 
-Ooh, ooh
-Ooh (Dance)
+Oh, oh
+Oh (Dance)
 Come on, baby
 Ha ha ha ha (Dance)
 Woo!
@@ -181,8 +181,8 @@ Don't-cha wanna dance, say you wanna dance
 Don't-cha wanna dance? (Dance)
 Don't-cha wanna dance, say you wanna dance, uh-huh (Dance)
 With somebody who loves me
-Ooh, ooh (Dance)
-Ooh, ooh (Dance)
-Ooh, ooh (Dance)
+Oh, oh (Dance)
+Oh, oh (Dance)
+Oh, oh (Dance)
 Hey, baby
 Don't-cha wanna love, don't-cha wanna love me?

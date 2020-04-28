@@ -99,7 +99,7 @@ rankings:
 Sometimes the love rhymes that fill that afternoon
 Lose all their meaning with the rising moon
 Hold me and tell me that the words you say are true
-Answer the question I must ask of you .....
+Answer the question I must ask of you ...
 
 Do you wanna make love
 Or do you just want to fool around?

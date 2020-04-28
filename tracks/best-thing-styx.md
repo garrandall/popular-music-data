@@ -50,7 +50,7 @@ Makin' me a man
 I haven't known you for a very long time
 But it's on my mind what I want to do
 A trip to the skies we begin to fly
-Oo-oooh
+Oo-oh
 
 All the riches I have taken
 From you every night

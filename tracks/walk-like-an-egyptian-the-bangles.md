@@ -111,7 +111,7 @@ Gold crocodiles (oh-way-oh)
 They snap their teeth on your cigarette
 
 Foreign types with the hookah pipes say
-(Way-oh-way-oh, ooh-way-oh-way-oh)
+(Way-oh-way-oh, oh-way-oh-way-oh)
 Walk like an Egyptian
 
 
@@ -126,7 +126,7 @@ When the buzzer rings (oh-way-oh)
 They're walking like an Egyptian
 
 All the kids in the marketplace say
-(Way-oh-way-oh, ooh-way-oh-way-oh)
+(Way-oh-way-oh, oh-way-oh-way-oh)
 Walk like an Egyptian
 
 
@@ -146,6 +146,6 @@ And the Chinese know (oh-way-oh)
 They walk the line like Egyptian
 
 All the cops in the donut shop say
-(Way-oh-way-oh, ooh-way-oh-way-oh)
+(Way-oh-way-oh, oh-way-oh-way-oh)
 Walk like an Egyptian
 Walk like an Egyptian

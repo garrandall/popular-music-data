@@ -126,7 +126,7 @@ Headlines (Headlines)
 Headlines (Line 'em up line 'em up)
 Headlines (Oh have you heard it)
 Headlines (Headlines)
-Headlines (Ooh hit it)
+Headlines (Oh hit it)
 
 
 Turned to the classifieds searchin' through the lost and found

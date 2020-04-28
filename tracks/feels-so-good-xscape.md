@@ -128,8 +128,3 @@ He makes me...
 
 This is for those that like to pop the trunk and let it bump, b-bump.
 
-
-
-
-
-

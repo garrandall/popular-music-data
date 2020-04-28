@@ -12,16 +12,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-08-18'
 ---
-Ooh
+Oh
 
 
-Me and my bitch, I swear we like the same sex (Ooh)
+Me and my bitch, I swear we like the same sex (Oh)
 Fuck with all my chains on, let's have chain sex (Serve, yeah)
 Hangin' with the gang, you get your fangs wet (Wet)
 Wanna kick with the gang, you gotta bang it (It's lit)
 If you gon' throw ice on, gotta swang it (Ice)
 Holes in the wall, I cannot hang it (Nah)
-Pour different colors, sippin', tainted (Ooh)
+Pour different colors, sippin', tainted (Oh)
 Woah, think the vibe just start vibratin' (Vibe)
 
 
@@ -55,11 +55,11 @@ Your bitch gave the Kid Cudi but I'm not signed to Ye (On God)
 I nutted on her cheek, her new nickname is "Babyface" (21)
 
 
-Me and my bitch, I swear we like the same sex (Ooh)
+Me and my bitch, I swear we like the same sex (Oh)
 Fuck with all my chains on, let's have chain sex (Serve, yeah)
 Hangin' with the gang, you get your fangs wet (Wet)
 Wanna kick with the gang, you gotta bang it (It's lit)
 If you gon' throw ice on, gotta swang it (Ice)
 Holes in the wall, I can not hang it (Nah)
-Pour different colors, sippin', tainted (Ooh)
+Pour different colors, sippin', tainted (Oh)
 Woah, think the vibe just start vibratin' (Vibe)

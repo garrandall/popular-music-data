@@ -125,9 +125,6 @@ I like ya hair and every style that you wear it
 And how the colors cordinate with your clothes
 From your manicured nails to your pedicured toes
 
-
-
-
 Yeah, you hear the song so dance
 Don't always think I'm tryna get in your pants
 Cause see me my pimpin's in 3D
@@ -145,9 +142,6 @@ Makin' sure I don't miss the homecoming at Howard
 Hawaii to D.C. it's plenty women to see
 So if yo ass don't show up it's more women for me (heyy)
 
-
-
-
 I'm in New York at the Puerto Rican Day Parade
 Then at night I'm in New Orleans drinkin' hand grenades
 Outnumbered by the dozens at the jazz fest
@@ -164,9 +158,6 @@ Oh yet and still
 You wouldn't believe your eyes if you went to Brazil
 (But where the best at?) Ain't no need of even askin' brah
 The best women all reside in Africa, and that's real
-
-
-
 
 Sing it, hoes (The world, the world, the world)
 

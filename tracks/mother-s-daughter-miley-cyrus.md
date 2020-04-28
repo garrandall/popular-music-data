@@ -40,8 +40,8 @@ I'm nasty, I'm evil
 Must be something in the water
 Or that I'm my mother's daughter
 
-So back up, back up, back up, back up, boy, ooh
-Back up, back up, back up, back up, boy, ooh hey
+So back up, back up, back up, back up, boy, oh
+Back up, back up, back up, back up, boy, ohhey
 
 Hallelujah, I'mma witch, I'mma witch
 Hallelujah, swish, swish
@@ -63,10 +63,10 @@ I'm nasty, I'm evil
 Must be something in the water
 Or that I'm my mother's daughter
 
-So back up, back up, back up, back up, boy, ooh
-Back up, back up, back up, back up, boy, ooh
-Back up, back up, back up, back up, boy, ooh
-Back up, back up, back up, back up, boy, ooh
+So back up, back up, back up, back up, boy, oh
+Back up, back up, back up, back up, boy, oh
+Back up, back up, back up, back up, boy, oh
+Back up, back up, back up, back up, boy, oh
 
 My mama always told me that I'd make it
 That I'd make it, so I made it

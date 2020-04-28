@@ -104,7 +104,7 @@ All the ladies all over the world
 All my sexy mamas come on
 Come on a come on now
 As we proceed to give you what you need
-You kno i like it when your body goes
+You kno I like it when your body goes
 
 
 Bump bump bump
@@ -114,7 +114,7 @@ Bad boy, b2k, yo o, talk to em player
 
 
 I like your lil sexy style
-I love it when you getting wil' (uh, i see you)
+I love it when you getting wil' (uh, I see you)
 Girl in the club wit me
 (come over her let me talk to you for a minute, yeah
 I wanna tell you something)
@@ -129,16 +129,16 @@ Can we spend some time
 I wanna get you to myself
 You and me and nobody else
 Yo do the things we do
-Baby there is something that i need from you
+Baby there is something that I need from you
 (uh, come on, check it out)
 
 
-Baby turn around, 
+Baby turn around,
 And let me see that sexy body go
 Bump bump bump (yeah)
-That is all i want to see, 
+That is all I want to see,
 Baby show me (come on)
-Baby turn around, 
+Baby turn around,
 And let me see that sexy body go (yeah)
 Bump bump bump
 The way you throwin that thing at me (uh yeah)
@@ -147,26 +147,26 @@ I can take it
 
 Come on
 Girl why you teasin me
-You gonna have to stop pleasin me (stop teasin me, i want you)
+You gonna have to stop pleasin me (stop teasin me, I want you)
 While we're on this floor
 You takin it round and round
 I love the way you put it down
 You makin me scream for more (oh, gimme more, let s go, don't stop come on)
 Put your 2way next to mine
 Baby hit me anytime
-Baby you and me behind close doors (oohh)
+Baby you and me behind close doors (oh)
 You about to be my main squeeze
 Take trips, cop shiny things
 Girl just come wit me
 Come on lets go and do the damn thang
 
 
-Baby turn around, 
+Baby turn around,
 And let me see that sexy body go
 Bump bump bump
-That is all i want to see, 
+That is all I want to see,
 Baby show me
-Baby turn around, 
+Baby turn around,
 And let me see that sexy body go
 Bump bump bump
 The way you throwin that thing at me
@@ -201,17 +201,17 @@ Du du du du duda du du du
 Du du du du duda du du du
 So lets do it again mami
 You and a friend mami
-Money aint a thing mami 
-What i gotta spend mami
+Money aint a thing mami
+What I gotta spend mami
 Put up you hands for me
 That's how you dance for me
 Shake it like you can hunni
 Take it from your man mami
 
-Baby turn around, 
-And let me see that sexy body go (oooo)
+Baby turn around,
+And let me see that sexy body go (oo)
 Bump bump bump
-That is all i want to see, 
+That is all I want to see,
 Baby show me (let me ya)
 Baby turn around, (b2k)
 And let me see that sexy body go (bad boy)
@@ -221,7 +221,7 @@ I can take it
 
 I see you chris
 
-You kno i like it when your body go
+You kno I like it when your body go
 Bump bump bump
 
 Don't stop

@@ -175,7 +175,7 @@ Wanna get higher with your love
 'Cause I belong)
 
 
-I belong to you (Ooh)
+I belong to you (Oh)
 I'd give all my love to you
 
 

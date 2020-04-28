@@ -41,18 +41,18 @@ The way you do
 I want to spend my whole life, sweet darling
 Just loving only you, baby
 
-Ooh, your loving is so right
+Oh, your loving is so right
 And I want it every night
 Only you know how to thrill me, boy
 You got class and you got style
 And your love is worth my while
 You satisfy me, boy
-Please don't turn me down, ooh
+Please don't turn me down, oh
 
 Come on and get my love
 Your person, your personal touch
 (You know you got it, come give it to me)
-Ooh, come on and get my love
+Oh, come on and get my love
 Your person, your personal touch
 (You know I love it, come give it to me)
 
@@ -79,7 +79,7 @@ Every time you hug me and you kiss me, boy
 I pray you'll always be around
 Honey, when my love comes down
 'Cause only your love, boy
-Sees me heaven-bound, ooh, baby, yeah
+Sees me heaven-bound, oh, baby, yeah
 
 Get all my love, your personal touch
 Come on and get my love
@@ -89,11 +89,11 @@ Oh, get my love
 Your personal touch
 Oh, baby, mmm
 
-Ooh-ooh-ooh, yeah
-Ooh, your loving is so right
+Oh-oh-oh, yeah
+Oh, your loving is so right
 Boy, I want it every night, yeah
 
-Ooh, mmm
+Oh, mmm
 Get my love
 Your personal touch
 Ah, baby

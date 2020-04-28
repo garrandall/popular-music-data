@@ -102,9 +102,6 @@ About the way that you fool with me
 And if it please Your Highness on a sunny day sometime
 Can you take me ridin' babe, I'll tell you what I'm thinkin' 'bout you
 
-
-
-
 Well I saw you last night on a Hollywood show
 And now it's easy for me to say
 That I'm head over heels shook up

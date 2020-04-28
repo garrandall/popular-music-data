@@ -66,7 +66,7 @@ But now you're leaving...
 
 In this world, all that I choose has come unbearable
 But love is in your touch
-Ooh, it's killing me so much
+Oh, it's killing me so much
 
 Only when you leave
 I need to love you

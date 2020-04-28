@@ -88,7 +88,7 @@ And talkin' about something that I knew nothing about
 Plus Dre told me stay out, this just wasn't my beef
 So I did, I just fell back, watched and gritted my teeth
 While he's all over t.v. down talkin' a man who literally saved my life
-Like fuck it i understand this is business
+Like fuck it I understand this is business
 And this shit just isn't none of my business
 But still knowin' this shit could pop off at any minute cause
 
@@ -132,8 +132,4 @@ I'm just willin' to be the bigger man
 If ya'll can quit poppin' off at the jaws, well then I can
 Cause frankly I'm sick of talkin'
 I'm not gonna let someone else's coffin rest on my conscience cause
-
-
-
-
 

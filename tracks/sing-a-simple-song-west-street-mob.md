@@ -27,7 +27,7 @@ rankings:
 Sing a simple song
 Yeah yeah yeah yeah
 Yeah yeah yeah yeah
-Ooh baby
+Oh baby
 And it takes me there
 
 I'm talkin' talkin' talkin' talkin', talking in my sleep
@@ -59,7 +59,7 @@ For a little while
 
 Let me hear you say
 Ya, ya ya ya ya (Sing it, sing it, sing it, sing it, sing it)
-Ooh, let me hear you say
+Oh, let me hear you say
 Ya, ya ya ya ya (Sing it, sing it, sing it, sing it, sing it)
 
 Ah, oh
@@ -80,7 +80,7 @@ Everybody sing together
 Ya, ya ya ya ya (Sing it, sing it, sing it, sing it, sing it)
 Bring it people, sing it baby
 Ya, ya ya ya ya (Sing it, sing it, sing it, sing it, sing it)
-Ooh, la-dee-da-do
+Oh, la-dee-da-do
 
 I'm on people, I'm on
 Everybody sing
@@ -88,7 +88,7 @@ Yeah yeah yeah yeah
 Yeah yeah yeah yeah
 Well, ah
 
-I love you, I love you baby (Ooh ah, ooh ah, ooh ah)
+I love you, I love you baby (Oh ah, ohah, oh
 I love you, I love you baby (Get the beat)
 I love you, I love you baby (Feels so sweet)
 I love you, I love you baby
@@ -105,7 +105,7 @@ Sing it every hour
 Ya, ya ya ya ya
 Sing it people, sing it
 Ya, ya ya ya ya
-Sing it people, ooh good baby
-Ya, ya ya ya ya (Ooh)
+Sing it people, ohgood baby
+Ya, ya ya ya ya (Oh)
 Yeah, I see you Joey!
 Ya, ya ya ya ya (Sing it, sing it, sing it, sing it, sing it)

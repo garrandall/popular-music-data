@@ -90,7 +90,7 @@ I just love me some hoes, you know
 I got these young girls fiendin’ for this fishing pole
 And when I stick it to you, girl, you'll be happy
 I'ma work it ‘til I sweat your fly ‘do nappy
-Ooh, that look good, so good and so tight
+Oh that look good, so good and so tight
 Come on, girl, let me rip tonight
 ‘Cause if you do, I think I just might…ah, you know
 

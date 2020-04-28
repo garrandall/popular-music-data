@@ -119,7 +119,3 @@ With you there's a heaven
 So earth ain't so bad
 And tell me
 
-
-
-
-

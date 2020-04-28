@@ -98,12 +98,12 @@ Who like to slip sideways
 Beware, double's shuttin down the highway
 
 
-Shake it westsiide (something about the west coast) 
+Shake it westsiide (something about the west coast)
 Throw ya hands up let's riide
 To the city of the scene
 Put it on the one get ya body on the dance floor
 Something about the West coast
-It makes me wanna ride 
+It makes me wanna ride
 
 
 How many MC's must get dissed
@@ -122,9 +122,6 @@ Crookas' throw yo' turf up
 Hustlers trust her & some of them put that work up
 Cause if they ridin' they gone ride tonight
 When they hit it we to the next light. Believe it
-
-
-
 
 Thou commands me
 To skyball hands free

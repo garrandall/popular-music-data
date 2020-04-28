@@ -146,7 +146,7 @@ Here I am
 
 Mo better mo cheddar not the man
 Off your clothes last sweater (what)
-Hoe getter gorilla f**k chuffers,
+Hoe getter gorilla fuck chuffers,
 I went and got mo killers boss
 I rock with Niggas like Fabulous cause
 He tell the truth baby like Fabulous

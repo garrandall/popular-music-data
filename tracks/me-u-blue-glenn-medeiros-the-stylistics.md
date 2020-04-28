@@ -63,9 +63,6 @@ I will keep this love alive, baby
 I will
 Because otherwise
 
-
-
-
 I can't stand the thought of us apart
 Like so many hearts
 Beating in the dark

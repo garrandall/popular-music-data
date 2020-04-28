@@ -70,7 +70,7 @@ Bad times, I can't take 'em
 Good times, got to make 'em
 Got to find 'em, got to taste 'em
 Hey and I do, I say I do
-Mama I do......
+Mama I do...
 
 Two bit manchild I was
 Born for nothin' mostly
@@ -80,7 +80,7 @@ You can't change me none
 Na na na na na
 
 I do, I say I do
-Mama, Mama I do......
+Mama, Mama I do...
 Two bit manchild I was
 Born for nothin' mostly baby
 Good time women

@@ -43,7 +43,7 @@ On my radar (got you on my) radar (got you on my) radar (got you on my) RADAR
 
 Interesting sense of style
 Ten million dollar smile
-Think I cant handle that
+Think I can't handle that
 Animal in the sack
 His eyes see right to my soul
 I surrender self-control
@@ -64,10 +64,10 @@ on my radar (on my radar)
 on my radar (got you on my) radar (got you on my) radar (got you on my) RADAR
 on my radar (got you on my) radar (got you on my) radar (got you on my) RADAR
 
-I got my eye on you... and I cant let you get away...
+I got my eye on you... and I can't let you get away...
 
 Hey baby whether it's now or later (I've got you)
-you cant shake me (no)
+you can't shake me (no)
 cause I got you on my radar
 Whether you like it or not, it ain't gonna stop
 cause I got you on my radar (I've got you)

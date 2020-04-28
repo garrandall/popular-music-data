@@ -52,7 +52,7 @@ Since you been gone, since you been gone
 I'm outta my head, can't take it
 Could I be wrong? But since you been gone
 You cast the spell, so break it
-Ohh, whoa, ohh
+Ohh, whoa, oh
 Since you been gone
 
 So in the night I stand beneath the back street light
@@ -67,7 +67,7 @@ Since you been gone, since you been gone
 I'm outta my head, can't take it
 Could I be wrong? But since you been gone
 You cast the spell, so break it
-Ohh, whoa, ohh
+Ohh, whoa, oh
 Since you been gone
 
 If you will come back
@@ -78,7 +78,7 @@ Since you been gone, since you been gone
 I'm outta my head, can't take it
 Could I be wrong? But since you been gone
 You cast the spell, so break it
-Whoa, ohh, ohh, ohh
+Whoa, oh, oh, oh
 Ever since you been gone
 
 Since you been gone, since you been gone

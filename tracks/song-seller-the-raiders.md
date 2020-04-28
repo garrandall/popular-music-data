@@ -57,7 +57,7 @@ Good mornin', song seller
 I suppose we've got it made
 You're such a charmin' fellow
 Why can't you get this record played
-Record played, record played, ooh
+Record played, record played, oh
 
 
 

@@ -55,7 +55,7 @@ Oh, that's what you are, baby
 I'm in Heaven
 You take me to Heaven, oh
 Fly like an Angel
-Be my lucky star, baby, ooh
+Be my lucky star, baby, oh
 
 (I want to get up and on and on)
 Transmission's on and up we go, oh
@@ -79,7 +79,7 @@ Just say
 And I'll be your license to chill
 
 (License to chill)
-Ooh, what a feelin'
+Oh, what a feelin'
 (Rock the love, rock the love)
 I'm rockin' and reelin'
 (Rock the Heaven)

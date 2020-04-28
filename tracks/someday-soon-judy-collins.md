@@ -58,7 +58,7 @@ Blow, you old blue northern, blow my love to me
 He's driving in tonight from California
 He loves his damned old rodeo as much as he loves me
 Someday soon, going with him someday soon
-Someday soon, going with him .....someday soon
+Someday soon, going with him ...someday soon
 
 
 

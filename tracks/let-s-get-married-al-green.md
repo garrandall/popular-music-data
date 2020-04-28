@@ -61,7 +61,7 @@ Having nothing to do
 I'm tired of playing around
 Girl in every town
 I want to settle down
-And stop foolin' around 
+And stop foolin' around
 (Let's get married)
 I've got to stop foolin' around
 (Let's get married)
@@ -78,7 +78,7 @@ Don't want to say anything to drive you away
 
 Let's get married today
 (Let's get married)
-Yeeaaah
+Yeah
 (Let's get married)
 (Let's get married)
 Alright
@@ -92,7 +92,7 @@ Might as well
 Take you in arms and squeeze you
 Take you in my arms and love you every night
 Just make everything alright alright
-I wanna soothe you baby 
+I wanna soothe you baby
 Let me soothe you baby (again)
 Soothe you baby
 So I can wipe all your tears away

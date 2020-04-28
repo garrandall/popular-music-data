@@ -32,7 +32,7 @@ And I let you do the rest
 
 I can tell it's true love
 Honey, cause, I can feel it
-Pounding in my heart, ooh
+Pounding in my heart, oh
 
 
 I been moved (moved)
@@ -55,7 +55,7 @@ That I see in your eye
 
 Can't you tell I love you, honey
 Oh, can't you feel it
-Pounding in my heart, ooh
+Pounding in my heart, oh
 
 
 

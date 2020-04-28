@@ -69,7 +69,7 @@ When things ain't funny
 (a haha) Happy go lucky me
 
 Yes, I can smile
-When i ain't got no money
+When I ain't got no money
 (a haha) Happy go lucky me
 
 It may sound silly but
@@ -84,7 +84,7 @@ This slappy go happy, happy go lucky looovve
 Well! Life is sweet ..Whooa sweet as honey
 (a haha) happy go lucky me
 
-*pause....music and laughing*
+*pause...music and laughing*
 
 It may sound silly but
 Mmm, I don't care

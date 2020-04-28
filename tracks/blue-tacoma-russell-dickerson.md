@@ -100,11 +100,11 @@ If heaven is anywhere
 It's in a blue Tacoma, California
 White magnolia in your hair
 Rays of gold are shining on ya
-Oooh, if heaven is anywhere
+Oh, if heaven is anywhere
 It's never running out of golden road
 Always having your hand to hold
 In a blue Tacoma, California
-Oooh, if heaven is anywhere
+Oh, if heaven is anywhere
 It's right here
 
 Blue Tacoma, California
@@ -123,11 +123,11 @@ Cause heaven's in
 A blue Tacoma, California
 White magnolia in your hair
 Rays of gold are shining on ya
-Oooh, if heaven is anywhere
+Oh, if heaven is anywhere
 It's never running out of golden road
 Always having your hand to hold
 In a blue Tacoma, California
-Oooh, if heaven is anywhere
+Oh, if heaven is anywhere
 It's right here
 
 Blue Tacoma, California
@@ -137,19 +137,19 @@ If heaven is anywhere
 It's in a blue Tacoma, California
 White magnolia in your hair
 Rays of gold are shining on ya
-Oooh, if heaven is anywhere
+Oh, if heaven is anywhere
 It's never running out of golden road
 Always having your hand to hold
 In a blue Tacoma, California
-Oooh, if heaven is anywhere
+Oh, if heaven is anywhere
 It's right here
 Blue Tacoma, California
-Oooh, if heaven is anywhere
+Oh, if heaven is anywhere
 Rays of gold are shining on ya
 It's always right here, always right here, oh oh
 Blue Tacoma, California
 Rays of gold are shining on ya
-Oooh, if heaven is anywhere
+Oh, if heaven is anywhere
 
 
 

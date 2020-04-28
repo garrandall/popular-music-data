@@ -110,7 +110,3 @@ Baby, love is tough but we can take it
 Baby, times are rough but we can make it
 We can work it out
 
-
-
-
-

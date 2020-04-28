@@ -1,6 +1,6 @@
 ---
 artists:
-- Steve Allen with The Copacabana Trio
+- Steve Allen
 features: []
 genres: []
 key: cuando-calienta-el-sol--when-the-sun-is-hot--steve-allen-and-his-orchestra-with-the-copacabana-trio

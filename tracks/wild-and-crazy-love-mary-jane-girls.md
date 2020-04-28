@@ -65,17 +65,17 @@ I'd give you so much love and pleasure
 You'd want to make love every night
 
 You know I could
-(Ooh, ooh, ooh
+(Oh, oh, oh
 Wrap my arms around you)
 You know I would
-(Ooh, ooh, ooh
+(Oh, oh, oh
 Squeeze and hold your body tight)
 
 I'll tell the world
-(Ooh, ooh, ooh
+(Oh, oh, oh
 I'm so glad I found you)
 Don't you know, baby
-Ooh, ooh, ooh
+Oh, oh, oh
 Now tonight's the night for love)
 
 I'm gonna give my all to you
@@ -103,17 +103,17 @@ When you want me
 Just open up and come on in
 
 You know I could
-(Ooh, ooh, ooh
+(Oh, oh, oh
 Wrap my arms around you)
 You know I would
-(Ooh, ooh, ooh
+(Oh, oh, oh
 Squeeze and hold your body tight)
 
 I'll tell the world
-(Ooh, ooh, ooh
+(Oh, oh, oh
 I'm so glad I found you)
 Don't you know, baby
-(Ooh, ooh, ooh
+(Oh, oh, oh
 Now tonight's the night for love)
 
 I'm gonna give my all to you

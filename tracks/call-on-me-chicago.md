@@ -87,18 +87,12 @@ Nothing else to do
 Please remember I never lose the thought of you
 Call on me because
 
-
-
-
 You've got to find
 Someone else to somehow take my place
 Share his life with you
 But if you need a friend
 You can always count on me
 Count on me because
-
-
-
 
 You can count on me oh
 You can count on me

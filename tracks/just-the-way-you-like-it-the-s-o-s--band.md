@@ -92,9 +92,9 @@ Just the way you like it
 
 
 Just the way you like it
-Ooh-ooh-ooh-ooh...
+Ohohoohhoh
 Just the way you like it
-Ooh-ooh...
+Ohoh..
 
 
 If you...plan on loving me for a lifetime
@@ -113,9 +113,9 @@ Right here
 
 
 As long as I can be your number one
-(Ooh-ooh-ooh-ooh-ooh...)
+(Ohohoohhoh.oh
 You still can have your fun
-(Ooh-ooh...)
+(Ohoh..)
 Whenever you need love
 I will give it to you
 Just the way you like it
@@ -155,7 +155,7 @@ You keep your other girls...
 (Yeah)
 
 As long as I can be your number one
-(Ooh-ooh)
+(Ohoh
 You still can have your fun
 Whenever you need love
 I will give it to you
@@ -169,9 +169,9 @@ Just the way you like it
 
 As long as I...
 Just the way you like it
-Ooh-ooh-ooh-ooh...
+Ohohoohhoh
 Just the way you like it, boy
-Ooh-ooh...
+Ohoh..
 
 (Oh-oh-oh, oh-oh-oh)
 (Oh-oh-oh, oh-oh-oh)

@@ -39,11 +39,11 @@ Look what I got
 Good loving so hot
 Come on, let me show you
 
-Ooh, there are no words that
+Oh, there are no words that
 Can express the way I feel now
 And I want you to know
 
-I need you in my life, ooh, baby
+I need you in my life, oh, baby
 I need you, baby, I really do
 My love is true
 I need you in my life

@@ -47,7 +47,7 @@ And Daddy always smiled; took me by the hand,
 Sayin', "Someday you'll understand."
 
 
-Well, I'm here to tell you now each and ev'ry mother's son
+Well, I'm here to tell you now each and every mother's son
 You better learn it fast; you better learn it young,
 'Cause, "Someday" Never Comes."
 
@@ -69,8 +69,4 @@ Think it was September, the year I went away,
 For there were many things I didn't know.
 And I still see him standing, try'n' to be a man;
 I said, "Someday you'll understand."
-
-
-
-
 

@@ -60,7 +60,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
 ---
-(Ahh, ahh, ahh, ahh, ahh)
+(Ah, ah, ah, ah, ah)
 
 Look homeward, angel
 Tell me what you see.

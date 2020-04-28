@@ -52,9 +52,6 @@ In expensive threads, head to the floor
 I know they talkin' shit 'cause they some hoes
 You know them FN bullets go through doors
 
-
-
-
 F&N (F&N), F&N (F&N)
 F&-F&-F&-F&—
 F&-F&N (F&N)

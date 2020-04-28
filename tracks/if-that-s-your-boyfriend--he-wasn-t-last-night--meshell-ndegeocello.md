@@ -88,11 +88,11 @@ If that's your boyfriend
 He wasn't last night
 
 
-Ooh ooh baby baby
+Ohohbaby baby
 Good to the last chip at the bottom of the bag
-Ooh baby baby
+Ohbaby baby
 Make you wanna do things that you never have
-Ooh baby baby
+Ohbaby baby
 Mad sex and when we're through
 I really have no problem actin like I don't know you
 

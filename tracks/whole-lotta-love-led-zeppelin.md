@@ -93,10 +93,6 @@ Want a whole lotta love
 Want a whole lotta love
 Want a whole lotta love
 
-
-
-
-
 You've been coolin', baby, I've been droolin'
 All the good times, baby, I've been misusin'
 Way, way down inside, I'm goin' to give you my love

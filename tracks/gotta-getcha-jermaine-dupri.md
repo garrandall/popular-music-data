@@ -73,9 +73,6 @@ Someday, Someday,
 I gotta getcha getcha getcha getcha,
 If it's the last thing that I do,
 
-
-
-
 I gotta getcha, I gotta getcha,
 And it don't matter if that's ur bitch wit'cha,
 Cause my man's here too so let's switch up,
@@ -93,9 +90,6 @@ I gotta getcha getcha getcah getcha,
 Someday, Someday,
 I gotta getcha getcha getcha getcha,
 If it's the last thing that I do,
-
-
-
 
 Shit if that's the case baby what's it gon' take for us to get it jumped off right now (Right Now)
 I got check books, credit cards, all that shit just tell me hows it gotta go down,
@@ -118,9 +112,6 @@ I gotta getcha getcha getcha getcha,
 Someday, Someday,
 I gotta getcha getcha getcha getcha,
 If it's the last thing that I do,
-
-
-
 
 I gots to getcha no matter what it takes,
 I gots to getcha and I won't make mistakes,

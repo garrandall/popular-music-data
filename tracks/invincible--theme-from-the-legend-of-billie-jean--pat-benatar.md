@@ -122,10 +122,10 @@ It's a do-or-die situation
 We will be invincible
 
 
-Yeah, oo-ooh ooh
+Yeah, oo-oh oh
 Yeah, yeah
-Oo-ooh ooh, yeah, yeah, yeah (we can't afford to be innocent)
-Yeah, oooh (stand up and face the enemy)
+Oo-oh oh, yeah, yeah, yeah (we can't afford to be innocent)
+Yeah, ohstand up and face the enemy)
 (it's a do-or-die situation)
 (We will be invincible)
 Yeah (We can't afford to be innocent)

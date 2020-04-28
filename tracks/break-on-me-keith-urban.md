@@ -93,7 +93,7 @@ Put your head on my chest
 Let me help you forget
 When your heart needs to break
 Just break on me
-(Ooo oo aah aah, ooo oo aaah aah ooo ooo aaah aaah)
+(Ooo oo ah ah, oo oo ah ah oo oo ah ah)
 
 
 Oh, when you need somebody
@@ -112,4 +112,4 @@ When your heart needs to break
 Just break on me
 Break on me
 Break on me, baby
-Hmmmm
+Hm

@@ -87,7 +87,7 @@ You're so dandy
 I wanna know
 Can you feel it too, just like I do?
 
-Oooh!
+Oh!
 
 This stuff is starting now
 It's the same feeling
@@ -101,7 +101,7 @@ Oh!
 This stuff is starting now
 This stuff is starting now
 This stuff is starting now
-Oooh!
+Oh!
 
 My eyes roll in my head
 I toss and turn in my bed
@@ -123,7 +123,7 @@ You're so dandy (Dandy)
 You're taking my appetite but it's alright
 
 It's like candy
-Oooh, vanilla
+Oh, vanilla
 Oh, chocolate!
 
 You look real nice, wrapped up tight

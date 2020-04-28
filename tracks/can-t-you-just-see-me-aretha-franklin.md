@@ -60,7 +60,7 @@ With my head in the air
 
 Can't you just see me
 (Can't you just see her)
-Ooh ooh, can't you just see me now
+Ohoh can't you just see me now
 (Can't you just see her)
 Can't you just see me, girls
 (Can't you just see her)
@@ -80,7 +80,7 @@ And I might slap your face
 (Can't you just see her)
 All over the place
 (Can't you just see her)
-Ooh, can't you just
+Oh can't you just
 Can't you just, can't you just
 Can't you just see me now
 (Can't you just see her)

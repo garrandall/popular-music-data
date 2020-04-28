@@ -92,7 +92,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-10-20'
 ---
-Ooh baby, give it to me now, girl, yeah
+Oh baby, give it to me now, girl, yeah
 
 
 There's nobody here, baby
@@ -111,12 +111,12 @@ You say no, I say yes
 Girl, I bet, I can make you sweat
 
 
-Ooh yeah, girl
+Oh yeah, girl
 Let me kiss you here and there
 I'll do anything you want me to, yeah baby
 I wanna drive you wild, baby
 Let me please, let me, let me drive you wild, baby
-Ooh yeah, lady
+Oh yeah, lady
 
 
 You say no, I say yes
@@ -144,7 +144,7 @@ You're doing something real to me, baby
 Think about it
 Baby, please think about it
 Say yes
-Ooh yes, I say yes, yes, yes, yes, yes, yes, yes
+Oh yes, I say yes, yes, yes, yes, yes, yes, yes
 Please yes, oh yes, yes, ya, ya, ya, ya
 Sweat, all night long, girl
 Yeah, just you and me, come on

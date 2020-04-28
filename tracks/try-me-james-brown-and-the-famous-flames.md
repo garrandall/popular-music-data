@@ -71,7 +71,7 @@ I want you right here by my side
 Hold me (hold me), Hold me (hold me)
 And your love we won't hide
 Oh I need you (I need you)
-Oh i need you (I need you)
+Oh I need you (I need you)
 Oh oh walk with me (walk with me)
 Talk with me (talk with me)
 I want you to stop my heart from crying

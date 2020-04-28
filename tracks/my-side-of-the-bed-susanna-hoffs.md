@@ -90,17 +90,17 @@ Come lay down
 
 Tra-la-la-la-la
 Sha-la-la-la-la
-Lay down (ooh ooh ooh ooh) lay down
+Lay down (oh oh oh oh) lay down
 Sha-la-la-la-la (I made a heart)
 Sha-la-la-la-la (I colored it red)
 Lay down (I colored it red) lay down
 
 Sha-la-la-la-la (lay down)
 Sha-la-la-la-la (lay down)
-Lay down (ooh ooh ooh ooh) lay down
-Sha-la-la-la-la (oooh)
-Sha-la-la-la-la (oooh)
-Lay down (ooh ooh ooooh) lay down
+Lay down (oh oh oh oh) lay down
+Sha-la-la-la-la (oh
+Sha-la-la-la-la (oh
+Lay down (oh oh ohoh down
 
 Sha-la-la-la-la (I made a heart)
 Sha-la-la-la-la (I colored it red)

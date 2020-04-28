@@ -40,7 +40,7 @@ Hah hah hah hahh -  hah
 
 
 Yeah, Bad Boy baby!
-Loon! 
+Loon!
 It's your turn now kid
 Show em what you got
 
@@ -97,7 +97,7 @@ And we all hungry and all hustle
 And we all humble, but together we got more muscle
 And we got dough, nigga me and P we hot yo
 Make a hip hop show look like a rock show
-Ooh Jesus Christ! look the way that the rocks glow
+Oh Jesus Christ! look the way that the rocks glow
 Want the world to see so we keeping them tops low
 Rascal, keep it on my lap for Broscoe
 One shot your blood drip thicker than Basco

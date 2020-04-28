@@ -27,7 +27,7 @@ By telephone
 
 I'd like to know
 What did daddy do
-Ooh-hoo hoo, ooh-hoo hoo
+Oh-hoo hoo, oh-hoo hoo
 
 Your best friend
 Or not
@@ -49,4 +49,4 @@ You're driving me crazy
 And by the way
 I'd like to know
 What did daddy do
-Ooh-hoo hoo, ooh-hoo hoo
+Oh-hoo hoo, oh-hoo hoo

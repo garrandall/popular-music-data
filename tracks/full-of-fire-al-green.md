@@ -77,7 +77,7 @@ And I'm over twenty-one
 Hey, I'm full of fire (Full of fire, full of fire)
 And my life has just begun
 
-Ooh ooh, I can dance to the music
+Oh oh, I can dance to the music
 Girl, I can understand
 That there must be in life a power
 That is holding my hand
@@ -94,7 +94,7 @@ And I'm over twenty-one
 Hey, I'm full of fire (Full of fire, full of fire)
 And my life has just begun
 
-Ooh ooh, I can dance to the music
+Oh oh, I can dance to the music
 I, I can under, understand
 That there must be in life a power
 That is holding my hand, hey

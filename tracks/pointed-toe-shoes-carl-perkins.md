@@ -70,7 +70,7 @@ Rock
 
 Sharp toes, I want a pointed shoe
 Uh huh, sharp toes, I want a pointed shoe
-Ooh, yeah, yeah, I want a pointed shoe
+Oh yeah, yeah, I want a pointed shoe
 Uh huh, sharp toes, I want a pointed shoe
 
 Well, everything's alreet

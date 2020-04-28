@@ -53,12 +53,12 @@ rankings:
   start_date: '2005-02-19'
 ---
 
-I've never done anything 
+I've never done anything
 That would ever bring a tear to your eye
 I've never crossed the line
 or needed an alibi to cover up a lie
 But darling i'll admit
-They're been times when i could have
+They're been times when I could have
 The thing that kept me strong
 Is the one thing that is always on My mind
 
@@ -75,10 +75,10 @@ When I think about cheatin'
 
 There was a time in Abilene
 When he said all the things I wanted to hear
-It was hard to turn him down 
+It was hard to turn him down
 Between the champaigne and the sound of whispers in my ear
 But it just took one two-step with someone and I was missing you
-He never had the chance cause I broke up the dance 
+He never had the chance cause I broke up the dance
 Before the song was through
 
 

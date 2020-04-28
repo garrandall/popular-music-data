@@ -46,7 +46,7 @@ Ten-forty- four
 
 The house is falling down, no use in hangin' 'round
 Doesn't anybody know my name?
-The girl i left behind, she's gone with a friend of mine
+The girl I left behind, she's gone with a friend of mine
 I don't have to read a sign to know things ain't the same
 Please tell me if you can what time do the trains roll in?
 Two-ten, six-eighteen
@@ -54,7 +54,7 @@ Ten-forty-four
 
 Ya can't go far away on just a soldier's pay
 Doesn't anybody know my name?
-Use'ta be when i could see, everybody wanted me
+Use'ta be when I could see, everybody wanted me
 Now nobody comes to see a blind man catch a train
 Please tell me if you can what time do the trains roll in?
 Two-ten, six-eighteen

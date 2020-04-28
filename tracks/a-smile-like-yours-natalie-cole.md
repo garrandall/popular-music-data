@@ -29,7 +29,7 @@ rankings:
   start_date: '1997-11-08'
 ---
 
-Hmm, thought I'd seen everything there was to see in this world
+Hm, thought I'd seen everything there was to see in this world
 Now I'm not so sure I've really seen anything at all
 I thought life could show me no surprises
 And then you came and showed me I was wrong
@@ -37,7 +37,7 @@ I have seen the bluest skies, rainbows that would make you cry
 I have seen miracles that moved my soul, days that changed my life
 I have seen the brightest stars shine like diamonds in the dark
 Seen all the wonders of the world, but I've never seen a smile
-As beautiful as yours, ooh, ooh, ooh, oh, I thought I'd been everywhere
+As beautiful as yours, oh, oh, oh, oh, I thought I'd been everywhere
 I've climbed a mountain so high, sailed the sea, crossed the sky
 And still I was nowhere at all, until that day, oh, you came to my senses
 And your smile, it made sense out of it all, (I have seen the bluest skies)

@@ -86,7 +86,7 @@ You’re the only one
 The only one
 
 Hold me tighter
-Ooh, tighter and tighter
+Oh, tighter and tighter
 Never let you go of me, baby
 ‘Cause when we’re in harmony
 

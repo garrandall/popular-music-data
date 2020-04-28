@@ -78,7 +78,7 @@ rankings:
 ---
 
 Well I've been waiting, waiting here so long
-But thinking nothing, nothing could go wrong, ooh now I know
+But thinking nothing, nothing could go wrong, ohnow I know
 She has a built in ability
 To take everything she sees
 And now it seems I'm falling, falling for her.

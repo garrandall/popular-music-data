@@ -106,9 +106,6 @@ Picking up the pieces of my life without you on my mind
 I'm still standing (yeah, yeah, yeah)
 I'm still standing (yeah, yeah, yeah)
 
-
-
-
 Don't you know that I'm still standing better than I ever did?
 Looking like a true survivor, feeling like a little kid
 And I'm still standing after all this time

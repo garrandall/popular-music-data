@@ -55,7 +55,7 @@ Give me the green light
 
 I got the green light mami and you know what that means
 That we could do anything, anything that you dream
-I wanna make you ooh, ah, until you scream
+I wanna make you oh, ah, until you scream
 And I practice what I preach, if you know what I mean
 I'mma about that mami, yeah I got the key and I'mma lock that mami
 Yeah, we can roll and I'mma rock that mami

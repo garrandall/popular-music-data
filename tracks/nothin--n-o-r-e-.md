@@ -113,10 +113,10 @@ This one is the hot one! (Millitainment)
 Aiyyo! (Millitainment)
 
 
-Homeboy, I came to party (ohh!)
-Yo' girl was lookin at me (ohh!)
-She's a haggler naw I'm not taggin her (ohh!)
-But you don't want them boys to come over and start askin ya (ohh!)
+Homeboy, I came to party (oh!)
+Yo' girl was lookin at me (oh!)
+She's a haggler naw I'm not taggin her (oh!)
+But you don't want them boys to come over and start askin ya (oh!)
 What you wanna do, nigga? (Nothin')
 What you tryin' to do, nigga? (Nothin')
 What you wanna do, nigga? (Nothin')
@@ -142,10 +142,10 @@ At the white boy club while I'm buyin the bar
 They like, "Hey now, you're an all star," it go
 
 
-Homeboy, I came to party (ohh!)
-Yo' girl was lookin at me (ohh!)
-She's a haggler naw I'm not taggin her (ohh!)
-But you don't want them boys to come over and start askin ya (ohh!)
+Homeboy, I came to party (oh!)
+Yo' girl was lookin at me (oh!)
+She's a haggler naw I'm not taggin her (oh!)
+But you don't want them boys to come over and start askin ya (oh!)
 What you wanna do, nigga? (Nothin')
 What you tryin' to do, nigga? (Nothin')
 What you wanna do, nigga? (Nothin')
@@ -157,11 +157,11 @@ I spit mack millimeter rhymes, kill a liter in line
 My nigga Peter got a heater of mines
 Niggas still lyin, in they wack ass bars
 Only time they seen jail, when they watchin "Oz"
-I'm in the club pissy drunk like, "Ahhhdadidaaaaa!!!!!!"
-And mami took it proper like, "Dadadidaaaaa!!!!!!"
+I'm in the club pissy drunk like, "Ahhhdadidaaaaa!"
+And mami took it proper like, "Dadadidaaaaa!"
 Adios kill your soul, then we body your ghost
 They call me gordo, I sip the champagne that's importo
-Playin "Capicu" (Man you ain't nappy too!!!)
+Playin "Capicu" (Man you ain't nappy too!)
 I like when chocha be nappy too
 I treat life like a fast car, lower my speed
 I try and chill, and sell more records than Creed
@@ -171,24 +171,24 @@ These dudes gave me a brick and they ain't seen me since
 Caught up wit 'em, had them dudes straight hoppin the fence, it go
 
 
-Homeboy, I came to party (ohh!)
-Yo' girl was lookin at me (ohh!)
-She's a haggler naw I'm not taggin her (ohh!)
-But you don't want them boys to come over and start askin ya (ohh!)
+Homeboy, I came to party (oh!)
+Yo' girl was lookin at me (oh!)
+She's a haggler naw I'm not taggin her (oh!)
+But you don't want them boys to come over and start askin ya (oh!)
 What you wanna do, nigga? (Nothin')
 What you tryin' to do, nigga? (Nothin')
 What you wanna do, nigga? (Nothin')
 What you tryin' to do (Nothin')
 
 
-La la la la la la la la la (ohh!)
-La la la la la la la la la (ohh!)
-La la la la la la la la la (ohh!)
-La la la la la la la la la (ohh!)
-La la la la la la la la la (ohh!)
-La la la la la la la la la (ohh!)
-La la la la la la la la la (ohh!)
-La la la la la la la la la (ohh!)
+La la la la la la la la la (oh!)
+La la la la la la la la la (oh!)
+La la la la la la la la la (oh!)
+La la la la la la la la la (oh!)
+La la la la la la la la la (oh!)
+La la la la la la la la la (oh!)
+La la la la la la la la la (oh!)
+La la la la la la la la la (oh!)
 
 
 Yo, yo, yo..
@@ -210,21 +210,21 @@ Ice rockin, brick choppin and gun shoppin
 I did it all beat cases without Cochran
 
 
-Homeboy, I came to party (ohh!)
-Yo' girl was lookin at me (ohh!)
-She's a haggler naw I'm not taggin her (ohh!)
-But you don't want them boys to come over and start askin ya (ohh!)
+Homeboy, I came to party (oh!)
+Yo' girl was lookin at me (oh!)
+She's a haggler naw I'm not taggin her (oh!)
+But you don't want them boys to come over and start askin ya (oh!)
 What you wanna do, nigga? (Nothin')
 What you tryin' to do, nigga? (Nothin')
 What you wanna do, nigga? (Nothin')
 What you tryin' to do (Nothin')
 
 
-La la la la la la la la la (ohh!)
-La la la la la la la la la (ohh!)
-La la la la la la la la la (ohh!)
-La la la la la la la la la (ohh!)
-La la la la la la la la la (ohh!)
-La la la la la la la la la (ohh!)
-La la la la la la la la la (ohh!)
-La la la la la la la la la (ohh!)
+La la la la la la la la la (oh!)
+La la la la la la la la la (oh!)
+La la la la la la la la la (oh!)
+La la la la la la la la la (oh!)
+La la la la la la la la la (oh!)
+La la la la la la la la la (oh!)
+La la la la la la la la la (oh!)
+La la la la la la la la la (oh!)

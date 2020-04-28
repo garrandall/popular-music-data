@@ -19,7 +19,7 @@ Rappers is bull shittin. Fuck it,
 I ain't hatin though
 Cuz Now a nigga hot enough to
 fuck with one of satin's hoes.
-& She cant tell the difference.
+& She can't tell the difference.
 I been through hell conditions.
 Wishin for air conditions
 feelin God was never listenin.
@@ -38,7 +38,7 @@ or if you're sellin rap. Make sure it's mean
 so them fiends keep on trailin back.
 
 
-Who dat who dat bitch I got the flame 
+Who dat who dat bitch I got the flame
 So don't worry bout no muthafuckin name
 
 The Mind state of a winner.
@@ -51,7 +51,7 @@ Now I'm a menace. God as my witness, with this pen I'm insane, yup.
 Hungry like the nigga who ain't got the taste of fame yet.
 Cloud told me "ain't you roc? well? where the fuck yo chain at?"
 Guess it's somethin like your girl, nigga it aint came yet.
-The man make the chain chain dont make the man
+The man make the chain chain don't make the man
 how many niggas do we know with hella ice but yet they lame
 the cloth from which we came me and them is not the same
 Like we all headed to spain, they took the boat I took the plane.Dang
@@ -72,9 +72,9 @@ rappers claiming they sick I heal niggas for good
 a couple of yall aint took a field trip to the hood
 ay me I'm fresh prince I'm will smith to the hood Baby!
 aint sayin names but we not the same
-all that money and the fame dont change the fact that u lame
+all that money and the fame don't change the fact that u lame
 might wanna grab you a chain wanna tip up your hat
-might wanna purchase some game homie your shit is so wack!!!
+might wanna purchase some game homie your shit is so wack!
 i got my finger on the trigger tell that nigga hold datt
 boy I'm picture perfect baby you can check the Kodak
 hey so anything you can do I can do better
@@ -82,9 +82,5 @@ and you chick you can screw I can get wetter
 im young black get to live my life on the run!
 bet ya bottom dollar before I'm done
 they I'm the oneeeeeee
-yeah nigga I'm the onee HA!!
-
-
-
-
+yeah nigga I'm the onee HA!
 

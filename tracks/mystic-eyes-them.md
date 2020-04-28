@@ -55,6 +55,6 @@ Mystic, eyes
 Mystic eyes
 Mystic eyes
 Oh, the mystic eyes
-Ooh
+Oh
 
 (Mystic, mystic, mystic, mystic, mystic)

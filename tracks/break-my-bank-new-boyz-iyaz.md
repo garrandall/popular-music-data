@@ -81,7 +81,7 @@ Aint the karate kid
 
 Save it
 Everyday im spending more on her
-I dont buy shit
+I don't buy shit
 Like I barely hold the door open
 And everytime I say this
 Shit I always get a ...

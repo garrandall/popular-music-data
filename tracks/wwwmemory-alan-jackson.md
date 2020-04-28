@@ -88,8 +88,5 @@ Through your keyboard and wires
 Though you won't have to touch me or even take my hand
 Just slide your little mouse around until you see it land
 
-
-
-
 If you feel the need just click on me
 At www dot memory

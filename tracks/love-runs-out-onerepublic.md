@@ -107,7 +107,7 @@ I'll be doin' this, if you had a doubt,
 
 I got my mind made up, man, I can't let go.
 I'm killing every second 'til it saves my soul.
-(Ooh) I'll be running, (Ooh) I'll be running,
+(Oh I'll be running, (OOhI'll be running,
 'Til the love runs out, 'til the love runs out.
 And we'll start a fire, and we'll shut it down,
 'Til the love runs out, 'til the love runs out.
@@ -121,7 +121,7 @@ And I'm saying them, 'cause I'm so devout.
 
 I got my mind made up, man, I can't let go.
 I'm killing every second 'til it saves my soul.
-(Ooh) I'll be running, (Ooh) I'll be running,
+(Oh I'll be running, (OOhI'll be running,
 'Til the love runs out, 'til the love runs out.
 And we'll start a fire, and we'll shut it down,
 'Til the love runs out, 'til the love runs out.
@@ -138,7 +138,7 @@ I'll be the bright, in black that's makin' you run.
 
 I got my mind made up, man, I can't let go.
 I'm killing every second 'til it saves my soul.
-(Ooh) I'll be running, (Ooh) I'll be running,
+(Oh I'll be running, (OOhI'll be running,
 'Til the love runs out, 'til the love runs out.
 And we'll start a fire, and we'll shut it down,
 'Til the love runs out, 'til the love runs out.

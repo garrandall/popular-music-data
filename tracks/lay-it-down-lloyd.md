@@ -124,6 +124,6 @@ Lay your head down, lay your head down tonight
 Lay your head down, lay your head down so I can work it, work it, work it, work it
 Oh lay, oh lay, oh lay
 Oh lay, oh lay, oh lay
-Oh lay, oh lay, oh lay, ooh ooh
-Oh lay, oh lay, oh lay, ooh ooh
+Oh lay, oh lay, oh lay, oh oh
+Oh lay, oh lay, oh lay, oh oh
 Your head down girl

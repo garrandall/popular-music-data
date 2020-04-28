@@ -106,7 +106,7 @@ This relationship just ain't gonna last
 Girl, you're gonna have to get rid of your past
 'Cause yeah, you're on my di-di-ding-a-ling
 Tryin' to tie my arms and legs with a string
-My money? Mmm hmm, I know you love it
+My money? Mmm hm, I know you love it
 But let me tell you one thing I'm not
 I'm not your puppet
 
@@ -114,7 +114,7 @@ I'm not your puppet
 ("So listen up to what we say because...")
 ("Smoke primos 'cause she thought it tastes good")
 ("Puppet")
-Yo, girl, get off my 
+Yo, girl, get off my
 ("Man, I wouldn't touch that...") ("You...") ("Why?")
 ("And with your wrinkled  I can't be your lover")
 
@@ -144,7 +144,7 @@ This relationship just ain't gonna last
 Girl, you're gonna have to get rid of your past
 'Cause yeah, you're on my di-di-ding-a-ling
 Tryin' to tie my arms and legs with a string
-My money? Mmm hmm, I know you love it
+My money? Mmm hm, I know you love it
 But let me tell you one thing I'm not
 I'm not your puppet...
 
@@ -185,7 +185,7 @@ Girl, you're just a fool, your life is going too fast
 I know this relationship just ain't gonna last
 'Cause yeah, you're on my dick, dick, ding a ling
 Tryin' to tie my arms and legs with a string
-My money? Mmm hmm, I know you love it
+My money? Mmm hm, I know you love it
 But let me tell you one thing I'm not
 I'm not your puppet...
 

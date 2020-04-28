@@ -76,7 +76,7 @@ When he loves a woman like I love you
 And I love ya (love ya)
 Love ya (love ya)
 Love ya (love ya)
-Ooh ee, I love you
+Ohee, I love you
 
 I want to say sweet things to you
 Till you say I said enough
@@ -94,7 +94,7 @@ When he loves a woman like I love you
 And I love ya (love ya)
 Love ya (love ya)
 Love ya (love ya)
-Ooh ee, I love you
+Ohee, I love you
 
 I want to work for you every day
 Till you say come home and rest

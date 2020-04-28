@@ -33,42 +33,42 @@ rankings:
   start_date: '1966-02-19'
 ---
 
-Hey-ey-ey  snowflake 
+Hey-ey-ey  snowflake
 My pretty little snowflake
-Ooh, ooh, the change in the weather 
+Oh, oh, the change in the weather
 Has made it better for me.
 Hey-ey-ey snowflake, my pretty little snowflake
-You've got me warm as a fire 
+You've got me warm as a fire
 With the burning desire for you.
 
-Snow was falling when love came calling 
+Snow was falling when love came calling
 On this lonely heart of mine.
 You were standing there with snow flaked in your hair.
-You kept stalling while my thoughts were calling 
+You kept stalling while my thoughts were calling
 On every way I knew
 For one excuse to get acquainted with you
 
-Then I said 
+Then I said
 Snow flake my pretty little snowflake
-Ooh, ooh, the change in the weather 
+Oh, oh, the change in the weather
 Has made it better for me.
 Hey-ey-ey snowflake, my pretty little snowflake
-You've got me warm as a fire 
+You've got me warm as a fire
 With the burning desire for you.
 
-The ice was breaking and 
+The ice was breaking and
 Love was waking in a winter wonderland.
 When I felt you slip your fingers in my hand.
-Now snow is gleaming and 
+Now snow is gleaming and
 I'm not dreaming I know this is for real.
 The love I have is too much to conceal.
 
-Hey-ey-ey snowflake 
+Hey-ey-ey snowflake
 My pretty little snowflake
-Ooh, ooh, the change in the weather 
+Oh, oh, the change in the weather
 has made it better for me.
 Hey-ey-ey snowflake, my pretty little snowflake
-You've got me warm as a fire 
+You've got me warm as a fire
 With the burning desire for you...
 
 

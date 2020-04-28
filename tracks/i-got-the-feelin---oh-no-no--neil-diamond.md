@@ -46,7 +46,7 @@ Baby, something's wrong
 Oh no, no, no, no
 That old time fire is gone
 It's not so much the things you say, love
-It's what you don't say I'm afraid of.....
+It's what you don't say I'm afraid of...
 
 I got the feelin' I'm hearin' goodbye
 Don't have to say it

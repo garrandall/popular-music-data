@@ -86,11 +86,6 @@ I look around, all I see is you
 But you gotta tell me that you want me too
 Look at me, you're all that I need, it's true
 
-
-
-
-
-
 I can't disguise
 The love I wait for you to share
 I can't deny

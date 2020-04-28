@@ -59,7 +59,3 @@ There's another urban jungle on heat,
 And another rebel out on the street,
 You've gotta watch yourself whoever you meet.
 
-
-
-
-

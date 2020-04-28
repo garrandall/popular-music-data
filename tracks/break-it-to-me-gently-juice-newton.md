@@ -104,7 +104,7 @@ And break it to me gently, give me time
 Oh, give me a little time to ease the pain
 Love me just a little longer
 'Cause I'll never, never love again
-'Cause I'll never, no, never love again, ooh
+'Cause I'll never, no, never love again, oh
 
 
 

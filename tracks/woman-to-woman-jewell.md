@@ -44,7 +44,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-03-25'
 ---
-Hmmm hmmm mmm!
+Hm hm mmm!
 Ah, ah, ah, hey, oh yeah!
 Woman to woman, yeah!
 
@@ -72,7 +72,7 @@ Have you ever been in love
 Then you would know how I feel
 Woman to woman
 Now if you were in my shoes
-Wouldn't you have done the same thing too, ohh, oh!
+Wouldn't you have done the same thing too, oh, oh!
 Woman to woman
 Can't you see where I'm coming from
 Woman to woman
@@ -111,12 +111,12 @@ Woman, woman
 
 
 
-You know-oh-oh-oh-ohh that man is mine
+You know-oh-oh-oh-oh that man is mine
 I ain't gon' give him up, oh, ah yeah
 I ain't gon' give him up
 And I ain't gon' let you break up my happy home...
 Woman to woman
-Woman to woman, oohh
+Woman to woman, oh
 Oh I'll do anything to keep my thing
 Woman to woman
-I love my man, yeah, oh yeah! Ooohhh, yeah!
+I love my man, yeah, oh yeah! Oh, yeah!

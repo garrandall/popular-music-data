@@ -152,7 +152,7 @@ My, my, my, I'm once bitten, twice shy, baby
 My, my, my, I'm once bitten, twice shy, baby
 
 I didn't know you had a rock and roll record
-Until i saw your picture on another guy's jacket
+Until I saw your picture on another guy's jacket
 You told me I was the only one
 But look at you now, it's dark and you're gone
 

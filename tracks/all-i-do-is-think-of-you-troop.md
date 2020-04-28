@@ -66,12 +66,12 @@ And bells start to ring
 And angels start to sing
 "Hey that's the girl for you
 So what are ya gonna do?"
-Hey little girl!!!
-I LOVE YOU !!! (i love you so...)
+Hey little girl!
+I LOVE YOU! (i love you so...)
 
 
-All i do is think of you
-Day and night (day and night that's all i do)
+All I do is think of you
+Day and night (day and night that's all I do)
 I can't get you off my mind
 Thinking back (all the time)
 All the time
@@ -87,35 +87,35 @@ So won't you please...PLEASE be mine?
 (oh please be mine mine mine)
 
 
-All i do is think of you (baby)
-Day and night (day and night that's all i do)
+All I do is think of you (baby)
+Day and night (day and night that's all I do)
 I can't get you off my mind
 Thinking about (thinking about you all the time)
 All the time
-Oooooooh (bub bub ba bub bu daaaa...ooooooooooh)
+Oh (bub bub ba bub bu daaaa...oh
 
 Girl, I wanna say thing but I don't wanna tell ya
 (i just think about it and I'm in love with you)
-(bup bup bu da daaaaaa....oooooh)
-I think the world of you (ooooooh)
-Ooooooooooooh
+(bup bup bu da daaaaaa...oh
+I think the world of you (oh
+Oh
 
 
 All I do is think of you
 Day and night (day and night)(night and day) night and day yeah yeah
-I can get you off my mind (oooooh)
+I can get you off my mind (oh
 Thinking about
-Oooooooooh.....oooooooooooh baby
+Oh...oh
 I keep thinking about you
 All night long
-Oooooooooh
+Oh
 Baby
 Day and night that's all I do
-Woooooaaaah (heeeeeeeey)
+Woah (heeeeeeeey)
 I can't get you (heeeeey)
 I can't get you off my mind (heeeeey)
 Hoooooooooo (heeeeeey)(heeeeeeeeey)
-Ooooooh!
+Oh!
 
 
 All I do is think of you

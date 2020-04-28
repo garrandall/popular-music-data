@@ -105,7 +105,7 @@ When the going gets tough
 The tough get going, tough, tough, huh, huh, huh
 When the going gets tough, the tough get ready
 
-Yeah, ooooh, du da do da
+Yeah, oh, du da do da
 
 I got something to tell you
 I got something to say
@@ -124,17 +124,17 @@ Woooh
 Darlin', I'll climb any mountain
 Darlin', I'll do anything
 
-Ooh, can I touch you (can I touch you)
+Oh can I touch you (can I touch you)
 And do the things that lovers do
-Ooh, wanna hold you (wanna hold you)
-I gotta get it through to you, oooh
+Oh wanna hold you (wanna hold you)
+I gotta get it through to you, oh
 
 When the going gets tough
 The tough get going
 When the going gets rough
 The tough get rough
 Hey, hey, hey, hey, hey
-Ooooh baby
+Oh baby
 
 I'm gonna buy me a one-way ticket
 Nothin's gonna hold me back
@@ -143,10 +143,10 @@ And I feel it coming down the track (woh)
 
 Darlin', I'll climb any mountain
 Darlin', I'll do anything
-Ooh (ooh) can I touch you (can I touch you)
+Oh(oh) can I touch you (can I touch you)
 And do the things that lovers do
-Ooh, (ooh) wanna hold you (wanna hold you)
-I gotta get it through to you (ooh)
+Oh (oh) wanna hold you (wanna hold you)
+I gotta get it through to you (oh)
 'Cause when the going gets tough
 The tough get going
 When the going gets rough
@@ -159,11 +159,11 @@ Darlin', I'll climb any mountain
 Darlin', I'll swim any sea
 Darlin', I'll reach for the heaven
 Darlin', with you lovin' me
-Oooh (oooh)
+Oh (oh)
 
-Oooh, can I touch you (can I touch you)
+Oh, can I touch you (can I touch you)
 And do the things that lovers do (can I touch you)
-Oooh, wanna hold you (wanna hold you)
+Oh, wanna hold you (wanna hold you)
 I gotta get it through to you
 
 When the going gets tough

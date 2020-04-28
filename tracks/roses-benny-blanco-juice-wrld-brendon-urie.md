@@ -105,7 +105,7 @@ I don't got no time for anyone, not these fools
 No, no, oh, oh
 At the end of the day, what are you gon' do?
 At the end of the day I don't wanna be with you
-Ooh, at the end of the day I'ma still keep it true, true, true
+Oh, at the end of the day I'ma still keep it true, true, true
 
 
 

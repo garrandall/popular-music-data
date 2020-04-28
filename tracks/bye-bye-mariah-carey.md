@@ -137,7 +137,7 @@ Still I'd give the world to see your face
 And I'm right here next to you
 But it's like you're gone too soon
 Now the hardest thing to do is say bye bye
-(Bye, bye, bye, bye, bye, bye....)
+(Bye, bye, bye, bye, bye, bye...)
 
 
 It's hard to say bye bye bye bye bye

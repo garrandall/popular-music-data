@@ -55,11 +55,11 @@ So I guess I'll remain the same, yeah
 Sittin' here resting my bones
 And this loneliness won't leave me alone
 I'm too tired for having fun
-So I'll be sittin' when the evenin' comes 
+So I'll be sittin' when the evenin' comes
 
 Sittin' on the dock of the bay
 Watching the tide roll away
-Ooh, sittin' on the dock of the bay wastin' time
+Oh, sittin' on the dock of the bay wastin' time
 
 Oh, where were you, baby?
 Nothing's gonna change

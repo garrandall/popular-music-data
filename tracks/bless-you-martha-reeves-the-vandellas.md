@@ -33,7 +33,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-11-20'
 ---
-Ooh, this morning when I woke up
+Oh this morning when I woke up
 Sunshine touched my heart
 Children of the earth
 They walk so far apart

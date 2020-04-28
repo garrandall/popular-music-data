@@ -50,7 +50,7 @@ Somewhere they’ll hide
 While they’re making love somewhere
 There be music filling the air
 
-Ahhhhhhhhh!
+Ah!
 
 Tom brings his band
 Bouzouki in his hand

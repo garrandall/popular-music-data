@@ -55,16 +55,16 @@ Rock Star
 What that man holding in his hand?
 He looks a lot like a guy I knew way back when
 It's silly willy with the Philly band
-Could be....... Oo - ee....
+Could be... Oo - ee...
 What's that man movin' cross the stage?
 It looks a lot like the one used by Jimmy Page
 It's like a relic from a different age
-Could be....... Oo - ee....
+Could be... Oo - ee...
 
 If there's a rock show at the Concertgebouw
 They've got long hair at the Madison Square
 You've got Rock and Roll at the Hollywood Bowl
-We'll be there.... Oh yeah....
+We'll be there... Oh yeah...
 
 The lights go down - they're back in town O. K
 Behind the stacks you glimpse an axe
@@ -74,7 +74,7 @@ Temperatures rise as you see the whites of their eyes
 If there's a rock show at the Concertgebouw
 They've got long hair at the Madison Square
 You've got Rock and Roll at the Hollywood Bowl
-We'll be there.... Oh yeah....
+We'll be there... Oh yeah...
 
 In my green metal suit I'm preparing to shoot up the City
 And the ring at the end of my nose makes me look rather pretty
@@ -84,7 +84,7 @@ Save for my dear old friend and confidante - Madamoiselle Kitty
 What's the man movin' to and fro?
 That decibel meter doesn't seem to be reading low
 But they was louder at the Rainbow
-Could be..... Oo - ee
+Could be... Oo - ee
 
 Jet
 Jet! I can almost remember their funny faces

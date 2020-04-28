@@ -32,7 +32,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
 ---
-Oh yeah aaallriiiight now
+Oh yeah aallriiiight now
 
 I've been up half the night
 Tryin' to find out
@@ -68,7 +68,6 @@ That I'd rather be
 I'm here checkin' on
 All the things that you see
 
-Chorus
 
 My little lady
 She makes herself crazy
@@ -81,7 +80,6 @@ I'd rather be
 I've been checkin' out
 All the things that you see
 
-Chorus
 
 I'm puttin' on my walkin' shoes
 I tell ya baby, I'm not your fool

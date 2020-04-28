@@ -113,8 +113,8 @@ Cos I'm frontin in my ride and my word is bond
 
 Sun roof open, so I can feel the wind blow
 I don't give a damn if it cracks my back window
-C to the o to the o to the l to the i to the n
-To the f to the r to the o to the n to the t to the i to the n
+C to the o to the o to the l to the I to the n
+To the f to the r to the o to the n to the t to the I to the n
 That means I'm chillin
 Like Spoonie Gee said, my seats are soft like a bed
 They recline way back, so I can get real cosy

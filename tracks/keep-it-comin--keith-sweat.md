@@ -89,7 +89,7 @@ rankings:
   start_date: '1992-04-11'
 ---
 
-Kick it one time!!!
+Kick it one time!
 
 
 Keep it comin', girl I want you to
@@ -108,7 +108,7 @@ All you gotta do is bring your body right here, babe
 
 
 
-Ooh ooh baby
+Oh oh baby
 
 Kissing you is such a thrill
 Take you for a natural high
@@ -129,8 +129,4 @@ Feel my body, give me the love that I need
 
 All you do is let your pretty hair down girl
 Baby, you're right next to me
-
-
-
-
 

@@ -44,7 +44,7 @@ Sing about everyone that you left behind
 Sing it for the world, sing it for the world
 
 
-Aaaah
+Ah
 
 
 Sing it out!

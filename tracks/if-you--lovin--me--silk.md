@@ -89,7 +89,7 @@ rankings:
   start_date: '1999-07-24'
 ---
 Been checkin you for so long
-And i feel (feel)
+And I feel (feel)
 Girl you should let me know what the deal (what the deal)
 Been peepin out yo vibe(vibe)
 Think you wanna let me slide(slide)
@@ -98,7 +98,7 @@ Is keep it real
 I know you want me girl
 Just like
 I want you(i want you)
-So stop frontin like you dont
+So stop frontin like you don't
 When you do(do)
 So if you feel naughty(naughty)
 If you really bout it (bout it)
@@ -113,7 +113,7 @@ Repeat
 
 So on them lonley nights girl there for U
 Let me come satisfy you for an hour or two(two)
-Baby dont be shy
+Baby don't be shy
 Cuz im not judgin you
 I hungry for your love so let me through
 Girl lets stop talkin bout them thangs we can do(do)
@@ -123,7 +123,6 @@ And if you really bout it bout it
 And if you get me rowdy get rowdy rowdy
 My love will make you shout it shout it
 
-Chorus
 
 Its a silky silky silky thang
 Silky silky silky silky thang nah nah nah nah
@@ -132,14 +131,14 @@ See I got something for you
 Meet me in my bedroom
 So we can laugh the night away
 Im tryin to be forreal
-Wanna show you how i feel
+Wanna show you how I feel
 Inside
-Cuz i know that you feelin like..lovin me!
+Cuz I know that you feelin like...lovin me!
 
 Chorus 3x
 
 The lovers have returned to make me wanna make love to you
-So bring yo sexallent body ova here and let me do the things i do
+So bring yo sexallent body ova here and let me do the things I do
 In my bedroom im gone love you down just like a playa would
 And turn you out my superstar make you feel real good
 I find out if you feelin like lovin me, sexin me, holdin me, kissin me squezzin me

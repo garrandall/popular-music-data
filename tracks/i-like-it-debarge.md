@@ -83,10 +83,10 @@ My every thought is you, the things you do
 Seems so satisfying to me,
 I must confess it, girl
 
-Ooh... and I like it
+Oh... and I like it
 You send chills up my spine every time
 I take a look at you
-Ooh... and I like it
+Oh... and I like it
 Girl, you're blowin'
 My mind with the things you say to me
 
@@ -100,11 +100,11 @@ You know exactly what to do
 You put that fire inside of me
 And make it more than just a dream
 
-Ooh... and I like it
+Oh... and I like it
 You send chills up my spine every time
 I take a look at you
-Ooh... and I like it
-Ooh... and I like it
+Oh... and I like it
+Oh... and I like it
 
 Girl,
 Let me run this by you just one more time
@@ -113,10 +113,10 @@ My every thought is on you, the things you do
 Seems so satisfying to me,
 I must confess it, girl
 
-Ooh... and I like it
+Oh... and I like it
 You send chills up my spine every time
 I take a look at you
-Ooh... and I like it
+Oh... and I like it
 Girl, you're blowin'
 My mind with the things you say to me
 
@@ -143,11 +143,11 @@ So come let me enjoy it (I like it)
 I like it (I like), I like it (That's right)
 I really (I like), really like it (Uh, uh)
 I'm for it (I'm for it), adore (I like)
-So come let me enjoy it (Ooh... ooh... ooh...)
+So come let me enjoy it (Oh... oh.. ooh)
 
-Ooh... and I like
-Ooh, I like it, ooh...
-Ooh... and I like
+Oh... and I like
+Oh, I like it, oh..
+Oh... and I like
 I'm just tryin' to satisfy you, girl,
 You know I really like it
 
@@ -164,6 +164,6 @@ And I like it, and I like it
 Like it, like it, like it, like it, like it,
 Like it, like it, babe
 
-Ooh... and I like
-Woo... ooh...
-Ooh... and I like
+Oh... and I like
+Woo... oh..
+Oh... and I like

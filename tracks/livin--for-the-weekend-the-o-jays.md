@@ -144,10 +144,6 @@ Because I done took all that I can bear
 (Living for the weekend)
 That's when I party down
 
-
-
-
-
 Monday
 Tuesday
 Wednesday

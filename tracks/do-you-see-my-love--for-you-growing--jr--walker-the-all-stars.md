@@ -49,7 +49,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-09-12'
 ---
-Oh, ooh, woo
+Oh, oh, woo
 
 
 Bop, bop bi-a, bop, bop bi-a
@@ -106,6 +106,6 @@ Do you see my love for you growing?
 Oh, tell me now
 
 Do you see my love for you growing?
-Ooh, ooh, ooh, now
+Oh, oh, oh, now
 Do you see my love for you growing?
-Ooh, ooh, ooh, now
+Oh, oh, oh, now

@@ -120,7 +120,7 @@ you will be my first love
 and I choose you again.
 
 
-see as long as i live
+see as long as I live
 
 long as I live
 
@@ -129,10 +129,10 @@ i like it baby, sing to me
 oh you'll always be my first love
 
 you'll be mine and I'll choose you again
-oooooooooooooooooooo oooo
+oo oo
 
 
-ooooooooo ooo
+oo oo
 a tarnished ring
 on a tarnished chain oh
 

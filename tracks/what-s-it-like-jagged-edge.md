@@ -16,7 +16,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-05-08'
 ---
-Ooh ahh, Ooh ahh, ooh ahh ahh ahh
+Ohahh, OOhhh, ohahh ah ah
 
 Everyday I age, I just want my life to change
 I done been around, put away my childish things

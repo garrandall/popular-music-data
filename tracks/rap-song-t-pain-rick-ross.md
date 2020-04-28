@@ -13,7 +13,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-11-06'
 ---
-Nappy Boy ooh-wee, ooh-wee
+Nappy Boy oh-wee, oh-wee
 Everybody say yeah, oh oh oh
 Hey, ay-ay-ay-ay
 

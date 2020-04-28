@@ -132,14 +132,14 @@ By the way, I tried to say
 I'd be there waiting for
 
 
-Ooh, ah, guess you never meant it
-Ooh, ah, guess you never meant it
-Ooh, ah, guess you never meant it
-Ooh, ah, guess you never meant it
-Ooh, ah, guess you never meant it
-Ooh, ah, guess you never meant it
-Ooh, ah, guess you never meant it
-Ooh, ah
+Oh, ah, guess you never meant it
+Oh, ah, guess you never meant it
+Oh, ah, guess you never meant it
+Oh, ah, guess you never meant it
+Oh, ah, guess you never meant it
+Oh, ah, guess you never meant it
+Oh, ah, guess you never meant it
+Oh, ah
 
 
 Standing in line to see the show tonight

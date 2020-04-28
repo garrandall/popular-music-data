@@ -102,7 +102,7 @@ Baby's got blue eyes
 Like a clear, blue sky
 Watchin' over me
 Blue eyes
-Ooh, I love blue eyes
+Oh, I love blue eyes
 When I'm by her side
 Where I long to be
 I will see

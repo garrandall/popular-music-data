@@ -61,7 +61,7 @@ He don't love nobody
 (He's won't dance)
 He just wants your body, baby
 (He's just a gigolo)
-I don't think she really knows, ooh, yeah
+I don't think she really knows, oh, yeah
 
 (He's just a freak)
 He don't love nobody
@@ -109,7 +109,7 @@ He don't love nobody
 (He's won't dance)
 He just wants your body, baby
 (He's just a gigolo)
-I don't think you really know, ooh, yeah
+I don't think you really know, oh, yeah
 
 (He's just a freak)
 He don't love nobody

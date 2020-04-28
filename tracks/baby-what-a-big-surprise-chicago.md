@@ -89,9 +89,6 @@ Yesterday it seemed to me
 My life was nothing more than wasted time
 But here today you've softly changed my mind
 
-
-
-
 Just to be alone
 Was a little more than I could take
 Then you came to stay

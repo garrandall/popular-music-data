@@ -94,8 +94,8 @@ A polka dot vest and man, oh, man
 Tan shoes with pink shoelaces
 And a big Panama with a purple hat band
 
-Ooh-ooh, ooh, ooh
-Ooh-ooh, ooh, ooh
+Ohoh oohohoh
+Ohoh oohohoh
 
 He takes me deep-sea fishing in a submarine
 We got to drive-in movies in a limousine
@@ -117,8 +117,8 @@ A polka dot vest and man, oh, man
 He wanted tan shoes with pink shoelaces
 And a big Panama with a purple hat band
 
-Ooh-ooh, ooh, ooh
-Ooh-ooh, ooh, ooh
+Ohoh oohohoh
+Ohoh oohohoh
 
 Now one day Dooley started feelin' sick
 And he decided that he better make his will out quick
@@ -130,8 +130,8 @@ A polka dot vest and man, oh, man
 Give me tan shoes with pink shoelaces
 And a big Panama with a purple hat band
 
-Ooh-ooh, ooh, ooh
-Ooh-ooh, ooh, ooh
-Ooh-ooh, ooh, ooh
+Ohoh oohohoh
+Ohoh oohohoh
+Ohoh oohohoh
 
-And a big Panama with a purple hat band!!
+And a big Panama with a purple hat band!

@@ -99,16 +99,10 @@ Future uncertain, but certainly slight
 Look at the faces, listen to the bells
 It's hard to believe we need a place called hell, place called hell
 
-
-
-
 Here comes the woman, with the look in her eye
 Raised on leather, with flesh on her mind
 Words as weapons sharper than knives
 Makes you wonder, how the other half die
-
-
-
 
 The devil inside, yeah, yeah, yeah
 The devil inside, yeah, yeah, yeah

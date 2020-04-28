@@ -12,12 +12,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-09-17'
 ---
-God bless america...
-- Carter, are you prepared to take the constitutional oath?
-- I am...
-- Will you place your left hand on the Bible and raise your right hand and repeat after me, I...
-
-
 President Carter, Pre-President Carter
 President Carter, Pre-President Carter
 President Carter, Pre-President Carter
@@ -95,5 +89,5 @@ Drowning in the political soup
 They shoot missiles and nukes
 Taking out such a pivotal group
 The body count is the physical proof
-And they thought drugs were killing the youth, 
+And they thought drugs were killing the youth,
 Thank you, thank you all, I am President Carter

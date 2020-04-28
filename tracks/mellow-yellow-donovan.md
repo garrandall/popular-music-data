@@ -96,9 +96,6 @@ They call me mellow yellow
 
 (So mellow, he's so yellow)
 
-
-
-
 Electrical banana
 Is gonna be a sudden craze
 Electrical banana

@@ -129,12 +129,6 @@ Because the way you move
 Was so self-assured
 You knew I would surrender
 
-
-
-
-
-
-
 You found out
 I've got a crush on you
 You found out

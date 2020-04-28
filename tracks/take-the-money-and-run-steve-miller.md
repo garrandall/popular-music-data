@@ -78,7 +78,7 @@ Two young lovers with nothin' better to do
 Than sit around the house, get high, and watch the tube
 And here is what happened when they decided to cut loose
 
-They headed down to, ooh, old El Paso
+They headed down to, oh old El Paso
 That's where they ran into a great big hassle
 Billy Joe shot a man while robbing his castle
 Bobbie Sue took the money and run

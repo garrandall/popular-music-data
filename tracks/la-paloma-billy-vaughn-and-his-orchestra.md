@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: la-paloma-billy-vaughn-and-his-orchestra
+lyrics_url: https://genius.com/Billy-vaughn-la-paloma-lyrics
 name: La Paloma
 rankings:
 - end_date: '1958-08-17'
@@ -47,4 +48,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-10-13'
 ---
-
+Instrumental

@@ -89,9 +89,6 @@ Slow and sweetly like never before
 Calm and sleeping we won't stir up the past
 So discreetly we won't look back
 
-
-
-
 The things that I've loved, things that I've lost
 Things I've held sacred that I've dropped
 I won't lie no more you can bet

@@ -43,7 +43,7 @@ Sure would like to some dimes for me
 So I can get this cup of coffee
 Cop me a snack or something
 I guess I better quit trying to be hip and get on down
-Hey man, like, you know....
+Hey man, like, you know...
 
 
 I was born in New York City on a Monday

@@ -82,9 +82,6 @@ I like to move it, move it
 I like to move it, move it
 Ya like to move it!
 
-
-
-
 Woman, ya cute – and you don't need no make-up
 Original cute body, you a mek man mud up
 Woman, ya cute – and you don't need no make-up

@@ -68,7 +68,7 @@ When I say I'm leaving
 Girl, I'm just make-believing
 
 
-Mmm hmm, I ain't going nowhere
+Mmm hm, I ain't going nowhere
 No, baby, I ain't going nowhere
 Oh, darling, talk to me
 My, my, my, my, my
@@ -88,7 +88,7 @@ If I say goodbye
 It doesn't mean I'm going
 And if I say there ain't no love
 You may still see it showing
-Ooh, ooh, baby
+Oh oh baby
 Why can't we be lovers
 Oh, darling, from loving you
 I'll never recover
@@ -100,7 +100,7 @@ And if I say there ain't no love
 You may still see it showing
 
 
-Ooh, ooh, baby
+Oh oh baby
 Why can't we be lovers
 Oh, darling, from loving you
 I'll never recover
@@ -132,7 +132,7 @@ Girl, I'm just make-believing
 (Nowhere)
 I'm in love
 (I'm so crazy about you)
-Ooh, so in love
+Oh so in love
 (This is it for me, mama)
 And I'll never be leaving
 (I'll never be leaving)

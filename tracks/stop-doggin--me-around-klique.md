@@ -44,7 +44,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-12-03'
 ---
-Ahhh, ahhh, ahhh, ahhh
+Ah, ah, ah, ah
 
 You better stop, girl, doggin' me around (You better stop it)
 Stop it, baby

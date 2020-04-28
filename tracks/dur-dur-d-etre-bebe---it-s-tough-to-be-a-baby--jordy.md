@@ -75,9 +75,9 @@ Pourquoi ci pourquoi ça
 Pourquoi c'est comme ça
 Oh là là bébé, c'est dur dur d'être bébé
 Dur dur d'être bébé
-Reste assis, pas d'accord !
-Touche pas ça, pas d'accord !
-Va pas là, pas d'accord !
+Reste assis, pas d'accord!
+Touche pas ça, pas d'accord!
+Va pas là, pas d'accord!
 T'auras pas de dessert
 Et Mamie, et Papi, et Maman
 Dur dur d'être bébé

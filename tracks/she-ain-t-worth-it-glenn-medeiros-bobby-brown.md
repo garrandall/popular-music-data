@@ -109,7 +109,7 @@ She ain't worth it
 The girl ain't worth it
 All this grief
 That she's been putting you through
-Ooh
+Oh
 
 She ain't worth it
 The girl ain't worth it

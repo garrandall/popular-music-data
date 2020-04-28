@@ -51,12 +51,12 @@ Let's get together
 And get it on
 
 Come home with me, baby
-Ooh, you must be lucky
+Oh, you must be lucky
 Let's rock
 You got the body I want
 
 Come home with me, baby
-Ooh, you must be lucky
+Oh, you must be lucky
 I was looking for somebody that's what
 You got the body I want
 
@@ -75,22 +75,22 @@ I see the look inside your eyes
 Like what you see, come try me
 
 Come home with me, baby
-Ooh, you must be lucky
+Oh, you must be lucky
 Let's rock
 You got the body I want
 
 Come home with me, baby
-Ooh, you must be lucky
+Oh, you must be lucky
 I was looking for somebody that's what
 You got the body I want
 
 Come home with me, baby
-Ooh, you must be lucky
+Oh, you must be lucky
 Let's rock
 You got the body I want
 
 Come home with me, baby
-Ooh, you must be lucky
+Oh, you must be lucky
 I was looking for somebody
 You got the body
 You got the body I want
@@ -100,22 +100,22 @@ My love will take you to the top
 Among the stars, let's rock
 
 Come home with me, baby
-Ooh, you must be lucky
+Oh, you must be lucky
 Let's rock
 You got the body I want
 
 Come home with me, baby
-Ooh, you must be lucky
+Oh, you must be lucky
 I was looking for somebody that's what
 You got the body I want
 
 Come home with me, baby
-Ooh, you must be lucky
+Oh, you must be lucky
 Let's rock
 You got the body I want
 
 Come home with me, baby
-Ooh, you must be lucky
+Oh, you must be lucky
 I was looking for somebody that's what
 You got the body I want
 

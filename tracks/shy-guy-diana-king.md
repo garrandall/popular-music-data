@@ -127,8 +127,8 @@ rankings:
 
 I don't want no fly guy
 I just want a shy guy
-Thats what i want yey
-You know what i want yey
+Thats what I want yey
+You know what I want yey
 
 Oh lord have mercy mercy mercy
 Di man dem in a di party party party
@@ -179,9 +179,9 @@ Have mercy mercy mercy
 mercy mercy come on
 
 Shy man we wanna here you put ur hands in the air
-and then make me i you if you wanna
+and then make me I you if you wanna
 none of them me no wanna see
-you this one dedicated to all the shy man crew.. 
+you this one dedicated to all the shy man crew..
 
 But I don't want somebody
 Who's loving everybody

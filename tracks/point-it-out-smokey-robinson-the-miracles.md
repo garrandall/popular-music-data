@@ -69,7 +69,7 @@ A life of happiness is guaranteed
 All that we need is love to succeed
 
 So let me in
-Point it out ooo yeah point it out to you-hoo
+Point it out oo yeah point it out to you-hoo
 Show your love yeah, girl like you never knew
 Point it out oh baby now point it out to me
 Gonna show your lovin

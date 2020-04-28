@@ -208,19 +208,19 @@ On a summer evening
 I'll run to meet you
 Barefoot, barely breathing
 
-As I lay me down to sleep (ooh la kah koh)
+As I lay me down to sleep (oh la kah koh)
 This I pray
 That you will hold me dear
 Though I'm far away
-I'll whisper your name into the sky (ooh la kah koh)
+I'll whisper your name into the sky (oh la kah koh)
 And I will wake up happy
 
 Oh, darling
-As I lay me down to sleep (ooh la kah koh)
+As I lay me down to sleep (oh la kah koh)
 This I pray
 That you will hold me dear
 Though I'm far away
-I'll whisper your name into the sky (ooh la kah koh)
+I'll whisper your name into the sky (oh la kah koh)
 And I will wake up happy
 
 It's not too near for me
@@ -230,34 +230,34 @@ Every season has it's change
 And I will see you
 When the sun comes out again
 
-As I lay me down to sleep (ooh la kah koh)
+As I lay me down to sleep (oh la kah koh)
 This I pray
 That you will hold me dear
 Though I'm far away
-I'll whisper your name into the sky (ooh la kah koh)
+I'll whisper your name into the sky (oh la kah koh)
 And I will wake up happy
 
-As I lay me down to sleep (ooh la kah koh)
+As I lay me down to sleep (oh la kah koh)
 This I pray
 That you will hold me dear
 Though I'm far away
-I'll whisper your name into the sky (ooh la kah koh)
+I'll whisper your name into the sky (oh la kah koh)
 And I will wake up happy
 
-I wonder why (ooh la kah koh)
+I wonder why (oh la kah koh)
 
-when the sun comes out again (ooh la kah koh)
+when the sun comes out again (oh la kah koh)
 when the sun comes out again
 when the sun comes out again
 when the sun comes out again oh
 when the sun comes out again
-when the sun comes out again mmh (ooh la kah koh)
+when the sun comes out again mmh (oh la kah koh)
 
-I will wake up happy (ooh la kah koh)
+I will wake up happy (oh la kah koh)
 
 This I pray
 ...
-(ooh la kah koh)
+(oh la kah koh)
 
 
 

@@ -181,7 +181,7 @@ No
 
 Oh! Oh! Oh . . .Oh . . .
 
-What Will I Do? Uh . . .Ooh . . .
+What Will I Do? Uh . . .Oh. . .
 (Then Tell Me, Just What
 Will I Do)
 

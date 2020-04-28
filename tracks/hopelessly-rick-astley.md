@@ -91,7 +91,7 @@ rankings:
 
 I walk the wire every night
 I can't decide between wrong and right
-I've lost control over the things i do
+I've lost control over the things I do
 'Cause I'm hopelessly falling in love with you
 
 Now the one who never took a chance

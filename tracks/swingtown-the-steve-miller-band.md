@@ -69,8 +69,8 @@ rankings:
   start_date: '1978-01-21'
 ---
 
-Ooo oooohhhh
-Ooo oooohhhh
+Ooo oh
+Ooo oh
 Come on and dance, come on and dance
 Let's make some romance
 You know the night is fallin'
@@ -85,8 +85,8 @@ Come on, come on, come on
 Come on, come on, come on
 Come on, come on, come on
 
-Ooo oooohhhh
-Ooo oooohhhh
+Ooo oh
+Ooo oh
 Come on and dance, come on and dance
 We may not get another chance
 You know the night is fallin'

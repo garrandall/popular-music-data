@@ -125,7 +125,7 @@ Come on over, come on over baby
 I'm not just talking about your sexuality (your sexuality)
 But I can't help myself, when you put your hands on me
 (When you put your hands on me)
-Oooh, oh
+Oh, oh
 It's paradise (it's paradise), when you and I
 Get close, get tight
 One on one I wanna, go all, all night
@@ -168,7 +168,7 @@ You give me...
 What a girl feels, what a girl likes
 What a girl needs, what a girl wants
 All I, all I want is you
-Ooh baby
+Ohbaby
 
 
 All I want is you (oh, you make me go crazy, oh, oh, woo)
@@ -179,7 +179,7 @@ I'm gonna love you right
 All I want is you
 
 
-Ohh, ohh, yeah
+Ohh, oh, yeah
 All I want is you, you make me go crazy, you
 All I want is you
 Now baby don't be shy, you better cross the line

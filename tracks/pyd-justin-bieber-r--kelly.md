@@ -80,7 +80,7 @@ And it don't make no sense to be that bad
 Oh no, baby (PYD PYD PYD),
 I'm gonna put you down
 Gonna show you how much I love you
-Form of appreciation, yeah no ooh
+Form of appreciation, yeah no oh
 (PYD PYD PYD, PYD PYD PYD)
 Oh, 'cause you deserve the best
 And nothing but the best

@@ -1,7 +1,8 @@
 ---
 artists:
-- Lulu with The Dixie Flyers
-features: []
+- Lulu
+features:
+- The Dixie Flyers
 genres: []
 key: hum-a-song-lulu-with-the-dixie-flyers
 name: Hum A Song

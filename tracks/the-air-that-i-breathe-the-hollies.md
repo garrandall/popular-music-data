@@ -114,9 +114,6 @@ All I need is the air that I breathe
 Yes, to love you
 All I need is the air that I breathe
 
-
-
-
 Peace came upon me
 And it leaves me weak
 So sleep, silent angel

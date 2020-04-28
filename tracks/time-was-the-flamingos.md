@@ -40,7 +40,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-21'
 ---
-Oooh...
+Oh...
 Time was, time was
 
 Time was when we had fun

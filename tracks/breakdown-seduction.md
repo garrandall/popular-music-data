@@ -59,10 +59,10 @@ If this is true then I say this to you
 Tell me what to do, do...
 
 Our love is breaking down
-Oooh, yeah
+Oh, yeah
 Our love affair is crumbling down
 Our love is breaking down
-Oooh, yeah
+Oh, yeah
 Our true love is finally coming to its end
 
 I get to the point sometimes when I think back
@@ -101,17 +101,17 @@ The romance's shy
 I'm trying and sighing and dying
 
 Our love is breaking down
-Oooh, yeah
+Oh, yeah
 Our love affair is crumbling down
 Our love is breaking down
-Oooh, yeah
+Oh, yeah
 Our true love is finally coming to its end
 
 Our love is breaking down
-Oooh, yeah
+Oh, yeah
 Our love affair is crumbling down
 Our love is breaking down
-Oooh, yeah
+Oh, yeah
 Our true love is finally coming to its end
 
 (Our love is breaking down)
@@ -172,8 +172,8 @@ So get it together
 So we can exist and reminisce bliss, bliss
 
 Our love is breaking down
-Oooh, yeah
+Oh, yeah
 Our love affair is crumbling down
 Our love is breaking down
-Oooh, yeah
+Oh, yeah
 Our true love is finally coming to its end

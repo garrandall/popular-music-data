@@ -124,12 +124,12 @@ Oh whoa-oh-oh-oh
 Let's go!
 
 
-Ooh girl you're shining
+Oh girl you're shining
 Like a 5th avenue diamond
 And they don't make you like they used to
 You're never going out of style
 
-Ooh pretty baby
+Oh pretty baby
 This world might've gone crazy
 The way you save me
 Who can blame me

@@ -69,7 +69,7 @@ Heart don't let her know that your breaking in two
 
 Every day our love's a battle royal
 Dear it seems that fighting is all we do
-But if i let you know how much I love you
+But if I let you know how much I love you
 You'll do things to me you shouldn't do
 
 So talk back trembling lips

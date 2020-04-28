@@ -101,7 +101,7 @@ Cause we some true players, bandits
 Got them hynas at the hotel and they can't stand it
 I got that sexual healing on them
 36-double-deuce-36 and I'm feeling on them
-Ooh-eee, I see, she got it going on like a true Miss G
+Oh-ee, I see, she got it going on like a true Miss G
 But I'm a stay true P-I-M-P from the eastside
 
 

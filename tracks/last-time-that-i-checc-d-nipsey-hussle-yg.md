@@ -91,7 +91,7 @@ Make a quarter-mill', no sweat (Whoa)
 Last time that I checked, I'm the streets' voice out west
 Legendary, self-made progress
 Last time that I checked, first, get the money, then respect
-Then the power, and the hoes come next (Uh-ohhh!)
+Then the power, and the hoes come next (Uh-oh!)
 Last time that I checked
 
 

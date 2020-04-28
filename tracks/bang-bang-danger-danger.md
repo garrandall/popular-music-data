@@ -93,4 +93,3 @@ Never put your heart on the line!
 I know it's silly but girl I really thought we had a chance
 I must've been crazy!
 
-(Chorus)

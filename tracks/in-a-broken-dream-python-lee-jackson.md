@@ -73,7 +73,7 @@ Before nine o'clock
 On the pad before my eyes
 Paper cries, tellin' lies
 The promises you gave
-From the grave of a broken heart, hmm
+From the grave of a broken heart, hm
 
 
 

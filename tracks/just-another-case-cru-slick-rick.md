@@ -43,7 +43,7 @@ rankings:
 ---
 Uhh, Once upon a time, let's see if I remember
 Back in January
-Nah, chill..... It was December
+Nah, chill... It was December
 True... Cuz that's when L started his bid
 Partied through the New Year
 January third he slid

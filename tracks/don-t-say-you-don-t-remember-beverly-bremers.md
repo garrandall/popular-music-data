@@ -72,10 +72,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-01'
 ---
-Don't Say You Don't Remember
-Beverly Bremers
-Written by Estelle Levitt and Helen Miller
-- peaked at #15 in 1972
 We wrote on the corner of the table:
 "This is the only one that will last
 For you, for me, for always

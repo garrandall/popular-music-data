@@ -112,7 +112,7 @@ Do it up, slappin' ass, gurl the sex get rough
 Switch position and let the dick get down to business
 So you can see what you been missin'
 You might had some, but you never had none like this
-Just wait til' you see my dick (Oooooooo!!!)
+Just wait til' you see my dick (Oooooooo!)
 
 
 Hey bitch, wait til' you see my dick
@@ -131,7 +131,7 @@ Beat the pussy up, beat the pussy up
 Beat the pussy up, beat the pussy up
 Beat the pussy up, beat the pussy up
 Beat the pussy up, beat the pussy up
-(Oooooooo!!!)
+(Oooooooo!)
 
 
 You fine, but I ain't gone sweat ya
@@ -144,13 +144,13 @@ I keep a ho hot when I'm puttin' in work
 Ya wanna skeet, skeet ya bout to get ya feelins hurt
 Cause I beat that cat with a dog
 And knock the walls off a broad til' she squall
-Like (Ooooooooo!!!)
+Like (Ooooooooo!)
 Yeah, it's on like that
 But it depend on the swing of the baseball bat
 Fuck the bitch on the counter and make the plates fall back
 On the floor she ain't stealin' cause she nut so they crack
 Crack, crack, fuck that bend over I'm a give ya ass my bat
-(Ooooooooo!!!)
+(Ooooooooo!)
 
 
 Hey bitch, wait til' you see my dick
@@ -169,4 +169,4 @@ Beat the pussy up, beat the pussy up
 Beat the pussy up, beat the pussy up
 Beat the pussy up, beat the pussy up
 Beat the pussy up, beat the pussy up
-(Oooooooo!!!)
+(Oooooooo!)

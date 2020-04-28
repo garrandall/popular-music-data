@@ -201,7 +201,7 @@ I can feel your halo, halo, halo
 I can see your halo, halo
 Halo
 Halo
-Ooh
+Oh
 
 
 Everywhere I'm lookin' now

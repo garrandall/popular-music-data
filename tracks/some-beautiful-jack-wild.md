@@ -26,7 +26,7 @@ rankings:
 ---
 There's too much talking
 And not enough said
-Too many do’s and dont's
+Too many do’s and don't's
 Messin' my head
 
 Pretty pretty little girl

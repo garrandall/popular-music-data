@@ -134,7 +134,3 @@ And right now
 I'm ready to spend the rest of my life
 With you
 
-
-
-
-

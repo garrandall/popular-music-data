@@ -46,7 +46,7 @@ There's a nitty gritty way of walking
 Boom de boom boom
 
 There's a nitty gritty way of sounding
-Ooh, ooh, ooh
+Oh, oh oh
 There's a nitty gritty way of sounding
 Boom digga boom
 Tell the beat
@@ -64,7 +64,7 @@ There's a nitty gritty way of playing
 Do do do dooda
 
 There's a nitty gritty way of oohing
-Ooh, ooh, ooh
+Oh, oh oh
 There's a nitty gritty way of doing
 Boom digga boom
 Tell the beat

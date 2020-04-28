@@ -35,11 +35,6 @@ I lift my eyes towards heaven
 And I see it loud and clear
 Everything I'm looking for is just right here
 
-
-
-
-
-
 I pray, I get down on my knees and drift away
 He covers me with his amazing grace
 When I need it, he fills that empty space

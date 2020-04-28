@@ -62,7 +62,7 @@ Let me tell you about cloud nine
 
 Cloud nine, you can be what you wanna be
 (cloud nine) you ain't got no responsibility
-And ev'ry man, ev'ry man is free
+And every man, every man is free
 (cloud nine) and you're a million miles from reality
 I wanna say I love the life I live
 And I'm gonna live the life I love up here on cloud nine
@@ -74,6 +74,6 @@ On cloud nine, you're as free as a bird in flight
 
 Cloud nine, you can be what you wanna be
 Cloud nine) you ain't got no responsibility
-And ev'ry man, ev'ry man is free
+And every man, every man is free
 (cloud nine) and you're a million miles from reality
 (cloud nine) (cloud nine) (cloud nine)

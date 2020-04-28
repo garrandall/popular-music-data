@@ -44,7 +44,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
 ---
-Impossible, ooh impossible
+Impossible, oh impossible
 
 It's impossible, tell the sun to leave the sky
 It's just impossible
@@ -55,7 +55,7 @@ It's just impossible
 Oh, can I hold you, closer, closer to me, baby
 And not feel you, going through me
 Split the second, honey, that I never, never think of you
-Oh, how impossible, oh ho, oh ho, ooh
+Oh, how impossible, oh ho, oh ho, oh
 
 Can the ocean keep from rushing to the shore
 It's just impossible
@@ -80,6 +80,6 @@ Somehow I'd get it, baby I would sell my very soul
 I won't regret it, no, no, for to live without your love
 Oh, it just ain't no way
 
-Impossible, ooh impossible
-Impossible, ooh impossible
-Impossible, ooh impossible
+Impossible, oh impossible
+Impossible, oh impossible
+Impossible, oh impossible

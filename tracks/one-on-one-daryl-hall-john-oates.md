@@ -81,13 +81,13 @@ rankings:
   start_date: '1983-05-28'
 ---
 I'm tired of playing on the team
-Ooooh, it seems I don't get time out anymore
+Oh, it seems I don't get time out anymore
 What a change if we set the pace face to face
 No one even trying to score
 And oh, oh, I can feel the magic of your touch
 Umm-humm, And when you move in close
 A little bit means so much
-And ooh yeah, you've got to understand, baby
+And oh yeah, you've got to understand, baby
 Time out is what I'm here for
 
 Whoooa, one on one
@@ -96,22 +96,22 @@ One on one I know
 I wanna play that one on one
 I wanna play that game tonight
 One on one so slow
-Ooooooh-oh
+Oh-oh
 
-Oooooh, you can't tell me you don't miss me girl
+Oh, you can't tell me you don't miss me girl
 I think I might know you too well, whooooa
 I (wonder what) you'd say if you knew
 That I was coming tonight
 (Want to)
 I want you can't you tell
 
-Ooooh, whoooa, one on one
+Oh, whoooa, one on one
 I wanna play that game tonight
 One on one I know
 I wanna play that one on one
 I wanna play that game tonight
 One on one so slow
-Ooooooh-oh
+Oh-oh
 That's all you need to know now
 
 
@@ -120,18 +120,18 @@ That's all you need to know now
 There's nothing else
 One on one
 I wanna play that game tonight
-Ooooh-oh mmmmmmm
+Oh-oh mmm
 One on one
 I wanna play that game tonight
 (One on one)
-Ooooooh-oh
+Oh-oh
 One on one
 I wanna play that game tonight
 (One on one I wanna play that game tonight)
-Ooooooh-oh
+Oh-oh
 One on one I wanna play that game
 (One) on one (on one) on one, girl
-(On one) ooooooh, there's nothing else
+(On one) oh, there's nothing else
 (On one) but you and me (on one)
 I want no one else (on one)
 I don't want no one else (on one)

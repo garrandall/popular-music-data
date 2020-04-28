@@ -95,7 +95,7 @@ Take my hand, don't let go, baby hold me (hold my hand)
 Come to me and let me be your one and only (hold my hand)
 'Cause I can make it all right 'til the morning (hold my hand)
 I can tell that you're tired of being lonely (hold my hand)
-Take my hand, don't let go, baby hold me (ooh, hold me)
+Take my hand, don't let go, baby hold me (oh hold me)
 Come to me and let me be your one and only (one and only)
 'Cause I can make it all right 'til the morning (hold my hand)
 

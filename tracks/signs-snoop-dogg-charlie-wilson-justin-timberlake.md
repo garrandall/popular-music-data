@@ -72,11 +72,11 @@ I'm not sure what I see
 Cupid don't fuck wit me!
 Are you telling me this is a sign?
 She's looking in my eyes, now I see no other guys
-Are you telling me this is a sign? (OHHH!!!)
+Are you telling me this is a sign? (OHHH!)
 
 
 Don't think about it, boy leave her alone
-(Ooh wee!!) Nigga you ain't no G!
+(Oh wee!) Nigga you ain't no G!
 She likes my tone, my colone and the way I roll, you ain't no G!
 
 
@@ -98,7 +98,7 @@ Are you telling me this is a sign?
 
 
 Don't think about it, boy leave her alone
-(Oh ohhh!! yeah!) Nigga you ain't no G!
+(Oh oh! yeah!) Nigga you ain't no G!
 She likes my tone, my colone and the way I roll, you ain't no G!
 
 
@@ -119,7 +119,7 @@ Are you telling me this is a sign?
 
 
 Don't think about it, boy leave her alone
-(Oh ohhh!! yeah!) Nigga you ain't no G!
+(Oh oh! yeah!) Nigga you ain't no G!
 She likes my tone, my colone and the way I roll, you ain't no G!
 
 
@@ -127,7 +127,7 @@ Mami, mamasita, have you ever - flown on G5s
 From London - to Ibiza. You gotta have Cape Town
 You'll have Sunday's with chiquitas
 You'll see Venus and Serena, in the Wimbledon Arena
-And I can take you (Uncle Charlie, preach!!)
+And I can take you (Uncle Charlie, preach!)
 
 
 Nigga don't be young and foolish
@@ -141,13 +141,13 @@ I'm not sure what I see
 Cupid don't fuck wit me!
 Are you telling me this is a sign?
 She's looking in my eyes, now I see no other guys
-Are you telling me this is a sign? (OHHH!!!)
+Are you telling me this is a sign? (OHHH!)
 
 
 Don't think about it, boy leave her alone
-(Ooh wee!!) Nigga you ain't no G!
+(Oh wee!) Nigga you ain't no G!
 She likes my tone, my colone and the way I roll (hey!) you ain't no G!
-(Ooh wee!!) You ain't no G! (oh oh ohh! .. Ooh wee!!)
+(Oh wee!) You ain't no G! (oh oh oh! .. Oh wee!)
 
 
 

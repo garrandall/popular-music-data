@@ -163,17 +163,14 @@ But it don't stop, watch the Pun get wicked
 When I (stick it) even Luke be like "Don't stop, get it get it"
 
 
-
-
-
-Boricua, morena, boricua, morena 
+Boricua, morena, boricua, morena
 No more rolling with an entourage
 Unless it's Pun and the Terror Squad
 
 Punisher, Punisher, Big Punisher
 Punisher... Joe and Big Punisher
 
-Boricua, morena, boricua, morena 
+Boricua, morena, boricua, morena
 
 
 

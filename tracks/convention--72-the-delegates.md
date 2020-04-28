@@ -73,7 +73,7 @@ Govern
 Now that your husband is out Gypsies, tramps and thieves Ma'am, do you think you could have done more For your husband during those trying times I know it's not my fault
 I did my best Thank you very much Now back to you, Walter There's a camotion on the left side of the floor
 We've got Senator Kennedy standing with Jane Ronda Take it away David Stinkly Ah, Senator Kennedy
-People are talking about your political future Because of your good looks, your smile And the sound of your voice Why Aaaaaaaah And the magnificent If you decide to run for President in '76Who will be your campaign manager The candy man Ah, Miss Ronda, Miss Ronda
+People are talking about your political future Because of your good looks, your smile And the sound of your voice Why Ah And the magnificent If you decide to run for President in '76Who will be your campaign manager The candy man Ah, Miss Ronda, Miss Ronda
 Just one question, please What do you think of President Nixon I don't know how to love him Ah, thank you Miss Ronda Ah, ah, Mr Kissinger
 What are you doing all the way over here
 On this side of the hall Gotta find a woman Gotta find a woman

@@ -66,7 +66,7 @@ You're good for me
 Let me tell you 'bout it
 
 Yeah, yeah, yeah
-Yeah, yeah, woah, oh, oh, ooh
+Yeah, yeah, woah, oh, oh, oh
 
 I was down on my sickbed
 It was the end for me everyone said
@@ -82,8 +82,8 @@ That's all I'm living for
 'Cause you're good
 
 Yeah, yeah, yeah
-Yeah, yeah, woah, oh, oh, ooh
+Yeah, yeah, woah, oh, oh, oh
 Yeah, yeah, yeah
-Yeah, yeah, woah, oh, oh, ooh
+Yeah, yeah, woah, oh, oh, oh
 
 Yeah, yeah, yeah

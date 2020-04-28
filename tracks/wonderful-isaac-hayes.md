@@ -70,8 +70,8 @@ You are just quite a girl
 It's wonderful to be in love with you, oh, yes, it is, yes, it is
 It's so nice to know that you love me too
 
-Baby, ooh baby, I wouldn't leave you if I could
-Mama, ooh mama, your love is so doggone good, so good
+Baby, oh baby, I wouldn't leave you if I could
+Mama, oh mama, your love is so doggone good, so good
 And everyday is gonna be that way
 Just as long as I'm your man
 

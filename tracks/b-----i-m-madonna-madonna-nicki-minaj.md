@@ -29,7 +29,7 @@ Yeah we'll be drinking and nobody's gonna stop us
 And we'll be kissing anybody that's around us
 I just wanna have fun tonight
 (Love this shit tonight) Put me under the flashing light
-Ooohhhhhh...
+Oh...
 Let me blow up this house tonight (Gonna blow, blow)
 
 We go hard or we go home
@@ -48,7 +48,7 @@ The neighbors pissed and says hes gonna call the Five-O
 If that's your weapon we have gonna give a good show
 I just wanna go out tonight
 Put me under the flashing light
-Oooohhhh...
+Oh...
 Let me blow up this house tonight (Gonna Blow, blow)
 Uh!
 B-B-Bitch, Move
@@ -70,7 +70,7 @@ Bitch I'm Madonna
 (Bitch I'm Madonna)
 Who do you think you are? (Bitch I'm Madonna, Bitch I'm Madonna)
 You gonna mess this Lucky Star (Bitch I'm Madonna, Bitch I'm Madonna)
-Ooh, oh, oh ooh (Bitch I'm Madonna, Bitch I'm Madonna)
+Oh oh, oh oh (Bitch I'm Madonna, Bitch I'm Madonna)
 Who do you think you are? (Uh!)
 
 Hold up with my nose up
@@ -106,7 +106,7 @@ Oh Oh Oh, Cause I'm a bad bitch
 Who do you think you are? (Cause I'm a bad bitch)
 Who do you think you are? (Cause I'm a bad bitch)
 Who do you think you are? (Cause I'm a bad bitch)
-Who do you think you are?!!!!!!!
+Who do you think you are?!
 
 "Go hard" or "go home" zone, bitch
 I'm Madonna these hoes know

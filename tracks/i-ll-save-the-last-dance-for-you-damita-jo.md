@@ -56,7 +56,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-09'
 ---
-If I dance ev'ry dance with the guys who give me the eye
+If I dance every dance with the guys who give me the eye
 And let 'em hold me tight
 Please don't mind, if I smile at the man who holds my hand
 'neath the pale moonlight
@@ -86,5 +86,5 @@ So I'm savin' the last dance for you
 Don't want to give my goodnight kiss to anyone but you
 So I'm savin' the last dance for you
 
-Hmm-mm-mm-mm-mm-mm
+Hm-mm-mm-mm-mm-mm
 Savin' the last dance for you

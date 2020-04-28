@@ -63,7 +63,7 @@ rankings:
 
 Sing me, sing me, baby
 Sing me, sing me, sing me
-Oooh
+Oh
 
 La, lala, lalala
 (Sing me, sing me, sing me, yeah)
@@ -88,7 +88,7 @@ La, lala, lalala
 (Sing the jingle jangle song)
 
 La, lala, lalala
-(Oooh, sing me, sing me, baby, yeah)
+(Oh, sing me, sing me, baby, yeah)
 La, lala, lalala
 
 Bein' kinda pretty and down here in the city
@@ -124,7 +124,7 @@ We'll get it together
 
 Oh, come on (Come on)
 
-Oooh, yeah, yeah, yeah
+Oh, yeah, yeah, yeah
 
 Oh, come on (Come on)
 

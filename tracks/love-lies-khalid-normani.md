@@ -272,7 +272,7 @@ Underneath the sunrise (underneath the sunrise)
 Show me where your love lies (tell me where your love lies)
 Tell me where your love lies (show me where your love lies)
 Waste the day and spend the night (yeah, yeah)
-Underneath the sunrise (ooh)
+Underneath the sunrise (oh)
 Show me where your love lies
 
 

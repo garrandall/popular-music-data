@@ -94,7 +94,7 @@ She wants her granddaddy preaching the service
 Yeah, she wants magnolias out in the country
 Not too many people, save her daddy some money
 
-Ooh, she got it all planned out
+Oh she got it all planned out
 Yeah, I can see it all right now
 
 I'll wear my black suit, black tie, hide out in the back

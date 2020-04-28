@@ -32,13 +32,13 @@ Balliamo senza le scarpe
 Sai che penso che tu sia fantastico, vero?
 
 
-Le nostre regole, i nostri sogni, siamo ciechi
+Le nostre regole, I nostri sogni, siamo ciechi
 Stiamo facendo saltare la merda con dinamite fatta in casa
-I nostri amici, i nostri drink, ci ispiriamo
+I nostri amici, I nostri drink, ci ispiriamo
 Stiamo facendo saltare la merda con dinamite fatta in casa
 
 
-Voglio sentire la luce, spingiamo i nostri limiti
+Voglio sentire la luce, spingiamo I nostri limiti
 Slacciato per la corsa, mhmm
 Siamo lontano di casa
 Siamo onesti con noi stessi
@@ -48,9 +48,9 @@ Se la luce è nel cielo
 Aperto, finalmente, andiamo e siamo liberi
 
 
-Le nostre regole, i nostri sogni, siamo ciechi
+Le nostre regole, I nostri sogni, siamo ciechi
 Stiamo facendo saltare la merda con dinamite fatta in casa
-I nostri amici, i nostri drink, ci ispiriamo
+I nostri amici, I nostri drink, ci ispiriamo
 Stiamo facendo saltare la merda con dinamite fatta in casa
 
 
@@ -64,9 +64,9 @@ Ho lasciato la mia cautela a casa
 Non torno indietro
 
 
-Le nostre regole, i nostri sogni, siamo ciechi
+Le nostre regole, I nostri sogni, siamo ciechi
 Stiamo facendo saltare la merda con dinamite fatta in casa
-I nostri amici, i nostri drink, ci ispiriamo
+I nostri amici, I nostri drink, ci ispiriamo
 Stiamo facendo saltare la merda con dinamite fatta in casa
 
 
@@ -84,9 +84,9 @@ Non voglio inseguirlo, no
 Sai che penso che tu sia fantastico, vero?
 
 
-Le nostre regole, i nostri sogni, siamo ciechi
+Le nostre regole, I nostri sogni, siamo ciechi
 Stiamo facendo saltare la merda con dinamite fatta in casa
-I nostri amici, i nostri drink, ci ispiriamo
+I nostri amici, I nostri drink, ci ispiriamo
 Stiamo facendo saltare la merda con dinamite fatta in casa
 Stiamo facendo saltare la merda con dinamite fatta in casa
 Stiamo facendo saltare la merda con dinamite fatta in casa

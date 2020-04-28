@@ -28,15 +28,15 @@ To the real nitty gritty
 
 Let's get right down to the real nitty gritty
 Now, one, two, nitty gritty
-Now, yeah, mmm, nitty gritty, ooh wee
+Now, yeah, mmm, nitty gritty, oh wee
 Right down to the real nitty gritty
 
-Ooh, ooh, double beating, double beating
+Oh, oh, double beating, double beating
 Right down to the nitty gritty
 Yeah, double beating, I keep repeating
 Right down to the nitty gritty, hey
 
-Ooh, ooh, double beating, double beating
+Oh, oh, double beating, double beating
 Right down to the nitty gritty
 Yeah, double beating, keep repeating
 Right down to the nitty gritty, yeah
@@ -46,7 +46,7 @@ On down (on down) to the real
 (To the real) nitty gritty (nitty gritty)
 
 One, two, nitty gritty now
-Yeah, boom, nitty gritty, ooh wee
+Yeah, boom, nitty gritty, oh wee
 Right down to the real neal gritty
 
 Get down, get on down, get down

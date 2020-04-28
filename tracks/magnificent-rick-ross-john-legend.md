@@ -54,7 +54,7 @@ rankings:
   start_date: '2009-05-30'
 ---
 
-J.U.S.T.I.C.E. League 
+J.U.S.T.I.C.E. League
 
 It's Da Boss.
 It gets no better than this...
@@ -62,7 +62,7 @@ It gets no better than this...
 Maybach Music!
 
 
-Swimmin' in women, champagne sippin', 
+Swimmin' in women, champagne sippin',
 Gold Emblem with 2 M's in it, this living is so magnificent, stop dreaming it, I'm living it
 (Oh I), I can show you, show you better that I can tell you, I can show you, Oh I
 
@@ -70,7 +70,7 @@ Gold Emblem with 2 M's in it, this living is so magnificent, stop dreaming it, I
 I'm tha magnificient with tha sensational style, far from bein' shallow cause she caught me wit a smile,
 try to figure out my style, baby that will take a minute but if all we got is time,
 you can't be actin' timid, so we back to playin tennis,  we been goin' back and forth,
-she the one that I adore, so I tried it in aurar, 
+she the one that I adore, so I tried it in aurar,
 conscience intervened concentrating on my cream, I'm tha king, make a move, pawns all tha way to queens,
 I'm a don, I'm a boss, I'm a profit, I'm a g, I'm a CEO which means that I profit off of me (Yea!).
 All white T's still rockin' my Nike Airs, fresh outta flight school, cause I'm fly right? (Yea!)
@@ -80,7 +80,7 @@ My money long, my nigga my money strong, if you ain't gettin' money dat mean you
 
 
 
-I'm tha magnificient with tha sensational style, 
+I'm tha magnificient with tha sensational style,
 down to all of my automobiles wit no miles, yellow corvettes, black rally stripes, and I never phone ahead,
 all she do is hear the pipes, project bitches, upscale kittens, fuck her for a minute then now we countin' digits,
 Maybach money so I always had a vision, I would always tell ma niggas but... ain't nobody listened.
@@ -88,9 +88,6 @@ Words work magic, haters wreak havoc, there ain't nothin'on my back but the deli
 I made a transition from the thieves, to the biggest executive Def Jam's ever seen.
 Only yours dream, Sean John suit and a S. Dot ring, Sean Don for my crew, bad hoes in pursuit,
 Masspike on a two, Gunplay he a glue goon wit a attitude (Holla!)
-
-
-
 
 I'm tha magnificient with tha sensational style, when I decorate a home, marble flooring like Da Nile,
 nigga you a clown, here's the number you should dial, ye start wit 305 but we end at 4 pounds.
@@ -100,8 +97,4 @@ wear red all the time but really I'm colour blind, wanna catch my attention nigg
 One time for tha Crips, young g's buyin cribs and I smoke wit Vice Lords when I visit Mississip.
 The game never change, money still a focal, but its time to rape tha game like Puffy did Total,
 like Rev Run in the tub still smokin', in memory of Shakir, Boss gotta shout Oakland!
-
-
-
-
 

@@ -123,7 +123,7 @@ I'll give you the time of your life
 I'm gonna take you places
 You've never been before and
 You'll be so happy that you came
-Ooh, I'm gonna take you there, oooh
+Oh, I'm gonna take you there, oh
 
 
 That's the way love goes, that's the way love goes
@@ -139,14 +139,14 @@ Baby, I've got on what you like
 Come closer, baby, closer
 Reach out and feel my body
 I'm gonna give you all my love
-Ooh, sugar don't you hurry
+Oh, sugar don't you hurry
 You've got me here all night
 Just close your eyes and hold on tight
 (That's the way, that's the way)
-Ooh, baby, don't stop, don't stop
+Oh, baby, don't stop, don't stop
 Go deeper, baby, deeper
 You feel so good I'm gonna cry
-Ooh, I'm gonna take your there
+Oh, I'm gonna take your there
 
 
 That's the way love goes, that's the way love goes

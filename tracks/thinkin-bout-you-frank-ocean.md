@@ -126,16 +126,16 @@ Southern California, much like Arizona
 My eyes don't shed tears, but boy, they pour when
 
 
-I'm thinkin' 'bout you, ooh no, no, no
+I'm thinkin' 'bout you, oh no, no, no
 I've been thinkin' bout you, you know, know, know
 I've been thinkin' bout you, do you think about me still?
 Do ya, do ya?
 
 
 Or do you not think so far ahead?
-'Cause I been thinkin' bout forever, ooh
+'Cause I been thinkin' bout forever, oh
 Or do you not think so far ahead?
-'Cause I been thinkin' bout forever, ooh
+'Cause I been thinkin' bout forever, oh
 
 
 No, I don't like you, I just thought you were cool enough to kick it
@@ -145,16 +145,16 @@ That's why I kissed you
 Got a fighter jet, I don't get to fly it though, I'm lying down
 
 
-Thinkin' 'bout you, ooh no, no, no
+Thinkin' 'bout you, oh no, no, no
 I've been thinkin' bout you, you know, know, know
 I've been thinkin' bout you, do you think about me still?
 Do ya, do ya?
 
 
 Or do you not think so far ahead?
-'Cause I been thinkin' bout forever, ooh
+'Cause I been thinkin' bout forever, oh
 Or do you not think so far ahead?
-'Cause I been thinkin' bout forever, ooh
+'Cause I been thinkin' bout forever, oh
 
 
 Yes, of course, I remember, how could I forget (How could I forget?) how you feel? (How you feel)
@@ -164,6 +164,6 @@ We'll go down this road 'til it turns from color to black and white
 
 
 Or do you not think so far ahead?
-'Cause I been thinkin' bout forever, ooh
+'Cause I been thinkin' bout forever, oh
 Or do you not think so far ahead?
-'Cause I been thinkin' bout forever, ooh
+'Cause I been thinkin' bout forever, oh

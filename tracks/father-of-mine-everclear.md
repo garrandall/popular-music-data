@@ -99,7 +99,7 @@ Father of mine
 Tell me what do you see
 When you look back at your wasted life and you don't see me
 I was ten years old
-Doing all that i could
+Doing all that I could
 It wasn't easy for me to be a scared white boy in a black neighborhood
 Sometimes you would send me a birthday card
 With a five dollar bill

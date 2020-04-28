@@ -86,4 +86,4 @@ I've made an ash of myself
 (Still) though I tote this torch
 (Still) it's beginning to scorch
 I can't hold still
-Ooh, that smarts, ouch
+Oh, that smarts, ouch

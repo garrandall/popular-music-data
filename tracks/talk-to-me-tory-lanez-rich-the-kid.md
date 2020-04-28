@@ -94,7 +94,7 @@ I drive the whip you bought for me, baby (Brr)
 You know I got a lotta opps on me, baby
 I whip around the corner in the whip (Whip)
 Shout out Rafaello, man I love the drip, drip (Drip, drip)
-80 pointers on my wrist (Ooh)
+80 pointers on my wrist (Oh)
 I'm hella rich and I love to talk shit, so
 
 
@@ -125,7 +125,7 @@ It's a one night ting, my diamonds fighting
 This not no Breitling, that pussy biting
 I tell her to talk to me (Talk to me)
 The plug gon' walk with me (Plug)
-Ooh, she bougie, she busy (Busy)
+Oh, she bougie, she busy (Busy)
 Fuck it, might buy her a Bentley (Bentley, fuck it)
 Go (Go), go to the floor and pick up (And pick up)
 She callin' my phone, might pick up (Brr)

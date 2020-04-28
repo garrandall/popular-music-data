@@ -93,9 +93,6 @@ And you'll know, I wrote it especially for you
 (I love you still)
 And I love you wherever you are
 
-
-
-
 This flame in my heart is like an eternal fire
 For every day it burns hotter and every day it burns higher
 (I love you still)

@@ -29,54 +29,54 @@ rankings:
   start_date: '2007-02-17'
 ---
 
-Daddy's been a back-row Baptist 
-With his share of front-row sin 
-His Saturday night still on his breathe 
-Every Sunday when he'd walk in 
-He's never led the Benediction 
-He's never sang in the choir 
-But he's an angel with no halo 
-An' one wing in the fire 
+Daddy's been a back-row Baptist
+With his share of front-row sin
+His Saturday night still on his breathe
+Every Sunday when he'd walk in
+He's never led the Benediction
+He's never sang in the choir
+But he's an angel with no halo
+An' one wing in the fire
 
-Mamma lives by the Bible 
-The Bible lives by the bed 
-An' she's lied alone so many nights 
-With scriptures in her head. 
-Prayin', Good Lord, just be with him 
-I know his Faith is tired 
-But he's an angel with no halo 
-An' one wing in the fire 
+Mamma lives by the Bible
+The Bible lives by the bed
+An' she's lied alone so many nights
+With scriptures in her head.
+Prayin', Good Lord, just be with him
+I know his Faith is tired
+But he's an angel with no halo
+An' one wing in the fire
 
-An' I know he lives a little left of livin' right 
-An he's come close to goin' way to far a few times 
-But I'd trade a thousand prayers 
-If just one prayer would come true 
-Lord, please believe in him, like I believe in you 
+An' I know he lives a little left of livin' right
+An he's come close to goin' way to far a few times
+But I'd trade a thousand prayers
+If just one prayer would come true
+Lord, please believe in him, like I believe in you
 
-Daddy's always been there for me 
-From T-Ball to touchdowns 
-Fixed my car an' fixed my heart 
-When they've been broken down 
-I know he calls for more forgiveness 
-Than most folks do require 
-But he's an angel with no halo 
-An' one wing in the fire 
+Daddy's always been there for me
+From T-Ball to touchdowns
+Fixed my car an' fixed my heart
+When they've been broken down
+I know he calls for more forgiveness
+Than most folks do require
+But he's an angel with no halo
+An' one wing in the fire
 
-An' I know he lives a little left of livin' right 
-An he's come close to goin' way to far a few times 
-But I'd trade a thousand prayers 
-If just one prayer would come true 
-Lord, please believe in him, like I believe in you 
+An' I know he lives a little left of livin' right
+An he's come close to goin' way to far a few times
+But I'd trade a thousand prayers
+If just one prayer would come true
+Lord, please believe in him, like I believe in you
 
-Well, I just can't imagine 
-What Heaven might be like 
-If me an' Mamma make it 
-Without Daddy by our side 
-Lord, could you please remember 
-When it's time to call us higher 
-That he's an angel with no halo 
-An' one wing in the fire 
-Ooooh
+Well, I just can't imagine
+What Heaven might be like
+If me an' Mamma make it
+Without Daddy by our side
+Lord, could you please remember
+When it's time to call us higher
+That he's an angel with no halo
+An' one wing in the fire
+Oh
 
 
 

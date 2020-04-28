@@ -148,10 +148,4 @@ Will live forever
 Deep inside my heart
 I know I'll never forget
 
-
-
-
-
-
-
 Oh, when we fell in love

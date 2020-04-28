@@ -45,9 +45,6 @@ Let it be, let it be, let it be, let it be, let it be
 Whisper words of wisdom
 Let it be, let it be
 
-
-
-
 And when the night is cloudy
 There is still a light that shines on me
 Shine until the morning

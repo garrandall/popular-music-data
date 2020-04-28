@@ -43,7 +43,7 @@ I'll play the part again
 One more time
 
 I'll take her back again
-One more time, ooh
+One more time, oh
 
 
 

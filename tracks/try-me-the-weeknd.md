@@ -46,7 +46,7 @@ You ain't steady, you look ready to go all the way
 If you let me take you down on me
 
 
-Can you try me? (try me), try me (ooh)
+Can you try me? (try me), try me (oh)
 Once you put your pride aside (once you put your pride aside)
 You can notify me (-fy me), -fy me (-fy me)
 You're the best I ever had (you're the best I ever had)

@@ -155,7 +155,7 @@ How is it 6 AM?
 Your touch is heaven-sent
 Beautiful, beautiful sight right now
 Beautiful, beautiful life right now
-Got the angels singing ooh-ah right now like, ooh-ah
+Got the angels singing ohah right now like, oh
 And this is why we’ve got to touch (Ah)
 Sometimes words are not enough (No)
 Painted in your golden kiss, honey dripping from your lips
@@ -165,7 +165,7 @@ Yeah, baby, you are
 
 
 Hey (Hey, baby)
-Beautiful, beautiful, beautiful, beautiful angel (Ooh)
+Beautiful, beautiful, beautiful, beautiful angel (Oh)
 Love your imperfections, every angle (Baby, baby)
 Tomorrow comes and goes before you know (Yeah, baby)
 So I just had to let you know
@@ -176,9 +176,6 @@ But nothing can compare to when you're naked
 (Nothing can compare, you're better when you, hey, Oh)
 Tomorrow comes and goes before you know (Yeah)
 So I just had to let you know (Oh, know, yeah)
-
-
-
 
 I just had to let you know
 Swear to God you're beautiful, yeah

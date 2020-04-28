@@ -75,7 +75,7 @@ Oh yes I'm greater than all MC's when I breeeze give me room please
 I be like fascinatin when I be updatin
 Cuttin off wack kids, pullin their trump cards
 I thump hard, and mak eem say that I'm God
-Niggaz be pretendin they hardcore
+Niggas be pretendin they hardcore
 Never know the meaning of (real hardcore)
 But I get props like a slogan and no man
 Could ever try to diss when I kicks my jam

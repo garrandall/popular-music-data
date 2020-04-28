@@ -105,7 +105,7 @@ I'm sorry I got mad waitin' in the truck
 It seemed like hours you gettin' all dressed up
 Just to go to Shoney's  on a Wednesday night
 I read taht book you gave me about Mars and Venus
-I think it's sinkin' in but i probably need to reread it
+I think it's sinkin' in but I probably need to reread it
 But I'm startin' to see now what you've been sayin' is right
 
 

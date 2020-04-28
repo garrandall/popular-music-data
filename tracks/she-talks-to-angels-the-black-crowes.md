@@ -115,7 +115,7 @@ She talks to angels
 Says they call her out by her name
 Oh, yeah, heah, angels
 Call her out by her name
-Oh, ooh, oh, oh, angels
+Oh, oh, oh, oh, angels
 They call her out by her name
 
 Oh, oh, oh, she talks to angels

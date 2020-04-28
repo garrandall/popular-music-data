@@ -167,7 +167,7 @@ Yeah, Kut Klose, help me out
 
 -You know you are my lover
 You got me twisted over you
-I know i got what you need
+I know I got what you need
 So what you wanna do
 
 Baby, baby I know
@@ -179,7 +179,7 @@ Tell me what can I do
 Did me wrong
 When I thought we were really down
 So you say you want me
-Make up your mind 
+Make up your mind
 Cuz I'm not gonna be here for long
 
 
@@ -192,7 +192,7 @@ Think about it my dear
 
 
 
-Breaking up now 
+Breaking up now
 You got me twisted
 Thinking about the way things used to be
 When it was you and me girl I was free
@@ -203,8 +203,4 @@ You left me all alone now I can't even concentrate
 I guess I'll wait for the day until you come back
 Because my heart is where your love is at
 You got me twisted
-
-
-
-
 

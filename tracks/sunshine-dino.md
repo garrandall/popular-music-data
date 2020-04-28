@@ -113,11 +113,11 @@ And I think of her every day
 And all night, yeah
 
 She's my sunshine (she's my sunshine)
-Ooh, my baby's so fine (and she's so fine)
+Oh, my baby's so fine (and she's so fine)
 And I just can't get that girl
 Out of my mind, no, no, no
 
-Ooh, she makes me happy
+Oh, she makes me happy
 She gives me all the love that I need
 And makes it snappy
 She's my sunshine
@@ -132,7 +132,7 @@ And I think of her every day
 And all night, yeah
 
 She's my sunshine (she's my sunshine)
-Ooh, my baby's so fine (and she's so fine)
+Oh, my baby's so fine (and she's so fine)
 And I just can't get that girl
 Out of my mind
 

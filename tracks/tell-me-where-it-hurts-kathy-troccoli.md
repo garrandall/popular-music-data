@@ -38,7 +38,7 @@ Tell me now, tell me now
 Tell me why you're feeling this way
 I hate to see you so down
 Oh, baby, is it your heart
-Ooh, breaking all in pieces
+Oh breaking all in pieces
 Making you cry
 Making you feel blue
 Is there anything I can do
@@ -74,10 +74,10 @@ And I'll love you with a love so tender
 Oh, and if you'll let me stay
 I'll love all the hurt away
 
-Ooh, I can make it go away, baby
+Oh I can make it go away, baby
 
 Is it your heart
-Ooh, breaking all in pieces
+Oh breaking all in pieces
 Making you cry
 Making you feel blue
 Is there anything I can do
@@ -92,7 +92,7 @@ And I'll love you with a love so tender
 Oh, and if you'll let me stay
 I'll take all the hurt away
 
-Tell me, ooh
+Tell me, oh
 Tell me, baby
 Tell me, oh
 And I'll do my best to make

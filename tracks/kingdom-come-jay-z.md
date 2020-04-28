@@ -21,7 +21,7 @@ So after this flow you might owe me a favor (Yeah)
 When kingdom come, you ready? (I will be)
 When kingdom come, I'm ready (I will be)
 When kingdom come (Yeah, yeah) I'm ready
-(Hey! Hey! Hey Hey Hey!!!)
+(Hey! Hey! Hey Hey Hey!)
 
 
 Now everywhere I go they like HOV you back
@@ -49,7 +49,7 @@ When kingdom come, you ready? (I will be)
 When kingdom come, uh huh (I will be)
 Not only N.Y.C. I'm hip hop's savior (Yeah, yeah)
 So after this flow you might owe me a favor
-(Hey! Hey! Hey Hey Hey!!!)
+(Hey! Hey! Hey Hey Hey!)
 
 
 I hear "hurry up Hov" when I'm out in the public
@@ -77,7 +77,7 @@ When kingdom come, you ready? (I will be)
 When kingdom come, uh huh (I will be)
 Not only N.Y.C. I'm hip hop's savior (Yeah, yeah)
 So after this flow you might owe me a favor
-(Hey! Hey! Hey Hey Hey!!!)
+(Hey! Hey! Hey Hey Hey!)
 
 
 Just when they thought it was all over
@@ -105,7 +105,7 @@ When kingdom come, you ready? (I will be)
 When kingdom come, uh huh (I will be)
 Not only N.Y.C. I'm hip hop's savior (Yeah, yeah)
 So after this flow you might owe me a favor
-(Hey! Hey! Hey Hey Hey!!!)
+(Hey! Hey! Hey Hey Hey!)
 
 
 

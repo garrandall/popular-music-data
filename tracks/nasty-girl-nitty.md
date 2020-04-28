@@ -90,7 +90,7 @@ But it didn't matter yo
 We were puttin on a show
 Free for all your spectators
 Mommy threw it like a champ (Yo wait up)
-Yo i didn't even know her name (What!?)
+Yo I didn't even know her name (What!?)
 Bitty's opened up your eyes
 Haters better recognize
 That Nitty got this playa

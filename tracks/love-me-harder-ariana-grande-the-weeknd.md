@@ -112,9 +112,9 @@ Give me a reason to believe it
 'Cause if you want to keep me, you gotta, gotta, gotta, gotta, got to love me harder
 And if you really need me, you gotta, gotta, gotta, gotta, got to love me harder
 Baby, love me harder
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 Love me, love me, love me
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 Harder, harder, harder
 
 
@@ -131,13 +131,13 @@ I'll make it feel like the first time
 
 'Cause if you want to keep me, you gotta, gotta, gotta, gotta, got to love me harder (I'mma love you harder)
 And if you really need me, you gotta, gotta, gotta, gotta, got to love me harder (love me harder)
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 Love me, love me, love me
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 Harder, harder, harder
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 Love me, love me, love me
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 Harder, harder, harder
 
 So what do I do if I can't figure it out (figure it out)?
@@ -149,15 +149,15 @@ I'm gonna leave, leave, leave again
 And if you really need me, you gotta, gotta, gotta, gotta, got to love me harder (love me, love me, baby)
 'Cause if you want to keep me, you gotta, gotta, gotta, gotta, got to love me harder (love me harder)
 And if you really need me, you gotta, gotta, gotta, gotta, got to love me harder (I'mma love you harder)
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 Love me, love me, love me
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 Harder, harder, harder
 (Love me, love me, baby)
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 Love me, love me, love me
 (Just a little bit, harder, harder, baby)
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 Harder, harder, harder
 
 

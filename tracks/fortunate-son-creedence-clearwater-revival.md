@@ -26,9 +26,9 @@ rankings:
 ---
 
 Some folks are born made to wave the flag
-Ooh, they're red, white and blue
+Oh, they're red, white and blue
 And when the band plays "Hail To The Chief"
-Ooh, they point the cannon at you, Lord
+Oh, they point the cannon at you, Lord
 
 It ain't me, it ain't me, I ain't no senator's son, son
 It ain't me, it ain't me; I ain't no fortunate one, no
@@ -43,9 +43,9 @@ It ain't me, it ain't me; I ain't no fortunate one, no
 
 Yeah!
 Some folks inherit star spangled eyes
-Ooh, they send you down to war, Lord
+Oh, they send you down to war, Lord
 And when you ask them, "How much should we give?"
-Ooh, they only answer, "More! More! More!" Yo
+Oh, they only answer, "More! More! More!" Yo
 
 It ain't me, it ain't me, I ain't no military son, son
 It ain't me, it ain't me; I ain't no fortunate one, one

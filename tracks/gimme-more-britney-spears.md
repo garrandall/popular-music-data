@@ -156,8 +156,8 @@ Gimme (Mo-)
 Gimme, gimme (More)
 
 
-(Mo-mo-mo-mo-mo-mo....)
-(Ooh, ooh, ooh...)
+(Mo-mo-mo-mo-mo-mo...)
+(Oh, oh ooh)
 I just can't control myself
 (Mo-mo-mo-mo-mo-mo)
 (More!)
@@ -176,7 +176,7 @@ Gimme, gimme (More)
 Gimme, gimme (More)
 Gimme (Mo-)
 Gimme, gimme (More)
-Oo-oo-ooh!
+Oo-oo-oh
 Gimme, gimme (More)
 Gimme (More)
 Gimme, gimme (More)
@@ -196,12 +196,12 @@ Danja, Danja, Danja, Danja)
 I just want more
 
 
-(Ooh-oh-oh-oh-oh, ooh-oh-oh-oh-oh)
-(Ooh-oh-oh-oh-oh, ooh-oh-oh-oh-oh)
-(Ooh-oh-oh-oh-oh, ooh-oh-oh-oh-oh)
-(Ooh-oh-oh-oh-oh)
+(Oh-oh-oh-oh-oh, ohoh-oh-oh-oh)
+(Oh-oh-oh-oh-oh, ohoh-oh-oh-oh)
+(Oh-oh-oh-oh-oh, ohoh-oh-oh-oh)
+(Oh-oh-oh-oh-oh)
 (Mo-mo-mo-mo-mo-mo)
-(Ooh-oh-oh-oh-oh)
+(Oh-oh-oh-oh-oh)
 
 
 Gimme, gimme, gimme, gimme, gimme

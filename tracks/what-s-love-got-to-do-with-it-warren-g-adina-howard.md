@@ -87,7 +87,7 @@ rankings:
 ---
 
 
-Ooh, yeah, yeah.
+Oh, yeah, yeah.
 What's love got to do.
 Warren G, rap for me, yeah-eah, yeah, mm mm.
 

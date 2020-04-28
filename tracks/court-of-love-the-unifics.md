@@ -50,7 +50,7 @@ The judge of love presides
 Will the jury take it's place
 Now will the plaintiff kindly state his case
 
-Mmmmmmmmm I got a letter today
+Mmm I got a letter today
 And cried with every word she had to say
 I was so hurt, shamed and disgraced
 Cause that woman didn't have the nerve to tell me face to face

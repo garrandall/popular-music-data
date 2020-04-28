@@ -97,8 +97,8 @@ is that alright baby, baby
 
 There is only one for me
 You have made that a possibility
-We could take that step to see, ohh
-If this is really gonna be 
+We could take that step to see, oh
+If this is really gonna be
 All you gotta do is say yes
 
 
@@ -118,10 +118,4 @@ But I always knew you could be mine
 I recognize the butterflies inside me
 Sense is gonna be made tonight, tonight
 All you gotta do is say yes
-
-
-
-
-
-
 

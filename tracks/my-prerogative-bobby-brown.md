@@ -135,7 +135,7 @@ Why don't they just let me live (Tell me why)
 I don't need permission
 Make my own decisions (Oh!)
 That's my prerogative
-It's my prerogative 
+It's my prerogative
 (It's my prerogative)
 
 It's the way that I wanna live (It's my prerogative)
@@ -153,10 +153,10 @@ I see nothin wrong
 With spreadin myself around
 SING!
 
-Everybody's talkin all this stuff about me (yeah) 
-Why don't they just let me live (Tell me why) 
-I don't need permission (I don't need) 
-Make my own decisions (my own decisions) 
+Everybody's talkin all this stuff about me (yeah)
+Why don't they just let me live (Tell me why)
+I don't need permission (I don't need)
+Make my own decisions (my own decisions)
 That's my prerogative
 It's my prerogative
 (It's my prerogative)
@@ -189,8 +189,4 @@ Why don't they just let me live
 I don't need permission (I don't need)
 Make my own decisions (My own decisions)
 That's my prerogative
-
-
-
-
 

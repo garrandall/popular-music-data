@@ -49,8 +49,8 @@ Ferragamo for freak-o, I seize this cappuccino
 Baby, Im beating nino, that your boyfriend, I bet you he know
 Got your girl saying I want to do foo-foo
 Got your girl at my front door in a tutu
-Yeah, she got that million dollar mouth, ooh, ooh
-Spenz and dyeing on a beast, say ooh, ooh
+Yeah, she got that million dollar mouth, oh, oh
+Spenz and dyeing on a beast, say oh, oh
 See me, baby, now Imma do it
 She told me smack her on the booty
 She say I got too many hoes

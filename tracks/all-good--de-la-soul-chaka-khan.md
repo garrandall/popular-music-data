@@ -23,10 +23,10 @@ rankings:
 ---
 
 
-Oooh noo-ohhh, noo-ohhh
-Oooh noo-ohhh, noo-ohhh!
-Oooh noo-ohhh, noo-ohhh
-Oooh noo-ohhh, noo-ohhh!
+Oh noo-oh, noo-oh
+Oh noo-oh, noo-oh!
+Oh noo-oh, noo-oh
+Oh noo-oh, noo-oh!
 
 
 It ain't all good, and that's the truth
@@ -36,7 +36,7 @@ Thangs ain't goin like you think they should - it's all on you
 I don't care about what you think you see
 the thangs you want to know when you look at me
 God knows I done been through and paid my dues
-Can't change how you feel, cause it's - all on you-whoahhha-ohhh-yeah
+Can't change how you feel, cause it's - all on you-whoahhha-oh-yeah
 
 
 I wish that, you could be a little bit more upfront
@@ -65,7 +65,7 @@ It's better for me, I'm satisfied with reppin for D
 
 We were certified hot, then dropped to lukewarm
 Now we back up in the spot, claimin never been gone
-Niggaz who cut us off, wanna reattach us now
+Niggas who cut us off, wanna reattach us now
 (Them girls who brushed us off, say they want some #'s to dial)
 Yeah I give that ass a number, and some lumber to pile
 Now catch a curve from my kick (or show me lovin by brick)
@@ -101,11 +101,5 @@ cause I'm never gonna let you up inside my maze
 I don't care about what you think you see
 the thangs you want to know when you look at me
 God knows I done been there and paid my dues
-I can't change how you feel, cause it's all, on you-whoahhha-ohhhhh
-
-
-
-
-
-
+I can't change how you feel, cause it's all, on you-whoahhha-oh
 

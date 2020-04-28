@@ -218,6 +218,6 @@ But everything means nothing
 If I ain't got you, yeah
 
 
-If I ain't got you with me, baby, oh, ooh
+If I ain't got you with me, baby, oh, oh
 Said nothing in this whole wide world don't mean a thing
 If I ain't got you with me, baby

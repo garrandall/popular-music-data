@@ -98,7 +98,7 @@ Wake up, wake up, wake up, wake up!
 
 Oh, baby now let's get down tonight
 
-Ooh baby, I'm hot just like an oven
+Oh baby, I'm hot just like an oven
 I need some lovin'
 And baby, I can't hold it much longer
 It's getting stronger and stronger
@@ -140,7 +140,7 @@ Helps to relieve the mind, and it's good for us
 
 Sexual healing, baby, it's good for me
 Sexual healing is something that's good for me
-Well, it's good for me and it's so good to me my baby, ohh
+Well, it's good for me and it's so good to me my baby, oh
 
 Come take control, just grab a hold
 Of my body and mind, soon we'll be making it, honey

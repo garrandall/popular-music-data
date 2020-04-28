@@ -64,7 +64,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
 ---
-I've been crying (Ooh, ooh)
+I've been crying (Oh, oh
 'Cause I'm lonely (For you)
 Smiles have all turned (To tears)
 But tears won't wash away the fears
@@ -102,10 +102,10 @@ See about you baby
 (Come see about me)
 
 
-Sometime's up (ooh, ooh)
-Sometime's down (ooh, ooh)
-My life's so uncertain (ooh, ooh)
-With you not around (ooh, ooh)
+Sometime's up (oh oh
+Sometime's down (oh oh
+My life's so uncertain (oh oh
+With you not around (oh oh
 
 
 From my arms you maybe out of reach

@@ -61,7 +61,6 @@ My two brothers and me
 Keepin' the faith
 Racin' with destiny
 
-Chorus
 
 They were angels in waiting
 Waiting for wings to fly from this world

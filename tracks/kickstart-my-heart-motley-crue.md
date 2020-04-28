@@ -85,8 +85,8 @@ Custom built bike doing 103
 My heart, my heart
 Kickstart my heart
 
-Ooh, are you ready girls?
-Ooh, are you ready now?
+Oh, are you ready girls?
+Oh, are you ready now?
 Whoa, yeah
 Kickstart my heart
 Give it a start
@@ -134,7 +134,7 @@ Adrenaline rushing
 Through my veins
 And I'd say we're still kickin' ass
 
-I said, ooh, ah
+I said, oh ah
 Kickstart my heart
 Hope it never stops
 And to think, we did all of this to rock

@@ -80,10 +80,10 @@ Forget me not
 You're all I got
 Forget me not
 
-Forget the dating ev'ry Friday night
+Forget the dating every Friday night
 I ain't a gonna let you out of sight
 I'm going out and buy a wedding ring
-So you can start forgetting ev'ry thing
+So you can start forgetting every thing
 Forget me not
 Forget me not
 You're all I got

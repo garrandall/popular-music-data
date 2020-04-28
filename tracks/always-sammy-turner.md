@@ -77,8 +77,8 @@ Always
 Not for just an hour
 No, not for just a day
 Not for just a year but always
-Ooooh yeah
+Oh yeah
 Oh always
 Fade:
-Ooooh yeah
+Oh yeah
 Oh always

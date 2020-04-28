@@ -24,14 +24,14 @@ rankings:
 Jack went up the hill for Jill
 To get her a pail of water
 To show her that he loved her
-(Ooh, he loved her)
+(Oh, he loved her)
 He really, really loved her
-(Ooh, he loved her)
+(Oh, he loved her)
 
 Romeo told Juliet
 Something that she could never forget
 To show he loved her
-(Ooh, he loved her)
+(Oh, he loved her)
 He really, really loved her
 
 Whoa,  in a storybook
@@ -47,14 +47,14 @@ We got a love that's really real
 He was such a determined fella
 He searched all over for Cinderella
 To show he loved her
-(Ooh, he loved her)
+(Oh, he loved her)
 He really, really loved her
-(Ooh, he loved her)
+(Oh, he loved her)
 
 Mary's lamb was white as snow
 He followed her wherever she'd go
 To show he loved her
-(Ooh, he loved her)
+(Oh, he loved her)
 He really, really loved her
 
 Whoa,  in a storybook

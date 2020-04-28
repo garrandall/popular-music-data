@@ -31,18 +31,18 @@ Blueface, baby
 Yeah, aight
 (CÃ¡llate, Mike Crook)
 I'm her daddy, I don't even know her mama
-Ooh
+Oh
 
-She call me daddy, I don't even know her mama (Ooh)
+She call me daddy, I don't even know her mama (Oh
 She gon' do it for some Dolce Gabbana
 Louis, Gucci, Fendi, Prada (Designer)
 With no strings attached like Balenciaga (Yeah, aight)
-She call me daddy, I don't even know her mama (Ooh)
+She call me daddy, I don't even know her mama (Oh
 She gon' do it for some Dolce Gabbana
 Louis, Gucci, Fendi, Prada (Designer)
 With no strings attached like Balenciaga (Yeah, aight)
 
-Ooh, look at all these hoes I'm attractin'
+Oh look at all these hoes I'm attractin'
 She blew me, so I blew a bag on her fashion
 Sexual relations with no strings attached (No strings attached)
 I just got her new Fendis, with no strings attached (Bop, bop)
@@ -57,11 +57,11 @@ This ain't no waitin' room, baby, ain't no room for waitin'
 I can't even tell the time, this AP decoration
 Baby, make it clap like a celebration
 
-She call me daddy, I don't even know her mama (Ooh)
+She call me daddy, I don't even know her mama (Oh
 She gon' do it for some Dolce Gabbana
 Louis, Gucci, Fendi, Prada (Designer)
 With no strings attached like Balenciaga (Yeah, aight)
-She call me daddy, I don't even know her mama (Ooh)
+She call me daddy, I don't even know her mama (Oh
 She gon' do it for some Dolce Gabbana
 Louis, Gucci, Fendi, Prada (Designer)
 With no strings attached like Balenciaga (Yeah, aight)
@@ -74,22 +74,22 @@ You might get Chanel, you gon' be aight
 Louis, Fendi (Fendi), Balenciaga (Balenciaga)
 If the head trash, I can't give a bitch a dollar
 How the fuck she call me daddy? I ain't met her mama (Met her mama)
-How the fuck I got the Bentley? I ain't had a Honda (Ooh)
+How the fuck I got the Bentley? I ain't had a Honda (Oh
 Bust down for the gang
 Eliantte bust down on the chain
 For the Dolce Gabbana, she clappin'
 The pussy too wet, get a napkin (Rich)
 
 
-She call me daddy, I don't even know her mama (Ooh)
+She call me daddy, I don't even know her mama (Oh
 She gon' do it for some Dolce Gabbana
 Louis, Gucci, Fendi, Prada (Designer)
 With no strings attached like Balenciaga (Yeah, aight)
-She call me daddy, I don't even know her mama (Ooh)
+She call me daddy, I don't even know her mama (Oh
 She gon' do it for some Dolce Gabbana
 Louis, Gucci, Fendi, Prada (Designer)
 With no strings attached like Balenciaga (Yeah, aight)
-She call me daddy, I don't even know her mama (Ooh)
+She call me daddy, I don't even know her mama (Oh
 She gon' do it for some Dolce Gabbana
 Louis, Gucci, Fendi, Prada (Designer)
 With no strings attached like Balenciaga (Yeah, aight)

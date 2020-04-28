@@ -88,7 +88,7 @@ I'd like to hold her head underwater
 Me and my girl
 We've got a relationship
 Me and my girl, mmm
-We got a relationship, mmm-hmm
+We got a relationship, mmm-hm
 My girl
 We got a relationship, oh
 And my girl

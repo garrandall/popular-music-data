@@ -83,7 +83,7 @@ rankings:
 
 
 It's not my way, to talk to strangers
-But I feel like I already know you, ooh
+But I feel like I already know you, oh
 And if you need somebody
 I wanna manage you, huh
 I can tell that you've been through some changes in your past, relationships
@@ -91,7 +91,7 @@ But come on and walk through that door
 Cause I'm what you've been waitin for
 Whatever's on your mind (let it all)
 Girl we've got lots of time (we can talk)
-Through all the good times and bad times 
+Through all the good times and bad times
 
 
 I wanna be the gots ta be in your life
@@ -106,7 +106,7 @@ Gotta be, gotta be, gotta be your everything
 
 
 Girl you just can't love anybody
-I take it I'm the right one for you, ooh
+I take it I'm the right one for you, oh
 But you gots to believe me
 Cause everything that I tell you is true, yeah
 I wanna be your mother, your father, your brother, and your sister too
@@ -132,7 +132,7 @@ Gotta be, gotta be, gotta be your everything
 Listen
 Things aren't always gonna be, be so easy girl
 And I can let you know for sure that I gonna always be right here
-(right here for the long run)   
+(right here for the long run)
 I might make you mad, you cuss me out, but your still my girl
 And I promise that I'll never put my hands on you girl
 I wanna be everything to you girl
@@ -140,7 +140,7 @@ I wanna be everything to you girl
 
 Gots ta be the one you that you can't stand
 Gots ta be the one you call your man
-Gots ta be the one to put a ring on that hand 
+Gots ta be the one to put a ring on that hand
 Gotta be, gotta be, gotta be your everything
 Gots ta be the one you can't forget
 Gots ta be the one that you regret

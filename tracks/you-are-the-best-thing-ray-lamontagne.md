@@ -13,70 +13,70 @@ rankings:
   start_date: '2008-11-01'
 ---
 
-Baby 
+Baby
 It's been a long day,
-Baby 
-Things ain't been going my way 
+Baby
+Things ain't been going my way
 You know I need you here
 To clear my mind
-All the time 
+All the time
 
-And baby 
+And baby
 The way you move me,
-It's crazy 
-It's like you see right through me 
-And make it easier 
+It's crazy
+It's like you see right through me
+And make it easier
 Believe me,
-You don't even have to try 
+You don't even have to try
 
-Oh, because 
+Oh, because
 
-You are the best thing 
-(you're the best thing) 
-You are the best thing 
-(you're the best thing, baby) 
-You are the best thing 
-(you're the best thing, ooh) 
-Ever happened to me 
-
-Baby 
-We've come a long way 
-Baby 
-You know I hope and I pray 
-That you believe me 
-When I say
-This love will never fade away 
-
-Oh, because 
-
-You are the best thing 
-(you're the best thing) 
-You are the best thing 
-(you're the best thing, baby) 
-You are the best thing 
-(you're the best thing, ooh) 
-Ever happened to me 
-
-Both of us have known love before,
-To come on all promising like a spring 
-Then walk on out the door
-Our hearts are strong and our hearts are kind 
-Let me tell you just exactly what's on my mind 
-
-You are the best thing 
-(you're the best thing) 
-You are the best thing 
-(you're the best thing, baby) 
-You are the best thing 
-(you're the best thing, ooh) 
+You are the best thing
+(you're the best thing)
+You are the best thing
+(you're the best thing, baby)
+You are the best thing
+(you're the best thing, oh)
 Ever happened to me
 
-You are the best thing 
-(you're the best thing) 
-You are the best thing 
-(you're the best thing, baby) 
-You are the best thing 
-(you're the best thing, ooh) 
+Baby
+We've come a long way
+Baby
+You know I hope and I pray
+That you believe me
+When I say
+This love will never fade away
+
+Oh, because
+
+You are the best thing
+(you're the best thing)
+You are the best thing
+(you're the best thing, baby)
+You are the best thing
+(you're the best thing, oh)
+Ever happened to me
+
+Both of us have known love before,
+To come on all promising like a spring
+Then walk on out the door
+Our hearts are strong and our hearts are kind
+Let me tell you just exactly what's on my mind
+
+You are the best thing
+(you're the best thing)
+You are the best thing
+(you're the best thing, baby)
+You are the best thing
+(you're the best thing, oh)
+Ever happened to me
+
+You are the best thing
+(you're the best thing)
+You are the best thing
+(you're the best thing, baby)
+You are the best thing
+(you're the best thing, oh)
 Ever happened to me
 
 You are the best thing

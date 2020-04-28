@@ -45,7 +45,7 @@ rankings:
   start_date: '1974-11-23'
 ---
 Distant lover, lover (lover, lover, lover)
-Ooh, so many miles away
+Oh, so many miles away
 Heaven knows that I long for you
 Every night, every night
 And sometimes I yearn through the day
@@ -69,7 +69,7 @@ Everything seemed to explode
 Now I gaze out my window, sugar down a lonesome road
 
 
-Distant lover, ooh sugar
+Distant lover, oh sugar
 How can you treat my heart so mean and cruel
 Sugar, sugar
 That every moment that I spend with you I treasured it

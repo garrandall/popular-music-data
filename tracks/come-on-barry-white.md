@@ -23,7 +23,7 @@ You like to play
 Just look at you
 All those subtle little movements
 You like to play
-Baby believe me when i say
+Baby believe me when I say
 I just love to play with you
 
 Come on come on girl
@@ -45,8 +45,8 @@ Right here baby
 
 There's no other like you in this world
 Oh no baby, nah baby
-You're so pretty i could eat you girl
-Don't stop baby, ahh baby
+You're so pretty I could eat you girl
+Don't stop baby, ah baby
 
 I love you night and day
 In this this all the way

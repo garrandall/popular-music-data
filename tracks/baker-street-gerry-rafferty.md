@@ -104,9 +104,6 @@ Another year and then you'll be happy
 Just one more year and then you'll be happy
 But you're cryin', you're cryin' now
 
-
-
-
 Way down the street there's a light in his place
 He opens the door he's got that look on his face
 And he asks you where you've been

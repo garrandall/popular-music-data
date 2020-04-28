@@ -83,7 +83,7 @@ No, I don't,
 It's true
 I don't, no, I don't, no, I don't, no, I don't want anybody else but you
 
-Ooooh ooh ooh
+Oh oh oh
 
 Call it magic
 Cut me into two
@@ -111,10 +111,10 @@ And I call it magic
 And I call it true
 I call it magic
 
-Ooooh ooh ooh
-Ooooh ooh ooh
-Ooooh ooh ooh
-Ooooh ooh ooh
+Oh oh oh
+Oh oh oh
+Oh oh oh
+Oh oh oh
 
 And if you were to ask me
 After all that we've been through

@@ -1,6 +1,6 @@
 ---
 artists:
-- Missy "Misdemeanor" Elliott
+- Missy Elliott
 features: []
 genres: []
 key: get-ur-freak-on-missy--misdemeanor--elliott
@@ -123,7 +123,7 @@ And if you want me (nigga)
 Then come and get me now (bounce)
 Is you with me now (bounce)
 The biggie biggie bounce (bounce)
-I kno you dig the way i sw.sw... switched ma style
+I kno you dig the way I sw.sw... switched ma style
 (Holla) People sing around
 Now people gather round
 Now people jump around
@@ -152,15 +152,15 @@ Getcho freak on.(go)
 Getcho freak on.(go)
 Getcho freak on.(go)
 Getcha Getcha Getcha Getcha Getcha freak on
-Quiet!!!
+Quiet!
 Shh, hush yo mouth
 Silence when I, spit it out
 In yo face
 Open yo mouth, Give you a taste
 (Holla) Aint no stoppin me
-Copywritten so, dont copy me
+Copywritten so, don't copy me
 Yall do it, sloppily
-And yall cant come, close to me (yes)
+And yall can't come, close to me (yes)
 I know you feel me now (yes)
 I know you hear me loud (yes)
 I scream it loud and proud (yes)

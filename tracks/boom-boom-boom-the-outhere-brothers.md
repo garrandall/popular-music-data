@@ -142,9 +142,9 @@ Here comes the Brother with the offbeat flow
 
 I just fell from the mothership
 Outhere Brothers 'bout to rip it on another tip, slip
-Don't trip, check out how i do it
+Don't trip, check out how I do it
 Malik is in the house I turn your body into fluid
-As i come from the depths of Doom
+As I come from the depths of Doom
 I snap back at you ow! with the boom
 
 I say boom boom boom let me hear u say wayo

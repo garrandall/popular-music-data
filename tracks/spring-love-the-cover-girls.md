@@ -50,9 +50,6 @@ New love has grown
 It looks like springtime
 From now on
 
-
-
-
 Spring love
 You're on my mind
 You bring love to me all the time

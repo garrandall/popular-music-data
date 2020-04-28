@@ -87,7 +87,7 @@ rankings:
 
 Ohhhh
 Oh
-Ooohhh, ooohhh
+Oh, oh
 Oh Yea
 
 I want you all to myself

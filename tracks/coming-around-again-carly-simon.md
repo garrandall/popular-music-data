@@ -135,4 +135,4 @@ I believe in love (I believe in love)
 I believe in love (I believe in love)
 But it's coming around again
 
-Oooh!
+Oh!

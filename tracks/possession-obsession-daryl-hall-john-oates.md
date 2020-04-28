@@ -105,10 +105,10 @@ I hear you say gimme gimme
 Now gimme gimme gimme
 Gimme gimme possession
 
-Ooh, gimme gimme gimme
+Oh, gimme gimme gimme
 Gimme gimme gimme
 
-Ooh, it's a case of
+Oh, it's a case of
 Possession obsession
 Just a taste of
 Possession obsession

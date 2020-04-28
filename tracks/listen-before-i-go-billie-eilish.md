@@ -25,13 +25,13 @@ Sorry can't save me now
 Sorry I don't know how
 Sorry there's no way out (Sorry)
 But down
-Hmm, down
+Hm, down
 
 Taste me, the salty tears on my cheek
 That's what a year-long headache does to you
 I'm not okay, I feel so scattered
 Don't say I'm all that matters
-Leave me, dÃ©jÃ  vu (Hmm)
+Leave me, dÃ©jÃ  vu (Hm)
 
 If you need me, wanna see me
 You better hurry, I'm leavin' soon
@@ -40,7 +40,7 @@ Sorry can't save me now (Sorry)
 Sorry I don't know how (Sorry)
 Sorry there's no way out (Sorry)
 But down
-Hmm, down
+Hm, down
 
 Call my friends and tell them that I love them
 And I'll miss them

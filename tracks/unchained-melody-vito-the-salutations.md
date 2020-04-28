@@ -36,11 +36,11 @@ rankings:
 Oh, my love, my darling
 I've hungered for your
 Touch, touch, touch, touch, touch
-Whooo-ooh, ooh-ooh-ooh-ooh
+Whooo-oh, oh-oh-oh-oh
 Time goes by so slowly
 And time can do so much
 Much, much, much, much, much
-Whooo-ooh, ooh-ooh-ooh-ooh
+Whooo-oh, oh-oh-oh-oh
 Are you still mine
 I need your love
 I need your love
@@ -54,11 +54,11 @@ I'll be coming home, wait for me
 Oh, my love, my darling
 I've hungered for your
 Touch, touch, touch, touch, touch
-Whooo-ooh, ooh-ooh-ooh-ooh
+Whooo-oh, oh-oh-oh-oh
 Time goes by so slowly
 And time can do so much
 Much, much, much, much, much
-Whooo-ooh, ooh-ooh-ooh-ooh
+Whooo-oh, oh-oh-oh-oh
 Are you still mine
 I need your love
 I need your love
@@ -66,4 +66,4 @@ God speed your love to me
 Oh, my love, my darling
 I've hungered for your
 Touch, touch, touch, touch, touch
-Whooo-ooh, ooh-ooh-ooh-ooh
+Whooo-oh, oh-oh-oh-oh

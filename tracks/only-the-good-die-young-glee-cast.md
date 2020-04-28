@@ -44,7 +44,7 @@ Only the good die young
 
 You got a nice white dress and a party on your confirmation
 You got a brand new soul
-Ooh, and a cross of gold
+Oh and a cross of gold
 But, Virginia, they didn't give you quite enough information
 You didn't count on me
 When you were counting on your rosary, woah, oh, oh
@@ -76,6 +76,6 @@ Only the good die young
 
 Only the good...
 Only the good die young
-Ooh, ooh
-Ooh hoo, ooh hoo
-Ooh hoo!
+Oh oh
+Ohhoo, ohhoo
+Ohhoo!

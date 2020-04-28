@@ -92,12 +92,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-05-05'
 ---
-D-mob Introducing Cathy Dennis
-Miscellaneous
-C'mon And Get My Love
-C'mon And Get My Love
-D-Mob Introducing Cathy Dennis
-Written by D. Poku
 C'mon & get my love, c'mon and get my love it's for you
 Break it down
 So many times I've been around you
@@ -117,7 +111,7 @@ In these dreams I won't forget
 It seems so long we've been together
 Since way back then
 And only if you knew how much I loved you
-You'd turn to me and say.....
+You'd turn to me and say...
 Let's just say that our love is right
 Would you kiss and hold me tight
 Cos I want to hold you and squeeze you
@@ -132,8 +126,6 @@ C'mon & get my love, c'mon & get my love it's for you
 If there's been a time that I needed you
 Then the time is now
 I want to see you every hour
-When I think I always hear you say....
+When I think I always hear you say...
 C'mon & get my love, c'mon & get my love it's for you
 C'mon & get my love, c'mon & get my love it's for you
-Repeat Rap.....
-Chorus & fade

@@ -82,7 +82,7 @@ Don't hesitate
 'Cause your love won't wait
 
 
-Ooh, baby, I love your way
+Oh, baby, I love your way
 Wanna tell you I love your way
 Wanna be with you night and day
 
@@ -97,7 +97,7 @@ But don't hesitate
 'Cause your love won't wait, yeah
 
 
-Ooh, baby, I love your way
+Oh, baby, I love your way
 Wanna tell you I love your way
 Wanna be with you night and day
 
@@ -117,7 +117,7 @@ But don't hesitate
 'Cause your love won't wait, oh
 
 
-Ooh, baby, I love your way
+Oh, baby, I love your way
 Wanna tell you I love your way
 Wanna be with you night and day
-Ooh, baby, I love your way
+Oh, baby, I love your way

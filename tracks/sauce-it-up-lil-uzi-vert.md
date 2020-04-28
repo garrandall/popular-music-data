@@ -81,15 +81,15 @@ Lil Uzi Vert
 (Going dumb, hey, going nuts)
 
 
-Ooh, sauce it up (Sauce it up)
-Ooh, do too much (Do too much)
+Oh sauce it up (Sauce it up)
+Oh do too much (Do too much)
 Ain't enough (Ain't enough)
 Ain't enough (Ain't enough)
 Where you from? (Where you from?)
 Throw it up (Throw that shit up)
 Goin' nuts (Yeah), goin' dumb
-Ooh, sauce it up (Sauce it up)
-Ooh, do too much (Do too much)
+Oh sauce it up (Sauce it up)
+Oh do too much (Do too much)
 Ain't enough (Ain't enough)
 Ain't enough (Ain't enough)
 Where you from? (Where you from?)
@@ -101,7 +101,7 @@ Goin' dumb (Slatt, slatt)
 Everyday I'm ballin', so you know I'm scorin' (Ball)
 I feel so important, my pockets enormous (Enormous)
 These niggas keep hatin', this is their last warning
-Met that girl last night, ooh, fucked her through the morning
+Met that girl last night, oh fucked her through the morning
 I don't know no girl I'm sorry (Ayy), hangup, girl, don't call me (Call)
 No, no, you will not have me caught up all up on Maury (Hello)
 Cash shower (Cash shower), make it rain, no game, Atari
@@ -113,16 +113,16 @@ I was in a Lamb', Carti, he was in a 'Rari (What? Skrrt)
 I'ma keep on flexin', you don't like me then I'm sorry (Sorry)
 
 
-Ooh, sauce it up (Sauce it up)
-Ooh, do too much (Do too much)
+Oh sauce it up (Sauce it up)
+Oh do too much (Do too much)
 Ain't enough (Ain't enough)
 Ain't enough (Ain't enough)
 Where you from? (Where you from?)
 Throw it up (Throw that shit up)
 Goin' nuts (Yeah)
 Goin' dumb
-Ooh, sauce it up (Sauce it up)
-Ooh, do too much (Do too much)
+Oh sauce it up (Sauce it up)
+Oh do too much (Do too much)
 Ain't enough (Ain't enough)
 Ain't enough (Ain't enough)
 Where you from? (Where you from?)
@@ -148,16 +148,16 @@ And you think you in love, don't want hurt you (Woah)
 Man, I think that I'm done, gotta swerve you (Swerve)
 
 
-Ooh, sauce it up (Sauce it up)
-Ooh, do too much (Do too much)
+Oh sauce it up (Sauce it up)
+Oh do too much (Do too much)
 Ain't enough (Ain't enough)
 Ain't enough (Ain't enough)
 Where you from? (Where you from?)
 Throw it up (Throw that shit up)
 Goin' nuts (Yeah)
 Goin' dumb (Oh)
-Ooh, sauce it up (Sauce it up)
-Ooh, do too much (Do too much)
+Oh sauce it up (Sauce it up)
+Oh do too much (Do too much)
 Ain't enough (Ain't enough)
 Ain't enough (Ain't enough)
 Where you from? (Where you from?)
@@ -171,10 +171,10 @@ I'm so awesome
 These niggas so bad, it's exhaustin'
 I swear I'm a stunner like Steve Austin
 I swear I'm a stunner like Steve Austin
-Ooh, sauce it up
-Ooh, do too much
-Ooh, where you from?
-Ooh, throw it up
-Ooh, going nuts
-Ooh, going dumb (Dumb, dumb)
+Oh sauce it up
+Oh do too much
+Oh where you from?
+Oh throw it up
+Oh going nuts
+Oh going dumb (Dumb, dumb)
 Lil Uzi Vert

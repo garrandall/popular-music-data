@@ -181,9 +181,6 @@ Swimming through sick lullabies, choking on your alibis
 But it's just the price I pay, destiny is calling me
 Open up my eager eyes, 'cause I'm Mr. Brightside
 
-
-
-
 I'm coming out of my cage and I've been doing just fine
 Gotta gotta be down because I want it all
 It started out with a kiss, how did it end up like this?

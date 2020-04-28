@@ -108,11 +108,3 @@ Daddy called me to his side
 He held me with his tremblin hands
 Right before he died
 
-
-
-
-
-
-
-
-

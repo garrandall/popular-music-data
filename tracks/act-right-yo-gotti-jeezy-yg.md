@@ -50,11 +50,6 @@ All my nigga sell dope or gang bang
 Me and cash get the act right
 You ain't in a foreign you don't look right
 
-
-
-
-
-
 I'm a tell ya off top mother fuck free Boosie
 Ridin' in my Lamborghini with the dope man uzi
 Thinkin' came with a step might be the shit
@@ -72,11 +67,6 @@ Kilo all day motherfucker I'm trippin'
 But if you run up on me think I'm slippin'
 Michael Jordan with the chopper man I hit you like Pippen act right
 
-
-
-
-
-
 Goin' goin' back back to the bank
 Rest in peace to my safe
 I'm a fly nigga nigga I take your ho
@@ -93,10 +83,4 @@ All gold everything like Trinidad
 I went to high school with you bitch you been a rat
 I don't got money problems, I got trust issues
 Two things I gotta stay is with the two pistols
-
-
-
-
-
-
 

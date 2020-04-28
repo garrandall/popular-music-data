@@ -75,20 +75,20 @@ Under my umbrella (I'm singin')
 Ella, ella, eh eh eh eh eh eh (Singin' in the rain...)
 
 It's rainin', rainin'
-Ooh, baby it's rainin', rainin'
+Oh, baby it's rainin', rainin'
 Baby, come here to me
 Come here to me
 It's rainin', rainin'
-Ooh, baby it's rainin', rainin' (More than ever)
+Oh, baby it's rainin', rainin' (More than ever)
 Baby, come here to me
 Come here to me
 
 It's rainin', rainin' (I'm singin' in the rain)
-Ooh, baby it's rainin', rainin' (Just singin' in the rain)
+Oh, baby it's rainin', rainin' (Just singin' in the rain)
 Baby, come here to me (What a glorious feeling)
 Come here to me (And I'm happy again)
 It's rainin', rainin' (I'm laughing at clouds)
-Ooh, baby it's rainin', rainin' (So dark, up above)
+Oh, baby it's rainin', rainin' (So dark, up above)
 Baby, come here to me (The sun's in my heart)
 And I'm ready for love
 

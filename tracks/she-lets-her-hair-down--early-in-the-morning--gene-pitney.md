@@ -29,7 +29,7 @@ rankings:
   start_date: '1970-01-24'
 ---
 She walks barefoot through the meadow early in the mornin'
-Early in the mornin' ev'ry day
+Early in the mornin' every day
 And she wakes up the sleepin' flowers early in the mornin'
 Early in the mornin' on the way
 
@@ -49,7 +49,7 @@ And the morning glows bright with a newborn light
 Yes, the morning glows bright
 
 She walks barefoot through the meadow early in the mornin'
-Early in the mornin' ev'ry day
+Early in the mornin' every day
 
 And the morning glows bright with a newborn light
 Yes, the morning glows bright

@@ -184,7 +184,7 @@ Sisters and brothers
 (That's the look, that's the look)
 Should help each other
 (That's the look, that's the look)
-Ooh, ooh Heavens above
+Oh, ohHeavens above
 (That's the look, that's the look)
 Hip hip hooray
 (That's the look, that's the look)

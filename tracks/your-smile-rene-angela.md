@@ -34,7 +34,7 @@ rankings:
   start_date: '1986-04-26'
 ---
 Smile
-Ooh, ooh
+Oh, oh
 Smile
 Smile
 
@@ -88,7 +88,7 @@ Your smile (Your smile), oh, oh
 No other love can light my life
 No one can make things right 'til my baby smiles
 You move the earth and shake my world
-Ooh, I melt with love
+Oh, I melt with love
 No other love can light my life
 No one can make things right 'til my baby smiles
 A sweet caress and tenderness
@@ -103,6 +103,6 @@ When I'm down (Your smile), feeling low
 The sun can shine again (Your smile)
 No other love (Your smile) can light my life
 No one can make things right (Your smile) 'til my baby smiles
-(Your smile) Ooh, ooh (Your smile) woo
+(Your smile) Oh, oh (Your smile) woo
 No other love (Your smile) can light my life
 No one can make things right (Your smile) 'til my baby smiles

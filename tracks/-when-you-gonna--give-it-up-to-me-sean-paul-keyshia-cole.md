@@ -176,7 +176,7 @@ From ya look inna mi eye gal I see seh ya want me
 When you gonna give it up to me
 Because ya body enticin' ya makin mi horny
 When ya gonna give it up to me
-Well if a no today girl then a must be tomorrow (Oooh, oooh, oooh)
+Well if a no today girl then a must be tomorrow (Oh, oh, oh)
 When you fulfill my fantasy
 Because ya know I give ya lovin' straight like an arrow
 When ya gonna give it up to me
@@ -184,7 +184,7 @@ From ya look inna mi eye gal I see seh ya want me
 When you gonna give it up to me
 Because ya body enticin' ya makin mi horny
 When ya gonna give it up to me
-Well if a no today girl then a must be tomorrow (Oooh, oooh, oooh)
+Well if a no today girl then a must be tomorrow (Oh, oh, oh)
 When you fulfill my fantasy
 Because ya know I give ya lovin' straight like an arrow (baby)
 When ya gonna give it up to me
@@ -192,7 +192,7 @@ When ya gonna give it up to me
 
 Oh ah oh (Yeah yeah, yo yo)
 Oh ah oh (Sean-A-Paul and ya know we a nuh go yo)
-Oh ah oh, oooh oh ah oh (Di S.P. and we deh yah pon di go yo)
-Oooh oooh oooh (Sean Paul, Keyshia Cole and Don Corleon, a next chapter)
+Oh ah oh, oh oh ah oh (Di S.P. and we deh yah pon di go yo)
+Oh oh oh (Sean Paul, Keyshia Cole and Don Corleon, a next chapter)
 Oh ah oh (Yah mon fah all my girls ya know)
-Oooh oh ah oh (Keep it keep it keep it keep it sexy)
+Oh oh ah oh (Keep it keep it keep it keep it sexy)

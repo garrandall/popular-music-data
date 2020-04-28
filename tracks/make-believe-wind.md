@@ -44,12 +44,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
 ---
-Wind
-Miscellaneous
-Make Believe
-Make Believe
-Wind
-Written by Bo Gentry and Joey Levine (I think)
 I know, you know
 Everybody knows it's true
 I'm in love
@@ -76,4 +70,3 @@ It's only make believe to you, girl
 It's only make believe, you're driving me insane
 It's only make believe to you, girl
 Baby, baby, baby, baby, I can't take the pain
-From: John Hedin

@@ -40,7 +40,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-07-08'
 ---
-Ahh, you said a bad word
+Ah, you said a bad word
 I'm gonna tell your mama on you, huh
 She gonna whip you, too, huh
 Yeah, that's what's she's gonna do

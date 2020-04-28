@@ -133,7 +133,3 @@ Straight action on the carpet, rug burns on my knees
 Now you're on the phone like damn I made a mess
 Got my hands in my pants, man, I love phone sex
 
-
-
-
-

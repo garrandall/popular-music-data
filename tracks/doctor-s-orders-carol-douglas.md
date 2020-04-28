@@ -73,8 +73,8 @@ rankings:
   start_date: '1975-03-15'
 ---
 :
-(Ooh, ooh, ooh, ooh
-Ooh, ooh, ooh, ooh)
+(Oh, oh, oh, oh
+Oh, oh, oh, oh)
 
 Doctor's orders say there's only one thing for Me
 Nothing He can do, 'cause only You can cure Me
@@ -97,8 +97,8 @@ Doctor's orders say,
 One kiss from You and I am out of danger
 
 :
-(Ooh, ooh, ooh, ooh,
-Ooh, ooh, hey, hey, hey, hey)
+(Oh, oh, oh, oh,
+Oh, oh, hey, hey, hey, hey)
 
 Doctor's orders say there's only one thing for Me
 Nothing He can do, 'cause only You can cure Me

@@ -150,9 +150,6 @@ She got down but she never got tired
 She's gonna make it through the night
 She's gonna make it through the night
 
-
-
-
 But mama, that's where the fun is
 But mama, that's where the fun is
 Mama always told me not to look into the eyes of the sun

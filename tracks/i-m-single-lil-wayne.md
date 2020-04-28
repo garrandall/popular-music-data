@@ -43,7 +43,7 @@ And my homeboy say he got a badd bitch for me tonight
 Dreads braided to the back
 Im chillin but my swagg on full attack haha
 And my girl actin like a brat
-So wen she call I dont answer I jus write her back
+So wen she call I don't answer I jus write her back
 She hate it wen I do dat shit
 And wen I get home she go thru my shit
 She call numbers back to c who dat is
@@ -94,7 +94,7 @@ And my homeboy say he got a badd bitch for me tonight!
 
 (yea) if u single den put ya hands up
 If u single (uh) den put ya hands up (uh)
-If u single (uh) put ya..if ya single tonight
+If u single (uh) put ya...if ya single tonight
 
 Hahaha aww let me cut my phone back on man
 Sorry but I gotta go back home it's morning (it's moooorning)

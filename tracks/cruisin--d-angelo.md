@@ -86,7 +86,7 @@ And if you want it, you got it forever
 Oh, this is not a one night stand baby
 
 
-Ooh ooh, let the music take your mind
+Ohoh let the music take your mind
 And just release and you will find, baby
 
 

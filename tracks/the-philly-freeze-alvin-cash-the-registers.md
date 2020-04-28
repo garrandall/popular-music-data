@@ -54,13 +54,13 @@ It's Philly Freeze time
 Now when I say freeze, baby
 I want you to stop
 
-Ooh wee
+Oh wee
 
 Come on, baby
 Freeze
 
 Aw, but you're looking good now
-Ooh wee
+Oh wee
 
 Hit it, baby
 Aw, have mercy
@@ -81,7 +81,7 @@ Come on, baby
 Freeze
 
 Aw, have mercy
-Ooh wee
+Oh wee
 
 Aw, but you're looking good now
 

@@ -37,8 +37,8 @@ I guess I must be the most contrary
 Hard to get along with
 Person in this world
 
-Ooh, Lonesome Mary
-Ooh, Lonesome Mary
+Oh, Lonesome Mary
+Oh, Lonesome Mary
 Yeah, yeah, yeah
 
 I went down to see lonesome Mary
@@ -57,8 +57,8 @@ I guess I must be the most contrary
 Hard to get along with
 Person in this world
 
-Ooh, Lonesome Mary
-Ooh, Lonesome Mary
+Oh, Lonesome Mary
+Oh, Lonesome Mary
 Yeah, yeah, yeah, oh, yeah
 
 

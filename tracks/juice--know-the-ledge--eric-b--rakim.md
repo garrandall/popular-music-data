@@ -37,7 +37,7 @@ Get strong on the Island, recoupe, and lay around.
 Time to bulid my juice back up-
 Props back up, suckers get smacked up
 Don't doubt the clout, you know what I'm about
-Knocking niggaz off, knocking niggaz out
+Knocking niggas off, knocking niggas out
 Shaking em up, waking em up
 Raking em up, breaking em up...
 Standing on shaky grounds too close to the edge
@@ -88,7 +88,7 @@ But no warning shot, my gun is warm alot.
 When I cook beef, the smoke will never clear,
 Areas in fear but this here's a fear!
 Living life too close to the edge
-Hoping that I know the ledge....
+Hoping that I know the ledge...
 
 A brand new morn, no time to yawn
 Shower's on, power's on
@@ -96,20 +96,20 @@ Late for school, I catch the train
 Girls sip "Cristal" and whisper my name
 I push up like an exercise,
 Check the intellect and  inspect the thighs
-Select the best one, pull her to the side 
-Keep her occupied for the rest of the ride          
-Read my resume she's know I'm 'ready cool                  
+Select the best one, pull her to the side
+Keep her occupied for the rest of the ride
+Read my resume she's know I'm 'ready cool
 Just meet me after school,
-We can moan and groan until your mom come home , 
+We can moan and groan until your mom come home ,
 And you be calling me Al "dope" Capone.
 Sweatin' me, she didn't want to let me loose-
 Come get me, that's if you want to sip the juice
 Cause the streets await me, so I take my gun off safety
-Cause alot of niggaz hate me
+Cause alot of niggas hate me
 Coming out of the building, they set me up
 Sprayed wit automatics, they wet me up
 In a puddle of blood, I lay close to the edge
-I guess I didn't know the ledge.....
+I guess I didn't know the ledge...
 
 
 

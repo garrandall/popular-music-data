@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: i-ll-keep-you-satisfied-billy-j--kramer-with-the-dakotas
+lyrics_url: https://genius.com/Billy-j-kramer-with-the-dakotas-ill-keep-you-satisfied-lyrics
 name: I'll Keep You Satisfied
 rankings:
 - end_date: '1964-07-31'
@@ -35,4 +36,29 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
 ---
+I'll Keep You Satisfied
+Billy J. Kramer with The Dakotas
+(Lennon/McCartney)
 
+You don't need anybody to hold you
+Here I stand with my arms open wide
+Give me love and remember, what I told you
+I'll keep you satisfied
+You don't need anybody to kiss you
+Every day I'll be here by your side
+Don't go 'way, I'm afraid that I might miss you
+I'll keep you satisfied
+You can always get a simple thing like love anytime
+But it's diff'rent with a boy like me and a love like mine
+So believe ev'rything that I told you
+And agree that with me by your side
+You don't need anybody to hold you
+I'll keep you satisfied
+You can always get a simple thing like love anytime
+But it's diff'rent with a boy like me and a love like mine
+So believe ev'rything that I told you
+And agree that with me by your side
+You don't need anybody to hold you
+I'll keep you satisfied
+Give me love and remember, what I told you
+I'll keep you satisfied

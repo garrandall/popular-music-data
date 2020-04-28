@@ -100,7 +100,7 @@ I like when you run red lights
 Don't stop 'til you thrill me, oh how you thrill me
 Always in control, how you do it, I don't know
 But I don't care, take me anywhere
-'Cause it's beautiful, ooh you make me feel undressable
+'Cause it's beautiful, oh you make me feel undressable
 And I can't pretend that doesn't mean a thing to me, to me, oh yeah
 
 

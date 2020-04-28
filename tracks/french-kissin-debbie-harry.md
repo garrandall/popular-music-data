@@ -67,7 +67,7 @@ French kissin' in the USA
 Lips are in motion
 (Ocean to ocean) Woah
 Paris is calling
-(Falling, we're falling, Oooh Oh Oh)
+(Falling, we're falling, Oh Oh Oh)
 Lips close then blossom like a rose
 (Embrasser c'est Francais, Embrasser c'est Francais)
 Lips wide holding you inside
@@ -84,7 +84,7 @@ French kissin' in the USA
 Lips are in motion
 (Ocean to ocean) Woah
 Paris is calling
-(Falling, we're falling, Oooh Oh Oh)
+(Falling, we're falling, Oh Oh Oh)
 French kissin' in the USA
 French kissin' in the USA
 Hey French kissin'

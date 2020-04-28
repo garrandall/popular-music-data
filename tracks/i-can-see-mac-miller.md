@@ -23,7 +23,7 @@ The feeling amazing
 Now I'm switchin' location
 'Cause Heaven too far when you live in the basement
 I'm lookin' for balance, I'm in an oasis
-Well, I need somebody to save me, hmm
+Well, I need somebody to save me, hm
 Before I drive myself crazy
 
 

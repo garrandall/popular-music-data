@@ -108,7 +108,7 @@ From the front to the back let's go, hear this. Woo!
 
 
 
-Ooooooh, yeah
+Oh, yeah
 
 
 Everybody in the club c'mon keep bobbin' your head now to this song.
@@ -116,19 +116,8 @@ You got the beats and breaks and your body shake, and we're doin' it all night l
 Any time or place, any place or time, no we don't need no sleep.
 Three sixty-five days a year, twenty-four a day, seven days a week.
 
-
-
-
-
-
 From the front to the back c'mon and bob your head, yeah.
 Three sixty-five days a year, twenty-four a day, yeah.
 No we don't need no sleep, all night we rock that beat.
 So you know what to do, just make it move and make it move, yeah.
-
-
-
-
-
-
 

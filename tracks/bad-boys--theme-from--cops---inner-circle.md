@@ -93,7 +93,7 @@ Whatcha want, whatcha want
 Whatcha gonna do
 When sheriff John Brown come for you?
 Tell me, whatcha gonna do?
-Whatcha gonna dooo?
+Whatcha gonna do?
 Yeaheah
 
 

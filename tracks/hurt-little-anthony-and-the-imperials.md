@@ -42,10 +42,10 @@ And we'd never part
 Now you want someone new
 And it breaks my heart
 
-Ooh I'm hurt
+OhI'm hurt
 Much more much more
 Than you'll ever know
-Ooh hurt
+Ohhurt
 Because I still love you so
 But even
 Though you hurt me

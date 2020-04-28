@@ -47,7 +47,7 @@ And I'll watch em roll away again, yeah
 
 (I'm sitting on the dock of the bay)
 Watching the tide (tide roll away)
-Ooh, Lord, sitting on the dock of the bay
+Oh, Lord, sitting on the dock of the bay
 Wasting time, time
 
 I left my home in Georgia
@@ -59,7 +59,7 @@ Gonna come my way
 Let me hear you say
 (I'm sitting on the dock of the bay)
 Watching the tide (tide roll away)
-Ooh, Lord, sitting on the dock of the bay
+Oh, Lord, sitting on the dock of the bay
 And I'm just wasting time
 
 Look like nothing's gonna change
@@ -76,6 +76,6 @@ Just to make this dock my home
 Let me hear you all say now
 (Sitting on the dock of the bay)
 Watching the tide (tide roll away)
-Ooh, Lordy, Lord, now
+Oh, Lordy, Lord, now
 Sitting on the dock of the bay
-And I'm wasting time, ooh
+And I'm wasting time, oh

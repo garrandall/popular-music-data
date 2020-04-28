@@ -25,9 +25,9 @@ rankings:
   start_date: '1989-06-24'
 ---
 
-Oooh, oooh.
-Oooh, oh.
-Oh, oooh, oh, oh, oooh, oooh, oooh.
+Oh, oh
+Oh, oh.
+Oh, ohoh, oh, ohoh, ohoh
 
 I realized that now our love has past.
 Tried so hard to make it last.
@@ -43,7 +43,7 @@ I never understood your reasons why.
 And darlin', I know you never meant to make me cry.  (Me cry)
 Those lonely nights without you,
 I guess it's goodbye.
-Oooh.
+Oh.
 
 I never thought that I could hear you say
 How I should go my own way.
@@ -59,13 +59,13 @@ Oh, oh, oh, darlin', I know you never meant to make me cry.  (Me cry)
 Those lonely nights without you,
 I guess it's goodbye.  Goodbye.
 
-Oh.....oh.  (Darlin', I)
+Oh...oh.  (Darlin', I)
 You never meant to make me cry.
 I never understood your reasons why.
 Oh, oh, oh, darlin', I, you never meant to make me cry.
 Tell me why, tell me why.  Why.  Oh, oh.
 (Darlin', I)  Woo, hoo, yeah.
-You never meant to make me cry. 
+You never meant to make me cry.
 Don't say goodbye.
 
 

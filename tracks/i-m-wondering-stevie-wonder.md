@@ -58,7 +58,7 @@ Well, don't you know I'm wondering
 Little girl, I'm wondering
 How can I make you love me
 A little more than you loved him?
-Ooh,Baby I'm wondering
+Oh,Baby I'm wondering
 Little girl, I'm wondering
 How can I make you love me
 A little more than you loved him?
@@ -95,7 +95,7 @@ Oh baby I'm wondering
 Sure enough, I'm wondering
 How can I make you love me
 A little more than you loved Jim?
-Ooh Baby
+Oh Baby
 
 
 I can't stop loving you, baby

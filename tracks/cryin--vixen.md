@@ -83,9 +83,3 @@ And I won't be cryin', cryin'
 
 The tears are falling to the floor, but you won't catch me cryin' anymore
 
-
-
-
-
-
-

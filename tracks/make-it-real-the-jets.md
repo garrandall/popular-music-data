@@ -119,9 +119,5 @@ And in my heart
 I'll pretend
 That you are here again
 
-
-
-
-
 Give me one more chance
 To make it real

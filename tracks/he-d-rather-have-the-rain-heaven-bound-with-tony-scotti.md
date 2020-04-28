@@ -1,7 +1,8 @@
 ---
 artists:
-- Heaven Bound with Tony Scotti
-features: []
+- Heaven Bound
+features:
+- Tony Scotti
 genres: []
 key: he-d-rather-have-the-rain-heaven-bound-with-tony-scotti
 name: He'd Rather Have The Rain

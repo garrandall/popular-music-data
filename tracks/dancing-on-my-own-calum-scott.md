@@ -26,7 +26,7 @@ And yeah I know it's stupid, but I just gotta see it for myself
 I'm in the corner, watching you kiss her, oh oh oh
 And I'm right over here, why can't you see me? Oh oh oh
 And I'm giving it my all
-But I'm not the guy you're taking home, oooh
+But I'm not the guy you're taking home, oh
 I keep dancing on my own
 
 
@@ -39,7 +39,7 @@ I’m spinning around in circles
 And I'm in the corner, watching you kiss her, oh oh oh
 And I'm right over here, why can't you see me? Oh oh oh
 And I'm giving it my all
-But I'm not the guy you're taking home, ooh
+But I'm not the guy you're taking home, oh
 I keep dancing on my own
 And oh, nah
 
@@ -50,15 +50,15 @@ But you don't see me standing here
 I just came to say goodbye
 
 
-I'm in the corner, watching you kiss her, ohh
+I'm in the corner, watching you kiss her, oh
 And I'm giving it my all
-But I'm not the guy you're taking home, oooh
+But I'm not the guy you're taking home, oh
 I keep dancing on my own
 And oh, nah
 Said I'm in the corner, watching you kiss her, oh​ no
 And I'm right over here, why can't you see me? Oh no
 And I'm giving it my all
-But I'm not the guy you're taking home, ooh
+But I'm not the guy you're taking home, oh
 And I keep dancing on my own
 
 

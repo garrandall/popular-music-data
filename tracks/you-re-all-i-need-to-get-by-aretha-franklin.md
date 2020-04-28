@@ -50,8 +50,8 @@ You're all I need to get by
 You're all I need to get by
 
 You're all I need to get by
-As long as I got you then baby you know that you got me, ohh!
-Cause we got our love and some R-ah-E-S-P-E-C-T, ohh!
+As long as I got you then baby you know that you got me, oh!
+Cause we got our love and some R-ah-E-S-P-E-C-T, oh!
 
 Like sweet morning dew I took one look at you
 And it was plain to see, you where my destiny
@@ -83,7 +83,7 @@ You're all, (Baby baby) You're all I need
 You're all, you're all I need to get by
 Yeah, yeah
 
-As long as I got you then baby you know that you got me, ohh!
-Cause we got our love and some R-ah-E-S-P-E-C-T, ohh!
-As long as I got you then baby you know that you got me, ohh!
+As long as I got you then baby you know that you got me, oh!
+Cause we got our love and some R-ah-E-S-P-E-C-T, oh!
+As long as I got you then baby you know that you got me, oh!
 (You're all I need, you're all I need, you're all I need)

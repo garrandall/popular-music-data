@@ -63,7 +63,7 @@ But it seems like yesterday
 Ain't it funny how time slips right on away
 
 
-Ooh, how's your new love
+Oh, how's your new love
 Oh, I guess she's doing fine
 I heard you told her
 That you were gonna love her 'til the end of time
@@ -72,7 +72,7 @@ And it seems like yesterday
 Ain't it funny how time slips right on away
 
 
-Ooh, gotta go now
+Oh, gotta go now
 Oh I guess I'll see you somewhere around
 I don't know when though
 I'll never know when I'm back in town

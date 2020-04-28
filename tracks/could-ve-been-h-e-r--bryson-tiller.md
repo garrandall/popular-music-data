@@ -48,7 +48,7 @@ We could've (Damn)
 Remember?
 Remember the night in Miami?
 First time you put your arms around me
-I'm up reminiscin' (Ooh, yeah)
+I'm up reminiscin' (Oh yeah)
 And thinking 'bout you isn't helping
 Thinking 'bout you doesn't tell me
 What good it would do if I decide to face the truth

@@ -138,7 +138,7 @@ Whataya want from me
 
 There might have been a time
 When I would give myself away
-(Ooh) Once upon a time
+(Oh) Once upon a time
 I didn't give a damn
 But now here we are
 So whataya want from me

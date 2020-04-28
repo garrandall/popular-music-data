@@ -56,9 +56,6 @@ It's real
 Yes, it's real love
 It's real
 
-
-
-
 From this moment on I know
 Exactly where my life will go
 Seems that all I really was doing
@@ -73,9 +70,6 @@ It's real love
 It's real
 Yes, it's real love
 It's real
-
-
-
 
 Thought I'd been in love before
 But in my heart, I wanted more

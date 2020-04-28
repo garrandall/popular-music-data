@@ -111,7 +111,7 @@ No, no, no
 Could you love me anyway?
 Please
 Could you love me anyway?
-Could you love me anyway? (Oooooh)
+Could you love me anyway? (Oh)
 Could you love me anyway?
 
 

@@ -16,7 +16,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
 ---
-Ahhh, yeah
+Ah, yeah
 C'mon now
 You're looking good
 
@@ -59,7 +59,7 @@ Go On and tell her that you're never gonna leave her
 Tell her that you're always gonna love her
 Tell her, tell her, tell her, tell her right now
 
-Ahhh yeah, go on and tell that girl
+Ah yeah, go on and tell that girl
 
 Tell her that you're never gonna leave her
 Tell her that you're always gonna love her

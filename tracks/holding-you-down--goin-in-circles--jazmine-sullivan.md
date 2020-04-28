@@ -57,7 +57,7 @@ rankings:
   start_date: '2010-11-27'
 ---
 
-Why cant I find somebody else
+Why can't I find somebody else
 When I know
 Know that you're doing wrong
 Its so hard
@@ -66,7 +66,7 @@ Hard to let go
 I done went through just about two bags of tissues baby
 And you're looking at me like you ain't the issue baby
 And though I tried to leave
-I cant stop missing you baby
+I can't stop missing you baby
 And I keep coming
 I keep coming back
 
@@ -81,11 +81,11 @@ But I wanna go
 I wanna go
 But I keep coming back
 
-Why I'm so confused for you, 
+Why I'm so confused for you,
 I have no answer boy
 When I feel so used by you just like a toy
-Its a shame that you don't care enough 
-To even give me half the love I give to you 
+Its a shame that you don't care enough
+To even give me half the love I give to you
 I live for you baby
 I'm ashamed to say that I'm to blame for how you act
 Cuz I keep coming
@@ -101,11 +101,11 @@ But what I can I say
 But I wanna go
 I wanna go
 But I keep coming back
-I cant stop... missing you baby
+I can't stop... missing you baby
 
 I stay cuz I love you
 But I hate that I stay
-You know I won't go 
+You know I won't go
 Thats why you treat me this way
 I want to be happy
 Though it hurts me so bad

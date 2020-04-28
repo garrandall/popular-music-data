@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: you-re-easy-on-the-eyes-terri-clark
+lyrics_url: https://genius.com/Terri-clark-youre-easy-on-the-eyes-lyrics
 name: You're Easy On The Eyes
 rankings:
 - end_date: '1998-12-11'
@@ -55,4 +56,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-02-20'
 ---
+Shoulda known it was you knocking on my door
+At half past a heartache at quarter to four
+Were you starting to worry I was finally getting over you
+I almost forgot you looked so fine
+If you told me some lies, it would be like old times
+Just getting to see you is almost worth the things you do
 
+
+You're easy on the eyes
+Hard on the heart
+You look so good but the way things look ain't the way they are
+Better say goodbye
+Before this goes too far
+Cause now I realize you're easy on the eyes
+Hard on the heart
+
+I got to admit to you got a smile
+That really reeled me in for awhile
+But it ain't funny, honey, what you put me through
+So why don't you send me your photograph
+It'd hurt a lot less than taking you back
+Then I could still have my favorite part of you
+
+
+Cause you're easy on the eyes
+Hard on the heart
+You look so good but the way things look ain't the way they are
+Better say goodbye
+Before this goes too far
+Cause now I realize you're easy on the eyes
+Hard on the heart
+
+You're easy on the eyes
+Hard on the heart
+You look so good but the way things look ain't the way they are
+Better say goodbye
+Before this goes too far
+Now I realize you're easy on the eyes
+Hard on the heart
+
+Now I realize
+You're easy on the eyes
+Hard on the heart

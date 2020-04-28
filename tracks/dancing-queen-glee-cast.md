@@ -15,7 +15,7 @@ rankings:
 
 You can dance, you can jive
 Having the time of your life
-Ooh see that girl, watch that scene
+Oh see that girl, watch that scene
 Dig in the dancing queen
 
 Friday night and the lights are low
@@ -36,7 +36,7 @@ From the tambourine, oh yeah
 
 You can dance, you can jive
 Having the time of your life
-Ooh see that girl, watch that scene
+Oh see that girl, watch that scene
 Dig in the dancing queen
 
 You're a teaser, you turn 'em on
@@ -52,7 +52,7 @@ From the tambourine, oh yeah
 
 You can dance, you can jive
 Having the time of your life
-Ooh see that girl, watch that scene
+Oh see that girl, watch that scene
 Dig in the dancing queen
 Dig in the dancing queen
 

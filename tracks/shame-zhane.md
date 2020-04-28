@@ -86,7 +86,7 @@ Oh, baby baby
 (Shame)
 Burning, keep my whole body yearnin'
 You've got me so confused it's a (Shame)
-Ooh, sometimes I think I'm going insane
+Oh, sometimes I think I'm going insane
 But still I wanna say
 
 Back in your arms
@@ -94,9 +94,9 @@ Is where I wanna be, ought to be
 Back in your arms
 That's my high (Shame)
 
-Ooh, my mother thinks you're playing a game
+Oh, my mother thinks you're playing a game
 And what you do to me, it's a (Shame)
-Ooh, I'm gonna love you just the same
+Oh, I'm gonna love you just the same
 But mamma just don't understand
 
 Back in your arms
@@ -110,9 +110,9 @@ Love is in my heart yeah, oh yeah
 Said tearin' the rules apart
 So why should I feel (Shame)
 
-Ooh, said only love can bring the pain
+Oh, said only love can bring the pain
 When we loose our love, it's a (Shame)
-Ooh, I wouldn't want to live with the pain
+Oh, I wouldn't want to live with the pain
 I wanna stay forever
 
 Back in your arms
@@ -127,7 +127,7 @@ I don't know what you do because your love
 It is such a low and dirty (Shame)
 It's a shame baby, driving me insane
 I don't want no other, your shammin' love (Shame)
-Ooh, said only love can bring pain
+Oh, said only love can bring pain
 And when we loose our love it's a (Shame)
 Well I wouldn't wanna live with the pain
 I said I wanna stay forever (Shame)

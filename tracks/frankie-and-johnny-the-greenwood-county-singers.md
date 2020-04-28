@@ -37,7 +37,7 @@ He's my man but he's
 Done me wrong
 
 The bartender said, Frankie
-You know I wont tell you no lie
+You know I won't tell you no lie
 He left here about a minute ago
 With a gal named Alice Fry
 He's your man but he's

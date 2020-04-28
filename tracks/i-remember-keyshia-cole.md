@@ -88,10 +88,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-05-10'
 ---
-Ooh, yeah, yeah
-Ooh
+Oh yeah, yeah
+Oh
 Yeah, babe
-Ooh, I remember
+Oh I remember
 And I wanna know
 
 Where were you, when I said I loved you
@@ -114,7 +114,7 @@ Didn't know, where I would go, where I would be
 But you made me leave
 And plus my heart it just, it just kept telling me so oh
 
-Ooh, I remember when my heart broke
+Oh I remember when my heart broke
 I remember when I gave up loving you
 My heart couldn't take no more of you
 I was sad and lonely

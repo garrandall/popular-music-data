@@ -94,14 +94,14 @@ I really really wanna catch your eye
 There's something special 'bout you
 I must really like you
 There's not a lotta guys are worth my time
-Ooh baby, baby, baby
+Oh baby, baby, baby
 It's gettin' kind of crazy
 'Cause you are takin' over my mind
 
 
-And it feels like ooh
+And it feels like oh
 But you don't know my name
-And I swear, it feels like ooh (Ooh, ooh, ooh)
+And I swear, it feels like oh(Oh, oohohoh
 But you don't know my name
 ('Round and 'round and 'round we go, will you ever know?)
 
@@ -111,22 +111,22 @@ I see us on our first date
 You're doin' everything that makes me smile
 And when we had our first kiss
 It happened on a Thursday
-Ooh, it set my soul on fire
-Ooh baby, baby, baby
+Oh, it set my soul on fire
+Oh baby, baby, baby
 I can't wait for the first time
 My imagination's runnin' wild
 
 
-It feels like ooh
+It feels like oh
 But you don't know my name
-And I swear it, baby, it feels like ooh (Ooh, ooh, ooh)
+And I swear it, baby, it feels like oh(Oh, oohohoh
 But you don't know my name
 ('Round and 'round and 'round we go, will you ever know?)
 
 
 "I'm sayin', he don't even know what he's doin' to me
 Got me feelin' all crazy inside
-I'm feelin like, "Oww! (Ooh, ooh, ooh)
+I'm feelin like, "Oww! (Oh, oh oh
 Doin' more than I've ever done for anyone's attention
 Take notice of what's in front of you
 'Cause did I mention? (Oww!)
@@ -135,10 +135,10 @@ And you'll never know how good it feels to have all of my affection
 And you'll never get a chance to experience my lovin' (Oww)
 
 
-'Cause my lovin' feels like ooh
+'Cause my lovin' feels like oh
 But you don't know my name
 ('Round and 'round and 'round we go, will you ever know?)
-And I swear it feels like ooh (Ooh, ooh, ooh)
+And I swear it feels like oh(Oh, oohohoh
 But you don't know my name
 ('Round and 'round and 'round we go, will you ever know?)
 
@@ -176,20 +176,20 @@ So, what day did you say?
 Oh yeah, Thursday's perfect, man"
 
 
-And it feels like ooh
+And it feels like oh
 But you don't know my name
 ('Round and 'round and 'round we go, will you ever know?)
-Baby, baby, I swear, it's like ooh
+Baby, baby, I swear, it's like oh
 But you don't know my name, no no no
 ('Round and 'round and 'round we go, will you ever know?)
-And it feels like ooh
+And it feels like oh
 But you don't know my name
 ('Round and 'round and 'round we go, will you ever know?)
 
 
 And I swear on my mother and father it feels like...
-Ooh, ooh, ooh, ooh, ooh
-Ooh, ooh, ooh, ooh, ooh
-Ooh, ooh, ooh
+Oh, oh oohohohhoh
+Oh, oh oohohohhoh
+Oh, oh oh
 But you don't know my name
 ('Round and 'round and 'round we go, will you ever know?)

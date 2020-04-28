@@ -105,7 +105,7 @@ Charlie Brown she laughed and she got sick
 Caledonia got mad ... grabbed a brick
 Crying hey, hey there's good rockin' at midnight
 
-Uh, mmmm, rock
+Uh, mmm, rock
 Gonna rock, Gonna rock
 Gonna rock, Gonna rock
 Gonna rock, Well yeah, I'm gonna rock

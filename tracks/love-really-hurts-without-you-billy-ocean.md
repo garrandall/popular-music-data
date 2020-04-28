@@ -70,7 +70,7 @@ And it's breaking my heart
 But what can I do without you?
 
 You walk like a dream and you make like you're Queen of the action
-You're using ev'ry trick in the book the way that you look
+You're using every trick in the book the way that you look
 You're really something to see, you cheat and you lie
 To impress any guy that you fancy, but don't you know
 I'm out of my mind, so give me a sign
@@ -84,7 +84,4 @@ Love really hurts without you,
 Love really hurts through and through
 And it's breaking my heart
 But what can I do without you?
-
-
-
 

@@ -85,7 +85,7 @@ Would not get a thing
 We were happy with the
 Joy the day would bring
 Sneaking out the back door
-To hang out with those hoodlum friends of mine, ooh
+To hang out with those hoodlum friends of mine, oh
 Greeted at the back door
 With, "Boy, thought I told you not to go outside"
 Trying your best to bring the water to your eyes

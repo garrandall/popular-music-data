@@ -29,26 +29,21 @@ rankings:
   start_date: '1994-12-24'
 ---
 There comes a time in a man's life
-When he's tired of the games messing
-Around
+When he's tired of the games messing around
 He needs a good woman to settle down
 And I'm at that time in my life
 And I found what I needed in you
 
 I swear I'll always be true
-After searching and searching and
-Searching
+After searching and searching and searching
 What treasure I found in you
 So baby I'm ready say you'll be my lady
 And I'll give my all to you
 
-Chorus
 I just can't help myself
 I'll tell the world I love you I love you
 I don't want no one else
 I just can't help myself
-
-Chorus
 
 I want us to have a family
 A girl for you a boy for me
@@ -60,10 +55,7 @@ Oh girl it's for real this feeling I feel
 Do me a favor girl give me your trust
 I've had time to think it over
 And if you think that I'm letting you go
-Baby you must be crazy I'm gonna let you
-Know
-
-Repeat Chorus two times
+Baby you must be crazy I'm gonna let you know
 
 I ain't trying to find nobody
 To take the place of you
@@ -71,10 +63,7 @@ To take the place of you
 In the whole wide world
 Who can do the things that you do
 
-Oh baby I'll run around tellin all my
-Friends
+Oh baby I'll run around tellin all my friends
 That I'll never find another like you again
 I just can't help myself
 And I don't wanna help myself
-
-Repeat chorus two times

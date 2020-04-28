@@ -37,10 +37,6 @@ Watch your face turning blue
 Not yet a man
 Just a punk in the street
 
-
-
-
-
 You say our love
 Is like dynamite
 Well its no surprise

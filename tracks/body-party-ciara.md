@@ -88,8 +88,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-09-21'
 ---
-Ohh, oooh
-Ohh, ohhh
+Ohh, oh
+Ohh, oh
 Yeah, right there
 No, right there
 I was having fun
@@ -103,7 +103,7 @@ I can do it slow now tell me what you want
 Baby, put your phone down, you should turn it off
 'Cause tonight it's going down, tell your boys it's going down
 We in the zone now, don't stop
-Ooooh, oooh
+Oh, oh
 
 
 You can't keep your hands off me
@@ -113,7 +113,7 @@ Your body is my party
 I'm doing this little dance for you
 You got me so excited
 Now it's just me and you
-Your body's my party, let's get it started, ohh
+Your body's my party, let's get it started, oh
 Boy, you should know that
 Your love is always on my mind
 I'm not gonna fight it
@@ -131,7 +131,7 @@ We can go another round if that's what you want
 'Cause tonight it's going down
 Yeah, you know it's going down
 We in the zone now, don't stop
-Oooh, ohh
+Oh, oh
 
 
 You can't keep your hands off me
@@ -141,7 +141,7 @@ Your body is my party
 I'm doing this little dance for you
 You got me so excited
 Now it's just me and you
-Your body's my party, let's get it started, ohh
+Your body's my party, let's get it started, oh
 Boy, you should know that
 Your love is always on my mind
 I'm not gonna fight it

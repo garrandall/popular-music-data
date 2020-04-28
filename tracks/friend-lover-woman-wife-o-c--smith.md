@@ -45,7 +45,7 @@ rankings:
   start_date: '1969-07-05'
 ---
 She's a friend, she's a lover, she's a woman, she's a wife
-She's the answered prayer ev'ry lonely man dreams of
+She's the answered prayer every lonely man dreams of
 She's a temptress, she's a lady, she's the mother of my baby
 I thank God I'm the lucky man she loves
 
@@ -58,7 +58,7 @@ With the baby in the bed between us, safe and warm
 And I thank the Lord above for all the good times that I'm having
 Wrapped up in my woman's loving arms
 She's a friend, she's a lover, she's a woman, she's a wife
-She's the answered prayer ev'ry lonely man dreams of
+She's the answered prayer every lonely man dreams of
 She's a temptress, she's a lady, she's the mother of my baby
 I thank God I'm the lucky man she loves
 
@@ -67,7 +67,7 @@ And I can't keep the pace, and I need a place to hide
 I run home to my own little world and take her in my arms
 And hold her; and I soon forget there's another world outside
 'cause she's a friend, she's a lover, she's a woman, she's a wife
-She's the answered prayer ev'ry lonely man dreams of
+She's the answered prayer every lonely man dreams of
 She's a temptress, she's a lady, she's the mother of my baby
 I thank God I'm the lucky man she loves
 I thank God I'm the lucky man she loves

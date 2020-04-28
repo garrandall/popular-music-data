@@ -48,7 +48,7 @@ Everything seemed so right
 Then I lost control
 The car turned over
 I heard her calling
-Ooh, ohh, I'll never forget
+Oh oh, I'll never forget
 Now I'm alone
 And all I have is the echo, echo, echo
 The echo of her lonely call

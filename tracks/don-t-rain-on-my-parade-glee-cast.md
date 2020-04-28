@@ -33,7 +33,7 @@ The cinder or the shiny apple of its eye
 I've gotta fly once
 I've gotta try once
 Only can die once, right sir
-Oooh, life is juicy, juicy and you see I've gotta have my bite, sir
+Oh, life is juicy, juicy and you see I've gotta have my bite, sir
 
 Get ready for me love 'cause I'm a comer
 I've simply gotta march, my hearts a drummer

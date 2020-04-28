@@ -24,11 +24,11 @@ Under your thumb, I can't breathe
 
 So, I won't let you close enough to hurt me
 No, I won't ask you, you to just desert me
-I cant give you, what you think you gave me
+I can't give you, what you think you gave me
 It's time to say goodbye to turning tables
 To turning tables
 
-Under haunted skies I see ooh
+Under haunted skies I see oh
 Where love is lost, your ghost is found
 I braved a hundred storms to leave you
 As hard as you try, no I will never be knocked down
@@ -38,7 +38,7 @@ Under your thumb, I can't breathe
 
 So, I won't let you close enough to hurt me, no
 I won't ask you, you to just desert me
-I cant give you, what you think you gave me
+I can't give you, what you think you gave me
 It's time to say goodbye to turning tables
 Turning tables
 
@@ -51,7 +51,7 @@ Standing on my own two feet
 
 I won't let you close enough to hurt me, no
 I won't ask you, you to just desert me
-I cant give you, what you think you gave me
+I can't give you, what you think you gave me
 It's time to say goodbye to turning tables
 To turning tables
 Turning tables, yeah

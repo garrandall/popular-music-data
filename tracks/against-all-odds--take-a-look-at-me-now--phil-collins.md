@@ -106,7 +106,7 @@ rankings:
 ---
 How can I just let you walk away
 Just let you leave without a trace
-When I stand here taking every breath with you, ooh-ooh
+When I stand here taking every breath with you, ohooh
 You're the only one who really knew me at all
 
 How can you just walk away from me

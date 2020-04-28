@@ -67,7 +67,7 @@ I'll be there to fulfill your every need
 
 If you want a man
 Strong but sensitive
-(Ooh, baby)
+(Oh, baby)
 Anything you need
 I'll be willing to give
 Every day and night
@@ -119,7 +119,7 @@ I'm a man, baby
 Taking care of my woman, girl
 Go to work each day for the work that you could play
 I got to be the man I'm supposed to be
-Ooh, true woman, yes
+Oh, true woman, yes
 Oh, I'm the man, baby
 True woman, so sweet
 I'm an all true man

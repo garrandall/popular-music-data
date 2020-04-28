@@ -68,7 +68,7 @@ So turn me loose
 Turn me loose, turn me loose I say
 Gonna rock'n'roll long as the band's gonna play
 Gonna holler, gonna shout, gonna knock myself right out
-So turn me loose (turn me loose, ooh-ahh)
+So turn me loose (turn me loose, oh-ah)
 
 I've got some change in my pocket and I'm rarin' to go
 Takin' some chick-a to the picture show
@@ -78,7 +78,7 @@ Well, turn me loose, turn me loose, turn me loose, turn me loose
 Turn me loose, turn me loose I say
 Yes, today is gonna, is gonna be the day
 I want you all to understand, now I am a man
-So turn me loose (turn me loose, ooh-ahh)
+So turn me loose (turn me loose, oh-ah)
 
 I've got some change in my pocket and I'm rarin' to go
 Takin' some chick-a to the picture show
@@ -88,4 +88,4 @@ Well, turn me loose, turn me loose, turn me loose, turn me loose
 Turn me loose, turn me loose I say
 Yes, today is gonna, is gonna be the day
 I want you all to understand, now I am a man
-So turn me loose (turn me loose, ooh-ahh)
+So turn me loose (turn me loose, oh-ah)

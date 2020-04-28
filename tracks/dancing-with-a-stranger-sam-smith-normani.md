@@ -189,7 +189,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-11-30'
 ---
-Hmm, mhm
+Hm, mhm
 
 
 I don't wanna be alone tonight (Alone tonight)
@@ -203,9 +203,9 @@ I know exactly what I need to do
 
 
 Look what you made me do, I'm with somebody new
-Ooh, baby, baby, I'm dancing with a stranger
+Oh baby, baby, I'm dancing with a stranger
 Look what you made me do, I'm with somebody new
-Ooh, baby, baby, I'm dancing with a stranger
+Oh baby, baby, I'm dancing with a stranger
 Dancing with a stranger
 
 
@@ -216,19 +216,19 @@ I don't wanna be alone tonight, alone tonight, alone tonight
 
 
 Look what you made me do, I'm with somebody new
-Ooh, baby, baby, I'm dancing with a stranger
+Oh baby, baby, I'm dancing with a stranger
 Look what you made me do, I'm with somebody new
-Ooh, baby, baby, I'm dancing with a stranger
+Oh baby, baby, I'm dancing with a stranger
 Dancing with a stranger
 Dancing with a stranger
-Dancing, yeah, ooh
+Dancing, yeah, oh
 
 
-Look what you made me do, I'm with somebody new (Ooh)
-Ooh, baby, baby, I'm dancing with a stranger
+Look what you made me do, I'm with somebody new (Oh
+Oh baby, baby, I'm dancing with a stranger
 Look what you made me do, I'm with somebody new
-Ooh, baby, baby, I'm dancing with a stranger
-I'm dancing, I'm dancing (Ooh)
+Oh baby, baby, I'm dancing with a stranger
+I'm dancing, I'm dancing (Oh
 I'm dancing, I'm dancing (Dancing with a stranger)
 I'm dancing, I'm dancing (Dancing with a stranger)
 I'm dancing, I'm dancing (Dancing with a stranger)

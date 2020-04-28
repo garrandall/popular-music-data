@@ -122,7 +122,7 @@ That was jumping every night of the week
 Happiness was found in each other's arms
 As expected, yeah
 Billy pierced his ears
-Drove a pickup like a lunatic, ooh!
+Drove a pickup like a lunatic, oh
 
 
 Young hearts be free tonight
@@ -133,9 +133,6 @@ Don't let 'em ever change your point of view
 
 
 Come on babe!
-
-
-
 
 Young hearts, be free tonight
 Time is on, on your side

@@ -28,7 +28,7 @@ Some day, some days, I remembered this on a Sunday
 Back way, yeah, way, way, burning, mhm-mhm
 Uh, some days, not gonna please everybody
 Some days I wanna hit the red dot on everybody
-Some days, ohh (Heatstroke)
+Some days, oh (Heatstroke)
 Now that I'm livin' high, I'm smokin' marijuana
 Now that I'm livin' high, I do what I wanna, oh, yeah
 

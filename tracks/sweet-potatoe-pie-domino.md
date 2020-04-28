@@ -124,7 +124,7 @@ Some simple ass shit, even if it ain't Guess
 Take  a couple of shots and now I roll to the spot
 Bitches straight peepin' wanna know what I got, well
 One, two, three, Here comes the D
-Pass me the buddah, OOOOH WEEE!!!!
+Pass me the buddah, OOOOH WEEE!
 And now I'm ready for you bitches
 So gang a dick licker, do you get the picture?
 And so much love for ya gals

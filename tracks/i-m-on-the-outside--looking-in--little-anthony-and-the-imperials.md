@@ -51,8 +51,8 @@ rankings:
 Shimmy Shimmy Ko-Ko-Bop
 Little Anthony and the Imperials
 (Bob Smith)
-Oh ! Oh oh oh oh oh oh oh - ah!
-Oh ! Oh oh oh oh oh oh oh - ah!
+Oh! Oh oh oh oh oh oh oh - ah!
+Oh! Oh oh oh oh oh oh oh - ah!
 Shimmy Shimmy Ko-Ko-Bop
 Shimmy Shimmy Bop
 Shimmy Shimmy Ko-Ko-Bop

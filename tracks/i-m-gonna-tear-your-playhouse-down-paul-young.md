@@ -94,9 +94,6 @@ So what you gonna do
 When you look up one day
 And see your playhouse tumbling down?
 
-
-
-
 You think you've got it all set up
 You think you've got the perfect plan
 To charm everyone you see

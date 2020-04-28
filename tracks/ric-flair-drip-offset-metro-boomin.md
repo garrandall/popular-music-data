@@ -150,7 +150,7 @@ Hop up in the Lamb' and drop the roof, show the tits (Skrrt)
 Poppin' but you really not gon' shoot (Pop)
 90 pointers down my diamonds look like hula hoops (90)
 Hopping in my Bentayga and her seat is a masseuse (Hey)
-Balenciaga, check my posture, Valentino boots (Oho-ooh)
+Balenciaga, check my posture, Valentino boots (Oho-oh
 It's the Boominati way, a lotta Lambs, a lotta Wraiths (Boominati)
 Never hesitate to give a nigga yellow tape (Grrt)
 Ain't worried 'bout the bag 'cause the cash accumulatin' (Bags)

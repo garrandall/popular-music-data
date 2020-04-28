@@ -136,11 +136,11 @@ We're living our dreams...yeah...
 We're living our dreams
 We're living our dreams
 We're living our dreeeeeeeeeeeeams
-(ooooooooooooooooohhhhhhhhh)
+(oh)
 We're living our dreams(We're living our dreams)
 We're living our dreams(We're living our dreams)
 We're living our dreeeeeeeeeeeeams
-(oooooooohhhhhhh oohhh yeah yeah)
+(oh oh yeah yeah)
 
 And we got to stay tuned
 Cuz there's more to see (Unbreakable)
@@ -159,7 +159,7 @@ No thing, no money, no sin, no temptation, talking 'bout nothing
 No thing, no money, no sin, no temptation, talking 'bout nothing
 No thing, no money, no sin, no temptation, talking 'bout nothing
 No thing, no money, no sin, no temptation, talking 'bout nothing
-Yeeeeeeaaaaahhh.......
+Yeeeeeeaaaaahhh...
 (Unbreakable)
 Yeah, yeah,yeah,yeah,yeah,yeah,yeah,yeah,yeah
 (Unbreakable)

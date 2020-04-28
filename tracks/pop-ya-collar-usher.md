@@ -37,17 +37,17 @@ rankings:
   start_date: '2000-12-16'
 ---
 
-Hello everybody, welcome today to the wonderful world of U. 
+Hello everybody, welcome today to the wonderful world of U.
 Now check it, you have two options you can eat it or throw it away...
 
-See it's a shame that when you're working hard 
-doing well people hate you 
-yeah buying nothing else but the best for yourself they really hate you 
-yeah ya gotta live for you and no one else 
-don't let em make you feel like you're not being real 
+See it's a shame that when you're working hard
+doing well people hate you
+yeah buying nothing else but the best for yourself they really hate you
+yeah ya gotta live for you and no one else
+don't let em make you feel like you're not being real
 just live how ya wanna live you gotta do for you
 
-(Dig that) 
+(Dig that)
 If you work hard play hard
 (Dig that)
 And do what you wanna do
@@ -66,16 +66,16 @@ Hey ladies
 (Yeah)
 Hey fellas
 (Yeah)
-You know you're doing good cause they're jealous 
-they wanna hate you cause you're a go-getter pop ya collar 
+You know you're doing good cause they're jealous
+they wanna hate you cause you're a go-getter pop ya collar
 don't let 'em sweat ya
 
-You can see me every week hanging out with a different girl sitting next to me 
-cause I'm not about to settle down right now 
-I gotta be free some of  y'all fellas might be jealous but y'all know that don't faze me 
+You can see me every week hanging out with a different girl sitting next to me
+cause I'm not about to settle down right now
+I gotta be free some of  y'all fellas might be jealous but y'all know that don't faze me
 I just pop my collar tip my hat and turn my backs on the ones who hated me
 
-(Dig that) 
+(Dig that)
 Never going home alone
 (Dig that)
 If she follows then you know it's on
@@ -92,13 +92,9 @@ Stop hatin, wishin, waitin, anticipating for my heat to fade
 
 
 
-I break my neck for the things I get 
-so much sweat just so I can get that check 
-and I'm not gonna let nobody bring me down (Nobodys gonna steal the crown) 
-because I eat good I live good, I rock good, my life good 
-if you got a lot and you're working for it pop ya collar don't be afraid to show it 
-
-
-
-
+I break my neck for the things I get
+so much sweat just so I can get that check
+and I'm not gonna let nobody bring me down (Nobodys gonna steal the crown)
+because I eat good I live good, I rock good, my life good
+if you got a lot and you're working for it pop ya collar don't be afraid to show it
 

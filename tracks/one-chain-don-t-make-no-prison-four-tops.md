@@ -65,7 +65,7 @@ There's a bed I'm keepin' empty for you
 There's a lot I know I got to prove
 Don't let a simple misunderstanding
 Be a mountain that we can't move
-Ooh, ooh, baby
+Oh, oh baby
 
 One chain don't make no prison
 Two wrongs don't make no right

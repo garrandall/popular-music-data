@@ -145,7 +145,7 @@ Runnin', runnin' and runnin', runnin' and runnin', runnin'
 C'mon y'all, let's get (coo-koo), uh huh, let's get (coo-koo) in here
 Wild out, get (coo-koo), uh huh, let's get (coo-koo) in here
 Wild out, get (coo-koo), uh huh, let's get (coo-koo) in here
-Ohh ohh ohh, ya-ya-ya-ya-ya-ya-ya
+Ohh oh oh, ya-ya-ya-ya-ya-ya-ya
 Ya-ya-ya-ya, ya-ya-ya-ya-ya!
 
 
@@ -175,7 +175,7 @@ Yeah
 Get (coo-koo), uh huh, we (coo-koo) in here
 Let's get (coo-koo), uh huh, we (coo-koo) in here
 Wild out, get (coo-koo), uh huh, we (coo-koo) in here
-Ohh ohh ohh, ya-ya-ya-ya-ya-ya-ya
+Ohh oh oh, ya-ya-ya-ya-ya-ya-ya
 Ya-ya-ya-ya, ya-ya-ya-ya-ya!
 
 

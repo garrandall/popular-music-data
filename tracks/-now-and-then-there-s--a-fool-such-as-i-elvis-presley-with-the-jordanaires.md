@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: -now-and-then-there-s--a-fool-such-as-i-elvis-presley-with-the-jordanaires
+lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-and-The-Jordanaires/Now-and-Then-There-s-A-Fool-Such-as-I
 name: (Now and Then There's) A Fool Such As I
 rankings:
 - end_date: '1959-03-29'
@@ -68,4 +69,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-29'
 ---
+Pardon me, if I'm sentimental when we say goodbye
+Don't be angry with me should I cry
+When you're gone yet I dream a little dream as years go by
+Now and then there's a fool such as I
 
+Now and then there's a fool such as I am over you
+You taught me how to love and now you say that we are through
+I'm a fool, but I love you dear until the day I die
+Now and then there's a fool such as I
+
+(Now and then there's a fool such as I)
+
+Now and then there's a fool such as I am over you
+You taught me how to love and now you say that we are through
+I'm a fool, but I love you dear until the day I die
+Now and then there's a fool such as I
+Now and then there's a fool such as I
+Now and then there's a fool such as I

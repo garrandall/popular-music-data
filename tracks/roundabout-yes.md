@@ -119,9 +119,6 @@ In and around the lake
 Mountains come out of the sky, they stand there
 Twenty four before my love and I'll be there
 
-
-
-
 I'll be the roundabout
 The words will make you out 'n' out
 I spent the day your way

@@ -78,7 +78,6 @@ Put you before all my concerns
 Tryin' to make you understand
 Just wanna be your man
 
-Chorus
 
 I don't mean to have to cuss or fuss
 When it comes to the two of us
@@ -101,4 +100,3 @@ Sugar honey ice tea shared
 What up booger
 
 Repeat first verse
-Chorus

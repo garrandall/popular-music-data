@@ -110,7 +110,3 @@ You had to see it for yourself
 Cause I thought our love was strong
 I guess I must be dreaming.
 
-
-
-
-

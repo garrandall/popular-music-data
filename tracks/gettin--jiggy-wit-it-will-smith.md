@@ -152,7 +152,7 @@ Dance floor pro I know you know
 I go psycho when my new joint hit
 Just can't sit
 Gotta get jiggy wit it
-Ooh that's it
+Oh that's it
 Now honey honey come ride
 DKNY all up in my eye
 You gotta Prada bag with alotta stuff in it

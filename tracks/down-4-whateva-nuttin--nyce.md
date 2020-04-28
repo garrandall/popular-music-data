@@ -59,7 +59,7 @@ I'll be there right away
 Set it off with the strip
 Up to Strawberry Hill
 Then hit the chronic
-You know i feel so by.i.onic
+You know I feel so by.i.onic
 Damn it!
 And I exhale you like to get deep
 So deep

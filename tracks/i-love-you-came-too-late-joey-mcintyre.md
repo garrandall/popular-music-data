@@ -47,7 +47,6 @@ Don't want nobody else
 Baby, listen very closely
 I love you...
 
-Chorus:
 I couldn't lie, she couldn't wait
 I love you came too late
 I'd give my life for yesterday
@@ -63,12 +62,9 @@ Don't want nobody else
 Baby listen very closely
 I love you...
 
-(repeat chorus)
 I can't live without you
 Don't want nobody else
 My heart is in my hand
 I took a good look at myself
 If I had another chance I'd shout it out to the world
-I LOVE YOU!
-
-(repeat chorus and fade)
+I love you!

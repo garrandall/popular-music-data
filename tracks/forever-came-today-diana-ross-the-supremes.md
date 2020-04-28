@@ -53,7 +53,7 @@ Standing there
 As your eyes reached out to me
 Something warm in your eyes
 Touched my heart right then and there
-All the love i never knew
+All the love I never knew
 I found in you
 Suddenly
 My world stood still
@@ -61,9 +61,9 @@ My life was then forfilled
 As you gently touched my hand
 I knew that we had laying a plan
 For everlasting love
-That i been forever dreaming of
+That I been forever dreaming of
 At last
-Ooh, at last
+Oh at last
 My forever came today (my forever came today)
 When you walked into my life (when you walked into my life)
 And made my lonely life
@@ -77,19 +77,19 @@ Your eyes said you wanted me
 Your touch said you needed me
 And my heart said tenderly
 Darling
-Ooh, my darling
+Oh my darling
 Make me yours
 Let your kiss touch my face
 And tell me love has let me
 To this place to your warm embrace
 And our hapiness
 Thanks to you my search has ended
-And i want the world to see
+And I want the world to see
 How gently love has shined on me
 With everlasting love
-That i been forever dreaming of
+That I been forever dreaming of
 At last
-Ooh, at last
+Oh at last
 My forever came today (my forever came today)
 When you walked into my life (when you walked into my life)
 And made my lonely life
@@ -97,7 +97,7 @@ A paradise (a paradise)
 It came today
 Forever came today
 At last
-Ooh, at last
+Oh at last
 My forever came today (my forever came today)
 When you walked into my life (when you walked into my life)
 And made my lonely life
@@ -105,6 +105,6 @@ A paradise (a paradise)
 Oh, it came today
 Forever came today
 At last
-Ooh, at last
+Oh at last
 My forever came today (my forever came today)
 When you walked into my life...

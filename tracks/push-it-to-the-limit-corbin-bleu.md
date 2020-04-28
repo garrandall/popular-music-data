@@ -41,9 +41,9 @@ Cause we're in it to win it in it to win it
 Oh yeah
 
 I realized that this is where my heart is
-Now is the time to finish what i started
+Now is the time to finish what I started
 Can't worry bout what other people might say
-It's who i am
+It's who I am
 Gotta live my dream my own way
 
 Work work it harder
@@ -132,7 +132,7 @@ Give it all we can give it
 We're in it to win it
 Oh yeah
 
-Push it to the limit....
+Push it to the limit...
 
 
 

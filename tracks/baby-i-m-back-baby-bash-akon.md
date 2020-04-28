@@ -114,7 +114,7 @@ rankings:
 Hoooo
 Yeah
 Said everything that you want me to I'll do it
-Tell me what the word is already 
+Tell me what the word is already
 
 
 Don't look no farther!
@@ -128,7 +128,7 @@ Tell me what I gotta do (tell me what I gotta do and ill do it)
 Now im back in a flesh
 Feelin so blessed, back in your corner suga, suga don't stress
 Forget about the rest; let's go inside, im back in your zone
-Baby im back in your vibe, now I cant be denied I can lie im on ya
+Baby im back in your vibe, now I can't be denied I can lie im on ya
 I never ever wanna say sayonara
 Some body told me that the grass was greener
 On the other side andale arriba
@@ -148,13 +148,6 @@ Cause you already know how I get it wet, how I get it so saucy and I get respect
 You don't have to look no farther, you dealin with the whole enchilada
 You don't have to look no farther, you hotter then a fire starter
 
-
-
-
-I was gone for a minute, (oooohhh) 
-Now im back let me hit it (oooohhh) 
-
-
-
-
+I was gone for a minute, (oh)
+Now im back let me hit it (oh)
 

@@ -141,7 +141,7 @@ And the music's all you got
 Baby c'mon, this must be...
 
 
-Ooh ooh, man I'm tired of singin'
+Oh oh man I'm tired of singin'
 Dirty, dirty, dirty pop
 Dirty pop
 Do you ever wonder-wonder-wonder?

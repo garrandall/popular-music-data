@@ -58,8 +58,8 @@ rankings:
   start_date: '1960-10-17'
 ---
 I don't want nobody
-If i can't have you
-Oh i can't love nobody
+If I can't have you
+Oh I can't love nobody
 Unless i'm loving you
 
 Chorus:
@@ -67,18 +67,16 @@ The way you hug me
 The way you squeeze me
 The way you kiss me
 Ya ya ya ya ya ya ya ya ya
-If i can't have you
+If I can't have you
 
 I can't talk to nobody
 Unless i'm talking to you
 I don't wanna hold nobody
 Unless i'm holding you
 
-Chorus
 
 I can't be kissing nobody
 Unless i'm kissing you
-I just don't i just don't i just don't want to be bothered with nobody
+I just don't I just don't I just don't want to be bothered with nobody
 Unless i'm bothered with you
 
-Chorus

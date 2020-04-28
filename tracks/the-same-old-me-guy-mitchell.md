@@ -44,5 +44,5 @@ But I'll always be here waitin' just for you
 
 I've tried ev'rything to drive you from my heart
 But the mem'ry of you makes me feel so blue
-And with ev'ry heartbeat I can feel the teardrops start
+And with every heartbeat I can feel the teardrops start
 So you'll always find me waitin' here for you

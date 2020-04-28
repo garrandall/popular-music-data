@@ -60,5 +60,5 @@ Well only you know, just how much how much I've lost
 Well I lost I lost my baby
 The night, the night that they were playin'
 That beautiful Tennessee Waltz
-Hmmm, hmmm, hmmmm, Tennessee Waltz
-Hmmm, hmmm, hmmmm, Tennessee Waltz
+Hm, hm, hm, Tennessee Waltz
+Hm, hm, hm, Tennessee Waltz

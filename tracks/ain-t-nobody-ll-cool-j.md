@@ -90,9 +90,6 @@ But you save this real good lovin' for rainy days
 Uh, the lord works in mysterious ways
 He must have put you on this Earth for all men to praise
 
-
-
-
 As I travel through your body our souls become one
 Indivisible, uh, it's getting critical son
 I'm on the run from love, it chased me out the bag
@@ -105,9 +102,6 @@ What's yours is mine and what's mine is yours
 The road less travelled is ours to explore
 I adore you, heavenly angel shine light
 Hold my hand, I'll be your guide through the night
-
-
-
 
 Come on now, a man chooses a woman
 A woman chooses a man, give you half for a second

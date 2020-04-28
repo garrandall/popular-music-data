@@ -31,7 +31,7 @@ I should have a tattoo that say, "I am nothin' like my dad"
 Jesus Christ, amen
 My hand in the psychic's hand, she see righteous plans
 I see business plans then I lose my mind and my attention span
-She see empty hands like, "Oooh, Lordy," smellin' like Cool Water
+She see empty hands like, "Oh, Lordy," smellin' like Cool Water
 Just got them new Cartier, the Rollie was too salty
 That’s rich nigga problems, lil whoadie
 My little bitch body a trophy

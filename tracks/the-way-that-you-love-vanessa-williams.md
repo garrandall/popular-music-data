@@ -49,7 +49,7 @@ And now I'm in your arms, baby close the door
 
 
 Why waste another minute
-Ooh, let's get right to it
+Oh, let's get right to it
 Baby turn the lights down
 And we don't have to say a word
 
@@ -83,15 +83,12 @@ Now we're lost inside our love
 (Now we're drifting into love)
 Sweet surrender is so tender
 
-
-
-
-Ooh, you know me oh so well
+Oh, you know me oh so well
 You always take your time
 And you always get it right
 (You know just what I like)
 
-Ooh, you set my soul on fire
+Oh, you set my soul on fire
 And I know you've got my rhythm
 Cause then you take me higher
 

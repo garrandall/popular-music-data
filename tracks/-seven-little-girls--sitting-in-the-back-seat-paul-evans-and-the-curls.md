@@ -80,7 +80,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-11'
 ---
-Dee doodee doom doom.....
+Dee doodee doom doom...
 Seven little girls
 Sitting in the backseat
 Hugging and a kissing with Fred
@@ -95,7 +95,7 @@ Keep your hands on the wheel
 Keep your snoopy eyes on the road ahead
 We're having fun, sitting in the backseat
 Kissing and a hugging with Fred
-Dee doodee doom doom.....
+Dee doodee doom doom...
 Drove through the town
 Drove through the country
 Showed em how a motor could go
@@ -104,7 +104,7 @@ Triple carburetor
 And one of them whispered low
 
 (CHORUS)
-Dee doodee doom doom.....
+Dee doodee doom doom...
 Seven little girls
 Smooching in the backseat
 Every one in love with Fred

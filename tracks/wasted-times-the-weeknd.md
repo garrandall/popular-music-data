@@ -40,7 +40,7 @@ I ain't got no business catchin' feelings
 Catchin' feelings
 
 These girls only want you when you're winnin' (winnin')
-But you've been with me from the beginnin' (ooh, yeah, yeah)
+But you've been with me from the beginnin' (oh, yeah, yeah)
 And I know right now that we're not talkin' (not talkin')
 I hope you know this dick is still an option
 'Cause I'll beat it up (I'll beat it up)

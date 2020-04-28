@@ -91,7 +91,7 @@ Ain't that America
 Home of the free, yeah
 Little pink houses
 For you and me
-Oooh, yeah
+Oh, yeah
 For you and me
 
 Well, there's a young man in a t-shirt
@@ -112,7 +112,7 @@ Ain't that America
 Home of the free, yeah
 Little pink houses
 For you and me
-Oooh, little baby
+Oh, little baby
 For you and me
 
 
@@ -121,7 +121,7 @@ Well, there's people and more people
 What do they know, know, know
 Go to work in some high rise
 And vacation down at the Gulf of Mexico
-Ooh, yeah
+Oh yeah
 And there's winners and there's losers
 But they ain't no big deal
 'Cause the simple man, baby
@@ -136,8 +136,8 @@ Ain't that America
 Home of the free, yeah
 Little pink houses
 For you and me
-Oooh
-Ooooh, yeah...
+Oh
+Oh, yeah...
 
 
 

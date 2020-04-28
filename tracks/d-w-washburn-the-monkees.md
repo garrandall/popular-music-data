@@ -50,7 +50,7 @@ D.W. Wahsburn, you're gonna wash right down the drain
 
 Up, up, come on get up off your street
 If you can only make it from your hands to your knees
-I know you can make it to your feet. Wooah!
+I know you can make it to your feet. Woah!
 D.W. Washburn, I said to myself
 D.W. Washburn, why don't you go save sombody else?
 

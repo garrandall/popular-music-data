@@ -95,10 +95,10 @@ Get around, round, round, I get around
 I'm making real good bread
 Get around, round, round, I get around
 I get around, round
-Get around, round, round, oooh
-Wah wa ooh
-Wah wa ooh
-Wah wa ooh
+Get around, round, round, oh
+Wah wa oh
+Wah wa oh
+Wah wa oh
 
 
 We always take my car 'cause it's never been beat
@@ -123,17 +123,17 @@ Round, round, get around
 I get around, yeah
 Get around, round, round, I get around
 Get around, round, round, I get around
-Wah wa oooh
+Wah wa oh
 Get around, round, round, I get around
-Ooooh
+Oh
 Get around, round, round, I get around
-Ooooh
+Oh
 Get around, round, round, I get around
 I get around
 Get around, round, round, I get around
 From town to town
 Get around, round, round, I get around
-Ooooh
+Oh
 Get around, round, round, I get around
-Ooooh
+Oh
 Get around, round, round, I get around

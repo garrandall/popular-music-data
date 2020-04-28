@@ -123,7 +123,7 @@ When you want to come
 Come-oh oh oh
 
 But shoot it in the right direction
-Make making it your intention-ooh yeah
+Make making it your intention-ohyeah
 Live those dreams
 Scheme those schemes
 Got to hit me

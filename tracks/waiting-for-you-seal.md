@@ -77,7 +77,7 @@ I have seen no one brighter than you
 I can't deny these things that I do
 Feels like the world's at stake yeaaaaa
 I have been waiting, I have been waiting for you
-(aaaaaa, for you, ba ba ba ba babaaaa, yea yea yea)
+(aa, for you, ba ba ba ba babaaaa, yea yea yea)
 
 Everyday I sit down and I feel like I'm waiting
 For you

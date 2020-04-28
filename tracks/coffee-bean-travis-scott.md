@@ -59,17 +59,17 @@ She's stressin' over her wardrobe (This is all)
 Bought the mansion on foreclose (This is all)
 No matter how many tickets your tour sold
 You feel this deep in your torso
-Feel like someone's readin' your horoscope (Ooh)
-Some shit only me and the Lord knows (Ooh)
-SOS is for those who hear this in morse code (Ooh)
-Too many doors closed, cul-de-sacs and fork roads (Ooh)
+Feel like someone's readin' your horoscope (Oh)
+Some shit only me and the Lord knows (Oh)
+SOS is for those who hear this in morse code (Oh)
+Too many doors closed, cul-de-sacs and fork roads (Oh)
 Still ended up at the North Pole
 This is where remorse goes (This is all)
-This shit'll have you in divorce court (Ooh)
+This shit'll have you in divorce court (Oh)
 Fighting over your seeds
-Fighting over your deeds, sliding over your keys (Ooh)
-Alimony and fees (Ooh)
-As your lawyer proceeds (Ooh-ooh-ooh)
+Fighting over your deeds, sliding over your keys (Oh)
+Alimony and fees (Oh)
+As your lawyer proceeds (Oh-oh-oh)
 To give out bad news
 
 

@@ -69,82 +69,78 @@ rankings:
   start_date: '1991-03-30'
 ---
 
-I haven't seen your face in a year 
-I can't wait till I get there 
-Just to kiss and squeeze and hug 
-Girl you know the rest 'cause they tell me 
+I haven't seen your face in a year
+I can't wait till I get there
+Just to kiss and squeeze and hug
+Girl you know the rest 'cause they tell me
 
-It never rains in southern California 
-It never rains in southern California 
+It never rains in southern California
+It never rains in southern California
 
-Maybe I'll take the flight out tonight 
-and you can pick me up about 8 
-I don't know what airline girl 
-but I know it won't be late 'cause they tell me 
+Maybe I'll take the flight out tonight
+and you can pick me up about 8
+I don't know what airline girl
+but I know it won't be late 'cause they tell me
 
-It never rains in southern California 
-It never rains in southern California 
+It never rains in southern California
+It never rains in southern California
 
-Now I can't sleep at night 
-without your 8 x 10 by my side 
-that day will come 
-for us to be together 
-I'm not worried 'bout a thing 
-not even stormy weather... 
+Now I can't sleep at night
+without your 8 x 10 by my side
+that day will come
+for us to be together
+I'm not worried 'bout a thing
+not even stormy weather...
 
-Oh it may be cold on the east coast 
-but on the other side of town it never rains... 
+Oh it may be cold on the east coast
+but on the other side of town it never rains...
 
-We have so much to talk about 
-a lot a catchin' up to do 
-I'll bring the diamond girl 
-because I'm so into you 
-cause they tell me... 
+We have so much to talk about
+a lot a catchin' up to do
+I'll bring the diamond girl
+because I'm so into you
+cause they tell me...
 
-It never rains in southern California 
-It never rains in southern California 
+It never rains in southern California
+It never rains in southern California
 
-Now since I'll be here at your place 
-lets take a weeks trip for two 
-We don't have to go to far 
-just as long as I'm with you 
-'cause they tell me... 
+Now since I'll be here at your place
+lets take a weeks trip for two
+We don't have to go to far
+just as long as I'm with you
+'cause they tell me...
 
-It never rains in southern California 
-It never rains in southern California 
+It never rains in southern California
+It never rains in southern California
 
-Can we just be alone 
-without those other strangers 
-calling your phone 
-now I don't want to be 
-that selfish kind of guy 
-but tonight let me take you 
-on a natural high 
+Can we just be alone
+without those other strangers
+calling your phone
+now I don't want to be
+that selfish kind of guy
+but tonight let me take you
+on a natural high
 
-just me and you alone 
+just me and you alone
 
-Now it may be cold on the east coast 
-but on the other side of town it never rains... 
+Now it may be cold on the east coast
+but on the other side of town it never rains...
 
-Now it may be cold on the east coast 
-but on the other side of town it never rains... 
+Now it may be cold on the east coast
+but on the other side of town it never rains...
 
-It never rains in southern California 
-It never rains in southern California 
-It never rains in southern California 
-It never rains in southern California 
+It never rains in southern California
+It never rains in southern California
+It never rains in southern California
+It never rains in southern California
 
-Now it may be cold on the east coast 
-but on the other side of town it never rains... 
+Now it may be cold on the east coast
+but on the other side of town it never rains...
 
-Now it may be cold on the east coast 
-but on the other side of town it never rains... 
+Now it may be cold on the east coast
+but on the other side of town it never rains...
 
-It never rains in southern California 
-It never rains in southern California 
-It never rains in southern California 
-
-
-
-
+It never rains in southern California
+It never rains in southern California
+It never rains in southern California
 

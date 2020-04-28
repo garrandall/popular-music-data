@@ -37,8 +37,8 @@ rankings:
 
 (Zoovier)
 Yeah baby ayy
-Ooh ooh ooooh ooooh ayy
-Ooh ooh ooooh ooooh yeah ayy
+Oh oh oohaoh
+Oh oh oohyohyy
 Squad, ayy
 I'm like baby how you do, ayy, ayy
 I'm tryna roll with you, ayy, ayy

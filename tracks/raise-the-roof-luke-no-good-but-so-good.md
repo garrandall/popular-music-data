@@ -104,7 +104,7 @@ Come on ya'll it's a big booty party
 Get all ya'll day in day
 Chillin' in the M to the I to the A
 Makin' hits with Luke this way
-Burn the roof downtown..up
+Burn the roof downtown...up
 If ya feel me just pump your fists up
 Left side, right side, what's up
 Put them legs up, wanna' be change up

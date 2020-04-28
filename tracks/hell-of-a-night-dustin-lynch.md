@@ -81,7 +81,7 @@ Yeah you know it's on, know it's on
 
 Show you a side of these two lanes you've never seen
 Heatin' it up behind the high beams
-Oooh, baby you and me, just runnin' down crazy
+Oh, baby you and me, just runnin' down crazy
 Flyin' high, living careless, on the edge of wild and reckless
 Hold on tight, I'm 'bout to show you one hell of a night
 
@@ -93,7 +93,7 @@ Burnin' down these back roads
 
 Show you a side of these two lanes you've never seen
 Heatin' it up behind the high beams
-Oooh, baby you and me, just runnin' down crazy
+Oh, baby you and me, just runnin' down crazy
 Flyin' high, livin' careless, on the edge of wild and reckless
 Hold on tight, I'm 'bout to show you one hell of a night
 
@@ -102,7 +102,7 @@ Girl, gimme that "let's go", and I'll give you that good good time
 
 Show you a side of these two lanes you've never seen
 Heatin' it up behind a high beams
-Oooh, baby you and me, just runnin' down crazy
+Oh, baby you and me, just runnin' down crazy
 Flyin' high, livin' careless, on the edge of wild and reckless
 Hold on tight, I'm 'bout to show you one hell of a night
 Yeah, a once in a lifetime night

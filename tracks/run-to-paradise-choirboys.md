@@ -79,7 +79,7 @@ Run to paradise
 
 Jesus say's it's gonna be alright
 He's gonna pat my back so I can walk in the light
-(That's right !)
+(That's right!)
 You don't mind if I abuse myself
 So I can hold my head up
 (Hold my head up)

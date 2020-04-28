@@ -28,17 +28,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-05-17'
 ---
-Artist: Tasha Holiday f/ Mase
-Album: Just the Way You Like It 12"
-Song: Just the Way You Like It (Main Edit)
-
 Miss Holiday
 Whatcha got
 Stevie J guaranteed to make it hot
 Bad Boy, MCA
 Doing this all day, any day
 
-1 - Is it just the way you like it, baby
+Is it just the way you like it, baby
 Tell me what you want
 Don't be ashamed to tell me how you want it
 We can get it on
@@ -56,8 +52,6 @@ Me on your mind
 I'll give it how you want it
 Say what you like baby
 
-Repeat 1
-
 Tell me your fantasies
 I'll bring them to life
 We'll use imagination
@@ -70,7 +64,6 @@ Give love to you
 Oh, tonight the time is right
 Oh, so baby dim the lights
 Let me love you
-
 
 Now many voyeur, can game any whore
 Wouldn't have to spend a penny for a Demi Moore
@@ -88,6 +81,3 @@ Send me to the tropic, smokin chocolate
 Get my jock licked, by girls that topless
 Mase, and Miss Holiday, a day, Bad Boy
 Come on now
-
-Repeat 1
-Repeat 1

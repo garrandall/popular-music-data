@@ -81,7 +81,7 @@ Because the rocky mountain way
 Is better than the way we had
 
 Yeah yeah yeah yeah yeah
-Rocky mountain way, ooooh
+Rocky mountain way, oh
 
 Well he's telling us this
 He's telling us that
@@ -97,7 +97,7 @@ Because the rocky mountain way
 Is better than the way we had
 
 Yeah yeah yeah yeah yeah
-Rocky mountain way, ooooh
+Rocky mountain way, oh
 
 And we don't need the ladies
 Crying because the story's sad, oh yeah
@@ -111,4 +111,4 @@ It's so much better
 It's so much better
 
 Yeah yeah yeah yeah yeah
-Rocky mountain way, ooooh
+Rocky mountain way, oh

@@ -110,7 +110,7 @@ No matter what they say
 No it ain't that way
 Ain't nobody humpin around
 
-Nobody 
+Nobody
 Humpin' around babe
 
 When you love someone
@@ -127,30 +127,30 @@ You lose the game, (if you) if you play that way
 
 
 
-Nobody 
+Nobody
 Humpin' around babe
 
 Girl when you trust someone
 You don't call on everybody
 Ain't nobody foolin' around
 And the more I think about it
-You lose all your clout 
+You lose all your clout
 You lose the game, baby, if you play that way
 
 
 
-My name is Brown 
+My name is Brown
 That's what I'm called
 So don't try to step to be wrong
 Or you'll fall slow
 'Cos I just wanna get something to you
 Maybe take control of you just like
-I told you (I wanna roll) 
-On a tip that's movin 
+I told you (I wanna roll)
+On a tip that's movin
 Im gonna make ya movin, grovin
 Leavin ya like Ooo
 When I touch ya
-Give ya so much 
+Give ya so much
 The feeling of the effect that I'm dealin
 When I rub ya up & down
 
@@ -162,8 +162,4 @@ Why do you think I'm foolin' around
 I can't stand the pressure
 You know I'm yours forever
 Ain't nobody, nobody, nobody humpin' around
-
-
-
-
 

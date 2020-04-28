@@ -85,7 +85,7 @@ So I asked to see her next week and she told me I could
 (I asked to see her and she told me I could)
 Something tells me I'm into something good
 (Something tells me I'm into something)
-(Something tells me I'm into something, ahhh)
+(Something tells me I'm into something, ah)
 
 I walked her home and she held my hand
 I knew it couldn't be just a one-night stand

@@ -88,7 +88,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-04-21'
 ---
-Alright, (hmm)
+Alright, (hm)
 It's so funny runnin' into you
 It has to be three years
 Since we last seen each other
@@ -98,7 +98,7 @@ We used to have with one another
 
 We absolutely didn't care
 We would do it anywhere
-Eye contact, and it was over, hmm
+Eye contact, and it was over, hm
 But that's when I was wild, and now
 I couldn't care less about
 Someone gettin' hurt
@@ -112,7 +112,7 @@ Cuz everything is different now
 I finally have settled down
 And became a one woman man
 
-Ooh
+Oh
 There were many others after you
 Quite a few one night stands
 Some of their names I can't remember
@@ -127,12 +127,11 @@ You are lookin' good as hell
 But I can't go home with you
 Because I'm goin' home to her
 
-Chorus
 
 Long gone, are the days
 When I ran the streets
 Tryin' to get laid
-Ooh, and now
+Oh, and now
 (See now that I found the love of my life)
 (I don't have to trick no more)
 Girl, it was nice seein' you

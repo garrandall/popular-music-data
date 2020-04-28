@@ -80,7 +80,7 @@ You can make me feel this way
 You and me
 We are the right combination
 For love (For love)
-We're all we need (Ooh)
+We're all we need (Oh)
 
 It's just you and me
 We make the right combination
@@ -107,7 +107,7 @@ I just know that you'll be there
 You and me
 We are the right combination
 For love (For love)
-We're all we need (Ooh)
+We're all we need (Oh)
 
 It's just you and me
 We make the right combination
@@ -131,7 +131,7 @@ I'll be by your side forever
 You and me
 We are the right combination
 For love (For love)
-We're all we need (Ooh)
+We're all we need (Oh)
 
 It's just you and me
 We make the right combination
@@ -139,5 +139,5 @@ Straight from the heart
 Love is the key
 
 Hoo
-Hoo, ooh, hoo
-Ooh, ooh, ooh
+Hoo, oh, hoo
+Oh, oh, oh

@@ -74,7 +74,7 @@ rankings:
 ---
 
 Now, I lay me down to sleep
-Ooh, I just can't find a beat
+Oh, I just can't find a beat
 Flash light (oh, I will never dance!)
 Flash light
 Flash light
@@ -87,14 +87,14 @@ Oh, it's no use
 Flash light
 Red light
 Neon light
-Ooh, stop light
+Oh, stop light
 
 Now I lay me down to sleep
 I guess I'll go count the sheep
 Oh, but I will never dance
 
 (Oh, don't make me do it)
-(Dance, sucker! ooh ha ha!)
+(Dance, sucker! ohha ha!)
 (Oww! Get him!)
 
 Most of all he needs the funk (shine it)
@@ -142,8 +142,8 @@ Flash light (flash light, flash light)
 Flash light (oh, flash light)
 Flash light (oh, flash light)
 Spot light (spot light)
-Neon light (ooh, neon light)
-Flash light (ooh, flash light ho!)
+Neon light (oh neon light)
+Flash light (oh flash light ho!)
 Stop light (stop light)
 
 Now I lay me down to sleep

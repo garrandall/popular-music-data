@@ -117,10 +117,10 @@ All right (Mony, Mony)
 I say yeah (yeah), yeah (yeah), yeah (yeah), yeah (yeah), yeah (yeah)
 Oh!
 
-(Ooh, I love you, Mony, moan, moan, Mony) So good
-(Ooh, I love you, Mony, moan, moan, Mony) So good
-(Ooh, I love you, Mony, moan, moan, Mony) All right
-(Ooh, I love you, Mony, moan, moan, Mony) Yeah Mony, Mony
+(Oh, I love you, Mony, moan, moan, Mony) So good
+(Oh, I love you, Mony, moan, moan, Mony) So good
+(Oh, I love you, Mony, moan, moan, Mony) All right
+(Oh, I love you, Mony, moan, moan, Mony) Yeah Mony, Mony
 
 Yeah (yeah), everybody (yeah), yeah (yeah), yeah (yeah), yeah (yeah), yeah
 

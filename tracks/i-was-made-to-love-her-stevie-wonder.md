@@ -121,6 +121,6 @@ I was made to live for her, yeah!
 Ah, I was made to love her
 Build my world all around her
 Hey, hey, hey
-Ooh baby, I was made to please her
+Oh baby, I was made to please her
 You know Stevie ain't gon' leave her, no
-Hey, hey, hey, ooh wee, baby
+Hey, hey, hey, ohwee, baby

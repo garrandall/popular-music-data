@@ -164,7 +164,7 @@ Oh, oh, oh
 I don`t understand it
 Can`t keep my mind off loving you
 (Not even for a minute)
-Oooh
+Oh
 
 Now baby
 I`m caught up in the magic

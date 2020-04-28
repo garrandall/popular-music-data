@@ -29,7 +29,7 @@ I just did five shows, three days, came out with the bag, bitch (Bag)
 Pockets swole, 45K and a four-five, so I sag, bitch
 If a fat bitch know how to get some money, I'll fuck a fat bitch (Uh-huh, uh-huh)
 Gotta show coming up in London and got London on da Track, bitch (Yuh)
-I give a fan a high five in the airport, she did a backflip (Oh my God, ahh)
+I give a fan a high five in the airport, she did a backflip (Oh my God, ah)
 I just went Platinum and I'm coming back like
 
 

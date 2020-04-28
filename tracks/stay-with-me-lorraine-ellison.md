@@ -50,7 +50,7 @@ No no, I can't believe you're leaving me
 
 Stay with me baby
 Please, stay with me baby
-Ooh, stay with me baby
+Oh, stay with me baby
 I can't go on
 
 
@@ -63,13 +63,13 @@ No no, I can't believe you're leaving me
 
 
 Stay with me baby
-Ooh, stay with me baby
-Ooh, please, please stay with me baby
+Oh, stay with me baby
+Oh, please, please stay with me baby
 
 
 Remember you said you'd always gonna need me
 Remember you said you'd never ever leave me
-Remember, remember, I'm asking you, begging you, ooh, ooh
+Remember, remember, I'm asking you, begging you, oh, oh
 
 
 Stay with me baby
@@ -78,6 +78,6 @@ Stay with me baby
 I can't go on
 
 
-Ooh stay with me baby
+Oh stay with me baby
 I'm begging you, stay with me baby
 Stay, stay, stay with me baby

@@ -45,19 +45,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-07-04'
 ---
-Ooh ooh that's my song ho
-Ooh ooh that's my song ho
-Ooh ooh that's my song ho
+Oh oh that's my song ho
+Oh oh that's my song ho
+Oh oh that's my song ho
 That's my song ho, that's my song ho
 
 
 Hit me in my whip, that bitch nasty
 Bad bitch, but her attitude nasty
-Ooh ooh she the swoop don't kiss her, that bitch nasty
+Oh oh she the swoop don't kiss her, that bitch nasty
 Hold that lookin' for some thots, bitch I'm nasty
-Nasty, nasty, nasty (ooh ooh that's my song ho)
-Nasty, nasty, nasty (ooh ooh that's my song ho)
-Nasty, nasty, nasty (ooh ooh that's my song ho)
+Nasty, nasty, nasty (oh oh that's my song ho)
+Nasty, nasty, nasty (oh oh that's my song ho)
+Nasty, nasty, nasty (oh oh that's my song ho)
 (That's my song ho, that's my song ho)
 
 
@@ -74,11 +74,11 @@ But,who give a fuck? I'mma great bait
 
 Hit me in my whip, that bitch nasty
 Bad bitch, but her attitude nasty
-Ooh ooh she the swoop don't kiss her, that bitch nasty
+Oh oh she the swoop don't kiss her, that bitch nasty
 Hold that lookin' for some thots, bitch I'm nasty
-Nasty, nasty, nasty (ooh ooh that's my song ho)
-Nasty, nasty, nasty (ooh ooh that's my song ho)
-Nasty, nasty, nasty (ooh ooh that's my song ho)
+Nasty, nasty, nasty (oh oh that's my song ho)
+Nasty, nasty, nasty (oh oh that's my song ho)
+Nasty, nasty, nasty (oh oh that's my song ho)
 (That's my song ho, that's my song ho)
 
 
@@ -102,9 +102,9 @@ These hoes here trashy
 
 Hit me in my whip, that bitch nasty
 Bad bitch, but her attitude nasty
-Ooh ooh she the swoop don't kiss her, that bitch nasty
+Oh oh she the swoop don't kiss her, that bitch nasty
 Hold that lookin' for some thots, bitch I'm nasty
-Nasty, nasty, nasty (ooh ooh that's my song ho)
-Nasty, nasty, nasty (ooh ooh that's my song ho)
-Nasty, nasty, nasty (ooh ooh that's my song ho)
+Nasty, nasty, nasty (oh oh that's my song ho)
+Nasty, nasty, nasty (oh oh that's my song ho)
+Nasty, nasty, nasty (oh oh that's my song ho)
 (That's my song ho, that's my song ho)

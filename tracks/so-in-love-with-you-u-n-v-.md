@@ -77,7 +77,7 @@ I'll be true,
 I will feel here and now,
 As we both take this vow,
 I am so in love (so in love),
-With you... ooooooo
+With you... oo
 
 Words can't express,
 I confess with each beat of my heart,
@@ -88,7 +88,7 @@ Our love will grow,
 As the years come and go,
 I'll remain by your side,
 Oh yes I will,
-There isn't anything that i will demand.
+There isn't anything that I will demand.
 
 I will stand before god,
 Give you all that I've got,
@@ -106,7 +106,7 @@ I'll be there for you,
 For richer or for poorer,
 In sickness and in health,
 Till death do us part, (I will go with you)
-From this day on and forever, (I will...) Ahhhhhh...
+From this day on and forever, (I will...) Ah...
 
 I will stand before god,
 Give you all that I've got,
@@ -117,6 +117,6 @@ As we both take this vow,
 I am so in love, (I am so in love)
 I am so in love,
 I am so in love,
-With you oooo
+With you oo
 I am so in love...
-With you oooooooo...
+With you oo...

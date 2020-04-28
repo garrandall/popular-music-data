@@ -40,7 +40,7 @@ It ain't the same when I'm without you, boo
 Been around a million stars
 None of them shine brighter than you
 The sky be so dark now without you
-Yeah, ooh, baby
+Yeah, oh, baby
 
 
 It don't make no sense 'less I'm doing it with you

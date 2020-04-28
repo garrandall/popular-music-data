@@ -23,9 +23,9 @@ rankings:
 
 Lay a hand full of marked cards,
 I played the last game.
-Well, all the time you know, 
+Well, all the time you know,
 that everybody's doin' the same.
-Ain't it cruel, now, baby 
+Ain't it cruel, now, baby
 how life is full of such shame? But
 
 
@@ -36,7 +36,7 @@ With that loaded gun you seem to
 Have so much fun.
 Scarin' hell outta people that you
 Claim you love.
-Cannot find no reason why you're 
+Cannot find no reason why you're
 Doin' the things you do.
 
 
@@ -46,8 +46,4 @@ And even my good friends call me,
 Make me feel the fool.
 But then I find no reason why you're
 Doin' the things you do.
-
-
-
-
 

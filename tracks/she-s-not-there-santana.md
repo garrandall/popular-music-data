@@ -82,7 +82,7 @@ Though they all knew
 Well, it's too late to say you're sorry
 How would I know, why should I care
 Please don't bother trying to find her
-She's not there....
+She's not there...
 
 Well, let me tell you about the way she looked
 The way she acted, the color of her hair

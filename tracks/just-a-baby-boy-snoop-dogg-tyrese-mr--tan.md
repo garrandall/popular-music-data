@@ -121,7 +121,7 @@ Yes I do babe
 Girl you’re about to drive me crazy
 You cut me down and call me lazy
 I guess I’m just another baby boy
-Oh noo, no ohhh ohh
+Oh noo, no oh oh
 
 You just a baby-boy
 Your not the real McCoy

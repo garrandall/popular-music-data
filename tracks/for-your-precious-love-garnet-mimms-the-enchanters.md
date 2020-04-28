@@ -61,7 +61,7 @@ Our love will grow wider
 Deeper than any sea Of all the things that I want
 In this whole wide world
 Is just for you to say
-You'll be my girl And, ooh (wanting you)While I was wanting you, girl(I'm so lonely and blue)For that's, that's
+You'll be my girl And, oh (wanting you)While I was wanting you, girl(I'm so lonely and blue)For that's, that's
 What love can do And every night(Wanting you)(I'm so lonely and blue)That I got to bed
 I dream wonderful
-Wonderful dreams of you And, ooh (wanting you)While I was wanting you...
+Wonderful dreams of you And, oh (wanting you)While I was wanting you...

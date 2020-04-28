@@ -138,7 +138,7 @@ When the bones are good
 
 Bones are good, the rest, the rest don't matter (Baby, it don't really matter)
 Paint could peel, the glass could shatter (Oh, the glass, oh, the glass could shatter)
-Bones are good, the rest, the rest don't matter (Ooh)
+Bones are good, the rest, the rest don't matter (Oh
 Paint could peel, the glass, the glass could shatter (Yeah)
 
 When the bones are good, the rest don't matter
@@ -150,7 +150,7 @@ Baby, I know any storm we're facing
 Will blow right over while we stay put
 The house don't fall when the bones are good
 
-Yeah, ooh
+Yeah, oh
 
 
 

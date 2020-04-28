@@ -111,7 +111,7 @@ Now I'm leaving you
 
 
 
-(Watch me - watch me! Ooh yea)
+(Watch me - watch me! Oh yea)
 
 
 

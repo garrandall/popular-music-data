@@ -3,9 +3,9 @@ artists:
 - Mary J. Blige
 features: []
 genres: []
-key: ooh--mary-j--blige
-lyrics_url: https://genius.com/Mary-j-blige-ooh-lyrics
-name: Ooh!
+key: oh--mary-j--blige
+lyrics_url: https://genius.com/Mary-j-blige-oh-lyrics
+name: Oh!
 rankings:
 - end_date: '2003-09-12'
   rank: 73
@@ -62,13 +62,13 @@ I do what you want, if you don't hurt me
 I'll cook and clean, I'll make you happy
 
 
-Ooh, what you do to me
+Oh, what you do to me
 (What you do to me)
-Ooh, you're my everything
+Oh, you're my everything
 (You're my everything)
-Ooh, I'm so glad I found you
+Oh, I'm so glad I found you
 (I'm so glad I found you)
-Ooh, I can't live without you
+Oh, I can't live without you
 
 
 Got a jones in my bones, and it's all for you, babe
@@ -77,13 +77,13 @@ I can't shake thang, it's the sweetest pain
 So who's your girl? You better say my name
 
 
-Ooh, what you do to me
+Oh, what you do to me
 (What you do to me, baby baby baby)
-Ooh, you're my everything
+Oh, you're my everything
 (You're my every, everything)
-And ooh, I'm so glad I found you
+And oh, I'm so glad I found you
 (I'm so glad I found you, yeah)
-Ooh, I can't live without you
+Oh, I can't live without you
 
 
 What you do to me, it's just a mystery
@@ -93,27 +93,27 @@ All my life I tried to find what's best for me
 It's you
 
 
-Ooh, what you do to me
+Oh, what you do to me
 (What you do to me, baby baby)
-Ooh you're my everything
+Oh you're my everything
 (You're my everything)
-Ooh I'm so glad I found you
+Oh I'm so glad I found you
 (I'm so glad I found you, baby)
-Ooh I can't live without you
+Oh I can't live without you
 (What you do to me, baby)
-Ooh, what you do to me
-Ooh, you're my everything
+Oh, what you do to me
+Oh, you're my everything
 (You're my everything, everything)
-Ooh, I'm so glad I found you
-Ooh, I can't live without you
+Oh, I'm so glad I found you
+Oh, I can't live without you
 (I can't live without you)
-Ooh, what you do to me
+Oh, what you do to me
 (What you do to me, baby baby)
-Ooh, you're my everything
+Oh, you're my everything
 (You're my everything)
-Ooh, I'm so glad I found you
+Oh, I'm so glad I found you
 (I'm so glad that I found you)
-Ooh, I can't live without you
+Oh, I can't live without you
 
 
 What you do to me it's just a mystery
@@ -124,16 +124,16 @@ All my life I tried to find what's best for me
 It's you
 
 
-Ooh, what you do to me
+Oh, what you do to me
 (What you do to me)
-Ooh, you're my everything
+Oh, you're my everything
 (Everything, baby)
-Ooh, I'm so glad I found you
+Oh, I'm so glad I found you
 (I'm so glad I found you)
-Ooh, I can't live without you
+Oh, I can't live without you
 (I can't live, I can't live without you)
-Ooh, what you do to me
-Ooh, you're my everything
-Ooh, I'm so glad I found you
+Oh, what you do to me
+Oh, you're my everything
+Oh, I'm so glad I found you
 (I'm so glad I found you)
-Ooh, I can't live without you
+Oh, I can't live without you

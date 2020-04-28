@@ -51,9 +51,6 @@ And filling with emotion he took a bite
 It was one part love, one part child
 One part lover, one part wild
 
-
-
-
 Skin on skin
 Let the love begin
 Women

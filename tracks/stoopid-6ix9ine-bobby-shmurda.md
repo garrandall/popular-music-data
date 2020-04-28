@@ -101,7 +101,7 @@ Free Bobby, Free Rowdy, free Cueno, free the 9
 Shoutout Jay Dee, shoutout Kooda, Dee Savv, those my guys
 FOA they gon' ride
 GS9 they gon' slide
-When I woo woo back, ahh ahh, those my guys
+When I woo woo back, ah ah, those my guys
 
 
 She give me neck until I burst out

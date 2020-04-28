@@ -25,7 +25,7 @@ rankings:
   start_date: '1974-06-01'
 ---
 Teen angel, teen angel
-Teen angel, ooh, ooh
+Teen angel, oh, oh
 
 That fateful night
 The car was stalled

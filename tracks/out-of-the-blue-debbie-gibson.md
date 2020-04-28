@@ -97,7 +97,7 @@ What love was, what love was,
 What love was
 
 I need you, I need you
-And ev'ry day I love you 
+And every day I love you
 More and more
 Without you
 I know what it's all for

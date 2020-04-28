@@ -25,7 +25,7 @@ rankings:
   start_date: '1976-05-22'
 ---
 
-Mmmm, when the midnight ravens appear in your eyes
+Mmm, when the midnight ravens appear in your eyes
 Oh, and the mystery holdin' your soul is realized
 Shadows of night, faces in the fire
 Like visions in a dream, takin' me higher
@@ -44,9 +44,9 @@ You got the magic chillin' me
 You got the magic, shine your spell on me
 
 You got the magic thrillin' me
-You got the magic chillin' me, ooh
+You got the magic chillin' me, oh
 You got the magic thrillin' me
-You got the magic chillin' me, ooh
+You got the magic chillin' me, oh
 You got the magic, shine your spell on me
 ...
 

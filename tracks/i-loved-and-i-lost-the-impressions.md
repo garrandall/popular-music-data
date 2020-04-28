@@ -64,9 +64,6 @@ So I loved and I lost
 And I wish her back with all my might
 'Cause she was so very good to me
 
-
-
-
 I loved and I lost, baby
 It happens to the best
 So I loved and I lost
@@ -74,6 +71,6 @@ And I might as well confess
 
 
 I loved and I lost, mhm
-I loved and I lost, ooh
+I loved and I lost, oh
 I loved and I lost
 I loved and I lost

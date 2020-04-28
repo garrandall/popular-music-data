@@ -165,7 +165,7 @@ Baby, don't misunderstand, I do want you for my man
 I just need a little time, before I invest my love
 
 
-Don't walk away boy, (ooh don't walk away)
+Don't walk away boy, (oh don't walk away)
 My love won't hurt you (no no)
 Don't walk away boy
 I'll be right there for you

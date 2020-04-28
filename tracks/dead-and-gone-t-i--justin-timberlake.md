@@ -135,7 +135,7 @@ Big Phil, this for you, pimpin'
 Ohh, I've been travelin' on this road too long (too long)
 Just tryin' to find my way back home (back home)
 The old me is dead and gone, dead and gone
-And ohh, I've been travelin' on this road too long (too long)
+And oh, I've been travelin' on this road too long (too long)
 Just tryin' to find my way back home (back home)
 The old me is dead and gone, dead and gone, hey
 
@@ -179,7 +179,7 @@ The old me dead and gone away
 Ohh, I've been travelin' on this road too long (too long)
 Just tryin' to find my way back home (back home)
 The old me is dead and gone, dead and gone
-And ohh, I've been travelin' on this road too long (too long)
+And oh, I've been travelin' on this road too long (too long)
 Just tryin' to find my way back home (back home)
 The old me is dead and gone, dead and gone, hey
 
@@ -223,7 +223,7 @@ The old me dead and gone away
 Ohh, I've been travelin' on this road too long (too long)
 Just tryin' to find my way back home (back home)
 The old me is dead and gone, dead and gone
-And ohh, I've been travelin' on this road too long (too long)
+And oh, I've been travelin' on this road too long (too long)
 Just tryin' to find my way back home (back home)
 The old me is dead and gone, dead and gone, hey
 
@@ -249,6 +249,6 @@ But the new me will be alright 'cause
 Ohh, I've been travelin' on this road too long (too long)
 Just tryin' to find my way back home (back home)
 The old me is dead and gone, dead and gone
-And ohh, I've been travelin' on this road too long (too long)
+And oh, I've been travelin' on this road too long (too long)
 Just tryin' to find my way back home (back home)
 The old me is dead and gone, dead and gone, hey

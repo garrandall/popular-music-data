@@ -94,7 +94,7 @@ And you swear you would bare my child
 All the while you were out running wild
 With yo' friends
 Spendin' all my ends
-And I caught you screamin' Ooo Ahh with him
+And I caught you screamin' Ooo Ah with him
 I think it's time I let you know you can go
 There's the do' (door)
 

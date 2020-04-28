@@ -122,7 +122,7 @@ So go to your room with that there, word up (ah)
 And tell that big head nigga, "You run with to do the same" (baby)
 
 
-I'm still lovin' you, babe—ooh, ooh, ooh
+I'm still lovin' you, babe—oh, oh, oh
 (you and I, 'til the day we die)
 I'm still lovin' you, babe—ah, babe, baby
 I'm still lovin' you, babe—baby, catch you, close to me, yeah
@@ -136,11 +136,11 @@ I'm still lovin' you, babe—something will...
 Little, little lovin' you, babe, doo—baby
 
 
-Ah—ooh, ooh, ooh, baby
+Ah—oh, oh, oh, baby
 (you and I, 'til the day we die)
-Ah, doo—ooh, ooh, ooh, baby
+Ah, doo—oh, oh, oh, baby
 (you and I, 'til the day we die)
-Ah—ooh, ooh, ooh, baby
+Ah—oh, oh, oh, baby
 (you and I, 'til the day we die)
-Ah, doo—ooh, ooh, ooh, baby
+Ah, doo—oh, oh, oh, baby
 (you and I, 'til the day we die)

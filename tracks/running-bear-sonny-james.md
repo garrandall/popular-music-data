@@ -31,9 +31,6 @@ He couldn't reach the Little White Dove waiting on the other side
 In the moonlight he could see her throwing kisses 'cross the waves
 Her little heart was beating faster waiting for her Indian brave
 
-
-
-
 Running Bear dove in the water, Little White Dove did the same
 And they swam out to each other through the swirling stream they came
 As their hands touched and their lips met, the raging river pulled them down

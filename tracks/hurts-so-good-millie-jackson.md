@@ -70,7 +70,7 @@ And bounce me like a rubber ball
 I`m not complaining
 What you`re doing, you see
 Cause this hurting feeling
-Is, ooh, so good to me
+Is, oh so good to me
 
 Don`t you know that it
 Hurts so good
@@ -95,9 +95,9 @@ It`s worth all the misery
 Cause it hurts so good
 Don`t you know that
 It hurts so good
-Ooh, hoo, baby, ooh...
+Oh, hoo, baby, oh..
 
-Ooh, boy, please don`t
+Oh, boy, please don`t
 Ever take the hurt off me
 Cause it would hurt even worse
 If you would ever, ever leave
@@ -131,4 +131,4 @@ It hurts so good to me
 Good for me, yeah, yeah
 
 Hurts so good
-Ooh, baby
+Oh, baby

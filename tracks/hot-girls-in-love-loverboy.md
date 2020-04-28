@@ -103,7 +103,7 @@ A cut above the rest
 She's turnin' on the heat
 She's got the magic touch
 She's turnin' on the heat
-Ooooh it's a little too much
+Oh it's a little too much
 She's turnin' on the heat
 And it's a hundred above
 Hot girls in love
@@ -121,7 +121,7 @@ Her lovin' man
 She's turnin' on the heat
 She's got the magic touch
 She's turnin' on the heat
-Ooooh and it's a little too much
+Oh and it's a little too much
 She's turnin' on the heat
 It's a hundred above
 Hot girls in love
@@ -139,7 +139,7 @@ Hot girls in love
 Hot girls in love
 Hot girls in love
 Hot girls in love, in love
-Aaaahhh
+Ah
 In love
 In love
 

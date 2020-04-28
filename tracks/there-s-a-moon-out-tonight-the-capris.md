@@ -64,18 +64,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-04-03'
 ---
-There's a (moon out tonight) whoa-oh-oh ooh
+There's a (moon out tonight) whoa-oh-oh oh
 Let's go strollin'
-There's a (girl in my heart) whoa-oh-oh ooh
+There's a (girl in my heart) whoa-oh-oh oh
 Whose heart I've stolen
-There's a moon out tonight (whoa-oh-oh ooh)
-Let's go strollin' through the park (ooh-ooh-ooh-ooh)
+There's a moon out tonight (whoa-oh-oh oh)
+Let's go strollin' through the park (oh-oh-oh-oh)
 
-There's a (glow in my heart) whoa-oh-oh ooh
+There's a (glow in my heart) whoa-oh-oh oh
 I never felt before
-There's a (girl at my side) whoa-oh-oh ooh
+There's a (girl at my side) whoa-oh-oh oh
 That I adore
-There's a glow in my heart I never felt before (ooh-ooh-ooh-ooh)
+There's a glow in my heart I never felt before (oh-oh-oh-oh)
 
 Oh darlin'
 Where have you been?
@@ -84,9 +84,9 @@ I've been longin' for you all my life
 Whoa-uh-oh baby I never felt this way before
 I guess it's because there's a moon out tonight
 
-There's a (glow in my heart) whoa-oh-oh ooh
+There's a (glow in my heart) whoa-oh-oh oh
 I never felt before
-There's a (girl at my side) whoa-oh-oh ooh
+There's a (girl at my side) whoa-oh-oh oh
 That I adore
 There's glow in my heart
 I guess it's because

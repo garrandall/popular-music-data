@@ -141,6 +141,3 @@ Turn the radio up for that sweet sound
 Hold me close, never let me go
 Keep this feelin' alive, make me lose control
 
-
-
-

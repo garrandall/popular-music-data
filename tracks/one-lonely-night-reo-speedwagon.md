@@ -92,7 +92,7 @@ But how much longer can this night go on boy
 
 
 
-Ooh she's such a good find
+Oh she's such a good find
 Have you gone and lost your mind
 You should know she's one of a kind
 

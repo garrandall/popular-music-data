@@ -84,9 +84,6 @@ There's only one other way to tell
 Every time I call
 There's never any answer at all
 
-
-
-
 When will you realize
 I just won't go away
 Not unless you say it from your heart

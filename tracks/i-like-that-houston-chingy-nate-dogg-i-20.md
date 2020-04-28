@@ -103,13 +103,13 @@ Yeah...i like that
 I like that
 
 
-Whooa ooh whooa ooh whoa ooh whoaa
+Whooa ohwhooa oohhoa ohohoaa
 I like that
 I like that
 Girl twirk that back
 Whoa
 I like that
-I like that (whooa ooh whooa ooh whoa ooh whoaa)
+I like that (whooa ohwhooa oohhoa ohohoaa)
 Girl freak that back
 Whoa
 I like that
@@ -122,7 +122,7 @@ Girl freak that back
 
 
 Houston bust straight through
-I see me i see you
+I see me I see you
 Your body's calling
 I'm gonna blow yo back
 Ill show you
@@ -136,13 +136,13 @@ Turn around and make it pop (pop)
 Ah (don't stop girl) just drop (drop)
 
 
-Whooa ooh whooa ooh whoa ooh whoaa
+Whooa ohwhooa oohhoa ohohoaa
 I like that
 I like that
 Girl twirk that back
 Whoa
 I like that
-I like that (whooa ooh whooa ooh whoa ooh whoaa)
+I like that (whooa ohwhooa oohhoa ohohoaa)
 Girl freak that back
 Whoa
 I like that
@@ -156,23 +156,23 @@ Girl freak that back
 
 Some of the niggas widin out
 Got me back against the wall
-Girl i like it (i like that)
+Girl I like it (i like that)
 While you feeling me burning in between on fighting temptation
 Coming over me (coming over me)
 I can feel the vibration (feel the vibration)
-Gettin off on me (whoa ooh whoa oh)
+Gettin off on me (whoa ohwhoa oh)
 Don't stop get ready drop
 Turn around and make it pop (pop)
 Ah just drop (drop)
 
 
-Whooa ooh whooa ooh whoa ooh whoaa
+Whooa ohwhooa oohhoa ohohoaa
 I like that
 I like that
 Girl twirk that back
 Whoa
 I like that
-I like that (whooa ooh whooa ooh whoa ooh whoaa)
+I like that (whooa ohwhooa oohhoa ohohoaa)
 Girl freak that back
 Whoa
 I like that
@@ -191,11 +191,11 @@ On the stove like whoa here we go (here we go)
 Yeah, I got me a reason to plot tonight
 And I'm leaving wit somethin hot tonight
 She isn't got tonight
-Stop... you thought i lost ya
+Stop... you thought I lost ya
 This 12 inches it'll cost ya
-What i say ya get toss ya
-24's on the whip i stay floss ya
-She wanna hang wit the stars so i showed her my bracelet
+What I say ya get toss ya
+24's on the whip I stay floss ya
+She wanna hang wit the stars so I showed her my bracelet
 ?? replace it
 
 
@@ -211,13 +211,13 @@ Get the head of some friends (?)
 We bound to like that
 
 
-Whooa ooh whooa ooh whoa ooh whoaa
+Whooa ohwhooa oohhoa ohohoaa
 I like that
 I like that
 Girl twirk that back
 Whoa
 I like that
-I like that (whooa ooh whooa ooh whoa ooh whoaa)
+I like that (whooa ohwhooa oohhoa ohohoaa)
 Girl freak that back
 Whoa
 I like that
@@ -239,13 +239,13 @@ We ain't gonna hurt nobody
 Gimme that gimme that gimme that
 
 
-Whooa ooh whooa ooh whoa ooh whoaa
+Whooa ohwhooa oohhoa ohohoaa
 I like that
 I like that
 Girl twirk that back
 Whoa
 I like that
-I like that (whooa ooh whooa ooh whoa ooh whoaa)
+I like that (whooa ohwhooa oohhoa ohohoaa)
 Girl freak that back
 Whoa
 I like that
@@ -258,8 +258,8 @@ Girl freak that back
 
 
 Yeah yeah yeah
-Turn around from the back and um i like that
-Let me see it from the front and uh i like that
+Turn around from the back and um I like that
+Let me see it from the front and uh I like that
 Yeah you know how we do
 Turn around
 Come here

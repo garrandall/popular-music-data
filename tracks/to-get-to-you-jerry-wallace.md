@@ -59,7 +59,7 @@ rankings:
 I would walk out on my friends to get to you
 If I lose them all for your love I'll do that to
 Guess they mean well when they tell me what to do
-But they dont know how far I'll go to get to you
+But they don't know how far I'll go to get to you
 
 Burnin bridges behind me to get to you
 Breaking all ties that bind me to get to you

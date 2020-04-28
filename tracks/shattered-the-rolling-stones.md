@@ -61,8 +61,8 @@ And my lover's never charming
 Life's just a cocktail party on the street
 Big Apple
 People dressed in plastic bags
-Directing traffic   ((6661646), shattered)
-Some kind of fashion   ((6661646), shattered)
+Directing traffic ((6661646), shattered)
+Some kind of fashion ((6661646), shattered)
 
 
 Laughter, joy, and loneliness and sex and sex and sex and sex
@@ -73,7 +73,7 @@ Shattered
 
 All this chitter-chatter, chitter-chatter, chitter-chatter about
 Shmatta, shmatta, shmatta, I can't give it away on 7th Avenue
-This town's been wearing tatters, uh huh   (Shadoobie, shattered)
+This town's been wearing tatters, uh huh (Shadoobie, shattered)
 Work and work for love and sex
 Ain't you hungry for success, success, success, success
 Does it matter? (Shattered)
@@ -81,7 +81,7 @@ Does it matter? (Shattered)
 Does it matter?
 
 
-Ahhh, look at me, I'm a shattered
+Ah, look at me, I'm a shattered
 I'm a shattered
 Look at me, I'm a shattered, yeah
 
@@ -115,9 +115,9 @@ Shadoobie, shattered
 Shadoobie, shattered
 
 
-This town's full of money grabbers   (Shadoobie, shattered)
-Go ahead, bite the Big Apple, don't mind the maggots, uh-huh   (Shadoobie, shattered)   (Shadoobie, shattered)
+This town's full of money grabbers (Shadoobie, shattered)
+Go ahead, bite the Big Apple, don't mind the maggots, uh-huh (Shadoobie, shattered) (Shadoobie, shattered)
 
-Shadoobie, my brain's been battered   (Shadoobie, shattered, shattered)
-My friends they come around, they flatter, flatter, flatter, flatter, flatter, flatter, flatter   (Shadoobie, shattered)   (Shadoobie, shattered)
+Shadoobie, my brain's been battered (Shadoobie, shattered, shattered)
+My friends they come around, they flatter, flatter, flatter, flatter, flatter, flatter, flatter (Shadoobie, shattered) (Shadoobie, shattered)
 Pile it up, pile it up, pile it high on the platter  (Shadoobie, shattered, shattered)

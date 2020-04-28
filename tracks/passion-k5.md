@@ -28,8 +28,8 @@ Umm... again!
 
 That's what we both want to do
 
-Ooh, yeah, come on
-Ooh, yeah
+Oh, yeah, come on
+Oh, yeah
 
 Come on, everybody, throw your hands up in the air
 There's a party going on, can't you see it everywhere
@@ -38,34 +38,34 @@ So, come on, everybody
 
 Umm, uh, uh
 
-Ooh, yeah, come on
-Ooh, yeah
+Oh, yeah, come on
+Oh, yeah
 
 The music's pumping and it's got to be high
-So, ooh, yeah
+So, oh, yeah
 
 Umm, uh, uh
 
-Ooh, yeah, come on
-Ooh, yeah
+Oh, yeah, come on
+Oh, yeah
 
 That's what we both want to do
 
-Ooh, yeah, come on
-Ooh, yeah
+Oh, yeah, come on
+Oh, yeah
 
 Come on, everybody, throw your hands up in the air
 There's a party going on, can't you see it everywhere
 The music's pumping and it's got to be high
 So, come on, everybody
 
-Ooh, yeah, come on
-Ooh, yeah
+Oh, yeah, come on
+Oh, yeah
 
 Come on, everybody, throw your hands up in the air
 There's a party going on, can't you see it everywhere
 The music's pumping and it's got to be high
 So, come on, everybody
 
-Ooh, yeah, come on
-Ooh, yeah
+Oh, yeah, come on
+Oh, yeah

@@ -91,9 +91,9 @@ Yeah...oh...ho... (Whoa...oh...oh...)
 How many times can we break up and make up
 Both of our hearts refusing to wake up
 Just can't go on (No) and on living a lie
-Though I'll always love you 
+Though I'll always love you
 
-How many times (Ooh) can we say goodbye
+How many times (Oh) can we say goodbye
 Oh...and how many times can we live this lie
 Hey, how many times can we give it one more try (One more try)
 How any times before we really (Really, really) say goodbye

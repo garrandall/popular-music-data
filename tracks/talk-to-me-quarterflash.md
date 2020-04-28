@@ -48,14 +48,14 @@ Oh, love comes easy when you show your heart
 There's a song in the air,
 But I can't hear the words
 There's a promise that's never made
-There's a voice in the streets 
+There's a voice in the streets
 That no one's ever heard
 I'm hoping I'll hear it someday calling...
 I don't want to wait here anymore, lonely
 I can't face another closing door...
 
 Talk to me, open up your heart
-Oh love's so lonely when you're in the dark    
+Oh love's so lonely when you're in the dark
 Talk to me, take it from the start
 Oh, love comes easy when you show your heart
 
@@ -64,7 +64,7 @@ Someone who's alone and falling
 I don't want to wait here anymore, lonely
 I can't face another closing door...
 Talk to me, open up your heart
-Oh love's so lonely when you're in the dark    
+Oh love's so lonely when you're in the dark
 Talk to me, take it from the start
 Oh, love comes easy when you show your heart
 

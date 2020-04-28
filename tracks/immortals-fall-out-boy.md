@@ -47,9 +47,9 @@ I'm bad behavior but I do it in the best way
 I'll be the watcher (watcher) of the eternal flame
 I'll be the guard dog of all your fever dreams
 
-Oooooooh
+Oh
 I am the sand in the bottom half of the hourglass (glass, glass)
-Oooooooh
+Oh
 I try to picture me without you but I can't
 
 'Cause we could be immortals, immortals
@@ -68,9 +68,9 @@ Is when it's tested again and again everyday
 I'm still comparing your past to my future
 It might be your wound but they're my sutures
 
-Oooooooh
+Oh
 I am the sand in the bottom half of the hourglass (glass, glass)
-Oooooooh
+Oh
 I try to picture me without you but I can't
 
 'Cause we could be immortals, immortals

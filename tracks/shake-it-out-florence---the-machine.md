@@ -108,9 +108,9 @@ But it's always darkest before the dawn
 
 
 Shake it out, shake it out
-Shake it out, shake it out, ooh whoa
+Shake it out, shake it out, ohwhoa
 Shake it out, shake it out
-Shake it out, shake it out, ooh whoa
+Shake it out, shake it out, ohwhoa
 And it's hard to dance with a devil on your back
 So shake him off, oh whoa
 
@@ -122,9 +122,9 @@ It's always darkest before the dawn
 
 
 Shake it out, shake it out
-Shake it out, shake it out, ooh whoa
+Shake it out, shake it out, ohwhoa
 Shake it out, shake it out
-Shake it out, shake it out, ooh whoa
+Shake it out, shake it out, ohwhoa
 And it's hard to dance with a devil on your back
 So shake him off, oh whoa (shake him off)
 
@@ -136,7 +136,7 @@ And given half the chance, would I take any of it back
 It's a fine romance but it's left me so undone
 (shake him off)
 It's always darkest before the dawn
-Ooh whoa, ooh whoa
+Oh whoa, ohwhoa
 
 
 And I'm damned if I do and I'm damned if I don't
@@ -150,15 +150,15 @@ Yeah
 
 
 Shake it out, shake it out
-Shake it out, shake it out, ooh whoa
+Shake it out, shake it out, ohwhoa
 Shake it out, shake it out
-Shake it out, shake it out, ooh whoa
+Shake it out, shake it out, ohwhoa
 And it's hard to dance with a devil on your back
 So shake him off, oh whoa
 Shake it out, shake it out
-Shake it out, shake it out, ooh whoa
+Shake it out, shake it out, ohwhoa
 Shake it out, shake it out
-Shake it out, shake it out, ooh whoa
+Shake it out, shake it out, ohwhoa
 And it's hard to dance with a devil on your back
 So shake him off, oh whoa
 Oh oh oh

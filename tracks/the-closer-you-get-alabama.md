@@ -63,15 +63,9 @@ The look on your face
 Brings out the man in me
 Do I see a trace in your eyes of love
 
-
-
-
 Could I be dreaming
 Is this really real
 Because there's something magic
 The way that I feel in your arms tonight
-
-
-
 
 Keep falling, oh, yeah, yeah, keep falling

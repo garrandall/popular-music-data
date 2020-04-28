@@ -112,10 +112,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-09-14'
 ---
-Artist: Salt N Pepa
-Album:  Blacks' Magic
-Song:   Do You Want Me
-
 You said it loud, and I heard you
 Never tried to hurt you
 Some say I'm old-fashioned
@@ -129,7 +125,6 @@ Be my friend not just my lover
 Share your thoughts with me
 Love my mind not just my body, baby
 
-CHORUS
 Do you really want me, baby?  Let me know
 Cuz if you really like me I suggest you tell me so
 Got no time for silly games, that ain't even why I came
@@ -148,8 +143,6 @@ When I wouldn't give it up
 Yeah, I know that really sucks
 But if you wait awhile, I'll make it up
 
-CHORUS
-
 Who me?  A tease?  Brother, please
 You're just having bad memories
 About some skeeze who did the squeeze
@@ -162,5 +155,3 @@ Now don't get me wrong
 I didn't mean to turn you on
 We haven't known each other long
 But this is my life not just a song
-
-CHORUS

@@ -74,7 +74,3 @@ Or they'll never know what love can do
 To each his own, I've found my own
 One and only you
 
-
-
-
-

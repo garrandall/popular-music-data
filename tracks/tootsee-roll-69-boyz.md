@@ -165,74 +165,71 @@ The butterfly? Uh-uh, that's old!
 Let me see the Tootsee Roll!
 
 Yeah, 199Quad!
-69 Boyz backed up by the Quad City DJ's! 
+69 Boyz backed up by the Quad City DJ's!
 One time!
 
-Cotton candy, sweetie go, let me see the Tootsee Roll! 
+Cotton candy, sweetie go, let me see the Tootsee Roll!
 
-Tootsee Roll! 
-To the left!  
-To the front!  
-Slide!  
-To the left!  
-To the front!  
-Dip, baby, dip! 
+Tootsee Roll!
+To the left!
+To the front!
+Slide!
+To the left!
+To the front!
+Dip, baby, dip!
 
 Cotton candy, sweetie, go,
-Let me see the Tootsee Roll! 
+Let me see the Tootsee Roll!
 
-I don't know what you've been told 
-It ain't the butterfly, it's the Tootsee Roll 
+I don't know what you've been told
+It ain't the butterfly, it's the Tootsee Roll
 A brand new dance SO,
 Grab a partner and get on the dance FLO'
-And work them hips a lil' bit 
-Then do that dip a lil' bit 
-Oh yeah, you got it, now whip, baby, no buts about it 
-And you over there, with the long hair 
-Keep rollin' that derriere 
-'Cause it ain't hard 
+And work them hips a lil' bit
+Then do that dip a lil' bit
+Oh yeah, you got it, now whip, baby, no buts about it
+And you over there, with the long hair
+Keep rollin' that derriere
+'Cause it ain't hard
 Just a brand new dance for the 199Quad
 69 in the place to be
-Hey yo, 'Ski! What we came to see? 
+Hey yo, 'Ski! What we came to see?
 Cotton candy, sweetie, go,
 Let me see the Tootsee Roll!
 
 
 
-I feel a whoop comin' on, a whoop comin' on 
-Whoop!  
+I feel a whoop comin' on, a whoop comin' on
+Whoop!
 
-Tootsee Roll! 
-To the left!  
-To the front!  
-Slide!  
-I feel a whoop comin' on, a whoop comin' on 
-Whoop! 
+Tootsee Roll!
+To the left!
+To the front!
+Slide!
+I feel a whoop comin' on, a whoop comin' on
+Whoop!
 
 Cotton candy, sweetie, go,
 Let me see the Tootsee Roll!
 
-I don't know what you've been told 
-It ain't the butterfly, it's the Tootsee Roll 
+I don't know what you've been told
+It ain't the butterfly, it's the Tootsee Roll
 A brand new dance SO,
 Grab a partner and get on the dance FLO'
 69 in the place to be
-Hey yo, 'Ski! What we came to see? 
-The butterfly? Uh-uh, that's old! 
+Hey yo, 'Ski! What we came to see?
+The butterfly? Uh-uh, that's old!
 The butterfly? Uh-uh, that's old!
 Let me see the Tootsee Roll!
 
-Tootsee Roll! 
-To the left!  
-To the front!  
-Slide! 
-To the left!  
-To the front!  
-Dip, baby, dip!  
-I feel a whoop comin' on, a whoop comin' on 
-Whoop! 
-Just roll!  
-
-
-
+Tootsee Roll!
+To the left!
+To the front!
+Slide!
+To the left!
+To the front!
+Dip, baby, dip!
+I feel a whoop comin' on, a whoop comin' on
+Whoop!
+Just roll!
 

@@ -87,7 +87,7 @@ rankings:
 I’ve been really trying, baby
 Trying to hold back this feeling for so long
 And if you feel like I feel baby
-Come on, oh come on, ooh
+Come on, oh come on, oh
 
 
 Let’s get it on, ow baby
@@ -101,11 +101,11 @@ Understand me, sugar
 Since we got to be, let’s live, I love you
 There’s nothing wrong with me loving you, baby no no
 And giving yourself to me can never be wrong
-If the love is true, oh baby ooh
+If the love is true, oh baby oh
 
 
-Don’t you know how sweet and wonderful life can be, ooh ooh
-I’m asking you baby to get it on with me, ooh ooh ooh
+Don’t you know how sweet and wonderful life can be, ohooh
+I’m asking you baby to get it on with me, ohoohhoh
 I ain't gonna worry, I ain't gonna push, I won't push you baby
 So come on, come on, come on, come on, come on, baby
 Stop beating round the bush, hey

@@ -81,9 +81,6 @@ Well, you could have been anything that you wanted to
 And I can tell, the way you do the things you do
 The way you do the things you do, the way you do the things you do
 
-
-
-
 You made my heart so rich (hoo-hoo)
 You know you could have been some money
 And baby, you're so sweet (hoo-hoo)

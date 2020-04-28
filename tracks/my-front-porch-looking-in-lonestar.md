@@ -96,7 +96,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-09-13'
 ---
-Ooh, yeah
+Oh yeah
 Woo, yeah
 Yeah oh yeah
 

@@ -93,7 +93,7 @@ but I just laugh about it
 cuz shes always playin those games
 
 C'mon
-(deep down) deep down i know she loves me
+(deep down) deep down I know she loves me
 but shes got a funny way of showin me how she cares (she cares)
 last night she did a donut on my lawn
 and drove out w/ her finger in the air
@@ -108,7 +108,7 @@ But then she just changed her mind
 Sometimes shes hot
 Sometimes im cold
 Sometimes my head wants to explode
-But when i think about it im so in love with her
+But when I think about it im so in love with her
 
 Every other time
 nananananananananana
@@ -123,7 +123,7 @@ just the 2 of us on the park bench
 sometimes we swim around
 like 2 dolphins in the oceans of our hearts
 
-but then i think about the time that we broke up before the prom
+but then I think about the time that we broke up before the prom
 and u told everyone that I was gay "ok"
 sometimes I walk around the town
 for hours just to settle down
@@ -140,7 +140,7 @@ But then she just changed her mind
 Sometimes shes hot
 Sometimes im cold
 Sometimes my head wants to explode
-But when i think about it im so in love with her
+But when I think about it im so in love with her
 
 Every other time
 nananananananananana
@@ -154,7 +154,7 @@ Keep it up home girl
 don'tcha quit
 u know the way u scream is the ultimate
 And when I walk away
-just watch the clock n then i don't even get around the block
+just watch the clock n then I don't even get around the block
 and I say "let's talk about it"
 as she walks out on me and slams the door
 one day we'll laugh about it
@@ -172,7 +172,7 @@ but then she just changed her mind
 sometimes shes hot
 sometimes im cold
 sometimes my head wants to explode
-but when i think about it I'm so in love with her
+but when I think about it I'm so in love with her
 
 every other time
 nananananananananana
@@ -187,7 +187,7 @@ don'tcha quit
 u know the way u scream is the ultimate
 And when I walk away
 just watch the clock n then I don't even get around the block
-and i say "let's talk about it"
+and I say "let's talk about it"
 as she walks out on me and slams the door
 one day we'll laugh about it
 cuz we're always playin those games

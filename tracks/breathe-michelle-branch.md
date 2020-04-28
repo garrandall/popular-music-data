@@ -87,7 +87,7 @@ You say I've been driving you crazy
 and its keeping you away
 So just give me one good reason
 Tell me why I should stay
-'Cause I dont wanna waste another moment
+'Cause I don't wanna waste another moment
 in saying things we never meant to say
 
 And I Take it just a little bit
@@ -127,15 +127,15 @@ Hoping you hear me
 Do you hear me?
 
 If I just breathe
-Let it fill the space between  
+Let it fill the space between
 I'll know everything is alright
 Breathe,
 Every little piece of me
 You'll see
 Everything is alright
-Everything is alright if i just breathe... breathe
+Everything is alright if I just breathe... breathe
 
-I've been driving for an hour 
+I've been driving for an hour
 Just talking to the rain
 
 

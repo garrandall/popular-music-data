@@ -152,10 +152,6 @@ Before I started callin' bitches bitches so heavily
 Back when you could get a platinum plaque without no melody
 You wasn't sweatin' me
 
-
-
-
-
 I want a real love, dark skinned and Aunt Viv love
 That Jada and that Will love
 That leave a toothbrush at your crib love
@@ -170,10 +166,6 @@ You think if I didn't rap she would flirt back
 Takin' off her skirt, let her wear my shirt before she leave
 I'mma need my shirt back
 Nigga you know how it go
-
-
-
-
 
 There's an old saying in Tennessee - I know it's in Texas - probably in Tennessee that says fool me once, shame on - shame on you.
 If you fool me we can't get fooled again
@@ -196,8 +188,4 @@ She shallow but the pussy deep (she shallow, she shallow)
 She shallow but the pussy deep (she shallow, she shallow)
 She shallow but the pussy deep (she shallow, she shallow)
 She shallow but the pussy deep (she shallow, she shallow)
-
-
-
-
 

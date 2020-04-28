@@ -89,7 +89,7 @@ Can't you understand?
 I wanna be like my daddy
 Be like my daddy
 Oh, I'm his son, now
-A-don't you miss m-me now
+Don't you miss m-me now
 Just call me wanna hang around and do nothing
 But newspaper in my shoes
 I just cover them holes, yeah

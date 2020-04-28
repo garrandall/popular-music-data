@@ -24,7 +24,7 @@ rankings:
 Think I got me an angel,
 Somebody to love.
 Feel a trace of emotion.
-Ooh! Can't get enough!
+Oh! Can't get enough!
 I'm singin'
 
 
@@ -44,8 +44,4 @@ Somebody to love.
 Feel a trace of emotion.
 Lord! Can't get enough!
 I'm singin'
-
-
-
-
 

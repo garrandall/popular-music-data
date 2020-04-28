@@ -40,11 +40,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
 ---
-Too Late To Turn Back Now
-- Artist: Brook Benton as sung on "The Satin Sound Brook Benton"
-- Suffolk Marketing-SMI 2
-- peak Billboard position # 43 in 1964
-- Words and Music (written as "IT'S Too Late To Turn Back Now) by Clyde Otis
 You don't know how much you hurt me
 When you broke our precious vows
 But I can't stop loving you
@@ -64,5 +59,3 @@ Mmm, yes, you'd know, you'd know why I have said
 (Too late to turn back now)
 Yes, I love you
 (Too late to turn back now)
-And do not necessarily correspond with lyrics from other recordings, sheet
-Music, songbooks or lyrics printed on album jackets

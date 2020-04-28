@@ -52,7 +52,7 @@ I know you're laughing 'cause it's easy to tell
 
 I'm goin' crazy
 Goin' crazy
-Ooh, from the heat
+Oh from the heat
 
 Remember dancing on the pier last night?
 Got drunk and fell into the water
@@ -66,7 +66,7 @@ I see you smilin' 'cause it's easy to tell
 
 I'm goin' crazy
 Goin' crazy
-Ooh, from the heat
+Oh from the heat
 Yeah
 
 Yeah, yeah, wow

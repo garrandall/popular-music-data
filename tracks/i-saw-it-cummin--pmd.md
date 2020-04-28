@@ -33,7 +33,7 @@ Grab ya head nigga, start bobbin it
 The underground's bein' shook down, PMD's robbin it
 So crack the old gold, yeah, and spark the Phillie blunts
 I'm chumpin niggas down takin minds on a manhunt
-(Quote unquote kid), dont get caught up in the gunsmoke
+(Quote unquote kid), don't get caught up in the gunsmoke
 It's rap huntin' season, and I'm blastin niggas who showboat
 With that pretty-boy R&B rap, back with a hiphop track - say that, Сause thats whack, and niggas ain't trying to hear that
 Can't get sidetracked, so bust the impact
@@ -42,7 +42,7 @@ Still in the game but somethin' changed
 
 
 Went solo on that ass, but it's still the same
-(I saw it cummin, thats why i went solo)
+(I saw it cummin, thats why I went solo)
 X5
 
 

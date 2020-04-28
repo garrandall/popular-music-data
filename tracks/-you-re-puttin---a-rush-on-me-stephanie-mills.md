@@ -96,7 +96,7 @@ Yeh, ey, hey, hey
 You're puttin' a rush on me
 (Oh, babe)
 But I'd like to know you better
-(Puttin' a rush on me, don't-don't do it, babe)
+(Puttin' a rush on me, don't don't do it, babe)
 You're puttin' a rush on me
 (I can't stand it, baby)
 But I'd like to know you better
@@ -118,7 +118,7 @@ I'd like to know
 
 You're puttin' a rush on me
 But I'd like to know you better
-(Oh, baby, ooh, ooh, ooh, babe)
+(Oh, baby, oh, oh, oh, babe)
 You're puttin' a rush on me
 (Slow down, boy)
 But I'd like to know you better

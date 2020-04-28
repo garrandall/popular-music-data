@@ -94,7 +94,7 @@ But a weakness was shown
 His mind was his own
 But the man lived alone
 
-Ooh, Superfly
+Oh, Superfly
 You're gonna make your fortune by and by
 But if you lose, don't ask no questions why
 The only game you know is Do or Die
@@ -123,7 +123,7 @@ Is the most he'll confess
 But the time's running out
 And there's no happiness
 
-Ooh, Superfly
+Oh, Superfly
 You're gonna make your fortune by and by
 But if you lose, don't ask no questions why
 The only game you know is Do or Die

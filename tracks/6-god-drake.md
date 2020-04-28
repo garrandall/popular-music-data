@@ -23,7 +23,7 @@ The concept of puttin' money first, boy (First)
 I'm 'bout to hit you with the work, boy (Work)
 I'm 'bout to hit you with the work, boy (Work)
 I hate comin' through stuntin' on niggas that I know
-Ahh, that's the worst, boy (Worst)
+Ah, that's the worst, boy (Worst)
 I'll admit it, I'll admit it (I'll admit it)
 You haven't been the man for like a minute
 I told you that I'm in it for the long haul

@@ -93,9 +93,6 @@ Cantare, oh oh oh oh
 No wonder my happy heart sings
 Your love has given me wings
 
-
-
-
 Pienso che un sueno parecido
 No volvera mas
 Y me pintaba las manos

@@ -47,7 +47,7 @@ She's sexy sexy sexy
 I love the few pals
 But the fellas whistle at my baby too loud
 Because she's just, she's just sexy sexy sexy, ha
-That's what she is now, uh, ooh-wee
+That's what she is now, uh, oh-wee
 Sexy sexy sexy
 Hey
 

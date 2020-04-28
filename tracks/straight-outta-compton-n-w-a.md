@@ -28,7 +28,7 @@ You too, boy, if ya fuck with me
 The police are gonna hafta come and get me
 Off yo ass, that's how I'm goin out
 For the punk motherfuckers that's showin out
-Niggaz start to mumble, they wanna rumble
+Niggas start to mumble, they wanna rumble
 Mix em and cook em in a pot like gumbo
 Goin off on a motherfucker like that
 With a gat that's pointed at yo ass
@@ -39,7 +39,7 @@ With a crime record like Charles Manson
 AK-47 is the tool
 Don't make me act the motherfuckin fool
 Me you can go toe to toe, no maybe
-I'm knockin niggaz out tha box, daily
+I'm knockin niggas out tha box, daily
 Yo weekly, monthly and yearly
 Until them dumb motherfuckers see clearly
 That I'm down with the capital C-P-T
@@ -59,7 +59,7 @@ But when I come back, boy, I'm comin straight outta Compton
 Straight outta Compton, another crazy ass nigga
 More punks I smoke, yo, my rep gets bigger
 I'm a bad motherfucker and you know this
-But the pussy ass niggaz don't show this
+But the pussy ass niggas don't show this
 But I don't give a fuck, I'm a make my snaps
 If not from the records, from jackin the crops
 Just like burglary, the definition is 'jackin'

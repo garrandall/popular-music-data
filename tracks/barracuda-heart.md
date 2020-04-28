@@ -111,7 +111,7 @@ Whisper game
 And if the real thing don't do the trick
 You better make up something quick
 You gonna burn, burn, burn, burn, burn to the wick
-Ooh, Barracuda
+Oh, Barracuda
 
 
 "Sell me sell you" the porpoise said
@@ -121,9 +121,6 @@ I think that you got the blues, too
 All that night and all the next
 Swam without looking back
 Made for the western pools, silly, silly fools!
-
-
-
 
 If the real thing don't do the trick, no
 You better make up something quick

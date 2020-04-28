@@ -35,13 +35,13 @@ One thing I know he's dreaming of
 I wanna squeeze and hold him tight
 
 But don't it make you feel good
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 And don't it make you feel good
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 Don't it make you feel good
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 And don't it make you feel good
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 
 Everything we put together
 Seems to last forever
@@ -54,13 +54,13 @@ I wanna keep him all to myself
 If my heart could beat that strong
 
 But don't it make you feel good
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 And don't it make you feel good
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 Don't it make you feel good
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 And don't it make you feel good
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 
 I'm gonna give him all my love
 Each and every night
@@ -68,9 +68,9 @@ One thing I know he's dreaming of
 I wanna squeeze and hold him tight
 
 But don't it make you
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 But don't it make you
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 
 He gives me lovin like nobody else
 I like the way he turns me on
@@ -78,19 +78,19 @@ I wanna keep him all to myself
 If my heart could beat that strong
 
 But don't it make you feel good
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 And don't it make you feel good
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 Don't it make you feel good
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 And don't it make you feel good
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 
 But don't it make you feel good
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 And don't it make you feel good
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 Don't it make you feel good
-(Shoop shoop aaahh)
+(Shoop shoop ah)
 And don't it make you feel good
-(Shoop shoop aaahh)
+(Shoop shoop ah)

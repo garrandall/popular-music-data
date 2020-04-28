@@ -97,5 +97,5 @@ Oh, I feel real, when you touch me
 I feel real, when you kiss me
 I feel real, when you touch me
 I feel real, when you hold me
-Ooh, ooh, ooh
-Ooh, ooh, ooh...
+Oh, oh oh
+Oh, oh oh.

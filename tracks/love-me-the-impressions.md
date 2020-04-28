@@ -45,6 +45,6 @@ Want you to love me (love me)
 That you love me
 I'll keep on singing, ah ah ah ah ah ah
 Keep on singing, ah ah ah ah ah ah
-Eh-ooh
+Eh-oh
 Woo woo woo woo woo
-Eh-ooh
+Eh-oh

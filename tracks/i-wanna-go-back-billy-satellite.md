@@ -60,7 +60,7 @@ Can't go back, I know
 I wanna go back (go back)
 'Cause I'm feeling so much older
 But I can't go back, I know
-Ooh, yeah
+Oh, yeah
 
 I know now that
 Things will never be the same

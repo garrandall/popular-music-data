@@ -65,7 +65,7 @@ Oh, honey please
 Yeah yeah yeah yeah
 
 
-In (ahh)
+In (ah)
 All this time I've been
 Lost in the world without end
 Till the day you came into my life

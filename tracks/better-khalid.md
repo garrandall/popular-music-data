@@ -234,7 +234,7 @@ You keep my hand around your neck, we connect, are you feeling it now?
 'Cause I am
 I got so high the other night, I swear to God, felt my feet lift the ground
 (I got so high the other night, I swear to God I felt my feet lift the ground)
-Ooh, yeah
+Oh, yeah
 Your back against the wall, this is all you've been talking about
 In my ears
 
@@ -251,7 +251,7 @@ Nothing feels better than this
 Now, left, right, left, right
 Take it back, bring it side to side
 Like that, like that, ayy
-Ooh, now, left, right, left, right
+Oh, now, left, right, left, right
 Take it back, bring it side to side
 Like
 

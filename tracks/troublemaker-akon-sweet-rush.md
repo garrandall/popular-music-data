@@ -40,9 +40,6 @@ Never one for none, let's stay caked up, hold it down, that's all you gotta do
 Then I walk up in the place, with a pocket full of money, my brother like I are the dude
 Stepping out with the finest suits, look at me now
 
-
-
-
 See I'm that type of guy that like kissing
 I'm that type that will pop the clip and
 I'm that type of guy that put you in your place
@@ -62,9 +59,6 @@ She don't mind climbing up that ladder
 Similar to the words, it don't matter
 But this time they wanna see us together
 Look at us now
-
-
-
 
 You're not for sure
 Even though I wanna take you everywhere I go

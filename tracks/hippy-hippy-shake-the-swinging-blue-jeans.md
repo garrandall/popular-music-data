@@ -45,12 +45,12 @@ I got the hippy hippy shakes
 Yeah, I got the shakes
 I got the hippy hippy shakes
 
-Ooh, I can't sit still
+Oh, I can't sit still
 With the hippy hippy shakes
 Yeah, I get my fill now
 With the hippy hippy shakes
 Yeah, it's in the bag
-Ooh! The hippy hippy shake
+Oh! The hippy hippy shake
 
 Well, now you shake it to the left
 You shake it to the right
@@ -58,7 +58,7 @@ You do the hippy shake shake
 With all your might, oh baby
 Yeah, come on and shake
 Aw, it's in the bag
-Ooh! The hippy hippy shake, ow!
+Oh! The hippy hippy shake, ow!
 
 Well, now you shake it to the left
 You shake it to the right
@@ -66,6 +66,6 @@ You do the hippy shake shake
 With all your might, oh baby
 Yeah, come on and shake
 Aw, it's in the bag
-Ooh! The hippy hippy shake
-Ooh! The hippy hippy shake
-Ooh! The hippy hippy shake
+Oh! The hippy hippy shake
+Oh! The hippy hippy shake
+Oh! The hippy hippy shake

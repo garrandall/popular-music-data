@@ -105,7 +105,7 @@ You're tearin' me apart
 
 It won't be long, yes, till you're alone
 When your lover, oh, he hasn't come home
-Cause he's lovin', ooh, he's touchin',
+Cause he's lovin', oh, he's touchin',
 He's squeezin' another
 
 He's tearin' you apart

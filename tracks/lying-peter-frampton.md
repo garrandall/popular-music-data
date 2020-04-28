@@ -44,7 +44,7 @@ rankings:
 I'll tell you something about an hour ago
 I see you with someone I don't even know
 I caught you lying -- Yeah, you were lying
-Ooh lying
+Oh lying
 I get the feeling from the look on your face
 When it comes down, you're a disgrace
 You should be trying -- You're always lying

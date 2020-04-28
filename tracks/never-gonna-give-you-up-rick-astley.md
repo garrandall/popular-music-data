@@ -146,10 +146,10 @@ Never gonna say goodbye
 Never gonna tell a lie and hurt you
 
 
-(Ooh give you up)
-(Ooh give you up)
-(Ooh) Never gonna give, never gonna give (give you up)
-(Ooh) Never gonna give, never gonna give (give you up)
+(Oh give you up)
+(Oh give you up)
+(Oh) Never gonna give, never gonna give (give you up)
+(Oh) Never gonna give, never gonna give (give you up)
 
 
 We've known each other for so long

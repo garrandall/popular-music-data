@@ -178,17 +178,17 @@ And all of this boat too
 And I wish
 Oh, I wish someone would care
 
-Mmm hmmm
-Mmmm
-Mmm hmmm
-Mmmm
-Mmmmmmmmm yeah
-Oohhhh yeah
+Mmm hm
+Mmm
+Mmm hm
+Mmm
+Mmm yeah
+Oh yeah
 Yeah yeah yeah yeah yeah
 Ohh yeah oh I need you
 Ohh I got to have somebody
 Somebody somebody somebody to care
-Oh oh ohh ohhh
+Oh oh oh oh
 I need somebody
 Just to have somebody
 Please
@@ -200,12 +200,12 @@ I need somebody
 To come and see if I do
 Yeah I've got to have
 I've got to have
-Yeah yeah yeah ohhhhh
+Yeah yeah yeah oh
 
 I've got to have somebody
 Yeah
 Yeah
-Ohh ohhhh yeah
+Ohh oh yeah
 Got to have somebody
 I need
 I need
@@ -229,15 +229,15 @@ I got to I got to have somebody
 I need I need somebody to care
 Oh yes I do
 Mmmhmm mmmhmm I mmhmmm
-Ohh I need ohhh ohhh ohhh ohhhhh ooh ooohhh oohhhh oohhh
+Ohh I need oh oh oh oh ohoh oh oh
 I got to I got to have somebody
 Please please got to feel what I feel
-Ohhh ooohh ohhh ohhhh I got to have somebody ohhh
-Ohhh ohhh oohhh got to feel what I feel
+Ohhh oh oh oh I got to have somebody oh
+Ohhh oh oh got to feel what I feel
 Got to feel somebody
 Got to want somebody
-Ohhh ohhh I need oohhh oohhhh
-I got to ohhh yes I do oohhh ohhh ohhh oohhhh ohhhh yes I do
-Got to have somebody ohhh ohhhh ohhh ohhh
-I got to I got to have somebody ohhh yeah oh yes I do
-Oh don't you don't you have it ohhh ohhh ohhh mmhmm mhhhmm
+Ohhh oh I need oh oh
+I got to oh yes I do oh oh oh oh oh yes I do
+Got to have somebody oh oh oh oh
+I got to I got to have somebody oh yeah oh yes I do
+Oh don't you don't you have it oh oh oh mmhmm mhhhmm

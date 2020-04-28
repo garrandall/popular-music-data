@@ -77,7 +77,7 @@ And make everything OK
 'Cause without you, I can't breathe
 I'm not gonna ever, ever let you leave
 You're all I've got, you're all I want
-Ooh, ooh
+Oh oh
 Cause without you, I don't know what I'd do
 I could never, ever live a day without you
 Here with me, do you see?

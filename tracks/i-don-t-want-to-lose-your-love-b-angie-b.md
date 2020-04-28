@@ -75,7 +75,7 @@ And do me, whoa
 
 I don't wanna lose your love
 (I don't wanna)
-I don't wanna lose your love (ooh)
+I don't wanna lose your love (oh
 Don't wanna lose your love
 (Don't wanna lose)
 I don't wanna lose your love
@@ -94,7 +94,7 @@ I think you need my love
 You can't defeat my love
 (My love)
 You won't abuse my love
-(Ooh, oh)
+(Oh oh)
 I don't wanna lose your love
 
 Hey, hey, hey, hey
@@ -165,7 +165,7 @@ Oh, oh
 You just don't know
 Oh, whoa
 What you do to me
-Ooh, hoo
+Oh hoo
 
 I don't wanna lose your love
 I don't wanna lose your love

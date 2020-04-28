@@ -105,9 +105,9 @@ As each new day will bring a new face
 How can I make my rhyme go someplace
 
 First of all she ask for more
-I said sure I dont mind at all
+I said sure I don't mind at all
 The waters deep but I'm walking tall
-It dont matter if you're rich or poor
+It don't matter if you're rich or poor
 Ain't here to score just raise the floor
 Maximum vibes what I'm aiming for
 I do my war dance back to the wall

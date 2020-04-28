@@ -93,9 +93,6 @@ And if the lights are all out
 I'll follow your bus downtown
 See who's hanging out
 
-
-
-
 One way or another I'm gonna lose ya
 I'm gonna give you the slip
 A slip of the lip or another, I'm gonna lose you

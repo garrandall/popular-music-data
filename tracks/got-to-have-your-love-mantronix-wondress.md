@@ -39,7 +39,7 @@ What you've been searching for, what you've been searching for
 Free me from despair (Free me), there's so much to share
 If you surrender to me
 Whisper in my ears words I long to hear
-Woo ooh-ooh-ooh ooh-ooh-ooh ooh ooh
+Woo ohoohhoh-ohoohhohohoh
 
 
 (Gotta find a way to get into your heart)
@@ -49,7 +49,7 @@ You know, you know, you know I need your love
 (Gotta find a way to get into your heart)
 Boy, I got to have your love
 (Gotta find a way to get into your heart, ha-ha-heart)
-You know, you know, you know I need your love, ooh
+You know, you know, you know I need your love, oh
 
 
 You're like an angel in disguise

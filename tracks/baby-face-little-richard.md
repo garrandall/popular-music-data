@@ -48,15 +48,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-17'
 ---
-Hmm, baby face
-You've got the cutest little, hmm, baby face
+Hm, baby face
+You've got the cutest little, hm, baby face
 There's not another who could take your place
-Hmm, baby face, my poor heart is jumping
+Hm, baby face, my poor heart is jumping
 You sure have started something
 
 
-Hmm, baby face
+Hm, baby face
 I'm up in Heaven
 When I'm in your warm embrace
-Hmm I didn't need a shove
+Hm I didn't need a shove
 Because I fell in love with your pretty baby face

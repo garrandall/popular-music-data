@@ -84,7 +84,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-11-24'
 ---
-Mmm, hmm, hmm, hmm, hmm, hmm
+Mmm, hm, hm, hm, hm, hm
 
 Want you, money
 
@@ -98,11 +98,11 @@ Do anything you want me to
 
 Money talks, mmm, mmm, money talks
 
-Dirty cash I want you, dirty cash I need you, ooh
+Dirty cash I want you, dirty cash I need you, oh
 
 Money talks, money talks
 
-Dirty cash I want you, dirty cash I need you, ooh
+Dirty cash I want you, dirty cash I need you, oh
 
 (Dirty cash, dirty cash)
 
@@ -116,11 +116,11 @@ And I'm gonna use my sex
 
 Money talks, mmm, mmm, money talks
 
-Dirty cash I want you, dirty cash I need you, ooh
+Dirty cash I want you, dirty cash I need you, oh
 
 Money talks, money talks
 
-Dirty cash I want you, dirty cash I need you, ooh
+Dirty cash I want you, dirty cash I need you, oh
 
 I want you, money
 
@@ -166,18 +166,18 @@ Do anything you want me to
 
 Money talks, mmm, mmm, money talks
 
-Dirty cash I want you, dirty cash I need you, ooh
+Dirty cash I want you, dirty cash I need you, oh
 
 Money talks, money talks
 
-Dirty cash I want you, dirty cash I need you, ooh
+Dirty cash I want you, dirty cash I need you, oh
 
 (Dirty cash, dirty cash)
 
 Money talks, mmm, mmm, money talks
 
-Dirty cash I want you, dirty cash I need you, ooh
+Dirty cash I want you, dirty cash I need you, oh
 
 Money talks, money talks
 
-Dirty cash I want you, dirty cash I need you, ooh
+Dirty cash I want you, dirty cash I need you, oh

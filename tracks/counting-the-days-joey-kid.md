@@ -78,7 +78,7 @@ I'm counting the nights
 'Til we'll be together
 I'm, I'm counting the hours
 I'm watching the clock
-Ooh, it seems like forever
+Oh, it seems like forever
 
 (Counting the days)
 (Counting the nights)
@@ -100,7 +100,7 @@ I'm counting the nights
 'Til we'll be together
 I'm, I'm counting the hours
 I'm watching the clock
-Ooh, it seems like forever
+Oh, it seems like forever
 
 I haven't seen you for a long, long time
 But this moment is what's on my mind
@@ -120,13 +120,13 @@ I'm counting the nights
 'Til we'll be together
 I'm, I'm counting the hours
 I'm watching the clock
-Ooh, it seems like forever
+Oh, it seems like forever
 
 I'm counting the days
 I'm counting the nights
 'Til we'll be together
 I'm, I'm counting the hours
 I'm watching the clock
-Ooh, it seems like forever
+Oh, it seems like forever
 
 I'm counting the days

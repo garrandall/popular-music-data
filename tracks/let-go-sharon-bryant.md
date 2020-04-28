@@ -67,7 +67,7 @@ Searching for so long
 For that special guy
 I can call my own
 I never realized love could
-Be so hard to find, ooh
+Be so hard to find, oh
 
 I need a lover
 A lover with a steady hand

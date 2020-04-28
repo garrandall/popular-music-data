@@ -85,7 +85,6 @@ Since you left - I've been missing you
 Need your love - oh so bad
 Realize - everything we had
 
-(chorus)
 All day - all night
 You can have it anyway you want it
 One love - so right
@@ -96,13 +95,11 @@ I regret - look at the price I paid
 Take these words - understand
 Try forgiving - I'm a broken man
 
-(chorus)
 I'm so sad - feeling blue
 Since you left - I've been missing you
 Take these words - understand
 Try forgiving - I'm a broken man
 
-(Chorus)
 For you - for you
 You can have it anyway you want it
 For you - for you

@@ -40,15 +40,15 @@ rankings:
 Yeah, Yeah Yeah Yeah Yeah Yeah Yeah, Let's Go
 
 
-Ha ha ha ha ha ohhhhhhhh
-N dey say ohhhhhh ohh ohhhhhhhh
-Ha ha ha ha ha ohhhhhhh
-N dey say ohhhhh ohhh ohh
+Ha ha ha ha ha oh
+N dey say oh oh oh
+Ha ha ha ha ha oh
+N dey say oh oh oh
 
 Hold up stop now let me get a look at ya,
 Damn girl I ain't seen you since prom,
 Come to think about it I can't believe its been that long,
-I heard your man locked down now how long he gone.... Oh dat long
+I heard your man locked down now how long he gone... Oh dat long
 How the hell he get time like that?
 Three strikes with possession, aww he ain't comin back,
 He left you with 2 kids and bills all around,
@@ -63,10 +63,10 @@ And that, that don't kill you only makes you stronger
 And the will to succeed will only feed the hunger, Fo' Reel (Fo' Reel, Fo' Reel)
 
 
-Ha ha ha ha ha ohhhhhhhh
-N dey say ohhhhhh ohh ohhhhhhhh
-Ha ha ha ha ha ohhhhhhh
-N dey say ohhhhh oh ohh
+Ha ha ha ha ha oh
+N dey say oh oh oh
+Ha ha ha ha ha oh
+N dey say oh oh oh
 
 I was at the gas station and a man walked past
 With his sign will work for food, clothes or cash
@@ -85,10 +85,10 @@ Sometimes the easiest things we take for granted
 Until they gone, then realise we even had it, Fo' Reel (Fo' Reel, Fo' Reel)
 
 
-Ha ha ha ha ha ohhhhhhhh
-N dey say ohhhhhh ohh ohhhhhhhh
-Ha ha ha ha ha ohhhhhhh
-N dey say ohhhhh oh ohhhhh
+Ha ha ha ha ha oh
+N dey say oh oh oh
+Ha ha ha ha ha oh
+N dey say oh oh oh
 
 I used to think that life had a plan for me
 Until I realised life had to be planned by me, see that's the key
@@ -104,22 +104,22 @@ Hey! that's something every brother should see and that's Fo' Reel,
 and that's Fo' Reel, and that's Fo' Reel
 
 
-Ha ha ha ha ha ohhhhhhhh
-N dey say ohhhhhh ohh ohhhhhhhh
-Ha ha ha ha ha ohhhhhhh
-N dey say ohhhhh ohhh ohh
+Ha ha ha ha ha oh
+N dey say oh oh oh
+Ha ha ha ha ha oh
+N dey say oh oh oh
 
 
-Ha ha ha ha ha ohhhhhhhh
-N dey say ohhhhhh ohh ohhhhhhhh
-Ha ha ha ha ha ohhhhhhh
-N dey say ohhhhh ohhh ohh
+Ha ha ha ha ha oh
+N dey say oh oh oh
+Ha ha ha ha ha oh
+N dey say oh oh oh
 
 
-Ha ha ha ha ha ohhhhhhhh
-N dey say ohhhhhh ohh ohhhhhhhh
-Ha ha ha ha ha ohhhhhhh
-N dey say ohhhhh ohhh ohh
+Ha ha ha ha ha oh
+N dey say oh oh oh
+Ha ha ha ha ha oh
+N dey say oh oh oh
 
 
 

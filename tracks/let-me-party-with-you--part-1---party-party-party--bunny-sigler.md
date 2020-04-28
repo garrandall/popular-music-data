@@ -54,10 +54,10 @@ rankings:
 ---
 Party, party
 Let's party
-Ooh, Lord now, party
+Oh, Lord now, party
 Party, party, party
 Let me party with you
-Ooh, baby
+Oh, baby
 Party, party, party
 Let me party with you
 Come on
@@ -71,7 +71,7 @@ Hey, little girl
 Lay your love on me
 I know what I'm trying to do
 I'm trying to get it on with you
-Ooh wee, baby, I'd like
+Oh wee, baby, I'd like
 To sweet confession with you
 Come, on baby
 Just party, party, party
@@ -84,4 +84,4 @@ Party, party, party
 Let me party with you
 Party, party, party
 Let me party with you
-Ooh, ooh.....
+Oh, oh..

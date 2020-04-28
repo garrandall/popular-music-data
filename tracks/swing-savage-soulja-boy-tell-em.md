@@ -122,14 +122,14 @@ Now drop it looooow and let me see your hips SWING
 Down to the floooor now let me see your hips SWING
 
 
-O na na O na na thats what i said when i hit the door
+O na na O na na thats what I said when I hit the door
 She got a donk yo shake it shake it on the floor
 Get low bounce high swing your hips with it
 Hit this split look back get it get it get it
 Back it up back it up go on do that thur
-(yuuua) i like that let me pull your hurr
-(yuuua) i hear my drain low and she got straight low
-And the club don't close till i say so
+(yuuua) I like that let me pull your hurr
+(yuuua) I hear my drain low and she got straight low
+And the club don't close till I say so
 
 
 Oh shit, shake that ass ma, move it like a gypsy

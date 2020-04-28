@@ -92,13 +92,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
 ---
-Oooh, oo oooh, cha
+Oh, oo ohcha
 Catch my breath, close my eyes
 Don't believe a word
 Things she said, overheard
 Something wrong inside
-Hits you in a minute, oooh
-Then you know you're in it, aah
+Hits you in a minute, oh
+Then you know you're in it, ah
 
 I've been in love before
 I've been in love before

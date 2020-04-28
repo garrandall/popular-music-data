@@ -102,7 +102,7 @@ So give a little bit
 Give a little bit of your time to me
 Now's the time that we need to share
 So send a smile, we're on our way back home
-ooh yea yea
+ohyea yea
 We gotta feel it
 Yea yea yea yea...
 Ooo
@@ -119,7 +119,7 @@ Now's the time we need to share
 So send a smile, we're on our way back home
 Yea come along too
 Yea we gotta feel it
-Cause i need to feel at home
+Cause I need to feel at home
 Come along too
 Such a long ride
 oo come a long way

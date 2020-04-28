@@ -105,7 +105,7 @@ I don’t want nobody nobody Nobody nobody but you
 ROMANIZATON
 
 
-You know i still love you baby
+You know I still love you baby
 And it will never change
 
 

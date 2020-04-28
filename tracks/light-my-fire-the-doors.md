@@ -122,9 +122,6 @@ Come on baby, light my fire
 Try to set the night on fire
 Yeah...
 
-
-
-
 The time to hesitate is through
 No time to wallow in the mire
 Try now we can only lose

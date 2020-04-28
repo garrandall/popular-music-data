@@ -157,7 +157,7 @@ Baby mommy with the clip
 Walk out Follie's with a bitch
 Bring a thottie to the whip
 If she fine or she thick, goddamn
-Walkin' past the mirror, ooh
+Walkin' past the mirror, oh
 Damn, I'm fine (Fine)
 Let a bitch try me, boom (Boom)
 Hammer time, uh
@@ -196,7 +196,7 @@ Sweet like a honey bun, spit like a Tommy gun
 Rollie a one of one, come get your mommy some
 Cardi at the tip-top, bitch
 Kiss the ring and kick rocks, sis (Mwah)
-Jump it down, back it up (Ooh, ayy)
+Jump it down, back it up (Oh ayy)
 Make that nigga put down 2K
 I like my niggas dark like D'USSÉ
 He gonna eat this ass like soufflé

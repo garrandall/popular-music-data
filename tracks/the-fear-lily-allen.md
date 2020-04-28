@@ -75,16 +75,8 @@ And that's what makes my life so fucking fantastic
 And I am a weapon of massive consumption
 And it's not my fault it's how I'm programmed to function
 
-
-
-
-
 Forget about guns and forget ammunition
 'Cause I'm killing them all on my own little mission
 Now I'm not a saint but I'm not a sinner
 Now everything's cool as long as I'm getting thinner
-
-
-
-
 

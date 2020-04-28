@@ -64,7 +64,7 @@ Well, you can't seem to understand
 That there's much more to love
 
 Than bed and board (bed and board)
-Ooh, baby, bed and board
+Oh, baby, bed and board
 (Bed and board) oh, don't you know
 
 Don't know what happened

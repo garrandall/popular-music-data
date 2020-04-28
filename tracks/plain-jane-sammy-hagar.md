@@ -48,7 +48,7 @@ But she's drivin' me insane
 (Plain Jane) Well, let me love you baby, yeah
 
 She kisses with her lips so tight
-Ooh, it hits me just like dynamite
+Oh, it hits me just like dynamite
 Her sweet, simple innocence
 Makes everyone else seem like past tense
 
@@ -62,9 +62,9 @@ Takes a special kind of man
 To love and understand
 My Plain Jane
 My Plain Jane, talkin' 'bout my baby
-My Plain Jane, oh yeah 
+My Plain Jane, oh yeah
 
-(Plain Jane) Ow, uh-huh, my 
+(Plain Jane) Ow, uh-huh, my
 (Plain Jane) Ain't no body else no
 (Plain Jane) Tellin' you you're drivin me insane
 

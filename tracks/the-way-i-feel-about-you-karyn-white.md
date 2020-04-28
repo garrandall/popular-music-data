@@ -116,7 +116,7 @@ That's the way I feel about you
 
 I'm so satisfied with you in my life
 You're everything I've dreamed of
-Ooh and it feels so good when I'm in your arms
+Oh and it feels so good when I'm in your arms
 Nothing seems to matter as long as you're lovin' me
 
 I made a wish upon a shooting star

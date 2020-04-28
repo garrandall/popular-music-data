@@ -38,7 +38,7 @@ Did you forget about the laughter?
 Say oh, oh no
 
 
-Ooh, what you're missing could have been yours from the start
+Oh, what you're missing could have been yours from the start
 You won't listen when it's coming from the heart
 Now you're missing me
 You'll find that out when we're apart

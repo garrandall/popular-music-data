@@ -126,10 +126,7 @@ There is no one to take her place
 She's got my heart in her hands
 Baby, I adore
 
-
-
-
-Ooh mi amor es por ti que yo vivo y por ti suspiro.
+Ohmi amor es por ti que yo vivo y por ti suspiro.
 No solo hoy, solo hoy si no siempre.
 Tu estrella brilla siempre en mi.
 Y este sueÃ±o contigo sera realidad te quiero mucho

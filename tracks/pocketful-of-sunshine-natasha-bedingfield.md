@@ -225,6 +225,3 @@ Take me for a ride
 I smile up to the sky
 I know I'll be alright
 
-
-
-

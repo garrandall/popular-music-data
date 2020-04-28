@@ -57,7 +57,7 @@ rankings:
   start_date: '2014-05-31'
 ---
 
-Ooh, crazy's what they think about me
+Oh, crazy's what they think about me
 Ain't gonna stop cause they tell me so
 Cause 99 miles per hour baby
 Is how fast that I like to go

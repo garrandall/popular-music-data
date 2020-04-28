@@ -44,7 +44,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
 ---
-Mmm hmm...
+Mmm hm...
 
 The whole world is a stage
 And everybody's playing a part

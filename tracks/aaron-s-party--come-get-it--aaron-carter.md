@@ -70,7 +70,7 @@ rankings:
 ---
 
 
-Here's a little bit of old school for ya, 
+Here's a little bit of old school for ya,
 That goes a little something like this...
 
 I always tried to be the flyest kid in the block
@@ -83,7 +83,7 @@ All the fine girls couldn't turn it down
 Now all I gotta do is get my parents out
 Should I send them to a movie
 (No, send them to a show)
-Let me think, hmmm
+Let me think, hm
 It's gotta be long though
 
 I said Mom, Dad, yo why ya sittin home
@@ -103,12 +103,12 @@ Bustin' out the moves like it's MTV
 I'm guessin' where I'm goin' cuz I lost my head
 Then I jumped on table, this is what I said
 
-People all around you gotta 
-(Come get it) 
-Everyone together sing it loud 
-(Come get it) 
-Jump all around, come on 
-(Come get it) 
+People all around you gotta
+(Come get it)
+Everyone together sing it loud
+(Come get it)
+Jump all around, come on
+(Come get it)
 What...
 (Come get it)
 Say it again
@@ -119,16 +119,16 @@ People all around you gotta
 From the left to the right, make noise
 (Come get it)
 Here we go now, come on
-Uh uh what what 
+Uh uh what what
 
 Na na na na... Na na na na...
 
-Things are goin' great 
+Things are goin' great
 Then to my surprise
 Some people walked in, I didn't recognize
 I said fellows, yo, ya gotta get out
 
-(Hey man I heard this was an open house) 
+(Hey man I heard this was an open house)
 Open house?
 (Yeah that's what the flyers said)
 Well I didn't put out flyers
@@ -139,34 +139,34 @@ The girl I'm crushin'
 And the kid spilled juice
 On my Mom's new cushion
 
-I turned around and 
-Another kid broke the lamp 
+I turned around and
+Another kid broke the lamp
 (I hope they weren't expensive)
 They got them from France
 For now I won't sweat it
-I'll clean it up later 
+I'll clean it up later
 There's a honey over there
 And I really wanna meet her
 
 People all around you gotta
-(come get it) 
+(come get it)
 Everyone together sing it loud
-(come get it) 
+(come get it)
 Jump all around come on
-(come get it) 
+(come get it)
 What?
 (come get it)
 Say it again here we go, uh
-(come get it) 
+(come get it)
 
 People all around you gotta
-(come get it) 
+(come get it)
 From the left to the right, make noise
-(come get it) 
+(come get it)
 Here we go now, come on
 Uh uh what what
 
-Aaron C's in the house, here we go 
+Aaron C's in the house, here we go
 Come with it
 
 Break it down
@@ -175,26 +175,26 @@ Break it down
 Is that a car door
 Oh dang, I'm in trouble
 Everybody get out now
-On the double 
+On the double
 I'm dead (your done) that's it for me
 I'm gonna be picked off my family tree
 
 Once Mom finds out 'bout this party I had
 I don't wanna even start thinkin' about dad
-I'm hustlin around the house 
+I'm hustlin around the house
 Trying to clean up the mess
 I sure put my new white Nikes to the test
 
 The car door slammed
 And they're walking up the steps
-I guess life is good with 10 seconds left 
-(AARON!!!???!!!) 
+I guess life is good with 10 seconds left
+(Aaron?)
 
 Grounded
 
 
 
-Aaron C's in the house, come on 
+Aaron C's in the house, come on
 (come get it)
 Uh uh what what
 

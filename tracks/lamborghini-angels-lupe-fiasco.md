@@ -57,9 +57,6 @@ Perfect wife and perfect lover, no resistance, no complaints
 May God bless the scientific cure for the insane
 Knew she couldn't go to school, but she thought that that should change
 
-
-
-
 With his crucifix inside his pocket said his mission is divine
 Put his Bible on the bed and then he touched on his behind
 Told him take off all his clothes and put your penis next to mine
@@ -74,8 +71,4 @@ He forgives them in advance says that he will do again
 
 
 My fellow Americans...
-
-
-
-
 

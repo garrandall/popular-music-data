@@ -103,7 +103,7 @@ rankings:
 (Woo!
 Hoo, hoo, hoo
 Hoo, hoo, hoo
-Oooooh-ah
+Oh-ah
 Heaven)
 
 "Going up?", she said, "Uh huh"

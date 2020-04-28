@@ -151,7 +151,7 @@ You know I love to touch her lovely lady lumps
 
 Now get up after you back it up don't stop
 Drop it shawty, drop it like its hot
-Ooh, drop it like its hot
+Oh, drop it like its hot
 Do it shawty, don't stop
 Shawty say the nigga that she with ain't shit
 Shawty say the nigga that she with ain't this

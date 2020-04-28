@@ -17,9 +17,9 @@ rankings:
   start_date: '2020-03-21'
 ---
 Ante' tú me pichaba' (Tú me pichaba')
-Ahora yo picheo (Hmm, nah)
+Ahora yo picheo (Hm, nah)
 Antes tú no quería' (No quería')
-Ahora yo no quiero (Hmm, no)
+Ahora yo no quiero (Hm, no)
 Ante' tú me pichaba' (-chaba')
 Ahora yo picheo (Jaja)
 Antes tú no quería' (Ey)
@@ -27,9 +27,9 @@ Ahora yo no quiero
 No, tranqui
 
 
-Yo perreo sola (Hmm, ey)
-Yo perreo sola (Perreo sola; jaja; hmm-hmm)
-Yo perreo sola (Jaja, hmm; ey)
+Yo perreo sola (Hm, ey)
+Yo perreo sola (Perreo sola; jaja; hm-hm)
+Yo perreo sola (Jaja, hm; ey)
 Yo perreo sola (Perreo sola)
 Okay, okay, ey, ey, ey
 
@@ -70,17 +70,17 @@ Los phillie' en las Louis Vuitton los guarda
 
 
 Y me dice "papi" (Papi, sí; yes, yes)
-'Tá bien dura como Natti (Aah)
+'Tá bien dura como Natti (Ah)
 Borracha y loca, a ella no le importa (Woo)
 Vamo' a perrear, la vida es corta, ey (Hoo)
 Y me dice "papi" (Papi, sí; yes, yes)
-'Tá bien dura como Natti (Aah)
+'Tá bien dura como Natti (Ah)
 Despué' de las doce no se comporta (Ey)
 Vamo' a perrear, la vida e' corta (Woo)
 
 
 Ante' tú me pichaba' (Tú me pichaba')
-Ahora yo picheo (Hmm, nah; loco)
+Ahora yo picheo (Hm, nah; loco)
 Ante' tú no quería' (¿Pero cuándo yo dije eso?)
 Ahora yo no quiero (Pero, pero; no)
 Ante' tú me pichaba' (Nah)
@@ -90,7 +90,7 @@ Ahora yo no quiero
 No, tranqui
 
 
-Yo perreo sola (Hmm, ey)
-Yo perreo sola (Perreo sola; jaja; hmm-hmm)
-Yo perreo sola (Jaja, hmm; ey)
+Yo perreo sola (Hm, ey)
+Yo perreo sola (Perreo sola; jaja; hm-hm)
+Yo perreo sola (Jaja, hm; ey)
 Yo perreo sola (Perreo sola)

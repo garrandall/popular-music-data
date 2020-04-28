@@ -101,9 +101,6 @@ It must be raining dollars, cause she lookin' so gravy
 Sophisticasted lady, pop it to the end, what it do
 What the busi', baby girl, tell me what's happenin', what's happenin'
 
-
-
-
 She move like she dancing on YouTube
 The kind of chica that you really ain't used to
 Dame lo, dame lo, mami, shoot through
@@ -121,9 +118,6 @@ Must be the goose mixed with a little 'Tron
 She make it happen, Cap'n, feeling on me
 We in the billin' and we feeling like wee
 
-
-
-
 What-da-da-dang
 What-da-da-da-dang, hey
 What-da-da-dang
@@ -131,10 +125,4 @@ What-da-da-da-dang, hey
 What-da-da-dang
 What-da-da-da-dang, hey
 Listen to the sound, everybody go (Go)
-
-
-
-
-
-
 

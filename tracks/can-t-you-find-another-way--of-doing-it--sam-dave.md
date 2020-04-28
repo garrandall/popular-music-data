@@ -40,7 +40,7 @@ And I'll be the one you left standin' all alone
 
 Can't you find another way of doin' it baby, can't you?
 Can't you find another way of doin' it baby, can't you?
-Ooh yeah, never, never found no, nobody,  little girl
+Oh yeah, never, never found no, nobody,  little girl
  that I've been lookin' for, can't you find another way?
 
 Look, I'll do my very best to get over you
@@ -48,12 +48,12 @@ But deep down in this heart of mine, I know it ain't no use
 It'll be like fightin' an army with my bare hands
 Knowin' all the time that I'm on the losin' end
 
-Ooh, can't you find another way of doin' it baby, can't you?
+Oh, can't you find another way of doin' it baby, can't you?
 Can't you find another way of doin' it baby, can't you?
-Ooh no, never, never found no, nobody, everything little girl
+Oh no, never, never found no, nobody, everything little girl
 Everything that I've been lookin' for, can't you find another way?
 
-Ooh, get it, get it
+Oh, get it, get it
 
 Oh, we've gone a little too close for you to step out now
 Don't you know, if you leave me, baby, you're surely gonna tear me down

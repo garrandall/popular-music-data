@@ -113,7 +113,7 @@ I'm so afraid of losing you forever
 Stop in the name of love
 Before you break my heart (Baby, think it over)
 Stop in the name of love (Think it over, baby)
-Before you break my heart (Ooh, think it over, baby)
+Before you break my heart (Oh, think it over, baby)
 
 
 Stop in the name of love

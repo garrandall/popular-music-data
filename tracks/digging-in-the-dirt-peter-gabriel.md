@@ -59,10 +59,10 @@ No way of dealing with this feeling
 Can't go on like this too long
 
 
-This time you've gone too far 
-I told you 
-This time you've gone too far 
-I told you 
+This time you've gone too far
+I told you
+This time you've gone too far
+I told you
 
 Don't talk back
 Just drive the car
@@ -93,7 +93,4 @@ To open up the places I got hurt
 
 Digging in the dirt
 To find the places we got hurt
-
-
-
 

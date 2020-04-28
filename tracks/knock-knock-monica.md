@@ -83,16 +83,16 @@ rankings:
 It's funny how the tables turn, turn, turn, turn
 
  (Monica)
-Uhhh uhhh (ohhhh-ooohh) and it's sooo, woo
-(Wooooo-oooo, yeah) This that hot
-(Wooooo-ooooo, yeahhhh) Uh huhhh, yeah! New Monica!
+Uhhh uhhh (oh-oh) and it's sooo, woo
+(Wooooo-oo, yeah) This that hot
+(Wooooo-oo, yeahhhh) Uh huhhh, yeah! New Monica!
 
  {Missy}
 It's funny how the tables turn
 Now it's you running after me {huhhh}
 Didn't wanna spend quality time
 Didn't think I would ever leave {woooo}
-You got way too comfortable {ohhh}
+You got way too comfortable {oh}
 Now you say you want me in your life {huhhh}
 Cuz I've packed up all my shh {woooo}
 I'm moving in my new place tonight
@@ -102,7 +102,7 @@ So don't you, knock knock knock
 Stop knockin' (stop knockin')
 Don't come knockin' on my door (yeahhh)
 (Oooo yeahhhhh) Ring ring ring (ring)
-Let the phone stop (oohhh)
+Let the phone stop (oh)
 I don't want you calling me no mo'
 
 {Uh huhhhh, soooo, sooo}
@@ -118,11 +118,11 @@ I put a payment on my place
 You'll be sleeping alone tonight
 
  {Missy}
-So don't you, knock knock knock (knockin', ooohhh)
+So don't you, knock knock knock (knockin', oh)
 Stop knockin', don't come knockin' on my door
 (Don't you come knockin' at, wooaayy)
 Ring ring ring (ring)
-Let the phone stop (oohhh)
+Let the phone stop (oh)
 I don't want you calling me no mo'
 
 {Uh huhhhh, soooo, sooo} (yeah)
@@ -131,22 +131,22 @@ I don't want you calling me no mo'
 I used to be So Gone, you were someone I could lean on
 My life support system
 And I thought I couldn't breathe, uhh uhh
-When you used to leave, yup yup (yeahhhh) {ohhh}
+When you used to leave, yup yup (yeahhhh) {oh}
 I see you got your clean on
 Big chains, gold teeth and your gleam on
 All night wanna be gone
 Wanna tell me stay home like I got a uhh ring on {wooo}
 Then you say I'm not your wife, right right {huhh}
 So why should I be chillin', goodnight goodnight {huhh}
-Now pack up my things for a flight {ohhh}
+Now pack up my things for a flight {oh}
 I got a place and it's fixed up nice {come on!}
 So don't come knockin' on my door {yeah!}
 I got company coming 'round four {uhh huhh}
-So, whoa, heh heh, yeah {oohh}
+So, whoa, heh heh, yeah {oh}
 
  {Missy}
 I don't want you calling me no mo'
-Knock knock knock {oohhh}
+Knock knock knock {oh}
 Stop knockin', don't come knockin' on my door
 (Ring ring ring) ring ring ring
 Let the phone stop (please won't it stop)
@@ -155,13 +155,13 @@ I don't want you calling me no mo'
  {Missy}
 "Don't come knockin' on my door" {Uh huhhhh, sooo, soooo}
 "Don't come knockin' on my door"
-Ooohh oooh uhh, ooohh oohh uhh
-"Don't come knockin' on my door" (Oohh ohh uhh, yeah, yeah, yeahh)
+Oh oh, oh oh uhh
+"Don't come knockin' on my door" (Oh oh uhh, yeah, yeah, yeahh)
 "Don't come knockin' on my door"
-Ooohh oooh uhh (changed my locks) oohh uhhh (to my crib)
-"Don't come knockin' on my door" Ohhh (can't come in, oohh) Ohhhh
+Oh oh (changed my locks) oh uhhh (to my crib)
+"Don't come knockin' on my door" Ohhh (can't come in, oh) Ohhhh
 "I don't want you calling me no mo'"
 "Don't come knockin' on my door" (changed my locks, to my crib)
-"Don't come knockin' on my door" (can't come in, uhhh) Ooooohhh
+"Don't come knockin' on my door" (can't come in, uhhh) Oh
 
 I don't want you calling me no mo'

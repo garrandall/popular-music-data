@@ -72,7 +72,7 @@ Girls that acknowledge it
 Polish it after that swallow it
 Stand by baby where you at huh?
 Raise ya hand high
-You dont suck what that's a damn lie
+You don't suck what that's a damn lie
 Got red rye my man ride my fam tide
 So I need a real chick
 Someone to keep it real wit

@@ -48,7 +48,3 @@ But I can't escape from the sound of the rain in my heart.
 I hear that rain in my heart of the tears that I hide
 And it tears me apart, 'cause I keep them inside...
 
-
-
-
-

@@ -103,8 +103,8 @@ When the snows come out to stay
 I don't know how to explain my love's seasonal change
 It seems never the same - all I know is
 I love you for so many reasons
-Which means i love you for all seasons
+Which means I love you for all seasons
 (autumn, summer, winter, springtime)
 I love you for so many reasons
-Which means i love you for all seasons
+Which means I love you for all seasons
 (repeat to fade)

@@ -56,7 +56,7 @@ Meco
 (Meco Monardo)
 (Wicked Witch laughs, Toto barks)
 Cowardly Lion:
-"Rrrruf! Rrrruf!! Rrrruf!!!
+"Rrrruf! Rrrruf! Rrrruf!
 Put 'em up, put 'em up!"
 We're off to see the Wizard
 The wonderful Wizard of Oz

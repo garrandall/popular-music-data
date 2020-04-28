@@ -40,9 +40,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-10-25'
 ---
-Artist: Myron f/ Spinderella
-Album:  Myron
-Song:   We Can Get Down
 
 We can get down baby
 Down, down, down, uh
@@ -62,7 +59,6 @@ I love the way we get down
 Another minute we'll be in it, you and me
 Lovin' you for days, can't you see that...
 
-CHORUS
 We can get down baby
 Down, down, down, uh
 We can get down baby
@@ -81,8 +77,6 @@ If you ain't satisfied then my feelings get hurt
 When it comes to love I take it personal
 I'm always there for you and I'm hopin' that you know...
 
-CHORUS
-
 If ever a time, if ever a time goes by
 That you miss me and my rhyme
 Just call me baby and I will be right there
@@ -100,5 +94,3 @@ It's how you do me with them shoppin' sprees
 Myron got me locked like freeze
 Keep it hot all day cuz I digs you a lot
 So however you will do it keep a-rockin' my spot
-
-CHORUS

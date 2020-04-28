@@ -128,12 +128,12 @@ Hold em back, hold em back
 Push that nigga
 Fuck that hold em back
 
-Hey shawty it's on 
+Hey shawty it's on
 Goddamnit it's on
 Keep poppin in my face and get popped in the dome
-Learn to rush mothafuckas 
+Learn to rush mothafuckas
 It's gonna hurt
-If a nigga fall 
+If a nigga fall
 That's when shit gets worse
 The problem with you niggas is
 You just talk too much
@@ -144,10 +144,4 @@ In the A we don't play them games
 We just stack and slang and load up them things
 Gettin buck if you wanna and catch a bow
 Keep your pretty ass gull, beat your ass, and take your hoe
-
-
-
-
-
-
 

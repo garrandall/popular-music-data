@@ -76,7 +76,7 @@ Ah baby, so much joy wrapped up in it
 And I, I've got a song to sing
 Tellin' the world about the joy you bring
 And you gave me a reason for livin'
-And ooo, you taught me, you taught me the meaning of givin'
+And oo, you taught me, you taught me the meaning of givin'
 
 
 

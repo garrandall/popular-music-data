@@ -75,7 +75,7 @@ Like brothers and sisters
 (The world, the world will be as one)
 We're gonna be together
 As one walking hand in hand
-Ooh
+Oh
 
 (The world, the world will be as one)
 (Live as one)

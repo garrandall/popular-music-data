@@ -61,7 +61,3 @@ The sun is out, the sky is blue
 There's not a cloud to spoil the view
 But it's raining, oh it's raining in my heart
 
-
-
-
-

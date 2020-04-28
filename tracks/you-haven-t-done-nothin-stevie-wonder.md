@@ -116,9 +116,9 @@ Oh oh Doo doo wop,  oh oh doo doo wop
 
 
 We would not care to wake up to the nightmare
-That's becoming real life, hmmm
+That's becoming real life, hm
 But when misled who knows a person's mind
-Can turn as cold as ice, mm hmm
+Can turn as cold as ice, mm hm
 
 
 Why do you keep on making us hear your song

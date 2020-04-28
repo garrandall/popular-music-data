@@ -156,7 +156,7 @@ Do you feel the vibe?
 (Step 1)  ya kissisng on me
 (Step 2)  girl I'm caressing your body
 (Step 3)  now I'm licking off the whip cream
-(Step 4)  and oooh you're grinding on me
+(Step 4)  and ohou're grinding on me
 
 
 Baby, grind on me, relax your mind, take your time on me
@@ -184,7 +184,7 @@ Coochie swollen, the bedroom smoking
 Get some air up in this room girl
 If loving you is wrong, I don't wanna be right
 So I'mma take my time and do it right
-Caz we got all night ..... caz we got all night, baby girl just
+Caz we got all night ... caz we got all night, baby girl just
 
 
 Baby, grind on me, relax your mind, take your time on me

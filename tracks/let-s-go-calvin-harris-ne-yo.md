@@ -108,10 +108,10 @@ Let's go
 Let's go
 
 Hey, it's now or never
-Ohhh, ohhh
+Ohhh, oh
 Lets go
 Tomorrow's good, tonight is better
-Ohhh, ohhh
+Ohhh, oh
 Ohhh, let's go
 
 There is no better time
@@ -131,29 +131,29 @@ Let's go
 Let's go
 
 Hey, it's now or never
-Ohhh, ohhh
+Ohhh, oh
 Let's go
 Tomorrow's good, tonight is better
-Ohhh ohhh
+Ohhh oh
 
 Let's make it happen
-Ooh, let's make it happen tonight
+Oh, let's make it happen tonight
 Let's make it happen
-Ooh, let's make it happen tonight
+Oh, let's make it happen tonight
 Let's make it happen
-Ooh, let's make it happen tonight
+Oh, let's make it happen tonight
 Let's make it happen
-Ooh, let's make it happen tonight 
+Oh, let's make it happen tonight
 Let's go
 Let's go
 Let's go
 
 Hey, it's now or never
-Ooh, ooh
+Oh, oh
 Let's go
 Tomorrow's good, tonight is better
-Ooh, ooh
-Ooh, let's go
+Oh, oh
+Oh, let's go
 
 
 

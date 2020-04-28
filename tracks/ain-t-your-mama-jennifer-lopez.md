@@ -17,7 +17,7 @@ rankings:
   start_date: '2016-05-28'
 ---
 I ain't gon' be cooking all day, I ain't your mama
-I ain't gon' do your laundry, I ain't your mama, hmm
+I ain't gon' do your laundry, I ain't your mama, hm
 I ain't your mama, boy, I ain't your mama
 When you gon' get your act together?
 I ain't your mama
@@ -39,7 +39,7 @@ Just remember that, hey!
 
 
 I ain't gon' be cooking all day, I ain't your mama
-I ain't gon' do your laundry, I ain't your mama, hmm
+I ain't gon' do your laundry, I ain't your mama, hm
 I ain't your mama, boy, I ain't your mama
 When you gon' get your act together?
 I ain't your mama

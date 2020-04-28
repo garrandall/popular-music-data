@@ -232,7 +232,7 @@ I think I'm losing my mind now
 It's in my head, darling, I hope
 That you'll be here when I need you the most
 So don't let me, don't let me, don't let me down
-D-don't let me down
+Don't let me down
 Don't let me down
 
 
@@ -241,7 +241,7 @@ Don't let me down
 Don't let me down, down, down
 
 
-R-r-running out of time
+Running out of time
 I really thought you were on my side
 But now there's nobody by my side
 
@@ -253,7 +253,7 @@ I think I'm losing my mind now
 It's in my head, darling, I hope
 That you'll be here when I need you the most
 So don't let me, don't let me, don't let me down
-D-don't let me down
+Don't let me down
 Don't let me down
 
 
@@ -264,8 +264,8 @@ Don't let me down
 Don't let me down, down, down
 
 
-Ooh, I think I'm losing my mind now, yeah
-Ooh, I think I'm losing my mind now, yeah
+Oh, I think I'm losing my mind now, yeah
+Oh, I think I'm losing my mind now, yeah
 
 
 I need you, I need you, I need you right now

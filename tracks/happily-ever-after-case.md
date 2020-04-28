@@ -108,21 +108,21 @@ Couldn't we please be happily ever after (couldn't we be, baby)
 Leaving you never stays forever strong
 
 
-When I was away (umm...hmm)
+When I was away (umm...hm)
 Some friends became just faces
 Some people grew apart
 But you stayed right in my heart
 In so many times, could picture this day inside my mind
-And for so many years, ooh
-I knew it would be you here with me, ooh (yes I will)
+And for so many years, oh
+I knew it would be you here with me, oh(yes I will)
 Take you for my wife, the center of my life
 And I will never ever fade
-From this choice I've made, ooh...oh
+From this choice I've made, oh...oh
 
 Couldn't we please be happily ever after (come on)
 We could be strong together for so long (said my love is strong)
 Couldn't we please be happily ever after (Couldn't we please baby)
-Leaving you never stays forever strong (hey...ooh...hey yeah)
+Leaving you never stays forever strong (hey...oh...hey yeah)
 
 You don't have to look no further than me (don't look no further, baby yeah)
 You don't need much more than my lovin' to make you happy (I'm so happy I'm so happy, babe)
@@ -132,7 +132,7 @@ I'll be right here, stay with me (stay with me, baby hey)
 Couldn't we please be happily ever after (Said I wanna be...said I wanna be)
 We could be strong together for so long (Our love is...)
 Couldn't we please be happily ever after (Couldn't we please baby)
-Leaving you never stays forever strong (No, No...Said No, No I will never leave you, ooh)
+Leaving you never stays forever strong (No, No...Said No, No I will never leave you, oh
 
 
 

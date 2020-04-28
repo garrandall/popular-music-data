@@ -112,11 +112,11 @@ And I just wanna get behind it and watch you
 Cause we like her, and we like her too
 And we like her, and we like her too
 And we like her, and we like her too
-And we like her, and she like us too, and ohhh
+And we like her, and she like us too, and oh
 I wish I could fuck every girl in the world
 I wish I could fuck every girl in the world
 I wish I could fuck every girl in the world
-Ohhhhh-ohh-ohh
+Ohhhhh-oh-oh
 
 
 Yeah, alright
@@ -141,11 +141,11 @@ She bring that friend around and make a nigga reconsider, man
 Cause we like her, and we like her too
 And we like her, and we like her too
 And we like her, and we like her too
-And we like her, and she like us too, and ohhh
+And we like her, and she like us too, and oh
 I wish I could fuck every girl in the world
 I wish I could fuck every girl in the world
 I wish I could fuck every girl in the world
-Ohhhhh-ohh-ohh
+Ohhhhh-oh-oh
 
 
 I'm calling you sexy, lady
@@ -172,7 +172,7 @@ And Hilary can Rodham too, boy, I gets my pimpin' on
 Cause we like her, and we like her too
 And we like her, and we like her too
 And we like her, and we like her too
-And we like her, and she like us too, and ohhh
+And we like her, and she like us too, and oh
 I wish I could fuck every girl in the world
 I wish I could fuck every girl in the world
 I wish I could fuck every girl in the world

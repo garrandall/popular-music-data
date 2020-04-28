@@ -62,25 +62,25 @@ Ask Me No Questions Like That
 Oh Girl Please!
 
 
-Oh Girl Please My Ass! Who That Is Over There? 
+Oh Girl Please My Ass! Who That Is Over There?
 
 
 Are You Mocking Me?
 
- 
+
 Uh, Boy Ain't Nobody Got To Mock You
 
 
 Yeah You Mocking Me! You Get Your Little Record Deal And Shit And Think You All That
 
 
-Ooh, Bye Keith
+Oh Bye Keith
 
 
 Nivea Hello!
 
- 
-You's A Lying Cheating Son Of A 
+
+You's A Lying Cheating Son Of A
 The Way You Do Me Boy I'm Tired Of Taking Your Shit
 See I Know All About Those Fast Hoes Up In College Shorty Need To Stop It Hello
 
@@ -116,7 +116,7 @@ I'm Headed To The Laundromat
 
 Baby What You Saying
 
- 
+
 Baby Read Between The Lines
 Do I Have To Spell It Out To You I'm Saying Goodbye
 
@@ -124,7 +124,7 @@ Do I Have To Spell It Out To You I'm Saying Goodbye
 Oh Girl Quit Playing I'm The Only Thing You Got
 
 
-You're The Only Thing I Got 
+You're The Only Thing I Got
 Well Then I Must Not Have A Lot
 
 
@@ -154,7 +154,7 @@ I'm Headed To The Laundromat
 
 Baby Can We Talk About It?
 
- 
+
 What Is There To Talk About?
 You Don' Hurt Me Time Again Brought Me Up And Break Me Down
 
@@ -172,10 +172,10 @@ Girl I'm 'Bout To Lose It
 No Wait Now I Suggest You Don't Go Tryin' Nothin' Stupid
 
 
-Ooh Baby I Just Don't Know What I Would Do If I Was To Lose You 
+OhBaby I Just Don't Know What I Would Do If I Was To Lose You
 Hello Are You There?
 
- 
+
 Goodbye!
 
 
@@ -185,15 +185,15 @@ And Let's Not Forget The Food Stains, Dirt Spots, Head Sets, Chips, Pop, Pay Pho
 I'm Headed To The Laundromat
 
 
-I Can't Take It No More 
-Ooh, It's Time To Hit Door
+I Can't Take It No More
+Oh It's Time To Hit Door
 Pants And Socks Dirty Towels
 Oh I Been Putting Up With Your Shit For A While Now
 No More Cryin'
 None Of Your Lyin'
 You Got To Go Boy
 I'm Cleanin' My House Now
-Ooooooh, I'm Headed To The Laundromat
+Oh, I'm Headed To The Laundromat
 
 
 

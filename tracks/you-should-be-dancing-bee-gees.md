@@ -94,8 +94,8 @@ Goes right on till the dawn
 My woman takes me higher
 My woman keeps me warm
 
-What you doin' on your back aah
-What you doin' on your back aah
+What you doin' on your back ah
+What you doin' on your back ah
 You should be dancing, yeah
 Dancing, yeah
 
@@ -104,8 +104,8 @@ She gets it to me good
 My woman gives me power
 Goes right down to my blood
 
-What you doin' on your back aah
-What you doin' on your back aah
+What you doin' on your back ah
+What you doin' on your back ah
 You should be dancing, yeah
 Dancing, yeah
 
@@ -114,8 +114,8 @@ Goes right on till the dawn
 My woman takes me higher
 My woman keeps me warm
 
-What you doin' on your back aah
-What you doin' on your back aah
+What you doin' on your back ah
+What you doin' on your back ah
 You should be dancing, yeah
 Dancing, yeah
 

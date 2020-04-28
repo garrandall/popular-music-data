@@ -52,26 +52,26 @@ Nickel song
 *With refrain from music! music! music!
 * Put another nickel in
 In the nickelodeon
-All i ever want from you is music
+All I ever want from you is music
 I'll do anything for you anything you want me to
-All i ever, all i ever wanted was music
+All I ever, all I ever wanted was music
 Well you know that i'm not a gambler but i'm being gambled on
-They put in a nickel and i sing a little song
+They put in a nickel and I sing a little song
 In the nickelodeon
-All i ever, all i ever, wanted was music
-Well i don't mind that
+All I ever, all I ever, wanted was music
+Well I don't mind that
 They're lucky but it seems like they always win
 And gambling is illegal in the state of mind i'm in
-And if i had a nickel for each time that i've been put on
+And if I had a nickel for each time that i've been put on
 I would be their nickel man and i'd sing a little song
 You know they're only putting in a nickel
 And they want a dollar song, oh
 They're only putting in a nickel
 And they want a dollar song
-Oh yeah, all i ever wanted was the music
+Oh yeah, all I ever wanted was the music
 I'll do anything for you anything you want me to
 
-All i ever all i ever wanted was music sweet music
+All I ever all I ever wanted was music sweet music
 They're only puttin' in a nickel
 To get rid of a lot that's wrong
 Oh you know they're only puttin' in a nickel

@@ -26,7 +26,7 @@ I'm chasing the sun
 Won't miss out on the fun
 Gotta get it while our hearts are young
 I'm chasing the sun
-Oooh, oooh, oooh, oooh
+Oh, ohohohoh
 
 On my pursuit of happiness
 I realized that more means less
@@ -41,7 +41,7 @@ I'm chasing the sun
 Won't miss out on the fun
 Gotta get it while our hearts are young
 I'm chasing the sun
-Oooh, oooh, oooh, oooh
+Oh, ohohohoh
 
 Love the life I live
 And I will live the life I love
@@ -61,7 +61,7 @@ I'm chasing the sun
 Won't miss out on the fun
 Gotta get it while our hearts are young
 I'm chasing the sun
-Oooh, oooh, oooh, oooh
+Oh, ohohohoh
 
 
 

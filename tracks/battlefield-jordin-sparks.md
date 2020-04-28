@@ -191,6 +191,3 @@ I never meant to start a war
 Don't even know what we're fighting for
 (whoa ooow)
 
-
-
-

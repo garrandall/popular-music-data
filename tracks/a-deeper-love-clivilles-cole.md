@@ -209,8 +209,8 @@ Heyeyeyey
 Heyeyeyey
 Ohohohohoho...
 
-Oooh, oooh, oooh
-Oooh, oooh, oooh (Oh, oh, oh, oh, pride)
+Oh, oh, oh
+Oh, oh, oh (Oh, oh, oh, oh, pride)
 
 A deeper love (Oh, oh, oh, oh, pride)
 

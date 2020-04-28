@@ -96,7 +96,7 @@ Do that shit do that shit do it
 Do that shit do that shit do it
 Do that shit do that shit do it
 Do that shit do that shit do it
-Ooh yeah
+Oh yeah
 On the dance floor
 Yeah yeah yeah
 Lets play a game

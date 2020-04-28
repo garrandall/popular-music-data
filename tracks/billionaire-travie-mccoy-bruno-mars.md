@@ -150,8 +150,8 @@ I see my name in shining lights (uhuh uhuh yeah what else?)
 A different city every night, oh I
 I swear the world better prepare (for what?)
 For when I'm a billionaire
-Oh oooh oh oooh for when I'm a billionaire
-Oh oooh oh oooh for when I'm a billionaire
+Oh oh oh oh for when I'm a billionaire
+Oh oh oh oh for when I'm a billionaire
 
 
 I'll be playing basketball with the President
@@ -180,8 +180,8 @@ I see my name in shining lights (uh huh, uh huh, what else?)
 A different city every night, oh I
 I swear the world better prepare (for what?)
 For when I'm a billionaire (yeah, sing it)
-Oh oooh oh oooh when I'm a billionaire
-Oh oooh oh oooh
+Oh oh oh oh when I'm a billionaire
+Oh oh oh oh
 
 I wanna be a billionaire so fucking bad!
 

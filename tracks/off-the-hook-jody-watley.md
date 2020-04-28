@@ -71,7 +71,7 @@ And I felt just the same way about you
 
 It started out with just one touch
 But little did I know I'd get this much
-Lovin' (ooh), kissin' (ah), huggin' (ah)
+Lovin' (oh, kissin' (ah), huggin' (ah)
 From just one man, you're...
 
 Off the hook
@@ -82,7 +82,7 @@ Between us there's fire (fire)
 My only desire (desire)
 Is being with you, boy
 'Cause you know just what to do
-Oh, oh, oh, ooh
+Oh, oh, oh, oh
 
 It really turns me on
 How my man is so sensitive and warm
@@ -95,14 +95,14 @@ Never been so happy, boy
 Your love is off the hook
 And why should I complain, baby
 Crazy, insane, I lose my cool over you
-Your lovin' (ooh), kissin' (ah)
+Your lovin' (oh, kissin' (ah)
 Huggin' (ah), from just one man, you're
 
 (Just one touch) started with just a touch
-(I know) mmm, mmm, mmm (ooh)
+(I know) mmm, mmm, mmm (oh
 The kissin' (ah), the huggin' (ah), the lovin'
 (Just one touch) mmm, damn
-(I know) it's off the hook (ooh), yeah (ah, ah)
+(I know) it's off the hook (oh, yeah (ah, ah)
 
 Off the hook
 And your love is unexplainable

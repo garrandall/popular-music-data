@@ -133,9 +133,6 @@ To prove your love is true
 Is give me a guarantee
 That you'll love me through and through
 
-
-
-
 Will you promise me
 Will you promise, promise
 Will you promise me

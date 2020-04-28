@@ -12,7 +12,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-02-28'
 ---
-Ahh, I'm in love, I'm in love
+Ah, I'm in love, I'm in love
 I'm in love, I'm in love
 When you're loving me
 
@@ -25,7 +25,7 @@ Baby, you really got to me
 
 Girl, you touch my mind
 You sparkle and shine now, yeah
-Ooh, and I feel it's all I can see
+Oh and I feel it's all I can see
 When I'm loving you
 Whoa, whoa, whoa
 

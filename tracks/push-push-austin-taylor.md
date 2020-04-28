@@ -53,7 +53,7 @@ Come and kiss me
 
 
 
-Ooh, look at that moon
+Oh, look at that moon
 Hugging that old sky
 Look at the star
 Winking it's eye

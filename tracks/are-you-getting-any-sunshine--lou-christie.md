@@ -71,7 +71,7 @@ Are you getting any sunshine
 Sunshine, baby, sunshine, baby
 
 It's love (baby love)
-Ooh-ooh-ooh-ooh, Ooh-ooh-ooh-ooh, Ooh-ooh-ooh-ooh, Ooh-ooh-ooh-ooh, Ooh
+Oh-oh-oh-oh, Oh-oh-oh-oh, Oh-oh-oh-oh, Oh-oh-oh-oh, Oh
 What you need is love (baby love)
-Ooh-ooh-ooh-ooh, Ooh-ooh-ooh-ooh, Ooh-ooh-ooh-ooh, Ooh-ooh-ooh-ooh, Ooh
+Oh-oh-oh-oh, Oh-oh-oh-oh, Oh-oh-oh-oh, Oh-oh-oh-oh, Oh
 What you need is love (baby love)

@@ -73,10 +73,10 @@ Hell no (Oh, yeah)
 Said I don't even care
 
 
-Remember when we made a fuckin' album off that Clicquot? (Ooh)
+Remember when we made a fuckin' album off that Clicquot? (Oh)
 I never track my vocals, so shout out to Eric Vetro (I love Eric Vetro, man)
-This been buildin' up, I guess this friendship like Home Depot (Ooh)
-I'm so thankful working with my best friend, she the chico 
+This been buildin' up, I guess this friendship like Home Depot (Oh)
+I'm so thankful working with my best friend, she the chico
 She the chico  (Yeah)
 
 Where you at? Where you been? (Oh yeah)

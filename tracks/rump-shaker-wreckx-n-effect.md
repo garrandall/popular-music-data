@@ -199,7 +199,7 @@ Come on, pass the poom-poom, send it to poppa
 Shake it baby, shake it baby, shake it, don't stoppa
 Let me see you do the booty hop (hop)
 And now make the booty stop
-Now drop and do the booty wop (ooh)
+Now drop and do the booty wop (oh)
 The way you shakin' your reals, will appeal
 Is makin' my bills (that's a whole lotta bills)
 But I ain't into trickin', just to treatin'

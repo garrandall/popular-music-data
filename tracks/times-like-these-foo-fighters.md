@@ -111,9 +111,6 @@ It's times like these you give and give again
 It's times like these you learn to love again
 It's times like these time and time again
 
-
-
-
 It's times like these you learn to live again
 It's times like these you give and give again
 It's times like these you learn to love again

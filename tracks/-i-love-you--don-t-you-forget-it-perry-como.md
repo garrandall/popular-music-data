@@ -66,7 +66,7 @@ I love you at a party
 We always have a ball!
 
 And when you're in my arms dear
-I love you most of all . . 
+I love you most of all . .
 In the morning an' in the evening
 An' when it's cloudy or clear
 I'm in love with you, so in love with you

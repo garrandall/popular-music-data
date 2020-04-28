@@ -85,7 +85,7 @@ rankings:
   start_date: '1987-11-21'
 ---
 
-Ooh, baby
+Oh, baby
 
 Two hearts, two of a kind
 Love at first sight, why do they say love is blind

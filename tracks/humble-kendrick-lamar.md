@@ -166,7 +166,7 @@ But now I'm counting this
 Parmesan where my accountant lives in fact I'm down at this
 D'usÅe with my boo bae, tastes like kool aid for the analysts
 Girl, I can buy your ass the world with my paystub
-Ooh that pussy good, won't you sit it on my taste bloods
+Oh that pussy good, won't you sit it on my taste bloods
 I get way too petty once you let me do the extras
 Pull up on your block, then break it down we playing Tetris
 A.M. to the P.M., P.M. to the A.M. funk

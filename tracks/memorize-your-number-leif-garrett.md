@@ -50,13 +50,13 @@ I want to remember the first time we met
 
 Before you move in with me
 And move out a year from now
-Dont forget that i told it's perfect
+Dont forget that I told it's perfect
 But you spoiled it somehow
 
 Chorus
-Oh, i don't (wanna memorize your number)
+Oh, I don't (wanna memorize your number)
 Don't want my heart to die
-Every time i call and you're not there
+Every time I call and you're not there
 (Memorize your number)
 Dont want the pain to remain way down inside me
 When you say goodbye
@@ -68,10 +68,9 @@ I will want to believe
 ? Fall through the door
 And after you've taken them back
 Dont forget they been saying
-Dont deny i exist inside of your heart
+Dont deny I exist inside of your heart
 Inside of your head
 
-Chorus
 
 How can we stay like this
 This is the passion forever

@@ -86,9 +86,9 @@ rankings:
 ---
 I remember times my love when we really had it all
 You were always there to make me smile, help me when I fall
-Ooh, I can't believe you're leaving me
+Oh, I can't believe you're leaving me
 When there's so much more to say -- I can't let you go
-Ooh , ev'ry time I look at you I still can feel the glow
+Oh , every time I look at you I still can feel the glow
 Let it be, let it grow
 
 Love me , please , just a little bit longer
@@ -100,7 +100,7 @@ All I ever wanted was to have you to myself
 Then I see you standing there in the arms of someone else
 You know a man can stand so much
 And it's more then I can bear -- I can't let you go
-Ooh, ev'ry time I look at you I still can feel the glow
+Oh, every time I look at you I still can feel the glow
 Let it be , let it grow
 
 Love me , please, just a little bit longer

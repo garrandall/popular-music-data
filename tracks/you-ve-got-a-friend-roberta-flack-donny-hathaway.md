@@ -64,7 +64,7 @@ When you're down and troubled
 And you need some lovin' care
 And nothing, nothing is goin' right
 
-Hmm, close your eyes and think of me
+Hm, close your eyes and think of me
 And soon I will be there
 To brighten up even your darkest night
 

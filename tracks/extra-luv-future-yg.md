@@ -25,10 +25,10 @@ She don't want to love me
 Lifestyle, lifestyle
 
 
-Ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohhoh
 You never really loved me (You ain't never loved me)
-Ahhh, ahhh, never really loved me (You ain't never loved me)
-Ooh, ooh, ooh, ooh, ooh
+Ah, ah, never really loved me (You ain't never loved me)
+Oh oh oohohohhoh
 Never really loved me
 It's my lifestyle, it's my lifestyle
 
@@ -51,10 +51,10 @@ Extra luv
 Lifestyle, lifestyle
 
 
-Ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohhoh
 You never really loved me
-Ahhh, ahhh, never really loved me
-Ooh, ooh, ooh, ooh, ooh
+Ah, ah, never really loved me
+Oh oh oohohohhoh
 Never really loved me (You ain't never loved me)
 It's my lifestyle, it's my lifestyle (Hol' up, hol' up)
 
@@ -85,10 +85,10 @@ Extra luv (Hol' up)
 Lifestyle, lifestyle (It's YG, 4 hunnid)
 
 
-Ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohhoh
 You never really loved me
-Ahhh, ahhh, never really loved me
-Ooh, ooh, ooh, ooh, ooh
+Ah, ah, never really loved me
+Oh oh oohohohhoh
 Never really loved me
 It's my lifestyle, it's my lifestyle
 
@@ -97,10 +97,10 @@ Come and check up on my line baby, all the time baby, ah noo
 Too much drugs in my life baby, I just really need some time baby
 Runnin' from ya, out of time baby, come and find me baby, ah noo
 
-Ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohhoh
 You never really loved me
-Ahhh, ahhh, never really loved me
-Ooh, ooh, ooh, ooh, ooh
+Ah, ah, never really loved me
+Oh oh oohohohhoh
 Never really loved me
 It's my lifestyle, it's my lifestyle
 

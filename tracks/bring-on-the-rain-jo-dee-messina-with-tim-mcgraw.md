@@ -104,7 +104,7 @@ I might be barely breathing but I'm not dead, no
 
 'Cause, tomorrow's another day
 And I'm thirsty anyway
-So bring on the rain, ooh
+So bring on the rain, oh
 
 I'm not gonna let it get me down
 I'm not gonna cry
@@ -116,14 +116,14 @@ So bring on the rain
 
 'Cause, tomorrow's another day
 And I'm thirsty anyway
-So bring on the rain, ooh
+So bring on the rain, oh
 
 Bring on, bring on the rain
 
 No I'm not gonna let it get me down
 I'm not gonna cry
-So bring on the rain, ooh
+So bring on the rain, oh
 
 Bring on, bring on the rain
 Bring on the rain
-Bring on the rain, ooh
+Bring on the rain, oh

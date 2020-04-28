@@ -93,16 +93,10 @@ Do you think you're better off alone?
 Do you think you're better off alone?
 Do you think you're better off alone?
 
-
-
-
-Talk to me, ooohh, talk to me
-Talk to me, ooooh, talk to me
+Talk to me, oh, talk to me
+Talk to me, ohalk to me
 Do you think you're better off alone?
 Do you think you're better off alone?
-
-
-
 
 Do you think you're better off alone?
 Do you think you're better off alone?
@@ -110,6 +104,6 @@ Do you think you're better off alone?
 Do you think you're better off alone?
 
 
-Talk to me, oooh, talk to me
-Talk to me, oooh, talk to me
+Talk to me, ohtalk to me
+Talk to me, ohtalk to me
 Talk to me

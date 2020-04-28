@@ -107,9 +107,6 @@ And now that I'm straight I'm 'bout to act a fool again
 Get silly (HEY) get silly (HEY) get silly (HEY) get silly (HEY)
 Get silly (HEY) get silly (HEY) get silly (HEY) get silly (HEY)
 
-
-
-
 My shades too silly cause they made by cavalli
 Jays so excited you can't find 'em lil' buddy
 I'm not Nick Cannon but I'm "Wild'n Out" clubbin
@@ -126,16 +123,10 @@ While I'm jockin on you haters just like I pop a wheelie
 Get silly (HEY) get silly (HEY) get silly (HEY) get silly (HEY)
 Get silly (HEY) get silly (HEY) get silly (HEY) get silly (HEY)
 
-
-
-
 That's all y'all got! (That's all they got)
 Y'all ain't even fightin back man
 First Hurricane, then Soulja Boy
 Then the African prince of Collipark, V.I.C. yup!
-
-
-
 
 It's all over homey, Collipark homey
 Soulja Boy! You snapped on the beat

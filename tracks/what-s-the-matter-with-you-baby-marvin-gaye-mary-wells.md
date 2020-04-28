@@ -82,7 +82,3 @@ And now you wanna take me out tonight
  I've got a feelin' everything is gonna work all right
 But you can't take me out tonight
 
-
-
-
-

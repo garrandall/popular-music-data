@@ -196,7 +196,7 @@ I'm wishing I could make this mine, oh
 
 If you want it, yeah
 You can have it, oh, oh, oh
-If you need it, ooh
+If you need it, oh
 We can make it, oh
 If you want it
 You can have it
@@ -205,7 +205,7 @@ You can have it
 But stay woke
 Niggas creepin'
 They gon' find you
-Gon' catch you sleepin' (Ooh)
+Gon' catch you sleepin' (Oh)
 Now stay woke
 Niggas creepin'
 Now don't you close your eyes
@@ -230,13 +230,13 @@ But stay woke (Stay woke!)
 Niggas creepin' (They be creepin')
 They gon' find you (They gon' find you)
 Gon' catch you sleepin' (Gon' catch you sleepin', put your hands up now, baby)
-Ooh, now stay woke
+Oh, now stay woke
 Niggas creepin'
 Now, don't you close your eyes
-But stay woke, ooh
+But stay woke, oh
 Niggas creepin' (They gon' find you!)
 They gon' find you
-Gon' catch you sleepin', ooh
+Gon' catch you sleepin', oh
 Now stay woke
 Niggas creepin'
 Now, don't you close your eyes

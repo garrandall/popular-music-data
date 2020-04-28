@@ -62,7 +62,7 @@ It's my turn, the circle game has brought me here
 And I won't let down 'til every song is set
 
 You realize now
-You should have tried now, ooh
+You should have tried now, oh
 The music's gone now
 You lost it somehow
 Hey you, sha la la la
@@ -76,7 +76,7 @@ It's my game, the music is inside my head
 For every one on top there's one who can't retrace
 
 You realize now
-You should have tried now, ooh ooh
+You should have tried now, ohooh
 The music's gone now, you'll find out
 You lost it somehow
 Hey you, sha la la la
@@ -84,7 +84,7 @@ Hey you, sha la la la
 Woo! Sha la la
 Woo! Sha la la
 
-You realize now, ooh
+You realize now, oh
 You could have tried now
 The music's gone now
 You lost it somehow

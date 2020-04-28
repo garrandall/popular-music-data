@@ -161,7 +161,7 @@ And I guess I should of gone ahead and run
 But somehow I just couldn't resist the fun
 Of chasing them all just once around the parking lot
 
-Well they headed for their car, but i hit the gas
+Well they headed for their car, but I hit the gas
 And spun around and headed them off at the pass
 I was slinging gravel and putting a ton of dust in the air
 

@@ -194,9 +194,9 @@ Vogue, vogue
 (Go with the flow)
 
 
-Oooh, you've got to
+Oh, you've got to
 Let your body move to the music
-Oooh, you've got to just
+Oh, you've got to just
 Let your body go with the flow
-Oooh, you've got to just
+Oh, you've got to just
 Vogue

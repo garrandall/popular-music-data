@@ -3,7 +3,7 @@ artists:
 - Teena Marie
 features: []
 genres: []
-key: ooo-la-la-la-teena-marie
+key: oo-la-la-la-teena-marie
 lyrics_url: https://www.azlyrics.com/lyrics/teenamarie/ooolalala.html
 name: Ooo La La La
 rankings:
@@ -85,7 +85,7 @@ Falling for you, falling with you
 Falling to you, falling after you
 Falling
 
-Ooh, sweet thing, you got me singing
+Oh, sweet thing, you got me singing
 Ooo la-la-la-la-la-la-la-la-la-la
 Sweet thing, whoa, you got me singing
 Ooo la-la-la-la-la-la-la-la-la-la
@@ -105,10 +105,10 @@ It's a dream that lasts forever
 Ooo la-la-la
 Let's stay together
 
-Ooh... ooh...
-Sweet, ooh... ooh... ooh... ooh...
-Ooh... ooh...
-Sweet thing, ooh...
+Oh... oh...
+Sweet, oh... oh... oh... oh...
+Oh... oh...
+Sweet thing, oh...
 
 You know everybody
 Sometimes you should just stop

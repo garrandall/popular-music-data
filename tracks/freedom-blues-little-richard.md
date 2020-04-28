@@ -57,7 +57,7 @@ Oh...
 Now la-la, la-da-da-da.
 La-la, la-da da-da.
 
-Mmmm, let's get rid of that old man, hey-ey-ey,
+Mmm, let's get rid of that old man, hey-ey-ey,
 And bring our government up to date.
 It may be very hard to do,
 Just open your mind, let love come through.

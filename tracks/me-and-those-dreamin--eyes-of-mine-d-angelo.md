@@ -59,7 +59,7 @@ Somethin' like me being with you
 And you being with me
 
 
-Ooh wee baby you've redefined my vision of love it seems
+Oh wee baby you've redefined my vision of love it seems
 Your love be the cherry in my chocolate covered dreams
 So it seems my oh my
 Me and those dreamin eyes of mine
@@ -88,7 +88,7 @@ Somethin' like me being with you
 And you being with me
 
 
-Ooh wee baby you've redefined my vision of love it seems
+Oh wee baby you've redefined my vision of love it seems
 Your love be the cherry in my chocolate covered dreams
 So it seems my oh my
 Me and those dreamin eyes of mine
@@ -102,7 +102,7 @@ Somethin' like me being with you
 And you being with me
 
 
-Ooh wee baby you've redefined my vision of love it seems
+Oh wee baby you've redefined my vision of love it seems
 Your love be the cherry in my chocolate covered dreams
 So it seems my oh my
 Me and those dreamin eyes of mine

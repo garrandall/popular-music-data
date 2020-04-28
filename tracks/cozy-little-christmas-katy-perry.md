@@ -38,7 +38,7 @@ Take the day off (take the day off)
 Get a massage (get a massage)
 'Cause we've got this one all under control
 A little whiskey (a little whiskey)
-We're getting frisky (ooh)
+We're getting frisky (oh)
 And slow dancing to Nat King Cole
 No, we ain't stressin' (we ain't stressin')
 Just caressin' (mhm)

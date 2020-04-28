@@ -117,7 +117,7 @@ Ain't no needing waiting up, you done found you another (Home)(Woo)
 
 
 I don't know why you care (Why you thinking 'bout him, mamma?)
-He doesn't even know you're there (Ooh, no)
+He doesn't even know you're there (Oh no)
 Cause he don't love your eyes (No)
 And he don't love your smile (No)
 Girl, you know that ain't fair (C'mon)
@@ -149,8 +149,8 @@ Or does he break your stride? (C'mon)
 Did you know that love could be a shield? Yeah
 
 
-In the middle of the night (Ooh)
-Is he gonna be by your side? (Ooh, no, no)
+In the middle of the night (Oh
+Is he gonna be by your side? (Oh no, no)
 Or will he run and hide?
 You don't know 'cause things ain't clear
 And baby, when you cry (Ohh)
@@ -198,13 +198,13 @@ The one to show you where you are
 Girl, you should be my girlfriend (You make my heart sing)
 
 
-Ahh, ahh (Uh-uh-uh-uh) (You make my heart sing)
-Ahh, ahh (You make my heart sing)
-Ahh, ahh (Uh-uh-uh-uh)
+Ah, ah (Uh-uh-uh-uh) (You make my heart sing)
+Ah, ah (You make my heart sing)
+Ah, ah (Uh-uh-uh-uh)
 (Oh baby, baby, yeah) (You make my heart sing)
 
 
-Ahh, ahh (Girl, you should be my girlfriend)
+Ah, ah (Girl, you should be my girlfriend)
 (Would you be my)
 Girl, you should be my girlfriend (Would you be my girl)
 Girl, you should be my girlfriend (Would you be my)

@@ -119,9 +119,6 @@ And when there were cloudy days you brought sunshine in my life
 It never occurred
 I would fall so deep in love that your love can't be replaced
 
-
-
-
 You are everything and everything is you
 You are everything and everything is you
 You are everything and everything is you

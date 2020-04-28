@@ -45,14 +45,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-06'
 ---
-Don't cost You nothing (2x)
+Don't cost You nothing
 
 Think, think about the way of rejection
 You're not the only one reaching for perfection
 Think, think about the reason you exist
 I got something You might not wanna miss
 
-Don't cost You nothing (2x)
+Don't cost You nothing
 
 You just think, think about Your point of view
 You don't have to get involved

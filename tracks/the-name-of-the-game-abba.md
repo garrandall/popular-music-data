@@ -113,11 +113,11 @@ Got a feeling, you give me no choice
 But it means a lot to me
 So I wanna know..
 
-What's the name of the game? 
+What's the name of the game?
 (Your smile and the sound of your voice)
-Does it mean anything to you? 
+Does it mean anything to you?
 (Got a feeling you give me no choice)
-But it means a lot, what's the name of the game? 
+But it means a lot, what's the name of the game?
 (Your smile and the sound of your voice)
 Can you feel it the way I do?
 Tell me please, 'cause I have to know
@@ -133,22 +133,18 @@ Could you feel the same way too?
 I wanna know..
 Oh yes I wanna know..
 
-The name of the game 
+The name of the game
 (I was an impossible case)
-Does it mean anything to you? 
+Does it mean anything to you?
 (But I think I can see in your face)
 That it means a lot
-What's the name of the game? 
+What's the name of the game?
 (Your smile and the sound of your voice)
-Can you feel it the way I do? 
+Can you feel it the way I do?
 (Got a feeling you give me no choice)
-But it means a lot, what's the name of the game? 
+But it means a lot, what's the name of the game?
 (I was an impossible case)
-Does it mean anything to you? 
+Does it mean anything to you?
 (But I think I can see in your face)
 That it means a lot
-
-
-
-
 

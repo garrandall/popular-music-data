@@ -92,25 +92,25 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-07-07'
 ---
-I got the call today, i didn't wanna hear
-But i knew that it would come
+I got the call today, I didn't wanna hear
+But I knew that it would come
 An old true friend of ours was talkin' on the phone
 She said you found someone
-And i thought of all the bad luck,
+And I thought of all the bad luck,
 And the struggles we went through
-And how i lost me and you lost you
+And how I lost me and you lost you
 What are these voices outside love's open door
 Make us throw off our contentment
 And beg for something more?
 
 I'm learning to live without you now
-But i miss you sometimes
-The more i know, the less i understand
-All the things i thought i knew, i'm learning again
+But I miss you sometimes
+The more I know, the less I understand
+All the things I thought I knew, i'm learning again
 I've been tryin' to get down to the heart of the matter
 But my will gets weak
 And my thoughts seem to scatter
-But i think it's about forgiveness
+But I think it's about forgiveness
 Forgiveness
 Even if, even if you don't love me anymore
 
@@ -120,19 +120,19 @@ There's a yearning undefined
 We all need a little tenderness
 How can love survive in such a graceless age
 The trust and self-assurance that can lead to happiness
-They're the very things we kill, i guess
+They're the very things we kill, I guess
 Pride and competition cannot fill these empty arms
-And the work i put between us,
+And the work I put between us,
 Doesn't keep me warm
 
 I'm learning to live without you now
-But i miss you, baby
-The more i know, the less i understand
-All the things i thought i figured out, i have to learn again
+But I miss you, baby
+The more I know, the less I understand
+All the things I thought I figured out, I have to learn again
 I've been tryin' to get down to the heart of the matter
 But everything changes
 And my friends seem to scatter
-But i think it's about forgiveness
+But I think it's about forgiveness
 Forgiveness
 Even if, even if you don't love me anymore
 
@@ -144,7 +144,7 @@ You keep carrying that anger, it'll eat you inside
 I've been tryin' to get down to the heart of the matter
 But my will gets weak
 And my thoughts seem to scatter
-But i think it's about forgiveness
+But I think it's about forgiveness
 
 Forgiveness
 Even if, even if you don't love me anymore

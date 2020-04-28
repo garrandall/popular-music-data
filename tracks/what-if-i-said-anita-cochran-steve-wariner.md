@@ -153,10 +153,6 @@ How would you feel
 What would you think
 What would we do
 
-
-
-
-
 Oh do we dare to cross that line
 
 Between your heart and mine
@@ -170,5 +166,5 @@ What if I said
 
 What if I said
 
-Ohhh ooh
+Ohhh oh
 What if I said

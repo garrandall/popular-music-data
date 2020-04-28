@@ -132,7 +132,7 @@ But it ain’t workin'
 Why put out a fire when it’s still burnin'
 Just when I think movin' on is gettin' closer
 I’m comin' over
-Ooh, I’m comin' over
+Oh, I’m comin' over
 
 
 Yeah we said that we’re done and I know that it’s late

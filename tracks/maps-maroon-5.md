@@ -163,7 +163,7 @@ The map that leads to you
 
 
 Oh, oh, oh, ah
-Ooh, oh, oh, ah
+Oh, oh, oh, ah
 Yeah, yeah, yeah, ah
 Aha, ah, mmm, ah
 Oh, I was there for you

@@ -165,8 +165,8 @@ Do you really want it...(Yeah)
 
 Here we go! Ale, Ale, Ale!
 Go, go, go! Ale, Ale, Ale!
-Arriba va!! El mundo esta de pie
-Go, Go, Go!! Ale, Ale, Ale
+Arriba va! El mundo esta de pie
+Go, Go, Go! Ale, Ale, Ale
 
 La vida es
 Competicion
@@ -191,4 +191,4 @@ Do you really want it...(Yeah!)
 Tu y yo! Ale, Ale, Ale
 Go, go, go! Ale, Ale, Ale
 Tonight's the night we're gonna celebrate
-The cup of life!!! Ale, Ale, Ale
+The cup of life! Ale, Ale, Ale

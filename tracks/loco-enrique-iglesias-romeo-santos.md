@@ -77,9 +77,6 @@ Si me dejas por dentro con ese dolor
 No te perdonaré
 Si me vuelves loco
 
-
-
-
 Y es que estoy loco por besar tus labios
 Sin que quede nada por dentro de mi
 Diciéndote lo todo

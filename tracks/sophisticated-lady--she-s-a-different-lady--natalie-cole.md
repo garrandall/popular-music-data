@@ -109,7 +109,7 @@ Sophisticated lady, lady, lady
 Sophisticated lady, oh
 Sophisticated lady, ah
 Sophisticated lady
-Ooh, ooh
+Oh, oh
 Sophisticated lady
 Sophisticated lady
 Just sit on down

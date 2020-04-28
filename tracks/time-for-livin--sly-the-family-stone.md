@@ -63,7 +63,7 @@ Time for livin', time for givin'
 No time for breakin' our own fairytale
 
 Ain't, ain't, ain't nobody's got to spell it for me
-Ooh, ain't nobody got to yell, I can see
+Oh, ain't nobody got to yell, I can see
 Ain't nobody got to think, I can hear
 But if I have to I will yell in your ear
 AAH-OOH!

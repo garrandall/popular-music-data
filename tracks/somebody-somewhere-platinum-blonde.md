@@ -44,7 +44,6 @@ At night he posts some pictures of the Mayor
 He never calls to find out if she's all alone
 He never stops to wonder if she's there
 
-Chorus
 
 On the shelf lies a dusty old pocketbook
 Inside are all the friends she used to know
@@ -52,6 +51,5 @@ Inside are all the friends she used to know
 Something inside her is burning out
 Something just wants to shout
 
-Chorus
 
 Somewhere, somewhere

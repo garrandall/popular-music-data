@@ -167,9 +167,6 @@ Hard
 Hard to handle now
 Oh yeah, yeah yeah yeah
 
-
-
-
 Boys will come along, a dime by the dozen
 That ain't nothing but ten cent lovin'
 Hey little flame, let me light your candle cause mama I'm sure hard to handle now, yessiram

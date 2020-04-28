@@ -65,9 +65,6 @@ When your heart is torn out
 Don't call me
 I love you
 
-
-
-
 Girl (Yeah)
 You know you're gonna hurt yourself (Hey)
 You know you're gonna hurt yourself

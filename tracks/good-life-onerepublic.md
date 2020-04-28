@@ -213,7 +213,7 @@ A good, good life
 Oh yeah
 Good, good life
 Good life
-Ooh
+Oh
 
 Listen
 To my friends in New York, I say hello

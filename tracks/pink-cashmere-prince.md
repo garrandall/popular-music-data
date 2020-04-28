@@ -44,14 +44,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-11-13'
 ---
-Oooh...
+Oh...
 There I go again falling in love all over
-Oooh...
+Oh...
 The cycle never ends
 You just pray you don't get burned
-Oooh...
+Oh...
 This fire inside of me, don't nobody realize
-Oooh...
+Oh...
 What you are to me, but baby you got to learn
 
 
@@ -75,7 +75,7 @@ You got to know how I feel about cha
 How I always want you near
 I'm making you a coat of pink cashmere
 I'm gonna count every minute
-Of every hour 'til you are here, oooohh
+Of every hour 'til you are here, oh
 
 
 Here I go again falling in love all over

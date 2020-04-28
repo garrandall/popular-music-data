@@ -108,7 +108,7 @@ Did you ever love me?
 
 These are
 The confessions of a broken heart
-Ooh, yeah
+Oh yeah
 
 
 I wait for the postman

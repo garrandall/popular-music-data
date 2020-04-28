@@ -88,7 +88,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-01-01'
 ---
-Mmmm
+Mmm
 Hey, baby
 
 It's you I truly adore
@@ -109,7 +109,7 @@ I know it's true
 Baby, there's none better than you
 
 Cause my love is true
-Ooh
+Oh
 
 Oh, my dear
 I can't say the way that I feel
@@ -140,7 +140,7 @@ Our hearts will be together
 I see your smile and I see forever
 Baby, baby
 And our love is true
-Ooh!
+Oh!
 There's no one better, oh
 There's no one better than you
 

@@ -68,7 +68,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-05-29'
 ---
-Ooh ooh ooh
+Ohohooh
 
 You said you believed that we'd find love together happily
 After all the wrong I've done
@@ -107,6 +107,6 @@ There's a place in your heart to love me again
 Happiness and joy, you bring when you call my name
 Come on in out of the rain
 (Come on in out of the rain)
-Ooh, yeah, yeah, yeah
+Oh yeah, yeah, yeah
 (Come on in out of the rain)
 Baby come out of the rain

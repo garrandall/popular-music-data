@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: caldonia-james-brown-and-his-orchestra
+lyrics_url: https://genius.com/James-brown-caldonia-lyrics
 name: Caldonia
 rankings:
 - end_date: '1964-05-08'
@@ -15,4 +16,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-05-09'
 ---
+Walking with my baby
+She got great big feet
+She's long, lean and lanky
+Ain't had nothing to eat
+But she's my baby
+I love her just the same
+Crazy about that woman
+Cause Caldonia is her name
 
+
+Caldonia, Caldonia
+What make your big head so hard
+I love you, I love you just the same
+Crazy about that woman
+Cause Caldonia is her name
+
+
+I don't know what's wrong with her
+Someone got to change right here now
+I want to tell you something
+You know, my mama told me
+To leave Caldonia alone
+(What's the matter with her
+What's the matter with her)
+I don't know, she says she's no good
+She said, son, said, keep away from
+That woman, she ain't no good at all
+(She must have made a mistake, brother)
+Yeah, with mama, there's always
+God know what's down
+(That's what I thought)
+So I'm going down to her
+House just one more time
+(All right, all right
+I'll wait for you)
+
+
+Caldonia, Caldonia
+What make your big head so hard
+I love you, I love you just the same
+Crazy about that woman
+Cause Caldonia is her name

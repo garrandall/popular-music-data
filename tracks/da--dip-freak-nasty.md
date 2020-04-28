@@ -202,7 +202,7 @@ You put yours, and I put mine, and we can dip down low and roll and grind
 Well alright, y'all! If you ain't dippin', you must
 Be trippin'! If you ain't doin it Down Low, you gots
 To go! To the people thats movin' slow to the
-Dance floor! Yo DJ! Pump it up some MO-O-O-O .....
+Dance floor! Yo DJ! Pump it up some MO-O-O-O ...
 
 
 It's off to the show in a limo

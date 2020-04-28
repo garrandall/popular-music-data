@@ -46,8 +46,6 @@ That's not really there
 Just another lonely night
 There's danger in the air
 
-Verse 2
-
 In the back of an alley
 Don't step around
 Someone is watching
@@ -57,22 +55,17 @@ Another teardrop falls
 Gotta fight this feelin'
 Can't you hear your momma call
 
-Refrain
-
 As you gaze in wonder
 At the things you see
 Never stop hopin'
 What will never be
 
-Chorus
 That's right that's right
 Never walk the streets at night
 No not alone
 You wait for a reason
 You're puttin' your life on the line
 Can't ya get back home
-
-Verse 3
 
 Backed in an alley
 Up against the wall
@@ -82,7 +75,3 @@ Your heart keeps pounding
 As you close your eyes
 You feel it slippin' away
 Gotta find some place to hide
-
-Refrain
-Lead
-Chorus--END

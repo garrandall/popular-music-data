@@ -90,7 +90,7 @@ Like I do
 No, he'll never ever love you, baby
 Like I do
 
-Ooh
+Oh
 He'll never ever need you
 Need you
 Half as much as I do

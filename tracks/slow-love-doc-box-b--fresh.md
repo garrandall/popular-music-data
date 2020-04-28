@@ -129,7 +129,7 @@ From your breast to your neck, hit the lights and make
 
 Slow love
 Makin' slow love (We can take, we can take our time)
-(Oh... hmm, oh... oh... ooh...) Let's make slow love
+(Oh... hm, oh... oh... oh..) Let's make slow love
 Slow love
 Makin' slow love (We're makin', makin', makin', makin' love)
 Let's make slow love (Slow love)
@@ -137,10 +137,10 @@ Let's make slow love (And it feels so good to me, baby)
 
 Uh, girl, when you're next to me (When you're next to me)
 I'm in heaven ecstasy (We're in ecstasy)
-You're drivin' me crazy, oh, no, do me, baby (Ooh, ho, ho, ho)
+You're drivin' me crazy, oh, no, do me, baby (Oh, ho, ho, ho)
 Then after my dream only starts to flow
-Girl, then it's up and down we go (Ooh)
-Ooh, I feel your body shake (Give it to me, baby)
+Girl, then it's up and down we go (Oh)
+Oh, I feel your body shake (Give it to me, baby)
 Girl, I'll give you all you can take
 
 Let's make slow love

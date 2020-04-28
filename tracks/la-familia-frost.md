@@ -55,7 +55,7 @@ Hi guys
 Hey what's up?
 Hi guys
 
-Hey Frost, I want to introduce you to one of the homeboys from the neighborhood..This is Little School
+Hey Frost, I want to introduce you to one of the homeboys from the neighborhood...This is Little School
 School, that's Kid Frost
 
 -What's up, homes?
@@ -109,7 +109,7 @@ We in the same game, it's a family thing
 It's a family affair (me and la familia)
 It's a family affair (always)
 It's a family affair (together forever)
-It's a family affair (ooh yeah)
+It's a family affair (oh yeah)
 
 
 Kid Frost back and I'm down
@@ -138,7 +138,7 @@ It's a family affair (kicking it with the homegirls)
 It's a family affair (kicking it with the homeboys)
 It's a family affair (all night, all night, all day)
 It's a family affair (all day, having a good time, yeah)
-It's a family affair (eeeee)
+It's a family affair (ee)
 It's a family affair (en la familia)
 It's a family affair (together, together)
 It's a family affair (forever, always)

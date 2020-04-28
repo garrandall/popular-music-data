@@ -164,7 +164,7 @@ Shootin' at civilians ('villians)
 I'm the one dealin', I could make a killin' (killin')
 Bags, can you smell it when I Vac-seal it? (uh)
 Flag, nigga, throw it up, don't care about your feelin's (fuck 'em)
-Ooh, what is this? What you wearin'? I be drippin' (what)
+Oh, what is this? What you wearin'? I be drippin' (what)
 Cal Ripken's hit a nigga, Ken Griffey (home run)
 The bitch got thick, so I guess she ate Jiffy
 When she leave with me, I'ma fly her back to the city (for sure)

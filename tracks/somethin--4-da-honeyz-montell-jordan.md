@@ -71,7 +71,7 @@ rankings:
 
 Oh yeah, coming right back at cha,
 with a different type of swing
-You know, you better ask somebody 
+You know, you better ask somebody
 Baby, this is for you, and you, and definitely you
 
 I'm the type of guy who takes time to just kick back
@@ -79,16 +79,16 @@ I turn around my baseball cap
 I have a 40 sitting on my lap
 Slamming the ivories until I sees
 a female worth my while
-I'm scoping it, checking a smile 
+I'm scoping it, checking a smile
 And I know that I can get it
-and I'll hit it if she's with it 
+and I'll hit it if she's with it
 I get the 5 to the 6-7 digits
-call her up on my cellular 
+call her up on my cellular
 And all the shit that I'll say to her
 The fun will begin when I hit the skizins
 So if a girlie is lonesome
 I think that she knows where to go when she wants some
-Cuz Monty ain't here for nothing but I gotta let all 
+Cuz Monty ain't here for nothing but I gotta let all
 
 
 Somethin' 4 da Honeyz, Somethin' 4 da Honeyz
@@ -112,7 +112,7 @@ And ya fellas can't take it with a shovel
 But it ain't for you
 
 
-This is somethin' for the honeyz 
+This is somethin' for the honeyz
 When you're rolling
 Summertime, oh so fine
 It feels all right
@@ -120,14 +120,11 @@ Summertime tonight, something for you honey
 
 The "M" "O" the "N" "T" the "E" double "L" "L"
 And yes I'm guaranteeing that I won't be felon
-Some people call me Monty, some call me Monty Swinger 
+Some people call me Monty, some call me Monty Swinger
 Sometimes I bust around but I'm an R&B singer
 And I'm a go on and flow on
 And you tell two friends and she'll tell two
-and so on and so on 
+and so on and so on
 Another number 1 hit so get your roll on
 yeah, yeah, yeah, yeah
-
-
-
 

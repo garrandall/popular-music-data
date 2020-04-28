@@ -68,8 +68,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
 ---
-Ooh, ooh ooh, dit-dit-dit-do
-Ooh, ooh ooh, dit-dit-dit-do
+Oh, oh oh, dit-dit-dit-do
+Oh, oh oh, dit-dit-dit-do
 
 Get on up
 (Get on up)

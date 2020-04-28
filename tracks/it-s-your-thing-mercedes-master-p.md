@@ -64,9 +64,6 @@ I'll rock your bells from eight, to twelve
 Make you want like a dog, my name below your drawers
 I know you want it all, ha ha ha ha, but don't fall
 
-
-
-
 Let me tell you about your baby daddy
 Waking me up early in the morning, we gone and
 How you know he's creeping with me
@@ -78,9 +75,9 @@ It's truly plain to see where he wants to be
 Right here next to me
 
 
-Ohhh ohhh ohhh
-Ohhh ohhh ohhh
-Ohhh ohhh ohhh
+Ohhh oh oh
+Ohhh oh oh
+Ohhh oh oh
 You got me twisted, callin' me about your man
 You got me twisted, callin' me about your man
 

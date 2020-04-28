@@ -62,9 +62,6 @@ I wanna see that Baby Phat wrap around yo' head
 Now answer this - is Auto-Tune really dead?
 Take your shirt off!
 
-
-
-
 Hey girl, what it is?
 Should I take you back to my crib?
 And take yo' motherfuckin shirt off (heh) shirt off
@@ -74,9 +71,6 @@ I know this is your favorite song
 So take your motherfuckin shirt off (haha) shirt off
 Take your motherfuckin shirt shirt shirt shirt shirt shirt
 TAKE YOUR SHIRT OFF!
-
-
-
 
 Teddy Teddy, Pain Pain
 Teddy Teddy, Pain Pain

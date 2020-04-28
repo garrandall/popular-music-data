@@ -37,7 +37,7 @@ You're the best by far
 
 But you keep asking the question
 One you're not supposed to mention
-Hey, yeah, oooh!
+Hey, yeah, oh
 
 When will I, will I be famous?
 I can't answer, I can't answer that
@@ -54,7 +54,7 @@ You know you should go far
 
 But you keep asking the question (Ooohooo)
 One you're not supposed to mention
-(I'm not supposed to mention) Yeah, oooh!
+(I'm not supposed to mention) Yeah, oh
 
 When will I, will I be famous?
 I can't answer, I can't answer that

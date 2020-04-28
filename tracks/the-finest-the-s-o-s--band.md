@@ -135,7 +135,7 @@ No one else will do
 (No one else will do)
 There's no substitute
 Your love's the finest love I've ever known
-Ooh-ooh-ooh...
+Oh-ohooh.
 
 
 Oh, baby, you're the finest
@@ -156,16 +156,16 @@ Oh...
 
 
 After all that we've been through
-(Ooh, that we've been through)
+(Oh, that we've been through)
 Time won't change the way I feel about you
 (Change, no, no, no, no)
 Out of all the loves before
-(Hmm, the finest love)
+(Hm, the finest love)
 You're the finest I'll ever know
 (Uh-huh, finest I ever...)
 
 After all that we've been through
-(Ooh, that we've been through)
+(Oh, that we've been through)
 Time won't change the way I feel about you
 Out of all the loves before
 (Out of all the loves I had before)

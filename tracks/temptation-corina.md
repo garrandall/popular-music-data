@@ -121,7 +121,7 @@ It doesn't matter if it's wrong or right
 It makes you do what you love
 
 He's knows I can't resist
-Ooh, his perfect lips
+Oh, his perfect lips
 When he looks in my eyes
 I feel like I've been hypnotized
 I've wanted him for so long

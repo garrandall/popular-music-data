@@ -114,7 +114,3 @@ My darling believe me
 For me there is no one but you
 Say you love me too...
 
-
-
-
-

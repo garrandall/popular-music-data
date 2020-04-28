@@ -325,7 +325,7 @@ To win some or learn some
 
 But I won't hesitate no more
 No more it cannot wait, I'm yours
-Hmm (Hey, hey)
+Hm (Hey, hey)
 
 
 Well, open up your mind and see like me
@@ -349,7 +349,7 @@ And I will nibble your ear
 A-soo da ba ba ba ba bum
 Whoa, oh oh oh
 Whoa, oh oh oh oh whoa whoa whoa
-Uh-huh, hmm
+Uh-huh, hm
 
 
 I've been spending way too long checking my tongue in the mirror
@@ -382,4 +382,4 @@ Na ch doo, doo ch doo, doo ch doo doo mmm doo doo
 (Hey, hey) Oh, I'm yours, oh-oh, I'm yours
 Oh-oh-oh-oh, whoa-oh-oh-oh
 Baby, do you believe I'm yours?
-You best believe, you best believe I'm yours, hmm
+You best believe, you best believe I'm yours, hm

@@ -94,7 +94,7 @@ When I'm gonna show you some, some of that cool jerk
 (Cool jerk, ah ha ha)
 Now give me a little bit of the drums by himself here
 Now give me a little bit of bass with those eighty-eights
-Ah you're cookin baby, mmmmmm you're smokin
+Ah you're cookin baby, mmm you're smokin
 Now everybody, I wanna hear you all ah
 
 Can you do it, can you do it

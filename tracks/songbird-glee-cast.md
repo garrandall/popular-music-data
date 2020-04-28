@@ -27,8 +27,8 @@ Like they know the score
 And I love you, I love you, I love you
 Like never before
 
-Oooohhh
-Oooohhh
+Oh
+Oh
 
 And I wish you all the love in the world
 But most of all, I wish it from myself

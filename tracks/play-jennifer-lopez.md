@@ -139,7 +139,7 @@ You know that it turns me on (DJ, just play that song)
 
 I just wanna dance, is that a crime?
 Alright then
-Ooh, uh
+Oh, uh
 Oh (Alright)
 (Yeah, that's the hotness right here)
 (Play, play, play, play)

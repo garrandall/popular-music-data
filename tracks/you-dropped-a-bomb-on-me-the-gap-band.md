@@ -107,7 +107,7 @@ But you turned me out, baby
 You dropped a bomb on me, baby
 You dropped a bomb on me (Whoa...whoa...oh...oh...baby)
 You dropped a bomb on me, baby
-You dropped a bomb on me (I wont forget what you done to me, babe)
+You dropped a bomb on me (I won't forget what you done to me, babe)
 
 You dropped a bomb on me, baby
 You dropped a bomb on me
@@ -116,9 +116,9 @@ You dropped a bomb on me, baby
 You dropped a bomb on me
 
 I-I-I
-I-I-I wont forget it
+I-I-I won't forget it
 I-I-I
-I-I-I wont forget it
+I-I-I won't forget it
 
 You dropped a bomb on me, baby
 You dropped a bomb on me
@@ -126,9 +126,9 @@ You dropped a bomb on me, baby
 You dropped a bomb on me
 
 I-I-I
-I-I-I wont forget it
+I-I-I won't forget it
 I-I-I
-I-I-I wont forget it
+I-I-I won't forget it
 
 You turned me out, you turned me on
 And then you dropped me to the ground

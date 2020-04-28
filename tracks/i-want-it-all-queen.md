@@ -89,7 +89,7 @@ So much to do in one lifetime (People, do you hear me?)
 Not a man for compromise
 And 'wheres' and 'whys' and living lies
 So I'm living it all (Yes, I'm living it all)
-And I'm giving it all (And I'm giving it all, ooh, yeah)
+And I'm giving it all (And I'm giving it all, oh, yeah)
 (Yeah, yeah, yeah)
 
 
@@ -103,9 +103,9 @@ Here's to the future, hear the cry of youth
 I want it all, I want it all
 I want it all, and I want it now
 I want it all, I want it all (Hey, yeah, yeah)
-I want it all, and I want it now (Ooh, ooh)
+I want it all, and I want it now (Oh oh)
 I want it now
 
 
 I want it, I want it!
-Oooh, huh!
+Oh, huh!

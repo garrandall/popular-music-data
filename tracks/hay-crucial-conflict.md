@@ -102,17 +102,17 @@ Silly like i'm hype off candy.
 Gotta big,thick chic named sandy.
 In the farm in the middle of the barn
 Where everybody's feelin crazy.
-I went to visit granny's house. 
-Now i see why don't nobody leave.
+I went to visit granny's house.
+Now I see why don't nobody leave.
 We constantly,constantly,constantly smokin b's.
 Too blitzed to even shake it off
-But i still got my head up.
+But I still got my head up.
 Coldhard finna go in the back of the barn
 And get my big black peter sucked
 Pass the hay you silly slut,
-Blaze it up so i can hit that bud.
+Blaze it up so I can hit that bud.
 Git me zoned and i'll be on.
-Cuz i love to smoke upon hay.
+Cuz I love to smoke upon hay.
 
 
 Smokin on
@@ -121,7 +121,7 @@ Smokin on
 Haaayy in the middle of the barn.
 
 The hay got me goin through a stage
-And i just can't get enough.
+And I just can't get enough.
 Smokin everyday
 I got some hay
 And you know i'm finna roll it up.
@@ -131,13 +131,13 @@ Bullcrap.
 Bump my sounds
 Lay back and roll
 Mack to the freaks that's on the road.
-Sometimes i wonder 
-When i was blowed on the streets. 
+Sometimes I wonder
+When I was blowed on the streets.
 Anybody wanna step to me,
 I'ma see how rough they be.
 In this session,manifesting
 On myp's and q's
-Never snooze cause i refuse.
+Never snooze cause I refuse.
 Inhale,exhale the smell.
 Smokin hay all by myself.
 Wildstle,laughin loud.
@@ -146,8 +146,8 @@ If somethin jump off let it ride
 On my square when time is live.
 Everybody throw it up
 Go to the barn and get some hay.
-When i get my choke on.
-Fool you know i'm smokin on......
+When I get my choke on.
+Fool you know i'm smokin on...
 
 Hay now hay
 We smokin up hay in the middle of the barn
@@ -165,18 +165,18 @@ And everything funny.
 Gotta pause some nigga tryin' to blow my high
 Smokin all that hay with no money.
 Now truly this bitch wanna do me
-So i hit the 151bacardi
-She high like the sun 
+So I hit the 151bacardi
+She high like the sun
 Thick like cornbread,and i'm ready to party.
 That hay got me so gotdamn horny
-But i don't like that tramp.
+But I don't like that tramp.
 The only reason I'm poppin that coochie
 cause the hoe had a book of foodstamps.
-And i got the munchies
+And I got the munchies
 I need soul food.
 Collard greens or pinto beans.
 If you smoke hay like the conflict do,
-Then you know what the hell i mean.
+Then you know what the hell I mean.
 
 
 
@@ -185,17 +185,17 @@ Car full of flies and the flies tried to rise up out dat dorr crack.
 Got my niggas in the barn smokin on that
 Hay stack
 Back up on the scene from smokin herb,
-I creeped up on the wall and all i heard.
-Was a bud of mine who dropped a needle in 
+I creeped up on the wall and all I heard.
+Was a bud of mine who dropped a needle in
 The hay
 With a funky dime word.
 Couldn't be myself
 Couldn't smoke wit nobody else
-If i didn't pass it to the left.
+If I didn't pass it to the left.
 Nigga would have lost my breath.
-Open up the window 'fore i fall and faint
-But i can't
-Cause i roll around in dat barn ride.
+Open up the window 'fore I fall and faint
+But I can't
+Cause I roll around in dat barn ride.
 Rollin up the hootie hoo
 Roughest skin roller on dat west side.
 Nigga come on in
@@ -208,8 +208,4 @@ The flies keep us chokin.
 Thank you jesus christ
 For all the hay you're givin us
 Cause we'll keep on smokin'.
-
-
-
-
 

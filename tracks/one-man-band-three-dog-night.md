@@ -76,4 +76,4 @@ I just wanna be your one man band
 I just wanna be, I just wanna be
 I just wanna be your one man band
 I just wanna be, I just wanna be
-I just wanna be your one man ban', oooo
+I just wanna be your one man ban', oo

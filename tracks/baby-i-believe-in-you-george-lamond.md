@@ -47,7 +47,7 @@ And every little thing you do
 Every time we kiss
 It always feels like this
 (I Believe In You)
-Hoo ooh
+Hoo oh
 
 Baby, I might sound crazy
 For the way I feel about you
@@ -62,7 +62,7 @@ I Believe In You
 It's something about you
 I Believe, I Believe
 (I Believe In You)
-Haa ahhh
+Haa ah
 Baby, I Believe In us
 
 And every little Mention about trust
@@ -74,7 +74,7 @@ Baby, I might sound crazy
 For the way I feel about you
 Baby you are just so amazing
 That I'm so in love girl
-(With you) ooh ooh
+(With you) ohooh
 
 (repeat CHORUS)
 I Believe In You
@@ -100,6 +100,6 @@ Youuu
 It's something about you
 I Believe, I Believe
 I Believe In You
-Haa ahhh
+Haa ah
 Baby, I Believe In you
 I Believe In us

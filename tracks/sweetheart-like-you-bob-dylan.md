@@ -46,7 +46,7 @@ rankings:
 ---
 
 Well the pressure's down, the boss ain't here
-He gone North, for a while    
+He gone North, for a while
 They say that vanity got the best of him
 But he sure left here in style
 By the way, that's a cute hat
@@ -61,9 +61,9 @@ In order to deal in this game, got to make the queen disappear
 It's done with a flick of the wrist
 What's a sweetheart like you doing in a dump like this ?
 
-You know, a woman like you should be at home 
+You know, a woman like you should be at home
 That's where you belong
-Taking care for somebody nice             
+Taking care for somebody nice
 Who don't know how to do you wrong
 Just how much abuse will you be able to take ?
 Well, there's no way to tell by that first kiss

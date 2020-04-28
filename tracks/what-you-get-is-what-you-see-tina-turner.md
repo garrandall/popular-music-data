@@ -88,7 +88,7 @@ Some guys just got to build a reputation
 They just wanna add you to the list
 You got a lot of physical attraction
 I can't deny, but can you guarantee me satisfaction
-While, I'm still waiting, waiting, waiting, waiting, waiting, oohhh
+While, I'm still waiting, waiting, waiting, waiting, waiting, oh
 
 
 What you get is what you see
@@ -120,5 +120,5 @@ Ain't nothing more to it
 Doesn't matter, doesn't matter at all
 I don't want your kind of love
 Ain't nothing else to it
-I don't want your kind of love, oooohh
+I don't want your kind of love, oh
 What you get is what you see

@@ -128,7 +128,7 @@ Wait, wait a minute
 Groovy groovy jazzy funky pounce bounce dance as we
 Dip in the melodic sea, the rhythm keeps flowin', and drips to MC
 Sweet sugar pop sugar pop rocks it pop
-Ya dont stop 'til the sweet beat drops
+Ya don't stop 'til the sweet beat drops
 I show and prove as I stick and move
 Vivid poems recited on top of the groove
 Smooth, my, floating like a butterfly

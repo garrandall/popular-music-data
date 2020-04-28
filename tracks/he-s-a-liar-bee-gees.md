@@ -53,7 +53,7 @@ He can sell you his love and you know yo will pay 'cause
 
 He's a liar
 He's a liar and I should know liar
-He's a liar and I should know - ahhh
+He's a liar and I should know - ah
 
 Well, they told me I fell but I just don't remember
 I was standing face down, they were there at my feet
@@ -67,7 +67,7 @@ He said I'll survive, but-
 
 He's a liar
 He's a liar, and I should know liar
-He's a liar, and I should know - ahhh
+He's a liar, and I should know - ah
 
 
 Was it not for the man that was blocking the drive
@@ -80,8 +80,8 @@ I'm a liar
 He's a liar
 And I should know liar
 He's a liar
-And I should know-ahhh
-He's a 
+And I should know-ah
+He's a
 
 
 

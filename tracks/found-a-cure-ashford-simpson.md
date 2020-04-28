@@ -63,7 +63,7 @@ rankings:
 ---
 Found a cure
 
-Ooh, for your heartache
+Oh, for your heartache
 Before you wake, before you wake
 Don't take no medicine, take a little of this
 It worked for me and it can't miss
@@ -79,7 +79,7 @@ Found a cure
 Found a cure
 Found a
 
-Ooh, for loneliness
+Oh, for loneliness
 I promise this, I promise this
 For all your hopes and all your empty dreams
 Comin' at you is a sure thing
@@ -96,26 +96,26 @@ Found a cure (Right away now)
 Found a cure
 
 (Yes)
-Ooh...yes
-(Ooh...ooh...)
+Oh...yes
+(Oh...oh..)
 
 I found it
 I found it
 
-Ooh, love will fix it
-Ooh
-Ooh
-Ooh
+Oh, love will fix it
+Oh
+Oh
+Oh
 
-Ooh, love will fix it
-Ooh, love will fix it
-Ooh, love will fix it
-Ooh, love will fix it
+Oh, love will fix it
+Oh, love will fix it
+Oh, love will fix it
+Oh, love will fix it
 
-Ooh, love will fix it
-Ooh, love will fix it
-Ooh, love will fix it
-Ooh, love will fix it
+Oh, love will fix it
+Oh, love will fix it
+Oh, love will fix it
+Oh, love will fix it
 
 Found a cure, oh, try it
 
@@ -128,38 +128,38 @@ Found a cure (I'm tellin' you)
 Found a cure (Right away now)
 Found a
 
-Ooh, love will fix it
+Oh, love will fix it
 Found a cure (It's gonna be good, good, good to you)
-Ooh, love will fix it
+Oh, love will fix it
 Found a cure (Fix it alright)
 
-Ooh, love will fix it
-Ooh, love will fix it (Found a cure)
-Ooh, love will fix it (Ooh, hoo)
-Ooh, love will fix it (It worked for me)
-Ooh, love will fix it (Yes, indeed)
-Ooh, love will fix it (Go on and try it see)
-Ooh, love will fix it (Ah, you gotta let love fix it)
-Ooh (Ooh), love will fix it (Let love fix it)
-Ooh (For you), love will fix it (For you)
-Ooh (For you), love will fix it (Don't you wanna, "Yes")
-Ooh, love will fix it (Wanna say, "Yes")
-Ooh, love will fix it (Oh, love will make it alright)
-Ooh, love will fix it (Sing it, alright)
-Ooh, love will fix it (Make it alright)
-Ooh, love will fix it (Said oh, yeah)
-Ooh, love will fix it (You better, better, baby)
-Ooh, love will fix it (I promise)
-Ooh, love will fix it (I said I promise)
-Ooh, love will fix it (Little thing can do it)
-Ooh, love will fix it (I found a cure)
-Ooh, love will fix it (I found a cure)
-Ooh, love will fix it
-Ooh, love will fix it (Hey...hey...hey...hey...let love)
-Ooh, love will fix it (Fix it for you)
-Ooh, love will fix it (Fix it for you)
-Ooh, love will fix it (Try, try now)
-Ooh, love will fix it (Try, try now)
-Ooh, love will fix it (Try, try now)
-Ooh, love will fix it (You know our love's gonna fix it)
-Ooh, love will fix it
+Oh, love will fix it
+Oh, love will fix it (Found a cure)
+Oh, love will fix it (Oh, hoo)
+Oh, love will fix it (It worked for me)
+Oh, love will fix it (Yes, indeed)
+Oh, love will fix it (Go on and try it see)
+Oh, love will fix it (Ah, you gotta let love fix it)
+Oh (Oh), love will fix it (Let love fix it)
+Oh (For you), love will fix it (For you)
+Oh (For you), love will fix it (Don't you wanna, "Yes")
+Oh, love will fix it (Wanna say, "Yes")
+Oh, love will fix it (Oh, love will make it alright)
+Oh, love will fix it (Sing it, alright)
+Oh, love will fix it (Make it alright)
+Oh, love will fix it (Said oh, yeah)
+Oh, love will fix it (You better, better, baby)
+Oh, love will fix it (I promise)
+Oh, love will fix it (I said I promise)
+Oh, love will fix it (Little thing can do it)
+Oh, love will fix it (I found a cure)
+Oh, love will fix it (I found a cure)
+Oh, love will fix it
+Oh, love will fix it (Hey...hey...hey...hey...let love)
+Oh, love will fix it (Fix it for you)
+Oh, love will fix it (Fix it for you)
+Oh, love will fix it (Try, try now)
+Oh, love will fix it (Try, try now)
+Oh, love will fix it (Try, try now)
+Oh, love will fix it (You know our love's gonna fix it)
+Oh, love will fix it

@@ -74,7 +74,7 @@ And they call me Mr. Natural
 On down to the health food store
 
 I only eat good sea salt
-White sugar dont touch my lips
+White sugar don't touch my lips
 And my friends is always
 Begging me to take them
 On macrobiotic trips

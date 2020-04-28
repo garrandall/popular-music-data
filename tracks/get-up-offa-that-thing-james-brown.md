@@ -37,127 +37,124 @@ rankings:
   start_date: '1976-09-25'
 ---
 
-AAAAAAAAAAAAAAAAAAAW!!! 
+AAAAAAAAAAAAAAAAAAAW!
 
-OH! 
+OH!
 
-Say it now! 
+Say it now!
 
-I'm back! 
+I'm back!
 
-I'm back! 
+I'm back!
 
-I'm back! 
+I'm back!
 
-I'm back! 
+I'm back!
 
-Get up offa that thing, 
-and dance 'till you feel better, 
-Get up offa that thing, 
-and dance 'till you, sing it now! 
-Get up offa that thing, 
-and dance 'till you feel better, 
-Get up offa that thing, 
-and try to release that pressure! 
-Get up offa that thing, 
-and shake 'till you feel better, 
-Get up offa that thing, 
-and shake it, say it now! 
-Get up offa that thing, 
-and shake 'till you feel better, 
-Get up offa that thing, 
-and try to release that pressure! 
-Get up off! 
-Ha! 
-Good God! 
-So good! 
+Get up offa that thing,
+and dance 'till you feel better,
+Get up offa that thing,
+and dance 'till you, sing it now!
+Get up offa that thing,
+and dance 'till you feel better,
+Get up offa that thing,
+and try to release that pressure!
+Get up offa that thing,
+and shake 'till you feel better,
+Get up offa that thing,
+and shake it, say it now!
+Get up offa that thing,
+and shake 'till you feel better,
+Get up offa that thing,
+and try to release that pressure!
+Get up off!
+Ha!
+Good God!
+So good!
 
-Ha! 
-Everybody ready?! 
+Ha!
+Everybody ready?!
 
-Follow me! 
+Follow me!
 
-Get up offa that thing, 
-and shake 'till you feel better, 
-Get up offa that thing, 
-and shake it, sing it now! 
-Get up offa that thing, 
-and shake 'till you feel better, 
-Get up offa that thing, 
-and try to release that pressure! 
-Get up offa that thing, (Ha!) 
-and twist 'till you feel better, 
-Get up offa that thing, 
-and shake 'till you, sing it now! 
-Get up offa that thing, 
-and shake 'till you feel better, 
-Get up offa that thing, 
-and try to release that pressure! 
+Get up offa that thing,
+and shake 'till you feel better,
+Get up offa that thing,
+and shake it, sing it now!
+Get up offa that thing,
+and shake 'till you feel better,
+Get up offa that thing,
+and try to release that pressure!
+Get up offa that thing, (Ha!)
+and twist 'till you feel better,
+Get up offa that thing,
+and shake 'till you, sing it now!
+Get up offa that thing,
+and shake 'till you feel better,
+Get up offa that thing,
+and try to release that pressure!
 
-Huh! 
-Get funky! 
+Huh!
+Get funky!
 
-So good, Uh! 
-I'm first to stop, ha! 
-I've told them now, ha! 
-Uh! 
-Ha! 
+So good, Uh!
+I'm first to stop, ha!
+I've told them now, ha!
+Uh!
+Ha!
 Ohio player!
-Can you hit it one time, from the top?! 
-Get up offa that thing, 
+Can you hit it one time, from the top?!
+Get up offa that thing,
 and dance to try, you better!
-Get up offa that thing, 
-and... Help me! 
-Get up offa that thing, 
-and dance 'till you feel better! 
-Get up offa that thing, 
-and try to release that pressure! 
+Get up offa that thing,
+and... Help me!
+Get up offa that thing,
+and dance 'till you feel better!
+Get up offa that thing,
+and try to release that pressure!
 
-Huh! 
+Huh!
 
-I need it! 
+I need it!
 
 That's the wise old brother at the side start good!
-C'mon Clive do it! 
+C'mon Clive do it!
 
-Do it! 
+Do it!
 
-Uh! 
-Ha! 
-Good God! 
+Uh!
+Ha!
+Good God!
 God Good!
-Huh! 
-Feels good! 
-Feels good! 
-Do it to me! 
-Huh! 
-Good God! 
+Huh!
+Feels good!
+Feels good!
+Do it to me!
+Huh!
+Good God!
 I want you all in the jam!
-Gonna get you all in the jam! 
+Gonna get you all in the jam!
 Play that bad funk!
-Show 'em how funky you are! 
-Play it JB's! 
-Play it now! 
-Hey! 
-Get up offa that thing, 
-and dance 'till you feel better! 
-Get up offa that thing, 
-and dance 'till you, help me out! 
-Get up offa that thing, 
-and dance 'till you feel better! 
-Get up offa that thing, 
-and try to release that pressure! 
-Get up offa that thing, 
-and shake 'till you feel better! 
-Get up offa that thing, 
-and try to release, say it now! 
-Get up offa that thing, 
-and shake 'till you feel better, 
-Get up offa that thing, 
-and try to release that pressure! 
-Get up and... call it! 
-I feel good! 
-
-
-
+Show 'em how funky you are!
+Play it JB's!
+Play it now!
+Hey!
+Get up offa that thing,
+and dance 'till you feel better!
+Get up offa that thing,
+and dance 'till you, help me out!
+Get up offa that thing,
+and dance 'till you feel better!
+Get up offa that thing,
+and try to release that pressure!
+Get up offa that thing,
+and shake 'till you feel better!
+Get up offa that thing,
+and try to release, say it now!
+Get up offa that thing,
+and shake 'till you feel better,
+Get up offa that thing,
+and try to release that pressure!
+Get up and... call it!
+I feel good!
 

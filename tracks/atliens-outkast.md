@@ -139,7 +139,3 @@ No drugs or alcohol so I can get the signal clear as day
 Put my glock away I got a stronger weapon
 that never runs out of ammunition so I'm ready for war okay
 
-
-
-
-

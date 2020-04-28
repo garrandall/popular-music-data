@@ -31,7 +31,7 @@ Last seen on Farmers Boulevard headed east.
 Alias L.L. Cool J. He's bad...
 
 
-Aaaahhhhhhhhhh
+Ah
 No rapper can rap quite like I can
 I'll take a musclebound man and put his face in the sand
 Not the last Mafioso, I'm a MC cop
@@ -120,4 +120,4 @@ Gimme that walkie-talkie!
 Yo this is LL Cool J
 And you'll never catch me so don't even try it
 Cause I'm too bad for ya, understand?!
-Aaaaaahhhh... I'm bad!
+Ah... I'm bad!

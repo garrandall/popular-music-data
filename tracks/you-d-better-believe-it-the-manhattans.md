@@ -76,5 +76,5 @@ I know, I know, I know, baby, you'd better believe it, yeah, yeah
 (You'd better believe it) Baby,
 Believe it, yeah, yeah, yeah, yeah, yeah, yeah
 (You'd better believe it) Just put a little trust in me, baby
-(You'd better believe it) I'll show you that I care, ooh
+(You'd better believe it) I'll show you that I care, oh
 (You'd better believe it)

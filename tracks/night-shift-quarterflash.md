@@ -56,7 +56,3 @@ You know you shoot much better at night.
 You gotta Joker down on the corner and you can not be shamed.
 You got some new tricks - you never show them the light.
 
-
-
-
-

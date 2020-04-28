@@ -125,7 +125,7 @@ Treat her like, treat her like (hey)
 Treat her like a lady (treat her like a lady)
 Treat her like, treat her like (well)
 Treat her like a lady (treat her like a lady)
-Treat her like, treat her like (ooh)
+Treat her like, treat her like (oh
 Treat her like a lady
 (Oh, my, my, treat her like a lady)
 

@@ -56,7 +56,7 @@ That you kissed me today
 So let's love a-while we may
 For tomorrow somehow
 Comes the time to regret
-Ahh, but time ain't now, now
+Ah, but time ain't now, now
 
 All I want you to do is stay with me
 Don't let love pass us by
@@ -67,13 +67,13 @@ This shining hour is too sweet to be made
 Awww, like a flower right now
 Love can blossom I know, oh then fade
 
-Hmmm, can anybody say
+Hm, can anybody say
 (Who can say)
 Just when love did made die
 Darling there's a time to love
 (Time to love)
 Why don't you believe me when I say a time to cry, hey yeah
 
-Hmmm mmmm
-Ooohhh wooo, girl
+Hm mmm
+Oh wooo, girl
 Uh huh, can you hear me talkin' right now, yeah

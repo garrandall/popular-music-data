@@ -100,9 +100,6 @@ And if you still don't have a clue
 Unless there's something else you've got in mind
 We've got better things to do
 
-
-
-
 Just to have you near me
 Here by my side
 Just to have you near

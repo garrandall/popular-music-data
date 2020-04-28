@@ -61,7 +61,7 @@ Just before they come
 Then the price goes up
 Forever
 
-Ahhh, just before love
+Ah, just before love
 The going may get tough
 But don't you give it up
 You just stay put

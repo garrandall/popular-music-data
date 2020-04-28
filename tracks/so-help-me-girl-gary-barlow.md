@@ -127,15 +127,11 @@ And I can't help myself...
 No, baby
 I can't help myself...
 I can't help myself...
-So help...girl. 
+So help...girl.
 
-You've got to help me girl. 
+You've got to help me girl.
 I'm falling down... (falling, falling, falling)
 I'm falling down... (You've got me falling down!)
 Cause I'm falling down... (You've got me falling down!)
 Falling...(You've got me falling down!)
-
-
-
-
 

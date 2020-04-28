@@ -117,7 +117,7 @@ That you needed a change
 Was it something I said
 To make you turn away
 To make you walk out and leave me cold
-(Ooh, ooh)
+(Oh, oh
 If I could just find a way
 To make it so that you were right here
 Right now
@@ -195,7 +195,7 @@ I've tried my best to be a man and be strong
 (My best to be a man)
 I drove myself insane
 Wishing I could touch your face
-(Ooh pinch you baby, Oh)
+(Oh pinch you baby, Oh)
 But the truth remains (the truth remains you're gone)
 
 I've been sitting here (sitting here)
@@ -206,7 +206,7 @@ I've tried my best to be a man and be strong
 I drove myself insane (Oh, oh, oh)
 Wishing I could touch your face
 (Oh, oh, oh, oh, oh)
-But the truth remains you're....
+But the truth remains you're...
 (Oh, oh...Baby the truth is you're)
 
 

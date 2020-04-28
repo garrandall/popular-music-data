@@ -80,7 +80,7 @@ And around and around and around
 And around and around and around
 
 Come on baby, let's do the twist now
-Ahh, go like this now
+Ah, go like this now
 Is everybody ready
 Here we go, oohhhwooah
 
@@ -100,7 +100,7 @@ Awww don't ya know mama, you're lookin' good
 Hey hey hey!
 Celebrating
 (Twistin' with Linda)
-Oohhh, I keep on celebrating
+Oh, I keep on celebrating
 (Twistin' with Linda)
 Hey hey, hey hey
 (Hey hey, hey hey)

@@ -51,7 +51,4 @@ For so long I thought about it
 And now I just can't live without it
 This beautiful image I have of you
 
-
-
-
 I love you

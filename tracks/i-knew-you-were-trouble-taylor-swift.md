@@ -221,7 +221,7 @@ Flew me to places I'd never been (never been)
 I knew you were trouble when you walked in
 (Knew it right there)
 So, shame on me now (knew it right there)
-Flew me to places I'd never been (ooh)
+Flew me to places I'd never been (oh)
 Now I'm lying on the cold hard ground
 Oh, oh-oh
 Trouble, trouble, trouble (oh)

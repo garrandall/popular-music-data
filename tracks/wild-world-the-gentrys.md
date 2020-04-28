@@ -29,9 +29,9 @@ But then a lot of nice things
 Turn bad out there
 
 (CHORUS)
-Ooh, baby baby, it's a wild world
+Oh, baby baby, it's a wild world
 It's hard to get by just upon a smile
-Ooh, baby baby, it's a wild world
+Oh, baby baby, it's a wild world
 I'll always remember you like a child, girl
 
 You know I've seen a lot
@@ -60,8 +60,8 @@ A lot of bad and beware
 
 (CHORUS)
 
-Ooh, baby, baby, it's a wild world
+Oh, baby, baby, it's a wild world
 And it's hard to get by just upon a smile
-Ooh, baby baby, it's a wild world
+Oh, baby baby, it's a wild world
 And I'll always remember you
 Like a child, girl

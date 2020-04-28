@@ -57,4 +57,4 @@ Another cup of coffee, another lonely night
 Whoa, dear, if you don't come back, I know what's in sight
 Another cup of coffee, another lonely night
 
-Another cup of coffee, hmmm, another lonely night
+Another cup of coffee, hm, another lonely night

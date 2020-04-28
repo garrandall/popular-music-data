@@ -95,4 +95,4 @@ But in my heart there'll always be
 Precious and warm a memory through the years
 And I still can see blue velvet through my tears
 
-(Blue velvet, ooh)
+(Blue velvet, oh)

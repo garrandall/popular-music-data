@@ -54,9 +54,6 @@ Back in the pub the governor stops the clock
 Rock is dead, they say
 Long live rock
 
-
-
-
 Landslide, rocks are falling
 Falling down around our very heads
 We tried but you were yawning

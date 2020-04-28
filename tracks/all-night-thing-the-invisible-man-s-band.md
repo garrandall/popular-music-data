@@ -53,7 +53,7 @@ One, two, three...
 
 Waiting on the band to get started
 Hardly room to stand, it's jammed, damn
-Ooh, child, it's a crowd, now
+Oh, child, it's a crowd, now
 People wanna dance
 People wanna dance
 Everybody wanna dance

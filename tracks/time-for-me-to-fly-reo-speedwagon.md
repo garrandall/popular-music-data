@@ -103,6 +103,3 @@ Oh, don't you know it's...
 
 It's time for me to fly
 
-
-
-

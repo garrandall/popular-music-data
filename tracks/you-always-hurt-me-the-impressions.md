@@ -29,7 +29,7 @@ So why do you hurt me
 You always hurt me
 
 Can't you see my love, oh darling
-Why wont you love me as I love you
+Why won't you love me as I love you
 Why won't you mend this heart, this broken heart
 Don't hurt me
 You always hurt me
@@ -41,7 +41,7 @@ You hurt me
 You always hurt me
 
 Can't you see my love, oh darling
-Why wont you love me as I love you
+Why won't you love me as I love you
 Why won't you mend this heart, this broken heart
 Don't hurt me
 You always hurt me, and you know it

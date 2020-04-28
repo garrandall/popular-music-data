@@ -40,20 +40,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-10'
 ---
-Beep Beep... Ahh
-Bang Bang
-Cornbread, hog maws and chitlins. cornbread.
-
-Beep Beep... Ahh
-Bang Bang
-Beep Beep... Ahh
-Bang Bang
-
-Beep Beep... Ahh
+Beep Beep... Ah
 Bang Bang
 Cornbread, hog maws and chitlins. cornbread.
 
 Beep Beep... Ah
 Bang Bang
-Beep Beep... Ahh
+Beep Beep... Ah
+Bang Bang
+
+Beep Beep... Ah
+Bang Bang
+Cornbread, hog maws and chitlins. cornbread.
+
+Beep Beep... Ah
+Bang Bang
+Beep Beep... Ah
 Bang Bang

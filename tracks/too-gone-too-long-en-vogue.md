@@ -112,18 +112,10 @@ But now you'll never know
 That love again
 You're on your own
 
-
-
-
-
 Did you really think I'd take you back
 Let you back in my life
 Oh baby just like that
 Someone new is loving me
 Loving you is what used to be
 Baby you're too late to win my heart again
-
-
-
-
 

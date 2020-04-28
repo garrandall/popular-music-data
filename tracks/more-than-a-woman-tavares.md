@@ -116,7 +116,7 @@ More than a woman to me, baby
 More than a woman (More than a woman)
 More than a woman to me
 Shoo, doo doo
-More than a woman, ahh
+More than a woman, ah
 
 There are stories old and true
 Of people so in love like you and me
@@ -141,7 +141,7 @@ More than a woman to me (Yes you are, baby)
 More than a woman (More than a woman)
 More than a woman to me
 Shoo, doo doo
-More than a woman, ahh
+More than a woman, ah
 
 More than a woman (More than a woman)
 More than a woman to me, yeah

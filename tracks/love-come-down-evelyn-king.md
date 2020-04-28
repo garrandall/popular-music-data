@@ -75,9 +75,9 @@ rankings:
 No sleep last night
 Been dreaming of you
 Please hold me tight
-Cause I cant help the way that I feel
+Cause I can't help the way that I feel
 
-I just cant help the way that I feel
+I just can't help the way that I feel
 
 Deep in the night
 You took my heart

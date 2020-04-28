@@ -70,14 +70,14 @@ Cause I loose control of my heart and soul
 Girl when you're next to me your sensitivity inside you gets me yearning
 
 Darling, when its right its right it's alright
-Darling, keep it there right there ohh yeah
+Darling, keep it there right there oh yeah
 
 Ohh girl the way you do me in the morning
 Ohh girl the way you love me all night long
 Work my love around and make it all come down
 And give me that tasty love mmm
 The way you rub me down soothes me all around
-You give me that tasty love ohh girl
+You give me that tasty love oh girl
 
 Girl you drive me crazy
 The love you give is tasty
@@ -89,7 +89,7 @@ Ohh what an awesome lover there can never be no other to do lovin' the way you d
 Ohh I just can hold back once you get me going going girl I'm gone gone gone
 
 Darling when its right its right it's alright
-Darling keep it there right there ohh yeah
+Darling keep it there right there oh yeah
 
 Ohh girl the way you do me in the morning
 Ohh girl the way you love me all night long
@@ -97,7 +97,7 @@ Ohh girl the way you love me all night long
 Would it give would it give it give it to me?
 (Make me feel so good)
 Would you make it feel so good? Give me that tasty love
-I I I I need it ohh baby
+I I I I need it oh baby
 
 Girl you drive me crazy (yes you do)
 You know the love you give me is tasty

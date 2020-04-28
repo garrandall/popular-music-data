@@ -130,7 +130,7 @@ Maybe two is better than one
 There's so much time to figure out the rest of my life
 And you've already got me coming undone
 
-And I'm thinking, ooh, I can't live without you
+And I'm thinking, oh, I can't live without you
 'Cause, baby, two is better than one
 There's so much time to figure out the rest of my life
 But I've figured out with all that's said and done

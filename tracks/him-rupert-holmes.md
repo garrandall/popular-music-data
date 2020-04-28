@@ -111,10 +111,10 @@ Or do without me, me, me
 No one gets to get it for free
 It's me or it's him
 
-Oooh, oooh, oooh, oooh
-Oooh, oooh, oooh, oooh
-Oooh, oooh, oooh, oooh
-Oooh, oooh, oooh, oooh
+Oh, ohohohoh
+Oh, ohohohoh
+Oh, ohohohoh
+Oh, ohohohoh
 
 If she wants to, she can have him
 Just exactly how we once were

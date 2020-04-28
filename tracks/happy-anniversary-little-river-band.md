@@ -103,9 +103,9 @@ Got you on my mind
 Happy anniversary, baby
 Got you on my mind
 
-There's a lesson here to learn 
+There's a lesson here to learn
 When your baby ups and leaves you
-Carry on, don't feel concerned 
+Carry on, don't feel concerned
 Even though you're so much in love
 You need a little help from above, oh
 
@@ -131,7 +131,7 @@ Got you on my mind
 Happy anniversary, baby
 Got you on my mind
 
-Ooh yeah, happy anniversary, baby
+Oh yeah, happy anniversary, baby
 Got you on my mind
 Ah yeah, happy anniversary, baby
 Got you on my mind

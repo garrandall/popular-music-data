@@ -84,7 +84,7 @@ Oh the love I saw in you was just a mirage
 Whooh yeah
 Just like the desert shows a thirsty man
 A green oasis where there's only sand
-Ooh ooh ooh you lured me into something I should have dodged
+Ohohoohou lured me into something I should have dodged
 
 
 

@@ -46,7 +46,7 @@ To everyone
 
 You can live your life lonely
 Heavy as stone
-Live your life learning 
+Live your life learning
 And working alone
 Say this is all you want
 But I don't believe that it's true
@@ -54,9 +54,9 @@ But I don't believe that it's true
 Waiting round the corner for you
 
 Love comes quickly, whatever you do
-You can't stop falling (Ooh ooh)
+You can't stop falling (Oh ooh
 Love comes quickly, whatever you do
-You can't stop falling (Ooh ooh)
+You can't stop falling (Oh ooh
 
 You can live a life of luxury
 If that's what you want
@@ -69,9 +69,9 @@ But where does it get you to?
 Just what you least expect
 
 Love comes quickly, whatever you do
-You can't stop falling (Ooh ooh)
+You can't stop falling (Oh ooh
 Love comes quickly, whatever you do
-You can't stop falling (Ooh ooh)
+You can't stop falling (Oh ooh
 
 I know it sounds ridiculous, but speaking from experience
 It may seem romantic, and that's no defense
@@ -84,17 +84,17 @@ You can fly away to the end of the world
 But where does it get you?
 
 Love comes quickly, whatever you do
-You can't stop falling (Ooh ooh)
+You can't stop falling (Oh ooh
 Love comes quickly, whatever you do
-You can't stop falling (Ooh ooh)
+You can't stop falling (Oh ooh
 Love comes quickly, whatever you do
-You can't stop falling (Ooh ooh)
-(Oooh)
+You can't stop falling (Oh ooh
+(Oh)
 
 Love comes quickly, whatever you do
-You can't stop falling (Ooh ooh)
+You can't stop falling (Oh ooh
 Love comes quickly, whatever you do
-You can't stop falling (Ooh ooh)
+You can't stop falling (Oh ooh
 
 
 

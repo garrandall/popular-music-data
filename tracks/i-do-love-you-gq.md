@@ -76,27 +76,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-20'
 ---
-I do love you, ooooh
-But it's alright, alright, aaah
+I do love you, oh
+But it's alright, alright, ah
 
 (I do love you)
 (I love you, I love you)
 I love you so right now
-(Ooh-ho-ho-ooh)
+(Oh-ho-ho-oh)
 My my baby, hey, yeah
 Little darlin' I said
 (I do love you)
-(I love you, I love you, ooh-ho-ho-ooh)
+(I love you, I love you, oh-ho-ho-oh)
 I love you so right now
 Never, never gonna let
 Gonna let, gonna let you go, na-na-na
 Pretty little baby
 (I do love you)
-(I love you, I love you, ooh-ho-ho-ooh)
+(I love you, I love you, oh-ho-ho-oh)
 I say, I want you to try to understand
 That I, I want to be your lovin' man, babe
 (I do love you)
-(I love you, I love you, ooh-ho-ho-ooh)
+(I love you, I love you, oh-ho-ho-oh)
 
 My baby, I love you so
 And I don't want you to go, no, no
@@ -104,20 +104,20 @@ Why don't you listen to me, ya
 I'm beggin' you on bended knees
 
 (I do love you)
-(I love you, I love you, ooh-ho-ho-ooh)
+(I love you, I love you, oh-ho-ho-oh)
 My girl, I prayed that your love
 It would come to me
 Someday
 (I do love you)
-(I love you, I love you, ooh-ho-ho-ooh)
+(I love you, I love you, oh-ho-ho-oh)
 Because I love you so, babe
 You're about to drive me mad
 (I do love you)
-(I love you, I love you, ooh-ho-ho-ooh)
+(I love you, I love you, oh-ho-ho-oh)
 I love you so right now
 Pretty baby, pretty baby
 (I do love you)
-(I love you, I love you, ooh-ho-ho-ooh)
+(I love you, I love you, oh-ho-ho-oh)
 I love you so right now
 Oh, baby, I love you so
 And I don't want you to go
@@ -125,4 +125,4 @@ No, no, no, no, no, no
 Why don't you listen to me
 I'm beggin' you on bended knees
 (I do love you)
-(I love you, I love you, ooh-ho-ho-ooh)
+(I love you, I love you, oh-ho-ho-oh)

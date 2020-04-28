@@ -136,9 +136,6 @@ Say you love me
 I'm just gonna keep on counting
 Until you are mine
 
-
-
-
 So no matter what it takes
 I will steal your heart away
 Take a chance for once

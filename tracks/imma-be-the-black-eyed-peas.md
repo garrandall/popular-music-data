@@ -206,7 +206,7 @@ I'mma be living that good good
 I'mma be I'mma be I'mma be I'mma be
 I'mma be living that good life
 I'mma be living that good good
-I'mma be.... I'mma be
+I'mma be... I'mma be
 I'mma be I'mma be I'mma be I'mma be
 
 

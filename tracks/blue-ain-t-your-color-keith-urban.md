@@ -141,7 +141,7 @@ Baby, blue ain’t your color
 
 
 No, no, no
-Mmmm
+Mmm
 It ain't your color baby
 Mmm, baby
 

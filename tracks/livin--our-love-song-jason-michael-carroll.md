@@ -110,7 +110,3 @@ Just wanna lay you down, say I love you
 Without a sound
 I think you know what I'm talkin' about
 
-
-
-
-

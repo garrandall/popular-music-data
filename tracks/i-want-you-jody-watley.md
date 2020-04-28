@@ -71,12 +71,12 @@ rankings:
 When the night falls, surrounds us gently
 With a sexy atmosphere
 We'll light some candles, play some music
-Ooh I just want feel that intimacy
+Oh I just want feel that intimacy
 
 Nobody but you and I
 Loving and kissing so passionately
 Sharing our feelings, just caress my body
-Ooh baby let me whisper in your ear
+Oh baby let me whisper in your ear
 
 I want your love
 I'll have your love
@@ -102,7 +102,7 @@ Just loving and kissing
 So passionately
 Sharing our feelings
 Just caress my body
-Ooh baby let me whisper in your ear
+Oh baby let me whisper in your ear
 
 I want your love
 I'll have your love

@@ -48,9 +48,9 @@ And we're standing side by side (Ohh)
 As your shadow crosses mine (Crosses mine)
 
 New Directions:
-We found love in a hopeless place (We found love, ohh)
+We found love in a hopeless place (We found love, oh)
 We found love in a hopeless place (Hopeless place)
-We found love in a hopeless place (Ooh, ohh)
+We found love in a hopeless place (Oh, oh)
 We found love in a hopeless place (Hopeless place)
 
 We found love in a hopeless place (We found love)

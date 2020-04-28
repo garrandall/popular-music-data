@@ -49,7 +49,7 @@ Way down deep in the back seat
 Where I first learned how to moan your name
 
 I remember the night I met ya
-Ooh sweet mama, I just can't forget ya
+Oh sweet mama, I just can't forget ya
 Can't stop thinkin' 'bout your crazy love
 
 Crazy love

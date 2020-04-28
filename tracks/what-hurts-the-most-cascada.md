@@ -99,7 +99,3 @@ Every once in a while even though goin on with you gone still upsets me
 There are days
 Every now and again I pretend I'm OK but that's not what gets me
 
-
-
-
-

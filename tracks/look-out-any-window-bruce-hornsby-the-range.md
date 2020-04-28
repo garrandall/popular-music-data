@@ -77,7 +77,7 @@ In the air around you
 
 There's a man working on a boat
 Pulling lines from the water
-Just trying to stay afloat, ohh
+Just trying to stay afloat, oh
 Filling the nets is getting harder
 
 Far away, they bend

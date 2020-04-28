@@ -2,7 +2,7 @@
 artists:
 - Nicole
 features:
-- Missy "Misdemeanor" Elliott
+- Missy Elliott
 - Mocha
 genres: []
 key: make-it-hot-nicole-missy--misdemeanor--elliott-mocha

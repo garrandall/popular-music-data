@@ -23,7 +23,7 @@ rankings:
 ---
 
 
-WHOOOOOOOOOO!!  Now clap for me mami, OH!
+WHOOOOOOOOOO!  Now clap for me mami, OH!
 Just clap for me mami, JUST BLAZE!
 OK, and Free, OK, yeah (?)
 Que tu quieres mujeres, said she blow la-la

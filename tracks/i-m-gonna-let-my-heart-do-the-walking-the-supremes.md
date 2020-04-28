@@ -100,9 +100,9 @@ But I'm leaving for good
 
 Gonna let it do the walking, baby
 (Do the walking)
-Ooh, I'm gonna let it do the walking, baby
+Oh, I'm gonna let it do the walking, baby
 (Do the walking)
-Oh, oh, oh, oh-ooo
+Oh, oh, oh, oh-oo
 
 Walk on heart, walk on
 Walk on heart, tip on out the door

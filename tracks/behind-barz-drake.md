@@ -22,7 +22,7 @@ Link Up TV, Behind Barz
 Big up man like Rashid, Joey, Tadas
 Shoutout Giggs for settin' the ting
 SN1, OVO
-Mm-hmm, yeah, look
+Mm-hm, yeah, look
 
 You know how the paigon chit-chat goes
 I like R's and V's and O's

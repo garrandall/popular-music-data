@@ -60,9 +60,6 @@ There were such a fright
 Great, gosh, almighty
 Won't you look at Granny run, run
 
-
-
-
 Look at Granny run, run
 But Grandpa's gettin' closer now
 No matter how she run, run

@@ -69,34 +69,34 @@ Well the streets are all crowded.
 Lots of people around.
 And there's music playing,
 But I can't hear a sound.
-Just the sound of the rain 
+Just the sound of the rain
 Falling silently down.
-Livin' ain't been livin' 
+Livin' ain't been livin'
 Since you put me down.
 Yeah life goes on around me every day,
 But it might as well be half a million miles away.
-It's like a ghost town without your love. 
-Like a ghost town without your love. 
-Like a ghost town, baby, can't you see? 
+It's like a ghost town without your love.
+Like a ghost town without your love.
+Like a ghost town, baby, can't you see?
 It's a ghost town, until you come back to me.
-oo, oo, till you come back to me. 
+oo, oo, till you come back to me.
 
 Well. I wish I still had you.
 Had you here next to me.
-Baby, where did you go? 
-Baby, why did you leave? 
-Oh the world, it keeps turnin' 
-But it don't turn for me. 
-Without you in my life 
+Baby, where did you go?
+Baby, why did you leave?
+Oh the world, it keeps turnin'
+But it don't turn for me.
+Without you in my life
 My life ain't no place to be.
 
 There's only lonely days and empty nights.
 Ain't the same without you, baby, nothin' feelin' right.
 Nothing's feeling right.
 
-It's like a ghost town without your love. 
+It's like a ghost town without your love.
 Like a ghost town without your love
-Like a ghost town, baby, can't you see? 
+Like a ghost town, baby, can't you see?
 It's a ghost town, until you come back to me.
 Oo oo, till you come back to me.
 
@@ -106,9 +106,9 @@ I'm gonna leave this town.
 
 It's like a ghost town.
 
-It's like a ghost town without your love. 
+It's like a ghost town without your love.
 Like a ghost town without your love.
-Like a ghost town, baby, can't you see? 
+Like a ghost town, baby, can't you see?
 A ghost town, until you come back to me.
 Oo oo till you come back to me.
 
@@ -118,7 +118,7 @@ It's a ghost town
 Hey hey, it's like a ghost town, can't you see
 It's like like a ghost town
 Til you come, till you come back to me
-Oo oo oooooo
+Oo oo oo
 Til you come, till you come back to me
 
 

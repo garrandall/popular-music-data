@@ -77,7 +77,7 @@ Don't fall down on me now.
 Just move it right here to the Harlem Shuffle.
 Huh, yeah, yeah, yeah, do the Harlem Shuffle.
 Yeah, yeah, yeah, do the Harlem Shuffle.
-Meooow. Ooh haoooh!
+Meooow. Oh haoooh!
 Hitch me hitch hike baby, across the floor.
 Whow, whow, whow, I can't stand it no more.
 Now come on, baby (oh, come on baby!), now get into your slide.

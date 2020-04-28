@@ -71,11 +71,6 @@ She got contagious, she never leave it
 So no more time spent, and no more free shit
 In fact this free ride has reached its destination
 
-
-
-
-
-
 Life's a tour, I'm so sure
 The ex will come before you exit girl
 No more games, I confess

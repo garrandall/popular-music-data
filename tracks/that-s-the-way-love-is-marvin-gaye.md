@@ -89,7 +89,7 @@ That's the way love is, baby
 (That's the way love is, sugar, how it is)
 That's how it is
 Oh, that''s how it is my love
-Ooh baby
+Oh baby
 
 
 

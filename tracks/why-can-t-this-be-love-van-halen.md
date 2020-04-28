@@ -78,7 +78,7 @@ Winding me up inside
 Every time we touch
 
 Hey I don't know
-Ooh tell me where to begin
+Oh tell me where to begin
 Cause I never ever
 Felt so much
 

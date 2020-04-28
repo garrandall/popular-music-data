@@ -60,14 +60,11 @@ The life I'd be livin', if I hadn't found
 SOMEONE TO HOLD ME, THE WAY THAT YOU DO
 SOMEONE WHO NEEDS ME, THE WAY I NEED YOU
 SOMEONE TO SHOW ME, A WAY THAT IS TRUE
-SOMEONE TO LOVE ME.......THE WAY THAT I LOVE YOU
+SOMEONE TO LOVE ME...THE WAY THAT I LOVE YOU
 When there was no one left for me to turn to
 When all the world I knew was fallin' down
 Oh there were times I could not face the mornin'
 But everything's changed since the day that I found
 
-Come on-Come on-Come on-Come on now!!
-
-
-
+Come on-Come on-Come on-Come on now!
 

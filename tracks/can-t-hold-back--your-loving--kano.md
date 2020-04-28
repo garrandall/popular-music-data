@@ -28,9 +28,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-01-23'
 ---
-Come to me she calls me ( i really need your lovin’)
+Come to me she calls me ( I really need your lovin’)
 Come to me I need you (right now)
-Come to me oh baby ( i wanna feel your lovin’)
+Come to me oh baby ( I wanna feel your lovin’)
 Come to me I want you ( right now)
 
 She’s got what it takes / she can pin you to the floor

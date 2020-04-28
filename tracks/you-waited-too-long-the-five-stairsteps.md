@@ -38,7 +38,7 @@ I couldn't go on (You waited too long)
 Now that I've found myself another girl (Tell me all about it)
 And she loves me with all her heart (Let me hear you shout it)
 To me she's all I need (All I need)
-To make a brand new start (mmmm)
+To make a brand new start (mmm)
 
 For you've waited too long (do-oo-oo-oo)
 I couldn't go on (do-oo-oo-oo)

@@ -68,12 +68,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-04-10'
 ---
-Right about now!!!!!
+Right about now!
 
-SNOOP!!!!! DOGG!!!!! SNOOP!!!!! DOGG!!!!! SNOOP!!!!! DOGG!!!!!
+SNOOP! DOGG! SNOOP! DOGG! SNOOP! DOGG!
 
-HEY!!! HEY!!! HEY!!! HEY!!! (I wanna rock right now, rock-rock-right now)
-HEY!!! HEY!!! HEY!!! HEY!!! (I wanna rock right now, rock-rock-right now)
+HEY! HEY! HEY! HEY! (I wanna rock right now, rock-rock-right now)
+HEY! HEY! HEY! HEY! (I wanna rock right now, rock-rock-right now)
 
 It's ya Eastside partner, Big Snoopy D-O
 Turned like D-lo, catch me on your TiVo
@@ -94,10 +94,10 @@ I slam 'em on they back, and tell 'em vamanos
 
 I wanna rock right now, rock-rock-right now
 I wanna rock right now, rock-rock-right now
-I wanna rock right now, rock-rock-right now (SNOOP!!!!! DOGG!!!!!)
-I wanna rock right now, rock-rock-right now (SNOOP!!!!! DOGG!!!!! SNOOP!!!!! DOGG!!!!!)
-(HEY!!! HEY!!! HEY!!! HEY!!!) I wanna rock right now, rock-rock-right now
-(HEY!!! HEY!!! HEY!!! HEY!!!) I wanna rock right now, rock-rock-right now
+I wanna rock right now, rock-rock-right now (SNOOP! DOGG!)
+I wanna rock right now, rock-rock-right now (SNOOP! DOGG! SNOOP! DOGG!)
+(HEY! HEY! HEY! HEY!) I wanna rock right now, rock-rock-right now
+(HEY! HEY! HEY! HEY!) I wanna rock right now, rock-rock-right now
 
 
 I see 'em comin huh, that's what I heard em said
@@ -117,10 +117,10 @@ Now gon' Turn It Up, lil' mama look at you!
 I'm giggin on these hoes, do 'em like dominoes
 And slam 'em on they back, and tell 'em vamanos
 
-I wanna rock right now, rock-rock-right now (SNOOP!!!!! DOGG!!!!!)
-I wanna rock right now, rock-rock-right now (SNOOP!!!!! DOGG!!!!! SNOOP!!!!! DOGG!!!!!)
-(HEY!!! HEY!!! HEY!!! HEY!!!) I wanna rock right now, rock-rock-right now)
-(HEY!!! HEY!!! HEY!!! HEY!!!) I wanna rock right now, rock-rock-right now)
+I wanna rock right now, rock-rock-right now (SNOOP! DOGG!)
+I wanna rock right now, rock-rock-right now (SNOOP! DOGG! SNOOP! DOGG!)
+(HEY! HEY! HEY! HEY!) I wanna rock right now, rock-rock-right now)
+(HEY! HEY! HEY! HEY!) I wanna rock right now, rock-rock-right now)
 
 Boss Dogg chillin, lookin like a million
 Yeah, nigga got it, I'mma leave it
@@ -140,8 +140,8 @@ West Coast bitch, I'm on my fuckin throne
 I'm giggin on these hoes, do 'em like dominoes
 And slam 'em on they back, and tell 'em vamanos
 
-I wanna rock right now, rock-rock-right now (SNOOP!!!!! DOGG!!!!!)
-I wanna rock right now, rock-rock-right now (SNOOP!!!!! DOGG!!!!! SNOOP!!!!! DOGG!!!!!)
-(HEY!!! HEY!!! HEY!!! HEY!!!) I wanna rock right now, rock-rock-right now
-(HEY!!! HEY!!! HEY!!! HEY!!!) I wanna rock right now, rock-rock-right now
+I wanna rock right now, rock-rock-right now (SNOOP! DOGG!)
+I wanna rock right now, rock-rock-right now (SNOOP! DOGG! SNOOP! DOGG!)
+(HEY! HEY! HEY! HEY!) I wanna rock right now, rock-rock-right now
+(HEY! HEY! HEY! HEY!) I wanna rock right now, rock-rock-right now
 I Wanna rock right now

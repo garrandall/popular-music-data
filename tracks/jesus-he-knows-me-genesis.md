@@ -172,7 +172,7 @@ Well, he's been telling me everything's gonna be alright
 Cause Jesus, he knows me
 And he knows I'm right
 Jesus, he knows, he knows
-Ooh, yes, he knows me
+Oh, yes, he knows me
 And he knows I'm right
 Jesus, he knows, he knows
 I've been talking to Jesus

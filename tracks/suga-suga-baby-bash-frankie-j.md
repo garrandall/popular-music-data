@@ -147,7 +147,7 @@ You got me lifted, you got me lifted
 
 
 You got me lifted shifted higher than a ceiling
-And ooh wee it's the ultimate feeling
+And oh wee it's the ultimate feeling
 You got me lifted feeling so gifted
 Sugar how you get so fly?
 Suga suga how you get so fly?
@@ -169,7 +169,7 @@ Treat you like my sticky ickey or my sweet oowy goowy (fa real though)
 
 
 You got me lifted shifted higher than a ceiling
-And ooh wee it's the ultimate feeling
+And oh wee it's the ultimate feeling
 You got me lifted feeling so gifted
 Sugar how you get so fly?
 Suga suga how you get so fly?
@@ -193,7 +193,7 @@ Rockin' Dolce Gabbana hydro and a Cubana
 
 
 You got me lifted shifted higher than a ceiling
-And ooh wee it's the ultimate feeling
+And oh wee it's the ultimate feeling
 You got me lifted feeling so gifted
 Sugar how you get so fly?
 Suga suga how you get so fly?
@@ -217,7 +217,7 @@ You'll be there when the money comes (fa real though)
 
 
 You got me lifted shifted higher than a ceiling
-And ooh wee it's the ultimate feeling
+And oh wee it's the ultimate feeling
 You got me lifted feeling so gifted
 Sugar how you get so fly?
 Suga suga how you get so fly?

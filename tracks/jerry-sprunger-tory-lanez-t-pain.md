@@ -88,9 +88,9 @@ I like a bust it baby Imma bust you too
 Too, too, too, too, too
 I'm sprung and that's true cause
 
-Ooh, you did it, ooh, didn't you?
+Oh, you did it, oh, didn't you?
 I already knew what it takes to get into you
-Ooh, bring it back
+Oh, bring it back
 She put that pussy on me she know how to make it clap, make it clap
 I make it clap yo, I make it clap yo
 I have them haters asking how you open that Rolls

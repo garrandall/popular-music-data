@@ -101,7 +101,7 @@ Now everybody wants some presto magic
 Magic, magic, magic
 ( M M) Magic, magic, magic
 ( M M M) Magic, magic, magic
-Ah ooooooo
+Ah oo
 I got the magic in me
 
 This trick that I'll attempt will blow your mind
@@ -123,11 +123,11 @@ I got the magic in me (I got the magic, baby)
 Every time I touch that track in turns into gold (yes, it turns to gold)
 Everybody knows I got the magic in me (I got the magic, baby)
 When I hit the floor the girls come snapping at me (they be snappin', baby)
-Now everybody wants some presto 
+Now everybody wants some presto
 Magic, magic, magic
 ( M M) Magic, magic, magic
 ( M M M) Magic, magic, magic
-Ah oooooooo
+Ah oo
 I got the magic in me
 
 We'll take a journey into my mind
@@ -153,7 +153,7 @@ Now everybody wants some presto
 Magic, magic, magic
 ( M M) Magic, magic, magic
 ( M M M) Magic, magic, magic
-Ah oooooooo
+Ah oo
 I got the magic in me
 
 

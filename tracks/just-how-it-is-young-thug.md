@@ -15,9 +15,9 @@ rankings:
 Wheezy outta here
 
 
-Ooh-woo, diamonds peek-a-boo
-Ooh-woo, I done fucked her crew
-Ooh-woo, I done did the robbin'
+Ohwoo, diamonds peek-a-boo
+Ohwoo, I done fucked her crew
+Ohwoo, I done did the robbin'
 I done did the jackin', now I'm full rappin'
 I put on my brothers, I put on my bitch
 Had to wear the dress 'cause I had a stick
@@ -43,9 +43,9 @@ Niggas stole a chain, but I ain't worried, fool
 I'ma keep on spinnin' 'til they tell me who
 
 
-Ooh-woo, diamonds peek-a-boo
-Ooh-woo, I done fucked her crew
-Ooh-woo, I done did the robbin'
+Ohwoo, diamonds peek-a-boo
+Ohwoo, I done fucked her crew
+Ohwoo, I done did the robbin'
 I done did the jackin', now I'm full rappin'
 I put on my brothers, I put on my bitch
 Had to wear the dress 'cause I had a stick
@@ -83,9 +83,9 @@ We don't speak 'bout shit on wax, it's all mob business
 We known to kill the biggest cats of all kitties
 
 
-Ooh-woo, diamonds peek-a-boo
-Ooh-woo, I done fucked her crew
-Ooh-woo, I done did the robbin'
+Ohwoo, diamonds peek-a-boo
+Ohwoo, I done fucked her crew
+Ohwoo, I done did the robbin'
 I done did the jackin', now I'm full rappin'
 I put on my brothers, I put on my bitch
 Had to wear the dress 'cause I had a stick

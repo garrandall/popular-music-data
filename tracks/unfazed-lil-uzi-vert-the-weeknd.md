@@ -23,9 +23,9 @@ I'm unfazed
 I'm unfazed
 I'm unfazed
 I'm unfazed
-I'm unfazed, ooh yeah (woah)
-I'm unfazed, ooh yeah (woah)
-I'm unfazed, ooh yeah (woah)
+I'm unfazed, ohyeah (woah)
+I'm unfazed, ohyeah (woah)
+I'm unfazed, ohyeah (woah)
 I'm unfazed (woah)
 I'm unfazed (yeah, yeah)
 I'm unfazed (yeah, yeah)
@@ -52,16 +52,16 @@ They just tryna get reactions from me
 
 
 (Woah)
-I'm unfazed, ooh yeah (woah)
-I'm unfazed, ooh yeah (woah)
-I'm unfazed, ooh yeah (woah)
+I'm unfazed, ohyeah (woah)
+I'm unfazed, ohyeah (woah)
+I'm unfazed, ohyeah (woah)
 I'm unfazed (oh, oh)
 I'm unfazed (oh, oh)
 I'm unfazed
 I'm unfazed
-I'm unfazed, ooh yeah (woah)
-I'm unfazed, ooh yeah (woah)
-I'm unfazed, ooh yeah (woah)
+I'm unfazed, ohyeah (woah)
+I'm unfazed, ohyeah (woah)
+I'm unfazed, ohyeah (woah)
 I'm unfazed
 I'm unfazed (oh, oh)
 I'm unfazed (oh, oh)
@@ -91,16 +91,16 @@ Hit it twice to let her know I really mean it (I really mean it)
 
 
 (Woah, woah)
-I'm unfazed, ooh yeah (woah)
-I'm unfazed, ooh yeah (woah)
-I'm unfazed, ooh yeah (woah)
+I'm unfazed, ohyeah (woah)
+I'm unfazed, ohyeah (woah)
+I'm unfazed, ohyeah (woah)
 I'm unfazed (oh, oh)
 I'm unfazed (oh, oh)
 I'm unfazed
 I'm unfazed
-I'm unfazed, ooh yeah (woah)
-I'm unfazed, ooh yeah (woah)
-I'm unfazed, ooh yeah (woah)
+I'm unfazed, ohyeah (woah)
+I'm unfazed, ohyeah (woah)
+I'm unfazed, ohyeah (woah)
 I'm unfazed
 I'm unfazed (oh, oh)
 I'm unfazed (oh, oh)

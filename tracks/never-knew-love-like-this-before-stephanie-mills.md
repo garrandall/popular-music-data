@@ -135,7 +135,7 @@ You are my sunlight and my rain,
 And time could never change
 What we share forevermore...
 
-Ooh, hoo... I never knew love like this before;
+Oh hoo... I never knew love like this before;
 Now I'm lonely never more,
 Since you came into my life...
 

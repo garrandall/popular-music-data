@@ -58,9 +58,6 @@ Stay with me
 Won't you stay the night
 In the morning feeling fine, yeah
 
-
-
-
 Oh, no, you should be holding on to him girl
 Oh, yeah just like, just like you want to do
 Oh, no, just love and squeeze him girl

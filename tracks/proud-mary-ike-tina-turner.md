@@ -63,7 +63,7 @@ rankings:
 ---
 
 Left a good job in the city
-Working for the man ev'ry night and day
+Working for the man every night and day
 Then I never lost a minute of sleep
 When I was worrying 'bout the way that things
 Might have been

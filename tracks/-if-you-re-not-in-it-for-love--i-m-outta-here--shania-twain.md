@@ -85,7 +85,7 @@ Now every woman sees
 With every "pretty please"
 There's a pair of lying eyes
 And a set of keys
-He says, "come be a star" (Ooh)
+He says, "come be a star" (Oh)
 In the back seat of my car
 Oh, but baby, slow down
 You're going way too far
@@ -112,7 +112,7 @@ I'm outta here!
 Babe, I can change your world
 Make you a cover girl
 Yeah, you could be a beauty queen in a magazine
-Now tell me, what's your sign? (Ooh)
+Now tell me, what's your sign? (Oh)
 Why always the same old line?
 I'll be in number 409
 If you change your mind

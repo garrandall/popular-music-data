@@ -39,7 +39,7 @@ Oh, I had pretty women in every town
 And I played so hard when the sun went down
 Oh, but you stopped my partying
 You stopped my partying when you came around baby
-Mmmm....and I'm so glad
+Mmm...and I'm so glad
 I'm so glad, I'm so glad, I'm so glad baby
 That you put it on me
 

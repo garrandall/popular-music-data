@@ -249,7 +249,7 @@ Said shit done changed ever since we was on
 I dreamed it all ever since I was young
 They said I would be nothing
 Now they always say, "Congratulations" (congratulations)
-Worked so hard, forgot how to vacation (ooh)
+Worked so hard, forgot how to vacation (oh
 They ain't never had the dedication (uh, ayy)
 People hatin', say we changed and, look, we made it (uh)
 Yeah, we made it (uh, yah)
@@ -264,7 +264,7 @@ I pick up the rock and I ball, baby (ball)
 I'm looking for someone to call, baby (brr)
 But right now, I got a situation (ayy)
 Never old Ben Ben Franklins (cash)
-Big rings, champagne (ooh, champagne)
+Big rings, champagne (oh champagne)
 My life is like a ball game (ball game)
 But instead I'm in the trap though (trap though)
 Pot so big, call it Super Bowl (Super Bowl)
@@ -282,7 +282,7 @@ Said shit done changed ever since we was on
 I dreamed it all ever since I was young
 They said I would be nothing
 Now they always say, "Congratulations" (ayy, uh)
-Worked so hard, forgot how to vacation (uh-huh, ooh)
+Worked so hard, forgot how to vacation (uh-huh, oh
 They ain't never had the dedication (ayy, uh)
 People hatin', say we changed and, look, we made it (uh)
 Yeah, we made it (ayy)

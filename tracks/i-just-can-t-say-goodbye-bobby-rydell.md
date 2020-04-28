@@ -24,7 +24,7 @@ When you walk in the door
 
 That's when I see your face
 I realize no matter how
-You make me blue, ooh
+You make me blue, oh
 I just can't say goodbye to you
 
 When I'm alone

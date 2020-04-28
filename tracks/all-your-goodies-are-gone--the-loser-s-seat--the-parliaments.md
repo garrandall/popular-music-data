@@ -62,7 +62,7 @@ Without a love of your own (without a love of your own)
 And all your goodies are gone (all your goodies are gone)
 And all your goodies are gone (all your goodies are gone)
 
-Ooh. so good
+Oh so good
 I admit your love was good
 But it don't rectify how I'll cry
 If you ever tell me goodbye

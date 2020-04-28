@@ -196,7 +196,7 @@ Wasting my precious energy
 Give me one reason to stay here
 Yes and I'll turn right back around
 Give me one reason to stay here
-Ooh and I'll turn right back around
+Oh and I'll turn right back around
 Said I don't want leave you lonely
 You got to make me change my mind
 

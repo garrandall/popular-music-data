@@ -76,12 +76,12 @@ To plan my future, get on with my life
 Tell me face to face, don't try to be polite
 
 I'll take it, I'll make it
-Ooh, yes, I will
-Ooh, yeah, yeah, yeah
+Oh yes, I will
+Oh yeah, yeah, yeah
 
 Listen, listen, I'm livin' each minute with all that I've got
 Each breath is important, each heartbeat is hot
-That's the way we were way back, you forgot, ooh
+That's the way we were way back, you forgot, oh
 (He forgot, he forgot)
 You leave me so empty, it's makin' me sad
 To know that a good thing has turned for the bad

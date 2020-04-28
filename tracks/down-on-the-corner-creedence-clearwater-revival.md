@@ -84,18 +84,8 @@ Blinky, thumps the gut bass and solos for a while
 Poorboy twangs the rhythm out on his kalamazoo
 Willy goes into a dance and doubles on kazoo
 
-
-
-
-
 You don't need a penny just to hang around
 But if you've got a nickel, won't you lay your money down?
 Over on the corner there's a happy noise
 People come from all around to watch the magic boy
-
-
-
-
-
-
 

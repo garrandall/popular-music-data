@@ -89,21 +89,21 @@ rankings:
   start_date: '1995-04-01'
 ---
 
-We use to be so close,but now things have changed, it's not the same oh no since I heard you calling her name so quick to tell me that she was just a friend I don't want to hear the same ol' lies again (again) 
-I got a hunch something ain't right oh no this is no illusion I've come to this conlusion that your 
+We use to be so close,but now things have changed, it's not the same oh no since I heard you calling her name so quick to tell me that she was just a friend I don't want to hear the same ol' lies again (again)
+I got a hunch something ain't right oh no this is no illusion I've come to this conlusion that your
 
 
-Fooling around fooling fooling around 
+Fooling around fooling fooling around
 
 
-I can't believe that I was fooling myself (oh no) when all along oh yes you were with someone else no more games I'm letting it go your way 'cause 3 is a crowd so I'm giving you the step oooooooo I got a hunch something ain't right oooohhhhh (oh no) this is no illusion I've come to this conclusion that your 
+I can't believe that I was fooling myself (oh no) when all along oh yes you were with someone else no more games I'm letting it go your way 'cause 3 is a crowd so I'm giving you the step oo I got a hunch something ain't right oh (oh no) this is no illusion I've come to this conclusion that your
 
 
 
 Fooling around fooling fooling around
 
 
-I gave you the chance to give me romance I was there for you boy and you know it's true see you ain't that strong you should've held on discharge of the boys ooooooooooohhhhhhhh
+I gave you the chance to give me romance I was there for you boy and you know it's true see you ain't that strong you should've held on discharge of the boys oh
 
 
 

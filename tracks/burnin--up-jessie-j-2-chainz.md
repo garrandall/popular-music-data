@@ -106,7 +106,7 @@ I'm burning up, come put me out, come and put me out
 I'm burning up, come put me out, come and put me out
 I'm burning up, come put me out, come and put me out
 I'm burning up, come put me out, come and put me out
-Ooh
+Oh
 
 
 

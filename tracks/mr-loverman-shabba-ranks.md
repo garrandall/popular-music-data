@@ -149,7 +149,7 @@ Champion lover, gonna make you feel alright, woah
 Champion lover, no ease up tonight
 Mr Loverman, put your loving where your mouth is
 
-But is a loving me want i know loving me want to get
+But is a loving me want I know loving me want to get
 You never's experienced this a love yet
 For Mr Lover make you work up a sweat
 And ina a dis a loving nah go live and fret

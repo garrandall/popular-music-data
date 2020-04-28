@@ -178,9 +178,6 @@ This Friday night, do it all again
 T.G.I.F., T.G.I.F., T.G.I.F
 T.G.I.F., T.G.I.F., T.G.I.F
 
-
-
-
 Last Friday night
 Yeah, we danced on tabletops
 And we took too many shots

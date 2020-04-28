@@ -101,7 +101,7 @@ Sentimental gentle wind
 Blowing through my life again
 Sentimental lady, gentle one
 
-Ooh, sentimental lady
+Oh sentimental lady
 
 
 Yes, and all of the things that I said that I wanted

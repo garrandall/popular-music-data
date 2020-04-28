@@ -90,7 +90,3 @@ There's just too much to see waiting in front of me,
 and I know that I just can't go wrong
 with these...
 
-
-
-
-

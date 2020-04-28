@@ -153,7 +153,7 @@ Damn!
 
 
 
- Chingy holla at them again !!
+ Chingy holla at them again!
 
 
 To all the fellas know you feel me, if you ever had a woman,
@@ -168,8 +168,4 @@ As bad as it hurts I gotta move to the next route
 Guess she ain't understand
 N now she's sittin' hurr looking crazy like
 Damn!
-
-
-
-
 

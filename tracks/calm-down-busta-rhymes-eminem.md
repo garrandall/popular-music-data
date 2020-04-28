@@ -65,7 +65,7 @@ All ratchet and racing (crunk) keeping over 'em blacking
 Until I'm leaving 'em stuck
 I got 'em happier than a child in a park chasing a duck
 When I'm chasing a buck it's funny, niggas be chasing they luck
-I be lacing them up like boots when I'm pushing they face in the mud (ahh)
+I be lacing them up like boots when I'm pushing they face in the mud (ah)
 Missiles I fling while I spit live wire, 'til this shit circling back around
 With more fire for me to melt the brake's surface, and back the sound
 While I light up shit that I toss
@@ -83,9 +83,6 @@ While I bite the beat up put the sparker in a heater
 I'm chopping your foot off now it's mine and I'm putting my feet up
 Back to the hood and off to the whylin' I'm hoping you protect your child
 And I been blacking out so long niggas is asking if the hook has died, naw
-
-
-
 
 There's a light contagiousness to this tirade
 It just might make you sick

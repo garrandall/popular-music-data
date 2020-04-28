@@ -66,9 +66,9 @@ There ain't no use in you crying
 'Cause I'm more hurt than you
 I shoulda not been out flirting
 But now my love is true
-Ooh (all right)
-Ooh (OK!)
-Ooh, yeah
+Oh (all right)
+Oh (OK!)
+Oh, yeah
 
 Come back
 Baby, come back

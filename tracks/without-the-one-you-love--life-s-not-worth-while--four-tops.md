@@ -63,7 +63,7 @@ I need you, my darling
 Like a lost soul needs a friend
 
 So come and fill my empty arms
-Ooh, and fill my empty life
+Oh, and fill my empty life
 
 (Baby, I need your good lovin')
 Nobody knows the emptiness I feel

@@ -55,9 +55,6 @@ I don't know, I don't know
 You stick around, now it may show
 I don't know, I don't know
 
-
-
-
 Something in the way she knows
 And all I have to do is think of her
 Something in the things she shows me

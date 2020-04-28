@@ -77,8 +77,8 @@ Offset!
 I done sacrificed the thug life, diamonds shining ain't no dull life
 Drop my top to get my mind right, pull up in the 'Rari, loud pipes
 Bitch, I'm the don, my wrist a hundon (Patek)
-Ooh, yeah, Gucci python
-Ooh, yeah, she play with her tongue
+Oh, yeah, Gucci python
+Oh, yeah, she play with her tongue
 Yeah, I bought that bitch a new charm
 Lit nigga pop one
 I told her come see about me (come on, come see me)

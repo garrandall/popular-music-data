@@ -75,7 +75,7 @@ I look at you and the cars go passing by
 
 And all along on my trip to nowhere
 You annoyed me with your foolish games
-And how you teased when i first made love
+And how you teased when I first made love
 And I'm left so naked like a burning flame
 Burning flame, burning flame
 

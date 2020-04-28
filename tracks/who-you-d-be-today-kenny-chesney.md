@@ -115,9 +115,6 @@ Who'd you be today?
 Today, today, today
 Today, today, today
 
-
-
-
 Sunny days seem to hurt the most
 I wear the pain like a heavy coat
 The only thing that gives me hope

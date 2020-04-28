@@ -149,10 +149,10 @@ I don't get down on the first night
 If you, want me, you got to know me
 And if you want my love (My love) you gotta wait my love
 Ba Baby that's the way its got to be
-Get to know me (Get to know me) so we can do this, Oooohhh
+Get to know me (Get to know me) so we can do this, Oh
 
-I should 
-I know your probably thinkin' 
+I should
+I know your probably thinkin'
 (I want I want babe)
 Knowin' if I do  (I want I want babe)
 I don't get down, on the first night

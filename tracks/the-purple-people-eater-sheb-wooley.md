@@ -24,11 +24,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-08-25'
 ---
-AAAAAHHHH!!!!!!!!!
+AAAAAHHHH!
 
 Well, I saw the thing comin' out of the sky
-It had a-one long horn and one big eye. (Ooh!)
-I commenced to shakin' and I said, "Ooh-eee!
+It had a-one long horn and one big eye. (Oh)
+I commenced to shakin' and I said, "Oheee!
 It looks like a purple people eater to me!"
 
 It was a one-eyed, one-horned, flyin' purple people eater
@@ -55,7 +55,7 @@ Well bless my soul, rock and roll, flyin' purple people eater
 Pigeon-toed, undergrowed, flyin' purple people eater
 (We wear short shorts)
 Friendly little people eater
-What a sight to see! (Oooh!)
+What a sight to see! (Oh!)
 
 And then he swung from the tree and he lit on the ground
 He started to rock, really rockin' around

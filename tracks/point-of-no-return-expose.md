@@ -105,9 +105,9 @@ You're taking me to the point of no return
 You're taking me to the point of no return,
 (Hey hey hey yeah) oh oh oh
 
-I wanna be with you baby (ooh-wah ooh-wah)
+I wanna be with you baby (ohwah oohah)
 I'm gonna be by your side (by your side)
-I wanna be with you baby (ooh-wah ooh-wah)
+I wanna be with you baby (ohwah oohah)
 I'm gonna love you every night
 
 You're taking me to the point of no return

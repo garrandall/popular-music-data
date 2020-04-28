@@ -53,9 +53,6 @@ I’ll wrap myself in solitude
 But I wish I could wrap myself
 In thee!
 
-
-
-
 Once we breathed the breath of sweet surrender
 Pure, pure Arab air filled our atmosphere
 But pride it makes stars of us all

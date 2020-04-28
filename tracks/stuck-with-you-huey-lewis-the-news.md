@@ -101,44 +101,41 @@ All the same friends
 And the same address
 
 
-(Ooh) Yes, it's true (yes it's true)
+(Oh) Yes, it's true (yes it's true)
 I am happy to be stuck with you
-(Ooh) Yes, it's true (yes it's true)
+(Oh) Yes, it's true (yes it's true)
 I'm so happy to be stuck with you
-(Ooh) 'Cause I can see (I can see)
+(Oh) 'Cause I can see (I can see)
 That you're happy to be stuck with me
 
 
 
 
-(ooh, wa-ooh)
+(oh wa-oh
 We've had our doubts
 We never took them seriously
-(ooh, wa-ooh)
+(oh wa-oh
 And we've had our ins and outs
 But that's the way it's s'posed to be
 
 We thought about giving up (giving up)
 But we could never stay away
-We thought about breaking up (ooh, wa ooh)
+We thought about breaking up (oh wa oh
 But now we know it's much too late
 
 
-And it's no great mystery (Ooh)
+And it's no great mystery (Oh)
 If we change our minds
 Eventually
 It's back to you and me
 
 
-(Ooh) Yes, it's true (yes, it's true)
+(Oh) Yes, it's true (yes, it's true)
 I am happy to be stuck with you
-(Ooh) Yes, it's true (yes, it's true)
+(Oh) Yes, it's true (yes, it's true)
 I'm so happy to be stuck with you
-(Ooh) 'Cause I can see (I can see)
+(Oh) 'Cause I can see (I can see)
 That you're happy to be stuck with me
-
-
-
 
 We are bound by all the rest
 Like the same phone number
@@ -146,15 +143,15 @@ All the same friends
 And the same address
 
 
-(Ooh) Yes, it's true (yes it's true)
+(Oh) Yes, it's true (yes it's true)
 I am happy to be stuck with you
-(Ooh) Yes, it's true (yes it's true)
+(Oh) Yes, it's true (yes it's true)
 I'm so happy to be stuck with you
-(Ooh) 'cause I can see (I can see)
+(Oh) 'cause I can see (I can see)
 That you're happy to be stuck with me
 
 
-(Ooh, yes, it's true) I'm so happy to be stuck with you
-(Ooh, wa-ooh) I'm happy to be stuck with you
-(Ooh, wa-ooh) Happy to be stuck with you
-(Ooh, yes, it's true)
+(Oh, yes, it's true) I'm so happy to be stuck with you
+(Oh, wa-oh I'm happy to be stuck with you
+(Oh, wa-oh Happy to be stuck with you
+(Oh, yes, it's true)

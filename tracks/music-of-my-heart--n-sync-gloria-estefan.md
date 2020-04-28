@@ -144,7 +144,7 @@ Is the music of my heart
 What you taught me
 Only your love could ever teach me
 You got through when no one could reach me
-(Ohh, ohh, ohh)
+(Ohh, oh, oh)
 Cause you always saw in me
 All the best that I could be
 It was you who set me free

@@ -80,9 +80,9 @@ Here's an opportunity that you don't wanna miss tonight
 Ready. Set. Go.
 
 All the girls stepping out for a public affair
-(All night (all night), that's right (that's right) 'cause the party don't stop (don't stop, ooh))
+(All night (all night), that's right (that's right) 'cause the party don't stop (don't stop, oh)
 All the cameras come out for a public affair
-(Who cares (who cares), let's rock (let's rock), 'cause the party don't stop (don't stop, ooh))
+(Who cares (who cares), let's rock (let's rock), 'cause the party don't stop (don't stop, oh)
 
 Do what you wanna do, tonight the world does not exist
 No, no, no, no
@@ -91,14 +91,14 @@ Move how you wanna move, all my girls work it out - like this
 Give me room to shake, shake, shake
 
 All the girls stepping out for a public affair
-(All night (all night), that's right (that's right) 'cause the party don't stop (don't stop, ooh))
+(All night (all night), that's right (that's right) 'cause the party don't stop (don't stop, oh)
 All the cameras come out for a public affair
-(Who cares (who cares), let's rock (let's rock), 'cause the party don't stop (don't stop, ooh))
+(Who cares (who cares), let's rock (let's rock), 'cause the party don't stop (don't stop, oh)
 
 All the girls stepping out for a public affair
-(All night (all night), that's right (that's right) 'cause the party don't stop (don't stop, ooh))
+(All night (all night), that's right (that's right) 'cause the party don't stop (don't stop, oh)
 All the cameras come out for a public affair
-(Who cares (who cares), let's rock (let's rock), 'cause the party don't stop (don't stop, ooh))
+(Who cares (who cares), let's rock (let's rock), 'cause the party don't stop (don't stop, oh)
 
 All night don't stop,
 ,
@@ -109,8 +109,8 @@ Who cares, let's rock
 
 Ohhh Ohhh Ohhh
 Hey Baby
-Ahhh ohh ohh ohh
-Ahhh ohh ohh
+Ah oh oh oh
+Ah oh oh
 
 All the girls stepping out for a public affair
 (All night, that's right cos the party don't stop)

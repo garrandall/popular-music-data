@@ -44,11 +44,11 @@ Of me waking up where I am
 You could have stop short of every dream I've ever had
 
 So help me girl
-You've gone too far 
-Its way too late 
+You've gone too far
+Its way too late
 To save my heart
 The way it feels
-Each time we touch 
+Each time we touch
 I know Ive never been so loved
 And I can't help myself
 So help me girl
@@ -60,26 +60,26 @@ Now look what you've gone and done
 You had to love me till I couldn't get enough
 
 So help me girl
-You've gone too far 
-Its way too late 
+You've gone too far
+Its way too late
 To save my heart
 The way it feels
-Each time we touch 
+Each time we touch
 I know Ive never been so loved
 And I can't help myself
 So help me girl
 
 So help me girl
-You've gone too far 
-Its way too late 
+You've gone too far
+Its way too late
 To save my heart
 The way it feels
-Each time we touch 
+Each time we touch
 I know Ive never been so loved
 And I can't help myself
 So help me girl
 
-Now I cant help myself so help me girl
+Now I can't help myself so help me girl
 
 
 

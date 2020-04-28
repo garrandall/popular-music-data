@@ -34,9 +34,9 @@ rankings:
 ---
 One lump of sugar don't compare
 To the sweetness of my baby's love and care
-She's candy to me, ooh ooh, sweet candy to me
+She's candy to me, oh oh, sweet candy to me
 She's sugar, she's spice, everything that's nice
-Ooh ooh, sweet candy to me, ooh
+Oh oh, sweet candy to me, oh
 
 She's got a lotta lovin' just for me
 Honeydrippin' kisses that sting like a bee
@@ -47,16 +47,16 @@ You can believe I'll never let her go
 
 Sugar plum, here I come
 Sugar plum, here I come
-Ooh, baby, candy to me
+Oh, baby, candy to me
 She's sugar, she's spice, everything that's nice
-Ooh, sweet candy to me
+Oh, sweet candy to me
 
 Never use sugar in my coffee cup
 One of her kisses, woo, is sweet enough
 Oh, candy to me, sweet, sweet candy to me
 Sweeter to me than sugar cane
 In my heart, she'll always remain
-Ooh ooh, she's candy to me, my baby's sweet candy to me
-Ooh ooh wee, sugar plum
+Oh oh, she's candy to me, my baby's sweet candy to me
+Oh oh wee, sugar plum
 Mmm, mmm, mmm, sugar plum
 Mmm, mmm, mmm, sugar plum

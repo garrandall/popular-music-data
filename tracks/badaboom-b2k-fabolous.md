@@ -132,10 +132,10 @@ T-Scott
 Oh yea Chris Stoke I see you boy
 And oh yea, Dave Mack
 Let's do dis again
-Yea 
+Yea
 TUG
 (Hums)
-Mmmmmm Badaboom
+Mmm Badaboom
 
 
 

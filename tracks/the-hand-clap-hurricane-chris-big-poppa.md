@@ -61,11 +61,6 @@ Ain't nobody in the club feelin like me
 Plus I got a click of gorillas in black tees
 Make the whole club clap like its some kinda disease, please
 
-
-
-
-
-
 Well I hope you ain't tired of clappin your hands cause we just got in the club
 I spent 75 dollars on this shirt just for the club
 Hey I know we ain't leavin, lets hit the V.I.P
@@ -83,11 +78,6 @@ Lemme get a hand clap, if you got that holla back
 And I'm outta my mind I think I need to be slapped
 Lemme get a hand clap, if you got that holla back
 And I'm out my mind I thin I need to be slapped like that
-
-
-
-
-
 
 Now drop that beat, turn it up
 That's too loud man, turn it down, now turn it back up

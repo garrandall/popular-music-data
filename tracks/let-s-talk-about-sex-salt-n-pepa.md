@@ -158,7 +158,3 @@ And why not? Everybody has sex
 I mean, everybody should be makin' love
 Come on, how many guys you know make love?)
 
-
-
-
-

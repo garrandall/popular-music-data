@@ -114,10 +114,10 @@ Boom! I got your boyfriend, I got your man
 Boom! I got your boyfriend, I got your man
 Boom! I got your boyfriend, I got your man
 
-Ohhh gurl u know i love ya
-Ohhh gurl u know i love ya
-Ohhh gurl u know i love ya
-Ohhh gurl u know i love ya
+Ohhh gurl u know I love ya
+Ohhh gurl u know I love ya
+Ohhh gurl u know I love ya
+Ohhh gurl u know I love ya
 
 Boom! I got your boyfriend, I got your man
 Boom! I got your boyfriend, I got your man

@@ -89,7 +89,7 @@ Some words are better left unspoken
 You're livin' a lie
 It's only on the outside
 
-Ooh, some things are better left
+Oh, some things are better left
 Some things are better left unsaid
 Some strings
 Some things are better left unsaid

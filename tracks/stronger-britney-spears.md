@@ -68,7 +68,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-03-10'
 ---
-Ooh hey, yeah
+Oh hey, yeah
 
 Hush, just stop
 There's nothing you can do or say, baby

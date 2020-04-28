@@ -95,4 +95,4 @@ I go to the same old places
 See the same old faces
 Look at the same old skies
 See them all with brand new eyes
-Ooh, ooh
+Oh oh

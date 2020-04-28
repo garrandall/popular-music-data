@@ -122,7 +122,7 @@ rankings:
 You'd take the clothes off my back and I'd let you
 You'd steal the food right out my mouth
 And I'd watch you eat it
-I still don't know why, why our love is so much, ohh
+I still don't know why, why our love is so much, oh
 (Thanks for warnin' me, thanks for warnin' me)
 You curse my name in spite to put me to shame
 Hang my laundry in the streets, dirty or clean

@@ -74,16 +74,16 @@ rankings:
 ---
 Got myself together, yeah
 Gonna get higher
-Oooh!
+Oh!
 And I'm movin' on
 
 Got myself together, yeah
 Gonna get higher
-Oooh!
+Oh!
 And I'm movin' on
 
 Got myself together, yeah
-Oooh!
+Oh!
 And I'm movin' on
 
 Don't stop, keep on, don't stop, keep on

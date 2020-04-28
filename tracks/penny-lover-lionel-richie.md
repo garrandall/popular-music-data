@@ -89,7 +89,7 @@ Honey you came along and captured my heart
 Now my love is somewhere lost in your kiss
 When I'm all alone it's you that I miss
 Girl a love like yours is hard to resist
-Oh, oh, ooh, ooh, oh
+Oh, oh, oh oohoh
 
 Penny lover, my love's on fire
 Penny lover, you're my one desire
@@ -112,7 +112,7 @@ But I'm not gonna worry, no not anymore
 That's why my love is somewhere lost in your kiss
 When I'm lost and alone it's you that I miss
 With a love like yours, it's hard to resist
-Ooh, ooh, oh
+Oh, oh oh
 
 
 Penny lover, don't you walk on by (don't you walk on by)
@@ -123,9 +123,9 @@ Penny lover, don't you walk on by (don't you walk on by)
 I remember the first time I saw you baby
 Penny lover, don't you make me cry
 You had the look in your eye, you had the look in your eye, yeah, yeah
-Ooh pretty baby
+Oh pretty baby
 I just wanted to reachout and touch you baby
-I just want to reach out and hold ya, I want to reach out and say ooh, ooh
+I just want to reach out and hold ya, I want to reach out and say oh oh
 Don't make me cry
 I wanna talk about you everyday (penny lover)
 Need you, need you baby ...

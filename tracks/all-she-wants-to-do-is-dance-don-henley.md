@@ -93,7 +93,7 @@ Molotov cocktail - the local drink
 And all she wants to do is dance, dance
 
 Mix em up right, in the kitchen sink
-And all she wants to do is dance....
+And all she wants to do is dance...
 
 Crazy people walkin' round with blood in their eyes
 And all she wants to do is dance, dance

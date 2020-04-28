@@ -12,7 +12,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-10-16'
 ---
-Oooh, yeah
+Oh, yeah
 Hush, just stop
 There's nothing you can do or say, baby
 I've had enough

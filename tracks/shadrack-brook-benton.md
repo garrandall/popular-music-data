@@ -79,7 +79,7 @@ Now they burned up the soldiers that the king had put there
 (Shadrack! Meshach, Abednego!)
 Oh, Shadrack! Meshach, Abednego!
 
-Um hmm, then the Good Lord called an angel
+Um hm, then the Good Lord called an angel
 Gave him a couple of wings
 He said 'go down there through the middle of the furnace
 And begin to coolin' the flames.'
@@ -88,4 +88,4 @@ They went struttin' right through the fire
 And this lot they had them talkin' about the power of the gospel
 (Shadrack, Meshach, Abednego!)
 
-Oh, Shadrack! Meshach, Abednego!!!
+Oh, Shadrack! Meshach, Abednego!

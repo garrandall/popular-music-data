@@ -221,10 +221,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
 ---
-Ayy, ayy, ayy, ayy (ooh)
-Ooh, ooh, ooh, ohh (ooh)
+Ayy, ayy, ayy, ayy (oh
+Oh, oh oohoh (ohoh
 Ayy, ayy
-Ooh, ooh, ooh, ohh
+Oh, oh oohoh
 
 Needless to say, I keep in check
 She was a bad-bad, nevertheless (yeah)
@@ -241,7 +241,7 @@ Screamin' at my face, baby, don't trip
 Someone took a big L, don't know how that felt
 Lookin' at you sideways, party on tilt
 
-Ooh-ooh
+Oh-oh
 Some things you just can't refuse
 She wanna ride me like a cruise
 And I'm not tryna lose

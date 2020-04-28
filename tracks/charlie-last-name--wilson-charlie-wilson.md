@@ -123,7 +123,7 @@ Here is my number
 Girl you can call me (and don't forget it baby)
 And don't forget it baby (Charlie)
 The name is Charlie
-(ohhhh ohhh ohhh ohh ohhh ohhh oh oh oh yea, shoo ba doo woop dwee)
+(oh oh oh oh oh oh oh oh oh yea, shoo ba doo woop dwee)
 
 
 Now the reason that I laugh is because (It feels like I know you)

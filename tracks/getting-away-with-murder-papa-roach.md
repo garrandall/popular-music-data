@@ -99,8 +99,8 @@ Because I'm getting away with murder
 
 
 Getting away, Getting away, Getting away,
-Getting away, Getting away, Getting away, 
-Getting away, Getting away, Getting away, 
+Getting away, Getting away, Getting away,
+Getting away, Getting away, Getting away,
 With murder
 
 Somewhere beyond happiness and sadness
@@ -109,8 +109,4 @@ What creates my own madness
 And I'm addicted to your punishment
 And you're the master
 And I am craving this disaster
-
-
-
-
 

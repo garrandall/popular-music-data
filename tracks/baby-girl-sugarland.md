@@ -94,7 +94,7 @@ The stars stay up all night,
 Don't know can't see'em,
 For the glow of the neon lights.
 And it's a long way from here,
-To the place where the home fires   burn,
+To the place where the home fires burn,
 Well it's 2,000 miles and one left turn.
 
 
@@ -138,14 +138,14 @@ I still love you more than anything in the world
 Love,
 Your Baby Girl
 
-(Your baby girl.....
+(Your baby girl...
 Dear Mom and Dad,
 Please send money,
 I'm so broke that it ain't funny,
 Don't need much just enough to get me through,
 Please don't worry cause I'm alright,
 I'm playin here at the bar tonight..
-Dreams come true....)
+Dreams come true...)
 
 
 

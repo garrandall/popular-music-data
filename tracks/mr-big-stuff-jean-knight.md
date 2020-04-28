@@ -72,7 +72,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-09-11'
 ---
-(Oh yeah)(Ooh)
+(Oh yeah)(Oh)
 Mr. Big Stuff
 
 Who do you think you are?

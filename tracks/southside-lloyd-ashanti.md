@@ -93,8 +93,8 @@ rankings:
 
 Tell ya daddy stop his hating
 Cuz I be wearing braids and rockin jerseys daily
-But that dont mean im thuggin though
-He dont want me with you
+But that don't mean im thuggin though
+He don't want me with you
 But I aint tryna hear it though
 Not tryna hear it though
 
@@ -127,7 +127,7 @@ Girl I'll know that we can make it
 Cause we won't let him break it
 I don't care who with it
 Its you and me against the world
-Tell me those three words that 
+Tell me those three words that
 Lets me know you're still my girl
 Oh Baby, yeah
 
@@ -162,8 +162,8 @@ Baby we can
 Baby we can (Baby we can)
 Alright
 Yeah Baby (Yeah Baby, heh)
-Meet me at the southside girl (Oh-oh-oh-ooh-oh-oh-oh)
- Cause all I want to do, is ride the south wit you (Ooooh-oooh-oooh-oooh-hooh-hoh-ooooh-oooooh)
+Meet me at the southside girl (Oh-oh-oh-oh-oh-oh-oh)
+ Cause all I want to do, is ride the south wit you (Oh-oh-oh-oh-hooh-hoh-oh-oh)
 ATL Georgia, what do we do for ya
 
 
@@ -182,13 +182,13 @@ Southside, but it's all good (we goin chill)
 
 
 ATL Georgia, what do we do for ya
-Bull doggin' like we Georgetown Hoyas 
+Bull doggin' like we Georgetown Hoyas
 (Can you pick me up tonight, take me anywhere you like)
 Shorty let's ride, in my Cadillac (Cadillac)
 Tilt yo seat back
 And everything'll be coo (yeah)
 Side girl (yeah)
-Alright (oooh-oh-no, no-ooh-hooh)
+Alright (oh-oh-no, no-oh-hooh)
 So what you wann do (we goin kick it tonight)
 (yeah-yeah, yeah-yeah, only at the southside)
 I know it, that you ain't used to this country boy

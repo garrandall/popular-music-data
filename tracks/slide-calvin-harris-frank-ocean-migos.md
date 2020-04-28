@@ -155,7 +155,7 @@ I'm ridin' with no brain, bitch, I'm out of it
 
 Do you slide on all your nights like this?
 Do you try on all your nights like this?
-I might put some spotlight on the slide, ooh, yeah
+I might put some spotlight on the slide, oh, yeah
 Whatever comes, comes through clear
 Do you slide on all your nights like this?
 Do you try on all your nights like this?

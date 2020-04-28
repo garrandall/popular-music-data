@@ -72,4 +72,4 @@ I woke up this morning, I said my prayers
 I'm all doing good, I tried to talk to my dad (Stretch my hands to You)
 Give him some advice, he starts spazzin' on me
 I start spazzin' back, He said "That ain't Christ-like"
-I said, "Ahhh"
+I said, "Ah"

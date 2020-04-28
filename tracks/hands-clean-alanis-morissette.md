@@ -94,9 +94,9 @@ If you weren't so wise beyond your years I would've been able to control myself
 If it weren't for my attention you wouldn't have been successful and
 If it weren't for me you would never have amounted to very much
 
-Ooh this could be messy
+Oh this could be messy
 But you don't seem to mind
-Ooh don't go telling everybody
+Oh don't go telling everybody
 And overlook this supposed crime
 
 We'll fast forward to a few years later
@@ -109,9 +109,9 @@ You're a kind of my protÃ©gÃ© and one day you'll say you learned all you kno
 I know you depend on me like a young thing would to a guardian
 I know you sexualize me like a young thing would and I think I like it
 
-Ooh this could get messy
+Oh this could get messy
 But you don't seem to mind
-Ooh don't go telling everybody
+Oh don't go telling everybody
 And overlook this supposed crime
 
 We'll fast forward to a few years later
@@ -128,9 +128,9 @@ We best keep this to ourselves and not tell any members of our inner posse
 I wish I could tell the world cause you're such a pretty thing when you're done up properly
 I might want to marry you one day if you watch that weight and keep your firm body
 
-Ooh this could be messy and
-Ooh I don't seem to mind
-Ooh don't go telling everybody
+Oh this could be messy and
+Oh I don't seem to mind
+Oh don't go telling everybody
 And overlook this supposed crime
 
 

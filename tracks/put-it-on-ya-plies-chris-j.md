@@ -133,9 +133,9 @@ Give you a A+ if you don't stop
 This a big test, you looking kinda shocked
 Either you get promoted, or you get dropped
 Your final exam, show me your wet box
-Ain't no tattle teller, i keep my mouth locked
+Ain't no tattle teller, I keep my mouth locked
 Make you an honor student, show me you back shot
-You passed with flying colors, ooh that's a nice twat
+You passed with flying colors, ohthat's a nice twat
 
 (Bridge)
 Can I lick it, can I stick it, can I touch it, can I grab it

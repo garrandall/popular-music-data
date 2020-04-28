@@ -88,5 +88,5 @@ Why don't you come into my world and leave your world behind
 
 Hey Little Woman please make up your mind
 You've got to come into my world and leave your world behind
-All right now.... Na, na, na, na...
+All right now... Na, na, na, na...
 You got to come down from that cloud girl and Leave your world behind

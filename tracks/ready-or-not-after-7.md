@@ -112,7 +112,7 @@ All that you're looking for
 
 (Verse 2)
 I'll give you my heart, my soul, my time, my love is a fountain
-I will be your earth, ooh, and all that you need for
+I will be your earth, oh and all that you need for
 And even more
 'Cause girl I love you more than words can show
 My love is pure
@@ -124,7 +124,7 @@ Forevermore
 (Chorus)
 Ready or not
 (Don't you know, don't you know, you should know)
-I'll give you everything (ooh) and more
+I'll give you everything (oh and more
 (I'll give you more, you've got to know it, baby)
 All that I've got (Baby, it's yours, little girl)
 I'll give you everything (Every little thing)
@@ -143,7 +143,7 @@ There's nothing that I'd rather do
 
 (Chorus)
 Ready or not
-I'll give you everything (ooh lady) and more
+I'll give you everything (ohlady) and more
 (I'll give you more, you've got to know it, baby)
 All that I've got (Hey, it's yours)
 I'll give you everything (It's yours)
@@ -157,4 +157,4 @@ All that you're looking for
 
 Ready or not
 (Don't you know, don't you know, you should know)
-I'll give you everything (ooh) and more
+I'll give you everything (oh and more

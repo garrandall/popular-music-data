@@ -76,7 +76,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-10-23'
 ---
-Ooh
+Oh
 Something's got a hold on me now
 It's a feelin', burnin' like a love on fire
 Hold me tight baby

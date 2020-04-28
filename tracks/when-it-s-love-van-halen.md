@@ -113,9 +113,6 @@ It's just something you feel together
 (Oh oh oh oh) You can feel it, yeah!
 (Oh oh oh oh) Nothing's missing, yeah!
 
-
-
-
 (Oh oh oh oh) Yeah, you can feel it
 (Oh oh oh oh) Oh, when it's love
 (Oh oh oh oh) When nothing's missing, ow!
@@ -123,11 +120,11 @@ It's just something you feel together
 
 How do I know when it's love?
 I can't tell you but it lasts forever
-Ooh, how does it feel when it's love?
+Oh, how does it feel when it's love?
 It's just something you feel together, hey!
 How do I know when it's love?
 I can't tell you but it lasts forever
-When it's love ooh, when it's love
+When it's love oh, when it's love
 Hey! It'll last forever
 
 
@@ -138,8 +135,8 @@ When it's love
 (Na na na-ah na na)
 You and I, we're gonna feel this thing together
 (Na na na-ah na na)
-When it's love, ooh
+When it's love, oh
 When it's love, baby
 You can feel it, yeah!
 We'll make it last forever
-Ooh-ooh, when it's love
+Oh-oh, when it's love

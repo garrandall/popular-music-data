@@ -42,7 +42,7 @@ We doin' such things
 We could wait longer than this
 Yes, you know you're one of these
 We can run through with the top chopped, yeah
-And the sundress down, ooh
+And the sundress down, oh
 
 
 And I know you wouldn't...

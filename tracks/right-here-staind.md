@@ -100,7 +100,7 @@ And if you chose to walk away I'd still be right here waiting
 Searching for the things to say to keep you right here waiting
 
 I hope you're not intending
-To be so condescending it's as much as i can take
+To be so condescending it's as much as I can take
 and you're so independent
 you just refuse to bend so I keep bending till I break
 

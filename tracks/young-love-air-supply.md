@@ -67,7 +67,3 @@ Take my thoughts away beyond the things we see
 Sometimes it seems just a word away
 You'll say oh how I really feel it should be
 
-
-
-
-

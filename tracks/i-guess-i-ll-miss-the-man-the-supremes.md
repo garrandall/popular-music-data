@@ -53,7 +53,7 @@ Some men outshine the sun
 Some men are simple, good men
 This man wasn't one
 
-Ooh
+Oh
 
 This man
 Wasn't one

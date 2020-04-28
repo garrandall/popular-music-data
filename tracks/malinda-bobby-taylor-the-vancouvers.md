@@ -77,7 +77,7 @@ Love me tenderly
 I love Malinda
 (Yeah, Malinda Malinda)
 (I love Malinda)
-Ooh, I love that girl (Yeah)
+Oh I love that girl (Yeah)
 
 Ain't gonna let no
 Jill or Jane or Brenda

@@ -104,9 +104,9 @@ I think about all the while
 That makes me smile
 
 You've got me shaking
-Ooh, sweet love you're making
-Ooh, love me, love me, baby
-Ooh, love me, love me, sweet baby
+Oh sweet love you're making
+Oh love me, love me, baby
+Oh love me, love me, sweet baby
 Love me, oh, oh
 
 (I've got a love hangover)

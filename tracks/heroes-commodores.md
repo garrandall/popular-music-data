@@ -71,14 +71,14 @@ Heroes make the moon shine bright at night
 Heroes make our lives a little stronger
 All our fears go away when he's around
 
-Ooh...
-Ooh...
-Ooh...ooh...yeah
+Oh...
+Oh...
+Oh...oh...yeah
 
 Whoa, heroes make our lives a little stronger
 If you look you'll surely see there's you and me
 
-Ooh, heroes
+Oh, heroes
 I played on people
 
 

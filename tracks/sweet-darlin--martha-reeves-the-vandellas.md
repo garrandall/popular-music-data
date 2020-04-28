@@ -29,10 +29,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-30'
 ---
-Hmm hmmmm-mm-mmm (sweet darlin')
-Hmm hmmmm-mm-mmm
-Hmm hmmmm-mm-mmm
-Hmm hmmmm-mm-mmm (sweet darlin')
+Hm hm-mm-mmm (sweet darlin')
+Hm hm-mm-mmm
+Hm hm-mm-mmm
+Hm hm-mm-mmm (sweet darlin')
 
 
 You're the brightest, warm sunshine that fills my every day
@@ -47,8 +47,8 @@ I'd walk a mile just to see your face
 And you can  in your embrace
 'Cause when you smile I'm a hopeless case, sweet darlin'
 
-Hmm hmmmm-mm-mmm, hmmm hmmmmm (sweet darlin')
-Hmm hmmmm-mm-mmm (sweet darlin')
+Hm hm-mm-mmm, hm hm (sweet darlin')
+Hm hm-mm-mmm (sweet darlin')
 Oh yes you are
 
 
@@ -64,8 +64,8 @@ I'm like a needle in a stack of hay
 Here I am and here I stay
 'Til milk runs out of the Milky Way, sweet darlin'
 
-Hmm hmmmm-mm-mmm, oh yes you are
-Hmm hmmmm-mm-mmm, (sweet darlin') oh yes you are
+Hm hm-mm-mmm, oh yes you are
+Hm hm-mm-mmm, (sweet darlin') oh yes you are
 
 
 You've got my mind in a ball and chains
@@ -75,7 +75,7 @@ I'd walk a mile just to see your face
 And you can  in your embrace
 'Cause when you smile I'm a hopeless case, sweet darlin'
 
-Hmm hmmmm-mm-mmm, (sweet darlin')
+Hm hm-mm-mmm, (sweet darlin')
 Oh yes you are!
-Hmm hmmmm-mm-mmm, (sweet darlin') oh yes you are
-Hmm hmmmm-mm-mmm
+Hm hm-mm-mmm, (sweet darlin') oh yes you are
+Hm hm-mm-mmm

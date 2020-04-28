@@ -40,7 +40,7 @@ You've got me now
 
 Been waiting for a lifetime for you
 Been breaking for a lifetime for you
-Wasn't lookin' for love 'til I found you (ooh na, na, ay)
+Wasn't lookin' for love 'til I found you (ohna, na, ay)
 For love, 'til I found you
 
 
@@ -59,11 +59,11 @@ You've got me now (now)
 
 Been waiting for a lifetime for you
 Been breaking for a lifetime for you
-Wasn't lookin' for love 'til I found you (ooh na, na, ay)
+Wasn't lookin' for love 'til I found you (ohna, na, ay)
 For love 'til I found you
 Been waiting for a lifetime for you
 Been breaking for a lifetime for you
-Wasn't lookin' for love 'til I found you (ooh na, na, ay)
+Wasn't lookin' for love 'til I found you (ohna, na, ay)
 For love 'til I found you
 
 
@@ -74,14 +74,14 @@ You've got me now
 
 Been waiting for a lifetime for you
 Been breaking for a lifetime for you
-Wasn't looking for love 'til I found you (ooh na, na, ay)
+Wasn't looking for love 'til I found you (ohna, na, ay)
 For love 'til I found you
 Been waiting for a lifetime for you
 Been breaking for a lifetime for you
-Wasn't looking for love 'til I found you (ooh na, na, ay)
+Wasn't looking for love 'til I found you (ohna, na, ay)
 For love 'til I found you
 
-Wasn't lookin' for love 'til I found you (ooh na, na, ay)
+Wasn't lookin' for love 'til I found you (ohna, na, ay)
 For love 'til I found you
 
 

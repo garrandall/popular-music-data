@@ -77,7 +77,7 @@ Or is it this dancing juice?
 Who cares baby
 I think I wanna marry you
 
-I'll go get a ring let the choir bells sing like oooh
+I'll go get a ring let the choir bells sing like oh
 So what you wanna do?
 Let's just run girl
 
@@ -100,10 +100,10 @@ Or is it this dancing juice?
 Who cares baby
 I think I wanna marry you
 
-Just say I doooooo-ooo uhu
+Just say I do uh-huh
 Tell me right now baby
 Tell me right now baby, baby
-Just say I doooooo-ooo uhu
+Just say I do uh-huh
 Tell me right now baby
 Tell me right now baby, baby
 

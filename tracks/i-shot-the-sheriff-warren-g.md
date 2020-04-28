@@ -101,13 +101,10 @@ I seem to maintain through this
 watch where ya kick it they'll put you in a twist
 and it aint nobody like my down ass hommie
 and tha police always tryin to pin some bullshit on me
-I keep away from fools 
+I keep away from fools
 they do crime and it attracts cops
 cops got guns and cuffs
 and cells to stuff you in
-
-
-
 
 
 They tryin' to stick with some bullshit that I did not do
@@ -126,9 +123,6 @@ I'm just tryin' to live my life today
 so I keep away from fools they do crime it attract cops
 cops got guns and cuffs
 and cells to stuff you in
-
-
-
 
 
 I shot the sheriff

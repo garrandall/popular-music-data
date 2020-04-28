@@ -73,7 +73,7 @@ A golden necklace and my heart I swear
 I promise you a million promises I'd do
 And they'll come true
 Oh love, I promise you
-(Ooh, ooh)
+(Oh oh
 Promise me love, promise me
 (Oh, promise me)
 You'll be my love eternally
@@ -86,7 +86,7 @@ A golden necklace and a ring to wear
 I promise you a million promises I'd do
 And they'll come true
 Oh love, I promise you
-(Ooh, ooh)
+(Oh oh
 Promise me love, promise me
 You'll be my love eternally
 (Oh, promise me)

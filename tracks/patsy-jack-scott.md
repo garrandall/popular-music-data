@@ -39,7 +39,7 @@ And teach you how to rock
 Now we're gonna (rock, Patsy, rock)
 We're gonna (roll, Patsy, roll)
 We're gonna (hop, Patsy, hop)
-We're gonna hmmm (ohhh! )
+We're gonna hm (oh! )
 I'm gonna show you how to swing
 I'm gonna teach you everything I know
 (Go, Patsy, go! )

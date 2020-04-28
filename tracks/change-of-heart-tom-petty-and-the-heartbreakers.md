@@ -75,10 +75,8 @@ You were the moon and sun
 Yer just a loaded gun now
 It gets me down
 
-(Chorus)
 
 Looks like we finally found the turning point
 Looks like it's time for me to kiss it goodbye
 Kiss it goodbye
 
-(Chorus)

@@ -127,14 +127,14 @@ I'm only human. Can't you see?
 I made, I made a mistake
 Please just look me in my face
 Tell me everything's okay
-'Cause I got it, ooh
+'Cause I got it, oh
 I'll never be like you
 
 I'm only human. Can't you see?
 I made, I made a mistake
 Please just look me in my face
 Tell me everything's okay
-'Cause I got it, ooh
+'Cause I got it, oh
 I'll never be like you
 
 How do I make you wanna stay?
@@ -150,14 +150,14 @@ I'm only human. Can't you see?
 I made, I made a mistake
 Please just look me in my face
 Tell me everything's okay
-'Cause I got it, ooh
+'Cause I got it, oh
 I'll never be like you
 
 I'm only human. Can't you see?
 I made, I made a mistake
 Please just look me in my face
 Tell me everything's okay
-'Cause I got it, ooh
+'Cause I got it, oh
 I'll never be like you
 
 I'm falling on my knees
@@ -174,14 +174,14 @@ I'm only human. Can't you see?
 I made, I made a mistake
 Please just look me in my face
 Tell me everything's okay
-'Cause I got it, ooh
+'Cause I got it, oh
 I'll never be like you
 
 I'm only human. Can't you see?
 I made, I made a mistake
 Please just look me in my face
 Tell me everything's okay
-'Cause I got it, ooh
+'Cause I got it, oh
 I'll never be like you
 
 Baby, baby, please believe me

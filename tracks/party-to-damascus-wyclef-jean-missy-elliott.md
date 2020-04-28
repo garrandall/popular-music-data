@@ -121,9 +121,6 @@ Like Diddy make you walk for cheesecakes to the city (woo)
 Rough chick, dirty jeans, ain't nothing pretty (uh)
 Me and Clef stepping to the mic to get busy (c'mon)
 
-
-
-
 (uh oh) Yeah, hey yo Clef
 (uh oh) Uh oh
 

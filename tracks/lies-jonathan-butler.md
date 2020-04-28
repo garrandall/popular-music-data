@@ -66,7 +66,7 @@ rankings:
 ---
 
 Ah, ah, yeah
-(Lies, lies) ooh, baby (lies)
+(Lies, lies) oh baby (lies)
 Well, well
 
 We took a vow to be ever true
@@ -102,7 +102,7 @@ With your lies (lies) wish I
 Could have seen it in your eyes
 (Lies) but I never did (no, I never did)
 
-Ooh, lies (lies) it took so long
+Oh lies (lies) it took so long
 For me to realize (lies)
 But I was too caught up
 In your web of lies

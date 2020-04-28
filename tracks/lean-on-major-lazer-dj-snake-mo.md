@@ -219,7 +219,7 @@ We need someone to lean on
 Blow a kiss, fire a gun
 All we need is somebody to lean on
 
-(Eeh ooh, eeh ooh, eeh ooh, eeh ooh) 
+(Eeh oh, eeh oh, eeh oh, eeh oh)
 
 What will we do when we get old?
 Will we walk down the same road?
@@ -237,9 +237,9 @@ We need someone to lean on
 Blow a kiss, fire a gun
 All we need is somebody to lean on
 
-(Eeh ooh, eeh ooh, eeh ooh, eeh ooh) 
+(Eeh oh, eeh oh, eeh oh, eeh oh)
 All we need is somebody to lean on
-(Eeh ooh, eeh ooh, eeh ooh, eeh ooh) 
+(Eeh oh, eeh oh, eeh oh, eeh oh)
 All we need is somebody to lean on
 Lean on, lean on, lean on, lean on...
 

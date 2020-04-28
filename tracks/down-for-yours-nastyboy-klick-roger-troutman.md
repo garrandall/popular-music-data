@@ -78,10 +78,10 @@ rankings:
   start_date: '1997-11-29'
 ---
 Down for yours if you're down for mine
-Ooooooo....
+Ooooooo...
 Nastyboy Klick, I would die for you
 Down for yours if you're down for mine
-Ooooooo....
+Ooooooo...
 Nastyboy Klick, are you down for your dj?
 Down for yourz if you're down for mine
 
@@ -163,7 +163,7 @@ Most definitely you get the best of me at times
 If lovins what I need
 You supply all kinds
 I see your brown eyes scheming from across the room
-Checking me out but you look away....
+Checking me out but you look away...
 No reason to gaze
 Look where the game
 Competitions the same
@@ -177,7 +177,7 @@ Roaming through ecstasy
 
 
 
-Down for yours, down for mine, OoOoOo....
+Down for yours, down for mine, OoOoOo...
 Down for yours if you're down for mine
 More bounce for my G's
 You're my computer love

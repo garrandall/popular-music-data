@@ -170,7 +170,7 @@ Can't believe how many years
 Tha baddest bitch put up witch yo dusty ass (Yeah)
 Now you know that im tha queen of Miami (Uh huh)
 All that loud talkin, lying
-Save that shit for ya mami (Ha..Ha)
+Save that shit for ya mami (Ha...Ha)
 Sounds like blah, blah, blah, blah, blah, blah, blah (talk too much)
 Im like uh huh, okay, wassup, shut up
 

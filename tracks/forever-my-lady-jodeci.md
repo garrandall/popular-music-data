@@ -118,19 +118,19 @@ I'm holding you close
 You're keeping me warm
 If this is ecstacy
 Forever my lady
-I say just what i mean
+I say just what I mean
 Forever and ever
-I pray is what i see
+I pray is what I see
 
 Can you picture my lady
 This empty scene
 There's no me or no you
 What will we do
 An awful sight to me
-If i ever lose you
-Tell me where would i go
+If I ever lose you
+Tell me where would I go
 Life would have no meaning
-And i pray that you will always stay with me
+And I pray that you will always stay with me
 
 You and i
 Would never fall apart, baby
@@ -148,15 +148,15 @@ I'm holding you close
 You're keeping me warm
 If this is ecstacy
 Forever my lady
-I say just what i mean
+I say just what I mean
 Forever and ever
-I pray is what i see
+I pray is what I see
 
 Lady, you and i
 Will never fall apart,no no
 You and i
 I say we made it
-And i say we made it from the start
+And I say we made it from the start
 The day
 We fell so far in love
 Now our baby is born
@@ -166,8 +166,8 @@ Yeahhhhhh
 Forever my lady
 Ah yeah, baby
 Forever my lady
-Woo oooh
-Said i pray every night, baby
+Woo oh
+Said I pray every night, baby
 Forever my lady
 And every day of the week
 

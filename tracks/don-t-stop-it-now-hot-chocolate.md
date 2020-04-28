@@ -48,7 +48,7 @@ Give me give me all you can
 And I want more and more if I can get it
 Baby your sweet sweet kind of love I've got to have it
 
-Keep on giving it to me . . 
+Keep on giving it to me . .
 
 Darling-mad about you darling don't stop it now
 This night must last forever and if you leave me now

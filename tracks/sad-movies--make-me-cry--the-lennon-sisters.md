@@ -59,6 +59,6 @@ I just said "sa-a-a-d movies make me cry"
 Oh-oh-oh sa-a-a-d movies always make me cry
 Oh-oh-oh sa-a-a-d movies always make me cry
 
-Ooh, ooh, ooh, ooh, ooh
-Ooh, ooh, ooh, ooh
+Oh, oh oohohohhoh
+Oh, oh oohohoh
 Sa-a-a-d movies make me cry-i-i

@@ -53,7 +53,7 @@ rankings:
   start_date: '1981-11-21'
 ---
 We went together for so long
-Ev'ry second record on the radio seemed like our song
+Every second record on the radio seemed like our song
 How we hurt each other; oh baby it was so wrong
 Something in the bottom of my heart will keep me holding on
 
@@ -68,14 +68,6 @@ We were lovers for so long
 Every second record on the radio seemed like our song
 Even though we're older, things we're feeling can't be all wrong
 Something in the bottom of my heart will keep me holding on
-
-'cause you....(repeat chorus)
-..............I'll never have to make it alone
-Saved my soul; saved my soul
-Saved my soul; saved my soul
-
-You saved my soul....(repeat chorus)...
-...............never have to make it alone
 
 Yes if I have you now I'll never have to make it alone
 Yes if I have you now I'll never have to make it alone

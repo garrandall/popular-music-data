@@ -155,6 +155,3 @@ Keep feeling fascination
 Looking, learning
 Moving on
 
-
-
-

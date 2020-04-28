@@ -135,7 +135,7 @@ You'll believe God is a woman
 (Yeah)
 I tell you all the things you should know
 So baby, take my hands, save your soul
-We can make it last, take it slow, hmm
+We can make it last, take it slow, hm
 And I can tell that you know I know how I want it, yeah
 But you're different from the rest
 And boy, if you confess, you might get blessed

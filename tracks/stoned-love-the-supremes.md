@@ -73,8 +73,8 @@ If you'll just believe
 
 Stoned love
 (Stoned love)
-Mm-hmm
-Mm-hmm
+Mm-hm
+Mm-hm
 Stoned love
 Oh, yeah
 
@@ -86,10 +86,10 @@ Oh, yeah, I find no other greater symbol of this love
 
 
 Yeah, don't you hear the wind blowin'?
-Mm-hmm
+Mm-hm
 Stoned love, oh, yeah
 I tell you, I ain't got no other
-Mm-hmm
+Mm-hm
 Stoned love, oh, yeah
 
 
@@ -104,8 +104,8 @@ Stoned love
 I tell you, I ain't got no other
 Uh-huh
 Stoned love, oh, yeah
-Ooh, ooh, ooh
-Ooh (Ooh, ooh, ooh)
+Oh, oh ooh
+Oh (Oh, oh oooh
 
 
 If a war 'tween our nations passed, oh, yeah
@@ -116,16 +116,16 @@ On and on and on and on and
 Mm, mm, mm
 Stoned love, yeah
 I tell you, I ain't got no other
-Mm-hmm
+Mm-hm
 Stoned love
 Can't you, can't you, can't you, can't you, can't you feel it?
-Mm-hmm
+Mm-hm
 Stoned love
 Oh, yeah, stoned, stoned, stoned, stoned
-Mm-hmm
+Mm-hm
 Stoned love
 Oh, yeah, yeah, yeah, yeah, yeah, yeah
 Uh-huh
 Stoned love
 Oh, yeah, yeah, uh-huh
-Mm-hmm
+Mm-hm

@@ -77,13 +77,12 @@ rankings:
   start_date: '1995-03-11'
 ---
 So what you gonna do when you get outta' here cat da'
-Face: I don't know, tryin' to live it one day at a time you know
-(Cough, cough)I here you talkin' man, live it one day at a time it ain't nothin' but a thang tho bro'
-Face: Yeah, I here you fool well let me get up outta here my ride out here waitin' for me
-A'ight catty take it easy baby
-Face: Stay up fool
+I don't know, tryin' to live it one day at a time you know
+I here you talkin' man, live it one day at a time it ain't nothin' but a thang tho bro'
+Yeah, I here you fool well let me get up outta here my ride out here waitin' for me
+Alright catty take it easy baby
+Stay up fool
 
-Verse 1:
 He greets his father with his hands up
 Rehabilitated slightly, glad to be the mans child
 The world is different since he seen it last
@@ -107,10 +106,6 @@ I never understood why
 I could never see a man cry
 Until I see a man die
 
-Chorus:
-Face: A man cry
-
-Verse 2:
 Imagine life at its full peak
 Then imagine lyin' dead in the arms of your enemy
 Imagine peace on this earth where there's no grief
@@ -127,9 +122,7 @@ You'll be headed to another place
 And the life you used to live will reflect in your momma's face
 I still gotta' wonder why
 I never seen a man cry
-Untill I seen a man die
-
-Chorus: 2x
+Until I seen a man die
 
 I hear you breathin' but your heart no longer sounds strong
 But you're kinda scared of diein' so you hold on
@@ -150,7 +143,3 @@ There lies a man not scared to die may he rest in peace
 I still got to wonder why
 I never seen a man cry
 'Till I seen that man die
-
-Chorus: 3x (fades out)
-
-(Tv flipping channels, dishes clashing)

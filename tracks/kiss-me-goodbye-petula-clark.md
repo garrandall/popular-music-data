@@ -52,10 +52,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-04-27'
 ---
-We choose it..win or lose it
+We choose it...win or lose it
 Love is never quite the same
-I love you..now Ive lost you
-Dont feel bad..your not too late
+I love you...now Ive lost you
+Dont feel bad...your not too late
 
 So kiss me goodbye
 And I'll try not to cry
@@ -66,7 +66,7 @@ Soon your heart will be leving me behind
 
 Linger awhile...then I'll go with a smile
 Like a friend who just happened to call
-For the last time..pretend you are mine
+For the last time...pretend you are mine
 My darling...kiss me goodbye
 
-My darling..kiss me goodbye
+My darling...kiss me goodbye

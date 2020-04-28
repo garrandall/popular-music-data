@@ -29,7 +29,7 @@ I seemed to push them away
 
 
 That's real life, oh oh oh
-Real life, ooh
+Real life, oh
 Mama talking that real life, oh oh oh
 That real life, real life, real life, real life
 
@@ -47,7 +47,7 @@ I seemed to push them away
 
 
 That's real life, oh oh oh
-Real life, ooh
+Real life, oh
 Mama talking that real life, oh oh oh
 That real life, real life, real life, real life
 
@@ -61,10 +61,10 @@ I'm better off when I'm alone
 
 
 That's real life, oh oh oh
-Real life, ooh
+Real life, oh
 Mama talking that real life, oh oh oh
 That real life, real life, real life, real life
 That's real life, oh oh oh
-Real life, ooh
-Mama talking that real life, oh oh oh (ooh mama!)
+Real life, oh
+Mama talking that real life, oh oh oh (oh mama!)
 Yeah, yeah, real life, real life, real life, real life

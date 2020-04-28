@@ -113,7 +113,7 @@ I need a job, I'm out of work
 I'm unemployed, I'm out of work
 I need a job, I'm out of work
 
-Ooh, I'm out of work
+Oh, I'm out of work
 I'm out of work
 I'm out of work
 I'm out of work

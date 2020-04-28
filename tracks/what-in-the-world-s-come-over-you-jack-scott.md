@@ -74,12 +74,12 @@ rankings:
 ---
 What in the world's come over you?
 Seems we never get along
-(Ooh, ah, ah, ah)
+(Oh, ah, ah, ah)
 Every night
 I reminisce dreaming of your tender kisses
 
 What in the world's come over you?
-(Wah, wah, ooh)
+(Wah, wah, oh)
 Could you ever change your mind?
 (Ah, ah, ah)
 If you do, I'll still be here, dear
@@ -106,7 +106,7 @@ My heart, it cries, "It's just not right"
 Oh, oh, oh
 
 What in the world's come over you?
-(Wah, wah, ooh)
+(Wah, wah, oh)
 You're still my angel from above
 (Ah, ah, ah)
 Guess, you'll always be my one

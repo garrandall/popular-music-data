@@ -144,22 +144,13 @@ Hot damn!
 Let me put my funk on this one time
 
 
-
-
-
-
-
-
-
-
-
 Those flashing lights come from everywhere
 The way they hit her I just stop and stare
 She's got me love stoned
 I think I'm love stoned
 She's got me love stoned
 
-I think that she knows, think that she knows, oh, oh 
+I think that she knows, think that she knows, oh, oh
 
 Those flashing lights come from everywhere
 The way they hit her I just stop and stare

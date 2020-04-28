@@ -46,7 +46,7 @@ Saying you and me baby
 Would make a good combination
 There's no need for looking to the stars
 Can't you see the stars shine in my eyes
-I love you boy, i really love you boy
+I love you boy, I really love you boy
 No matter what sign you are
 You're gonna be mine you are
 Can't let astrology chart our destiny
@@ -56,7 +56,7 @@ The beat of the heart my love
 Is stronger than the charts my love
 Your water sign just lit my fire
 You fill me with such desire
-I love you boy, i really love you boy
+I love you boy, I really love you boy
 No matter what sign you are
 You're gonna be mine you are
 Can't let astrology chart our destiny
@@ -68,7 +68,7 @@ Capricorn, scorpio, taurus, gemini, virgo
 Cancer, pieces, leo, libra, aries,
 Aquarius, sagitarius
 I don't care about your rising sign
-All i know is when your lips touch mine
+All I know is when your lips touch mine
 You move me boy, you really move me boy
 No matter what sign you are
 You're gonna be mine you are

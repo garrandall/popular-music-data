@@ -101,7 +101,7 @@ My girl, yeah
 Yeah, that's my girl in the passenger seat
 Windows down, dancing around, causing a scene
 That's my girl, sipping Crown and Sprite
-In a ball cap, turned back, ooh, she got me like
+In a ball cap, turned back, oh, she got me like
 Yeah, baby girl, you gone and done it again
 Making all the guys wishin’ you were with them
 But I bet they don't see what I see when I see my girl
@@ -117,7 +117,7 @@ I just thank Him for my girl, yeah
 Yeah, that's my girl in the passenger seat
 Windows down, dancing around, causing a scene
 That's my girl, sipping Crown and Sprite
-In a ball cap, turned back, ooh, she got me like
+In a ball cap, turned back, oh, she got me like
 Yeah, baby girl, you gone and done it again
 Making all the guys wishin’ you were with them
 But I bet they don't see what I see when I see my girl
@@ -136,7 +136,7 @@ My girl
 That's my girl in the passenger seat
 Windows down, dancing around, causing a scene
 That's my girl, sipping Crown and Sprite
-In a ball cap, turned back, ooh, she got me like
+In a ball cap, turned back, oh, she got me like
 Yeah, baby girl, you gone and done it again
 Making all the guys wishin’ you were with them
 But I bet they don't see what I see when I see my girl

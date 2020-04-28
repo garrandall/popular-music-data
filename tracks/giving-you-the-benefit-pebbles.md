@@ -114,7 +114,7 @@ And I'll be giving you a minute to try to work it all out
 Baby work it all work it all out
 (Work, work, work)
 Baby work it all work it all out
-(Work, work, work) ooh
+(Work, work, work) oh
 
 Baby how could you be hangin' out on a diamond queen
 Ain't you missin' me poor little me

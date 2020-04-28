@@ -101,9 +101,6 @@ Breaking up is never easy, I know, but I have to go
 (I have to go, this time I have to go, this time I know)
 Knowing me, knowing you, it's the best I can do
 
-
-
-
 Knowing me, knowing you, aha
 There is nothing we can do
 Knowing me, knowing you, aha

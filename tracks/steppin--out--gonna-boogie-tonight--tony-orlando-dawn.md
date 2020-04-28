@@ -93,7 +93,7 @@ Dancing and singing love songs 'til the dawn's early light
 Oh, I'm steppin' out, Ma, I'm gonna boogie tonight
 
 Dancing and singing, don't worry, I'll be alright
-I'm steppin' out tonight, ooh, dancing and singing
+I'm steppin' out tonight, oh dancing and singing
 
 
 

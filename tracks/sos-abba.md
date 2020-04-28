@@ -99,9 +99,6 @@ The love you gave me, nothing else can save me, S.O.S
 When you're gone, how can I even try to go on?
 When you're gone, though I try, how can I carry on?
 
-
-
-
 So when you're near me, darling, can't you hear me? S.O.S
 And the love you gave me, nothing else can save me, S.O.S
 When you're gone, how can I even try to go on?

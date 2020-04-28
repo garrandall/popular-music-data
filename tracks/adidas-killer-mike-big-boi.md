@@ -102,12 +102,9 @@ What's up, what's up this me
 Hey let me get about three of them blue diamonds
 I promise I got you tomorrow
 
-
-
-
 When I drill, I don't spill, even if she's on the pill
 Keep my weapon covered, concealed, and in a shield
-Cause I dont need that A-I-D-S
+Cause I don't need that A-I-D-S
 A D and an A missin' out my ADIDAS
 PLUS, We don't need no DNA mixin' between us
 We just need to keep this thing friendly and hush hush
@@ -119,8 +116,4 @@ We can jump each others bones but there's no jumpin' brooms
 
 Buffoon you are too consumed in the womb
 It is too early for you to jump the broom, BOOM
-
-
-
-
 

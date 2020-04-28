@@ -101,7 +101,7 @@ Go on girl
 Go on girl
 Go on girl
 (Go on girl)
-Hey, ooh
+Hey, oh
 
 
 Please don't worry bout me I'm fine

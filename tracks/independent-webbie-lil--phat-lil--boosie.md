@@ -112,11 +112,11 @@ rankings:
 ---
 
 
-Independent do you know what that mean? 
+Independent do you know what that mean?
 She got to her own house
 She got her own car
 Two jobs work hard you a bad broad
-If you ain't on sit down 
+If you ain't on sit down
 
 
 Independent do you know what that mean?
@@ -164,9 +164,6 @@ Staying young hair long she a nice something
 Like to go to the mall everyday for an outfit
 Hair did, nails did, independent what she call it
 
-
-
-
 She got her own house
 Drive her own whip
 Range rover all white... like her toe tips
@@ -177,7 +174,7 @@ They superstars to
 They be like you ain't got no money take you broke tail home
 In baby phat they on
 They cloths match they phone
-They be like YEAH!!! when they song come on
+They be like YEAH! when they song come on
 Leave the club kinda early
 'cause they gotta go to work
 I mess with supervisors who got credit like they perfect
@@ -186,8 +183,4 @@ I got independent dimes on my mind...who spoil me
 Gucci hat...Gucci fit so sick
 That's a gift from my independent chick that serve
 Tryna get me next to her gotta be yourself mayne 'cause she got her own money she don't need no help mayne.
-
-
-
-
 

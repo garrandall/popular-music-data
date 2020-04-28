@@ -97,9 +97,9 @@ She knows me better than I know myself
 
 Let me tell you
 'bout the way she loves me
-Ooh, I'm proud to let it show
+Oh I'm proud to let it show
 I'm crazy about the way she loves me
-Ooh, I want the world to know
+Oh I want the world to know
 Yeah, yeah, yeah
 
 Came close to letting this train pass me by

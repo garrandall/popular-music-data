@@ -100,7 +100,7 @@ Still I got to stick to my girls like glue
 And I man nah play number two
 All I know the time it is getting dread
 Need alot of trees up in my head
-Got alot of damsel in my bed to run dat re-eeeddd!!!!
+Got alot of damsel in my bed to run dat re-eeeddd!
 
 
 Well enough likkle girl dem bought they own dem got di goody goody
@@ -132,9 +132,6 @@ And I don't mean to brag everyday I got to shag
 Gimme di gal dem, everytime I look inna my mind
 It's only girls dat weh mi find and true mi love dem design
 
-
-
-
 Some guy a live dem life and dem nuh really waan check it
 Dem have nuh girl nuh wife nuh woman dem nah select it
 Sometime mi haffi wonder if dem headset dem wreck it
@@ -147,8 +144,4 @@ Look like dem lost, living in di past
 One ting mi haffi tell dem sorry Ma
 Dem better move fast, before we get crossed
 Badman nuh cater fi dem just because, mi go so then
-
-
-
-
 

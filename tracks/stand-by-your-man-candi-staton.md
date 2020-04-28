@@ -77,7 +77,7 @@ You'll forgive him
 Oh, oh, oh, even though
 He's hard to understand
 
-Mmm hmm, if you love him
+Mmm hm, if you love him
 Be proud of him
 'Cause after all
 He's just a man

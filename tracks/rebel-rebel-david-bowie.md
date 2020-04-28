@@ -90,7 +90,7 @@ Hot tramp, I love you so
 
 
 Don't ya?
-Ooh!
+Oh
 Doo doo doo-doo doo doo-doo doo
 Doo doo doo-doo doo doo-doo doo
 
@@ -119,7 +119,7 @@ Where'd you wanna go?
 What can I do for you? Looks like you've been there too
 'Cause you've torn your dress
 And your face is a mess
-Ooh, your face is a mess
-Ooh, ooh, so how could they know?
+Oh your face is a mess
+Oh oh so how could they know?
 Ah, ah, how could they know?
 Ah, ah

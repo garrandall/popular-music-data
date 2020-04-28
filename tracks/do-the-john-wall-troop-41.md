@@ -61,7 +61,7 @@ I play hard until I hear the ref blow the whistle
 I'm a player but my game be so official
 Never reach got to stay out of foul trouble
 But I drive in the lane, get them in foul trouble
-They cant solve my game I'm a hard puzzle
+They can't solve my game I'm a hard puzzle
 But I keep three dimes that's a triple double
 
 Raleigh be the city where we like to do the dance

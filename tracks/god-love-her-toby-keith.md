@@ -143,7 +143,7 @@ She holds tight to me and the Bible
 On the back seat of my motorcycle
 Left her daddy standin' there
 Preachin' to the choir
-You see....God love her
+You see...God love her
 Oh me and God love her
 
 Now she holds tight to me and the Bible

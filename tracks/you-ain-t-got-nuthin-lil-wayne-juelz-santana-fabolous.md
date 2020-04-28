@@ -59,7 +59,7 @@ But you ain't got nothing on me
 I'm on the grind 'til the police come
 With that pistol on my side, boy, don't be dumb
 Or, I let that semi twirl you, now you can follow the drip
-'Cause one shot outta the clip'll jheri curl ya (ooh)
+'Cause one shot outta the clip'll jheri curl ya (oh)
 Leave you sloppy like seconds, obey me like peasants
 Or get opened up like presents, please
 My young boys wildin' for respect

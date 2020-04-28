@@ -93,12 +93,12 @@ Don't tell your friends about the two of us
 I'm not in love, no, no, just because
 (There's something about the way she makes me feel)
 
-Ooh, you wait a long time for me
-Ooh, you wait a long time
+Oh, you wait a long time for me
+Oh, you wait a long time
 
 Just because
-Ooh, you wait a long time for me
-Ooh, you wait a long time
+Oh, you wait a long time for me
+Oh, you wait a long time
 
 I keep your picture upon the wall
 It hides a nasty stain that's lyin' there

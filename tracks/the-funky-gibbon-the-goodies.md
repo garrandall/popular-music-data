@@ -35,13 +35,13 @@ Doing a dance
 That could be the rage
 It's not hard
 So let's all do the funky gibbon
-Ooo, ooo, ooo
+Ooo, oo, oo
 
 Do, do, do the funky gibbon
 (The funky gibbon)
 We are here to show you how
-Ooo, ooo, ooo
-Ooo, ooo, ooo, the funky gibbon
+Ooo, oo, oo
+Ooo, oo, oo, the funky gibbon
 He's just like you
 So come on and do
 The funky gibbon now
@@ -61,15 +61,15 @@ Gibbon half a chance
 Do, do, do the funky gibbon
 (The funky gibbon)
 We are here to show you how
-Ooo, ooo, ooo
-Ooo, ooo, ooo, the funky gibbon
+Ooo, oo, oo
+Ooo, oo, oo, the funky gibbon
 (The funky gibbon)
 He's just like you
 So come on and do
 The funky gibbon now
 
-Ooo, ooo, the funky gibbon
-Ooo, ooo, ooo the funky gibbon
+Ooo, oo, the funky gibbon
+Ooo, oo, oo the funky gibbon
 
 G the world would be good
 I know how nice it could
@@ -81,18 +81,18 @@ Dance up to the planet of apes
 
 Do, do, do the funky gibbon
 We are here to show you how
-Ooo, ooo, ooo
-Ooo, ooo, ooo, the funky gibbon
+Ooo, oo, oo
+Ooo, oo, oo, the funky gibbon
 (The funky gibbon)
 He's just like you
 So come on and do
 The funky gibbon now
 
-Ooo, ooo, the funky gibbon
-Ooo, ooo, ooo the funky gibbon
+Ooo, oo, the funky gibbon
+Ooo, oo, oo the funky gibbon
 
-Ooo, ooo, the funky gibbon
-Ooo, ooo, ooo the funky gibbon
+Ooo, oo, the funky gibbon
+Ooo, oo, oo the funky gibbon
 
 Now everybody get ready
 To do the funky gibbon
@@ -105,34 +105,34 @@ Like a bad baboon
 Get ready to sing
 This gibbon's tune
 
-Will you give me an ooo
+Will you give me an oo
 (Ooo)
-Will you give me another ooo
+Will you give me another oo
 (Ooo)
-And will you give me an ooo
+And will you give me an oo
 (Ooo)
 Now put 'em together
 What've you got
-(Ooo, ooo, ooo)
+(Ooo, oo, oo)
 
 Do, do, do the funky gibbon
 We are here to show you how
-Ooo, ooo, ooo
-Ooo, ooo, ooo, the funky gibbon
+Ooo, oo, oo
+Ooo, oo, oo, the funky gibbon
 (The funky gibbon)
 He's just like you
 So come on and do
 The funky gibbon now
 
-Ooo, ooo, the funky gibbon
-Ooo, ooo, ooo the funky gibbon
+Ooo, oo, the funky gibbon
+Ooo, oo, oo the funky gibbon
 
-Ooo, ooo, the funky gibbon
-Ooo, ooo, ooo the funky gibbon
+Ooo, oo, the funky gibbon
+Ooo, oo, oo the funky gibbon
 
 He promised to buy me
 A bunch of blue gibbons
 To tie up my bonny brown
 
-Ooo, ooo, the funky gibbon
+Ooo, oo, the funky gibbon
 The funky gibbon

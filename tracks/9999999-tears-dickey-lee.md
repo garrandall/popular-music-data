@@ -57,7 +57,6 @@ Falling from my eyes
 I'm beginning to feel the pain
 Seeing nothing but clouds in the sky
 
-Chorus:
 Got 9, 999, 999 tears to go
 And then I don't know if I'll be over you
 When I be over you
@@ -70,5 +69,3 @@ I can't believe you could want anybody else
 So no one could take my place
 At least that's what I've been telling myself
 As the tears fall down my face
-
-Repeat chorus

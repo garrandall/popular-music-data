@@ -40,7 +40,7 @@ Someday, you can be mine forever
 In my dreams
 Wakin' up next to you
 And walkin' around with my head on the ceiling
-I'm in love, ooohh, what a feelin'
+I'm in love, oh, what a feelin'
 
 Ah honey, it's such a good feeling, oh
 That is such a good feelin', oh
@@ -58,7 +58,7 @@ And someday, you can be mine forever
 Yes sometimes I can see it all in my dreams
 Just how it's gonna be
 You'll be a mother and I'll be one of the children
-I'm in love, but ohhh, what a feelin'
+I'm in love, but oh, what a feelin'
 Oh honey, it's such a good feelin'
 Girl you're gonna be mine forever
 I just love you girl

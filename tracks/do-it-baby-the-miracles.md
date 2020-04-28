@@ -91,10 +91,10 @@ Can't nobody groove me
 Can't nobody move me like you do
 Like you do oo
 Girl you build me up now when I'm gettin down
-Down down with you ooh
+Down down with you oh
 Do it-do-it-do-it-do-it
 Do it baby Do it Do it baby Do it baby
-Ooh, how you get me, yeah
+Oh, how you get me, yeah
 Don't you know
 Can't nobody groove me
 Can't nobody move me like you do

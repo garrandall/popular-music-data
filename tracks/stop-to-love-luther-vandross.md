@@ -88,7 +88,7 @@ Lately love keeps keeping me wake at night
 Tossing and turning, my love
 Wanna kiss, wanna hold you so tight
 
-Ooh, but I wonder love
+Oh, but I wonder love
 Whether you know or not
 When you just hurry away
 Leaving me laying there in shock

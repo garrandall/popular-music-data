@@ -26,7 +26,7 @@ I'll do anything you say
 You got lips
 I wish that they would ask me to stay here
 Huh-huh
-Uh-huh-huh, ooh mama, uh-huh-huh
+Uh-huh-huh, ohmama, uh-huh-huh
 
 Hey girl
 I'll do anything you choose
@@ -34,7 +34,7 @@ I'll do anything you choose
 Say the word
 I think you'll find me willing to stay here
 
-Uh-huh-huh, ooh mama, uh-huh-huh
+Uh-huh-huh, ohmama, uh-huh-huh
 
 It's the same old story
 Gotta catch 'em on the fly
@@ -52,7 +52,7 @@ Why don't you take a chance?
 You sure sound silly when you talk about romance
 But, late at night, I think that it might really be the answer!
 
-Uh-huh-huh, ooh mama, uh-huh-huh
+Uh-huh-huh, ohmama, uh-huh-huh
 
 It's the same old story
 Gotta catch 'em on the fly
@@ -70,6 +70,6 @@ But I'll take two lumps
 A doughnut and a cookie
 Oh, and would you ask me to stay here?
 
-Uh-huh-huh, ooh mama, uh-huh-huh
-Uh-huh-huh, ooh mama, uh-huh-huh
-Uh-huh-huh, ooh mama, uh-huh-huh
+Uh-huh-huh, ohmama, uh-huh-huh
+Uh-huh-huh, ohmama, uh-huh-huh
+Uh-huh-huh, ohmama, uh-huh-huh

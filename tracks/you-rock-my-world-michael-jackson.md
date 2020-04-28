@@ -117,9 +117,9 @@ Stay with me, fulfill my dreams
 And I'll be all you'll need
 
 
-Oh, oh, oh, oh, ooh, it feels so right (Girl)
+Oh, oh, oh, oh, oh, it feels so right (Girl)
 I've searched for the perfect love all my life (All my life)
-Oh, oh, oh, oh, ooh, it feels like I (Like I)
+Oh, oh, oh, oh, oh, it feels like I (Like I)
 Have finally found her perfect love is mine (See)
 And I finally found, come on, girl
 
@@ -189,7 +189,7 @@ The way you talk to me, the way you're lovin' me
 The way you give it to me
 You rocked my world, you know you did
 (Give it to me)
-(Yeah, yeah, yeah yeah ooh)
+(Yeah, yeah, yeah yeah oh)
 You rocked my world (You rocked my world), you know
 You did
 (You rocked my world, you rocked my world)

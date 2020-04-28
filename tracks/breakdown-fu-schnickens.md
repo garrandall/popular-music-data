@@ -133,7 +133,7 @@ The flow will break you down
 Bet the flow will break you down
 
 
-Ah, ah, aah, achoo!
+Ah, ah, ah, achoo!
 What to do? Timbuck-one, timbuck-two
 I can't see a t'ing like Mr. Magoo
 The sniffling, huh-huh-ha
@@ -147,7 +147,7 @@ And I rips up many tracks, jumpin' Jehoshaphat
 Don't make a sound, I see you wabbit
 Tracks, like thunder and lightning
 My style frightening, can't you tell?
-I'm loco, ooh, they don't know me very well, so
+I'm loco, oh, they don't know me very well, so
 I lumps 'em, eeh, bruise 'em with black eyes and stitches
 They're mad, keeh, 'cause we went from rags into riches
 Now my scruples, I lose 'em

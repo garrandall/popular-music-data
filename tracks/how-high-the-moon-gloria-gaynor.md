@@ -45,7 +45,7 @@ How near, how far
 The brightest night would shine
 If you would come to me soon
 Until you will
-Ooh, how still
+Oh, how still
 My aching heart
 How high the moon
 
@@ -56,7 +56,7 @@ How high the moon
 The brightest night would shine
 If you would come to me soon
 Until you will
-Ooh, how still
+Oh, how still
 My aching heart
 How high the moon
 

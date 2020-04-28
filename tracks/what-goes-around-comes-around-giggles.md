@@ -120,7 +120,6 @@ Now I'll get over you
 But someday you will get yours too
 Tell him why girlfriend
 
-Chorus (2x)
 
 Girl:
 What goes around, comes around
@@ -144,4 +143,3 @@ Don't go putting the blame on me
 
 Tell him why girlfriend
 
-Chorus (3x)

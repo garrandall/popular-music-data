@@ -122,7 +122,3 @@ A lesson to be learned
 Travelling twice the speed of sound
 It's easy to get burned
 
-
-
-
-

@@ -75,7 +75,7 @@ Yes, my name is Roman, last name is Zolanski
 But no relation to Roman Polanski
 Hey, yo Baby Bop, fuck you and your EP
 Who's gassin' this ho? BP?
-Hmm... thinks
+Hm... thinks
 One, two, three, do the Nicki Minaj blink
 These hoes so busted, hoes is so crusty
 These bitches is my sons and I don't want custody

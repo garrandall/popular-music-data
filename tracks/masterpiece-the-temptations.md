@@ -76,7 +76,7 @@ It`s a challenge just staying alive
 `Cause in the ghetto only the strong survive
 
 Money I ain`t got none, job can`t find one
-The streets raised me from a baby, ooh
+The streets raised me from a baby, oh
 Thousands of lives wasting away
 People living from day to day
 It`s a challenge just staying alive

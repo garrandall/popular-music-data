@@ -12,7 +12,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
 ---
-Ooh, I'm startin' over
+Oh, I'm startin' over
 Stackin' in it, it was the top, now are you alright?
 I'm quite alright, damn, my money's right
 Yeah, ayy, yeah, it's quite alright
@@ -44,7 +44,7 @@ I pull up in that car just like it's stolen
 Yeah, I came a long way, came from the hallway
 I can't stop, keep goin'
 Yes, my life just feel like one long day, I just live in the moment
-Woah, ooh, comin' out just when the sun down
+Woah, oh, comin' out just when the sun down
 My boys, they ruthless like coupes and they really run down
 I got paper cuts from hundred dollar bills covered in bustdowns
 Countin' with my thumb now, money make me numb now

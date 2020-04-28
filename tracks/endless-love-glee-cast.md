@@ -14,121 +14,121 @@ rankings:
 ---
 
 
-My love, 
-There's only you in my life 
-the only thing that's right 
+My love,
+There's only you in my life
+the only thing that's right
 
 
-My first love 
-You're every breath that I take 
-you're every step I make 
+My first love
+You're every breath that I take
+you're every step I make
 
 
-And I 
+And I
 
 
-(And I-I-I) 
+(And I-I-I)
 
 
-I want to share 
+I want to share
 
 
-All my love with you 
+All my love with you
 
 
-No one else will do... 
+No one else will do...
 
 
-And your eyes 
+And your eyes
 
 
-Your eyes, your eyes 
+Your eyes, your eyes
 
 
-They tell me how much you care 
-Ooh yes, you will always be 
-My endless love 
+They tell me how much you care
+Oh yes, you will always be
+My endless love
 
-Two hearts, 
-Two hearts that beat as one 
-Our lives have just begun 
-
-
-And Forever 
+Two hearts,
+Two hearts that beat as one
+Our lives have just begun
 
 
-(oooo) 
+And Forever
 
 
-I'll hold you close in my arms 
-I can't resist your charms 
+(oo)
 
 
-And love 
+I'll hold you close in my arms
+I can't resist your charms
 
 
-ohh love 
+And love
 
 
-I'll be a fool 
-For you, 
-I'm sure 
+oh love
 
 
-You know I don't mind 
+I'll be a fool
+For you,
+I'm sure
 
 
-Oh, you know I don't mind 
+You know I don't mind
 
 
-'Cause you, 
-You mean the world to me 
-Oh 
+Oh, you know I don't mind
 
 
-I know 
+'Cause you,
+You mean the world to me
+Oh
 
 
-I know 
+I know
 
 
-I've found in you 
-My endless love 
-
-do do do do do 
-do do do do do 
-do do doo doo 
-
-Oooh, and love 
+I know
 
 
-Oh, love 
+I've found in you
+My endless love
+
+do do do do do
+do do do do do
+do do doo doo
+
+Oh, and love
 
 
-I'll be that fool 
-For you, 
-I'm sure 
+Oh, love
 
 
-you know I don't mind 
+I'll be that fool
+For you,
+I'm sure
 
 
-Oh you know- 
+you know I don't mind
 
 
-I don't mind 
-
-And, YES 
-You'll be the only one 
-'Cause no one no one can deny 
-This love I have inside 
-And I'll give it all to you 
+Oh you know-
 
 
-My love 
+I don't mind
+
+And, YES
+You'll be the only one
+'Cause no one no one can deny
+This love I have inside
+And I'll give it all to you
 
 
-My love, my love 
+My love
+
+
+My love, my love
 
 
 My endless love

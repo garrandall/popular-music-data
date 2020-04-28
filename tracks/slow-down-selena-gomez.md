@@ -171,7 +171,3 @@ I-i-it's the cataracts
 
 (ha, ha, ha, ha)
 
-
-
-
-

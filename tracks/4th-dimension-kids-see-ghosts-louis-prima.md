@@ -24,7 +24,7 @@ I wonder whether he'll be swingin'"
 
 It feels so good, it should cost
 Bought an alligator, I ain't talkin' Lacoste
-Made me say, "Ooh, uh"
+Made me say, "Oh, uh"
 Like I'm mixing Master P and Rick Ross (uh, uh)
 She seem to make me always feel like a boss (uh, uh)
 She said I'm in the wrong hole, I said I'm lost (uh, uh)

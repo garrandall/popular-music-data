@@ -128,7 +128,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-12-31'
 ---
-Hoooooooooo! Ah Ah Ahhhh!
+Hoooooooooo! Ah Ah Ah!
 
 I'll always love you
 For the rest of my days

@@ -46,14 +46,14 @@ rankings:
 ---
 
 Nothing but heartaches
-Ooh, nothing but heartaches
+Oh, nothing but heartaches
 He brings nothing but heartaches
 I can't break away from his arms
 I can't break away from his charms
 I can't break away from his kiss
 'Cause his kiss I'll shouldn't miss
 
-All my life 
+All my life
 I needed someone to need me
 So I do my very best to please him
 But the more and more I care
@@ -63,7 +63,7 @@ That's the time he leaves me all alone
 Just keeps me, keeps me crying myself to sleep
 
 He brings nothing but heartaches
-Ooh, nothing but heartaches
+Oh, nothing but heartaches
 But I can't break away
 Oh, no keep a loving him more each day
 Oh, I can't break away from his arms
@@ -81,7 +81,7 @@ Sometimes I don't see him all week
 Just keeps me, keeps me crying myself to sleep
 
 He brings nothing but heartaches
-Ooh, nothing but heartaches
+Oh, nothing but heartaches
 But I can't break away
 Oh, no keep a loving him more each day
 Oh, I can't break away from his arms
@@ -90,7 +90,7 @@ I can't break away from his kiss
 'Cause his kiss I'll shouldn't miss
 
 Nothing but heartaches
-Ooh, nothing but heartaches
+Oh, nothing but heartaches
 I can't break away, oh no
 Keep a loving him more each day
 

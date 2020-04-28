@@ -65,7 +65,6 @@ Don't be afraid to bare your soul
 Nothing you say could be too bold
 I'm growing old
 
-Chorus:
 If you don't want my love
 Tell me now cause I'll survive
 If you don't want my love
@@ -80,7 +79,6 @@ I don't want to blow my only chance
 But you've got to show me where you stand
 Or drop my hand
 
-Chorus:
 If you don't want my love
 Tell me now cause I'll survive
 If you don't want my love
@@ -94,5 +92,3 @@ I'm sure that somebody does tonight
 I don't want to blow my only chance
 But you've got to show me where you stand
 Or drop my hand
-
-Repeat chorus

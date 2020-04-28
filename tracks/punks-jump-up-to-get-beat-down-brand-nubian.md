@@ -78,7 +78,7 @@ Don't wanna kneel to the brothers, you must be holin'
 Bust some shit in his chest, now his whole body's swollen
 Why did I have to do it? He asked for it
 His man saw it, so it don't mean shit to me
-He's gone, that's how it's supposed to be....check it out now
+He's gone, that's how it's supposed to be...check it out now
 I ain't goin' out, man that short shit is dead
 Have you heard what I said? If not, ask the dread
 He got a cannon that's bad...similar to the one that I got from my own dad

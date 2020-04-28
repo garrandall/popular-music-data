@@ -71,5 +71,5 @@ Oh, yes I will
 I know I will
 
 I'm gonna make you kiss me
-Ooh, yes I will
+Oh, yes I will
 Yes I will

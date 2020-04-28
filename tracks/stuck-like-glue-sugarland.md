@@ -121,7 +121,7 @@ Won't you do it and do it one time?
 There you go pulling me right back in
 Right back in
 Right back in
-And I know-oo I'm never letting this go-ooo
+And I know-oo I'm never letting this go-oo
 I'm stuck on you
 Whutooo whutooo
 Stuck like glue
@@ -149,7 +149,7 @@ Won't you do it and do it one time?
 There you go pulling me right back in
 Right back in
 Right back in
-And I know-oo I'm never letting this go-ooo
+And I know-oo I'm never letting this go-oo
 I'm stuck on you
 Whutooo whutooo
 Stuck like glue
@@ -194,7 +194,7 @@ Won't you do it and do it one time?
 There you go pulling me right back in
 Right back in
 Right back in
-And I know-oo I'm never letting this go-ooo
+And I know-oo I'm never letting this go-oo
 I'm stuck on you
 Whutooo whutooo
 Stuck like glue
@@ -211,7 +211,7 @@ Won't you do it and do it one time?
 There you go pulling me right back in
 Right back in
 Right back in
-And I know-oo I'm never letting this go-ooo
+And I know-oo I'm never letting this go-oo
 I'm stuck on you
 Whutooo whutooo
 Stuck like glue

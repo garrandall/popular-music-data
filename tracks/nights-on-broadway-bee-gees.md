@@ -121,7 +121,7 @@ Even if it takes a lifetime
 Somehow I feel inside
 You never-ever left my side
 Make it like it was before
-Even if it takes a lifetime, takes a lifetime, ooh
+Even if it takes a lifetime, takes a lifetime, oh
 
 
 Blamin' it all (I'm blamin' it all)

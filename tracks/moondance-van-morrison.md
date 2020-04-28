@@ -51,10 +51,6 @@ There and then I will make you my own
 And every time I touch you, you just tremble inside
 And I know how much you want me that you can't hide
 
-
-
-
-
 One more Moondance with you in the moonlight
 On a magic night
 La, la, la, la in the moonlight

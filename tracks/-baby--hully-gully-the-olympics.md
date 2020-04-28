@@ -47,7 +47,7 @@ A-this dance goin' around
 From coast to coast
 (Hully, Hully Gully)
 A-when me an my baby do it
-Child, we do it the mo-oh-ost
+Child, we do it the most
 (Hully, Hully Gully)
 
 A-mama, Hully Gully
@@ -69,21 +69,21 @@ Mama, Hully Gully
 Sure can, Hully Gully
 You can Hully Gully, too
 
-We-eeeell
+Well
 I went to a party, now
 And what did they do?
 (Hully, Hully Gully)
 Now, everybody's doin' it
-Now, why ain't you-ooo-hoo?
+Now, why ain't you?
 (Hully, Hully Gully)
 
-Everybody look like he's got the sha-a-ake
+Everybody look like he's got the shake
 (Now they Hully Gully)
 Just listen here, brother
 That is all it takes
 (Now they, Hully Gully)
 
-A-mama, Hully Gully
+Mama, Hully Gully
 Papa, Hully Gully
 And baby Hully Gully, too
 
@@ -100,7 +100,7 @@ Unk bkgrnd:
 He asked for one more time, so that's it! '
 'Maurice, can't help it'
 
-'One mo'-ooh, again
+'One mo'-oh, again
 
 (We'll be slowly movin')
 'All of us work a little while, now'

@@ -168,7 +168,7 @@ I gotta set the mood right
 And that may make you feel alright
 I'm gon' set the mood right
 I promise, baby, you’ll feel alright
-Ooh, yeah
+Oh yeah
 
 
 Just let me set the mood right
@@ -179,7 +179,7 @@ If I set the mood right
 Promise, girl, you’ll feel alright
 If you let me set the mood right
 I’ll make you feel so good tonight
-Ooh, yeah, uh-huh
+Oh yeah, uh-huh
 
 
 Yeah

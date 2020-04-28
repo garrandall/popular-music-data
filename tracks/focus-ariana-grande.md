@@ -97,7 +97,7 @@ Just come and get it, let them say what they say
 Cause I'm about to put them all away (wooooo)
 
 Focus on me (hey), fuh, fuh, focus on me (wooooo)
-Focus on me (aaahh), fuh, fuh, focus on me (wooooo)
+Focus on me (ah), fuh, fuh, focus on me (wooooo)
 Focus on me (Focus), fuh, fuh, focus on me (Focus on me, yeah) (wooooo)
 Focus on me (Focus), fuh, fuh, focus on me (Focus on me) (wooooo)
 
@@ -108,20 +108,20 @@ Ba da da da ba da da da da daaaaa
 (Focus on me)
 Come on, now, now
 (Focus on me)
-Oooooooh yeah
+Oh yeah
 
 Let's find a light inside our universe now
 Where ain't nobody keep on holding us down (keep on holdin us down)
 Just come and get it, let them say what they say (let them say, say)
-Cause I'm about to put them all away (yeaaaaah)
+Cause I'm about to put them all away (yeah)
 
-Focus on me (yeaaaah wooo yeaaah), fuh, fuh, focus on me
+Focus on me (yeah wooo yeah), fuh, fuh, focus on me
 (You know I like it when you focus on me)
-Focus on me (yeaaaah yeaaah), fuh, fuh, focus on me (Focus on me) (wooooo)
-Focus on me (Focus) (yeaaaah yeaaah), fuh, fuh, focus on me (Focus on me) (wooooo)
-Focus on me (Focus) (yeaaaah yeaaah), fuh, fuh, focus on me (Focus on me) (wooooo)
-Focus on me (yeaaaah yeaaah), fuh, fuh, focus on me (Focus on me) (wooooo)
-Focus on me (yeaaaah yeaaah), fuh, fuh, focus on me (Focus on me) (wooooo)
+Focus on me (yeah yeah), fuh, fuh, focus on me (Focus on me) (wooooo)
+Focus on me (Focus) (yeah yeah), fuh, fuh, focus on me (Focus on me) (wooooo)
+Focus on me (Focus) (yeah yeah), fuh, fuh, focus on me (Focus on me) (wooooo)
+Focus on me (yeah yeah), fuh, fuh, focus on me (Focus on me) (wooooo)
+Focus on me (yeah yeah), fuh, fuh, focus on me (Focus on me) (wooooo)
 Focus on me (Focus), fuh, fuh, focus on me (Focus on me) (wooooo)
 Focus on me (Focus), fuh, fuh, focus on me (Focus on me) (wooooo)
 Focus on me

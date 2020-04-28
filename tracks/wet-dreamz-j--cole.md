@@ -166,7 +166,7 @@ With a pocket full of rubbers and an erection
 That's when my hands start touchin'
 And her face start blushin' and a nigga roll over on top
 And then she get my pants unbuckled
-And her hands start rubbin' on me, ooh girl, don't stop
+And her hands start rubbin' on me, oh girl, don't stop
 It's time for action
 Pull out the condoms real smooth, yeah, just how I practiced
 But right before I put it in, she flinched and grabbed it

@@ -88,7 +88,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-01-01'
 ---
-Ooooh Baby
+Oh Baby
 
 Got the sun in the morning
 I got the moon at night
@@ -103,7 +103,6 @@ My heart and soul is wide open to you
 Nobody but you sweet baby
 No one but you
 
-Chorus
 
 Got to know that I want you baby
 Got to know that I need you darling
@@ -125,7 +124,6 @@ Nobody for you sweet baby
 No one but you
 Yeah you
 
-Chorus
 
 Got to know that I want you baby
 Got to know that I need you darling

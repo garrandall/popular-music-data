@@ -90,7 +90,7 @@ Yeah
 You crave attention, you can never say no
 Throw your affections any way the wind blows
 You always make it, you're on top of the scene
-You sell the copy like the cover of a magazine, ooh
+You sell the copy like the cover of a magazine, oh
 
 Putting on the eyes till there's nobody else
 You never realize what you do to yourself
@@ -109,7 +109,7 @@ You take your pension in loneliness and alcohol
 Say goodbye to conventional ways
 You can't escape the hours, you lose track of the days
 The more you understand, seems the more like you do
-You never get away, everybody wants you, ooh
+You never get away, everybody wants you, oh
 
 Everybody wants you
 Everybody wants you

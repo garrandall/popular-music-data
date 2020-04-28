@@ -112,14 +112,10 @@ It's you...
 Theres nothing I can do
 
 I remember when you came with me that night
-You said forever 
+You said forever
 
 Here I am again
 With nothing left inside
 No I don't wanna but I gotta
 Let U Go
-
-
-
-
 

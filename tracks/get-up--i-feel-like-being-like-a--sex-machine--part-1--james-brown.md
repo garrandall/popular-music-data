@@ -84,7 +84,7 @@ You said, you said you got the,
 You said the feeling,
 You said the feeling you got to get
 You give me the fever 'n' a cold sweat.
-The way i like, it is the way it is,
+The way I like, it is the way it is,
 I got mine 'n' don't worry 'bout his
 
 Get up, (get on up)

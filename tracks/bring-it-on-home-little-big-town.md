@@ -102,14 +102,8 @@ When the morning comes I'm still going to be right here (yes I am)
 So take your worries and just drop them at the door
 Baby leave it all behind
 
-
-
-
 Baby let me be your safe harbor
 Don't let the water come and carry you away
-
-
-
 
 You got someone here wants to make it alright
 Someone who loves you more than life right here

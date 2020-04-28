@@ -129,7 +129,7 @@ rankings:
 Lil' mama show me how you move it,
 Go ahead put ya back into it,
 Do ya thang like there aint nothin to it,
-Shake... shake... shake that ass girl. 
+Shake... shake... shake that ass girl.
 
 
 Go, Go, Go, 50 in the house - bounce, y'all already know what I'm about.
@@ -138,7 +138,7 @@ I ain't stupid - I see Doc and my dope come quicker.
 Whoa!
 Shorty' hips is hypnotic, she moves is so erotic, but watch - I'm like bounce that assss girl.
 I get it crunk in here, I make it jump in here, front in here, we'll thump in here.
-Oooohh.
+Oh.
 I'm so gutter, so ghetto, so hood.
 So gully, so grimey, what's good?
 Outside, the Benz on dubs -
@@ -149,7 +149,7 @@ Uuuhhh.
 Lil' mama show me how you move it,
 Go ahead put ya back into it,
 Do ya thang like there aint nothin to it,
-Shake.. shake.. shake that ass girl. 
+Shake.. shake.. shake that ass girl.
 
 
 Let's party, everybody stand up.
@@ -161,20 +161,20 @@ Disco Inferno, let's go.
 You are now rockin wit a pro.
 I get toed to flip dough to get more, fo sho'.
 Get my drank on nigga on the dance floor.
-Look homie I don't dance all i do is this.
+Look homie I don't dance all I do is this.
 It's the same 2-step wit a lil' twist.
 Listen pimpin' I ain't new to this, I'm true to this.
 Pay attention boy, I teach how to do this shit.
 You mix a lil' Cris with a little Don Perignon.
 And a lil' Hennessy, you know we 'finna carry on.
 Hollerin' at these snakes in da club tryin' to get right,
-we gonna be up in this bitch 'til we break daylight. 
+we gonna be up in this bitch 'til we break daylight.
 
 
 Lil' mama show me how you move it,
 Go ahead put ya back into it,
 Do ya thang like there aint nothin to it,
-Shake.. shake.. shake that ass girl. 
+Shake.. shake.. shake that ass girl.
 
 
 You see me shinin', lit up with diamonds as I stay grindin'.
@@ -186,7 +186,7 @@ G-Unit!
 Next level now, turn it up a notch.
 Em and Dre sent me to tear up the spot.
 Front on me, oh no, you know I'm loco.
-Hands up on the dance floor, ok let's go! 
+Hands up on the dance floor, ok let's go!
 
 
 Lil' mama show me how you move it,

@@ -86,7 +86,7 @@ Mess around, mess around, put it down on you
 I'ma do everything I said I'm gon' do
 Pretty little body, it look better on you
 Might have to blow it like a feather on you
-Waterfalls, ooh, yeah, you better come through
+Waterfalls, oh, yeah, you better come through
 
 
 Don't make me wait until the morning

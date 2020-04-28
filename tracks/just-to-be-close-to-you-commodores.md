@@ -99,14 +99,14 @@ Baby oh that's why I'm standin' here singin'
 And opening my arms to you
 I wanna say child why don't you
 Take my hand and we'll live in love forever
-Yeah take my hand ooh, we'll be alone you and me yeah
+Yeah take my hand oh, we'll be alone you and me yeah
 
 Take my hand girl
 We'll live our lives together yeah together
 Together yeah together
 Just to be close to you girl
 Just for the moment baby, just for an hour
-Just to be close to you girl, hey, ooh
+Just to be close to you girl, hey, oh
 
 I've been out there searchin' so very long baby
 Searchin' to find somebody just like you
@@ -132,7 +132,7 @@ For the moment baby, for the moment baby
 For the moment baby
 For the sugar, sugar, yeah, yeah,
 Yeah, yeah, yeah, yeah, yeah,
-Ooh yeah, yeah, yeah, yeah, yeah,
+Oh yeah, yeah, yeah, yeah, yeah,
 Yeah, yeah, yeah, yeah, yeah, yeah,
 My arms are still burnin' girl
 Ya got me yearnin' for your love

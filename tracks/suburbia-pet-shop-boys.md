@@ -81,9 +81,6 @@ I only wanted something else to do but hang around
 I only wanted something else to do but hang around
 I only wanted something else to do but hang around
 
-
-
-
 It's on the front page of the papers:
 "This Is Their Hour of Need"
 Where's a policeman when you need one

@@ -109,7 +109,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-11-06'
 ---
-Oh yeaah… Ah ah ah…
+Oh yeah… Ah ah ah…
 Is ah big dancehall song in know
 Madzart alongside Kevin Lyttle
 You know how it is, you know how we go
@@ -139,10 +139,10 @@ The girl ya nah go get way tonite
 If she think madd man nah go fight
 Me done feed she with popcarn and sprite
 Now she whar come fly way like kite
-Ooh yea yea
-Ooh yea yea
-Ooh yea yea yeah
-Ooh yea yea yea yea yea yea yea yea…
+Oh yea yea
+Oh yea yea
+Oh yea yea yeah
+Oh yea yea yea yea yea yea yea yea…
 
 One hand on the ground & bumper cock sky high
 Wining hard on me
@@ -171,10 +171,10 @@ The girl ya nah go get way tonite
 If she think madd man nah go fight
 Me done feed she with popcarn and sprite
 Now she whar come fly way like kite
-Ooh yea yea
-Ooh yea yea
-Ooh yea yea yeah
-Ooh yea yea yea yea yea yea yea yea…
+Oh yea yea
+Oh yea yea
+Oh yea yea yeah
+Oh yea yea yea yea yea yea yea yea…
 
 For the longest while we jamming in the party
 And you're wining on me

@@ -33,7 +33,7 @@ rankings:
   start_date: '1984-06-02'
 ---
 Whoa, oh, well, well, well, well, well
-Ooh, hmmmm
+Oh, hm
 
 Someone to count on
 In a world ever changing

@@ -125,7 +125,7 @@ I song a brand new song
 Before I had no clue, I was lost till I found you baby
 And I want to make the whole world understand I'm proud to be your man
 And I vow to stay forever
-I can't believe that I used to, say..........
+I can't believe that I used to, say...
 Never, would I love this way
 Give my heart away
 Never would this player hang his jersey up and leave the game

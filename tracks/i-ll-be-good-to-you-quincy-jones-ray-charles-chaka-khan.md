@@ -112,7 +112,7 @@ Break up my happy home
 Let me take off your shoes
 Take a stand, now
 And let me know how
-Ooh always baby, and all your know-how
+Oh always baby, and all your know-how
 
 
 (The way we stand and the way we lie)

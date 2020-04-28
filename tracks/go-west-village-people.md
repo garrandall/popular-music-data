@@ -47,8 +47,8 @@ rankings:
 
 Heyhey
 well well well well
-yeaah
-yeaah
+yeah
+yeah
 
 (Together) We will go our way
 (Together) We will leave someday

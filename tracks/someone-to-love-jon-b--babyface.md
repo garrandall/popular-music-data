@@ -134,7 +134,7 @@ Don't even like to think about it
 I don't know what I would do without it
 I only know I live and breathe for your love
 Baby you came to me in my time of need
-When i needed you, you're there for me
+When I needed you, you're there for me
 Baby, the love from you is what got me through
 It's because of you I was able to
 Give my heart again, you give me
@@ -170,7 +170,7 @@ Oh someone to know
 
 
 For so long in my life, I wouldn't let love inside
-But i swallowed my pride the day you arrived
+But I swallowed my pride the day you arrived
 Now that you're by my side
 Everything is all right
 It's because of you, I was able to

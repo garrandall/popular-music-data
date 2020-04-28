@@ -125,9 +125,6 @@ Like Noah I get twos of you and you get pretty deep
 But I'll call yo ass round 8-ish I know you'll be there for me
 Cause
 
-
-
-
 Those huge baby eyes get to running off at they mouth
 Tellin me everything that's on yo nasty mind
 They say your malnutrition in need of vitamin D
@@ -142,11 +139,6 @@ Ha Ha
 
 (And we are...) the coolest motherfuckers on the planet
 (In my mind...) the sky is falling ain't no need to panic
-(But Oh oh.....) I got a stick and want yo automatic
+(But Oh oh...) I got a stick and want yo automatic
 (Oh oh oh...) Compatible created in the attic
-
-
-
-
-
 

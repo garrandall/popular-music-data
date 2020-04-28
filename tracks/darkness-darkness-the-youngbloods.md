@@ -60,7 +60,7 @@ Cover me with the endless night
 Take away, take away the pain of knowing
 Fill the emptiness of right now
 Emptiness of right now now now
-Emptiness of right....
+Emptiness of right...
 Oh yeah Oh yeah
 Emptiness, emptiness
 Oh yeah

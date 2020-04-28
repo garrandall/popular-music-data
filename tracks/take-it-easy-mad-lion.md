@@ -90,7 +90,7 @@ rankings:
 ---
 Too many suckers and not enough time
 To buck up all of dem with one clip from mi 9
-To shoot to kill, dem seh mi dont care
+To shoot to kill, dem seh mi don't care
 I try to kill, but it nuh get mi nowhere
 I just put down mi gun inna fi mi suitcase
 Big up mi fist, fi buck off dem face
@@ -135,13 +135,13 @@ Knuckle up, knuckle up, and guard yuh grill
 No need fi gun, cau' yuh get hurt still
 Think unuh wicked?, Tell dem fi come!
 I have mi fist, mi nuh need not a gun
-Nah guh touch you, if you dont touch mi first
+Nah guh touch you, if you don't touch mi first
 If you touch mi bwoy, you must bite di dust
 Bad bwoy, rude bwoy, fickle face nah skin up
 Decent person, with an evil touch
-I dont bother nobody
+I don't bother nobody
 I tansoback and clutch
-You diss the program bwoy you must get-, Ahh!
+You diss the program bwoy you must get-, Ah!
 
 
 Gotta take it easy
@@ -156,7 +156,7 @@ Me no know...
 
 Too many suckers and not a enough time
 To buck dem all off with di clip from mi 9
-So shoot to kill, dem seh, mi dont care
+So shoot to kill, dem seh, mi don't care
 I try to kill but it nuh get mi nowhere
 Flip inna mi pocket, and mi dip inna mi waist
 Tek out mi gun, put inna mi suitcase
@@ -200,7 +200,7 @@ One throw a punch, one tek out a knife
 And nearly kill di gyal, and tek weh her life
 Tell mi crowd of people, is that right?
 Make gyal, a kill gal, fi man weh she like?
-I dont like that damn flex inna mi zone
+I don't like that damn flex inna mi zone
 Need dem gyal fi just keep dem ass home
 Mad Lion deh yah
 Deh pon di tune

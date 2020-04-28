@@ -137,12 +137,12 @@ And I say, hey-ey-ey
 Hey-ey-ey
 I said "Hey, a-what's going on?"
 
-Ooh, ooh
-Ooh
-Ooh, uh huh
-Ooh, ooh
-Ooh
-Ooh, uh huh
+Oh oh
+Oh
+Oh uh huh
+Oh oh
+Oh
+Oh uh huh
 
 And I try
 Oh my God, do I try
@@ -182,9 +182,9 @@ Hey-ey, yeah yeah yeah
 (And I scream)
 I said "Hey, a-what's going on?"
 
-Ooh, ooh
-Ooh
-Ooh, uh huh
+Oh oh
+Oh
+Oh uh huh
 
 25 years and my life is still
 Tryin' to get up that great big hill of hope

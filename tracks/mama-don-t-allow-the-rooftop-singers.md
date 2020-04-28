@@ -62,10 +62,6 @@ I don't care what Mama don't allow
 Gonna, pi, pi, jing, doo, pop, pow
 Mama don't allow no pi, pi, jing here
 
-
-
-
-
 I don't care what Mama don't allow
 Gonna play that guitar anyhow
 Mama don't allow no guitar playin' here

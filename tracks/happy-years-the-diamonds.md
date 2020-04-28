@@ -38,7 +38,7 @@ Ponytail girls all wearing bluejeans
 (Happy years, those happy years)
 Now tell me, what looks cuter
 Than a gal in her teens
-(A-ooo, cha cha cha, a-ooo cha cha cha)
+(A-oo, cha cha cha, a-oo cha cha cha)
 
 Rocking and rolling at the record shop
 (Happy years, those happy years)

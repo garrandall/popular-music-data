@@ -92,7 +92,7 @@ California nights
 If I went on my way
 Thinking now that I'll stay
 
-Ooh, baby
+Oh baby
 Love you, baby
 Baby
 

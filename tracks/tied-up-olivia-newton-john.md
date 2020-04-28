@@ -73,7 +73,7 @@ Here's the opportunity
 Come and take it to the nth degree
 Don't be nervous, I don't have to be
 Tied up in promises
-Ooh, tied up in words that cut too deep
+Oh, tied up in words that cut too deep
 Tied up in promises we could never keep
 I don't wanna let you down
 Don't make me let you down
@@ -97,7 +97,7 @@ Here's the opportunity
 Come and take it to the nth degree
 Don't be nervous, I don't have to be
 Tied up in promises
-Ooh, tied up in words that cut too deep
+Oh, tied up in words that cut too deep
 Tied up in promises we could never keep
 I don't wanna let you down
 Don't make me let you down

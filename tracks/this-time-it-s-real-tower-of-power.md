@@ -68,7 +68,7 @@ It might be night
 It don't matter anytime is right
 And I know, (Oh) I can feel it (hey)
 This time it's real
-And I know, (Ahh) I can feel it
+And I know, (Ah) I can feel it
 This time it's real
 And I know, I can feel it (yeay)
 This time it's real

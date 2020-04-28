@@ -117,7 +117,7 @@ The one I will wait for
 There'll be sad songs to make you cry
 Love songs often do
 They can touch the heart of someone new
-Saying I love you, ooh ooh ooh, oh
+Saying I love you, ohoohhohh
 You're my desire, you take me higher
 My love is like a river running so deep
 Until the moment that you give your love to me
@@ -126,13 +126,13 @@ There'll be sad songs to make you cry
 Love songs often do
 They can touch the heart of someone new
 Saying I love you
-Ah... Aah...
+Ah... Ah...
 There'll be sad songs to make you cry
 Love songs often do
 They can touch the heart of someone new
 Saying I love you, I love you
 Do do do do do do do do do do do do do
-Ooh...
+Oh..
 Saying I love you
 (Spoken)
 I love you

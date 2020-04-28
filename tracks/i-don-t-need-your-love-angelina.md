@@ -61,12 +61,12 @@ No! No! No!
 No! No! No!
 Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah, Ah (fade)
 
-I dont need your - No! No! No!
-I dont need your - No! No! No!
-I dont need your love no more
-I dont need your - No! No! No!
-I dont need your - No! No! No!
-I dont need your love no more
+I don't need your - No! No! No!
+I don't need your - No! No! No!
+I don't need your love no more
+I don't need your - No! No! No!
+I don't need your - No! No! No!
+I don't need your love no more
 
 Thinking about the times we spent together
 You said you'd never leave
@@ -79,12 +79,12 @@ Cuz now I'm stronger
 And I'm standing on my own
 So...
 
-I dont need your - No! No! No!
-I dont need your - No! No! No!
-I dont need your love no more
-I dont need your - No! No! No!
-I dont need your - No! No! No!
-I dont need your love no more
+I don't need your - No! No! No!
+I don't need your - No! No! No!
+I don't need your love no more
+I don't need your - No! No! No!
+I don't need your - No! No! No!
+I don't need your love no more
 
 Do you remember
 How you used to say you loved me?
@@ -95,29 +95,29 @@ And I've learned it well
 Now I know better
 There's nothing left to say
 The doors are closed now
-I dont want you back no more!
+I don't want you back no more!
 Nooo!
 
-I dont need your - No! No! No!
-I dont need your - No! No! No!
+I don't need your - No! No! No!
+I don't need your - No! No! No!
 
-I dont need your love no more
-I dont need your - No! No! No!
-I dont need your - No! No! No!
-I dont need your love no more
+I don't need your love no more
+I don't need your - No! No! No!
+I don't need your - No! No! No!
+I don't need your love no more
 
-I dont need your - No! No! No!
-I dont need your - No! No! No!
-I dont need your love no more
-I dont need your - No! No! No!
-I dont need your - No! No! No!
-I dont need your love no more
+I don't need your - No! No! No!
+I don't need your - No! No! No!
+I don't need your love no more
+I don't need your - No! No! No!
+I don't need your - No! No! No!
+I don't need your love no more
 
-I dont need-
-I dont need-
+I don't need-
+I don't need-
 No more!
-I dont need-
-I dont need-
+I don't need-
+I don't need-
 No more!
 
 Recordando
@@ -131,16 +131,16 @@ He aprendido
 Y no quiero tu amor!
 Ya no quiero mas!
 
-I dont need your - No! No! No!
-I dont need your - No! No! No!
-I dont need your love no more
-I dont need your - No! No! No!
-I dont need your - No! No! No!
-I dont need your love no more
+I don't need your - No! No! No!
+I don't need your - No! No! No!
+I don't need your love no more
+I don't need your - No! No! No!
+I don't need your - No! No! No!
+I don't need your love no more
 
-I dont need your - No! No! No!
-I dont need your - No! No! No!
-I dont need your love no more
-I dont need your - No! No! No!
-I dont need your - No! No! No!
-I dont need your love no more
+I don't need your - No! No! No!
+I don't need your - No! No! No!
+I don't need your love no more
+I don't need your - No! No! No!
+I don't need your - No! No! No!
+I don't need your love no more

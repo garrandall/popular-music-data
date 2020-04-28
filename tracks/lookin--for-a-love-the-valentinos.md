@@ -42,7 +42,7 @@ rankings:
 ---
 (I'm lookin' for a love)
 (I'm lookin' for a love)
-Mmmm ... I'm looking for a love
+Mmm ... I'm looking for a love
 (I'm lookin' for a love)
 Lookin' for a love
 (I'm lookin' for a love)

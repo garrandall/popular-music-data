@@ -59,7 +59,7 @@ Send me on my way (On my way)
 Send me on my way (On my way)
 Send me on my way (On my way)
 Send me on my way (On my way)
-Mm hmm (On my way)
+Mm hm (On my way)
 
 I would like to reach out my hand
 I may see you, I may tell you to run (On my way, on my way)
@@ -77,7 +77,7 @@ And we will run, we will, we will crawl
 Send me on my way (On my way)
 Send me on my way (On my way)
 Send me on my way (On my way)
-Hmmm(on my way)
+Hm(on my way)
 Well, I would like to hold my little hand
 And we will run, we will, we will crawl, we will
 I would like to hold my little hand
@@ -90,7 +90,7 @@ On my way
 Send me on my way
 Send me on my way
 Send me on my way
-(ooooh oooh oooh ooooh oooh oooh)
+(oh ohhohoohohoh
 (Hey hey hey hey hey hey hey)
 On my way
 (Hey hey hey hey hey hey hey)

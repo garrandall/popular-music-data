@@ -38,14 +38,14 @@ C'mon C'mon C'mon C'mon C'mon C'mon
 OOOOOWWWWW!
 what she want (ugh) what she want She want (repeat)
 OOOOOWWWWW!
-oh yeah! OOOOOWWWWW!! 
-oh yeah! OOOOOWWWWW!! 
-oh yeah! OOOOOWWWWW!! oh yeah!
+oh yeah! OOOOOWWWWW!
+oh yeah! OOOOOWWWWW!
+oh yeah! OOOOOWWWWW! oh yeah!
 
 
 Who they want??
 Choppa Style Chop Chop Choppa Style
-Choppa Style Chop Chop 
+Choppa Style Chop Chop
 She want chop chop
 She want chop chop
 She want chop chop
@@ -58,12 +58,12 @@ baby gotta hurt me wit nothin
 If you a slim, fine woman that mean you workin with somethin
 I want a big, fine woman with some pop wit her
 She ain't got a lot of ass but tiddy-bop wit her
-Now I came here to get it buck 
+Now I came here to get it buck
 for you hoes shake down if you wanna wobble, what
-Back it up or toot it up or don't stop 
+Back it up or toot it up or don't stop
 Won't you bend that ass over now pop it like it hot
 Put yo head between your legs and touch your toes
-Bounce your booty up and down--Ooh girl, there you go
+Bounce your booty up and down--Oh girl, there you go
 Won't ya walk like a model
 If you a independent woman, maybe I'ma holla
 You got your hair fixed nice, wit ya clothes tight
@@ -75,14 +75,14 @@ I wanna see ya turn around and stick ya booty out, ya booty out
 
 Who they want??
 Choppa Style Chop Chop Choppa Style
-Choppa Style Chop Chop 
+Choppa Style Chop Chop
 She want chop chop
 She want chop chop
 She love chop chop
 She love chop chop
 Who they want??
 Choppa Style Chop Chop Choppa Style
-Choppa Style Chop Chop 
+Choppa Style Chop Chop
 She want chop chop
 She love chop chop
 She want chop chop
@@ -130,14 +130,14 @@ New Orleans, where you at? Lemme get a handclap
 
 Who they want??
 Choppa Style Chop Chop Choppa Style
-Choppa Style Chop Chop 
+Choppa Style Chop Chop
 She want chop chop
 She want chop chop
 She love chop chop
 She love chop chop
 Who they want??
 Choppa Style Chop Chop Choppa Style
-Choppa Style Chop Chop 
+Choppa Style Chop Chop
 She want chop chop
 She love chop chop
 She want chop chop
@@ -150,9 +150,9 @@ Where my niggas go at when they hit it fromthe back
 Smack smack that ass up
 She like it like that
 Won't you wobble wobble, move that, show me how ya do that
-Girl you a fool yeah, make me holla ooh yeah!
+Girl you a fool yeah, make me holla oh yeah!
 Wobble wobble, move that, show me how ya do that
-Girl you a fool yeah, make me holla ooh yeah!
+Girl you a fool yeah, make me holla oh yeah!
 Now won't you wobbbble for me? (C'mon) Won't you back it up for me? (C'mon)
 Won't you wobbbble for me? (C'mon) Won't you back it up for me? (C'mon)
 

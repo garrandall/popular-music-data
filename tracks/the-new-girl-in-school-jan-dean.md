@@ -42,14 +42,14 @@ rankings:
   start_date: '1964-05-09'
 ---
 
-Papa do ron-de ron-de, do ron-de ron-de, do ron-de ron-de, ooh
+Papa do ron-de ron-de, do ron-de ron-de, do ron-de ron-de, oh
 I got it bad for the new girl in school
 The guys are flipping, but I'm playing it cool
 Everybody's passing notes in class
 They really dig her now she's such a gas
 Pappa, pappa, pappa, do ron-de ron-de, do ron-de ron-de
-Do ron-de ron-de, do ron-de ron-de, do ron-de ron-de, ooh
-I got a fad, pappa do ron-de ron-de, ooh
+Do ron-de ron-de, do ron-de ron-de, do ron-de ron-de, oh
+I got a fad, pappa do ron-de ron-de, oh
 
 The chicks are jealous of the new girl in school
 They put her down and they treat her so cruel
@@ -57,17 +57,17 @@ But the guys are going out of their minds
 'Cause she's the cutest chick you'll ever find
 
 A pa pa pa pa do ronde ronde, do ronde ronde, do ronde ronde
-Do ronde ronde, do ronde ronde ooh, I've got a fad for the
-Do ronde ronde ooh
-Papa do ronde ronde, do ronde ronde, do ronde ronde ooh
+Do ronde ronde, do ronde ronde oh I've got a fad for the
+Do ronde ronde oh
+Papa do ronde ronde, do ronde ronde, do ronde ronde oh
 
 It won't be long till were having a ball
 We'll walk 'n' talk 'n' we'll hold hands in the hall
 Never thought I'd make it through this year
 Sure was a drag till she transferred here
 Pappa, pappa, pappa, do ron-de ron-de, do ron-de ronde
-Do ron-de ron-de, do ron-de ron-de, do ron-de ron-de, ooh
-I got a fad, pappa, pappa, do ron-de ron-de, ooh
+Do ron-de ron-de, do ron-de ron-de, do ron-de ron-de, oh
+I got a fad, pappa, pappa, do ron-de ron-de, oh
 
 Little girl if you want me to...
 I got a lot going

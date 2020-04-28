@@ -57,7 +57,7 @@ But I swear before this day is over you folks are gonna see some rain
 
 They all just stood there a-staring trying to believe
 But there was one named Lizzie Cooper who said he was a lying cheat
-You say you call yourself a rainman, well you oughta be ashamed 
+You say you call yourself a rainman, well you oughta be ashamed
 Starting all these people dreamin', thinking you can make it rain
 
 Step back non believers or the rain will never come
@@ -65,7 +65,7 @@ Somebody keep that fire a-burning somebody beat the drum
 You know some may think I'm crazy for making all these claims
 But I swear before this day is over you folks are going see some rain
 
-Hey Lizzie, well a mans got to have a dream 
+Hey Lizzie, well a mans got to have a dream
 And if you can't walk on the inside with me, I'll meet you in between
 Oh come with me Lizzie and the stars will right your name
 And if you still think I'm lying to you, look younder there comes the rain
@@ -74,8 +74,4 @@ Step back non believers for the rain will never come
 Somebody keep that fire a-burning somebody beat the drum
 You know some folks think I'm crazy for making all these claims
 But I swear before this day is over you folks are going see some rain
-
-
-
-
 

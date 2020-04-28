@@ -60,7 +60,7 @@ Left hand on the joystick, right hand hyperspace drive
 
 Space age whiz kids kids, Space age whiz kids
 
-Space age whiz kids kids, Space age whiz kids                                    
+Space age whiz kids kids, Space age whiz kids
 Space age whiz kids
 Space age whiz kids
 Space age whiz kids

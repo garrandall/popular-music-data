@@ -139,7 +139,7 @@ So good, girl you make me sweat
 Girl I'm talkin' 'bout
 
 
-Peaches and cream (Oooh)
+Peaches and cream (Oh)
 I need it cause you know that I'm a fiend (That's right)
 Gettin' freaky in my Bentley limousine
 It's even better when it's with ice cream
@@ -159,13 +159,13 @@ Better yet baby right next to you
 Love the way you're just flowin down
 And I can feel it all around
 In the front, in the back of you
-Ooh I love the smell of you
+OhI love the smell of you
 Girl you know what I'm talking about
 
 [Hook - 112 (Q)
 Peaches and cream
-I need it cause you know that I'm a fiend (ooh)
-Gettin' freaky in my Bentley limousine (ooohhh)
+I need it cause you know that I'm a fiend (oh
+Gettin' freaky in my Bentley limousine (oh)
 It's even better when it's with ice cream
 Know what I mean
 Peaches and cream
@@ -186,7 +186,7 @@ So all the ladies in the house if your peach the shit
 Put your hands in the air represent your clique
 
 
-Peaches and cream (Oooh)
+Peaches and cream (Oh)
 I need it cause you know that I'm a fiend (That's right)
 Gettin' freaky in my Bentley limousine  (Girl you are tasty)
 It's even better when it's with ice cream

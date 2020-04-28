@@ -64,7 +64,7 @@ I spent two thousand to step in the shoes
 Gang on gang how you think we gon' lose
 Back to back motorcade, that how we move
 On momma porch was sittin' on the stoop (Momma)
-When I hopped up I took off to the Moon (Ooh)
+When I hopped up I took off to the Moon (Oh
 
 
 Oh my gosh back at it again (Back at it)

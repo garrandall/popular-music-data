@@ -76,8 +76,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
 ---
-Ooh, I bet you're wond'rin' how I knew
-Baby, baby, baby, 'bout your plans to make me blue 
+Oh, I bet you're wond'rin' how I knew
+Baby, baby, baby, 'bout your plans to make me blue
 With some other girl you knew before
 Between the two of us girls ya know I love you more
 It took me by surprise I must say
@@ -100,7 +100,7 @@ That you love some body else
 
 Instead I heard it through the grapevine
 Oh-h, not much longer you be mine
-Oh, I heard it, yes, I heard it 
+Oh, I heard it, yes, I heard it
 Oh, just about, just about, just about, to lose my mind
 Oh yes, I am, Oh yes, I am, Oh yes, I am
 

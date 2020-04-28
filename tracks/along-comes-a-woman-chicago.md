@@ -99,7 +99,3 @@ She's so near, everything is better
 Can't explain, somethin' that you're feelin'
 For the very first time
 
-
-
-
-

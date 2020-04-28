@@ -79,15 +79,9 @@ Don't ever say it could never be the same
 
 Always with me - holding hans on a summer day
 You were content and - you took it all away
-I didn't come here to change your mind, 
+I didn't come here to change your mind,
 Lead you on and waste your time
 All alone in the evening, getting day
 
 Why don't we make believe
-
-
-
-
-
-
 

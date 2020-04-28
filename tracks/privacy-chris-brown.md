@@ -113,7 +113,7 @@ You know I love foreplay, 12 play, everything
 Know my lovin' don't change
 I don't really give a fuck what a hater say
 'Cause you fine, baby
-And it's alright 'cause you're all mine, baby, ooh, hoo
+And it's alright 'cause you're all mine, baby, oh, hoo
 Girl, I'm a let you get crazy
 
 Ayy you, girl, with that tight up skirt

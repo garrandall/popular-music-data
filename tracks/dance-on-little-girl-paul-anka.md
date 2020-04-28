@@ -81,7 +81,7 @@ Dance out of my heart.
 Oh look at you,
 There you go go go.
 Oh yes you know
-That you're wrong wrong wrong.....
+That you're wrong wrong wrong...
 
 
 

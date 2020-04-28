@@ -97,8 +97,8 @@ rankings:
 
 
 Bomb ass pussy
-Ma ooh you got that bomb, know you got it
-Ma ooh, you got some bomb ass pussy
+Ma oh you got that bomb, know you got it
+Ma oh, you got some bomb ass pussy
 Ma I know you got that bomb bomb pussy
 
 
@@ -142,7 +142,7 @@ Ma showed up like "what's the hold up?"
 Man know what get them wraps and roll up
 I took a chick in the bathroom seeing what's poppin
 You know what's on my mind, shirts off and panties dropping
-Niggaz knocking on the door drunk and acting silly
+Niggas knocking on the door drunk and acting silly
 The girl said "can I be in yo video" I'm like "yeah!", "oh really?"
 Now she naked strip teasing, me I'm just cheesing
 She gave me a reason to be a damn heathen
@@ -150,9 +150,6 @@ Handled that, told ol' G, bring tha camera
 Then I thought about it, no footage as I ram her
 Walked out the bathroom smiling, cats still whiling
 Sharing the next room wit some girls lookin like they from an island
-
-
-
 
 Stop, drop, KABOOM!, baby rub on ya nipples
 Some call me Ludacris, some call me Mr. Wiggles
@@ -170,9 +167,6 @@ Let the Henny trickle, down the beat, wit a ghetto tempo
 I done blazed the instrumental, laid it plain and simple
 Getting brain in the rental, I done did it again
 My eyes chinky, I'm wit Chingy, at the Holidae In
-
-
-
 
 Yeah, let the party begin, bitch
 Ching-a-ling Ling, all the way in St. Louis

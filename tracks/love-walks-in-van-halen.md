@@ -101,7 +101,7 @@ Familiar sights
 Reach back
 Remember with all your might
 
-Ooh there she stands in a silken gown
+Oh there she stands in a silken gown
 Silver lights shining down
 
 And then you sense a change

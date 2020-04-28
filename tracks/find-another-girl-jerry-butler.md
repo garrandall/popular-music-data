@@ -122,6 +122,6 @@ And kisses just for you
 Save all her love
 For nobody but you
 
-Well, ooh, ooh
+Well, oh oh
 Another love
-Ooh, ooh, another love...
+Oh, oh another love...

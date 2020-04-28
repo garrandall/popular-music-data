@@ -70,7 +70,7 @@ Lord, stop them from doing this terrible thing
 For the sake of two women who wait.
 
 Or one of us will weep tonight,
-One of wont sleep tonight,
+One of won't sleep tonight,
 One of us will walk forth tomorrow,
 Out of a happy life,
 Into a lonely life,
@@ -82,7 +82,7 @@ But a bullet rings out and the pain can be felt
 In the hearts of two women that wait.
 
 Now one of us will weep tonight,
-One of us wont sleep tonight,
+One of us won't sleep tonight,
 One of us will walk forth tomorrow,
 One of us a happy life
 One of us a lonely life

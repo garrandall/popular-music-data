@@ -75,7 +75,7 @@ Well, this cat's name is-a Alley Oop
 (Alley Oop) He's the toughest man there is alive
 (Alley Oop) Wearin' clothes from a wildcat's hide
 (Alley Oop) He's the king of the jungle jive
-(Look at that cave man go!!) (SCREAM)
+(Look at that cave man go!) (SCREAM)
 (Alley Oop, oop, oop, oop-oop)
 He got a chauffeur that's a genuwine dinosawruh
 (Alley Oop, oop, oop, oop-oop)
@@ -88,7 +88,7 @@ Like great big lions and grizzly bearuhs
 (Alley Oop) He's the toughest man there is alive
 (Alley Oop) Wearin' clothes from a wildcat's hide
 (Alley Oop) He's the king of the jungle jive
-(Look at that cave man go!!) (SCREAM)
+(Look at that cave man go!) (SCREAM)
 (Alley Oop, oop, oop, oop-oop)
 He rides thru the jungle tearin' limbs offa trees
 (Alley Oop, oop, oop, oop-oop)
@@ -101,7 +101,7 @@ Cuz he's a mean motah scootah and a bad go-gettah
 (Alley Oop) He's the toughest man there is alive
 (Alley Oop) Wearin' clothes from a wildcat's hide
 (Alley Oop) He's the hullie-gullie king of jive
-(Look at that cave man go!!) (SCREAM)
+(Look at that cave man go!) (SCREAM)
 Thair he goes
 (Alley Oop, oop, oop, oop-oop)
 Look at that cave man go

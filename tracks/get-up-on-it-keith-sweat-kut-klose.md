@@ -83,7 +83,7 @@ All you got to do is get up on it
 If you really, really want it
 All you got to do is get up on it
 
-The time has come for us, ooh baby
+The time has come for us, ohbaby
 To get real busy baby, oh yes, it has, umm
 And you don't have to be afraid of our love, oh no
 'Cause it won't hurt you sugar
@@ -95,7 +95,7 @@ If you really, really want it
 All you got to do is get up on it
 
 I like it girl when we can get real freaky baby
-Ooh yes, I do baby
+Oh yes, I do baby
 And I'm on my hands and knees
 You know I'm with you sugar
 Girl, I am with everything you want to do, sang
@@ -107,7 +107,7 @@ All you got to do is get up on it
 
 Boy yeah, I know that this is it, a love
 'Cause I know that I'm giving you my love
-Love, love, a love that you cant resist, baby
+Love, love, a love that you can't resist, baby
 Sang, sang, bring it on
 
 If you really, really want it

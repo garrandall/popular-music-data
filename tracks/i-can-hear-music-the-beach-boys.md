@@ -48,7 +48,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-10'
 ---
-Ahhhhhh oooooo
+Ah oo
 
 
 This is the way
@@ -84,4 +84,4 @@ I hear the music all the time
 I hear the music
 I hear the music (baby)
 
-Ahhhhh
+Ah

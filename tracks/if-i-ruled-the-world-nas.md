@@ -88,8 +88,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-11-02'
 ---
-Oooh oooh, oooooooooooooooohhhhhhhh! The struggles of life! (Life!)
-Oooh, oooh, oooh, da da da da da da! (Everything I ever wanted)
+Oh ohoh! The struggles of life! (Life!)
+Oh, ohohoh da da da da da! (Everything I ever wanted)
 Oh, oh (Yeah Yeah!) Do do do do do do! (Yeah! My life, so real)
 
 

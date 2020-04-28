@@ -48,11 +48,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
 ---
-Ooh baby
+Oh baby
 You couldn't have done a worse thing to me
 If you'd have taken an arrow
-And run it right through me, ooh
-Ooh baby, a bird in the hand
+And run it right through me, oh
+Oh baby, a bird in the hand
 Is worth two flying
 But when it came to love
 I knew you'd be lying
@@ -64,12 +64,12 @@ Offering a note of distraction
 Come on, get up, get under way
 And bring your love
 
-Ooh baby
+Oh baby
 You wouldn't have found a more down hero
 If you'd have started at nothing
 And counted to zero
 
-Ooh baby
+Oh baby
 You couldn't have done a worse thing to me
 If you'd have taken an arrow
 And run it right through me
@@ -81,7 +81,7 @@ Featuring but love and affection
 Come on, get up, get under way
 And bring your love
 
-Ooh baby
+Oh baby
 You wouldn't have found a more down hero
 If you'd have started at nothing
 And counted to zero

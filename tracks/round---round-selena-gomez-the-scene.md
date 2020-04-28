@@ -145,6 +145,6 @@ Well, you're gonna miss me, 'cause I'm getting dizzy
 Going 'round and 'round and 'round
 
 
-Ooh, whoa, whoa, whoa
-Ooh, whoa, whoa, whoa
-Ooh, whoa, whoa, whoa
+Oh, whoa, whoa, whoa
+Oh, whoa, whoa, whoa
+Oh, whoa, whoa, whoa

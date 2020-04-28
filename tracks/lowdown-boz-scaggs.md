@@ -110,10 +110,10 @@ You better bring the chick around
 To the sad sad truth
 The dirty lowdown
 
-(Oooh oooh
+(Oh oh
 I wonder wonder wonder wonder who)
 Taught her how to talk like that
-(Oooh oooh..
+(Oh oh..
 I wonder wonder wonder wonder who)
 Gave her that big idea
 
@@ -130,10 +130,10 @@ You better get on back to town
 Face the sad old truth
 The dirty lowdown
 
-(Oooh oooh
+(Oh oh
 I wonder wonder wonder wonder who)
 Put those ideas in your head
-(Oooh oooh
+(Oh oh
 I wonder wonder wonder wonder who)
 
 Yeah
@@ -152,10 +152,10 @@ You gonna come back around
 To the sad sad truth..
 The dirty lowdown
 
-(Oooh oooh
+(Oh oh
 I wonder wonder wonder wonder who)
 Got you thinking like that boy
-(Oooh oooh
+(Oh oh
 I wonder wonder wonder wonder who)
 
 I wonder wonder wonder wonder who
@@ -164,7 +164,7 @@ Said I wonder wonder wonder wonder who
 Oh look out for that lowdown
 That dirty dirty dirty dirty lowdown
 I wonder wonder wonder wonder who
-Ooooh hooo
+Oh hooo
 I wonder who got you thinking like that...
 
 

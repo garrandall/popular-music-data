@@ -120,7 +120,3 @@ That ain't good for just laying on her back.
 :And I'm that kind of woman,
 :So before me and my man get in the sack...
 
-
-
-
-

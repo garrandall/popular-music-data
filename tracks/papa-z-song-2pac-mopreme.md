@@ -89,7 +89,7 @@ For all this time, so sorry baby!
 
 Man child in the promised land couldn't afford many heroes
 Moms was the only one there my pops was a no-show
-And ohh -I guess ya didn't know
+And oh -I guess ya didn't know
 That I would grow to be so strong
 Lookin kinda pale, was it the ale or pops was wrong?
 Where was the money that you said, you would send me

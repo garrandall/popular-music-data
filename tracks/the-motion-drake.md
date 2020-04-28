@@ -34,9 +34,9 @@ But I guess that's just the motion, yeah
 Then that phone doesn't ring
 When they got everything, that's the motion
 Oh-oh, I guess that's just the motion
-(Ooh, ooh, ooh, ooh, ooh, ooh)
+(Oh, oh, oh, oh, oh, oh)
 Oh-oh, I guess that's just the motion
-(Ooh, ooh, ooh, ooh, ooh, ooh)
+(Oh, oh, oh, oh, oh, oh)
 
 
 Yeah, looking back on it, at least my pride is intact

@@ -57,9 +57,6 @@ We're thinking about delaying the end
 Well you can ride the wind
 But don't you ride it too high
 
-
-
-
 They gaped upon me with their mouths
 As a ravening and a roaring lion
 I am poured out like water

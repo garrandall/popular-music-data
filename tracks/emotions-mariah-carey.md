@@ -132,7 +132,3 @@ When you're looking into my eyes
 You make me feel so
 High
 
-
-
-
-

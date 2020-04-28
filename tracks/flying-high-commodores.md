@@ -67,7 +67,7 @@ You speak in a whisper like the wind, whoa
 And when I touch you I see clearly
 That we can be more than just friends
 
-Ooh
+Oh
 Doo doo doo doo doo doo doo doo
 Doo doo doo doo doo (Yeah, baby)
 Doo doo doo doo doo doo doo doo
@@ -78,7 +78,7 @@ For your love (Hey)
 Flyin' higher
 For your love
 
-Ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohhoh
 
 Flyin' high on a feelin' (Baby, sing it loud)
 Flyin' high

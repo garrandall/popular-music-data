@@ -71,9 +71,6 @@ A one way ticket, yeah
 It took me so long
 To find out, and I found out
 
-
-
-
 Tried to please her
 She only played one night stands
 Tried to please her

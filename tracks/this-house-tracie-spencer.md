@@ -131,11 +131,6 @@ I hear the sounds of voices cry
 It's time to open our eyes
 Time to help one another
 
-
-
-
-
-
 You, me
 We can make the difference
 And you know

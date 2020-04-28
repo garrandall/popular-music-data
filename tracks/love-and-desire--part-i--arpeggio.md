@@ -28,9 +28,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-04-07'
 ---
-Love, ooh, love
+Love, oh love
 Desire
-Love, ooh, love
+Love, oh love
 Desire
 
 Love, desire
@@ -62,11 +62,11 @@ Love and desire
 Love and desire
 Love and desire
 
-Love, ooh, love
+Love, oh love
 Desire
-Love, ooh, love
+Love, oh love
 Desire
-Love, ooh, love
+Love, oh love
 Desire
 
 Love, desire
@@ -87,7 +87,7 @@ Love and desire
 You are my
 Love and desire
 
-Love, ooh, love
+Love, oh love
 Desire
-Love, ooh, love
+Love, oh love
 Desire...

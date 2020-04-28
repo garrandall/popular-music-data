@@ -73,16 +73,10 @@ Emotions for you are so real
 Girl, you love me over and over again
 Don't stop, please don't let it end
 
-
-
-
 You know I love it
 Hey girl, you know I care (I like the way, oh)
 Sugar, you know I love it, baby
 Oh oh oh oh
-
-
-
 
 (I like) Baby, I like it
 (I like) Sugar, I love you (I like the way)
@@ -90,7 +84,7 @@ Oh oh oh oh
 (I like) Hey ey oh oh (I like the way)
 
 (I like) Baby I like you
-(I like) Hey, hey, I like you ooh (I like the way)
+(I like) Hey, hey, I like you oh(I like the way)
 (I like) Baby, love it
 (I like) Oh oh oh (I like the way)
 

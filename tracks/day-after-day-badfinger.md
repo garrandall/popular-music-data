@@ -81,9 +81,6 @@ Lookin' out of my lonely gloom, day after day
 Bring it home, baby, make it soon
 I give my love to you
 
-
-
-
 Lookin' out of my lonely room, day after day
 Bring it home, baby, make it soon
 I give my love to you

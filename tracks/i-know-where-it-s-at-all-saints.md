@@ -103,9 +103,9 @@ Don't you know that this is the only place to be?
 Don't you wanna come and see it
 
 
-If you know that you wanna get on down (Ooh, bop bop)
-No need to worry cause All Saints will be around (Ooh, bop bop)
-So if you're feeling kinda low, well baby don't (Ooh, bop bop)
+If you know that you wanna get on down (Oh, bop bop)
+No need to worry cause All Saints will be around (Oh, bop bop)
+So if you're feeling kinda low, well baby don't (Oh, bop bop)
 Cause I'll be here right (Right here) by your side (Your side) ready to flow (Ready to flow)
 
 
@@ -130,8 +130,8 @@ Everybody in the whole world wants to know
 Everybody wants to know whoa
 
 
-And to see that there's no one on the streets (Ooh, bop bop)
-Cause everyone knows that's where they've got to be (Ooh, bop bop)
+And to see that there's no one on the streets (Oh, bop bop)
+Cause everyone knows that's where they've got to be (Oh, bop bop)
 
 
 I know where it's at

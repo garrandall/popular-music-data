@@ -51,4 +51,4 @@ When you broke my little heart, this little drop of water of fears
 I guess it's something I can't explain, why this little crystal of rain
 Falls from my eyes, a little drop of water called a tear
 O-o-oh
-Keeps fallin from my eyes tears, tears, tears, tears, tears, tears, oooooh
+Keeps fallin from my eyes tears, tears, tears, tears, tears, tears, oh

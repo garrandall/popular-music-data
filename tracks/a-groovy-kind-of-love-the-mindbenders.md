@@ -78,7 +78,7 @@ You can turn me on to
 Anything you want to
 Anytime at all
 When I taste your lips
-Ooh I start to shiver
+Oh I start to shiver
 Can't control the quivering inside
 Wouldn't you agree
 Baby you and me

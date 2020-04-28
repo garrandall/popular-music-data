@@ -81,6 +81,6 @@ In a wonderland
 In a wonderland
 Where nothing's planned for tomorrow
 
-Ooh, how happy we would be
+Oh, how happy we would be
 If only we
 Were storybook children

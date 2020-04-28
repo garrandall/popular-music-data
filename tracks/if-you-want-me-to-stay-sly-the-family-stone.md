@@ -94,22 +94,22 @@ Because I promise I'll be gone for a while.
 
 And when you see me again,
 I hope that you have been,
-The kind of person....that you really are now.
+The kind of person...that you really are now.
 Got to get in straight,
 How could I ever be late,
 When you're my woman taking up my time.
 
 Whoa, oh how could I ever allow,
 I guess I wonder how,
-I could get out a pocket for fun. HOW HOW!!
+I could get out a pocket for fun. HOW HOW!
 When you know that you're never number two,
 Number one's gonna be number one,
-ohh oww oohh
+oh oww oh
 
 I'll be good,
 I wish I could
 I get this message over to you now.
-ahhh, yeah, message, mmmm
+ah, yeah, message, mmm
 When you see me again,
 I hope that you have been,
 The kind of person you really are now.
@@ -117,7 +117,7 @@ I'll be so good, oh
 I wish I could,
 I get this message over to you now.
 
-ahhh, yeah.....
+ah, yeah...
 
 
 

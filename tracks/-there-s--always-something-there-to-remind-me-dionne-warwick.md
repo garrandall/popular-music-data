@@ -29,44 +29,44 @@ rankings:
   start_date: '1968-09-28'
 ---
 
-I walk along those city streets 
+I walk along those city streets
 You used to walk along with me
-And every step I take recalls 
+And every step I take recalls
 How much in love we used to be
 
 How can I forget you
-When there is always something there to remind me? 
+When there is always something there to remind me?
 Always something there to remind me
 I was born to love you
 And I will never be free
 You'll always be a part of me
-Whoa-ooo-ohhh-oh
+Whoa-oo-oh-oh
 
-If you should find you miss 
-The sweet and tender love 
+If you should find you miss
+The sweet and tender love
 We used to share
-Just go back to the places 
+Just go back to the places
 Where we used to go
 And I'll be there
 
 How can I forget you
-When there is always something there to remind me? 
+When there is always something there to remind me?
 Always something there to remind me
 I was born to love you
 And I will never be free
 You'll always be a part of me
-Whoa-ooo-ohhh-oh
-Whoa-oh-ooo-ohhh
+Whoa-oo-oh-oh
+Whoa-oh-oo-oh
 
-If you should find you miss 
-The sweet and tender love 
+If you should find you miss
+The sweet and tender love
 We used to share
-Just come back to the places 
+Just come back to the places
 Where we used to go
 And I'll be there
 
 How can I forget you
-When there is always something there to remind me? 
+When there is always something there to remind me?
 Always something there to remind me
 I was born to love you
 And I will never be free

@@ -27,7 +27,7 @@ Shiny and new
 Like a virgin
 Touched for the very first time
 Like a virgin
-When your heart beats 
+When your heart beats
 Next to mine
 
 Gonna give you all my love, boy
@@ -44,12 +44,12 @@ What was getting cold
 Like a virgin (hey)
 Touched for the very first time (yeah yeah)
 Like a virgin
-When your heart beats 
+When your heart beats
 Next to mine
 
-Oooh (whoah)
-oooh, (whoah whoah)
-oooh (yah yeah yeah)
+Oh (whoah)
+oh(whoah whoah)
+ohyah yeah yeah)
 (whoah whoah)
 
 You're so fine and you're mine
@@ -58,15 +58,15 @@ I'll be yours 'till the end of time
 Yeah, you made me feel
 I've nothing to hide
 
-Like a virgin , hey 
+Like a virgin , hey
 (you make me feel like a virgin)
-Touched for the very first time 
+Touched for the very first time
 (Ohhh baby)
 Like a virgin
-When your heart beats 
+When your heart beats
 Next to mine
 
-Like a virgin, ooh, ooh
+Like a virgin, oh, oh
 Like a virgin (yeahh)
 Feels so good inside
 When you hold me (when you hold me)
@@ -74,8 +74,8 @@ When your heart beats (when your heart beats)
 When you love me (when you love me baby)
 
 Oh, oh, oh, oh, oh, oh, oh, oh, oh (yeah)
-Ooh, baby
-ohh
+Oh baby
+oh
 Like a virgin
 
 

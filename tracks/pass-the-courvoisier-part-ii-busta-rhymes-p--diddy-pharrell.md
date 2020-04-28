@@ -90,14 +90,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-07-13'
 ---
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
 Don't this shit make a nigga wanna
 
 
@@ -160,14 +160,14 @@ Everybody sing it now {Pass the Courvoisier}
 Everybody sing it now {Pass the Courvoisier}
 
 
-(JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
+(JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
 Don't this shit make a nigga wanna
 
 
@@ -200,14 +200,14 @@ Everybody sing it now {*Pass the Courvoisier*}
 Everybody sing it now {*Pass the Courvoisier*}
 
 
-(JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
-Don't this shit make a nigga wanna (JUMP JUMP!!!!)
+(JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
+Don't this shit make a nigga wanna (JUMP JUMP!)
 Don't this shit make a nigga wanna
 
 

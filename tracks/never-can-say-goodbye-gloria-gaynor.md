@@ -89,7 +89,7 @@ Tell me why is it so
 Don't want to let you go
 
 Hey, I never can say goodbye, boy
-Ooh baby, I never can say goodbye, no, no, no, hey
+Oh baby, I never can say goodbye, no, no, no, hey
 
 I never can say goodbye, oh no, I
 I never can say goodbye
@@ -104,9 +104,9 @@ Tell me why is it so
 I don't want to let you go
 
 Hey, I never can say goodbye, boy
-Ooh baby, I never can say goodbye, no, no, no, ooh
+Oh baby, I never can say goodbye, no, no, no, oh
 Hey, I never can say goodbye, boy
-Ooh baby, I never can say goodbye, no, no, no, no, no, no
+Oh baby, I never can say goodbye, no, no, no, no, no, no
 
 Hey, I never can say goodbye, boy
 No, no, no, baby, hey, I never can say goodbye, no, no, no

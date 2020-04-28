@@ -45,7 +45,7 @@ I heard about you before
 I wanted to know some more
 And now I know what that means
 You're a love machine
-Ooh you make me dizzy
+Oh you make me dizzy
 
 Honey honey let me feel it aha
 Honey honey
@@ -90,5 +90,5 @@ You're a love machine
 Oh you make me dizzy
 
 Honey honey aha
-Honey honey ooh you make me dizzy
+Honey honey oh you make me dizzy
 Honey honey.

@@ -67,9 +67,6 @@ Shaolin, Black Fist, they do the job
 And Just came back wit that ol' funky rhyme
 Bring it
 
-
-
-
 And there's a thousand M.C.'s, lined up against the wall
 Timber, they all gonna fall
 Hassan Chop, yo I can't stop
@@ -91,9 +88,6 @@ Bases loaded, and I got my back gun
 Blaow, boom, bang, oh shit a home run
 *Crowd cheerin noise* Yo, the crowd goes crazy
 Bring it, if you want, cuz you really don't amaze me
-
-
-
 
 Look who's back, it's the Hell Razah, raisin hell
 And I've been rockin rhymes, since niggas been rockin gazelles
@@ -128,8 +122,5 @@ Well, if the shit ain't worth the shit
 Then I don't wanna be wit the shit
 And then you be like "Oh shit, he flipped it"
 Now ain't that some shit kid?
-
-
-
 
 Herb like this, mound up and roll it out

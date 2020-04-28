@@ -42,7 +42,7 @@ But I found someone new
 And I know, I know that you're good for me
 (Good, baby, good)
 But I'm no good for you
-Ooh, ooh, oo-ooh
+Oh, oh oo-oh
 
 Don't want to hurt you
 I feel, I feel so ashamed

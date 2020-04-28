@@ -69,9 +69,9 @@ Make me act so funny spend my doggone money
 I feel real loose like a long neck goose like a whoa baby that's what I like
 (Hello) huh (hello) can I what (hello) do I what (hello) will I what (hello)
 Can't never tell baby ha ha ha ha I might But honey you knows what I like
-Chantilly lace (chantilly lace) pretty face (chantilly lace) 
+Chantilly lace (chantilly lace) pretty face (chantilly lace)
 Pony tail hanging down (chantilly lace)
-A wiggle in her walk (chantilly lace) giggle in her talk (chantilly lace) 
+A wiggle in her walk (chantilly lace) giggle in her talk (chantilly lace)
 It gonna make that world go around (chantilly lace)
 Ain't nothin' in the world like a big eyed girl
 Make me act so funny spend my doggone money
@@ -80,20 +80,20 @@ Huh ha ha ha ha huh what you say pick you up at eight
 And don't be late you gotta be joking woman
 I thought you might pick me up at eight don't be late
 It don't make no difference baby you know what Jerry Lee likes
-Chantilly lace (chantilly lace)  pretty face (chantilly lace) 
+Chantilly lace (chantilly lace)  pretty face (chantilly lace)
 Pony tail hanging down (chantilly lace)
-A wiggle in her walk (chantilly lace) giggle in her talk (chantilly lace) 
+A wiggle in her walk (chantilly lace) giggle in her talk (chantilly lace)
 Oh it makes the world go around (chantilly lace)
-Ain't nothing in the world like a big eyed girl 
+Ain't nothing in the world like a big eyed girl
 Make me act so funny spend my doggone money
 I feel real loose like a long neck goose like a whoa baby that's what I like
-Ooh ha ha ha ha honey you tearin' me up on this telephone
+Oh ha ha ha ha honey you tearin' me up on this telephone
 I swear I don't know what in the world I'm gonna do with you
 You yap and yap and yap and yap and yap
 But when you break it all down you know what I like
-Chantilly lace (chantilly lace) pretty face (chantilly lace) 
+Chantilly lace (chantilly lace) pretty face (chantilly lace)
 Pony tail hanging down (chantilly lace)
-A wiggle in her walk (chantilly lace) giggle in her talk (chantilly lace) 
+A wiggle in her walk (chantilly lace) giggle in her talk (chantilly lace)
 It gonna make that world go around (chantilly lace)
 Ain't nothing in the world like a big eyed girl
 Make me act so funny spend my doggone money

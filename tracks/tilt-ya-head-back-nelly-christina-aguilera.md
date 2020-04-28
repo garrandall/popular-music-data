@@ -40,7 +40,7 @@ Think we missin' somethin' though (Mmm, yeah)
 Oh, I got it (Yeah)
 Put some horns right here
 Let's do it again (Yeah, yeah, yeah! Ha!)
-(Uh-uh-ooh, alright!) Give her what she want
+(Uh-uh-oh alright!) Give her what she want
 Give her what she want (Woo! Ha)
 Give her want she want, gon' give her what she want
 
@@ -129,7 +129,7 @@ I need ya to dance (Tilt ya head back)
 (Bring it back up, slow-ly, that's right)
 
 (Hey) Give her what she want, give her what she want
-Woo-woo-woo, ooh, yeah, yeah
+Woo-woo-woo, oh yeah, yeah
 Give her what she want, 'gon', give her what she want (Oh, Nelly)
 Give her what she want, give her what she want
 Nelly, Nelly, you make me so sweaty, baby. yeah, ye-yeah, ye-yeah

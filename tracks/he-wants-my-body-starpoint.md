@@ -47,7 +47,7 @@ He wants my body
 
 No, no
 
-Ooh, ooh, ooh
+Oh, oh ooh
 
 I was looking for much more
 Than just another one night stand
@@ -75,11 +75,11 @@ He wants my body
 My baby wants to horizontalize
 
 He wants my body
-(Ooh)
+(Oh)
 He wants my body
 He don’t care about my mind, no
 He wants my body
-(Ooh)
+(Oh)
 He wants my body
 He just wants to horizontalize
 
@@ -126,14 +126,14 @@ He wants my body
 (He wants your body)
 His passion doesn’t waste no time
 
-He wants my body (ooh)
+He wants my body (oh
 He wants my body
 He don’t care about my mind, no
-He wants my body (ooh)
+He wants my body (oh
 He wants my body
 He just wants to horizontalize
 
-He wants my body, ooh
+He wants my body, oh
 
 He don’t care what’s on my mind, yeah
 He wants my body

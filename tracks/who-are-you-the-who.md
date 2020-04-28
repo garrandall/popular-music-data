@@ -112,12 +112,12 @@ Oh, who the fuck are you? (Who are you? Who, who, who, who?)
 
 
 Who are you?
-Ooh wa ooh wa ooh wa ooh wa ooh
-Ooh wa ooh wa ooh wa ooh wa ooh
-Ooh wa ooh wa ooh wa ooh wa ooh
-Ooh wa ooh wa ooh wa ooh wa ooh
-Ooh wa ooh wa ooh wa ooh wa ooh
-Ooh wa ooh wa ooh wa ooh wa ooh
+Oh wa ohwa ooha ohoh ohoh
+Oh wa ohwa ooha ohoh ohoh
+Oh wa ohwa ooha ohoh ohoh
+Oh wa ohwa ooha ohoh ohoh
+Oh wa ohwa ooha ohoh ohoh
+Oh wa ohwa ooha ohoh ohoh
 
 
 Who are you?

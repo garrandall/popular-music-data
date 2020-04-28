@@ -34,7 +34,7 @@ I'ma keep on running it up, ayy
 I'ma keep on running it up, fucking it up
 The choppa busting you up, ayy
 There you go, testing your luck
-Dumb as fuck, yeah (ayy, ooh)
+Dumb as fuck, yeah (ayy, oh)
 Flexin' baby, pull up in a drop top
 Diamonds dancing on me, they be hopscotch
 Bling Blaow, shinin' fresh just like some pop rocks

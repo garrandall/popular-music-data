@@ -130,9 +130,9 @@ To make 'em stop and stare as I zone out
 The club can't even handle me right now
 Watchin' you watchin' me, I go all out
 The club can't even handle me right now
-(Eh, yea-ei-yeaaah, eh, yea-ei-yeaaah, eh, yea-yeaaaah)
+(Eh, yea-ei-yeah, eh, yea-ei-yeah, eh, yea-yeah)
 The club can't even handle me right now
-(Eh, yea-ei-yeaaah, eh, yea-ei-yeaaah, eh, yea-yeaaaah)
+(Eh, yea-ei-yeah, eh, yea-ei-yeah, eh, yea-yeah)
 Haha! Can't nothin' handle me right now!
 I see you, D. Guetta, let's get 'em!
 
@@ -160,9 +160,9 @@ To make 'em stop and stare as I zone out
 The club can't even handle me right now
 Watchin' you watchin' me, I go all out
 The club can't even handle me right now
-(Eh, yea-ei-yeaaah, eh, yea-ei-yeaaah, eh, yea-yeaaaah)
+(Eh, yea-ei-yeah, eh, yea-ei-yeah, eh, yea-yeah)
 The club can't even handle me right now
-(Eh, yea-ei-yeaaah, eh, yea-ei-yeaaah, eh, yea-yeaaaah)
+(Eh, yea-ei-yeah, eh, yea-ei-yeah, eh, yea-yeah)
 
 
 Hey
@@ -188,12 +188,12 @@ To make 'em stop and stare as I zone out
 The club can't even handle me right now
 Watchin' you watchin' me, I go all out
 The club can't even handle me right now
-(Eh, yea-ei-yeaaah, eh, yea-ei-yeaaah, eh, yea-yeaaaah)
+(Eh, yea-ei-yeah, eh, yea-ei-yeah, eh, yea-yeah)
 (Put your hands up!)
 (Put your hands up!)
 (Put your hands up!)
 The club can't even handle me right now
-(Eh, yea-ei-yeaaah, eh, yea-ei-yeaaah, eh, yea-yeaaaah)
+(Eh, yea-ei-yeah, eh, yea-ei-yeah, eh, yea-yeah)
 (Put your hands up!)
 (Put your hands up!)
 (Put your hands up!)
@@ -203,7 +203,7 @@ You got me watchin' now (yeah)
 Got my attention now (yeah)
 Got everybody in the club wantin' to know now
 I am a ladies' man, come and be my lady and
-We can ball, so, ahh!
+We can ball, so, ah!
 Bring ya body here, let me switch up ya atmosphere
 Take you out of the club and up in my new Lear (yeah)
 Fly you all around the world
@@ -216,12 +216,12 @@ To make 'em stop and stare as I zone out
 The club can't even handle me right now
 Watchin' you watchin' me, I go all out
 The club can't even handle me right now
-(Eh, yea-ei-yeaaah, eh, yea-ei-yeaaah, eh, yea-yeaaaah)
+(Eh, yea-ei-yeah, eh, yea-ei-yeah, eh, yea-yeah)
 (Put your hands up!)
 (Put your hands up!)
 (Put your hands up!)
 The club can't even handle me right now
-(Eh, yea-ei-yeaaah, eh, yea-ei-yeaaah, eh, yea-yeaaaah)
+(Eh, yea-ei-yeah, eh, yea-ei-yeah, eh, yea-yeah)
 
 
 Put your hands up!

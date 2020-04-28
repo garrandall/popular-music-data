@@ -128,7 +128,7 @@ We can't do that yet, but I bet will chill
 Will still end up knockin the boots
 
 (Chorus)
-Ooh boy I love you so
+Oh boy I love you so
 Never ever ever gonna let you go
 Once I get my hands on you
 
@@ -153,10 +153,10 @@ All night long
 And early in the morning she sang this song
 
 (Chorus)
-Ooh boy I love you so
+Oh boy I love you so
 Never ever ever gonna let you go
 Once I get my hands on you
-Ooh boy I love you so
+Oh boy I love you so
 Never ever ever gonna let you go
 I hope you feel the same way too
 (Girl I do)
@@ -198,4 +198,4 @@ MC Chip, Big Rob and Bud
 Rockin on the waterbed, knockin on the rugs
 I'm just playing, what I'm saying ain't ill
 Girl you should know I'm real
-(Unh Unh..giggling) *2
+(Unh Unh...giggling) *2

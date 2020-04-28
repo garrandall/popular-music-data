@@ -41,7 +41,7 @@ May God be with you my love
 Wherever you may be, I'll be beside you
 Although you're many million dreams away
 Each night I'll say a pray'r, a pray'r to guide you
-To hasten ev'ry lonely hour of ev'ry lonely day
+To hasten every lonely hour of every lonely day
 
 Now the dawn is breaking through a gray tomorrow
 But the memories we share are there to borrow
@@ -56,7 +56,7 @@ May God be with you my love
 Wherever you may be I'll be beside you
 Although you're many million dreams away
 Each night I'll say a pray'r, a pray'r to guide you
-To hasten ev'ry lonely hour of ev'ry lonely day
+To hasten every lonely hour of every lonely day
 
 Now the dawn is breaking through a gray tomorrow
 But the memories we share are there to borrow

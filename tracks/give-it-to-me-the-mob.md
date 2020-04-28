@@ -51,9 +51,6 @@ Homie wouldda cried then give him a reason
 I'm tired of you tellin' me how he's cheatin'
 Girl don't get mad get even..
 
-
-
-
 Don't hurt nobody when you move that thang
 You a make a nigga jus' lose his brain
 When you make that ass clap and swing your hips
@@ -67,9 +64,6 @@ So tell your girls it's just me and my partners
 We don't throw dollaz we start with twenty's
 And there's more where that came from, come get with
 It, yeah..
-
-
-
 
 Yo yo..
 I just wanna get you hot and wet

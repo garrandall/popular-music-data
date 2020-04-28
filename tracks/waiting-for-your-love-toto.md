@@ -55,14 +55,10 @@ Soul, be with her now, 'cause you're the first one she knew anyhow
 Words be gentle when you speak into her heart
 'Cause if it breaks, she may not come again
 
-
-
-
-
 Words be gentle when you speak into her heart
 'Cos if it breaks, she may not come again
 
-I've been sittin', waitin' for your love, 
+I've been sittin', waitin' for your love,
 And all the time it's been here right in front of me
 Draw the line, I'll step across, even further I give in, you got me
 I've been sitting, waiting for your love

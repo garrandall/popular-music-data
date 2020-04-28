@@ -77,8 +77,8 @@ I'm gonna lock you into my love
 Hey, I'm gonna lock you into my love
 Because we belong together (we do, yes we do)
 
-(Dreams....)
-(Life....)
+(Dreams...)
+(Life...)
 (We belong together, we do, yes we do)
 (I know we can make it, yes we can, wanna be a man)
 

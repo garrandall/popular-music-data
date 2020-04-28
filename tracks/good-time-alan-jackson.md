@@ -107,7 +107,7 @@ Put on my hat, forgot about work
 Sun going down, head across town
 Pick up my baby and turn it around
 Good time
-Ahh, I need a good time
+Ah, I need a good time
 
 
 I've been working all week
@@ -160,7 +160,7 @@ And I want to have fun
 It's time for a good time
 
 
-Ahh, turn it up now!
+Ah, turn it up now!
 A shot of Tequila
 Beer on tap
 A good looking woman

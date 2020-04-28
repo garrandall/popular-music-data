@@ -101,7 +101,7 @@ Todo por mi parte
 Porque se que un dia te falle,
 PrometerÃ©, darte toda mi atencion,
 Porque se lo que es vivir sentir
-Estar sin ti ya no aguanto este dolor 
+Estar sin ti ya no aguanto este dolor
 
 
 Te extraÃ±o y quiÃ©ro decirte que me faltas tu
@@ -111,17 +111,17 @@ Por ti llorare un rio
 Y te regalo mi corazon
 
 
-EscuchamÃ©, tu me vuelves loca, 
+EscuchamÃ©, tu me vuelves loca,
 Y necesito ser solamente tuya,
 EscuchamÃ©, y no me dudes baby,
-Entiendeme y quiere me, 
+Entiendeme y quiere me,
 Pero quiero a ti baby
 
 
 Se que todo es todo para ti
 Que quizas lo que te dije
 No te entendi.
-Pero yo te  tengo que admitir 
+Pero yo te  tengo que admitir
 Que mi ?? me haces muy feliz.
 No mas dimÃ© que me quiÃ©re, y que me ama, que me entiendÃ©, y me extraÃ±as, y soy tu baby
 Yo aqui estarÃ© para ti
@@ -131,15 +131,11 @@ Loca por tu amor, Te amo.
 Si no estas aqui,
 Que voy a hacer sin ti
 Quedate por favor
-Eres tu que no debes 
+Eres tu que no debes
 Que sin ti es dificil
 Y me pierdo, me faltas tu
 
-
-
-
-
-Ooooh ooooh oooooh oooh ooooh ooooh ooooh ooooh oooh
+Oh oh oh oh oh oh oh oh oh
 
 
 

@@ -95,29 +95,26 @@ leave me alone (Never leave me alone)
 Never leave Me alone
 
 
-They tell me that temptation.....ooh, is very hard to resist
-You tell me that you want me....I tried to hide my feelings, D-O-G's
+They tell me that temptation...oh is very hard to resist
+You tell me that you want me...I tried to hide my feelings, D-O-G's
 ain't supposed to feel like this
-You can call it what you want to....But I don't even know what it is
-You've got me singin' in the morning....you bring me breakfast in my bed
+You can call it what you want to...But I don't even know what it is
+You've got me singin' in the morning...you bring me breakfast in my bed
 and when it hurts you rub my head
-I'll ask you one time only....baby, won't you be there when it's hectic
+I'll ask you one time only...baby, won't you be there when it's hectic
 When I don't have a hit record (Never leave me alone)
 
 
 
 
-I've traveled so many places....I've seen so many faces
+I've traveled so many places...I've seen so many faces
 There were times I didn't think I'd make it through (alone)
-I went through so many phases....that got me so many cases
+I went through so many phases...that got me so many cases
 Three strikes you're gonna' then what you gonna do
-I guess I'll call my lady....and tell her to kiss my baby
+I guess I'll call my lady...and tell her to kiss my baby
 They tell me that crime is all I know how to do
-Tell him his daddy's sorry....let him know all about me
+Tell him his daddy's sorry...let him know all about me
 There's one more thing I'd really like for you to do
-
-
-
 
 Somebody was naughty when they snitched on me
 And the judge just sentenced me to do about a century
@@ -142,8 +139,4 @@ So keep away better yet stay away
 And hope I get out one day, OK
 But if I don't I guess this is home
 My girl is trippin she got a block on the phone
-
-
-
-
 

@@ -79,10 +79,10 @@ Yeah, yeah (Eh);yeah, yeah (Eh)
 Yeah, yeah(Eh); yeah, yeah (Eh)
 
 
-She only love me 'cause I'm dangerous (Dangerous) (Ooh yeah)
+She only love me 'cause I'm dangerous (Dangerous) (Oh yeah)
 That pum pum something like angel dust (Angel dust) (Some')
-Girl, let me hold ya (Oh), put mi ting all around ya (Ooh)
-Make me feel like I own ya (Ooh), kill the poon like a warrior (Oh), hit that pum like
+Girl, let me hold ya (Oh), put mi ting all around ya (Oh)
+Make me feel like I own ya (Oh), kill the poon like a warrior (Oh), hit that pum like
 
 
 Girl, I got a question for ya (I got)
@@ -112,4 +112,4 @@ Yeah, yeah (Eh); yeah, yeah (Eh) (Yeah, yeah)
 Girl, I got a question for ya (For you)
 Can I get an answer?
 Yeah, yeah (Eh); yeah, yeah (Eh) (Woo)
-Yeah, yeah (Eh); yeah, yeah (Eh) (Woo-ooh)
+Yeah, yeah (Eh); yeah, yeah (Eh) (Woo-oh)

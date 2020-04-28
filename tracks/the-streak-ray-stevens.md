@@ -142,35 +142,35 @@ But it was too late. She'd already got a free shot.
 Grandstandin', right there in front of the home team.
 
 
-Oh, yes, they call him the Streak 
-(Look at that, look at that) 
-The fastest thing on two feet 
-(Look at that, look at that) 
-He's just as proud as he can be 
-Of his anatomy 
+Oh, yes, they call him the Streak
+(Look at that, look at that)
+The fastest thing on two feet
+(Look at that, look at that)
+He's just as proud as he can be
+Of his anatomy
 He's gonna give us a peek
 
 
-Here he comes again. 
-Who's that with him? 
+Here he comes again.
+Who's that with him?
 Ethel?  Is that you, Ethel?
-What do you think you're 
-doin'?  You git your 
+What do you think you're
+doin'?  You git your
 clothes on!
 
 
-Oh, yes, they call him the Streak 
-(Look at that, look at that) 
+Oh, yes, they call him the Streak
+(Look at that, look at that)
 He likes to show off his physique
-(Look at that, look at that) 
+(Look at that, look at that)
 If there's an audience to be found
 He'll be streakin' around
 Invitin' public critique
 
-Ethel! Where you goin'? 
-Ethel, you shameless 
+Ethel! Where you goin'?
+Ethel, you shameless
 hussy! Say it isn't so,
-Ethel! Ethelllllll!!!
+Ethel! Ethelllllll!
 
 
 

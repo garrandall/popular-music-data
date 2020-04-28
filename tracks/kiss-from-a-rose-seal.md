@@ -169,7 +169,7 @@ The light that you shine can't be seen?
 
 
 Baby, I compare you to a kiss from a rose on the gray
-Ooh, the more I get of you, the stranger it feels, yeah
+Oh, the more I get of you, the stranger it feels, yeah
 And now that your rose is in bloom
 A light hits the gloom on the gray
 
@@ -191,7 +191,7 @@ The light that you shine can't be seen?
 
 
 Baby, I compare you to a kiss from a rose on the gray
-Ooh, the more I get of you, the stranger it feels, yeah
+Oh, the more I get of you, the stranger it feels, yeah
 And now that your rose is in bloom
 A light hits the gloom on the gray
 
@@ -215,11 +215,11 @@ The light that you shine can't be seen?
 
 
 Baby, I compare you to a kiss from a rose on the gray
-Ooh, the more I get of you, the stranger it feels, yeah
+Oh, the more I get of you, the stranger it feels, yeah
 And now that your rose is in bloom
 A light hits the gloom on the gray
 Yes, I compare you to a kiss from a rose on the gray
-Ooh, the more I get of you, the stranger it feels, yeah
+Oh, the more I get of you, the stranger it feels, yeah
 And now that your rose is in bloom
 A light hits the gloom on the gray
 

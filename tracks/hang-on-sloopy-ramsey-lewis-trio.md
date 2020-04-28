@@ -45,7 +45,7 @@ Hang on sloopy, sloopy hang on
 
 Sloopy lives in a very bad part of town
 And everybody there tries to put my sloopy down
-Sloopy i don't care what your daddy do
+Sloopy I don't care what your daddy do
 'cause you know sloopy girl i'm in love with you
 And so i'm singing...
 
@@ -67,4 +67,3 @@ Well shake it, shake it, shake it sloopy come on, come on
 Well shake it, shake it, shake it yeah
 Yeah...
 
-Chorus

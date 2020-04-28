@@ -148,8 +148,8 @@ I wanna be with you
 Gotta be with you
 Need to be with you
 (Oh-oh, oh-oh)
-Ooh (Oh-oh, oh-oh)
-Ooh (Oh-oh, oh-oh)
+Oh (Oh-oh, oh-oh)
+Oh (Oh-oh, oh-oh)
 
 
 Chemistry was crazy from the get go
@@ -187,7 +187,7 @@ My love is only your love
 We've been too strong for too long
 And I can’t be without you, baby (Ohh)
 And I’ll be waitin’ up until you get home
-'Cause I can’t sleep without you, baby (Ooh)
+'Cause I can’t sleep without you, baby (Oh)
 If anybody who’s ever loved you know just what I feel
 Too hard to fake it, nothin’ can replace it
 Call the radio if you just can’t be without your baby, yeah

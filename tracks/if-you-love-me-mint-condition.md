@@ -184,7 +184,7 @@ Like you say you do
 Won’t you show me
 (Hey, hey, hey, hey)
 Just how much you do?
-(Ooh, how much you do?)
+(Oh, how much you do?)
 
 If you love me
 (I’ve got what you want and you’ve got what I want)

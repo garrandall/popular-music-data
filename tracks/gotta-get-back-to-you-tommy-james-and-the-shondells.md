@@ -41,56 +41,53 @@ rankings:
   start_date: '1970-04-11'
 ---
 
-Fortunata woman, 
-you know I wanted to fly, 
+Fortunata woman,
+you know I wanted to fly,
 make it by myself alone.
 Now I'm lookin' for a man
 with a silver dollar shoeshine,
 I gotta get a way back home.
 
-Listen to me, woman, 
-now can't you hear me callin', 
+Listen to me, woman,
+now can't you hear me callin',
 I've got a lot of love to do.
-Don't you know I'm gonna cry some, 
+Don't you know I'm gonna cry some,
 I know I'm gonna die some,
 I gotta get back to you.
 
 
-Gotta get back, gotta get back, 
+Gotta get back, gotta get back,
 gotta get, gotta get back to you.
-Gotta get back, 
-gotta get back, 
-gotta get, 
+Gotta get back,
+gotta get back,
+gotta get,
 gotta get back to you.
 
-Fortunata woman, 
-the monkey man's dead 
+Fortunata woman,
+the monkey man's dead
 and the junkie didn't get too far.
-But I'm singin' my song, 
-'cuz I got my head, 
+But I'm singin' my song,
+'cuz I got my head,
 and my bed, and my red guitar.
 
-I'm a-rollin' down the highway, 
+I'm a-rollin' down the highway,
 now don't you get in my way,
 Mister, I'm a comin' through.
-Well, I know I'm gonna cry some, 
+Well, I know I'm gonna cry some,
 you know I'm gonna die some,
 I gotta get back to you.
 
-Gotta get back, gotta get back, 
+Gotta get back, gotta get back,
 gotta get, gotta get back to you.
-Gotta get back, 
-gotta get back, 
-gotta get, 
+Gotta get back,
+gotta get back,
+gotta get,
 gotta get back to you.
 
-Gotta get back, gotta get back, 
+Gotta get back, gotta get back,
 gotta get, gotta get back to you.
-Gotta get back, 
-gotta get back, 
-gotta get, 
+Gotta get back,
+gotta get back,
+gotta get,
 gotta get back to you.
-
-
-
 

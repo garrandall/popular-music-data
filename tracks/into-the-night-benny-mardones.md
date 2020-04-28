@@ -187,7 +187,7 @@ Oh, if I could fly, I'd pick you up
 I'd take you into the night
 And show you a love
 Like you've never seen, ever seen
-Yeah, ooh
+Yeah, oh
 
 
 If I could fly, I'd pick you up

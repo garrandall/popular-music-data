@@ -21,7 +21,7 @@ rankings:
 I want to hear what you have to say
 (As long as I'm near you)
 Nothing will seem to pass away
-Long as I'm near you 
+Long as I'm near you
 Longing to hear you
 Long as I'm near you
 
@@ -64,7 +64,7 @@ I want to believe
 
 And so I believe you
 And so I believe you
-And so I believe 
+And so I believe
 
 I want to believe you
 I want to believe you
@@ -73,7 +73,7 @@ I want to believe
 As long as I'm near you
 As long as I'm near you
 As long as I'm near
-Oohhh
+Oh
 I want to believe you
 
 

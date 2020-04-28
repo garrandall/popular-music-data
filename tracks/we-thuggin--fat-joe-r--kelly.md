@@ -91,7 +91,7 @@ rankings:
 ---
 
 
-(Ooohhh, mmm)
+(Oh, mmm)
 Yea, uh, uh (Fat Joe and the R)
 That shit y'all (Breakin shit down)
 Shake that, funky, funky, funky (Yeah)
@@ -156,9 +156,6 @@ I give 'em twenty a pop, leave the panties atop
 But none of these kids stack chips like us
 Some of these cats is doin they own thing
 But none of these cats run tricks like us
-
-
-
 
 Haha, yeah uh
 You know what this is

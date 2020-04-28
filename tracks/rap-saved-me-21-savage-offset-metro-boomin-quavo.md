@@ -44,7 +44,7 @@ Need my cash (Need my racks), fuck you, pay me (Fuck you, pay me)
 Offset!
 Where is the money? (Where?)
 Where is the, where is the paper? (Where?)
-Ooh, there go the acres, ooh
+Oh, there go the acres, oh
 They biting my drip like a sabre, yeah, yeah
 Who is my neighbor? (Who?)
 I live on the island, I'm sacred (Island)

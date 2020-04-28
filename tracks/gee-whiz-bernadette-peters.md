@@ -64,7 +64,7 @@ Gee whiz, look at his eyes
 Gee whiz, how they hypnotize
 He's got everything a girl could want
 Man, oh, man, what a prize
-(What a prize) ooh-ooh
+(What a prize) oh-oh
 
 Gee whiz (gee whiz) he's all the joy
 Gee whiz (gee whiz) I could find in a boy

@@ -104,7 +104,7 @@ I don't want to be here no more
 
 Wouldn't it be good to be in your shoes
 Even if it was for just one day?
-Wouldn't it be good if we could wish ourselves away? Ooh
+Wouldn't it be good if we could wish ourselves away? Oh
 Wouldn't it be good to be on your side?
 The grass is always greener over there
 Wouldn't it be good if we could live without a care?

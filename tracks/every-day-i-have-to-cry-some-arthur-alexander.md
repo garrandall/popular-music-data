@@ -85,5 +85,5 @@ But you can`t
 Mix love with money
 Cause if you do
 You`re gonna hurt somebody
-Every day, I have to, ooh, cry some
-Every day, I have to cry some....
+Every day, I have to, oh cry some
+Every day, I have to cry some...

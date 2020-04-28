@@ -40,7 +40,7 @@ Spit all in between both cheeks, now I spread 'em
 Bet the neighbors know my name when you keep sayin' "Kevin"
 Hands behind, I'mma stand behind you
 Pullin' on your hair, lot of ass behind you (jam)
-Got me sayin', "Ooh keep goin' with your moves."
+Got me sayin', "Oh keep goin' with your moves."
 Candles by the bed, God damn, this a movie
 Stuffin' you with dick while my finger in your booty
 Hit you with the Ruger, the bitch don't (jam)

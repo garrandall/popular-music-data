@@ -84,9 +84,6 @@ Every time I'm in the street I hear
 
 "YAWK! YAWK! YAWK!"
 
-
-
-
 Wake your punk ass up! It ain't nothing but a Compton thang, G-yeah. Real simple and plain, I'mma teach you some lessons about the street. Hood. It ain't nothing but a Compton thang, G-yeah. How we do
 
 

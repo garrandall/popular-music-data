@@ -139,7 +139,7 @@ Bitch I'm a boss like Gotti
 Rock Tom Ford and I still pop Molly
 Roll up good Cali, ladeedadee
 It's just me and all my hommies
-At your door like the shining, ooh!
+At your door like the shining, oh
 Feel like can't nobody stop me, I'm a hot nigga
 And the bitch that I'm with know she hot stuff
 Pull up in the hot wheels, ballin' get yo hops up

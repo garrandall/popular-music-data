@@ -89,7 +89,7 @@ rankings:
   start_date: '2000-06-10'
 ---
 Yeah
-Mmmm
+Mmm
 Whoa
 Oh yeah
 
@@ -182,4 +182,4 @@ Go without you, go without you
 I don't wanna be alone
 
 
-Don't wanna live, no.... No.....
+Don't wanna live, no... No...

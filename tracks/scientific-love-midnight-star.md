@@ -41,14 +41,14 @@ Come here to date and to find a mate
 Two hearts a scientific find
 Searching for love for a very long time
 So I got my eyes on you
-Take time to know me if 
-Show me 
+Take time to know me if
+Show me
 I need much more than a one night lover
 
 
 Two hearts that feel like one
 It's scientific love
-(Ooh show me baby - Scientific)
+(Oh show me baby - Scientific)
 You and me having fun
 It's scientific love
 
@@ -60,7 +60,7 @@ Better if we make it everlasting
 
 
 So you don't wanna be alone
-You'd better walk into my heart right now ooh
+You'd better walk into my heart right now oh
 And yeah you wanna be free yeah
 Well I'm telling you
 Scientifically
@@ -68,21 +68,21 @@ Scientifically
 
 Two hearts that feel like one
 It's scientific love
-Ooh show me baby (scientific)
+Oh show me baby (scientific)
 You and me having fun
 It's scientific love
 Two hearts that feel like one
 It's scientific love
-Ooh show me baby (scientific)
+Oh show me baby (scientific)
 You and me having fun
 It's scientific love
 
-Ooh show me
+Oh show me
 Scientific love
 
 
 So you don't wanna be alone
-You'd better walk into my heart right now ooh
+You'd better walk into my heart right now oh
 And yeah you wanna be free yeah
 Well I'm telling you
 Scientifically
@@ -90,12 +90,12 @@ Scientifically
 
 Two hearts that feel like one
 It's scientific love
-Ooh show me baby (scientific)
+Oh show me baby (scientific)
 You and me having fun
 It's scientific love
 
 
-I like to find I like to 
+I like to find I like to
 I like to be a scientific man
 Wanna hug you, squeeze you and make you feel right
 I'll be  just around midnight
@@ -119,6 +119,6 @@ Scientific love
 
 Two hearts that feel like one
 It's scientific love
-Ooh show me baby (scientific)
+Oh show me baby (scientific)
 You and me having fun
 It's scientific love

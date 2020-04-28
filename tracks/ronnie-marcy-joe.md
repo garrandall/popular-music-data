@@ -21,7 +21,7 @@ rankings:
   start_date: '1961-06-05'
 ---
 Ooo Ooo Ronnie come back
-Ooo ooo Ronnie come back
+Ooo oo Ronnie come back
 Oh, Ronnie, I love you so
 I just can't see why you had to go
 I want you, I need you, I love you
@@ -51,5 +51,5 @@ Another boy who will do
 Oh Ronnie (Ronnie) Ronnie (Ronnie)
 I will always love you
 Ooo Ronnie come back
-Oo, oooo Ronnie come back
-Oo, oooo, Ronnie come back, oooo
+Oo, oo Ronnie come back
+Oo, oo, Ronnie come back, oo

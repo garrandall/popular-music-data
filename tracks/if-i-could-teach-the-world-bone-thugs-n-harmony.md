@@ -89,7 +89,7 @@ rankings:
   start_date: '1998-02-28'
 ---
 
-Why do I stay high 
+Why do I stay high
 
 
 
@@ -121,7 +121,7 @@ What do you know but I can't go wrong
 When I kick it wit my song
 I turn it up
 Cause you love that thuggish ruggish bone bone bone
-Crossroads what rules the world 
+Crossroads what rules the world
 Enough to make it where we almost lost those
 Who meant so much why wasn't I chose?
 But it will not stop BONE
@@ -159,12 +159,12 @@ And as thugs we're more and more and more
 
 I got, we got too much shit to give, got shit to give
 Expensive but still and still it's all for the little kids
-Come on ohhhh follow me (BONE), way to go, we know the way to go
+Come on oh follow me (BONE), way to go, we know the way to go
 Follow me follow me BONE
 And that's why I stay high cause I got shit to deal with
-The government and these playa-hataz out to kill Wish 
-Wanna hurt this but uhuh 
-I got two mo thug niggaz you just cant fuck with
+The government and these playa-hataz out to kill Wish
+Wanna hurt this but uhuh
+I got two mo thug niggas you just can't fuck with
 Artillery you can come with
 Nigga betta let it rest shit (shit)
 To the little boys and girls all over the world
@@ -174,7 +174,7 @@ How must I say this, if we can no more murder
 
 
 
-Why do I stay high 
+Why do I stay high
 
 
 

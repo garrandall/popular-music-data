@@ -121,6 +121,6 @@ If you can break the spell back in your own world
 
 (Stay) Stay with me
 (Stay) Stay with me
-(Stay) Stay, stay with me ahh-haaa
+(Stay) Stay, stay with me ah-haaa
 (Stay) Stay, stay, stay, stay, stay
 (Stay)

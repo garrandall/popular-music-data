@@ -119,7 +119,7 @@ With a rebel yell she cried more, more, more
 More, more, more
 
 
-Ooh yeah, little baby
+Oh yeah, little baby
 She want more
 More, more, more, more, more
 Oh yeah, little angel

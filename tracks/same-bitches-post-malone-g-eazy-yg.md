@@ -43,7 +43,7 @@ Tell me what your goal is
 I know you only like me 'cause I just spent a hundred bands in one night
 Spent a hundred bands in one night
 I know you wanna live this life
-But I can't make a ho a housewife (ohh, no)
+But I can't make a ho a housewife (oh, no)
 What's your name? Who's your daddy?
 Is he rich like me? Is he rich like me?
 Yeah, yeah, yeah
@@ -97,7 +97,7 @@ Ridin' through the streets, you with the hometown baby
 I'm tryna do it for the brother like Motown baby
 She fucked the L.A. Laker for the record
 She fucked a Dodger baseball player for the record
-Fucked the head of my record label (ooh)
+Fucked the head of my record label (oh
 How you think she been so stable?
 Ah damn, ah damn, but she down to fuck
 Designer everything, Benz Truck

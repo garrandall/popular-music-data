@@ -60,8 +60,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-15'
 ---
-Written by Kenneth Lorin Darby
-Peaked at # 12 in 1959
 In this friendly, friendly world with each day so full of joy
 Why should any heart be lonely?
 In this friendly, friendly world with each night so full of dreams

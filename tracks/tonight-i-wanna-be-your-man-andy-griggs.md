@@ -62,7 +62,7 @@ Surrender to my patient hands
 All week I've been your husband, tonight I wanna be your man
 
 It hit me just this morning, when I passed you in the hall
-I swear I caught you lookin, like you dont know me at all
+I swear I caught you lookin, like you don't know me at all
 Let me show you who I am
 All week I've been your husband, tonight I wanna be your man
 

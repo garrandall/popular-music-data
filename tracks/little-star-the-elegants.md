@@ -80,9 +80,9 @@ Where are you little star?
 (Where are you?)
 
 Whoa oh, oh, oh uh oh
-Ratta ta ta too, ooh ooh
+Ratta ta ta too, oh oh
 Whoa oh, oh, oh uh oh
-Ratta ta ta too, ooh ooh
+Ratta ta ta too, oh oh
 
 Twinkle, twinkle little star
 How I wonder where you are
@@ -92,9 +92,9 @@ Searched all over for a love
 You're the one I'm thinkin' of
 
 Whoa oh, oh, oh, uh oh
-Ratta ta ta too, ooh ooh
+Ratta ta ta too, oh oh
 Whoa oh, oh, oh uh oh
-Ratta ta ta too, ooh ooh
+Ratta ta ta too, oh oh
 
 Twinkle, twinkle little star
 How I wonder where you are
@@ -102,9 +102,9 @@ High above the clouds somewhere
 Send me down a love to share
 
 Whoah oh, oh, oh, uh oh
-Ratta ta ta too, ooh ooh
+Ratta ta ta too, oh oh
 Whoa oh, oh, oh uh oh
-Ratta ta ta too, ooh ooh
+Ratta ta ta too, oh oh
 Whoa uh, oh, oh, oh
 
 Oh, there you are
@@ -123,11 +123,11 @@ Wish I may, wish I might
 Make this wish come true tonight
 
 Whoa oh, oh, oh, uh oh
-Ratta ta ta too, ooh ooh
+Ratta ta ta too, oh oh
 Woa oh, oh, oh uh oh
-Ratta ta ta too, ooh ooh
+Ratta ta ta too, oh oh
 
 Oh, ra, ta, ta
-Ooh, ooh, ooh, ooh, ooh
-Ooh, ooh, ooh, ooh, ooh
+Oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh
 There you are little star

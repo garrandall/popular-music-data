@@ -117,7 +117,7 @@ I’ll fuck you like no one has ever, ever made you feel
 I mean this part of our relationship's amazing still
 I might just put up with the arguing and stay, for real
 You looking bad, girl for goodness sakes
-You with all those curves, and me without no brakes, ooh
+You with all those curves, and me without no brakes, oh
 I’m willing to work it out however long it takes you
 You feel like you miss those happy days well girl that makes two of us
 Our timing is wrong

@@ -63,7 +63,7 @@ The moon at night (shines so bright)
 Seems to shine twice as bright
 When you're young and in love
 
-Ooh, dreams can come true (try a dream)
+Oh dreams can come true (try a dream)
 If you believe they do
 When you're young and in love
 
@@ -72,7 +72,7 @@ True love can conquer all
 When you're, when you're young and in love
 
 (Look and you'll find)
-Ooh, ooh yeah
+Oh ohyeah
 (There's no mountain you can't climb)
 When you're young and in love
 

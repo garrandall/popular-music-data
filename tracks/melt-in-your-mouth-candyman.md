@@ -52,7 +52,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-02-23'
 ---
-Mm-hmm...
+Mm-hm...
 This one goes out
 To all the suckers out there
 Who thought I was soft

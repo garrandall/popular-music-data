@@ -147,9 +147,9 @@ Chill out-your nose is growing, Pinocchio
 So now I'm leaving
 And you know I tried
 All right, baby, no more lies
-Do-do-doo-ooh-ooh
-Do-do-doo-ooh-ooh
-Do-do-do-do-do-ooh-ooh
+Do-do-doo-ohooh
+Do-do-doo-ohooh
+Do-do-do-do-do-ohooh
 
 You say no more lies
 And I'll try to understand

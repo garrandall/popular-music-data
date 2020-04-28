@@ -51,7 +51,7 @@ Some people really need it
 Talkin' y'all do things, do things, do things, bad things with it
 Money, money, money, money
 
-Ooh, you gotta do things, do things, do things, do things with it
+Oh, you gotta do things, do things, do things, do things with it
 Money, money, money, money
 For that mean
 Mean green
@@ -89,14 +89,14 @@ Don't, don't, BulletBoys say
 
 For the love of money
 Don't let money fool ya
-Ooh don't lie to your mother
+Oh don't lie to your mother
 
 For the love of money
 Don't let money fool ya
 All I got left to say, let freshen money no more
 
 For the love of money
-Ooh yeah yeah
+Oh yeah yeah
 Don't let money fool ya
 
 For the love of money

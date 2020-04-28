@@ -51,7 +51,7 @@ Lets take a journey to the other side
 Where many people learn to live with their handicaps
 While others die
 Where muthafuckas had no money spots
-And if they did then they ass went insane 
+And if they did then they ass went insane
 When all the money stops
 
 I'm from the ghetto so I'm used to that
@@ -60,7 +60,7 @@ And see where Houston at
 Its on the borderline of hard times
 And it's seldom that your hear niggas breakin' and givin' God time
 That's why your ass (????) and pray for me
-Because I know that even I got to die 
+Because I know that even I got to die
 And he got a day for me
 And every morning I wake up I'm kinda glad to be alive
 Cause thousands of my homeboys died
@@ -69,10 +69,6 @@ In most cases the incident covered up the whole page
 From Amsterdam to Amarillo
 It ain't no secret
 The world is a ghetto
-
-
-
-
 
 Five hundred niggas died in guerilla warfare
 In a village in Africa, but didn't nobody care
@@ -104,7 +100,7 @@ The world is a ghetto
 
 What's up outta towner? Southern nigga downer
 I wish you would bring your muthafuckin ass around here
-With that hip shit shit from your block 
+With that hip shit shit from your block
 You fuck around and get shipped back home to ya momma in a pine box
 Cause we don't play that shit in 5th Ward
 We got killas and hustlas and playas to so nigga disregard
@@ -119,8 +115,4 @@ Than a goddamn cigarette butt, for fuckin' wit my set
 So get that frown off your face busta
 Cause you ghetto ain't no harder than mine
 Muthafucka
-
-
-
-
 

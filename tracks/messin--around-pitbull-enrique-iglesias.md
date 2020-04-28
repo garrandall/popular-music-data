@@ -117,12 +117,12 @@ Yeah, I like that, I like that
 The way you ride them heels
 Yeah, I like that, I like that
 No thong up under that skirt
-Ooh, I like that, I like that
+Oh, I like that, I like that
 And you can get crazy, yeah, that's cool
 You can get loose, yeah, that's cool
 We can get some Voli, yeah, that's cool
 Let's jump on the bar, yeah, that's cool
-Let's push the gas, I'm like ooh
+Let's push the gas, I'm like oh
 I don't mean to be rude, but I swear to god
 There's so many things that I'd love to do to you
 

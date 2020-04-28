@@ -100,15 +100,15 @@ I won't cry
 I won't shed a tear
 But when your well runs dry
 You're gonna miss my loving baby
-The way i hold and touch and kiss
+The way I hold and touch and kiss
 
-The way i do you like this
+The way I do you like this
 And do you like that
-The way i do you like this
+The way I do you like this
 And do you like that
-The way i do you like this
+The way I do you like this
 And do you like that
-The way i do you like this
+The way I do you like this
 And do you like that
 
 Now one day
@@ -118,22 +118,22 @@ You'll search for me
 High and low
 But all remains
 Is a memory
-Of how i used to hold and touch and squeeze you baby I
+Of how I used to hold and touch and squeeze you baby I
 
-The way i do you like this
+The way I do you like this
 And do you like that
-The way i do you like this
+The way I do you like this
 And do you like that
-The way i do you like this
+The way I do you like this
 And do you like that
-The way i do you like this
+The way I do you like this
 And do you like that
 
-The way i do you like this
+The way I do you like this
 And do you like that
-The way i do you like this
+The way I do you like this
 And do you like that
-The way i do you like this
+The way I do you like this
 And do you like that
-The way i do you like this
+The way I do you like this
 And do you like that

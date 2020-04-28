@@ -142,7 +142,7 @@ Until our babies showered in gold, nigga
 Blue lookin' like Pac in the tub
 David LaChapelle levels of not givin' a fuck
 Prince left his masters where they safe and sound
-We never gonna let the elevator take us down, aaaahhh!
+We never gonna let the elevator take us down, ah!
 
 
 I'm all the way up

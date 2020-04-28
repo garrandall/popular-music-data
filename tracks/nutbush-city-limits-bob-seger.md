@@ -27,7 +27,7 @@ rankings:
 
 There's a churchhouse, gin house, schoolhouse, outhouse
 On the U.S. 19, hey the people keep the city clean
-They call it Nutbush, ahh Nutbush
+They call it Nutbush, ah Nutbush
 Nutbush city, Nutbush city limits
 
 25 is the speed limit, motorcycles not allowed in it
@@ -45,7 +45,7 @@ Nutbush city, Nutbush city limit
 A little old town, down in Tennessee
 
 Quiet community, a real quiet southern community
-Not much ever happens in Nutbush, ahh no
+Not much ever happens in Nutbush, ah no
 You can hear the corn grow,
 Got to watch out for the police
 Drivin' through nutbush

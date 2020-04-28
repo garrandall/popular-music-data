@@ -102,12 +102,12 @@ Sleepless nights, and lonely days
 Are all that fill my head
 All of the time, oh baby, but all I do
 Is think about the way you make me feel
-Cuz baby this love is so real 
+Cuz baby this love is so real
 
 
 If I try, to spend some time with you
 To make you happy, would you feel better
-And if I could, with you I would be forever 
+And if I could, with you I would be forever
 Forever in love soooooo
 Making love all through the night
 We hold each other tight
@@ -135,8 +135,4 @@ Hold you in my arms
 Soon as I get home (soon as , yeah)
 baby I know what I gotta do
 cuz I don't need no one but you (I know what I need)
-
-
-
-
 

@@ -91,27 +91,27 @@ There's a special kind of magic in the air
 When you find another heart that needs to share
 Baby, come to me, let me put my arms around you
 This was meant to be and I'm oh so glad I found you
-Need you ev'ry day, gotta have your love around me
+Need you every day, gotta have your love around me
 Baby, always stay 'cause I can't go back to livin' without you
-Spendin' ev'ry dime to keep you talkin' on the line that's how it was
+Spendin' every dime to keep you talkin' on the line that's how it was
 And all those walks together out in any kind of weather
 Just because, just because there's a brand-new way of looking at your life
 And when you know that love'll be standing by your side
 Baby, come to me, let me put my arms around you
 This was meant to be and I'm oh so glad I found you
-Need you ev'ry day, gotta have your love around me
+Need you every day, gotta have your love around me
 Baby, always stay 'cause I can't go back to livin' without you
 The nights can be cold
-There's a chill to ev'ry evenin' when you're all alone
+There's a chill to every evenin' when you're all alone
 Don't talk anymore
 'Cause you know that I'll be here to keep you warm, keep you warm
 Baby, come to me, let me put my arms around you
 This was meant to be and I'm oh so glad I found you
-Need you ev'ry day, gotta have your love around me baby, always stay
+Need you every day, gotta have your love around me baby, always stay
 'Cause I can't go back to livin' without you
 Baby, come to me, let me put my arms around you
 This was meant to be and I'm oh so glad I found you
-Need you ev'ry day, gotta have your love around me
+Need you every day, gotta have your love around me
 Baby, always stay 'cause I can't go back to livin' without you
 Let me the one that you are dreamin' of
 Baby, come to me, I'm giving all you love

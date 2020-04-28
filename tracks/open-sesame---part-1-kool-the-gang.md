@@ -61,8 +61,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-01-29'
 ---
-Aah aah aah aah aah aah aah aah aah aah aah aah aah!
-Aah aah aah aah aah aah aah aah aah aah aah aah aah aah aah!
+Ah ah ah ah ah ah ah ah ah ah ah ah ah!
+Ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah!
 Get down with the geenieee
 Get down with the genieee
 Get down with the genieee

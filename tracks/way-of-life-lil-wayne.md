@@ -56,7 +56,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-09-21'
 ---
-Look'a here... (Umm-hmm...)
+Look'a here... (Umm-hm...)
 This how we gon' do this...
 Up the turntables,
 Wolfe, get on the keyboard...
@@ -91,7 +91,7 @@ Don't - you - know,
 It's a way of liffeee... (I told ya'll...)
 Mama, do you want it?
 Cause I'm about to break it, (I told ya'll...)
-Oooh, baby. Can't stop the stuntin',
+Oh, baby. Can't stop the stuntin',
 Nooo, nooo... (Bring back that beat...)
 
 Pop one, pop two. Them new Nike shoes,
@@ -118,7 +118,7 @@ Don't - you - know,
 It's a way of liffeee... (I told ya'll...)
 Mama, do you want it?
 Cause I'm about to break it,
-Oooh, baby. Can't stop the stuntin',
+Oh, baby. Can't stop the stuntin',
 Nooo, nooo...
 
 Ay...
@@ -147,7 +147,7 @@ Don't - you - know,
 It's a way of liffeee...
 Mama, do you want it?
 Cause I'm about to break it,
-Oooh, baby. Can't stop the stuntin',
+Oh, baby. Can't stop the stuntin',
 Nooo, nooo...
 
 Yep!... There it is!. ya' lil' low-life...

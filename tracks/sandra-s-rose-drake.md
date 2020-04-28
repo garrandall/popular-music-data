@@ -20,7 +20,7 @@ rankings:
 No more, no more
 Baby, baby, baby, baby, baby, baby, baby, yeah
 No more, no more
-Baby, baby, baby, baby, baby, baby, baby, ooh
+Baby, baby, baby, baby, baby, baby, baby, oh
 Yeah
 
 Niggas see the crib and ask who did I steal from
@@ -51,7 +51,7 @@ I'm the chosen one, flowers never pick themselves
 No more, no more
 Baby, baby, baby, baby, baby, baby, baby, yeah
 No more, no more
-Baby, baby, baby, baby, baby, baby, baby, ooh
+Baby, baby, baby, baby, baby, baby, baby, oh
 
 Niggas want a classic, that's just ten of these
 Crime family like the Genovese
@@ -82,7 +82,7 @@ I guess you gotta show these niggas who you really are
 No more, no more
 Baby, baby, baby, baby, baby, baby, baby, yeah
 No more, no more
-Baby, baby, baby, baby, baby, baby, baby, ooh
+Baby, baby, baby, baby, baby, baby, baby, oh
 
 
 

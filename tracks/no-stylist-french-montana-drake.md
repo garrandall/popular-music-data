@@ -89,7 +89,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-02-16'
 ---
-Ooh
+Oh
 Yeah, louder
 Hey, hey
 I'm in London, got my beat from London

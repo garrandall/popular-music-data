@@ -124,11 +124,11 @@ Girl, can we talk for a second?
 (Baby can we talk)
 I know it's been a long time
 Since someone blew your mind, like I did
-(Ooh, baby)
+(Oh, baby)
 But there'll be other times
 (Didn't I blow your mind it happens all the time)
 For me and you
-(All the time)(Ooh, baby)
+(All the time)(Oh, baby)
 And I can see the tears fallin' from your eyes
 (I can see the tears falling from your eyes)
 Tell me girl did I blow your mind?

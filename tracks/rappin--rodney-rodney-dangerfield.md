@@ -95,7 +95,7 @@ I said I wanted to stop aging he gave me a gun
 I told him I got water on the knee
 He gave me a sponge and raised his fee
 (What's the matter, Rodney?)
-Ahhhh, it ain't easy bein' me
+Ah, it ain't easy bein' me
 
 
 It's just Rappin' Rodney
@@ -126,7 +126,7 @@ I called suicide prevention, they put me on hold
 Winter, summer, spring, and fall
 I'm always up against the wall
 (What's the matter, Rodney?)
-Ahhh, I don't get no respect at all
+Ah, I don't get no respect at all
 
 
 It's just Rappin' Rodney

@@ -74,7 +74,7 @@ Love Me With All Your Heart (cuando Calienta El Sol)
 Love Me With All Your Heart (Cuando Calienta El Sol)
 The Ray Charles Singers
 M. Vaughan
-(Aaaah, Aaaah)
+(Ah, Ah)
 Love me with all of your heart, that's all I want dear
 Love me with all of your heart or not at all
 Just promise me this: that you'll give me all your kisses every
@@ -84,7 +84,7 @@ Love me with all of your heart as I love you
 Don't give me your love for a moment or an hour
 Love me always as you loved me from the start:
 With every beat of your heart
-(Aaaah, Aaaah)
+(Ah, Ah)
 When we are far apart or when you're near me
 Love me with all your heart as I love you
 Don't give me your love for a moment or an hour
@@ -92,4 +92,4 @@ Love me always as you loved me from the start:
 With every beat of your heart
 With every beat of your heart
 With every beat of your heaaarrrt
-(Aaaaaaaah)
+(Ah)

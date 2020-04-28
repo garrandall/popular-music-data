@@ -52,7 +52,7 @@ Soon as I see 'em headed my way, I cut them off quick
 Must you beat me in my head everytime I come through?
 It's shit like, everybody tells me I sound just like you
 But you got me, got me? And you can't live without me
-If I wasn't DMX, you wouldn't give a f**k about me
+If I wasn't DMX, you wouldn't give a fuck about me
 Ain't about "Dog I wanna be just like you"
 How about you wanting to be just like you?
 You can do what I do, just in your own way

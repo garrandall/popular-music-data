@@ -62,7 +62,7 @@ How can you be daylight and darkness at the same time
 How can, how can you be daylight and darkness at the same time
 
 Ah, daylight, daylight, daylight, daylight
-Ooh hoo, darkness, darkness, darkness
+Oh hoo, darkness, darkness, darkness
 How can you be daylight and darkness at the same time
 Same time, same time, my baby
 Baby, at the same time

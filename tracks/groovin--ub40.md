@@ -42,7 +42,7 @@ But they don't realize
 
 That I'm just groovin', groovin'
 Grooving out on life
-I'm just groovin' ooh groovin'
+I'm just groovin' ohgroovin'
 groovin' till I die
 
 I see a river flowing by me
@@ -51,7 +51,7 @@ I get a feeling deep inside me
 It's so good to be free
 I've got sunshine in the daytime
 And moonlight every night
-And I'm just groovin' ...... Etc
+And I'm just groovin' ... Etc
 
 I see a river flowing by me
 Heading for the sea
@@ -59,11 +59,11 @@ I get a feeling deep inside me
 It's so good to be free
 I've got sunshine in the daytime
 And moonlight every night
-And I'm just groovin' ...... Etc
+And I'm just groovin' ... Etc
 
 That I'm just groovin', groovin'
 Grooving out on life
-I'm just groovin' ooh groovin'
+I'm just groovin' ohgroovin'
 groovin' till I die
 
 

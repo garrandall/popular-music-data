@@ -37,7 +37,7 @@ Says the things she knows I hate
 Why should I convince myself
 That she loves me and no one else
 Feels like time to break the chains
-I wont be fooled again
+I won't be fooled again
 
 Gonna take my time
 Gonna take what's mine

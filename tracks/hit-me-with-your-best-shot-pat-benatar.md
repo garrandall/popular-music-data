@@ -127,9 +127,6 @@ Why don't you hit me with your best shot
 Hit me with your best shot
 Fire away
 
-
-
-
 Well you're the real tough cookie with a long history
 Of breaking little hearts like the one in me
 Before I put another notch in my lipstick case

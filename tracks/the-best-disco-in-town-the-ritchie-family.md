@@ -107,9 +107,9 @@ They're the very best sounds, so high class
 If you make a request the DJ will do his best
 To lay down your favorite song so you or baby hold on the past
 
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohh,oh, oh oohohohh,oh, oh oohohohohoh
 
-The hit sound of Motown (Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh)
+The hit sound of Motown (Oh oh oohohohh,oh, oh oohohohh,oh, oh oohohoh
 The hit sound of Motown
 I'll be there
 ‘Cause we love music
@@ -131,12 +131,12 @@ DJ's are the best there, you'll never get a rest there
 You may meet the right girl or guy
 When they play the right groove your body makes the next move
 Get up on the floor and get down to see that the music can take you high
-Ooh, that's my baby
+Oh that's my baby
 I love to love you, baby
 I love to love you, baby
-Ooh, that's the way I like it
+Oh that's the way I like it
 
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohh,oh, oh oohohohh,oh, oh oohohohohoh
 
 Bop me, baby, bop me, baby
 They call me lady bop, lady bop, it's alright, ah
@@ -148,7 +148,7 @@ Any time you want me, love
 Romantic world
 I won't let you down
 Give all my love
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohh,oh, oh oohohohoh
 
 It's the best disco in town, funky pound for pound
 Join the crowd, come on dance and sing, hey, hey

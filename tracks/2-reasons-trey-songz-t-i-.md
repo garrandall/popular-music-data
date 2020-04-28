@@ -105,7 +105,7 @@ Is somebody getting drunk doe, right now  (Yeahhh)
 Catch me in the club like I own that bitch (Own That Bitch)
 Shawty dancing like she on that dick (On That D)
 Bad bitches never hold back (Never Hold Back)
-Send me a picture where ya phone at (Ooohhh)
+Send me a picture where ya phone at (Oh)
 
 
 I only came here for 2 Reasons, I-IIII can't lie (Whatcha came for)
@@ -113,14 +113,14 @@ I only came here for 2 Reasons, I-IIII can't lie (Whatcha came for)
 
 I only came for the bitches and the drinks (Uh-huh), bitches and the drinks  (That Right)
 For the bitches, Ca-Came for the bitches and the drinks (Uh-huh), bitches and the drinks  (Alright) (Baby Whatcha Came For)
-(Aahh) Baby get ya glass up (Get Ya Glass Up) I only came for the bitches and the drinks
+(Ah) Baby get ya glass up (Get Ya Glass Up) I only came for the bitches and the drinks
 Baby get ya ass up (Get Ya Ass Up) that's what I came for (Yeahhh)
 
 
 I see ya trying to handcuff her on the street, stop tripping you can't control that freak (Whoa)
 Ain't nobody gotta body like hers, ghetto booty but she came from the burbs
 Gotta dark skinned girl dancing on me (Dancing On Me), 2 white girls dancing on me (Dancing On Me)
-Bad yellow-bone (Bone), yeah in my zone, waitress keep coming back so you know we hella gone (Ooohh)
+Bad yellow-bone (Bone), yeah in my zone, waitress keep coming back so you know we hella gone (Oh)
 
 
 I only came here for 2 Reasons, I-IIII can't lie (Whatcha came for)
@@ -128,7 +128,7 @@ I only came here for 2 Reasons, I-IIII can't lie (Whatcha came for)
 
 I only came for the bitches and the drinks (Say What), bitches and the drinks  (Forreal)
 For the bitches, Ca-Came for the bitches and the drinks (Whooop), bitches and the drinks  (C'mon) (Baby Whatcha Came For)
-(Aahh) Baby get ya glass up (Get Ya Glass Up) I only came for the bitches and the drinks
+(Ah) Baby get ya glass up (Get Ya Glass Up) I only came for the bitches and the drinks
 Baby get ya ass up (Aight Trey) (Get Ya Ass Up) that's what I came for
 
 
@@ -145,15 +145,15 @@ Either way I try the same thang, wanna came through the door, like here you go c
 
 (I Only Came For) bitches and the drinks (Yeah-hh), bitches and the drinks  (You Need To Know What I Came For)
 Bitches and the drinks (Yeah-hh), bitches and the drinks  (I Know You Know What I Came For)
-(Aahh) Baby get ya glass up (Get Ya Glass Up) I only came for the bitches and the drinks
+(Ah) Baby get ya glass up (Get Ya Glass Up) I only came for the bitches and the drinks
 Baby get ya ass up (Get Ya Ass Up) that's what I came for
 
 
 Aye girl you heard what I said, get yo ass up (Get Yo Ass Up)
 If you hot, you cold, you Florida, Alaska, Chicago, Virginia, New York City
 Houston where the girls are thick, LA, the Bay, tell yo girl about this (The A)
-Matter fact tell the whole GA, ooo you know they fine up and down Carolina
-Shout to every ten I see, when I'm down in Tennessee (Ooohh)
+Matter fact tell the whole GA, oo you know they fine up and down Carolina
+Shout to every ten I see, when I'm down in Tennessee (Oh)
 
 
 I only came here for 2 Reasons (I Only Came Here For), I-IIII can't lie (You know I can't lie, I Only Came For)

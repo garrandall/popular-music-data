@@ -139,11 +139,11 @@ Girl, so show me and tell me
 That you feel the same way too
 Say you do, say you do, baby, baby, baby
 
-Ahh, here is the soul
+Ah, here is the soul
 Of which you've taken control
 Can't you see I'm tryin' to show love is right
 
-Ooh, girl, show and tell
+Oh, girl, show and tell
 Just a game I play
 When I wanna say "Oh, I love you"
 Girl, so show me and tell me

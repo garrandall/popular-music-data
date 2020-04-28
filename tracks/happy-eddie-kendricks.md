@@ -86,7 +86,7 @@ There is nothing I won't do just to make you happy
 I just wanna make you happy, baby
 
 I'm so close I feel your sorrow too
-When I'm see you cry, my eyes won't stay dry, ooh...
+When I'm see you cry, my eyes won't stay dry, oh...
 Baby can't you see, I just wanna be
 I wanna be your happy
 I wanna make you happy, baby
@@ -103,7 +103,7 @@ I will take your frown, turn it up side down
 Every, every little care I'll chug away some where
 If a tear should fall down your pretty face
 I'm so close I feel your sorrow too
-When I'm see you cry, my eyes won't stay dry, ooh...
+When I'm see you cry, my eyes won't stay dry, oh...
 Baby can't you see, I just wanna be
 I wanna be your happy...
 

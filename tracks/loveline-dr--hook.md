@@ -78,9 +78,9 @@ I don't mind, though my whole world is shaking
 I'll be fine, baby I'm your loveline
 
 Baby I'm your loveline
-Oooh, Baby I'm your lifeline
+Oh, Baby I'm your lifeline
 Baby I'm your loveline
-Oooh, Baby I'm your lifeline
+Oh, Baby I'm your lifeline
 
 
 

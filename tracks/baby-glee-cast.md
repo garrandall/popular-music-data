@@ -22,13 +22,13 @@ Are we an item? Girl quit playin'
 Say there's another and look right in my eyes
 My first love broke my heart for the first time
 
-And I was like baby, baby, baby, ohh
+And I was like baby, baby, baby, oh
 Like, baby, baby, baby, no
-Like, baby, baby, baby, ohh
+Like, baby, baby, baby, oh
 I thought you'd always be mine, mine
-Baby, baby, baby, ohh
+Baby, baby, baby, oh
 Like, baby, baby, baby, no
-Like, baby, baby, baby, ohh
+Like, baby, baby, baby, oh
 I thought you'd always be mine, mine
 
 Oh, for you, I would have done whatever
@@ -41,13 +41,13 @@ And just shake me till you wake me from this bad dream
 I'm going down, down, down, down
 And I just can't believe my first love won't be around
 
-And I'm like baby, baby, baby, ohh
+And I'm like baby, baby, baby, oh
 Like, baby, baby, baby, no
-Like, baby, baby, baby, ohh
+Like, baby, baby, baby, oh
 I thought you'd always be mine, mine
-Baby, baby, baby, ohh
+Baby, baby, baby, oh
 Like, baby, baby, baby, no
-Like, baby, baby, baby, ohh
+Like, baby, baby, baby, oh
 I thought you'd always be mine, mine
 
 
@@ -67,13 +67,13 @@ And now my heart is breakin'
 But I just keep on sayin'
 
 
-Baby, baby, baby, ohh
+Baby, baby, baby, oh
 Like, baby, baby, baby, no
-Like, baby, baby, baby, ohh
+Like, baby, baby, baby, oh
 I thought you'd always be mine, mine
-Baby, baby, baby, ohh
+Baby, baby, baby, oh
 Like, baby, baby, baby, no
-Like, baby, baby, baby, ohh
+Like, baby, baby, baby, oh
 I thought you'd always be mine
 
 I'm gone (Yeah, yeah, yeah, yeah, yeah, yeah)

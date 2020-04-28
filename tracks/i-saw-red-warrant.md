@@ -84,7 +84,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-04-06'
 ---
-Ooh it must be magic
+Oh it must be magic
 How inside your eyes I see my destiny
 Every time we kiss
 I feel you breathe your love so deep inside of me
@@ -131,4 +131,4 @@ And I didn't need to see his face
 I saw yours
 I saw red and then I closed the door
 I don't think I'm gonna love you anymore
-Ooh it must be magic
+Oh it must be magic

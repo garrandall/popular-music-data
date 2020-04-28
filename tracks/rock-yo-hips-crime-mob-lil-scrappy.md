@@ -141,7 +141,7 @@ Rock it, roll it, drop it to the floor
 Bouncing slow
 Shorty's all pro
 That's the way to go
-Jello booty ooo-wee
+Jello booty oo-wee
 Got a nigga glacin' every time that - react
 "I thought I saw a putty cat"
 Gimme, gimme, gimme that

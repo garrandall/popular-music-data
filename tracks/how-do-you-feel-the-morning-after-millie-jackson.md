@@ -68,7 +68,7 @@ If you tell me
 You'll be confessing
 So you can't apologize
 
-Ooh, it hurts me so
+Oh, it hurts me so
 To know that I'm
 The one to suffer
 To know that I

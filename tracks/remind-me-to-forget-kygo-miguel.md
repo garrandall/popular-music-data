@@ -64,7 +64,7 @@ Maybe you left your mark, reminding me to forget
 It doesn't matter where you are, you can keep my regret
 'Cause baby, I got these scars, reminding me to forget
 Reminding me, I got these scars, to forget your love
-Keep reminding me, ooh, to forget your love
+Keep reminding me, oh, to forget your love
 
 You left your burn (in my heart)
 You left your mark, reminding me to forget

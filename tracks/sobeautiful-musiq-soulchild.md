@@ -73,7 +73,7 @@ You're so beautiful
 I wanna give all my love to you girl
 Not just a night
 But the rest of your life
-I wanna be always here by your side 
+I wanna be always here by your side
 
 When you're not here
 You don't know how much I miss you
@@ -82,9 +82,6 @@ Is how much I'm gonna get to make
 You feel so good
 Like you know I could
 Tell me if you feel the same way
-
-
-
 
 Baby don't you
 Baby don't you know

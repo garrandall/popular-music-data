@@ -47,7 +47,7 @@ rankings:
 Cross my heart that I love her
 Place no one up above her
 
-Ooh, ooh
+Oh, oh
 
 I want a girl that's true
 (I want a girl that's true)
@@ -62,7 +62,7 @@ I said it right now
 This fat boy's gonna love her
 Place no one up above her
 Don't you know I said
-Ooh, ooh, ooh
+Oh, oh, oh
 
 On my knees every day
 (On my knees every day)
@@ -84,7 +84,7 @@ Send her right to me
 Cross my heart that I love her
 Place no one up above her
 
-Ooh, ooh, ooh
+Oh, oh, oh
 
 Don't you know
 Baby, little girl, I said

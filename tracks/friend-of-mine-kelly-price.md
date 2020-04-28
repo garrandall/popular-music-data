@@ -116,20 +116,14 @@ And tried to walk a mile in my shoes
 In my head, In my bed
 Betrayed by my best friend
 
-
-
-
 I want to know why (why?)
 You were my friend (why?)
 I gave you all I had (why?)
 Everything, everything that you want (why?)
-Ooohhh!! (why?)
+Oh! (why?)
 You were my friend (why?)
 Oh! My sister (why?)
 Yeah, yeah, yeah, yeah (why?)
-
-
-
 
 You were, you were
 How could you do this to me

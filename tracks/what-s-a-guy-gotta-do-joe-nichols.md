@@ -77,7 +77,7 @@ What's a guy gotta d to get a girl in this town
 Well ask anybody I'm a pretty good guy
 And the looks decent wagon didn't pass me by
 There ain't nothing in my past that i'm tryin' hard to hide
-And i don't understand why i gotta wonder why
+And I don't understand why I gotta wonder why
 
 What's a guy gotta do to get a girl in this town
 Don't wanna be alone when the sun goes down
@@ -86,8 +86,8 @@ What's a guy gotta do to get a girl in this town
 
 Cruise all around the right parking lots
 Little time gets killed alotta bull gets shot
-One who'll think i'm kinda cute and laugh at every joke i got
-When i get to thinkin' maybe she's athinkin' maybe not
+One who'll think i'm kinda cute and laugh at every joke I got
+When I get to thinkin' maybe she's athinkin' maybe not
 
 What's a guy gotta do to get a girl in this town
 Don't wanna be alone when the sun goes down
@@ -96,8 +96,8 @@ What's a guy gotta do to get a girl in this town
 
 Had an old man tell me, "Boy if you were smart
 You'd hit the produce isle at the Super Walmart"
-So i bumped into a pretty girl's shopping cart
-But all i did was break her eggs and bruise her artichoke hearts
+So I bumped into a pretty girl's shopping cart
+But all I did was break her eggs and bruise her artichoke hearts
 
 what's a guy gotta do to get a girl in this town
 Don't wanna be alone when the sun goes down

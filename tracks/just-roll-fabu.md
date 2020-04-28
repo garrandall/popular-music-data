@@ -99,7 +99,7 @@ Cause I've got to let you know whatcha doing to me
 
 Wake up, baby
 It's time
-Ooh
+Oh
 
 So, baby
 Just roll over on me

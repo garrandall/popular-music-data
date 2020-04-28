@@ -21,7 +21,7 @@ It was so easy baby, you made it so easy, yeah
 You knew exactly what to say and do
 Had all the answers, you knew how to please me
 How'd you guess I'd fall in love with you?
-Now I'm scared, ooh, I'm scared what we're coming to
+Now I'm scared, oh I'm scared what we're coming to
 
 Oh, break it to me gently, be careful of what you say
 And save it, save it, save it
@@ -43,7 +43,7 @@ Maybe, baby you'll stay, you'll stay, oh, one more day
 I need, I need you, I need you, baby
 I need you, baby, one more hour
 Oh yeah, I need you, oh I need you
-Ooh baby, now, now, now, now, now, now, now, now, now one more day
+Ohbaby, now, now, now, now, now, now, now, now, now one more day
 Oh yeah, I need you, baby, I need you
 I need you, I need you, I need you one more hour
 Yeah, yeah, yeah, yeah, yeah

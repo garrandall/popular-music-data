@@ -32,8 +32,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-10-28'
 ---
-Ooooo wah, oooooo wah, ooooo wah, oooooo wah
-Ooooo wah, oooooo wah, Why do fools fall in love
+Ooooo wah, oo wah, oo wah, oo wah
+Ooooo wah, oo wah, Why do fools fall in love
 
 Why do birds sing so gay
 And lovers await the break of day?

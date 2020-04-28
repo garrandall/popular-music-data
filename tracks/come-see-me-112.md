@@ -119,9 +119,9 @@ Oh, I wanna feel that way tonight
 
 
 Come with me (come on)
-And I'll go with you (ohhh)
+And I'll go with you (oh)
 To this place (to this place)
-That lovers dream of (ohhh)
+That lovers dream of (oh)
 We can do (sexy) anything, sexy things
 (And I'm here to let you know)
 

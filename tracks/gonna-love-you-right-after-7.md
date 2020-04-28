@@ -48,7 +48,6 @@ And I'm thankful because you're fine
 'cause it feels good to hold you
 And each time you tell me you'll be here the rest of my life
 
-Chorus
 
 Some people mistreat a specail love
 Find it hard to stop doing wrong
@@ -59,7 +58,6 @@ To be a good man
 
 Don't wanna hear no more your goodbyes
 
-Chorus
 
 Everybody needs someone to love
 Gotta take my love kiss stars I've got the chance to love you
@@ -67,7 +65,6 @@ Eveybody needs someone to hold tight
 As long as I've got you I'm gonna do it right
 Wanna love, need a love, gotta love, wanna love need a love, gotta love you
 
-Chorus
 
 Love you right
 Take my time

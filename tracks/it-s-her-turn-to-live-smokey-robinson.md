@@ -63,7 +63,7 @@ Mama raised us all her life
 And now it's her turn to live
 Her turn to live
 
-Ooh, mama raised us all her life, oh...
+Oh mama raised us all her life, oh...
 And now it's her turn to live
 Oh, brother, now
 Mama gave us everything, boy
@@ -85,7 +85,7 @@ She got the right to be loved again
 Mama raised us all her life
 Now it's her turn to live
 (Her turn to live)
-Ooh, brother, now
+Oh brother, now
 Mama gave us everything
 Now it's our turn to give
 

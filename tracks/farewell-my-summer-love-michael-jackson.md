@@ -58,10 +58,10 @@ rankings:
 ---
 
 Farewell my summer love, farewell
-Girl I won't forget you, 
-Farewell, my summer love, farewell, ooh
+Girl I won't forget you,
+Farewell, my summer love, farewell, oh
 
-I found my happiest days, 
+I found my happiest days,
 When you came to see your grandma in may
 I bumped into you by the corner store
 I told you that you sure looked good, now
@@ -70,24 +70,24 @@ Your grandma's house was next to mine
 We were together most of the time
 But summer's gotten away from us
 Time's moving too fast for us
-(Bye, bye) 
+(Bye, bye)
 
 Don't turn around
 'Cause you might see me cry
 Farewell my summer love, farewell
 Girl I won't forget you
-Farewell, my summer love, farewell, ooh, yeah
+Farewell, my summer love, farewell, oh yeah
 
 When you return to your hometown
 And you discuss your trip
 Will I be the guy that you put down
-Or someone that you don't forget, no? 
+Or someone that you don't forget, no?
 
 I'll never forget you
 And maybe next year
 When you're out of school
 You'll return, but until you do, baby
-(Bye, bye) 
+(Bye, bye)
 
 Don't turn around
 You might see me cry
@@ -98,10 +98,10 @@ Farewell, my summer love, farewell, yeah
 Farewell, farewell
 Farewell, farewell
 
-If you remember my name, 
-(Drop a line) 
+If you remember my name,
+(Drop a line)
 Drop a line sometime, yeah
-Yeah, ooh
+Yeah, oh
 Girl I won't forget you
 Farewell my summer love, farewell
 Girl I won't forget you
@@ -109,17 +109,17 @@ Girl I won't forget you
 When you return to your hometown
 And you discuss your trip
 Will I be the guy that you put down
-Or someone that you don't forget, no? 
+Or someone that you don't forget, no?
 
 I'll never forget you
 And maybe next year
 When you're out of school
 You'll return, but until you do, baby
-(Bye, bye) 
+(Bye, bye)
 
 Don't turn around
 You might see me cry
-Farewell, my summer love, farewell, oohh, yeah
+Farewell, my summer love, farewell, oh, yeah
 Farewell, my summer love, farewell
 
 

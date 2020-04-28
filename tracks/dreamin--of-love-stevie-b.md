@@ -49,43 +49,39 @@ rankings:
   start_date: '1988-06-25'
 ---
 
-I don't know, what happened to the love we shared 
-Don't go, sometimes I think it's just not fair 
-I know, the pain I feel inside my heart 
-I wish I'd known it from the start 
-That you would come and break my heart 
-I can't hold back these tears in my eyes 
-The feeling of pain inside because... 
+I don't know, what happened to the love we shared
+Don't go, sometimes I think it's just not fair
+I know, the pain I feel inside my heart
+I wish I'd known it from the start
+That you would come and break my heart
+I can't hold back these tears in my eyes
+The feeling of pain inside because...
 
 
-I'm dreaming of love, thinking of you 
-Remembering times that we once shared 
-Dreaming of love, thinking of you 
-Knowing someday you'll come back to my life 
+I'm dreaming of love, thinking of you
+Remembering times that we once shared
+Dreaming of love, thinking of you
+Knowing someday you'll come back to my life
 
-I try to love, but it just don't feel the same 
-Our love, comes once in a lifetime 
-I'll take the blame 
-God above, hear my prayer 
-Bring her back to me 
-I wish I'd known you from the start 
-That you would come and break my heart 
-I can't hold back these tears in my eyes 
-The feeling of pain inside because... 
+I try to love, but it just don't feel the same
+Our love, comes once in a lifetime
+I'll take the blame
+God above, hear my prayer
+Bring her back to me
+I wish I'd known you from the start
+That you would come and break my heart
+I can't hold back these tears in my eyes
+The feeling of pain inside because...
 
-I, I'm dreaming of... 
-I am dreaming of love 
+I, I'm dreaming of...
+I am dreaming of love
 
-I don't know, why did you leave me all alone 
-Our love, comes once in a lifetime 
-I'll take the blame 
-Now I know, true love I feel inside my heart 
-I wish I'd known it from the start 
-That you would come and break my heart 
-I can't hold back these tears in my eyes 
-The feeling of pain inside because... 
-
-
-
-
+I don't know, why did you leave me all alone
+Our love, comes once in a lifetime
+I'll take the blame
+Now I know, true love I feel inside my heart
+I wish I'd known it from the start
+That you would come and break my heart
+I can't hold back these tears in my eyes
+The feeling of pain inside because...
 

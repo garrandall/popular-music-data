@@ -175,9 +175,6 @@ Oh, stand by me
 Woah, stand now
 Stand by me, stand by me
 
-
-
-
 And darlin', darlin', stand by me
 Oh, stand by me
 Woah, stand now

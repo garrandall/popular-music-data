@@ -113,7 +113,7 @@ When we remembered Zion. (Yeah yeah yeah yeah yeah)
 By the rivers of Babylon (Rough bits of Babylon)
 There we sat down (You hear the people cry)
 Ye-eah we wept, (They need their God)
-When we remembered Zion. (Ooh, have the power)
+When we remembered Zion. (Oh, have the power)
 
 
 

@@ -65,10 +65,10 @@ But my pockets
 Were full of money, yes they were
 I had someone, yes I did
 To call my honey
-(1: But 2: Yes 3: Ooh, and 4: And) it's love (ooh, sweet love)
-That makes a woman (3: yes, it is) (ooh, that makes a woman)
-Yes, it's love (ooh, sweet love)
-That makes a woman (ooh, that makes a woman)
+(1: But 2: Yes 3: Oh, and 4: And) it's love (oh, sweet love)
+That makes a woman (3: yes, it is) (oh, that makes a woman)
+Yes, it's love (oh, sweet love)
+That makes a woman (oh, that makes a woman)
 
 Something told me that this wouldn't last
 Now my heartache is in the past

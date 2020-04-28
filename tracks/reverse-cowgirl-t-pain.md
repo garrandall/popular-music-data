@@ -36,10 +36,10 @@ I like how you do it do it do it
 
 Just put your hands in the air
 Wave em round and go
-Ewwww...Haaa Eee...ahhh
+Ewwww...Haaa Eee...ah
 Put your hands in the air
 Wave em round and go
-Ewwww...Haaa Eee...ahhh
+Ewwww...Haaa Eee...ah
 Girl
 
 Baby let me rope you up
@@ -66,10 +66,10 @@ I like how you do it do it do it
 
 Just put your hands in the air
 Wave em round and go
-Ewwww...Haaa Eee...ahhh
+Ewwww...Haaa Eee...ah
 Put your hands in the air
 Wave em round and go
-Ewwww...Haaa Eee...ahhh
+Ewwww...Haaa Eee...ah
 
 
 Girl you lookin like a nine
@@ -108,10 +108,10 @@ I like how you do it do it do it
 
 Just put your hands in the air
 Wave em round and go
-Ewwww...Haaa Eee...ahhh
+Ewwww...Haaa Eee...ah
 Put your hands in the air
 Wave em round and go
-Ewwww...Haaa Eee...ahhh
+Ewwww...Haaa Eee...ah
 Girl
 
 Get it up get it up

@@ -30,7 +30,7 @@ Two things in life to love for
 A new car and big, fine girl
 
 But I've had them both
-Ooh, Lord, that's no joke
+Oh, Lord, that's no joke
 I had plenty of money in my pocket
 Lord, when I used to always be broke
 
@@ -47,7 +47,7 @@ Lord, have mercy
 Now, bad luck has turned on me
 I lost everything I had
 No one has no sympathy for me
-Ooh, they all glad to see me doing bad
+Oh, they all glad to see me doing bad
 
 I'm right back where I started
 In my pocket, I don't have a dime

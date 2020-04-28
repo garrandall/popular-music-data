@@ -73,8 +73,8 @@ Down the street of tears
 I think about the love we shared
 Throughout our teenage years
 
-Believe me, ooooooh, wah oooooooooh
-Wah oooooooooh, believe me
+Believe me, oh, wah oh
+Wah oh, believe me
 
 Just because you said goodbye
 Do you think that I will die
@@ -102,8 +102,8 @@ All the kids in town will know
 They will know you hurt me so
 Did you have to tell them all
 That I still love you-ooooooooooou
-Oooooooooh wah ooooooooooh
+Oh wah oh
 
-Oooooooooh wah ooooooooooh
-Oooooooooh wah ooooooooooh
-Oooooooooh wah ooooooooooh
+Oh wah oh
+Oh wah oh
+Oh wah oh

@@ -84,4 +84,4 @@ With a little curve here and a little wiggle there
 A "goldang" here and a "goshdarn" there
 A do-si-do here and a promenade there
 Got my own private county fair
-'cause ol' MacDonald had a farm, E-I-O-I-O!!
+'cause ol' MacDonald had a farm, E-I-O-I-O!

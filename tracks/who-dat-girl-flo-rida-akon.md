@@ -147,10 +147,10 @@ Who dat girl
 Who dat girl
 Who dat girl
 
-Ooh ohh ohh
+Oh oh oh
 Look at her
-Goo ooo ooo
-I wanna know ooh ooh
+Goo oo oo
+I wanna know ohooh
 Who dat girl
 Who dat girl
 Who dat girl

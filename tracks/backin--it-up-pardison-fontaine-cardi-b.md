@@ -89,7 +89,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
 ---
-Ahhh
+Ah
 Cardi!
 Turn around, fuck it all the way up
 Bust it down, turn around, fuck it all the way up

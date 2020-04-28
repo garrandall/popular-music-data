@@ -107,9 +107,6 @@ But I ain't going at your jaw, just going to show you how to ball
 Standing tall through the storm, on the yard or in the dorms
 Cats in prison who expecting me to represent for them
 
-
-
-
 Strike a match, catch a fire, see T.I. add gas
 What's a Molotov cocktail that never break a glass
 Still I am, partnas want to come for me you better bring it

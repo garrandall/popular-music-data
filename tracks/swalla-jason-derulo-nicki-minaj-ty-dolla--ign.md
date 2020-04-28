@@ -103,7 +103,7 @@ So you should bring all your friends
 I swear that-a-all y'all my type
 
 All you girls in here, if you're feeling thirsty
-Come on take a sip 'cause you know what I'm servin', ooh
+Come on take a sip 'cause you know what I'm servin', oh
 
 Shimmy shimmy yay, shimmy yay, shimmy ya (drank)
 Swalla-la-la (drank)
@@ -132,7 +132,7 @@ Champagne poppin', she gon' swallow that
 
 
 All you girls in here, if you're feeling thirsty
-Come on take a sip 'cause you know what I'm servin', ooh
+Come on take a sip 'cause you know what I'm servin', oh
 
 Shimmy shimmy yay, shimmy yay, shimmy ya (drank)
 Swalla-la-la (drank)

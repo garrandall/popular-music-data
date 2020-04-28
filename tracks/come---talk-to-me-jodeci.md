@@ -139,8 +139,8 @@ Your eyes and hair
 Such a beautiful tone
 The way you dress and walk
 It really turns me on
-Ooh, you really turn me on
-Ooh, you really turn me on
+Oh, you really turn me on
+Oh, you really turn me on
 Come on, come on, come on
 
 

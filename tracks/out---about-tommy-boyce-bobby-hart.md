@@ -43,7 +43,7 @@ Tommy Boyce and Bobby Hart
 Nothing going on around here
 That hasn't gone on all year
 Stayin' in day out and day in
-Wishin' i was outside playin'
+Wishin' I was outside playin'
 Out and about
 I got a little thing going for me
 Out and about
@@ -54,7 +54,7 @@ Out and about
 All the girls they look so pretty
 I'm fine, when i'm
 When i'm out and about
-Things i want i can't afford 'em
+Things I want I can't afford 'em
 Nothing in this house but boredom
 Magazines are torn and tattered
 Running out of reading matter

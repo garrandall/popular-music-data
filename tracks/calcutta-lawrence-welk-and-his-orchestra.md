@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: calcutta-lawrence-welk-and-his-orchestra
+lyrics_url: https://genius.com/Lawrence-welk-calcutta-lyrics
 name: Calcutta
 rankings:
 - end_date: '1960-12-18'
@@ -75,4 +76,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-04-03'
 ---
-
+Instrumental

@@ -76,10 +76,10 @@ But this that betcha can't do it like me challenge (turn up)
 (let's go) (let's go)
 It goes like
 
-Ooh ooh, Ah ah, Hey hey, Turn up
-Ooh ooh, Ha Ha, Hey hey, Turn up (boy you better turn up)
-Ooh ooh, Ah ah, Hey hey, Turn up (boy you better turn up)
-Ooh ooh, Ah ah, Hey hey, Turn up (boy you better turn up)
+Oh oh, Ah ah, Hey hey, Turn up
+Oh oh, Ha Ha, Hey hey, Turn up (boy you better turn up)
+Oh oh, Ah ah, Hey hey, Turn up (boy you better turn up)
+Oh oh, Ah ah, Hey hey, Turn up (boy you better turn up)
 (Nothing make me gotta 'nother hit)
 
 Betcha can't whip like me
@@ -155,7 +155,7 @@ But I don't like to swear (turn up)
 You can watch me hit the dolphin, Eh
 
 Hoo Hoo, Ha Ha, Hey hey, Turn up (boy you better turn up)
-Ooh ooh, Ha Ha, Hey hey, Turn up (boy you better turn up)
-Ooh ooh, Ah ah, Hey hey, Turn up (boy you better turn up)
-Ooh ooh, Ah ah, Hey hey, Turn up (boy you better turn up)
+Oh oh, Ha Ha, Hey hey, Turn up (boy you better turn up)
+Oh oh, Ah ah, Hey hey, Turn up (boy you better turn up)
+Oh oh, Ah ah, Hey hey, Turn up (boy you better turn up)
 DLow gang, squad

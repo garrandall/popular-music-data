@@ -120,7 +120,7 @@ Love is nothin' but the time it takes to say, "I'm on your mind"
 Let me tell you, I'm always there, oh, yeah
 Let's get a little time away, go to the movies on a Saturday
 Meet me at the finish line so I can tell you one more time
-Girl, you know I'm not scared to let you say that....
+Girl, you know I'm not scared to let you say that...
 
 
 I like the way you look at me

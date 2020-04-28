@@ -42,7 +42,7 @@ Who's gonna save you're days too long?
 Or right from wrong?, Who can lead you on?
 
 Where do you go?
-I don't know, ooh
+I don't know, oh
 
 Ask your mom, but right now she's mad
 The night before she fought your dad

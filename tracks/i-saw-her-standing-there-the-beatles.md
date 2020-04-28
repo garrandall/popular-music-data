@@ -58,7 +58,7 @@ rankings:
 Well, she was just 17, if you know what I mean
 And the way she looked
 Was way beyond compare
-So how could I dance with another? (Ooh)
+So how could I dance with another? (Oh)
 When I saw her standing there?
 
 

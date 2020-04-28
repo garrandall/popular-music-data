@@ -78,9 +78,6 @@ Beat it, beat it, beat it, beat it, beat it, uh uh
 Beat it, beat it, beat it, beat it, beat it, beat it, uh uh uh uh
 Beat it, beat it, beat it, beat it, beat it, beat it
 
-
-
-
 Beat it, beat it
 No one wants to be defeated
 Showin' how funky and strong is your fight

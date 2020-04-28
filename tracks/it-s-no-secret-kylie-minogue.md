@@ -69,11 +69,11 @@ How you changed my life that day
 But when each tomorrow
 You just seem to drift away
 
-Then I discovered 
+Then I discovered
 That you were cheating
 You were cheating on me
 But I was the last to know
-Ooh, ooh
+Oh, oh
 
 
 Our love was a lie
@@ -88,16 +88,13 @@ Didn't I really love you
 You know I gave you all my heart
 When I put my arms around you
 I never thought we'd ever part
-Ooh, ooh
+Oh, oh
 
 Then I discovered
 I guess you couldn't love me
 Like you said you love me
 Ohh, no
 Why was I the last to know
-
-
-
 
 All of my life
 I was looking for someone
@@ -109,9 +106,4 @@ What can I do
 (You were cheating)
 (You were cheating on me)
 But I was the last to know
-
-
-
-
-
 

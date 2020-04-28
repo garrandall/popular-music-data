@@ -113,4 +113,4 @@ I'm just packing my bags, whoa, leaving you
 Bye-bye, bye-bye, bye-bye, baby, don't cry
 I gotta keep on moving, yeah, moving
 Bye-bye, my baby
-Ooh, don't cry, lady, oh
+Oh, don't cry, lady, oh

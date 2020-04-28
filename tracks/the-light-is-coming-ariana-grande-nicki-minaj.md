@@ -24,7 +24,7 @@ You wouldn't let anybody speak and instead—
 Ayo, trophy wife, out, you won me
 Until you had to find out it's one me
 No-now you benched, aww, your bum knee
-Now I'm the bad guy, call me Chun-Li (Ooh)
+Now I'm the bad guy, call me Chun-Li (Oh
 'Cause you was slippin', yep, you clumsy
 And everything I peeped, can't just unsee
 Sips tea, and it's unsweet

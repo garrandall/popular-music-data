@@ -93,7 +93,7 @@ When you're a ghetto child
 I'm a witness that life ain't so easy
 When you're a ghetto child, yeah
 
-Ooh, ooh, yeah
+Oh oh yeah
 Life ain't so easy
 When you're a ghetto child child
 

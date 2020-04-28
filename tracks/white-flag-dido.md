@@ -206,7 +206,7 @@ Will be there still
 I'll let it pass
 And hold my tongue
 And you will think
-That I've moved on....
+That I've moved on...
 
 I will go down with this ship
 And I won't put my hands up and surrender

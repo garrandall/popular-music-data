@@ -54,7 +54,7 @@ He is a villain by the devil's law
 He is a killer just for fun, fun, fun, fun
 That man's a snitch and unpredictable
 He's got no conscience, he got none, none, none, none
-Oh-ooooo I know-ooooo, should've let go, but no
+Oh-oo I know-oo, should've let go, but no
 'Cause he is a bad boy with a tainted heart
 And even I know this ain't smart
 
@@ -82,13 +82,13 @@ And this type of love isn't rational, it's physical
 Mama please don't cry, I will be alright
 All reason aside I just can't deny, love the guy
 
-(Oh-ooooo I know-ooooo)
+(Oh-oo I know-oo)
 Mama I'm in love with a criminal
 (Should've let go)
 And this type of love isn't rational,
 (But no)
 It's physical
-(Oh-ooooo I know-ooooo)
+(Oh-oo I know-oo)
 Mama please don't cry, I will be alright
 (Should've let go)
 All reason aside

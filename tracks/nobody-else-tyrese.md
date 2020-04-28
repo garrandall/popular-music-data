@@ -75,26 +75,26 @@ Everybody wants to try to get to know me baby
 now it's my porogitive to do what I want to do
 and I couldn't see myself babe with no one but you
 
-I don't want nobody else but you 
+I don't want nobody else but you
 cause no one makes me feel
 the way that you do
-I don't want nobody else but you 
+I don't want nobody else but you
 cause no one makes me feel
 the way that you do
 
-Now I see you just cant handle
+Now I see you just can't handle
 handle my lifestyle
 You say I'm do damn crazy
 You say I'm to damn wild
 You gotta understand
 this is just the way I live
 baby what you see is exactly what you get
-(nobody.. but my my baby..) 
+(nobody.. but my my baby..)
 
-I don't want nobody else but you 
+I don't want nobody else but you
 cause no one makes me feel
 the way that you do
-I don't want nobody else but you 
+I don't want nobody else but you
 cause no one makes me feel
 the way that you do
 
@@ -115,13 +115,13 @@ If you live by the nana you die by the nana
 Nobody knows how far we'll go
 But I do I don't want nobody but you
 
-I don't want nobody else but you 
+I don't want nobody else but you
 cause no one makes me feel
 the way that you do
 
-(Nobody but my baby.. it's only time.. no no one but my baby oh you you... 
-hold me in your arms...) 
-I don't want nobody else but you 
+(Nobody but my baby.. it's only time.. no no one but my baby oh you you...
+hold me in your arms...)
+I don't want nobody else but you
 cause no one makes me feel
 the way that you do
 

@@ -98,7 +98,7 @@ i thought you said you had your girl on the light bill
 
 always in my face
 talkin this and that
-girl i had to buy some rims for da Cadilac
+girl I had to buy some rims for da Cadilac
 
 
 you riding clean
@@ -119,7 +119,7 @@ ya nothing but a scrub
 
 but he was with me
 that's when you hated
-cause when i got up on ya friend ya damn-near fainted
+cause when I got up on ya friend ya damn-near fainted
 
 
 i sho did
@@ -133,9 +133,6 @@ what you lookin at
 i don't want yo phone number
 (boy please whateva)
 
-
-
-
 now these chicken head hoes see this platinum thick as white gold
 see the 20 inch Pirelli's roll
 mane thank the vogues
@@ -143,7 +140,7 @@ dodgin all my foes
 ridin Cady truck wit dvd
 a flock of broads follow me
 from the club to break they knees
-knowin that's all i want
+knowin that's all I want
 straight out tha club
 tha rest ain't smellin right
 the last thang on they mind is freshin up
@@ -168,8 +165,4 @@ pay ya boy and make me rich
 so we keep them swisher's lit
 pay yo fees we count them g's
 cashin it from all you chicks
-
-
-
-
 

@@ -76,10 +76,6 @@ Situations change
 You're never who you used to think you are
 How strange
 
-
-
-
-
 I get lost in alibis
 Sadness can't prevail
 Everybody knows strong love
@@ -89,8 +85,4 @@ Don't be pretending about how you feel
 Don't be pretending that your love is real
 Don't be pretending about how you feel
 Don't be pretending that your love is real
-
-
-
-
 

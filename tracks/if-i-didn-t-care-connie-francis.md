@@ -52,9 +52,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-05-11'
 ---
-Written by: Jack Lawrence
-#22 Mar '59 Hot 100
-
 If I didn't care
 More than words can say
 If I didn't care
@@ -68,7 +65,7 @@ If I didn't care
 Would it be the same
 Would my every pray begin and end
 With just you name
-And would i be sure that this is love
+And would I be sure that this is love
 Beyond compare
 Darlin would it be true
 If I didn't care for you
@@ -77,8 +74,7 @@ If I didn't care
 Would it be the same
 Would my every pray begin and end
 With just you name
-And would i be sure that this is love
+And would I be sure that this is love
 Beyond compare
 Darlin would it be true
-If I didn't care for you...Pd
-...Pd...
+If I didn't care for you

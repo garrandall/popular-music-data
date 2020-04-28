@@ -69,8 +69,8 @@ rankings:
   start_date: '1995-08-05'
 ---
 
-Ooh...ooh...ooh...ooh...
-Ooh...I heard (I heard) it through grapevyne
+Oh...oh...oh...oh...
+Oh...I heard (I heard) it through grapevyne
 (Boy, you know that I)
 
 I heard it through the grapevine

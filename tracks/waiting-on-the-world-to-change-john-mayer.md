@@ -207,9 +207,6 @@ We just know that the fight ain't fair
 So we keep on waiting
 Waiting on the world to change
 
-
-
-
 And we're still waiting
 Waiting on the world to change
 We keep on waiting, waiting on the world to change

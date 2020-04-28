@@ -72,7 +72,7 @@ Puerto Rico
 Puerto Rico! Ho! Ho!
 Puerto Rico, Puerto Rico, Puerto Rico, Puerto Rico
 Tierra linda mía, yo te quiero
-Oohhh
+Oh
 Puerto Rico...
 And there's music, and there's music, and there's music playing-
 Puerto Rico

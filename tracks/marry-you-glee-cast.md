@@ -50,7 +50,7 @@ Who cares baby,
 I think I wanna marry you.
 
 Oh
-I'll go get a ring let the choir bells sing like oooh,
+I'll go get a ring let the choir bells sing like oh,
 So whatcha wanna do?
 Let's just run girl.
 

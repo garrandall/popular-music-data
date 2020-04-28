@@ -16,7 +16,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
 ---
-(Ooh, ooh...)
+(Oh oh..)
 
 Oh, honey, can't you see
 How happy we could be
@@ -45,8 +45,8 @@ That we never meant to be
 In fate's little book?
 Two part harmony
 
-Come on and tell me, ooh...
-Ooh, ooh...
+Come on and tell me, oh..
+Oh oh..
 
 Honey, can't you see
 How happy we could be

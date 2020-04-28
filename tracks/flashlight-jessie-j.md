@@ -61,7 +61,7 @@ You're getting me, getting me, through the night
 'Cause you're my flashlight (flashlight)
 You're my flashlight (flashlight), you're my flashlight
 
-Ooh
+Oh
 
 I see the shadows long beneath the mountain top
 I'm not afraid when the rain won't stop
@@ -96,10 +96,10 @@ You're getting me, getting me through the night
 'Cause you're my flashlight
 You're my flashlight
 
-Ooh ooh
-Ooh ooh
-Ooh ooh ooh ooh ooh
-Ooh oh oh
+Oh oh
+Oh oh
+Oh ohoohhohoh
+Oh oh oh
 
 You're my flashlight
 Light, light

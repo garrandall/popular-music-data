@@ -87,7 +87,7 @@ rankings:
 
 (Gotta get up to get down)
 (Gotta get up to get down)
-(Ooh ooh, baby baby)
+(Oh oh baby baby)
 
 Looking for some education
 Made my way into the night
@@ -106,13 +106,13 @@ It's more than enough
 Had some bad love
 Some fastlove is all that I've got on my mind
 
-(Ooh ooh, baby baby)
-Ooh, yeah yeah
-(Ooh ooh, baby baby)
+(Oh oh baby baby)
+Oh, yeah yeah
+(Oh oh baby baby)
 What's there to think about baby?
-(Ooh ooh, baby baby)
+(Oh oh baby baby)
 Hey baby, oh yeah
-(Ooh ooh, baby baby)
+(Oh oh baby baby)
 
 Looking for some affirmation
 Made my way into the sun
@@ -152,7 +152,7 @@ I do believe that we are practicing the same religion
 Oh you really oughta get up now
 That's right
 Oh you really oughta get up
-(Ooh ooh, baby baby)
+(Oh oh baby baby)
 Oh yeah
 Looking for some affirmation
 

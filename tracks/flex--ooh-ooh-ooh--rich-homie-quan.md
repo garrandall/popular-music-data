@@ -3,9 +3,9 @@ artists:
 - Rich Homie Quan
 features: []
 genres: []
-key: flex--ooh-ooh-ooh--rich-homie-quan
-lyrics_url: https://genius.com/Rich-homie-quan-flex-ooh-ooh-ooh-lyrics
-name: Flex (Ooh Ooh Ooh)
+key: flex--ohoohhohich-homie-quan
+lyrics_url: https://genius.com/Rich-homie-quan-flex-ohoohhohrics
+name: Flex (Oh Oh Oh)
 rankings:
 - end_date: '2015-05-15'
   rank: 96
@@ -121,19 +121,19 @@ There it is, there it is (Rich Homie, baby!)
 
 
 Walked in, thirty thousand in my pocket
-Had them niggas just like, "Ooh, ooh, ooh"
+Had them niggas just like, "Oh, oh oh
 50,000 dollars on your bitch, wanna fuck me
-Got her screamin' like, "Ooh, ooh, ooh, ooh"
+Got her screamin' like, "Oh, oh oohohoh
 Cause I got a check, nigga wanna flex
-I ain't gotta flex, boy I got it, ooh, ooh, ooh, ooh
+I ain't gotta flex, boy I got it, oh oohohohhoh
 Give that ho some x, she gon' wanna sex every nigga in the set
-And now she screamin' like "Ooh, ooh, ooh"
+And now she screamin' like "Oh, oh oh
 
 
 (How much you made?) Made two million dollars off a mixtape
-And I'm fucking like, ooh, ooh, ooh
+And I'm fucking like, oh oohohoh
 They try to drop me with a case but you know I had done skated
-I was singing like, ooh, ooh, ohh
+I was singing like, oh oohoh
 Boy, I know my role and I play it
 If you heard that I'm talking, then I said it
 (Quan where you at?) At the top of the loft nigga, I stay
@@ -145,13 +145,13 @@ At the Clearport nigga, we flying, when I landed, boy I
 
 
 Walked in, thirty thousand in my pocket
-Had them niggas just like, "Ooh, ooh, ooh"
+Had them niggas just like, "Oh, oh oh
 $50,000 on your bitch, wanna fuck me
-Got her screamin' like, "Ooh, ooh, ooh, ooh"
+Got her screamin' like, "Oh, oh oohohoh
 Cause I got a check, nigga wanna flex
-I ain't gotta flex, boy I got it, ooh, ooh, ooh, ooh
+I ain't gotta flex, boy I got it, oh oohohohhoh
 Give that ho some x, she gon' wanna sex every nigga in the set
-And now she screamin' like, "Ooh, ooh, ooh"
+And now she screamin' like, "Oh, oh oh
 
 
 (How much you made?) $100,000 just in two days
@@ -172,17 +172,17 @@ Now I'm at the top, started from the bottom, then I
 
 
 Walked in, thirty thousand in my pocket
-Had them niggas just like, "Ooh, ooh, ooh"
+Had them niggas just like, "Oh, oh oh
 $50,000 on your bitch, wanna fuck me
-Got her screamin' like, "Ooh, ooh, ooh, ooh"
+Got her screamin' like, "Oh, oh oohohoh
 Cause I got a check, nigga wanna flex
-I ain't gotta flex, boy I got it, ooh, ooh, ooh, ooh
+I ain't gotta flex, boy I got it, oh oohohohhoh
 Give that ho some x, she gon wanna sex every nigga in the set
-And now she screamin' like, "Ooh, ooh, ooh"
+And now she screamin' like, "Oh, oh oh
 
 
 (How much you made?) $100,000
 (How much, how much you made?) $100,000
 (How much, how much you made?)
-Made two million dollars off a mixtape, had them folks like, "Ooh, ooh, ooh"
+Made two million dollars off a mixtape, had them folks like, "Oh, oh oh
 Hey, get at me

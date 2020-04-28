@@ -41,13 +41,13 @@ rankings:
   start_date: '2002-11-30'
 ---
 
-When you look at me, i know you see
+When you look at me, I know you see
 a 15 year old, gettin his dough
 back and fourth to the studios
 hoppin outta limosines, rockin the latest jeans
 jordans, fresh, t-shirt, new
 and even though these things are true
-its hard work and sometimes i just wanna go home and...
+its hard work and sometimes I just wanna go home and...
 tell my girl to braid my hair...
 
 
@@ -61,12 +61,12 @@ while you braid my hair
 You may think that im complainin
 but thats not the case, all im sayin
 is my body gets weak, my mind gets tired
-i need sleep, but i gotta keep travelin on the road
+i need sleep, but I gotta keep travelin on the road
 doin these shows, new york to cali
 dallas to philly
-its the rules of the game, that i chose to play
-but sometimes i wanna say
-baby wont you braid my hair...
+its the rules of the game, that I chose to play
+but sometimes I wanna say
+baby won't you braid my hair...
 
 
 C'mon and braid my hair
@@ -81,10 +81,10 @@ do it anyway you want, baby take it slowly
 front to back, side to side, criss cross
 get creative with it girl do your thang
 put it down like you love me
-let your fingers do the walkin 
+let your fingers do the walkin
 and your lips do the talkin in my ear
-tell me what i wanna hear
-i swear, i cant wait for you to braid my hair...
+tell me what I wanna hear
+i swear, I can't wait for you to braid my hair...
 
 
 C'mon and braid my hair
@@ -97,7 +97,7 @@ while you braid my hair
 Do what you wanna do
 baby its up to you
 sit me between your legs
-girl wont you braid my hair
+girl won't you braid my hair
 baby make me feel allright
 and make it last all nite
 (and take away the stress and drama in my life)

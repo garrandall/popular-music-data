@@ -88,11 +88,6 @@ And if I'll all strung out
 You're the only one who can straighten me out
 I gotta see your sweet , sweet smile every day
 
-
-
-
-
-
 Yoy're always in my heart
 From early in the mornin' til it's dark
 I gotta see your sweet , sweet smile every day

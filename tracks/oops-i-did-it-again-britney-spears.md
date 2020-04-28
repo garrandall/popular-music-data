@@ -100,7 +100,7 @@ But it doesn't mean that I'm serious
 
 
 'Cause to lose all my senses
-That is just so typically me, ooh, baby, baby
+That is just so typically me, oh baby, baby
 
 
 Oops!... I did it again

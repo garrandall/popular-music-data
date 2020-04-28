@@ -121,9 +121,6 @@ Darling I know, I know this will be
 Sometimes it takes, some time out on your own now
 To find your way back home
 
-
-
-
 But I won't try to stop you now from leaving
 Cause in my heart I know, oh yeah
 

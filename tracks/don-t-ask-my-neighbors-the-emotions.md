@@ -84,14 +84,14 @@ Don't ask my neighbors
 Come to me (come to me)
 Don't be afraid of
 What you'll see (what you'll see)
-You'll find I love you (ooh, I love you)
+You'll find I love you (oh I love you)
 Come to me (come to me)
 Don't be afraid
 
 You ask all my friends
 If I'm the same, boy
 You don't understand
-You think I'm changing, ohh
+You think I'm changing, oh
 
 Don't ask my neighbors
 (Don't ask my neighbor)
@@ -101,15 +101,15 @@ Don't ask the friends I hang around
 Uh uh (no) don't be afraid
 (Never) to come to me (come on)
 
-Don't ask my neighbors (ooh, ooh)
+Don't ask my neighbors (oh oh
 Come to me (come on, come on)
 Don't be afraid of what you'll see
 (I'll make you feel at ease, baby)
-You'll find I love you (ooh, hoo)
+You'll find I love you (oh hoo)
 Come to me (come on)
 Don't be afraid
 
-I, I will, ooh.....
+I, I will, oh..
 
 Don't ask my neighbors
 Come to me (come on)

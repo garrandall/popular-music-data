@@ -34,12 +34,12 @@ Brand new whip just hopped in (Just hopped in)
 I got options (Oh Lord, Jetson made another one)
 I could pass that bitch like Stockton (It ain't nothin')
 Just joshin'
-I'ma spend this holiday locked in (Ooh)
+I'ma spend this holiday locked in (Oh
 My body got rid of them toxins (Mmh, mmh)
 SportsCenter, top ten
 
-I could put the ball in the end zone, put a bad bitch in the friendzone, ooh
-This shit sound like an intro, Jetson, give me that tempo, ooh
+I could put the ball in the end zone, put a bad bitch in the friendzone, oh
+This shit sound like an intro, Jetson, give me that tempo, oh
 Told Pooh he a fool with this shit (He a fool)
 Told her don't let her friends know (Don't)
 In the 'Ville and I move like a don (Don)
@@ -69,7 +69,7 @@ I be discouraged from sharing my blessings (Damn)
 We used to share a connection
 Now it just feels like it's wearing and stretching
 I'm getting real sick of taking advice
-From people that never could stare at reflections (Ooh)
+From people that never could stare at reflections (Oh
 Somewhere in there is a lesson
 Y'all ain't evolvin', it's very depressing
 I'm at the club with the basketball team
@@ -77,12 +77,12 @@ Me and the Cardinals are sharing a section (Facts)
 Gotta cherish the present
 I'm drinking water and wearing protection
 Got a career and I'm very invested
-Some people call it a scary obsession (Ooh, period, but)
+Some people call it a scary obsession (Oh period, but)
 I like to call it a passion, I can't be sitting relaxin' (Nah, I can't)
 PG, we getting some traction, I'm at the venue, it's packed in (Packed out)
 I'm digging her accent
 I got a B.B. Simon belt on me and she tryna get it unfastened
-That's my type of distraction, that's my type and she Latin (That's facts, ooh)
+That's my type of distraction, that's my type and she Latin (That's facts, oh
 Got my own flow and I'm 'bout to get a patent
 Brand new sheets for the bed, they satin (Soft, real soft)
 Y'all wasn't tuned in back then (Nah)
@@ -94,7 +94,7 @@ Brand new whip just hopped in (Just hopped in)
 I got options
 I could pass that bitch like Stockton (It ain't nothin')
 Just joshin'
-I'ma spend this holiday locked in (Ooh)
+I'ma spend this holiday locked in (Oh
 My body got rid of them toxins (Mmh, mmh)
 SportsCenter, top ten
 

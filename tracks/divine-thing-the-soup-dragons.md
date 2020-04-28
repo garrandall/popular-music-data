@@ -81,11 +81,10 @@ All Hips and Lips
 Made to Trick
 Just Any Fool
 
-(chorus)
 I Could Have Sworn That You Were An Angel
 'cause You're a Sweet, Sweet, Sweet, Divine Thing
 But I Should Have Known That You Were the Devil
-Dressed Like a Sweet, Sweet, Sweet, Divine Thing...
+Dressed Like a Sweet, Sweet, Sweet, Divine Thing
 
 You Lack the One Thing That Is Devotion
 Not Always There, in Your Hair
@@ -94,8 +93,6 @@ Just Too Wrapped Up In
 Your Own Emotion
 Your Vanity
 Will Always Be
-Your Greatest Thing....
+Your Greatest Thing
 
-Chorus
-
-Divine Thing, Divine Thing.....
+Divine Thing, Divine Thing

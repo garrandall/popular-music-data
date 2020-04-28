@@ -190,9 +190,9 @@ Careful when you come through my way
 My body-ody know how to play
 Work it, keep it tight every day
 And I, I, I know you need a taste
-When I ooh, you're fallin' in love
-Give a little ooh-ooh, get it well done
-Dancing on my ooh, make your girl wanna run
+When I oh, you're fallin' in love
+Give a little oh-oh, get it well done
+Dancing on my oh, make your girl wanna run
 We keep moving 'til the sun come up
 Porque I am the party, yo soy fiesta
 Blow out your candles, have a siesta

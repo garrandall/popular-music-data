@@ -6,7 +6,7 @@ features:
 genres: []
 key: everything-is-awesome----tegan-and-sara-the-lonely-island
 lyrics_url: https://www.azlyrics.com/lyrics/teganandsara/everythingisawesome.html
-name: Everything Is AWESOME!!!
+name: Everything Is AWESOME!
 rankings:
 - end_date: '2014-03-07'
   rank: 62

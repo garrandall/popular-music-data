@@ -147,7 +147,7 @@ Yo sin ti no vuelvo a enamorarme, bebé
 Extraño tu aroma en la cama (ehh)
 De ese que dejas cuando entras y sales
 ¿Dónde quedaron los besos y todos los planes? (oh-oh-oh)
-No sé si vivir o morir (ohh)
+No sé si vivir o morir (oh)
 Me encuentro en un limbo desde que te fuiste de aquí (oh-oh-oh)
 Eres la única persona que yo quiero que se venga encima de mí
 Mi libertad no la quiero, tampoco la vida 'e soltero

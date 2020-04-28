@@ -108,7 +108,7 @@ if you'd had more time.
 So, when the day comes to settle down,
 Who's to blame if you're not around?
 You took the long way home
-You took the long way home...........
+You took the long way home...
 
 
 

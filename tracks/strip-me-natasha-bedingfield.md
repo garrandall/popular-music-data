@@ -43,7 +43,7 @@ Take what you want steal my pride
 Build me up or cut me down to size
 Shut me out but I'll just scream
 I'm only one voice in a million
-But you ain't taking that from me (oh ooh)
+But you ain't taking that from me (oh oh)
 You ain't taking that from me (oh oh)
 You ain't taking that from me (oh oh)
 You ain't taking that from me (oh oh)
@@ -63,7 +63,7 @@ Take what you want steal my pride
 Build me up or cut me down to size
 Shut me out but I'll just scream
 I'm only one voice in a million
-But you ain't taking that from me (oh ooh)
+But you ain't taking that from me (oh oh)
 You ain't taking that from me (oh oh)
 You ain't taking that from me (oh oh)
 You ain't taking that from me (oh oh)
@@ -78,12 +78,9 @@ Take what you want steal my pride
 Build me up or cut me down to size
 Shut me out but I'll just scream
 I'm only one voice in a million
-But you ain't taking that from me (oh ooh)
+But you ain't taking that from me (oh oh)
 You ain't taking that from me (oh oh)
 You ain't taking that from me (oh oh)
 You ain't taking that from me (oh oh)
 You ain't taking that!
-
-
-
 

@@ -86,9 +86,9 @@ rankings:
 ---
 
 Rumour spreadin' a-'round in that Texas town
-'bout that shack outside La Grange 
+'bout that shack outside La Grange
 and you know what I'm talkin' about.
-Just let me know if you wanna go 
+Just let me know if you wanna go
 to that home out on the range.
 They gotta lotta nice girls.
 
@@ -97,11 +97,11 @@ A haw, haw, haw, haw, a haw.
 A haw, haw, haw.
 
 Well, I hear it's fine if you got the time
-and the ten to get yourself in. 
-A hmm, hmm.
-And I hear it's tight most ev'ry night,
+and the ten to get yourself in.
+A hm, hm.
+And I hear it's tight most every night,
 but now I might be mistaken.
-hmm, hmm, hmm, hmm.
+hm, hm, hm, hm.
 
 Have mercy.
 

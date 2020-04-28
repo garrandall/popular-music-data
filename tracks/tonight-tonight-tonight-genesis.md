@@ -72,7 +72,7 @@ I'm coming down
 Coming down like a monkey
 But it's alright
 Like a load on your back that you can't see
-Ooh, but it's alright
+Oh, but it's alright
 Try to shake it loose, cut it free, just let it go
 Get it away from me
 
@@ -83,7 +83,7 @@ Tonight, tonight, tonight, oh
 
 
 I'm going down
-Going down, like a monkey, ooh
+Going down, like a monkey, oh
 But it's alright
 Try to pick yourself up
 Carry that weight that you can't see
@@ -129,7 +129,7 @@ I'm coming down
 Coming down like a monkey
 But it's alright
 It's like a load on your back that you can't see
-Ooh, but you know that it's alright
+Oh, but you know that it's alright
 Just try to shake it loose, cut it free, let it go
 Just get it away from me, oh
 

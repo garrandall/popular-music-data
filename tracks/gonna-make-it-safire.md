@@ -72,9 +72,6 @@ I'll walk right through it
 Not knowing what's in store
 I'm ready any time
 
-
-
-
 There comes a time
 In each one of our lives
 When we must finish up

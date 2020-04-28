@@ -125,7 +125,7 @@ Treat me right
 Treat me right
 Open your eye's
 Maybe you'll see the light
-Ooh-ooh
+Oh-oh
 Treat me right
 
 
@@ -143,7 +143,7 @@ Treat me right
 Treat me right
 Open your eyes
 Maybe you'll see the light
-Ooh-ooh
+Oh-oh
 Treat me right
 
 Treat me right, treat me right

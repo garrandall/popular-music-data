@@ -100,7 +100,7 @@ It comes naturally, it comes naturally
 
 You follow what you feel inside
 It's intuitive, you don't have to try
-It comes naturally, mmmm, it comes naturally
+It comes naturally, mmm, it comes naturally
 
 And it takes my breath away (away, away, away)
 What you do so naturally (turally, turally, turally)
@@ -116,7 +116,7 @@ Ba-ba-baby
 You have a way of moving me
 A force of nature, your energy
 It comes naturally (you know it does), it comes naturally
-Mmmm, yeah
+Mmm, yeah
 
 And it takes my breath away (away, away) every time
 What you do so naturally

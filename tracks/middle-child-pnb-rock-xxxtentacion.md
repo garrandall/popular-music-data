@@ -14,7 +14,7 @@ rankings:
   start_date: '2019-05-18'
 ---
 
-Ooh-oh-oh
+Ohoh-oh
 Yeah yeah yeah
 
 Mama had five boys, me, I was the middle child

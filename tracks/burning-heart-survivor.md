@@ -126,9 +126,6 @@ There's a quest for answers an unquenchable thirst
 In the darkest night rising like a spire
 In the burning heart the unmistakable fire
 
-
-
-
 In the burning Heart just about to burst
 There's a quest for answers an unquenchable thirst
 In the darkest night rising like a spire

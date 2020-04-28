@@ -34,7 +34,7 @@ So much of this world is above us, baby
 They might tell you that I went crazy
 I'm just tryna read you
 
-Ooh
+Oh
 
 I know we try and the days they go by
 Until we get old, there's water in the flowers, let's grow

@@ -112,7 +112,7 @@ Get in to my car
 (Beep Beep, yeah)
 Get outta my mind
 Get in to my life
-(Ooooooh)
+(Oh)
 Oh I said hey (Hey) you (You)
 Get in to my car
 Oh baby
@@ -138,7 +138,7 @@ Get in to my car
 (Beep Beep, yeah)
 Get outta my mind
 Get in to my life
-(Ooooooh)
+(Oh)
 Oh I said hey (Hey) you (You)
 Get in to my car
 
@@ -154,7 +154,7 @@ Yeah (Yeah) yeah (Yeah)
 
 Let's go
 
-Oooh, wooow, yeah
+Oh, wooow, yeah
 
 I'll be the sun shining on you
 Hey Cinderella step in your shoe
@@ -173,7 +173,7 @@ Get in to my car
 (Beep Beep, yeah)
 Get outta my mind
 Get in to my life
-(Ooooooh)
+(Oh)
 
 Oh I said hey (Hey) you (You)
 Get in to my hey (Hey) you (You)

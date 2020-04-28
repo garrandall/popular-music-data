@@ -16,9 +16,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
 ---
-Ooo-OOO-ooo
+Ooo-OOO-oo
 Lover's prayer
-Ooo-OOO-ooo
+Ooo-OOO-oo
 Lover's prayer
 
 Heavenly father, up above
@@ -35,9 +35,9 @@ But half a block seems like a mile
 And when she's gone, I'll be so blue
 I'll say goodbye my dearest I love you
 
-Ooo-OOO-ooo
+Ooo-OOO-oo
 Lover's prayer
-Ooo-OOO-ooo
+Ooo-OOO-oo
 Lover's prayer
 
 Lover's prayer

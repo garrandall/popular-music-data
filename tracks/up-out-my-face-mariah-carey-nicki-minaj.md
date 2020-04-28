@@ -80,7 +80,7 @@ So pay the consequences 'cause you acted all ignorant
 You ashamed now
 Where ever you been laying, you can stay now
 Gotta board the BBJ and pull the shades down
-I'm on the plane now (Mmm-hmm)
+I'm on the plane now (Mmm-hm)
 And don't keep calling from your mama's house (Yo, yo)
 When I break, I
 

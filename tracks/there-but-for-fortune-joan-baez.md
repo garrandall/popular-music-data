@@ -41,7 +41,7 @@ Show me the prison, show me the jail
 Show me the prisoner, whose life has gone stale
 And I'll show you a young man
 With so many reasons why
-And there but for fortune, go you or I......mm, mm
+And there but for fortune, go you or I...mm, mm
 
 Show me the alley, show me the train
 Show me the hobo, who sleeps out in the rain

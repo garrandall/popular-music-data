@@ -141,7 +141,7 @@ There was a distance between you and I (between you and I)
 A misunderstanding once
 But now we look it in the eye
 
-Ooh, yeah
+Oh, yeah
 
 There ain't no load that I can't hold
 The roads are rough, this I know
@@ -164,7 +164,7 @@ Come on. Give me give me give me give me yeah
 
 Life is a highway
 I wanna ride it all night long
-Yeah, I wanna drive it all night long, baby 
+Yeah, I wanna drive it all night long, baby
 If you're going my way
 I wanna drive it all night long
 

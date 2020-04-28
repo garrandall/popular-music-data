@@ -116,7 +116,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-11-30'
 ---
-Ooooh oooooo oooooh!
+Oh oo oh
  Yeah, this that bounce right here
  Come On Now!
  Time to move on, time to be strong

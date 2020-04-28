@@ -40,18 +40,12 @@ So stand on the edge with me
 Hold back your fear and see
 Nothing is real 'til it's gone
 
-
-
-
 So live like you mean it
 Love 'til you feel it
 It's all that we need in our lives
 So stand on the edge with me
 Hold back your fear and see
 Nothing is real 'til it's gone
-
-
-
 
 It's all that we need in our lives
 It's all that I need in my life

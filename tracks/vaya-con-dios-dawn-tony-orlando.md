@@ -31,7 +31,7 @@ Whoa, if you listen with your heart girl, you'll hear them singing
 (Vaya con dios, my darlin', my darlin', my darlin', vaya con dios, my love)
 
 Each night I'll say a prayer, a simple prayer to guide you, (to guide you)
-To hasten ev'ry lonely hour of ev'ry lonely day
+To hasten every lonely hour of every lonely day
 
 Now the dawn is breaking through a gray tomorrow
 Oh, but the memories we share are there to borrow

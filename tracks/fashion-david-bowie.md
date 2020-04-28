@@ -52,7 +52,7 @@ They do it over there but we don't do it here
 
 Fashion! Turn to the left
 Fashion! Turn to the right
-Ooh, fashion!
+Oh fashion!
 We are the goon squad and we're coming to town
 Beep-beep
 Beep-beep
@@ -73,7 +73,7 @@ Oh bop, fashion
 
 Fashion! Turn to the left
 Fashion! Turn to the right
-Oooh, fashion!
+Oh, fashion!
 We are the goon squad
 And we're coming to town
 Beep-beep

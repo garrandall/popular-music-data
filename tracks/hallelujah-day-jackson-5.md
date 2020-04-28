@@ -96,7 +96,3 @@ Singing hallelujah
 Singing, singing, singing, yeah
 Hallelujah, yeah
 
-
-
-
-

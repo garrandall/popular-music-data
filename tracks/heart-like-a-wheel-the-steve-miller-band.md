@@ -67,7 +67,7 @@ rankings:
 
 I've got a heart like a wheel
 Feel like I got to roll
-Ooohh
+Oh
 
 Heart like a wheel
 I told you so

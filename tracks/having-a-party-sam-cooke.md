@@ -70,7 +70,7 @@ rankings:
 ---
 
 We're having a party
-dancing to the music 
+dancing to the music
 played by the DJ
 on the radio
 the cokes are in the icebox
@@ -84,7 +84,7 @@ dancing with my baby
 
 Everybody's swinging
 Sally's doing that twist now
-if you take request, I....
+if you take request, I...
 I got a few for you
 play that song called Soul Twist
 play that one called I Know
@@ -107,7 +107,7 @@ on the radio--say it one more time
 
 We're having a party--yeah
 everybody's swinging--oh we're
-dancing to the music--yeah 
+dancing to the music--yeah
 on the radio (song fades and ends)
 
 

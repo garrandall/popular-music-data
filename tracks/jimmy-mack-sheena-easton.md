@@ -57,7 +57,7 @@ He calls me on the phone
 About three times a day
 No, my heart's not listen' to
 What he has to say
-But this lonelieness i have within
+But this lonelieness I have within
 Keeps reachin' out to be his friend
 Oh, Jimmy Mack, Jimmy
 Oh, Jimmy Mack
@@ -81,8 +81,8 @@ Oh, Jimmy Mack
 When are you comin' back?
 Need your lovin'
 Need your lovin'
-I'm not gettin' any stronger (ooh!)
-Can't hold back very much longer (ooh!)
+I'm not gettin' any stronger (oh!)
+Can't hold back very much longer (oh!)
 Jimmy Mack, when are you comin' back?
 Need your lovin' (oh, Jimmy Mack)
 Need your lovin' (oh, Jimmy Mack)

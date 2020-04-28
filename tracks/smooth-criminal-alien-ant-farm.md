@@ -154,9 +154,6 @@ It was your doom
 Annie, are you okay, you okay, you okay, Annie?
 You've been hit by, you've been struck by a smooth criminal
 
-
-
-
 Annie, are you OK (oh no)
 Will you tell us that you're OK (oh no)
 There's a sign at the window (oh no)

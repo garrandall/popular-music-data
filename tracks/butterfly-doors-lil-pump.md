@@ -22,7 +22,7 @@ Butterfly doors (Brr)
 Jetski, Jetski
 Yeah
 
-Butterfly doors (Ooh)
+Butterfly doors (Oh)
 Space coupe look like a UFO (Whoa)
 Smokin' on dope (Damn)
 They call me Yao **** 'cause my eyes real low (Low)
@@ -54,7 +54,7 @@ Jack a nigga car and his license plate (Goddamn)
 Two Lamborghinis with the butterfly doors (Butterfly)
 I feel like the old Gucci, bitch, I'm burnt and I'm froze (I'm burnt, yeah)
 
-Butterfly doors (Ooh)
+Butterfly doors (Oh)
 Space coupe look like a UFO (Whoa)
 Smokin' on dope (Damn)
 They call me Yao **** 'cause my eyes real low (Low)

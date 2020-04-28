@@ -82,7 +82,7 @@ Sure it a 'aftermath', but I ain't a doctor
 Squad full of 'BG's', city full of them choppas
 Way more 'Game' than the kid with the G-Unit (unit)
 Cracks by the grand an hour, thats a G-Unit (Thats a G-Unit)
-Like Ciara when i get in her 'Goodies'
+Like Ciara when I get in her 'Goodies'
 Cuz' I'm Jazzy like Pha with a tank in the Hoody
 I'm Like..
 
@@ -94,12 +94,11 @@ Like (whoa whoa whoa whoa)
 Yea, King- Laker, you ain't gotta know me,(but ya gotta know me)but yet you soon will cuz u gotta know me,got that type to make ya baby momma OD
 Like (whoa whoa whoa whoa)
 
-(Chorus)
 
 (Bridge:)(Nelly)
 Okay, now let me see you do it baby
 (Okay), don't be afraid go now
-And don't be ashamed of how you do it 
+And don't be ashamed of how you do it
 Just (whoa whoa whoa whoa)
 
 (Nelly)

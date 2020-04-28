@@ -195,12 +195,12 @@ rankings:
 ---
 
 
-Havana, ooh na-na (ay)
-Half of my heart is in Havana, ooh-na-na (ay, ay)
+Havana, ohna-na (ay)
+Half of my heart is in Havana, ohna-na (ay, ay)
 He took me back to East Atlanta, na-na-na
 Oh, but my heart is in Havana (ay)
 There's somethin' 'bout his manners (uh huh)
-Havana, ooh na-na
+Havana, ohna-na
 
 He didn't walk up with that "how you doin'?"
 (When he came in the room)
@@ -211,18 +211,18 @@ I knew him forever in a minute
 And papa says he got malo in him
 He got me feelin' like
 
-Ooh... I knew it when I met him
+Oh.. I knew it when I met him
 I loved him when I left him
 Got me feelin' like
-Ooh... and then I had to tell him
+Oh.. and then I had to tell him
 I had to go, oh na-na-na-na-na
 
-Havana, ooh na-na (ay)
-Half of my heart is in Havana, ooh-na-na (ay, ay)
+Havana, ohna-na (ay)
+Half of my heart is in Havana, ohna-na (ay, ay)
 He took me back to East Atlanta, na-na-na (uh huh)
 Oh, but my heart is in Havana (ay)
 My heart is in Havana
-Havana, ooh na-na
+Havana, ohna-na
 
 
 Jeffery
@@ -241,37 +241,37 @@ If it cost a million, that's me (that's me)
 I was gettin' mula, pretty baby
 
 
-Havana, ooh na-na (ay, ay)
-Half of my heart is in Havana, ooh-na-na (oh, ay, ay)
+Havana, ohna-na (ay, ay)
+Half of my heart is in Havana, ohna-na (oh, ay, ay)
 He took me back to East Atlanta, na-na-na (oh no)
 Oh, but my heart is in Havana
 My heart is in Havana
-Havana, ooh na-na
+Havana, ohna-na
 
-Ooh na-na, oh na-na-na
+Ohna-na, oh na-na-na
 Take me back, back, back like
-Ooh na-na, oh na-na-na
+Ohna-na, oh na-na-na
 Take me back, back, back like
-Ooh na-na, oh na-na-na
+Ohna-na, oh na-na-na
 Take me back, back, back like
-Ooh na-na, oh na-na-na
+Ohna-na, oh na-na-na
 Take me back, back, back
 Yeah, ay...
-Ooh...
+Oh..
 Take me back to my Havana...
 
-Havana, ooh na-na
-Half of my heart is in Havana, ooh-na-na (oh, yeah)
+Havana, ohna-na
+Half of my heart is in Havana, ohna-na (oh, yeah)
 He took me back to East Atlanta, na-na-na
 Oh, but my heart is in Havana
 My heart is in Havana (ay)
-Havana, ooh na-na
+Havana, ohna-na
 
 Uh huh
 Oh na-na-na...
 No, no, no, take me back
 Oh na-na-na
-Havana, ooh na-na
+Havana, ohna-na
 
 
 

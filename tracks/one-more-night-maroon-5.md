@@ -176,8 +176,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-04-20'
 ---
-Ooh, ooh ooh ooh, ooh ooh, ooh ooh
-Ooh, ooh ooh ooh, ooh ooh, ooh ooh
+Oh ohoohhohh oh ohohohoh
+Oh ohoohhohh oh ohohohoh
 
 
 You and I go hard at each other like we're going to war
@@ -218,11 +218,11 @@ And I know I've said it a million times (yeah)
 But I'll only stay with you one more night (yeah)
 
 
-(Ooh, ooh ooh ooh, ooh ooh, ooh ooh)
+(Oh ohoohhohh oh ohohohoh
 Yeah, baby, give me one more night
-(Ooh, ooh ooh ooh, ooh ooh, ooh ooh)
+(Oh ohoohhohh oh ohohohoh
 Yeah, baby, give me one more night (whoa, yeah)
-(Ooh, ooh ooh ooh, ooh ooh, ooh ooh)
+(Oh ohoohhohh oh ohohohoh
 Yeah, baby, give me one more night
 Oh yeah yeah
 

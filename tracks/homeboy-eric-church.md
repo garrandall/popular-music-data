@@ -99,7 +99,7 @@ Heard you cussed out mamma, pushed daddy around
 You tore off in his car
 Here you are runnin' these dirty old streets
 Tattoo on your neck, fake gold on your teeth
-Got the hood here snow, but you cant fool me, we both know who you are
+Got the hood here snow, but you can't fool me, we both know who you are
 
 
 Homeboy your gonna wish one day you were sittin' on the gate of a truck by the lake

@@ -94,7 +94,7 @@ I'm lying in my bed awake at night
 Like Keith Sweat said something's just ain't right
 'Cause all I can do is think of you
 And just how much I'm in love with you
-Ooh baby I'm crazy with infatuation
+Oh baby I'm crazy with infatuation
 And when you left such devastation
 Came over me that I could not see
 Just how much you meant to me

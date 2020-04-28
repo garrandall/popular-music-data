@@ -1,6 +1,6 @@
 ---
 artists:
-- Missy "Misdemeanor" Elliott
+- Missy Elliott
 features:
 - Big Boi
 - Nicole
@@ -100,7 +100,7 @@ I'm the best thing in history
 Why you all in my grill (Why, why, why)
 Can you pay my bills (Can you pay my bills)
 Let me know if you will (Let me know boy, boy)
-Cuz a chick gotta live (A chick got to live, ooh yeah)
+Cuz a chick gotta live (A chick got to live, oh yeah)
 
 
 Third time (Third time)
@@ -116,8 +116,8 @@ Can you pay my bills (Can you pay my bills, yeah)
 Let me know if you will (Let me know if you will)
 Cuz a chick gotta live (oh, yeah)
 
-Why you all in my grill 
-Can you pay my bills (Ooh, pay my bills)
+Why you all in my grill
+Can you pay my bills (Oh, pay my bills)
 Let me know if you will (Let me know, let me know baby, baby)
 Cuz a chick gotta live (A chick like me, I got to live)
 
@@ -129,7 +129,7 @@ Where's my money? Where's my clothes?
 
 If you want me, where's my dough?
 Give me money, buy me clothes
-No need for talking, have my dough? 
+No need for talking, have my dough?
 Where's my money? Where's my clothes?
 
 
@@ -156,7 +156,7 @@ She pretty D, all they same, boo
 But I'm backed by the Dungeon Family
 So you can go 'head wit' all that stabbin' me
 Cuz I will jab thee, and slam thee
-And Bobby Boochet yo' ass, G 
+And Bobby Boochet yo' ass, G
 Yeah, yeah
 
 

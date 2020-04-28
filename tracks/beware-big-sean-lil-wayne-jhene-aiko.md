@@ -94,7 +94,7 @@ rankings:
 
 When you said it was over you shot right through my heart
 Why you let these hoes tear what we had right apart?
-Ooh, I was so mad; I could've/should've seen this coming right from the start
+Oh, I was so mad; I could've/should've seen this coming right from the start
 You should beware, beware, beware of a woman with a broken heart
 
 
@@ -141,9 +141,6 @@ How am I supposed to get past you?
 And she called the next guy spillin' some real shit
 Now they problems he got to deal with
 
-
-
-
 Girl, don't believe them hoes
 'Cause they don't wanna see us together
 And you already know you're too fly
@@ -162,10 +159,10 @@ Schh, but players fuck up, my bad
 And just to keep from crying, I laughed
 
 
-When you said it was over you shot right through my heart 
+When you said it was over you shot right through my heart
 Tunechi
 Why you let these hoes tear what we had right apart?
-Ooh, I was so mad; I could've/should've seen this coming right from the start 
+Oh, I was so mad; I could've/should've seen this coming right from the start
 Damn
 You should beware, beware, beware of a woman with a broken heart
 

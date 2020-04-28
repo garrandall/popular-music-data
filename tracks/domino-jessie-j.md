@@ -134,15 +134,15 @@ I can taste the tension like a cloud of smoke in the air
 Now I'm breathing like I'm running cause you're taking me there
 Don't you know? You spin me out of control
 
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 We can do this all night
 Damn this love is skin tight
 Baby, come on
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 Boom me like a bass drum
 Sparkin' up a rhythm
 Baby, come on!
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 
 Rock my world until the sunlight
 Make this dream the best I've ever known
@@ -163,15 +163,15 @@ I can taste the tension like a cloud of smoke in the air
 Now I'm breathing like I'm running cause you're taking me there
 Don't you know? You spin me out of control
 
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 We can do this all night
 Damn this love is skin tight
 Baby, come on
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 Boom me like a bass drum
 Sparkin' up a rhythm
 Baby, come on!
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 
 Rock my world until the sunlight
 Make this dream the best I've ever known
@@ -183,16 +183,16 @@ When we touch don't ever let me go
 Dirty dancing in the moonlight
 Take me down like I'm a domino
 
-Ooh, baby, baby, got me feeling so right
-Ooh, baby, baby, dancing in the moonlight
-Ooh, baby, baby, got me feeling so right
-Ooh, baby, baby, dancing in the moonlight
-Ooh, baby, baby, got me feeling so right
-Ooh, baby, baby, dancing in the moonlight
-Ooh, baby, baby, got me feeling so right
-Ooh, baby, baby
+Oh, baby, baby, got me feeling so right
+Oh, baby, baby, dancing in the moonlight
+Oh, baby, baby, got me feeling so right
+Oh, baby, baby, dancing in the moonlight
+Oh, baby, baby, got me feeling so right
+Oh, baby, baby, dancing in the moonlight
+Oh, baby, baby, got me feeling so right
+Oh, baby, baby
 
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 Rock my world until the sunlight
 Make this dream the best I've ever known
 Dirty dancing in the moonlight

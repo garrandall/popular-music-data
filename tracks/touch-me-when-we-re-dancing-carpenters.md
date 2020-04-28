@@ -89,7 +89,3 @@ Just to be this close
 You've got me up so high
 I could fly coast to coast
 
-
-
-
-

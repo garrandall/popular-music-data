@@ -3,9 +3,9 @@ artists:
 - Gina G
 features: []
 genres: []
-key: ooh-aah-just-a-little-bit-gina-g
-lyrics_url: https://genius.com/Gina-g-ooh-aah-just-a-little-bit-lyrics
-name: Ooh Aah Just A Little Bit
+key: ohaah-just-a-little-bit-gina-g
+lyrics_url: https://genius.com/Gina-g-ohaah-just-a-little-bit-lyrics
+name: Oh Ah Just A Little Bit
 rankings:
 - end_date: '1996-12-06'
   rank: 77
@@ -141,13 +141,13 @@ I can't hide all these thoughts in my mind
 Every moment, I'm just thinking of you
 
 
-(Ooh Aah) Just a little bit
-(Ooh Aah) A little bit more
-(Ooh Aah) Just a little bit
+(Oh Ah) Just a little bit
+(Oh Ah) A little bit more
+(Oh Ah) Just a little bit
 You know what I'm looking for
-(Ooh Aah) Just a little bit
-(Ooh Aah) A little bit more
-(Ooh Aah) Just a little bit
+(Oh Ah) Just a little bit
+(Oh Ah) A little bit more
+(Oh Ah) Just a little bit
 I'll give you love you can't ignore
 
 
@@ -163,37 +163,37 @@ Like a child but it's born out of phase
 Could act the angel but it wouldn't be true
 
 
-(Ooh Aah) Just a little bit
-(Ooh Aah) A little bit more
-(Ooh Aah) Just a little bit
+(Oh Ah) Just a little bit
+(Oh Ah) A little bit more
+(Oh Ah) Just a little bit
 You know what I'm looking for
-(Ooh Aah) Just a little bit
-(Ooh Aah) A little bit more
-(Ooh Aah) Just a little bit
+(Oh Ah) Just a little bit
+(Oh Ah) A little bit more
+(Oh Ah) Just a little bit
 I'll give you love you can't ignore
 
 
 What can you do for me
 Oh what can you do
 'Cause I feel, so alive
-I feel your love inside ohhhh
+I feel your love inside oh
 
 
-(Ooh Aah) Just a little bit
-(Ooh Aah) A little bit more
-(Ooh Aah) Just a little bit
+(Oh Ah) Just a little bit
+(Oh Ah) A little bit more
+(Oh Ah) Just a little bit
 You know what I'm looking for
-(Ooh Aah) Just a little bit
-(Ooh Aah) A little bit more
-(Ooh Aah) Just a little bit
+(Oh Ah) Just a little bit
+(Oh Ah) A little bit more
+(Oh Ah) Just a little bit
 I'll give you love you can't ignore
-(Ooh Aah) Just a little bit
-(Ooh Aah) A little bit more
-(Ooh Aah) Just a little bit
+(Oh Ah) Just a little bit
+(Oh Ah) A little bit more
+(Oh Ah) Just a little bit
 You know what I'm looking for
-(Ooh Aah) Just a little bit
-(Ooh Aah) A little bit more
-(Ooh Aah) Just a little bit
+(Oh Ah) Just a little bit
+(Oh Ah) A little bit more
+(Oh Ah) Just a little bit
 I'll give you love you can't ignore
 
 

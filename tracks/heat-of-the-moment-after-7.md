@@ -133,7 +133,7 @@ L.A. Reid and Babyface
 
 There comes a time in every man's life
 You're gonna do wrong
-I made a mistake girl..Just let me..
+I made a mistake girl...Just let me..
 Just let me explain
 
 I can't believe it
@@ -185,7 +185,7 @@ Baby I fell in lust with you
 Baby baby you've got to slow down
 From now on I promise I will be a better man
 Now...Now I know that you know
-That we can't carry on like this 
+That we can't carry on like this
 Girl stop...just stop
 Baby when you kissed my lips, I said
 Right now...Right now
@@ -194,7 +194,7 @@ In the heat of the moment
 Baby I lost my head. Lost my mind
 Didn't know what to do
 In the heat of the moment
-Baby I fell in lust with you 
+Baby I fell in lust with you
 
 
 

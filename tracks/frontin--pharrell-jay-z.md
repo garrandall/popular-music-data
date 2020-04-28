@@ -142,13 +142,13 @@ But you know I want ya (You should stop frontin', babe)
 
 Ho!
 We got another one, Phar-real!
-Dance, oooohhh
+Dance, oh
 I call you "for real" cause you the truth, haha
-Whoa-oh, ohhh-ohh
+Whoa-oh, oh-oh
 Young, great Hova
-Dance, oooohhh
+Dance, oh
 Uh, yeah, let me talk to 'em
-Whoa-oh, ohhh-ohh
+Whoa-oh, oh-oh
 I'mma keep it real
 
 
@@ -169,7 +169,7 @@ But you know I want ya (You should stop frontin', babe)
 
 
 C'mon (ho!)
-Dance, oooohhh
-Whoa-oh, (oh), ohhh-ohh
-Dance, oooohhh (aoww!)
-Whoa-oh, (oh), ohhh-ohh
+Dance, oh
+Whoa-oh, (oh), oh-oh
+Dance, oh (aoww!)
+Whoa-oh, (oh), oh-oh

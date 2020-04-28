@@ -71,9 +71,3 @@ Here she comes a ridin', Lord, She's flyin' high.
 But she was rollin' down, movin' too fast;
 Do you wanna, She was thinkin' can I last.
 
-
-
-
-
-
-

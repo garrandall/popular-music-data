@@ -45,9 +45,6 @@ Fold my cash at last, my task to teach the class
 And receive somethin' more than brass and some glass
 Make a brother work hard, long and fast
 
-
-
-
 Dreadlock, I set to rock for my block
 Clock wax like crack, samplin' from old stacks
 That's where the soul's at in this whole rap universe
@@ -66,9 +63,6 @@ And by fate, I'll avoid the court date, no legal aid
 Everythin' is paid, why cause a tirade?
 If the money ain't made, talkin' millions
 But spendin' pennies and gettin' cheap shoes from Kenny's
-
-
-
 
 Now, let's take time out to say peace to the Gods (Peace!)
 Bust how I release 'cause this beat is hard

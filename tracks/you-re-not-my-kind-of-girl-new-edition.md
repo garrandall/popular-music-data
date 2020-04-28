@@ -25,9 +25,9 @@ rankings:
   start_date: '1988-12-03'
 ---
 Sorry
-Ooh, yeah (You’re very pretty)
+Oh, yeah (You’re very pretty)
 *stutter* Sorry
-Woo, ooh, yeah, yeah
+Woo, oh, yeah, yeah
 
 
 Oh, girl, I know that you're attracted to me

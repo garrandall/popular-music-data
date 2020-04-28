@@ -30,9 +30,9 @@ Nikki, oh
 
 Don't worry, I won't hurt U
 I only want U 2 have some fun
-Baby, baby, baby I'm a star (Star, ooh)
+Baby, baby, baby I'm a star (Star, oh
 Might not know it now
-Baby, but I are, I'm a star, eh (Star, ooh)
+Baby, but I are, I'm a star, eh (Star, oh
 I don't wanna stop 'til I reach the top, oh
 Ow!
 
@@ -53,7 +53,7 @@ Sexy dancer, I want your body, want your body
 Sexy dancer, dance
 Sexy dancer, I want your body, want your body
 Sexy dancer, dance
-Ahhh!
+Ah!
 
 Work it baby, work it
 Let's work
@@ -86,7 +86,7 @@ I wanna be the only one that makes U come running
 I wanna be your lover
 I wanna turn U on, turn U out
 All night long make U shout
-Ooh, lover, yeah!
+Oh, lover, yeah!
 I wanna be the only one U come 4
 Yeah
 
@@ -112,7 +112,7 @@ If that's what we are
 We all want a love bizarre
 
 If I was your girlfriend
-Ooh, if I was your girlfriend
+Oh, if I was your girlfriend
 Would U let me wash your hair?
 Could I make U breakfast sometime?
 Would U let me pick out your clothes?
@@ -124,7 +124,7 @@ He told me several times that he didn't like my kind
 Cuz I's a bit 2 leisurely
 It seems that I was busy doin' something close 2 nothin'
 But different than the day before
-That's when I saw her, ooh, I saw her
+That's when I saw her, oh I saw her
 She walked in through the out door, out door
 
 She wore a raspberry beret

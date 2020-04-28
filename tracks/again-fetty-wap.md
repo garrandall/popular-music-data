@@ -199,7 +199,7 @@ I go out of the way to see you
 I ain't playing no games, I need you
 
 
-(Ooooo, oooo, yeah baby, baby, baby, baby, baby, baby, baby, baby, whoooo, ahhhh, oooooooo, ah)
+(Ooooo, oo, yeah baby, baby, baby, baby, baby, baby, baby, baby, whoooo, ah, oo, ah)
 And I want you to be mine again baby
 I know my lifestyle is driving you crazy
 But I cannot see myself without you

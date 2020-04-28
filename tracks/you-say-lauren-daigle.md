@@ -186,7 +186,7 @@ Every single lie that tells me I will never measure up
 Am I more than just the sum of every high and every low?
 Remind me once again just who I am because I need to know
 
-Ooh oh
+Oh oh
 
 You say I am loved when I can't feel a thing
 You say I am strong when I think I am weak
@@ -199,7 +199,7 @@ I believe
 The only thing that matters now is everything You think of me
 In You I find my worth, in You I find my identity
 
-Ooh oh
+Oh oh
 
 You say I am loved when I can't feel a thing
 You say I am strong when I think I am weak
@@ -212,7 +212,7 @@ Oh, I believe
 Taking all I have and now I'm laying it at your feet
 You have every failure God, and You'll have every victory
 
-Ooh oh
+Oh oh
 
 You say I am loved when I can't feel a thing
 You say I am strong when I think I am weak

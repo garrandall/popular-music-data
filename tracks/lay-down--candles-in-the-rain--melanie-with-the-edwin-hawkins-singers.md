@@ -1,6 +1,6 @@
 ---
 artists:
-- Melanie with The Edwin Hawkins Singers
+- Melanie
 features: []
 genres: []
 key: lay-down--candles-in-the-rain--melanie-with-the-edwin-hawkins-singers

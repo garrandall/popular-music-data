@@ -72,9 +72,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-07-14'
 ---
-Ooh
-Ooh
-Ooh, oooh
+Oh
+Oh
+Oh, oh
 
 
 Don't get too tired for love

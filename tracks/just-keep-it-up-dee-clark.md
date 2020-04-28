@@ -103,7 +103,7 @@ Just keep it up
 And see what happens
 
 Please stop doin'
-The things you're do-ooo-in'
+The things you're do-oo-in'
 I know we can get along
 Your luck will run out
 One day you'll see

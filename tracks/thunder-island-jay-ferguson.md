@@ -92,7 +92,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-05-06'
 ---
-Ooh, yeah
+Oh yeah
 
 (Do-do-do-do, do-do-do, do-do-do, do-do-do-do-do
 Do-do-do-do, do-do-do, do-do-do, do-do-do-do-do)

@@ -63,7 +63,7 @@ It's real love
 
 I know it's not the first time
 That you ever felt this way before
-Ooh, but those memories are still lasting
+Oh, but those memories are still lasting
 Of the pain you got for your trusting
 So when love calls you walk out the door oh
 But this time, boy

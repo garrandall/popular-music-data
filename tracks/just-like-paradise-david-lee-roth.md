@@ -83,7 +83,7 @@ She gone with the wind, gonna go for broke tonight, yeah
 And that's (all night)
 
 Girl, we've been meant for this since we were born (since we were born)
-No problems now, the coast is clear (ooh)
+No problems now, the coast is clear (oh
 It's just the calm before the storm
 
 This must be just like livin' in paradise (just like paradise)

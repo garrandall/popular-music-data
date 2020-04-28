@@ -100,7 +100,4 @@ Soft and low the music moans
 I can't stop thinking about you
 Thinking 'bout you
 
-
-
-
 Nights are forever without you

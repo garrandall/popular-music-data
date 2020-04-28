@@ -52,9 +52,6 @@ To know
 When it's this good
 Everything, everything is alright
 
-
-
-
 It's alright
 It's alright
 
@@ -66,9 +63,6 @@ And secure
 You feel good in my arms
 And I know that you are
 You're the one for me
-
-
-
 
 How do I know
 You'll never go

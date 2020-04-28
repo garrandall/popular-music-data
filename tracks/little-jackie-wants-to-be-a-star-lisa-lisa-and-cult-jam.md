@@ -123,8 +123,8 @@ Talking about Jackie
 (If you believe in yourself
 I really think you're gonna make it)
 
-Ho, ooh, oh
-Ooh, yeah
+Ho, oh, oh
+Oh, yeah
 
 Talking about Jackie
 (I believe you, I believe you)
@@ -147,7 +147,7 @@ She wants to be
 She wants to be a superstar
 (If you believe in yourself
 I really think you're gonna make it)
-(Smack dab in the middle of growing up, ooh)
+(Smack dab in the middle of growing up, oh)
 
 Woo, woo, woo
 Woo, woo, woo

@@ -123,9 +123,6 @@ And I've been rockin' with the team, Tha Carter IX
 And we YMCMB, waitin' on somebody to try us, nigga
 Yeah
 
-
-
-
 Lord knows I'll murder one of these niggas, yeah
 Uh, His and hers Ferraris, nigga
 One for me, one for my daughter, nigga
@@ -143,9 +140,6 @@ They think I'm associated, I'm the one that orchestrated
 Yayo get her ass whipped, whip that ass like horses racin'
 Ain't 'bout what you walk away from, it's 'bout what you walk away with
 Dead Presidents, them coffins vacant, I must be doin' somethin'
-
-
-
 
 Had to get it poppin' off the rip
 Rich young nigga that ain't never had to trick
@@ -187,7 +181,7 @@ I had these bitches havin' babies every week
 I'm the nigga, see me skatin' in the streets
 Gone
 
-(Believe me) 
+(Believe me)
 
  Rip, rip, nigga
 

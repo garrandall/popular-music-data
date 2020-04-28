@@ -52,27 +52,27 @@ Come back baby, I love you
 Come back baby, I need you
 Come back baby, I love you
 
-Ooh baby, I love you
-Ooh-ooh
-Ooh baby, I love you
-Ooh-ooh
+Oh baby, I love you
+Oh-oh
+Oh baby, I love you
+Oh-oh
 
 Although I know you are gone
 Memories still linger on
 From your love I'll never be free
 I love you, baby
 You'll always be a part of me
-I need you, ooh
+I need you, oh
 
 These memories
 Just won't give me time, I love you
 There's always
 Something here to remind me
 
-Ooh baby, I love you
-Ooh-ooh
-Ooh baby, I love you
-Ooh-ooh
+Oh baby, I love you
+Oh-oh
+Oh baby, I love you
+Oh-oh
 
 Everyday, I just walk alone
 'Cause without you I just can't go on
@@ -87,9 +87,9 @@ Every night I wake up crying
 I love you, baby
 But baby, there's no need denying
 
-Ooh baby, I love you
-Ooh-ooh
-Ooh baby, I love you
+Oh baby, I love you
+Oh-oh
+Oh baby, I love you
 Come back baby, I love you
 Come back baby, I need you
 

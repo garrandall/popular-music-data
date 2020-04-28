@@ -97,7 +97,7 @@ It's such a rush
 Just being with you
 Chorus
 We're Driving in the Rush Hour
-(ooh you send me)
+(ohyou send me)
 You take me to the Rush Hour
 You got me in the Rush Hour
 Feel it getting hot in here

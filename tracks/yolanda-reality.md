@@ -78,22 +78,22 @@ Let me explain Yolanda to the world she's my just one type of girl.
 You can find her hangin out in the clubs
 Yolanda look good shakin her stuff,
 And oh yeah, by the way she's the best. Yolanda is fresh!
-Oh yeah, yeah ooh ee Yolanda, oh yeah, yeah you look so fine
+Oh yeah, yeah ohee Yolanda, oh yeah, yeah you look so fine
 Oh yeah, yeah oh ee Yolanda, oh yeah, yeah you look so fine.
 Yolanda, Yolanda, Yolanda, alright,
 Yolanda, Yolanda, Yolanda, you look so fine.
 Yolanda, Yolanda, Yolanda, alright.
 Yolanda, Yolanda, Yolanda, you look so fine.
-Oh yeah, yeah ooh ee Yolanda, oh yeah, yeah you look so fine
-Oh yeah, yeah ooh ee Yolanda, oh yeah, yeah you look so fine
-Oh yeah, yeah ooh ee Yolanda, oh yeah, yeah you look so fine.
-Oh yeah, yeah ooh ee Yolanda, oh yeah, yeah you look so fine.
+Oh yeah, yeah ohee Yolanda, oh yeah, yeah you look so fine
+Oh yeah, yeah ohee Yolanda, oh yeah, yeah you look so fine
+Oh yeah, yeah ohee Yolanda, oh yeah, yeah you look so fine.
+Oh yeah, yeah ohee Yolanda, oh yeah, yeah you look so fine.
 Yolanda, Yolanda, alright,
 Yolanda, Yolanda, Yolanda, you look so fine.
 Yolanda, Yolanda, alright,
 Yolanda, Yolanda, Yolanda, you look so fine.
-Oh yeah, yeah ooh ee Yolanda, oh yeah, yeah you look so fine.
-Oh yeah, yeah ooh ee Yolanda, oh yeah, yeah you look so fine.
-Oh yeah, yeah ooh ee Yolanda, oh yeah, yeah you look so fine.
-Oh yeah, yeah ooh ee Yolanda, oh yeah, yeah you look so fine.
-Oh yeah, yeah ooh ee Yolanda, oh yeah, yeah you look so fin
+Oh yeah, yeah ohee Yolanda, oh yeah, yeah you look so fine.
+Oh yeah, yeah ohee Yolanda, oh yeah, yeah you look so fine.
+Oh yeah, yeah ohee Yolanda, oh yeah, yeah you look so fine.
+Oh yeah, yeah ohee Yolanda, oh yeah, yeah you look so fine.
+Oh yeah, yeah ohee Yolanda, oh yeah, yeah you look so fin

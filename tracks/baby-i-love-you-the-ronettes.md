@@ -57,7 +57,7 @@ When you kiss me I've just got to say
 (Baby I love you)
 Come on baby
 (Baby I love you)
-Ooh-ee baby
+Ohee baby
 Baby I love only you
 
 Whoa-oh, whoa-oh oh oh
@@ -75,7 +75,7 @@ Oh tell me that you feel the same
 (Baby I love you)
 Come on baby
 (Baby I love you)
-Ooh-ee baby
+Ohee baby
 Baby I love only you
 
 Whoa-oh, whoa-oh oh oh

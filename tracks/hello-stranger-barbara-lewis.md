@@ -67,35 +67,35 @@ rankings:
 (Shoo-Bop Shoo-Bop, my baby)
 (Shoo-Bop Shoo-Bop)
 Hello stranger
-(Ooh) It seems so good to see you back again
+(Oh) It seems so good to see you back again
 How long has it been?
-(Ooh it seems like a mighty long time)
+(Oh it seems like a mighty long time)
 (Shoo-Bop Shoo-Bop, my baby)
-(Ooh) It seems like a mighty long time
+(Oh) It seems like a mighty long time
 
 Ohh, I'm I'm I'm I'm I'm so glad
-(Ooh) You stopped by to say hello to me
+(Oh) You stopped by to say hello to me
 Remember that's the way it used to be
-Ooh, it seems like a mighty long time
+Oh, it seems like a mighty long time
 Shoo-Bop Shoo-Bop, my baby
-Ooh, it seems like a mighty long time
+Oh, it seems like a mighty long time
 
 (Shoo-Bop Shoo-Bop, my baby)
 (Shoo-Bop Shoo-Bop, my baby) Ohh..
 (Shoo-Bop Shoo-Bop, my baby)
-(Shoo-Bop Shoo-Bop, my baby) Ahh yes I'm so glad
+(Shoo-Bop Shoo-Bop, my baby) Ah yes I'm so glad
 (Shoo-Bop Shoo-Bop, my baby)
 (Shoo-Bop Shoo-Bop, my baby) You're here again
 (Shoo-Bop Shoo-Bop, my baby)
 
 Ohh, If you're not gonna stay
-(Ooh) Please don't tease me
+(Oh) Please don't tease me
 Like you did before
 Because I still love you so
-(Ooh) Although
+(Oh) Although
 It seems like a mightly long time
 (Shoo-Bop Shoo-Bop, my baby)
-(ooh) It seems like a mighty long time
+(oh It seems like a mighty long time
 
 (Shoo-Bop Shoo-Bop, my baby) Ohh
 (Shoo-Bop Shoo-Bop, my baby) Ohh my my my my

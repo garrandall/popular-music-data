@@ -86,7 +86,3 @@ Like something more than in my mind
 I see it
 Could be amazing
 
-
-
-
-

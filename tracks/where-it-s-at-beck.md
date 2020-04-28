@@ -126,7 +126,7 @@ I got two turntables and a microphone
 ("What about those who swing both ways? AC-DC's?")
 (Let's make it out baby)
 
-Mmmmmmm
+Mmm
 Cheese
 
 Two turntables and a microphone
@@ -143,7 +143,7 @@ I got two turntables and a microphone
 Where it's at!
 I got two turntables and a microphone
 
-Make yourself 
+Make yourself
 (That's beautiful, dad)
 Got my microphone
 

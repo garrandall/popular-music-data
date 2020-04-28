@@ -1,6 +1,6 @@
 ---
 artists:
-- Missy "Misdemeanor" Elliott
+- Missy Elliott
 features:
 - Ludacris
 genres: []
@@ -116,14 +116,14 @@ From the VA to the LA coast
 Iffy kiffy izzy oh
 
 
-Millze cillzan sillzome plilzay dilzzouble dilzutch! 
-Hilzzoo? 
-My gizzirl! 
-Brillzing her izzin! 
-Izzo kizzay! 
-Izzall rizzight... 
-Izzo kizzay! 
-Izzall rizzight! Nizzow wizzee wilzzo-izzo-zee! 
+Millze cillzan sillzome plilzay dilzzouble dilzutch!
+Hilzzoo?
+My gizzirl!
+Brillzing her izzin!
+Izzo kizzay!
+Izzall rizzight...
+Izzo kizzay!
+Izzall rizzight! Nizzow wizzee wilzzo-izzo-zee!
 
 
 When I pull up in my whip
@@ -188,9 +188,6 @@ Hard to the core
 Core to the rotten
 Drop down turn around pick a bail of cotton (ya)
 
-
-
-
 Yo, straight up Missy killed that shit tonight for real
 I know I know, I don't even care about her being preganant by Michael Jackson
 You know what we should do
@@ -203,7 +200,7 @@ Hi Missy?
 What's up fools?
 You think I aint knowin yall broke Milli Vanilli
 J.J. Fad wannabes aint over here gossiping bout me?
-Yo how bout you buff these Pumas for 20 cents so your lights wont get cut off
+Yo how bout you buff these Pumas for 20 cents so your lights won't get cut off
 You soggy breasts, cow stomachs
 Yo take those baby GAP shirts off, too
 You just mad cuz Payless ran out of plastic pumps for the after party

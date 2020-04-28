@@ -100,9 +100,6 @@ We'd hop on our bikes and just ride away
 Knew you'd be mine some how, some day
 And I'ma say I do
 
-
-
-
 Three, bottles of Moe', doe, models fa sho'
 We havin a good time avoidin one time
 Layin in the sunshine its all gravy!
@@ -120,9 +117,6 @@ Gimme the cup sit down and shut up!
 I be damned we done run outta Mo' again
 Here we, here we go again!
 
-
-
-
 I gotta Chevrolet, white walls and them
 Twenty inch thangs in the coupe with Snoop
 Gettin juiced orange juice top down
@@ -134,9 +128,6 @@ A little bit of music and a couple of babes
 A little bit of drank and a game of spades
 Take your kids to your mama's house
 Sure know what I'm talkin bout, it's about to go down!
-
-
-
 
 Aight aight, I admit I'm type picky
 Take trips to Cali, strictly for the sticky

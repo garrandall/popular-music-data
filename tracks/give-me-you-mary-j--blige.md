@@ -79,7 +79,7 @@ Give me you, give me you
 That's enough for me baby
 
 
-Hmmm
+Hm
 I don't need things that money buys
 All I need is there in your eyes
 I just need your heart next to mine
@@ -90,7 +90,7 @@ You don't have to bring the moon to me
 Just bring me the love
 The love that I need
 And that's enough
-Ooh baby that's enough
+Oh baby that's enough
 
 
 (Give me you)

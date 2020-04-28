@@ -97,8 +97,8 @@ We've got to get hi, hi, hi
 In the midday sun
 
 
-Ooh, baby
-Ooh, ooh, ooh, ooh, ooh, ooh
+Oh, baby
+Oh, oh, oh, oh, oh, oh
 Oh
 Hi, hi, hi
 Hi, hi, hi

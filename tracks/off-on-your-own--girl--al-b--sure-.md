@@ -84,7 +84,7 @@ I'm all alone
 Sitting right here
 By the phone
 My heart is broken now
-Believe me, girl, ooh
+Believe me, girl, oh
 
 Wait, wait, you'll see
 You'll get used to me
@@ -95,10 +95,7 @@ I'm all alone
 Sitting right here
 By the phone
 My heart is broken now
-Believe me, girl, ooh
-
-
-
+Believe me, girl, oh
 
 I wanna know
 What's on your mind
@@ -111,7 +108,7 @@ I'm all alone
 Sitting right here
 By the phone
 My heart is broken now
-Believe me, girl, ooh
+Believe me, girl, oh
 Please come home
 
 Is there something
@@ -125,9 +122,6 @@ Or maybe, baby, you just
 Look too good for me
 Don't sweat yourself
 On the strength!
-
-
-
 
 You make me so mad
 That you want to be on your own

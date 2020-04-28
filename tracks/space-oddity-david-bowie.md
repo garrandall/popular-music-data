@@ -76,9 +76,6 @@ Take your protein pills and put your helmet on
 (Four, three, two)
 Check ignition (One) and may God's love (Lift off) be with you
 
-
-
-
 This is Ground Control to Major Tom
 You've really made the grade
 And the papers want to know whose shirt you wear

@@ -76,10 +76,10 @@ I see ya, I see you
 To my surprise I saw you in my eyes
 The nights I cried, repented of the lies
 To my, na-na-na-na-na-na-na-na-na-na-na
-To my, na-na-na-na-na-na-na-na-na-na-na (ooh)
-Na-na-na-na-na-na-na-na-na-na-na-na (ooh)
+To my, na-na-na-na-na-na-na-na-na-na-na (oh)
+Na-na-na-na-na-na-na-na-na-na-na-na (oh)
 Na-na-na-na-na-na-na-na-na-na-na
-Ooh, burn, baby (na-na-na-na-na-na-na-na)
+Oh, burn, baby (na-na-na-na-na-na-na-na)
 
 
 

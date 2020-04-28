@@ -135,9 +135,6 @@ Nothin' but country
 (Sexy swing and walk)
 (Aw, show 'em how a country girl does it one time now)
 
-
-
-
 Brother, she's country
 From her cowboy boots to her down home roots
 Nothin' but country

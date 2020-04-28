@@ -34,10 +34,10 @@ When you really love someone
 Giving up... so hard to do
 When you still depend upon
 Her warm and tender touch
-Her kiss and her hug.....her caress
-Oooooh that used to mean so much
+Her kiss and her hug...her caress
+Oh that used to mean so much
 And bring you happiness
-Woooo ooooooooh
+Woooo oh
 
 Giving up, so hard to do
 I've tried

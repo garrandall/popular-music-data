@@ -49,7 +49,3 @@ Shoot for the top, you gotta deal with fate
 And I know that you'll understand
 You got the power, baby, in your hands, yeah
 
-
-
-
-

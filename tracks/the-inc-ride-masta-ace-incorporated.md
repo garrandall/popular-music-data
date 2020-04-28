@@ -82,8 +82,8 @@ It's the ride y'lla, it's the I.N.C. Ride
 R to the I, D to the E, check out how we the I.N.C.
 Get more Biz than Markie as I spark thee
 Mike like lightnin, that's frightenin, I'm hypin
-Niggaz up, cuz they don't know the score
-Ooooh here comes the roar, knock on your door
+Niggas up, cuz they don't know the score
+Oh here comes the roar, knock on your door
 I wonder who it is and who could it be
 Ain't nobody but the I.N.C.
 Wit mo' Soul than the Train I'm a reign
@@ -97,7 +97,7 @@ Cause we cruise in the I.N.C. Ride
 
 
 
-(Incorpate the I-N-C into a flow) 
+(Incorpate the I-N-C into a flow)
 From the East side, to the West side
 From the North side, to the South side
 From the East side, to the West side
@@ -115,14 +115,14 @@ As we flex and get fly, you cry
 The roof is on fire but my name ain't Left Eye
 Punks be all up on it like a Charlotte Hornet
 But they full of Chicago Bull-shit cuz they don't want it
-Ooooh, don't let me sing, I'm peaking
+Oh, don't let me sing, I'm peaking
 I'm freakin, get in that ass like a G-String
 And that you don't need
 We'll be blowin up like that movie Speed indeed you're on a ride
 
 
 
-(Incorpate the I-N-C into a flow) 
+(Incorpate the I-N-C into a flow)
 From the East side, to the West side
 From the North side, to the South side
 From the East side, to the West side

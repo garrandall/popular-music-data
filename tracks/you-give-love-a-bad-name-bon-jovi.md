@@ -143,9 +143,6 @@ I play my part and you play your game
 You give love a bad name (Bad name)
 You give love a...
 
-
-
-
 Oh, shot through the heart and you're to blame
 You give love a bad name
 I play my part and you play your game

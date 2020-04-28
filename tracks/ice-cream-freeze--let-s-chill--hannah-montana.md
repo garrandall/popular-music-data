@@ -15,7 +15,7 @@ rankings:
 
 Alright!
 Here we go!
-Follow me now!!
+Follow me now!
 Come on! Hit it!
 
 Everybody do your dance

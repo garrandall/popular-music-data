@@ -81,7 +81,7 @@ rankings:
   start_date: '1996-03-02'
 ---
 (yeah)
-Mmmmm (come on)
+Mmm (come on)
 Uh huh
 Yeah (yeah)
 I got hooked on you
@@ -119,7 +119,7 @@ Living with out you
 Got me hooked on (I'm hooked (uh) on your love(yeah))
 
 Everything you do (you got me hooked baby) (yeah'babe)
-No living with out you (oooo)
+No living with out you (oo)
 
 Got me hooked on (hooked)
 Everything you do (uh uh uh uh)

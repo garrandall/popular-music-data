@@ -126,7 +126,7 @@ Cause any DJ that deny is a mother fu errrwwwee lie
 So give the ladies what that want
 Got 'em racin' to the front of the stage
 to feel the bass and tell the DJ turn it up (Turn it Up)
-Yeaah Sound of Revenge saying Universal to go get my plaque
+Yeah Sound of Revenge saying Universal to go get my plaque
 Rappin's dead so I'ma bring it back, like DJ's do when they hear my track
 Check out my track record, they'll say I'ma track wrecka
 Hotter than a black pepper now that I am back nigggga (He's Baaack)
@@ -158,7 +158,7 @@ Hipnotic, Big Bodies with Blue paint
 We got that oomp spray, but it still stank
 You a lame so yo dame playin mind games
 Ima pimp so I stay in that mindframe
-Niggaz talk shit untill I let that nine bang
+Niggas talk shit untill I let that nine bang
 Me and Duke in that maybach switchin lanes
 
 

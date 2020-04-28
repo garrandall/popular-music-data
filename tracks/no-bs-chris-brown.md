@@ -154,4 +154,4 @@ Don't you be on that BS, yeah, yeah
 Don't you be on that BS, yeah, yeah
 Hey, hey
 When you leavin' the club, I just want u to come over girl
-Oooh na na naaa, naaaohhh
+Oh na na naaa, naaaohhh

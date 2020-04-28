@@ -71,7 +71,7 @@ I was hoping for a replacement when the sun burst through the skies
 There was a band playing in my head and I felt like getting high
 I was thinking about what a friend had said I was hoping it was a lie
 Thinking about what a friend had said I was hoping it was a lie
-Well I dreamed i saw the silver spaceships flying in the yellow haze of
+Well I dreamed I saw the silver spaceships flying in the yellow haze of
 The sun
 There were children crying and colors flying all around the chosen one
 All in a dream, all in a dream the loading had begun

@@ -103,7 +103,7 @@ Forgive me, baby
 All, all I need
 To have you touch my hand
 Say you'll understand
-Ooh
+Oh
 
 Forgive this fool, my darlin'
 

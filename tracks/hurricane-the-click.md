@@ -108,9 +108,6 @@ But if I get broken off a deal, I can't go wrong
 This trick juice will have a fool on his face
 Worse than that bumpy face gin with no fuckin' chase
 
-
-
-
 Light up the muthafuckin' indo weed
 Me and my niggas at the bar keyed
 Walkin' threw the joint on stumble

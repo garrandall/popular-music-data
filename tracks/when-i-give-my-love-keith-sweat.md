@@ -78,18 +78,18 @@ Are you ready for this, baby
 Come on, baby
 
 
-When I give my love to you (Come on, baby), baby (Ooh, ooh, baby)
+When I give my love to you (Come on, baby), baby (Oh, oh, baby)
 I'll show you what love can do (Baby, I won't never, never, never, never do you wrong)
-When I give my love to you (When I give my love to you, girl), baby (Ooh, ooh)
+When I give my love to you (When I give my love to you, girl), baby (Oh, oh)
 I'll show you (I'll show you) what love can do (I'll show you, baby, yes, I will)
 When I give my love to you (I'm gonna lay you down tonight)
 (I'm gonna make you feel like nobody else could, baby)
 I'll show you what love can do (Come on, baby, let's change positions, baby, whoa, baby)
 When I give my love to you (Baby, a-a-all day till the break of dawn)
-I'll show you (Ooh, baby) what love can do (All I wanna do is come in and out)
+I'll show you (Oh, baby) what love can do (All I wanna do is come in and out)
 When I give my love to you (Out and in, ha-ha, in and out, I'm givin' my love to you)
 When I give my love to you (You won't want nobody else)
-When I give my love to you (Yeah, baby, ooh'I'll give you my love to you)
-When I give my love to you (Baby, baby, ooh, ooh, hoo')
+When I give my love to you (Yeah, baby, oh'I'll give you my love to you)
+When I give my love to you (Baby, baby, oh, oh, hoo')
 When I give my love to you (I'm givin' my love)
 When I give my love to you (I'm givin' my love)

@@ -163,7 +163,7 @@ Do you remember the time?
 
 
 (Remember the time)
-Ooh!
+Oh!
 (Remember the time)
 Do you remember, girl?
 (Remember the time)
@@ -183,7 +183,7 @@ What about, what about
 Grrrrrat, tat tat, tat
 Grrrrrat, tat tat
 (Remember the time)
-Ooh! In the park
+Oh! In the park
 (Remember the time)
 After dark, do you, do you, do you?
 (Remember the time)

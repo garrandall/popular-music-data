@@ -1,6 +1,6 @@
 ---
 artists:
-- Yipes!!
+- Yipes!
 features: []
 genres: []
 key: darlin--yipes--

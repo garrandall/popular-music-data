@@ -120,7 +120,7 @@ Love isn't always on time
 Whoa oh oh
 
 It's not in the words that you told me
-It's not in the way you say you're mine, oooh
+It's not in the way you say you're mine, oh
 It's not in the way that you came back to me
 It's not in the way that your love set me free
 It's not in the way you look or the things that you say that you do

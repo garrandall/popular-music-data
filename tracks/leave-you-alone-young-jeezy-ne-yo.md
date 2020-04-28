@@ -91,7 +91,7 @@ rankings:
 ---
 She said, she said, you ain't no good, no good
 But if you feel so good
-She said, she said, what if i could?
+She said, she said, what if I could?
 But I gotta leave you alone, ah
 She said I gotta leave you alone
 I, she said, I know you bad
@@ -111,7 +111,7 @@ Keep your stomach in your thighs and your legs right
 While I'm out here focus getting this bread right
 But if the head right, Jeezy there e'ry night
 Wake up in the morning and you're still here
-Wake up in the morning and i ain't gone
+Wake up in the morning and I ain't gone
 All I ask, let me just do me
 And maybe just me and you can get along
 Had them other bitches mad when they seen us
@@ -121,7 +121,7 @@ Maybe even go half on a baby girl
 
 She said, she said, you ain't no good, no good
 But if you feel so good
-She said, she said, what if i could?
+She said, she said, what if I could?
 But I gotta leave you alone, ah
 She said I gotta leave you alone
 I, she said, I know you bad
@@ -150,7 +150,7 @@ Cause what you didn't think about it that probably grown.
 
 She said, she said, you ain't no good, no good
 But if you feel so good
-She said, she said, what if i could?
+She said, she said, what if I could?
 But I gotta leave you alone, ah
 She said I gotta leave you alone
 I, she said, I know you bad

@@ -48,7 +48,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
 ---
-Ooh, baby
+Oh baby
 Baby, please come back home
 Darling, please come back home
 Cause I can't stand it
@@ -76,14 +76,14 @@ Once was blind but now I see
 Girl, how much you mean to me
 I'm so sorry bout that
 
-Ooh, please, come back home
+Oh please, come back home
 Girl, I'll never treat you wrong
 Baby, please, oh, please
 Come back home
 Girl, I'm about to go insane
-Anytime I hear your name, ooh, baby
+Anytime I hear your name, oh baby
 
-(Mmm, baby, come back) ooh, babe
+(Mmm, baby, come back) oh babe
 (Mmm, baby, come back)
 Darling, please, come back home
 (Mmm, baby, come back)
@@ -100,7 +100,7 @@ Salty tears in my eyes
 Oh, can't you see I apologize
 (Apologize, apologize)
 Those heartaches still made you go
-Ooh, baby, I'll make them leave forever more
+Oh baby, I'll make them leave forever more
 I said I was so sorry, baby
 
 Another day has passed and gone

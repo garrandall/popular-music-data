@@ -70,7 +70,7 @@ It's a kind of magic
 
 The waiting seems eternity
 The day will dawn of sanity
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 
 
 Is this a kind of magic?

@@ -72,7 +72,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-01-18'
 ---
-Verse 1
 But I'm sayin kid
 It's only right to represent where I'm from
 East Coast bottom line, But I represent
@@ -88,7 +87,6 @@ Niggas known me from day one
 Lifestyles of the rich and shameless
 Violating, they were end up nameless
 
-Verse 2
 Yo ref, ring the alarm
 I know Spigg's got my back
 Freaky Tah spark the charm
@@ -109,8 +107,6 @@ How do it feel with real niggas in your ass
 Mr. Mr. Cheeks, Freaky Freaky Tah
 Pretty Pretty Lou, Spiggy Spigg Nice, say
 
-Chorus-
-
 1 for the money
 2 for the Lie
 3 for my peoples in the struggle gettin by
@@ -121,8 +117,6 @@ Music makes me high
 3 for my peoples in the struggle gettin by
 4 my Fam Lou, Spigg Nice, and Freaky Tah
 Music makes me high
-
-Verse 3
 
 Mr. Sexxx, hit me off
 With this drug called a track
@@ -147,10 +141,6 @@ Real niggas get rich and Bitch niggas scram
 Till the day that I die it's L.B
 From the year 95 and true 'G's
 
-Chorus (2x)
-
-Verse 4
-
 To all of my, all my niggas doin Bids
 To all of my shorties on their own raisin Kids
 To all of my peoples who can't see
@@ -174,10 +164,6 @@ Style flows on thru four families
 I'm gonna stay free till the day that I die
 Go with Pretty Lou, Spigg Nice, and Freaky Tah (word up)
 
-Chorus(2x)
-
-Verse 5 (Over Female vocals)
-
 Hey Yo, gettin high
 New York is high
 East Coast you get high
@@ -187,7 +173,6 @@ Charles Suitt, he be high
 To my man Big Tiz he be high
 Niggas on the lockdown be high
 
-(Freaky Tai)
 With niggas like this
 Sweatin up in the studio
 So High, Mr. Mr. Cheeks is high

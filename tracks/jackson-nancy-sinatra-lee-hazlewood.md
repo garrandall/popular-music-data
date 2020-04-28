@@ -55,7 +55,7 @@ Yeah, I'm goin' to Jackson
 Look out Jackson town
 
 Well, go on down to Jackson
-Go ahead and wreck your health (hmm)
+Go ahead and wreck your health (hm)
 Go play your hand, you big-talkin' man
 Make a big fool of yourself
 Yeah, yeah, go to Jackson

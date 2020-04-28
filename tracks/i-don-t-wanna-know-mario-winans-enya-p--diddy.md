@@ -158,7 +158,7 @@ Did he watch you fall asleep?
 Did you show him all those things
 That you used to do to me?
 If you're better off that way
-Baby all that i can say
+Baby all that I can say
 Go on and do your thing
 And don't come back to me
 (Stay away from me, baby)

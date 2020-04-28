@@ -33,9 +33,6 @@ I've been waiting for someone like you
 Like you, like you, like you, like you, yeah
 You make me
 
-
-
-
 We are one, one for sure
 All united
 You'll want some more

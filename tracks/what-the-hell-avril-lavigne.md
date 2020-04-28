@@ -102,7 +102,7 @@ You're on your knees, beggin' please "stay with me"
 But honestly, I just need to be a little crazy
 
 All my life I've been good but now
-Ooohhh
+Oh
 I'm thinking "What the hell?"
 All I want is to mess around, and I don't really care about
 If you love me, if you hate me
@@ -124,7 +124,7 @@ You're on your knees, beggin' please "stay with me" (Va fan!)
 But honestly, I just need to be a little crazy (Crazy!)
 
 All my life I've been good but now
-Ooohhh
+Oh
 I'm thinking "What the hell?"
 All I want is to mess around, and I don't really care about
 If you love me, if you hate me
@@ -142,11 +142,11 @@ Yeah, I am messing with your head
 When I'm messing with you in bed
 
 All my life I've been good but now
-Ooohhh
+Oh
 I'm thinking "What the hell?"
 All I want is to mess around, and I don't really care about
 All my life I've been good but now
-Ooohhh
+Oh
 I'm thinking "What the hell?"
 All I want is to mess around, and I don't really care about
 If you love me, if you hate me

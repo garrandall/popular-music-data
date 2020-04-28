@@ -107,9 +107,6 @@ Forget my people or my town or my ways
 (That's word, we pray)
 And on my knees every night I'm still gone pray
 
-
-
-
 Time and time and time and time and time again
 (That's word, we pray)
 I kept on knocking, but these people wouldn't let me in
@@ -117,9 +114,6 @@ I kept on knocking, but these people wouldn't let me in
 I tried and tried and tried and tried to make a way
 (That's word, we pray)
 But nothing happened 'til that day I prayed
-
-
-
 
 Children dying, oh so fast from this and that
 (That's word, we pray)
@@ -137,10 +131,7 @@ Oh yeah we pray (Pray)
 We need to pray just to make it today
 That's word, we pray
 
-That's word, we pray (3x)
-
-
-
+That's word, we pray
 
 On a mission start to doubt, here we go
 (That's word, we pray)
@@ -149,9 +140,6 @@ Kicking back, read these words we need to know
 Living high, living good, living long
 (That's word, we pray)
 Take a minute, bust a prayer and you good to go
-
-
-
 
 We're sending this one out to the Lord
 And we thank you and we know we need to pray
@@ -162,4 +150,4 @@ With all our love
 We outta here
 That's word, we pray
 
-That's word, we pray (pray, pray) (4x)
+That's word, we pray (pray, pray)

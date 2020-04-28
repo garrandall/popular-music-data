@@ -12,8 +12,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-04-14'
 ---
-Oooh Oooh Oooh
-Oooh Oooh Oooh Oooh
+Oh Oh Oh
+Oh Oh Oh Oh
 
 
 Girl I got you so high, and I know you like
@@ -97,11 +97,11 @@ I want you to come for the ride
 Let's win it out, win it out
 Win it out, win it out...
 
-Oooh Oooh Oooh
+Oh Oh Oh
 
 She don't mind girl!
 
-Oooh Oooh Oooh Oooh
+Oh Oh Oh Oh
 
 Come on!
 

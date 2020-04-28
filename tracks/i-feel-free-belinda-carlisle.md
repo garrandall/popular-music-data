@@ -44,9 +44,9 @@ I can drive down the road but my eyes don't see
 Thought my mind wants to cry out loud
 Yea my mind wants to cry out loud
 
-Ahh
-Ahh
-Ahh
+Ah
+Ah
+Ah
 
 I feel free
 I feel free

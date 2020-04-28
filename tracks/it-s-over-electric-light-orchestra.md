@@ -70,9 +70,6 @@ Feeling down, down
 It's over
 Feeling down, down, down
 
-
-
-
 Ah, it's over, it's over, it's over
 It's all over and what can I do?
 Ah, it's over, it's over

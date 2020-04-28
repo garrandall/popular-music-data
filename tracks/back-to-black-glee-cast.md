@@ -41,12 +41,8 @@ And I'm a tiny penny rolling up the walls inside
 
 
 
-Black, black, black, black, 
+Black, black, black, black,
 black, black, black,
 I go back to
 I go back to
-
-
-
-
 

@@ -50,7 +50,7 @@ On my P's and Q's
 I don't want to miss something
 Nice that I can do for you
 I know you love me
-The way I, ohh
+The way I, oh
 But something inside of me
 Keeps saying do more
 Do more, do more if you can
@@ -70,7 +70,7 @@ But I believe I can squeeze
 A little bit more love
 Out of this old heart
 I know you love me
-The way I, ohh
+The way I, oh
 But something inside of me
 Keeps saying do more
 Do more, do more if you can

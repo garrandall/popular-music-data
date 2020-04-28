@@ -61,7 +61,7 @@ With this hollow chord
 
 Make it like it was
 The way it used to be
-When i hungered for your love
+When I hungered for your love
 Constantly
 Make it like it was
 It was easier for me
@@ -76,7 +76,7 @@ Whats really happening
 
 Make it like it was
 The way it used to be
-When i hungered for your love
+When I hungered for your love
 Constantly
 Make it like it was
 It was easier for me
@@ -90,7 +90,7 @@ Makes me ask that you make it like it was
 
 Make it like it was
 The way it used to be
-When i hungered for your love
+When I hungered for your love
 Constantly
 Make it like it was
 It was easier for me

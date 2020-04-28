@@ -82,8 +82,8 @@ And he sings (doo-doo-da-da-da-da-da)
 
 He is a hully-gully-bouncin-baby-boy
 You know the record player is his favorite toy
-And dont forget hes eveybodys pride and joy
-When he goes (ooo-ah-ge-he)
+And don't forget hes eveybodys pride and joy
+When he goes (oo-ah-ge-he)
 
 (Yo-a-ah-ah)
 
@@ -102,5 +102,5 @@ With a low down voice (dug-a-dug-a)
 And when its time to tuck him in his little bed
 With all that music runnin through his sleepy head
 The little fella doesnt say goodnight
-Instead, but he says (boog-ooo, boog-ooo, boog-ooo
+Instead, but he says (boog-oo, boog-oo, boog-oo
 Aaaaaaaaaaallllllllllll gone!)

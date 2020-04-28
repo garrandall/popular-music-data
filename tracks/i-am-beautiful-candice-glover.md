@@ -38,15 +38,9 @@ And you always say the right thing to make hurt
 But I don’t hear you
 ‘Cause I’m listening to his words
 
-
-
-
 And I deserve better things
 He says he understands
 I got to do what's right for me
-
-
-
 
 He says
 He says

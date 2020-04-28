@@ -97,9 +97,6 @@ You - I would die for you, yeah
 Darling, if you want me to
 You - I would die for you, woo!
 
-
-
-
 You're just a sinner, I am told
 Be your fire when you're cold
 Make you happy when you're sad

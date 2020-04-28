@@ -51,7 +51,7 @@ rankings:
 ---
 
 
-Oooh, yeah
+Oh, yeah
 
 It was right
 Even though it felt wrong
@@ -106,9 +106,9 @@ Tonight, yeah, yeah
 
 I'll be selfish
 Let's be selfish
-Ohh, ohh
+Ohh, oh
 (Yeah, yeah)
-Ooooh, oooo-oooo-oooh
+Oh, oo-oo-oh
 I'll be selfish
 Let's be selfish
 Let's be

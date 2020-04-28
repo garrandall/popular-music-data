@@ -72,7 +72,7 @@ Playing around
 
 
 You call my name
-Ooh so sweet
+Oh so sweet
 To make your kiss incomplete
 When your mood is clear
 You quickly change your ways
@@ -95,7 +95,7 @@ It's time to go
 First the feeling's alright
 Then it's gone from sight
 So I'm taking out this time to say
-Ooh oh
+Oh oh
 
 
 And if you really love me won't you tell me
@@ -111,6 +111,6 @@ Hey yeah
 Goofing around no
 Oh baby
 Playing around no
-Let me know how you feel baby (ooooh ooh)
+Let me know how you feel baby (oh oh)
 Hey oh baby
 Playing around no (oh oh)

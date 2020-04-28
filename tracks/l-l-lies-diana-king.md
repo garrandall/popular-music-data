@@ -89,7 +89,7 @@ Tell her everything dat she waah fe fear
 Why you play those games,
 those g-g-g-games with me
 
-Oh, oh, oh, oh no, no, no, no, no, no......
+Oh, oh, oh, oh no, no, no, no, no, no...
 Oh why oh why oh why You tell me
 l-l-l-lies Never t-t-t-t-t-think
 That I woulda re-a-li-a-li-a-lize
@@ -110,7 +110,7 @@ Your day is done so u better move on
 Why you play those games
 Those g-g-g-games with me
 
-Oh, oh, oh, oh, no. No. No. No, no, no....
+Oh, oh, oh, oh, no. No. No. No, no, no...
 Oh why oh why oh why
 You tell me l-l-l-lies
 Never t-t-t-t-t-think

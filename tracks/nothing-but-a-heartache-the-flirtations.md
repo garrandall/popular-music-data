@@ -110,11 +110,11 @@ Nothing but a heartache every day yeah
 (Nothing but a heartache)
 Nothing but a teardrop all of the way
 (Nothing but a teardrop)
-Heartache, ooh, I get 'em every, every day
+Heartache, oh, I get 'em every, every day
 (Nothing but a heartache)
 
 Tears pouring all down my face
 (Nothing but a teardrop)
-Ooh, the man has got me, so uptight
+Oh, the man has got me, so uptight
 (Nothing but a teardrop)
 Nothin' I do, seem to

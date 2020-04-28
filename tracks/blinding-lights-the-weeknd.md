@@ -83,9 +83,9 @@ Sin City's cold and empty (Oh)
 No one's around to judge me (Oh)
 I can't see clearly when you're gone
 
-I said, ooh, I'm blinded by the lights
+I said, oh I'm blinded by the lights
 No, I can't sleep until I feel your touch
-I said, ooh, I'm drowning in the night
+I said, oh I'm drowning in the night
 Oh, when I'm like this, you're the one I trust
 Hey, hey, hey
 
@@ -97,21 +97,21 @@ The city's cold and empty (Oh)
 No one's around to judge me (Oh)
 I can't see clearly when you're gone
 
-I said, ooh, I'm blinded by the lights
+I said, oh I'm blinded by the lights
 No, I can't sleep until I feel your touch
-I said, ooh, I'm drowning in the night
+I said, oh I'm drowning in the night
 Oh, when I'm like this, you're the one I trust
 
 I'm just walking by to let you know (By to let you know)
 I can never say it on the phone (Say it on the phone)
-Will never let you go this time (Ooh)
+Will never let you go this time (Oh)
 
-I said, ooh, I'm blinded by the lights
+I said, oh I'm blinded by the lights
 No, I can't sleep until I feel your touch
 Hey, hey, hey
 Hey, hey, hey
 
-I said, ooh, I'm blinded by the lights
+I said, oh I'm blinded by the lights
 No, I can't sleep until I feel your touch
 
 

@@ -156,9 +156,6 @@ Let me feel how strong it could be
 
 Oh
 
-
-
-
 Bring me a higher love
 Bring me a higher love, oh
 Bring me a higher love

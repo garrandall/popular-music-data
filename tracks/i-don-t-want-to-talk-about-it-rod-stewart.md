@@ -74,7 +74,7 @@ I don't want to talk about it
 How you broke my heart
 If I stay here just a little bit longer
 If I stay here, won't you listen to
-...Oooh  ....heart
+...Oh  ...heart
 
 
 

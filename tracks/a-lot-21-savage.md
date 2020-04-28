@@ -183,9 +183,9 @@ Question
 How many faking they streams? (A lot)
 Getting they plays from machines? (A lot)
 I can see behind the smoke and mirrors
-Niggas ain't really big as they seem (Hmm)
+Niggas ain't really big as they seem (Hm)
 I never say anything (Nah), everybody got they thing (True)
-Some niggas make millions, other niggas make memes (Hmm)
+Some niggas make millions, other niggas make memes (Hm)
 I'm on a money routine
 I don't want smoke, I want cream
 I don't want no more comparisons

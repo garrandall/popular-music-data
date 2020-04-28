@@ -113,7 +113,7 @@ She got it (She got it)
 She got it (She got it)
 
 She got (She got it)
-Oooh! (She got it)
+Oh! (She got it)
 She got it (She got it)
 Whoa-oh (She got it)
 
@@ -153,26 +153,26 @@ She got it (She got it)
 She got it (She got it)
 She got it (She got it)
 She got (She got it)
-Oooh! (She got it)
+Oh! (She got it)
 She got it (She got it)
 Whoa-oh (She got it)
 Shawty
 She got it
 
-Oooh (Hey!)
-Oooh (Hey!)
+Oh (Hey!)
+Oh (Hey!)
 She got it (She got it)
 She got it, she got it
-Oooh (Hey!)
-Oooh (Hey!)
+Oh (Hey!)
+Oh (Hey!)
 She got it (She got it)
 She got it, she got it
-Shawty know she's got it (Oooh, yeah)
-Got it, got it, got it (Oooh, yeah)
+Shawty know she's got it (Oh, yeah)
+Got it, got it, got it (Oh, yeah)
 She got it (She got it)
 She got it, she got it
-Shawty know she's got it (Oooh, yeah)
-Got it, got it, got it (Oooh, yeah)
+Shawty know she's got it (Oh, yeah)
+Got it, got it, got it (Oh, yeah)
 She got it (She got it)
 She got it
 
@@ -201,7 +201,7 @@ She got it (She got it)
 She got it (She got it)
 She got it (She got it)
 She got (She got it)
-Oooh! (She got it)
+Oh! (She got it)
 She got it (She got it)
 Whoa-oh (She got it)
 Shawty
@@ -226,7 +226,7 @@ She got it (She got it)
 She got it (She got it)
 She got it (She got it)
 She got (She got it)
-Oooh! (She got it)
+Oh! (She got it)
 She got it (She got it)
 Whoa-oh (She got it)
 Shawty

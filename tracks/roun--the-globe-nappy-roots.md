@@ -79,9 +79,6 @@ Top of the hill, take the breath from her lungs
 (Country boys been overseas)
 Toppin it off, London, Germany
 
-
-
-
 Now shake it, bounce, sit back and let ya hair blow
 Ladies make ya hands clap like bueno
 Now shake it, bounce, sit back and let ya hair blow

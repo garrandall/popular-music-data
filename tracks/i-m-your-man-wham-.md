@@ -106,7 +106,7 @@ Baby, I'm your man
 You bet!
 If you're gonna do it, do it right - right?
 Do it with me
-Come on baby, (ooh, take me home
+Come on baby, (oh take me home
 Please don't leave me here, to do it on my own...)
 
 First class information

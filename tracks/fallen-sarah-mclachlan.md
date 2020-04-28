@@ -128,9 +128,6 @@ So don't come 'round here
 And tell me "I told you so"
 Oh
 
-
-
-
 Heaven bend to take my hand
 I've nowhere left to turn
 I'm lost to those I thought were friends

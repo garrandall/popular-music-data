@@ -225,7 +225,7 @@ Just keep your eyes on me"
 I said, "You're holding back"
 She said, "Shut up and dance with me"
 This woman is my destiny
-She said, "Ooh hoo
+She said, "Ohhoo
 Shut up and dance with me"
 
 
@@ -246,7 +246,7 @@ Just keep your eyes on me"
 I said, "You're holding back"
 She said, "Shut up and dance with me"
 This woman is my destiny
-She said, "Ooh hoo
+She said, "Ohhoo
 Shut up and dance with me"
 
 
@@ -267,7 +267,7 @@ Just keep your eyes on me"
 I said, "You're holding back"
 She said, "Shut up and dance with me"
 This woman is my destiny
-She said "Ooh hoo
+She said "Ohhoo
 , shut up and dance with me"
 
 Oh, c'mon girl!
@@ -286,7 +286,7 @@ Just keep your eyes on me"
 I said, "You're holding back"
 She said, "Shut up and dance with me"
 This woman is my destiny
-She said, "Ooh hoo
+She said, "Ohhoo
 Shut up and dance"
 
 "Don't you dare look back
@@ -294,10 +294,10 @@ Just keep your eyes on me"
 I said, "You're holding back"
 She said, "Shut up and dance with me"
 This woman is my destiny
-She said, "Ooh hoo
+She said, "Ohhoo
 Shut up and dance with me"
 
-"Ooh hoo
+"Ohhoo
 Shut up and dance with me"
-"Ooh hoo
+"Ohhoo
 Shut up and dance with me"

@@ -100,7 +100,3 @@ So don't try to stop me now
 So listen to what I say
 'Cos these feelings are oh so strong
 
-
-
-
-

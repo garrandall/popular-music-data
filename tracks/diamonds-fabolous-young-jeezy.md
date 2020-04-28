@@ -20,7 +20,7 @@ Diamonds On My Damn Chain! It Ain't Hard To Tell!
 
 Diamonds In My Damn Chain!
 Diamonds In My Damn Chain!
-I'm like ooh daddy, I see you do the damn thang
+I'm like ohdaddy, I see you do the damn thang
 Got my vote, I'm feelin' your campaign
 I like you but, I really like your damn chain!
 Diamonds In My Damn Chain!
@@ -64,12 +64,9 @@ places in the projects to hide my weed stash
 Dominican chick, shit I got her from Fab
 yellow stones in my chain so I call it the cab
 
-
-
-
 Yo, maybe it's them VV's, 'cause they sets Susters'
 Sit on the next bus like that show on MTV
-The wings on the chain, make a n**** fly like the wings on a plane
+The wings on the chain, make a nigga fly like the wings on a plane
 When you're sitting in between 'em
 they hittin' when you clean 'em, glitenin' when you seen 'em
 Beemin' through the tints when I'm sitting in the "Phenom"
@@ -82,9 +79,6 @@ I'm out in DC, at the "White and Gold House" (White and Gold House)...
 Wanna convince me love? Secret Service me with some of that Lewinsky love
 She saw the chain, gave me brain, no strain ever since
 Now that's what the fuck I call a good "Chain of Events"! N****!
-
-
-
 
 Diamonds On My Damn Chain! It Ain't Hard To Tell!
 

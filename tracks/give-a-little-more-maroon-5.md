@@ -20,13 +20,13 @@ I'm all alone baby, I'm all alone
 
 I'm waiting for something, always waiting
 Feeling nothing, wondering if it'll ever change
-And then I give a little more, oh baby ohhh
+And then I give a little more, oh baby oh
 Give a little more, oh baby oh
 
 
 I'm not falling in love with ya, I'm not falling in love
 I'm not falling in love with ya, I'm not falling in love
-'Til I get a little more from you baby ohhh
+'Til I get a little more from you baby oh
 Get a little more from you baby
 
 
@@ -37,13 +37,13 @@ You make it so hard
 
 I'm waiting for something, always waiting
 Feeling nothing, wondering if it'll ever change
-And then I give a little more, oh baby ohhh
+And then I give a little more, oh baby oh
 Give a little more, oh baby oh
 
 
 I'm not falling in love with ya, I'm not falling in love
 I'm not falling in love with ya, I'm not falling in love
-'Til I get a little more from you baby ohhh
+'Til I get a little more from you baby oh
 Get a little more from you baby
 
 

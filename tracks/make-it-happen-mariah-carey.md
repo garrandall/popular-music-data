@@ -141,7 +141,3 @@ And don't let go
 You can make it
 Make it happen
 
-
-
-
-

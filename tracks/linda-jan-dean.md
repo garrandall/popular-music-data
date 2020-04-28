@@ -63,7 +63,7 @@ rankings:
 ---
 L-l, l-l-l, l-l-l-l-linda
 L-l, l-l-l, l-l-l-l-linda
-When i go to sleep
+When I go to sleep
 I never count sheep
 I count all the char-ar-ar-arms
 About l-l, l-l-l, l-l-l-l-linda
@@ -73,7 +73,7 @@ In all of my dreams
 (All of my dreams)
 I walk with my ar-ar-ar-arms about linda
 But what good does it do me
-'Cause linda doesn't know i exist
+'Cause linda doesn't know I exist
 I can't help feelin' gloomy
 Thinkin' 'bout the lovin' i've missed
 We pass on the street
@@ -86,7 +86,7 @@ If only she'd smile
 (Only she'd smile)
 I'd stop for a while
 (Stop for a while)
-And then i would ge-e-e-et to know linda
+And then I would ge-e-e-et to know linda
 
 But miracles still happen
 And when my lucky star begins to shine

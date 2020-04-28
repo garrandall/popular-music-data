@@ -45,7 +45,7 @@ Get in the car like, "Skrrt"
 Staying up all night, order me pad thai
 Then we gon' sleep 'til noon
 Me with no makeup, you in the bathtub
-Bubbles and bubbly, ooh
+Bubbles and bubbly, oh
 This is a pleasure, feel like we never act this regular
 
 
@@ -64,7 +64,7 @@ Imagine a world
 
 
 Knew you were perfect after the first kiss
-Took a deep breath like, "Ooh"
+Took a deep breath like, "Oh"
 Feels like forever, baby, I never thought that it would be you
 Tell me your secrets, all of the creep shit
 That's how I know it's true
@@ -93,7 +93,7 @@ Can you imagine it?
 Can you imagine it? (Can you imagine?)
 Can you imagine it? (Can you imagine?)
 Can you imagine it? (Can you imagine?)
-Ooh, imagine it (Can you imagine?)
+Oh, imagine it (Can you imagine?)
 Imagine it, imagine it
 Imagine it, imagine it
 Imagine, imagine

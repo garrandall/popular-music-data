@@ -134,9 +134,3 @@ Those were the words that we said from our hearts
 So now when you say that you're leaving me
 I don't get that part
 
-
-
-
-
-
-

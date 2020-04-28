@@ -60,7 +60,7 @@ rankings:
 Is she really going out with him?
 Well, there she is. Let's ask her.
 Betty, is that Jimmy's ring you're wearing?
-Mm-hmm
+Mm-hm
 Gee, it must be great riding with him
 Is he picking you up after school today?
 Uh-uh

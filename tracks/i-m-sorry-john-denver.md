@@ -108,11 +108,6 @@ But they all know I'm crying
 And I can't sleep at night
 They all know I'm dying down deep inside
 
-
-
-
-
-
 I'm sorry
 If I took some things for granted
 I'm sorry

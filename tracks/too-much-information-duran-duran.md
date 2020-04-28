@@ -53,10 +53,10 @@ rankings:
   start_date: '1993-11-13'
 ---
 
-Destroyed by MTV, 
-I hate to bite the hand that 
+Destroyed by MTV,
+I hate to bite the hand that
 Feeds me so much information
-The Pressure's on the screen 
+The Pressure's on the screen
 To sell you things that you don't need
 It's too much information for me
 
@@ -73,10 +73,10 @@ A COLA (condom) manufacturer is sponsoring the war
 
 Here comes the news with love from me to you
 
-Destroyed by ABC 
-I hate to bite the hand that 
+Destroyed by ABC
+I hate to bite the hand that
 Feeds me so much information
-The Pressure's on the screen 
+The Pressure's on the screen
 To sell you things that you don't need
 It's too much information for me
 
@@ -95,17 +95,17 @@ Just put us on the cover we'll be smilin anyway
 
 This video was made with LOVE to you
 
-Destroyed by BBC 
-I hate to bite the hand that 
+Destroyed by BBC
+I hate to bite the hand that
 Feeds me so much information
-The Pressure's on the screen to 
+The Pressure's on the screen to
 Sell you things that you don't need
 It's too much information for me
 
-Destroyed by MTV 
-I hate to bite the hand that 
+Destroyed by MTV
+I hate to bite the hand that
 Feeds me so much information
-The Pressure's on the screen to 
+The Pressure's on the screen to
 Sell you things that you don't need
 It's too much information for me
 
@@ -120,7 +120,7 @@ Got to listen to me
 Got to give in to me
 Now I'm on the line
 
-I try......
+I try...
 
 
 

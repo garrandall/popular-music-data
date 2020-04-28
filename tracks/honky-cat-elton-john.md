@@ -73,8 +73,8 @@ They said, oh, "Believe in the Lord" is the golden rule
 They said, get back, honky cat
 Better get back to the woods
 But I quit those days and my redneck ways
-And, ooh, oh, change is gonna do me good
-(Ooh, baby)
+And, oh, oh, change is gonna do me good
+(Oh, baby)
 They said, get back, honky cat
 Better get back to the woods
 Well, I quit those days and my redneck ways
@@ -90,7 +90,7 @@ Ha, how can you stop when your feet say go
 You better get back, honky cat
 Better get back to the woods
 Well, I quit those days and my redneck ways
-And, ooh, oh, the change is gonna do me good
+And, oh, oh, the change is gonna do me good
 You better get back, honky cat
 Living in the city ain't where it's at
 It's like trying to find gold in a silver mine

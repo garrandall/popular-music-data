@@ -104,7 +104,7 @@ Like coo-coo cal
 Lord, I wish mad Lou could see me now
 
 Wish gold mouth was home, mailman was free
-A lot of niggaz crossing over, no dog, no, not me
+A lot of niggas crossing over, no dog, no, not me
 Close to ever been in the commercials, when I watch TV
 And everybody know I rep these streets faithfully
 

@@ -95,11 +95,11 @@ Because its all on you
 
 Dont you know by now
 No one gives you anything?
-And dont you wonder how you keep on moving?
+And don't you wonder how you keep on moving?
 One more day your way, oh your way
 
 When theres no one left to leave you
-Even you dont quite believe you
+Even you don't quite believe you
 Thats when nothing can deceive you
 
 While you see a chance take it

@@ -161,7 +161,3 @@ And um, all I need is JD beat to be banging
 And I'll come up wit these verses that I'm usually slanging
 I be ripping man
 
-
-
-
-

@@ -62,11 +62,11 @@ And let you know how much I love youu
 This love will never die
 
 Forever amor
-Ooh, baby
+Oh baby
 Tonight's the night
 I want you for myself
 Forever amor
-Ooh, baby
+Oh baby
 Tonight's the night
 I want you for myself
 
@@ -99,7 +99,7 @@ This special love I feel for you
 Will never let you go
 (Never let you go)
 
-The distance never 
+The distance never
 Don't worry
 Must to live with out
 Together we must fly away
@@ -113,11 +113,11 @@ Forever amor
 Te amo, te amo
 
 Forever amor
-Ooh, baby
+Oh baby
 Tonight's the night
 I want you for myself
 Forever amor
-Ooh, baby
+Oh baby
 Tonight's the night
 
 I want you for myself
@@ -129,11 +129,11 @@ Forever amor
 Te amo, te amo
 
 Forever amor
-Oooh, baby
+Oh, baby
 Tonight's, the night
 I want you for myself
 Forever amor
-Oooh, baby
+Oh, baby
 Tonight's, the night
 I want you for myself
 
@@ -154,7 +154,7 @@ Just to wish upon a star
 To keep you here right by my side
 No matter where youu are
 
-Oooh
+Oh
 The magic in your eyes
 Has made me realize
 That you're the only one for me
@@ -166,7 +166,7 @@ I need to know you love me, boy
 I'm saying I love you
 
 Forever amor
-Ooh, baby
+Oh baby
 Tonight's the night
 I want you for myself
 Forever amor

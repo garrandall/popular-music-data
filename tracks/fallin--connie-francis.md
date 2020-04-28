@@ -81,7 +81,7 @@ But then my ivory tower toddled
 And I tumbled from the sky
 I got the feelin' I'm a-fallin'
 And you're the reason why
-Ooh, you're the reason why
+Oh you're the reason why
 Yeah, you're the reason why
 Mmm baby, you're the reason why
 

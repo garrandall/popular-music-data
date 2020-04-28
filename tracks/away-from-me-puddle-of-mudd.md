@@ -72,9 +72,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-03-06'
 ---
-YEAH!!
+YEAH!
 
-LIES!!
+LIES!
 
 
 Looking at me now just sitting here by myself

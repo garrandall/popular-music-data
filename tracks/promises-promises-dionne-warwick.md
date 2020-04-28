@@ -62,7 +62,7 @@ Oh, promises, their kind of promises, can just destroy a life
 Oh, promises, those kind of promises, take all the joy from life
 Oh, promises, promises, my kind of promises
 Can lead to joy and hope and love
-Yes, love!!
+Yes, love!
 
 Every night I sleep now, no more lies
 Things that I promised myself fell apart
@@ -72,7 +72,7 @@ Oh, promises, their kind of promises can just destroy a life
 Oh, promises, those kind of promises take all the joy from life
 Oh, promises, promises, my kind of promises
 Can lead to joy and hope and love
-Yes, love!!
+Yes, love!
 
 
 

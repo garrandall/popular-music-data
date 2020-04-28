@@ -105,10 +105,10 @@ No one can hurt you now
 Come morning light
 You and I'll be safe and sound
 
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 La, la (la, la)
 La, la (la, la)
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 La, la (la, la)
 
 Just close your eyes
@@ -116,7 +116,7 @@ You'll be alright
 Come morning light,
 You and I'll be safe and sound...
 
-Ooh, ooh, ooh, ooh, oh, oh
+Oh, oh, oh, oh, oh, oh
 
 
 

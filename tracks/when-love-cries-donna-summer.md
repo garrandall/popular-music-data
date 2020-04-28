@@ -38,9 +38,9 @@ Need you back in my arms again
 Passion calls from deep inside
 It only happens when my love cries
 
-You make my heart sing 
+You make my heart sing
 When love cries
-You make my heart sing 
+You make my heart sing
 When love cries...love cries...love cries
 
 And when I am blue
@@ -52,14 +52,14 @@ I'll survive on desire
 Ride a star across the sky
 I need you here when my love cries
 
-You make my heart sing 
+You make my heart sing
 When love cries
-You make my heart sing 
+You make my heart sing
 When love cries...love cries
-You make my hear sing 
+You make my hear sing
 When love cries
 
-Ooh baby
+Oh baby
 To be near you
 Just to feel you
 
@@ -75,7 +75,7 @@ In my heart
 I never felt it quite like this before
 And if I let it slip
 I might not hear it anymore
-I look into your eyes...ooh
+I look into your eyes...oh
 And I get a chill
 I hear your name
 My world comes to a stand-still

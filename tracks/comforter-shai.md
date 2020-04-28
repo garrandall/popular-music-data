@@ -124,7 +124,7 @@ And now I can see more than ever
 I made a big, big, big mistake.
 
 I don't mean to disregard your feelings
-But i think that he's a fool.
+But I think that he's a fool.
 he don't know how sensitive you are
 And baby, that just ain't cool.
 

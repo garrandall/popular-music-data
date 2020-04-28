@@ -123,5 +123,5 @@ Yeah, right now
 (Think about, forgiveness)
 (Think about it ) Please baby, baby, baby
 (Think about, forgiveness) Oh, think about baby
-(Think about, forgiveness) Yeah, ooh...
+(Think about, forgiveness) Yeah, oh..
 (Think about, forgiveness)

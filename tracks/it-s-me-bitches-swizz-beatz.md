@@ -22,7 +22,7 @@ rankings:
 ---
 Chillin' in my Beemer, listenin' to "Ether"
 Bumpin through ya speakers, know I got the heaters
-Rockin' dont stop, I get the rockin' don't stop
+Rockin' don't stop, I get the rockin' don't stop
 I'm bangin' 'em beats, you know I like that hip hop, stop
 
 FREEZE
@@ -30,7 +30,7 @@ You know who it is... it's me, bitches!
 
 Smoke good, eat good, drink good, fuck good
 Come into the club stuntin li-ike you should
-My shit on fire I dont need no gasolina
+My shit on fire I don't need no gasolina
 I'm comin through your block with the deuce 2 seater
 Ring the alarm, man, call me the sand man
 When I drop beats, im the one man band man

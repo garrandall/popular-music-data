@@ -117,7 +117,7 @@ When I told you, "Fuck you", you thought I was playin', huh? (Yeah, yeah)
 But I meant that shit literally
 She wanted to vibe, but I told her fuck that (Nope)
 She looked at me like she surprised
-The pack in the post and I'm home alone, 
+The pack in the post and I'm home alone,
 When the box hit the door, they go for 35
 I try to put on for my partners they turn into enemies right before a nigga eye
 You reach for a shake, I'ma hold out a fist, give a nigga a quarter pound without the fries
@@ -157,7 +157,7 @@ Sometimes, every time they let me down
 Used to have friends, now I got enemies
 Enemies, yeah, so sad
 
-Ooh
+Oh
 It's too late
 It's too late
 

@@ -94,11 +94,11 @@ Privacy on the door, I'ma make the shit grip
 
 Rich nigga, eight-figure, that's my type
 That's my type, nigga, that's my type
-Eight-inch big, ooh, that's good pipe
+Eight-inch big, oh, that's good pipe
 Bad bitch, I'ma ride the dick all night
 Rich nigga, eight-figure, that's my type
 That's my type, nigga, that's my type
-Eight-inch big, ooh, that's good pipe
+Eight-inch big, oh, that's good pipe
 That's my type, nigga, that's my type
 
 
@@ -122,11 +122,11 @@ Privacy on the door, I'ma make the shit grip
 
 Rich nigga, eight-figure, that's my type
 That's my type, nigga, that's my type
-Eight-inch big, ooh, that's good pipe
+Eight-inch big, oh, that's good pipe
 Bad bitch, I'ma ride the dick all night
 Rich nigga, eight-figure, that's my type
 That's my type, nigga, that's my type
-Eight-inch big, ooh, that's good pipe
+Eight-inch big, oh, that's good pipe
 That's my type, nigga, that's my type
 
 
@@ -150,9 +150,9 @@ Privacy on the door, I'ma make the shit grip
 
 Rich nigga, eight-figure, that's my type
 That's my type, nigga, that's my type
-Eight-inch big, ooh, that's good pipe
+Eight-inch big, oh, that's good pipe
 Bad bitch, I'ma ride the dick all night
 Rich nigga, eight-figure, that's my type
 That's my type, nigga, that's my type
-Eight-inch big, ooh, that's good pipe
+Eight-inch big, oh, that's good pipe
 That's my type, nigga, that's my type

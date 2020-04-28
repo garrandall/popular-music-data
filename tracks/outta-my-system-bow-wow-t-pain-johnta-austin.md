@@ -90,9 +90,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-07-28'
 ---
-Oooooh, Damn!
+Oh, Damn!
 I mean I just keep thinkin about you (awww baby)
-I mean I wanna move on but I can't move on (oh, oh, oh, ooooh)
+I mean I wanna move on but I can't move on (oh, oh, oh, oh
 It's like you got some kind of hold on me
 And I don't know
 But I'm a go ahead and talk about it
@@ -141,7 +141,7 @@ Thinking who she with? Or where she going? Is she club hopping?
 I never had this kinda problem in my life
 This is my first time dealing with this kind of fight
 It's every night, and every flight, and every time you in my sight
-Damn, this ain't even right....cause
+Damn, this ain't even right...cause
 
 When I'm with somebody, all I think 'bout is you
 When I'm all alone - that's all I wanna do

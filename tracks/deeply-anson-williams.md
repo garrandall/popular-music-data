@@ -25,26 +25,26 @@ rankings:
   start_date: '1977-04-23'
 ---
 You ask is my love real
-All i can say is how i feel
+All I can say is how I feel
 Deeply
 Deeply as can be
 You seem to need to know
-How i would hurt if you would go
+How I would hurt if you would go
 Deeply
 (Deeply)
 Down inside of me
 Is our love forever, can anyone ever know?
-For all i remember i never have felt love so
+For all I remember I never have felt love so
 So deeply
 Deeply
 (Deeply)
-Our love is made by two and i can't make it without you
+Our love is made by two and I can't make it without you
 Deeply
 Feel so deeply
 For our love
 
 Is our love forever? can anyone ever know?
-For all i remember i never have felt love so
+For all I remember I never have felt love so
 So deeply
 Deeply
 Deeply

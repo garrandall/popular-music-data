@@ -117,7 +117,7 @@ rankings:
   start_date: '2012-06-30'
 ---
 
-Ooh, ooh, ooh, ooh
+Oh oh oohohoh
 
 She, she ain't real
 She ain't gonna be able to love you like I will

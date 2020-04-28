@@ -66,7 +66,7 @@ Right now if you don't love me baby - lie to me
 
 
 Pour another cup of coffee
-Babe i got something to say to you (I don't wanna die no more)
+Babe I got something to say to you (I don't wanna die no more)
 I ain't got the winning ticket
 Not the one that's gonna pull us through (I don't wanna die no more)
 No one said that it'd be easy

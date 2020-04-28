@@ -55,7 +55,6 @@ Say that you love me
 But if you don't
 Just let me go
 
-Chorus:
 'Cuz teacher
 There are things that I don't want to learn
 And the last one I had made me cry so I
@@ -76,7 +75,6 @@ Know that you need me
 I wrote the song, I know it's wrong
 Just let me go
 
-(chorus)
 So when you say that you need me
 That you'll never leave me
 I know you're wrong, you're not that strong

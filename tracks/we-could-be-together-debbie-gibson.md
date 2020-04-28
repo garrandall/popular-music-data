@@ -77,9 +77,6 @@ I'll sit here 'til that telephone rings
 then we could be together
 for a while
 
-
-
-
 Wait'll I tell my guy (wait'll I tell)
 Wait'll I tell my other friends
 They'll all think I'm crazy-

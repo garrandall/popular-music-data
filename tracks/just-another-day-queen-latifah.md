@@ -84,7 +84,7 @@ Cause mine's is slighty bigger
 But better yet, I'ma threat, so ya better walk
 Or get sketched out in chalk, cause I don't wanna talk
 I stay true blue, I'm hopin it's you too
-I got the fever for the flava of a 
+I got the fever for the flava of a
 So it's back to the block time to play
 It's just another day around the way, hey
 
@@ -108,9 +108,6 @@ You know my name, show me a real nigga wit a brain
 Too it's back to the block time to play
 It's just another day around the way, hey
 
-
-
-
 You know I gotta get props, I can't stop, wit out y'all
 I be nothin, no wreckin, no checkin, no rhymin, no cuttin
 No stages from pages, no phones, no beeper's
@@ -119,8 +116,4 @@ I come with the real like respectin in rule
 Cause me and my peoples around the way remain cool
 So it's back to the block time to play
 It's just another day, around the wha, around the muthafuckin way
-
-
-
-
 

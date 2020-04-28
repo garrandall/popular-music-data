@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: don-t-tell-your-mama--where-you-ve-been--eddie-floyd
+lyrics_url: https://genius.com/Eddie-floyd-dont-tell-your-mama-where-youve-been-lyrics
 name: Don't Tell Your Mama (Where You've Been)
 rankings:
 - end_date: '1969-07-04'
@@ -35,4 +36,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-08-09'
 ---
+Baby, oh, let me love you
+Let me, let me, let me, let me, let me
+Let me love you
 
+
+I'm gonna take you back home with me
+And I know you might be afraid, darling
+I wouldn't hurt one pretty little strand in your hair
+Now, settle down, and try to relax
+Let me show you how a woman acts
+When a man gets to feelin' that he's got to have a love affair
+
+
+Don't tell your mama, oh, no, girl
+Where you're going, oh, no, now
+Don't tell your ma-ma-ma-ma-ma-ma-mama where you've been, girl
+
+
+Have you thought how good it could be?
+Nobody but you and me?
+I'd like to show you all the things we could do, alright
+I'd like to show you how to kiss my lips, now
+I'd like to show you how to shake your hips
+Those are all the things a pretty girl oughta know how to do, now
+Now, now, now, now
+
+
+Baby, oh let me love you
+Oh, let me, let me, let me, let me, let me
+Let me love you
+
+
+I'm gonna take you back home with me
+And I know you might be afraid, darling
+I wouldn't hurt one pretty little strand in your hair
+I'd like to show you how to kiss my lips, now
+I'd like to show you how to shake your hips
+Those are all the things a pretty girl oughta know how to do
+Do, do, do, do
+
+
+Don't tell your mama, aw naw, no
+Don't tell your mama, mama, mama, mama
+She might not understand

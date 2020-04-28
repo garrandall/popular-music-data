@@ -84,7 +84,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-09-02'
 ---
-Ooh, good lovin'
+Oh, good lovin'
 The girl's got plenty good lovin'
 Ask me how I know
 And I'll tell you so
@@ -114,7 +114,7 @@ The girl was so smart
 You can't beat her cookin'
 Oh, ask me how I know
 And I'll tell you so
-She used ta be my girl, ooh
+She used ta be my girl, oh
 
 Deep down inside
 I still love her
@@ -126,7 +126,7 @@ She'll be my girl
 And if I had the chance
 I'd take her back
 Lord knows, as a matter of fact
-Right away like today, ooh
+Right away like today, oh
 
 Good lovin'
 The girl's got plenty good lovin'

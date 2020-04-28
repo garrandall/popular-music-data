@@ -60,9 +60,6 @@ But I won't quit
 'Cause I want more
 It rides out of town
 
-
-
-
 Oh, it's my road
 It's my road, it's my road
 It's my road

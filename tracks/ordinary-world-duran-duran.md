@@ -140,7 +140,7 @@ I will learn to survive
 Papers in the roadside
 Tell of suffering and greed
 Here today, forgot tomorrow
-Ooh, here besides the news
+Oh, here besides the news
 Of holy war and holy need
 Ours is just a little sorrowed talk
 

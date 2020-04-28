@@ -212,9 +212,6 @@ Don't you niggas play dumb
 You know where we came from
 You don't want sauce, no A1
 
-
-
-
 Ay, they think they know us
 They can't control us
 Man I got this sewed up
@@ -226,9 +223,6 @@ A thousand on my shoes when I walk through baby
 10.5 for a walkthrough baby
 ZooGang you know my whole zoo near
 And baby I'm Zoovier
-
-
-
 
 ZooWap, Monty
 Zoowap, Monty

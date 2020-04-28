@@ -63,12 +63,12 @@ rankings:
 
 When I look in your eyes I see a reflection of me
 Being there for you whenever you need me
-I cant describe my soul feelin' so deep for you girl it's like a dream come
+I can't describe my soul feelin' so deep for you girl it's like a dream come
 True
 You are my everything
 
-I wont ever leave you, or desert you
-I wont risk the good things that we have in life , oh girl
+I won't ever leave you, or desert you
+I won't risk the good things that we have in life , oh girl
 Its important to me, for you to trust me baby
 Cause I'm givin' my all and all to you right now
 Just right, tonight, I wanna love you down
@@ -79,7 +79,7 @@ Don't mind kickin' it with you (kickin' it with you)
 
 But lately I been thinkin' your the only one that's right for me
 
-Your my girl, and I cant see myself givin' you to somebody else
+Your my girl, and I can't see myself givin' you to somebody else
 Its so impossible
 Whenever you need a friend
 I'll be there to the end

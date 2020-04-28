@@ -53,7 +53,7 @@ Whoa, without love I have nothing,
 Whoa, without love, friends I have nothing, at all
 Ohhh, I have conquered, yeah the world
 Oh-hooo, tell me what did I have?
-Without love, ohh, I have nothing now, at all
+Without love, oh, I have nothing now, at all
 
 
 

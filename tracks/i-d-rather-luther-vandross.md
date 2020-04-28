@@ -147,4 +147,4 @@ I'd rather have the one who holds my heart
 
 I'd rather have the one who holds my heart
 I'd rather have the one who holds my heart
-Whoooo.....who holds my heart
+Whoooo...who holds my heart

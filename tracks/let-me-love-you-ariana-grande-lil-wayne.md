@@ -55,7 +55,7 @@ My ex tripping, it's no Biggie, I 2Pac shook her
 I'm laid up with my new thing
 She lay her head on my new chain
 Then the mood change
-My name change from Lil Wayne to Ooh Wayne
+My name change from Lil Wayne to Oh Wayne
 Oh Lord, she grinding on this Grande
 Oh Lord, I'm drowning, I'm gonna need that coast guard
 And when it comes to that nigga, I give her amnesia

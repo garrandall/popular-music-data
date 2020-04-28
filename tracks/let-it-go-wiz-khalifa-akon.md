@@ -20,7 +20,7 @@ You know we can see through them blinds homie
 And see through the truth and them lies homie
 Just let it go, let it go, let it go
 
-(Ohh oh oh ohhh) 
+(Ohh oh oh oh)
 
 
 Uh, all niggas know what the fuck is, man

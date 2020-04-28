@@ -36,7 +36,7 @@ Show time, baby
 Ow, uh
 Everybody's having fun, woo
 Show time, baby
-Ooh, ooh
+Oh oh
 Everybody, get some
 
 Lookie here, ha
@@ -59,7 +59,7 @@ Show time, baby
 Ow, uh
 Everybody's having fun, woo
 Show time, baby
-Ooh, ooh
+Oh oh
 Everybody, get some
 
 It makes you feel good all over
@@ -80,7 +80,7 @@ Show time, baby
 Ow, uh
 Everybody's having fun, woo
 Show time, baby
-Ooh, ooh
+Oh oh
 Everybody, get some
 
 It makes you feel good all over

@@ -118,10 +118,10 @@ I know you know it doesn't mean that much to me
 I'm not in love, no no, it's because..
 
 
-Ooh you'll wait a long time for me
-Ooh you'll wait a long time
-Ooh you'll wait a long time for me
-Ooh you'll wait a long time
+Ohyou'll wait a long time for me
+Ohyou'll wait a long time
+Ohyou'll wait a long time for me
+Ohyou'll wait a long time
 
 
 I'm not in love

@@ -88,32 +88,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-12-19'
 ---
-*talking*
-Yeah, nine eight, ya'll, R.L
+Yeah, nine eight, ya'll, R.L.
 Tweety, teelo, (I, ah ah ah ah, I still love you)
 Destination platinum, baby
 Remix...
 
-*Big Pun*
 Next up, yo I believe that's me
 Lifestyle espinoza, chance flows up with the first Jahova
 The Casinova, the neck brownic like Lex Luger
 Me, Lex and Q, we used roll up and jancin over
-Now the stretch --- a roaster, got an extra sofa
+Now the stretch - a roaster, got an extra sofa
 You were always there, had my back
-Even before I was the first latin a rapper to ever come home with a platinum
-Plaque
+Even before I was the first latin a rapper to ever come home with a platinum plaque
 I regret, gettin u back cuz I want you back
 Show a thug some love, baby holler back
 
-*verse 1*
 From demos to limos, nj 900 to timbo
 Gable access to lino, you stay by my side
 You kept the faith, You wouldn't break
 You kept me safe and held me straight
 You're so important in my life
 
-*chorus 1*
 I still love you, babe
 Cuz without you there's no me
 I'm still for you, girl
@@ -122,14 +117,12 @@ I'll never leave you baby
 (I'll never leave you baby)
 Cuz I realize I need you in my life
 
-*chorus 2*
 Girl everytime I close my eyes
 And every moment that I rise
 I don't ever wanna say "goodbye"
 When in my brain, my body lies
 I still love you
 
-*Verse 2*
 When u get mad, bus pass for laughs
 Hot rods and bus padders is all we had
 That can never change
@@ -139,9 +132,6 @@ Credit? forget it
 To credit maxin, now we laughin
 Yo, my love will stay the same
 
-*chorus 1*
-
-*Big Pun*
 My material girl in this material world
 I've been givin you pearls since you were just a little girl
 Shirley Temple, you look so pretty wit yo little dimples
@@ -151,5 +141,4 @@ I'm glad you did it, hunny, the money's there
 Go head and spend it, you represen'ed since the beginning
 So if I cheat on you with other women, I promise to hit da box in 'em
 
-*chorus 2* (3x)
-I, ah ah ah ah, I still love you (2x)
+I, ah ah ah ah, I still love you

@@ -121,16 +121,12 @@ With his or her buddy buddy ain't the buddy the came with
 
 
 
-Ooh ooh oh baby what I'm really tryna say is (that)
+Ohohoh baby what I'm really tryna say is (that)
 The definition of a real buddy is... (that)
 She's that one that you can have fun
 And ride shotgun through the city with me
 Together there's no limit to what we can do
 And once we in it girl it's all about me and you
 So baby what you say don't pass this by
-'cause if you decide....
-
-
-
-
+'cause if you decide...
 

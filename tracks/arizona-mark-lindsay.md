@@ -87,7 +87,7 @@ My myyy
 Arizona, cut off your Indian braids
 Arizona, hey won'tcha go my way
 
-Mmmm strip off your pride you're acting like a teeny-bopper run away child
+Mmm strip off your pride you're acting like a teeny-bopper run away child
 And scrape off the paint from the face of a little town saint
 Arizona, take off your hobo shoes
 Arizona, hey won'tcha go my way

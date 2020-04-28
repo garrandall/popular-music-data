@@ -27,8 +27,8 @@ I was tense, I was nervous, I guess it just wasn't my night
 Art Fleming gave the answers
 Oh, but I couldn't get the questions right-ight-ight
 
-I lost on Jeopardy, baby, ooh
-I lost on Jeopardy, baby, ooh
+I lost on Jeopardy, baby, oh
+I lost on Jeopardy, baby, oh
 
 Well, I knew I was in trouble now
 My hope of winning sank
@@ -39,8 +39,8 @@ And then my head started to spin
 Well, I'm givin' up, Don Pardo
 Just tell me now what I didn't win, yeah, yeah
 
-I lost on Jeopardy, baby, ooh
-I lost on Jeopardy, baby, ooh
+I lost on Jeopardy, baby, oh
+I lost on Jeopardy, baby, oh
 
 
 That's right, Al - you lost
@@ -57,8 +57,8 @@ I guess I just wasn't to bright
 Well, I sure hope I do better
 Next weekend on the Price Is Right-ight-ight
 
-I lost on Jeopardy, baby, ooh
-I lost on Jeopardy, baby, ooh
+I lost on Jeopardy, baby, oh
+I lost on Jeopardy, baby, oh
 I lost on Jeopardy, baby
 
 

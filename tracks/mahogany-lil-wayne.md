@@ -87,7 +87,7 @@ Maho-mahogany sand
 Louis mahogany bags for the bag boys
 Soon as we land, on mahogany sand
 I ain't arguin', I'm sayin'
-Ooh, mahogany
+Oh, mahogany
 
 
 

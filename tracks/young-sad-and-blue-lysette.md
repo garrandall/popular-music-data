@@ -73,9 +73,6 @@ I gotta say goodbye to all this pain
 I hope I never see your face again
 Because I'm
 
-
-
-
 I used to trip off your chest and pretty smile
 But now I see your true self
 For what you really are

@@ -13,7 +13,7 @@ rankings:
   start_date: '2013-12-21'
 ---
 Wait a minute, baby
-Going too fast, I'mma turn back, ooh
+Going too fast, I'mma turn back, oh
 Wait a minute, baby
 Going too fast, I'mma turn back
 

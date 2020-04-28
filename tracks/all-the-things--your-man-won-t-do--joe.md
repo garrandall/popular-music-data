@@ -148,11 +148,11 @@ Nothing is forbidden when we touch
 Baby, I wanna do (Hell yeah)
 All of the things your man won't do (Every little thing)
 (I'll do them for you)
-Oooh, ooh
+Oh, oh
 Baby, I wanna do (I wanna do)
 All of the things your man won't do
 (I'll do them for you)
-Yeahhh, ohh
+Yeahhh, oh
 
 
 And I'll-oh yeah, yeah, yeah-oh yeah
@@ -172,11 +172,11 @@ Baby, I wanna do
 All of the things your man won't do (I'm gonna-I'm gonna-I'm-I'm-I'm)
 (I'll do them for you)
 Sweet lady (Baby), I wanna do (I wanna do)
-All of the things your man won't do (And-ohh yeahh-yeah-yeah)
+All of the things your man won't do (And-oh yeahh-yeah-yeah)
 (I'll do them for you)
 
 
-Ooh, I got a jones in my bones for you
+Oh I got a jones in my bones for you
 There ain't a damn thing that I won't do
 I'll make your body cream with my sex machine
 I won't stop until I hear your mother scream
@@ -186,7 +186,7 @@ Lady, I wanna do (I wanna do)
 All of the things your man won't do (Oh, oh, oh-ah, yeah, yeah)
 I'll do them for you
 Baby (All the things), I wanna do (Wanna do)
-All of the things your man won't do (Yeah, ohh, oh)
+All of the things your man won't do (Yeah, oh, oh)
 I'll do them for you (I wanna do it for you, baby)
 Sweet lady, I wanna do
 All of (All of) the things your man won't do

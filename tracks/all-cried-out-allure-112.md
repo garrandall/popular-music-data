@@ -132,7 +132,7 @@ Now I'm all cried out
 Over you
 
 
-(Ooh I'm over you, oh yeah you, yes)
+(Oh I'm over you, oh yeah you, yes)
 
 
 Never wanted to see things your way, I had to go astray

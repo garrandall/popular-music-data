@@ -88,7 +88,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-06-26'
 ---
-Ooh, and it's alright and it's coming on
+Oh and it's alright and it's coming on
 We gotta get right back to where we started from
 Love is good, love can be strong
 We gotta get right back to where we started from
@@ -104,11 +104,11 @@ By the little things I say
 I can put that smile back on your face
 
 
-Ooh, and it's alright and it's coming on
+Oh and it's alright and it's coming on
 We gotta get it right back to where we started from
 Love is good, love can be strong
 We gotta get it right back to where we started from
-(Oh oh oooh oooh ooh)
+(Oh oh ohhoh
 
 
 A love like ours
@@ -121,11 +121,11 @@ I just can't stay away, no, no
 I know you are the only one
 
 
-Ooh, and it's alright and it's coming on
+Oh and it's alright and it's coming on
 We gotta get it right back to where we started from
 Love is good, love can be strong
 We gotta get it right back to where we started from
-(Oh oh oooh oooh ooh)
+(Oh oh ohhoh
 
 
 You gave me your love
@@ -134,7 +134,7 @@ I just can't stay away, no
 I know you are the only one
 
 
-Ooh, an it's alright and it's coming on
+Oh an it's alright and it's coming on
 We gotta get it right back to where we started from
 Love is good, love can be strong
 We gotta get it right back to where we started from

@@ -93,7 +93,7 @@ rankings:
   start_date: '1989-08-05'
 ---
 Hey kids, rock and roll
-Rock on, ooh my soul
+Rock on, ohmy soul
 Hey kids, boogie too, did ya?
 
 Hey shout, summertime blues

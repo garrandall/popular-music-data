@@ -98,7 +98,7 @@ Cigarettes, alcohol
 Disc jockeys and discos
 TV guide, magazines
 Videos, tape machines
-I am the fanatic, ohh
+I am the fanatic, oh
 The fanatic
 
 I like movies and rock shows

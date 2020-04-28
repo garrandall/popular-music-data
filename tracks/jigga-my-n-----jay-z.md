@@ -91,23 +91,23 @@ rankings:
 Roc-A-Fella, Ruff Ryders, Swizz Beats
 It's almost over y'all
 Jigga, how real is that?
-Uhh, uhh, uhh, lights out niggaz!
+Uhh, uhh, uhh, lights out niggas!
 
 (Jigga) What's my motherfuckin name?
 (Jigga) And who I'm rollin with huh?
-(My niggaz) Uh-huh-uh-uhh-uhh-uhh
-Niggaz better get it right, bitches better get it right, who?
+(My niggas) Uh-huh-uh-uhh-uhh-uhh
+Niggas better get it right, bitches better get it right, who?
 (Jigga) What's my motherfuckin name?
 (Jigga) And who I'm rollin with huh?
-(My niggaz) Uh-huh-uh-uhh-uhh-uhh
-Niggaz better get it right, bitches better get it right
+(My niggas) Uh-huh-uh-uhh-uhh-uhh
+Niggas better get it right, bitches better get it right
 
 Yeah. yeah.
 From the crap tables down in A.C.
 Back on the block Jay-Z motherfucker from the, the, the Roc
 Went solo on that ass but it's still the same
 Brooklyn be the place where I serve them thangs
-B. my niggaz was strugglin, to the 'burbs they came
+B. my niggas was strugglin, to the 'burbs they came
 And then we got to hustlin, murderin thangs
 I dipped in my stash, splurged on a chain
 Now I'm Titanic, Iceberg's the name
@@ -123,22 +123,22 @@ You heard the name
 
 (Jigga) What's my motherfuckin name?
 (Jigga) And who I'm rollin with huh?
-(My niggaz) Uh-huh-uh-uhh-uhh-uhh
-Niggaz better get it right, bitches better get it right, who?
+(My niggas) Uh-huh-uh-uhh-uhh-uhh
+Niggas better get it right, bitches better get it right, who?
 (Jigga) What's my motherfuckin name?
 (Jigga) And who I'm rollin with huh?
-(My niggaz) Uh-huh-uh-uhh-uhh-uhh
-Niggaz better get it right, bitches better get it right
+(My niggas) Uh-huh-uh-uhh-uhh-uhh
+Niggas better get it right, bitches better get it right
 
 Yeah, uhh, I got a
 License to kill so I stare at the gat
-Roc-A-Fella, Ruff Ryders, niggaz scared of that
+Roc-A-Fella, Ruff Ryders, niggas scared of that
 Got a new motto this year, "Don't Fuck With My Ones"
 Knock on your door, three in the mornin
 "It's just us and the guns!"
 See I scrambled with priests, hustle with nuns
 I got the, mind capacity of a young Butch Cassidy
-Niggaz get fly, let em defy gravity
+Niggas get fly, let em defy gravity
 Fo'-five rapidly lift your chest cavity
 Streets won't let me chill
 Always been a clumsy nigga, don't let me spill
@@ -152,18 +152,18 @@ Uh
 
 (Jigga) What's my motherfuckin name?
 (Jigga) And who I'm rollin with huh?
-(My niggaz) Uh-huh-uh-uhh-uhh-uhh
-Niggaz better get it right, bitches better get it right, who?
+(My niggas) Uh-huh-uh-uhh-uhh-uhh
+Niggas better get it right, bitches better get it right, who?
 (Jigga) What's my motherfuckin name?
 (Jigga) And who I'm rollin with huh?
-(My niggaz) Uh-huh-uh-uhh-uhh-uhh
-Niggaz better get it right, bitches better get it right
+(My niggas) Uh-huh-uh-uhh-uhh-uhh
+Niggas better get it right, bitches better get it right
 
 I don't give a fuck
 If I sold one or one million, but I think you should
 Cause if I only sold one, then out comes the hood
 All black in the club, the outcome ain't good
-Them niggaz act like wolves, how come? They could
+Them niggas act like wolves, how come? They could
 Cause we don't drop hits, we drop bombs that smash
 Til the wrists is lit up, the arm looks like glass
 The necklace chipped up, the charm it flash
@@ -180,19 +180,19 @@ Uh-huh uhh uhh
 
 (Jigga) What's my motherfuckin name?
 (Jigga) And who I'm rollin with huh?
-(My niggaz) Uh-huh-uh-uhh-uhh-uhh
-Niggaz better get it right, bitches better get it right, who?
+(My niggas) Uh-huh-uh-uhh-uhh-uhh
+Niggas better get it right, bitches better get it right, who?
 (Jigga) What's my motherfuckin name?
 (Jigga) And who I'm rollin with huh?
-(My niggaz) Uh-huh-uh-uhh-uhh-uhh
-Niggaz better get it right, bitches better get it right, who?
+(My niggas) Uh-huh-uh-uhh-uhh-uhh
+Niggas better get it right, bitches better get it right, who?
 (Jigga) What's my motherfuckin name?
 (Jigga) And who I'm rollin with huh?
-(My niggaz) Uh-huh-uh-uhh-uhh-uhh
-Niggaz better get it right, bitches better get it right, who?
+(My niggas) Uh-huh-uh-uhh-uhh-uhh
+Niggas better get it right, bitches better get it right, who?
 
 (Jigga) What's my motherfuckin name?
 (Jigga) And who I'm rollin with huh?
-(My niggaz) Uh-huh-uh-uhh-uhh-uhh
-Niggaz better get it right, bitches better get it right.
+(My niggas) Uh-huh-uh-uhh-uhh-uhh
+Niggas better get it right, bitches better get it right.
 (Jigga) ...

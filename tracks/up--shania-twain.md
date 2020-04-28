@@ -48,7 +48,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-04-05'
 ---
-I'm goin' up, goin' up, I'm goin' up (ooh)
+I'm goin' up, goin' up, I'm goin' up (oh)
 
 It's 'bout as bad as it could be
 Seems everybody's buggin' me
@@ -97,7 +97,7 @@ Like nothing wants to go my way
 Yeah, it just ain't been my day
 Nothin's comin' easily
 
-Oh, oh, oh, oooh
+Oh, oh, oh, oh
 Up--up--up--
 Can only go up from here
 Up--up--up--

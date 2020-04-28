@@ -42,7 +42,7 @@ And what I'm gonna tell you now
 Won't be easy to say
 
 Before I left your side
-Ooh, I was so happy then
+Oh, I was so happy then
 But I've been so lonely
 Since I've been away
 Oh, baby

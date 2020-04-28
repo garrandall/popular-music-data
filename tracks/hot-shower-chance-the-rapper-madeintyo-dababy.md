@@ -49,15 +49,15 @@ And then the smoke got me
 Hey
 
 
-I got muscles like Superman's trainer (Ooh)
+I got muscles like Superman's trainer (Oh)
 Real real rare like Super Saiyan manga
 I jump stomp-stomp on Lucifer, Satan
 Now I got a few rings on, Jupiter skating
 I meant to say Saturn, switched up the pattern
-Smoking on some shatter (Ooh), got me higher than a ladder (Ooh)
+Smoking on some shatter (Oh), got me higher than a ladder (Oh)
 Thanks I'm flattered, my baby mama badder
 You look like Mick Jagger, oops, the grease splattered
-Ooh, ooh, hot, hot (Ooh)
+Oh, oh hot, hot (Oh)
 Jumping out the grease
 It's a whole lotta degrees
 'Bout to come up out the fleece, fleece, fleece
@@ -70,7 +70,7 @@ Tangerine, yeah, I call her sweet and sour
 And my lawyer say it's urgent, I'ma call him in a hour
 
 Dude, I just called the plug and his phone was unplugged
-I was lookin' at Doug like "Ooh, ooh, ooh"
+I was lookin' at Doug like "Oh, oh oh
 Dude, that shit don't even make no fucking sense
 Like having fuckin' arguments for payin' 50 extra cents for barbecue
 Saucing on the workers at McDonald's
@@ -81,28 +81,28 @@ But my baby mama stopped me in a meeting (Skrrt, skrrt)
 Just to Airdrop me some nudes
 
 Hot damn, hot water, hot shower
-Hotlanta, smoking green, cauliflower (Ooh, ooh, ooh)
+Hotlanta, smoking green, cauliflower (Oh, oh oh
 Tangerine, yeah, I call her sweet and sour
 And my lawyer say it's urgent, I'ma call him in a hour
 
 
-Yeah, hopped off the flight, Louis V, Off-White (Ooh)
+Yeah, hopped off the flight, Louis V, Off-White (Oh)
 I just met a doll bet she tryna spend the night
-Heard they need more, yeah, my jeans Dior (Ooh)
+Heard they need more, yeah, my jeans Dior (Oh)
 Shawty got cake if you tryna eat more
-Think they need more, I think they need more (Ooh, ooh, ooh)
-This is a second run, I'm tryna speed more (Ooh, ooh, ooh)
+Think they need more, I think they need more (Oh, oh oh
+This is a second run, I'm tryna speed more (Oh, oh oh
 Going stupid, going crazy (Yeah, yeah, yeah)
-Big gas in that Mercedes (Ooh, ooh, ooh)
+Big gas in that Mercedes (Oh, oh oh
 Pull up lit, going 30 (Yeah, yeah, yeah)
 Pull up Vic, uh, in a hurry (Yeah, yeah, yeah)
-Shoot your shot, flex a lot (Ooh, ooh, ooh)
-Big cheese, hella knots (Ooh, ooh, ooh)
-Chopped and screwed, Michael Watts (Ooh, ooh, ooh)
+Shoot your shot, flex a lot (Oh, oh oh
+Big cheese, hella knots (Oh, oh oh
+Chopped and screwed, Michael Watts (Oh, oh oh
 Point 'em out, air 'em out (Skrrt, skrrt)
 Get me right, sippin' Sprite (Skrrt, skrrt)
 180, half pipe (Skrrt, skrrt)
-Ooh
+Oh
 
 
 Hot damn, hot water, hot shower
@@ -136,8 +136,8 @@ Why they make you feel like that
 I don't know, I mean it's America right?
 
 
-Ooh, hot damn, hot water, hot shower
-Hotlanta, smoking green, cauliflower (Ooh, ooh, ooh)
+Oh, hot damn, hot water, hot shower
+Hotlanta, smoking green, cauliflower (Oh, oh oh
 Tangerine, yeah, I call her sweet and sour
 And my lawyer say it's urgent, I'ma call him in a hour
 

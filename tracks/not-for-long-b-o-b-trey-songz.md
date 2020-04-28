@@ -72,7 +72,7 @@ I ain't trippin', in a minute it'll be over with, aye
 
 
 
-Oooh ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh oh, oh, oh, oh, oh, oh, oh
 (But not for long)
 Girl not for long
 Girl not for long
@@ -94,20 +94,9 @@ Put you on game girl so it's obvious
 I'll give you the world if you ain't got it yet
 Bobby
 
-
-
-
-
-
 You might be with someone else
 But I still see that you finna be with a G like me
 You'll never need, no one else
 And I know you know
 I'ma be like I told you so
-
-
-
-
-
-
 

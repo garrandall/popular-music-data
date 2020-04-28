@@ -58,7 +58,7 @@ rankings:
   start_date: '1967-06-10'
 ---
 
-Close your eyes (close your eyes), take a deep breathe (ahhh!)
+Close your eyes (close your eyes), take a deep breathe (ah!)
 Open your heart (open your heart), and whisper
 I love you, I love you,
 Tell me you love me, tell me you love me,
@@ -75,8 +75,4 @@ Oh no no, (oh no no) even though (even though)
 This is not the way I want it to be
 But if you must pretend
 That's alright with me
-
-
-
-
 

@@ -91,7 +91,7 @@ But there's more
 Where you come from
 My sugar walls
 
-My sugar walls, ooh
+My sugar walls, oh
 My sugar walls
 
 Blood races to your private spots
@@ -137,7 +137,7 @@ It's impossible to hide
 Your body's on fire, admit it
 Come inside (my sugar walls)
 
-Ahhh (my sugar walls) ooh
+Ah (my sugar walls) oh
 Come inside (my sugar walls)
 My sugar walls
 

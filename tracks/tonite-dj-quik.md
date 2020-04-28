@@ -89,13 +89,13 @@ Ham is in the bedroom rollin up a stencil
 Fatter than a pinky and the length of a pencil
 Freakie lit it up and hit it one two three
 Shabby took a hit and then they pass it to me
-It's the bomb!!!
+It's the bomb!
 Yo I can feel my senses
-Get numb!!!
+Get numb!
 Yo fuck the forty ounce
-I need some rum!!!
+I need some rum!
 I'm chillin like a villain
-Here I come!!!
+Here I come!
 And that's how I'm livin
 Tonight is the nite and I'm lookin real sporty
 Proper Friday evening and I'm ready to party
@@ -104,16 +104,16 @@ Fuck it, let's shoot some craps
 (Yo what they in fo') A fin or a half
 (Yo shoot that ten nigga) Don't make me laugh
 Hi-C want a dove and he think that shit is funny
-But I'm seven and eleven and I'm takin niggaz money (tonite)
+But I'm seven and eleven and I'm takin niggas money (tonite)
 
 Tonight's the nite (yeah watch me fuck the hoe) (tonite)
 Tonight is the nite (passin naturals on motherfuckers) (tonite)
 Tonight's the nite (yo, I'm unfadable) (tonite)
-Tonight is the nite (ahh let's break it down, so I can get funky)
+Tonight is the nite (ah let's break it down, so I can get funky)
 
 (tonite)
 
-Ahh yeah
+Ah yeah
 Givin em somethin they can roll on, hold on
 
 Wake up Saturday morning and I got a headache
@@ -138,7 +138,7 @@ Tonight is the nite (straight gettin fucked up, heyyy) (tonite)
 Tonight's the nite (fuck that pass me that pina colada) (tonite)
 (man I don't wanna fade that 8 Ball no mo)
 Tonight is the nite (that shit be fuckin a nigga up) (tonite)
-Tonight's the nite (ahh yeah nothin but a party and I'm kickin it)
+Tonight's the nite (ah yeah nothin but a party and I'm kickin it)
 (what's up Pete and Greg) (tonite)
 Tonight is the nite (how you livin?) (tonite)
 Tonight's the nite (hey somebody get that nigga a Genuine Draft)

@@ -72,10 +72,10 @@ I can't stop these tears from falling
 From my eyes, yeah, yeah
 (From my eyes) from my eyes
 
-Yeah, yeah....
+Yeah, yeah...
 I'm missing you
 
-Ooh, hoo
+Oh, hoo
 Hello, love child
 I see you still got your pretty smile
 Tell me, is it true what they say, baby?
@@ -100,7 +100,7 @@ I can't stop these tears from falling)
 (From my eyes) from my eyes, yeah, yeah
 (From my eyes) from my eyes
 
-Yeah, yeah.....
+Yeah, yeah...
 I'm missing you, baby
 
 (Sunshine has faded away)

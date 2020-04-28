@@ -82,7 +82,7 @@ Where we belong
 I know the music
 Won`t let this love die
 There`s feeling in our heart
-If we let it 
+If we let it
 
 Please, Mr. DJ
 Keep on playing that song
@@ -102,7 +102,7 @@ We fell in love while dancing
 Hey, we romanced
 While we danced at the disco
 
-Alright, oooh, well
+Alright, oh, well
 Hey, hey, hey, yeah
 
 We fell in love while dancing

@@ -50,8 +50,8 @@ rankings:
 ---
 (Words & music by Bobby Darin)
 I'll be there when all your dreams are broken
-To answer your unspoken prayer, oh....
-When the little things you're doin', ooh, don't turn out right
+To answer your unspoken prayer, oh...
+When the little things you're doin', oh don't turn out right
 Don't you worry darlin' I'll be there
 There whenever you need to know that there is someone who cares, oh
 Yeah!

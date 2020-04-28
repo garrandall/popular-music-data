@@ -42,7 +42,7 @@ I'm guaranteed to everybody bounce w/ me
 Been known to put it down anyplace I be
 You can copy but it's only gon' be one me
 I don't ride in no cars till a man come wit me
-14 and i started up a whole epidemic
+14 and I started up a whole epidemic
 Look, ya'll know what I'm talkin about
 Ever since I hooked up with the homie down south
 TV shows, magazine covers

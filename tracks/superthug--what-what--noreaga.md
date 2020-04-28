@@ -150,9 +150,6 @@ Yo, N-E-P-T-U-N-E-S
 The way they lace a beat like on of the best, what?
 
 
-
-
-
 yo, N.O.R.E., Nore, sep?fo?now we on the run eatin
 yo, N.O.R.E., Nore, sep?fo?now we on the run eatin
 yo, N.O.R.E., Nore, sep?fo?now we on the run eatin

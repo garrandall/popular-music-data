@@ -88,7 +88,7 @@ I make you moan as my bone turn brick like stone
 Whether you're single we can mingle as you jingle
 Swing low, with the black Mandingo
 I be the dough money-maker rump-shaker
-To the bedroom I said "hmm I'll take her"
+To the bedroom I said "hm I'll take her"
 
 
  If you don't want her don't waste her time

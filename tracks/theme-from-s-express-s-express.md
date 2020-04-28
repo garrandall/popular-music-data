@@ -59,7 +59,7 @@ S'Express (x4)
 Come on and listen to me baby now (x4)
 
 Come on and listen to me baby now (x3)
-Ooh ooh ooh
+Oh oh oh
 
 I got the hots for you
 Boop
@@ -87,4 +87,4 @@ Come on and listen to me baby now (x8)
 
 S'Express (x7)
 
-Aah
+Ah

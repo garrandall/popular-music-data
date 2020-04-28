@@ -66,7 +66,7 @@ Prima Donna, lord, you really shoulda been there
 Sittin' like a princess perched in her electric chair
 And it's one more beer, and I don't hear you anymore
 We've all gone crazy lately
-My friend's out there, rollin' 'round the basement floor (Ooh)
+My friend's out there, rollin' 'round the basement floor (Oh)
 
 
 And someone saved my life tonight, sugar bear (sugar bear)
@@ -74,7 +74,7 @@ You almost had your hooks in me, didn't you, dear?
 You nearly had me roped and tied
 Altar-bound, hypnotized, sweet freedom whispered in my ear
 You're a butterfly, and butterflies are free to fly
-Fly away, high away, bye-bye (Ooh)
+Fly away, high away, bye-bye (Oh)
 
 
 
@@ -95,10 +95,7 @@ You almost had your hooks in me, didn't you, dear?
 You nearly had me roped and tied
 Altar-bound, hypnotized, sweet freedom whispered in my ear
 You're a butterfly, and butterflies are free to fly
-Fly away, high away, bye-bye (Ooh)
-
-
-
+Fly away, high away, bye-bye (Oh)
 
 And I would've walked head-on into the deep end of the river
 Clingin' to your stocks and bonds

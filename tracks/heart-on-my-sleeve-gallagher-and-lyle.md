@@ -61,9 +61,9 @@ And I just wanna let you know
 Sometimes I find it so hard not to show
 Oh don't sigh, baby you're not alone
 
-I wear my heart on my sleeve (4x)
+I wear my heart on my sleeve
 
 
 
-Wear your heart on your sleeve (8x)
+Wear your heart on your sleeve
 (Repeat until fade)

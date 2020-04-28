@@ -83,7 +83,7 @@ rankings:
 
 Alright Paul, oh, oh, oh
 Uh, oh, uh, oh, oh, oh
-Hey, hey, ooh, yeah
+Hey, hey, oh, yeah
 
 Feels like my battery's in need of a jump
 Our love is running down, done fell into a slump
@@ -111,7 +111,7 @@ We can't neglect what we cherish the most
 So drop your foolish pride 'cause I need you more and more
 
 (Nothing good comes easily)
-Ooh, we've got to work it 'til we get it right
+Oh, we've got to work it 'til we get it right
 (You see I love you so)
 I'll, I'll never let you go
 (Never let you go)
@@ -139,7 +139,7 @@ When I say hit it, Paul hit it
 Ignition, ignition
 Give it a little gas Paul, come on, ou
 
-Ooh, baby uh, oh, uh, oh, oh
+Oh, baby uh, oh, uh, oh, oh
 (Jump)
 I say don't stomp hard, baby
 (Jump, jump)
@@ -148,15 +148,15 @@ Lift me up
 Take it on up Paul
 (Jump start my heart, my heart)
 
-Oh, ooh
+Oh, oh
 (Nothing good comes easily)
-Ooh, we've got to work it 'til we get it right
+Oh, we've got to work it 'til we get it right
 You see I love you so I'll never let you go
 (I wanna hug you and kiss you keep you right here with me)
 Yeah, yeah
 
 (Jump start my heart)
-Ooh charge me up when I'm runnin' down
+Oh charge me up when I'm runnin' down
 Oh, don't let me down
 (Jump start my heart)
 Hey, hey lift my feet up off the ground

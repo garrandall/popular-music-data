@@ -268,7 +268,7 @@ I'll be your hope, I'll be your love
 Be everything that you need
 I'll love you more with every breath
 Truly, madly, deeply do
-Ooh, ooh
+Oh, oh
 
 
 I wanna stand with you on a mountain
@@ -281,8 +281,8 @@ I want to live like this forever
 Until the sky falls down on me
 
 
-Ooh-ooh
-Ooh, yeah
+Oh-oh
+Oh, yeah
 Oh, oh
 La-da-da-da-dada, la-la-la-la
 La-da-da-da-dada, la-la-la

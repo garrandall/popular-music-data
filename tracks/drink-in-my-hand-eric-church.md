@@ -109,7 +109,7 @@ I'm about to tear a new one in this old town
 5-4-3-2-1. I'm a rocket man,
 All you gotta do is put a drink in my hand
 
-Make me wanna go, ooh, ooh, ooh, when you dance like that,
+Make me wanna go, oh oohohohhen you dance like that,
 You got that little tattoo playing peeky boo on your back
 Yeah, if you want to impress me, baby, here's my plan,
 All you gotta do is put a drink in my hand

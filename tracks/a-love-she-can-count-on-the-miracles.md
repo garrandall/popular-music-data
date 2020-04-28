@@ -48,10 +48,10 @@ rankings:
 Everyday, I'm gonna love become what may
 'Cause I know that there is nothing that means more
 To a woman than a love that she can count on
-Yeah oh oh oh oh ooh
+Yeah oh oh oh oh oh
 
-Darling dear yeah (ooh ooh)
-Whenever when you need me I'll be here (ooh ooh)
+Darling dear yeah (ohooh
+Whenever when you need me I'll be here (ohooh
 'Cause I know that there is nothing that means more
 To a woman than a love that she can count on
 

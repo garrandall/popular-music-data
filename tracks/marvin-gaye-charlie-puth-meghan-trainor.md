@@ -102,7 +102,7 @@ It's Kama Sutra show and tell (yeah)
 Whoa
 There's loving in your eyes
 That pulls me closer
-(Ooh, it pulls me closer)
+(Oh, it pulls me closer)
 It's so subtle
 (It's so subtle)
 I'm in trouble
@@ -127,7 +127,7 @@ I got to have you, babe
 Whoa
 There's loving in your eyes
 That pulls me closer
-(Ooh, it pulls me closer)
+(Oh, it pulls me closer)
 It's so subtle
 (It's so subtle)
 I'm in trouble
@@ -135,7 +135,7 @@ I'm in trouble
 But I'd rather be in trouble with you
 
 Let's Marvin Gaye and get it on
-Ooh, baby, I got that healing that you want, yeah
+Oh, baby, I got that healing that you want, yeah
 Like they say it in the songs
 Until the dawn, let's Marvin Gaye and get it on
 
@@ -149,7 +149,7 @@ Just like they say it in the song
 Until the dawn, let's Marvin Gaye and get it on
 Just like they say it in a song
 Until the dawn, let's Marvin Gaye and get it on
-Ooh
+Oh
 
 
 

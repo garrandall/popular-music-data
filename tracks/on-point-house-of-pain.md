@@ -54,7 +54,7 @@ And Irish laws, stand up for The Cause
 When it's time to rock a funky joint
 I'm on point
 When it's time to rock a funky jam
-I'm the man (4x)
+I'm the man
 
 
 Well it's the D to the A, double N Y BO
@@ -85,7 +85,7 @@ The old rock a loop cause I'm 'Super' like Schneider
 When it's time to rock a funky joint
 I'm on point
 When it's time to rock a funky jam
-I'm the man (4x)
+I'm the man
 
 :
 I'm ill, retarded
@@ -106,4 +106,4 @@ Or like Sadat X said:
 When it's time to rock a funky joint
 I'm on point
 When it's time to rock a funky jam
-I'm the man (4x)
+I'm the man

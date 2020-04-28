@@ -155,9 +155,9 @@ It's too hard to sleep
 I got the sheets on the floor, nothing on me
 And I can't take it no more, it's a hundred degrees
 I got one foot out the door, where are my keys? 'Cause I gotta leave, yeah
-In the back of the cab (ooh)
-I tipped the driver 'head of time, get me there fast (ooh)
-I got your body on my mind, I want it bad (ooh)
+In the back of the cab (oh
+I tipped the driver 'head of time, get me there fast (oh
+I got your body on my mind, I want it bad (oh
 Oh, just the thought of you gets me so high, so high
 
 
@@ -169,16 +169,16 @@ Girl, you're the one I want to want me
 And if you want me, girl, you got me
 There's nothing I, no, I wouldn't do (I wouldn't do)
 Just to get up next to you
-Ooh-ooh-ooh-ooh-ooh-ooh
+Oh-ohoohhoh-ohoh
 Just to get up next to you
-Ooh-ooh-ooh-ooh-ooh-ooh
+Oh-ohoohhoh-ohoh
 Aw yeah
 
 
-You open the door (ooh)
-Wearing nothing but a smile down to the floor (ooh)
-And you whisper in my ear, "Baby, I'm yours" (ooh)
-Ooh, just the thought of you gets me so high, so high
+You open the door (oh
+Wearing nothing but a smile down to the floor (oh
+And you whisper in my ear, "Baby, I'm yours" (oh
+Oh, just the thought of you gets me so high, so high
 
 
 Girl, you're the one I want to want me
@@ -189,14 +189,14 @@ Girl, you're the one I want to want me
 And if you want me, girl, you got me
 There's nothing I, no, I wouldn't do (I wouldn't do)
 Just to get up next to you (yeah)
-Ooh-ooh-ooh-ooh-ooh-ooh
+Oh-ohoohhoh-ohoh
 Just to get up next to you
-Ooh-ooh-ooh-ooh-ooh-ooh
+Oh-ohoohhoh-ohoh
 
 
 Just the thought of you
 Gets me so high, so high
-Ooh, just the thought of you
+Oh, just the thought of you
 Gets me so high, so high
 
 
@@ -208,11 +208,11 @@ Girl, you're the one I want to want me
 And if you want me, girl, you got me (you got me)
 There's nothing I, no, I wouldn't do (I wouldn't do) (wouldn't)
 Just to get up next to you (oh)
-Ooh-ooh-ooh-ooh-ooh-ooh
+Oh-ohoohhoh-ohoh
 I would do anything, just to get up next to you
-Ooh-ooh-ooh-ooh-ooh-ooh
+Oh-ohoohhoh-ohoh
 Anything and everything, just to get up next to you
-Ooh-ooh-ooh-ooh-ooh-ooh
+Oh-ohoohhoh-ohoh
 Baby, just to get up next to you
-Ooh-ooh-ooh-ooh-ooh-ooh
+Oh-ohoohhoh-ohoh
 Oh, get up, get up

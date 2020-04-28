@@ -91,7 +91,7 @@ And feel you, dear
 
 You have touched my heart
 I'm so in love
-You're the only girl I'm thinking of, ooh
+You're the only girl I'm thinking of, oh
 
 I call my baby on the phone
 Got to leave a message

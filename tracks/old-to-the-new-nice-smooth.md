@@ -37,17 +37,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-08-13'
 ---
-Artist: Nice & Smooth
-Album:  Jewel of the Nile
-Song:   Old to the New
-
-Chorus: Repeat 4X
-
 This is how we take
 The old from the new
 The new to the old
 The old from the New
-
 
 And if you pumpin in the BMZ, pump it like this
 You whip it in the BMZ, pump it like this
@@ -70,14 +63,11 @@ Greg N-I chillin with my partner in crime
 Smooth B
 You seen us on MTV
 90, 91, 92, 93
-Uhn, ahh lala wui wui
+Uhn, ah lala wui wui
 Smooth B, uhn if you down with me
 Step on the mic, step on the mic
 Rock on, shock on, get on, get on
 Rock on, rock it to the break of dawn
-
-Chorus
-
 
 Yo, first no one knew that my skill were tight
 That I could rock a mic all long and stay right
@@ -94,10 +84,10 @@ And we can go on
 From night to morn
 Rippin the mic and leave the stage torn
 Never in a scuffle
-Cause i can chill in the Bronx
+Cause I can chill in the Bronx
 And still do the Hollywood Shuffle
 Take it back to the essence
-To the jams in the park, ahh everesence
+To the jams in the park, ah everesence
 Felt like yesterday
 When I was a shorty b-boy around the way
 Cango, nylon, Nike suits and Pumas
@@ -112,5 +102,3 @@ I gotta keep makin papers
 I got no time for no corn ball capers
 So here's a word from the wise
 If you tryin ask me, your in for a big surprise
-
-Chorus

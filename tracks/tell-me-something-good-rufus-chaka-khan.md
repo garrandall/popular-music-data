@@ -134,4 +134,4 @@ Tell me somethin good!(oh baby baby baby yeah!)
 Tell me that you like it yeah!
 Tell me somethin good(Oh! Tell me baby Tell me!)
 Tell me that you love me...Yeah yeah, yeahyeahyeah
-Tell me something good!(ohhhhh tell me tell me tell me...that you like me...yeah)
+Tell me something good!(oh tell me tell me tell me...that you like me...yeah)

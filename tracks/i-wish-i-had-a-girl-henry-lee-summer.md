@@ -95,7 +95,7 @@ Check it out, Leroy
 They breeze by
 
 Wish I had a girl who
-Walked like that, ooh, yeah
+Walked like that, oh yeah
 Wish I had that girl, uh huh
 Wish I had a girl who
 Walked like that, yeah
@@ -119,7 +119,7 @@ Not all it takes to satisfy
 Check it out, Leroy, they breeze by
 
 Wish I had a girl who
-Walked like that, ooh, yeah
+Walked like that, oh yeah
 Wish I had that girl, uh huh
 Hey, wish I had a girl
 Who walked like that, yeah
@@ -130,21 +130,21 @@ Walk her all night long, yeah
 
 Hey, hey, hey
 
-Ooh, yeah (have mercy)
-Mmm, have mercy (ooh, yeah)
+Oh, yeah (have mercy)
+Mmm, have mercy (oh yeah)
 
 I wish I had a (had a, had a)
 I wish I had a (had a, had a)
 I wish I had a girl
 I wish I had that girl
-I wish I had that girl, ooh, yeah
+I wish I had that girl, oh yeah
 
 Lookie there, lookie there
 Lookie there, yeah, wow
 
 Wish I had a girl
 Who walked like that
-Ooh, yeah, yeah, yeah, yeah
+Oh, yeah, yeah, yeah, yeah
 Wish I had that girl, girl ,girl
 
 Wish I had a girl
@@ -159,4 +159,4 @@ Yeah, yeah, yeah, yeah, yeah
 Wish I had a girl
 Who walked like that
 Yeah, yeah, yeah, yeah, yeah
-Wish I had that girl......
+Wish I had that girl...

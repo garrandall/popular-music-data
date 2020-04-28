@@ -89,7 +89,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-12-03'
 ---
-When 'oman waan good love) Hmmmmmm
+When 'oman waan good love) Hm
 (No sympathize)
 ('Oman waan good lovin' every night) Yeah, yeah
 (Right up

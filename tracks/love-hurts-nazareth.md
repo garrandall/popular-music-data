@@ -107,7 +107,7 @@ Not tough or strong enough
 To take a lot of pain, take a lot of pain
 Love is like a cloud
 Holds a lot of rain
-Love hurts...... ooh, ooh love hurts
+Love hurts... oh oohove hurts
 
 I'm young, I know, but even so
 I know a thing or two
@@ -115,7 +115,7 @@ I learned from you
 I really learned a lot, really learned a lot
 Love is like a flame
 It burns you when it's hot
-Love hurts...... ooh, ooh love hurts
+Love hurts... oh oohove hurts
 
 Some fools think of happiness
 Blissfulness, togetherness
@@ -125,16 +125,16 @@ They're not foolin' me
 I know it isn't true, I know it isn't true
 Love is just a lie
 Made to make you blue
-Love hurts...... ooh, ooh love hurts
-Ooh, ooh love hurts
+Love hurts... oh oohove hurts
+Oh ohlove hurts
 
 I know it isn't true, I know it isn't true
 Love is just a lie
 Made to make you blue
-Love hurts...... ooh, ooh love hurts
-Ooh, ooh love hurts
+Love hurts... oh oohove hurts
+Oh ohlove hurts
 
-Ooh, ooh
+Oh oh
 
 
 

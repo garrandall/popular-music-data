@@ -70,7 +70,7 @@ Oh, took me a long time to find it out
 But I think I got it now
 Oh yes I did
 I found out a long time ago
-(One monkey don't stop no show) 
+(One monkey don't stop no show)
 Oh yes I did
 I found out that one monkey
 Just don't stop no show

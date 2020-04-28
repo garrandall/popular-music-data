@@ -147,7 +147,3 @@ In fact I'ma give it to y'all one more time like..
 Uh yeah, what?
 Come on, bounce, what?
 
-
-
-
-

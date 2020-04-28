@@ -82,7 +82,7 @@ No, I'll never love
 
 I don't wanna know this feeling
 Unless it's you and me
-I don't wanna waste a moment, ooh
+I don't wanna waste a moment, oh
 And I don't wanna give somebody else the better part of me
 I would rather wait for you
 Hoooo ouuu
@@ -108,4 +108,4 @@ I'll never love again
 I'll never love
 Again
 Who oo oo oo oo
-Hmmm
+Hm

@@ -58,7 +58,7 @@ Obscure but approved experience
 
 So the truth can't be denied
 Though sometimes I have tried
-Ooh, the blast from the looking glass
+Oh the blast from the looking glass
 Say na na na na na na
 Dancing with my mirror
 Dancing, bring me nearer to you

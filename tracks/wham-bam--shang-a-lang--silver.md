@@ -98,7 +98,7 @@ I always thought that love should be that way
 Then comes a time that you're ridden with doubt
 You've loved all you can, now you're all loved out
 
-Ooh, ooh, baby, we've been a long, long way
+Oh oh baby, we've been a long, long way
 And who's to say where we'll be tomorrow?
 Well, my heart says no but my mind says it's so
 That we gotta love, is it a love to stay?
@@ -113,7 +113,7 @@ I think a little emotion goes a long, long way
 Careful, now, you don't get caught in your dreams
 Look out, baby, this is not what it seems
 
-Ooh, ooh, baby, you've been so good to me
+Oh oh baby, you've been so good to me
 But please don't make it what it's not
 Well, I thought we agreed on what we need
 So, listen to me, I'll tell you what we've got

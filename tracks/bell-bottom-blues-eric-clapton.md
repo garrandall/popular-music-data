@@ -47,16 +47,10 @@ The way that you treat me baby
 Once I was strong but I lost the fight
 You won't find a better loser
 
-
-
-
 Bell bottom blues, don't say goodbye
 I'm sure we're going to meet again
 And if we do, don't you be surprised
 If you find me with another lover
-
-
-
 
 I don't want to fade away
 Give me one more day please

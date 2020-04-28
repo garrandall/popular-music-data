@@ -26,8 +26,8 @@ rankings:
 ---
 (Guitar riff)
 
-Ba da da.....ba da da
-Ba da da.....ba da da da
+Ba da da...ba da da
+Ba da da...ba da da da
 
 Well, I'm the son of a traveling man
 And though I'm partially shackin'

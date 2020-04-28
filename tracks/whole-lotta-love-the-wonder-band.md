@@ -81,7 +81,7 @@ Shake for me, girl
 I wanna be your backdoor man
 
 Hey, oh, hey, oh
-Hey, oh, oooh
+Hey, oh, oh
 Oh, oh, oh, oh
 Hoo-ma, ma, hey
 Keep a-cooling, baby

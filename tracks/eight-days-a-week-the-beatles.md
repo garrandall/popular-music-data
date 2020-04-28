@@ -48,7 +48,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-04-24'
 ---
-Ooh, I need your love, babe
+Oh, I need your love, babe
 Guess you know it's true
 Hope you need my love, babe
 Just like I need you
@@ -78,7 +78,7 @@ Eight days a week
 Is not enough to show I care
 
 
-Ooh I need your love, babe
+Oh I need your love, babe
 Guess you know it's true
 Hope you need my love, babe
 Just like I need you

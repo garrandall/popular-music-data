@@ -136,9 +136,6 @@ Want me here Monday to Monday
 Then baby girl its fine
 As you screaming more..
 
-
-
-
 Girl we'll be going
 From the bed to the floor baby
 (then we'll be going)

@@ -51,7 +51,7 @@ Party's still going strong
 There's a conversation over in the corner
 And dancin' on the lawn
 
-Ooh, and the music is groovin'
+Oh, and the music is groovin'
 Everybody's getting down in their stocking feet, yeah
 Sleepy eyes are peepin'
 Through the window from across the street
@@ -60,7 +60,7 @@ And it looks like daylight
 Gonna catch me up, gonna catch me up again
 People are getting up,
 We're just getting in
-Ooh, but that's the only, only time
+Oh, but that's the only, only time
 When me and my sweet baby can unwind
 
 And I swore to myself, yes I did
@@ -90,7 +90,7 @@ Daylight, gonna catch me up again
 Daylight, gonna catch me up, gonna catch me up
 Daylight, gonna catch me up again
 
-Ooh, and it looks like daylight, say what?
+Oh, and it looks like daylight, say what?
 Gonna catch me up, gonna catch me up again
 People are getting up,
 We're just getting in
@@ -111,7 +111,7 @@ Oh, and it looks like daylight, say what?
 Gonna catch me up, gonna catch me up again
 People are getting up,
 We're just getting in
-Ooh but that's the only, only time
+Oh but that's the only, only time
 When me and my baby get a chance to unwind
 
 Daylight, gonna catch me up, gonna catch me up

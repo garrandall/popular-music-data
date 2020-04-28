@@ -42,8 +42,8 @@ The postman came today
 Another letter from the U.S.A
 That makes it four this week
 Just put it down with the rest of the heap
-Ooh my friend, she sure has got it bad
-Ooh my friend, you're the first big love she's had
+Oh my friend, she sure has got it bad
+Oh my friend, you're the first big love she's had
 She loves to be in love
 She don't care if you're not there, she can make it alone
 She loves to be in love
@@ -52,8 +52,8 @@ Doesn't seem to matter at all
 That you haven't written and you haven't called
 She seems quite happy, so leave it that way
 'Cause tell the truth you got nothing to say to her
-Ooh my friend, she sure has got it bad
-Ooh my friend, you're the first big love she's had
+Oh my friend, she sure has got it bad
+Oh my friend, you're the first big love she's had
 She loves to be in love
 She don't care if you're not there, she can make it alone
 She loves to be in love
@@ -66,8 +66,8 @@ She writes she's counting the days
 'Til you're back in the U.S.A
 She hopes you're feeling fine
 And she wants you to drop a few Lines to her
-Ooh my friend, she sure has got it bad
-Ooh my friend, you're the first big love she's had
+Oh my friend, she sure has got it bad
+Oh my friend, you're the first big love she's had
 She loves to be in love
 She don't care if you're not there, she can make it alone
 She loves to be in love

@@ -116,9 +116,9 @@ Tell me it's not just a dream
 And if it is my heart believes
 That you are mine and this is real, this is real, oh...oh...
 
-(Kissing you) Ooh...ooh...ooh...ooh...
+(Kissing you) Oh...oh...oohohoh
 My baby
-(Share my life) Ooh, lady, let me show you that, let me show you that I love you
+(Share my life) Oh, lady, let me show you that, let me show you that I love you
 
 (Kissing you) Yes, I do
 So do it for me and I'll do it for you, honey

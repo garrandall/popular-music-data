@@ -54,9 +54,9 @@ Honey bees flying
 All around her head
 Candy
 Candy
-Ooh, wee
+Oh wee
 She's got a heart so warm
-Ooh, wee
+Oh wee
 She's like a lucky charm
 She's got eyes so bright
 Sky blue

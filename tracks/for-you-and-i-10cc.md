@@ -20,9 +20,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-02-17'
 ---
-The world is full of other people (ooh ooh)
+The world is full of other people (oh oh)
 Take a look around
-We're quick to laugh when they've got troubles (ooh ooh)
+We're quick to laugh when they've got troubles (oh oh)
 And we put 'em down
 We go
 We're not so hot you know
@@ -39,9 +39,9 @@ Don't pass her by
 The world of wisdom behind her eye
 Could answer everything
 But you and I
-We seem to wander in a daydream (ooh ooh)
+We seem to wander in a daydream (oh oh)
 We never look around
-The world is full of other people (ooh ooh)
+The world is full of other people (oh oh)
 And we put 'em down
 We go
 We're not so hot you know
@@ -62,9 +62,9 @@ But you and I
 Should try to see it from the other side, mmm, mmm
 We'll get a shock
 It could surprise you
-The world is full of other people (ooh ooh)
+The world is full of other people (oh oh)
 Take a look around
-We set the pace while others listen (ooh ooh)
+We set the pace while others listen (oh oh)
 Never make a sound
 The rain must fall
 But we can change

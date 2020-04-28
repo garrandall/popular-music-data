@@ -71,7 +71,7 @@ Now come on and rock me, rock me
 
 Mh, come on and rock me, come on and shock me
 All right now, roll me
-Come on and squeeze me, ooh, you sure can please me, uh-uh
+Come on and squeeze me, oh, you sure can please me, uh-uh
 All right now, get down
 
 Hoo, rock me baby, let me feel that beat ...

@@ -111,7 +111,7 @@ What is your set, nigga? What is you claimin'?
 I am a beast, you cannot tame it
 Don't point a finger, this shit can get dangerous
 These niggas hatin', these niggas plottin'
-Ooh, he got money, I'm runnin' his wallet
+Oh he got money, I'm runnin' his wallet
 You say you a killer, lil' nigga, stop it
 In a shootout, your gun was droppin'
 You really a fraud, you cannot stomp on this yard

@@ -87,11 +87,6 @@ And I have hated
 Taken for granted
 A woman's love
 
-
-
-
-
-
 Well I have needed
 And I have pleaded
 And I have lost
@@ -99,11 +94,6 @@ A woman's love
 And I have worshipped
 And I have cursed it
 A woman's love
-
-
-
-
-
 
 Well I adore it
 And thank God for it

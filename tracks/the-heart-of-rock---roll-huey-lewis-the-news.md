@@ -94,7 +94,7 @@ And no place that I'd rather be
 Where else can you do a half a million things
 All at a quarter to three
 
-When they play their music, ooh that modern music
+When they play their music, ohthat modern music
 They like it with a lot of style
 But it's still that same old back beat rhythm
 That really really drives 'em wild
@@ -112,7 +112,7 @@ All dressed so scantily
 When they play their music, that hard rock music
 They like it with a lot of flash
 But it's still that same old back beat rhythm
-That really kicks 'em in the....
+That really kicks 'em in the...
 
 They say the heart of rock and roll is still beating
 And from what I've seen I believe 'em
@@ -131,7 +131,7 @@ Now the old boy may be barely breathing
 But the heart of rock and roll, heart of rock and roll is still beating
 
 In Cleveland
-Detroit!!
+Detroit!
 Huh, heart of rock and roll
 
 

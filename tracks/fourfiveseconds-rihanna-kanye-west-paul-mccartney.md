@@ -102,7 +102,7 @@ Now I'm four, five seconds from wildin'
 And we got three more days 'til Friday
 I'm just tryna make it back home by Monday mornin'
 I swear I wish somebody would tell me
-Ooh, that's all I want
+Oh, that's all I want
 
 
 Woke up an optimist
@@ -117,7 +117,7 @@ Yeah, 'bout four, five seconds from wildin'
 And we got three more days ‘til Friday
 I’m tryna make it back home by Monday mornin'
 I swear I wish somebody would try me
-Ooh, that’s all I want
+Oh, that’s all I want
 
 
 And I know that you're up tonight
@@ -143,7 +143,7 @@ Now I'm four, five seconds from wildin'
 And we got three more days 'til Friday
 I'm tryna make it back home by Monday mornin'
 I swear I wish somebody would tell me
-Ooh, that's all I want
+Oh, that's all I want
 
 Four, five seconds from wildin'
 And we got three more days 'til Friday

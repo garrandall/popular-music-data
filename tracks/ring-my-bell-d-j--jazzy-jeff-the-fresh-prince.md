@@ -112,7 +112,7 @@ Cause you're a princess baby and you deserve a prince
 Why can't you see it, it's plain as day right here before your eyes
 I'm telling the truth while your man insists on telling you lies
 He stays out all night but I'd be home by 8
-And oh and about loving, hmm it's grrrrrrreat
+And oh and about loving, hm it's grrrrrrreat
 I don't mean to insult your man up
 But I'm trying to plan the
 Rest of our lives together forever and ever
@@ -130,7 +130,7 @@ Ding dong ding, hey-hey, ring it
 You can ring my bell, anytime, anyplace
 Ring it (you)
 Ring it (you)
-Ring it, ring it Ahhh
+Ring it, ring it Ah
 
 
 Open up your mind and you can see that I'm

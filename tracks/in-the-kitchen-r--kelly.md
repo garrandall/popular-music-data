@@ -31,7 +31,7 @@ rankings:
 Girl, you're in the kitchen, cooking me a meal
 Something makes me wanna come in there and get a feel
 Walk around in your T-shirt, with nothing else on
-Strutting past, switching that ass, while I'm on the phone, ooh
+Strutting past, switching that ass, while I'm on the phone, oh
 
 
 Cutting up tomatoes

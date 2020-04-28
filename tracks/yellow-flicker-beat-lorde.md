@@ -54,7 +54,7 @@ And my necklace is of rope, I tie it and untie
 
 And now people talk to me, but nothing ever hits home
 People talk to me, and all the voices just burn holes
-I'm done with it (ooh)
+I'm done with it (oh)
 
 
 This is the start of how it all ends
@@ -71,7 +71,7 @@ And now people talk to me, I'm slipping out of reach now
 People talk to me, and all their faces blur
 But I got my fingers laced together and I made a little prison
 And I'm locking up everyone who ever laid a finger on me
-I'm done with it (ooh)
+I'm done with it (oh)
 
 
 

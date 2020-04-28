@@ -120,7 +120,7 @@ If I ever get out of here
 If I ever get out of here
 I'm goin to Katmandu
 
-Ooh ooh ooh, ooh yeah
+Oh oh oh, oh yeah
 
 Katmandu
 Katmandu

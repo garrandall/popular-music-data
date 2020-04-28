@@ -41,7 +41,7 @@ You're the lady that I love
 I'm the lady, the lady who
 You're the little lady
 I'm the little lady
-Ooh
+Oh
 
 I love your touch
 Thank you so much
@@ -59,7 +59,7 @@ You're the fella that rocks me
 Rockefella, Rockefella
 You're my Rockefella
 I'm you're Rockefella
-Ooh
+Oh
 
 I love your face
 It's in the right place
@@ -78,7 +78,7 @@ You're the fella that rocks me
 Rockefella, Rockefella
 You're my Rockefella
 You're my Cinderella
-Ooh
+Oh
 
 I love you, I love you
 I love you, I love you

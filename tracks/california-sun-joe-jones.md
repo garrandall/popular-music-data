@@ -27,28 +27,28 @@ They walk that walk
 They talk that talk
 They twist a-like this
 They shimmy
-A-don't you hear me?
+Don't you hear me?
 Yes, they're out there having fun
 In the warm California sun
 
 The girls are frisky in old Frisco
-A pretty little miss-a wherever you go
+A pretty little miss wherever you go
 
 They walk that walk
 They talk that talk
-They twist a-like this
+They twist like this
 They shimmy
-A-don't you hear me?
+Don't you hear me?
 Yes, they're out there having fun
 In the warm California sun
 
-The girls are pretty in-a old L.A
+The girls are pretty in old L.A
 And the good sunshine keep them all that way
 
 They walk that walk
 They talk that talk
-They twist a-like this
+They twist like this
 They shimmy
-A-don't you hear me?
+Don't you hear me?
 Yes, they're out there having fun
 In the warm California sun

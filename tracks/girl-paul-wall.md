@@ -97,9 +97,6 @@ I gave you e'rythang, aimin to please
 But I guess it wasn't enough, cause now you ready to leave
 But don't go baby
 
-
-
-
 What it do baby, don't leave me hangin baby
 I know you feelin this, I'm just sayin though
 I know you hearin me, so don't do it baby
@@ -122,9 +119,6 @@ I'm on the grind hustlin, stackin my cash
 But you just thank I'm in the streets chasin after some ass
 Tryin to break that bread, I'm tryin to get that cake
 But you complainin talkin 'bout you fin' to skate, baby what it do
-
-
-
 
 I'm tryin to tell you 'bout your friends hatin
 While they be over there complainin I'm just on my grind paper chasin

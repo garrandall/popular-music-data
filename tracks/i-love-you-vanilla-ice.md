@@ -67,7 +67,6 @@ Every sunset makes me think of you
 And I'll never forget what you mean to me
 Comin' straight from the heart of vanilla I-C-E
 
-Chorus
 
 
 Hello girl, when I first saw you, it was love at first sight. We've been goin' out now for about two years and I still feel the same

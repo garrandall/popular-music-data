@@ -72,9 +72,6 @@ And we riding the Lex, Coupe, Beamers and the Benz
 All over the world from the East to the West coast making ends
 See, we do it
 
-
-
-
 The show is what we live for cause we love to sing
 We gonna freak you up and down, it's how we do our thing
 And to the ladies in the house tonight
@@ -86,9 +83,6 @@ We'll be sipping on Champagne when we chill
 And we're riding in the Lex, Coupe, Beamer and the Benz
 All the players from the East to the West Coast, we're making ends
 This is why we do it
-
-
-
 
 Why we sing? Why we sing?
 It's the joy it brings, joy it brings

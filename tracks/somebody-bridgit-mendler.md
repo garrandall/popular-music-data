@@ -86,4 +86,4 @@ Someway, somebody
 
 
 Somebody
-Ooh, ooh, oh
+Oh, oh, oh

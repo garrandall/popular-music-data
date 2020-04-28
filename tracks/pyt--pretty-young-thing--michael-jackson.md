@@ -74,11 +74,11 @@ rankings:
 ---
 You know you, you make me feel so good inside
 I always wanted a girl just like you
-Such a P.Y.T., Pretty Young Thing, ooh
+Such a P.Y.T., Pretty Young Thing, oh
 
 
 Where did you come from lady?
-And ooh won't you take me there
+And oh won't you take me there
 Right away won't you baby?
 Tenderoni, you've got to be
 Spark my nature, sugar fly with me
@@ -92,14 +92,14 @@ I want to love you (P.Y.T.)
 Pretty young thing
 You need some loving (T.L.C.)
 Tender love and care
-And I'll take you there, girl, ooh-oh
+And I'll take you there, girl, oh-oh
 I want to love you (P.Y.T.)
 Pretty young thing
 You need some loving (T.L.C.)
 Tender love and care
 And I'll take you there
 (Anywhere you want to go)
-Yes, I will, ooh
+Yes, I will, oh
 
 
 Nothing can stop this burning desire to be with you
@@ -147,18 +147,18 @@ I want to love you (P.Y.T.)
 Pretty young thing
 You need some loving (T.L.C.)
 Tender love and care
-And I'll take you there, take you there, hoo-ooh
+And I'll take you there, take you there, hoo-oh
 
 
-Hoo-ooh! (I want to love, you P.Y.T., P.Y.T.)
+Hoo-oh! (I want to love, you P.Y.T., P.Y.T.)
 Oh, baby (I want to give, you T.L.C., T.L.C)
 Oh, baby
-Hold on, ooh-ooh
+Hold on, oh-oh
 I want to love, you P.Y.T., P.Y.T
 I want to give, you T.L.C., T.L.C
 You're such a P.Y.T. to me, pretty young thing
 Oh baby, oh baby, hold on
 I want to love, you P.Y.T., P.Y.T. (oh, baby)
-I want to give, you T.L.C., T.L.C (you can be, ooh)
+I want to give, you T.L.C., T.L.C (you can be, oh)
 I just wanna love you, you know?
 Ha-ha-ha, I'll give you all that I got

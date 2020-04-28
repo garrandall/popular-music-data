@@ -43,15 +43,15 @@ Plus the game is in my pocket, nigga this is what I does
 I'm about whatever man
 Fuck what they be talking about,
 They opinion doesn't count,
-We the only thing that matters (oooh)
+We the only thing that matters (oh
 So we do it how we do it
 All up in your face, man, I hate to put you through it
 I be up all night
 Whole crew's in here
-Cause I don't really know who Imma lose this year (oooh)
+Cause I don't really know who Imma lose this year (oh
 Man I love my team
 Man I love my team
-I would die for them niggas (oooh)
+I would die for them niggas (oh
 
 
 Yo, if Drizzy sayin' get her Imma get her
@@ -77,15 +77,11 @@ Young Money till the death of me
 
 
 I mean we can even rock them shoes if it don't got a comma on the price tag, you know
-I mean, I mean but then again who ..who..who looks at the price tag, you know
+I mean, I mean but then again who ..who...who looks at the price tag, you know
 
 
 Oh yeah we in this bitch
 Oww, oww, oww
 Oh yeah we in this bitch
 Oww, oww, oww
-
-
-
-
 

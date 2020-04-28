@@ -109,7 +109,6 @@ Lets Get It
 
 Let It Rain. And Clear It Out
 A Let It Rain.
-(DJ Webstar)
 And Clear It Out
 
 Chicken Noodle Soup
@@ -168,7 +167,7 @@ And Clear It Out (The Voice)
 I Was On 114th At The Kingdom Game
 Ag On The Mike Doing His Thing.
 Walked In The Park, The Screaming Ma Name
-Stop.....! Now Look At The Chain.
+Stop... Now Look At The Chain.
 
 (Young B)
 Let It Rain.
@@ -191,8 +190,6 @@ A Let It Rain. And Clear It Out
 A Let It Rain. And Clear It Out
 A Let It Rain. And Clear It Out
 A Let It Rain. And Clear It Out
-
-DJ WEBSTAR
 
 And Lets Get It
 Lets Get It

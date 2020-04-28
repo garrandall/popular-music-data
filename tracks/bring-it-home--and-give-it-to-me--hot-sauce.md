@@ -80,7 +80,7 @@ Give it to me
 (Give it to me)
 Hurry up
 (Hurry up)
-Lay it on me, ooh, lay it on me (Lay it on me)
+Lay it on me, oh lay it on me (Lay it on me)
 Runnin' blind throughout the world
 I've lost the sweetest man I've ever seen
 Oh, baby

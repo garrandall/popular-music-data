@@ -75,7 +75,3 @@ Before I dry the tears she's crying
 Before I watch your sea birds flying in the sun
 At Galveston, at Galveston
 
-
-
-
-

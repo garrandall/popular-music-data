@@ -146,7 +146,7 @@ I guess (Guess I) I'm in love
 Well, I'm willing to forgive you but I can't forget
 (Oh, baby, I'm in love, I'm in love, I'm in love, I'm in love)
 'Cause you really, really, really, really hurt me this time
-(Ooh, you really hurt me this time, baby)
+(Oh, you really hurt me this time, baby)
 And I guess I can go on although I must admit (Although I must admit)
 I've been busy, busy, busy, busy thinking that I'm gonna mess around some time
 (I'm gonna mess around some time)
@@ -164,7 +164,7 @@ I guess I...I'm in love
 
 Well, I'm willing to forgive you but I can't forget
 'Cause you really, really, really, really hurt me this time
-(Ooh, oh, baby, you hurt me, you hurt me)
+(Oh, oh, baby, you hurt me, you hurt me)
 And I guess I can go on although I must admit
 I've been busy, busy, busy, busy thinking that I'm gonna mess around some time
 

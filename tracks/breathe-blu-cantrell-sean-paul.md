@@ -102,7 +102,7 @@ Now you try and pull that got me acting shady
 
 
 You say you love, say you love me
-But you’re never there for me, yeah, mmm...hmm...
+But you’re never there for me, yeah, mmm...hm...
 You’ll be crying, slowly dying
 When I decide to leave, oh, oh
 
@@ -134,7 +134,7 @@ Ain’t got a ride or no loot, yeah, uh-huh
 Then comes the drama
 Some other girl is claiming she’s going out with you
 
-Hmm...hmm...
+Hm...hm...
 
 All we do is make up
 Then break up
@@ -169,7 +169,7 @@ Who would u want
 For real you make me know and
 I will be there for you
 But me know i'm not a fear to you
-Stand up like a man and not be there cuz i care for you
+Stand up like a man and not be there cuz I care for you
 Long time telling you
 No other girl can compare to you
 Woman if you leave me now
@@ -178,7 +178,7 @@ Say you want to breathe
 I'm still not i'm exhaling
 Say you want to leave cuz this relationship failing
 Ain't nobody say that it would be smooth sailing
-Girl i wanna know why your bailing
+Girl I wanna know why your bailing
 
 So what's that supposed to be about baby?
 Ya'll free up your mind and stop acting crazy

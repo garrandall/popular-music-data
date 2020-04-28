@@ -144,7 +144,7 @@ Nothing's gonna stop us
 Nothing's gonna stop us
 
 
-Ooh, all that I need is you
+Oh, all that I need is you
 All that I ever need
 And all that I want to do
 Is hold you forever and ever and ever, hey
@@ -172,7 +172,7 @@ Nothing's gonna stop us
 And we can build this dream together (Hey baby)
 Standing strong forever (I know)
 Nothing's gonna stop us now (Hey baby, nothing's gonna stop us)
-If this world runs out of lovers (Hey baby, ooh)
+If this world runs out of lovers (Hey baby, oh)
 We'll still have each other (Nothing's gonna)
 Nothing's gonna stop us (Hey baby, nothing's gonna stop us now, yeah)
 And we can build this dream together

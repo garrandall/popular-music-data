@@ -63,7 +63,7 @@ When you're walkin' out on the street
 And the wind catches your feet
 Sends you flyin', cryin'
 Ooo-woo-wee, wild night is calling
-Ooo-ooh-wee, wild night is calling
+Ooo-ohwee, wild night is calling
 
 
 All the girls walk by, dressed up for each other
@@ -77,7 +77,7 @@ When you're walkin' out on the street
 And the wind catches your feet
 Sends you flyin', cryin'
 Ooo-woo-wee, wild night is calling
-Ooo-ooh-wee, wild night is calling
+Ooo-ohwee, wild night is calling
 The wild night is calling
 The wild night is calling
 

@@ -49,4 +49,4 @@ I wish I had a magic wand
 You would be the
 First one that I run to
 You would love me like I love you
-If I had a magic wand, ooh
+If I had a magic wand, oh

@@ -181,7 +181,7 @@ I won't waste your time
 (I sense something divine in you)
 Something divine in you
 (Yes I do)
-Oooh-hoo
+Oh-hoo
 
 
 So let it whip
@@ -211,7 +211,7 @@ I won't waste your time
 (I sense something divine in you)
 Something divine in you
 (Yes I do)
-Oooh-hoo
+Oh-hoo
 
 
 So let it whip

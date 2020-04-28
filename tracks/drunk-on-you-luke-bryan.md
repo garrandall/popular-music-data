@@ -113,7 +113,7 @@ Get the party started
 
 Girl, you make my speakers go boom boom
 Dancin' on the tailgate in a full moon
-That kinda thing makes a man go mmm hmmm
+That kinda thing makes a man go mmm hm
 You're lookin' so good in what's left of those blue jeans
 Drip of honey on the money maker gotta be
 The best buzz I'm ever gonna find
@@ -131,7 +131,7 @@ Good God almighty
 
 Girl, you make my speakers go boom boom
 Dancin' on the tailgate in a full moon
-That kinda thing makes a man go mmm hmmm
+That kinda thing makes a man go mmm hm
 You're lookin' so good in what's left of those blue jeans
 Drip of honey on the money maker gotta be
 The best buzz I'm ever gonna find
@@ -146,7 +146,7 @@ We'll take it off on out in the water
 
 Girl, you make my speakers go boom boom
 Dancin' on the tailgate in a full moon
-That kinda thing makes a man go mmm hmmm
+That kinda thing makes a man go mmm hm
 You're lookin' so good in what's left of those blue jeans
 Drip of honey on the money maker gotta be
 The best buzz I'm ever gonna find

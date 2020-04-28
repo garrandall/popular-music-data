@@ -138,9 +138,6 @@ Will it all remain the same?
 Will you ever take me? No, I just can't take the pain
 Would you ever trust me? No, I'll never feel the same
 
-
-
-
 I know I been so hard on you
 I know I told you lies
 If I could have just one more wish

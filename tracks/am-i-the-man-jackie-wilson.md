@@ -58,7 +58,7 @@ Am I the man (yes you're the man)
 
 You ought a be a-here a-lettin' me know
 You ought a be a-here to tell me so
-You ought a be here, ooo it's true
+You ought a be here, oo it's true
 That I'm the only one for you
 And baby tell me once again, oh-a-huh
 Am I the man (yes you're the man)
@@ -74,7 +74,7 @@ Are drivin me wild but oh
 I gonna wait until you're in my arms
 I'm gonna wait until I have your charms
 I'm gonna wait until you come to me
-And we'll make a love a like a ooo-wee
+And we'll make a love a like a oo-wee
 And baby tell me once again, a-huh-huh
 Am I the man (yes, you're the man)
 

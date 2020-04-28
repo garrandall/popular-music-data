@@ -94,7 +94,7 @@ Love
 Things I used to do, I don?t do no more
 Places I used to go, I don?t go no more
 Ever since you came along, you gave my heart a brand new song
-And, ooh, a sweet love song and I wanna thank you for
+And, oh a sweet love song and I wanna thank you for
 
 Everlasting love
 (Everlasting love)
@@ -119,10 +119,10 @@ Everlasting love
 Everlasting love
 (I know your love will last forever and ever)
 
-(Ooh, ooh, ooh, ooh)
+(Oh, oh oohohoh
 Everlasting love
 (The kind of love that won?t ever die)
 (Hoo, hoo, hoo, hoo, hoo)
-(Ooh, ooh, ooh, ooh, ooh, ooh)
+(Oh, oh oohohohh,oh)oh
 Everlasting love
 (No, no, no, no, no, never, never)

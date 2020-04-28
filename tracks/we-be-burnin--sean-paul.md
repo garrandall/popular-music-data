@@ -146,10 +146,10 @@ Everyday...
 
 We be burnin' not concernin' what nobody wanna say.
 We be earnin' dollars turning 'cause we mind de pon we pay.
-More than gold and oil and diamonds - girls, we need dem everyday 
-Some got gold and oil and diamonds - all we got is Mary J 
-Recognize it, we pimpin' as we riding 
-Legalize it, time to recognise it 
+More than gold and oil and diamonds - girls, we need dem everyday
+Some got gold and oil and diamonds - all we got is Mary J
+Recognize it, we pimpin' as we riding
+Legalize it, time to recognise it
 
 
 Girls them a page me waan fi raise me
@@ -173,20 +173,9 @@ Just gimme di light
 An make we blaze it the roof we haffi raise it again
 
 
-
-
-
-
-
 Everyday...
 
 
 
 Again...
-
-
-
-
-
-
 

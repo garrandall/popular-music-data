@@ -76,7 +76,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-07-07'
 ---
-Ooooh, yeah
+Oh, yeah
 
 
 There goes my old girlfriend
@@ -132,7 +132,7 @@ Tell me that my loving didn't mean that much
 Tell me you aren't dying when you're crying for me
 
 
-Tell me what it takes to let you go (Ooh)
+Tell me what it takes to let you go (Oh
 Tell me how the pain's supposed to go (Oh yeah)
 Tell me how it is that you can sleep in the night
 Without thinking you lost everything that was

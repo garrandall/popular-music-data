@@ -52,7 +52,7 @@ Bitch, aye, I heard you comin' in I was lying there, awake
 Didn't know that it was you, got the gun right out the safe (Damn)
 Remember when you got my ass arrested? (Wow)
 At least when I was in jail, I got some rest in
-Ooh, I surrender, time to forget you
+Oh, I surrender, time to forget you
 I'm too tired to forgive you, it's too hard on my liver
 And you know it's all over now
 All your friends, you know, they sold you out

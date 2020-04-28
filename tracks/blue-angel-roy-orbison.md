@@ -71,7 +71,7 @@ Dum dum dum, yeh yeh um
 
 Oh, blue angel, don't you cry
 Just because he said goodbye
-Oh, ahh ahh ahh
+Oh, ah ah ah
 No, don't cry.
 
 Oh, blue angel, have no fear

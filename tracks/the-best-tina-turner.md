@@ -111,9 +111,6 @@ Tear us apart? No, no!
 Baby, I would rather be dead
 You're the best
 
-
-
-
 You're simply the best
 Better than all the rest
 Better than anyone, anyone I ever met

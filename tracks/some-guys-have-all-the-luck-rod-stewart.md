@@ -92,7 +92,6 @@ says she loves you
 It seem so unfair when there's love everywhere
 but there's none for me
 
-(Chorus)
 
 Someone to take on a walk by the lake
 Lord let it be me
@@ -103,7 +102,6 @@ she was fooling me
 You're just a dream and as real as it seems
 I ain't that lucky
 
-(Chorus)
 
 All of my friends have a ring on their finger
 They have someone
@@ -115,7 +113,6 @@ There's help on the way
 I called you collect you didn't accept
 You had nothing to say
 
-(Chorus)
 
 But if you were here with me
 I'd feel so happy I could cry

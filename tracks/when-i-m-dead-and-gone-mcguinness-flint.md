@@ -79,12 +79,12 @@ I don't want nobody to mourn beside my grave
 Ohohoho, when I'm dead, when I'm dead and gone
 (Don't want nobody) I don't want nobody to mourn
 
-Ohoho, oooh, lalala, oooh
-Oooh, lalala
-Oooh, lalala, hey
-Oooh, lalala
+Ohoho, oh, lalala, oh
+Oh, lalala
+Oh, lalala, hey
+Oh, lalala
 
-Ohoho, oooh, lalala, oooh
-Oooh, lalala
-Oooh, lalala
-Oooh, lalala
+Ohoho, oh, lalala, oh
+Oh, lalala
+Oh, lalala
+Oh, lalala

@@ -65,7 +65,6 @@ When I was young they use to call me Freddie-burn-mics
 But now they call me big Foxx, daddy boot-knocks
 With burn marks on my hips from my twin glocks
 
-Chorus
 
 (Queen Latifah) I got flava for days (KRS-One) Flava unit has a title Repeats four times
 Roll With the Flava
@@ -77,7 +76,7 @@ I got the skills to blast you off the mic and out of rhymes
 Now who the hell-am-I-a?
 The L-A-T-I-F-A-H the motherfuckin sire
 I come in on time
-You wear a silly grin we like we do when niggaz in
+You wear a silly grin we like we do when niggas in
 We gotta practice so scalp the hairs off your chinny-chin-chin
 The Flava Unit's got my back, so I'm quick to start shit
 Get the short end of a bat, cause we beat him broken sticks
@@ -93,17 +92,16 @@ Some think they're big, but the heavster is bigger
 The funky flip-flop flava unit, my hip-hop neigbor doin it
 Came to the studio, check my flow, and ran right through it
 I bet you thought I wouldn't come, I came
-I'm never done till I'm done rippin drums like a shotgun, ohh!
+I'm never done till I'm done rippin drums like a shotgun, oh!
 
-Chorus
 
 Verse Six: D-Nice
 
-Now ladies, what's my name? (aaah)
+Now ladies, what's my name? (ah)
 That means it's time to go
 I'm the same muuuhfucker from it's time to flow, so
 Some might have dissed the way I flow it out
-Niggaz need to throw it out
+Niggas need to throw it out
 Simply cause it's somethin you don't know about
 So watch the Nice man shake the ground
 And now I'm Rollin with the Flava cause
@@ -133,4 +131,3 @@ If a Queen has the balls my lady is a King
 So long live the King, and love to my Unit
 Spoon it and you'll croon it, diss it, and yo balloon it
 
-Chorus

@@ -120,7 +120,7 @@ And so I surrended just to hear your voice
 I know how many times I said I'm gonna to live with out you
 and maybe someone else is standing there beside you
 But there is something baby that you need to know
-That deep inside me i feel like I'm dying
+That deep inside me I feel like I'm dying
 I have to see you it's all that I'm asking
 
 Vida, give me back my fantasies,

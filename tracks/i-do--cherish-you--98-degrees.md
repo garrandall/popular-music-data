@@ -120,7 +120,3 @@ In a world torn by change
 Still with all of my heart
 'Til my dying day
 
-
-
-
-

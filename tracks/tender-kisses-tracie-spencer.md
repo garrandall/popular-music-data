@@ -129,11 +129,6 @@ As I trust in you
 Put our hearts together
 There's nothing we can't do
 
-
-
-
-
-
 I wonder if you ever loved me
 Tell me, was I so blind
 That I could not see

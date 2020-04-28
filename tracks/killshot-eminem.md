@@ -70,7 +70,7 @@ Say you got me in a scope, but you grazed me
 I say one call to Interscope and you're Swayze
 Your reply got the crowd yelling, "Woo!"
 So before you die let's see who can out-petty who
-With your corny lines ("Slim, you're old")—ow, Kelly, ooh
+With your corny lines ("Slim, you're old")—ow, Kelly, oh
 But I'm 45 and I'm still outselling you
 By 29, I had three albums that had blew
 Now let's talk about somethin' I don't really do

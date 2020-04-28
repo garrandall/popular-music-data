@@ -34,7 +34,7 @@ In the wonderful world
 Of the young
 
 In the wonderful world
-Of the young, mmmm
+Of the young, mmm
 In the wonderful world
 Of the young
 

@@ -79,13 +79,13 @@ Hoy salió con su amiga dizque pa' matar la tusa (Ah; tusa)
 Que porque un hombre le pagó mal (Ah)
 Está dura y abusa (Eh)
 Se cansó de ser buena
-Ahora es ella quien los usa (Hmm-mm)
+Ahora es ella quien los usa (Hm-mm)
 Que porque un hombre le pagó mal (Mal)
 Ya no se le ve sentimental (-tal)
 Dice que por otro man no llora, no (Llora)
 
 
-Pero si le ponen la canción (Hmm)
+Pero si le ponen la canción (Hm)
 Le da una depresión tonta (Tonta)
 Llorando lo comienza a llamar
 Pero él la dejó en buzón (No)
@@ -111,7 +111,7 @@ It's me and Karol G, we let them rats talk
 Don't run up on us, 'cause they lettin' the MACs off (Rrr!)
 
 
-Pero si le ponen la canción (Hmm)
+Pero si le ponen la canción (Hm)
 Le da una depresión tonta (Tonta)
 Llorando lo comienza a llamar
 Pero él la dejó en buzón (No)

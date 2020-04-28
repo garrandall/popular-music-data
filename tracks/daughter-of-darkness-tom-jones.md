@@ -78,7 +78,3 @@ Daughter of darkness
 Please, leave me alone forever
 Oh devil daughter of darkness, gone is the love that we shared together
 
-
-
-
-

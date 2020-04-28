@@ -120,17 +120,17 @@ And all the rappers in the top ten-please allow me to bump thee.
 I'm steppin' tall, y'all,
 and just like Humpty Dumpty
 you're gonna fall when the stereos pump me.
-I like to rhyme,  
+I like to rhyme,
 I like my beats funky,
 I'm spunky.  I like my oatmeal lumpy.
 I'm sick wit dis, straight gangsta mack
 but sometimes I get ridiculous
 I'll eat up all your crackers and your licorice
 hey yo fat girl, c'mere-are ya ticklish?
-Yeah, I called ya fat.    
+Yeah, I called ya fat.
 Look at me, I'm skinny
 It never stopped me from gettin' busy
-I'm a freak 
+I'm a freak
 I like the girls with the boom
 I once got busy in a Burger King bathroom
 I'm crazy.
@@ -154,7 +154,7 @@ but ya can't get near me
 I give 'em more, see, and on the floor, B,
 all the girls they adore me
 Oh yes, ladies, I'm really bein' sincere
-'cause in a 69 my humpty nose will tickle ya rear. 
+'cause in a 69 my humpty nose will tickle ya rear.
 My nose is big, uh-uh I'm not ashamed
 Big like a pickle, I'm still gettin' paid
 I get laid by the ladies, ya know I'm in charge,
@@ -165,7 +165,7 @@ I sang on Doowhutchalike, and if ya missed it,
 I'm the one who said just grab 'em in the biscuits
 Also told ya that I like to bite
 Well, yeah, I guess it's obvious, I also like to write.
-All ya had to do was give Humpty a chance 
+All ya had to do was give Humpty a chance
 and now I'm gonna do my dance.
 
 
@@ -213,8 +213,4 @@ I'd like to send a shout out to the whole world,
 keep on doin' the Humpty Dance,
 and to the ladies,
 peace and humptiness forever
-
-
-
-
 

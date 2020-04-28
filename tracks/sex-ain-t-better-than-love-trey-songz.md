@@ -61,7 +61,7 @@ Sex ain't, sex ain't better than love
 
 
 Feelings I thought that I would never have
-Ooh, I'm so open and I got it bad
+Oh I'm so open and I got it bad
 I got you now and I'ma make it last
 She says my baby, she can't wait to have
 Love in the air, never been so clear

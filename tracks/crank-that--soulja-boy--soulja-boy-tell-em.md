@@ -237,7 +237,7 @@ Supersoak that ho
 Supersoak that ho
 Supersoak that ho
 Supersoak that ho
-I'm too fresh, now watch me dooooooo it
+I'm too fresh, now watch me do it
 Watch me shuffle, watch me yuuuuuuu
 Watch me crank that Soulja Boy
 Now Superman, yuuuuuuu

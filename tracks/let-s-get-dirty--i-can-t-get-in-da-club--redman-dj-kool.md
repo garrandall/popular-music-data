@@ -27,7 +27,7 @@ Time to throw a little mud in this motherfucker
 
 
 Ohh shit! Who those motherfuckers coming in here?
-No, it can't be! Ahhhhhhhhhhhhhhh!
+No, it can't be! Ah!
 
 
 Yo.. yo, gimme some room I'm throwing elbows
@@ -52,7 +52,7 @@ Yo Red, wassup man?
 Aye they ain't trying to let you in the club!
 Yo, DJ Kool to the rescue!
 We gon' break this joint down!
-Ayo.. a-huh, a-huh, ahh!
+Ayo.. a-huh, a-huh, ah!
 
 
 If you pumping this one in your truck (let's get dirty)
@@ -95,7 +95,7 @@ I'll snuff a duck, I'm headed Uptown
 Yeah that's right! We up in this joint now
 Ayo we getting ready to take over
 Freddie, you grab the mic, I'mma grab the turntables
-We gon' rock this joint baby! - a-huh, a-huh, ahh!
+We gon' rock this joint baby! - a-huh, a-huh, ah!
 
 
 If you got up in the club free (let's get dirty)
@@ -126,5 +126,5 @@ Just a little bit louder now (let's get dirty)
 Say let's get dirty.. c'mon, c'mon!
 
 (let's get dirty)
-A-huh, a-huh, ahh-huh! (let's get dirty)
+A-huh, a-huh, ah-huh! (let's get dirty)
 Keep it going now (let's get dirty)

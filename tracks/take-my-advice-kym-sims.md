@@ -99,7 +99,7 @@ SPOKEN:
 "You better hear what I'm sayin'
 You better hear what I'm sayin'
 You better hear what I'm sayin'
-Uh-hmm
+Uh-hm
 She's got a smile on her face and a plan in her head"
 
 Girl, you better wake up

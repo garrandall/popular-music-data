@@ -114,7 +114,7 @@ Of love, so come with me
 I guess I'm meant to prove
 So let me do my thing
 I will take my time baby for sure
-Hmm
+Hm
 
 2 - Cut to the chase
 Hit you up with the place

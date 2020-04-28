@@ -89,12 +89,12 @@ No doubt about it, been lovin' all night.
 
 We've been lovin' all night, hangin on tight.
 Good God almighty, been loving all night, yeah.
-Mmmmm, been lovin' all night.
+Mmm, been lovin' all night.
 Been lovin' all night.
 Lovin' all night, yeah,
 Lovin' all night,
 Been lovin' all night.
-Memmmm. hey, ahh been lovin' all night.
+Memmmm. hey, ah been lovin' all night.
 
 
 

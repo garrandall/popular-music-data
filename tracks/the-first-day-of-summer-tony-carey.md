@@ -52,9 +52,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-08-18'
 ---
-The First Day Of Summer
-Tony Carey
-
 Well The Kid and me were the team to beat
 We could stand up to the big boys
 Generate some heat
@@ -67,7 +64,6 @@ Sayin "Southern CA here we come"
 And we took off down the highway sayin'
 Never goin' back again
 
-Chorus:
 It was on the first day of summer
 We were the number one outfront runner
 On the first day of summer
@@ -90,5 +86,3 @@ Campin' by the road out in Santa Fe
 The kid stole the keys and he drove away
 I wound up washin' dishes at a a Holiday Inn
 Sometime I wonder what became of him
-
-Repeat chorus

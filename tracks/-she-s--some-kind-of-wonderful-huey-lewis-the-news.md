@@ -76,7 +76,7 @@ Now let me tell you one thing
 
 When she holds me in her arms
 She sets my soul on fire
-Ooh, when my baby kisses me
+Oh when my baby kisses me
 It fills my heart with desire
 And when she wraps her lovin' arms around me
 Always tires me out of my mind

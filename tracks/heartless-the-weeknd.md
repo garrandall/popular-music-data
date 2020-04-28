@@ -81,7 +81,7 @@ I thought I lost you this time
 You just came back in my life
 You never gave up on me (Why don't you?)
 I'll never know what you see (Why won't you?)
-I don't do well when alone (Ooh, yeah)
+I don't do well when alone (Oh, yeah)
 You hear it clear in my
 
 Never need a bitch, I'm what a bitch need (Bitch need)

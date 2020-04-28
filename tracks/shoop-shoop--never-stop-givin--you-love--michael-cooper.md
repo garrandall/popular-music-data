@@ -57,18 +57,18 @@ Shoop shoop, shoop shoop
 Yeah, yeah, oh, oh
 
 Love taught me
-It's you that i need
-Now i know i can
+It's you that I need
+Now I know I can
 Never stop giving you love
 
 You know you're on my mind
 Sugar, all the time
-And now i know i can
+And now I know I can
 Never stop giving good love
 
 Oh, baby
 
-Now i want you, girl
+Now I want you, girl
 I believe in your heart
 I can't believe it that i'm
 Living my life without you
@@ -93,7 +93,7 @@ Til my love comes tumbling down
 
 You know i'm on the phone
 With you all night long
-And now i know i can
+And now I know I can
 Never stop giving good love
 
 Oh, baby, love it to me
@@ -102,7 +102,7 @@ Love it to me, love it to me
 Love it to me, love it to me alone
 
 Oh, baby, sweet baby
-Oh, baby i want you, girl
+Oh, baby I want you, girl
 I believe in your heart
 I can't believe it that i'm
 Living my life without you

@@ -132,9 +132,6 @@ She was a good girl 'til she knew me
 Now she is in the drop bussin' U'e
 Screaming...
 
-
-
-
 Deeper than words, beyond right
 Die for your love, beyond life
 Sweet as a Jesus piece, beyond ice
@@ -154,9 +151,6 @@ I don't care if they give me life
 I get all of my life from you
 And if loving you had a price
 I would pay my life for you
-
-
-
 
 I don't care I'll never give it up
 Give it up, give it up, give it all away

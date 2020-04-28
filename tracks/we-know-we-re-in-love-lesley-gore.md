@@ -32,11 +32,11 @@ I've simply got to tell
 
 That we know we're in love
 (We know we're in love)
-Ooh, we're in love
+Oh we're in love
 (We know we're in love)
-Ooh, we're in love
+Oh we're in love
 (We know we're in love)
-Ooh, we're in love
+Oh we're in love
 (We know we're in love)
 
 Friends think that it's just a game
@@ -46,16 +46,16 @@ They don't see we'll play for keeps
 
 We know we're in love
 (We know we're in love)
-Ooh, we're in love
+Oh we're in love
 (We know we're in love)
-Ooh, we're in love
+Oh we're in love
 (We know we're in love)
-Ooh, we're in love
+Oh we're in love
 (We know we're in love)
 
-Oooh, I'll treat you tenderly
+Oh, I'll treat you tenderly
 I'll love you 'til the day I die
-Oooh, and you'll be good to me
+Oh, and you'll be good to me
 Now that you're my guy
 
 I never felt like this before
@@ -70,7 +70,7 @@ That's all that matters, Jack
 
 We know we're in love
 (We know we're in love)
-Ooh, we're in love
+Oh we're in love
 (We know we're in love)
 Yes, we know we're in love
 (We know we're in love)

@@ -38,7 +38,7 @@ rankings:
 ---
 That's when it hurts
 Oh, oh, yeah
-That's when it hurts, ooh
+That's when it hurts, oh
 
 You don't kiss me
 Like you used to do
@@ -52,7 +52,7 @@ Here comes the night
 
 That's when it hurts
 Yeah, yeah, yeah
-That's when it hurts, ooh
+That's when it hurts, oh
 
 I'm going downtown to Joey's place
 And I know that, darling
@@ -65,7 +65,7 @@ Here comes the pain
 
 That's when it hurts
 Oh, oh yeah
-That's when it hurts, ooh
+That's when it hurts, oh
 
 Then you're gonna
 See me sitting all alone

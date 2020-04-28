@@ -125,7 +125,7 @@ When I should be countin on you at my door.
 Did you forget about how we went around,
 I don't know why you don't take me downtown anymore.
 Ohhh anymore.
-Yeaaaaah I don't know why you don't take me downtown,
+Yeah I don't know why you don't take me downtown,
 I don't know why you don't take me downtown anymore.
 I just don't get it
 

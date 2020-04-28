@@ -40,7 +40,7 @@ rankings:
 
 
 Eyyy-yeaa...
-Yeeeeeeeeeeeeeeeaaaaaaah...
+Yeah...
 Heeeey, yeah...
 See ever since the day I got the chance to make a change
 I've been in this game, it's a new day
@@ -51,7 +51,7 @@ I'm payin homage 'cause, you've paved the way for meeee, ye-yeah
 
 I swear to God, it feel like every day is my birthday
 Let the top down, California's my birthplace
-So I'ma take you there like B.I.G took niggaz to New York
+So I'ma take you there like B.I.G took niggas to New York
 "Juicy" had us feelin like we was from New York
 And that's real shit, blazed the Philly
 It's "Summertime", shout out to Will Smith
@@ -67,7 +67,7 @@ Red Kangol hat, red sweatsuit to match
 Red Adidas, nigga, Game is back
 
 
-And ever since the day I got the chance to make a change 
+And ever since the day I got the chance to make a change
 I've been in this game, it's a new day
 And I'm makin it known 'cause, I just want the world to know
 I'm payin my dues, and I got the utmost, I just wanna let you know
@@ -77,7 +77,7 @@ I'm payin homage 'cause, you've paved the way for meeee, ye-yeah
 Public Enemy and N.W.A
 is on my boombox, had to say
 "Today was a Good Day" had the hood buzzin
-Ice Cube my favorite rapper, y'all niggaz cain't tell me nothing
+Ice Cube my favorite rapper, y'all niggas cain't tell me nothing
 Everybody first bootleg was "Boyz N the Hood"
 Whoever thought gangsta rap would make noise in the hood?
 When the cars ride by with the "Boomin' System"
@@ -85,7 +85,7 @@ Two door Mustang, and the roof was missin
 Every girl at'cha school had the new extensions
 Even gangstas was dancin like New Edition
 'cause the house parties stayed rockin all night
-Niggaz came through and shot it up but it was alright (alright)
+Niggas came through and shot it up but it was alright (alright)
 'cause after the cops left, it was a party then
 You down with O.P.P.? Then bring Naughty in
 They say "It Never Rain in Southern California", Tony! Toni! lied
@@ -109,7 +109,7 @@ Before I was born they was talkin 'bout The Game
 Ask a Jay-Z fan 'bout Big Daddy Kane
 Don't know him, Game gonna show 'em
 Just like they showed me, my lyrics is O.G
-When it's all said and done, you niggaz gon' quote me
+When it's all said and done, you niggas gon' quote me
 
 
 

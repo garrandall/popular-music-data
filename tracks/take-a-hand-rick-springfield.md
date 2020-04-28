@@ -47,7 +47,7 @@ rankings:
 
 Turn up your radio and put your ear to the sweet, sweet music
 And take your baby and hold her in your arms
-And hear the music go "Ooh ooh"
+And hear the music go "Oh oh"
 And if you're feeling like it go get your lover
 And reel and rock her and roll it over
 And hold her tighter, hold her tighter
@@ -60,7 +60,7 @@ You've got to let it show
 
 Turn up the music and put your ear to the radio
 And take her gently and rock her in your arms
-And hear the record go "Aah aah"
+And hear the record go "Ah ah"
 
 And if you're feeling like it go get your lover
 And reel and rock her and roll it over

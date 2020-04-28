@@ -23,7 +23,7 @@ I will lay me down
 When you're down and out
 When you're on the street
 When evening falls so hard
-I will comfort you (ooo)
+I will comfort you (oo)
 I'll take your part, oh, when darkness comes
 And pain is all around
 Like a bridge over troubled water

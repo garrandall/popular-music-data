@@ -71,19 +71,19 @@ They try to keep us far apart, there's only one thing left we can do
 
 We gotta keep searchin', searchin', find a place to hide
 Searchin', searchin', she'll be by my side
-If we gotta keep on the run, we'll follow the sun-ah, wee-ooh
-Follow the sun-ah, wee-ooh
+If we gotta keep on the run, we'll follow the sun-ah, wee-oh
+Follow the sun-ah, wee-oh
 
 Doesn't matter, doesn't matter what people might say
 She's mine and I'm gonna take her anyway
 
 Gotta keep searchin', searchin', find a place to stay
 Searchin', searchin', every night and day
-If we gotta keep on the run, we'll follow the sun-ah, wee-ooh
-Follow the sun-ah, wee-ooh
+If we gotta keep on the run, we'll follow the sun-ah, wee-oh
+Follow the sun-ah, wee-oh
 
 We gotta keep searchin', searchin', find a place to hide
 Searchin', searchin', she'll be by my side
-If we gotta keep on the run we'll follow the sun-ah, wee-ooh
-Follow the sun-ah, wee-ooh
-Follow the sun-ah, wee-ooh, follow the sun-ah
+If we gotta keep on the run we'll follow the sun-ah, wee-oh
+Follow the sun-ah, wee-oh
+Follow the sun-ah, wee-oh follow the sun-ah

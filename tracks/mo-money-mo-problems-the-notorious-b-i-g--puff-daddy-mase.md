@@ -156,9 +156,6 @@ I don't know what, they want from me
 It's like the more money we come across
 The more problems we see
 
-
-
-
 Yeah yeah, ahaha, I'm the C-to-the-A-to-the-D-D-Y
 Know you'd rather see me die than to see me fly
 I call all the shots
@@ -182,9 +179,6 @@ Yeah, yeah yeah
 I don't know what, they want from me
 It's like the more money we come across
 The more problems we see
-
-
-
 
 Uhh, uhhh
 B.I.G., P-O, P-P-A
@@ -222,7 +216,4 @@ What's going on?
 I don't know what, they want from me
 It's like the more money we come across
 The more problems we see
-
-
-
 

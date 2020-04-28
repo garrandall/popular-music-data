@@ -73,7 +73,7 @@ Gimme dat ding, gimme dat, gimme, gimme dat
 Gimme, gimme, gimme, dat ding
 (Ah, you ain't doing that late at night)
 
-A-ooh, what good's a metronome without a bell for ringing?
+A-oh what good's a metronome without a bell for ringing?
 (You're right, you're right, it's no use at all)
 How fast can anybody ever tell he swinging?
 (Eh, they can't tell)
@@ -101,7 +101,7 @@ Gimme dat ding, gimme dat, gimme, gimme dat
 Gimme dat ding, gimme dat, gimme, gimme dat
 Gimme, gimme, gimme, dat ding
 
-A-ooh, what good's a metronome without a bell for ringing?
+A-oh what good's a metronome without a bell for ringing?
 (Well, you try and you do your best)
 How fast can anybody ever tell he swinging?
 (Oh, you ain't doing that at all mama)

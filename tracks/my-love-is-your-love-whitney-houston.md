@@ -170,7 +170,7 @@ It's alright
 
 If I lose my fame and fortune
 And I'm homeless on the street (On the street, oh Lord)
-And I'm sleepin' in Grand Central Station (Ooh, okay)
+And I'm sleepin' in Grand Central Station (Oh okay)
 It's okay if you're sleepin' with me
 Clap your hands, y'all
 It's alright

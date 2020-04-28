@@ -127,9 +127,6 @@ I can't help
 What I feel inside
 What more can I say?
 
-
-
-
 I'll follow through
 I'll see I do
 When the time is far more

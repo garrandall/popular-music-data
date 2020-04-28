@@ -39,7 +39,7 @@ It's hard to stop doing something
 That's good to you
 
 It's hard to stop doing something
-That's sweet to you, ooh
+That's sweet to you, oh
 It's hard to stop doing something
 That's good to you
 
@@ -55,7 +55,7 @@ His loving drives me crazy
 That's why I have to tell my friends
 
 It's hard to stop doing something
-That's good to you, ooh
+That's good to you, oh
 It's hard to stop doing something
 That's good to you, yes, it is
 

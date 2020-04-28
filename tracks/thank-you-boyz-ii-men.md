@@ -139,9 +139,6 @@ You never turned away
 You were right there
 And I thank you (thank you)
 
-
-
-
 'Cause even though when times got rough
 You never turned away
 You were right there

@@ -61,7 +61,7 @@ You know I love you
 And I'm beggin'
 For one more chance, one chance, once more
 
-Mmm hmmm, I know
+Mmm hm, I know
 Life's got many a twist
 But lovin' you, Danny
 Is the thing I cannot resist

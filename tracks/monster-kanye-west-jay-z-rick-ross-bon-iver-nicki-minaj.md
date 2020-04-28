@@ -99,7 +99,7 @@ Think you motherfuckers really really need to cool out
 'Cause you'll never get on top of this
 So mommy, best advice is just to get on top of this
 Have you ever had sex with a pharaoh?
-Ahh, put the pussy in a sarcophagus
+Ah, put the pussy in a sarcophagus
 Now she claiming that I bruised her esophagus
 Head of the class and she just won a swallowship
 I'm living in the future so the present is my past

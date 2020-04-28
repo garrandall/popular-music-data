@@ -117,7 +117,7 @@ Girl, I'm an average guy
 You seem to know just how I really feel
 Cause I'm givin it all
 I need you, I want you to stay right here with me
-But baby, I never knew love..till you came along...
+But baby, I never knew love...till you came along...
 
 
 Casanova

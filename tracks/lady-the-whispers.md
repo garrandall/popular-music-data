@@ -63,7 +63,7 @@ Then melt into me lady as though we were wax
 Erase all my maybes, would you do that for me lady?
 
 Ohh, your body's designed by the wisdom of time
-And I couldn't live without you, I'd be losing my mind, ohh
+And I couldn't live without you, I'd be losing my mind, oh
 You're the answer to the prayers and just like fresh air
 You keep me alive, you cannot be spared
 
@@ -75,7 +75,7 @@ You're engraved in my heart, do you hear me pretty lady
 I want you to hear every word I say
 
 Ohh, your body's designed by the wisdom of time
-And I couldn't live without you, I'd be losing my mind, ohh
+And I couldn't live without you, I'd be losing my mind, oh
 You're the answer to the prayers and just like fresh air
 You keep me alive, you cannot be spared
 

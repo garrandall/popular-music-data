@@ -47,12 +47,12 @@ rankings:
 ---
 Baby, could we have the same table we had yesterday
 
-Woo, ooh, ooh, ooh
+Woo, oh oohohoh
 
 Here we are again
 Sipping our drinks just like friends
 I wonder if they see the sparkle in your eyes
-I wonder if they know that I'm not your guy, mmm, hmm
+I wonder if they know that I'm not your guy, mmm, hm
 
 I wonder if they see
 That you don't belong tome
@@ -62,7 +62,7 @@ Mine, all mine, mmm…mmm…
 It'll be hard for him to understand
 I am his friend and he is your man
 I wonder what my lady would say
-If she knew I met you everyday, mmm, hmm
+If she knew I met you everyday, mmm, hm
 
 Sooner or later
 Don't you know they're gonna find out and they'll hate us
@@ -72,7 +72,7 @@ Mine, all mine, mmm…
 It's two a.m., the place is gonna close
 The bartender looks as though he knows
 Everybody's, everybody's made it home
-Here we sit again all alone, mmm, hmm
+Here we sit again all alone, mmm, hm
 
 I've got to get up at 8
 Don't you know I've got to explain why I'm so late, mmm…

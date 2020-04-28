@@ -19,9 +19,6 @@ rankings:
   start_date: '2016-06-04'
 ---
 
-
-
-
 Check, 1-2, 1-2, bitch
 You expensive, you know that?
 I'm high maintenance a little bit but not in a
@@ -103,9 +100,6 @@ Over and over and over and over and over again
 Now you're coming over
 You're coming over
 
-
-
-
 I been on all the floors of your ego
 Feel like I was slipping away
 And you know that I ain't gonna go, ain't gonna go nowhere, nowhere
@@ -133,9 +127,6 @@ And before you leave here (I need you to cum)
 But before you do (don't you leave)
 It ain't about me no more (need you to know)
 Make sure you (cum before me)
-
-
-
 
 Get you on top of me
 We can do this still, probably

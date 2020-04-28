@@ -37,7 +37,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-12-31'
 ---
-Awwwwwwwwwwwwww yeah!
+Aw yeah!
 Ho!  Ho!  Ho!  Ho!  Ho!  Ho!  Ho!  Ho!
 Everybody one, two, three, four
 Everybody c'mon, whatchu waitin for?
@@ -113,20 +113,17 @@ C'mon, let's go bezerk!
 Cause we don't wanna be left behind
 All we wanna do is just blow yo' mind
 We like yo' girl she's really fine
-(Plus she has a +BIG+ behind!!)
+(Plus she has a big behind)
 Let's do it, let's do it
 Let's do it do it do it
 
 
 Criminal Minded, you've been blinded
 Lookin for a style like mine, you can't find it
-(YES!!) The rhythm, the rebel
+(YES!) The rhythm, the rebel
 Without a pause, I'm lowerin my levels
 To find a ugly woman to have sex
 Ed Lover, grab the mic, cause you're next
-
-
-
 
 My name is Ed Lover not Kurtis Blow
 But Davy, is one guy I know

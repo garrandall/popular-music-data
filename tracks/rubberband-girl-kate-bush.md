@@ -78,8 +78,8 @@ Rub-a-dub
 One rubberband won't keep you up
 Two rubberbands won't keep you up
 Three rubberbands won't keep you up
-Here I go......
-.... Yeah!
+Here I go...
+... Yeah!
 
 One rubberband won't keep you up
 Two rubberbands won't keep you up

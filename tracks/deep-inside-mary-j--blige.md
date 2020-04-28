@@ -74,7 +74,7 @@ So it's hard for me to find a man I trust
 I really trust
 And every time I find someone I like, gotta worry about
 If it's really me that they see
-And I thought you were the one, ohhhh...
+And I thought you were the one, oh...
 
 
 Deep inside I wish that you could see
@@ -119,7 +119,7 @@ Deep inside I wish that they could see
 That I'm just plain ol' Mary...Mary
 
 
-The car i drive, the clothes i wear
+The car I drive, the clothes I wear
 The diamonds, the furs, and the house
 Don't make the woman
 Material things don't mean nothing to me

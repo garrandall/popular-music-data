@@ -187,7 +187,7 @@ To show you our pockets are different (Ha)
 I'm out with your bitch and I only want knowledge
 She got a lil' mileage, I'm chillin' (Uh)
 You disrespect me and I'll beat your ass up
-All in front of your partners and children (Ahh, ahh)
+All in front of your partners and children (Ah, ah)
 I'm the type to let a nigga think that I'm broke
 Until I pop out with a million (I pop)
 Take 20K and put that on your head

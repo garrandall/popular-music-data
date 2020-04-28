@@ -107,7 +107,7 @@ I'm gonna dance the night away
 You make feel like dancing
 I feel like dancing
 Dancing, dance the night away
-I feel like dancing, dancing, aaaah
+I feel like dancing, dancing, ah
 
 Quarter to four in the morning
 I ain't feeling tired no, no, no, no, no

@@ -53,13 +53,13 @@ It ain't no good this way baby
 No, No, No, No
 
 Breakout now, gotta breakout now
-Oooohhh yeah, Breakout now, we gotta breakout now
+Oh yeah, Breakout now, we gotta breakout now
 Breakout, Breakout
 
 Come on baby
 Let's start to, let's start to feel it now
 Wanna, want you to come with me
 
-Oooohhh yeah, breakout now, we gotta breakout now
+Oh yeah, breakout now, we gotta breakout now
 I cain't, I cain't, I cain't a stop it now
 We gotta, we gotta breakout now

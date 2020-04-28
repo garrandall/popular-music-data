@@ -121,9 +121,6 @@ I get a notion from the look in your eyes, yeah
 You've built a love, but that love falls apart
 Your little piece of heaven turns too dark
 
-
-
-
 Sometimes you wonder if this fight is worthwhile
 The precious moments are all lost in the tide, yeah
 They're swept away and nothing is what it seems

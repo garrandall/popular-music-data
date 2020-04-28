@@ -87,9 +87,6 @@ All you people in the street
 All you sittin’ in high places
 The rain’s gonna fall on you
 
-
-
-
 Holy Father, what’s the matter
 Where have all your children gone
 Sittin’ in the dark

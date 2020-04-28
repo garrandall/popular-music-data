@@ -65,7 +65,7 @@ rankings:
   start_date: '1972-11-04'
 ---
 Qué pasa people, qué pasa ...Hit me!
-Ooh!
+Oh
 Get on down like, unh!
 I wanna get on the good foot
 Ho! Good foot
@@ -93,7 +93,7 @@ Ain't nothing going on now but the rent
 A whole lotta bills and my money's spent, mmm
 And that's on my bad foot, whoa, unh
 You know my face getting short and I got the blues
-I got a funky job and i paid my dues on the good foot
+I got a funky job and I paid my dues on the good foot
 
 Ho! On the good foot
 I got to get on the good foot
@@ -127,9 +127,9 @@ Come on
 Get it
 Get it
 Get on the good foot
-Ooh!
+Oh
 I got to get on the good foot
-Ooh!
+Oh
 Get on the good foot
 Ho!
 Take care of business, sister, I'm your fella

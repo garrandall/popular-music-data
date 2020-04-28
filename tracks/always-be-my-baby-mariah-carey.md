@@ -149,11 +149,11 @@ Our love will never die, no
 You'll always be a part of me
 I'm part of you indefinitely
 Boy, don't you know you can't escape me?
-Ooh, darling, 'cause you'll always be my baby
+Oh, darling, 'cause you'll always be my baby
 And we'll linger on
 Time can't erase a feeling this strong
 No way you're never gonna shake me
-Ooh, darling, 'cause you'll always be my baby
+Oh, darling, 'cause you'll always be my baby
 
 
 I ain't gonna cry, no
@@ -169,11 +169,11 @@ Our love will never end, no
 You'll always be a part of me
 I'm part of you indefinitely
 Boy, don't you know you can't escape me?
-Ooh, darling, 'cause you'll always be my baby
+Oh, darling, 'cause you'll always be my baby
 And we'll linger on
 Time can't erase a feeling this strong
 No way you're never gonna shake me
-Ooh, darling, 'cause you'll always be my baby
+Oh, darling, 'cause you'll always be my baby
 
 
 I know that you'll be back, boy
@@ -185,19 +185,19 @@ Oh, baby, believe me, it's only a matter of time, time
 You'll always be a part of me
 I'm part of you indefinitely
 Boy, don't you know you can't escape me?
-Ooh, darling, 'cause you'll always be my baby
+Oh, darling, 'cause you'll always be my baby
 And we'll linger on (And we will linger on and on)
 Time can't erase a feeling this strong
-No way you're never gonna shake me (Ooh baby)
-Ooh, darling, 'cause you'll always be my baby
+No way you're never gonna shake me (Oh baby)
+Oh, darling, 'cause you'll always be my baby
 You'll always be a part of me
 I'm part of you indefinitely
 Boy, don't you know you can't escape me?
-Ooh, darling, 'cause you'll always be my baby
+Oh, darling, 'cause you'll always be my baby
 (You and I) And we'll linger on
 Time can't erase a feeling this strong (You and I)
 No way you're never going to shake me (you and I)
-Ooh, darling, 'cause you'll always be my baby
+Oh, darling, 'cause you'll always be my baby
 
 
 You and I will always be

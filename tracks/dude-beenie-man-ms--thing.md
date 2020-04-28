@@ -115,24 +115,24 @@ rankings:
 ---
 
 
-You want a proper fix, call me, 
+You want a proper fix, call me,
 you want to get your kicks, call me
-You want your G's fixed, call me, 
+You want your G's fixed, call me,
 mi have the remix, call me
 From di odda day
 It's like a play some bwoy a play
-Mi hear di girls callin mi 
+Mi hear di girls callin mi
 hear di girls bawlin mi hear di girls cryin out
-She seh Beenie.........
+She seh Beenie...
 
 
-I want a dude with the wickedest slam, 
+I want a dude with the wickedest slam,
 I need a one, two, three hour man
-I want a dude who will tie me to the fan, 
+I want a dude who will tie me to the fan,
 a thug that can handle his biz like a man
-I want a dude with the wickedest slam, 
+I want a dude with the wickedest slam,
 I need a one, two, three hour man
-I want a dude who will do me in his van, 
+I want a dude who will do me in his van,
 a thug that can handle his biz like a man
 
 
@@ -143,7 +143,7 @@ Cause tonight tonight mi a gi yuh di whole nine (Hey!)
 Yo! satisfaction a every girl dream
 Mi love fi put it on when dem wiggle and scream (Hey!)
 Well, mi get a call from sexy Maxine
-She left a message pon mi answering machine she seh Beenie....
+She left a message pon mi answering machine she seh Beenie...
 
 
 
@@ -155,27 +155,15 @@ She waan to get wild but she neva had a chance
 When, she seh she neva had it so deep
 So right now I'm di man she definetly wanna keep
 Har ex bwoyfriend use to come and drop asleep
-Dat's why when mi pager start beep she seh Beenie......
-
-
-
+Dat's why when mi pager start beep she seh Beenie...
 
 You heard what she preferred,
 she waan a man weh mek she fly like a bird
 She waan a real man she don't waan nuh nerd
 She waan yuh gi har it good mark mi word
-I'm not a perv but mi mek she serv, 
+I'm not a perv but mi mek she serv,
 she waan di rockula well until it curve
 Har ex bwoyfriend ain't got di nerve
-Have har a wait and she nah get served, 
-so she seh Beenie.....
-
-
-
-
-
-
-
-
-
+Have har a wait and she nah get served,
+so she seh Beenie...
 

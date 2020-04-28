@@ -57,15 +57,15 @@ rankings:
   start_date: '1976-08-07'
 ---
 Mmm, foxy
-Ooh, you're foxy, foxy lady
+Oh you're foxy, foxy lady
 
-You're foxy, ooh
-You're foxy, ooh
-You're foxy, ooh
+You're foxy, oh
+You're foxy, oh
+You're foxy, oh
 You're foxy, foxy lady
 
-You're foxy, ooh
-You're foxy, ooh
+You're foxy, oh
+You're foxy, oh
 
 Do it, do it, da da, do it
 Do it, do it, da da
@@ -83,6 +83,6 @@ Do it, do it, da da, do it
 Do it, do it, get down
 Sexy lady, foxy lady
 
-You're foxy, ooh
-You're foxy, ooh
-You're foxy, ooh...
+You're foxy, oh
+You're foxy, oh
+You're foxy, oh..

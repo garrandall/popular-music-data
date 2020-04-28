@@ -76,9 +76,6 @@ We are meant to met again
 We'll let each other know
 Cause I'm...
 
-
-
-
 I don´t want to lose you
 So I'll let you go
 And if it ends up

@@ -76,11 +76,11 @@ Tell me when to go... Tell me when to go...
 Go dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
 
 
-Ooh. Jesus Christ had dreads, so shake em
+Oh. Jesus Christ had dreads, so shake em
 I ain't got none, but I'm planning on growing some
 Imagine all the Hebrews going dumb
 Dancing on top of chariots and turning tight ones (eeerrrrr!)
-Ooh, tell me when to go (dumb)
+Oh, tell me when to go (dumb)
 Talking on my Ghettro on the way to the store
 ... My 2nd or 3rd trip
 Some Henny, some Swishers and some Listerine strips
@@ -100,7 +100,7 @@ Go dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
 
 
 I'm off that 18 dummy juice
-.... Yadamean, labeled the Black Zeus
+... Yadamean, labeled the Black Zeus
 King of the super dooper hyphy (hyphy, hyphy, hyphy, hyphy)
 And your wife, she don't like me (like me, like me, like me, like me)
 From the Bay to the A
@@ -110,7 +110,7 @@ I slid past on the gas, bitches looking at me
 It's good, it's good like the granddaddy
 Cross game, you get flipped like a burger patty
 Or zig-zagged... pass me a big old fatty
-.... I drink white, with a snow bunny
+... I drink white, with a snow bunny
 Talking big shit in the scraper, going hella dummy
 1800, Jose Cuervo
 Yadada mean, yadada I'm saying though
@@ -124,7 +124,7 @@ Go dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
 now let me direct traffic for a minute..
 (talk to 'em)
 Now, let me tell you about this hyphy movement we got going in the bay..
-when i say something you say it right back to me, you smell me?
+when I say something you say it right back to me, you smell me?
 we're gonna do it like this right here...
 
  Ghost-ride the whip

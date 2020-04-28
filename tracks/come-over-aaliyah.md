@@ -151,22 +151,22 @@ Come over (Just wanna)
 Come over (Be wit' ya baby)
 
 
-Ohh, ohh
-Ohh, ohh
-Ooo, ohh
-Ohh, ooo
+Ohh, oh
+Ohh, oh
+Ooo, oh
+Ohh, oo
 
-Ohh, ohh
-Ohh, ohh
-Ooo, ohh
-Ohh, ooo
+Ohh, oh
+Ohh, oh
+Ooo, oh
+Ohh, oo
 
 
 Can I come over (Ohh) (Can I)
 Come on over (Ohh) (Stop by)
 Come over (Ohh) (To see you)
 Come over (Ohh) (Tonight)
-Can I come over (Ooo, ohh) (Can I)
+Can I come over (Ooo, oh) (Can I)
 Come over (Ohh) (Get wit' ya)
 Come over (Ooo) (Just wanna)
 Yeah (Be wit' ya baby)
@@ -175,7 +175,7 @@ Can I come over (Ohh) (Can I)
 Come over (Ohh) (Stop by)
 Come over (Ohh) (To see you)
 Come over (Ohh) (Tonight)
-Can I come over (Ooo, ohh) (Can I)
+Can I come over (Ooo, oh) (Can I)
 Baby (Ohh) (Get wit' ya)
 Can I come over (Ooo) (Just wanna)
 Over (Be wit' ya baby)

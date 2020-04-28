@@ -60,7 +60,7 @@ Girl, you're the key to my happiness and I...
 
 
 (Can't get next to you, babe)
-Ooh Lord
+Oh Lord
 (I can't get next to you)
 I've been trying a long time
 (Can't get next to you, babe)

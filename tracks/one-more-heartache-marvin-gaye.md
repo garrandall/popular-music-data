@@ -68,6 +68,3 @@ Ah (ah) ah (ah)
 I can't take it, I can't stand it
 No, honey, not another
 
-
-
-

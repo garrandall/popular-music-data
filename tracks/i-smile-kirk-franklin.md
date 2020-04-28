@@ -180,4 +180,4 @@ I don’t want you you to just be happy
 Because then you have to have something happening
 I want you to have joy
 Because can’t nobody take that from you
-I see you.. SMILE!!
+I see you.. SMILE!

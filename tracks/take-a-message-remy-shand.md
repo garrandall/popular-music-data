@@ -48,7 +48,7 @@ But who knows what you did on the day you cried endlessly
 Oh, you cried endlessly
 
 
-Take a message for my love (take a message) (8x)
+Take a message for my love (take a message)
 
 What could I say to you (oh)
 When makin' the waves was left unconscious
@@ -67,7 +67,7 @@ But who knows what you did on the day you cried endlessly
 Oh, you cried endlessly
 
 
-Take a message for my love (take a message) (8x)
+Take a message for my love (take a message)
 
 
 
@@ -81,4 +81,4 @@ But who knows what you did on the day you cried endlessly
 Oh, you cried endlessly
 
 
-Take a message for my love (take a message) (8x)
+Take a message for my love (take a message)

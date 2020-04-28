@@ -124,7 +124,7 @@ Baby, when you with me, with me (Right here)
 Got no worries, worries (Worries, oh no)
 I love it when you touch me, touch me
 Feelin' so lovely, lovely (I love it)
-Make me wanna love me, love me (Ooh)
+Make me wanna love me, love me (Oh
 Make me feel lucky, lucky (Oh no, baby)
 
 

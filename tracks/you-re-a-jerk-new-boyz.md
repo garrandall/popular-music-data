@@ -131,7 +131,7 @@ But ay, do me a favor, call me jerk one more time
 "Jerk, jerk, jerk, jerk" (Jerky)
 
 
-Ha ha!! .. Everything quiet and the bass real hard
+Ha ha! .. Everything quiet and the bass real hard
 And I stay geeked up never been a retard
 Got a New Boy swag and this here for y'all
 So they gotta keep it separate like the Jim Crow laws

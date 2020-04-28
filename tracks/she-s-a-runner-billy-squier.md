@@ -37,7 +37,7 @@ Girl she made me a hand-me-down
 Never know when she'll come around or what I'll see
 No resistance--it's hardly fair
 Call my name, honey--I'll be there
-I'll give in to you anywhere..so foolishly
+I'll give in to you anywhere...so foolishly
 I could never ever lie to you
 I could never even try
 I just wanna be beside you
@@ -55,12 +55,12 @@ I just wanna be beside you
 She's a runner...anyone can see
 She's a runner...she run all over me
 She's a runner...you can't walk away
-She's a runner..she can make you stay
+She's a runner...she can make you stay
 
 I need to listen to my advice
 The aggravation ain't worth the price
 I can tell ya she won't think twice
-She gonna knock down, put ya down..oo yea
+She gonna knock down, put ya down...oo yea
 
 She's a runner...anyone can see
 She's a runner...she tore it out a me

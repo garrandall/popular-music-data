@@ -46,7 +46,7 @@ rankings:
 ---
 Caballero hay acaba de entrar Watusi
 Ese mulato que mide siete pies y pesa 169 libras
-Y cuando ese mulato llega al lugar todo el mundo dice....
+Y cuando ese mulato llega al lugar todo el mundo dice...
 A correr que ya llego Watusi
 El hombre mas guapo de La Habana
 Watusi, Watusi. Que quieres

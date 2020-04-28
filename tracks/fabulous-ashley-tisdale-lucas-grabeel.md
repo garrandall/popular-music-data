@@ -40,11 +40,11 @@ Is that so wrong?
 Fetch me my Jimmy Choo flip-flops
 Where is my pink Prada tote?
 I need my Tiffany hairband
-And then i can go for a float!
+And then I can go for a float!
 
 A summer like never before!
 
-(I...want...More!!)
+(I...want...More!)
 
 She wants fabulous!
 That is her simple request
@@ -94,4 +94,4 @@ Is this absolutely fabulous?
 Fabulous, fabulous, fabulous?
 
 (Absolutely...)
-(....NOT!!!)
+(...NOT!)

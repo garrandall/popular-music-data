@@ -110,9 +110,9 @@ Each and everyday
 Hey fellas
 What
 Check out Mike & Bobby's little lady
-Ooooooh eeeeeeh
+Oh eeh
 Well check out Ricky & Ralph's
-Ooooooh eeeeeeh
+Oh eeh
 What about Ronnie's
 She's bad
 She's bad

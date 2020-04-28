@@ -48,8 +48,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
 ---
-Ahh, I'm gonna miss you
-Ahh, I'm gonna miss you
+Ah, I'm gonna miss you
+Ah, I'm gonna miss you
 
 From the day I
 Laid my eyes on you
@@ -66,8 +66,8 @@ I can't resist
 Your sweet loving
 I'm gonna miss
 
-Ahh, I'm gonna miss you, baby
-Ahh, I know I'm gonna miss you
+Ah, I'm gonna miss you, baby
+Ah, I know I'm gonna miss you
 
 A kiss goodbye could
 Put a flame in my heart
@@ -85,8 +85,8 @@ I can't resist
 Your sweet loving
 I'm gonna miss
 
-Ahh, I'm gonna miss you, every day
-Ahh, I'm gonna miss you, baby
+Ah, I'm gonna miss you, every day
+Ah, I'm gonna miss you, baby
 
 I love you with all my heart
 We said we'd never part

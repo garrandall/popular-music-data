@@ -69,13 +69,13 @@ Is someone to turn your world around
 
 And Ill take you where peaceful waters flow (Peaceful waters flow)
 If you let me Ill take you where peaceful waters flow
-(Come and walk with me) Mmm, hmm
+(Come and walk with me) Mmm, hm
 (We can go where peaceful waters flow)
 
 Now if the sunshine hurts your eyes, boy
 Then its time for you to realize, boy
 Beyond this moment theres
-A better day (Better day), mmm, hmm (Better day)
+A better day (Better day), mmm, hm (Better day)
 
 And if you let me
 Ill guide you, mmm
@@ -90,5 +90,5 @@ And Ill show you skies (Ill show you skies ) where gentle breezes blow
 
 And Ill take you where peaceful waters flow (Peaceful waters flow)
 Hey, hey, if you trust me, Ill take you there where peaceful waters flow
-(Come and walk with me) Mmm...hmm...
+(Come and walk with me) Mmm...hm...
 (We can go where peaceful waters flow)

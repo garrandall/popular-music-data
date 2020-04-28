@@ -117,15 +117,15 @@ BATMAN, BATMAN, BATMAN
 "Vicky Vale"
 "She's great, isn't she?"
 
-Ooh yeah, ooh yeah
+Ohyeah, ohyeah
 I wanna bust that body
-Ooh yeah, ooh yeah
+Ohyeah, ohyeah
 I wanna bust that body right
 "I'd like 2"
-Ooh yeah, ooh yeah
+Ohyeah, ohyeah
 "But he's out there right now"
 I wanna bust that body
-Ooh yeah, ooh yeah 2 night
+Ohyeah, ohyeah 2 night
 
 "Well, miss Vale"
 "Ever dance with the devil in the pale moon light?"

@@ -93,9 +93,6 @@ And I know I got a love to believe in
 All I know got to win this time
 
 
-
-
-
 You could have a change of heart, if you would only change your mind
 Cause I'm crazy 'bout you baby...Crazy...Crazy
 

@@ -128,13 +128,13 @@ Am I in love to stay?
 Take me to the river, drop me in the water
 Dip me in the river, drop me in the water
 Washing me down, washing me down
-Ooh, a-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya
+Oh, a-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya
 
 
-Ooh, a na na na
+Oh, a na na na
 A na na na na, ah!
 A na na na, hoo!
-A na na na, ooh!
+A na na na, oh!
 A na na na na, hoo!
 Ha! Na na na na, ah!
 Na na na na na

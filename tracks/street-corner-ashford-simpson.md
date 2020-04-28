@@ -83,14 +83,14 @@ To think about the cost
 I know that I just
 Might get lost
 
-On any street (Ooh)
+On any street (Oh)
 Any street corner (Oh, yeah oh, yeah)
 On any street (Oh, yeah)
 Any street corner (Oh)
 
 Oh... (oh...)
 
-On any street  (Ooh...ooh...ooh...)
+On any street  (Oh...oh...ooh)
 Any street corner
 On any street (On the avenue)
 Any street corner  (On the avenue waitin' for you)

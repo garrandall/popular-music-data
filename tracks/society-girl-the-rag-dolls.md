@@ -20,18 +20,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
 ---
-(Ooh ooh ooh ooh ooh)
-(Ahh ahh ahh ahh ahh)
+(Oh ohoohhoh)oh
+(Ah ah ah ah ah)
 
-They call me rag doll (whee ooh)
-They put me down (ooh whee ooh)
+They call me rag doll (whee oh
+They put me down (ohwhee oh
 I couldn't take it any longer
 So I got out of town.
 I go to parties with playboys
 Use them for toys
 If my old friends could see (see me now)
-They call me (ooh)
-Society girl (ahh ahh ahh ahh)
+They call me (oh
+Society girl (ah ah ah ah)
 Society girl
 But I miss the guy
 Who loved me when I was a rag doll.
@@ -44,19 +44,19 @@ Is being on top of the world.
 But you know I'd give it all up
 If I could only be your girl'
 
-My new address is (whee ooh)
-Park Avenue (ooh whee ooh)
+My new address is (whee oh
+Park Avenue (ohwhee oh
 Got a French poodle and some dresses
 But I'd rather have you.
 Their money can't buy me love, no.
 Oh honey I am so glad you can see
 (See me now)
-(A lonely... ooh)
-Society girl (ahh ahh ahh ahh)
+(A lonely... oh
+Society girl (ah ah ah ah)
 Society girl
 And I need you more
 Than when I was more than a rag doll.
 High yigh society girl.
 
-(Ooh ooh ooh ooh ooh)
-(Ahh ahh ahh ahh ahh)
+(Oh ohoohhoh)oh
+(Ah ah ah ah ah)

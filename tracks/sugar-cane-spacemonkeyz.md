@@ -47,7 +47,6 @@ I can feel the sugarcane flow
 Every time I change my mind
 (sample) Hear all the people say
 
-Chorus
 
 It's like the man said, you gotta move on up
 You don't try to get high, you're gonna come unstuck

@@ -119,7 +119,7 @@ Sometime I wonder
 If you love me like you say you do
 You see baby, I-I-I been thinkin' about it, yeah
 I been, I been wantin' to get next to you baby
-Ya see, sometimes I hold my arms, I say mmmm hmmm hmmm
+Ya see, sometimes I hold my arms, I say mmm hm hm
 Yeah baby
 Meeting you has proven to me
 To be my greatest dream, yeah

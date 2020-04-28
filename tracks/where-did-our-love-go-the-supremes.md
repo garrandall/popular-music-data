@@ -66,13 +66,13 @@ rankings:
 ---
 Baby, baby
 Baby don't leave me
-Ooh, please don't leave me
+Oh please don't leave me
 All by myself
 
 
 I've got this burning, burning, yearning
 Feelin' inside me
-Ooh, deep inside me
+Oh deep inside me
 And it hurts so bad
 
 
@@ -85,14 +85,14 @@ That stings like a bee
 Now that I surrender
 So helplessly
 You now wanna leave
-Ooh, you wanna leave me
+Oh you wanna leave me
 
 
-Ooh, baby, baby
+Oh baby, baby
 Where did our love go?
-Ooh, don't you want me?
+Oh don't you want me?
 Don't you want me no more?
-Ooh, baby
+Oh baby
 
 
 Baby, baby
@@ -103,7 +103,7 @@ Of a love forever more
 
 I've got this burning, burning, yearning
 Feelin' inside me
-Ooh, deep inside me
+Oh deep inside me
 And it hurts so bad
 
 
@@ -111,14 +111,14 @@ Before you won my heart
 You were a perfect guy
 But now that you got me
 You wanna leave me behind
-(Baby, baby) ooh baby
+(Baby, baby) ohbaby
 
 
 Baby, baby
 Baby don't leave me
-Ooh, please don't leave me
+Oh please don't leave me
 All by myself
 
 
-Ooh, baby, baby
+Oh baby, baby
 Where did our love go?

@@ -79,10 +79,5 @@ You won't see me follow you back home
 Now, as the rain beats down upon my weary eyes
 For me, it cries
 
-
-
-
-
-
 Your name and mine inside a heart upon a wall
 Still finds a way to haunt me though they're so small

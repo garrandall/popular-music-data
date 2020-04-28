@@ -54,6 +54,4 @@ I just don't wanna be lonely
 Let the stairs find you there, at the end of the room
 I just don't wanna be lonely
 
-Chorus
 
-Chorus

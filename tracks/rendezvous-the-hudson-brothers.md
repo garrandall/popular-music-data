@@ -65,22 +65,18 @@ But that doesnt mena you have to be so sad
 Cause Im gonna see you anyway tonight
 And rendezvouse underneath the moonlight
 
-Why dont you take me on a .....
-Chorus
+Why don't you take me on a ...
 
 When I get home, home from school
 Im gonna get dressed so I can look real cool
 Cause Im gonna see you anyway tonight
 And rendezvous underneath the moonlight
 
-Why dont you take me on a....
-Chorus
+Why don't you take me on a...
 
 Nobody knows where we are
 Well get in my car and park under the stars
 Cause Im going to see you anyway tonight
 And rendezvous underneath the moonlight
-Chorus
 
-Why dont you, why dont you, why dont you take me on a..
-Chorus
+Why don't you, why don't you, why don't you take me on a..

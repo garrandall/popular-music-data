@@ -68,4 +68,3 @@ The one that I've been looking for forever
 You're the one, you're the one for me to love
 
 Chorus
-Chorus

@@ -145,7 +145,7 @@ My wrong must be atoned
 
 If there's to be any resolution
 I've got to peel this pride away
-Ooh, whoa, whoa, whoa
+Oh, whoa, whoa, whoa
 
 Just between you and me
 I've got something to say

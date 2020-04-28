@@ -81,10 +81,10 @@ I'd get down on my knees to make you understand
 That you're the girl who holds the heart
 Inside this man
 
-Whoa ho! - whoa ho ho! - ooh ooh ooh
+Whoa ho! - whoa ho ho! - ohoohhoh
 Now if you feel the way I do
 Just say yeah yeah yeah
-Whoa ho! - whoa ho ho oh! - ooh ooh ooh
+Whoa ho! - whoa ho ho oh! - ohoohhoh
 Baby if you love me, won't you say you love me
 Say yeah yeah yeah
 
@@ -96,10 +96,10 @@ But if I have to wait a lifetime
 Girl I will do anything to show you
 That I love you still
 
-Whoa ho! - whoa ho ho! - ooh ooh ooh
+Whoa ho! - whoa ho ho! - ohoohhoh
 Now if you feel the way I do
 Just say yeah yeah yeah
-Whoa ho! - whoa ho ho oh! - ooh ooh ooh
+Whoa ho! - whoa ho ho oh! - ohoohhoh
 Baby if you love me, won't you say you love me
 Say yeah yeah yeah
 

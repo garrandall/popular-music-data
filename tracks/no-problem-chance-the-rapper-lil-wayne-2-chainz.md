@@ -132,7 +132,7 @@ You don't want no problems, want no problems with me
 Just another day, had to pick up all the mail
 There go Chano ridin' through the streets, they be like, "There he go!"
 
-Ooh, I be comin', put the hinges in their hands
+Oh, I be comin', put the hinges in their hands
 Countin' Benjis while we meetin', make 'em shake my other hand
 Milly rockin', scoopin' all the blessings on my lap
 Bitch, I know you tried to cheat, you shoulda never took a nap

@@ -87,7 +87,7 @@ Freak out
 Be good to her
 Cause she's a human machine, oh, oh
 
-Ooh, when I'm with you
+Oh, when I'm with you
 I feel a little heaven
 You got that something
 I wanna get in

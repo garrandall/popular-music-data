@@ -95,9 +95,6 @@ Can't seem to get enough of you
 Get enough, get enough
 Fire
 
-
-
-
 Yeah, yeah, yeah, yeah, whoa
 So, so, so good
 So, so, so good

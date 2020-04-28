@@ -92,8 +92,8 @@ Late at night I'm still listening
 Don't waste my time chasing sleep
 People say I look weary
 But that's just the company I keep
-Ooh, you make the night time race
-Ooh, I don't need to see your face
+Oh, you make the night time race
+Oh, I don't need to see your face
 You're sounding good (You're sounding good)
 Sounding good to me
 
@@ -105,15 +105,15 @@ And you seem like a friend to me
 
 
 
-Ahh, Ahh
+Ah, Ah
 
 
 Late at night I'm still listening
 Don't waste my time chasing sleep
 People say I look weary
 But that's just the company I keep
-Ooh, you make the night time race
-Ooh, I don't need to see your face
+Oh, you make the night time race
+Oh, I don't need to see your face
 You're sounding good (You're sounding good)
 Sounding good to me
 

@@ -59,7 +59,7 @@ Still once again
 
 
 
-Ohhh-ohhh, we're all hunters of the night
+Ohhh-oh, we're all hunters of the night
 
 
 
@@ -72,9 +72,9 @@ Still once again
 
 We are hunters, we all hunt the night, findin' love wherever they might
 We're all hunters, we're hunters of the night
-Ohhh-ohhh, we're all hunters of the night
-Ohhh-ohhh, we're all hunters of the night
-Ohhh, we hunt the night, we hunt the night, we hunt the night... 
+Ohhh-oh, we're all hunters of the night
+Ohhh-oh, we're all hunters of the night
+Ohhh, we hunt the night, we hunt the night, we hunt the night...
 
 
 

@@ -35,7 +35,7 @@ A ho gon' be a ho, so ain't no use for no advice
 When you crossed me, you lost me, can't let you cross me twice
 
 I almost fell in love with a thottie (Oh)
-My dawg said "You got too many bodies" (Ooh)
+My dawg said "You got too many bodies" (Oh)
 Girl, that pussy had me like a zombie (Oh)
 I gotta pour out my feelings that's inside me, yeah
 What happened in the dark is gon' come to the light (Come to the light)
@@ -45,7 +45,7 @@ Treat me like a king baby talk to me nice (Talk to me)
 You fucking with a ball player and now acting bougie
 Seen you out in traffic you act like you never knew me
 I just bust out laughing when I seen with you that goofy (Ha)
-Savage for that money, you like Ginger from the movie, ooh
+Savage for that money, you like Ginger from the movie, oh
 I almost fell in love with a ho
 I still dream of me fuckin' you slow
 Ass so fat all the stuff from the back
@@ -65,7 +65,7 @@ Had to protect my wrist, protect my heart
 Because this cold game left my heart cold, now I promise it ain't my fault
 
 I almost fell in love with a thottie (Oh)
-My dawg said "You got too many bodies" (Ooh)
+My dawg said "You got too many bodies" (Oh)
 Girl, that pussy had me like a zombie (Oh)
 I gotta pour out my feelings that's inside me, yeah
 What happened in the dark is gon' come to the light (Come to the light)
@@ -86,7 +86,7 @@ And that's word to low-rider (Low-rider, no, no)
 Soon as I thought I got one, I was like
 
 I almost fell in love with a thottie (Oh)
-My dawg said "You got too many bodies" (Ooh)
+My dawg said "You got too many bodies" (Oh)
 Girl, that pussy had me like a zombie (Oh)
 I gotta pour out my feelings that's inside me, yeah
 What happened in the dark is gon' come to the light (Come to the light)

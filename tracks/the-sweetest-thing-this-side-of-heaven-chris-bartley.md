@@ -70,8 +70,8 @@ This side of Heaven
 The sweetest thing
 This side of Heaven
 
-Ooh, I love her so
-Ooh, I'll never let her go
+Oh, I love her so
+Oh, I'll never let her go
 
 No one can steal this
 Love I feel for my baby

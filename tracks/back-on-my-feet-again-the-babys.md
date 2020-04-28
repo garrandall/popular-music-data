@@ -102,7 +102,7 @@ I'm back on my feet again
 Here I am
 I'm back on my feet again
 
-Ooh yeah, here I am
+Ohyeah, here I am
 I'm back on my feet again
 Here I am
 I'm back on my feet again

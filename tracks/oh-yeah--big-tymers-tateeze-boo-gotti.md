@@ -83,9 +83,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-12-28'
 ---
-Yeah, mmm hmmm
+Yeah, mmm hm
 This one goes out to all the pretty young ladies out there
-In pretty young lady land mmm hmmm see what I'm sayin
+In pretty young lady land mmm hm see what I'm sayin
 I want you to just peep over your shoulders hunny... ya see
 
 

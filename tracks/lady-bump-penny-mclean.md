@@ -73,11 +73,11 @@ Lady Bump look at me and you'll know why
 
 No
 I don't need a break 'cause my hips got to shake -
-Ooh come on
+Oh come on
 Let's dance - look at me
 When I feel your touch - baby
 It's too much
-Ooh come on
+Oh come on
 Let's dance - look at me tonight...
 
 They call me Lady Bump

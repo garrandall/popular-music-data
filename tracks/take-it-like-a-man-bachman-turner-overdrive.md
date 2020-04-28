@@ -61,7 +61,3 @@ I guess I'm gonna have to change until this mess is rearranged
 
 I guess I'm gonna have to change until my life is rearranged
 
-
-
-
-

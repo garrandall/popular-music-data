@@ -1,6 +1,6 @@
 ---
 artists:
-- Missy "Misdemeanor" Elliott
+- Missy Elliott
 features:
 - Ginuwine
 - Tweet

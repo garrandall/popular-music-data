@@ -36,7 +36,7 @@ Ummah, Ummah, Ummah, Ummah
 
 A hard time if your motion is still
 Let me move some things around because the lyrics is ill
-Abstract..you know my stiggidy in here (yeah)
+Abstract...you know my stiggidy in here (yeah)
 Niggas get on and swear it's they fuckin' year
 But yo your girl just moved
 To the joint in the club, in the car if it groove

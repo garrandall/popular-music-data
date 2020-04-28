@@ -72,7 +72,7 @@ Hully gully baby
 All I wanna do with you
 Is a hully gully baby
 We said goodbye to Mammy
-Hit ev'ry joint in Miami
+Hit every joint in Miami
 We danced all night
 Till dawn's early light
 I said, a hey girl, I love you

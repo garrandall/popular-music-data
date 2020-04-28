@@ -3,9 +3,9 @@ artists:
 - Bo Diddley
 features: []
 genres: []
-key: ooh-baby-bo-diddley
-lyrics_url: https://genius.com/Bo-diddley-ooh-baby-lyrics
-name: Ooh Baby
+key: ohbaby-bo-diddley
+lyrics_url: https://genius.com/Bo-diddley-ohbaby-lyrics
+name: OhBaby
 rankings:
 - end_date: '1967-01-27'
   rank: 92
@@ -36,10 +36,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
 ---
-(Whoa-ooh baby, I love you)
-Ooh baby I love you, yeah
-(Whoa-ooh baby, I love you)
-Ooh baby I love you
+(Whoa-ohbaby, I love you)
+Ohbaby I love you, yeah
+(Whoa-ohbaby, I love you)
+Ohbaby I love you
 (Spoken:)
 Wait a minute!
 You know my woman told me, she said
@@ -49,8 +49,8 @@ She said, "I love you but I'm leavin' you"
 And I said, "Baby?"
 And she kept sayin', "Whoa baby, I love you"
 What you say, girl?
-(Whoa-ooh baby, I love you)
-Ooh, I love you
+(Whoa-ohbaby, I love you)
+Oh I love you
 Ooow! Somethin' wrong here someplace
 (Whoa-oh baby, I love you)
 Wait a minute!
@@ -62,7 +62,7 @@ I said, "What?"
 There somethin' wrong here
 And she kept talkin' 'bout
 I love you
-(Whoa-ooh baby, I love you)
+(Whoa-ohbaby, I love you)
 Fellas, let me tell you somethin'
 Ha, ha, ha
 Wow! Woo, somethin' wrong
@@ -87,7 +87,7 @@ Jivin'
 Are you?"
 There's somethin' wrong some place
 She kept talkin' 'bout
-"Ooh baby, (I want you, I love you)
+"Ohbaby, (I want you, I love you)
 (I need you)
 (I love you) I love you
 (I love you)

@@ -84,9 +84,6 @@ Convince myself
 It's my life, don't you forget
 It's my life, it never ends (It never ends)
 
-
-
-
 I've asked myself, how much do you
 Commit yourself?
 It's my life, don't you forget

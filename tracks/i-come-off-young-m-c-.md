@@ -29,7 +29,7 @@ rankings:
   start_date: '1990-04-21'
 ---
 Hey, hey, ya, ya, you got it going on
-Aah na-na, na-na
+Ah na-na, na-na
 
 Now I wrote this record for when I perform
 Lonely nights inside a university dorm

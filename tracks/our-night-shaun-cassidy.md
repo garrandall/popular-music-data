@@ -23,7 +23,7 @@ rankings:
 Bet you've got a lot of lovers
 Bet i'm not the only one
 I've heard tell of all the others
-And i know where you're coming from
+And I know where you're coming from
 I know where you're coming from
 And going to
 I even know exactly what you're gonna do
@@ -39,11 +39,11 @@ I got the same for you
 
 And this will be our night
 This will be our night
-And i know that we can do it
+And I know that we can do it
 Do it till we get it right
 And this will be our night
 This will be our night
-And i know that we can do it
+And I know that we can do it
 Do it if it takes all night
 
 But there's never been a time
@@ -54,6 +54,6 @@ Who can jam up my mind
 If it ain't that way
 And whatever you want
 Whatever you do
-Don't you forget that i want it too
+Don't you forget that I want it too
 
 And this will be our night

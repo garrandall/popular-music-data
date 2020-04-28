@@ -76,7 +76,7 @@ I hear you knockin'
 Go back where you been
 Ah, yes
 
-Ooh-hoo, ooh
+Oh-hoo, oh
 Child, rave it up
 Fats Domino
 Smiley Lewis
@@ -105,7 +105,7 @@ I hear you knockin'
 Go back where you been
 Yes
 
-Ooh-hoo, ooh
+Oh-hoo, oh
 Yes
 That's a gal of gal
 Ah, yes

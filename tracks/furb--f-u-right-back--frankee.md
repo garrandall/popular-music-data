@@ -36,7 +36,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-05-01'
 ---
-No, ohh
+No, oh
 No no no
 You know there's two sides to every story
 
@@ -81,10 +81,10 @@ You broke my back
 Well guess what yo
 Your sex was wack
 
-Ooh ooh oh oh yeah
-Ooh ooh oh oh yeah
-Ooh ooh oh oh yeah
-Ooh ooh oh oh yeah
+Oh ohoh oh yeah
+Oh ohoh oh yeah
+Oh ohoh oh yeah
+Oh ohoh oh yeah
 
 You question did I care
 Maybe I would have
@@ -100,9 +100,9 @@ Fuck off that cryin', it didn't mean jack
 Well guess what yo
 Fuck you right back
 
-Ooh ooh oh oh yeah
-Ooh ooh oh oh yeah
-Ooh ooh oh oh yeah
-Ooh ooh oh oh yeah
+Oh ohoh oh yeah
+Oh ohoh oh yeah
+Oh ohoh oh yeah
+Oh ohoh oh yeah
 
 You made me do this

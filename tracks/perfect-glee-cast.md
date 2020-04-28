@@ -58,7 +58,7 @@ Strange ourselves, and we do it all the time
 Why do we do that?
 Why do I do that?
 Why do I do that?
-Yeah, ohh...
+Yeah, oh...
 
 Oh pretty, pretty please
 Pretty pretty please, don't you ever ever feel

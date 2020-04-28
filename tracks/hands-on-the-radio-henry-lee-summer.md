@@ -20,7 +20,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-01'
 ---
-Yeah....
+Yeah...
 
 When everything's getting me down
 Oh, yeah, you seem to always be around
@@ -61,5 +61,5 @@ Hands on the ra, hands on the radio
 
 (Hands on the radio)
 (Hands on the radio)
-Yeah, yeah, yeah, yeah.....
+Yeah, yeah, yeah, yeah...
 (Hands on the radio)

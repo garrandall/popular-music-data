@@ -55,7 +55,7 @@ On a diet of your love
 
 (Cotton candy)
 You are my (Cotton candy)
-Sweeter than apple pie, ooh (Cotton candy)
+Sweeter than apple pie, oh(Cotton candy)
 You came straight from Mother Nature's oven
 Bringin' me that red hot lovin'
 
@@ -73,7 +73,7 @@ But you keep on teasin' me (Don't you tease me, girl)
 Girl, don't make me suffer
 I'm starvin' for your love
 You give me just a little
-But woo, it's just not enough (Just not enough), ooh
+But woo, it's just not enough (Just not enough), oh
 
 (Cotton candy)
 I can't get enough, get enough of your (Cotton candy)

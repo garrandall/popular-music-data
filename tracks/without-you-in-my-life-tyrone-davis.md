@@ -81,7 +81,7 @@ Some men love a whole lotta women
 Others love fancy flashy things
 
 But me, if I had just one wish
-Ooh, my dear, it would be just this
+Oh, my dear, it would be just this
 If I could live for a thousand years
 I'd spend all those years with you
 Now can you hear me, baby

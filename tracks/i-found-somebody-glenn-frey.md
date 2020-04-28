@@ -93,7 +93,7 @@ And she loves me in the midnight hour
 You know ever since I found you
 And put my arms around you
 I don't need a doggone thing
-You know that ev'ry day is such a beautiful day
+You know that every day is such a beautiful day
 I want the whole world to dance and sing
 So don't you dare hang your head
 Don't you dare be blue

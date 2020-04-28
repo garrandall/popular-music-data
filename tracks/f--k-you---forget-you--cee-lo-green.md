@@ -203,7 +203,7 @@ rankings:
 See you driving 'round town
 With the girl I love and I'm like
 Fuck you
-(Ooh, ooh, ooh)
+(Oh, oh oh
 I guess the change in my pocket
 Wasn't enough, I'm like
 Fuck you
@@ -215,7 +215,7 @@ Ha, oh ain't that some ssh
 And although there's pain in my chest
 I still wish you the best with a
 Fuck you
-(Ooh, ooh, ooh)
+(Oh, oh oh
 Yeah I'm sorry, I can't afford a Ferrari
 But that don't mean I can't get you there
 I guess he's an X-box, and I'm more Atari
@@ -224,13 +224,13 @@ I pity the fool that falls in love with you oh
 (Oh ssh she's a gold digger)
 Well
 (Just thought you should know n**a)
-Ooh, ooh, oh
+Oh, oh oh
 I've got some news for you
 Yeah go run and tell your little boyfriend
 See you driving 'round town
 With the girl I love and I'm like
 Fuck you
-(Ooh, ooh, ooh)
+(Oh, oh oh
 I guess the change in my pocket
 Wasn't enough, I'm like
 Fuck you
@@ -241,7 +241,7 @@ Ha, ain't that some ssh
 And although there's pain in my chest
 I still wish you the best with a
 Fuck you
-(Ooh, ooh, ooh)
+(Oh, oh oh
 Now I know, that I had to borrow
 Beg and steal and lie and cheat
 Trying to keep ya, trying to please ya
@@ -250,13 +250,13 @@ I pity the fool that falls in love with you oh
 (Oh ssh she's a gold digger)
 Well
 (Just thought you should know n**a)
-Ooh, ooh, oh
+Oh, oh oh
 I've got some news for you
-Ooh I really hate your ass right now
+Oh I really hate your ass right now
 See you driving 'round town
 With the girl I love and I'm like
 Fuck you
-(Ooh, ooh, ooh)
+(Oh, oh oh
 I guess the change in my pocket
 Wasn't enough, I'm like
 Fuck you
@@ -267,7 +267,7 @@ Ha, oh ain't that some ssh
 And although there's pain in my chest
 I still wish you the best with a
 Fuck you
-Ooh, ooh, ooh
+Oh, oh oh
 Now baby, baby, baby, why'd you wanna wanna hurt me so bad?
 (so bad, so bad, so bad)
 I tried to tell my mamma but she told me
@@ -280,7 +280,7 @@ I still love you, oh
 I see you driving 'round town
 With the girl I love and I'm like
 Fuck you
-(Ooh, ooh, ooh)
+(Oh, oh oh
 I guess the change in my pocket
 Wasn't enough, I'm like
 Fuck you
@@ -291,4 +291,4 @@ Ha, ain't that some shh
 And although there's pain in my chest
 I still wish you the best with a
 Fuck you
-Ooh, ooh, ooh
+Oh, oh oh

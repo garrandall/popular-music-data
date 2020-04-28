@@ -149,7 +149,7 @@ I find a reason why
 To give us one more try
 Knowing, knowing, baby
 You're going to hurt me
-Ooh, ooh, oh yeah
+Oh, oh oh yeah
 
 
 Oh, do it to me one more time

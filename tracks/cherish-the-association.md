@@ -72,16 +72,16 @@ You don't know how many times
 I've wished that I had told you
 You don't know how many times
 I've wished that I could hold you
-You don't know how many times 
+You don't know how many times
 I've wished that I could
 Mold you into someone who could
 Cherish me as much as I cherish you
 
 Perish is the word that more than applies
 To the hope in my heart each time I realize
-That I am not gonna be the one 
+That I am not gonna be the one
 To share your dreams
-That I am not gonna be the one 
+That I am not gonna be the one
 To share your schemes
 That I am not gonna be the one to share what
 Seems to be the life that you could
@@ -89,7 +89,7 @@ Cherish as much as I do yours
 
 Oh, I'm beginning to think that man has never found
 The words that could make you want me
-That have the right amount of letters 
+That have the right amount of letters
 Just the right sound
 That could make you hear, make you see
 That you are drivin' me out of my mind
@@ -100,7 +100,7 @@ That I want you
 Just like a thousand other guys
 Who'd say they loved you
 Like all the rest of their lies
-When all they wanted 
+When all they wanted
 Was to touch your face your hands
 And gaze into your eyes
 
@@ -116,9 +116,9 @@ I've wished that I could
 Mold you into someone who could
 Cherish me as much as I cherish you
 
-And I do     
+And I do
 Cherish you
-And I do     
+And I do
 Cherish you
 
 Cherish is the word

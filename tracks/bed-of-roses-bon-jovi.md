@@ -139,9 +139,6 @@ And she's giving me the eye
 I might have said yeah
 But I laughed so hard I think I died
 
-
-
-
 Now as you close your eyes
 Know I'll be thinking about you
 While my mistress she calls me

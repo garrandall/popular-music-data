@@ -118,7 +118,7 @@ And what if time doesn't do what it's supposed to do?
 What if I never get over you?
 
 
-Ooh yeah
+Oh yeah
 What if I never get over?
 What if I never get closure?
 What if I never get back all the wasted words I told ya?

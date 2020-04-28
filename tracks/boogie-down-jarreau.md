@@ -75,7 +75,3 @@ Here's a little step for you and me
 Come and strut your stuff but leave enough
 For the nearest boogie and truest boogie woogie
 
-
-
-
-

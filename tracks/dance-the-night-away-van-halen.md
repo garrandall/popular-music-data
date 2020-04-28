@@ -75,9 +75,9 @@ And I feel her from across the room
 Yes, it's love in the third degree
 
 
-Ooh, baby, baby
+Oh, baby, baby
 Won'tcha turn your head my way?
-Ooh, baby, baby
+Oh, baby, baby
 Come on, take a chance, you're old enough to
 Dance the night away
 Oh, come on, baby, dance the night away
@@ -89,9 +89,9 @@ She's on fire
 'Cause dancing gets her higher than anything else she knows
 
 
-Ooh, baby, baby
+Oh, baby, baby
 Won'tcha turn your head my way?
-Ooh, baby, baby
+Oh, baby, baby
 Well, don't skip romance, 'cause you're old enough to
 Dance the night away
 Oh, come on, baby, dance the night away
@@ -111,6 +111,6 @@ Hey, hey, yeah
 Dance, dance, dance the night away
 Uh-come on, baby, baby
 Dance the night away
-Ooh, ooh-ooh-ooh, yeah
+Oh, oh-oh-oh, yeah
 Dance, dance, dance the night away
-Ahh, ahh-ah, ow!
+Ah, ah-ah, ow!

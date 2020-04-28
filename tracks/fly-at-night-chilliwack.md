@@ -44,7 +44,7 @@ When you fly the universe, well you
 Need some rest
 Yeah, you need some rest
 
-Ooh, we like the big wide spaces
+Oh, we like the big wide spaces
 Yeah, we like a sea of faces
 Time is just a rubber band
 Time is at our command

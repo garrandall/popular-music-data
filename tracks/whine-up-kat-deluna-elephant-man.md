@@ -108,7 +108,7 @@ Ha, ha, ha, you got what I'm searching for
 I'm feeling your vibing, I'm riding high, it's exotic
 And I want you, I want you here
 Pull me closer and closer and hold me tight to your body
-I wanna feel you, I wanna feel you near (ooh!)
+I wanna feel you, I wanna feel you near (oh!)
 
 
 Whine up, whine up, whine up, oye!
@@ -180,4 +180,4 @@ Whine up, whine up
 
 Lo cuero
 Toca los cueros
-Loca e que ta!!
+Loca e que ta!

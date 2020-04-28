@@ -80,7 +80,7 @@ But I couldn't wait
 
 Hello, my friend, hello
 Just called to let you know
-I think about you ev'ry night
+I think about you every night
 When I'm here alone
 And you're there at home, hello
 
@@ -100,7 +100,7 @@ When I hear you say, hello
 
 Hello, my friend, hello
 Just called to let you know
-I think about you ev'ry night
+I think about you every night
 And I know it's late
 But I couldn't wait
 Hello

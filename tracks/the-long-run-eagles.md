@@ -95,7 +95,7 @@ We will still come through
 
 
 In the long run
-Ooh, I want to tell you
+Oh, I want to tell you
 It's a long run
 
 
@@ -126,13 +126,13 @@ But we ain't breakin'
 
 
 In the long run
-Ooh, I want to tell you
+Oh, I want to tell you
 It's a long run
 In the long run
 In the long run
 
 
-Gonna find out, ooh fa-fa-fa-find out
+Gonna find out, oh fa-fa-fa-find out
 Long-long-long-long, long-long-long-long
-Ooh, run-run-run, baby, run-run, baby
+Oh, run-run-run, baby, run-run, baby
 Long, long, long, long

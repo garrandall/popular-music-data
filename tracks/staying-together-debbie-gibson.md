@@ -92,9 +92,6 @@ Oh it was so much more than love at first sight
 Please say you'll stay, say you might
 Then say we are staying together
 
-
-
-
 Cause I don't know baby what you've done, don't know
 (I only know baby, I only know)
 You were always the only one

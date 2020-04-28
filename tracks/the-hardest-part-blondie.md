@@ -37,7 +37,7 @@ The hardest part of the armoured guard
 Big man of steel behind the steering wheel
 
 In a wire mesh cage with a twelve gauge. Radio - we're coming fast
-Ooh, I need to feel some hardened steel, deliver the big money deal
+Oh I need to feel some hardened steel, deliver the big money deal
 
 Of the armoured guard here's what I heard
 I'll tell you that he will no matter what you feel

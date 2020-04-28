@@ -117,7 +117,7 @@ What you're thinking of
 Am I more than just a fantasy?
 'Cause I'm hurting, boy
 Can't you see?
-Ooh
+Oh
 
 
 

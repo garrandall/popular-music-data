@@ -20,16 +20,16 @@ Oh oh my baby oh
 
 (Verse1)
 I have waited for so long to hear you say
-I wanna spend my whole life with you (yes i do)
-Well i dont mean to fuss dont mean to push
+I wanna spend my whole life with you (yes I do)
+Well I don't mean to fuss don't mean to push
 I know your all alone
-But theres just one thing i have to know
+But theres just one thing I have to know
 
 (Chorus)
 Is it just infatuation?
 Or is it real love? (real love?)
 Is it just infatuation?
-Well why dont you take me girl
+Well why don't you take me girl
 And drive me in your life?
 
 (Verse2)
@@ -47,32 +47,32 @@ Is it just infatuation?
 Or is it real love?(real love?)
 Is it just infatuation?
 (i need to know right now my darlin please)
-Why dont you take me girl
+Why don't you take me girl
 And drown me in your love?
-Come on baby i need to know right now
+Come on baby I need to know right now
 Tell what you think of about me baby?
 Tell me what you think about me girl?
-Oh oh oh i need to know right now
+Oh oh oh I need to know right now
 Come on come on my baby
 
 (Hook)
 Even if im all alone
 Gurl you give me strength
 I can carry on (your the special kind)
-Gurl im so confused i don't know what to do
+Gurl im so confused I don't know what to do
 Right on right on right on
 (im turnin ya love its original)
 And like the rain that falls on me
 Girl ya heal my soul
 Girl ya set me free
-(girl this is how i feel)
+(girl this is how I feel)
 Well baby ya know how
 Girl ya see that ya my
 My love baby my sweetness
-Can i talk to you
+Can I talk to you
 We really need to work this out
 Without a doubt
-I need to know dont ya keep me hangin on
+I need to know don't ya keep me hangin on
 Well theres no need to do me wrong
 (Chrous)
 Is this just infatuation?

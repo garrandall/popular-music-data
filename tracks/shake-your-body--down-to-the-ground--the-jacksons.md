@@ -120,7 +120,7 @@ Shake your body down to the ground
 Let's dance, let's shout (Shout)
 Shake your body down to the ground
 
-Ooh! Down, down, down, down, down
+Oh Down, down, down, down, down
 
 You tease me with your loving to play hard to get
 'Cause you do know that I want ya

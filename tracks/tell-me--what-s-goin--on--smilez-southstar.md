@@ -91,16 +91,16 @@ love, trust, good sex, and security
 if you ever felt weak smilez was your energy
 trips across seas, show you the finer things
 no more burger king it was fine dine, cuisine
-and if we never had it, i don't think it mattered
+and if we never had it, I don't think it mattered
 we were a classic like nas in illmatic
-i was so deceived, i thought we had a thing
+i was so deceived, I thought we had a thing
 you used to blow my 2 way up wit 143's
-da L-O-V had me blind i would had to see
+da L-O-V had me blind I would had to see
 i trusted my friends, all they were yellin at me
-how could you do me so wrong, i don't wanna get gone
+how could you do me so wrong, I don't wanna get gone
 i invested three years ma, plus this song
-i'm so confused, where to go? how do i choose?
-i guess to find real love i gotta pay my dues
+i'm so confused, where to go? how do I choose?
+i guess to find real love I gotta pay my dues
 
 love, hate, mistakes, tell me what you think is goin on
 debates, all day tell me what you think is goin on
@@ -111,18 +111,18 @@ it seems so good, yo we used to chill in the hood
 you made me feel that tingle in my heart like nobody could
 and all alone we stood, when times was hard
 even before all this rap shit made me a star
-when i was working two jobs, just to survive
-when i felt like killin myself you kept me alive
+when I was working two jobs, just to survive
+when I felt like killin myself you kept me alive
 wat a pair, me n you, we was a match
 different tastes, but you kno opposites attract
 by my side, hold my head, and kept me strong
 still trying to figure out, where the hell we went wrong
-i did what i can, young cat made a man
+i did what I can, young cat made a man
 stayed and weathered the storm, when most would of ran
 too much pride, and you kno men don't cry
 had to let you go even though it hurt inside
-all by myself, now i had to turn to these rhymes
-its the only way i kno to release my mind.
+all by myself, now I had to turn to these rhymes
+its the only way I kno to release my mind.
 
 love, hate, mistakes, tell me what you think is goin on
 debates, all day tell me what you think is goin on
@@ -136,7 +136,7 @@ try not to let it make me sad, or make me mad
 i'm tryin to move on wit my life, the wound is healed
 yea i'm juss speakin it real, i'm ready to feel
 ready to provide for my seed, a man now
-bet you cant believe its me
+bet you can't believe its me
 
 you ruined a good thing and all of our dreams
 tryin to lock me down a lifetime in the beam
@@ -147,8 +147,8 @@ your friends were my friends
 your doe was my doe
 my doe is my doe
 mano y mano
-we'll fought this weather, 
-and everybody thats been throught it 
+we'll fought this weather,
+and everybody thats been throught it
 then sing it together.
 
 love, hate, mistakes, tell me what you think is goin on

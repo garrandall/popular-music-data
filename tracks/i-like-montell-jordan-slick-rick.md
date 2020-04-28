@@ -109,11 +109,11 @@ Startin' with tonight and I like
 
 I like the way you walk
 The sexy way you talk
-Ooh, I can't help myself, baby, I like
+Oh, I can't help myself, baby, I like
 
 I like to kiss your lips
 And when you move your hips
-Ooh, I can't help myself, baby, I like
+Oh, I can't help myself, baby, I like
 
 Here's the situation, I lay it on the line
 Meaningless relationships, they're wastin' all my time
@@ -130,19 +130,19 @@ I give good lovin' all night long, oh, I like it
 
 I like the way you walk
 The sexy way you talk
-Ooh, I can't help myself, baby, I like
+Oh, I can't help myself, baby, I like
 
 I like to kiss your lips
 And when you move your hips
-Ooh, I can't help myself, baby, I like
+Oh, I can't help myself, baby, I like
 
 I like the way you walk
 The sexy way you talk
-Ooh, I can't help myself, baby, I like
+Oh, I can't help myself, baby, I like
 
 I like to kiss your lips
 And when you move your hips
-Ooh, I can't help myself, baby, I like
+Oh, I can't help myself, baby, I like
 
 Make it hot Montell, make it hot
 Make it hot Montell, make it hot
@@ -164,19 +164,19 @@ Give good lovin' all night long, oh, I like it
 
 I like the way you walk
 The sexy way you talk
-Ooh, I can't help myself, baby, I like
+Oh, I can't help myself, baby, I like
 
 I like to kiss your lips
 And when you move your hips
-Ooh, I can't help myself, baby, I like
+Oh, I can't help myself, baby, I like
 
 I like the way you walk
 The sexy way you talk
-Ooh, I can't help myself, baby, I like
+Oh, I can't help myself, baby, I like
 
 I like to kiss your lips
 And when you move your hips
-Ooh, I can't help myself, baby, I like
+Oh, I can't help myself, baby, I like
 
 Baby, I like the way that you walk
 And baby, I like the way that you talk
@@ -185,8 +185,8 @@ And baby, I like you and baby, I like
 
 I like the way you walk
 The sexy way you talk
-Ooh, I can't help myself, baby, I like
+Oh, I can't help myself, baby, I like
 
 I like to kiss your lips
 And when you move your hips
-Ooh, I can't help myself, baby, I like
+Oh, I can't help myself, baby, I like

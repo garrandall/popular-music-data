@@ -60,12 +60,12 @@ Moonshadow, Moonshadow
 And if I ever lose my hands
 Lose my plough, lose my land
 Oh if I ever lose my hands
-Oh if.... I won’t have to work no more
+Oh if... I won’t have to work no more
 
 And if I ever lose my eyes
 If my colors all run dry
 Yes if I ever lose my eyes
-Oh if.... I won’t have to cry no more
+Oh if... I won’t have to cry no more
 
 Yes, I am bein' followed by a Moonshadow
 Moonshadow, Moonshadow
@@ -75,12 +75,12 @@ Moonshadow, Moonshadow
 And if I ever lose my legs
 I won’t moan, and I won’t beg
 Oh if I ever lose my legs
-Oh if.... I won’t have to walk no more
+Oh if... I won’t have to walk no more
 
 And if I ever lose my mouth
 All my teeth, north and south
 Yes if I ever lose my mouth
-Oh if.... I won’t have to talk...
+Oh if... I won’t have to talk...
 
 Did it take long to find me?
 I asked the faithful light

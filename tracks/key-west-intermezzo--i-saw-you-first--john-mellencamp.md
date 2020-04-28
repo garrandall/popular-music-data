@@ -133,7 +133,7 @@ I'm the first one tonight
 Yes I saw you first
 Don't that give me the right
 To move around in your heart
-Everyone was lookin.....
+Everyone was lookin...
 
 In the bone colored dawn, me and Gypsy Scotty are singin'
 The radio is playin, she left her shoes out in the back

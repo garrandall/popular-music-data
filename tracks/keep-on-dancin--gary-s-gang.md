@@ -48,14 +48,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
 ---
-Ooh, ah
-Ooh, ah
-Ooh, ah
-Ooh, ah
+Oh, ah
+Oh, ah
+Oh, ah
+Oh, ah
 
-Ooh, ah
+Oh, ah
 Keep me dancin'
-Ooh, ah
+Oh, ah
 Funky, funky music
 
 Touch my body, make it funky
@@ -102,15 +102,15 @@ Move your body
 Dance, dance, dance
 Keep me dancin'
 
-Ooh, ooh, dance
-Ooh, ooh, dance
-Ooh, ooh, dance
-Ooh, ooh, dance
+Oh, oh dance
+Oh, oh dance
+Oh, oh dance
+Oh, oh dance
 
-Ooh, ooh, dance
-Ooh, ooh, dance
-Ooh, ooh, dance
-Ooh, ooh
+Oh, oh dance
+Oh, oh dance
+Oh, oh dance
+Oh, oh
 
 Touch my body, make it funky
 Got a feeling like I wanna fly

@@ -67,5 +67,5 @@ But everybody's afraid of love
 You know, I'm a true believer
 If you get anything out of life
 You got to put up with the toil and strife
-Ooh You're pushin' my love
+Oh You're pushin' my love
 A little bit

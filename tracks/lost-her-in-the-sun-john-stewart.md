@@ -75,8 +75,8 @@ What have I done
 Lost her in the sun
 Lost her in the sun
 
-Ooh, lost her in the sun
-Ooh, lost her in the sun
+Oh, lost her in the sun
+Oh, lost her in the sun
 Lost her in the sun
 Ah, lost her in the sun
 
@@ -89,16 +89,16 @@ And what have I done
 Lost her in the sun
 Lost her in the sun
 
-Ooh, lost her in the sun
-Ooh, lost her in the sun
-Ooh, lost her in the sun
+Oh, lost her in the sun
+Oh, lost her in the sun
+Oh, lost her in the sun
 Lost her in the sun
 Ah, lost her in the sun
 
-Ooh, lost her in the sun
-Ooh, lost her in the sun
-Ooh, lost her in the sun
-Ooh, lost her in the sun
+Oh, lost her in the sun
+Oh, lost her in the sun
+Oh, lost her in the sun
+Oh, lost her in the sun
 
 
 

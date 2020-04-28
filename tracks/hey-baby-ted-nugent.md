@@ -66,7 +66,7 @@ I don't need no fancy types I need the ones that's clean
 Hey baby, jump into the back of my car
 I'm gonna give you love babe that's gonna steal your heart
 Hey baby
-ooooooooh
+oh
 Hey baby
 I wantcha to
 Follow me down to my house baby

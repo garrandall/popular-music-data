@@ -91,7 +91,7 @@ Aren't so great?
 
 
 You can't go on
-Thinking nothing's wrong, ohh no
+Thinking nothing's wrong, oh no
 Who's gonna drive you home
 Tonight?
 
@@ -107,7 +107,7 @@ When you scream?
 
 
 You can't go on
-Thinking nothing's wrong, ohh no
+Thinking nothing's wrong, oh no
 Who's gonna drive you home
 Tonight?
 
@@ -119,10 +119,10 @@ When you break?
 
 
 You can't go on
-Thinking nothing's wrong, ohh no
+Thinking nothing's wrong, oh no
 Who's gonna drive you home
 Tonight?
 You can't go on
-Thinking nothing's wrong, ohh no
+Thinking nothing's wrong, oh no
 Who's gonna drive you home
 Tonight?

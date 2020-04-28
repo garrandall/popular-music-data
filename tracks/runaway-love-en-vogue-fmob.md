@@ -77,7 +77,7 @@ Runaway love
 Has to stop before it turns me out
 
 
-Ooh, I'm not qualified to play love games with you
+Oh, I'm not qualified to play love games with you
 I've been hurt hard lately, I'm not for being used, no more
 Just a little lovin', it's like a drug and I'm a drug addict
 I just don't know why I just can't let go
@@ -99,11 +99,11 @@ Has to stop before it turns me out
 Take me
 Take me
 Take me higher, higher
-Ooh, take me higher, higher
+Oh, take me higher, higher
 Take me higher, take me higher
 I know you can do it
 Oh yeah, take me higher, higher
-Take me higher, take me higher, ooh
+Take me higher, take me higher, oh
 Take me higher, higher
 
 
@@ -114,12 +114,12 @@ Like a train on broken tracks, yeah
 Runaway love
 It's too hard to turn it back, oh yeah
 Runaway love
-Ooh, feels good without a doubt, yeah
+Oh, feels good without a doubt, yeah
 Runaway love
 Has to stop before it turns me out
 Runaway love
 Runaway love
-Ooh, just a runaway love
+Oh, just a runaway love
 Runaway love
 Feels good without a doubt, baby
 Runaway love

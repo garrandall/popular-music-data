@@ -114,15 +114,15 @@ this is the girl of my fantasy
 after the remix we were doing are thing
 
 
-I had her singing 
-Thoia thoia thoia thoia thoing thoing 
+I had her singing
+Thoia thoia thoia thoia thoing thoing
 Thoia thoia thoia thoia thoing
 She had me singing
-Thoia thoia thoia thoia thoing thoing 
-Thoia thoia thoia thoia thoing 
+Thoia thoia thoia thoia thoing thoing
+Thoia thoia thoia thoia thoing
 
 
-Now I dont kno about chu 
+Now I don't kno about chu
 but I would like to get wit 2(ah)
 nice hunnies while im chillin by the pool(ah)
 red bikinis and some pupm heel shoes (ah)
@@ -135,48 +135,48 @@ one dal without me and shes shaking like a fien(ah)
 yall tell me whats r&b without the the R(ah)
 
 
-I had her singing 
-Thoia thoia thoia thoia thoing thoing 
+I had her singing
+Thoia thoia thoia thoia thoing thoing
 Thoia thoia thoia thoia thoing
 She had me singing
-Thoia thoia thoia thoia thoing thoing 
-Thoia thoia thoia thoia thoing 
+Thoia thoia thoia thoia thoing thoing
+Thoia thoia thoia thoia thoing
 
 
-I met a girl in the shopping mall 
+I met a girl in the shopping mall
 she had hazel eyes said shes form africa
 she broke it down right in front of me
-rollin on her knees I said im scared of ya 
+rollin on her knees I said im scared of ya
 tattoo on her back lovin the way she work it
 body movin like shes dancin in the circus
 back forth up down when jerk it
 put the thoiathoiathoing on now watch her murder it
 
 
-I had her singing 
-Thoia thoia thoia thoia thoing thoing 
+I had her singing
+Thoia thoia thoia thoia thoing thoing
 Thoia thoia thoia thoia thoing
 She had me singing
-Thoia thoia thoia thoia thoing thoing 
-Thoia thoia thoia thoia thoing 
+Thoia thoia thoia thoia thoing thoing
+Thoia thoia thoia thoia thoing
 
 
 We make a lot of noise
 we come through the club
 all of the ladies in the house
 come show ya boys some love
-last call for alcohol 
+last call for alcohol
 we're closin down the bar
 tell me where's the after party at
 we rollin with the R
 
 
-I had her singing 
-Thoia thoia thoia thoia thoing thoing 
+I had her singing
+Thoia thoia thoia thoia thoing thoing
 Thoia thoia thoia thoia thoing
 She had me singing
-Thoia thoia thoia thoia thoing thoing 
-Thoia thoia thoia thoia thoing 
+Thoia thoia thoia thoia thoing thoing
+Thoia thoia thoia thoia thoing
 
 
 

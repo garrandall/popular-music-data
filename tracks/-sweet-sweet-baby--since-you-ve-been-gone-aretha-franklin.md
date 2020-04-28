@@ -78,9 +78,6 @@ Since you've been gone, baby
 Since you've been gone
 (Why'd you do it? why'd you have to do it?)
 
-
-
-
 Baby baby, sweet baby
 I didn't mean to run you away
 It was pride on my lips

@@ -67,7 +67,7 @@ I lost him, Lord it hurt so bad
 
 Rumour has it
 
-You never know just what you've wont until you've lost
+You never know just what you've won't until you've lost
 And the object of the game is not to pay the cost
 Anyone can play the game, there are no rules
 And you never know just what you've won until you lose

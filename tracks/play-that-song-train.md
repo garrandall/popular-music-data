@@ -119,7 +119,7 @@ Hey
 
 Play that song
 The one the makes me stay out till dawn
-The one that makes me go "ooh"
+The one that makes me go "oh"
 That's all you gotta do
 
 
@@ -149,16 +149,16 @@ Hey
 
 Play that song
 The one the makes me stay out till dawn
-The one that makes me go "ooh"
+The one that makes me go "oh"
 That's all you gotta do
 
 
 Oh
-Wait till you see my baby moo-oo-oove
-Moo-oo-oove Moo-oo-oove
-Moo-oo-oove Wait till you see my baby moo-oo-oove
-Moo-oo-oove Moo-oo-oove
-Moo-oo-oove
+Wait till you see my baby move
+Move Move
+Move Wait till you see my baby move
+Move Move
+Move
 
 Oh come on now
 
@@ -172,7 +172,7 @@ Hey
 
 Play that song
 The one the makes me stay out till dawn
-The one that makes me go "ooh"
+The one that makes me go "oh"
 That's all you gotta do
 Oo oo oo oo
 Oo oo oo oo

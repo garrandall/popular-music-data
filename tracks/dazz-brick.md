@@ -98,8 +98,8 @@ Funky dancing get up, get down, shake your booty
 Music makes your body move, well all right
 
 La la la la la la la la la la la la...
-Ooh-ooh-ooh-ooh
-Ooh-ooh-ooh-ooh
+Oh-oh-oh-oh
+Oh-oh-oh-oh
 
 Everybody go on and dance if you want to
 Music makes your body move, well all right

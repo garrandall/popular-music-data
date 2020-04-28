@@ -35,9 +35,6 @@ Somebody said to me
 I think that people are the greatest fun"
 And I will be alone again tonight my dear
 
-
-
-
 Yeah
 I heard a funny thing
 Somebody said to me

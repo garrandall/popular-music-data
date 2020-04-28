@@ -49,7 +49,7 @@ Mind over matter, money over all
 The world is on my shoulders
 Should I dust my shoulders off?
 Uzi rat-a-tatter, knocking over walls
-Fuck the bullshit but just don't fuck it raw 
+Fuck the bullshit but just don't fuck it raw
 Man pussy has a pattern and I know where I'm going
 And if you got beef I turn it to a tenderloin
 Sanity kills so I live the crazy life
@@ -69,8 +69,4 @@ Yeah, now time's getting shorter
 Red Light on your head like a fucking recorder now
 Don't you cross me, you do better crossing the border
 So much money piled up, I'm a motherfucking hoarder
-
-
-
-
 

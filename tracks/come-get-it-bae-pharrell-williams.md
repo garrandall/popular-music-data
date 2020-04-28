@@ -106,13 +106,6 @@ I can do anything you need
 I can give you dirty looks
 Like them niggas that's on T.V
 
-
-
-
-
-
-
-
 There comes a time (comes a time), the craving will grab your wrist
 You'll need a sugar fix, baby
 There comes a time (comes a time), and you won't believe what you'll do
@@ -122,9 +115,5 @@ H-O-M-E, (sugar, sugar) satisfaction guaranteed
 And there will come a time, this is where you wanna be
 Cause it's everything you need, you will only find in me
 
-Come get it bae 
-
-
-
-
+Come get it bae
 

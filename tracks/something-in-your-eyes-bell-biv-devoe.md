@@ -138,7 +138,3 @@ Something in your eyes, and hey, I can see it
 Something in your eyes had given me a sign
 And I knew it was on, I knew it was on
 
-
-
-
-

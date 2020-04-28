@@ -29,9 +29,9 @@ Loving money being greedy
 (Yeah, yeah)
 
 And you're lying
-Ooh, cheating
+Oh cheating
 You've got me crying
-Ooh, baby girl
+Oh baby girl
 
 And you're taking (taking)
 Giving nothing but shaking
@@ -47,7 +47,7 @@ You ain't fooling me
 You're fooling you
 You're fooling you (You're fooling you)
 You're fooling you (You're fooling you)
-You're fooling you (You're fooling you) ooh, ooh
+You're fooling you (You're fooling you) oh, oh
 
 Ah, you're skipping (ah you're moving)
 All around me and you're scheming
@@ -75,7 +75,7 @@ You're fooling you, hey, hey, hey, hey
 You're acting needy
 But you're kinda greedy
 Ain't gonna be slaving
-No, not while you're playing, oooh
+No, not while you're playing, oh
 (You might think I'm dreaming)
 Tell, Tell me who's fooling who
 You ain't fooling me, no

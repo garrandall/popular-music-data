@@ -61,7 +61,7 @@ And yet we knew
 I'll remember your smile
 The way it warmed me in the moonlight
 The way my heart began to melt
-The strange effection that i felt for you
+The strange effection that I felt for you
 
 To think that only a moment ago
 We were no more than strangers

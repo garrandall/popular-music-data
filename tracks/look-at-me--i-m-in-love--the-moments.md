@@ -75,6 +75,6 @@ Look at me
 Look at me, I'm in love
 Can't you see, can't you see I'm so happy
 Look at me, I'm in love
-Ooh, I'm in love
+Oh, I'm in love
 
 Look at me, I'm in love

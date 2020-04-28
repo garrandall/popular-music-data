@@ -77,7 +77,7 @@ rankings:
 You walked into my life, when I was down and out
 Took away my pain and gave me your smile
 And at the time, still lovin someone else
-Not knowin'why kus they were the reason why i felt the way i felt
+Not knowin'why kus they were the reason why I felt the way I felt
 And then one day I realized
 That you were the one for me
 I was sooo blind, but baby now I see
@@ -100,10 +100,9 @@ I would do it for you, just to take
 The pain that I have given you away
 Cause I love you and I never want to let you go
 
-Chorus
 
 Bridge:
-I'm sorry (oh yes i am)
+I'm sorry (oh yes I am)
 I'm sorry (I'm so sorry baby)
 
 Chorus 2x

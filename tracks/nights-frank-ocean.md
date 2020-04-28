@@ -44,13 +44,13 @@ Always like the head first
 Signal comin' in and out
 Hope you're doin' well, bruh
 Everybody needs you, everybody needs you
-Oooh, nani nani
+Oh, nani nani
 This feel like a quaalude
 No sleep in my body
 Ain't no bitch in my body
 
 
-New beginnin's, ahh
+New beginnin's, ah
 New beginnin's, wake up akh
 The sun's goin' down
 Time to start your day, bruh
@@ -80,9 +80,6 @@ I'll buzz you in, just let me know when you outside
 All my night, you been missin' all my night
 Still got some good nights memorized
 And the look back's gettin' me right
-
-
-
 
 Every night fucks every day up
 Every day patches the night up

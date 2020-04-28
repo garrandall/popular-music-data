@@ -129,7 +129,6 @@ Can you see through your tears
 I will always be here
 And you're not out there all alone
 
-Chorus
 
 Hold on, till you feel a little stronger
 Hold on to me

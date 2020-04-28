@@ -46,12 +46,12 @@ I can't run and I can't hide
 She said: save me
 (save me, girl)
 She said save me...
-Ooh!
+Oh!
 
 All on her own
 She's on the phone
 So sincerely...
-Ooh... makin' a joke
+Oh... makin' a joke
 There's no reply
 She wonders why
 And pays the rent one more time
@@ -74,7 +74,7 @@ She said: save me
 (save me, girl)
 
 She said save me...
-Ooh!
+Oh!
 
 Everybody's out there on the take
 (on the take)
@@ -110,7 +110,7 @@ Save my soul, baby
 (save me)
 Save me girl
 (can't run, can't hide away)
-Ooh...
+Oh...
 (save me)
 Save me, girl
 (can't run, can't hide away)
@@ -124,7 +124,7 @@ Come on, baby
 (can't run, can't hide away)
 Hoo!
 Save my soul...
-Ooh!
+Oh!
 
 
 

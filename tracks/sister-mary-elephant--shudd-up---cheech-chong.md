@@ -59,10 +59,10 @@ rankings:
 ---
 Good morning, class. Good morning, class. Class? Class?! Shut up! Thank you
 As you know your regular teacher Sister Rosetta Stone is on a small vacation. However she does send her love, at least fingerpaintings, and desk club she's making. I am your substitute teacher, Sister Mary Elephant
-Class, attention. Attention, class! Class? SHUT UP!!!!! Thank you
+Class, attention. Attention, class! Class? SHUT UP! Thank you
 Young man, now give me that knife. Thank you
 Now class, you all know who I am, so let's find out who you are
-Class? Class!? SHUT UP!!!!!
+Class? Class!? SHUT UP!
 
 
 Far out, man!
@@ -101,8 +101,8 @@ STUDENT :
 ...Then I got a job, keeping people from here and out in front of the drugstore. The fourth day on my...
 
 
-Young man? Young man? Young man!? SHUT UP!!!!! Thank you
-Now class, I have a surprise for you! I'm going to read you some poems out of this lovely book of poetry. The sun kisses the morning skies. The birds kiss the butterflies. The dew kisses the morning grass. Class? Class!? Cla-- WAKE UP!!!!!
+Young man? Young man? Young man!? SHUT UP! Thank you
+Now class, I have a surprise for you! I'm going to read you some poems out of this lovely book of poetry. The sun kisses the morning skies. The birds kiss the butterflies. The dew kisses the morning grass. Class? Class!? Cla-- WAKE UP!
 
 
 I gotta go to the can, man!

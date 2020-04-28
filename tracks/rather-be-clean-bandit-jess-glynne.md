@@ -134,7 +134,7 @@ rankings:
   start_date: '2015-01-24'
 ---
 
-Oh, Woah, Ooh, ooh
+Oh, Woah, Oh, oh
 
 We're a thousand miles from comfort, we have traveled land and sea
 But as long as you are with me, there's no place I'd rather be
@@ -175,7 +175,7 @@ N-n-no, no, no, no place I'd rather be
 When I am with you, there's no place I'd rather be, yeah
 
 Beeeeeeeeee, hooooooo oh
-Be 
+Be
 Yeah-e-yeah-e-yeah-e-yeah-e-yeah, yeah, yeah
 
 If you gave me a chance I would take it

@@ -73,9 +73,6 @@ That if she had me back again
 I would never make her sad
 I've got a heart full of soul
 
-
-
-
 And I know
 If she had me back again
 I would never make her sad

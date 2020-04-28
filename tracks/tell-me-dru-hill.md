@@ -124,7 +124,7 @@ Foreplay at one, won't end 'til two
 Tell me what you want (Tell me, baby)
 Tell me what you need (Tell me, baby)
 Tell me if it ain't good enough for you baby
-(Ooh, tell me, baby - let me know)
+(Oh, tell me, baby - let me know)
 Tell me
 Tell me what you want (Tell me, baby)
 Tell me what you need (Mmm, talk to me)

@@ -39,16 +39,16 @@ Got a knot in my tote, get you smoke like a stove
 Keep on ridin' my coat, your new shit is a joke
 Why you bitin' my flows? What you tryna be, Post?
 
-Ooh, baby, ooh, baby, go on, keep it spinnin'
-Ooh, yuck me up, I don't want no romancin'
-Ooh, baby I see these muhfuckas glancin'
+Oh, baby, oh, baby, go on, keep it spinnin'
+Oh, yuck me up, I don't want no romancin'
+Oh, baby I see these muhfuckas glancin'
 When my whip start, then my wheels keep spinnin'
-Ooh, baby, ooh, baby, go on, keep it spinnin'
-Ooh, yuck me up, I don't want no romancin'
-Ooh, baby I see these muhfuckas glancin'
+Oh, baby, oh, baby, go on, keep it spinnin'
+Oh, yuck me up, I don't want no romancin'
+Oh, baby I see these muhfuckas glancin'
 When my whip start, then my wheels keep spinnin'
 
-She used to shoppin' at the mall (ooh)
+She used to shoppin' at the mall (oh)
 I'll teach lil baby how to ball
 I hit Rodeo, spent like 40 G's (wow)
 Four hunnid pairs of Gucci socks
@@ -61,13 +61,13 @@ I hit your main thing twice (your main thing twice)
 Take a word of advice (a word of advice)
 Break up with that ho (ho)
 
-Ooh, baby, ooh, baby, go on, keep it spinnin'
-Ooh, yuck me up, I don't want no romancin'
-Ooh, baby I see these muhfuckas glancin'
+Oh, baby, oh, baby, go on, keep it spinnin'
+Oh, yuck me up, I don't want no romancin'
+Oh, baby I see these muhfuckas glancin'
 When my whip start, then my wheels keep spinnin'
-Ooh, baby, ooh, baby, go on, keep it spinnin'
-Ooh, yuck me up, I don't want no romancin'
-Ooh, baby I see these muhfuckas glancin'
+Oh, baby, oh, baby, go on, keep it spinnin'
+Oh, yuck me up, I don't want no romancin'
+Oh, baby I see these muhfuckas glancin'
 When my whip start, then my wheels keep spinnin'
 
 Cold wrist frozen
@@ -75,13 +75,13 @@ Got sacks, Goldman
 Bought the bar, Roseanne
 No joke, they ain't playin'
 
-Ooh, baby, ooh, baby, go on, keep it spinnin'
-Ooh, yuck me up, I don't want no romancin'
-Ooh, baby I see these muhfuckas glancin'
+Oh, baby, oh, baby, go on, keep it spinnin'
+Oh, yuck me up, I don't want no romancin'
+Oh, baby I see these muhfuckas glancin'
 When my whip start, then my wheels keep spinnin'
-Ooh, baby, ooh, baby, go on, keep it spinnin'
-Ooh, yuck me up, I don't want no romancin'
-Ooh, baby I see these muhfuckas glancin'
+Oh, baby, oh, baby, go on, keep it spinnin'
+Oh, yuck me up, I don't want no romancin'
+Oh, baby I see these muhfuckas glancin'
 When my whip start, then my wheels keep spinnin'
 
 Yeah

@@ -52,12 +52,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-11-17'
 ---
-I remember you-ooh
+I remember you-oh
 You're the one who
 Made my dreams come true
 A few kisses ago!
 
-I remember you-ooh
+I remember you-oh
 You're the one who
 Said: "I love you, too!"
 Yes, I do, didn'tcha know?
@@ -65,17 +65,17 @@ Yes, I do, didn'tcha know?
 I remember, too
 A distant bell
 And stars that fell
-Like the rain out of the blue-ooh-ooh-ooh-hoo-hoo-hoo!
+Like the rain out of the blue-ohoohhoho-hoo-hoo!
 
 When my life is through
 And the angels ask me to recall
 The thrill of it all
-Then I will tell them I remember you-ooh!
+Then I will tell them I remember you-oh
 
 I remember, too
 A distant bell
 And stars that fell
-Just like the rain out of the blue-ooh-ooh-ooh-hoo-hoo-hoo!
+Just like the rain out of the blue-ohoohhoho-hoo-hoo!
 
 When my life is through
 And the angels ask me to recall

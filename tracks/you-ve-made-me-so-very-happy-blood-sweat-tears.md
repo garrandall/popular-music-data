@@ -110,7 +110,7 @@ I'm so glad you
 Came into my life
 
 
-Mmmm, I want to thank you, girl
+Mmm, I want to thank you, girl
 Every day of my life
 I wanna thank you
 You made me so very happy

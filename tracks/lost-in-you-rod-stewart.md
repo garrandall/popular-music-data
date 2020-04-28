@@ -92,7 +92,7 @@ Hey baby, been a long time since we made love
 I'm stone cold, the bed's hard and the work is tough
 I'm never gonna leave you again, this job ain't worth the pain
 No money in the world ain't worth being away from you
-Ooh baby, I don't sleep without you by my side
+Oh baby, I don't sleep without you by my side
 Listen
 
 

@@ -78,7 +78,7 @@ You and me, baby, yeah
 It's so hard to find
 This one of a kind
 Old fashioned love
-Ooh, baby, yeah
+Oh baby, yeah
 
 Old fashioned love
 

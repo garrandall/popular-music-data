@@ -153,7 +153,7 @@ And do you think, Lord
 You could use another angel
 To help pour out the rain?
 
-Mmmm
+Mmm
 Can I help pour out the rain?
 Can I help pour out the rain?
 

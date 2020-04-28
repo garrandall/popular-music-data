@@ -42,7 +42,7 @@ I love niggas with conversation that find the clit with no navigation
 Mandatory that I get the head, but no guarantees on the penetration (Huh)
 I be texting with a bi chick, we both freaky, just trying shit (Mwah)
 Main nigga getting super jealous, he don't even know about the other fellas
-I need a Mr. Clean, make that pussy beam (Ooh, ooh)
+I need a Mr. Clean, make that pussy beam (Oh, oh
 Okay, I just might need a baker, make that pussy cream (Pussy cream)
 Okay, you woke up mad at me 'fore you ain't brush your teeth
 Mm-mm-mm, that's just super sad, fuck it, carpe diem, ah
@@ -72,12 +72,12 @@ Drinking D'USSÃ out the motherfuckin' bottle, hey (Out the motherfuckin' bott
 I'm a rapper, not no motherfuckin' model, huh (Not no motherfuckin' model)
 Got a nigga, but I think I'll have another, huh (Think I'll have another)
 I'm too sexy to be fucking under covers, huh
-I know you know me, I ain't gotta introduce shit, hmm (Introduce shit)
-Same crew, I ain't hanging with no new bitch, hmm (Hangin' with no new bitch)
-I'ma buy it when I land, I rock new shit, hmm (Bitch, I rock new shit)
-I ain't fucking with that nigga, I got new dick, hmm (Woah)
-Please don't try me, lil' bitch, you know I'm with that, hmm (Bitch, you know I'm 'bout that)
-I'll break a ho in half like a Kit-Kat, hmm (Like a Kit-Kat)
+I know you know me, I ain't gotta introduce shit, hm (Introduce shit)
+Same crew, I ain't hanging with no new bitch, hm (Hangin' with no new bitch)
+I'ma buy it when I land, I rock new shit, hm (Bitch, I rock new shit)
+I ain't fucking with that nigga, I got new dick, hm (Woah)
+Please don't try me, lil' bitch, you know I'm with that, hm (Bitch, you know I'm 'bout that)
+I'll break a ho in half like a Kit-Kat, hm (Like a Kit-Kat)
 Please don't ask me 'bout it if you know I did that, huh (Bitch, you know I did that)
 Not a stylist, but I'll push your fucking wig back, huh
 

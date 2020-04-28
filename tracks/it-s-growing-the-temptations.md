@@ -78,6 +78,6 @@ And where it's gonna stop I'm sure, nobody knows
 (Nobody knows) Oh, it gets a little stronger
 (Hey, hey, hey) The feeling for each kiss, baby
 (Hey, hey, hey) Oh, it lasts a little longer, yeah
-(Hey, hey, hey) Ooh, so much... ooh, so much
+(Hey, hey, hey) Oh, so much... oh so much
 Can't you see it's growing, baby?
 It grows, and it grows, and it grows, and it grows

@@ -88,11 +88,11 @@ New York girls (Hey!) carribean (Hey!)
 Brukout and wine to di song oonu wine now
 (This is for all the sexy ladies out there, we need to see ya)
 Wine up oonu waistline, rotate it like a tire
-(Let's go let's go!!!) Sing (Hey! Let's go)
+(Let's go let's go!) Sing (Hey! Let's go)
 
 
 Shake that booty, turn it around (Hey! Hey! Hey!)
-Back that ass up, wine go down (Ok!!!)
+Back that ass up, wine go down (Ok!)
 Shake that booty (Hey! Hey! Hey!) turn it around
 Back that ass up, wine go down
 
@@ -113,13 +113,13 @@ Dem a wine wine dem a wine wine
 
 
 Let me see you wine let me see you wine let me see you wine
-Hey! And shake that shit!!!
+Hey! And shake that shit!
 Let me see you pop let me see you pop let me see you pop
-Hey! And shake that shit!!!
+Hey! And shake that shit!
 Let me see you wine let me see you wine let me see you wine
-Hey! And shake that shit!!!
+Hey! And shake that shit!
 Let me see you pop let me see you pop let me see you pop
-Hey! And shake that shit!!!
+Hey! And shake that shit!
 
 
 Shake that booty, turn it around
@@ -131,7 +131,7 @@ Back that ass up, wine go down
 Wine up your body no pushin and shovin (What!)
 Crowd keep movin cause the music is pumpin (Huh!)
 Girl keep it groovin now I see ya dumpin
-JUMP!!! JUMP!!! JUMP!!! JUMP!!!
+JUMP! JUMP! JUMP! JUMP!
 Hey look here girl won't you tell me somethin
 (French!?) Now that this chimney's tumblin
 House to earthquake just keep on comin (Huh!)
@@ -141,7 +141,7 @@ Now back that ass up and give me somethin (What!)
 Wine girl you just so fine girl (Yeah!)
 Let me see ya grind it up girl (Yeah!)
 Elephant and Crusher 'gon rock the world
-It's party time come here girl!!!
+It's party time come here girl!
 
 
 Yuh up inna di club and di music sweet
@@ -154,19 +154,19 @@ Junk in di trunk, wine up yuh rump
 And jook gal (Jook gal jook gal jook gal)
 
 
-(Put yuh hands on di floor!!!)
+(Put yuh hands on di floor!)
 Cock up yuh bumpa a likkle more
 Cock it up mek mi slam it like a door
-(Put yuh hands on di floor!!!)
+(Put yuh hands on di floor!)
 Yuh hear mi love it when mi talk to her
 Split and spread out like manure
-(Put yuh hands on di floor!!!)
+(Put yuh hands on di floor!)
 Every man love see girl gallore
 Shabba seh him waan more pon more
-(Put yuh hands on di floor!!!)
+(Put yuh hands on di floor!)
 True yuh goody goody get a encore
 Every girl fi brukout like sore
-( Mad! Sick! Head nuh good!!!)
+( Mad! Sick! Head nuh good!)
 
 
 Shake that booty, turn it around
@@ -188,7 +188,7 @@ If yuh nah wine could a get a conflict
 Wid it like a Shaolin Monk
 (Mi seh junk in di trunk)
 Come on girl mek mi see booty bounce
-Pon di floor, di dressa or di bank (All girls!!!)
+Pon di floor, di dressa or di bank (All girls!)
 
 
 Shake that booty, turn it around

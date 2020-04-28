@@ -142,8 +142,8 @@ One
 One
 
 
-Ooh-ooh-ooh
-Oh-ooh
+Oh-oh-oh
+Oh-oh
 May we, may we, may we get
 Higher
 Oh, higher

@@ -97,7 +97,7 @@ I can't go to the limit
 I have to know
 
 If your heart...
-Ooh, can't you tell me so
+Oh, can't you tell me so
 I have to know
 If your heart isn't it
 Why keep me hanging on

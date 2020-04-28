@@ -101,7 +101,7 @@ Ginny, only wants you
 'Cause she thinks she has to have everyone
 Minnie, only wants you
 For she think that hurting me would be fun
-Oh, ooh, oooh
+Oh, oh, oh
 
 Silly Lilly
 You know she doesn't really want you
@@ -126,7 +126,7 @@ The one who really loves you
 I-I-I do (yeah-yeah)
 Really, really, love you
 (I really love you, yeah-yeah-yeah)
-Oh-oh, oh-oh, oh-oh, ooh-ooh (yeah-yeah)
+Oh-oh, oh-oh, oh-oh, oh-oh (yeah-yeah)
 
 Oh-oh, oh-oh, oh-oh
 (I really love you)

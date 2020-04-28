@@ -77,9 +77,6 @@ Corner, and I don't care how much that woman loves me
 She's going to go out and find herself one of them who
 Will and that's why I believe that
 
-
-
-
 Now listen I don't want you to think that this is a
 One sided affair, no no
 Because my old lady also understands that a man must

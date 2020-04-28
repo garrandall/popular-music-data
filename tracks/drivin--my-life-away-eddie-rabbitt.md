@@ -115,9 +115,9 @@ Those windshield wipers slappin' outta tempo
 Keepin' perfect rhythm with the song on the radio
 But I gotta keep rollin'
 
-Ooh, I'm driving my life away
+Oh, I'm driving my life away
 Lookin' for a better way for me
-Ooh, I'm driving my life away
+Oh, I'm driving my life away
 Lookin' for a sunny day
 
 Well, the truck stop cutie comin' on to me
@@ -127,9 +127,9 @@ Well, waitress pour me another cup of coffee
 Pop me down, jack me up, shoot me out flyin' down the highway
 Lookin' for the morning
 
-Ooh, I'm driving my life away
+Oh, I'm driving my life away
 Lookin' for a better way for me
-Ooh, I'm driving my life away
+Oh, I'm driving my life away
 Lookin' for a sunny day
 
 Well, the midnight headlight blind you on a rainy night
@@ -139,15 +139,15 @@ Those windshield wipers slappin' outta tempo
 Keepin' perfect rhythm with the song on the radio
 I gotta keep rollin'
 
-Ooh, I'm driving my life away
+Oh, I'm driving my life away
 Lookin' for a better way for me
-Ooh, I'm driving my life away
+Oh, I'm driving my life away
 Lookin' for a sunny day
 
-Ooh, I'm driving my life away
+Oh, I'm driving my life away
 Lookin' for a better way for me
-Ooh, I'm driving my life away
+Oh, I'm driving my life away
 Lookin' for a sunny day, yeah
 
-Ooh, I'm driving my life away
+Oh, I'm driving my life away
 Lookin' for a better way for me

@@ -86,9 +86,6 @@ No one's gonna cry
 On the very day you die
 You’re a bully
 
-
-
-
 It’s 8 A.M.!
 The Hell I’m in!
 Your voice is strong!

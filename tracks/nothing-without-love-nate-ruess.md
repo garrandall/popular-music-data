@@ -51,14 +51,14 @@ Oh baby show me a sign
 Send up a signal, that everything’s fine
 Come on slide up right here by my side
 You know that I, I want to rest in your light
-Na na na hey, na na na ooh oh
-Na na na hey, na na na ooh oh
-Na na na hey, na na na ooh oh
-Na na na hey, na na na ooh oh
+Na na na hey, na na na ohoh
+Na na na hey, na na na ohoh
+Na na na hey, na na na ohoh
+Na na na hey, na na na ohoh
 I wanna rest in your life
-Na na na hey, na na na ooh oh
-Na na na hey, na na na ooh oh
-Na na na hey, na na na ooh oh
+Na na na hey, na na na ohoh
+Na na na hey, na na na ohoh
+Na na na hey, na na na ohoh
 Na na na hey
 
 

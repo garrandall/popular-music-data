@@ -150,7 +150,7 @@ Until you change your evil ways
 
 There's a time when you know what you feel inside your heart
 It's telling you that something is strange
-Ooh girl, you don't have to deny it
+Ohgirl, you don't have to deny it
 All you got to do is just try it
 You'll find our love is stronger if you're willing to change
 

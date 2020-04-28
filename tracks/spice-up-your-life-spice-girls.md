@@ -104,7 +104,7 @@ Every boy and every girl
 Spice up your live
 People of the world
 Spice of your life
-Ahhh
+Ah
 
 Slam it to the left
 If you're havin' a good time
@@ -141,7 +141,7 @@ Every boy and every girl
 Spice up your live
 People of the world
 Spice of your life
-Ahhh
+Ah
 
 Slam it to the left
 If you're havin' a good time
@@ -178,7 +178,7 @@ Every boy and every girl
 Spice up your live
 People of the world
 Spice of your life
-Ahhh
+Ah
 
 Slam it to the left
 If you're havin' a good time

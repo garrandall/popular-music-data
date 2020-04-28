@@ -73,7 +73,7 @@ Please come back where you belong
 I've been good to you baby
 Please don't leave me alone
 
-Ooohhhhhh
+Oh
 
 Lucille
 You don't do your daddy's will
@@ -82,7 +82,7 @@ You don't do your daddy's will
 There ain't nothing to you
 But I love you still
 
-Ooohhhhhh
+Oh
 
 
 

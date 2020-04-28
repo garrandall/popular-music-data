@@ -57,7 +57,7 @@ And if that was you and me out there baby
 I would have shown you how to do it right
 Do it right, do it right
 Do it right
-Ahhhhhhhhhhhhhh!
+Ah!
 Twistin'
 Shake it shake it shake it shake it baby
 Here we go loop-de-loop
@@ -66,7 +66,7 @@ Here we go loop-de-lie
 A-bend over let me see you shake your tail feather
 Bend over let me see you shake your tail feather
 Come on let me see you shake your tail feather
-Ahhhhhhhhhhhhhh!
+Ah!
 (Twistin')
 Shake it shake it shake it shake it baby
 Here we go loop-de-loop (oh yeah)
@@ -75,7 +75,7 @@ Here we go loop-de-lie
 A-bend over let me see you shake your tail feather
 Bend over let me see you shake your tail feather
 Bend over let me see you shake your tail feather
-Ahhhhhhhhhhhhhh!
+Ah!
 Twistin'
 Oh yeah
 Alright

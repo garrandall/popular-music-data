@@ -69,7 +69,7 @@ Never worry bout a damn thing, y'all might
 Homie I'm on my level (yeh)
 I'm on my level (yeah)
 I'm on my level (yeh)
-I'm on my level (yeaah)
+I'm on my level (yeah)
 
 So let me take one shot to the brain
 And I order three more shots
@@ -77,7 +77,7 @@ I'm going in, ayy
 I'm on my level (yeh)
 I'm on my level (yeah)
 I'm on my level (yeh)
-I'm on my level (yeaah)
+I'm on my level (yeah)
 
 
 Spent a couple dollars on my engine
@@ -112,9 +112,6 @@ She can suck it if she wanna
 I got tequila, Ciroc and two freaky friends
 and this a Wednesday night, this ain't the weekend
 
-
-
-
 Man I'm high as fuck
 Man I swear I'm on my level
 Man I'm sloppy drunk
@@ -132,8 +129,4 @@ I finna pass out
 man I swear I'm on my level
 A nigga get smashed out
 Man I swear I'm on my level
-
-
-
-
 

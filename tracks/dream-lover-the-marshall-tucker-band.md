@@ -57,7 +57,3 @@ One to share my hopes and dreams
 A friend to stand beside me
 And the lover of my dreams
 
-
-
-
-

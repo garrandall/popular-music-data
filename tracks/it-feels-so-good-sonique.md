@@ -126,7 +126,7 @@ It's you I'm always thinking of
 
 Oh, oh, baby
 
-Oh, i want you to understand
+Oh, I want you to understand
 How I feel, deep inside
 Oh oh, you make me feel
 All I need to feel

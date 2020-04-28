@@ -88,7 +88,7 @@ Just look to your soul (Look to your soul)
 And open your mind
 
 Crystal blue persuasion
-Mm-hmm
+Mm-hm
 It's a new vibration
 Crystal blue persuasion
 Crystal

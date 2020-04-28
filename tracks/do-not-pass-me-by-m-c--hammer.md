@@ -53,7 +53,7 @@ Do not pass me by
 There's something special about the way that You hold me make me you shake me you take me than you mold me
 But in my hE‰art in my soul and in my spirit
 The love of god every day I've gotta be near it
-He took me to the water i went down in your name
+He took me to the water I went down in your name
 I repented all my sins
 I haven't been the same
 My knees started shaking
@@ -61,7 +61,7 @@ My legs had to run
 His love touched my heart
 And his spirit lifted my tongue
 Lifted my tongue
-II love the lord until the day that i die so please! please! please! Don't pass me by sing!
+II love the lord until the day that I die so please! please! please! Don't pass me by sing!
 
 
 While on others thou are calling

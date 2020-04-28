@@ -51,7 +51,7 @@ Do I need me a rocket to be where you are
 
 I need someone in my life
 'Cause I'm lonely for your lovin'
-Ooh, girl, you make me feel so alive
+Oh, girl, you make me feel so alive
 You're the woman and nobody else would do
 
 That's why I'm aimin' at your heart, aimin'

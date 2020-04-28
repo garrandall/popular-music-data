@@ -51,7 +51,7 @@ I hear you, mama
 
 Well, I walk (I walk)
 And I talk (I talk)
-I better, ow, ooh
+I better, ow, oh
 
 Honey, I love you
 I love you and I need you
@@ -59,10 +59,10 @@ By my side, yeah
 
 Well, I walk (I walk)
 And I talk (I talk)
-I better, ow, ooh
+I better, ow, oh
 Give it to me, yeah
 
-Got to, got to, ooh
+Got to, got to, oh
 
 Baby, don't you know I need you
 Got, got, got, got to get it, baby

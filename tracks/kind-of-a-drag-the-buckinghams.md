@@ -68,8 +68,8 @@ When you know she's been untrue
 
 Oh, listen (listen to me when I'm speaking cause you know the words I'm thinking)
 To what I've gotta say (and I know that you've been cheating, oh, I hope that that we'll be meeting)
-Girl, I still love you (ooh, I still love you)
-I'll always love you (ooh, I'll always love you)
+Girl, I still love you (oh, I still love you)
+I'll always love you (oh, I'll always love you)
 Anyway
 Anyway
 Anyway
@@ -81,18 +81,18 @@ When you feel like you wanna cry
 
 Oh, girl (listen to me when I'm speaking cause you know the words I'm thinking)
 Even though you made me feel blue (and I know that you've been cheating, oh, I hope that that we'll be meeting)
-I still love you (ooh, I still love you)
-I'll always love you (ooh, I'll always love you)
+I still love you (oh, I still love you)
+I'll always love you (oh, I'll always love you)
 Anyway
 Anyway
 Anyway
 
-(Ooh...)
+(Oh...)
 
 Oh, listen (listen to me when I'm speaking cause you know the words I'm thinking)
 To what I've gotta say (and I know that you've been cheating, oh, I hope that that we'll be meeting)
-Girl, I still love you (ooh, I still love you)
-I'll always love you (ooh, I'll always love you)
+Girl, I still love you (oh, I still love you)
+I'll always love you (oh, I'll always love you)
 Anyway
 Anyway
 Anyway

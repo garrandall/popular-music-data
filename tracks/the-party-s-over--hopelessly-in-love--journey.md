@@ -92,7 +92,7 @@ Hopelessly in love
 Hopelessly in love
 I'm hopelessly in love with you
 
-Ooh, bye-bye baby
+Oh, bye-bye baby
 
 The party's over
 I have gone away... (Repeat until fade)

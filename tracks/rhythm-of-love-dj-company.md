@@ -110,9 +110,6 @@ CHORUS...
 (The rhythm.)
 (Yeah yeah yeah yeah.)
 
-
-
-
 I close my eyes and I think of you
 Imaging things we're about to do
 And I will go anywhere

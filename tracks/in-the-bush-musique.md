@@ -121,15 +121,15 @@ Push, push in the bush (You know I want to get down)
 In the bush, in the bush (I like it)
 In the bush, in the bush (Yeah, yeah, I like it, I like it)
 In the bush, in the bush (I like it)
-In the bush, in the bush 
-In the bush, in the bush 
-In the bush, in the bush (I like it) 
-In the bush, in the bush (I said I like this, yeah)
-In the bush, in the bush 
-In the bush, in the bush 
 In the bush, in the bush
-In the bush, in the bush (Are you ready for this) 
-In the bush, in the bush (Ooh)
+In the bush, in the bush
+In the bush, in the bush (I like it)
+In the bush, in the bush (I said I like this, yeah)
+In the bush, in the bush
+In the bush, in the bush
+In the bush, in the bush
+In the bush, in the bush (Are you ready for this)
+In the bush, in the bush (Oh)
 In the bush, in the bush (Are you ready for this)
 In the bush, in the bush (Sock it to me, sock it to me)
 
@@ -179,10 +179,10 @@ Oh, yeah
 In the bush (In the bush)
 In the bush (In the bush)
 You know you like it (Oh, I like it)
-You know you like it (Ooh, I like it)
+You know you like it (Oh, I like it)
 I said we like it (Oh, we like it, yeah)
 You know we like it (Yeah, we like it, we like it)
-You know we like it (Ooh... Hoo... Hoo...)
+You know we like it (Oh... Hoo... Hoo...)
 We do it in the mornin' (Any time you can have it)
 Sometimes we need it (Every time that you need it)
 In the bush (You can get it, yeah)

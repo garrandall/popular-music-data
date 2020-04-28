@@ -127,7 +127,7 @@ You're lookin' so fine, got me all tongue tied
 And the only line I can think to say is
 Hey girl
 
-Ooh, baby you're still standin' here
+Oh, baby you're still standin' here
 I guess you must like what you hear
 Hey girl, whatcha say girl
 About you and me gettin' away girl

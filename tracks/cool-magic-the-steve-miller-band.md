@@ -69,14 +69,8 @@ You stand your ground and
 Show the lightning in your eyes
 And then I feel it
 
-
-
-
 Just when I feel I'm about to lose my mind
 Then here it comes again one more time
 I really need it
-
-
-
 
 Cool magic

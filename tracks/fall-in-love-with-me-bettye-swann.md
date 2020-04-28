@@ -65,7 +65,7 @@ All you've gotta do
 For a love that's true
 Fall in love in me, yeah
 
-Ooh, oh, fall in love with me
+Oh oh, fall in love with me
 
 Now tell me
 Tell me what you want
@@ -100,7 +100,7 @@ All you've gotta do
 For a love that's true
 Fall in love in me, yeah
 
-Baby, ooh, can't you see
+Baby, oh can't you see
 I need you, come to me
 Oh, baby, I know you're blue
 Don't worry, baby...

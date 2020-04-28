@@ -122,9 +122,6 @@ She needs a golden calculator to divide
 The time it took to look inside and realize
 That real guys go for real down to Mars girls, yeah!
 
-
-
-
 Well she's got a hottie body, but her attitude is potty
 When I met her at a party she was hardly acting naughty
 I said, "Shorty, would you call me?"

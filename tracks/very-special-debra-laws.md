@@ -75,9 +75,6 @@ I know our love was meant to be
 Cause our souls touched tenderly
 Love is life and life is living, very special
 
-
-
-
 Then your love excited me, baby
 Days full of joy, love's sweet
 Cannot keep this feeling inside, deary

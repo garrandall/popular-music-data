@@ -73,7 +73,7 @@ Gonna pull in the shutters
 On this heart of mine
 Roll up the carpets
 And pull in the blinds
-And retreat to the chambers 
+And retreat to the chambers
 That I left behind
 In hopes there still may be love left to find
 Still may be love left to find
@@ -92,17 +92,17 @@ And the halls have worn well
 But there is nobody living inside
 Nobody living inside
 
-Ooh-hoo-hoo-hoo
-Ooh-hoo-hoo, hoo-hoo-hoo
-Ooh-hoo-hoo-hoo
-Ooh-hoo-hoo, hoo-hoo-hoo
-Ooh-hoo-hoo-hoo
-Ooh-hoo-hoo, hoo-hoo-hoo
-Ooh-hoo-hoo-hoo
-Ooh-hoo-hoo, hoo-hoo-hoo
-Ooh-hoo-hoo-hoo
-Ooh-hoo-hoo, hoo-hoo-hoo
-Ooh-hoo-hoo-hoo
+Oh-hoo-hoo-hoo
+Oh-hoo-hoo, hoo-hoo-hoo
+Oh-hoo-hoo-hoo
+Oh-hoo-hoo, hoo-hoo-hoo
+Oh-hoo-hoo-hoo
+Oh-hoo-hoo, hoo-hoo-hoo
+Oh-hoo-hoo-hoo
+Oh-hoo-hoo, hoo-hoo-hoo
+Oh-hoo-hoo-hoo
+Oh-hoo-hoo, hoo-hoo-hoo
+Oh-hoo-hoo-hoo
 
 
 

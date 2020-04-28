@@ -65,7 +65,7 @@ If you know what I want, then yeah
 
 Baby, don't you mind if I do, yeah
 Exactly what you like times two, yeah
-Got me singin', "ooh, ooh"
+Got me singin', "oh, oh"
 So baby, don't you mind if I do
 
 Look, put your filthy hands all over me
@@ -84,7 +84,7 @@ If you know what I want, then yeah
 
 Baby, don't you mind if I do, yeah
 Exactly what you like times two, yeah
-Got me singin', "ooh, ooh"
+Got me singin', "oh, oh"
 So baby, don't you mind if I do
 
 Come on, break it down!
@@ -105,7 +105,7 @@ All my haters gon' say it's fake
 
 Baby, don't you mind if I do
 Exactly what you like times two (times two)
-Got me singin', "ooh, ooh"
+Got me singin', "oh, oh"
 Baby, don't you mind if I do
 (Come on!)
 Your friends, my friends

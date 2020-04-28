@@ -93,7 +93,7 @@ I got a thang for you, baby
 
 
 Dark and lovely, no one above thee
-Ooh, girl you really got it goin' on
+Oh girl you really got it goin' on
 I wanna spank ya, I wanna thank ya
 You're the reason why I sing this song
 Are roses red, are violets blue
@@ -107,7 +107,7 @@ Your smiling face, your love and grace
 Could light up any room
 Now I won't flinch but I need a pinch
 To make sure I'm not dreaming
-Cause loving like this doesn't come ev'ry day
+Cause loving like this doesn't come every day
 And I've got a couple of words that I'd like to say
 
 

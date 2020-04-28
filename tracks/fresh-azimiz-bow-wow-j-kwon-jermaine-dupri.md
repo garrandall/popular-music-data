@@ -143,9 +143,6 @@ Wish they had my style wish they had my rep
 But oh no, you'll never have it like me man
 And if you can't understand this is what I'm sayin
 
-
-
-
 I got a spot in M-I-A to get away from the cold weather
 Talk around town as if I'm wit Ciara
 Bow fall off nigga that'll be never

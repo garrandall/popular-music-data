@@ -62,7 +62,7 @@ rankings:
 ---
 The nights have been so lonely since you went away
 I could not get to sleep try as I may
-But now you're back, and you're here to stay....
+But now you're back, and you're here to stay...
 CHORUS
 Still it looks like another sleepless night
 Oh but darlin', that's alright Just as long as you are holdin' me tight

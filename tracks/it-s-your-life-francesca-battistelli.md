@@ -41,7 +41,3 @@ To live the way that you believe
 This is your opportunity
 To let your life be one that lights the way
 
-
-
-
-

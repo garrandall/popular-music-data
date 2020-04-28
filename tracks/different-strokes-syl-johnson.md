@@ -29,7 +29,7 @@ Different strokes for different folks, now
 
 Mama stroke, papa too
 A stroke for me and a stroke for you
-Ahh yeah
+Ah yeah
 Stroke for a woman, stroke for a man
 Stroke for the honey, Ah yeah
 Stroke for the game, now

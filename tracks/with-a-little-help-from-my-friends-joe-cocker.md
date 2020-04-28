@@ -41,7 +41,7 @@ I will try not to sing out of key
 Oh, baby I get by (Ah, with a little help from my friends)
 All I need is my buddies (Ah, with a little help from my friends)
 I say I'm gonna get high (Ah, with a little help from my friends)
-Oh yeah (Oooooh)
+Oh yeah (Oh)
 
 
 What do I do when my love is away?
@@ -55,7 +55,7 @@ I tell ya I don't get sad no more
 (Ah, with a little help from my friends)
 Gonna get by with my friends (Ah, with a little help from my friends)
 Yeah yeah, I'm gonna try (Ah, with a little help from my friends)
-Keep on getting high, oh Lord (Oooooh)
+Keep on getting high, oh Lord (Oh)
 
 
 (Do you need anybody?)
@@ -70,7 +70,7 @@ Baby
 (Ah, with a little help from my friends)
 Said I'm gonna make it with my friends (Ah, with a little help from my friends)
 Oh, I'm gonna keep on trying (Ah, with a little help from my friends)
-I'm gonna keep on trying (Ooooh)
+I'm gonna keep on trying (Oh)
 
 
 (Would you believe in a love at first sight?)
@@ -82,7 +82,7 @@ I can't tell you but it sure feels like mine
 (Ah, with a little help from my friends)
 Don't you know I'm gonna make it with my friends? (Ah, with a little help from my friends)
 I promised myself I'd get by (Ah, with a little help from my friends)
-I said I'm gonna try and not work too hard (Oooh)
+I said I'm gonna try and not work too hard (Oh)
 
 
 (Do you need anybody?)
@@ -99,7 +99,7 @@ Oh, yes I'm gonna keep trying, now (Ah, with a little help from my friends)
 Keep on trying with my friends (Ah, with a little help from my friends)
 Oh, I'm never gonna stop there, oh (Ah, with a little help from my friends)
 I'm gonna keep on trying, yeah yeah (Ah, with a little help from my friends)
-I'm getting high, I'm gonna try, oh Lord (Ooh)
+I'm getting high, I'm gonna try, oh Lord (Oh
 Gonna get by with my friends
 I'm gonna get on by, yes I'm gonna get on by, my Lord
 I'm gonna tell them all about it, I'm gonna tell them all, yeah yeah

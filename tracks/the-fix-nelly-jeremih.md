@@ -126,7 +126,7 @@ Bust it open every time I get up inside
 Soakin' wet, turn the bed to a slip 'n' slide
 Spread eagle, nigga eatin' like it's suppa time
 Shawty knows whose is it, it's all mine
-I ain't mad at nobody (No-ooo)
+I ain't mad at nobody (No-oo)
 I just wanna have your body (Your body, body)
 And if you can take it deep
 Then let a nigga like me, get at that body girl

@@ -126,7 +126,7 @@ Girl just keep it hot and wet (are you ready)
 Girl I'm gonna make a sweat
 Keep it real close to me
 Let it drip all over me (I love the way you give it to me, baby)
-You know just what I like (ohh)
+You know just what I like (oh)
 Touch it, love it, freak it all night
 I'm gettin it off me (you touch me like)
 But baby you gotta keep it

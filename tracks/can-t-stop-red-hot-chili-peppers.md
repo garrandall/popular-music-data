@@ -145,9 +145,6 @@ Far more shockin' than anything I ever knew, how 'bout you?
 Ten more reasons why I need somebody new, just like you
 Far more shockin' than anything I ever knew, right on cue
 
-
-
-
 Can't stop, addicted to the shindig
 Chop Top, he says I'm gonna win big
 Choose not a life of imitation

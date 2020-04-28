@@ -159,7 +159,7 @@ Weezy on top and that nigga ain't even home, yet!
 Yeah, be very afraid
 These other rappers getting bodied and carried away
 Fuck it, me and Nicki Nick gettin' married today
-And now you bitches that be hatin' can catch the bouquet, ooh
+And now you bitches that be hatin' can catch the bouquet, oh
 Yeah, you a star in my eyes
 You and all them white girls, party of five
 Are we drinking a lil' more? I can hardly decide

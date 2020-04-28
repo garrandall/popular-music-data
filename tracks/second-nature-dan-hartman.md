@@ -108,8 +108,8 @@ Second nature
 Woo
 In every lover's heart the story's being told
 With a message saying
-Ooh, I love you, ooh, I love you
-Ooh, I love you so
+Oh, I love you, oh, I love you
+Oh, I love you so
 
 The way we do the things we do
 Second nature

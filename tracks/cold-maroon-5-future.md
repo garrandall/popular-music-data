@@ -122,8 +122,8 @@ A cada respiração sua
 Eu percebo que tem algo acontecendo
 Não entendo o porquê de você estar tão fria, sim
 
-Ooh, yeah
-Ooh, yeah
+Oh, yeah
+Oh, yeah
 Não entendo o porquê de você estar tão fria
 
 Pelo que você está esperando, esperando?
@@ -146,13 +146,13 @@ A cada respiração sua
 Eu percebo que tem algo acontecendo
 Não entendo o porquê de você estar tão fria, sim
 
-Ooh, yeah
-Ooh, yeah
+Oh, yeah
+Oh, yeah
 Não entendo o porquê de você estar tão fria, sim
 (Tão fria, é um mundo frio)
-Ooh, yeah
+Oh, yeah
 (Tão fria, é um mundo frio)
-Ooh, yeah
+Oh, yeah
 (Tão fria, é um mundo frio)
 Não entendo o porquê de você estar tão fria
 
@@ -184,14 +184,14 @@ Percebo que tem algo acontecendo
 Não entendo o porquê de você estar tão fria
 
 (Tão fria, é um mundo frio)
-Ooh, yeah
+Oh, yeah
 (Tão fria, é um mundo frio)
-Ooh, yeah
+Oh, yeah
 (Tão fria, é um mundo frio)
 Não entendo o porquê de você estar tão fria, sim
 (Tão fria, é um mundo frio)
-Ooh, yeah
+Oh, yeah
 (Tão fria, é um mundo frio)
-Ooh, yeah
+Oh, yeah
 (Tão fria, é um mundo frio)
 Não entendo o porquê de você estar tão fria

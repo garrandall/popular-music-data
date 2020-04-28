@@ -127,9 +127,6 @@ Out there without me
 I know you can't be
 'Cause it's no good
 
-
-
-
 I'm going to take my time
 I have all the time in the world
 To make you mine

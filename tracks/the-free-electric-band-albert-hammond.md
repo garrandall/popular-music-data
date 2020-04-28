@@ -85,7 +85,7 @@ But I knew her well enough by now to see inside her head
 She'd settle for suburbia and a little patch of land
 So I gave her up for music and The Free Electric Band
 
-Ooh... The Free Electric Band...
+Oh.. The Free Electric Band...
 
 
 

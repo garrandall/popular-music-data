@@ -5,7 +5,7 @@ features: []
 genres: []
 key: everything-i-wanted-billie-eilish
 lyrics_url: https://genius.com/Billie-eilish-everything-i-wanted-lyrics
-name: everything i wanted
+name: everything I wanted
 rankings:
 - end_date: '2019-11-29'
   rank: 74

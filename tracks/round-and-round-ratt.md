@@ -112,10 +112,6 @@ Time and time, I'm gonna make you mine
 I've had enough, we've had enough
 It's all the same, she said
 
-
-
-
-
 Yeah!
 
 Out on the streets, that's where we'll meet

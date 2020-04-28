@@ -71,6 +71,6 @@ I was dreamin' recklessly-ee-ee-ee
 
 I only met you just a couple of days ago
 And oh, my love for you has no more room to grow
-Ginny-Come-Lately, my dream come true-ooh-ooh-ooh
+Ginny-Come-Lately, my dream come true-ohoohhoh
 You may have come lately but Ginny-Come-Lately
 I'm in love with you

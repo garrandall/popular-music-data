@@ -91,7 +91,7 @@ rankings:
 ---
 Just make it clap, just make it clap
 Ay yo we 'bout to take everybody from every street
-And throw a party in the Grand Canyon, come on!!!
+And throw a party in the Grand Canyon, come on!
 Ah ha, yeah yeah, uh ah uh, yeah yeah, ah, ah, ah
 Flipmode baby, yeah, check it out
 
@@ -99,7 +99,7 @@ Flipmode baby, yeah, check it out
 Hey! Hey! Ain't no fakin the fluid
 Water drippin off asses of women that's shakin it to it
 While I'm takin you through it, no mistakin my crew is
-Flipmode baby!!! got you actin all stupid
+Flipmode baby! got you actin all stupid
 Now I'm back in the cupid, just to tell you the truth is
 Them niggas that be havin you blacken and ready to lose it
 Pushin lambos and harley rockin Roberto Cavalli (Huh!)
@@ -156,7 +156,7 @@ Shit these bitches be wearin be fittin real tight
 Niggas up in the club, niggas outside
 Bag a couple bitches, bring 'em in inmtside
 Shorty dodgin and dippin, shorty tryin to hide
-Busy dodgin a nigga because she wanna ride, come on if ya....
+Busy dodgin a nigga because she wanna ride, come on if ya...
 
 
 All ready we come to muscle y'all women

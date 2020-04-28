@@ -19,7 +19,7 @@ And I can tell you're already thinkin' I will never succeed
 But I'm okay with it, I admit the lyrics are weak
 I've been workin' on 'em, I'll be good eventually
 I understand you gotta crawl before you get to your feet
-But I been running for a while, they ain't ready for me, ahh
+But I been running for a while, they ain't ready for me, ah
 I know this prolly isn't really realistic
 And honestly, I might not ever make a difference
 But that don't make a difference, I'ma have to risk it

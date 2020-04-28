@@ -47,7 +47,7 @@ rankings:
 Won't you go away (little girl)
 Wish you wouldn't stay (little girl)
 Won't you go away (little girl)
-Wooo ooo go away
+Wooo oo go away
 
 Go away little girl
 Go away little girl
@@ -66,7 +66,7 @@ So go away little girl before I beg you to stay
 Won't you go away (little girl)
 Wish you wouldn't stay (little girl)
 Won't you go away (little girl)
-Wooo ooo go away
+Wooo oo go away
 
 Go away little girl
 Go away little girl

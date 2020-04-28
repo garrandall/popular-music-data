@@ -52,7 +52,7 @@ Don't take your love from me
 Don't take your love, baby
 Ohhh.  (Don't take your love from me.)
 Don't you ever take it away, baby
-Hmmm, mmmm, mmmm
+Hm, mmm, mmm
 (Don't take your love from me.)  No, no, no, no
 
 I really don't think I can make it, baby

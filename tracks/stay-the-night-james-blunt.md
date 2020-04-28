@@ -13,7 +13,7 @@ rankings:
   start_date: '2011-02-05'
 ---
 
-Ooooooh, Oooooooh, Ooooooh, hey
+Oh, Oh, Oh, hey
 
 It's seventy two degrees
 Zero chance of rain
@@ -36,8 +36,8 @@ The morning's on it's way
 Our friends all say goodbye
 There's nowhere else to go
 I hope that you'll stay the night
-Ooooooh, you'll stay the night
-Ooooooh, yeah
+Oh, you'll stay the night
+Oh, yeah
 
 We've been singing Billie Jean
 Mixin' vodka with caffeine
@@ -60,8 +60,8 @@ The morning's on it's way
 Our friends all say goodbye
 There's nowhere else to go
 I hope that you'll stay the night
-Ooooooh, you'll stay the night
-Ooooooh, yeah
+Oh, you'll stay the night
+Oh, yeah
 
 Just like the song on my radio set
 We'll share the shelter of my single bed

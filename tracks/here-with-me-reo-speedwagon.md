@@ -114,6 +114,3 @@ Here with me, I don't know where you are, all I know is I need you to be
 Here with me, I know it's not to late, to turn around and get it straight
 It's not fate to have you here with me
 
-
-
-

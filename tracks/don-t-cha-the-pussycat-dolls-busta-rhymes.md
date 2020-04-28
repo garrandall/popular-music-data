@@ -171,9 +171,9 @@ rankings:
 ---
 Ayo, what the fuck you think a record
 'Bout Pussycat Dolls featurin' Busta Rhymes is gon' sound like?
-Okay (Ahh), yeah (Ahh)
+Okay (Ah), yeah (Ah)
 Oh, we about to get it
-Just a lil' hot and sweaty in this motherfucker (Ooh, baby)
+Just a lil' hot and sweaty in this motherfucker (Oh, baby)
 Ladies, let's go (Uhh), soldiers, let's go (Dolls)
 Let me talk to y'all and just, you know
 Give you a little situation... listen (Fellas)
@@ -184,7 +184,7 @@ When I step up in the spot (Are you ready?)
 Make the place sizzle like a summertime cookout
 Prowl for the best chick, yes, I'm on the lookout (Let's dance)
 Slow bangin' shorty like a belly dancer with it
-Smell good, pretty skin, so gangsta with it (Ooh, baby)
+Smell good, pretty skin, so gangsta with it (Oh, baby)
 No tricks, only diamonds under my sleeve
 Gimme the number, but make sure you call before you leave
 
@@ -195,7 +195,7 @@ That's why whenever I come around, she's all over you
 And I know you want it (I know you want it)
 It's easy to see (It's easy to see)
 And in the back of your mind
-I know you should be fuckin' with me (Ahh)
+I know you should be fuckin' with me (Ah)
 
 
 Don't cha wish your girlfriend was hot like me?

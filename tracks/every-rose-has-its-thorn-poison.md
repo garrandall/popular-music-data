@@ -132,7 +132,3 @@ To hear that tears me up inside
 And to see you cuts me like a knife
 I guess
 
-
-
-
-

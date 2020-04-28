@@ -88,7 +88,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-10-31'
 ---
-Oooh you remind me, yeah
+Oh you remind me, yeah
 You remind me of such sweet memories
 
 I saw you before baby

@@ -66,6 +66,6 @@ I'd, I'd be a rich millionaire, yes, I would
 For all I do, do is sit here thinking of you
 
 I'm just the lonely one
-Hey, Ooh, Oh yeah, Oh, Baby,
+Hey, Oh, Oh yeah, Oh, Baby,
 The lonely one, the lonely one, the lonely one
 Oh Baby, Oh Baby, Oh Baby, Oh Baby

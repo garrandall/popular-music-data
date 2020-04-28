@@ -115,7 +115,7 @@ It's better than it's ever been
 'Cause we can talk it through
 
 
-Oohh, my favorite line was "Can I call you sometime?"
+Oh, my favorite line was "Can I call you sometime?"
 It's all you had to say
 
 
@@ -133,13 +133,13 @@ My life has just begun
 I finally found someone,
 
 
-Ooh, someone
+Oh someone
 
 
 I finally found someone,
 
 
-Oooh...
+Oh...
 
 
 Did I keep you waiting,

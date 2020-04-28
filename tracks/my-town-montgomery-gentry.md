@@ -89,78 +89,78 @@ rankings:
   start_date: '2003-02-08'
 ---
 
-There's a "For Sale" sign on a big old rusty tractor. 
-You can't miss it, it's the first thing that you see. 
-Just up the road, a pale-blue water tower, 
-With "I Love Jenny" painted in bright green. 
-Hey, that's my Uncle Bill, there by the courthouse. 
-He'll be lowerin' the flag when the sun goes down. 
-And this is my town. 
+There's a "For Sale" sign on a big old rusty tractor.
+You can't miss it, it's the first thing that you see.
+Just up the road, a pale-blue water tower,
+With "I Love Jenny" painted in bright green.
+Hey, that's my Uncle Bill, there by the courthouse.
+He'll be lowerin' the flag when the sun goes down.
+And this is my town.
 
-(Na, na, na, na, na.) 
-Yeah, this is my town. 
-(Na, na, na, na, na.) 
-Hey! 
-Where I was born, where I was raised. 
-Where I keep all my yesterdays. 
-Where I ran off 'cos I got mad, 
-An' it came to blows with my old man. 
-Where I came back to settle down, 
-It's where they'll put me in the ground: 
-This is my town. 
-(Na, na, na, na, na.) 
-Yeah, this is my town. 
-(Na, na, na, na, na.) 
-My town. 
+(Na, na, na, na, na.)
+Yeah, this is my town.
+(Na, na, na, na, na.)
+Hey!
+Where I was born, where I was raised.
+Where I keep all my yesterdays.
+Where I ran off 'cos I got mad,
+An' it came to blows with my old man.
+Where I came back to settle down,
+It's where they'll put me in the ground:
+This is my town.
+(Na, na, na, na, na.)
+Yeah, this is my town.
+(Na, na, na, na, na.)
+My town.
 
-There ain't much goin' on here since they closed the mill. 
-But that whistle still blows ev'ry day at noon. 
-A bunch of us still go down to the diner. 
-I wonder if that interstate's still comin' through. 
-Come Sunday morning service, at the Church of Christ, 
-Well there ain't an empty seat to be found. 
-And this is my town. 
+There ain't much goin' on here since they closed the mill.
+But that whistle still blows every day at noon.
+A bunch of us still go down to the diner.
+I wonder if that interstate's still comin' through.
+Come Sunday morning service, at the Church of Christ,
+Well there ain't an empty seat to be found.
+And this is my town.
 
-(Na, na, na, na, na.) 
-Yeah, this is my town. 
-(Na, na, na, na, na.) 
-Where I was born, where I was raised. 
-Where I keep all my yesterdays. 
-Where I ran off 'cos I got mad, 
-An' it came to blows with my old man. 
-Where I came back to settle down, 
-It's where they'll put me in the ground: 
-This is my town. 
-(Na, na, na, na, na.) 
-Yeah, this is my town. 
-(Na, na, na, na, na.) 
-My town. 
+(Na, na, na, na, na.)
+Yeah, this is my town.
+(Na, na, na, na, na.)
+Where I was born, where I was raised.
+Where I keep all my yesterdays.
+Where I ran off 'cos I got mad,
+An' it came to blows with my old man.
+Where I came back to settle down,
+It's where they'll put me in the ground:
+This is my town.
+(Na, na, na, na, na.)
+Yeah, this is my town.
+(Na, na, na, na, na.)
+My town.
 
-Well, I bought and painted up that rusty tractor. 
-You can't miss it, it's sittin' right there in our yard. 
-The County came and took that water tower, 
-And that's Jenny, with a baby, in the car. 
-Ah, we're off to Sunday service at the Church of Christ, 
-And if we want a seat, we better leave right now. 
-And maybe later, me an old T-roy will show you around, 
-Our town. 
+Well, I bought and painted up that rusty tractor.
+You can't miss it, it's sittin' right there in our yard.
+The County came and took that water tower,
+And that's Jenny, with a baby, in the car.
+Ah, we're off to Sunday service at the Church of Christ,
+And if we want a seat, we better leave right now.
+And maybe later, me an old T-roy will show you around,
+Our town.
 
-(Na, na, na, na, na.) 
-Yeah, this is my town. 
-(Na, na, na, na, na.) 
-Yeah, where I was born, where I was raised. 
-Where I keep all my yesterdays. 
-Where I ran off 'cos I got mad, 
-An' it came to blows with my old man. 
-Where I came back to settle down, 
-It's where they'll put me in the ground: 
-This is my town. 
-(Na, na, na, na, na.) 
+(Na, na, na, na, na.)
+Yeah, this is my town.
+(Na, na, na, na, na.)
+Yeah, where I was born, where I was raised.
+Where I keep all my yesterdays.
+Where I ran off 'cos I got mad,
+An' it came to blows with my old man.
+Where I came back to settle down,
+It's where they'll put me in the ground:
+This is my town.
+(Na, na, na, na, na.)
 
-Yeah, this is my town. 
-(Na, na, na, na, na.) 
-This is my town. 
-(Na, na, na, na, na.) 
+Yeah, this is my town.
+(Na, na, na, na, na.)
+This is my town.
+(Na, na, na, na, na.)
 My town.
 
 

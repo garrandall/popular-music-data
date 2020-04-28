@@ -32,9 +32,9 @@ Nothing comes easy but it won’t always be
 No, it won’t be always be so hard
 
 
-Oooh, oooh, oooh
+Oh, ohohoh
 Down that road
-Oooh, oooh, oooh
+Oh, ohohoh
 Oh oh oh oh
 
 

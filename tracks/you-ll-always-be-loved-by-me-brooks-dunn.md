@@ -106,7 +106,4 @@ But I think we were meant to be
 This old world it spins so fast
 So many times they just don't last
 
-
-
-
 You'll always be loved by me

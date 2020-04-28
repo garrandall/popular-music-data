@@ -66,7 +66,7 @@ Left left left left left right left
 Get on up get on up get on up right left
 Left left left left left right left
 Get on up get on up get on up
-FORWARD MARCH!!!
+FORWARD MARCH!
 
 
 Y'all niggas ain't ready
@@ -81,9 +81,8 @@ Nobody move till I say get ready to ride no need to cry
 Hope y'all niggas ain't scared to die
 You can die in here we handlin thangs
 A-T-L-A-N-T-A G-A that's where I stay
-MARCH!!!
+MARCH!
 
-Chorus
 
 
 On the grind handling mine
@@ -100,7 +99,6 @@ And that's until my D-to the-Y-I-N-G D-A-Y
 Now get your gats and get on up
 And come on join my infantry!
 
-Chorus
 
 
 A-T-L-A-N-T-A G-A that's where I S-T-A-Y
@@ -109,9 +107,8 @@ Back to that
 A-T-L-A-N-T-A G-A that's where I S-T-A-Y
 Un-til my D-to the-Y-I-N-G D-A
 To the motherfucking-Y
-FORWARD MARCH!!!
+FORWARD MARCH!
 
-Chorus
 
 
 Left keep it in step
@@ -131,6 +128,6 @@ Left keep it in step, keep it in step, keep it in step
 8 choppers and they filled with troops
 9 seconds 'foe you lose ya life
 10 automatic firing weapons
-Now get on up get on up get on up!!!
+Now get on up get on up get on up!
 
 Chorus 2X

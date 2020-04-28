@@ -39,7 +39,7 @@ Tell me this is love forever
 And then we'll walk together
 Through the door to paradise
 
-(Paradise, paradise, ooh)
+(Paradise, paradise, oh)
 
 Make me know you understand
 You're willing to be mine, all mine

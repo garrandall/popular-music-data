@@ -117,7 +117,7 @@ With my head hanging down
 And I wonder who's loving you
 
 
-Ooh, my first mistake was
+Oh my first mistake was
 I wanted too much time
 I had to have him morning, noon, and night
 If I would've known then
@@ -132,10 +132,10 @@ Fighting blind minded thoughts of despair
 Hold on to your love
 You got to hold on
 Hold on to your love
-Ooh, ooh, baby hold on
+Oh oh baby hold on
 Hold on to your love
 Oh, you got to hold on
-Hold on to your love, ooh
+Hold on to your love, oh
 
 
 The art of playing games now
@@ -180,15 +180,15 @@ Don´t let go
 Keep the ties
 Hold on to your love
 Hang on tight, and don't let go
-Hold on to your love, ooh
+Hold on to your love, oh
 Don't let go
 Hold on to your love
-Hold on to your love, ooh
+Hold on to your love, oh
 
 
 (Hold on to your love)
 If you love him, if you need him, really want him
-(Hold on to your love, ooh)
+(Hold on to your love, oh
 Just keep on, just keep on hanging on (Hold on)
 Little trust, honesty, golden rule (Hold on)
 Feel the strength of passion in your soul

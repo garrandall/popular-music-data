@@ -79,7 +79,7 @@ It'll make you quick, it'll make you monkey
 Over the candlestick
 (Yeah, yeah, yeah, yeah)
 
-Ooh, Soulville, baby
+Oh, Soulville, baby
 Show me the way to go home
 (The way to go home)
 Lead me to Soulville, baby

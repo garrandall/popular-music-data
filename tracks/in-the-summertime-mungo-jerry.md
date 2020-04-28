@@ -120,9 +120,6 @@ We'll go drivin' or maybe we'll settle down
 If she's rich, if she's nice
 Bring your friends and we'll all go into town
 
-
-
-
 Chh chh-chh, uh, Chh chh-chh, uh
 Chh chh-chh, uh, Chh chh-chh, uh
 Chh chh-chh, uh, Chh chh-chh, uh

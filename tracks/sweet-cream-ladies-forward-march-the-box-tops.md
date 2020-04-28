@@ -99,8 +99,8 @@ Let them fabricate success to those who fail
 And should penalties pursue them
 When there's really credit due them
 They might keep a simple fellow out of jail!
-Sweet cream ladies, forward march, oooh-ooh
-Sweet cream ladies, forward march, oooh-ooh
+Sweet cream ladies, forward march, oh
+Sweet cream ladies, forward march, oh
 
 
 

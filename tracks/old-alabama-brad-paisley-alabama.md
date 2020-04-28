@@ -139,4 +139,4 @@ Oh, play me some old Alabama
 Won’t you play me some old Alabama
 Play me some old Alabama
 Won’t you play-ee-ay-ay
-Yeee-haw!!!
+Yeee-haw!

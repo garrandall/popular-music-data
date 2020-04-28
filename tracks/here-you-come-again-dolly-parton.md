@@ -110,9 +110,6 @@ And shaking' me up so that all I really know
 Is here you come again
 And here I go
 
-
-
-
 All you got to do is smile that smile
 And there go all my defenses
 Just leave it up to you and in a little while

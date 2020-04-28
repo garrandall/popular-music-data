@@ -33,9 +33,6 @@ When the words are in the music, the music is the song
 The world would be so happy, if we would all just get along
 I want to see it, a smile on every face
 
-
-
-
 See what love can do
 See what love can do
 See what love can do

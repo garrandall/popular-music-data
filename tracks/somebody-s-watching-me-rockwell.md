@@ -117,9 +117,6 @@ And I have no privacy
 I always feel like somebody's watching me
 Who's playing tricks on me?
 
-
-
-
 (Who's watching me?)
 I don't know anymore
 Are the neighbors watching me?

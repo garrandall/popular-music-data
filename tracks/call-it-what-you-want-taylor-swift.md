@@ -16,10 +16,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-12-02'
 ---
-Ohh-ohh, ohh-ohh, ohh-ohh, ohh-ohh
-Ohh-ohh, ohh-ohh, ohh-ohh, ohh-ohh
-Ohh-ohh, ohh-ohh, ohh-ohh, ohh-ohh
-Ohh-ohh, ohh-ohh, ohh-ohh, ohh-ohh
+Ohh-oh, oh-oh, oh-oh, oh-oh
+Ohh-oh, oh-oh, oh-oh, oh-oh
+Ohh-oh, oh-oh, oh-oh, oh-oh
+Ohh-oh, oh-oh, oh-oh, oh-oh
 
 My castle crumbled overnight
 I brought a knife to a gunfight

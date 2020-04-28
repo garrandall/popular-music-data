@@ -105,7 +105,7 @@ And just come back for more
 I think you're living in a fantasy
 It's got to be them or me
 So if you try it onr more time
-Baby dont expect me to come running back to you
+Baby don't expect me to come running back to you
 
 Running back to you
 Then you'll think about love, all the good I gave to you

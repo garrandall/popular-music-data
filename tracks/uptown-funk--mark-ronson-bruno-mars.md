@@ -262,9 +262,9 @@ I'm too hot (hot damn)
 And my band 'bout that money
 Break it down...
 
-Girls hit your hallelujah (ooh)
-Girls hit your hallelujah (ooh)
-Girls hit your hallelujah (ooh)
+Girls hit your hallelujah (oh)
+Girls hit your hallelujah (oh)
+Girls hit your hallelujah (oh)
 'Cause uptown funk gon' give it to you
 'Cause uptown funk gon' give it to you
 'Cause uptown funk gon' give it to you
@@ -304,9 +304,9 @@ I'm too hot (hot damn)
 And my band 'bout that money
 Break it down...
 
-Girls hit your hallelujah (ooh)
-Girls hit your hallelujah (ooh)
-Girls hit your hallelujah (ooh)
+Girls hit your hallelujah (oh)
+Girls hit your hallelujah (oh)
+Girls hit your hallelujah (oh)
 'Cause uptown funk gon' give it to you
 'Cause uptown funk gon' give it to you
 'Cause uptown funk gon' give it to you

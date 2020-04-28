@@ -93,7 +93,7 @@ rankings:
   start_date: '1992-08-22'
 ---
 (Jump jump)
-You should know, you should know that, ahh
+You should know, you should know that, ah
 Kris Kross is not having anything today
 As we stand there totally crossed out
 We commence to make ya (Jump jump)

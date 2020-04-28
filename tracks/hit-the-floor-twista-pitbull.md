@@ -43,13 +43,13 @@ Boogie boogie boogie (go ahead baby)
 Boogie boogie boogie
 
 
-Get down hit the flo 
-Dile ponme la hay que te la voy a partir 
+Get down hit the flo
+Dile ponme la hay que te la voy a partir
 
 
 Shake it shake it fo me
 Come and work it for me
-shawty but dont break it for me
+shawty but don't break it for me
 Wiggle wiggle want you
 come on and get naked fo me
 say you like the dick
@@ -61,7 +61,7 @@ go and hold that fatty up
 Now let me beat up untill you say you've had enough
 Pitbull and twista shawty
 show me how you work that work that
-Got to the flo but dont hurt that hurt that
+Got to the flo but don't hurt that hurt that
 Take you with me if you can show me how you do that
 looking so hot and got the hood hollin ("who dat")
 Hit it so hard mamacita
@@ -78,12 +78,12 @@ When Pits in the area area
 better check his bank fo direst deposits
 check under yo bed bed
 check yo closet
-she dont like bacon?
+she don't like bacon?
 COOL I'll give her sausage
 If it doesnt make sense sense
 Dont make dollars dollars
 Dont make money money
-dont make profits
+don't make profits
 Boogie boogie
 I just want to give you nook
 Noogie noggie
@@ -123,7 +123,7 @@ Got you in the fantasy
 I hope no shit pop off
 While we grindin and I'm trying
 to get my rocks off
-Hope them haters dont coma at me thinking my blocks off
+Hope them haters don't coma at me thinking my blocks off
 Cause we known to get the heaters burnin like hot sauce
 Its all because I gave them baby mamas dick on the low
 I tell em

@@ -59,9 +59,6 @@ Hey, my sun-eyed girl
 My sun-eyed girl
 Hey, my sun-eyed girl
 
-
-
-
 Hey, my sun-eyed girl
 Hey, my sun-eyed girl
 My sun-eyed girl

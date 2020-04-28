@@ -185,11 +185,11 @@ Hurry up, I'm waitin' out front
 
 
 Uh huh, you see me in the spotlight
-"Ooh I love your style"
+"Oh I love your style"
 Uh huh show me what you got
 'Cause I don't wanna waste my time
 Uh huh see me in the spotlight
-"Ooh I love your style"
+"Oh I love your style"
 Uh huh show me what you got now
 Come and make it worth my while
 
@@ -215,11 +215,11 @@ Not too much, but maybe just enough
 
 
 Uh huh, you see me in the spotlight
-"Ooh I love your style"
+"Oh I love your style"
 Uh huh show me what you got
 'Cause I don't wanna waste my time
 Uh huh see me in the spotlight
-"Ooh I love your style"
+"Oh I love your style"
 Uh huh, show me what you got now
 Come and make it worth my while
 
@@ -245,11 +245,11 @@ Whatchu acting shy for?
 
 
 Uh huh, you see me in the spotlight
-"Ooh I love your style"
+"Oh I love your style"
 Uh huh show me what you got
 'Cause I don't wanna waste my time
 Uh huh see me in the spotlight
-"Ooh I love your style"
+"Oh I love your style"
 Uh huh, show me what you got now
 Come and make it worth my while
 

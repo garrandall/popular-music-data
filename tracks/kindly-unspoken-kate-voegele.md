@@ -14,7 +14,7 @@ rankings:
 ---
 
 As high as the moon
-So high were my spirits 
+So high were my spirits
 When you sang out my name
 
 And coming from you
@@ -47,8 +47,4 @@ Well, to tell me goodbye there was no better way
 So don't keep me up till the dawn
 With words that'll keep leading me on
 I know much better than to wait for an answer from you
-
-
-
-
 

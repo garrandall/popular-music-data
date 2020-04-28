@@ -85,8 +85,8 @@ rankings:
   start_date: '1985-09-28'
 ---
 
-Oh, come on and rock me, ooh, girl
-Oh, come on and rock me, ooh, girl
+Oh, come on and rock me, oh, girl
+Oh, come on and rock me, oh, girl
 
 Hey, girl, long time no see
 Do you have a little time to spend with me?
@@ -96,7 +96,7 @@ In your life, huh, talk to me, baby
 Your hair, perfume you wear
 Brings back memories, oh, of you and me
 You look so fine, you blow my mind
-All over again, ooh
+All over again, oh
 
 So much has happened in my life
 Since we partied, what about you?
@@ -108,13 +108,13 @@ Rock me tonight for old times sake
 Would you, baby, hey?
 Roll with me tonight for old times sake
 
-Ooh, girl, I'm gonna love you real good
+Oh, girl, I'm gonna love you real good
 Come on, let me do it now, you know I could
 I really miss the way you squeeze and moan
 And call out my name, woo, you can call me, baby
 
 I remember you like to take your time
-To get in the mood, ooh, yes, you do, yeah
+To get in the mood, oh, yes, you do, yeah
 But once you're in the mood
 You like to go, shake to the groove, oh yes, you do, girl
 

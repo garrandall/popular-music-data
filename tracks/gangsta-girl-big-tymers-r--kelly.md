@@ -93,9 +93,6 @@ I like it fast or slow, a freaky bitch fo sho
 Street life is all I know, hustlin and stackin dough
 I file to keep it gangsta, until my cats get closed
 
-
-
-
 Once upon a time in this place called hood
 Where the gangsta girls shake it and they all smell good
 Lived this legendary pimp (pimp) by the name of Fresh
@@ -113,9 +110,6 @@ One more 'gain, with her friend, playa that's how I hit it
 Now we grippin, grabbin, pullin, stabbin (what is your name?)
 It's Hypnotiq how I got it, but I'ma glad that you came
 
-
-
-
 Slim Teresa, and Lakeisha (they some gangsta girls)
 Tanya, Wanda, and Laneisha (they some gangsta girls)
 'Bout fifty Kims all in Tims (gangsta girls)
@@ -124,8 +118,4 @@ Full of drama, baby mama (she's a gangsta girl)
 When they freakin on the weekend (they some gangsta girls)
 But they knowin where they goin (the gangsta girls)
 Fly wheels, pay they bills (the gangsta girls)
-
-
-
-
 

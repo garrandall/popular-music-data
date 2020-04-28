@@ -154,8 +154,8 @@ Listen, and when the world starts to stress me out (Where I run)
 It's to you, boy, without a doubt (You're the one)
 Who keeps me sane and I can't complain (Can't complain)
 You're like a drug, you relieve my pain (May seem strange)
-You're like the blood flowing through my veins (Ooh)
-Keeps me alive and feeding my brain (Ooh)
+You're like the blood flowing through my veins (Oh)
+Keeps me alive and feeding my brain (Oh)
 Now this is how another human life ('Nother life)
 Could have the power to take over mine
 'Cause you're my...

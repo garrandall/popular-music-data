@@ -52,7 +52,7 @@ Why you don't even know yourself?
 Poor little girl you're out of this world Marianne
 Wake up Marianne
 
-Ooh I can tell, you're a sweet little heart breaker Marianne
+Oh I can tell, you're a sweet little heart breaker Marianne
 Don't mind me but I think, I'll see you later Marianne
 Don't you go flip out, trip out, skip out
 Poor little girl you're outta this world Marianne
@@ -61,8 +61,8 @@ Wake up, wake up, wake up
 Or are you afraid of the shakeup?
 There's a better thing you can take up
 Wake up Marianne, wake up Marianne
-Wake up Marianne, ooh Marianne
-Ooh
+Wake up Marianne, oh Marianne
+Oh
 
 
 

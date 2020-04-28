@@ -88,14 +88,14 @@ Let's talk about love
 
 Alright, alright, alright, I got my eyes on you
 Alright, alright, alright, I got my eyes on you
-Yeah, oh, oh, let's talk about it, aah
+Yeah, oh, oh, let's talk about it, ah
 
 Don't blame me
 Oh, won't hurt you
 Don't blame me
-It's plain to see you know that it'll be yeah, oh, oooooh
+It's plain to see you know that it'll be yeah, oh, oh
 
-Aah, aah, aah
+Ah, ah, ah
 
 She's the girl of my dreams
 She's the girl on my mind
@@ -110,6 +110,6 @@ Alright, alright, alright, I got my eyes on you
 Alright, alright, alright, I got my eyes on you
 Alright, alright, alright, I got my eyes on you
 Alright, alright, alright, I got my eyes on you
-Alright, alright, alright, I got my eyes on you Oooh!
+Alright, alright, alright, I got my eyes on you Oh!
 Alright, alright, alright, I got my eyes on you
 Alright, alright, alright, I got my eyes on you

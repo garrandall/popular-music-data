@@ -47,8 +47,8 @@ But everything tasted so good
 We didn't stop until after dessert
 
 
-Ooh la la, breakfast for two
-Ooh la la, you got me and I got you
+Ohla la, breakfast for two
+Ohla la, you got me and I got you
 
 I've eaten in Italy
 Yes, I've eaten in Spain

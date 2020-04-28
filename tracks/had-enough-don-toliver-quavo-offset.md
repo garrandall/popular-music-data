@@ -23,7 +23,7 @@ rankings:
 I know
 I know you had enough (Oh)
 I know you had enough (Oh)
-But stay a while (Ooh)
+But stay a while (Oh)
 I know you had enough of me (Of me)
 
 Get 'em down, had enough
@@ -48,7 +48,7 @@ I know you had enough of me
 Hey
 Know you had enough (What?)
 Livin' like what the fuck (Who?)
-You can't trust, you think I'm in love with lust (Ooh)
+You can't trust, you think I'm in love with lust (Oh)
 She look possessed, go and get it off your chest (Hey)
 She asked to read my texts, lookin' in her eyes, she stressed (She stressed)
 Shawty get wet like baguettes (Baguettes)

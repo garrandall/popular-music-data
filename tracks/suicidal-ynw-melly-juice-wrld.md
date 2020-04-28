@@ -87,7 +87,7 @@ I thought that we were meant to be
 
 Your love is suicidal
 For me, your love is suicidal
-To me, your love is suicidal (Ooh)
+To me, your love is suicidal (Oh)
 To me, your love is suicidal
 
 
@@ -120,12 +120,12 @@ I thought that we were meant to be
 
 Your love is suicidal
 For me, your love is suicidal
-To me, your love is suicidal (Ooh)
+To me, your love is suicidal (Oh)
 To me, your love is suicidal
 
 
-I'm sippin' Hennessy-'y-'y, ooh
-I'm sippin' Hennessy-'y-'y, ooh
+I'm sippin' Hennessy-'y-'y, oh
+I'm sippin' Hennessy-'y-'y, oh
 I don't wanna lose my conscience
 Drinkin' all this Hennessy
 But, baby, you took control of me
@@ -135,13 +135,13 @@ I knew you wanted to fuck him 'cause I could tell
 
 Your love is suicidal
 For me, your love is suicidal
-To me, your love is suicidal (Ooh)
+To me, your love is suicidal (Oh)
 To me, your love is suicidal
 
 
-Huh, ooh, I'm pissin' Hennessy-'y-'y, ooh
+Huh, oh, I'm pissin' Hennessy-'y-'y, oh
 Then flush it in the past, then fornicate with cash
-I'm tryna heal the gash, you up and made a slash, then left (Ooh)
+I'm tryna heal the gash, you up and made a slash, then left (Oh)
 You tell your friends I was the worst even though it isn't true
 You actin' out your body, baby, I know it isn't you
 Seen you feel ridiculed when you played me like a fool

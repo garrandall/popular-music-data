@@ -91,7 +91,7 @@ rankings:
 ---
 
 
-Ooh, yea yea
+Oh, yea yea
 DTP, how we do
 Call you and you can call me
 Whatever you wanna do baby

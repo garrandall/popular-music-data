@@ -46,7 +46,7 @@ rankings:
 ---
 
 
-Ooh baby let's take life's highway
+Oh baby let's take life's highway
 It's automatically yours and my way
 No road is too rough to travel
 We'll walk barefoot on life's gravel
@@ -64,13 +64,13 @@ I'm yours and you're mine
 It's automatically sunshine
 
 
-Ooh, ooh baby
+Oh, ohbaby
 
 
 Baby!
 
 
-Ooh baby until you find you
+Oh baby until you find you
 Automatically I'm behind you
 So do your thing and always know
 Where you go I'm gonna follow

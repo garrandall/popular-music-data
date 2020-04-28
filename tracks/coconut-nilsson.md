@@ -93,10 +93,10 @@ Put the lime in the coconut, then you feel better
 Put the lime in the coconut, drink 'em both up
 Put the lime in the coconut, and call me in the morning
 
-Whoo-whoo-whoo, whoo-ooh-ooh, whoo-ooh-ooh
-Whoo-whoo-whoo, whoo-ooh-ooh, whoo-ooh-ooh
-Whoo-whoo-whoo, whoo-ooh-ooh, whoo-ooh-ooh
-Whoo-whoo-whoo, whoo-ooh-ooh, whoo-ooh-ooh
+Whoo-whoo-whoo, whoo-oh-oh, whoo-oh-oh
+Whoo-whoo-whoo, whoo-oh-oh, whoo-oh-oh
+Whoo-whoo-whoo, whoo-oh-oh, whoo-oh-oh
+Whoo-whoo-whoo, whoo-oh-oh, whoo-oh-oh
 
 Brother bought a coconut, he bought it for a dime
 His sister had another one, she paid it for a lime

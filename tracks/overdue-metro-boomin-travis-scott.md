@@ -40,8 +40,8 @@ All we, we drink, leave us a mess (Drinking)
 Down on my drugs, it is old news (Yeah)
 
 Oh, oh oh
-Mhm mhm, hmm
-Hmm
+Mhm mhm, hm
+Hm
 
 
 I'm with the hero (21), but we knew this (Woah)

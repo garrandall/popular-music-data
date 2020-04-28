@@ -89,12 +89,12 @@ Or turn the music down low
 
 I'm comin' yes I'm comin'
 You know that I'll be runnin'
-I'm comin' yes you know that I....
+I'm comin' yes you know that I...
 
-Oooh I'm coming home yeah
+Oh I'm coming home yeah
 C'mon
 Oh I'm coming home yeah
 Don't, don't try to phone no no
 Oh oh now
 Now I'm coming home
-Oooh
+Oh

@@ -115,9 +115,6 @@ Heard it in a love song
 Heard it in a love song
 Can't be wrong
 
-
-
-
 I'm gonna be leavin' at the break of dawn
 Wish you could come but I don't need no woman taggin' along
 Goin' sneak out that door, couldn't stand to see you cry

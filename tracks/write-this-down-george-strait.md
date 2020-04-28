@@ -120,9 +120,6 @@ Stick it on your refrigerator door
 Hang it in a picture frame up above the mantel
 Where you'll see it for sure
 
-
-
-
 You can find a chisel, I can find a stone
 Folks will be reading these words long after we're gone
 

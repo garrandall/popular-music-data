@@ -89,11 +89,11 @@ And you're (Bitch) caught out there
 
  - I hate you so much right now
 I hate you so much right now
-Ahhhhh...
+Ah...
 I hate you so much right now
 I hate you so much right now
 I hate you so much right now
-Ahhhhh...
+Ah...
 I hate you so much right now
 
 So sick of your games, I'll set your truck to flames
@@ -120,7 +120,7 @@ Come on
 
 
 
-(She's so) 
+(She's so)
 Raunchy, so vulgar, not me, why the hell her
 Look, she dresses (Look at her)
 A mess, what do you see (I don't know)
@@ -137,8 +137,4 @@ You keep tellin' me lies
 But to your surprise
 Look, I got somethin' for y'all
 Since you're caught out there
-
-
-
-
 

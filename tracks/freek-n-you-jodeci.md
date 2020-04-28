@@ -125,7 +125,7 @@ To show how much
 I think about freek'n you
 
 
-Oooh, I could go on for days
+Oh, I could go on for days
 But I couldn't go on for weeks
 I can even play with another body
 But it wouldn't last cause I'm a freak

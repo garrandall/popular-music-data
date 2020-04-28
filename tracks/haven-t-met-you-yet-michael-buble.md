@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: haven-t-met-you-yet-michael-buble
+lyrics_url: https://genius.com/Michael-buble-havent-met-you-yet-lyrics
 name: Haven't Met You Yet
 rankings:
 - end_date: '2009-09-25'
@@ -183,4 +184,63 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-08-14'
 ---
+I'm not surprised, not everything lasts
+I've broken my heart so many times I stopped keeping track
+Talk myself in, I talk myself out
+I get all worked up then I let myself down
 
+
+I tried so very hard not to lose it
+I came up with a million excuses
+I thought I'd thought of every possibility
+
+
+And I know some day that it’ll all turn out
+You'll make me work so we can work to work it out
+And I promise you kid that I'll give so much more than I get
+I just haven't met you yet
+
+
+I might have to wait, I'll never give up
+I guess it's half timing and the other half's luck
+Wherever you are, whenever it's right
+You'll come out of nowhere and into my life
+
+
+And I know that we can be so amazing
+And baby your love is gonna change me
+And now I can see every possibility
+
+
+And somehow I know that it’ll all turn out
+You'll make me work so we can work to work it out
+And promise you kid I'll give so much more than I get
+I just haven't met you yet
+
+
+They say all’s fair in love and war
+But I won’t need to fight it
+We'll get it right and we'll be united
+
+
+And I know that we can be so amazing
+And being in your life is gonna change me
+And now I can see every single possibility
+
+
+And someday I know it'll all turn out
+And I'll work to work it out
+Promise you kid I'll give more than I get, than I get, than I get, than I get
+
+
+Oh you know it'll all turn out
+And you'll make me work so we can work to work it out
+And promise you kid to give so much more than I get yeah
+I just haven't met you yet
+
+
+I just haven't met you yet
+Oh promise you kid to give so much more than I get
+I said love love love love love love love
+I just haven't met you yet
+Yeah, I just haven't met you yet

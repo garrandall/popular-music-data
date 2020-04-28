@@ -55,7 +55,3 @@ And you just can't creep up behind her
 And you can't understand that she's my girl
 She's my girl
 
-
-
-
-

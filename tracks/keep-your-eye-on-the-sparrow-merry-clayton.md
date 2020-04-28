@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: keep-your-eye-on-the-sparrow-merry-clayton
+lyrics_url: https://genius.com/Merry-clayton-keep-your-eye-on-the-sparrow-lyrics
 name: Keep Your Eye On The Sparrow
 rankings:
 - end_date: '1975-08-01'
@@ -43,4 +44,30 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-09-20'
 ---
-
+Don't go to bed with
+No price on your head, no
+Don't do the crime
+If you can't do the time, uh uh
+Keep your eye on the sparrow
+When the going gets narrow
+Don't roll the dice
+If you can't pay the price
+No, don't do it
+Don't run your feet
+Down no deadend street
+Keep your eye on the sparrow
+When the going gets narrow
+(Don't do it)
+Keep your eye on the sparrow
+When the going gets narrow
+Don't do me dirt or you're
+Gonna get hurt, yeah (don't do it)
+Don't run away til
+You hear what I say
+Keep your eye on the sparrow
+When the going get a
+Little rough and narrow
+Yeah, baby, keep your eye
+Keep your eye on the sparrow
+Honey, when the going
+When the going gets narrow

@@ -73,7 +73,7 @@ Lauren Wood
 Backing vocals: Michael McDonald
 (Lauren Wood)
 
-Oooh, you have won
+Oh, you have won
 Take my heart
 I think about you night and day
 Am I wrong in this game
@@ -83,7 +83,7 @@ And I'm longing for your touch
 Darlin' don't leave me this way
 Darlin' don't leave me at all
 
-Ooh you're here
+Ohyou're here
 And you're there, everywhere
 But I never know just where you're at
 Do your eyes tell me lies
@@ -101,7 +101,7 @@ You are the sweetest thing
 I really think you're pretty (sweetest thing I found)
 You are the finest thing that's happened to my life
 
-Oooh, you have won
+Oh, you have won
 Take my heart
 I think about you night and day
 Am I wrong (am I wrong) in this game
@@ -117,7 +117,7 @@ Please don't leave me now...
 
 Darlin' don't leave me (don't leave me) this way
 Darlin' don't leave me at all
-Don't leave me oooh, don't leave me
+Don't leave me oh, don't leave me
 Darlin', Darlin'
 Please don't leave me
 Darlin' don't leave me at all

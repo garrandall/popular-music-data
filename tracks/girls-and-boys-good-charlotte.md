@@ -94,9 +94,6 @@ Girls like cars and money
 Let's go!
 Hey hey!
 
-
-
-
 Girls don't like boys
 Girls like cars and money
 Boys will laugh at girls when they're not funny

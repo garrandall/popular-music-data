@@ -134,7 +134,7 @@ To give you somethin', somethin' that I just haven't got
 Well, there's only one girl that I will ever love
 And that was so many years ago
 And though I know I'll never get her out of my heart
-She never loved me back, ooh I know
+She never loved me back, oh I know
 
 Well, I remember how she left me on a stormy night
 Oh, she kissed me and got out of our bed

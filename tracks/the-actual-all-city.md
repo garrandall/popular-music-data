@@ -24,17 +24,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-08-01'
 ---
-"No...no doubt baby... All City TRUE...
-Ready to flip shit, comin' through with the crew" (4x)
-
-Yeah, what, uh
-Like that how we do
-The N-Y
-Bed-Stuy
-Brooklyn
-
-Verse 1:
-
 Check it
 For you to fuck with this apostle, it's not possible
 Mega large collossal nigga you docile
@@ -58,9 +47,7 @@ The game is hot to me, but I play to win "CREW"
 
 "No...no doubt baby... All City CREW...don't get it wrong...
 Comin' through with the crew...No...no doubt baby... All City CREW...
-Ready to flip shit, comin' through with crew...." (4x)
-
-Verse 2:
+Ready to flip shit, comin' through with crew..."
 
 Yo, yo, yo
 We the forever livin', there's no beginnin' or endin'
@@ -83,10 +70,8 @@ As we advance on through, All City "CREW"
 "Ready to flip shit, comin' through with crew...
 No...no doubt baby... All City CREW...don't get it wrong...
 Comin' through with the crew...No...no doubt baby... All City CREW...
-Ready to flip shit, comin' through with crew....No...no doubt baby...
+Ready to flip shit, comin' through with crew...No...no doubt baby...
 All City CREW...don't get it wrong...comin' through (echoes)"
-
-Verse 3:
 
 For this dough yo, the mega flowin' coastal
 Plan to be the next mogul, through rap vocal
@@ -103,9 +88,7 @@ New ones to follow, chrome nozzle, we spit things that leave you hollow
 Sophisticato, strictly for the cargo, gems sparkle, new wave
 El DeMarco, I play my part though, the city hot though "CREW"
 
-"don't get it wrong...comin' through with the crew..."
-
-Verse 4:
+"don't get it wrong... comin' through with the crew..."
 
 Yo, I'm certified raw, you heard of me before
 Verbally I'm bringin war to those who wanna murder me

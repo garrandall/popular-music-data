@@ -60,4 +60,3 @@ I'll never let you down you know
 Sweetheart you make me strong for I'll be there for you
 Nuncha te dejo
 
-Chorus (2x)

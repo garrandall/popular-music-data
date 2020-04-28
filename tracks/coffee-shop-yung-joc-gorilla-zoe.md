@@ -19,7 +19,7 @@ Its young dirty
 Whos this?
 Its young dirty!
 Oh okay what you need?
-Hey i need some of them thangs, mayn
+Hey I need some of them thangs, mayn
 How many of 'em?
 Two of 'em, give me two
 I got you, pull on around to the window pimp
@@ -73,7 +73,7 @@ Cook it in the morning, sell it durin midday
 Whipped cream the same color as your latte
 I tell em vamonos, thas rapido, you need some mota? you gon call gorilla zoe
 You can get the coca if you got tha get-it-green
-Colombian, and i aint talkin coffee beans 12 to 12
+Colombian, and I aint talkin coffee beans 12 to 12
 Its always someone on the scene
 Starblocks, we get it out by any means
 Coffee shop, trap spot, hand to hand, get my guap

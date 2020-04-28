@@ -112,9 +112,6 @@ Dear baby I love you just thinkin' of you
 Love always
 (repeat)
 
-
-
-
 Now I know I could've called
 But it seemed much better this way
 Cause I'm missin' my baby
@@ -133,7 +130,7 @@ Dear baby I love you just thinkin' of you
 Love always
 (repeat)
 
-Ooo, Ooo, Ooo, Ooo, Ooo,....
+Ooo, Ooo, Ooo, Ooo, Ooo,...
 
 
 
@@ -142,7 +139,7 @@ There's nothin' that I wouldn't do
 Just to prove that I really, really love you
 Baby I want you, I want you, I want you
 And there's nothing that I'd rather do
-Than to love you..... I love you always
+Than to love you... I love you always
 Every night and every day.
 
 

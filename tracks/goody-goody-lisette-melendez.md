@@ -127,10 +127,6 @@ I'll never do you wrong
 Take a chance
 Get it going on strong, yeah
 
-
-
-
-
 I need to know love will find a way
 Tell me, do you want a piece of my
 Goody goody

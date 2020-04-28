@@ -92,9 +92,9 @@ I swear that I will mean it
 I'll say, "Will you marry me?"
 
 Singing
-Ooh whoa ooh oh
-Ooh whoa ooh oh
-Ooh whoa ooh oh
+Ohwhoa ohoh
+Ohwhoa ohoh
+Ohwhoa ohoh
 Oh, yeah
 
 How many girls in the world can make me feel like this?
@@ -129,14 +129,14 @@ I swear that I will mean it
 I'll say, "Will you marry me?"
 
 Got me singing
-Ooh whoa ooh oh
+Ohwhoa ohoh
 Got me singing
-Ooh whoa ooh oh
-Ooh whoa ooh oh
+Ohwhoa ohoh
+Ohwhoa ohoh
 Would you marry me, baby?
-Ooh whoa ooh oh
-Ooh whoa ooh oh
-Ooh whoa ooh oh
+Ohwhoa ohoh
+Ohwhoa ohoh
+Ohwhoa ohoh
 
 A hundred and five is the number that comes to my head
 When I think of all the years I wanna be with you

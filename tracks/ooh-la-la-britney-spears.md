@@ -3,9 +3,9 @@ artists:
 - Britney Spears
 features: []
 genres: []
-key: ooh-la-la-britney-spears
+key: oh-la-la-britney-spears
 lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/oohlala.html
-name: Ooh La La
+name: Oh La La
 rankings:
 - end_date: '2013-07-12'
   rank: 85
@@ -30,7 +30,7 @@ rankings:
 ---
 
 You don't have to look like a movie star
-Ooh I think you're good just the way you are
+Oh I think you're good just the way you are
 Tell me if you could would you up and run away with me?
 
 You don't have to roll like a millionaire
@@ -42,15 +42,15 @@ We don't stop 'til we get enough
 C'mon, turn it up 'til the speakers pop
 Break it down, show me what you've got
 
-Ooh my my baby don't be shy
+Oh my my baby don't be shy
 I see that spark flashing in your eye
 My heart beats fast 'cause I want it all
-So baby come with me and be my ooh la la
+So baby come with me and be my oh la la
 
 Take my hand, we can go all night
 And spin me round just the way I like
 It feels so good, I don't wanna stop
-So baby come with me and be my ooh la la
+So baby come with me and be my oh la la
 
 You don't have to wear no designer clothes
 Just as long as we're dancing on the floor
@@ -61,33 +61,33 @@ We don't stop 'til we get enough
 C'mon, turn it up 'til the speakers pop
 Break it down, show me what you've got
 
-Ooh my my baby don't be shy
+Oh my my baby don't be shy
 I see that spark flashing in your eye
 My heart beats fast 'cause I want it all
-So baby come with me and be my ooh la la
+So baby come with me and be my oh la la
 
 Take my hand, we can go all night
 And spin me round just the way I like
 It feels so good, I don't wanna stop
-So baby come with me and be my ooh la la
+So baby come with me and be my oh la la
 
-Be my oh la la 
+Be my oh la la
 
-Ooh my my baby don't be shy
+Oh my my baby don't be shy
 I see that spark flashing in your eye
 
-Ooh my my baby don't be shy
+Oh my my baby don't be shy
 I see that spark flashing in your eye
 My heart beats fast 'cause I want it all
-So baby come with me and be my ooh la la
+So baby come with me and be my oh la la
 
 Take my hand, we can go all night
 And spin me round just the way I like
 It feels so good, I don't wanna stop
-So baby come with me and be my ooh la la
+So baby come with me and be my oh la la
 
-Baby come with me and be my ooh la la
-So baby come with me and be my ooh la la
+Baby come with me and be my oh la la
+So baby come with me and be my oh la la
 
 
 

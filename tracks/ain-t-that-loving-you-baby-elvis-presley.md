@@ -70,8 +70,5 @@ I'd give them all to you and never take one back
 I'm putting on my Sunday suit and I'm going downtown
 But I'll be kissing your lips before the sun goes down
 
-
-
-
 Ain't that loving you baby?
 Ain't that loving you so?

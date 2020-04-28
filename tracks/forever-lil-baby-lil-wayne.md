@@ -75,7 +75,7 @@ Me and Lil Baby compadre (Yeah)
 What these niggas talkin' 'bout? Blasé (Huh)
 Diamonds on me, that's pavé (Huh)
 So bright, can't see, that's a blind date (Huh)
-Molly freak tryna get highway (Ooh)
+Molly freak tryna get highway (Oh)
 I got M-O-L-L, why wait?
 Only once the drugs are done
 I feel like, "Where the hell is my grave?"
@@ -91,7 +91,7 @@ Nigga, we active
 So if you 'bout that life, get out that casket
 
 
-If I sell my soul, I'll take it back, I'm slime forever (Ooh, give me that)
+If I sell my soul, I'll take it back, I'm slime forever (Oh, give me that)
 I put bust down on the whole gang, we gon' shine together (Yeah, yeah)
 She got Rollies on her timepiece when she step by, she be flashin'
 Whenever we get alone, I give her half and she get nasty

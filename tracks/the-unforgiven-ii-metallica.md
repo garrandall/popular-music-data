@@ -118,7 +118,7 @@ Behind the door, should I open it for you?
 What I've felt, what I've known
 So sick and tired, I stand alone
 Could you be there? 'Cause I'm the one who waits,
-The one who waits for you....
+The one who waits for you...
 
 Oh, what I've felt, what I've known
 Turn the pages, turn the stone

@@ -46,6 +46,6 @@ That I want to be your lover man
 Oh, say you'll give your love to me
 I've been waiting so patiently
 Because I need your love so bad
-Mmmm, so bad
+Mmm, so bad
 Oh, oh, oh, oh, so bad
-Ooh, so bad, so bad
+Oh, so bad, so bad

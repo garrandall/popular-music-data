@@ -102,111 +102,111 @@ rankings:
   start_date: '2009-11-21'
 ---
 
- 
-Now I know you aint over there starin at my girl 
-Yea I know you aint over there starin at my girl 
-Nigga I know you dont call yourself hollarin at my girl 
-I know you dont call yourself holarin at my girl 
-keepin tha baton,Louie vuttion 
-gucci down to her feet,Yup just like me. 
-Im the one, with them ones. 
-Fuck the price on the tag 
-just throw it in the bag. 
 
- 
-Un-huh un-huh un-huh 
-just throw it in the bag 
-Un-huh un-huh un-huh 
-Just throw it in the bag 
+Now I know you aint over there starin at my girl
+Yea I know you aint over there starin at my girl
+Nigga I know you don't call yourself hollarin at my girl
+I know you don't call yourself holarin at my girl
+keepin tha baton,Louie vuttion
+gucci down to her feet,Yup just like me.
+Im the one, with them ones.
+Fuck the price on the tag
+just throw it in the bag.
 
- 
-Look at price tags 
-where they do that at 
-Heard that in ATL 
-When you in ATL 
-Just ask my baby girl 
-I treat my lady well 
-Ain't nothin soso 
-But I know JD Well 
-We in a benzes, black white gray C.L. 
-Got niggas askin did we miss a mercedes sell? 
-Shit, I wish he was,but Even though he wasnt, 
-We still doing yo nuts and have a dozen, 
-The keep that gucci and that louie on my laby l's 
-Thats the way we feel 
-Must be nice man 
-You wit the right man 
-You aint gotta price scan, or ask how much 
-Now what I look like 
-Son im from brooklin, what it look like 
-You get it cause I got it 
-I got it so you get it 
-Do like Luke say, dont stop get it get it 
-Mami do the speedie 
-Daddy do tha duffle 
-Bag full of chips 
-We aint talkin ruffles 
 
- 
-Un-huh un-huh un-huh 
-just throw it in the bag 
-Un-huh un-huh un-huh 
-Just throw it in the bag 
-Un-huh un-huh un-huh 
-just throw it in the bag 
-Un-huh un-huh un-huh 
-Just throw it in the bag 
+Un-huh un-huh un-huh
+just throw it in the bag
+Un-huh un-huh un-huh
+Just throw it in the bag
 
- 
-See I know what ima tell her 
-The same thing that the bankrobber told the teller 
-Just throw it in the bag 
-Thats the way it suppose to be 
-A real nigga posed to help you out with the groceries 
-Just throw it in the bag 
-Paper or plastic its safer to ask it 
-So dent that nigga I will pay for the casket 
-That remy ma got him spittin plenty bars 
-Broke ass nigga couldnt buy the mini bar 
-So get with loso 
-he aint got to no so 
-Such a gentlement dozen bottles of that rose mo 
-Oh you gotta men well u need a wit-u-one 
-meat me in the parking lot the place ade get u one 
-Meet me at the register 
-Im there on the regular 
-These niggas price checkin 
-you can help them in a second 
-As we proceed to give you what you need 
-Like we bringin down the weed 
-Just throw it in the bag 
 
- 
-Un-huh un-huh un-huh 
-just throw it in the bag 
-Un-huh un-huh un-huh 
-Just throw it in the bag 
-Un-huh un-huh un-huh 
-just throw it in the bag 
-Un-huh un-huh un-huh 
-Just throw it in the bag 
+Look at price tags
+where they do that at
+Heard that in ATL
+When you in ATL
+Just ask my baby girl
+I treat my lady well
+Ain't nothin soso
+But I know JD Well
+We in a benzes, black white gray C.L.
+Got niggas askin did we miss a mercedes sell?
+Shit, I wish he was,but Even though he wasnt,
+We still doing yo nuts and have a dozen,
+The keep that gucci and that louie on my laby l's
+Thats the way we feel
+Must be nice man
+You wit the right man
+You aint gotta price scan, or ask how much
+Now what I look like
+Son im from brooklin, what it look like
+You get it cause I got it
+I got it so you get it
+Do like Luke say, don't stop get it get it
+Mami do the speedie
+Daddy do tha duffle
+Bag full of chips
+We aint talkin ruffles
 
- 
-Everybody do the throw it in the bag 
-Ay do the Throw it in the bag 
-Everybody do the throw it in the bag 
-Ay do the Throw it in the bag 
-Everybody do the throw it in the bag 
-Ay do the Throw it in the bag 
 
- 
-Un-huh un-huh un-huh 
-just throw it in the bag 
-Un-huh un-huh un-huh 
-Just throw it in the bag 
-Un-huh un-huh un-huh 
-just throw it in the bag 
-Un-huh un-huh un-huh 
+Un-huh un-huh un-huh
+just throw it in the bag
+Un-huh un-huh un-huh
+Just throw it in the bag
+Un-huh un-huh un-huh
+just throw it in the bag
+Un-huh un-huh un-huh
+Just throw it in the bag
+
+
+See I know what ima tell her
+The same thing that the bankrobber told the teller
+Just throw it in the bag
+Thats the way it suppose to be
+A real nigga posed to help you out with the groceries
+Just throw it in the bag
+Paper or plastic its safer to ask it
+So dent that nigga I will pay for the casket
+That remy ma got him spittin plenty bars
+Broke ass nigga couldnt buy the mini bar
+So get with loso
+he aint got to no so
+Such a gentlement dozen bottles of that rose mo
+Oh you gotta men well u need a wit-u-one
+meat me in the parking lot the place ade get u one
+Meet me at the register
+Im there on the regular
+These niggas price checkin
+you can help them in a second
+As we proceed to give you what you need
+Like we bringin down the weed
+Just throw it in the bag
+
+
+Un-huh un-huh un-huh
+just throw it in the bag
+Un-huh un-huh un-huh
+Just throw it in the bag
+Un-huh un-huh un-huh
+just throw it in the bag
+Un-huh un-huh un-huh
+Just throw it in the bag
+
+
+Everybody do the throw it in the bag
+Ay do the Throw it in the bag
+Everybody do the throw it in the bag
+Ay do the Throw it in the bag
+Everybody do the throw it in the bag
+Ay do the Throw it in the bag
+
+
+Un-huh un-huh un-huh
+just throw it in the bag
+Un-huh un-huh un-huh
+Just throw it in the bag
+Un-huh un-huh un-huh
+just throw it in the bag
+Un-huh un-huh un-huh
 Just throw it in the bag
 
 

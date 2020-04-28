@@ -181,7 +181,7 @@ Self made self paid
 We lounge around in our white tee
 Ashy black shirt well deep down to ya brown tee
 My hundred throwback who sport a jersey by Ali
-And if he make one, hell naw they dont psych me
+And if he make one, hell naw they don't psych me
 I'm all about my cash ride around wit a nice piece
 Ear piece ice piece they straight like me
 You heard pimping player (yeah they shine so brightly)

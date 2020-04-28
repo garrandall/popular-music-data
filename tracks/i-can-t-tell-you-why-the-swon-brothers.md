@@ -16,7 +16,7 @@ Look at us baby, up all night
 Tearing our love apart
 Aren't we the same two people who live
 Through years in the dark?
-Ahh...
+Ah...
 Every time I try to walk away
 Something makes me turn around and stay
 And I can't tell you why

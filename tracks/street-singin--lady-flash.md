@@ -109,7 +109,7 @@ Do lang, do lang, do lang
 I`ll remember street singing
 For the rest of my life
 
-Oooh, remember, oooh
+Oh, remember, oh
 
 Street singing
 Street singing
@@ -119,4 +119,4 @@ Do lang, do lang, do lang
 Street singing
 Street singing
 Street singing, papa oom mow mow
-Papa oom mow mow.......
+Papa oom mow mow...

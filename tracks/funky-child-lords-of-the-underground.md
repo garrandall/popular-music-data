@@ -62,11 +62,11 @@ Born with the fuckers from the womb of Brenda
 She now likes the Lords but she used to dig the Spinners
 First with the style from the birth canal
 And now I got the flav to make the crowd go wild
-So dig it, wahh! Ooh, watch me dig it
+So dig it, wahh! Oh watch me dig it
 I'm taking no shorts unless it's coming from a midget
 I tax the peace more than chicken packs grease
 I'm nearly knockin' boots, but if not, I'll knock teeth
-Wahh! Ga ga, ooh, cries the baby
+Wahh! Ga ga, oh cries the baby
 Smacked on the ass, now the Doitall's crazy
 No rattles, or playpens, or crowds when I'm rappin'
 And yes, I do reruns, as if this was What's Happening

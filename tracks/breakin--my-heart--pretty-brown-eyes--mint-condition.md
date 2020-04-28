@@ -106,64 +106,60 @@ rankings:
 ---
 
 
-Pretty... 
-Brown... 
+Pretty...
+Brown...
 Eyes...
 
 
-Pretty brown eyes 
-You know I see you 
-It's a disguise the way you treat me 
+Pretty brown eyes
+You know I see you
+It's a disguise the way you treat me
 
-You keep holding on 
-To your thoughts of rejection 
-If you're with me you're secured 
+You keep holding on
+To your thoughts of rejection
+If you're with me you're secured
 
-You keep telling me 
-That your time is always taken 
-But I keep seeing you out alone 
+You keep telling me
+That your time is always taken
+But I keep seeing you out alone
 
-Listen to love 
-Your heart is pounding with desire 
-Waiting to be unleashed 
-
-
-Quit breakin my heart 
-Breakin my heart 
-Breakin my heart 
-Breakin my heart 
+Listen to love
+Your heart is pounding with desire
+Waiting to be unleashed
 
 
-Don't tell your friends 
-That I don't mean nothin to ya 
-Please don't deny the truth 
-
-Tell me right now 
-I know your heart is in the right place 
-You know I won't let you down yeah 
-
-You can't disguise 
-All the pounding of your heart yeah 
-I see your eyes 
-And you can't hide 
-
-Start to make sense 
-And quit playin these love games 
-Tell me what you're gonna do yeah 
+Quit breakin my heart
+Breakin my heart
+Breakin my heart
+Breakin my heart
 
 
+Don't tell your friends
+That I don't mean nothin to ya
+Please don't deny the truth
 
+Tell me right now
+I know your heart is in the right place
+You know I won't let you down yeah
 
-I wanna know one thing 
-Will you be with me 
+You can't disguise
+All the pounding of your heart yeah
+I see your eyes
+And you can't hide
 
-
-Here comes my darling 
-Here comes romance 
-Here comes my love 
-And please honey will you dance 
+Start to make sense
+And quit playin these love games
+Tell me what you're gonna do yeah
 
 
 
 
+I wanna know one thing
+Will you be with me
+
+
+Here comes my darling
+Here comes romance
+Here comes my love
+And please honey will you dance
 

@@ -24,7 +24,7 @@ Just sing along to my stereo
 
 
 Gym Class Heroes baby!
-If I was just another dusty record on the shelve ( Ooh)
+If I was just another dusty record on the shelve ( Oh
 Would you blow me off and  play me like everybody else,
 If I ask you to scratch my back,  Uh)
 Like it read well, check it Trouty,  I can handle that
@@ -80,7 +80,7 @@ If you can hit it, sing along and take me by the hands
 
 
 Keep me stuck inside your head,  like your favorite tune
-You know my heart's a stereo that only plays for you ( Oooh)
+You know my heart's a stereo that only plays for you ( Oh)
 
 
 My heart's a stereo ( uh)
@@ -131,7 +131,7 @@ To my stereo ( Oh yeah)
 So sing along to my stereo!
 
 
-Yeah!!!!!
+Yeah!
 
 
 

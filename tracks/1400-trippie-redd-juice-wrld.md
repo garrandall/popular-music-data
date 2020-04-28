@@ -49,7 +49,7 @@ Look at your bitch, she dance too
 Look at me, I'm the man
 Percocets, don't do Xans, boo
 Run up on me, I blam
-I got my head on my ham, ooh
+I got my head on my ham, oh
 Run up on me, I blam
 I got my hand on my hammer
 You swipe like a credit card scammer

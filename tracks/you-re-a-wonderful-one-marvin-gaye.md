@@ -78,7 +78,7 @@ Sweetheart, you're a wonderful one
 My darling, you're a wonderful one
 Ooo you're a wonderful one
 Ooo you're a wonderful one
-Mmm hmm you're a wonderful one
+Mmm hm you're a wonderful one
 Baby, you're a wonderful one
 
 
@@ -106,5 +106,5 @@ Sweetheart, you're a wonderful one
 My darling, you're a wonderful one
 Ooo you're a wonderful one
 Ooo you're a wonderful one
-Mmm hmm you're a wonderful one
+Mmm hm you're a wonderful one
 Baby, you're a wonderful one

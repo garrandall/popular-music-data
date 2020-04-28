@@ -79,7 +79,7 @@ On the honeysuckle vine
 And a-love is a-bloomin' there
 All-a the time
 
-You know ev'ry Southern Belle
+You know every Southern Belle
 Is a Mississippi Queen
 Down the Mississippi
 Down in New Orleans
@@ -121,7 +121,7 @@ On the honeysuckle vine
 Yeah, and the love is a-bloomin' there
 All the time
 
-You know that ev'ry Southern Belle
+You know that every Southern Belle
 Is a Mississippi Queen
 Down the Mississippi
 Down in New Orleans

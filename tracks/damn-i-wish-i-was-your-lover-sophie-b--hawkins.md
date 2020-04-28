@@ -175,12 +175,12 @@ Standin' on a street corner
 Waitin' for my luck to change
 Damn I wish I was your lover
 Feelin' like a schoolboy
-Too shy and too young, ohh
+Too shy and too young, oh
 Damn I wish I was your lover
 Open up, I wanna gonna come inside
 I wanna fill you up, I wanna make you cry
 Damn I wish I was your lover
 Gettin' on my camel
-Gonna ride it uptown, oooh
+Gonna ride it uptown, oh
 Damn I wish I was your lover
 Hangin' around this jungle

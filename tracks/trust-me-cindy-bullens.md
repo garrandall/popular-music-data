@@ -26,7 +26,7 @@ You believe those crazy guys
 They deceive you with their lies
 They'll make you believe what they want you to
 
-Ooh, darling, look at me
+Oh, darling, look at me
 I wouldn't be here if I did not care
 I wouldn't hurt you if my life depended on it
 Love don't work unless you learn to share it

@@ -85,7 +85,7 @@ Hey soul makossa
 Ynot domo
 
 Moodok!
-Mmmm-hmmmm
+Mmm-hm
 
 Tunga tunga umbo te tunga nesa makosa now
 Makossa makossa makossa makossa makossa

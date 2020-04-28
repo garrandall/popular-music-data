@@ -142,7 +142,7 @@ Break you neck when you see a nigga dip (oh)
 Or could it be the ice you see?
 But you tell me that you're really feeling me
 (I've gotta know right now)
-Could it be the word on the block? (oohh)
+Could it be the word on the block? (oh)
 I know they told you that a nigga got it locked (so tight, so tight)
 Tell me why you just can't stop (just can't stop)
 I'm thinking that it's all about me
@@ -156,7 +156,7 @@ Playing me close but I'm not feeling them (oh no, oh no)
 Could it be the time piece flooded with chips?
 Is it because I flex baguettes around my wrist? (huh)
 Or large amounts up in my bank account (my bank account)
-You tell me you love me baby but what's that all about (ooohhh)
+You tell me you love me baby but what's that all about (oh)
 
 
 Could it be my chromed out rims?
@@ -171,9 +171,9 @@ I'm thinking that it's all about me (alright, alright)
 What could it be?
 Could it be my chromed out rims?
 (Could it be my chromed out rims?)
-Break you neck when you see a nigga dip (ooohhh yeah)
+Break you neck when you see a nigga dip (oh yeah)
 Or could it be the ice you see?
-But you tell me that you're really feeling me (ooohhh, baby)
+But you tell me that you're really feeling me (oh, baby)
 Could it be the word on the block? (tell me)
 I know they told you that a nigga got it locked (so tight, so tight)
 Tell me why you just can't stop (no, no)

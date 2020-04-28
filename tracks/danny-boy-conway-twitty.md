@@ -107,7 +107,7 @@ Hey, I'll be there in sunshine or in shadow
 Oh Danny boy, oh Danny boy I love you so.
 
 Oh Danny boy, oh Danny boy I love you so.
-Oh Danny boy, oh Danny boy I love you so....
+Oh Danny boy, oh Danny boy I love you so...
 
 
 

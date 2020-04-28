@@ -116,7 +116,7 @@ You're so undercover
 By the way that you was watchin' me
 
 
-Ooh! uh
+Oh! uh
 The way you look at me
 I'm feelin' you, uh
 I just can't help it
@@ -124,7 +124,7 @@ Tryin' to keep it cool, uh
 I can feel it in the beat, uh
 When you do those things to me, uh
 Don't let nothin' stop you
-M-ooo-ve, ring the alarm
+M-oo-ve, ring the alarm
 The club is jumpin' now
 So get up!
 
@@ -149,7 +149,7 @@ You're so undercover
 By the way that you was watchin' me
 
 
-Ooh! uh
+Oh! uh
 The way you look at me
 I'm feelin' you, uh
 I just can't help it
@@ -157,12 +157,12 @@ Tryin' to keep it cool, uh
 I can feel it in the beat, uh
 When you do those things to me, uh
 Don't let nothin' stop you
-M-ooo-ve, ring the alarm
+M-oo-ve, ring the alarm
 The club is jumpin' now
 So get up!
 
 
-Ooh, I love the way you vibe with me
+Oh, I love the way you vibe with me
 Dance with me forever
 We can have a good time, follow me
 To the beat together
@@ -196,7 +196,7 @@ I'm watchin' you do ya step, do ya step
 Yep it's going down
 
 
-Ooh! uh
+Oh! uh
 The way you look at me
 I'm feelin' you, uh
 I just can't help it
@@ -204,11 +204,11 @@ Tryin' to keep it cool, uh
 I can feel it in the beat, uh
 When you do those things to me, uh
 Don't let nothin' stop you
-M-ooo-ve, ring the alarm
+M-oo-ve, ring the alarm
 The club is jumpin' now
 So get up!
 
-Ooh! uh
+Oh! uh
 The way you look at me
 I'm feelin' you, uh
 I just can't help it
@@ -216,7 +216,7 @@ Tryin' to keep it cool, uh
 I can feel it in the beat, uh
 When you do those things to me, uh
 Don't let nothin' stop you
-M-ooo-ve, somebody ring the alarm
+M-oo-ve, somebody ring the alarm
 The club is jumpin' now
 So get up!
 

@@ -17,14 +17,14 @@ rankings:
   start_date: '1970-03-14'
 ---
 Well its been building up inside of me
-For oh I dont know how long
-I dont know why
+For oh I don't know how long
+I don't know why
 But I keep thinking
 Somethings bound to go wrong
 
 But she looks in my eyes
 And makes me realize
-And she says dont worry baby
+And she says don't worry baby
 Dont worry baby
 Dont worry baby
 Everything will turn out alright
@@ -40,7 +40,7 @@ I pushed the other guys too far
 
 She makes me come alive
 And makes me wanna drive
-When she says dont worry baby
+When she says don't worry baby
 Dont worry baby
 Dont worry baby
 Everything will turn out alright
@@ -56,7 +56,7 @@ Baby nothing could go wrong with you
 
 Oh what she does to me
 When she makes love to me
-And she says dont worry baby
+And she says don't worry baby
 Dont worry baby
 Dont worry baby
 Everything will turn out alright

@@ -48,7 +48,7 @@ It's late now
 I promise
 Twelve o'clock, twelve o'clock
 Was what we bargained for
-Now what do i tell
+Now what do I tell
 Your mother and dad
 When were at your front door
 Oh cinderella cindrella, pretty pretty cinderella

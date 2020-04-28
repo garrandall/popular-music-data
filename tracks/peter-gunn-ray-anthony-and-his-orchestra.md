@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: peter-gunn-ray-anthony-and-his-orchestra
+lyrics_url: https://genius.com/Ray-anthony-peter-gunn-twist-tequila-with-a-twist-medley-instrumental-lyrics
 name: Peter Gunn
 rankings:
 - end_date: '1959-01-11'
@@ -75,4 +76,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-27'
 ---
-
+Instrumental

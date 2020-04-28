@@ -34,14 +34,14 @@ Honey honey, come back home to me (Baby come home to me)
 
 Dit dot...
 Baby I want your love
-Woo-ooh
+Woo-oh
 Baby I need your love
 Honey honey come back home to me (Come back home to me)
 Dit dot...
 Got to have your love
-Woo-ooh
+Woo-oh
 Can't live without your love
-Woo-ooh
+Woo-oh
 Honey honey come back home to me (Come back home to me)
 
 Oh I made mistakes, yes that's the truth
@@ -53,18 +53,18 @@ Not like before so come back home to me (Baby come home to me)
 
 Dit dot...
 Baby I want your love
-Woo-ooh
+Woo-oh
 Baby I need your love
 Honey honey come back home to me (Come back home to me)
 Dit dot...
 Got to have your love
-Woo-ooh
+Woo-oh
 Can't live without your love
-Woo-ooh
+Woo-oh
 Honey honey come back home to me (Come back home to me)
 
 Dit dot ditty dit dot a ditty ditty
-Ooh, ah (Baby come home to me)
+Oh, ah (Baby come home to me)
 I said
 Come back come back to me
 Come back come back to me

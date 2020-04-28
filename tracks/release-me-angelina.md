@@ -118,9 +118,6 @@ You got a hold on me
 Can you release me?
 You got a hold on me
 
-
-
-
 Aqui estoy
 Para decirte que por favor
 Dejame en paz, no quiero amor

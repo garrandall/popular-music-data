@@ -183,7 +183,7 @@ And though my heart can't take no more
 I keep on running back to you (I keep on running back to you)
 
 
-Ooh, I trusted you, I trusted you
+Oh, I trusted you, I trusted you
 So sad, so sad what love will make you do
 All the things that we accept
 Be the things that we regret

@@ -60,7 +60,7 @@ Won't you come spoil my night? (spoil my night)
 Feelin's come into play and I'm thinkin' this happens every time
 
 Yeah, when I walk up in a party, they all act like they know me
-Then I spotted lil' mama through the wall of jabronis (ooh)
+Then I spotted lil' mama through the wall of jabronis (oh
 Point her out so I can bag her if they just bring her to me (bring her to me)
 I ain't even see the face, but she got beautiful boobies (wow)
 And she see those diamonds in my teeth (in my teeth)

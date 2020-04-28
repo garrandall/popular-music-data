@@ -130,9 +130,6 @@ I'd even die
 For you
 I'm gonna stay
 
-
-
-
 You know, girl
 Being with you
 Is like the meaning of my life

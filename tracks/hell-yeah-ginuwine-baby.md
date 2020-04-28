@@ -136,7 +136,7 @@ Uh-huh, uh-huh
 We got so many rooms in the Swiss like we were Swiss sailors
 Mami, givin' me head like she's a brain doner
 A pool party in my crib up in Daytona
-Hosted by Sonia and Monya, ooh
+Hosted by Sonia and Monya, oh
 
 (Baby)
 Mami, walkin' up the beach, so fly, so neat

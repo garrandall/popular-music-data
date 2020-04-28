@@ -148,7 +148,3 @@ Walked outta heaven
 
 If u ever loved somebody, and if you ever had somebody, but you know that you hurt that somebody, let me here you say yea
 
-
-
-
-

@@ -156,16 +156,16 @@ And we can pump this jam however you want (hey, hey baby)
 Pump it from the side, pump it upside down
 Or we can pump it from the back and the front (hey, hey baby)
 
-Oooh baby, baby lalalalala
-Oooh baby, baby lalalalala
-Oooh baby, baby lalalalala
-Oooh baby, baby lalalalala
+Oh baby, baby lalalalala
+Oh baby, baby lalalalala
+Oh baby, baby lalalalala
+Oh baby, baby lalalalala
 
-Ooh drop it to the floor, make me wanna say hey baby
+Ohdrop it to the floor, make me wanna say hey baby
 (Get on whatever you want)
 Yeah, you can shake some more, make me wanna say hey baby
 (Get on whatever you like)
-Ooh you got it, cause you make me wanna say hey baby
+Ohyou got it, cause you make me wanna say hey baby
 (You're the one I want)
 Yeah don't stop it, cause you make me wanna say
 (I want you tonight)
@@ -188,16 +188,16 @@ And we can pump this jam however you want (hey, hey baby)
 Pump it from the side, pump it upside down
 Or we can pump it from the back and the front (hey, hey baby)
 
-Oooh baby, baby lalalalala
-Oooh baby, baby lalalalala
-Oooh baby, baby lalalalala
-Oooh baby, baby lalalalala
+Oh baby, baby lalalalala
+Oh baby, baby lalalalala
+Oh baby, baby lalalalala
+Oh baby, baby lalalalala
 
-Ooh drop it to the floor, make me wanna say hey baby
+Ohdrop it to the floor, make me wanna say hey baby
 (Get on whatever you want)
 Yeah, you can shake some more, make me wanna say hey baby
 (Get on whatever you like)
-Ooh you got it, cause you make me wanna say hey baby
+Ohyou got it, cause you make me wanna say hey baby
 (You're the one I want)
 Yeah don't stop it, cause you make me wanna say
 (I want you tonight)
@@ -210,26 +210,26 @@ But enough about the the nonsense
 Baby girl take a shot, clear your conscience
 Not a goon or a goblin, I'm a monster
 Cause I hit all baddest woman in the world, gangsta
-Oooh baby, baby lalalalala
-Oooh baby, baby lalalalala
-Oooh baby, baby lalalalala
-Oooh baby, baby lalalalala
+Oh baby, baby lalalalala
+Oh baby, baby lalalalala
+Oh baby, baby lalalalala
+Oh baby, baby lalalalala
 
-Ooh drop it to the floor, make me wanna say hey baby
+Ohdrop it to the floor, make me wanna say hey baby
 Yeah, you can shake some more, make me wanna say hey baby
-Ooh you got it, cause you make me wanna say hey baby
+Ohyou got it, cause you make me wanna say hey baby
 Yeah don't stop it, cause you make me wanna say
 
-Oooh baby, baby lalalalala
-Oooh baby, baby lalalalala
-Oooh baby, baby lalalalala
-Oooh baby, baby lalalalala
+Oh baby, baby lalalalala
+Oh baby, baby lalalalala
+Oh baby, baby lalalalala
+Oh baby, baby lalalalala
 
-Ooh drop it to the floor, make me wanna say hey baby
+Ohdrop it to the floor, make me wanna say hey baby
 (Get on whatever you want)
 Yeah, you can shake some more, make me wanna say hey baby
 (Get on whatever you like)
-Ooh you got it, cause you make me wanna say hey baby
+Ohyou got it, cause you make me wanna say hey baby
 (You're the one I want)
 Yeah don't stop it
 (I want you tonight)

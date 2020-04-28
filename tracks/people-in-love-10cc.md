@@ -40,28 +40,28 @@ rankings:
 People in love do funny things
 Walk under buses and burn their wings
 People like us do nothing right
-Talk to the ceiling into the night 
+Talk to the ceiling into the night
 
 Look at the smile in her eyes
 I knew I was right in my bones
 I feel the turnin' of wheels as it grows
 Look at my face in her eyes
 Am I right, am I wrong
-She's given me butterflies all along 
+She's given me butterflies all along
 
-Ooh sitting alone in the dark
-Ooh feeling you close to me
+Oh sitting alone in the dark
+Oh feeling you close to me
 We're in a dream
 But the hands on the clock seem to know
-Tell me it's time to go 
+Tell me it's time to go
 
 People in love play silly games
 Running in circles and everywhere
 People like us can make believe
-Love is forever and I'll never be 
+Love is forever and I'll never be
 
-Ooh sitting alone in the dark
-Ooh feeling you close to me
+Oh sitting alone in the dark
+Oh feeling you close to me
 We're in a dream
 But the hands on the clock seem to know
 Tell us it's time to go

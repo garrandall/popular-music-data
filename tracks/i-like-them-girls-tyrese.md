@@ -164,7 +164,7 @@ And the big brown eyes
 That's the kind of girl I need
 I like them girls from around the way
 Shortie got a record and it makes me say
-Ohh ya ohh ya
+Ohh ya oh ya
 That's the kind of girl I need
 
 

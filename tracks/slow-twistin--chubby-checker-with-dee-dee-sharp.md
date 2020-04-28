@@ -1,7 +1,8 @@
 ---
 artists:
-- Chubby Checker with Dee Dee Sharp
-features: []
+- Chubby Checker
+features:
+- Dee Dee Sharp
 genres: []
 key: slow-twistin--chubby-checker-with-dee-dee-sharp
 name: Slow Twistin'

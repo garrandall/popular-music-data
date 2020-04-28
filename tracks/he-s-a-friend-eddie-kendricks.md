@@ -84,7 +84,7 @@ Oh
 He's a friend of mine (Yeah)
 He's a friend of mine (I want everybody to know)
 He's a friend of mine (He is a friend of mine)
-He's a friend of mine (Ooh, He is a friend of mine)
+He's a friend of mine (Oh, He is a friend of mine)
 
 I don't deny, our close association
 He helps me out, of any situation
@@ -96,7 +96,7 @@ He's a friend of mine (I want everybody to know)
 He's a friend of mine (He is a friend of mine)
 He's a friend of mine (A friend)
 Log on to kill this message
-He's a friend of mine (Ooh)
+He's a friend of mine (Oh)
 He's a friend of mine (Everybody's friend)
 He's a friend of mine (Everyday, in every way)
 He's a friend of mine (Every way, a friend of mine)

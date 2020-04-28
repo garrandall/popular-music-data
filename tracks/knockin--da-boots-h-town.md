@@ -130,7 +130,7 @@ And turn the lights down, and let me get on it, yeah
 A-give me some good love
 (Somebody rockin' knockin' da boots)
 A-give me some good love
-(Somebody rockin' knockin' da boots) Somebody rockin', baby, ooh
+(Somebody rockin' knockin' da boots) Somebody rockin', baby, oh
 
 A-give me some good love
 (Somebody rockin' knockin' da boots) That's all I need, I need

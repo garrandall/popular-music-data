@@ -63,7 +63,7 @@ Gosh your lips look delicious
 My brother will be there at the door
 Waves upon a tropical shore
 My maiden aunt's mind is vicious
-Ooh your lips are delicious
+Oh your lips are delicious
 But maybe just a cigarette more
 Never such a blizzard before
 

@@ -151,13 +151,13 @@ You and me
 
 Heaven and earth
 I don't understand
-Ooh, you're getting reckless, girl
+Oh, you're getting reckless, girl
 All alone
 One cold, cold word
 Could lead to another
 Heaven and earth
 All alone, all alone
-Heaven and earth, oooh
+Heaven and earth, oh
 
 
 

@@ -58,7 +58,7 @@ And I thought you loved me too
 Seven years now I find
 It was just a waste of time
 
-Woo ooh ooh ooh ooh
+Woo oh oh oh oh
 Seven years, seven years
 I cried a lotta tears
 Having hard time, hard time

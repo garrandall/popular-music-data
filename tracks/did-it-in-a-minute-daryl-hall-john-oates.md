@@ -113,7 +113,7 @@ You did it, you did it, you did it
 You did it in a minute
 (You did it)
 (I know, I know, I know, I know)
-Oh-ooooh-oh
+Oh-oh-oh
 You did it, you did it, you did it
 You did it in a minute
 You did it, you did it, you did it
@@ -129,7 +129,7 @@ But you did it, you did it, you did it
 You did it, you did it in a minute
 (You did it)
 (I know, I know, I know, I know)
-Oh-ooooh-oh
+Oh-oh-oh
 You did it, you did it, you did it
 You did it, you did it in a minute
 (You did it)

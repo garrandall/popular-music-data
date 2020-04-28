@@ -58,7 +58,7 @@ But I, oh I, oh I, I couldn't keep it to myself
 
 
 Look, your love is harder than the hardest rock
-Ooh-wee, it's shocking like electric wire
+Ohwee, it's shocking like electric wire
 Yeah, yeah
 
 

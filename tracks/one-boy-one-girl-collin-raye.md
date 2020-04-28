@@ -66,7 +66,3 @@ Like the night they met time just stood still
 He was holding her hand when the doctor looked up and grinned
 "congratulations, twins"
 
-
-
-
-

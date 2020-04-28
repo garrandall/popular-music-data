@@ -115,9 +115,6 @@ She's all I want and I've waited for so long
 Stacy, can't you see? You're just not the girl for me
 I know it might be wrong, but I'm in love with Stacy's mom
 
-
-
-
 Stacy's mom has got it goin' on (She's got it goin' on)
 She's all I want and I've waited for so long (Waited and waited)
 Stacy, can't you see? You're just not the girl for me

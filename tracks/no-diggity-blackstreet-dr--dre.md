@@ -238,7 +238,7 @@ No diggity, I got to bag it up (Girl, you got it going on)
 I like the way you work it
 No diggity, I got to bag it up (Play on, play on, play on)
 (Hey yo, hey yo, hey yo, hey yo) I like the way you work it
-No diggity, I got to bag it up (Hey, ooh)
+No diggity, I got to bag it up (Hey, oh
 (Hey yo, hey yo, hey yo, hey yo) I like the way you work it
 No diggity, I got to bag it up (Hell, yeah, babe)
 

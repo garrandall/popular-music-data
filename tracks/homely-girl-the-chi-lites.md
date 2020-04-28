@@ -44,13 +44,13 @@ rankings:
 It must have broke your poor little heart
 When the boys used to say
 You looked better in the dark
-Ooh but now they'd give all they learnt in school
+Oh but now they'd give all they learnt in school
 To be somewhere in the dark with you
 (Oh yes they would)
 
 You know the teacher would ask the questions
 And you, would always raise your hand
-Ooh but somehow you never got your turn
+Oh but somehow you never got your turn
 And my eyes would fill with water, inside I'd burn
 (Oh yes I did)
 
@@ -61,7 +61,7 @@ You're a beautiful woman oh yeah
 
 There was a boy who used to sit beside you
 Who'd like to hold that place his whole life through
-Ooh you were beautiful to me
+Oh you were beautiful to me
 You had a heart no one could ever see, oh yes you did
 
 I was the only one who offered
@@ -77,7 +77,7 @@ You're a beautiful woman oh yes lonely girl
 Homely girl you used to be lonely
 You're a beautiful woman oh yeah
 
-Ooh first they want a chance to hold you
+Oh first they want a chance to hold you
 Then they want a chance to try to control you
 Oh no, don't you know I got to say it
 

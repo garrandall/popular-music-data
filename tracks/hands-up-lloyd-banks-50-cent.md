@@ -65,9 +65,6 @@ Rule number one: keep ya gun or get ya ass hit
 And that's it, lights off and ya body stiff
 By the same niggas you used to party with
 
-
-
-
 Yea
 I cruise through the strip, 22's on the whip, new Ruger on the hip
 Thousand dollar outfit, never stooge never slip

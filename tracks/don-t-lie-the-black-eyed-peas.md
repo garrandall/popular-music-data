@@ -146,14 +146,14 @@ Because you know, you know, you know, you know
 You know you gotta try
 
 
-Ooh-ooh ooh ooh, ooh-ooh ooh
-Ooh-ooh ooh ooh, ooh-ooh ooh
-Ooh-ooh ooh ooh, ooh-ooh ooh
-Ooh-ooh ooh ooh, ooh-ooh ooh
-Ooh-ooh ooh ooh, ooh-ooh ooh (Ba da, ba da, ba ba ba ba)
-Ooh-ooh ooh ooh, ooh-ooh ooh (Ba da da, ba da da, ba da da, ba da da)
-Ooh-ooh ooh ooh, ooh-ooh ooh (Ba da, ba da, ba ba ba ba)
-Ooh-ooh ooh ooh, ooh-ooh ooh (Ba da da, ba da da, ba da da, ba da da)
+Oh-oh oh oh, oh-oh oh
+Oh-oh oh oh, oh-oh oh
+Oh-oh oh oh, oh-oh oh
+Oh-oh oh oh, oh-oh oh
+Oh-oh oh oh, oh-oh oh (Ba da, ba da, ba ba ba ba)
+Oh-oh oh oh, oh-oh oh (Ba da da, ba da da, ba da da, ba da da)
+Oh-oh oh oh, oh-oh oh (Ba da, ba da, ba ba ba ba)
+Oh-oh oh oh, oh-oh oh (Ba da da, ba da da, ba da da, ba da da)
 
 
 Yo, I'm lying to my girl

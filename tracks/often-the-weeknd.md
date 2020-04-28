@@ -89,13 +89,13 @@ rankings:
   start_date: '2015-03-14'
 ---
 Seneler sürer her günüm
-Ooh yeah, ooh yeah, ooh yeah, ooh yeah, ooh yeah
+Oh yeah, ohyeah, ooheah, ohohah, oh oh
 Yalnız gitmekten yorgunum
-Ooh yeah, ooh yeah, ooh yeah, ooh yeah
+Oh yeah, ohyeah, ooheah, ohohah
 Seneler sürer her günüm
-Ooh yeah, ooh yeah, ooh yeah, ooh yeah, ooh yeah
+Oh yeah, ohyeah, ooheah, ohohah, oh oh
 Yalnız gitmekten yorgunum
-Ooh yeah, ooh yeah, ooh yeah, ooh yeah, ooh yeah
+Oh yeah, ohyeah, ooheah, ohohah, oh oh
 
 
 I usually love sleeping all alone
@@ -140,7 +140,7 @@ Make that pussy poppin', do it how I want it
 Often
 
 
-Ooh, the sun's risin' up
+Oh, the sun's risin' up
 The night's almost up
 The night's almost done
 But I see your eyes
@@ -161,10 +161,10 @@ Often
 
 
 Seneler sürer her günüm
-Ooh yeah, ooh yeah, ooh yeah, ooh yeah, ooh yeah
+Oh yeah, ohyeah, ooheah, ohohah, oh oh
 Yalnız gitmekten yorgunum
-Ooh yeah, ooh yeah, ooh yeah, ooh yeah
+Oh yeah, ohyeah, ooheah, ohohah
 Seneler sürer her günüm
-Ooh yeah, ooh yeah, ooh yeah, ooh yeah, ooh yeah
+Oh yeah, ohyeah, ooheah, ohohah, oh oh
 Yalnız gitmekten yorgunum
-Ooh yeah, ooh yeah, ooh yeah, ooh yeah
+Oh yeah, ohyeah, ooheah, ohohah

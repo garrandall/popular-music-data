@@ -135,7 +135,7 @@ Stand behind me
 Let me grind with you
 If I lick my lips
 I'm prob'ly feeling you
-Imma make you go ooh
+Imma make you go oh
 
 Oh, move your body girl
 Makes the fellas go

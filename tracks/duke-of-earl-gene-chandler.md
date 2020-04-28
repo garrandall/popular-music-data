@@ -100,11 +100,11 @@ Cause I'm The Duke of Earl
 So, yeah, yeah, yeah, yeah
 
 Woo-hoo-hoo-hoo-hoo
-Doo-ooo-uke
+Doo-oo-uke
 Oh-oh-whoa-oh
 
 Hoo-hoo-hoo-hoo-hoo
-Du-ooo-hoo-uke
+Du-oo-hoo-uke
 Oh-oh-oh
 
 Yeah, I
@@ -114,7 +114,7 @@ Nothing can stop me, now
 Cause I'm the Duke of Earl
 So, yeah, yeah, yeah, yeah
 
-Du-hoo-hoo-ooo-uke
+Du-hoo-hoo-oo-uke
 Du-hoo-hoo-uke
 So, whoa, whoa, ho-whoa
 

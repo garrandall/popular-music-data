@@ -34,16 +34,16 @@ Why d'you cry
 For the guy
 Say goodbye
 Runaway
-Why d'you cry 
+Why d'you cry
 For the guy
 Say goodbye
 I said ok, 'cos...
 
 
-Ooh, boy d'you miss me like a hole in the head
+Oh, boy d'you miss me like a hole in the head
 Because I do boy,
 And it's cool boy
-And ooh, bet you never thought I'd get out of bed
+And oh, bet you never thought I'd get out of bed
 Because of you boy,
 Such a fool boy
 
@@ -59,10 +59,10 @@ Takes more than begging to reverse my brain
 'cos...
 
 
-Ooh, won't you miss me like a hole in the head
+Oh, won't you miss me like a hole in the head
 Because I do boy,
 And it's cool boy
-And ooh, bet you never thought I'd get out of bed
+And oh, bet you never thought I'd get out of bed
 Because of you boy,
 Such a fool boy
 
@@ -83,10 +83,10 @@ No more, no more
 
 Breaking off the bun
 A brand new day has just begun
-Just because you made me go "ooh"
+Just because you made me go "oh"
 Doesn't mean I'll put up with you
 Don't you dare turn back
-Can't u see I wont take that?
+Can't u see I won't take that?
 I ain't crying not over you
 Better for your head up like I told you
 
@@ -95,24 +95,24 @@ Why d'you cry
 For the guy
 Say goodbye
 Runaway
-Why d'you cry 
+Why d'you cry
 For the guy
 Say goodbye
 I said ok, 'cos...
 
 
-Ooh, won't you miss me like a hole in the head
+Oh, won't you miss me like a hole in the head
 Because I do boy,
 And it's cool boy
-And ooh, bet you never thought I'd get out of bed
+And oh, bet you never thought I'd get out of bed
 Because of you boy,
 Such a fool boy (such a fool)
 
 
-Ooh, won't you miss me like a hole in the head
+Oh, won't you miss me like a hole in the head
 Because I do boy (I do)
 And it's cool boy (yeah it's cool)
-And ooh, bet you never thought I'd get out of bed
+And oh, bet you never thought I'd get out of bed
 Because of you boy, (I do boy)
 Such a fool boy (such a fool)
 

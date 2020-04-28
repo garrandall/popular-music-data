@@ -132,7 +132,7 @@ Bring your girls to the crib, maybe we can solve it, ayy
 Hold up, tell ‘em simmer down (Uh)
 Takin' hella long, give it to me now (Uh)
 Make that thing thing like a or a
-Ooh, baby like it like it with the shimmy shimmy ya, huh?
+Oh, baby like it like it with the shimmy shimmy ya, huh?
 A$AP (Yeah,) get like me (Uh)
 Never met a mother mother fresh like me (Yeah)
 All these mothers wanna dress like me (Uh)
@@ -158,7 +158,7 @@ If findin' somebody real is your p-p-problem
 Bring your girls to the crib, maybe we can solve it, ayy
 
 
-Ooh, I know you love it when this beat is on
+Oh, I know you love it when this beat is on
 Make you think about all of the you been leadin' on
 Make me think about all of the rappers I've been feedin' on
 Got a feelin' that's the same dudes that we speakin' on, oh word?

@@ -140,7 +140,7 @@ I wanna be the one you run to
 When the night comes
 To be the one you'd come to
 I wanna be the one you run to
-Ooh
+Oh
 I just wanna be the one you run to
 Wanna be the one you come to
 I just wanna be there for someone

@@ -73,6 +73,3 @@ But you know that it ain't real cherry, know that it ain't real cherry
 She's just like candy, she's so sweet
 But you know that it ain't real, know that it ain't real
 
-
-
-

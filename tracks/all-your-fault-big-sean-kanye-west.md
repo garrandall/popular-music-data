@@ -85,11 +85,6 @@ Throw her to me I'ma throw that back
 Top spot I'm finna go at that
 (Straight up)
 
-
-
-
-
-
 Ho you gotta move quick
 (World in my hands, I ain't gotta loose grip
 I don't like loose pussy or loose lips)

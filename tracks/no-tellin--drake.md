@@ -76,9 +76,6 @@ Need to get out of the house more, they washed up
 And even if the team was religious with it
 I can't really see another squad tryna' cross us, naw (WOOO)
 
-
-
-
 OVO, Unruly
 One shot to make it in a life
 From the six to the fucking 876

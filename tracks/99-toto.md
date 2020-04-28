@@ -96,12 +96,12 @@ I feel quite the same
 I don't want to hurt you anymore
 I never knew it would work out
 No one to blame
-You know i love you 99
+You know I love you 99
 
 99
 You keep holding my hand
 Oh 99
-They don't know who i am
+They don't know who I am
 Oh 99
 I love you
 
@@ -110,7 +110,7 @@ I feel quite the same
 I don't want to hurt you anymore
 I never knew it would work out
 No one to blame
-You know i love you 99
+You know I love you 99
 
 99
 I can't take it no more
@@ -124,7 +124,7 @@ I feel quite the same
 I don't want to hurt you anymore
 I never knew it would work out
 No one to blame
-You know i love you 99
+You know I love you 99
 
 
 

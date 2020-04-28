@@ -84,7 +84,7 @@ So go and lock that door
 Baby, don't worry 'cause I'll be gentle
 
 
-Come on, baby, turn the lights off, let's get naked (Ooh, come on)
+Come on, baby, turn the lights off, let's get naked (Oh, come on)
 Come on, baby girl, you know I just can't take it (I can't take it no more)
 Let your panties hit the floor
 Let your body steal the show right now
@@ -98,7 +98,7 @@ Don't be ashamed of what you got between those thighs, oh
 You know I'm gon' try not to be so excited (But I can't help it)
 It feels so good to be invited
 So, baby, get ready 'cause here I go (Here I go)
-Ooh, ooh
+Oh, oh
 
 
 So take off your shoes, I wanna see your toes
@@ -108,7 +108,7 @@ Now you're wearing what I like, baby, let's go
 Come on
 
 
-Come on, baby, turn the lights off, let's get naked (Ooh, come on)
+Come on, baby, turn the lights off, let's get naked (Oh, come on)
 Come on, baby girl, you know I just can't take it (I can't take it no more)
 Let your panties hit the floor
 Let your body steal the show right now (Right now)
@@ -118,7 +118,7 @@ Us naked, yeah
 
 
 There's something 'bout that sexy skin your in
-Your clothes dont do you justice, so come out of them
+Your clothes don't do you justice, so come out of them
 So baby take it off, so I can break you off
 And give you love, love, love
 Now its time to enjoy yourself

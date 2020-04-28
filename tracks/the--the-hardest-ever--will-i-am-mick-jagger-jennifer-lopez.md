@@ -52,7 +52,7 @@ You can go hard or you can go home
 You can go hard or you can go home
 
 
-Ooh, ooh
+Oh, oh
 Oh, oh my goodness, this beat is so hard...
 
 
@@ -84,9 +84,9 @@ You can go hard or you can go home
 You can go hard or you can go home
 
 
-Ooh, ooh
+Oh, oh
 Oh my goodness, this beat is so hard...
-Ooh, ooh
+Oh, oh
 Oh my goodness, this beat is so hard...
 
 
@@ -125,17 +125,17 @@ Well I, I know it is a lot to take
 I don't wanna lead you on
 You can go hard or you can go home
 You can go hard
-Ooh, ooh
+Oh, oh
 Wait a minute, I'ma make it a little harder
 I'ma make it a little harder
 Give it to you a little harder
 This is hard
 
 
-Woo, ooh
-Woo, ooh
-Woo, ooh
-Woo, ooh
+Woo, oh
+Woo, oh
+Woo, oh
+Woo, oh
 
 
 Hard like a rock 'n roll

@@ -128,11 +128,6 @@ Might as well jump (Jump!)
 Go ahead, Jump!
 Jump!
 
-
-
-
-
-
 Might as well jump (Jump!)
 Go ahead, jump
 Get it and jump (Jump!)

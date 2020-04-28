@@ -50,7 +50,7 @@ I got to have you in my arms
 And I want all of your
 Sweet charms, yeah, yeah
 
-(I'm glad I met you) mm hmm
+(I'm glad I met you) mm hm
 (Overjoyed to get you)
 Would you believe
 (Hey, girl, you're so fine)
@@ -73,7 +73,7 @@ I got to have you in my arms
 I got to have all of your
 Sweet charms, yeah, yeah
 
-(Hey, girl, I love you) mm hmm
+(Hey, girl, I love you) mm hm
 (Can't live without you)
 Would you believe
 (I love every) oh, yeah

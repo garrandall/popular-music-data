@@ -52,7 +52,6 @@ I could have sworn you'd passed my way
 But it was too good to be true
 And there was nothing I could do
 
-CHORUS:
 My heart says:
 Run, run, look and see
 Are my eyes just foolin' me?
@@ -80,8 +79,6 @@ My heart says:
 Run, run, look and see
 Run, run, look and see
 
-(instrumental)
-2:00
 I hear your voice, I see your face
 But then you're gone without a trace
 
@@ -94,6 +91,3 @@ Run run look and see
 Run run look and see
 
 Run run look and see
-
-(repeat last 2 lines of verse 2, then chorus)
-(repeat title and fade)

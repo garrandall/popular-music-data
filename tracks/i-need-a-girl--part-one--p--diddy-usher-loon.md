@@ -132,7 +132,7 @@ Without a girl on my side, shit'll ruin me
 Forget the world, girl, it's you and me
 
 
-Now let's ride.....
+Now let's ride...
 
 
 I need a girl to ride, ride, ride

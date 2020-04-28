@@ -111,7 +111,7 @@ So just before I run to the block, papi
 I might listen to your song
 
 
-Ooh, before you walk out that door, listen
+Oh, before you walk out that door, listen
 
 
 They say two wrongs don't make it right
@@ -151,7 +151,7 @@ And just before I run to the block, baby
 I might listen to your song
 
 
-Ooh, before you walk out that door, listen
+Oh, before you walk out that door, listen
 
 
 They say two wrongs don't make it right

@@ -30,9 +30,8 @@ That may sound just as sweet
 Could there be another pair of arms
 To make Me feel so complete
 
-I'd know You anywhere (3x)
+I'd know You anywhere
 
-Chorus:
 Said I would know You
 Anywhere You go
 Said I would know You

@@ -107,7 +107,7 @@ Such a night I never had before - Yeah yeah
 Thought I'd died and gone to heaven
 'cause what I got there ain't no, cure for
 
-Ooh, it's so easy
+Oh it's so easy
 What you do to me all night angel
 I never loved - Swear to God
 Never needed no one - 'til you came along

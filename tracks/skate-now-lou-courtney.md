@@ -58,7 +58,7 @@ I said, skate now, children
 Come on, skate now, hey, children
 Do the skate now, hey, children
 
-I said oooh...
+I said oh...
 There ain't nothing, nothing to it
 You can do it
 

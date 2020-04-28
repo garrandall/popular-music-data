@@ -106,16 +106,16 @@ I'll just stay here locked behind the door
 Just no time to stop and get away
 Cause I work so hard to make it everyday
 
-Whoo oooh
-Whoo oooh
+Whoo oh
+Whoo oh
 
 There's no money falling from the sky
 Cause a man took my heart and robbed me blind
 Someone stole my brand new Chevrolet
 And the rent is due, I got no place to stay
 
-Whoo oooh
-Whoo oooh
+Whoo oh
+Whoo oh
 
 
 And it's hard to say
@@ -132,8 +132,8 @@ And to get ahead your heart starts pumping schemes
 
 
 
-Whoo oooh
-Whoo oooh
+Whoo oh
+Whoo oh
 I'm on fire
 I'm on fire
 

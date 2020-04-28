@@ -32,8 +32,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-10-05'
 ---
-Woo-ooh, woo-ooh, woo-ooh
-Woo-ooh, woo-ooh, woo-ooh
+Woo-oh woo-oohwoo-ohoh
+Woo-oh woo-oohwoo-ohoh
 
 
 Once upon a time, it was paradise

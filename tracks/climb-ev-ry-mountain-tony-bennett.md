@@ -5,7 +5,7 @@ features: []
 genres: []
 key: climb-ev-ry-mountain-tony-bennett
 lyrics_url: https://genius.com/Tony-bennett-climb-evry-mountain-lyrics
-name: Climb Ev'ry Mountain
+name: Climb Every Mountain
 rankings:
 - end_date: '1959-12-27'
   rank: 82

@@ -80,9 +80,6 @@ I don't care too much for money
 Money can't buy me love
 Ow!
 
-
-
-
 Buy me love, everybody tells me so
 Can't buy me love, no-no-no, no!
 

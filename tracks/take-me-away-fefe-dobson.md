@@ -33,20 +33,20 @@ rankings:
   start_date: '2003-12-20'
 ---
 
-I..was waiting all my life to know you
+I...was waiting all my life to know you
 (all about you)
-And now..I'm staring in your eyes ocean blue
+And now...I'm staring in your eyes ocean blue
 (I'm all about you)
 
 And in our minds, it comes so easily
 But theres a feeling comin over me
-I want to show you, 
+I want to show you,
 But theres nowhere we can really be free
 Everybody's watchin'
 
 Wouldn't it be good if we could be together
 
-Take me away, 
+Take me away,
 Take me far away from here
 I will run with you
 Don't be afraid
@@ -65,7 +65,7 @@ Everybody's talkin'
 
 Wouldn't it be good if they would understand us...
 
-Take me away, 
+Take me away,
 Take me far away from here
 I will run with you
 Don't be afraid (afraid)
@@ -75,7 +75,7 @@ Into the sun, we will run...
 We, will run.
 Whoooaaa whoa whoa whoa
 We, will run.
-Oh yeah yeah yeaah
+Oh yeah yeah yeah
 
 Wouldn't it be good if they would understand us
 Wouldn't it be good if we could be together...
@@ -84,13 +84,13 @@ TAKE ME AWAY!
 Take me away, (take me away)
 Take me far away from here
 I will run with you
-Don't be afraid (Don't..Be..Afraid)
+Don't be afraid (Don't...Be...Afraid)
 Navigate and I will steer
 Into the sun, we will run...
 
 Run, whoa whoa whooaa
-I will run with you wherever you go 
-Don't be afraid 
+I will run with you wherever you go
+Don't be afraid
 Let's runaway and I will steer
 Into the sun, we will run.
 

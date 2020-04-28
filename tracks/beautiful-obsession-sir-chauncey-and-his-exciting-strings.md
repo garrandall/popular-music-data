@@ -1,6 +1,6 @@
 ---
 artists:
-- Sir Chauncey and his exciting strings
+- Sir Chauncey
 features: []
 genres: []
 key: beautiful-obsession-sir-chauncey-and-his-exciting-strings

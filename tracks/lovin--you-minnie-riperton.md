@@ -99,7 +99,7 @@ And we will live each day in springtime
 'Cause lovin' you has made my life so beautiful
 And every day of my life is filled with lovin' you
 Lovin' you, I see your soul come shinin' through
-And every time that we, ooh, I'm more in love with you
+And every time that we, oh I'm more in love with you
 
 La-la la-la-la
 La-la la-la-la
@@ -114,14 +114,14 @@ And we will live each day in springtime
 'Cause lovin' you is easy 'cause you're beautiful
 And every day of my life is filled with lovin' you
 Lovin' you, I see your soul come shinin' through
-And every time that we, ooh, I'm more in love with you
+And every time that we, oh I'm more in love with you
 
 La-la la-la-la
 La-la la-la-la
 La-la la-la-la la-la la la la
 Doo'n doo'n doo-doo, ah...
 
-Lov ooh, la-la la-la la la la la la
+Lov oh la-la la-la la la la la la
 Doo'n doo'n doo-doo, ah...
 
 

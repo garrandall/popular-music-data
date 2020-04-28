@@ -100,10 +100,10 @@ rankings:
 
 
 I just wanna rock you
-All night long, ohh
+All night long, oh
 I wanna rock you
 I just wanna rock you
-All night long, ohh
+All night long, oh
 
 
 Yo, need you to understand me Daddy
@@ -125,15 +125,15 @@ Why don't you just test me
 You won't wanna do without it
 No I'm comin' at you hard
 Meetin' a thug
-And I ain't givin' up 
+And I ain't givin' up
 Till I get that gangsta love
 
 
 I just wanna rock you
-All night long, ohh
+All night long, oh
 I wanna rock you
 I just wanna rock you
-All night long, ohh
+All night long, oh
 
 
 I know you see me this night that night
@@ -157,15 +157,15 @@ And I heard through the streets
 It was me you wantin'
 Lemme find out you shy or somethin'
 But I know your not
-So stop the game and approach 
+So stop the game and approach
 Is you real or not
 
 
 I just wanna rock you
-All night long, ohh
+All night long, oh
 I wanna rock you
 I just wanna rock you
-All night long, ohh
+All night long, oh
 
 
 OK, numbers exchanged
@@ -176,13 +176,13 @@ I'm just playin' cutie
 Yeah give me a call
 No it's cool
 You ain't gotta see me to my car
-I'm a big girl 
+I'm a big girl
 But you'll find out
 Stuck for me
 While I drop top and ride out
 Wheels spinnin'
 Wanna know what shorty all about
-But it's cool, Im doin' 
+But it's cool, Im doin'
 And these words is comin' out my mouth
 
 
@@ -193,10 +193,10 @@ That just got me buggin'
 
 
 I just wanna rock you
-All night long, ohh
+All night long, oh
 I wanna rock you
 I just wanna rock you
-All night long, ohh
+All night long, oh
 
 I wanna rock you baby
 I wanna hold you baby
@@ -212,11 +212,11 @@ Baby lemme rock wit' you (it's gangsta gangsta)
 Ya know I wanna rock wit' you (gangsta gangsta)
 Baby lemme rock wit' you (the E-V-E)
 Ya know I wanna rock wit' you (A. Keys, gonna rock you)
-Baby lemme rock wit' you 
+Baby lemme rock wit' you
 Ya know I wanna rock wit' you (it's gangsta gangsta)
 Baby lemme rock wit' you (gangsta gangsta)
 Ya know I wanna rock wit' you
-(It's gangsta, gangsta love, ooh)
+(It's gangsta, gangsta love, oh
 Ya know I wanna rock wit you
 Baby lemme rock wit' you
 

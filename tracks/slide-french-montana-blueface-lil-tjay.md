@@ -112,7 +112,7 @@ Like Jerome Bettis (Like Jerome Bettis)
 I get to the fetty (Fetty)
 I got a fuckin' fetish
 Two dicks on me, a cock and a big Glock (Two dicks)
-Reach for my piece like openin' your eyes in Bird Box (Ooh)
+Reach for my piece like openin' your eyes in Bird Box (Oh)
 Gunshots (Gunshots)
 Start a track meet
 40 clappin' like some sandals when they slap feet (Slide)

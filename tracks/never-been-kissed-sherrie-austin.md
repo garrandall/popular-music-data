@@ -61,7 +61,7 @@ Oh your love's going to my head so fast
 Just like the bubbles in a champagne glass
 Now I know what I've been missing
 I've never been kissed, like this
-Ooh like this
+Oh like this
 
 Well you're a fool for wild-eyed-poetry, baby
 I only like the kind that rhymes
@@ -76,7 +76,7 @@ Oh your love's going to my head so fast
 Just like the bubbles in a champagne glass
 Now I know what I've been missing
 I've never been kissed
-Ooh like this
+Oh like this
 
 This is more than temporary madness, baby
 This is more than hearts just doing time
@@ -91,8 +91,8 @@ Oh your love's going to my head so fast
 Just like the bubbles in a champagne glass
 Now I know what I've been missing
 I've never been kissed, like this
-Ooh like this
+Oh like this
 
-Ooh like this
+Oh like this
 I've never been kissed
 No I've never been kissed

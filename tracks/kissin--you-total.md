@@ -99,7 +99,7 @@ rankings:
 
 
 Kissin' you is all that I've been thinking of
-Kissin' you is ooo, ooo
+Kissin' you is oo, oo
 
 
 Don't matter who knows
@@ -114,10 +114,10 @@ I wanna kiss you
 
 
 Kissin' you is all that I've been thinking of
-Kissin' you is ooo, ooo
+Kissin' you is oo, oo
 (Oh yeah, I wanna kiss you)
 Kissin' you is all that I've been thinking of
-Kissin' you is ooo, ooo
+Kissin' you is oo, oo
 
 
 When I'm with my friends
@@ -131,10 +131,10 @@ I wanna kiss you
 
 
 Kissin' you is all that I've been thinking of
-Kissin' you is ooo, ooo
+Kissin' you is oo, oo
 (Kissin' you is so good)
 Kissin' you is all that I've been thinking of
-Kissin' you is ooo, ooo
+Kissin' you is oo, oo
 
 
 You're my pride and joy
@@ -147,10 +147,10 @@ Am I crazy for you
 
 
 Kissin' you is all that I've been thinking of
-Kissin' you is ooo, ooo
+Kissin' you is oo, oo
 (Oh yeah, I wanna kiss you)
 Kissin' you is all that I've been thinking of
-Kissin' you is ooo, ooo
+Kissin' you is oo, oo
 
 
 You're my pride and joy
@@ -172,9 +172,9 @@ Yeah, yeah, yeah
 
 
 Kissin' you is all that I've been thinking of
-Kissin' you is ooo, ooo
+Kissin' you is oo, oo
 Kissin' you is all that I've been thinking of
-Kissin' you is ooo, ooo
+Kissin' you is oo, oo
 
 
 Got to have you

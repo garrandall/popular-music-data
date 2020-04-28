@@ -68,7 +68,7 @@ Can't you hear me talking to you? (Can't you hear us talking to you?)
 Without love, ha, there's so much you can do
 (Without love) Yes, it is
 Hey, without love (Without love)
-Ooh, you're not even you (Ooh, ooh, ooh)
+Oh, you're not even you (Oh, oh oh
 Oh, yeah
 Without love (Without love), there's really so much you can do
 (Without love) Yes, it is (Without love)

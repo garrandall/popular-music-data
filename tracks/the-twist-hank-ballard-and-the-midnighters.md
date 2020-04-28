@@ -77,7 +77,7 @@ Come on, baby, let's do the twist
 Take me by my little hand and go like this
 
 Yeah, twist, baby, baby
-Twist, ooh yeah, just like this
+Twist, ohyeah, just like this
 Come on, little miss, and do the twist
 
 My daddy is sleepin' and mama ain't around
@@ -86,7 +86,7 @@ We're gonna twisty, twisty, twisty
 Till we tear the house down
 
 Come on and twist, yeah, baby
-Twist, ooh yeah, just like this
+Twist, ohyeah, just like this
 Come on, little miss, and do the twist, yeah
 
 Yeah, you should see my little sis
@@ -95,7 +95,7 @@ She really knows how to rock
 She knows how to twist
 
 Come on and twist, yeah, baby
-Twist, ooh yeah, just like this
+Twist, ohyeah, just like this
 Come on, little miss, and do the twist
 
 Yeah, rock on now

@@ -117,7 +117,7 @@ rankings:
   start_date: '2019-02-16'
 ---
 
-Ooh, yeah, yeah
+Oh yeah, yeah
 
 I put my feelings on safety
 So I don't go shootin' where your heart be
@@ -132,7 +132,7 @@ That's just too bitter for worse, don't wanna face it
 But I think that I'm done trippin', I'm trip-trippin'
 I've been sippin', that's how I control
 This feelin', you keep givin'
-You keep on hittin' it, ooh, oh
+You keep on hittin' it, oh oh
 Maybe it's your love, it's too good to be true
 Baby boy, your love, got me trippin' on you
 You know your love is big enough, make me trip up on you
@@ -154,7 +154,7 @@ That's just too bitter for worse, don't wanna face it
 But I think that I'm done trippin', I'm trip-trippin'
 I've been sippin', that's how I control
 This feelin', you keep givin'
-You keep on hittin' it, ooh, oh
+You keep on hittin' it, oh oh
 Maybe it's your love, it's too good to be true
 Baby boy, your love, got me trippin' on you
 You know your love is big enough, make me trip up on you
@@ -171,7 +171,7 @@ It's big enough, got me (Trip, trip, trippin' on you)
 I'm done trippin', I'm trip-trippin'
 I've been sippin', that's how I control
 This feelin', you keep givin'
-You keep on hittin' it, ooh, oh
+You keep on hittin' it, oh oh
 Maybe it's your love, it's too good to be true
 Baby boy, your love, got me trippin' on you
 You know your love is big enough, make me trip up on you
@@ -184,7 +184,7 @@ Said I admit I was wrong when I did it
 My bad, my bad, my bad for, trippin' on you (Trippin' on you, trippin' on you)
 
 Trippin' on you, yeah, yeah
-Ooh, yeah, yeah
+Oh yeah, yeah
 
 
 

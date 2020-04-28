@@ -124,7 +124,7 @@ I'm a wing cause I'm too smart for these cats
 While they makin up facts (uhh) you rakin up plats
 
 Verse Two: Notorious B.I.G
-In a Commision, dont ask for permission to hit em
+In a Commision, don't ask for permission to hit em
 He don't like me, him and wild wifey was wit em
 You heard of us, the murderous, most shady
 Been on the low lately, the feds hate me

@@ -97,7 +97,7 @@ He will never ever, never ever love you
 I know you think that I just be trippin' on ya
 Boy, you see, this ain't how I normally be
 But I can't help this jealousy
-Ooh, it's taking over me, ooh, I'm falling way to deep
+Oh, it's taking over me, oh I'm falling way to deep
 Without you by my side, I feel like I can't eat or sleep
 
 

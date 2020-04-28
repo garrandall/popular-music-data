@@ -69,7 +69,7 @@ Who are we to be questioning, wondering what is what?
 Don't give up, through it all, just stand up
 
 
-Ooh, it's like we all had better days
+Oh it's like we all had better days
 Problems getting all up in your face
 
 Just because you go through it

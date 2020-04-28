@@ -68,7 +68,7 @@ That was so right on time
 After all the love changes
 My heart had locked the door
 Then that girl released her magic
-And made me love once more, ooh
+And made me love once more, oh
 
 Like the warm rays of the sun
 Her sweet love came shining down on me, oh

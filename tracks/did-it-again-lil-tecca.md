@@ -46,7 +46,7 @@ Juggin' 'til a nigga land
 You got a man, know what I do to ya mans?
 No I ain't shootin' the hands, took an L, I ain't took one again
 Crashed the 'Rari so I hopped in the Benz
-So, ooooh, it's crazy how they watch a young nigga gon' move
+So, oh, it's crazy how they watch a young nigga gon' move
 It's crazy, worry about yourself nigga, make a move
 You steady watchin' all the winnin' niggas, you gon' lose
 I don't gotta prove, you steady watchin' all the winnin' niggas
@@ -70,7 +70,7 @@ Juggin' 'til a nigga land
 You got a man, know what I do to ya mans?
 No I ain't shootin' the hands, took an L, I ain't took one again
 Crashed the 'Rari so I hopped in the Benz
-So, ooooh, it's crazy how they watch a young nigga gon' move
+So, oh, it's crazy how they watch a young nigga gon' move
 It's crazy, worry about yourself nigga, make a move
 You steady watchin' all the winnin' niggas, you gon' lose
 I don't gotta prove, you steady watchin' all the winnin' niggas

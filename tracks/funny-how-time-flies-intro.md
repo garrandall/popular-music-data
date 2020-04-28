@@ -42,9 +42,6 @@ Girl your love is what I need and I don't want to be missin'
 So do whatever you want to me tonight
 And let the time keep on slippin', slippin'
 
-
-
-
 You got me hypnotized, mesmerized
 Inside your thighs, gonna take a ride
 In and out, just let it flow and I don't want to let it go
@@ -55,9 +52,6 @@ The way you slide down on me I get so into you
 Girl your love is what I need and I don't want to be missin'
 So do whatever you want to me tonight
 And let the time keep on slippin', slippin'
-
-
-
 
 Funny how time flies, funny how time flies
 Funny how time flies, funny how time flies

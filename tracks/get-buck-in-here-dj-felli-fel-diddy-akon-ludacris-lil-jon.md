@@ -94,7 +94,7 @@ I think you need to hit 'em of some..
 OK!
 Woow!
 
-They call me Diddy 
+They call me Diddy
 DJ Felli Fel
 Testing 1,23 (testing 1,2,3)
 Check this out
@@ -111,13 +111,13 @@ I can take you on outer-limits away from home
 In the middle of the club doin' a rodeo show (Hey!)
 The hoes seem schemey, wet dreamy, emphasism obsessed gleemy
 (Incredible sex) you need me
-Ease me, please me baby, I maybe am little crazy but in a way that.....
+Ease me, please me baby, I maybe am little crazy but in a way that...
 
 
 Don't make me get buck in here
 Shorty drop 'em to the ground like she ain't got manners
 Too much booty for one man to handle
-When all i need is a one night scandal
+When all I need is a one night scandal
 And don't make me get buck in here
 Damn lil' momma you know you fit my standards
 You the type to make me grip that handle
@@ -132,7 +132,7 @@ She can make it clap like a standin' ovation
 Spin like my record at the radio station
 Feel the sensation, I put it right there
 They be like LUDA, I be like yeaaaaaaa,
-You like it like that dont cha baby
+You like it like that don't cha baby
 The flow's insane, and the stroke is crazy
 I stroke so good, like Tiger Woods
 And I ROWR like a tiger would
@@ -146,11 +146,11 @@ Felli on the celly with a couple of twins
 Cuz tonight, damn right, we gonna do it again
 
 
-Don't make me get buck in here!!
+Don't make me get buck in here!
 Shorty drop 'em to the ground like she ain't got manners
 Too much booty for one man to handle
-When all i need is a one night scandal
-And ima get buck in here!!
+When all I need is a one night scandal
+And ima get buck in here!
 Damn lil' momma you know you fit my standards
 You the type to make me grip that handle
 Lick shots in the air, bustin' that grandam
@@ -169,22 +169,22 @@ Love 'em, leave 'em, give 'em hell for sure
 Tell them words they minds and souls deserve
 Or give them things they might prefer
 Sandrio pan, mandarin sweet massage oil
-Pimp, gamein', grants, and benz' i tried 'em
+Pimp, gamein', grants, and benz' I tried 'em
 Used to style 'em, now just virgin island
 Kamasutra freaky ...
 
 
-Don't make me get buck in here!!
+Don't make me get buck in here!
 Shorty drop 'em to the ground like she ain't got manners
 Too much booty for one man to handle
-When all i need is a one night scandal
-And ima get buck in here!!
+When all I need is a one night scandal
+And ima get buck in here!
 Damn lil' momma you know you fit my standards
 You the type to make me grip that handle
 Lick shots in the air, bustin' that grandam
 
 
-Hold up, hold up 
+Hold up, hold up
 Yo, yo, yo
 It's your boy Lil' Jon right? (yeah!)
 They try to take this thing to another level!
@@ -201,7 +201,7 @@ Crunk in this
 Crunk in this
 Crunk in this
 Crunk in this
-Hey!!!
+Hey!
 
 
 

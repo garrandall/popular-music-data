@@ -87,7 +87,7 @@ The Bismark was the fastest ship that ever sailed the seas
 On her deck were guns as big as steers and shells as big as trees
 
 Out of the cold and foggy night came the British ship the Hood
-And ev'ry British seaman he knew and understood
+And every British seaman he knew and understood
 They had to sink the Bismark, the terror of the sea
 Stop those guns as big as steers and those shells as big as trees
 
@@ -102,7 +102,7 @@ We gotta sink the Bismark was the battle sound
 But when the smoke had cleared away the mighty Hood went down
 
 For six long days and weary nights they tried to find her trail
-Churchill told the people put ev'ry ship a-sail
+Churchill told the people put every ship a-sail
 'Cause somewhere on that ocean I know she's gotta be
 We gotta sink the Bismark to the bottom of the sea
 

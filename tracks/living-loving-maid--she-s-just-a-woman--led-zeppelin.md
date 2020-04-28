@@ -57,9 +57,6 @@ Living, loving, she's just a woman
 With the butler and the maid and the servants three
 Living, loving, she's just a woman
 
-
-
-
 Nobody hears a single word you say
 Living, loving, she's just a woman
 But you keep on talking till your dying day

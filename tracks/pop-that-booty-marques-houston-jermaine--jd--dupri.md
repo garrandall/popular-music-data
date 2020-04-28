@@ -48,18 +48,18 @@ rankings:
 
 
 yeah,come on
-One more time 
+One more time
 JD, MH
 So So Def is in the building
 MH and Pied Pied Pied Pi Piper
 MH and Pied Pied Pied Pi Piper
-We get the girls so so hyper 
+We get the girls so so hyper
 We make 'em say dad a dad a da
 
 
 Pulled up to the party
 In a black Lexus jeep (yeah)
-Hop up out the whip I'm feelin' freaky (ohh)
+Hop up out the whip I'm feelin' freaky (oh)
 All the ladies comes surrounding me
 Cause I'm so important like the H.N.I.C.
 This one girl she making my body feen
@@ -68,29 +68,29 @@ So I stepped to her like I knew her
 Introduced her to Jacob the jeweler
 
 
-Mami won't you come take a ride with me (ohh)
+Mami won't you come take a ride with me (oh)
 Be the girl of my fantasies
 But first won't you do one thing for me
 Baby won't you come pop ya booty for me (0hh)
 
- 
-I love the way you move so sexy (oohh oh)
+
+I love the way you move so sexy (oh oh)
 I love when you are all up on me
-But there's one thing I have to see 
+But there's one thing I have to see
 Is the way you pop that booty (pop it for me)
 I love the way you move so sexy
-I love when you all up on me (ohh oh)
+I love when you all up on me (oh oh)
 Girl take the floor and you'll see
 Let me see you pop that booty
 
- 
+
 MH and Pied Pi Pi Piper (come on)
 MH and Pied Pi Pi Piper
 We get the girls so so hyper (come on)
 We make 'em say dad a dad a dada a da
 
 
-Girl shake that ahh like there's no rules
+Girl shake that ah like there's no rules
 Love the way you move in those high heel shoes
 So pop your booty like Beyonce'
 Got me falling crazy in love with you
@@ -106,14 +106,14 @@ I love when you are all up on me
 But there's one thing I have to see  (one thing I have to see)
 Is the way you pop that booty (is the way you pop it for me,yeah )
 I love the way you move so sexy
-I love when you all up on me (oh oh oh ohhh)
+I love when you all up on me (oh oh oh oh)
 Girl take the floor and you'll see
 Let me see you pop that booty
 
- 
+
 MH and Pied Pi Pi Piper
 MH and Pied Pi Pi Piper
-We get the girls so so hyper 
+We get the girls so so hyper
 We makem say dad a dad a da
 (so so def is in the building)
 
@@ -123,7 +123,7 @@ Thick with it is how we like it in the ATL
 Sick with it, pants low with a real wide load
 As soon as you hit the door everybody was like whoa
 I bet it's hard for you to go to the mall and buy clothes
-Cause your waist is so little and your ass is like whoa 
+Cause your waist is so little and your ass is like whoa
 You poppin' that thing like a Luke video
 Mesmerized by the sound and the way the flutes blow
 Drink in my right hand, another in my left
@@ -142,25 +142,25 @@ Shaking, shaking, shaking what cha momma gave ya
 Mami dancing all on me
 She's not wearing any panties (ok)
 I like it when she call me dadda
-The way she pops it like she from Jamaica 
+The way she pops it like she from Jamaica
 
- 
+
 I love the way you move so sexy
 I love when you are all up on me
-But there's one thing I have to see (the one thing I have to see) 
+But there's one thing I have to see (the one thing I have to see)
 Is the way you pop that booty (is the way you pop that booty)
 I love the way you move so sexy
 I love when you all up on me
 Girl take the floor and you'll see
 Let me see you pop that booty
 
- 
+
 MH and Pied Pi Pi Piper
 MH and Pied Pi Pi Piper
-We get the girls so so hyper 
+We get the girls so so hyper
 We make 'em say dad a dad a da
 
-Yeah MH, JD, Piper, TUG 
+Yeah MH, JD, Piper, TUG
 T Scott you a fool fo dis one (oh yeah)
 Holla
 Chris Stokes, holla at cha boy man

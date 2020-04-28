@@ -57,12 +57,12 @@ They ain't even know it's me
 Slime snake my disease (Slatt)
 If you bite, I bite back (Woah)
 Had this bitch on her knees
-Asked her where her jaw at (Ooh)
+Asked her where her jaw at (Oh)
 Hello? (Hello?), hold on
 Baby, gotta call back
 'Cause I ran into a lick (Give me that)
 And I need all that (Yeah)
-Murakami on my walls (Ooh)
+Murakami on my walls (Oh)
 Nigga, where your KAWS at? (Wow)
 I just beat a nigga up
 Now I need my paws back (Yup)

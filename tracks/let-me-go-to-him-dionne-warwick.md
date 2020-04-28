@@ -59,7 +59,3 @@ And lately we're never together
 Half the time you don't call
 That's no life at all
 
-
-
-
-

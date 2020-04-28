@@ -103,7 +103,7 @@ Take me down to the little white church
 Take me down (take me down)
 Take me down (take me down)
 Take me down to the little white church
-Take me down....
+Take me down...
 
 You can't ride this gravy train
 Anymore, anyway

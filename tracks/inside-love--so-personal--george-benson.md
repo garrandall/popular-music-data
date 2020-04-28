@@ -102,7 +102,7 @@ Building intensity
 Inside love
 Just the two of us in our love
 (Living in that love)
-Inside love, ooh, baby
+Inside love, oh, baby
 I can't help but feel it's forever love
 
 Inside love

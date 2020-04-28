@@ -79,7 +79,6 @@ Well
 
 (Pre-Chorus)
 
-(Chorus)
 
 (Chorus)
 No, no, no
@@ -87,13 +86,10 @@ No, no, no
 
 (Solo)
 
-(Chorus)
 
 (Chorus)
 You know we just gotta say
 
 (Pre-Chorus)
 
-(Chorus)
 
-(Chorus)

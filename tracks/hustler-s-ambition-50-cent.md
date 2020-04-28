@@ -104,7 +104,3 @@ The feds watch me, icey they can't stop me
 Racist, pointing at me look at the nigga ratchi
 Hello!
 
-
-
-
-

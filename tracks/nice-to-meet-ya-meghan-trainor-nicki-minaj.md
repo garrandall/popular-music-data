@@ -13,8 +13,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-02-15'
 ---
-Nice to meet ya (Mmm, ooh)
-Nice to meet ya (Ooh)
+Nice to meet ya (Mmm, oh)
+Nice to meet ya (Oh)
 Nice to meet ya (Meghan Trainor)
 Nice to meet ya (Let's go)
 
@@ -102,5 +102,5 @@ I don't know you, but I'm just what I wanna be
 
 Nice to meet ya (Ah, ah, ah)
 Nice to meet ya (Oh, mmm)
-Nice to meet ya (Oh, Ooh)
+Nice to meet ya (Oh, Oh)
 Nice to meet ya

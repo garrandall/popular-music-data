@@ -53,4 +53,4 @@ Remember me baby
 Remember (remember)
 Remember me baby oh oh oh oh
 Remember (remember)
-Wooh ooh ooh ooh ooh ooh ooh!
+Wooh oh oh oh oh oh oh!

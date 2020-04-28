@@ -91,18 +91,18 @@ For the high school dance
 
 Dance to the beat of the band
 We're gonna dance at the high school dance
-Boogie to the beat of the band, ooh
+Boogie to the beat of the band, oh
 Boogie to the high school dance
 
 Dance to the beat of the band
 We're gonna dance at the high school dance
-Boogie to the beat of the band, ooh
+Boogie to the beat of the band, oh
 Boogie to the high school dance
 
 It only costs a dollar
 To dance to the music
 With the one you love best, uh, huh
-It makes you wanna holler, ooh
+It makes you wanna holler, oh
 
 The music sounds good
 You just don't want to rest
@@ -115,12 +115,12 @@ Talkin' 'bout the high school dance
 
 Dance to the beat of the band
 We're gonna dance at the high school dance
-Boogie to the beat of the band, ooh
+Boogie to the beat of the band, oh
 Boogie to the high school dance
 
 Dance to the beat of the band
 We're gonna dance at the high school dance
-Boogie to the beat of the band, ooh
+Boogie to the beat of the band, oh
 Boogie to the high school dance
 
 Dance at the high school dance
@@ -128,7 +128,7 @@ Dance at the high school dance
 It only costs a dollar
 To dance to the music
 With the one you love best, yeah
-It makes you wanna holler, ooh
+It makes you wanna holler, oh
 
 The music sounds good
 You just don't want to rest, yeah
@@ -141,13 +141,13 @@ Talkin' 'bout the high school dance
 
 Dance to the beat of the band
 We're gonna dance at the high school dance
-Boogie to the beat of the band, ooh
+Boogie to the beat of the band, oh
 Boogie to the high school dance
 
 Dance to the beat of the band
 We're gonna dance at the high school dance
-Boogie to the beat of the band, ooh
+Boogie to the beat of the band, oh
 Boogie to the high school dance
 
 Dance at the high school dance
-Ooh, dance at the high school dance
+Oh, dance at the high school dance

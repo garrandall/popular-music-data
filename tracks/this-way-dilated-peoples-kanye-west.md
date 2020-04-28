@@ -101,9 +101,3 @@ To deal with these deals to deal with this hate
 I dedicate this Jam Master Jay
 Run-DMC showed me how to walk, this way
 
-
-
-
-
-
-

@@ -16,14 +16,14 @@ rankings:
 
 Pretty green bud
 All in my blunt
-Oohh I need it
+Oh I need it
 We can take off now
-Oohh Marijuana, yeah
+Oh Marijuana, yeah
 Pretty green bud
-All in my blunt 
-Oohh I need it
+All in my blunt
+Oh I need it
 We can take off now
-Oohh I know you wanna
+Oh I know you wanna
 Smoke
 
 
@@ -40,7 +40,7 @@ Converse covered with mixer juice
 And all my niggas rollin up in the booth
 Who got me on another one
 Someone please roll me another one
-They tell me all good things must end 
+They tell me all good things must end
 Well those muthafuckas ain't have this friend
 I keep it
 
@@ -57,16 +57,16 @@ I know you wanna, smoke
 
 
 
-Always had my back, hey 
-Always had my back, hey 
-Always had my back, hey 
-Always had my back, yea 
-Always had my back, yea 
-Always had my back, hey 
-Always had my back, hey 
+Always had my back, hey
+Always had my back, hey
+Always had my back, hey
+Always had my back, yea
+Always had my back, yea
+Always had my back, hey
+Always had my back, hey
 Marijuana had my back, my back, woah
 
-Mmmmm oh oh oh oh
+Mmm oh oh oh oh
 Never left me lonely
 It's gon' be ok
 Trust me, its gon' be ok

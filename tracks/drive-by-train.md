@@ -169,7 +169,7 @@ This is not a drive by-y-y-y-y
 Just a shy guy, looking for a two-ply Hefty bag to hold my-y-y-y-y-y love
 
 When you move me, everything is groovy
-They don't like it sue me, hmm the way you do me
+They don't like it sue me, hm the way you do me
 Oh, I swear to you, I'll be there for you
 This is not a drive by-y-y-y-y
 
@@ -188,7 +188,7 @@ This is not a drive by-y-y-y-y
 Just a shy guy, looking for a two-ply Hefty bag to hold my-y-y-y-y-y love
 
 When you move me, everything is groovy
-They don't like it sue me, hmm the way you do me
+They don't like it sue me, hm the way you do me
 Oh, I swear to you, I'll be there for you
 This is not a drive by-y-y-y-y
 

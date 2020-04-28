@@ -238,12 +238,12 @@ You know that if we are to stay alive
 Then see the peace in every eye
 
 
-Doo doo doo doooo
-Doo doo doo doooo
-Doo doo doo doo doooo
-Doo doo doo doooo
-Doo doo doo doooo
-Doo doo doo doo doooo
+Doo doo doo doo
+Doo doo doo doo
+Doo doo doo doo doo
+Doo doo doo doo
+Doo doo doo doo
+Doo doo doo doo doo
 
 
 She had two babies, one was six months, one was three
@@ -259,9 +259,9 @@ I don't want to wait for our lives to be over
 Will it be yes or will it be sorry
 
 
-Doo doo doo doooo
-Doo doo doo doooo
-Doo doo doo doo doooo
+Doo doo doo doo
+Doo doo doo doo
+Doo doo doo doo doo
 
 
 He showed up all wet on the rainy front step
@@ -304,12 +304,12 @@ I don't want to wait for our lives to be over
 Will it be yes or will it be sorry
 
 
-Doo doo doo doooo
-Doo doo doo doooo
-Doo doo doo doo doooo
-Doo doo doo doooo
-Doo doo doo doooo
-Doo doo doo doo doooo
+Doo doo doo doo
+Doo doo doo doo
+Doo doo doo doo doo
+Doo doo doo doo
+Doo doo doo doo
+Doo doo doo doo doo
 
 
 So open up your morning light

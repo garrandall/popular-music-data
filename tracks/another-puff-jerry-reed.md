@@ -79,7 +79,7 @@ Oh give it to me! Give it to me!
 Cigarettes... I say if I quit smoking what'll I do?
 Maybe I'll eat
 Yeah I'll eat cigarettes
-Ahh, I love it I love it I love it I love it I love it I love it
+Ah, I love it I love it I love it I love it I love it I love it
 Chester B don't smoke, he smokes logs!
 Makes you laugh funny too
 Oh my throat's scratchin', oh

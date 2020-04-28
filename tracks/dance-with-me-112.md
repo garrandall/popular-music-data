@@ -91,88 +91,88 @@ rankings:
 
 
 I see you looking at me
-I can tell by your eyes that your feeling me 
-and I really want you to get close to me. 
-So wont you dance with me...dance with me.
-My drop tops in the parking lot 
-and I wanna take you back to my spot. 
-But we still got a little more time to rock. 
-So wont you dance with me...dance with me!
+I can tell by your eyes that your feeling me
+and I really want you to get close to me.
+So won't you dance with me...dance with me.
+My drop tops in the parking lot
+and I wanna take you back to my spot.
+But we still got a little more time to rock.
+So won't you dance with me...dance with me!
 
- I can see you over there just chillin' with your girlfriends, can't 
-believe your by your self you should be hear with me, chillin' with me, 
-drinkin' with me, freakin' with me. Oooohhh whoa, whoa!
+ I can see you over there just chillin' with your girlfriends, can't
+believe your by your self you should be hear with me, chillin' with me,
+drinkin' with me, freakin' with me. Oh whoa, whoa!
 
 
-I see you looking at me 
-I can tell by your eyes that your feeling me 
-and I really want you to get close with me. 
-So wont you dance with me...dance with me.
-My drop tops in the parking lot 
-and I wanna take you back to my spot. 
-We can snuggle a little, more time to us. 
-So wont you dance with me...dance with me!
+I see you looking at me
+I can tell by your eyes that your feeling me
+and I really want you to get close with me.
+So won't you dance with me...dance with me.
+My drop tops in the parking lot
+and I wanna take you back to my spot.
+We can snuggle a little, more time to us.
+So won't you dance with me...dance with me!
 
- I can see it in your eyes that your looking at the time. You wanna 
-leave this party and I know you wanna leave with me. To chill with me, to 
+ I can see it in your eyes that your looking at the time. You wanna
+leave this party and I know you wanna leave with me. To chill with me, to
 drink with me, to freak with me, oh baby!
 
 
-I see you looking at me 
-I can tell by your eyes that your feeling me 
-and I really want you to get close with me. 
-So wont you dance with me...dance with me.
-My drop tops in the parking lot 
-and I wanna take you back to my spot. 
-We can snuggle a little, more time to us. 
-So wont you dance with me...dance with me!
+I see you looking at me
+I can tell by your eyes that your feeling me
+and I really want you to get close with me.
+So won't you dance with me...dance with me.
+My drop tops in the parking lot
+and I wanna take you back to my spot.
+We can snuggle a little, more time to us.
+So won't you dance with me...dance with me!
 
 
-I see you looking at me 
-I can tell by your eyes that your feeling me 
-and I really want you to get close with me. 
-So wont you dance with me...dance with me.
-My drop tops in the parking lot 
-and I wanna take you back to my spot. 
-We can snuggle a little, more time to us. 
-So wont you dance with me...dance with me!
+I see you looking at me
+I can tell by your eyes that your feeling me
+and I really want you to get close with me.
+So won't you dance with me...dance with me.
+My drop tops in the parking lot
+and I wanna take you back to my spot.
+We can snuggle a little, more time to us.
+So won't you dance with me...dance with me!
 
- Everybody sing along....
+ Everybody sing along...
 
 )
 If you sexy and you know it clap your hands (clap )
-If you sexy and you know it and you really wanna show it, 
+If you sexy and you know it and you really wanna show it,
 if you sexy and you know it clap your hands (clap ) Yeah!
 
 
-I see you looking at me 
-I can tell by your eyes that your feeling me 
-and I really want you to get close with me. 
-So wont you dance with me...dance with me.
-My drop tops in the parking lot 
-and I wanna take you back to my spot. 
-We can snuggle a little, more time to us. 
-So wont you dance with me...dance with me!
+I see you looking at me
+I can tell by your eyes that your feeling me
+and I really want you to get close with me.
+So won't you dance with me...dance with me.
+My drop tops in the parking lot
+and I wanna take you back to my spot.
+We can snuggle a little, more time to us.
+So won't you dance with me...dance with me!
 
 
-I see you looking at me 
-I can tell by your eyes that your feeling me 
-and I really want you to get close with me. 
-So wont you dance with me...dance with me.
-My drop tops in the parking lot 
-and I wanna take you back to my spot. 
-We can snuggle a little, more time to us. 
-So wont you dance with me...dance with me!
+I see you looking at me
+I can tell by your eyes that your feeling me
+and I really want you to get close with me.
+So won't you dance with me...dance with me.
+My drop tops in the parking lot
+and I wanna take you back to my spot.
+We can snuggle a little, more time to us.
+So won't you dance with me...dance with me!
 
 
-I see you looking at me 
-I can tell by your eyes that your feeling me 
-and I really want you to get close with me. 
-So wont you dance with me...dance with me.
-My drop tops in the parking lot 
-and I wanna take you back to my spot. 
-We can snuggle a little, more time to us. 
-So wont you dance with me...dance with me!
+I see you looking at me
+I can tell by your eyes that your feeling me
+and I really want you to get close with me.
+So won't you dance with me...dance with me.
+My drop tops in the parking lot
+and I wanna take you back to my spot.
+We can snuggle a little, more time to us.
+So won't you dance with me...dance with me!
 
 
 

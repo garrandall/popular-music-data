@@ -119,13 +119,13 @@ He has no right to tell a woman when and where to create one
 So will the real men get up?
 I know you're fed up, ladies, but keep ya head up
 
-Keep ya head up, ooh, child
+Keep ya head up, oh, child
 Things are gonna get easier
-Keep ya head up, ooh, child
+Keep ya head up, oh, child
 Things'll get brighter
-Keep ya head up, ooh, child
+Keep ya head up, oh, child
 Things are gonna get easier
-Keep ya head up, ooh, child
+Keep ya head up, oh, child
 Things'll get brighter
 
 Ayo, I remember Marvin Gaye used to sing to me
@@ -155,13 +155,13 @@ I blame my mother for turnin' my brother into a crack baby
 We ain't meant to survive, 'cause it's a set-up
 And even though you're fed up, huh, you got to keep ya head up
 
-Keep ya head up, ooh, child
+Keep ya head up, oh, child
 Things are gonna get easier
-Keep ya head up, ooh, child
+Keep ya head up, oh, child
 Things'll get brighter
-Keep ya head up, ooh, child
+Keep ya head up, oh, child
 Things are gonna get easier
-Keep ya head up, ooh, child
+Keep ya head up, oh, child
 Things'll get brighter
 
 And uh, to all the ladies havin' babies on they own

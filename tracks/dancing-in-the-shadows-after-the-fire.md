@@ -39,7 +39,7 @@ Or will I have to always spend my time
 Dancing in the shadows
 Dancing in the shadows
 
-Ooh I’m looking for a straight line
+Oh I’m looking for a straight line
 Can’t sleep at night
 There are words I never make rhyme
 It’s like black, it’s like white

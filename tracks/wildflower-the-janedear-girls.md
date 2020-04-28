@@ -41,39 +41,39 @@ rankings:
   start_date: '2011-03-19'
 ---
 
-Mmm yeaahh yeaeaa yeaaa 
+Mmm yeaahh yeaeaa yeaaa
 
-I was born off an old dirt road 40 acre farm no highway no interstate 
-& I drive an old rusted out Chevrolet, the boys all rubber neck while their out makin' hay. 
+I was born off an old dirt road 40 acre farm no highway no interstate
+& I drive an old rusted out Chevrolet, the boys all rubber neck while their out makin' hay.
 
 Hey, I'm a wildflower, growin' in the sunshine, soakin' up the way of life I was raised in,
-runnin' barefoot bloomin' in a summer shower, ponytail dancin' I can't help it. I-I'm a wildflower. 
+runnin' barefoot bloomin' in a summer shower, ponytail dancin' I can't help it. I-I'm a wildflower.
 
-Oooo yeahh oooo yeahhh 
+Oooo yeahh oo yeahhh
 
 Theres a little cotton dress hangin' in my sisters closet,
 I think I'm gonna borrow it, and wear it this weekend.
 Painted my toes, bought some cherry lip gloss.
-No rose, No daisy, can touch what I got 
+No rose, No daisy, can touch what I got
 
-Yeaah 
+Yeah
 
 I'm a wildflower, growin in the sunshine, soakin' up the way of life I was raised in,
-runnin' barefoot bloomin' in a summer shower, ponytail dancin' I cant help it. I-I'm a wildflower. 
+runnin' barefoot bloomin' in a summer shower, ponytail dancin' I can't help it. I-I'm a wildflower.
 
-Oooo yeaah oooo yeahh 
+Oooo yeah oo yeahh
 
-I'm just a girl that needs a little sun, a little rain, an open field to play 
+I'm just a girl that needs a little sun, a little rain, an open field to play
 
 Hey, I'm a wildflower, growin' in the sunshine soakin' up the way of life I was raised in,
-runnin' barefoot bloomin' in a summer shower, ponytail dancin' I can't help it. I-I'm a wildflower. 
+runnin' barefoot bloomin' in a summer shower, ponytail dancin' I can't help it. I-I'm a wildflower.
 
 I'm a wildflower, growin' in the sunshine soakin' up the way of life I was raised in,
-runnin' barefoot bloomin' in a summer shower, ponytail dancin' I can't help it. I-I'm a wildflower. 
+runnin' barefoot bloomin' in a summer shower, ponytail dancin' I can't help it. I-I'm a wildflower.
 
-Oooo yeah oooo yeahh I-I'm a wildflower 
+Oooo yeah oo yeahh I-I'm a wildflower
 
-Oooo yeah oooo yeah I'm a wildflower 
+Oooo yeah oo yeah I'm a wildflower
 
 Yeaahh yeaeaa yeaaa I'm a wildflower
 

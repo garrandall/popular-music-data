@@ -40,7 +40,7 @@ I need mine off the top, uh
 Over town, he got shot
 Muddy died in Opa-locka
 Couldn't save one lung
-Hit 'em up, hmm, hmm
+Hit 'em up, hm, hm
 See the look on my face (woo!)
 Like Carol City one state
 Niggas hate on my sound

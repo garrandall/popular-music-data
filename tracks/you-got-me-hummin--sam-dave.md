@@ -68,8 +68,8 @@ That's when my feet start a runnin'
 You got me hummin' now
 You got me hummin' now
 
-You got me hummin', ooh
-You got me hummin', ooh yeah
+You got me hummin', oh
+You got me hummin', ohyeah
 You got me hummin'
 
 

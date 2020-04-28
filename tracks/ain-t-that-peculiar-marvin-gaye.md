@@ -86,7 +86,7 @@ A peculiar-arity, hey, hey
 
 
 I cried so much just like a child that's lost its toy
-Maybe baby you think these tears i cry are tears of joy
+Maybe baby you think these tears I cry are tears of joy
 A child can cry so much until you do everything they say
 But unlike a child my tears don't help me to get my way
 I know love can last through years

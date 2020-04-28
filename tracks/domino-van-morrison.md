@@ -74,8 +74,8 @@ Lord, have mercy
 I said oh-oh, Domino
 Roll me over, Romeo, there you go
 Say it again
-I said oh-ooh-oh Domino
-I said oh-ooh-ooh-oh Domino
+I said oh-oh-oh Domino
+I said oh-oh-oh-oh Domino
 (Dig It)
 
 
@@ -99,9 +99,9 @@ I said, oh oh Domino
 Roll me over Romeo, there you go
 (Hey, all right)
 Say it again
-Oh-oh-ooh-ooh Domino
+Oh-oh-oh-oh Domino
 (Hey, hit it)
-I said oh-ooh-ooh Domino
+I said oh-oh-oh Domino
 
 Well, Mr. DJ I just wanna hear
 Some rhythm and blues music
@@ -119,8 +119,4 @@ Hear the band
 
 
 One more time
-
-
-
-
 

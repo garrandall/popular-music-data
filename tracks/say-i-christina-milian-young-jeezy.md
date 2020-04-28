@@ -85,12 +85,12 @@ Ima make it happen
 Ima make a way
 If you got something to prove
 If you feel the same way
-Say I....I
+Say I...I
 
 I'm going to keep it gangster
 Ima make it hot
 If you feeling like I do, then people throw your hands up
-Say I.....I
+Say I...I
 
 You want to dance then get down
 You tryna chill then sit down
@@ -107,7 +107,7 @@ Ima make it happen
 Ima make a way
 If you got something to prove
 If you feel the same way
-Say I....I
+Say I...I
 
 Ya heard the lady
 Say I if you feel it
@@ -117,7 +117,7 @@ I'm going to keep it gangster
 Ima make it hot
 ( Yeah you already know me Snowman)
 If you feel like I do, then people throw your hands up
-Say I.....I
+Say I...I
 
 
 My nephew getting older and starting to talk
@@ -148,7 +148,7 @@ Say I
 Let's just do it
 We can make it
 I know we'll make it if we try
-Say I....
+Say I...
 
 Whoaaa...
 
@@ -156,12 +156,12 @@ Ima make it happen
 Ima make a way
 If you got something to prove
 If you feel the same way
-Say I.....I
+Say I...I
 
 I'm going to keep it gangster
 Ima make it hot
 If you feeling like I do, then people throw your hands up
-Say I.....I
+Say I...I
 
 Getting to it, let's  just face it
 We can do it if we try
@@ -173,12 +173,12 @@ Ima make it happen
 Ima make a way
 If you got something to prove
 If you feel the same way
-Say I.....I
+Say I...I
 
 I'm going to keep it gangster
 Ima make it hot
 If you feel like I do, then people throw your hands up
-Say I.....I
+Say I...I
 
 
 

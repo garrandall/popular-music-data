@@ -74,7 +74,7 @@ I missed your tenderness
 The way you hold my hand
 But most of all, I missed
 The love of my man
-Ooh, baby
+Oh, baby
 
 I miss you, baby
 (I missed the two of us

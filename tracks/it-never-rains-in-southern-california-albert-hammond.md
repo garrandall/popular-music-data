@@ -74,7 +74,7 @@ rankings:
 ---
 Got on board a westbound seven forty-seven
 Didn't think before deciding what to do
-Ooh, that talk of opportunities
+Oh, that talk of opportunities
 TV breaks and movies
 Rang true, sure rang true
 

@@ -40,7 +40,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
 ---
-Ooh, ooh, ooh, ahh, ahh, ahh
+Oh, oh, oh, ah, ah, ah
 My folks moved to New York from California
 I should have listened when my buddy said "I warn ya" (warn ya)
 "There'll be no surfin' there and no one even ca-a-ares"
@@ -57,7 +57,7 @@ I feel so bad each time I look out there and fi-i-ind
 (Nowhere to go now) New York's a lonely town
 When you're the only surfer boy around
 
-Ooh, ooh, ooh, ahh, ahh, ahh, ahh
+Oh, oh, oh, ah, ah, ah, ah
 
 I feel so bad each time I look out there and fi-i-ind
 
@@ -65,7 +65,7 @@ I feel so bad each time I look out there and fi-i-ind
 (Nowhere to go now) New York's a lonely town
 When you're the only surfer boy around
 
-Ooh, ooh, ooh, ahh, ahh, ahh
-Ooh, ooh, ooh
+Oh, oh, oh, ah, ah, ah
+Oh, oh, oh
 FADE
-Ahh, ahh
+Ah, ah

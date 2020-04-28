@@ -58,7 +58,3 @@ For the lonely that will find him tomorrow
 On a black stormy night in your bosom I'll cling
 And I'll know I've found love and the last song we'll sing
 
-
-
-
-

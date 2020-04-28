@@ -73,7 +73,3 @@ Show biz kids making movies
 Of themselves you know they
 Don't give a fuck about anybody else
 
-
-
-
-

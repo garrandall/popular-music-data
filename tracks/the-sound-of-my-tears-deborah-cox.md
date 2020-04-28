@@ -56,7 +56,3 @@ Pay it no mind
 You know the truth behind the smile
 It's only just a lie
 
-
-
-
-

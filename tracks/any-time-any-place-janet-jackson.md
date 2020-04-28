@@ -97,7 +97,7 @@ Movin up my thighs
 Skirt around my waist
 Wall against my face
 I can feel your lips
-Oooh
+Oh
 
 
 I don't wanna stop just because
@@ -114,7 +114,7 @@ All I wanna say is
 Any time
 And any place
 I don't care who's around
-Mmmm
+Mmm
 
 Any time
 And any place

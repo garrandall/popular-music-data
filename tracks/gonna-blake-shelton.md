@@ -134,6 +134,6 @@ It's the damn right, hold you tight, baby I'm gonna
 
 Hey, hey (hey, hey)
 Alright (alright)
-Oooh
+Oh
 Hey, hey (hey, hey)
 Alright (alright)

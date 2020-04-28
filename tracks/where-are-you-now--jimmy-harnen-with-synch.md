@@ -165,17 +165,17 @@ It's keeping us apart
 Someone there tonight
 Holding what was mine
 
-You wonder where i am
+You wonder where I am
 Are you really feeling fine
 Going through my life without you by my side
 
 You're the only thing that keeps going through my mind
-And nothing that i do can take the place of you
+And nothing that I do can take the place of you
 Someone there tonight holding what was mine
 
-Where are you now, do you wonder where i am
+Where are you now, do you wonder where I am
 Are you really feeling fine
-Ooh thinking about you girl
+Oh thinking about you girl
 
 There's gotta be a place for me
 Somewhere in your heart
@@ -183,4 +183,4 @@ All alone tonight i'm calling out your name
 Somewhere deep inside this part of you remains
 Images of love and where are you now
 Is someone there tonight holding what was mine
-You wonder where i am, i need you here tonight.
+You wonder where I am, I need you here tonight.

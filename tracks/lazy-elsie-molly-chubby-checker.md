@@ -50,7 +50,7 @@ A put the pack back on your back
 Lazy Lazy Elsie Molly
 Carry it on down to the railroad track
 Elsie Molly been a lookin' so fine
-She wont go to work in the mine
+She won't go to work in the mine
 She lays in bed till eight or nine
 That Lazy Elsie Molly
 Lazy Lazy Elsie Molly

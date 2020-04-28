@@ -87,7 +87,7 @@ You got me so delirious
 Oh, uh
 
 Why don't you stop playing games
-Ooh, boy
+Oh, boy
 Do you think you'll ever change
 
 Baby, I don't know what I should do

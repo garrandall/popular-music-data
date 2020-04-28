@@ -68,7 +68,7 @@ Just wanting you
 To come back home
 My days are nights
 And my nights are days
-Everything i do, child
+Everything I do, child
 Seems to turn out wrong
 
 When you are here
@@ -93,7 +93,7 @@ I feel so all alone
 
 I’m believing
 I love you so much
-How would i ever do
+How would I ever do
 Without your loving touch
 Yeah, yeah, yeah
 

@@ -123,9 +123,6 @@ Take me now but know the truth
 Lord, I never drew first but I drew first blood
 I'm the devil's son, call me young gun
 
-
-
-
 Each night I go to bed, I pray the Lord my soul to keep
 No, I ain't lookin' for forgiveness, but before I'm six foot deep
 Lord, I gotta ask a favor, and I'll hope you'll understand

@@ -101,7 +101,7 @@ In the cold November rain
 
 
 We've been through this such a long, long time
-Just tryna kill the pain, ooh yeah
+Just tryna kill the pain, oh yeah
 But lovers always come and lovers always go
 And no one's really sure who's lettin' go today, walkin' away
 If we could take the time to lay it on the line
@@ -116,8 +116,8 @@ In the cold November rain
 
 Do you need some time on your own?
 Do you need some time all alone?
-Ooh, everybody needs some time on their own
-Ooh, don't you know you need some time all alone?
+Oh, everybody needs some time on their own
+Oh, don't you know you need some time all alone?
 
 
 I know it's hard to keep an open heart
@@ -130,14 +130,11 @@ Wouldn't time be out to charm you, woah-woah
 
 Sometimes, I need some time on my own
 Sometimes, I need some time all alone
-Ooh, everybody needs some time on their own
-Ooh, don't you know you need some time all alone?
-
-
-
+Oh, everybody needs some time on their own
+Oh, don't you know you need some time all alone?
 
 And when your fears subside
-And shadows still remain, ooh yeah
+And shadows still remain, oh yeah
 I know that you can love me
 When there's no one left to blame
 
@@ -146,9 +143,6 @@ So, never mind the darkness
 We still can find a way
 'Cause nothin' lasts forever
 Even cold November rain
-
-
-
 
 Don't ya think that you need somebody?
 Don't ya think that you need someone?

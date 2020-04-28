@@ -86,7 +86,7 @@ Everything must change.
 (Every, everything, everything must change)
 
 I'm going back to the top to start myself off
-But first of all something's I need to know, ooh
+But first of all something's I need to know, oh
 When I'm scared of being wrong again
 Won't you be the one I turn to, to let me know
 Oh let me know, oh.

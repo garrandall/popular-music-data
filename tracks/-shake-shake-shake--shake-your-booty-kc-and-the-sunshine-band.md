@@ -93,7 +93,7 @@ rankings:
   start_date: '1976-11-27'
 ---
 
-Aah, everybody, get on the floor
+Ah, everybody, get on the floor
 Let's dance
 Don't fight the feeling
 Give yourself a chance
@@ -103,7 +103,7 @@ Shake your booty, shake your booty
 Oh, shake shake shake, shake shake shake
 Shake your booty, shake your booty
 
-Aah, You can, you can do it
+Ah, You can, you can do it
 Very well
 You're the best in the world
 I can tell
@@ -115,17 +115,17 @@ Shake your booty, shake your booty
 Woah, woah, yeah
 
 Shake shake, shake shake
-Aah, Shake shake, shake shake
+Ah, Shake shake, shake shake
 
-Aah, Shake shake shake, shake shake shake
+Ah, Shake shake shake, shake shake shake
 Shake your booty, shake your booty
 Oh, shake shake shake, shake shake shake
 Shake your booty, shake your booty
 
-Aah, Shake shake, shake shake, shake your booty
-Aah, don't fight the feeling
+Ah, Shake shake, shake shake, shake your booty
+Ah, don't fight the feeling
 Shake shake, shake shake, shake your booty
-Aah, give yourself a chance
+Ah, give yourself a chance
 
 Shake shake, shake shake, shake your booty
 You can do it, do it
@@ -135,10 +135,10 @@ Come home with mama now
 Shake shake, shake shake, shake your booty
 Woo woo hoo
 Shake shake, shake shake, shake your booty
-Aah, run down to sister
+Ah, run down to sister
 
 Shake shake (come on), shake shake (come on) on your booty
-Aah! do your duty. Aah haa
+Ah! do your duty. Ah haa
 Shake shake (come on), shake shake (come on)
 
 

@@ -93,7 +93,7 @@ Gotta have it I'm a grab it, it's a habit automatic like uzi, with the sick flow
 Make a chick go crazy and flash them ta-ta's it's redfoo the dude a true party rockaaaah
 
 I'm true to the game too, it's called beerpong and I can't lose I got a bunch of bad bitches in the back
-With ciroc on tap and a little bit of Grey Goose oooo
+With ciroc on tap and a little bit of Grey Goose oo
 Oh yeah we killin shit with our money
 We diligent so here's a sorry in advance no hard feelings bitch
 Sorry for party rocking

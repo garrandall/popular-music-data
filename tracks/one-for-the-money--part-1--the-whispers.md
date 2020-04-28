@@ -97,7 +97,7 @@ One for the money, well well
 Two for the show
 Three to get ready
 Hey, hey
-Aah
+Ah
 Oh, come on now
 Three to get ready
 Let yourself go, go go

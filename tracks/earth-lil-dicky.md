@@ -225,7 +225,7 @@ We love the Earth, it is our planet
 We love the Earth, it is our home
 We love the Earth, it is our planet
 We love the Earth, it is our home
-(Ooh, ooh, ooh, ah, ah, ah, ah, ah! Woo, hoo, hoo!)
+(Oh oh oohah, ah, ah, ah, ah! Woo, hoo, hoo!)
 
 
 (Guys, thank you so much)

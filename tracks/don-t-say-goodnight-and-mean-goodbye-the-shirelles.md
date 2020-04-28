@@ -44,12 +44,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-08-10'
 ---
-The Shirelles
-Miscellaneous
-Don't Say Goodnight And Mean Goodbye
-Don't Say Goodnight and Mean Goodbye
-The Shirelles
-Written by Partee / D'Angelis
+
 Tonight you're actin' strange I find
 And you got something on your mind
 Something's wrong, I can see it
@@ -75,4 +70,3 @@ Don't say goodnight and mean goodbye
 Whoa oh oh baby
 Don't say goodnight and mean goodbye
 Oh oh oh, don't say goodnight and mean goodbye
-From: David cassells

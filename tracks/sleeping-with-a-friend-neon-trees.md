@@ -84,11 +84,11 @@ I better look back carefully
 ‘Cause this is trouble, yeah this is trouble
 
 
-I said ooh, ooh
+I said oh, oh
 You got me in the mood, mood
 I’m scared, but if my heart’s gonna break
 Before the night will end
-I said, ooh, ooh we’re in danger
+I said, oh, oh we’re in danger
 Sleeping with a friend, sleeping with a friend
 Sleeping with a friend
 
@@ -105,13 +105,13 @@ But if it was all up to me
 I’d be no trouble, hey, we’re in trouble
 
 
-I said ooh, ooh
+I said oh, oh
 You got me in the mood, mood
 I’m scared, but if my heart’s gonna break
 Before the night will end
-I said, ooh, ooh we’re in danger
+I said, oh, oh we’re in danger
 Sleeping with a friend
-Ooh, ooh we’re in danger
+Oh, oh we’re in danger
 Sleeping with a friend
 
 All my friends

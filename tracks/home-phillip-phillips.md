@@ -188,9 +188,9 @@ Cause I'm gonna make this place your home
 
 Ooo-oo-oo-oo-oo-oo-oo. Oo-oo-oo-oo
 Ooo-oo-oo-oo-oo-oo-oo
-Aaa-aa-aa-aa-aa-aa-aa. Aa-aa-aa-aaaaaa
+Aaa-aa-aa-aa-aa-aa-aa. Aa-aa-aa-aa
 Aaa-aa-aa-aa-aa-aa-aa
-Aaa-aa-aa-aa-aa-aa-aa. Aa-aa-aa-aaaaaa
+Aaa-aa-aa-aa-aa-aa-aa. Aa-aa-aa-aa
 Aaa-aa-aa-aa-aa-aa-aa
 Aaa-aa-aa-aa-aa-aa-aa
 
@@ -206,15 +206,15 @@ Just know you're not alone
 Cause I'm gonna make this place your home
 
 
-Aaa-aa-aa-aa-aa-aa-aa. Aa-aa-aa-aaaaaa
+Aaa-aa-aa-aa-aa-aa-aa. Aa-aa-aa-aa
 Aaa-aa-aa-aa-aa-aa-aa
 Aaa-aa-aa-aa-aa-aa-aa
-Aaa-aa-aa-aa-aa-aa-aa. Aa-aa-aa-aaaaaa
-Aaa-aa-aa-aa-aa-aa-aa
-
-
+Aaa-aa-aa-aa-aa-aa-aa. Aa-aa-aa-aa
 Aaa-aa-aa-aa-aa-aa-aa
 
 
-Aaa-aa-aa-aa-aa-aa-aa. Aa-aa-aa-aaaaaa
+Aaa-aa-aa-aa-aa-aa-aa
+
+
+Aaa-aa-aa-aa-aa-aa-aa. Aa-aa-aa-aa
 Aaa-aa-aa-aa-aa-aa-aa

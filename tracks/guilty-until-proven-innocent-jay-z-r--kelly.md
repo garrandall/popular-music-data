@@ -51,7 +51,7 @@ I am the one
 Uh-huh, okay, I see how we playin
 
 Yeah, I get it down - anxiously the public can't wait
-Niggaz had to have it way before it's release date
+Niggas had to have it way before it's release date
 Jigga get irate, press get it fucked up
 Took me one point eight but I had to get it straight
 Get the CD, twelve inch vinyl, get the tape
@@ -60,13 +60,13 @@ I get it down, get it krunk when I get in the state of mind
 that what's mine is mine, nobody get to take
 I don't bend, break, fold, scratch, go down
 My mental rolodex see these words? I just don't know
-I know stress, drama, niggaz upsettin my mama
+I know stress, drama, niggas upsettin my mama
 Arrested, put in the lineup, tryin to put dents in my armor
 But I'm a survivor, plus I'm liver than most
 Out on bail, fifty thou', still ridin with toast
-I ain't tryin to collide with folk, 
+I ain't tryin to collide with folk,
 but I don't want folk takin Jigga for joke
-I guess you niggaz just woke - good morning!
+I guess you niggas just woke - good morning!
 
 
 You can't touch me, no you can't touch me
@@ -93,7 +93,7 @@ Got big money, big lawyers to fight it
 Just like Cochran, cocksuckers you never see me boxed in
 Y'all all knnow it, Jigga's a fighter
 Plus I'm clausterphobic, back on the streets before you know it
-And my word niggaz, I heard you niggaz
+And my word niggas, I heard you niggas
 I'm address each and every one of you cocksuckers
 Fuck the white press, the block love us, hip-hop forever
 B.I.G. is here, the soul of Tupac hovers - above us
@@ -160,7 +160,7 @@ I got, all my, mamis
 Tell me, what you, want from me
 So tell me, what you, want from me
 Y'all, cats, can't touch me
-Y'all, niggaz, can't touch me
+Y'all, niggas, can't touch me
 Jigga, Kelly, not guilty
 Jigga, Kelly, not guilty
 I got, all, my mamis

@@ -105,7 +105,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-12-22'
 ---
-Hmm-mmm-mmm
+Hm-mmm-mmm
 Whoa-oh-oh-oh
 It's always a good time
 Whoa-oh-oh-oh
@@ -114,7 +114,7 @@ It's always a good time
 
 Woke up on the right side of the bed
 What's up with this Prince song inside my head?
-Hands up, if you're down to get down tonight (Hmm-mmm-mmm)
+Hands up, if you're down to get down tonight (Hm-mmm-mmm)
 'Cause it's always a good time
 Slept in all my clothes, like I didn't care
 Hopped into a cab, take me anywhere

@@ -109,7 +109,7 @@ Just remember what I told you
 The day I set you free
 
 
-Ain't no mountain high enough, aah
+Ain't no mountain high enough, ah
 Ain't no valley low enough
 Ain't no river wide enough
 To keep me from you

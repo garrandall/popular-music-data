@@ -120,7 +120,7 @@ I got the shaft (I got the shaft)
 They split it all down the middle
 And then they give her the better half
 Well, I guess it all sounds funny
-(Ahh, ha ha ha)
+(Ah, ha ha ha)
 But it hurts too much to laugh
 She got the goldmine, I got the shaft
 

@@ -80,6 +80,3 @@ And I say, baby, pretty little baby
 Don't leave me
 Baby, pretty little baby
 
-
-
-

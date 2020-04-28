@@ -26,11 +26,11 @@ Leaving me (leaving me)
 Dippin' out on me (on me)
 Already got what you needed, I guess
 Quickly (quickly) learned yourself through me (through me)
-Already gave you what you needed, I guess (ooh, yeah)
+Already gave you what you needed, I guess (oh yeah)
 I guess, (yeah) yeah
-That's why I'm not with nobody (ooh, yeah)
-'Cause I don't wanna hurt nobody (ooh, yeah)
-Did it over text, didn't call me (ooh, yeah)
+That's why I'm not with nobody (oh yeah)
+'Cause I don't wanna hurt nobody (oh yeah)
+Did it over text, didn't call me (oh yeah)
 Still got love for you, mami
 I know you wanna be somebody (body)
 Even if you gotta leave somebody, yeah
@@ -41,19 +41,19 @@ I wanna be around while you chasin' (while you chasin' it)
 You wanna hit me up when you make it
 You'll try and come back when you famous
 I always want the truth, but it's dangerous (dangerous, oh)
-You got something real, not basic (ooh, yeah)
+You got something real, not basic (oh yeah)
 You wanna get with me, stop
 Yes I'm hurting, yes I'm jaded (jaded)
 Most of these things, I don't wanna say (say)
 I wanna be around while you chasin' (wanna be around, wanna be around)
-You wanna hit me up when you make it (ooh, yeah)
+You wanna hit me up when you make it (oh yeah)
 You'll try and come back when you famous (back around, back around)
 I always want the truth, but it's dangerous (dangerous)
 You got something real, not basic
 You wanna get with me, stop (playin')
 
 Yeah
-Dogs on this side, dogs over on this side (ooh, yeah, ooh, yeah, ooh, yeah)
+Dogs on this side, dogs over on this side (oh yeah, oohyeah, ohoheah)
 Ayy
 Told me about all your insecurities, for what?
 Dragged me like two hours to your family's house, for what?
@@ -74,7 +74,7 @@ Lord knows you still look amazing
 That's besides the point I'm making
 You're way too opinionated, have to force it, have to fake it
 You have potential, I could've shaped it
-You went and caved in (ooh, yeah)
+You went and caved in (oh yeah)
 We could've waited
 I wasn't rushing
 Differences in ages

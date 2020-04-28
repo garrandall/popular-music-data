@@ -64,7 +64,7 @@ Came from the bottom, they don't even know, this money got 'em starin' (Let's go
 (Mmh, that Lil Top), yeah, mmh, that Lil Top now
 Mmh, that Lil Top, yeah, mmh, that Lil Top, yeah
 Mmh, that Lil Top, heard that, mmh, that Lil Top, yeah
-That Lil Top, uh, hmm, that Lil Top, yeah
+That Lil Top, uh, hm, that Lil Top, yeah
 
 
 Pistol totin' while swervin' in a Rolls-Royce, yeah
@@ -86,7 +86,7 @@ Get out of line, we smush your brains back, that murder shit be urgent
 Lil Top, yeah, mmh, that Lil Top now
 Mmh, that Lil Top, yeah, mmh, that Lil Top, yeah
 Mmh, that Lil Top, heard that, mmh, that Lil Top, yeah
-That Lil Top, uh, hmm, that Lil Top, yeah
+That Lil Top, uh, hm, that Lil Top, yeah
 
 
 Pistol totin' while swervin' in a Rolls-Royce, yeah

@@ -120,14 +120,8 @@ Oh, didn't I, didn't I, didn't I see you cryin'?
 Feelin' all alone without a friend, you know you feel like dyin'
 Oh, didn't I, didn't I, didn't I see you cryin'?
 
-
-
-
 Feelin' all alone without a friend, you know you feel like dyin'
 Oh, didn't I, didn't I, didn't I see you cryin'?
-
-
-
 
 I want you to want me
 I need you to need me

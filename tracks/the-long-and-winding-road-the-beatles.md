@@ -69,9 +69,6 @@ You left me standing here a long, long time ago
 Don't leave me waiting here
 Lead me to your door
 
-
-
-
 But still they lead me back to the long and winding road
 You left me standing here a long, long time ago
 Don't keep me waiting here (Don't keep me waiting)

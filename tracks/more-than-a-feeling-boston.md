@@ -109,9 +109,6 @@ I begin dreaming (more than a feeling)
 'Till I see Marianne walk away
 I see my Marianne walkin' away
 
-
-
-
 When I'm tired and thinking cold
 I hide in my music, forget the day
 And dream of a girl I used to know

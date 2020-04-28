@@ -1,7 +1,7 @@
 ---
 artists:
 - Knoc-Turn'Al With Dr. Dre
-- Missy "Misdemeanor" Elliott
+- Missy Elliott
 features: []
 genres: []
 key: knoc-knoc-turn-al-with-dr--dre-missy--misdemeanor--elliott

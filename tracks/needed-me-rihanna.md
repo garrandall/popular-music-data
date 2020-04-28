@@ -211,10 +211,10 @@ Never told you you could have it
 
 
 You needed me
-Ooh, you needed me
+Oh, you needed me
 To feel a little more, and give a little less
 Know you hate to confess
-But baby ooh, you needed me
+But baby oh you needed me
 
 
 You been rollin' around, shit I'm rollin' up
@@ -237,7 +237,7 @@ Never told you you could have it
 
 
 You needed me
-Ooh, you needed me
+Oh, you needed me
 To feel a little more, and give a little less
 Know you hate to confess
-But baby ooh, you needed me
+But baby oh you needed me

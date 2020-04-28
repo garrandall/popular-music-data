@@ -26,7 +26,7 @@ rankings:
 ---
 Do you like philosophy
 What are your political views
-Ooh, ooh
+Oh, oh
 I really think that I could
 Learn a lot from you
 Oh, oh
@@ -41,13 +41,13 @@ I don't want your body
 I only want you
 I really only want you
 For your mind
-Ooh, ooh
+Oh, oh
 For your mind
-Ooh, ooh
+Oh, oh
 
 Do you like to meditate
 Do you plan a life of dreams
-Ooh, ooh
+Oh, oh
 You know all the other guys
 Only want one thing
 
@@ -58,7 +58,7 @@ I don't want your body
 I only want
 I really only want you
 For your mind
-Ooh, ooh
+Oh, oh
 For your mind
 
 Even though lookin' that good
@@ -74,15 +74,15 @@ I only want you
 I really only want you
 And I really only want you
 For your mind
-Ooh, ooh
+Oh, oh
 For your mind
-Ooh, ooh
+Oh, oh
 
 Even though lookin' that good
 Should be a crime
 I really only want you
 For your mind
-Ooh, ooh
+Oh, oh
 For your mind
 
 Other guys want more
@@ -92,4 +92,4 @@ For your mind, yeah, yeah
 
 Even though lookin' that good
 Should be a crime, yeah
-Ooh, ooh
+Oh, oh

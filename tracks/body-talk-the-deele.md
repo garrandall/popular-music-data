@@ -95,7 +95,7 @@ Say baby, what's that you're doin'?
 Well, it looks like your body is talkin' to me
 I'm hearin' something, what's that?
 Go on, get it, girl
-(Ooh)
+(Oh)
 
 Sexy body, sure looks good to me
 (Body talk with me)
@@ -131,7 +131,7 @@ Talk body to me, body talk, oh
 Mmm, there she is again
 I wonder what she's tryin' to say to me
 B O D Y T A L K, talk baby
-(Ooh)
+(Oh)
 
 Body talk
 Talk body to me, body talk

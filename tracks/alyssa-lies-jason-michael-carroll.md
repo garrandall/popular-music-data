@@ -91,7 +91,7 @@ I know she needs you bad
 
 I had the worst night of sleep in years
 As I tried to think of a way to calm her fears
-I knew exactly what i had to do
+I knew exactly what I had to do
 But when we got to school on Monday I heard the news
 
 My little girl asked me why everybody looked so sad

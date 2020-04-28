@@ -83,7 +83,7 @@ Tell me when was the last time, you brought her roses home from work.
 Tell me when was the last time, you rubbed her feet when she said they hurt.
 Tell me when was the last time, you bought a card to tell her how you feel.
 Don't even know when was the last time, you lit a candle for a late night meal.
-Tell me, 
+Tell me,
 
 How long will it be before you treat her like your queen.
 And how long will it take, before she starts coming home too late.
@@ -110,8 +110,4 @@ See I know what I'm talking about.
 
 
 (You better run to her)
-
-
-
-
 

@@ -70,7 +70,7 @@ Please let me try again
 I was such a fool to doubt you
 To try and go it all alone
 There's no sense to life without you
-Now all i do is just exist
+Now all I do is just exist
 And think about the chance ive missed
 To beg is not an easy task
 But pride is such a foolish mask

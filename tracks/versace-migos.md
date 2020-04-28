@@ -50,7 +50,7 @@ I set the trend, you niggas copy
 Cooking the dope, like I work at Hibachi
 Lookin and watching, blow it, hot like some Taki
 Come in my room, my sheet Versace
-When i go to sleep, I dream Versace
+When I go to sleep, I dream Versace
 Medusa, Medusa, Medusa
 These niggas, they wishing they knew ya
 They coppin' the Truey, remixing the Louie

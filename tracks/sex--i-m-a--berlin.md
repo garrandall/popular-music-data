@@ -62,7 +62,7 @@ And we make love together
 
 And we make love together
 
-Skin to skin, tongue to oooh! Come on honey hold tight
+Skin to skin, tongue to oh! Come on honey hold tight
 Come inside, it's a passion play just for you
 Let's get lost in that magic place all alone now
 Drink your fill from my fountain of love, wet your lips

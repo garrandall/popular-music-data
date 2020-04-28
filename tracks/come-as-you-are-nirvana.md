@@ -110,9 +110,6 @@ And I swear that I don't have a gun
 No, I don't have a gun
 No, I don't have a gun
 
-
-
-
 Memoria
 Memoria
 Memoria (No, I don't have a gun)

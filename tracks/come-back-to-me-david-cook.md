@@ -132,10 +132,10 @@ I'll be right here waiting to see
 When you find you, come back to me
 
 
-Ah, ooo
-Ah, ooo
+Ah, oo
+Ah, oo
 When you find you, come back to me
-Ah, ooo
-Ah, ooo
+Ah, oo
+Ah, oo
 When you find you, come back to me
 When you find you, come back to me

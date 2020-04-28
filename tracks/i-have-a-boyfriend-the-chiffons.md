@@ -74,13 +74,13 @@ And I know I'll never let him go
 I have a boyfriend
 (Boom-sh-boom)
 (Boom)
-(Whoo-eee-whoo)
+(Whoo-ee-whoo)
 We'll never say goodbye
 (Boom-sh-boom)
 (Boom-sh-boom)
 He made a promise
 (Boom)
-(Whoo-eee-whoo)
+(Whoo-ee-whoo)
 He'll never make me cry
 (Boom-sh-boom)
 

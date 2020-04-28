@@ -54,9 +54,6 @@ Feeling you so close to me
 Hey hey, crazy love
 Talkin' about that crazy love
 
- (3x)
-
-
 Oh, crazy love!
 Crazy love
 Oh yeah

@@ -117,9 +117,6 @@ And when you're high, you never
 Ever want to come down
 So down, so down, so down, yeah!
 
-
-
-
 You know where you are?
 You're in the jungle, baby
 You're gonna die

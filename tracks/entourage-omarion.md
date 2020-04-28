@@ -29,7 +29,7 @@ rankings:
   start_date: '2006-09-23'
 ---
 
-Shh!!
+Shh!
 Girl, girl, girl, girl, girl, girl, girl
 All I can say is
 Girl, girl, girl, girl, girl, girl, girl
@@ -84,8 +84,4 @@ That you are (so beautiful)
 Be my girl (I wanna take it to the top)
 Share my world (all the way to the top, yeah!)
 Come on girl (Whoo! Super fly chick)
-
-
-
-
 

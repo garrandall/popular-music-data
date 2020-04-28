@@ -111,8 +111,8 @@ I'll hit the spot
 (Hit the spot)
 
 In the name of love
-Ooh, everything I've got
-Ooh Ooh Ooh
+Oh, everything I've got
+Oh Oh Oh
 
 Ow!
 
@@ -154,7 +154,7 @@ I won't quit, no
 (Freakish to me)
 Until I blow your mind
 I'm compatible as ever
-Ooh
+Oh
 I'll hit the spot
 Oh, in the name of love
 (Something freakish, baby)
@@ -162,7 +162,7 @@ In the name of love
 In the name of love
 In the name of love
 In the name of love
-Ooh, in the name of love
+Oh, in the name of love
 (Freakish, baby)
 
 (Freakish, baby)

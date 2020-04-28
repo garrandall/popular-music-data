@@ -39,11 +39,11 @@ I wonder if you're aware
 That I'm thinking of you, can't you see
 You're the only one in my fantasy
 
-Ooh-ooh, it must be heaven in your arms
+Oh-oh it must be heaven in your arms
 I don't doubt it now
-Ooh-ooh, it must be heaven in your arms
+Oh-oh it must be heaven in your arms
 I need to know it now
-Ooh-ooh, it must be heaven in your arms
+Oh-oh it must be heaven in your arms
 Oh yeah
 
 I'm alone, don't want no one else
@@ -54,21 +54,21 @@ But you say you're too busy
 You gotta run out in the night
 Come my way, I'll hold you tight
 
-Ooh-ooh, it must be heaven in your arms
+Oh-oh it must be heaven in your arms
 I don't doubt it now
-Ooh-ooh, it must be heaven in your arms
+Oh-oh it must be heaven in your arms
 I need to know, whoa
 
-Ooh-ooh
-Ooh-ooh
+Oh-oh
+Oh-oh
 (Ah-ah-ah)
 
-Ooh, I can live forever
+Oh, I can live forever
 In a moment of your love
 You said I seem like a long lost, lonely boy
 But you know what I'm in need of (it must be heaven in your arms)
 It must be heaven in your arms (must be heaven in your arms)
-Ooh, it must be heaven in your arms (must be heaven in your arms)
+Oh, it must be heaven in your arms (must be heaven in your arms)
 It must be heaven in your arms (must be heaven in your arms)
 I believe, I believe, it must be heaven, don't you know
 

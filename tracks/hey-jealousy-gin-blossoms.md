@@ -132,9 +132,6 @@ The past is gone but something might be found
 To take its place
 Hey jealousy
 
-
-
-
 Tomorrow we can drive around this town
 And let the cops chase us around
 The past is gone but something might be found

@@ -77,6 +77,6 @@ And he said, let's forget about the bullfrog legs
 And go out and steal us some chickens
 
 And Ol' Roosevelt said like this now
-Yeah, yeah, ooh, it sure would taste good
+Yeah, yeah, oh it sure would taste good
 Yes it would, I love a chicken
 Oh, the river was dark and muddy, yeah

@@ -46,8 +46,8 @@ She's smooth and she's skinny and she's probably mean
 Easy driver, pull up beside her, roll down the window on this fine machine
 
 
-(Ooh ooh ooh) don't turn away, (ooh ooh ooh) just give me a sign
-(Ooh ooh ooh) don't be afraid, (ooh ooh) love is so hard to find
+(Oh ohoohdon't turn away, (ohoh oh oht give me a sign
+(Oh ohoohdon't be afraid, (ohoh)ohve is so hard to find
 Easy driver, get on up beside her, she don't drive like she knows the way
 Easy driver, road's getting wider
 

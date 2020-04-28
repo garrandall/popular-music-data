@@ -17,7 +17,7 @@ rankings:
 
 Oh, you don't compare, don't fit in with 'em, do you get me?
 Judgin' by the way you open up, you get me
-Ooh, out of this world, hands on, baby, now you send me
+Oh, out of this world, hands on, baby, now you send me
 Lookin' at the way we're blendin' in, you get me
 
 Ha-ha-how you get me
@@ -32,14 +32,14 @@ Never thought I'd connect with you, not in these circumstances
 
 Oh, you don't compare, don't fit in with 'em, do you get me?
 Judgin' by the way you open up, you get me
-Ooh, out of this world, hands on, baby, now you send me
+Oh, out of this world, hands on, baby, now you send me
 Lookin' at the way we're blendin' in, you get me
 
 Ha-ha-how you get me
 Ha-ha-how you get me
 
 
-Ooh, there's so much chemistry
+Oh, there's so much chemistry
 Like a chemist how you finishin' my sentences
 In the center, no, we can't deny the synergy
 How 'bout reapin' all the benefits? Yeah
@@ -48,11 +48,11 @@ Never thought I'd connect with you, not in these circumstances, no
 
 
 Oh, you don't compare, don't fit in with 'em, do you get me?
-Judgin' by the way you open up, you get me (Yeah, you really get me, ooh, ooh)
-Ooh, out of this world, hands on, baby, now you send me (Ooh, that's where you send me)
-Lookin' at the way we're blendin' in, you get me (Ooh, you really get me)
+Judgin' by the way you open up, you get me (Yeah, you really get me, oh oh
+Oh, out of this world, hands on, baby, now you send me (Oh, that's where you send me)
+Lookin' at the way we're blendin' in, you get me (Oh, you really get me)
 
-Ha-ha-how you get me (Oo-oo-oo-oo-oo-ooh)
+Ha-ha-how you get me (Oo-oo-oo-oo-oo-oh
 Ha-ha-how you get me (Ye-e-e-e-e-e-ah)
 
 Oh, get me, yeah

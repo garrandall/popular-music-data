@@ -32,27 +32,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-10-26'
 ---
-Ooh, yeah, yeah, hey
+Oh, yeah, yeah, hey
 
 
 Such a long time (Wow)
 I've been waitin', I've been waitin' for a long time (Yeah)
 Such a long time
 I've been waitin', I've been waitin' for a long time (Yeah)
-Such a long time (Ooh)
+Such a long time (Oh)
 
 
-Ooh, this shit bliss, I'm so rich (Turnt as shit, ooh)
-Abs like Abercrombie Fitch (Damn, ooh)
+Oh, this shit bliss, I'm so rich (Turnt as shit, oh)
+Abs like Abercrombie Fitch (Damn, oh)
 Mille, on my (Whoa, wrist, wrist)
 Versace boxers on my dick (On my dick, damn)
-Bud Light runnin' through my piss (Ooh)
+Bud Light runnin' through my piss (Oh)
 On a yacht, 50 meters, it's offish (It's official)
 50 carats on my fist (On my fist)
-The roof go down when I hit switch (Ooh, bitch)
+The roof go down when I hit switch (Oh, bitch)
 I money ball like Bradley Pitt (Bradley Pitt, ayy)
 I worked so hard for all this shit (All this shit)
-Pumpin' out classics (Ooh)
+Pumpin' out classics (Oh)
 In the Batmobile, goin' bat shit
 
 
@@ -73,7 +73,7 @@ One, two, three, four, five, six (Damn)
 Shit, I'm checking off my bucket list (My bucket list)
 You try to give advice, I don't need it
 I've been doin' what I want since fetus
-What you call a holiday (Ooh), I call another day (Yeah)
+What you call a holiday (Oh), I call another day (Yeah)
 And I ain't ever stoppin', no apologies
 
 

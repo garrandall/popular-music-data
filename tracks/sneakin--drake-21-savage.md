@@ -125,7 +125,7 @@ Put me in all fucked up position
 Make me call my bros, for assistance
 Make me call my bro
 
-I dont need love I'm the goat
+I don't need love I'm the goat
 I just hit the beat and float
 And I'm selling out arenas, but you putting on a show
 I been trynna change life around for everyone I know

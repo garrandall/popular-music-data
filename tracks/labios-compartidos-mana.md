@@ -78,7 +78,7 @@ Que me entierre al olvido, mi amor
 Pero no puedo más compartir tus labios
 Compartir tus besos...
 Labios compartidos
-Ooh oh yeah!
+Oh oh yeah!
 
 
 Te amo con toda mi fe sin medida

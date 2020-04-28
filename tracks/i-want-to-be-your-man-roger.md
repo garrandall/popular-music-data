@@ -95,7 +95,7 @@ rankings:
 Hey lady
 Let me tell you why I
 I can't live my life without you
-(Ooooh baby)
+(Oh baby)
 Everytime I see you walkin by I cannot think
 You don't notice me, but in time you will
 I must make you understand
@@ -113,7 +113,7 @@ Wanna be your man
 
 Better not pass me by
 'Cause if you do you'll lose good thing (thing)
-(Oooh baby)
+(Oh baby)
 'Cause what I gotta say
 Is sealed with a kiss
 And a wedding ring (wedding ring)
@@ -137,7 +137,7 @@ Wanna be your man
 
 Words can never say what I feel
 It's too intense
-(ooh-ooh-ooh-ooh-oh)
+(ohoohhoh-oh
 I tried, I tried, I tried, I tried
 To tell you how I feel
 But I get mixed up (so mixed up)

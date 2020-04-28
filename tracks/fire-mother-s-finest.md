@@ -25,9 +25,9 @@ Brother man we got to be free now from the
 (Fire) - Fire
 (Fire)
 
-Ooh ooh ooh ooh
+Oh ohoohhoh
 Well you better be careful 'bout the things you do
-'Cause somebodies watching you-ooh ooh ooh ooh
+'Cause somebodies watching you-ohoohhohoh
 
 You can run to the jungle (You can't hide)
 Run to the city (Oh you can't hide)
@@ -38,10 +38,10 @@ But ya ... can't get away from it, can't get away from the
 (Fire) The flaming
 (Fire) Ah ah
 
-Ooh ooh ooh ooh
+Oh ohoohhoh
 Well well well
 Well you betta be careful 'bout the things you do
-'Cause somebodies watching you-ooh ooh ooh ooh
+'Cause somebodies watching you-ohoohhohoh
 
 Betta be careful 'bout the things you do
 Somebody's watching you you you you you yeah
@@ -68,7 +68,7 @@ Can't away from the burning burning (Uh uh uh uh uh uh uh)
 (Fire) ... fire
 (Fire) ... fire
 (Fire) ... fire
-(Fire) ... oh oh oh ohhhh
+(Fire) ... oh oh oh oh
 (Fire) ... fire
 (Fire) ... fire
 (Fire) ... fire

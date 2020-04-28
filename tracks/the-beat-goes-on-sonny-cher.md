@@ -80,7 +80,3 @@ The cars keep going faster all the time
 Bums still cry, "Hey buddy,
 have you got a dime?"
 
-
-
-
-

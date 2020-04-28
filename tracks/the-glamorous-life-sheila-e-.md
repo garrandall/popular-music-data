@@ -182,7 +182,7 @@ She wants to lead the glamorous life
 She don't need a man's touch
 She wants to lead the glamorous life
 Without love it ain't much, it ain't much
-Ooh, oh
+Oh, oh
 
 
 

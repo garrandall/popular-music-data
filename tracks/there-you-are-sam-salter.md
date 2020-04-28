@@ -63,9 +63,8 @@ You've been by my side
 And when the world outside
 Is feeling so unkind
 You were there to pick me up
-Oh, how i need your smile
+Oh, how I need your smile
 
-(CHORUS):
 Whenever I fall
 There you are
 I know that my pain
@@ -84,8 +83,6 @@ That always follows me
 You always seem to be right there
 You're like an angel by my side
 
-Repeat chorus
-
 Unconditional loving
 Is what you've given me
 Your heart is all that I want to know
@@ -94,5 +91,5 @@ I'll stay by your side
 Cause you are the light
 In my heart
 And in my life
-Oh whenever i look
+Oh whenever I look
 And there you are

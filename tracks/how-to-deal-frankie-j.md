@@ -122,7 +122,7 @@ How do you deal when you can't be with
 the one you love but the one you love is
 with somebody else
 What do you do when you know she don't love him
-but she love me but she cant stand lovin' you faraway
+but she love me but she can't stand lovin' you faraway
 you just deal with it,deal with it
 (I don't wanna have to live with it)
 you just deal with it,deal with it
@@ -136,7 +136,7 @@ you just deal with it,deal with it
 
 How do you cope when
 The one you love is with somebody else
-And there's nothing you could do about it.......
+And there's nothing you could do about it...
 
 
 

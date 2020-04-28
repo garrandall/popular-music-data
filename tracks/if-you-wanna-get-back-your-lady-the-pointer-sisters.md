@@ -37,7 +37,7 @@ You know you got to tell her so, yes, you do
 If you wanna get back your lady
 Communicate for real, hey baby
 Or ain't no way your lady's gonna find out
-How you really feel, ooh
+How you really feel, oh
 
 I was a young shy girl
 I thought I found my world in you the day we met
@@ -80,7 +80,7 @@ You know you got to tell her so, yes, you do
 If you wanna get back your lady
 Communicate for real, hey baby
 Or ain't no way your lady's gonna find out
-How you really feel, ooh
+How you really feel, oh
 
 If you wanna get back your lady
 Yeah, yeah, yeah, oh baby

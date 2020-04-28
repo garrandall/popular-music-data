@@ -65,7 +65,7 @@ rankings:
   start_date: '1976-12-18'
 ---
 Nasty, you're nasty
-Ooh, that was nasty
+Oh, that was nasty
 
 Strange things are
 Running through your mind
@@ -77,7 +77,7 @@ You're a disgrace, let's face it
 You're nasty
 
 Nasty, you're nasty
-Ooh, that was nasty
+Oh, that was nasty
 
 You stop and watch them as they dance
 You say you're looking for romance

@@ -60,7 +60,7 @@ rankings:
 My arms reach out for you I kiss you tenderly
 But when you touch my lips you're kissing him not me, why must it be
 Half heaven, half heartache, my lovin' you, darlin'
-Can't you forget that other love you knew, hmm
+Can't you forget that other love you knew, hm
 
 Within your angel eyes a world of dreams are there
 Yet I'll keep wondering if they are mine to share, oh it's just not fair

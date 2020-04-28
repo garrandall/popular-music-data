@@ -29,14 +29,14 @@ rankings:
   start_date: '1995-12-09'
 ---
 
-South suicide Queens....all niggaz
+South suicide Queens...all niggas
 gather up all your arms
 and get ready for this new world order
 shit is about to change-muther fucker
 
 
 I'm America's nightmare
-young black and just dont give a fuck
+young black and just don't give a fuck
 I just want to get high and live it up
 so fuck in '95
 and why you tryin to slave us
@@ -139,8 +139,8 @@ I'ma start selling drugs around my way
 killin my own people in the USG
 shit they gonna get it from somebody
 I'd rather it be me
-besides...you cant tax dirty money
-and you cant trust nobody (nobody)
+besides...you can't tax dirty money
+and you can't trust nobody (nobody)
 no one (no one)
 I'm the scorpion
 and I'll probably bite the bullet
@@ -154,7 +154,7 @@ its life on the edge of dangerous
 where you living
 never giving a shit
 cause we living in it
-in South suicide Queens where niggaz act up
+in South suicide Queens where niggas act up
 nigga back up
 official nas-throw your fucking gats up
 its life on the edge of dangerous
@@ -163,7 +163,7 @@ never giving a shit
 cause we living in it
 we never giving a shit
 cause we living in it
-official nas mother fuckers dont give a shit
+official nas mother fuckers don't give a shit
 word up
 
 

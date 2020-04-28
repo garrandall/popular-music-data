@@ -46,14 +46,14 @@ We both climb down, and cross the sand
 Until we reach the sea
 And the waves come higher, higher
 As we sway and dance
-And the way i feel, makes me want to take a chance.
+And the way I feel, makes me want to take a chance.
 Chorus
 Sing a song of temma harbour
 Climb a coconut tree
 Catch a fish and light a fire
 Drink some wine with me
 And if you say you like me
-And i like you
+And I like you
 We can live and dream together
 In a world that's new
 Sunshine, sunshine,
@@ -64,6 +64,5 @@ The tide rolls in and on the wind
 The guitars begin to play
 And the waves come higher, higher
 As we sway and dance
-And the way i feel,
+And the way I feel,
 Makes me want to take a chance
-Chorus

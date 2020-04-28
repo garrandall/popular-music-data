@@ -13,9 +13,9 @@ rankings:
   start_date: '2011-01-08'
 ---
 
-I make her say ooh
-Ooh
-I make her say ooooooooh
+I make her say oh
+Oh
+I make her say oh
 
 I got the dirty old hands of a drummer in a band but I never really hit the sticks
 I got the sun burned tan of every working man who's spent a minute in a ditch
@@ -32,9 +32,9 @@ Woah, woah, woah-oh-oh
 This is now, that was then
 Forget all about the past and let's hit it again.
 
-I make her say ooh
-Ooh
-I make her say ooooooooh
+I make her say oh
+Oh
+I make her say oh
 
 She's eleven out of ten; got a body with a pin
 You could pull it like a hand grenade

@@ -72,7 +72,7 @@ Give me a feeling that's so divine, oh yeah
 When he goes away, I'm never, no, no, no, I'm never lonely
 Oh, cause I know that he thinks of me only
 And no matter, no matter, what my friends may say
-I'll keep on lovin him any way, ohhh, yes I will
+I'll keep on lovin him any way, oh, yes I will
 
 Oh, the love of my man
 Oh, early in the morning and late at night

@@ -81,5 +81,3 @@ I'm gonna walk like a man
 And talk like a man
 Walk like a man baby
 You can call me your man
-
-(repeat chorus again at end)

@@ -139,7 +139,7 @@ I guess I always will
 Girl, you’re my best friend
 Girl, you’re my love within
 I just want you to know that I will always love you
-Ooh, baby, ooh
+Oh baby, oh
 Tell me you’ll stay
 Never ever go away
 
@@ -149,7 +149,7 @@ I guess I always will
 Girl, you’re my best friend
 Girl, you’re my love within
 I just want you to know that I will always love you
-Ooh, baby
+Oh baby
 (Please don’t go, girl)
 I’m gonna always love you, girl
 
@@ -171,7 +171,7 @@ I guess I always will
 Girl, you’re my best friend
 Girl, you’re my love within
 I just want you to know that I will always love you
-Ooh, baby (Please don’t go, girl)
+Oh baby (Please don’t go, girl)
 Please don’t go, girl (Please don’t go, girl)
 Please don’t go, girl (Please don’t go, baby)
 Please don’t go, girl (Please don’t go, girl)

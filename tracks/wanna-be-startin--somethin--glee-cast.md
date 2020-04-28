@@ -32,8 +32,8 @@ I took my baby to the doctor
 With a fever but nothing he found
 By the time this hit the street
 They said she had a breakdown!
-( Aaah) Someone's always trying, to start my baby crying
-( Aaah) Talkin', squealin', lyin'
+( Ah) Someone's always trying, to start my baby crying
+( Ah) Talkin', squealin', lyin'
 Sayin' You just wanna be startin' somethin'
 
 
@@ -77,12 +77,12 @@ Ma ma se, ma ma se ma ma coo sa!
 Ma ma se, ma ma se ma ma coo sa!
 Ma ma se, ma ma se ma ma coo sa!
 
-Help Me Sing It, baby! 
+Help Me Sing It, baby!
 Hee Hee Hee!
 Yeah! Sing to the world! Sing it out loud!
 Help Me Sing It!
 
-Ma ma se, ma ma se ma ma coo sa! 
+Ma ma se, ma ma se ma ma coo sa!
 
 
 

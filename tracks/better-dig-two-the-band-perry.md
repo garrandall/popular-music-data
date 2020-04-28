@@ -124,7 +124,7 @@ If you go before I do
 I'm gonna tell the gravedigger that he better dig two
 
 Dig two
-Ooh, ooh
+Oh oh
 
 I took your name when I took those vows (took those vows)
 I meant 'em back then and I mean 'em right now,

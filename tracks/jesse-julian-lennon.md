@@ -40,9 +40,9 @@ You can't take it with you
 Jesse you're losing yourself
 
 
-Ooh don't be a fool again
+Oh don't be a fool again
 There may not be a next time
-Ooh, don't be a fool again, Jesse
+Oh, don't be a fool again, Jesse
 
 
 Jesse, there's a whole world out there

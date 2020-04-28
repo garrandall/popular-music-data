@@ -77,9 +77,6 @@ Go, go, go, go, go, go, go, go
 
 Make love, don't fight, let's hook tonight
 
-
-
-
 Let's hook tonight
 
 
@@ -103,9 +100,6 @@ Go, go, go, go, go, go, go, go
 
 
 Make love, don't fight, let's hook tonight
-
-
-
 
 Let's hook tonight
 

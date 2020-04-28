@@ -64,7 +64,7 @@ And hide my face from the sun
 Through the light of the day until the evening time
 I'm waiting for the night to c-c-c-come
 
-Ooh, baby
+Oh, baby
 
 
 In the still of the night
@@ -73,8 +73,8 @@ I feel my heart is aching
 In the still of the night
 
 
-Ooh, baby
-Ooh, babe
+Oh, baby
+Oh, babe
 I can't keep away
 Closer and closer, need to be closer
 I can't keep away, can't keep away, can't keep away
@@ -85,8 +85,8 @@ You can't keep away
 
 
 
-Ooh baby, ooh woman
-Ahh
+Oh baby, ohwoman
+Ah
 
 
 
@@ -98,7 +98,7 @@ Sniffing around your door
 In the still of the night, I feel my heart beating heavy
 Telling me I gotta have more
 
-Ooh! Mama
+Oh! Mama
 
 
 Now I just wanna get close to you
@@ -106,7 +106,7 @@ And taste your love so sweet
 And I just wanna make love to you
 Feel your body heat
 In the still of the night
-Ooh, yeah
+Oh, yeah
 
 
 In the still of the night

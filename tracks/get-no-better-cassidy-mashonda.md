@@ -100,16 +100,13 @@ You almost as cute as me.
 
 
 
-Mmmm wit yo sexy self go to my hotel and undress yourself and after we have sex
+Mmm wit yo sexy self go to my hotel and undress yourself and after we have sex
 Don't stress yourself I will respect you if you respect yourself girl it's whatever I get the
 Chedda when we get together it don't be no better and you can see I'm throwin' it cause my arm
-On chill it look like i spilled freon on it.
+On chill it look like I spilled freon on it.
 I make hella paper on the block that's why I'm bout
 To put a three story elevator in my yacht they going keep hating it boo, but keep holdin' me
 Down strong dis song dedicated to you.
-
-
-
 
 Baby I can't deny that I'm feeling you, the way that you look and the things you do.
 Knowing, knowing baby it don't whoa oh whoa it don't get no better
@@ -117,8 +114,4 @@ Knowing, knowing baby it don't whoa oh whoa it don't get no better
 
 
 I go by the name of Cassidy "da problem", me and mashonda
-
-
-
-
 

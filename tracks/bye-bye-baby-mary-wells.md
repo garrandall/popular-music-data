@@ -117,7 +117,7 @@ I don't want you baby, whoooo
 
 Bye bye baby, yeah
 (Bye bye bye)
-Bye bye baby, ohh
+Bye bye baby, oh
 (Bye bye bye)
 
 

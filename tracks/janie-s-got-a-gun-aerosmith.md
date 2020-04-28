@@ -119,9 +119,6 @@ Run away, run away from the pain, yeah yeah
 Yeah yeah yeah yeah yeah
 Run away, run away, run, run away
 
-
-
-
 Janie got a gun
 Janie's got a gun
 Her dog day's just begun

@@ -54,7 +54,7 @@ To move any mountain
 Let the music take control
 Let the music heal your soul
 
-(Nick Carter) Oooohh, Oh yes
+(Nick Carter) Oh, Oh yes
 
 (All) Chorus: Let the music heal your soul
 Let the music take control

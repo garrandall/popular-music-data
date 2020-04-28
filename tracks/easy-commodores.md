@@ -105,7 +105,7 @@ You know I've done all I can
 You see I begged, stole
 And I borrowed
 
-Ooh, that's why I'm easy
+Oh, that's why I'm easy
 I'm easy like Sunday morning
 That's why I'm easy
 I'm easy like Sunday morning
@@ -118,7 +118,7 @@ What they want me to be
 I'm not happy when I try to fake it!
 No!
 
-Ooh, that's why I'm easy
+Oh, that's why I'm easy
 I'm easy like Sunday morning
 That's why I'm easy
 I'm easy like Sunday morning

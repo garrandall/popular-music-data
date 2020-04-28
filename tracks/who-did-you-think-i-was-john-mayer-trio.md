@@ -53,11 +53,6 @@ You got my number, but I always knew the score
 
 Who did you think I was?
 
-
-
-
-
-
 Here is a line that you won't understand:
 I'm half of a boy, but I'm twice the man
 Carry the weight of the world in the palm of my hand

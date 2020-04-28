@@ -80,27 +80,27 @@ Y'all can get hit with the boom (boom)
 Don't give a fuck 'bout the bitch, uh
 Give her the dick, then I zoom (skrr)
 
-Drop and roll (ooh)
-Death row (ooh)
+Drop and roll (oh
+Death row (oh
 All bosses caught the 420, uh
-Gave her that dick, now she love me (ooh)
+Gave her that dick, now she love me (oh
 Gave her that dick, now she love me
 Lean in the glass, like it's bubbly, huh
 These niggas hate that I'm rich, huh
 These niggas hate on my bitch, yeah (fuck it)
 Fuck with that fuck up (damn)
-Fuck, then I dip, 'cause she stuck up (ooh)
+Fuck, then I dip, 'cause she stuck up (oh
 Crowd hands up like a stickup (yeah)
 Hit the flick of the wrist, huh
-Bank on Lemony Snicket, huh (ooh)
-Ice on my neck, cost a ticket, huh (ooh)
-Your career rocky like ridges, huh (ooh)
+Bank on Lemony Snicket, huh (oh
+Ice on my neck, cost a ticket, huh (oh
+Your career rocky like ridges, huh (oh
 Test me, you gon' need some stitches
 That goes for any of you bitches (lil boat)
-Chopsticks (ooh)
+Chopsticks (oh
 Nigga, get beat up in the moshpits (yeah)
 Leave a nigga lumpy, like cheese grits (yeah)
-Dick 'bout as long as four fish sticks (ooh)
+Dick 'bout as long as four fish sticks (oh
 Middle finger to a cop
 Racist pig that can suck on my cock
 Big rocks all inside of my watch

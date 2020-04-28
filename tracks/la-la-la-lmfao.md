@@ -59,13 +59,13 @@ I feel on top of the world with my lady
 I'm gonna rock your body all night
 She makes me wanna sing
 
-La, la la la 
+La, la la la
 
 Oh, I can't get you out my mind
 Everything you do is feelin' right
 Remember that way you caught my eye?
 I remember that way you was walkin' by
-Ooh girl, watch out now
+Oh girl, watch out now
 You looked at me, turned around and smiled
 Gave me eyes, my heart went wild
 Hypnotized, this love starts now
@@ -83,16 +83,16 @@ I feel on top of the world with my lady
 I'm gonna rock your body all night
 She makes me wanna sing
 
-La, la la la... 
+La, la la la...
 
-You my new obsession 
+You my new obsession
 
 All I want to do
 You my new obsession, girl
 I feel on top of the world with you baby
 I want to dance
 
-Dance... 
+Dance...
 
 I feel on top of the world with you baby
 I want to dance and party tonight

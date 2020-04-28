@@ -116,13 +116,13 @@ I'm the chick that's raised the stake
 I told young stunna he should switch to Bape
 I'm back with an 808 'cause I'm bossy
 
-Ooh, lemme slow it down for ya so you can catch the flow (catch the flow)
+Oh lemme slow it down for ya so you can catch the flow (catch the flow)
 Screw it up make it go extra slow (extra slow)
 Real girls get down on the flo' (on the flo' get down, on the flo')
-Ooh, I gave you a taste you want some more (touch down)
+Oh I gave you a taste you want some more (touch down)
 On it like a pro
 I ride the beat like a bicycle, I'm icy cold
-Ooh, from the 6-4 hoppers up in crenshaw
+Oh from the 6-4 hoppers up in crenshaw
 The money making playas up in Harlem
 Don't want no problem
 We gon' keep it bumping while the 808 is jumping
@@ -132,13 +132,13 @@ Diamonds on my neck, di-diamonds on my grill
 
 
 
-Ooh, (I bet, I bet) I bet cha neva heard it like this before (this before)
+Oh (I bet, I bet) I bet cha neva heard it like this before (this before)
 My baby be cruising them phantom doors (phantom doors)
 Got the bar popping this that you can't afford (can't afford)
-Ooh, I'm drinking, blasting the crowds, it's all smoking
+Oh I'm drinking, blasting the crowds, it's all smoking
 All the while I'm all open
 Me and my girls we stay fly and we love to stay high
-Ooh, from the 6-4 hoppers up in crenshaw
+Oh from the 6-4 hoppers up in crenshaw
 To the money making playas up in Harlem
 Don't want no problems
 We gon' keep it bumping while the 808 is jumping

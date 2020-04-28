@@ -33,7 +33,7 @@ rankings:
   start_date: '1969-09-20'
 ---
 Please give me peace of mind
-Ooh, ooh, say you'll be mine
+Oh oh say you'll be mine
 Come rain or shine
 
 And when I kiss you
@@ -42,7 +42,7 @@ Oh, just I do-do-do
 Love you, oh, baby
 
 You're as sweet as old cherry wine
-Ooh, ooh, like an angel
+Oh oh like an angel
 Oh, baby, you're so fine
 
 Say you'll be with me
@@ -57,7 +57,7 @@ And if mine is one, if mine is one
 It wants to be, it wants to be, oh, baby, oh, baby
 
 Each night of my dream
-Ooh, ooh, I'm a king
+Oh oh I'm a king
 My darling, you're my queen
 
 And when I awake

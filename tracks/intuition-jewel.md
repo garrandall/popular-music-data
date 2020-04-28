@@ -109,7 +109,7 @@ Your Intuition
 It's easy to find
 Just follow your heart baby
 
-You look at me 
+You look at me
 but you're not quite sure
 Am I it or could you get more?
 You learn cool from magazines
@@ -127,11 +127,7 @@ You'll love me. Wait and see.
 
 If you want me
 Don't play games
-I promise 
+I promise
 it won't be in vain
 Uh-uh-uh
-
-
-
-
 

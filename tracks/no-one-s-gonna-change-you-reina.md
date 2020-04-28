@@ -55,7 +55,6 @@ So don't be surprised
 When I let you go
 And start living my life
 
-(chorus)
 'Cause no one's gonna change you
 And I won't even waste my time
 I'm gonna' find someone
@@ -84,7 +83,6 @@ And found someone new
 Who wants to be mine
 The way I wanted you
 
-(chorus)
 I gave you all of my time
 It didn't mean that much to you
 I showered you with all of my life
@@ -95,5 +93,3 @@ From walking away from you
 
 And no one's gonna change you
 Oh no no
-
-(chorus)

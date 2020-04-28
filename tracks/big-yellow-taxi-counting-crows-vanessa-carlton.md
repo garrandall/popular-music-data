@@ -93,13 +93,13 @@ rankings:
 
 They paved paradise and put up a parking lot
 With a pink hotel, a boutique, and a swingin' hot spot
-Don't it always seem to go 
+Don't it always seem to go
 That you don't know what you got 'til it's gone
 They paved paradise and put up a parking lot
 
 
-Ooooh, bop bop bop
-Ooooh, bop bop bop
+Oh, bop bop bop
+Oh, bop bop bop
 
 
 They took all the trees, and put em in a tree museum
@@ -110,8 +110,8 @@ That you don't know what you got 'til it's gone
 They paved paradise, and put up a parking lot
 
 
-Ooooh, bop bop bop
-Ooooh, bop bop bop
+Oh, bop bop bop
+Oh, bop bop bop
 
 
 Hey farmer, farmer, put away your DDT
@@ -125,8 +125,8 @@ Hey now, they paved paradise to put up a parking lot
 Why not?
 
 
-Ooooh, bop bop bop
-Ooooh, bop bop bop
+Oh, bop bop bop
+Oh, bop bop bop
 
 
 Listen, late last night, I heard the screen door slam
@@ -143,8 +143,8 @@ Hey hey hey
 Paved paradise and put up a parking lot
 
 
-Ooooh, bop bop bop
-Ooooh, bop bop bop
+Oh, bop bop bop
+Oh, bop bop bop
 
 
 I don't wanna give it
@@ -163,7 +163,7 @@ Now you wanna give it
 I should wanna give it
 Cos you giving it all away
 Hey, hey, givin it all,
-givin it all....away 
+givin it all...away
 
 
 Why do you want me?

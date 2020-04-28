@@ -118,17 +118,14 @@ When you need me, I’ll be around
 I’ll be good to you, you’ll be good to me
 And we’ll be together, be together
 
-
-
-
 I love you so
 Be nice to me, be sweet to me
 Just be good to me
 We won’t worry, no no, what other people say
 We’ll be good to each other
-Ooh, each and every day
+Oh each and every day
 I’ll be good to you
 You’ll be good to me
 We will love each other
-Ooh, yes, we will
+Oh yes, we will
 Just be good to me

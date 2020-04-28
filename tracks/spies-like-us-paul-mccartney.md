@@ -77,7 +77,7 @@ rankings:
   start_date: '1986-03-15'
 ---
 
-Ooh ooh what do you do
+Oh ohwhat do you do
 No one else can dance like you
 So what's all the fuss
 There ain't nobody that spies like us
@@ -100,7 +100,7 @@ One for all and all for one
 Everybody's on the run
 Especially at this time of year
 
-Ooh ooh what do you do
+Oh ohwhat do you do
 No one else can dance like you
 So what's all the fuss
 There ain't nobody got spies like us
@@ -116,7 +116,7 @@ Never needed special clothes
 How we did it no one knows
 I guess we must have had what it took
 
-Ooh ooh, ooh
+Oh oh ooh
 Oh when things get tough
 (Oh when things get tough)
 Guys like us act rough

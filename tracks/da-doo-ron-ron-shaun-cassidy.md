@@ -116,9 +116,9 @@ Yes, my oh my
 And when I walked her home
 Da doo ron ron ron, da doo ron ron
 
-(Ooh)
+(Oh
 (Da doo ron ron ron, da doo ron ron)
-(Ooh)
+(Oh
 (Da doo ron ron ron, da doo ron ron)
 
 Well, I picked her up at seven and she looked so fine

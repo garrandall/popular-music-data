@@ -89,7 +89,6 @@ I wish she wasn't so hard on herself
 Then she falls asleep with just my t-shirt on
 But even when her hair's messed up and her make-up's gone
 
-Chorus
 
 You can't hide Beautiful
 You Can't hide wonderful
@@ -118,4 +117,4 @@ She might think she's just an ordinary girl
 
 You can't hide Beautiful
 She's so beautiful yeah yeah
-Ohhh ohhh ya can't ya can't ya can't hid beautiful
+Ohhh oh ya can't ya can't ya can't hid beautiful

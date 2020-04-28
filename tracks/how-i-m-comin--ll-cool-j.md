@@ -85,7 +85,7 @@ This is how I'm comin'
 
 
 The album that I'm comin' with is rough, the flavor's mean
-(ooooh) kickin' you for real in the guillotine
+(ohickin' you for real in the guillotine
 Fourteen shots to your dome kid
 I'm doin' time in the game like a bid
 Movin' rhymes like a package

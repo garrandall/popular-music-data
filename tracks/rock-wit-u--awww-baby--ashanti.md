@@ -97,7 +97,7 @@ rankings:
  Yeah, murda inc
  I wanna love you babe
  hahahahhaha
- Wanna love you babe, ooh baby
+ Wanna love you babe, oh baby
  Ashanti, chapter two, let's rock it
 
 
@@ -107,7 +107,7 @@ Can you take it to the top with me
 I just wanna love you baby (love ya babe)
 Always thinking of you babe
 
-Can you roll with me (ooh baby)
+Can you roll with me (oh baby)
 All over me
 Can you take control of me
 I just wanna love you baby
@@ -126,7 +126,7 @@ Can you take it to the top with me
 I just wanna love you baby (love ya babe)
 Always thinking of you babe (wanna love you babe)
 
-Can you roll with me (ooh baby)
+Can you roll with me (oh baby)
 All over me (over me)
 Can you take control of me
 I just wanna love you baby (love you babe)
@@ -145,7 +145,7 @@ Can you take it to the top with me
 I just wanna love you baby (I wanna love ya babe)
 Always thinking of you babe (thinking of you)
 
-Can you roll with me (ooh baby)
+Can you roll with me (oh baby)
 All over me (over me)
 Can you take control of me
 I just wanna love you baby (love you)
@@ -153,9 +153,9 @@ Always thinking of you baby
 
 
 boy u make me wanna say
-(Aw baby, aw baby, ooh baby, ooh baby)
+(Aw baby, aw baby, oh baby, oh baby)
 if you feel me help me say
-(Aw baby, aw baby, ooh baby, ooh baby)
+(Aw baby, aw baby, oh baby, oh baby)
 
 
 Can you rock with me (aw baby)
@@ -164,7 +164,7 @@ Can you take it to the top with me
 I just wanna love you baby (Oh)
 Always thinking of you babe (yeah, yeah-yeah)
 
-Can you roll with me (ooh baby)
+Can you roll with me (oh baby)
 All over me (over me)
 Can you take control of me
 I just wanna love you baby (yeah, yeah)
@@ -176,16 +176,16 @@ Can you take it to the top with me (no babe)
 I just wanna love you baby (I wanna love you babe)
 Always thinking of you babe (I'm thinking of you babe)
 
-Can you roll with me (ooh baby)
+Can you roll with me (oh baby)
 All over me (Ohhhh)
 Can you take control of me
-I just wanna love you baby (Oohhh)
+I just wanna love you baby (Oh)
 Always thinking of you baby (I wanna love you babe)
 
-Oh, mmmm, love you babe
-Mmmm, yeah-yeah, yeah-yeah, yeah
-Oh mmmm, love you babe
-Mmmm, yeah-yeah, yeah-yeah, yeah
+Oh, mmm, love you babe
+Mmm, yeah-yeah, yeah-yeah, yeah
+Oh mmm, love you babe
+Mmm, yeah-yeah, yeah-yeah, yeah
 
 
 

@@ -94,7 +94,7 @@ But words sometimes get in the way
 I just want to show
 My feelings for you
 There's nothing that I'd rather do
-Than spend ev'ry moment with you
+Than spend every moment with you
 I guess you should know
 I love you so
 

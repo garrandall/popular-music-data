@@ -21,7 +21,7 @@ Yeah, yeah, yeah.
 
 Could you look me in the eye,
 And tell me that you're happy now.
-Oooh.
+Oh.
 Would you tell it to my face or have I been erased,
 Are you happy now?
 Are you happy now?

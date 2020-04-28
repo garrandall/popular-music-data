@@ -138,8 +138,8 @@ To show you that you're mine (mine)
 One and only guy (only guy)
 No matter who may come along
 Open your eyes 'cause, baby, I don't like
-Ooh, ooh (oh, oh)
-Ooh, ooh (hey, 'cause I don't like!)
+Oh, oh (oh, oh)
+Oh, oh (hey, 'cause I don't like!)
 
 Well, I don't like
 Living under your spotlight (no, no)

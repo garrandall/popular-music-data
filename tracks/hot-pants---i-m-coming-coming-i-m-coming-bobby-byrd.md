@@ -34,7 +34,7 @@ You never get more than you can bring, hey
 
 
 I'm coming, I'm coming, baby
-Ooh, help me
+Oh, help me
 I'm coming, I'm coming, baby
 
 
@@ -61,7 +61,7 @@ Coming, I'm coming, baby
 Hey
 
 
-Oh, help me, oooh
+Oh, help me, oh
 Oh, baby, I'm coming, hey, yeah
 I'm coming, yeah
 I can't knock it
@@ -70,7 +70,7 @@ This day or night, baby
 This day, this day, this day
 I need to rock it, baby
 This day, I'm coming
-I'm coming, baby, oooh
+I'm coming, baby, oh
 Yeah, yeah, yeah
 I'm coming, coming
 Hey, I'm coming, coming, baby

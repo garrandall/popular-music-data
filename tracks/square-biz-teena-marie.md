@@ -65,7 +65,7 @@ Hee...
 Everybody get up
 
 Flash back, who's that dancin' to the latest
-Suave de bone, the greatest, ooh, he sure is moving me
+Suave de bone, the greatest, oh, he sure is moving me
 That's what I said though you didn't know yet
 Our love is was kismet, soon to be made history
 
@@ -111,7 +111,7 @@ Square Biz, Square Biz
 Square Biz, Square Biz
 I'm talkin' love
 
-Phase three, ooh-wee, on a love oasis
+Phase three, oh-wee, on a love oasis
 Joy upon our faces sent from up above
 Bombs burst, fireworks, big production thing
 I'm talkin' horns and string, orchestration is my love
@@ -131,7 +131,7 @@ Square, Square Biz
 I'm talkin' love that is
 That is, that is, that is Square Biz
 
-Ooh
+Oh
 Hey, baby, what's your name, huh
 
 Well, don't be too slick now

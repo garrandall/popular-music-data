@@ -125,7 +125,7 @@ All swimmin pool lakefront
 Hit it from the back, rearrange her lace front
 Stuntin', tattoos on my neck and on my kidney
 If I don't like that ho I turn her ass into a frisbee
-If I dont like your disc I turn that ho into a frisbee
+If I don't like your disc I turn that ho into a frisbee
 I throw it out on Old Nat right by the Wendy’s
 Three cellphones and all of 'em jumpin'
 I can see your hoes and all em' nothing

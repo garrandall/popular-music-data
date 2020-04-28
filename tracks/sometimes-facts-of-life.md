@@ -99,7 +99,7 @@ I just might not get over you
 For quite some time
 
 Say it again, baby
-Ooh, baby
+Oh, baby
 
 But I know if we do
 I won't get over you...

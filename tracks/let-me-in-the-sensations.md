@@ -80,8 +80,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
 ---
-Let me in whee-ooh (whee-ooh, whee-ooh, hoop-whee-ooh)
-(Whee-ooh, whee-ooh, hoo-ooh-oop-whee-ooh, whee-ooh)
+Let me in whee-oh(whee-oohwhee-ohohoop-whee-oh)oh
+(Whee-oh whee-oohhoo-ohohp-whee-oh,ohee-oh)oh
 
 I can see the dancin' (let me in)
 The silhouettes on the shade
@@ -101,8 +101,8 @@ I want to come in again
 Let me in (let me in), a-well I heard it just then
 I thought you were my friend
 
-(Whee-ooh, whee-ooh, hoop-whee-ooh)
-(Whee-ooh, whee-ooh, hoo-ooh-oop-whee-ooh, whee-ooh)
+(Whee-oh whee-oohhoop-whee-ohoh
+(Whee-oh whee-oohhoo-ohohp-whee-oh,ohee-oh)oh
 
 Pitter patter of the fee-ee-ee-ee-eet
 Movin' and a-groovin' with that be-eat
@@ -117,9 +117,9 @@ Let me in (let me in)
 I want to come in again
 I thought you were my friend
 
-(Whee-ooh, whee-ooh, hoop-whee-ooh)
-(Whee-ooh, whee-ooh, hoo-ooh-oop-whee-ooh)
-(Hoo-ooh-oop-whee-ooh)
-(Hoo-ooh-oop-whee-ooh)
+(Whee-oh whee-oohhoop-whee-ohoh
+(Whee-oh whee-oohhoo-ohohp-whee-oh)oh
+(Hoo-ohoop-whee-oh
+(Hoo-ohoop-whee-oh
 Fade
-(Hoo-ooh-oop-whee-ooh)
+(Hoo-ohoop-whee-oh

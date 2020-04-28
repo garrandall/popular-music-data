@@ -82,9 +82,9 @@ Loving you was sunshine, safe and sound
 A steady place to let down my defenses
 But loving you had consequences
 
-No, ooh-ooh-ooh
-Said no, ooh-ooh-ooh
-I, no, ooh-ooh-ooh, mhm
+No, ohoohhoh
+Said no, ohoohhoh
+I, no, ohoohhohhm
 
 Loving you was dumb, dark, and cheap
 Loving you will still take shots at me

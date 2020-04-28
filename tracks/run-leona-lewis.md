@@ -35,7 +35,7 @@ Why you can't raise your voice to say
 To think I might not see those eyes
 Makes it so hard not to cry
 And as we say our long goodbyes
-I nearly do, hmm, oh
+I nearly do, hm, oh
 
 Light up, light up
 As if you have a choice
@@ -55,4 +55,4 @@ I'll be right beside you, dear
 Louder, louder
 And we'll run for our lives
 I can hardly speak, I understand
-Why you can't raise your voice to say, ooh
+Why you can't raise your voice to say, oh

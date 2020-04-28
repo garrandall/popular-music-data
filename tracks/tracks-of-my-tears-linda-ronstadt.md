@@ -98,7 +98,7 @@ You know my smile looks out of place
 If you look closer it's easy to trace
 The tracks of my tears
 
-Ooh ooh ooh ooh
+Ohohoohhoh
 
 
 

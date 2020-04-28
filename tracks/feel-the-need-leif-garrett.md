@@ -49,7 +49,7 @@ I need you by my side to be my guide
 Can't you see my eyes are open wide, oh
 
 Feel the need, oh feel the need in me
-Ev'ry day I need it, ev'ry way I need it
+Every day I need it, every way I need it
 Without your sweet, sweet love I'd rather die
 I need it constantly, your love takes care of me
 You're always sweeter to me than applepie
@@ -62,7 +62,7 @@ I need you on the case to leave my heart in place
 You make me what I need to be, hey
 
 Feel the need, oh feel the need in me
-Ev'ry day I need it, ev'ry way I need it,...
+Every day I need it, every way I need it,...
 
 Your love is tough, now can't get enough, girl
 Your love is so important to me

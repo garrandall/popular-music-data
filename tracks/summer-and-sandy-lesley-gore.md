@@ -61,9 +61,6 @@ My love, I love
 Everything about him that I see
 And he loves me
 
-
-
-
-Oohhh, oh baby, ooohh
+Oh, oh baby, oh
 Sandy, I love him, I love him
-Sandy, oooh I love him, I love him
+Sandy, oh love him, I love him

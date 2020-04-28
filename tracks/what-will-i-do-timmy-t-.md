@@ -40,4 +40,3 @@ You would have been so rich with love but set it free
 Now you want home but it's too late for me
 'Cause I won't be used and abused and then set free
 
-Chorus (3x)

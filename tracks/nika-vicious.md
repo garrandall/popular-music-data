@@ -86,11 +86,11 @@ Oh God Nika, Vicious love you badly
 
 
 Cause when me inna di party a kick di Ragamuffin flow
-I make the ladies say, (ahhh!)
-Brothers say, (Ooh!)
+I make the ladies say, (ah!)
+Brothers say, (Oh!)
 My name is Little Vicious and I'll rip up ya show, bow, bow!
-(Ladies say, ahhh!
-Brothers say, Ooh!) (2x)
+(Ladies say, ah!
+Brothers say, Oh!)
 
 
 A one new girl weh Vicious find again
@@ -117,15 +117,15 @@ You know she say, "yes", and she never say, "no"
 I said, "I'll pick you up 8 or so"
 Me pick her up 9 and me said, "lets go."
 Go a di show and collect fi mi dough
-After the show I'm calling, a dat me know!!!
+After the show I'm calling, a dat me know!
 
 
 Cause when me inna di party a kick di Ragamuffin flow
-I make the ladies say, (ahhh!)
-Brothers say, (Ooh!)
+I make the ladies say, (ah!)
+Brothers say, (Oh!)
 My name is Little Vicious and I'll rip up ya show, bow, bow!
-(Ladies say, ahhh!
-Brothers say, Ooh!) (2x)
+(Ladies say, ah!
+Brothers say, Oh!)
 
 
 A one new girl weh Vicious find again

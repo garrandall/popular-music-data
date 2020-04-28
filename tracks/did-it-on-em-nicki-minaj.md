@@ -90,7 +90,7 @@ Shitted on 'em
 Man, I just shitted on 'em
 (You bitches ain't fucking with her!)
 Shitted on 'em
-(You must've -- Aaaah!)
+(You must've -- Ah!)
 P-p-p-put yo' number two's in the air if you did it on 'em
 (You must've lost your fucking mind)
 Shitted on 'em
@@ -98,7 +98,7 @@ Shitted on 'em
 Man, I just shitted on 'em
 (You crazy, stupid, ugly, monkey-looking bitches!)
 Shitted on 'em, put yo' number two's in the air if you did it on 'em
-(Aaaah!)
+(Ah!)
 
 
 Yo, this stone is flawless, F-F-F1
@@ -125,7 +125,7 @@ Shitted on 'em
 Man, I just shitted on 'em
 (Gucci - we don't fuck with it, it's too cheap, motherfucker!)
 Shitted on 'em, put yo' number two's in the air if you did it on 'em
-(You bitches - Ahhhh Man!)
+(You bitches - Ah Man!)
 
 
 All these bitches is my sons (sons)

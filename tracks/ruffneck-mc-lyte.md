@@ -132,9 +132,6 @@ And if he ain't ruff, well then he's all wrong for the Lyte
 I love my ruffneck and ain't nothing going down
 Or going up if my ruffneck ain't in town
 
-
-
-
 I need a ruffneck
 I need a man that don't stitch like a bitch
 She'd tears or switch
@@ -152,8 +149,4 @@ Pissin' in corners
 Doing 80 by funeral mourners
 Showing little respect
 Now that's a ruffneck
-
-
-
-
 

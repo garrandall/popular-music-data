@@ -103,7 +103,7 @@ Just be thankful for what you got
 
 Diamond in the back, sunroof top
 Diggin the scene
-With a gangsta lean, wooh-ooh-ooh
+With a gangsta lean, wooh-ohooh
 
 
 Though you may not drive a great big Cadillac
@@ -116,13 +116,13 @@ You can still stand tall
 
 Diamond in the back, sunroof top
 Diggin the scene
-With a gangsta lean, wooh-ooh-ooh
+With a gangsta lean, wooh-ohooh
 Diamond in the back, sunroof top
 Diggin the scene
-With a gangsta lean, wooh-ooh-ooh
+With a gangsta lean, wooh-ohooh
 Diamond in the back, sunroof top
 Diggin the scene
-With a gangsta lean, wooh-ooh-ooh
+With a gangsta lean, wooh-ohooh
 Diamond in the back, sunroof top
 Diggin the scene
-With a gangsta lean, wooh-ooh-ooh
+With a gangsta lean, wooh-ohooh

@@ -132,10 +132,6 @@ Don't be a pri... (Hey!) ..Ma donna, uh
 You gotta get 'em on, hop
 (Tick tock, tick tock, tick tock, tick tock)
 
-
-
-
-
 If you want it, you already got it
 If you thought it, it better be what you want
 If you feel it, it must be real just

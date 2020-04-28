@@ -86,7 +86,7 @@ I can feel the heartache
 Its a fool game
 Its a fool game
 Shame shame
-Ooh it's a heartache
+Oh it's a heartache
 And I feel the pain
 Huh Huh Huh Huh Huh
 Heartache

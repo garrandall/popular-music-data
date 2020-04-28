@@ -38,7 +38,7 @@ Robbing lips, kissing banks under this moon
 Whoa oh, we're so miserable and stunning
 Whoa oh, love songs for the genuinely cunning
 Whoa oh, we're so miserable and stunning
-Whoa oh, love songs for the genuinely cunning, ohh...
+Whoa oh, love songs for the genuinely cunning, oh...
 
 It was ice cream headaches and sweet avalanche
 When the pearls in our shells got up to dance

@@ -46,13 +46,13 @@ But it's my life
 The way that I choose
 And I, just want to let you know
 Sometimes I, find it so hard not to show
-Ooh don't sigh
+Oh don't sigh
 Baby you're not alone
 I'll wear my heart on my sleeve
 Wear my heart on my sleeve
 I wear my heart on my sleeve
 Wear my heart on my sleeve
-Ooh and I, just want to let you know
+Oh and I, just want to let you know
 Sometimes I, find it so hard not to show
 Don't you sigh
 Maybe you're not alone

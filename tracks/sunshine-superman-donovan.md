@@ -74,7 +74,7 @@ We stood on a beach at sunset, do you remember when?
 I know a beach where, baby, a-it never ends
 When you've made your mind up forever to be mine
 
-Hmm, hmm, hmm, hmm, hmm
+Hm, hm, hm, hm, hm
 I'll pick up your hand and slowly blow your little mind
 Cause I made my mind up you're going to be mine
 I'll tell you right now

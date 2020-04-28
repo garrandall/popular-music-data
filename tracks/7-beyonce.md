@@ -153,7 +153,7 @@ Wave ya hands side to side
 Wave ya hands side to side
 Wave ya hands from side to side
 Wave ya hands side to side
-Ooh wee BB freaky deaky, think me see she pink bikini
+Oh wee BB freaky deaky, think me see she pink bikini
 Rock that kufi, dye dashiki, Nefertiti, edges kinky
 Sweatin' out my blow out, sweatin' out my presses
 This trick about to go off, mad cause I'm so fresh

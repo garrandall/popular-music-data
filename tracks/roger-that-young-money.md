@@ -121,5 +121,5 @@ And y'all the prey- amen!
 
 Now Roger that, Roger that
 Where Roger at? I heard Rog' a rat
-Fuc-fuck around and never get Roger back!!
+Fuc-fuck around and never get Roger back!
 Hahahaha

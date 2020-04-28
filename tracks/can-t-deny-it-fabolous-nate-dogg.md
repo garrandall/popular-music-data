@@ -91,19 +91,19 @@ rankings:
 ---
 
 
-Y'all cant deny it, I'ma fuckin rider
+Y'all can't deny it, I'ma fuckin rider
 You don't wanna fuck with me (yeah)
 Got skills in the trunk with me (ok)
 Switchin lanes, do a buck with me (that's right)
-Y'all cant deny it, I'ma fuckin rider
+Y'all can't deny it, I'ma fuckin rider
 You don't wanna bang with me (yeah)
 And you know I brought my gang with me (ok)
-Niggaz trip, I got my thang with me
+Niggas trip, I got my thang with me
 
 
 Yo, if they want it, cowards get it
 They still wonder how I did it
-Now y'all wit it, these niggaz see how I spit it
+Now y'all wit it, these niggas see how I spit it
 Huh, these bitches see how I kit it
 You can hear my coupe a block away
 Bitches be yellin, "Let Me Ride" like they Snoop and Dr. Dre
@@ -123,7 +123,7 @@ From the North to the South to the East to the West, let's go
 
 
 Yo ma, I got you stuck off the realness
-The name's Fabolous, you heard I be 
+The name's Fabolous, you heard I be
 In them trucks wit the wheels glissed
 In V.I.P, with buckets of chilled Cris'
 'click, click', who the fuck wanna feel this
@@ -140,16 +140,13 @@ And if you duck cheese I'ma fuck her, duck these motherfucker
 Ghetto Fabolous, nigga I ride 'til I die
 Hollerin 1-8-7 when I ride through the Stuy, fool
 
-
-
-
 It ain't really dat hard, to get fucked up
 Its really quite easy, just step up
 I'ma knock him so hard, on his butt
 Just like he been drinkin, like he drunk
 The fat bitch stood up, just stood up
 She bout to be steamin, turn it up
-You wont hear a thang, know you won't
+You won't hear a thang, know you won't
 You too busy sleepin, won't wake up
 You can't deny it
 
@@ -177,8 +174,4 @@ Still bumpin ya dex, still dumpin the tec, still
 Yea
 That's right
 Yea, ok
-
-
-
-
 

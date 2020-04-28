@@ -84,11 +84,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-11-23'
 ---
-Br-oooo-ken hearted me-eee-lo-dy
+Br-oo-ken hearted me-ee-lo-dy
 Ooooonce you were our song of love
 Nooooow you just keep taunting me
 Wiiiiith the memory of (ba-da-da)
-His tender love. Ooooh
+His tender love. Oh
 Broken hearted melody
 Must you keep reminding me
 Of the lips I long to kiss
@@ -104,13 +104,13 @@ Brooooken hearted melody
 Ooooonce you were our song of love
 Nooooow you just keep taunting me
 Wiiiiiith the memory of (ba-da-da)
-His tender love, Ooooh
+His tender love, Oh
 Broken hearted melody
 Won't you bring him back to me
 Sing to him until he yearns
 For when he returns no more will he be
 A broken hearted melody
 Oooooooo, oo-oo
-Oo-oo, oo-oo, ooooooooo
+Oo-oo, oo-oo, oo
 Oooooooo, oo-oo
-Oo-oo, oo-oo, ooooooooo
+Oo-oo, oo-oo, oo

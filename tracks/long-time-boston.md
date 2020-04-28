@@ -78,9 +78,6 @@ You're comin' back to find me
 It's been such a long time
 It's been such a long time
 
-
-
-
 Yeah. It's been such a long time, I think I should be goin', yeah
 And time doesn't wait for me, it keeps on rollin'
 There's a long road, I've gotta stay in time with

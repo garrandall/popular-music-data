@@ -3,9 +3,9 @@ artists:
 - Boyz II Men
 features: []
 genres: []
-key: uhh-ahh-boyz-ii-men
-lyrics_url: https://genius.com/Boyz-ii-men-uhh-ahh-lyrics
-name: Uhh Ahh
+key: uhh-ah-boyz-ii-men
+lyrics_url: https://genius.com/Boyz-ii-men-uhh-ah-lyrics
+name: Uhh Ah
 rankings:
 - end_date: '1991-12-20'
   rank: 88
@@ -93,10 +93,10 @@ Five, four, three, two, one
 Injection, follows
 
 
-Uhh ahh
-Uhh ahh
-Uhh ahh
-Uhh ahh
+Uhh ah
+Uhh ah
+Uhh ah
+Uhh ah
 Mike?
 Yes?
 
@@ -112,10 +112,10 @@ Express the way that you feel, girl
 As you say
 
 
-Uhh ahh
-Uhh ahh
-Uhh ahh
-Uhh ahh
+Uhh ah
+Uhh ah
+Uhh ah
+Uhh ah
 
 
 In our passion sent we move in close
@@ -128,10 +128,10 @@ Although I try to hold in my love
 It's something that I just can't hide
 
 
-Uhh ahh
-Uhh ahh
-Uhh ahh
-Uhh ahh
+Uhh ah
+Uhh ah
+Uhh ah
+Uhh ah
 
 
 The music is low
@@ -152,10 +152,10 @@ To grasp, to hold
 To rock that place
 
 
-Uhh ahh
-Uhh ahh
-Uhh ahh
-Uhh ahh
+Uhh ah
+Uhh ah
+Uhh ah
+Uhh ah
 
 
 Give it to me, baby

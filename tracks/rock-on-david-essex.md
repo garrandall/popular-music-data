@@ -109,7 +109,7 @@ rankings:
   start_date: '1974-04-27'
 ---
 Hey kid, rock and roll
-Rock on, ooh, my soul
+Rock on, oh, my soul
 Hey kid, boogey too, did ya
 Hey shout, summertime blues
 Jump up and down in them blue suede shoes

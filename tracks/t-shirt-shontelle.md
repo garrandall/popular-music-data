@@ -78,7 +78,7 @@ rankings:
 ---
 
 Let me tell you no
-Ooh, baby
+Oh, baby
 
 Tryna decide, tryna decide
 If I really wanna go out tonight

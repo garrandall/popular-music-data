@@ -161,7 +161,7 @@ We gonna make your body say yeah
 Now everybody wave your hand real high, real high
 And let me see you all put em up in the sky, c'mon
 Making my niggas just say ho, word up
-And making you women just say ahh, baby c'mon
+And making you women just say ah, baby c'mon
 Bringing it to you in many ways
 We making and taking you people right through another phase, c'mon
 We rocking it baby that's how we dropping it baby

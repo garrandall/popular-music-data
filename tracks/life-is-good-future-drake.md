@@ -82,9 +82,6 @@ Manor house in Rosewood, this shit too plush
 It's cool, man, got red bottoms on
 Life is good, you know what I mean? Like
 
-
-
-
 Yeah, hunnid thousand for the cheapest ring on a nigga finger, lil' bitch, woo
 I done flew one out to Spain to be in my domain and Audemars-ed the bitch, woo
 Dropped three dollars on a ring, cost a Bentley truck, lil' bitch, woo

@@ -154,7 +154,7 @@ Mr. Baller, trickin'
 Why'd you have to go, go and leave me
 Baby, I always been your baby
 Love makin' this girl go crazy
-I can't understand, why you left me... uh-hmm
+I can't understand, why you left me... uh-hm
 
 
 

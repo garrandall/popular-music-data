@@ -109,7 +109,7 @@ rankings:
  On the L-A-X
  Oh! Cali??
  No doubt baby, you know we gotta get this paper
- Ahh, no doubt, aight
+ Ah, no doubt, aight
  You aight?
  I'm up, I'm up
  Yo Big
@@ -152,7 +152,7 @@ If I got to choose a coast I got to choose the East
 I live out there, so don't go there
 But that don't mean a nigga can't rest in the West
 See some nice breasts in the West
-Smoke some nice sess in the West, y'all niggaz is a mess
+Smoke some nice sess in the West, y'all niggas is a mess
 Thinkin I'm gon stop, givin L.A. props
 All I got is beef with those that violate me
 I shall annihilate thee
@@ -182,9 +182,4 @@ Fuck your plan, is it to rock the Tri-State?
 Almost gold, 5 G's at show gate
 Or do you wanna see about seven digits
 Fuck hoes exquisite, Cali, great place to visit
-
-
-
-
-
 

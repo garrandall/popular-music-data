@@ -86,12 +86,12 @@ Na moral, vamos dar um rolê, querida, é moleza
 Levante a mão se você concorda comigo
 Yeah, yeah-eah, yeah, yeah-eah-eah
 No meio, uau
-Woah-woah-oah, oh, oh-oh, ooh
+Woah-woah-oah, oh, oh-oh, oh
 Bota pra cima
 Bota pra cima
 Yeah, yeah-eah, yeah, yeah-eah-eah
 Ambos os braços, é
-Woah-woah-oah, oh, oh-oh, ooh
+Woah-woah-oah, oh, oh-oh, oh
 Bota pra cima
 
 
@@ -119,12 +119,12 @@ Na moral, vamos dar um rolê, querida, é moleza
 Levante a mão se você concorda comigo
 Yeah, yeah-eah, yeah, yeah-eah-eah
 No meio, uau
-Woah-woah-oah, oh, oh-oh, ooh
+Woah-woah-oah, oh, oh-oh, oh
 Bota pra cima
 Bota pra cima
 Yeah, yeah-eah, yeah, yeah-eah-eah
 Ambos os braços, é
-Woah-woah-oah, oh, oh-oh, ooh
+Woah-woah-oah, oh, oh-oh, oh
 Bota pra cima
 
 
@@ -152,12 +152,12 @@ Na moral, vamos dar um rolê, querida, é moleza
 Levante a mão se você concorda comigo
 Yeah, yeah-eah, yeah, yeah-eah-eah
 No meio, uau
-Woah-woah-oah, oh, oh-oh, ooh
+Woah-woah-oah, oh, oh-oh, oh
 Bota pra cima
 Bota pra cima
 Yeah, yeah-eah, yeah, yeah-eah-eah
 Ambos os braços, é
-Woah-woah-oah, oh, oh-oh, ooh
+Woah-woah-oah, oh, oh-oh, oh
 Bota pra cima
 
 
@@ -185,12 +185,12 @@ Na moral, vamos dar um rolê, querida, é moleza
 Levante a mão se você concorda comigo
 Yeah, yeah-eah, yeah, yeah-eah-eah
 No meio, uau
-Woah-woah-oah, oh, oh-oh, ooh
+Woah-woah-oah, oh, oh-oh, oh
 Bota pra cima
 Bota pra cima
 Yeah, yeah-eah, yeah, yeah-eah-eah
 Ambos os braços, é
-Woah-woah-oah, oh, oh-oh, ooh
+Woah-woah-oah, oh, oh-oh, oh
 Bota pra cima
 
 

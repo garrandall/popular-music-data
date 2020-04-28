@@ -48,12 +48,12 @@ Tell me 'bout all the freaky secrets, all them troubles that you got on your min
 Just bring them to life (bend it up), put that shit on a film and watch it back on rewind (hold up)
 
 We ain't in a rush, girl, it's just us, girl (push, girl, it's just us, girl)
-Let me know wassup, girl, wassup, girl? (Ooh yeah)
-'Cause I'm tryna throw it down, eat it up, go down, eat it up (throw it down, ooh)
+Let me know wassup, girl, wassup, girl? (Oh yeah)
+'Cause I'm tryna throw it down, eat it up, go down, eat it up (throw it down, oh
 Take it down, down, down, down, then I'ma beat it up (up)
 
 Let me switch up the tempo, switch it up (let me, girl)
-Let me switch up the tempo, switch it up (ooh, ooh)
+Let me switch up the tempo, switch it up (oh oh
 Let me switch up the tempo, switch it up (baby)
 I wanna switch up the tempo, switch it up (oh, woah)
 Can I step tempo on ya? (Tempo)

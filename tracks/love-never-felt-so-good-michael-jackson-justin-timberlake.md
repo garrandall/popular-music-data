@@ -121,10 +121,10 @@ In-out, baby
 'Cause love never felt so good
 
 
-Ooh, baby, love never felt so fine
+Oh, baby, love never felt so fine
 And I doubt if it was ever mine
 Not like you hold me, hold me
-Ooh, baby, love never felt so good
+Oh, baby, love never felt so good
 And I doubt if it ever could
 Not like you hold me, hold me
 

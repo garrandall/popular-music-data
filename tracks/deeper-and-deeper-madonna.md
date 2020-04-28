@@ -144,9 +144,6 @@ I can't explain
 But my love is alive
 And I'm never gonna hide it again
 
-
-
-
 Daddy couldn't be all wrong
 Not gonna let you slip away, I'm gonna be there
 And my mama made me learn this song

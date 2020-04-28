@@ -107,7 +107,7 @@ Baby, baby
 (Together) together, baby
 (Baby, just)
 Baby, just you and me, yeah
-Whoooa, how happy we'll be, yeeeeah
+Whoooa, how happy we'll be, yeah
 
 Whoooa, we could be in poverty
 With no one to lean a helping hand
@@ -124,7 +124,7 @@ Baby, baby
 (Together) together, baby
 (Baby, just)
 Baby, just you and me, yeah
-Whoooa, how happy we'll be, yeeeeah
+Whoooa, how happy we'll be, yeah
 
 
 
@@ -154,4 +154,4 @@ When we used to play shoot'em up
 (Together) together, baby
 (Together) wanna live, wanna live, wanna live my life with you (baby)
 Because I want you to be my wife you see (together)
-Now give you everything, everything ....
+Now give you everything, everything ...

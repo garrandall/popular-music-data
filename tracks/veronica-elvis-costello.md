@@ -107,7 +107,3 @@ own, with devilish look in her eye
 Saying "You can call me anything you like, but
 my name is Veronica"
 
-
-
-
-

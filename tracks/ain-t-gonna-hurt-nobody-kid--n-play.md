@@ -87,7 +87,6 @@ rankings:
 Awww yeah uh uh
 Feels good
 
-(Kid)
 The time has come to enjoy myself
 I've left my problems up on the shelf
 The work days over and I've got it made
@@ -104,7 +103,6 @@ Hope that I would find myself a good time
 Before I'm through and the night is done
 Man I'm gonna have some fun
 
-Chorus:
 
 Ain't gone hurt nobody we just dancin ya'll
 Ain't gone hurt nobody out there on the floor
@@ -130,9 +128,6 @@ After a couple of songs I'll require
 Having fun well I ain't done
 The best is yet to come
 
-(Chorus)
-
-(Kid and Play)
 The music's hype and if it's alright with you
 I wouldn't mind spending the rest of the night with you
 No kidding babe we could make some noise
@@ -150,4 +145,3 @@ We sure had good fun while it lasted
 Hang out with friends, hit the skins
 Next week we're gonna do it again
 
-(Chorus)

@@ -59,7 +59,7 @@ Who you gonna run to?
 All your little life
 You're chasin' all the girls
 They can't resist your smile
-Uh-hmm, they long for
+Uh-hm, they long for
 
 Dandy, Dandy
 Chattin' up the ladies
@@ -75,7 +75,7 @@ Climbin' through the window
 Hubby's gone away
 And while the cat's away
 The mice are gonna play
-Uh-hmm, you low-down
+Uh-hm, you low-down
 
 Dandy, Dandy, Dandy
 

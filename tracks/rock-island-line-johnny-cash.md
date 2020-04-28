@@ -62,7 +62,3 @@ There were two more drinks that he'd like to try
 The conductor said what could they be
 A hot cup of coffee and a cold glass of tea
 
-
-
-
-

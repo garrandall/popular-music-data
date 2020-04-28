@@ -48,7 +48,7 @@ Never guessed it got this good
 Wondered if it ever would
 Really didn't think it could
 Do it again?
-I know we should!!!
+I know we should!
 
 The sun is up
 I'm so fizzy I could burst!
@@ -61,7 +61,7 @@ Never guessed it got this good
 Wondered if it ever would
 Really didn't think it could
 Do it some more?
-I know we should!!!
+I know we should!
 
 Say it will always be like this
 The two of us together
@@ -72,7 +72,7 @@ Never guessed it got this good
 Wondered if it ever would
 Really didn't think it could
 Do it all the time?
-I know that we should!!!
+I know that we should!
 
 
 

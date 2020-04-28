@@ -87,9 +87,9 @@ Independence has come and into the night I go
 Don't make no promises that I can't keep
 I won't be no prisoner of somebody's needs
 You may have lovers wherever you roam
-But sooner or later, ooh, we all sleep alone
+But sooner or later, oh, we all sleep alone
 
-Ooh, we all sleep alone
+Oh, we all sleep alone
 Yeah, yeah, we all sleep alone, yeah
 And I know, and I know how you feel
 What you're thinkin', what you're saying to me

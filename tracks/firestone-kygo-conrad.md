@@ -36,9 +36,9 @@ But when they strike, we light up the world
 We light up the world
 
 We light up the world
-Oooh oooh
+Oh oh
 World
-Oooh oooh
+Oh oh
 Firestone
 
 I'm from X, you're from Y
@@ -58,9 +58,9 @@ And when they strike, we light up the world
 
 We light up the world
 We light up the world
-Oooh oooh
+Oh oh
 World
-Oooh oooh
+Oh oh
 Firestone
 
 

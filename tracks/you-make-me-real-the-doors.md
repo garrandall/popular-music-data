@@ -67,4 +67,4 @@ You make me throw away mistaken misery
 Make me free love
 Make me free
 Make me free
-You make me free !
+You make me free!

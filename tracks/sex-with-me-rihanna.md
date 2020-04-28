@@ -93,7 +93,7 @@ And sex with me, so amazing
 All this all hard work, no vacation
 Stay up off my Instagram, pure temptation
 Sex with me, sex with me, sex with me
-So amazing, so amazing, mmmm
+So amazing, so amazing, mmm
 
 
 You know I got the sauce (sauce), you know I’m saucy
@@ -113,7 +113,7 @@ All this all hard work, no vacation
 Stay up off my Instagram, pure temptation
 Hit a switch on a fake nigga, like a station
 Sex with me, sex with me, sex with me
-So amazing, so amazing, mmmm
+So amazing, so amazing, mmm
 
 
 Sex with me, so amazing

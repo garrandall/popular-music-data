@@ -89,7 +89,7 @@ rankings:
   start_date: '1992-02-22'
 ---
 
-Ooooh, la, la, la, la, la, la, la, la, la, la, la, la, la, la
+Oh, la, la, la, la, la, la, la, la, la, la, la, la, la, la
 
 Lying awake I turn to you as you are softly sleeping.
 I think of what I'd like to do while you are

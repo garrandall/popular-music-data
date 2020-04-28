@@ -158,7 +158,7 @@ Freak 'em on the floor... Get high
 You know you looking good tonight... tonight
 
 
-Ooh boy, you look so good to me
+Oh boy, you look so good to me
 You might get lucky
 Cause I feel free tonight
 Are you available?

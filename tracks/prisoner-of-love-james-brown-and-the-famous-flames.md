@@ -168,7 +168,7 @@ Talk to me
 (Prisoner of love)
 Talk to me
 (Prisoner of love)
-Tell me, ooh
+Tell me, oh
 (Prisoner of love)
 You love me so
 (Prisoner of love)

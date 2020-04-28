@@ -112,25 +112,19 @@ She's screamin and she's screamin and she's screamin, gettin hoarse
 But then I busted a nut, and that was that
 So kick the chorus
 
-
-
-
 My homies are down, chillin' in the hood
 But them hood bitches, well they ain't no good
 To another man well she might be some good cat
 But homies in the hood label her as a hood rat
 She's scandalous
 So those with game can fuck
-And ooh, she'll clown your ass real fast, if you're quick to nut
+And oh she'll clown your ass real fast, if you're quick to nut
 And when you're in that thi-ing
 She'll make a nigga si-ng
 Duh-du-dway, duh-dum-dway, duh-dum-dway
 But you don't hear me doe
 Ain't nuthin wrong with being a Trojan man, when ya ridin
 So let's kick the chorus please if ya like it
-
-
-
 
 My homie's clownin' in his dope, yellow chevy
 Too O.D.'ed to be dropped

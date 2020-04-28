@@ -60,7 +60,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
 ---
-Chewy, Chewy, Chewy.....
+Chewy, Chewy, Chewy...
 Always got a mouthful of such sweet things to say
 Chewy's full of sugar and I love her that way
 
@@ -70,7 +70,7 @@ Love me little chewy cause you do it so sweet
 Baby a living box of candy wrapped up so very fine
 Do it to me chewy chew me out of my mind
 
-Ooh I love to kiss her
+Oh I love to kiss her
 Love to hold her
 Love to miss her
 Love to scold her

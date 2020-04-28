@@ -69,7 +69,7 @@ Come to me, show me somethin' real
 I need to know, I need you completely
 (closer, baby, closer) Come on closer, baby (let's begin)
 Love is takin' over, gotta let it in
-Ooh and I need to feel the heart of you
+Ohand I need to feel the heart of you
 I need to reach the very deepest part of you
 
 Can I touch you there, touch you deep inside
@@ -77,7 +77,7 @@ Can I touch your heart, the way you're touchin' mine
 Can I touch you there, touch you deep within, oh
 Can I touch you there, can I touch you oh...(there)
 
-Oooh Baby, tell me with your eyes
+Oh Baby, tell me with your eyes
 Tell me every secret, darlin'
 Every deep desire, till you and I
 Are makin' love completely
@@ -85,7 +85,7 @@ Are makin' love completely
 (can't be close enough)
 I can't help the way I hold you
 I just hunger for your love
-Oooh and I need to feel the heart of you
+Oh and I need to feel the heart of you
 I need to reach the deepest part of you
 
 Can I touch you there, touch you deep inside
@@ -95,7 +95,7 @@ Can I touch you there, can I touch you oh...(there)
 
 All I wanna dois touch you, baby
 Touch you very soul insideof you
-Oooh and I need to feel the heart of you
+Oh and I need to feel the heart of you
 I need to reach the very deepest part of you
 Oh, let me be the one to show you
 Just what love can do

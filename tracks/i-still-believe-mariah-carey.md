@@ -118,7 +118,7 @@ It's worth the risk of burning
 To have a second chance
 
 No, no, no, no, no, no, oh oh I need you baby
-I still believe that we can be together woah oh no, no, no, ooh
+I still believe that we can be together woah oh no, no, no, oh
 If we believe that true love never has to end
 Then we must know that we will love again ummm
 Oh woah, oh hoh, oh hoh
@@ -126,10 +126,10 @@ Oh woah, oh hoh, oh hoh
 
 I still believe
 Someday you and me
-Will find ourselves in love again (ooh baby, yeah yeah)
+Will find ourselves in love again (oh baby, yeah yeah)
 I had a dream, you and me
 Will find ourselves in love again, yeah
-I still believe (Ooh baby, I do)
+I still believe (Oh baby, I do)
 Someday you and me (Just give me one more try)
 In love again, yeah
 I had a dream (I missed your love)

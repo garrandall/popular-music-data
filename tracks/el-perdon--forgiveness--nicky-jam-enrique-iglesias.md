@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: el-perdon--forgiveness--nicky-jam-enrique-iglesias
+lyrics_url: https://genius.com/Nicky-jam-el-perdon-remix-lyrics
 name: El Perdon (Forgiveness)
 rankings:
 - end_date: '2015-04-17'
@@ -128,3 +129,98 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-10-31'
 ---
+Ah-ah
+
+
+Dime si e' verdad
+Me dijeron que te está' casando
+Tú no sabes lo que estoy sufriendo
+Esto te lo tengo que decir
+Cuéntame
+Tu despedida para mí fue dura
+Será que te llevo a la luna
+Y yo no supe hacerlo así
+
+
+Te estaba buscando
+Por la calle gritando
+Eso me está matando, oh no
+
+Te estaba buscando
+Por la calle gritando
+Como un loco tomando, oh-oh-oh-oh
+
+
+Es que yo sin ti, y tú sin mí
+Dime quién puede ser feliz
+Esto no me gusta
+Esto no me gusta
+
+Es que yo sin ti, y tú sin mí
+Dime quién puede ser feliz
+Eso no me gusta
+Eso no me gusta
+
+
+Vivir si ti no aguanto más
+Por eso vengo a decirte lo que siento
+Estoy sufriendo en esta soledad
+Y aunque tu padre no aprobó esta relación
+Yo sigo insistiendo a pedir perdón
+Lo único que importa está en tu corazón
+
+
+Te estaba buscando
+Por la calle gritando
+Esto me está matando oh no
+
+Te estaba buscando
+Por las calles gritando
+Como un loco tomando oh
+
+
+Es que yo sin ti, y tú sin mí
+Dime quién puede ser feliz
+Esto no me gusta
+Esto no me gusta
+
+Es que yo sin ti, y tú sin mí
+Dime quién puede ser feliz
+Eso no me gusta
+Eso no me gusta
+
+
+Yo te juré a ti este eterno amor
+Y ahora otro te da calor
+Cuando en las noches tienes frío, oh-oh
+Yo sé que él te parece mejor
+Pero yo estoy en tu corazón
+Y por eso pido perdón
+
+
+Es que yo sin ti, y tú sin mi
+Dime quién puede ser feliz
+Esto no me gusta oh no
+
+Es que yo sin ti, y tú sin mi
+Dime quién puede ser feliz
+Esto no me gusta
+Oh yeah
+
+
+(Tú sin mí)
+Dicen que uno no sabe lo que tiene
+Hasta que lo pierde pero
+(Y yo sin ti)
+Vale la pena luchar por lo que uno quiere
+(No puedo vivir así)
+Y hacer el intento
+(No quiero vivir así)
+
+
+N.I.C.K
+Nicky Jam, Enrique Iglesias
+(No quiero que me deje,  por favor)
+Haciendo historia
+Saga White Black
+(Y te pido perdón)

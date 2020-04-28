@@ -61,9 +61,6 @@ The combination of lost control
 The loss of soul, I wheeze
 Just give some ease to me
 
-
-
-
 Where do we go from here?
 You know I'm not the guilty one
 Where do we go from here?

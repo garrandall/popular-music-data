@@ -38,11 +38,11 @@ rankings:
 ---
 I'm confessin'.
 
-I'm confessin' that i love you tell me do you love me too
-I'm confessin' that i need you honest i do
+I'm confessin' that I love you tell me do you love me too
+I'm confessin' that I need you honest I do
 Need you every moment
 
-In your eyes i read such strange things
+In your eyes I read such strange things
 Must your lips deny they're true
 Will your answer really change things
 Leaving me blue
@@ -52,7 +52,7 @@ Saying can't we still be friends
 If you do you know you'll grieve me
 For all in life on you depends
 
-Am i guessing that you really love me
+Am I guessing that you really love me
 Dreaming dreams of you in vain
-I'm confessin' that i love you
+I'm confessin' that I love you
 Over again.

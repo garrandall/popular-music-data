@@ -56,15 +56,15 @@ rankings:
 
 Make it last
 Make it last forever (Ever)
-Don't let end our love end (Ooh...ooh...)
-(Ooh...ooh...ooh...oh...)
-Let's make it last (Ooh...ooh...ooh...oh...)
+Don't let end our love end (Oh...oh..)
+(Oh...oh...oh.oh...)
+Let's make it last (Oh...oh...oh.oh...)
 Let's make it last forever and ever
 Don't our let our love end (Oh...don't let love end), mmm...
 
 Let me hear you tell me you love me
 Let me hear you say you'll never leave me
-Ooh, girl, that would make me feel so right
+Oh, girl, that would make me feel so right
 Let me hear you tell me you want me
 Let me hear you say you'll never leave me, baby
 Until the morning light (I)
@@ -77,7 +77,7 @@ Can make me feel
 The way you make me, make me, make me feel
 
 Whoa...oh...oh...oh...oh...oh...
-Mmm...mmm....mmm...
+Mmm...mmm...mmm...
 Don't let our love end (Don't)
 Just make it last forever (Oh, make it last) and ever (Forever)
 
@@ -91,19 +91,19 @@ Could compare to what we have (Hell, no, baby)
 Love, it feels so good
 I'm so glad you're mine (Oh...oh...)
 
-Whoa...oh...oh...oh...oh...oh... (Ooh, baby)
-Make it last forever (Ooh...ooh...ooh...)
+Whoa...oh...oh...oh...oh...oh... (Oh, baby)
+Make it last forever (Oh...oh...oh.)
 Know that I love it (No, no, no, no, no, no)
 Make it last forever and ever (Yeah, yeah)
 
-Ooh, give me kisses (Kisses)
+Oh, give me kisses (Kisses)
 Love me (Love me), hold me (Hold me)
 Squeeze me (Squeeze me)
 Chillin' (Chillin'), come on (Come on)
 I love you (You know I do), baby
 
 Whoa...oh...oh...oh...oh...oh...
-Mmm...mmm....mmm...
+Mmm...mmm...mmm...
 Make it last forever (No, no, no, no, no, no)
 Don't let our love end (And ever)
 
@@ -113,14 +113,14 @@ Never, never, never let it end
 Just make it last forever (I loved to) and ever (Woo, oh)
 
 I want our love to last a lifetime (I'd give it up, give it up for you)
-Ooh, tell me, tell me you'll always be mine
+Oh, tell me, tell me you'll always be mine
 (I love you, love you, love you, love you, love you)
-To make love forever and ever (Ooh)
+To make love forever and ever (Oh)
 We've got to make it last
 Got to make it, got to make it, got to make (Ho...oh...), got to make it, oh, baby
 Oh, honey (Oh, honey)
 I love you (I love you)
-Ooh, you're the best thing in my world
+Oh, you're the best thing in my world
 The only thing in the world, I love you so
 
 

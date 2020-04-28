@@ -64,7 +64,7 @@ Since she went away
 
 Since he went away
 
-Oooh, a chair is still a chair
+Oh, a chair is still a chair
 Even when there's no one sitting there
 Well, I'm not meant to live alone
 Turn this house into a home

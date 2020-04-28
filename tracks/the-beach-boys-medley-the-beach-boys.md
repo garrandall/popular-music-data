@@ -125,7 +125,7 @@ Ah ah ah ah ah ah ah ah
 Round round get around
 I get around
 Yeah get around
-Ahh ooo ooo
+Ah oo oo
 
 It happened on the strip where the road is wide
 (Oooo rev it up now)
@@ -175,7 +175,7 @@ Goes cruising just as fast as she can now
 And she'll have fun fun fun
 'Til her daddy took the T-Bird away
 (Fun fun fun now that daddy took the T-Bird away)
-Ooo-wee ooo-weeoo
+Ooo-wee oo-weeoo
 (Fun fun fun now that daddy took the T-Bird away)
-Ooo-wee ooo-weeoo
+Ooo-wee oo-weeoo
 (Fun fun fun now that daddy took the T-Bird away)

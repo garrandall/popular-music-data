@@ -66,7 +66,7 @@ You're a smooth operator
 You're a gone alligator
 (Oh yeah)
 
-Ooh, tell me, baby
+Oh, tell me, baby
 Whatcha gonna do?
 You got me sighing
 Wishing for you

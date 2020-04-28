@@ -53,7 +53,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-10-19'
 ---
-Ooh
+Oh
 
 
 Watch  'nother Richard

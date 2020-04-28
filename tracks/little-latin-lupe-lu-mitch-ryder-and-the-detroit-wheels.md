@@ -57,7 +57,7 @@ Hey
 Hey
 
 Talkin 'bout my baby
-Ahhh, Latin Lupe Lu
+Ah, Latin Lupe Lu
 She's a high flyin' baby
 Ain't no dance she couldn't do
 She's my groovy little baby

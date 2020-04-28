@@ -129,10 +129,7 @@ But why can't every day be just this good
 Sometimes it's lonely, sometimes it's only me
 And the shadows that fill this room
 Sometimes I'm falling, desperately calling
-Howlin' at the moon ah-ooh
-
-
-
+Howlin' at the moon ah-oh
 
 Well I might go get me a new tattoo
 Or take my old Harley for a three day cruise

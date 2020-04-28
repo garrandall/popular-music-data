@@ -120,7 +120,7 @@ We will be together all of our days
 Wanna wake up every
 Morning to your sweet face - always
 
-Mmmm, baby
+Mmm, baby
 In your heart - I can still hear
 A beat for every time you kiss me
 And when we're apart

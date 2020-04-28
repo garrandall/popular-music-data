@@ -46,7 +46,7 @@ rankings:
 ---
 Little one it's so nice to have you near me
 To feel once again the love you bring here
-Ooh my little one, I am sorry for the pain you've felt
+Oh my little one, I am sorry for the pain you've felt
 Say the word and daddy will make it disappear
 
 
@@ -77,7 +77,7 @@ And you will always be there
 
 Little one, it's so nice to have you near me
 To feel once again the love you bring here
-Ooh my little one, I am sorry for the pain you've felt
+Oh my little one, I am sorry for the pain you've felt
 Say the word and daddy will make it disappear
 
 

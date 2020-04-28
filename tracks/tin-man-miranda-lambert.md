@@ -23,7 +23,7 @@ Better thank your lucky stars
 If you ever felt one breakin'
 You'd never want a heart
 
-Ohh, ohh, oh
+Ohh, oh, oh
 
 Hey there, Mr. Tin Man
 You don't know how lucky you are
@@ -34,8 +34,8 @@ You ain't missin' nothin'
 'Cause love is so damn hard
 Take it from me darlin', you don't want a heart
 
-Ohh, ohh, oh
-Ohh, ohh, oh
+Ohh, oh, oh
+Ohh, oh, oh
 
 Hey there, Mr. Tin Man
 I'm glad we talked this out
@@ -47,10 +47,10 @@ If you don't mind the scars
 You give me your armor
 And you can have my heart
 
-Ohh, ohh, oh
-Ohh, ohh, oh
-Ohh, ohh, oh
-Ohh, ohh, oh
+Ohh, oh, oh
+Ohh, oh, oh
+Ohh, oh, oh
+Ohh, oh, oh
 
 
 

@@ -43,7 +43,7 @@ and tomorrow night 'cause
 you're my-i-i-i-i-i, baby, you're my favorite waste of time.
 My-i-i-i-i-i, baby, you're my favorite wast of time.
 
-Ooh, ooh, ooh, yeah.
+Oh, oh oohyeah.
 You're my-i-i-i-i-i-i-i, baby, you're my favorite waste of time.
 My-i-i-i-i-i-i-i, baby, you're my favorite waste of time.
 

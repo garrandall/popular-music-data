@@ -100,7 +100,7 @@ Yeah, blues!
 
 (sax & instrumental)
 
-Come a little la-a-a-ate
+Come a little late
 Payin' up the dues
 Give you the blues
 I know, my little darlin'
@@ -122,16 +122,16 @@ Hush! Shush!
 Don't a-you cry, Lordy
 Little darlin', I see a girl
 No hope child, I, I, said a-right now
-A-listen, baby
+Listen, baby
 
 I don't, I don't, I don't
 I don't want you to die
 Don't-a, pretty baby child
-A-don't let-a tear, don't let a tear
+Don't let-a tear, don't let a tear
 Fall from yo eyes!
 Hey!
 
-All that mama do to please you-ooo
+All that mama do to please you-oo
 'Cause she paid her dues with blues
 
 Baby child, I said a-right now
@@ -144,15 +144,15 @@ So hush, pretty baby
 D'oh-whoa, oh-whoa
 Oh-whoa, oh-whoa
 Oh-whoa, oh-whoa
-Oh-whoa-ooooooh-n't
-You-ooo-ooooo
+Oh-whoa-oh-n't
+You-oo-oo
 
 Brrrrrrrrrrrrrrrrrr-ut
 Chuk-chuk
 Chuk-chuka-chuk-chuk
 Yo eyes!
 
-Said I never thought a-you black girl
+Said I never thought of you black girl
 Pretty baby, but I sympathize, now
 Good God-a-Mighty
 That's enough said, girl

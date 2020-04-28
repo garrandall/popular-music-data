@@ -105,7 +105,7 @@ rankings:
   start_date: '1979-09-08'
 ---
 Makin' it
-Ooh-ooh-ooh
+Oh-ohooh
 Makin' it
 
 I'm solid gold

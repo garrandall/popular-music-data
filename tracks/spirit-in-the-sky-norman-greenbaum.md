@@ -93,9 +93,6 @@ That's where you're gonna go when you die
 When you die and they lay you to rest
 You're gonna go to the place that's the best
 
-
-
-
 Never been a sinner, I never sinned
 I got a friend in Jesus
 So you know that when I die

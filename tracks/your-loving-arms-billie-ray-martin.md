@@ -100,8 +100,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-07-13'
 ---
-Oooh burnin' inside yeah I'm burnin' inside yeah
-Oooh burnin' inside now I'm burnin' inside now yeah
+Oh burnin' inside yeah I'm burnin' inside yeah
+Oh burnin' inside now I'm burnin' inside now yeah
 
 Yeah
 
@@ -124,7 +124,7 @@ And you whisper to me when you
 Put your loving arms around me
 And inside this love I'm yearning
 
-Mmmm
+Mmm
 
 And sometimes the way that you act makes me wonder
 What I am to you
@@ -148,12 +148,12 @@ And inside this love I'm yearning
 Yearning yearning
 Inside this love I'm yearning
 
-Oooh burnin' inside yeah I'm burnin' inside yeah
-Oooh burnin' inside now I'm burnin' inside now yeah
+Oh burnin' inside yeah I'm burnin' inside yeah
+Oh burnin' inside now I'm burnin' inside now yeah
 Burning inside yeah I'm burning inside
 Burning inside yeah I'm burning inside yeah
-Oooh burnin' inside yeah I'm burnin' inside yeah
-Oooh burning inside now I'm burning inside now yeah
+Oh burnin' inside yeah I'm burnin' inside yeah
+Oh burning inside now I'm burning inside now yeah
 Burning inside yeah I'm burning inside
 Burning inside yeah I'm burning inside yeah
 Yeah yeah

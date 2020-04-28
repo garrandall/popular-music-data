@@ -16,7 +16,7 @@ rankings:
 I don't wanna believe
 The bad things about you, oh, no, now
 'Cause if they're true
-I'll have to get along without you, oh, ooh, now
+I'll have to get along without you, oh, oh now
 
 I said the word, the sound on you Lord, yeah
 It's all about the things you do
@@ -49,7 +49,7 @@ Do you understand me?
 Do, do I, do I make myself clear?
 Oh, you better listen to her now
 
-Oh, yeah, ohh, yeah, now
+Oh, yeah, oh, yeah, now
 Oh, oh, oh
 
 So why won't you try to do

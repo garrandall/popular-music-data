@@ -49,15 +49,15 @@ She walks into Smokey's
 one hip at a time
 Like a broken field runner
 slippin' through the lines
-He likes the way she looks 
+He likes the way she looks
 so he calls a little wife
-says don't wait up for me, 
-I'll be workin late tonight. 
+says don't wait up for me,
+I'll be workin late tonight.
 Wife hangs up the phone bursts into tears
 calls her sister up and cries get over here.
 
 Sister tells her boyfriend be back in awhile
-boyfriend wants a beer, the store is just a mile. 
+boyfriend wants a beer, the store is just a mile.
 Leaves the motor runnin' he'll only be a minute,
 his car drives away with teenagers in it.
 Driver tells his buddies, got one life to live
@@ -79,7 +79,7 @@ lines go down, town goes dark.
 Waitress calls the cops says she saw it all
 swears a giant alien has landed at the mall
 Cops ring up the mayor says there's panic in the street,
-hate to wake you up but we cant find the chief,
+hate to wake you up but we can't find the chief,
 mayor says use your head, if he ain't in his car
 he's hiding from his wife, down at Smokey's bar
 

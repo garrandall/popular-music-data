@@ -143,7 +143,7 @@ So take my strong advice, just remember to always think twice
 She told my baby we'd danced till three, then she looked at me
 Then showed a photo of a baby crying, his eyes were like mine (Oh, no)
 'Cause we danced on the floor in the round, baby
-(Ooh, hee-hee-hee)
+(Oh, hee-hee-hee)
 
 
 People always told me, "Be careful of what you do
@@ -151,7 +151,7 @@ And don't go around breaking young girls' hearts"
 (Don't break no hearts!) (Hee-hee)
 She came and stood right by me
 Then the smell of sweet perfume (Ha-oh)
-This happened much too soon (Ha-oh, ha-ooh)
+This happened much too soon (Ha-oh, ha-oh)
 She called me to her room (Ha-oh, hoo!)
 
 

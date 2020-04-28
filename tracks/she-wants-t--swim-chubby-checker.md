@@ -49,7 +49,7 @@ Never get a chance
 Groupsha la la she wants t swim
 Ccwe hit the floor for a hour or two now
 Groupsha la la she wants t swim
-Ccthen i say baby what cha wanna do now
+Ccthen I say baby what cha wanna do now
 Groupsha la la she wants t swim
 Ccbaby can't sit down
 She moves around like a hound
@@ -58,7 +58,7 @@ Groupsha la la she wants t swim
 Ccall she wants to do is monkey
 All she wants to do is swim
 Then she wanna hully gully
-Never do what i wanna do
+Never do what I wanna do
 All she wants to do is cha cha
 Then she wanna do the dog
 Don't forget the wah-watusi
@@ -67,7 +67,7 @@ Ccdo it
 Groupshe wants t swim
 She wants t swim
 (Break)
-Ccall i want is a little lovin'
+Ccall I want is a little lovin'
 Groupsha la la she wants t swim
 Cci gotta have that good good lovin now
 Groupsha la la she wants t swim
@@ -78,7 +78,7 @@ Groupsha la la she wants t swim
 Ccall she wants to do is monkey
 All she wants to do is swim
 Then she wants a hully gully
-Never do what i wanna do
+Never do what I wanna do
 All she wanna do is cha cha
 Then she wanna do the dog
 Don't forget the wah-watusi

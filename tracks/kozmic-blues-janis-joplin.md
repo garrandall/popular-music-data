@@ -51,7 +51,7 @@ I keep movin' on
 But I never found out why
 I keep pushing so hard the dream,
 I keep tryin' to make it right
-Through another lonely day, whoaa. 
+Through another lonely day, whoaa.
 
 Dawn has come at last,
 Twenty-five years, honey just in one night, oh yeah.
@@ -59,34 +59,34 @@ Well, I'm twenty-five years older now
 So I know we can't be right
 And I'm no better, baby,
 And I can't help you no more
-Than I did when just a girl. 
+Than I did when just a girl.
 
 Aww, but it don't make no difference, baby, no, no,
 And I know that I could always try.
 It don't make no difference, baby, yeah,
 I better hold it now,
 I better need it, yeah,
-I better use it till the day I die, whoa. 
+I better use it till the day I die, whoa.
 
 Don't expect any answers, dear,
 For I know that they don't come with age, no, no.
 Well, ain't never gonna love you any better, babe.
 And I'm never gonna love you right,
-So you'd better take it now, right now. 
+So you'd better take it now, right now.
 
 Oh! But it don't make no difference, babe, hey,
 And I know that I could always try.
 There's a fire inside everyone of us,
 You'd better need it now,
 I got to hold it, yeah,
-I better use it till the day I die. 
+I better use it till the day I die.
 
 Don't make no difference, babe, no, no, no,
 And it never ever will, hey,
 I wanna talk about a little bit of loving, yeah,
 I got to hold it, baby,
 I'm gonna need it now,
-I'm gonna use it, say, aaaah, 
+I'm gonna use it, say, ah,
 
 Don't make no difference, babe, yeah,
 Ah honey, I'd hate to be the one.
@@ -94,7 +94,7 @@ I said you're gonna live your life
 And you're gonna love your life
 Or babe, someday you're gonna have to cry.
 Yes indeed, yes indeed, yes indeed,
-Ah, baby, yes indeed. 
+Ah, baby, yes indeed.
 
 I said you, you're always gonna hurt me,
 I said you're always gonna let me down,
@@ -103,7 +103,7 @@ And every way, every way.
 Ah honey won't you hold on to what's gonna move.
 I said it's gonna disappear when you turn your back.
 I said you know it ain't gonna be there
-When you wanna reach out and grab on. 
+When you wanna reach out and grab on.
 
 Whoa babe,
 Whoa babe,

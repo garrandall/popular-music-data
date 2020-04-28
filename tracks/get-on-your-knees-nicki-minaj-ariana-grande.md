@@ -42,7 +42,7 @@ Slow grindin', I'm twerkin' it, yeah, I bagged him, I Birkin'd it
 I don't need a dozen roses
 You ain't gotta wine and dine me, no
 I don't need a pretty poet
-Ooh, gettin' all emotional
+Oh gettin' all emotional
 You gotta beg for it, beg for it
 I wanna see you lookin' up
 Baby, I'mma need you to beg for it
@@ -69,7 +69,7 @@ Got me seein' them fireworks, I'm on my Kate Perry
 I don't need a dozen roses
 You ain't gotta wine and dine me, no
 I don't need a pretty poet
-Ooh, gettin' all emotional
+Oh gettin' all emotional
 You gotta beg for it, beg for it
 I wanna see you lookin' up
 Baby, I'mma need you to beg for it
@@ -77,7 +77,7 @@ Baby, I'mma need you to beg for it
 
 (Let's go)
 'Cause we are just animals
-Baby, it's primal (it's primal....)
+Baby, it's primal (it's primal...)
 I want you on all fours
 (And before I let you walk, you gotta show me how you crawl)
 If you want it all (yeah, you want it all?)
@@ -89,7 +89,7 @@ So do as I say
 I don't need a dozen roses
 You ain't gotta wine and dine me, no
 I don't need a pretty poet
-Ooh, gettin' all emotional
+Oh gettin' all emotional
 You gotta beg for it, beg for it
 I wanna see you lookin' up
 Baby, I'mma need you to beg for it

@@ -71,7 +71,7 @@ Must be love
 
 
 Must be love, must be love
-Woahh, oohhh, must be love
+Woah, oh, must be love
 
 Now I enjoy the time I spent
 A-livin' alone

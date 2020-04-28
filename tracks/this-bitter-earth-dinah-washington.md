@@ -71,7 +71,7 @@ What good is love
 Mmm, that no one shares
 
 And if my life is like the dust
-Ooh, that hides the glow of a rose
+Oh that hides the glow of a rose
 What good am I
 Heaven only knows
 
@@ -83,7 +83,7 @@ Too soon, you're old
 But while a voice within me cries
 I'm sure someone may answer my call
 And this bitter earth
-Ooh, may not, oh, be so bitter after all
+Oh may not, oh, be so bitter after all
 
 
 

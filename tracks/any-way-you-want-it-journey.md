@@ -81,12 +81,12 @@ She loves to groove
 She loves the loving things
 
 
-Ooh, all night
+Oh, all night
 All night
 Oh, every night
 So hold tight
 Hold tight
-Ooh, baby, hold tight
+Oh, baby, hold tight
 Oh, she said
 
 
@@ -101,17 +101,17 @@ Any way you want it
 I was alone
 I never knew
 What good love could do
-Ooh, then we touched
+Oh, then we touched
 Then we sang
 About the loving things
 
 
-Ooh, all night
+Oh, all night
 All night
 Oh, every night
 So hold tight
 Hold tight
-Ooh baby, hold tight
+Oh baby, hold tight
 Oh, she said
 
 
@@ -125,7 +125,7 @@ Any way you want it
 
 
 
-She said ohh
+She said oh
 Hold on
 Hold on
 Hold on

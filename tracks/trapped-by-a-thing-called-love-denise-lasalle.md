@@ -95,4 +95,4 @@ I'm trapped, I can't help myself
 I'm hooked on you baby, I just can't help myself
 I can never be happy loving no one else
 Oh, baby
-Ooh baby
+Oh baby

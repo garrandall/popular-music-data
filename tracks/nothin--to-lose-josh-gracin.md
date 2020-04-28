@@ -116,9 +116,6 @@ Falling head over heels
 Hey what can I do
 
 
-
-
-
 Now I'm in the fast lane going 98
 By now I know she can
 Smooth operate me

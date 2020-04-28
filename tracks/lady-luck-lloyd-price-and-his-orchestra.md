@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: lady-luck-lloyd-price-and-his-orchestra
+lyrics_url: https://genius.com/Lloyd-price-lady-luck-lyrics
 name: Lady Luck
 rankings:
 - end_date: '1960-02-07'
@@ -59,4 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-25'
 ---
+Oh, lady luck turned her back on me
+Now I'm full of misery
+There's only one thing left for me to do
+Try not to think about you
 
+I'm just as blue as a sad old song
+Night and day everything go wrong
+There's only one thing left for me to do
+Try not to think about you
+
+I'm just as blue as a sad old song
+Night and day everything go wrong
+There's only one thing left for me to do
+Try not to think about you
+
+Oh, oh, oh, over and over again
+Come-a, come-a, come-a, come-a to me
+Oh oh oohwee child
+I've got to win your love somehow
+
+Went to the river but I couldn't jump in
+Now I know I just can't win
+There's only one thing left for me to do
+Is try not to think about you
+
+Oh yeah, oh lady luck, oh yeah
+Oh, oh, oh, oh, over and over now
+Please a come-a, come-a, come-a to me
+Oh oh oohwee child
+I've got to win your love somehow
+
+I went to the river but I couldn't jump in
+Now I know I just can't win
+There's only one thing left for me to do
+Is try not to think about you
+Oh yeah, oh lady luck

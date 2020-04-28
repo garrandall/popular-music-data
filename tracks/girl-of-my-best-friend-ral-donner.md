@@ -74,12 +74,12 @@ And hold her in my arms, but then (ah, ah, ah, ah)
 What if she got real mad and told him so?
 I could never face either one again (bum, bum, bum, bum)
 Ah, hah, umm
-The way they kiss (bah dooby ooh)
-Their happiness (bah dooby ooh)
+The way they kiss (bah dooby oh
+Their happiness (bah dooby oh
 Will my aching heart ever mend?
 Or will I always be in love with the girl of my best friend?
-(bah dooby ooh) Please make it end
-(bah dooby ooh) Oh, let it end
-(bah dooby ooh) Why won't it end?
+(bah dooby oh Please make it end
+(bah dooby oh Oh, let it end
+(bah dooby oh Why won't it end?
 FADE
 From: "Roy T. O'Conner"

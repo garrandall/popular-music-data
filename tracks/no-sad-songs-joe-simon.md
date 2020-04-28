@@ -49,7 +49,7 @@ And now they're gone
 No sad songs for me
 Now that I know what love can be
 You put a lovin'
-That used to be great 
+That used to be great
 Honey, I love you
 For eternally
 
@@ -60,13 +60,6 @@ I knew someday I'd find
 Love, joy, peace of mind
 God bless the day, baby
 You took those sad songs away
-
-
-
-
-
-
-
 
 I feel so good
 Down inside

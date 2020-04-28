@@ -61,7 +61,7 @@ D.e.t.y.s.l.a
 Don't ever take your sweet love away
 I.c.l.m.l.t.w
 I can't live my life that way
-(Woo-ooo!)
+(Woo-oo!)
 Alright
 
 'Tell them'

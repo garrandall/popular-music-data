@@ -74,21 +74,10 @@ When you can't find someone else in love
 Long walk, soft talk
 Hard to believe it, what were the odds of
 
-
-
-
 You and me, all alone
 That's my favorite time of night
 Nothing for us to do
 But finding ways to hold each other tight
 
 Imagine
-
-
-
-
-
-
-
-
 

@@ -94,7 +94,7 @@ I should have listened when you said good night
 You really meant good bye
 Baby, ain't it funny how we never ever learn to fall
 You're really on your knees, when you think you're standing tall
-But only fools are "know-it-alls" and i played that fool for you
+But only fools are "know-it-alls" and I played that fool for you
 
 
 I cried and I cried
@@ -107,7 +107,7 @@ And if the river I’ve cried ain’t that long
 Then I'm wrong, yeah I'm wrong, this ain't a love song
 
 
-Baby, i thought you and me would stand the test of time
+Baby, I thought you and me would stand the test of time
 Like we got away with the perfect crime
 But we were just a legend in my mind
 I guess that I was blind

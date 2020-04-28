@@ -59,9 +59,6 @@ Got 5 star with me a milli in the lobby,
 Took her to the room, she hit me with that line,
 She ain't that type of girl so I told her stop lying,
 
-
-
-
 Young money, yeah, ok,
 I ain't gotta lie, cross my heart hope to die,
 The numbers don't lie, G-5, over sky

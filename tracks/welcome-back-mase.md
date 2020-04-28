@@ -87,7 +87,7 @@ Me and Kunta Love rollin' back to back in one
 
 See the names have all changed since I been around
 But the game ain't the same since I left out
-Ooh you know we need ya, ooh you know we need ya
+Ohyou know we need ya, ohyou know we need ya
 Right here's where we need ya, right here's where we need ya
 Welcome back.
 Welcome back, welcome back, Betha's back (You know you like that)
@@ -118,7 +118,7 @@ And I ain't even sellin' the track, cause I'm that Harlem cat
 
 See the names have all changed since I been around
 But the game ain't the same since I left out
-Ooh you know we need ya, ooh you know we need ya
+Ohyou know we need ya, ohyou know we need ya
 Right here's where we need ya, right here's where we need ya
 Welcome back.
 Welcome back, welcome back, Betha's back (You know you like that)
@@ -129,7 +129,7 @@ You know you like that
 Welcome back, welcome back, Harlem's back (You know you like that)
 See the names have all changed since I been around
 But the game ain't the same since I left out
-Ooh you know we need ya, ooh you know we need ya
+Ohyou know we need ya, ohyou know we need ya
 Right here's where we need ya, right here's where we need ya
 Welcome back.
 Welcome back, welcome back, Betha's back (You know you like that)

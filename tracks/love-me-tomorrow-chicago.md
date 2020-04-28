@@ -99,10 +99,5 @@ Love me tomorrow like today
 Love me tomorrow, hurry back
 Can't you see I need you more than any words can say?
 
-
-
-
-
-
 Love me tomorrow, love me tomorrow like today
 Love me tomorrow, I need you much more than yesterday

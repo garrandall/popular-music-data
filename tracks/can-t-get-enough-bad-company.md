@@ -101,7 +101,7 @@ I can't get enough of your love
 I can't get enough of your love
 I can't get enough of your love
 
-Say it again, aah
+Say it again, ah
 I can't get enough of your love
 I can't get enough of your love
 I can't get enough of your love

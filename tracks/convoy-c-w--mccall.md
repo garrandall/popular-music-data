@@ -130,7 +130,7 @@ They'd brought up some reinforcements
 From the Illinois National Guard
 
 There's armored cars and tanks and jeeps
-And rigs of ev'ry size
+And rigs of every size
 Yeah, them chicken coops was full'a bears
 And choppers filled the skies
 

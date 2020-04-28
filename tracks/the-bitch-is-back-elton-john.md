@@ -73,7 +73,7 @@ But the fever's gonna catch you when the bitch gets back (oh)
 Eat meat on Friday, that's alright
 I even like steak on a Saturday night
 I can bitch the best at your social do's
-I get high in the evening sniffing pots of glue, ooh
+I get high in the evening sniffing pots of glue, oh
 
 
 I'm a bitch, I'm a bitch, oh, the bitch is back

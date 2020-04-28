@@ -116,7 +116,7 @@ All my niggas look rich as fuck
 All my niggas live rich as fuck
 All my niggas look rich as fuck
 
-Never talk to the cops, I dont speak pig latin
+Never talk to the cops, I don't speak pig latin
 I turn the penny to a motherfucking Janet Jackson
 Tell the bitches that be hatin I ain't got no worries
 I just wanna hit and run like I ain't got insurance
@@ -143,7 +143,7 @@ That pussy feel just like heaven on earth
 Six feet deep, dick shovel in the dirt, R.I.P. - Rest In Pussy
 Light that shit then pass that shit, we gon get so smoked out
 And then I went got locked up, every night I dreamt I broke out
-One Time for them pussy niggas, that's that shit I dont like
+One Time for them pussy niggas, that's that shit I don't like
 We eating over here nigga, fuck around and have a food fight
 And that's 2 Chainz...
 

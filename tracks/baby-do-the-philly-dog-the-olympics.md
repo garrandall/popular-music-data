@@ -47,9 +47,9 @@ Yeah, ain't a grove
 (Feelin it, yeah, ha ha hey)
 Rrr, look at the children's head move
 
-It spread from east to west (ooh, philly dog)
+It spread from east to west (oh philly dog)
 My baby can do it best
-Earth shakin', back breakin', lookin' cool (ooh, philly dog)
+Earth shakin', back breakin', lookin' cool (oh philly dog)
 Oh, I like the way you move
 
 Philly dog (baby, do the philly dog)
@@ -64,9 +64,9 @@ Dig this children's head move
 
 Ah, hit me man
 
-Come on, plan' boy and do it too (ooh, philly dog)
+Come on, plan' boy and do it too (oh philly dog)
 You dig the barefoot and boogaloo
-Look at Fanny gettin' in the grove (ooh, philly dog)
+Look at Fanny gettin' in the grove (oh philly dog)
 If they can do it, so can you
 
 Philly dog (baby, do the philly dog)

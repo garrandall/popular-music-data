@@ -90,10 +90,10 @@ Young Heff - c'mon rock!
 
 Checking in the closet for my blue Velour suit
 Piping all around it wit the matchin' Timb boots
-Hop up in the wagon wit the 20 inch shoes on.. ohh
+Hop up in the wagon wit the 20 inch shoes on.. oh
 Riding down the street wit a twenty G stack
 Shorty paging me saying "Zino where you at?"
-Look up in the mirror 5-0 up on my back it's - uh ohh
+Look up in the mirror 5-0 up on my back it's - uh oh
 Pull up in the spot smoking in the parking lot
 Everybody having fun niggas don't stop
 Pray to God that I don't have to let the guns pop it's
@@ -104,11 +104,11 @@ Step it up to Louie now let's see what happens next
 
 We gon' throw the party (yeah) rock the party (rock)
 Then drink Bakardi (c'mon) freak somebody (freak)
-Then leave the party to the after party y'all.. ohh
+Then leave the party to the after party y'all.. oh
 What we gon' do?!
 We gon' throw the party rock the party
 Then drink Bacardi freak somebody
-Then leave the party to the after party y'all.. ohh
+Then leave the party to the after party y'all.. oh
 What we gon' do?!
 
 
@@ -120,7 +120,7 @@ Rock it to the beat then we took it to the floor
 DJ in the club spinning record back and forth - oh
 People going hard cause you know the mood is right
 Everybody screaming like they at a Tyson fight
-Young Heff in the back wit a dime looking tight, oh-my - ohhh
+Young Heff in the back wit a dime looking tight, oh-my - oh
 Hit the sour diesel mami bouncing on my lap
 VIP crowded so I take it to the back
 Up in the coat room where you find 'Zino at
@@ -145,9 +145,6 @@ Sun's coming up bout to close the blinds
 This is how we do almost everyday
 Now meet me upstairs with Courvoisier
 
-
-
- (2x)
 What is a party if it don't rock?
 We just gon' proceed to make it hot
 A Yellowcity party, no it don't stop

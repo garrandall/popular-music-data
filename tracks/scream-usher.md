@@ -101,12 +101,12 @@ Yeah, man
 
 I see you over there, so hypnotic
 Thinking 'bout what I'd do to that body
-I'd get you like ooh baby, baby, ooh baby, baby
-Ooh baby, baby, ooh baby, baby
+I'd get you like oh baby, baby, oh baby, baby
+Oh baby, baby, oh baby, baby
 Got no drink in my hand, but I'm wasted
 Getting drunk off the thought of you naked
-I get you like ooh baby, baby, ooh baby, baby
-Ooh baby, baby, ooh baby, baby
+I get you like oh baby, baby, oh baby, baby
+Oh baby, baby, oh baby, baby
 
 
 And I try to fight it, to fight it
@@ -117,19 +117,19 @@ Now relax and get on your back
 
 If you wanna scream, “yeah”
 Let me know and I'll take you there
-Get you going like ooh baby, baby, ooh baby, baby
-Ooh baby, baby, ooh baby
+Get you going like oh baby, baby, oh baby, baby
+Oh baby, baby, oh baby
 If you want it done right
 Hope you're ready to go all night
-Get you going like ooh baby, baby, ooh baby, baby
-Ooh baby, baby, ooh baby
+Get you going like oh baby, baby, oh baby, baby
+Oh baby, baby, oh baby
 If you wanna scream (Yeah, c'mon)
 
 
 Kill the lights, shut them off, you're electric
 Devil eyes telling me come and get it
-I'll have you like ooh baby, baby, ooh baby, baby
-Ooh baby, baby, ooh baby, baby
+I'll have you like oh baby, baby, oh baby, baby
+Oh baby, baby, oh baby, baby
 Girl, tonight, you're the prey, I'm the hunter (Hunter)
 Take you here, take you there, take you under
 Imagine me, whispering in your ear that I wanna
@@ -144,12 +144,12 @@ Now relax and get on your back
 
 If you wanna scream, “yeah”, oh
 Let me know and I'll take you there
-Get you going like ooh baby, baby, ooh baby, baby
-Ooh baby, baby, ooh baby
+Get you going like oh baby, baby, oh baby, baby
+Oh baby, baby, oh baby
 If you want it done right
 Hope you're ready to go all night
-Get you going like ooh baby, baby, ooh baby, baby, yeah
-Ooh baby, baby, ooh baby
+Get you going like oh baby, baby, oh baby, baby, yeah
+Oh baby, baby, oh baby
 If you wanna scream
 
 
@@ -161,10 +161,10 @@ Hey, somebody scream out with me, oh
 
 If you wanna scream, “yeah”
 Let me know and I'll take you there
-Get you going like ooh baby, baby, ooh baby, baby
-Ooh baby, baby, ooh baby
+Get you going like oh baby, baby, oh baby, baby
+Oh baby, baby, oh baby
 If you want it done right (Right)
 Hope you're ready to go all night
-Get you going like ooh baby, baby, ooh baby, baby
-Ooh baby, baby, ooh baby
+Get you going like oh baby, baby, oh baby, baby
+Oh baby, baby, oh baby
 If you wanna scream (Scream, scream, scream)

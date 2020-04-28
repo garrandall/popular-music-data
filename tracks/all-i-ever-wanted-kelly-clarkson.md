@@ -44,7 +44,7 @@ You givin' takin' everything I dreamed about
 It's time you let me know, let me know just let go
 
 
-All I ever wanted 
+All I ever wanted
 All I ever wanted
 Was a simple way to get over you
 All I ever wanted
@@ -57,7 +57,7 @@ All I ever wanted was you
 I'd rather walk alone
 Don't wanna chase you around
 Every day every day every minute
-I'd fall a thousand times 
+I'd fall a thousand times
 'fore I let you drag me down
 Every day every day ... hey hey
 Your new beginning was a perfect ending
@@ -70,8 +70,4 @@ Tell me with so many out there why I always turn to you
 Your goodbyes tear me down every time
 And it's so easy to see
 That the blame is on me
-
-
-
-
 

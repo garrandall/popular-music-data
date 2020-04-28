@@ -56,7 +56,7 @@ I'm legally obligated if they request it
 So much legal action like I'm Michael Jackson
 Luckily, I'm great at avoidin' distraction
 Used to give no reaction, now I'm overreacting
-Ahh nigga, that shit gotta go platinum
+Ah nigga, that shit gotta go platinum
 I just listened to Closer to My Dreams
 Wide eyed and uneducated at 19
 I can't rap like that, all young and naive

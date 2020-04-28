@@ -230,7 +230,7 @@ Hey shawty
 You think you bad but you ain't bad
 I'll show you what bad is.
 Bad is when you capable of beatin' the baddest.
-I been workin' at it ever since i came to this planet
+I been workin' at it ever since I came to this planet
 And I ain't quite there yet but I'm gettin' better at it.
 Matter of fact,
 Lemme tell it to you one mo' again

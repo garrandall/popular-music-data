@@ -72,7 +72,7 @@ rankings:
 Hey there Mystery Lady can I spend the night with you
 Can I have your number I'll be anything you want me to
 We ought to get something started
-Ooh I can tell so very well
+Oh I can tell so very well
 He has left you brokenhearted
 It's time to start mending you heart
 Darling when the nights are cold and lonely - I will keep you warm

@@ -105,7 +105,7 @@ I know you mad, you didn't see it my way
 Since I've been gone, I've been out of space
 I let lil' shawty, come here, take your place
 
-Ooh, you got it (Got it)
+Oh, you got it (Got it)
 You couldn't keep my love, you too exotic (Couldn't keep my love, yeah)
 You want a paper plane, I don't mind it (You want a paper plane, yeah)
 You wonder why your girl always whining (Wonder why your girl, yeah)

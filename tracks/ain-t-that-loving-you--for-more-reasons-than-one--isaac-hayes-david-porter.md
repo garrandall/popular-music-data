@@ -51,14 +51,14 @@ Love you, I love you, baby, love you
 For what you may become
 
 Ain't that loving you everyday, every way
-Ain't that loving you, ohh, yeah, for more reasons than one
+Ain't that loving you, oh, yeah, for more reasons than one
 You're the one, you're the one, only one, only one
 You're the one, I betcha never thought about it
 
 Did it ever occur to you, why I do all that I can do?
 To keep that smile upon your face that's why I love you
 In so many ways, that's why I love you
-In so many ways, ooh, la, baby
+In so many ways, oh la, baby
 
 Somehow, my love
 You've been misled
@@ -66,11 +66,11 @@ By the things that others
 Other guys have said, slammed the door in your face
 
 But I love you, everyday for what you are
-Girl I even love you, I love you, love you, ooh
+Girl I even love you, I love you, love you, oh
 For what you may become
 
 Ain't that loving you, whole lot of love, everyday
-Ain't that loving you, in every way, ohh, yeah
+Ain't that loving you, in every way, oh, yeah
 For more reasons than one, you're the one
 You're the one, only one, you're the one, listen girl
 
@@ -88,6 +88,6 @@ And there's no doubt I'm the only man, yeah
 That could satisfy you, that could satisfy
 I love to satisfy you, I love you, baby
 
-Ohh, baby, ohh, baby, I love you baby
+Ohh, baby, oh, baby, I love you baby
 For more reasons than one
 You're the one, you're the one

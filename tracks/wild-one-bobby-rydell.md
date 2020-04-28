@@ -74,7 +74,7 @@ rankings:
 ---
 Oh wild one I'm-a gonna tame you down (tame you down)
 Ah, wild one I'll get you yet (yeah yeah) you bet (yeah yeah)
-You little doll all you do is play, you've got a new baby ev'ry day
+You little doll all you do is play, you've got a new baby every day
 But some day it's gonna be me, me and only me
 
 Oh oh oh oh wild one I'll make you settle down (settle down)
@@ -89,7 +89,7 @@ Whoa, yeah, baby
 (yeah yeah)
 (wah wah wah wah)
 
-You little doll all you do is play, you've got a new baby ev'ry day
+You little doll all you do is play, you've got a new baby every day
 But some day it's gonna be me, me and only me
 
 Oh oh oh oh wild one I'll make you settle down (settle down)

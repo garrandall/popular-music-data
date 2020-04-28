@@ -46,7 +46,7 @@ Seems to me, girl, you know I've done all I can
 You see I begged, stole, and I borrowed, yeah
 
 
-Ooh, that's why I'm easy (Ah, ah, ah, ah)
+Oh, that's why I'm easy (Ah, ah, ah, ah)
 I'm easy like Sunday morning, yeah (Ah, ah, ah, ah)
 That's why I'm easy (Ah, ah, ah, ah)
 I'm easy like Sunday morning
@@ -61,7 +61,7 @@ Ugh
 
 
 
-Oh, ooh, that's why I'm easy (Ah, ah, ah, ah)
+Oh, oh that's why I'm easy (Ah, ah, ah, ah)
 I'm easy like Sunday morning, yeah (Ah, ah, ah, ah)
 That's why I'm easy, yeah (Ah, ah, ah, ah)
 I'm easy like Sunday morning

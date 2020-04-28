@@ -102,7 +102,7 @@ It makes me wanna move
 It makes me wanna have fun
 But it's something about this joint right here
 This joint right here
-Its makes me wanna.... Woo!
+Its makes me wanna... Woo!
 
 
 Let it go...
@@ -124,9 +124,9 @@ I ain't gonna let you kill it
 You see I wouldn't change my life, my life's just...
 
 
-Fine, fine, fine, fine, fine, fine, ooh
-Fine, fine, fine, fine, fine, fine, ooh
-Just fine, fine, fine, fine, fine, fine, ooh
+Fine, fine, fine, fine, fine, fine, oh
+Fine, fine, fine, fine, fine, fine, oh
+Just fine, fine, fine, fine, fine, fine, oh
 You see I wouldn't change my life, my life's just fine
 
 
@@ -149,9 +149,9 @@ If I want to get better
 See I wouldn't change my life, my life's just...
 
 
-Fine, fine, fine, fine, fine, fine, ooh
-Fine, fine, fine, fine, fine, fine, ooh
-Just fine, fine, fine, fine, fine, fine, ooh
+Fine, fine, fine, fine, fine, fine, oh
+Fine, fine, fine, fine, fine, fine, oh
+Just fine, fine, fine, fine, fine, fine, oh
 See I won't change my life, my life's just fine
 
 
@@ -166,9 +166,9 @@ It's a really good thing to say
 That I won't change my life, my life's just...
 
 
-Fine, fine, fine, fine, fine, fine, ooh
-Fine, fine, fine, fine, fine, fine, ooh
-Just fine, fine, fine, fine, fine, fine, ooh
+Fine, fine, fine, fine, fine, fine, oh
+Fine, fine, fine, fine, fine, fine, oh
+Just fine, fine, fine, fine, fine, fine, oh
 See I won't change my life, my life's just fine
 
 
@@ -181,7 +181,7 @@ I ain't gonna let you kill it
 You see I wouldn't change my life, my life's just...
 
 
-Fine, fine, fine, fine, fine, fine, ooh
-Fine, fine, fine, fine, fine, fine, ooh
-Just fine, fine, fine, fine, fine, fine, ooh
+Fine, fine, fine, fine, fine, fine, oh
+Fine, fine, fine, fine, fine, fine, oh
+Just fine, fine, fine, fine, fine, fine, oh
 You see I wouldn't change my life, my life's just fine

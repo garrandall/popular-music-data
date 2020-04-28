@@ -28,8 +28,8 @@ You know I don't believe it when you say that you don't need me
 
 It's much too late to find you think you've changed your mind
 You'd better change it back or we will both be sorry
-Don't you want me, baby? Don't you want me, ohh?
-Don't you want me, baby? Don't you want me, ohh?
+Don't you want me, baby? Don't you want me, oh?
+Don't you want me, baby? Don't you want me, oh?
 
 
 I was working as a waitress in a cocktail bar
@@ -49,12 +49,12 @@ You know I don't believe it when you say that you don't need me
 
 It's much too late to find you think you've changed your mind
 You'd better change it back or we will both be sorry
-Don't you want me, baby? Don't you want me, ohh?
-Don't you want me, baby? Don't you want me, ohh?
-(oooh oh oooh oh oooh oh oooh oooh)
+Don't you want me, baby? Don't you want me, oh?
+Don't you want me, baby? Don't you want me, oh?
+(oh ohohoh oh oh)ohoh
 
-Don't you want me, baby? Don't you want me, ohh?
-Don't you want me, baby? Don't you want me, ohh?
-Don't you want me, baby? Don't you want me, ohh?
-Don't you want me, baby? Don't you want me, ohh?
+Don't you want me, baby? Don't you want me, oh?
+Don't you want me, baby? Don't you want me, oh?
+Don't you want me, baby? Don't you want me, oh?
+Don't you want me, baby? Don't you want me, oh?
 Don't you want me, baby?

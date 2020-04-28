@@ -68,5 +68,3 @@ Well now you're in heaven
 (You're in heaven, take hold of my hand)
 Well now you're in heaven
 You're in heaven with me
-
-Repeat chorus as it fades

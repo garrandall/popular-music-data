@@ -135,9 +135,6 @@ We can take a ride
 And feel the love that you've been missing
 I'm so bonafide
 
-
-
-
 You can call me
 You can call me
 Call me

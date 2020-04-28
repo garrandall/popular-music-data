@@ -48,7 +48,7 @@ Lately I find myself driving past your house
 Past the bar we used to go, whoa
 Anywhere that you might be
 Oh, that's where my body leads me
-Ooh, it's the only place I know
+Oh, it's the only place I know
 Gonna follow where it leads me
 Even if I don't wanna go
 
@@ -83,7 +83,7 @@ This time I won't, this time I won't
 This time I won't run from you
 
 (Back to the bullet)
-Ooh, I won't run from you
+Oh, I won't run from you
 No, no, no, no, no, no
 I won't run from you
 Whoa, whoa, whoa

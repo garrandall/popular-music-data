@@ -80,7 +80,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-02-01'
 ---
-In the desert sun ev'ry step that you take could be the final one
+In the desert sun every step that you take could be the final one
 And in the burning heat
 Hanging on the edge of destruction
 No
@@ -104,9 +104,9 @@ Walk tall
 Bruised
 Sensual
 Ravaged
-It's ev'ry man for himself
-Ev'ry woman
-Ev'ry child
+It's every man for himself
+Every woman
+Every child
 A new breed
 Ferocious and wild
 And all they wanna do is shoot bullets of fire

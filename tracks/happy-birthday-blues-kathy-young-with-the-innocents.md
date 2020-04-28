@@ -51,19 +51,19 @@ rankings:
 There she sits all alone, her tear begins to shed
 A written letter in her hand, this is how it read:
 
-Turned sixteen just yesterday (ooh-ooh-ooh)
-All my world was bright and gay (ooh-ooh-ooh)
+Turned sixteen just yesterday (oh-oh-oh)
+All my world was bright and gay (oh-oh-oh)
 Thought for sure you'd write or call but you didn't after all
 Got the happy birthday blues (happy birthday blues)
-Maybe you had lots to do (ooh-ooh-ooh)
-Or you found somebody new (ooh-ooh-ooh)
-How i pray you'll hear my plea, i'm as lonely as can be
+Maybe you had lots to do (oh-oh-oh)
+Or you found somebody new (oh-oh-oh)
+How I pray you'll hear my plea, i'm as lonely as can be
 Got the happy birthday blues (happy birthday blues)
 I planned just how this day would be for such a long, long time
-You'd wish me "happy birthday" while i held your hand in mine
-I'd blow out all the candles while i wished that you and i
+You'd wish me "happy birthday" while I held your hand in mine
+I'd blow out all the candles while I wished that you and i
 Would be together ever more until the day we die
-As i sit here in the gloom (ooh-ooh-ooh)
-Of my cold and lonely room (ooh-ooh-ooh)
+As I sit here in the gloom (oh-oh-oh)
+Of my cold and lonely room (oh-oh-oh)
 How my heart is filled with fears and my eyes are filled with tears
 Got the happy birthday blues (happy birthday blues)

@@ -140,7 +140,7 @@ I wake up to a sunny day
 'Cause I love a rainy night
 Yeah, I love a rainy night
 Well, I love a rainy night
-Well, I love a rainy night, ooh ooh
+Well, I love a rainy night, oh oh
 
 I love a rainy night
 I love a rainy night
@@ -160,8 +160,8 @@ Puts a smile on my face every time
 
 'Cause I love a rainy night
 Yeah, I love a rainy night
-Ooh, I love a rainy night
-Yeah, I love a rainy night, ooh ooh
+Oh, I love a rainy night
+Yeah, I love a rainy night, oh oh
 
 Showers wash all my cares away
 I wake up to a sunny day
@@ -175,7 +175,7 @@ Well, I love a rainy night
 You can see it in my eyes
 Yeah, I love a rainy night
 'Cause it makes me high
-Ooh, I love a rainy night
+Oh, I love a rainy night
 You know I do
 Yeah yeah, I love a rainy night
 

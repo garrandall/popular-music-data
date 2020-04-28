@@ -19,7 +19,7 @@ Uh
 
 Gettin' high in the skybox, I can see, yeah (See, yeah)
 Hot spot and it's plushed out, honestly, yeah (Yeah)
-Exclusive drop, hmm, Gucci socks, got 'em drippin' (Drippin')
+Exclusive drop, hm, Gucci socks, got 'em drippin' (Drippin')
 Fuck the cops, we can't be stopped, just admit it
 
 Hey (Hey), hey (Hey), hey (Hey)
@@ -44,7 +44,7 @@ Smoke Lodi Dodi, we sit in the lobby, we just rented out the whole floor, uh
 
 Gettin' high in the skybox, I can see, yeah (See, yeah)
 Hot spot and it's plushed out, honestly, yeah (Yeah)
-Exclusive drop, hmm, Gucci socks, got 'em drippin' (Drippin')
+Exclusive drop, hm, Gucci socks, got 'em drippin' (Drippin')
 Fuck the cops (Uh), we can't be stopped, just admit it ('Mit it)
 
 Paint the town (Town), and slime committed ('Mitted)
@@ -60,7 +60,7 @@ I popped a capsule, she wanna wrestle (Woah)
 I done got tackled, drunk on the Henny (Henny)
 Turned to a saddle, I had to handle (Woah)
 I'm 'bout to smack 'em both on the fanny (Fanny)
-I put four twelves in the V12 (Ooh), my Benz truck startin' to rattle (Woah-woah)
+I put four twelves in the V12 (Oh), my Benz truck startin' to rattle (Woah-woah)
 She say she smell I'm doin' well, when I wanna fuck, it don't matter (Uh-uh)
 Bitch, I'm a shark, I'm not a whale, lean in my cup and my bladder (My bladder)
 I got it on lock like I'm in jail, soon as they buck, they gettin' splattered (Get splat)
@@ -71,7 +71,7 @@ They cause you to flop, Biscotti when I'm coughin', I'm tryna get higher than ev
 
 Gettin' high in the skybox, I can see, yeah (See, yeah)
 Hot spot and it's plushed out, honestly, yeah (Yeah)
-Exclusive drop, hmm, Gucci socks, got 'em drippin' (Drippin')
+Exclusive drop, hm, Gucci socks, got 'em drippin' (Drippin')
 Fuck the cops (Uh), we can't be stopped, just admit it ('Mit it)
 
 Paint the town (Town), and slime committed ('Mitted)

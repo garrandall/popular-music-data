@@ -93,7 +93,7 @@ I cut all my niggas off, but they would still wife me (still wife me)
 They would still wife me
 They would still wife me
 Yup, him too, he would still wife me
-Ahh, ha
+Ah, ha
 When it come to stealin' flows, these birds is fluent
 But they stutter when get asked 'bout the queen's influence
 When it's clear they bite me, I'm flattered they like me

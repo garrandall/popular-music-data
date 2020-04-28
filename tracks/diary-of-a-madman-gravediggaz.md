@@ -97,7 +97,7 @@ About to die from thirst, that's when the minister
 Quenched my jaws with a cold glass of vinegar
 Upon my wounds they seasoned me with salt
 And nailed my hands feet to the form of a cross
-Ahh!! I cry
+Ah! I cry
 As the blood drips inside of my eye refusing to die
 Visions of Hell tormented my faith
 So I chewed my fucking arm off and made an escape
@@ -124,7 +124,7 @@ On your right side there’s fire, your left, deep waters
 Watch your step, it's deep waters
 What's that coming through the floor? It's a claw
 *pssh* took his fucking ass to the fucking core
-(ahhh!!)
+(ah!)
 
 
 Stroll through the dark conditions

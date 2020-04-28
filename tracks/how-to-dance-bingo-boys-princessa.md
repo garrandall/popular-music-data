@@ -132,7 +132,7 @@ Dance (Doo doo doo-doo-doo doo, show me how to dance)
 Dance (Doo doo doo-doo-doo doo, doo doo doo doo doo doo-doo)
 Dance (Doo doo doo-doo-doo doo, show me how to dance)
 
-(Ow, ooh ah, ooh ah cha, ooh ah, ooh ah ow)
+(Ow, oh ah, oh ah cha, oh ah, oh ah ow)
 Get on your feet and dance to the beat and (Ow)
 Dance, dance, dance, dance
 Dance, dance, dance, dance

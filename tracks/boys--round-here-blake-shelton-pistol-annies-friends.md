@@ -133,11 +133,11 @@ Sending up a prayer to the man upstairs
 Backwoods legit, don't take no shi-
 Chew tobacco, chew tobacco, chew tobacco, spit
 
-(Ooh... let's ride) to the country side
-(Ooh, let's ride)
+(Oh... let's ride) to the country side
+(Oh, let's ride)
 Down to the river side
 
-Hey now girl, hop inside, (ooh... let's ride)
+Hey now girl, hop inside, (oh... let's ride)
 Me and you gonna take a little ride to the river
 Let's ride (that's right)
 Lay a blanket on the ground
@@ -159,24 +159,24 @@ Sending up a prayer to the man upstairs
 Backwoods legit, don't take no shi-
 Chew tobacco, chew tobacco, chew tobacco, spit
 
-(Ooh, let's ride)
+(Oh, let's ride)
 Red red, red, red, red, red, redneck
-(Ooh, let's ride)
+(Oh, let's ride)
 I'm one of them boys 'round here
-(Ooh, let's ride)
+(Oh, let's ride)
 Red, red, red, red, red, red, redneck
-(Ooh, let's ride)
+(Oh, let's ride)
 
 Well all I'm thinkin' 'bout is you and me, how we'll be
-(Ooh, let's ride)
+(Oh, let's ride)
 So come on girl, hop inside
 Me and you, we're gonna take a little ride
 Lay a blanket on the ground
 Kissing and the crickets is the only sound
-We out of town (ooh, let's ride)
-(Ooh, let's ride)
+We out of town (oh, let's ride)
+(Oh, let's ride)
 Girl you gotta get down with a...
-(Ooh, let's ride, ooh, let's ride)
+(Oh, let's ride, oh, let's ride)
 Come on through the country side
-(Ooh, les't ride)
+(Oh, les't ride)
 Down to the river side

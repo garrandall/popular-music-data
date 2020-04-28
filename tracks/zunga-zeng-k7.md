@@ -70,7 +70,7 @@ rankings:
 ---
 The choir's in the house
 
-Ahh
+Ah
 Yeah...
 Rock it
 Move move

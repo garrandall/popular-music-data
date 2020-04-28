@@ -101,9 +101,6 @@ You know I won't hold you back now
 The love we had just can't be found (Listen to me, baby)
 You know I can't hold you back now
 
-
-
-
 You know I won't hold you back now
 The love we had just can't be found
 You know I can't hold you back now

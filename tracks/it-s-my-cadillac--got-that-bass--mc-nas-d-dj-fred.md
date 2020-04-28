@@ -34,7 +34,7 @@ Got that
 Yeah, my CADILLAC
 Got that
 (Bass, bass)
-You know my....
+You know my...
 CADILLAC
 Got that
 (Boom, boom)
@@ -51,9 +51,6 @@ Packin' hundred dollar Bills as they lose in manilas
 Chalkin' girls I just met and takin' 'em to the La Quinta
 Cuz my...
 
-
-
-
 When I see other Caddys, I just laugh and shine
 Cuz they don't have the boom, that I have hooked in mine
 My Caddy is so loud, some neighborhoods ban me
@@ -62,10 +59,7 @@ I wash it everyday, and then I go get crazy
 With the hats over our eyes we step, then we go get ladies
 Freaky Freddie's in the ride, my number one ace
 Peelin' hard in the back of the car with major bass
-Cuz it's my....
-
-
-
+Cuz it's my...
 
 Bass...drive!
 Bass...drive!

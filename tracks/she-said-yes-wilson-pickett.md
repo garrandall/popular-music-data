@@ -28,7 +28,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-09-19'
 ---
-Ooo ooo ooo yeah
+Ooo oo oo yeah
 La la la, la la la la la la la (x2)
 
 A girl I wanted all my life

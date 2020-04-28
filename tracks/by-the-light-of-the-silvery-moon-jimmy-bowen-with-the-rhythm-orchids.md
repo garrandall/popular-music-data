@@ -1,6 +1,6 @@
 ---
 artists:
-- Jimmy Bowen with the Rhythm Orchids
+- Jimmy Bowen
 features: []
 genres: []
 key: by-the-light-of-the-silvery-moon-jimmy-bowen-with-the-rhythm-orchids

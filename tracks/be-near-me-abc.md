@@ -120,7 +120,7 @@ Never had that feeling
 Until I first met you
 Never felt like kneeling
 Now I do, yes I do
-Yes, I do, ooh
+Yes, I do, oh
 
 All my dreams came true last night
 All my hopes and fears

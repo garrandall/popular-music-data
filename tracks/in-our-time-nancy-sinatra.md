@@ -76,10 +76,10 @@ Our own sweet time
 In our time, baby
 In our time
 In our time, baby
-In our time 
+In our time
 In our time, baby
 In our time, yeah
-In our time....
+In our time...
 
 
 

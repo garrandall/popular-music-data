@@ -111,13 +111,13 @@ And when I'm in that thang,
 I'll make that body sang
 (She know what I mean) I make it say
 
-Wee ooh wee ooh wee (wee)
-Wee ooh wee ooh wee (wee)
-Wee ooh wee ooh wee
+Wee oh wee oh wee (wee)
+Wee oh wee oh wee (wee)
+Wee oh wee oh wee
 Like a cop car
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
 I'll make you say
 
 
@@ -131,9 +131,9 @@ She said I had the right to remain silent
 Now I got her hollering sounding like a siren
 Talkin' 'bout
 
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
 
 And I know she the law, and she know I'm the boss
 And she know I get high above the law
@@ -141,9 +141,9 @@ And she know I'm raw, she know I'm from the street
 And all she want me to do is fuck the police
 Talkin' about
 
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
 
 
 When I get up all in you
@@ -153,13 +153,13 @@ And when I'm in that thang,
 I'll make that body sang
 I make it say
 
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
 Like a cop car
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
 I'll make you say
 
 
@@ -178,9 +178,9 @@ But I'll do the time but her love is timeless
 Mrs. Officer
 I know you wish your name was Mrs. Carter huh?
 
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
 Like a cop car
 
 
@@ -191,13 +191,13 @@ And when I'm in that thang
 I'll make that body sang
 I make it say
 
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
 
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
 I'll make you say
 
 
@@ -212,9 +212,9 @@ Then she pulled me closer, threw me in the back of the car
 Put me in handcuffs start ripping my pants off
 (all you heard over the dispatcher is...)
 
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
 
 
 When I get up all in you
@@ -240,13 +240,13 @@ And when I'm in that thang
 I'll make that body sang
 I make it say
 
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
 
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
-Wee ooh wee ooh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
+Wee oh wee oh wee
 I'll make you say
 
 

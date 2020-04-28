@@ -53,9 +53,9 @@ That crazy song again and again
 
 I can still hear them singing
 
-Whoo-ooo-oh-oooh and they played that song
+Whoo-oo-oh-ohnd they played that song
 At the Club Michelle it went on and on
-Whoo-ooo-oh-oooh
+Whoo-oo-oh-oh
 
 I remember oh so well
 Dancing at the Club Michelle
@@ -69,10 +69,10 @@ They played that song again
 We both got so confused and they played it kinda loud
 I lost her in the crowd
 
-Whooo-ooo-oh-ooh and they played that song again
+Whooo-oo-oh-oh and they played that song again
 Everybody kept on singing
 At the Club Michelle and everybody kept on dancing
-Whoo-ooo-oh-oooh
+Whoo-oo-oh-oh
 And I lost that little girl
 
 It was somewhere called the Club Michelle
@@ -88,18 +88,18 @@ I'm gonna keep on looking
 Wait a minute, can you hear it?
 I think I hear 'em singing
 
-Whoo-ooo-oh-oooh and they played that song
+Whoo-oo-oh-ohnd they played that song
 At the Club Michelle it went on and on
-Whoo-ooo-oh-oooh
+Whoo-oo-oh-oh
 
 At the Club Michelle everybody still dancing
 Dancing to the music
-Whoo-oo-oh-ooh now I found that girl
+Whoo-oo-oh-oh now I found that girl
 Dancing at the Club Michelle
 
-Whoo-ooo-oh-oooh and they played that song
+Whoo-oo-oh-ohnd they played that song
 At the Club Michelle it went on and on
-Whoo-ooo-oh-oooh
+Whoo-oo-oh-oh
 
 
 

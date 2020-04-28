@@ -166,7 +166,7 @@ Dançar contigo e ter contigo
 Uma noite louca (uma noite louca)
 Uma noite louca
 
-(Ooh, ooh, ooh, ooh)
+(Oh, oh, oh, oh)
 
 Tú me miras y me llevas a otra dimensión
 (Entro noutra dimensão)
@@ -201,7 +201,7 @@ Eu quero estar contigo, viver contigo
 Dançar contigo e ter contigo
 Uma noite louca (uma noite louca)
 Uma noite louca
-(Ooh, ooh, ooh, ooh)
+(Oh, oh, oh, oh)
 
 Bailando amor
 Bailando amor

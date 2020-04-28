@@ -13,7 +13,7 @@ rankings:
   start_date: '2020-03-07'
 ---
 RIP Lil Phat (Lil Treble made the beat, he only had to play it once)
-Ooh, that bitch turnt up, what you on? What you on?
+Oh that bitch turnt up, what you on? What you on?
 What you talkin' 'bout, foe? (I bet my last track probably gave you lockjaw, hey, Lilkdubb)
 What you tryna do, huh?
 You act like, you act like you ain't been a gangster

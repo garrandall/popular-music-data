@@ -34,7 +34,7 @@ rankings:
   start_date: '1971-02-13'
 ---
 Mother, you had me
-But i never had you
+But I never had you
 I wanted you
 But you didn't want me
 So
@@ -43,7 +43,7 @@ Goodbye
 Goodbye
 
 Father, you left me
-But i never left you
+But I never left you
 I needed you
 But you didn't need me
 So
@@ -51,9 +51,9 @@ I just got to tell you
 Goodbye
 Goodbye
 Children, don't do
-What i have done
+What I have done
 I couldn't walk
-And i tried to run
+And I tried to run
 So
 I got to tell you
 Goodbye

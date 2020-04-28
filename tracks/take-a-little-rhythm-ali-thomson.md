@@ -76,7 +76,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-10-04'
 ---
-Ooh
+Oh
 
 
 Take a little rhythm
@@ -90,7 +90,7 @@ Seems uncertain
 And you don't know
 Which way to go
 
-Ooh, your dream is over
+Oh, your dream is over
 Confusion starts to show
 Just sit back and
 Let the music flow
@@ -102,15 +102,15 @@ Is everywhere
 Only noise and mayhem
 Fill the air
 
-Ooh, your body's hurting
+Oh, your body's hurting
 And your mind is slow
 Just sit back
 And let the music flow
 
 
 
-Ooh, yeah
-Ooh, yeah
+Oh, yeah
+Oh, yeah
 
 Take it, take it
 Take it and put it

@@ -183,9 +183,9 @@ I got money in the bank
 Shawty what you think 'bout that?
 Find me in the grey Cadillac
 We in the bed like
-Ooh ooh oh, ooh ooh
+Ohohoh, oohhoh
 We in the bed like
-Ooh ooh ooh, ooh ooh
+Ohohoohohohoh
 
 Talk to me, I talk back
 Let's talk money, I talk that
@@ -208,9 +208,9 @@ I got money in the bank
 Shawty what you think 'bout that?
 Find me in the grey Cadillac
 We in the bed like
-Ooh ooh oh, ooh ooh
+Ohohoh, oohhoh
 We in the bed like
-Ooh ooh ooh, ooh ooh
+Ohohoohohohoh
 
 
 Won't you meet me at the bar
@@ -244,9 +244,9 @@ I got money in the bank
 Shawty what you think 'bout that?
 Find me in the grey Cadillac
 We in the bed like
-Ooh ooh oh, ooh ooh
+Ohohoh, oohhoh
 We in the bed like
-Ooh ooh ooh, ooh ooh
+Ohohoohohohoh
 
 Let's get gone
 Walk it out
@@ -265,9 +265,9 @@ I got money in the bank
 Shawty what you think 'bout that?
 Find me in the grey Cadillac
 We in the bed like
-Ooh ooh oh, ooh ooh
+Ohohoh, oohhoh
 We in the bed like
-Ooh ooh ooh, ooh ooh
+Ohohoohohohoh
 
 
 

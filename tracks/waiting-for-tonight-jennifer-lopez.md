@@ -128,7 +128,3 @@ Tossing and turning
 Emotions were strong
 I knew I had to hold on
 
-
-
-
-

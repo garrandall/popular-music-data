@@ -61,7 +61,7 @@ There's no kindness in your eyes,
 The way you look at me, it's just not right.
 I can tell whats going on this time,
 Theres a stranger in my life.
-You're not the person i once knew.
+You're not the person I once knew.
 Are you scared to let them know it's you?
 If they could only see you like I do,
 Then they would see a stranger too..

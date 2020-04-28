@@ -69,9 +69,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-06-17'
 ---
-Ohhhh oooh!!! (Yeah! It's my tape man) Whoa
-Whoa oooh oooh oooh!!! (Listen to my tape)
-I've waited, yeah!!! (WOO!!!)
+Ohhhh oh! (Yeah! It's my tape man) Whoa
+Whoa ohhoh!ohisten to my tape)
+I've waited, yeah! (WOO!)
 
 
 If I was your best friend, I want you 'round all the time
@@ -104,7 +104,7 @@ Glad you took your time and now I'm satisfied that's why I want you all to me
 Cause if you were my best friend, I want you 'round all the time
 (I want you 'round me baby)
 Can I be your best friend, I promise boy you'll be mine
-(Oooh baby be mine)
+(Oh baby be mine)
 I said he's just a friend, baby it's not pretend
 Either he is or he ain't my man, I said he's just a friend
 
@@ -131,17 +131,17 @@ I'm a hustler I just hustle in the things that I bought
 Separate, come on
 
 
-I'm not afraid to explore my body - oooh, gimme that feelin
+I'm not afraid to explore my body - ohgimme that feelin
 Now we can watch some TV or play a CD; baby that sexual healin'
 You tried to sing to me; you're never on the key, but you do it just to appease me
-I rather spend my time wastin' time with you; oooh wee you make it so easy
+I rather spend my time wastin' time with you; ohee you make it so easy
 
 
 Cause if you were my best friend, I want you 'round all the time
 (I want you 'round all the time)
 Can I be your best friend, I promise boy you will be mine
 (Please baby be mine yeah!)
-I said he's just a friend (Oh Oooh!)
+I said he's just a friend (Oh Oh!)
 Baby it's not pretend (No baby)
 Either he is or he ain't my man, I said he's just a friend
 

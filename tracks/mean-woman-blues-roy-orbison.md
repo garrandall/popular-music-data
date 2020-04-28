@@ -61,7 +61,7 @@ rankings:
   start_date: '1963-11-30'
 ---
 
-Hmm, well I got a woman mean as she can be
+Hm, well I got a woman mean as she can be
 Well I got a woman mean as she can be
 Some-a-times I think she's almost mean as me
 
@@ -81,7 +81,7 @@ Boy she makes ole Roy-oy flip
 I got a woman mean as she can be
 Some-a-times I think she's almost mean as me, easy now
 
-Ah-huh-huh-huh ....
+Ah-huh-huh-huh ...
 
 Now let's go one time
 

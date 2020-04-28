@@ -130,7 +130,7 @@ And call
 Ghostbusters!
 
 I ain't 'fraid of no ghost
-Ooh, I hear it likes the girls
+Oh I hear it likes the girls
 Hm, I ain't 'fraid of no ghost
 Yeah, yeah, yeah, yeah
 

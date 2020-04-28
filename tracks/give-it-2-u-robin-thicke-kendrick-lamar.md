@@ -88,7 +88,7 @@ You looking like you fell from the sky (angel)
 You know make a grown man cry
 I wanna give it to you tonight
 And make everything you fantasize
-Come true, ooh baby
+Come true, ohbaby
 I’ll make it so, so, so amazing
 I’ll give it to you
 
@@ -99,7 +99,7 @@ Girl, give it to me
 Girl, give it to me
 
 
-Ooh what's that girl?
+Ohwhat's that girl?
 What's that baby?
 I like that, girl
 I like that, baby
@@ -128,7 +128,7 @@ You looking like you fell from the sky (angel)
 You know make a grown man cry
 I wanna give it to you tonight
 And make everything you fantasize
-Come true, ooh baby
+Come true, ohbaby
 I’ll make it so, so, so amazing
 I’ll give it to you
 
@@ -158,11 +158,11 @@ You lookin' like you fell from the sky (Angel)
 You know you make a grown man cry
 I wanna give it to you, tonight
 And make everything you fantasize
-Come true, ooh baby
+Come true, ohbaby
 I'll make it so, so, so amazing
 I'll give it to you, tonight
 And make everything you fantasize
-Come true, ooh baby
+Come true, ohbaby
 I'll make it so, so, so amazing
 I'll give it to you
 I'll give it to you

@@ -173,7 +173,7 @@ I don't know you, you don't know me
 Let me teach you all the sounds of love
 
 
-Ah, ay, ee, ah oh ooh
+Ah, ay, ee, ah oh oh
 Baby, this was for you
 Lotus
 

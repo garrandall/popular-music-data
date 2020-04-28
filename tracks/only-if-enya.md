@@ -49,8 +49,8 @@ who can fly.
 
 
 
-Ooh go doe bay mwa.
-Ooh go doe bay mwa.
+Oh go doe bay mwa.
+Oh go doe bay mwa.
 
 
 
@@ -59,8 +59,8 @@ comme un oiseau d'aile
 Ah! Je voudrai voler
 comme un oiseau d'aile, d'aile...
 
-Ooh go doe bay mwa.
-Ooh go doe bay mwa.
+Oh go doe bay mwa.
+Oh go doe bay mwa.
 
 
 

@@ -60,10 +60,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-06-29'
 ---
-I’m in love, yes i am
-I’m in love, yes i am, uh
-I’m in love, hey baby, hey, you know i am
-I’m in love, uh, huh, you know i am
+I’m in love, yes I am
+I’m in love, yes I am, uh
+I’m in love, hey baby, hey, you know I am
+I’m in love, uh, huh, you know I am
 
 
 Friends all wonder what’s come over me
@@ -71,9 +71,9 @@ I’m as happy as any girl could be
 
 
 (Love, love, love) i’m in love
-(Love, love, love) believe me i am
+(Love, love, love) believe me I am
 (Love, love, love) i’m in love, oh
-(Love, love, love) yes sir i am, yes sir i am, yes sir i am
+(Love, love, love) yes sir I am, yes sir I am, yes sir I am
 (Love, love, love) hoo, whoa, whoa, whoa
 (Love, love, love) i’m in love
 
@@ -95,10 +95,10 @@ In the morning
 I wake up smiling and shining
 (Love, in love, in love) i’m in love
 (In love, in love, in love, in love)
-Smiling like love i know where it’s at
+Smiling like love I know where it’s at
 (Love, in love, in love) i’m in love
 (In love, in love, in love, in love)
 I’m in love
 (Love, in love, in love) i’m in love
-(In love, in love, in love, in love) yes i am
+(In love, in love, in love, in love) yes I am
 (Love, in love, in love) um, i’m in love

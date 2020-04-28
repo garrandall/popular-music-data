@@ -20,7 +20,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-09-01'
 ---
-Ooh ooh
+Oh oh
 Yeah, yeah, yeah
 Yeah
 Yeah, yeah, yeah
@@ -49,7 +49,7 @@ Just stay away from me
 Do you hear?
 Just stay away from me
 
-Ooh ooh
+Oh oh
 
 The life I had with you is come for you
 Find someone else

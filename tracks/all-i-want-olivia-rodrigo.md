@@ -39,7 +39,7 @@ All I have is myself at the end of the day
 But shouldn't that be enough for me?
 
 
-Ooh-ooh-ooh-ooh, ooh-ooh
+Ohohoohhohh-ohoh
 And I miss the days when I was young and naive
 I thought the perfect guy would come and find me
 Now happy ever after, it don't come so easily
@@ -47,7 +47,7 @@ Now happy ever after, it don't come so easily
 
 All I want is love that lasts
 Is all I want too much to ask?
-Is it something wrong with me? Oh, ooh
+Is it something wrong with me? Oh, oh
 All I want is a good guy
 Are my expectations far too high?
 Try my best but what can I say?

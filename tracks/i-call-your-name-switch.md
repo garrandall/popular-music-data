@@ -137,9 +137,6 @@ I think of you and it eases the pain
 (So I call your name, I call your name)
 Take away the strain
 
-
-
-
 I do, you do
 Birds and bees do too
 I love you, you love me

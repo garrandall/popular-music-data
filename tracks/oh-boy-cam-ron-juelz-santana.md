@@ -104,7 +104,7 @@ Clap at your soldiers sober, then leave after it's over, Killa
 I'm not your companion, or your man's stand-in
 Hit me when you wanna get rammed in, I'll be scramblin'
 With lots of mobsters, shop for lobsters
-Cops and robbers, listen every block is blaka (BLAKA!!!)
+Cops and robbers, listen every block is blaka (BLAKA!)
 But she like the way I diddy bop, you peep that?
 Mink on, Mauri kicks plus Chanel ski hat
 She want the (boy), so I give her the (boy)

@@ -99,7 +99,7 @@ Mmm, yeah
 You know, from the moment she turn around, ay
 She know, how to back it up and drop it down
 (Ya)
-She know, she what all the fellas looking at, mmmmmmmm
+She know, she what all the fellas looking at, mmm
 Cause they know, soon as her song come on it's a wrap, yeah
 (Ya)
 
@@ -121,7 +121,7 @@ I know, I know, she knows
 (She knows, she knows, she knows)
 And I know, I know, she knows
 
-Oohh, she knows
+Oh, she knows
 (Ya)
 
 
@@ -161,10 +161,4 @@ All that cake, come get you some filling
 Like a soap opera watch all my children
 Hit it so long that she might lose feeling
 With her legs in the air, she can walk on the ceiling
-
-
-
-
-
-
 

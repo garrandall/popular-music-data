@@ -24,10 +24,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-05-27'
 ---
-(Ooh ooh ooh)
-(Ooh ooh ooh)
-(Ooh ooh ooh)
-(Ooh ooh ooh)
+(Oh oh oh)
+(Oh oh oh)
+(Oh oh oh)
+(Oh oh oh)
 
 
 I am not the only traveler

@@ -197,7 +197,7 @@ Don't look too hard
 Might hurt ya'self
 Known to give the color red the blues
 
-Ooh shit, I'm a dangerous man with some money in my pocket
+Ohshit, I'm a dangerous man with some money in my pocket
 (Keep up)
 So many pretty girls around me and they waking up the rocket
 (Keep up)
@@ -242,11 +242,11 @@ Uh, look out!
 
 (Wooh)
 Everywhere I go they be like
-Ooh, so player ooh
+Oh so player oh
 Everywhere I go they be like
-Ooh, so player ooh
+Oh so player oh
 Everywhere I go they be like
-Ooh, so player ooh
+Oh so player oh
 Now, now, now
 Watch me break it down like (Uh)
 24 karat, 24 karat magic

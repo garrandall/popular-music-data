@@ -64,8 +64,8 @@ What I have to say
 Page after page
 I wrote it this way
 
-Ooh, I love you
-Ooh, I love you
+Oh, I love you
+Oh, I love you
 
 Everything, everything
 Everything
@@ -80,6 +80,6 @@ In many, many ways
 But from start to finish
 Mine simply says
 
-Ooh, I love you
+Oh, I love you
 (My baby, baby)
 I love you...

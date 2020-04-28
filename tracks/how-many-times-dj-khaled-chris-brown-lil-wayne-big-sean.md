@@ -137,9 +137,6 @@ How many times I gotta tell that ass to come over?
 I'll fuck you right, have you walking from side to side
 How many times?
 
-
-
-
 I see these bitches in supperclub
 Niggas got me throwing bottles up
 Bottles with all of my homies
@@ -161,8 +158,4 @@ Them bitches lit, dropping that ass to a split
 Talking 'bout me, I'm the shit
 I just get down for the money, the bitches, and cars
 And my niggas, they whipping the bricks
-
-
-
-
 

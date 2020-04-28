@@ -164,7 +164,7 @@ Shorty-bang hear the niggas singin, shoutin my name
 Make the thuggish niggas scream, watchin me entertain
 Dicks brick when I lick the lips, just keepin it plain
 Fantasizin bout this bitch, got em goin insane
-Oooh's and ahhh's, 5'7" thick in the thighs
+Oh's and ah's, 5'7" thick in the thighs
 Every thugs dream wife, see the love in they eyes?
 My time to shine, whole package make her a dime
 Want some more? It ain't over, just keep pressin rewind, uh

@@ -98,7 +98,7 @@ So if he died and came back
 Would he try to save rap?
 We needing a change, the drama remains
 I spent my whole life, fighting myself
-That I cant win so I'm inviting some helpand every now and then I take rights from left
+That I can't win so I'm inviting some helpand every now and then I take rights from left
 Im still just like a kid, looking for stripes on my belt
 And that there is a fight in itself
 So I just pray and hope god

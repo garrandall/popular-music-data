@@ -17,14 +17,14 @@ rankings:
   start_date: '2016-12-24'
 ---
 Ooo, oo, oo, oo, oo, oo
-Ooo, oo, ooo-oo
+Ooo, oo, oo-oo
 Ooo, oo, oo, oo, oo
 
 
 Baby, you were so strong
 Ooo, oo, oo, oo, oo
 Baby, you were calm, you were so calm, yeah
-Ooo, oo, ooo-oo
+Ooo, oo, oo-oo
 Tell me where it went wrong
 Ooo, oo, oo, oo, oo
 Tell me how to love, it's been so long
@@ -44,7 +44,7 @@ You're only looking for attention, oh, oh
 What do you expect now?
 Ooo, oo, oo, oo, oo
 Only thing left is the sex now
-Ooo, oo, ooo-oo
+Ooo, oo, oo-oo
 'Cause baby, too vexed now
 Ooo, oo, oo, oo, oo
 Only see me on the TV or the bed now
@@ -62,9 +62,9 @@ The only problem is you'll never get enough
 You're only looking for attention, oh, oh-oh
 
 
-Ooo, ooo, ooo, attention
+Ooo, oo, oo, attention
 (Love all the attention, baby)
-Ooo, ooo, ooo, attention
+Ooo, oo, oo, attention
 (Love all the attention, baby)
 
 

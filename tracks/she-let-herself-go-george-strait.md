@@ -120,7 +120,3 @@ She let herself go.
 To Vegas once... Honolulu, New York City.
 Came back knocked-out pretty.
 
-
-
-
-

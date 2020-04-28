@@ -40,14 +40,14 @@ I don't know why I still love you like I do, baby
 But you're a star in my world
 
 Oh, how you got down and lonely
-Ooh, yeah, my heart is in your hands
+Oh, yeah, my heart is in your hands
 I don't see why you won't let me
 When you know I'll be your number one man, yeah
 
 Why you wanna try me, baby
 Why you wanna do me this way
 Why you wanna try me, baby
-Why you wanna do me this way (Ooh)
+Why you wanna do me this way (Oh)
 
 Tell me, yeah
 Oh, yeah
@@ -70,7 +70,7 @@ Why you wanna try me, baby
 When I'm the one you want
 Just tell me where I am
 
-Ooh
+Oh
 Whoa, whoa, whoa
 Tell me, tell me
 Please don't go
@@ -79,7 +79,7 @@ Oh,
 Stop right there, hold on
 Why you wanna try me (Whoa, yeah)
 Stop right there, hold on
-Why you wanna try me (Ooh, yeah, yeah)
+Why you wanna try me (Oh, yeah, yeah)
 
 Stop right there, hold on
 Why you wanna try me

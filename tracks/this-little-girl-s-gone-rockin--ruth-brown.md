@@ -48,11 +48,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-24'
 ---
-I wrote my mom a letter and this is what i said...
+I wrote my mom a letter and this is what I said...
 
 Wella wella wella wella
 
-Washed all the dishes and i did a lot more
+Washed all the dishes and I did a lot more
 
 I even bought the dinner at the grocery store
 

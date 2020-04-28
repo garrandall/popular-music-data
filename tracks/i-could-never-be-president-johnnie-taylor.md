@@ -51,7 +51,7 @@ I could never be President
 Just as long as I'm lovin' you
 I could never be President
 Just as long as I'm lovin' you, you
-Yeaaaaaaaaaah
+Yeah
 
 Honey I would make you, the first lady of the land
 Don't you know I'd place presidental powers in your hand

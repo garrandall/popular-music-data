@@ -73,7 +73,6 @@ Thin and brown and downright lazy
 And they roll just like the river
 A little wave will last forever
 
-Chorus
 
 All the way
 From Bourbon Street to Esplanade
@@ -89,7 +88,6 @@ They strut and sway from dusk till dawning
 And they roll like the river
 A little wave will last forever
 
-Chorus
 
 All the way
 From Bourbon Street to Esplanade

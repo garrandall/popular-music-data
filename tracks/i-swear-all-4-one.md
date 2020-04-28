@@ -149,7 +149,7 @@ I'll be there for better or worse
 Till death do us part
 I'll love you with every beat of my heart
 And I swear
-Oooh
+Oh
 
 
 I'll give you everything I can

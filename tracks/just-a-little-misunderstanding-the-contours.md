@@ -68,7 +68,7 @@ It's just a little misunderstanding
 That's all it is
 
 Baby, I can't let you go (oh, yeah)
-I realize I hurt you so (ooh, yeah)
+I realize I hurt you so (oh yeah)
 Our love, surely can we mend it
 (Surely we can we mend it)
 It's just a little misunderstanding

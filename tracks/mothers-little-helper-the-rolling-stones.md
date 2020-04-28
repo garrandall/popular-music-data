@@ -48,7 +48,7 @@ rankings:
 What a drag it is getting old
 
 "Kids are different today"
-I hear ev'ry mother say
+I hear every mother say
 Mother needs something today to calm her down
 And though she's not really ill
 There's a little yellow pill
@@ -57,7 +57,7 @@ And it helps her on her way
 Gets her through her busy day
 
 "Things are different today"
-I hear ev'ry mother say
+I hear every mother say
 Cooking fresh food for a husband's just a drag
 So she buys an instant cake
 And she burns a frozen steak
@@ -70,7 +70,7 @@ Outside the door, she took four more
 What a drag it is getting old
 
 "Men just aren't the same today"
-I hear ev'ry mother say
+I hear every mother say
 They just don't appreciate that you get tired
 They're so hard to satisfy
 You could tranquilize your mind
@@ -83,7 +83,7 @@ Outside the door, she took four more
 What a drag it is getting old
 
 "Life's just much too hard today"
-I hear ev'ry mother say
+I hear every mother say
 The pursuit of happiness just seems a bore
 And if you take more of those
 You will get an overdose

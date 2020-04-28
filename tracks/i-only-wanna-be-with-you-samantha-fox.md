@@ -99,9 +99,6 @@ Beside you everywhere
 As long as we`re together
 Honey, I don`t care
 
-
-
-
 You stopped
 You smiled at me
 And asked if I`d care to dance

@@ -136,7 +136,7 @@ Don't think I'll ever stop
 
 I see your face
 Chills run up and down my legs
-Baby, yeah, ooh
+Baby, yeah, oh
 I hear your voice
 My body takes control
 
@@ -144,7 +144,7 @@ In the heat of the heat
 I feel your touch
 Heat is driving me insane
 Hoo, hoo, hey
-Yeah, ooh, ooh
+Yeah, oh oh
 
 I lose control
 I think I wanna love you, babe

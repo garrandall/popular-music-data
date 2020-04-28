@@ -16,15 +16,15 @@ What's happening?
 Remember I used to play that pinball game?
 Let's go
 Lil Uzi Vert
-Ooh, you better move (That was before I had Internet)
+Oh, you better move (That was before I had Internet)
 
 
-Ooh, you better move
-Ooh, you better move
-Ooh, you better move
-Ooh, you better move
-Ooh, you better move
-Ooh, you better move
+Oh, you better move
+Oh, you better move
+Oh, you better move
+Oh, you better move
+Oh, you better move
+Oh, you better move
 You better move, you better move
 You better move, you better move
 Louis my shoes
@@ -54,12 +54,12 @@ I remember when I didn't have cable
 That was back when I used to watch Zoom
 
 
-Ooh, you better move
-Ooh, you better move
-Ooh, you better move
-Ooh, you better move
-Ooh, you better move
-Ooh, you better move
+Oh, you better move
+Oh, you better move
+Oh, you better move
+Oh, you better move
+Oh, you better move
+Oh, you better move
 You better move, you better move
 You better move, you better move
 Louis my shoes
@@ -90,12 +90,12 @@ Versace drawers, bitch, you Fruit of the Loom
 Yeah, yeah, Fruit of the Loom
 
 
-Ooh, you better move
-Ooh, you better move
-Ooh, you better move
-Ooh, you better move
-Ooh, you better move
-Ooh, you better move
+Oh, you better move
+Oh, you better move
+Oh, you better move
+Oh, you better move
+Oh, you better move
+Oh, you better move
 You better move, you better move
 You better move, you better move
 Louis my shoes

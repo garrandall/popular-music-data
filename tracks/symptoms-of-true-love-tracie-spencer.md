@@ -120,9 +120,6 @@ Care for me all night and day
 Do it quickly
 And I will be in recovery
 
-
-
-
 Symptoms of true love
 Take my breath away
 Make me shake

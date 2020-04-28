@@ -78,9 +78,6 @@ I can hear you through the whine
 And the Wichita lineman
 Is still on the line
 
-
-
-
 I know I need a small vacation
 But it don't look like rain
 And if it snows that stretch down south
@@ -91,9 +88,6 @@ And I need you more than want you
 And I want you for all time
 And the Wichita lineman
 Is still on the line
-
-
-
 
 And I need you more than want you
 And I want you for all time

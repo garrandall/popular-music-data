@@ -33,7 +33,7 @@ After all that we've been through together
 You took away my darkest nights (I do believe in you)
 When no one else could see the light
 (Solo)
-Running blind day after day, some things never want to change, ooh
+Running blind day after day, some things never want to change, oh
 We knew we'd have to give, it hit us where we lived
 I do, I do believe in you (I do believe in you), can't you see
 After all that we've been through

@@ -156,7 +156,7 @@ I'd be a-howlin' and a-barkin' too
 (Don't let go)
 (Don't let go)
 
-Ooh-ee, mmm this feelin' is killin' me
+Oh-ee, mmm this feelin' is killin' me
 Aaaw shucks
 Well, I wouldn't stop for a million bucks
 (I love you so)

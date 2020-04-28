@@ -146,11 +146,11 @@ I used to want you so bad, I'm so through with that
 'Cause honestly, you turned out to be the best thing I never had
 Oh, you turned out to be the best thing I never had
 And I will always be the best thing you never had
-Ooh, best thing you never had
+Oh best thing you never had
 I used to want you so bad, I'm so through with that
 'Cause honestly, you turned out to be the best thing I never had
 Oh, you turned out to be the best thing I never had
-Ooh, I will never be the best thing you never had
+Oh I will never be the best thing you never had
 Oh baby, I bet it sucks to be you right now
 
 

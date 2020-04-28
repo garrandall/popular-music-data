@@ -64,4 +64,4 @@ Let's stop fighting, let's stop fighting
 And become sis and bro, 'sis and bro'
 Sis and bro', sis and bro'
 And show it's not too late to love, love, love
-What can i do for you? What can you do for me?
+What can I do for you? What can you do for me?

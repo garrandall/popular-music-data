@@ -126,7 +126,7 @@ Brand new saint Mase in mean velour
 I had bling before you ever seen the tour
 Fans from Iran and Singapore
 And grown men beg me to bring them on tour
-Even if it mean they gotta sleep on the floor (Let's Go!!)
+Even if it mean they gotta sleep on the floor (Let's Go!)
 
 Awake these people up and show them they keep dreamin'
 Breathe Stretch Shake, Let it Go

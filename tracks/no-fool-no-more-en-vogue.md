@@ -65,8 +65,8 @@ No tears this time
 To the game that's been goin' on
 And I'm not gonna be no fool no more
 
-Ooh?-
-Ooh?ooh?ooh?ooh?-
+Oh-
+Ohohoohhoh
 No fool
 
 No room for sad regrets
@@ -126,7 +126,7 @@ And I'm not gonna be no fool no more (no fool no more)
 No fool (no fool) no more (no more)
 Not like before (not like before)
 Not the way (not the way) it used to be (it used to be)
-No fool no more (ooh?ooh?ooh?)
+No fool no more (ohoohhoh
 
 No tears this time (baby, baby, baby)
 'cause this time I'm wise (I can't waste my time on you, baby)

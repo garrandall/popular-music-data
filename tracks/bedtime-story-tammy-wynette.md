@@ -25,8 +25,8 @@ rankings:
   start_date: '1972-02-19'
 ---
 
-I've told you almost ev'ry bedtime story
-And  you've heard almost ev'ry nursery  rhyme
+I've told you almost every bedtime story
+And  you've heard almost every nursery  rhyme
 So, tonight before you go to sleep
 And pray the Lord your soul to keep
 Here's mommy's favorite story one more time.

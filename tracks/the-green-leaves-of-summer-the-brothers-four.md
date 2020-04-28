@@ -36,7 +36,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-12-12'
 ---
-Oooooooooooh, oooh ooh...
+Oh, oh...
 
 A time to be reaping, a time to be sowing
 The green leaves of summer are calling me home
@@ -56,4 +56,4 @@ Now the green leaves of Summer are calling me home
 T'was so good to be young then, to be close to the earth
 Now the green leaves of Summer are calling be home
 
-Ooooooooooooooh, oooh oooh...
+Oh, ohhoh

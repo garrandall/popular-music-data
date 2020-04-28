@@ -77,7 +77,7 @@ But I could not find my darling
 Always in the field of view
 Cause there's nobody like you
 And you know it, baby
-(Ooh)
+(Oh)
 
 
 I've been up
@@ -133,7 +133,7 @@ And I've been down
 I've had my feet swept off the ground
 By somebody who just picked me up
 And threw me away
-(Ooh)
+(Oh)
 
 Ain't nobody
 Ain't nobody

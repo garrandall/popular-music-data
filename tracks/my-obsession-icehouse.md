@@ -63,7 +63,3 @@ Until I lose the last lony roy of light
 And I know I can't pretend
 Those shadows won't come out tonight
 
-
-
-
-

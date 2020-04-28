@@ -111,9 +111,6 @@ And together we'll love through
 All space and time, so don't cry
 One day all seven will die
 
-
-
-
 All seven and we'll watch them fall
 They stand in the way of love
 And we will smoke them all

@@ -67,8 +67,8 @@ And I gave her my whole heart, every every bit
 And she gave it back to me a month later all
 Beat up, so bad and
 So terrible looking that
-I Sold My Heart To The Junkman !
-Now I can never fall in love again...."
+I Sold My Heart To The Junkman!
+Now I can never fall in love again..."
 Well I gave my heart to you, open, so open and trusting
 And you gave it back to me, it was broken up and busting
 (sold my heart) I sold my heart to the junkman
@@ -82,7 +82,7 @@ You broken and bruised
 (I sold my heart) I sold my heart to the junkman
 I can never fall in love again
 Now, it was a movie sad scene, I played my part
-Ooh I wanted the happy ending, but all I got was
+Oh I wanted the happy ending, but all I got was
 A broken heart
 (all he got was a broken heart)
 (I sold my heart) I sold my heart to the junkman(I sold my heart) I sold my

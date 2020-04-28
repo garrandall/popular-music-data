@@ -89,8 +89,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-04-02'
 ---
-Ooh, ooh, ooh, aw yeah
-Ooh, ooh, ooh, aw yeah
+Oh, oh, oh, aw yeah
+Oh, oh, oh, aw yeah
 
 
 I am, the one you denied
@@ -202,7 +202,7 @@ Just remember who played who first
 Yeah, yeah
 
 
-Ooh, ooh, ooh, aw yeah
-Ooh, ooh, ooh, aw yeah
-Ooh, ooh, ooh, aw yeah
-Ooh, ooh, ooh, aw yeah
+Oh, oh, oh, aw yeah
+Oh, oh, oh, aw yeah
+Oh, oh, oh, aw yeah
+Oh, oh, oh, aw yeah

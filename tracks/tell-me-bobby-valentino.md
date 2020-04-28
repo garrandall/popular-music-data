@@ -94,7 +94,7 @@ For now, let's have a Apple Martini
 And get to know each other
 
 
-Ooh ma tell me
+Oh ma tell me
 How did you get that in those jeans?
 The way you popping in, it's killing me
 Look over here, come follow me
@@ -104,7 +104,7 @@ The way you dropping in, it's killing me
 I'll meet you in the VIP
 
 
-Ooh you sizzling, let me lay you on the floor
+Oh you sizzling, let me lay you on the floor
 I'm a bad boy, just thought i'd let you know
 These are the thoughts running through my mind
 Cause I'm so curious yeah
@@ -115,14 +115,14 @@ Can tell by now I want you yeah
 
 
 You's a sexy thing
-Ooh what's your name
+Oh what's your name
 Cause, you're the finest thing that walked in the club
 Your girls, they don't compare to
 You, can't help but stare at you
 Let's make a toast to the good life
 
 
-Ooh lord tell me
+Oh lord tell me
 How did you get that in those jeans?
 The way you popping in, it's killing me
 Look over here, come follow me
@@ -153,14 +153,14 @@ I'm probably out wilding with Bobby Valentino
 
 
 You's a sexy thing
-Ooh what's your name
+Oh what's your name
 Cause, you're the finest thing that walked in the club
 Your girls, they don't compare to
 You, can't help but stare at you
 Let's make a toast to the good life
 
 
-Ooh ma tell me
+Oh ma tell me
 How did you get that in those jeans?
 The way you popping in, it's killing me
 Look over here, come follow me

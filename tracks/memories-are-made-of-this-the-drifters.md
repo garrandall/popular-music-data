@@ -67,7 +67,7 @@ With His blessings from above
 (Sweet sweet, the memories you gave to me, yeah)
 Serve it generously with love
 (How sweet, the memories you gave to me, oh)
-Hmm, one man, one wife, one love through life
+Hm, one man, one wife, one love through life
 Memories are made of this
 (Sweet sweet, the memories you gave to me, yeah)
 

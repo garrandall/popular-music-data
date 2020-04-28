@@ -51,7 +51,7 @@ rankings:
 ---
 Intro: WC
 
-Wessyyrr-fa-liv-ni-ya!!
+Wessyyrr-fa-liv-ni-ya!
 ("Throwin up the W" -- Ice Cube) 2X
 Yeah, I'm with this, what we throwin up?
 ("Throwin up the W" -- Ice Cube)
@@ -126,9 +126,6 @@ In the East, we can be brothers
 But when you come to L.A., watch your motherfuckin colors
 West Up! nigga
 
-
-
-
 Give it up, give it up
 Like the nigga James Brown, me and my niggas are puttin it down
 So bustas be wary cause see we represent the city
@@ -139,5 +136,5 @@ I pledge allegiance to the shit till I die
  So let the five-twenty slide and put it down from the WestSide
 
 
-WestSide!!!
+WestSide!
 ("Throwin up the W")

@@ -68,7 +68,7 @@ Mustard on the beat, ho
 
 
 Girl, as long as you, wrap your arms 'round me
-Ooh baby, I don't care what them people say
+Oh baby, I don't care what them people say
 I'm givin' you whatever you want
 Girl, you know I can provide
 Whatever you need
@@ -91,7 +91,7 @@ And I'll be there long as you there when I be callin' for you, facts
 
 
 Girl, as long as you, wrap your arms 'round me
-Ooh, baby I don't care what them people say
+Oh, baby I don't care what them people say
 I'm givin' you whatever you want
 Girl, you know I can provide
 Whatever you need
@@ -120,7 +120,7 @@ You'll never have to worry 'bout another in your place, so believe me when I say
 
 
 Girl, as long as you, wrap your arms 'round me
-Ooh, baby I don't care what them people say
+Oh, baby I don't care what them people say
 I'm givin' you whatever you want
 Girl, you know I can provide
 Whatever you need

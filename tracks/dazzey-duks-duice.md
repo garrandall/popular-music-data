@@ -283,7 +283,7 @@ Let me see ya rock the Daisy (Bring that funky track, back)
 
 
 L-A Sno like the girls with the Daisy Dukes ("Don't stop")
-Creo-D like the girls with the Daisy Dukes ("Do-don't stop")
+Creo-D like the girls with the Daisy Dukes ("Don't stop")
 Taylor Boy like the girls in them Daisy Dukes ("Don't stop")
 Tony Mercedes like them with them Daisy Dukes ("Don't stop")
 
@@ -291,7 +291,7 @@ Tony Mercedes like them with them Daisy Dukes ("Don't stop")
 New York, (???), Miami, Alabama, Tennessee ("Don't stop")
 New Jersey, Boston, Augusta ("Don't stop")
 Atlanta like them girls in the Daisy Dukes ("Don't stop")
-All of Texas like them girls in the Daisy Dukes ("Don't, do-don't stop")
+All of Texas like them girls in the Daisy Dukes ("Don't, don't stop")
 L.A. like them girls in them Daisy Dukes ("Don't stop")
 
 

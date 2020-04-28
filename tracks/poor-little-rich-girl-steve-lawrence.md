@@ -42,7 +42,7 @@ rankings:
 ---
 Poor little rich girl
 I know why you're blue
-You finally found something, that your daddy wont buy for you
+You finally found something, that your daddy won't buy for you
 Whoa, poor little rich girl
 How happy you could be
 If you hadn't fallen in love with a poor boy like me
@@ -54,12 +54,12 @@ It's sad but its true,
 In the eyes of the world I'm not good enough for you
 
 It would have been better, if we had never met
-Ahhh you'd be without a care in the world, with nothing to forget
-Ahhhh poor little rich girl
+Ah you'd be without a care in the world, with nothing to forget
+Ah poor little rich girl
 How happy you could be
 If you hadn't fallen in love with a poor boy like me
 
-Ahhhhh poor little rich girl
+Ah poor little rich girl
 How happy you could be,
 If you hadn't fallen in love with a poor boy like me
 

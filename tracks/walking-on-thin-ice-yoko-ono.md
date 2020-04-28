@@ -70,7 +70,7 @@ It'll be just a story
 Ai-ai-ai-ai-ai-ai-ai-ai
 
 
-Ooh-ahooh
+Oh-ahooh
 
 
 "I knew a girl who tried to walk across the lake

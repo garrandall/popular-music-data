@@ -82,7 +82,7 @@ I remember just how frail she looked in that hospital bed
 Takin' her last few breaths of life, smilin' as she said
 
 "Don't get too high on the bottle
-Just a little sip ev'ry now and then
+Just a little sip every now and then
 Fight your fights, find a grace
 And all the things that you can change
 And help somebody if you can

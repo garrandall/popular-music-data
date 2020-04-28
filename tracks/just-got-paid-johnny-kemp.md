@@ -128,9 +128,6 @@ I'm tired of all these boring parties
 Why don't we get on down?
 Come on, let's get on down now
 
-
-
-
 Getting down
 Say ho (You say it)
 Say ho-ho (Ho-ho)
@@ -141,9 +138,6 @@ On the floor rocking to the beat (Rocking, baby)
 Oh-wee, you sure look sweet
 Fine young lady standing by (Come here)
 Come on, baby, look me in my eye
-
-
-
 
 Getting down, yeah, getting down
 Say ho (Ho-ho)
@@ -156,9 +150,6 @@ Teddy, you play it
 Shake it up, shake it up
 I just got paid
 I'm feeling, I'm feeling right
-
-
-
 
 Just got paid, it's Friday
  have a good time

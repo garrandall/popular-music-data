@@ -77,7 +77,3 @@ Rims on my Ferrari, my bitch said that I was childish
 When we fucked again, she told me "That was just some foul shit"
 I walk into the room, you can even hear all the silence
 
-
-
-
-

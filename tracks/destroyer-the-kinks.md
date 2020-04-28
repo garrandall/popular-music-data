@@ -40,7 +40,7 @@ Paranoia, the destroyer.
 Paranoia, the destroyer.
 
 Well I fell asleep, then I woke feelin' kinda' queer
-Lola looked at me and said, "ooh you look so weird."
+Lola looked at me and said, "ohyou look so weird."
 She said, "man, there's really something wrong with you.
 One day you're gonna' self-destruct.
 You're up, you're down, I can't work you out

@@ -108,9 +108,6 @@ Every once in a while they make the crowd scream, "Ho"
 Jumping around wasn't the thing they did
 Steady bopping their head while the girls had said
 
-
-
-
 Can I get a dang dang
 A ringa dang digga digga digga dang dang
 A ringa dang digga digga
@@ -128,9 +125,6 @@ With a bit of the same old that you heard
 Huh, now can I get a word
 As I'm goin', goin',  gone
 Hey D.J., come on and play me that funky song
-
-
-
 
 Now I remember around the way back
 Back in the day I use to know

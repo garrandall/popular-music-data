@@ -158,7 +158,7 @@ But you say I'm just a friend
 
 You can call me anytime you like (oh anytime)
 It doesn't matter day or night (said it doesn't matter)
-We can do whatever you (ohh)
+We can do whatever you (oh)
 Wanna do it's up to you
 Don't fight the feeling that you feel (don't fight the feeling)
 I can tell that its real (oh girl)

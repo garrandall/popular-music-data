@@ -134,9 +134,6 @@ You got a girl that'll - ride ride ride
 So take me, tonight
 And do what you do to me baby
 
-
-
-
 Shorty, are you really gettin bored with me, or him?
 Cause though I play a lot of games, I play 'em to win
 (But then again I'm still young and I'm livin my life)
@@ -156,15 +153,8 @@ But there's still nothin different boy, stick to the plan
 I know I'm feelin you (like you feelin me)
 The way you're holdin my body, the way you touch me
 
-
-
-
 I love when you touch me baby
 All over my body baby
 I love when you kiss me baby
 All over my body baby
-
-
-
-
 

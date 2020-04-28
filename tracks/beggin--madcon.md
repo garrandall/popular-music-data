@@ -50,7 +50,7 @@ rankings:
 ---
 
 
-Oooooh-
+Oh-
 Put your loving hand out, baby
 I'm begging
 

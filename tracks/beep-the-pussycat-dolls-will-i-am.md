@@ -149,7 +149,7 @@ One, just be patient
 Don't be rushing
 Like you're anxious
 And two, you're just too aggressive
-Tryin' to get your (Ahh)
+Tryin' to get your (Ah)
 
 Do you know that I know?
 And I don't want to go there
@@ -182,7 +182,7 @@ Boomp, boomp-boomp
 
 
 
-Ooh, you've got it bad I can tell
+Oh, you've got it bad I can tell
 You want it bad, but oh well
 Dude, what you got for me
 Is something I

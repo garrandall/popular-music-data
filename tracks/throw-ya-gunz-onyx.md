@@ -26,7 +26,7 @@ Take em out, take em out, bring em out dead
 Shine em up, shine em up, shine the bald head
 One gun, two gun, three gun, four
 You're, mine, it's all about crime
-Onyx! 
+Onyx!
 
 
 It's time to get live, live, live like a wire
@@ -38,7 +38,7 @@ In fact,  and jack Jack's
 Cause they can burn in hell shit for all that I care
 Beware the bald head the dread said is they fear
 Stick-up's assassin, traction new reaction
-These fuckin niggaz shoulda made the All Madden
+These fuckin niggas shoulda made the All Madden
 Onyx is wreckin shit, slip slide step quick
  Infinite that gets crashed like a rented
 The shit they write is black and white; well mines got mad color
@@ -50,7 +50,7 @@ So throw ya gunz in the air, throw ya gunz in the air
 Buck buck like you don't care
 
 
-Uh-oh!!  Heads up, cause we're droppin some shit
+Uh-oh!  Heads up, cause we're droppin some shit
 On your now shot-skills, Onyx tec-9 for a while
 Keep your eyes open in the fight, I'ma swell em
 The hardcore style, rowdy n wild, hits I'ma sell em (sell em)
@@ -74,7 +74,7 @@ Just throw ya gunz in the air
 And buck buck like you just don't care
 
 
-Ahhh, I hate your fuckin guts, and I hope that you die
+Ah, I hate your fuckin guts, and I hope that you die
 Sticky Fingaz, the name, and my life is a lie
 Cause I'm havin a bad day, so stay out of my way
 And what the pistol packin people say you better obey

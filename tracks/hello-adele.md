@@ -157,11 +157,11 @@ But it don't matter, it clearly doesn't tear you apart anymore
 
 
 (Highs, highs, highs, highs, lows, lows, lows, lows)
-Ooh, anymore
+Oh, anymore
 (Highs, highs, highs, highs, lows, lows, lows, lows)
-Ooh, anymore
+Oh, anymore
 (Highs, highs, highs, highs, lows, lows, lows, lows)
-Ooh, anymore
+Oh, anymore
 (Highs, highs, highs, highs, lows, lows, lows, lows)
 Anymore
 

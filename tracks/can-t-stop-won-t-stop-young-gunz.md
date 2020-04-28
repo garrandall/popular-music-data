@@ -138,9 +138,6 @@ Ain't takin a deal man, I run wit a charge (Yeah)
 Chris and Neef, we runnin this rap shit
 State Property poppin any one of you bastards
 
-
-
-
 They see the Younguna, all the girlie, girlies
 Wanna see the Younguna once they see the Rocawear (Wear)
 Little bit of jewels plus I treat 'em like I care (Care)

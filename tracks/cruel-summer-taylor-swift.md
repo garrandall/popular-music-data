@@ -31,11 +31,11 @@ What doesn't kill me makes me want you more
 
 And it's new, the shape of your body
 It's blue, the feeling I've got
-And it's ooh, whoa oh
+And it's oh, whoa oh
 It's a cruel summer
 It's cool, that's what I tell 'em
 No rules in breakable heaven
-But ooh, whoa oh
+But oh, whoa oh
 It's a cruel summer
 With you
 
@@ -51,11 +51,11 @@ And if I bleed, you'll be the last to know
 
 Oh, it's new, the shape of your body
 It's blue, the feeling I've got
-And it's ooh, whoa oh
+And it's oh, whoa oh
 It's a cruel summer
 It's cool, that's what I tell 'em
 No rules in breakable heaven
-But ooh, whoa oh
+But oh, whoa oh
 It's a cruel summer
 With you
 
@@ -71,11 +71,11 @@ He looks up, grinning like a devil
 
 And it's new, the shape of your body
 It's blue, the feeling I've got
-And it's ooh, whoa oh
+And it's oh, whoa oh
 It's a cruel summer
 It's cool, that's what I tell 'em
 No rules in breakable heaven
-But ooh, whoa oh
+But oh, whoa oh
 It's a cruel summer
 With you
 

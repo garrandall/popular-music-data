@@ -63,14 +63,10 @@ So in your arms I'm gonna settle down
 
 
 
-Darlin', everybody need somebody, ooo I need you
+Darlin', everybody need somebody, oo I need you
 I know now, nobody really loves me, honey honey honey, the way you do
 One more thing:
 I've changed, girl, through my life as often as I change my suits
 Only to learn the only true happiness is being, honey, being loved by you
 That's why...
-
-
-
-
 

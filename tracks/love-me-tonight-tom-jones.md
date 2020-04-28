@@ -58,7 +58,7 @@ But you're too good to hold that I feel such a long way from home
 Yes I know that our love is too new, But I promise Its going to be true
 Please let me stay and don't you send me away Oh no no
 
-Aaahh
+Ah
 
 Tell me baby that you need me, say you'll never leave me
 Love me tonight
@@ -77,7 +77,7 @@ And now I can hardly believe that you really are here
 Here in my arms you belong, how can this feeling be wrong
 Darling be kind for I'm out of my mind over you
 
-Aaahh
+Ah
 
 Tell me baby that you need me, say you'll never leave me
 Love me tonight

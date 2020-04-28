@@ -76,7 +76,7 @@ Know I'm the man, for real
 I got hittas, we don't rumble
 Tell your mans to chill
 Yo, who mans is this?
-(Somebody come get this n***a)
+(Somebody come get this nigga)
 All up in my session 'Intstagraming' shit
 I be with some real hittas
 They ain't with that camera shit

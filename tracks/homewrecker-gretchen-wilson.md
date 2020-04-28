@@ -67,36 +67,32 @@ Long legs and a mini skirt
 Yeah you know what works and you work it hard
 You smile like such a lady innocent and sweet
 You drive the men folk crazy,
-But any girl can see 
-You're just a 
+But any girl can see
+You're just a
 
 
 
-Homewrecker 
+Homewrecker
 I know what you're doin'
-You think you're gonna ruin what I got, But you're not 
+You think you're gonna ruin what I got, But you're not
 Yeah you little go getter
 I'll teach you a lesson
 If you get to messin' with my man
 You don't stand a chance
 No, you're just a homewrecker
 
-I'm sure you waited for a long, long time 
-To find a man like mine 
+I'm sure you waited for a long, long time
+To find a man like mine
 But honey you're too late
-So before you go and make your move 
+So before you go and make your move
 Maybe me and you should get a few things straight
 There's two ways we can do this
-I'll let you decide 
+I'll let you decide
 You can take it somewhere else or we can take it outside you little
 
 
 
 Now honey I'm a Christian, But if you keep it up
 I'm gonna go to kickin' your pretty little butt
-Is that clear enough yeah, you little 
-
-
-
-
+Is that clear enough yeah, you little
 

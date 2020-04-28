@@ -13,7 +13,7 @@ rankings:
   start_date: '2018-08-18'
 ---
 
-Yeah yeah yeah (yeah, ooh)
+Yeah yeah yeah (yeah, oh)
 Feels like slow motion, we're floating at the speed (yeah)
 (Yeah, yeah)
 Louder (louder)
@@ -36,7 +36,7 @@ In the ocean, I can't be loved
 I don't know a sound
 (That's right)
 
-Standing in the ocean (standing in the ocean) (Ooh)
+Standing in the ocean (standing in the ocean) (Oh)
 Echoing (echoing), echoing
 Standing in the ocean
 (Oh baby)

@@ -31,11 +31,11 @@ rankings:
 
 I've been missing you for so many days
 I keep wanting you, lord, in so many ways
-I cant get you off of my mind
+I can't get you off of my mind
 But true love is so hard to find
 
 I want yet another day
-Ooh, I need another day
+Oh I need another day
 Darling, let me have another day
 And I can be anything that you want me to be, now
 
@@ -44,9 +44,9 @@ Sometimes you used to say them to me
 I can't forget those lovely days
 But this is the price I am about to pay
 
-Ooh, I want another day
+Oh I want another day
 You can let me have just one more day
-Ooh, I need one more day, yeah
+Oh I need one more day, yeah
 And I will do anything that you want me to do
 
 I will do anything that you want me to do, now
@@ -56,10 +56,10 @@ And I can cherish you till the day I die
 
 If you let me have another day
 Please let me have one more day
-Ooh, I want just one more day, lord
+Oh I want just one more day, lord
 And it can be anything that you want me to be
 
-Ooh no, ooh
+Ohno, oh
 Just one more day now
 You can let me have just another day, now
 Please I want to stay and the day after and the day after

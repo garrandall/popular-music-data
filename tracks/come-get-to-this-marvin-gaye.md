@@ -74,7 +74,7 @@ I want to feel what I've felt a long time ago
 Ah come, baby, and get to this
 
 
-Ooh, remember, baby, how you made me feel just like a king
+Oh remember, baby, how you made me feel just like a king
 Ah, I can’t wait, baby
 I'm ready for you to start doing the things
 I’m trying to blow your mind

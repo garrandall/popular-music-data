@@ -88,7 +88,7 @@ You're gonna hear electric music, solid walls of sound
 
 
 Say, Candy and Ronnie, have you seen them yet?
-Ooh, but they're so spaced out
+Oh, but they're so spaced out
 B-B-B-Bennie and the Jets
 Oh, but they're weird and they're wonderful
 Oh, Bennie, she's really keen
@@ -107,7 +107,7 @@ To find who's right and who's wrong
 
 
 Say, Candy and Ronnie, have you seen them yet?
-Ooh, but they're so spaced out
+Oh, but they're so spaced out
 B-B-B-Bennie and the Jets
 Oh, but they're weird and they're wonderful
 Oh, Bennie, she's really keen

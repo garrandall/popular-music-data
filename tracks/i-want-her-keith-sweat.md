@@ -93,9 +93,9 @@ And couldn't picture the color of your hair
 And all I wanted to know, were you really there?
 
 I wanna know, was it my imagination?
-Ooh, you know it was a sweet sensation
+Oh, you know it was a sweet sensation
 Looking at you from a distance
-Ooh, it seems so real
+Oh, it seems so real
 
 
 You and I together
@@ -117,7 +117,7 @@ I want her
 You turn me on and on
 This feeling, girl, is so strong
 My heart, girl, is on fire
-Ooh, you're my desire
+Oh, you're my desire
 
 
 I've got a thing for you
@@ -148,12 +148,12 @@ I want her
 
 And I, I
 Give it to me, give it to me
-Give it to me, ooh, baby
+Give it to me, oh, baby
 All night long, girl
 
 
 I want her
-(Ooh, baby)
+(Oh, baby)
 I want her
 (I want that girl so bad)
 I want her
@@ -181,7 +181,7 @@ I want her
 (I wanna do it like this, baby
 I wanna do it like that, sugar)
 I want her
-(Ooh, I want you so bad, girl)
+(Oh, I want you so bad, girl)
 
 I want her
 (I need you right now, baby)
@@ -200,7 +200,7 @@ I want her
 I want her
 (Don't let this be a dream, girl)
 I want her
-(I want you so bad, ooh baby)
+(I want you so bad, oh baby)
 I want her
 (Give it to me tonight, girl)
 I want her

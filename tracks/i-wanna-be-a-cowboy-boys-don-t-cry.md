@@ -90,7 +90,7 @@ I've got my boots - dusty
 
 I've got my saddle
 On my horse
-He's called....T-t-t-t-t-trigger
+He's called...T-t-t-t-t-trigger
 Of course
 
 I wanna be a cowboy

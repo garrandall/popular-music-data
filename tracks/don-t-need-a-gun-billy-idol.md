@@ -76,7 +76,7 @@ With a whiplash smile, Woahhh!
 Wop bop a lu bop, yeah, you gotta move up
 Flip flop fly
 Lawdy Miss Clawdy
-Oooh, what a story dreams to buy
+Oh, what a story dreams to buy
 Don't need a knife to violate my life
 It's all so insane
 
@@ -103,6 +103,6 @@ I don't need a gun
 I don't need a gun
 I don't need a gun
 
-Ow! 
+Ow!
 You will always be crying
-....
+...

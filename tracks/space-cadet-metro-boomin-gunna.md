@@ -35,7 +35,7 @@ rankings:
 ---
 
 
-Yeah, ooh
+Yeah, oh
 Metro on these
 Boominati wave, uh
 (We've done it with robotic arm on the space shuttle
@@ -112,14 +112,14 @@ Sleepin' on these G's, it's a beanbag (Beanbag)
 Got Rick Owen jeans, cost a cool rack (Cool rack)
 
 
-Ooh, ooh
+Oh, oh
 Yeah
 No, no
 (New coupe, I'm a space cadet, yeah)
 No, no
-(Metro bought me two Pateks, ooh)
+(Metro bought me two Pateks, oh
 No, no
-(Is it drippin'? Got a nigga wet, hmm)
+(Is it drippin'? Got a nigga wet, hm)
 No, no
 (You on the Boominati wave)
 

@@ -88,7 +88,7 @@ I know you can control it, babe
 I know you can control it, babe
 I know you can control it, baby
 
-Ooh, yeah
+Oh, yeah
 
 Sweet, sweet temptation
 For my soul sensation

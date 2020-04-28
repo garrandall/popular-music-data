@@ -157,11 +157,6 @@ I don't think he should
 And if they hate then let 'em hate
 And watch the money pile up, the good life
 
-
-
-
-
-
 Have you ever popped champagne on a plane
 While getting' some brain
 Whipped it out, she said "I never seen snakes on a plane"
@@ -178,7 +173,7 @@ Is the good life better than the life I live
 When I thought that I was gonna go crazy
 And now my grandmama ain't the only girl calling me baby
 And if you feeling' me now then put your hands up in the sky
-And let me hear you say hey, hey, hey, ooh
+And let me hear you say hey, hey, hey, oh
 I'm good
 
 

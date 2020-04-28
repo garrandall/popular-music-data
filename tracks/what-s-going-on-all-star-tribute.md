@@ -50,19 +50,19 @@ rankings:
 ---
 
 
-What's Going On 
+What's Going On
 
 
-Tell Me 
+Tell Me
 
 
 People Dying
 People Crying
-Lord help us 
+Lord help us
 
 
 Mother, mother
-There's too many of you crying 
+There's too many of you crying
 
 
 Oh, brother, brother, brother
@@ -73,7 +73,7 @@ That's Right
 
 
 You know we've got to find a way
-To bring some lovin' here today 
+To bring some lovin' here today
 
 
 Oh my father, father
@@ -83,28 +83,28 @@ We don't need to escalate
 You see war is not the answer
 
 
-For only love can conquer hate 
+For only love can conquer hate
 
 
 You know we've got to find a way
 To bring some lovin' here today
 
 
-Barricades, can't block our way 
+Barricades, can't block our way
 
 
 Don't punish me with brutality
 
 
 Talk to me
-So you can see 
+So you can see
 
 
 
 Oh what's going on
 What's going on
 Yeah what's going on
-Ahh what's going on 
+Ah what's going on
 
 
 What's going on in a world filled with pain
@@ -116,7 +116,7 @@ There's got to be a better way
 What's going on
 When we politically blind
 Can't see the signs of endangered times
-What's going on 
+What's going on
 
 
 Ah tell me
@@ -124,16 +124,16 @@ What's going on in the world today
 I'd rather be dead
 Than turn my head away
 We gotta first world vision to complete, to lift our
-Hands in the air and cry for a switch 
+Hands in the air and cry for a switch
 
 
 Father, father
 
 
-Father help us, come on 
+Father help us, come on
 
 
-Everybody thinks we're wrong 
+Everybody thinks we're wrong
 
 
 Oh, but who are they to judge us
@@ -152,16 +152,16 @@ To bring some understanding here today
 Barricades can't block our way
 
 
-Don't punish me with brutality 
+Don't punish me with brutality
 
 
 Baby talk to me
-So you can see 
+So you can see
 
 Yeah, what's going on
 Hey, what's going on
 Somebody tell me what's going on
-I'll tell you what's goin' on-uh 
+I'll tell you what's goin' on-uh
 
 
 What's going on 'cross seas
@@ -178,35 +178,35 @@ And ask him why they all got a trapped soul
 
 
 I can feel what was bothering Marvin
-Why his words forever remain 
+Why his words forever remain
 Dealing with these modern day problems
 'Cause of ignorance surrounding me and my constituents
 Too many infected
-Too many lives diminishing 
+Too many lives diminishing
 Nobody say Protestants, Jews, Blacks, and Whites, Latinos and Asians
 Pray together
-Less fight 
+Less fight
 We better unite
-As genocide chemical war 
+As genocide chemical war
 And the rich and the poor
-Know that God delivers a cure 
+Know that God delivers a cure
 
 
 It's a shame our reality is devastating
 People praying for a cure
 Dying while they're waiting
 Ask the Lord for the comfort and strength to face it
-All the kids with dreams 
+All the kids with dreams
 Won't get the chance to chase it
 Makes me sad
 Think about the lives they would've had
 Think about the orphan babies got no moms and dads
 How can we sit back and not try to make it right
 We gotta come together
-We gotta fight for life 
+We gotta fight for life
 
 
-Somebody tell me what's going on 
+Somebody tell me what's going on
 (what's going on)
 We got human beings using humans for a bomb
 But everyone wanna live
@@ -217,7 +217,7 @@ I can't be watching people die
 And watching people cry
 Let me break it down for a minute
 If there's enough room here for you and me
-There's plenty of room for some humanity 
+There's plenty of room for some humanity
 
 Somebody tell me what's going on
 (what's going on)

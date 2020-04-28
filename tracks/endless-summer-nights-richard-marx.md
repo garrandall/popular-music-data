@@ -129,7 +129,3 @@ It's only you and me tonight
 So let's stay lost in flight
 Oh, won't you please surrender
 
-
-
-
-

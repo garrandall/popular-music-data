@@ -29,7 +29,7 @@ Ain't no need to run
 The first time I saw ya standing on the street
 I said to myself, oh ain't he sweet
 I got my love gun loaded with a hugs and kisses
-And when I pull my trigger there wont be no misses
+And when I pull my trigger there won't be no misses
 It ain't no need to hide
 Ain't no use to run
 'Cause I've got you in the sight of my love gun
@@ -55,7 +55,7 @@ And it ain't no need to run
 The first time I saw you standing on the street
 I said to myself, ow, ain't he sweet?
 I got my love gun loaded with hugs and kisses
-And when I pull my trigger there wont be no misses
+And when I pull my trigger there won't be no misses
 It ain't no use to hide and it ain't no need to run
 'Cause I've got you in the sight of my love gun, hey
 

@@ -73,10 +73,10 @@ So many plusses when I bust that there can't be no minus
 Went from yellin crickets and crows, bitches and hoes to queen thangs
 Over the years I been up on my toes and yes I seen thangs
 like Kilroy, chill boi because them folks might think you soft
-talkin like that, man fuck them niggaz I'm goin off
+talkin like that, man fuck them niggas I'm goin off
 and comin right back, like boomerangs when you throw em
 With these old ghetto poems, Bankhead is better for em
-When they can let they throw em, down from hitchikin and bitin niggaz
+When they can let they throw em, down from hitchikin and bitin niggas
 until the temple they call the body, now everybody got it
 Had it, talked about it amongst they friends
 Comin around my crew lookin Jazzy, wanna pretend

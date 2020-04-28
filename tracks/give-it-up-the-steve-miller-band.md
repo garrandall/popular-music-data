@@ -74,16 +74,10 @@ No, no
 Hey, darling
 Don't do me this way
 
-
-
-
 So come on give it up, give it up
 Come on darling give me your love
 Oh, oh give it up, give it up
 Come on darling give me your love
-
-
-
 
 So come on give it, give it, give it, give it, give it, give it, give it, give it, give it up, give it up
 Come on darling give it up

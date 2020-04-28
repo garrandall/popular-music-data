@@ -113,7 +113,7 @@ Was much too much
 Wet my whistle (Yeah, yeah)
 
 
-(Just a little bit) Ooh
+(Just a little bit) Oh
 (Just a little bit) Baby
 (A little bit baby) Just a little bit
 (Just a little bit) On your love
@@ -122,8 +122,8 @@ Wet my whistle (Yeah, yeah)
 (Just a little bit) Baby
 (Just a little bit) Baby
 (A little bit baby) Whoa whoa
-(Just a little bit) Ooh baby
-(Just a little bit) Ooh baby yeah
+(Just a little bit) Oh baby
+(Just a little bit) Oh baby yeah
 (A little bit baby)
 
 

@@ -62,7 +62,7 @@ She’s my friend
 I tell you
 She ain't no good
 
-Ooh, ooh, ooh
+Oh, oh ooh
 Yeah, yeah
 
 I can't stand to see someone
@@ -115,7 +115,7 @@ But she told me
 That she needed me
 (Don't waste your time)
 
-Ooh, ooh
+Oh, oh
 
 Don't waste your time
 

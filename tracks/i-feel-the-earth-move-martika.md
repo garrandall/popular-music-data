@@ -55,7 +55,7 @@ rankings:
 
 Oh baby when I see your face
 Mellow as the month of May
-Oh darling I cant stand it
+Oh darling I can't stand it
 When you look at me that way
 
 I feel the earth move under my feet
@@ -66,9 +66,9 @@ Whenever you're around
 Oh darling when I'm near you
 And you tenderly call my name
 I know that, My emotions
-Are something I just cant explain
+Are something I just can't explain
 Ive just got to have you baby
-Ooh yeah, ooh ooh yeah yeah
+Oh yeah, oh oh yeah yeah
 
 I feel the earth move under my feet
 I feel the sky tumbling down tumbling down

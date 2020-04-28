@@ -51,9 +51,9 @@ rankings:
 In the night, in the city
 Alone in my room, all alone
 Touch me
-Ooh, I get the feeling
+Oh, I get the feeling
 Touch me
-Ooh, it feels good
+Oh, it feels good
 Touch me
 Yeah, I get the feeling
 Touch me good
@@ -64,9 +64,9 @@ Just as I was reaching
 For the nearest light
 I heard somebody calling my name
 Touch me
-Ooh, I get the feeling
+Oh, I get the feeling
 Touch me
-Ooh, it feels good
+Oh, it feels good
 Touch me
 Yeah, I get the feeling
 Touch me good
@@ -78,7 +78,7 @@ Oh, how I've missed you
 I need your soft touch
 (Touch me)
 Just let me kiss you
-Ooh, come closer, baby
+Oh, come closer, baby
 Shivers down my backbone
 Cause my man is back
 Then my voice began to race
@@ -86,10 +86,10 @@ When he laid beside me
 Everything went black
 Cause I've just seen
 This stranger's face
-Ooh, touch me
+Oh, touch me
 Yes I get the feeling
 Touch me
-Ooh, Lord, it feels good
+Oh, Lord, it feels good
 Touch me
 Yeah, I get the feeling
 Touch me good
@@ -98,7 +98,7 @@ Oh, oh, I get the feeling
 Touch me
 Don't you know it feels good
 Touch me
-Mmm hmm, yeah, you got the feeling
+Mmm hm, yeah, you got the feeling
 Touch me
 Oh, you make me feel good
 Touch me

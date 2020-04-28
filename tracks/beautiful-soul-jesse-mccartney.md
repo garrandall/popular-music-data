@@ -153,7 +153,7 @@ I don't want my love to go to waste
 I want you and your beautiful soul
 
 
-Ooh, your beautiful soul, yeah
+Oh, your beautiful soul, yeah
 Oh, yeah
 Your beautiful soul
 Yeah

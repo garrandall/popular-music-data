@@ -108,9 +108,9 @@ All come around (Come around)
 To kick it in my town, yeah
 
 
-Let me hear you say ooh ahh
+Let me hear you say ohahh
 Summertime in the LBC
-Ooh ahh
+Ohahh
 Summertime in the LBC
 
 
@@ -135,9 +135,9 @@ Why do we do what we do when we do what we do
 Hanging out late with no curfew
 
 
-Let me hear you say ooh ahh
+Let me hear you say ohahh
 Summertime in the LBC
-Ooh ahh
+Ohahh
 Summertime in the LBC
 
 
@@ -155,11 +155,11 @@ All come around
 To hear the Dove Shack G Funk sound, yeah
 
 
-Let me hear you say ooh
-Let me hear you say ahh
-Let me hear you say ooh
+Let me hear you say oh
+Let me hear you say ah
+Let me hear you say oh
 Summertime in the LBC
-Let me hear you say ooh
-Let me hear you say ahh
-Let me hear you say ooh
+Let me hear you say oh
+Let me hear you say ah
+Let me hear you say oh
 Summertime in the LBC

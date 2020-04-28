@@ -77,7 +77,7 @@ See you in my bedroom tonight
 (through the smoke in the room
 I smell your scent of attraction)
 
-Patra, ooh, sexy, I want you
+Patra, oh, sexy, I want you
 I know you want me too
 I can see it in your eyes
 No need to deny
@@ -99,7 +99,7 @@ I smell your scent of attraction)
 
 Tell me that you want me
 (Take it easy, mon, easy, mon)
-Tell me, baby, baby, ooh
+Tell me, baby, baby, oh
 (Yes, come touch me now, touch me now)
 
 (Let me let you love me)

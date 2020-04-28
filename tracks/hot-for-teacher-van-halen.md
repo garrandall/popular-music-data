@@ -65,7 +65,7 @@ I'm hot for teacher
 Gimme something to write on, man!"
 Yeah, go
 Uh!
-Ooh
+Oh
 
 
 I heard about your lessons, but lessons are so cold
@@ -89,7 +89,7 @@ Wha-oh
 ("What are you doing this weekend?")
 "I don't feel tardy"
 "Class dismissed!"
-Ooh yeah
+Oh yeah
 
 
 I've got it bad, got it bad, got it bad

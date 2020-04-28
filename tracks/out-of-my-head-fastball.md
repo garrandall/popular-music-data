@@ -89,27 +89,22 @@ rankings:
   start_date: '1999-11-13'
 ---
 
-Sometimes I feel 
-Like I am drunk behind the wheel 
-The wheel of possibility 
-However it may roll 
-Give it a spin 
-See if you can somehow factor in 
-You know there's always more than one way 
-To say exactly what you mean to say 
+Sometimes I feel
+Like I am drunk behind the wheel
+The wheel of possibility
+However it may roll
+Give it a spin
+See if you can somehow factor in
+You know there's always more than one way
+To say exactly what you mean to say
 
 
-Was I out of my head? Was I out of my mind? 
-How could I have ever been so blind? 
-I was waiting for an indication 
-It was hard to find 
-Don't matter what I say only what I do 
-I never mean to do bad things to you 
-So quiet but I finally woke up 
-If you're sad then it's time you spoke up too 
-
-
-
-
-
+Was I out of my head? Was I out of my mind?
+How could I have ever been so blind?
+I was waiting for an indication
+It was hard to find
+Don't matter what I say only what I do
+I never mean to do bad things to you
+So quiet but I finally woke up
+If you're sad then it's time you spoke up too
 

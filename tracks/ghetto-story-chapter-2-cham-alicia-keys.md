@@ -60,20 +60,20 @@ But, Mickey go to foreign and go tun Al Capone
 Mek whole heap a money and sen in our own
 Now a we a lock the city and, that is well known
 Yesterday Mickey call me pan mi phone
-Mi say Mickey.....
+Mi say Mickey...
 
 (Chorus: Baby Cham)
 We get di ting dem
 Dem outta luck now
 Mi squeeze seven and the whole a dem a duck now
 We have whole heap a extra clip cau we nuh bruk now
-Rah...Rah..Rah...Rah
+Rah...Rah...Rah...Rah
 
 (Alicia Keys (Baby Cham))
 We got the kingdom so we have to make way
 We take it from the bottom to the top baby
 And now the whole community can live greatly
-(Rah...Rah..Rah...Rah)
+(Rah...Rah...Rah...Rah)
 
 (Verse 2: Alicia Keys) (Baby Cham)
 I remember those days when, we was dead broke
@@ -98,13 +98,13 @@ We get di ting dem
 Dem outta luck now
 Mi squeeze seven and the whole a dem a duck now
 We have whole heap a extra clip cau we nuh bruk now
-Rah...Rah..Rah...Rah
+Rah...Rah...Rah...Rah
 
 (Alicia Keys (Baby Cham))
 We got the kingdom so we have to make way
 We take it from the bottom to the top baby
 And now the whole community can live greatly
-(Rah...Rah..Rah...Rah)
+(Rah...Rah...Rah...Rah)
 
 (Bridge: Alicia Keys)
 Here's my, ghetto story (Story)
@@ -116,21 +116,21 @@ So many reasons to sing now, plus now we got the keys to the kingdom
 Jamaica get screw, tru greed an glutton
 Politics manipulate and press yutes button
 But we rich now ,so dem caan tell man notin
-Cuz a we a mek Mama a nyaam Fish an Mutton..Ehhhh
+Cuz a we a mek Mama a nyaam Fish an Mutton...Ehhhh
 Ova dehso mek mi tell unnu some'in...
 Tru mi dey a foreign now a guy kill me cousin
 An mi here sey TD deh dey but him sey he wasn't
-Anytime mi fly down him a get bout dozen....Cause......
+Anytime mi fly down him a get bout dozen...Cause...
 
 (Chorus: Baby Cham)
 We get di ting dem
 Dem outta luck now
 Mi squeeze seven and the whole a dem a duck now
 We have whole heap a extra clip cau we nuh bruk now
-Rah...Rah..Rah...Rah
+Rah...Rah...Rah...Rah
 
 (Alicia Keys (Baby Cham))
 We got the kingdom so we have to make way
 We take it from the bottom to the top baby
 And now the whole community can live greatly
-(Rah...Rah..Rah...Rah)
+(Rah...Rah...Rah...Rah)

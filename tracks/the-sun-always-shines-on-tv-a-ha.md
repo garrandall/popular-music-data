@@ -87,16 +87,10 @@ Nothing there to ease the pressure of my ever worrying mind
 All my powers waste away
 I fear the crazed and lonely looks the mirror's sending me these days
 
-
-
-
 Please don't ask me to defend
 The shameful lowlands of the way I'm drifting gloomily through time
 I reached inside myself today
 Thinking there's got to be some way to keep my troubles distant
-
-
-
 
 Hold me close to your heart
 Touch me and give all your love to me

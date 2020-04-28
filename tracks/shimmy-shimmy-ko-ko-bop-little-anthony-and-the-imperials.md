@@ -72,8 +72,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-03-21'
 ---
-Oh ! Oh oh oh oh oh oh oh - ah!
-Oh ! Oh oh oh oh oh oh oh - ah!
+Oh! Oh oh oh oh oh oh oh - ah!
+Oh! Oh oh oh oh oh oh oh - ah!
 
 Shimmy Shimmy Ko-Ko-Bop
 Shimmy Shimmy Bop

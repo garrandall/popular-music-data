@@ -23,7 +23,7 @@ Guess I’m not the one, like you used to think
 So you just run
 I know that I'm stuck in this misery
 Guess I'm not enough, like you used to think
-So I’ll just run (Ooh)
+So I’ll just run (Oh)
 
 
 You bathe in your victory

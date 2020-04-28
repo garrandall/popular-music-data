@@ -38,8 +38,8 @@ How long can I survive with this mentality?
 How long can I survive with this mentality?
 
 My dad, he died, he got shot cause his friend set him up.
-And I didn't go to his funeral..and sometimes when I'm in my room, I get mad at my momma when she mean to me.
-And she..and she say, clean up..I say..
+And I didn't go to his funeral...and sometimes when I'm in my room, I get mad at my momma when she mean to me.
+And she...and she say, clean up...I say..
 
 Nigga play me, never
 Give up my chain, never

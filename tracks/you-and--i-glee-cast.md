@@ -18,7 +18,7 @@ It's been a long time, but I'm back in town
 This time I'm not leaving without you
 
 Will:
-Ooh, just you and I
+Oh, just you and I
 Sharing our love together
 And I know in time
 We'll build the dreams we treasure
@@ -50,7 +50,7 @@ Oh, you and I
 Remember our first embrace
 That smile that was on your face
 The promises that we made
-Ooh, and now your love is my reward
+Oh, and now your love is my reward
 And I love you even more
 Than I ever did before
 

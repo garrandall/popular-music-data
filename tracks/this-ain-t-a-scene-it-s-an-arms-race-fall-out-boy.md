@@ -128,9 +128,6 @@ Oh, so intricate, oh, so intricate
 
 Oh, oh, oh, oh, woo!
 
-
-
-
 All the boys who
 The dancefloor didn't love
 And all the girls whose lips couldn't move fast enough

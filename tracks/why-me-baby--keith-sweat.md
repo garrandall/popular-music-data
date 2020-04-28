@@ -105,10 +105,10 @@ But hey, I'm man enough to admit it (No)
 What I wanna know is why (No baby)
 
 
-(Why, why me, baby) 
+(Why, why me, baby)
 (Why, why me, baby) Tell me, baby
 (Why, why me, baby) Tell me, baby
-You broke my heart, baby 
+You broke my heart, baby
 (Why)
 
 
@@ -129,7 +129,7 @@ Droppin' your friends off, all that
 All I wanted in return was your undivided attention and love
 (I need love baby)
 If my heart had eyes it would cry
-You're still in my world (Ooh you're still in my world)
+You're still in my world (Oh you're still in my world)
 Life is worth livin' love
 Tell me why
 
@@ -137,8 +137,8 @@ Tell me why
 (Why, why me, baby) Why would you do it to me, baby, yeah, yeah
 (Why, why me, baby) Hurt me so bad when you left me, baby
 (Why, why me, baby)
-You broke myyyyy baby 
-(Why) 
+You broke myyyyy baby
+(Why)
 
 
 I walk around talkin' to myself
@@ -159,6 +159,6 @@ Why, why, why, why me
 No, baby, no, baby, no, baby, no, baby, no, baby
 No, no, no, no, no
 Tell me not true
-Ooh, do you know, do you know how much I love you
+Oh, do you know, do you know how much I love you
 You were my woman and I was your man
 Oh, girl, I'll never, never, never, never, never, never understand

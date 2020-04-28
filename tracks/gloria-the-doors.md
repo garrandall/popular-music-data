@@ -108,10 +108,7 @@ Too late, too late, too late
 Can’t stop, wow!
 Make me feel all right!
 
-
-
-
 Keep the whole thing going, baby!
 All right!
 All right!
-Aaaaah!
+Ah!

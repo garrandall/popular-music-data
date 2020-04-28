@@ -127,18 +127,18 @@ And she was looking fine
 Smooth talker
 She told me
 She'd love to unfold me all night long
-Ooh I loved the way she kicked it
+OhI loved the way she kicked it
 From the front to back she flipped
-(Back she flipped it, ooh the way she kicked it)
+(Back she flipped it, ohthe way she kicked it)
 And I oh oh I yeah
 Hope that she'd care
 Cos I'm a man who'll always be there
 
-Ooh yeah
+Ohyeah
 I'm not a man to play around baby
-Ooh yeah
+Ohyeah
 Cos a one night stand isn't really fair
-From the first impression girl hmm you don't seem to be like that
+From the first impression girl hm you don't seem to be like that
 Cos there's no need to chat for there'll be plenty time for that
 From the subway to my home
 Endless ringing of my phone
@@ -159,7 +159,7 @@ We chilled on Sunday
 
 (Break it down, uh break it down)
 Since I met this special lady
-Ooh yeah
+Ohyeah
 I can't get her off my mind
 She's one of a kind
 And I ain't about to deny it

@@ -44,7 +44,7 @@ Taffy Apple Tango
 Mambo Cha Cha Cha
 (Heel and toe) I don't know
 
-Ooh, la la la la...
+Oh la la la la...
 
 The crowd was tapping and
 Clapping as the music played
@@ -59,7 +59,7 @@ Mambo Cha Cha Cha
 
 (Fast or slow) I don't know
 
-Ooh, la la la la...
+Oh la la la la...
 
 He did a spin
 And shook his shoulder
@@ -84,7 +84,7 @@ Taffy Apple Tango
 Mambo Cha Cha Cha
 (To and fro) I don't know
 
-Ooh, la la la la...
+Oh la la la la...
 
 Now all night long
 He did it wrong

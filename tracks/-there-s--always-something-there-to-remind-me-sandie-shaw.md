@@ -47,7 +47,7 @@ Always something there to remind me!
 I was born to love you
 And I will never be free –
 You'll always be a part of me!
-Awho-ooo-ohhh-oh
+Awho-oo-oh-oh
 
 When shadows fall
 I pass the small cafe
@@ -62,8 +62,8 @@ Always something there to remind me!
 I was born to love you
 And I will never be free –
 You'll always be a part of me!
-Awho-ooo-ohhh-oh
-Whoa-oh-ooo-ohhh
+Awho-oo-oh-oh
+Whoa-oh-oo-oh
 
 If you should find you miss
 The sweet and tender love

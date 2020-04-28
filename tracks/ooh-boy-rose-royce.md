@@ -3,9 +3,9 @@ artists:
 - Rose Royce
 features: []
 genres: []
-key: ooh-boy-rose-royce
+key: oh-boy-rose-royce
 lyrics_url: https://www.azlyrics.com/lyrics/roseroyce/oohboy.html
-name: Ooh Boy
+name: Oh Boy
 rankings:
 - end_date: '1977-12-02'
   rank: 95
@@ -53,10 +53,10 @@ rankings:
   start_date: '1978-02-04'
 ---
 
-Ooh boy, I love you so
+Oh boy, I love you so
 Never ever, ever gonna let you go
 Once I get my hands on you
-Ooh boy, I love you so
+Oh boy, I love you so
 Never ever, ever gonna let you go
 I hope you feel the same way too
 
@@ -70,10 +70,10 @@ But each time I see you, boy, the words just seem to fade away
 Infatuation, love at first sight
 I don't know, I just know the feeling is right
 
-Ooh boy, I love you so
+Oh boy, I love you so
 Never ever, ever gonna let you go
 Once I get my hands on you
-Ooh boy, I love you so
+Oh boy, I love you so
 Never ever, ever gonna let you go
 I hope you feel the same way too
 
@@ -90,7 +90,7 @@ I'm experiencing something wonderful and new
 And it's you, boy, I love you so
 Never ever, ever gonna let you go
 Once I get my hands on you
-Ooh boy, I love you so
+Oh boy, I love you so
 Never ever, ever gonna let you go
 I hope you feel the same way too
 
@@ -100,22 +100,22 @@ Pretending that it's you
 If I had one wish, and wishes came true
 I'd wish to be able to say these words to you
 
-Ooh boy, I love you so
+Oh boy, I love you so
 Never ever, ever gonna let you go
 Once I get my hands on you
-Ooh boy, I hope with all my might
+Oh boy, I hope with all my might
 You feel the same way too
 
-Ooh boy, I love you so
+Oh boy, I love you so
 Never ever, ever gonna let you go
 Once I get my hands on you
-Ooh boy, I wish I could make
+Oh boy, I wish I could make
 This dream come true
 
-Ooh boy, I love you so
+Oh boy, I love you so
 Never ever, ever gonna let you go
 Once I get my hands on you
-Ooh boy, I hope with all my might
+Oh boy, I hope with all my might
 You feel the same way too
 
 

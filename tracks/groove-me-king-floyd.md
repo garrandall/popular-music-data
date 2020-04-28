@@ -99,11 +99,11 @@ And I want you to be my spouse
 So that we can live happily, nah-nah
 In a great big ol' roomy house
 And I know you're gonna groove me, baby
-Ahh, yeah, now
+Ah, yeah, now
 You make me feel good inside
 Come on, and groove me, baby
 I need you to groove me
-Ahhh, yeah, now, now, darling
+Ah, yeah, now, now, darling
 Uhh! Come on, come on!
 Hey! Uhh!
 
@@ -112,18 +112,18 @@ Come on, give me something
 Girl, I've been needing for days
 Yes, I'm good, good loving
 With plenty, plenty hugging
-Ooh, you cute little thang, you
+Oh you cute little thang, you
 Girl, between you and me, nah-nah
 We don't need no company
 No other man, no other girl
 Can enter into our world
 Not as long as you groove me, baby
-Ahh, come on
+Ah, come on
 Make me feel good inside
 Come on and groove me, baby
 Move me, baby
-Ahh, sock it to me, mama
-Uhh! Ahh, I like it like that, baby
+Ah, sock it to me, mama
+Uhh! Ah, I like it like that, baby
 Uhh! Groove me, baby! Hey! Uhh!
 Groove me, darling!
 Come on, come on
@@ -133,7 +133,7 @@ Hey! Uhh! Good, God!
 It makes me feel so good inside, mama
 Now, come on, come on, and uhh
 Groove me, baby, groove me, baby
-Ahh, sock it to me
+Ah, sock it to me
 Sock it to me
 Rock it to me
 Come on, come on!

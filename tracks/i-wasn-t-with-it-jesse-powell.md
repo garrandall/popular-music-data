@@ -70,7 +70,7 @@ I wouldn't cheat on you
 
 What makes you think I wanna play around, baby
 And jeapordize the love we have, no way
-And girl I do still love you the same, um hmm
+And girl I do still love you the same, um hm
 So don't you listen to a word your girlfriends say
 No, no, no, no
 

@@ -53,7 +53,7 @@ On your own little cloud
 When you don't see the why
 Or the wherefore.
 
-Ooh, you walk out on me
+Oh, you walk out on me
 When we both disagree
 'Cause to reason is not what you care for.
 
@@ -97,4 +97,3 @@ Nothing's wrong,
 Now you're beside me again.
 
 Oh, oh, oh, oh, oh,
-(Repeat chorus and fade out)

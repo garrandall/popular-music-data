@@ -16,7 +16,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-06-05'
 ---
-Hmm, mmm, mmm, mmm
+Hm, mmm, mmm, mmm
 
 I'm gonna keep on checkin' on you, yeah
 I've got to know everything you do

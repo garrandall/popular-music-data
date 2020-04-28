@@ -67,7 +67,7 @@ rankings:
 Wah, wah-a Watusi
 C'mon and take a chance and get-a with this dance
 Wah, wah-a Watusi
-Oh, baby, it's the dance made-a for romance (shoo-bop, shoo-bop, ahh)
+Oh, baby, it's the dance made-a for romance (shoo-bop, shoo-bop, ah)
 
 
 Baby, baby, when you do The Twist
@@ -76,7 +76,7 @@ Never, never do you get yourself kissed
 The Watusi, girl, is-a really smart
 
 Wah-a, wah, wah-a Watusi
-C'mon and take a chance and get-a with this dance (shoo-bop, shoo-bop, ahh)
+C'mon and take a chance and get-a with this dance (shoo-bop, shoo-bop, ah)
 
 
 Baby, baby, when you do The Fly

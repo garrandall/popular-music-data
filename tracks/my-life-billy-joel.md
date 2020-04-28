@@ -127,9 +127,6 @@ Don't get me wrong
 And you can speak your mind
 But not on my time
 
-
-
-
 I don't care what you say anymore, this is my life
 Go ahead with your own life, leave me alone
 

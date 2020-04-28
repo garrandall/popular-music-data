@@ -41,7 +41,7 @@ rankings:
 "The only thing we have to fear is fear itself." - PRESIDENT FRANKLIN D. ROOSEVELT
 (From his first Inaugural Address, 3/4/33. In the depths of the Great Depression, the pessimism of the population and especially the business community kept things bad. Decisions based on a gloomy outlook caused things to get even worse. In that respect, the mood and expectation of bad times became a self-fulfilling prophecy.)
 
-"Horrific place, ladies and gentlemen, the smoke and the flames now, ooh, the humanity"
+"Horrific place, ladies and gentlemen, the smoke and the flames now, oh the humanity"
 (Live radio account of the fire and crash of the German airship "Hindenburg." It happened 5/6/37 on the eve of the Second World War in Lakehurst, New Jersey. The Hindenburg was the largest airship ever built. It was filled with an enormous quantity of hydrogen. Hydrogen had two big advantages over helium. It had greater lifting potential and was much cheaper. Unfortunately, it is one of the most flammable substances in the world. Helium could be used to put fires out. Since that disaster all airships have been filled with hydrogen. This luxurious craft had just come from Europe, making the trip across the Atlantic Ocean much faster than any ship. It was the pride of Nazi Germany. It s loss was a blow to the morale of the German engineers. The German public never heard much about it. The exact cause of the fire and crash has never been determined.)
 
 "Now, with the help and support of the woman I love." - KING EDWARD VIII (of England)
@@ -88,7 +88,7 @@ Abbott: "Who Is on first." Costello: "What are you asking me for?" - ABBOTT & CO
 "Old soldiers never die. They just fade away." - GENERAL DOUGLAS MACARTHUR
 (Address to a joint session of Congress, 4/19/51)
 
-"Lucy" "Ahhhhhhh!" - LUCILLE BALL AND DESI ARNEZ
+"Lucy" "Ah!" - LUCILLE BALL AND DESI ARNEZ
 (one of the first very popular comedies on television)
 
 "It was a little cocker spaniel dog, and our little girl, Tricia, the six year old, named it Checkers " - RICHARD NIXON

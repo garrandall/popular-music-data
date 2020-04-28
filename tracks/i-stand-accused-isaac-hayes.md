@@ -71,7 +71,7 @@ I can't help myself
 I'm a victim of circumstance
 
 And just one
-Ooh, one touch of your hand
+Oh, one touch of your hand
 I don't know how it happened
 But just look at me
 I find myself chillin'

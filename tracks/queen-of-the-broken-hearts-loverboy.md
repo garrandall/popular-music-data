@@ -74,7 +74,7 @@ Cause nothin's gonna bring you down
 
 You were born with it
 And now you got it
-And oooh you flaunt it
+And ohou flaunt it
 And you don't care
 Cause nothin's gonna bring you down,
 No...
@@ -101,7 +101,7 @@ No...
 
 You were born with it
 And now you got it
-And oooh you flaunt it
+And ohou flaunt it
 And you don't care
 Cause nothin's gonna bring you down,
 No...

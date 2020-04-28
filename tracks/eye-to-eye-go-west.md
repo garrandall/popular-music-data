@@ -37,7 +37,7 @@ rankings:
   start_date: '1985-11-09'
 ---
 Maybe it's the wrong time
-But when is the right time to say i lied ?
+But when is the right time to say I lied ?
 I've been keeping secrets
 Could this be the last time we say goodbye ?
 
@@ -45,16 +45,16 @@ Could this be the last time we say goodbye ?
 Eye to eye no conversation
 You know what i'm going to say
 Eye to eye it's a sad situation
-Girl have i thrown it away ?
+Girl have I thrown it away ?
 
 I was missing you, missing you
 I needed someone to comfort me
 When you closed the door baby
-How could i know that i still had the key ?
+How could I know that I still had the key ?
 
-Your love never thought that i would lose it
+Your love never thought that I would lose it
 My love won't you tell me what it takes to prove it ?
-All i want is your love
+All I want is your love
 
 It's all up to you girl
 I just couldn't keep it to myself

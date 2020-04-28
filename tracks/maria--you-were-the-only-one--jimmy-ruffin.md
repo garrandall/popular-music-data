@@ -41,7 +41,7 @@ I need you honey
 Oh Maria you sweet little sunflower
 Oh hear my plea for sympathy
 I just-a want you here with me Maria
-Ooh yeah yeah
+Oh yeah yeah
 Empty on the lonely nights
 That's my life without you girl
 I'm so lonely I'm so blue
@@ -50,16 +50,16 @@ Come on back
 
 You keep running away
 Come back come back
-Ooh baby I need you gotta have you
-Ooh baby ooh baby
-Maria ooh baby
+Oh baby I need you gotta have you
+Oh baby oh baby
+Maria oh baby
 Gotta have ya aw
 Come back come back
-Maria ooh baby
+Maria oh baby
 I need ya
 Gotta have ya gotta have ya
 Maria come back come back
-Ooh Baby Oh
+Oh Baby Oh
 Come back come back
 Maria I gotta have ya
 I gotta have ya

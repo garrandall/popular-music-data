@@ -79,7 +79,7 @@ But you can give it one more try
 
 Find a reason why
 You should pick it up
-Oooh, and try it again
+Oh, and try it again
 
 Cause it's all right, I think we're gonna make it
 I think it might just work out this time
@@ -122,8 +122,8 @@ We all know it gets hard sometimes
 You can give it one more try
 Find another reason why
 You should pick it up
-Oooh, you should kick it up
-Oooh, and try it again
+Oh, you should kick it up
+Oh, and try it again
 
 Cause it's all right, I think we're gonna make it
 I think it might just work out this time

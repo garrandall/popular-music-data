@@ -68,7 +68,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-03-20'
 ---
-Sometimes i swear i live with an angel
+Sometimes I swear I live with an angel
 Sent from above to watch over me
 He wears his love like a halo
 If he's not an angel, what else can he be
@@ -83,9 +83,9 @@ How with just one kiss he made me
 Believe in angels
 Though i've never seen him fly
 This mornin' he walked up
-Smiled and i kissed him
+Smiled and I kissed him
 I never let on that he's not foolin' me
-But i think it's so cute how he says
+But I think it's so cute how he says
 He's from houston
 I swear there's wings tucked up his sleeves
 Though i've never seen him fly

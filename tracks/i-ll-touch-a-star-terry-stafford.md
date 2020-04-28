@@ -64,7 +64,6 @@ My heart to you
 
 Verse
 
-Chorus
 
 And give a way my heart to you
 I'll touch a star.

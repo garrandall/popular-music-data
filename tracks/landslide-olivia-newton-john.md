@@ -102,7 +102,7 @@ My heart agreed
 My minor desires turned to major needs
 My needs won't be denied
 It was a landslide
-Ooh it was a landslide
+Oh it was a landslide
 He took my heart, it was a landslide
 Oh it was a landslide
 He took my heart, it was a landslide

@@ -44,13 +44,13 @@ Bad lil' mama, fresh off the page
 Front like you love it, but you know that you hate it
 Yeah you know no better
 Yeah you know no better
-Yeah you know no better, ooh
+Yeah you know no better, oh
 
 
 Yeah, you know no better
 Say you different, who you kidding?
 Yeah, you know no better
-Ooh, save that talk for the ones who don't know no better
+Oh, save that talk for the ones who don't know no better
 'Cause baby I know you better
 ('Cause baby I know no better)
 Baby I know you better (baby I know)
@@ -76,13 +76,13 @@ Bad lil' mama, fresh off the page
 Front like you love it, but you know that you hate it
 Yeah you know no better
 Yeah you know no better
-Yeah you know no better, ooh
+Yeah you know no better, oh
 
 
 Yeah, you know no better
 Say you different, who you kidding?
 Yeah, you know no better
-Ooh, save that talk for the ones who don't know no better
+Oh, save that talk for the ones who don't know no better
 'Cause baby I know you better
 (Cause baby I know no better)
 Baby I know you better (baby I know)
@@ -118,7 +118,7 @@ That way
 Yeah, you know no better
 Say you different, who you kidding?
 Yeah, you know no better
-Ooh, save that talk for the ones who don't know no better
+Oh, save that talk for the ones who don't know no better
 'Cause baby I know you better
 Baby I know you better (straight up)
 Baby I know you better

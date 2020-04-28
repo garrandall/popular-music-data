@@ -70,7 +70,7 @@ rankings:
 ---
 
 Yeah
-Woo...ooh...ooh...ooh...
+Woo...oh...oh.ohoh
 
 You say you want to be the one I need
 You say you want to be the one for me

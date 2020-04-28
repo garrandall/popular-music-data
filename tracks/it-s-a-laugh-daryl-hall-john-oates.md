@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: it-s-a-laugh-daryl-hall-john-oates
+lyrics_url: https://www.azlyrics.com/lyrics/halloates/itsalaugh.html
 name: It's A Laugh
 rankings:
 - end_date: '1978-09-01'
@@ -63,4 +64,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-11-25'
 ---
-
+You must be thinking something
+But you ain't saying nothing
+You remember me, I used to be your boyfriend
+There ain't no point in reason
+It only gets defensive
+And why should we ruin the purity of the moment
+It's a Laugh
+What a laugh
+It's so stupid I gotta laugh
+And the funny thing is that everyone thought we were special
+Maybe I should feel guilty
+Is that the American way
+But I just look at myself
+As if I were above me
+You must be thinking something
+But you ain't saying nothing
+You remember me, I have been here always
+I am here forever

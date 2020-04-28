@@ -74,7 +74,7 @@ All night to see you dance like me
 You gon sweat yo outfit out
 Tryna dance like me
 Now let me see you move
-Oowoo-ooo-oo-oo......now Freeze (like me)
+Oowoo-oo-oo-oo...now Freeze (like me)
 
  "Step up"
 
@@ -97,7 +97,7 @@ All night to see you dance like me
 And you gon sweat yo outfit out
 Tryna dance like me
 Girl let me see you move
-Oowoo-ooo-oo-oo......now Freeze (like me)
+Oowoo-oo-oo-oo...now Freeze (like me)
 
  "Step up"
 
@@ -122,10 +122,10 @@ All night to see you dance like me
 And you gon sweat ya outfit out
 Tryna dance like me
 Girl let me see you move
-Oowoo-ooo-oo-oo......Now Freeze Like Me
+Oowoo-oo-oo-oo...Now Freeze Like Me
 
 Yeah, ha...Lamborghini Breezy
-Or Graffiti Breezy? It's easy.....
+Or Graffiti Breezy? It's easy...
 Hey, I just want you to relax
 And I'm gon leave this pop popped in
 Drop droppin 1-2-3-4 Freeze
@@ -136,7 +136,7 @@ All night to see you dance like me
 And you gon sweat ya outfit out
 Tryna dance like me
 Now let me see you move
-Oowoo-ooo-oo-oo......now Freeze (like me)
+Oowoo-oo-oo-oo...now Freeze (like me)
 
 
 

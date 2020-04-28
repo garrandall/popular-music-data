@@ -73,7 +73,7 @@ Psycho Killer
 Qu'est-ce que c'est ?
 fa fa fa fa fa fa fa fa fa far better
 Run run run run run run run away
-oh oh oh oh oh oh oh oh....
+oh oh oh oh oh oh oh oh...
 
 
 

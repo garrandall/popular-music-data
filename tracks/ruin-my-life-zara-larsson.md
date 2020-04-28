@@ -93,8 +93,8 @@ If you make it all wrong, then I'll make it all right, yeah
 I want you to ruin my life
 You to ruin my life, you to ruin my life
 
-I miss you, I miss you-ooh
-I wish you, I wish you-ooh
+I miss you, I miss you-oh
+I wish you, I wish you-oh
 Would come back to, come back to me
 Come back to me, come back to me
 

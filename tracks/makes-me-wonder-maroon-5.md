@@ -159,7 +159,7 @@ But I don't believe it's true anymore, anymore
 I wonder if it even makes a difference to cry
 Oh no
 So, this is goodbye
-Ooh
+Oh
 
 I've been here before
 One day I'll wake up

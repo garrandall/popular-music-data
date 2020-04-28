@@ -24,8 +24,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-11-24'
 ---
-(Oooh, ah, oooh, ah
-Oooh, ah, oooh, ah)
+(Oh, ah, ohah
+Oh, ah, ohah)
 
 It's me again, yes, how did you guess?
 'Cause last time you were really impressed

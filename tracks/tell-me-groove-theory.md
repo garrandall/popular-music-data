@@ -168,7 +168,3 @@ I don't wanna rush, we should take it slow
 Boy, I can love you, can you help me grow
 Give me a new beginning and I'll give you a happy ending
 
-
-
-
-

@@ -37,9 +37,9 @@ rankings:
   start_date: '1964-06-13'
 ---
 
-Uh huh, hmm hmm
+Uh huh, hm hm
 Gonna get along without you now
-Uh huh, hmm hmm
+Uh huh, hm hm
 Gonna get along without you now
 
 You told me I was the neatest thing
@@ -47,9 +47,9 @@ You even asked me to wear your ring
 You ran around with every girl in town
 You didn't even care if it got me down
 
-Uh huh, hmm hmm
+Uh huh, hm hm
 Gonna get along without you now
-Mhm mhm, hmm hmm
+Mhm mhm, hm hm
 Gonna get along without you now
 
 Got along without you before I met you
@@ -62,7 +62,7 @@ But this is where our friendship ends
 Cause all of a sudden you even changed your tune
 You haven't been around since way last June
 
-Uh huh, hmm hmm
+Uh huh, hm hm
 Gonna get along without you now
 Got along without you before I met you
 Gonna get along without you now
@@ -70,7 +70,7 @@ Gonna get along without you now
 So long my honey, goodbye my dear
 Gonna get along without you now
 
-Uh huh, hmm hmm
+Uh huh, hm hm
 Gonna get along without you now
 Got along without you before I met you
 Gonna get along without you now

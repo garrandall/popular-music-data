@@ -121,7 +121,7 @@ Right here what we gone do is go back
 Way
 Way back, yea
 Way back
-Ooh...
+Oh...
 Way back, yeah
 
 
@@ -203,14 +203,14 @@ It's like that and a...
 
 
 Love of my life
-Ooh, you know you rock my world and
+Oh, you know you rock my world and
 Love of my life
 You B-boy and I'm B-girl'n
 Love of my life
-It don't stop until the break of dawn, ooh...
+It don't stop until the break of dawn, oh..
 
 Love of my life
-Ooh, you know you rock my world and
+Oh, you know you rock my world and
 Love of my life
 You B-boy and I'm B-girl'n
 Love of my life

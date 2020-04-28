@@ -81,9 +81,9 @@ The JAMs are here, to put you in a rapture
 To make you, shake you, break you, take to
 Right in the Path, what they call the Mu Mu
 KLF - Can you get enough? Bring the Break
-What Time is Love (Ooooh Ooooh)
-What Time is Love (Ooooh Ooooh)
-What Time is Love (Ooooh Ooooh)
+What Time is Love (Oh Oh)
+What Time is Love (Oh Oh)
+What Time is Love (Oh Oh)
 I wanna see you sweat (I wanna see you sweat)
 I wanna see you sweat (I wanna see you sweat)
 America
@@ -139,8 +139,8 @@ We came a long time ago
 Nine Nine Two but you did not know
 So if you think that the going gets tough
 Just Remember
-What Time is Love (Oooooh Oooooh)
-What Time is Love (Oooooh Oooooh)
+What Time is Love (Oh Oh)
+What Time is Love (Oh Oh)
 I wanna see you sweat (I wanna see you sweat)
 I wanna see you sweat (I wanna see you sweat)
 America (Mu Mu)
@@ -155,8 +155,8 @@ Be young, be free, the American way
 Be young, be free, the American way
 America (Mu Mu)
 America (Mu Mu)
-Ahhhhhhhhh - Get Higher
-Ahhhhhhhhh - Get Higher
+Ah - Get Higher
+Ah - Get Higher
 America (Mu Mu)
 America (Mu Mu)
 I'd like to thank the Justified Ancients of Mu Mu, furthermore known as

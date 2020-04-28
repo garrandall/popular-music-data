@@ -45,8 +45,8 @@ rankings:
   start_date: '1968-02-17'
 ---
 Oh darling
-Ooh, my darling, you're so fine
-Ohhhh-ahhh-ahhh
+Oh, my darling, you're so fine
+Ohhhh-ah-ah
 
 
 Don't know if words could say

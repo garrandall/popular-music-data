@@ -150,7 +150,7 @@ I believe that love will find the way
 I believe that love is the answer
 I believe that love will find the way
 
-Ooooh
+Oh
 
 I've been seeing Lisa now for a little over a year
 She said she's never been so happy but Lisa lives in fear

@@ -91,12 +91,12 @@ rankings:
 ---
 
 
-Ay Yo Mya 
+Ay Yo Mya
 I know you got a man and all
 But uhhhh I been watchin y'all
 And if he ain't treatin' you right
-It's about time you move on 
-Now I'm not tryna get in between y'all two, 
+It's about time you move on
+Now I'm not tryna get in between y'all two,
 But if you gonna move, move this way
 
 
@@ -106,7 +106,7 @@ But I gotta be a woman
 I gotta get over you
 I think I saw your baby's motha
 Creeping at yo back door
-And ya lying ass been cheatin' 
+And ya lying ass been cheatin'
 And I can't take it no more oh no
 I'm movin on
 
@@ -114,12 +114,12 @@ I'm movin on
 On (Movin on)
 On (movin on-on)
 Oh-on
-I'll be movin on 
+I'll be movin on
 
 
 
 Whose drawers are these?
-You know I wear a size 4 
+You know I wear a size 4
 And if you say that you've been faithful
 Who was at your back door?
 You ain't got no money
@@ -147,7 +147,7 @@ Cuz now it's time to fly
 You aint never gotta trip
 Or remind me
 I'm trying to live ghetto fab
-Like takin' baths 
+Like takin' baths
 In bottles of Don P
 But I ain't perfect
 Just imagine me with no flaws
@@ -158,13 +158,9 @@ So check this out
 I can heal your broken heart
 So don't be so fast To react so quick
 Or get all mad And try to scratch up my 6
-Now you know I get paid 
+Now you know I get paid
 For bustin all kind of tight verses
 See I need a girl, That I can see on top
 Like Silkk and Mya
-Or vice versa 
-
-
-
-
+Or vice versa
 

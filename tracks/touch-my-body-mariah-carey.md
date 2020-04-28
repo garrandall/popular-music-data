@@ -219,13 +219,13 @@ Touch my body
 (every little way you like to touch my body baby)
 
 Just touch my body
-Yeah ooh ooh baby
-Oh ooh ooh
+Yeah ohoohaby
+Oh ohooh
 Touch my body
-Uh ooh ooh ooh
+Uh ohoohhoh
 Come on and give me what I deserve!
 Touch my body
-Oh! Ooh ooh, ooh
+Oh! Oh oh ooh
 Touch my body
 
 

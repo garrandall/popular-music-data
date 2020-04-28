@@ -81,7 +81,7 @@ Moving with the grooving
 Splish splash, yeah
 
 Mm, splishing and a-splashing, one time
-I was a-splishing and a-splashing, ooh wee
+I was a-splishing and a-splashing, ohwee
 I was a-moving and a-grooving, yeah
 I was a-splishing and a-splashing
 

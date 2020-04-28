@@ -45,7 +45,7 @@ I found myself so deep inside
 Gotta hold and try to feel alright anyway
 Just think about you're makin' love
 
-I'm gonna catch you baby....
+I'm gonna catch you baby...
 
 You know I'll be this time on my way
 So please don't ask me to stay
@@ -60,4 +60,4 @@ Realize he's just dreamin' inside
 Gotta hold an dtry to feel alright anyway
 When I turned you were turning aside
 
-I'm gonna catch you baby....
+I'm gonna catch you baby...

@@ -44,9 +44,9 @@ I see you in the morning staring through the looking glass
 You whisper down through history and echo through these halls
 But I hate to tell you, love's gonna conquer all
 
-Ooh ooh ooh
-Ooh ooh ooh
-Ooh ooh ooh
+Oh oh oh
+Oh oh oh
+Oh oh oh
 
 Dear Love
 Just when I think you've given up

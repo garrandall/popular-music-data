@@ -51,7 +51,7 @@ rankings:
 
 Good good timin'
 Good good timin'
-Ahhhh Ahhhh
+Ah Ah
 You need good timin'
 Good good timin'
 
@@ -63,7 +63,7 @@ And we're all learnin'
 About
 Good good timin'
 Good good timin'
-Ahhhh Ahhhh
+Ah Ah
 You need good timin'
 It takes good timin'
 You need good timin'
@@ -77,7 +77,7 @@ Of being together
 I love
 Good good timin'
 Good good timin'
-Ahhhh Ahhhh
+Ah Ah
 You need good timin'
 It takes good timin'
 You need good timin'

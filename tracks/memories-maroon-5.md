@@ -149,7 +149,7 @@ Memories bring back, memories bring back you
 There's a time that I remember
 When I never felt so lost
 When I felt all of the hatred
-Was too powerful to stop (ooh, yeah)
+Was too powerful to stop (oh, yeah)
 Now my heart feel like an ember
 And it's lighting up the dark
 I'll carry these torches for ya
@@ -176,7 +176,7 @@ Memories bring back, memories bring back you
 
 Doo-doo, doo-doo-doo-doo
 Doo-doo-doo-doo, doo-doo-doo-doo
-Doo-doo-doo-doo, doo-doo-doo (ooh, yeah)
+Doo-doo-doo-doo, doo-doo-doo (oh, yeah)
 Memories bring back, memories bring back you
 
 Yeah, yeah, yeah

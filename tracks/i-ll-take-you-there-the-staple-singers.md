@@ -95,7 +95,7 @@ Alright, ah, do it, do it, come on now
 Play on it, play on it, big daddy now
 Daddy, daddy, daddy, play your
 
-Ooh, Lord, alright now
+Oh, Lord, alright now
 Baby, little Davey, easy now, help me out
 Come on, little Davey, alright
 Sock it, sock it, ah, oh, ah
@@ -146,7 +146,7 @@ You oughta, you gotta, gotta, gotta let me, let me!
 (I'll take you there)
 Take you, take you, take you over there!
 (I'll take you there)
-Ooh, oh, oh! Alright
+Oh, oh, oh! Alright
 (I'll take you there)
 Oh, alright!
 (I'll take you there)

@@ -114,7 +114,7 @@ Some men go just where they want
 Some men never go
 
 Oh, blame it on midnight
-Ooh, shame on the moon
+Oh, shame on the moon
 
 Everywhere it's all around
 Comfort in a crowd
@@ -127,9 +127,9 @@ Step light on old toes
 You don't know who he knows
 
 Oh, blame it on midnight
-Ooh, shame on the moon
+Oh, shame on the moon
 Oh, blame it on midnight
-Ooh, shame on the moon
+Oh, shame on the moon
 
 Blame it on midnight
 You can blame it on midnight

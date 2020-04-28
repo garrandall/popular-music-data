@@ -95,9 +95,6 @@ A little something for the honeys in the flocks
 A little something from me to you
 So (you can feel the same way too)
 
-
-
-
 Nine Trey, everybody wanna be a gangsta
 Buck-buck-buck-buck, but no more, thanks to me
 You got something you can flip on the other tip

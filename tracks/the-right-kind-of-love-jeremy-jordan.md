@@ -108,14 +108,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-05-29'
 ---
-It's the right kinda love, it's the right kinda night, you're the right kinda girl... ooh, Woh!
+It's the right kinda love, it's the right kinda night, you're the right kinda girl... oh Woh!
 
-Oh yeah... hey..oh.. it's the right kinda love.. yeah...
+Oh yeah... hey...oh.. it's the right kinda love.. yeah...
 
 Day dreaming about you baby, That it must love, Girl you made my heart go crazy, Highest the heaven's above oh yeah.. I hope you're thinking about me girl, because all of my thoughts are with you, my love, There's no reason to doubt me, Believe me it's true, yeah...
 
 CHORUS: I know it that I could give you the right kinda love, it's the right kinda night, You're the right kinda girl, and the right oh time oh now baby, you know we can't go wrong.. noh..
-Why you're trying to hold back baby? Tell me what you feel, if you're have a mixed emotions, I'll show you that I'm for real..What can I do to make you see, baby, There's nobody but you, and girl, it's not magic or fair to see, it's simple and true..
+Why you're trying to hold back baby? Tell me what you feel, if you're have a mixed emotions, I'll show you that I'm for real...What can I do to make you see, baby, There's nobody but you, and girl, it's not magic or fair to see, it's simple and true..
 
 Repeat CHORUS
 

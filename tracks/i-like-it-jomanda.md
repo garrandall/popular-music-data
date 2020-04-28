@@ -38,9 +38,9 @@ My every thought is you, the things you do
 Seems so satisfying to me, I must confess it, boy
 
 
-Ooh, and I like it
+Oh, and I like it
 You send chills up my spine every time I take one look at you
-Ooh, and I like it
+Oh, and I like it
 Boy, you're blowin' my mind with the things you say to me
 
 
@@ -54,10 +54,10 @@ You put that fire inside of me
 And make it more than just a dream
 
 
-Ooh, and I like it
+Oh, and I like it
 You send chills up my spine every time I take one look at you
-Ooh, and I like it
-Ooh, and I like it
+Oh, and I like it
+Oh, and I like it
 
 
 Boy, let me run this by you, just one more time
@@ -74,9 +74,9 @@ I like it, I like it, I really, really like it
 I'm for it, adore it, so come let me enjoy it
 
 
-(Ooh, and I like it)
-Ooh, I like it, ooh
-(Ooh, and I like it)
+(Oh, and I like it)
+Oh, I like it, oh
+(Oh, and I like it)
 I'm just tryin' to satisfy you, boy
 You know I really like it
 Hey babe

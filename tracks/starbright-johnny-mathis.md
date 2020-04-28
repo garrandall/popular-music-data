@@ -57,7 +57,7 @@ Starbright, I have made a wish upon you.
 Now my heart is counting on you.
 Wont you grant my wish tonight.
 
-Starbright, wont you glow with all your splendor.
+Starbright, won't you glow with all your splendor.
 Wont you make her heart surrender.
 Wont you make her mine tonight.
 

@@ -80,7 +80,7 @@ To love somebody
 To love somebody
 The way I love you
 
-Oooooohhhhhhhhhhhhhhhh
+Oh
 
 
 You don't know what it's like, baby

@@ -116,7 +116,7 @@ Go get her back
 Or maybe I'll just let her go
 Drink a little drink, smoke a little smoke
 (ah come on now)
-Go get her back (ohhh)
+Go get her back (oh)
 Drink a little drink, smoke a little smoke
 Drink a little drink smoke a little, smoke
 (You guys put your hands together like this)

@@ -33,17 +33,17 @@ rankings:
   start_date: '2007-03-03'
 ---
 
- 
+
 Say that you'll stay a little
-dont say bye-bye tonight
+don't say bye-bye tonight
 say you'll be mine
 just a little bit of love
 is worth a moment of your time.
 Knockin' on your door just a little
 it's so cold outside tonight
-let's get a fire burning 
+let's get a fire burning
 oh I know I'll keep it burning bright
-if your stay, wont you save, save
+if your stay, won't you save, save
 
 
 Save room for my love
@@ -56,7 +56,7 @@ Save a little for me
 
 This just might hurt a little
 love hurts sometimes when you do it right
-dont be afraid of a little bit of pain
+don't be afraid of a little bit of pain
 pleasure is on the other side.
 Let down your guard just a little
 i'll keep you safe in these arms of mine

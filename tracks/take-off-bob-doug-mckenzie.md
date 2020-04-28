@@ -178,9 +178,6 @@ You know what it is
 What
 It's a drum solo
 
-
-
-
 Okay, everyone
 Like, this is me on the drums
 Oh, get out, it is not

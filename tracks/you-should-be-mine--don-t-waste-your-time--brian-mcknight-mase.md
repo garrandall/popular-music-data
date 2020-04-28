@@ -132,12 +132,12 @@ I wanna love you like you need to be loved
 (I'll never let you down
 I'll always be around)
 And you should be mine
-He don't love you right (Ooh)
+He don't love you right (Oh)
 Don't waste your time
 Don't waste your time
 He don't treat you like he should (now)
 Then you should be mine
-You should be mine (Ooh ooh)
+You should be mine (Oh oh)
 Mase:
 Yo!
 What the deal honey
@@ -167,9 +167,9 @@ No worries, no more
 Girl open the door
 And don't waste your time
 Cuz you should be mine
-He don't love you right (ooh baby)
+He don't love you right (oh baby)
 Don't waste your time (don't waste your time)
-He don't treat you like he should (ooh)
+He don't treat you like he should (oh)
 You should be mine (should be mine, baby baby)
 He don't love you right
 Don't waste your time (don't waste your time)

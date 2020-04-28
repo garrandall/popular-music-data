@@ -53,5 +53,5 @@ Your little cookie one more time
 Right now, yeah, yeah
 
 Oh, I said don't cry, don't cry, baby
-Ooh, don't cry, don't cry, sugar
+Oh don't cry, don't cry, sugar
 Oh yeah, don't cry

@@ -70,7 +70,7 @@ Cried and you cried
 
 Now there's nothing
 Dark and there's nothing weird
-Don't be afraid i will hold you near.
+Don't be afraid I will hold you near.
 From the seance where you first betrayed
 An open heart on a darkened stage.
 

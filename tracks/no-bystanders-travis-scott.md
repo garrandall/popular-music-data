@@ -139,7 +139,7 @@ Fuck the club up, fuck the club up (bitch)
 Nah, nigga, nah, nigga, for real, we walkin' in this bitch heavy
 Fuck the club up, fuck the club up (bitch)
 Fuck the club up, fuck the club up
-They know me when they see me, nigga, ahhh!
+They know me when they see me, nigga, ah!
 Fuck the club up, fuck the club up (yeah)
 
 

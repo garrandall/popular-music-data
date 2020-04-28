@@ -45,7 +45,7 @@ You won't be seventeen forever
 And we can get away with this tonight
 
 You are young and I am scared
-You're wise beyond your years but I dont care
+You're wise beyond your years but I don't care
 And I can feel your heartbeat
 You know exactly where to take me
 
@@ -55,8 +55,4 @@ Will you remember me?
 You ask me as I leave
 Remember what I said?
 Oh how could I, oh how could I forget?
-
-
-
-
 

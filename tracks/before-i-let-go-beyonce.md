@@ -111,14 +111,14 @@ Dussé and Champagne (Champagne)
 I did the damn thing (I did the damn thing)
 Dirty Diana (Dirty Diana)
 Singin' and dancin' all in the rain (Woo)
-Ooh (To the left)
+Oh (To the left)
 I just wanna have a good time (Turn around)
 Turn around, kick, then slide
 And twirl that ass to the right, now
-Ooh, bunny hop, bunny hop, drop, pop
+Oh, bunny hop, bunny hop, drop, pop
 Cross your legs, turn around and clap
 Shuffle to the left, let's glide now
-Ooh, drop it down, drop it down low, low
+Oh, drop it down, drop it down low, low
 Low, low, low to the floor, floor
 Bring it up, clap, then roll, roll
 Step on 'em, step on 'em, step on 'em, step

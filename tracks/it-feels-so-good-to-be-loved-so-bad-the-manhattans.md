@@ -106,7 +106,7 @@ Going to drive me mad
 It feels, it feels so good to be loved so bad
 
 Do you feel it are you ready (are you ready)
-Hold on steady, ohh hold on steady
+Hold on steady, oh hold on steady
 Here we go, here we go again, now
 Move a little bit closer
 C'mon and follow me to estacy

@@ -62,7 +62,7 @@ Treat me like I'm a bad girl, even when I'm being good to you,
 I don't want you to thank me, you can just spank me. Mmm.
 
 Some guys like to sweet talk, and others, they like to tease,
-Tie my hands behind my back and, ooo, I'm in ecstasy.
+Tie my hands behind my back and, oo, I'm in ecstasy.
 Don't slobber me with kisses, I can get that from my sisters,
 Before I get too cranky, you better...
 
@@ -100,7 +100,7 @@ I don't want you to thank me (Don't thank her), you better...
 
 
 
-(Hanky panky) Oooh, yeah
+(Hanky panky) Oh, yeah
 (Good spanky) Get the picture?
 (Don't wanna cry, I just wanna)
 

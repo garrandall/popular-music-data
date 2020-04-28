@@ -96,9 +96,9 @@ Dit-it-it!
 Dit-it-it!
 Dit-it-it!
 
-Oooooooh, ooooooh, oooooooh
-Oooooooh, ooooooh, oooooooh
-Oooooooh, ooooooh, oooooooh
+Oh, oh, oh
+Oh, oh, oh
+Oh, oh, oh
 
 You've got me where you want me
 You've got me where you want me
@@ -125,9 +125,9 @@ Dit-it-it!
 Dit-it-it!
 Dit-it-it!
 
-Oooooooh, ooooooh, oooooooh
-Oooooooh, ooooooh, oooooooh
-Oooooooh, ooooooh, oooooooh
+Oh, oh, oh
+Oh, oh, oh
+Oh, oh, oh
 
 You've got me where you want me
 You've got me...

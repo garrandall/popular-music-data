@@ -91,8 +91,5 @@ I guess there's nothing left for me to explain
 Here's what you're getting and I don't want to change
 I don't want to change
 
-
-
-
 I don't need to glitter, no Hollywood
 All you got to do is lay it down and you lay it down good

@@ -83,7 +83,7 @@ Our love will always be
 'Cause what we share together
 Can weather any storm
 
-Ooh, I love you, girl
+Oh, I love you, girl
 (I love you, girl)
 We'll get through
 I promise you
@@ -104,7 +104,7 @@ I'll keep on loving you
 You're such a part of me
 I could never let you go
 
-Ooh, I love you, boy
+Oh, I love you, boy
 (I love you, boy)
 We'll get through
 I promise you

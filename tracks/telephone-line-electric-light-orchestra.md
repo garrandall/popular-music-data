@@ -115,7 +115,7 @@ Don't you realize the things we did, we did
 Were all for real, not a dream?
 I just can't believe
 They've all faded out of view
-Yeah, yeah, yeah, yeah, ooh
+Yeah, yeah, yeah, yeah, oh
 
 
 Doo-wop, do-be-do-do-wop

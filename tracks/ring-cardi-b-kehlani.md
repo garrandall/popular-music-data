@@ -91,7 +91,7 @@ rankings:
 ---
 
 
-Ooh, ooh
+Oh, oh
 Ring, ring, ring, ring
 
 You don't hit my line no more, oh, oh

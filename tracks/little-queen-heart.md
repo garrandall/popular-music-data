@@ -59,7 +59,7 @@ Nobody knows your melancholy mind
 Little queen, yeah
 Little queen, yeah
 Little queen, yeah
-Little queen, ooh
+Little queen, oh
 
 You better shine, you better shine, you know
 You better shine, shine shine tonight, oh
@@ -89,5 +89,5 @@ Little queen
 
 Magazine
 Little queen, yeah
-Ooh, oh, no, no, no, little queen
-Oh, ooh, no, no, no, little queen
+Oh oh, no, no, no, little queen
+Oh, oh no, no, no, little queen

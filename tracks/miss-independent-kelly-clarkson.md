@@ -104,7 +104,7 @@ Miss Never-Let-A-Man-Help-Her-Off-Her-Throne
 So, by keeping her heart protected
 She'd never ever feel rejected
 Little Miss Apprehensive
-Said ooh, she fell in love
+Said oh, she fell in love
 
 What is the feelin' takin' over?
 Thinkin' no one could open my door

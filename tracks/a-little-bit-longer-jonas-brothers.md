@@ -14,9 +14,9 @@ rankings:
 ---
 
 Got the news today
-Doctors said i had to stay
+Doctors said I had to stay
 A little bit longer and I'll be fine
-When i thought it'd all be done
+When I thought it'd all be done
 When I thought it'd all been said
 A little bit longer and I'll be fine.
 But you don't know what you got 'til it's gone

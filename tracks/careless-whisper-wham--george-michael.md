@@ -103,9 +103,6 @@ To the heart and mind, ignorance is kind
 There's no comfort in the truth, pain is all that you'll find
 Should have known better, yeah
 
-
-
-
 I feel so unsure
 As I take your hand and lead you to the dance floor
 As the music dies, something in your eyes

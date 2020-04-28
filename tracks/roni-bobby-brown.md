@@ -97,7 +97,7 @@ That is right for you
 Make it official
 Give her your love
 
-My heart, ooh, belongs to a Roni 
+My heart, oh, belongs to a Roni
 (She's my only love)
 She's my only love
 (My only heart, baby)
@@ -108,7 +108,7 @@ She's my only love
 The truth about Roni
 She's always on the phone
 Talkin' to her homeboy
-Wishin' they were home alone, ooh
+Wishin' they were home alone, oh
 
 She send you lovely letters
 With the smell of sweet perfume
@@ -123,7 +123,7 @@ You'll find romance
 And if you find a tender Roni
 That is right for you
 Make it official,
-Give her your love, ooh, yeah
+Give her your love, oh, yeah
 
 My heart belongs to a Roni
 (She's my only love)
@@ -148,7 +148,7 @@ That makes her daddy feel proud
 You know the kinda girl
 That stands out in crowds
 
-Found a tender Roni 
+Found a tender Roni
 And the Roni is so right
 I think I'm gonna love her
 For the rest of my life
@@ -158,7 +158,7 @@ And all that it can do for you
 And if you find a tender Roni
 That is right for you
 Make it official
-Give her your love, ooh, yeah
+Give her your love, oh, yeah
 
 My heart belongs to a Roni
 (She's my only lover)
@@ -183,7 +183,7 @@ That makes her daddy feel proud
 You know the kinda girl
 That stands out in crowds
 
-Found a tender Roni 
+Found a tender Roni
 And the Roni is so right
 I think I'm gonna love her
 For the rest of my life

@@ -75,7 +75,7 @@ I wanna read your mind
 Know your deepest feelings
 I wanna make it right for you
 Baby, show me, let me
-Share the mystery, ohh
+Share the mystery, oh
 
 Come on, come on
 Come on, come on
@@ -113,7 +113,7 @@ Let me lay beside you
 Do what you want me to
 All night
 
-Wanna hold you, ooh, baby
+Wanna hold you, oh baby
 Can I touch you there
 
 Come on, come on

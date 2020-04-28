@@ -60,8 +60,8 @@ I'm gonna win, and I'll bet ya,
 Bet you never lose with love,
 I know I'm gonna win, and I'll bet ya,
 
-Ooooh, (ooooh)
-Aaargh, aaargh
+Oh, (oh
+Aaargh, argh
 
 I'll bet you never lose with love,
 I'm gonna win, and I'll bet ya,

@@ -25,7 +25,7 @@ Girl, you know you drive me crazy
 Girl, you know you drive me crazy
 (You should be here)
 You should really be here with me, babe
-(Ooh ooh, ooh, girl, I wish you were here)
+(Oh oh oohgirl, I wish you were here)
 I just wanna drive you crazy
 
 
@@ -45,7 +45,7 @@ Let me show you what you're missin' every day
 Once I get you, you ain't never gonna walk away
 (You should be here)
 Well, I got more than just a big stick and some money
-(Ooh girl, I wish you were here)
+(Oh girl, I wish you were here)
 You should be here, you should be here
 
 
@@ -66,7 +66,7 @@ Let me show you what you're missin' every day, yeah
 Once I get you, you ain't never gonna walk away, yeah
 (You should be here)
 See, I got more than just some good dick and some money
-(Ooh, girl, I wish you were here)
+(Oh, girl, I wish you were here)
 You should be here, you should be here
 ('Cause I don't like bein' lonely)
 
@@ -87,7 +87,7 @@ You should be here
 Oh, oh, oh, oh, yeah
 You should be here
 Oh...oh...oh (yeah, yeah, yeah)
-Ooh, girl, i wish you were here
+Oh, girl, I wish you were here
 Oh...oh...oh (yeah, yeah, yeah)
 I wish you were here with me, baby
 Girl, I wish you were here
@@ -99,7 +99,7 @@ You don't know what you are missin' every day
 Well, in my dreams last night I think I had you every way
 (You should be here)
 Well, I got more than just a big stick and some money
-(Ooh, girl, I wish you were here)
+(Oh, girl, I wish you were here)
 You should be here, you should be here, yeah, yeah, yeah
 
 

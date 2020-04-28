@@ -61,9 +61,6 @@ Goodbye to all those different drugs and hard-swallowed pills
 My remedy is older than the tale of Jack and Jill
 My prescription is the kind you love to have refilled
 
-
-
-
 Oh, medicine won't cure you
 Just leave you at the most
 The relief is only temporary

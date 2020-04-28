@@ -33,22 +33,22 @@ rankings:
   start_date: '1990-04-07'
 ---
 (Doo doo doo-doo)
-Ooh I'm wishin', boy I've got my eyes on you
+Oh I'm wishin', boy I've got my eyes on you
 This mystery is thrillin'
 I'm not sure just what to do (doo doo-doo doo-doo-doo)
-Ooh ooh ooh, it's so easy, it is no mirage to me
+Oh oh oh, it's so easy, it is no mirage to me
 Touchin' gently, feel the love in me
 Tell me whatcha gonna do with my lovin'
 I'm crazy 'bout your smile
 Whatcha gonna do with my lovin'
 Please don't make me fantasize
 Whatcha gonna do with my lovin'
-Tell me now, ooh oh-oh
+Tell me now, oh oh-oh
 (Doo doo doo-doo)
 So hard lovin' daydreams, all my pleasures make believe (doo doo-doo doo)
 I'm with you as my daydream
 I never want to leave (doo-doo-doo doo-doo-doo doo)
-Ooh ooh ooh, this feeling shines like a precious jewel
+Oh oh oh, this feeling shines like a precious jewel
 And if you want me (me) all my love is for you
 Tell me whatcha gonna do with my lovin'
 I'm crazy 'bout your smile

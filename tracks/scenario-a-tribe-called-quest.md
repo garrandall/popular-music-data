@@ -129,7 +129,7 @@ Pop blows the weasel and the urge to inflate her
 So, yo, the D, what! The O
 Incorporated I-N-C into a flow
 Funk flipped, flat back, first this, foul, fight, fight, fight
-Laugh, yo, how'd that sound? (Ooh!)
+Laugh, yo, how'd that sound? (Oh!)
 
 
 It's a Leader-Quest mission and we got the goods here (Here!)

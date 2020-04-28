@@ -46,7 +46,7 @@ No strings attatched, your love is so Wi-Fi
 I love it, girl
 The way you bring your light into this room
 Uh, I love it, girl
-The way your legs ?light up? when they're in them shoes, ohhh
+The way your legs ?light up? when they're in them shoes, oh
 I love it, girl
 The way your lips looks after you apply the gloss
 Ah, I love it, girl, girl
@@ -90,7 +90,7 @@ Wait, could this be considered our first date?
 Your body make a baller spend cooked coke cash
 Plus every good girl wanna go bad
 In Playboy mags like Stacey Dash
-Or Kim Kardashian, be a lady aaaaat, it
+Or Kim Kardashian, be a lady aat, it
 You know what's a crazy thing?
 Some girls'll make you wait longer than A.C. Green
 Passion of the Christ, 33-Year Old Virgin

@@ -51,7 +51,7 @@ I close my eyes and pray
 I lose my appetite, knowing kids starve tonight
 Am I a sinner cause some of my dinner
 Is still there on my plate?
-Ooh I got a vision, to make a difference and it's starting today
+OhI got a vision, to make a difference and it's starting today
 
 
 Cause I know there's sunshine behind that rain

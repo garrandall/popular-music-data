@@ -28,7 +28,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-06-01'
 ---
-Verse 1 - Darnell
 Lady, I hope we can be together soon
 Lately, I'm waking up every day at noon
 And maybe, all the meaning is just a minute or two
@@ -38,14 +37,12 @@ Ever overcrowd each other
 But now that we are lovers
 I just want you here with me
 
-Chorus
 I don't wanna be alone tonight
 I don't wanna be alone 'cuz I don't feel like it's right
 I don't wanna be alone, tonight
 I want you to come, come and be with me
 Let's discover ecstasy
 
-Verse 2 - Darnell
 Honey, don't worry you're all I'm thinking of
 Funny, how silly we get when we're in love
 Money can never be worth a minute or two
@@ -55,22 +52,19 @@ Ever overcrowd each other
 But now that we are lovers
 I want you here with me
 
-Chorus
 I don't wanna be alone tonight
 I don't wanna be alone 'cuz I don't feel like it's right
 I don't wanna be alone, tonight
 (Don't wanna be alone, baby)
 I want you to come, come and be with me
-(Ooh, baby)
+(Oh baby)
 Let's discover ecstasy
 
-Bridge - Darnell
 Sometime, when I be working hard all day
 I can't seem to get you out my mind
 And my heart has really nothing left to see
 I think I'm in love
 
-Chorus
 I don't wanna be alone tonight
 I don't wanna be alone 'cuz I don't feel like it's right
 I don't wanna be alone, tonight, oh baby
@@ -85,6 +79,6 @@ Let's discover ecstasy
 I don't wanna be alone tonight
 I don't wanna be alone 'cuz I don't feel like it's right
 I don't want, want to be alone, tonight
-I want you to come, come, ooh
+I want you to come, come, oh
 I don't wanna be alone tonight
 I don't wanna be alone 'cuz I don't feel like it's right

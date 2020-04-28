@@ -48,7 +48,6 @@ Did you think I'd believe it? did you think I would?
 You can turn it right around, where you come from
 'cause you and me are over and done
 
-Chorus
 
 I won't be home tonight
 I'll get along just fine without you

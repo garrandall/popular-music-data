@@ -117,9 +117,6 @@ They just look at your ass and call you a poo butt
 And so I look and I laugh and say que pasa
 Yeah, this is for the Raza
 
-
-
-
 Cruising in the calle, headed for the bolo
 No want to go with me, so I had to go solo
 And when I go out alone I'm packed

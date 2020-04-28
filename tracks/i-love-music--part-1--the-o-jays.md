@@ -77,11 +77,11 @@ rankings:
   start_date: '1976-02-21'
 ---
 Ah, ah, ah, na, na, na, na, na, na, na, na
-Ohhh, oh, oooh, oh, oh, oooh, oh, oh, oh
+Ohhh, oh, ohoh, oh, ohoh, oh, oh
 Get it on, get it on
 Get it on, get it on, get it on
 Get it on, yeah
-Ohhh, oh, oooh, oh, oh, oooh, oh, oh, oh
+Ohhh, oh, ohoh, oh, ohoh, oh, oh
 
 I love music
 Any kind of music
@@ -92,9 +92,9 @@ Makes me laugh, makes me smile all the while
 Whenever I'm with you, girl
 While we dance, make romance
 I'm enchanted by the things that you do
-Oooh, oooh, oooh.  Aw, aw, aw, aw, aw
+Oh, ohohohw, aw, aw, aw, aw
 
-Ohhh, oh, oooh, oh, oh, oooh, oh, oh, oh
+Ohhh, oh, ohoh, oh, ohoh, oh, oh
 
 I love music
 Sweet, sweet music
@@ -110,7 +110,7 @@ Nothing can be better than a sweet love song
 So sweet, so sweet
 So mellow, mellow
 When you got the girl that you love in your arms
-Oooh, honey I love you, I love you, yeah
+Oh, honey I love you, I love you, yeah
 Music is the hearing force of the world
 It's understood by every man, woman, boy and girl
 And that's why, that's why I say (That's why, that's why)
@@ -139,12 +139,12 @@ I love, I love, I love, I love, I love music, music
 I love, I love, I love, I love, I love music
 Funky, funky music
 I love, I love, I love, I love, I love music
-Boogie, boogie.  (Groovy, oooh, oooh, groovy now.) Boogie
+Boogie, boogie.  (Groovy, ohohohoovy now.) Boogie
 I love, I love, I love, I love, I love music
 (We can dance all night long now.)
 Any, any, any kind of music, music
 I love, I love music, music.  I love.  (Sweet, sweet music.)
-Na, na, na, na, na, na.  (Ahhh, ah, ah, ahhh.)
+Na, na, na, na, na, na.  (Ah, ah, ah, ah.)
 No, no, no, yeah, yeah.  (Keep it grooving.)
 I love, I love, I love, I love, I love music
 
@@ -159,9 +159,9 @@ Come on, come on, come on, get it on
 Get it on, get it on, get it on, get it on, get it on, get it on
 Get it on, get it on, get it on, get it on
 Funky, funky music
-Ohhh, oh, oooh, oh, oh, oooh, oh, oh, oh
+Ohhh, oh, ohoh, oh, ohoh, oh, oh
 Groove
-Ohhh, oh, oooh, oh, oh, oooh, oh, oh, oh
+Ohhh, oh, ohoh, oh, ohoh, oh, oh
 
 I said I love, I love, I love, I love, I love mu-mu-music
 Music, music.  (Real good music.)

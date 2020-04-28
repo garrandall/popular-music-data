@@ -81,4 +81,4 @@ On solid ground
 And I can shout about her
 Yeah, ow, owwww, oh, ow
 And she's mine, mine, mine
-Ahh, Lord, have mercy
+Ah, Lord, have mercy

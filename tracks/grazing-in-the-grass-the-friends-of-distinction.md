@@ -90,7 +90,7 @@ Everything here is so clear, you can see it
 And everything here is so real, you can feel it
 And it's real, so real, so real, so real, so real, so real
 Can you dig it
-Whooo-oooh
+Whooo-oh
 I can dig it, he can dig it
 She can dig it, we can dig it
 They can dig it, you can dig it
@@ -110,7 +110,7 @@ Everything here is so clear, you can see it
 And everything here is so real, you can feel it
 And it's real, so real, so real, so real, so real, so real
 Can you dig it
-Whooo-oooh, yeah
+Whooo-ohyeah
 I can dig it, he can dig it
 She can dig it, we can dig it
 They can dig it, you can dig it
@@ -131,4 +131,4 @@ I can dig it, he can dig it
 She can dig it, we can dig it
 They can dig it, you can dig it
 (Grazin' in the grass is a gas, baby, can you dig it)
-Oh, let's dig it....
+Oh, let's dig it...

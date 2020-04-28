@@ -77,7 +77,7 @@ rankings:
   start_date: '1968-09-28'
 ---
 Set me free, why don't you babe
-Get out my life, why don't you babe (Ooooh)
+Get out my life, why don't you babe (Oh)
 You really don't want me
 You just, keep me hangin' on
 You really don't need me
@@ -93,7 +93,7 @@ The way you've gotten over me
 
 
 Set me free, why don't you babe
-Get out my life, why don't you now (Ooooh)
+Get out my life, why don't you now (Oh)
 You really don't want me
 You just, keep me hangin' on
 You really don't need me
@@ -111,17 +111,17 @@ And there ain't nothing I can do about it
 You know I need love
 (Set me free, why don't you babe)
 Talkin' 'bout love
-(Get out my life, why don't you babe) (Ooooh)
+(Get out my life, why don't you babe) (Oh)
 You really don't want me
 You just, keep me hangin' on
 You really don't need me
 You just, keep me hangin' on
 
 
-Get out my life, why don't you babe (Ooooh)
-Get out my life, why don't you babe (Ooooh)
-Get out my life, why don't you babe (Ooooh)
-Get out my life, why don't you babe (Ooooh)
+Get out my life, why don't you babe (Oh)
+Get out my life, why don't you babe (Oh)
+Get out my life, why don't you babe (Oh)
+Get out my life, why don't you babe (Oh)
 
 
 (Hey!)

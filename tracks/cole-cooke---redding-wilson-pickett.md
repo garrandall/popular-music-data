@@ -48,7 +48,7 @@ Last time I saw him, he was sittin' down by the dock of the bay
 I looked around for Otis & he was gone
 I looked around & my friend Otis Redding was gone
 
-Hmmmm hmmmm oh I have to moan about it sometime, hmmmm
+Hm hm oh I have to moan about it sometime, hm
 & that makes me know I've got to leave here one day
 But I don't worry about it, for you know why
 I've got friends, oh yes I have, waitin' on me

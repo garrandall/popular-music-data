@@ -129,7 +129,7 @@ Hahaha
 Check it out
 
 
-Ooh, that dress so scandalous
+Oh, that dress so scandalous
 And you know another nigga couldn't handle it
 See you shaking that thing like who's the ish
 With a look in your eye so devilish
@@ -213,7 +213,7 @@ Cause she was livin' la vida loca
 She had dumps like a truck, truck, truck
 Thighs like what, what, what
 Baby move your butt, butt, butt
-(Ooh)
+(Oh)
 I think I’ll sing it again
 Cuz she had dumps like a truck, truck, truck
 Thighs like what, what, what
@@ -251,7 +251,7 @@ Uh, alright (Da na da na)
 That thong-th-thong thong thong
 Uh whoa yeah (Da na da na, da na da na)
 (Da na da na)
-Ooh (that thong-th-thong thong thong)
+Oh (that thong-th-thong thong thong)
 Whoa
 (Like it when the beat goes da na da na)
 (Baby make your booty go da na da na)

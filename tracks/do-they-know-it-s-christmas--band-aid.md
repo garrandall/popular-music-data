@@ -62,7 +62,7 @@ There's a world outside your window
 And it's a world of dread and fear
 
 
-Where the only water flowing 
+Where the only water flowing
 
 
 Is the bitter sting of tears
@@ -114,23 +114,18 @@ Feed the world
 Feed the world
 
 
-Feed the world 
+Feed the world
 
 
 Feed the world
 
 
-Feed the world 
-Let them know it's Christmastime again - 
+Feed the world
+Let them know it's Christmastime again -
 
 
-Feed the world 
+Feed the world
 
 
-Feed the world - 
-
-
-
-
-
+Feed the world -
 

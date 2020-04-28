@@ -66,7 +66,7 @@ You are always on my mind
 Everything I seem to say
 Ends up in the same old way
 
-(Please) mm-hmm, love me
+(Please) mm-hm, love me
 (Please) darling, love me
 
 What I feel, I can't explain

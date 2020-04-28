@@ -99,4 +99,4 @@ Oh, what have I gotta do to be heard?
 What do I do when lightning strikes me?
 What have I gotta do?
 What have I gotta do?
-Ooh, and sorry seems to be the hardest word
+Oh, and sorry seems to be the hardest word

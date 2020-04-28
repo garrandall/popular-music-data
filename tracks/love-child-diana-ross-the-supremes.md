@@ -74,9 +74,9 @@ rankings:
   start_date: '1969-02-01'
 ---
 Tenement slum
-You think that i don't feel love
-But what i feel for you is real love
-In other's eyes i see reflected
+You think that I don't feel love
+But what I feel for you is real love
+In other's eyes I see reflected
 A hurt, scorned, rejected
 Love child, never meant to be
 Love child, born in poverty
@@ -85,7 +85,7 @@ Love child, take a look at me
 I started my life in an old, cold run down tenement slum
 My father left, he never even married mom
 I shared the guilt my mama knew
-So afraid that others knew i had no name
+So afraid that others knew I had no name
 This love we're contemplating
 Isn't worth the pain of waiting
 We'll only end up hating
@@ -100,8 +100,8 @@ I started school, in a worn, torn dress that somebody threw out
 I knew the way it felt, to always live in doubt
 To be without the simple things
 Sop afraid my friends would see the guilt in me
-Don't think that i don't need you
-Don't think i don't wanna please you
+Don't think that I don't need you
+Don't think I don't wanna please you
 No child of mine 'll be bearing
 The name of shame i've been wearing
 Love child, love child, never quite as good

@@ -57,8 +57,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-02-10'
 ---
-Ooh you're sexing me
-Ooh you're sexing me
+Oh you're sexing me
+Oh you're sexing me
 Baby, baby, baby come on
 
 You take it slow
@@ -80,9 +80,9 @@ It's time
 (Come on closer)
 To feel, feel the heat
 
-Ooh you're sexing me
+Oh you're sexing me
 Everything you do just turns me on
-Ooh you're sexing me
+Oh you're sexing me
 I can feel it coming on
 Oh oh oh, baby
 
@@ -105,9 +105,9 @@ My love
 (It's now or never)
 So feel, feel the beat
 
-Ooh you're sexing me
+Oh you're sexing me
 Oh you know I'm gonna get you
-Ooh you're sexing me
+Oh you're sexing me
 Baby, 'cause I want to let you
 
 The sun
@@ -123,16 +123,16 @@ By now
 (Don't keep me waiting)
 There's no way out, no way out
 
-Ooh you're sexing me
+Oh you're sexing me
 Everything you do just turns me on
-Ooh you're sexing me
+Oh you're sexing me
 Baby, baby, baby come on
 
 Oh oh oh, baby
-Ooh you're sexing me
+Oh you're sexing me
 Everything you do, everything you say
-Ooh you're sexing me
+Oh you're sexing me
 Don't you know it's time to be crazy
-Ooh you're sexing me
+Oh you're sexing me
 Oh you're sexing me, baby
 Baby, you're driving me crazy

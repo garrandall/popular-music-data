@@ -130,7 +130,7 @@ Will you touch mine?
 Will you touch me baby? Right here
 Kiss both your lips and rubin' those thighs
 Taste your wine
-Let me taste you baby, ahh
+Let me taste you baby, ah
 
 I can do it soft or I can do it hard
 I can make you scream if you let down your guard my baby

@@ -68,7 +68,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-07-13'
 ---
-Eee eee!
+Eee ee!
 Watch this y'all
 Comprende señora
 

@@ -56,7 +56,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-05-11'
 ---
-Ooh, ooh
+Oh oh
 Take a look at me
 
 

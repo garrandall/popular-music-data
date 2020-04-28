@@ -17,7 +17,7 @@ rankings:
   start_date: '1971-05-15'
 ---
 A long time ago, it seems
-That I was young and full of dreams, ooh yeah
+That I was young and full of dreams, oh yeah
 The world was mine alone
 I watched my world soon disappear
 As I went on from year to year
@@ -38,11 +38,11 @@ And don't you know it's true?
 
 
 And so I give my love to you and it's yours
-Do what you wanna do, ooh yeah
+Do what you wanna do, oh yeah
 But pretty as it go on
-(Oooooh, come on and love like you wanna)
+(Oh, come on and love like you wanna)
 Come on and put your hand in mind (like you wanna)
-And for the love, the love you'll find here in me, ooh baby
+And for the love, the love you'll find here in me, oh baby
 How happy we will be, oh yeah
 
 

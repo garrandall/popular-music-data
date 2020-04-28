@@ -66,9 +66,6 @@ Someone to close his eyes for you
 Someone to close his heart
 Someone to die for you and more
 
-
-
-
 You say you're looking for someone
 To pick you up each time you fall
 To gather flowers constantly

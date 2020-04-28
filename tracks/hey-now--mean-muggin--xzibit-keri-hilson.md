@@ -35,7 +35,7 @@ They wanted to come up but they ain't crazy (Ohhh)
 I ride one in the chamber, with gun on cock
 '6-tre Chevrolet rollin without no top
 Got them hydraulics that's dumping, making it drop
-California to Virginia, Timmy making it hot (WOOO!!!)
+California to Virginia, Timmy making it hot (WOOO!)
 Taking long rides in the G4 plane
 X Man to the stage, got 'em going insane (Yeah)
 Got the world saying my name

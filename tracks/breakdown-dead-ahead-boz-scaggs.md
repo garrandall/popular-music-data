@@ -69,9 +69,9 @@ I call ya
 You ain't in
 What's this cold reaction
 Where you been?
-Ooh baby
+Oh baby
 Layin' it on the line
-If this is last call 
+If this is last call
 And you say that's all you can take
 It's fine
 
@@ -79,7 +79,7 @@ I'm sorry but
 It don't make sense
 You'd be a fool
 If you just run out on first offense
-Ooh baby play it smart
+Oh baby play it smart
 Before you go south with your big mouth
 Better check your heart
 
@@ -92,7 +92,7 @@ I told ya
 No more lying
 No more tears a falling
 Stop your cryin'
-Ooh baby
+Oh baby
 I'm your man
 Before you go back to your side track
 Baby understand

@@ -97,7 +97,7 @@ She compliment my swag, all you niggas harass
 All them bitches wanna be her friend now, she laugh (hey now)
 Uh, uh, she buy her man a Bentley coupe
 Uh, uh, she got niggas and bitches, too
-Uh, uh, she wear off-white to church, ooh
+Uh, uh, she wear off-white to church, oh
 Uh, only Birkin, not Dooney & Burke, woo
 Birkin bag, fuck a tag, fuck me, and she fuck me bad
 Whispered in her ear, "You got these bitches beat, they runnin' laps"

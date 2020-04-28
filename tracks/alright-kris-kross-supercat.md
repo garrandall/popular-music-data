@@ -113,7 +113,7 @@ Little kids try to be like me with the braids, the shades, some pants
 And some Nikes, G
 And yet more letters, and the letters sayin'
 "I'm your number one fan could you write me back man?"
-Yesssss.....
+Yesssss...
 I try to pass 'em my autograph
 I try to do as many as I can
 Now it feels good when I'm rollin' through my hood

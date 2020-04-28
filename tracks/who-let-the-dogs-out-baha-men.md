@@ -92,9 +92,6 @@ For one zillion dollas
 The question is:
 Who let the dogs out?
 
-
-
-
 Hey!
 Who let the dogs out?!
 Who let the dogs out?!

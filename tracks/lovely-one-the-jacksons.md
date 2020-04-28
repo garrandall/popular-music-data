@@ -81,7 +81,7 @@ rankings:
   start_date: '1981-01-24'
 ---
 By Michael Jackson and Randy Jackson)
-Why don't you believe me when I say that i love you?
+Why don't you believe me when I say that I love you?
 I'm crazy 'bout you
 You wear the face that tells me you think my loving ain't true
 I'm all about you

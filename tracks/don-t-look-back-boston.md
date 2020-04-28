@@ -60,9 +60,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-11-11'
 ---
-Don't look back (ooh, a new day is breakin')
+Don't look back (oh, a new day is breakin')
 It's been too long since I felt this way
-I don't mind (ooh, where I get taken)
+I don't mind (oh, where I get taken)
 The road is callin', today is the day
 
 I can see, it took so long just to realize
@@ -73,9 +73,9 @@ I'll turn it around, oh, yes, I will
 I finally see the dawn arrivin'
 I see beyond the road I'm drivin'
 
-It's a bright horizon (ooh, and I'm awakin' now)
+It's a bright horizon (oh, and I'm awakin' now)
 Oh, I see myself in a brand new way
-The sun is shinin' (ooh, the clouds are breakin')
+The sun is shinin' (oh, the clouds are breakin')
 'Cause I can't lose now, there's no game to play
 
 I can tell there's no more time left to criticize
@@ -85,13 +85,13 @@ But I can be strong, oh, yes, I can
 
 I finally see the dawn arrivin'
 I see beyond the road I'm drivin'
-Ooh, far away and left behind, left behind
+Oh, far away and left behind, left behind
 
 Oh, the sun is shinin' and I'm on that road
 
-Don't look back (ooh, a new day is breakin')
+Don't look back (oh, a new day is breakin')
 Oh, It's been so long since I felt this way
-I don't mind (ooh, where I get taken)
+I don't mind (oh, where I get taken)
 The road is callin', today is the day
 
 I can see, it took so long just to realize

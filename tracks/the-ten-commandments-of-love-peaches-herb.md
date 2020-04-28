@@ -64,4 +64,4 @@ Of love, of love
 Oh, how happy we would be if we
 Keep the ten commandments of love
 
-Love, ooh, ooh, ooh
+Love, oh oohohoh

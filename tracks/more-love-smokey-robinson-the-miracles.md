@@ -53,7 +53,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
 ---
-Oooohh ooh whooh whooh
+Oh oh whooh whooh
 
 Let it be soon, don't hesitate
 Make it now (right now my love) don't wait (don't wait)
@@ -79,9 +79,9 @@ My love will be so solid
 It would take about a hundred lifetimes
 To live it down, wear it down, tear-air it down
 
-Mmmmmmm whoooh whooh whooh whooh whooh
+Mmm whoooh whooh whooh whooh whooh
 
-Mmmm mmmmm
+Mmm mmm
 As we grow older no need to fear
 When you need me (need me my love) I'll be here (I'll be here)
 I'll be beside you every step of the way
@@ -93,7 +93,7 @@ My love will be so solid
 It would take about a hundred lifetimes
 To live it down, wear it down, tear it down
 
-Gonna give you more oooh and more joy
+Gonna give you more ohnd more joy
 Than age or time could ever destroy, oh baby now
 My love will be so solid
-It would take about a hun.....
+It would take about a hun...

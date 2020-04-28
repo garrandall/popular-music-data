@@ -34,7 +34,7 @@ When the lights go out
 (Oh, when the lights go out)
 When the lights go out
 (Oh, when the lights go out)
-(Ooh ooh ooh)
+(Oh oh oh)
 
 Oh Bobbie, give me one night so I can hold you tight
 Wet my apetite, make you feel just right
@@ -51,7 +51,7 @@ When the lights go out
 When the lights go out
 (Oh, when the lights go out)
 When the lights go out
-(Ooh ooh ooh)
+(Oh oh oh)
 
 Right now, he&121
 
@@ -68,13 +68,13 @@ Got nothing more to say till the lights go out
 When the lights go out
 (Oh, when the lights go out)
 When the lights go out
-(Ooh ooh ooh)
+(Oh oh oh)
 
 (Oh, when the lights go out)
 When the lights go out
 (Oh, when the lights go out)
 When the lights go out
-(Ooh ooh ooh)
+(Oh oh oh)
 
 (Oh, when the lights go out) Come here, let me whisper in your ear
 (Oh, when the lights go out) Ven acércate a mi

@@ -56,7 +56,7 @@ There's just no time to die
 
 
 No time to die, mmm
-No time to die, ooh
+No time to die, oh
 
 
 Fool me once, fool me twice

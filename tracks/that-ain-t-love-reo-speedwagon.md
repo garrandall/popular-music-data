@@ -83,7 +83,7 @@ We've got to talk it over sometime
 These feelings won't just disappear
 I'm just gonna keep telling you what's on my mind
 Even if it's not what you wanna hear
-Oooh right now your world and mine are such different places
+Oh right now your world and mine are such different places
 Through yours I wander lost and confused
 And I feel like I'm speaking in a different language
 And the only words I haven't used, are
@@ -100,14 +100,14 @@ You're makin' plans long-range
 But I don't know how you expect to get there
 When you refuse to change
 
-Oooh baby
+Oh baby
 That ain't love, I believe you've got the wrong emotion
 That ain't love, at least it doesn't feel like love to me
 As long as I say what you wanna hear
 Do what you wanna do, be who you want me to be
 You think that's love, well baby that ain't love to me
 
-Ooh baby that ain't love
+Ohbaby that ain't love
 That ain't lo-lo-lo-lo-lo-love
 That ain't love, oh no
 Baby that ain't love, that ain't love

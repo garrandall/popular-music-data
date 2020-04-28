@@ -68,5 +68,5 @@ I'ma inject, respect, collect a fat check
 Heav is in effect - but you ain't heard nuttin yet!
 How could I explain to ya - the Heavmania
 Tryna figure eight or make it simple and plain to ya
-Hmm, I'm the Heavster, a rap register
+Hm, I'm the Heavster, a rap register
 That flows with cash so fast

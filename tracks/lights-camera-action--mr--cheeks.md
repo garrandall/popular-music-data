@@ -132,7 +132,7 @@ rankings:
 
 I'm talkin to these motherfuckers
 Yea, ok
-Yea, ooh, ooh (This one's a vivrant thing)
+Yea, oh oohThis one's a vivrant thing)
 LB, G.I. one fam, oh my (Bounce with me now)
 Big, dawg, hot (I'm talkin, this gone be somethin now)
 Mr. Cheeks, whoo (I'm talkin lights, camera, action)

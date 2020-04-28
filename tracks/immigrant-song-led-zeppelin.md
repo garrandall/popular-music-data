@@ -87,10 +87,10 @@ Our only goal will be the western shore
 So now you'd better stop and rebuild all your ruins
 For peace and trust can win the day despite of all your losing
 
-Ooh. Ooh. Ooh. Ooh. Ooh
-Ooh. Ah
-Ooh. Ooh. Ooh. Ooh. Ooh
-Ooh. Ooh. Ooh. Ooh
+Oh OOhOhOhh.OhOh
+Oh Ah
+Oh OOhOhOhh.OhOh
+Oh OOhOhOhhOh
 
 
 

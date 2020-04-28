@@ -94,7 +94,7 @@ Chief Rocka, Chief Rocka
 
 Boom shaka laka, yo, here comes the Chief Rocka
 Rock it down, so jump up off the tip you're not my nucca
-For sharper type to battle make the people say ooh ahh
+For sharper type to battle make the people say oh ah
 Think I won't curse, I'll break down and say puta
 ?Hey, madrigon, sesa me bichafi mi chocha?
 Say what I want because, I'm that type of guy

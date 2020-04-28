@@ -32,7 +32,7 @@ rankings:
 I will Follow...
 
 I was on the outside when you said
-You said you needed me 
+You said you needed me
 I was looking at myself
 I was blind, I could not see
 
@@ -63,7 +63,7 @@ I see you when I go in there
 Your eyes, your eyes...
 
 If you walkaway, walkaway
-I walkaway, walkaway..I will follow
+I walkaway, walkaway...I will follow
 
 If you walkaway, walkaway
 I walkaway, walkaway...I will follow

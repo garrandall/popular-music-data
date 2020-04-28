@@ -78,10 +78,10 @@ rankings:
   start_date: '1987-09-19'
 ---
 O eh, o eh, o eh, o eh
-O eh, oo aah, o eh, oo aah
+O eh, oo ah, o eh, oo ah
 Yah ya goh
 O eh, o eh, o eh, o eh
-O eh, oo aah, o eh, oo aah
+O eh, oo ah, o eh, oo ah
 O eh, o eh
 Yah ya goh
 
@@ -103,7 +103,7 @@ But no matter what you say
 You know it
 The rhythm is gonna get'cha
 No clue, of what's happening to you
-And before this night is through, ooh baby
+And before this night is through, oh baby
 The rhythm is gonna get'cha
 
 Rhythm is gonna get'cha
@@ -112,9 +112,9 @@ Rhythm is gonna get you
 The rhythm is gonna get you tonight
 
 O eh, o eh, o eh, o eh
-O eh, oo aah, o eh, oo aah
+O eh, oo ah, o eh, oo ah
 O eh, o eh, o eh, o eh
-O eh, oo aah, o eh, oo aah
+O eh, oo ah, o eh, oo ah
 O eh, o eh
 Yah yeh goh
 Yah yeh goh
@@ -135,11 +135,11 @@ Na na na na na na na
 
 (O eh, o eh), the rhythm is gonna get you
 Na na na na na na na
-(O eh, oo aah), the rhythm is gonna get you
+(O eh, oo ah), the rhythm is gonna get you
 Na na na na na na na
 O eh, o eh, o eh, o eh
-O eh, oo aah, o eh, oo aah
+O eh, oo ah, o eh, oo ah
 Na na na na na na na
 O eh, o eh, o eh, o eh
-O eh, oo aah, o eh, oo aah
+O eh, oo ah, o eh, oo ah
 (O eh, o eh), the rhythm is gonna get you tonight

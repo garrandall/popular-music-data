@@ -115,9 +115,6 @@ She'll be running the streets
 With girls hanging out tonight
 It's the same thing you do to her
 
-
-
-
 If the table were turned around
 Would you leave? Would you stay?
 Would you drown?

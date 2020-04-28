@@ -94,7 +94,7 @@ rankings:
 
 
 Yeah, hahaha
-Yeah, ooh
+Yeah, oh
 Yah
 
 
@@ -146,12 +146,12 @@ All the bitches like it
 
 Okay, so I got the ambiance just where I want it (yeah)
 And if you get paid, it's solely based on your performance (tru)
-My ego is enormous like my crib in California (hmm)
+My ego is enormous like my crib in California (hm)
 If you ain't got no heart, man you gonna need a donor
 Now I said I'm from the corner of the ATL (yah)
 Where we got that clientele, avoid paper trails (right)
 Broke so many bales down that I'm shell shocked (bow)
-A hell Glock, sold rocks by the mailbox (ooh)
+A hell Glock, sold rocks by the mailbox (oh)
 Still got a vibe, make a young chick turn her neck (alright)
 Got a vibe, make a cougar wanna spend a check (check)
 Got a vibe, make an Asian want hibachi (hibachi)

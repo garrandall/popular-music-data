@@ -102,7 +102,7 @@ But now since I see you in his arms (I want you back)
 
 
 Yes, I do now (I want you back)
-Ooh, ooh, baby (I want you back)
+Oh, oh baby (I want you back)
 Yeah, yeah, yeah, yeah (I want you back)
 Na, na, na, na
 

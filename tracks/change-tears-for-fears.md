@@ -88,9 +88,6 @@ What has happened to
 The friend that I once knew?
 Has he gone away?
 
-
-
-
 When it's all too late
 It's all too late
 Change

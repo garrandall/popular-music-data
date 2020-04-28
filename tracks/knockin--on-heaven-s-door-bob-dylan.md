@@ -72,8 +72,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-15'
 ---
-Ooh, ooh
-Ooh, ooh
+Oh, oh
+Oh, oh
 
 
 Mama, take this badge off of me
@@ -100,5 +100,5 @@ Knock, knock, knockin' on heaven’s door
 Knock, knock, knockin' on heaven's door
 
 
-Ooh, ooh
-Ooh, ooh
+Oh, oh
+Oh, oh

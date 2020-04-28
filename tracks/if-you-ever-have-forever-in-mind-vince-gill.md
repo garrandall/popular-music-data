@@ -77,7 +77,3 @@ I know that feeling, I can't take that chance
 You live for the moment no future no past
 I may be a fool to love by the rules, I want it to last
 
-
-
-
-

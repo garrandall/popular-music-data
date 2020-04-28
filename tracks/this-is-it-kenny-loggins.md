@@ -151,7 +151,7 @@ Until it's over and done
 
 
 (No one can tell you what you know)
-Whoa-oh-ho, whoa-aaah
+Whoa-oh-ho, whoa-ah
 (Who makes the choice of how it goes)
 It's not up to me this time
 (You know)

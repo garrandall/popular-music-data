@@ -107,9 +107,6 @@ Looking for the answer
 Are we human
 Or are we dancer?
 
-
-
-
 Pay my respects to grace and virtue
 Send my condolences to good
 Give my regards to soul and romance

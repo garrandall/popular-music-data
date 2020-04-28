@@ -62,7 +62,7 @@ Stronger, I was weak but I\'m growing much stronger
 If you give me a little more time
 The more I find myself the more I found
 
-Oooh, ooh, oh, words are impossible
+Oh, oh oh, words are impossible
 When something\'s died
 It\'s not the fame
 Give me more (or \"that mean more\")

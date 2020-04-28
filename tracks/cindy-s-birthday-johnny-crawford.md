@@ -60,11 +60,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-08-04'
 ---
-Cindy's Birthday
-Johnny Crawford
-Written by Jeff Hooven and Hal Winn
-(played Mark McCain on TV's "Rifleman")
-Top spot charted # 8 in 1962
 No time for the movie show, TV, or the radio
 Gotta write a symphony, end it with some poetry
 Tie them with a ribbon made of gold and give them to Cindy
@@ -78,4 +73,3 @@ Gotta write a melody, write it from the heart of me
 Tie it with a ribbon made of gold and give it to Cindy
 Today is Cindy's birthday
 Yes, Cindy's happy birthday
-FADE

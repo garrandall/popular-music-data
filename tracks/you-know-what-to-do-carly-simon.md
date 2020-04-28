@@ -58,10 +58,8 @@ We make love like a house on fire
 We make love like dogs gone mad
 Somethings I'll just never understand
 
-Chorus
 
 Pounding out my heart
 Trembling of my hands
 Somethings I'lll just never understand
 
-Chorus

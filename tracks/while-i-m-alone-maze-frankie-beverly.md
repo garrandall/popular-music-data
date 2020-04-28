@@ -53,16 +53,16 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-08-06'
 ---
-Doo Doo Doo Doo..Doo
-Doo Doo Doo Doo..Doo Doo..Doo Doo..Doo
-Doo Doo Doo Doo..Doo
-Doo Doo Doo Doo..Doo Doo..Doo Doo..Doo
-Doo Doo Doo Doo..Doo
-Doo Doo Doo Doo..Doo Baby, Don't You, Want Me, Love You
+Doo Doo Doo Doo...Doo
+Doo Doo Doo Doo...Doo Doo...Doo Doo...Doo
+Doo Doo Doo Doo...Doo
+Doo Doo Doo Doo...Doo Doo...Doo Doo...Doo
+Doo Doo Doo Doo...Doo
+Doo Doo Doo Doo...Doo Baby, Don't You, Want Me, Love You
 Baby Baby Baby Baby Babe
 
 Lahhhhh
-Lah Dah Dah Dah Dah..Dah
+Lah Dah Dah Dah Dah...Dah
 Lah Dah Dah Dah Dah
 
 I Guess The Weekend's Over Now, And You'll Have To Make Your
@@ -105,11 +105,11 @@ I Can't Stand It
 Bein' Alone
 Aw Baby
 Aw Baby Babe Baby
-Hey-E-Ay-E-Ay-E-Ay-E-Ay-E-Ay-E-Hey..Lah..Lah
+Hey-E-Ay-E-Ay-E-Ay-E-Ay-E-Ay-E-Hey...Lah...Lah
 Doo Doo Doo
 Doo Doo
 Alright Now, Baby
-Ooh, I Miss You, Baby
+Oh I Miss You, Baby
 All The Time, You Know I Don't Like Bein' All Alone, Baby
-Oohhhhh
+Oh
 Baby Baby...

@@ -31,9 +31,9 @@ Log on to hide ad.
 
 Two dances goin' around the nation
 With the same beat
-That's the combination of-a
-A-good timin' and a finger pumpin'
-A-arm bendin' and a-hips rockin'
+That's the combination of a
+Good timin' and a finger pumpin'
+Arm bendin' and hips rockin'
 
 Besides, doesn't matter
 Just get your steps together now
@@ -43,7 +43,7 @@ Jerk and Twine
 The Jerk is jumpin'
 For miles around
 The Twine is the thing in Chicago town
-With a- a good timin'
+With a good timin'
 And a finger-pumpin'
 And a arm-bendin'
 And a hips rockin'

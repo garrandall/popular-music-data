@@ -36,7 +36,7 @@ Give those here, you can't handle those (It's lit)
 Enemies, M.I.A. (Yeah, yeah)
 At Ace of Diamonds with Ace of Spades (Yah, yah)
 We at Club White, ain't no Mandalay (Yah, yah)
-You can't get in, nah (ooh)
+You can't get in, nah (oh)
 
 
 Dubai shit, Dubai whips

@@ -85,8 +85,8 @@ rankings:
   start_date: '2008-05-31'
 ---
 
-Oh ohh ohhh
-Oh ohh ohhh
+Oh oh oh
+Oh oh oh
 Started out talking right here
 Puttin it down like a motherfuckin mack
 Sellin me candy all up in my ear
@@ -102,16 +102,16 @@ Talkin all that shit
 Soon as I hit
 Now I got her talkin like this
 In a falsetto
-She like ohh ohh baby ah ah ah ohhh
+She like oh oh baby ah ah ah oh
 In a falsetto
-She like ohh ohh baby ah ah ah ah
+She like oh oh baby ah ah ah ah
 
 In a falsetto
-She like ohh ohh baby ah ah ah ohhh
+She like oh oh baby ah ah ah oh
 In a falsetto
-She like ohh ohh baby ah ah ah ah
+She like oh oh baby ah ah ah ah
 
-Shes tellin all her homies im the real.....deal
+Shes tellin all her homies im the real...deal
 Everytime she leave the crib shawty be comin right back
 She talkin dirty all up in my ear
 And im fina put this dog right on the kitty cat
@@ -124,15 +124,15 @@ Imma put ur ass to be tell me which way would u like it
 Talkin all that shit
 As soon as I hit
 Now I got her talkin like this
-Oh oh oh oh ohh
+Oh oh oh oh oh
 In a falsetto
-She like ohh ohh baby ah ah ah ohhh
+She like oh oh baby ah ah ah oh
 In a falsetto
-She like ohh ohh baby ah ah ah ah
+She like oh oh baby ah ah ah ah
 In a falsetto
-She like ohh ohh baby ah ah ah ohhh
+She like oh oh baby ah ah ah oh
 In a falsetto
-She like ohh ohh baby ah ah ah ah
+She like oh oh baby ah ah ah ah
 
 In a falsetto
 
@@ -140,12 +140,12 @@ Now play tht shit
 Oh!
 
 Oh! oh! oh! oh!
-Oh! oh! oha! oha! oooahhhhhhhh! aahhhhhhh!
+Oh! oh! oha! oha! oooahhhhhhhh! ah!
 
 In a falsetto
-She like ohh ohh baby ah ah ah ohhh
+She like oh oh baby ah ah ah oh
 In a falsetto
-She like ohh ohh baby ah ah ah ah
+She like oh oh baby ah ah ah ah
 In a falsetto
 
 She said it feels like her very first time
@@ -167,7 +167,7 @@ Grind it grind it
 
 Now say
 
-Oh! oh! ohhh! ohhaa! ahhhh!
+Oh! oh! oh! ohhaa! ah!
 
 Its all over now u can come back down
 We can talk in this key right here

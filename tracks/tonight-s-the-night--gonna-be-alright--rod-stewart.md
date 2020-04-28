@@ -109,7 +109,7 @@ Relax baby and draw that blind
 Kick off your shoes and sit right down
 Loosen off that pretty French gown
 Let me pour you a good long drink
-Ooh baby don't you hesitate cause
+Oh baby don't you hesitate cause
 
 Tonights the night
 It's gonna be alright

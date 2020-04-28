@@ -146,7 +146,7 @@ And these missed calls
 And you texting me like, "I'mma kill y'all
 If you don't get your ass up out of that club
 And do you know what time it is?"
-(It's 5 o'clock in the morning) Ooh, and my bad, girl
+(It's 5 o'clock in the morning) Oh, and my bad, girl
 And this Nuvo got me trippin and I know that you mad, girl
 But you ain't got to worry about nothing (worry 'bout nothing)
 Girl I got you, girl I got you

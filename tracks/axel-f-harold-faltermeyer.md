@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: axel-f-harold-faltermeyer
+lyrics_url: https://genius.com/Harold-faltermeyer-axel-f-lyrics
 name: Axel F
 rankings:
 - end_date: '1985-04-05'
@@ -83,4 +84,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-08-03'
 ---
-
+(instrumental)

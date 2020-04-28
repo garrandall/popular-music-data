@@ -104,7 +104,7 @@ Yeah (Yeaaaahhhh!)
 Theres a lotta fuck niggas in the club tonight,
 (fuck em, fuck em, fuck em)
 but its gonna be aight, (yeah, yeah, yeah, yeah)
-cuz me and my clique we dont give a fuck nigga.
+cuz me and my clique we don't give a fuck nigga.
 Trick Daddy, Jim Johnson, Big D, Lil Jon
 
 
@@ -117,11 +117,11 @@ I'm bout to fuck a nigga up, Lets Gooooo! (Lets Gooooo!)
 
 If you want some, come get some,
 cuz where I'm from we tote big guns,
-And everybody know somebody that 
+And everybody know somebody that
 know somebody that know somethin bout it,
-And I want answers now who, what, where, 
+And I want answers now who, what, where,
 when and why,
-see, a lotta dudes like to act a fool 
+see, a lotta dudes like to act a fool
 and all get all loud but that aint my style,
 and he who he gonna get and what he gonna do,
 run up on me if he want to,
@@ -135,33 +135,30 @@ That's for him, his crew and the dudes that run wit em.
 
 
 
-gotta spit for the murderas and the 
+gotta spit for the murderas and the
 killas and the thugstas,
-that be fuckin up the ballas and 
+that be fuckin up the ballas and
 the dealas and the hustlas,
-got me comin at you bokas in the 
+got me comin at you bokas in the
 V.I. while they bumpin lil jon I'm a brush ya,
-Its the psycho nigga twista from 
+Its the psycho nigga twista from
 Chicago rollin with the Miami nigga that'll crush ya,
-We already been lookin for drama 
+We already been lookin for drama
 if a nigga try to get it to then we still gotta get em,
-Feelin fury from my tough shit that cant never be true
-And the penicillin 
+Feelin fury from my tough shit that can't never be true
+And the penicillin
 I'm telling you Trick of in and still em
-Got me swingin crysie and hennessy bottles, 
+Got me swingin crysie and hennessy bottles,
 in the club with my thug homies goin for the skrilla,
-Don't get it twisted with that 
-overnight celebrity you better be scared 
+Don't get it twisted with that
+overnight celebrity you better be scared
 of me in my city I'm a killa.
-
-
-
 
 I ain't that rappin type arright,
 and I that actin type arright,
 this sulphane in my script,
 I'm a play on you and you just a square,
-see, once that hennessy into 
+see, once that hennessy into
 me the whole industry is my enemy,
 If you aint no ten to me or friend to me,
 bitch don't pretend to be,
@@ -173,9 +170,6 @@ I'm straight out the county of Dade,
 played on fire nigga M-I-A,
 never gone south of the border,
 americas most wanted you gonna get slaughtered.
-
-
-
 
 The AK go chop, chop, chop, chop
 The SK go fire, fire, fire, fire

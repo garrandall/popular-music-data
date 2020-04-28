@@ -73,14 +73,14 @@ who is an inmate in a California State prison
 To deny charges, hang up now
 To accept charges, press five now
 
-Mmmmm..... welllll
-One love (one love) 
-ohhhhh (one love) The L, the L, the L, the L
-One love (one love) 
+Mmm... welllll
+One love (one love)
+oh (one love) The L, the L, the L, the L
+One love (one love)
 welll (there's only one love) The O, the O, the O, the O
-One love (one love) 
-ohhhhh (one love) and the V, the V, the V, the V
-One love (one love) 
+One love (one love)
+oh (one love) and the V, the V, the V, the V
+One love (one love)
 welll (there's only one love) it's the E, the E, the E, the E
 
 
@@ -107,11 +107,11 @@ I miss you steal some liquor main, who got some tissue
 
 
 One love (one love) One love
-ohhhh (one love)
+oh (one love)
 One love (one love) well well One love
 well wellll (there's only one love)
 One love (one love) One love
-ohhhh (one love)
+oh (one love)
 One love (one love) well well One love
 well wellll (there's only one love)
 
@@ -153,8 +153,4 @@ Tripped me out ain't seen or heard from Poppa Duke in years
 Sent me a picture and some fetti dang they sheadin tears
 See first you born then you live then you die
 One day soon I'll get another try, one love
-
-
-
-
 

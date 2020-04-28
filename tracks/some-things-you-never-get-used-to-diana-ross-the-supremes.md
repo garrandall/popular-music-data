@@ -37,11 +37,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-07-20'
 ---
-Some things you never get used to
-Diana ross and the supremes
-Written and produced by nickolas ashford/valerie simpson)
-Charted for 7 weeks in 1968
-Highest position reached: #30
 Some things you never get used to!
 It's the same routine of getting up every morning
 And putting on a smile
@@ -49,7 +44,7 @@ But underneath there's another person
 Who can't find a reason to make living worthwhile.
 Oh, another day to get through
 Without the love that once was mine
-Sometimes i think my heartaches come to an end
+Sometimes I think my heartaches come to an end
 And then something brings them all back again
 Like wanting you
 And not having you
@@ -57,27 +52,26 @@ I'll never get used to!
 I've gotten used to not listenin' for familiar sounds
 You use to make
 Now i'm trying to get out of the habit
-Of calling your name first thing when i awake.
-Look a-here!
+Of calling your name first thing when I awake.
+Look here!
 It's like a child's first steps
 I had to learn to walk all, all over again
 Cause you were always there
-If i should fall
-And now there's nobody else that i can call
+If I should fall
+And now there's nobody else that I can call
 It's like wanting you
 And not having you
 I'll never get used to!
-(Music interlude)
-Bridge:
+
 Lost in a crowd
-I think i caught a glimpse of you...
-Blindly i rushed
+I think I caught a glimpse of you...
+Blindly I rushed
 To touch your head, huh!
 To discover...
 It's my mind playing tricks on me again!
 (Tricks on me again)
 Some things you never get used to!
-Sometimes i think my heartaches come to an end
+Sometimes I think my heartaches come to an end
 And then something brings them all back again
 Like wanting you
 And not having you
@@ -86,9 +80,7 @@ Baby, baby it's
 Wanting you
 And not having you
 I'll never get used to!
-Look a-here! oh!
+Look here! oh!
 I'm wanting you
 And not having you
 I'll never get used to!
-
-From: "tg"

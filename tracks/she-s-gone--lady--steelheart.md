@@ -78,9 +78,6 @@ Lady, can you forgive me?
 For all I've done to you
 Lady, oh lady, oh lady
 
-
-
-
 Oh, lady, won't you save me?
 My heart belongs to you
 Lady, can you forgive me?

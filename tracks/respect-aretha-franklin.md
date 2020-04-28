@@ -89,7 +89,7 @@ Is to give me my propers when you get home
 (Just a little bit)
 
 
-Ooh, your kisses, sweeter than honey
+Oh your kisses, sweeter than honey
 And guess what? So is my money
 
 

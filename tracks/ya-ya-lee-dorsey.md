@@ -62,42 +62,42 @@ rankings:
 ---
 Oh, well, I'm... (UHH!)
 Sittin' here in La-La
-Waitin' for my Ya Ya (ohh, ohh)
+Waitin' for my Ya Ya (oh, oh)
 Sittin' here in La-La
-Waitin' for my Ya Ya (ohh, ohh)
+Waitin' for my Ya Ya (oh, oh)
 It may sound funny
-But I don't believe she's comin' (ohh, ohh)
+But I don't believe she's comin' (oh, oh)
 
 Baby hurry
-Don't make me worry (ohh, ohh)
+Don't make me worry (oh, oh)
 Yeah baby, hurry
-Don't make me worry (ohh, ohh)
+Don't make me worry (oh, oh)
 You know that I love you
-Oh, how I love you (ohh, ohh)
+Oh, how I love you (oh, oh)
 
 Sittin' here in La-La
-Waitin' for my Ya Ya (ohh, ohh)
+Waitin' for my Ya Ya (oh, oh)
 Sittin' here in La-La
-Waitin' for my Ya Ya (ohh, ohh)
+Waitin' for my Ya Ya (oh, oh)
 It may sound funny
-But I don't believe she's comin' (ohh, ohh)
+But I don't believe she's comin' (oh, oh)
 
 Baby hurry
-Don't make me worry (ohh, ohh)
+Don't make me worry (oh, oh)
 Yeah baby, hurry
-Don't make me worry (ohh, ohh)
+Don't make me worry (oh, oh)
 You know how I love you
-Oh, how I love you (ohh, ohh)
+Oh, how I love you (oh, oh)
 
 Sittin' here in La-La
-Waitin' for my Ya Ya (ohh, ohh)
+Waitin' for my Ya Ya (oh, oh)
 Sittin' here in La-La
-Waitin' for my Ya Ya (ohh, ohh)
+Waitin' for my Ya Ya (oh, oh)
 It may sound funny
-But I don't believe she's comin' (ohh, ohh)
+But I don't believe she's comin' (oh, oh)
 
 Baby hurry
-Don't make me worry (ohh, ohh)
+Don't make me worry (oh, oh)
 Yeah baby, hurry
-Don't make me worry (ohh, ohh)
+Don't make me worry (oh, oh)
 You know how I love you...

@@ -93,7 +93,7 @@ Is it so hard to satisfy your senses
 You found out to love me you have to climb some fences
 Scratching and crawling along the floor to touch you
 And just when it feels right you say you found someone else to hold you
-Does she like i do
+Does she like I do
 
 Tell me does she love you like the way I love you
 Does she stimulate you attract and captivate you

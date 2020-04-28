@@ -107,5 +107,5 @@ I can't, I can't, I can't break away
 No, no, no., no, no
 I can't breakaway
 (omina, doke doe, ominea)
-Woo ooo ooo oh oh
+Woo oo oo oh oh
 I can't break away (I can't break away)

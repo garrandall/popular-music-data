@@ -78,9 +78,6 @@ My feet
 To hear you talk that way
 I just love to hear you say
 
-
-
-
 I hear the echoes in my mind
 They're calling to me all the time
 I hear those voices start to sing

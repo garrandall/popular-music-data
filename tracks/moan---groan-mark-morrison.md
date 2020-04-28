@@ -37,7 +37,7 @@ rankings:
   start_date: '1998-05-30'
 ---
 
-Ahhh
+Ah
 This ain't no love song girl
 Wow wow wow
 This is for the G's, the bedroom G's
@@ -51,7 +51,7 @@ It's right here
 All you have to do is ask
 Have no fear
 I will show, show you, show you, (Whoa)
-What I can do (ooh ooh)
+What I can do (ohooh
 And if you still don't believe
 That's cool,
 You fool,
@@ -83,7 +83,7 @@ Let's just go my place
 You'd better lick me up and lick me down
 I will lick you
 Then you gotta rub me up with some foreplay
-Rub it on, rub it on (ooh)
+Rub it on, rub it on (oh
 Make it, break it, shake it, all night, all night, all night
 Show me you can love a woman to the morning light, morning light,
 It's her night

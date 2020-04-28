@@ -79,10 +79,6 @@ Listen here, girl, can't you see I love you
 Make a little effort, try to be true
 I'll be happy, not so blue
 
-
-
-
-
 Verse 3:
 If you keep on tellin' me those lies
 Still goin' out with other guys

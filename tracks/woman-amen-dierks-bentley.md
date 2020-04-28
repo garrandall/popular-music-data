@@ -56,9 +56,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
 ---
-Oh oh oh oh ohhhhhh oh
-Oh oh oh oh ohhhh
-Oh oh oh oh ohhhhhh oh
+Oh oh oh oh oh oh
+Oh oh oh oh oh
+Oh oh oh oh oh oh
 Oh oh oh oh oh
 
 
@@ -74,8 +74,8 @@ I'll never say near enough
 Thank God for this woman, amen
 
 
-Oh oh oh oh ohhhhhh oh
-Oh oh oh oh ohhhh
+Oh oh oh oh oh oh
+Oh oh oh oh oh
 
 
 This world has a way of shaking your faith
@@ -90,18 +90,18 @@ I'll never say near enough
 Thank God for this woman, amen
 
 
-She gives me faith (Oh oh oh oh ohhhh)
-She gives me grace (Oh oh oh oh ohhhh)
-She gives me hope (Oh oh oh oh ohhhh)
-She gives me strength (Oh oh oh oh ohhhh)
-She gives me love (Oh oh oh oh ohhhh)
-Love without end (Oh oh oh oh ohhhh)
-Thank God for this woman, amen (Oh oh oh oh ohhhh)
+She gives me faith (Oh oh oh oh oh)
+She gives me grace (Oh oh oh oh oh)
+She gives me hope (Oh oh oh oh oh)
+She gives me strength (Oh oh oh oh oh)
+She gives me love (Oh oh oh oh oh)
+Love without end (Oh oh oh oh oh)
+Thank God for this woman, amen (Oh oh oh oh oh)
 
 
-Oh oh oh oh ohhhhhh oh
-Oh oh oh oh ohhhh
-Oh oh oh oh ohhhhhh oh
+Oh oh oh oh oh oh
+Oh oh oh oh oh
+Oh oh oh oh oh oh
 Oh oh oh oh oh
 
 
@@ -118,10 +118,10 @@ Thank God for this woman, amen
 And thank God for this woman, amen
 
 
-She gives me faith (Oh oh oh oh ohhhh)
-She gives me grace (Oh oh oh oh ohhhh)
-She gives me hope (Oh oh oh oh ohhhh)
-She gives me strength (Oh oh oh oh ohhhh)
-She gives me love (Oh oh oh oh ohhhh)
-Love without end (Oh oh oh oh ohhhh)
-Thank God for this woman, amen (Oh oh oh oh ohhhh)
+She gives me faith (Oh oh oh oh oh)
+She gives me grace (Oh oh oh oh oh)
+She gives me hope (Oh oh oh oh oh)
+She gives me strength (Oh oh oh oh oh)
+She gives me love (Oh oh oh oh oh)
+Love without end (Oh oh oh oh oh)
+Thank God for this woman, amen (Oh oh oh oh oh)

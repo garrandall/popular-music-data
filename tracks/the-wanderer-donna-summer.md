@@ -125,7 +125,7 @@ Now they won't see me anymore
 That nine to five life
 It's a bore
 'Cause I'm a wanderer
-Yeaaaah, just a wanderer
+Yeah, just a wanderer
 
 And so it's up and out
 And on and off the road

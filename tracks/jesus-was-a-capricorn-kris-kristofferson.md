@@ -38,7 +38,7 @@ Someone doin' somethin' dirty decent folks can frown on
 If you can't find nobody else, then help yourself to me
 
 Eggheads fussin' rednecks cussin'
-Hippies for their hair 
+Hippies for their hair
 Others laugh at straights who laugh at
 Freaks who laugh at squares
 
@@ -46,8 +46,4 @@ Some folks hate the Whites
 Who hate the Blacks who hate the Klan
 Most of us hate anything that
 We don't understand
-
-
-
-
 

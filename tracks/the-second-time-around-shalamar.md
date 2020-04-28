@@ -113,7 +113,7 @@ With me true love can still be found
 Love can still be found
 
 The second time around
-Ooh, the second time is so much better, baby
+Oh, the second time is so much better, baby
 The second time around
 And I'll make it better than the first time
 
@@ -158,7 +158,7 @@ The second time around
 Oh...
 The second time around
 
-Ooh... ooh... ooh...
+Oh... oh.. oh.
 I'll make it so good to you, babe
 I make it so good to you
 

@@ -60,7 +60,7 @@ I only meant to love you
 Didn't you know it babe
 Didn't you know it
 Why couldn't you be content
-With the love i gave oh yeah
+With the love I gave oh yeah
 I gave you my heart
 But you wanted my mind, oh yeah
 Your love scared me to death, girl
@@ -96,7 +96,7 @@ Oh, don't make it the chokin' kind
 
 
 Oh no, don't break your heart baby
-Oh no, I know you love me really i do, honey
+Oh no, I know you love me really I do, honey
 I tell you your love scares me to death girl
 It's the chokin' kind
 That's all it is

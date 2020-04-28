@@ -82,9 +82,9 @@ rankings:
   start_date: '1984-06-23'
 ---
 
-Tonight, ooh
+Tonight, oh
 This is the night you'll see the light
-Tonight, ooh
+Tonight, oh
 This is the night you'll see the light
 
 My 16th birthday I was so shy
@@ -97,10 +97,10 @@ There she was moving closer to me
 She told me her name before I could speak
 Took my hand and then she said these words to me
 
-Tonight, ooh
+Tonight, oh
 This is the night you'll see the light
 (That's what she said me)
-Tonight, ooh
+Tonight, oh
 This is the night you'll see the light
 
 Hey, beautiful girl so lovely tonight
@@ -113,10 +113,10 @@ A feeling of love had come over me
 I held her close and knew it was right
 What a perfect surprise I had finally seen the light
 
-Tonight, ooh
+Tonight, oh
 This is the night you'll see the light
 (That's what she said me)
-Tonight, ooh
+Tonight, oh
 (This is the night)
 This is the night you'll see the light
 
@@ -126,12 +126,12 @@ Tonight, you will finally see the light
 (Oh baby)
 
 Tonight, you will finally see the light
-(You will see, ooh you will see the light)
+(You will see, ohyou will see the light)
 Tonight you will finally see the light
-(Ooh yeah)
+(Oh yeah)
 
 Oh, come on, I want to dance with you
-(Tonight, ooh)
+(Tonight, oh
 (This is the night you'll see the light)
 
 

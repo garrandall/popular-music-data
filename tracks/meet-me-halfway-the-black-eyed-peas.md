@@ -104,8 +104,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-03-13'
 ---
-Ooh, I can't go any further than this
-Ooh, I want you so badly, it's my biggest wish
+Oh I can't go any further than this
+Oh I want you so badly, it's my biggest wish
 
 
 Cool, I spend my time just thinking

@@ -123,7 +123,7 @@ Ain't nothing but a city, woo
 (Believing just enough for the city)
 Everybody clap their hands together now, woo
 (Believing just enough for the city)
-Hmm, for the city yeah
+Hm, for the city yeah
 (Believing just enough for the city)
 For the city, yeah yeah
 (Believing just enough for the city)

@@ -138,7 +138,7 @@ Cause I know it take the right touch
 I ain't stoppin 'til you wet up the covers
 Because I gotta keep on fuckin 'til I see a lot of white stuff
 Now you got me excited, I can't hold it
-I'm feelin it comin, I'm 'bout to let off an explosion (ohh)
+I'm feelin it comin, I'm 'bout to let off an explosion (oh)
 Let it ride when I see you animated and shakin
 Now when I touch your body you catchin convulsions (uh-huh)
 That's when I know I'm doin what I'm supposed to

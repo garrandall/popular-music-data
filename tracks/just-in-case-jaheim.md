@@ -117,7 +117,7 @@ Gave you all you need and more as long as I'm alive
 Even from the heavens up above
 I'll shine out our love
 Too much is never enough
-Ooh you're all I want
+Oh you're all I want
 Even when I'm gone, your love will carry on
 It's just that strong
 So just in case

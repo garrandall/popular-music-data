@@ -143,7 +143,7 @@ Papapapapa
 Papapapapa
 Papapapapa
 
-Ooh, what a treat
+Oh, what a treat
 Feels so sweet (Ah)
 That body heat
 

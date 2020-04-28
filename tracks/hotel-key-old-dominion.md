@@ -140,7 +140,7 @@ She kept the hotel key
 
 Yeah she kept it
 She kept the hotel key
-Ooh
+Oh
 She kept the hotel key
 
 

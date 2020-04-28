@@ -62,7 +62,7 @@ Once two
 
 After I fade into you
 
-(Ooooh)
+(Oh)
 
 Then I’d just fade into you
 Then I'd just fade into you

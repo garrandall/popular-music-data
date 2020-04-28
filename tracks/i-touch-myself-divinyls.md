@@ -88,7 +88,7 @@ I forget myself, I want you to remind me
 
 I don't want anybody else
 When I think about you, I touch myself
-Ooh, I don't want anybody else
+Oh, I don't want anybody else
 Oh no, oh no, oh no
 
 You're the one who makes me come runnin'
@@ -103,7 +103,7 @@ I'd get down on my knees, I'd do anything for you
 
 I don't want anybody else
 When I think about you, I touch myself
-Ooh, I don't want anybody else 
+Oh, I don't want anybody else
 Oh no, oh no, oh no
 
 I love myself, I want you to love me
@@ -113,22 +113,22 @@ I forget myself, I want you to remind me
 
 I don't want anybody else
 When I think about you, I touch myself
-Ooh, I don't want anybody else 
+Oh, I don't want anybody else
 Oh no, oh no, oh no
 
 I want you
 I don't want anybody else
 When I think about you, I touch myself
-Ooh ooh ooh ooh ah ah ah ah oh ah
+Oh oh oh oh ah ah ah ah oh ah
 
 I don't want anybody else
 When I think about you, I touch myself
-Ooh, I don't want anybody else 
+Oh, I don't want anybody else
 When I think about you, I touch myself
 
 I touch myself
 I touch myself
-I touch myself 
+I touch myself
 I touch myself
 I touch myself
 I touch myself

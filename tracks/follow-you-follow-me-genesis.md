@@ -112,9 +112,6 @@ Stay with me just one
 Single tear in each
 Passing year there will be
 
-
-
-
 I will follow you will you
 Follow me All the
 Days and nights that we

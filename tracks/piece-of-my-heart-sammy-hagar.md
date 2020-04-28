@@ -37,32 +37,32 @@ That this man can get tough
 
 Just come on, come on, come on, come on
 And (take a)
-Take another little piece of my heart now baby 
+Take another little piece of my heart now baby
 (Oh, break a)
 Break another little piece of my heart and throw it away
 (Oh, take a)
-Take another little piece of my heart now baby 
-You know you got it 
+Take another little piece of my heart now baby
+You know you got it
 If it makes you feel good, oh yeah
 
 Out there in the streets lookin' good
 And in your heart ya know it ain't right, it just ain't right
 Yeah, and ya never, never, never, never hear me
-When I cry all night 
+When I cry all night
 
-I keep tryin' to tell myself that I 
-Can't stand the pain 
-But then ya hold me in your arms, ooh baby 
+I keep tryin' to tell myself that I
+Can't stand the pain
+But then ya hold me in your arms, oh baby
 And I gotta say it again
 
 Just come on, (come on), yeah come on, (come on)
 (Take a)
-Take another little piece of my heart now baby 
+Take another little piece of my heart now baby
 (Oh, break a)
 Break another little piece off, and just throw it away
 (Oh, take a)
-Take another little piece of my heart now baby 
-(Ooh) You know you got it 
+Take another little piece of my heart now baby
+(Oh) You know you got it
 If it makes you feel good
 
 Oh, just come on, (come on), come on, (come on)
@@ -75,15 +75,15 @@ If it makes you feel good
 
 Just (come on), oh yeah, (come on)
 (Take a)
-Take another little piece of my heart now baby 
+Take another little piece of my heart now baby
 (Oh, break a)
 Break another little piece off and throw it away
 (Oh, take a)
-Yeah, another little piece of my heart now baby 
+Yeah, another little piece of my heart now baby
 (Oh, break a)
 Take it and break it, take it, take it and break it baby
 (Oh, take a)
-Another little piece of my heart now baby 
+Another little piece of my heart now baby
 (Oh, break a)
 Just take a piece and break it off and just throw it away
 (Oh, take a)

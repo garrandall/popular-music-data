@@ -98,7 +98,7 @@ Throwing back whiskey straight, no water
 Girl there ain’t nothing hotter
 
 
-Ooh, I dig the way that you move
+Oh I dig the way that you move
 You shake it down to your roots
 Did your momma teach you how to do that thing you do
 Yeah, nothing sweeter than wild
@@ -117,7 +117,7 @@ And we were dancing all night long
 To a sweet old Alabama song
 
 
-Ooh, I dig the way that you move
+Oh I dig the way that you move
 You shake it down to your roots
 Did your momma teach you how to do that thing you do
 Yeah, nothing sweeter than wild
@@ -129,13 +129,13 @@ You got a country road Carolina soul
 Baby you’re just so homegrown
 
 
-Ooh baby, baby, baby
+Ohbaby, baby, baby
 You’re driving me crazy, crazy, crazy
 I’m a long way away from where I’m from
 But baby you feel like home
 
 
-Ooh, I dig the way that you move
+Oh I dig the way that you move
 You shake it down to your roots
 Did your momma teach you how to do that thing you do
 Yeah, nothing sweeter than wild

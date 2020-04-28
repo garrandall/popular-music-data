@@ -89,7 +89,7 @@ rankings:
   start_date: '1995-01-14'
 ---
 
-Hmm...
+Hm...
 
 What have you done to me
 I can't eat, I cannot sleep

@@ -114,10 +114,10 @@ So when you need some love and tenderness
 And it's me, baby, that you miss
 Here's the key to unlock the door
 To my house, my house
-Woo-ooh (In my house)
-Woo-ooh-ooh-ooh-ooh (In my house)
-Woo-ooh-ooh-ooh-ooh-ooh
-Ooh-ooh-ooh, ooh-ooh-ooh-ooh-ooh
+Woo-oh(In my house)
+Woo-ohoohhoh oh my house)
+Woo-ohoohhoh-ohoh
+Ohohoohohoh-ohoohhohoh
 
 
 Boy, anytime of the day or night
@@ -140,19 +140,19 @@ Here's the key to unlock the door
 To my house, in my house
 
 
-Woo-ooh (In my house)
-Woo-ooh-ooh-ooh-ooh (In my house)
-Woo-ooh-ooh-ooh-ooh-ooh
-Ooh-ooh-ooh, ooh-ooh-ooh-ooh-ooh
-Woo-ooh (In my house)
-Woo-ooh-ooh-ooh-ooh (In my house)
-Woo-ooh-ooh-ooh-ooh-ooh
-Ooh-ooh-ooh, ooh-ooh-ooh-ooh-ooh
-Woo-ooh (In my house)
-Woo-ooh-ooh-ooh-ooh (In my house)
-Woo-ooh-ooh-ooh-ooh-ooh
-Ooh-ooh-ooh, ooh-ooh-ooh-ooh-ooh
-Woo-ooh (In my house)
-Woo-ooh-ooh-ooh-ooh (In my house)
-Woo-ooh-ooh-ooh-ooh-ooh
-Ooh-ooh-ooh, ooh-ooh-ooh-ooh-ooh
+Woo-oh(In my house)
+Woo-ohoohhoh oh my house)
+Woo-ohoohhoh-ohoh
+Ohohoohohoh-ohoohhohoh
+Woo-oh(In my house)
+Woo-ohoohhoh oh my house)
+Woo-ohoohhoh-ohoh
+Ohohoohohoh-ohoohhohoh
+Woo-oh(In my house)
+Woo-ohoohhoh oh my house)
+Woo-ohoohhoh-ohoh
+Ohohoohohoh-ohoohhohoh
+Woo-oh(In my house)
+Woo-ohoohhoh oh my house)
+Woo-ohoohhoh-ohoh
+Ohohoohohoh-ohoohhohoh

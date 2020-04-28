@@ -74,10 +74,10 @@ Must be love
 It must be love, talkin? ?bout love
 Must be love (Ah...ah...ah...ah...ah...)
 It must be love, talkin? ?bout love (Oh, listen now)
-Something?s caught me by surprise 
-And I never opened up before 
-Something?s got me mystified 
-And I never lost my cool before 
+Something?s caught me by surprise
+And I never opened up before
+Something?s got me mystified
+And I never lost my cool before
 Something?s racing my heart beat
 And I never lost like this before (Never, never, never)
 Something?s got a hold of me
@@ -85,14 +85,14 @@ And I never (Ah) touched like this before
 And I know that was never is happening to me
 Must be love (Ah...ah...ah...ah...)
 It must be love, talkin? ?bout love
-Must be love (Ooh, ooh, ooh-wee, baby)
+Must be love (Oh, oh oohee, baby)
 It must be love, talkin? ?bout love
-Ah...whoa...whoa...ah...ooh... ah...eee...
+Ah...whoa...whoa...ah...oh.. ah...ee...
 Must be love (Ah...ah...ah...ah...ah...yeah)
 It must be love, talkin? ?bout love
-Must be love (Ooh...ooh...)
+Must be love (Oh...oh..)
 It must be love, talkin? ?bout love
-Must be love (Ooh, ooh, ooh, baby)
+Must be love (Oh, oh oohbaby)
 It must be love, talkin? ?bout love
 Must be love (Must be, must be)
 It must be love, talkin? ?bout love
@@ -100,11 +100,11 @@ Must be love (Got me upside down)
 It must be love, talkin? ?bout love (Got me goin? in and out)
 Must be love (Talking about love)
 It must be love (Hey, I?m talkin? ?bout love), talkin? ?bout love
-Must be love (Ooh...ooh...ooh...ooh...ooh...)
+Must be love (Oh...oh...oh.ohohoh.oh
 It must be love, talkin? ?bout love (Yeah)
-Must be love (Woo...ooh...ooh...)
+Must be love (Woo...oh...oh.)
 It must be love, talkin? ?bout love (I?m talking ?bout love)
-Must be love (Yeah....yeah...yeah...yeah...)
+Must be love (Yeah...yeah...yeah...yeah...)
 It must be love, talkin? ?bout love
 Must be love
-It must be love, talkin? ?bout love (Ooh...ooh...ooh...ooh...)
+It must be love, talkin? ?bout love (Oh...oh...oh.ohoh)

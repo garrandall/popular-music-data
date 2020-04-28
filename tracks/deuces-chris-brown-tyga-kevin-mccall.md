@@ -128,7 +128,7 @@ You'll regret the day when I find another girl, yeah
 That knows just what I need, she knows just what I mean
 When I tell her keep it drama free
 
-Ohohohohohohohoh... 
+Ohohohohohohohoh...
 I told you that I'm leaving (deuces)
 
 I know you mad but so what?
@@ -140,7 +140,7 @@ I'm on some new shit
 I'm chuckin my deuces up to her
 I'm moving on to something better, better, better
 No more tryin to make it work
-You made me wanna say bye bye, say bye bye, say bye bye to her 
+You made me wanna say bye bye, say bye bye, say bye bye to her
 
 
 Uh, Use to be valentines
@@ -167,7 +167,7 @@ I'm on some new shit
 I'm chuckin my deuces up to her
 I'm moving on to something better, better, better
 No more tryin to make it work
-You made me wanna say bye bye, say bye bye, say bye bye to her 
+You made me wanna say bye bye, say bye bye, say bye bye to her
 
 
 Look, my shawty always on some bullshit like Chicago
@@ -182,17 +182,17 @@ I finally noticed it, it finally hit me
 Like Tina did Ike in the limo, it finally hit me
 I got a new chick, and she ain't you
 She Paula Patton thick, She give me deja-vu
-And all dat attitude i don't care about it
-But all dat shit i do for her you gonna hear about it
+And all dat attitude I don't care about it
+But all dat shit I do for her you gonna hear about it
 Breezy rep two up two down
 But i'm jus putting two up chucking up the deuce now
 
 
-I'm on some new shit 
-I'm chuckin my deuces up to her 
+I'm on some new shit
+I'm chuckin my deuces up to her
 I'm moving on to something better, better, better
 No more tryin to make it work
-You made me wanna say bye bye, say bye bye, say bye bye to her 
+You made me wanna say bye bye, say bye bye, say bye bye to her
 
 
 

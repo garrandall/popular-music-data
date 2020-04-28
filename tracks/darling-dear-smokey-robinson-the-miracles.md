@@ -23,15 +23,15 @@ All the wills and won'ts
 
 So bend an ear
 Sweet darlin’ dear
-Ba ba ba ba ba ba ba ba (ba ba ba ba ba ooh)
+Ba ba ba ba ba ba ba ba (ba ba ba ba ba oh
 
 First, I'll place my arms
 So firmly around you
-(Ooh) and whisper
+(Oh) and whisper
 "Darlin', I'm so glad
 I found you"
 
-(Ooh) and then your lips of wine
+(Oh) and then your lips of wine
 I softly touch with mine
 And a kiss we'll steal
 Sweet darlin' dear

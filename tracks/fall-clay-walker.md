@@ -82,7 +82,7 @@ rankings:
 ---
 Oh look there you go again
 Puttin on that smile again
-Even though i know you've had a bad day
+Even though I know you've had a bad day
 Doin this doin that
 Always puttin yourself last
 A whole lotta give and not enough take
@@ -106,11 +106,9 @@ All thats wrong and all thats right
 Lay your head on my shoulder let it fade away
 And if you wanna let go it's okay
 
-(Chorus)
 
 Hold on
 Hold on
 Hold on
 To me
 
-(Chorus)

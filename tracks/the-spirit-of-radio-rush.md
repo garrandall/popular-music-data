@@ -74,9 +74,6 @@ Bright antennae bristle with the energy
 Emotional feedback on a timeless wavelength
 Bearing a gift beyond price, almost free
 
-
-
-
 For the words of the profits
 Were written on the studio wall
 Concert hall

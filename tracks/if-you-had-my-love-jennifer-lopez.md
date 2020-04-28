@@ -170,15 +170,15 @@ And call me baby (Don't you lie to me)
 If you had my love
 And I gave you all my trust
 Would you comfort me?
-(Comfort me, ooh, tell me, baby)
+(Comfort me, oh, tell me, baby)
 And if somehow you knew
 That your love would be untrue
 Would you lie to me? (Would you lie to me?)
 And call me baby (Don't lie to me baby)
 
 Mmm, yeah
-Ooh, na-na-na
-Ooh
+Oh, na-na-na
+Oh
 
 (If you had my)
 

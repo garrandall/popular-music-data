@@ -103,7 +103,7 @@ Anything you ask of me, oh... oh...
 Oh...
 Mmm, yeah
 Yeah, yeah, yeah, yeah
-Whoa... ho... ooh...
+Whoa... ho... oh..
 Baby, I qualify, I qualify
 In the mornin? I can fix breakfast, baby
 
@@ -174,10 +174,6 @@ Let me be your house keeper, girl
 
 
 In the evenin?
-
-
-
-
 
 Show your what you? re worth
 Let me be your house keeper, girl

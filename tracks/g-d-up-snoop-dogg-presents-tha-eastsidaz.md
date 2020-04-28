@@ -116,7 +116,7 @@ Sit my pistol down on ground on the pound nigga hell no
 
 I must stay gangsta'd up cuz it just lives in me
 And when I seen enuff I guess dats when I'll free sumbody
-Once said from willie c. nigga dont speek on me
+Once said from willie c. nigga don't speek on me
 I won't stop so let me be we are from the streets sumboby
 
 (Snoop Dogg)

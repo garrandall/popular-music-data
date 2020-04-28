@@ -52,13 +52,13 @@ To be young and in love, ah, ah
 To be young and in love, ah, ah
 
 
-Hmm (Ah, ah)
-Hmm (Ah, ah, ah, ah)
-Hmm
+Hm (Ah, ah)
+Hm (Ah, ah, ah, ah)
+Hm
 Don't worry, baby
-Hmm (Ah, ah)
-Hmm (Ah, ah, ah, ah)
-Hmm
+Hm (Ah, ah)
+Hm (Ah, ah, ah, ah)
+Hm
 Don't worry, baby
 
 
@@ -74,11 +74,11 @@ For the future or the things to come
 I'm young and in love, ah, ah, ah, ah
 
 
-Hmm (Ah, ah)
-Hmm (Ah, ah, ah, ah)
-Hmm
+Hm (Ah, ah)
+Hm (Ah, ah, ah, ah)
+Hm
 Don't worry, baby
-Hmm (Ah, ah)
-Hmm (Ah, ah, ah, ah)
-Hmm
+Hm (Ah, ah)
+Hm (Ah, ah, ah, ah)
+Hm
 Don't worry, baby

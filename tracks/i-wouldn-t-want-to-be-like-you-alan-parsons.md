@@ -76,16 +76,10 @@ I wouldn't need a buck to pass
 And if I was a fall guy
 I wouldn't need no alibi...
 
-
-
-
 Back on the bottom line
 Diggin' for a lousy dime
 If I hit a mother lode
 I'd cover anything that showed
-
-
-
 
 I don't care
 What you do

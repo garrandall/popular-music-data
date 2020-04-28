@@ -68,15 +68,15 @@ Loves me rain or shine, my baby's divine
 
 Flowers arrive, who else whould think of that but my guy
 He's all heart and all mine
-Ooh and I don't have to be Miss Perfect One
+Oh and I don't have to be Miss Perfect One
 For him to love what he sees
 And I can feel it in the little things he does
 What I found is every woman's dream
 
 My baby he's a goldmine
-And ooh, what he does just keeps my heart in love, woah
+And oh, what he does just keeps my heart in love, woah
 My baby he's a goldmine
-And ooh, all he does just keeps me here in love
+And oh, all he does just keeps me here in love
 Keeps me right here in love
 
 Five times a day
@@ -86,13 +86,13 @@ He's just that way
 
 Leaves me little notes by my coffee cup
 The sweetest poetry to me
-Ooh and every night he tells me with his touch
+Oh and every night he tells me with his touch
 The way he moves just makes me want to scream
 
 My baby he's a goldmine
-And ooh, what he does just keeps my heart in love
-Oh woa my baby he's a goldmine
-And ooh, all he does just keeps me so in love
+And oh, what he does just keeps my heart in love
+Oh woah my baby he's a goldmine
+And oh, all he does just keeps me so in love
 Keeps me right here in love, right here in love
 
 His eyes were fire when my heart was cold
@@ -106,13 +106,13 @@ Baby's got a goldmine, treats me so kind
 Loves me rain or shine, my baby's divine
 Gotta love that
 
-Ooh I can feel it in the little things he does
+Oh I can feel it in the little things he does
 What I found is every woman's dream
 
 My baby he's a goldmine
-And ooh, what he does just keeps my here in love, oh
+And oh, what he does just keeps my here in love, oh
 My baby he's a goldmine
-And ooh, what he does just keeps me here, keeps me here in love
+And oh, what he does just keeps me here, keeps me here in love
 
 My baby he's a goldmine
 He treats me kind, rain or shine

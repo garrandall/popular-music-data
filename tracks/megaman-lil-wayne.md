@@ -64,6 +64,3 @@ I go so hard, I go so mean, I'm so New Orleans
 Told the judge I couldn't budge, it was him or me
 Forget the bullshit and remember me
 
-
-
-

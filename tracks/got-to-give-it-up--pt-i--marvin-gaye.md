@@ -95,7 +95,7 @@ There's always a chance
 Somebody watches
 Might wanna make romance
 
-Move your body, ooo baby, you dance all night
+Move your body, oo baby, you dance all night
 To the groove and feel alright
 Everybody's groovin' on like a fool
 But if you see me spread out and let me in
@@ -132,7 +132,7 @@ Got to give it up
 Keep on dancin' (You got to get it, oh darling)
 Got to give it up
 
-Ooooh, ooooh, ooooh, ooooh
+Oh, oh, oh, oh
 
 If you want to dance, dance
 So good

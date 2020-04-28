@@ -58,7 +58,7 @@ But there's a change that has come over me
 So before you go, listen to my last plea
 
 
-(all because of you) ooh, you're the love of my life
+(all because of you) oh you're the love of my life
 And I was doing wrong but I wanna do right girl
 (all because of you) staying out all night
 Wanna make it right, wanna change my life girl
@@ -73,7 +73,7 @@ Know it ain't easy baby, but you gotta believe me baby
 All I'm asking for is one more chance, I changed because of you
 
 
-(all because of you) ooh, you're the love of my life
+(all because of you) oh you're the love of my life
 And I was doing wrong but I wanna do right girl
 (all because of you) staying out all night
 Wanna make it right, wanna change my life girl
@@ -105,11 +105,11 @@ When I miss you, when I touch you, I can feel it it in my bone gristle
 I'm still wit you and I'm sorry bout the way I did you
 
 
-(all because of you) ooh, you're the love of my life
-And I was doing (ooh) wrong but I wanna do right girl
-(all because of you) staying out all night (no more staying out at night, ooh)
+(all because of you) oh you're the love of my life
+And I was doing (oh wrong but I wanna do right girl
+(all because of you) staying out all night (no more staying out at night, oh
 Wanna make it right, wanna change my life girl
-(all because of you) I don't wanna play no games (see I don't wanna play no games, no games, yea, ooh)
+(all because of you) I don't wanna play no games (see I don't wanna play no games, no games, yea, oh
 Wanna change your name to my name baby
 (all because of you) not gon' be the man that I used to be (not the man I used to be, nooo, yea yea)
 I changed because of you

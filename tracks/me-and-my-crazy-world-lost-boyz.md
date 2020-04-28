@@ -99,9 +99,6 @@ Couldn't conversate long
 Shorty had to go back to work
 Something inside said that will work
 
-
-
-
 I thought I couldn't live with chicks cause they be too demanding
 Especially the ones that's never understanding, like
 Who was that? Where you goin? Who you out with?
@@ -121,9 +118,6 @@ Yo understand I played the puppet on the string
 Like I say everyday be careful my friend
 Good things always come to an end
 So yo
-
-
-
 
 See the moral of this is that I really do care
 But I'm not afraid to go there

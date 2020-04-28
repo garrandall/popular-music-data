@@ -25,7 +25,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-07-19'
 ---
-Oooh, ooh
+Oh, oh
 Hey, hey, hey
 
 I notice there's a look

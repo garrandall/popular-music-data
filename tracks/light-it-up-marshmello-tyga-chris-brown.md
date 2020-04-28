@@ -38,18 +38,18 @@ If you a real bitch, light it up (Light it up)
 If you a real bitch, go 'n light it up (Light it up, light it up)
 It's your birthday, go 'n light it up (Light it up, ayy)
 I'm drunk and I'm throwin' middle fingers up (Fingers up, fingers)
-Ooh, my niggas gon' light it up (Light it up, light it up)
+Oh, my niggas gon' light it up (Light it up, light it up)
 If you a real nigga, go 'n light it up (Light it up)
 It's your birthday, light it up (Light it up)
 It's you a real bitch, go 'n light it up (Light it up)
 
 She can get it running over me (Yeah)
-She heard about me and she know I'm a freak (Ooh)
+She heard about me and she know I'm a freak (Oh)
 She can top, running over me (Over me, yeah)
 Girl, you know ain't no controllin' me (No, no)
 Close your mouth when I'm facing you (Yeah)
 I don't chase (When I drink in it, straight up)
-Tell your girl she can play with it (Ooh)
+Tell your girl she can play with it (Oh)
 Light it up so we stay lit
 We gon' keep it going like (Yeah, yeah, yeah)
 (Yeah, yeah, yeah, yeah, yeah, yeah)
@@ -60,13 +60,13 @@ Don't tell nobody
 Don't mean to push up on you
 Whiskey keeping you balanced
 Throw that ass backward while that ass clapping
-Ooh woah, light it up
+Oh woah, light it up
 
 If you a real bitch, light it up (Light it up)
 If you a real bitch, go 'n light it up (Light it up, light it up)
 It's your birthday, go 'n light it up (Light it up, ayy)
 I'm drunk and I'm throwin' middle fingers up (Fingers up, fingers)
-Ooh, my niggas gon' light it up (Light it up, light it up)
+Oh, my niggas gon' light it up (Light it up, light it up)
 If you a real nigga, go 'n light it up (Light it up)
 It's your birthday, light it up (Light it up)
 It's you a real bitch, go 'n light it up (Light it up)

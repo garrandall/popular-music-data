@@ -71,9 +71,9 @@ rankings:
 "Aw, I don't want to fuck you. You can't even sing!" You had to sing, or something, to get some pussy
 
 
-Ooh, baby, I like it raw
+Oh, baby, I like it raw
 Yeah, baby, I like it raw
-Ooh, baby, I like it raw
+Oh, baby, I like it raw
 Yeah, baby, I like it raw
 
 
@@ -95,13 +95,13 @@ Jump on stage dunduhduhDUNduuuuuh
 (I like the way you talk)
 
 
-Ooh, baby, I like it raw
+Oh, baby, I like it raw
 Yeah, baby, I like it raw
-Ooh, baby, I like it raw
+Oh, baby, I like it raw
 Yeah, baby, I like it raw
-Ooh, baby, I like it raw
+Oh, baby, I like it raw
 Yeah, baby, I like it raw
-Ooh, baby, I like it raw
+Oh, baby, I like it raw
 Yeah, baby, I like it raw
 
 
@@ -150,9 +150,9 @@ Got east coast locked down padlocked
 My Zoo be all all down by the flock
 
 
-Ooh, baby, I like it raw
+Oh, baby, I like it raw
 Yeah, baby, I like it raw
-Ooh, baby, I like it raw
+Oh, baby, I like it raw
 Yeah, baby, I like it raw
 
 
@@ -175,7 +175,7 @@ Jump on stage dunduhduhDUNduuuuuh
 Yo, y'all know the lyrics, come on, sing with me
 
 
-Ooh, baby, I like it raw
+Oh, baby, I like it raw
 Yeah, baby, I like it raw
-Ooh, baby, I like it raw
+Oh, baby, I like it raw
 Yeah, baby, I like it raw

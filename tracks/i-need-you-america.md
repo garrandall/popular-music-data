@@ -58,31 +58,31 @@ And make the best of what you've left to me
 Left to me, left to me
 I need you
 Like the flower needs the rain
-You know, i need you
+You know, I need you
 Guess i'll start it all again
-You know, i need you
+You know, I need you
 Like the winter needs the spring
-You know i need you
+You know I need you
 I need you
 And every day
 I'd laugh the hours away
 Just knowing you were thinking of me
 Then it came
-That i was put to blame
+That I was put to blame
 For every story told about me
 About me, about me
 I need you
 Like the flower needs the rain
-You know, i need you
+You know, I need you
 Guess i'll start it all again
-You know, i need you, i need you
+You know, I need you, I need you
 I need you
 Like the winter needs the spring
-You know i need you
+You know I need you
 Guess I'll start it all again, you know
-I need you, i need you
+I need you, I need you
 I need you like the flower needs the rain
-You know i need you
+You know I need you
 Guess I'll start it all again, you know
 I need you, I need you, I need you
 Like the winter needs the spring

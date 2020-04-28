@@ -75,7 +75,7 @@ He doesn't know the real surprise
 
 
 (Here she comes again)
-When she's dancing 'neath the starry sky, ooh
+When she's dancing 'neath the starry sky, oh
 She'll make you flip
 (Here she comes again)
 When she's dancing 'neath the starry sky
@@ -89,7 +89,7 @@ But she used to be mine
 
 You got your nuclear boots
 And your drip dry glove
-Ooh, when you bite your lip
+Oh, when you bite your lip
 It's some reaction to love, o-ove, o-ove
 
 

@@ -127,7 +127,7 @@ Class started 2 hours ago, oh am I late?
 No, I already graduated
 And you can live through anything if Magic made it
 They say I talk with so much emphasis
-Ooh they so sensitive
+Ohthey so sensitive
 Don't ever fix your lips like collagen
 And say something when you gon' end up apolog'ing
 Let me know if it's a problem then, aight man, holla then

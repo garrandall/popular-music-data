@@ -79,9 +79,6 @@ No taste for humble pie
 Thanks for all your generous love and thanks for all the fun
 Neither you nor I'm to blame when all is said and done
 
-
-
-
 It's so strange, when you're down, and lying on the floor
 How you rise, shake your head, get up and ask for more
 Clear-headed and open-eyed

@@ -101,10 +101,10 @@ Oh, come on.
 
 Hey sexy lady,
 It was nice to know you (it was nice to know ya)
-But I gotta move oooooon (yeah)
+But I gotta move on (yeah)
 Hey sexy lady,
 It was nice to know you (it was nice to know ya)
-But i got to move oooooon (yeah)
+But I got to move on (yeah)
 Hey sexy lady.
 
 Oh, and damn right baby girl's a diva,
@@ -127,15 +127,15 @@ Yung Bosses, it's our year, we got another one.
 
 Hey sexy lady,
 It was nice to know you (it was nice to know ya)
-But I gotta move oooooon (yeah)
+But I gotta move on (yeah)
 Hey sexy lady,
 It was nice to know you (it was nice to know ya)
-But i got to move oooooon (yeah)
+But I got to move on (yeah)
 Hey sexy lady.
 
 Yeah, and damn right baby girl the shit.
-She love it when i throw it deep like Micheal Vick.
-I love it cause she know them youngins dont write a lick.
+She love it when I throw it deep like Micheal Vick.
+I love it cause she know them youngins don't write a lick.
 She know the kid hit the lab though could write a hit.
 Uh, and ain't no denyin' it, nope.
 She want it, she can have it, why, cause I'm dyin' it.
@@ -151,10 +151,10 @@ Berg and the Y.B.'s makin' big deals.
 
 Hey sexy lady,
 It was nice to know you (it was nice to know ya)
-But I gotta move oooooon (yeah)
+But I gotta move on (yeah)
 Hey sexy lady,
 It was nice to know you (it was nice to know ya)
-But i got to move oooooon (yeah)
+But I got to move on (yeah)
 Hey sexy lady.
 
 Get 'cha lean on, shawty bring it back.

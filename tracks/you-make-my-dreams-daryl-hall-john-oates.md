@@ -102,11 +102,11 @@ Then you pull them all together
 And how I can't explain
 Oh, yeah
 Well, well you
-(Ooh-ho, hoo-ooh, ooh-oo)
+(Oh-ho, hoo-oh, oh-oo)
 You make my dreams come true
 (You-hoo, you, you-hoo, hoo, you, hoo)
 Well, well, well you
-(You-hoo, hoo-hoo-ooh)
+(You-hoo, hoo-hoo-oh)
 Oh, yeah
 You make my dreams come true
 (You make my dreams)
@@ -122,11 +122,11 @@ And wrap yourself around me
 And I'll never be the same
 Oh, yeah
 Well, 'cos you
-(Ooh-ho, hoo-ooh, ooh-oo)
+(Oh-ho, hoo-oh, oh-oo)
 You make my dreams come true
 (You-hoo, you, you-hoo, hoo, you, hoo)
 Well, well, well you
-(You-hoo, hoo-hoo-ooh)
+(You-hoo, hoo-hoo-oh)
 You make my dreams come true
 (You make my dreams)
 Come true
@@ -143,7 +143,7 @@ You make my dreams come true
 (You-hoo, you, you-hoo, hoo, you, hoo)
 Oh, yeah
 I've waited, waited for you, girl
-(You-hoo, hoo-hoo-ooh)
+(You-hoo, hoo-hoo-oh)
 Oh, yeah
 You make my dreams come true
 (You make my dreams)

@@ -72,7 +72,7 @@ In this whole wide world
 Is just for you to say
 You'll be my girl
 
-And, ooh (wanting you)
+And, oh (wanting you)
 While I was wanting you, girl
 (I'm so lonely and blue)
 For that's, that's
@@ -85,5 +85,5 @@ That I got to bed
 I dream wonderful
 Wonderful dreams of you
 
-And, ooh (wanting you)
+And, oh (wanting you)
 While I was wanting you...

@@ -55,4 +55,4 @@ Happy is our love forever
 What more in life could you give me
 Happiness is living all my life with you
 
-You, ahhh
+You, ah

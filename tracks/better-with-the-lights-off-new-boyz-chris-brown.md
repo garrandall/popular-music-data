@@ -99,9 +99,9 @@ I hope you don’t take this the wrong way
 
 
 Girl, you look better with the lights off (hey, hey)
-Better with the lights off, ooh (hey, hey, oh, oh)
+Better with the lights off, oh(hey, hey, oh, oh)
 Girl, you look better with the lights off (hey, hey)
-Better with the lights off, ooh (hey, hey)
+Better with the lights off, oh(hey, hey)
 Baby, girl, you're better with the lights off
 
 
@@ -134,9 +134,9 @@ I hope you don’t take this the wrong way
 
 
 Girl, you look better with the lights off (hey, hey)
-Better with the lights off, ooh (hey, hey, oh, oh)
+Better with the lights off, oh(hey, hey, oh, oh)
 Girl, you look better with the lights off (hey, hey)
-Better with the lights off, ooh (hey, hey)
+Better with the lights off, oh(hey, hey)
 Baby, girl, you're better with the lights off
 
 
@@ -169,12 +169,12 @@ I hope you don’t take this the wrong way
 
 
 Girl, you look better with the lights off
-Better with the lights off, ooh
+Better with the lights off, oh
 Girl, you look better with the lights off
-Better with the lights off, ooh
+Better with the lights off, oh
 Baby, girl, you're better with the lights off
 Girl, you look better with the lights off
-Better with the lights off, ooh
+Better with the lights off, oh
 Girl, you look better with the lights off
-Better with the lights off, ooh
+Better with the lights off, oh
 Baby, girl, you're better with the lights off

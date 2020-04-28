@@ -101,9 +101,9 @@ And you're looking for the answer in her eyes
 You think you're gonna break up
 Then she says she wants to make up
 
-Ooh, you make me love you
-Ooh, you've got a way
-Ooh, you had me crawling up the wall
+Oh you make me love you
+Oh you've got a way
+Oh you had me crawling up the wall
 
 Like walking in the rain and the snow
 When there's nowhere to go
@@ -112,9 +112,9 @@ And you're looking for the answer in her eyes
 You think you're gonna break up
 Then she says she wants to make up
 
-Ooh, you make me love you
-Ooh, you've got a way
-Ooh, you had me crawling up the wall
+Oh you make me love you
+Oh you've got a way
+Oh you had me crawling up the wall
 
 A compromise would surely help the situation
 Agree to disagree, but disagree to part

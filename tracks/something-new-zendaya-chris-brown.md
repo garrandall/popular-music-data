@@ -45,9 +45,9 @@ I wanna try something new, all night
 I wanna try something new, all night
 I wanna try something
 
-Ahhh ooh, ahhh, I wanna try baby
-Ahhh ooh, all night
-Ahhh, babe
+Ah oh, ah, I wanna try baby
+Ah oh, all night
+Ah, babe
 
 
 Oh I, oh I, oh I, baby
@@ -68,9 +68,9 @@ I wanna try something new, all night
 I wanna try something
 
 
-Ahhh ooh, ahhh, I wanna try baby
-Ahhh ooh, all night
-Ahhh, babe
+Ah oh, ah, I wanna try baby
+Ah oh, all night
+Ah, babe
 
 
 This ain't forever baby, just tonight
@@ -81,14 +81,14 @@ I prolly should wait, but I wanna letcha go there
 I wanna try something new, all night
 I wanna try something new, all night
 
-Ahhh ooh, ahhh, I wanna try baby
-Ahhh, I wanna try baby, ooh
-Ahhh ooh, babe
+Ah oh, ah, I wanna try baby
+Ah, I wanna try baby, oh
+Ah oh, babe
 
-Ahhh ooh, girl if ya let me
-Ahhh, I wanna try baby
-Ahhh ooh, oh, oh, oh, oh, oh
-Ooh, babe
+Ah oh, girl if ya let me
+Ah, I wanna try baby
+Ah oh, oh, oh, oh, oh, oh
+Oh, babe
 
 I like that new new boy I like that new
 Wanna try

@@ -56,21 +56,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-04-14'
 ---
-We-eee-eeel...
-You know you make me wanna (Shout!)
-Kick my heels up and (Shout!)
-Throw my hands up and (Shout!)
-Throw my head back and (Shout!)
-Come on now (Shout!)
+Well
+You know you make me wanna (Shout)
+Kick my heels up and (Shout)
+Throw my hands up and (Shout)
+Throw my head back and (Shout)
+Come on now (Shout)
 Don't forget to say you will
 Don't forget to say, yeah
 Yeah, yeah, yeah, yeah
 (Say you will)
-Say it right now bab-ay
+Say it right now baby
 (Say you will)
 Come on, come on
 (Say you will)
-Say it, will-a you-ooooo!
+Say it, will you
 (Say you will)
 You got it, now!
 (Say) say that you love me
@@ -81,7 +81,7 @@ You got it, now!
 (Shooby-doo-wop-do-wop-wop-wop-wop)
 When you used to be nine years old
 (Shooby-doo-wop-do-wop-wop-wop-wop)
-Yeah-yeah!
+Yeah yeah!
 I was a fool for you, from the bottom of my soul, yeah!
 (Shooby-doo-wop-do-wop-wop-wop-wop)
 Now that you've grown, up
@@ -101,27 +101,26 @@ I said I want you to know-ho-ho-hey!
 I said I want you to know right now, hey! hey!
 
 You know you make me wanna
-(Shout-wooo) hey-yeah
-(Shout-wooo) yeah-yeah-yeah
-(Shout-wooo) aaaalll-right
-(Shout-wooo) aaaalll-right
+(Shout-wooo) hey yeah
+(Shout-wooo) yeah yeah yeah
+(Shout-wooo) alright
+(Shout-wooo) alright
 (Shout-wooo) come on now!
 (Shout) come on now!
 (Shout) yeah, yeah, yeah
 (Shout) yeah, yeah, yeah (good sound)
 (Shout) yeah, yeah, yeah (good sound)
 (Shout) yeah, yeah, yeah (good sound)
-(Shout) all-alright (good sound)
-(Shout) it's all-alright (good sound)
-(Shout) all-alright (good sound)
-(Shout) all-alright (aah)
+(Shout) all alright (good sound)
+(Shout) it's all alright (good sound)
+(Shout) all alright (good sound)
+(Shout) all alright (ah)
 
-Now wai-a-ait a minute!
-I feel aaaaaaallllllright!
-(Yeah-Yeah, Yeah-Yeah!)
-(OOOOOOOOW)
+Now wait a minute!
+I feel alright!
+(Yeah Yeah, Yeah Yeah!)
 Now that I got my woman
-I feel aaaaaaaalllllright!
+I feel alright!
 (Yeah-Yeah, Yeah-Yeah, Yeah-Yeah)
 Every time I think about you
 You been so good to me
@@ -134,15 +133,15 @@ You know you make me wanna
 (Shout-wooo) take it easy
 (Shout-wooo) take it easy (higher)
 (Shout) a little bit softer now (wooo)
-(Shout) a little bit softer now (Shout) a little bit louder now (Shout) a little bit louder now (ooo)
+(Shout) a little bit softer now (Shout) a little bit louder now (Shout) a little bit louder now (oo)
 (Shout) a little bit louder now (Shout) a little bit louder now (wooo) (Shout) a little bit louder now
 (Shout)
-Hey-Hey-A-Hey (Hey-Hey-A-Hey) JUMP NOW!
+Hey hey hey (hey hey hey) Jump now
 Jump up and shout now (wooo) Everybody shout now Everybody, shout, shout
 Shout, shout, shout
 Shout, shout, shou-out
 Shout, shout, shou-out
-Shout, shout, shout, shout (oh-whoa-yeah)
+Shout, shout, shout, shout (oh whoa yeah)
 Shout, shout, shout, shout (oh yeah)
 Shout, shout, shout, shout
-Everybody shout now (ooo
+Everybody shout now

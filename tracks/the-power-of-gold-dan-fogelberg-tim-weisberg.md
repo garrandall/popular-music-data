@@ -83,8 +83,8 @@ The face that you're wearing is different now
 That the days run hot and cold
 Are you under the power of gold?
 The power of gold
-Ooo-ooo, ahh-ahh, ahh-ahh
-Ooo-ooo, ahh-ahh, ahh-ahh, ahh
+Ooo-oo, ah-ah, ah-ah
+Ooo-oo, ah-ah, ah-ah, ah
 You're a creature of habit
 Caught like a rabbit
 Scared of a fear you can't name

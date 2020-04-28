@@ -30,10 +30,10 @@ Oh, when I first realized
 That a-you were fooling me
 
 And darling
-(Whoa-ooh)
+(Whoa-oh
 They say that our love won't grow
 But I just wanna tell them
-(Ooo-ooo-ooo)
+(Ooo-oo-oo)
 That they don't know-oh-ho
 
 For as long
@@ -46,10 +46,10 @@ In this whole wide world
 Is just for you to say
 That you'll be my girl
 
-And woo-ooo-ooo
+And woo-oo-oo
 (Wanting you)
 Wanting you
-(Oh-ooh, I'm lonely and blue)
+(Oh-oh I'm lonely and blue)
 I'm so-whoa, lonely
 (That's what love will do)
 

@@ -82,7 +82,3 @@ Take my hand, and we will know all that we dream... we,
 Our own.
 Apart we are weak... together we're strong.
 
-
-
-
-

@@ -26,12 +26,12 @@ Is not something to ignore
 You take me for a fool
 You take me for a fool
 
-I never knew anybody til' I knew you-ooh
-I never knew anybody til' I knew you-ooh
+I never knew anybody til' I knew you-oh
+I never knew anybody til' I knew you-oh
 And I know when it rains, oh, it pours
 And I know I was born to be yours
-I never knew anybody til' I knew you-ooh
-I never knew anybody til' I knew you-ooh
+I never knew anybody til' I knew you-oh
+I never knew anybody til' I knew you-oh
 And I know when it rains, oh, it pours
 And I know I was born to be yours
 
@@ -40,12 +40,12 @@ Lost in the millions?
 Or are you my grain of sand
 That's blowing in the wind?
 
-I never knew anybody til' I knew you-ooh
-I never knew anybody til' I knew you-ooh
+I never knew anybody til' I knew you-oh
+I never knew anybody til' I knew you-oh
 And I know when it rains, oh, it pours
 And I know I was born to be yours
-I never knew anybody til' I knew you-ooh
-I never knew anybody til' I knew you-ooh
+I never knew anybody til' I knew you-oh
+I never knew anybody til' I knew you-oh
 And I know when it rains, oh, it pours
 And I know I was born to be yours
 

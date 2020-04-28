@@ -42,8 +42,8 @@ So I like to keep my issues strong
 But it's always darkest before the dawn
 
 
-Shake it out, shake it out, shake it out, shake it out, ooh whoa
-Shake it out, shake it out, shake it out, shake it out, ooh whoa
+Shake it out, shake it out, shake it out, shake it out, oh whoa
+Shake it out, shake it out, shake it out, shake it out, oh whoa
 And it's hard to dance with the devil on your back
 So shake him off, oh whoa
 
@@ -59,10 +59,10 @@ It's always darkest before
 The dawn
 
 
-Shake it out, shake it out, shake it out, shake it out, ooh whoa
+Shake it out, shake it out, shake it out, shake it out, oh whoa
 
 
-Shake it out, shake it out, shake it out, shake it out, ooh whoa
+Shake it out, shake it out, shake it out, shake it out, oh whoa
 And it's hard to dance with the devil on your back
 So shake him off, oh whoa
 
@@ -79,7 +79,7 @@ It's a fine romance but it's left me so undone
 It's always darkest before the dawn
 
 
-Ooh hoo oooh hoo...
+Oh hoo oh hoo...
 
 
 And I'm damned if I do and I'm damned if I don't
@@ -108,18 +108,18 @@ But what the hell
 I'm gonna let it happen to me
 
 
-Shake it out, shake it out, shake it out, shake it out, ooh whoa
-Shake it out, shake it out, shake it out, shake it out, ooh whoa
+Shake it out, shake it out, shake it out, shake it out, oh whoa
+Shake it out, shake it out, shake it out, shake it out, oh whoa
 And it's hard to dance with the devil on your back
 So shake him off, oh whoa
 
-Shake it out, shake it out, shake it out, shake it out, ooh whoa
-Shake it out, shake it out, shake it out, shake it out, ooh whoa
+Shake it out, shake it out, shake it out, shake it out, oh whoa
+Shake it out, shake it out, shake it out, shake it out, oh whoa
 And it's hard to dance with the devil on your back
 So shake him off, oh whoa
 
-Shake it out, shake it out, shake it out, shake it out, ooh whoa
-Shake it out, shake it out, shake it out, shake it out, ooh whoa
+Shake it out, shake it out, shake it out, shake it out, oh whoa
+Shake it out, shake it out, shake it out, shake it out, oh whoa
 And it's hard to dance with the devil on your back
 So shake him off, oh whoa
 

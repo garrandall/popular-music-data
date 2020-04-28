@@ -196,10 +196,6 @@ You need to trust the god & jump in the car
 For a little hard 8 at the Taj Mahal
 What's love?
 
-
-
-
-
 Yeah, uh, yo, I stroll in the club with my hat down
 Michael Jack style
 Hot steppin who the mack now?
@@ -222,8 +218,4 @@ Gonna cut you no slack (Whoo)
 Cause I'm on it like that (Uh, Come On)
 Come on (Yeah, Yeah, Y'All) & put it (Yeah, Yeah, Y'All)
 on me (Put it on ya Girl) on me (I'm put it on ya Girl)
-
-
-
-
 

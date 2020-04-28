@@ -87,7 +87,7 @@ Wants a taste of the cake
 Everybody wants (yeah) some of Jody (Yeah, oh, Jody)
 All the love they can take (Yeah, yeah)
 Everybody wants a piece of Jody
-Wants a taste of the cake (Mmm-hmm, yeah)
+Wants a taste of the cake (Mmm-hm, yeah)
 Everybody wants some of Jody (Jody)
 All the love they can take (Oh...)
 
@@ -133,7 +133,7 @@ All the love they can take
 Everybody wants a piece of Jody
 Wants a taste of the cake
 (They've got to have)
-Everybody wants some of Jody (Yeah, yeah, ooh, Jody)
+Everybody wants some of Jody (Yeah, yeah, oh, Jody)
 All the love they can take
 (Everybody wants you, baby)
 

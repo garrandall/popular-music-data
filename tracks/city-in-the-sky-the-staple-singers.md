@@ -67,7 +67,7 @@ It's been quite a fine morning
 It's been quite a fine day
 What a feelin' just knowin'
 I won't have find a way, no
-To California, hmm, tomorrow morning, oh
+To California, hm, tomorrow morning, oh
 I just don't believe L.A., no
 I'm gonna miss the city
 I leave behind

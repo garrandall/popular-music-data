@@ -45,7 +45,7 @@ Could you? (Could you still love me?)
 Could you? (Pick up the pieces of me?)
 Could you? (Could you still love me?)
 Could you love me anyway?
-Could you? (Ooh, could you still love me?)
+Could you? (Oh, could you still love me?)
 Could you? (Pick up the pieces of me?)
 Could you? (Could you still love me?)
 Could you love me anyway?

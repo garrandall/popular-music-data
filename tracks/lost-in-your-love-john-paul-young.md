@@ -62,7 +62,7 @@ I'm head over heels
 I can't tell left from my right
 I'm losing my way
 Lost in your love
-Ooh lost in your love
+Oh lost in your love
 
 I see but I don't know I'm seeing
 I speak I don't know what I say
@@ -73,7 +73,7 @@ And I can't find the way
 I'm lost in your love
 Drownin' in you...
 
-Ooh lost in your love
+Oh lost in your love
 Lost in your love
 Lost in your love
 

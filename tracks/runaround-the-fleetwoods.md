@@ -80,10 +80,10 @@ Maybe a new love you've found
 Settle down
 Runaround
 
-Ooh, ooh, ooh, ooh
-Ooh, ooh, ooh, ooh
-Ooh, ooh, ooh, ooh
-Ooh, ooh, ooh, ooh
+Oh oh oohohoh
+Oh oh oohohoh
+Oh oh oohohoh
+Oh oh oohohoh
 
 Go have your fun (I'll have my fun)
 Go have your fun

@@ -109,10 +109,6 @@ Onto the next thing, I'm searching for something that's missing
 
 
 i'm wanting more
-I'm always waiting on something other than this 
-Why am I feelin' like there's something I missed.....
-
-
-
-
+I'm always waiting on something other than this
+Why am I feelin' like there's something I missed...
 

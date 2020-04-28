@@ -127,10 +127,6 @@ I never thought that losing you could ever hurt so bad
 Not quite a year since she went away, Rosanna
 Now she's gone and I have to say
 
-
-
-
-
 Not quite a year since she went away
 Who is it? Rosanna
 Now she's gone and I have to say

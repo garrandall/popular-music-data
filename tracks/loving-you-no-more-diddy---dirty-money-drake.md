@@ -17,8 +17,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-01-01'
 ---
-So hard to breathe this air that we call love (ooh)
-Ain't nothin' worse than the hurt we receive from love (ooh yeah)
+So hard to breathe this air that we call love (oh)
+Ain't nothin' worse than the hurt we receive from love (oh yeah)
 When you get hurt by the one you livin' for
 Pain can make you wanna love no more
 

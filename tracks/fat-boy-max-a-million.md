@@ -104,7 +104,7 @@ Come go with me fat boy
 And I'll be there for you
 
 Hey fat boy, (alright) I wanna make you smile (oh yea)
-Hey big boy, (ya mon) come play with me for a while (Yay eeeeeee)
+Hey big boy, (ya mon) come play with me for a while (Yay ee)
 
 Dem a round
 Fat boy dem big and round

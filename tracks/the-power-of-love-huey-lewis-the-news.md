@@ -122,7 +122,7 @@ And with a little help from above
 You feel the power of love
 You feel the power of love
 Can you feel it?
-Hmmm
+Hm
 
 
 It don't take money and it don't take fame

@@ -56,7 +56,3 @@ Little boys scraping knees
 Even my tears have all dried
 Can I sit by your side?
 
-
-
-
-

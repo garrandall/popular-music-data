@@ -39,7 +39,7 @@ He's gonna surely break this heart of mine
 And that's why I can't tell him that sad thing
 
 
-Oh oh oh, ooh ooh, everybody have you heard
+Oh oh oh, oh oh, everybody have you heard
 He's going to buy me a mockingbird
 Said now, if that mockingbird don't sing
 He's going to buy me a diamond ring

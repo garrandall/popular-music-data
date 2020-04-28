@@ -83,7 +83,7 @@ That's gonna make this trip worthwhile
 You see she's got the kind of loving and a kissing
 A-make a man go stone wild
 
-So I got to keep on walking, mm-hmm, huh
+So I got to keep on walking, mm-hm, huh
 I got to walk on, oh, ho, ho
 (I-I, I-I, I, I, I) I'm so tired
 But I just can't lose my stride
@@ -98,7 +98,7 @@ And hold her in my arms one more time, huh
 Now when I kiss her lips, I turn a back over flip
 And I forget these feet of mine
 
-I got to keep on walking, hey, ooh
+I got to keep on walking, hey, oh
 I got to walk on, yeah, yeah, yeah, yeah, y'all
 (I-I, I-I, I, I, I) I'm so tired, huh
 But I just can't lose my stride
@@ -115,7 +115,7 @@ Over the hill, just around the bend, huh
 Although my feet are tired, I can't lose my stride
 I got to get to my baby again
 
-I got to keep on walking, mm-hmm, hey
+I got to keep on walking, mm-hm, hey
 I got to walk on, please let me ya, y'all
 (I-I, I-I, I, I, I) I'm so tired, huh
 But I just can't lose my stride

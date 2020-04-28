@@ -58,7 +58,7 @@ Que te quiero mi vida, quiero
 Que te quiero mi vida, quiero
 Que te quiero mi vida, quiero
 Que te quiero, quiero
-Que te quiero, quiero, ooooh
+Que te quiero, quiero, oh
 
 So people, don't tell me
 He's no good
@@ -74,13 +74,13 @@ Que te quiero mi vida, quiero
 Que te quiero mi vida, quiero
 Que te quiero mi vida, quiero
 Que te quiero, quiero
-Que te quiero, quiero, ooooh
+Que te quiero, quiero, oh
 
 Que te quiero mi vida, quiero
 Que te quiero mi vida, quiero
 Que te quiero mi vida, quiero
 Que te quiero, quiero
-Que te quiero, quiero, ooooh
+Que te quiero, quiero, oh
 
 
 

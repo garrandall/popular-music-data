@@ -28,15 +28,15 @@ rankings:
 This one's for you Curtis
 I love you
 Doo doo doo doo
-Doo doo doo doo ooh
+Doo doo doo doo oh
 
 If you look into your heart
 With a positive mind
-Take some inventory 
+Take some inventory
 Of your woman and your glory
 Leave the bad things behind
 
-Ooh, everybody's got a story (history)
+Oh, everybody's got a story (history)
 About love and the good things
 But all the spices of your life
 You gotta pay the price
@@ -45,14 +45,14 @@ If you know what I mean
 I'm telling everybody I know
 How a girl becomes some pride
 When I finally found there was nothing left
-I said I do believe I found myself 
+I said I do believe I found myself
 When I found there was nothing left
 
 I wanna give it to you baby
 
 If you look into your heart
 With a positive mind
-Take some inventory 
+Take some inventory
 Of your woman and your glory
 Leave the bad things behind
 

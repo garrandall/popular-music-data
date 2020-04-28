@@ -131,7 +131,7 @@ I'm gonna miss ya woman.
 Till your well runs dry,
 Girl, you're gonna cry, one day.
 
-Ahhh baby,
+Ah baby,
 (You don't know it now)
 You know life is funny sometimes,
 (But you'll know it someday)
@@ -175,21 +175,21 @@ Yes you are, baby!
 
 You're throwin' my love away!
 Save it for a rainy day.
-Ahhh,
+Ah,
 I wonder...
 I wonder...
 If I showed you the way,
 Would you love me today,
 Somewhere in your future?
 
-Ahhhh baby,
-Ahh, yOu don't' know,
+Ah baby,
+Ah, yOu don't' know,
 YOu don't' know,
 YOu don't' know,
 No no no no no no, no.
 
 I'm a good man.
-I love you you, ahh ahh ahh.
+I love you you, ah ah ah.
 
 Woah, I'm a good man,
 Ask your friends.
@@ -226,9 +226,6 @@ And I know what I gotta do.
 
 I-I-I love ya,
 Ah...
-
-
-
 
 (You don't know it now)
 (But you'll know it someday)

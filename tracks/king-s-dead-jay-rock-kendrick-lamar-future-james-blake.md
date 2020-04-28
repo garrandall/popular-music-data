@@ -92,9 +92,6 @@ rankings:
   start_date: '2018-06-09'
 ---
 
-
-
-
 Miss me with that bullshit (bullshit)
 You ain't really wild, you a tourist (a tourist)
 I be blackin' out with the purist (the purist)
@@ -163,9 +160,6 @@ I made 500 thou' then I freaked it (I freaked it)
 I bought a '87 for the weekend (the weekend)
 This ain't what you want, this ain't what you want (what you want)
 This ain't what you want, this ain't what you want (what you want)
-
-
-
 
 Changes
 Is you gon' do something?

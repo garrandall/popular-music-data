@@ -1,9 +1,11 @@
 ---
 artists:
-- Paul Anka with Odia Coates
-features: []
+- Paul Anka
+features:
+- Odia Coates
 genres: []
 key: i-don-t-like-to-sleep-alone-paul-anka-with-odia-coates
+lyrics_url: https://www.musixmatch.com/lyrics/Paul-Anka-feat-Odia-Coates/I-Don-t-Like-to-Sleep-Alone
 name: I Don't Like To Sleep Alone
 rankings:
 - end_date: '1975-03-21'
@@ -67,4 +69,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-06-21'
 ---
+I don't like to sleep alone
+Stay with me
+Don't go
+Talk with me for just a while (in this line I don? hear "for")
 
+So much of you to get to know
+Reaching out touching you
+Leaving all the worries behind
+Loving you the way I do
+
+My mouth on yours and yours on mine
+Marry me
+Let me live with you
+Nothing's wrong and love is right
+
+Like a man says in his song
+Help me make it through the night
+Loneliness can get you down
+When you get to thinking no one cares
+
+Lean on me
+And I'll lean on you
+Together we will see it through
+
+No, I don't like to sleep alone
+It's sad to think some folks do
+No I don't like to sleep alone
+No one does
+
+Do you?
+
+In the last verse you write:
+No, I don't like to sleep alone
+It's sad to think some folks do
+No I don't like to sleep alone
+No one does
+Do you?
+But they sing only:
+I don? like to sleep alone
+No one does
+Do you?

@@ -78,9 +78,6 @@ They wonder how the Rob Base make it
 I get I'll, you know the deal
 Cause this is how the Rob Base feels
 
-
-
-
 I keep smokin', hot like fire
 You had the turn, now retire
 Don't talk back, I'm not a new jack
@@ -96,9 +93,6 @@ The wrong way cause is just might, might, might
 Bring me down, I'll have to fight to get back up
 Move away cause I just won't slack up
 
-
-
-
 Now, I go to shows to watch other MCs rock
 And if they're good, I don't knock
 The way they perform cause I like to see a good show
@@ -113,9 +107,6 @@ Me an' my boys, we make noise
 I hate MCs that think they're with toys
 I'm hittin' harder than any other MC
 Who try to come up and go against me
-
-
-
 
 Not from the old school or from the new
 Applaud the boom, do what you want to

@@ -40,7 +40,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-08-07'
 ---
-(Woo-hoo-hoo-ooo)
+(Woo-hoo-hoo-oo)
 (Sittin' in the park, waiting for you-hoo-hoo)
 (Child, I'm)
 

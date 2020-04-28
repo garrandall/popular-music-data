@@ -91,7 +91,7 @@ One night of love
 It turned me around, it turned me around
 One night of love
 Things'll never, never, never, never, never be the same
-One night of love (Ooh)
+One night of love (Oh)
 Baby, I'm deep in love
 Blew my heart away
 
@@ -101,7 +101,7 @@ Can I stay with you, babe (Stay)
 For the rest of my life
 
 Can I stay with you, babe (Stay, stay, stay)
-Through the end of all time (Ooh)
+Through the end of all time (Oh)
 Oh, baby, please
 Let me stay through the night
 
@@ -111,12 +111,12 @@ Can I stay with you, babe (Stay, stay, stay)
 For the rest of my life (For the rest of my life)
 
 Can I stay with you, babe (Stay, stay)
-Through the end of all time (Ooh)
+Through the end of all time (Oh)
 Oh, baby, please
 Let me stay through the night
 
 Can I stay with you, babe
-For the rest of the night (Oh, ooh)
+For the rest of the night (Oh, oh)
 Can I stay with you, babe
 For the rest of my life (Mmm... mmm...)
 

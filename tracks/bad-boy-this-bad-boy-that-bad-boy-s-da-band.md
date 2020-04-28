@@ -45,14 +45,14 @@ rankings:
   start_date: '2003-12-20'
 ---
 + (Fred)
-Bad Boy baby (Ooooh)
+Bad Boy baby (Oh)
 We the last standin' check the records (Da Band, baby)
 Check the score
 Da Band the next generation of bad motherfucker, come on (Yeah, yeah)
 
  + (P. Diddy)
 Yo, I'm back and I'm hittin' 'em hard
-Tits don't sag, I dont need no push-up bra (Haha)
+Tits don't sag, I don't need no push-up bra (Haha)
 Bitch you mad, Babs got a brand new car (Yeah)
 Drop top in the hood, I'm the ghetto superstar (Come on)
 Breathe, pop bottles and roll up weed (Yeah)
@@ -60,7 +60,7 @@ Bab's strong arm bitches, like I'm Hercules
 You got a problem (Uh), come see the girl, I'll solve'em (That's right)
 Big belly bitches we starve 'em (Let's go, come on)
 Niggas in the hood, we rob 'em, whenever they flossin'
-Better tuck in ya chain bitch and keep on walkin' (Ahh!)
+Better tuck in ya chain bitch and keep on walkin' (Ah!)
 You a thug, why you keep on talkin (What?), let's get it crackin' (Come on)
 Get a bitch stomped out in the club, I make it happen
 I got this, Diddy done let me out (Yeah)
@@ -131,9 +131,9 @@ A Don, I mean what I say, and I say what I mean (Mean it)
 I eat, shit, and sleep yeah, I lay wit them things (Hahaha)
 Bad Boy wit Universal, so don't play wit the team
 
-   Bad Boy, so don't play wit the team (Holla!)
  Bad Boy, so don't play wit the team (Holla!)
-          Bad Boy, so don't play wit the team (Holla!)
+ Bad Boy, so don't play wit the team (Holla!)
+ Bad Boy, so don't play wit the team (Holla!)
 
 
  Da Band, Da Band

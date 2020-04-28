@@ -103,7 +103,7 @@ Seekin' my satisfaction, keeps me on the run
 I tried to play my music, say my music's too loud
 I tried talking about it, I got the big runaround
 And when I rolled with the punches I got knocked on the ground
-By all this bullshit going down, oooh
+By all this bullshit going down, oh
 
 Time is truly wastin', there's no guarantee, yeah
 Smile is in the makin', we got to fight the powers that be

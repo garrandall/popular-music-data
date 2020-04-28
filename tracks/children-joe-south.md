@@ -72,7 +72,7 @@ Children
 Playin' grown-up games
 And the thing that's really sad
 We lose the faith we had
-When we were children mm-hmm
+When we were children mm-hm
 
 Loud (Children)
 Proud (Children)

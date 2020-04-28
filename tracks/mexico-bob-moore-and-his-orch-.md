@@ -1,6 +1,6 @@
 ---
 artists:
-- Bob Moore and His Orch.
+- Bob Moore
 features: []
 genres: []
 key: mexico-bob-moore-and-his-orch-

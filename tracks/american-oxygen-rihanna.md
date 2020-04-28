@@ -99,6 +99,3 @@ American, American oxygen
 This is the new America
 We are the new America
 
-
-
-

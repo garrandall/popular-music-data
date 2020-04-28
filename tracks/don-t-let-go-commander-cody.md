@@ -44,8 +44,8 @@ Keeps me grinnin' from ear to ear
 (Don't let go, don't let go)
 
 CHORUS:
-Oooooh-weeee, this feelin's killin' me
-Aaaaaah-shucks, well
+Oh-weeee, this feelin's killin' me
+Ah-shucks, well
 I wouldn't stop it for a million bucks
 I love you so
 Just hold me tight and don't let go

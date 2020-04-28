@@ -69,7 +69,7 @@ People say that the eyes tell stories, and they mirror the soul;
 Tell me, do we reflect the sameness of one, the unity to have and to hold?
 
 (Darling, reach out just for me...)
-I tend our love in quiet seclusion - only you can say 
+I tend our love in quiet seclusion - only you can say
 If this is love or just an illusion...
 (The deepness of your eyes...)
 
@@ -95,9 +95,9 @@ I feel the lovin' all the time... yes, I do...
 (The deepness of your eyes...)
 I can't stop lovin' you baby! Hey, hey!
 (The deepness of your eyes...)
-I feel your lovin' all...!
+I feel your lovin' all...
 (The deepness of your eyes...)
-I can't stop lovin'-ah... whoo, baby.... whoo, baby...
+I can't stop lovin'-ah... whoo, baby... whoo, baby...
 (The deepness of your eyes...)
 Hee, hee, hee, hee, feel your lovin' all the time, baby..
 (The deepness of your eyes...)

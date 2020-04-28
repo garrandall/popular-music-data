@@ -70,7 +70,7 @@ But when evening rolls around and it's time to hit the town, where do you go?
 You gotta rock it!
 
 
-The old folks say that ya gotta end your date by 10, hm-hmm
+The old folks say that ya gotta end your date by 10, hm-hm
 But if you're out on a date don't you bring her home late 'cause it's a sin
 You know there's no excuse, you know you're gonna lose, you never win
 I'll say it again
@@ -85,7 +85,7 @@ You gotta rock it, rock it!
 
 Yeah, I pulled into a drive-in and found a place to park
 We hopped into the back seat where it's always nice and dark
-I'm just about to move, thinking "Hmm, Bret, this is a breeze!"
+I'm just about to move, thinking "Hm, Bret, this is a breeze!"
 Then there was a light in my eye and a guy says: "Outta the car, longhair!"
 Oo-wee
 You're coming with me

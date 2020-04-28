@@ -159,7 +159,7 @@ And now it's all just a shame and I guess I was wrong, uh
 
 
 Don't wanna think about it (No)
-Don't wanna talk about it (Hmm)
+Don't wanna talk about it (Hm)
 I'm just so sick about it
 Can't believe it's endin' this way
 Just so confused about it (Uh)
@@ -199,7 +199,7 @@ You should know that (Yeah)
 
 
 Don't wanna think about it (No)
-Don't wanna talk about it (Hmm)
+Don't wanna talk about it (Hm)
 I'm just so sick about it
 Can't believe it's endin' this way
 Just so confused about it (Uh)

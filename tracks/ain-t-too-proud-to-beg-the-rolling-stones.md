@@ -65,16 +65,10 @@ With no sense of pride
 But if I have to cry to keep you I don't mind weeping
 If it will keep you by my side
 
-
-
-
 If I have to sleep on your door step all night and day
 Just to keep you from walking away
 Let your friends laugh, even this I can stand
 Because I want to keep you anywhere I can
-
-
-
 
 Now I've got a love so deep in the pit of my heart
 And each day it grows more and more

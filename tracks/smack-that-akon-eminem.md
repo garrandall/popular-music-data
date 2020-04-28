@@ -153,7 +153,7 @@ Upfront style ready to attack now
 Pull in the parking lot slow with the lac down
 Convicts got the whole thing packed now
 Step in the club now and wardrobe intact now!
-I feel it down and cracked now (ooh)
+I feel it down and cracked now (oh
 I see it dull and backed now
 I'm gonna call her, than I pull the mack down
 Money no problem, pocket full of that now!
@@ -167,7 +167,7 @@ And possibly bend you over look back and watch me
 
 
 
-Ooh...Looks like another club banger
+Oh...Looks like another club banger
 They better hang on when they throw this thing on
 Get a little drink on
 They gonna flip for this Akon shit
@@ -206,8 +206,4 @@ I feel you creeping, I can see it from my shadow
 Wanna jump up in my Lamborghini Gallardo
 Maybe go to my place and just kick it like TaeBo
 And possibly bend you over look back and watch me
-
-
-
-
 

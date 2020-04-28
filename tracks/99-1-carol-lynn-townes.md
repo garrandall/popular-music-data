@@ -75,7 +75,7 @@ Gotta have all of your love
 Ninety-nine and a half won't do
 A part of you just ain't enough
 
-Won't do, do, do....
+Won't do, do, do...
 
 Ninety-nine and a half won't do
 Gotta have all of your love

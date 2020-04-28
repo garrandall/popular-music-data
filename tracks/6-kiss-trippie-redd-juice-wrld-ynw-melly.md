@@ -29,7 +29,7 @@ rankings:
 
 (I love Trippie Redd)
 
-Ohh, ohh
+Ohh, oh
 
 Pourin' up fours, mud in my cup
 Won't look at the past, it's behind us
@@ -47,7 +47,7 @@ They run when they see the gun in my hand
 Bullets like Twitter, they follow them
 
 Nut, my kids, she swallow them
-Ooh, yeah, she swallow them
+Oh, yeah, she swallow them
 Boy, your chain ain't solid gold your jeweler finessed, he hollowed them
 You niggas say they with' it, uh, we gon' Harry Potter him
 Make that lil' bitch disappear got VVS' in my ear

@@ -52,8 +52,8 @@ All my life I've been waiting for, I've been praying for
 For the people to say
 That we don't wanna fight no more, there'll be no more wars
 And our children will play
-One day (One day), one day (One day), one day (Oh-oh-ohh)
-One day (One day), one day (One day), one day (Oh-oh-ohh)
+One day (One day), one day (One day), one day (Oh-oh-oh)
+One day (One day), one day (One day), one day (Oh-oh-oh)
 
 
 It's not about win or lose, 'cause we all lose when they feed
@@ -75,17 +75,17 @@ For the people to say
 That we don't wanna fight no more (Fight no more)
 They'll be no more war (No more war)
 And our children will play
-One day (One day), one day (One day), one day (Oh-oh-ohh, one day)
-One day (One day), one day (One day), one day (Oh-oh-ohh)
+One day (One day), one day (One day), one day (Oh-oh-oh, one day)
+One day (One day), one day (One day), one day (Oh-oh-oh)
 
 
 One day this all will change, treat people the same
 Stop with the violence, down with the hate
 One day we'll all be free, and proud to be
 Under the same sun, singing songs of freedom like:
-Why-ohhh , why-ohh-ohh-ohh
+Why-oh , why-oh-oh-oh
 (One day, one day, oh-oh-oh)
-Why-ohhh, why-ohh-ohh-ohh
+Why-oh, why-oh-oh-oh
 (One day, one day, oh-oh-oh)
 
 
@@ -95,10 +95,10 @@ For the people to say (Ay-yay-yay-yay-yay-oh)
 That we don't wanna fight no more (Ay-yay-yay-yay-yay-oh)
 They'll be no more war
 And our children will play
-(Why-ohhh , why-ohh-ohh-ohh)
-One day (One day), one day (One day), one day (Oh-oh-ohh)
-(Why-ohhh , why-ohh-ohh-ohh)
-One day (One day), one day (One day), one day (Oh-oh-ohh)
+(Why-oh , why-oh-oh-oh)
+One day (One day), one day (One day), one day (Oh-oh-oh)
+(Why-oh , why-oh-oh-oh)
+One day (One day), one day (One day), one day (Oh-oh-oh)
 
 
 Ooo-ahoo, ah-yah-ahha

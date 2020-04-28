@@ -59,7 +59,7 @@ I'm so grateful,
 To have a man like you,
 Who knows what to do,
 Makes me feel like a woman should...
-Ooohh yeah...
+Oh yeah...
 
 
 When I close my eyes,
@@ -85,8 +85,4 @@ I feel so good
 No one loves me like you...
 
 When I close my eyes
-
-
-
-
 

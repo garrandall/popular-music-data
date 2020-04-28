@@ -81,9 +81,6 @@ No colours anymore, I want them to turn black
 I see the girls walk by dressed in their summer clothes
 I have to turn my head until my darkness goes
 
-
-
-
 I wanna see it painted, painted black
 Black as night, black as coal
 I wanna see the sun blotted out from the sky

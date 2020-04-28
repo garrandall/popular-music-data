@@ -68,10 +68,10 @@ rankings:
 ---
 
 
-Do you wanna ride with me (yeah, ooooooh)
-Do you wanna smoke my B (ooooooh)
+Do you wanna ride with me (yeah, oh
+Do you wanna smoke my B (oh
 Never can't you take my G's
-Myyyyyyyy.. (ooooooh)
+Myyyyyyyy.. (oh
 
 
 Ain't trippin got to split up the front
@@ -80,14 +80,14 @@ Your pager goin off (oh, that ain't nuttin)
 Meet me at the crib bout 2, stop frontin
 Blow to the bone as I clicked on somethin
 Tryin to cut me up, yeah the trick's on somethin
-The corner of the party where the niggaz stay bumpin
+The corner of the party where the niggas stay bumpin
 This is for the gin and the hen in my stomach
 I'm lookin at the do' females still comin
 Lookin to my left and the B's still comin
 Lookin to my right and the drinks still comin
 Tryin to shake the dice but the girl lookin cunnin
 Circlin the do' where the money start runnin
-Took a pause, hey y'all wassup 
+Took a pause, hey y'all wassup
 Hey Hummers in the double-R, is it a double car
 Pulled over to the car
 So I, asked Proceeds, to pass the B's, no bitch
@@ -161,10 +161,7 @@ While we smokin on Henny, Still Po Pimpin'
 
 
 Do you wanna ride, slip-slide in your thighs
-Oooh-oh, oooh-oh, oooh-ohhhhh
-
-
-
+Oh-oh, oh, ohoh
 
 Wooooh-ooahahhhohhhh!
 Do you wanna riiiiiiiiide with JP

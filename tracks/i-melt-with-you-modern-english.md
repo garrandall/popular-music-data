@@ -129,10 +129,10 @@ There's nothing you and I won't do
 I'll stop the world and melt with you
 
 The future's open wide
-Hmm hmm hmm
-Hmm hmm hmm hmm
-Hmm hmm hmm
-Hmm hmm hmm hmm
+Hm hm hm
+Hm hm hm hm
+Hm hm hm
+Hm hm hm hm
 
 
 I'll stop the world and melt with you

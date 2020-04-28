@@ -64,7 +64,7 @@ When we get married
 (We'll have a time)
 We'll have a time
 And darling
-We'll be, oh-so gay, hmmm
+We'll be, oh-so gay, hm
 (We'll have a ball)
 We'll have a ball
 (Dancing and all)

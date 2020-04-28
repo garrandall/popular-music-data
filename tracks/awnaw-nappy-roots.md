@@ -113,8 +113,8 @@ Nappy smokin' blacks out on the back po'ch
 I'm thinkin' I got everything a country boy could ask for
 
 
-Now what we do to get here? (Say dat boy!!)
-Lay it down and bring it to ya raw (Say dat boy!!)
+Now what we do to get here? (Say dat boy!)
+Lay it down and bring it to ya raw (Say dat boy!)
 Hey now we hurt some, suffered for more, takes what we work for
 Hated for for the cussin', but the hatred it made us cuss more
 Held on, but it was hard - stepped up, took charge

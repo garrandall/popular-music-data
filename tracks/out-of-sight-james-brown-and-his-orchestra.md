@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: out-of-sight-james-brown-and-his-orchestra
+lyrics_url: https://genius.com/James-brown-out-of-sight-lyrics
 name: Out Of Sight
 rankings:
 - end_date: '1964-08-21'
@@ -47,4 +48,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-17'
 ---
+You got your high-heeled sneakers on
+Slip-in mules
+You got your high-heeled sneakers on
+And your slip-in mules
+You're more than alright
+You know you're out of sight
+You got a shapely figure mama
+That's keepin' me uptight
+You got a shapely figure mama
+And keep me uptight
+You're too much
+You know you're out of sight
 
+Hey, the way you do the things you do
+The way you kiss me too
+The way you do the things you do
+The way you kiss me too
+A heart delight, that's what you are
+You know you're out of sight
+
+Ho, hey, hey
+
+You got a sweet disposition
+Ho, you're always right
+You got a sweet disposition
+You know you're always right
+You know just what you're doin' baby
+You know you're out of sight
+
+Ow, you're too much
+You're the end
+You're so hip baby
+You know just where it's at
+You're beautiful mama
+Most of all, you're honest
+There's no doubt, you're out of sight
+Out of sight, whoo, wee
+Out of sight

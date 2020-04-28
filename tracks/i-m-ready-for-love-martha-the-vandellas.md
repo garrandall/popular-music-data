@@ -57,7 +57,7 @@ For so long, I've been afraid to love
 But right now, I feel the need for love
 And you, you have a love
 A love I need, oh, to comfort me
-Ooh, and I'm ready for love
+Oh, and I'm ready for love
 I'm truly ready for love
 Your wonderful, sweet, sweet love
 Right now I'm ready for love
@@ -69,11 +69,11 @@ And for the first time I feel alone
 'Cause I need a love to call my own
 And only you, you have a love
 A love I need, oh, to comfort me
-Ooh, and I'm ready for love, I'm truly ready for love
+Oh, and I'm ready for love, I'm truly ready for love
 You know I'm ready for love
 Your wonderful sweet sweet love
 (I'm ready right now, I'm ready right now)
-Ooh, something wonderful has come over me
+Oh, something wonderful has come over me
 And fills this heart of mine with ecstasy
 I'm glad I've finally opened up my eyes
 And pushed the fear of love, the fear of love aside

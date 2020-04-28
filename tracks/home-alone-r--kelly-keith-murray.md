@@ -92,7 +92,7 @@ The party's over here and gettin' down, yeah
 Drinks everywhere
 Party in the hills
 Keepin' it real
-Parents out of town 
+Parents out of town
 Ladies all around
 Me and the crew doin' what we do
 
@@ -137,8 +137,4 @@ A reason to celebrate
 Now that we got the money, oh yeah
 We dance the night away
 Nothing but the hands up
-
-
-
-
 

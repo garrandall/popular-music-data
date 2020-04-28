@@ -126,7 +126,7 @@ Yah yah, yah yah yo yah yah...
 
 
 
-Yo 
+Yo
 
 And see, I lift up my eyes where my help come from
 And I seen it circling around from the mountain
@@ -147,7 +147,7 @@ Thunder!
 You feel it in your, I feel it in your,
 Thunder!
 You feel it in your, I feel it in your,
-Yo ho ho..ah!
+Yo ho ho...ah!
 ...
 Woo!
 

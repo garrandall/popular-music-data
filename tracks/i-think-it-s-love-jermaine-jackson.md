@@ -80,7 +80,7 @@ Not me because I'm an easy take
 When love is here to make like this
 I'll tell you that I'm a kissin' fool
 When under the magic of your kiss
-Oooh, not like one who finds the sweetest
+Oh, not like one who finds the sweetest
 But cannot believe that the best will do
 I tell you I know nobody else but you
 Can do for me what you do, baby
@@ -95,7 +95,7 @@ Whenever it's you with me
 I'm your sweet surrender
 If you'll stay in love eternally
 
-Oooh, I've no time for vacillating
+Oh, I've no time for vacillating
 Asking me if I am a happy man
 I tell you, I know, I know I am
 I got love, we've got love
@@ -111,7 +111,7 @@ I really do
 I think you feel, darling
 The same way, too
 
-Oooh, I've no time for vacillating
+Oh, I've no time for vacillating
 Asking me if I am a happy man
 I tell you, I know, I know I am
 I got love, we've got love

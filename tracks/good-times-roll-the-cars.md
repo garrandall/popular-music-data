@@ -97,7 +97,7 @@ Good times roll
 
 Let the good times roll
 Let the good times roll
-Ooh, let the good times roll
+Oh let the good times roll
 Let 'em roll (Good times roll)
 
 

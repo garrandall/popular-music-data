@@ -39,15 +39,15 @@ Let me know
 
 
 Can I someday finna find my time?
-Ooh, ooh, ooh
-Ooh, ooh, ooh (Yeah, finna find my time)
-Ooh, ooh, ooh (Oh yeah)
-Ooh, ooh, ooh
+Oh, oh, oh
+Oh, oh, oh (Yeah, finna find my time)
+Oh, oh, oh (Oh yeah)
+Oh, oh, oh
 Finna find my time, yeah
-Ooh, ooh, ooh
-Ooh, ooh, ooh (Someday finna find my time)
-Ooh, ooh, ooh
-Ooh, ooh, ooh (Oh yeah)
+Oh, oh, oh
+Oh, oh, oh (Someday finna find my time)
+Oh, oh, oh
+Oh, oh, oh (Oh yeah)
 
 
 Oh, I think I was in yesterday
@@ -69,15 +69,15 @@ Let me know
 
 
 Can I someday finna find my time?
-Ooh, ooh, ooh
-Ooh, ooh, ooh (Yeah, finna find my time)
-Ooh, ooh, ooh (Oh yeah)
-Ooh, ooh, ooh
+Oh, oh, oh
+Oh, oh, oh (Yeah, finna find my time)
+Oh, oh, oh (Oh yeah)
+Oh, oh, oh
 Finna find my time, yeah
-Ooh, ooh, ooh
-Ooh, ooh, ooh (Someday finna find my time)
-Ooh, ooh, ooh
-Ooh, ooh, ooh (Oh yeah)
+Oh, oh, oh
+Oh, oh, oh (Someday finna find my time)
+Oh, oh, oh
+Oh, oh, oh (Oh yeah)
 
 
 때론 나의 숨 막힐 때면
@@ -101,17 +101,17 @@ And you know
 
 
 Can I someday finna find my time?
-Ooh, ooh, ooh
-Ooh, ooh, ooh (Yeah)
+Oh, oh, oh
+Oh, oh, oh (Yeah)
 Can I someday finna find my time?
-Ooh, ooh, ooh
-Ooh, ooh, ooh (Woah, woah, woa, woah)
+Oh, oh, oh
+Oh, oh, oh (Woah, woah, woah, woah)
 Finna find my time (My time, yeah)
-Ooh, ooh, ooh
-Ooh, ooh, ooh (Oh yeah)
+Oh, oh, oh
+Oh, oh, oh (Oh yeah)
 Find my time
-Ooh, ooh, ooh (Someday finna find my time)
-Ooh, ooh, ooh (Oh whoa)
+Oh, oh, oh (Someday finna find my time)
+Oh, oh, oh (Oh whoa)
 
 
 Oh, oh, oh, oh, oh

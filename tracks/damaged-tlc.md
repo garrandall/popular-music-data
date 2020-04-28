@@ -90,11 +90,11 @@ It's nothing to you (It's nothing to you)
 
 My heart's at a low
 I'm so much to manage
-I think you should know that (Ooh I think you should know I've been damaged)
+I think you should know that (Oh I think you should know I've been damaged)
 I've been damaged (I've been damaged baby)
 I'm falling in love (Falling in love with you baby, yeah)
 There's one disadvantage
-I think you should know that I've been damaged 
+I think you should know that I've been damaged
 
 My heart's at a low
 I'm so much to manage

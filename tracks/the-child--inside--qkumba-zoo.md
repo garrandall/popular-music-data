@@ -66,9 +66,6 @@ Ne ho yehe yehe ha
 Ne ho ye yehe hiyo
 Ne ho ne ho neheya heyeh
 
-
-
-
 Who's that dancing
 Laughing, crying, living
 Every day by day by day by day

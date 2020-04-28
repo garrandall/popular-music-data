@@ -95,9 +95,6 @@ No, I can't get it out of my head
 Now my old world is gone for dead
 'Cause I can't get it out of my head, no no
 
-
-
-
 Bank job in the city
 Robin Hood and William Tell and Ivanhoe and Lancelot, they don't envy me
 Sitting till the sun goes down

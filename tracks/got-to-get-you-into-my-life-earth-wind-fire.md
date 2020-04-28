@@ -72,7 +72,7 @@ Another road where maybe
 I could see another sign there
 Oo, then I suddenly see you
 Oo, and did I tell you I need you
-Ev'ry single day of my life
+Every single day of my life
 
 You didn't run, you didn't lie
 You knew I wanna to hold you
@@ -90,7 +90,7 @@ Got to get you into my life
 
 Ooo, then I suddenly see you
 Ooo, and did I tell you that I need you
-Ev'ry single day of my life
+Every single day of my life
 
 Got to get you into my life
 Got to get you in, got to get you into my life

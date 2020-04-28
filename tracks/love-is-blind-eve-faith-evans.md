@@ -134,7 +134,3 @@ You could never figure out even if I let you live
 What our love was all about
 I considered her my blood and it don't come no thicker
 
-
-
-
-

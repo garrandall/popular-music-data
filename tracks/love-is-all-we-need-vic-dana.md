@@ -36,7 +36,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-22'
 ---
-(Love is, ooh, love is, ooh)
+(Love is, oh love is, oh
 
 Love is all we need
 So won't you take me
@@ -61,7 +61,7 @@ Our every dream come true
 So, love me, love me
 All we ever, ever need is love
 
-(Love is, love is, ahh)
+(Love is, love is, ah)
 
 Tell me we'll always
 Have each other

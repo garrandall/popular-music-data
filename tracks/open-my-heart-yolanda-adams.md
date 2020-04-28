@@ -89,8 +89,8 @@ rankings:
   start_date: '2001-01-06'
 ---
 
-Mmmmmm, ohhhhh, talk to me
-Ohhh, ohhh, ohhh, talk to me
+Mmm, oh, talk to me
+Ohhh, oh, oh, talk to me
 
 
 Alone in a room
@@ -106,7 +106,7 @@ And ask you for your guidance
 Especially today
 When my mind is so cloudy
 Guide me until I'm sure
-I open up my heart (ooo yes)
+I open up my heart (oo yes)
 
 
 My hopes and dreams

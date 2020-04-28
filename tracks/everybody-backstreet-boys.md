@@ -145,9 +145,6 @@ Rock your body right
 Backstreet's back, alright
 Alright!
 
-
-
-
 So everybody everywhere ah
 Don't be afraid, don't have no fear
 I'm gonna tell the world

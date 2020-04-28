@@ -117,8 +117,8 @@ To worry 'bout tomorrow
 Here's a place where we both belong
 I know you're the only woman that I'm dreamin' of
 You're the only woman that I really love
-I said you're the only woman that i really love
-You're the only woman that i really love
+I said you're the only woman that I really love
+You're the only woman that I really love
 
 
 Oh Don't speak, Ssssh …
@@ -130,7 +130,7 @@ I'll put my lovin' arms around you
 Take you far from this place and time
 
 
-Because you and i been in love too long
+Because you and I been in love too long
 To worry 'bout tomorrow
 Here's a place where we both belong
 I know you're the only woman I’ve been dreamin' of

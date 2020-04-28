@@ -118,9 +118,6 @@ But if I looked the other way
 Then I couldn't have known
 What I've been missing all along
 
-
-
-
 With all that
 I know
 Still this

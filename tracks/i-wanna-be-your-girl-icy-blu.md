@@ -184,7 +184,7 @@ And if I was your girl
 You would always be my world
 Boy, I won't let you go
 I wanna be your world
-(Ooh, yeah)
+(Oh, yeah)
 
 Thinking while I'm looking out the window
 As time passes on my feelings grow

@@ -71,7 +71,7 @@ Clean
 Dope system kickin'
 Ladies in the back
 With the popsicle lickin'
-(Ooh, I love you, Doo Doo)
+(Oh, I love you, Doo Doo)
 
 Buffed up wax back
 Armor All down

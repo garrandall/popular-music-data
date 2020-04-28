@@ -92,7 +92,7 @@ Just ask and I'll do (ask and I will do)
 I'll do it for you (I'll do it just for you)
 There'll be no more games that we'll play
 
-Ooh la lala la la lala la la lala la
+Oh la lala la la lala la la lala la
 
 
 Tonight is the night (the night)
@@ -120,7 +120,7 @@ And you made me realize (made me realize)
 I knew you were the one
 After all was said and done
 Baby let me tell you (yeah yeah yeah yeah yeah)
-That I want you by my side (ooh ooh ooh)
+That I want you by my side (oh oh oh)
 
 
 Girl you for me (yeah yeah yeah yeah)
@@ -131,7 +131,7 @@ I'll do it for you (I'll do it just for you)
 There'll be no more games that we play
 
 
-Hmm I'm feeling real freaky tonight
+Hm I'm feeling real freaky tonight
 (I wanna freak ya come on)
 I wanna see who make who scream first
 (can you make me scream, can you make me scream)

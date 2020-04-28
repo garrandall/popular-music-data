@@ -88,7 +88,3 @@ I thought I knew him but I couldn't say.
 I stopped to think if I could place his frame.
 When he tipped his hat I knew his name.
 
-
-
-
-

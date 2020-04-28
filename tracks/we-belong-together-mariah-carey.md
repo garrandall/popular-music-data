@@ -180,7 +180,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-02-04'
 ---
-Ooh, oh oh
+Oh oh oh
 Sweet love, yeah
 
 

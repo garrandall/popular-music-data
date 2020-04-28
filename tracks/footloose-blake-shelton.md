@@ -17,10 +17,10 @@ rankings:
   start_date: '2011-12-03'
 ---
 
-Ooooh-oh-oh
-Ooooh-oh-oh
+Oh-oh-oh
+Oh-oh-oh
 Yeah
-Ooooh-oh-oh
+Oh-oh-oh
 Ooooo-oh-oh
 Ooooo-oh-oh
 
@@ -55,13 +55,13 @@ Oo-wee Marie, shake it, shake it for me
 Woah, Milo, come on, come on let's go
 Lose your blues, everybody cut footloose.
 
-Ooooh-oh-oh
+Oh-oh-oh
 (Cut footloose)
-Ooooh-oh-oh
+Oh-oh-oh
 (Cut footloose)
-Ooooh-oh-oh
+Oh-oh-oh
 (Cut footloose)
-Oooooooooh
+Oh
 
 We've got to turn you around
 And put your feet on the ground

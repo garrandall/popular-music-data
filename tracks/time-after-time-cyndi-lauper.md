@@ -125,9 +125,6 @@ Time after time
 If you fall, I will catch you, I'll be waiting
 Time after time
 
-
-
-
 You said, "Go slow." I fall behind
 The second hand unwinds
 

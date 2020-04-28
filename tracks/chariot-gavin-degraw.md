@@ -93,7 +93,7 @@ Staring at a maple leaf
 Leaning on the mother tree
 I said to myself we all lost touch
 Your favorite fruit is chocolate covered cherries
-And seedless watermelon ohhhh
+And seedless watermelon oh
 Nothing from the ground is good enough
 Body rised
 It puts over me
@@ -123,8 +123,4 @@ You know what I want
 Holding that cup,
 It's pouring over the sides
 Make me wanna spread my arms and fly
-
-
-
-
 

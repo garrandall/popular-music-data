@@ -79,9 +79,9 @@ So come on now
 Girl, speak your peace
 Speak your peace
 
-Voice your choice (Ooh, tell me who do you love)
+Voice your choice (Oh, tell me who do you love)
 Voice your choice (Oh, girl, yeah)
-Voice your choice (Ooh, girl, yeah)
+Voice your choice (Oh, girl, yeah)
 
 Tell me, girl, what you're gonna do
 And tell me what you are trying to prove
@@ -90,7 +90,7 @@ No, when one will do
 So come on now, say it's me and you
 Me and you
 
-Voice your choice (Ooh, tell me who do you love)
+Voice your choice (Oh, tell me who do you love)
 Voice your choice (Oh, girl, yeah)
-Voice your choice (Ooh, girl, yeah)
-Tell me who do you love (Ooh, tell me who do you love)
+Voice your choice (Oh, girl, yeah)
+Tell me who do you love (Oh, tell me who do you love)

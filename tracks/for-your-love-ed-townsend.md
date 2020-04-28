@@ -16,11 +16,11 @@ For your love, oh, I would do anything
 I would do anything, for your love
 
 For your kiss
-(Ahh, ahh, ahh, ahh)
+(Ah, ah, ah, ah)
 Oh, I would go anywhere
-(Ahh, ahh, ahh, ahh)
+(Ah, ah, ah, ah)
 I would go
-(Ahh, ahh, ahh, ahh)
+(Ah, ah, ah, ah)
 Anywhere, for your kiss
 
 More foolish I grow
@@ -29,12 +29,12 @@ But we all get foolish
 That's why I repeat
 
 For your love
-(Ahh, ahh, ahh, ahh)
+(Ah, ah, ah, ah)
 Oh, I would do anything
-(Ahh, ahh, ahh, ahh)
+(Ah, ah, ah, ah)
 I would do anything, for your kiss
 
 I would do anything, for your love
 (Anything, anything, anything)
 For your love
-(Ahh, ahh, ahh, ahh, ahh, ooh)
+(Ah, ah, ah, ah, ah, oh)

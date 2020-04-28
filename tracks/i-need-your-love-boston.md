@@ -75,9 +75,6 @@ I've waited for so long
 I saw the chance to run and had to take it
 But something's missing and I know it's wrong
 
-
-
-
 I've passed the point of no return
 And all the tears have dried
 Don't want to stop and watch the bridges burn

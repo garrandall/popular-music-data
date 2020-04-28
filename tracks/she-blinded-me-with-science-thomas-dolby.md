@@ -130,7 +130,7 @@ Failed me in geometry
 When she's dancing next to me
 (Blinding me with science, science)
 (Science!)
-(Hmm hmm, hmm hmm, hmm)
+(Hm hm, hm hm, hm)
 I can hear machinery
 (Blinding me with science, science)
 (Science!)

@@ -92,7 +92,7 @@ Actually I just bought a house, I get it in then walk them out
 
 I done got them dreads braided up, hair long, long
 And I'm with a red don, that don't want to leave her thong on
-Its too big, its too wide, it wont fit but
+Its too big, its too wide, it won't fit but
 
 I get it in, I get it in
 I get it in, I get up in the game

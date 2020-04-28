@@ -271,7 +271,7 @@ Sink me in the river at dawn
 Send me away with the words of a love song
 
 
-Ooh, ooh, the ballad of a dove
+Oh, oh, the ballad of a dove
 Go with peace and love
 Gather up your tears, keep 'em in your pocket
 Save 'em for a time when you're really gonna need 'em

@@ -43,7 +43,7 @@ Parties in Chelsea flats,
 Mixing with kinky cats,
 Are games I wanna play some more.
 
-Ooh, what they're doing to me,
+Oh what they're doing to me,
 Darling it's so plain to see,
 My temperature's rising,
 But that's not surprising,
@@ -54,7 +54,7 @@ I found out there are other joys,
 Marjory, Josephine, Susie and Catherine,
 They help me in my little games.
 
-Ooh, what they're doing to me,
+Oh what they're doing to me,
 Darling it's so plain to see,
 My temperature's rising,
 But that's not surprising,

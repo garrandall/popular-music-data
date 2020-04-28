@@ -69,7 +69,3 @@ Such perfect strangers are we
 Is this how it will end?
 Just a sad story
 
-
-
-
-

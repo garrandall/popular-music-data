@@ -89,9 +89,6 @@ Tick-tock-tick, riding the clock
 Beat it, beat it, beat it bad, let me show you what I've got
 I ain't Snoop Dogg, but I'mma drop it like it's hot
 
-
-
-
 OK, open up your Bubba Gump, let me see your bumper
 The booty so smooth, can't believe is not butter
 I go in from under, she wetter than a surfer
@@ -109,8 +106,4 @@ I'm trying to get into you, into you
 Then make you my enemy
 Not playing, got the bitch mad
 Me don't like flat screen, ass I need a 3D
-
-
-
-
 

@@ -105,9 +105,6 @@ Her voice was soft and cool
 Her eyes were clear and bright
 But she's not there
 
-
-
-
 But it's too late to say you're sorry
 How would I know, why should I care?
 Please don't bother trying to find her

@@ -26,7 +26,7 @@ You make it easier when life gets hard
 I'm lucky I'm in love with my best friend
 Lucky to have been where I have been
 Lucky to be coming home again
-Ooohh ooooh oooh oooh ooh ooh ooh ooh
+Oh oh ohhohoh oh
 
 They don't know how long it takes
 Waiting for a love like this
@@ -58,8 +58,8 @@ I'm lucky we're in love in every way
 Lucky to have stayed where we have stayed
 Lucky to be coming home someday
 
-Ooohh ooooh oooh oooh ooh ooh ooh ooh
-Ooooh ooooh oooh oooh ooh ooh ooh ooh
+Oh oh ohhohoh oh
+Oh oh ohhohoh oh
 
 
 

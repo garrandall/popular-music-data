@@ -105,8 +105,8 @@ On you acting like whatever I will always
 Be around 'cause you think that you
 Something like a pimp you can hang in
 These streets and it will be all right with
-Me, ohh baby, now you got me waiting
-But I can't keep waiting on you, ohh
+Me, oh baby, now you got me waiting
+But I can't keep waiting on you, oh
 Look at me and tell me now if I can be the last one that that
 You think about thinking you, can keep running out my life
 My life my life why is it's so hard for you to pick up the phone

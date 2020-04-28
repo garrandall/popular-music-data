@@ -118,7 +118,7 @@ Huh? Huh?! Come on!
 
 I do
 Any and everything you want to
-Make your girl say, "Oooh, oooh
+Make your girl say, "Oh, oh
 Why is he so fly-I-I?"
 She beeps me
 Ever since she wanna get freaky
@@ -165,7 +165,7 @@ And I'm in control
 
 Don't check me
 It was your girl who let me
-Take it this far, then, ooh wee!
+Take it this far, then, oh wee!
 Let her have it every chance that she could get
 What, you think you a baller?
 And I ain't gon' call her, clip that

@@ -139,7 +139,7 @@ So give your baby
 Baby, baby, a standing ovation
 And she's sure to give a hand to you
 
-I dont know about you
+I don't know about you
 But I'm gonna give my baby
 A standing ovation
 And she's sure to give a hand to you

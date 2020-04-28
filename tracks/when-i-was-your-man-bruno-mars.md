@@ -154,7 +154,7 @@ When our friends talk about you, all it does is just tear me down
 'Cause my heart breaks a little when I hear your name
 
 
-It all just sounds like oooooh ooh
+It all just sounds like oh
 Mmm, too young, too dumb to realize
 
 
@@ -174,7 +174,7 @@ Now I'll never, never get to clean up the mess I made (oh)
 And it haunts me every time I close my eyes
 
 
-It all just sounds like oooooh ooh
+It all just sounds like oh
 Mmm, too young, too dumb to realize
 
 

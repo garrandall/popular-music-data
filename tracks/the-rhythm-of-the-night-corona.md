@@ -158,7 +158,7 @@ The rhythm of my life
 
 
 This is the rhythm of the night
-Ooooh-oooooh
+Oh-oh
 This is the rhythm of the night
 
 

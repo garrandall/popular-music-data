@@ -71,7 +71,3 @@ I was feeling low.
 Now everytime I think of you
 I shiver to the bone...
 
-
-
-
-

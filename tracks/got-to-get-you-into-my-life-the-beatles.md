@@ -78,8 +78,8 @@ Another road where maybe I
 Could see another kind of mind there
 
 
-Ooh, then I suddenly see you
-Ooh, did I tell you I need you
+Oh, then I suddenly see you
+Oh, did I tell you I need you
 Every single day of my life?
 
 
@@ -89,8 +89,8 @@ And had you gone, you knew in time
 We'd meet again, for I had told you
 
 
-Ooh, you were meant to be near me
-Ooh, and I want you to hear me
+Oh, you were meant to be near me
+Oh, and I want you to hear me
 Say we'll be together every day
 
 
@@ -103,8 +103,8 @@ If I'm true, I'll never leave
 And if I do, I know the way there
 
 
-Ooh, then I suddenly see you
-Ooh, did I tell you I need you
+Oh, then I suddenly see you
+Oh, did I tell you I need you
 Every single day of my life
 
 

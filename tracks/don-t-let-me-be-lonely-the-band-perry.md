@@ -94,7 +94,7 @@ So don't let me be, let me be, let me be lonely tonight
 While we're young and alive
 Take the keys to my car and the keys to my heart and just drive
 Oh, don't let me, let me be lonely
-Ooh
+Oh
 
 
 Well, the night rolls on like a long lost friend
@@ -129,4 +129,4 @@ Oh, don't let me, let me be lonely
 Don't let me be lonely (Let me be lonely)
 Don't, don't let me be lonely (Let me be lonely)
 Oh, no, don't let me be
-Ooh, oh, lonely
+Oh, oh, lonely

@@ -89,10 +89,6 @@ They're gonna get hot down in the U.S.A. (New York, Detroit, L.A.)
 We're gonna take a trip across the sea, everybody come along with me
 We're gonna hit the night down in gay Pareee
 
-
-
-
-
 London, Hamburg, Paris, Rome, Rio, Hong Kong, Tokyo
 L.A., New York, Amsterdam, Monte Carlo, Shard End and
 
@@ -104,7 +100,7 @@ Everybody gonna have a good time, everybody will shine till the daylight
 
 
 
-All over the world, everybody got the word 
+All over the world, everybody got the word
 
 
 

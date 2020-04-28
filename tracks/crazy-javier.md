@@ -41,7 +41,7 @@ rankings:
   start_date: '2003-10-18'
 ---
 
-Hmmmmmmmm......hey yea hey...hoooooowhooo....baby,
+Hm...hey yea hey...hoooooowhooo...baby,
 
 
 Kind of like a summer's breeze,
@@ -63,7 +63,7 @@ Can't try to fight it,
 won't even try to hide it,
 emotions falling down like the rain,
 I can't find the words to explain it,
-ain't it, crazy how i fall,
+ain't it, crazy how I fall,
 everytime you call my name.
 
 

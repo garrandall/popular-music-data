@@ -88,7 +88,7 @@ I am forever we are born to make
 Promises to be there
 (Promises to be there)
 Promises to be there
-Yeah...Yeah...Yeeeeeeeeah
+Yeah...Yeah...Yeah
 (Die away)
 I am the love don't let me die away
 I am forever we are born to make
@@ -104,7 +104,7 @@ Promises to be there
 Promises
 Promises to be there
 Promises
-Promises...Aaaah!
+Promises...Ah!
 
 
 

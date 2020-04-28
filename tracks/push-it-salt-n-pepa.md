@@ -113,9 +113,9 @@ Ah, push it
 
 (Hit it)
 
-Oooh, baby, baby
+Oh, baby, baby
 Baby, baby
-Oooh, baby, baby
+Oh, baby, baby
 Baby, baby
 
 Get up on this!
@@ -152,9 +152,9 @@ Ah, push it - p-push it real good
 Hey! Ow!
 Push it good!
 
-Oooh, baby, baby
+Oh, baby, baby
 Baby, baby
-Oooh, baby, baby
+Oh, baby, baby
 Ba-baby, baby
 
 Push it good

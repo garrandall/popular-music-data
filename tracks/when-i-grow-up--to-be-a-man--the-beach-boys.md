@@ -62,7 +62,7 @@ Will I settle down fast or will I first want to travel the world?
 Well, I'm young and free, but how will it be
 When I grow up to be a man?
 
-Ooh, ooh, ooh
+Oh, oh ooh
 Will my kids be proud or think their old man's really a square?
 (18, 19)
 When they're out having fun, yeah, will I still wanna have my share?

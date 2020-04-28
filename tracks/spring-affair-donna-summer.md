@@ -67,11 +67,11 @@ rankings:
 
 Spring affair
 
-Ooh, something's coming over me
-Ooh, I think it's got a hold on me, it's got me, it's got me
+Oh something's coming over me
+Oh I think it's got a hold on me, it's got me, it's got me
 
-Ooh, just the man I hoped you'd be
-Ooh, just the man to set me free, you got me, you got me
+Oh just the man I hoped you'd be
+Oh just the man to set me free, you got me, you got me
 You got me, you got me
 
 Spring affair, spring affair, spring affair
@@ -79,11 +79,11 @@ And I'm hung on you
 Spring affair, spring affair, spring affair
 And we've got something new, me and you, oh baby
 
-Ooh, guess I'm falling much too fast
-Ooh, I hope this love is gonna last, I've fallen
+Oh guess I'm falling much too fast
+Oh I hope this love is gonna last, I've fallen
 
-Ooh, the feeling's getting really strong
-Ooh, gives me strength to carry on, I've fallen, I've fallen
+Oh the feeling's getting really strong
+Oh gives me strength to carry on, I've fallen, I've fallen
 
 Spring affair, spring affair, spring affair
 And I'm hung up on you
@@ -93,20 +93,20 @@ And we've got something new
 It's a spring affair
 It's a spring affair
 
-Oooh, ooh, ooh
+Oh, oh, oh
 
 Spring affair, spring affair, spring affair
 And I'm hung up on you
 Spring affair, spring affair, spring affair
 And we've got something new
 
-Uuuh uhh aah,.. oh yeah...
+Uuuh uhh ah,.. oh yeah...
 
-Ooh, you're the sunshine in my life
-Ooh, how you come on shining bright, you got me
+Oh you're the sunshine in my life
+Oh how you come on shining bright, you got me
 
-Ooh, feeling's gonna grow and grow
-Ooh, let your loving river flow, you got me, you got all of me
+Oh feeling's gonna grow and grow
+Oh let your loving river flow, you got me, you got all of me
 
 Spring affair, spring affair, spring affair
 And I'm hung up on you

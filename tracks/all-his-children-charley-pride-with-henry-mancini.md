@@ -1,7 +1,8 @@
 ---
 artists:
-- Charley Pride with Henry Mancini
-features: []
+- Charley Pride
+features:
+- Henry Mancini
 genres: []
 key: all-his-children-charley-pride-with-henry-mancini
 name: All His Children

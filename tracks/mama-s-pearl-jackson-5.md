@@ -58,7 +58,7 @@ But don't you know that lovin' is the spice of life, yeah.
 Mama's pearl, let down those curls
 Let me give my love a whirl
 Find what you been missing (what you been missing)
-Ooh ooh now baby
+Oh oh now baby
 
 Goody girl, let down those curls
 Let me give your heart a twirl
@@ -70,14 +70,14 @@ Bum ba bum ba bum ba bum bum bum)
 
 You want my lovin' yes you do do do (Yes you do, I know you do)
 Know my lovin' is true true true now baby (Oh baby)
-But your conscience tells you that love is wrong (Love is wrong, ooh)
+But your conscience tells you that love is wrong (Love is wrong, oh)
 But don't you know that lovin' never hurt no one, oh.
 
 
 
 Let it all hang out (Girl don't be afraid
 Oh we've got the first step made
-Ooh, the rest is up to you
+Oh, the rest is up to you
 Here is what you do, let yourself go)
 Let yourself just go, now now now
 Let your lovin' flow, now now now

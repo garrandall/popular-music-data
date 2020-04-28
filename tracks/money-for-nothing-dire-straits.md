@@ -105,9 +105,6 @@ I want my MTV
 I want my...
 I want my MTV
 
-
-
-
 Now look at them yo-yo's, that's the way you do it
 You play the guitar on the MTV
 That ain't workin', that's the way you do it
@@ -201,9 +198,6 @@ Easy, easy money for nothin'
 Money for nothin' (I want my, I want my)
 Chicks for free (I want my MTV)
 That ain't workin'
-
-
-
 
 Money for nothin', chicks for free
 Money for nothin', chicks for free

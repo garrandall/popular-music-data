@@ -38,7 +38,7 @@ Make just one, someone happy
 And you will be happy too!
 
 Fame, if you win it
-Comes an' goes in a minute . . 
+Comes an' goes in a minute . .
 
 Where's the 'real-stuff' in life to cling to?
 Love, is the answer
@@ -49,9 +49,9 @@ Make, someone happy
 Make just one, someone happy
 And you will be happy too!
 
-You'll be happy too . . 
-You'll be happy too . . 
-Hmmm . . 
+You'll be happy too . .
+You'll be happy too . .
+Hm . .
 
 Do, do do do do, do!
 Do, do do do do, do!

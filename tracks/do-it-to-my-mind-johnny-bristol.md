@@ -59,7 +59,7 @@ Soon it's love we'll be making
 
 Let's share our deepest secrets
 And find the place that's weakest
-And linger, mmmm
+And linger, mmm
 
 Oh, baby, do it to my mind
 I betcha that'll get it

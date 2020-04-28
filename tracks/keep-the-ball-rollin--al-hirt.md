@@ -23,7 +23,7 @@ And get by with just one little kiss
 The kissin' you do
 I need a second helping to
 When you light the fire in my heart
-And ev'ry part of me is burning for you
+And every part of me is burning for you
 
 You got to put your lips closer to mine
 Girl, you got to follow it thru
@@ -38,7 +38,7 @@ And just Keep the ball rollin' baby
 Right into my heart
 
 Half of a loaf isn't better than none when I'm starvin' for you
-Don't hold me tight if ev'ry night we stop at two
+Don't hold me tight if every night we stop at two
 If you want me there when you call
 Then girl it's all or nothing next time you do
 

@@ -54,7 +54,7 @@ Excuse me but I need a mouth like yours
 Funny but it seems that you're alone like me
 If you r go let's come see what we can see
 
-Ooh, little darlin' if you're
+Oh little darlin' if you're
 Free 4 a couple of hours (Free 4 a couple of hours)
 If you ain't busy 4 the next 7 years (Next 7 years)
 Say, let's pretend we're married and go all night
@@ -62,7 +62,7 @@ There ain't nothin' wrong if it feels all right
 I won't stop until the morning light
 Let's pretend we're married and go all night, tonight
 
-Ooh-we-sha-sha-coo-coo-yeah
+Ohwe-sha-sha-coo-coo-yeah
 All the hippies sing together
 
 Excuse me but I need your chemistry
@@ -70,7 +70,7 @@ Don't you wanna be my fantasy?
 My girl's gone and she don't care at all
 And if she did - So what? C'mon baby, let's b-b-ball
 
-Ooh little darlin' if you're
+Ohlittle darlin' if you're
 Free 4 a couple of hours (Free 4 a couple of hours)
 If you ain't busy 4 the next 7 years (Next 7 years)
 Oh I say let's pretend we're married and go all night
@@ -78,7 +78,7 @@ There ain't nothin' wrong if it feels all right
 I won't stop until the morning light
 Let's pretend we're married and go all night, tonight
 
-Ooh-we-sha-sha-coo-coo-yeah
+Ohwe-sha-sha-coo-coo-yeah
 All the hippies sing together
 
 Let's just pretend we're married, tonight
@@ -89,24 +89,24 @@ Let's pretend we're married and do it all night
 I won't stop until the morning light
 
 Let's pretend we're married and go all night
-Ooh, little darlin' if you're
+Oh little darlin' if you're
 Free 4 a couple of hours (Free 4 a couple of hours)
 If you ain't busy 4 the next 7 years (Next 7 years)
 Oh darlin', let's preted we're married and go all night
 There ain't nothin' wrong if it feels all right
 I won' stop until the morning light
 Let's pretend we're married and go all night, tonight
-(Ooh-we-sha-sha-coo-coo-yeah)
+(Ohwe-sha-sha-coo-coo-yeah)
 Pretend we're married
 Let's pretend we're married
 
-Ooh-we-sha-sha-coo-coo-yeah
+Ohwe-sha-sha-coo-coo-yeah
 All the hippies sing together
-Ooh-we-sha-sha-coo-coo-yeah
+Ohwe-sha-sha-coo-coo-yeah
 Oh everybody yeah
-Ooh-we-sha-sha-coo-coo-yeah
+Ohwe-sha-sha-coo-coo-yeah
 All the hippies sing together
-Ooh-we-sha-sha-coo-coo-yeah
+Ohwe-sha-sha-coo-coo-yeah
 Yeah, yeah
 My girl's gone and she don't care at all
 And if she did - So what? C'mon baby, let's ball

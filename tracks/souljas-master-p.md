@@ -40,10 +40,10 @@ I'm Uptown on the blocks with the bricks ba-bayyy
 Fiends roll up and get fixed ba-bayyy
 Fifties and doves or the bic ba-bayyy
 Smoke weed with my nigga but don't trick ba-bayyy
-Now if you step to one of my niggaz, then you steppin to me
+Now if you step to one of my niggas, then you steppin to me
 I heard you famous cat, but you don't mean shit to me
 I'm out that C-P-3 and I'm a soulja for life
-And all my real niggaz wild out from left to the right
+And all my real niggas wild out from left to the right
 
 
 
@@ -81,7 +81,7 @@ THIS NO LIMIT ARMY'S WHO YOU FUCKIN WIT!
 Wild out.. wild out.. No Limit is in and y'all out
 Wild out.. wild out.. so y'all haters keep our name
 out y'all motherfuckin mouth, hahah you heard me?
-Ride ride niggaz (ride ride) Lah lah 
+Ride ride niggas (ride ride) Lah lah
 (ALL THE WAY TO THE MOTHERFUCKIN TOP OF THE CHARTS YA HEARD ME?)
 DJ's.. hut one, hut two.. hut one, hut two
 Hut one, hut two..

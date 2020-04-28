@@ -53,9 +53,6 @@ If he needs a third eye he just grows it
 He just needs you to talk or to hand him his chalk
 Or pick it up after he throws it
 
-
-
-
 Why does he look so righteous while your face is so changed
 Are you frightened of the box you keep him in
 While his genocide fools and his friends rearrange

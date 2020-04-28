@@ -84,7 +84,7 @@ Whatup?  Whatup?  I got mine and you got yours
 War's a factor, we'll perspire
 And someone in the crowd yells, "Fire! Fire!"
 "We don't need no water, let it burn, yo, burn, yo!
-"We don't need no water let it burn...." so it burnt
+"We don't need no water let it burn..." so it burnt
 Learn your lesson well, if I don't then I guess you get gelled
 Swell, heads go down like the sun
 And here it comes

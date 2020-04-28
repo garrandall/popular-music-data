@@ -37,9 +37,9 @@ rankings:
   start_date: '1965-12-18'
 ---
 (I really love you)
-(Baby baby yes i do)
+(Baby baby yes I do)
 (I really love you)
-(Baby baby yes i do)
+(Baby baby yes I do)
 
 I can't get used to
 Not having you to
@@ -51,25 +51,25 @@ Because
 (I really love you)
 Yes I do
 
-(Baby baby yes i do)
+(Baby baby yes I do)
 
 Ain´t no use denying
 I'm doin a lot of crying
 Over you
 Sweetie, sweetie, tell me tell me
-Where did i go wrong
+Where did I go wrong
 Because...
 
 (I really love you)
 Yes I do
 
-(Baby baby yes i do)
+(Baby baby yes I do)
 (I really love you)
 
 Baby baby
 Oh yes I do
 
-(Baby baby yes i do)
+(Baby baby yes I do)
 
 I really miss you
 Since you been gone

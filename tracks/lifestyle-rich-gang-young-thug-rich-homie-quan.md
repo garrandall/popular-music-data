@@ -162,8 +162,8 @@ I just might wake wantin' Chanel and these bitches can't see me (Woo)
 I'm in a whole other league (Rich Gang)
 I ain't got AIDS but I swear to God I would bleed (Suwoop)
 'Til I D.I.E (Brrat)
-28 floors up I feel like I could F.L.Y.E.E (Ooh)
-Pee on top of these bitches (Ooh)
+28 floors up I feel like I could F.L.Y.E.E (Oh
+Pee on top of these bitches (Oh
 God told me they can never stop me so they ain't gon' stop me
 I'm in that Corvette with baby mommy gettin' sloppy toppy (Skrrt, skrrt, woo)
 I'm bleedin' red like a devil, I see these bitches plotting
@@ -186,7 +186,7 @@ Thugga Thugger, that's my brother, brother (Thugger, Thugger)
 You don't want no trouble trouble or you can get these fists, knuckle, knuckle (Hey)
 Buckle up like a seatbelt or I'll shoot ya (Fuh fuh)
 Punchin' on the gas (Skrrt), too fast, and I lose ya (Hey)
-Give me a bed, and I'll do her (Hey), I want her head, Medusa (Ooh)
+Give me a bed, and I'll do her (Hey), I want her head, Medusa (Oh
 I swear a nigga gone 'cause this strong I'm blowin' super (OG, nigga)
 Ayy, grindin' for a new day (What you doin'?)
 I'm skatin', like that nigga Lupe (Swear to God)

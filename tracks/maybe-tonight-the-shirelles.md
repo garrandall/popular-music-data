@@ -28,7 +28,6 @@ Maybe tonight (maybe maybe, maybe tonight)
 Maybe tonight (maybe baby, maybe baby)
 
 Tonight could be the night when you say things you never told me
-(Chorus)
 
 I've tried so hard to show you how I care
 Every chance I get, oh yeah

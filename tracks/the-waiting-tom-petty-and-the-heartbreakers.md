@@ -113,8 +113,8 @@ The waiting is the hardest part
 Yeah, the waiting is the hardest part
 
 
-Ooh
+Oh
 Is the hardest part
-Ooh
+Oh
 Is the hardest part
-Ooh
+Oh

@@ -65,7 +65,7 @@ rankings:
   start_date: '1990-02-24'
 ---
 Now normally if I can help But I don't spend a lot of time in a principal's office
-(RING!!!)
+(RING!)
 What?
 9'o clock
 

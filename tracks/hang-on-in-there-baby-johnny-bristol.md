@@ -76,14 +76,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-10-19'
 ---
-Hmmm, hmmm
+Hm, hm
 Yeah
-Oh Baby, hmmm
+Oh Baby, hm
 Hang on in there, baby
 (Give me love tonight)
-Don't be afraid, baby, ooooh
+Don't be afraid, baby, oh
 
-You know we can't help but make it, ooh my love
+You know we can't help but make it, oh my love
 You know we can't help but make it
 Now that we've caressed a kiss so warm and tender
 I can't wait till we reach that sweet moment of surrender
@@ -93,11 +93,11 @@ At a point we'll both decide to meet at the same time tonight
 Hang on in there baby, hang on in there darling
 I'm gonna give you more than you ever dreamed possible
 
-Don't be afraid baby, oooh no
+Don't be afraid baby, oho
 Sweet virgin of the world
 You know we can't help but make it
 'Cos there's true love between us girl
-Hmmm! so let us touch that cloud
+Hm! so let us touch that cloud
 That everyone dreams of
 Oh! we're almost there darling truly making love
 
@@ -110,7 +110,7 @@ And it's hard to get away (hard to get away)
 Oh don't fight it baby just open up the door
 'Cos that's the key to the freedom
 That we've both been working for
-Let it go baby, let it go darling, oooh
+Let it go baby, let it go darling, oh
 Right there, right there
 Baby don't you move it don't you dare
 Go baby let it go honey oh right there baby

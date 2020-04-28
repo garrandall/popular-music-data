@@ -63,30 +63,30 @@ its a circus game with you and me
 I'm up on the tightrope
 one side's hate and one is hope
 but the tophat on my head is all you see
-And the wire seems to be 
+And the wire seems to be
 the only place for me
 a comedy of errors
 and I'm falling
 
-Like a rubber-neck giraffe 
+Like a rubber-neck giraffe
 you look into my past
 well maybe you're just to blind to - see
 I'm up in the spotlight
-ohh does it feel right
-ohh the altitude 
+oh does it feel right
+oh the altitude
 seems to get to me
 
 I'm up on the tightwire
 flanked by life and the funeral pyre
-putting on a show 
+putting on a show
 for you to see
 
-Like a rubber-neck giraffe 
-you look into my past 
+Like a rubber-neck giraffe
+you look into my past
 well maybe you're just too blind to - see
-I'm up in the spotlight 
-ohh does it feel right
-ohh the altitude
+I'm up in the spotlight
+oh does it feel right
+oh the altitude
 really gets to get to me
 
 I'm up on the tightwire

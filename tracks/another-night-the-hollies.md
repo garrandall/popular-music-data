@@ -48,7 +48,3 @@ The same thing every week on my own
 Next time around you might be there
 My luck might change but until then
 
-
-
-
-

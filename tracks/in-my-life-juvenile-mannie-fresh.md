@@ -84,7 +84,7 @@ lil children, dogs and cats
 right now, you are listening to the incredible drum patterns of
 DJ Mannie Fresh
 
-LADIES AND GENTLEMEN !
+LADIES AND GENTLEMEN!
 
 
 Mannie: I'm a buy cars, I'm a get clothes, I'm a rock jewels,
@@ -125,18 +125,15 @@ Don't you see the Soldiers and Bauds when I appear mon' (appear mon')
 About being written on my face cuz I don't fear none (don't fear none)
 Me and my team got a scheme to go light the block up,
 Skip, Smoove put in work and wacko poppin the chopper
-I Scream the "U" cuz I mean it, 
+I Scream the "U" cuz I mean it,
 the only difference is you be throwing your set up when you screamin
 I Seen it, Man all of the obstacles that I been through,
 what make you think i'm a be scared of a bitch like you,
 I'm ya dog, let me get it all consign me,
-you ain't paid them last people yet, 
+you ain't paid them last people yet,
 dog don't even remind me,
 I gain knowlege, my game polished, and it is obvious
 you can't block it, you can't knock it, this is profit
-
-
-
 
 Can I untape the clips and chill ?
 Show my niggers its real,
@@ -155,8 +152,4 @@ Life is at a standstill, all change in this damn field,
 What you say, can get you and ya mans killed,
 This my last chance to come up, this gotta be it,
 Juve comin up, the first round' lottery pick
-
-
-
-
 

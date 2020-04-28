@@ -72,26 +72,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-13'
 ---
-Every Day Of My Life
-Bobby Vinton
-Written by Jimmie Crane and Al Jacobs
-
-Peaked at # 24 in 1972
-Originally charted as "Ev'ry Day Of My Life" at # 37 by the Mcguire Sisters in 1956
-
-Ev'ry day of my life I'll be in love with you
-Ev'ry day of my life I promise I'll be true
+Every day of my life I'll be in love with you
+Every day of my life I promise I'll be true
 I'll never make you cry and, as the years go by
 I'll always try to do what pleases you
 
-Ev'ry day of my life I'll need you close to me
+Every day of my life I'll need you close to me
 And if I have my way that's where you'll always be
 I'll prove how much I love you over and over again
-Ev'ry moment I live, ev'ry day of my life
+Every moment I live, every day of my life
 
-(Ev'ry day of my life)
+(Every day of my life)
 I'll need you close to me
 (And if I have my way)
 That's where you'll always be
 Oh, I'll prove how much I love you over and over again
-Ev'ry moment I live, ev'ry day of my life
+Every moment I live, every day of my life

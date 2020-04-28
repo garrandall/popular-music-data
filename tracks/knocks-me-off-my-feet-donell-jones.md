@@ -116,9 +116,3 @@ That seems through the eyes of my mind
 I reach out for the part of me that lives in you
 That only our two hearts can find
 
-
-
-
-
-
-

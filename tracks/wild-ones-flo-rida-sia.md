@@ -156,14 +156,14 @@ rankings:
 
 
 Hey I heard you are a wild one
-Ooh
+Oh
 If I took you home
 It'd be a home run
 Show me how you do
 I wanna shut down the club with you
-Hey I heard you like the wild ones 
+Hey I heard you like the wild ones
 (Wild ones wild ones)
-Ooh
+Oh
 
 
 I-I like crazy, foolish, stupid
@@ -176,7 +176,7 @@ Ready to get live, ain't no surprise
 Take me so high, jumping nose dive
 Surfing the crowd
 
-Ooh
+Oh
 Said I gotta be the man
 I'm the head of my band, mic check one two
 Shut them down in the club while the playboy does it
@@ -187,14 +187,14 @@ Club shuts down, a hundred super models
 
 
 Hey I heard you are a wild one
-Ooh
+Oh
 If I took you home
 It'd be a home run
 Show me how you do
 I wanna shut down the club with you
-Hey I heard you like the wild ones 
+Hey I heard you like the wild ones
 (Wild ones wild ones)
-Ooh
+Oh
 
 
 Party rocker, for show stopper
@@ -222,14 +222,14 @@ Do you busy with the bail, we get insane
 
 
 Hey I heard you are a wild one
-Ooh
+Oh
 If I took you home
 It'd be a home run
 Show me how you do
 I wanna shut down the club with you
-Hey I heard you like the wild ones 
+Hey I heard you like the wild ones
 (Wild ones wild ones)
-Ooh
+Oh
 
 
 I am a wild one
@@ -248,14 +248,14 @@ I hear you like the wild stuff
 
 
 Hey I heard you are a wild one
-Ooh
+Oh
 If I took you home
 It'd be a home run
 Show me how you'll do
 I wanna shut down the club with you
-Hey I heard you like the wild ones 
+Hey I heard you like the wild ones
 (Wild ones wild ones)
-Ooh
+Oh
 
 I am a wild one
 Break me in

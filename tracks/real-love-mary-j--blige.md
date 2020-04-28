@@ -145,7 +145,7 @@ Someone to set my heart free
 Real love, I’m searching for a real love
 
 
-Ooh, when I met you
+Oh, when I met you
 I just knew that you would take my heart and run
 Until you told me how you loved for me, you said I’m not the one
 So I slowly came to see all of the things that you were made of

@@ -88,9 +88,6 @@ How long (How long?)
 Will this game go on?
 How long? Oh, oh how long?
 
-
-
-
 And it's plain, plain enough to see that
 You're not the man for me
 (I'll have to find another)

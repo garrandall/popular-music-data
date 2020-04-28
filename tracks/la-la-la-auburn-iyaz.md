@@ -119,7 +119,7 @@ So why you up in my ear? (Break it down)
 Let's go
 Why you up in my ear?
 Why you up in my ear?
-Why you up in my ear? oooh.
+Why you up in my ear? oh
 Why you up in my ear?
 Why you up in my ear?
 Why you up in my ear? (Break it down)

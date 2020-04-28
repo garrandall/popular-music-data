@@ -18,14 +18,14 @@ rankings:
 
 Okay, yeah-yeah, yeah-yeah
 Woo-woo-woo
-Ayy-ayy, ooh-ooh
+Ayy-ayy, oh-oh
 
-In that new Chopard, ooh-ooh
-That's a car, ooh-ooh
-Money, money, ah-ooh-ooh
-Big boss, ooh-ooh
+In that new Chopard, oh-oh
+That's a car, oh-oh
+Money, money, ah-oh-oh
+Big boss, oh-oh
 In that Richie Mille, it don't tick tock, hoo-hoo
-Splash warning, hoo-hoo, ooh-ooh
+Splash warning, hoo-hoo, oh-oh
 I be cookin' coco out the pot, pot, yeah-yeah
 I just gave away my lil thot, thot, yeah-yeah
 I just skrrt off in a robot, yeah-yeah
@@ -45,12 +45,12 @@ The trap was hotter nigga had the feds around the corner
 Get the package every week I got the straps in Arizona
 I flooded out the bitch I had to put the Patek on her
 
-In that new Chopard, ooh-ooh
-That's a car, ooh-ooh
-Money, money, ah-ooh-ooh
-Big boss, ooh-ooh
+In that new Chopard, oh-oh
+That's a car, oh-oh
+Money, money, ah-oh-oh
+Big boss, oh-oh
 In that Richie Mille, it don't tick tock, hoo-hoo
-Splash warning, hoo-hoo, ooh-ooh
+Splash warning, hoo-hoo, oh-oh
 I be cookin' coco out the pot, pot, yeah-yeah
 I just gave away my lil thot, thot, yeah-yeah
 I just skrrt off in a robot, yeah-yeah
@@ -74,12 +74,12 @@ Diamonds blue and red, like a, like a cop car
 Money on lil bitch, still ain't see what's the total
 Heard he's on her crew, we gon' splash when they roll up
 
-In that new Chopard, ooh-ooh
-That's a car, ooh-ooh
-Money, money, ah-ooh-ooh
-Big boss, ooh-ooh
+In that new Chopard, oh-oh
+That's a car, oh-oh
+Money, money, ah-oh-oh
+Big boss, oh-oh
 In that Richie Mille, it don't tick tock, hoo-hoo
-Splash warning, hoo-hoo, ooh-ooh
+Splash warning, hoo-hoo, oh-oh
 I be cookin' coco out the pot, pot, yeah-yeah
 I just gave away my lil thot, thot, yeah-yeah
 I just skrrt off in a robot, yeah-yeah

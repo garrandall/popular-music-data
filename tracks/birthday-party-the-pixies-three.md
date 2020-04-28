@@ -81,7 +81,7 @@ I can wait ‘til we start it
 Cause I’m so excited
 Come on, come along
 Tonight is the night
-Happy Birthday to.......................
+Happy Birthday to...
 Birthday party!
 Birthday party!
 Birthday party!

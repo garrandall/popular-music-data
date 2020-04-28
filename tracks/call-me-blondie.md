@@ -141,9 +141,9 @@ When you are ready we can share the wine
 Call me
 
 ​​
-Oooh, he speaks the languages of love
-Oooh, amore, chiamami, chiamami
-Oooh, appelle-moi mon cheri, appelle-moi
+Oh, he speaks the languages of love
+Oh, amore, chiamami, chiamami
+Oh, appelle-moi mon cheri, appelle-moi
 Anytime, anyplace, anywhere, any way
 Anytime, anyplace, anywhere, any day, any way
 
@@ -175,13 +175,13 @@ Call me, call me any, anytime
 
 Call me, ah-ha, call me, ah-ha-ha
 Call me, ah-ha-ha, call me any day or night
-Call me, ooh-ooh-ah-ha-ha, ooh-ooh-ha-ha-ha
-Call me, ah-ah-ooh
+Call me, oh-oh-ah-ha-ha, oh-oh-ha-ha-ha
+Call me, ah-ah-oh
 Call me, my, my sleek designs
 Call me for a ride, call me inside
 Call me, ah-ha, call me ah-ha
 Call me
-Ooh-ooh-ooh-ooh-ah-ah-ah
+Ohoh-oh-oh-ah-ah-ah
 
 Call me in my life
 Call me, call me any, any time
@@ -192,7 +192,7 @@ Call me, call me and my sleek designs
 Call me, call me for your lover's lover's alibi
 Call me in my life
 Call me, call me any, any time
-Ooh-ooh-ooh
+Ohoh-oh
 Call me, oh-oh, call me
 Call me in my life
 Call me, call me any, any time

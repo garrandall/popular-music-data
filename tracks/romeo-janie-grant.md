@@ -37,7 +37,7 @@ Who knows my (dear?) I must be just your friend
 So Romeo, my Romeo, you'd better settle down
 The boys want me will have to keep is two feet on the ground
 
-Oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh ohh
+Oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
 Yeah yeah yeah
 Someday your time will come and your bachelor days will end
 When the time is here who knows my (dear?)

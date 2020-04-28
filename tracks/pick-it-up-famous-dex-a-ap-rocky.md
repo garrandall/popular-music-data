@@ -93,7 +93,7 @@ rankings:
 
 Ayo big bro, you fucking with that? Hah, okay cool
 That's my fucking brother right there, ya dig?
-Dexter, ooh, wait
+Dexter, oh, wait
 
 
 Pick it up, pick it up, pick it up, groove
@@ -103,13 +103,13 @@ I pop a pill then I lose it, wait
 Speed it up (Speed)
 Look at the diamonds, they eat it up (Eat)
 Got me two bitches, I eat it up (You what?)
-They thinking I'm wifing, deleted 'em, ah-wait, ooh
-Pints in, call up Rocket, ooh (Uh-what)
-My brother plug like a socket (Ooh)
+They thinking I'm wifing, deleted 'em, ah-wait, oh
+Pints in, call up Rocket, oh (Uh-what)
+My brother plug like a socket (Oh)
 Geeking this dope, yeah I got 'em (Yah)
 Open the safe, you can't lock it (What)
 Sippin' that Wock, yeah I go to the top
-Bust on yo bitch like a Glock, ooh
+Bust on yo bitch like a Glock, oh
 She like to suck on my clock (Yah)
 I get the money, don't stop
 Dexter
@@ -126,8 +126,8 @@ Call up my plug for the pounds (I what)
 Odd Future, yeah, it's right on my clothes
 Bad bitch, yeah, I watch her do coke (What)
 Broke as hell, I used to sleep on the floor
-I never do it no more, ooh (What)
-Telling you broke, it's no joke, ooh
+I never do it no more, oh (What)
+Telling you broke, it's no joke, oh
 I used to kick in that door, wait (Kick in that door)
 Now I'm selling out these shows
 Water my wrist, Fendi right on my clothes, huh

@@ -68,7 +68,3 @@ What the river said that night
 I jumped into this beauty
 And drifted out of sight...
 
-
-
-
-

@@ -48,7 +48,7 @@ Donc fais attention aux pickpockets
 Apparemment pour faire le chemin ou aurait besoin d'un arrêt au stand
 Attends, je sais que l'amour peut être une plage sans rivage
 J'en ai marre de compter jusqu'à dix, j'ai perdu patience et suis revenu à quatre
-Je sais que parfois c'est dur de réaliser que je suis l'homme dont tu as besoin
+Je sais que parfois c'est dur de réaliser que je suis l'homme don't tu as besoin
 J'ai fait un rêve on a fait des branches, commencé un arbre généalogique, hein
 Et j'ai l'impression que tout ce qu'on fait c'est trop tard
 Tu m'as demandé pourquoi j'aime tant ta mère, car elle est une toi plus vieille

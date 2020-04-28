@@ -29,15 +29,15 @@ rankings:
   start_date: '1987-04-11'
 ---
 Are you strong enough?
-Give me what I want ! Can you please me right now
+Give me what I want! Can you please me right now
 Are you strong enough?
-Give me what I want ! Can you please me right now
+Give me what I want! Can you please me right now
 Come on -
 So you know my name
 Now you know my number
 Don't the others want you anymore?
 If you're gonna call you'll see I'm stronger
-Stronger than the girls you had before !
+Stronger than the girls you had before!
 Well do you know how to please?
 Do ya
 Do ya
@@ -70,7 +70,7 @@ Now the table's turning
 I could get you underneath my thumb
 Have you got a heart? Is your heart burning?
 Tell me is it pounding like a drum?
-Well do you know how to please? . . 
+Well do you know how to please? . .
 Please - please -
 Give me what I want
 Give me what I need
@@ -80,7 +80,7 @@ Give me what I want
 Give me what I need
 Give me what I want
 Give me what I need
-Well do you know how to please? . . 
+Well do you know how to please? . .
 Do ya
 Do ya
 Wanna please me

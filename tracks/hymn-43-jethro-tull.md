@@ -34,9 +34,6 @@ If Jesus saves, well He'd better save Himself
 From the gory glory seekers who use His name in death, oh!
 Oh Jesus save me!
 
-
-
-
 If Jesus saves, well He'd better save Himself
 From the gory glory seekers who use His name in death, ow!
 Oh Jesus save me!

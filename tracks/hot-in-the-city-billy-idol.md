@@ -134,7 +134,7 @@ Hot in the city, hot in the city tonight, tonight
 
 Stranger, stranger
 
-For all the dreams and schemes, 
+For all the dreams and schemes,
 people are as they seem
 On a hot summer night
 Don't be no fun, don't forget you're young
@@ -155,8 +155,4 @@ I will move with the beat now
 I'm a chain 'round an A-bomb
 I'm a ribbon in the heat now
 New York!
-
-
-
-
 

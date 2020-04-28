@@ -114,6 +114,6 @@ All, all, all (your friends)
 FADES-
 
 Woo (your friends)
-All, all, wah-ooo!
+All, all, wah-oo!
 
 ~

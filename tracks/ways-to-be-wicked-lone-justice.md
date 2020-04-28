@@ -44,7 +44,7 @@ No, you ain't afraid to stick it in
 
 Well, you know so many
 Ways to be wicked
-Ooh, but you don't know one little thing
+Oh, but you don't know one little thing
 About love
 
 Well, I can take a little pain
@@ -79,7 +79,7 @@ No, you ain't afraid to sitck it in
 
 Well, you know so many
 Ways to be wicked
-Ooh, but you don't know one little thing
+Oh, but you don't know one little thing
 About love
 
 Well, you know so many

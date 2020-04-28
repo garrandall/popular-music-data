@@ -121,7 +121,7 @@ Oh baby I reconsider my foolish notion
 Well I need someone to hold me but I'll wait for somethin' more
 
 Yes I gotta' have faith
-Ooh, I gotta' have faith
+Oh I gotta' have faith
 Because I gotta' have faith, faith, faith
 I gotta' have faith, faith, faith
 
@@ -136,6 +136,6 @@ Oh, oh baby I reconsider my foolish notion
 Well I need someone to hold me but I'll wait for somethin' more
 
 'Cause I gotta' have faith
-Ooh, I gotta' have faith
+Oh I gotta' have faith
 Because I gotta' have faith, faith, faith
 I gotta' have faith, faith, faith

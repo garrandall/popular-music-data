@@ -112,15 +112,15 @@ Just let me motherfucking love you
 
 
 Listen, ma, I'll give you all I got
-Get me off of this, I need confidence in myself (Yeah, yeah, yeah, ohh, yeah)
+Get me off of this, I need confidence in myself (Yeah, yeah, yeah, oh, yeah)
 Ohh, listen, ma, I'll give you all of me
 Give me all of it, I need all of it to myself (Woah, woah)
 So tell me you love me
 (Only for tonight, only for the night)
-Even though you don't love me (Ohh, ohh)
+Even though you don't love me (Ohh, oh)
 Just tell me you love me
 (I'll give you what I need, I'll give you all of me)
-Even though you don't love me (Ohh, ohh) (yeah, yeah) (yeah, yeah)
+Even though you don't love me (Ohh, oh) (yeah, yeah) (yeah, yeah)
 
 
 Let me see you dance
@@ -144,13 +144,13 @@ So let me motherfucking love you
 
 
 Listen, ma, I'll give you all I got
-Get me off of this (off of this), I need confidence (confidence)  in myself (Ooh, eh, ehh)
-Listen, ma, I'll give you all of me (Ooh)
+Get me off of this (off of this), I need confidence (confidence)  in myself (Oh, eh, ehh)
+Listen, ma, I'll give you all of me (Oh)
 Give me all of it, I need all of it to myself (I need all of it)
 So tell me you love me, yeah
 (Only for tonight, only for the night)
-Even though you don't love me (Ohh, ohh)
+Even though you don't love me (Ohh, oh)
 Just tell me you love me
 (I'll give you what I need, I'll give you all of me)
-Even though you don't love me (Ohh, ohh)
+Even though you don't love me (Ohh, oh)
 Ohh

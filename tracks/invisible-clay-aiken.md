@@ -143,7 +143,7 @@ Baby, you don't hear me (You don't hear me)
 I am nothing without you
 Just a shadow passing through
 (Invisible, invisible, invisible, invisible, invisible)
-Oooh
+Oh
 
 
 If I was invisible (Whoa)

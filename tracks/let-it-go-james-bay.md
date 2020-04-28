@@ -199,4 +199,4 @@ Let the ashes fall, forget about me
 Come on, let it go, just let it be
 Why don't you be you, and I'll be me?
 And I'll be me
-(Ooh, me, you)
+(Oh, me, you)

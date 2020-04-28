@@ -97,9 +97,9 @@ rankings:
   start_date: '1977-05-07'
 ---
 
-Ooh, you can dance, you can jive
+Oh, you can dance, you can jive
 Having the time of your life
-Ooh, see that girl, watch that scene
+Oh, see that girl, watch that scene
 Digging the dancing queen
 
 Friday night and the lights are low
@@ -121,7 +121,7 @@ Oh, yeah
 
 You can dance, you can jive
 Having the time of your life
-Ooh, see that girl, watch that scene
+Oh, see that girl, watch that scene
 Digging the dancing queen
 
 You're a teaser, you turn 'em on
@@ -138,7 +138,7 @@ Oh, yeah
 
 You can dance, you can jive
 Having the time of your life
-Ooh, see that girl, watch that scene
+Oh, see that girl, watch that scene
 Digging the dancing queen
 
 Digging the dancing queen

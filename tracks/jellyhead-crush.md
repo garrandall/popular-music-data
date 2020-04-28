@@ -129,4 +129,3 @@ I gotta be out in the evening
 Jellyhead, without you
 Without you
 
-(Chorus) (2x)

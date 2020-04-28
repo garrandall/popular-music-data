@@ -54,7 +54,7 @@ For once in my life I'm so sincere
 And I mean every word
 
 I listen to what my friends had to say
-But ooh, they messed me up again
+But oh they messed me up again
 'Cause I haven't seen a good day, baby
 Since you know when
 

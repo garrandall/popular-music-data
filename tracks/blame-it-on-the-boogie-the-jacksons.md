@@ -89,7 +89,7 @@ Blame it on the boogie
 
 
 Ow (Sunshine)
-Ooh (Moonlight)
+Oh (Moonlight)
 Yeah (Good times)
 Mmm (Boogie)
 
@@ -119,7 +119,7 @@ But yours and that boogie (Good times)
 All night long (Boogie)
 
 Ow (Sunshine)
-Ooh (Moonlight)
+Oh (Moonlight)
 Yeah (Good times)
 Mmm (Boogie)
 

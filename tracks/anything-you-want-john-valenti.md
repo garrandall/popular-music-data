@@ -93,7 +93,7 @@ Hey, I'll be there to please you now - now - now, yeah
 And I won't ever leave you
 Because I love you, yeah
 
-Ooh yeah
+Oh yeah
 Anything you
 Anything you want
 Anytime at all

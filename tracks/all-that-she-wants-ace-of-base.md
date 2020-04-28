@@ -191,7 +191,7 @@ All that she wants is another baby, yeah
 All that she wants is another baby
 She's gone tomorrow, boy
 All that she wants is another baby, yeah (Is one more baby, yeah)
-Ahhh, ahh
+Ah, ah
 
 
 All that she wants is another baby

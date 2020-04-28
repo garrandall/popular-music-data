@@ -81,13 +81,9 @@ How could I be so blind, not to see in your mind
 And your heart - you've always been the only one
 Believin' in me all along
 
-Girl 
+Girl
 
 
 
-Girl 
-
-
-
-
+Girl
 

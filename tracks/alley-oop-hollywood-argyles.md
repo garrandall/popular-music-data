@@ -93,7 +93,7 @@ Like great big lions and grizzly bears
 (Alley-Oop) He's the toughest man there is alive
 (Alley-Oop) Wearin' clothes from a wildcat's hide
 (Alley-Oop) He's the king of the jungle jive
-(Look at that cave man go!!) (SCREAM)
+(Look at that cave man go!) (SCREAM)
 
 He rides thru the jungle tearin' limbs offa trees
 (Alley-Oop, oop, oop, oop-oop)
@@ -106,7 +106,7 @@ Cuz he's a mean motah scootah and a bad go-gettah
 (Alley-Oop) He's the toughest man there is alive
 (Alley-Oop) Wears clothes from a wildcat's hide
 (Alley-Oop) He's the king of the jungle jive
-(Look at that cave man go!!) (SCREAM)
+(Look at that cave man go!) (SCREAM)
 There he goes
 
 (Alley-Oop, oop, oop, oop-oop)

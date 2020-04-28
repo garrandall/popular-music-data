@@ -57,7 +57,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-09'
 ---
-(Pity, pity, pity, ah, ah, ooh)
+(Pity, pity, pity, ah, ah, oh
 
 Pity my arms for losing you
 Pity my dreams that won't come true

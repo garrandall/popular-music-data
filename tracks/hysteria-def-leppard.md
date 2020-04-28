@@ -87,7 +87,7 @@ Oh, I get hysterical, hysteria
 Oh can you feel it, do you believe it?
 It's such a magical mysteria
 When you get that feelin', better start believin'
-'Cos it's a miracle, oh say you will, ooh babe
+'Cos it's a miracle, oh say you will, ohbabe
 Hysteria when you're near
 Out of me, into you yeah
 You could hide it's just a one way street
@@ -110,15 +110,7 @@ It's such a magical mysteria
 When you get that feelin', better start believin'
 'Cos it's a miracle, oh say you will
 
-Ooh babe
+Oh babe
 Hysteria when you're near
 Come on
-
-
-
-
-
-
-
-
 

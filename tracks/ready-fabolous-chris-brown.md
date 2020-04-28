@@ -82,9 +82,6 @@ Need ice to numb it down, night stick to beat it up
 Rodney King that teen girl, can't we all just get along?
 You could get along, you already know, but is you ready though?
 
-
-
-
 If you are a bad one, be ready (Be ready)
 Two times for my niggas, we ready (We so ready)
 The pretty ladies in the V.I. and they ready (They so ready)
@@ -92,8 +89,4 @@ I'm feelin' good, chillin' good, I'm ready (I'm ready, yo)
 Left a girl in the back, she ready (She so ready)
 We don't know how to act, we ready (Cause we're ready)
 And we can't wait to get home (If you're ready, come on)
-
-
-
-
 

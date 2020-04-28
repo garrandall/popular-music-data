@@ -47,7 +47,7 @@ Floating in a blue lagoon
 Boy, you better do it soon
 No time will be better
 She don't say a word
-And she wont say a word
+And she won't say a word
 Until you kiss the girl (kiss the girl)
 
 Shalalalala

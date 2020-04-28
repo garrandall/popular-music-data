@@ -61,7 +61,7 @@ Without you
 Baby, that's what I'd do
 
 They say life's a bowl of cherries
-Hmmm, hmmm, good
+Hm, hm, good
 But what good are cherries
 Or any wild berries
 If love ain't what it should?
@@ -74,7 +74,7 @@ I'd die, die, die without you
 Baby, that's what I'd do
 
 They say life's a bowl of cherries
-Hmmm, hmmm, good
+Hm, hm, good
 But what good are cherries
 Or any wild berries
 If love ain't what it should?

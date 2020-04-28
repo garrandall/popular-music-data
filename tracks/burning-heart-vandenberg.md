@@ -114,7 +114,7 @@ It still hurts after all this time
 This burning heart in me
 Won't let me be
 
-Oooh, won't you let me be
+Oh, won't you let me be
 
 
 

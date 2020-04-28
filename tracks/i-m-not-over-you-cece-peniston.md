@@ -73,73 +73,73 @@ I can't believe it's over
 It's hard to let you go
 'Cause I can't sleep at night
 And there's one thing that I know
-I'm not, not over you, oooh
-(I'm not, not over you, oooh.)
+I'm not, not over you, oh
+(I'm not, not over you, oh
 I don't know why it's over
 I don't know where to turn
 I tried to let it go
 But there's one thing that I know
-I'm not, not over you, oooh, oh, oh, oh, oh
+I'm not, not over you, ohoh, oh, oh, oh
 
 Tell me what can I do when I know we are through
-(We are through, oooh.)
+(We are through, oh
 Can't get you off my mind
 Think about you all the time.  (All the time.)
 I can't get over you no matter what I do
-I'm not, not over you, oooh
+I'm not, not over you, oh
 
 I know inside I gave it
 I gave it all I had
 I did all I could do and still it hurts me so bad
-I'm not, not over you, oooh, oh, oh, oh, oh
+I'm not, not over you, ohoh, oh, oh, oh
 
 Tell me what can I do when I know we are through
-(We are through, oooh.)
+(We are through, oh
 Can't get you off my mind
 Think about you all the time.  (All the time.)
 I can't get over you no matter what I do
 
 Oh
 Oh
-I'm not, not over you, oooh .  (Baby.)
+I'm not, not over you, oh  (Baby.)
 Over you, over you
-I'm not, not over you, oooh, baby
+I'm not, not over you, ohbaby
 I ain't over you.  (I'm not, not)
-(I'm not, not over you, oooh.)
-Ahhh, yeah, yeah, yeah, yeah
+(I'm not, not over you, oh
+Ah, yeah, yeah, yeah, yeah
 ('Cause we are through.) 'Cause we are really through
 
-Hey.....eh, eh
+Hey...eh, eh
 Ah, oh, ah, oh.  I ain't over you, baby
 (I can't get over you no matter what I do.)
-Hey.....eh, eh, yeah, yeah, yeah, eh, eh, eh
+Hey...eh, eh, yeah, yeah, yeah, eh, eh, eh
 I ain't over you
 
 Tell me what can I do (Oh) when I know we are through
 (Baby)
 Can't get you off my mind
-I'm not, not over you, oooh
-I'm not, not over you, oooh
-I'm not, not over you, oooh
+I'm not, not over you, oh
+I'm not, not over you, oh
+I'm not, not over you, oh
 
 I can't get you off of my mind
-(I'm not, not over you, oooh.)
+(I'm not, not over you, oh
 Oh, baby, I ain't over you
-(I'm not, not over you, oooh.)
+(I'm not, not over you, oh
 'Cause the only thing I know, I know I'm not over you, baby
-(I'm not, not over you, oooh.)
+(I'm not, not over you, oh
 What am I supposed to do
 Baby, I ain't over you
 What am I supposed to do
-(I'm not, not over you, oooh.)
+(I'm not, not over you, oh
 Doo, doo, doo, doo, doo, doo, doo, doo
 Doo, doo, doo, doo, doo, doo, doo, doo
 Doo, doo, doo, doo, doo, doo
-(I'm not, not over you, oooh.)
+(I'm not, not over you, oh
 Doo, doo, doo, doo, doo, doo, doo, doo
 Doo, doo, doo, doo, doo, doo, doo, doo
 Doo, doo, doo, doo, doo, doo
-(I'm not, not over you, oooh.)
+(I'm not, not over you, oh
 What am I supposed to do
 Baby, I ain't over you
 What am I supposed to do

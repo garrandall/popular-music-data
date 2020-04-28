@@ -30,7 +30,7 @@ rankings:
   start_date: '1971-01-23'
 ---
 Holly, holly holy eyes
-Dream, a dream of love, ooh yeah
+Dream, a dream of love, ohyeah
 Where I am, what I am
 What I believe in
 Holly holy, y'all

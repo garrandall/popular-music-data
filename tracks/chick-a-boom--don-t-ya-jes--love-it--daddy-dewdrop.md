@@ -102,13 +102,13 @@ Chick-a-boom chick-a-boom don't ya jes' love it
 Chick-a-boom chick-a-boom-boom-boom
 
 Ah don't ya jes' love it
-Ooh don't ya jes' love it
+Ohdon't ya jes' love it
 Don't ya love it, don't ya love it
 Oh yeah, don't ya jes' love it
 Don't ya jes' love it
 
 Now I opened the third door and there she was
-And she whispered so sexy oh ooh
+And she whispered so sexy oh oh
 I tried to do the same and impress her with my style
 But why I said this I'll never know
 

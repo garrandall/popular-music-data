@@ -165,7 +165,7 @@ And I'm back!
 She can't help it, the girl can't help it (In love!)
 She can't help it, the girl can't help it (Oh, God!)
 She can't help it, the girl can't help it (I'm back in love!)
-Can't help it (Ooh, whoo, ooh!)
+Can't help it (Oh, whoo, oh!)
 She can't help it, the girl can't help it (I'm back in love now!)
 She can't help it, the girl can't help it (I'm back in love now, baby!)
 She can't help it, the girl can't help it (I'm back in love now!)

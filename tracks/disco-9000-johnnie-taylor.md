@@ -37,9 +37,6 @@ Cause you can't aim step to the boogie beat
 And the way you play the game, let's get funky or spicy man
 And the only king of disco men
 
-
-
-
 It ain't nothing but a party
 A place where you can get down
 With some bad chicks, and some dynasty

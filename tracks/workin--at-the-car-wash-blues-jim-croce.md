@@ -59,7 +59,7 @@ Tried to find me an executive position
 But no matter how smooth I talked
 They wouldnt listen to the fact that I was a genius
 The man say, we got all that we can use.
-Now i got them steadily depressin, low down mind messin
+Now I got them steadily depressin, low down mind messin
 Working at the car wash blues
 
 Well, I should be sittin in an air conditioned office in a swivel chair
@@ -79,11 +79,11 @@ Well, all I can do is a shake my head
 You might not believe that its true
 For workin at this end of niagara falls
 Is an undiscovered howard hughes
-So baby, dont expect to see me
+So baby, don't expect to see me
 With no double martini in any high-brow society news
 Cause I got them steadily depressin, low down mind messin
 Workin at the car wash blues
-So baby, dont expect to see me
+So baby, don't expect to see me
 With no double martini in any high-brow society news
 Cause I got them steadily depressin, low down mind messin
 Workin at the car wash blues

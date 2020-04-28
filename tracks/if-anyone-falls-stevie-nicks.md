@@ -85,7 +85,7 @@ As my eyes turned away
 He said "I have loved many women
 I have many times... run away"
 
-Ooh... I have never known the words
+Oh... I have never known the words
 Well I have tried to be true
 Well I have never known what to say
 How to say... seen anything today

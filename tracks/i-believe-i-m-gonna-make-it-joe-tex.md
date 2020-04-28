@@ -58,7 +58,7 @@ I raise up and get me
 Two mo' enemies
 
 Listen, baby
-(Ooh, oh baby)
+(Oh, oh baby)
 I wished a thousand times
 That we had gotten married
 Before I left home for Vietnam

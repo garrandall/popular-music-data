@@ -72,14 +72,14 @@ You come on like a dream, peaches and cream
 Lips like strawberry wine
 You're sixteen, you're beautiful and you're mine
 
-You're all ribbons and curls, ooh, what a girl
+You're all ribbons and curls, oh what a girl
 Eyes that sparkle and shine
 You're sixteen, you're beautiful and you're mine
 
 You're my baby, you're my pet
 We fell in love on the night we met
 You touched my hand, my heart went pop
-Ooh, when we kissed I could not stop
+Oh when we kissed I could not stop
 
 You walked out of my dreams and into my arms
 Now you're my angel divine
@@ -90,7 +90,7 @@ You're sixteen, you're beautiful and you're mine
 You're my baby, you're my pet
 We fell in love on the night we met
 You touched my hand, my heart went pop
-Ooh, when we kissed I could not stop
+Oh when we kissed I could not stop
 
 You walked out of my dreams, and into my car
 Now you're my angel divine

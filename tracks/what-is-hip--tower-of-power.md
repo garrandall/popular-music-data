@@ -79,7 +79,7 @@ Hipness is. What it is
 Sometimes hipness is, what it ain't
 
 What is hip?
-Ahhhhhhhhh
+Ah
 What is hip?
 I'd like to know
 What is hip?
@@ -99,6 +99,6 @@ What is hip y'all?
 What is hip?
 I wanna know
 What is hip?
-Ahhhhhhh
+Ah
 What is hip?
 I wanna know what hipness is

@@ -58,7 +58,3 @@ Time and time, time again
 And we drown in the wake of our power
 Somebody tell me why
 
-
-
-
-

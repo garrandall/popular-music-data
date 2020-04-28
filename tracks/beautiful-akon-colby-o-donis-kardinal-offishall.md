@@ -99,9 +99,9 @@ rankings:
   start_date: '2009-05-16'
 ---
 When I see you
-I run out of words, to say (ahh)
+I run out of words, to say (ah)
 I wouldn't leave you
-Cause you're that type of girl to make me stay (ahh)
+Cause you're that type of girl to make me stay (ah)
 I see the guys tryin' to holla
 Girl, I don't wanna bother you
 Cause you're independent, and you got my attention
@@ -144,7 +144,7 @@ You're so beautiful
 
 Kardinal told you (you) what is it, sky blue or yellow
 This fellow ain't that mellow if it ain't about you (you)
-Hourglass shape make the place go "oooh"
+Hourglass shape make the place go "oh
 Waistline makes my soldier salute
 I'm a brute (brute) high from ya high heel game
 High heels push up ya ass last name

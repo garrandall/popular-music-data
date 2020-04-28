@@ -37,7 +37,7 @@ There's a sale on our gabardine suits today
 They're all thirty percent off from yesterday
 There's Fortrel polyester, leather, wool, and tweed
 Just a Visa or Mastercard is all you need
-We got every color, we got ev'ry shade
+We got every color, we got every shade
 We're located next door to Willy's Fun Arcade
 We got every fabric that was ever made
 But I'm known in this city as the King of Suede

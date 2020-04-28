@@ -96,7 +96,7 @@ I wanna stick around till I can't see straight
 
 Fill my eyes with that double vision
 No disguise for that double vision
-Ooh, when it gets through to me, it's always new to me
+Oh, when it gets through to me, it's always new to me
 My double vision gets the best of me
 
 Never do more than I, I really need
@@ -106,10 +106,10 @@ I'll live all of my years in a single minute
 
 Fill my eyes with that double vision
 No disguise for that double vision
-Ooh, when it gets through to me, it's always new to me
+Oh, when it gets through to me, it's always new to me
 My double vision always seems to get the best of me, the best of me, yeah
 
-Ooh, double vision, I need double vision
+Oh, double vision, I need double vision
 It takes me out of my head, takin' me out of my head
 I get my double vision
 Oh, seeing double double

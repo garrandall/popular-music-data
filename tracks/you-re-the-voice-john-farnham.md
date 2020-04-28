@@ -58,7 +58,7 @@ This time, we know we all can stand together
 With the power to be powerful
 Believing we can make it better
 
-Ooh, we're all someone's daughter
+Oh, we're all someone's daughter
 We're all someone's son, oh
 How long can we look at each other
 Down the barrel of a gun?
@@ -68,7 +68,7 @@ Make the noise and make it clear, oh, woah
 We're not gonna sit in silence
 We're not gonna live with fear, oh, woah
 
-Ooh, we're all someone's daughter
+Oh, we're all someone's daughter
 We're all someone's son
 How long can we look at each other
 Down the barrel of a gun?

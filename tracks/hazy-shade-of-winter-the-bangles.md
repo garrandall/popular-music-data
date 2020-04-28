@@ -114,7 +114,7 @@ That you can build them again
 Look around, the grass is high
 The fields are ripe, it's the springtime of my life
 
-Ahhh, seasons change with the scenery
+Ah, seasons change with the scenery
 Weaving time in a tapestry
 Won't you stop and remember me
 

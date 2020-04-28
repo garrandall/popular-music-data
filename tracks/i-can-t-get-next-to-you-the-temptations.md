@@ -105,8 +105,8 @@ No matter what I do (I can't get next to you)
 Uh-yah
 
 
-Ooh
-Ooh
+Oh
+Oh
 Chicka boom, chicka boom
 Chicka boom, boom, boom
 

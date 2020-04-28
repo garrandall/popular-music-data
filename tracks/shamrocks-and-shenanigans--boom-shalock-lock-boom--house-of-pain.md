@@ -94,9 +94,6 @@ I got the skill, you gots to chill
 Cause I bring doom
 I got the boom shalock lock boom
 
-
-
-
 I rock mad styles, I hop turnstiles
 I rock all mics, I last all night
 I puff fat blunts, I rock fine stunts

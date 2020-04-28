@@ -1,7 +1,8 @@
 ---
 artists:
-- Johnny Maestro with The Coeds
-features: []
+- Johnny Maestro
+features:
+- The Coeds
 genres: []
 key: mr-happiness-johnny-maestro-with-the-coeds
 name: Mr Happiness

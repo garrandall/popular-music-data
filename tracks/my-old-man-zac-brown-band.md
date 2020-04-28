@@ -59,9 +59,6 @@ Do the best I can to raise him up the right way
 Hoping that he someday wants to be
 Like his old man
 
-
-
-
 My old man
 I know one day we'll meet again
 As he's looking down

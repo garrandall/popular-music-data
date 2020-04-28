@@ -43,7 +43,6 @@ Well I wonder how we'll cope
 But I know where to go
 Run away, run away
 
-(chorus)
 And lose myself inside a dream
 Opening up a secret door
 I lose myself inside a dream
@@ -53,10 +52,7 @@ Am I losing hold
 In a world full of many problems
 I feel no control
 
-(chorus twice )
 Only a dreamer
 Can keep the dream alive
 I'll work and pray and sweat and slave
 Until the dream is realized
-
-(chorus until fade)

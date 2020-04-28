@@ -58,7 +58,7 @@ rankings:
 ---
 Ho...oh...
 Oh, yeah, yeah, oh, yeah
-Ooh, ooh
+Oh, oh
 Oh, yeah, yeah
 
 Sitting here

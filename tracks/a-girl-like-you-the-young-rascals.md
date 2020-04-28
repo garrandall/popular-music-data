@@ -60,7 +60,7 @@ Girl like you. (I'm in love with you.)
 Must be you that caused this feelin' in me. (Must be you.)
 You that fills me confidently, (Must be you.)
 You that brings out the best in me
-You....Uhhhhhh......Nobody but you
+You...Uhhhhhh...Nobody but you
 -----------
 I don't know what it's all about
 I can't begin to figure out what to do so I leave it to you
@@ -71,7 +71,7 @@ A girl like you. (I'm in love with)
 Must be you that caused this feelin' in me. (Must be you.)
 You that fills me confidently, (Must be you.)
 You that brings out the best in me
-You.... Nobody, nobody, Oh, Yeah!
+You... Nobody, nobody, Oh, Yeah!
 ------------
 Every time I'm holdin' you close to me
 Trouble's gone, it's gone, I'm in ecstasy
@@ -83,4 +83,4 @@ Someone, someone to understand. (I'm in love with)
 'Xactly like you, hon (I'm in love with)
 Girl, girl, girl (I'm in love with)
 Girl, girl, girl (I'm in love with)
-Girl, girl........
+Girl, girl...

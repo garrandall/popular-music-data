@@ -105,13 +105,13 @@ Tonight is the night is the night,
 We set it off.
 
 Everybody go
-Wooh wooh ooh ooh ooh
-Wooh wooh ooh ooh ooh
+Wooh wooh ohoohhoh
+Wooh wooh ohoohhoh
 Yeah yeah yeah yeah
 
 Everybody go
-Wooh wooh ooh ooh ooh
-Wooh wooh ooh ooh ooh
+Wooh wooh ohoohhoh
+Wooh wooh ohoohhoh
 Yeah yeah yeah yeah
 
 And I don't know better,
@@ -130,13 +130,13 @@ Tonight is the night is the night,
 We set it off.
 
 Everybody go
-Wooh wooh ooh ooh ooh
-Wooh wooh ooh ooh ooh
+Wooh wooh ohoohhoh
+Wooh wooh ohoohhoh
 Yeah yeah yeah yeah
 
 Everybody go
-Wooh wooh ooh ooh ooh
-Wooh wooh ooh ooh ooh
+Wooh wooh ohoohhoh
+Wooh wooh ohoohhoh
 Yeah yeah yeah yeah
 
 I'm feelin' better than I ever thought,
@@ -147,13 +147,13 @@ Impossible don't exist.
 Impossible don't exist...
 
 Everybody go
-Wooh wooh ooh ooh ooh
-Wooh wooh ooh ooh ooh
+Wooh wooh ohoohhoh
+Wooh wooh ohoohhoh
 Yeah yeah yeah yeah
 
 Everybody go
-Wooh wooh ooh ooh ooh
-Wooh wooh ooh ooh ooh
+Wooh wooh ohoohhoh
+Wooh wooh ohoohhoh
 Yeah yeah yeah yeah
 
 Tonight is the night is the night that were losing control

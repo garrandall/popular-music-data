@@ -162,7 +162,3 @@ When the music makes you move
 Baby, do it like you do
 Cause...
 
-
-
-
-

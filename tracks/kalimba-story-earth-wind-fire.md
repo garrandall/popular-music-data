@@ -59,10 +59,10 @@ Playin around the world, touchin'
 All the boys and girls with a new
 love to make them free
 
-Kalimba, ooh kalimba, play me a tune
-Kalimba, ooh kalimba, I'm glad I found you
-Kalimba, ooh kalimba, play me a tune
-Kalimba, ooh kalimba sends a message to you
+Kalimba, ohkalimba, play me a tune
+Kalimba, ohkalimba, I'm glad I found you
+Kalimba, ohkalimba, play me a tune
+Kalimba, ohkalimba sends a message to you
 
 If you lend an ear, and you have no fear
 The vibration will move your mind
@@ -74,7 +74,7 @@ just how, my kalimba get next to you
 Are you ready now, well get ready
 Come along, groove with the new-
 
-Kalimba, ooh kalimba, play me a tune
-Kalimba, ooh kalimba, I'm glad I found you
-Kalimba, ooh kalimba, play me a tune
-Kalimba, ooh kalimba sends a message to you
+Kalimba, ohkalimba, play me a tune
+Kalimba, ohkalimba, I'm glad I found you
+Kalimba, ohkalimba, play me a tune
+Kalimba, ohkalimba sends a message to you

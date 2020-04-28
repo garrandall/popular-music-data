@@ -96,7 +96,7 @@ You will realize our aim is the same (As the others)
 We all have that dream to make it to the top
 When we do we know we're never gonna stop
 
-(Be together) Oooh (Last forever), hey, yeah
+(Be together) Oh (Last forever), hey, yeah
 Our minds will stay the same
 We won't be beaten down by fame
 

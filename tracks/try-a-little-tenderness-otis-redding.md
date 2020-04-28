@@ -80,11 +80,11 @@ All you gotta do is, man, hold her where you want her
 
 Squeeze her, don't tease her, never leave her
 Get to her, try, try
-Just try a little tenderness, ooh yeah yeah yeah
+Just try a little tenderness, oh yeah yeah yeah
 You got to know how to love her, man, you'll be surprised, man
 You've got to squeeze her, don't tease her, never leave
 You've got to hold her and rub her softly
-Try a little tenderness, ooh yeah yeah yeah
+Try a little tenderness, oh yeah yeah yeah
 You've got to rub her gentle man, all you gotta do
 Don't got, don't bruise her, no no
 You've got to love her, tease her, don't squeeze her

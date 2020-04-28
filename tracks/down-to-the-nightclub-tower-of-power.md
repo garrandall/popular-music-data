@@ -46,7 +46,7 @@ Lookin' for a place to party
 I jumps into my ride and I hits the road
 Cause there's only one place to go
 
-Down to the nightclub, ooh
+Down to the nightclub, oh
 The women be righteously ready and pretty
 To the nightclub
 We go bump-ty, bump-ty, bump (Bump City)
@@ -59,9 +59,9 @@ And a big old bag of tricks
 Down to the nightclub, aha
 You can get what you want if you know how to find it
 To the nightclub
-Ooh, we be slick, slick, slick
+Oh we be slick, slick, slick
 
-Ooh, the people be bumping (at Bump City)
+Oh the people be bumping (at Bump City)
 The joint be jumping (at Bump City)
 The mamas be humping (at Bump City)
 Hey, while the band be pumping

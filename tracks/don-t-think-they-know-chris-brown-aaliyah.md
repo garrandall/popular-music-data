@@ -111,13 +111,13 @@ I thank you for the autographs and the cheers over the years
 You stood by me, you didn't doubt me (Yeah)
 I think you want some more (Oh)
 I do more than sing
-I model now, acting now (Ooh, yeah)
+I model now, acting now (Oh, yeah)
 Plus I got my own movie now
 After all the awards that they gave me, you stood by me
 You didn't play me, you didn't doubt me
 I think you want some more (Need some more, babe)
 I truly believe that if it wasn't all for you
-I don't know what I would do (Ooh, whoa)
+I don't know what I would do (Oh, whoa)
 Oh-whoa
 
 
@@ -127,7 +127,7 @@ I don't think they know the truth (They don't know), say it ain't so (They don't
 I don't think they know, how could they know? (Yeah, yeah)
 
 
-Don't listen to (Ooh-ooh), how could they know? (Yeah, yeah)
-What people say (Ooh-ooh), how could they know?
+Don't listen to (Oh-oh), how could they know? (Yeah, yeah)
+What people say (Oh-oh), how could they know?
 They don't know about (They don't know about us, babe), how could they know?
 'Bout you and me, how could they know?

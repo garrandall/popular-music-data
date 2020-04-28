@@ -195,11 +195,11 @@ The way I'm feeling, yeah, it just don't feel right
 
 You can tell me to my face
 You can tell me on the phone
-Ooh, you can write it in a letter, babe
+Oh, you can write it in a letter, babe
 'Cause I really need to know
 You can tell me to my face
 You can tell me on the phone
-Ooh, you can write it in a letter, babe
+Oh, you can write it in a letter, babe
 'Cause I really need to know
 You can write it in a letter, babe
 You can write it in a letter, babe

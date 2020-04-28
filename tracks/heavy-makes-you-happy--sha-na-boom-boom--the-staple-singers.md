@@ -57,7 +57,7 @@ rankings:
   start_date: '1971-04-24'
 ---
 
-Ahh, whoa, great gosh, a mighty
+Ah, whoa, great gosh, a mighty
 
 (Sha-na-boom boom, yeah)
 Say it, y'all

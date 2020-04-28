@@ -92,7 +92,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-01-12'
 ---
-When i find myself in times of trouble
+When I find myself in times of trouble
 Mother mary comes to me
 Speaking words of wisdom, let it be
 And in my hour of darkness
@@ -116,7 +116,7 @@ There will be an answer, let it be
 And when the night is cloudy
 There is still a light that shines on me
 Shine on until tomorrow, let it be
-When i wake up to the sound of music
+When I wake up to the sound of music
 Mother mary comes to me
 Speaking words of wisdom, let it be, let it be
 Let it be, let it be
@@ -126,7 +126,7 @@ Let it be, oh let it be
 Let it be, let it be
 Let it be, let it be
 Whisper words of wisdom, let it be
-When i find myself in times of trouble
+When I find myself in times of trouble
 Mother mary comes to me
 Speaking words of wisdom, let it be
 Let it be, let it be

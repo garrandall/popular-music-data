@@ -102,7 +102,7 @@ Ladies (move)
 Gentlemen (move)
 Somebody ring the alarm
 A fire in the room
-Ring the alarm (and I'm throwin' elbows) 
+Ring the alarm (and I'm throwin' elbows)
 
 Oh, I'm overdue
 Give me some room
@@ -150,7 +150,7 @@ Shake a little somethin' (on the floor)
 I need that, uh, to get me off
 Sweatin' until my clothes come off
 
-Let's get open, cause a commotion (ooh oh)
+Let's get open, cause a commotion (ohoh)
 We're still going, eight in the morning
 There's no stopping, we keep it popping (oh)
 Hot rocking, everyone's talking
@@ -166,7 +166,7 @@ Gonna get a little unruly
 Get it fired up in a hurry
 Wanna get dirrty
 It's about time that I came to start the party
-Ooh sweat dripping over my body
+Ohsweat dripping over my body
 Dancing getting just a little naughty
 Wanna get dirrty (oh, oh)
 It's about time for my arrival
@@ -187,7 +187,7 @@ And I bet you somebody's
 Gonna call the cops
 Uh oh's, here we go's (here we go)
 
-Ohh ooh ohh, yeah yeah...
+Ohh ohoh, yeah yeah...
 
 
 Yo, hot damn, Doc a jam like a summer show
@@ -221,12 +221,12 @@ It's about time for my arrival
 
 Rowdy
 Gonna get a little unruly
-(Ooh oh)
+(Ohoh)
 Get it fired up in a hurry
-(Ooh oh)
+(Ohoh)
 Wanna get dirrty
 It's about time that I came to start the party
-Ooh sweat dripping over my body
+Ohsweat dripping over my body
 Dancing getting just a little naughty
 Wanna get dirrty
 It's about time for my arrival

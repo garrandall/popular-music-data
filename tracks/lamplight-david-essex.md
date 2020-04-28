@@ -48,7 +48,7 @@ Wanna go alone
 But I get the feeling
 I better get on home
 
-Ooh baby, would I look right
+Oh baby, would I look right
 Climbing up the drainpipe
 Baby would it feel right
 If I stayed all night
@@ -61,7 +61,7 @@ And get on out, get home
 Got me rocking and reeling
 Reeling and feeling
 Gotta get to you babe
-Just gotta get through, ooh ooh
+Just gotta get through, ohooh
 
 I can see lamplight
 Shining from your window

@@ -96,7 +96,7 @@ Your time has come to shine
 All of your dreams are on their way
 (See how they shine?)
 
-Ooooh and if you ever need a friend
+Oh and if you ever need a friend
 (Need a friend)
 Look around, I'm sailing right behind
 Just like a bridge
@@ -105,7 +105,7 @@ I'll be there to lay me down
 (Like a bridge)
 Like a bridge over (troubled water) troubled water
 I will lay me down
-Ooooh I'll be your bridge
+Oh I'll be your bridge
 Yes I will
 
 (Don't trouble the water)

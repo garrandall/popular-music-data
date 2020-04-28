@@ -81,7 +81,7 @@ My dad, now he understands when I bring him troubles to share;
 Oh, he's always there, my dad
 When I was small I felt ten feet tall
 When I walked by his side
-And ev'ry one would say, "that's his son,"
+And every one would say, "that's his son,"
 And my heart would burst with pride
 My dad, oh, I love him so
 And I only hope that some day my own son will say
@@ -93,7 +93,7 @@ My dad, now he understands when I bring him troubles to share;
 Oh, he's always there, my dad
 When I was small I felt ten feet tall
 When I walked by his side
-And ev'ry one would say, "that's his son,"
+And every one would say, "that's his son,"
 And my heart would burst with pride
 My dad, oh, I love him so
 And I only hope that some day my own son will say

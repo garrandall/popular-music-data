@@ -78,12 +78,12 @@ rankings:
 ---
 I don't want nobody else but you
 No one treats me
-The way you do-ooo
+The way you do-oo
 I just want ya to hold my hand
 And tell me I'm your lovin' man
 An I don't want nobody else but you
 
-(Oh-ooh-ooh-ooh, ooh-ooh)
+(Oh-ohoohhohh-ohoh
 
 Wherever you are
 That's where I long to be
@@ -93,7 +93,7 @@ I don't want nobody else
 I just a-want ya to myself
 An don't want nobody else but you
 
-(Oh-ooh-ooh-ooh, ooh-ooh)
+(Oh-ohoohhohh-ohoh
 
 Come and take me
 Take me in your arms
@@ -104,12 +104,12 @@ I'm gonna love you any old way
 An I don't want, no-no
 Nobody else but you
 
-Hoo-ooo-hoo
+Hoo-oo-hoo
 Hoo-hoo-hoo, hoo
 
 FADE (falsetto by Dee)
 
-Oooh, girl
-I lo-o-o-o-ove you-ooo, wee-ooo
+Oh, girl
+I lo-o-o-o-ove you-oo, wee-oo
 
 ~

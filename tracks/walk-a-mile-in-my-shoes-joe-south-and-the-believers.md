@@ -54,7 +54,7 @@ rankings:
 ---
 If I could be you and you could be me for just one hour
 If we could find a way to get inside each other's mind
-Mm-hmm
+Mm-hm
 If you could see you through my eyes instead of your ego
 I believe you'd be surprised to see that you've been blind
 Mm-mm
@@ -73,7 +73,7 @@ Yeah, yeah
 
 And yet we spend the day throwin' stones at one another
 'Cause I don't think or wear my hair same way you do
-Mm-hmm
+Mm-hm
 Well, I may be common people but I'm your brother
 And when you strike out and try to hurt me it's a-hurtin' you
 Lord, have mercy

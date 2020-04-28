@@ -32,7 +32,7 @@ When you kiss your little baby
 You've kissed the face of God?
 
 Oh, Mary, did you know
-Mary, did you know, ooh
+Mary, did you know, oh
 
 Oh, the blind will see
 The deaf will hear
@@ -41,7 +41,7 @@ The lame will leap
 The dumb will speak
 The praises of the lamb
 
-Ooh, Mary, did you know that your baby boy
+Oh, Mary, did you know that your baby boy
 Is Lord of all creation?
 Mary did you know that your baby boy
 Would one day rule the nations?

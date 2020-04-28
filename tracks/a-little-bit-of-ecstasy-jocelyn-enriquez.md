@@ -108,7 +108,7 @@ I'll be your dream
 I'll be your dream
 I'll be your dream
 You be my fantasy
-Ooh, ooh yeah
+Oh, oh yeah
 (Let the beat...
 Let the beat...
 Let the beat control your body)

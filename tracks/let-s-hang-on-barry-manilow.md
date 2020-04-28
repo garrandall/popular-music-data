@@ -94,7 +94,7 @@ Patch it up
 (don't cool off while I'm burning)
 You've got me cryin' dyin' at your door
 Don't shut me out
-Ooh let me in once more
+Oh let me in once more
 Open up
 (your arms I need to hold you)
 Open up

@@ -59,20 +59,20 @@ Come away, come away if you're goin', leave the sinkin' ship behind.
 
 Come on the risin' wind, we're goin' up around the bend.
 
-Ooh!
+Oh
 Bring a song and a smile for the banjo, better get while the gettin's good,
 Hitch a ride to the end of the highway where the neons turn to wood.
 
 
 
-Oooh!
+Oh!
 You can ponder perpetual motion, fix your mind on a crystal day,
 Always time for a good conversation, there's an ear for what you say.
 
 
 Yeah!
 
-Oooh!
+Oh!
 Catch a ride to the end of the highway and we'll meet by the big red tree,
 There's a place up ahead and I'm goin', come along, come along with me.
 

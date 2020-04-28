@@ -91,7 +91,7 @@ Seeing something they had
 And somebody else is holding
 They tell me that temptation is very hard to resist
 But these wicked women
-Ooh, they just persist
+Oh, they just persist
 
 Maybe you think it’s cute
 But girl, I’m not impressed

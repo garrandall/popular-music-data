@@ -60,7 +60,7 @@ Oh, Im cleaning outl my whole house
 Fast as I can
 Its time to make everything speak and span
 
-You're a dirty, ooh you're a dirty man
+You're a dirty, ohyou're a dirty man
 You do me dirty for so many years, yes u did
 You're a dirty, dirty man, yes u are
 And Im tired of you and your woman and your dog too

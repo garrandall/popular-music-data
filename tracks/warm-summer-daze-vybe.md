@@ -86,8 +86,8 @@ Doodo doo do doo do doo do (Ha ha ha ha ha ha, hah)
 Doodo doo do doo do doo do (Ha ha ha ha ha ha, hah)
 Doodo doo do doo do doo do (Ha ha ha ha ha ha, hah)
 Doodo doo do doo do doo do (Ha ha ha ha ha ha, hah)
-Aah shake shake, aah shake
-Aah shake shake, aah shake
+Ah shake shake, ah shake
+Ah shake shake, ah shake
 
 Na na na nah
 Summer lovin'

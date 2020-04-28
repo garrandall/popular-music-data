@@ -129,9 +129,3 @@ Is one thing that will always be unsure.
 That's why I need you baby, pleading baby,
 Please let our love endure.
 
-
-
-
-
-
-

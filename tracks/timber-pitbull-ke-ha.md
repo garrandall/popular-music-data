@@ -171,10 +171,10 @@ Let's make a night you won't remember
 I'll be the one you won't forget
 
 
-Ooh-ooh (Timber), ooh-ooh (Timber)
-Ooh-ooh-ooh-ooh-ooh-ooh (It's goin' down)
-Ooh-ooh (Timber), ooh-ooh (Timber)
-Ooh-ooh-ooh-ooh-ooh-ooh (It's goin' down)
+Ohoh(Timber), oohhohimber)
+Ohohoohhoh-oh(ohs goin' down)
+Ohoh(Timber), oohhohimber)
+Ohohoohhoh-oh(ohs goin' down)
 (Woo!)
 
 
@@ -208,10 +208,10 @@ Let's make a night you won't remember
 I'll be the one you won't forget (You won't forget)
 
 
-Ooh-ooh (Timber), ooh-ooh (Timber)
-Ooh-ooh-ooh-ooh-ooh-ooh (It's goin' down)
-Ooh-ooh (Timber), ooh-ooh (Timber)
-Ooh-ooh-ooh-ooh-ooh-ooh (It's goin' down)
+Ohoh(Timber), oohhohimber)
+Ohohoohhoh-oh(ohs goin' down)
+Ohoh(Timber), oohhohimber)
+Ohohoohhoh-oh(ohs goin' down)
 (Woo!)
 
 

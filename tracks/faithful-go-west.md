@@ -88,7 +88,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-03-20'
 ---
-Oooooooh, I will
+Oh, I will
 
 Don't cry baby
 Kiss me and say farewell
@@ -150,15 +150,15 @@ I will make you see
 You can count on me
 I will be faithful
 Faithful to my lover's prayer
-Ooooh ooooh faithful, awww
+Oh ohithful, awww
 Faithful, faithful to the dream we share
-Ooooh ooooh faithful
+Oh ohithful
 Gonna be faithful yeah yeah yeah yeah yeah
-Ooooh ooooh faithful, oooh yeah
+Oh ohithful, oh oh
 Faithful, faithful
-Oooh oooooh faithful
+Oh ohthful
 
 Baby you can lean on me
-Ooooh ooooh faithful
+Oh ohithful
 Baby you can lean on me
-Ooooh ooooh faithful
+Oh ohithful

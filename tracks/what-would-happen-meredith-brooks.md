@@ -82,7 +82,3 @@ I struggle with myself again
 Quickly the walls are crumbling
 Don't know if I can turn away
 
-
-
-
-

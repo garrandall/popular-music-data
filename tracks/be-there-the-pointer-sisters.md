@@ -63,7 +63,7 @@ And I'm saying my last prayer
 I know you're gonna be there
 Be there
 
-Ooh
+Oh
 You know that you can lie to me, baby
 I will understand
 As long as in the end you tell the truth

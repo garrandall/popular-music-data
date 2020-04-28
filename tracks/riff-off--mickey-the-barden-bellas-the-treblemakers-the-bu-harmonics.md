@@ -40,7 +40,7 @@ I'll be yours, till the end of time
 Cause you make me feel
 Yeah, you make me feel
 So shiny and new
-Like a virgin, (like a virgin) ooo
+Like a virgin, (like a virgin) oo
 Touched for the very first time
 (Touched for the very first time )
 (Like)

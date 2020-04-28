@@ -62,15 +62,15 @@ We never had it better.. yeah
 Cloudy days sunny sunshine
 Happy days will never be the same
 No no no no no
-Aaah.. get it
+Ah.. get it
 
 Oh times can be
-So hard you'll see 
+So hard you'll see
 Never never know in stormy weather
 Times can be
 So hard to be
 Never never knowing we're together... yeah
-Mmmm
+Mmm
 
 We were always sweethearts
 Different in our ways

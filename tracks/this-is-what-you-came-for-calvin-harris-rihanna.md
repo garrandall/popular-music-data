@@ -141,22 +141,22 @@ Baby, this is what you came for
 Lightning strikes every time she moves
 And everybody's watching her
 But she's looking at
-You, oh, oh, you, oh, ooh
-You, oh, oh, you, oh, ooh
-You, oh, oh, you, oh, ooh-oooh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh-oh
 
 Baby, this is what you came for
 Lightning strikes every time she moves
 And everybody's watching her
 But she's looking at
-You, oh, oh, you, oh, ooh
-You, oh, oh, you, oh, ooh
-You, oh, oh, you, oh, oooh-oooh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh-oh
 
 
-You, oh, oh, you, oh, ooh
-You, oh, oh, you, oh, ooh
-You, oh, oh, you, oh, oooh-oooh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh-oh
 
 
 We go fast with the game we play (Game we play, game we play)
@@ -168,14 +168,14 @@ Baby, this is what you came for
 Lightning strikes every time she moves
 And everybody's watching her
 But she's looking at
-You, oh, oh, you, oh, ooh
-You, oh, oh, you, oh, ooh
-You, oh, oh, you, oh, oooh-oooh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh-oh
 
 
-You, oh, oh, you, oh, ooh
-You, oh, oh, you, oh, ooh
-You, oh, oh, you, oh, oooh-oooh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh-oh
 
 
 Baby, this is what you came for
@@ -187,11 +187,11 @@ Baby, this is what you came for
 Lightning strikes every time she moves
 And everybody's watching her
 But she's looking at
-You, oh, oh, you, oh, ooh
-You, oh, oh, you, oh, ooh
-You, oh, oh, you, oh, oooh-oooh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh-oh
 
 
-You, oh, oh, you, oh, ooh
-You, oh, oh, you, oh, ooh
-You, oh, oh, you, oh, oooh-oooh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh
+You, oh, oh, you, oh, oh-oh

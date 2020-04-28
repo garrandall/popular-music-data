@@ -42,7 +42,7 @@ I think you got a hold of a bad banana
 
 Look at all them weird lookin' flowers out there
 Hey Charlie! Stay away from that man-eatin' plant
-Hmm. Up and swallered him whole
+Hm. Up and swallered him whole
 Hooo. I bet that chafes
 Hey Charlie! Throw me out the canteen, will ya
 Yeah, and the map too
@@ -57,8 +57,8 @@ He had to find his man)
 Hey, Mister Livingston
 
 Well, what do I do now
-Ahh, here it is - page 23 of the Jungle Guide
-Ahh-ooo-ahh
+Ah, here it is - page 23 of the Jungle Guide
+Ah-oo-ah
 Hey, that brung 'em all out
 Hey there! You with the bone in your nose
 Come over here a minute

@@ -146,9 +146,9 @@ A dime if you tell me that you love me (tell me you love me)
 Penny for your thoughts, a nickel for a kiss
 A dime if you tell me that you love me
 
-So here's penny for your thoughts, a nickel for a kiss (Ooh, your thoughts, baby)
+So here's penny for your thoughts, a nickel for a kiss (Oh, your thoughts, baby)
 A dime if you tell me that you love me
-Penny for your thoughts, a nickel for a kiss (Ooh, a kiss, baby)
+Penny for your thoughts, a nickel for a kiss (Oh, a kiss, baby)
 A dime if you tell me that you love me
 
 Penny for your thoughts, a nickel for a kiss
@@ -161,7 +161,7 @@ A dime if you tell me that you love me (Tell me you love me)
 Penny for your thoughts , a nickel for a kiss
 (Oh, yeah)  (Yeah, yeah)
 
-Penny for your thoughts (Ooh, baby), a nickel for a kiss
+Penny for your thoughts (Oh, baby), a nickel for a kiss
 A dime if you tell me that you love me
 
 

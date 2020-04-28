@@ -98,7 +98,7 @@ We were never seen (Never seen)
 Now I can't believe the word is out
 
 That you and I are lovers
-That you and I are lovers (Ooh, yeah)
+That you and I are lovers (Oh yeah)
 That you and I've been getting it on
 The word, the word, the word is out
 That you and I are lovers
@@ -126,12 +126,12 @@ That you and I are lovers
 That you and I've been getting it on
 The word, the word, the word is out
 That you and I are lovers (Don't you know?)
-That you and I are lovers (Ooh, yeah)
+That you and I are lovers (Oh yeah)
 That you and I've been getting it on
 The word is out
 
 That you and I are lovers (I told you so)
-That you and I are lovers (Ooh, yeah)
+That you and I are lovers (Oh yeah)
 That you and I've been getting it on
 I told you not to tell your friends, oh, yeah
 That you and I are lovers

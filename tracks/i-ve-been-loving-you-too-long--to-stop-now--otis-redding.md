@@ -66,10 +66,10 @@ I can't stop now
 You are tired and your love is growing cold
 My love is growing stronger as our affair, affair grows old
 I've been loving you oh, too long
-I don't want to stop now, ohh, ohh, ohh
+I don't want to stop now, oh, oh, oh
 
 I've been loving you a little too long
-I don't wanna stop now, ohh, ohh, ohh
+I don't wanna stop now, oh, oh, oh
 And don't make me...
 
 
@@ -120,11 +120,11 @@ All you gotta do is, man, hold her where you want her
 
 Squeeze her, don't tease her, never leave her
 Get to her, try, try
-Just try a little tenderness, ooh yeah yeah yeah
+Just try a little tenderness, ohyeah yeah yeah
 You got to know how to love her, man, you'll be surprised, man
 You've got to squeeze her, don't tease her, never leave
 You've got to hold her and rub her softly
-Try a little tenderness, ooh yeah yeah yeah
+Try a little tenderness, ohyeah yeah yeah
 You've got to rub her gentle man, all you gotta do, no no
 You've got to love her, squeeze her, don't tease her
 Gotta try nah nah nah, try

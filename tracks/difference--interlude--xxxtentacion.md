@@ -21,10 +21,10 @@ Baby, I just wanna show you things
 Girl, I'll be different
 Baby, I could buy you wedding rings
 Couldn't give a fuck about the distance
-Ouu-ohh, ouu-oh, ouu-oh, ouu-oh
-Ouu-ohh-oh, ouu-oh, ouu-oh, ouu-oh
-Ouu-ohh-oh, ouu-oh, ouu-oh, ouu-oh-oh
-Ouu-ohh-oh, ouu-oh, ouu-oh, ouu-oh-oh
+Ouu-oh, ouu-oh, ouu-oh, ouu-oh
+Ouu-oh-oh, ouu-oh, ouu-oh, ouu-oh
+Ouu-oh-oh, ouu-oh, ouu-oh, ouu-oh-oh
+Ouu-oh-oh, ouu-oh, ouu-oh, ouu-oh-oh
 Yeah-aha, let's play it back
 
 

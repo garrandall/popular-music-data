@@ -105,7 +105,7 @@ And you’re the only one my heart desires
 You’re the only one I wanna slow dance with
 (Girl, you’re the only one, hey Mr. DJ, why don’t you slow this party down)
 You’re the only one I wanna slow dance with
-(Ooh, let the record spin, now baby, take my hand, oh)
+(Oh, let the record spin, now baby, take my hand, oh)
 
 
 Let the music play

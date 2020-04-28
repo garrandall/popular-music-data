@@ -111,9 +111,6 @@ And I ain't gonna stand for it baby
 And I ain't gonna stand for it baby
 I ain't gonna stand for it baby
 
-
-
-
 And I ain't gonna stand for it baby
 And I ain't gonna stand for it baby
 And I ain't gonna stand for it baby

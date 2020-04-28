@@ -96,15 +96,15 @@ You were Coolatta with the strawberry lips,
 You had the whole world danglin' at your fingertips.
 Your senior year, an' I was your daddy's worst fear.
 We ran off on graduation night.
-Thought a couple of left-hand rings would make everything all right. 
+Thought a couple of left-hand rings would make everything all right.
 
 With a little bit a-live, little bit a-learn,
 Little bit a-watchin' a few more candles burn,
 And findin' out what life was.
-Ooh, with a little bit a-fuss, little bit a-fight,
+Oh, with a little bit a-fuss, little bit a-fight,
 Little bit a-kiss and makin' up all night,
 An' one day wakin' up, oh, in a real love.
-Yes, that's right. 
+Yes, that's right.
 
 Well, I was 22, workin' double overtime.
 I was spendin' dollars an' makin' dimes.
@@ -113,18 +113,18 @@ An' then one night you came to me,
 With tears in your eyes and the EPT and said:
 "Guess what? Yeah, baby ready or not."
 Well, I just smiled but I was scared to death:
-How am I gonna' have a kid when I'm only a kid myself. 
+How am I gonna' have a kid when I'm only a kid myself.
 
 With a little bit a-live, little bit a-learn,
 Little bit a-watchin' a few more candles burn,
 And findin' out what life was.
-Ooh, with a little bit a-fuss, little bit a-fight,
+Oh, with a little bit a-fuss, little bit a-fight,
 Little bit a-kiss and makin' up all night,
 An' one day, wakin' up, oh, in a real love.
 Whoa, in a real love.
-Yeah, it's a real love. 
+Yeah, it's a real love.
 
-Mmmm, with a little bit a-live, little bit a-learn,
+Mmm, with a little bit a-live, little bit a-learn,
 Little bit a-watchin' a few more candles burn,
 And findin' out what life was.
 Mmm, with a little bit a-fuss, little bit a-fight,

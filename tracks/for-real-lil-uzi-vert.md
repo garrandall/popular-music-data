@@ -23,9 +23,9 @@ Told her I love her, ain't mean it (What?)
 That's because her head the meanest (What?)
 You heard that I am from Mars
 I heard that you was from Venus (Okay)
-I met that bitch in a meeting (Ooh)
-I fucked that bitch from the meeting (Ooh)
-I been was planning to leave her (Ooh)
+I met that bitch in a meeting (Oh)
+I fucked that bitch from the meeting (Oh)
+I been was planning to leave her (Oh)
 So I just left it to Jesus
 Yuh, yuh, yuh, yuh, yuh
 Lil Vert like Gerald (Damn)

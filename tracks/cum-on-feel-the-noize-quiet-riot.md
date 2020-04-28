@@ -179,7 +179,7 @@ We're gonna get rocked tonight (cum on feel the noize)
 
 Rock it tonight (girls rock your boys)
 We'll get wild, wild, wild
-OH YEAH!!
+OH YEAH!
 
 Ah, ah, ah (woooo)
 Ah, ah, ah

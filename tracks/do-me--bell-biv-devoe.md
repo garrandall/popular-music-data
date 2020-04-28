@@ -153,7 +153,7 @@ No time to chill, got a date
 Can't be late
 Hey, the girl is gonna do me
 Move to the jacuzzi
-Ooh that booty
+Oh that booty
 Smack it up, flip it, rub it down, oh no...
 
 

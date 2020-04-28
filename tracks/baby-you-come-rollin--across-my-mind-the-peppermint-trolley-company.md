@@ -48,7 +48,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-08-10'
 ---
-Ev'ry now and then, I see you again
+Every now and then, I see you again
 Baby you come rollin' across my mind
 Every once or twice when feeling's kinda nice
 Baby you come rollin' across my mind

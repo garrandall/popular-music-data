@@ -32,8 +32,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-08'
 ---
-Ooh, ooh
-Ooh, ooh
+Oh, oh
+Oh, oh
 Yeah, yeah
 Yeah, yeah
 

@@ -89,7 +89,7 @@ rankings:
   start_date: '2000-12-23'
 ---
 Mmm! Mmm, mmm, mmm
-Oooh-OOOH!
+Oh-OOOH!
 
 
 Shake ya ass, but watch yourself
@@ -134,8 +134,8 @@ Shake ya ass, but watch yourself
 Shake ya ass, show me what you working with
 
 
-I like my women fire like CAY-ENNE!!
-Chocolate and bowlegged - when I'm runnin up behind her!!
+I like my women fire like CAY-ENNE!
+Chocolate and bowlegged - when I'm runnin up behind her!
 Go head do your job, pop the lock, let the cock out
 For girl don't lie you know you wanna go back to my house
 "The Man Right Chea" wanna get under that dress right there
@@ -145,7 +145,7 @@ And you gotta bend all the way over to dance off this
 Handle yo' business but I know you do it way better, you dead wrong
 So if you talking bout how niggas make noise when you pass by
 Get yo' fine ass on the floor girl this yo' fuckin song!
-Do yo' thang dont be scared, cause you gon' get served
+Do yo' thang don't be scared, cause you gon' get served
 You get mine then you gon' get yours
 Bout to make yo' ass love it
 Raise it up, show the G-string hustling hustling
@@ -168,7 +168,7 @@ Shake ya ass, show me what you working with
 Stop yo' cryin heffer, I don't need all that
 I got a job for you - the braided up pimp is back
 Break them handcuffs, fuck you nigga move something
-And if they ask you what you doin say, "Ooohh nuttin!"
+And if they ask you what you doin say, "Oh nuttin!"
 And we been doin for the past 2 somethin
 And I've been beatin that pussy up not smooth fucking
 You can betcha bottom dollar; if that pussy fire

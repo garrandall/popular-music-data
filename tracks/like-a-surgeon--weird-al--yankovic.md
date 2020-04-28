@@ -83,12 +83,12 @@ Cuttin' for the very first time
 Like a surgeon
 Got your kidneys on my mind
 
-Like a surgeon, ooh like a surgeon
+Like a surgeon, oh like a surgeon
 When I reach inside
 With my scalpel, and my forceps, and retractors
 Oh oh, oh oh, woe, oh
 
-Ooh baby, yah
+Oh baby, yah
 I can hear your heartbeat
 For the very last time
 

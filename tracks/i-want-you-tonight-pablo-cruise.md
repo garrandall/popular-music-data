@@ -75,7 +75,7 @@ rankings:
 
 Yesterday I swore
 I was gonna switch you
-But today I'm back for more, ooh
+But today I'm back for more, oh
 I can't resist you
 Starvin' just to feed the feel
 But lust just to make a deal
@@ -106,7 +106,7 @@ We all need more of each other
 I want you tonight
 I feel like getting crazy, yeah
 Oh, I know it's not right
-But who is gonna save me? oh-ooh!
+But who is gonna save me? oh-oh
 I want you tonight man I'm thinkin' maybe
 Oh, I know it ain't right but who is gonna save me?
 

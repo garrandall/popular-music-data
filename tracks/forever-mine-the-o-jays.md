@@ -63,7 +63,7 @@ rankings:
 Forever mine
 All because you're my kind, oh baby
 I got what you want, you got what I want
-And we were made for each other, ooh
+And we were made for each other, oh
 
 Forever mine
 And I'm so glad 'cause it gets better with time, oh girl
@@ -79,9 +79,9 @@ Don't go, stay, stay
 
 
 Forever mine
-Ah, we're, we're one of a kind, mmm, mmm, ooh, ooh, baby girl
+Ah, we're, we're one of a kind, mmm, mmm, oh oohbaby girl
 I need what you need, you need what I need
-And we were made for each other, ooh, oh girl
+And we were made for each other, oh oh girl
 
 
 Oh, baby, I wanna love you
@@ -108,9 +108,9 @@ If you wasn't here with me, stay
 
 
 Forever mine, oh
-'Cause, 'cause you're my kind, ooh, ooh, baby, baby, baby girl
+'Cause, 'cause you're my kind, oh oohbaby, baby, baby girl
 You know that I like what you like (Good love), you like what I like (Good lovin')
-Hey...we belong together, ooh, baby, oh, baby, you
+Hey...we belong together, oh baby, oh, baby, you
 
 
 I got what you want, you got what I want
@@ -120,7 +120,7 @@ We were made for each other, girl, for each other, baby
 I got what you want so don't you ever think about leavin'
 Oh, baby, oh, girl, I like what you like
 'Cause it's you I'm thinkin' about pleasin'
-Ooh, ooh baby, oh girl, oh girl
+Oh ohbaby, oh girl, oh girl
 I know that ever think about leavin' (I need good lovin')
 Oh, baby, oh, baby 'cause (And if you need me)
 You I'm thinkin' about pleasin'

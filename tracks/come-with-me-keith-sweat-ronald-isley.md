@@ -64,7 +64,7 @@ This one goes out to you, yeah
 Would you mind
 If I kiss your lips a thousand times
 Would you mind
-And baby would you mind 
+And baby would you mind
 If I could just sit here
 Take my time
 Would you mind
@@ -84,12 +84,8 @@ The thought of it just drives me wild
 
 
 
-Come and go with me 
+Come and go with me
 Girl then you will see
 I wanna love you now
 Make your body spin around and around and around and around
-
-
-
-
 

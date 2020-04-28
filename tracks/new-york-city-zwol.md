@@ -80,7 +80,7 @@ New York City, I do
 
 New York City
 I love you
-Ooh, come on
+Oh come on
 
 New York, I love that city
 New York, I love that city

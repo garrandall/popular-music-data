@@ -43,8 +43,8 @@ Every time I look into your eyes I see it
 You're all I need
 Every time I get a bit inside I feel it
 
-Oooooooh, who could've thought I'd get you
-Oooooooh, who could've thought I'd get you
+Oh, who could've thought I'd get you
+Oh, who could've thought I'd get you
 
 And when we're making love
 Your cries they can be heard from far and wide
@@ -54,10 +54,10 @@ Every time I look into your eyes I see it
 You're all I need
 Every time I get a bit inside I feel it
 
-Oooooooh, who could've thought I'd get you
+Oh, who could've thought I'd get you
 Oh yeah
 Oh yeah babe
-Oooooooh, who could've thought I'd get you
+Oh, who could've thought I'd get you
 
 
 And I'll take some time
@@ -77,8 +77,8 @@ Don't you love when I come around
 Build you up then I take...
 
 
-Oooooooh, who could've thought I'd get you
-Oooooooh, who could've thought I'd get you
+Oh, who could've thought I'd get you
+Oh, who could've thought I'd get you
 
 
 This feels like summer

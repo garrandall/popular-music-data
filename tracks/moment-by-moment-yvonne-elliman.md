@@ -42,7 +42,7 @@ And all the ways you feel touching me
 Moment by moment
 Our life time goes on
 Till one day
-Ooh, some days are gone
+Oh, some days are gone
 
 Look at us
 Two drifters with a dream
@@ -53,18 +53,18 @@ It might be beautiful if we do
 Moment by moment
 Our life time goes on
 Till one day
-Ooh, some days are gone
+Oh, some days are gone
 
-Ooh hoo
+Oh hoo
 Moment by moment
 The choices we make
 Depend on the chances we take
-Ooh, for moment
+Oh, for moment
 
 Moment by moment
 Our life time goes on
 Till one day
-Ooh, some days are gone
+Oh, some days are gone
 
 
 

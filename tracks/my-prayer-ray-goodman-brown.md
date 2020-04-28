@@ -70,7 +70,7 @@ And your lips close to mine
 Tonight while our hearts are aglow
 Oh, tell me the words that I'm longing to know
 
-Woo... ooh... ooh... ooh... ooh... ooh... ooh...
+Woo... oh.. oh. ohoh oh.ohoh...oh...oh
 
 My prayer (My prayer)
 And the answer you give (Answer you give)

@@ -121,8 +121,8 @@ Oh, oh, oh
 I'm on fire
 
 
-Ooh-ooh, ooh
-Ooh-ooh, ooh-ooh
-Ooh-ooh-ooh, ooh-ooh
-Ooh, ooh, ooh, ooh-ooh
-Ooh-ooh-ooh, ooh-ooh
+Oh-oh, oh
+Oh-oh, oh-oh
+Oh-oh-oh, oh-oh
+Oh, oh, oh, oh-oh
+Oh-oh-oh, oh-oh

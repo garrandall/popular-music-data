@@ -114,7 +114,7 @@ So girl, don't be shy, oh, just...
 
 Let's go to the mall, baby
 I'll pick you up around noon, baby
-Don't you worry ‘bout a thing, ooh ooh
+Don't you worry ‘bout a thing, oh oh
 ‘Cause I've got all the answers, girl
 To the questions in your head
 And I'm gonna be right there for you, baby, hey..
@@ -127,7 +127,7 @@ And I'm gonna be right there for you, baby, hey..
 (Give me that honey love) Give it to me
 (Give me that honey love) See, I gotta have your honey love, baby, slow
 (Give me that honey love) Give me that sweet, sweet love, hey
-(Give me that honey love) Ooh, so...
+(Give me that honey love) Oh, so...
 
 
 (Baby, come inside) Woo, turn down the lights
@@ -146,7 +146,7 @@ Sure taste good to me
 So let's lay down
 And get close 'til we become one
 And I promise you, baby
-Ooh, we're gonna have fun, alright
+Oh, we're gonna have fun, alright
 
 
 (Give me that honey love) Give me that honey love

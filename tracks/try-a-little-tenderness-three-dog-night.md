@@ -56,19 +56,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
 ---
-Ooh, she may be weary
+Oh, she may be weary
 Young girls they do get weary
 Wearing that same old funky dress
-But, ooh, while she gets weary weary
+But, oh while she gets weary weary
 Won't you try some ten—tenderness
 
 You know she's there waitin'
 And anticipatin'
 For the thing she'll never, never have
 Oh, no no
-Ooh, while she gets weary
+Oh, while she gets weary
 Won't you try, oh, try some tenderness
-Mmm hmm
+Mmm hm
 
 And I know it, hah
 Sentimental no no, ah
@@ -80,7 +80,7 @@ Made it easier, easy girl, easier to bear
 You know you won't regret it, no ah
 Young girls they don't forget it
 Lovin' the same old, same old happiness, yeah, ha yeah
-Ooh, while she gets weary weary
+Oh, while she gets weary weary
 Won't you try, oh, try some tenderness
 I feel good, Lord, in the mornin'
 

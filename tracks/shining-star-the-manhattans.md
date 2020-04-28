@@ -108,7 +108,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-10-11'
 ---
-Oooooohh yeahhhh
+Oh yeahhhh
 
 
 Honey you are my shining star
@@ -120,7 +120,7 @@ Until my dying day, yeah baby
 
 So many have tried
 Tried to find a love like yours and mine
-Mmmmm hmmmmm mmmmmm
+Mmm hm mmm
 Girl don't you realize
 How you hypnotize
 Make me love you more each time, yeah baby
@@ -153,17 +153,17 @@ Honey you are my shining star
 Don't you go away girl
 No-o-o-o baby
 Wanna be right here where you are
-Until my dying day, mmmm hmmmm
+Until my dying day, mmm hm
 Honey you, you, you are my shining star
 Don't you go away, wo-o-o-oah baby
 Honey you are my shining star
 Don't you go away, no-o-o-o baby
 Honey be, right here where you are
-Until my dying day, ahhhh yeah
+Until my dying day, ah yeah
 Honey you, you, you are my shining star
 You are my shining star no-o-o
 Honey you, you are my shining star
 Don't you go away, yeah baby
 Honey you are my shining star
-Don't you go away, ooh baby
+Don't you go away, oh baby
 Honey, you, you, you, you, you

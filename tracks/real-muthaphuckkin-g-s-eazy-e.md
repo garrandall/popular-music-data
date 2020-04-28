@@ -73,10 +73,10 @@ rankings:
   start_date: '1994-02-26'
 ---
 Compton, Compton, Compton
-Ahh, real muthaphuckkin G's
-Ahh, real muthaphuckkin G's
-Ahh, real muthaphuckkin G's
-Ahh, real muthaphuckkin G's
+Ah, real muthaphuckkin G's
+Ah, real muthaphuckkin G's
+Ah, real muthaphuckkin G's
+Ah, real muthaphuckkin G's
 
 
 Hey yo, Doctor, here's another proper track

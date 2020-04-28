@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: family-man-daryl-hall-john-oates
+lyrics_url: https://www.azlyrics.com/lyrics/halloates/familyman.html
 name: Family Man
 rankings:
 - end_date: '1983-05-06'
@@ -71,4 +72,86 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-08-13'
 ---
+She had sulky smile
+She took her standard pose
+As she presented herself
+She had sultry eyes
+She made it perfectly plain
+That she was his for a price
 
+But he said, leave me alone
+I'm a family man
+And my bark is much worse
+Than my bite
+He said, leave me alone
+I'm a family man
+But if you push me too far
+I just might
+
+She wore hurt surprise
+As she rechecked her make-up
+To protect herself
+Dropped her price and pride
+She made it totally clear
+That she was his for a night
+
+But he said (leave me alone)
+I'm a family man
+And my bark is much worse
+Than my bite
+He said (leave me alone)
+I'm a family man
+But if you push me too far
+I just might
+
+She gave him her look
+It would've worked
+On any other man around
+He looked her up and down
+She knew he couldn't decide
+If he should hold his ground
+
+But he said (leave me alone)
+I'm a family man
+And my bark is much worse
+Than my bite
+He said (leave me alone)
+I'm a family man
+But if you push me too far
+I just might
+
+She turned, tossed her head
+Unlike her opening move
+Her final exit line
+He waited much too long
+But by the time he got his courage up
+She was gone
+
+Then he screamed (leave me alone)
+I'm a family man
+And my bark
+Is much worse than my bite
+He said (leave me alone)
+I'm a family man
+But if you push me too far
+I just might
+
+He said (leave me alone)
+I'm a (family man)
+And I don't think I want tonight
+And he said (leave me alone)
+I'm a family man
+But if you push me too far
+I just might
+He said (leave me alone)
+I'm a family man
+And my bark is much worse
+Than my bite
+He said (leave me alone)
+I'm a family man
+If you push me too far
+I just might
+He said (leave me alone)
+I'm a family man
+Leave me alone
+'Cause I've got to go home

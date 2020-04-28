@@ -67,8 +67,8 @@ DJ turn me up
 Roscoe dats wassup (wassup) and shawty we
 
 
-All the way turnt up 
-All the way turnt up (shawty we all the way turnt up) 
+All the way turnt up
+All the way turnt up (shawty we all the way turnt up)
 
 
 DJ turn me up, crank it to the max
@@ -90,7 +90,7 @@ Den I roll up all my windows, and I crank dis shit some moe broooooo
 
 Hopped up out da bed, wat happenin
 Soulja Boy Tellem, turn them to my level man
-Yeeaaah
+Yeah
 Money on the table
 All up in Mexico, gettin to the peso
 Whoooa
@@ -108,9 +108,6 @@ Choke til u can't choke no mo
 Work til u can't work no mo
 I'm rich I can't get rich no mo
 
-
-
-
 Turn up
 All I kno is turn up
 Smokin like a hippie I swear all I do is burn up
@@ -119,7 +116,7 @@ I'm like free turn up
 Excuse me wile I turn up
 All dese hoes be choosen but I'm turnt up all the way
 I don't turned up on da road
-I be turned up round da globe 
+I be turned up round da globe
 All dese niggas mad cause I be pullin all they hoes
 First I get em to the room
 They be turnt up out they clothes like
@@ -129,8 +126,4 @@ I don't think dese niqqas really kno jus how I am
 Just r-o-s-c-o-e dash
 And I gets lots of cash
 But for short u call me Mr Way to turnt up for your ass
-
-
-
-
 

@@ -89,9 +89,6 @@ Than I could give
 We knew our love could not pretend
 Broken hearts can always mend
 
-
-
-
 Calling out her name I'm dreaming
 Reflections of a face I'm seeing
 It's her voice

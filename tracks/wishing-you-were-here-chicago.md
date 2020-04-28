@@ -69,16 +69,16 @@ rankings:
   start_date: '1975-01-25'
 ---
 Sleepless hours and dreamless nights and far aways
-Ooo ooo ooo, wishing you were here
+Ooo oo oo, wishing you were here
 Heaven knows and Lord it shows when I'm away
-Ooo ooo ooo, wishing you were here
+Ooo oo oo, wishing you were here
 
 Ah ah...
 
 Same old show in a different town on another day
-Ooo ooo ooo, wishing you were here
+Ooo oo oo, wishing you were here
 Even though you're far away, you're on my mind
-Ooo ooo ooo, wishing you were here
+Ooo oo oo, wishing you were here
 
 Ah ah...
 
@@ -88,10 +88,10 @@ But I've got my job to do, and I do it well
 (Change my life, change my life)
 So I guess that's how it is
 
-Ooo ooo ooo, wishing you were here
-Ooo ooo ooo, wishing you were here ...
+Ooo oo oo, wishing you were here
+Ooo oo oo, wishing you were here ...
 
 On the road it's a heavy load, but I'll be by
-Ooo ooo ooo, wishing you were here
+Ooo oo oo, wishing you were here
 Pay the price, make a sacrifice, and still I'll try
-Ooo ooo ooo, wishing you were here
+Ooo oo oo, wishing you were here

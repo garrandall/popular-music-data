@@ -222,8 +222,8 @@ In the sha-ha-sha-ha-ha-low
 We're far from the shallow now
 
 
-Wooaaaah
-Woaaaaaaaaaaah
+Woah
+Woah
 
 I'm off the deep end, watch as I dive in
 I'll never meet the ground

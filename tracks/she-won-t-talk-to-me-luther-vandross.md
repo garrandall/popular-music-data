@@ -93,7 +93,7 @@ Wanna show you a love that you just, you gotta see
 (I just wanna talk to you) But she won't talk to me
 
 
-And ooh, I'm telling everyone
+And oh I'm telling everyone
 I'm not dreaming anymore
 'Cause I know she won't talk to me now
 And at least she can't say no

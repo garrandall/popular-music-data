@@ -85,7 +85,6 @@ Hey girl hey hey hey everyday since you have gone away
 Don't you know that I love you, love you, love you, love you,
 Love you girl I love you so awww
 
-Chorus
 
 In a moment...
 

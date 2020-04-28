@@ -58,7 +58,7 @@ It's ourselves we got to get to know
 Oh, hey, don't forget about me now, baby
 Baby, please, don't forget about me now
 Baby, please, please don't forget about me, baby
-Ooh, baby, please, oh
+Oh, baby, please, oh
 Hey, don't forget about me now, baby
 Baby, please, please don't forget about me
-Ah-ha, yeah, ooh
+Ah-ha, yeah, oh

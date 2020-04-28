@@ -78,7 +78,7 @@ Watchin' winter turn to spring
 Walkin' in the dark
 Seein' lovers do their thing
 
-Oo-oo-ooh
+Oo-oo-oh
 That's the time
 I feel like makin' love to you
 That's the time
@@ -89,7 +89,7 @@ When you're moanin' sweet and low
 When you're touchin' me
 And my feelin's start to show
 
-Oo-oo-ooh
+Oo-oo-oh
 That's the time
 I feel like makin' love to you
 That's the time
@@ -100,7 +100,7 @@ holdin' hands by candlelight
 While I'm touchin' you
 Wanting you with all my might
 
-Oo-oo-ooh
+Oo-oo-oh
 That's the time
 I feel like makin' love to you
 That's the time
@@ -111,7 +111,7 @@ Watchin' winter turn to spring
 Walkin' in the dark
 Seein' lovers do their thing
 
-Oo-oo-ooh
+Oo-oo-oh
 That's the time
 I feel like makin' love to you
 

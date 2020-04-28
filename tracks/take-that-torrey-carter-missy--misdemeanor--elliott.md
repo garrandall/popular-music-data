@@ -2,7 +2,7 @@
 artists:
 - Torrey Carter
 features:
-- Missy "Misdemeanor" Elliott
+- Missy Elliott
 genres: []
 key: take-that-torrey-carter-missy--misdemeanor--elliott
 lyrics_url: https://genius.com/Torrey-carter-tc-take-that-lyrics
@@ -57,7 +57,7 @@ She ripped me off like clothes
 I suppose
 (Yo zhiggy, zhiggy take that)
 
-1 - 
+1 -
 Take that, get back
 Dumb chicks tryna take my scratch
 Hey trick, get back
@@ -101,7 +101,7 @@ This means I'm not fuckin' wit' you
 This means no more money for you
 This means you can get the steppin'
 
-Repeat 1 (2x)
+Repeat 1
 
 
 Bang, bang, bang, bang that shit

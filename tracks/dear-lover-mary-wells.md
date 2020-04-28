@@ -76,9 +76,9 @@ Could make me feel so much better
 
 Yeahhh
 
-(Dear lover)ooh I need ya
+(Dear lover)oh I need ya
 (Dear lover) aim to please ya
 (Dear lover)if you would just answer my letter
 (Dear lover)it would make me fell so much better
-(Dear lover) ooooh I love ya
+(Dear lover) ohlove ya
 (Dear lover)

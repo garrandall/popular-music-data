@@ -48,8 +48,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-04-09'
 ---
-SOMETHIN' 'BOUT 'CHA
-Latimore
 Baby, there ain't no other place
 In the world that I'd rather be
 And I'm going to stay right here
@@ -58,10 +56,10 @@ Baby, I feel so good
 I feel so good every time I get close to you
 Words can't express the feelings
 That I have in my heart for you
-There's somethin' about cha, ooo baby
+There's somethin' about cha, oo baby
 There's somethin' about cha
 'I don't know what it is
-There's somethin' about cha, oooo baby
+There's somethin' about cha, oo baby
 There's somethin' about cha
 If there's anything you ever need or want
 Just tell me about it
@@ -70,7 +68,6 @@ I'm gonna try to give you everything you want
 When you want it, how you want it
 Every time you think you want it
 
-(repeat chorus)
 Baby come on and lay your
 Fine self down here by my side
 I want to make sweet love to you
@@ -79,4 +76,3 @@ And just as long as I know I got you
 I don't need nobody else
 If the Lord made anything better than you
 He must have kept it to himself
-(repeat chorus

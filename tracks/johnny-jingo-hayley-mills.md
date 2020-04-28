@@ -56,13 +56,13 @@ I never loved any boy like I loved Johnny Jingo
 I never kissed any boy like I kissed Johnny Jingo
 Im through with Billy, Willy, Ricky, Dickey, Eddie, Freddie
 Got me a brand new steady
-Ooh what he does what he does to my heart when he holds me
-Ooh how I love when he whispers in my ear
+Oh what he does what he does to my heart when he holds me
+Oh how I love when he whispers in my ear
 This is love, the feeling is zingo, zingo
 I never loved any boy like I loved Johnny Jingo
 
-Ooh what he does what he does to my heart when he holds me
-Ooh how I love when he whispers in my ear
+Oh what he does what he does to my heart when he holds me
+Oh how I love when he whispers in my ear
 This is love, the feeling is zingo, zingo
 I never loved any boy like I loved Johnny Jingo
 Yeah! I never loved any boy like I loved Johnny Jingo

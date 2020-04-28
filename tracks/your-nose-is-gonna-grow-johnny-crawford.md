@@ -70,8 +70,8 @@ Go ahead, explain But remember if you lie
 
 The bogeyman will get you And your nose is gonna grow-oh-oh-oh-oh-oh
 
-So remember, if you lie ev'ryone will know, ooh-oh-oh
+So remember, if you lie ev'ryone will know, ohoh-oh
 
 The bogeyman will get you Your nose is gonna grow-oh-oh-oh-oh-oh
 
-The bogeyman will..............FADE
+The bogeyman will...FADE

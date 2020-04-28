@@ -84,7 +84,7 @@ I said, "Listen to this, here's all you're doing."
 "Oh, don't do it!
 (Don't do it!)
 "Send that young girl on home."
-Mmmm-mmmm-mmm.
+Mmm-mmm-mmm.
 
 Then there was this middle-aged woman whose name I dare not call --
 Simply because you out there listening

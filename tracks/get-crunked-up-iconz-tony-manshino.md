@@ -37,7 +37,7 @@ C'mon...
 
 If you smoke weed now
 In this bitch hit you all wit a clown
-Got a drink that you cant put down?
+Got a drink that you can't put down?
 When a fight, will the shit go down?
 Get crunked up, (get crunked up)
 Get crunked up, (get crunked up)
@@ -68,7 +68,7 @@ The way comedy take control, yall gon fall behind
 
 Yo get crunked up, stay crunked up
 Roll to the club in a navigator truck
-Fly out the bar like i dont give a what...
+Fly out the bar like I don't give a what...
 Who you know out there stay fandied up
 Plus these classy chicks they sick of shit
 You need more then Benz cool to taste this chick
@@ -89,10 +89,10 @@ Get crunked up (get crunked up)
 How the fuck you wanna be like us?
 You aint fly
 Like TLC, she got it from Left Eye
-We from the streets, got boys you cant buy
+We from the streets, got boys you can't buy
 You ever gon find, my niggas die high
 Sip on this fith see here like Jimmy Keith
-Yall pussy ass niggas cant ride with us
+Yall pussy ass niggas can't ride with us
 Bust guns with us
 Get money with us
 Still going around saying you bad as us
@@ -106,7 +106,7 @@ And your crew does not
 Me while your bitch ready what we got
 You heard she gave us head outside in the drop
 Then went home and tongue kiss you
-Your only reply was "baby i miss you"
+Your only reply was "baby I miss you"
 See that's the difference between yalls and ours
 Yall baby stretch ours from here to tomorrow (uh)
 From here to tomorrow (yall feel free to love that there)

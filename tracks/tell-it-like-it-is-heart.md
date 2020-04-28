@@ -80,7 +80,7 @@ And I don't want no little boy
 But if you, if you are serious
 Don't go playing with my heart, it makes me furious
 And if want me to love you
-Ooo baby, I will, ooo yeah I will
+Ooo baby, I will, oo yeah I will
 
 Tell it like it is
 Oh yeah, just let your conscience be your guide

@@ -103,7 +103,7 @@ Wanna do it some more
 Can't stop groovin' right now
 Wanna do it some more
 
-Ooh, well, I thought I had enough
+Oh, well, I thought I had enough
 But I'm still ready to go
 Well, well, I thought I had enough
 But now I want some more
@@ -116,12 +116,12 @@ Gimme some more
 I can't stop
 'Cause I want some more
 I can't stop
-Ooh, I want some more
+Oh, I want some more
 
 I can't stop
 'Cause I want some more
 I can't stop
-Ooh, I want some more
+Oh, I want some more
 
 Come on
 Gimme some more
@@ -137,7 +137,7 @@ Wanna do it some more
 Can't stop groovin' right now
 Wanna do it some more
 
-Ooh, well, I thought I had enough
+Oh, well, I thought I had enough
 But I'm still ready to go
 Well, well, I thought I had enough
 But now I want some more
@@ -160,12 +160,12 @@ Keep on movin'
 I can't stop
 'Cause I want some more
 I can't stop
-Ooh, I want some more
+Oh, I want some more
 
 I can't stop
 'Cause I want some more
 I can't stop
-Ooh, I want some more
+Oh, I want some more
 
 Can't stop groovin' right now
 I wanna do it some more

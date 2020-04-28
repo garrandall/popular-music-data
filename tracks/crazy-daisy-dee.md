@@ -62,7 +62,7 @@ C'mon get started
 It doesn't matter if you're infirm
 Dance to the rhythm is your concern
 We get up, get crazy, healling
-....... and jack you're chilling
+... and jack you're chilling
 
 Dance to the rhythm for me to make you crazy
 Don't think that I can make you leavin'
@@ -83,7 +83,7 @@ Dance to the rhythm for me to make you crazy
 Don't think that I can make you leavin'
 
 Stop moving the mic I'm doing my case
-I'm comin' on strong ........
+I'm comin' on strong ...
 So free your mind and go into it
 Take your time, and let's hell do it
 Don't forget the name is Daisy

@@ -48,7 +48,7 @@ Flowers dying in their bed
 Oh, yeah
 
 Why is everyone crying?
-Mmm, hmm
+Mmm, hm
 Look up children, look and see
 Shining down on you and me, yeah
 
@@ -64,7 +64,7 @@ Oh, can't you hear the angels calling?
 Oh, yeah
 
 Listen
-Mmm, hmm
+Mmm, hm
 Shining through eternity
 As it was so it shall be, yeah
 

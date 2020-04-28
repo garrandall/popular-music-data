@@ -30,7 +30,6 @@ Give a fuck about these bitches, uhh, and that's the hook
 You know how I'm gon' get it, split it, off the books
 And you ain't got to love me, trust me, simply put
 
-Chorus:
 
 When you countin on your peoples and they don't pull through
 I'ma do me (you gots to do you)
@@ -58,7 +57,6 @@ No Limit like Master P I like how he Do Dat There
 Listen here I'm livin sort of dan-gerous-ly
 Plus I'm bulletproof no use in aimin at me
 
-Chorus
 
 I spits pure fire, I burn the finest of designs
 Heather B that MC that runs up on em from behind
@@ -77,7 +75,6 @@ Plus I shed, more light right, than Thomas, Edison
 And I'll take it there end your career with one stroke of my pen
 And I got enough love, I don't need no mo' friends
 
-Chorus
 
 When they poppin champagne and you only drinkin brew
 I'ma do me (you gots to do you)

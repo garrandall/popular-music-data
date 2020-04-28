@@ -40,25 +40,25 @@ Gently run your fingers through my hair
 Mmm, touch these ears that listened to your wishes
 Most of them fulfilled, and that's a lot
 Let your soft gentle hands caress my body
-And then tell me what he's got that i ain't got
+And then tell me what he's got that I ain't got
 
-Oh, yes tell me what he's got that i can't give you
-Well, it must be something i was born without
+Oh, yes tell me what he's got that I can't give you
+Well, it must be something I was born without
 You took an awful chance to be with another man
-So tell me what he's got that i ain't got
-Laura, see these walls that i built for you
-Laura, see this carpet that i laid
+So tell me what he's got that I ain't got
+Laura, see these walls that I built for you
+Laura, see this carpet that I laid
 See those fancy curtains on the windows
 Touch those satin pillows on your bed
 
 Laura, count the dresses in your closet
 Note the name upon the checkbook in your bag
-And if there's time before i pull this trigger
-Then tell me what he's got that i ain't got
+And if there's time before I pull this trigger
+Then tell me what he's got that I ain't got
 
-Oh, yes tell me what he's got that i can't give you
-Well, it must be something i was born without
-And if there's time before i pull this trigger
-Then tell me what he's got that i ain't got
+Oh, yes tell me what he's got that I can't give you
+Well, it must be something I was born without
+And if there's time before I pull this trigger
+Then tell me what he's got that I ain't got
 
-Laura, tell me what he's got that i ain't got
+Laura, tell me what he's got that I ain't got

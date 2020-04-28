@@ -112,7 +112,7 @@ I see you Wayne, I'm lookin at the ..
 
 
 Looking at me now I can see my past
-Damn ! I look just like my fucking dad
+Damn! I look just like my fucking dad
 Light it up, that's smoke at mirrors
 I even look good in the broken mirror
 I see my mama smile that's a blessing
@@ -124,9 +124,6 @@ So I'm starting with the man in the ..
 
 MJ taught me that
 Take 'em to Mars, man
-
-
-
 
 Hey B.P., looks like I did take 'em to Mars this time?
 

@@ -33,14 +33,14 @@ Don't be afraid, do as I say, baby
 Don't be afraid, do as I say, baby
 
 (Yeah!)
-(Ooh ooh ooh ooh)
-(Ooh ooh ooh ooh)
+(Ohohoohhoh
+(Ohohoohhoh
 
 Don't be afraid, do as Isay, baby
 (Hold me, hold me, hold me)
 Don't be afraid, do as I say, baby
 (Thrill me, thrill me, thrill me)
 Don't be afraid, do as I say, baby
-(Kiss me, ahh!)
+(Kiss me, ah!)
 Don't be afraid, do as I say, baby
 (Love me, love me, love me)

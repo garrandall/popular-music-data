@@ -106,9 +106,6 @@ Sleeping with your man
 Creepin' with your friends
 Saying you wanna get with me
 
-
-
-
 Now boy you know just as well as I do
 In order to go half on a baby, it takes two
 Yes it does, yes it does, yes it does

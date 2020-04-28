@@ -43,11 +43,11 @@ rankings:
 
 Do do do do do
 Do do do do do
-Do dooo
+Do doo
 Doo do do
 Do do do do do
 Do do do do do
-Do dooo
+Do doo
 Doo do do
 
 Well when you listen to the music
@@ -65,14 +65,14 @@ The only thing that gets me high is when I'm playing in the scene
 Cos' dancing and singing and getting it on and singing songs
 That's my thrill, that's my thrill (alright)
 It's fascination, sensation, sophisticated, complicated funky lady (communication)
-I love my music, sweet music (ooh ooh ooh ooh)
+I love my music, sweet music (oh oh oh oh)
 It's the only thing that makes me feel alright
-I love my music, sweet music (ooh ooh ooh ooh)
+I love my music, sweet music (oh oh oh oh)
 It's the only love that ever treats me right
 
-I love my music, sweet music (ooh ooh ooh ooh)
+I love my music, sweet music (oh oh oh oh)
 It's the only thing that makes me feel alright
-I love my music, sweet music (ooh ooh ooh ooh)
+I love my music, sweet music (oh oh oh oh)
 It's the only love that ever treats me right
 
 Now that you got the beat girl, does it make you jump and shout?
@@ -95,16 +95,16 @@ That's my thrill, that's my thrill (alright)
 It's fascination, sensation, sophisticated, complicated funky lady (communication)
 
 I love my music, sweet music
-(ooh ooh ooh ooh)
+(oh oh oh oh)
 It's the only thing that makes me feel alright
 I love my music, sweet music
-(ooh ooh ooh ooh)
+(oh oh oh oh)
 It's the only love that ever treats me right
 I love my music, sweet music
-(ooh ooh ooh ooh)
+(oh oh oh oh)
 It's the only thing that makes me feel alright
 I love my music, sweet music
-(ooh ooh ooh ooh)
+(oh oh oh oh)
 It's the only love that ever treats me right
 
 Oh yeah

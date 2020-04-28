@@ -36,8 +36,8 @@ Findin' the key, put it in, Kawasaki
 Totin' the Amazon (Amazon)
 Shit like 6'5" (Shit like 6'5")
 Take back, rewind, now I rewind
-Ooh, ooh, baby be mine (Baby be mine)
-Ooh, ooh, baby be mine
+Oh, oh, baby be mine (Baby be mine)
+Oh, oh, baby be mine
 
 Got a pack, came from DHL
 Just got up with a pack

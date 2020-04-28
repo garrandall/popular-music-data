@@ -68,16 +68,16 @@ rankings:
 ---
 
 Yea Yeah
-Yea Yeaaah
+Yea Yeah
 Yo 'Sounds' I Hear You Man
 Usher
 Yea That's It Right Here
 Queen B Yeah
-I'm the king, y'all know that (Usher Baby!!)
-She the queen, came right back (Listen To It!!)
+I'm the king, y'all know that (Usher Baby!)
+She the queen, came right back (Listen To It!)
 Yeah... Yeah
 
-(OH!! REMIX!!!)
+(OH! REMIX!)
 
 Now baby girl there ain't nothing more than I can say
 You know by now I want it more than anything
@@ -214,7 +214,7 @@ They can keep watchin
 Baby I don't give up
 In this Club
 Now run and tell you're friends
-You gotta hear this remix like....
+You gotta hear this remix like...
 
 King and queen.. you all know
 Yeah man
@@ -223,4 +223,4 @@ What would music be without 'Sounds'
 
 If we make love in this club, in this club, in this club
 
-Nobody will know, baby.......
+Nobody will know, baby...

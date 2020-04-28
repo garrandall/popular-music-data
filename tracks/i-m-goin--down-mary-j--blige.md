@@ -82,7 +82,7 @@ Boy, please believe me
 Since you've been gone, everything's goin' wrong
 Why'd you have to say, “Goodbye”?
 Look what you've done to me
-I can't stop these tears from fallin' from my eyes, ooh baby
+I can't stop these tears from fallin' from my eyes, oh baby
 
 
 I'm goin' down
@@ -91,10 +91,10 @@ I'm goin' down
 My whole world's upside down
 
 
-Ooh, baby love
+Oh, baby love
 Goin' down, goin' down
 Mmm, I'm goin' down
-Ooh I, I
+Oh I, I
 
 
 I'm goin' down
@@ -103,7 +103,7 @@ I'm goin' down
 My whole world's upside down
 
 
-Ooh, goin' down, goin' down
+Oh, goin' down, goin' down
 Oh, I don't know what to do
 If I ever lose you, I'll be goin' down
 I said, “I'll be goin' down”

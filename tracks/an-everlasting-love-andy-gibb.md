@@ -76,19 +76,19 @@ rankings:
 I've been here all your life
 Watching your crying game
 You were the heaven in my lonely world
-And he was your sun and your rain 
+And he was your sun and your rain
 
-I was losing you before I ever held you tight 
+I was losing you before I ever held you tight
 Before you ever held me in your arms
 And I won't make you blue
-And maybe an everlasting love will do 
+And maybe an everlasting love will do
 
-Ah, we got an everlasting love 
+Ah, we got an everlasting love
 So tall, so wide, so high above
 The rumble of thunder down below
 It's your love I need, it's the only show
 
-And it's you want an everlasting dream                                    
+And it's you want an everlasting dream
 Can take us anywhere are the tears
 Of yesterday, we killed the pain, we blew away
 The memories of the tears we cried
@@ -104,7 +104,7 @@ I could have saved you all the pain you knew
 And I won't make you cry
 And maybe an everlasting love can try
 
-Ah, we got an everlasting love 
+Ah, we got an everlasting love
 So tall, so wide, so high above
 The rumble of thunder down below
 It's your love I need, it's the only show

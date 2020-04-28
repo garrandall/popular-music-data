@@ -176,8 +176,8 @@ Santa Claus won't make me happy
 With a toy on Christmas Day
 
 
-I just want you for my own (Ooh)
-More than you could ever know (Ooh)
+I just want you for my own (Oh
+More than you could ever know (Oh
 Make my wish come true
 All I want for Christmas is you
 You, baby
@@ -193,8 +193,8 @@ I won't even stay awake to
 Hear those magic reindeer click
 
 
-'Cause I just want you here tonight (Ooh)
-Holding on to me so tight (Ooh)
+'Cause I just want you here tonight (Oh
+Holding on to me so tight (Oh
 What more can I do?
 Oh baby, all I want for Christmas is you
 You, baby
@@ -216,8 +216,8 @@ I just wanna see my baby
 Standing right outside my door
 
 
-Oh, I just want you for my own (Ooh)
-More than you could ever know (Ooh)
+Oh, I just want you for my own (Oh
+More than you could ever know (Oh
 Make my wish come true
 Oh baby, all I want for Christmas is you
 
@@ -226,5 +226,5 @@ You, baby
 All I want for Christmas is you, baby (You)
 All I want for Christmas is you, baby (Ah, oh, ah, oh)
 All I want for Christmas is you, baby (You)
-All I want for Christmas is you, baby (All I really want, baby, ooh)
+All I want for Christmas is you, baby (All I really want, baby, oh
 All I want for Christmas is you, baby (All I want, all I really want is you)

@@ -77,7 +77,7 @@ A bare tuff things come at you
 When Trenchtown man stop laugh and block-off traffic
 Then dem wheel and pop off and dem start clap it
 With the pin file dung and it a beat rapid
-Police come inna jeep and them cant stop it
+Police come inna jeep and them can't stop it
 
 Some say them a playboy a playboy rabbit
 Get dropped like a bad habit

@@ -54,7 +54,7 @@ Right off your feet
 Take you home with me
 Put you in my house
 Boom, boom, boom, boom
-Mmmm hmmm
+Mmm hm
 Mm hm hm hm
 
 

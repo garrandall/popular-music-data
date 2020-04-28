@@ -92,9 +92,6 @@ Well, gonna ask ya, gonna ask ya
 Gonna ask ya to help me
 Help me, help me, I can't stand it
 
-
-
-
 Hang on, hang on, hang on, hang on, hang on, hang on
 Take me home, take me, take me, take me, yeah, hey hey
 You said, you said hold me, you said console me

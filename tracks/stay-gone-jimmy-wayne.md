@@ -93,7 +93,7 @@ I've found peace of mind, i'm feeling good again
 I'm on the other side, back among the living
 Ain't a cloud in the sky
 All my tears have been cried
-And i can finally say
+And I can finally say
 
 
 Baby baby stay
@@ -105,7 +105,7 @@ In God knows how long
 I know everything's gonna be okay
 If you just stay gone
 
-I still love you and i will forever
+I still love you and I will forever
 We can't hide the truth
 We know each other better
 When we try to make it work
@@ -132,7 +132,7 @@ Stay right where you are
 I like it this way
 It's good for my heart
 I haven't felt like this
-In ooh in God knows how long
+In ohin God knows how long
 I know everything's gonna be okay
 If you just stay gone
 

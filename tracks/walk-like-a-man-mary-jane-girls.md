@@ -49,9 +49,9 @@ rankings:
   start_date: '1986-09-13'
 ---
 
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh, oh oohohohh,oh, oh oohoh
 Walk, walk, walk, walk
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh, oh oohohohh,oh, oh oohoh
 Walk like a man
 
 Oh, how she tried to cut you down to size
@@ -67,9 +67,9 @@ No woman's worth
 Crawling on the earth
 So walk like a man, my son
 
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh, oh oohohohh,oh, oh oohoh
 Walk, walk, walk, walk
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh, oh oohohohh,oh, oh oohoh
 
 Bye, baby
 I don't mean maybe
@@ -85,9 +85,9 @@ He'll tell the world
 Forget about it, girl
 And walk like a man from you
 
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh, oh oohohohh,oh, oh oohoh
 Walk, walk, walk, walk
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh, oh oohohohh,oh, oh oohoh
 Walk, walk, walk, walk
 
 Walk, walk, walk, walk
@@ -100,14 +100,14 @@ He'll tell the world
 Forget about it, girl
 And walk like a man from you
 
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh, oh oohohohh,oh, oh oohoh
 Walk, walk, walk, walk
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh, oh oohohohh,oh, oh oohoh
 Walk, walk, walk, walk
 
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh, oh oohohohh,oh, oh oohoh
 Walk, walk, walk, walk
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh, oh oohohohh,oh, oh oohoh
 Walk, walk, walk, walk
 
 Walk, walk, walk, walk

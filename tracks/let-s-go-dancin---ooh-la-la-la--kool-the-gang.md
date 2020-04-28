@@ -4,9 +4,9 @@ artists:
 - The Gang
 features: []
 genres: []
-key: let-s-go-dancin---ooh-la-la-la--kool-the-gang
+key: let-s-go-dancin---oh-la-la-la--kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/letsgodancinoohlalala.html
-name: Let's Go Dancin' (ooh La La La)
+name: Let's Go Dancin' (oh La La La)
 rankings:
 - end_date: '1982-11-05'
   rank: 79
@@ -70,10 +70,10 @@ rankings:
   start_date: '1983-02-05'
 ---
 
-Ooh la la la, let's go dancin'
-Ooh la la la, reggae dancin'
-Ooh la la la, let's go dancin'
-Ooh la la la, let's go dancin'
+Oh la la la, let's go dancin'
+Oh la la la, reggae dancin'
+Oh la la la, let's go dancin'
+Oh la la la, let's go dancin'
 
 I went down to the park - everything was dark, oh yeah
 All of a sudden on came the lights and everything was feelin' right
@@ -81,7 +81,7 @@ The people started dancin' - they call me over to join in
 They said "J.T. - Don't you feel good man?
 Come on and join the reggae jam." - I heard them singin'
 
-Ooh la la la, let's go dancin'
+Oh la la la, let's go dancin'
 
 I wanna get to know you. Come on, let's reggae down, oh yeah
 Get better acquainted, so that everything will be fine. Hey baby
@@ -90,11 +90,11 @@ If you're by yourself, I'd like to take you for a ride
 We could check the scene and we can reggae down
 And we'll be singing
 
-Ooh la la la, let's go dancin'
+Oh la la la, let's go dancin'
 
-Ooh la la la, ooh, let's go dancin'
+Oh la la la, oh, let's go dancin'
 Get your dancin' shoes, get your dancin' shoes, reggae dancin'
-Ooh la la la, ooh, let's go dancin'
+Oh la la la, oh, let's go dancin'
 Go get your dancin' shoes, get your dancin' shoes, reggae dancin'
 
 It's a special occasion, such a happy occasion

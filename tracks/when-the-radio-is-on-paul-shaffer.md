@@ -70,7 +70,7 @@ Even with my homework blasting out the cool jerk
 Living for the latest sound
 And every special event, has a particular tune
 That's the way that I remember everything I do
-My first romance ooh we used to dance to the man with the Blue Suede shoes
+My first romance ohwe used to dance to the man with the Blue Suede shoes
 
 From the eastside to the westside
 Uptown funk and downtown soul

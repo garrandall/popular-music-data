@@ -1,6 +1,7 @@
 ---
 artists:
-- Dave Stewart and Barbara Gaskin
+- Dave Stewart
+- Barbara Gaskin
 features: []
 genres: []
 key: it-s-my-party-dave-stewart-and-barbara-gaskin

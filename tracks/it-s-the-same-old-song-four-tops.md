@@ -87,6 +87,6 @@ But with a different meaning since you been gone
 I, oh, I can't bear to hear it
 It's the same old song
 (But with a different meaning since you been gone)
-Ooh, it breaks me up to hear it)
+Oh, it breaks me up to hear it)
 It's the same old song
 But with a different meaning

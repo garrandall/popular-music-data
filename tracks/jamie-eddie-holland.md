@@ -83,7 +83,7 @@ Yeah, talkin' 'bout Jamie (Jamie!)
 That's my girl (That's my girl!)
 
 
-Ooh, she comforts me when I am sad now
+Oh, she comforts me when I am sad now
 She sticks with me when times are bad
 She kisses me and holds me so tight
 To me she's out of sight
@@ -99,7 +99,7 @@ And she's mine, all mine
 
 Oh, Jamie
 Talkin' 'bout Jamie
-Ahh, talkin' 'bout Jamie
+Ah, talkin' 'bout Jamie
 That's my girl
 
 

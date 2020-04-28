@@ -108,8 +108,8 @@ Good on paper, picture perfect
 Chased the high too far, too fast
 Picket white fence, but we paint it black
 
-Ooh, and I wished you would hurt me harder than I hurt you
-Ooh, and I wish you wouldn't wait for me but you always do
+Oh, and I wished you would hurt me harder than I hurt you
+Oh, and I wish you wouldn't wait for me but you always do
 
 I've been hoping somebody loves you in the ways I couldn't
 Somebody's taking care of all of the mess I made
@@ -128,8 +128,8 @@ Chased the high too far, too fast
 Picket white fence, but we paint it black
 
 
-Ooh, and I wished you would hurt me harder than I hurt you
-Ooh, and I wish you wouldn't wait for me but you always do
+Oh, and I wished you would hurt me harder than I hurt you
+Oh, and I wish you wouldn't wait for me but you always do
 
 I've been hoping somebody loves you in the ways I couldn't
 Somebody's taking care of all of the mess I made

@@ -51,7 +51,7 @@ And I know you can show me
 
 
 I'm gonna take a little time (Take a little time)
-A little time to look around me (Ooh)
+A little time to look around me (Oh)
 I've got nowhere left to hide (Nowhere left to hide)
 It looks like love has finally found me (Ohh)
 

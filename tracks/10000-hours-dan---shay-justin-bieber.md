@@ -115,7 +115,7 @@ I'd spend ten thousand hours and ten thousand more
 Oh, if that's what it takes to learn that sweet heart of yours
 And I might never get there, but I'm gonna try
 If it's ten thousand hours or the rest of my life
-I'm gonna love you (Ooh, ooh-ooh, ooh, ooh)
+I'm gonna love you (Oh, oh-oh, oh, oh)
 
 
 Do you miss the road that you grew up on?
@@ -131,21 +131,21 @@ I'd spend ten thousand hours and ten thousand more
 Oh, if that's what it takes to learn that sweet heart of yours
 And I might never get there, but I'm gonna try
 If it's ten thousand hours or the rest of my life
-I'm gonna love you (Ooh, ooh-ooh, ooh, ooh)
-I'm gonna love you (Ooh, ooh-ooh, ooh, ooh)
+I'm gonna love you (Oh, oh-oh, oh, oh)
+I'm gonna love you (Oh, oh-oh, oh, oh)
 
 
-Ooh, want the good and the bad and everything in between
-Ooh, gotta cure my curiosity
-Ooh, yeah
+Oh, want the good and the bad and everything in between
+Oh, gotta cure my curiosity
+Oh, yeah
 
 
 I'd spend ten thousand hours and ten thousand more
 Oh, if that's what it takes to learn that sweet heart of yours (Sweet heart of yours)
 And I might never get there, but I'm gonna try (Yeah)
 If it's ten thousand hours or the rest of my life
-I'm gonna love you (Ooh, ooh-ooh, ooh, ooh)
-I'm gonna love you (Ooh, ooh-ooh, ooh, ooh)
+I'm gonna love you (Oh, oh-oh, oh, oh)
+I'm gonna love you (Oh, oh-oh, oh, oh)
 Yeah
 And I...
 Do you love the rain, does it make you dance?

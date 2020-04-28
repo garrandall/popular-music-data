@@ -68,11 +68,6 @@ Yeah, I should've looked up in the sky at first
 Now I can see it in her eyes
 Fireworks
 
-
-
-
-
-
 Everything the same but it feels different
 My dad called me up knowing that I still listen
 And he's still got his foot out, guilt trippin'
@@ -89,10 +84,4 @@ Let's stay together 'til we're ghosts
 I want to witness love, I've never seen it close
 Yeah, but I guess I gotta find it first, that's why I'm really going off
 Fireworks
-
-
-
-
-
-
 

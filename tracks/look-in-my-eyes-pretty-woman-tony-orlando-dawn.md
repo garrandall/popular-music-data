@@ -61,7 +61,7 @@ rankings:
 Time is on my side
 Though the world keeps gettin' colder
 'Cause I've got you girl to ease my troubled mind
-Ooh ooh
+Oh oh
 
 I'm a different man
 When your head is on my shoulder
@@ -82,7 +82,7 @@ And we'll overcome
 Love, my guiding star,
 You're my faith, my hope, my power
 When I just can't find a reason to believe
-Ooh Ooh
+Oh Oh
 
 Touch my hand with love
 And you light my darkest hour

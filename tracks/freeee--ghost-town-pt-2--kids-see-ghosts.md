@@ -29,7 +29,7 @@ And you know damn well
 He lift me up every time that I fell
 And set me free, yeah
 Ah! You should quit your job to this
-Hold up, let 'em politic, ooh
+Hold up, let 'em politic, oh
 One day they hate you
 Next day they love you
 I'm still yellin' "Fuck 'em"
@@ -53,7 +53,7 @@ Now I'm free
 
 
 I don't feel pain anymore
-Hmm, guess what, babe? I am free
+Hm, guess what, babe? I am free
 
 
 I feel free, I feel free

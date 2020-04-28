@@ -61,14 +61,14 @@ rankings:
   start_date: '1964-12-12'
 ---
 Have I the right to hold you? You know I've always told you
-That we must never ever part oh ooh ooh oh
+That we must never ever part oh oh oh oh
 Have I the right to kiss you? You know I'll always miss you
 I've loved you from the very start
 Come right back I just can't bear it
 I've got this love and I long to share it
 Come right back I'll show my love is strong
 Have I the right to touch you? If I could you'd see how much you
-Send those shivers running down my spine. Ooh Ooh
+Send those shivers running down my spine. Oh Oh
 Have I the right to thrill you? You know I'll wait until you
 Give me the right to make you mine.
 Well, Come right back I just can't bear it

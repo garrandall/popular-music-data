@@ -139,7 +139,7 @@ Don't be afraid, baby
 
 Deep down, feel so lucky girl to have you in my arms
 But now its time to go baby, need for an alarm
-Go to sleep my baby, like i said everythings alright
+Go to sleep my baby, like I said everythings alright
 Rest your head on my tattooed my chest
 I know it feels real good
 Oohwee baby, no need to be afraid

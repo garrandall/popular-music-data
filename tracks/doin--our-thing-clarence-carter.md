@@ -56,7 +56,7 @@ Certainly not too old
 
 Get what you can
 Is the name of the game
-But, ooh, baby
+But, oh baby
 We're doing our thing, yeah
 
 I know it's good, you do too
@@ -71,7 +71,7 @@ The longer it's gonna last
 And after while
 We'll join the whole gang
 Right now, right now
-Ooh, baby, doing our thing
+Oh baby, doing our thing
 
 It's so nice
 When you have someone
@@ -84,7 +84,7 @@ And when I get tired
 I don't know how to sit
 
 Look at me, I feel no pain
-Cause, ooh, baby
+Cause, oh baby
 Doing our thing, oh, yeah
 
 We're doing our thing

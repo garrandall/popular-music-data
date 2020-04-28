@@ -110,8 +110,8 @@ rankings:
   start_date: '2008-08-30'
 ---
 Konvict, Konvict
-Ooo ooo, ooo ooo
-Ooo ooo, ooo ooo
+Ooo oo, oo oo
+Ooo oo, oo oo
 I peeped you on the phone
 Just showin' off ya stones
 And notice that that pinky ring
@@ -166,9 +166,9 @@ Always talkin' bout what you got, eh
 Always talkin' bout what you got, eh
 Always talkin' bout what you got, eh
 Girl you know that you need to stop, eh
-Always talkin' bout what you got, ooo, eh
-Always talkin' bout what you got, ooo, eh
-Always talkin' bout what you got, ooo, eh
+Always talkin' bout what you got, oo, eh
+Always talkin' bout what you got, oo, eh
+Always talkin' bout what you got, oo, eh
 Girl you know that you need to stop, eh
 I can't keep my eyes away from you girl
 When you get on the floor and do what you do

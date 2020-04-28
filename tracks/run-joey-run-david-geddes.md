@@ -115,8 +115,8 @@ Daddy, please don't
 It wasn't his fault
 He means so much to me
 Daddy, please don't
-We're gon...na get... mar...ried......
+We're gon...na get... mar...ried...
 
 Run, Joey run, Joey, run
 Joey, run, Joey, run
-Joey, run, Joey, ruuuuuunn!!!
+Joey, run, Joey, ruuuuuunn!

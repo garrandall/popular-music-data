@@ -132,16 +132,16 @@ Darlin', I, oh, I can't get enough of your love, baby
 Oh, baby, didn't take all of my life to find you
 And sure ain't gonna take the rest of my life
 To keep you, yeah, keep you happy
-No darlin', darlin', darlin', darlin', yeah happy, ooh
+No darlin', darlin', darlin', darlin', yeah happy, oh
 
 My darlin', I, oh, I can't get enough of your love, baby
-Ooh, I don't know, I don't know, I don't know why, why
+Oh, I don't know, I don't know, I don't know why, why
 Can't get enough of your love, baby, oh
 
 Oh, my darlin', my darlin', my darlin'
 I can't get enough of your love, baby
 I don't know, I don't know, I don't know why
-Can't get enough of your love, your love, your love, ooh
+Can't get enough of your love, your love, your love, oh
 
 Can't get enough
 Can't get enough

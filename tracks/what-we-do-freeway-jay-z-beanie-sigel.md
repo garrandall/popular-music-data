@@ -30,7 +30,7 @@ Even though what we do is wrong...
 We still hustle 'til the sun come up
 Crack a 40 when the sun go down
 It's a cold winter
-Y'all niggaz better bundle up
+Y'all niggas better bundle up
 And I bet it be a hotter summer, grab a onion
 Yes the ROC gets down, you hot now, listen up
 Don't you know cops' whole purpose is to lock us down?
@@ -44,14 +44,14 @@ If a sneak start leanin' and the heat stop workin'
 Then my heat start workin' I'm-a rob me a person
 Catch a nigga sleepin' while he out in the open...and I'm-a get him ( Keep flowin'...)
 We gotta raise our kids while we livin'
-Make a million off-a record bail my niggaz outta prison
+Make a million off-a record bail my niggas outta prison
 Fuck a Bentley or a Lexus just my boys in the squadder
 Nigga talk reckless then I hit 'em with the Smif 'n...
 But I'm never snitchin' I'm a rider
 If my kids hungry snatch the dishes out ya kitchen
 I'll be wylin' til they pick me outta line-up...
 We keep the nines tucked, chopped dimes up, rap about it
-Wyle out, fuck niggaz up, laugh about it
+Wyle out, fuck niggas up, laugh about it
 I'm not tryin' to visit the morgue but Freeway move out 'til I sit with the Lord
 'Til I...get my shit together, clean up my sins
 Freeway got it in like 10 in the mornin'

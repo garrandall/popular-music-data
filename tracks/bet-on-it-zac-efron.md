@@ -80,7 +80,7 @@ Oh, hold up
 
 It's no good at all
 To see yourself and not recognize your face
-Out on my own, it's such a scary place, ooh
+Out on my own, it's such a scary place, oh
 The answers are all inside of me
 All I gotta do is believe
 

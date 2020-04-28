@@ -94,7 +94,7 @@ rankings:
   start_date: '2005-06-18'
 ---
 
-(Check check ...this happened for real ...baby bash..yo.. Frankie j.... obsession)
+(Check check ...this happened for real ...baby bash...yo.. Frankie j... obsession)
 
 Well it's early in the morning
 And my heart is feeling lonely
@@ -158,11 +158,11 @@ Cause my money know how I do, we go rendez-vous, mi corazon belongs to you
 
 
 Amor, no es amor (if this ain't love)
-Then what am I feeling? (what am I doing wrong) what am I do wrong 
+Then what am I feeling? (what am I doing wrong) what am I do wrong
 Amor, no es amor (if this ain't love)
 Is this an illusion that I have in my heart?
 Amor, no es amor (if this ain't love)
-What am I feeling? (what am I doing wrong?) what am I do so wrong? 
+What am I feeling? (what am I doing wrong?) what am I do so wrong?
 Amor, no es amor (if this ain't love)
 Is this an illusion that I have in my heart?
 

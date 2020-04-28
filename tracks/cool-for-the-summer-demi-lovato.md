@@ -105,8 +105,8 @@ Die for each other
 We're cool for the summer
 
 
-Ooh-ooh-ooh-ooh-ooh
-Ooh-ooh-ooh-ooh-ooh
+Oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh
 
 
 Take me down into your paradise
@@ -130,8 +130,8 @@ Die for each other
 We're cool for the summer
 
 
-Ooh-ooh-ooh-ooh-ooh
-Ooh-ooh-ooh-ooh-ooh
+Oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh
 
 
 Take me down into your paradise
@@ -160,5 +160,5 @@ Just something that we wanna try (wanna try)
 (Don't be scared), 'cause I'm your body type
 (Just something) Just something that we wanna try
 'Cause you and I (you and I), we're cool for the summer
-Ooh-ooh-ooh-ooh-ooh
+Oh-oh-oh-oh-oh
 We're cool for the summer

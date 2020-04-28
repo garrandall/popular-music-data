@@ -180,7 +180,7 @@ Alles, was ich von dir wollte, war, dass du mir etwas gibst
 Was ich noch nie hatte
 Was du noch nie gesehen hast
 Was du nie warst
-Mmmmm!
+Mmm!
 Aber ich wache auf und tu' so, als wäre nichts falsch
 Einfach nur fertig machen für's...
 
@@ -258,7 +258,7 @@ Es ist mir egal, wenn er
 Leid, leid, leid, leid, leidet
 
 
-Mmmmmm, mmmmm
-Mmmmmm, mmmmm
+Mmm, mmm
+Mmm, mmm
 Arbeiten, arbeiten, arbeiten, arbeiten, arbeiten, arbeiten
-Mmmmmm, mmmmm
+Mmm, mmm

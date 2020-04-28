@@ -92,9 +92,6 @@ I like the shit you did with Rawkus too, that shit was phat
 Anyways, I hope you get this man, hit me back
 Just to chat, truly yours, your biggest fan, this is Stan
 
-
-
-
 Dear Slim, you still ain't called or wrote, I hope you have a chance
 I ain't mad, I just think it's fucked up you don't answer fans
 If you didn't wanna talk to me outside your concert
@@ -120,9 +117,6 @@ She don't know what it was like for people like us growing up
 You gotta call me man, I'll be the biggest fan you'll ever lose
 Sincerely yours, Stan, P.S. We should be together too
 
-
-
-
 Dear Mr. "I'm-Too-Good-to-Call-or-Write-My-Fans"
 This'll be the last package I ever send your ass
 It's been six months and still no word, I don't deserve it?
@@ -147,9 +141,6 @@ But I didn't slit her throat, I just tied her up, see, I ain't like you
 Cause if she suffocates she'll suffer more and then she'll die too
 Well, gotta go, I'm almost at the bridge now
 Oh shit, I forgot, how am I supposed to send this shit out?
-
-
-
 
 Dear Stan, I meant to write you sooner but I just been busy
 You said your girlfriend's pregnant now, how far along is she?

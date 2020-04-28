@@ -37,7 +37,7 @@ To get ashes from wood
 You've got to burn it
 If you wanna be loved
 If you wanna be loved
-Ooh, you've got to earn it
+Oh, you've got to earn it
 
 Throw hate right out of your heart
 

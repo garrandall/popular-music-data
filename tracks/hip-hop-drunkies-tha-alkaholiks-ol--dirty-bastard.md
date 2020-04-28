@@ -87,7 +87,7 @@ So I can Godzilla up your sheeit, Mr. Tiny Tim man
 Niggas be creepin' up my beanstalk
 When I start to come down on your fuckin' asses
 Try to chip shit on up, get these nuts
-Motherfucker WHAT!!
+Motherfucker WHAT!
 
 
 The Ro pimped the flow like a ho

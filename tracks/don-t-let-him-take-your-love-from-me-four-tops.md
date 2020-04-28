@@ -36,7 +36,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-17'
 ---
-Hmm, baby, baby, baby, baby, baby
+Hm, baby, baby, baby, baby, baby
 You don't have to tell me you've gone to found someone new.
 'Cause I can feel his presence, whenever I'm-a kissing you.
 How can you ask me to try, try and understand

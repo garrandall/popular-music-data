@@ -64,17 +64,17 @@ rankings:
 One big happy family
 Together the rest of our lives
 As far as our friends were concerned
-Everything seemed right 
+Everything seemed right
 
 But that's when she told me
 She said me it was time to move on
 Just something that she kept inside
-That told me the thrill was gone 
+That told me the thrill was gone
 
 And now I can't believe
 I can't believe it's over
 Suddenly it's plain to see
-She's leaving me and 
+She's leaving me and
 
 Even a fool can see
 There's nothing left between us
@@ -83,17 +83,17 @@ But I did my best to deny it
 And now I can't go home
 She wants to be alone so
 Tell anyone who misses me that I'm alright
-Even a fool can see 
+Even a fool can see
 
 There were times we had nothing
 And yet somehow we laughed through it all
 There are moments I'll never forget
-And some I wouldn't care to recall 
+And some I wouldn't care to recall
 
 And still I can't believe
 I can't believe it's over
 Suddenly it's plain to see
-She's doesn't need me 
+She's doesn't need me
 
 Even a fool can see
 There's nothing left between us
@@ -102,25 +102,25 @@ But I did my best to deny it
 And now I can't go home
 She wants to be alone so
 Tell anyone who misses me that I'm alright
-Even a fool can see 
+Even a fool can see
 
 Nothing more to talk about
 It's over when it's over
 In the end you both stop trying
 In the end it's oh so sad
-And you are crying 
+And you are crying
 
 And now I can't go home
 She wants to be alone so
 Tell anyone who misses me that I'm alright
-Even a fool can see 
+Even a fool can see
 
 Won't ya tell me that I'm alright
-Even a fool like me 
+Even a fool like me
 
-Woo ooo I'm alright
+Woo oo I'm alright
 Even a fool can see
-Whoa ooo ooo ooo
+Whoa oo oo oo
 
 
 

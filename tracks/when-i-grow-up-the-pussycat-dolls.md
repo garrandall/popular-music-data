@@ -167,7 +167,7 @@ Get it?
 
 
 I see them staring at me
-Ooh, I'm a trendsetter
+Oh, I'm a trendsetter
 Yes, this is true 'cause what I do
 No one can do it better
 You can talk about me

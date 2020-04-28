@@ -77,11 +77,11 @@ rankings:
   start_date: '1958-11-24'
 ---
 
-Wooah ooo little girl
+Woah oo little girl
 How happy I would be
 If some miracle could win your love for me
 
-Wooah ooo little girl
+Woah oo little girl
 How happy I would be
 If some miracle could win your love for me
 
@@ -95,7 +95,7 @@ And for your many charms
 If you'd only come to me my heart wouldn't be full of sorrow
 But now all I can do is hope and prey that you will come to me tomorrow
 
-Wooah ooo little girl
+Woah oo little girl
 How happy I would be
 If some miracle could win your love for me
 
@@ -109,7 +109,7 @@ This torch I wouldn't have to carry
 And if everything goes right
 To the church we'll go to marry
 
-Wooah ooo little girl
+Woah oo little girl
 How happy I would be
 If some miracle could win your love for me
 

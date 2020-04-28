@@ -156,7 +156,7 @@ Oh, oh, oh, oh, oh (Mmm)
 If you wanna be with me, baby, there's a price to pay
 I'm a genie in a bottle (I'm a genie in a bottle, oh yeah)
 You gotta rub me the right way
-If you wanna be with me (Ooh), I can make your wish come true
+If you wanna be with me (Oh), I can make your wish come true
 Just come and set me free, baby, and I'll be with you
 
 

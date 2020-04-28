@@ -93,7 +93,7 @@ But Lord I only got one question
  (Bo Rock)
 Do G's go to Heaven? Cause I don't wanna die
 (I know it's wrong and I know what's right)
-But if so I'd like to know do G's go to heaven? (3x)
+But if so I'd like to know do G's go to heaven?
 (Will I get to heaven if I die tonight)
 
 
@@ -137,4 +137,4 @@ Cause at times I can't help myself
 
 
 Do G's go to Heaven? Cause I don't wanna die
-But if so I'd like to know do G's go to heaven? (6x)
+But if so I'd like to know do G's go to heaven?

@@ -74,7 +74,7 @@ I can stand the test of time
 Test of time, I'll make believe that you're mine
 And it's just a test, just a test, just a test of time
 
-I don't mind, ooh
+I don't mind, oh
 Yes, it's true this heart'll keep on waitin'
 Now I know it, say it over and over
 Just a test of time

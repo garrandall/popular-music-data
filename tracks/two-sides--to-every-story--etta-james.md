@@ -26,7 +26,7 @@ rankings:
 ---
 
 There's always two sides to every story
-Ahh, he told me
+Ah, he told me
 I treated him good
 Now you tell me
 He was playing me for a fool
@@ -55,7 +55,7 @@ Don't you know there are always two sides
 There's always two sides
 Don't you know there are always two sides
 Two sides to every story
-Ahhh, you better, you better beware
+Ah, you better, you better beware
 And you better have faith if you care
 
 Things aren't always like they seem to be

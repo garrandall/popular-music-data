@@ -93,10 +93,6 @@ I heard someone say that love can be so blind
 I'll give you your space to go
 And you know I'll always be there for you
 
-
-
-
-
 Girl, I will be right there for you
 Whenever you need me just call
 Whatever you want

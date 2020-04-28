@@ -101,7 +101,7 @@ rankings:
 You're so terrific, mmm
 You never done it like that
 You never been this way before
-To be specific, ooh
+To be specific, oh
 You never done it like that
 Who went and opened up the door?
 
@@ -112,67 +112,67 @@ Oh, but you've been learnin', yeah
 You never done it like that
 How long has this been goin' on?
 
-Ooh, who's been teachin' you?
+Oh, who's been teachin' you?
 Hey, little man, I wanna shake your hand
 One kiss from you and I feel just like Columbus
 I did discover you're some kinda lover
 
-My mind is blowin', ooh
+My mind is blowin', oh
 You never done it like that
 You got me climbin' up the walls
-Ooh, my love is growin', yeah
+Oh, my love is growin', yeah
 You never done it like that
 You know you made me ten feet tall
 
-Ooh, what you're doin' (Ooh, what you do)
-Ooh, what you're doin' (Ooh, what you do)
-Ooh, what you're doin' (Ooh, what you do)
+Oh, what you're doin' (Oh, what you do)
+Oh, what you're doin' (Oh, what you do)
+Oh, what you're doin' (Oh, what you do)
 You never done it, you never done it (You never done it)
 You never done it like that (You never, ever done it like that)
 
-Ooh, what you're doin' (Ooh, what you do)
-Yeah, what you're doin' (Ooh, what you do)
-Oh, what you're doin' (Ooh, what you do)
+Oh, what you're doin' (Oh, what you do)
+Yeah, what you're doin' (Oh, what you do)
+Oh, what you're doin' (Oh, what you do)
 You never done it, you never done it (You never done it)
 You never done it like that (You never, ever done it like that)
 
-Ooh, what a feelin', yeah
+Oh, what a feelin', yeah
 You never done it like that
 Not since I can remember when
 Oh, on the ceilin', yeah
 You never done it like that
 Looks like we've got it on again
 
-Ooh, what you're doin' (Ooh, what you do)
-Yeah, what you're doin' (Ooh, what you do)
-Oh, what you're doin' (Ooh, what you do)
+Oh, what you're doin' (Oh, what you do)
+Yeah, what you're doin' (Oh, what you do)
+Oh, what you're doin' (Oh, what you do)
 You never done it, you never done it (You never done it)
 You never done it like that (You never, ever done it like that)
 
-Ooh, what you're doin' (Ooh, what you do, ooh, what you do)
-Yeah, what you're doin' (Ohh, what you do, ooh, what you do)
-Oh, what you're doin' (Ooh, what you do, ooh, what you do)
+Oh, what you're doin' (Oh, what you do, oh, what you do)
+Yeah, what you're doin' (Ohh, what you do, oh, what you do)
+Oh, what you're doin' (Oh, what you do, oh, what you do)
 You never done it, you never done it (You never done it)
 You never done it like that (You never, ever done it like that)
 
-Ooh, what you're doin' (Ooh, what you do, ooh, what you do)
-Yeah, what you're doin' (Ohh, what you do, ooh, what you do)
-Oh, what you're doin' (Ooh, what you do, ooh, what you do)
+Oh, what you're doin' (Oh, what you do, oh, what you do)
+Yeah, what you're doin' (Ohh, what you do, oh, what you do)
+Oh, what you're doin' (Oh, what you do, oh, what you do)
 You never done it. you never done it (You never done it)
 You never done it like that (You never, ever done it like that)
 
-Ooh, what you're doin' (Ooh, what you do, ooh, what you do)
-Yeah, what you're doin' (Ooh, what you do, ooh, what you do)
-Oh, what you're doin' (Ooh, what you do, ooh, what you do)
+Oh, what you're doin' (Oh, what you do, oh, what you do)
+Yeah, what you're doin' (Oh, what you do, oh, what you do)
+Oh, what you're doin' (Oh, what you do, oh, what you do)
 (You never done it, you never done it) You never done it
 You never, ever done it like that
 
-Ooh, what you do
-Ooh, what you do
-Ooh, what you do
-Ooh, what you do
-Ooh, what you do
-Ooh, what you do
+Oh, what you do
+Oh, what you do
+Oh, what you do
+Oh, what you do
+Oh, what you do
+Oh, what you do
 You never done it
 You never, ever done it like that
 

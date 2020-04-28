@@ -71,11 +71,11 @@ Paperlate paperlate
 Paperlate, oh I'm sorry but there is no one on the line
 Paperlate, oh I'm sorry but rest easy no news is good news
 
-Ooh it's too easy to live like clockwork
+Oh it's too easy to live like clockwork
 Tick tock watching the world go by
 Any change would take too long
 So dry your eyes
-Ooh it's too easy to live in a cold sweat
+Oh it's too easy to live in a cold sweat
 Just sitting dripping in pools below
 You can wipe your face
 Kill the pain
@@ -85,19 +85,19 @@ Paperlate
 Pull it together now
 Put your feet back on the ground
 Paperlate
-Ooh don't worry now
+Oh don't worry now
 You're not alone
 Look around you
 Paperlate
-Ooh I'm sorry but there's no one on the line
+Oh I'm sorry but there's no one on the line
 Paperlate
-Ooh I'm sorry but rest easy no news is good news
+Oh I'm sorry but rest easy no news is good news
 
-Ooh it's too easy to compute your future
+Oh it's too easy to compute your future
 Taking no risks and playing too safe
 Any change would take too long
 So dry your eyes
-Ooh it's too easy to talk about rocking the boat
+Oh it's too easy to talk about rocking the boat
 Making changes and changing track
 But you'd better not lock that door
 Cos you'll be coming back
@@ -113,7 +113,7 @@ Paperlate paperlate
 Paperlate paperlate
 
 Paperlate
-Ooh I'm sorry but there's no one on the line
+Oh I'm sorry but there's no one on the line
 Paperlate
 Oh I'm sorry but rest easy no news is good news...
 

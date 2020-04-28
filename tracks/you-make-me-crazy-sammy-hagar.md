@@ -55,23 +55,23 @@ Let's think of what we've got and make a good thing last
 'Cause you, you make me crazy
 
 Well, you knock me out
-Ooh, but it feels all right
+Oh, but it feels all right
 You turn me on all day and
 You keep me up all night
 Oh, yeah
 
 Call all my friends to say, "I'm leavin' town."
 Anytime my baby comes around
-And ooh, mmm, makes me crazy
+And oh, mmm, makes me crazy
 
 Well, I'm crazy, crazy
 Crazy 'bout you baby
 I'm crazy, crazy, crazy
 I'm crazy 'bout you baby
 
-I'm crazy 'bout my baby 
+I'm crazy 'bout my baby
 I'm crazy, crazy 'bout my baby
-'Cause you, you make me crazy 
+'Cause you, you make me crazy
 I'm outta my mind
 You make me crazy
 Oh, this can't be right, no

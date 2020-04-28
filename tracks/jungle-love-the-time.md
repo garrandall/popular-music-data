@@ -148,8 +148,8 @@ Cause if you're hungry, take a bite of me (oh we oh we oh)
 
 
 Oh, jungle love, yes (oh we oh we oh)
-Mmmm Think I wanna know ya (know ya)
-Hey, jungle love, mmmmm (oh we oh we oh) mmmmm
+Mmm Think I wanna know ya (know ya)
+Hey, jungle love, mmm (oh we oh we oh) mmm
 Girl, I'd love to show ya (show ya)
 Yeah, yeah, yeah, jungle love, uh (oh we oh we oh)
 I think I wanna know ya (know ya)
@@ -181,7 +181,7 @@ Brrrrrrrr!
 Jungle love, yeah (oh we oh we oh)
 I think I wanna know ya (know ya)
 Ohhhh, jungle love, yes (oh we oh we oh)
-Mmmm, girl, I'd love to show ya (show ya)
+Mmm, girl, I'd love to show ya (show ya)
 
 Uh-eh, now jungle love, well (oh we oh we oh)
 Mmm, I think I wanna, think I wanna (know ya)
@@ -199,7 +199,7 @@ Break it down, uh!
 
 
 
-Yeassssss....Huh!
+Yeassssss...Huh!
 
 Whoa! Eh! Ha! Nuh!
 
@@ -207,7 +207,7 @@ Get, get out of the way!
 
 Muh-move over!
 
-Yeaaaah!
+Yeah!
 
 Oh, jungle love, that's right
 Can't nobody funk  with me
@@ -222,7 +222,7 @@ Hoooooo!
 
 Hey-eh-eh-eh-eh!
 
-Jungle love 
+Jungle love
 
 Yes! Yes!
 

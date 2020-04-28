@@ -227,7 +227,7 @@ Feet don't fail me now
 (That's right!)
 Do you promise the funk
 Givin' you more of what you're funkin' for
-Ooo, feet don't fail me now ....
+Ooo, feet don't fail me now ...
 Can I get it on my good foot, good gawd ...
 'Bout time I got down one time
 (Can I get down one time)
@@ -277,8 +277,8 @@ Gettin down just for the funk of it
 (Bout time I got down one time)
 One nation and we're on the move
 Nothin can stop us now
-One nation under a groove (Ooh yeah)
-Gettin down just for the funk of it (Ooh yeah)
+One nation under a groove (Oh yeah)
+Gettin down just for the funk of it (Oh yeah)
 One nation and we're on the move
 Nothin can stop us now
 One nation under a groove

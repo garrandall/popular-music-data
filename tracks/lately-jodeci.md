@@ -120,7 +120,7 @@ You don't know never know
 Oh I'm a man of many wishes
 I hope my preminition misses
 But what I really feel
-My eyes wont let me hide
+My eyes won't let me hide
 Cuz they always start to cry
 Cuz this time could mean goodbye
 
@@ -137,12 +137,7 @@ You just say nothing's changed
 Well I'm a man of many wishes
 I hope my premenition misses
 But what I really feel
-My eyes wont let me hide
+My eyes won't let me hide
 Cuz they always start to cry
 Cuz this time could mean goodbye
-
-
-
-
-
 

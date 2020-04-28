@@ -68,7 +68,7 @@ When I'm out there on the road, you can always hit my phone
 So I'm always right there next to you
 Now I'm missin' all these birthdays
 Just to put my family in a good place
-'Cause that's all that i wanted in the first place
+'Cause that's all that I wanted in the first place
 'Cause I only do it for my family
 So we good because...
 When I get it all, I'mma give it all to you

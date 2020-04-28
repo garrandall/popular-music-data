@@ -62,26 +62,26 @@ What the fuck is that sound
 What the fuck is that sound
 
 I brought the mac out, niggas sat down
-I got shit i never had now i can brag now, i can brag now
+I got shit I never had now I can brag now, I can brag now
 Got my bitch a louis bag now, she can brag now
 Got my bitch a birkin bag now, she a brat now
 Now i'm sittin' in the club in a different bag now
-Baby when i pick it up you gon' put that ass down
+Baby when I pick it up you gon' put that ass down
 Tell 'em you don't give a fuck, baby spin that ass 'round
 Tell the dj turn it up, what the fuck in that sound
 A boogie wit da hoodie and it's always foreign
-Yea i know she like my style, them other niggas borin'
-When i pull up it go skrrt skrrt, that's a foreign
-When i pull up at a red light they don't want it
+Yea I know she like my style, them other niggas borin'
+When I pull up it go skrrt skrrt, that's a foreign
+When I pull up at a red light they don't want it
 Yeah came in from the mud and my baby know that
 Introduced her to my plug, now she think she all that
-When i first hit her up, no she never wrote back
-So i sa her at the club and i got up on that
+When I first hit her up, no she never wrote back
+So I sa her at the club and I got up on that
 
 Now every time they play this song she say
 "This my shit"
 See the flick of my wrist
-And i know she know wassup, baby this is my shit
+And I know she know wassup, baby this is my shit
 See the flick of my wrist
 
 They know that my bitch that's a fact and she stuck wit me
@@ -90,14 +90,14 @@ I can't fuck wit rats that's a fact
 That's a dub nigga
 All about my f, can't put water over blood nigga
 Trust me it get ugly
-If i wasn't getting money
+If I wasn't getting money
 Would you still want me
-If i told you i was broke would you stop actin' funny
-This is all i every wanted you can't take from me
+If I told you I was broke would you stop actin' funny
+This is all I every wanted you can't take from me
 
 Now every time they play this song she say
 "This my shit"
 See the flick of my wrist
-And i she know wassup
+And I she know wassup
 Baby this is my shit
 See the flick of my wrist

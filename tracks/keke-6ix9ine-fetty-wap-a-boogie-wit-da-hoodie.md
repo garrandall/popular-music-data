@@ -90,8 +90,8 @@ Ay, makin' money, flip for the mob
 
 I fuck it up, I fuck it up, mm yeah
 Shmegular, that's regular, mm yeah
-I hit it on the tour bus, ooh yeah
-If I'm a player, you a slut, ooh yeah
+I hit it on the tour bus, ohyeah
+If I'm a player, you a slut, ohyeah
 I told my .38 "I love you"
 That's my baby, when I pull up she pull up too
 See the, Hermes on the buckle, and a

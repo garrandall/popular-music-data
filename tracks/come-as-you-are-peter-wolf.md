@@ -76,7 +76,7 @@ Just you tonight, its you and me
 Come as you are, now come on
 Come as you are, and well have a ball
 Ain't gonna be no masquerade
-Come as you are, or dont come at all
+Come as you are, or don't come at all
 
 Therell be a high time, high time after layside
 Barry and the boys are going in for free
@@ -86,7 +86,7 @@ I stuck it up there for you and me
 Come as you are, now come on
 Come as you are, and well have a ball
 Ain't gonna be no masquerade
-Come as you are, or dont come at all
+Come as you are, or don't come at all
 
 Im just a bluebird, bluebird at your window
 And if you show, such a pretty sight to see
@@ -96,4 +96,4 @@ Come its you and me
 Come as you are, now come on
 Come as you are, and well have a ball
 Ain't gonna be no masquerade
-Come as you are, or dont come at all
+Come as you are, or don't come at all

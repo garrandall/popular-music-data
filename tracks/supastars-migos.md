@@ -43,7 +43,7 @@ I'm out my element, out my, out my element (woo!)
 My niggas the same, don't need no clout, no fame (no clout, no clout)
 Bought the gang, all brand new chains (ice, ice)
 Swerve the lane, call the group "the gang" (gang, gang)
-Whip that thing, then she give me brain (ooh, yeah)
+Whip that thing, then she give me brain (oh yeah)
 Them boys fool you tryna do it, bring the toolies out (try and do it)
 Niggas don't want no smoke, they pull up with they coochies out
 It's times three, it's times three, that's how it goes (three-way, yeah)

@@ -3,7 +3,7 @@ artists:
 - Joe Perkins
 features: []
 genres: []
-key: little-eeefin-annie-joe-perkins
+key: little-eefin-annie-joe-perkins
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Perkins/Little-Eeefin-Annie
 name: Little Eeefin Annie
 rankings:
@@ -73,7 +73,7 @@ Eeef, Ife, Eeef, Oofe, Eeef, Ife
 Gimme piece o' pie!
 
 They used to laugh at Annie
-Because she eeefed that way
+Because she eefed that way
 It took at least an hour
 To hear what she had to say
 But things aren't what they used to be

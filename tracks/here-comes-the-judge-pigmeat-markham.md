@@ -52,7 +52,7 @@ Above all, I don't want no alibis
 This judge is hip, and that ain't all
 He'll give you time if you're big or small
 Fall in line, a-this court is neat
-Peace, brotha....
+Peace, brotha...
 
 
 Uh-oh, here Come the Judge, here Come the Judge

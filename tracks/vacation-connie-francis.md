@@ -64,7 +64,7 @@ We're gonna mashed potato to a jukebox tune
 Park your car 'neath an August moon
 We're on vacation till the start of the fall
 
-V-A-C-A-T-I-O-N, we're gonna have a ball, go!!
+V-A-C-A-T-I-O-N, we're gonna have a ball, go!
 
 
 

@@ -74,9 +74,6 @@ And I'm getting old
 Keep me searchin' for a heart of gold
 And I'm getting old
 
-
-
-
 I've been to Hollywood, I've been to Redwood
 I crossed the ocean for a heart of gold
 I've been in my mind, it's such a fine line
@@ -86,9 +83,6 @@ That keeps me searchin' for a heart of gold
 And I'm getting old
 Keeps me searchin' for a heart of gold
 And I'm getting old
-
-
-
 
 Keep me searchin' for a heart of gold
 You keep me searchin' and I'm growing old

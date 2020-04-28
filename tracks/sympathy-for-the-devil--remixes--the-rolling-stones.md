@@ -56,9 +56,6 @@ But what's puzzling you is the nature of my game
 
 Oh yeah, get down heavy!
 
-
-
-
 Pleased to meet you, hope you guess my name, oh yeah
 But what's confusin' you is just the nature of my game
 

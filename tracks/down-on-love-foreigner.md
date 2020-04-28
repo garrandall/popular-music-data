@@ -66,9 +66,6 @@ Yeah, maybe tonight you'll fall in love again
 Just once in a life you'll realize
 When love takes two, only one heart cries
 
-
-
-
 In matters of the heart
 You better know before you start
 You can't get down on love

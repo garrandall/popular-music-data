@@ -148,7 +148,7 @@ This is LA!
 
 "All I wanna do is have a little fun before I die,"
 Says the man next to me out of nowhere
-It's apropos 
+It's apropos
 Of nothing
 He says his name's William but I'm sure,
 He's Bill or Billy or Mac or Buddy
@@ -194,8 +194,4 @@ The day and the night and the car wash too
 The matches and the Buds and the clean and dirty
 cars
 The sun and the moon but
-
-
-
-
 

@@ -65,7 +65,7 @@ All I need
 Is someone like you
 My dearest darling
 Please~love me to
-Within my heart 
+Within my heart
 I pray your answer's yes
 I'll make your life
 Full of happiness
@@ -78,7 +78,7 @@ Unh~my dearest darling
 I offer you my heart
 
 Oh, yeah whenever you need me
-I'll..I'll be there by your side
+I'll...I'll be there by your side
 Oh~I pledge my love to you
 With God as our guide
 

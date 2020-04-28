@@ -75,7 +75,7 @@ rankings:
 
 I still can remember
 The last time I cried
-I was holding you and loving  you
+I was holding you and loving you
 Knowing it would end
 I never felt so good
 Yet felt so bad
@@ -106,8 +106,8 @@ Each needing more than we could give
 And knowing all the time
 A stronger love
 Just can't be found
-Even though at times this crazy world               Ãº
-Is turning  up-side-down
+Even though at times this crazy world
+Is turning upside down
 You'll always belong to me
 (Comin' in and out of your life)
 Isn't easy,

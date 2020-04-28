@@ -106,11 +106,11 @@ rankings:
 ---
 There's a boy I know, he's the one I dream of
 Looks into my eyes, takes me to the clouds above
-Ooh I lose control, can't seem to get enough
+Oh I lose control, can't seem to get enough
 When I wake from dreaming, tell me is it really love?
 
 
-Ooh, how will I know? (Don't trust your feelings)
+Oh, how will I know? (Don't trust your feelings)
 How will I know?
 How will I know? (Love can be deceiving)
 How will I know?
@@ -128,7 +128,7 @@ This love is strong, why do I feel weak?
 
 Oh, wake me, I'm shaking, wish I had you near me now
 Said there's no mistaking, what I feel is really love
-Ooh tell me
+Oh tell me
 
 
 How will I know? (Don't trust your feelings)

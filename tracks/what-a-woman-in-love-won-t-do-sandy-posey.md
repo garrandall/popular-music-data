@@ -41,14 +41,14 @@ All over your feet
 I never ask you where youve been
 I always let you sleep late
 And bring you breakfast baby in bed
-Lord what a woman in love wont do.
+Lord what a woman in love won't do.
 
 At times I've caught you lying
 With your bare face hanging out
 But I just couldnt follow through
 I'd just be proving
 That you're being untrue
-Lord what a woman in love wont do.
+Lord what a woman in love won't do.
 
 What makes me keep on
 Puttin up with this?
@@ -56,8 +56,8 @@ What keeps me kneeling
 Underneath my masters kiss?
 Could it be that I'm leaving
 Or being untrue too, like you?
-Lord what a woman in love wont do
+Lord what a woman in love won't do
 Whoo oo oo oohoo
-In love wont do
+In love won't do
 Whoo oo oo oohoo
-In love wont do
+In love won't do

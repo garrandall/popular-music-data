@@ -103,7 +103,7 @@ You put me on the front line because you doubt mine
 Bet your and lost yours, you come to get your I tossed yours
 And it cost yours, fuck y'all niggas stupid, I'm the boss dog
 What more dirt must I do, plus my crew
-Busts at you, and you be like "What's that oooh"
+Busts at you, and you be like "What's that oh
 What's that Clue, do I bring the noise what
 Destroy these mutts, is these niggas toys or what
 Bring all the pretty niggas thinking they shitty, what a pity

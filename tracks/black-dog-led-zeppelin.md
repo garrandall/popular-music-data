@@ -74,7 +74,7 @@ Eyes that shine, burning red
 Dreams of you all through my head
 Ah-ah, ah-ah
 Ah-ah, ah-ah
-Ah-ah, ah-ah, ahh
+Ah-ah, ah-ah, ah
 
 
 Hey baby, oh baby, pretty baby
@@ -101,10 +101,7 @@ Need a woman gonna hold my hand
 Won't tell me no lies, make me a happy man
 Ah-ah, ah-ah
 Ah-ah, ah-ah
-Ah-ah, ah-ah, ahh
-
-
-
+Ah-ah, ah-ah, ah
 
 Hey baby,  pretty baby, oh baby
 Hey baby,  pretty baby, oh baby

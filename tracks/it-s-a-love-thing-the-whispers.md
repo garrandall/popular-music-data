@@ -136,7 +136,7 @@ Got me talkin' in my sleep
 About the love we made
 It's a love thing
 (It's a love thing)
-Ooh, it's a love thing
+Oh, it's a love thing
 (Thing)
 
 It's a love thing, yeah

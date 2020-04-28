@@ -89,7 +89,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-08-10'
 ---
-Yo, you see if she a request it... (Ooh ooh ooh, oh boy)
+Yo, you see if she a request it... (Oh oh oh, oh boy)
 Yeah man, let she have it
 She can't get away, no
 Could never, could never, eh eh (No no)

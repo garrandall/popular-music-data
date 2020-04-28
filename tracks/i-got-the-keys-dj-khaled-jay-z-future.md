@@ -82,7 +82,7 @@ rankings:
 
  We The Best music!
  Oh, this what we doin' here
- Another one!!!
+ Another one!
  I'ma have to put my jewelry on for this one
  Wraith talk, Wraith talk, oh, we talkin' that Wraith talk
 Safe talk, safe talk, here we go talkin' that safe talk

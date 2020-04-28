@@ -144,13 +144,13 @@ My divine lady
 You're my lady
 Such a wonderful lady
 I can tell they're looking at us
-You're my lady, ohhh ohhh ohhh
-You're my lady, ohhh yeah
+You're my lady, oh oh oh
+You're my lady, oh yeah
 You're my lady
 You're my lady
 You're my lady
 I can tell they're looking at us
-You're my lady, ohh
+You're my lady, oh
 And everybody wants to know what's going down
 You're my lady
 You're my lady

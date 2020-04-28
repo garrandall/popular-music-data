@@ -144,6 +144,6 @@ So come on and touch it
 Touch that four leaf clover
 (Maybe you'll get over)
 
-Ooh, babe
+Oh babe
 Oh, babe
 Just might get lucky

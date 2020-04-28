@@ -112,7 +112,7 @@ Shed a light on everything that used to be
 
 Give me back my hometown
 'Cause this is my hometown
-Yeah, yeah, ooohh, yeah, yeah
+Yeah, yeah, oh, yeah, yeah
 
 You can have my grandma's locket
 The knife out of my grandpa's pocket
@@ -124,7 +124,7 @@ Yeah everything, everything, everything
 
 Give me back my hometown
 'Cause this is my hometown
-Yeah, yeah, ooohh, yeah, yeah
+Yeah, yeah, oh, yeah, yeah
 
 
 

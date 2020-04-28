@@ -48,24 +48,24 @@ Can't let up the gas, we movin' so fast, yeah, let's make it last
 Yeah, I'm on to you, mm-mm (Damn)
 You're too comfortable, ayy-ayy
 Who you talkin' to, mm-mm
-Ain't no time for you, ayy (Ooh)
-I do what I want, Tom Ford on the yacht, ooh (Wow)
-Richard Mille my watch, thousand dollar Crocs, ooh (Ooh)
+Ain't no time for you, ayy (Oh)
+I do what I want, Tom Ford on the yacht, oh(Wow)
+Richard Mille my watch, thousand dollar Crocs, oh(Oh)
 They tryna tell me that it's luck
 You probably think I made it up
 I got it all, it ain't enough
-But I'm still gonna run it up, so (Ooh)
+But I'm still gonna run it up, so (Oh)
 
 
 I'm gonna be what I want, what I want, what I want, yeah (What I want)
 I'm gonna do what I want, when I want, when I want, yeah (What I want, what I want, yeah)
 I'm goin' hard 'til I'm gone, 'til I'm gone, 'til I'm gone, yeah ('Til I'm gone, 'til I'm gone, 'til I'm gone)
-Can you feel it? (Ooh) Can you feel it? (Hey)
+Can you feel it? (Oh) Can you feel it? (Hey)
 I'm gonna be what I want, what I want, what I want, yeah (What I want, what I want)
 I'm gonna do what I want, when I want, when I want, yeah (What I want, what I want)
 I'm goin' hard 'til I'm gone, 'til I'm gone, 'til I'm gone, yeah
 ('Til I'm gone, 'til I'm gone, 'til I'm gone)
-Can you feel it? (Ooh) Can you feel it?
+Can you feel it? (Oh) Can you feel it?
 
 
 Ever since I got a taste, I've been goin' (Goin')

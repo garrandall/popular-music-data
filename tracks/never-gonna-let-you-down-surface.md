@@ -106,4 +106,3 @@ To give to me the love that I've been waiting for
 And yes, you took me by surprise
 Opened up my eyes
 Now I see and I know
-Chorus

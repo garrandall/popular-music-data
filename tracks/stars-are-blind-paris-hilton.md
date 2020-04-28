@@ -65,7 +65,7 @@ Those other guys all wanna take me for a ride
 But when I walk they talk of suicide
 Some people never get beyond their stupid pride
 But you can see the real me inside
-And I'm satisfied, oh no, ohh
+And I'm satisfied, oh no, oh
 
 Even though the gods are crazy
 Even though the stars are blind
@@ -77,7 +77,7 @@ Got a heart and soul and body
 Let's see what this love can do
 Maybe I'm perfect for you
 
-Ohh, ohh, ohh
+Ohh, oh, oh
 
 I could be your confidante
 Just one of your girlfriends

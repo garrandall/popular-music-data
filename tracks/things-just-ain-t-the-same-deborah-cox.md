@@ -76,7 +76,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-10-25'
 ---
-(chorus)
 Things just ain't the same
 He could never be you
 You should know the pain I feel
@@ -92,7 +91,6 @@ Sometims I wanna die
 Please help me understand
 Why can't my heart just lie
 
-(Chorus)
 Things just ain't the same
 He could never be you
 You should know the pain I feel
@@ -108,7 +106,6 @@ My heart is not complete
 I know you walked away
 My heart wants you to stay
 
-Chorus (x2)
 Things just ain't the same
 He could never be you
 You should know the pain I feel
@@ -141,8 +138,6 @@ You should know the pain I feel (you should be)
 Understand what I'm going through (can't you see the water in my eyes?)
 
 Things just ain't the same (it's hard to hide the way I feel inside)
-He could never be you (you know that I dont want nobody else)
+He could never be you (you know that I don't want nobody else)
 You should know the pain I feel (since you left me things)
 Understand what I'm going through (just ain't the same baby, no)
-
-(fades out)

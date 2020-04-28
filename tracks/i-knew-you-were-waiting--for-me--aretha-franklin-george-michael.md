@@ -114,9 +114,9 @@ When the valley was low, it didn't stop me, oh
 I knew you were waiting, hey, I knew you were waiting for me
 
 
-So we were drawn together through destiny, ooh boy, ooh!
+So we were drawn together through destiny, ohboy, oh
 I know this love we share was meant to be, oh
-(Knew you were waiting) Ooh, yeah
+(Knew you were waiting) Oh, yeah
 (Knew you were waiting) I knew you were waiting
 (Knew you were waiting for me)
 

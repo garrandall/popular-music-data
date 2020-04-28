@@ -99,7 +99,7 @@ Dance, dance, da-dance, dancing in the dark
 
 
 Dancing in the dark
-Ooh la la, ooh la la, ooh la la
+Ohla la, ohla la, ooha la
 Dancing in the dark
 
 
@@ -121,9 +121,9 @@ Close my eyes, here you are
 Dance, dance, da-dance, dancing in the dark
 
 
-Ooh la la, ooh la la, ooh la la
+Ohla la, ohla la, ooha la
 Dancing in the dark
-Ooh la la, ooh la la, ooh la la
+Ohla la, ohla la, ooha la
 Dancing in the dark
 
 
@@ -150,16 +150,16 @@ Late at night I pretend we are
 Dance, dance, da-dance, dancing in the dark
 
 
-Ooh la la, ooh la la, ooh la la, ooh la la
+Ohla la, ohla la, ooha la, ohoh la
 Tell me, baby, if it's wrong
-Ooh la la, ooh la la, ooh la la, ooh la la
+Ohla la, ohla la, ooha la, ohoh la
 To let my hands do what they want
-Ooh la la, ooh la la, ooh la la
+Ohla la, ohla la, ooha la
 Dancing in the dark
 
 
 It's the Cataracs
-Ooh la la, ooh la la, ooh la la
+Ohla la, ohla la, ooha la
 Dancing in the dark
-Ooh la la, ooh la la, ooh la la
+Ohla la, ohla la, ooha la
 Dancing in the dark

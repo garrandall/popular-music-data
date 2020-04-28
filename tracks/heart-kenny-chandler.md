@@ -42,7 +42,7 @@ Oh heart, you gotta watch out now
 Or else she's gonna break intio
 Oh heart, you better believe me
 Save yourself for somebody new
-Hmm, don't make such a fuss
+Hm, don't make such a fuss
 Theres no hope for us
 She doesn't care the way that you do
 Oh heart, please stop your pounding
@@ -51,7 +51,7 @@ Oh heart, now don't let her hear you
 Come on now you gotta be strong
 Oh heart, you better believe me
 Save yourself for somebody new
-Hmm, don't make such a fuss
+Hm, don't make such a fuss
 There's no hope for us
 She don't care the way that you do
 Let me tell you my heart
@@ -62,7 +62,7 @@ There's no reason I've been this way
 Yes I'm telling you heart
 You better believe me
 Save yourself for somebody new
-Hmm, don't make such a fuss
+Hm, don't make such a fuss
 There's no hope for us
 She don't care the way that you do
 Yes I'm telling you heart
@@ -70,5 +70,5 @@ You better watch out
 I'm telling you heart, heart, heart
 Now watch out you heart, heart, heart
 Come on now heart, heart, heart
-You ooh heart, heart, heart
+You ohheart, heart, heart
 You better watch out, heart, heart...

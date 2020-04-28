@@ -39,7 +39,7 @@ So let me into you
 
 Let me into your heart
 (Do you really love me?
-I'ma get you, girl, ahhh!)
+I'ma get you, girl, ah!)
 
 
 This is the end of us

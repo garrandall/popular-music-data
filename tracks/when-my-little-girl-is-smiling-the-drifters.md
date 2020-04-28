@@ -49,7 +49,7 @@ rankings:
   start_date: '1962-04-28'
 ---
 
-Ev'ry time my baby and I have a quarrel,
+Every time my baby and I have a quarrel,
 I swear I won't give in.
 Then my baby starts to smile at me,
 And I know, I know I just can't win.

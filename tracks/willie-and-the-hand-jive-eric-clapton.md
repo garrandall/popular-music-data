@@ -71,7 +71,3 @@ They had a little Willie junior and that ain't all.
 Well, the kids got crazy and it's plain to see,
 Doing the hand jive on T.V.
 
-
-
-
-

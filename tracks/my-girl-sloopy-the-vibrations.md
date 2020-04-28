@@ -81,13 +81,13 @@ Say yeah, yeah, yeah
 Good, good, good, good
 (Good, good, good, good)
 Good, gagagood (Gagagood)
-I wanna say ahhhhh, ahhh, ahhh, ahhh
+I wanna say ah, ah, ah, ah
 
 
 A little bit of soul
 I want you tell me something
 Well don't it make you feel crazy, baby
-I wanna say ahhhhh, ahhh, ahhh, ahhh
+I wanna say ah, ah, ah, ah
 Let’s go
 Hang on Sloopy
 Sloopy hang on

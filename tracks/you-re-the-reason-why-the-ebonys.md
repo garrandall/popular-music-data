@@ -41,7 +41,7 @@ Ba ba ba ba... yeah
 Baby, baby, baby, baby
 Baby, baby, baby, baby, baby
 
-Just because of you (ooh, yeah)
+Just because of you (oh, yeah)
 I'm a happy guy
 You're the reason why
 Just because of you
@@ -58,7 +58,7 @@ To feel this way
 And every time I see you
 I just wanna say
 
-Just because of you (ooh, yeah)
+Just because of you (oh, yeah)
 I'm a happy guy
 You're the reason why
 Just because of you
@@ -101,7 +101,7 @@ You're the reason why, yeah
 Baby, baby, baby, baby
 Baby, baby, baby, baby, baby
 
-Just because of you (ooh, yeah)
+Just because of you (oh, yeah)
 I'm a happy guy (come on)
 You're the reason why
 Just because of you...

@@ -90,12 +90,12 @@ rankings:
 ---
 
 
-Ooh ooh baby
+Oh oh baby
 Immature's back, back, back
-Ooh ooh baby baby, ooh ooh baby
-Romeo, LBD and Bat 
+Oh oh baby baby, oh oh baby
+Romeo, LBD and Bat
 You wanna get with me tonight
-Ooh
+Oh
 
 
 Baby, tryin' me, givin' me... all your love
@@ -104,16 +104,16 @@ Baby, won't you let down your guard
 Then maybe, we can go real far
 
 
-Ooh ooh baby
+Oh oh baby
 Say you wanna stay the night
 You know you got a brother high
 I'll come and pick you up in my ride
-Ooh ooh baby baby
-Ooh ooh baby
+Oh oh baby baby
+Oh oh baby
 Say you wanna stay the night
 You wanna get with me tonight
 I'll come and pick you up in my ride
-Ooh ooh baby baby
+Oh oh baby baby
 
 
 Baby, I'll be there to get you, around one
@@ -136,16 +136,12 @@ With the girls I choose
 
 Immature's back back back
 Throw your hands in the sky
-Do you think we're tight? 
-Hey ladies 
-Do you think we're... 
+Do you think we're tight?
+Hey ladies
+Do you think we're...
 Immature's back, back, back
 Throw your hands in the sky
 Hey girls
-Do you think we're tight? 
+Do you think we're tight?
 Oh baby
-
-
-
-
 

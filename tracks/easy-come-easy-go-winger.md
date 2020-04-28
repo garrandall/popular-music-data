@@ -82,13 +82,9 @@ Only only only own it when you say...
 
 
 So if you start to feel like there's no time to waste
-Baby try to let go - there's 
+Baby try to let go - there's
 Nothing that strong - can't break your heart
 Sometimes high, sometimes low
 
 And you only only only own it when you say...
-
-
-
-
 

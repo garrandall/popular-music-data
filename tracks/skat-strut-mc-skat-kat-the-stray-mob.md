@@ -38,7 +38,7 @@ Give me room to be funky
 
 Step to the dance floor bust a little spin
 (I thought I saw a putty kat, I did)
-SHUT UP KID!!
+SHUT UP KID!
 This is a new dance so shake your butt
 And get a load of what its like to be doing Skat Strut
 
@@ -62,7 +62,7 @@ And if you get dizzy from shaking your butt
 You must have shook the wrong end cuz you ain't doing
 The Skat Strut (I though I saw a putty kat- I did, I did)
 
-As we go a little something like this-- Hit it!!
+As we go a little something like this-- Hit it!
 
 Without a question, its the strut to fame
 I can see myself now on the aisles of "Soul Train"

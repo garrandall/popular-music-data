@@ -29,22 +29,22 @@ rankings:
   start_date: '1966-08-06'
 ---
 
-Friday's child.....Hard luck is her brother
-Friday's child.....Her sister's misery
-Friday's child.....Her daddy they call hard times
-Friday's child.....That's me
+Friday's child...Hard luck is her brother
+Friday's child...Her sister's misery
+Friday's child...Her daddy they call hard times
+Friday's child...That's me
 
-Friday's child.....Born a little ugly
-Friday's child.... Good looks passed her by..oh
-Friday's child.....Makes something look like nothing
-Friday's child.....Am I..ya
+Friday's child...Born a little ugly
+Friday's child... Good looks passed her by...oh
+Friday's child...Makes something look like nothing
+Friday's child...Am I...ya
 
 
 
-Friday's child.....Never climbed no mountain
-Friday's child.....She ain't even gonna tray..oh
-Friday's child.....Whom they'll forget to bury
-Friday's child.....Am I
+Friday's child...Never climbed no mountain
+Friday's child...She ain't even gonna tray...oh
+Friday's child...Whom they'll forget to bury
+Friday's child...Am I
 
 
 

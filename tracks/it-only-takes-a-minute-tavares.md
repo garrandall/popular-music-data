@@ -100,8 +100,8 @@ To fall in love, to fall in love
 It only takes a minute, girl
 To fall in love, let's fall in love
 
-Ooh, ooh
-Ooh, ooh
+Oh oh
+Oh oh
 
 Now in the unemployment lines
 You can spend your life readin' signs

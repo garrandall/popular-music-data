@@ -91,7 +91,3 @@ Can't touch the sky
 If you can't reach up your hand
 Can't give if you give nothing back
 
-
-
-
-

@@ -81,7 +81,7 @@ By tonight you're gonna love me
 I think in just a moment
 There's gonna be a love explosion
 Go head and let your jones
-Get good and funky, ooh
+Get good and funky, oh
 
 Come on sexy mama
 You're just the way I want you to be
@@ -106,7 +106,7 @@ But tonight you're gonna love me
 I think in just a moment
 There's gonna be a love explosion
 Go head and let your jones
-Get good and funky, ooh
+Get good and funky, oh
 
 Come on sexy mama
 You're just the way I want you to be
@@ -116,11 +116,11 @@ Go head and lay that thing on me
 I better pinch myself to make sure that I'm not dreamin, oh
 Cause the way you make me feel, I feel like, whoa, gettin down
 
-Sock it to me now, baby, ooh
+Sock it to me now, baby, oh
 Yeah
 Come on, come on, come on now, yeah
-Ooh, ooh, ooh, hoo, ooh, ooh, hoo
+Oh, oh oohhoo, ohohh,oho
 Yeah, yeah, yeah, yeah
-Ooh
-Ooh, ooh, ooh
-Ooh
+Oh
+Oh, oh ooh
+Oh

@@ -92,7 +92,3 @@ And it's all come true for you
 And the songs are playing over and over
 Till you do it all over again
 
-
-
-
-

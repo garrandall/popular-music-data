@@ -53,7 +53,7 @@ To impress these Mr. Wrongs
 But you can be yourself with me
 I'll take you as you are
 I know they said believe in love
-Is a dream that cant be real
+Is a dream that can't be real
 So girl let's write a fairytale
 And show 'em how we feel
 

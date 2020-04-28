@@ -82,13 +82,13 @@ My jeans are never empty
 Beamer, Benz, Or Bentley
 Beamer, Benz, Or Bentley
 Beamer, Benz, Or Bentley
-This scheming dont affect me
+This scheming don't affect me
 
 
 Im fresh Im fly, Im so damn high
 more than 500 horses when I roll by
 Im calm Im cool, everything brand new
-I dont hand cuff you can get your whole damn crew
+I don't hand cuff you can get your whole damn crew
 
 Get in my Beamer, Benz, Or Bentley
 Beamer, Benz, Or Bentley
@@ -117,7 +117,7 @@ Im fresh Im fly, Im always high
 got ya bitch waving at me when I roll by
 
 Im calm Im cool everything brand new
-I dont handcuff you can get the whole damn crew
+I don't handcuff you can get the whole damn crew
 
 
 
@@ -144,20 +144,11 @@ we just bussin and we leaving like its nothin
 if it aint the Gucci or the Louie than its Polo or its Rugby
 and this bitch I brought with me she be baggin bitches for me
 
-
-
-
-
-
 I got a girl named Kima
 and Kima like Christina
-baby three dont make a crowd it make a sex scene meaner
+baby three don't make a crowd it make a sex scene meaner
 I just wanna get between her
 turn it over scream her
 than its one, two, Im through, see ya
 I scoop her in my Beamer, Benz or Bentley.
-
-
-
-
 

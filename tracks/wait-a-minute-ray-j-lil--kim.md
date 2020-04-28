@@ -78,7 +78,7 @@ rankings:
   start_date: '2001-09-15'
 ---
 Oh uh oh uh yea
-I dont think yall ready for this one
+I don't think yall ready for this one
 The Queen Bee knockout collabo'
 And if ya don't know, now ya know
 

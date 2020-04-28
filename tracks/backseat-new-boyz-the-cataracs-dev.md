@@ -92,11 +92,11 @@ rankings:
 ---
 
 
-New Boyz!!
+New Boyz!
 
 
 Don't say a word just turn around and let me see
-Girl you got some'n special, some'n special for me?	
+Girl you got some'n special, some'n special for me?
 It's way too many suckers in the V.I.P.
 Tell her got my car out front, tell me do you wanna kick it
 in the backseat - I wanna get beside ya
@@ -126,20 +126,12 @@ Let's do like Fishberg dancin, and shake this spot quick
 Oh you a good girl, it's cool I play pretend too
 I heard you had a baby, you want a New Boy in you?
 
-
-
-
 I met a group of girls in a Escalade
 I met a group of girls in a Escalade
 Met a-met a group of girls in a Escalade
 They came wit'chu and left with me
 
-
-
-
-
-
-Ha!!!!
+Ha!
 
 
 

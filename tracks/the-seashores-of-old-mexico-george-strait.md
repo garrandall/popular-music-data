@@ -71,7 +71,3 @@ Yeah, she loved the gringo, my red hair and lingo...
 That's all I needed to know, ha, ha.
 Yeah, I found what I needed on the seashores of old Mexico.
 
-
-
-
-

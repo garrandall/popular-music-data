@@ -97,7 +97,7 @@ One fine day, we'll meet once more
 And then you'll want the love you threw away before
 One fine day, you're gonna want me for your girl
 One fine day, oh
-Oooh, one fine day, you're gonna want me for your girl
+Oh, one fine day, you're gonna want me for your girl
 
 
 

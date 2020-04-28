@@ -66,13 +66,13 @@ I can't believe just how lucky I am
 Meanwhile back in the back of my memory
 You're still dancing with me
 And I'm holding you once again
-...Meanwhile
+Meanwhile
 
 We move to the end of a beautiful night
 Tender the kisses, soft candle light
 She draws the curtains, slowly we climb up the stairs
 And reach for each other the passion begins
-We fall together as lovers and then...
+We fall together as lovers and then
 
 Meanwhile back in the back of my memory
 You're still lying with me and I'm holding you once again
@@ -84,7 +84,7 @@ Meanwhile I'll go on living my life now
 I'll find a way somehow
 Oh but meanwhile back in the back of my memory
 You'll always be with me but I'll never hold you again
-.... Meanwhile...
+Meanwhile
 
 
 

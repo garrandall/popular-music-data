@@ -52,7 +52,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-09'
 ---
-Ooh, ooh, ooh, ooh
+Oh oh oohohoh
 
 I got a good thing, I ain't gonna give it up
 I got a mighty good thing, ain't gonna give it up
@@ -92,7 +92,7 @@ Can I holler? (Yeah) Can I holler? (Yeah)
 Can I holler? (Yeah) Can I holler? (Yeah)
 Can I holler? (Yeah) Let me holler (Yeah)
 
-Ooh, ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohh,ohoh
 
 Hey, hey, hey
 I wanna play some funky organ

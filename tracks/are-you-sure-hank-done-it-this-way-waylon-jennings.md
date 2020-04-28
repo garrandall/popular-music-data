@@ -57,9 +57,6 @@ Old Hank made it here, we're all sure that you will"
 But I don't think Hank done it this way, no
 I don't think Hank done it this way, okay
 
-
-
-
 Ten years on the road, making one night stands
 Speeding my young life away
 Tell me one more time just so's I'll understand

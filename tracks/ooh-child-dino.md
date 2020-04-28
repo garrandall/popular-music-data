@@ -3,9 +3,9 @@ artists:
 - Dino
 features: []
 genres: []
-key: ooh-child-dino
-lyrics_url: https://genius.com/Dino-dean-esposito-ooh-child-lyrics
-name: Ooh Child
+key: ohchild-dino
+lyrics_url: https://genius.com/Dino-dean-esposito-ohchild-lyrics
+name: OhChild
 rankings:
 - end_date: '1993-07-16'
   rank: 73
@@ -91,14 +91,14 @@ rankings:
 Don't you worry bout a thing
 Oh, no, no
 
-Ooh, child
+Oh child
 Things are gonna get easier
-Ooh, child
+Oh child
 Things'll get brighter
 
-Ooh, child
+Oh child
 Things are gonna get easier
-Ooh, child
+Oh child
 Things'll get brighter
 
 Some day, yeah
@@ -113,14 +113,14 @@ Rays of a beautiful sun
 Some day when the world
 Is much brighter
 
-Ooh, child
+Oh child
 Things are gonna be easier
-Ooh, child
+Oh child
 Things'll be brighter
 
-Ooh, child
+Oh child
 Things are gonna be easier
-Ooh, child
+Oh child
 Things'll be brighter
 
 Some day, yeah
@@ -153,14 +153,14 @@ Don't you worry about a thing
 Cause life goes up and down
 You gotta keep moving on
 
-Ooh, child
+Oh child
 Things are gonna get easier
-Ooh, child
+Oh child
 Things'll get brighter
 
-Ooh, child
+Oh child
 Things are gonna get easier
-Ooh, child
+Oh child
 Things'll get brighter
 Oh, right now
 

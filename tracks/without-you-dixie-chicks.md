@@ -102,7 +102,7 @@ Without you I'm not okay
 And without you
 I've lost my way
 My heart's stuck
-in second place ooh
+in second place oh
 Without you
 
 Well I never thought I'd be
@@ -118,7 +118,7 @@ Without you I'm not okay
 And without you
 I've lost my way
 My heart's stuck
-in second place ooh
+in second place oh
 Without you
 
 Somebody tell my head to try to tell my heart
@@ -129,7 +129,7 @@ Without you I'm not okay
 And without you
 I've lost my way
 My heart's stuck
-in second place ooh
+in second place oh
 Without you...Without you
 
 

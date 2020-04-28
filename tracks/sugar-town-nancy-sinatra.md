@@ -61,7 +61,7 @@ rankings:
   start_date: '1967-02-11'
 ---
 
-I got some troubles but they wont last
+I got some troubles but they won't last
 I'm gonna lay right down here in the grass
 And pretty soon all my troubles will pass
 'Cause I'm in shu shu shu,

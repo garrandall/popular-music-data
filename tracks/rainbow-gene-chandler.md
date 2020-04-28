@@ -65,16 +65,16 @@ My love is gone forever
 But deep down in my heart
 I'll love her forever
 
-There's a rainbow, oohh in my heart
+There's a rainbow, oh in my heart
 Baby, baby, baby
 Come on darling baby
 Please try to
 
-I'm down on my knees, ooohh, yeah, yeah, yeah, yeah
-Please listen to my plea, ooohh, yeah, yeah, yeah, yeah
-I'm looking up above ooohh, yes, up above
-Pray for your love, ooh yeah
-Please, please stop this rainbow, oohh in my heart
+I'm down on my knees, oh, yeah, yeah, yeah, yeah
+Please listen to my plea, oh, yeah, yeah, yeah, yeah
+I'm looking up above oh, yes, up above
+Pray for your love, ohyeah
+Please, please stop this rainbow, oh in my heart
 Baby, baby, baby, come on darling baby
 Come on stop this rainbow, ha, ha, yeah
 
@@ -86,7 +86,7 @@ X2and I realize now baby
 That love only comes once and when it
 Comes you better grab it, cause it may not come no more
 X5and I'm askin you baby
-I'm askin you please......................
+I'm askin you please...
 X3please
 X14baby
 And you look so good to me baby
@@ -95,7 +95,7 @@ Sometimes when I look out at you baby
 I feel like I just want to
 X2I just want to reach out
 I want to reach out baby, I just want to reach out
-I want to reach out and....bite
+I want to reach out and...bite
 
 X2 and I just want to ask you one thing baby
 X3 I just want to ask you one thing

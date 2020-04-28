@@ -159,9 +159,6 @@ Telling you something wrong
 You've been with him one night
 And now he's coming home
 
-
-
-
 We don't have time
 Playing these games
 You had him once
@@ -169,4 +166,4 @@ But it's me on his mind
 No need to cry
 Go dry your eyes
 Get over it
-It was only for one night, ohh
+It was only for one night, oh

@@ -70,7 +70,7 @@ What? I'll fuckin', I'll fuckin' tie you to a fuckin' bedpost
 With your ass cheeks spread out and shit, right?
 Put a hanger on a fuckin' stove and let that shit sit there for like a half hour, take it off and stick it in your ass slow like tss
 Yeah, I'll fuckin', yeah, I'll fuckin' lay your nuts on a fuckin' dresser, just your nuts layin' on a fuckin' dresser, and bang them shits with a spiked fuckin' bat
-Ooh whassup? Blaow!
+Oh whassup? Blaow!
 I'll fuckin', I'll fuckin', pull your fuckin' tongue out your fuckin'
 Mouth and stab the shit with a rusty screwdriver, blaoww!
 I'll fuckin', I'll fuckin', I'll fuckin' hang you by your fuckin' dick off A fuckin' 12 sto-story building out this motherfucker
@@ -115,7 +115,7 @@ Over there, but I think he best to beware
 Of the diggy dog shit right here
 Yippy yippy yay yippy yah yippy yo
 Like Deck said, this ain't your average flow
-Comin' like rah ooh ah achie kah
+Comin' like rah oh ah achie kah
 Tell me, how you like it so far, baby paw?
 The poetry's in motion, coast to coast and
 Rub it on your skin like lotion
@@ -166,7 +166,7 @@ Wild, the Shaolin style is all in me
 Child, the whole damn isle is callin' me
 P-A-N-T-Y R-A-I-D-E-R, mad raw, I don't fry
 Meaning, no one can burn or toss and turn me
-Ooh, I be the super sperm
+Oh, I be the super sperm
 Chim chiminy chim chim cher-ee
 Freak a flow and flow fancy free
 Now, how many licks does it take

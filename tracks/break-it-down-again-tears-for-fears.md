@@ -138,9 +138,6 @@ Break it down again
 I want to break it down
 Break it down again
 
-
-
-
 Horsing around
 Pray to the power, play to the crowd with your big hit sound
 And they won't simmer, won't simmer, won't simmer down

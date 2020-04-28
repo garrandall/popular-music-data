@@ -41,7 +41,7 @@ And all the time as I went along
 Never thought I would desire
 So much to belong
 Love's about to change my heart
-Love's about to change my heart, ooh
+Love's about to change my heart, oh
 
 Never ever thought the sky was so blue
 Never ever thought I'd feel so new

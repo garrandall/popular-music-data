@@ -63,7 +63,7 @@ We keep on losing our legends too
 The cruel cold world, what is it coming to?
 The end of the world, is it coming soon?
 
-Ooh, ooh, ooh
+Oh, oh ooh
 That hit's for you
 
 I usually have an answer to the question

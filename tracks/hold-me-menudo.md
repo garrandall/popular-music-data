@@ -54,7 +54,7 @@ rankings:
 ---
 Everytime I see you
 You look so good
-You've got that magic, ohh
+You've got that magic, oh
 Llike a girl should
 
 I just wanna tell you exactly how I feel

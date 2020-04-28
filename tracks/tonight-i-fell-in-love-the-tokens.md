@@ -65,9 +65,9 @@ rankings:
   start_date: '1961-06-05'
 ---
 
-Dum, doobie dum, woo - ooh, doobie, doobie
-Dum, doobie dum, woo - ooh, doobie, doobie
-Dum, doobie dum, woo - ooh tonight I fell in love, woo - ooh
+Dum, doobie dum, woo - oh, doobie, doobie
+Dum, doobie dum, woo - oh, doobie, doobie
+Dum, doobie dum, woo - oh tonight I fell in love, woo - oh
 
 Tonight, tonight I fell in love, I want the stars above
 To know tonight I fell in love
@@ -79,9 +79,9 @@ This feeling that I feel, is it really real?
 My heart beats so fast, I pray that it will last
 Till the end of time
 
-Dum, doobie dum, woo - ooh, doobie, doobie
-Dum, doobie dum, woo - ooh, doobie, doobie
-Dum, doobie dum, woo - ooh, tonight I fell in love, woo - ooh
+Dum, doobie dum, woo - oh, doobie, doobie
+Dum, doobie dum, woo - oh, doobie, doobie
+Dum, doobie dum, woo - oh, tonight I fell in love, woo - oh
 
 Tonight, oh may it last forever, forever and ever
 Yes, tonight I fell in love

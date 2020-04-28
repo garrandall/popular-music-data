@@ -44,7 +44,7 @@ WHOOMP, there he went (minnie: get busy)
 WHOOMP, there he went (goofy: ~chuckle~ uh hummph)
 WHOOMP, there he went (mickey: lets go)
 WHOOMP, there he went (minnie: a little louder)
-WHOOMP, there he went (goofy: auuhhhh oooohh)
+WHOOMP, there he went (goofy: auuhhhh oh)
 WHOOMP, there he went (mickey: come on now)
 WHOOMP, there he went (minnie: lemme hear ya)
 
@@ -74,7 +74,7 @@ WHOOMP, there she went
 
 WHOOMP (disney buddies: shaka laka shaka laka shaka laka shaka)
 WHOOMP (goofy: shaka laka shaka laka shaka laka shaka)
-WHOOMP (donald: shaka laka shaka laka oohhhh, this is sooo... dumb)
+WHOOMP (donald: shaka laka shaka laka oh, this is sooo... dumb)
 WHOOMP (tag team: shaka laka shaka laka shaka laka shaka)
 
 Goofy: People are dancin, talkin, singin

@@ -57,22 +57,22 @@ rankings:
   start_date: '1999-07-10'
 ---
 
-ooooh....
+oh
 Lying in your arms
 So close together
 Didn't know just what I had
 Now I toss and turn
-Cause I'm without you 
+Cause I'm without you
 How I'm missing you so bad
 Where was my head?
 Where was my heart?
-Now I cry alone in the dark 
+Now I cry alone in the dark
 I lie awake
-I drive myself crazy 
+I drive myself crazy
 Drive myself crazy
 Thinking of you
 Made a mistake
-When I let you go baby 
+When I let you go baby
 I drive myself crazy
 Wanting you the way that I do (wanting you the way that I do)
 
@@ -84,15 +84,15 @@ You confessed your love ( You confessed your love)
 Undying devotion
 I confessed my need to be free
 And now I'm left
-With all this pain 
+With all this pain
 I've only got myself to blame
 
 I lie awake
-I drive myself crazy 
+I drive myself crazy
 Drive myself crazy
 Thinking of you
 Made a mistake
-When I let you go baby 
+When I let you go baby
 I drive myself crazy
 Wanting you the way that I do (wanting you the way that I do)
 
@@ -101,29 +101,29 @@ Why didn't I know it
 Why couldn't show it
 (If I had only told you)
 When I had the chance
-Oh I had the chance 
+Oh I had the chance
 
-oohhhhhh....la la la la la la
+oh...la la la la la la
 I drive myself crazy'
-ahhh..oh so crazy
+ah...oh so crazy
 lalalalala...oh oh oh oh
 I lie awake
-I drive myself crazy 
+I drive myself crazy
 Drive myself crazy
 Thinking of you
 Made a mistake (made a mistake)
-Let you go baby 
-I drive myself crazy
-Wanting you the way that I do 
-
-I lie awake
-I drive myself crazy (I drive myself crazy, crazy, crazy...yeah) 
-Drive myself crazy
-Made a mistake
-Let you go baby 
+Let you go baby
 I drive myself crazy
 Wanting you the way that I do
-I drive myself crazy 
+
+I lie awake
+I drive myself crazy (I drive myself crazy, crazy, crazy...yeah)
+Drive myself crazy
+Made a mistake
+Let you go baby
+I drive myself crazy
+Wanting you the way that I do
+I drive myself crazy
 wanting you the way that I do
 
 

@@ -49,18 +49,18 @@ Didn't know enough to know
 That a summer love can't last
 Can't last
 
-(Do you remember those) 
+(Do you remember those)
 Summer nights all night
 Dancin' in the light of love
-(Dancin' in the light of love) 
+(Dancin' in the light of love)
 Summer nights so right
 Couldn't last beyond September
 Summer nights all night
-Livin' for your love, 
+Livin' for your love,
 Dreamin only of
 You and summer nights
 
-I remember playin' by the shoreline 
+I remember playin' by the shoreline
 Before the fall when we had it all at our fingertips
 Buildin' castles in the driftin' sand
 Raced the waves as they ran to the shore
@@ -68,24 +68,24 @@ But the tides were turned for ever more
 And the things we planned
 Were castles made of sand
 
-(Do you remember those) 
+(Do you remember those)
 Summer nights all night
 Dancin' in the light of love
-(Dancin' in the light of love) 
+(Dancin' in the light of love)
 Summer nights so right
 Couldn't last beyond September
 Summer nights all night
-Livin' for your love, 
+Livin' for your love,
 Dreamin only of
 You and summer nights
 
-Oooh summer nights
+Oh summer nights
 We were diamonds in the rough in the moonlight
-Oooh summer nights
+Oh summer nights
 Now I'm out in the cold again
 Back on my own again
 
-(Well I remember those) 
+(Well I remember those)
 Summer nights...
 
 

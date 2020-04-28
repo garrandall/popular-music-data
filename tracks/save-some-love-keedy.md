@@ -75,7 +75,7 @@ While you are gone
 Sometimes I feel like your swinging door
 Wth you walking in and out and in and out
 Ive never been in so before and then I'd have to do without you
-Guess I thought i could be strong
+Guess I thought I could be strong
 Guess I could not wait too long
 Guess you just can't do no wrong
 So baby could you
@@ -100,4 +100,3 @@ What can I give to you
 So that you have to see
 So that you wil be true
 And save your love for me
-Chorus

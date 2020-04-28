@@ -80,7 +80,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-10-01'
 ---
-Ooh, yeah
+Oh yeah
 Alright
 Here we go again
 Neah neah, whoa no, da na, hey hey
@@ -109,9 +109,9 @@ Ah, yeah
 Come along
 Yeah, yeah yeah, yeah
 Yeah, yeah yeah, yeah yeah yeah yeah
-Aaaah aaaah aaaah aaaah
-Aaaah aaaah aaaah aaaah
-Aaaah aaaah aaaah aaaah
+Ah ah ah ah
+Ah ah ah ah
+Ah ah ah ah
 
 
 Give a little bit
@@ -122,22 +122,22 @@ Now's the time that we need to share
 So find yourself, we're on our way back home
 
 
-Ooh, going home
+Oh going home
 Don't you need, don't you need to feel at home?
 Oh yeah, we gotta see
-Ooh yeah, gotta get a feeling
-Ooh yeah, come along too
+Ohyeah, gotta get a feeling
+Ohyeah, come along too
 Whoo!
 You come along too, neah
 Come a... come a... come a... come along
 
 
 Check t... check t... check to leah
-Ooh yeah, come along too
+Ohyeah, come along too
 Yeah, come along too, yeah
 Sing Betty Lou
 Come along too
 What a long ride
 Come a long way
-Ooh sing it tonight
-Ooh yeah
+Ohsing it tonight
+Ohyeah

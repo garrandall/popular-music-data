@@ -126,7 +126,7 @@ How much better the world could be
 For them and for you, for me
 With the power of love
 
-Ooh, ooh, ooh
+Oh, oh ooh
 My-my-my-my-my-my
 You've got to feel the power
 Yeah, yeah

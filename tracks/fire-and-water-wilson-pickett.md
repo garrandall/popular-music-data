@@ -54,9 +54,9 @@ rankings:
 ---
 
 Every single day, I got a heartache comin' my way
-I don't wanna say goodbye 
+I don't wanna say goodbye
 Baby but look at the tears in my eye
-I don't wanna say goodbye 
+I don't wanna say goodbye
 Mama but look at the way you made me cry
 Every way that's nice
 You show you've got a heart that's made of ice
@@ -69,7 +69,7 @@ A poor mans heart break
 
 Baby you turn me on
 But as quick as a flash your love is gone
-Baby I'm gonna leave you now 
+Baby I'm gonna leave you now
 But I'm gonna try to make you grieve somehow
 
 Fire and water must have made you their daughter
@@ -77,13 +77,13 @@ You've got what it takes to make a poor man's heart break
 A poor man's heart break
 And my heart is breakin' too
 
-(ahh yeah)
+(ah yeah)
 
 (alright)
 
 I don't wanna say goodbye baby
 But look at the tears you made me cry
-Every way that's nice 
+Every way that's nice
 You show you've got a heart that's made of ice
 And I know
 

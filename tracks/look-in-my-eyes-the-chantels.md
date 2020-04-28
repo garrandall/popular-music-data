@@ -74,5 +74,5 @@ Look in my eyes,and tell me you love me
 Tell me you love me or darling all be gone
 (Gone, gone, gone, gone)
 
-Do-oooo di,di,di,di,di
-Do-oooo di,di,di,di,di
+Do-oo di,di,di,di,di
+Do-oo di,di,di,di,di

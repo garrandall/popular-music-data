@@ -60,20 +60,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-01-25'
 ---
-FKI = Fresh Kid Ice
-BM = Brother Marquis
-
-(Mixx scratches "Aw hit me!")
-
-Verse 1
-(FKI) There's only one place where we can go
+There's only one place where we can go
 To see freaky Girls doin' shows
 Doin' tricks to make us holler
 On a giving night, all for a dollar
 Silicone breasts, all on their chests
 Nothin' like others, but above the rest
 They'll do anything to turn us on
-Them girls got it goin' on!!
+Them girls got it goin' on!
 (BM) I like big booty and big and Plenty
 Girl, you know you've been have by many
 So come and be my private dancer
@@ -83,12 +77,10 @@ I get hard after seeing you
 How hard? Hard like a rock
 When you make that Coochie pop!
 
-Chorus(2x): Luke
 Pop that Coochie! Heyyy! Pop that Coochie, baby!
 Pop that Coochie! Pop, pop that Coochie, baby!
 
-Verse 2
-(FKI) Freaky girls with plenty of Class
+Freaky girls with plenty of Class
 Rollin' to the music and shakin' real fast
 Bend over backwards, make me shout
 And work that body, in and out
@@ -105,10 +97,7 @@ Let me Blow Me A Freaky Kiss
 Girl, you know you look so cute
 Throwin' that Coochie the way you do!
 
-Chorus
-
-Verse 3
-(FKI) Poppin' that Thang a dance for the ladies
+Poppin' that Thang a dance for the ladies
 Straight from the South, into the 90's
 Freaky girls are the ones I like
 In G-strings in the middle of the night
@@ -125,16 +114,9 @@ Messin' with me, you're gonna get served
 See, none of my Girls, they never complain
 So come on, baby, and pop that thang!
 
-Chorus
-
-Luke:
 Janet J, pop, that Coochie!
 Bu-bles, pop, that Coochie!
 Ma-donna, pop, that Coochie!
 Sandra-P, pop that stinky smelly Coochie, baby!
 
-
-Chorus
-
-Luke:
-BREAKDOWN!!
+Breakdown!

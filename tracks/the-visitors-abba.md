@@ -59,7 +59,7 @@ Smiling...
 
 Now I hear them moving
 Muffled noises coming through the door
-I feel I'm 
+I feel I'm
 Crackin' up
 Voices growing louder, irritation building
 And I'm close to fainting
@@ -80,7 +80,7 @@ I have been waiting for these visitors
 Help me...
 Now I hear them moving
 Muffled noises coming through the door
-I feel I'm 
+I feel I'm
 Crackin' up
 Voices growing louder, irritation building
 And I'm close to fainting
@@ -94,7 +94,7 @@ Crackin' up
 
 Now I hear them moving
 Muffled noises coming through the door
-I feel I'm 
+I feel I'm
 Crackin' up
 Voices growing louder, irritation building
 And I'm close to fainting
@@ -110,7 +110,7 @@ Crackin' up
 (I have been waiting for these visitors)
 Now I hear them moving
 Muffled noises coming through the door
-I feel I'm 
+I feel I'm
 Crackin' up
 (I have been waiting for these visitors)
 Voices growing louder, irritation building
@@ -124,8 +124,4 @@ Crackin' up
 My whole world is falling, going crazy
 There is no escaping now, I'm
 Crackin' up
-
-
-
-
 

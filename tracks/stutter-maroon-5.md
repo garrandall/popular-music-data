@@ -47,7 +47,7 @@ Now I am lying on the bedroom floor barely even speaking
 
 And I cannot get up, get up
 Oh I really, I really, I really need to know
-Or else you gotta let me go, ooh
+Or else you gotta let me go, oh
 
 You're just a fantasy girl
 It's an impossible world

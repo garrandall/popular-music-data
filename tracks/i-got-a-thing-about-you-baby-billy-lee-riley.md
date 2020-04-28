@@ -39,7 +39,7 @@ Your love was meant for me
 I know that I can't do without it
 It fits me to a tee
 
-Ooh, there's something about you, baby
+Oh, there's something about you, baby
 Can't get you off my mind
 I know that I can't live without you
 Think about you all the time

@@ -69,7 +69,3 @@ Careful what you carry
 'Cause the man is wise
 You are still an outlaw in their eyes
 
-
-
-
-

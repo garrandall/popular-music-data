@@ -119,7 +119,7 @@ So yo ass better show me some re-spect
 
 I pledge allegiance to my independent girls in here
 
-Ooh Baby...
+OhBaby...
 
 So if you with us, come on lemme hear you say-
 Yeah, yeah, yeah, yeah

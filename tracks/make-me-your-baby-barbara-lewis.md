@@ -61,7 +61,7 @@ Make me your baby
 I'll find a way to please you every day
 Make me your baby
 
-Make me, make me your baby (ooh-ah)
+Make me, make me your baby (ohah)
 Kiss me, kiss me and maybe you will see
 Paradise is waiting for you and me
 If you'll make me your baby (make me your baby)
@@ -72,7 +72,7 @@ Make me your baby
 A love that we would share forever more
 When I'm your baby
 
-Make me, make me your baby (ooh-ah)
+Make me, make me your baby (ohah)
 Kiss me, kiss me and maybe you will see
 Paradise is waiting for you and me
 If you'll make me your baby (make me your baby)
@@ -81,7 +81,7 @@ If you'll make me your baby (make me your baby)
 Make me your baby
 Oh, make me your baby
 
-Make me, make me your baby (ooh-ah)
+Make me, make me your baby (ohah)
 Kiss me, kiss me and maybe you will see
 Paradise is waiting for you and me
 If you'll make me your baby (make me your baby)

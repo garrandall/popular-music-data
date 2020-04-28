@@ -33,7 +33,7 @@ If you near a woman right now wherever you're at just turn to em and say you are
 
 I appreciate your smile (thank you)
 I know how much it take to carry and birth a child (thank you)
-And the way you play dumb even when we living real foul (ooo thank ya)
+And the way you play dumb even when we living real foul (oo thank ya)
 And even as a single parent momma you still hold it down some how (thank you momma) making
 Ends meet somehow (thank you momma)
 I appreciate your strength (thank you)
@@ -53,9 +53,9 @@ Special Woman woman woman
 
 I appreciate your glow (Thank you)
 And when you get angry with us the way that you let us know (thank you)
-And i think it's so cute when you get so emotional (thank you)
+And I think it's so cute when you get so emotional (thank you)
 You know till you prove your point you just can't let it go (ha ha)
-But i like that though
+But I like that though
 I appreciate so much (thank you girl)
 Like the I love you feeling girl when we touch (thank you girl)
 Like there's no you, no me, if there's no us (thank ya)
@@ -67,7 +67,7 @@ Strong Woman woman woman (Ain't nothing like making love)
 Grown Woman woman woman
 Special Woman woman woman
 Beautiful Woman woman woman
-Strong Woman woman woman (when i get weak i need a strong woman)
+Strong Woman woman woman (when I get weak I need a strong woman)
 Grown Woman woman woman
 Special Woman woman woman
 

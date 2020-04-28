@@ -51,9 +51,9 @@ One and one people alone make two
 Let's stir things up a bit
 Throw the pieces up to the sky
 
-Baby i want scary kisses
-I want hits and i want misses
-I want hell and i want bliss
+Baby I want scary kisses
+I want hits and I want misses
+I want hell and I want bliss
 And that stuff between it
 And you gave me safety and
 The showtime all that drove me crazy
@@ -71,9 +71,9 @@ We'll find it's not so bad it's just new
 Let's stir things up a bit
 Throw the pieces up to the sky
 
-Baby i want scary kisses
-I want hits and i want misses
-I want hell and i want bliss
+Baby I want scary kisses
+I want hits and I want misses
+I want hell and I want bliss
 And that stuff between it
 And you gave me safety and
 The showtime all that drove me crazy
@@ -90,15 +90,15 @@ Then have another go
 And take another chance
 And just begin again
 Run your finger through the flame
-And i will do the same
+And I will do the same
 Together we will fall
 Together we will rise
 Together we will do everything
 But compromise
 
-Baby i want scary kisses
-I want hits and i want misses
-I want hell and i want bliss
+Baby I want scary kisses
+I want hits and I want misses
+I want hell and I want bliss
 And that stuff between it
 And you gave me safety and
 The showtime all that drove me crazy
@@ -112,9 +112,9 @@ It will be our own mistake
 Put it down to what we know
 Then have another go
 
-Baby i want scary kisses
-I want hits and i want misses
-I want hell and i want bliss
+Baby I want scary kisses
+I want hits and I want misses
+I want hell and I want bliss
 And that stuff between it
 And you gave me safety and
 The showtime all that drove me crazy

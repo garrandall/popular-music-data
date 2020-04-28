@@ -106,7 +106,7 @@ Do-do-do-do-do-do-do-do
 Ay 'cause I'm undecided
 No, no, baby
 I'm afraid of your love
-Ooh, you got me baby
+Oh, you got me baby
 'Cause I can't get enough
 
 But I'm undecided, excited (Oh, yeah, yeah, yeah), ignited (Oh, yeah, yeah, yeah)
@@ -126,7 +126,7 @@ Do-do-do-do-do-do-do
 
 No, no, no, no
 Do-do-do-do-do-do-do-do
-Ooh, but I'm undecided
+Oh, but I'm undecided
 
 
 

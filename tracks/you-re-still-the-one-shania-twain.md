@@ -232,7 +232,7 @@ You're still the one
 You're still the one I run to
 The one that I belong to
 You're still the one I want for life
-(Ooh, you're still the one)
+(Oh, you're still the one)
 You're still the one that I love
 The only one I dream of
 You're still the one I kiss goodnight

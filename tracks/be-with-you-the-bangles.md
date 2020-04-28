@@ -61,7 +61,7 @@ The rain starts to fall
 And the wind blows
 Through an empty hall
 In the mirror
-Ooh, reflections of you
+Oh reflections of you
 
 In the distance I hear a sound
 Is that you coming around

@@ -25,7 +25,7 @@ Someone is pushing me
 All the cities, subways, rivers
 No direction left for me
 I have lost my way home early
-I dont care cause I won't stay there
+I don't care cause I won't stay there
 All I hear is this silent whisper
 "Will you be here again"
 

@@ -94,13 +94,12 @@ I'll see you through
 I'll cover you with a love so deep and warm and true
 I will be there, oh
 
-(chorus)
 Honey I'll be your shelter
 I'll be the one to take you through the night
 Whenever you need shelter
 I'll make everything alright
 Make everything alright, yeah
-Na na nana na na ...
+Na na na na na na...
 
 I got arms strong enough to hold you
 Get you through anything you go through
@@ -116,13 +115,12 @@ To give you love
 When it seems like there's just not enough
 Mine will be there, oh
 
-(chorus)
 Honey I'll be your shelter
 I'll be the one to take you through the night
 Whenever you need shelter
 I'll make everything alright
 Make everything alright, yeah
-Na na nana na na ...
+Na na na na na na...
 
 I'll be your shelter, I'll be you shelter Baby
 
@@ -130,12 +128,9 @@ I'll see you through
 I'll cover you with a love so deep and warm and true
 I will be there, oh
 
-(chorus)
 Honey I'll be your shelter
 I'll be the one to take you through the night
 Whenever you need shelter
 I'll make everything alright
 Make everything alright, yeah
-Na na nana na na ...
-
-(chorus repeat until fade out)
+Na na na na na na...

@@ -37,14 +37,14 @@ She's in demand at dinner time;
 She's on the factory wall.
 And when the gentlemen retire
 Guess who's in control?
-She blew your money 
+She blew your money
 On taking a cruise.
 If that isn't funny,
 Well, watch out teacher.
 
 
-Ooh, ooh. When the chamber's empty
-She said ooh, ooh, Meet El Presidente.
+Oh, oh. When the chamber's empty
+She said oh, oh, Meet El Presidente.
 
 Dressed in flimsy clothing,
 Use your lipstick line
@@ -58,12 +58,12 @@ And if you dare step out of line
 You're going to be abused.
 You may not like it;
 You may not be scared.
-But hell has no fury like a 
+But hell has no fury like a
 Young girl's ego.
 
 
 
-Ooh, ooh. Doo, doo, doo.
+Oh, oh. Doo, doo, doo.
 You might adopt an attitude;
 Look on the moral side.
 But if police are after you,
@@ -72,8 +72,4 @@ For this production
 They gave her a gun.
 Ain't no director--
 So watch out actors!
-
-
-
-
 

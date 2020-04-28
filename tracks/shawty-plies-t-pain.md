@@ -100,7 +100,7 @@ rankings:
 Ay, what's happenin homey?
 This yo' lil' boy Plies, man (shaw-tay)
 Ay Pain, I want you tell 'em bout your shawty homie
-(yeah, yeah, yeah, yeaaaaaah)
+(yeah, yeah, yeah, yeah)
 And I'mma tell em bout mine, dawg
 
 

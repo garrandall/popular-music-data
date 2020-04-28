@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: look-for-a-star-billy-vaughn-and-his-orchestra
+lyrics_url: https://www.musixmatch.com/lyrics/Billy-Vaughn/Look-for-a-Star
 name: Look For A Star
 rankings:
 - end_date: '1960-06-26'
@@ -55,4 +56,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
 ---
+When life doesn't seem worth the living
+And you don't really care who you are
+When you feel there is no one beside you
+Look for a star
 
+When you know you're alone and so lonely
+And your friends have traveled afar
+There is someone waiting to guide you
+Look for a star
+
+Oh, everyone has a lucky star
+That shines in the sky up above
+If you wish on a lucky star
+You're sure to find someone to love
+
+A rich man man, a poor man, a beggar
+No matter whoever you are
+There's a friend who's waiting to guide you
+Look for a star
+
+A rich man, a poor man, a beggar
+No matter whoever you are
+There's a friend who's waiting to guide you
+Look for a star

@@ -142,9 +142,6 @@ Gucci airbag just in case we crash
 Uh, last night was mad trill
 I'm fresh out of Advil, Jesus grab the wheel
 
-
-
-
 Yeah, uh
 Look, fuck all that "Happy to be here" shit that y'all want me on
 I'm the big homie, they still be tryna lil bro me, dog

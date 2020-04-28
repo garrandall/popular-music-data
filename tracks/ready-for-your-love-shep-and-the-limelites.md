@@ -47,7 +47,7 @@ Since I left you girl
 I've been around the world
 Learning at the cost of lifes expense
 But now I plainly see, that what you gave to me
-Was more that i could ever comprehend
+Was more that I could ever comprehend
 Then...
 
 All I do is think about you baby
@@ -64,11 +64,11 @@ Since I left you girl
 I've been around the world
 Learning at the cost of lifes expense
 But now I plainly see, that what you gave to me
-Was more that i could ever comprehend
+Was more that I could ever comprehend
 Then...
 
 But I'm older and wiser now
-And i know what's best for myself babe
+And I know what's best for myself babe
 And I'd rather be with you girl
 Than anybody else
 

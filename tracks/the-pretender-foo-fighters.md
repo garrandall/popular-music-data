@@ -140,9 +140,6 @@ Yeah, who are you?
 Keep you in the dark
 You know they all pretend
 
-
-
-
 What if I say I'm not like the others?
 Keep you in the dark
 What if I say I'm not just another one of your plays?

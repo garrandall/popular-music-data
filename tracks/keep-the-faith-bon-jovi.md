@@ -125,7 +125,7 @@ Oh, we've gotta keep the faith
 Keep the faith
 Keep the faith
 Lord, we've gotta keep the faith
-Ooh yeah, ooh yeah
+Oh yeah, ohyeah
 Yeah yeah yeah
 
 
@@ -156,9 +156,9 @@ Keep the faith
 Everybody keep the faith
 Keep the faith
 Keep the faith
-Ooh yeah, ooh yeah, ooh yeah, ooh yeah, ooh yeah
+Oh yeah, ohyeah, ooheah, ohohah, oh oh
 Everybody needs somebody to love
-(Ooh yeah, ooh yeah, ooh yeah, ooh yeah, ooh yeah)
+(Oh yeah, ohyeah, ooheah, ohohah, oh oh)
 Everybody needs somebody to hate
 Everybody's bitching 'cause they can't get enough
 Everybody needs

@@ -124,9 +124,6 @@ then you'd know without exception
 It was all with the best of_ intentions
 
 
-
-
-
 So here I am asking forgiveness,
 and praying that you'll understand
 Don't think I take you for granted,

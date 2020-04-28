@@ -59,13 +59,13 @@ rankings:
 No matter what you are
 I will always be with you
 Doesn't matter what you do, girl
-Ooh girl, with you
+Oh girl, with you
 
 
 No matter what you do
 I will always be around
 Won't you tell me what you found, girl
-Ooh girl, won't you?
+Oh girl, won't you?
 
 
 Knock down the old grey wall
@@ -79,7 +79,7 @@ Nothing would be, nothing would be, nothing would be
 No matter where you go
 There will always be a place
 Can't you see it in my face, girl?
-Ooh girl, want you
+Oh girl, want you
 
 
 
@@ -95,6 +95,6 @@ Nothing would be, nothing would be, nothing would be
 No matter what you are
 I will always be with you
 Doesn't matter what you do, girl
-Ooh girl, with you
-Ooh girl, you girl, want you
-Ooh girl, you girl, want you
+Oh girl, with you
+Oh girl, you girl, want you
+Oh girl, you girl, want you

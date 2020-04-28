@@ -68,9 +68,6 @@ I've been waitin' on this all damn day (Waitin' on this all damn day)
 Call me in the mornin', tell me how last night went
 I'm here, but don't count on me to stay
 
-
-
-
 Tell me that it's all okay (Tell me that it's all okay)
 I've been waitin' on this all damn day (Waitin' on this all damn day)
 Call me in the mornin', tell me how last night went

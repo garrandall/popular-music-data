@@ -90,9 +90,9 @@ rankings:
 ---
 Mmm mmm
 The American Dream, mmm mmm
-And you know what I mean ahh, baam baam
-Radio Killa (Ahh)
-Trick beat the track up like gorillas (Ahh)
+And you know what I mean ah, baam baam
+Radio Killa (Ah)
+Trick beat the track up like gorillas (Ah)
 I, I, I, I (Yeah)
 
 
@@ -189,7 +189,7 @@ All up in my head, now she in my bed, I
 I, I, I, I
 
 
-Part of me feels so bad, but, ooh
+Part of me feels so bad, but, oh
 Not that bad
 Situation got you mad, I would be
 Too, cause damn she bad, damn she

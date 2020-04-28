@@ -35,7 +35,7 @@ She slept at the house, I bought her Ruth Chris
 
 What's up, mate? Got cake, mate (Yeah, yeah)
 Got cheese, mate, got bread, mate (Woo)
-Got cups, mate (Woo, ooh), no fucks, mate (Woo, mate)
+Got cups, mate (Woo, oh, no fucks, mate (Woo, mate)
 Give no fucks, mate (Woo, fucks, mate), I'm up, mate (Woo, outta shape, yeah, yeah)
 It's up, mate, I buck, mate (Yeah, yeah)
 I bleed, mate, he bled, mate (Woo, yeah, yeah)
@@ -92,7 +92,7 @@ Then you buy that bitch a brand new Range Rover (Woo, woo, yeah, yeah, yeah, yea
 
 I'm so high, all I can say is "Woo, woo, woo"
 I can't talk, I barely could say, "Woo, woo, woo"
-Count a M and count another one, ooh, ooh (Ooh)
+Count a M and count another one, oh oohOoh)
 Fuck that shit, I enter the lotto, woo, woo
 
 
@@ -117,23 +117,23 @@ Outchea, outchea, quit your reachin'
 Gucci socky on my feet
 Tried the toppy, keep it neat
 One, two, three, I got freaks
-Ooh, four girls on fleek
-Ooh, bad and saditty
-Ooh, ass and her titties
-Ooh, that ting litty
-And my Spanish ting, she bad like J. Lo (Ooh, ooh)
-I crushed up an X pill in her asshole (Ooh, ooh)
-50 round clip, got my Draco (Ooh, ooh)
-I should, I should teach drug classes (Ooh, ooh)
-I stay on my grind, Margiela ten toes (Ooh, ooh)
-Money on my mind, I'm a nympho (Ooh, ooh)
+Oh, four girls on fleek
+Oh, bad and saditty
+Oh, ass and her titties
+Oh, that ting litty
+And my Spanish ting, she bad like J. Lo (Oh, oh
+I crushed up an X pill in her asshole (Oh, oh
+50 round clip, got my Draco (Oh, oh
+I should, I should teach drug classes (Oh, oh
+I stay on my grind, Margiela ten toes (Oh, oh
+Money on my mind, I'm a nympho (Oh, oh
 
-Ooh, ass and her titties (Ooh)
-Ooh, that ting litty (Ooh)
-Ooh, ass and her titties (Ooh)
-Ooh, that ting litty (Ooh)
-Ooh, ass and her titties (Ooh)
-Ooh, that ting litty (Ooh)
+Oh, ass and her titties (Oh)
+Oh, that ting litty (Oh)
+Oh, ass and her titties (Oh)
+Oh, that ting litty (Oh)
+Oh, ass and her titties (Oh)
+Oh, that ting litty (Oh)
 
 
 

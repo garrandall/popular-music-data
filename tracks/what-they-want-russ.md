@@ -40,7 +40,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-01-28'
 ---
-Yeah (Ooh)
+Yeah (Oh)
 Yeah (Oh)
 They let us in the rap game (Yeah, yeah, yeah, yeah)
 I swear they let me in this motherfucking rap game (Mmm, yeah, yeah)
@@ -59,12 +59,12 @@ But they ain't the only ones, no, no
 What they want, what they want, what they want
 Dollar signs, yeah, I know it's what they want
 What they want, what they want, what they want
-Y'all ain't fooling me at all, ooh, ooh, ooh, ooh
+Y'all ain't fooling me at all, oh, oh, oh, oh
 
 
 I been at this shit for nine years, now they start to call
 I'm a DIY pioneer, they trying to get involved
-Yippee ki-yay, ahh yeah, 'bout to set it off
+Yippee ki-yay, ah yeah, 'bout to set it off
 I'm probably the only one, yeah
 Come correct when you approach me, I can size you up
 Taking all the shots like Kobe, almost 81
@@ -75,7 +75,7 @@ I'm probably the only one, yeah
 What they want, what they want, what they want
 Dollar signs, yeah, I know it's what they want
 What they want, what they want, what they want
-Y'all ain't fooling me at all, ooh, ooh, ooh, ooh
+Y'all ain't fooling me at all, oh, oh, oh, oh
 
 
 Who wants my money? I'll tell you who I don't fuck with
@@ -92,7 +92,7 @@ When there's a boss in me, I'll be damned
 What they want, what they want, what they want
 Dollar signs, yeah, I know it's what they want
 What they want, what they want, what they want
-Y'all ain't fooling me at all, ooh, ooh, ooh, ooh
+Y'all ain't fooling me at all, oh, oh, oh, oh
 
 
 What they want, what they want, what they want

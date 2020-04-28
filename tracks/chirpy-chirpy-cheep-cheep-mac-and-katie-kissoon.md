@@ -80,9 +80,9 @@ Far, far away...
 
 Chorus:
 Last night I heard my mama singing this song
-Ooh wee chirpy chirpy cheep cheep
+Oh wee chirpy chirpy cheep cheep
 Woke up this morning and my mama was gone
-Ooh wee chirpy chirpy cheep cheep
+Oh wee chirpy chirpy cheep cheep
 Chirpy chirpy cheep cheep chirp
 
 Where's your mama gone

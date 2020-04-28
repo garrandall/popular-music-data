@@ -85,11 +85,11 @@ While the hills are ablaze with the moon's yellow haze
 Come into my arms, Bonnie Jean
 
 (Jean, Jean)
-Jean, you're young and alive!!
+Jean, you're young and alive!
 Come out of your half-dreamed dream
 And run, if you will to the top of the hill
 Come into my arms, Bonnie Jean
 
 Jean
 
-La-la-la-la.... (fade)
+La-la-la-la... (fade)

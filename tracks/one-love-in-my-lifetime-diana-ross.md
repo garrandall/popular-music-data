@@ -57,7 +57,7 @@ rankings:
   start_date: '1976-10-23'
 ---
 
-Ooh,yeah
+Ohyeah
 From rags to riches, here I stand
 Shaped and molded by your loving hand
 With faith and trust unshaken

@@ -136,7 +136,7 @@ This thing that we got, yeah
 Oh yeah
 I can't stop this thing we started
 Yeah, you gotta know it's right
-Can't stop this course we've plotted, ohh yeah
+Can't stop this course we've plotted, oh yeah
 This thing called love we got it
 Ain't no place for the brokenhearted
 I can't stop it
@@ -144,7 +144,7 @@ I can't stop it
 
 Can't stop this thing we started
 You gotta know it's alright
-Can't stop this course we've plotted, ohh yeah
+Can't stop this course we've plotted, oh yeah
 Baby
 Can't stop it
 Can't stop it

@@ -88,7 +88,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-08-21'
 ---
-Ooh, yeah
+Oh, yeah
 Li-da-di-da-di-da-di-da
 
 Sometimes it's so hard to see

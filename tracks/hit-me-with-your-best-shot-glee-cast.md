@@ -16,12 +16,12 @@ rankings:
 Hit Me With Your Best Shot!
 Why Don't You Hit Me With Your Best Shot!
 
-I'm gonna get ya', get ya', get ya', get ya' 
+I'm gonna get ya', get ya', get ya', get ya'
 
 Hit Me With Your Best Shot!
 Fire Away!
 
-I'm gonna get ya', get ya', get ya', get ya' 
+I'm gonna get ya', get ya', get ya', get ya'
 
 One way or another, I'm gonna find ya'
 I'm gonna get ya', get ya', get ya', get ya'
@@ -36,7 +36,7 @@ Put up your dukes, let's get down to it!
 Hit Me With Your Best Shot!
 Why Don't You Hit Me With Your Best Shot!
 
-I'm gonna get ya', get ya', get ya', get ya' 
+I'm gonna get ya', get ya', get ya', get ya'
 
 Hit Me With Your Best Shot!
 Fire Away!
@@ -51,7 +51,7 @@ I'll get right back on my feet again!
 Hit Me With Your Best Shot!
 Why Don't You Hit Me With Your Best Shot!
 
-I'm gonna get ya', get ya', get ya', get ya' 
+I'm gonna get ya', get ya', get ya', get ya'
 
 Hit Me With Your Best Shot!
 Fire Away!
@@ -60,7 +60,7 @@ I'm gonna get ya', get ya', get ya', get ya'
 
 And if the lights are all out
 I'll follow your bus downtown
-See who's hangin' out..... 
+See who's hangin' out...
 
 Hit Me With Your Best Shot!
 Fire Away!

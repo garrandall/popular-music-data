@@ -39,7 +39,7 @@ I can't stand this awful pain that's runnin' through my heart
 It's tearin' me apart
 Come on & ease the pain; it's drivin' me insane
 Baby, please, can't you see you're gonna lose me?
-Hey baby, ooo honey
+Hey baby, oo honey
 Can't you see, can't you see, can't you see you're gonna lose me?
 Can't you see, can't you see, can't you see you're gonna lose me?
 I miss a bunch of memories; come on & see about me

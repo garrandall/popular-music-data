@@ -24,14 +24,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-11-04'
 ---
-Come and get it now, ooh
+Come and get it now, oh
 The drummer,  alright, let's give everybody some
 (Give everybody some, yeah)
 
 
 
 You better give that bass-player some
-Yeah, the bass-player 
+Yeah, the bass-player
 He can have this from me
 Give the bass player some
 Alright bass, you got it

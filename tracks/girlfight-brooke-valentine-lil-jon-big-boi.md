@@ -91,16 +91,16 @@ rankings:
   start_date: '2005-07-16'
 ---
 
- 
-Boy stop 
-Its about to be a girl fight 
-She really know 
-Brook Valentine 
-Uh huh uh huh 
-Big boi 
-A lil Jon! 
-Its about to be a what! 
-Girl fight ! 
+
+Boy stop
+Its about to be a girl fight
+She really know
+Brook Valentine
+Uh huh uh huh
+Big boi
+A lil Jon!
+Its about to be a what!
+Girl fight!
 
 We bout to throw dem bows
 We bout to swang dem thangs
@@ -120,7 +120,7 @@ Ya acting real hard but I know ya fakin'
 
 Know you really don't wanna step to dis
 Really don't know why you talkin' shit
-You 'bout to catch one right in the lip 
+You 'bout to catch one right in the lip
 It's about to be a what? Girlfight!
 
 We bout to throw dem bows
@@ -141,7 +141,7 @@ Don't forget that I got some of dem
 
 Know you really don't wanna step to dis
 Really don't know why you talkin' shit
-You 'bout to catch one right in the lip 
+You 'bout to catch one right in the lip
 It's about to be a what? Girlfight!
 
 We bout to throw dem bows

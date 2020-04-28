@@ -147,7 +147,7 @@ People in the place
 If you ever felt love
 Then you know what I'm talking about
 There is no gettin' over
-Aaaaaahhhhhh
+Ah
 
 
 I'm a party, and party and party and party...

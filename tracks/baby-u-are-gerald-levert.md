@@ -99,7 +99,7 @@ And forever you got me hooked
 Baby you are, you are, you are
 
 Take it back girl, come on
-Ooh who, ooh who
+Oh who, oh who
 You're my shining star
 Said baby, baby you are, you are, you are
 Oh who, you're everything I need

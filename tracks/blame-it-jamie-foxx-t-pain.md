@@ -154,7 +154,7 @@ Blame it on the a-a-a-a-a-alcohol
 Blame it on the a-a-a-a-a-a-a-a-a-alcohol
 
 
-Ooh see, she spilled some drink on me
+Oh see, she spilled some drink on me
 And now I'm knowin' she tipsy
 She put her body on me
 And she keeps staring me right in my eyes

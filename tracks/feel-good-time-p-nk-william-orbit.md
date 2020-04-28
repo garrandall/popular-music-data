@@ -70,7 +70,7 @@ Make a beggar hurt
 Sell me something big and untamed (Untamed)
 
 
-Now our time, a real good time, ooh
+Now our time, a real good time, oh
 (Doo doo doo doo doo doo doo)
 Now our time, a real good time
 (Doo doo doo doo doo doo doo)

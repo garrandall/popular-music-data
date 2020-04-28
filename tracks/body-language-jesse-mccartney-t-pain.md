@@ -71,13 +71,13 @@ rankings:
 ---
 Nappy Boy, Pretty Boy collaboration
 That thing you got behind you is amazing
-Ooh that body’s like music to my ear
-Ooh that body’s like music to my ear
-Ooh that body’s like music to my ear
+Oh that body’s like music to my ear
+Oh that body’s like music to my ear
+Oh that body’s like music to my ear
 Cause what you want is right here
 
 
-Ooh she, oh she so international
+Oh she, oh she so international
 The way, the way she get it on the floor
 I’m tryin, I’m tryin’ to holler at you
 I want to get to know you better

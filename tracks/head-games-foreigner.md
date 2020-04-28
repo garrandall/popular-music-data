@@ -103,7 +103,7 @@ But if you wanna win you gotta learn how to play
 Head games, always you and me, baby
 Head games, 'till I can't take it anymore
 Head games, instead of makin' love
-Head games, ooh
+Head games, oh
 
 Head games, always you and me, baby
 Head games, 'till I can't take it anymore, no more

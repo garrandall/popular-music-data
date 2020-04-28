@@ -57,27 +57,27 @@ Folks come an git'cha tootsie
 I wants to t'tie ya puppe'tame me
 Gonna dig ya on a scoobydoo
 Gonna gitcha on'a scubadie
-Ooh boog-a-boo you
-You ooh boog-a-boo you, little boy
+Oh boog-a-boo you
+You oh boog-a-boo you, little boy
 Get hip to the consultation of the boolawee
-Umm hmm, umm
+Umm hm, umm
 
 Said, golly, golly miss Molly
 Everything's copesetic now
 Boog-a-boo, look at you
 What I'd like to do to you boy
-Ooh boog-a-boo you
-You ooh boog-a-boo you, little boy
+Oh boog-a-boo you
+You oh boog-a-boo you, little boy
 Get hip to the consultation of the boolawee
-Umm hmm, hmm
+Umm hm, hm
 
 Niki, Niki, Niki Hoeky
 Your pappy's doing time in the pokey
 Your sisters on a trip
 Your momma got hip
 Little boy you're lookin' ok
-You ooh boog-a-boo you
-You ooh boog-a-boo you, little boy
+You oh boog-a-boo you
+You oh boog-a-boo you, little boy
 Get hip to the consultation of the boolawee
 
 I'm talking bout your boola

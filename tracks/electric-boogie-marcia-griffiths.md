@@ -58,7 +58,7 @@ You can't see it
 
 You gotta feel it
 
-Ooh, it's shakin'
+Oh, it's shakin'
 
 [Jiggle-a-mesa-cara
 She's a pumpin' like a matic

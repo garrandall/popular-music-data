@@ -80,11 +80,11 @@ Dynamite
 Red light (Red's the color)
 Hot light (It's the fever I got)
 Satisfy (Red enough it would burn you)
-Ooh
+Oh
 Red light (Red is all I can see)
 Hot light (Hot is how it'll be)
 Satisfy (Red for you if you mess with me)
-Ooh
+Oh
 
 
 Doo, doo, doo, doo, doo, doo, doo

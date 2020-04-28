@@ -96,7 +96,7 @@ You got me so fired up
 Little sister, hits the stage
 She can't help it, she's comin' of age
 Little junior, he's all in a rage
-Did you notice she was come, come, comin' of....
+Did you notice she was come, come, comin' of...
 
 
 Little sister, hits the stage

@@ -136,7 +136,3 @@ So many things you should have known
 I guess for me there's just no hope
 I never meant to be so cold
 
-
-
-
-

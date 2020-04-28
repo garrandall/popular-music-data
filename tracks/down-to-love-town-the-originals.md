@@ -120,9 +120,6 @@ To help me lose these blues
 I'm goin' down to the town!
 Down, down, down love town!
 
-
-
-
 Goin' down...
 Goin' down...
 Goin' down...

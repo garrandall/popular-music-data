@@ -97,10 +97,10 @@ Is where I want to be, want to be
 Wrapped in your arms
 That's my high, my high
 
-Shame, ooh
+Shame, oh
 My mother says you're playing a game
 And what you do to me is a shame
-Ooh, gonna love you just the same
+Oh, gonna love you just the same
 Mama just don't understand
 
 Wrapped in your arms
@@ -108,7 +108,7 @@ Is where I want to be, want to be
 Wrapped in your arms
 That's my high, my high
 
-I can't get enough, ooh baby
+I can't get enough, ohbaby
 Enough of that magic touch
 Love is in my heart
 Tearing the rules apart
@@ -116,7 +116,7 @@ So, why should I be ashamed
 
 Only love can be to blame
 If we lose our love it's a shame
-Ooh, I wouldn't want to live with the pain
+Oh, I wouldn't want to live with the pain
 Gonna stay forever
 
 Wrapped in your arms
@@ -127,7 +127,7 @@ That's my high, my high
 Shame
 Only love can be to blame
 If we lose our love it's a shame
-Ooh, I wouldn't want to live with the pain
+Oh, I wouldn't want to live with the pain
 Oh, it's a shame
 Shame...
 

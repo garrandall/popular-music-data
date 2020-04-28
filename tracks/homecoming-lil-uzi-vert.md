@@ -68,7 +68,7 @@ Know you heard what I said, got this shit out the mud
 I'm not in these streets, I'm just close with the plug
 I just saw his mother, I gave her a hug
 
-(Ooh) Yeah, yeah, yeah
+(Oh) Yeah, yeah, yeah
 Yeah, yeah (Drip so hard), it's Lil Uzi Vert
 Uh, woah (Made it rain in this bitch), it's Lil Uzi Vert
 I got on my Chrome Hearts (Yeah, yeah)

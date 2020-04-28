@@ -56,7 +56,7 @@ You better let me tell ya
 
 Cause after love has come and gone
 Baby, I'm the lonely one
-Ooh...
+Oh...
 But why should a man be lonely
 (Why should a man be lonely, why should a man be lonely)
 When he has someone like you
@@ -77,7 +77,7 @@ For you, girl, you better let me tell ya
 
 Cause after love has come and gone
 Baby, I'm the lonely one
-Ooh...
+Oh...
 But why should a man be lonely
 (Why should a man be lonely, why should a man be lonely)
 When he has someone like you

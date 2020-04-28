@@ -97,7 +97,7 @@ She's gonna hear me a comin'
 Gonna walk right down that street
 Like Bulldog Drummond
 'Cause I've been searchin'
-Oooh, Lord, searchin', mm child
+Oh, Lord, searchin', mm child
 Searchin' every which a-way
 Yeah, yeah
 But I'm like the Northwest Mounties

@@ -85,8 +85,8 @@ Yeah, you got every guy in here
 Spinnin' around, spillin' their beer
 I bet you came out to have a good time
 So what you say we leave your friends with mine?
-Oooh, oooh, yeah, they'll be alright
-Oooh, I just wanna see you shine
+Oh, ohyeah, they'll be alright
+Oh, I just wanna see you shine
 
 Girl you're tearin' that dance floor up
 Let me see you do it in the bed of my truck
@@ -103,8 +103,8 @@ Takin' a ride, takin' my hand?
 Kickin' this crowd, ditchin' this club?
 This night's been waitin' on us
 
-Oooh, oooh, save your best moves
-Oooh, yeah, til I get us where we're gettin' to
+Oh, ohsave your best moves
+Oh, yeah, til I get us where we're gettin' to
 
 Girl you're tearin' that dance floor up
 Let me see you do it in the bed of my truck
@@ -118,8 +118,8 @@ I could see you gettin' my tailgate rockin'
 Movin' your hips like wind moves cotton
 You could get the whole wide country side hoppin'
 
-Oooh, oooh, bring the beat back
-Oooh, oooh, aww, come on with me, girl
+Oh, ohbring the beat back
+Oh, ohaww, come on with me, girl
 
 Yeah, you're tearin' that dance floor up
 Let me see you do it in the bed of my truck

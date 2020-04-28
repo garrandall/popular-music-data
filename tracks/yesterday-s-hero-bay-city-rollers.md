@@ -56,7 +56,7 @@ When you walked on by I thought I'd say hello"
 They say
 Haven't I seen your face before
 Weren't you the boy that used to live next door
-Weren't you on television ev'ry night
+Weren't you on television every night
 Haven't I seen you round?
 
 We don't wanna be
@@ -85,7 +85,7 @@ You ain't in my shoes
 Because
 Haven't you seen my face before
 Yes, I was the boy who used to live next door
-Yes, I was on television ev'ry night
+Yes, I was on television every night
 Haven't you seen me round?
 
 We don't wanna be

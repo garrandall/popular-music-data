@@ -74,9 +74,3 @@ But none of them will comfort me tonight
 I'm wide awake at 4 a.m. without a friend in sight
 I'm hanging on a hope but I'm all right
 
-
-
-
-
-
-

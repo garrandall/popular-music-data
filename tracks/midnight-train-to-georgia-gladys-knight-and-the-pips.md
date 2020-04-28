@@ -84,14 +84,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-05'
 ---
-Mmmm L.A
+Mmm L.A
 Proved too much for the man
 (Too much for the man he couldn't make it)
 So he's leavin' the life he's come to know
 (He said he's goin)
 He said he's goin' back to find
 (Goin back to find)
-Ooh ooh ooh what's left of his world
+Oh ohoohhat's left of his world
 The world he left behind
 Not so long ago
 
@@ -113,7 +113,7 @@ Than live without him in mine
 
 
 He kept dreamin' (Dreamin)
-Ooh that someday he'd be a star
+Oh that someday he'd be a star
 (A superstar but he didn't get far)
 But he sure found out the hard way
 That dreams don't always come true
@@ -143,13 +143,13 @@ I'd rather live in his world (Live in his world)
 Than live without him in mine
 (Her world is his, his and hers alone)
 
-Ooh, he's leaving
+Oh, he's leaving
 (Leaving)
 On the midnight train to Georgia
 (Leaving on the midnight train)
 Said he's going back to find
 (Going back to find)
-Ooh, a simpler place and time
+Oh, a simpler place and time
 (Whenever he takes that ride, guess who's gonna be right by his side)
 I've got to be with him
 (I know you will)

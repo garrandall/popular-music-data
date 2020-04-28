@@ -36,8 +36,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
 ---
-Ooh, just ain't enough love
-Ooh, just ain't enough love
+Oh, just ain't enough love
+Oh, just ain't enough love
 
 
 These are the words my baby spoke
@@ -46,9 +46,9 @@ With tears in my eyes as she walked from my side
 I sadly asked her why
 
 
-And she said, "Ooh, ooh, just ain't enough love"
+And she said, "Oh, oh, just ain't enough love"
 ("Just ain't enough love")
-She said, "Ooh, ooh, just ain't enough love"
+She said, "Oh, oh, just ain't enough love"
 ("Just ain't enough love")
 
 
@@ -58,13 +58,13 @@ So sure this would satisfy, 'til she up and left me
 With this reply
 
 
-She said, "Ooh, ooh, just ain't enough love"
+She said, "Oh, oh, just ain't enough love"
 ("Just ain't enough love") I gotta leave you
-Because, "Ooh, ooh, just ain't enough love"
+Because, "Oh, oh, just ain't enough love"
 ("Just ain't enough love")
-She said, She said, "Ooh, ooh," that's what she told me
+She said, She said, "Oh, oh," that's what she told me
 ("Just ain't enough love")
-And she said, "Ooh, ooh, just ain't enough love"
+And she said, "Oh, oh, just ain't enough love"
 ("Just ain't enough love")
 
 
@@ -75,12 +75,12 @@ But this is what she said
 As she turned and walked away
 
 
-She said, "Ooh, ooh, just ain't enough love"
+She said, "Oh, oh, just ain't enough love"
 ("Just ain't enough love")
-She said, "Ooh, ooh, just ain't enough love"
+She said, "Oh, oh, just ain't enough love"
 ("Just ain't enough love")
-Ain't enough love, baby, ("Ooh, ooh,")
+Ain't enough love, baby, ("Oh, oh,")
 That's what she told me ("Just ain't enough love")
-Ain't enough love baby ("Ooh, ooh,")
+Ain't enough love baby ("Oh, oh,")
 That's what she said I got to move on ("Just ain't enough love")
-Ooh baby, ain't enough love
+Oh baby, ain't enough love

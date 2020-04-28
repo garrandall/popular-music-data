@@ -197,7 +197,7 @@ Why do I do that?
 Why do I do that?
 
 Yeah
-Ooh
+Oh
 Oh, pretty, pretty, pretty
 Pretty, pretty please
 Don't you ever, ever feel

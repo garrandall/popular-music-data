@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: tears-on-my-pillow-little-anthony-and-the-imperials
+lyrics_url: https://genius.com/Little-anthony-and-the-imperials-tears-on-my-pillow-lyrics
 name: Tears On My Pillow
 rankings:
 - end_date: '1958-08-17'
@@ -83,4 +84,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-15'
 ---
+You don't remember me, but I remember you
+'Twas not so long ago, you broke my heart in two
+Tears on my pillow, pain in my heart, caused by you, you
 
+
+If we could start anew, I wouldn't hesitate
+I'd gladly take you back, and tempt the hand of fate
+Tears on my pillow, pain in my heart, caused by you
+
+
+Love is not a gadget, love is not a toy
+When you find the one you love, she'll fill your heart with joy
+
+
+If we could start anew, I wouldn't hesitate
+I'd gladly take you back, and tempt the hands of fate
+Tears on my pillow, pain in my heart, caused by you, you
+Oh wo wo wo you you
+Wo oh oh oh oh oh oh oh oh

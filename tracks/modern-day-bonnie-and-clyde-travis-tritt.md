@@ -63,7 +63,7 @@ Like a modern day Bonnie and Clyde
 We met at a truckstop
 Johnson City, Tennessee
 I was gassin' up my Firebird
-When I heard her callin' me...mmm hmm
+When I heard her callin' me...mmm hm
 Said, 'Which way are you headed, boy
 Do you need some company'
 

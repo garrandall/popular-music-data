@@ -51,7 +51,7 @@ If he don't dig this
 He got a hole in his soul
 
 Yeah, well
-Hey, ooh wee
+Hey, ohwee
 
 If you hear a little fuss
 It ain't nobody but us

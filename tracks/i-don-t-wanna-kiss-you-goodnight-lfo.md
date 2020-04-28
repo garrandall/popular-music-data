@@ -68,4 +68,3 @@ I wish this night could be endless
 Baby feeling your skin on my skin
 I take my time to make you breathless
 Girl we can do it again and again
-Chorus (2x)

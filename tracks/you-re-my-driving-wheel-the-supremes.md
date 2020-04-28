@@ -30,12 +30,12 @@ rankings:
 ---
 You're my driving wheel
 Feels good, baby
-You take me farther, ooh
+You take me farther, oh
 Than I've been before
 Ride, ride, ride, ride
 You're my driving wheel
 Feels so good, baby
-Just one touch, ow, ooh
+Just one touch, ow, oh
 Opens up my door
 You're the engine that keeps me running
 You're the motor that keeps me coming
@@ -77,7 +77,7 @@ Opens up my door
 Opens up my door, yeah
 You're my driving wheel
 Driving wheel, baby
-You take me farther, ooh
+You take me farther, oh
 Than I've been before
 Than I've been before
 You're my driving wheel
@@ -89,7 +89,7 @@ You're my driving wheel
 My driving wheel, baby
 You take me farther
 Than I've been before
-Yeah, yeah, ooh
+Yeah, yeah, oh
 You're my driving wheel
 You keep me moving, babe
 Just one touch

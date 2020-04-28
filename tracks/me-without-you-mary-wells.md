@@ -27,7 +27,6 @@ Or you without me (you without me), yeah
 Birds without song, trees without ground
 Man without words, words without a sound
 
-(Chorus)
 
 We vowed to always be as one till the end of time
 But now that you've left me, it doesn't seem real somehow
@@ -35,7 +34,6 @@ But now that you've left me, it doesn't seem real somehow
 Summer without children running wild, winter without pain, yeah
 Summer without heat & a caribou without a game
 
-(Chorus)
 
 You without me (me without you)
 Lonely lonely sight (you without me)

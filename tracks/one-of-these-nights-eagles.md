@@ -86,9 +86,9 @@ You got your demons and you got desires
 Well, I got a few of my own
 
 
-Ooh, someone to be kind to
+Oh someone to be kind to
 In between the dark and the light
-Ooh, coming right behind you
+Oh coming right behind you
 Swear I'm gonna find you one of these nights
 
 
@@ -102,9 +102,9 @@ I've been waiting for a woman who's a little of both
 And I can feel her but she's nowhere in sight
 
 
-Ooh, loneliness will blind you
+Oh loneliness will blind you
 In between the wrong and the right (oh, oh, oh)
-Ooh, coming right behind you
+Oh coming right behind you
 Swear I'm gonna find you one of these nights
 
 
@@ -133,5 +133,5 @@ Coming right behind you
 One of these nights
 Hoo, hoo hoohoohoo
 One of these nights
-All I wanna say, ahhh
+All I wanna say, ah
 One of these nights

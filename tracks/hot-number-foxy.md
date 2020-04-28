@@ -130,11 +130,11 @@ We want to get in your heart
 
 Were hot numbers yeah
 
-Youre outnumbered ooooh
+Youre outnumbered oh
 
 Were hot numbers yeah
 
-Youre outnumbered ooooh wooo
+Youre outnumbered oh wooo
 
 Put your makeup on try to fantasize
 
@@ -170,6 +170,6 @@ I want to be a hot number
 
 Hot number
 
-Hot number woooooo wooo-oooh
+Hot number woooooo wooo-oh
 
 Hot number hoo hoo

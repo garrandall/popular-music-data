@@ -75,9 +75,6 @@ Thats why I, take pride when I slide up in them thighs
 My baby boo she true, you know she hold me down
 So when I get some time, I spend it with her now, YEAH!
 
-
-
-
 My lil' momma she know how the game go
 She know if it's 'bout the money she know daddy gotta go
 She know if it's 'bout the paper then paper I'm gon' get
@@ -90,9 +87,6 @@ I - love to cuddle up, love to make her blush
 Girl I can't get enough, cause I gotta be next to you
 Love to cuddle up, love to make her blush
 Girl I can't get enough, cause I gotta be next to you
-
-
-
 
 Now I knowwww
 That daddy gotta go out there and get it
@@ -109,8 +103,5 @@ That she gon' make me smile when I frown
 And I knowww
 That shorty's more than a friend
 That's why I ride wit her 'til the end, yeahhh
-
-
-
 
 Heyyyyyyy

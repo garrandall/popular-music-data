@@ -102,7 +102,7 @@ I'm love, love crazy
 Love crazy, baby
 Crazy over you
 I'm love, love
-Love crazy, ooh
+Love crazy, oh
 There's nothing I can do
 
 Yeah, yeah, yeah

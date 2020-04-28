@@ -60,9 +60,9 @@ Hold on
 (Hey, come on baby)
 Come on, save me, child, don't you ever leave me
 Hold on
-(Ooh, come on baby)
+(Oh, come on baby)
 Come on, save me, child, don't you ever leave me
-Ooh yeah
+Oh yeah
 
 Life has its problems, I know I've got my share
 Put them all together honey, wouldn't come close to you not there
@@ -88,11 +88,11 @@ Hold on
 (Come on baby)
 Come on, save me, child, don't you ever leave me
 Hold on
-(Ooh, come on baby)
+(Oh, come on baby)
 Come on, save me, child, don't you ever leave me
-Ooh yeah
+Oh yeah
 
-Ooh yeah
+Oh yeah
 Oh yeah
 
 Hold on

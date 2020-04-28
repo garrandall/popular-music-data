@@ -201,7 +201,7 @@ Gal me never know
 Yuh a so yuh stay
 Ragamuffin Chaka Demus
 Com fi flash it same way
-Waoh woa (Follow me)
+Waoh woah (Follow me)
 
 Yuh pretty face an bad character
 Dem the kinda livin can Hold Chaka

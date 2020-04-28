@@ -48,7 +48,7 @@ Feel me?
 
 I heard motherfuckers saying they made Hov
 Made Hov say, "OK so, make another Hov"
-Niggaz wasn't playing they day role
+Niggas wasn't playing they day role
 So we parted ways like Ben and J-Lo
 I should've been did it but I been in a daze though
 I put friends over business end of the day though
@@ -61,7 +61,7 @@ Too much Sam Rothstein
 I ain't a bitch but I gotta divorce them
 Hov had to get the shallow shit up off him
 And I ain't even want to be famous
-Niggaz is brainless to unnecessarily go through these changes
+Niggas is brainless to unnecessarily go through these changes
 And I ain't even know how it came to this
 Except that fame is
 The worst drug known to man

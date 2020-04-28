@@ -144,12 +144,12 @@ This steam
 Help me yeah
 Ready to steam out the log jam
 Stir crazy from the freezer to the boil
-Water's bubbling, it's b..b..b..bubbling
-bubbling 
+Water's bubbling, it's b...b...b...bubbling
+bubbling
 like it's coming to a boil
 Give me steam, lady
 Give me steam around me now
-Aah coming alive 
+Ah coming alive
 Said give me some steam
 
 

@@ -174,15 +174,15 @@ Dallas Austin: Uh-huh?
 
 Red: Hit the tracks, all about the do soloist, man?
 
-Dallas Austin: Word, check this out!!!!!
+Dallas Austin: Word, check this out!
 
-Kids: Here we go!!!
-Go Chris (4x)
-Go Mark (4x)
-Go Red (4x)
-Go Dave (4x)
-Go Ro-Ro (4x)
-YEEEEAAAAAHHHH!!!! BOOOOY!
+Kids: Here we go!
+Go Chris
+Go Mark
+Go Red
+Go Dave
+Go Ro-Ro
+YEEEEAAAAAHHHH! BOOOOY!
 
 GA: Yo!, what's up? Coming at ya!
 Y'knowwhatimsayin? ABC

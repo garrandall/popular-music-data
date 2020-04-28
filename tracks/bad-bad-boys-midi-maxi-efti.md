@@ -34,7 +34,6 @@ That positive people live longer
 Don't be negative (negative)
 Just be positive (positive)
 
-Chorus
 
 You keep on asking me
 Why can't we be together
@@ -43,7 +42,6 @@ I thought we love eachother
 Some other day strong, now I feel alone
 I'll know someway and I'll know someday
 
-Chorus
 
 I like it like it is
 And I like it like it was

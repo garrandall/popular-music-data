@@ -23,9 +23,9 @@ But there was something missing in her eyes
 
 
 I was stumbling
-Looking in the dark (Ooh) with an empty heart
+Looking in the dark (Oh) with an empty heart
 But you say you feel the same
-Could we ever be enough? (Ooh) Baby, we could be enough
+Could we ever be enough? (Oh) Baby, we could be enough
 
 
 And it's alright
@@ -42,9 +42,9 @@ It was there, I saw it in your eyes
 
 
 I was stumbling
-Looking in the dark (Ooh) with an empty heart
+Looking in the dark (Oh) with an empty heart
 But you say you feel the same
-Could we ever be enough? (Ooh) Baby, we could be enough
+Could we ever be enough? (Oh) Baby, we could be enough
 
 
 And it's alright

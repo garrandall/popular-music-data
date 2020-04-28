@@ -41,10 +41,6 @@ Under the blanket, over the moon
 Something more than words, your heart was telling me
 Everything word you whispered was a melody
 
-
-
-
-
 Oh my love
 Tell me is it wrong
 Swaying to this song

@@ -69,7 +69,7 @@ Ends up under cover
 Those lips will make me rise
 You may look down but don't think twice
 Slow death is on the way
-So what man I still want to play....
+So what man I still want to play...
 
 One, two
 This'll get you out of your mind

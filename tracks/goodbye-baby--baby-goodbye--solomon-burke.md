@@ -56,7 +56,7 @@ For I'm coming to your party
 And I won't be able to stay
 But I'm gonna kiss you one more time Lord
 Then I'm going away
-Goodbye baby hmm, baby goodbye hmm
+Goodbye baby hm, baby goodbye hm
 
 You may be lonely yeah you may be hurt
 Like a fool I gave you candy
@@ -67,7 +67,7 @@ And just before the break of day
 I'm gonna touch you one more time Lord
 Then I'm going away
 Sing it to me again
-Goodbye baby hmm ha, baby goodbye
+Goodbye baby hm ha, baby goodbye
 
 Look out, what you see?
 I see a train a-coming

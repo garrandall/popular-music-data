@@ -38,9 +38,6 @@ The bed dat I met you need a good jug be my guest wateva you want I'm at yo requ
 Til I get to ya I can't rest all I can think about is feelin yo sweat playin in your hair
 Feelin your flesh watchin you as you get undressed I'm yo goon you my goonette
 
-
-
-
 I'm sleepin I feel yo hand inside my boxers baby it's 5 in tha mornin you rubbin on
 Oscar know if you wake him up it's gon be problems I know you playin with wat ya
 Want so I ain't gon stop ya jus let me open my eyes so I can watch it you want a
@@ -48,8 +45,4 @@ Dose of ya medicine you wanna see tha doctor gon' take em off so I can gon'
 Lock ya I call you momma you call me poppa tonite I wanna make you tonite my baby
 Mama scent like water me no aroma come a lil closer so I can put it on ya
 You my property I'm yo owner
-
-
-
-
 

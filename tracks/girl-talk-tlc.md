@@ -133,8 +133,8 @@ Me and my girls doin' it big, we pop stars, yeah
 Girls talk got ya all caught out there (Girls talk)
 Why you thinkin' that it's all about ya (Yes we do)
 Forget she told me everything about ya
-But the girls are talkin', the girls are talkin' (About ya right here ooh)
-Girls talk about the booty too (Ooh ooh ooh)
+But the girls are talkin', the girls are talkin' (About ya right here oh
+Girls talk about the booty too (Ohohooh
 About the way a brother is hangin' too (Uh)
 When you didn't think that nobody knew
 You see the girls are talkin', the girls are talkin' (Woah, woah)

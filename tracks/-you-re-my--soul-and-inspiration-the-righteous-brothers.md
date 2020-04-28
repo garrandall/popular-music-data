@@ -98,4 +98,4 @@ Without you baby what good am I?
 What good am I?
 
 Mmm
-Ooh
+Oh

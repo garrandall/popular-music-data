@@ -94,8 +94,8 @@ How do I make you
 How do I make you
 Dream about me
 
-Ooh, ooh
-Ooh, ooh, baby
+Oh, oh
+Oh, oh baby
 The world's a wall of ice
 You're gonna need someone
 To treat you warm and keep you nice

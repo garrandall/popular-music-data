@@ -137,9 +137,6 @@ Go to bed, dream of you
 That's what I'm doing these days
 These days
 
-
-
-
 I wake up in teardrops that fall down like rain
 I put on that old song we danced to and then
 I head off to my job

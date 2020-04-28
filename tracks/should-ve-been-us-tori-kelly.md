@@ -114,7 +114,7 @@ It should've been us
 Should've been a fire, should've been the perfect storm
 It should've been us
 Could've been the real thing, now we'll never know for sure
-Ooh, we were crazy, but amazing
+Oh, we were crazy, but amazing
 Baby, we both know
 It should've been us, us
 It, it, it should've been us

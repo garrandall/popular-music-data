@@ -93,4 +93,4 @@ This man is mine
 This man, this man is mine
 
 (Gonna love him, gonna teach him
-I'm gonna tell him..gonna reach him)
+I'm gonna tell him...gonna reach him)

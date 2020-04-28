@@ -96,16 +96,16 @@ Those lonely nights
 When I waited for your call
 'Til I found out
 All my friends were right
-('Til I found out, ooh, ooh)
+('Til I found out, oh oh
 I didn't know you at all
 
 I heard a rumour
-Ooh, ooh, I heard a rumour
+Oh, oh I heard a rumour
 They say you got a broken heart
 I heard it,
 I heard a rumour
-Ooh, ooh, I heard a rumour
-Yes I did, boy ooh, ooh, ooh
+Oh, oh I heard a rumour
+Yes I did, boy oh oohohoh
 
 Now it seems they're telling me
 You've changed your wicked ways
@@ -116,16 +116,16 @@ So you realise what hurt you made
 (So you realise the love)
 And the love you threw away
 How can I forgive or soon forget
-(How can I forgive, ooh, ooh)
+(How can I forgive, oh oh
 It's never gonna be the same
 
 I heard a rumour
-Ooh, ooh, I heard a rumour
+Oh, oh I heard a rumour
 They say you got a broken heart
 I heard it,
 I heard a rumour
-Ooh, ooh, I heard a rumour
-Yes I did, boy ooh, ooh, ooh
+Oh, oh I heard a rumour
+Yes I did, boy oh oohohoh
 
 
 

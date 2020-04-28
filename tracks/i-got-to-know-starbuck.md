@@ -55,7 +55,7 @@ Whoa-oh
 
 Whoa I got to know, I got to know, I got to know
 Yay I got to know, I got to know, I got to know
-Ooh I got to know, I got to know, I got to know
+OhI got to know, I got to know, I got to know
 
 You communicate with silence
 You expect me to understand
@@ -76,7 +76,7 @@ Whoa-oh
 
 Whoa I got to know, I got to know, I got to know
 Yay I got to know, I got to know, I got to know
-Ooh I got to know, I got to know, I got to know
+OhI got to know, I got to know, I got to know
 
 So if you think ya need me
 Just give me a little call
@@ -90,4 +90,4 @@ So I better not hold my breath
 
 Whoa I got to know, I got to know, I got to know
 Yay I got to know, I got to know, I got to know
-Ooh I got to know, I got to know, I got to know
+OhI got to know, I got to know, I got to know

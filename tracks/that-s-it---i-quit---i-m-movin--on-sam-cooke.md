@@ -85,5 +85,5 @@ That's it Baby I quit I'm moving on
 And one more time
 That's it Honey I quit I'm moving on
 
-Mmmm I'm moving on
+Mmm I'm moving on
 You done me wrong so I'm moving on

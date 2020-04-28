@@ -47,7 +47,7 @@ Blew underground
 Blew underground
 He blew underground
 
-Ahh, all aboard sub-rosa subway
+Ah, all aboard sub-rosa subway
 Had you wondered who's been digging under Broadway?
 It's Alfred
 It's Alfred
@@ -62,13 +62,13 @@ To Brahmsian tunes
 To Brahmsian tunes
 To Brahmsian tunes
 To Brahmsian tunes
-To Brahmsian tunes, ahh
+To Brahmsian tunes, ah
 To Brahmsian tunes
-To Brahmsian tunes, ahh
-To Brahmsian tunes, ahh
-To Brahmsian tunes, ahh
+To Brahmsian tunes, ah
+To Brahmsian tunes, ah
+To Brahmsian tunes, ah
 To Brahmsian tunes
-To Brahmsian tunes, ahh
+To Brahmsian tunes, ah
 To Brahmsian tunes
 To Brahmsian tunes
 To Brahmsian tunes

@@ -36,13 +36,13 @@ I stand accused.
 Of lovin' you,
 Too much.
 
-And i hope,
+And I hope,
 I hope it's not a crime.
 'Cause if it is,
 I'm guilty,
 Of lovin' you, you, you.
 
-Oh yeah, mmm hmm.
+Oh yeah, mmm hm.
 
 I - I hope to God that I,
 Never have,
@@ -69,7 +69,7 @@ I can't help it girl.
 I'm a victim of circumstance.
 
 And just one.
-Oooh, one touch of your hand.
+Oh, one touch of your hand.
 I don't know how it happened.
 But just look at me,
 I find myself chillin' on the witness stand.

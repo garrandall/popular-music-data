@@ -29,7 +29,7 @@ And what you lost...
 And what you had...
 And what you lost
 
-(Oooooh)
+(Oh)
 
 Thunder only happens when it's raining
 Players only love you when they're playing
@@ -48,7 +48,7 @@ In the stillness of remembering
 What you had
 And what you lost...
 And what you had...
-Ooh, and what you lost
+Oh and what you lost
 
 Thunder only happens when it's raining
 Players only love you when they're playing

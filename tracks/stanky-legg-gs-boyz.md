@@ -109,7 +109,7 @@ Do the Stanky Legg (ayyyy!), do the Stanky Legg (ayyyy!)
 All my kinfolks, just watch me do it like my bro
 Stick ya leg out, Doug E. Fresh and drop it low!
  Den gon' lemme see ya
-Bounce-Bounce left to right and then slide next to me! (AYYYYY!!)
+Bounce-Bounce left to right and then slide next to me! (AYYYYY!)
 Ay, you betta fan yaself cause I can tell that ya hot (dat ya hot)
 I wantchu windin up, lean back and show yo' socks
 Dip, dip, den I want you to stop (okay)
@@ -134,7 +134,7 @@ Just hopped out the Coupe/coup, but I don't Chicken Noodle Soup (Chicken Noodle 
 I wanna see you drop and shake dat whoop-dee-dee-doo
 (Drop that) whoop-dee-dee-doo - (Shake that) whoop-dee-dee-doo
 (Drop that) whoop-dee-dee-doo - (Shake that) whoop-dee-dee-doo
-(AYYYYYYYYYYY!!!)
+(AYYYYYYYYYYY!)
 
 
 Bitch I'm wild! (Hold up), do the Stanky Legg (ayyyy!)

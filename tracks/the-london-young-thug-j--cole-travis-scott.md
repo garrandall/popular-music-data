@@ -154,7 +154,7 @@ I'ma run the compound (Yeah), I supply the cigarettes and bread (Woah)
 I got a main and she gon' ride (Uh)
 She took a quarter and she fled (Quarter and she fled)
 I'm in the Lamb so she gon' ride (Yeah)
-I see the pain in shortie's light brown eyes (Ooh)
+I see the pain in shortie's light brown eyes (Oh)
 I'm at The London with some big thighs
 No fries, she eat steaks with the fish sides
 Did your mama tell you when something on fire, stop, drop and roll? (Aww yeah)
@@ -179,7 +179,7 @@ Aight, crushed down when you're mine (Yeah)
 44 times when you won't play (Yeah, side)
 44 side (Yeah)
 89 fly, I might (Fly)
-I might, see you one time, 
+I might, see you one time,
 Get down, might
 See this whole town, every time, I (Woah, woah, won't play, I)
 Yeah, they know what's up (Woah, won't play)

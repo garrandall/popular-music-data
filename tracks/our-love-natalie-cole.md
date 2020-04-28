@@ -140,5 +140,5 @@ Love is just a little baby
 I've got love on my mind
 Love is always right on time
 Love is you and love is me
-Love is gonna set you fre-eee ya
+Love is gonna set you fre-ee ya
 Our love, baby, our love

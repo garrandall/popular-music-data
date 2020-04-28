@@ -148,7 +148,7 @@ rankings:
 
 Yeah
 7:30 in the night
-Ooh ooh
+Oh oh
 
 I get those goosebumps every time, yeah, you come around, yeah
 You ease my mind, you make everything feel fine

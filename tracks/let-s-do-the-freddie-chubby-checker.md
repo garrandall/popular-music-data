@@ -46,7 +46,7 @@ rankings:
 ---
 Are you ready, let's do the freddie
 Are you ready, gonna do the freddie
-Oooo oooo oooo ooo
+Oooo oo oo oo
 Do the freddie
 Oh oh oh oh
 There's a dance that crossin' the nation

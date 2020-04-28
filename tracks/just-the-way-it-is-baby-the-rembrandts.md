@@ -95,7 +95,7 @@ BABY, THAT'S JUST THE WAY IT IS BABY
 
 I've never had a hand for solitaire - it's so unfair.
 That I should have my chance and lose?
-I feel like I've been used to help you through another night. 
+I feel like I've been used to help you through another night.
 You spelled it out in black and white
 
 BABY, THAT'S JUST THE WAY IT IS BABY (WHOAH WHOAH)
@@ -105,14 +105,11 @@ The tides that once had carried you away - they bring you back today.
 The time has washed away my pain.
 I find that things have changed and disappeared without a trace.
 You can't get back what you've erased
-And I say 
+And I say
 
-BABY, THAT'S JUST THE WAY IT IS BABY - THAT'S JUST THE WAY IT IS 
+BABY, THAT'S JUST THE WAY IT IS BABY - THAT'S JUST THE WAY IT IS
 BABY, THAT'S JUST THE WAY IT IS BABY - OH THAT'S JUST THE WAY IT IS
-BABY, THAT'S JUST THE WAY IT IS BABY 
+BABY, THAT'S JUST THE WAY IT IS BABY
 BABY, THAT'S JUST THE WAY IT IS BABY
 BABY,THAT'S JUST THE WAY IT IS BABY -  JUST THE WAY IT IS
-
-
-
 

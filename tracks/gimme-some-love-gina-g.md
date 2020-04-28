@@ -76,7 +76,7 @@ You're all I want, all I'm thinking of
 Move your body close to mine
 Chorus
 I can't wait any longer
-It feels so good inside I must be dreaming (Oooh dreaming)
+It feels so good inside I must be dreaming (Oh dreaming)
 Only you can satisfy this feeling
 Am I dreaming?
 Am I dreaming?

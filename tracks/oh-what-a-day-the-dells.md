@@ -80,15 +80,15 @@ You gotta sing along
 (Oh, what a day)
 Oh, yeah, sing a song
 
-(La la la la....)
+(La la la la...)
 One more time now
-(La la la la....)
+(La la la la...)
 Say it again
-(La la la la....)
+(La la la la...)
 
 (Oh, what a day)
 (Oh, what a day)
-(Oh, what a day)....
+(Oh, what a day)...
 
 What a day
 What a day, what a day
@@ -101,4 +101,4 @@ It's gonna be a wonderful day
 I had a wonderful night
 Oh, yeah (oh, what a day)
 
-What a day....
+What a day...

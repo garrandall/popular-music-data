@@ -96,7 +96,7 @@ Getting paid to not bust
 Hookers drawers got crushed
 
 Claps clapping regular
-Hardcore niggaz with fat gold chains
+Hardcore niggas with fat gold chains
 On the corner maintaining
 
 Gold teeth flashing

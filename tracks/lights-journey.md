@@ -78,7 +78,7 @@ rankings:
 ---
 When the lights go down in the City
 And the sun shines on the bay
-Ooh, I wanna be there in my City, oh
+Oh, I wanna be there in my City, oh
 Oh, oh, oh
 
 
@@ -90,19 +90,19 @@ Oh, oh, oh
 
 It's sad, oh, there's been mornings out on the road without you
 Without your charms
-Ooh, my, my, my, my, my, my
+Oh, my, my, my, my, my, my
 Oh, oh, oh
 
 
 When the lights go down in the City
 And the sun shines on the bay
-Ooh, I wanna be there in my City, oh
+Oh, I wanna be there in my City, oh
 Oh, oh, oh
 
 
 When the lights go down in the City
 And the sun shines on the bay
-Ooh, I wanna be there in my City, oh
+Oh, I wanna be there in my City, oh
 Oh, oh, oh
 Mmm
 Oh, oh, oh

@@ -136,10 +136,10 @@ Said I don't wanna be a fool ever again
 
 
 (No way) I mean no more
-(Never again) Ooh, no never
+(Never again) Oh, no never
 (I can't be a fool) Can't be, no way
 No way, no way
-Ooh, I don't want to be
+Oh, I don't want to be
 I don't want to be a fool, no
 
 (I can't love anybody walking on a one way street)

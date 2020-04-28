@@ -143,7 +143,7 @@ Baby shake that thing (baby shake that thing)
 
 Woah! I feel all right now yeah (make me feel all right)
 Said I feel all right now (make me feel all right)
-Woooah! (make me feel all right)
+Woah! (make me feel all right)
 Tell you I feel all right, yeah (make me feel all right)
 Said I feel all right (make me feel all right)
 Baby I feel all right (make me feel all right)

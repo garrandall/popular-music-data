@@ -21,11 +21,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-12'
 ---
-Ooh, I love my baby
+Oh, I love my baby
 I said I love, love
 Love my baby
 
-Ooh, I love
+Oh, I love
 I love, I love my baby
 I said I love, love
 Love my girl

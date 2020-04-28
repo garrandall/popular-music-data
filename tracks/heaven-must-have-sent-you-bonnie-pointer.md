@@ -116,7 +116,7 @@ Oh so long I've needed love right near me
 A soft voice to cheer me
 Heaven must have sent you baby into my life
 
-Ooh it's heaven in your arms
+Oh it's heaven in your arms
 It's the sweetness of your charms
 Makes me love you more each day
 In your arms I wanna stay
@@ -125,7 +125,7 @@ Wanna thank you for the joy youve brought me
 Thank you for the things you taught me
 Thank you for holding me close
 When I needed you the most
-Now I dont know much about you baby
+Now I don't know much about you baby
 But I know I can't live without you
 Heaven must have sent you honey
 To love only me

@@ -80,9 +80,6 @@ With smoke comin' from up under us like we sittin in the sauna
 Burnin up the charts (burnin up the charts)
 Break a bitch heart, lil' mama don't you start
 
-
-
-
 S-N-double-O-P D-O-double-gi-zee
 D-O-double-gi-zee, D-O-double-gi-zee!
 
@@ -94,7 +91,7 @@ Now every lil' bitch wanna show up
 Manuev'in to this, groovin to this
 Dippin to this, flippin to this, trippin to this
 Ain't no skippin to this, trust this
-Bust this, it's too hot to touch this (ahh!)
+Bust this, it's too hot to touch this (ah!)
 He say, she say, I say no way
 Don't need foreplay, okay, obey
 Everything that I say..

@@ -68,7 +68,7 @@ And we have no reason to stay
 
 We gave it our all and all
 We gave it all we had
-Ooh, but love is gone
+Oh, but love is gone
 Love is gone and we
 Have no reason to stay
 

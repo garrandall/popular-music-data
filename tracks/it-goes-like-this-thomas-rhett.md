@@ -103,7 +103,7 @@ I've had a melody in my head
 Since she walked in here and knocked me dead.
 Yeah girl, you make me wanna write a song
 
-And it goes like ooh,
+And it goes like oh,
 What I wouldn't do
 To write my name on your heart,
 Get you wrapped in my arms
@@ -119,7 +119,7 @@ I don't know what it is about you, baby,
 But I'm all messed up and it might sound crazy,
 But you make me wanna write a song.
 
-And it goes like ooh,
+And it goes like oh,
 What I wouldn't do,
 To write my name on your heart,
 Get you wrapped in my arms
@@ -132,7 +132,7 @@ Yeah it goes like this.
 Lookin' at you, lookin' at me that way,
 Makes me wanna grab my old guitar and play
 
-Something like ooh,
+Something like oh,
 What I wouldn't do,
 To write my name on your heart,
 Get you wrapped in my arms
@@ -142,7 +142,7 @@ Girl I'm blown away,
 Yeah it starts with a smile and it ends with an all night long slow kiss,
 Yeah it goes like this
 
-And it goes like ooh,
+And it goes like oh,
 And it goes like hey,
 And it ends with a kiss,
 Yeah it goes like this.

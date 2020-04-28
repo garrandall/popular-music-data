@@ -102,7 +102,7 @@ Says it's funny how the night
 Can make you blind
 I can just imagine
 And I don't know what I'm supposed to do
-But if she feels bad then i do too
+But if she feels bad then I do too
 So I let her be
 
 And she says oh
@@ -117,7 +117,7 @@ Her diamonds falling down
 
 She sits down and stares into the distance
 And it takes all night
-And i know i could break her concentration
+And I know I could break her concentration
 But it don't feel right
 
 By the light of the moon

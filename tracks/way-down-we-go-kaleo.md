@@ -66,12 +66,9 @@ And way down we go-o-o-o-o
 Oh way down we go
 Say way down we go
 'Cause they will run you down, down 'til you fall
-Way down we go, ooh
+Way down we go, oh
 Oh, 'cause they will run you down, down 'til you fall
 Oh, way down we go
-
-
-
 
 Uhh uhh uhh uhh uhh uhh uhh
 Uhh uhh uhh uhh uhh uhh uhh
@@ -83,12 +80,12 @@ Uhh uhh uhh uhh uhh uhh uhh
 Uh uhhhh
 Oh bab-bab-yeah
 Wow baby-a-aha
-Baby, ooh
+Baby, oh
 Way down we go
 Yeah
 
 
 And way down we go-o-o-o-o
 Way down we go
-Say way down we go, ooh
+Say way down we go, oh
 Way down we go

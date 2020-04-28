@@ -97,7 +97,7 @@ Nasty boys, don't ever change, huh
 Oh you nasty boys
 
 I don't like no nasty car, I don't like a nasty food, huh
-Ooh ooh yeah
+Oh oh yeah
 The only nasty thing I like is the nasty groove, huh
 Will this one do?
 Uh huh, I know
@@ -120,7 +120,7 @@ Listen up.
 
 I'm not a prude (no)
 I just want some respect (that's right)
-So close the door if you want me to respond (ooh ooh yeah)
+So close the door if you want me to respond (oh oh yeah)
 'Cause privacy is my middle name
 My last name is Control
 No my first name ain't baby

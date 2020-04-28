@@ -22,7 +22,7 @@ I keep looking for a change
 Sometimes I wonder am I standing still in time
 Tired of doing everything the same old way
 Tired of playing all the games that people play
-This running round in circles gives me no peace of mind I need to find....
+This running round in circles gives me no peace of mind I need to find...
 I need the emotion
 I need to laugh
 Sometimes I need to cry
@@ -30,7 +30,7 @@ I need the emotion
 I need to love so hard
 I don't know what to do
 And baby , I need you...
-Oooooooooooh
+Oh
 
 Sometimes I need a good old fashioned fight
 It doesn't matter If I'm wrong or right
@@ -49,7 +49,7 @@ I need the emotion
 I need to love so hard
 I don't know what to do
 And baby , I need you...
-Oooooooooooh
+Oh
 
 Sometimes I need to tear the whole thing down
 Sometimes I need to turn it all around
@@ -79,7 +79,7 @@ I need, I need, I need emotion
 Feels so good...
 I need, I need, I need emotion
 Yes I do baby
-Oooooohh
+Oh
 I need the emotion
 I said emotion
 I need, I need, I need emotion

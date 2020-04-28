@@ -49,7 +49,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-08-28'
 ---
-Oh-oooh-oh
+Oh-oh
 
 You so fly, lady
 
@@ -122,7 +122,7 @@ It's like a fantasy, girl, close your eyes
 Take my time when I touch that body
 Get you so hot
 You wanna top naughty
-Oooh
+Oh
 Suga Suga
 How you'd get so fly
 I'm down for yours, if you down for mine

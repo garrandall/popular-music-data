@@ -49,9 +49,3 @@ The better I feel
 Ba da da da da da da
 Ba da da da da da da, da da da da
 
-
-
-
-
-
-

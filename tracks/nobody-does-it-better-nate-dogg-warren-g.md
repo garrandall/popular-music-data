@@ -82,7 +82,7 @@ rankings:
   start_date: '1998-11-07'
 ---
 
-Nobody.... does it better 
+Nobody... does it better
 Nobody... does it better
 Nobody... does it better
 
@@ -122,9 +122,6 @@ No one, nobody listenin' but Warren and me
 To all the nonbelievers, now I bet you see
 Nobody does it better than me
 
-
-
-
 They call me DJ and the spark plug
 Keepin' it licked
 There is no accident for these platinum hits
@@ -143,9 +140,6 @@ I'm not a kid no more, I just don't give a fuck
 So if you think you really wanna step to me
 Keep this is mind: nobody does it better than me
 
-
-
-
 Wow, make you say go now
 Hot rap singles on the charts now
 Got a baby
@@ -160,7 +154,7 @@ Nobody does it better than me
 
 
 
- Nobody.... does it better
+ Nobody... does it better
 
 
 

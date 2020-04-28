@@ -55,16 +55,16 @@ Be the doctor, baby, I'm in need of a cure
 I hunger for your love
 
 I hunger for your love (Just a little bit)
-I hunger for your love (Ooh, baby, I hunger)
+I hunger for your love (Oh, baby, I hunger)
 I hunger for your love (Hunger for your love)
 I hunger for your love
 
 Baby, I want ya
-Ooh, I hunger
+Oh, I hunger
 Baby, I want ya
-Ooh, I hunger
+Oh, I hunger
 
-Ooh
+Oh
 
 A tantalizin' love fantasy
 And when your body is close to me, oh
@@ -100,7 +100,7 @@ Like a bee needs honey, baby, I need lovin'
 Can I get it, come on
 Can I get it, come on
 Can I get it from you, baby, come on
-Ooh, I want ya, hoo
+Oh, I want ya, hoo
 Uh-huh... uh-huh... uh-huh...
 
 So tell me what you wanna do (Yeah)
@@ -117,9 +117,9 @@ I hunger for your love
 I hunger for your love
 
 Baby, I want ya
-Ooh, I hunger
+Oh, I hunger
 Baby, I want ya
-Ooh, I hunger
+Oh, I hunger
 
 
 

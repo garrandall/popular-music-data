@@ -17,51 +17,51 @@ rankings:
   start_date: '2008-09-06'
 ---
 
-What Do i Do.. Stop, Go, Fail, Succed? Live or Die? I Just Got To Believe 
+What Do I Do.. Stop, Go, Fail, Succed? Live or Die? I Just Got To Believe
 
-Believe its worth saving 
-And to get lost, lost in a day dream 
-So why hesitate 
-Take me to another place 
-So far far away 
-So i can get out of the dark 
-High speed, like I'm racing 
-It's like lighting, sky is blazing 
-But you've lost your way, You've been lead astray 
-Are there better days for my fallen dreamer 
+Believe its worth saving
+And to get lost, lost in a day dream
+So why hesitate
+Take me to another place
+So far far away
+So I can get out of the dark
+High speed, like I'm racing
+It's like lighting, sky is blazing
+But you've lost your way, You've been lead astray
+Are there better days for my fallen dreamer
 
 Calling a Dreamer (A Dreamer A A A Dreamer )
-Calling a Dreamer (A Dreamer A A A Dreamer ) 
-(You don't sleep no more) You don't even sleep no more 
-(Dream no more) You don't even dream no more 
-Dreamer (Dreamer) 
-Why don't you just dream again  
+Calling a Dreamer (A Dreamer A A A Dreamer )
+(You don't sleep no more) You don't even sleep no more
+(Dream no more) You don't even dream no more
+Dreamer (Dreamer)
+Why don't you just dream again
 
-Believe in you 
-You got something to prove 
-Your a star 
-Watch you shine bright on your way to the limelight 
-Finish line 
-The sweat and tears 
-You can channel all of your fears 
-Open your eyes 
+Believe in you
+You got something to prove
+Your a star
+Watch you shine bright on your way to the limelight
+Finish line
+The sweat and tears
+You can channel all of your fears
+Open your eyes
 Your eyes
-And it will be alright 
+And it will be alright
 
 Calling a Dreamer (A Dreamer A A A Dreamer )
-Calling a Dreamer (A Dreamer A A A Dreamer ) 
-(You don't sleep no more) You don't even sleep no more 
-(Dream no more) You don't even dream no more 
-Dreamer (Dreamer) 
-Why don't you just dream again  
+Calling a Dreamer (A Dreamer A A A Dreamer )
+(You don't sleep no more) You don't even sleep no more
+(Dream no more) You don't even dream no more
+Dreamer (Dreamer)
+Why don't you just dream again
 
-(A Dreamer A A A Dreamer ) 
+(A Dreamer A A A Dreamer )
 
 Calling a Dreamer (A Dreamer A A A Dreamer )
-Calling a Dreamer (A Dreamer A A A Dreamer ) 
-(You don't sleep no more) You don't even sleep no more 
-(Dream no more) You don't even dream no more 
-Dreamer (Dreamer) 
+Calling a Dreamer (A Dreamer A A A Dreamer )
+(You don't sleep no more) You don't even sleep no more
+(Dream no more) You don't even dream no more
+Dreamer (Dreamer)
 Why don't you just dream again
 
 

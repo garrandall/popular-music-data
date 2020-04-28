@@ -150,7 +150,7 @@ if you ever get there
 see you when you get there
 
 
-You need to loosen up 
+You need to loosen up
 and live a little
 and if you got kids let them know how you feel
 and for your own sake give a little
@@ -169,7 +169,7 @@ but at times of despair we gotta pull ourselves together
 and if you fell you're out the game then you need to get back in it
 cause' nothing worse than a quitter
 you gotta face responsibility one day, my brother
-so gather up your pitty and turn it to ambition 
+so gather up your pitty and turn it to ambition
 and put your vehicle in drive and stop by my side
 
 
@@ -177,14 +177,10 @@ and put your vehicle in drive and stop by my side
 
 As we walk down the road of our destiny
 and the time comes to choose which it gonna be
-the wide and crooked, or the straight and narrow 
+the wide and crooked, or the straight and narrow
 we got one voice to give and one life to live
 stand up for something or lie down in your game
 listen to the song that we sing
 it's up to you to make it be
 I guess I'll see you when you see me
-
-
-
-
 

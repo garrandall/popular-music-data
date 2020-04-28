@@ -105,7 +105,7 @@ They never asked him why
 "Get out of my way"
 They heard him shout
 Then a blinding light
-Ooh all I could see was him running down the street
+Oh all I could see was him running down the street
 Out of the shadows and into the night
 
 
@@ -119,9 +119,6 @@ Don't give up
 You know that I am on your side
 Don't give up
 Oh Billy, you better, you better, you better run for your life
-
-
-
 
 They came at night leaving fear behind
 Shadows were on the ground

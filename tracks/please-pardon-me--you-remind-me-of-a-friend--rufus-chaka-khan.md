@@ -39,7 +39,7 @@ I don't mind, cause your face looks so kind
 Seldom you'll find someone so daring
 
 You remind me of a friend of mine
-Ooh, I've lost (the) time, yeah
+Oh, I've lost (the) time, yeah
 
 Everytime I see your face
 You remind me of that someone

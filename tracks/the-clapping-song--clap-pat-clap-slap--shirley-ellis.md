@@ -82,7 +82,7 @@ Pat: Take you right arm cross your right arm with your left arm pat your partner
 Clap: Take your hands back and clap
 Pat: Take your right arm cros your left arm and pat your partner's right palm with your right palm
 Clap: Now back, with a clap
-Take the flats of your palms and slap your thighs and watch the fun materialize as you sing this little song:
+Take the flats of your palms and slap your thighs and watch the fun materialize as you sing this little song
 
 My mother told me
 If I was good-ee
@@ -94,12 +94,12 @@ I kissed a soldier
 Now she won't buy me
 A rubber dolly
 
-Clap-Pat
-Clap-Pat
-Clap-Pat
-Clap-Slap
+Clap pat
+Clap pat
+Clap pat
+Clap slap
 
-Clap-Pat
-Clap-Pat
-Clap-Pat
-Clap-Slap
+Clap pat
+Clap pat
+Clap pat
+Clap slap

@@ -53,7 +53,7 @@ I'm gonn'a make you love me. Yes I will, (yes I will) yes, I will!
 I'm gonn'a make you love me. Yes I will, yes I will
 My love is strong you see I know you'll never get tired of me
 Oh baby, oh baby
-I'm going to use every trick in the book 
+I'm going to use every trick in the book
 To try my best to get you hooked
 Oh baby
 Every night, every day, I'm gonna say
@@ -66,7 +66,7 @@ Every night, every day, I'm gonn'a say
 I'm gonn'a get you, I'm gonn'a get you
 Look out boy 'cause I'm gonn'a get you
 I'm gonn'a make you love me. Yes I will (yes I will)
-Believe i will (yes i will)
+Believe I will (yes I will)
 You know that I'm gonn'a make you love me
 Yes I will woooo, yes, I will
 I'm gonn'a make you...

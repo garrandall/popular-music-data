@@ -83,9 +83,6 @@ Saying yeah, yeah
 (Woo hoo!)
 Saying yeah, yeah
 
-
-
-
 It's on tonight
 It's on tonight
 (It's on-on-on-on-on tonight)

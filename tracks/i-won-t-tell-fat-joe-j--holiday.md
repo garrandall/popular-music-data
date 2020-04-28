@@ -119,9 +119,6 @@ Bill's so high they throw in the champagne
 I'm a real nigga, real niggas do real things
 And I can keep a secret is the song that I sing
 
-
-
-
 Grown man B.I., millionaire frames, Perrier rods
 Every day a different chain nigga get ya gear up
 Name another fat guy fly like me
@@ -134,9 +131,6 @@ Louis Vuitton I'm truly the don
 Christian, Lou' Vuitton, the bluish charm
 I'm a real nigga, real niggas do real things
 And I can keep a secret is the song that I sing
-
-
-
 
 Joey Crack you killin 'em with this one~!
 J. Holiday checkin in...

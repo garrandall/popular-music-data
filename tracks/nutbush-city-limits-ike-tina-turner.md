@@ -88,7 +88,7 @@ Call it Nutbush city limits
 You go t'the fields on week days
 And have a picnic on Labor Day
 You go to town on Saturday
-But go to church ev'ry Sunday
+But go to church every Sunday
 They call it Nutbush
 Oh Nutbush
 Call it Nutbush city limits

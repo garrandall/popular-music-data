@@ -42,10 +42,10 @@ No time
 Always runnin' here and there
 Chasin' the money
 
-So much jibber jabber's 
+So much jibber jabber's
 Cloggin' up our soul
 
-Where are we runnin' 
+Where are we runnin'
 We need some time to clear our heads
 Where are we runnin'
 Keep on working 'til we're dead
@@ -55,15 +55,15 @@ Where are we runnin' now
 
 In style
 Profile
-Got to buy 
+Got to buy
 The new Cavalli
 
-Keep the skin tight 
+Keep the skin tight
 And the booty in the air
-Don't stop the party 
+Don't stop the party
 
 The road is paved but narrow
-I hope we all get home 
+I hope we all get home
 
 Where are we runnin'?
 We need some time to clear our heads
@@ -80,7 +80,7 @@ You up there
 I saw you
 
 Where are we running
-We need some time to clear our heads 
+We need some time to clear our heads
 Where are we runnin'
 Keep on working 'til we're dead
 Where are we runnin'
@@ -89,13 +89,13 @@ Where are we runnin' now
 Yeah yeah
 
 Where are we running
-We need some time to clear our heads 
+We need some time to clear our heads
 Where are we runnin'
 Keep on working 'til we're dead
 Where are we runnin'
 Oo wee oo wee oo
 Where are we runnin' now
-Yeah yeah, waouh !
+Yeah yeah, waouh!
 Where are we runnin'...
 
 

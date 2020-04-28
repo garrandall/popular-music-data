@@ -72,9 +72,6 @@ So get ready, so get ready 'cause here I come
 (Get ready 'cause here I come)
 (Get ready)
 
-
-
-
 If all my friends should want you too, I'll understand it
 (Be alright)
 I hope I get to you before they do, the way I planned it

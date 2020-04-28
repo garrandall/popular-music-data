@@ -188,7 +188,7 @@ You know I want you so bad
 Baby, baby, baby
 
 
-Ooooh, I get so high
+Oh, I get so high
 When I'm around you baby
 I can touch the sky
 You make my temperature rise
@@ -212,7 +212,7 @@ You know I want you so bad
 Baby, baby, baby, baby
 
 
-Ooooh, I get so high
+Oh, I get so high
 When I'm around you baby
 I can touch the sky
 You make my temperature rise, oh boy
@@ -229,7 +229,7 @@ Blow my flame
 Take me, take me, take me away
 
 
-Ooooh, I get so high
+Oh, I get so high
 When I'm around you baby
 I can touch the sky
 You make my temperature rise, oh boy

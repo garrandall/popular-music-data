@@ -32,7 +32,7 @@ And it does a nasty dance
 When it moves in and out
 Everybody starts to shout
 
-Monster, aaaah monster, aaaah
+Monster, ah monster, ah
 Get outta here monster!
 Monster! monster!
 Get outta here monster!
@@ -57,7 +57,7 @@ People hit it with a broom
 
 Take that monster! take that monster!
 Take it! take it! take that you awful thing!
-Take that aaah! take that aaah!
+Take that ah! take that ah!
 Take it! take it! take that you naughty thing!
 
 And they don't wear pants on the other side of france
@@ -71,6 +71,6 @@ The guys give a yell and the girls start to shriek
 When they see its giant claws and it razor sharp beak
 
 Gosh would you look at that thing
-And i thought dinosaurs were extinct
+And I thought dinosaurs were extinct
 
-Aaaaah!
+Ah!

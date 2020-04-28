@@ -67,7 +67,7 @@ Tell her love has felt the need to leave her
 Tell her love has felt the need to free her
 I could never be what she wants of me
 
-Love her, ooh-ooh-ooh
+Love her, oh-oh-oh
 I could never be what she wants of me
 Yeah, yeah-eah-eah
 I could never be what she wants of me

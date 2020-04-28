@@ -91,9 +91,6 @@ I never wanna die
 Born to be wild
 Born to be wild
 
-
-
-
 Get your motor runnin'
 Head out on the highway
 Looking for adventure

@@ -86,48 +86,48 @@ Got your bitch on my dick I stack them chips
 And a flash as a fuck my jewels so sick
 From a block away you can see them kid
 Dont front mothafucka you know my style
-I dont go nowhere without my 40 cal
+I don't go nowhere without my 40 cal
 I'm on the low shorty gotta thing for the kid
 And you know I'm feelin to take her back to the crib
 Here we go imma show her how a playa live
 At the door I tell her to take her clothes off...shit
 
- 
+
 Shorty so seductive dancin on me
 Its the way that she move that makin me horny
 If I wake up next to her in the morning
-I'm a turn over and tell her lets do it again 
+I'm a turn over and tell her lets do it again
  - shorty so seductive dancin on me
 The way that she move makin me horny
 If I wake up next to her in the morning
-I'm a turn over and tell her lets do it again 
+I'm a turn over and tell her lets do it again
 
 
 I put the g in g-unit baby I got game
-Head to go good to go and I dont know your name
+Head to go good to go and I don't know your name
 Is it the wheels on the hot car meals on the shock bar
 Or you just wanna quickie with a rap star
-Ladies tell the truth you know I'm cute 
+Ladies tell the truth you know I'm cute
 But what really turns you on is the rims on my coupe
 Before you jump in my whip and you get dropped off
 You goin to the telly and you gettin popped off
-I cant stop thinkin of the things you do
+I can't stop thinkin of the things you do
 When your freakin me and I'm freakin you
 I said the ice on my neck make the shortys stare
 Baby let me fly you in my lair
 Stop slow down baby if you hear this in the club shake and go down baby
 Its past my curfew but parole don't know
-Tear up the club dont call my p.o.
+Tear up the club don't call my p.o.
 
 
 Shorty so seductive dancin on me
 Its the way that she move that makin me horny
 If I wake up next to her in the morning
-I'm a turn over and tell her lets do it again 
+I'm a turn over and tell her lets do it again
  - shorty so seductive dancin on me
 The way that she move is makin me horny
 If I wake up next to her in the morning
-I'm a turn over and tell her lets do it again 
+I'm a turn over and tell her lets do it again
 
 
 My ways be spinnin I charm the amazing women
@@ -135,7 +135,7 @@ You know them black and them white and the asian women
 Lets cut the small talk you know why I approach you
 I can't stand when a dime act anti-social
 Gucci, lip gloss, Louis Vuitton, and the boots from batego vanetto cost a arm
-Yayos a don my car european 
+Yayos a don my car european
 You got mirrors in your pants cause I can see me in um
 Listen I piss out cris inhale haze
 I'm in the marriot gettin laid all day
@@ -150,7 +150,7 @@ Cause 50 got me rich so the bar all priced out
 Shorty so seductive dancin on me
 Its the way that she move that makin me horny
 If I wake up next to her in the morning
-I'm a turn over and tell her lets do it again 
+I'm a turn over and tell her lets do it again
  - shorty so seductive dancin on me
 The way that she move is makin me horny
 If I wake up next to her in the morning

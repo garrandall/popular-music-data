@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: something-s-goin--on-u-n-v-
+lyrics_url: https://genius.com/Unv-somethings-goin-on-lyrics
 name: Something's Goin' On
 rankings:
 - end_date: '1993-06-11'
@@ -87,4 +88,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-10-16'
 ---
+Lately I've been thinking, that you don't feel the same
+I don't know what it is, all I know is that you changed
+Cause we used to be so tight, never apart
+And know it seems that you only want to break my heart, oh yeah
+And I don't know what I've done to make you feel this way
+One minute you call, the next you don't have a thing to say
+I'm telling you baby
 
+(Chorus)
+Somethings going on, the love we used to share is strong
+I'm falling out of love with you, and I don't know what to do
+Something's going on, the love we used to share is strong
+I'm falling out of love with you, and I don't know what to do
+
+Where did I go wrong? What mistake did I make?
+Is there someone else? Tell me baby, you found to take my place
+Cause now you stay out all night and you don't even call
+We barely kiss, we barely hug, we barely touch at all, yea baby
+And I can't take no more, this is no way to live
+Something must happen, something has got to give
+I can feel it, I know, I know there's...
+
+(Chorus)
+Something's going on, the love we used to share is strong
+I'm falling out of love with you, and I don't know what to do
+Something's going on, the love we used to share is strong
+I'm falling out of love with you, and I don't know what to do
+
+(Spoken)
+Hey yo, Shawn?
+What's up Jay?
+You know I was thinking, man I haven't seen
+You with your girl in so long, I mean what's going on?
+Why don't you tell me?
+(I'm so confused, yea and I don't know what to do baby)
+You know Shawn, I know just how you feel
+Because  my girl
+(She left me crying baby, she left me down on my knees)
+(Down on my knees)
+(Man, that's deep, yo J.C?) What's up Ski?
+Tell them how you feel, (I feel so lonely)
+
+(Chorus with ad-libs)
+Something's going on, the love we used to share is string
+I'm falling out of love with you, and I don't know what to do
+Something's going on, the love we used to share is strong
+I'm falling out of love with you, and I don't know what to do

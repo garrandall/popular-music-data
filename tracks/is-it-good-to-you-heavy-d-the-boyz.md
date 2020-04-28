@@ -97,7 +97,7 @@ T-R, bring it in
 
 
 Is it good to you - I like it
-Is it good to you - Ooh I like it
+Is it good to you - Oh I like it
 Is it good to you - I like it
 Is it good to you - Ooohooh boy
 
@@ -121,7 +121,7 @@ And all I wanna know, is it good to you?
 
 
 Is it good to you - I like it
-Is it good to you - Ooh I like it (Is it good to you)
+Is it good to you - Oh I like it (Is it good to you)
 Is it good to you - I like it
 Is it good to you - Ooohooh boy
 
@@ -145,9 +145,9 @@ But all I wanna know, is it good to you?
 
 
 Is it good to you - I like it
-Is it good to you - Ooh I like it (Is it good to you)
+Is it good to you - Oh I like it (Is it good to you)
 Is it good to you - I like it
-Is it good to you - Ooohooh boy yeah (Yeeaah, lay back a little)
+Is it good to you - Ooohooh boy yeah (Yeah, lay back a little)
 
 
 You know when we kiss
@@ -168,14 +168,14 @@ And all I wanna know, is it good to you?
 
 
 Is it good to you - I like it
-Is it good to you - Ooh I like it yeah (Is it good to you)
+Is it good to you - Oh I like it yeah (Is it good to you)
 Is it good to you - I like it
 Is it good to you - Ooohooh I like it yeah (Is it good to you)
 
 Is it good to you - I like it (I wanna know)
-Is it good to you - Ooh I like it yeah (Is it good to you)
+Is it good to you - Oh I like it yeah (Is it good to you)
 Is it good to you - I like it yeah (I'd like to know)
-Is it good to you - You got me singin oooohhhh.....
+Is it good to you - You got me singin oh...
 
 
 C'mon sing it baby
@@ -188,12 +188,12 @@ C'mon sing it baby
 C'mon lemme hear it honey
 
 Is it good to you - I like it (Is it good to you)
-Is it good to you - Ooh I like it yeah (Is it good to you)
+Is it good to you - Oh I like it yeah (Is it good to you)
 Is it good to you - Yeah yeha yeaheh yeah (Is it good to you)
 Is it good to you - I like it yeah (Is it good to you)
 
-Is it good to you - Oooh I like it yeah (Tell me bout it baby)
-Is it good to you - Oooh I like it yeah (Is it good to you)
+Is it good to you - Oh I like it yeah (Tell me bout it baby)
+Is it good to you - Oh I like it yeah (Is it good to you)
 Is it good to you - I like it yeah (How do you feel?)
 Is it good to you -
 (Tell me baby, tell me baby bout it, is it good to you?)

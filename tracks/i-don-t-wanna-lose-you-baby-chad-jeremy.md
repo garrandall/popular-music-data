@@ -51,7 +51,7 @@ No, no, no - no, no, no
 I know how quickly hearts can lose their way
 All along the road to love, when led astray
 And that is why I'm gonna give
-You all my love ev'ry day that I live because
+You all my love every day that I live because
 I don't wanna lose you baby
 I don't wanna lose you baby
 I don't wanna lose you baby

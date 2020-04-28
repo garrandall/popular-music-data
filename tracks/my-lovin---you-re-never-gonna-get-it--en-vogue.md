@@ -128,7 +128,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-10-10'
 ---
-Ooooh, bop...
+Oh, bop...
 No, you're never gonna get it (ow!)
 Never ever gonna get it (no, not this time)
 No, you're never gonna get it (my love)
@@ -137,19 +137,19 @@ No, you're never gonna get it (ow!)
 Never ever gonna get it (not this time)
 No, you're never gonna get it (my love)
 Never never gonna get it
-Ooooh, bop...
+Oh, bop...
 
 
 I remember how it used to be
-You never was this nice, you can't fool me (Ooooh, bop...)
+You never was this nice, you can't fool me (Oh, bop...)
 Now you talking like you made a change
 The more you talk, the more things sound the same
-(Ahh...)
+(Ah...)
 
 
-What makes you think you can just walk back into her life (Ooh, oh oh oh)
-Without a good fight? (Ahh...)
-I just sit back and watch you make a fool of yourself (Ooh, oh)
+What makes you think you can just walk back into her life (Oh oh oh oh)
+Without a good fight? (Ah...)
+I just sit back and watch you make a fool of yourself (Oh oh)
 'Cause you're just wasting your time, oh
 
 
@@ -162,19 +162,19 @@ No, you're never gonna get it (not this time)
 Never ever gonna get it (my lovin')
 No, you're never gonna get it (had your chance to make a change)
 Never ever gonna get it
-Ooooh, bop...
+Oh, bop...
 
 
 Now you promise me the moon and stars
-Save your breath, you won't get very far (Ooooh, bop...)
+Save your breath, you won't get very far (Oh, bop...)
 Gave you many chances to make change
 The only thing you changed was love to hate
-(Ahh...)
+(Ah...)
 
 
-It doesn't matter what you do or what you say (Ooh, oh, oh, oh)
-She doesn't love you; no way (Ahh...)
-Maybe next time you'll give your woman a little respect (Ooh, oh oh)
+It doesn't matter what you do or what you say (Oh oh, oh, oh)
+She doesn't love you; no way (Ah...)
+Maybe next time you'll give your woman a little respect (Oh oh oh)
 So you won't be hearing her say, no way
 
 
@@ -197,21 +197,21 @@ No, you're never gonna get it (not this time)
 Never ever gonna get it (my lovin')
 No, you're never gonna get it (had your chance to make a change)
 Never ever gonna get it
-Ooooh, bop...
+Oh, bop...
 
 
 Yes sir
 I give to the needy, and not the greedy
 Mmhmm, that's right
-'Cause you see, baby (Ooooh, bop...)
+'Cause you see, baby (Oh, bop...)
 When you're locking, you're losing
 And I'm out the door
-(Ahh...)
+(Ah...)
 
 
-It doesn't matter what you do or what you say (Ooh, oh oh oh)
-She don't love you; no way (Ahh...)
-Maybe next time you'll give your woman a little respect (Ooh, oh)
+It doesn't matter what you do or what you say (Oh oh oh oh)
+She don't love you; no way (Ah...)
+Maybe next time you'll give your woman a little respect (Oh oh)
 So you won't be hearing her say, no way
 
 (And now it's time for a breakdown)

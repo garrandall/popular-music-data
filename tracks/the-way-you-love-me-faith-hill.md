@@ -234,14 +234,14 @@ rankings:
 ---
 If I could grant you one wish
 I'd wish you could see the way you kiss
-Ooh, I love watching you, baby
+Oh, I love watching you, baby
 When you're driving me crazy
 
 
-Ooh, I love the way you (You laugh and breathe)
+Oh, I love the way you (You laugh and breathe)
 Love the way you love me (And smile when you touch me)
 There's nowhere else I'd rather be (Drives me wild)
-Ooh, to feel the way I feel with your arms around me (I melt and spin and fall again)
+Oh, to feel the way I feel with your arms around me (I melt and spin and fall again)
 I only wish that you could see
 The way you love me (Love me)
 Whoa, whoa, whoa, the way you love me
@@ -254,10 +254,10 @@ Someday I'll find a way to show you
 Just how lucky I am to know you
 
 
-Ooh, I love the way you (You laugh and breathe)
+Oh, I love the way you (You laugh and breathe)
 Love the way you love me (And smile when you touch me)
 There's nowhere else I'd rather be (Drives me wild)
-Ooh, to feel the way I feel with your arms around me (I melt and spin and fall again)
+Oh, to feel the way I feel with your arms around me (I melt and spin and fall again)
 I only wish that you could see
 The way you love me (Love me)
 Whoa, whoa, whoa, the way you love me
@@ -266,10 +266,10 @@ Whoa, whoa, whoa, the way you love me
 You're the million reasons why there's love reflecting in my eyes
 
 
-Ooh, I love the way you (You laugh and breathe)
+Oh, I love the way you (You laugh and breathe)
 Love the way you love me (And smile when you touch me)
 There's nowhere else I'd rather be (Drives me wild)
-Ooh, to feel the way I feel with your arms around me (I melt and spin and fall again)
+Oh, to feel the way I feel with your arms around me (I melt and spin and fall again)
 I only wish that you could see
 The way you love me (Love me)
 Whoa, whoa, whoa, the way you love me (Love me)
@@ -278,9 +278,9 @@ Whoa, whoa, whoa, the way you love me
 
 
 Oh, the way you love me
-Ooh, I love the way you love me
+Oh, I love the way you love me
 The way you love me
-Ooh, I love the way you love me
+Oh, I love the way you love me
 Oh yeah
-Ooh, I love the way you love me
+Oh, I love the way you love me
 Whoa, whoa, whoa (Yeah)

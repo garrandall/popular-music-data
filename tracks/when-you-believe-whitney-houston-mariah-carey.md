@@ -108,7 +108,7 @@ There can be miracles when you believe
 Though hope is frail, it's hard to kill
 Who knows what miracles you can achieve?
 When you believe, somehow you will
-You will when you    believe
+You will when you believe
 
 
 They don't always happen when you ask

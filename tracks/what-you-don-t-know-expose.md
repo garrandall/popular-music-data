@@ -74,11 +74,11 @@ On and on I try to understand you see
 Love
 Is only letters
 Until you prove your love is here inside for me
-Can you feel it 
-Or can't you see 
+Can you feel it
+Or can't you see
 I'll never hurt someone as much I know
-When you see me 
-It's what you'll get 
+When you see me
+It's what you'll get
 Until I know it's real it won't change how I feel
 
 
@@ -89,18 +89,18 @@ If you don't know
 It won't hurt you
 
 Don't know
-What you don't know might hurt you, ooo ooo ooo
-You 
+What you don't know might hurt you, oo oo oo
+You
 You play with fire
 I know one day you're gonna be the one to burn
-Love 
+Love
 Is like a game haaa
 What goes around comes around you wait your turn
-It's a feelin' 
-To change with time 
+It's a feelin'
+To change with time
 We'll always be together wait and see
-If you know me 
-That's what you'll get 
+If you know me
+That's what you'll get
 Until I know it's real it won't change how I feel
 
 
@@ -168,4 +168,4 @@ I don't wanna hurt you baby no oh oh no no
 If you don't know
 You won't let go
 What you don't know oh oh
-Na na na na na......
+Na na na na na...

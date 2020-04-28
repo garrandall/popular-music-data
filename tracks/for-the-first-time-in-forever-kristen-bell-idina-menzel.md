@@ -107,7 +107,7 @@ What if I meet... the one?
 Tonight imagine me gown and all
 Fetchingly draped against the wall
 The picture of sophisticated grace
-Ooh! I suddenly see him standing there
+Oh! I suddenly see him standing there
 A beautiful stranger, tall and fair
 I wanna stuff some chocolate in my face
 But then we laugh and talk all evening

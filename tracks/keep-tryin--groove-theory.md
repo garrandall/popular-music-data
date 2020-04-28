@@ -72,7 +72,7 @@ Nothin' can stop you as long as you listen to your heart
 Lift your head to the sky
 And keep tryin'
 Believe in you
-And it will take you higher 
+And it will take you higher
 
 You have
 Sorrows
@@ -88,8 +88,4 @@ Nothin' can stop you as long as you listen to your heart
 
 
 You can make it if you try
-
-
-
-
 

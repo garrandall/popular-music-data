@@ -202,7 +202,3 @@ VVS describes best what's on the fingers
 
 We make believers out of dreamers
 
-
-
-
-

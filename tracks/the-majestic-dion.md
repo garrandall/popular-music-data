@@ -64,7 +64,7 @@ Kentucky Virginia and Dakota state
 There even grooving in Chicago town
 This dance is really getting around
 Dance dance people
-Get up and do this dance ooh...
+Get up and do this dance oh...
 
 
 

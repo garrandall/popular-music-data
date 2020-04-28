@@ -133,10 +133,10 @@ I be coming back for more.
 
 Doo doo doo doo dingle zing a dong bone,
 ba-di ba-da ba-zumba crunga cong gone bad,
-like an apple gift but i went out and never said my pleasures
+like an apple gift but I went out and never said my pleasures
 I'm much better but I won't regret it never
 
-Where I go I just dont't know,
+Where I go I just don't't know,
 I got to, got to, gotta take it slow.
 When I find my peace of mind,
 I'm gonna give you some of my good time.
@@ -150,16 +150,16 @@ I'm gonna keep for the end of time!
 
 
 I've got a bad disease
-from my brain is where i bleed
+from my brain is where I bleed
 insanity it seems
 it's got me by my soul to squeeze
 
 Where's all the love for me
-with all the dying trees i scream
+with all the dying trees I scream
 The angels in my dreams yeah
 they turn to demons of greed thats me
 
-Where I go I just dont know
+Where I go I just don't know
 I've got to got to gotta take it slow
 When I find my peace of mind
 I'm gonna give ya some of my good time
@@ -169,13 +169,13 @@ it took away my pain say please
 Oh let your ride be free
 you gotta let it be oh yeah
 
-Where I go I just dont know
+Where I go I just don't know
 I've got to gotta gotta take it slow
 When I find my peace of mind
 I'm gonna give ya some of my good time
 
 Oh so polite indeed
-well I've got everything i need
+well I've got everything I need
 Oh make my days of greed
 and take away my self-destruction
 
@@ -185,21 +185,17 @@ Take me to the river lay me on your shore
 Well I'll be comin back baby I'll be comin back for more
 
 Do do do do ding go sing a dong bong go ding ba domba somba nomba cong dong bing
-I could not forget but I will not endeavor simple pleasures aren't as special but I wont regret it never
+I could not forget but I will not endeavor simple pleasures aren't as special but I won't regret it never
 
-Where I go I just dont know
+Where I go I just don't know
 I've got to got to gotta take it slow
 When I find my peace of mind
 I'm gonna give ya some of my good time
 
-Where i go i just don't know
+Where I go I just don't know
 I might end up somewhere in Mexico
 When I find my peace of mind
 I'm gonna keep it for the end of time
-
-
-
-
 
 I got a bad disease
 But from my brain is where I bleed
@@ -244,9 +240,6 @@ I might end up somewhere in Mexico
 When I find my peace of mind
 I'm gonna keep you til the end of time.
 
-
-
-
 I got a bad disease,
 Up from my brain is where I bleed.
 In sanity it seems,
@@ -289,10 +282,10 @@ I be coming back for more.
 
 Doo doo doo doo dingle zing a dong bone,
 ba-di ba-da ba-zumba crunga cong gone bad,
-like an apple gift but i went out and never said my pleasures
+like an apple gift but I went out and never said my pleasures
 I'm much better but I won't regret it never
 
-Where I go I just dont't know,
+Where I go I just don't't know,
 I got to, got to, gotta take it slow.
 When I find my peace of mind,
 I'm gonna give you some of my good time.

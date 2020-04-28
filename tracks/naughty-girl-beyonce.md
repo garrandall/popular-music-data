@@ -107,7 +107,7 @@ You can feel my burning flame
 
 I'm feelin kind of n-a-s-t-y
 I just might take you home with me
-Baby the minute i feel your energy
+Baby the minute I feel your energy
 Your vibe's just taken over me
 Start feelin so crazy babe
 Lately, I feel the funk coming over me
@@ -121,14 +121,14 @@ I know you want my body
 Tonight i'll be your naughty girl
 I'm callin all my girls
 I see you look me up and down
-And i came to party
+And I came to party
 
-You're so sexy, tonight i am all yours boy
+You're so sexy, tonight I am all yours boy
 The way your body moves across the floor
 You got me feelin n-a-s-t-y
 I just might take you home with me
 
-Baby the minute i feel your energy
+Baby the minute I feel your energy
 The vibe's just taken over me
 Start feelin so crazy babe
 Lately, I feel the funk coming over me
@@ -142,7 +142,7 @@ I know you want my body
 Tonight i'll be your naughty girl
 I'm callin all my girls
 I see you look me up and down
-And i came to party
+And I came to party
 
 I love to love you baby
 I love to love you baby
@@ -156,7 +156,7 @@ I know you want my body
 Tonight i'll be your naughty girl
 I'm callin all my girls
 I see you look me up and down
-And i came to party
+And I came to party
 
 
 

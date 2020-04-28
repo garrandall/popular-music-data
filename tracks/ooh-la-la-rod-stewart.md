@@ -3,9 +3,9 @@ artists:
 - Rod Stewart
 features: []
 genres: []
-key: ooh-la-la-rod-stewart
+key: ohla-la-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/oohlala.html
-name: Ooh La La
+name: Oh La La
 rankings:
 - end_date: '1998-07-10'
   rank: 48
@@ -117,8 +117,8 @@ you're just twinkling with the stars.
 
 Poor young grandson, there's nothing I can say
 You'll have to learn, just like me
-And that's the hardest way, ooh la la
-Ooh la la, la la, yeah
+And that's the hardest way, ohla la
+Oh la la, la la, yeah
 
 I wish that I knew what I know now
 When I was younger.

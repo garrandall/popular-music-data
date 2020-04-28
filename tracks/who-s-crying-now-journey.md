@@ -133,7 +133,7 @@ Will never die
 
 Whoooooa-oh-whoa
 Whoooa-oh
-Ooooooh-whoa, ooh-whooa
+Oh-whoa, ohwhooa
 
 
 One love feeds the fire

@@ -46,7 +46,7 @@ rankings:
   start_date: '1968-10-12'
 ---
 
-Hmm, hmm, yeah
+Hm, hm, yeah
 Special occasion
 Like when you dress up
 In your tie and tails
@@ -79,9 +79,9 @@ But every time you touch me
 It's a real special occasion
 Yeah, yeah
 Special occasion, oh, oh yeah
-Hmm hmm, yeah
+Hm hm, yeah
 
-Ooh, beautiful music begins to play
+Oh, beautiful music begins to play
 You are the sun
 That brightens up my day
 Why don't you stay

@@ -128,7 +128,7 @@ Aint it hard trying to move on, but still I try
 Even though we got money, judgement day
 Just some things we can't buy
 Even though you gone, I never let you move on
-Cause every time i think about you
+Cause every time I think about you
 I sit back and write your name in a song
 Now ashes to ashes, and dust to dirt
 It's kinda spooky when I see your face on a t-shirt
@@ -137,9 +137,4 @@ And watch it, cause death or funerals bring our family together
 Now look, we done lost a brother, your son done lost a father
 Life ain't promised us so tell somebody you love them
 You'll never know when they'll be here tommorow
-
-
-
-
-
 

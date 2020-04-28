@@ -24,10 +24,10 @@ rankings:
 So tell me Slim what you wanna do
 When you know I'm in love wit you
 Everytime that I turn around
-Look for you but you cant be found
+Look for you but you can't be found
 Fly free baby fine wit me
 I'm in love wit a bumble bee
-Ooh Slim, boy you killing me
+Oh Slim, boy you killing me
 But you soo sweet ta me
 Oww
 
@@ -42,13 +42,13 @@ Oww
 Honey you so sweet
 
 So tell me Slim, what its gonna be
-It dont be like this usually
+It don't be like this usually
 When it come to that ,"what it do.."
-I dont fall for that "woop-tee-woo" (bull)
-Ooh boy can you tell me please
+I don't fall for that "woop-tee-woo" (bull)
+Oh boy can you tell me please
 
 Wanna know if ya feelin' me
-Ooh Slim boy ya killin' me,
+Oh Slim boy ya killin' me,
 But you soo sweet ta me
 Oww
 

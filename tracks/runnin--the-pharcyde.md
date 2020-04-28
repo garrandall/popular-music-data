@@ -69,7 +69,7 @@ rankings:
   start_date: '1996-01-27'
 ---
 
-Can't keep runnin' away.....
+Can't keep runnin' away...
 
 
 I must admit on some occasions I went out like a punk
@@ -107,14 +107,14 @@ in other words just freeze
 It's 1995 now  that I'm older stress weighs on my shoulders
 heavy as boulders but I told ya
 till the day that I die I still will be a soldier and that's all I told
-ya and that's all I showed ya 
-and all this calamity is rippin' my sanity 
-Can it be I'm a celebrity 
+ya and that's all I showed ya
+and all this calamity is rippin' my sanity
+Can it be I'm a celebrity
 whose on the brink of insanity
-Now don't be wishin's of switchin' any positions with me 
-cuz when you in my position, it ain't never easy 
+Now don't be wishin's of switchin' any positions with me
+cuz when you in my position, it ain't never easy
 to do any type of maintaining cuz all this gaming and famin' from
-entertainin' is hella straining to the brain and... 
+entertainin' is hella straining to the brain and...
 But I can't keep runnin I just gotta keep keen and cunnin'...
 
 

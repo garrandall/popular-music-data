@@ -32,10 +32,10 @@ Mother you had me
 But I never had you
 I wanted you
 But you didn't want me
-So i, i just got to tell you
+So i, I just got to tell you
 Goodbye
 Goodbye
-Father you i left me
+Father you I left me
 But I never left you
 I needed you
 You didn't need me

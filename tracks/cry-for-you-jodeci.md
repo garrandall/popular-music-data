@@ -98,21 +98,21 @@ And that's too long
 So come back home
 I can't live without you
 So i'll cry for you
-Do anything that i can
+Do anything that I can
 To feel that touch from your hand
-Sorry that i want you
-Lady what do i do
+Sorry that I want you
+Lady what do I do
 
 
 
-You know you're everything i do
-Ooh yeah
+You know you're everything I do
+Oh yeah
 Do what you want me to
 I would do anything
 Get on my knees for you
-Ooooh, baby
+Oh, baby
 What else is there to do
-I don't know, i don't know
+I don't know, I don't know
 But i'll cry
 
 
@@ -127,22 +127,22 @@ Help me out
 Help me out, yeah
 You spoil me girl
 Like a child
-When you're not here i can't even smile
+When you're not here I can't even smile
 I can't think without you
 My mind is always with you
 It's amazing what you do
 To keep me falling in love with you
-Girl you all that i know
-Where else can i go
+Girl you all that I know
+Where else can I go
 
-You know you're everything i do
-Ooh wee
+You know you're everything I do
+Oh wee
 Do what you want me to
 Anything you need from me baby
 Get on my knees for you
-Ohhh, ooooh, ohh
+Ohhh, oh
 What else is there to do
-I don't know, i don't know
+I don't know, I don't know
 But i'll cry
 
 Lady i, will cry for you tonight
@@ -155,12 +155,12 @@ Help me out baby, yes
 I don't know what else to say
 I don't know what else to say
 K-ci help me sing it
-Jojo i'm right here yes i am
+Jojo i'm right here yes I am
 I will cry for you lady
 Sometimes my pillow gets so wet with tears
 I don't have no one to call my own
 I want you back baby
-Ooh yeah
+Oh yeah
 Baby i'm beggin, baby i'm beggin, beggin baby x8
 Yeahhhhhhhhh
 

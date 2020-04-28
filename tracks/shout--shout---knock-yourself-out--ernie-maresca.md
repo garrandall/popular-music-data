@@ -94,7 +94,7 @@ Every party that I intend
 Believe now it's the livin end
 Moving and groovin with some friends of mine..
 Saturday night now we're having a time ...
-So Lets..Shout Shout knock yourself out..
+So Lets...Shout Shout knock yourself out..
 Comeon yell yell loud and swell
 You gotta Scream scream you know what I mean
 Put another dime in the record machine..
@@ -102,7 +102,7 @@ Hey Doing the fly with our hands in the sky..
 Yeah, foot stomping baby just a you and I
 School was out about a quarter to three
 And we're having fun it's plain to see..
-So Lets..Shout Shout knock yourself out..
+So Lets...Shout Shout knock yourself out..
 Comeon yell yell loud and swell
 You gotta Scream scream you know what I mean
 Put another dime in the record machine..

@@ -73,10 +73,10 @@ Cause baby it is ain't nothing new, no
 Tell me if you want it baby
 'Cause I know I can drive you crazy
 I just wanted you to know now
-Oh-oh, oh-ohhh
+Oh-oh, oh-oh
 Show up in that new Mercedes, you already know I'm faded
 Girl I've been thinkin' about you lately
-Oh-oh, oh-ohhh
+Oh-oh, oh-oh
 
 Tell me is that deja vu?
 Cause you want me and I want you

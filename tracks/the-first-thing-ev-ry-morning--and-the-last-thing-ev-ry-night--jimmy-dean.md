@@ -5,7 +5,7 @@ features: []
 genres: []
 key: the-first-thing-ev-ry-morning--and-the-last-thing-ev-ry-night--jimmy-dean
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Dean/The-First-Thing-Ev-ry-Morning-And-the-Last-Thing-Ev-ry-Night
-name: The First Thing Ev'ry Morning (And The Last Thing Ev'ry Night)
+name: The First Thing Every Morning (And The Last Thing Every Night)
 rankings:
 - end_date: '1965-07-02'
   rank: 93

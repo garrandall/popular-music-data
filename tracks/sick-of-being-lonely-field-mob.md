@@ -101,7 +101,7 @@ I'm playin', you want the plane
 Don't point a finger over herre
 I bought you a fur coat for your birthday
 And this the things I get shorty?
-Over there you starin' mad 
+Over there you starin' mad
 That I went out with them other chicks
 I told you they ain't shit!
 They were just some buddies from high school that I went to
@@ -119,17 +119,17 @@ Every night while my man goes out with his homies
 I wanna know how it feels to be loved, be loved
 
 
-Any other night, you'd be at home waitin' on me, yeah 
+Any other night, you'd be at home waitin' on me, yeah
 (What's goin' on?)
-Any other night, you'd be actin' like a bugaboo, ooh
+Any other night, you'd be actin' like a bugaboo, oh
 (What's goin' on?)
 Any other night, you'd be callin' me, stallin' me, ha
 (What's goin' on?)
-Any other night, I can guarantee a page from you, ooh
+Any other night, I can guarantee a page from you, oh
 (What's goin' on?)
 
 
-Hmmm, but tonight seem different
+Hm, but tonight seem different
 Man, it's about this fishy (I'm so confused)
 Cuz I ain't even did shhhh
 My wife ain't hit me on my pager or cell
@@ -158,8 +158,4 @@ Something so pretty as you at home alone
 That's unbelieveable, like when the cow jumped over the moon
 Now, I never put nothin' before you
 That's like eatin' cereal, pickin' a fork over a spoon
-
-
-
-
 

@@ -47,7 +47,7 @@ rankings:
 ---
 
 
-Fab... 
+Fab...
 Can you be my B-A-B-Y?
 
  I'll never call another lover mine
@@ -55,7 +55,7 @@ Can you be my B-A-B-Y?
 
 And why would I, and why should I
 When I seen a lady tonight, with my good eye that I would try and make
-My..(baby..baby)
+My..(baby...baby)
 I was up in the club putting my hood high
 When I saw you, and I stood by
 Just lookin at your onion girl I could cry, and I could lie
@@ -92,7 +92,7 @@ It won't be fake, and don't we make a good couple
 And won't we make a good...(baby)?
 
 
-Ooh, if I seem just a bit taken, pardon me
+Oh, if I seem just a bit taken, pardon me
 But you're so amazing
 I just want us to do this exclusively
 Say you'll be my baby
@@ -104,7 +104,7 @@ Girl, I know you smooth enough to spring a chinchilla
 And still take a sting of Tequila, the way you swing is a thriller
 I'm watchin that like the boxing match in the ring of Manila
 I wanna keep it comin like the singles of "Thriller"
-I mean if you still uh..my B-A-B-Y
+I mean if you still uh...my B-A-B-Y
 
 
 

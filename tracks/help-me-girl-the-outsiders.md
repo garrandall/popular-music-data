@@ -50,10 +50,10 @@ rankings:
 ---
 Girl have you ever been hungry
 So hungry that you had no pride?
-Well i got that feeling
+Well I got that feeling
 That biting, gnawing deep inside
 It's a funny pain
-One i can't explain
+One I can't explain
 You gotta help me girl
 Oh help me girl
 'cause i'm going insane - hey hey
@@ -67,7 +67,7 @@ Turn my night into day
 Oh help me girl
 Oh help me girl
 'cause i'm going insane
-Oh, i need someone
+Oh, I need someone
 Someone to comfort me
 Be my someone
 Be my reality girl

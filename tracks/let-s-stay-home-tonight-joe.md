@@ -103,7 +103,7 @@ Girl, here is where I wanna stay
 No friends, no phones, no two-ways
 (Don't you hear me, baby)
 Oh, let's stay home tonight
-(Mmm...hmm...)
+(Mmm...hm...)
 
 Girl, you hold the key to my soul
 (It's obvious I need you)

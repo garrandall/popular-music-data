@@ -99,9 +99,6 @@ Why the big city air smells so sweet
 Takes me through journeys in time
 From my youth to as far as I can see
 
-
-
-
 It's all I need
 In my life
 It's all I need

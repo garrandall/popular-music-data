@@ -40,7 +40,7 @@ rankings:
 What you say to drive that girl away
 When she's the one and only?
 Who's the one that you been leanin' on
-Ev'ry time that you were down and lonely?
+Every time that you were down and lonely?
 How many times did you say to yourself that woman is the devil's tool?
 Somehow you knew that you blew it again and didn't wanna look like a
 ravin fool
@@ -61,7 +61,6 @@ Now if you don't believe your own reflection
 Just take a look at all your smooth talkin' friends
 I'm sure you'll make the right connection
 
-Chorus
 
 I'll give you my donation to help the cause along
 I'll make my contribution 'till the fight has been won

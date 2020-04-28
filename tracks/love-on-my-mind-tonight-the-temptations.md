@@ -50,7 +50,7 @@ All day long
 
 I've been building up
 Let me melt your body
-Wooo-oooh, into mine
+Wooo-ohinto mine
 
 Forget about the world outside
 Inside each other we can hide
@@ -67,8 +67,8 @@ I've got looove on my mind tonight
 One look at you and I feel it
 I've got love on my mind tonight
 On my mind tonight
-Ahhhhhhh
-Do, do, doo, dooo
+Ah
+Do, do, doo, doo
 
 Baby, give it to me, girl
 You know I want it, girl

@@ -77,9 +77,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-02-17'
 ---
-(Duet with Brabra Streisand)
-Written by: Neil Diamond, Alan Bergman and Marilyn Bergman
-
 You don't bring me flowers
 You don't sing me love songs
 You hardly talk to me anymore

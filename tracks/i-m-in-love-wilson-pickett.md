@@ -66,7 +66,7 @@ Yes I am
 I'm sho nuff in love
 (love, love, love)
 Look-a-here
-I feel just like a baby boy (ooooo)
+I feel just like a baby boy (oo)
 On a Christmas mornin with a brand new toy
 I'm in love (love, love)
 I'm in love, love, love

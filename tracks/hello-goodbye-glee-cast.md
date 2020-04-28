@@ -49,7 +49,7 @@ You say goodbye and I say hello
 (Hello Goodbye)I don't know why you say goodbye, I say hello
 (Hello Goodbye)Hello hello
 I don't know why you say goodbye, I say hello
-(woahh whoahh)
+(woah whoahh)
 hello, hellooo
 
 Ohhhhhh

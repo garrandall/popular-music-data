@@ -54,7 +54,7 @@ Doing 80 in a 60, fuck a ticket (hey)
 'Cause I ain't had that pussy in a minute (in a minute)
 I told her when I get it I'ma hit it, I'ma hit it (I'ma hit it)
 She told me that she want it, I'll be there when I finish (woo)
-Ooh girl, I'm on the way, aye (I'm on the way, yeah)
+Oh girl, I'm on the way, aye (I'm on the way, yeah)
 I just left the club and I'm 'bout to make a play
 I'm on the way, way (I'm on the way, yeah)
 She told me that she cookin', I said gone and make a plate
@@ -88,7 +88,7 @@ Doing 80 in a 60, fuck a ticket (hey)
 'Cause I ain't had that pussy in a minute (in a minute)
 I told her when I get it I'ma hit it, I'ma hit it (I'ma hit it)
 She told me that she want it, I'll be there when I finish (woo)
-Ooh girl, I'm on the way, aye (I'm on the way, yeah)
+Oh girl, I'm on the way, aye (I'm on the way, yeah)
 I just left the club and I'm 'bout to make a play
 I'm on the way, way (I'm on the way, yeah)
 She told me that she cookin', I said gone and make a plate
@@ -125,7 +125,7 @@ Doing 80 in a 60, fuck a ticket (hey)
 'Cause I ain't had that pussy in a minute (in a minute)
 I told her when I get it I'ma hit it, I'ma hit it (I'ma hit it)
 She told me that she want it, I'll be there when I finish (woo)
-Ooh girl, I'm on the way, aye (I'm on the way, yeah)
+Oh girl, I'm on the way, aye (I'm on the way, yeah)
 I just left the club and I'm 'bout to make a play
 I'm on the way, way (I'm on the way, yeah)
 She told me that she cookin', I said gone and make a plate
@@ -142,8 +142,8 @@ Go ahead and pop some Chardonnay and add that lingerie
 'Cause I need some sexual healing, I'm talking Marvin Gaye
 I'mma get that pussy like I was fresh out them prison gates
 Don't need trip, I just made me a flip
-In that Maybach Benz, you sayin' "Ooh boy, look"
-Gimme 15 minutes, I can't lie don't 
+In that Maybach Benz, you sayin' "Oh boy, look"
+Gimme 15 minutes, I can't lie don't
 On that straight shot Henny, baby, please don't kill me
 I'm on the way to you girl, you's a star in my world
 You's a G in my book, I'm a drug and you hooked
@@ -156,7 +156,7 @@ I'm doing
 'Cause I ain't had that pussy in a minute (in a minute)
 I told her when I get it I'ma hit it, I'ma hit it (I'ma hit it)
 She told me that she want it, I'll be there when I finish (woo)
-Ooh girl, I'm on the way, aye (I'm on the way, yeah)
+Oh girl, I'm on the way, aye (I'm on the way, yeah)
 I just left the club and I'm 'bout to make a play
 I'm on the way, way (I'm on the way, yeah)
 She told me that she cookin', I said gone and make a plate
@@ -171,7 +171,7 @@ I get her on the line like "aye, yeah, yeah"
 "Girl, I'm on the way", she like "yeah, yeah, yay, babe"
 Shawty really grind, really thug with a nigga
 She know I like my steak with no blood in the middle
-She got girls on my 
+She got girls on my
 Girl that's what I'm tryna say
 Just left the club vibin', me and molly on the way
 You been missing thug love, I can see it in your face
@@ -190,7 +190,7 @@ Doing 80 in a 60, fuck a ticket (hey)
 'Cause I ain't had that pussy in a minute (in a minute)
 I told her when I get it I'ma hit it, I'ma hit it (I'ma hit it)
 She told me that she want it, I'll be there when I finish (woo)
-Ooh girl, I'm on the way, aye (I'm on the way, yeah)
+Oh girl, I'm on the way, aye (I'm on the way, yeah)
 I just left the club and I'm 'bout to make a play
 I'm on the way, way (I'm on the way, yeah)
 She told me that she cookin', I said gone and make a plate
@@ -203,7 +203,7 @@ I'm on the way (aye, aye, aye, aye)
 
 Hey, hey, hey, hey Thizzle-Thizzle-Rizzle
 Biggie ready
-Ooh ya biggie ready
+Oh ya biggie ready
 Doing 80 in a residential, toolie in my Chevy
 Just in case your boyfriend wanna act like
 He want even a part of this act right
@@ -211,7 +211,7 @@ I'm on the way, oh, O - T - W, babe
 Got this iPhone pointed at you while I'm fucking you, babe
 Got that mouth on you, you ain't sick that duck in two days
 Fuck the cable, cuddle up I might get stuck to you, babe`
-I'm on the 
+I'm on the
 You know that I'm the plumber babe
 Come get this stomach straight
 I'mma make you run away and come back in a hundred days
@@ -221,11 +221,11 @@ But you don't wanna make me get a ticket if I ain't gon' get up in it
 I been waiting to see my baby and I'm faded so a nigga doing 80 in a..
 
 
-Doing 80 in a 60, fuck a ticket 
+Doing 80 in a 60, fuck a ticket
 'Cause I ain't had that pussy in a minute (in a minute)
 I told her when I get it I'ma hit it, I'ma hit it (hey, hey)
 She told me that she want it, I'll be there when I finish (oh, girl I'm on the way)
-Ooh girl, I'm on the way, aye (I'm on the way, yeah)
+Oh girl, I'm on the way, aye (I'm on the way, yeah)
 I just left the club and I'm 'bout to make a play
 I'm on the way, way (I'm on the way, yeah)
 She told me that she cookin', I said gone and make a plate

@@ -58,11 +58,11 @@ Till my head's filled with pain,
 Wrack my brain.
 
 All dried up, i'm all dried up,
-All i have's this empty cup,
+All I have's this empty cup,
 All dried up.
 
-What i have, you don't want,
-What you want, i can't give.
+What I have, you don't want,
+What you want, I can't give.
 I got out of touch with you and yours,
 The way that you live.
 
@@ -71,16 +71,16 @@ While the sky pours down the rain,
 Wrack my brain.
 
 With a will there's a way,
-But there's no way i can see,
+But there's no way I can see,
 Coming up with something you'd enjoy
 As much as tv
 
-All the same, i play the game,
+All the same, I play the game,
 Up and down old memory lane,
 Wrack my brain, (wrack my brain)
 Till my head is filled with pain,
 Wrack my brain, (wrack my brain)
-While i slowly go insane,
+While I slowly go insane,
 Wrack my brain. (wrack my brain)
 
 

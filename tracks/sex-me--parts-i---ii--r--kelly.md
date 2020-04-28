@@ -147,7 +147,7 @@ Slow baby, slow baby steady as we go
 Up and down to a sixty-nine tempo
 
 Yeah, now throw your body parts around
-Now let me hear you make a ooh aah sound
+Now let me hear you make a ohaah sound
 'Cause I'm your lover man
 So call your other man and say you found another man
 
@@ -181,12 +181,12 @@ Turn off the lights 'cause girl it's on
 Now that we are all alone
 I want you to sex me
 
-Ooh na, na, na, na, na, na
+Ohna, na, na, na, na, na
 Your body, na, na, na, na
-Ooh na, na, na, na, na, na
+Ohna, na, na, na, na, na
 Your body, na, na, na, na
 
-Ooh na, na, na, na, na, na
+Ohna, na, na, na, na, na
 Your body, na, na, na, na
-Ooh na, na, na, na, na, na
+Ohna, na, na, na, na, na
 Your body, na, na, na, na

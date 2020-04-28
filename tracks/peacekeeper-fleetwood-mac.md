@@ -66,7 +66,7 @@ Peacekeeper don't tell why
 Don't be afraid to fight
 Love is the sweet surprise
 
-Ooh...ooh...
+Oh...oh...
 
 Only creatures who are on their way
 Ever poison their own well
@@ -87,7 +87,7 @@ Take all the time you will
 This is not a test, it's not a drill
 Take no prisoners, only kill
 
-Ooh...ooh...
+Oh...oh...
 
 You know all of our friends are gods
 And they all tell us how to paint our face

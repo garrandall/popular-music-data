@@ -49,7 +49,7 @@ So much tension
 Whoa, whoa, whoa, not to mention
 Can we give it a try
 
-The truth's so, so very hard to say, ooh, baby
+The truth's so, so very hard to say, oh baby
 This pain I feel grows each day
 Can we find a way
 

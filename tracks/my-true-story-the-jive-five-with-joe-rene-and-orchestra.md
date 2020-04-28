@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: my-true-story-the-jive-five-with-joe-rene-and-orchestra
+lyrics_url: https://genius.com/The-jive-five-my-true-story-lyrics
 name: My True Story
 rankings:
 - end_date: '1961-07-09'
@@ -83,4 +84,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
 ---
+Cry, cry, cry whoa, uh, oh, oh, oh, oh
+Cry, cry, cry whoa, uh, oh, oh, oh, oh
 
+There is a story, yeah
+That I must tell of two lovers
+That I bewail
+
+Now they must cry, cry, cry, whoa, uh, oh, oh, oh, oh
+Their blues away
+(Cry, cry, cry, their blues away)
+
+Her name was Sue, yeah
+His name was Earl
+His love was Lorraine
+
+She's a wonderful girl
+But they must cry, cry, cry, whoa, uh, oh, oh, oh, oh
+Their blues away
+(Their blues away)
+
+Love will make you happy
+And love will make you cry
+Love will make the tears fall
+
+When your lover says goodbye
+And then you'll cry, cry, cry, whoa, uh, oh, oh, oh, oh
+Your blues away
+(Cry, cry, cry, their blues away)
+
+This story ends, yeah
+It was no lie
+Names have been changed dear
+To protect you and I
+
+But we must cry, cry, cry, whoa, uh, oh, oh, oh, oh
+Our blues away
+(Cry, cry, cry)
+
+Mm
+(Whoa, uh our blues away)
+We must cry
+(Cry, cry, cry, whoa, uh our blues away)

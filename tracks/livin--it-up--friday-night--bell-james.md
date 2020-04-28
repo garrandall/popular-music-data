@@ -78,7 +78,7 @@ Head for the city
 Turn on the music, the radio
 Nobody's boogie (Nobody's boogie)
 
-Day after day, ooh ooh ooh ooh
+Day after day, oh oh oh oh
 Slavin' away, yeah yeah yeah yeah
 
 Punch in the timer, I'm late again
@@ -86,7 +86,7 @@ Sneak in the back way
 I count the hours, minutes too
 So glad it's Friday (So glad it's Friday)
 
-Jump in my ride, ooh ooh ooh ooh
+Jump in my ride, oh oh oh oh
 It's Friday night, yeah yeah yeah yeah
 
 Livin' it up, livin' it up, oh yeah
@@ -110,7 +110,7 @@ Can't seem to shake it (Can't seem to shake it)
 I miss the feeling, having fun
 No way to fake it (No way to fake it)
 
-Jump in my ride, ooh ooh ooh ooh
+Jump in my ride, oh oh oh oh
 It's Friday night, yeah yeah yeah yeah
 
 Livin' it up, livin' it up, oh yeah

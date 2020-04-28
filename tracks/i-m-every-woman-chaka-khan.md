@@ -120,7 +120,7 @@ And don't bother to compare
 Cause I've got it
 Whoah whoah whoah (whoah whoah)
 Whoah whoah whoah
-Aah, aah, aah, aah
+Ah, ah, ah, ah
 
 
 I'm every woman, I'm every woman

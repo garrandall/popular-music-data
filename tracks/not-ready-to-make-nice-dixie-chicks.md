@@ -141,9 +141,6 @@ Send somebody so over the edge
 That they'd write me a letter sayin' that I better
 Shut up and sing or my life will be over
 
-
-
-
 I'm not ready to make nice
 I'm not ready to back down
 I'm still mad as hell and I don't have time

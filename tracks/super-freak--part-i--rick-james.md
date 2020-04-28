@@ -164,10 +164,10 @@ She's super-freaky, yow
 
 
 Temptations, sing!
-Oh-oh-oh-oh-oh-oh-ohhhhhh
+Oh-oh-oh-oh-oh-oh-oh
 Super freak, super freak
 That girl's a super freak
-Oh-oh-oh-oh-oh-oh-ohhhhhh
+Oh-oh-oh-oh-oh-oh-oh
 
 
 She's a very kinky girl
@@ -176,7 +176,7 @@ She will never let your spirits down
 Once you get her off the street
 
 
-Blow, Danny! 
+Blow, Danny!
 
 Oh girl
 Oh girl

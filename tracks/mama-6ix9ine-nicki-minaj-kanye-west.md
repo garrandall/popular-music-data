@@ -49,9 +49,9 @@ I just bought my bitch them Kylie Jenner lip fillers
 
 
 Man, oh my God
-She Instagram famous but she can't keep a job (Ooh)
+She Instagram famous but she can't keep a job (Oh
 Man, oh my God
-Swipe her 30-inch weave on her sugar daddy card (Ooh)
+Swipe her 30-inch weave on her sugar daddy card (Oh
 Man, oh my God
 Her doctor got her busting out her motherfuckin' bra (Mmm)
 Man, oh my God

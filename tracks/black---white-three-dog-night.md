@@ -105,4 +105,4 @@ Yeah
 Keep it up now, around the world
 Little boys and little girls
 Yeah
-Yeah-eah, oh-ohhh
+Yeah-eah, oh-oh

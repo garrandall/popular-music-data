@@ -90,7 +90,7 @@ Tied
 Tongue tied or short of breath, don't even try
 Try a little harder
 Something's wrong, I'm not naive, you must must be strong
-Ooh, baby, try
+Oh, baby, try
 
 Hey, girl
 Move a little closer
@@ -106,9 +106,9 @@ Too shy, shy
 Hush hush
 
 Modern medicine falls short of your complaint
-Ooh, try a little harder
+Oh, try a little harder
 You're moving in circles, won't you dilate?
-Ooh, baby, try
+Oh, baby, try
 
 Hey, girl
 Move a little closer

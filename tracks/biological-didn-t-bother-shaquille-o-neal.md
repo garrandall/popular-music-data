@@ -58,7 +58,6 @@ Word up
 Cause he was the one who took me from a boy to a man
 So as far as I'm concerned, he is my father cause my biological didn't bother
 
-
 Biological father, left me in the cold, when a few months old
 Aa father's child was greater than gold but I guess not
 You brought me into the world but you're not my dad
@@ -82,11 +81,9 @@ He kept it, he kept it
 He took me from a boy to a man so Phil is my father
 Cause my biological didn't bother
 
-
 Took me from a boy to a man
 So I always had a father
-When my biological didn't bother (4x)
-
+When my biological didn't bother
 
 January 5th Phil made a promise (what's that)
 He joined the army we moved to fort Monmouth
@@ -121,9 +118,6 @@ Cause now I'm a man
 He took me from a boy to a man so Phil is my father
 Cause my biological didn't bother
 
-(chorus)
-
-
 Look at me now successful for sure
 Phil raised me well, to be an entrepreneur
 And if you're making big dope be materialistic
@@ -134,12 +128,10 @@ I want the ring like Hakeem
 Uh oh what do you know
 Biological ones on the Ricky Lake show
 What does he want, does he want money
-What people do for money!!!
+What people do for money!
 It's kinda funny to me
 He ain't gettin no check from me (check it)
 He can go on all the talk shows he want
 Phil is my dad so don't even front
 He took me from a boy to a man so Phil is my father
 Cause my biological didn't bother
-
-(Chorus)

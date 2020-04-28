@@ -102,4 +102,4 @@ Love and pride
 I say that's what my heart yearns for now
 Love and pride
 That's what my heart yearns for now
-Love and pride, ooh
+Love and pride, oh

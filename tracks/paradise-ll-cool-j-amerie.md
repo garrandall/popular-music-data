@@ -95,7 +95,7 @@ Pop a bottle, light a purple candle
 I got somethin that you can't quite handle, that's why you love me
 Pour bubbly, glow from the flame make your skin shine lovely
 I'm sayin baby
-Touch it why don'tcha (ohh) touch it why don'tcha (ohh)
+Touch it why don'tcha (oh) touch it why don'tcha (oh)
 Touch it why don'tcha (ayy) touch it why don'tcha (mmm)
 Hey girl.. aw, girl!
 Hey girl, I wanna rock your world
@@ -132,7 +132,7 @@ But don't you worry I ain't goin nowhere
 
 Trust me, trust me, trust - me, baby
 Rest of your life I'll take you to paradise
-I'll take you to paradise, oooohh
+I'll take you to paradise, oh
 So won't you try me, try me - try, this, lady
 Rest of your life I'll take you to paradise
 I'm gonna give-a-you all my love, yeah
@@ -150,15 +150,10 @@ So much shade baby, the waterbed fries
 Walk around nude in the suite yellin, "Recognize!"
 Do your dance, baby pour me a glass
 It feels so good to have the world in a smash
-Touch it why don'tcha (ohh) touch it why don'tcha (ohh)
+Touch it why don'tcha (oh) touch it why don'tcha (oh)
 Touch it why don'tcha (ayy) touch it why don'tcha (mmm)
 Hey girl.. aw, girl!
 Hey girl, I wanna rock your world
-
-
-
-
-
 
 Yea yea, gotta keep your eyes on the prize baby
 Sky's the limit
@@ -173,8 +168,4 @@ If you need me, just call me
 Said if you want me, just be for reallll
 And if you like me, come and talk to me
 And if you want me, tell me how you feeelll
-
-
-
-
 

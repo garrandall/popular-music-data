@@ -38,7 +38,7 @@ rankings:
 ---
 It's been a long time since I rock and rolled
 It's been a long time since I did the Stroll
-Ooh, let me get it back, let me get it back
+Oh, let me get it back, let me get it back
 Let me get it back, baby, where I come from
 
 

@@ -79,15 +79,15 @@ Please excuse my hands
 
 With my hands I can make you do a lot of thangs
 Have you engagin in some activities you can't explain
-Leave my fingerprints on every inch yo damn framewit dis one finger I 
+Leave my fingerprints on every inch yo damn framewit dis one finger I
 Could make you get off the chain
 Get to lickin and my hands they get they own brain
 They wanna touch ya they wanna rub ya they wanna feel yo frame
 Run my hands through yo hair and go against yo grain
 Let me massage ya baby and help ease yo pain
 You wanna get comfortable take your shorts off I can help you change
-Wanna take my hands off but I cant they jus gon' call yo name
-If I can't squeeze ya and I cant hold ya it don't feel the same
+Wanna take my hands off but I can't they jus gon' call yo name
+If I can't squeeze ya and I can't hold ya it don't feel the same
 It ain't my fault baby my hands is the one to blame
 
 
@@ -107,9 +107,9 @@ I'ma do ya like this and do ya like that
 I promise you gon' like the way I touch on you
 so jump up in dis benz and let the seat back
 I promise you gon' like da way I feel on you
-I'ma do you til yo body say "ohhh"
+I'ma do you til yo body say "oh"
 I'ma do it til yo mouth breathes "no more"
-I said excuse my hands she said "boy stop playin come make love to yo 
+I said excuse my hands she said "boy stop playin come make love to yo
 number one fan"
 
 

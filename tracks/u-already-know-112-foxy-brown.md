@@ -124,7 +124,7 @@ Girl you know the drill don't ask no questions, you already know
 Is your girl Jenny home (Yes)
 Call her up and tell her it's 'bout to be on (Yes)
 Tell her don't show if it ain't heels and thongs (Yes)
-I can already see it, ooh what a feeling
+I can already see it, oh what a feeling
 Just don't (Yes)
 Get jealous if I hit that to hard (Yes)
 Cuz you come first

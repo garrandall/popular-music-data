@@ -66,7 +66,3 @@ For things never change in this place.
 There's no present, no past, no future,
 We're the ones who have lost in loves race.
 
-
-
-
-

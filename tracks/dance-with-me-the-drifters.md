@@ -82,7 +82,7 @@ Won't you dance with me?
 Oh hold me tighter, tighter and tighter
 Much tighter while the rhythm sways
 
-Hmm put your lips to mine
+Hm put your lips to mine
 While the music blends
 We're no longer strangers
 Now we're more than friends so

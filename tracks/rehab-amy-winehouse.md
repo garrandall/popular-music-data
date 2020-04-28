@@ -129,7 +129,7 @@ Yes I've been black but when I come back
 You'll know, know, know
 
 I don't ever want to drink again
-I just, ooh I just need a friend
+I just, oh I just need a friend
 I'm not gonna spend ten weeks
 And have everyone think I'm on the mend
 

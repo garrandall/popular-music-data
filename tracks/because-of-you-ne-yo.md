@@ -88,7 +88,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-07-28'
 ---
-Ooh-oh-oh, oh-oh, oh-oh
+Oh-oh-oh, oh-oh, oh-oh
 Oh-oh-oh-oh-oh, oh-oh-oh-oh-oh
 
 
@@ -115,7 +115,7 @@ Never get enough
 She’s the sweetest drug
 
 
-Ooh-oh-oh
+Oh-oh-oh
 Think of it every second, I can't get nothing done
 Only concern is the next time I’m gon' get me some
 Know I should stay away from, 'cause it's no good for me
@@ -139,11 +139,11 @@ Never get enough (Never get enough)
 She’s the sweetest drug
 
 
-Ooh-oh-oh
+Oh-oh-oh
 Ain’t no doubt (No doubt, hey), so strung out (Strung out)
 Ain’t no doubt (There's ain't no grain of doubt, oh), so strung out (Hey)
 Over you, over you (You), over you (You)
-Ooh-oh-oh
+Oh-oh-oh
 Because of you
 And it’s all because of you
 Never get enough

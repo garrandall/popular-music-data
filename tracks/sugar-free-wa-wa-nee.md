@@ -93,7 +93,7 @@ Na-nah, na-na-nah, na-nah, na-na-nah, yeah
 
 Oh my love, let it take you higher
 Everyday meant to take you higher
-I only see a memory of what used to be-ee-ee-ee, ooh
+I only see a memory of what used to be-ee-ee-ee, oh
 Oh-oh, mm-mm-mmm
 
 Oh, my love and me, oh, we're sugar free

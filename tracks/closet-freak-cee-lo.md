@@ -21,15 +21,15 @@ rankings:
   start_date: '2002-04-27'
 ---
 
-Yeah.. ooh..
+Yeah.. oh..
 You so freaky..
 You so freaky shorty..
-Ooh you so freaky..
+Oh you so freaky..
 Shit, you so freaky shorty..
 Uh uh, you so freaky..
-Ooh Lord, you so freaky..
+Oh Lord, you so freaky..
 Mmm uh, you so freaky shorty..
-HAH HAH!!
+HAH HAH!
 
 
 Now everybody that's grown got skeleton bones they got hidden away
@@ -103,8 +103,4 @@ FREAK! - You a freak?
 FREAK! - Are you a freak?
 FREAK! - I'm a freak
 FREAK! - Big ol' freak
-
-
-
-
 

@@ -28,7 +28,7 @@ It won't be long, yeah, 'til you're alone
 When your lover (lover)
 Oh, he hasn't come home
 'Cause he's lovin' (lovin')
-Ooh he's touchin' (touchin')
+Ohhe's touchin' (touchin')
 He's squeezin' another (another)
 
 Any way you want it
@@ -36,7 +36,7 @@ That's the way you need it
 (She said) any way you want it
 That's the way you need it
 Any way you want it
-(Na na-na na naaa .....)
+(Na na-na na naaa ...)
 
 I was alone
 I never knew
@@ -46,7 +46,7 @@ Then we sang
 About the lovely things
 
 'Cause he's lovin' (lovin)
-Ooh he's touchin' (touchin)
+Ohhe's touchin' (touchin)
 He's squeezin' another (another)
 
 Anyway you want it
@@ -55,7 +55,7 @@ Anyway you want it
 (She said) anyway you want it
 That's the way you need it
 Anyway you want it
-(Na na-na na naaa .....)
+(Na na-na na naaa ...)
 
 
 
@@ -70,8 +70,8 @@ Anyway you want it
 Any way you want it
 That's the way you need it
 Anyway you want it
-(Ooooooh)
-(Na na-na na naaa .....)
+(Oh)
+(Na na-na na naaa ...)
 
 Any way you want it
 That's the way you need it

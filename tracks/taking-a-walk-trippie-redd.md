@@ -23,7 +23,7 @@ rankings:
 
 Scott Storch
 
-Ooh, so they think I wanna die, yeah
+Oh so they think I wanna die, yeah
 'Cause my doors are suicide, yeah
 Bet my coffin would be nice, yeah
 Stud that bitch up with some ice, yeah
@@ -44,7 +44,7 @@ Wayy, throwing bands tonight
 Throwing bands tonight, shawty throwing bands tonight
 Throwing bands tonight, huh
 
-Ooh, so they think I wanna die, yeah
+Oh so they think I wanna die, yeah
 'Cause my doors are suicide, yeah
 Bet my coffin would be nice, yeah
 Stud that bitch up with some ice, yeah

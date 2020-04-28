@@ -104,12 +104,12 @@ But I'm gonna change your mind, some way, somehow baby
 I want you the right way
 I want you, but I want you to want me too
 I want you to want me baby
-Just like I want you, ooh
+Just like I want you, oh
 Well one way love is just a fantasy, ah sugar
-To share is precious, pure and fair, ooh
+To share is precious, pure and fair, oh
 Don't play with something you should cherish for life, baby
 Don't you wanna care? Lonely out there
 I want you the right way
 I want you, but I want you to want me too
 Want you to want me baby
-Just like I want you, ooh
+Just like I want you, oh

@@ -16,7 +16,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-02-19'
 ---
-Ooh, ooh...
+Oh oh..
 
 As long as time allows
 You'll be my treasure queen
@@ -26,7 +26,7 @@ Boom, boom, boom
 
 Girl, there's something
 About your smile
-Don't you wait too long, ooh
+Don't you wait too long, oh
 Pretty lady, let me
 Put you where you belong
 
@@ -42,7 +42,7 @@ Always be this way
 
 Girl, there's something
 About your smile
-To wait too long, ooh
+To wait too long, oh
 Pretty lady, let me
 Put you where you belong
 
@@ -53,7 +53,7 @@ My precious little girl
 
 My pearl
 My precious little girl
-My pearl, ooh hoo
+My pearl, ohhoo
 My precious little girl
 
 My precious little girl
@@ -64,7 +64,7 @@ My precious little girl
 
 My pearl
 My precious little girl
-My pearl, ooh, you're
+My pearl, oh you're
 My precious little girl
 
 My pearl
@@ -74,7 +74,7 @@ My precious little girl
 
 My pearl
 My precious little girl
-My pearl, ooh, you're
+My pearl, oh you're
 My precious little girl
 
 Hey, hey, hey

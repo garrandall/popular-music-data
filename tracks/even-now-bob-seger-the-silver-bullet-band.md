@@ -104,16 +104,16 @@ Even now
 Even now
 Oh, even now
 Even now
-Ahhh
+Ah
 She's all that I want
 She's all that I need
 Even now
 She's givin' it all
 She's givin' it free
-Oh Oooh
+Oh Oh
 When everything's right
 When everything's wrong
-Oooh
+Oh
 She's keepin' it real
 She's keepin' it strong
 Oh, Oh

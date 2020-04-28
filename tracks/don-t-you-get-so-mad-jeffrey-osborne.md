@@ -82,7 +82,7 @@ Don't you get so mad about it
 Don't you get so mad about it
 (About it, about it)
 Don't you get so mad about it
-(Ooh, ooh, ooh)
+(Oh, oh oh
 Don't you get so mad about it, hey
 (Mad about it)
 
@@ -116,7 +116,7 @@ Listen to me, my dear
 Don't you get so mad, baby
 (About it, about it)
 Whoa, whoa, ho, baby
-(Ooh, ooh, ooh)
+(Oh, oh oh
 Don't you get so mad about it
 (Mad about it)
 Whoa, ho, oh…
@@ -126,16 +126,16 @@ Don't get so mad now, baby
 (About it, about it)
 Ho, don't you get so mad about it, babe
 Don't you get so mad
-(Ooh, ooh, ooh)
+(Oh, oh oh
 Don't you get so mad about it, babe, no
 (Mad about it)
-Woo, ooh, ho
+Woo, oh ho
 
 (Do you have to get so mad)
 Don't get so mad about it
 (About it, about it)
 There's no need to get upset
-(Ooh, ooh, ooh)
+(Oh, oh oh
 Darling, please don't forget the love we had
 (Mad about it)
 Oh…

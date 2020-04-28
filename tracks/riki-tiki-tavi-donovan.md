@@ -53,7 +53,7 @@ Riki tiki tavi mongoose is gone
 Won't be coming around for to kill your snakes no more my love
 Riki tiki tavi mongoose is gone
 
-(Every)body who read the Jungle Book knows that Riki tiki tavi's a 
+(Every)body who read the Jungle Book knows that Riki tiki tavi's a
 mongoose who kills snakes
 (Well) when I was a young man I was led to believe there were organisations
 to kill my snakes for me
@@ -99,7 +99,7 @@ And the organisations ain't really organised.
 
 Cause your Riki tiki tavi mongoose at your door no more no more,
 Riki tiki tavi mongoose at your door.
-He wont be coming around for to kill your snakes no more, my love,
+He won't be coming around for to kill your snakes no more, my love,
 Oh your Riki tiki tavi mongoose at your door no more.
 
 Everybody who saw the Jungle Book knows that
@@ -113,12 +113,12 @@ Oh laboratory
 
 Well, the people walking around they don't know what they're doing,
 They bin lost so long, they don't know what they're looking for.
-Well, I know what I'm a-looking for but I just cant find it,
+Well, I know what I'm a-looking for but I just can't find it,
 Well, I gotta, I guess I gotta look inside myself some more.
 
 Oh Riki tiki tavi mongoose at your door no more no more no more
 Riki tiki tavi mongoose at your door no more
-He wont be coming around for to kill your snakes no more, my love,
+He won't be coming around for to kill your snakes no more, my love,
 For your Riki tiki tavi mongoose at your door no more.
 
 Oh no, no, no la, no, no do do do do da

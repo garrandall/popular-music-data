@@ -80,8 +80,8 @@ Buzz, buzz, buzz here and there
 You just spreadin' your love (Everywhere) everywhere
 
 Ba ba ba ba, ba ba ba ba ba
-Oooh ooh
-Oooh ooh ooh ooh ooh ooh
+Oh oh
+Oh oh oh oh oh oh
 Ba ba ba ba, ba ba ba ba ba
 
 From another woman's door you come sneakin'

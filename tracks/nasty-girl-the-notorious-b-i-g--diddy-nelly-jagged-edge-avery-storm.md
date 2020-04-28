@@ -129,7 +129,7 @@ N give me what I need while we listen to prince
 Coz miss U ain't seen the world yet
 Rocked la pearl yet
 Rocked them pearl sets
-Flew in em pearl jets (ooooohhhhh)
+Flew in em pearl jets (oh)
 In a style make a low profile girl smile
 Throw a chick back like a blue print trial
 Now u n me can drink some Hennessy
@@ -162,7 +162,7 @@ Grab Ur titties for B.I.G
 Uh with JE and B.I.G (what, what)
 Grab the keys from Diddy (Uh, uh)
 The women look-in ... no stress
-Meet us upstairs in Ur best .....Yes
+Meet us upstairs in Ur best ...Yes
 Dressed to impress
 Spark these bitches interest
 Jazze on the beat so sweet
@@ -175,7 +175,7 @@ Nice and slow
 Or fast and wreckless
 Pull Ur hair girl, bite Ur necklace
 Let me show u what a nigger from Lou blessed with
-Hey.... I'll make you spring a leak
+Hey... I'll make you spring a leak
 When I'm done I flip the mattress
 Change the sheet (Gotta change them)
 I'm like a radical one
@@ -184,7 +184,7 @@ I vibrate a little more than Ur mechanical one
 Either way mama I'm a make u do it or do it
 (Girl I'm about to make u come)
 Guaranteed when Ur fuckin with me
-(Coz I go on and on and on...on and on and on....on and on and)
+(Coz I go on and on and on...on and on and on...on and on and)
 Ladies if u feel me
 Grab them Thangs fo Biggie
 
@@ -215,7 +215,7 @@ Show enough (Show enough)
 Notorious
 Notorious
 Ladies and gentlemen
-Let's go 
+Let's go
 Hey hey hey... hey
 
 

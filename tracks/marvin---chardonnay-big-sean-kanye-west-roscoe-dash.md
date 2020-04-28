@@ -107,7 +107,7 @@ Just to set the mood girl I bought some Marvin Gaye and Chardonnay
 
 Hold up, Hold up, Hold up, Hold up, Hold up
 Hold up, Hold up, Hold up, Hold up, Hold up
-Yeaaah
+Yeah
 
 
 She love the way I'm doin' it

@@ -132,7 +132,7 @@ For that little girl
 Hold on to your world
 
 Yeah yeah
-Hold on,  hold on yeah yeah uh uh ooh ooh
+Hold on,  hold on yeah yeah uh uh oh oh
 
 
 Don't you be afraid

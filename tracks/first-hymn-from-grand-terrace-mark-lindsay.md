@@ -29,7 +29,7 @@ And a nursery rhyme
 Went flying across the waving grass
 Like, like silver bells
 Against the curtain that the sky had made
-Ooh, and so we played
+Oh, and so we played
 
 It was a sunny day, and so we lay
 Beneath the rock that sheltered us

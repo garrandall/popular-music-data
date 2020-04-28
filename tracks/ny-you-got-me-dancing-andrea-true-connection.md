@@ -56,7 +56,7 @@ Baby, baby with your hard luck story
 You need a place to show to win
 You'd still be waiting for me at the airport
 While my ship was coming in
-And N.Y. you're taking me dancing....
+And N.Y. you're taking me dancing...
 
 So "don't you beware, don't you beware"
 Keep on dancing
@@ -95,7 +95,7 @@ Oh what a joy at the Barefoot Boy
 "Night Trouble Lane's" the place to be
 At 12 West the sound's the best
 I guess you can come in your jeans
-But I still prefer..getting dressed up
+But I still prefer...getting dressed up
 But I still prefer getting dressed up for Regine's
 
 "Don't you beware, don't you beware"

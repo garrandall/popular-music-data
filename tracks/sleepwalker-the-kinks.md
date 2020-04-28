@@ -69,7 +69,7 @@ I walk around on my tippy toes,
 And I get into places that nobody knows.
 
 I'm always around if you wanna meet.
-You can find me on almost ev'ry street.
+You can find me on almost every street.
 You'll always get me on the telephone.
 I'll even come to your home if you're ever alone.
 
@@ -77,7 +77,4 @@ I'm a sleepwalker.
 I'm a night stalker.
 I'm a street walker.
 I'm a night hawker.
-
-
-
 

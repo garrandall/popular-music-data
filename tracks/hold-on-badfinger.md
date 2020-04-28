@@ -52,7 +52,7 @@ Don't you ever hide away. Our love hold on
 
 But if you let me down.I'll be strong
 And give all my love to you. Baby, hold on
-'Cause you wont fade away.In my mind
+'Cause you won't fade away.In my mind
 You'll be with me every day.Baby, be strong
 
 And just hold on.If you're feeling strong

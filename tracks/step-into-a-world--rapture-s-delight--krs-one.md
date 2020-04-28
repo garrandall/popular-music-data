@@ -85,7 +85,7 @@ From the Boogie Down to the Himilayas I'm
 
 Comentating (say what?) illustrating (yeah)
 Descriptions given, adjective expert (I hear you)
-Let's work, til your neck hurt (oooh)
+Let's work, til your neck hurt (oh
 Like Bedwork I Rock Steady, you ain't really ready
 For the teacher, just when you thought you had me licked
 I come equipped with another hit, oh shit!
@@ -113,7 +113,7 @@ Bad Boy represent, keep it sewer
 Killin You Softly wit my song
 Call from the heist, I know y'all better think twice (what?)
 About the still number one (uh-huh) South South Bronx (say what?)
-At the Latin Quarter, dancin witcha daughter (ooh!)
+At the Latin Quarter, dancin witcha daughter (oh!)
 You can't handle me, I keep it tight
 With my Bad Boy family, that's right
 

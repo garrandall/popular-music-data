@@ -52,7 +52,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
 ---
-Ooh-ooh
+Oh-oh
 (You don't realise)
 (I just want what is right)
 (Still the same)
@@ -71,7 +71,7 @@ Don't crticise my lifestyle
 I'm fed up cos all you wanna do is criticise
 
 (Don't just close your mind)
-Ooh-ooh
+Oh-oh
 (You don't realise)
 (I just want what is right)
 
@@ -90,7 +90,7 @@ Don't criticise my lifestyle
 I'm fed up 'cause all you wanna do is criticise
 
 (Don't just close your mind)
-Ooh-ooh
+Oh-oh
 Criticise
 (You don't realise)
 All you wanna do is criticise
@@ -99,7 +99,7 @@ All you wanna do is criticise
 Criticise
 (Don't just close your mind)
 All you wanna do is criticise
-Ooh-ooh
+Oh-oh
 Criticise
 (You don't realise)
 All you wanna do is criticise
@@ -109,7 +109,7 @@ All you wanna do is criticise
 Criticise
 (Don't just close your mind)
 All you wanna do is criticise
-Ooh-ooh
+Oh-oh
 Criticise
 (You don't realise)
 All you wanna do is criticise
@@ -118,7 +118,7 @@ All you wanna do is criticise
 Criticise
 (Don't just close your mind)
 All you wanna do is criticise
-Ooh-ooh
+Oh-oh
 Criticise
 (You don't realise)
 All you wanna do is criticise

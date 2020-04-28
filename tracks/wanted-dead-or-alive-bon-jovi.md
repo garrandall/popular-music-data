@@ -102,9 +102,6 @@ Wanted (wanted) dead or alive
 
 Oh, and I ride
 
-
-
-
 I'm a cowboy
 On a steel horse I ride
 I'm wanted (wanted) dead or alive

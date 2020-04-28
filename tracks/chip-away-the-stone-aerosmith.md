@@ -61,7 +61,7 @@ And I won't stop until your love is my very own
 Chip away
 That's what I'm gonna do
 Sweet little mama I wanna get next to you
-Oooh...yes I do...
+Oh...yes I do...
 
 Chip away
 Chip away

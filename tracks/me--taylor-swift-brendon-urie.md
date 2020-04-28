@@ -107,10 +107,10 @@ Like a rainbow with all of the colors
 Baby doll, when it comes to a lover
 I promise that you'll never find another like me-e-e-eh
 
-Ooh-ooh-ooh-ooh
+Oh-oh-oh-oh
 I'm the only one of me
 Baby, that's the fun of me-e-eh
-Ooh-ooh-ooh-ooh
+Oh-oh-oh-oh
 You're the only one of you
 Baby, that's the fun of you
 
@@ -131,16 +131,16 @@ Living in winter, I am your summer
 Baby doll, when it comes to a lover
 I promise that you'll never find another like me-e-e-eh
 
-Ooh-ooh-ooh-ooh
+Oh-oh-oh-oh
 I'm the only one of me
 Let me keep you company-e-e-eh
-Ooh-ooh-ooh-ooh
+Oh-oh-oh-oh
 You're the only one of you
 Baby, that's the fun of you
 
 And I promise that nobody's gonna love you like me-e-e-eh
 
-[Single version: 
+[Single version:
 Hey, kids
 Spelling is fun]
 
@@ -154,26 +154,26 @@ But you know there is a "me"
 And you can't spell "awesome" without "me"
 I promise that you'll never find another like me-e-e-eh
 
-Yeah, ooh-ooh-ooh-ooh
+Yeah, oh-oh-oh-oh
 (And I won't stop, baby)
 I'm the only one of me
 (I'm the only one of me)
 Baby, that's the fun of me-e-e-eh
 (Baby, that's the fun of me)
 
-Ooh-ooh-ooh-ooh
+Oh-oh-oh-oh
 You're the only one of you
 Baby, that's the fun of you
 And I promise that nobody's gonna love you like me-e-e-eh
 
 Girl, there ain't no "I" in "team"
-Ooh-ooh-ooh-ooh
+Oh-oh-oh-oh
 But you know there is a "me"
 I'm the only one of me
 Baby, that's the fun of me-e-e-eh
 
 Strike the band up 1, 2, 3
-Ooh-ooh-ooh-ooh
+Oh-oh-oh-oh
 You can't spell "awesome" without "me"
 You're the only one of you
 Baby, that's the fun of you

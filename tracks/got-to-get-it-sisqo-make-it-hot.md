@@ -91,10 +91,10 @@ rankings:
 ---
 
 See what I wanna do
-(Oooh oooh)
+(Oh oh)
 I don't know if I can say what I wanna do
 (Yeah)
-Hmm...Maybe I can
+Hm...Maybe I can
 (Yeah yeah yeah)
 Uh uh uh uh come on
 
@@ -128,7 +128,7 @@ Baby wait till I'm finito
 Cuz I'm feenin' yeah
 And I gotta get a hit of you
 What's up what's up
-Come on I like to f**k
+Come on I like to fuck
 I gotta figure out if you're down because baby
 
 
@@ -148,9 +148,9 @@ We'll get the dough baby
 I'm here to treat you right
 (Come on)
 Won't you be the freak I know and gimme head all night
-(Ooh)
+(Oh
 If you think somebody's lookin girl turn off the lights
-(Ooh)
+(Oh
 We can do it when you want it where you want it how you want it
 Let me keep it tight
 (Oh yeah)

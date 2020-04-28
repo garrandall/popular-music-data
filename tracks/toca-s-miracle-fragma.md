@@ -14,21 +14,21 @@ rankings:
 ---
 
 If you're gonna save the day
-And you're hearin' what I say 
+And you're hearin' what I say
 I feel your touch
-Your kiss, it's not enough 
-And if you believe in me 
+Your kiss, it's not enough
+And if you believe in me
 Don't think my love's not for real
-I won't take nothin' less then a deeper love 
+I won't take nothin' less then a deeper love
 
 
 Let me tell you, you know
-Aah, I need a miracle
+Ah, I need a miracle
 I need a miracle
 It's more than physical
 What I need to feel from you
 Let me tell you, you know
-Aah, I need a miracle
+Ah, I need a miracle
 I need a miracle
 It's more than physical
 What I need to get me through
@@ -40,8 +40,4 @@ Just when I thought no one cared
 You're the answer to my prayer
 You lift my spirits high
 Come on and rescue me
-
-
-
-
 

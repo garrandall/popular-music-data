@@ -44,14 +44,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-12-11'
 ---
-Artist: Bobby Rydell
-
-Buy Bobby Rydell's CD
-
-I Wanna Thank You
-Bobby Rydell
-Written by Mann / Lowe /Appel
-
 Hah hah hah
 Hah hah hah
 Scooby dooby doo
@@ -65,7 +57,6 @@ Found a girl that's paradise
 She's my lady, the greatest in town
 You know I wanna thank you, for puttin' me down
 
-(Repeat verse 1)
 This girl is sweet and true
 She treats me better than you
 You gave me my big chance
@@ -76,5 +67,3 @@ Goodbye, farewell, so long
 You know you done me wrong
 Its all turned out right
 That girl has dynamite
-
-(Repeat verse 3 then 1)

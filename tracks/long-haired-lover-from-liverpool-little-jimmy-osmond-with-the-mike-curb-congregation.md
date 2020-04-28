@@ -1,7 +1,8 @@
 ---
 artists:
-- Little Jimmy Osmond with The Mike Curb Congregation
-features: []
+- Little Jimmy Osmond
+features:
+- The Mike Curb Congregation
 genres: []
 key: long-haired-lover-from-liverpool-little-jimmy-osmond-with-the-mike-curb-congregation
 name: Long Haired Lover From Liverpool

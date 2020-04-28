@@ -52,9 +52,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
 ---
-LA LA LA (IF I HAD YOU)
-Bobby Sherman
-
 La, la, la, la, la, la
 There ain't nothing in this world I couldn't do
 La, la, la, la, la, la
@@ -65,18 +62,15 @@ Someone like you could make my dreams come true
 Then all the mountains I could climb
 If you'd just put your hand in mine
 There ain't nothing in the world I couldn't do
-(Repeat chorus)
 
 You can make a rainy day sunny in my mind
 You make the world seem like a friend to me
 Yeah, there ain't nothing I couldn't do
 If you were there to see me through
 And I loved you and knew that you loved me
-(Repeat chorus)
 
 I would feel ten feet tall if you were at my side
 Three ain't nothing in this world I couldn't do
 Kings would give up thrones to be
 In love for just one hour like me
 And that's the way I'd feel if I had you
-(Repeat chorus)

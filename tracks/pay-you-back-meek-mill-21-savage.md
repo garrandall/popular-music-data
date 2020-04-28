@@ -15,7 +15,7 @@ rankings:
 ---
 
 
-Yeah, ooh
+Yeah, oh
 (Wheezy outta here)
 
 We gon' wake yo' dog up on that cash, huh (Brr)

@@ -48,8 +48,7 @@ You'll never see a dark cloud hanging 'round me
 Now there is only blue sky to surround me
 There's never been a gray day since you found me
 Everything I touch is turned to gold
-
-CHORUS:
+∂
 So you can color my world with sunshine yellow each day
 Oh you can color my world with happiness all the way
 Just take the green from the grass and the blue from the sky up above
@@ -61,9 +60,7 @@ There'll be a rainbow always up above me
 Since I found the one who really loves me
 Everything I touch is turned to gold
 
-(chorus)
 Sunshine yellow, orange blossom
 Laughing faces everywhere, yeah
 
-(chorus)
 Color my world, color my world

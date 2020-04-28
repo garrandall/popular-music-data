@@ -53,9 +53,9 @@ rankings:
   start_date: '1986-11-01'
 ---
 
-Ooh-ooh-ooh-ooh-ooh
+Oh-oh-oh-oh-oh
 Yeah-yeah
-Ooh-ooh
+Oh-oh
 Eah-eah-eah
 Oh
 
@@ -80,7 +80,7 @@ Standing alone and outside
 With no one to love
 
 Yeah-eah
-Ooh-ooh-eah
+Oh-oh-eah
 
 I was secure and so glad there was you to love
 What in the world would I ever do without us
@@ -109,7 +109,7 @@ No one, no one to love
 Yeah, yeah
 Yeah, yeah
 Yeah, yeah
-You, ooh-eah-eah
+You, oh-eah-eah
 
 Yeah, yeah
 Yeah, yeah
@@ -137,7 +137,7 @@ Give me the reason
 To love you, girl
 To love you
 To love you, girl
-Ooh
+Oh
 
 To love you, girl
 To love you, girl

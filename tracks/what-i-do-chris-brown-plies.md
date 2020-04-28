@@ -33,7 +33,7 @@ See something sexy up in here, I'ma bring it back (Bring it back)
 They keep on runnin' back (Runnin' back), they keep on comin' back (Yeah)
 Everybody knows CB, see me sittin' in the front row, Playoffs
 Stuntin' with my J's on and it's all for them haters (Yeah)
-Yeah, we get into that quap, boy, my money too long, boy (Ooh)
+Yeah, we get into that quap, boy, my money too long, boy (Oh)
 We do this for fun, boy
 
 

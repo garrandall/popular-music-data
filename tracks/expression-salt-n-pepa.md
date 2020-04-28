@@ -131,7 +131,7 @@ I express myself on every jam
 I'm not a man, but I'm in command
 Hot damn, I got an all-girl band
 And I wear the gear, yeah, I wanna wear it, too
-I don't care, dear, go ahead and stare (oooo)
+I don't care, dear, go ahead and stare (oo)
 Afraid to be you, livin' in fear (boo)
 Expression is rare, I dare you
 

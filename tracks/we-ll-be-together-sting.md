@@ -100,11 +100,6 @@ Is dancing here with you in my arms
 Forget the weather we should always be together
 Always be a slave to your charm
 
-
-
-
-
-
 Call me baby. You can call me anything you want
 Call me baby Call me Just call me
 

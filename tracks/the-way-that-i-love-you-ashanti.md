@@ -111,7 +111,7 @@ I know now you don't love me the same
 The way that I love (The way that I love)
 The way that I love (The way that I love)
 The way that I love (The way that I love you)
-Ohh, ohh, ohh
+Ohh, oh, oh
 
 
 I notice now that when I'm around you be tryna lock the doors, whispering on the phone
@@ -137,7 +137,7 @@ The way that I love (The way that I love)
 The way that I love (The way that I love you)
 
 
-Ohh, ohh, ohh
+Ohh, oh, oh
 You lied, you lied, oh why, oh why?
 Can't, why'd you have to lie to me?
 Why'd you have to lie to me?
@@ -154,4 +154,4 @@ The way that I love (The way that I loved you)
 The way that I love (The way that I loved you)
 
 
-Ohh, whoa, whoa, whoa, ohh
+Ohh, whoa, whoa, whoa, oh

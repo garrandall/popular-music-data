@@ -52,7 +52,7 @@ Go-go girl, don't you realize
 
 That I'm waiting for you
 Whenever you get through
-Oh, ooh, baby
+Oh, oh baby
 
 Oh, you blow my mind, baby
 
@@ -82,7 +82,7 @@ And that's the way it's gonna be
 
 'Cause I'm waiting for you
 Whenever you get through
-Oh, ooh, baby
+Oh, oh baby
 
 One, two, three
 Baby, you're for me

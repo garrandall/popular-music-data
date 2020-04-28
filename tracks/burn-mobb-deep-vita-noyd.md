@@ -95,7 +95,7 @@ That's hate, you could
 Get popped right now
 Me don't play, I keep
 A gun around my way
-'Cause I'm a f***in' drama king
+'Cause I'm a fuckin' drama king
 Like my nigga Kayslay
 Sex, drugs, money
 And murder all day

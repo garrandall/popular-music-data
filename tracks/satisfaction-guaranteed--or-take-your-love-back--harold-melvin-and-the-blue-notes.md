@@ -71,7 +71,7 @@ I'll take it back, no no!
 I'll give ya somthin good
 Yes I will, give you somethin' good, yeah yeah
 
-Put your arms around, ahh baby please
+Put your arms around, ah baby please
 Sit back and just relax and leave the rest to me
 You ain't gonna to be nervous, no no
 I'm gonna give you the best of service

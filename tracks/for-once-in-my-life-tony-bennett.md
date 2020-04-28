@@ -36,7 +36,7 @@ Somehow I know I'll be strong
 
 For once I can touch what my heart used to dream of
 Long before I knew
-Oooh Someone warm like you
+Oh Someone warm like you
 Would make my dream come true
 
 Yeah yeah yeah
@@ -51,7 +51,7 @@ As long as I know I have love, I can make it
 For once in my life, I have someone who needs me
 
 HE He He Hey yeah
-Ooh baby ooh baby
+Ohbaby oh baby
 
 For once in my life I won't let sorrow hurt me
 Not like it hurt me before
@@ -64,7 +64,7 @@ For once in my life, I have someone who needs me
 
 For once in my life
 Yeah Somebody like my
-Ooh baby
+Ohbaby
 
 
 

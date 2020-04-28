@@ -74,7 +74,7 @@ It is my happy heart
 You can hear my happy heart
 In love uoohhhhhh
 
-Aaaaahhhhh
+Ah
 
 Take me
 

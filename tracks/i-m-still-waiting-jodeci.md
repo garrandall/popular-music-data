@@ -112,7 +112,7 @@ Just a little love is all I need
 (My arms are open wide)
 Just a little love is all I need
 Yeah
-Whoa, ohh
+Whoa, oh
 The feel of your warm embrace
 
 I'm still waiting

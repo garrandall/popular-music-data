@@ -78,11 +78,11 @@ I'll tell you what I believe
 It's a miracle (miracle)
 A true blue spectacle
 A miracle come true
-(Whoa ohh ohh ohh)
+(Whoa oh oh oh)
 We're together, baby
 I was going crazy
 Till the miracle came through
-(Ohh ohh ohh ohh)
+(Ohh oh oh oh)
 Now you're here and my arms are around you
 And, baby, there'll be dancing in the street
 For the miracle (miracle)
@@ -110,11 +110,11 @@ You know that I'm home to stay
 'Cause it's a miracle (miracle)
 A true blue spectacle
 A miracle come true
-(Whoa ohh ohh ohh)
+(Whoa oh oh oh)
 We're together, baby
 I was going crazy
 Till the miracle came through
-(Ohh ohh ohh ohh)
+(Ohh oh oh oh)
 Now you're here and I'm feeling so good
 And, baby, there'll be dancing in the street
 For the miracle (miracle)
@@ -127,7 +127,7 @@ The miracle is you
 Now you're here and my arms are around you
 And, baby, there'll be dancing in the street
 Ha, there's gonna be dancing in the street
-Whoa ohh ohh ohh
+Whoa oh oh oh
 Dancing in the street
 
 

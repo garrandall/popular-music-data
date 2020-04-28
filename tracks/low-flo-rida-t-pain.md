@@ -171,11 +171,11 @@ rankings:
 ---
 
 
-Mmmmmmmm
+Mmm
 Let me talk to 'em
 Let me talk to 'em
 Let it rain
-Mmmmmmm
+Mmm
 Let me talk to 'em
 C'mon!
 

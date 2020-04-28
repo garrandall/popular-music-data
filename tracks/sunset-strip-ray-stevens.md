@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: sunset-strip-ray-stevens
+lyrics_url: https://genius.com/Ray-stevens-sunset-strip-lyrics
 name: Sunset Strip
 rankings:
 - end_date: '1970-11-13'
@@ -23,4 +24,41 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-28'
 ---
+Sunset Strip
+Sunset Strip
+My soul trip
+Sunset Strip
 
+Some people say you're plastic
+Well, I guess my soul's elastic
+'Cause I bend with every curve in your sidewalk
+Just groovin' along
+Feeling right at home
+Listening to the music of your children talk
+
+Sunset Strip
+(Something I dream about you)
+Sunset Strip
+(Something I dream about you)
+My soul trip
+(You got a way about you)
+Sunset Strip
+(What can I say about you?)
+
+Well, you see more friendly faces
+Than any other places
+And the warm glow of your night lights cast a spell on me
+All the happy hearts are here
+With their minds all free and clear
+And the whole idea seems to fit so well on me
+
+Sunset Strip
+(Something I dream about you)
+Sunset Strip
+(Something I dream about you)
+My soul trip
+(You got a way about you)
+Sunset Strip
+(What can I say about you?)
+
+Sunset Strip

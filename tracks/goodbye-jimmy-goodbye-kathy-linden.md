@@ -64,11 +64,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-07-13'
 ---
-Goodbye Jimmy Goodbye
-- Artist: Kathy Linden
-- peak Billboard position # 11 in 1959
-- Words and Music by Jack Vaughn
-CHORUS
 Goodbye, Jimmy, goodbye
 Goodbye, Jimmy, goodbye
 I'll see you again but I don't know when
@@ -77,10 +72,10 @@ Wind is a-blowin', rain starts to fall
 Train is a-tootin' its long, lonesome call
 Wheels are clickin' their way down the track
 Countin' the days till he's comin' back
-CHORUS
+
 When he has traveled the land and the sea
 He'll stop his wand'rin' and come home to me
 Give me a kiss for each tear and each sigh
 Till then my Jimmy, my Jimmy, goodbye
-CHORUS
+
 Goodbye Jimmy goodbye

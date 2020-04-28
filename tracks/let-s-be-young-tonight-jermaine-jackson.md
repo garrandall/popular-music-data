@@ -61,7 +61,7 @@ rankings:
   start_date: '1976-12-11'
 ---
 
-Ooh, baby, let's be young tonight
+Oh, baby, let's be young tonight
 Let's go dancing in the party lights
 I'll go and shine my shoes, you get your blue dress out
 Let's hit the discotheques and we'll turn them out
@@ -79,7 +79,7 @@ Boogie, me and my lady
 We'll never know
 When we'll get this chance again
 
-Ooh, baby, let's be young tonight
+Oh, baby, let's be young tonight
 Let's go dancing in the party lights
 I'll go and shine my shoes, you get your ol' dress out
 Let's hit the discotheques and we'll turn them out

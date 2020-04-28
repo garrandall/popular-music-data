@@ -60,7 +60,3 @@ They found a faded letter
 It said you have a daughter
 And her eyes are Wilson green
 
-
-
-
-

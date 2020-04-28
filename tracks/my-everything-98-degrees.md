@@ -115,7 +115,7 @@ you've opened up my heart to feel
 a kind of love that's truly real
 a guiding light that'll never fade
 there's not a thing in life that I would ever trade
-for the love you give and wont let go
+for the love you give and won't let go
 I hope you'll always know
 
 You are my everything

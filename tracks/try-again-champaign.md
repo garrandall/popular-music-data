@@ -124,7 +124,7 @@ Try, try, maybe we can try again, yeah
 
 
 
-Ooooooh, I remember when
+Oh, I remember when
 You told me you needed
 More walks, more talks
 More feelin' close to me

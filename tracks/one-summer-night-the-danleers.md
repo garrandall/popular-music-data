@@ -53,7 +53,7 @@ You and I, under the moon of love
 You kissed me oh, so tenderly
 And I knew this was love
 And I as held you, oh so close
-I knew no one could ever take your place, ohh
+I knew no one could ever take your place, oh
 
 
 One summer night, we fell in love

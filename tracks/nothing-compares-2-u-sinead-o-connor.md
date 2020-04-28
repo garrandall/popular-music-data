@@ -119,9 +119,6 @@ He said, "Girl, you better try to have fun no matter what you do," but he's a fo
 'Cause nothing compares
 Nothing compares to you
 
-
-
-
 All the flowers that you planted, mama, in the back yard
 All died when you went away
 I know that living with you, baby, was sometimes hard

@@ -62,7 +62,7 @@ You were made perfectly for me, you see
 
 Just like the movies
 That's how it will be
-Cinematic and dramatic, with the perfect ending, ohh
+Cinematic and dramatic, with the perfect ending, oh
 It's not like the movies, oh
 But that's how it should be, yeah
 When he's the one, you'll come undone

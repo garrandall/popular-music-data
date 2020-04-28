@@ -15,7 +15,7 @@ rankings:
 
 
 Oh yeah,
-Watch it, ooh!
+Watch it, oh
 Just shoot for the stars,
 If it feels right,
 And aim for my heart,

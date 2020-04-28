@@ -100,7 +100,7 @@ She said
 "Don't hand me no lines and keep your hands to yourself"
 
 
-Ooh, baby, baby, baby
+Oh, baby, baby, baby
 Why you gonna treat me this way?
 You know I'm still your loverboy
 I still feel the same way

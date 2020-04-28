@@ -54,7 +54,6 @@ I can't go on
 So come on
 And take me now
 
-(chorus)
 Take my love
 Make come true the feelings I've been dreaming of
 Take me now
@@ -78,5 +77,3 @@ Baby I need your love right now
 I can't go on
 So come on
 And take me now
-
-(chorus)

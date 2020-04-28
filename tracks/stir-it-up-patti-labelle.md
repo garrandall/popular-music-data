@@ -80,7 +80,7 @@ Angels cookin' in the city heat
 World's too crazy, I can't take no more
 I won't stay here locked behind the door
 Baby, stir it up, got to break it up now
-When I think about tomorrow, ooh, I can't wait to
+When I think about tomorrow, oh, I can't wait to
 Stir it, got to shake it up now
 If I have to beg or borrow, I'm not gonna take it anymore, mmm, mmm
 Hungry minds do stare you in the eyes
@@ -90,7 +90,7 @@ All those time bombs tickin' in your head
 So much pressure to keep holdin' on
 Pack my clothes up, baby, I'll be gone
 I've got to stir it up, got to break it up now
-When I think about tomorrow, ooh, I can't wait to
+When I think about tomorrow, oh, I can't wait to
 Stir it, got to shake it up now
 If I have to beg or borrow, I'm not gonna take it anymore, mmm, mmm
 Can't find love because it's trapped inside
@@ -121,28 +121,28 @@ If I have to beg or borrow, I don't wanna take it no more
 Stir it up, got to break it up now
 I'm gonna stir it up, gonna stir it up
 I'm not gonna take it no more, no more, no more, no more, no more, no more
-Mmm Stir it up, got to break it up now 
+Mmm Stir it up, got to break it up now
 Stir it up, got to break it up now
-(Mmm...got to stir it up) 
-Stir it up, got to break it up now 
-(Stir it up, baby, I...I'm gettin' out of here) 
+(Mmm...got to stir it up)
+Stir it up, got to break it up now
+(Stir it up, baby, I...I'm gettin' out of here)
 Stir it up, got to shake it up now
-(Stir it up, baby, I...I'm gettin' out of here) 
+(Stir it up, baby, I...I'm gettin' out of here)
 Stir it up, got to break
-it up now Stir it, got to shake it up now 
-If I have to beg or borrow, I don't wanna take it no more 
-Stir it up, got to break it up now 
-When I think about tomorrow, I can't wait to 
-Stir it, got to shake it up now 
-I'm gonna stir it up, gonna stir it up 
-I'm not gonna take it no more, no more, no more, no more, no more, no more, no more 
-Mmm Stir it up, got to break it up now 
-Stir it up, got to break it up now 
-(Ooh...got to sir it up) 
-Stir it up, got to break it up now 
-(Stir it up, baby, I...I'm gettin' out of here) 
-Stir it up, got to shake it up now 
-(Stir it up, baby, I...I'm gettin' out of here) 
+it up now Stir it, got to shake it up now
+If I have to beg or borrow, I don't wanna take it no more
+Stir it up, got to break it up now
+When I think about tomorrow, I can't wait to
+Stir it, got to shake it up now
+I'm gonna stir it up, gonna stir it up
+I'm not gonna take it no more, no more, no more, no more, no more, no more, no more
+Mmm Stir it up, got to break it up now
+Stir it up, got to break it up now
+(Oh...got to sir it up)
+Stir it up, got to break it up now
+(Stir it up, baby, I...I'm gettin' out of here)
+Stir it up, got to shake it up now
+(Stir it up, baby, I...I'm gettin' out of here)
 Stir it up, got to break it up no
 
 

@@ -137,7 +137,7 @@ Bounce back
 Into love
 Get back on your feet now, baby
 (Bounce back)
-Oooh, yeah
+Oh, yeah
 (Bounce back)
 Into love
 (Bounce back)

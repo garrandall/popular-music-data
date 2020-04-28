@@ -53,13 +53,13 @@ Stay with me, no, you don't need to run
 Stay with me, my blood, you don't need to run
 Stay with me, no, you don't need to run
 Stay with me, my blood, you don't need to run
-(Ooh-ooh, ooh-ooh)
+(Ohoh oohhoh
 You don't need to run
-(Ooh-ooh, ooh-ooh)
+(Ohoh oohhoh
 You don't need to run
-(Ooh-ooh, ooh-ooh)
+(Ohoh oohhoh
 You don't need to run
-(Ooh-ooh, ooh-ooh)
+(Ohoh oohhoh
 You don't need to run
 
 
@@ -80,13 +80,13 @@ Stay with me, no, you don't need to run
 Stay with me, my blood, you don't need to run
 Stay with me, no, you don't need to run
 Stay with me, my blood, you don't need to run
-(Ooh-ooh, ooh-ooh)
+(Ohoh oohhoh
 You don't need to run
-(Ooh-ooh, ooh-ooh)
+(Ohoh oohhoh
 You don't need to run
-(Ooh-ooh, ooh-ooh)
+(Ohoh oohhoh
 You don't need to run
-(Ooh-ooh, ooh-ooh)
+(Ohoh oohhoh
 You don't need to run
 Stay with me, no, you don't need to run
 Stay with me, my blood

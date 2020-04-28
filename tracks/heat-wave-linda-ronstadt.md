@@ -109,7 +109,7 @@ This time it's true romance
 Heat wave
 Heat wave
 Heat wave
-Oooh heat wave
+Oh heat wave
 
 
 

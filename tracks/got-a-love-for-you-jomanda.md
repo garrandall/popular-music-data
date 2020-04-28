@@ -76,7 +76,7 @@ But since you came into my life I changed
 
 That's why I'm so glad I found ya
 Wanna build my whole world around ya
-Ooh ya, gonna be true, gonna be true
+Oh ya, gonna be true, gonna be true
 
 
 I've got a love for you ('cause you're special)
@@ -94,7 +94,7 @@ I can't explain
 
 I'll never ever leave ya
 You know I'm here to please ya
-Ooh ya, gonna be true, gonna be true
+Oh ya, gonna be true, gonna be true
 
 
 

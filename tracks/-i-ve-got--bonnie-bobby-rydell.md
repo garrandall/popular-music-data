@@ -53,9 +53,9 @@ rankings:
   start_date: '1962-04-28'
 ---
 (Doop doop, doop doo doop doo doop)
-(Ah-ooh ah-oop)
+(Ah-ohah-oop)
 (Doop doop, doop doo doop doo doop)
-(Ah-ooh ah-oop)
+(Ah-ohah-oop)
 
 I've got Bonnie
 Sweet sweet Bonnie
@@ -65,7 +65,7 @@ Sweet sweet Bonnie
 Made all my dreams come true
 
 (Doop doop, doop doo doop doo doop)
-(Ah-ooh ah-oop)
+(Ah-ohah-oop)
 
 Once I used to cry
 Nobody cared if I would live or die
@@ -81,7 +81,7 @@ Sweet sweet Bonnie
 Made all my dreams come true
 
 (Doop doop, doop doo doop doo doop)
-(Ah-ooh ah-oop)
+(Ah-ohah-oop)
 
 I don't drive a car
 I'll never be a famous movie star but

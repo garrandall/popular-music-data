@@ -16,7 +16,7 @@ rankings:
 Fahoo fores dahoo dores
 Welcome Christmas come this way
 Fahoo fores dahoo dores
-Welcome Christmas, Christmas day 
+Welcome Christmas, Christmas day
 Welcome, welcome fahoo ramus
 Welcome, welcome dahoo damus
 Christmas day is in our grasp
@@ -31,7 +31,7 @@ Christmastime will always be
 Just as long as we have glee
 Fahoo fores dahoo dores
 Welcome Christmas bring your light
-Oooooooooo..........
+Oooooooooo...
 
 
 

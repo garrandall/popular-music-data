@@ -192,7 +192,7 @@ Ballroom blitz
 Ballroom blitz
 
 
-Ooh, it's, it's a ballroom blitz
+Oh, it's, it's a ballroom blitz
 It's, it's a ballroom blitz
 It's, it's a ballroom blitz
 Yeah, it's a ballroom blitz

@@ -70,9 +70,6 @@ I know this love of mine
 Will never die
 And I love her
 
-
-
-
 Bright are the stars that shine
 Dark is the sky
 I know this love of mine

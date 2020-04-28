@@ -24,14 +24,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-07-17'
 ---
-Ooh, ooh, ooh, yeah
+Oh, oh oohyeah
 
 Is my microphone on?
 One, two, one, two
 Is my microphone on?
 One, two
 
-Ooh, ooh, ooh, yeah
+Oh, oh oohyeah
 Is my microphone on?
 
 One, two, one, two

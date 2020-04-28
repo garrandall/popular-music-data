@@ -66,8 +66,8 @@ I'm sorry, honey, but it's my mistake
 
 Well, it's my (my), my (my), my (my), my mistake
 Yes, it's my (my), my (my), my (my), my mistake
-Ooh, my (my), my (my), my (my), my mistake
-My, my, my, my, my, my, my, my, my, my, my, ooh
+Oh, my (my), my (my), my (my), my mistake
+My, my, my, my, my, my, my, my, my, my, my, oh
 My (my), my (my), my (my), my mistake
 Well, it's my (my), my (my), my (my), my mistake
 My, my, my, my, my, my, my, my, oh, my, my

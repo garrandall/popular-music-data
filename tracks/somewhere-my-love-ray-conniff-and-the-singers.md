@@ -5,6 +5,7 @@ features:
 - The Ray Conniff Singers
 genres: []
 key: somewhere-my-love-ray-conniff-and-the-singers
+lyrics_url: https://genius.com/The-ray-conniff-singers-somewhere-my-love-lyrics
 name: Somewhere My Love
 rankings:
 - end_date: '1966-06-24'
@@ -56,4 +57,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
 ---
+Somewhere my love there will be songs to sing
+Although the snow covers the hope of Spring
+Somewhere a hill blossoms in green and gold
+And there are dreams, all than your heart can hold
+Someday we'll meet again, my love
+Someday whenever the Spring breaks through
 
+You'll turn to me out of the long-ago
+Warm as the wind, soft as the kiss of snow
+Lara, my own, think of me now and then
+Godspeed, my love, till you are mine again
+
+Warm as the wind, soft as the kiss of snow
+Godspeed, my love, till you are mine again

@@ -40,7 +40,7 @@ I don't make no moves, yeah, without tellin' my crew, yeah
 That just how we do, yeah, that just how we do, oh
 Goddammit it, I love my life, Styrofoam cups, no ice
 Party 'fore we go inside
-Never let them out my sight (ooh), they're right by my side (woo)
+Never let them out my sight (oh, they're right by my side (woo)
 Them my ride-or-dies (ride), them my ride-or-dies (ride)
 My friends are goals, your friends are foes (foes)
 We fly, why cry? Our souls exposed, yeah

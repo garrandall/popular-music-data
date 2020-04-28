@@ -50,7 +50,7 @@ Spoken: Paris nights are warm and fair. The summer winds are soft. A young man f
 In every field and loft
 
 (Chorus)
-Spoken: An old man returns to Paris as ev'ry old man must. He finds the winter winds blow cold. His dreams have turned to dust
+Spoken: An old man returns to Paris as every old man must. He finds the winter winds blow cold. His dreams have turned to dust
 His dreams have turned to dust. His dreams have turned to dust
 Ah! les fraises et les fromboises et les bon vins que nous avons bu
 La, la, la, la, la, la, la, la, la, la, la, la, la. Raspberries, strawberries, the good wines we brew

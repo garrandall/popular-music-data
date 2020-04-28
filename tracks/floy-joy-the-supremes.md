@@ -68,7 +68,7 @@ You're the man.
 I know I'll never own you Floy
 But see me when you can.
 
-Ooh, ooh, I know
+Oh, oh, I know
 I'm only one of a million girls
 Who would give their world to you Floy Joy.
 
@@ -105,7 +105,7 @@ You're the man.
 I hope in someway form or fashion
 I fit in your plan.
 
-Ooh, take me!
+Oh, take me!
 I wanna give myself to you
 And live my whole life through with you
 Floy Joy!

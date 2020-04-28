@@ -131,9 +131,6 @@ But now I'm now rich, I can't be fake, I gots to keep it real
 It's been a long time baby since I first got down
 But it still keep makin' these funky sounds
 
-
-
-
 I earned my respect in the street
 The ghetto's been good to me
 I'm never going to turn my back

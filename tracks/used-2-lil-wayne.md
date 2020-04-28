@@ -99,7 +99,7 @@ And you still ain't seen a fucking thing until you C5
 
 I still don't know today
 Was he playing with the gun or was it an accident
-I still... I just don't.... I.... I be wanting to ask him but I never asked him after all these years
+I still... I just don't... I... I be wanting to ask him but I never asked him after all these years
 Was that a accident or did he... or was he playing with the gun
 So I never really found out about what...
 You know what happ-... what really happened with him and that shooting

@@ -133,7 +133,7 @@ Ah, haa-aa, just get on down
 Boogie fever
 I think it's going around
 
-Fever, fever, fever. Ooh-ohh-ooo
+Fever, fever, fever. Oh-oh-ooo
 
 All night long, we did the bump, bump, bump
 Yes we did, yes we did, (Yaaaa) yes we did

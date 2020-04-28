@@ -91,9 +91,6 @@ I'm a man that knows what to do
 And I'm a man that knows what I like
 Turn around, titties down, ass up that's right
 
-
-
-
 So sexy the way you move
 The way that you bend your body
 Only keeps me in the mood
@@ -106,8 +103,4 @@ Bring your body close to mine
 I think it's time that you blow my mind
 Even though this foreplay's fun
 The night isn't done until we both cum
-
-
-
-
 

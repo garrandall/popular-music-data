@@ -29,4 +29,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-24'
 ---
-
+{Instrumental}

@@ -147,7 +147,7 @@ I be like nah to the ah to the no, no, no
 All my ladies, listen up (All my ladies)
 If that boy ain't giving up (Ain’t giving’ up)
 Lick your lips and swing your hips (Hey, hey, let's go!)
-Girl, all you gotta say is (Ooh)
+Girl, all you gotta say is (Oh)
 
 
 My name is no, my sign is no, my number is no, uh

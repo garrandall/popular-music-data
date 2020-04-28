@@ -117,7 +117,7 @@ I wanna be with you
 
 Oh yeah
 I wanna be with you
-Wanna be with you, ooo, yeah
+Wanna be with you, oo, yeah
 I wanna be, I wanna be
 
 

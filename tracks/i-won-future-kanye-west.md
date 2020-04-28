@@ -73,7 +73,3 @@ If people don't hate then it won't be right
 You could look at Kylie, Kendall, Kourtney and Khloe
 All your Mama ever made was trophies, right?
 
-
-
-
-

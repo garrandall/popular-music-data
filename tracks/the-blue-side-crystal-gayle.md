@@ -76,7 +76,7 @@ And the blue side is the you side
 It's the same old blue side of me, baby
 With the same old love
 It's the same old blue side of me, baby
-With the same old love for you, ooh
+With the same old love for you, oh
 
 
 

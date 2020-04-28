@@ -82,7 +82,7 @@ rankings:
 ---
 
 Boogie, boogie down, baby
-Ooh uh, boogie
+Oh uh, boogie
 Baby, let's boogie down
 
 I'm bad enough to make another bad lie
@@ -90,11 +90,11 @@ I'm gonna hook you on a natural high
 And I know, I can satisfy, hey
 I wanna love ya, kiss and hug you, baby, tonight
 
-Ooh hoo, tonight
+Oh hoo, tonight
 Boo hoo hoo, boogie down
 
 Hey, hey, boogie, boogie down, baby
-Ooh uh, boogie
+Oh uh, boogie
 Baby, let's boogie down
 
 Let's get it on, girl, don't hesitate
@@ -103,14 +103,14 @@ Sweet lover, don't make me wait, hey
 I wanna love ya, kiss and hug ya, baby, tonight
 
 Make ya feel all right
-Boo hoo hoo ooh ooh, boogie down
+Boo hoo hoo ohoohboogie down
 
 Boogie down, boogie down, baby
 Boogie down, boogie down, baby
 Boogie, boogie down, baby
 Boogie, boogie down, baby
 
-Boogie hmm, have mercy
+Boogie hm, have mercy
 Boogie down, baby
 Boogie down, boogie down, baby
 
@@ -138,9 +138,9 @@ Boogie down, boogie down, baby
 
 Boogie, hey hey y'all boogie down, baby
 Boogie down, boogie down, baby
-Ooh, have mercy
+Oh, have mercy
 
-Boogie ooh, huh, huh, huh, huh
+Boogie oh huh, huh, huh, huh
 Boogie down, baby
 Boogie down
 

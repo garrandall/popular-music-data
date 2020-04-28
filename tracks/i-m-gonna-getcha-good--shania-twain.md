@@ -88,7 +88,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-03-01'
 ---
-Ahh
+Ah
 Let's go
 Mmm
 
@@ -121,7 +121,7 @@ I'm gonna getcha, don't you worry 'bout that
 (Yeah, you can betcha)
 You can bet your bottom dollar in time, you're gonna be mine
 Just like I should, I'll getcha good!
-Yeah, ahh-ahh, hoo
+Yeah, ah-ah, hoo
 
 
 I've already planned it

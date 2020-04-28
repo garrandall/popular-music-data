@@ -81,9 +81,6 @@ That such a tender touch as hers will make them not the same?
 When we met I was sure out to lunch
 Now, my empty cup tastes as sweet as the punch
 
-
-
-
 And when the morning of the warning's passed
 The gassed and flaccid kids are flung across the stars
 The psychodramas and the traumas gone

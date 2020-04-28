@@ -116,7 +116,7 @@ rankings:
 
 Sexy can I
 Yeah, Yeah
-All we wanna know is....
+All we wanna know is...
 
 
 Sexy can I, just pardon my manners.
@@ -186,8 +186,4 @@ Fresh out the pool no towel
 just let it air dry.
 And if you ain't fuckin' tonight
 Man you can watch that tour bus go by
-
-
-
-
 

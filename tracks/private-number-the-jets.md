@@ -76,9 +76,6 @@ Just idle talking
 May you never do mistakes
 Love
 
-
-
-
 I've got an unlisted telephone
 So anytime
 I hear it ring
@@ -96,9 +93,6 @@ You always leave a trace
 Of what I'm thinking
 You'll always be my
 Number one 'cause
-
-
-
 
 Anytime you feel
 That we should make a love connection

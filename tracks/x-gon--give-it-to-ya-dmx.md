@@ -88,7 +88,7 @@ Fuck waitin' for you to get it on your own
 X gon' deliver to ya (Uh)
 Knock knock, open up the door, it's real
 With the non-stop, pop pop of stainless steel
-Go hard, getting busy with it (Ooh)
+Go hard, getting busy with it (Oh
 But I got such a good heart
 That I'll make a motherfucker wonder if he did it (Yeah)
 Damn right, and I'll do it again (Yeah)
@@ -144,7 +144,7 @@ X gon' give it to ya (Uh), he gon' give it to ya
 X gon' give it to ya (Uh), he gon' give it to ya
 
 
-Ay yo, where my niggas at?! I know I got them down in the game, give 'em love and they give it back (Ooh)
+Ay yo, where my niggas at?! I know I got them down in the game, give 'em love and they give it back (Oh
 Talk too much for too long (What?)
 Don't give up, you're too strong (What?)
 Dub to the wild wild hunneds (Yeah)

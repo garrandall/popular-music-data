@@ -39,7 +39,7 @@ rankings:
 Why be a big man
 You know that you're blue
 You know that it's true
-Tell her, tell her, ahh, ahh, ooh)
+Tell her, tell her, ah, ah, oh
 
 Tell her for me, I'm tired of crying
 (You love her, you know you still do)

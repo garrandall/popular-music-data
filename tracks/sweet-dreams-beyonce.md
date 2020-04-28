@@ -174,7 +174,7 @@ Somebody pinch me, your love's too good to be true
 My guilty pleasure, I ain't going nowhere
 Baby, long as you're here
 I'll be floating on air
-('Cause you're my, you're my....)
+('Cause you're my, you're my...)
 You can be a sweet dream or a beautiful nightmare
 Either way I don't wanna wake up from you
 (Turn the lights on!)

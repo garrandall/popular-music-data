@@ -80,7 +80,7 @@ Just help yourself to my lips
 To my arms just say the word, and they are yours
 Just help yourself to the love
 
-In my heart your smile............
+In my heart your smile...
 
 
 

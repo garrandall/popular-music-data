@@ -45,8 +45,8 @@ But the words, like silent raindrops fell
 Yes, they did and echoed (echoed)
 In the well, well, well of silence
 
-Ooh, the sound of silence
-Ooh, the sound of silence
+Oh, the sound of silence
+Oh, the sound of silence
 
 And the people bowed and prayed
 To the neon god they made
@@ -67,4 +67,4 @@ I turned my collar to the cold and damp
 
 In the naked light I saw
 Ten thousand people, maybe more
-Ooh, yeah, yeah, yeah
+Oh, yeah, yeah, yeah

@@ -84,7 +84,7 @@ To your place on the throne
 
 
 We've come together on this special day (huh)
-Sing a message loud and clear (hmm, mm)
+Sing a message loud and clear (hm, mm)
 Looking back, we've touched on sorrowful days (well!)
 Future, past, they disappear (haw, haaaw)
 
@@ -93,10 +93,10 @@ You will find (you will find)
 Peace of mind (yeah, ha)
 If you look way down
 In your heart and soul
-Ahh, don't hesitate
+Ah, don't hesitate
 Cause the world seems cold
 Stay young at heart
-Ahh, cause you'll never
+Ah, cause you'll never
 Never grow old (never, never, never, never, never, never)
 Oh, yeah... yeah, ha
 
@@ -104,20 +104,20 @@ Oh, yeah... yeah, ha
 That's the way (that's the way)
 Of the world (of the world)
 Plant your flower (gonna plant your flower)
-And you'll grow a pearl (heeey, ooh, ooh, ooh)
+And you'll grow a pearl (heeey, oh, oh, oh)
 Child is born
-With a heart of gold (ooh, ah, ah, yeah)
+With a heart of gold (oh, ah, ah, yeah)
 Way of the world (gonna plant your flower)
 Makes his heart grow cold
 
 
-Oooh, ooh, ooh, ha, Lord
+Oh, oh, oh, ha, Lord
 Can't you see me, y'all?
 
 Say, hey
 Hey, yeah, yeah, yeah
 Mm, mm, mm, mm
-Ahhh, luh
+Ah, luh
 
 
 
@@ -162,7 +162,7 @@ Ay, yee, ay, yee, ay, yee, yeah, ha
 That's the way (yaow!)
 Of the world (yaow! hey, yeah!)
 Plant your flowers
-And you'll grow a pearl (aaah, oooh)
+And you'll grow a pearl (ah, oh
 Child is born (child is born)
 With a heart of gold
 Listen now... with a heart of gold
@@ -175,10 +175,10 @@ That love, that love
 That love, that love
 Th-...
 
-Ooh, yeah!
+Oh yeah!
 Never!
 
-Aaah, ah, ha, ah, ha
+Ah, ah, ha, ah, ha
 Well!
 
 Uhhh, la, la, la
@@ -191,10 +191,10 @@ Lordy, won't you hear me now?!
 Ay, yee, ay, yee, yeah!
 
 Hearts afire (hearts afire)
-Love desire (ohh, love desire)
+Love desire (oh, love desire)
 High and higher
 
-Aaah, oooh, ooh, oooh, hoo
+Ah, ohoh, oh,oh
 
 Yeah
 Yeah

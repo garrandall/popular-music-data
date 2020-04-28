@@ -16,12 +16,12 @@ Vum Vum Vum Vum
 Vum Vum Vum Vum
 
 
-Oooooooh (Vara Varam)
+Oh (Vara Varam)
 
 Baby girl, where you at?
 Got no strings, got men attached (Vara Varam)
 Can't stop that feelin' for long, no
-Mmmm (Vara Varam) you makin' dogs wanna beg
+Mmm (Vara Varam) you makin' dogs wanna beg
 Breaking them off your fancy legs (Vara Varam)
 But they make you feel right at home, now
 
@@ -48,7 +48,7 @@ When I get you alone
 When I get you alone (The Warblers: Vara Varam)
 
 
-(Ooohh ohhh) Come on (Ooohh ohhh)
+(Oh oh) Come on (Oh oh)
 Oh yeah-yeah (Vara Varam)
 Baby girl, you the shhh
 That makes you my equivalent (Vara Varam)

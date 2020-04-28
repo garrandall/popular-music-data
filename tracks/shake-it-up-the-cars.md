@@ -155,7 +155,7 @@ Shake it up baby
 (Shake it up)
 Shake it up, oo-oo
 Shake it up
-Hhhm
+Hm
 (Shake it up)
 Yeah, yeah
 Shake it up, oo-oo

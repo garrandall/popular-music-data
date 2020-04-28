@@ -1,9 +1,11 @@
 ---
 artists:
-- Dottie West with Kenny Rogers
-features: []
+- Dottie West
+features:
+- Kenny Rogers
 genres: []
 key: what-are-we-doin--in-love-dottie-west-with-kenny-rogers
+lyrics_url: https://genius.com/Dottie-west-what-are-we-doin-in-love-lyrics
 name: What Are We Doin' In Love
 rankings:
 - end_date: '1981-04-03'
@@ -87,4 +89,38 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-08-08'
 ---
+We're like summer and winter
+We're not one bit alike
+We're like satin and cinders
+I'm definitely not your type
+Well, then what are we doin' in love
+What are we doin' in a mess like this
+What are we doin' love
+Why were you someone I couldn't resist
+What are we doin' in love
 
+We're like paper and matches
+Well probably have our share of fights
+We're like roses and switches
+It's gonna be hard but we've got to try
+Oh, what are we doin' in love
+What are we doin' in love in a mess like this
+What are we doin' in love
+What are we gonna tell all our friends
+You don't have to like someone to love someone
+That rule was made to be broken
+But if we have to say goodbye to a life we've gotten used to
+What are we doin' in love then
+
+We're like sun up and sun down
+People say we're never gonna last
+We're like uptown and downtown
+You like it slow and I like it fast
+So what are we doin' love
+What are we doin' love in a mess like this
+What are we doin' love
+What are we gonna tell all our friends
+You don't have to like someone to love someone
+That rule was made to be broken
+But if we have to say goodbye to a life we've gotten used to
+What are we doin' love then

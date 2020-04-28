@@ -107,7 +107,7 @@ Me and you together girl I'm celebratin' you tonight
 
 Uh, yeah I'm bloooown no cigarillo, rillo
 Love when I'm Mellow, get on my level 101 Karats in my bezel
-I'm ooooon, like soon as the ice cream truck at the ghetto
+I'm on, like soon as the ice cream truck at the ghetto
 Little knucklehead always in trouble soon as I ask shawty her number, fashooooooo
 Yeah I get it then I gone, then I hit it like bone bone
 Now you fucking up my zone, my zone, my zone
@@ -121,9 +121,6 @@ That's a fact. That's a fact?
 Don't act hollywood cause I don't act
 Bout my business but I don't slack
 This my celebration rap, so
-
-
-
 
 I pour up for Pimp C, light up for Soulja Slim
 Straight out the gutter, with the rest of the bowlin' pins
@@ -141,8 +138,4 @@ Hoes down, B's up
 
 Rollin' and chokin' and movin' slow motion, I'm floatin' I'm gone
 Rollin' and chokin' and movin' slow motion, I'm floatin' I'm gone
-
-
-
-
 

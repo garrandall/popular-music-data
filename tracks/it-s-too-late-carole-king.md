@@ -101,7 +101,7 @@ And I can't hide and I just can't fake it
 Ohhhh, nooo no
 
 {Instrumental}
-(Do do do do do do do do doooo do dooooo dahhhhh)
+(Do do do do do do do do doo do doo dahhhhh)
 
 
 There'll be good times again for me and you

@@ -55,14 +55,14 @@ Putting it all on the line
 It's out there waiting
 Waiting ro find us
 The spirit deep inside
-Ooh, just set it free
+Oh just set it free
 Just set it free
 
 A chance for Heaven
 That place we dream of
 And when you get there
-Ooh, then you will see
-Ooh, then you will see
+Oh then you will see
+Oh then you will see
 
 Now it's one more
 Chance for Heaven
@@ -78,8 +78,8 @@ I know that winning
 It never comes easy
 And on the day you get there
 
-Ooh, you're gonna find
-Ooh, you're gonna find
+Oh you're gonna find
+Oh you're gonna find
 
 Someone's gonna take it
 Someone's gonna make it

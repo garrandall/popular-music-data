@@ -92,7 +92,7 @@ Do ya dance, You gonna wanna learn it for a day
 Dip up in the Range Rover, Park like Yosemite
 (Errrr) Blow a champ dog, smoking like a Chimney
 You study ya matter and energy, its chemistry
-Haters dont matter, bitches join my energy
+Haters don't matter, bitches join my energy
 Super fitted in the funk CAT DADDY
 Then come up swing my arms, CAT DADDY
 Baby I'm thuggin

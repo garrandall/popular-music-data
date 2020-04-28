@@ -40,12 +40,12 @@ Endless love I'll always provide
 They hatin on us and you should know why
 But who’s be lovin you lately?
 Who’s willing to go half on the baby?
-Who ooo ooo’s trying to flag our ship?
+Who oo oo’s trying to flag our ship?
 They just tryin to get the love you give
 But baby
 
 
-Tell me what they know about my love (my love) 
+Tell me what they know about my love (my love)
 
 
 So they don’t understand why I'll never leave you

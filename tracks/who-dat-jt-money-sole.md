@@ -89,9 +89,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1999-09-04'
 ---
-Jack jack.. YEAH!
+Jack jack... YEAH!
 Put em up! Put em up!
-Yo yo.. JT Money!
+Yo yo... JT Money!
 Throw em up! Throw em up!
 JT Money!
 
@@ -109,10 +109,10 @@ Or do you just ride dick?
 Cause playa, I don't know you, nigga tell me who you wit!
 If you hang wit the Squad, you bound to get scarred
 Sucker boys run they mouth, real niggas run the yard
-Round here we blow trees, don't f**k with OB's
-You dick-ride niggas might be the police; aaaah-iight?
+Round here we blow trees, don't fuck with OB's
+You dick-ride niggas might be the police; aight?
 
-Aiy-ya-ya-ya-ya-ya-ya (Aiy-ya NIG-GA)
+Aiy-ya-ya-ya-ya-ya-ya (Aiy-ya NIGGA)
 Aiy-ya-ya-ya-ya-ya-ya (YEAH!)
 Who dat who dat who dat who dat who dat who dat who
 (Who dat? Who dat? HUH?)
@@ -145,11 +145,11 @@ You makin claims that you laid wit the fly nigga
 Don't know, your name
 It still, remains
 That you, would say
-You f**ked Sole'
+You fucked Sole'
 Everytime they turn a back, burn tracks
 Niggas wanna say they've earned stacks
 Dick be jack, picture that
-Say my name I'm the one, who the f**k is dat? Why?
+Say my name I'm the one, who the fuck is dat? Why?
 
 
 Aiy-ya-ya-ya-ya-ya-ya (Aiy-ya-ya)
@@ -166,17 +166,17 @@ Who dat who dat who dat who dat who dat who dat who
 (Who dat? Who dat? Who dat? HUH?)
 Who dat who dat who dat tryin to get up in my crew
 
-I been said a legendary up in this motherf**ker
+I been said a legendary up in this motherfucker
 Veteran in this game, and still bringin ruckus
 Never had no time for tricks or no bustaz
-I only f**k wit dat real I got no love for suckers
+I only fuck wit dat real I got no love for suckers
 All these tiny-ass niggas be wanna wear my shoes
 Ain't got the slightest of clues or either paid your dues
 Then these hoes goin crazy, bout J baby!
 The way you show me your love, is by the way you pay me
 The game room been closed, so stay up out of mine
 Just know I keep niggas up and krunk, like battle lines
-Motherf**kers be all up in a nigga biz
+Motherfuckers be all up in a nigga biz
 Tryin to question my shit just like a pop quiz
 Nigga what this is? Aaaa-ight?
 

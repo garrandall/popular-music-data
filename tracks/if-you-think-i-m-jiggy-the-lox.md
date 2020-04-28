@@ -97,7 +97,7 @@ Regardless who she fucked, I'm the nigga she deserves
 I put her on to holdin' birds, rockin' furs
 Different ways to speak without using words
 And even though she proper I still gotta drop her
-Cuz Sheek dont like her, had a dream that he shot her
+Cuz Sheek don't like her, had a dream that he shot her
 I can't buy you Escada, you get nada
 I'm the bounce with a chick that look a little bit hotter
 
@@ -118,7 +118,7 @@ And they gon' melt right in your mouth, not in your hand
 You know that you ain't my girl, I'm not your man
 But do you still wanna lick me?
 Or is cause I'm a six figgy niggy, and I know Biggie
-And I dont mess with no fat ladies
+And I don't mess with no fat ladies
 But if you pay like you weigh then you can stay, baby
 PJ slide to tha mo like that
 With this honey named trout cuz she blow like that

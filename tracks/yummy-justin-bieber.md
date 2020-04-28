@@ -121,7 +121,7 @@ Drew House slippers on with a smile on my face
 I'm elated that you are my lady
 You got the yum, yum, yum, yum
 You got the yum, yum, yum, whoa
-Whoa-ooh
+Whoa-oh
 
 Yeah, you got that yummy, yum
 That yummy, yum

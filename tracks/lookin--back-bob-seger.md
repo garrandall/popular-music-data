@@ -40,7 +40,3 @@ They're much too busy fittin' locks upon the back door
 Give you a foxhole, a place to hide
 Cause when the war come the cops'll be on their side
 
-
-
-
-

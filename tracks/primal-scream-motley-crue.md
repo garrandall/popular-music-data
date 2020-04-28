@@ -51,7 +51,7 @@ Primal scream & shout
 Let that mother out
 You just gotta say "hey"
 Primal scream & shout
-Oooh tear it out
+Oh tear it out
 You just gotta say
 
 Janou said
@@ -64,12 +64,6 @@ When daddy was a young man
 His home was living hell
 Mama tried to be so perfect
 Now her mind's a padded cell, ya
-
-
-
-
-
-
 
 Hey man, get out of my face
 I deal with my problems at my own pace

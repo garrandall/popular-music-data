@@ -97,7 +97,7 @@ Hold on, ready or not (Ready or not)
 You live for the fight when that's (all that you got)
 
 
-Oooooh, (Start me up) We're halfway there
+Oh, (Start me up) We're halfway there
 
 
 We're halfway there (Woah! Livin' on a prayer!)
@@ -107,7 +107,7 @@ Livin' on a prayer!
 Take my hand and we’ll make it I swear (Mercedes: Make it I swear, yeah)
 
 
-Oooh! Livin' on a prayer!
+Oh! Livin' on a prayer!
 
 
 Start me up (If you start me up, I'll never stop)

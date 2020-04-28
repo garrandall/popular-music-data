@@ -98,7 +98,7 @@ Well, a hush fell over the pool room
 Jimmy come boppin' in off the street
 And when the cuttin' was done
 The only part that wasn't bloody
-Was the soles of the big man's feet, ooh
+Was the soles of the big man's feet, oh
 And he was cut in about a hundred places
 And he was shot in a couple more
 And you better believe

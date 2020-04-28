@@ -61,10 +61,10 @@ rankings:
   start_date: '1995-12-16'
 ---
 
-...Let your body go 
-put you in the mood 
+...Let your body go
+put you in the mood
 let it sue
-feel the funk now 
+feel the funk now
 
 
 let the music take your mind
@@ -80,8 +80,8 @@ or 2 your house
 try 2 do my thing
 let the music play
 
-let your body go 
-put you in the mood 
+let your body go
+put you in the mood
 let it sue
 feel the funk now
 
@@ -89,7 +89,7 @@ feel the funk now
 
 
 
-funk this song of flavour of this beat and i will shake the rhythm
+funk this song of flavour of this beat and I will shake the rhythm
 so take a little time and let your mind relax
 2 this phat track reminiscing on yesterday
 I feel kind of crazy take out my pen
@@ -97,13 +97,8 @@ and I think I am going 2 rhyme
 Nothing else 2 do I'm just a crazyfeel or not
 But 2 feel the funk'?
 
-let your body go 
-put you in the mood 
+let your body go
+put you in the mood
 let it sue love will make you...
 feel the funk now
-
-
-
-
-
 

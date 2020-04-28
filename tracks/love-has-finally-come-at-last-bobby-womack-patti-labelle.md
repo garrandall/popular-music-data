@@ -31,10 +31,10 @@ rankings:
 ---
 Love has finally come at last
 And I'm never gonna give it back
-Ooh, no, no, no
+Oh, no, no, no
 Love has finally come at last
 And I'm never gonna give it back
-Ooh, no, no, no, no, no
+Oh, no, no, no, no, no
 Jut like an old cliche
 One that simply says
 You can't miss what you never had
@@ -58,7 +58,7 @@ In her first love affair
 I doubt if she'd ever do it again
 Would she even care
 But as time pressed on
-Ooh, ooh, the girl caught on
+Oh, oh, the girl caught on
 Nothing more she'd do with the boy
 She seemed to want it, want it, want it
 But there's one side of love
@@ -87,19 +87,19 @@ Baby, baby, baby, baby
 Somebody, understand me now
 Love has finally come at last
 And I'm never gonna give it back
-Ooh, no, no, no
+Oh, no, no, no
 When something happen good to you
 Seem like you just wanna
 Let everybody know, let everybody know
 Ve has finally come at last
 And I'm never gonna give it back
-Ooh, no, no, no, no, no
+Oh, no, no, no, no, no
 Love has finally come at last
 And I'm never gonna give it back
-Ooh, no, no, no
+Oh, no, no, no
 Love has finally come at last
 And I'm never gonna give it back
-Ooh, no, no, no, no, no
+Oh, no, no, no, no, no
 Love has finally come at last
 And I'm never gonna give it back
-Ooh, no, no, no
+Oh, no, no, no

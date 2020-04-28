@@ -216,11 +216,11 @@ If you got beauty, beauty, just raise 'em up
 'Cause every inch of you is perfect from the bottom to the top
 
 Yeah, my mama she told me "don't worry about your size"
-(Shoo wop wop, sha-ooh wop wop)
+(Shoo wop wop, sha-ohwop wop)
 She says, "Boys like a little more booty to hold at night"
 (That booty, uh, that booty booty)
 You know I won't be no stick figure silicone Barbie doll
-(Shoo wop wop, sha-ooh wop wop)
+(Shoo wop wop, sha-ohwop wop)
 So if that's what you're into, then go 'head and move along
 
 Because you know I'm all about that bass
@@ -239,7 +239,7 @@ But I'm here to tell you...
 Every inch of you is perfect from the bottom to the top
 
 Yeah my mama she told me, "don't worry about your size"
-(Shoo wop wop, sha-ooh wop wop)
+(Shoo wop wop, sha-ohwop wop)
 She says, "Boys like a little more booty to hold at night"
 (That booty booty, uh, that booty booty)
 You know I won't be no stick figure, silicone Barbie doll
@@ -276,4 +276,4 @@ I'm all about that bass
 I'm all about that bass
 Bout that bass...
 Hey!
-Yeah yeah... ohh... You know you like this bass... Hey...
+Yeah yeah... oh... You know you like this bass... Hey...

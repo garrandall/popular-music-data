@@ -28,14 +28,14 @@ They try so hard to break out of their little worlds
 You wave your hand and they scatter like crows
 They have nothing that'll ever capture your heart
 They're just thorns without the rose
-Ooh, be careful of 'em in the dark
+Oh, be careful of 'em in the dark
 Oh if I was the one
 You chose to be your only one
 Can't you hear me now
 Can't you hear me now
 
 Will I see you tonight
-Ooh, on a downtown train
+Oh, on a downtown train
 Every night it's just the same
 You leave me lonely, now
 
@@ -53,7 +53,7 @@ Baby, on a downtown train
 Every night, every night, is just the same
 You leave me lonely, now
 Will I see you tonight
-Ooh, on a downtown train
+Oh, on a downtown train
 All my dreams just fall like rain
 All upon a downtown train
 
@@ -75,7 +75,7 @@ Will I see you tonight
 On a downtown train
 All my dreams just fall like rain
 All upon a downtown train
-Ooh-ooh-ooh-ooh Ooh-wo-ooh
+Oh-ohoohhohh-wo-ohoh
 
 
 

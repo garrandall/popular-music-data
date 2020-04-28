@@ -59,7 +59,3 @@ Land of milk and honey
 One day will wake up from this dream and we'll stop sleeping,
 Oh, yo, then we'll see clearly
 
-
-
-
-

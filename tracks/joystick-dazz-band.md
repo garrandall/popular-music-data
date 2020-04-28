@@ -63,7 +63,7 @@ Baby, I'm your joystick
 Your joystick, baby
 I can do anything
 That you want me to do
-Ooh, ooh, yeah
+Oh oh yeah
 
 I can prove that love
 Is just like a video game

@@ -64,7 +64,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-29'
 ---
-Verse 1
 Well, I can wash out forty-four pairs of socks
 And hang them  on the line
 I can starch and iron two dozen shirts
@@ -74,14 +73,12 @@ Full of lard from the drippin's can
 Throw it in the skillet, do my shopping
 And be back before it melts in the pan
 
-Chorus
 Cause I'm a woman
 W-O-M-A-N
 Let me tell you again
 I'm a woman
 W-O-M-A-N
 
-Verse 2
 Well, I can rub and scrub till this house
 Shines just like a dime
 Feed the baby, grease the car and
@@ -91,14 +88,12 @@ Go out and swing till five a.m. and then
 Jump in bed at five, get up at six
 And start all over again
 
-Chorus
 Cause I'm a woman
 W-O-M-A-N
 Let me tell you again
 I'm a woman
 W-O-M-A-N
 
-Verse 3
 If you come to me sick, you know
 I'm gonna make you well
 If you come to me all hexed up
@@ -108,13 +103,11 @@ You know I'll feed you full o' my grits
 If it's lovin' you want, I can kiss
 And give you the shiverin fits
 
-Verse 4
 I got a twenty dollar gold piece says
 There ain't nothin I can't do
 I can make a dress out of a feed bag
 And make a man out of you
 
-Chorus
 Cause I'm a woman
 W-O-M-A-N
 Let me tell you again
@@ -123,7 +116,6 @@ W-O-M-A-N
 And that's all
 That's all
 
-Outro
 What more do you want
 What more do you need
 I'm a woman

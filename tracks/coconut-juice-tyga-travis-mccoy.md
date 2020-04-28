@@ -40,9 +40,6 @@ Ice so bright make a fight scene in the club
 Donnnn't test, cause there's beams in the club
 Red beams in the club leave your jeans full of blood
 
-
-
-
 Commmme back! DJ, can I get a replay?
 Ay, ay, ay, HEY! Ay, ay, ay, HEY!
 I think the artist name, was like Tyga mayne
@@ -52,9 +49,6 @@ Rap's most important person, so po-tent
 And I'm up in this thing with my thing up
 And she shakin that thing her momma gave her
 
-
-
-
 Ha~! Hope you're not tired
 This is just a breakdown
 
@@ -63,9 +57,6 @@ Br-br-br-br-br-break down like Britney, forgive me but I said it
 Whether you're notty dreaded or crazy baldheaded
 Jump up if you love it, no guns in this jammy
 So what he's my cousin, sexy runs in the family
-
-
-
 
 Hey - ay, ay, ay, HEY! Ay, ay, ay, HEY!
 Hey - ay, ay, ay, HEY! Ay, ay, ay, HEY!

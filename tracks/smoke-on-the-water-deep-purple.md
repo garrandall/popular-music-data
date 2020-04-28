@@ -101,9 +101,6 @@ Smoke on the water
 (And fire in the sky)
 Smoke on the water
 
-
-
-
 We ended up at the Grand Hotel
 It was empty cold and bare
 But with the Rolling-truck-Stones-thing just outside

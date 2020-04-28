@@ -132,11 +132,6 @@ You knew that I lied
 In my heart
 I feel untrue
 
-
-
-
-
-
 Oh, I know
 I know, I know
 I know it's wrong

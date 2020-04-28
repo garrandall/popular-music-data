@@ -103,10 +103,10 @@ Oh, uh huh
 
 Gitchie, gitchie, ya-ya, da-da (hey, hey, hey)
 Gitchie, gitchie, ya-ya, here (here)
-Mocha Chocolata, ya-ya (ooh, yeah)
+Mocha Chocolata, ya-ya (oh yeah)
 Creole Lady Marmalade
 (What what, what what)
-Ooh, oh
+Oh oh
 
 Voulez-vous coucher avec moi, ce soir?
 Voulez-vous coucher avec moi?
@@ -117,14 +117,14 @@ Boy drank all that Magnolia wine
 On her black satin sheets' where he started to freak, yeah
 
 Gitchie, gitchie, ya-ya, da-da (da-da-da)
-Gitchie, gitchie, ya-ya, here (ooh, yeah, yeah)
+Gitchie, gitchie, ya-ya, here (oh yeah, yeah)
 Mocha Chocolata, ya-ya (yeah, yeah)
 Creole Lady Marmalade
 
 Voulez-vous coucher avec moi, ce soir?
 (Ce soir, what, what, what)
 Voulez-vous coucher avec moi?
-Oooh
+Oh
 
 Yeah, yeah, uh
 We come through with the money and the garter belts
@@ -143,8 +143,8 @@ Mocha Chocolata (what)
 Creole Lady Marmalade
 One more time, come on now
 
-Marmalade (ooh, oh)
-Lady Marmalade (ooh, yeah, yeah)
+Marmalade (oh oh)
+Lady Marmalade (oh yeah, yeah)
 Marmalade (no, oh, yeah)
 
 Hey, hey, hey
@@ -159,7 +159,7 @@ But when he turns off to sleep, memories creep
 More (more), more (more), more
 
 Gitchie, gitchie, ya-ya, da-da (da-da, yeah)
-Gitchie, gitchie, ya-ya, here (ooh)
+Gitchie, gitchie, ya-ya, here (oh
 Mocha Chocolata, ya-ya (yeah)
 Creole Lady Marmalade
 
@@ -171,9 +171,9 @@ Voulez vous coucher avec moi (c'mon! Uh)
 Christina (hey, oh)
 P!nk (Lady Marmalade)
 Lil' Kim (hey, hey, uh-huh, uh-huh, uh-huh, uh-huh)
-Mya (oh, oh, ooh)
+Mya (oh, oh, oh
 Rockwilder, baby (baby)
 Moulin Rouge (oh)
 Misdemeanor here
 Creole Lady Marmalade
-Ooh, ooh, yes-ah
+Oh oh yes-ah

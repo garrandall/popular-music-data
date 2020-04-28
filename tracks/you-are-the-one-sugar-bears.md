@@ -73,7 +73,7 @@ And I want to spent the rest of my life with you.
 You brighten up the world with everything you do.
 Baby, you're my morning sun
 You are the one.
-Oooh baby, you're my morning sun
+Oh baby, you're my morning sun
 You are the one.
 
 Ever since I can remember
@@ -94,4 +94,4 @@ I want you more than maybe
 Tell me, tell me
 You could love me too
 
-Ooh baby, you're my morning sun
+Ohbaby, you're my morning sun

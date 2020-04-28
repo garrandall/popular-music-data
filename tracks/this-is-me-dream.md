@@ -112,7 +112,6 @@ I'm not the others who just took your heart and ran
 But every time you say those things you make me feel so bad
 Why can't you just give me a chance? (yeah-ee-yeah yeah)
 
-(Chorus)
 
 
 Now understand when I met you, it was love at first sight

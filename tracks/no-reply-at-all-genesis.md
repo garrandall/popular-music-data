@@ -82,18 +82,18 @@ rankings:
 ---
 
 Talk to me, you never talk to me.
-Ooh, it seems that I can speak.
+Oh, it seems that I can speak.
 But I can hear my voice shouting out.
 But there's no reply at all.
 
 Look at me, you never look at me,
-Ooh, I've been sitting, staring, seems so long.
+Oh, I've been sitting, staring, seems so long.
 But you're looking through me
 Like I wasn't here at all.
 No reply, there's no reply at all.
 
 Dance with me, you never dance with me.
-Ooh, it seems that I can move,
+Oh, it seems that I can move,
 I'm close to you, close as I can get.
 
 Yet there's no reply at all,
@@ -105,7 +105,7 @@ What excuse are you tryin' to sell me?
 Should I be reading stop or go, I don't know.
 
 Be with me, seems you're never here with me,
-Ooh, I've been trying to get over there.
+Oh, I've been trying to get over there.
 Ah, but it's out of my reach.
 And there's no reply at all.
 There's no reply at all.
@@ -125,7 +125,7 @@ Oh but my back is up.
 I'm on my guard - with all the exits sealed.
 
 Listen to me, you never listen to me,
-Ooh, and it seems there's no way out,
+Oh, and it seems there's no way out,
 I've been trying, but we cannot connect,
 And there's no reply at all,
 There's no reply at all,

@@ -146,7 +146,7 @@ You're not the one for me, no
 I can't control you
 You can't control me
 I need to feel you
-So why's there even you and me.....
+So why's there even you and me...
 
 
 You're not the one for me, no

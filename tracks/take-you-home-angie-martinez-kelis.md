@@ -56,7 +56,7 @@ Place hot, couple of bottles, champagne popped (yeah yeah)
 And that's how we doin' it now
 I'm scheming while the DJ's movin' the crowd
 
- (2x)
+
 I was wondering
 If I could take you home (if I could take you home)
 But would you still love me baby (would you still love me babe)
@@ -105,9 +105,6 @@ Standing by the coat checkers
 Looking for my parking lot ticket, that's it!
 And this night just ended
 Can't say with who, what, or where but it'll definitely be remembered
-
-
-
 
 Would you be my boyfriend? {3X}
 For tonight only

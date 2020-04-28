@@ -49,7 +49,7 @@ The queen of the roller derby
 Oh, as fast as a bullet she can jam all night
 Makes a full grown wonder bull die with fright
 When we get home alone in love
-She murmurs like a sweet moaning dove, ooh
+She murmurs like a sweet moaning dove, oh
 
 Oh, such a lady, she's quite a child
 She'll make me feel good in this heart of mine
@@ -69,7 +69,7 @@ O queen of the roller derby
 (Queen of the roller derby)
 The queen of the roller derby
 (Queen of the roller derby)
-Ooh
+Oh
 
 
 

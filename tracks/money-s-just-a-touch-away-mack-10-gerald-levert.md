@@ -57,9 +57,6 @@ Sellin underground tapes out the local swap meet
 Gettin tighter on the mic, as I worked day to day
 So now I lay down at night, and I hear voices say, "Mack"
 
-
-
-
 Now I'm new to the scene, H as in Hard, N as in Nympho
 So like EPMD, could you "Please Listen to My Demo?"
 I left the local crew, felt like I was the man
@@ -77,9 +74,6 @@ Put me on the backburner and just forgot all about me
 Partna said I wasn't fresh, and sent me on my way, but you know what?
 As I was leavin, I could hear voices say, "Mack"
 
-
-
-
 Now the tables turned, but I remember they used to clown me
 The hard work paid off, and luck finally found me
 So call every publication, Billboard and the editor
@@ -96,9 +90,6 @@ Plus the violence is ceased, no more bi-coastal beef
 Cause now I get down with the North South and the East
 I reminisce on hard times, seem like yesterday, but now
 Hoo Bangin' is official and I remember they used to say, "Mack"
-
-
-
 
 Money's just a touch, just a simple touch
 Money's just a touch away..

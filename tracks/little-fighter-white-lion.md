@@ -80,7 +80,7 @@ Does anybody care
 Rise again little fighter
 And let the world know the reason why
 Shine again little fighter
-And dont let 'em end the things you do
+And don't let 'em end the things you do
 
 And you were one with a cause
 And a reason to be

@@ -86,17 +86,11 @@ But you're like a shadow
 That hides in the night
 When will it end?
 
-
-
-
 Tell me, am I crazy? Is it me?
 Or are you far too blind to see?
 Tell me why, tell me why
 Tell me why can't love be like I want it to be?
 Oh no
-
-
-
 
 Are you lonely?
 Are you wanting someone

@@ -105,7 +105,7 @@ Stuck, unable to breathe through the Chronic
 Cloud that somehow prevents me from installin' fresh air
 
 
-Ahh, Indosmoke
+Ah, Indosmoke
 Pass me the joint so I can take a toke
 1 puff, 2 puff, 3 puff, 4 puff, 5 I'm feelin real high
 Lean into the side in my muthafuckin' ride
@@ -131,7 +131,7 @@ I never feel stressed and that's the realist
 Just a proper herb for my chronic illness
 Please, let me go on with my day
 Relax with phat tracks and a real fat J
-Ooh, I think I'm in love
+Oh, I think I'm in love
 Astounded from what it did, sended me far above
 On a fly toke, I can brag for days
 You can't swim with Grimm

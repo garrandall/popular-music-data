@@ -89,7 +89,7 @@ I'm coming home
 I took a ride in a world
 I'll be spinnin' for the rest of my life
 I feel your heart beatin' baby
-Ooh sometimes it cuts like a knife
+Oh sometimes it cuts like a knife
 
 So are you tough enough for my love
 Just close your eyes to the heaven above
@@ -117,14 +117,14 @@ I'm on my way
 I'm coming home
 I'm coming home
 Here we go
-Ooh yea, ooh yea
+Oh yea, oh yea
 I'm on my way
 
 Come on baby, Come on
 Let your love, shine on me
 I'm on my way, Sing along
 Shine on, Shine on, Shine on me
-I'm on my way, Ahh yea
+I'm on my way, Ah yea
 Shine on me
 
 I'm on my way

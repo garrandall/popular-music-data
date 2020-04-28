@@ -164,7 +164,7 @@ Brown skin or a yellow-bone
 DJ this my favorite song
 So I'ma make it thunderstorm
 Flood warning, Flocka yea
-Blowin' fuck it I dont care
+Blowin' fuck it I don't care
 Dreads is flyin' everywhere
 Tap my partner Roscoe, like bruh
 I'm drunk as hell, can't you tell?

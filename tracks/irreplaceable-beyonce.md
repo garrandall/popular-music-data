@@ -130,7 +130,7 @@ rankings:
 ---
 
 To the left, to the left
-To the left, to the left (mmmmmm)
+To the left, to the left (mmm)
 To the left, to the left
 
 Everything you own in the box to the left
@@ -185,7 +185,7 @@ I won't lose a wink of sleep
 Replacing you was so easy
 
 To the left, to the left
-To the left, to the left (mmmmmm)
+To the left, to the left (mmm)
 To the left, to the left
 Everything you own in the box to the left
 To the left, to the left

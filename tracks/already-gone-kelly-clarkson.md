@@ -173,8 +173,8 @@ I'm already gone, already gone
 There's no moving on, so I'm already gone
 
 
-Ahh, already gone, already gone, already gone (Ooh, oh)
-Ahh, already gone, already gone, already gone, yeah
+Ah, already gone, already gone, already gone (Oh, oh)
+Ah, already gone, already gone, already gone, yeah
 
 
 Remember all the things we wanted

@@ -121,7 +121,7 @@ rankings:
   start_date: '1989-03-11'
 ---
 
-Aruba, Jamaica, ooh I wanna take ya
+Aruba, Jamaica, oh I wanna take ya
 Bermuda, Bahama, come on pretty mama
 Key Largo, Montego,
 baby why don't we go,
@@ -138,11 +138,11 @@ to the rhythm of a steel drum band
 Down in Kokomo
 
 
-Aruba, Jamaica, ooh I wanna take you to
+Aruba, Jamaica, oh I wanna take you to
 Bermuda, Bahama, come on pretty mama
 Key Largo Montego,
 baby why don't we go
-Ooh I wanna take you down to Kokomo,
+Oh I wanna take you down to Kokomo,
 we'll get there fast
 and then we'll take it slow
 That's where we wanna go,

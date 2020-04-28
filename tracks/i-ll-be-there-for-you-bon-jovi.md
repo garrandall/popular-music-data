@@ -129,9 +129,6 @@ When you breathe I want to be the air for you, I'll be there for you
 I'd live and I'd die for you, I'd steal the sun from the sky for you
 Words can't say what love can do, I'll be there for you
 
-
-
-
 And I wasn't there when you were happy
 (And I wasn't there to make you happy)
 I wasn't there when you were down

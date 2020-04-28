@@ -69,13 +69,13 @@ Check this!
 Riding down the city streets
 Waiting to get down
 Won't you paint your favorite dreams
-Somewhere in this town, ooh ooh
+Somewhere in this town, ohooh
 Now in the parking lot garage, I found the proper place
 Pull up in the middle, baby, and fit into my space
 
 
 Pull up to my bumper baby
-In your long black limousine, ooh ooh
+In your long black limousine, ohooh
 Pull up to my bumper baby
 Drive it in between
 
@@ -104,15 +104,15 @@ Please don't overturn
 
 
 Operate around the clock
-Won't you just come in? ooh ooh
+Won't you just come in? ohooh
 I got plans for everyone
-One for you my friend, ooh ooh
+One for you my friend, ohooh
 I'm not sure where to go, but I must find a place
 Come into my bedroom, baby, and fit into my space
 
 
 Pull up to my bumper baby
-In your long black limousine, ooh ooh
+In your long black limousine, ohooh
 Pull up to my bumper baby
 Drive it in between
 
@@ -126,19 +126,19 @@ Feels good? It's nice
 Riding down the city streets
 Waiting to get down
 Won't you paint your favorite dreams
-Somewhere in this town, ooh ooh
+Somewhere in this town, ohooh
 In the parking lot garage I found the proper place
 Come into the middle, baby, and fit into my space
 
 
 Pull up to my bumper baby
-In your long black limousine, ooh ooh
+In your long black limousine, ohooh
 Pull up to my bumper baby
 Drive it in between
 
 
 Check this!
 Pull up to my bumper baby
-In your long black limousine, ooh ooh
+In your long black limousine, ohooh
 Pull up to my bumper baby
 Drive it in between

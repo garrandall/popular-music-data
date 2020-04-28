@@ -121,7 +121,7 @@ We'll be strong and we'll be together
 Right on, right on
 
 Yeah yeah yeah yeah yeah yeah yeah yeah
-Ah, my baby, my baby, ooh ooh
+Ah, my baby, my baby, ohooh
 What am I, what am I gonna do? What am I gonna do with you, girl?
 Oh, what am I gonna do? What am I gonna do with you, girl?
 I'm gonna love you, baby - that's what I'm gonna do

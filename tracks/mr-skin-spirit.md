@@ -28,7 +28,7 @@ Na, na, na, na, na, na, na, na, na, na
 A, hey, hey
 
 
-Ooh, I'm rolling flowing through the whole population
+Oh, I'm rolling flowing through the whole population
 (Mr. Skin you know where you've been)
 Oh, the high and the low born are my friends and relations
 (Mr. Skin you know where you've been)

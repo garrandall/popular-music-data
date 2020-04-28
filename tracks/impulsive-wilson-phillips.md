@@ -117,7 +117,7 @@ You're giving me a feeling
 It's a sudden rush
 Acting on the moment
 Spontaneous, woh
-Ooh this is not like me
+Oh this is not like me
 To follow my heart so easily
 
 I am reckless... Impulsive

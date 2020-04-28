@@ -77,7 +77,3 @@ But then comes the night
 Instead I walk the floor
 Till the light
 
-
-
-
-

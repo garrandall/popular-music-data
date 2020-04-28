@@ -86,8 +86,8 @@ I'm in love with a plain and simple girl
 She takes my heart and sends me for a whirl
 I'm on the wings of love and I don't take care where I go
 Because when we reach that star we both will know
- Ooh
-Our love was meant to be, baby, ooh
+ Oh
+Our love was meant to be, baby, oh
 
 I want some lovin' tonight
 Some old-fashion love, baby

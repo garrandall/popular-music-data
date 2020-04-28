@@ -131,4 +131,4 @@ I am half, you are half
 
 Look how far we have come
 One and one still is one ah
-Ooh
+Oh

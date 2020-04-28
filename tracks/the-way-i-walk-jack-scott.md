@@ -80,7 +80,7 @@ Doo doo doo doo bap
 Just hit a little more
 Doo doo doo doo bap
 That's about right
-Oooh, oooh, oooh
+Oh, oh, oh
 Now, talk to me
 
 The way you love me's got to suit my style
@@ -92,10 +92,10 @@ Doo doo doo doo bap
 Doo doo doo doo bap
 Doo doo doo doo bap
 Doo doo doo doo bap
-Oooh, oooh, oooh
+Oh, oh, oh
 
 Doo doo doo doo bap
 Doo doo doo doo bap
 Doo doo doo doo bap
 Doo doo doo doo bap
-Oooh, oooh, oooh
+Oh, oh, oh

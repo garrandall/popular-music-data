@@ -33,7 +33,7 @@ Like I'm real, real cool
 Gotta dance like a fool
 Got the message that
 I gotta be a wild one (wild, wild child)
-Ooh, yeah, I'm a wild one (wild, wild child)
+Oh, yeah, I'm a wild one (wild, wild child)
 
 
 Gonna break it loose
@@ -46,7 +46,7 @@ Gonna have myself a ball
 Gonna tell my friends
 Gonna tell them all
 That I'm a wild one (wild, wild child)
-Ooh yeah, I'm a wild one (wild, wild child)
+Oh yeah, I'm a wild one (wild, wild child)
 
 
 Well I'm a real wild one
@@ -54,7 +54,7 @@ And I like wild fun
 In a world gone crazy
 Everything seems hazy
 I'm a wild one (wild, wild child)
-Ooh huh, I'm a wild one (wild, wild child)
+Oh huh, I'm a wild one (wild, wild child)
 
 
 Gotta dance my way
@@ -62,7 +62,7 @@ I'm a real wild child
 Don't you have my way
 Gonna start a-running wild
 'Cause I'm a wild one (wild, wild child)
-Ooh yeah, I'm a wild one (wild, wild child)
+Oh yeah, I'm a wild one (wild, wild child)
 
 
 Wanna know my name?

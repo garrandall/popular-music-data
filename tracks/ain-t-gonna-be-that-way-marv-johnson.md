@@ -38,22 +38,22 @@ rankings:
 ---
 If you think that when you leave me
 You're gonna make me cry
-Ooh ho, no no no, it ain't gonna be that way.
+Ohho, no no no, it ain't gonna be that way.
 Woo ho, no no no, it ain't gonna be that way.
 If you think that cause I love you
 You can treat me wrong
-Ooh ho, no no no, it ain't gonna be that way.
+Ohho, no no no, it ain't gonna be that way.
 Woo ho, no no no, it ain't gonna be that way.
 You're gonna be sorry for the way you made me cry
 You're gonna be so sorry for telling me those evil lies.
 
 Your loving somebody new.
-Ooh ho, no no no, it ain't gonna be that way.
+Ohho, no no no, it ain't gonna be that way.
 Woo ho, no no no, it ain't gonna be that way.
 You're gonna be sorry for the way you made me cry
 You're gonna be so sorry for telling me those evil lies.
 If you think that it will grieve me
 Your loving somebody new.
-Ooh ho, no no no, it ain't gonna be that way.
+Ohho, no no no, it ain't gonna be that way.
 Woo ho, no no no, it ain't gonna be that way.
 No no no no no no no (fade)

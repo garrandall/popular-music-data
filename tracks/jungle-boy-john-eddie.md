@@ -74,7 +74,6 @@ Been after me for years, but I ain't been got
 I got a mean set of wheels, and Lord he can't catch me
 I lay some wheel and man I'm gone, a real cool breeze
 
-Chorus
 
 Hey Mrs. Jackson, man, I know it's late
 It's about your daughter now, and it can't wait

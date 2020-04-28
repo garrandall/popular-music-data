@@ -110,9 +110,9 @@ You know we had to do it again, right?
 We had to do it again, boy
 Want you to sing to these ladies, man
 
-(Ohh-oh-oh-ohh)
+(Ohh-oh-oh-oh)
 A'ight, so I'm up first? A'ight, lemme have it...
-(Ohh-oh-oh-ohh)
+(Ohh-oh-oh-oh)
 Let's do it...
 
 Baby, how ya doin'?
@@ -124,13 +124,13 @@ V.I.P. done got way too crowded,
 I'm about to end up callin' it a night,
 You should holla at 'cha girl, tell her you shake it and seized,
 Pull off, beep-beep, shotgun in the GT with me
-She said, "Ohhh-ohhh, I'm ready to ride, yeah,"
+She said, "Ohhh-oh, I'm ready to ride, yeah,"
 "'Cause once you get inside, you can't change your mind,"
-"Don't mean to sound impatient, but you gotta promise, baby, ohh..."
+"Don't mean to sound impatient, but you gotta promise, baby, oh..."
 
 Tell me again (Tell me again, my baby),
 That we'll be Lovers and Friends (Ohh, I gotta know, baby, aw yeah)
-Tell me again (Make sho' you right, ohh, before we leave),
+Tell me again (Make sho' you right, oh, before we leave),
 That we'll be Lovers and Friends (Ohh, it's a good look, baby)...
 
 Sometimes wanna be your lover,
@@ -172,12 +172,12 @@ Shawty, let me hear ya tell me one mo' time... one mo' time...
 
 Tell me again (Tell me again, my baby),
 That we'll be Lovers and Friends (Ohh, it's a good look, baby)
-Tell me again (Make sho' you right, ohh, before we leave),
+Tell me again (Make sho' you right, oh, before we leave),
 That we'll be Lovers and Friends (Tell me over-and-over-and-over again)...
 
 Oh-oh-hoo
 Oh-oh-hoo
-Oh-oh-hoo-ohhhh-yeaaah...
+Oh-oh-hoo-oh-yeah...
 Please tell your Lovers and Friends,
 That Usher, Jon, and Luda had to do it again (Hey! (Hey!)
 Please tell your Lovers and Friends,

@@ -96,8 +96,8 @@ I've been sleeping all alone
 I want to kiss you sometime
 
 
-Ooh, ooh, ooh-ooh-ooh
-Ooh, ooh, ooh-ooh-ooh
+Oh, oh oohhohoh
+Oh, oh oohhohoh
 
 
 Well, I've been haunted in my sleep
@@ -130,8 +130,8 @@ Sometimes, I want to say to, to myself
 Sometimes I say
 
 
-Ooh, ooh, ooh-ooh-ooh
-Ooh, ooh, I won't miss you child
+Oh, oh oohhohoh
+Oh, oh I won't miss you child
 
 
 I guess I'm lying to myself

@@ -148,7 +148,7 @@ And I thought I loved you then
 And I thought I loved you then
 
 
-Ooo ooo ooo ooo ooo
-Ooo ooo ooo ooo ooo
-Ooo ooo ooo ooo ooo
-Ooo ooo ooo ooo ooo
+Ooo oo oo oo oo
+Ooo oo oo oo oo
+Ooo oo oo oo oo
+Ooo oo oo oo oo

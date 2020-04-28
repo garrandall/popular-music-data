@@ -73,7 +73,7 @@ What feeling when you push it up, push it down.
 You gotta push it up, push it down. Feel good.
 George Michael or Marvin Gaye
 It still is the same in you.
-Baby don't tease. Ooh, just please
+Baby don't tease. Oh, just please
 'cause you know it's just me and you.
 All or nothing, push, it's got to be.
 Something's gotta show when you're livin' under heat.
@@ -89,7 +89,7 @@ Just keep it wet and my seven forty jet
 Is pushing right on high.
 George Michael or Marvin Gaye
 It still is the same in you.
-Baby don't tease. Ooh, just please
+Baby don't tease. Oh, just please
 'cause you know it's just me and you.
 All or nothing, push, it's got to be.
 Something's gotta show when you're livin' under heat.

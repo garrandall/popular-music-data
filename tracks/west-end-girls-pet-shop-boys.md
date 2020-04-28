@@ -123,7 +123,7 @@ West end girls
 
 In a west end town a dead end world
 The east end boys and west end girls
-Ooh, west end town a dead end world
+Oh, west end town a dead end world
 East end boys west end girls
 West end girls
 West end girls

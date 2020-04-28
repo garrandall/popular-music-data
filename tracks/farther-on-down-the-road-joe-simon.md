@@ -42,7 +42,7 @@ rankings:
 ---
 Alright
 Baby, you're alright
-Ooh honey, you're alright
+Oh honey, you're alright
 Farther on down the road
 You will accompany, oh yeah
 Farther on down the road

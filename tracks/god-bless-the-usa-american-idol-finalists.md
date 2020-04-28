@@ -49,12 +49,12 @@ Coz the flag don't stand for freedom
 And they can't take that away
 
 And i'm proud to be an american
-Where at least i know i'm free
-And i won't forget the man who died
+Where at least I know i'm free
+And I won't forget the man who died
 Who gave that right to me
-And i gladly stand up next to you
+And I gladly stand up next to you
 And defend here still today
-Cause there ain't no doubt i love this land
+Cause there ain't no doubt I love this land
 God bless the usa
 
 From the lakes of metastoda
@@ -67,20 +67,20 @@ Well theres pride in every american heart
 And its time we stand as say
 
 And i'm proud to be an american
-Where at least i know i'm free
-And i won't forget the man who died
+Where at least I know i'm free
+And I won't forget the man who died
 Who gave that right to me
-And i gladly stand up
+And I gladly stand up
 Next to you
 And defend here still today
-Cause there ain't no doubt i love this land
+Cause there ain't no doubt I love this land
 God bless the usa
 
 And i'm proud to be an american
-Where at least i know i'm free
-And i won't forget the man who died
+Where at least I know i'm free
+And I won't forget the man who died
 Who gave that right to me
-And i gladly stand up
+And I gladly stand up
 Next to you and defend here still today
-Cause there ain't no doubt i love this land
+Cause there ain't no doubt I love this land
 God bless the usa

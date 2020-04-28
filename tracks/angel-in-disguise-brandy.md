@@ -117,7 +117,3 @@ I will never do the things she did
 Take my heart and run away with it oh no
 'Cause I really really love you
 
-
-
-
-

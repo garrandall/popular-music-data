@@ -140,7 +140,3 @@ I'm blessed, and I know I am
 'Cause God has a place in Heaven
 For a small town Southern man
 
-
-
-
-

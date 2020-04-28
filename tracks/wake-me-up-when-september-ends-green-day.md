@@ -139,9 +139,6 @@ Drenched in my pain again, becoming who we are
 As my memory rests, but never forgets what I lost
 Wake me up when September ends
 
-
-
-
 Summer has come and passed, the innocent can never last
 Wake me up when September ends
 Like my father's come to pass, twenty years has gone so fast

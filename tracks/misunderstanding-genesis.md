@@ -105,7 +105,7 @@ You were late
 Since then I've been running around trying to find you
 I went to the places that you always go
 I rang your house but got no answer
-Jumped in my car, i went round there
+Jumped in my car, I went round there
 I still don't believe it
 He was just leaving
 

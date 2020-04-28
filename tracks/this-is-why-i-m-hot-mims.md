@@ -105,7 +105,7 @@ This is why I'm hot, yeah
 This is why, This is why
 This is why I'm hot, huh
 This is why I'm hot
-This is why I'm hot, ooh
+This is why I'm hot, oh
 This is why, this is why
 This is why I'm hot
 
@@ -158,7 +158,7 @@ This is why I'm hot, yeah
 This is why, this is why
 This is why I'm hot, uh
 This is why I'm hot
-This is why I'm hot, ooh
+This is why I'm hot, oh
 This is why, this is why
 This is why I'm hot
 
@@ -205,7 +205,7 @@ This is why I'm hot, yeah
 This is why, this is why
 This is why I'm hot, uh
 This is why I'm hot
-This is why I'm hot, ooh
+This is why I'm hot, oh
 This is why, this is why
 This is why I'm hot
 
@@ -257,7 +257,7 @@ This is why I'm hot, yeah
 This is why, this is why
 This is why I'm hot, uh
 This is why I'm hot
-This is why I'm hot, ooh
+This is why I'm hot, oh
 This is why, this is why
 This is why I'm hot
 

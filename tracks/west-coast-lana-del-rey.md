@@ -33,7 +33,7 @@ Your love, your love, your love
 I can see my baby swinging
 His Parliament's on fire and his hands are up
 On the balcony and I'm singing
-Ooh, baby, ooh, baby, I'm in love
+Oh, baby, oh baby, I'm in love
 
 I can see my sweet boy swaying
 He's crazy y Cubano como yo, my love
@@ -59,7 +59,7 @@ Your love, your love, your love
 I can see my baby swinging
 His Parliament's on fire and his hands are up
 On the balcony and I'm singing
-Ooh, baby, ooh, baby, I'm in love
+Oh, baby, oh baby, I'm in love
 
 I can see my sweet boy swaying
 He's crazy y Cubano como yo, my love
@@ -69,7 +69,7 @@ Move baby, move baby, I'm in love
 I can see my baby swinging
 His Parliament's on fire and his hands are up
 On the balcony and I'm singing
-Ooh, baby, ooh, baby, I'm in love
+Oh, baby, oh baby, I'm in love
 
 I can see my sweet boy swaying
 He's crazy y Cubano como yo, my love

@@ -59,7 +59,7 @@ And i'll take care of your cares
 Mmm, just let me be your one ray of sweet old sunshine
 'cause maybe you'll remember somewhere, sometime
 
-'n' i won't scold you for your mistakes
+'n' I won't scold you for your mistakes
 'n' i'll just hold you when your heart aches
 So please keep me in your thoughts, your dreams, and your prayers
 And i'll take care of your cares

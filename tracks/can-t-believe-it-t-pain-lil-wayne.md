@@ -129,11 +129,11 @@ Let's talk about you and me
 
 
 Oh, I can't believe it
-Ooo ooo she all on me, on me
+Ooo oo she all on me, on me
 Man man I think she want me, want me
 Nah I can't leave her lonely, now
 Oh, I can't believe it
-Ooo ooo she all on me, on me
+Ooo oo she all on me, on me
 Man man I think she want me, want me
 Nah I can't leave her lonely, now
 And you don't understand she make the people say yeah, yeah, yeah
@@ -159,11 +159,11 @@ Let's talk about you and me
 
 
 Oh, I can't believe it
-Ooo ooo she all on me, on me
+Ooo oo she all on me, on me
 Man man I think she want me, want me
 Nah I can't leave her lonely, now
 Oh, I can't believe it
-Ooo ooo she all on me, on me
+Ooo oo she all on me, on me
 Man man I think she want me, want me
 Nah I can't leave her lonely, now
 And you don't understand she make the people say yeah, yeah, yeah
@@ -190,11 +190,11 @@ That's why I got her on my Penthouse Sheets
 
 
 Oh, I can't believe it
-Ooo ooo she all on me, on me
+Ooo oo she all on me, on me
 Man man I think she want me, want me
 Nah I can't leave her lonely, naw
 Oh, I can't believe it
-Ooo ooo she all on me, on me
+Ooo oo she all on me, on me
 Man man I think she want me, want me
 Nah I can't leave her lonely, naw
 And you don't understand she make the people say yeah, yeah, yeah

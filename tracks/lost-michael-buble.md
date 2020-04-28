@@ -20,14 +20,14 @@ If I'd only knew
 The days were slipping past
 That the good things never last
 That you were crying
-Hmmm...
+Hm...
 
 Summer turned to winter
 And the snow it turned to rain
 And the rain turned into tears upon your face
 I hardly recognized the girl you are today
 And, God, I hope it's not too late
-Hmmm...
+Hm...
 It's not too late
 'Cause you are not alone
 I'm always there with you

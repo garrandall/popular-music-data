@@ -37,7 +37,7 @@ I named the boy Nasir, all the boys call him Nas
 I told him as a youngster, he'll be the greatest man alive
 
 
-Let's go!... Hey-Hey-Hey-Hey -- 
+Let's go!... Hey-Hey-Hey-Hey --
 Tribrary of these rap skits, styles I mastered
 Many brothers snatched it up and tried to match it
 But I'm still number one, everyday real
@@ -47,7 +47,7 @@ Keep integrity at every cost, and his home was Natchez Mississippi
 Did it like Miles and Dizzy, now we gettin' busy
 Bridging The Gap from the blues, to jazz, to rap
 The history of music on this track
-Born in the game, discovered my father's music 
+Born in the game, discovered my father's music
 Like Prince searchin' through boxes of Purple Rain
 But my Minneapolis was The Bridge, home of the Superkids
 Some are well-known, some doin' bids
@@ -59,7 +59,7 @@ Gre-Gre-Gre-Gre-Greatest man alive!
 
 
 The blues came from gospel, gospel from blues
-Slaves are harmonizin' them ah's and ooh's
+Slaves are harmonizin' them ah's and oh's
 Old school, new school, know school rules
 All these years I been voicin' my blues
 I'm a artist from the start, Hip-Hop guided my heart
@@ -91,7 +91,7 @@ Nas, Nas you don't stop
 Olu Dara in the house, you don't stop
 Muddy Waters' Howling Wolf you don't stop
 From the Blues to Street Hop you don't stop
-Tell 'em Pop 
+Tell 'em Pop
 
 
 See I come from Mississippi (Let 'em know)

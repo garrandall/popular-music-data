@@ -99,18 +99,12 @@ I've been wanting to fly
 Now I know what you meant to me
 I'm the one who should cry
 
-
-
-
 Ever since you've been leaving me
 I've been wanting to cry
 Now I know how it feels for you
 I've been wanting to die
 
-
-
-
-Ooh, ah
+Oh, ah
 Dit dit dit dit doo
 Ba da ba da ba da ba ba
 Ba ba ba ba ba

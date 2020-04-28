@@ -167,8 +167,8 @@ Yeah, it takes me all the way
 I want you to stay
 
 
-Ooh, ooh, ooh, the reason I hold on
-Ooh, ooh, ooh, 'cause I need this hole gone
+Oh, oh oohthe reason I hold on
+Oh, oh oohcause I need this hole gone
 Funny you're the broken one but I'm the only one who needed saving
 'Cause when you never see the light it's hard to know which one of us is caving
 
@@ -182,7 +182,7 @@ Yeah, it takes me all the way
 
 
 I want you to stay, stay
-I want you to stay, ooh
+I want you to stay, oh
 
 
 

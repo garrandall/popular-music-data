@@ -96,8 +96,8 @@ Hide under the covers and waste away the day
 
 
 Let's just lay here and be lazy, baby drive me crazy
-All I want to do.....
-All I want to do..... is love you
+All I want to do...
+All I want to do... is love you
 
 I got my whole life to change the world and climb ladders
 Looking at you looking at me is the only thing that matters
@@ -109,8 +109,8 @@ Hang a sign on the door, "Please do not disturb"
 Give me a kiss, from that Elvis lip
 You don't want to miss this
 
-All I want to do.....
-All I want to do..... is love you
+All I want to do...
+All I want to do... is love you
 
 All I really want to do is
 All I really want to do is
@@ -125,8 +125,8 @@ All I really want to do is
 When I wake up when I wake up in the morning baby
 All I really want to do is
 
-Ooo......
-Ooo......
+Ooo...
+Ooo...
 
 
 

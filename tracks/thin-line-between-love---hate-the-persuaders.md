@@ -78,14 +78,14 @@ I'm begging you, baby, please, let me down easy
 You don’t know what your doing to me, baby
 I can't keep living in this world all by myself
 Your leaving make my whole world a shamble
-Oh, baby, oh i just can't stand it
+Oh, baby, oh I just can't stand it
 You, you left me, you left me but I'm not to blame
 Oh, no
 
 I'm not trying to be no big thing, lord, no
 I'm not trying to give you no advice
 I don’t claim to be no philosopher
-But i sure know this is'nt right baby, baby
+But I sure know this is'nt right baby, baby
 We should be as one and never, never, never apart
 The thought of me losing you to someone else it breaks my...
 

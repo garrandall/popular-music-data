@@ -116,7 +116,7 @@ The music's playing, a celebration's starting
 Under the street lights the scene is being set
 A night for romance, a night you won't forget
 So, come join the fun, this ain't no time to be staying home
-Ooh, there's too much going on
+Oh, there's too much going on
 Tonight is gonna be a night like you've never known
 We're gonna have a good time the whole night long
 
@@ -126,7 +126,7 @@ To the beat of the rhythm of the night
 Oh, the rhythm of the night, oh yeah
 
 Come join the fun, this ain't no time to be staying home
-Ooh, there's too much going on
+Oh, there's too much going on
 Tonight is gonna be a night like you've never known
 We're gonna have a good time the whole night long
 

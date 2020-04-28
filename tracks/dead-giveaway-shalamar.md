@@ -115,13 +115,13 @@ But emotions are just a little too strong.
 I figure that I'd call your bluff
 Cause you want me to come on by
 Girl you know it's your love I've always wanted
-And this time I wont be denied.
+And this time I won't be denied.
 
 Cause you're a dead giveaway
 Girl you want me like I want you
 A dead giveaway.
 
-You're scared but you wont admit it
+You're scared but you won't admit it
 
 But tonight you're committed
 Cause you're just a dead giveaway.

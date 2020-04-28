@@ -78,7 +78,7 @@ Come on and stir it up, little darling, stir it up
 Come on baby come on and stir it up. little darling, stir it up
 I'll push the wood, I'll blaze your fire
 Then I'll satisfy your heart's desire
-Said I'll stir it up, yeah, ev'ry minute, yeah
+Said I'll stir it up, yeah, every minute, yeah
 All you got to do baby, is keep it in
 And stir it up, little darling, stir it up
 Come on and stir it up, oh, little darling, stir it up, yeah

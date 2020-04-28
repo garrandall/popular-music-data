@@ -178,24 +178,20 @@ Dance with the boogie get down
 Got to keep on dancing, keep on dancing
 Got to keep on dancing, keep on dancing
 
-(Boogie nights, ohh)
+(Boogie nights, oh)
 Got to keep on dancing, keep on dancing
 Got to keep on dancing, keep on dancing
-(Boogie nights, ohh)
+(Boogie nights, oh)
 Got to keep on dancing, keep on dancing
 Got to keep on dancing, keep on dancing
 
-(Boogie nights, ohh)
+(Boogie nights, oh)
 If you wanna boogie, boogie, boogie, boogie nights
-(Boogie nights, ohh)
+(Boogie nights, oh)
 If you wanna boogie, boogie, boogie, boggie nights
 
 
 
 Boogie nights, whoa
 Boogie nights, whoa
-
-
-
-
 

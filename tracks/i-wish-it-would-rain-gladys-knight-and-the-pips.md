@@ -48,7 +48,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-10-26'
 ---
-Ooh-ooh-ooh, hah
+Oh-ohoohhah
 Sunshine, blue skies
 Please go away
 My love has found another
@@ -115,4 +115,4 @@ I want to see it one more time
 Let it pour and I got the power
 To let it rain, not gonna stay inside
 Let it rain, let it rain
-Ohh-ohh-ohh, let it rain, let it rain
+Ohh-oh-oh, let it rain, let it rain

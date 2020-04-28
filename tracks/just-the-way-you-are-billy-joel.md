@@ -151,9 +151,6 @@ And this I promise from the heart
 I could not love you any better
 I love you just the way you are
 
-
-
-
 I don't want clever conversation
 I never want to work that hard
 I just want someone that I can talk to

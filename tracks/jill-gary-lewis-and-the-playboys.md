@@ -49,12 +49,12 @@ Jill is only a dream
 All my life, I've done crazy things
 Gonna find a bird that sings to me
 
-La la, you, la la la, ooo ooo
+La la, you, la la la, oo oo
 
 Jill, are you thinking of me?
 I'll be thinking of you all my life
 
-La la you, la la la, ooo ooo
+La la you, la la la, oo oo
 
 Jill, are you thinking of me?
 I'll be thinking of you all my life

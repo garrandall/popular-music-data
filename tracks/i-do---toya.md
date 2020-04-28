@@ -5,7 +5,7 @@ features: []
 genres: []
 key: i-do---toya
 lyrics_url: https://genius.com/Toya-i-do-lyrics
-name: I Do!!
+name: I Do!
 rankings:
 - end_date: '2001-06-08'
   rank: 82

@@ -81,9 +81,6 @@ And I am whole
 I feel you, your rising sun
 My kingdom comes
 
-
-
-
 I feel you, each move you make
 I feel you, each breath you take
 Where angels sing and spread their wings, my love's on high

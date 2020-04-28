@@ -76,7 +76,7 @@ To make and call my home
 I gotta find a friend, a nice sharp baby
 I gotta find a friend, a nice sharp baby
 
-To make my home ohh, yeah
+To make my home oh, yeah
 To make my home
 
 'Cause I'm a gypsy man

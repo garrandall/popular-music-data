@@ -96,7 +96,7 @@ It's all the way live
 (Whoa, whoa, tell the people)
 (Tell 'em)
 It's all the way live
-(Ooh)
+(Oh
 It's all the way live
 (All you got to do is boogie)
 Dance, clap your hands
@@ -113,7 +113,7 @@ It's all the way live
 (Whoa, whoa, tell the people)
 (Tell 'em)
 It's all the way live
-(Ooh)
+(Oh
 It's all the way live
 (All you got to do is boogie)
 Huh, it's live, it's all the way live

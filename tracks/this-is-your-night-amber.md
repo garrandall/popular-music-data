@@ -186,12 +186,12 @@ And everything is gonna be alright
 Aww yeah, so in love with you
 Aww yeah, it's too good to be true
 Aww yeah, feelin' so brand-new, aww yeah
-Eee-yeah, eee-yeah, ooh, ooh, ooh, ooh
+Eee-yeah, ee-yeah, oh oohohohhoh
 
 You captured my heart, you're the key to my life
 A vision of our love, that made me survive
 Regaining the mood, that we're in, it's so real
-It's time to move up, and to face what I feel, ohh
+It's time to move up, and to face what I feel, oh
 
 This is your night
 Dancing free until the morning light
@@ -201,12 +201,12 @@ And everything is gonna be alright
 Aww yeah, so in love with you
 Aww yeah, it's too good to be true
 Aww yeah, feelin' so brand-new, aww yeah
-Eee-yeah, eee-yeah, ooh, ooh, ooh, ooh
+Eee-yeah, ee-yeah, oh oohohohhoh
 
 Tonight with my spirits, the one that you call
 I'm ready to stand up and ready to fall
 I can't find a way, so attracted by you
-Let me be your girl and I'll be so true, ooh
+Let me be your girl and I'll be so true, oh
 
 This is your night
 Dancing free until the morning light
@@ -216,7 +216,7 @@ And everything is gonna be alright
 Aww yeah, so in love with you
 Aww yeah, it's too good to be true
 Aww yeah, feelin' so brand-new, aww yeah
-Eee-yeah, eee-yeah
+Eee-yeah, ee-yeah
 
 Dah dah dah dah dad, ditita ta tay
 Dah dah dah dah dad, ditita ta tay
@@ -236,7 +236,7 @@ And everything is gonna be alright
 Aww yeah, so in love with you
 Aww yeah, it's too good to be true
 Aww yeah, feelin' so brand-new, aww yeah
-Eee-yeah, eee-yeah
+Eee-yeah, ee-yeah
 
 This is your night
 Dancing free until the morning light

@@ -60,7 +60,7 @@ Stop your bullshittin, glock with the full clip
 Motherfuckers better duck when the fool spit
 One shot could make a nigga do a full flip
 See the nigga layin shocked when the bullet hit
-Oh hey ma, how you, know niggaz wanna buy you
+Oh hey ma, how you, know niggas wanna buy you
 But see me I wanna Fuck for Free like Akinyele
 Now I gotta let her take this ride, make you feel it
 Inside your belly, if it's tight get the K-Y Jelly
@@ -81,7 +81,7 @@ So all I do is rap and sex, imagine how I stroke
 See how I was flowin' on my last cassette?
 Rapid-fire like I'm blastin' a Tec, never jam though
 Never get high, never run out of ammo
-Niggaz hatin' n shit cause I slayed your bitch
+Niggas hatin' n shit cause I slayed your bitch
 You know your favorite, I know it made you sick
 And now you're, actin' raw but you never had war
 Don't know how to carry your hoe, wanna marry your hoe

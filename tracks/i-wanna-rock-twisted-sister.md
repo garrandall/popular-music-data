@@ -96,9 +96,6 @@ Rock! (Rock)
 Rock! (Rock)
 I wanna rock!
 
-
-
-
 I wanna rock! (Rock)
 I wanna rock! (Rock)
 I want to rock (Rock)

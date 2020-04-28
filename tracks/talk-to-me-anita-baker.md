@@ -60,7 +60,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-09-15'
 ---
-Ooh
+Oh
 Baby, baby, baby
 
 You stand all alone on your own

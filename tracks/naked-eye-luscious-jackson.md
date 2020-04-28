@@ -116,7 +116,7 @@ rankings:
 wearing nothing is divine
 naked is a state of mind
 i take things off to clear my head
-to say the things i haven't said
+to say the things I haven't said
 i live inside the elements
 the earth and sky are my best friends
 water is the evidence
@@ -127,46 +127,46 @@ with my naked eye
 i saw all the falling rain
 coming down on me
 with my naked eye
-i saw all if i said it all
+i saw all if I said it all
 i could see
 
-it's not a choice i tried to make
-it's not a thought i couldn't take
+it's not a choice I tried to make
+it's not a thought I couldn't take
 something told me it was time
 to give you yours and leave me mine
 my vision started to be clear
 i watched the sunlight coming near
-i knew the day i knew the night
-i knew i could regain my sight
-and it feels alright 
+i knew the day I knew the night
+i knew I could regain my sight
+and it feels alright
 
 
 
-last night i came into your home
+last night I came into your home
 to break some ice and throw some stones
 i asked if we could be alone
 i had some troubles of my own
-knew i had to say goodbye
+knew I had to say goodbye
 to all the old things held inside
-if i let the moment fly
+if I let the moment fly
 i knew they'd all be magnified
 
-and it feels alright 
+and it feels alright
 
 came around after dark
 you are nothing but a lark
-know i snuck in like a narc
-i knew i had to leave my mark
+know I snuck in like a narc
+i knew I had to leave my mark
 wanted to be satisfied
 i tried to be dignified
 wearing nothing is divine
 naked is a state of mind
 
-and it feels alright 
+and it feels alright
 
 
 
-it feels alright 
+it feels alright
 
 
 

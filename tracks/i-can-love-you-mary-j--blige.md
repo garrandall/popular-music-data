@@ -110,7 +110,7 @@ And you know the reason why that I say
 
 
 I can love you (I can love you) a little better than she can
-(Ohh ohh ohh ohh ohh ohh)
+(Ohh oh oh oh oh oh)
 I know that you (I know that you)
 Wish that you could be my man (wish that you could be my man)
 'Cause I can love you better than she can

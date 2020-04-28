@@ -73,7 +73,7 @@ And love is brand new
 
 Say na-na, say na-na, say na-na-na-na-na
 Hey, hey, hey, hey, hey, hey
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 
 Ain't no more Motown Review
 And The Beatles have broken up too
@@ -88,16 +88,16 @@ Dr. J owns the balls
 And love has changed into brand new
 
 Say na-na, say na-na, say na-na-na-na-na
-Ooh... ooh... ooh
+Oh... oh... oh
 Can't go on, can't go on, can't go on, Motown
 
 Ain't no more Motown Review
 And The Beatles have broken up too
 British band have gone back
 Colored kids are now black
-Ooh, yeah
+Oh, yeah
 
-Ooh... ooh... ooh... ooh... ooh...
+Oh... oh... oh... oh... oh...
 
 Ain't no Motown Review
 No-no-no-no-no-no

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: one-night-stand-the-magic-lanterns
+lyrics_url: https://genius.com/Magic-lanterns-one-night-stand-lyrics
 name: One Night Stand
 rankings:
 - end_date: '1971-01-15'
@@ -31,4 +32,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-02-13'
 ---
+Listen to the rumors fly
+If is true what I hear
+Gossip sure can hurt a guy
+Can't you see all our tears
 
+You've been such a silly child
+Breaking all of the rules
+Playing games and running wild
+Someone else's fool
+
+He's a regular guy
+With a regular ride
+For a one night stand
+And he gets what he can
+When he can. When he can
+He's a one night man
+
+Did I force you to break this spell
+And fall into his hand
+And he knew very well
+You'd be easy as hell
+For a one night stand
+
+Don't come running back to me
+Are you out of your mind
+One thing I will never be
+Is the second in line
+
+I know you went out last night
+Bet you had some fun
+You thought you were treated right
+By the 
+
+He's a regular guy
+With a regular ride
+For a one night stand
+And he gets what he can
+When he can. where he can
+He's a one night man
+
+Did I force you to break this spell
+And fall into his hand
+And he knew very well
+You'd be easy as hell
+For a one night stand
+
+He's a regular guy
+With a regular ride
+For a one night stand
+And he gets what he can
+When he can. where he can
+He's a one night man
+
+Did I force you to break this spell
+And fall into his hand
+And he knew very well
+You'd be easy as hell
+For a one night stand
+
+He's a regular guy
+With a regular ride
+For a one night stand

@@ -53,7 +53,7 @@ But no, no, no, no, in you came
 And here you'll stay
 Yes, here you'll stay
 Until it's time for you to go
-(ooh ooh ooh ooh, oo-oo-oo-ooh)
+(ohoohhoh,oh-oo-oo-oh)oh
 (time to go)
 
 Don't ask me why (ask me why)
@@ -64,8 +64,8 @@ Just love me, baby
 Love me
 Love me now
 
-Ahhhh, this love of mine (love of mine)
-(had no beginning, ooh ooh)
+Ah, this love of mine (love of mine)
+(had no beginning, ohooh
 It has no end
 
 I was an oak
@@ -82,7 +82,7 @@ It's time for you to go, oh oh oh oh
 And here, here
 Here I'm gonna stay
 Until it's time for you to go, oh oh
-Go-o-o, ooh
+Go-o-o, oh
 
 It's too late, baby, yes
 I hate to see you go, boy

@@ -62,7 +62,7 @@ I'm going down
 My whole world's upside down.
 
 You ain't around. Going down.
-Ooh, Baby. I'm in love.
+Oh Baby. I'm in love.
 Going down. Oh, Oh, Oh,
 
 I-I- I'm going down.
@@ -73,7 +73,7 @@ My whole worlds upside down
 Going down, going down
 Oh, babe.
 Don't want believe.
-If i cant give my love to you
+If I can't give my love to you
 Im so blue.
 Going down.
 Going down

@@ -129,5 +129,5 @@ Like a virgin
 Like a virgin
 Feels so good inside
 When you hold me, and your heart beats, and you love me
-Ooh, baby yeah
+Oh, baby yeah
 Can't you hear my heart beat for the very first time?

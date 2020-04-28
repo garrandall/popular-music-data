@@ -60,7 +60,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-05-08'
 ---
-Ooh
+Oh
 Yeah, girl
 
 
@@ -106,9 +106,6 @@ Now is the time
 For you to stride
 For you to get better in what you are doing
 
-
-
-
 And mama used to say
 Take your time, young man
 Mama used to say
@@ -134,11 +131,11 @@ Mama used to say
 Hey, hey, hey
 Hey, hey, hey
 
-Ooh
+Oh
 Mama used to say
-Ooh
+Oh
 Mama used to say
-Ooh
+Oh
 Mama used to say
-Ooh
+Oh
 Mama used to say

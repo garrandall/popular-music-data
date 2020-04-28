@@ -120,7 +120,7 @@ Tell me, have you seen her?
 
 Why Oh why?
 Did you have to leave and go away? Oh yeah
-Ooh oh, I've been used to having someone to lean on
+Ohoh, I've been used to having someone to lean on
 And I'm lost, baby I'm lost
 
 Oh doo-doo-doo-doo-doo-doo

@@ -40,7 +40,7 @@ Life for my bruddas is deep
 Long as they all on they feet
 Long as they pockets is grease (grease!)
 I'm in the penthouse, but still nothin' is sweet (yeah)
-Dust a man down with the pen, it's a sweep (Mmmm!)
+Dust a man down with the pen, it's a sweep (Mmm!)
 Taller in person, you'll see when we meet
 I heard your new shit and I'm kissin' my teeth
 (Jheeze)

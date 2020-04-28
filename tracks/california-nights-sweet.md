@@ -28,7 +28,7 @@ The New York girls, they've gone down to California
 Don't say they didn't warn ya
 'Bout spending time in Miami F.L.A
 That ain't no place to be anyway
-Ooh, looking for someone in their life
+Oh looking for someone in their life
 Waiting for love to shine it's light
 
 Everybody's dancing, California nights

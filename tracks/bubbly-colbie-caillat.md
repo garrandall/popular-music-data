@@ -230,7 +230,7 @@ Wherever you go
 
 But what am I gonna say
 When you make me feel this way
-I just mmmmm
+I just mmm
 
 And it starts in my toes
 Makes me crinkle my nose

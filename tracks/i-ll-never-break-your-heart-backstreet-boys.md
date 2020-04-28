@@ -27,7 +27,7 @@ From the first day
 That I saw your smiling face
 Honey, I knew that we would
 Be together forever
-Ooh, when I asked you out
+Oh, when I asked you out
 You said no, but I found out
 Darling that you'd been hurt
 You thought that you'd never love again

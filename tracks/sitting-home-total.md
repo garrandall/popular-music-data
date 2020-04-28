@@ -72,13 +72,13 @@ But your never around when Im in the mood
 
 Im gettin tired being tired your ways
 You haven't come home or even call me today
-You dont know the pain when Im being alone
+You don't know the pain when Im being alone
 Im callin out your name when your not even home
 
 
 Cause I need you with me babe
 Can't see you leaving me babe
-Cause I dont know no other road I would go
+Cause I don't know no other road I would go
 And I hope your feelings change come bring your lovin back to me
 So I can give you what you need and much more
 Oh, until then...
@@ -91,12 +91,8 @@ And since you have been gone Ive been thinkin so too
 Just tell me what is it and what you feel I do wrong
 We should stay together cause our love is so strong
 
-
-
-
 By myself all day long
 These feeling that I feel for you feel so strong
 By myself all day long
 These feeling that I feel for you since you been gone
 
-Chorus

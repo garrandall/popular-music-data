@@ -30,7 +30,7 @@ And she's buying a stairway to heaven
 When she gets there she knows
 If the stores are all closed
 With a word she can get what she came for
-Ooh, ooh, and she's buying a stairway to heaven
+Oh, oh and she's buying a stairway to heaven
 
 There's a sign on the wall
 But she wants to be sure
@@ -40,7 +40,7 @@ There's a songbird who sings
 Sometimes all of our thoughts are misgiving
 
 It makes me wonder
-Ooh and it makes me wonder
+Oh and it makes me wonder
 
 There's a feeling I get
 When I look to the west
@@ -48,7 +48,7 @@ And my spirit is crying for leaving
 In my thoughts I have seen
 Rings of smoke through the trees
 And the voices of those who standing looking
-Ooh, ooh, and she's buying a stairway to heaven
+Oh, oh and she's buying a stairway to heaven
 And it's whispered that soon
 If we all call the tune
 Then the piper will lead us to reason
@@ -56,10 +56,10 @@ And a new day will dawn
 For those who stand long
 And the forests will echo with laughter
 
-Ooh and it makes me wonder
-Ooh and it makes me wonder
-Ooh and it makes me wonder
-Ooh and it makes me wonder
+Oh and it makes me wonder
+Oh and it makes me wonder
+Oh and it makes me wonder
+Oh and it makes me wonder
 Don't it make you wonder
 
 And it makes me wonder (wonder, wonder)
@@ -72,9 +72,9 @@ Yes, there are two paths you can go by
 But in the long run
 There's still time to change the road you're on
 
-Ooh and it makes me wonder
+Oh and it makes me wonder
 (And it makes me wonder)
-Ooh and it makes me wonder
+Oh and it makes me wonder
 (And it makes me wonder)
 
 Your head is humming and it won't go

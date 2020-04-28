@@ -112,9 +112,6 @@ I'm takin' suggestions I've learned my lesson
 Think conscience you're my last lifeline
 I'm down to my last second
 
-
-
-
 I've done things in my past
 I thought this love would last
 But I can't let you go baby

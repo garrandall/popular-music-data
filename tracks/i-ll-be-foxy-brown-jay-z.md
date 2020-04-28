@@ -106,8 +106,8 @@ Don't deep throat the C-note she float
 Murder she wrote, and keeps the heat close
 Firm nigga, we 'posed to be the illest on three coasts
 Familia, bigga than Icos
-Y'all, Danny DeVitoes, small niggaz
-All I see is the penny heaters, that's all niggaz
+Y'all, Danny DeVitoes, small niggas
+All I see is the penny heaters, that's all niggas
 No shark in this year raise it bigga
 Fifteen percent make the whole world sit up
 and take notice, Na Na take over
@@ -134,7 +134,7 @@ Put me on a bass, and throw your face in it, fucker
 Na Na, y'all can't touch her
 My sex drive all night like a trucker
 let alone the skills I posess
-And y'all gon' see by these mil's I posess 
+And y'all gon' see by these mil's I posess
 Never settle for less, I'm in excess
 Not inexpensive DVS
 To the two, that's just the way I'm built
@@ -159,9 +159,5 @@ I ain't playin knockin out at the Williams
 I'm sayin, what's the sense in delayin
 I'm tryin to run G from the P to the A.M.
 I saw your little thing now I'm swayin, OK'in
-(ahh, shit... uh, uh)
-
-
-
-
+(ah, shit... uh, uh)
 

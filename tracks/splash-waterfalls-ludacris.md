@@ -143,9 +143,6 @@ And what you find you keep - say it (make love to me)
 You do it standin up, orgasms hand 'em up
 Y'all just don't GIVE A FUCK - what? (fuck, meee!)
 
-
-
-
 You wanna tell the world, cause she's your favorite girl
 Your diamond and your pearl - say it (make love to me)
 Nobody has to know, just keep it on the low
@@ -154,8 +151,4 @@ Nothin but fights and fussin, plus there's a lot of cussin
 Just grab ahold of SOMETHIN - say it (make love to me)
 Y'all do that BAD stuff, she like it rammed up
 Ropes and HANDCUFFS - what? (fuck, meee!)
-
-
-
-
 

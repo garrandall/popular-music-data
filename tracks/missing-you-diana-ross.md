@@ -125,10 +125,10 @@ The reason you left me
 What were you going through?
 
 
-Ooh, ooh
+Oh, oh
 I'm missing you
 Tell me why the road turns
-Ooh, ooh
+Oh, oh
 I'm missing you
 Tell me why the road turns
 
@@ -142,10 +142,10 @@ All those dreams we shared together
 Where did you run to, boy?
 
 
-Ooh, ooh
+Oh, oh
 I'm missing you
 Tell me why the road turns
-Ooh, ooh
+Oh, oh
 I'm missing you
 Tell me why the road turns
 
@@ -183,7 +183,7 @@ Plucked away
 
 I'm missing you
 Tell me why the road turns
-Ooh ooh
+Oh oh
 I'm missing you
 Tell me why the road turns
 Tell me why the road turns

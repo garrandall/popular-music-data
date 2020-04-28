@@ -1,6 +1,6 @@
 ---
 artists:
-- 100 Strings and Jono Choir of 40 Voices
+- Joni James
 features: []
 genres: []
 key: i-need-you-now-100-strings-and-jono-choir-of-40-voices

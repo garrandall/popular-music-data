@@ -44,9 +44,6 @@ The Jean Genie loves chimney stacks
 (The Jean Genie) he's outrageous, he screams and he bawls
 The Jean Genie, let yourself go, oh
 
-
-
-
 Sits like a man, but he smiles like a reptile
 She loves him, she loves him, but just for a short while
 She'll scratch in the sand, won't let go his hand
@@ -59,9 +56,6 @@ The Jean Genie lives on his back
 The Jean Genie loves chimney stacks
 (The Jean Genie) he's outrageous, he screams and he bawls
 The Jean Genie, let yourself go, whoa-oh
-
-
-
 
 He's so simple minded, he can't drive his module
 He bites on the neon and sleeps in the capsule

@@ -32,7 +32,7 @@ My style can't be duplicated or recycled
 This chick is a sick individual
 SICKTATE, VOLUME TWO, BELIEVE IT!
 {*"Apache" breaks start*}
-HO!! HO!!
+HO! HO!
 Let me switch up the game
 
 I drink that co-gnac
@@ -61,7 +61,7 @@ East, coast, West, coast
 Down, South represent ya coast
 YEAH WE RUN IT, AND YEAH WE RUN IT
 Y'ALL DON'T WANT IT, CAUSE MY COAST RUN IT
-Uh-ohh, we run this shit, uhh, WE RUN THIS SHIT
+Uh-oh, we run this shit, uhh, WE RUN THIS SHIT
 
 
 WICKED! Wanna pull my hair, break my back
@@ -89,7 +89,7 @@ East, coast, West, coast
 Down, South represent ya coast
 YEAH WE RUN IT, AND YEAH WE RUN IT
 Y'ALL DON'T WANT IT, CAUSE MY COAST RUN IT
-Uh-ohh, we run this shit, uhh, WE RUN THIS SHIT
+Uh-oh, we run this shit, uhh, WE RUN THIS SHIT
 
 
 Any hustlers in the party y'all - HELL YEAH

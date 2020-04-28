@@ -113,12 +113,12 @@ Platinum on the block with consistent hits
 While Pharrell keep talking this music shit
 
 
-(Ahh)
-Grindin' (ahh)
-Grindin' (ahh)
-Grindin' (ahh)
-Grindin' (ahh)
-Grindin' (ahh)
+(Ah)
+Grindin' (ah)
+Grindin' (ah)
+Grindin' (ah)
+Grindin' (ah)
+Grindin' (ah)
 Huh-huh
 
 
@@ -140,12 +140,12 @@ Filthy, the word that best defines me
 I'm just grinding man, y'all never mind me
 
 
-(Ahh)
-Grindin' (ahh)
-Grindin' (ahh)
-Grindin' (ahh)
-Grindin' (ahh)
-Grindin' (ahh)
+(Ah)
+Grindin' (ah)
+Grindin' (ah)
+Grindin' (ah)
+Grindin' (ah)
+Grindin' (ah)
 Huh-huh
 
 
@@ -180,12 +180,12 @@ One'll leave you frozen
 The other, noddin' and dozin', I'm grindin' Jack
 
 
-(Ahh)
-Grindin' (ahh)
-Grindin' (ahh)
-Grindin' (ahh)
-Grindin' (ahh)
-Grindin' (ahh)
+(Ah)
+Grindin' (ah)
+Grindin' (ah)
+Grindin' (ah)
+Grindin' (ah)
+Grindin' (ah)
 Huh-huh
 
 

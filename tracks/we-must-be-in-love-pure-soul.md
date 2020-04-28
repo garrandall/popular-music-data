@@ -80,7 +80,7 @@ You make me so happy
 (You make me so happy)
 Happy forever
 (Happy forever)
-And, ooh that's a mighty long time, yeah
+And, oh that's a mighty long time, yeah
 We must be in
 We must be in love
 Just let the love show, I'm pledgin' all my love
@@ -108,7 +108,7 @@ We must be in love, oh
 (Somethin' old, somethin' new)
 (Somethin' borrowed, somethin' blue)
 We must be in
-(Ooh, ooh, ooh)
+(Oh, oh, oh)
 We must be, oh
 You
 (You, you, you)

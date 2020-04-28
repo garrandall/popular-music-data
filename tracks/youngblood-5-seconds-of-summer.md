@@ -212,11 +212,11 @@ I give and I give and I give and you take, give and you take
 Youngblood
 Say you want me, say you want me out of your life
 And I'm just a dead man walking tonight
-But you need it, yeah you need it, all of the time, yeah ooh ooh ooh
+But you need it, yeah you need it, all of the time, yeah oh oh oh
 Youngblood
 Say you want me, say you want me back in your life
 So I'm just a dead man crawling tonight
-'Cause I need it, yeah I need it, all of the time, yeah ooh ooh ooh
+'Cause I need it, yeah I need it, all of the time, yeah oh oh oh
 
 Lately our conversations end like it's the last goodbye
 Then one of us gets too drunk and calls about a hundred times
@@ -226,11 +226,11 @@ When you're looking at those strangers, hope to God you see my face
 Youngblood
 Say you want me, say you want me out of your life
 And I'm just a dead man walking tonight
-But you need it, yeah you need it, all of the time, yeah ooh ooh ooh
+But you need it, yeah you need it, all of the time, yeah oh oh oh
 Youngblood
 Say you want me, say you want me back in your life
 So I'm just a dead man crawling tonight
-'Cause I need it, yeah I need it, all of the time, yeah ooh ooh ooh
+'Cause I need it, yeah I need it, all of the time, yeah oh oh oh
 
 You push and you push and I'm pulling away, pulling away from you
 I give and I give and I give and you take, give and you take
@@ -240,11 +240,11 @@ Mm, from you
 Youngblood
 Say you want me, say you want me out of your life
 And I'm just a dead man walking tonight
-But you need it, yeah you need it, all of the time, yeah ooh ooh ooh
+But you need it, yeah you need it, all of the time, yeah oh oh oh
 Youngblood
 Say you want me, say you want me back in your life
 So I'm just a dead man crawling tonight
-'Cause I need it, yeah I need it, all of the time, yeah ooh ooh ooh
+'Cause I need it, yeah I need it, all of the time, yeah oh oh oh
 
 You push and you push and I'm pulling away, pulling away from you
 I give and I give and I give and you take, give and you take

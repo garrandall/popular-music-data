@@ -52,9 +52,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-10-05'
 ---
-A-plink a chunk, ooh, ooh
-Ooh, a-plink a chunk, ooh, ooh
-Ooh, a-plink a chunk
+A-plink a chunk, oh oh
+Oh, a-plink a chunk, oh oh
+Oh, a-plink a chunk
 
 I wait with open arms
 (A-plink a chunk)

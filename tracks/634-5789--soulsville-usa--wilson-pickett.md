@@ -55,7 +55,7 @@ rankings:
 If you need a little lovin'
 Call on me, alright
 And if you want a little huggin'
-Call on me baby, mm hmm
+Call on me baby, mm hm
 Oh I'll be right here at home
 All you got to do is pick up your telephone
 And dial now

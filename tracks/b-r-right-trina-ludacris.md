@@ -66,7 +66,7 @@ rankings:
   start_date: '2003-04-12'
 ---
 
- i want my ass smacked
+ I want my ass smacked
  legs wide
  front back
  side to side
@@ -123,10 +123,10 @@ trouble witcha man, imma pop my trunk.
 
 you aint seen no chicks like mine,
 you aint seen no flicks like mine,
-bet i make you cum next to the subwoofers and my 6x9's.
+bet I make you cum next to the subwoofers and my 6x9's.
 
 tell me that you like it raw,
-tell me that my dick is MUAH!!!
+tell me that my dick is MUAH!
 i might make you famous, and buy you watches by Maurice Lacroix
 
 tell me if its new or old,
@@ -134,18 +134,15 @@ tell me if its hot or cold,
 let me know if its black & bold,
 say ludacris 6 million sold.
 
-see i aint got no time for games,
-and i aint got no times for lames,
+see I aint got no time for games,
+and I aint got no times for lames,
 how you lovin my southern slang,
-ooo eee walla walla bing bang.
+oo ee walla walla bing bang.
 
 so anytime you need me call,
 winter, summer, spring, or fall
 it doesnt matter come one come all,
 either get dropped or drop them draws.
-
-
-
 
 diamond, princess,
 just mind, your buisness,
@@ -160,11 +157,11 @@ your choice is trailer trash.
 too much, taste for whores,
 you seen me grace the source
 your watched me work, the vibe
-bitches, i works for mine.
+bitches, I works for mine.
 
 one time, for these divas,
 two times, for these visas,
-third time i come im breezin,
+third time I come im breezin,
 the ice...just keeps on freezin.
 
 hold up imma keep it goin,
@@ -172,21 +169,21 @@ back to back imma keep on blowin
 platinum plaques, keepin it up,
 wet sex, keepin it good.
 
-look girl, you dont know my angle,
+look girl, you don't know my angle,
 a hundred thou with a platinum bengal,
 my niggas'll slow your roll,
 pussy power, we in control.
 
 
 
-yea, thas right....im back again...round two mother fuckers.  thas rite im
+yea, thas right...im back again...round two mother fuckers.  thas rite im
 talkin greece.  im a arrogant lil mother fucker huh?  thas rite im rich, im
 that bitch, thas rite.  im about show yall how to pimp this shit.  im fuckin
 niggas in the face, the game is mine 2003, fuck that.  fuck all yall haters,
 fuck all yall bitches, get a life.  you got too much time on your hands.  i
 want yall bitches to get a job, up your game. pimp your game up baby, its
-all about me this time, fuck that.  fuck a dime, im a silva dolla, holla. 
-catch me when i come off tour, fuck yall.  im out.
+all about me this time, fuck that.  fuck a dime, im a silva dolla, holla.
+catch me when I come off tour, fuck yall.  im out.
 
 
 

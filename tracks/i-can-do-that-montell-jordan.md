@@ -109,14 +109,14 @@ Tonight I'ma show you how he's supposed to be
 Satisfying you sexually, yeah
 I can do that, I can do that
 
-Ooh, can we share an or...gasm, baby?
+Oh, can we share an or...gasm, baby?
 Just follow my instructions very carefully (I'm gonna)
 Take your clothes off...
 Leave your shoes on...
 The candlelight will keep your body
 Nice and warm
 Then after I undress you
-I'll apply a little pressure, ooh
+I'll apply a little pressure, oh
 It'll give you so much pleasure
 It'll be like sailing away (sailing away)
 Just say taht you want for me to stay, and I'll
@@ -137,7 +137,7 @@ I can do that, I can do that
 I'll keep the kitty warm (keep the kitty warm)
 Just make it purr for me (make it purr for me)
 Then after I undress you
-I'll apply a litte pressure, ooh
+I'll apply a litte pressure, oh
 It'll give you so much pleasure
 I'll be like sailing away (oh!)
 

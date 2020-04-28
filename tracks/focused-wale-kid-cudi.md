@@ -22,12 +22,12 @@ Maybach Music
 
 I’m jokin' (Young boy movin' fast)
 And I’m hopin' (Pray that I don’t crash)
-(All I know is) I’m not slowin' (Hmmm)
+(All I know is) I’m not slowin' (Hm)
 Gotta just keep on rollin'
 Gotta keep at it, gotta stay focused
 (Young boy movin' fast)
 And I’m hopin' (Pray that I don’t crash)
-(All I know is) I’m not slowin' (Hmmm)
+(All I know is) I’m not slowin' (Hm)
 Gotta just keep on rollin'
 Gotta keep at it, gotta stay focused
 
@@ -59,12 +59,12 @@ Red Berry everywhere, got Puff getting jealous
 
 I’m jokin' (Young boy movin' fast)
 And I’m hopin' (Pray that I don’t crash)
-(All I know is) I’m not slowin' (Hmmm)
+(All I know is) I’m not slowin' (Hm)
 Gotta just keep on rollin'
 Gotta keep at it, gotta stay focused
 (Young boy movin' fast)
 And I’m hopin' (Pray that I don’t crash)
-(All I know is) I’m not slowin' (Hmmm)
+(All I know is) I’m not slowin' (Hm)
 Gotta just keep on rollin'
 Gotta keep at it, gotta stay focused
 
@@ -99,11 +99,11 @@ Double M-G - out!
 
 I’m jokin' (Young boy movin' fast)
 And I’m hopin' (Pray that I don’t crash)
-(All I know is) I’m not slowin' (Hmmm)
+(All I know is) I’m not slowin' (Hm)
 Gotta just keep on rollin'
 Gotta keep at it, gotta stay focused
 (Young boy movin' fast)
 And I’m hopin' (Pray that I don’t crash)
-(All I know is) I’m not slowin' (Hmmm)
+(All I know is) I’m not slowin' (Hm)
 Gotta just keep on rollin'
 Gotta keep at it, gotta stay focused

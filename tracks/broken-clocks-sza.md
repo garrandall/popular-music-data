@@ -101,7 +101,7 @@ Nothing but love
 I don't eat can't sleep past 9 AM
 Heartbeat makes me feel young again
 Can't beat em just join the party
-I dont wanna don't need nobody
+I don't wanna don't need nobody
 
 All that I've got
 Pieces and pages

@@ -82,9 +82,9 @@ If you stay the night, oh yeah
 We'll make the wrong seem right
 
 
-Oooh I know this loves' no crime, oh no
+Oh I know this loves' no crime, oh no
 I will find the time to change your mind
-Oooh and if you stay the night, hold me tight
+Oh and if you stay the night, hold me tight
 We'll make the wrong seem right
 
 
@@ -109,9 +109,6 @@ Rock me, rock me, roll me through the night
 Rock me, rock me, roll me through the night
 Before the morning light, we'll burn with love tonight
 Burn with love tonight
-
-
-
 
 And when your man don't care, I will be there
 Still be loving real good love, so baby now

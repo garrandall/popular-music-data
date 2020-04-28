@@ -64,7 +64,7 @@ rankings:
 Guns that cross the street
 You never know who you might meet
 Who's in disguise
-Oooh, as you blow a storm
+Oh, as you blow a storm
 There's no one there to keep you warm
 It's no surprise
 There's something in my eyes
@@ -110,7 +110,7 @@ Guns that cross the street
 You never know who you might meet
 Who's in disguise
 Who's in disguise
-Oooh, as you blow a storm
+Oh, as you blow a storm
 There's no one there to keep you warm
 It's no surprise
 There's something in my eyes

@@ -99,7 +99,3 @@ Tell the same lies they work all right
 Gonna wear my dancin' shoes out tonight
 Probably make a fool of myself again tonight
 
-
-
-
-

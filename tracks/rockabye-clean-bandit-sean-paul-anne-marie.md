@@ -138,7 +138,7 @@ She's got to save him
 
 Daily struggle
 
-She tells him, "Ooh, love, no one's ever gonna hurt you, love.
+She tells him, "Oh, love, no one's ever gonna hurt you, love.
 I'm gonna give you all of my love.
 Nobody matters like you."
 
@@ -184,7 +184,7 @@ Trying to keep out the cold
 When he looks in her eyes
 He don't know he is safe
 
-When she says, "Ooh, love, no one's ever gonna hurt you, love.
+When she says, "Oh, love, no one's ever gonna hurt you, love.
 I'm gonna give you all of my love.
 Nobody matters like you."
 
@@ -215,7 +215,7 @@ Trying to keep out the cold
 When he looks in her eyes
 He don't know he is safe when she says...
 
-She tells him, "Ooh, love, no one's ever gonna hurt you, love.
+She tells him, "Oh, love, no one's ever gonna hurt you, love.
 I'm gonna give you all of my love.
 Nobody matters like you."
 

@@ -146,7 +146,7 @@ Simply irresistible
 
 
 Her methods are inscrutable
-The proof is irrefutable, (ooh...)
+The proof is irrefutable, (oh...)
 She's so completely kissable, huh
 Our lives are indivisible, yeah yeah
 

@@ -59,9 +59,9 @@ Out of me, boy
 You made a believer
 Out of me
 
-Ooh, baby, oh, baby
+Oh baby, oh, baby
 
-Oooh, now I see
+Oh, now I see
 Yeah, yeah, yeah, yeah
 
 You made me glad
@@ -87,5 +87,5 @@ A true, true believer
 You made a believer
 Oh, you made a believer
 
-Baby, ooh
+Baby, oh
 A believer...

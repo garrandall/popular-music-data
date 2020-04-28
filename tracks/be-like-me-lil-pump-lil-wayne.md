@@ -16,63 +16,63 @@ rankings:
 Então você sabe
 Muitas pessoas tentam ser como eu, mas, você sabe
 Você não pode ser como eu
-Ooh, Lil Pump
+Oh, Lil Pump
 (CB na batida)
-Ooh, sim
+Oh, sim
 
 
-Todo mundo quer ser como eu (Ooh, sim)
+Todo mundo quer ser como eu (Oh, sim)
 Todo mundo quer ser como eu (Huh?)
 Todo mundo quer ser como eu
-Bust down, correntes grandes e roupas chiques (Ooh)
+Bust down, correntes grandes e roupas chiques (Oh)
 Todo mundo quer ser como eu
-Gastei dois mil semana passada em uma camisa branca (Ooh)
+Gastei dois mil semana passada em uma camisa branca (Oh)
 Todo mundo quer ser como eu
-Deixei cair dez mil nos meus lençóis Gucci (Ooh, sim)
-Todo mundo quer ser como eu (Ooh, sim)
+Deixei cair dez mil nos meus lençóis Gucci (Oh, sim)
+Todo mundo quer ser como eu (Oh, sim)
 Todo mundo quer ser como eu
-Todo mundo quer ser como eu (Ooh, sim)
+Todo mundo quer ser como eu (Oh, sim)
 Todo mundo quer ser como eu
-Todo mundo quer ser como eu (Ooh, sim)
+Todo mundo quer ser como eu (Oh, sim)
 Todo mundo quer ser como eu
-Todo mundo quer ser como eu (Ooh)
-Bust down, correntes grandes e roupas chiques (Sim, ooh)
+Todo mundo quer ser como eu (Oh)
+Bust down, correntes grandes e roupas chiques (Sim, oh)
 
 
-Todo mundo quer ser como Pump (Ooh)
+Todo mundo quer ser como Pump (Oh)
 Todo mundo tem dreads falsos e amam usar drogas (Sim)
 Eu faço isso, vadia, você faz o que quiser (Huh?)
 Sim, eu sou muito ignorante, eu estou pouco me fudendo
 E todo mundo quer ser como Ye (Ye)
-Todo mundo quer ir lá e comer a Kim K (Ooh, sim)
+Todo mundo quer ir lá e comer a Kim K (Oh, sim)
 Você pode falar merda de mim todo dia (Dia)
 Mas eu ainda estou rico no fim do dia
 Eu uso drogas como se fossem vitamina C
 Sou um milionário, mas eu não sei ler (Não)
-Sou um modelo de papel que essas crianças querem ser (Ooh)
+Sou um modelo de papel que essas crianças querem ser (Oh)
 Eu acabei de comer uma vadia grávida que está no exterior (Sim)
 Ando com minha vadia do lado com uma coleira (Coleira)
-Eu tinha 13 anos quando comecei a beber lean (Ooh)
+Eu tinha 13 anos quando comecei a beber lean (Oh)
 Curtindo tanto que me sinto como KD (Sim)
 Visto dois bust downs, mesmo dormindo (Dormindo)
 
 
-Todo mundo quer ser como eu (Ooh, sim)
+Todo mundo quer ser como eu (Oh, sim)
 Todo mundo quer ser como eu (Huh?)
 Todo mundo quer ser como eu
-Bust down, correntes grandes e roupas chiques (Ooh)
+Bust down, correntes grandes e roupas chiques (Oh)
 Todo mundo quer ser como eu
-Gastei dois mil semana passada em uma camisa branca (Ooh, sim, sim)
+Gastei dois mil semana passada em uma camisa branca (Oh, sim, sim)
 Todo mundo quer ser como eu
-Deixei cair dez mil nos meus lençóis Gucci (Ooh, sim, nos meus lençóis Gucci)
-Todo mundo quer ser como eu (Ooh, sim, sim, sim)
+Deixei cair dez mil nos meus lençóis Gucci (Oh, sim, nos meus lençóis Gucci)
+Todo mundo quer ser como eu (Oh, sim, sim, sim)
 Todo mundo quer ser como eu (Como eu)
-Todo mundo quer ser como eu (Sim, sim, sim, sim, ooh, sim)
+Todo mundo quer ser como eu (Sim, sim, sim, sim, oh, sim)
 Todo mundo quer ser como eu (Todo mundo quer ser como eu)
-Todo mundo quer ser como eu (Todo mundo quer ser como eu, ooh, sim)
+Todo mundo quer ser como eu (Todo mundo quer ser como eu, oh, sim)
 Todo mundo quer ser como eu (Todo mundo quer ser como eu)
-Todo mundo quer ser como eu (Todo mundo quer ser, ooh)
-Bust down, correntes grandes e roupas chiques (Sim, ooh)
+Todo mundo quer ser como eu (Todo mundo quer ser, oh)
+Bust down, correntes grandes e roupas chiques (Sim, oh)
 
 
 Eu sou eu, eu sou eu
@@ -110,19 +110,19 @@ Mas há apenas um eu no meu o-l-h-o (Sim)
 Sim
 
 
-Todo mundo quer ser como eu (Ooh, sim)
+Todo mundo quer ser como eu (Oh, sim)
 Todo mundo quer ser como eu (Huh?)
 Todo mundo quer ser como eu
-Bust down, correntes grandes e roupas chiques (Ooh)
+Bust down, correntes grandes e roupas chiques (Oh)
 Todo mundo quer ser como eu
-Gastei dois mil semana passada em uma camisa branca (Ooh, em uma camisa branca)
+Gastei dois mil semana passada em uma camisa branca (Oh, em uma camisa branca)
 Todo mundo quer ser como eu
-Deixei cair dez mil nos meus lençóis Gucci essa semana (Ooh, sim)
-Todo mundo quer ser como eu (Ooh, sim)
+Deixei cair dez mil nos meus lençóis Gucci essa semana (Oh, sim)
+Todo mundo quer ser como eu (Oh, sim)
 Todo mundo quer ser como eu (Sim, sim, sim, sim)
-Todo mundo quer ser como eu (Ooh, sim)
+Todo mundo quer ser como eu (Oh, sim)
 Todo mundo quer ser como eu (Sim, sim, sim, sim)
-Todo mundo quer ser como eu (Ooh, sim, como eu)
+Todo mundo quer ser como eu (Oh, sim, como eu)
 Todo mundo quer ser como eu (Todo mundo quer ser)
-Todo mundo quer ser como eu (Ooh)
-Bust down, correntes grandes e roupas chiques (Sim, ooh)
+Todo mundo quer ser como eu (Oh)
+Bust down, correntes grandes e roupas chiques (Sim, oh)

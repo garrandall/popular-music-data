@@ -56,7 +56,7 @@ Well, you went uptown ridin' in your limousine
 With your fine Park Avenue clothes
 You had the Dom Perignon in your hand
 And the spoon up your nose
-Ooh, and when you wake up in the mornin'
+Oh and when you wake up in the mornin'
 With your head on fire and your eyes too bloody to see
 Go on and cry in your coffee
 But don't come bitchin' to me

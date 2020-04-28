@@ -70,7 +70,7 @@ rankings:
 ---
 It's something about her you know that
 The way she cares of herself, she's just so bad
-Ooh, I dont know
+Oh, I don't know
 
 
 Her style, her mind compares
@@ -90,7 +90,7 @@ Spending all my time just chasing
 
 
 Her eyes, her smile, her skin
-Her smell, her hair (She's incredible, baby, ooh)
+Her smell, her hair (She's incredible, baby, oh)
 Her walk, her talk, her way her savoir faire
 There she goes, there she goes
 (There she goes)
@@ -113,9 +113,9 @@ Spending all my time just chasing
 
 
 Her eyes, her smile, her skin
-Her smell, her hair (Ooh baby, she's incredible, baby)
+Her smell, her hair (Oh baby, she's incredible, baby)
 Her walk, her talk, her way, her savoir faire
-There she goes, there she goes, ooh
+There she goes, there she goes, oh
 (There she goes)
 Her eyes, her smile, her skin
 Her smell, her hair (You're incredible, baby)

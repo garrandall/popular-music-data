@@ -65,7 +65,7 @@ rankings:
   start_date: '1976-11-27'
 ---
 (Wolfman)
-Ahhh, do you remember the first time you started to date
+Ah, do you remember the first time you started to date
 And the places you had to go just to be alone with your number one?
 Well, I hope this song brings back a whole lot of beautiful memories
 For you

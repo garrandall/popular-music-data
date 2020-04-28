@@ -40,12 +40,12 @@ And the postcards you send would never (never) mend
 The pain in my heart when we're apart
 Girl I can make it thru the day
 But oh, please help me thru the lonely nites
-When I'm on my job      It's not too hard
+When I'm on my job It's not too hard
 But when I go home
 And I'm all alone (and I'm by myself babe you heard me)
 You know you're my crutch I need you're sweet touch
 Then it gets the nite time again Lord when will it end
-I'll make it thru the day   say, but oh
+I'll make it thru the day say, but oh
 You don't know nothin' about the lonely nites
 Well now nite go away please hurry up day
 Cause my nite lite burns and I toss and turn

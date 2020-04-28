@@ -49,7 +49,7 @@ I told her I'd pray for the kid
 What a time this is
 To be alive for this shit
 President doin' us in
-My window got blue in the tint, ooh
+My window got blue in the tint, oh
 Did this shit once and I'd do it again
 
 Look who I'm fucking again

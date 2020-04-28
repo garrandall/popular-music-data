@@ -172,9 +172,9 @@ Free your mind and join us
 You can feel it in the air
 
 
-Ooh, it's a passion
-Ooh, you can feel it in the air
-Ooh, it's a passion, ooh
+Oh, it's a passion
+Oh, you can feel it in the air
+Oh, it's a passion, oh
 
 
 Rhythm is a dancer
@@ -185,9 +185,9 @@ Free your mind and join us
 You can feel it in the air
 
 
-Ooh, it's a passion
-Ooh, you can feel it in the air
-Ooh, it's a passion, ooh
+Oh, it's a passion
+Oh, you can feel it in the air
+Oh, it's a passion, oh
 
 
 Rhythm

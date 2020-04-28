@@ -71,7 +71,7 @@ The (pride) strength to survive
 (Pride - a deeper love)
 (Woah woah woah woah)
 
-Yeah ooh yeah yeah
+Yeah ohyeah yeah
 Yeah yeah yeah yeah yeah yeah yeah
 
 Now I've got love in my heart, it gives me the strength

@@ -64,6 +64,6 @@ You fuck
 And it´s all your fault
 Oh you paralyze my mind
 And for that you suck
-And for that you suck oh....
+And for that you suck oh...
 Aho aho aho
 Ha ha ha

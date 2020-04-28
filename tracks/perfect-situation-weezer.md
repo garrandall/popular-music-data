@@ -94,9 +94,9 @@ As they search the night for someone to hold onto.
 I just pass through...
 
 singing...
-Ooohhhhh oh. Ooohhhhh oh. Ooohhhhhhhhhh.
+Oh oh. Oh oh. Oh.
 Singing...
-Ooohhhhh oh. Ooohhhhh oh. Ooohhhhhhhhhh.
+Oh oh. Oh oh. Oh.
 
 Get your hands off the girl,
 Can't you see that she belongs to me?
@@ -106,9 +106,9 @@ And so she starts to wander...
 Can you blame her?
 
 singing...
-Ooohhhhh oh. Ooohhhhh oh. Ooohhhhhhhhhh.
+Oh oh. Oh oh. Oh.
 Singing...
-Ooohhhhh oh. Ooohhhhh oh. Ooohhhhhhhhhh.
+Oh oh. Oh oh. Oh.
 
 Tell me there's a logic out there.
 Leading me to better prepare
@@ -119,11 +119,11 @@ For the rest of my days on the earth.
 
 
 
-Ooohhhhh oh. Ooohhhhh oh. Ooohhhhhhhhhh.
+Oh oh. Oh oh. Oh.
 Singing...
-Ooohhhhh oh. Ooohhhhh oh. Ooohhhhhhhhhh.
+Oh oh. Oh oh. Oh.
 Singing...
-Ooohhhhhhhhhhhhhhhh
+Oh
 
 
 

@@ -88,7 +88,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-01-09'
 ---
-Ah, yeah, mm hmm
+Ah, yeah, mm hm
 Can you feel it, baby
 I can
 

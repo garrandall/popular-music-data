@@ -83,9 +83,6 @@ Might be, thrown off my rocker just slightly
 Feisty, flamin' hot temper don't ignite me
 I'm only gonna ask ya find the exit once politely
 
-
-
-
 Flip, say who known to the land and the people
 My plan is to keep you at least 2, levels under me where I need you
 I'mma take advantage of my chance to defeat you

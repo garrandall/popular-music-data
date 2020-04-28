@@ -57,7 +57,7 @@ How I tried to forget her
 But this one tear won't set me free
 I didn't know till she went away
 Just how much that woman meant to me
-Ooh yes, she did
+Oh yes, she did
 
 Without her my life is nothing
 Even though she let me down

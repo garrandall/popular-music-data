@@ -119,10 +119,6 @@ In any ol 'eyes, it's gold
 So girl, don't act seditty
 Just give a brother some of that kitty!
 
-
-
-
-
 Like I said, the party ain't dead,
 All these chicken heads just scared!
 
@@ -160,24 +156,10 @@ Check it out!
 Lil' Miss Muffet sat on a tuffet eatin' a bowl o' cream o' wheat
 She gave me a show, whatta you know, that lil' (hoe) was a freak!  Aaow!
 
-
-
-
 Check it!
 Little Jack Horner sat in the corner beggin' this girl all night
 She said no, he said "Oh! You gon' come on down and take a hike, baby!"
 
-
-
-
 Little Bo Peep lost her sheep, eyes were full of tears
 I think girl need her ; Whoot, there it is!  Aaow!
-
-
-
-
-
-
-
-
 

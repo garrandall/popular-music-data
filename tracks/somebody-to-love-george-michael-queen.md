@@ -74,7 +74,7 @@ They say I gotta lot of water in my brain
 Got no common sense, I got nobody there to believe
 Yeah, yeah, yeah, yeah, yeah!
 
-(Ooh ooh, ooh ah
+(Oh oh oh
 Find her somebody to love
 Find her somebody to love
 Find her somebody to love

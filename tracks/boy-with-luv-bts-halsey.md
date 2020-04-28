@@ -153,6 +153,6 @@ I want something stronger (I want it)
 (워워워워워)
 Than a moment, than a moment, love (Mo-moment, love)
 (워워워워워)
-Love is nothing stronger (Ooh ooh, oh yeah)
+Love is nothing stronger (Oh oh, oh yeah)
 (워워워워워)
 (Than a boy with) Than a boy with love

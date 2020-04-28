@@ -111,7 +111,7 @@ And I think it should be a holiday
 For single mothers tryin' to make a way
 But until then
 Here is your song
-Show love to my....
+Show love to my...
 
 
 B-A-B-Y M-A-M-A

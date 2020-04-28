@@ -81,10 +81,10 @@ A present from you (ah, ah, ah, ah, ah)
 Strawberry letter 22
 The music plays I sit in for a few (ah, ah, ah, ah...)
 
-(Ooh, ooh, ooh, ooh, ooh)
-(Ooh, ooh, ooh, ooh, ooh)
-(Ooh, ooh, ooh, ooh, ooh)
-(Ooh, ooh, ooh, ooh...)
+(Oh, oh, oh, oh, oh)
+(Oh, oh, oh, oh, oh)
+(Oh, oh, oh, oh, oh)
+(Oh, oh, oh, oh...)
 
 (Ah, ah, ah, ah, ah)
 (Ah, ah, ah, ah, ah)
@@ -97,10 +97,10 @@ A present from you (ah, ah, ah, ah, ah)
 Strawberry letter 22
 The music plays I sit in for a few (ah, ah, ah, ah, ah)
 
-(Ooh, ooh, ooh, ooh, ooh)
-(Ooh, ooh, ooh, ooh, ooh)
-(Ooh, ooh, ooh, ooh, ooh)
-(Ooh, ooh, ooh, ooh, ooh)
+(Oh, oh, oh, oh, oh)
+(Oh, oh, oh, oh, oh)
+(Oh, oh, oh, oh, oh)
+(Oh, oh, oh, oh, oh)
 
 
 

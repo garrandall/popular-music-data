@@ -177,9 +177,6 @@ Now don't nothing get the hype on first site like, white on whites
 (Big boy) cause once I cop um gut um and switch the laces
 (Big boy) they all purpose ya heard me kinda like my Dayton's (big boy)
 
-
-
-
 I wore spurs at first now theres tape on them
 (Big Boy) damn, when those come out so I write the date on them
 (Big Boy) these Louies Vuitton ones, you gotta wait on them
@@ -205,7 +202,7 @@ You should beep mine (big boy), (beep mine)
 Maybe once or twice but never three times
 (Big boy) I'm just a sneaker pro
 I love pumas and shell toes
-(Big boy) but cant nothing compare to a fresh crispy white pair (big boy)
+(Big boy) but can't nothing compare to a fresh crispy white pair (big boy)
 
 
 

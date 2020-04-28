@@ -86,9 +86,6 @@ Birds of the world and squirrels
 I love coffee in a cup, little fuzzy pups
 Bourbon in a glass and grass
 
-
-
-
 I love honest open smiles, kisses from a child
 Tomatoes on the vine and onions
 I love winners when they cry, losers when they try

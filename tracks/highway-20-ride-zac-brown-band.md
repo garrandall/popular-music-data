@@ -123,7 +123,7 @@ It was a pleasure of my life
 And I cherished every time
 And my whole world
 It begins and ends with you
-On that Highway 20 ride....
+On that Highway 20 ride...
 
 Whoa-ho-oh-oh
 20 ride

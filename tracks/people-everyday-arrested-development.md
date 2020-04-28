@@ -117,7 +117,7 @@ They got drunk and got guns and they wanna fight
 And they see a young couple having a time that's good
 And their egos wanna test a brother's manhood
 So they came to test Speech cause of my hair-do
-And the loud bright colors that I wear 
+And the loud bright colors that I wear
 I was a target cause I'm a fashion misfit
 And the outfit that I'm wearing brothers dissing it
 Well I stay calm and pray the niggas leave me be
@@ -126,7 +126,7 @@ Why, Lord, do brothers have to drill me ?
 Cause if I start to hit this man he'll have to kill me
 
 
-I am everyday people (2x)
+I am everyday people
 
 
 I told the niggas please let us pass, friend

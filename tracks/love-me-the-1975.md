@@ -43,12 +43,9 @@ If that's what you wanna do, oh (Yeah? No)
 And love me (Love me, yeah)
 If that's what you wanna do, oh (Yeah? No)
 
-
-
-
 Oh so sack off your calendar, give it to the people!
 Be the man that gets them up on their feet
-Say "Oh, oh, oh, oh, ohhh"
+Say "Oh, oh, oh, oh, oh"
 
 
 And love me (Yeah)

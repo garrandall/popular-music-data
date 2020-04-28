@@ -63,7 +63,7 @@ And reel and rock it
 Roll it over and move on up
 Just jump around and reel and rock it
 Roll it over, roll over Beethoven
-We're rocking in two by two, ooh
+We're rocking in two by two, oh
 
 Well, early in the morning
 I'm a givin you the warning

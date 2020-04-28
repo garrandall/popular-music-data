@@ -73,32 +73,32 @@ And waiting for time
 Theres a lesson here somewhere
 I know its mine
 And though ill remember the promise we made
-Promises dont justify feeling this way, any more
+Promises don't justify feeling this way, any more
 
 Its time for letting go
 We can't hide what we both know
-But ooooh , ooooh the hurt grows
-Everytime i think its over
+But ohoh ohurt grows
+Everytime I think its over
 
 Youve been keepin all your secrets inside
-I know the truth now baby, you dont have to hide
+I know the truth now baby, you don't have to hide
 But my mind wanders , to the very first day
 What a shame things had to turn out this way
 
 Its time for letting go
 We can't hide what we both know
-But ooooh , oooh
-The hurt grows , everytime i think its over
+But ohohoh
+The hurt grows , everytime I think its over
 
 No words, could bring back your affection
 And no lies, could keep me holdin on
 Holdin on and holdin on
 
-Now i know that its
+Now I know that its
 Time for letting go
 We can't hide what we both know
-But oooh , oooh the hurt grows
-Everytime i think its over
+But oh ohoh hurt grows
+Everytime I think its over
 Its time to realize
 That were both just living lies
 And way down deep inside
@@ -106,7 +106,7 @@ The time is telling me its time for letting go
 
 Let it go
 I keep tellin myself over and over
-Let it go .....................
+Let it go ...
 But my loves still strong
-But i just can't keep holding on
+But I just can't keep holding on
 And holdin on and holdin on

@@ -82,7 +82,7 @@ Don't try to turn my head away
 I'm flirtin' with disaster every day
 (And you are too, baby)
 (It ain't for everybody)
-(Ahh, c'mon man)
+(Ah, c'mon man)
 
 Flirtin' with disaster, babe ya'll know what I mean
 You know the way we run our lives it makes no sense to me

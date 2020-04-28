@@ -100,13 +100,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-04-27'
 ---
-Hmmmmm hmmmmm
-Hmm hmm hmmmmmm hmmm hmmm hmm hmm
-Hmm hmm hmmmm hmmmm hmmmmm hmm
-Hmm hmm hmm hmm hmmmmmm
+Hm hm
+Hm hm hm hm hm hm hm
+Hm hm hm hm hm hm
+Hm hm hm hm hm
 
 
-Hmm hmm
+Hm hm
 Memories
 Light the corners of my mind
 Misty water-colored memories
@@ -138,6 +138,6 @@ We will remember
 Whenever we remember
 The way we were
 The way we were
-Hmmmmm hmmmmm
-Hmm hmm hmmmmmm hmmm hmmm hmm hmm
-Hmmm hmmm hmmmmm hmmmmm hmmmmmmmmmmm
+Hm hm
+Hm hm hm hm hm hm hm
+Hm hm hm hm hm

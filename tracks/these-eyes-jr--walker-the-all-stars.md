@@ -78,9 +78,9 @@ Girl, you broke it
 
 
 Oh, these eyes, these eyes, these eyes
-Ooh
+Oh
 These eyes, these eyes, these eyes
-Ooh
+Oh
 
 
 Oh, oh these eyes watched you
@@ -111,7 +111,7 @@ Long to hold you tight, oh yeah
 These eyes are cryin
 These eyes have seen alot of love
 But they're never gonna see another
-One like I had with you, oooh
+One like I had with you, oh
 These arms, these arms, these arms
 These eyes, these eyes, these eyes
 These arms, these arms, these arms

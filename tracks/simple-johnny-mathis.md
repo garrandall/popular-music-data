@@ -68,7 +68,3 @@ This time there'll be no sad good-byes
 No teardrops in your eyes
 Girl I'm gonna make it beautifies
 
-
-
-
-

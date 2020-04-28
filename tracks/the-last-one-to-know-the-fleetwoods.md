@@ -44,6 +44,6 @@ Thought our love would do nothing but grow
 It's all over town
 I was the last one to know (the last one)
 
-Mmmmm to know (the last one)
-Mmmmm to know (the last one)
-Mmmmm to know
+Mmm to know (the last one)
+Mmm to know (the last one)
+Mmm to know

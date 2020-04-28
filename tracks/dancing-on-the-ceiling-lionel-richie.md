@@ -90,7 +90,7 @@ Oh, what a feeling when we're dancing on the ceiling
 The room is hot and that's good
 Some of my friends came by from the neighborhood
 The people starting to climb the walls
-Oooh, it looks like everybody is having a ball
+Oh, it looks like everybody is having a ball
 
 Oh, what a feeling when we're dancing on the ceiling
 Oh, what a feeling when we're dancing on the ceiling.  Ah
@@ -108,7 +108,7 @@ Come on, let's get down!
 
 (Cheering)
 Hey, hey, hey, hey, hey, hey, hey, hey!
-Hey, hey, hey.......(Cheering)
+Hey, hey, hey...(Cheering)
 
 So come on and get loose
 Don't hold back 'cause it ain't no use

@@ -69,9 +69,9 @@ rankings:
   start_date: '1974-07-27'
 ---
 Bill walked me to my door last night
-And he said, Before I go....
+And he said, Before I go...
 There's something about our love affair
-That I have a right to know......
+That I have a right to know...
 I said, Lets not stand out here like this
 What would the neighbors think?
 Why don't we just step inside
@@ -80,7 +80,7 @@ And Ill fix us both a drink
 My girl Bill
 My, my, girl Bill
 Can't say enough about the way I feel
-About my girl..... my girl Bill
+About my girl... my girl Bill
 
 Williams hands were shaking
 As he took his glass of wine
@@ -94,7 +94,7 @@ And face this, man to man
 My girl Bill
 My, my, girl Bill
 Can't say enough about the way I feel
-About my girl..... my girl Bill
+About my girl... my girl Bill
 
 Bill, you know we just left her place
 And we both know what she said
@@ -103,10 +103,10 @@ And she wishes you were dead!
 Now, I know we both love her
 And I guess we always will
 But you're gonna have to find another
-Cause shes my girl ........ Bill!
+Cause shes my girl ... Bill!
 
 My girl Bill
 My, my, girl Bill
 Can't say enough about the way I feel
-About my girl..... talkin' bout my little girl
+About my girl... talkin' bout my little girl
 My girl, Bill

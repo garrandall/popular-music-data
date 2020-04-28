@@ -72,7 +72,7 @@ Livin' fine (You know I'm livin' fine)
 Livin' high (Yes I'm livin' high)
 On borrowed time (On borrowed time)
 Livin' high (Whoohoo!)
-Livin' fine (Ahhh!)
+Livin' fine (Ah!)
 Livin' high
 On Lake Shore Drive (Midnight ride)
 Livin' high (We're livin' high)
@@ -84,7 +84,7 @@ On Central Drive (He's on Central Drive!)
 Livin' high (We're livin', livin' high)
 On Prestwick Drive (Catch me on Prestwick Drive!...)
 Livin' high (...gettin' in and drivin' my Mercedes...)
-Livin' fine (...up and down and up and down -- sh*t! I don't....)
+Livin' fine (...up and down and up and down -- sh*t! I don't...)
 
 
 

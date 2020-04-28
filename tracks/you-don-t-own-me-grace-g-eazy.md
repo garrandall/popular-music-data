@@ -98,7 +98,7 @@ And she's the baddest I would love to flaunt
 Take her shopping, you know Yves Saint Laurent
 But nope, she ain't with though
 All because she got her own dough
-Boss bossed if you dont know
+Boss bossed if you don't know
 She could never be a broke ho
 You don't own me
 I'm not just one of y'all many toys
@@ -128,7 +128,7 @@ Well goddamn, she said come over and see it for yourself
 Never ask for your help, independent women
 She ain't for the shelf
 Nah, she's the one
-Smoking til the weed is (Ahhh)
+Smoking til the weed is (Ah)
 Stand up until we see the sun
 The baddest ever, I swear she's does it better than I see her done
 Yeh yeh

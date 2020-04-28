@@ -78,15 +78,15 @@ And it's the brat tat tat yall
 And its another album
 Uh huh and its so phat phat phat yall
 
-Ooooh
+Oh
 Im in love
 Im in love
 Im in love
 Im in love with you
-And there aint nothing I wont do for my Baby
+And there aint nothing I won't do for my Baby
 You drive me Crazy
 And it makes me Say
-Ooooh
+Oh
 Im in love
 Im in love
 Im in love
@@ -94,12 +94,12 @@ Im in love with you
 And there aint nothing nobody can say cuz you're the one for me Baby
 
 When I wake up in the morning it's You
-When I cant sleep at night it's You
+When I can't sleep at night it's You
 When im tossin and turning its You
 When my body yearnin it's You
 
 Im in love like Maxwell
-You see me cryin but I just cant help it
+You see me cryin but I just can't help it
 Myself esteem is even higher when im walking with you
 You give me fire and desire
 Like Tina Marie and Rick James do
@@ -114,15 +114,15 @@ And since you is, lets do this
 It seems I been shot by cupid
 Am I gonna stop, think not that's stupid cuz . . .
 
-Ooooh
+Oh
 Im in love
 Im in love
 Im in love
 Im in love with you
-And there aint nothing I wont do for my Baby
+And there aint nothing I won't do for my Baby
 You drive me Crazy
 And it makes me Say
-Ooooh
+Oh
 Im in love
 Im in love
 Im in love
@@ -132,7 +132,7 @@ And there aint nothing nobody can say cuz you're the one for me Baby
 Im in love with you more than my car
 More than my house
 More than the night I keep your name comin out my mouth
-I cant get you off my mind
+I can't get you off my mind
 Finally found somebody who see me instead what's on the out side
 As fine as Roy Jones
 Makin a move in my bones
@@ -151,15 +151,15 @@ Lord have mercy somebody gonna have to pray for me
 Your worthy, my service is superb
 On purpose im swerving all the way to ya heart
 
-Ooooh
+Oh
 Im in love
 Im in love
 Im in love
 Im in love with you
-And there aint nothing I wont do for my Baby
+And there aint nothing I won't do for my Baby
 You drive me Crazy
 And it makes me Say
-Ooooh
+Oh
 Im in love
 Im in love
 Im in love
@@ -167,22 +167,22 @@ Im in love with you
 And there aint nothing nobody can say cuz you're the one for me Baby
 
 When I wake up in the morning it's You
-When I cant sleep at night it's You
+When I can't sleep at night it's You
 When im tossin and turning its You
 When my body yearnin it's You
 When I wake up in the morning it's You
-When I cant sleep at night it's You
+When I can't sleep at night it's You
 When im tossin and turning its You
 When my body yearnin it's You
-Ooooh
+Oh
 Im in love
 Im in love
 Im in love
 Im in love with you
-And there aint nothing I wont do for my Baby
+And there aint nothing I won't do for my Baby
 You drive me Crazy
 And it makes me Say
-Ooooh
+Oh
 Im in love
 Im in love
 Im in love

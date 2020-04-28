@@ -36,7 +36,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-03-17'
 ---
-Ooh, he left me
+Oh, he left me
 Didn't even say goodbye
 Wrote me a letter
 I found it by my bedside

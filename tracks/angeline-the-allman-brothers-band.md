@@ -49,7 +49,7 @@ Oh, Angeline.
 
 
 Lookin' at the bright lights, searchin' for the sliver screen.
-I never seen a woman who could look so good, 
+I never seen a woman who could look so good,
 and be so doggone mean.  Yeah.
 
 Oh, midnight struttin' in New York City.
@@ -65,8 +65,4 @@ leavin' broken hearts all along the way.
 She's got friends that she ain't never used.
 She's winnin' now but she's bound to lose.
 Oh, Angeline.
-
-
-
-
 

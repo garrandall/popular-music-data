@@ -38,7 +38,7 @@ If I could let you stay
 
 
 (It's late) When I'm bleeding deep inside
-(It's late) Ooh, is it just my sickly pride?
+(It's late) Oh, is it just my sickly pride?
 (Too late) Even now the feeling seems to steal away
 (So late) Though I'm crying, I can't help but hear you say
 It's late, it's late, it's late, but not too late
@@ -70,8 +70,8 @@ We gotta know what this life is all about
 
 Tell me
 Try to work it out, yeah
-Ooh!
-Ooh, too late
+Oh!
+Oh, too late
 Yeah
 Too late, much too late
 Ah!
@@ -86,8 +86,8 @@ Oh, you make me wonder
 Did I live my life right?
 
 
-(It's late) Ooh, but it's time to set me free
-(It's late) Ooh yes, I know, but there's no way it has to be
+(It's late) Oh, but it's time to set me free
+(It's late) Oh yes, I know, but there's no way it has to be
 (Too late) So let the fire take our bodies this night
 (So late) Let the waters take our guilt in the tide, now
 It's late, it's late, it's late, it's late
@@ -97,6 +97,6 @@ It's late, it's late, it's late
 Oh, it's all too late
 Whoa, oh, it's too late
 Come on!
-I'm late, ooh, late
+I'm late, oh late
 Oh yeah
 Whoa!

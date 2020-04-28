@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wham--lonnie-mack
+lyrics_url: https://genius.com/Lonnie-mack-wham-lyrics
 name: Wham!
 rankings:
 - end_date: '1963-08-30'
@@ -43,4 +44,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-19'
 ---
-
+*~* instrumental *~*

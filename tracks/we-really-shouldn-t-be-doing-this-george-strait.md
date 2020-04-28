@@ -45,9 +45,6 @@ We'd each be hurting somebody else if we don't say our good-byes real fast
 Won't even think about a farewell kiss, we really shouldn't be doing this
 Well
 
-
-
-
 This kinda situation has to pass, this chance encounter has to be the last
 To take it further we would be remiss, we really shouldn't be doing this
 Won't even think about a good-bye kiss, we really shouldn't be doing this

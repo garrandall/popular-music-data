@@ -134,7 +134,7 @@ rankings:
 "Every 'ting.."
 
 
-Ahh! Me so horny!
+Ah! Me so horny!
 Me love you long time!
 
 
@@ -148,7 +148,7 @@ I'm like a dog in heat, a freak without warning
 I have an appetite for sex, cause me so horny
 
 
-Ahh! Me so horny!
+Ah! Me so horny!
 Me love you long time!
 
 
@@ -162,7 +162,7 @@ I'm a freak in heat, a dog without warning
 My appetite is sex, cause me so horny
 
 
-Ahh! Me so horny!
+Ah! Me so horny!
 Me love you long time!
 
 
@@ -176,7 +176,7 @@ I'm like a dog in heat, a freak without warning
 I have an appetite for sex, cause me so horny
 
 
-Ahh! Me so horny!
+Ah! Me so horny!
 Me love you long time!
 
 

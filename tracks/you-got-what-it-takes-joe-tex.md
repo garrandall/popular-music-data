@@ -50,7 +50,7 @@ They love your sweet baby talk
 Oh, I don't know
 I can't see what it is you got
 All I know is that you got what it takes
-Ooh, to take what I got
+Oh to take what I got
 Hah, hah, yeah
 
 Some boys say they love your smile

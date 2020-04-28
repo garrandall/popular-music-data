@@ -47,7 +47,7 @@ rankings:
 Once again we said it's over
 And just like before
 We vowed to take no more
-Ooh, but I suddenly I find
+Oh, but I suddenly I find
 That every time
 Your face comes into view
 
@@ -63,7 +63,7 @@ Sometimes angry words with you
 Make me lose my head
 But memories unwind
 To find my hear again
-Ooh, but I stubbornly I go
+Oh, but I stubbornly I go
 And this time I am sure
 'Cause I'm reaching for the door
 

@@ -38,10 +38,10 @@ rankings:
 ---
 Hey
 What's your favourite thing in the world ?
-Fantastic ! Now tell me:
+Fantastic! Now tell me:
 How much do you love me ?
 Oh about this much. Mmm
-Heavy !
+Heavy!
 
 Who's your Baby ?
 Who's the one you love ?
@@ -49,7 +49,7 @@ You're the only one for me
 Who's you dreaming of ?
 You're the only one my eyes can see
 
-An' let me say in ev'ry way you are dynamite
+An' let me say in every way you are dynamite
 Do you know how good you really are ?
 Please don't let her stray away
 I pray each night

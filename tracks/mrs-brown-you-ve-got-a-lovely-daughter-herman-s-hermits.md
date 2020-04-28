@@ -70,7 +70,7 @@ Makes a bloke feel so proud
 
 
 If she finds that I've been 'round to see you ('round to see you)
-Tell her that I'm well and feelin' fine (feelin' fine, ooh)
+Tell her that I'm well and feelin' fine (feelin' fine, oh)
 Don't let on, don't say she's broke my heart
 I'd go down on my knees but it's no good to pine
 
@@ -82,7 +82,7 @@ Makes a bloke feel so proud
 
 
 If she finds that I've been 'round to see you ('round to see you)
-Tell her that I'm well and feeling fine (feelin' fine, ooh)
+Tell her that I'm well and feeling fine (feelin' fine, oh)
 Don't let on, don't say she's broke my heart
 I'd go down on my knees but it's no good to pine
 

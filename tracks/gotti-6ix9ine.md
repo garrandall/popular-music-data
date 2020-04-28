@@ -63,7 +63,7 @@ Gotti got it
 Who, who really with the money, money?
 Who, who really with the Gotti Gotti?
 Who, who really with the money, money?
-Ooh, do my dance, hit my things
+Oh do my dance, hit my things
 Break these bands, hunnid bands on my thing
 Mollied up, molly up, give it up
 Cop it, then I serve it up

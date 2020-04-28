@@ -124,7 +124,7 @@ Come on get with me tonight, baby (Come get with me, babe)
 I got what you need (Got what you need, girl)
 
 Now I have seen a lot of girls, but none like you
-Your red-boned and thick, got it goin' on, ooh
+Your red-boned and thick, got it goin' on, oh
 She's in the next room, I slid by the restroom
 And all I heard was zoom-zoom-zoom
 I see you peekin', but you ain't speakin'

@@ -60,8 +60,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
 ---
-You Can't Be A Beacon
-(Chorus)
 You can't be a beacon if your light don't shine
 You can't be a beacon if your light don't shine
 There's a little light in all of us by God's design
@@ -72,9 +70,8 @@ How can you ask forgiveness
 When you don't forgive
 I don't mean to bring you down or speak to you unkind
 But you can't be a beacon if your light don't shine
-(Repeat chorus)
+
 How can you ask a child to be honest and true?
 When he can only judge what's right by what he sees in you
 How can you offer vision, yet walk around blind
 No you can't be a beacon if your light don't shine
-(Repeat chorus)

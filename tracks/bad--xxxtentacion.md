@@ -68,7 +68,7 @@ Love you the way you movin' now
 
 I might be insane, yeah
 But I love the pain, yeah
-Feel it in the brain, yeah-ahh
+Feel it in the brain, yeah-ah
 Realize she just want me hit it right
 'Cause I get 'em goin' right
 

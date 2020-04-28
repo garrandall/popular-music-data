@@ -67,7 +67,7 @@ Say up jump the boogie to the bang bang boogie
 Let's rock, you don't stop
 Rock the rhythm that'll make your body rock
 Well so far you've heard my voice, but I brought two friends along
-And next on the mic is my man Hank; come on, Hank, sing that song:
+And next on the mic is my man Hank - come on, Hank, sing that song
 
 
 Check it out, I'm the C-A-S-A-N, the O-V-A and the rest is F-L-Y

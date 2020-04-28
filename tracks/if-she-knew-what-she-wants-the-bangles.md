@@ -65,7 +65,7 @@ rankings:
   start_date: '1986-08-09'
 ---
 
-Ooooh
+Oh
 
 If she knew what she wants
 (He'd be giving it to her)
@@ -138,7 +138,7 @@ Giving it to her
 (He'd be giving it to her)
 (He could give her that too)
 (But he can't see through her)
-Ooooooh, giving it to her
+Oh, giving it to her
 Giving it to her now
 
 

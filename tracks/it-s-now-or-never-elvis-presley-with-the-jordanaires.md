@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: it-s-now-or-never-elvis-presley-with-the-jordanaires
+lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-and-The-Jordanaires/It-s-Now-or-Never
 name: It's Now Or Never
 rankings:
 - end_date: '1960-07-24'
@@ -88,4 +89,40 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-11-28'
 ---
-
+It's now or never,
+Come hold me tight
+Kiss me my darling,
+Be mine tonight
+Tomorrow will be too late,
+It's now or never
+My love won't wait.
+When I first saw you
+With your smile so tender
+My heart was captured,
+My soul surrendered
+I'd spend a lifetime
+Waiting for the right time
+Now that your near
+The time is here at last.
+It's now or never,
+Come hold me tight
+Kiss me my darling,
+Be mine tonight
+Tomorrow will be too late,
+It's now or never
+My love won't wait.
+Just like a willow,
+We would cry an ocean
+If we lost true love
+And sweet devotion
+Your lips excite me,
+Let your arms invite me
+For who knows when
+We'll meet again this way
+It's now or never,
+Come hold me tight
+Kiss me my darling,
+Be mine tonight
+Tomorrow will be too late,
+It's now or never
+My love won't wait.

@@ -70,9 +70,6 @@ Yes and I'm so proud now (I'm so proud)
 Believe me I love you too
 I'm so proud of being loved by you
 
-
-
-
 I'm so proud of being loved by you
 And it would hurt, hurt to know
 If you ever were untrue

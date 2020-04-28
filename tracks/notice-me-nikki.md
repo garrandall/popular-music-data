@@ -70,13 +70,13 @@ rankings:
 ---
 Day after day
 I think about you and say
-Why dont you notice me
+Why don't you notice me
 Cause I've been watching you
 I've been watching you
 
 I write you letters all day
 And then I throw them away
-Cause I dont know what to say
+Cause I don't know what to say
 Cause I've been watching you
 I've been watching you
 
@@ -100,7 +100,7 @@ I've been watching you
 Cause I'm alone in this world
 And I'm in love with you, girl
 Can't you see?
-Won't you please notice me, ooh
+Won't you please notice me, oh
 
 Cause I'm alone in this world
 And I'm in love with you, girl
@@ -129,9 +129,9 @@ Can't you see?
 Won't you please notice me
 
 Oh, oh, yeah, yeah
-Ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohhoh
 No, no, yeah
-Now ooh, ooh, ooh, ooh, ooh
+Now oh oohohohh,ohoh
 I love you so and I said
-Now ooh, ooh, ooh, ooh, ooh
+Now oh oohohohh,ohoh
 Notice me

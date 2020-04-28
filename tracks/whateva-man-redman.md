@@ -96,7 +96,7 @@ Get you open like buttcheeks, from girls who be freaks
 Aiyyo, can I be SWV?
 You the One nigga
 Rap Shogun, yes E the one
-Yo, I'm rollin with a forty pack of niggaz
+Yo, I'm rollin with a forty pack of niggas
 Get my weed from Branson cause his sack's bigger
 Yo give me dap nigga
 What I clap lyrically tap call back
@@ -107,7 +107,7 @@ Bomb MC's with rough megahertz so call me
 Funk Doctor verbal starburst, lyrical expert
 Your boombox better form a union
 Cause I leave your circus overworked, word bond
-Niggaz front like they want it
+Niggas front like they want it
 But I be in the five hundred with E steadily gettin blunted
 Damn nigga you cool at what you spittin
 So why you holdin the blunt so long politickin
@@ -119,7 +119,7 @@ that's Masters like the Furious Five
 I, keep your crew chinky eyed, for bitches actin dog
 (Can you hit it from the back?)  Why not, while we toke on this
 
- (ohhh daddy... aiyeee)
+ (oh daddy... aiyeee)
 
 
  Yo, you ready to roll this weed up?
@@ -142,7 +142,7 @@ I lit my first L before I started to crawl
 I got my ass whupped when I had my first brawl
 But things changed since I was twelve years old
 I specialize in wreckin mics and area codes
-Now, PPP the kinda niggaz that'll bug witcha
+Now, PPP the kinda niggas that'll bug witcha
 Smoke bud witcha, later on stick a sluginya
 Everything that's like green ain't the bomb bitch
 I got different forms to make you lose your calm bitch

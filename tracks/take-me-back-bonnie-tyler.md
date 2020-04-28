@@ -78,10 +78,10 @@ But baby when it's dark and you're home at night
 Does she ever hold you close
 
 Take me back
-(Ooh you're gonna need me)
-(Ooh you're gonna need me)
+(Ohyou're gonna need me)
+(Ohyou're gonna need me)
 Take me back
-(Ooh you're gonna need me)
+(Ohyou're gonna need me)
 All those things we did before
 Whatever happened to them
 And all those things I've been living for
@@ -104,9 +104,9 @@ But baby when it's dark and you're home at night
 Does she ever hold you close
 
 Take me back
-Ooh you're gonna take me
+Ohyou're gonna take me
 Take me back
-Ooh you're gonna take me
+Ohyou're gonna take me
 Take me back
-Ooh you're gonna take me
+Ohyou're gonna take me
 Take me back...

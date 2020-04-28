@@ -60,13 +60,13 @@ BBD say you poison well I want some of that venom girl, girl
 
 
 
-Ooooh, girl your ass is superthick
+Oh, girl your ass is superthick
 Lotta chicks off in this club and you the baddest in this bitch
-Ooooh, look at what you wearing girl
+Oh, look at what you wearing girl
 The club owner should pay you whenever you make an appearance
 And you got me hooked, I might try not to look
 But I keep staring
-Come out to my city see, I run that bitch like errands oooh
+Come out to my city see, I run that bitch like errands oh
 Grown as hell I don't care to choose
 Who's coming, you, her and you
 Roll this up, after you hit it once, you'll need a parachute
@@ -74,9 +74,6 @@ To tell the truth I'm a tear the roof
 Out that motherfucker nail it too
 Loud pipes, hear the coupe, vroom, got stripes like a general
 You know I'm tryna get into you
-
-
-
 
 Now you the baddest that I've seen in the club all night
 Girl, your booty had me stuck like a drug all night
@@ -91,8 +88,4 @@ Girl you the one, too bad I'm not a jumper?
 She love the way the rapper tastes, too bad I'm not a sucker
 She call me when she need it
 And I'm a come running to feed that appetite I do it anyway she want it
-
-
-
-
 

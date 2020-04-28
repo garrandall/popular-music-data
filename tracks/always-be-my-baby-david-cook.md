@@ -27,11 +27,11 @@ No!
 You'll always be a part of me
 I'm a part of you indefinitely
 Girl don't you know you can't escape me
-Ooh darling cause you'll always be my baby
+Ohdarling cause you'll always be my baby
 And we'll linger on
 Time can't erase a feeling this strong
 No way you're never gonna shake me
-Ooh darling cause you'll always be my baby
+Ohdarling cause you'll always be my baby
 
 I ain't gonna cry no
 And I won't beg you to stay
@@ -44,34 +44,34 @@ Our love will never end no
 You'll always be a part of me
 I'm part of you indefinitely
 Girl don't you know you can't escape me
-Ooh darling cause you'll always be my baby
+Ohdarling cause you'll always be my baby
 And we'll linger on
 Time can't erase a feeling this strong
 No way you're never gonna shake me
-Ooh darling cause you'll always be my baby
+Ohdarling cause you'll always be my baby
 
 I know that you'll be back girl
-When your days and your nights get a little bit colder oooohhh
+When your days and your nights get a little bit colder oh
 I know that, you'll be right back, babe
-Ooooh! baby believe me it's only a matter of time
+Oh! baby believe me it's only a matter of time
 
 You'll always be a part of me
 I'm part of you indefinitely
 Girl don't you know you can't escape me
-Ooh darling cause you'll always be my baby
+Ohdarling cause you'll always be my baby
 And we'll linger on
 Time can't erase a feeling this strong
 No way you're never gonna shake me
-Ooh darling cause you'll always be my my baby....
+Ohdarling cause you'll always be my my baby...
 
 You'll always be a part of me (you will always be)
 I'm part of you indefinitely
 Girl don't you know you can't escape me
-Ooh darling cause you'll always be my baby
-And we'll linger on (we will linger on....)
+Ohdarling cause you'll always be my baby
+And we'll linger on (we will linger on...)
 Time can't erase a feeling this strong
 No way you're never gonna shake me
-Ooh darling cause you'll always be my baby
+Ohdarling cause you'll always be my baby
 
 Always be my baby
 

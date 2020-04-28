@@ -140,9 +140,9 @@ You'd better change it back or we will both be sorry
 
 
 Don't you want me, baby?
-Don't you want me, ohh?
+Don't you want me, oh?
 Don't you want me, baby?
-Don't you want me, ohh?
+Don't you want me, oh?
 
 
 I was working as a waitress in a cocktail bar
@@ -165,14 +165,14 @@ You'd better change it back or we will both be sorry
 
 
 Don't you want me, baby?
-Don't you want me, ohh?
+Don't you want me, oh?
 Don't you want me, baby?
-Don't you want me, ohh?
+Don't you want me, oh?
 
 
 
 
 Don't you want me, baby?
-Don't you want me, ohh?
+Don't you want me, oh?
 Don't you want me, baby?
-Don't you want me, ohh?
+Don't you want me, oh?

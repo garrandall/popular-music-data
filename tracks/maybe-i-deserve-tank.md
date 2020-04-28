@@ -89,7 +89,7 @@ rankings:
   start_date: '2001-07-28'
 ---
 
-Oooh hey hey well well well
+Oh hey hey well well well
 Do you mind if I tell the truth for a second ya'll
 
 Maybe I deserve
@@ -117,7 +117,7 @@ Maybe I deserve
 For you to put on a sexy dress
 for me to ask you Who the hell you trying to impress
 for you to laugh it off like it ain't nothing
-I know it's something Maybe just maybe 
+I know it's something Maybe just maybe
 
 to sit a home and wonder where you are
 is he kissing you touching you holding you what
@@ -133,7 +133,7 @@ for you to run crying, crying out the door
 to grab my coat and chase you down the street
 To say it ain't you it's my own insecurity
 for you to say yes I cheated on you
-I wont care cause after all I put you through I deserve
+I won't care cause after all I put you through I deserve
 I deserve yeah yeah yeah
 To be mistreated sometimes
 to even be lied to sometimes
@@ -144,11 +144,11 @@ Cause I paged you about 3 or 4 times
 girl I know girl I know I then put you through
 I then put you through hell
 and I don't care
-and I don't care 
+and I don't care
 and I deserve
 
-see a man cant take another man taking our woman
-we cant even stand waiting by the phone
+see a man can't take another man taking our woman
+we can't even stand waiting by the phone
 But we do the same shit
 
 

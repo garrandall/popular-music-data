@@ -157,7 +157,7 @@ All I wanna be is done
 Done
 
 
-Hey, hey, ooh
+Hey, hey, oh
 I wanna be done (So done)
 So done (So done)
 So done

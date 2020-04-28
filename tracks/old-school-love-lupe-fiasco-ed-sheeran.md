@@ -72,15 +72,12 @@ Had to walk cause it's hard to run in those unbuckled shells
 One microphone and a couple 12s
 Six drum sounds and a couple bells
 Is all you had to make a couple rails
-And that's a trap, and if you want it (eeeeeeeh)
+And that's a trap, and if you want it (eeh)
 You have to make it like that
 Now what's one turtle to a couple snails?
 Takes a long time to happen so fast
 And realize your future is somebody else's past
 Wassup...
-
-
-
 
 Chiraq summer looking so cruel
 How can I reel-to-reel when there's Pro Tool?
@@ -105,8 +102,4 @@ Give me that old school love right now
 I'm leaving it all up to you darling, giving you everything you want
 And give me that old school love right now
 You know when I hold you, you won't be alone...
-
-
-
-
 

@@ -114,14 +114,14 @@ Come on
 Yeah
 It's time for you to stop playing with my feelings, girl
 Come on, come on, girl (It's time to get down, yeah)
-Ooh
+Oh
 Come on, baby
 (It's time to get down, yeah)
 As long as you want it, baby
 As long as you need it, girl
 (It's time to get down, yeah)
 Come on, come on, girl
-Ooh
+Oh
 Yeah, yeah, yeah
 (It's time to get down, yeah)
 It's time for you to put your arms around me

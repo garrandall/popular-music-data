@@ -125,7 +125,3 @@ Just because I do, my darlin'
 Emotions more than words can help me say
 I love you, baby, just because you're you
 
-
-
-
-

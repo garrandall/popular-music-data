@@ -61,9 +61,6 @@ I can't sleep and I lay and I think
 The night is hot and black as ink
 Oh God, I need a drink of cool cool rain
 
-
-
-
 Love reign o'er me
 Rain o'er me, o'er me, o'er me!
 Love reign o'er me

@@ -76,7 +76,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-08'
 ---
-Oooh ...
+Oh ...
 
 Got out of town on a boat goin' to Southern islands
 Sailing a reach before a followin' sea
@@ -116,10 +116,10 @@ What Heaven brought you and me cannot be forgotten
 (I've been around the world) I have been around the world
 (Lookin') Lookin' for that woman girl
 Who knows love can endure
-And you know it will, and you know it will 
+And you know it will, and you know it will
 Yes
 
-Oooh ...
+Oh ...
 
 So we cheated and we lied and we tested
 And we never failed to fail, it was the easiest thing to do

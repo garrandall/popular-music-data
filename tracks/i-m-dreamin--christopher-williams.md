@@ -118,7 +118,7 @@ Till my dream is complete
 
 This dream is just
 Just you and me
-If I'm dreaming, ooh hoo
+If I'm dreaming, ohhoo
 I can't sleep dreaming about you
 (Dreaming, dreaming)
 

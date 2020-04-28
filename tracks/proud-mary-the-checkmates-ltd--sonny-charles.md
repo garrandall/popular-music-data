@@ -74,7 +74,7 @@ Rolling on the river
 Rolling, rolling
 Rolling on the river
 
-Ooh wee, it's all right
+Oh wee, it's all right
 
 If you come down to the river
 Bet you gonna find

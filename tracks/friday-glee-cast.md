@@ -19,7 +19,7 @@ rankings:
 
 
 
-Oo-ooh-ooh, hoo yeah, yeah Yeah, yeah
+Oo-oh-oh, hoo yeah, yeah Yeah, yeah
 Yeah-ah-ah Yeah-ah-ah Yeah-ah-ah Yeah-ah-ah Yeah, yeah, yeah
 
 

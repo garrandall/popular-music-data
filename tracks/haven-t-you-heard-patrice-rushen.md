@@ -94,7 +94,7 @@ I've been lookin' for you {Haven't you heard} (Well, all you, I need you)
 I've been lookin' for you {Haven't you heard} (I'm lookin' for you, I'm lookin' for you)
 I've been lookin' for you {Haven't you heard}
 (Mmm, caught my eye, you're the perfect guy, yeah)
-I've been lookin' for you {Haven't you heard} (Ooh...ooh...ooh...ooh...ooh...ooh...ooh...)
+I've been lookin' for you {Haven't you heard} (Oh...oh...oh...oh...oh...oh...oh...)
 
 I've been lookin' for you {Haven't you heard} (I'm lookin', lookin' for you)
 I've been lookin' for you

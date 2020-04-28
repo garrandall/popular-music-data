@@ -135,7 +135,7 @@ Swagger-jackers pay attention
 Cali girl, ATL, Detroit, New York girls be with me
 
 
-Ooh, Spotlight ain't nothing without you girl
+Oh Spotlight ain't nothing without you girl
 And the dance floor ain't nothing without you girl
 You a show stopper, whoa
 Let's get it poppin', whoa

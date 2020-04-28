@@ -4,9 +4,9 @@ artists:
 features:
 - Fabolous
 genres: []
-key: say-aah-trey-songz-fabolous
-lyrics_url: https://genius.com/Trey-songz-say-aah-lyrics
-name: Say Aah
+key: say-ah-trey-songz-fabolous
+lyrics_url: https://genius.com/Trey-songz-say-ah-lyrics
+name: Say Ah
 rankings:
 - end_date: '2009-12-04'
   rank: 81
@@ -133,12 +133,12 @@ Whoa whoa baby, what's yo name?
 
 Go girl, it's your birthday
 Open wide, I know you're thirsty
-Say aah, hey
-Say aah
+Say ah, hey
+Say ah
 And we don't buy no drinks at the bar
 We pop champagne 'cause we got that dough
-Let me hear you say aah
-If you want me say aah
+Let me hear you say ah
+If you want me say ah
 
 
 Pocket full of money, club don't jump 'til I walk inside the doorway
@@ -159,12 +159,12 @@ So give it here baby let me fill it up, fill it up
 
 Go girl, it's your birthday
 Open wide, I know you're thirsty
-Say aah, hey
-Say aah
+Say ah, hey
+Say ah
 And we don't buy no drinks at the bar
 We pop champagne 'cause we got that dough
-Let me hear you say aah
-If you want me say aah
+Let me hear you say ah
+If you want me say ah
 
 
 Shawty dance like a video vixen
@@ -185,18 +185,18 @@ So give it here baby let me fill it up, fill it up
 
 Go girl, it's your birthday
 Open wide, I know you're thirsty
-Say aah, hey
-Say aah
+Say ah, hey
+Say ah
 And we don't buy no drinks at the bar
 We pop champagne 'cause we got that dough
-Let me hear you say aah
-If you want me say aah
+Let me hear you say ah
+If you want me say ah
 
 
 Hey hey hey hey hey
 It's 'loso, you might be too drunk to know so
 
-I make you say aah just like I'm your doctor
+I make you say ah just like I'm your doctor
 All I prescribe is cranberry and vodka
 Then I'm tryna kick it, play a little soccer
 And bust a couple off, blaka blaka
@@ -213,17 +213,17 @@ And girl, I know you thirsty but don't know where your glass at
 
 Go girl, it's your birthday
 Open wide, I know you're thirsty
-Say aah, hey
-Say aah
+Say ah, hey
+Say ah
 And we don't buy no drinks at the bar
 We pop champagne 'cause we got that dough
-Let me hear you say aah
-If you want me say aah
+Let me hear you say ah
+If you want me say ah
 Go girl, it's your birthday
 Open wide, I know you're thirsty
-Say aah, hey
-Say aah
+Say ah, hey
+Say ah
 And we don't buy no drinks at the bar
 We pop champagne 'cause we got that dough
-Let me hear you say aah
-If you want me say aah
+Let me hear you say ah
+If you want me say ah

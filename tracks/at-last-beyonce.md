@@ -30,7 +30,7 @@ I found a thrill to press my cheek to
 A thrill that I have never known
 
 Oh yeah, when you smile
-You smile, Ooh and then the spell was cast
+You smile, Oh and then the spell was cast
 And here we are in heaven
 For you are mine
 At last

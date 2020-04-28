@@ -72,9 +72,9 @@ Gypsy, oh tell me, will my tears fall
 
 She cried, she cried and said
 
-Watch your step, oooh she'll hurt you yet
+Watch your step, ohhe'll hurt you yet
 Oh no no no no no no no
-Watch your step, oooh she'll hurt you yet
+Watch your step, ohhe'll hurt you yet
 Oh no no no no no no no
 
 Gypsy, oh tell me, does she want to marry me
@@ -88,6 +88,6 @@ Listen to what the gypsy said
 Oh no no no no no no no
 
 Gypsy, say it isn't true
-Watch out, oooh she doesn't love you
-Watch out, oooh she doesn't love you
+Watch out, ohhe doesn't love you
+Watch out, ohhe doesn't love you
 Gypsy, say it isn't true

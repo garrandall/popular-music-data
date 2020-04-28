@@ -95,7 +95,7 @@ There is a blue one who can't accept the green one
 For living with a fat one, trying to be a skinny one
 And different strokes for different folks
 And so on and so on and scooby dooby doo-bee
-Ooh, sha sha
+Oh sha sha
 We got to live together
 
 I am no better and neither are you
@@ -108,12 +108,12 @@ There is a long hair that doesn't like the short hair
 For being such a rich one, that will not help the poor one
 Different strokes for different folks
 And so on and so on and scooby dooby doo-bee
-Ooh, sha sha
+Oh sha sha
 We got to live together
 
 There is a yellow one that won't accept the black one
 That won't accept the red one, that won't accept the white one
 Different strokes for different folks
 And so on and so on and scooby dooby doo-bee
-Ooh, sha sha
+Oh sha sha
 I am everyday people

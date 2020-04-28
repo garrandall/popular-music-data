@@ -116,7 +116,7 @@ Drinking every night because we drink to my accomplishments
 Faded way too long I'm floating in and out of consciousness
 And they sayin' I'm back, I'd agree with that
 I just take my time with all this shit, I still believe in that
-I had someone tell me I fell off, ooh I needed that
+I had someone tell me I fell off, ohI needed that
 And they wanna see me pick back up, well where'd I leave it at
 I know I exaggerated things, now I got it like that
 Tuck my napkin in my shirt, 'cause I'm just mobbin' like that

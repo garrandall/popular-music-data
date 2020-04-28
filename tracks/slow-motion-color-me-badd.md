@@ -89,7 +89,7 @@ rankings:
   start_date: '1992-09-19'
 ---
 
-Ooooh sock it to me mamma
+Oh sock it to me mamma
 
 
 Oh I thought I saw a pussy cat baby
@@ -111,7 +111,7 @@ You're the 1 I'm thinking of
 Once I make it right
 Baby I know you will never go
 
-I like to love you in slow motion (oooooh you got it goin on) (slow)
+I like to love you in slow motion (oh got it goin on) (slow)
 Let me love you slow (slow)
 I like to love you slow so morning will come before I do
 Let me love you slow
@@ -129,7 +129,7 @@ Come over here & get a little bit closer to me (yeah)
 The time has come for me to love you real slow (slow)
 Motion lover is what they call me (good God)
 
-I like to love you in slow motion (oooooh you got it goin on) (slow)
+I like to love you in slow motion (oh got it goin on) (slow)
 Let me love you slow (slow)
 I like to love you slow so morning will come before I do
 Let me love you slow (how ya wanna do it baby)
@@ -142,10 +142,10 @@ Don't get offended if I fall for a little behind baby (all right)
 20 miles per hour and uh, your rump is mine yeah
 
 
-I like to love you in slow motion (oooooh you got it goin on)
+I like to love you in slow motion (oh got it goin on)
 Let me love you slow (slow)
 I like to love you slow so morning will come before I do
-Let me love you... ooooh sock it to me mamma
+Let me love you... ohck it to me mamma
 
 Allll night
 You know that I want your love

@@ -40,7 +40,7 @@ It was all in my head (Skrrt, skrrt)
 Yeah, look at you (You), boy, I invented you
 Your Gucci tennis shoes, runnin' from your issues
 Cardio good for the heart (For the heart)
-I figured we could work it out, hmm
+I figured we could work it out, hm
 
 
 Painted a picture; I thought I drew you well
@@ -64,7 +64,7 @@ It was all in my head (Skrrt, skrrt)
 Yeah, look at you (You), boy, I invented you
 Your Gucci tennis shoes, runnin’ from your issues
 Cardio good for the heart (For the heart)
-I figured we could work it out, hmm
+I figured we could work it out, hm
 
 
 Wanted you to grow, but, boy, you wasn't budding

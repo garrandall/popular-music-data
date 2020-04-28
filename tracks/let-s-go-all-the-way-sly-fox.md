@@ -135,7 +135,7 @@ Livin' in fantasy
 
 Let's go all the way
 Let's go all the way
-(Ohh ohh ohh)
+(Ohh oh oh)
 Let's go all the way
 
 (Yeah yeah yeah)
@@ -150,12 +150,12 @@ Sinkin' in the sand (the sand the sand)
 The Hollywood squares are
 Living in Disneyland
 
-(Wheee ahhhhhh)
+(Wheee ah)
 Let's go all the way
 (Let's go all the way)
 Let's go all the way
 (Let's go all the way)
-(Ahh ahh ahh)
+(Ah ah ah)
 Let's go all the way
 
 Let's go all the way
@@ -163,7 +163,7 @@ Let's go all the way
 Let's go all the way
 Let's go all the way
 We need heaven on earth today
-(Ahh ahh ahhhh)
+(Ah ah ah)
 We can make a better way
 
 Let's go all the way

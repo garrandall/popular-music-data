@@ -121,7 +121,7 @@ rankings:
   start_date: '1997-12-06'
 ---
 
-Don't you know i can see what you're doing
+Don't you know I can see what you're doing
 Runnin' around with your cheap talk, cheap talk
 What I need is a man who can do me right
 
@@ -145,11 +145,11 @@ I just got to be sure that you always will be around
 do you know what it takes?
 do you know what it takes?
 
-Don't waste my time with your lies (yeah baby, i gotta know)
+Don't waste my time with your lies (yeah baby, I gotta know)
 You got to prove that you will always be around
 I'll give you everything
 Boy will you do the same for me?
-Will you do anything? 
+Will you do anything?
 I gotta know what will it be
 
 

@@ -37,7 +37,7 @@ Did you know I don't care? You can suck my...
 Did you hear the one about me trying to die?
 Fist in the air and a finger to the sky.
 Do I care if you hate me? Do you wanna know the truth?
-C'est la vie....adiÃ³s....good riddance....fuck you!
+C'est la vie...adiÃ³s...good riddance...fuck you!
 
 You can be me and I will be you.
 You can live just like a star.

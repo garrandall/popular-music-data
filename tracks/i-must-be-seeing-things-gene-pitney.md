@@ -66,7 +66,7 @@ You made a fool of me
 I must be seeing things
 And hearing things
 
-Oh no, I need you so, Oh please don't go.....
+Oh no, I need you so, Oh please don't go...
 
 
 

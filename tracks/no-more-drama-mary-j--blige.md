@@ -133,7 +133,7 @@ Wanna speak my mind, wanna speak my mind
 Go 'head
 
 
-Ooh, it feels so good
+Oh, it feels so good
 When you let go
 Of all the drama in your life
 Now you're free from all the pain (free from all the pain)

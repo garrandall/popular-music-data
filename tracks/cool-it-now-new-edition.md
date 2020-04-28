@@ -122,7 +122,7 @@ And my friends keep telling me to
 
 Cool it now
 You got to cool it now
-Ooooooh watch out
+Oh watch out
 You're gonna lose control
 Cool it now
 You got to slow it down
@@ -144,7 +144,7 @@ And my friends keep telling me to
 
 Cool it now
 You got to cool it now
-Ooooooh watch out
+Oh watch out
 You're gonna lose control
 Cool it now
 You better slow it down
@@ -152,7 +152,7 @@ Slow it down
 You're gonna fall in love
 Cool it now
 You got to cool it now
-Ooooooh watch out
+Oh watch out
 You're gonna lose control
 Cool it now
 You got to slow it down
@@ -178,7 +178,7 @@ Just cool it down and stay in control!
 
 Cool it now
 You got to cool it now
-Ooooooh watch out
+Oh watch out
 You're gonna lose control
 Cool it now
 You better slow it down
@@ -203,19 +203,19 @@ If I love the girl who cares who you like
 
 
 Cool it now
-Ooooooh watch out
+Oh watch out
 Cool it now
 Slow it down
 
 Cool it now
-Ooooooh watch out
+Oh watch out
 Cool it now
 Slow it down
 
 
 Cool it now
 You got to cool it now
-Ooooooh watch out
+Oh watch out
 'Cause you're gonna lose control
 Cool it now
 You got to slow it down
@@ -237,6 +237,6 @@ Cool it now
 You got to slow it down
 Slow it down
 Cool it now
-Ooooooh watch out
+Oh watch out
 Cool it now
 Slow it down

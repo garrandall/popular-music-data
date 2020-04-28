@@ -31,7 +31,7 @@ rankings:
 Open your hand, I squeeze it tight
 I'm putting my trust in you
 If you take your time and love me right
-There ain't nothing that i won't do
+There ain't nothing that I won't do
 
 Take me higher and higher
 Baby. let's have a ball
@@ -50,7 +50,7 @@ I'll follow you anywhere
 
 Heaven knows you're good for me
 So I'm letting myself go
-In your arms is where i wanna be
+In your arms is where I wanna be
 Come on and hold me close
 
 Don't you drop

@@ -112,7 +112,7 @@ We don’t wanna
 
 I could tell you was into me from our instant chemistry
 As I reflect memory, you ride or you die for me
-I'll go to war over you want, I dont give a fuck by showing you
+I'll go to war over you want, I don't give a fuck by showing you
 You know what it is shawty, forever my lil shawty
 Long as I’m swimmin’ in Benjamins, you shop with no limited
 You reminisce every session, know you’ll come back again

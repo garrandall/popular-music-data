@@ -84,7 +84,7 @@ It's NERD where the party is never sorry, no, illa
 I take'em to the head, now to the bed, said the red gorilla
 
 
-Ooh, I got a body full of liquor with a cocaine kicker and I'm feeling like I'm thirty feet tall
+Oh, I got a body full of liquor with a cocaine kicker and I'm feeling like I'm thirty feet tall
 So lay it down, lay it down
 You got your legs up in the sky with the devil in your eyes, let me hear you say you want it all
 Say it now, say it now
@@ -95,20 +95,20 @@ Cause what I got for you
 I promise it's a killa
 You'll be banging on my chest, bang bang; gorilla
 
-Ooh, yeah
+Oh, yeah
 You and me baby making love like gorillas
-Ooh, yeah
+Oh, yeah
 You and me baby making love like gorillas
 
 
 I'm like a anaconda in your garden
 Baby girl, I'm explorin'
 Deep down in your forest like
-(Ooh ooh ooh, aah aah aah)
+(Oh oh oh, ah ah ah)
 Hey, we got it hotter than an amazon
 Gotcha cheetah bra with your heels on
 And I'm about to be the king of your jungle like
-(Ooh ooh ooh, aah aah aah)
+(Oh oh oh, ah ah ah)
 Yeah, yeah
 
 Hey, it's like a rain forest, baby, how I got your love pouring down
@@ -117,9 +117,9 @@ Cause what I got for ya, girl, I promise, it's a killa
 You'll be banging on my chest, bang bang; gorilla
 
 
-Ooh, yeah
+Oh, yeah
 You and me baby making love like gorillas
-Ooh, yeah
+Oh, yeah
 You and me baby making love like gorillas
 
 

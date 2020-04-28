@@ -175,7 +175,7 @@ Hey, what's a girl to do?
 (What, what?)
 Oh, what's a girl to do?
 (What, what?)
-Mmmm, what's a girl to do?
+Mmm, what's a girl to do?
 
 
 Just like fire, burnin' up the way

@@ -54,7 +54,7 @@ So, if I'm hearing you tell some small-town justice
 You will not forsake me, takin' vows to make me yours ever more
 Then darling, wake me when it's over, and not before
 
-Ooh, wake me when it's over
+Oh wake me when it's over
 Wake me when it's over and then back to sleep again
 
 It's hard to believe, my dear, that you're here at all

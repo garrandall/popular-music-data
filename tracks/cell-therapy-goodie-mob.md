@@ -94,7 +94,7 @@ Young girls thirteen years old
 Expose themselves to any Tom, Dick, and Hank
 Got mo' stretch marks than these hoes
 Hollin they got rank
-See Sega ain't in this new world order 
+See Sega ain't in this new world order
 Dem experimenting in Atlanta, Georgia
 United Nations, overseas
 they trained assassins to do search and seize
@@ -117,7 +117,7 @@ Where my W-2's, 1099's
 Unmarked black helicopters swoop down
 And try to put missiles in mines
 
-Who's that peeking in my window 
+Who's that peeking in my window
 POW nobody now
 
 Me and my family moved in our apartment complex
@@ -135,10 +135,10 @@ My folk don't understand so they don't take it serious
 But every now and then, I wonder
 If the gate was put up to keep crime out or to keep our ass in
 
-Who's that peeking in my window 
+Who's that peeking in my window
 POW nobody now
 
-Listen up little niggaz I'm talking to you
+Listen up little niggas I'm talking to you
 About what yo little ass need to be going through
 I fall a victim too and I know I shouldn't smoke so much
 But I do with the crew everybody on the average 'bout 4 or 5
@@ -169,7 +169,7 @@ Kiss tha days of tha old days past ways gone
 Mind blown, conception, protection
 My name on your selections but I caught you coming POW!
 
-Who's that peeking in my window 
+Who's that peeking in my window
 POW nobody now
 
 

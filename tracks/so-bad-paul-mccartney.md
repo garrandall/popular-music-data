@@ -82,9 +82,6 @@ Girl I love you, yes I love you so bad
 And she said, boy I love you
 Boy I love you so bad
 
-
-
-
 Girl, I love you
 Girl, I love you so bad
 

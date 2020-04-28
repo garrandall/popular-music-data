@@ -40,11 +40,11 @@ Open your heart to me, baby
 I'll hold the lock and you hold the key
 Open your heart to me, darlin'
 I'll give you love if you, you turn the key
-(open your heart I'll make you love me) 
+(open your heart I'll make you love me)
 I'll hold the lock and you hold the key
-Open your heart to me, darlin' 
+Open your heart to me, darlin'
 I'll give you love if you, you turn the key
-(ohh ohh ohh) 
+(oh oh oh)
 Open your heart with the key
 
 

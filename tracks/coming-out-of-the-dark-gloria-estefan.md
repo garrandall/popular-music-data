@@ -91,7 +91,7 @@ Up to now for me it's been hands against stone
 Spent each and every moment
 Searching for what to believe
 
-Coming out of the dark, i finally see the light now
+Coming out of the dark, I finally see the light now
 It's shining on me
 Coming out of the dark I know the love that saved me
 You're sharing with me
@@ -102,7 +102,7 @@ Step by step I'll make it through I know I can
 It may not make it easier but I have felt you
 Near all the way
 
-Coming out of the dark, i finally see the light now
+Coming out of the dark, I finally see the light now
 It's shining on me
 Coming out of the dark I know the love that saved me
 You're sharing with me
@@ -112,7 +112,7 @@ Forever I'll stand on the rock
 Forever, forever I stand on the rock of your love
 Love is all it takes, no matter what we face
 
-Coming out of the dark, i finally see the light now
+Coming out of the dark, I finally see the light now
 It's shining on me
 Coming out of the dark I know the love that saved me
 You're sharing with me

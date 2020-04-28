@@ -125,15 +125,15 @@ I finally found the love of a lifetime
 Forever in my heart
 I finally found the love of a lifetime
 
-Ooh, I finally found the love of a lifetime
-A love to last my whole life through, ooh
+Oh I finally found the love of a lifetime
+A love to last my whole life through, oh
 I finally found the love of a lifetime
 Forever in my heart
 I finally found the love of a lifetime (I finally found the love of a lifetime)
 Love of a lifetime (I finally found the love of a lifetime)
 I finally found the love (I finally found the love of a lifetime)
-Ooh, forever in my heart
-I finally found the love of a lifetime, ooh
+Oh forever in my heart
+I finally found the love of a lifetime, oh
 
 
 

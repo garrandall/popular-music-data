@@ -50,9 +50,6 @@ Look inside yourself and if you don't see what you want
 Maybe sometimes then you don't
 But leave your mind alone and just get high
 
-
-
-
 Well by and by, way after many years have gone
 And all the war freaks die off, leaving us alone
 We'll raise our children in the peaceful way we can

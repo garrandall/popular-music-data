@@ -43,7 +43,7 @@ rankings:
 Didn't I make you feel
 Like you were the only man?
 Didn't I give you everything that a woman possibly can?
-(Ohhhh ohhh ohhhhh)
+(Ohhhh oh oh)
 
 
 But with all the love I give you
@@ -67,7 +67,7 @@ Have another little piece of my heart now, baby
 
 You're out on the streets (looking good)
 And you know deep down in your heart that it ain't right
-And ohhhhh you never never hear me when I cry at night
+And oh you never never hear me when I cry at night
 Ohhhhhhhh
 
 

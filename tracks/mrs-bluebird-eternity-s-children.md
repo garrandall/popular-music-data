@@ -45,16 +45,8 @@ Keepin' warm through the cold spell
 
 
 Mr. Bluebird, I have told her
-That  you owe 
+That  you owe
 You've  had Julys oh so well
-
-
-
-
-
-
-
-
 
 Mrs. Bluebird, on my shoulder
 How's  your life since you've gotten older?

@@ -60,7 +60,7 @@ But don't you do it, no no, don't you let it get by (don't let it by)
 A little voice inside will tell you
 Exactly what you're gonna do
 Don't be a fool
-Ooh yeah
+Oh yeah
 
 You don't have to go looking near or far
 'Cause you can find happiness standing right where you are

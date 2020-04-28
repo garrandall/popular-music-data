@@ -128,13 +128,13 @@ If you rep for your hood then make some noise
 I got my eye on the guy in the Woolrich coat
 Don't he know Queen Bee got the ill deep throat?
 Uh! Let me show you what I'm all about
-How I make a Sprite can disappear in my mouth....HO!!!!
+How I make a Sprite can disappear in my mouth...HO!
 Shake up the dice, throw down your ice (What)
 Bet it all playa fuck the price
 Money ain't a thing throw it out like rice
 Been around the world cop the same thing twice
-Rub on my tits (Huh!) squeeze on my ass (Oooh!)
-Gimme some UH!!! step on the gas (Ah)
+Rub on my tits (Huh!) squeeze on my ass (Oh!)
+Gimme some UH! step on the gas (Ah)
 Pop the cork and roll up the hash (Roll it!)
 You know what we about, sex, drugs and cash
 
@@ -179,4 +179,4 @@ Two thousand and, fuckin three, why not? we makin it hot
 Come to, blow the spot, come on, yeah, Hey yo
 She back at it, why wouldn't she be? come on, yeah
 B.I.G. Freaky Tah, yeah yeah yeah, L's, light 'em, oh
-Hmm hmmm
+Hm hm

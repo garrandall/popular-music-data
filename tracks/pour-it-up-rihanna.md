@@ -111,9 +111,9 @@ The look in your eyes I know you want some
 And I still got mo' money...
 
 
-Oh ohh ohhh, ohhh oh oh oh
+Oh oh oh, oh oh oh oh
 All I see is signs, all I see is dolla' signs
-Oh ohh ohhh, ohhh oh oh oh
+Oh oh oh, oh oh oh oh
 Money on my mind, money, money on my mind
 Throw it up, throw it up
 Watch it fall out from the sky
@@ -144,9 +144,9 @@ My pockets deep and they never end, I still got mo' money
 I'm going dumb with all my friends, I still got mo' money
 
 
-Oh ohh ohhh, ohhh oh oh oh
+Oh oh oh, oh oh oh oh
 All I see is signs, all I see is dolla' signs
-Oh ohh ohhh, ohhh oh oh oh
+Oh oh oh, oh oh oh oh
 Money on my mind, money, money on my mind
 Throw it up, throw it up
 Watch it fall out from the sky

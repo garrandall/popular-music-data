@@ -91,7 +91,7 @@ rankings:
 Cry no more, no more, no more
 Shoo doo doo doo doo doo doo doo doo doo doo doo doo doo doo
 
-Hmm, you fell so deep in love
+Hm, you fell so deep in love
 'Twas like the fairy tale that somehow came true
 But then it fell apart
 Became a nightmare, what happened to the love
@@ -105,7 +105,7 @@ Wondering what you done wrong, ey... Baby
 (Heartaches you) Heartaches you've had
 You gave your very best
 You don't have to cry no more (No more)
-I'm what you're looking for (Mmm, hmm)
+I'm what you're looking for (Mmm, hm)
 
 No more lonely nights
 Wipe the tears from your eyes
@@ -118,7 +118,7 @@ I'll be there to kiss you in the moonlight
 Be the mornin' sun that greets you, be the whisper that says goodnight
 
 'Cause life's not over
-This is just the beginning, yeah... Ooh, yeah
+This is just the beginning, yeah... Oh, yeah
 Put your hands in my hand
 I'll show you love, baby, yes, I will, I'll never leave
 
@@ -127,7 +127,7 @@ You gave your very best
 You don't have to cry no more (No more)
 I'm what you're looking for (Trust me, baby)
 
-No more lonely nights (Ooh, yeah)
+No more lonely nights (Oh, yeah)
 Wipe the tears from your eyes
 You don't have to cry no more (Shoo doo doo doo shoo doo)
 I'll never leave you lonely (Woo)

@@ -78,11 +78,11 @@ rankings:
 ---
 
 If only you believe like I believe, baby (If only you believe like I believe)
-We'd get by 
+We'd get by
 If only you believe in miracles, baby (If only you believe in miracles)
-So would I 
+So would I
 If only you believe like I believe, baby (If only you believe like I believe)
-We'd get by 
+We'd get by
 If only you believe in miracles, baby (If only you believe in miracles)
 So would I
 
@@ -95,7 +95,7 @@ Then there's really nothing we can't do
 (You know  we could, you know we could)
 If we wanted to, baby
 (You know we could, you know we could)
-We could exist on the stars 
+We could exist on the stars
 It'd be so easy
 
 Now, baby
@@ -105,7 +105,7 @@ Oh, I've been so many places
 I've seen some things (Yes, I have)
 I know love is the answer (Yes, it is)
 Keeps holding this world together, yeah
-Ain't nothing better 
+Ain't nothing better
 Ain't nothing better (Nothing's better)
 And all the answers to our prayers
 Hell, it's the same everywheres, baby (Just the same now)
@@ -116,7 +116,7 @@ Then you're right where I found ya (Oh, baby)
 With my arms around ya (Oh, baby)
 O-o-o-o-o-o-oh, baby
 Baby, baby
-Love is a magic word, ooh, yeah (Baby)
+Love is a magic word, oh, yeah (Baby)
 Few ever find in a lifetime
 But from that very first look in your eyes
 I knew you and I had but one heart (Baby)
@@ -127,11 +127,11 @@ I had a taste of the real world (Didn't waste a drop of it)
 When I went down on you, girl
 
 Oh, if only you believe like I believe, baby (If only you believe like I believe)
-We'd get by 
+We'd get by
 If only you believe in miracles, baby (If only you believe in miracles)
-So would I 
+So would I
 If only you believe like I believe, baby (If only you believe like I believe)
-We'd get by 
+We'd get by
 If only you believe in miracles, baby (If only you believe in miracles)
 So would I
 
@@ -150,36 +150,36 @@ Baby (I love you so)
 Baby (Oh)
 
 Oh, yeah (Oh, yeah)
-All right (All right) 
+All right (All right)
 Baby, we're sure doin' it tonight (Baby, we're sure doin' it)
 Every time you come by, let me try (Come on by)
 Pretty please with sugar on it
-That's how I like it, ooh
-I can't even believe it with you 
+That's how I like it, oh
+I can't even believe it with you
 It's like having every dream I ever wanted come true (Dream of a lifetime)
-I picked up your vibes 
+I picked up your vibes
 You know, it opened my eyes (Dream of a lifetime)
 But I'm still dreamin', yeah (Hey, hey, hey, hey, hey, oh)
 And you're right where I found ya (Oh, baby)
 With my arms around ya (Oh, baby)
 
 Oh, if only you believe like I believe, baby (If only you believe like I believe)
-We'd get by 
+We'd get by
 If only you believe in miracles, baby (If only you believe in miracles)
-So would I 
+So would I
 If only you believe like I believe, baby (If only you believe like I believe)
-We'd get by 
+We'd get by
 If only you believe in miracles, baby (If only you believe in miracles)
 So would I
 So would I
 So would I
 
 Oh, if only you believe like I believe, baby (If only you believe like I believe)
-We'd get by 
+We'd get by
 If only you believe in miracles, baby (If only you believe in miracles)
-So would I 
+So would I
 If only you believe like I believe, baby (If only you believe like I believe)
-We'd get by 
+We'd get by
 If only you believe in miracles, baby (If only you believe in miracles)
 So would I
 

@@ -108,9 +108,9 @@ There is no escape from King Selassie I
 Flying on the income must fall to the sea
 There is no escape from his Majesty
 
-So ahh, and one of these day
+So ah, and one of these day
 When you hear a boy faint then uhh
-Where you gonna run too, ohhhh woyyyy
+Where you gonna run too, oh woyyyy
 I said they gonna run to the rock
 And mountain but they will be no rock, no rock
 They're gonna run to the rocks

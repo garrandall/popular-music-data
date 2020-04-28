@@ -77,12 +77,12 @@ I look to you
 After all my strength is gone
 In you I can be strong
 I look to you (To you)
-I look to you, ohhh, ooooh (Oh-oh-oh)
+I look to you, oh, oh-oh-oh)
 And when melodies are gone (Melodies are gone)
 In you I hear a song
 
 I look to you
 Yeah
 I look to you
-Ooooh
+Oh
 I look to you

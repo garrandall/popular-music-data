@@ -85,10 +85,10 @@ I can't move, you're in the groove
 would you believe little girl that I am crazy 'bout you, huh
 now go on with your bad self
 
-(Ooh)
+(Oh)
 
-Ooh, ooh, my my my baby's got these spells on me
-Ooh, ooh, ooh now mercy, mercy on me
+Oh, oh my my my baby's got these spells on me
+Oh, oh oohow mercy, mercy on me
 Huh, all right
 
 When you wear those big earrings, long hair, and things

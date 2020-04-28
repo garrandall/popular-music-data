@@ -122,9 +122,6 @@ In time you'll find
 I roll a dutch
 Cause the worlds to much, to take my pain away
 
-
-
-
 I shed tears for da world.Death carries no age limit.
 To my love ones up there pray for me,
 Life is prevailant. Oh yeah Lance picture this boy.

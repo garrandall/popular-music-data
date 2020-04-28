@@ -64,7 +64,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-19'
 ---
-Umm-hmm
+Umm-hm
 Now, there's a new dance
 It goes like-a this low
 I know what you're thinkin', babe
@@ -100,7 +100,7 @@ Ow!
 
 
 
-(Do-do-do-aah)
+(Do-do-do-ah)
 
 Just like a-workin' on a chain gang
 You're bustin' rocks
@@ -141,4 +141,4 @@ Hey, do The Duck
 Hey, do The Duck
 (Come on baby)
 
-Woo-ooo-ooo.
+Woo-oo-oo.

@@ -80,7 +80,7 @@ But you gonna pay Sugar Daddy's price
 
 (Sweet) Oh smile for the camera
 (As sugar) Yeah smile for the world
-(Sweet) Oh smile....give me your, give me your best smile
+(Sweet) Oh smile...give me your, give me your best smile
 (As candy) Like a sweet little girl
 
 So don't bother me with all your personal life

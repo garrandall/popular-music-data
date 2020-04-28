@@ -76,10 +76,10 @@ Am I too late
 Too late
 Am I too late
 
-Too late, ooh-ooh-hoo, woo-hoo
-Too late, ooh-ooh-hoo, woo-hoo
-Too late, ooh-ooh-hoo, woo-hoo
-Too late, ooh-ooh-hoo, woo-hoo
+Too late, oh-oh-hoo, woo-hoo
+Too late, oh-oh-hoo, woo-hoo
+Too late, oh-oh-hoo, woo-hoo
+Too late, oh-oh-hoo, woo-hoo
 
 (Too late) Can I get in the door
 (Too late) Wanna love you some more

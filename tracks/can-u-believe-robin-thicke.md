@@ -47,7 +47,7 @@ When youre down at the bottom
 Can you believe
 
 Can you believe when all hope seems gone
-When your mother and father cant keep you safe from harm
+When your mother and father can't keep you safe from harm
 Can you forgive in your heart
 Can you ask for forgiveness
 When nobody else believes can you believe

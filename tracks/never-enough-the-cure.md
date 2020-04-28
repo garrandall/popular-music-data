@@ -58,11 +58,6 @@ One more time to fill it up, one more time to kill
 Whatever I do is never enough
 It's never enough
 
-
-
-
-
-
 So let me hold it up, just one more go
 Holding it up for just once more
 One more time to fill it up, one more time to kill

@@ -25,7 +25,7 @@ rankings:
   start_date: '2005-07-30'
 ---
 
-Hey girl it's me i just called to tell you hi
+Hey girl it's me I just called to tell you hi
 Call me when you get this
 Haven't talked lately so hard to find the time
 Give the boys a big kiss

@@ -56,12 +56,12 @@ What may seem wrong at the time isnt always true
 Our love will go on as long as theres me and you
 
 Paul What was it all about?
-Paula I dont remember now
+Paula I don't remember now
 Both We had our first quarrel today
 
 What may seem wrong at the time isnt always true
 Our love will go on as long as theres me and you
 
 Paul What was it all about?
-Paula I dont remember now
+Paula I don't remember now
 Both We had our first quarrel today

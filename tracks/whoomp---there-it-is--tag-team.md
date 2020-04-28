@@ -245,7 +245,7 @@ Rock the mic, uh oh, I crave skin
 Rip shit, find a honey dip to dip it in
 Slam dunk it, stick it, flip it and ride
 That B-double-O-T-Y, oh my
-Ooh, that's it, come on, come on
+Oh that's it, come on, come on
 Whoomp, there it is! I'm done
 
 

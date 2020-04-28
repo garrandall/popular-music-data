@@ -22,12 +22,12 @@ Caught in a bad romance
 
 Rah-rah-ah-ah-ah
 Roma, Roma-ma
-GaGa, ooh la la
+GaGa, oh la la
 Want your bad romance
 
 Rah-rah-ah-ah-ah
 Roma, Roma-ma
-GaGa, ooh la la
+GaGa, oh la la
 Want your bad romance
 
 I want your ugly, I want your disease
@@ -55,7 +55,7 @@ Caught in a bad romance
 
 Rah-rah-ah-ah-ah
 Roma, Roma-ma
-GaGa, ooh la la
+GaGa, oh la la
 Want your bad romance
 
 I want your horror, I want your design
@@ -84,12 +84,12 @@ Caught in a bad romance
 
 Rah-rah-ah-ah-ah
 Roma, Roma-ma
-GaGa, ooh la la
+GaGa, oh la la
 Want your bad romance
 
 Rah-rah-ah-ah-ah
 Roma, Roma-ma
-GaGa, ooh la la
+GaGa, oh la la
 Want your bad romance
 
 Walk, walk fashion baby
@@ -133,7 +133,7 @@ Caught in a bad romance
 
 Rah-rah-ah-ah-ah
 Roma, Roma-ma
-GaGa, ooh la la
+GaGa, oh la la
 Want your bad romance
 
 

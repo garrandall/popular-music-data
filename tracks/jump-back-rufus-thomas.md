@@ -85,12 +85,12 @@ Oh, jump
 
 Wait a minute, baby
 (Jump)
-Ooh, come on do it
+Oh come on do it
 (Jump)
 
 Yeah, yeah, yeah
 (Jump)
-Ooh, yeah, yeah
+Oh yeah, yeah
 (Oh, jump back)
 
 Oh, wait a minute, baby

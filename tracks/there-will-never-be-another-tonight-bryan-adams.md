@@ -73,7 +73,7 @@ Put on your best dress darling
 Can't you see the time is right
 There will never be another tonight
 
-If you got your motor runnin' 
+If you got your motor runnin'
 Then I got my engines on
 Say the word and darlin' we'll be gone
 Outside the world is waitin'
@@ -119,7 +119,7 @@ Some people they're looking for paradise
 Others they're looking for inner light
 Me I'm just having the time of my life
 I'm headin' out, to check it out
-Check it out!!
+Check it out!
 
 
 

@@ -49,8 +49,8 @@ Before "The Artist Was Known As" wit my grown ass
 Haters said it won't last, know how many birds I flown past
 Celly on roam, full belly, first class
 And I don't play, I watch them pockets
-Know y'all niggaz go broke after you cop them watches
-See you in the club, no bub' nigga pop it 
+Know y'all niggas go broke after you cop them watches
+See you in the club, no bub' nigga pop it
 Then you wanna fuck, give it up nigga, not this
 My coat is ostrich, flow is the hottest
 You ain't got dough, you can't go with the Fox bitch
@@ -58,17 +58,17 @@ You ain't got dough, you can't go with the Fox bitch
 
 
 You can catch me at the hot spot cause I Fox, I plots
-at the bar y'all, all night, I pops 
-Is it alright, sho' you right, you can't stop it 
+at the bar y'all, all night, I pops
+Is it alright, sho' you right, you can't stop it
 This is our world, me and my girls
 You can catch me at the hot spot, I Fox, I plots
-at the bar y'all, all night, I pops 
-Is it alright, sho' you right, you can't stop it 
+at the bar y'all, all night, I pops
+Is it alright, sho' you right, you can't stop it
 This is our world, me and my girls
 
 
 
-Yo! Cats bustin out the six, cash flushin out the niggaz
+Yo! Cats bustin out the six, cash flushin out the niggas
 Platinum heart in half hangin 'tween the two tit-ties
 Scheme on your team, lookin over graph pictures
 Pick the finest, then I put it on the minors
@@ -93,17 +93,17 @@ You can catch me at the Expo', Jacob Jav
 Knocking Jigga out the Navigator, layin back, I stay in that
 Me fallin off? Imagine that, it's not the case
 I'm _Sittin on Top of the World_ like Brandy and Mase
-You wanna, buy me a drink, nigga hand me a case 
+You wanna, buy me a drink, nigga hand me a case
 Big ballin bitch, I want all of this shit
 Six AMG's with the spoiler kit
 Chromes from the fac', phones front and back
-CoCo, flow, niggaz is wantin that
-Out they vehicles, niggaz is bumpin that
+CoCo, flow, niggas is wantin that
+Out they vehicles, niggas is bumpin that
 I heard you wanna stop Fox, tell me how so
 I got that New York, to the Dirty South flow
 Whole album hot, even the outro
 This time around I'm tryin to do about fo'
-This is for my niggaz and bitches who count dough
+This is for my niggas and bitches who count dough
 And y'all in the club I make em bounce
 
 

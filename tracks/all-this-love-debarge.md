@@ -123,7 +123,7 @@ All, all my love, babe
 And all this love is waiting for you
 My baby, my sugar
 And all, all my love
-Is waiting for you, oooh
+Is waiting for you, oh
 
 All this love is waiting for you
 And all this love is waiting for you

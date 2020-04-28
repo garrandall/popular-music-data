@@ -116,7 +116,7 @@ and you ain't in between the Isley Brothers' sheets
 I give it to you real raw in the backseat
 that's how you want it, don't ya? (yeah)
 you'll tell your girlfriends, won't ya? (nah)
-don't lie 
+don't lie
 take it in your eye (why?)
 so buckle up, buckle up
 what's my name? what's my name? what's my name? what's my name? huh
@@ -134,7 +134,7 @@ wearin' out the shocks, wettin' up the dashboard clock
 seats full of sweat, I told ya I would hit it
 your kitty, kitty, cat, cat, was hungry so I fed it
 workin' as a team
-somebody, anybody 
+somebody, anybody
 jump with me to the cash bar
 I'll be like Bruce Lee in them skins goin' "waahhh"
 damn, it's so good, the mad grip on my tip
@@ -152,8 +152,4 @@ you love a good waxin', it's so relaxin'
 
 unh, give me a hug
 see what I'm sayin' love?
-
-
-
-
 

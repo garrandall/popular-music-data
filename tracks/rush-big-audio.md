@@ -101,7 +101,6 @@ And the times that I've been down
 I didn't get too high
 Kept my feet on the ground
 
-(Chorus)
 
 (Peter Sellers speaking)
 Yes, yes, delightful, delightful

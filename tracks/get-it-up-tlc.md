@@ -144,7 +144,7 @@ One time huh (ha ha ha)
 Woo there it is (uh)
 There it is
 Y'all know what it's like
-Y'all know what I'm talkin' about (ahh)
+Y'all know what I'm talkin' about (ah)
 I know y'all done did that nasty
 
 
@@ -157,7 +157,7 @@ Whatever's mentioned (Mentioned)
 Not to mention what I hand you wit' in question
 And a question at hand (There it is)
 Are you ready to make me feel the definition of a man (Man?)
-Man is it hot or is it me (Woah-ohhh-ohh)
+Man is it hot or is it me (Woah-oh-oh)
 Me I guess cause when it comes to feelin' free
 You free villains on civility my sexuality
 A formality of reality

@@ -97,7 +97,7 @@ Hey pretty mama, how you doing?
 Said I'm just in town for the weekend
 Looking for a little trouble to get into
 Baby, tell me what you're drinking
-And I got you, ooh
+And I got you, oh
 
 
 Playas wanna play
@@ -139,7 +139,7 @@ This is my song for real, no doubt
 Said the DJ's making me feel thugged out
 (I'm feeling thugged out, oh yeah)
 As I walk you to the dance floor
-We begin to dance slow (oooh)
+We begin to dance slow (oh
 Put your arms around me
 I'm feeling on your booty (this is my song, oh yeah)
 This is my song for real, no doubt

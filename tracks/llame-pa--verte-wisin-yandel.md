@@ -21,7 +21,7 @@ Tú quieres conocerme (Pa'l Mundo)
 Y yo conocerte (Un millón de copias obliga'o, Luny Tunes)
 Llamé pa' verte ("El Arma Secreta", Nelly)
 Tú quieres conocerme (Oye, esto es 'Pa'l Mundo')
-Y yo conocerte ,eh-eeeh (El dream team, duro)
+Y yo conocerte ,eh-eeh (El dream team, duro)
 
 
 Bailando sexy

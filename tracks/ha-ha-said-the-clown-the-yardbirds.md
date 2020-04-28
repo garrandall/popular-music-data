@@ -75,7 +75,3 @@ Stop fooling 'round.
 Could have died, she replied,
 "I'm the wife of the clown."
 
-
-
-
-

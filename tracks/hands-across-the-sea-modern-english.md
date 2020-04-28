@@ -21,33 +21,33 @@ rankings:
   start_date: '1984-04-21'
 ---
 
-Come with me 
-Close your eyes and touch what greets you there 
-Reaching out 
-Stretch your hands across the sea 
-Come with me 
-Close your eyes and touch what meets you there 
-Reaching out 
-Stretch your hands across the sea 
+Come with me
+Close your eyes and touch what greets you there
+Reaching out
+Stretch your hands across the sea
+Come with me
+Close your eyes and touch what meets you there
+Reaching out
+Stretch your hands across the sea
 
-Sitting in my room, nothing much to say 
-I heard you calling a thousand miles away 
-I did not mean to hurt you, you took me by surprise 
-There is still a chance if we just close our eyes 
+Sitting in my room, nothing much to say
+I heard you calling a thousand miles away
+I did not mean to hurt you, you took me by surprise
+There is still a chance if we just close our eyes
 
-Oooooh lady 
+Oh lady
 
-Come with me 
-Close your eyes and touch what greets you there 
-Reaching out 
-Stretch your hands across the sea 
-Come with me 
-Close your eyes and touch what meets you there 
-Reaching out 
-Stretch your hands across the sea 
+Come with me
+Close your eyes and touch what greets you there
+Reaching out
+Stretch your hands across the sea
+Come with me
+Close your eyes and touch what meets you there
+Reaching out
+Stretch your hands across the sea
 
-I can't explain this feeling 
-I won't begin to try 
+I can't explain this feeling
+I won't begin to try
 There is still a chance if we just close our eyes
 
 

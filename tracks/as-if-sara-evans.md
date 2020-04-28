@@ -49,7 +49,7 @@ rankings:
   start_date: '2007-12-29'
 ---
 
-Ooh yeah
+Oh yeah
 
 I love the way you wear those worn out blue jeans
 Walkin' all around in the big sunshine
@@ -104,7 +104,7 @@ Unless there's something I've missed
 I'm actin' as if
 
 (As if, as if, as if)
-Ooh yeah
+Oh yeah
 (As if, as if, as if)
 Oh I'm actin' as if
 (As if, as if, as if)

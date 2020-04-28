@@ -57,9 +57,6 @@ And sometimes my table looks a little bare
 Anything that I may miss is made up for each time we kiss
 You love me and I love you, so what do I care?
 
-
-
-
 What do I care if I never have much money?
 And sometimes my table looks a little bare
 Anything that I may miss is made up for each time we kiss

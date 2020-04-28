@@ -21,8 +21,8 @@ How they align
 Universe must have my back
 Fell from the sky into my lap
 And I know you know that you're my soulmate and all that
-I'm like ooh, ooh
-My whole life got me ready for you, ooh
+I'm like oh oh
+My whole life got me ready for you, oh
 Got me happy, happy
 I'ma be happy, happy, yeah
 I'ma be happy, happy

@@ -32,7 +32,7 @@ You made it this far, baby
 Don't let it go
 (Stand your ground)
 (Stand your ground)
-This is the moment for you know, ohh
+This is the moment for you know, oh
 
 (I'll be there)
 (To hold you in my heart)
@@ -89,7 +89,7 @@ Oh, my love
 (You gotta love)
 (You gotta love)
 (You gotta know you got my love)
-Wooo, oooh
+Wooo, oh
 
 (I'll be there)
 (To hold you in my heart)

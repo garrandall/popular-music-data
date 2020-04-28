@@ -49,7 +49,7 @@ TV is just a blank
 Looks like another dead end Sunday
 What about an early night
 Monday never feels so bright
-Ooh the sheets feel cold and lonely
+Oh the sheets feel cold and lonely
 Who wants to brave the pouring rain
 For a glass of French champagne?
 Well grab a cab, grab a cap and baby, come right by

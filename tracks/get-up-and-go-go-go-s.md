@@ -99,9 +99,6 @@ Hey!
 Hey!
 Hey!
 
-
-
-
 Go
 Get up and go
 Go

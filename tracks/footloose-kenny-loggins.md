@@ -132,13 +132,13 @@ Oo-wee, Marie, shake it, shake it for me
 Whoa, Milo, come on, come on let's go
 Lose your blues, everybody cut footloose
 
-Yeah, ooooh-oh-oh
+Yeah, oh-oh
 (Cut footloose)
-Yeah, ooooh-oh-oh
+Yeah, oh-oh
 (Cut footloose)
-Yeah, ooooh-oh-oh
+Yeah, oh-oh
 (Cut footloose)
-Oooooooooh
+Oh
 
 (First) You've got to turn me around
 (Second) And put your feet on the ground

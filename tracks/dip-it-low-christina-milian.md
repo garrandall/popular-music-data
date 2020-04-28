@@ -147,13 +147,13 @@ Pick it up slow
 Roll it all around
 Poke it out let your back roll
 Pop pop pop that thing
-Ima show you how to make your man say "Ooo" 
+Ima show you how to make your man say "Ooo"
 Dip it low
 Pick it up slow
 Roll it all around
 Poke it out let your back roll
 Pop pop pop that thing
-Ima show you how to make your man say "Ooo" 
+Ima show you how to make your man say "Ooo"
 
 You getting bold
 He growin' cold
@@ -175,13 +175,13 @@ If you know just how to move (mooove)
 All my fellas jump behind
 And show her what you want to do (show her what you got daddy)
 
-All my ladies wind it up 
-If you know just how to move 
-All my fellas jump behind 
-And show her what you want to do (ouuuh..wouh ouh)
+All my ladies wind it up
+If you know just how to move
+All my fellas jump behind
+And show her what you want to do (ouuuh...wouh ouh)
 
 Dip it low
-Pick it up slow (ohhh)
+Pick it up slow (oh)
 Roll it all around
 Poke it out let your back roll
 Pop pop pop that thing
@@ -191,32 +191,32 @@ Pick it up slow
 Roll it all around
 Poke it out let your back roll
 Pop pop pop that thing
-Ima show you how to make your man say "Ooo" 
+Ima show you how to make your man say "Ooo"
 
-We can move if you wanna 
-We can move if you wanna 
-We can mooove if you wanna 
+We can move if you wanna
+We can move if you wanna
+We can mooove if you wanna
 We can mooooooove...
 
 Dip it low
 Pick it up slow (slowww)
-Roll it all around (ohhhh)
-Poke it out let your back roll 
+Roll it all around (oh)
+Poke it out let your back roll
 Pop pop pop that thing (yeah)
-Ima show you how to make your man say "Ooo" 
+Ima show you how to make your man say "Ooo"
 Dip it low
-Pick it up slow 
+Pick it up slow
 Roll it all around
 Poke it out let your back roll (come on come on come on)
 Pop pop pop that thing
-Ima show you how to make your man say "Ooo" (ooooh)
+Ima show you how to make your man say "Ooo" (oh
 
 Dip it low
 Pick it up slow
 Roll it all around
 Poke it out let your back roll
 Pop pop pop that thing
-Ima show you how to make your man say "Ooo" 
+Ima show you how to make your man say "Ooo"
 Dip it low
 Pick it up slow
 Roll it all around

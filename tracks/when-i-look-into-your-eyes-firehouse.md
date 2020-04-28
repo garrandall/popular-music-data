@@ -118,9 +118,3 @@ And there's nothing I can do
 'Cause I see everything
 When I look at you
 
-
-
-
-
-
-

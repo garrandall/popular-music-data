@@ -80,7 +80,7 @@ Swing
 Now I know I'm dreaming
 Dreaming, dreaming
 Dreaming, dreaming, dreaming
-Hmmm, how do I get to sleeep
+Hm, how do I get to sleeep
 I know, I'll count
 Those bars on the window
 One, two, three, sleep
@@ -96,17 +96,17 @@ Po-po-poetry, that'll work
 
 Come sweet slumber
 Enshroud me in thy purple cloak
-Hmmm, doesn't even rhyme
+Hm, doesn't even rhyme
 
 Is that my teas made
 Paranoimia paranoi
 
-I cant stand tea
+I can't stand tea
 Tea, tea, tea, tea...
 
 Paranoimia, paranoimia...
 
-Ahhh, Happy Harry's High Club
+Ah, Happy Harry's High Club
 How do I, how am I
 Gonna get to sleep
 

@@ -69,4 +69,4 @@ And half the things I said
 And I wish I were, I wish I were
 All I should have been
 But most of all, oh, most of all
-I wish, I wish, I wish, ooh
+I wish, I wish, I wish, oh

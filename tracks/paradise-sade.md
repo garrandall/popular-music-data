@@ -72,28 +72,28 @@ rankings:
 I'd wash the sand off the shore
 Give you the world if it was mine
 Blow you right to my door
-Feels fine 
+Feels fine
 Feels like
 You're mine
 Feels right
 So fine
 I'm Yours
 You're mine
-Like Paradise 
+Like Paradise
 
 I'd give the world if it was mine
-Feels fine 
+Feels fine
 
 Feels like
 You're mine
 I'm Yours
 So fine
-Like Paradise 
+Like Paradise
 
 I'd wash the sand off the shore
 Give you the world if it was mine
 Blow you right to my door
-Feels fine 
+Feels fine
 
 Feels like
 You're mine
@@ -101,22 +101,22 @@ Feels right
 So fine
 I'm Yours
 You're mine
-Like Paradise 
+Like Paradise
 
-Oooh what a life
-Oooh what a life
-Oooh what a life
-Oooh what a life 
-
-I wanna share my life
-Wanna share my life with you
-Wanna share my life 
+Oh what a life
+Oh what a life
+Oh what a life
+Oh what a life
 
 I wanna share my life
 Wanna share my life with you
-Wanna share my life 
+Wanna share my life
 
-Oooh what a life
+I wanna share my life
+Wanna share my life with you
+Wanna share my life
+
+Oh what a life
 Like paradise
 
 

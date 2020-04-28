@@ -85,9 +85,6 @@ How she makes me smile
 With all this love I have to give her
 I guess, I'm gonna stay with her awhile
 
-
-
-
 How it makes me quiver
 How it makes me smile
 With all this love I have to give you

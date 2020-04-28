@@ -23,13 +23,13 @@ rankings:
 
 When you're on top of the world
 Or it's got you down
-When you're flying through the air 
+When you're flying through the air
 Or you're crashing to the ground
 When you're searching for the light
 And it's nowhere to be found
 Just phone me baby
 
-And I know we'll be the same 
+And I know we'll be the same
 The air won't tie you down
 I won't ever be the broken wings
 That keep you off the ground
@@ -48,7 +48,7 @@ The one you love
 
 Baby you can tell me everything
 The secrets of your heart
-If you could look inside of me 
+If you could look inside of me
 You'd see how beautiful you are
 I wanna show you everything
 Each and every part of me is yours
@@ -85,7 +85,7 @@ Let me loose inside your soul (Yeah, yeah, yeah)
 I only wanna be your every need (I only wanna be the love you want)
 I wanna be the girl in all your dreams (The one you want)
 I'll do anything to be (Yeah, yeah, baby baby)
-The one you love (Yeaaaah)
+The one you love (Yeah)
 
 I only wanna be the one you love (Baby)
 I only wanna be the one you want (Baby)

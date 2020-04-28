@@ -73,7 +73,7 @@ rankings:
   start_date: '2011-08-06'
 ---
 (I Do It)
-Hustle (10x)
+Hustle
 Ha!
 
 

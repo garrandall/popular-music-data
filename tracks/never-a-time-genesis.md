@@ -124,7 +124,7 @@ All I hoped that you would be
 Was so understanding, and by now you'd see
 But oh no...
 
-So sad, ohh, so sad
+So sad, oh, so sad
 That's the way that it goes, I know
 
 I'm gonna tell you right now...

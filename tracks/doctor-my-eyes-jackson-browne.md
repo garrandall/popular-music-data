@@ -82,9 +82,6 @@ Tell me what you see
 I hear their cries
 Just say if it's too late for me
 
-
-
-
 Doctor, my eyes
 Cannot see the sky
 Is this the prize

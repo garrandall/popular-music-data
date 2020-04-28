@@ -69,8 +69,8 @@ Before they notice me
 Seems like I gotta do wrong
 Before they notice me
 
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohh,oh, ohoh
+Oh oh oohohohh,oh, ohoh
 
 I go to bed, but my sleep just won't come
 My belly's empty and my brain is numb

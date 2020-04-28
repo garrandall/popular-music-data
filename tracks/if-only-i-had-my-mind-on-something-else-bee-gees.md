@@ -40,9 +40,6 @@ I find me fame,reach the top.
 I keep on pushing never stop.
 If I could just forget her name.
 
-
-
-
 If only had my mind on something else.
 
 

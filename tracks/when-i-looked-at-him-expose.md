@@ -88,8 +88,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-12-30'
 ---
-Ooh
-Ooh, yeah
+Oh
+Oh, yeah
 
 I've never known someone before
 Who feels the way you do

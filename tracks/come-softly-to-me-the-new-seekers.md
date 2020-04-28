@@ -23,7 +23,7 @@ rankings:
 Mm dooby do, dahm dahm, dahm do dahm ooby do
 Dahm dahm, dahm do dahm, ooby do
 Dahm dahm, dahm do dahm, ooby do
-Dahm dahm, dahm ooh dahm
+Dahm dahm, dahm oh dahm
 Mm dooby do
 
 (Come softly, darling)
@@ -59,4 +59,4 @@ Wanna feel your wa-arm touch
 Mm dooby do, dahm dahm, dahm do dahm ooby do
 Dahm dahm, dahm do dahm, ooby do
 Dahm dahm, dahm do dahm, ooby do
-Dahm dahm, dahm ooh dahm
+Dahm dahm, dahm oh dahm

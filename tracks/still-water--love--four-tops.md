@@ -66,11 +66,11 @@ rankings:
 ---
 Come on walk with me
 Take my hand
-Ooooh, oooh oooh
-Ooohh, oooh oooh
+Oh, ohhoh
+Oh, ohhoh
 (Still water)
 Still water
-Ahhh, ahhh, ahh
+Ah, ah, ah
 
 
 Never you mind if I
@@ -81,14 +81,14 @@ Click my glass and say a toast
 About my love for you
 How it runs so deep and true
 And yet it's so
-'Cause don't you know, ohh
+'Cause don't you know, oh
 
 
 Still waters run deep
 Still waters run deep
 Still waters run deep
 Still waters run deep
-Ooooh
+Oh
 
 
 Walk with me

@@ -129,7 +129,7 @@ Crazy little thing called love
 This thing called love I just can't handle it
 This thing called love I must get round to it
 I ain't ready
-Ooh ooh ooh ooh
+Oh oh oh oh
 Crazy little thing called love
 Crazy little thing called love yeah yeah
 Crazy little thing called love yeah yeah

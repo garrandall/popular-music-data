@@ -110,7 +110,7 @@ And I don't know if I'm ever coming home
 
 Ohhh
 
-Ahhhhhhh
+Ah
 
 Take the last train to Clarksville
 And I'll meet you at the station

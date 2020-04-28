@@ -56,7 +56,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2012-12-01'
 ---
-Ooh, I'm about to dive in, woah
+Oh, I'm about to dive in, woah
 I was thinking about taking a couple laps, I just wanna dive in
 Yeah, dive in, yeah
 
@@ -69,7 +69,7 @@ Come a little closer just like that, keep on talking girl you got me
 
 Wanting to go deeper than you'll ever know
 Wanting to feel, the way you flow
-Ooh, you got that look up in your eyes
+Oh, you got that look up in your eyes
 What we 'bout to do ain't no surprise
 
 
@@ -81,7 +81,7 @@ You know ain't no running 'round this pool
 Going under just for you, baby you
 Watch me stroke left stroke, right stroke, back stroke
 Girl, there ain't no running 'round this pool
-Ooh, I'm about to dive in
+Oh, I'm about to dive in
 Baby girl, hold your breath
 We about to get so wet
 Put me to the test girl when I dive
@@ -97,7 +97,7 @@ Girl you got me
 
 Wanting to go deeper than you'll ever know
 Wanting to feel, the way you flow
-Ooh, you got that look up in your eyes
+Oh, you got that look up in your eyes
 What we 'bout to do ain't no surprise
 
 
@@ -109,7 +109,7 @@ You know ain't no running 'round this pool
 Going under just for you, baby you
 Watch me stroke left stroke, right stroke, back stroke
 Girl, there ain't no running 'round this pool
-Ooh, I'm about to dive in
+Oh, I'm about to dive in
 Baby girl, hold your breath
 We about to get so wet
 Put me to the test girl when I dive
@@ -133,5 +133,5 @@ I'm about to dive in
 Baby girl, hold your breath
 We about to get so wet
 Put me to the test girl when I dive
-Ooh girl, when I dive
+Oh girl, when I dive
 Dive

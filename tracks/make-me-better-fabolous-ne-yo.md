@@ -150,9 +150,6 @@ Mami be takin' me higher (ah ah ah ah ah).
 I'm on fire (but but but).
 But shawty we burn it up.
 
-
-
-
 Beside every great man, you can find a woman like a soldier holdin' him down.
 
 
@@ -165,9 +162,6 @@ God bless the parents who made you (who made you).
 Middle fingered anybody who hate the,
 Way that we burn it up.
 
-
-
-
 Yeah baby, them lames you playin' with.
 They gonna put you down.
 We tryin' to compliment you, you know?
@@ -177,8 +171,4 @@ Nice-look Ne-Yo.
 Livin' good Lo-So.
 They ask you how you doin' now, tell 'em better 'den them.
 Ha ha ha ha ha ha.
-
-
-
-
 

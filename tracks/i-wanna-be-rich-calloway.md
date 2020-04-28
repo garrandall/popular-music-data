@@ -113,9 +113,9 @@ I want the pie in the sky
 I want money, lots and lots of money
 So don't be asking me why
 
-I wanna be rich, ohh
-I wanna be rich, ohh
-I wanna be rich, ohh
+I wanna be rich, oh
+I wanna be rich, oh
+I wanna be rich, oh
 I wanna be rich for a little love, peace and happiness
 
 I want my cake, wanna eat it too
@@ -128,9 +128,9 @@ I want the pie in the sky
 I want money, lots and lots of money
 So don't be asking me why
 
-I wanna be rich, ohh
-I wanna be rich, ohh
-I wanna be rich, ohh
+I wanna be rich, oh
+I wanna be rich, oh
+I wanna be rich, oh
 I wanna be rich for a little love, peace and happiness
 Every way rich
 Love peace and happiness

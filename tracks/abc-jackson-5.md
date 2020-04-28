@@ -83,7 +83,7 @@ But now, since I see you in his arms
 
 Yes, I do now
 (I want you back)
-Ooh, ooh, baby
+Oh, oh, baby
 (I want you back)
 Yeah, yeah, yeah, yeah
 I want you back
@@ -131,9 +131,9 @@ ABC (ABC)
 Say 1 2 3 (1 2 3)
 
 Shake it, shake it baby, come on now
-Shake it, shake it baby, ooh, ooh
+Shake it, shake it baby, oh, oh
 Shake it, shake it baby, ho
-1 2 3 baby, ooh ooh
+1 2 3 baby, oh oh
 A B C baby, nah nah
 Do re mi, baby, oh
 That's how easy love can be

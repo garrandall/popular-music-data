@@ -94,7 +94,7 @@ Until I see you smile
 Take all the sadness from your eyes
 Hold me till the mornin' sun
 Let me stay we've just begun
-Ooh... Stay with you
+Oh... Stay with you
 
 Where shall we start?
 A tender word that we can share

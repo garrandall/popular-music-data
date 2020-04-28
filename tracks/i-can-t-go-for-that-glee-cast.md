@@ -71,7 +71,7 @@ Quinn:
 Yeah!
 
 Finn:
-Ooooh ooh ooh oh
+Oh oh oh oh
 
 Quinn with New Directions Girls:
 Chke-ch-bwa!

@@ -122,7 +122,7 @@ I wanna be bad witchu, baby
 Whassup? Tell me what to do
 How to be, teach me, all your rules from A to Z
 But I, don't wan't your other jealousy
-That you mess around wit me (Ooh)
+That you mess around wit me (Oh)
 I shoulda thought
 Tell ya what I got is whatcha want
 Tell, tell me, do I, I turn ya on?

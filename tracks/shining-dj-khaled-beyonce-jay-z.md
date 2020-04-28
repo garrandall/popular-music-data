@@ -93,7 +93,7 @@ Slow me down
 Slow me down
 
 
-Oooh, the nana make him act a fool for it
+Oh, the nana make him act a fool for it
 You gon' need an address when I lose the boy (boy)
 Ratchet, ratchet, ratchet, you a tool, lil' boy, oh
 Mama say I'm trippin', daddy say I'm trippin'
@@ -119,7 +119,7 @@ Slow me down, yeah
 
 
 I drop the top out the coupe
-They tryna get at me, oooh
+They tryna get at me, oh
 They say I'm sweet just like D'UUUUUUS'
 Yeah, yeah, yeah
 Say yeah, yeah, yeah, uh
@@ -172,7 +172,7 @@ Hit a triple-double in the Garden
 Held up my left wrist like I'm Harden (swish)
 Ran to the dealer, bought twin Mercedes
 The European trucks for the twin babies
-Don't let me have a son, I'm a fool, haha (ooooh)
+Don't let me have a son, I'm a fool, haha (oh)
 Send him to school in all my jewels, haha
 I want a boy and girl to fight for truth
 Whatever God give me, I'm cool

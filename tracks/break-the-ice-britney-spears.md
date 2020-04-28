@@ -92,7 +92,7 @@ You got me going insane
 And I can't get enough
 So let me get it up
 
-Ooh, looks like we're alone now
+Oh, looks like we're alone now
 You ain't gotta be scared
 We're grown now
 I'm a hit defrost on you
@@ -123,7 +123,7 @@ Cause it's getting late
 And I can't get enough
 So let me get it up
 
-Ooh, looks like we're alone now
+Oh, looks like we're alone now
 You ain't gotta be scared
 We're grown now
 I'm a hit defrost on you

@@ -145,7 +145,7 @@ But I'm not, so I can't, then I won't, but if I was your girl
 Allow me some time to play with your mind
 And you'll get there again and again
 Close your eyes and imagine my body undressed
-Take your time cause we've got all night, ooh
+Take your time cause we've got all night, oh
 You on the rise as you're touchin' my thighs
 And let me know what you like, if you like I'll go
 Down, down, down, down, da, down, down

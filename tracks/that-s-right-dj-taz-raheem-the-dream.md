@@ -91,8 +91,6 @@ rankings:
 ---
 Oh, DJ Taz
 
-Chorus: Neka, DJ Taz
-
 That's right (That's right)
 That's ri-i-ight
 Party people on the floor (Uh, come on)
@@ -103,9 +101,7 @@ Party people (Uh)
 On the floor , come on)
 All we do is give them more
 That's right (That's right)
-That's ri-i-ight
-
-Verse 1: DJ Taz
+That's right
 
 Make hits is all I do
 Well, how bout you?
@@ -117,7 +113,7 @@ Like Tom Sawyer
 Diane Lench is my lawyer
 Business strict, damn strict
 DJ Taz, don't quit
-No stoppin'   (Stoppin', stoppin')
+No stoppin' Stoppin', stoppin')
 Stop knockin' (Knockin, knockin')
 You mad, boy
 Our hoes keep on jockin'
@@ -128,11 +124,7 @@ Uh-huh we be bassin'
 Keep it crunk, keep it crunk
 Play it loud in your trunk
 
-Chorus
-
-Verse 2: DJ Taz
-
-First best, best last  (Ohhh)
+First best, best last (Ohhh)
 DJ Taz
 Pump it up, don't stop
 Till the planet rock
@@ -153,21 +145,15 @@ Don't quit, don't stop
 Little sumpin' from big Taz
 For yo monkey ass
 
-Chorus
-
-Bridge: DJ Taz
-
 Yeah, we got Raheem up in here
 Doin' something like this
 
-Verse 3: Raheem The Dream
-
-Raheem gonna' rock this steady  (Steady)
-They ain't ready      (Ready)
+Raheem gonna' rock this steady (Steady)
+They ain't ready (Ready)
 From the A-T-L-A-N-T-A
-(Ooh-Wee) Smokin' on hay
-From Texas to V-A  (Uh)
-Detroit to G-A   (Ah)
+(Oh-Wee) Smokin' on hay
+From Texas to V-A (Uh)
+Detroit to G-A  (Ah)
 I gotta get my flow, can I go
 Hit that ho at the show
 I got some freaky bitches
@@ -184,26 +170,19 @@ Raheem back on that ass
 And on the track
 Is that dope producer,DJ Taz
 
-Chorus
 
-Bridge: DJ Taz, Raheem The Dream
-
-Ooh!  Aah!
+Oh! Ah!
 All we do is give you more, you know what I'm sayin'?
 Yeah
 Neka, say what baby?
 Big Taz!
-Party people, ooh, ooh
+Party people, oh, oh
 Come on
 Come on, now
 Big Taz!
 Oh Lord
 Come on
 Break it down!
-
-Chorus, 2X
-
-Bridge: DJ Taz, Raheem The Dream
 
 One time for your mind, DJ Taz
 One time for Success Entertainment

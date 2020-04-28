@@ -16,7 +16,7 @@ Don't think about it too much, too much, too much, too much
 There's no need for us to rush it through
 Don't think about it too much, too much, too much, too much
 This is more than just a new lust for you
-(Oohh, don't think about..)
+(Oh, don't think about..)
 
 
 Done sayin' I'm done playin'
@@ -45,7 +45,7 @@ Don't think about it too much, too much, too much, too much
 There's no need for us to rush it through
 Don't think about it too much, too much, too much, too much
 This is more than just a new lust for you
-(Oohh, don't think about..)
+(Oh, don't think about..)
 
 
 Someone go tell Noel to get the Backwoods
@@ -71,9 +71,9 @@ There's no need for us to rush it through
 Don't think about it too much, too much, too much, too much
 This is more than just a new lust for you
 Ohhh, don't think about it too much, too much, too much, too much
-There's no need for us to rush it through, ohhh
+There's no need for us to rush it through, oh
 Don't think about it too much, too much, too much, too much
-This is more than just a new lust for you, ohhh,ohhh
+This is more than just a new lust for you, oh,oh
 (Don't do that..)
 
 

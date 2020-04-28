@@ -121,8 +121,8 @@ Girl, you know you got me to hold on to
 We can go to town but baby if you'd rather
 I'll take you for a ride on my big green tractor
 
-Mmmmm just let me dust off the seat
-Mmmmm now put your pretty little arms around me
+Mmm just let me dust off the seat
+Mmm now put your pretty little arms around me
 
 Climb up in my lap and drive if you want to
 Girl, you know you've got me to hold on to

@@ -41,7 +41,7 @@ You're never alone, we're birds of a feather
 And we'll never change, no matter the weather
 This is my oath to you
 
-I know I drive you crazy, hmm, sometimes
+I know I drive you crazy, hm, sometimes
 I know I call you lazy, and that's most times
 But you complete me, and that's no lie
 You are my tuxedo, and I'm your bow tie
@@ -64,10 +64,10 @@ You're never alone, we're birds of a feather
 And we'll never change, no matter the weather
 This is my oath to you
 
-Oh ohh, I'll never let you go
-Oh ohh, whoa, this is my oath to you
-Oh ohh, just thought that you should know
-Oh ohh, whoa, this is my oath to you
+Oh oh, I'll never let you go
+Oh oh, whoa, this is my oath to you
+Oh oh, just thought that you should know
+Oh oh, whoa, this is my oath to you
 
 Yeah...
 
@@ -80,14 +80,14 @@ You're never alone, we're birds of a feather
 And we'll never change, no matter the weather
 This is my oath to you
 
-Oh ohh
+Oh oh
 You should know, you should know, you should know, you should know, yeah
-Oh ohh, whoa, this is my oath to you
-Oh ohh
+Oh oh, whoa, this is my oath to you
+Oh oh
 Wherever you go, just always remember
 You're never alone, we're birds of a feather
 And we'll never change, no matter the weather
-Oh ohh, this is my oath to you
+Oh oh, this is my oath to you
 
 
 

@@ -97,7 +97,7 @@ Take a look at yourself, and then make that change
 
 I'm starting with the man in the mirror ( Oh yeah)
 I'm asking him to change his ways ( change his ways)
-And no message could have been any clearer ( Ooh ooh)
+And no message could have been any clearer ( Oh oh)
 If you wanna make the world a better place
 Take a look at yourself, and then make a change ( Come on!)
 
@@ -109,7 +109,7 @@ You got to get it right, when you got the time
 
 I'm starting with the man in the mirror ( Oh yeah)
 I'm asking him to change his ways
-And no message could have been any clearer ( Ooh ooh)
+And no message could have been any clearer ( Oh oh)
 If you wanna make the world a better place
 Take a look at yourself, and then make that change
 
@@ -123,9 +123,9 @@ Stand up!
 Left, yourself now!
 
 Man in the mirror!
-( Ooh!)
-( Ooh!) Ah aaah
-( Ooh!) ah aaah
+( Oh!)
+( Oh!) Ah ah
+( Oh!) ah ah
 Make that change! ( Stand up! Stand up!)
 
 

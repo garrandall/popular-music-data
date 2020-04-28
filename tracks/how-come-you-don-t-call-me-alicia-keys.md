@@ -46,7 +46,7 @@ rankings:
 ---
 But all I wanna know baby is,
 If what we had was good
-I, yea baby
+I, yeah baby
 
 I keep your picture beside my bed
 And I still remember everything you said
@@ -65,7 +65,7 @@ Anymore?
 Still like a fire on a rainy night
 (You ain't think that did you?)
 Still like it better when you're holding me tight
-(You know, yea)
+(You know, yeah)
 Everybody said
 Everybody said that we should never part
 Tell me baby, baby, baby why
@@ -78,10 +78,10 @@ Anymore?
 
 Sometimes it feels like I'm gonna die
 If you don't call me papa
-Ooh, you got to try
+Oh you got to try
 Won't get down on my knees
 Won't beg you please
-Please, ooh
+Please, oh
 
 Won't you call me sometime, papa?
 Why don't you call me back no more?
@@ -92,4 +92,3 @@ You know I don't like to be alone
 How come you don't call me?
 (Why must you torture me?)
 How come you don't call me?
-(Repeat chorus until faded)

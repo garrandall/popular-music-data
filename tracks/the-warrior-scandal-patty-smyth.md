@@ -93,8 +93,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-11-17'
 ---
-Ohh, oh, oh, oh, ohh
-Oh, ooh, oh, oh
+Ohh, oh, oh, oh, oh
+Oh, oh oh, oh
 You run, run, run away
 It's your heart that you betray
 Feeding on your hungry eyes
@@ -119,7 +119,7 @@ The warrior
 You talk, talk, talk to me
 You're eyes touch me physically
 Stay with me, we'll take the night
-As passion takes another bite, ohh-ohh
+As passion takes another bite, oh-oh
 Who's the hunter, who's the game
 I feel the beat call your name
 I hold you close in victory

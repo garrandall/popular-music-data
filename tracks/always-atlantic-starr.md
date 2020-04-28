@@ -115,7 +115,7 @@ It will be
 You and me, hey
 
 
-Ooh, you're like the sun
+Oh, you're like the sun
 Chasing all of the rain away
 When you come around
 You bring brighter days
@@ -147,7 +147,7 @@ It will be
 You and me, hey
 
 
-Ooh, you're like the sun
+Oh, you're like the sun
 Chasing all of the rain away
 When you come around
 You bring brighter days
@@ -161,7 +161,7 @@ For always
 
 
 
-Ooh, you're like the sun
+Oh, you're like the sun
 Chasing all of the rain away
 When you come around
 You bring brighter days
@@ -173,12 +173,12 @@ And I will love you so
 For always
 
 
-Ooh, ooh
+Oh, oh
 I will love you so
 For always
-Ooh, ooh
+Oh, oh
 I will love you so
 For always
-Ooh, ooh
+Oh, oh
 I will love you so
 For always

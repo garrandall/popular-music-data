@@ -71,7 +71,7 @@ the teacher did reply.
 
 And you could hear them singing:
 La, la, la, la, la, la, la, la, la, la.
-(Ev'ry body singing)
+(Every body singing)
 La, la, la, la, la, la, la, la, la, la.
 
 

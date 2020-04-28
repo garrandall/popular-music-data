@@ -42,18 +42,18 @@ CHORUS
 I said, run, little girl just as fast as you can
 Run like the wind
 Said, run, little girl just as fast as you can
-Run away from him ahhhhhhhh
+Run away from him ah
 I lost the heart I had before
 And now my spirit can't cross the door
 Oh what can I do, I made a mistake
 But know I know, I know it's too late
-I said ah ah ahhhh
+I said ah ah ah
 I've tried so hard, now I'm lost again
 I didn't listen to what they say
 And now I'm losing, I've lost my way
 The road so black and the night's so dark
 A thousand shadows can never turn back
-I said ah ah ahhhh
+I said ah ah ah
 The ride, the ride, the ride's so long
 The night, the night, the night's so black
 Ah ah ah ah child child child child child

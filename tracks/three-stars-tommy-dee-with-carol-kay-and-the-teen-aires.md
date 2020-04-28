@@ -1,7 +1,9 @@
 ---
 artists:
-- Tommy Dee with Carol Kay and the Teen-Aires
-features: []
+- Tommy Dee
+features:
+- Carol Kay
+- The Teen-Aires
 genres: []
 key: three-stars-tommy-dee-with-carol-kay-and-the-teen-aires
 name: Three Stars

@@ -113,14 +113,14 @@ But my body, my body's telling me yes
 
 Baby - I don't wanna hurt nobody
 But there is something, that I must confess - to you
-(I don't see nothing wrong) ooh...
+(I don't see nothing wrong) oh...
 (With a little bump, and grind) with a little bump, and grind
 (I don't see nothing wrong) ba-baby - hey, I
 
 (I don't see nothing wrong)
 I don't see nothing wrong
 (With a little bump, and grind) with a little bump, and grind
-(I don't see nothing wrong) hey, ooh... ooh
+(I don't see nothing wrong) hey, oh... oh
 (Lookie here)
 See I know, just what you want
 
@@ -157,5 +157,5 @@ You see you need someone, someone like me - yeah
 To make love to you baby, constantly
 (I don't see nothing wrong) I don't see - hey, nothing wrong
 (With a little bump, and grind) with a little bump and
-(I don't see nothing wrong) grind - ooh, ooh...
+(I don't see nothing wrong) grind - oh, oh...
 (I don't see nothing wrong) I don't see - nothing wrong

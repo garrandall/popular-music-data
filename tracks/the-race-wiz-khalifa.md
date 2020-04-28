@@ -72,12 +72,12 @@ Now I just stunt on my own
 Now I just stunt on my own
 
 
-(Ooooooh, oooh, ooo-oo-oooooh)
-(Ooooooh, oooh, ooo-oo-oooooh)
-(Ooooooh, oooh, ooo-oo-oooooh)
+(Oh, oh, oo-oo-oh)
+(Oh, oh, oo-oo-oh)
+(Oh, oh, oo-oo-oh)
 
 
-O-ooo-oh, now I just stunt on my own
+O-oo-oh, now I just stunt on my own
 Bitches ain't say shit to me
 But now they won’t leave me alone
 Used to walk the other way

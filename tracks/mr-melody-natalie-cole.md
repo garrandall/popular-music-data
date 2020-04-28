@@ -69,7 +69,7 @@ You are my melody, you do the sweetest things to me
 Please won't you stay here for all time
 You are my melody, you're just as sweet as you can be
 And it's good to know you're mine all the time (yeah)
-Woh Mr. Melody, your lovin' ooh it makes me sing
+Woh Mr. Melody, your lovin' oh it makes me sing
 I like lovin' you, you like lovin' me please don't ever change
 Mr. Melody (Mr. Melody), Mr. Melody (Mr. Melody)
 
@@ -81,7 +81,7 @@ Mr. Melody, yeah (Mr. Melody), Mr. Melody- (Mr. Melody)
 
 (Mr. Melo, Melo) Mr. Melody (Mr. Melo, Melo) Mr. Melody, yeah-
 (Mr. Melo, Melo, Mr. Melo, Melo, Mr. Melo, Melo, Mr. Melo)
-Yeah, yeah, yeah (Melo, Mr. Melody) yeah, yeah, yeah, sweet thang, ooh- 
+Yeah, yeah, yeah (Melo, Mr. Melody) yeah, yeah, yeah, sweet thang, oh-
 (Mr. Melody, Mr. Melo, Melo, Mr. Melo, Melo, Mr. Melody, Mr. Melody)
 (Mr. Melo, Melo, Mr. Melo, Melo, Mr. Melody)
 

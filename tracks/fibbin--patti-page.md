@@ -47,7 +47,7 @@ rankings:
 Honey you've been fibbin'
 Tellin' me such lies
 Know that you've been givin'
-Ev'ry guy the eye
+Every guy the eye
 
 Honey you've been foolin'
 From the very start

@@ -62,5 +62,5 @@ And I'll send all my loving to you
 
 All my loving I will send to you
 All my loving, darling I'll be true
-All my loving, all my loving ooh
+All my loving, all my loving oh
 All my loving I will send to you

@@ -49,7 +49,7 @@ rankings:
 
 
  Um? Hey Deb.
- Mmm hmm?
+ Mmm hm?
  Thank you for being woman enough to come.
  Whitney, what's this about?
 

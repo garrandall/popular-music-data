@@ -34,7 +34,7 @@ And come on and let me know
 That you've been so
 
 
-Broken hearted, ooh since we parted
+Broken hearted, ohsince we parted
 Just say you will give me a thrill
 Come on, come on home
 Nevermore to roam

@@ -112,9 +112,6 @@ Streetlight people
 Livin' just to find emotion
 Hidin' somewhere in the night
 
-
-
-
 Don't stop believin'
 Hold on to that feeling
 Streetlight people

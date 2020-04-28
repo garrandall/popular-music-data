@@ -106,8 +106,8 @@ There's nothin' else I'd rather do.
 What a sweet addiction that I'm caught up in.
 'Cos I can't get enough,
 Can't stop the hunger for your love.
-What a beautiful, what a beautiful mess I'm in. 
-Ahhh.
+What a beautiful, what a beautiful mess I'm in.
+Ah.
 
 This morning put salt in my coffee.
 I put my shoes on the wrong feet.
@@ -121,8 +121,8 @@ There's nothin' else I'd rather do.
 What a sweet addiction that I'm caught up in.
 'Cos I can't get enough,
 Can't stop the hunger for your love.
-What a beautiful, what a beautiful mess I'm in. 
-Ahhh.
+What a beautiful, what a beautiful mess I'm in.
+Ah.
 
 Is it your eyes? Is it your smile?
 All I know is that you're drivin' me wild.
@@ -135,7 +135,7 @@ What a sweet addiction that I'm caught up in.
 'Cos I can't get enough,
 Can't stop the hunger for your love.
 (What a beautiful.)
-What a beautiful.......
+What a beautiful...
 
 What a beautiful mess!
 What a beautiful mess I'm in.
@@ -144,10 +144,10 @@ There's nothin' else I'd rather do.
 What a sweet addiction that I'm caught up in.
 'Cos I can't get enough,
 Can't stop the hunger for your love.
-What a beautiful, what a beautiful mess I'm in. 
-Ahhh.
+What a beautiful, what a beautiful mess I'm in.
+Ah.
 
-Ahhh.
+Ah.
 
 
 

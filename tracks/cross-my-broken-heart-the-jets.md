@@ -99,9 +99,6 @@ Can't get you off my mind
 For leaving me this time
 I'm still in love with you
 
-
-
-
 If I had your attention
 I'd tell you what I learned
 Despite of good intentions
@@ -119,9 +116,6 @@ Just put me to the test
 This time I need to stay
 Don't need to go away
 I'm still in love with you
-
-
-
 
 You're my morning sun
 You're my shining star

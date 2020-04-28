@@ -16,7 +16,7 @@ rankings:
 Yes sir!
 They can't stop me...even if they stopped me ha ha ha yea
 
-I'm on it ooh I'm on it I'm so on it and however you want it
+I'm on it ohI'm on it I'm so on it and however you want it
 You can get it tonight hoe
 And all night hoe I get the beat from
 (Maestro)

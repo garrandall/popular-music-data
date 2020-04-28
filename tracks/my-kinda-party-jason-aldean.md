@@ -135,9 +135,6 @@ I'm chilling to some Skynyrd and some old Hank
 Let's get this thing started
 It’s my kinda party
 
-
-
-
 Oh baby you can find me
 In the back of a jacked up tailgate
 Sitting round watching all these pretty things

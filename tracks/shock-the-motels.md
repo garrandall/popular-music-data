@@ -39,7 +39,7 @@ Got no feeling
 I'm in shock
 It's like I'm dreaming
 I'm in shock
-Ooh, stop the shock
+Oh, stop the shock
 
 Motionless movement
 Now everything spins
@@ -60,7 +60,7 @@ Got no feeling
 I'm in shock
 It's like I'm dreaming
 I'm in shock
-Ooh, stop the shock
+Oh, stop the shock
 
 Fear slides away
 I hear only one sound
@@ -90,14 +90,14 @@ Got no feeling
 I'm in shock
 It's like I'm dreaming
 I'm in shock
-Ooh, stop the shock
+Oh, stop the shock
 
 I'm in shock
 Can't stop shaking
 I'm in shock
 Just can't take it
 I'm in shock
-Ooh, stop the shock
+Oh, stop the shock
 
 
 

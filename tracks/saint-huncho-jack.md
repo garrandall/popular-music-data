@@ -58,7 +58,7 @@ A lot of jelly on this PJ, made it say 4K (yah)
 You niggas 'round runnin' down my juice, I ran it back, OJ (it's lit)
 Rubber bands make 'em twerk, diamonds make 'em twerk (pop it, pop it)
 Out in LIV every Sunday like you goin' to church
-Fuck wrong with these niggas? (ooh)
+Fuck wrong with these niggas? (oh
 
 
 Yeah, mama built a saint (saint, yeah!)

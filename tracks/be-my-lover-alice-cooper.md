@@ -49,7 +49,7 @@ rankings:
   start_date: '1972-05-13'
 ---
 
-She struts into the room well I don't know her but with a magnifying glance I just sort of looked her over hmm
+She struts into the room well I don't know her but with a magnifying glance I just sort of looked her over hm
 We had a drink or two well maybe three and then suddenly she starts telling me her life story
 She says baby if you wanna be my lover you better take me home
 'cause it's a long long way to paradise and I'm still on my own

@@ -79,7 +79,7 @@ Vibe (come on, she's got that vibe)
 You've, you've, you've got that
 
 
-Ooh, stop the press, girl, you turn me on
+Oh, stop the press, girl, you turn me on
 And I wonder if I could take you home
 I must confess, the tight mini-skirt you wear
 I just can't help it, baby, I can't help but stare, so
@@ -102,7 +102,7 @@ You've, you've, you've got that (she's got that vibe)
 
 
 It's one o'clock and the party's just beginning
-The place is jumping, ooh, what a lovely scene
+The place is jumping, oh, what a lovely scene
 Gotta let you know, let you know the deal
 I want you now, baby and I'm for real, so
 
@@ -172,7 +172,7 @@ Rochelle has got it (yes yes, she's got that vibe)
 Gladys got it (come on, she's got that vibe)
 Montina's got it (come on, she's got that vibe)
 Little cute Aaliyah's got it (yeah, she's got that vibe)
-Ooh, Stacy's got it (that girl has got that vibe)
+Oh, Stacy's got it (that girl has got that vibe)
 I'll tell you Tina's got it (come on, she's got that vibe)
 I'll tell you Ria's got it (Yes yes, she's got that vibe)
 Oh, Laura's got it (come on, she's got that vibe)

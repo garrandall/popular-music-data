@@ -40,8 +40,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-06'
 ---
-Uh, oooh sucky sucky now
-Hey, ooh, come on baby
+Uh, ohucky sucky now
+Hey, oh, come on baby
 
 Hey there sugar dumpling
 Let me tell you something
@@ -53,12 +53,12 @@ And I want you to be my spouse (he's a spouse)
 So that we can live happilly now (happilly)
 In a great big old roomy house
 I know you're gonna groove me baby
-Ooh yeah now...
+Oh yeah now...
 
 Make me feel good inside
 Come on and groove me baby
 I need you to groove me
-Ooh yeah now darling...
+Oh yeah now darling...
 Uh, come on come on...
 Uh...
 
@@ -81,11 +81,11 @@ Move me baby (move me)
 I like it like that baby
 Come on and... Move me baby
 I need you to move me
-Ooh I like it like that baby
+Oh I like it like that baby
 Groove me baby
 I need you to groove me
 Yeah it's good baby
-Ooh oh
+Oh oh
 It feels good
 
 You can groove me

@@ -38,31 +38,31 @@ rankings:
 ---
 
 Well, there's a certain girl I've been in love with a long, long time
-What's her name? I can't tell you (Ahh...)
+What's her name? I can't tell you (Ah...)
 I can't reveal her name until she's mine
-What's her name? I can't tell you (Ahh...)
+What's her name? I can't tell you (Ah...)
 I've tried to make her time and time again
 Still we're introduced as nothing but friends
 And there's a certain girl I've been in love with a long, long time
-What's her name? I can't tell you (Ahh...)
+What's her name? I can't tell you (Ah...)
 
 There's a certain chick I've been sweet on since I met her
-What's her name? I can't tell you (Ahh...)
+What's her name? I can't tell you (Ah...)
 I can't reveal her name until I get her
-What's her name? I can't tell you (Ahh...)
+What's her name? I can't tell you (Ah...)
 Someday I'm gonna wake up and say
 I'll do anything just to be your slave
 And there's a certain girl I've been in love with a long, long time
-What's her name? I can't tell you (Ahh...)
+What's her name? I can't tell you (Ah...)
 
 There's a certain girl I've been in love with a long, long time
-What's her name? I can't tell you (Ahh...)
+What's her name? I can't tell you (Ah...)
 I can't reveal her name until she's mine
-What's her name? I can't tell you (Ahh...)
+What's her name? I can't tell you (Ah...)
 I've tried to make her time and time again
 Still we're introduced as nothing but friends
 And there's a certain girl I've been in love with a long, long time
-What's her name? I can't tell you (Ahh...)
+What's her name? I can't tell you (Ah...)
 
 
 

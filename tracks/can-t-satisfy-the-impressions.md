@@ -39,7 +39,7 @@ rankings:
 You know I can't satisfy your love, I can't satisfy
 Seems I can't satisfy your love, I can't satisfy
 
-Oooh I found out in time what was on your mind
+Oh I found out in time what was on your mind
 You never planned to stay, didn't love me anyway
 One of the chosen few, did what you told me to
 All you ever did was lie, I can't satisfy

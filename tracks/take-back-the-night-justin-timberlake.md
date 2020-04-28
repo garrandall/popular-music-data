@@ -94,7 +94,7 @@ Come on, use me up until there's nothing left
 Take back the night
 Dizzy, spinning, sweating, you can't catch your breath
 Take back the night
-Ooh, don't know when the sun is rising next
+Oh don't know when the sun is rising next
 Take back the night
 So if the feeling's right, then raise your glass and let's
 
@@ -136,7 +136,7 @@ Come on, use me up until there's nothing left
 Take back the night
 Dizzy, spinning, sweating, you can't catch your breath
 Take back the night
-Ooh, don't know when the sun is rising next
+Oh don't know when the sun is rising next
 Take back the night
 So if the feeling's right, then raise your glass and let's
 
@@ -149,7 +149,7 @@ You know you gon' mess around and find out there ain't no one better
 
 And the horns say, alright
 And the horns say, alright
-Uh, ooh, and the horns say, alright
+Uh, oh and the horns say, alright
 And the horns say
 Doo doo doo doo doo doo doo
 Take it over
@@ -166,7 +166,7 @@ Come on, use me up until there's nothing left
 Take back the night
 Dizzy, spinning, sweating, you can't catch your breath
 Take back the night
-Ooh, don't know when the sun is rising next
+Oh don't know when the sun is rising next
 Take back the night
 So if the feeling's right, then raise your glass and let's
 Take back the night

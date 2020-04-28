@@ -79,9 +79,6 @@ That in answer to your quiz
 Imagination is
 The secret. "
 
-
-
-
 Hear the music of the band
 It was written in our land
 For what's a song but someone's

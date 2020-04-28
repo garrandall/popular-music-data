@@ -66,7 +66,7 @@ Ohhh Yeaaa
 All words I sing about
 All the letters I write about
 Only thing I wanna hear about
-Is when i get closer to you
+Is when I get closer to you
 I know that there is someone else, but he's only thinking of himself
 Doesn't make any sense for you to be lonely
 
@@ -80,7 +80,7 @@ Ohhh Yeaaa
 Let me be the one you share your hopes and dreams with
 You'll never be alone again, cuz' I will hold you endlessly
 Please don't be afraid to let your broken heart guide you
-Into these open arms that long to surround you, baby!!
+Into these open arms that long to surround you, baby!
 
 
 If you were mine,

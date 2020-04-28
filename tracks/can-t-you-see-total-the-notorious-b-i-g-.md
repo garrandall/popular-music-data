@@ -90,7 +90,7 @@ rankings:
   start_date: '1995-08-19'
 ---
 You just don't know what you do to me (This shit knocks huh?)
-Bad Boy (Uh..Uh!)
+Bad Boy (Uh...Uh!)
 
 
 Give me all the chicken heads from Pasadena to Medina

@@ -3,8 +3,8 @@ artists:
 - Jessie Hill
 features: []
 genres: []
-key: ooh-poo-pah-doo---part-ii-jessie-hill
-name: Ooh Poo Pah Doo - Part II
+key: oh-poo-pah-doo---part-ii-jessie-hill
+name: Oh Poo Pah Doo - Part II
 rankings:
 - end_date: '1960-04-03'
   rank: 81

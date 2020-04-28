@@ -19,7 +19,7 @@ rankings:
 ---
 
 
-WOOOOOO!!!!!! Swizzy!!!
+WOOOOOO! Swizzy!
 Need y'all to take y'all rags out man! (T.I.)
 And let it swang! swang! swang! swang!
 Swang! swang! swang! swang!

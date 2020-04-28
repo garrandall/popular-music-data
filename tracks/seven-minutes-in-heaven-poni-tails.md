@@ -25,7 +25,6 @@ Give me up 'til eleven
 Remember who you met
 When you were in your dreams
 
-(chorus)
 Papa, come on
 And be a trouper, trouper
 Papa, come on
@@ -37,7 +36,6 @@ Give me up 'til eleven
 Remember who you met
 When you were in your dreams!
 
-(repeat chorus)
 Seven minutes ain't much
 No, no
 And I love him so much

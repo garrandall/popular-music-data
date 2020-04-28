@@ -20,7 +20,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-04-17'
 ---
-Oooh
+Oh
 Hey, come on in
 Yeah, sit down make yourself comfortable
 I was going to work the other morning

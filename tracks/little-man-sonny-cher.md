@@ -72,7 +72,3 @@ So little man, please understand
 In this world with all its land
 You're all I see
 
-
-
-
-

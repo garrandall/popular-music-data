@@ -173,7 +173,7 @@ My shallow heart's the only thing that's beating
 Sometimes I wish someone out there will find me
 'Til then I walk alone
 
-Ah-ah, ah-ah, ah-ah, aaah-ah
+Ah-ah, ah-ah, ah-ah, ah-ah
 Ah-ah, ah-ah, ah-ah
 
 I'm walking down the line
@@ -196,7 +196,7 @@ My shallow heart's the only thing that's beating
 Sometimes I wish someone out there will find me
 'Til then I walk alone
 
-Ah-ah, ah-ah, ah-ah, aaah-ah
+Ah-ah, ah-ah, ah-ah, ah-ah
 Ah-ah, ah-ah
 
 I walk alone

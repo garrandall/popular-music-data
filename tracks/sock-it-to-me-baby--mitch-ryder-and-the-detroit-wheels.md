@@ -77,7 +77,7 @@ I like it more
 Gimme, gimme, gimme gimme gimme
 Something sweet
 Knock me
-Ooh, off my feet
+Oh off my feet
 Sock it to me baby, baby
 Sock it to me baby, baby
 Sock it to me, baby

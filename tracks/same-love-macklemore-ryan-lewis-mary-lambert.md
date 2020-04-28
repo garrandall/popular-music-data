@@ -182,9 +182,6 @@ Rather than fighting for humans that have had their rights stolen
 I might not be the same, but that's not important
 No freedom 'til we're equal, damn right I support it
 
-
-
-
 And I can't change, even if I tried
 Even if I wanted to
 My love, my love, my love

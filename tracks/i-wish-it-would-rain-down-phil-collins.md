@@ -108,7 +108,7 @@ I know I'm never gonna hold you again, no
 
 Now I, now I know I wish it would rain down, down on me
 Oh you know I wish it would rain, rain down on me now
-Ooh yes I wish it would rain down, down on me
+Oh yes I wish it would rain down, down on me
 Yes you know I wish it would rain down, rain down over me
 Just rain down on me
 Just let it rain down, let it rain down, let it rain down...

@@ -40,7 +40,7 @@ Although it's been said many times, many ways
 Merry Christmas to you
 
 
-(Yeah) And so, I'm offering this simple phrase (oh wooah)
+(Yeah) And so, I'm offering this simple phrase (oh woah)
 To kids from one to ninety-two (Yeah, yeah)
 Although it's been said, many times, many ways
 Merry Christmas, Merry Christmas (Yeah), Merry Christmas (Oh No)

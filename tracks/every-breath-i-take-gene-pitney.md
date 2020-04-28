@@ -50,7 +50,7 @@ Of thanks to someone 'way up there
 Who gave me such a lucky *break*
 
 Oh, no, darling
-Only with ev'ry breath I take
+Only with every breath I take
 
 And every time we have to be apart
 I hardly ever find you in my heart
@@ -59,21 +59,21 @@ The thought of losing all your love
 I never worry how my heart would ache
 
 Oh, no, darling
-Only with ev'ry breath I *take*
-Only with ev'ry little step I *make*
-Only with ev'ry little beat of my *heart*
-And ev'ry single minute I'm *awake*
+Only with every breath I *take*
+Only with every little step I *make*
+Only with every little beat of my *heart*
+And every single minute I'm *awake*
 
 Oh, no, darling
-Only with ev'ry breath I *take*
-Only with ev'ry little step I *make*
-Only with ev'ry little beat of my *heart*
-And ev'ry single minute I'm awake
+Only with every breath I *take*
+Only with every little step I *make*
+Only with every little beat of my *heart*
+And every single minute I'm awake
 
-Oh-aah, ev'ry little breath I take
-Ev'ry little step I *make*
+Oh-ah, every little breath I take
+Every little step I *make*
 Ah, ah, ah, ah, uh, ah
-Ah, ah, ah, ev'ry breath I take
+Ah, ah, ah, every breath I take
 
 (dip-dip, dooba bop bop) (dip-dip, dooba bop bop)...
 

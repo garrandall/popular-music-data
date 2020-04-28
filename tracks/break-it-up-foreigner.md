@@ -92,11 +92,6 @@ You say it's way too late
 That something is missing
 And now you just can't wait
 
-
-
-
-
-
 So don't say break it up, break it up
 I want to hear you say we'll make it up, make it up
 I don't want to break it up

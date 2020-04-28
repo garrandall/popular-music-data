@@ -68,7 +68,7 @@ Doctor Love
 (Doctor Love)
 Doctor Love
 (Doctor Love)
-Ooh Doctor Love
+Oh Doctor Love
 
 I needed a major operation
 Never thought that I'd survive
@@ -94,7 +94,7 @@ Doctor Love
 (Doctor Love)
 Doctor Love
 (Doctor Love)
-Ooh Doctor Love
+Oh Doctor Love
 
 Oh
 (Doctor Love)
@@ -115,7 +115,7 @@ What he does I'll never tell
 Doctor Love
 (Doctor Love)
 Doctor Love
-Ooh Doctor Love
+Oh Doctor Love
 Doctor Love
 (Doctor Love)
 (Doctor Love)

@@ -31,7 +31,7 @@ Dre called, told my baby momma "won't you decide"
 She chose Doc, first day I pulled dude aside like its Aftermath for life
 And all I do is ride
 Before I turn on 'em I kill Satan and stick my red flag in the ground
-It's Red Nation!!!
+It's Red Nation!
 
 
 Now Blood the fuck up

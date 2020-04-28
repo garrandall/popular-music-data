@@ -88,7 +88,3 @@ And rush back into his arms
 
 Haven't I been sweet to you baby
 
-
-
-
-

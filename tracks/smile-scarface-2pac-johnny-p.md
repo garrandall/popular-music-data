@@ -155,13 +155,10 @@ All my momma gots to do now is collect it and smile
 Smile
 
 
-
-
-
 Fuck the world as we elope and witness furious speeds
 of nasty questions keep us all stressin', curious G's
 Backstabbed and bleedin', fuckin' thoughts laced with weed
-Learnin', duckin' stray shots, bullets be hot, they burnin' 
+Learnin', duckin' stray shots, bullets be hot, they burnin'
 Inhalin' sherm smoke, visualized the flames
 Will I be smothered by my own pain?
 Strange whispers, cowards conversate, so quick to dis us
@@ -179,7 +176,7 @@ And still I smile nigga
 
 
 And now a moment of silence, let us pray
-And as you journey into outerspace 
+And as you journey into outerspace
 may the angels help to lead the way
 may the prayers that our families made
 shine up on your soul to keep you safe

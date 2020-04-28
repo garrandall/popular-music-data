@@ -218,7 +218,7 @@ What suit should I wear tonight?
 
 If you think I'm cool, you're right
 Somebody say Kool-Aid! - Kool-Aid!
-Jerk it.... uh!
+Jerk it... uh!
 Make a little love tonight. - What?
 Jerkin' everything in sight. - Oh, that's right
 Make a little love tonight. - Oh Lawd
@@ -234,26 +234,26 @@ Make a little love tonight. - Ha ha!
 
 Jerk out
 I'm the master of the jerk out
-.... Ha, them's your drawers, Morris
+... Ha, them's your drawers, Morris
 Now tell me somethin' that I don't already know J.B
 Jerk out. - It's just one of them things you know, huh
 Got to make some love tonight. - Money, clothes, cars, credit cards, houses
 Jerk out. - You know what I'm talkin about, ha ha!
 Jerkin' everything in sight
-.... What's he talkin' about?
+... What's he talkin' about?
 You should see my home. It's... so nice
-.... Girl, he is kinda sexy
-.... Girl, please!
+... Girl, he is kinda sexy
+... Girl, please!
 Oh, well, if you're not doin' anything. We could go there right now
-.... Can my friend come?
+... Can my friend come?
 Oh, I'd love that
-.... Girl!
+... Girl!
 Uh, that sure is a lovely blouse you have on
-.... Thank you
+... Thank you
 Can I take it off?
-.... No
+... No
 Oh, I just wanna..., oh, I just wanna touch it
-.... Stop
+... Stop
 So nice, so nice
-.... No. Stop
+... No. Stop
 Oh, that was so nice

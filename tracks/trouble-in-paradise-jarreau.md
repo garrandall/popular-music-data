@@ -63,7 +63,3 @@ That it looks like trouble in paradise,
 And you're burnin' alone, that's cold as ice,
 Go out and find a flame - so you can warm it up again.
 
-
-
-
-

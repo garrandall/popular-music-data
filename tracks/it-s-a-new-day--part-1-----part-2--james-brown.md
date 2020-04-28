@@ -79,23 +79,23 @@ Hit me now!
 Good god!
 Never get too confident so it's nothing you want to know
 Because that's the time, you lose your thing, then you got to blow
-You know i got what it takes to be the untold boss
+You know I got what it takes to be the untold boss
 You gotta use it carefully and it can't be a total...
 Hit me now!
 Good god, kill it!
 Yeah!
 Good god!
 Fellas!
-Can i get some help?
-Can i get some help?
+Can I get some help?
+Can I get some help?
 Look for me some help!
-Can i get a witness?
-Shall i need a witness?
-Shall i need a witness?
-I, i, i, i need a witness!
-Can i get a witness?
+Can I get a witness?
+Shall I need a witness?
+Shall I need a witness?
+I, i, i, I need a witness!
+Can I get a witness?
 I want a witness over there!
-Can i get a witness?
+Can I get a witness?
 I want a witness over here!
 I'm a witness right here!
 I'm a witness over there!
@@ -120,7 +120,7 @@ Don't... Good god!
 Don't let nobody take care of your business better than you do
 Do what he wants, give what he wants expect them come to you
 Ain't it funky now?
-Can i get some help?
+Can I get some help?
 Look for me some help!
 Than clap your hands!
 I said, clap your hands!
@@ -132,10 +132,10 @@ Ain't it funky now?
 Ain't it funky now?
 Yeah!
 People scream!
-Can i scream, brother?
-Can i scream, brother?
-Brother, can i scream now?
-Can i scream, brother?
+Can I scream, brother?
+Can I scream, brother?
+Brother, can I scream now?
+Can I scream, brother?
 Yeah, yeah, yeah, yeah
 Gotta scream!
 Good god, gotta scream, now!
@@ -150,17 +150,17 @@ I gotta hold a man
 Ain't it funky now?
 Good god, ain't it funky now?
 Hey, yeah, yeah!
-Can i get some help?
+Can I get some help?
 I gotta have some help!
 I wanna get some help!
 Wanna get some help!
-I wanna, wanna, wanna, wanna, wanna, wanna, wanna, i wanna, i wanna, i wanna
+I wanna, wanna, wanna, wanna, wanna, wanna, wanna, I wanna, I wanna, I wanna
 Yeah, now!
 Good god!
 Can i, can i, can i, can i, can i, can i, yeah!
 Never get so confident, so it's nothing you want to know
 You caught up your time, you lose your thing, you think you got to blow
-You know i got what it takes to take a plea until balls
+You know I got what it takes to take a plea until balls
 You gotta use it carefully and it can't be a total loss
 You girl, looky here!
 Sister, when you tell your love your man, get how, telling that
@@ -168,24 +168,24 @@ You take upon a planet and use it if it's in the hat
 
 
 Come on!
-Can i get some help?
-Can i get a witness?
-Can i get a witness?
+Can I get some help?
+Can I get a witness?
+Can I get a witness?
 A witness over there?
 A witness over there?
 A witness, witness, witness, witness!
-Can i get a witness?
-Can i get a witness?
-Can i get a witness?
+Can I get a witness?
+Can I get a witness?
+Can I get a witness?
 Can?
-Can i get a witness?
+Can I get a witness?
 Hey yeah
 Yeah, yeah
 Yeah, yeah
 Yeah, yeah
 Ah!
 Ah!
-Can i get a witness?
+Can I get a witness?
 Ah, lord!
 Ah!
 Ah!
@@ -194,4 +194,4 @@ Brother, do you understand it now?
 Ha!
 Brother byrd, you know what i'm talking about!
 Ha!
-Can i get a witness?
+Can I get a witness?

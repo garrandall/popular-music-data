@@ -56,7 +56,7 @@ Something tells me
 My words
 Are goin' straight
 To his heart
-And ooh
+And oh
 Somethin' tells me
 You will be all mine
 
@@ -78,12 +78,12 @@ As there's a moon above
 It's a friend of mine
 It still makes you burn
 
-Said, ooh, ooh
+Said, oh oh
 Something tells me
 The fires
 Goin' right up
 Your spine
-Whoa, ooh
+Whoa, oh
 Somethin' tells me
 You will be all mine
 
@@ -119,7 +119,7 @@ Tellin' me, yeah
 The fire's
 Goin' right up
 Your spine
-And ooh, ooh
+And oh oh
 Something's tells me
 Yeah
 You'll be all mine

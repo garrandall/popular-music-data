@@ -106,9 +106,9 @@ It tears me apart whenever I hear him cry
 I'm in love, I'm in love, I'm in love with the belle of St. Mark
 And if he doesn't love me I think I'll probably die
 
-Ooh, I'm in love, I'm in love, I'm in love with the belle of St. Mark
+Oh, I'm in love, I'm in love, I'm in love with the belle of St. Mark
 It tears me apart whenever I hear him cry
-Ooh, I'm in love, I'm in love, I'm in love with the belle of St. Mark
+Oh, I'm in love, I'm in love, I'm in love with the belle of St. Mark
 And if he doesn't love me I think I'll probably die
 And if he doesn't love me I think I'll probably die
 And if he don't, I'll die

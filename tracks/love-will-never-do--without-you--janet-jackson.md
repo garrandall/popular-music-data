@@ -117,7 +117,7 @@ Never did I have a doubt
 Boy it's you I can't do without
 I feel better when I have you near me
 Cause no other love around
-Has quite the same ooh ooh (ha ha ha!)
+Has quite the same ohoohha ha ha!)
 Like you do do do do babe
 
 They said it wouldn't last

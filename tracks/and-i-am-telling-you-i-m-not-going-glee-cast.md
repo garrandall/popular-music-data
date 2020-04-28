@@ -21,7 +21,7 @@ I'm not livin' without you
 I don't wanna be free
 I'm stayin', I'm stayin'
 And you, and you
-You're gonna love me, yeah oooh...
+You're gonna love me, yeah oh...
 You're gonna love me
 
 And I am telling you I'm not goin'
@@ -65,7 +65,7 @@ I'm stayin', I'm stayin'
 And you, and you, and you
 You're gonna love me, yeah...
 You're gonna love me, yes you are
-Oooh, love me, yeah!
+Oh, love me, yeah!
 Love me, love me, love me
 Love me, love me, love me
 You're gonna love me

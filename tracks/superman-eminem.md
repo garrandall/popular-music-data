@@ -184,7 +184,7 @@ First thing you say: I'm not fazed
 I hang around big stars all day
 I don't see what the big deal is anyway
 You're just plain old Marshall to me
-Ooh yeah, girl, run that game
+Oh yeah, girl, run that game
 Hailie Jade, I love that name
 Love that tattoo, what's that say?
 "Rot In Pieces," uh, that's great
@@ -197,7 +197,7 @@ Leave handprints all across you
 Good Lordy, whoadie
 You must be gone off that water bottle
 You want what you can't have
-Ooh girl, that's too damn bad
+Oh girl, that's too damn bad
 Don't touch what you can't grab
 End up with two backhands
 Put anthrax on a Tampax

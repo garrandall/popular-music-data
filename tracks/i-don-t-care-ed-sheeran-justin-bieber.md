@@ -186,13 +186,13 @@ All the bad things disappear
 And you're making me feel like maybe I am somebody
 I can deal with the bad nights
 When I'm with my baby, yeah
-Ooh, ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohh,ohoh
 'Cause I don't care as long as you just hold me near
 You can take me anywhere
 And you're making me feel like I'm loved by somebody
 I can deal with the bad nights
 When I'm with my baby, yeah
-Ooh, ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohh,ohoh
 
 
 We at a party we don't wanna be at
@@ -215,12 +215,12 @@ But now I think that we should stay
 All the bad things disappear
 Yeah, you're making me feel like maybe I am somebody
 I can deal with the bad nights when I'm with my baby, yeah
-Ooh, ooh, ooh, ooh, ooh, ooh (Oh yeah, yeah, yeah)
+Oh oh oohohohh,oh (ohyeah, yeah, yeah)
 'Cause I don't care as long as you just hold me near
 You can take me anywhere
 And you're making me feel like I'm loved by somebody
 I can deal with the bad nights when I'm with my baby, yeah
-Ooh, ooh, ooh, ooh, ooh, ooh (No)
+Oh oh oohohohh,oh (oh
 
 
 I don't like nobody but you, it's like you're the only one here
@@ -235,11 +235,11 @@ All the bad things disappear (Disappear)
 And you're making me feel like maybe I am somebody (Maybe I'm somebody)
 I can deal with the bad nights (With the bad nights)
 When I'm with my baby, yeah
-Ooh, ooh, ooh, ooh, ooh, ooh (Oh yeah, yeah, yeah)
+Oh oh oohohohh,oh (ohyeah, yeah, yeah)
 'Cause I don't care as long as you just hold me near (Me near)
 You can take me anywhere (Anywhere, anywhere)
 And you're making me feel like I'm loved by somebody
 (I'm loved by somebody, yeah, yeah, yeah)
 I can deal with the bad nights
 When I'm with my baby, yeah
-Ooh, ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohh,ohoh

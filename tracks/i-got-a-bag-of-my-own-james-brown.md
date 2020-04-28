@@ -108,7 +108,7 @@ Don't shoot nothing
 But ball and chain
 
 Shoot, shoot, shoot
-Shoot, ahhh
+Shoot, ah
 
 
 Hit me, good God

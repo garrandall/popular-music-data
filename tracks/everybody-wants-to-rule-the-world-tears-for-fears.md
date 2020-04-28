@@ -133,9 +133,6 @@ So glad we've almost made it
 So sad they had to fade it
 Everybody wants to rule the world
 
-
-
-
 I can't stand this indecision
 Married with a lack of vision
 Everybody wants to rule the world

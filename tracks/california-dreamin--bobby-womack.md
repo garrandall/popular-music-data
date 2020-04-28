@@ -69,7 +69,7 @@ I wanna go so bad, yeah
 Cos all the leaves are brown
 And the skies are gray, yeah
 I went for a walk
-On a winter's day, oooohhhhhhh
+On a winter's day, oh
 Id be safe and warm
 If I was in LA
 California dreamin
@@ -85,12 +85,12 @@ Gotta get some sunshine
 California dremaing
 California dremaing
 Ohhh, gotta get some
-California dreamin, ohhhhhh
+California dreamin, oh
 California dreamin
 Gotta get to LA
 Get some sunshine every day
 California dreamin
-Ohh...........
+Ohh...
 
 
 

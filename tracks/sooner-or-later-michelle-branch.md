@@ -18,7 +18,7 @@ Different bout me, different bout me
 Yeah, you talk, talk all you want
 You pour your heart out
 But you never do see, you never do see me
-I cant wait around forever for you
+I can't wait around forever for you
 
 Sooner or later
 You're gonna come around and you'll be sorry

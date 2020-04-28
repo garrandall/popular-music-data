@@ -147,7 +147,7 @@ Then I think about angels
 When I think about angels
 I think about you
 
-Ohhh, ohh, ohhhh
+Ohhh, oh, oh
 When I think about you, baby
 Yeah, yeah
 I think about you

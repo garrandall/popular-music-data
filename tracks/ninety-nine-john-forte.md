@@ -162,7 +162,7 @@ Smoking with your mens fantasizing something swiftly
 But little did you know I had the whole country with me
 
 
-Little do you know (3x)
+Little do you know
 I got the whole country with me
 Little do you know, huh?
 

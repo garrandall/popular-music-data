@@ -94,9 +94,6 @@ See the window's full of me
 I got a real love policy
 
 
-
-
-
 I'm gonna whip it up
 Whip it up nice and slow
 You can even call your in order
@@ -127,7 +124,4 @@ See you can have it your way
 You're the costumer
 You can have me supersized with some lovin on the side
 Just ask for what you want cause you're the one, you're the costumer
-
-
-
 

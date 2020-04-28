@@ -148,9 +148,6 @@ She throwing tantrums
 She gon hold this dick like a Grammy
 I give her bomb D and do damage, she like
 
-
-
-
 Yeah that's right mane
 I said whoa, yah yah
 For the city

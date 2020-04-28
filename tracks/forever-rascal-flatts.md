@@ -13,13 +13,13 @@ rankings:
   start_date: '2009-04-04'
 ---
 
-Ooh. Hiya.
+Oh. Hiya.
 I miss you so much
 Your light, your smile, your way
 and everything about us.
 Now you're gone,
 You're still here in my heart, in my tears.
-Yeah you sure left your mark. 
+Yeah you sure left your mark.
 And we were just getting started.
 
 
@@ -42,7 +42,7 @@ I've been cheated (I've been Cheated)
 Defeated (defeated, to believe)
 To believe that you're gone.
 (You're gone, you're gone)
-Ooh it was wrong (so wrong, so wrong)
+Oh it was wrong (so wrong, so wrong)
 
 It wasn't long enough
 It wasn't long enough
@@ -52,7 +52,7 @@ No
 
 
 
-It wasn't long enough 
+It wasn't long enough
 
 
 

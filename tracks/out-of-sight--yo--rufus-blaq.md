@@ -26,15 +26,12 @@ rankings:
 ---
 Have you ever been ambushed?
 
-Chorus
 Every time I write a rhyme
 You know it's tight
 People say B-L-A-Q you out of sight
 Yo chiki chiki high chiko
 Comin' through 'bout to do the impossible
-(Repeat)
 
-Verse 1
 Never test B-L-A-Q the six footer
 You tried to call my bluff How could ya?
 Frontin' when you ain't got straps
@@ -57,12 +54,9 @@ You can still catch verbal slugs to ya chest
 You niggas tryin' to front like you hard as cold steel
 "The Sweetest Thing," I've ever known is Bourbon Hills
 
-Chorus
-
-Verse 2
 Who the most John Blaze?
 And who John Doe?
-I'm too hot chiki chiki ahh chiki o
+I'm too hot chiki chiki ah chiki o
 Unfadeable (Yo) top dollar
 When I bark I bite rougher than Rottweiler
 Pull around here I'm buckin' your Impala
@@ -70,13 +64,12 @@ My entourage is large like Kamala
 The women holler I lay my game down sick
 Heeyyy stick it up in yo' girl so I'm quick
 Tickle it hee hee hee hee hee Who I be?
-A    P to the I to the M to the P
+A P to the I to the M to the P
 Lyrically y'all haters should not test
 I'm too laced ice on my wrist to chest
 You talkin' shit when you never progress
 I'm a excel until I have no goals left I'm gone
 
-Chorus	
 
 B-L-A-Q's gonna make you dance
 Ambush gonna make you dance
@@ -89,7 +82,6 @@ You know it's tight
 People say B-L-A-Q you out of sight
 Yo chiki chiki high chiko
 Comin' through 'bout to do the impossible
-(Repeat)
 
 A to the M-B-U-S-H Ambush baby
 A to the M-B-U-S-H never forgets (that's us)

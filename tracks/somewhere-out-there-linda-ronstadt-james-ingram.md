@@ -124,9 +124,6 @@ Then we'll be together
 Somewhere out there
 Out where dreams come true
 
-
-
-
 And even though I know how very far apart we are
 It helps to think we might be wishing
 On the same bright star

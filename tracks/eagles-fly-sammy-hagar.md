@@ -75,17 +75,17 @@ Hey
 
 Take me away
 Come on and fly me away
-Take me up so high 
-Where eagles fly 
+Take me up so high
+Where eagles fly
 
 I often dream I sail through the sky
 I've always wished I could fly
 The simple life of a bird on the wing
 Oh Lord, I could sing
 
-Hey, take me away 
-Come on, fly me away 
-Pick me up so high 
+Hey, take me away
+Come on, fly me away
+Pick me up so high
 Where eagles fly, oh yeah
 
 Oh, yeah
@@ -95,17 +95,17 @@ Wash the earth from my face
 I catch a glimpse of another dream
 I turn, I look, but there's no trace
 
-Take me away 
-Come on, fly me away 
-I wanna fly away 
-Pick me up so high 
-Where eagles fly 
+Take me away
+Come on, fly me away
+I wanna fly away
+Pick me up so high
+Where eagles fly
 Oh yeah
 
-Eagles fly, oh, take me away 
-Eagles fly, oh, take me away 
-Come on, let's fly away where eagles fly 
-I wanna fly away, ooh, where eagles fly, yeah
+Eagles fly, oh, take me away
+Eagles fly, oh, take me away
+Come on, let's fly away where eagles fly
+I wanna fly away, oh, where eagles fly, yeah
 
 
 

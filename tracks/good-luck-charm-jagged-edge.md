@@ -63,7 +63,7 @@ And you always got that sexy underwear on
 So much good has come my way
 Since she came in my life
 I'll never push you away or brush you off to the side
-See girl I, I I....
+See girl I, I I...
 See my luck has changed for the better.
 
 
@@ -90,9 +90,6 @@ Baby I, know I been around, I'm
 Tired of messing around, I
 Got so much love.
 
-
-
-
 And I'd throw away this ice, and
 Give up my J.E. pieces-
 Just to get a piece of (your love forever)
@@ -105,7 +102,7 @@ So I know you bring me luck.
 So I'm standing strong like a soldier
 I know how to hold you-
 I'm saying this to let you know
-I got so. ooh.
+I got so. oh
 
 
 
@@ -113,7 +110,4 @@ See you're my yeah
 See you're my
 See you're my yeah
 See you're my
-
-
-
 

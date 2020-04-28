@@ -81,11 +81,6 @@ The truth is that I don't really care
 For such a lovely crime I'll do the time
 You better lock me up, I'll do it again
 
-
-
-
-
-
 I open up the curtains
 I heard sirens there, the lights flash and crawl
 But I did it justice

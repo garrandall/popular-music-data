@@ -3,9 +3,9 @@ artists:
 - Pat Benatar
 features: []
 genres: []
-key: ooh-ooh-song-pat-benatar
+key: ohoohong-pat-benatar
 lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/oohoohsong.html
-name: Ooh Ooh Song
+name: OhOOhong
 rankings:
 - end_date: '1985-01-25'
   rank: 59
@@ -53,9 +53,9 @@ It puts up walls between us
 That get harder and harder and harder
 And harder and harder to remove
 But we let it continue, like people in love always do
-Ooh, ooh
-Ooh, ooh
-Ooh, ooh
+Oh oh
+Oh oh
+Oh oh
 
 Let's not pretend that we're unique
 'Cause everybody's tasted loves illusion
@@ -68,9 +68,9 @@ And deeper, and deeper by the minute
 But we let it slip away
 'Cause we don't know a good thing while we're in it
 
-Ooh, ooh
-Ooh, ooh
-Ooh, ooh
+Oh oh
+Oh oh
+Oh oh
 
 "Y el amor que sentimos es mas profundo" ("The love that we feel is deeper")
 

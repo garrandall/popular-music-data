@@ -94,9 +94,9 @@ Oh baby, why can't I have you?
 Oh candy smile, all the while, glinting
 Your eyes like mica, a lethal pout, hinting
 (Felt the pressure)
-Ooh and I felt the pressure, tight and warm, softly striking
-(Ooh tripped and stumbled)
-Ooh I tripped and stumbled
+Oh and I felt the pressure, tight and warm, softly striking
+(Oh tripped and stumbled)
+Oh I tripped and stumbled
 I cling forever
 I go all night
 

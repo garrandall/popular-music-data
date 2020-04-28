@@ -77,7 +77,7 @@ I won't hide it
 I won't throw your love away, oo
 
 You hold the secrets of love in this world
-I'm hypnotized by your ev'ry word
+I'm hypnotized by your every word
 A special face, a special voice
 A special smile in my life
 
@@ -89,14 +89,14 @@ It's a hole in my heart, in my heart
 If you want my love you got it
 When you need my love you got it
 I won't hide it
-I won't throw your love away, ooh
+I won't throw your love away, oh
 
 If you want my love you got it
 When you need my love you got it
 I won't hide it
-I won't throw your love away, ooh
+I won't throw your love away, oh
 
 If you want my love you got it
 When you need my love you got it
 You won't hide it
-You won't throw your love away, ooh
+You won't throw your love away, oh

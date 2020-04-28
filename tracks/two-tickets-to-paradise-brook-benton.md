@@ -70,7 +70,7 @@ Oh, now don't you want to go with me?
 The first stop, we'll take a walk
 Second stop, we'll have a talk
 The third stop
-Ooh-ee, you better go with me
+Oh-ee, you better go with me
 
 Everything I did was wrong, my days were dark as night
 But I found a girl whose love was strong, now every things alright
@@ -84,7 +84,7 @@ Now don't you want to go with me?
 The first stop, we'll take a walk
 Second stop, we'll have a talk
 The third stop trumpet blast
-Ooh-ee, don't you want to go with me?
+Oh-ee, don't you want to go with me?
 
 Now don't you want to go with me?
 Be my guest, come on and go with me

@@ -73,9 +73,6 @@ Closer to the heart
 Yeah, it's closer to the heart
 Yeah!  Oh
 
-
-
-
 You can be the captain
 And I will draw the chart
 Sailing into destiny

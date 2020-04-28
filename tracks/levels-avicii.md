@@ -94,6 +94,3 @@ I get a good feeling, yeah
 Get a feeling that I never, never, never, never had before, no no
 I get a good feeling, yeah
 
-
-
-

@@ -153,9 +153,9 @@ Keep on walkin'
 You can just go
 Walk on, keep on
 
-Ooh ooh ooh ooh
+Oh ohoohhoh
 You can just go
-Ooh ooh ooh
+Oh ohooh
 
 You can just go
-Ooh ooh ooh ooh
+Oh ohoohhoh

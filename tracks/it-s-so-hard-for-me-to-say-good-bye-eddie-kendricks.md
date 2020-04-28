@@ -41,7 +41,7 @@ I can't change from a lover to a friend
 I can't stay once I know it's the end
 'Cause it's so hard for me to say goodbye
 
-It's so hard, ooh yeah
+It's so hard, ohyeah
 It's so hard, yeah, yeah
 
 Yes, I know you see tears in my eyes
@@ -52,7 +52,7 @@ So I'll go before I break down and cry
 'Cause it's so hard for me to say goodbye
 Every time I think about it, it's so hard for me to say goodbye
 I'll break down and cry every time I think about it
-It's hard, ooh
+It's hard, oh
 
 
 

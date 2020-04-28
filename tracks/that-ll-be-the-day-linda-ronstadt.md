@@ -102,7 +102,7 @@ That'll be the day when you make me cry
 You say you're gonna leave me, you know it's a lie
 'Cause that'll be the day when I die
 
-Oh, that'll be the day, ooh
-That'll be the day, ooh
-That'll be the day, ooh
+Oh, that'll be the day, oh
+That'll be the day, oh
+That'll be the day, oh
 That'll be the day when I die

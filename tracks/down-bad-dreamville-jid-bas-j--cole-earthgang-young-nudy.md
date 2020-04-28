@@ -100,7 +100,7 @@ So don't test me, homie, put that in ya, homie
 Put a foot up that ass, you a steppin' stone
 All my niggas ain't gettin' no sleep
 All of my niggas be chasin' their dreams
-Ooh, I'm a force of nature, I can't wait to date ya
+Oh, I'm a force of nature, I can't wait to date ya
 I was havin' problems 'til I had to break through
 All my tattoos for sure, they ain't never for show
 Might get tattoo'd on tour, tell ya ho get the door

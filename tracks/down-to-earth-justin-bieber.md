@@ -43,10 +43,6 @@ You tell me this is for the best
 So, tell me why am I in tears?
 Whoa, so far away. And now I just need you here
 
-
-
-
-
 We fell so far away from where we used to be
 Now we're standing and where do we go
 When there's no road to get to your heart?

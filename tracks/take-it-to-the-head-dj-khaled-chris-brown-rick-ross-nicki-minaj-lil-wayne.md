@@ -105,9 +105,9 @@ Don't think about it, be about it
 Don't be scared to take it to the head, yeah, yeah, yeah, yeah
 Girl, you fly but if I tell you then you might take it to the head
 I'm in my zone, damn near got my eyes closed
-One shot, two shots, I'm gone (Ooh)
+One shot, two shots, I'm gone (Oh)
 Take it to the head
-I'm in my zone, damn near got my eyes closed (Ooh)
+I'm in my zone, damn near got my eyes closed (Oh)
 One shot, two shots, I'm gone
 Now we gon' get fucked up, no excuses no apologies
 Maybach Music
@@ -127,16 +127,16 @@ She know on purpose (Ugh!), as I peel the curtains
 I always make her nervous (Ugh!), this record's perfect
 
 
-(Woo-hoo, ooh)
+(Woo-hoo, oh)
 Take it to the head, yeah, yeah
 Don't think about it, be about it
 Don't be scared to take it to the head, yeah, yeah, yeah, yeah, yeah
 Girl, you fly but if I tell you then you might take it to the head
 I'm in my zone, damn near got my eyes closed
-One shot, two shots, I'm gone (Ooh)
+One shot, two shots, I'm gone (Oh)
 Take it to the head
 I'm in my zone, damn near got my eyes closed
-One shot, two shots, I'm gone (Ooh)
+One shot, two shots, I'm gone (Oh)
 Now we gon' get fucked up, no excuses no apologies (Uh)
 
 
@@ -154,16 +154,16 @@ Stamina, GNC
 Competition, I don't see any
 
 
-(Woo-hoo, ooh)
+(Woo-hoo, oh)
 Take it to the head, yeah, yeah (Yeah, yeah)
 Don't think about it, be about it
 Don't be scared to take it to the head, yeah, yeah, yeah, yeah, yeah
 'Cause girl, you fly but if I tell you then you might take it to the head, yeah
 I'm in my zone, damn near got my eyes closed
-One shot, two shots, I'm gone (Ooh)
+One shot, two shots, I'm gone (Oh)
 Take it to the head, yeah (Take it to the head, oh, oh)
 I'm in my zone, damn near got my eyes closed
-One shot, two shots, I'm gone (Ooh)
+One shot, two shots, I'm gone (Oh)
 Now we gon' get fucked up, no excuses no apologies (Uh)
 
 
@@ -181,16 +181,16 @@ And she kiss me on my neck and she kiss me on my chest
 And then she—
 
 
-(Woo-hoo, ooh)
+(Woo-hoo, oh)
 Take it to the head (Haha), yeah, yeah (Drink it down, yeah)
 Don't think about it, be about it (Can you? Oh)
 Don't be scared to take it to the head, baby, yeah, yeah, yeah, yeah, yeah (Take it, girl, oh, oh, oh, yeah)
 Girl, you fly but if I tell you then you might take it to the head (What up?)
 I'm in my zone, damn near got my eyes closed (Hahaha)
-One shot, two shots, I'm gone (Ooh, yeah)
+One shot, two shots, I'm gone (Oh, yeah)
 Take it to the head, yeah
 I'm in my zone, damn near got my eyes closed (Yeah)
-One shot, two shots, I'm gone (Ooh)
+One shot, two shots, I'm gone (Oh)
 Now we gon' get fucked up, no excuses no apologies
 
 

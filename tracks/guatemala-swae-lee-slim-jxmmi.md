@@ -29,12 +29,12 @@ Wanna make love, she ain't even in denial (in denial)
 We can get away-ay, maybe to Guatemala ('temala)
 Got me goin' deep, got me all in freshwater (goin' under)
 
-Baby when you laughin' is it 'cause you feel an excellent vibe? (Ooh, ooh)
-That was just a fraction of the good, love I provide (ooh, ooh)
+Baby when you laughin' is it 'cause you feel an excellent vibe? (Oh, oh)
+That was just a fraction of the good, love I provide (oh, oh)
 See some niggas talkin' on the side, can you keep that silent? (Keep that quiet)
 Maybe sayin' somethin' but you didn't mean nothin' by it
 Took her to the room, in other words kept that private (kept that private)
-She was my heartbreak, I told her keep those violets (ooh, ooh)
+She was my heartbreak, I told her keep those violets (oh, oh)
 
 Seen the way you talkin' up my phone last night, on God (talkin' on the phone)
 Do it on my jet, let's keep this private

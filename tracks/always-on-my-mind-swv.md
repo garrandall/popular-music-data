@@ -77,7 +77,7 @@ rankings:
   start_date: '1994-04-30'
 ---
 
-You're always on my mind 
+You're always on my mind
 
 
 Boy, I can't seem to get you outta my head
@@ -114,8 +114,4 @@ I guess that's why you're always on my mind
 
 Thinking 'bout ya, thinking 'bout ya, I can't stop thinking 'bout ya
 (On my mind)
-
-
-
-
 

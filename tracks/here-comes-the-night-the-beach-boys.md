@@ -56,7 +56,7 @@ Hold me, squeeze me, don't ever leave me
 Tell me I'm doing alright
 Hold me, squeeze, me don't ever leave me
 Tell me I'm doing alright
-Hold me, love me, ooooo
+Hold me, love me, oo
 
 
 I know living is taking and giving
@@ -74,7 +74,7 @@ Hold me, squeeze me, don't ever leave me
 Tell me I'm doing alright
 Hold me, squeeze, me don't ever leave me
 Tell me I'm doing alright
-Hold me, love me, ooooo
+Hold me, love me, oo
 
 
 Every morning our love is reborn
@@ -92,4 +92,4 @@ Hold me, squeeze me, don't ever leave me
 Tell me I'm doing alright
 Hold me, squeeze, me don't ever leave me
 Tell me I'm doing alright
-Hold me, love me, ooooo
+Hold me, love me, oo

@@ -75,11 +75,11 @@ High stakes, I got more at stake than Philly
 Shoppin sprees, copin three
 Deuce fever IS's fully loaded, ah yes
 Bouncin in the lex luger, tires smoke like buddha
-50 G's to the crap shooter, niggaz can't fade me
+50 G's to the crap shooter, niggas can't fade me
 Chrome socks beamin
 Through my perephreal I see ya schemin
 Stop dreamin, I leave your body steamin
-Niggaz is fiendin, what's the meanin?
+Niggas is fiendin, what's the meanin?
 I'm leanin on any nigga intervenin
 With the sound of my money machine-in
 My cup runneth, over with hundreds
@@ -110,12 +110,12 @@ Cause that's the way you're makin me feel
 (Cause you can't knock the hustle)
 I'm just tryin to get mine, I don't have the time
 To knock the hustle for real
-Yo, y'all niggaz lunchin, punchin the clock
+Yo, y'all niggas lunchin, punchin the clock
 My function is to make much and lay back munchin
 Sippin Remy on the rocks, my crew, somethin to watch
 Nothin to stop, un. .stoppable
 Scheme on the ice, I gotta hot your crew
-I gotta, let you niggaz know the time like Movado
+I gotta, let you niggas know the time like Movado
 My motto, stack rocks like Colorado
 Auto off the champagne, Cristal's by the bottle
 It's a damn shame what you're not though (who?) Me

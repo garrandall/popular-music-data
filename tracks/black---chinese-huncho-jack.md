@@ -38,7 +38,7 @@ Really ain't takin' orders (Orders), livin' a dangerous life (Life)
 Hell try to melt the ice (Ice), levitate through the night (Night)
 
 
-(Ooh, yeah yeah, yeah)
+(Oh, yeah yeah, yeah)
 What's the meanin', these niggas schemin' (Yeah, yeah)
 She popped a Xanny, the bitch is sleepin' (Xan')
 My coupe too fast, police didn't see me (Skrrt, skrrt)

@@ -62,9 +62,6 @@ And they couldn't prevent Jack from being happy
 But they couldn't stop Jack, or the waters lapping
 And they couldn't prevent Jack from feeling happy
 
-
-
-
 The kids couldn't hurt Jack
 They tried, tried, tried
 They dropped things on his back

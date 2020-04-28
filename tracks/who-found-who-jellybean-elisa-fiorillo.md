@@ -114,7 +114,7 @@ There's nothing I would rather do
 Then to give my love to only you
 
 I'm holding out my arms to you
-Ooh, baby, don't let me down
+Oh, baby, don't let me down
 So show me that you love me
 'Cause it doesn't matter now
 

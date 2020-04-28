@@ -56,7 +56,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-03-03'
 ---
-Mmmmm
+Mmm
 Here comes the mailman walking up the street
 And it looks like he has a letter today for me
 Wait a minute let me look inside no it couldn't be from my guy

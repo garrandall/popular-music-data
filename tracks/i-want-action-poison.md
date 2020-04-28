@@ -76,7 +76,7 @@ If I can't have her, I'll take her and make her
 I want action tonight
 Satisfaction all night
 You've got the love I need tonight
-Ooh-ooh-ooh-ooh
+Oh-oh-oh-oh
 
 "Hey, sweetheart, slide on in here
 No, not in the front, jump in the back

@@ -30,7 +30,7 @@ And your ink stains that have dried upon some line
 Keeps you on the back roads (back roads)
 By the rivers of my memory (memory)
 It keeps you ever gentle on my mind (gentle on my mind, yeah)
-Ooh, ooh, ooh, oh (gentle on my mind, yeah)
+Oh, oh oohoh (gentle on my mind, yeah)
 It’s not clinging to some rocks and ivy planted
 On some column now that binds me, no, it don’t
 Or something that somebody said

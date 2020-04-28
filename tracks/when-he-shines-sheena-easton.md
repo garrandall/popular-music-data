@@ -78,7 +78,7 @@ But when he shines, oh when he shines
 Yes when he shines, he shines so bright
 
 Sometimes a tramp, sometimes a dude
-He changes colour just like a cameleon, cant find the mood
+He changes colour just like a cameleon, can't find the mood
 He is a song that's not easy to write
 He is a moon in the morning, and the sun out at night
 

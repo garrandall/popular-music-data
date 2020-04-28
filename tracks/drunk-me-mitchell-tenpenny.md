@@ -95,7 +95,7 @@ rankings:
 Some people don't know when to quit, and that's why they quit
 Some need to hit the bottom to see they got a problem, they can't handle it
 But that ain't why I started cleaning up my life
-Wish it was, but, ooh, that would be a lie
+Wish it was, but, oh that would be a lie
 
 
 I've been sober 'cause there ain't no hangover like you, girl
@@ -113,7 +113,7 @@ Oh, no, no, no
 All those bottles sitting up on the shelf are just salt on the wound
 One sip and I'm picking up the phone tryin' not to go home without you
 And that ain't nothin' but a whole lotta pain
-And that kind of hurt, ooh hurts, it ain't worth another drink
+And that kind of hurt, ohhurts, it ain't worth another drink
 
 
 I've been sober 'cause there ain't no hangover like you, girl

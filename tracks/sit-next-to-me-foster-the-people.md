@@ -119,7 +119,7 @@ Last time I saw you said
 "You wanna keep it light"
 But I'm here to tell you
 I'm not trying to change your mind
-It's alright, ooh, it's alright, oooh
+It's alright, oh, it's alright, oh
 
 Yeah, come over here and sit next to me
 We can see where things go naturally

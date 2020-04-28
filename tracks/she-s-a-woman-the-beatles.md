@@ -77,9 +77,6 @@ Turn me on when I get lonely
 People tell me that she's only
 Fooling, I know she isn't
 
-
-
-
 She's a woman who understands
 She's a woman who loves her man
 

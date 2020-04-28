@@ -55,7 +55,7 @@ And the final burst, I'll hold
 *reggae chat* until it comes
 Backscratches added up in sums
 Didn't your momma teach you bout b**** a man?
-Bent my d*** so bad that I ran
+Bent my dick so bad that I ran
 Now I'll, freak of the week, or ride the quest of a yardgirl's hips
 Your p**** can't see these lips
 I keep my tongue in my mouth.. cause I can't see down South
@@ -78,11 +78,11 @@ Gettin crazy joy from my Lazy-Boy that reclines
 Seems the only time we're not in a fight..
 Is when I'm layin the pipe..
 You don't want me to bone another chick
-Quick to claim my name and my d***
+Quick to claim my name and my dick
 But when I tell you get off the swine and get refined
-You act like you're blind and you lost your d*** mind
+You act like you're blind and you lost your damn mind
 See I'm not the kind to let a woman run it
-How my man Rick say it? _I Shouldn't Have Done It_
+How my man Rick say it? I Shouldn't Have Done It
 Is what I'd be saying if you was runnin the show
 No h*, there's no gold, the G-O-D know
 The time on the Sun and the Moon and the Stars

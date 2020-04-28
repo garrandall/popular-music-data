@@ -119,13 +119,13 @@ Our love will always continue on
 Everyone needs a shoulder to cry on
 Everyone needs a friend to rely on
 When the whole world is gone
-You won't be alone cause I'll be there (ooh)
+You won't be alone cause I'll be there (oh
 I'll be your shoulder to cry on
 I'll be there (I'll be there)
 I'll be your friends to rely on
 When the whole world was gone
 You won't be alone
-Cause I'll be there (ooh)
+Cause I'll be there (oh
 You'll have my shoulder to cry on
 I'll be there (I'll be there)
 I'll be the one to rely one

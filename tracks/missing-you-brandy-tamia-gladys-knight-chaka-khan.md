@@ -122,7 +122,7 @@ Only God may know why, still I will get by
 Oh there was so many things
 That we could have said, uh-huh
 If time was on our side (time was on our side)
-Ooh, yeah
+Oh, yeah
 Now that you're gone, I can still feel you near
 So I'll smile, with every tear I cry
 

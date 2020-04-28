@@ -75,7 +75,7 @@ Said oh yeah, yeah
 Yeah, yeah, yeah
 Yeah, yeah, yeah
 
-Ooohhh yeah...
+Oh yeah...
 I said oh yeah
 You know we're runnin' around
 Havin' a lot of fun

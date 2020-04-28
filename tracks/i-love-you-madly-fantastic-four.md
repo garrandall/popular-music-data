@@ -44,7 +44,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-16'
 ---
-Hmm-hmm
+Hm-hm
 
 There's just something about you
 I simply adore

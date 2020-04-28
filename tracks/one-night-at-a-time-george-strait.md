@@ -77,7 +77,3 @@ Tomorrow well that's another day.
 Come on baby, now whatta you say.
 Let's take our love one night at a time.
 
-
-
-
-

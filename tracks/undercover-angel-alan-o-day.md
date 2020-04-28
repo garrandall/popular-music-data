@@ -155,7 +155,7 @@ She said all right
 She said love me, love me, love me
 
 Undercover angel, midnight fantasy
-I've never had a dream that made sweet love to me (ooh)
+I've never had a dream that made sweet love to me (oh
 Undercover angel, answer to my prayer
 You made me know that there's a love for me
 

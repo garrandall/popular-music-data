@@ -134,11 +134,6 @@ She holds the key
 A simple yellow ribbon's what I need to set me free
 I wrote and told her please
 
-
-
-
-
-
 Now the whole damned bus is cheering
 And I can't believe I see
 A hundred yellow ribbons 'round the ole oak tree

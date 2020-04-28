@@ -138,9 +138,6 @@ And it sounds alright, yeah, it's dynamite,
 It's outta sight.
 Let's hear it, right nnnnnnnnow!
 
-
-
-
 Shut up baby, I'm tryin' to sing!
 
 Get it!
@@ -153,7 +150,4 @@ Gitarzan!
 And his jungle band!
 They're all you can stand,
 Give 'em a hand, Gitarzan!
-
-
-
 

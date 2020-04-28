@@ -84,7 +84,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-03-18'
 ---
-New York girl, ooh, ooh, ooh
+New York girl, oh oohohoh
 Runnin' pretty, New York City girl
 25, 35, hello, baby
 New York City girl
@@ -108,7 +108,7 @@ Oh, oh, oh (Oh, oh, oh)
 You're a native New Yorker
 You should know the score by now (you should know by now)
 You're a native New Yorker
-(New York girl, ooh, ooh, ooh)
+(New York girl, oh oohohoh
 
 
 Music plays, everyone's dancin' closer and closer
@@ -132,8 +132,8 @@ For a native New Yorker
 (Runnin' pretty, New York City girl)
 
 
-(Ooh, ooh, ooh
-Native, native, native, ooh)
+(Oh, oh oh
+Native, native, native, oh
 
 (Where did all those yesterdays go?
 When you still believed

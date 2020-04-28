@@ -3,9 +3,9 @@ artists:
 - Lindsey Pavao
 features: []
 genres: []
-key: say-aah-lindsey-pavao
-lyrics_url: https://www.musixmatch.com/lyrics/Lindsey-Pavao/Say-Aah-The-Voice-Performance
-name: Say Aah
+key: say-ah-lindsey-pavao
+lyrics_url: https://www.musixmatch.com/lyrics/Lindsey-Pavao/Say-Ah-The-Voice-Performance
+name: Say Ah
 rankings:
 - end_date: '2012-03-02'
   rank: 80
@@ -14,16 +14,16 @@ rankings:
 ---
 Go girl its ya birthday
 Open wide I know you're thirsty
-Say ahhh
-Say ahhh
-And we dont buy no drinks at the bar
+Say ah
+Say ah
+And we don't buy no drinks at the bar
 Pop champagne cause we got that dough
-Let me hear you say ahhh
-You want me say ahhh
+Let me hear you say ah
+You want me say ah
 
 (1)
 Pocket full of money
-Club dont jump
+Club don't jump
 Till I walk inside the doorway
 Bottles of that Rosé
 Smelling like Dolce and Gabanna
@@ -41,12 +41,12 @@ So get here baby let me fill it up
 ()
 Go girl its ya birthday
 Open wide I know youre thirsty
-Say ahhh
-Say ahhh
-And we dont buy no drinks at the bar
+Say ah
+Say ah
+And we don't buy no drinks at the bar
 Pop champagne cause we got that dough
-Let me hear you say ahhh
-You want me say ahhh
+Let me hear you say ah
+You want me say ah
 
 (2)
 Shorty dance like a video vixen
@@ -65,9 +65,9 @@ So get here baby let me fill it up
 ()
 Go girl its ya birthday
 Open wide I know you're thirsty
-Say ahhh
-Say ahhh
-And we dont buy no drinks at the bar
+Say ah
+Say ah
+And we don't buy no drinks at the bar
 Pop champagne cause we got that dough
-Let me hear you say aah
-You want me say aah
+Let me hear you say ah
+You want me say ah

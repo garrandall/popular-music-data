@@ -41,7 +41,7 @@ Goodness gracious
 Great balls of fire
 
 Kiss me, baby
-Ooh, feels so good
+Oh, feels so good
 Hold me, baby
 
 I want to love you

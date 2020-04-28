@@ -90,7 +90,7 @@ rankings:
 ---
 
 He was always such a nice boy
-The quiet one 
+The quiet one
 With good intentions
 He was down for his brother
 Respectful to his mother
@@ -108,13 +108,13 @@ With his Father's 9 and a broken fuse
 Since he walked through that classroom door
 He's all over primetime news
 
-Mary's got the same size hands 
+Mary's got the same size hands
 As Marilyn Monroe
 She put her fingers in the imprints
 At Manns Chinese Theater Show
 She coulda been a movie star
 Never got the chance to go that far
-Her life was stole 
+Her life was stole
 Now we'll never know
 
 No no no no oh
@@ -140,11 +140,11 @@ Everybody knows his name
 
 Mary's got the same size hands (Oh)
 As Marilyn Monroe
-She put her fingers in the imprints (Ooh)
+She put her fingers in the imprints (Oh)
 At Manns Chinese Theater Show
 She coulda been a movie star (She coulda been a movie star, oh)
 Never got the chance to go that far
-Her life was stole 
+Her life was stole
 Now we'll never know
 (Now we'll never know, oh)
 
@@ -168,7 +168,7 @@ At Manns Chinese Theater Show (She was gonna be a star)
 She coulda been a movie star (Oh no)
 Never got the chance to go that far (Never got the chance)
 Her life was stole (Stole, stole)
-Oh now we'll never know 
+Oh now we'll never know
 (Now we'll never never know, no)
 
 Greg was always getting net from 20 feet away (He had game, oh)

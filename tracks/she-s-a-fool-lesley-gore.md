@@ -84,10 +84,6 @@ With a boy like that, it's such a sin
 I would never be untrue
 I would never make him blue
 
-
-
-
-
 I know there's gonna come a day
 He will tell the girl, 'Be on your way,'
 Maybe then he'll turn to me

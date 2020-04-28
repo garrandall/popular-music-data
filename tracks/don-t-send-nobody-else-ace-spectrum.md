@@ -85,14 +85,14 @@ If you can't come yourself
 No, girl, don't send nobody else
 No, no, baby, come yourself
 
-Oooh, baby
+Oh, baby
 If you can't come yourself
 No, girl, oh, baby
 If you can't come yourself
 No, girl, don't send nobody else
 No, no, baby, come yourself
 
-Oooh, baby, baby
+Oh, baby, baby
 If you can't come yourself
 No, girl, oh, baby
 If you can't come yourself

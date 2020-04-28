@@ -102,7 +102,7 @@ I never learn
 
 On the nightrain
 Float me home
-Ooh I'm on the nightrain
+OhI'm on the nightrain
 Ridin' the nightrain
 Never to return
 Nightrain

@@ -173,7 +173,7 @@ Shawty fire-burning on the dance floor
 Whoa!
 I gotta cool her down
 She wan' bring the roof to ground on the dance floor
-Whoa !
+Whoa!
 
 She's fire-burning, fire-burning on the dance floor
 That little shawty's fire-burning on the dance floor

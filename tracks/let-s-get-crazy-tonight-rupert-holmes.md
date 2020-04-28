@@ -41,7 +41,7 @@ You got to say, the hell with them all
 C'mon let's get crazy tonight
 No time to worry if we're wrong or we're right
 Caught up with people we've never met
-Ooh, Sunday morning we'll forgive and forget
+Oh, Sunday morning we'll forgive and forget
 
 Before the dawn begins to shine it's hazy blue light
 Let's get crazy tonight
@@ -55,7 +55,7 @@ No one knows whose taking the blame
 C'mon let's get crazy tonight
 No time to worry if we're wrong or we're right
 Caught up with people we've never met
-Ooh, Sunday morning we'll forgive and forget
+Oh, Sunday morning we'll forgive and forget
 
 Before the dawn begins to shine it's hazy blue light
 Let's get crazy tonight
@@ -64,7 +64,7 @@ Let's get crazy tonight
 Let's get crazy tonight
 No time to worry if we're wrong or we're right
 Caught up with people we've never met
-Ooh, Sunday morning we'll forgive and forget
+Oh, Sunday morning we'll forgive and forget
 
 Before the dawn begins to shine it's hazy blue light
 Let's get crazy tonight

@@ -104,7 +104,7 @@ Tonight, to the stars
 Tonight, I'm seein' stars
 
 
-It goes ooh la la, I see stars (Tonight, to the stars)
+It goes ohla la, I see stars (Tonight, to the stars)
 I'm seein' stars, I'm seein' stars (Tonight, I'm seein' stars)
 Seein' stars, I'm seein' stars (Tonight, to the stars)
 Seein' stars, I'm seein' stars (Tonight, I'm seein' stars)

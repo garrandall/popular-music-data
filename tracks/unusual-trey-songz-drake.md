@@ -61,14 +61,14 @@ They say all I talk about is sex
 
 
 How 'bout we just move over and do it where we at
-How 'bout you just lift that skirt up ooh, we can be bad
+How 'bout you just lift that skirt up oh, we can be bad
 That place that ain’t been touched, I’m feeling on it
 I'll let you sit through, keep spinning on it, girl
 Giddy up, get it up, take me on a ride to ecstasy
 You don’t wanna bump bump then take a nap
 You just wanna bump bump bring right back
 Watch me
-I'ma heat it up, beat it up, oooh
+I'ma heat it up, beat it up, oh
 
 
 Know you’re tired of the usual, usual, usual

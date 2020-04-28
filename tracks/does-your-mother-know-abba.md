@@ -118,7 +118,3 @@ And I can chat with you baby
 Flirt a little maybe
 Does your mother know that you're out?
 
-
-
-
-

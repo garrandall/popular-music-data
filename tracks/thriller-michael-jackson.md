@@ -103,7 +103,7 @@ You know it's thriller
 Thriller night
 You're fighting for your life
 Inside a killer
-Thriller tonight, yeah, ooh
+Thriller tonight, yeah, oh
 
 
 You hear the door slam
@@ -120,7 +120,7 @@ You're out of time
 'Cause this is thriller, thriller night
 There ain't no second chance
 Against the thing with 40 eyes, girl
-(Ooh, ooh)
+(Oh, oh
 Thriller, thriller night
 You're fighting for your life
 Inside a killer, thriller tonight
@@ -130,11 +130,11 @@ Night creatures call
 And the dead start to walk in their masquerade
 There's no escaping the jaws of the alien this time
 They're open wide
-This is the end of your life, ooh
+This is the end of your life, oh
 
 
 They're out to get you
-There's demons closing in on every side, ooh
+There's demons closing in on every side, oh
 They will possess you
 Unless you change that number on your dial
 Now is the time
@@ -154,7 +154,7 @@ Thriller here tonight
 'Cause this is thriller, thriller night
 Girl, I can thrill you more
 Than any ghoul would ever dare try
-(Ooh, ooh)
+(Oh, oh
 Thriller, thriller night
 So let me hold you tight
 And share a killer, thriller
@@ -171,11 +171,11 @@ Without the soul for getting down
 Must stand and face the hounds of hell
 And rot inside a corpse's shell
 I'm gonna thrill you tonight
-(Thriller, ooh, thriller)
+(Thriller, oh thriller)
 I'm gonna thrill you tonight
 (Thriller night, thriller)
 I'm gonna thrill you tonight
-Ooh, babe, I'm gonna thrill you tonight
+Oh, babe, I'm gonna thrill you tonight
 Thriller night, babe
 The foulest stench is in the air
 The funk of 40 thousand years (Thriller night, thriller)

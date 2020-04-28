@@ -69,15 +69,9 @@ Anybody here see the long distance cheer for the notion?
 I think we missed it
 Anybody here see the sky weeping tears for the ocean?
 
-
-
-
 Anybody here see the fuzzy-wuzzy loving cup explosion?
 I think we missed it
 Anybody here see the changing of the year-end emotion?
-
-
-
 
 (Don't give me no hand me down world)
 I don't really need it and I'm not going to take it

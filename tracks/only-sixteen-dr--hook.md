@@ -113,7 +113,7 @@ But I was a mere child of sixteen
 I've aged a year since then
 
 She was only sixteen, only sixteen
-Ooh, with eyes that would glow
+Oh, with eyes that would glow
 But she was too young to fall in love
 And I was too young to know
 
@@ -123,7 +123,7 @@ But I was a mere child of sixteen
 I've aged a year since then
 
 Now she was only sixteen, only sixteen
-Ooh, but I loved that girl so
+Oh, but I loved that girl so
 
 But she was too young to fall in love
 And I was too young to know

@@ -80,11 +80,6 @@ And Lady Kazam, my homegirl, peace
 And leave the guns and have fun; out!
 And oh yeah, sing it
 
-
-
-
-
-
 Well, coming back
 To nineteen ninety, Chubb Rock jumps up on the scene
 With a lean and a hardcore dream

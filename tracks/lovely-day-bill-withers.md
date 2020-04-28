@@ -78,7 +78,7 @@ Then I look at you
 And the world's alright with me
 Just one look at you
 And I know it's gonna be
-A lovely day.....
+A lovely day...
 
 When the day that lies ahead of me
 Seems impossible to face
@@ -89,7 +89,7 @@ Then I look at you
 And the world's alright with me
 Just one look at you
 And I know it's gonna be
-A lovely day......
+A lovely day...
 
 
 

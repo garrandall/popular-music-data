@@ -53,10 +53,6 @@ Hoping of being someone big?
 We were so young then
 We were too crazy in love
 
-
-
-
-
 When the lights go out
 (And when the lights go out)
 We'll be safe and sound

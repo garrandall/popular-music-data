@@ -61,9 +61,6 @@ I'm all confused but I admit it
 Go away
 No, wait a minute
 
-
-
-
 I need some help
 I'm not quite myself
 And lately I'm a nervous wreck

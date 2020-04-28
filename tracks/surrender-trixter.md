@@ -73,7 +73,7 @@ So lay down your arms and baby let's surrender
 
 And thought my aim is true
 I sometimes miss the mark
-Ooh, in matters of the heart
+Oh in matters of the heart
 But I'd give my life tonight
 To hold you in my arms
 

@@ -115,9 +115,6 @@ Families together kill someone
 Without love
 I believe in love
 
-
-
-
 Without love, I wouldn't believe
 In anythin' that lives and breathes
 Without love, I'd have no anger

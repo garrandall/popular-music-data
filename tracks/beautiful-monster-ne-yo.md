@@ -108,16 +108,16 @@ No I don't mind I don't I don't mind
 
 She's a monster (she's a monster)
 Beautiful monster (beautiful monster)
-Beautiful monster (oooo)
+Beautiful monster (oo)
 But I don't mind (but I don't mind)
 And I need her (and I need her)
 Said I need her (said I need her)
 Beautiful monster (beautiful monster)
-But I don't mind (ooooo)
+But I don't mind (oo)
 No I don't mind
 
-(Said I don't mind I don't I don't mind...) No I don't mind 
-(I don't mind I don't I don't mind...) No I don't mind 
+(Said I don't mind I don't I don't mind...) No I don't mind
+(I don't mind I don't I don't mind...) No I don't mind
 (I don't mind I don't I don't mind... Oooo...) No I don't mind
 
 

@@ -77,7 +77,7 @@ rankings:
   start_date: '1987-10-10'
 ---
 
-Ooh, I can see that you've got fire in your eyes
+Oh, I can see that you've got fire in your eyes
 And pain inside your heart
 So many things have come and torn your world apart
 
@@ -86,10 +86,10 @@ Don't give up
 Don't give up
 Don't give up
 
-(If you want love) 
-If you want love, you've got to give a little 
 (If you want love)
-If you want faith, you just believe a little 
+If you want love, you've got to give a little
+(If you want love)
+If you want faith, you just believe a little
 (If you want love)
 If you want peace, turn your cheek a little
 
@@ -106,15 +106,15 @@ Don't give up
 Don't give up
 Don't give up
 
-(If you want love) 
+(If you want love)
 If you want love, you've got to give a little
 (If you want love)
 If you want faith, you just believe a little
 (If you want love)
 If you want peace, turn your cheek a little
 
-Oh, you've got to give 
-You've got to give 
+Oh, you've got to give
+You've got to give
 You've got to give to live
 
 Each man's a country in his own right
@@ -122,7 +122,7 @@ Oh, everybody needs a friend
 One friend, one God, one country
 No man need defend, yeah
 
-I believe in fate and destination 
+I believe in fate and destination
 But so much of that lies in our own hands
 If you know what you want, just go on out and get it
 
@@ -131,14 +131,14 @@ Just don't give up, no, no
 Don't give up, yeah, yeah
 
 (If you want love)
-If you want love, you've got to give a little 
+If you want love, you've got to give a little
 (If you want love)
-If you want faith, you just believe a little 
-(If you want love) 
+If you want faith, you just believe a little
+(If you want love)
 If you want peace, turn your cheek a little
 
-Oh, if you want love, you've got to give 
-(If you want love) oh, give to live 
+Oh, if you want love, you've got to give
+(If you want love) oh, give to live
 (If you want love) you've got to give
 You've got to give, you've got to give to live
 (If you want love)

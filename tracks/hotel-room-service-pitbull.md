@@ -104,13 +104,13 @@ rankings:
 I want everybody to stop what they're doing.
 Now if you know you're with somebody you're gonna take the hotel room tonight, make some noise...
 
-Meet me at the hotel room 
+Meet me at the hotel room
 
 
 Forget about your boyfriend and meet me at the hotel room,
 You can bring your girlfriends and meet me at the hotel room
 
-We at the hotel, motel, Holiday Inn 
+We at the hotel, motel, Holiday Inn
 
 She like that freaky stuff
 2 in the O, 1 in the eye,
@@ -136,12 +136,12 @@ We gon' freak some more, but first...
 Forget about your boyfriend and meet me at the hotel room,
 You can bring your girlfriends and meet me at the hotel room
 
-We at the hotel, motel, Holiday Inn 
+We at the hotel, motel, Holiday Inn
 
 After party in hotel lobby,
 Then we off to the room like vroom,
 With them fingers in yo mouth or open up yo blouse,
-And pull that g-sting down south (ooh)
+And pull that g-sting down south (oh)
 OK shawty, 1's company, 2's a crowd, and 3's a party.
 If your girl ain't with it, I got somebody,
 And by nature she's naughty.
@@ -157,7 +157,7 @@ We gon' freak some more, but first...
 Forget about your boyfriend and meet me at the hotel room,
 You can bring your girlfriends and meet me at the hotel room
 
-We at the hotel, motel, Holiday Inn 
+We at the hotel, motel, Holiday Inn
 
 
 

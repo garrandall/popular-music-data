@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: outside-aaron-lewis-of-staind-with-fred-durst
+lyrics_url: https://genius.com/Staind-outside-aaron-lewis-and-fred-durst-lyrics
 name: Outside
 rankings:
 - end_date: '2001-02-02'
@@ -84,4 +85,50 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-06-02'
 ---
+And you bring me to my knees again
+All this time, that I can beg you please, yeah
+All the times that I felt insecure, yeah
+And I lift my burden out the door
 
+I'm on the outside
+I'm looking in
+I can see through you
+See your true colors
+'Cause inside you're ugly
+You're ugly like me
+I can see through you
+See to the real you
+
+All this time that I felt like this won't end
+Was for you
+And I taste what I could never have
+It's from you
+All those times that I tried, my intention, full of pride
+And I waste more time than anyone
+
+But I'm on the outside
+I'm looking in
+I can see through you
+See your true colors
+'Cause inside you're ugly
+You're ugly like me
+I can see through you
+See to the real you
+
+All the times that I've cried
+All this wasted, it's all inside
+And I feel, all this pain, stuffed it down
+It's back again
+And I lie here in bed, all alone, I can't mend
+And I feel tomorrow will be okay
+
+But I know
+
+That I'm on the outside
+I'm looking in
+I can see through you
+See your true colors
+'Cause inside you're ugly
+You're ugly like me
+I can see through you
+See to the real you

@@ -103,7 +103,3 @@ You know I never felt this way before,
 I really can't help myself,
 'Cause I'm thinking of nothing else.
 
-
-
-
-

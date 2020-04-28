@@ -107,7 +107,7 @@ Whoa, and I don't want you to take
 (don't take my sunshine)
 Whoa, if you love me
 (don't take my sunshine)
-Umm-hmm, if you need me
+Umm-hm, if you need me
 (don't take my sunshine)
 Uh-huh if you want me
 (don't take my sunshine)

@@ -69,12 +69,12 @@ Know the changes I put you through baby
 My promise is to you
 
 I'll be good
-Ooh, ooh (Ooh, ooh)
+Oh, oh(Oh, oooh
 Better than before
 You know I'll love you more
 
 I'll be good
-Ooh, ooh (Ooh, ooh)
+Oh, oh(Oh, oooh
 Better than before
 You know I'll love you more
 
@@ -128,13 +128,13 @@ When I'm at my best
 There's no room to guess
 
 I'll be good
-Ooh, ooh, ooh
+Oh, oh ooh
 Better than before
 You know I'll love you more
 
 I'll be good
-Ooh, ooh, ooh
-Mmm... ooh
+Oh, oh ooh
+Mmm... oh
 
 I'll be good
 Better than before

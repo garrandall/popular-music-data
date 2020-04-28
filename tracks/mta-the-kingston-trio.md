@@ -52,19 +52,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-08-24'
 ---
-(Spoken Introduction:)
-These are the times that try men's souls
-In the course of our nation's history
-The people of Boston have rallied bravely
-Whenever the rights of men have been threatened
-
-Today a new crisis has arisen
-The Metropolitan Transit Authority, better known as the MTA
-Is attempting to levy a burdensome tax on the population
-In the form of a subway fare increase
-Citizens, hear me out, this could happen to you!
-
-(Song:)
 Well, let me tell you of the story of a man named Charlie
 On a tragic and fateful day
 He put ten cents in his pocket, kissed his wife and family
@@ -127,5 +114,3 @@ He's the man who never returned
 He's the man who never returned
 He's the man who never returned
 Et tu, Charlie?
-
-Songwriters: Jacqueline Steiner and Bess Lomax Hawes

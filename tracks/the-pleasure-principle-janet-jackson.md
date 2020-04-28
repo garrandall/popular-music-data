@@ -91,8 +91,8 @@ We turned right and I said wrong which brings us to a stop
 As the light is changing
 
 Oh my meters running so I got to go now
-It's the pleasure principle oh oh ohh
-It's the principle of pleasure, ohh
+It's the pleasure principle oh oh oh
+It's the principle of pleasure, oh
 It's the pleasure principle oh oh
 
 It's true you want to build your life on guarantees
@@ -104,11 +104,11 @@ It's not the first time I paid the fare
 Where'd you get the idea of material possession?
 Thank you for the ride nowhere
 
-And oh my meters running so I've really got to go 
+And oh my meters running so I've really got to go
 It's the pleasure principle oh oh, oh hoo
 It's the principle of pleasure
 Ohh, ah
-It's the pleasure principle oh oh, ohh, ah
+It's the pleasure principle oh oh, oh, ah
 
 I know, what you mean to me
 Baby this is nowhere
@@ -136,7 +136,7 @@ After all the love that we've been through
 After all you've put me through
 Hey hey hey, yeah
 Love me, hey yeah, love me, yeah!
-Hoo ooh ooh ooh
+Hoo ohoohhoh
 It's the pleasure principle
 Yeah yeah, yeah yeah!
 Oh

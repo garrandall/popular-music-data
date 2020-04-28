@@ -103,9 +103,6 @@ Don't know if it really even matters to you
 How can I make you see?
 It matters to me
 
-
-
-
 Oh, when I don't know what to say, don't know what to do
 Don't know if it really even matters to you
 How can I make you see?

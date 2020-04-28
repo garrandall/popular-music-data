@@ -121,7 +121,7 @@ And it seems you don't wanna work things out
 
 Ay, ay, ay, ay
 Uh, uh
-Oooh, ooh
+Oh, oh
 
 Take your sorry
 Uh
@@ -135,7 +135,7 @@ Take your sorry
 And baby, this is the plan
 You can take that sorry, baby
 And stick it
-Oooh
+Oh
 
 Sayin' sorry don't
 Sayin' sorry don't make it right
@@ -160,7 +160,7 @@ I don't wanna hear you say
 I don't wanna hear you say you're sorry
 For what you did to me
 
-Ooh, baby
+Oh baby
 Baby, get
 Baby, get
 Baby, get hold of this

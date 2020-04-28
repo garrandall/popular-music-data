@@ -103,13 +103,13 @@ For the nigga who be talkin loud and holdin his dick
 Talkin shit, he better LAY LOW
 For the bitch that said I shot some shit up out of my dick
 Now she sick, she better LAY LOW
-For the niggaz who be claimin my hood
+For the niggas who be claimin my hood
 and really ain't from my gang, better LAY LOW
 I hope he don't be thinkin I'm just talkin
 and I won't do a thing, really HOPE SO!
 
 
-Hmm, lay low, nobody move until I say so
+Hm, lay low, nobody move until I say so
 Limo tint rollin deep like the President
 See I don't go to clubs, I never chase a bitch (beitch)
 I'm here to bang that gangsta shit to the apocalypse
@@ -156,7 +156,7 @@ Booyaka booyaka, we bring it straight to ya
 From 22's to Luger's the shit that shoot through ya
 Who you motherfuckers think the Top Dogg bang with?
 The same click he came with and made the game flip
-Now niggaz grow they hair, hope they stayin act hard
+Now niggas grow they hair, hope they stayin act hard
 That's even tho' yo' CEO talk shit get slapped hard
 The backyard is where we get our scrap on
 The black car drive by then you get capped on
@@ -170,8 +170,4 @@ I keeps it real-ah, cause I'm all about my scrilla
 The ladies love me cause I'm a million dolla hitta
 It's, No Limit til I D-I-E
 C-P-3, or Richmond, Cali's where I be
-
-
-
-
 

@@ -77,8 +77,8 @@ And they're all standing around me singing
 But there was one thing missing,
 And that was the moment I knew.
 
-Ooh, I knew.
-Ooh,
+Oh I knew.
+Oh
 
 You called me later,
 And said, "I'm sorry, I didn't make it,"

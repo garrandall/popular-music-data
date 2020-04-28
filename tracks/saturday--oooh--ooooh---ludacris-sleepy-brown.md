@@ -4,9 +4,9 @@ artists:
 features:
 - Sleepy Brown
 genres: []
-key: saturday--oooh--ooooh---ludacris-sleepy-brown
-lyrics_url: https://genius.com/Ludacris-saturday-oooh-oooh-lyrics
-name: Saturday (Oooh! Ooooh!)
+key: saturday--oh--oh---ludacris-sleepy-brown
+lyrics_url: https://genius.com/Ludacris-saturday-oh-oh-lyrics
+name: Saturday (Oh! Oh!)
 rankings:
 - end_date: '2002-02-22'
   rank: 95
@@ -89,10 +89,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-06-29'
 ---
-Oooh-Oooh!
-Oooh-Oooh!
-Oooh-Oooh!
-Oooh-Oooh!
+Oh-Oh!
+Oh-Oh!
+Oh-Oh!
+Oh-Oh!
 
  + (Sleepy Brown)
 I gotta big weed stash, pocket full of cash
@@ -101,8 +101,8 @@ Sticky, icky, icky
 Sticky, icky, icky, icky
 System on blast, cops just passed
 Just seen a big ol' ass (It's Saturday!)
-Sticky, icky, icky (Oooh-Oooh!)
-Sticky, icky, icky, icky (Oooh-Oooh!)
+Sticky, icky, icky (Oh-Oh!)
+Sticky, icky, icky, icky (Oh-Oh!)
 
 
 Grease don't pop on the stove no more
@@ -130,8 +130,8 @@ Sticky, icky, icky
 Sticky, icky, icky, icky
 System on blast, cops just passed
 Just seen a big ol' ass (It's Saturday!)
-Sticky, icky, icky (Oooh-Oooh!)
-Sticky, icky, icky, icky (Oooh-Oooh!)
+Sticky, icky, icky (Oh-Oh!)
+Sticky, icky, icky, icky (Oh-Oh!)
 
 
 It's illegal but the plants in my backyard grow
@@ -159,8 +159,8 @@ Sticky, icky, icky
 Sticky, icky, icky, icky
 System on blast, cops just passed
 Just seen a big ol' ass (It's Saturday!)
-Sticky, icky, icky (Oooh-Oooh!)
-Sticky, icky, icky, icky (Oooh-Oooh!)
+Sticky, icky, icky (Oh-Oh!)
+Sticky, icky, icky, icky (Oh-Oh!)
 
 
 Worldwide hustlers get that dough
@@ -188,5 +188,5 @@ Sticky, icky, icky
 Sticky, icky, icky, icky
 System on blast, cops just passed
 Just seen a big ol' ass (It's Saturday!)
-Sticky, icky, icky (Oooh-Oooh!)
-Sticky, icky, icky, icky (Oooh-Oooh!)
+Sticky, icky, icky (Oh-Oh!)
+Sticky, icky, icky, icky (Oh-Oh!)

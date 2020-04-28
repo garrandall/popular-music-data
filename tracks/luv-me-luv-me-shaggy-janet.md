@@ -115,11 +115,11 @@ Now Mr. Lover, keep her rockin', Mr. Lover, keep her rockin'
 Mr. Lover, keep her rockin', and sweat
 
 
-Ooh boy, I love you so
+Oh boy, I love you so
 Never, ever, ever gonna let you go (That's right)
 Once I get my hands on you
 (Luv me, luv me, luv me sex machine)
-Ooh boy, I love you son (Mmm hmm)
+Oh boy, I love you son (Mmm hm)
 Never, ever, ever gonna let you go (That's right, uh)
 I hope you feel the same way too (You know dat)
 
@@ -140,11 +140,11 @@ Let's fog up some window sills, girl, uh
 (Catch a groove back girl, catch a groove)
 
 
-Ooh boy, I love you so
+Oh boy, I love you so
 Never, ever, ever gonna let you go (That's right)
 Once I get my hands on you
 (Luv me, luv me, luv me sex machine)
-Ooh boy, I love you son
+Oh boy, I love you son
 Never, ever, ever gonna let you go (That's right, uh)
 I hope you feel the same way too (You know dat)
 
@@ -186,11 +186,11 @@ Let's fog up some window sills, girl, uh
 Let's fog up some window sills, girl, uh
 
 
-Ooh boy, I love you so
+Oh boy, I love you so
 Never, ever, ever gonna let you go (That's right)
 Once I get my hands on you
 (Luv me, luv me, luv me sex machine)
-Ooh boy, I love you son
+Oh boy, I love you son
 Never, ever, ever gonna let you go (That's right, uh)
 I hope you feel the same way too (You know dat)
 
@@ -211,15 +211,15 @@ Luv me, luv me, luv me, sex machine
 I'm guaranteed to make you moan and scream
 Luv me, luv me, luv me, sex machine
 (Mr. Lover, Mr. Lover)
-(Ooh boy)
+(Oh boy)
 I want to tell this lady
 So just come on, cause I'm the original Cupid
-(Ooh boy)
+(Oh boy)
 Whoo, just like a stick through the arrow
 Makin' us mate, ha, ha, ha
-(Ooh boy)
+(Oh boy)
 Yeah, whoo
-(Ooh boy)
+(Oh boy)
 Cause I'm the ladies choice
 And the girls get moist for the sound of the baritone voice
 You get that, you get that
@@ -227,19 +227,19 @@ Baby, lover
 Sexy undercover, uh, uh
 Mr. Lover, uh, check out, check out
 And I just love the way you just fog up my window sills, baby
-Yeah, ooh
-(Ooh boy)
-(Ooh boy)
+Yeah, oh
+(Oh boy)
+(Oh boy)
 Let me know
 I ain't gonna use no glow-in-the-dark you know what
 It ain't hard to see, baby, whoo
-(Ooh boy)
+(Oh boy)
 Swing low, swing low, whoo, swing low
-(Ooh boy)
+(Oh boy)
 Lovin' all that, lovin' all that, shake it, baby, shake it
-(Ooh boy)
+(Oh boy)
 Dig it, dig it, dig it, I dig it, I get it, I dig dat, I dig dat
-(Ooh boy)
+(Oh boy)
 Lover, lover
 (Lover, lover)
 Sexy undercover
@@ -248,14 +248,14 @@ Rauncy mutha, mmm mmm, no, no
 Check it out I'm spinnin'
 (Lover, lover)
 Whoo
-(Ooh boy)
+(Oh boy)
 Catch a groove back girl, catch a groove back
 Let dem know dat
-(Ooh boy)
+(Oh boy)
 I love this little funky beat
-(Ooh boy)
+(Oh boy)
 Terry Lewis, Jimmy Jam said dat, uh
-(Ooh boy)
+(Oh boy)
 Mr. Lover
 (Mr. Lover)
 Whoo
@@ -296,13 +296,13 @@ Now Mr. Lover keep her rockin', Mr. Lover keep her rockin'
 Mr. Lover keep her rockin' and swing
 
 
-Ooh boy, I love you so
+Oh boy, I love you so
 Never, ever, ever gonna let you go
 (That's right)
 Once I get my hands on you
 (Luv me, luv me, luv me sex machine)
-Ooh boy, I love you son
-(Mmm hmm)
+Oh boy, I love you son
+(Mmm hm)
 Never, ever, ever gonna let you go
 (That's right, uh)
 I hope you feel the same way too
@@ -377,15 +377,15 @@ Luv me, luv me, luv me, sex machine
 I'm guaranteed to make you moan and scream
 Luv me, luv me, luv me, sex machine
 (Mr. Lover, Mr. Lover)
-(Ooh boy)
+(Oh boy)
 I want to tell this lady
 So just come on, cause I'm the original Cupid
-(Ooh boy)
+(Oh boy)
 Whoo, just like a stick through the arrow
 Makin' us mate, ha, ha, ha
-(Ooh boy)
+(Oh boy)
 Yeah, whoo
-(Ooh boy)
+(Oh boy)
 Cause I'm the ladies choice
 And the girls get moist for the sound of the baritone voice
 You get that, you get that
@@ -393,19 +393,19 @@ Baby, lover
 Sexy undercover, uh, uh
 Mr. Lover, uh, check out, check out
 And I just love the way you just fog up my window sills, baby
-Yeah, ooh
-(Ooh boy)
-(Ooh boy)
+Yeah, oh
+(Oh boy)
+(Oh boy)
 Let me know
 I ain't gonna use no glow-in-the-dark you know what
 It ain't hard to see, baby, whoo
-(Ooh boy)
+(Oh boy)
 Swing low, swing low, whoo, swing low
-(Ooh boy)
+(Oh boy)
 Lovin' all that, lovin' all that, shake it, baby, shake it
-(Ooh boy)
+(Oh boy)
 Dig it, dig it, dig it, I dig it, I get it, I dig dat, I dig dat
-(Ooh boy)
+(Oh boy)
 Lover, lover
 (Lover, lover)
 Sexy undercover
@@ -414,14 +414,14 @@ Rauncy mutha, mmm mmm, no, no
 Check it out I'm spinnin'
 (Lover, lover)
 Whoo
-(Ooh boy)
+(Oh boy)
 Catch a groove back girl, catch a groove back
 Let dem know dat
-(Ooh boy)
+(Oh boy)
 I love this little funky beat
-(Ooh boy)
+(Oh boy)
 Terry Lewis, Jimmy Jam said dat, uh
-(Ooh boy)
+(Oh boy)
 Mr. Lover
 (Mr. Lover)
 Whoo

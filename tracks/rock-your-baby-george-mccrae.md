@@ -106,17 +106,17 @@ Rock your baby
 
 C'mon...
 
-Aaaaaaah woman, take me in your arms
+Ah woman, take me in your arms
 Rock your baby
 Oo, oo, oo
 Woman, take me in your arms
 Rock your baby
 
-Ah-aah, yeah
+Ah-ah, yeah
 Take me in your arms and rock me
-Ah-aah, yeah
+Ah-ah, yeah
 Take me in your arms and rock me
-Ah-aaaah
+Ah-ah
 
 
 

@@ -155,4 +155,4 @@ Jesus, take the wheel
 
 
 Oh, take it, take it from me
-Oh, wow, ooh
+Oh, wow, oh

@@ -91,11 +91,11 @@ I can't lose you, babe (I can't lose you)
 I can't lose you, babe (I can't lose you, babe)
 I can't lose you, babe (I can't lose you, babe)
 Oh-oh (Oh-oh, oh-oh, oh-oh, oh-oh)
-Ooh, ooh-ooh-ooh (Oh-oh, oh-oh, oh-oh)
+Oh, oh-oh-oh (Oh-oh, oh-oh, oh-oh)
 I can't lose you, babe (I can't lose you)
 I can't lose you, babe (I can't lose you, babe)
 I can't lose you, babe (I can't lose you, babe)
 Oh-oh (Oh-oh, oh-oh, oh-oh, oh-oh)
 
 
-Ooh
+Oh

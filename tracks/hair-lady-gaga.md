@@ -12,8 +12,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
 ---
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, woah
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh, ooh, woah
+Oh, oh, oh, oh, oh, oh, oh, oh, woah
+Oh, oh, oh, oh, oh, oh, oh, oh, woah
 
 
 Whenever I'm dressed cool, my parents put up a fight
@@ -126,4 +126,4 @@ I am my hair
 I am my hair
 
 
-Ooh, my hair, my hair
+Oh, my hair, my hair

@@ -170,9 +170,6 @@ And I was thinking of places that I could hide
 (I could hide)
 
 
-
-
-
 I saw you dancing there
 I couldn't get you off my mind
 But I could tell, that you could tell

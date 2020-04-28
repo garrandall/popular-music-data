@@ -59,14 +59,14 @@ Now which bitch want it? 'Cause that bitch get it
 I gave him to you, bitch, don't fucking forget it
 
 
-I just went through a break up (Ooh yeah-yeah-yeah)
-But it's okay, I got my cake up (Ooh yeah-yeah-yeah)
-Do my hair, put on some makeup (Ooh yeah-yeah-yeah)
-Trying to see where tonight gonna take us (Ooh yeah-yeah-yeah)
-I post some pics up looking sexy (Ooh yeah-yeah-yeah)
-Now this nigga wanna text me (Ooh yeah-yeah-yeah)
-How much you wanna bet me? (Ooh yeah-yeah-yeah)
-He gon' regret the day he left me (Ooh yeah-yeah-yeah, ooh yeah-yeah-yeah)
+I just went through a break up (Oh yeah-yeah-yeah)
+But it's okay, I got my cake up (Oh yeah-yeah-yeah)
+Do my hair, put on some makeup (Oh yeah-yeah-yeah)
+Trying to see where tonight gonna take us (Oh yeah-yeah-yeah)
+I post some pics up looking sexy (Oh yeah-yeah-yeah)
+Now this nigga wanna text me (Oh yeah-yeah-yeah)
+How much you wanna bet me? (Oh yeah-yeah-yeah)
+He gon' regret the day he left me (Oh yeah-yeah-yeah, oh yeah-yeah-yeah)
 
 
 We celebratin' our breakin' up, oh whoa
@@ -83,14 +83,14 @@ I'm out
 I'm out
 
 
-Now tell me, do my ladies run this? (Ooh yeah-yeah-yeah)
-Not even Hammer can touch this (Ooh yeah-yeah-yeah)
-We standin' up on all the couches (Ooh yeah-yeah-yeah)
-Tomorrow you gon' hear about this (Ooh yeah-yeah-yeah)
-This is what you hearin' through your speakers (Ooh yeah-yeah-yeah)
-That's why we dancin' til our feet hurt (Ooh yeah-yeah-yeah)
-See I found out he was my problem (Ooh yeah-yeah-yeah)
-Tonight I came out here to solve him (Ooh yeah-yeah-yeah, ooh yeah-yeah-yeah)
+Now tell me, do my ladies run this? (Oh yeah-yeah-yeah)
+Not even Hammer can touch this (Oh yeah-yeah-yeah)
+We standin' up on all the couches (Oh yeah-yeah-yeah)
+Tomorrow you gon' hear about this (Oh yeah-yeah-yeah)
+This is what you hearin' through your speakers (Oh yeah-yeah-yeah)
+That's why we dancin' til our feet hurt (Oh yeah-yeah-yeah)
+See I found out he was my problem (Oh yeah-yeah-yeah)
+Tonight I came out here to solve him (Oh yeah-yeah-yeah, oh yeah-yeah-yeah)
 
 
 We celebratin' our breakin' up, oh whoa

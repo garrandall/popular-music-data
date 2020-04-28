@@ -73,6 +73,3 @@ Hey everybody don't you want to party
 Hey everybody can't you feel the rhythm now
 Hey everybody don't you wanna party
 
-
-
-

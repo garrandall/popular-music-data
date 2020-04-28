@@ -22,7 +22,7 @@ Tell me why? Why must we wait until tonight?
 You wanna take a little time
 Wanna drink me like a fine wine
 Write the book of love line by line
-But I want to play with you, ooh...mmmm...right now
+But I want to play with you, oh...mmm...right now
 Go all the way with you,baby...and show you how
 'Cause my body just can't say no
 And fingers just won't let go
@@ -30,7 +30,7 @@ And fingers just won't let go
 Tell me why? Baby. Why must we wait until tonight? Oh, yeah
 Tell me why? Why, when I've waited all my life?
 You're touching me, I'm touching you...
-Oooh, what should I do? Now tell me why, why must we wait 'till tonight?
+Oh, what should I do? Now tell me why, why must we wait 'till tonight?
 
 You like to take it real slow
 Show me every little move you know
@@ -46,7 +46,7 @@ Aaaaw
 Tell me why? Baby. Why must we wait until tonight? Oh, yeah
 Tell me why? Why, when I've waited all my life?
 You're touching me, I'm touching you...
-Oooh, what should I do? Now tell me why, why must we wait 'till tonight?
+Oh, what should I do? Now tell me why, why must we wait 'till tonight?
 
 Come on
 Come on

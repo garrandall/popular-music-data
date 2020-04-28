@@ -70,10 +70,10 @@ Yesterday's gone
 Yesterday's gone
 
 
-Ooooh!
+Oh!
 
 
-Oooh
+Oh
 
 
 Don't stop no!
@@ -92,7 +92,7 @@ Oh
 No, no, no
 
 
-Ooohh! (Finn: Oooh no...)
+Oh! (Finn: Oh no...)
 
 
 All I want is to see you smile
@@ -105,7 +105,7 @@ I know you don't believe that it's true
 
 
 I never meant any harm to you
-Ooooohhhh
+Oh
 
 
 Don't (don't) stop (stop), thinking about tomorrow
@@ -136,7 +136,7 @@ Yesterday's gone
 
 
 
-Oooh, don't you look back
+Oh, don't you look back
 
 
 Don't you look back
@@ -154,7 +154,7 @@ Yeah, yeah, yeah
 Don't you look back
 
 
-Oooh
+Oh
 
 
 Don't you look back
@@ -167,7 +167,7 @@ Don't you look back
 Don't you look back
 
 
-Oooh, don't you look back
+Oh, don't you look back
 
 
 Don't, don't, don't you look back

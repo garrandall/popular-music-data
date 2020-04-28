@@ -70,7 +70,7 @@ Was the son of a preacher man
 The only boy who could ever teach me
 Was the son of a preacher man
 Yes he was
-He was, ooh
+He was, oh
 Yes he was
 
 
@@ -87,7 +87,7 @@ Was the son of a preacher man
 The only boy who could ever teach me
 Was the son of a preacher man
 Yes he was
-He was, ooh
+He was, oh
 Yes he was
 
 
@@ -106,7 +106,7 @@ The only boy who could ever teach me
 Was the son of a preacher man
 Yes he was, (was)
 He was, (was)
-Ooh, yes he was
+Oh, yes he was
 
 (The only one who could ever reach me)
 He was the sweet-talkin' son of a preacher man

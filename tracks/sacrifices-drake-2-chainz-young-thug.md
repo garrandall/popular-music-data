@@ -77,7 +77,7 @@ Trap jumpin' like the Carter, we into jumpin' like Vince
 Moved on from the election
 Introduced her to the plug
 Can't believe they tried to take the connection
-Ooh, girl, you a blessin', fine ass, be finessin'
+Oh, girl, you a blessin', fine ass, be finessin'
 Yeah, I love my fans
 But I don't wanna take pictures in the restroom
 Drench God with the 6 God, point guard and the two guard

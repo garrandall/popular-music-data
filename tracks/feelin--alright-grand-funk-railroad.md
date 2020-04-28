@@ -43,7 +43,7 @@ CHORUS
 Feelin' alright? I'm not feelin' too good myself
 Feelin' alright? I'm not feelin' too good myself
 
-Oooo, Oooo, Oooo, Oooo, Oooo-ooo
+Oooo, Oooo, Oooo, Oooo, Oooo-oo
 
 Baby, you sure took me on one big ride
 And, even now I sit and wonder why
@@ -54,7 +54,7 @@ I got to stop believin' in all your lies
 
 CHORUS
 
-Oooo, Oooo, Oooo, Oooo, Oooo-ooo
+Oooo, Oooo, Oooo, Oooo, Oooo-oo
 
 CHORUS
 
@@ -62,4 +62,4 @@ Oh, yeah
 
 CHORUS
 
-Oooo, Oooo, Oooo, Oooo, Oooo-ooo
+Oooo, Oooo, Oooo, Oooo, Oooo-oo

@@ -67,10 +67,10 @@ Tabloids I don't care it's irrelevant
 I'm heaven sent now watch how I do this shit
 
 
-Ho!.....Ho (I'm..I'm..I'm..I'm)
-Ho!.....Ho Go Go!
-Ho!.....Ho (Hot..Hot.Hot,Hot)
-Ho!.....Ho,Go Go!
+Ho!...Ho (I'm...I'm...I'm...I'm)
+Ho!...Ho Go Go!
+Ho!...Ho (Hot...Hot.Hot,Hot)
+Ho!...Ho,Go Go!
 I'm really, really hot
 Every time my records drop
 Radio says I won't stop

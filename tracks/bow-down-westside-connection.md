@@ -103,20 +103,20 @@ Its the unseen pullin strings wit my pinky ring
 We got  your woman so pucker up
 FO we fuck her up
 Bow down before I make a phone call
-Got 25 niggaz runnin up on ya'll
+Got 25 niggas runnin up on ya'll
 Fo the cheese we want them keys
 Everybody freeze on ya knees butt naked please
 Before any of you guppies get heart
-Nigga rewind my part and....(Bow Down)
+Nigga rewind my part and...(Bow Down)
 
 I take ten steps and I draw
 Now who's dissin the mad ass Inglewood
 Addition
 I bust like a pimple my mind is illmental
 The Westside connects with me and south central
-And a drag from tha zig zag cant fuck with the
+And a drag from tha zig zag can't fuck with the
 Philly's
-Holdin down tha wild west like a kid they 
+Holdin down tha wild west like a kid they
 Call Billy
 Once again it's Mack 10 the gold crown holda
 Strong as a Coca-Cola with a crome pistola
@@ -128,7 +128,7 @@ Lolos Cornishes and Bagguetts on my peices
 So reconize these real G's take the cheese
 The WESTSIDE CONNECTION keep it rollin like gold
 D's
-Three Wheelin and Dealin is like tha California 
+Three Wheelin and Dealin is like tha California
 Style
 But in tha mean while in my town you got to
 BOW
@@ -137,7 +137,7 @@ BOW
 Bow Down when you come to my town
 Bow down when we west-ward bound cuz
 We aint no haters like you
-Bow Down to some nigga's that's greater than 
+Bow Down to some nigga's that's greater than
 You
 
 
@@ -162,12 +162,9 @@ Studio lyricist I'm real with this talk the talk
 Walk the walk
 Dis me on WAX and Iam tryin to saw your whole fuckin
 Head off
-Nigga 
+Nigga
 I'm platium bond so bitch shut up punk all yahh
-Could kiss my converse like sh'o nuff....
-
-
-
+Could kiss my converse like sh'o nuff...
 
 (Yea lemme tell you sumthin)
 (gangsta's make the world go round)

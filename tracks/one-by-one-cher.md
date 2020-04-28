@@ -101,9 +101,6 @@ I know that I could never love any other man
 One of these days he'll understand, understand
 Understand
 
-
-
-
 We're gonna love one another 'til morning comes
 Seek the sweet salvation for what we've done
 Give up resisting one by one, one by one

@@ -73,7 +73,7 @@ rankings:
   start_date: '1989-05-13'
 ---
 Boom boom acka lacka lacka boom
-Boom boom acka lacka boom boom 
+Boom boom acka lacka boom boom
 
 It was a night like this forty million years ago
 I lit a cigarette, picked up a monkey skull to go
@@ -84,10 +84,10 @@ I walked the dinosaur, I walked the dinosaur
 
 
 Open the door, get on the floor
-Everybody walk the dinosaur 
+Everybody walk the dinosaur
 
 Boom boom acka lacka lacka boom
-Boom boom acka lacka boom boom 
+Boom boom acka lacka boom boom
 
 I met you in a cave, you were painting buffalo
 I said I'd be your slave, follow wherever you go
@@ -110,10 +110,6 @@ Ah, and disappeared
 
 But where was his beard?
 
-
-
-
-
 A shadow from the sky, much too big to be a bird
 A screaming, crashing noise louder than I've ever heard
 It looked like two big silver trees that somehow learned to soar
@@ -123,7 +119,7 @@ I killed a dinosaur, I killed a dinosaur
 
 
 Open the door, get on the floor
-Everybody kill the dinosaur 
+Everybody kill the dinosaur
 
 
 Boom boom acka lacka lacka boom

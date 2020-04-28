@@ -44,7 +44,7 @@ I'm gonna meet the girl that I left behind
 
 And when I see her, I'm gonna give her
 All the love I've got
-Ooh, when I see her, I'm gonna give her
+Oh when I see her, I'm gonna give her
 All the love I've got
 
 
@@ -62,7 +62,7 @@ When I see her, I'm gonna give her
 All the love I've got
 
 
-Ooo, baby, baby, baby, I miss you so, ooh
+Ooo, baby, baby, baby, I miss you so, oh
 
 
 Countless nights I stared out my window

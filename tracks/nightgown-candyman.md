@@ -63,9 +63,6 @@ She kept askin me
 Do you wanna watch TV or do you wanna see the town?
 I wanna see your nightgown~!
 
-
-
-
 Crept into the bedroom, I was feelin kind of faint
 (Maybe it was somethin you ate)
 That was my complaint and she bought it like it was on sale
@@ -81,4 +78,4 @@ This is no he say or she say
 When I say to you it's on
 I mean like Donkey Kong 'til the break of dawn
 Didn't take long 'til I heard that familiar sound
-(Ahh) I finally saw her nightgown
+(Ah) I finally saw her nightgown

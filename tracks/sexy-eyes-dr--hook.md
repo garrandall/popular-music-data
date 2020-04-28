@@ -101,7 +101,7 @@ Sexy eyes, moving 'cross the floor, couldn't want for more, sexy eyes
 Sexy eyes, getting down with you, I wanna move with you, sexy eyes
 
 I got up and took your hand and we both began to dance to the music
-Ooh your magic cast a spell, it didn't take long 'til we fell and we knew it
+Ohyour magic cast a spell, it didn't take long 'til we fell and we knew it
 No more lonely nights for me, this is how its gonna be
 
 Sexy eyes, moving 'cross the floor, couldn't want for more, sexy eyes

@@ -58,10 +58,6 @@ Behind closed doors
 The feelin' I get
 I can't control
 
-
-
-
-
 Rocks under my pillow
 And
 Made me realize

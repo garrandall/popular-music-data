@@ -128,7 +128,7 @@ That I ever did see
 I really love your peaches
 Want to shake your tree
 Lovey-dovey, lovey-dovey, lovey-dovey all the time
-Ooo-eee baby, I'll sure show you a good time
+Ooo-ee baby, I'll sure show you a good time
 
 Cause I'm a picker
 I'm a grinner

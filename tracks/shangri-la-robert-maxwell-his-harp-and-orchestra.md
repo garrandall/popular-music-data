@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: shangri-la-robert-maxwell-his-harp-and-orchestra
+lyrics_url: https://genius.com/Robert-maxwell-his-harp-and-orchestra-shangri-la-lyrics
 name: Shangri-La
 rankings:
 - end_date: '1964-03-27'
@@ -55,4 +56,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-06'
 ---
-
+Your kisses take me to Shangri-La
+Each kiss is magic
+That makes my little world a Shangri-La
+A land of bluebirds and fountains
+And nothing to do
+But cling to an angel that looks like you
+And when you hold me, how warm you are
+Be mine my darling
+And spend your life with me in Shangri-la
+For anywhere you are is Shangri-la
+(Orchestral Break)
+How warm you are
+(Orchestral Break)
+You make my little world a Shangri-La
+For anywhere you are is Shangri-La

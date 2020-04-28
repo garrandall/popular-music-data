@@ -40,7 +40,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
 ---
-Ooh baby, recovery
+Oh baby, recovery
 I'm falling again happiness is in my heart, yeah
 Though you misuse me, and false accuse me
 I've gotten to understand
@@ -71,9 +71,9 @@ Feeling better (feeling better)
 So much better (so much better)
 Feeling better (feeling better)
 I feel, I feel...
-Mmm mmm hmm (Mmm mmm hmm)
-Mmm mmm hmm (Mmm mmm hmm)
-Hmm hmm (Hmm hmm)
-Mmm hmm hmm hmm (Mmm hmm hmm hmm)
+Mmm mmm hm (Mmm mmm hm)
+Mmm mmm hm (Mmm mmm hm)
+Hm hm (Hm hm)
+Mmm hm hm hm (Mmm hm hm hm)
 
 Submitted by Michael Hack

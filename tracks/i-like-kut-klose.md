@@ -95,7 +95,7 @@ Let's take it nice and slow, honey
 Caress my body
 And hold me tight
 Don't let me go, baby
-Until I get enough, oooh
+Until I get enough, oh
 
 
 (Baby tonight) baby tonight

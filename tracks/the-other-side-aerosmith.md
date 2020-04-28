@@ -69,9 +69,9 @@ rankings:
   start_date: '1990-09-29'
 ---
 
-Mm mm mm, mm mm mm, mm mm mm, 
+Mm mm mm, mm mm mm, mm mm mm,
 mm mm mm mm mm, Yeah
-Come on. 
+Come on.
 
 
 Lovin' you has go to be (take me to the other side)
@@ -79,18 +79,18 @@ Like the devil and the deep blue sea (take me to the other side)
 Forget about your foolish pride (take me to the other side)
 Oh take me to the other side (take me to the other side)
 
-My mamma told me there'd be days like this 
+My mamma told me there'd be days like this
 And man she wasn't foolin'
-'Cause I just can't believe the way you kiss 
+'Cause I just can't believe the way you kiss
 Uh uh huh
 You opened up your mouth with baited breath
-You said you'd never leave me. 
+You said you'd never leave me.
 You love me, you hate me, I tried to take the loss
 You're cryin' me a river but I got to get across
 
 
 
-I'm lookin' for another kind of love 
+I'm lookin' for another kind of love
 Oh Lordy, how I need it.
 The kind that likes to leap without a shove
 Oh, honey, best believe it.
@@ -118,8 +118,4 @@ Lovin' you has got to be (take me to the other side)
 like the devil and the deep blue sea (take me to the other side)
 My conscience got to be my guide (take me to the other side)
 Oh honey take me to the other side
-
-
-
-
 

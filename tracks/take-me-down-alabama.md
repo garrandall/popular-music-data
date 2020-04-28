@@ -93,7 +93,7 @@ You don't have to stay forever
 Let's just put our hearts together
 Share another night in ecstasy
 We know that it's feelin' better
-Ev'ry time we get together
+Every time we get together
 Maybe love was meant for you and me
 Whoa.
 
@@ -104,8 +104,8 @@ Hold me close and make me strong
 Take me down, take me down tonight.
 
 Take me down tonight
-Ooh oh, take me down tonight
-Ooh oh, are you gonna take me, (take me)
+Ohoh, take me down tonight
+Ohoh, are you gonna take me, (take me)
 Shake me, (shake me)
 Take me down tonight.
 Um hum

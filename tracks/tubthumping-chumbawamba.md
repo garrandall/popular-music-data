@@ -213,46 +213,46 @@ But I get up again (We'll be singing)
 You're never gonna keep me down (When we're winning)
 I get knocked down
 But I get up again (We'll be singing)
-You're never gonna keep me down (Ooh-ooh-ooh)
+You're never gonna keep me down (Oh-oh-oh)
 I get knocked down
 But I get up again (We'll be singing)
 You're never gonna keep me down (When we're winning)
 I get knocked down
 But I get up again (We'll be singing)
-You're never gonna keep me down (Ooh-ooh-ooh)
+You're never gonna keep me down (Oh-oh-oh)
 
 I get knocked down
 But I get up again (We'll be singing) (Pissing the night away)
 You're never gonna keep me down (When we're winning)
 I get knocked down
 But I get up again (We'll be singing) (Pissing the night away)
-You're never gonna keep me down (Ooh-ooh-ooh)
+You're never gonna keep me down (Oh-oh-oh)
 I get knocked down
 But I get up again (We'll be singing) (Pissing the night away)
 You're never gonna keep me down (When we're winning)
 I get knocked down
 But I get up again (We'll be singing) (Pissing the night away)
-You're never gonna keep me down (Ooh-ooh-ooh)
+You're never gonna keep me down (Oh-oh-oh)
 
 I get knocked down
 But I get up again (We'll be singing) (Pissing the night away)
 You're never gonna keep me down (When we're winning)
 I get knocked down
 But I get up again (We'll be singing) (Pissing the night away)
-You're never gonna keep me down (Ooh-ooh-ooh)
+You're never gonna keep me down (Oh-oh-oh)
 I get knocked down
 But I get up again (We'll be singing) (Pissing the night away)
 You're never gonna keep me down (When we're winning)
 I get knocked down
 But I get up again (We'll be singing) (Pissing the night away)
-You're never gonna keep me down (Ooh-ooh-ooh)
+You're never gonna keep me down (Oh-oh-oh)
 
 I get knocked down
 But I get up again (We'll be singing) (Pissing the night away)
 You're never gonna keep me down (When we're winning)
 I get knocked down
 But I get up again (We'll be singing) (Pissing the night away)
-You're never gonna keep me down (Ooh-ooh-ooh)
+You're never gonna keep me down (Oh-oh-oh)
 I get knocked down
 But I get up again (We'll be singing) (Pissing the night away)
 You're never gonna keep me down

@@ -29,7 +29,7 @@ And through an open window came
 Like Sinatra in a younger day
 Pushing the town away, away
 
-Ah-heya ma ma ma, into the night-ahh
+Ah-heya ma ma ma, into the night-ah
 Hey ma ma ma, hey-ay-ay-ay, ah
 Life in a northern town
 Ah hey ma ma ma ma
@@ -41,12 +41,12 @@ It was the winter 1963
 It felt like the world would freeze
 With John F. Kennedy and the Beatles, yeah, yeah
 
-Ah-heya ma ma ma, into the night-ahh
+Ah-heya ma ma ma, into the night-ah
 Hey ma ma ma, hey-ay-ay-ay, ah
 Life in a northern town
 Ah hey ma ma ma ma
 
-Ah-heya ma ma ma, into the night-ahh
+Ah-heya ma ma ma, into the night-ah
 Hey ma ma ma, hey-ay-ay-ay, ah
 They shut the factory down
 Ah hey ma ma ma ma
@@ -58,19 +58,19 @@ And he would never wave goodbye
 You could see it written in his eyes
 As the train pulled out of sight, right by
 
-Ah-heya ma ma ma, into the night-ahh
+Ah-heya ma ma ma, into the night-ah
 Heya ma ma ma, hey-ay-ay-ay, ah
 Life in a northern town
 Ah-hey ma ma ma, take it easy on yourself
-Ah-heya ma ma ma, into the night-ahh
+Ah-heya ma ma ma, into the night-ah
 Heya ma ma ma, hey-ay-ay-ay, ah
 Life in a northern town
 Ah hey ma ma ma ma
-Ah-heya ma ma ma, into the night-ahh
+Ah-heya ma ma ma, into the night-ah
 Heya ma ma ma, hey-ay-ay-ay, ah
 Life in a northern town
 Ah hey ma ma ma ma
-Ah-heya ma ma ma, into the night-ahh
+Ah-heya ma ma ma, into the night-ah
 Hey ma ma ma, hey-ay-ay-ay, ah
 Life in a northern town
 Ah hey ma ma ma ma

@@ -23,14 +23,6 @@ rankings:
 ---
 O.C. ft. Yvette Michele - “Far From Yours”
 
-
-
-
-
-
-
-
-
 O.C.: Uh.  Yeah.  Phenomenon.  Yeah
 Yvette Michele: Mmm.  Ohhh, yeah, baby, far from yours.  Ohhh, yeah
 

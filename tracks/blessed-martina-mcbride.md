@@ -124,10 +124,6 @@ This love is a beautiful gift
 
 
 When I'm singing my kids to sleep
-When I feel you holding me 
+When I feel you holding me
 I know
-
-
-
-
 

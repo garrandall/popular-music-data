@@ -94,12 +94,12 @@ And we'll have fun, fun, fun now that daddy took the T-bird away
 (Fun, fun, fun, now her daddy took the T-bird away)
 
 
-Wooo-ooo-Aaaah!
+Wooo-oo-Ah!
 (Fun, fun, now her daddy took the T-bird away)
 (Fun, fun, now her daddy took the T-bird away)
-Wooo-ooo-Aaaah!
+Wooo-oo-Ah!
 (Fun, fun, now her daddy took the T-bird away)
 (Fun, fun, now her daddy took the T-bird away)
-Wooo-ooo-Aaaah!
+Wooo-oo-Ah!
 (Fun, fun, now her daddy took the T-bird away)
 (Fun, fun, now her daddy took the T-bird away)

@@ -123,22 +123,13 @@ And I don't think he's comin', comin' back
 I did too much lyin', wasted too much time
 Now I'm here and cryin', I, I, I
 
-
-
-
 So open hearted
 He never did me wrong
 I was the one, the weakest one of all
 And now I'm oh oh so sad
 And I don't think he's comin' back, comin' back
 
-
-
-
 I'm going to find him, my baby
-
-
-
 
 I've been around the world, lookin' for my baby
 Been around the world

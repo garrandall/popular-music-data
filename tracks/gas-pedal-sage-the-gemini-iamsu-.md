@@ -132,7 +132,7 @@ Wiggle like you tryna make yo ass fall off
 Hella thick, I wanna smash them all, now
 Speed up, gas pedal
 Speed up, gas pedal , now
-Speed up, gas pedal 
+Speed up, gas pedal
 
 Remember when I said nothing in this song warrants that much enthusiasm. Yeah, Apparently Sage believes that, too. Really, are we still doing this "drain the energy from your voice in order to sound cool" thing? Because there's a difference between sounding like you're really cool, calm and in charge and sounding like you're... just really bored
 
@@ -201,7 +201,7 @@ Lead her to the bathroom, she askin' where you takin' me
 Uh, tell her slow down baby
 I'm too turned up, it's 'bout to go down, baby
 
-Wait, why are you telling HER to slow down, she's the one trying to figure out where YOU'RE going. As well, I love how his response to her question is basically, "Sorry, I'm too turned up, we have to have sex in this disgusting club bathroom. There ain't no other possible option!!!"
+Wait, why are you telling HER to slow down, she's the one trying to figure out where YOU'RE going. As well, I love how his response to her question is basically, "Sorry, I'm too turned up, we have to have sex in this disgusting club bathroom. There ain't no other possible option!"
 
 When you hit the stage the people do a 180
 

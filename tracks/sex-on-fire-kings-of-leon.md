@@ -131,7 +131,7 @@ The greatest, the greatest
 You!
 Your sex is on fire
 You!
-Your sex is on fire, ahh
+Your sex is on fire, ah
 Consumed!
 With what's to transpire
 And you!

@@ -30,12 +30,12 @@ And I don't think I'll ever learn to live
 One day alone
 
 So I'm never gonna say goodbye
-Say goodbye is something i can't bring myself to do
+Say goodbye is something I can't bring myself to do
 Cause as long as I don't say goodbye
 Darling I know, part of me will always be with you
 
 What am I gonna do
-Having you was all i ever wanted, wanted
+Having you was all I ever wanted, wanted
 Where am I gonna go
 To feel the way I felt inside your arms
 Still my life is better

@@ -34,7 +34,6 @@ You try to get my cash
 'Cause you say you're out of gas
 So just stay just where we are
 
-(Chorus)
 
 I need some gas money
 
@@ -44,7 +43,6 @@ I don't got any money
 'Cause I spent it on my honey
 So I'm going home to bed
 
-(Chorus)
 
 I need some gas money
 
@@ -54,7 +52,6 @@ Oh you try to get my cash
 'Cause you say you're out of gas
 So just stay just where we are
 
-(Chorus)
 
 Well if you really want to go
 You'll have to come up with some dough

@@ -57,7 +57,7 @@ Pretty little angel eyes
 Pretty little angel pretty little angel
 Pretty little pretty little
 Pretty little angel
-(Ooooh, ooooh, ooooh)
+(Oh, oh, oh)
 Pretty, pretty, pretty little angel eyes
 
 Angel eyes

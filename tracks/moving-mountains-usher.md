@@ -46,11 +46,11 @@ rankings:
 ---
 
 It's like whatever I do
-Ooh
+Oh
 Just can't get through to you
-Ooh, ooh
+Oh, oh
 I'm never gonna tell anything wrong
-Ooh, ooh,
+Oh, oh
 Listen
 Oh
 
@@ -84,7 +84,7 @@ Just leave me be
 Why you just leave me
 Just leave me be
 Why you just leave me
-Just leave me be, ooh, ooh
+Just leave me be, oh oh
 Be, whoa, whoa, whoa, whoaaa, whoa
 
 She, she don't touch me, I don't touch her
@@ -96,7 +96,7 @@ Every kiss that I miss, girl you know I'm trying
 You never believe when I say, and I never believe it when you say
 I love you, and I shouldn't complain about it
 I should take it like a man and walk up out it
-Cause we will never be the same, ooh
+Cause we will never be the same, oh
 I've been standing in gas and you have been the flame
 
 
@@ -109,7 +109,7 @@ Just leave me be
 Why you just leave me
 Just leave me be
 Why you just leave me
-Just leave me be, ooh
+Just leave me be, oh
 
 This must be a slow death that I'm traveling on
 It feels so wrong, I'm barely holdin' on...
@@ -129,7 +129,7 @@ Just leave me be
 Why you just leave me
 Just leave me be
 Why you just leave me
-Just leave me be, ooh
+Just leave me be, oh
 
 Baby, baby
 Whoa, yeah

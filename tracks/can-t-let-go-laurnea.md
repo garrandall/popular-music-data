@@ -72,41 +72,41 @@ In the middle of the night
 I tried to cry myself to sleep but I
 Can't even close my eyes
 Just thinkin bout you
-What would i do without you?
-Cause i wanna be there
+What would I do without you?
+Cause I wanna be there
 Always there, and
 
 Chorus
 I, can't let go
-Deep inside i wanna let it show
-Cuz i know i gotta let you go
+Deep inside I wanna let it show
+Cuz I know I gotta let you go
 But i, don't even know
 Don't wanna know what i'd do
-If i were ever without you
+If I were ever without you
 
 Bending lies
 Avoiding it for a while
-But i, i can't hide it
+But i, I can't hide it
 The fact we need to be apart
 I want so much to be with you
 What am i, supposed to do?
-When i looOOove you!
+When I looOOove you!
 
 Chorus
 I, can't let go
-Deep inside i wanna let it show
+Deep inside I wanna let it show
 Gotta let you go
 But i, don't even know
 Don't wanna know what i'd do
-If i were ever without you
+If I were ever without you
 
 Chorus:
 I can't let go(i can't let go, no no)
 Wanna let it show (i wanna let it show)
 Gotta let you go (go)
-But i don't even know
+But I don't even know
 Don't wanna know what i'd do
-If i were ever without you
+If I were ever without you
 
 Shum dum dum no
 Shum dum dum no
@@ -116,25 +116,25 @@ Shum dum dum no
 Baby won't you help me say
 I always thought
 This would be a perfect kind of love for me
-But now i know it's plain to see
+But now I know it's plain to see
 Things will work out just for me
-But i need to know
+But I need to know
 Please let me know
 If you're gonna be alright,(if you're gonna be alright)
-Cuz i luhve you!, yea
+Cuz I luhve you!, yea
 
 Chorus:
 I can't let go(i can't let go, no no)
 Wanna let it show (i've got to let it show, yea, yea, yea)
 Gotta let you go (oh no)
-But i don't even know, (but i don't, know know know)
-Don't wanna know what i'd do,(ooohhhh)
-If i were ever without you, (baby)
+But I don't even know, (but I don't, know know know)
+Don't wanna know what i'd do,(oh)
+If I were ever without you, (baby)
 
 Chorus:
-I can't let go(i can't let go, i can't let go)
+I can't let go(i can't let go, I can't let go)
 Wanna let it show (oh honey, don't you see the tears in my eyes?)
 Gotta let you go (i've been crying)
-But i don't even know
+But I don't even know
 Don't wanna know what i'd do
-If i were ever without you
+If I were ever without you

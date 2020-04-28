@@ -126,11 +126,6 @@ you doing anything to keep her by your side
 because, she said she love you, love you long time!
 
 
-
-
-
-
-
 Never ever met her at all!
 you wish you never ever met her at all!
 you wish you never ever met her at all!

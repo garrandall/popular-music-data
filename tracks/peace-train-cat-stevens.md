@@ -79,11 +79,11 @@ Something good has begun
 
 Oh, peace train soundin' louder
 Glide on the peace train
-Ooh, ah, ee, ah, ooh, ah
+Oh, ah, ee, ah, oh, ah
 Come on, now peace train
 Yes, peace train holy roller
 Everyone jump on the peace train
-Ooh, ah, ee, ah, ooh, ah
+Oh, ah, ee, ah, oh, ah
 Come on, now peace train
 
 
@@ -100,7 +100,7 @@ Soon it will all be true
 
 Oh, peace train soundin' louder
 Glide on the peace train
-Ooh, ah, ee, ah, ooh, ah
+Oh, ah, ee, ah, oh, ah
 Come on, now peace train
 Peace train
 
@@ -117,15 +117,15 @@ Come take me home again
 
 Oh, peace train soundin' louder
 Glide on the peace train
-Ooh, ah, ee, ah, ooh, ah
+Oh, ah, ee, ah, oh, ah
 Come on, now peace train
 Yes, peace train holy roller
 Everyone jump on the peace train
-Ooh, ah, ee, ah, ooh, ah
+Oh, ah, ee, ah, oh, ah
 Come on, come on, come on
 Yeah, come on, peace train
 Yes, it's the peace train
-Ooh, ah, ee, ah, ooh, ah
+Oh, ah, ee, ah, oh, ah
 Come on, now peace train
 Peace train
-Ooh, ah, ee, ah, ooh, ah
+Oh, ah, ee, ah, oh, ah

@@ -99,7 +99,7 @@ Sometimes I am frightened, but I'm ready to learn
 We're heading for something, somewhere I've never been
 Sometimes I am frightened, but I'm ready to learn
 'Bout the power of love
-Ooh, the power of love
+Oh, the power of love
 The power of love
 
 Sometimes I am frightened

@@ -52,10 +52,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-04'
 ---
-Written by: Teddy Randazzo
-#16 Jun '65 Hot 100
-
-(CHORUS)
 Take me back, I'm begging please
 Take me back, I'm on my knees
 For you to scold me
@@ -67,16 +63,12 @@ I had a jealous mind
 Too late I learned that you
 Were not the cheating kind
 
-(CHORUS)
 My jealous eyes have learned
 To take a look or two
 They were too blind to see
 That I was losing you
 
-(CHORUS)
 They say you live and learn
 And though I've tried before
 I promise never to
 Be jealous any more
-
-(CHORUS)

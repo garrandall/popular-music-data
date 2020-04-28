@@ -69,7 +69,7 @@ You know you wanna get a peek wanna see my
 You know you wanna put your lips where my hips are
 Kiss on my (woohoo) all over my (woohoo)
 All the boys think it's cake when they taste my (woohoo)
-You don't even need a plate, just your face Ha !
+You don't even need a plate, just your face Ha!
 Licky-licky yum-yum what a great guy
 Now kiss on my (woohoo) all over my (woohoo)
 Kiss on my, all over my
@@ -105,14 +105,14 @@ You know you wanna get a peek wanna see my
 You know you wanna put your lips where my hips Are
 Kiss on my (woohoo) all over my (woohoo)
 All the boys think it's cake when they taste my (woohoo)
-You don't even need a plate, just your face Ha !
+You don't even need a plate, just your face Ha!
 Licky-licky yum-yum what a great guy
 Now kiss on my (woohoo) all over my (woohoo)
 Kiss on my, all over my
 Kiss on my, all over my
 
 
-You wanna taste my 
+You wanna taste my
 You wanna see my
 (You ready)
 Woohoo

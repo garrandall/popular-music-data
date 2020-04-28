@@ -123,7 +123,7 @@ Higher and higher
 Gonna be your man in motion
 All I need's this pair of wheels
 Take me where the future's lyin'
-St. Elmo's Fire, ooh
+St. Elmo's Fire, oh
 
 Burnin' up
 Don't know just how far that I can go (just how far I go)
@@ -182,4 +182,4 @@ I can feel St. Elmo's Fire burnin' in me
 Burnin'
 Burnin' in me
 I can feel it burnin'
-Ooh, burnin' inside of me
+Oh, burnin' inside of me

@@ -75,7 +75,7 @@ rankings:
 Let me tell ya a story about a boll weevil
 Now, some of you may not know, but a boll weevil is an insect
 And he's found mostly where cotton grows
-Now, where he comes from, hmm, nobody really knows
+Now, where he comes from, hm, nobody really knows
 But this is the way the story goes
 
 The farmer said to the boll weevil "I see you're on the square"
@@ -102,5 +102,5 @@ And the boll weevil said to the farmer, said
 "Farmer, I'd like to wish you well."
 Farmer said to the boll weevil, "Yeah, an' I wish that you were in shit"
 (Lookin' for a home, lookin' for a home)
-(Ahh, you have a home all right, you have a home)
-(A real hot home, ahh)
+(Ah, you have a home all right, you have a home)
+(A real hot home, ah)

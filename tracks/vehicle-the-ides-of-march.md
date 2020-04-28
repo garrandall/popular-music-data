@@ -94,12 +94,6 @@ I wants ya gots to have you child
 Great God in heaven, you know I love you
 (Oh you know I do)
 
-
-
-
-
-
-
 Well I'm the friendly stranger in the black sedan
 Oh woncha hop inside my car
 I got pictures, candy, I'm a lovable man

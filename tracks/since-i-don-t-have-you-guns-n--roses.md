@@ -51,7 +51,7 @@ Since I don't have you
 And I don't have fond desires
 And I don't have happy hours
 I don't have anything
-Since I don't have you (I don't have) 
+Since I don't have you (I don't have)
 Happiness and I guess
 I never will again
 When you walked out on me

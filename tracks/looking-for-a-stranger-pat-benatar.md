@@ -63,7 +63,7 @@ I need a little danger in my life, tonight
 I'm tired of the same old "Hello baby, how you're doin', call me often
 Where have you been all my life", every night
 But I know that someday, somewhere, I'll turn around and you'll be there
-Ooh in my life, every night
+Oh in my life, every night
 And
 
 I know, yeah I know you're out there, somewhere

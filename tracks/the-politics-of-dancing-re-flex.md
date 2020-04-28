@@ -105,12 +105,12 @@ When they start to play
 You're gonna get out the way
 
 The politics of dancing
-The politics of, ooh, feeling good
+The politics of, oh feeling good
 The politics of moving, aha
 If this message's understood
 
 The politics of dancing
-The politics of, ooh, feeling good
+The politics of, oh feeling good
 The politics of moving, aha
 If this message's understood
 
@@ -127,18 +127,18 @@ When they start to play
 You're gonna get out the way
 
 The politics of dancing
-The politics of, ooh, feeling good
+The politics of, oh feeling good
 The politics of moving, aha
 If this message's understood
 
 Yeah
 
 The politics of dancing
-The politics of, ooh, feeling good
+The politics of, oh feeling good
 The politics of moving, aha
 If this message's understood
 
 The politics of dancing
-The politics of, ooh, feeling good
+The politics of, oh feeling good
 The politics of moving, aha
 If this message's understood

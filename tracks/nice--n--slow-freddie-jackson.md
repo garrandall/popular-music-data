@@ -106,7 +106,7 @@ So much we learned from talking
 Before we danced in the night
 And only then can love take flight
 Baby, let's take our time
-Ooh, oh yeah
+Oh, oh yeah
 Mmm, yeah, yeah
 
 

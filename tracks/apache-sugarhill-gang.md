@@ -59,7 +59,7 @@ Ho! Ho! Ho!
 Tonto, jump on it, jump on it, jump on it...
 Kemosabi, jump on it, jump on it, jump on it...
 Custer, jump on it, jump on it, jump on it...
-Apache, jump on it, jump on it, wowowowowowowowowo!!
+Apache, jump on it, jump on it, wowowowowowowowowo!
 A-hunga-hunga-hunga-hunga
 
 
@@ -72,8 +72,8 @@ Cause I'm the one who shot Jesse James
 Pound for pound, I will never break down
 (Big Bank!) No sir, I don't mess around
 
-Awowowowowowowowowow!! Ho!
-Wowowowowowwowowowowowowowowowowow!!
+Awowowowowowowowowow! Ho!
+Wowowowowowwowowowowowowowowowowow!
 
 
 
@@ -100,9 +100,6 @@ Hit it gang!
 
 Ho! Ho! Ho! Aowowowowowowowowowowowo!
 
-
-
-
 A pow-wow, just rock it out
 Finger poppin to the break of dawn
 Keep it rockin like the stuff that we call maize
@@ -121,10 +118,5 @@ They were jammin off a record that said it best:
 "Now what you hear is not a test!"
 
 Aowowowowowowowowowowowo!
-A-hunga-hunga-hunga-hunga 
-
-
-
-
-
+A-hunga-hunga-hunga-hunga
 

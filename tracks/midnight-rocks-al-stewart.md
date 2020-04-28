@@ -63,7 +63,7 @@ rankings:
 
 You say with best intention, lets throw away convention
 Set sail across the water, to find the tides of fortune
-I say please understand it, dont' let our love be stranded
+I say please understand it, don't' let our love be stranded
 upon the midnight rocks, upon the midnight rocks
 
 You say theres no endeavour, we couldn't try together
@@ -71,10 +71,10 @@ no storm we couldn't weather, we'll ride the wind forever
 I hear the words you've spoken, don't let our love be broken
 Upon the midnight rocks, oh yeah, upon the midnight rocks.
 
-Ahhh...you know you know its easy
-Ahhh...to let it go believe me
-Ahhh...you know you know you feel it
-Ahhh...don't lose it when you need it
+Ah...you know you know its easy
+Ah...to let it go believe me
+Ah...you know you know you feel it
+Ah...don't lose it when you need it
 
 I know that fascination, with living each sensation
 in your imagination, theres is no hesitation

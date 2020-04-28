@@ -118,7 +118,7 @@ I choose the both of you
 Don't want to fight another night
 Just want to make it right
 C'mon
-Ooh, my number one, oh, my number two
+Oh, my number one, oh, my number two
 Somebody tell me what I'm supposed to do
 My number one, my number two
 Somebody tell me

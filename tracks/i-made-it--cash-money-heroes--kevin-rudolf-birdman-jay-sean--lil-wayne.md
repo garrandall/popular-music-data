@@ -135,8 +135,8 @@ Priceless globe
 High life, flippin, and get some more
 
 Paradise, the luxury marble floor
-When i hit, hit me full of that cash
-More money than i see in a garbage can
+When I hit, hit me full of that cash
+More money than I see in a garbage can
 
 Stunna island, money and the power
 Thats how we do it, make it rain make it shower
@@ -158,14 +158,14 @@ The life i'm living now
 I know that there's no doubt
 I made it, I made it
 
-Oooh i made it
+Oh I made it
 I made it...
 I made it...
 I made it...
 Yo ay ay ay listen
 
-See i don't live for glamour
-And i don't care for fame
+See I don't live for glamour
+And I don't care for fame
 I'm in this for the love of the game
 Funny how things can change
 
@@ -202,11 +202,11 @@ I live first and leave the
 Bullshit dead last
 I lay it down so hard I got a bedrash
 
-And i just tell'em to loaf it
+And I just tell'em to loaf it
 When the bread pass
 Staring at you from the top of the game man
 
-I might drop the worldif i change hands
+I might drop the worldif I change hands
 Uh it feel good to be here
 Weezy in the building got this
 Bitch rebuilt young money
@@ -229,9 +229,9 @@ I made it
 OOO
 I-I-I made it
 Made it, I made it
-Yes i did
-Yes i did
-Yes i did
-Yes i did
-Yes i did
+Yes I did
+Yes I did
+Yes I did
+Yes I did
+Yes I did
 I-I-I made it

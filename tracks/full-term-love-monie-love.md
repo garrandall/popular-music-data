@@ -12,7 +12,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-08-08'
 ---
-Full term love (2x)
+Full term love
 
 
 To be or not to be that is the question
@@ -28,7 +28,7 @@ Wanna be my man alright well here's my name and number
 But if you're not sure you better stop look listen and
 Learn because I'm looking for a love that will last full term
 
-Full term love (4x)
+Full term love
 
 
 OK we're on a date you wanna take me to movies
@@ -44,7 +44,7 @@ Because I'm levelheaded with my feet on the ground
 Why don't you try and do something constructive for instance
 Committing to a love that will last the full distance
 
-Full term love (8x)
+Full term love
 
 
 You wonder why you see me at the bus stop everyday
@@ -61,4 +61,4 @@ I'm telling you now without being undercover
 That I might be an around the way girl
 But I'm a full term lover brother
 
-Full term love (8x)
+Full term love

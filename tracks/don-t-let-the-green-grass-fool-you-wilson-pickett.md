@@ -82,18 +82,18 @@ But right in my arms is where you belong
 (short instrumental)
 
 Umm, mmm
-Ooo-ooo, baby
-Ooh-oh
+Ooo-oo, baby
+Oh-oh
 
 Don't let the green grass fool ya
 Don't let it change your mind, oh baby
 It may be greener on the other side, baby
-But ooh, right in my arms is where you belong, baby
+But oh right in my arms is where you belong, baby
 Gotta feel it
 
 Don't let the green grass fool ya, baby
 (Don't let it change your mind)
-Aaahhh-hey (greener on the other side)
+Ah-hey (greener on the other side)
 Don't, don't let it fool ya
 Baby, in my arms is where you belong, yeah
 

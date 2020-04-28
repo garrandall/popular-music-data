@@ -26,7 +26,7 @@ rankings:
 ---
 Shake me down, not a lot of people left around
 Who knows now? Softly laying on the ground
-Oooh not a lot of people left around oooh oooh
+Oh not a lot of people left around oh oh
 
 
 In my life I have seen people walk into the sea
@@ -40,7 +40,7 @@ I'll keep my eyes fixed on the sun
 
 Shake me down, cut my head on a silver cloud
 Broken sound, softly laying on the ground
-Oooh not a lot of people left around oooh oooh
+Oh not a lot of people left around oh oh
 
 
 In my past, bittersweet, there's no love between the sheets
@@ -72,4 +72,4 @@ I'll keep my eyes fixed on the sun
 
 
 Shake me down, not a lot of people left around
-Oooh oooh
+Oh oh

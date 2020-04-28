@@ -32,7 +32,7 @@ rankings:
 I met him in a club hangin out one night
 He said, "Hello I'm George.. hi Lyte!
 How's everything goin, huh, how ya doin?
-Hope everything's fine, ooh, and umm
+Hope everything's fine, oh, and umm
 can I call you sometime? Can I get the digits?
 And the address, so I can come visit?"
 I gave him the digits, that wasn't a problem
@@ -50,10 +50,10 @@ Cause Lyte needs love too and that ain't no lie
 Keep your ears open, hope that you listenin
 Cause I'm about to take you on a George Porgie mission
 
-"Can it be I've stayed away too long" 
+"Can it be I've stayed away too long"
 
 I gave him the number, I saw it in his eyes
-"She gave me the number? Hmmm I'm surprised"
+"She gave me the number? Hm I'm surprised"
 Good conversation, over the phone
 He began to come for me whenever I was alone
 George was sweet, so nice and so neat
@@ -73,7 +73,7 @@ He couldn't kick the storyline that she was just a friend
 The girls I didn't care, fine legs don't lie
 See cause Georgie was into making your girls cry
 
-"Kissed the girls and made them cry" 
+"Kissed the girls and made them cry"
 
 "Kissed the girls and made them cry"
 "Can it be I've stayed away too long"
@@ -119,11 +119,11 @@ Wake up, it's important that you know that
 No one on Earth is promised tomorrow..
 Believe that! And don't think that it can't happen to you
 
-"Kissed the girls and made them cry" 
+"Kissed the girls and made them cry"
 
-"Can it be I've stayed away too long" 
+"Can it be I've stayed away too long"
 
-"Kissed the girls and made them cry" 
+"Kissed the girls and made them cry"
 
 
 

@@ -78,9 +78,9 @@ What your love has done for me
 Everybody sing, I just want to testify
 Oh girl, what your love has done for me
 
-Hum - mmmm luscious
+Hum - mmm luscious
 Sure been delicious to me
-Hear me now, hum-mmmmmmm
+Hear me now, hum-mmm
 Luscious, sure been delicious to me
 
 Once I was a hollow man

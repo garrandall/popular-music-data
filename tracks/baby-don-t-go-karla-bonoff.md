@@ -64,7 +64,7 @@ Bridge:
 Don't fight, just hold me tight
 Everything is gonna work out right
 I won't beg, but you heard what I said
-I need you ev'ry day and night
+I need you every day and night
 
 Chorus:
 You're takin' all I got and now you're leaving

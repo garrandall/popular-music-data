@@ -47,7 +47,7 @@ Or she can make him do wrong
 
 'Cause everything a man does
 He does it for a woman
-Hmm, mm, hmm
+Hm, mm, hm
 
 Now I'm not saying that
 This is true with all men

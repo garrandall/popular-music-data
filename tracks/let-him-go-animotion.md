@@ -121,6 +121,6 @@ It's the only way you can be sure
 He'll come back to you
 
 Let him go
-Let him go, oooh
-Let him go, oooh
+Let him go, oh
+Let him go, oh
 Let him go

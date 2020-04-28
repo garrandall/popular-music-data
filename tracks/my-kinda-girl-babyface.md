@@ -126,7 +126,7 @@ Girl, you are the only one
 That gives me chills
 And I can't stop lover
 'Cause you mean too much
-Ooh I start to lose it, girl
+Oh I start to lose it, girl
 Whenever we touch
 We got too much time
 And that's for sure

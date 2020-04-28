@@ -117,9 +117,6 @@ But that's not real
 But you did me wrong
 So I'm moving, moving on
 
-
-
-
 "Honey, let me tell you something
 No man in the world!"
 

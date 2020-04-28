@@ -24,7 +24,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-05-18'
 ---
-Ooh...
+Oh...
 (Give a good heart, give a good heart
 Give a good heart, give a good heart)
 
@@ -52,7 +52,7 @@ And I will always stand by you
 Now there's no need to dance alone
 In these arms you found your home
 
-Ooh, whoa oh oh - give a good heart
+Oh, whoa oh oh - give a good heart
 Take my good heart, take my good heart
 Take my good heart
 

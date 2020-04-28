@@ -152,9 +152,9 @@ But I don't have the heart to love you
 Not the way that you want me to
 
 
-(I don't have the heart) Ooh
+(I don't have the heart) Oh
 Baby, I don't have the heart, I don't have the heart
-(I don't have the heart) Ooh, ooh
+(I don't have the heart) Oh, oh
 Baby, I don't have
 (I don't have the heart)
 (I don't have the heart)

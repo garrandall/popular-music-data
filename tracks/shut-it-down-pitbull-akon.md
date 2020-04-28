@@ -71,10 +71,10 @@ To get ready (Clinton Sparks)
 'Cause we about to shut down (Snake)
 
 
-Ohh-ohh
+Ohh-oh
 Can't tell me nothing now
 Baby, I know how to fly
-Ohh-ohh
+Ohh-oh
 Can't nothing hold me down, I'm gonna touch the sky
 (Oh-oh-oh-oh-oh)
 Can't nothing, no, hold me down
@@ -107,10 +107,10 @@ Pa delante-lante
 No mires pa tras
 
 
-Ohh-ohh
+Ohh-oh
 Can't tell me nothing now
 Baby, I know how to fly
-Ohh-ohh
+Ohh-oh
 Can't nothing hold me down
 I'm gonna touch the sky skyy
 (Oh-oh-oh-oh-oh)
@@ -140,13 +140,13 @@ Pa delante-lante
 No mires pa tras
 
 
-Ohh-ohh
+Ohh-oh
 Can't nothing hold me down
 I'm gonna touch the sky, sky
-Ohh-ohh
+Ohh-oh
 Can't tell me nothing now
 Baby, I know how to fly, fly
-Ohh-ohh
+Ohh-oh
 Can't nothing hold me down
 I'm gonna touch the sky, sky
 (Oh-oh-oh-oh-oh)

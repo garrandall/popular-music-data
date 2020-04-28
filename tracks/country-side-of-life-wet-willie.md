@@ -30,7 +30,7 @@ I just need to be someplace where I can move around
 Look down at my toes and I can still see the ground
 Gimme that country side of life
 Which way I can stretch out right
-Gimme the countryside ooh lord
+Gimme the countryside ohlord
 That country side of life
 Which way I don't get uptight
 Gimme the countryside
@@ -50,13 +50,13 @@ Nobody trying to get on your nerves or trying to get what you got
 Live and let live by the golden rule now don't it just hit the spot
 Gimme that country side of life
 Which way I can stretch out right
-Gimme the countryside ooh lord
+Gimme the countryside ohlord
 That country side of life
 Which way I don't get uptight
 Gimme the countryside
 Gimme that country side of life
 Which way I can stretch out right
-Gimme the countryside ooh lord
+Gimme the countryside ohlord
 That country side of life
 Which way I don't get uptight
 Gimme the countryside

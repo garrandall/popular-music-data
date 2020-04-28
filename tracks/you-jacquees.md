@@ -79,7 +79,7 @@ Rather be with you and all your bullshit
 I'd rather be with you and all your bullshit
 Rather be with you and all your bull
 You (Yeah, babe)
-You (Ooh-hoo, yeah)
+You (Ohhoo, yeah)
 You, yeah
 
 
@@ -91,7 +91,7 @@ And I know you did that shit
 
 'Cause money can pay for your time but it's not love
 And love cannot pay for that shit that I bought ya, yeah
-Ooh, got me up on some drama
+Oh got me up on some drama
 Knowin' this shit is a problem, yeah
 Swear to God I should be gone, leave you alone, but I
 
@@ -101,7 +101,7 @@ Rather be with you and all your bullshit
 I'd rather be with you and all your bullshit
 Rather be with you and all your bull
 You (Yeah, babe)
-You (Ooh-hoo, yeah)
+You (Ohhoo, yeah)
 You, yeah
 
 

@@ -1,6 +1,6 @@
 ---
 artists:
-- Missy "Misdemeanor" Elliott
+- Missy Elliott
 features:
 - NAS
 - EVE
@@ -160,7 +160,7 @@ Play your part and I'll keep it tight
 Where else you gonna be in the middle of the night
 But up in the sheets with me aiight
 Gangsta, true to your gang, street master
-You the one I need when there's beef, street blaster 
+You the one I need when there's beef, street blaster
 Ain't afraid to stop a cat, plus pop a cat, huh
 Soldier, cash money, rule your world
 What's topping that?

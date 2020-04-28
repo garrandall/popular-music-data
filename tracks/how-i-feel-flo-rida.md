@@ -17,13 +17,13 @@ rankings:
   start_date: '2014-02-01'
 ---
 Birds flying high
-You know how I feel (ooh)
+You know how I feel (oh)
 It's a new day
-You know how I feel (ooh)
+You know how I feel (oh)
 Sun in the sky
-You know how I feel (ooh)
+You know how I feel (oh)
 It's a new day
-You know how I feel (ooh)
+You know how I feel (oh)
 
 Yeah, I'm a new man, baby
 Your other men probably should follow my blueprint, baby
@@ -42,13 +42,13 @@ I think I'm bipolar
 
 
 Birds flying high
-You know how I feel (ooh)
+You know how I feel (oh)
 It's a new day
-You know how I feel (ooh)
+You know how I feel (oh)
 Sun in the sky
-You know how I feel (ooh)
+You know how I feel (oh)
 It's a new day
-You know how I feel (ooh)
+You know how I feel (oh)
 
 What a feeling I get when I throw up my pistols
 From party, and bigger than life

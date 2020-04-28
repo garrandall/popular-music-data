@@ -86,7 +86,7 @@ We've only just begun, the romance is not over
 I got so much love to give
 
 Let's go to our favorite place
-Ooh, close to the fire and let our passions run wild
+Oh, close to the fire and let our passions run wild
 And love the night away
 I'm just dying to please you, oh, I'll never leave you
 
@@ -129,7 +129,7 @@ Every second, every minute, every hour
 Everyday if you want me to
 
 I'm gonna show you things that you've never seen before
-Gonna make you say, ooh, oh, oh, feel so good to me
-Gonna make you say, ooh, oh, oh, feel so good to me
+Gonna make you say, oh oh, oh, feel so good to me
+Gonna make you say, oh oh, oh, feel so good to me
 Keep on doing what you're doing
 'Cause what you're doing sure feels good to me, baby

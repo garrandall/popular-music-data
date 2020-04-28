@@ -69,17 +69,17 @@ rankings:
 
 When I cry, you cry
 We cry, together
-Said I cry, you cry 
+Said I cry, you cry
 We cry, together
-Said I cry, you cry 
+Said I cry, you cry
 We cry, together
-Said I cry, you cry 
-We cry, together 
+Said I cry, you cry
+We cry, together
 
 
 I love my life, I love my wife
 A bad time to prevail, it overwhelmed me
-I'm livin in hell but livin wealthy 
+I'm livin in hell but livin wealthy
 And know these hoes love me
 Because I'm a star
 I can't even cop a drink at the bar
@@ -90,23 +90,20 @@ Now when my baby loves me
 Home wit tears in her eyes
 And when I get in, I hurt her more by tellin her lies
 She ain't surprise at me
-Just surprised that we 
+Just surprised that we
 Been together for this long
-And I can be 
+And I can be
 The one to mistreat her
 Thought it last forever
 Cuz if I cry, you cry
 We cry together
 
-
-
-
 From, what I recall we was little niggas
 Cuttin school gettin high wit da hottest bitches
 Livin, life so free
-That we ain't fearin 
+That we ain't fearin
 The, ills of the world
-In heat of drug dealin 
+In heat of drug dealin
 You and I then made a killin
 And tuck together
 I this land of forbidden treasure
@@ -120,14 +117,11 @@ I wish death was pleasure
 Cuz when you die
 I cried, we cried together
 
-
-
-
 Wash away your tears (my love)
 You ain't gotta cry no more (my love)
 I'm putting on everything out (my love)
 And my pain it's my love
-And I want 
+And I want
 This world to smile for me
 Don't shed a tear cuz the nigga died happily
 My momma warned me life was a muthafucka
@@ -137,21 +131,18 @@ Tears in her eyes and they be saying shit like
 "I don't want me baby to die"
 Brought so much pain into a life
 Gotta make it better
-Cuz when ma cried I cried 
+Cuz when ma cried I cried
 We cried together
 
-
-
-
-Oooooohhhh
+Oh
 You cry, then I cry
 Then we cry
 When he cries
 I cry together, together
 When I cry, then you cry
 Then we'll cry, together
-Baby, cuz when 
-Ja cries, Mo cries 
+Baby, cuz when
+Ja cries, Mo cries
 We'll cry, together
 If he cry, I'll cry
 Then we'll cry, together

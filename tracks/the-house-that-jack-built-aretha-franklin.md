@@ -67,7 +67,7 @@ In a dream that I thought was love,
 In the house that Jack built (the house that Jack built),
 I'm gonn' remember this house!
 
-Oh-ohh wha-a-at's the use of crying?
+Oh-oh wha-a-at's the use of crying?
 'Cause I brought it on myself
 There's no denying
 But it see-e-ee-ems awful funny

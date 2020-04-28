@@ -137,7 +137,3 @@ I wanna know that, that we can go back
 Back to the times when the lovin' was all that
 When no one could come between our love
 
-
-
-
-

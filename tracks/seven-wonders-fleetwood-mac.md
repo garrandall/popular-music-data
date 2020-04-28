@@ -96,7 +96,7 @@ You touched my hand and you smiled
 All the way back you held out your hand
 
 If I hope and if I pray
-Ooh it might work out someday
+Oh it might work out someday
 
 If I live to see the seven wonders
 I'll make a path to the rainbow's end

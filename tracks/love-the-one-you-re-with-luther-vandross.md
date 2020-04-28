@@ -27,7 +27,7 @@ Love the one you're with
 Love the one
 Love the one
 Love the one you're with
-Ooh...hoo...come on, yeah
+Oh...hoo...come on, yeah
 
 
 If your guy can't come to you
@@ -63,7 +63,7 @@ Do the wild thing, love the one you're with
 Hey (Love the one you're with) That's right
 
 
-Yeah, ooh...
+Yeah, oh..
 (Doo-doo, doo-doo, doo-doo) Do it
 (Doo-doo, doo-doo, doo-doo) Do it
 (Doo-doo, doo-doo, doo-doo) Do it

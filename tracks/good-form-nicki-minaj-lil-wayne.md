@@ -118,7 +118,7 @@ Eu fico tipo: "Oh, ele me ama, oh, ele me ama", bom pra ele
 Vamos
 
 
-Barbie (Sim?), eu acho você anormal (Ooh)
+Barbie (Sim?), eu acho você anormal (Oh)
 Eu acho você estilosa, essas outras vadias são aprendizes (Haha)
 Quando você faz sua bunda pular como as batidas do meu coração
 E se você me deixar comer sua buceta, então será a semana do tubarão

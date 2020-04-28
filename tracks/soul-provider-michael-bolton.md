@@ -110,7 +110,3 @@ To give my love, all my love day and night
 Just say you'll be mine for the rest of your life
 Baby I'll show you why
 
-
-
-
-

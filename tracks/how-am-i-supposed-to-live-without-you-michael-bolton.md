@@ -136,7 +136,3 @@ And I don't wanna know the price I'm
 gonna pay for dreaming
 Now that your dream has come true
 
-
-
-
-

@@ -57,7 +57,7 @@ I'll go silently
 But I'll go crazy, without you
 Insane with a heart so blue
 They'll have to lock me away
-And I wont last one day
+And I won't last one day
 Without you baby
 I'll go Crazy
 I never thought I'd see the day
@@ -69,7 +69,7 @@ I'll go where you please
 But I'll go crazy without you
 Insane with a heart so blue
 They'll have to lock me away
-And I wont last one day
+And I won't last one day
 Without you baby
 I'll go Crazy
 I'll go and take the blame
@@ -77,7 +77,7 @@ I'll go down in flames
 But I'll go crazy without you
 Insane with a heart so blue
 They'll have to lock me away
-And I wont last one day
+And I won't last one day
 Without you baby
 Hey I'll go Crazy
 Hey I'll go crazy

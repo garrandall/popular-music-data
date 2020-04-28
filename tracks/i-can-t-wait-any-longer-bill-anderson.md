@@ -37,4 +37,4 @@ Patience has never been one of my virtues baby when I want something I want it n
 And I want you now I wanna kiss you now I wanna love you now
 I can't wait any longer...
 (I can't wait I can't wait doo doo doo) baby I can't wait any longer
-I want you now hmm now yeah (I can't wait I can't wait...)
+I want you now hm now yeah (I can't wait I can't wait...)

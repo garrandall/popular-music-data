@@ -108,7 +108,7 @@ Nothing's stoppin' me now
 I will get through the night
 And make it through to the other side
 Get there (get there)
-Ooh, get there (get there)
+Oh, get there (get there)
 
 
 (I will get there) I will get there
@@ -118,7 +118,7 @@ Ooh, get there (get there)
 (I will get through the night) I'll get through the night
 And make it through to the other side
 Get there (get there)
-Ooh, get there (get there)
+Oh, get there (get there)
 (Get there, get there)
 
 

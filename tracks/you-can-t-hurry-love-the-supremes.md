@@ -127,7 +127,7 @@ To talk to me at night
 For some tender arms
 To hold me tight
 I keep waiting
-I keep on waiting (Ooh, until that day)
+I keep on waiting (Oh, until that day)
 But it ain't easy
 It ain't easy
 But mama said

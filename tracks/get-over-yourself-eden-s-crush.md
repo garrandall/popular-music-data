@@ -90,7 +90,7 @@ Cuz without you, see I do anything I like
 Sometimes I stay out all night
 And everything, everything, everything is alright
 
-This just can't be it i kept telling myself
+This just can't be it I kept telling myself
 And every magazine said was me was on the shelf
 I was givin' out, givin' in
 Givin' away my dreams

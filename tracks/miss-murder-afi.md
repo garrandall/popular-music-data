@@ -93,7 +93,7 @@ Hey, Miss Murder, can I?
 Make beauty stay if I
 Take my life?
 
-Whoa-oh-ohh
+Whoa-oh-oh
 
 
 With just a look, they shook

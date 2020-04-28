@@ -142,10 +142,10 @@ Living fast, Ricky Bobby
 Shake and bake, yeah
 See the chain? yeah
 Issa lake, yeah
-Swipe the chase, ooh
+Swipe the chase, oh
 Now she wanna date, yeah
 Straight to NOBU
-On the coast ooh
+On the coast oh
 Shorty only like cocaine and whole foods
 Yeah
 Snappin' all up on the gram

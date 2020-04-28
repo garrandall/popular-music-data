@@ -66,7 +66,7 @@ and youse a flea, and
 and since I got time to drop it for you, I guess I must
 and give it to you mother fuckas like bust-a-bust
 I keep the heat on deck, but in God we trust
-And cant none of yall, fuck wit us
+And can't none of yall, fuck wit us
 But you can run up on the G but thats not thinkin wisely
 these pullas are contagious, just like Ron Isley
 (What the hell is goin on? Someone's sleepin in my home)
@@ -121,11 +121,6 @@ Nigga fuckin stop breathin
 That is so relievin', and now ya bitches are leavin'
 What I say cuz what I say is so real
 Homie you don' wanna see da, steel
-You dont wanna catch a body, You cant hear the party!
+You don't wanna catch a body, You can't hear the party!
 Now thats what you should do, now wheres my baby-boo?
-
-
-
-
-
 

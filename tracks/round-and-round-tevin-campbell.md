@@ -129,7 +129,7 @@ rankings:
 Can you tell me where we're going to
 Can you tell me what it is we really want to find
 Is the truth really there or is it right under our hair
-For all we know it's been there all the time 
+For all we know it's been there all the time
 
 
 I say, nothin' comes from dreamers but dreams
@@ -156,8 +156,4 @@ One day I'll make it in the big city
 And I'll by lookin' for a girl who's pretty
 On day I'll make a play and she will say ok
 Cuz I plan to be a cool kitty
-
-
-
-
 

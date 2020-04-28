@@ -89,7 +89,7 @@ I love you, baby
 Oh, I love you, I love you, I love you
 I just wanna hold you
 Run my fingers through your hair
-Ooh
+Oh
 Outta sight
 Uh-huh, right there, you like it like that
 Closer
@@ -165,7 +165,7 @@ I swear, don't stop
 Hey hey hey hey, yeah
 Ohhh baby, that's outta sight
 Uhh huh huh
-Ohh baby, ohh baby
+Ohh baby, oh baby
 
 Oh I love you, I love you, I love you
 

@@ -137,7 +137,7 @@ TV's in the dash, rims just won't stop
 You need to be down with a pimp like me
 I ain't turning down nothing but my collar, you see
 I'm a leave you with my number, you should holla at me
-Cuz I'm a baller, can't nobody hustle harder than me, oooh
+Cuz I'm a baller, can't nobody hustle harder than me, oh
 
 
 Girl, I been shaking, sticking and moving tryna to get you and that booty
@@ -148,14 +148,14 @@ Tryna to get you and that monkey
 Tryna to get you and that monkey
 
 
-Oooh, your ass is right
+Oh, your ass is right
 I ain't tryna let that pass me tonight
 I'ma put my bid in and tell you something slick
 Whisper in your ear while I'm holding my dick
 I don't mean no harm, it's the hood in me (Hood in me)
 Sipping on that Richard Hennessy (Hennessy)
 Psychedelic colors in my jewelry (Jewelry)
-Suckers hella jealous cuz you digging me, oooh
+Suckers hella jealous cuz you digging me, oh
 Now what you gonna do mama
 I'm tryna dip later on, me and you mama
 Like the way that you groove and you move mama
@@ -191,7 +191,7 @@ Tell your friends and I bet they all wanna do me
 Hoes know me, I'm E-Fo-Oh (E-Fo-Oh)
 They recognize pimping when I step in the door (Step in the door)
 Higher than a satellite full of that dro (Full of that dro)
-Holla at a playa when you ready to go, oooh
+Holla at a playa when you ready to go, oh
 
 
 Girl, I been shaking, sticking and moving tryna to get you and that booty

@@ -149,7 +149,7 @@ We'll go out and spend all your
 
 Blue money (blue money)
 
-Ooh
+Oh
 Juice money, loose money
 
 Juice money, loose money, honey

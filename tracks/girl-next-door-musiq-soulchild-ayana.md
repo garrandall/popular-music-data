@@ -42,7 +42,7 @@ rankings:
   start_date: '2001-10-13'
 ---
 
-Oh, hmm, hmm, hmm, hmm
+Oh, hm, hm, hm, hm
 
 If I would've knew the girl next door
 Would've been you

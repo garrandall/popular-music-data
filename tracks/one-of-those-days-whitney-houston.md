@@ -85,7 +85,7 @@ rankings:
   start_date: '2003-03-22'
 ---
 Na na, na na na na
-Cam on, cam on, cam on, ohh
+Cam on, cam on, cam on, oh
 Ohh, this is just for me
 Na na, na na na, na na, na na na
 
@@ -100,9 +100,9 @@ Got to take time out
 And all my real ladies know what I'm talking about, sing
 
 
-Ooh, baby, baby
+Oh, baby, baby
 You don't know what I've been going through
-Sing it again now, ooh, baby, baby
+Sing it again now, oh baby, baby
 It's obvious to see exactly what I need
 
 
@@ -126,9 +126,9 @@ Mr. Big is in the background
 The Isley Brothers going to hold it down, sing
 
 
-Ooh, baby, baby
+Oh, baby, baby
 You don't know what I've been going through
-Sing it again now, ooh, baby, baby
+Sing it again now, oh baby, baby
 It's obvious to see exactly what I need
 
 
@@ -154,7 +154,7 @@ And it's warm outside and beautiful
 Hello, hello, hello
 Hello, hello, hello, hello
 I need one of those days
-You don't know how, ooh, ooh, ooh
+You don't know how, oh oohohoh
 
 
 One of those days

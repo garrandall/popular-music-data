@@ -108,7 +108,7 @@ She danced like 92 hundred songs back to back
 With ain't nobody really try to find out what she feelin'
 Like how she feel... you know what she told me?
 (Are you gonna be?) Check it out, this is what she said
-(Say that you're gonna be) Ooh, ooh, ooh, ooh, oooh
+(Say that you're gonna be) Oh oh, oh, oh, ohoh
 
 
 She said she want some Marvin Gaye, some Luther Vandross
@@ -154,8 +154,8 @@ Freddie Jackson, everything, everything (Well well well well)
 Smokey Robinson, Ashford & Simpson (Are you gonna be)
 Set the party, really set the party off right
 Yes it will, yes it will (Well well well well)
-Al Green, oh! Al Green, ohh yeah!
-Oooh!!!
+Al Green, oh! Al Green, oh yeah!
+Oh!
 Whatcha know about the Isley Brothers?
 
 

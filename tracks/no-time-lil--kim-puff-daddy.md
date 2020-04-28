@@ -94,21 +94,21 @@ rankings:
 
 Heh, heheheh
 
-I got, no time for fake niggaz
-Just sip some Cristal with these real niggaz
-From East to West coast spread love niggaz (that's right)
-And while you niggaz talk shit we count bank figures (say what?)
+I got, no time for fake niggas
+Just sip some Cristal with these real niggas
+From East to West coast spread love niggas (that's right)
+And while you niggas talk shit we count bank figures (say what?)
 
-I got, no time for fake niggaz (uh-uh, uh-uh)
-Just sip some Cristal with these real niggaz (uh-huh, uh-huh)
-From East to West coast spread love niggaz (that's right)
-And while you niggaz talk shit we count bank figures (he-heh)
+I got, no time for fake niggas (uh-uh, uh-uh)
+Just sip some Cristal with these real niggas (uh-huh, uh-huh)
+From East to West coast spread love niggas (that's right)
+And while you niggas talk shit we count bank figures (he-heh)
  ("How you figure that your team can effect my cream?" - B.I.G.)
-I got, no time for fake niggaz (uh-uh, uh-uh)
-Just sip some Cristal with these real niggaz (uh-huh, uh-huh)
+I got, no time for fake niggas (uh-uh, uh-uh)
+Just sip some Cristal with these real niggas (uh-huh, uh-huh)
  ("I rely on Bed-Stuy to shut it down if I die" - B.I.G.)
-From East to West coast spread love niggaz (ha hahh, that's right)
-And while you niggaz talk shit we count bank figures (let's go)
+From East to West coast spread love niggas (ha hahh, that's right)
+And while you niggas talk shit we count bank figures (let's go)
 
 
 
@@ -131,16 +131,16 @@ nanny nanny, punanny donny, heyyy!
 
 
 
-Heyyy, no time for fake niggaz (uh-uh, uh-uh)
-Just sip some Cristal with these real niggaz (uh-huh, uh-huh)
-From East to West coast spreadin love niggaz (that's right)
-And while you niggaz talk shit we count bank figures (he heh)
+Heyyy, no time for fake niggas (uh-uh, uh-uh)
+Just sip some Cristal with these real niggas (uh-huh, uh-huh)
+From East to West coast spreadin love niggas (that's right)
+And while you niggas talk shit we count bank figures (he heh)
  ("How you figure that your team can effect my cream?" - B.I.G.)
-I got, no time for fake niggaz (uh-uh, uh-uh)
-Just sip some Cristal with these real niggaz (uh-huh, uh-huh)
+I got, no time for fake niggas (uh-uh, uh-uh)
+Just sip some Cristal with these real niggas (uh-huh, uh-huh)
  ("I rely on Bed-Stuy to shut it down if I die" - B.I.G.)
-From East to West coast spreadin love niggaz (that's right)
-And while you niggaz talk shit we count bank figures
+From East to West coast spreadin love niggas (that's right)
+And while you niggas talk shit we count bank figures
 
 
 
@@ -158,7 +158,7 @@ Uhh! Say my name baby (okay)
 Before you nut, I'ma dribble down your butt cheeks
 Make you wiggle, then giggle just a little
 I'm drinkin babies, then I cracks for the Mercedes
-Act shady, and feel my three-eighty 
+Act shady, and feel my three-eighty
 or the raven, oohwee I see
 Your girl ain't a "Freak Like Me", or Adina
 Huh, can't fade the rhinoceros of rap (say what?)
@@ -170,7 +170,7 @@ Lil' Kim pussy (uhh) how preposterous is that? (ha hah!)
 
 Uhh, right back at cha, the one Cleopatra (say what?)
 Diggin in your stash
-(Niggaz think they gonna get some ass) No money money
+(Niggas think they gonna get some ass) No money money
 no licky licky -- fuck the dicky dicky
 and the quickie, gimme your loot
 Your Mac-11 then shoot
@@ -186,11 +186,6 @@ I stay draped in diamonds and pearls
 Beside every man is a Bad Girl
 (That's right... nine-six Bad Boy c'mon)
 
-
-
-
-
-
 Spread love, c'mon
 
 
@@ -200,7 +195,4 @@ We continue on!
 
 Uh-uh, uh-uh, c'mon!
 Hahah
-
-
-
 

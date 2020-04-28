@@ -35,7 +35,7 @@ Closer to you
 
 (Nearer, nearer)
 
-I'm sorry if I seem, ooh, yeah
+I'm sorry if I seem, oh, yeah
 A little bit stubborn sometimes
 I hope I'm not being
 A nuisance to you

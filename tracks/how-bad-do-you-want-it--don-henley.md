@@ -72,7 +72,7 @@ How bad do you want it?
 Not bad enough
 
 So you put a hold on happiness
-....a day, a week, a year
+...a day, a week, a year
 You got to bring somethin' to this party, boy
 If you party here
 

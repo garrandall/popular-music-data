@@ -81,9 +81,6 @@ That you feel inside
 Love's taken over and there
 Ain't nowhere to hide
 
-
-
-
 This is for the lover in you
 The lover in you, hey
 

@@ -131,7 +131,7 @@ There's enthesiology, ophthalmology
 Internal medicine and plastic surgery
 Orthopedic surgery and pathology
 A disease involves a change of your body."
-She said "Ooooh, that's very unique."
+She said "Oh, that's very unique."
 Gave me her number and kissed me on the cheek
 She said she had to go but she'd be back by 8
 Told me call her at 9 to arrange a date

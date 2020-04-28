@@ -59,7 +59,7 @@ To the world beyond
 
 These memories that cloud my mind
 I can't erase them - I've tried hard, baby
-I can't find another love, strong enough to replace them Aaaawww, naw, oooooo this HEAVY LOVE
+I can't find another love, strong enough to replace them Aaaawww, naw, oo this HEAVY LOVE
 It's so high
 (To high to get over)
 I can't get over I've tried
@@ -72,7 +72,7 @@ Can't I spread my wings and fly above you
 To the world beyond
 This HEAVY LOVE, baby
 It's too high to get over, you can't jump that high
-(Too deep to get under) ooohhh, baby, you might drown
+(Too deep to get under) oh, baby, you might drown
 (Too wide to get around) you can't get around, Oh baby, and it's weighing me down
 It's weighing me down
 You got my heart stopped, baby
@@ -100,10 +100,10 @@ This HEAVY LOVE, baby
 It's too high to get over
 Oh, I can't jump that high, baby
 (Too deep to get under)
-Oooohh, it's too deep to get under
+Oh, it's too deep to get under
 It's too wide to get around
 And it's weighing me down
-Oohh, look like I got lead on my legs, baby
+Oh, look like I got lead on my legs, baby
 (Weighing me down)
 Aaww, don't wanna drown
 

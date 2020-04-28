@@ -28,7 +28,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-10-06'
 ---
-Ooh, you had me crying
+Oh, you had me crying
 Tears upon your pillow
 Hanging your head on the wall
 
@@ -44,9 +44,9 @@ You may think you're losing your mind
 As you stare at their faces
 Stare at their faces
 Stare at their faces
-Ooh, ooh, ooh, stillsane
+Oh, oh, oh, stillsane
 
-Ooh, you had me running
+Oh, you had me running
 Crazy without looking
 Hurling around in the night
 
@@ -62,9 +62,9 @@ You may think you're losing your mind
 As you stare at their faces
 Stare at their faces
 Stare at their faces
-Ooh, ooh, ooh, stillsane
+Oh, oh, oh, stillsane
 
-Ooh, just keep 'em guessing
+Oh, just keep 'em guessing
 No one has to know it
 All of your love is in vain
 
@@ -81,11 +81,11 @@ Stare at their faces
 Stare at their faces
 Stare at their faces
 
-Ooh, ooh, stillsane
-Stillsane, ooh, na, na, na
+Oh, oh, stillsane
+Stillsane, oh, na, na, na
 Stillsane, stillsane
-Ooh, na, na, na, stillsane
+Oh, na, na, na, stillsane
 
 Stillsane, stillsane
-Ooh, na, na, na, stillsane
+Oh, na, na, na, stillsane
 Stillsane, stillsane

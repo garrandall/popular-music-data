@@ -150,7 +150,7 @@ Y'all look at me and say, "Boy, you've been blessed"
 But y'all don't see the inside of my unhappiness
 Man I swear this shit gets heavy like a ton
 That's why you hear me shooting this real shit off like a gun
-Hmm I wonder how my friends would treat me now
+Hm I wonder how my friends would treat me now
 If I wasn't iced up with a Bentley and a house
 That's why fake ass niggas get fake ass digits
 And fake ass players get a real player hating 'em

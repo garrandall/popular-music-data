@@ -30,13 +30,13 @@ Baby I won't judge (No, no, no, no)
 Now I'm sure that
 She knows what she wants, yea
 
-I ain't gonna hold you baby, I like what i see
+I ain't gonna hold you baby, I like what I see
 That print in them sweat pants got me weak off in my knees
 I been thinking 'bout you since we met at No ID's
 If you're free tonight I think that you should come see me
-(Ohh, ohh)
+(Ohh, oh)
 Don't be scared of my aggression
-(Ohh, ohh)
+(Ohh, oh)
 Just don't get the wrong impression
 
 I hope she don't think, that I think
@@ -47,7 +47,7 @@ That just lets me know that
 She knows what she wants, yea
 Baby I won't judge (No, no, no, no)
 Now I'm sure that
-She knows what she wants, yea (You like the way i wink at you?)
+She knows what she wants, yea (You like the way I wink at you?)
 
 I can't never have a hater bone inside my body (Nope)
 I just like it better when my girl do her Pilates (See?)

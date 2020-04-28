@@ -80,15 +80,15 @@ Something happens inside you, the happening
 
 
 Now I see life for what it is
-It's not all dreams, ooh, it's not all bliss
+It's not all dreams, oh it's not all bliss
 It happened to me and it can happen to you
 
 
 Once
-Ooh, and then it happened
-Ooh, and then it happened
-Ooh, and then it happened
-Ooh, and then it happened
+Oh, and then it happened
+Oh, and then it happened
+Oh, and then it happened
+Oh, and then it happened
 
 
 Is it real, is it fake

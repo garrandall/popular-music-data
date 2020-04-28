@@ -29,15 +29,15 @@ I shouldn't have played, but I played it
 
 
 And now I'm missing your love, I'ma roll up
-I'm faded once again, ooh, I don’t know where I am
-But I just know I'm drifting far from you (ooh)
+I'm faded once again, oh, I don’t know where I am
+But I just know I'm drifting far from you (oh)
 I'm tryna keep my head strong, but my heart (woah)
 Won't just let me grow away from you
 Don't you know we're drifting off, drifting off?
 I know you think that it's my fault for falling off
 All this hope and disregard, drifting off
 I know you think there ain't no fault, I fall apart
-Ooh, and now I'm missing your love
+Oh, and now I'm missing your love
 
 
 (Now, I mean, yeah)
@@ -65,14 +65,14 @@ Now tell me now
 
 
 I'm faded once again, yeah, I don’t know where I am
-But I just know I'm drifting far from you, ooh
+But I just know I'm drifting far from you, oh
 I'm tryna keep my head strong, but my heart
 Won't just let me grow away from you
 Don't you know we're drifting off, drifting off?
 I know you think, think that it's my fault for falling off
 All this hope and disregard, drifting off, yeah
 I know you think there ain't no fault, I fall apart
-Ooh, and now I'm missing your love
+Oh, and now I'm missing your love
 
 
 (You tell me, uh, yeah)
@@ -98,13 +98,13 @@ Tell me, how'd we ever come to live this careless?
 Tell me now
 
 
-I'm faded once again, I don’t know where I am, ooh
-But I just know I'm drifting far from you, ooh, yeah
+I'm faded once again, I don’t know where I am, oh
+But I just know I'm drifting far from you, oh, yeah
 I'm tryna keep my head strong, but my heart
-Won't just let me grow away from you, ha (ooh)
+Won't just let me grow away from you, ha (oh)
 Don't you know we're drifting off, drifting off?
 I know you think that it's my fault for falling off
 All this hope and disregard, drifting off
 I know you think there ain't no fault, I fall apart
-Ooh, and now I'm missing your love
-And now I'm missing your love, ooh
+Oh, and now I'm missing your love
+And now I'm missing your love, oh

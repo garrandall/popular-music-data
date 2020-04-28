@@ -119,4 +119,4 @@ So let it rain, let it pour, cause she don't love me anymore
 Just let it come down on me, let it come down on me
 Every word, let it hurt, even more than I deserve, just let it come down on me
 Let it come down on me, let it rain
-Ooh let it rain, ooh let it rain, just let it rain, just let it rain, ooh let it rain
+Oh let it rain, ohlet it rain, just let it rain, just let it rain, oohet it rain

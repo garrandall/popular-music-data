@@ -49,7 +49,7 @@ Two, four, six, eight, ten
 Two, four, six, eight, twenty-two
 
 One more time now
-Two, four, six, eight, ooh
+Two, four, six, eight, oh
 I'm synchronized with you
 
 
@@ -65,7 +65,7 @@ Two, four, six, eight, ten
 Two, four, six, eight, twenty-two
 
 One more time now
-Two, four, six, eight, ooh
+Two, four, six, eight, oh
 I'm synchronized with you
 
 

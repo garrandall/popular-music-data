@@ -105,7 +105,7 @@ rankings:
   start_date: '2018-03-31'
 ---
 Alright
-Ooh, yeah
+Oh yeah
 
 
 I'll admit, I was wrong, what else can I say, girl?
@@ -130,7 +130,7 @@ I've been feelin' it lately, baby"
 
 Ooo-oh (yeah)
 Ooo-oh (encore)
-Oooh-ooh-oh
+Oh-oh-oh
 
 
 I'll admit, it's my fault, but you gotta believe me
@@ -155,11 +155,11 @@ I've been feelin' it lately, baby"
 
 Ooo-oh (yeah)
 Ooo-oh (encore)
-Oooh-ooh-oh
+Oh-oh-oh
 How long has it been goin' on, baby?
 Ooo-oh (yeah)
 Ooo-oh, you gotta go tell me now
-Oooh-ooh-oh
+Oh-oh-oh
 
 
 She said, "Boy, tell me honestly
@@ -178,14 +178,14 @@ I've been feelin' it lately, baby"
 
 (Ooo-oh, yeah)
 How long has this been goin' on?
-(Ooh, encore)
+(Oh encore)
 You've been creepin' 'round on me
-(Oooh-ooh-oh)
+(Oh-oh-oh)
 How long has it been goin' on, baby? Oh
 (Ooo-oh)
 How long has this been goin' on?
-(Ooh, encore)
+(Oh encore)
 (You gotta go tell me now)
-(Oooh-ooh-oh)
+(Oh-oh-oh)
 You've been actin' so shady
 I've been feelin' it lately, baby

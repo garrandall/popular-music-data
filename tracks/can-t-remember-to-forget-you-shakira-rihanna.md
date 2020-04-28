@@ -97,13 +97,13 @@ You a part of me
 So where you go I follow, follow, follow
 
 
-Ohh, ohh, I can't remember to forget you
-Ohh, ohh, I keep forgetting I should let you go
+Ohh, oh, I can't remember to forget you
+Ohh, oh, I keep forgetting I should let you go
 But when you look at me
 The only memory is us kissing in the moonlight
-Ohh, ohh, I can't remember to forget you
-Ohh, ohh, I can't remember to forget you
-Ohh, ohh
+Ohh, oh, I can't remember to forget you
+Ohh, oh, I can't remember to forget you
+Ohh, oh
 
 
 I go back again
@@ -120,11 +120,11 @@ He a part of me
 So where he goes I follow, follow, follow
 
 
-Ohh, ohh, I can't remember to forget you
-Ohh, ohh, I keep forgetting I should let you go
+Ohh, oh, I can't remember to forget you
+Ohh, oh, I keep forgetting I should let you go
 But when you look at me
 The only memory is us kissing in the moonlight
-Ohh, ohh, I can't remember to forget you
+Ohh, oh, I can't remember to forget you
 
 
 I rob and I kill to keep him with me
@@ -137,11 +137,11 @@ I'd give my last time to hold him tonight
 I'll do anything for that boy
 
 
-Ohh, ohh, I can't remember to forget you
-Ohh, ohh, I keep forgetting I should let you go
+Ohh, oh, I can't remember to forget you
+Ohh, oh, I keep forgetting I should let you go
 But when you look at me
 The only memory is us kissing in the moonlight (Oh-oh)
-Ohh, ohh, I can't remember to forget you
+Ohh, oh, I can't remember to forget you
 But when you look at me
 The only memory is us kissing in the moonlight
-Ohh, ohh, I can't remember to forget you
+Ohh, oh, I can't remember to forget you

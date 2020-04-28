@@ -52,7 +52,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-11-23'
 ---
-Aah
+Ah
 
 You say you want a revolution
 Well, you know

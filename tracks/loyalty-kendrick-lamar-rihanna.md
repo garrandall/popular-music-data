@@ -118,7 +118,7 @@ rankings:
 I said I'm geeked and I'm fired up (fired, fire)
 All I want tonight is just get high up (high, high, high)
 Girl, you look so good, it's to die for (die for)
-Ooh, that pussy good, it's to die for (on fire)
+Oh, that pussy good, it's to die for (on fire)
 
 
 It's a secret society

@@ -98,13 +98,13 @@ How come you never learned the golden rule?
 Don't talk to strange men, don't be a fool
 I'm hearing stories; I don't think that's cool
 
-Why dont'cha tell me someone isn't lovin' you?
+Why don't'cha tell me someone isn't lovin' you?
 'Cause you're my girl, some say it's no longer true
 You're seeing some slick continental dude
 I'm beggin' you, please
 
 (Don't talk to strangers)
-Baby, dont'cha talk
+Baby, don't'cha talk
 (Don't talk to strangers)
 You know he'll only use you up
 (Don't talk, don't talk)
@@ -123,7 +123,7 @@ Now, did ya fall at first sight or did you need a shove?
 I'm beggin' you, please
 
 (Don't talk to strangers)
-Baby, dont'cha talk
+Baby, don't'cha talk
 (Don't talk to strangers)
 You know he'll only use you up
 (Don't talk, don't talk)
@@ -139,7 +139,7 @@ I asked you not to talk to him
 I'm begging you
 
 (Don't talk to strangers)
-Baby, dont'cha talk
+Baby, don't'cha talk
 (Don't talk to strangers)
 You know he'll only use you up
 (Don't talk, don't talk)
@@ -148,13 +148,13 @@ Don't talk
 Nobody, nobody ever told you
 
 (Don't talk to strangers)
-Baby, dont'cha talk
+Baby, don't'cha talk
 (Don't talk to strangers)
 You know he'll only use you up
 (Don't talk to strangers)
-Baby, dont'cha
+Baby, don't'cha
 (Don't talk to strangers)
-Baby, dont'cha talk
+Baby, don't'cha talk
 (Don't talk to strangers...)
 
 

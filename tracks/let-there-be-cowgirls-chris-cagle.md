@@ -61,10 +61,10 @@ She's a mustang
 The heartbeat of the heartland
 She's got a drawl, ya'll,
 Yeah, she's the salt of the earth that rocks my world.
-Let there be cowgirls, ooh, come on.
+Let there be cowgirls, oh, come on.
 
-Ooh, let there be cowgirls
-Ooh, let there be cowgirls
+Oh, let there be cowgirls
+Oh, let there be cowgirls
 
 Let there be cowgirls for every cowboy
 Make them strong as any man, Lordy
@@ -73,7 +73,7 @@ She's a mustang
 The heartbeat of the heartland
 She's got a drawl, ya'll,
 Yeah, she's the salt of the earth that rocks my world.
-Let there be cowgirls, ooh
+Let there be cowgirls, oh
 Let there be cowgirls, come on.
 
 

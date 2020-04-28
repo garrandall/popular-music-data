@@ -53,9 +53,6 @@ No friends to cope, you got with the dope
 Wasn't true, now it ain't no hope
 Shoulda been true to yourself
 
-
-
-
 Momma always told me, there'd be days like this
 On top of all of this bullshit
 Never, ever let a young girl make you

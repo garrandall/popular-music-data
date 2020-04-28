@@ -114,7 +114,7 @@ End all the fighting, erase it all forever?
 Listen for this reason before it gets too late
 Soon, there will be no one, no one left to hate
 
-CHORUS (2x)
+CHORUS
 
 Games are not where it's at
 Give it up, no time for that

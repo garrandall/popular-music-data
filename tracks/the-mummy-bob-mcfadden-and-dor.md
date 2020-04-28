@@ -72,7 +72,7 @@ Well, people are afraid of me
 I was born one thousand nine hundred and fifty-nine years ago
 "Oh, yeah? Like, that's a long gig."
 Where can I buy a copy of "Kookie, Kookie, Lend Me Your Comb"?
-"Oooh, man, I don't dig that trash
+"Oh, man, I don't dig that trash
 You know, Brubeck, Shearing, Modern Jazz Quartet?"
 I'm a mummy!
 "Man, you got a warped groove."

@@ -80,7 +80,7 @@ It was only last June when her old man ran away
 She couldn't stop crying cause she knew he was gone to stay
 It was 10:35 on a lonely friday night
 She was standin' by the bar
-Hmm, she was lookin' alright, yeah
+Hm, she was lookin' alright, yeah
 I asked if she wanted to dance
 And she said all she wanted was a good man
 And wanted to know if I thought I was qualified, yeah
@@ -108,11 +108,11 @@ I may be qualified for a one night stand
 But I could never take the place of your man
 
 Yeah, yeah, the place of your man
-Ooh, Ooh, Ooh, Ooh!
+Oh OOhOhOhh!Oh
 
 
 
 1, 2...
 1, 2, Woo!
 
-Ahhhh....Oooh
+Ah...Oh

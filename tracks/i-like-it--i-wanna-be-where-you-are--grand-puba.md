@@ -74,7 +74,7 @@ But please don't even go there with that, dig it
 This ones designed to make your spine in your back wind
 Grand Puba nice setup for you every time
 
-	"Ooooh, and I like it"
+	"Oh, and I like it"
 	And you say New York City (I like it) (Repeat 4x)
 
 
@@ -94,7 +94,7 @@ Reunion album to the highest bidder
 300,000? Go ahead, you's a kidder
 Cause the boy's right here holding out for half a brick
 
-	"Ooooh, and I like it"
+	"Oh, and I like it"
 	And you say New York City (I like it) (Repeat 4x)
 
 
@@ -127,7 +127,7 @@ Yeah, cause that's just how Grand Pu and Stud Doogie do
 You didn't know I was the bomb baby?
 Somebody should have told you, somebody should have told you
 
-	"Ooooh, and I like it"
+	"Oh, and I like it"
 	And you say New York City (I like it) (Repeat 4x)
 
 	Down for ours, we gets down no doubt (Repeat 4x)

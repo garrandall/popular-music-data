@@ -37,4 +37,4 @@ And she warbles when she flies
 And every time that she passes
 My true love says good-bye
 Well, says good-bye, well, says good-bye
-Ooh, ooh, ooh, whoo, ooh
+Oh, oh oohwhoo, ohoh

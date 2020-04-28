@@ -150,7 +150,3 @@ You know you could have been a crook
 And baby your so smart
 You know you could have been a school book
 
-
-
-
-

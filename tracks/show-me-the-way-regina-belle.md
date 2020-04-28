@@ -97,7 +97,7 @@ The way now
 Moving step by step to love
 
 (Show me, show me the way)
-Ooh yeah, yeah
+Oh yeah, yeah
 (Show me)
 I've been used and I've been good at using, boy
 
@@ -106,7 +106,7 @@ Open up your love inside baby, yeah
 (Show me, show me the way)
 Don't let me walk alone no, no
 (Show me)
-Ooh, show me
+Oh, show me
 
 (Show me the way)
 Yeah

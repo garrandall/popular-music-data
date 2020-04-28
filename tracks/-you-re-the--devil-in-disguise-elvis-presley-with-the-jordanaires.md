@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: -you-re-the--devil-in-disguise-elvis-presley-with-the-jordanaires
+lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-and-The-Jordanaires/You-re-the-Devil-in-Disguise
 name: (You're the) Devil In Disguise
 rankings:
 - end_date: '1963-07-05'
@@ -52,4 +53,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-09-07'
 ---
-
+You look like an angel, walk like an angel
+Talk like an angel but I got wise
+You're the devil in disguise
+Oh yes, you are devil in disguise
+You fooled me with your kisses
+You cheated and you steamed
+Heaven knows how you lie to me
+You're not the way you seemed
+You look like an angel, walk like an angle
+Talk like an angel but I got wise
+You're the devil in disguise
+Oh yes, you are devil in disguise
+I thought that I was in Heaven
+Heaven help me, I didn't see
+The devil in your eyes
+You look like an angel, walk like an angel
+Talk like an angel but I got wise
+You're the devil in disguise
+Oh yes, you are devil in disguise
+You're the devil in disguise
+Oh yes, you are devil in disguise
+Oh yes, you are devil in disguise
+Oh yes, you are devil in disguise
+Oh yes, you are devil in disguise
+Oh yes you

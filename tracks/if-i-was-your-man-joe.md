@@ -33,9 +33,9 @@ Baby, why you buggin' now?
 I know that I put you through hell
 And you deserve to be with someone else
 But I gotta be straight up (straight up)
-Girl, I just wanna kiss and make up (ooh)
+Girl, I just wanna kiss and make up (oh
 We done been through a lot of things
-How do you throw that away? (ooh)
+How do you throw that away? (oh
 You were the heart of me
 Can't believe you let it break
 Tell me why you won't let em go
@@ -96,7 +96,7 @@ Why I can't be your man
 When I'd give up the world for you
 Girl, I'll do the best I can
 Love you forever that's what I'll do
-If I was your man (if I was your man, ohh)
+If I was your man (if I was your man, oh)
 If I was your man
 Help me understand
 What I'm sayin' ain't gettin' through

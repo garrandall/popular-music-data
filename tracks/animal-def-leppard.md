@@ -105,21 +105,11 @@ I'm runnin' with the wind, a shadow in the dust
 And like the drivin' rain, yeah, like the restless rust
 I never sleep
 
-
-
-
-
 Huh!
 Ah!
 Cry wolf, baby cry tough
 Gonna hunt you like an, an, an, an, an, animal
 Gonna take your love 'n' run
-
-
-
-
-
-
 
 And I want and I need
 And I lust animal
@@ -127,7 +117,7 @@ Take me, tame me
 Make me your animal
 Show me stroke me
 Let me be your animal
-I want, ooh yeah, animal
+I want, ohyeah, animal
 
 
 

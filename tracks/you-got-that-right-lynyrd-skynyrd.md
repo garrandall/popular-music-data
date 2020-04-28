@@ -55,9 +55,6 @@ Sure got that right
 I tried everything in my life
 Things I like I try 'em twice
 
-
-
-
 Travelling around the world, just singing my song
 I got to go, Lord I can't stay long
 Here comes that ol' travelling jones once again

@@ -115,7 +115,7 @@ If you can love somebody, love them all the same
 You gotta love somebody, love them all the same
 Singing, oh, I feel your heartbeat
 
-Ooh, ooh
+Oh, oh
 I know the memories are rushing into mind
 I wanna kiss your scars tonight, baby
 'Cause you gotta try

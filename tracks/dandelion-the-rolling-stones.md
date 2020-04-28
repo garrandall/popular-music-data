@@ -42,7 +42,7 @@ rankings:
 ---
 
 Prince or pauper, beggar man or thing
-Play the game with ev'ry flow'r you bring
+Play the game with every flow'r you bring
 Dandelion don't tell no lies
 Dandelion will make you wise
 Tell me if she laughs or cries

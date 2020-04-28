@@ -70,7 +70,7 @@ Remember when
 I could see forever in your eyes (Forever)
 Remember when
 Together we could leave the world behind (Oh)
-Ooh, I've got nothin' to lose, nothin' to hide
+Oh, I've got nothin' to lose, nothin' to hide
 Can't live without you, I'm dyin' inside
 Can't we get it back again
 Remember when
@@ -87,7 +87,7 @@ Remember when
 I could see forever in your eyes (Forever)
 Remember when
 Together we could leave the world behind (Oh)
-Ooh, I've got nothin' to lose, nothin' to hide
+Oh, I've got nothin' to lose, nothin' to hide
 Can't live without you, I'm dyin' inside
 Can't we get it back again
 Remember when, yeah

@@ -89,7 +89,7 @@ I came to win, to survive, to prosper, to rise
 
 Finn with New Directions Boys (Rachel and New Directions Girls):
 I believe I can fly (Fly) (Mercedes: Fly)
-I believe I can touch the sky (Mercedes: Ooh-ooh, uh, yeah)
+I believe I can touch the sky (Mercedes: Ohoh uh, yeah)
 I believe I can fly (Fly)
 I believe I can touch the sky (Mercedes: Fly)
 
@@ -105,12 +105,12 @@ Mercedes with New Directions Girls:
 Get ready for it
 
 Artie and New Directions Boys (Rachel and New Directions Girls):
-I believe I can fly (Fly) (Mercedes: Ooh-ooh)
+I believe I can fly (Fly) (Mercedes: Ohoh
 
 Finn and New Directions Boys (Rachel and New Directions Girls):
 I believe I can touch the sky (Mercedes: Fly)
 I think about it every night and day (Fly) (Mercedes: Oh)
-Spread my wings and fly away (Mercedes: Ooh, whoa)
+Spread my wings and fly away (Mercedes: Oh whoa)
 
 Artie with New Directions Boys (Rachel and New Directions Girls):
 (New Directions: I can fly) I believe I can soar (Fly) (Mercedes: Get ready for it)

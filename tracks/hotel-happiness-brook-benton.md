@@ -56,13 +56,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-09'
 ---
-Hotel Happiness
-
-- Artist: Brook Benton as sung on "The Satin Sound Brook Benton"
-- Suffolk Marketing-Smi 2
-- peak Billboard position # 3 in 1963
-- Words and Music by Earl Shuman and Leon Carr
-
 I'm checking out of Hotel Loneliness
 All my lonely days, they're all through
 I'm checking into Hotel Happiness (oh, yeah)

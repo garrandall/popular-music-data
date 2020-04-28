@@ -155,7 +155,7 @@ That be talkin' that shit (wassup)
 If you fall up in the club
 And them niggas wanna mug
 When you step up to they face
-What they gon' do (Shit!!!)
+What they gon' do (Shit!)
 If you fall up in the club
 And them hoes start acting up
 When you step up to them hoes
@@ -192,7 +192,7 @@ I'm a quiet crunk nigga and fuck being a punk
 If you fall up in the club
 And them niggas wanna mug
 When you step up to they face
-What they gon' do (Shit!!!)
+What they gon' do (Shit!)
 If you fall up in the club
 And them hoes start acting up
 When you step up to them hoes

@@ -55,9 +55,6 @@ But roll around heaven all day
 I fuss with my woman and I toil with my kids
 I sweat till I'm wrinkled and gray
 
-
-
-
 Dear Lord above, don't you see I'm pining
 I got tears all in my eyes
 Why don't You send down that cloud

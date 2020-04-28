@@ -86,7 +86,7 @@ Yeah! (Shhh, shhh)
 The screams of passion
 The screams of passion
 Oh, oh, oh, the screams of passion
-Ooh, the screams of, the screams of, the screams of passion
+Oh the screams of, the screams of, the screams of passion
 The screams of passion
 
 
@@ -94,9 +94,9 @@ Back and forth the raging seas of lust
 Raging, raging (The screams of passion)
 You know I want you madly baby
 Why can't you tell? Oww
-Is it Sunday? (Ooh love, ooh love)
+Is it Sunday? (Ohlove, oh love)
 I thought I heard a church bell (Or was it passion, passion?)
-Yeah yeah (Oooh)
+Yeah yeah (Oh)
 Passion
 The screams of passion
 What did you say baby?
@@ -109,9 +109,9 @@ Uh, do you want my passion?
 If you want my love, if you want my body baby
 Let me hear ya, let me hear ya, let, uh, let me hear ya scream!
 I want some passion
-Ooooh
+Oh
 You know what I'm talkin' about baby?
-Ooooh
+Oh
 I want some passion
 You got that baby?
 I want some passion

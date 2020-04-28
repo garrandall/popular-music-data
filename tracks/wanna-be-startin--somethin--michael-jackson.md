@@ -172,9 +172,6 @@ You're a vegetable (You're a vegetable)
 They eat off of you (They eat off of you)
 You're a vegetable
 
-
-
-
 If you can't feed your baby (yeah, yeah)
 Then don't have a baby (yeah, yeah)
 And don't think maybe (yeah, yeah)

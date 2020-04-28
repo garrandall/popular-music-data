@@ -81,7 +81,7 @@ rankings:
   start_date: '1988-03-19'
 ---
 Hee-Hee!
-Ooh!
+Oh!
 G'on girl!
 Aaow!
 Hee!
@@ -131,7 +131,7 @@ My lonely days are gone
 (My lonely days are gone)
 
 
-Acha-ooh!
+Acha-oh
 G'on girl!
 G'on!
 Hee! Hee! Aaow!
@@ -171,7 +171,7 @@ But mine and my baby
 (You really turn me on)
 Hee-hee!
 (You knock me off of my feet)
-Hee-hee! Ooh!
+Hee-hee! Oh!
 (My lonely days are gone)
 Give it to me
 Give me some time

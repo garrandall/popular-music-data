@@ -51,7 +51,6 @@ Don't owe people favours, that's my peace of mind
 I don't know why I deserve someone like you
 But you're my one and only sole exception to all my rules
 
-Chorus
 
 Real love is hard to find, as holding back the sands of time
 And time can change my life as much as you

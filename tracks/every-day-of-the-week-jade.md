@@ -97,7 +97,7 @@ rankings:
   start_date: '1995-04-22'
 ---
 
-Ooh... whoa... oh... oh... oh...
+Oh.. whoa... oh... oh... oh...
 Oh, yeah
 
 You were lookin' so good to me
@@ -158,7 +158,7 @@ When do I wanna see you (Ho...)
 When do I wanna please you (No)
 Every day of the week (Every, every day of the week)
 When do I wanna love you (Oh...)
-When am I thinking of you (Oh... ooh... no)
+When am I thinking of you (Oh... oh.. no)
 Every day of the week (Every day)
 
 When do I wanna see you (Oh... oh...)

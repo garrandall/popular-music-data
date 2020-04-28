@@ -186,7 +186,7 @@ You know a melody can move me
 When I'm feelin' blue
 The guitars come in through to soothe me
 Thanks for the joy that you've given me
-(Ooh, the joy that you've given me)
+(Oh, the joy that you've given me)
 I want you to know that I believe in your song (oh, yeah)
 Your rhythm, and rhyme, and harmony (mm)
 You helped me along (makin' me strong)
@@ -194,7 +194,7 @@ Oh, you're makin' me strong
 
 
 Oh, give me the beat boys and free my soul
-I wanna get lost in your rock and roll and drift away (drift away, ooh)
+I wanna get lost in your rock and roll and drift away (drift away, oh)
 And give me the beat boys and free my soul
 I wanna get lost in your rock and roll and drift away (drift away)
 

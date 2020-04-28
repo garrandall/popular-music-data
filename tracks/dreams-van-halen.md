@@ -95,9 +95,6 @@ Ohh that's what dreams are made of
 Cause we belong in a world that must be strong
 Ohh that's what dreams are made of
 
-
-
-
 We'll get higher and higher straight up we'll climb
 Higher and higher leave it all behind
 Oh, we'll get higher and higher who knows what we'll find

@@ -93,7 +93,7 @@ Oh, right from the start
 You, you, you possess my soul now, honey
 And I know, I know you own my heart
 And I wanna say
-(Ooh, someday, we'll be together)
+(Oh, someday, we'll be together)
 
 Some sweet day
 Oh, yes we will, yes we will
@@ -109,7 +109,7 @@ All I wanna do, all I wanna do was cry, cry, oh
 Hey, hey, hey
 
 I long for you every, every night
-Ooh, just to kiss your sweet, sweet lips, baby
+Oh, just to kiss your sweet, sweet lips, baby
 Hold you ever, ever so tight
 And I wanna say
 Someday we'll be together

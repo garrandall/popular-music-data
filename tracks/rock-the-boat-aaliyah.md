@@ -110,14 +110,14 @@ rankings:
 ---
 Mhmm, yeah, mhmm
 Huh, uh, huh, uh
-Ooh, yeah
+Oh, yeah
 
 
 Boy, you know you make me float
-Boy, you really get me high (Ooh)
+Boy, you really get me high (Oh)
 I feel like I'm on dope
 'Cause you, you serve me on a regular (Serve me on a regular)
-Boy, you gotta stroke (Ooh)
+Boy, you gotta stroke (Oh)
 Before drifting me deeper (Before drifting me deeper)
 Baby, now, hold me close
 Let's take this overboard now
@@ -129,13 +129,13 @@ Rock the boat, rock the boat
 Work it in the middle, work the middle
 Work the middle, work the middle
 Change positions, new position
-New position (Ooh), new position
+New position (Oh), new position
 (Now stroke it baby)
 Stroke it for me, stroke it for me
 Stroke it for me, stroke it for me
 
 
-Ooh, baby, I love your stroke ('Cause you)
+Oh, baby, I love your stroke ('Cause you)
 'Cause you get me where I'm going ('Cause you get me where I'm going)
 In a jury, you'll get my vote
 'Cause I believe
@@ -147,13 +147,13 @@ Go ahead and put that thing in overdrive
 
 
 I want you to rock the boat
-Rock the boat (Ooh, hey)
+Rock the boat (Oh, hey)
 Rock the boat, rock the boat
 Work it in the middle, work the middle
 (Work it, babe, work it, babe)
 Work the middle, work the middle
 Change positions, new position
-New position (Ooh), new position
+New position (Oh), new position
 (Now stroke it, baby)
 Stroke it for me, stroke it for me
 Stroke it for me, stroke it for me
@@ -161,17 +161,17 @@ I want you to rock the boat
 Rock the boat
 Rock the boat, rock the boat (Hey)
 Work it in the middle, work the middle
-Work the middle (Ooh), work the middle (Hey)
+Work the middle (Oh), work the middle (Hey)
 Change positions, new position
-New position (Ooh), new positions (Now)
+New position (Oh), new positions (Now)
 Stroke it baby, stroke it for me (Yeah)
 Stroke it for me, stroke it for me
 
 
 Stroke it for me
 Mm, stroke it baby, stroke it baby
-Mmmm, work it, baby, work it baby
-Oooh stroke It
+Mmm, work it, baby, work it baby
+Oh stroke It
 There is something I want you to do
 I want you to use yourself (Hey)
 Like you never ever used to do before (Never)
@@ -181,17 +181,17 @@ You'll be calling, calling for more (Calling)
 
 
 Rock the boat, rock the boat
-(Ooh) Rock the boat, rock the boat
+(Oh) Rock the boat, rock the boat
 Work it in the middle, work the middle
-(Ooh, work it, baby, work it, baby)
+(Oh, work it, baby, work it, baby)
 Work the middle, work the middle
 Change positions, new position (Mmm, change)
 New position, new position (Hey)
 Stroke it for me (Baby), stroke it for me
 Stroke it for me, stroke it for me
 I want you to rock the boat
-Rock the boat (Ooh)
-Rock the boat (Ooh), rock the boat
+Rock the boat (Oh)
+Rock the boat (Oh), rock the boat
 Work it in the middle, work the middle
 (Oh, work it, baby)
 Work the middle, work the middle

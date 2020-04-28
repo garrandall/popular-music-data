@@ -62,7 +62,7 @@ In the spring time
 Girl if you're thinking what I'm thinking of
 Bells could be ringin'
 'Cause everything's coming up love
-Ooh baby yes it is
+Oh baby yes it is
 
 Everything's coming up love
 Everything's coming up love, love love, love

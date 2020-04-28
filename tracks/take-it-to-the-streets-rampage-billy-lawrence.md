@@ -120,7 +120,7 @@ Niggas everywhere, bitches everywhere rockin to Ramp's new beat
 When I hear his music I can't help but get down like they do
 
 
-I'm doin what i gotta do
+I'm doin what I gotta do
 I hear Charlie
 Rampage is the boss of New York
 Yo I fill more fantasies than Mr. Rork
@@ -135,7 +135,7 @@ Shake yo ass like you just don't care
 Take a look around, its plain to see
 That every niggas bopin to Ramp's new music in the street
 I hear music in the street, and I hear a funky beat
-And I get down, ohhh I get down
+And I get down, oh I get down
 Niggas everywhere, bitches everywhere rockin to Ramp's new beat
 When I hear his music I can't help but get down like they do
 Rock on rock on rock on...

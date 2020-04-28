@@ -79,7 +79,7 @@ Life
 
 Life will never be...the same
 
-Hey yeah 
+Hey yeah
 
 Time is getting cold
 What is going on?
@@ -90,13 +90,13 @@ Where do we go?
 Why are you doing things,
 All the things you do?
 
-Hey yeah 
+Hey yeah
 
 
 Life will never be the same
 Life is changing
 
-Hey yeah 
+Hey yeah
 
 
 
@@ -105,43 +105,37 @@ Everybody needs somebody to love, to love
 Everybody needs somebody to love, to love
 
 
-Hey yeah 
+Hey yeah
 
-Whoa, whoa 
+Whoa, whoa
 
 In...the name of love
 You should draw the line
 Got to feel secure
 That you're still mine
 
-Hey yeah! 
+Hey yeah!
 
 
 
-Hey yeah 
+Hey yeah
+
+Hey yeah!
 
 
 
+Ohhh whoa, yeah, yeah
+
+Whoa, whoa
+
+Hey yeah!
+
+Whoa whoa whoa whoa,
+Ohhh whoa, yeah, yeah
 
 
 
-
-Hey yeah! 
-
-
-
-Ohhh whoa, yeah, yeah 
-
-Whoa, whoa 
-
-Hey yeah! 
-
-Whoa whoa whoa whoa, 
-Ohhh whoa, yeah, yeah 
-
-
-
-Hey yeah 
+Hey yeah
 
 
 

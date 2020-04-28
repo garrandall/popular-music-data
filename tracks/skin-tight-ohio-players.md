@@ -73,11 +73,11 @@ Skin tight (skin tight)
 Skin tight, wow wow
 (Doo doo doo doo doo)
 Skin tight
-Ooh ooh
+Oh oh
 Skin tight
 Doo doo doo doo doo
 Skin tight
-Ooh ooh
+Oh oh
 Skin tight
 Doo doo doo doo doo
 Skin tight
@@ -92,7 +92,7 @@ Skin tight
 Skin tight
 Doo doo doo doo doo
 (Hold me barely back girl)
-Doo doo doo doo doo 
+Doo doo doo doo doo
 (Keep on steppin to me baby)
 
 Doo doo doo doo doo
@@ -103,32 +103,32 @@ Skin tight
 Skin tight
 Doo doo doo doo doo
 Skin tight
-Ooh ooh 
+Oh oh
 
 Well well well well well
-Na na na na na na na na na 
-Hold tight 
+Na na na na na na na na na
+Hold tight
 
 Skin tight
 Skin tight
 Doo doo doo doo doo
 Skin tight
-Ooh ooh 
-Na na na na na na na na na 
+Oh oh
+Na na na na na na na na na
 
 Skin tight
 Skin tight
 Doo doo doo doo doo
 Skin tight
-Ooh ooh 
+Oh oh
 
-Hold tight! (skin tight) 
+Hold tight! (skin tight)
 
 Skin tight
 Skin tight
 Doo doo doo doo doo
 Skin tight
-Ooh ooh 
+Oh oh
 
 
 

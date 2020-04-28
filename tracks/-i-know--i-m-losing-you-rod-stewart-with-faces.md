@@ -74,7 +74,7 @@ Your love is fading, can feel it fading
 Oh, away from me
 Can feel it in the air
 It's there everywhere
-Ooh, I'm losing you
+Oh, I'm losing you
 I don't wanna lose ya
 But I know I'm gonna grew ya
 Oh Lord, I'm losing you
@@ -84,7 +84,7 @@ Woo
 Get out
 Woo
 Woohoo
-Ooh yeah
+Oh yeah
 Get down
 Get down there
 Woo

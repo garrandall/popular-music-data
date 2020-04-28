@@ -91,11 +91,11 @@ My life
 Cause I need you to
 Shine, shine
 Your light
-Oooohhhhhhh
+Oh
 
 :
 You're everything to me, heey
-The air that I breathe, oohhh
+The air that I breathe, oh
 A sign so I'll see, oh Lord
 You're everything to me
 
@@ -105,11 +105,11 @@ Always come first and second to none
 The love that you give me is equal to ten
 My peace, my joy
 You are my
-My strength, ooohhhh
+My strength, oh
 
 You're everything to me, whoa
-The air that I breathe, ooooohhh
-A sign so I'll see, ohhh that
+The air that I breathe, oh
+A sign so I'll see, oh that
 You're everything to me
 
 :
@@ -122,7 +122,7 @@ My lover
 (Baby you're) My everything
 
 You're everything to me, whoa
-The air that I breathe, ooooohhh
+The air that I breathe, oh
 My sight, so I see, oh
 You're everything to me
 

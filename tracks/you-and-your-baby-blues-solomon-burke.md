@@ -50,7 +50,7 @@ I can't live without you
 Come let me love you
 Tell you all about it
 
-Ooh, baby, no one else
+Oh, baby, no one else
 Could ever take your place
 Picture you in every mirror
 That has your face

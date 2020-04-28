@@ -34,7 +34,7 @@ Then the mood is soft and sensual, hu-u
 And I love it, yeah I love it
 It's the answer to all my dreams
 Every time it feels like the earth is shakin'
-It doesn't matter, a glass is fallin', 
+It doesn't matter, a glass is fallin',
 I hear it shatter,
 Maybe it's raining, faster and faster, shadow dancin'
 Together oh I, I'm a bettin' on the game of love
@@ -81,7 +81,7 @@ I don't resist at all
 'cos we're walkin' on clouds
 And she is leadin' the way
 
-Oh no, oh no, oh nooooo......
+Oh no, oh no, oh nooooo...
 
 
 

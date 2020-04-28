@@ -16,7 +16,7 @@ rankings:
 When I think about you baby, I can't help it (help it)
 I lose all my focus and I just can't stand it
 I get so excited every time I hear your name (your name)
-and you don't reciprocate and it's a damn shame. Ooh
+and you don't reciprocate and it's a damn shame. Oh
 
 See, all I'm trying to do girl is give you my time
 (give you my time)
@@ -33,7 +33,7 @@ As time moves on I gonna be gone 'cause I'm movin' on
 I know it sounds crazy but I just can't do this (do this)
 It feels like we're wasting time so I'll get to it
 When I look into your eyes I can see right through you (through you)
-And you don't feel the same way that I do, Oooh
+And you don't feel the same way that I do, Oh
 
 See, all I'm trying to do girl is give you my time
 (give you my time)
@@ -54,7 +54,7 @@ You know I've seen it all before
 Now your best friend's at my door.
 
 I'm movin' on
-Oooh
+Oh
 
 'Cause you know as time moves on
 (Said I'm movin' on)
@@ -71,7 +71,7 @@ I'm movin' on baby,
 I'm movin' on
 movin' on
 
-Ahh, I'll be gone,
+Ah, I'll be gone,
 Yes I will.
 
 

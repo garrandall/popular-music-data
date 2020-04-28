@@ -44,8 +44,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-09-30'
 ---
-(ooooooooo)
-(ooooooooo)
+(oo)
+(oo)
 Up in the morning at half past eight
 You can't have your breakfast 'cause you'll be late
 You tie your tie like a hangman's noose

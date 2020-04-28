@@ -76,17 +76,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-02-09'
 ---
-Ooh, I'll wait for you
+Oh I'll wait for you
 
 Oh, I know we both are young
 And must wait till school is through
-Ooh, I'll wait for you
-(Ooh, I'll wait for you)
+Oh I'll wait for you
+(Oh I'll wait for you)
 
 Oh, I tell my impatient heart
 There is nothing I can do
-Ooh, I'll wait for you
-(Ooh)
+Oh I'll wait for you
+(Oh
 
 There's one day I dream of
 The day I can bring
@@ -95,8 +95,8 @@ Your engagement ring, I love you
 
 So until the day I'll hear
 You will say, yes, I do
-Ooh, I'll wait for you
-(Ooh, I'll wait for you)
+Oh I'll wait for you
+(Oh I'll wait for you)
 
 There's one day I dream of
 The day I can bring
@@ -105,5 +105,5 @@ Your engagement ring, I love you
 
 So until the day I'll hear
 You will say, yes, I do
-Ooh, I'll wait for you
-(Ooh, I'll wait for you)
+Oh I'll wait for you
+(Oh I'll wait for you)

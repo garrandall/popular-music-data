@@ -134,7 +134,3 @@ You was cold and your body swung back and forth
 But now your eyes sing the sad, sad song
 Of how you lived so fast and died so young so
 
-
-
-
-

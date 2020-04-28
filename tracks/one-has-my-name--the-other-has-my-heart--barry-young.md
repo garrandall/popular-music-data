@@ -52,13 +52,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-15'
 ---
-One Has My Name (The Other Has My Heart)
-Jerry Wallace
-Written by Eddie Dean, Lorene Dean, and Hal Blair
-Wallace's version not released as a single but Barry Young put it on the Pop chart
-At # 13 in 1966
-Additionally, found on Country chart in 1948 by Jimmy Wakely (#1) and Eddie
-Dean (#11); in 1949 by Bob Eberly at # 8; and in 1969 by Jerry Lee Lewis at #3
 One has my name, the other has my heart
 With one I'll remain, that's how my heartaches start
 One has brown eyes, the other's eyes are blue

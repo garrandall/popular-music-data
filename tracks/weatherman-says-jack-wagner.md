@@ -45,7 +45,7 @@ Lookin' back at me
 Now that the winter's over
 Sweet love is takin' over
 All of those dark clouds have faded away
-Ooh, you got the tables turnin'
+Oh you got the tables turnin'
 Can't stop the fire burnin'
 You got a ticket to take me all the way
 

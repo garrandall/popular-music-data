@@ -128,7 +128,7 @@ And no where word don't need no mic
 Niggas like Young what you get for show?
 Tell em same shit I used to get for the blow
 Send 'em on the road nigga what I got to lose
-Put em in the vans i ain't talkin' about the shoes
+Put em in the vans I ain't talkin' about the shoes
 Do the speed limit nigga watch out for the lights
 Pussy ass niggas gotta watch out for the dikes
 Seventeen five yeah nigga I said it
@@ -167,13 +167,13 @@ And if you ain't from here you can walk it out
 You ain't hood if you don't know what I'm talking about (Busta bust bitches)
 I'm so hood
 
-See all i know is that I got to get my money
+See all I know is that I got to get my money
 Again and again
 Top down
 Let the money blow in the wind
 With bad bitch sitting in the passenger seat
 Where the doo be wrapped head full of bobby pins
-You know I keep the thing when i walk
+You know I keep the thing when I walk
 See the dialect
 Different from the slang of my talk
 Baby still living got a crack in front of another bad bitch that will
@@ -190,7 +190,7 @@ You can easily die
 Tell who that fake nigga was (Hood)
 And even though I split a little rap
 Got Niggas in the hood trying to sell the most crack
-Violator, i send a nigga to do it just to make you spend a lot of money just to get your shit
+Violator, I send a nigga to do it just to make you spend a lot of money just to get your shit
 Back
 You all niggas know where I'm from
 And I rep it to the fullest until the day that I'm done

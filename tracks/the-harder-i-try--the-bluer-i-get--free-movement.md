@@ -51,7 +51,7 @@ rankings:
 THE HARDER I TRY
 At night I find that I canít sleep
 All day long I walk the streets(oohÖ)
-My heart is filled with misery and pain(ooh.)
+My heart is filled with misery and pain(oh.)
 Tears filled my eyes when I speak your name forÖ
 
 The harder I try, the bluer I get

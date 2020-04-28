@@ -59,7 +59,7 @@ And sweetheart, we'll be as one
 
 Let's wait and see
 Our wedding day is not very far
-And ooh, folks will whisper
+And oh, folks will whisper
 And they'll say how lovely we both are
 
 And we'll have a ball
@@ -73,6 +73,6 @@ We'll be married
 
 Whoa... oh... oh...
 When we get married
-And ooh...
+And oh...
 We'll be married
 You and me, me and you

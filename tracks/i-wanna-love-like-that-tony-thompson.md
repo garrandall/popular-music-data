@@ -125,7 +125,7 @@ Oh, come to me
 And love me over and over
 
 
-I can see it in your eyes all the love that you give, ooh ooh
+I can see it in your eyes all the love that you give, ohooh
 I wanna give you love back in return
 Oh baby, listen
 I know that it's in your heart you'll always be true

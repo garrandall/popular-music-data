@@ -55,9 +55,6 @@ So fuck is my ransom, homie?
 
 Money bag, money bag, money bag
 
-
-
-
 Straight up, finally famous, nigga
 I always wanted paradise
 

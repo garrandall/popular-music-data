@@ -134,7 +134,3 @@ Forever you and Brat
 I tried to take the blame, but you prefered to handle my fame
 So i'm waitin with open arms to rekindle the flame...
 
-
-
-
-

@@ -76,7 +76,7 @@ rankings:
 When I was young and the world belonged to me
 I thought that love meant pain and jealousy
 It was a cross on my shoulder
-Oh Lord, now I feel so much older, oooh, oooh
+Oh Lord, now I feel so much older, ohohoh
 
 Time had a way of making me see
 My lonely life has taken it's toll on me

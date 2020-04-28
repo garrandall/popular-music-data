@@ -152,13 +152,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-06-25'
 ---
-Mmmm, ah
-Mmmm, yeah
-Mmmm
+Mmm, ah
+Mmm, yeah
+Mmm
 Yeah, yeah, yeah
-Mmmm, ah
-Mmmm, yeah
-Mmmm
+Mmm, ah
+Mmm, yeah
+Mmm
 Yeah, yeah
 
 
@@ -206,7 +206,7 @@ Baby, you're a star, I just wanna show you you are
 You should let me love you
 Let me be the one to
 Give you everything you want and need
-Ooh baby, good love and protection
+Oh baby, good love and protection
 Make me your selection
 Show you the way love's supposed to be
 Baby, you should let me

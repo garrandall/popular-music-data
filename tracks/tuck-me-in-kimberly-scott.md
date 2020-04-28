@@ -64,7 +64,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-03-14'
 ---
-Ooh? hoo? hoo?
+Oh? hoo? hoo?
 Oh? hey?
 
 After spending my whole weekend
@@ -82,8 +82,8 @@ And hold me real right
 That's the only way I'll know
 Everything is gonna be alright
 
-Tuck me in (Hmm)
-Before you tell me goodnight (Mmm? hmm)
+Tuck me in (Hm)
+Before you tell me goodnight (Mmm? hm)
 That's the only way I'll know (Oh)
 Everything is gonna be just fine
 

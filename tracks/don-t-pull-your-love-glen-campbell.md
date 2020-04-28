@@ -62,7 +62,6 @@ But you know you'll break my heart
 When I watch you close that door
 'Cause I know I won't see you any more
 
-(repeat chorus)
 Haven't I been good to you
 What about that brand new ring
 Doesn't that mean love to you
@@ -70,13 +69,9 @@ Doesn't that mean anything
 If I throw away my pride and I got down on my knees
 Would you make me beg you pretty please
 
-(Repeat chorus)
 There's so much I want to do
 I've got love enough for two
 I'll never use it girl If I don't have you
-
-(repeat chorus)
-THEN YOU CAN TELL ME GOODBYE
 
 Kiss me each morning for a million years
 Hold me each evening by your side

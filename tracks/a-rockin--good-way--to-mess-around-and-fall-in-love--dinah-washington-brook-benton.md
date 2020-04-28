@@ -67,7 +67,7 @@ Honey, don'tcha know
 I'm gonna give 'em right back to you
 That's a kissin' good way
 (That's a kissin' good way)
-Ahh, that's a kissin' good way
+Ah, that's a kissin' good way
 (That's a kissin' good way)
 Now, that's a kissin' good way to mess around and fall in love
 (Don't mess around, don't mess around)
@@ -84,7 +84,7 @@ That's a huggin' good way to mess around and fall in love
 You know you called me on the phone
 And just because I was alone
 Yes, you came around wooin'
-Ahh, you'd better ask somebody if you don't know what you're doin'
+Ah, you'd better ask somebody if you don't know what you're doin'
 Now you kissed me
 And you rocked my soul
 And don't come around knockin'
@@ -110,7 +110,7 @@ Dinah, that's a rockin' good way
 That's a rockin' good way to mess around and fall in love
 {It's a rockin' good way
 And I love to rock, how 'bout you?
-Ahh, baby, you got what it takes
+Ah, baby, you got what it takes
 Ah ha, ain't that somethin'?}
 {You dig the run, I'll say
 Cool, stay out of my spot

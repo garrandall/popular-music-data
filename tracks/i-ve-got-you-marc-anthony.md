@@ -93,9 +93,6 @@ And without you I don't know where I would be
 It's because of your shoulder I'm at ease
 No matter where I am I'm not alone. eh
 
-
-
-
 All that I have
 Is nothing when it compares to you
 And I can't believe

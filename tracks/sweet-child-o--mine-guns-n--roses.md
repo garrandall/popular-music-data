@@ -127,27 +127,21 @@ An' pray for the thunder and the rain to quietly pass me by
 
 
 Woah-oh-oh! Sweet child of mine
-Ooh, oh-oh-oh! Sweet love of mine
-
-
-
+Oh, oh-oh-oh! Sweet love of mine
 
 Oh yeah! Woah-oh-oh-oh! Sweet child of mine
-Ooh-oh, oh, oh! Sweet love of mine
-Woah, oh-oh-oh! Sweet child of mine, ooh yeah
-Ooh! Sweet love of mine
-
-
-
+Oh-oh, oh, oh! Sweet love of mine
+Woah, oh-oh-oh! Sweet child of mine, oh yeah
+Oh! Sweet love of mine
 
 Where do we go?
 Where do we go now?
 Where do we go?
-Ooh, where do we go?
+Oh, where do we go?
 Where do we go now?
 Oh, where do we go now?
 Where do we go? (Sweet child...)
-Ooh, where do we go now?
+Oh, where do we go now?
 Ay, ay, ay, ay, ay, ay, ay, ay
 Where do we go now? Ah-ah-ah-ah-ah, wow
 Where do we go?
@@ -155,6 +149,6 @@ Oh, where do we go now?
 Oh, where do we go?
 Where do we go now?
 Where do we go?
-Ooh, where do we go now?
+Oh, where do we go now?
 Now, now, now, now, now, now, now
 Sweet child, sweet child of mine

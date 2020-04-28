@@ -47,7 +47,7 @@ Let it shine
 Shine on me
 I get lonely
 In the middle of the night
-And i need you darlin'
+And I need you darlin'
 To make things alright
 Turn on your lights
 Let it shine on me

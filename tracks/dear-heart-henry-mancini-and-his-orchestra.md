@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: dear-heart-henry-mancini-and-his-orchestra
+lyrics_url: https://genius.com/Henry-mancini-dear-heart-lyrics
 name: Dear Heart
 rankings:
 - end_date: '1964-12-18'
@@ -35,4 +36,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
 ---
+Dear heart, wish you were here
+To warm this night
+My dear heart, it seems like a year
+Since you've been out of my sight
 
+A single room, a table for one
+It's a lonesome town all right
+But soon I'll kiss you hello
+At our front door
+
+And dear heart, I want you to know
+I'll leave your arms never more
+
+But soon I'll kiss you hello
+At our front door
+
+And dear heart, I want you to know
+I'll leave your arms never more

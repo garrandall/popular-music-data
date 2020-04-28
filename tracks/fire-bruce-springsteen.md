@@ -73,8 +73,8 @@ Oh, oh, oh
 I'm on fire
 
 
-Ooh-ooh, ooh
-Ooh-ooh, ooh-ooh
-Ooh-ooh-ooh, ooh-ooh
-Ooh, ooh, ooh, ooh-ooh
-Ooh-ooh-ooh, ooh-ooh
+Oh-oh ooh
+Oh-oh oohhoh
+Oh-ohoohohohoh
+Oh, oh oohohohoh
+Oh-ohoohohohoh

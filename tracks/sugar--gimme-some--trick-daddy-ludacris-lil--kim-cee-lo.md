@@ -210,7 +210,7 @@ Gimme gimme some
 She put it right there on my tongue (Skeet Skeet)
 Right there on my tongue (She turns me on, like no other)
 
-Yeah Yeah Yeah Yeeeah Yeeeah Yeah
+Yeah Yeah Yeah Yeah Yeah Yeah
 Yeah Yeah
 
 

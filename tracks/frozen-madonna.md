@@ -99,10 +99,10 @@ You waste your time with hate and regret
 You're broken
 When your heart's not open
 
-Mmmmmm, if I could melt your heart
-Mmmmmm, we'd never be apart
-Mmmmmm, give yourself to me
-Mmmmmm, you hold the key
+Mmm, if I could melt your heart
+Mmm, we'd never be apart
+Mmm, give yourself to me
+Mmm, you hold the key
 
 Now there's no point in placing the blame
 And you should know I suffer the same
@@ -114,25 +114,25 @@ Let all the hurt inside of you die
 You're frozen
 When your heart's not open
 
-Mmmmmm, if I could melt your heart
-Mmmmmm, we'd never be apart
-Mmmmmm, give yourself to me
-Mmmmmm, you hold the key
+Mmm, if I could melt your heart
+Mmm, we'd never be apart
+Mmm, give yourself to me
+Mmm, you hold the key
 
 You only see what your eyes want to see
 How can life be what you want it to be
 You're frozen
 When your heart's not open
 
-Mmmmmm, if I could melt your heart
-Mmmmmm, we'd never be apart
-Mmmmmm, give yourself to me
-Mmmmmm, you hold the key
+Mmm, if I could melt your heart
+Mmm, we'd never be apart
+Mmm, give yourself to me
+Mmm, you hold the key
 
 If I could melt your heart
-Mmmmmm, we'd never be apart
-Mmmmmm, give yourself to me
-Mmmmmm, you hold the key
+Mmm, we'd never be apart
+Mmm, give yourself to me
+Mmm, you hold the key
 
 If I could melt your heart
 

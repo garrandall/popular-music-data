@@ -34,9 +34,6 @@ We're crawling side by side
 With hell freezing over in our eyes
 Gods kneel before our crime
 
-
-
-
 (Rip out the wings of a butterfly)
 Don’t let go
 (Rip out the wings of a butterfly)

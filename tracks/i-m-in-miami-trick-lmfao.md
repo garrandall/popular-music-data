@@ -151,7 +151,7 @@ Getch yo getch getch yo hands
 Put put put put that ass up
 Put that ass up put that ass up
 I'm in Miami trick
-Ooooh, ooh ooh ooh ooh
+Oh, ohoohhohoh
 
 It's mornin' time and the girls are still there
 They lying naked with them asses in the air

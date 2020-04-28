@@ -35,7 +35,7 @@ rankings:
 Seems, that thinking about what to do
 Boy I think about part of you
 Is in my nature
-Ooooh my temperature goes to rise
+Oh my temperature goes to rise
 And snow so fast, is in my nature
 
 You know it's true I'm part of you
@@ -57,7 +57,7 @@ You is my nature
 Seems, that thinking about what to do
 Boy I think about part of you
 Is in my nature
-Ooooh my temperature goes to rise
+Oh my temperature goes to rise
 And snow so fast, is in my nature
 
 Baby is no secret about the feelin'
@@ -79,12 +79,12 @@ You is my nature
 Seems, that thinking about what to do
 Boy I think about part of you
 Is my nature
-Ooooh my temperature goes to rise
+Oh my temperature goes to rise
 And snow so fast, is in my nature
 
 
 Seems, that thinking about what to do
 Boy I think about part of you
 Is in my nature
-Ooooh my temperature goes to rise
+Oh my temperature goes to rise
 And snow so fast, is in my nature

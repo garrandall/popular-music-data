@@ -83,9 +83,9 @@ Help me make it through the night
 
 Lord it's so sad to be alone
 Help me make it through the night
-Ooh-ooh
+Oh-oh
 Lead me through the night
-Ooh-ooh
+Oh-oh
 Come on and take me through the night
-Ooh-ooh
+Oh-oh
 Through the night

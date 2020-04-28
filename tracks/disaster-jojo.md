@@ -75,7 +75,7 @@ Feel the fire 'cause it's all around
 And it's burning for forever and always
 You gotta let it go and be on our way and live for another day (our way)
 'Cause it ain't the same, my baby
-Watch it all fall into the ground (ooh ooh)
+Watch it all fall into the ground (ohooh
 No happy ever after, just disaster, whoa oh whoa...
 
 
@@ -84,7 +84,7 @@ And it turned into whatever, now we're saying never (whoa oh)
 Feel the fire 'cause it's all around
 And it's burning for forever and always (yeah)
 You gotta let it go and be on our way and live for another day (just disaster)
-'Cause it ain't the same, my baby (ooh ooh ooh)
+'Cause it ain't the same, my baby (ohoohhoh
 Watch it all fall into the ground
 No happy ever after, just disaster
 

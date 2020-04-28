@@ -108,7 +108,7 @@ One of these days these boots are gonna walk all over you
 
 These boots are made for walkin
 And that's just what they'll do
-One of these days these boots are gonna walk.... all... o...ver...you
+One of these days these boots are gonna walk... all... o...ver...you
 
 Come on boots
 Start walking
@@ -123,7 +123,7 @@ Push ya tush, just like that
 Can I get a sooey (sooey)
 Can I get a yehaw (yehaw)
 
-(Come on Willie ohh yeah, owww)
+(Come on Willie oh yeah, owww)
 Yehaw
 Willie Nelson everybody (uh)
 Let's go home now

@@ -65,10 +65,10 @@ Workin' for a livin' (workin')
 Workin' for a livin', livin' and workin'
 I'm taking what they giving 'cause I'm working for a livin'.
 
-Ooh, workin' for a livin'
-Ooh, taking what they giving
-Ooh, workin' for a livin'
-Ooh, ooh
+Oh, workin' for a livin'
+Oh, taking what they giving
+Oh, workin' for a livin'
+Oh, oh
 
 Bus boy, bartender, ladies of the night
 Grease monkey, ex-junky, winner of the fight

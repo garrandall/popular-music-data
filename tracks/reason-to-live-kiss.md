@@ -78,14 +78,8 @@ And I see a change in my life
 And I'm not alone when I'm strong inside
 And I realize
 
-
-
-
 And I feel a change in my life
 And I'm not alone when I'm strong inside and I realize
-
-
-
 
 No it can't be your love, no it can't be your love
 No it can't be your love

@@ -125,7 +125,7 @@ Yeah
 Freeze frame, oh yeah, freeze frame
 If I could freeze frame, freeze frame, freeze frame
 If I could freeze, she's real, whoo, freeze frame
-If I could freeze, she's ahhh, freeze frame
+If I could freeze, she's ah, freeze frame
 If I could shoot, shoot - doo-dloo-dloo, freeze frame
 If I could shoot, shoot - doo-dloo-dloo, freeze frame
 

@@ -33,7 +33,7 @@ I wanna do it
 Like the big guys do
 I wanna do it
 
-Ahhhh, huh
+Ah, huh
 Down on the floor there, every night
 That's where you'll find me under the light
 Why don't the? girls? my way

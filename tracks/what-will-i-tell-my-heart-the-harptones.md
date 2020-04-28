@@ -19,18 +19,18 @@ rankings:
 Ill try to explain to friends dear
 The reason we two are apart
 I know what to tell our friends dear
-But what will i tell my heart?
+But what will I tell my heart?
 Its easy to say to strangers that we played a game from the start
 Its easy to lie to strangers
-But what will i tell my heart?
-When i smile tonight
+But what will I tell my heart?
+When I smile tonight
 All the tears inside
 What an ache it will bring
 Then ill wander home
 To a telephone
 That forgot, that forgot how to ring
-I say now i could say youll soon be back dear
+I say now I could say youll soon be back dear
 To fool the whole town may be smart
 Ill simply tell them youll soon be back dear
-But what will i tell my heart?
+But what will I tell my heart?
 I say What? What will I tell my heart?

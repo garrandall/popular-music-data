@@ -94,9 +94,9 @@ One deep, I be solo, bustin heat, throwin bolos, it's hard
 
 
 And it's so haaaaaard, yeah
-Niggaz wanna be like Pun, but they don't bust they guns
+Niggas wanna be like Pun, but they don't bust they guns
 and it's so haaaaaard..
-Niggaz wanna fuck my wife, niggaz wanna take my life
+Niggas wanna fuck my wife, niggas wanna take my life
 but it's so haaaaaard..
 
 
@@ -106,7 +106,7 @@ I just lost a hundred pounds, I'm tryin to live
 I ain't goin nowhere I'm stayin alive baby..
 That's my wife, I paid for them titties
 Get your own, your own, ya heard?
-Niggaz wanna fuck my wife, niggaz wanna take my life
+Niggas wanna fuck my wife, niggas wanna take my life
 but it's so haaaaaard..
 
 
@@ -118,15 +118,15 @@ Watch me, you can catch it live on the Hitachi
 Poppin shit like a Nazi, iced out like DeBiase
 Fuck that, Liberace
 Fo'-X Versace, somebody stop me!
-Never that, SKEE-YU!  Where my niggaz at?
+Never that, SKEE-YU!  Where my niggas at?
 Uptown! Uptown!  You know you feelin that
 "Cash Rule," hardcore you can dance to
 That old Biggie give me, "Onnne More Chaaaaance.."
 Take a glance and I'm off with yours
-with both hands take off my drawers 
+with both hands take off my drawers
 and jerk me like the Source Awards
 I love hip-hop, I ain't even probably the best lyricist alive
-Terror Squad nigga stop sleepin, ooh yeah
+Terror Squad nigga stop sleepin, oh yeah
 
 
 What you say your name was again?
@@ -138,9 +138,9 @@ Loser!
 
 
 
-Niggaz wanna be like Pun, but they don't bust they guns
+Niggas wanna be like Pun, but they don't bust they guns
 and it's so haaaaaard..
-Niggaz wanna fuck my wife, niggaz wanna take my life
+Niggas wanna fuck my wife, niggas wanna take my life
 but it's so haaaaaard..
 Yeah, cause you ain't fuckin my wife, takin my life
 And if you just hatin just walk on by...

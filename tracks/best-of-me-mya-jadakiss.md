@@ -79,9 +79,9 @@ rankings:
 ---
 
 
-Uh, huh 
+Uh, huh
 I don't wanna get the best of you, ha-ha (whoa)
-Yo, yo 
+Yo, yo
 
 
 You put me on
@@ -95,13 +95,13 @@ Racks up on the dough that he makes
 Flash a little cash watch girls wild out
 Lately he's been checking for me
 Telling me how much he wants to be
-Wants to be the one to replace 
+Wants to be the one to replace
 Replace the man that waits at home for me
 
 
-Oh no I can't let you 
+Oh no I can't let you
 Get the best of me
-Even though deep inside 
+Even though deep inside
 Something's dying to see
 How you flow out them clothes
 Then you put it on me
@@ -120,9 +120,6 @@ I should be walking away
 Cause his hands up on my thigh
 Should I leave, should I stay?
 After all it's just one night
-
-
-
 
 Yo yo yo I got so many bags of money
 That they won't fit in the bank
@@ -145,9 +142,9 @@ And if you feel bad then you can call him later
 And tell him you all Jada's
 
 
-Oh no I can't let you 
+Oh no I can't let you
 Get the best of me
-Even though deep inside 
+Even though deep inside
 Something's dying to see
 How you flow out them clothes
 Then you put it on me
@@ -156,9 +153,9 @@ You can't get the best of me
 
 
 
-Oh no I can't let you 
+Oh no I can't let you
 Get the best of me
-Even though deep inside 
+Even though deep inside
 Something's dying to see
 How you flow out them clothes
 Then you put it on me

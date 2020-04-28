@@ -17,7 +17,7 @@ rankings:
   start_date: '1993-01-02'
 ---
 Im laughing at your shit.
-Cause you cant toss it.
+Cause you can't toss it.
 Im High Tech I wreck side effect force it.
 Laughing and your whole staff in.
 Find it Loose it phsically abuse it.
@@ -60,7 +60,7 @@ I wreck this check this.
 Hold it fold it.
 I rolled it I done it.
 Im getting mad blunted.
-I dont bite buck write.
+I don't bite buck write.
 So I got a pad lock.
 Comin outta Bedrock.
 Big Daddy Deb Rock. Uh
@@ -84,7 +84,7 @@ Change like Manudo once been to Pluto.
 I flew tho you knew tho you want to hit who hoe You stupid.
 You Panicin stiff like a manikin.
 Yo I took my friend to get em Benagains I Flanagans I ran again.
-Twelve oclock yo I dont see bed.
+Twelve oclock yo I don't see bed.
 Plus Im a???? fuck it Im a weed head.
 Pick It Up.
 

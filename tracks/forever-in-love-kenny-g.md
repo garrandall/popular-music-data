@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: forever-in-love-kenny-g
+lyrics_url: https://genius.com/Kenny-g-forever-in-love-lyrics
 name: Forever In Love
 rankings:
 - end_date: '1992-12-25'
@@ -99,4 +100,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-05-22'
 ---
-
+Instrumental

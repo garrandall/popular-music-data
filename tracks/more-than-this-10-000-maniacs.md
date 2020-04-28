@@ -108,11 +108,11 @@ More than this
 Tell me one thing
 More than this
 You know there is nothing
-Oooh aaaah
+Oh ah
 More than this
 You know there is nothing
 More than this
 Tell me one thing
 More than this
 There is nothing
-Ooooh Ooooh Ooooooh Aaaaaaah Ooooooh
+Oh Oh Oh Ah Oh

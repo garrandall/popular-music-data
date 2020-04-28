@@ -12,8 +12,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-01-02'
 ---
-Ooooh, New York!
-Ooooh, New York!
+Oh, New York!
+Oh, New York!
 
 Grew up in a town that is famous as a place of movie scenes
 Noise is always loud, there are sirens all around and the streets are mean

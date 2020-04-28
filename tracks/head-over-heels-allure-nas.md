@@ -94,7 +94,7 @@ It's been real
 Boy I can't understand it
 See I never really felt like I do
 when I'm around you baby
-And i just can't explain it
+And I just can't explain it
 but I'm feeling so high
 And I just can't deny it's so new
 
@@ -154,8 +154,4 @@ I'm falling for you head over heels
 
 
 Falling, Falling, Falling...
-
-
-
-
 

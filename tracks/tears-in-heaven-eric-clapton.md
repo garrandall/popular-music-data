@@ -130,9 +130,6 @@ Time can bring you down, time can bend your knees
 Time can break your heart, have you begging please
 Begging please
 
-
-
-
 Beyond the door, there's peace, I'm sure
 And I know there'll be no more
 Tears in heaven

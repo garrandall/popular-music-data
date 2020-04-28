@@ -148,9 +148,6 @@ See the love in my woman's eyes
 Feel the touch of a precious child
 And know a mother's love
 
-
-
-
 I thank God for my life
 And for the stars and stripes
 May freedom forever fly, let it ring

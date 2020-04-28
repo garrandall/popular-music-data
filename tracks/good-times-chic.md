@@ -127,9 +127,6 @@ These are the good times
 Leave your cares behind
 These are the good times
 
-
-
-
 A rumor has it that it's getting late
 Time marches on, just can't wait
 The clock keeps turning, why hesitate?

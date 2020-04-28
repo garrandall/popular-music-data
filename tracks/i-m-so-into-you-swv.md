@@ -161,7 +161,7 @@ You're not, you're not mine
 You're not, you're not mine
 You're not, you're not mine
 You're not
-Ooh, what am I supposed to do
+Oh, what am I supposed to do
 
 
 I'm so into you

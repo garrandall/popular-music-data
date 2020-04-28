@@ -35,7 +35,7 @@ She know what it is when I come around, let me take you down
 It ain't my first time, but baby girl, let's get it in yeah
 Bump and grind, already know
 I wanna take you down again, yeah
-Hit that rewind button, ohh
+Hit that rewind button, oh
 Let me take you down, really wanna take you down, you down, you down
 Take you down right now
 You know I know how, oh whooaa
@@ -59,13 +59,13 @@ It's just me and you
 It ain't my first time, but baby girl, let's get it in yeah
 Bump and grind, already know
 I wanna take you down again, yeah
-Hit that rewind button, ohh
+Hit that rewind button, oh
 Let me take you down, really wanna take you down, you down, you down
 Take you down right now
 You know I know how, oh whooaa
 
 
-Oooh yeah
+Oh yeah
 I promise not to give it to nobody babe
 And promise you won't give it to nobody babe
 And promise when you promise, keep them promises

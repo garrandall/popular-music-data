@@ -109,7 +109,7 @@ rankings:
   start_date: '1994-03-26'
 ---
 (Hey yeah, I wanna shoop baby!)
-Ooh, how you doing baby?
+Oh, how you doing baby?
 No, not you, you, the bow-legged one, yeah
 What’s your name?
 Damn baby, that sounds sexy
@@ -183,7 +183,7 @@ To the next man in the three-piece suit
 I spend all my dough, ray me, cutie
 Shoop shoop a-doobie like Scoobie Doobie Doo
 I love you in your big jeans, you give me nice dreams
-You make me wanna scream, ooo, oooo, oooo
+You make me wanna scream, oo, oo, oo
 I like what you do when you do what you do
 You make me wanna shoop
 
@@ -198,7 +198,7 @@ Shoop ba-doop ba-doop ba-doop
 
 Oh my goodness, girl look at him
 He's the cutest brother in here
-And he's comin' this way, oooh
+And he's comin' this way, oh
 
 
 S and the P wanna get with me, cool (uh-huh)
@@ -210,7 +210,7 @@ Twelve inches to a yard and have you sounding like a retard (yeah)
 Big 'Twan Love-Her, six-two, wanna hit you
 (So what you wanna do?)
 What you wanna do?
-(Mmmm, I wanna shoop)
+(Mmm, I wanna shoop)
 
 
 Shoop shoop ba-doop

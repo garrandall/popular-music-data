@@ -140,9 +140,6 @@ When you say
 Stay with me tonight
 (Stay with me)
 
-
-
-
 I've had the time of my life
 No, I never felt this way before
 Yes, I swear it's the truth

@@ -73,10 +73,6 @@ And when you kiss me
 I want to say I love you
 Again and again
 
-
-
-
-
 I may seem confused
 But I just can't stop loving you
 

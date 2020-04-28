@@ -55,7 +55,7 @@ Hoping that she might appear, out of nowhere
 But you fail to see
 
 All the hurt inside, the wounded pride
-Ooh what she went through for you
+Oh what she went through for you
 You cheated and lied, as her love slowly died
 And her heart just broke in two
 
@@ -104,7 +104,7 @@ When her heart turns to stone
 Listen to her cry
 Listen to her cry
 She's a woman now
-Ooh it's a sad thing to see
+Oh it's a sad thing to see
 To see a heart turn to stone
 The heart of a woman
 A heart turned to stone

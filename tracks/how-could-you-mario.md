@@ -109,9 +109,6 @@ Good thing I found out before I bought that 7 karat for you
 You should have thought of me before you hopped in them sheets
 Damn I can't believe that you did this to me
 
-
-
-
 Girl I tried to give you everything
 Can't believe the ways you repaid me
 Girl you had it all

@@ -71,7 +71,7 @@ No, she won't now
 (Girl, you're too young)
 You're too young, girl
 (Your papa shout about it)
-Yes, he will now, ooh, yeah
+Yes, he will now, oh, yeah
 
 (Girl, you're too young)
 You're too young, girl

@@ -90,7 +90,7 @@ He told me several times that he didn't like my kind
 'Cause I was a bit too leisurely
 Seems that I was busy doing something close to nothing
 But different than the day before
-That's when I saw her, ooh, I saw her
+That's when I saw her, oh, I saw her
 She walked in through the out door, out door
 She wore a...
 

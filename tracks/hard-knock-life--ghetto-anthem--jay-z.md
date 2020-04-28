@@ -104,10 +104,10 @@ Let it bump though
 
 
 It's the hard knock life (uh-huh) for us
-It's the hard knock life, for us!!
+It's the hard knock life, for us!
 Steada treated, we get tricked
 Steada kisses, we get kicked
-It's the hard knock life!!
+It's the hard knock life!
 
 
 From standin on the corners boppin
@@ -116,8 +116,8 @@ For droppin some of the hottest verses rap has ever heard
 From the dope spot, with the smoke Glock
 fleein the murder scene, you know me well
 from nightmares of a lonely cell, my only hell
-But since when y'all niggaz know me to fail?  Fuck naw
-Where all my niggaz with the rubber grips, bust shots
+But since when y'all niggas know me to fail?  Fuck naw
+Where all my niggas with the rubber grips, bust shots
 And if you with me mom I rub on your tits, and what-not
 I'm from the school of the hard knocks, we must not
 let outsiders violate our blocks, and my plot
@@ -126,18 +126,18 @@ Let's take the dough and stay real jiggy, uh-huh
 And sip the Cris' and get pissy-pissy
 Flow infinitely like the memory of my nigga Biggie, baby!
 You know it's hell when I come through
-The life and times of Shawn Carter 
-nigga Volume 2, y'all niggaz get ready
+The life and times of Shawn Carter
+nigga Volume 2, y'all niggas get ready
 
 
-It's the hard knock life, for us 
-It's the hard knock life, for us!!
+It's the hard knock life, for us
+It's the hard knock life, for us!
 Steada treated, we get tricked
 Steada kisses, we get kicked
-It's the hard knock life!!
+It's the hard knock life!
 
 
-I flow for those 'dro'ed out; all my niggaz 
+I flow for those 'dro'ed out; all my niggas
 locked down in the ten by fo', controllin the house
 We live in hard knocks, we don't take over we borrow blocks
 Burn em down and you can have it back daddy, I'd rather that
@@ -155,15 +155,15 @@ I'm tight grill when my situation ain't improvin
 I'm tryin to murder everything movin, feel me?!
 
 
-It's the hard knock life, for us 
-It's the hard knock life, for us!!
+It's the hard knock life, for us
+It's the hard knock life, for us!
 Steada treated, we get tricked
 Steada kisses, we get kicked
-It's the hard knock life, for us 
-It's the hard knock life, for us!!
+It's the hard knock life, for us
+It's the hard knock life, for us!
 Steada treated, we get tricked
 Steada kisses, we get kicked
-It's the hard knock life!! 
+It's the hard knock life!
 
 
 I don't how to sleep, I gotta eat, stay on my toes
@@ -176,17 +176,17 @@ So I stretched the game out, X'ed your name out
 Put Jigga on top, and drop albums non-stop for ya, nigguh!
 
 
-It's the hard knock life, for us 
-It's the hard knock life, for us!!
+It's the hard knock life, for us
+It's the hard knock life, for us!
 Steada treated, we get tricked
 Steada kisses, we get kicked
-It's the hard knock life, for us 
-It's the hard knock life, for us!!
+It's the hard knock life, for us
+It's the hard knock life, for us!
 Steada treated, we get tricked
 Steada kisses, we get kicked
-It's the hard knock life!!
-.. It's the hard knock life!!
-.. It's the hard knock life!!
+It's the hard knock life!
+.. It's the hard knock life!
+.. It's the hard knock life!
 
 
 

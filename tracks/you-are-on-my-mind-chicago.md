@@ -67,7 +67,7 @@ And wishing you were in my arms
 And loving me completely
 Rocky mountain highs are very nice
 But you are gone and nothing's quite the same
-L.A. is so far away and i can't
+L.A. is so far away and I can't
 Stand another day
 Without you by my side
 Though I've tried, tried, tried

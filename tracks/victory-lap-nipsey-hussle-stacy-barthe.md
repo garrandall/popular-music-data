@@ -39,7 +39,7 @@ Circle got smaller, everybody can't go
 Downtown diamond district, jewelers like "Yo
 Hussle holler at me, I got Cubans on the low"
 Flew to Cancun, smokin' Cubans on the boat
-Then docked at Tulum just to smoke, 
+Then docked at Tulum just to smoke,
 
 look
 Listening to music at the Mayan Ruins
@@ -110,7 +110,7 @@ We gotta make it
 Yeah we gotta
 We gotta make
 Oh, we gotta make it
-Oh, ooh
+Oh, oh
 We gotta make it, oh
 Victory lap
 

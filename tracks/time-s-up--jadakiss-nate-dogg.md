@@ -51,7 +51,7 @@ Don't get me wrong, lay a nigga down if he force me
 Rather just sit back and roll a dutch
 Think how I'ma put the game in the cobra clutch
 Think about how I'ma get the 'caine over Customs
-Never underestimate niggaz, or over trust them
+Never underestimate niggas, or over trust them
 Uh...yeah them M's is right in my face
 I just gotta throw my Timbs on and tighten my lace
 If it don't jam, the Tech will spray
@@ -88,7 +88,7 @@ if not rap for the fact of how real he is, whatever
 
 
 
-Aiyo, niggaz know the champ is in here
+Aiyo, niggas know the champ is in here
 He took it from crack to rap, now he put out two anthems a year
 And I just wanna rock for a century
 Then chase the book with the documentary
@@ -104,8 +104,4 @@ Ya'll ain't fuckin with Jason
 After I cash in, there's really no justification
 Of how I'm gonna change the game, so don't get outta line
 Cause this little nine will change your frame, what up
-
-
-
-
 

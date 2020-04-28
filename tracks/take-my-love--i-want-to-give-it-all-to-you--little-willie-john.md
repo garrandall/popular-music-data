@@ -22,7 +22,7 @@ Oh, take my arms, too (take my arms, too, take my arms)
 My love is your love
 Darling, no one else will do (so, oh)
 
-Ooh-ooh-whoa
+Oh-oh-whoa
 Take my hand
 (Babe, I believe yeah, really I believe, yeah)
 I need you when the day is through
@@ -47,9 +47,9 @@ For which I've no control (control, control, control)
 My-i life, my lovin' soul
 Never let it run cold (a-oh, a-oh)
 
-Aaah, Aaah, Aaah, Aaah
+Ah, Ah, Ah, Ah
 Unk. spoken: 'B'
-Aaah, Aaah, Aaah, Aaah
+Ah, Ah, Ah, Ah
 
 I really love you (love you)
 An' I believe you love me, too (me, too)
@@ -70,6 +70,6 @@ Darlin', never let it run cold (cold, cold, cold)
 My-i life, is your life
 Never let it run cold
 
-Ooh-oh my life, my life, my life
+Oh-oh my life, my life, my life
 Is your love
 Never let it run a-cold

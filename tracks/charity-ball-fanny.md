@@ -48,9 +48,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-11-20'
 ---
-Dance, ooh, stand, ooh
+Dance, oh, stand, oh
 Move to charity ball
-Dance, ooh, stand, ooh
+Dance, oh, stand, oh
 Move to charity ball
 
 Get the musicians ready
@@ -61,9 +61,9 @@ Give em everything you've got
 You got my number
 
 Charity ball
-Ooh, stand, ooh
+Oh, stand, oh
 Move to Charity Ball
-Dance, ooh, stand, ooh
+Dance, oh, stand, oh
 Move to charity ball
 
 Come on and grab a partner

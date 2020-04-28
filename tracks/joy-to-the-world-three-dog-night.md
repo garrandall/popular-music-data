@@ -132,7 +132,7 @@ I said a straight shootin' (son of a gun)
 (All the boys and girls) now
 (Joy to the fishes in the deep blue sea)
 (Joy to you and me)
-Ahhhh yeah!
+Ah yeah!
 
 
 (Joy to the world) yeah YEAH!

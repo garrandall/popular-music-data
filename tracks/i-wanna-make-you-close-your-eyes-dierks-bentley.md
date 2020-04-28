@@ -103,7 +103,7 @@ I wanna make you close your eyes... oh yeah
 You can make me work for it girl if you want to
 Just leave a trail for me to follow you into the bedroom
 And if you need a little bit of help from me
-Babe there's not a button that I cant reach
+Babe there's not a button that I can't reach
 Lets see where it leads
 
 We're wide awake but girl I wanna make you close your eyes

@@ -129,7 +129,3 @@ I know that life won't break me
 When I come to call she won't forsake me
 I'm loving angels instead
 
-
-
-
-

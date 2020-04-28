@@ -77,14 +77,14 @@ Just look at me soarin'
 Feelin' like Jordan
 
 
-Aaah Ah
+Ah Ah
 Hold up I ain't finished yet
 On the top but you just don't get it yet
 I don't get cut
 I make them cut the check
 Can't hear me in the stands
 Let me say it again
-Aaah Ah
+Ah Ah
 You ain't heard I'm the shit
 On the top but you just don't get it yet
 I never got cut but I make them cut the check
@@ -118,14 +118,14 @@ Just look at me soarin'
 Feeling like Jordan
 
 
-Aaah Ah
+Ah Ah
 Hold up I ain't finished yet
 On the top but you just don't get it yet
 I never got cut
 I make them cut the check
 Can't hear me in the stands
 Let me say it again
-Aaah Ah
+Ah Ah
 If you ain't heard I'm the shit
 On the top but you just don't get it yet
 I never got cut but I make them cut the check

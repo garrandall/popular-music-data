@@ -12,8 +12,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-02-10'
 ---
-Would you, oooh?
-Would you, oooh?
+Would you, oh
+Would you, oh
 
 
 Hey, I know this might sound weird to say (To say)

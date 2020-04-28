@@ -69,7 +69,7 @@ I'll do you no wrong
 Do me good
 I'll do you no harm, girl
 
-Ooh, ain't gonna put you down
+Oh, ain't gonna put you down
 Just let me hang around
 
 If you've got a dollar bill
@@ -100,7 +100,7 @@ Gonna buy you a washing machine
 And ironing board so you can
 Keep your new dress pressed, girl
 
-Ooh, I'm gonna keep you fine
+Oh, I'm gonna keep you fine
 I got to make you mine, mine
 Mine, mine, all mine
 

@@ -82,8 +82,8 @@ When I count to three
 
 Working
 Working up a black sweat
-I'm working, ohh
-Working up a black sweat, ohh
+I'm working, oh
+Working up a black sweat, oh
 Working
 Working up a black
 

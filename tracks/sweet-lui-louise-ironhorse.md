@@ -86,8 +86,7 @@ Please stay with me
 
 My sweet Louise, my sweet Louise
 Sweet, sweet Lui-Lui-Louise
-My sweet Louise, my sweet Lou-eeee-ise
+My sweet Louise, my sweet Lou-ee-ise
 Sweet Louise, my sweet Louise
 Lui-Lui-Louise, my sweet Louise
 
-Chorus

@@ -59,7 +59,7 @@ I'll promise to you from the top of my soul
 The bottom of my heart, girl, don't you know
 I love you then, I love you now and will forever more
 
-Have I never (Ooh) told you I love you (Told)
+Have I never (Oh) told you I love you (Told)
 Have I never told you the words
 Baby, I love you, you know I love you
 Just know that I love you
@@ -75,7 +75,7 @@ I promise to you from the tip of my heart
 To the depths of my soul I pray that you know
 I love you now, I love you then and will forever more
 
-Have I never (Oh, ho) told you I love you 
+Have I never (Oh, ho) told you I love you
 Have I never (Have I never, never) told you the words
 Baby, I love you (Baby, I, you know I), you know I love you
 Just know that I love you (Yeah)

@@ -40,7 +40,7 @@ I'm gonna get my drink on, I wanna hear me a sad song. My baby just left home, I
 I belong, I'm gonna stay 'till the money's gone. If it takes me all night long, I'm gonna get my drink on.
 
 There's a cold bar stool for a hot-headed fool, and I'm gonna hop right to it. Or a seat a table with a jug of black label
-When a 12-pack wont quite do.
+When a 12-pack won't quite do.
 
 (Chorus)
 I'm gonna get my drink on, I wanna hear me a sad song. My baby just left home, I didn't treat her right. Right here's where

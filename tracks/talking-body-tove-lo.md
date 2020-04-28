@@ -187,7 +187,7 @@ We fuck for life
 On and on and on (On and on and on)
 
 
-Oh, ooh (Hey)
+Oh, oh(Hey)
 Bodies! Our baby making bodies we just use for fun
 Bodies! Let's use them up 'til every little piece is gone
 (Let's go) On and on and on
@@ -202,7 +202,7 @@ Swear it won't take you long
 If you love me right
 We fuck for life
 On and on and on
-Ooh, now if we're talking body (Hey)
+Oh now if we're talking body (Hey)
 You got a perfect one
 So put it on me (Hey)
 Swear it won't take you long

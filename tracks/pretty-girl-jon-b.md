@@ -89,10 +89,10 @@ rankings:
   start_date: '1996-01-13'
 ---
 
-Your lips, your smile, your tenderness, ooh baby
+Your lips, your smile, your tenderness, oh baby
 The way you walk, I can't resist your style
-When I sleep at night, I dream of you, ooh baby
-I wake up wet, thinking of you, ooh baby
+When I sleep at night, I dream of you, oh baby
+I wake up wet, thinking of you, oh baby
 How can a man like me
 Convince a girl like you
 To be his lover and one and only
@@ -113,7 +113,7 @@ I'll slide down south to taste you right
 You taste so good to me
 How does a man like me
 Seduce a girl like you
-How can I make you my one and only 
+How can I make you my one and only
 How can I make you scream
 There's no one else for you
 'And nobody does it like me, baby

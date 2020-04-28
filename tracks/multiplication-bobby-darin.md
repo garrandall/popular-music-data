@@ -71,7 +71,7 @@ They play the same
 Let me tell ya now …I say one and one is five
 You can call me a silly goat
 But, ya take two minks add two winks
-Ahhh ... ya got one mink coat
+Ah ... ya got one mink coat
 
 When a girl gets coy in front of a boy
 After three or four dances

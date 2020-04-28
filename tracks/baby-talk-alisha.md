@@ -125,9 +125,6 @@ So, honey, let's not throw our love away
 Let's try to work it out
 Before too late
 
-
-
-
 You don't have to worry, baby
 You don't have to fear
 Tell me all the things you feel

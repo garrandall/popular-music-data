@@ -106,9 +106,6 @@ Que cantamos bien borrachos
 Que bailamo' bien borrachos
 Nos besamo' bien borracho' lo' do'
 
-
-
-
 Y yo pensaba que tu nombre estaba muerto, eh
 Pero te soñé despierto, ey
 Hoy salí pa' la calle suelto

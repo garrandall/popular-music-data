@@ -71,7 +71,7 @@ I kick my shoes off
 And we'll dream about some dreams
 Come on Sunday Sun,
 We got some plans to make
-We go walking.....
+We go walking...
 
 
 

@@ -28,7 +28,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-06-15'
 ---
-La da da da da da da da da da, hey yeah, ooh
+La da da da da da da da da da, hey yeah, oh
 
 
 Your body's warm, but you're still unsure
@@ -39,13 +39,13 @@ Tell me can we lay
 
 
 Let's lay together
-Ooh hoo baby
+Oh hoo baby
 Let's lay together
 Tell me can we lay
 Let's lay together
 Lay ay ay ay, yeah, oh baby
 Let's lay together
-Ooh, oh hoo oh hoo
+Oh, oh hoo oh hoo
 
 
 Heaven's to blame for this love affair
@@ -89,7 +89,7 @@ Let's lay together
 
 Yeah, well well well, I can make your body sing, baby
 Ting a ling a ling, ting a ling, ting a ling, baby
-Well well well well, ooh hoo hoo hoo
+Well well well well, ohhoo hoo hoo
 Can we lay? Can we lay?
 Let's lay together
 Can we lay? Can we lay, baby?

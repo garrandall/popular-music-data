@@ -110,7 +110,7 @@ I need someone
 On days like this, I do
 On days like this
 Oh, can you hear my heart say
-Ooohhhh, ooh
+Oh, oh
 No, you ain't nobody 'til you got somebody
 You ain't nobody 'til you got somebody
 
@@ -137,11 +137,11 @@ I need someone
 On days like this, I do
 On days like this
 Oh, can you hear my heart say
-Ooohhhh, ooh
+Oh, oh
 You ain’t nobody 'til you got somebody
 You ain't nobody 'til you got somebody
 My heart's like
-Ooooh, ooh
+Oh, oh
 No, you ain't nobody 'til you got somebody
 You ain't nobody 'til you got somebody
 
@@ -162,13 +162,13 @@ I need someone
 On days like this, I do
 On days like this
 Oh, can you hear my heart say
-Ooohhhh, ooh
+Oh, oh
 You ain't nobody 'til you got somebody
 You ain't nobody 'til you got somebody
 
 
 My heart's like
-Ooooh, ooh
+Oh, oh
 Everything I need
 Is standing right in front of me
 I know that we will be alright, alright, yeah

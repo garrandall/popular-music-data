@@ -69,7 +69,6 @@ Can't treat his woman right
 Give her good loving day and night
 He sure oughta
 
-(chorus)
 Give it up, turn it loose
 (Turn it up loose)
 Give it up, turn it loose
@@ -84,17 +83,15 @@ You will finally find out for yourself
 There ain't no love between
 The two of you left
 
-(chorus)
 When you try as hard as you can
 To do what you think is right
 And still, you get that
 Same old cold shoulder
-Ooh, that same old shoulder
+Oh, that same old shoulder
 Late at night, late at night
 
 Here's what you do
 
-(chorus)
 When you've done all you can do
 GIve it up
 When you see it just ain't no use
@@ -110,7 +107,6 @@ With love on your mind
 You're thinking about the love
 That you just get sometime
 
-(chorus)
 When you have someone
 Sitting there by your side
 And ain't no company at all
@@ -118,6 +114,5 @@ All you need is a little loving touch
 And when you don't get it
 It hurts you so much
 
-(chorus)
 Give it up, give it up
 Give it up, baby, turn it loose

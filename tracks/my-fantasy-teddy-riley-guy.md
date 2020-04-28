@@ -102,9 +102,6 @@ That body was so kicking
 Hey fellas
 It's just a thing I need
 
-
-
-
 Girl, I’m like
 A piece of my love when you spend the night
 When you groove me, everything’s right
@@ -114,9 +111,6 @@ The jam with Teddy and the rest of Guy
 Hello, Love and I said “Goodbye!”
 Don’t clap, just D-A-N-C-E
 With my fantasy
-
-
-
 
 I wish my fantasy
 Yeah

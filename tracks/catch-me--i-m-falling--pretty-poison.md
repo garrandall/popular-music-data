@@ -148,9 +148,6 @@ Your sweet love and devotion
 Baby, it's magic
 A magical thing
 
-
-
-
-Ooooh, baby
+Oh, baby
 What can I do?
 I'm falling for you

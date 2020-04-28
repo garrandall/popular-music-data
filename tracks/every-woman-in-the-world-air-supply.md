@@ -112,9 +112,9 @@ I was dancin' in the dark with strangers
 No love around me, when suddenly you found me, oh
 
 
-Girl you're ev'ry woman in the world to me
+Girl you're every woman in the world to me
 You're my fantasy, you're my reality
-Girl you're ev'ry woman in the world to me
+Girl you're every woman in the world to me
 You're ev'rything I need
 You're ev'rything to me, oh girl
 
@@ -122,7 +122,7 @@ Ev'rything good, ev'rything fine
 That's what you are
 So put your hand in mine and together
 We'll climb as high as the highest star
-I'm living a lifetime in ev'ry minute that we're together
+I'm living a lifetime in every minute that we're together
 And I'm stayin' right here forever oh
 
 

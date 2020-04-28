@@ -32,8 +32,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-10-17'
 ---
-Ooh, ooh-ooh-ooh, ooh-ooh-ooh
-Ooh-ooh-ooh, ooh-ooh-ooh
+Oh ohoohhohh-ohoohoh
+Ohohoohohoh-ohoh
 
 I wouldn't trade you for the world
 Or the pearls in the sea (pearls in the sea)

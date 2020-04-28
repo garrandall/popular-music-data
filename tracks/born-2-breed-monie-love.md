@@ -45,7 +45,6 @@ Everything about my little one I must protect
 What she sees, what she hears, and everything surrounding
 A decent state of mind is what my daughter will be found in
 
-Chorus:
 
 Born 2 B.R.E.E.D
 Young mother be thankful, be strong
@@ -67,7 +66,6 @@ You're subject to the devious ones that might be hawkin'
 I'll teach my child to respect every day as a blessing
 And follow the path of her future lesson by lesson
 
-Chorus
 
 
 So ask me again if I need ghetto assistance
@@ -81,4 +79,3 @@ If I was already deaf I would be getting deafer
 I know exactly what I'm doing, in it I believe
 My life is in my offspring 'Cause I was born 2 B.R.E.E.D
 
-Chorus

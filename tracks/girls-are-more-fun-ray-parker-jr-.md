@@ -69,7 +69,7 @@ rankings:
   start_date: '1986-01-11'
 ---
 
-Girls are more fun, ooh, ooh
+Girls are more fun, oh, oh
 Girls are more fun
 The party ain't begun
 'Till all the girls come
@@ -87,17 +87,17 @@ Please understand, she took me by the hand
 And pulled me closer than you wanna know
 Then she whispered to me
 
-Girls are more fun, ooh, ooh
+Girls are more fun, oh, oh
 Girls are more fun
 The party ain't begun
 'Till all the girls come
-'Cause girls are more fun, ah, ooh
+'Cause girls are more fun, ah, oh
 
 Good night turned to late night
 We're still on the floor, uh
 Drove my mind through the red light
 Before she said, go, uh, well
-(Baby let's go) 
+(Baby let's go)
 
 It was party time, her body close to mine
 That familiar line, dancin' slow, ho
@@ -105,7 +105,7 @@ It was up and down, in, out, and all around
 She never made a sound 'till she let go
 It when somethin' like this, oh
 
-Girls are more fun, ooh, ooh
+Girls are more fun, oh, oh
 You know the girls are more fun, mmm
 The party ain't begun
 'Till, uh, 'till everyone
@@ -135,26 +135,26 @@ The magic stare
 nothing can compare
 Its the best feelin anywhere
 
-Girls are more fun, ooh, ooh
+Girls are more fun, oh, oh
 Girls are more fun
 The party ain't begun
 'Till all the girls come
 Cause girls are more fun
 
-Everybody say, yeah 
+Everybody say, yeah
 Girls are more fun, yeah
 Put your hands in the air
 If you believe that the girls
 The girls are more fun
 Let me hear you
 
-Girls are more fun 
+Girls are more fun
 Girls are more fun, yeah, hoo
-Girls are more fun 
-You know the girls are more fun 
+Girls are more fun
+You know the girls are more fun
 
-Girls are more fun 
-Girls are more fun 
+Girls are more fun
+Girls are more fun
 Girls are more fun
 
 

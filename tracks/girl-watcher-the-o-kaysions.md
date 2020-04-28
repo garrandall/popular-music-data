@@ -72,7 +72,7 @@ My, my, my
 I'm a girl watcher
 I'm a girl watcher
 Here comes one now
-Mmmm, mmm, mmm
+Mmm, mmm, mmm
 
 I was just a boy
 When I threw away my toys

@@ -28,7 +28,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-10-14'
 ---
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 (Yo, yo, yo uh)
 
 Why you got an attitude?
@@ -39,7 +39,7 @@ When you see me out in the street boy
 (Ugh)
 You wanna embarass me, call me names
 Slap my face until
-Until you see my friends come, ooh
+Until you see my friends come, oh
 Then you wanna try to console me, oh
 (Uh-huh, yo, yo)
 But they already know boy
@@ -64,7 +64,7 @@ Soon as I let my guard down
 Oh there you go again
 In my grill till I call the cops then
 Then you wanna chill out and say
-(Ooh, say what?)
+(Oh, say what?)
 I'm the one who's buggin'
 (Oh)
 But, no, no it's you, you see
@@ -72,7 +72,6 @@ But, no, no it's you, you see
 Every time I go out
 You come grabbin' all over me
 
-Chorus
 
 Why you trippin?
 Get your hands off me

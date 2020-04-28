@@ -158,18 +158,18 @@ All right right
 
 I'm lost without you!
 Can't help myself
-How does it feel to know that i love you baby?
+How does it feel to know that I love you baby?
 I'm lost without you
 Can't help myself
-How does it feel to know that i love you baby?
+How does it feel to know that I love you baby?
 
-Ooh yeah
+Oh yeah
 Oh baby
 Oh darlin'
 All right right
 Oh baby
 Oh darlin'
-Ooh ooh baby
+Oh ohbaby
 All right right... yeah.
 
 

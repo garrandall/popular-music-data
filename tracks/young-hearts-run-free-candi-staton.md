@@ -93,7 +93,7 @@ They'll never be hung up
 Hung up like my man and me
 My man and me
 
-Ooh, young hearts
+Oh young hearts
 To yourself be true
 Don't be no fool when love really don't love you
 Don't love you
@@ -117,7 +117,7 @@ They'll never be hung up
 Hung up like my man and me
 You and me
 
-Ooh, young hearts
+Oh young hearts
 To yourself be true
 Don't be no fool when love really don't love you
 Don't love you
@@ -132,7 +132,7 @@ To yourself be true
 Don't be no fool when love really don't love you
 It don't love you
 
-Ooh, young hearts run free
+Oh young hearts run free
 They'll never be hung up
 Hung up like my man and me
 My man and me
@@ -142,6 +142,6 @@ To yourself be true
 Don't be no fool when love really don't love you
 Don't love you
 
-Ooh, young hearts run free
+Oh young hearts run free
 They'll never be hung up
 Hung up like my man and me

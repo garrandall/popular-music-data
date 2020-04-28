@@ -61,17 +61,17 @@ Guess who's bizack?
 You still smellin crack in my clothes
 Don't make me have to relapse on these hoes
 Take it back out to taxin them roads
-When I was huggin it, niggaz couldn't do nuttin wit it
+When I was huggin it, niggas couldn't do nuttin wit it
 Straight from the oven wit it - came from the dirt
 I emerged from it all without a stain on my shirt
 You can blame my old earth, for the shit she instilled in me
 Still with me, pain plus work
 Shit she made me milk this game for all it's worth
-That's right, these niggaz can't fuck with me
+That's right, these niggas can't fuck with me
 I'm callin guts everytime, drag my nuts everytime
 Homey, we make a great combination don't we?
 Me and the Face Mob, everytime we face-off
-Face it y'all, y'all niggaz playin basic ball
+Face it y'all, y'all niggas playin basic ball
 I'm on the block like I'm eight feet tall
 Homey, I'm in the drop with the AC on
 That's why the, streets embrace me dawg, I'm so cool!
@@ -91,7 +91,7 @@ Motels, star-studded, rock stars and goons
 Plain clothes wanna run in my room (whooooo...)
 But nigga guess who's bizack? It's ya boy Face Mob
 Started with an eightball, gotta get this cake dawg
-Give niggaz a break, nah, you know how the game go
+Give niggas a break, nah, you know how the game go
 Fuck you think I slang fo', to go against the grain (no)
 I'm out here to grind mo', rapped up in the paper chase
 I wanna fuck a fine hoe and candy paint the 88

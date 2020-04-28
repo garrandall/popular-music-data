@@ -94,19 +94,19 @@ H.I.V.
 What started off as a plan
 Ended up in the plot
 Ya betta cool ya ass off
-Cuz it's too damn hot....
+Cuz it's too damn hot...
 
 
-Oooh It's Too Hot
-T  o  o   H  o  t
+Oh It's Too Hot
+Too hot
 Too Hot lady
-T  o  o   H  o  t
+Too hot
 Gotta run for shelter
 Gotta run for shade
 It's Too Hot
-T  o  o   H  o  t
+Too hot
 Too Hot homie
-T  o  o   H  o  t
+Too hot
 Gotta make some sense from this mess that we made
 
 Your doin' everything momma told ya not to do
@@ -155,9 +155,5 @@ Another victim of the lust
 In God we trust
 What started off as a plan
 Ended up in the plot
-Water can't cool it off cuz it's too damn hot....
-
-
-
-
+Water can't cool it off cuz it's too damn hot...
 

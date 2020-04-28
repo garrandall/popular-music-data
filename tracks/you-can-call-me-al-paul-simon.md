@@ -167,9 +167,6 @@ I can call you Betty
 And Betty, when you call me, you can call me Al
 Call me Al
 
-
-
-
 A man walks down the street
 It's a street in a strange world
 Maybe it's the third world

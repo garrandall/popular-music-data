@@ -45,7 +45,7 @@ But I love you
 Always treat me like a fool
 Kick me when I'm down that's your rule
 I don't know why I love you
-But I love you ooooooh
+But I love you oh
 Oh you never stop your
 Cheating ways with another guy
 You laugh in my face
@@ -78,7 +78,7 @@ Sure enough, baby, yeah
 I don't know, you don't know
 We don't know none of us
 Can't do nothing about it
-I don't know baby, I don't know aaaahhhh
+I don't know baby, I don't know ah
 Oh baby, I don't know, I don't know
 You don't know nothing about it
 Nobody can do nothing about it

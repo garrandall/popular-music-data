@@ -103,8 +103,8 @@ Showers, your love comes in showers
 And every hour on the hour
 You let me feel your loving power
 
-There's a rainbow over my shoulder (ooh, ooh)
-When you came, my cup runneth over (ooh, ooh)
+There's a rainbow over my shoulder (oh, oh)
+When you came, my cup runneth over (oh, oh)
 You gave me your heavenly love
 And if one night you hear crying from above
 
@@ -113,13 +113,13 @@ Missing one angel, child, cause you're here with me right now
 (Your love is heavenly, baby)
 (Heavenly to me, baby)
 
-Ooh (heaven, heaven)
-Ooh (heaven, heaven)
-Ooh (heaven, heaven)
+Oh (heaven, heaven)
+Oh (heaven, heaven)
+Oh (heaven, heaven)
 (Heaven, heaven)
 
-Ooh, I'm captured by your spell (ooh, ooh)
-You're different, girl, I can tell (ooh, ooh)
+Oh, I'm captured by your spell (oh, oh)
+You're different, girl, I can tell (oh, oh)
 When you're laying on my pillow, baby
 Above your pretty head, there's a halo, that's why I know
 
@@ -128,12 +128,12 @@ Above your pretty head, there's a halo, that's why I know
 (Your love is heavenly, baby)
 (Heavenly to me, baby)
 
-Ooh, my sweet little angel
+Oh, my sweet little angel
 (Heaven) my pretty little angel
 (Heaven) I love you, love you, love you, love you, love you, baby, say right now
 (Heaven)
 
-(Heaven) ooh, heaven
+(Heaven) oh, heaven
 (Heaven, heaven) must be missing an angel
 (Heaven, heaven) missing one angel, child cause you're here with me right now
 (Heaven, heaven) oh, my heaven
@@ -146,30 +146,30 @@ You must have slipped away along the Milky Way
 It's cause (your kiss) your kiss (filled with tenderness)
 You came C.O.D. on a moonbeam straight to me
 Just like (showers) showers (showers, showers, showers)
-(Ooh, ooh, ooh)
-(Ooh, ooh, ooh)
-(Ooh, ooh, ooh)
-(Ooh, ooh, ooh)
+(Oh, oh, oh)
+(Oh, oh, oh)
+(Oh, oh, oh)
+(Oh, oh, oh)
 
 Your heavenly power gets stronger by the hour
 (Heaven must be missing an angel)
 I'm captured by your spell, oh, girl, can't you tell
 (Heaven) heaven (must be missing an angel)
 
-(Heaven, heaven) Ooh, ooh
-(Heaven, heaven) Ooh, ooh
-(Heaven, heaven) Ooh, ooh
-(Heaven, heaven) ooh say so-so good, say so-so good, say so-so good, baby, mmm
+(Heaven, heaven) Oh, oh
+(Heaven, heaven) Oh, oh
+(Heaven, heaven) Oh, oh
+(Heaven, heaven) oh say so-so good, say so-so good, say so-so good, baby, mmm
 (It's just so good, so good, so good) yeah
 (It's just so good, so good, so good) I love the way you move
 I love the way you groove
-(It's just so good, so good, so good) ooh
+(It's just so good, so good, so good) oh
 (It's just so good, so good, so good) Just like heaven, oh, baby
 (It's just so good, so good, so good) Heaven, yeah
 
 (Heaven, heaven)
-(Heaven, heaven) ooh, heaven
-(Heaven, heaven) ooh, your love is so good
+(Heaven, heaven) oh, heaven
+(Heaven, heaven) oh, your love is so good
 (Heaven, heaven) oh, baby, got to have your love, yeah
 (Heaven, heaven) need it bad, Lord, baby, yeah
 (Heaven, heaven) I got to have your love, yeah

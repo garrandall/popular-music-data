@@ -144,7 +144,3 @@ I see the beauty that God has created
 And I love you girl
 Now and forever
 
-
-
-
-

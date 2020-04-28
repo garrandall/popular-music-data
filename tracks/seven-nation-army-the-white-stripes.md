@@ -117,11 +117,6 @@ But that's what I'll do
 And the feeling coming from my bones
 Says "Find a home"
 
-
-
-
-
-
 I'm going to Wichita
 Far from this opera forevermore
 I'm gonna work the straw

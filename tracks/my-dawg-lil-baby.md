@@ -78,7 +78,7 @@ I can't be fuckin' these lil bitty bitches
 I'm really runnin' this town
 Frank Mueller watch for my wrist
 'Nother thirty thousand in my fit
-Codeine all in my piss (Ooh)
+Codeine all in my piss (Oh
 I don't take drugs no more
 Baby mama trippin' 'bout a bitch
 I'm just tryna take care my kid

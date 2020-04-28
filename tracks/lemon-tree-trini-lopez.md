@@ -52,7 +52,6 @@ A girl so sweet that when she smiled, the stars rose in the sky
 We passed that summer lost in love, beneath the lemon tree
 The music of her laughter hid my father's words from me
 
-Chorus
 
 One day she left without a word, she took away the sun
 And in the dark she left behind, I knew what she had done

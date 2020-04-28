@@ -21,22 +21,22 @@ Both our hearts beat as one
 But then I felt her slip away
 As a cloud stole the sun
 
-And the he-e-e-avens cri-i-i-ied...
+And the heavens cried
 
-And the tears filled the stre-e-e-am...
+And the tears filled the stream
 And the stream filled the river
 The river filled the sea
 All because, she took her love
-Away from me-e-e-e-e...
+Away from me
 Though each dawn brings the sun again
 
 Yesterday will remain
 Every day I'll remember when
 All the clouds filled with rain
-And the heavens crieeeed...
+And the heavens cried
 
-And the tears filled the streaaaaaam...
+And the tears filled the stream
 And the stream filled the river
 The river filled the sea
 All because, she tock her love
-Away from meeee... eee...!
+Away from me

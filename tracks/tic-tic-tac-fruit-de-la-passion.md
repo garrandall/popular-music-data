@@ -52,7 +52,7 @@ Is moving on and out
 You said it'd be alright
 
 How 'bout these notions
-Hmm, they're deep as ocean
+Hm, they're deep as ocean
 Calling out my name
 Screaming out in vain
 Singing hallelujah
@@ -69,13 +69,13 @@ I will follow you
 Into the dark
 
 How 'bout these notions
-Hmm, they're deep as ocean
+Hm, they're deep as ocean
 Calling out my name
 Screaming out in vain
 Singing hallelujah
 
 These notions
-Hmm, they're deep as ocean
+Hm, they're deep as ocean
 Calling out my name
 Screaming out in vain
 Singing hallelujah

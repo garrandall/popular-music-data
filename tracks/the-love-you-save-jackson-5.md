@@ -103,9 +103,6 @@ He said he rang your chimes.
 Christopher discovered
 You're way ahead of your times!
 
-
-
-
 Slow down.
 Slow down.
 Slow down.

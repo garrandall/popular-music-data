@@ -58,7 +58,7 @@ Whenever you're near, I hear a symphony
 A tender melody
 Pulling me closer, closer to your arms
 Then suddenly (I hear a symphony)
-Ooh, your lips are touching mine
+Oh, your lips are touching mine
 A feeling so divine
 Till I leave the past behind
 I'm lost in a world
@@ -82,7 +82,7 @@ Whispering how much you care
 A thousand violins fill the air, now, baby, baby
 Don't let this moment end
 Keep standing close to me
-Ooh, so close to me, baby, baby, baby, baby
+Oh, so close to me, baby, baby, baby, baby
 I hear a symphony
 A tender melody
 

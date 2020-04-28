@@ -110,9 +110,6 @@ I don't care about the sunshine, yeah
 'Cause Mama, Mama, I'm coming home
 I'm coming home
 
-
-
-
 You took me in and you drove me out
 Yeah, you had me hypnotized, yeah
 Lost and found and turned around

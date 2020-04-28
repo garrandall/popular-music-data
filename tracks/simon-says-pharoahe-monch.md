@@ -31,7 +31,7 @@ rankings:
 Uh-uh, uh-uh, uh-uh
 Uh-uh, uh-uh, uh
 Uh-uh, uh-uh, uh-uh
-Uh-uh, uh-uh, ahhh
+Uh-uh, uh-uh, ah
 
 
 Get the fuck up

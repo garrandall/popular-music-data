@@ -76,9 +76,6 @@ Say live and let die
 Live and let die
 (Live and let die)
 
-
-
-
 What does it matter to you?
 When you got a job to do
 You got to do it well
@@ -95,8 +92,5 @@ Say live and let die
 (Live and let die)
 Live and let die
 (Live and let die)
-
-
-
 
 You used to say "Live and let live" yeah

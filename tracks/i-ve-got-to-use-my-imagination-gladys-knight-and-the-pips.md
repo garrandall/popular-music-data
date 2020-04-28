@@ -103,7 +103,7 @@ When a good love dies (When a good love dies)
 Not a day goes by (Not a day goes by)
 When I don't realize (Realize)
 
-Ooh, ooh, oh, I've really got to use (I've got to use)
+Oh, oh oh, I've really got to use (I've got to use)
 My imagination (I've got to use)
 To think of good reasons (I've got to use)
 To keep on keepin' on (I've got to use)

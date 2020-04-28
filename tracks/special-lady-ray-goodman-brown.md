@@ -96,14 +96,14 @@ Sittin' on top of the world
 Somehow I knew it would be you
 To change my gray skies to blue
 And it was strange when you called my name
-Ever since that day I haven't been the same, ooh
+Ever since that day I haven't been the same, oh
 
 Before I met you, my sun didn't want to shine
 Then all of a sudden you slipped up from behind
 Pop (Pop) went the reason in my mind
 
 A sweet special lady
-And a very exciting girl (ooh, so exciting)
+And a very exciting girl (oh, so exciting)
 You gotta be a special lady (what a lady)
 'Cause you got me sittin' on top of the world
 Sittin' on top of the world

@@ -75,7 +75,7 @@ I had ever seen, fresh as she could be
 Freaky lovely thing, turned on me
 
 She's freak-a-ristic
-Ooh, she's fresh, she's fine
+Oh, she's fresh, she's fine
 She's freak-a-ristic
 Cannot get her off my mind
 

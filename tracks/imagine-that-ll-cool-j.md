@@ -95,7 +95,7 @@ You twisting, kissing ya fist like that
 Rubber meets the road till the tire goes flat
 I filled it up with air again baby hold that
 You a bad girl look you got your sheets all wet
-Squeeze tight so i never forget the teacher's pet
+Squeeze tight so I never forget the teacher's pet
 
 
 I'ma get you for your paper

@@ -134,7 +134,3 @@ Bright, so bright
 Bright, so bright
 And I get lost in your eyes tonight
 
-
-
-
-

@@ -36,7 +36,7 @@ Without you, baby
 
 I got a hot wire from my baby
 (From my baby)
-Ooh, what a sweet little telegram
+Oh what a sweet little telegram
 (From my baby)
 
 She wrote, darling, I love you

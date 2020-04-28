@@ -28,10 +28,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
 ---
-Ev'ry day
-Ev'ry day I have the blues
-Ev'ry day
-Ev'ry day I have the blues;
+Every day
+Every day I have the blues
+Every day
+Every day I have the blues;
 Well, you see me worry, baby
 Because it's you I hate to lose
 Nobody loves me
@@ -46,10 +46,10 @@ Oh, I'm gonna pack my suitcase
 Move on down the line;
 Well there ain't nobody worryin'
 And there ain't nobody cryin'
-Seems to me ev'ry day, ev'ry day
-Ev'ry day I have the blues
-Ev'ry day, ev'ry day, ev'ry day
-Ev'ry day I have the blues
+Seems to me every day, every day
+Every day I have the blues
+Every day, every day, every day
+Every day I have the blues
 You see me worry, baby
 Cause it's you I hate to lose
 Nobody loves me
@@ -58,9 +58,9 @@ Nobody loves me
 Nobody seems to care;
 Speakin' of bad luck and trouble
 Well, you know I've had my share
-Ev'ry day
-Ev'ry day I have the blues
-Ev'ry day
-Ev'ry day I have the blues;
+Every day
+Every day I have the blues
+Every day
+Every day I have the blues;
 Well, you see me worry, baby
 Because it's you I hate to lose

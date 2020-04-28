@@ -97,7 +97,7 @@ You don't need to discuss much
 Just drop off the key, Lee
 And get yourself free
 
-Ooh, slip out the back, Jack
+Oh, slip out the back, Jack
 Make a new plan, Stan
 You don't need to be coy, Roy
 Just listen to me

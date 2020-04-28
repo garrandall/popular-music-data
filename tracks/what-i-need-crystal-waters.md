@@ -86,7 +86,7 @@ What I need, I need, I need, I need
 
 
 
- (3x)
+
 I said I'm uptight, nothing right
 Can't eat, can't sleep
 All night and day I cry
@@ -95,9 +95,6 @@ I'd give my heart and soul
 I'd give me
 If someone would give me
 What I'd say, what I'd say?
-
-
-
 
 I need, what I need
 I need, I need

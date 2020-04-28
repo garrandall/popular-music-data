@@ -83,13 +83,13 @@ More bounce to the ounce
 Do it, do it, Roger, do it
 Do it, do it, Roger, do it (Wanna do it, girl)
 
-Dance-dance-dance-dance
+dance dance dance dance
 I wanna see you, girl
-Dance-dance-dance-dance
+dance dance dance dance
 
 I wanna see you, girl
 Movin' on the dance floor
-Ooh, the way you move
+Oh, the way you move
 You blow my mind, girl
 
 Good God
@@ -105,11 +105,11 @@ I can make you dance (Now baby, dance now)
 I can make you dance (Now baby, dance now)
 
 I can make you dance if you want me to
-I can make you dance-dance-dance-dance-dance-dance
+I can make you dance dance dance dance dance dance
 
-Ooh...
+Oh...
 Let me do my thing
-Ooh...
+Oh...
 Wanna do my thing, baby
 Shoo...
 Now dig my funky thing

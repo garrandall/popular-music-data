@@ -113,7 +113,7 @@ rankings:
   start_date: '2000-12-23'
 ---
 
-Ooh babe, oh girl
+Ohbabe, oh girl
 No more, no more
 Bounce baby, bounce baby
 You can move, uh
@@ -168,8 +168,4 @@ And no more hanging brigets around your neck, babe
 
 No more, I want no more
 Baby, I want no more
-
-
-
-
 

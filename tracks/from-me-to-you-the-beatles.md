@@ -51,7 +51,7 @@ With love, from me to you
 I got arms that long to hold you
 And keep you by my side
 I got lips that long to kiss you
-And keep you satisfied, oooh
+And keep you satisfied, oh
 
 
 If there's anything that you want
@@ -68,7 +68,7 @@ With love, from me to you
 I got arms that long to hold you
 And keep you by my side
 I got lips that long to kiss you
-And keep you satisfied, oooh
+And keep you satisfied, oh
 
 
 If there's anything that you want

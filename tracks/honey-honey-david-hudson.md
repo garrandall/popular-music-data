@@ -52,10 +52,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-06'
 ---
-Hhhhhhmmmmm
-Yeeeeaaaaaah
+Hm
+Yeah
 Honey, honey, girl you know i'm gonna get ya
-Honey, honey, you know that i gotta get with ya
+Honey, honey, you know that I gotta get with ya
 We've been kissing and touching
 I'm burning through and through
 If Kissing and touching really turn you on
@@ -70,8 +70,8 @@ Ohhh, honey, it's so right
 Stay right here, honey let's do it together -- together
 
 (Come here)
-Honey, honey, girl i really really really love
-Honey, honey, i wanna take care of you
+Honey, honey, girl I really really really love
+Honey, honey, I wanna take care of you
 Honey, just let me love you
 Just lay here in my arms
 Girl, hold me tight, we got all night
@@ -85,7 +85,7 @@ Let's (love) 'til broad daylight, gonna...(love)
 Ohhh, honey, it's so right
 Stay right here, honey let's do it together -- together
 
-Now honey i need encouragement
+Now honey I need encouragement
 If you want this high
 If kissing and touching really turn you on
 Let's reach for the sky

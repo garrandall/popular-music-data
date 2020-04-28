@@ -77,7 +77,7 @@ Just tell me once, before I go
 And if there's something I can say, to make you, make you see it half my way
 (Just tell me once), before I go, before I go
 
-Ooh tell me once before I go
+Ohtell me once before I go
 If there, if there's something I can say to you
 To make you see it half my way, tell me, tell me
 If there's something I can say, oh now baby, to make you turn around...

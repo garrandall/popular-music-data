@@ -60,9 +60,6 @@ Whoop, uh huh
 Yeah, bitch
 Yeah
 
-
-
-
 I see the light
 Now didn't I tell you motherfuckers
 Um, I see the light

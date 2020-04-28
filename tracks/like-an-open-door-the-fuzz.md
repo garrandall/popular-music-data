@@ -20,4 +20,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-08-14'
 ---
-Ooh, hoo, hoo
+Oh, hoo, hoo

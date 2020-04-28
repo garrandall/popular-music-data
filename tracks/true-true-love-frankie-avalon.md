@@ -56,4 +56,4 @@ I'm in love, you see
 
 Yes, I'm in love, you see
 I'm in love, you see
-Ooh, I'm in love, you see
+Oh, I'm in love, you see

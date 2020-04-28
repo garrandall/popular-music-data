@@ -148,11 +148,11 @@ Rain, rain
 
 I'll never be your mother's favorite
 Your daddy can't even look me in the eye
-Ooh, if I was in their shoes, I'd be doing the same thing
+Oh, if I was in their shoes, I'd be doing the same thing
 Saying, "There goes my little girl
 Walking with that troublesome guy"
 But they're just afraid of something they can't understand
-Ooh, but little darling watch me change their minds
+Oh, but little darling watch me change their minds
 Yeah, for you I'll try, I'll try, I'll try, I'll try
 And pick up these broken pieces till I'm bleeding
 If that'll make you mine
@@ -168,7 +168,7 @@ Everyday, it'll rain
 Rain, rain
 
 
-Ooh, don't you say (Don't you say)
+Oh, don't you say (Don't you say)
 Goodbye (Goodbye)
 Don't you say (Don't you say)
 Goodbye (Goodbye)

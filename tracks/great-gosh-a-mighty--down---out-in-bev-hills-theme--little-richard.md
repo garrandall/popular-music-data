@@ -73,18 +73,12 @@ Great Gosh A'Mighty!
 Been a long time coming
 (Great Gosh A'Mighty!)
 
-
-
-
 Great Gosh A'Mighty!
 Been a long time coming
 (Great Gosh A'Mighty!)
 Great Gosh A'Mighty!
 Been a long time coming
 (Great Gosh A'Mighty!)
-
-
-
 
 Keep on searching now
 Got to look up
@@ -93,9 +87,6 @@ Keep the faith
 I've been looking, I've been wandering
 Have you heard about the written Word
 I've been looking, I've been wandering
-
-
-
 
 Great Gosh A'Mighty! (Great Gosh A'Mighty!)
 

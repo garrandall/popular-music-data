@@ -83,7 +83,6 @@ Mark my words you're gonna get hurt
 Does your man abuse you physically or mentally?
 Change what I put, slavery you need to be free
 
-Chorus:
 
 So maybe you need to swing my way
 Markie Dee can do you right in a fly way
@@ -114,7 +113,6 @@ He tells you in a flame way
 Now you're crying on the floor
 Your man's no damn good, need I say more?
 
-Chorus
 
 Verse Three:
 

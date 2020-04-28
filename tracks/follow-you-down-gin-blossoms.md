@@ -219,9 +219,6 @@ Runnin' in an artificial pace
 Are they gonna find us lying face down in the sand
 So what the hell, have we already been forever damned?
 
-
-
-
 Anywhere you go, I'll follow you down
 Anyplace, but those I know by heart
 Anywhere you go, I'll follow you down

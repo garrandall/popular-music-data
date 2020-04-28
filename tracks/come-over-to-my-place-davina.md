@@ -62,17 +62,17 @@ Huhhh yeah yeahhhh
 The mood is set for us tonight,
 Feels so right
 Baby, your every wish is my command
-Huuu My love is ready so come on, ohhh yeah
+Huuu My love is ready so come on, oh yeah
 
 Refrain X 2
 
 Right here, right here
-I'm waiting hmm
+I'm waiting hm
 For you humm
-Baby hmm
+Baby hm
 Sweet babe
 Waiting
 Come on
-Lover ooooh ooohhh
+Lover oh
 
 Refrain x 2

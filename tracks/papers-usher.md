@@ -79,11 +79,11 @@ Oh, oh, oh, papers
 I can't get to work on time
 Can't believe the words to her I just said
 But who the hell argue and fight like dogs at 6 in the morning?
-I know it's gonna be some more shh... tonight, oohh
+I know it's gonna be some more shh... tonight, oh
 Our pastor's calling, telling me I done went too far
 And I'm seen around town and my friends can't recognize me
 'Cause I took a chance on love
-It's like I'm dying (oooh dying)
+It's like I'm dying (ohying)
 
 
 For you, I gave my heart and turned my back against the world

@@ -93,7 +93,7 @@ Take it off, I wanna love ya
 And everybody wanna touch ya
 You're moving right, wanna see whats up under
 Then back it up, beep beep, like a trucker
-Nice thighs, nice waist, and you know I cant forget about your face
+Nice thighs, nice waist, and you know I can't forget about your face
 But don't none of that matter, I'm about to make your pocket fatter
 
 Girl I just wanna see you strip right now, cause its late babe

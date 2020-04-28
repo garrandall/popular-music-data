@@ -119,7 +119,7 @@ And the chills stay away
 Just to take 'em in stride for family pride
 
 You know that faith is your foundation
-(Ooh, now, ooh, now, ooh, now)
+(Oh, now, oh, now, oh, now)
 With a whole lotta love
 And a warm conversation
 

@@ -105,7 +105,7 @@ Cause she's heart and soul
 She's hot and cold
 She's got it all, hot loving every night
 Woah
-Woaaah
+Woah
 
 Well, can't you see her standing there (standing there)
 See how she looks, see how she cares (how she cares)
@@ -120,7 +120,7 @@ Cause she's heart and soul
 She's hot and cold
 She's got it all, hot loving every night
 Woah
-Woaaah
+Woah
 
 (Heart and soul)
 Yeah she's heart and soul
@@ -130,7 +130,7 @@ She's heart and soul
 
 She's got loving every night
 Woah
-Woaaah
+Woah
 She's got it all
 She's heart and soul
 

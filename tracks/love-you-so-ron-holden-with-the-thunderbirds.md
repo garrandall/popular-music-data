@@ -1,7 +1,8 @@
 ---
 artists:
-- Ron Holden with The Thunderbirds
-features: []
+- Ron Holden
+features:
+- The Thunderbirds
 genres: []
 key: love-you-so-ron-holden-with-the-thunderbirds
 name: Love You So

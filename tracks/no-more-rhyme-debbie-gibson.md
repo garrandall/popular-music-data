@@ -105,9 +105,6 @@ to feel any danger
 I hope we're not living for
 a lifetime alone
 
-
-
-
 Hard to go on
 It's like waiting for
 the other shoe to drop

@@ -83,7 +83,3 @@ They've nothing at all
 You're just another message
 On a payphone wall
 
-
-
-
-

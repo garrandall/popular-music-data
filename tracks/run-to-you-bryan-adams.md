@@ -121,7 +121,7 @@ I'm gonna run to you
 
 
 When the feeling's right
-Ooohh
+Oh
 
 
 Oh, I'm gonna run to you

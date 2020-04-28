@@ -41,9 +41,9 @@ Listening to a man I've never known before,
 Telling me about the sea,
 All his love, 'til eternity.
 
-Ooh, he's here again,
+Oh, he's here again,
 The man with the child in his eyes.
-Ooh, he's here again,
+Oh, he's here again,
 The man with the child in his eyes.
 
 He's very understanding,
@@ -58,9 +58,9 @@ Wondering what on Earth I'm doing here.
 Maybe he doesn't love me.
 I just took a trip on my love for him.
 
-Ooh, he's here again,
+Oh, he's here again,
 The man with the child in his eyes.
-Ooh, he's here again,
+Oh, he's here again,
 The man with the child in his eyes.
 
 

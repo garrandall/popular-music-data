@@ -13,12 +13,12 @@ rankings:
   start_date: '2013-02-16'
 ---
 Artie (with New Directions Boys):
-Mmm, (Ahh)
+Mmm, (Ah)
 Mmm, (Yeah)
-Mmmmm, yeah, yeah, yeah
-Ah, (Ahh)
+Mmm, yeah, yeah, yeah
+Ah, (Ah)
 Mmm, (Yeah)
-Mmmmm, yeah, yeah
+Mmm, yeah, yeah
 Uh
 Baby I just don't get it
 Do you enjoy being hurt?
@@ -86,7 +86,7 @@ Artie with New Directions Boys:
 You should let me love you
 Let me be the one to
 Give you everything you want and need
-Ooh, baby good love and protection
+Oh, baby good love and protection
 Make me your selection
 Show you the way love's supposed to be
 
@@ -96,7 +96,7 @@ Baby you should let me
 New Directions Boys (Artie):
 You deserve better girl (Ohh, you know you deserve better)
 We should be together girl (Baby)
-Oooooh
+Oh
 
 Artie:
 With me and you it's whatever girl
@@ -111,19 +111,19 @@ Let me be the one to (Let me be the one to give)
 Give you everything you want (Oh!) and need (Everything you need, yeah)
 Baby, good love and protection (Said everything)
 Make me your selection (The way you shake me, baby)
-Show you the way love's supposed to be (Oooh)
+Show you the way love's supposed to be (Oh)
 (Baby, you should let me love you) You should let me love you
 Let me be the one to (Ohh, give you everything)
 Give you everything you want and need
-Ooh, baby good love and protection (Good love and protection)
+Oh, baby good love and protection (Good love and protection)
 Make me your selection
 Show you the way love's supposed to be (Hey!)
 (Hey) You should let me love you (Love you)
 Let me be the one to (The one to)
-Give you everything you want and need (Anything you need, oooh, baby)
-Ooh, baby good love and protection (Protection)
+Give you everything you want and need (Anything you need, oh, baby)
+Oh, baby good love and protection (Protection)
 Make me your selection (Selection, baby)
-Show you the way love's supposed to be (Ooooh, yeah)
+Show you the way love's supposed to be (Oh, yeah)
 (Let me love you)
 
 Artie:

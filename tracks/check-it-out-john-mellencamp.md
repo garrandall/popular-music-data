@@ -123,7 +123,7 @@ Check it out
 Maybe they'll have a better understanding
 Check it out
 Hope they have a better understanding
-Check it out.....
+Check it out...
 
 
 

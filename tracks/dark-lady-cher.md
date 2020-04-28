@@ -108,7 +108,3 @@ Laughing and kissing till they saw the gun in my hand
 The next thing I knew they were dead on the floor
 Dark Lady would never turn a card up anymore
 
-
-
-
-

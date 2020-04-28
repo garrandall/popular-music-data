@@ -69,9 +69,6 @@ Go on get yourself high
 'Cause I yelled "Bankhead" and you felt left out
 I ain't mentioned your name, is that what all this 'bout?
 
-
-
-
 From summer hill to the hill up him Hollywood (okay)
 A house full, gettin' to it, you know how we do it
 Yeah we smoke great (great) and we drink good (good)
@@ -92,8 +89,4 @@ But that's alright, let the nerds hate
 'Cause in my face though the words get ate
 Hating's hard work, but I just bounce back
 'cause God work tell all the haters am back!
-
-
-
-
 

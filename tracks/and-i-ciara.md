@@ -53,7 +53,7 @@ And all of the things that you do
 Oh baby, please
 I need you (I need you)
 So believe me (I do)
-I do (Ooh)
+I do (Oh)
 'Cause I love you (I love you)
 And every little thing, baby (You do)
 No, no, whoa, oh

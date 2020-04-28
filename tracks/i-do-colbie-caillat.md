@@ -56,7 +56,7 @@ I do, I do, I do, do do do do do do do
 Yeah, I do, I do, I do, do do do do do do do
 'Cause every time before it's been like maybe yes and maybe no
 I can live without it, I can let it go
-Ooh what did I get myself into?
+Oh what did I get myself into?
 You make me wanna say
 I do, I do, I do, I do, I do, I do
 
@@ -79,7 +79,7 @@ You make me wanna say
 
 
 Meet my family, how's your family?
-Ooh, can we be a family?
+Oh, can we be a family?
 And when I'm eighty years old and I'm sitting next to you
 
 

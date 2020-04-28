@@ -27,7 +27,7 @@ It doesn't matter where you've been
 You can still come home
 And honey if it's you
 We've got a lot of makin' up to do
-And I can't hug you on the phone 
+And I can't hug you on the phone
 So hurry home
 
 
@@ -35,9 +35,6 @@ Well the message light was blinking when he got back
 It was an old friend callin' cuz he just heard the news
 He said man I hope you find her if I see her I'll remind her
 That her daddy's worried and wantin her to know
-
-
-
 
 Well the days dragged by without a word from her
 And it looked like she might not be coming back
@@ -56,7 +53,7 @@ It doesn't matter where you've been
 You can still come home
 And honey if it's you we got a lot of making up to do
 And I can't hug you on the phone
-So hurry home 
+So hurry home
 He walked in just in time to hear her say
 "Dad I'm on my way"
 

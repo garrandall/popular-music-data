@@ -37,7 +37,7 @@ rankings:
   start_date: '1968-12-21'
 ---
 
-Hmm, closer
+Hm, closer
 I wanna be closer to you
 
 (I like to get close)
@@ -99,7 +99,7 @@ I like to close
 To the one I love
 So I slow drag
 
-Ooh, hold me close
+Oh, hold me close
 Hold me closer to you
 And all you got to do
 Is squeeze me, baby

@@ -147,7 +147,7 @@ Love overboard
 So in love with you
 
 Spinnin', fallin'
-People, aah, people
+People, ah, people
 Love's callin', I'm fallin'
 S-O-S-O-S-O-S-O-S
 

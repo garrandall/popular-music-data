@@ -97,7 +97,7 @@ Excuse me Misses, may I spark your interest
 Cause you sure got my attention, I just wanna grant your wishes (la la)
 What you want you get it, I don't call it tricking
 Not just cause I got it cause I want to, that makes all the difference
-I'm about my business, and ooh girl you the business
+I'm about my business, and oh girl you the business
 We should get together soon so we can do some business
 I got some things that I could teach ya, lemme show ya
 Is you ready, what's the hold up

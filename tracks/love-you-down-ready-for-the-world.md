@@ -114,11 +114,11 @@ That you were too damned old for me
 All that really mattered was you were my girlfriend
 And baby, that's all that mattered to me, oh, baby
 
-Let me love you down, ooh, oh
+Let me love you down, oh, oh
 Let me love you down
 You know it's gonna be so right
 
-Let me love you down, ooh
+Let me love you down, oh
 Let me love you down
 You know it's gonna be so right
 I can love you down
@@ -156,7 +156,7 @@ Love you down, down, oh
 
 Let me love you, I know I could, baby
 You're so sweet to me, woah, woah
-Let me love you down, ooh, baby
+Let me love you down, oh, baby
 It's just you and me, baby the whole night through
 Won't you let me love down
 I can't take this too much longer, you know

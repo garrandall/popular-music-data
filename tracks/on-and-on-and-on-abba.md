@@ -79,9 +79,6 @@ Keep on rocking baby, till the night is gone
 On and on and on
 Till the night is gone
 
-
-
-
 On and on and on
 Keep on rocking baby, till the night is gone
 On and on and on

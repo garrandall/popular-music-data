@@ -65,9 +65,6 @@ Take my hunger
 Lie within
 Numb my skin
 
-
-
-
 All glazed eyes, empty hearts
 Buying happy from shopping carts
 Nothing but time to kill

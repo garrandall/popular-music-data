@@ -88,9 +88,9 @@ Full of wonder and surprise
 And just now, I realize
 
 
-Ooh, you're an angel
-Ooh, you're an angel
-Ooh, you're an angel in disguise
+Oh you're an angel
+Oh you're an angel
+Oh you're an angel in disguise
 I can see it in your eyes
 
 
@@ -106,13 +106,13 @@ Full of wonder and surprise
 And just now, I realize
 
 
-Ooh, you're an angel
-Ooh, you're an angel
-Ooh, you're an angel in disguise
+Oh you're an angel
+Oh you're an angel
+Oh you're an angel in disguise
 I can see it in your eyes
-Ooh, you're an angel
-Ooh, you're an angel
-Ooh, you're an angel in disguise
+Oh you're an angel
+Oh you're an angel
+Oh you're an angel in disguise
 I can see it in your eyes
 
 
@@ -128,13 +128,13 @@ This just can't be coincidence
 The only way that this makes sense is that
 
 
-Ooh, you're an angel
-Ooh, you're an angel
-Ooh, you're an angel in disguise
+Oh you're an angel
+Oh you're an angel
+Oh you're an angel in disguise
 I can see it in your eyes
-Ooh, you're an angel
-Ooh, you're an angel
-Ooh, you're an angel in disguise
+Oh you're an angel
+Oh you're an angel
+Oh you're an angel in disguise
 I can see it in your eyes
 
 

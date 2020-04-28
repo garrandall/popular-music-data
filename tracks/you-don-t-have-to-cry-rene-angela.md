@@ -72,7 +72,7 @@ Keep me close, I'll keep you warm all the time
 
 
 You don't have to cry
-Ooh...I'll be right by your side to help you be strong
+Oh...I'll be right by your side to help you be strong
 Baby, dry your eyes
 Hold on
 ‘Cause I can pull you through these times and help you be strong, yeah

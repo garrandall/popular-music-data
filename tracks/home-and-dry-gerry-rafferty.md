@@ -84,7 +84,7 @@ We'll make it better now in every way
 It's got to be you, it's got to be you
 Yes, from now on I'll tell you every day
 
-Ooh, yes, home and dry
+Oh, yes, home and dry
 
 Ain't nothing up here gonna slow me down
 You know I never ever take the long way 'round
@@ -98,4 +98,4 @@ We'll make it better now in every way
 It's got to be you, it's got to be you
 Yes, from now on I'll tell you every day
 
-Ooh, yes, home and dry
+Oh, yes, home and dry

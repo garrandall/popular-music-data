@@ -109,8 +109,8 @@ So gon' and be my dealer, baby
 Hook me up
 All I want is you, baby, yeah
 You're my little pusher love girl
-So sweet, yes you are (Ooh, ooh, ooh, yeah)
-Just my little pusher love girl, ain't ya? (Ooh, ooh, ooh, yeah)
+So sweet, yes you are (Oh, oh, oh, yeah)
+Just my little pusher love girl, ain't ya? (Oh, oh, oh, yeah)
 She's my little pusher love girl
 
 

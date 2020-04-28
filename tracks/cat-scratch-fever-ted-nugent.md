@@ -80,9 +80,6 @@ I've got the choo-choo train
 You know you got it when you, you're going insane
 It makes a grown man cry, cry, oh won't you make my bed
 
-
-
-
 Well, I make the pussy purr with the stroke of my hand
 They know they gettin' it from me
 They know just where to go when they need their lovin' man
@@ -93,9 +90,6 @@ I give them cat scratch fever
 Cat scratch fever
 They got a bad scratch fever
 The cat scratch fever
-
-
-
 
 Cat scratch fever
 Cat scratch fever

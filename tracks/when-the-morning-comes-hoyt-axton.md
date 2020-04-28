@@ -47,7 +47,6 @@ Wrapped away with care
 And all you do is sit and drink
 And stare ---- at your T V
 
-Chorus
 
 You ask me why I came here
 But you're the one who phoned
@@ -58,11 +57,9 @@ I guess you never will
 The key's lost to the kingdom
 And I don't have time to kill
 
-Chorus
 
 Instrumental: Verse
 
-Chorus
 
 So it's goodbye Carolina
 So long Tennessee

@@ -24,9 +24,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-07-26'
 ---
-Oooh
+Oh
 Oh yeah
-Oooh
+Oh
 Girl, you know that
 
 CHORUS
@@ -95,7 +95,7 @@ I love to love you
 No one loves me better, it's true
 
 Oh yeah
-Oooh
+Oh
 Yeah yeah yeah
 Yeah yeah yeah
 

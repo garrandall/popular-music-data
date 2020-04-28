@@ -30,7 +30,7 @@ rankings:
 ---
 
 Now the day is gone and I sit alone and think of you, girl
-What can I do without you in my life?  
+What can I do without you in my life?
 I guess that our guessing game just had to end that way
 The hardest one to lose of all the games we played
 
@@ -52,10 +52,4 @@ Well all the fun has died, It's raining in my heart
 I know down in my soul I'm really gonna miss you
 But it had to end this way with all the games we played
 Well I hope you understand I just had to go back to the island
-
-
-
-
-
-
 

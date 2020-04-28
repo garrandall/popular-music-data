@@ -139,14 +139,14 @@ rankings:
 
 Every time that you get undressed
 I hear symphonies in my head
-I wrote this song just looking at you ooh, oh
+I wrote this song just looking at you oh, oh
 Yeah the drums they swing low
 And the trumpets they go
 And the trumpets they go
 Yeah the trumpets they go
 
-Da da, da ra ra da 
-Oooh-ooh
+Da da, da ra ra da
+Oh-oh
 They go
 
 Is it weird that I hear
@@ -164,7 +164,7 @@ Remind me of a Katy Perry song?
 
 Every time that you get undressed
 I hear symphonies in my head
-I wrote this song just looking at you ooh, oh
+I wrote this song just looking at you oh, oh
 Yeah the drums they swing low
 And the trumpets they go
 (And they playing for you girl)
@@ -191,7 +191,7 @@ Remind me of a Katy Perry song?
 
 Every time that you get undressed
 I hear symphonies in my head
-I wrote this song looking at you ooh, oh
+I wrote this song looking at you oh, oh
 Oh, yeah
 
 Every time (Every time) that you get undressed
@@ -199,12 +199,12 @@ Every time (Every time) that you get undressed
 I hear symphonies in my head
 (I hear symphonies in my head)
 I wrote this song (I wrote this song) just looking at you
-Ooh, oh (Just looking at you girl)
+Oh, oh (Just looking at you girl)
 Yeah the drums they swing low
 And the trumpets they go
 
 (A capella on 'em)
-There you go, oh-ooh, yeah
+There you go, oh-oh, yeah
 Come on, come on, come on
 There you go
 

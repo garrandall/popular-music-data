@@ -62,9 +62,9 @@ rankings:
 ---
 
 Can this feeling that we have together
-Oooh, Suddenly exist between
+Oh, Suddenly exist between
 Did this meeting of our minds together
-Oooh, Happen just today, somewhere
+Oh, Happen just today, somewhere
 I'd like to know,
 Can you tell me -- please don't tell me
 It really doesn't matter anyhow
@@ -72,9 +72,9 @@ It's just that the thought of us so happy
 Appears in my mind, as a beautifully mysterious thing
 Was your image in my mind so deeply
 Was your image in my mind so deeply
-Oooh, other places fade away
+Oh, other places fade away
 blocking memories of unhappy hours
-Oooh, Leavin' just a burnin' love
+Oh, Leavin' just a burnin' love
 I'd like to know,
 I'd like to know,
 Can you tell me -- please don't tell me
@@ -83,9 +83,9 @@ It's just that the thought of us so happy
 Appears in my mind, as a beautifully mysterious thing
 Yes it does now baby
 Can this lovin' we have found within us
-Oooh, Suddenly exist between
+Oh, Suddenly exist between
 Did we somehow try to make it happen
-Oooh, Was it just a natural thing
+Oh, Was it just a natural thing
 I'd like to know,
 Can you tell me -- please don't tell me
 It really doesn't matter anyhow

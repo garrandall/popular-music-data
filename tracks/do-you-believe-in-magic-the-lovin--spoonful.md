@@ -75,9 +75,6 @@ That won't wipe off your face no matter how hard you try
 Your feet start tapping, and you can't seem to find
 How you got there so just blow your mind
 
-
-
-
 If you believe in magic, come along with me
 We'll dance until morning till there's just you and me
 And maybe, if the music is right

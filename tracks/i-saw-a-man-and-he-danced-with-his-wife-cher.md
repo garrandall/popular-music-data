@@ -85,6 +85,3 @@ But now he's dancin' with me
 I remember before, when we danced on this floor
 His eyes were only on me
 
-
-
-

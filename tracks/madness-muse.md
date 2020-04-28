@@ -138,7 +138,7 @@ I have finally seen the light
 And I have finally realized
 What you mean
 
-Ooh oh oh
+Oh oh oh
 
 And now I need to know is this real love
 Or is it just madness keeping us afloat?
@@ -151,7 +151,7 @@ And now I have finally seen the light
 And I have finally realized
 What you need
 
-Mmmm
+Mmm
 
 (Ma-ma-ma-ma-ma-ma-ma...)
 

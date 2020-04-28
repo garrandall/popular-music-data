@@ -73,12 +73,12 @@ Calling your name, I just call , I just call...
 Yeah Yeah, You've got to hear me, hear me
 Hear me, hear me calling, yes I did
 You've got to hear me
-I said Yeah..., Jesus Ahh...
+I said Yeah..., Jesus Ah...
 
 You've got to hear me, Jesus
 I keep calling, calling your name
 Oh Jesus, Oh Jesus
 I'm calling, calling your name I keep on calling
 Hold down my name
-I pray, I pray....Yes, I'm praying
+I pray, I pray...Yes, I'm praying
 Jesus, hear my, hear my call...

@@ -25,7 +25,7 @@ rankings:
   start_date: '1961-01-09'
 ---
 
-Ev'ry day I listen to the surging tide,
+Every day I listen to the surging tide,
 And I always wonder why the sea's so wide;
 Miles of salty water, endless skies above,
 Stretch out far between me and the one I love.
@@ -35,7 +35,7 @@ With your briny foam,
 Bring my sweetheart back to me,
 Bring my darling home.
 
-Ev'ry night I wander down beside the sea,
+Every night I wander down beside the sea,
 Callin' to the wind to blow her back to me;
 Now my arms are empty, since she sailed away,
 Only stars to hear me when I kneel and pray.

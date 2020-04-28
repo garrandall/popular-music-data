@@ -66,12 +66,12 @@ rankings:
 ---
 
 These are the signs that are made for each other
-Are you the zodiac Freak, ooo-ee
+Are you the zodiac Freak, oo-ee
 I'm a Capricorn, I came here to get manish
-Ooh, I know it's good when you start speakin' spanish
+Oh, I know it's good when you start speakin' spanish
 Aries, sexually, you're full of energy
 After I'm done, you still tellin' me you want me
-Met a Gemini, ooh what a sex drive
+Met a Gemini, oh what a sex drive
 She wanted it from the front, back, left and the right
 Baby, I will guarentee to give you everything your body's missin'
 
@@ -79,13 +79,13 @@ These are the signs of love makin'
 Are you the zodiac freak I've been lookin' for
 Girl, you're sending me
 Signs of love makin'
-And you make me say, Oooh
+And you make me say, Oh
 
 These are the signs of love makin'
 Are you that zodiac freak I've been lookin' for
 Girl, you're sending me
 Signs of love makin'
-And you make me say, Oooh
+And you make me say, Oh
 
 
 Damn, how do I explain this next one
@@ -107,13 +107,13 @@ These are the signs of love makin'
 Are you the zodiac freak I've been lookin' for
 Girl, you're sending me
 Signs of love makin'
-And you make me say, Oooh
+And you make me say, Oh
 
 These are the signs of love makin'
 Are you that zodiac freak I've been lookin' for
 Girl, you're sending me
 Signs of love makin'
-And you make me say, Oooh
+And you make me say, Oh
 
 Libra, Gemini, Virgo
 Are you with me (Yeah, yeah, yeah)
@@ -128,24 +128,24 @@ These are the signs of love makin'
 Are you the zodiac freak I've been lookin' for
 Girl, you're sending me
 Signs of love makin'
-And you make me say, Oooh
+And you make me say, Oh
 
 These are the signs of love makin'
 Are you that zodiac freak I've been lookin' for
 Girl, you're sending me
 Signs of love makin'
-And you make me say, Oooh
+And you make me say, Oh
 
 I was talking to this girl one day
 And she ask me what is your sign of love, baby
 I said a Capricorn, she was impressed
-Baby, what is your sign 
+Baby, what is your sign
 She said a Pisces, we connected
 And I think you're kinda sexy, baby
 You said Carpicorn
 Take my hand, I'mma take ya to lover's land
 I'mma show you things
-You've never seen 
+You've never seen
 All night long
 Baby, be my babe
 

@@ -48,17 +48,11 @@ Shopping cart pusher or maybe someone groovy
 One thing's for sure, he isn't starring in the movies
 Cause he's—
 
-
-
-
 (Walkin' walkin' walkin' walkin'...)
 You won't see a cop walkin' on the beat
 You only see 'em drivin' cars out on the street
 You won't see a kid walkin' home from school
 Their mothers pick 'em up in a car pool
-
-
-
 
 Could it be that the smog's playing tricks on my eyes?
 Or is it a roller skater in some kind of headphone disguise?

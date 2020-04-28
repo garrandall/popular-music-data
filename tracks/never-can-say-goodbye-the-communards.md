@@ -56,10 +56,10 @@ It says "turn around you fool, you know you love her more and more"
 Tell me why, (Tell me why) is it so?
 Don't want to let you go
 
-I never can say goodbye boy, ooooh baby baby
-I never can say goodbye, no no no, no no no, ooh, oh
-I never can say-a goodbye boy, ooooh, no, no
-I never can say goodbye, no no no, no no no, ooh
+I never can say goodbye boy, ohby baby
+I never can say goodbye, no no no, no no no, oh, oh
+I never can say-a goodbye boy, oho, no
+I never can say goodbye, no no no, no no no, oh
 
 Never can say goodbye, no no no no I
 Never can say goodbye (Never say goodbye boy)
@@ -69,10 +69,10 @@ It's the same ol' dizzy hang up, can't do with you or without
 Tell me why, (Tell me why) is it so?
 Don't want to let you go
 
-I never can say goodbye boy, ooh ooh baby
-I never can say goodbye, no no no, no no no, ooh, oh
-I never can-a say-a goodbye boy, ooh, oh
-I never can say goodbye, no no no no no no no, ooh, oh
+I never can say goodbye boy, oh oh baby
+I never can say goodbye, no no no, no no no, oh, oh
+I never can-a say-a goodbye boy, oh, oh
+I never can say goodbye, no no no no no no no, oh, oh
 
 Never can say goodbye boy
 
@@ -84,6 +84,6 @@ It says "turn around you fool, you know you love her more and more"
 Tell me why, (Tell me why) is it so?
 Don't want to let you go
 
-I never can say goodbye boy, ooh ooh baby
-I never can say goodbye, no no no, no no no, ooh, oh
+I never can say goodbye boy, oh oh baby
+I never can say goodbye, no no no, no no no, oh, oh
 I never can-a say-a goodbye boy

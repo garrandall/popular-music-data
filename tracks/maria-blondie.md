@@ -35,13 +35,13 @@ rankings:
 
 She moves like she don't care
 Smooth as silk, cool as air
-Ooh it makes you wanna cry
+Oh it makes you wanna cry
 She doesn't know your name
 And your heart beats like a subway train
-Ooh it makes you wanna die
+Oh it makes you wanna die
 
-Ooh, don't you wanna take her?
-Ooh, wanna make her all your own?
+Oh, don't you wanna take her?
+Oh, wanna make her all your own?
 
 Maria, you've gotta see her
 Go insane and out of your mind
@@ -57,23 +57,23 @@ She's oceans running down the drain
 Blue as ice and desire
 
 Don't you wanna make her?
-Ooh, don't you wanna take her home?
+Oh, don't you wanna take her home?
 
 Maria, you've gotta see her
 Go insane and out of your mind
 Latina, Ave Maria
 A million and one candle lights
 
-Ooh, don't you wanna break her?
-Ooh, don't you wanna take her home?
+Oh, don't you wanna break her?
+Oh, don't you wanna take her home?
 
 She walks like she don't care
 You wanna take her everywhere
-Ooh, it makes you wanna cry
+Oh, it makes you wanna cry
 
 She's like a millionaire
 Walkin' on imported air
-Ooh, it makes you wanna die
+Oh, it makes you wanna die
 
 Maria, you've gotta see her
 Go insane and out of your mind

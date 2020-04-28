@@ -141,9 +141,6 @@ You'll be OK, follow your heart
 You're in harm's way, I'm right behind
 Now say you're mine
 
-
-
-
 Don't let go
 I feel the music in you
 Fly high

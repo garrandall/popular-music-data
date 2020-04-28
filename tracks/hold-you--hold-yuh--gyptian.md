@@ -84,7 +84,7 @@ Mi want a gyal who can wine pon me
 Mi want a gyal who can take care of me
 And mek mi feel it
 And mi reveal it
-Ooh, my haf fi really squeeze it
+Oh my haf fi really squeeze it
 
 
 Gyal me wann fi hold yuh

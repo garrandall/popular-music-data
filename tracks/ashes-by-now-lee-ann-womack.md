@@ -112,8 +112,8 @@ Just like a wildfire, you're running all over town
 As much as you've burned me baby, I should be ashes by now
 As much as you've burned me baby, I should be ashes by now
 
-(Ooh, ooh, ooh, ashes by now)
-(Ooh, ooh, ooh, ashes by now)
+(Oh, oh oohashes by now)
+(Oh, oh oohashes by now)
 As much as you've burned me baby, I should be ashes by now
 
 

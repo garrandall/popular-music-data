@@ -73,17 +73,11 @@ Was much more fun
 You go your way, I go mine
 But I'll see you next time
 
-
-
-
 And if I put my fingers here, and if I say
 "I love you, dear"
 And if I play the same three chords
 Will you just yawn and say
 'Ah, I hate it.'
-
-
-
 
 Alone and bored on a thirtieth-century night
 Will I see you on The Price Is Right?

@@ -43,12 +43,12 @@ And I got somewhere to be right now
 I'll make 'em wait all day long
 If you wanna get a little wild
 
-I dont want to be a distraction to you
+I don't want to be a distraction to you
 No no no
 So maybe I'll just lay around
 Play by myself
 While touching on my favorite fruit
-Ooh ooh ooh ooh
+Oh oh oh oh
 
 Can't stop thinking bout the things we do
 And how it feels making love to you
@@ -58,7 +58,7 @@ Just love me for a little while
 
 I wanna make it like a dream for you
 Turn every fantasy into the truth
-You know I'll take it anywhere 
+You know I'll take it anywhere
 That you wanna go right now
 Just to love ya for a little while
 
@@ -77,7 +77,7 @@ No no no
 So maybe I'll just lay around
 Play by myself
 While touching on my favorite fruit
-Ooh ooh ooh ooh
+Oh oh oh oh
 
 Can't stop thinking bout the things we do
 And how it feels making love to you
@@ -87,21 +87,21 @@ Just love me for a little while
 
 I wanna make it like a dream for you
 And turn every fantasy into the truth
-You know I'll take it anywhere 
+You know I'll take it anywhere
 That you wanna go right now
 Just love ya for a little while
 
 My passion flows like a river that has no end
 I wanna know everything you'll let me do to you
-Ooh ooh ooh ooh
+Oh oh oh oh
 
-Tell me what you like baby 
-(Ooh ooh ooh ooh)
-Do you wanna play with my strawberries 
-(Ooh ooh ooh ooh)
+Tell me what you like baby
+(Oh oh oh oh)
+Do you wanna play with my strawberries
+(Oh oh oh oh)
 Sometimes I think about me and you
-(Ooh ooh ooh ooh)
-I can get real loud (Ooh ooh ooh ooh)
+(Oh oh oh oh)
+I can get real loud (Oh oh oh oh)
 
 Can't stop thinking bout the things we do
 And how it feel making love to you
@@ -111,7 +111,7 @@ Just love me for a little while
 
 I wanna make it like a dream for you
 Turn every fantasy into the truth
-You know I'll take it anywhere 
+You know I'll take it anywhere
 That you wanna go right now
 Just to love ya for a little while
 

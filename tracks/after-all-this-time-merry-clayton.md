@@ -36,7 +36,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
 ---
-Ooh, I get a feeling every night
+Oh, I get a feeling every night
 When you come home
 That life is sweet, yeah, baby
 Sweeter than a honeycomb

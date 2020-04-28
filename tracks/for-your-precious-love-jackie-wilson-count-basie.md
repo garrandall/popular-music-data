@@ -61,7 +61,7 @@ Jackie want out of
 This whole wide world
 Is for you to tell me
 Tell me you'll be my girl
-Ooh, wanting you
+Oh, wanting you
 I'm so lonely, baby
 For your, your precious love
 Baby, I been lonesome

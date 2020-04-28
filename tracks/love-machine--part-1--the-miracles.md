@@ -176,7 +176,7 @@ That you've got to use
 If you look into my power
 I am sure you can find out how
 To turn me on just set my dial
-And let me love you for a little while, ooh
+And let me love you for a little while, oh
 
 (I, I)
 I'm just a love machine

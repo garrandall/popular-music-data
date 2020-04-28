@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: personality-lloyd-price-and-his-orchestra
+lyrics_url: https://genius.com/Lloyd-price-personality-lyrics
 name: Personality
 rankings:
 - end_date: '1959-05-03'
@@ -83,4 +84,64 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-08-31'
 ---
+Over and over
+I tried to prove my love to you
+Over and over
+What more can I do
 
+Over and over
+My friend says I'm a fool
+But over and over
+I'll be a fool for you
+
+Cause you got personality
+Walk (with personality)
+Talk (with personality)
+Smile (with personality)
+Charm (with personality)
+Love (with personality)
+And plus you've got
+A great big heart
+
+So over and over
+Oh, I'll be a fool for you
+Now over and over
+What more can I do
+
+Cause you got personality
+Walk (with personality)
+Talk (with personality)
+Smile (with personality)
+Charm (with personality)
+Love (with personality)
+And plus you've got
+A great big heart
+
+So over and over
+Whoa, I'll be a fool for you
+Now over and over
+What more can I do
+
+Over and over
+I said that I love you
+Over and over, honey
+Now it's the truth
+
+Over and over
+They still say I'm a fool
+But over and over
+I'll be a fool for you
+
+Cause you got personality
+Walk (with personality)
+Talk (with personality)
+Smile (with personality)
+Charm (with personality)
+Love (with personality)
+And plus you've got
+A great big heart
+
+So over and over
+Whoa, I'll be a fool for you
+Now over and over
+What more can I do

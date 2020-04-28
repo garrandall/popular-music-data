@@ -167,9 +167,6 @@ And while she looks so sad and lonely there
 I absolutely love her
 When she smiles
 
-
-
-
 Your clothes never wear as well the next day
 And your hair never falls in quite the same way
 You never seem to run out of things to say

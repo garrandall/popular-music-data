@@ -114,7 +114,7 @@ Hot tramp Daddy's little cutie
 You're so fine they'll never see ya leavin' by the back door, mam
 Hot time get it while it's easy
 Don't mind come on up and see me
-Rag Doll, baby won't ya do me, baby won't ya do me, 
+Rag Doll, baby won't ya do me, baby won't ya do me,
 baby won't ya do me like you done before
 
 Yes I'm movin'
@@ -125,9 +125,4 @@ Yes I'm movin'
 I'm really movin'
 Sloe Gin Fizzy, do it till you're dizzy
 Give it all ya got until you're put out of your misery
-
-
-
-
-
 

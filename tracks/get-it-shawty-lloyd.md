@@ -117,7 +117,7 @@ Go on and put your weight on it
 Cause it's alright
 Do what you wanna
 Make me believe ya
-Oooh, I wanna see ya
+Oh, I wanna see ya
 Get it shawty, get it shawty
 Get-get-get-get-get
 Get it shawty, get it shawty
@@ -144,7 +144,7 @@ Go on and put your weight on it
 Cause it's alright
 Do what you wanna
 Make me believe ya
-Oooh, I wanna see ya
+Oh, I wanna see ya
 Get it shawty, get it shawty
 Get-get-get-get-get
 Get it shawty, get it shawty
@@ -174,7 +174,7 @@ Go on and put your weight on it
 Cause it's alright
 Do what you wanna
 Make me believe ya
-Oooh, I wanna see ya
+Oh, I wanna see ya
 Get it shawty, get it shawty
 Get-get-get-get-get
 Get it shawty, get it shawty

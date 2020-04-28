@@ -34,10 +34,10 @@ rankings:
   start_date: '1999-01-02'
 ---
 
- Oooooohhh
+ Oh
 
 
- 
+
 This is for that little child with no father
 For that man that doesn't have a place to stay
 For that little boy living with AIDS
@@ -52,7 +52,7 @@ He has no food
 And his blue skies are gone (yes it is)
 Can't you hear him cryin' out
 
- 
+
 And there's a girl
 Searching for a father and a friend
 Praying that the storm someday will end
@@ -60,13 +60,13 @@ But instead of walking away
 Open up your heart and say
 
 
- 
+
 I am here
 You don't have to worry
 I can see...
  I can see your tears
- 
-....your tears
+
+...your tears
 I'll be there in a hurry when you call
  Yes I will
  Friends are there to catch you when you fall
@@ -74,10 +74,10 @@ I'll be there in a hurry when you call
  Here's my shoulder, you can lean on me
 
  halleluia
- Ooooohhhhh
+ Oh
  Listen
 
- 
+
 Oh, there's a child
 Who is sick and begging to be free
 But there is no cure for his disease
@@ -88,7 +88,7 @@ He looks up to his mother and
 The sun will shine again
  And the pain?
  And the pain will end
- Pain will end....Come on
+ Pain will end...Come on
 
  I am here
  I am here
@@ -96,8 +96,8 @@ The sun will shine again
  You don't have to worry
  I can see...
  I see...
- ....your tears
- ....your tears, yeah
+ ...your tears
+ ...your tears, yeah
  I'll be there in a hurry when you call
  I'll be there in a hurry when you call
  Friends are there to catch you when you fall
@@ -106,14 +106,14 @@ The sun will shine again
  Here's my shoulder, you can lean on me
 
 
- 
+
 Tell me, how can I, how can I love Jesus
 When I've never seen His face
  Yeah, I see you dying
  And I turn and walk away
 
  So hold my hand
- Oooooohhhhh
+ Oh
  Let me take you to a friend of mine
  He's waiting just to ease your troubled mind
  Yeah, yeah, He loves you more than you'll ever know
@@ -125,26 +125,22 @@ When I've never seen His face
 
  I am here
  I am here
- 
+
 You don't have to worry
 I can see your tears
 I'll be there in a hurry when you call
  Alleluia
- Aaaaaaah
+ Ah
  When you call, friends will be there to catch you when, catch you when you fall
  Here's my shoulder, you can lean on me
  Thank you Jesus, yeah
  OhYeah, oh yeah
 
- 
+
 Here's my shoulder, you can lean on me
 Here's my shoulder, you can lean on me
  You can lean on me
  Lean on me, yeah, yeah
  You're my friend but you're also my brother
  Here's my shoulder, you can lean on me
-
-
-
-
 

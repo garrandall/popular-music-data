@@ -183,7 +183,7 @@ You play (what you sayin baby)
 And I'll do whatever you say (boss)
 Oh I I I I I watch
 You play
-And I'll dooo
+And I'll do
 Whatever you say
 
 I'd do anything that you say (uh), anything
@@ -202,7 +202,7 @@ Get a raise (uh)
 Get a raise (uh)
 
 
-You only live once baby (oohhh)
+You only live once baby (oh)
 Let's do it big
 Come on
 

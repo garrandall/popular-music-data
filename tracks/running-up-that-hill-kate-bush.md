@@ -105,7 +105,7 @@ If I only could, oh...
 You don't want to hurt me,
 But see how deep the bullet lies.
 Unaware I'm tearing you asunder.
-Ooh, there is thunder in our hearts.
+Oh, there is thunder in our hearts.
 
 Is there so much hate for the ones we love?
 Tell me, we both matter, don't we?

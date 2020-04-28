@@ -71,9 +71,6 @@ As the miller told his tale
 That her face, at first just ghostly
 Turned a whiter shade of pale
 
-
-
-
 She said, there is no reason
 And the truth is plain to see
 But I wandered through my playing cards
@@ -88,9 +85,6 @@ And so it was that later
 As the miller told his tale
 That her face at first just ghostly
 Turned a whiter shade of pale
-
-
-
 
 She said, 'I'm home on shore leave,'
 Though in truth we were at sea

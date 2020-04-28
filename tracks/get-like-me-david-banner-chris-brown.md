@@ -126,9 +126,6 @@ Southside so throwed (throwed in the game)
 Big face on my chain, 84's on the frame
 Big bodies comin down, hoggin up both lanes
 
-
-
-
 (Stuntin-stuntin is a habit) The name you know of
 A little bit of change, now your boy done blown up
 And I'm throwin thangs just to get exposed
@@ -145,10 +142,7 @@ Cain't another boy do the things you like
 He ain't your type, change your life
 But if you did your homework, girl I'm pretty sure you know what I got
 Drop top singin, know Jones and Banner gonna roll
-Let me stop.... stuntin is a habit
-
-
-
+Let me stop... stuntin is a habit
 
 (Stuntin-stuntin is a habit)
 (Yeah!) Let them bougie boys ride Maybach

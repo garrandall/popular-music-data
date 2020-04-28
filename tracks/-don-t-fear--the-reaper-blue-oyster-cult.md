@@ -120,9 +120,6 @@ Another 40,000 coming everyday
 La, la, la, la, la
 La, la, la, la, la
 
-
-
-
 Love of two is one
 Here, but now they're gone
 Came the last night of sadness

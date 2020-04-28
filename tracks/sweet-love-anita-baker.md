@@ -139,7 +139,7 @@ Don't you ever go away
 It will always be this way
 
 Oh no no no no
-No no no sweet love umm hmm
+No no no sweet love umm hm
 So sweet, so sweet, so sweet
 
 

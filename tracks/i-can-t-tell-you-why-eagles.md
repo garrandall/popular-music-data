@@ -75,7 +75,7 @@ rankings:
 Look at us baby, up all night
 Tearing our love apart
 Aren't we the same two people who live
-Through years in the dark? Aah!
+Through years in the dark? Ah!
 
 
 Every time I try to walk away

@@ -40,7 +40,7 @@ To keep on dancing now
 Come on, y'all
 Come on, y'all
 
-Oooh wee
+Oh wee
 
 Oh, have mercy
 
@@ -64,6 +64,6 @@ Come on, guitar player
 I want everybody
 To keep on dancing now
 Whip it, oh, have mercy
-Ooh wee
+Ohwee
 
 Keep on dancing, baby...

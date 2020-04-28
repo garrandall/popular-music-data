@@ -167,12 +167,12 @@ You're so amazing, you took the time to figure me out
 That's why you take me way past the point of turning me on
 You about to break me, I swear you got me losing my mind
 
-Ooh na na, what's my name?
-Ooh na na, what's my name?
+Oh na na, what's my name?
+Oh na na, what's my name?
 
-Ooh na na, what's my name?
-Ooh na na, what's my name?
-Ooh na na, what's my name?
+Oh na na, what's my name?
+Oh na na, what's my name?
+Oh na na, what's my name?
 What's my name, what's my name?
 
 

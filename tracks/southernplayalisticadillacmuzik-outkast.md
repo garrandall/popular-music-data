@@ -50,7 +50,7 @@ rankings:
 ---
 
 
-Well its the m i crooked letter coming around the south
+Well its the m I crooked letter coming around the south
 Rollin straight hammers and vogues in that old southern slouch
 Please, ain't nothing but incense in my atmosphere
 I'm bending corners in my lac boi, cause that's how we be rolling here
@@ -61,7 +61,7 @@ Rollin steady in that caddy but them 50 bottles got to go
 See Juice and gin used to be my friend, from the begin
 And now I'm just a player sippin sauce, every now and then
 To catch a buzz like a bumble bee
-Niggaz who tried to fuck with me
+Niggas who tried to fuck with me
 Get sprayed like raid cause it ain't nothing see
 
 
@@ -114,7 +114,7 @@ I take my time cruising round the city malls
 And under my seat for you suckers its your final curtain call
 The one two to the gauge p-u-m-p.
 You want to do a jack I heat the barrel till this hippi get me
-See i get friendly gettin in where i fit
+See I get friendly gettin in where I fit
 Organized is on the track with the southernplayalistic shit
 So copy my slang and bite my shit
 But don't try heckling me
@@ -129,7 +129,7 @@ I may wait for all the ... be rolling like that today hoes
 So back up off get up on it if you want it cha'll
 Looking for hoes and snitches was my thing on player's ball yup
 So now I step, rather walk with the pimp
-Lit by, my niggaz are at east point
+Lit by, my niggas are at east point
 With that college park hemp smoke style
 Is how I wanna end it on this track so I pass it to my partner
 And step back up in my Cadillac
@@ -139,7 +139,7 @@ Step into my shoes, you crews sittin on truths
 And those for the hoes only when we rolling through
 Atlanta skies be blue
 The sun is beaming it seemin
-That i glisten, rather gleaming
+That I glisten, rather gleaming
 20/20 got me leaning to the side
 Feel the pride, now ain't that somethin
 I'm dippin into your hood

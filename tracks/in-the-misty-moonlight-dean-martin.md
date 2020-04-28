@@ -83,7 +83,7 @@ Any place is all right
 Long as I'm with you
 
 In the misty moonlight
-By the flickering firelight....
+By the flickering firelight...
 
 
 

@@ -69,7 +69,7 @@ rankings:
   start_date: '1988-09-24'
 ---
 Hee hee hee hee hee hee hee, Twist
-Aah, we're back
+Ah, we're back
 
 Come on baby, let's do The Twist
 Come on baby, let's do The Twist
@@ -103,8 +103,8 @@ Here comes B-Beat Box, come on, do it Buffy
 
 Com' com' com' come on baby
 Com' com' com' com' come on baby
-Ooh ooh do do do The Twist
-Ooh ooh do do do The Twist
+Ohohdo do do The Twist
+Ohohdo do do The Twist
 
 Come on baby, let's do The Twist
 Chub and the Fat Boys, we're doin' The Twist
@@ -135,5 +135,5 @@ And go like this
 
 Oh yeah, and do The Twist
 Yeah, just like me
-Ooh yeah, and do The Twist
+Ohyeah, and do The Twist
 Oh yeah

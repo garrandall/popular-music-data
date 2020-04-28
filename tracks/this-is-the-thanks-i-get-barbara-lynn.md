@@ -42,5 +42,5 @@ So doggone shamed, yeah
 But this is the thanks I get, yeah
 This is the thanks I get, baby
 This is the thanks I get
-Yeah, yeah, yeah....
+Yeah, yeah, yeah...
 Wonderful thanks, yeah

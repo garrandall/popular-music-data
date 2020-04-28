@@ -48,7 +48,7 @@ No disappointment or naughty things
 I'm only gonna give you joy
 You'll have no time to learn about pain
 Your only tears will be tears of joy
-Ooh what kind of man am I
+Oh what kind of man am I
 Everybody got to believe in somebody
 Say you'll give me a try
 

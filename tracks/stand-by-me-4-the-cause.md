@@ -46,10 +46,10 @@ And the moon (and the moon is the only light)
 Is the only (and the moon is the only light)
 Light we'll see(and the moon is the only light - we will see)
 
-No I won't (no i won't be afraid)
-Be afraid (no i won't be afraid)
-Oh I (no i won't be afraid)
-Won't be afraid(no i won't be afraid)
+No I won't (no I won't be afraid)
+Be afraid (no I won't be afraid)
+Oh I (no I won't be afraid)
+Won't be afraid(no I won't be afraid)
 
 Just as long (just as long as you)
 As you stand (just as long as you)
@@ -70,9 +70,9 @@ Or the mountain (or the mountain)
 Should crumble (or the mountain)
 To the sea ( or the mountains should crumble to the sea)
 
-I won't cry (no i won't cry)
-I won't cry (no i won't cry)
-No I (no i won't shed a tear) won't shed a tear
+I won't cry (no I won't cry)
+I won't cry (no I won't cry)
+No I (no I won't shed a tear) won't shed a tear
 
 Just as long (just as long as you)
 As you stand (just as long as you)

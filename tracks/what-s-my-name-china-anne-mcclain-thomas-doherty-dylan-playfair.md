@@ -122,9 +122,9 @@ All eyes on me, let me see 'em
 What's it!, what's it!
 Say it! Say it!
 (Uuuuuuma, Uuuuuuma)
-Ooh, say it louder!
+Oh, say it louder!
 (Uuuuuuma, Uuuuuuma)
-Ooh, say it louder!
+Oh, say it louder!
 What's it! What's it!
 Say it! Say it!
 

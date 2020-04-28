@@ -85,7 +85,3 @@ Must really have rushed by,I didn't realize
 But love was in your eyes I really should have
 Gone,but love went on and on...
 
-
-
-
-

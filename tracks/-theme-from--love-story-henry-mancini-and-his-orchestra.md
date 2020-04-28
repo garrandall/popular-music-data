@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: -theme-from--love-story-henry-mancini-and-his-orchestra
+lyrics_url: https://genius.com/Henry-mancini-theme-from-love-story-lyrics
 name: (Theme From) Love Story
 rankings:
 - end_date: '1971-01-22'
@@ -51,4 +52,44 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-03-27'
 ---
+Where do I begin
+To tell the story
+Of how great a love can be
+The sweet love story
+That is older than the sea
+That simple truth about the love she brings to me
+Where do I start
 
+With her first h***o
+She gave a meaning
+To this empty world of mine
+That'd never be
+Another love another time
+She came into my life
+And made the living fine
+She fills my heart
+
+She fills my heart
+With very special things
+With angel songs
+With wild imaginings
+She fills my soul
+With so much love
+That anywhere I go
+I'm never lonely
+With her along who could be lonely
+I reach for her hand
+It's always there
+
+How long does it last
+Can love be measured by the hours in a day
+I have no answers now
+But this much I can say
+I know I'll need her till this love song burn away
+And she'll be there...
+How long does it last
+Can love b measured by the hours in a day
+I have no answers no
+But this much I can say
+I know I'll need her till this love song burn away
+And she'll be there...

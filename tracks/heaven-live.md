@@ -109,9 +109,6 @@ Lord, I will open up again
 Throw my fears into the wind
 I am desperate for a touch of heaven
 
-
-
-
 You're the fire in the morning
 You're the cool in the evening
 The breath in my soul
@@ -133,9 +130,6 @@ Lord, I will open up again
 Throw my fears into the wind
 I am desperate for a touch of heaven
 
-
-
-
 I'll open up my heart to You
 I'll open up my heart to You now
 So do what only You can
@@ -148,9 +142,6 @@ I'll open up my heart to You
 I'll open up my heart to You now
 So do what only You can
 Jesus, have Your way in me now
-
-
-
 
 All I want is to live within Your love
 Be undone by who You are
@@ -158,9 +149,6 @@ My desire is to know You deeper
 Lord, I will open up again
 Throw my fears into the wind
 I am desperate for a touch of heaven
-
-
-
 
 All I want is to live within Your love
 Be undone by who You are

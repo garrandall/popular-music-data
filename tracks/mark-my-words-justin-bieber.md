@@ -50,8 +50,8 @@ Oh I don't wanna live a lie
 Mark my words
 Mark my words
 
-Oh-oh ooh oooooha
-Ooh-oh ah
+Oh-oh oh oooooha
+Oh-oh ah
 
 
 

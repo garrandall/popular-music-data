@@ -148,7 +148,7 @@ Gonna miss your sweet voice
 That soulful voice
 On the nightshift
 We all remember you
-Ooh the songs are coming through
+Ohthe songs are coming through
 At the end of a long day
 It's gonna be okay
 On the nightshift

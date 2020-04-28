@@ -127,7 +127,7 @@ My mama doesn't trust you baby
 My my my my my oh my
 And my daddy doesn't know you, no
 My, my, my, my, my oh my (Oh my, my, my, my oh my)
-My, my, my, my, my oh my (My, my, ooh)
+My, my, my, my, my oh my (My, my, oh)
 
 They say he likes a good time
 (My oh my)

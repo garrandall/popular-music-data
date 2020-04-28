@@ -82,7 +82,7 @@ No one could look as good as you
 
 Mercy!
 
-Pretty woman wont you pardon me
+Pretty woman won't you pardon me
 Pretty woman I couldn't help but see
 Pretty woman, Oh you look lovely as you could be
 Are you lonely just like me

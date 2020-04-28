@@ -112,7 +112,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-09-24'
 ---
-Mmmm, mmmm
+Mmm, mmm
 
 
 Say good-bye
@@ -156,8 +156,8 @@ I travel in stillness
 
 And I'll remember happiness
 I'll remember (I'll remember)
-Mmmmm... (I'll remember)
-Mmmmm...
+Mmm... (I'll remember)
+Mmm...
 
 
 And I'll remember

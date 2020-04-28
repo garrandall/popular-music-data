@@ -55,7 +55,7 @@ The moment of truth is here
 OH!
 
 Is here
-Oh yeeeeeaaaaaah!
+Oh yeah!
 
 Heart's on fire, strong desire, rages deep within
 Fever's risin', energizin', right up to till end
@@ -63,12 +63,12 @@ Fever's risin', energizin', right up to till end
 Heart's on fire (heart's on fire)
 Strong desire (heart's on fire)
 Rages deep within
-Ooooh
+Oh
 Fades
 Fever's risin' (heart's on fire)
 Energizin' (heart's on fire)
 Right up till the end
-Ooooh
+Oh
 Heart's on fire (heart's on fire) (heart's on fire)
 Strong desire (heart's on fire)
 

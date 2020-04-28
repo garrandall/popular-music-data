@@ -111,12 +111,12 @@ Oh, oh, oh
 Well, I am by your side
 I am by your side, oh
 You can count on me
-Ooh, you can
+Oh you can
 
 I am by your side
 I am by your side, oh
 You can count on me
-Ooh, you can count on me now
+Oh you can count on me now
 
 I am by your side
 I said I am by your side

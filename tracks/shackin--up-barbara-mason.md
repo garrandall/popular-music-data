@@ -54,11 +54,11 @@ But I just wonder why people
 (Everybody's talking 'bout me)
 Don't understand that I'm me
 
-Mmm hmm, living together
+Mmm hm, living together
 Perfectly happy, yeah
 My man and me
 
-Mmm hmm, people call me dirty
+Mmm hm, people call me dirty
 If true love is dirty
 Then throw some water on me
 
@@ -85,7 +85,7 @@ We're perfectly happy
 I only wish that people
 Would just let us be
 
-Yeah, mmm hmm
+Yeah, mmm hm
 Why don't they leave us alone
 
 Guess it would be all right

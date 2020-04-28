@@ -107,9 +107,6 @@ Dance for me, I'll keep you over-employed
 Just tell me a story
 You know the one I mean
 
-
-
-
 Crazy Horse, Paris, France
 Forgot the names, remember romance
 I got the photos, a menage a trois
@@ -127,8 +124,5 @@ Girls, girls, girls
 Girls, girls, girls
 Girls, girls, girls
 Girls, girls, girls
-
-
-
 
 Girls, girls, girls (Whoo!)

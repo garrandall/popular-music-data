@@ -45,7 +45,7 @@ A-darlin', don't-a forbid me to hold you tight
 Let me hold you in my lovin' arms
 'Cause it's cold and I can keep you warm
 
-A-don't-a forbid me to kiss your lips
+A-dont-a forbid me to kiss your lips
 A-darlin' don't-a forbid me to kiss your lips
 Let me kiss you
 Please, baby, please

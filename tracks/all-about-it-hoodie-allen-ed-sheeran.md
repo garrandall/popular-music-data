@@ -57,9 +57,6 @@ Tryna get my mind right
 Body clock is in the clouds so often guess it's high time
 Hoodie sing the line like
 
-
-
-
 I'm not a singer, I just rap pretty
 So now my fan base is full of Megan's and Ashley's
 And they're wondering if there's room for them to get in my bus
@@ -79,9 +76,6 @@ Two people since the beginning
 Three million records get sold, not everybody is winning
 I'm Larry David plus Miles Davis
 So, everybody hating and fuck it, I hardly blame 'em
-
-
-
 
 And they don't know anything about us
 Or anything about us

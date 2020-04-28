@@ -157,9 +157,6 @@ Everyone's dancing their troubles away
 Come join our party
 See how we play!
 
-
-
-
 Tam bo li de say de moi ya
 Yeah, Jambo Jambo
 Way to parti o we goin'

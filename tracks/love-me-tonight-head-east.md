@@ -60,7 +60,6 @@ In the way I feel today
 We'll have some fun, but I gotta run
 If I'm gonna live, I gotta play
 
-Chorus
 
 Love me tonight, don't talk about tomorrow
 Love me tonight, don't feed me any sorrow
@@ -70,7 +69,6 @@ Love me tonight, I'll be gone before you know it
 Maybe I'll be back before too long
 (Repeat again after a break)
 
-Chorus
 
 I believe in you and me
 So love me tonight

@@ -73,10 +73,10 @@ What could it be...
 Oh, love, oh, love, stop making a fool of me
 Oh, love, oh, love, stop making a fool of me
 
-Ooh, ooh, ooh, ooh, ooh...
+Oh, oh oohohohh.oh
 
 Silly of me to go around and brag about the love I found
-And say you're the best, well, I cant tell the rest
+And say you're the best, well, I can't tell the rest
 AndfFoolish of me to tell them all that every night and day you call
 When you could care less
 
@@ -87,10 +87,10 @@ What could it be...
 Oh, love, oh, love, stop making a fool of me
 Oh, love, oh, love, stop making a fool of me
 
-Ooh, ooh, ooh, ooh, ooh... Silly
-Ooh, ooh, ooh, ooh, ooh... Silly
-Ooh, ooh, ooh, ooh, ooh... Silly
-Ooh, ooh, la, la, la, la, la, la, la... Silly
+Oh, oh oohohohh.ohSilly
+Oh, oh oohohohh.ohSilly
+Oh, oh oohohohh.ohSilly
+Oh, oh la, la, la, la, la, la, la... Silly
 La, la, la, la, la, la, la, la, la, la, la... Silly
 
 

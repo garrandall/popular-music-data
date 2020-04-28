@@ -84,7 +84,7 @@ Where people are of one accord
 We gather in the chapel
 Just to sing and praise the Lord
 
-Ev'ry sinner looks for something
+Every sinner looks for something
 That will put his heart at ease
 There is only one true answer
 He must get down on his knees

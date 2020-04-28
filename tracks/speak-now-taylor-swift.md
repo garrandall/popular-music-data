@@ -79,8 +79,8 @@ Your time is running out
 And they said "speak now"
 
 
-Ooh, la-da-da-da, oh
-Ooh, ooh
+Oh, la-da-da-da, oh
+Oh, oh
 (Say a single vow)
 
 

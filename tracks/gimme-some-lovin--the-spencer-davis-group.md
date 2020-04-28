@@ -97,9 +97,9 @@ And I'm so glad we made it
 So glad we made it
 (Gimme some a-lovin') every day
 (Gimme some a-lovin') every night
-(Gimme some a-lovin') Ooh-hoo!
+(Gimme some a-lovin') Ohhoo!
 (Gimme some-a lovin') Gimme some a-lovin' every day
 (Gimme some a-lovin') Hey, hey, baby
-(Gimme some a-lovin') Ooh-hoo
+(Gimme some a-lovin') Ohhoo
 Gimme some a-lovin', oh, every day
 Gimme some a-lovin', give your love...

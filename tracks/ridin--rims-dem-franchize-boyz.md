@@ -49,7 +49,7 @@ If you know (uh, ha)
 I got a Tahoe truck sittin' up on 24's
 
 
-I got more grams than Teddy, got a cam in my chevy, my car go (eeerrrrr) and when I ride I'm ready
+I got more grams than Teddy, got a cam in my chevy, my car go (eerrrrr) and when I ride I'm ready
 Look like I'm glidin' on nothin', when I ride I be skatin'
 I pull up swervi' on
 Niggas they don't be tryin'
@@ -77,9 +77,6 @@ A T.V. in the rear, the European clip on the rotatin' rim just got 'em up out ja
 Got 66 lebron back home, look I'm sittin' right on it, comin' up in the lane
 On the corner straight gunnin'
 
-
-
-
 Loud pipes, satin music, with the judo eyes, 2nd tone background wit 2-inch ties
 Cut curb on the block, it's a concert line
 (dfb snd me bitch) swervin' side to side
@@ -87,9 +84,6 @@ Yup the cutlits mounted up like a H3 Hummer, but it's stuntin' 1-on-1 cause I'm 
 Since my paint wet, they say my trunk sound like thunder, break the law
 (run the red light) drivin' illegal, in a nice ol' school, flow like dead people, I park where I can't, hit button make my door's pop, rims go round and round
 Custom seats lean 'n rock
-
-
-
 
 Now my rims spin nigga, every time I make a stop, and I keep that Chevy clean, like a flow on disk it mop, when I'm posted at the light
 Got a button that make the top drop now hoes hoppin' on my dick like

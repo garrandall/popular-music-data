@@ -123,7 +123,7 @@ In the club with stacks stacks stacks
 143 stay it back back back
 431 Sexy can I, fall in love
 Sexy can I, run the club
-143 eeeeeeee girl I looooovve youuu.
+143 ee girl I love you.
 
 143 I'll make you yell it when we sexin
 143 is what you send me when we textin

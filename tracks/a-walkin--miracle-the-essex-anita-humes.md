@@ -49,7 +49,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-26'
 ---
-Woo ooo,    Woo oo
+Woo oo, Woo oo
 
 
 
@@ -59,8 +59,8 @@ Uh uh huh, that's my baby, Talking bout my baby and I love him
 
 
 
-He's a walking miracle (ooh, ooh)
-He's a walking miracle (ooh, ooh)
+He's a walking miracle (oh oh
+He's a walking miracle (oh oh
 
 
 
@@ -70,8 +70,8 @@ Uh uh huh, that's my baby, Talking bout my baby and I love him
 
 
 
-He's a walking miracle (ooh, ooh)
-He's a walking miracle (ooh, ooh)
+He's a walking miracle (oh oh
+He's a walking miracle (oh oh
 
 
 
@@ -88,8 +88,8 @@ Uh uh huh, that's my baby, Talking bout my baby and I love him
 
 
 
-He's a walking miracle (ooh, ooh)
-He's a walking miracle (ooh, ooh)
+He's a walking miracle (oh oh
+He's a walking miracle (oh oh
 
 
 
@@ -106,8 +106,8 @@ Uh uh huh, that's my baby, Talking bout my baby and I love him
 
 
 
-He's a walking miracle (ooh, ooh)
-He's a walking miracle (ooh, ooh)
-He's a walking miracle      (walkin’ walkin’ walkin’ walkin’)
-He's a walking miracle (ooh, ooh)
-He's a walking miracle      (walkin’ walkin’ walkin’ walkin’)
+He's a walking miracle (oh oh
+He's a walking miracle (oh oh
+He's a walking miracle (walkin’ walkin’ walkin’ walkin’)
+He's a walking miracle (oh oh
+He's a walking miracle (walkin’ walkin’ walkin’ walkin’)

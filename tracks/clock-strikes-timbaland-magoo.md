@@ -68,7 +68,7 @@ rankings:
 
 
 See, them other crews could not figure me
-It's the Mag and double-ooh, got that fat CD
+It's the Mag and double-oh got that fat CD
 Buck a crystal, hit a nigga with my blunt Philly
 Fake MC's getting assed like they eatin chili
 Only way they seem to rap is if they got a Philly
@@ -127,12 +127,4 @@ The rappin Don, I make a dyke go straight
 If you think I'm cute, then you up too late
 Make no mistake, I'm a question with no answer
 Riddle me like the Joker get burnt like JoJo dancer
-
-
-
-
-
-
-
-
 

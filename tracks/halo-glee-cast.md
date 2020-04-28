@@ -18,52 +18,52 @@ rankings:
 ---
 
 
-Remember those walls I built 
-Well, baby they're tumbling down 
-They didn't even put up a fight 
-They didn't even make a sound 
+Remember those walls I built
+Well, baby they're tumbling down
+They didn't even put up a fight
+They didn't even make a sound
 
-It's like I've been awakened 
-Every rule I had you breakin' 
-It's the risk that I'm takin' 
-I ain't never gonna shut you out 
+It's like I've been awakened
+Every rule I had you breakin'
+It's the risk that I'm takin'
+I ain't never gonna shut you out
 
-Everywhere I'm looking now 
-I'm surrounded by your embrace 
-Baby I can feel your halo 
-
-
-And don't it feel good! 
-
-I can feel your halo halo halo 
-I can see your halo halo halo 
-I can feel your halo halo halo (I'm walking on sunshine, wooah) 
-I can see your halo halo halo (I'm walking on sunshine, wooah) 
-
-And don't it feel good! 
-
-I used to think maybe you loved me now baby I'm sure 
-And I just cant wait till the day when you knock on my door 
+Everywhere I'm looking now
+I'm surrounded by your embrace
+Baby I can feel your halo
 
 
-Oh now now! 
+And don't it feel good!
+
+I can feel your halo halo halo
+I can see your halo halo halo
+I can feel your halo halo halo (I'm walking on sunshine, woah)
+I can see your halo halo halo (I'm walking on sunshine, woah)
+
+And don't it feel good!
+
+I used to think maybe you loved me now baby I'm sure
+And I just can't wait till the day when you knock on my door
 
 
-I'm walking on sunshine, wooah! 
-I'm walking on sunshine, wooah! 
-I'm walking on sunshine, wooah ohoh! 
-And don't it feel good! 
-
-I can feel your halo halo halo 
-I can see your halo halo halo 
-I can feel your halo halo halo 
-I can see your halo halo halo 
-
-I can feel your halo halo halo 
-I can see your halo halo halo 
+Oh now now!
 
 
-I can see your halo 
+I'm walking on sunshine, woah!
+I'm walking on sunshine, woah!
+I'm walking on sunshine, woah ohoh!
+And don't it feel good!
+
+I can feel your halo halo halo
+I can see your halo halo halo
+I can feel your halo halo halo
+I can see your halo halo halo
+
+I can feel your halo halo halo
+I can see your halo halo halo
+
+
+I can see your halo
 HALO!
 
 

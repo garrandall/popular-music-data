@@ -75,17 +75,17 @@ rankings:
 
 Rollercoaster, of love (Say what?)
 Rollercoaster, (huh huh)
-Ooh, ooh, ooh, ooh
+Oh, oh oohohoh
 Rollercoaster (ride), of love
 Rollercoaster (heh, heh, heh, heh)
-Ooh, ooh, ooh, ooh
+Oh, oh oohohoh
 
 Rollercoaster (love rollercoaster) of love
 (Yeah) Rollercoaster (wow, wow, wow, high)
-Ooh, ooh, ooh, ooh
+Oh, oh oohohoh
 Rollercoaster of love
 Rollercoaster (sha)
-Ooh, ooh, ooh, ooh
+Oh, oh oohohoh
 
 Your love is like a rollercoaster baby, baby
 All you do is ride (Why don't you ride, child?)
@@ -100,14 +100,14 @@ Wow, wow, high, high
 
 Rollercoaster (say what?) of love
 Rollercoaster (Love a-rollercoaster, girl)
-Ooh, ooh, ooh, ooh
+Oh, oh oohohoh
 (Listen) Rollercoaster of love (huh, huh)
 (Huh) Rollercoaster
-Ooh, ooh, ooh, ooh
+Oh, oh oohohoh
 
 Rollercoaster (love rollercoaster child) of love
 Rollercoaster (lovin' you is really wild)
-Ooh, ooh, ooh, ooh
+Oh, oh oohohoh
 
 Your love is like a rollercoaster baby, baby
 All you do is ride (a crazy ride girl)
@@ -123,17 +123,17 @@ Ow
 
 Rollercoaster (Love rollercoaster, girl) of love
 Rollercoaster (huh)
-Ooh, ooh, ooh, ooh (lovin' you is a crazy world child)
+Oh, oh oohohohovin' you is a crazy world child)
 Rollercoaster of love (huh)
 Rollercoaster (Let me a-ride, one more time)
-Ooh, ooh, ooh, ooh
+Oh, oh oohohoh
 
 (High) Rollercoaster (high) of love (high)
 (High child) Rollercoaster (wow)
-Ooh, ooh, ooh, ooh
+Oh, oh oohohoh
 (High) Rollercoaster of love
 (Ya da da da da da da) Rollercoaster
-(A-da da da da da) Ooh, ooh, ooh, ooh
+(A-da da da da da) Oh, oh oohohoh
 
 (Ride) Your love is like a rollercoaster baby, baby
 (On the love rollercoaster)

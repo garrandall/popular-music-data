@@ -52,7 +52,7 @@ You get what you need (Ohh)
 You get what you need (Ohh, yeah)
 
 You can't always get what you want (You can't always get what you want)
-You can't always get what you want (Ooh)
+You can't always get what you want (Oh)
 You can't always get what you want (Can't always get what you want)
 But if you try sometimes, well, you just might find
 You get what you need (Oh yeah)

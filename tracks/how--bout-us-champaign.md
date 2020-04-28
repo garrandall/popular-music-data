@@ -100,7 +100,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-07-18'
 ---
-Ooh, short and sweet
+Oh, short and sweet
 No sense in draggin' on past our needs
 Let's don't keep it hangin' on
 If the fire's out, we should both be gone

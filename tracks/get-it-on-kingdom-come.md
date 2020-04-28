@@ -47,7 +47,7 @@ I feel it raging on and on
 Get it on
 Get it on
 Get it on
-Ooh, shake it
+Oh, shake it
 
 And now you know what we can do for you
 Something has come to life between us, too

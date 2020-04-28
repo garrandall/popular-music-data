@@ -66,8 +66,8 @@ When I look into your eyes, I wanna leap
 I can't conceal that you make me feel
 
 Like a tiger
-Ooh, like a tiger
-Ooh, just to see you smile nearly drives me wild
+Oh, like a tiger
+Oh, just to see you smile nearly drives me wild
 I wanna growl, wow!
 
 I'm feelin' stronger than a grizzly bear
@@ -76,8 +76,8 @@ When I get you in my arms, you'd better beware
 I go insane 'cause I can't be tamed
 
 Like a tiger
-Ooh, like a tiger
-Ooh, just to see you smile nearly drives me wild
+Oh, like a tiger
+Oh, just to see you smile nearly drives me wild
 I wanna growl, wow!
 
 You keep my heart jumpin' like a kangaroo
@@ -91,13 +91,13 @@ I might get mad if I have to wait
 Come right now 'cause I'm on the prowl
 
 Like a tiger
-Ooh, like a tiger
-Ooh, just to see you smile nearly drives me wild
+Oh, like a tiger
+Oh, just to see you smile nearly drives me wild
 I wanna growl, wow!
 
 You keep my heart jumpin' like a kangaroo
 Floatin' like an onion in a bowl of stew
-Baby, ev'ry time you come in view
+Baby, every time you come in view
 I run like an antelope to get to you
 
 I'm your tiger and you're my mate
@@ -106,6 +106,6 @@ I might get mad if I have to wait
 Come right now 'cause I'm on the prowl
 
 Like a tiger
-Ooh, like a tiger
-Ooh, just to see you smile nearly drives me wild
+Oh, like a tiger
+Oh, just to see you smile nearly drives me wild
 I wanna growl, wow!

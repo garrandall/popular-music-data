@@ -156,14 +156,14 @@ Without you right here having my back
 I really don't know just where I'd be at
 
 My whole life has changed (My whole life has changed)
-Since you came in, I knew back then (Ooh...oh...)
+Since you came in, I knew back then (Oh...oh...)
 You were that special one (You were that)
 I'm so in love, so deep in love
 
 You make my life complete (You make, make my love
 complete)
 You are so sweet (Oh, oh), no one competes
-Glad you came into my life (Ooh...)
+Glad you came into my life (Oh...)
 You blind me with your love, with you I have no sight
 
 I analyzed myself, I was buck wild
@@ -179,7 +179,7 @@ And I owe it all to you
 My whole life has changed (My whole life has changed)
 Since you came in, I knew back then (Oh, oh)
 You were that special one (You were that special one)
-I'm so in love, so deep in love (Oh, oh, oh....)
+I'm so in love, so deep in love (Oh, oh, oh...)
 
 You make my life complete (You make my life complete)
 You are so sweet, no one competes
@@ -197,7 +197,7 @@ oh...whoa...yeah. yeah
 I'm addicted to your love, baby, yeah...
 
 My whole life has changed (Oh, yes, I am)
-Since you came in, I knew back then (Ooh)
+Since you came in, I knew back then (Oh)
 You were that special one (You were that very, very
 special one)
 I'm so in love (You were that very, very special one),

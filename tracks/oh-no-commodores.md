@@ -105,7 +105,7 @@ When I close my eyes I see your face
 I'm just not sure how much my heart can erase
 
 Oh no
-I can't think, ooh
+I can't think, oh
 Oh no
 I'm going crazy with love
 Over you

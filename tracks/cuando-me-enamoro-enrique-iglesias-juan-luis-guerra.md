@@ -30,7 +30,7 @@ rankings:
   start_date: '2010-08-14'
 ---
 
-Ohh, oh, ooh, oooh
+Ohh, oh, oh, oh
 
 Si pudiera bajarte una estrella del cielo
 lo haria sin pensarlo dos veces
@@ -50,7 +50,7 @@ cuando menos me lo espero, me enamoro
 se detiene el tiempo, me viene el alma
 al cuerpo, sonrio, cuando me enamoro
 
-(Ohh, oh, ooh, oooh)
+(Ohh, oh, oh, oh
 
 Si la luna seria tu premio,
 yo juraria hacer cualquier cosa,
@@ -63,7 +63,7 @@ que es verdadero, ay,
 no es un sueÃ±o, no
 
 Y me alegro que aveces al final
-no encuentres un momento, ooh no...
+no encuentres un momento, oh no...
 
 Cuando me enamoro aveces desespero,
 cuando me enamoro,

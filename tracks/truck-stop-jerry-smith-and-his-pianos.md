@@ -1,6 +1,6 @@
 ---
 artists:
-- Jerry Smith and his Pianos
+- Jerry Smith
 features: []
 genres: []
 key: truck-stop-jerry-smith-and-his-pianos

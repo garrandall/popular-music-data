@@ -85,13 +85,13 @@ rankings:
   start_date: '1977-02-26'
 ---
 
-So I sing you to sleep 
+So I sing you to sleep
 After the lovin'
 With a song I just wrote yesterday
 And I hope you can hear
 What the words and the music have to say
 
-It's so hard to explain 
+It's so hard to explain
 Everything that I'm feelin'
 Face to face, I just seem to go dry
 But I love you so much
@@ -112,7 +112,7 @@ And I know that my song isn't saying anything new
 Oh, but after the lovin'
 I'm still in love with you
 
-So I sing you to sleep 
+So I sing you to sleep
 After the lovin'
 I brush back the hair from your eyes (after the lovin')
 And the love on your face
@@ -123,7 +123,7 @@ Oh, but after the lovin' (after the lovin')
 I'm still in love with you
 Yes, after the lovin' (after the lovin')
 I'm still in love with you
-Hmm, after the lovin'
+Hm, after the lovin'
 I'm still in love with you
 
 

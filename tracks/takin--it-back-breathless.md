@@ -64,7 +64,7 @@ You're gonna be takin' it back
 Tomorrow when you're flat on your back
 You're gonna be takin' it back
 
-Ooh, whoa, whoa
+Oh, whoa, whoa
 Takin' it back
 Yeah, yeah
 Takin' it back

@@ -44,7 +44,7 @@ Book Of Love
 -Went when you brush your teeth with Pepsodent."
 -Words and Music by Warren Davis, George Malone, and Charles Patrick
 
-I wonder, wonder who, who-oo-ooh WHO 
+I wonder, wonder who, who-oo-oh WHO
 (Who wrote the Book Of Love?)
 
 Tell me, tell me, tell me
@@ -52,7 +52,7 @@ Oh, who wrote the Book Of Love?
 I've got to know the answer
 Was it someone from above?
 
-(Oh, I wonder, wonder who, mmbadoo-ooh, WHO) 
+(Oh, I wonder, wonder who, mmbadoo-oh, WHO)
 (Who wrote the Book Of Love?)
 
 I love you darlin'
@@ -60,7 +60,7 @@ Baby, you know I do
 But I've got to see this Book of Love
 Find out why it's true
 
-(Oh, I wonder, wonder who, mmbadoo-ooh, WHO) 
+(Oh, I wonder, wonder who, mmbadoo-oh, WHO)
 (Who wrote the Book Of Love?)
 
 (Chapter One says to love her)
@@ -69,7 +69,7 @@ Find out why it's true
 (In Chapter Three remember the meaning of romance)
 (In Chapter Four you break up but you give her just one more chance))
 
-(Oh, I wonder, wonder who, mmbadoo-ooh, WHO) 
+(Oh, I wonder, wonder who, mmbadoo-oh, WHO)
 (Who wrote the Book Of Love?)
 
 Baby, baby, baby
@@ -77,7 +77,7 @@ I love you, yes I do
 Well it says so in this Book Of Love
 Ours is the one that's true
 
-(Oh, I wonder, wonder who, mmbadoo-ooh, WHO) 
+(Oh, I wonder, wonder who, mmbadoo-oh, WHO)
 (Who wrote the Book Of Love?)
 
 (Chapter One says to love her)
@@ -86,7 +86,7 @@ Ours is the one that's true
 (In Chapter Three remember the meaning of romance)
 (In Chapter Four you break up but you give her just one more chance)
 
-(Oh, I wonder, wonder who, mmbadoo-ooh, WHO) 
+(Oh, I wonder, wonder who, mmbadoo-oh, WHO)
 (Who wrote the Book Of Love?)
 
 Baby, baby, baby
@@ -94,7 +94,7 @@ I love you, yes I do
 Well it says so in this Book Of Love
 Ours is the one that's true
 
-(Oh, I wonder, wonder who, mmbadoo-ooh, WHO) 
+(Oh, I wonder, wonder who, mmbadoo-oh, WHO)
 (Who wrote the Book Of Love?)
 
 I wonder who (YEAH)

@@ -218,15 +218,8 @@ and da otha set is same got my name in da mold
 
 (Had a whole top diamonds and da bottom Row's gold)
 
-
-
-
 Boy how you get grill that way and
 How much did you pay
 Every time I see you
-Tha first thing I'm gon' say hey.....
-
-
-
-
+Tha first thing I'm gon' say hey...
 

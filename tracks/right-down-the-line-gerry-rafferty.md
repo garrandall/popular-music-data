@@ -102,9 +102,6 @@ I put them all behind
 And it was you woman
 Right down the line
 
-
-
-
 I just wanna say this is my way of telling you everything
 I could never say before
 Yeah this is my way of telling you

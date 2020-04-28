@@ -153,16 +153,10 @@ Girls ain't dumb they know you want the wild thing
 You through the X and go for the kiss
 They throw the O and go for the dis
 
-
-
-
 Do you wanna play Tic-Tac-Toe?
 Do you wanna play Tic-Tac-Toe?
 Do you wanna play Tic-Tac-Toe?
 Do you wanna play Tic-Tac-Toe?
-
-
-
 
 I met this girl by the name of Judy
 Kind of cute with a real nice booty

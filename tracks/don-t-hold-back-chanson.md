@@ -128,7 +128,7 @@ If it feels good
 Don't hold back
 
 
-Don't hold back 
+Don't hold back
 If it feels good, do it
 Don't hold back
 [Don't hold back
@@ -140,13 +140,13 @@ Don't hold back
 
 
 Don't hold back
-If it feels good, do it 
-Don't hold back 
+If it feels good, do it
+Don't hold back
 Don't hold back
 Don't hold back
 
-Don't hold back 
-If it feels good 
+Don't hold back
+If it feels good
 Don't hold back
 
 Baby, don't hold back

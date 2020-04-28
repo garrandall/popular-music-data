@@ -87,9 +87,6 @@ The days can't be like the nights
 In the summer, in the city
 In the summer, in the city
 
-
-
-
 Hot town, summer in the city
 Back of my neck getting dirty and gritty
 Been down, isn't it a pity

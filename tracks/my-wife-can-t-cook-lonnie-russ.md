@@ -99,7 +99,7 @@ Cook them beans, cook 'em clean
 Put 'em in a pot and let 'em stink, come on
 (His wife, she can't cook)
 What you say?
-Woahh, wooo
+Woah, wooo
 
 Come to the doctor
 You wonder why

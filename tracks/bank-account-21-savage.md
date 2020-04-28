@@ -124,7 +124,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-02-03'
 ---
-Ooh, ooh, ooh, ow, ow, ow
+Oh oh oohow, ow, ow
 Wow, wow, ow, ah, ow, ah, ah, ah
 
 

@@ -43,7 +43,7 @@ rankings:
 ---
 
 You must regret the day that you loved me
-(ohh yeah)
+(oh yeah)
 You must regret the day that you left me.
 
 
@@ -57,7 +57,7 @@ I got you right
 I changed your life
 Suicide doors I cosigned
 Gucci bags, louis travel bags
-You left the best you had, baby dont look so mad
+You left the best you had, baby don't look so mad
 
 
 You must regret the day that you left me
@@ -102,7 +102,7 @@ I keep her by my side like a holster
 I plan to make a full house and I aint talkin bout poker
 But I might Poke her and just stroke her
 Cuz im about to treat her like a real man suppose to
-LUDA!!
+LUDA!
 
 
 You must regret the day that you left me

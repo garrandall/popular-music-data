@@ -1,6 +1,6 @@
 ---
 artists:
-- Johnny Beecher and his Buckingham Road Quintet
+- Johnny Beecher
 features: []
 genres: []
 key: sax-fifth-avenue-johnny-beecher-and-his-buckingham-road-quintet

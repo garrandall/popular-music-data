@@ -138,10 +138,10 @@ I'm tired of using technology, why don't you sit down on top of me
 
 Aayooh
 I'm tired of using technology, I need you right in front of me
-Ooh, she wants it, uh uh, she wants it
-Ooh, she wants it, (so), I gotta give it to her,
-Ooh, she wants it, uh uh, she wants it
-Ooh, she wants it, (so), I gotta give it to her,
+Oh, she wants it, uh uh, she wants it
+Oh, she wants it, (so), I gotta give it to her,
+Oh, she wants it, uh uh, she wants it
+Oh, she wants it, (so), I gotta give it to her,
 
 Your hips, your thighs, you got me hypnotized, let me tell you
 Your hips, your thighs, you got me hypnotized, let me tell you
@@ -180,10 +180,10 @@ I'm tired of using technology, why don't you sit down on top of me
 Aayooh
 I'm tired of using technology, I need you right in front of me
 
-Ooh, she wants it, uh uh, she wants it
-Ooh, she wants it, (so), I gotta give it to her,
-Ooh, she wants it, uh uh, she wants it
-Ooh, she wants it, (so), I gotta give it to her,
+Oh, she wants it, uh uh, she wants it
+Oh, she wants it, (so), I gotta give it to her,
+Oh, she wants it, uh uh, she wants it
+Oh, she wants it, (so), I gotta give it to her,
 
 Your hips, your thighs, you got me hypnotized, let me tell you
 Your hips, your thighs, you got me hypnotized, let me tell you

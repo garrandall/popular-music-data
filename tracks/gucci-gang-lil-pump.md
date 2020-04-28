@@ -104,37 +104,37 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-03-03'
 ---
-Yuh, ooh, brr, brr
-Gucci gang, ooh
+Yuh, oh, brr, brr
+Gucci gang, oh
 (That's it right there, Gnealz)
 Yuh, Lil Pump, yuh
-Gucci gang, ooh
-(Ooh, Bi-Bighead on the beat)
+Gucci gang, oh
+(Oh, Bi-Bighead on the beat)
 Yuh, brr
 
 
 Gucci gang, Gucci gang, Gucci gang, Gucci gang (Gucci gang)
 Gucci gang, Gucci gang, Gucci gang (Gucci gang)
 Spend three racks on a new chain (Yuh)
-My bitch love do cocaine, ooh (Ooh)
+My bitch love do cocaine, oh (Oh)
 I fuck a bitch, I forgot her name (Brr, yuh)
-I can't buy a bitch no wedding ring (Ooh)
+I can't buy a bitch no wedding ring (Oh)
 Rather go and buy Balmains (Brr)
 Gucci gang, Gucci gang, Gucci gang (Gucci gang)
 Gucci gang, Gucci gang, Gucci gang, Gucci gang (Gucci gang)
 Gucci gang, Gucci gang, Gucci gang (Gucci gang)
 Spend three racks on a new chain (Huh?)
-My bitch love do cocaine, ooh (Brr)
+My bitch love do cocaine, oh (Brr)
 I fuck a bitch, I forgot her name, yuh (Yuh, yuh)
-I can't buy no bitch no wedding ring, ooh (Nope)
+I can't buy no bitch no wedding ring, oh (Nope)
 Rather go and buy Balmains, ayy (Brr)
 Gucci gang, Gucci gang, Gucci gang (Gucci gang)
 
 
-My lean cost more than your rent, ooh (It do)
+My lean cost more than your rent, oh (It do)
 Your momma still live in a tent, yuh (Brr)
 Still slangin' dope in the 'jects, huh? (Yeah)
-Me and my grandma take meds, ooh (Huh?)
+Me and my grandma take meds, oh (Huh?)
 None of this shit be new to me (Nope)
 Fuckin' my teacher, call it tutoring (Yuh)
 Bought some Red Bottoms, cost hella G's (Huh?)
@@ -151,7 +151,7 @@ Fuck a lil' bitch, make her pussy wet (What?)
 
 Gucci gang, Gucci gang, Gucci gang, Gucci gang (Gucci gang) Gucci gang, Gucci gang, Gucci gang (Gucci gang)
 Spend three racks on a new chain (Huh?)
-My bitch love do cocaine, ooh (Yuh)
+My bitch love do cocaine, oh (Yuh)
 I fuck a bitch, I forgot her name (Brr)
 I can't buy a bitch no wedding ring (Huh?)
 Rather go and buy Balmains (Yuh)
@@ -159,8 +159,8 @@ Gucci gang, Gucci gang, Gucci gang (Gucci gang)
 Gucci gang, Gucci gang, Gucci gang, Gucci gang
 Gucci gang, Gucci gang, Gucci gang (Gucci gang)
 Spend three racks on a new chain (Huh?)
-My bitch love do cocaine, ooh (Brr)
+My bitch love do cocaine, oh (Brr)
 I fuck a bitch, I forgot her name, yuh (Yuh)
-I can't buy no bitch no wedding ring, ooh (Nope)
+I can't buy no bitch no wedding ring, oh (Nope)
 Rather go and buy Balmains, ayy (Huh?)
 Gucci gang, Gucci gang, Gucci gang

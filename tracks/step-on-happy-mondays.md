@@ -73,8 +73,8 @@ He'll make a stranger in your own land
 Hey good lady he's got God on his side he got a double
 Tongue you never think he would lie
 
-(oh he lied, oooh he's twistin' my melon man)
-(oh he lied, oooh he's twistin' my melon man)
+(oh he lied, oh he's twistin' my melon man)
+(oh he lied, oh he's twistin' my melon man)
 
 
 Gonna stamp out your fire, he can change your desire

@@ -57,7 +57,7 @@ Sip got me buzzin' (Yeah), I am not a husband (No)
 I can be your daddy 'cause I am a motherfucker (Haha)
 Fuck, niggas muggin', these niggas sweet muffin
 Put my seed on her face, she get smashed like a pumpkin (Smash)
-Ooh, she love it, do me rougher
+Oh she love it, do me rougher
 Talk that nasty, when I smack your ass cheek (Come, come, come)
 
 
@@ -139,4 +139,4 @@ W-When you turn 'em down, these clowns turn into babies
 Who-Who got the juice? Be sending you niggas' brazy
 W-W-Who got 'em mad? Like, man, that pussy wavy
 All these niggas want me to love 'em like I'm Kiki
-Got 'em in they feelings since they seen me in FEFE (Ooh)
+Got 'em in they feelings since they seen me in FEFE (Oh

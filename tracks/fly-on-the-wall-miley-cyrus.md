@@ -20,10 +20,10 @@ rankings:
 You don't understand what it is
 That makes me tick
 But you wish you did
-You always second guess,wonder if i say yes
+You always second guess,wonder if I say yes
 but you just lose out every time
 
-If you only knew what i talked about
+If you only knew what I talked about
 When I'm with my friends just hangin' out
 Then you'd have the inside scoop
 On what to say, what to do
@@ -48,7 +48,7 @@ If I make a promise, I'm comin' thru
 Don't you wish that you could
 See me every second of the day
 That way you would have no doubt
-That baby i would never stray
+That baby I would never stray
 
 
 Don't you wish that you could be a Fly on the Wall
@@ -62,7 +62,7 @@ Well that'll go a long way
 You're getting misinformation
 Too much hearsay, hearsay
 
-and what i say is
+and what I say is
 come a little closer
 And what I'm gonna say is
 

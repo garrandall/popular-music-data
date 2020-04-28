@@ -67,7 +67,7 @@ I would have shown you how to do, do it right
 Do it right, do it right
 Do it right, do it right
 
-Ahh!
+Ah!
 Twistin'
 Shake it, shake it, shake it, shake it baby
 Here we go loop-de-loop
@@ -78,7 +78,7 @@ Bend over let me see you shake your tail feather
 
 Bend over let me see you shake your tail feather
 
-Ahh!
+Ah!
 Twistin'
 Shake it, shake it, shake it, shake it baby
 Here we go loop-de-loop
@@ -87,7 +87,7 @@ Here we go loop-de-lie
 Bend over let me see you shake your tail feather
 Bend over let me see you shake your tail feather
 
-Ahh!
+Ah!
 Twistin'
 Shake it, shake it, shake it, shake it
 Shake it, shake it, shake it, shake it
@@ -99,7 +99,7 @@ Come on, come on baby
 Come on, come on baby
 Come on, come on baby
 
-Ahh!
+Ah!
 Twistin'
 Shake it, shake it baby
 Shake it up, shake it, shake it baby

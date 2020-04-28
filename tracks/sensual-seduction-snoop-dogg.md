@@ -91,12 +91,12 @@ rankings:
 
 I'm gonna take my time mmime!
 She gonna get hers before I...
-I'm gonna take it slow..ow..oo..ow,
+I'm gonna take it slow...ow...oo...ow,
 I'm not gonna rush to stroll, so she can get a...
 Sensual seduction-duction so she can get a..
-Sensual seduction-duction ooh whoa!
+Sensual seduction-duction ohwhoa!
 So she can get a sensual seduction-duction duction
-Sensual seduction-duction ooh whoa!
+Sensual seduction-duction ohwhoa!
 
 She might be with him, but shes thinking bout me, me, meee,
 We gonna go to the mall, we gonna go out to eat, eat, eat,
@@ -105,12 +105,12 @@ Smoke us a cigarette, and go back to sleep, sleep, sleep, so we can get a!
 
 
 Sensual seduction-duction
-Sensual seduction-duction ooh whoa! ooh whoa!
+Sensual seduction-duction ohwhoa! oohhoa!
 Sensual seduction-duction duction
-Sensual seduction-duction ooh whoa!
+Sensual seduction-duction ohwhoa!
 I'm gonna take my time mmime!
 She gonna get hers before I...
-I'm gonna take it slow..ow..oo..ow,
+I'm gonna take it slow...ow...oo...ow,
 I'm not gonna rush to stroll,
 
 If ya don't know right know, doggy-dog is a freak,freak,freak!
@@ -121,9 +121,9 @@ Smoke us a cigarette, and go back to sleep, sleep, sleep, so we can get a!
 
 
 Sensual seduction-duction
-Sensual seduction-duction ooh whoa! ooh whoa!
+Sensual seduction-duction ohwhoa! oohhoa!
 Sensual seduction-duction duction
-Sensual seduction-duction ooh whoa!
+Sensual seduction-duction ohwhoa!
 
 I was all in the club sipping some jin smoking on a benadrome when I
 Peeped this little hoe out, I was all in a bum and drifter, shorty then
@@ -140,9 +140,9 @@ Cause I wouldn't want to have her to rush!
 
 
 Sensual seduction-duction
-Sensual seduction-duction ooh whoa! ooh whoa!
+Sensual seduction-duction ohwhoa! oohhoa!
 Sensual seduction-duction duction
-Sensual seduction-duction ooh whoa
+Sensual seduction-duction ohwhoa
 
 
 

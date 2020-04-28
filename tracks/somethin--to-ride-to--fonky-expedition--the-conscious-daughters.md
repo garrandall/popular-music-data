@@ -114,9 +114,6 @@ With hella scratch to get at
 Check it, CMG on a mission
 To get with some niggas to ride on this funky expedition
 
-
-
-
 Yeah, Conscious Daughters
 All up in your trunk
 Somethin' to ride to, feel that shit, yeah

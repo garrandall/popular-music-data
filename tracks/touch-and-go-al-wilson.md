@@ -82,7 +82,7 @@ With all the ups and downs
 So please stay around
 
 I need you so
-Ooh, girl, I need you so
+Oh, girl, I need you so
 (I need you)
 
 There's nothing to lose by trying
@@ -101,7 +101,7 @@ With all the ups and downs
 So please stay around
 
 I need you so
-Ooh, girl, I need you so
+Oh, girl, I need you so
 (I need you)
 
 It's been touch and go
@@ -112,7 +112,7 @@ With all the ups and downs
 So please stay around
 
 I need you so
-Ooh, girl, I need you so
+Oh, girl, I need you so
 (I need you)
 
 It's been touch and go

@@ -110,9 +110,9 @@ Tell me more, tell me more
 Cos' he sounds like a drag
 
 
-Shoo-bop bop, shoo-bop bop, 
-shoo-bop bop,shoo-bop bop, 
-shoo-bop bop, shoo-bop bop, 
+Shoo-bop bop, shoo-bop bop,
+shoo-bop bop,shoo-bop bop,
+shoo-bop bop, shoo-bop bop,
 shoo-bop bop, YEAH
 
 
@@ -161,7 +161,7 @@ Then we made our true love vow
 Wonder what he's doing now
 
 
-Summer dreams ripped at the seams, bu-ut oh those su-ummer nights....
+Summer dreams ripped at the seams, bu-ut oh those su-ummer nights...
 
 
 Tell me more, tell me more!

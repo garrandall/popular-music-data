@@ -77,9 +77,6 @@ I stay awake and I want you by my side, baby
 (I stay awake and I want you, baby)
 I stay awake and I want you by my side, baby
 
-
-
-
 I stay awake and I want you by my side, baby
 (I stay awake and I want you, baby)
 I stay awake and I want you by my side, baby

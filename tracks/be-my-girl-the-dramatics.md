@@ -85,7 +85,7 @@ Be my girl
 Be my girl, (repeat 5 times)
 I need you in a despreate way
 All the girls I've met where so full of play
-It's not even a bother if I forgot their names.....
+It's not even a bother if I forgot their names...
 Oh yeah
 
 In the minute I first saw you
@@ -95,7 +95,7 @@ And my walking for the day, broke my sprit,broke my sprit
 Now
 You got me dreaming, got me dreaming
 And I can tell without you being there
-So stop this mistreating me....Oh
+So stop this mistreating me...Oh
 I wanna stay with you, I wanna lay with you
 I wanna be your man
 Be my girl, my girl, be my girl

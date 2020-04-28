@@ -29,10 +29,10 @@ rankings:
   start_date: '1979-10-20'
 ---
 
-Ah-ha-ha, ah-aaaah
-Ah-ha-ha, ah-aaaah
+Ah-ha-ha, ah-ah
+Ah-ha-ha, ah-ah
 Ah-ha-ha, keep thinking 'bout his angeleyes
-I keep thinking, a-aaah
+I keep thinking, a-ah
 
 Last night I was taking a walk along the river
 And I saw him together with a young girl
@@ -50,10 +50,10 @@ And one day you'll find out he wears a disguise
 Don't look too deep into those angeleyes
 Oh no no no no
 
-Ah-ha-ha, ah-aaaah
-Ah-ha-ha, ah-aaaah
+Ah-ha-ha, ah-ah
+Ah-ha-ha, ah-ah
 Ah-ha-ha, keep thinking 'bout his angeleyes
-I keep thinking, a-aaah
+I keep thinking, a-ah
 
 Sometimes when I'm lonely I sit and think about him
 And it hurts to remember all the good times
@@ -78,12 +78,12 @@ And one day you'll find out he wears a disguise
 Don't look too deep into those angeleyes
 Oh no no no no
 
-Ah-ha-ha, ah-aaaah
-Ah-ha-ha, ah-aaaah
+Ah-ha-ha, ah-ah
+Ah-ha-ha, ah-ah
 
-Ah-ha-ha, keep thinking, ah-aaaah
+Ah-ha-ha, keep thinking, ah-ah
 Keep thinking 'bout his angeleyes
-Ah-ha-ha, keep thinking, ah-aaaah
+Ah-ha-ha, keep thinking, ah-ah
 Keep thinking, I had to pay the price
 
 

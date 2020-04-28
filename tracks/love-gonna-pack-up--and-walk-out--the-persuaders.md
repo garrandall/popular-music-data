@@ -65,9 +65,6 @@ That's why I gotta sacrifice for you, you gotta sacrifice for me
 I gotta understand you, you gotta understand me
 Doesn't really matter (no) whose fault it was
 
-
-
-
 We got this one life to live, one love to give
 Let's kiss song, this is my hug song
  together, let's love song

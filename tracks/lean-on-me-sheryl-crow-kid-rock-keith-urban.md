@@ -67,6 +67,3 @@ If you just call me
 
 Call me, call me, call me...
 
-
-
-

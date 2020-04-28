@@ -19,7 +19,7 @@ rankings:
 Can anybody find me somebody to love?
 
 
-Ooh, each morning I get up I die a little
+Oh each morning I get up I die a little
 Can barely stand on my feet
 (Take a look at yourself in the mirror and cry)
 Take a look in the mirror and cry
@@ -29,7 +29,7 @@ But I just can't get no relief, Lord
 
 
 Somebody (Somebody)
-Ooh, somebody (Somebody)
+Oh somebody (Somebody)
 Can anybody find me somebody to love?
 Yeah
 
@@ -44,7 +44,7 @@ And I start to pray (Praise the Lord)
 
 
 Somebody (Somebody)
-Ooh, somebody (Please)
+Oh somebody (Please)
 Can anybody find me somebody to love?
 Oh
 
@@ -62,8 +62,8 @@ No, no, no, no
 
 
 (Oh, Lord)
-Ooh somebody
-Ooh (Somebody)
+Ohsomebody
+Oh(Somebody)
 Anybody find me
 Somebody to love
 (Can anybody find me someone to love)
@@ -94,11 +94,11 @@ Somebody (Find me)
 Can anybody find me
 Somebody to
 Love?
-(Find me somebody to love) Ooh
+(Find me somebody to love) Oh
 (Find me somebody to love) Find me somebody
 (Find me somebody to love) Somebody, somebody, somebody to love
 (Find me somebody to love) Find me, find me, find me, find me, find me
-(Find me somebody to love) Ooh,  somebody to love
-(Find me somebody to love) Ooh, find me, find me, find me somebody to love
+(Find me somebody to love) Oh  somebody to love
+(Find me somebody to love) Oh find me, find me, find me somebody to love
 (Find me somebody to love) Anybody, anywhere, anybody find me somebody to love, love
 Find me, find me, find me

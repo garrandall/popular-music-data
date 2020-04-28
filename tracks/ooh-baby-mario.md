@@ -3,9 +3,9 @@ artists:
 - Mario
 features: []
 genres: []
-key: ooh-baby-mario
-lyrics_url: https://genius.com/Mario-ooh-baby-lyrics
-name: Ooh Baby
+key: ohbaby-mario
+lyrics_url: https://genius.com/Mario-ohbaby-lyrics
+name: OhBaby
 rankings:
 - end_date: '2010-04-02'
   rank: 95
@@ -31,15 +31,15 @@ All the freaky things that I'm thinking, baby
 Your clothes are all off and the bed is right there
 Besides your high heels all you're wearing is your hair
 I could break it down for you if you not scared
-Like ooh, ooh, ooh baby
+Like oh oohohohby
 
 Pleasure principle, can you work it in the chair?
 And I can get you right with your legs up in the air
 Now I can break it down for you if you not scared
-Like ooh, ooh, ooh baby
+Like oh oohohohby
 
-Baby, baby, ooh, ooh, ooh baby
-Baby, baby, ooh, ooh, ooh baby
+Baby, baby, oh oohohohby
+Baby, baby, oh oohohohby
 
 
 It's been so long

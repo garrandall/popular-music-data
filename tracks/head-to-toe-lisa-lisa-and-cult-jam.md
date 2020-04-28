@@ -107,11 +107,11 @@ I got to, got to
 Got to tell you, darling
 
 
-Ooh, baby
+Oh baby
 I think I love you
 From head to toe
 
-Ooh, baby
+Oh baby
 I think I love you
 From head to toe
 
@@ -145,19 +145,19 @@ I got to, got to
 Got to tell you, darling
 
 
-Ooh, baby
+Oh baby
 I think I love you
 From head to toe
 
-Ooh, baby
+Oh baby
 I think I love you
 From head to toe
 
-Ooh, baby
+Oh baby
 I think I love you
 You got to know
 
-Ooh, baby
+Oh baby
 I think I love you
 From head to toe
 
@@ -182,19 +182,19 @@ I got to, got to
 Got to tell you, darling
 
 
-Ooh, baby
+Oh baby
 I think I love you
 From head to toe
 
-Ooh, baby
+Oh baby
 I want to kiss you
 From head to toe
 
-Ooh, baby
+Oh baby
 I think I love you
 You got to know
 
-Ooh, baby
+Oh baby
 I think I love you
 From head to toe
 
@@ -202,14 +202,14 @@ I think I love you
 From head to toe
 I know
 
-Ooh, baby
+Oh baby
 I want to kiss you
 From head to toe
 
-Ooh, baby
+Oh baby
 I think I love you
 You got to know
 
-Ooh, baby
+Oh baby
 I think I love you
 From head to toe

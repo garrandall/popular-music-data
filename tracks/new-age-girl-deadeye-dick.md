@@ -141,9 +141,6 @@ I don't know where she's going
 And I don't know where she's been
 All I know that lovin' her has gotta be a sin
 
-
-
-
 Mary Moon, will you hesitate?
 Don't segregate your thoughts from your emotions
 (Mary Moon)

@@ -128,7 +128,7 @@ Doing what you like
 So boy, forget about the world
 'Cause it's gon' be me and you tonight (Yeah)
 I wanna make you beg for it
-Then I'ma make you swallow your pride, ooh
+Then I'ma make you swallow your pride, oh
 
 
 Want you to make me feel like I'm the only girl in the world
@@ -150,7 +150,7 @@ Make me feel right (Feel right)
 Baby, I'll tell you all my secrets that I'm keeping
 You can come inside (Yeah)
 And when you enter, you ain't leaving
-Be my prisoner for the night, ooh
+Be my prisoner for the night, oh
 
 
 Want you to make me feel like I'm the only girl in the world

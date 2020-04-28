@@ -32,9 +32,6 @@ I would like to help you find it."
 She replied: "Oh yes, you have lost something
 You've lost… your life."
 
-
-
-
 Is it wickedness?
 
 

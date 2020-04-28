@@ -75,9 +75,6 @@ Every day, I feel a different man
 Caught adrift and there's no sight of land
 Hey baby, do I come back to you
 
-
-
-
 Every woman made a fool out of me
 My mama told me when she set me free
 She said, "Son, you just have got to find

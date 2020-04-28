@@ -108,7 +108,7 @@ Like lovers do
 Here comes the rain again
 Raining in my head like a tragedy
 Tearing me apart like a new emotion
-Oooooh
+Oh
 I want to breathe in the open wind
 I want to kiss like lovers do
 Want to dive into your ocean
@@ -120,16 +120,16 @@ Like lovers do
 Walk with me
 Like lovers do
 Talk to me
-Oooooh
+Oh
 Like lovers do
 
 So baby talk to me
 Like lovers do
 
-Oooooh
-Oooooh yeah
+Oh
+Oh yeah
 Here it comes again
-Oooooh
+Oh
 Hey, hey, hey, hey, hey, hey, hey
 
 
@@ -143,7 +143,7 @@ Want to dive into your ocean
 Is it raining with you?
 
 
-Oooooh
+Oh
 Here comes the rain again
 Falling on my head like a memory
 Falling on my head like a new emotion

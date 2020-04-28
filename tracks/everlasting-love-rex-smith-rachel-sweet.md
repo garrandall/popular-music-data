@@ -107,7 +107,7 @@ Everlasting love
 From the very start
 We'll open up our hearts
 We'll be a lasting part of
-Everlasting 
+Everlasting
 
 
 Where life's really flows
@@ -127,9 +127,6 @@ When other loves are gone
 Ours will still be strong
 We'll have our very own
 Everlasting love
-
-
-
 
 Open up your eyes
 Then you'll realize

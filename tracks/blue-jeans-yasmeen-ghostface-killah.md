@@ -52,9 +52,6 @@ Wouldn't wanna loose this, love before we start
 You got everything, that I want, that I want
 You got everything, that I need, that I need
 
-
-
-
 Days went by and it was plain to see
 That I finally figured out why you started diggin' me
 It was the jeans not the rings, couch fit, scene

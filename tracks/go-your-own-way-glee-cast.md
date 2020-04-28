@@ -35,7 +35,7 @@ Ohh
 (You can go your own way) Go your own way
 
 
-Oooohh-heey!
+Oh-heey!
 
 
 (You can go your own way) Go your own way
@@ -44,11 +44,11 @@ Oooohh-heey!
 (You can call it another lonely day)
 
 
-Ooh! Ooh! Ooh!
+Oh OOhOhOh
 
 
-Ooh!
+Oh
 You can go, you can go
-Ooh! (You can call it another lonely day)
+Oh (You can call it another lonely day)
 Call it another lonely day, yeah (You can go your own way)
 Go your own way

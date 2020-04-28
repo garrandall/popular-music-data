@@ -78,7 +78,7 @@ And don't act like you don't
 I don't tripp because I know
 That I'm the guy you come home to every night
 
-Everyday i thank
+Everyday I thank
 The Lord above
 That you're with me
 That you're with me

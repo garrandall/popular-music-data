@@ -68,7 +68,7 @@ That's the situation
 For a man to be free
 Oh, come on
 Oh, got to be free
-Yeah, yeah, ohhhhh
+Yeah, yeah, oh
 Oh, what a feeling
 Just come over me
 Not to lose nothing

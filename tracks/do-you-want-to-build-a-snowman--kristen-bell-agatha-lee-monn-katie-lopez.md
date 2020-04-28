@@ -103,11 +103,6 @@ It doesn't have to be a snowman...
 
  Okay, bye...
 
-
-
-
-
-
 Do you wanna build a snowman?
 Or ride our bike around the halls?
 I think some company is overdue
@@ -120,13 +115,6 @@ It gets a little lonely
 All these empty rooms
 Just watching the hours tick by...
 (Tick-tock tick-tock tick-tock tick-tock)
-
-
-
-
-
-
-
 
 Elsa, please I know you're in there
 People are asking where you've been

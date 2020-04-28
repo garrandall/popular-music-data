@@ -80,7 +80,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
 ---
-Aahh
+Ah
 Oh baby
 Oh baby, keep on
 My baby, keep on doing it

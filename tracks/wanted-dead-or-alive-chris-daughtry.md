@@ -49,7 +49,7 @@ Yeah
 
 
 
-Ooh, I'm a cowboy
+Oh, I'm a cowboy
 On a steel horse I ride
 I'm wanted (wanted) dead or alive
 

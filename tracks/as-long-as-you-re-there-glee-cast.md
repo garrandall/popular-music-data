@@ -12,8 +12,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-06-11'
 ---
-Hmm
-Hmm
+Hm
+Hm
 All my life
 I've waited for the right
 Moment to let you know

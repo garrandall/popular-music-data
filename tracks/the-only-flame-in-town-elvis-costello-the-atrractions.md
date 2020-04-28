@@ -68,9 +68,6 @@ And with each passing day
 You'd be less tender and more tinder
 Now you're not the only flame in town
 
-
-
-
 Thought I saw your face in the fire
 But it's so hard to remember
 Even an inferno can cool down to an ember

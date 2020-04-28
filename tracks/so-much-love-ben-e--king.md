@@ -31,7 +31,7 @@ And it's all for you
 My world was cold and empty
 And my life was so unfilling
 When I needed someone to pick me up
-Ooh, girl, you were oh-so-willing
+Oh girl, you were oh-so-willing
 Now to you that might seem like a little thing
 But to me it's like changing winter to spring
 

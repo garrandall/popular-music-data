@@ -14,7 +14,7 @@ rankings:
 ---
 Some people like to rock, some people like to roll
 A-movin' and a-groovin' gonna satisfy the soul, let's have a party
-(Ooh!)
+(Oh)
 Let's have a party
 Yeah, yeah, yeah
 Let's add 'em to the store, let's buy some more
@@ -23,7 +23,7 @@ Let's have a party tonight
 Well, I never kissed a ?, I never kissed a ?
 But I can shake it, shake it in the middle of the room
 Let's have a party
-(Ooh!)
+(Oh)
 Let's have a party
 (Yeah, yeah, yeah)
 Let's add 'em to the store, let's buy some more
@@ -33,7 +33,7 @@ Well, Honky-Tonky Joe
 Came knocking at the door
 ???? Santa Monica ??
 Let's have a party
-(Ooh!)
+(Oh)
 Let's have a party
 (Yeah, yeah, yeah)
 Let's add 'em to the store, let's buy some more
@@ -45,7 +45,7 @@ Yeah, the meat is on the stove
 The bread's a-getting hot
 Everybody come and taste the gumbo's in the pot
 Let's have a party
-(Ooh!)
+(Oh)
 Let's have a party
 (Yeah, yeah, yeah)
 Let's add 'em to the store, let's buy some more
@@ -55,7 +55,7 @@ Say, Honky-Tonky Joe
 Came knocking at the door
 ???? Santa Monica ??
 Let's have a party
-(Ooh!)
+(Oh)
 Let's have a party
 (Yeah, yeah, yeah)
 Let's add 'em to the store, let's buy some more
@@ -63,7 +63,7 @@ Let's have a party tonight
 
 Some people like to rock, some people like to roll
 A-movin' and a-groovin' gonna satisfy the soul, let's have a party
-(Ooh!)
+(Oh)
 Let's have a party
 Yeah, yeah, yeah
 Let's add 'em to the store, let's buy some more
@@ -72,7 +72,7 @@ Let's have a party tonight
 Well, I never kissed a ?, I never kissed a ?
 But I can shake it, shake it in the middle of the room
 Let's have a party
-(Ooh!)
+(Oh)
 Let's have a party
 (Yeah, yeah, yeah)
 Let's add 'em to the store, let's buy some more

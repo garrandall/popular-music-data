@@ -28,8 +28,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-08-25'
 ---
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh, oh, oh, oh, oh, oh, oh
+Oh, oh, oh, oh, oh, oh, oh
 
 Understanding and trusting
 Is what our love is built on
@@ -39,9 +39,9 @@ Respect what we're about, hey
 Why leave us alone
 Why break up our home
 Why leave us alone
-Why break up our happy home 
+Why break up our happy home
 
-Ooh... these changes that you're bringing (Bringing)
+Oh... these changes that you're bringing (Bringing)
 I can't adjust to
 So quickly
 I want to at least try to reach you, hey
@@ -49,7 +49,7 @@ I want to at least try to reach you, hey
 Why leave us alone (Why leave us alone)
 Why break up our home (Oh, no, oh, no)
 Why leave us alone
-Why break up our happy home 
+Why break up our happy home
 
 I need you so badly
 I want you so, baby
@@ -63,7 +63,7 @@ Oh
 Why leave us alone (Why leave us alone)
 Why break up our home
 Why leave us alone
-Why break up our happy home 
+Why break up our happy home
 
 I need you so badly
 I want you so, baby

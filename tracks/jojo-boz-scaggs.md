@@ -89,11 +89,11 @@ Flashy lines you know him
 
 He got you covered
 You know it right out front
-Hmm hmm
+Hm hm
 Hey fifty dollars
 He'll get you all you want
 Jo Jo dig those spinning nights
-Way out games and dizzy heights below him 
+Way out games and dizzy heights below him
 And its all below him
 Jo Jo dig those Broadway lights
 Flashy lines you know him
@@ -111,7 +111,7 @@ He keep her just right
 Keeps her on the street
 
 Jo Jo dig those spinning lights
-(Way out games and dizzy heights) 
+(Way out games and dizzy heights)
 Oh below him
 Jo Jo dig those Broadway nights
 Oh you know him

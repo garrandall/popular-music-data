@@ -59,9 +59,6 @@ Her partner can't hardly hold her
 She never gets any older
 Sweet little rock and roller
 
-
-
-
 Should've seen her eyes when the band began to play
 And the famous singers sang and barred away
 When the stars performed, she screamed and yelled, "Hooray!"

@@ -105,9 +105,6 @@ To keep her looking pretty, buy her dresses that shine
 While the rest of them dudes were making their friends
 Boy, I beg your pardon, I was losing mine
 
-
-
-
 You know she was a dancer, she moved better on wine
 While the rest of them dudes were getting their kicks
 Boy, I beg your pardon, I was getting mine

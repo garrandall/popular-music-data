@@ -113,11 +113,11 @@ But don't hesitate
 'Cause your love
 Your love won't wait, oh no no
 
-(Ooh)
+(Oh)
 Baby, I love your way every day
-(Ooh)
+(Oh)
 Wanna tell you I love your way every day
-(Ooh)
+(Oh)
 Wanna be with you night and day
 Hey, I love your way
 
@@ -141,34 +141,34 @@ But don't hesitate
 'Cause your love
 Your love won't wait
 
-Ooh, baby
+Oh, baby
 I love your way
 (Every day)
-(Ooh)
+(Oh)
 Wanna tell you I love your way
 (Night and day)
 Oh, baby, I love your way
 (Every day)
 Every day now
-Ooh wanna tell you I love your way
+Oh wanna tell you I love your way
 (Night and day, night and day)
 
 I love your way
-Ooh, baby
+Oh, baby
 I love your way
 ('Cause I'm as free as a bird now)
 Give me you way
 Wanna tell you I love your way
 (A free bird now)
-Ooh baby I love your ways
+Oh baby I love your ways
 
-Ooh, baby I love your way
+Oh, baby I love your way
 (Every day)
-Ooh, wanna tell you I love your way
+Oh, wanna tell you I love your way
 (Night and day)
-Ooh, baby I love your way
+Oh, baby I love your way
 (Every day, every day)
-Ooh, wanna tell you I love your way
+Oh, wanna tell you I love your way
 (Night and day, night and day, oh)
-Ooh, baby I love your way
+Oh, baby I love your way
 (Night and day)

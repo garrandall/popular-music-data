@@ -75,7 +75,7 @@ Neck roll with the attitude, yuh
 
 I can't fake another smile (And I can't fake)
 I can't fake like I'm alright (Another smile)
-Woo, ah (Woo, ah) (Ooh)
+Woo, ah (Woo, ah) (Oh)
 And I won't say I'm feeling fine (I'm feeling fine)
 After what I been through, I can't lie
 Woo, ah (Woo, ah)

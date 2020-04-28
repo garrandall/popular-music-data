@@ -103,7 +103,7 @@ If you should ever find someone new, I know he'd better be good to you
 
 Don't you know, baby, yeah yeah
 I'll be there, I'll be there, just call my name, I'll be there
-(Just look over your shoulders, honey - ooh)
+(Just look over your shoulders, honey - oh)
 
 I'll be there, I'll be there, whenever you need me, I'll be there
 Don't you know, baby, yeah yeah

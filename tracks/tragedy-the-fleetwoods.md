@@ -57,9 +57,9 @@ rankings:
   start_date: '1961-07-03'
 ---
 Tragedy
-Wind and storm (wah-ooh)
-Gone's the sun (wah-ooh)
-From the stars(wah-ooh)
+Wind and storm (wah-oh
+Gone's the sun (wah-oh
+From the stars(wah-oh
 My dark has come
 You've gone from me, whoa, whoa,
 Tragedy

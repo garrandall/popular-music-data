@@ -19,7 +19,7 @@ rankings:
 
 Here it comes again, it's going to happen to me
 Here it comes, I should have learned to duck
-She's going to say,     she's going away
+She's going to say, she's going away
 And I will have to live without her and survive
 
 Here it comes, it looks just like the last wave I drowned in

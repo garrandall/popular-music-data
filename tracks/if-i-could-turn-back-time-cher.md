@@ -141,18 +141,18 @@ And you'd stay
 If I could reach the stars
 I'd give 'em all to you
 Then you'd love me, love me
-Like you used to do, ohh
+Like you used to do, oh
 
 If I could turn back time
 (If I could turn back time)
 If I could turn back time
 (If I could turn back time)
-If I could turn back time, ohh baby
+If I could turn back time, oh baby
 
 I didnt really mean to hurt you
 I didn't wanna see you go
 I know I made you cry
-But ohh
+But oh
 
 If I could turn back time
 If I could find a way

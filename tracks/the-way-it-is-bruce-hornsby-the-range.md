@@ -123,9 +123,6 @@ Some things'll never change
 That's just the way it is
 Ha, but don't you believe them
 
-
-
-
 That's just the way it is
 That's just the way it is
 

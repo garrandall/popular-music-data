@@ -105,7 +105,7 @@ Story is there for the taking
 Driving over Kanan, singing to my soul
 There's people out there turning music into gold
 
-(Ooh)
+(Oh)
 
 Driving over Kanan, singing to my soul
 There's people out there turning music into gold
@@ -123,7 +123,7 @@ People out there turning music into gold
 People out there turning music into gold
 People out there turning music into gold
 
-(Ooh, yeah)
+(Oh, yeah)
 
 People out there turning music into gold (into gold)
 People out there turning music into gold (into gold)

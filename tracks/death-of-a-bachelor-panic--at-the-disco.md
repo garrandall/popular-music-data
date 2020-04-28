@@ -43,9 +43,6 @@ The death of a bachelor, o-o-oh! Seems so fitting for
 Happily ever after, whooo, how could I ask for more?
 A lifetime of laughter at the expense of the death of a bachelor
 
-
-
-
 The death of a bachelor, o-o-oh! Letting the water fall
 The death of a bachelor, o-o-oh! Seems so fitting for
 Happily ever after, whooo, how could I ask for more?

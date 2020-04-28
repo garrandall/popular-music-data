@@ -84,7 +84,3 @@ Something except goodbye
 And there is someone belonging to someone
 And I got no one belonging to me
 
-
-
-
-

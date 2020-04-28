@@ -86,7 +86,7 @@ All I ask is, Lord, why don't you make her
 Understand because
 I'll die if she don't wait for me
 
-Oooooh, somebody, please, if somebody will
+Oh, somebody, please, if somebody will
 Let them take a letter to my girl, Lucille
 Let them tell her, Lord, how I'm missing her still
 I think about her constantly...

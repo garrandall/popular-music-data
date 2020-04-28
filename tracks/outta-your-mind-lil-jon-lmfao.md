@@ -15,11 +15,11 @@ rankings:
 ---
 
 
-YEAAAHHHH!!!
+YEAAAHHHH!
 Everybody in the club right now (wassup)
 If you're standing around (what) you need to get the fuck up outta here (get out!)
 Because when come in the club (wassup) we like to get fucking crazy (craaazy!)
-you know what....LET"S FUCKING LOSE IT
+you know what...LET"S FUCKING LOSE IT
 
 
 Get outta your mind, get outta your mind (what), get outta your mind (what)
@@ -52,9 +52,9 @@ Get outta your mind (what), get outta your mind (what), get outta your mind (wha
 Bump that shit, get outta your mind (what)
 
 
-Grab that bottle (what), twist that cap (what), hold it in the air and tip it back. 
+Grab that bottle (what), twist that cap (what), hold it in the air and tip it back.
 I'm crunk as hell (what), I'm all Patron (what), I really don't dance, but I'm in the zone
-Move bitch get out the way, I'm running over niggas like a runaway train, 
+Move bitch get out the way, I'm running over niggas like a runaway train,
 I grab my beer, you do the same, shake that shit and make it rain!
 
 I don't give a fuck, I don't give a fuck, FUCK IT!
@@ -69,10 +69,10 @@ Get outta your mind (what), get outta your mind (what), get outta your mind (wha
 Bump that shit, get outta your mind (what)
 
 
-Flip cup, tip cup, beer pong, shots, 
+Flip cup, tip cup, beer pong, shots,
 Niggas on the goose, bitches on my jock
 Bar-ten-der, gimme whatcha got
-They're dancing on the table, I got niggas smoking rocks 
+They're dancing on the table, I got niggas smoking rocks
 HA get off me, I'm checking motherfuckers like a nigga playing hockey
 Yeah, I'm in the penatly box, I'm fucked up taking too many shots
 

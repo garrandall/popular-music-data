@@ -78,7 +78,7 @@ Own lane, never switch, nigga, never switch, nigga
 Tryna fuck the world, they can suck a dick, nigga (Real shit)
 Fuck telling stories, I'ma make one
 This is real life shit, niggas make one
-I dont care about none of y'all
+I don't care about none of y'all
 Need to go and get your money up (Ya dig?)
 
 

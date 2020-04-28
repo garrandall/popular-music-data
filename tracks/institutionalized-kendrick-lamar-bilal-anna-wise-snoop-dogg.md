@@ -85,9 +85,6 @@ Well that's me at these awards
 I guess my grandmama was warnin' a boy
 She said...
 
-
-
-
 And once upon a time in a city so divine
 Called West Side Compton, there stood a little nigga
 He was 5 foot something, dazed and confused

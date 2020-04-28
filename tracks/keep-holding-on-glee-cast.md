@@ -30,13 +30,13 @@ There's no place to go
 You know, I won't give in
 
 
-(Aaah-aaah)
+(Ah-ah)
 
 
 No, I won't give in
 
 
-(Aaah-aaah)
+(Ah-ah)
 
 
 (Keep holding on)
@@ -70,8 +70,8 @@ This could all disappear
 Before the doors close,
 And it comes to an end,
 With you by my side,
-I will fight and defend (Aaah-aaah)
-I'll fight and defend (Aaah-aaah)
+I will fight and defend (Ah-ah)
+I'll fight and defend (Ah-ah)
 Yeah! Yeah!
 
 
@@ -121,11 +121,11 @@ There's no other way (when it comes to the truth)
 'Cause, you know, we'll make it through, we'll make it through
 
  (NEW DIRECTION BOYS):
-(Oooh-oh!) Ah, ah, ah-ah-ah
+(Oh-oh!) Ah, ah, ah-ah-ah
 Ah, ah, ah-ah-ah (Oh-oh!)
 Ah, ah, ah-ah-ah (FINN & RACHEL: Keep holding on!)
 Ah, ah, ah-ah-ah
-(Oooh-oh!) Ah, ah, ah-ah-ah
+(Oh-oh!) Ah, ah, ah-ah-ah
 Ah, ah, ah-ah-ah (Oh-oh!)
 Ah, ah, ah-ah-ah (FINN & RACHEL: Keep holding on!)
 Ah, ah, ah-ah-ah

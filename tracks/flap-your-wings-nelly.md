@@ -133,20 +133,16 @@ Flap your wings
 To the girls with extensions to the girls with dreads
 Come on
 Flap your wings
-Come on 
+Come on
 Flap your wings
 From the girls got it good livin' in the suburbs
 Come on
 Flap your wings
-Come on 
+Come on
 Flap your wings
 To the ones in the ghetto with their hands on their curves
-Come on 
+Come on
 Flap your wings
-Come on 
+Come on
 Flap your wings
-
-
-
-
 

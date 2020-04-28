@@ -88,7 +88,7 @@ I don't want our dreams to ever end
 Say you wanna fall in love again
 Ah, baby, with you, with you
 I wanna fall in love again
-Ooh, ooh
+Oh, oh
 
 I wanna fall in, in love again
 Ah, baby, with you, with you

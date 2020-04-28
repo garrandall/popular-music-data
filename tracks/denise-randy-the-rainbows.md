@@ -78,7 +78,7 @@ rankings:
   start_date: '1963-10-05'
 ---
 
-Ooh, Denise, shooby doo
+Oh Denise, shooby doo
 I'm in love with you, Denise, shooby doo
 I'm in love with you, Denise, shooby doo
 I'm in love with you
@@ -102,7 +102,7 @@ And I'm in heaven every time I look at you
 When you smile it's like a dream
 And I'm so lucky 'cause I found a girl like you
 
-Ooh, Denise, shooby doo
+Oh Denise, shooby doo
 I'm in love with you, Denise, shooby doo
 I'm in love with you, Denise, shooby doo
 I'm in love with you
@@ -114,7 +114,7 @@ Oh, can we kiss good night?
 Denise, Denise
 I'm so in love with you
 
-Ooh, Denise, shooby doo
+Oh Denise, shooby doo
 I'm in love with you, Denise, shooby doo
 I'm in love with you, Denise, shooby doo
 I'm in love with you

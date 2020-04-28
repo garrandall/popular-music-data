@@ -113,11 +113,6 @@ Before love, breaks my heart
 (I'm gonna walk away from love
 Gonna walk away, gonna walk away)
 
-
-
-
-
-
 Oh baby
 It's not that I don't love you (I'm gonna walk away from love
 You know how much I do (Gonna walk away, gonna walk away)

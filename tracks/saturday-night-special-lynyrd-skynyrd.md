@@ -76,7 +76,7 @@ Got a barrel that's blue and cold
 It ain't good for nothing but puttin' men six feet in a hole
 
 
-Hmm, and that's the Saturday Night Special
+Hm, and that's the Saturday Night Special
 For twenty dollars, you can buy yourself one, too
 
 Here it come

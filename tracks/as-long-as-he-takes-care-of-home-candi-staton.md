@@ -56,7 +56,7 @@ A little fun with you, honey
 Because I know I'm the girl
 That's spending his money
 
-I don't feel like, ooh
+I don't feel like, oh
 My man doing me wrong now
 Just as long as he takes care of home
 (Taking care of business)
@@ -67,7 +67,7 @@ I don't mind him getting
 A little loving from you
 No, I don't (I don't mind it)
 
-If I were a man, ooh
+If I were a man, oh
 I'd get some too
 (Get me some, get me some too)
 
@@ -78,7 +78,7 @@ But how much love do you think
 I can lose in one day
 (Lose in one day)
 
-I don't feel like, ooh
+I don't feel like, oh
 My man been doing me wrong, no
 Just as long as he takes care of home
 (Taking care of business)
@@ -88,7 +88,7 @@ Sure enough know how
 I know my man is fooling around
 With other girls, yes, I do
 But understanding is the best thing
-In the world (ooh, yeah) yeah
+In the world (oh, yeah) yeah
 
 You might think that you're pulling
 A fast one on me (shut your mouth)
@@ -104,16 +104,16 @@ He's doing all right
 (Taking care of home)
 
 He's taking care of business
-(Ooh, yeah)
+(Oh, yeah)
 He's doing his homework
 (Taking care of homework) yeah
 
 He knows how to move me
-(Ooh, yeah) yeah
+(Oh, yeah) yeah
 He knows how to groove me
 (Knows how to rock me)
 
-Oh, baby (ooh, yeah)
+Oh, baby (oh, yeah)
 He knows how to take care of home
 (Taking care of home)
 

@@ -77,13 +77,13 @@ Never let me down
 And I smile
 Whenever you're around
 
-Ooh
+Oh
 And I've got a feeling
 It'll work out right
 Can't stop thinking about you
 Every day and night
 
-Ooh, I got a love
+Oh, I got a love
 (I got somebody)
 This love
 (Got a hold on me)
@@ -103,7 +103,7 @@ I've been used
 Now I know, I know, I know
 That I just can't lose
 
-Ooh, I got a love
+Oh, I got a love
 (I got somebody)
 This love
 (Got a hold on me)
@@ -116,7 +116,7 @@ Yeah, I got a love
 (I got somebody)
 This love
 (Got a hold on me)
-Ooh, I got a love
+Oh, I got a love
 (I got somebody)
 This love
 (Got a hold on me)
@@ -125,7 +125,7 @@ Yeah, I got a love
 (I got somebody)
 This love
 (Got a hold on me)
-Ooh, I got a love
+Oh, I got a love
 (I got somebody)
 This love
 (Got a hold on me)
@@ -138,7 +138,7 @@ I got a love
 This love
 (Got a hold on me)
 
-Ooh, I got a love
+Oh, I got a love
 (I got somebody)
 This love
 (Got a hold on me)

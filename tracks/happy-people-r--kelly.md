@@ -125,7 +125,7 @@ No further questions, you have passed my test
 Happy people
 (yeah, yeah yeah, yeah)
 Keeps the world turnin,turnin,turnin
-Oh I believe that,happy people 
+Oh I believe that,happy people
 (yeah, yeah yeah, yeah)
 Keep us dancin,dancin,dancin
 
@@ -138,20 +138,20 @@ Keeps us groovin,groovin,groovin
 
 I just wanna get dressed and go out
 
-Yeah 
+Yeah
 
 I wanna get dressed,
-I wanna go out, 
+I wanna go out,
 Can you tell me where the spot is?
 
-Where the party is all night, 
+Where the party is all night,
 And everybodys havin a good time
 
-I wanna get nice, 
-I wanna get loud, 
+I wanna get nice,
+I wanna get loud,
 Can you tell me where the spot is?
 
-Come on and take me to that place, 
+Come on and take me to that place,
 Where there aint nuthin but happy-
 
 Whoa, happy, happy, happy
@@ -173,46 +173,46 @@ Keeps the world groovin, grooooooooovin
 
 Uh uh uh, alright, uh huh
 
-Now if you wanna step 
+Now if you wanna step
 U gotta play it by the rules
-You gotta do what i do 
-When i do, what i  do
+You gotta do what I do
+When I do, what i  do
 
-If you wanna step 
+If you wanna step
 U gotta play it by the rules
-You gotta do what i do 
-When i do, what i do
+You gotta do what I do
+When I do, what I do
 
 Now
 
 Step to the left, step to the right
 Spin around and bring it down tonight
-Bring it on up, move in close 
-Let me see you and your partner stroke 
+Bring it on up, move in close
+Let me see you and your partner stroke
 
 Step to the left, step to the right
 Spin around and bring it down tonight
-Bring it on up, move in close 
-Let me see you and your partner stroke 
+Bring it on up, move in close
+Let me see you and your partner stroke
 
 Step to the left, step to the right
 Spin around and bring it down tonight
-Bring it on up, move in close 
-Let me see you and your partner stroke 
+Bring it on up, move in close
+Let me see you and your partner stroke
 
 Step to the left, step to the right
 Spin around and bring it down tonight
-Bring it on up, move in close 
-Let me see you and your partner stroke 
+Bring it on up, move in close
+Let me see you and your partner stroke
 
 Step to the left, step to the right
 Spin around and bring it down tonight
-Bring it on up, move in close 
-Let me see you and your partner stroke 
+Bring it on up, move in close
+Let me see you and your partner stroke
 
 Step to the left, step to the right
 Spin around and bring it down tonight
-Bring it on up, move in close 
+Bring it on up, move in close
 Let me see you and your partner stroke
 
 

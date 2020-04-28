@@ -77,14 +77,14 @@ That super world of my own
 Nobody but you
 And me
 We've got it together, baby
-Ohhhh ohhhh
+Ohhhh oh
 
 
 The first, my last, my everything
 And the answer to
 All my dreams
 You're my sun (sun)
-My moon (moon-oooon)
+My moon (moon-on)
 My guiding star
 My kind of wonderful
 That's what you are
@@ -127,10 +127,10 @@ The last
 My everything
 
 
-Ooh ooh
-Ooh ooh
-Ooh ooh
-Ooh ooh
+Oh oh
+Oh oh
+Oh oh
+Oh oh
 
 
 I know there's only

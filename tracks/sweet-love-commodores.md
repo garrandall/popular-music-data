@@ -113,8 +113,8 @@ Oh, oh, oh, oh, oh (Sweet)
 Sweet love (Sweet love)
 Oh, oh, oh, oh, oh (Well, well)
 Sweet love (Sweet, sweet love)
-Oh, oh, oh, oh, oh, ooh
-Hoo, hoo, hoo, hoo, hoo, hoo, hoo, hoo, ooh?well
+Oh, oh, oh, oh, oh, oh
+Hoo, hoo, hoo, hoo, hoo, hoo, hoo, hoo, ohwell
 
 Sweet love
 Sweet love that comes through the ages
@@ -123,7 +123,7 @@ Gave my life so much meaning
 And everyone a heart of gold
 Oh, oh, oh, oh, oh (Sweet, sweet, sweet, sweet love)
 (Oh, you needed love)
-(Ooh?hoo?)
+(Ohhoo?)
 Sweet love (Sweet, sweet love)
 Oh, oh, oh, oh, oh
 Sweet love (Sweet love, well)

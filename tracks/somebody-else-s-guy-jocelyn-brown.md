@@ -73,7 +73,7 @@ After all the plans we made, now were shattered
 Still I can´t get off my high horse
 I can´t let go
 You are the one who makes me feel so real
-Ooh what am I supposed to do
+Oh what am I supposed to do
 When I´m hooked so on you
 Then I realize that you´re somebody else´s guy
 
@@ -86,7 +86,7 @@ But baby yet I still cared
 
 You know I loved you so baby that I can´t let go
 You are the one who makes me feel so real
-Ooh what am I supposed to do
+Oh what am I supposed to do
 When I´m hooked so on you
 And realize you´re somebody else´s guy
 
@@ -95,6 +95,6 @@ And realize you´re somebody else´s guy
 
 You know I loved you so baby that I can´t let go l
 You are the one who makes me feel so real
-Ooh what am I supposed to do
+Oh what am I supposed to do
 When I´m hooked so on you
 And realize that you´re somebody else´s guy

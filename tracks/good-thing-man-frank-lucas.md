@@ -20,12 +20,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-07-09'
 ---
-Umm ahh the good thang man
-Uumm ahh the good thang man
+Umm ah the good thang man
+Uumm ah the good thang man
 
 Hey all of you women now girls gather all around
 I wanna rap to you about gettin on down
-Well in the world of love well i got to be the king
+Well in the world of love well I got to be the king
 And in the world of girls well im the good thang man (real good thang)
 
 Well ill make you fell fine girls like you never thought you could
@@ -44,6 +44,6 @@ I've got all of theese good thangs yeahh
 Just A hangin on me well i'll make you hum umm
 And i'll make you tame i'll whoop it to you
 Mellow oo hoo cause i'm the good thang man aww baby
-I gave some hickies to vickie umm i made it good and sticky
-Yeahh i turned on joan ummm we did it alnight long
+I gave some hickies to vickie umm I made it good and sticky
+Yeahh I turned on joan ummm we did it alnight long
 I shot some thrills to jill umm now we was up on the hill'

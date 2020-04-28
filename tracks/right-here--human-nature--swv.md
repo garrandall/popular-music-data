@@ -102,7 +102,7 @@ Some insecurities
 About the way I feel
 Where I wanna be
 Boy, you know is with you
-No one can do 
+No one can do
 The things you do
 To me
 
@@ -142,7 +142,4 @@ But as long as I know
 Boy, time will show
 Our love will grow
 And I know
-
-
-
 

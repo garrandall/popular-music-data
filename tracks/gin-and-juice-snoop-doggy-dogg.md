@@ -94,7 +94,7 @@ Dre
 
 *Man pissing*
 Heah hah hah!
-I'm serious nigga one of y'all niggaz got this ass motherfuckin up
+I'm serious nigga one of y'all niggas got this ass motherfuckin up
 Aiy baby, aiy baby... aiy baby get some bubblegum in this motherfucker
 Steady long, steady long nigga
 
@@ -151,7 +151,7 @@ Don't get upset girl, that's just how it goes
 I don't love you hoes, I'm out the do'
 And I'll be
 
-Rollin down the street, smokin indo, sippin on gin and juice (beeotch!!)
+Rollin down the street, smokin indo, sippin on gin and juice (beeotch!)
 Laid back
-Rollin down the street, smokin indo, sippin on gin and juice (beeotch!!)
+Rollin down the street, smokin indo, sippin on gin and juice (beeotch!)
 Laid back

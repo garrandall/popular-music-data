@@ -153,7 +153,7 @@ Yea jus like that
 Move your thang like a boomarang
 And come right back
 There it go
-I dont need to ask i proceed to grab
+I don't need to ask I proceed to grab
 A chiks up my G'd up swagger
 
 
@@ -176,9 +176,9 @@ Set it down baby
 There it go
 Set it down baby
 
-There it go its dipset (ohh)
+There it go its dipset (oh)
 There it go Aye Aye Aye
-There it go its dipset (ohh)
+There it go its dipset (oh)
 There it go Aye Aye Aye
 
 
@@ -204,7 +204,7 @@ Run
 Yes girl
 Uhm yes you can have a
 Cumfest girl to the sunset girl (girl)
-But first i gotta Undress girl
+But first I gotta Undress girl
 So take off dem clothes and UNdress Girl
 
 
@@ -226,9 +226,4 @@ There it go
 Set it down baby
 There it go
 Set it down baby
-
-
-
-
-
 

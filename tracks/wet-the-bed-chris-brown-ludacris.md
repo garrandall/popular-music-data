@@ -90,7 +90,7 @@ You don't know what you in for
 Bout to get inside your mental, huh
 Bend your back like it's limbo
 I'm a make you feel like a Nympho
-Tonight (ooooh) you're mine, baby girl, uhhhh
+Tonight (ohou're mine, baby girl, uhhhh
 
 Anytime you want it
 I'm ready and willin' gotta give it

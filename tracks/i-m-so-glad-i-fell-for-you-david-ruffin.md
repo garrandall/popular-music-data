@@ -87,7 +87,7 @@ Thank you, thank you, baby
 Whaaaaahoooo!
 I know you knew what to do, baby
 Whoa yes you did, whoa yes you did
-Oh! Ooh!
+Oh! Oh!
 
 I'm, I'm so glad, I'm glad I fell for you
 I wanna say, I'm (whaa-whooo)

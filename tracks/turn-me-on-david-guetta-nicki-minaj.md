@@ -165,11 +165,10 @@ You've got my life in the palm of your hand
 Come save me now, I know you can (Ah, ah)
 
 
-D-d-d-d-don't let me die young
+Don't let me die young
 I just want you to father my young
 I just want you to be my doctor
 We can get it cracking, chiropractor
-I-I-I-I-I-I-I-I-I
 I know you can save me and make me feel alive
 
 

@@ -64,11 +64,6 @@ Gimme one minute more
 Gimme one minute more
 It's gonna be alright, it's gonna be alright
 
-
-
-
-
-
 Just one minute more
 Then I'll walk right through that door
 But'cha gotta

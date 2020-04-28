@@ -84,7 +84,7 @@ I'll get it right
 Girl , you're gonna see some changes
 
 If I knew back then what I know now
-If i understood the what , when , why and how
+If I understood the what , when , why and how
 Now it's clear to me
 What I should have done
 But hindsight is 20/20 vision

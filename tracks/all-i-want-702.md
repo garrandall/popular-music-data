@@ -97,8 +97,8 @@ Someone who will mention the special things in me
 All that I'm (All that I'm)
 Looking for (looking for)
 Got to have (got to have)
-Someone mature (ooh baby)
-Ooh, everything (everything)
+Someone mature (ohbaby)
+Oh everything (everything)
 You do and say (do and say)
 Touch my heart (touch my heart in a special way)
 All I want

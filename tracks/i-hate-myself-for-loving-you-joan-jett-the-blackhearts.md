@@ -149,9 +149,6 @@ I wanna walk but I run back to you
 That's why I hate myself for loving you
 Ow! Uh
 
-
-
-
 I think of you every night and day
 You took my heart and you took my pride away
 

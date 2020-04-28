@@ -114,7 +114,7 @@ Use them and let's start trying
 To make it a place worth living in
 
 
-Ooh, Superman, where are you now?
+Oh Superman, where are you now?
 When everything's gone wrong somehow
 The men of steel, the men of power
 Are losing control by the hour
@@ -133,7 +133,7 @@ To make it a place worth living in
 
 
 I remember long ago
-Ooh, when the sun was shining
+Oh when the sun was shining
 Yes and the stars were bright all through the night
 And the sound of your laughter as I held you tight
 So long ago...

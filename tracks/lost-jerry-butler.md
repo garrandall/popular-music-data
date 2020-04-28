@@ -72,7 +72,7 @@ And I knew love had found me
 
 I was lost, oh, lost
 But found you in the nick of time
-You know I was lost, ooh
+You know I was lost, oh
 Found you in the nick of time
 Well, I was
 

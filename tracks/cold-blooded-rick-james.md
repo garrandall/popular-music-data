@@ -114,7 +114,7 @@ You’re so hot, you burn me out
 Just burn me up
 
 Baby, baby, baby, baby, don’t be so cold blooded
-Ooh, la, la, la, la, la, la!
+Oh, la, la, la, la, la, la!
 
 
 Who do you?

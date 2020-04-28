@@ -68,7 +68,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-09-07'
 ---
-(verse 1)
 Every window in my hometown is empty
 And I really don't know why
 And the house you used to live in
@@ -78,9 +77,8 @@ And Lord those gray skies bring me down
 And I came home for just one reason
 To find myself in this quiet town (yeah)
 
-And I'm thinking. . 
+And I'm thinking...
 
-(chorus)
 Oh I'm thinking time's been my teacher
 I don't want to leave you
 So please give me one more try
@@ -91,7 +89,6 @@ One more try
 Oh I don't know where to go for
 One more try
 
-(verse 2)
 All the days we spent together doing nothing
 It all seems so long ago
 I thought the world turned around without me baby
@@ -101,7 +98,6 @@ To go and leave your world behind
 But now time has been my teacher
 And now I finally found
 
-(chorus)
 Oh I'm thinking time's been my teacher
 I don't want to leave you
 So please give me one more try
@@ -111,5 +107,3 @@ Oh, just give me one more try
 One more try
 Oh I don't know what to do
 One more try
-
-(chorus until out)

@@ -41,33 +41,32 @@ Now everybody knows me
 I was walkin on the railroad
 I sat my booty on the track
 I saw this kid with the gap sack
-So i snatched my booty back
+So I snatched my booty back
 I said looka here, partner
 You know you can't be me
 I be the one, it ain't two now
 And you know it's true
 
 Now move on
-I got the fellas jealous cause i flows like none
+I got the fellas jealous cause I flows like none
 I got the whole nine, need not pack a gun
-No need for greed, see i takes then i feeds
-To the young, sprung on the air that i breathe
-You can't concieve how i braids and i weaves
+No need for greed, see I takes then I feeds
+To the young, sprung on the air that I breathe
+You can't concieve how I braids and I weaves
 Hear you over there, may appear
 Some fear for the smear
 We're gonna have in abundance
-I write, see i write, see i write
+I write, see I write, see I write
 Did you know that
 
-Chorus
 
 Now i'ma fuck around and make a b-boy mad in a minute
 Shit, i'm so nice niggas think i'm freakin senate
-Status - i rank top-notch, come on now
+Status - I rank top-notch, come on now
 I've seen less mess in my restroom
 Plop on up and fetch a fierce self-check
 I digs how my voice takes muthafuckas over
-Trick, back it up 'fore i buck, buck another
+Trick, back it up 'fore I buck, buck another
 Pass me the present cause the future can't hold my soul
 I pump fear in the mere mortal, beast control
 I blast, punk, that ass fast
@@ -75,17 +74,16 @@ Feel the funk, savor 'fore you face defeat
 My backbone of stone totes treats to beats
 Now come on
 Adapt to my taps, i'm two snaps
-I'm too through, ooh, i'm too through
-I kicks butt, strut as i gluts for fame
+I'm too through, oh, i'm too through
+I kicks butt, strut as I gluts for fame
 And goes 'can't nobody hold me'
 
-Chorus
 
 I'm the abyss, ready to determine your lifeline
-You falls too short, so i be tall in your acetone
+You falls too short, so I be tall in your acetone
 Death died so i'm here to stake my claim
 Bang-bang, boogie-boogie, my style's a gang
-Give it up, i funk it up, chick, i spits hits
+Give it up, I funk it up, chick, I spits hits
 Look back, you ain't stacked, get to face this
 Who's bad? my notespad are flamin folks
 Fire, on fire, koombaya, beaucoup funk
@@ -94,8 +92,7 @@ Terry, bring it back, bring it back like that
 My wranglers in need of a washin
 Got no time to shoot the shit in no fashion
 Pardon my french, i'll kick your ass - me no favor
-Be that behind, i be the vain soothe sayer
+Be that behind, I be the vain soothe sayer
 Step up, bow to my spunk
-Mama moves, i grooves, your lefts be my rights and...
+Mama moves, I grooves, your lefts be my rights and...
 
-Chorus

@@ -60,7 +60,3 @@ Joy to the world
 It's the greatest time of year
 It's the greatest time
 
-
-
-
-

@@ -98,9 +98,6 @@ He said
 (Doo doo doo, doo doo doo doo doo)
 Ah, take it away!
 
-
-
-
 Oh - yes, indeed we know
 That people will find a way to go
 No matter what the man said

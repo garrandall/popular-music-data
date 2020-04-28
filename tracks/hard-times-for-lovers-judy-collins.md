@@ -54,7 +54,7 @@ Ain't it true
 These are hard times for lovers
 Everyone wants to be free
 Ain't these hard times for lovers
-Everyone singing, i gotta be me
+Everyone singing, I gotta be me
 Without you
 
 Now, honey, i'm supposed to tell you
@@ -62,21 +62,19 @@ I've got to live for today
 And don't you know it is my lifetime
 I've got to live it my own way
 
-And lately, i can't help thinking
-I reap what i sow
+And lately, I can't help thinking
+I reap what I sow
 For all of my holy freedom
-What have i got to show
+What have I got to show
 I don't know
 
-(Chorus)
 
-But lately, i can't help thinking
-I reap what i sow
+But lately, I can't help thinking
+I reap what I sow
 For all of my holy freedom
-What have i got to show
+What have I got to show
 I don't know
 
-(Chorus)
 
 Ain't these hard times for lovers
 Everyone wants to be free

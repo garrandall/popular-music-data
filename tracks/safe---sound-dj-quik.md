@@ -52,7 +52,7 @@ rankings:
  "Quik you're not a gangster we're not"
 
 Some believe in love and some believe in friends
-But niggaz like me believe in making ends
+But niggas like me believe in making ends
 Cause even when your bitch wants to trick around
 You know the moneys got you safe and sound
 
@@ -72,7 +72,7 @@ Now it's coming my way
 And i'm zoned out at a young age
 And the whole spruce street was my stage
 Peep now back then I was in the 8th grade steady
-But niggaz my age was getting paid already
+But niggas my age was getting paid already
 Yeah like that nigga Zam or even young Blue
 They made they first million by the age of 22
 Like Dan from Cedar block him and little Motor
@@ -91,14 +91,14 @@ Right then is when I learned that
 
 Some believe in Jesus
 some believe in Allah
-But niggaz like me believe I'm making dollars
-Cause even when yo niggaz wanna be untrue
+But niggas like me believe I'm making dollars
+Cause even when yo niggas wanna be untrue
 You know the money's still good to you
 
 Yes Yes
 
 Some believe in love and some believe in friends
-But niggaz like me believe in making ends
+But niggas like me believe in making ends
 Cause even when yo bitch wants to trick around
 You know the moneys got you safe and sound
 
@@ -115,7 +115,7 @@ Donzelly dippin sticks went and bought um a 6
 And 500 block peach running thangs ya see
 Moving gallon after gallon and key after key
 I'm telling you I done seen it all
-From niggaz hitting the sherman and the passout on the wall
+From niggas hitting the sherman and the passout on the wall
 From cluckers wanting a hit so bad they let there panies fall
 Teeth rotten hair gone,
 and whole checks get blown
@@ -127,24 +127,24 @@ While my rocks is disappearing like the great Whodini
 I bought a gang of clothes, all of my equiptment
 And getting somthing new with each and every shipment
 Money gets made and money gets spent
-and how these jealous niggaz acting only makes it evident that
+and how these jealous niggas acting only makes it evident that
 
 
 Some believe in Jesus
 some believe in Allah
-But niggaz like me believe im making dollars
-Cause even when yo niggaz wanna be untrue
+But niggas like me believe im making dollars
+Cause even when yo niggas wanna be untrue
 You know the money's still good to you
 
 Yes Yes
 
 Some believe in love and some believe in friends
-But niggaz like me believe in making ends
+But niggas like me believe in making ends
 Cause even when yo bitch wants to trick around
 You know the moneys got you safe and sound
 
 Check now in 1988 I moved away to L.A.
-My niggaz Playa Ham and Gina gave me a place to stay
+My niggas Playa Ham and Gina gave me a place to stay
 On my way up from bottom rock
 Bitches starting to jock
 Cause my hair is getting longer
@@ -169,23 +169,23 @@ Cause even though I love God I also love my grip
 
 Some believe in Jesus
 some believe in Allah
-But niggaz like me believe im making dollars
-Cause even when yo niggaz wanna be untrue
+But niggas like me believe im making dollars
+Cause even when yo niggas wanna be untrue
 You know the money's still good to you
 
 Yes Yes
 
 Some believe in love and some believe in friends
-But niggaz like me believe in making ends
+But niggas like me believe in making ends
 Cause even when yo bitch wants to trick around
 You know the moneys got you safe and sound
 
 
 
-oooooooooooooo,ooooooooooooooooooo yeah
+oo,oo yeah
 safe and sound yeah
 safe and sound baby
-ooooooooooooooo,ooooooooooooooooooo yeah
+oo,oo yeah
 safe and sound yeah
 safe and sound
 gotta let you knoooooow

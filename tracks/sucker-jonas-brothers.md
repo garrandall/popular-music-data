@@ -238,7 +238,7 @@ And baby, you know it's obvious
 
 I'm a sucker for you
 Say the word and I'll go anywhere blindly
-I'm a sucker for you, ooh yeah
+I'm a sucker for you, ohyeah
 Any road you take you know that you'll find me
 
 I'm a sucker for all the subliminal things
@@ -261,7 +261,7 @@ And baby, you know it's obvious
 
 I'm a sucker for you
 Say the word and I'll go anywhere blindly
-I'm a sucker for you, ooh yeah
+I'm a sucker for you, ohyeah
 Any road you take you know that you'll find me
 
 I'm a sucker for all the subliminal things

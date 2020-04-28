@@ -140,7 +140,7 @@ That keeps me satisfied
 
 I wouldn't lie to you, baby
 It's mainly a physical thing
-This feeling that i got for you, baby
+This feeling that I got for you, baby
 Makes me wanna sing
 
 CHORUS:
@@ -194,8 +194,8 @@ I wanna rock you, Chaka
 Baby, cause you make me wanna scream
 Feel for you
 
-I feel for you (Oooh, feel for you)
-I feel it too (Oooh, feel for you)
-I feel for you (Oooh, feel for you)
+I feel for you (Oh, feel for you)
+I feel it too (Oh, feel for you)
+I feel for you (Oh, feel for you)
 
 CHORUS

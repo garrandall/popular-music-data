@@ -107,15 +107,15 @@ Wha-oh-oh-oh
 (Be my, be my baby)
 Be my little baby
 (My one and only baby)
-Oh-oh-oooooh
+Oh-oh-oh
 (Be my, be my baby)
-Ooooooooooh
+Oh
 Wha-oh-oh-oh-oh
 
 (Be my, be my baby)
-Oh-oh-oooooh
+Oh-oh-oh
 (My one and only baby)
-Ooooooooooh
+Oh
 (Be my, be my baby)
 Be my baby now
 Wha-oh-oh-oh

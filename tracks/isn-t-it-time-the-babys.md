@@ -124,7 +124,7 @@ Isn't it time?
 (Isn't it time? you don't have to wait) (Don't have to wait)
 I know it's time
 (Losing this love could be your mistake)
-Ooh, yeah (Isn't it time?) I know it's time
+Oh yeah (Isn't it time?) I know it's time
 
 (Isn't it time? you don't have to wait)
 It must be time (Don't have to wait)

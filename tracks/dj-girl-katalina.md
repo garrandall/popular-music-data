@@ -134,9 +134,9 @@ I'm with the DJ, ok?
 
 
 
-Ooh, ooh, ooh
+Oh, oh ooh
 I'm the DJ's girl
-Ooh, ooh ,ooh
+Oh, oh,ooh
 I'm the DJ's girl
 
 

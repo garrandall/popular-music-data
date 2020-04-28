@@ -51,8 +51,8 @@ Poured the wine
 And told me her story
 We lit a fire that wants to grow higher
 
-Sunshine girl won't you stay with me (sun shine girl won't you stay with me, ooh)
-Sunshine girl won't you stay with me (sun shine girl won't you stay with me, ooh)
+Sunshine girl won't you stay with me (sun shine girl won't you stay with me, oh
+Sunshine girl won't you stay with me (sun shine girl won't you stay with me, oh
 Sunshine girl won't you stay with me in the night
 It's a good thing
 
@@ -65,8 +65,8 @@ Shades of dawn burst into sunshine
 I took her hand
 And ran through the morning
 
-Sunshine girl won't you stay with me (sun shine girl won't you stay with me, ooh)
-Sunshine girl won't you stay with me (sun shine girl won't you stay with me, ooh)
+Sunshine girl won't you stay with me (sun shine girl won't you stay with me, oh
+Sunshine girl won't you stay with me (sun shine girl won't you stay with me, oh
 Sunshine girl won't you stay with me in the night
 It's a good thing
 

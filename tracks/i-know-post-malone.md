@@ -28,7 +28,7 @@ Had it to a science (Science), you were so precise ('Cise)
 See it in your eyes (Eyes), saw you in the light (Light)
 Somehow, mami, I still want you
 Listen to me, don't drive away (Don't drive away)
-Kill me softly, your hold on me is (Ooh)
+Kill me softly, your hold on me is (Oh)
 Somethin' I can't explain
 
 

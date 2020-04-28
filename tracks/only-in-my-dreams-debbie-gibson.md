@@ -136,13 +136,13 @@ As real as it may seem
 It was only in my dreams
 
 Couldn't see how much I missed you (now I do)
-Couldn't see how much it meant (ahh)
+Couldn't see how much it meant (ah)
 Now I see my world come tumbling down
 (Tumbling down my world)
 Now I see the road is bent
 
 If I only once could hold you (no, no, no)
-And remember how it used to be (ahh)
+And remember how it used to be (ah)
 If only I could scold you
 And forget how it feels to be free
 

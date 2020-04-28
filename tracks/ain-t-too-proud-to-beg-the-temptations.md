@@ -108,7 +108,7 @@ Ain't to proud to plead, baby, baby
 Please don't leave me, girl, don't you go
 
 
-Baby, baby, baby, (ooh, sweet darlin')
+Baby, baby, baby, (oh, sweet darlin')
 Oh, no
 Don't leave me girl, no, no
 If crying keeps you near

@@ -95,7 +95,7 @@ Uh-huh, aiyyo yo, uh-huh yeah yeah, uh uh uh
 There's no doubt, no doubt, no doubt, uh
 Worrdd up..
 
-Ahhh babyyy..
+Ah babyyy..
 Just like music..
 
 To relax my mind, so I can be free

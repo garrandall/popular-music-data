@@ -104,9 +104,9 @@ You're not mine and I can't deny it
 Don't you hear me talkin', baby
 Love me now or I'll go crazy
 
-Whou, ohh, sweet thang
+Whou, oh, sweet thang
 Don't ya know you're my everything
-Whou ohh, sweet thang
+Whou oh, sweet thang
 Don't ya know you're my everything
 Yeah baby
 
@@ -120,9 +120,9 @@ Don't walk away, don't be so shady
 Don't want your mind, don't want your money
 These words I say, they may sound funny but
 
-Whou, ohh, sweet thang
+Whou, oh, sweet thang
 Oh ya know you're my everything
-Whou ohh, sweet thang
+Whou oh, sweet thang
 Boy ya know you're my everything
 Hey baby
 

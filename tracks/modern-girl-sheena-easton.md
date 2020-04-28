@@ -101,7 +101,6 @@ Until it's time to leave her dreams on the underground
 She walks to the office like everyone else
 An independent lady, takin' care of herself
 
-Chorus
 
 She's been dreaming 'bout it all day long
 As soon as she gets home, it's him on the telephone

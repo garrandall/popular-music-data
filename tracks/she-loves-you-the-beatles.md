@@ -94,7 +94,7 @@ You're not the hurting kind
 She says she loves you
 And you know that can't be bad
 Yes, she loves you
-And you know you should be glad, ooh
+And you know you should be glad, oh
 
 
 She loves you, yeah, yeah, yeah
@@ -112,7 +112,7 @@ Apologise to her
 Because she loves you
 And you know that can't be bad
 She loves you
-And you know you should be glad, ooh
+And you know you should be glad, oh
 
 
 She loves you, yeah, yeah, yeah

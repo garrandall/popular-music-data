@@ -41,7 +41,7 @@ rankings:
   start_date: '1990-01-20'
 ---
 Oh, Chris
-Ooh
+Oh
 
 I'm searching for the serious
 For the serious

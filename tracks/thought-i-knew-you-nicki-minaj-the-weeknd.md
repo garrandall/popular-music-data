@@ -52,19 +52,19 @@ Nevermind, you were never mine for real
 Hit my line, I'ma hit decline for real
 I ain't tryin' for a second time for real
 Honestly, I think this shit excites you (excites you)
-All that drama that you're tied to (ooh, yeah)
+All that drama that you're tied to (oh, yeah)
 You play the victim every time too
 That shit came back and hit you times two
 
 
 I-I-I-I thought I knew you (thought I knew ya, baby)
 Ha-ha-ha I guess I didn't (guess I didn't, girl)
-I-I-I-I thought I knew you (ooh yeah)
+I-I-I-I thought I knew you (oh yeah)
 But baby I-I guess I didn't
 I-I-I thought you was down for real (down for real)
 Thought you would stick around for real ('round for real)
-I-I, I-I-I (ooh, yeah)
-I-I (ooh, yeah) ah
+I-I, I-I-I (oh, yeah)
+I-I (oh, yeah) ah
 
 
 You broke my heart and now ever since

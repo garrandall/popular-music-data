@@ -63,7 +63,7 @@ rankings:
 
 Well, it's hard to be a gambler
 Bettin' on the number
-That changes ev'ry time
+That changes every time
 Well, you think you're gonna win
 Think she's givin' in
 A stranger's all you find

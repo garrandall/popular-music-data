@@ -44,7 +44,7 @@ My baby got a brand new dance
 Wango Tango
 Wango Tango
 It's a Wango Tango
-Ooooh yeah!  (oooooh..)
+Oh yeah!  (oh..)
 Baby!
 
 My baby like to rock
@@ -56,10 +56,10 @@ She do...
 Wango Tango
 Wango Tango
 Wango Tango
-Ooooh yeah!  (oooooh..)
+Oh yeah!  (oh..)
 
 Yeahhhhhhhhhh!
-Baby! Baby! Baby! Ooooh I like the way you look baby
+Baby! Baby! Baby! Oh I like the way you look baby
 You look like you're made for me honey
 If you wanna take a little chance
 I'm gonna show you a new dance
@@ -128,7 +128,7 @@ Wango Tango
 Wango Wango
 Tango Tango
 Wango Wango Wango Wango
-Tango Tango Tango Tango, yeah... 
+Tango Tango Tango Tango, yeah...
 
 
 

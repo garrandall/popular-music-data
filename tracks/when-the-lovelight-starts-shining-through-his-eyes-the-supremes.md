@@ -84,7 +84,7 @@ Oh, then I knew
 That he won my heart
 
 
-Ooh-wa!
+Oh-wa!
 
 
 When he asked could he walk my way
@@ -104,4 +104,4 @@ That he won my heart
 But when the lovelight starts shining through his eyes
 Made me realize how he felt inside
 And when he placed a kiss upon my face
-Ooh, ooh
+Oh, oh

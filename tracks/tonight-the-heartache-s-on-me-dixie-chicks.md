@@ -89,7 +89,7 @@ Tonight the heartache's on me
 
 
 I wonder if he told her she's the best he's ever known
-The way he told me ev'ry night when we were all alone
+The way he told me every night when we were all alone
 She'll find out when the new wears off
 He'll find somebody new
 She'll learn what the heartache's all about

@@ -162,8 +162,8 @@ We are beautiful in every single way
 Yes, words can't bring us down, oh, no
 So don't you bring me down today
 
-Oh, yeah, don't you bring me down today, yeah, ooh
-Don't you bring me down ooh... today
+Oh, yeah, don't you bring me down today, yeah, oh
+Don't you bring me down oh... today
 
 
 

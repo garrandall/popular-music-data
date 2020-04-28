@@ -143,9 +143,6 @@ Me and Kels on ducati's, wanna see you drop it shawty
 Oh weee, tryna leave the club
 Wit a groupie, wit a groupie
 
-
-
-
 Mami, when we leave the club, leave wit us
 You don't need ya car keys, we gon' fair in the bus
 And the way you wear ya jeans, is means to cuss
@@ -162,8 +159,4 @@ Initiated first move, shorty that was all you
 I'm NOT tryna be ya man, pimp bones in my body
 Rock them body-hotty, rock them, like ladi-dadi
 Me and Kels on ducati's, wanna see you drop it shawty, oh weee
-
-
-
-
 

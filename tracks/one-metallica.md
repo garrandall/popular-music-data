@@ -95,16 +95,10 @@ Cut this life off from me
 Hold my breath as I wish for death
 Oh please God, wake me
 
-
-
-
 Now the world is gone, I'm just one
 Oh, God help me
 Hold my breath as I wish for death
 Oh please God, help me
-
-
-
 
 Darkness imprisoning me
 All that I see, absolute horror

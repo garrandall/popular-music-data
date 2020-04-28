@@ -75,7 +75,7 @@ All over this land
 I'd ring out danger
 I'd ring out a warning
 I'd ring out love between my brothers and my sisters
-All over this land, ooh
+All over this land, oh
 
 If I had a song
 I'd sing it in the morning
@@ -85,7 +85,7 @@ All over this land
 I'd sing out danger
 I'd sing out a warning
 I'd sing out love between my brothers and my sisters
-All over this land, ooh
+All over this land, oh
 
 Well I got a hammer
 And I got a bell

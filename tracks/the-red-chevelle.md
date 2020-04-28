@@ -117,9 +117,6 @@ He gives in to most
 So lay down, the threat is real
 When his sight goes red again
 
-
-
-
 So lay down, the threat is real
 When his sight goes red again
 

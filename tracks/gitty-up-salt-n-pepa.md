@@ -66,9 +66,6 @@ rankings:
 ---
 
 
-
-
-
 You can buy that
 Full of bass and hi-hat
 You can buy that
@@ -119,9 +116,6 @@ Romance and no frills, uh
 It feels ill, don't it
 
 
-
-
-
 I keep it hot like a block full of hustlers
 Who can make it blaze like us
 Bless you to death
@@ -137,9 +131,6 @@ Yo, it ain't shh to me
 I'm-ah party 'til I see the sunrise
 It hurts to keep the party live
 Keep it comin' baby
-
-
-
 
 
 Gitty up baby

@@ -21,19 +21,19 @@ rankings:
   start_date: '2017-07-08'
 ---
 I don't want nobody else but you
-I don't want nobody else but you, ooh ah ah
-Nobody else but you, ooh ah ah
+I don't want nobody else but you, ohah ah
+Nobody else but you, ohah ah
 
 
-She like what's up, what's up with me and you, (ooh ah) yeah
-What we fin'nin, fin'nin to do (ooh ah ah)
-Lately I've been giving you some room, (ooh) uh huh
-Lately I just don't know what to do, ooh ooh ooh
-I don't want nobody else but you (ooh ah ah)
+She like what's up, what's up with me and you, (ohah) yeah
+What we fin'nin, fin'nin to do (ohah ah)
+Lately I've been giving you some room, (oh uh huh
+Lately I just don't know what to do, ohoohhoh
+I don't want nobody else but you (ohah ah)
 I know you don't want to wait for me, aye
 They say you should stay away from me, (no) aye
 I know you the only babe for me, pray for me
-Gratefully you love me too (ooh ah ah)
+Gratefully you love me too (ohah ah)
 Know a lot of men would do you better
 Know that I done put you through whatever
 I know that you care for me, I know you'll be there for me
@@ -41,7 +41,7 @@ If ever something happen you still down
 Real one, I guess I'm just a fool with her
 Looking in the mirror like, ain't you scared to lose her?
 Why you acting like another man wouldn't choose her?
-You know she the only true girl, ooh girl
+You know she the only true girl, ohgirl
 
 
 I can't even lie yeah you got me falling (fall)
@@ -56,23 +56,23 @@ It's hard to (fall), but still
 
 
 I don't want nobody else but you
-I don't want nobody else but you, ooh ah ah
-Nobody else but you, ooh ah ah
+I don't want nobody else but you, ohah ah
+Nobody else but you, ohah ah
 I don't want nobody else but you
 
 
 They catch us on the low and I know you hate that (true)
 They say that I'm yours and you say it ain't that (true)
 And every time it goes I just bring the pain back, yeah
-Break ups to make ups that-that's just the way it goes (ooh ah ah)
-Know a lot of men would do you better (ooh ah)
-Know that I done put you through whatever (ooh ah)
+Break ups to make ups that-that's just the way it goes (ohah ah)
+Know a lot of men would do you better (ohah)
+Know that I done put you through whatever (ohah)
 I know that you care for me, I know what you spared for me
 I know you won't wait on me forever (noooo)
 Real one, I guess I'm just a fool with her
 Looking in the mirror like, ain't you scared to lose her?
 Why you acting like another man wouldn't choose her?
-You know she the only true girl, ooh girl
+You know she the only true girl, ohgirl
 
 
 I can't even lie yeah you got me falling (fall)
@@ -87,12 +87,12 @@ It's hard to (fall), but still
 
 
 I don't want nobody else but you
-I don't want nobody else but you, ooh ah ah
-Nobody else but you, ooh ah ah
+I don't want nobody else but you, ohah ah
+Nobody else but you, ohah ah
 I don't want nobody else but you
 
 
-But you, ooh ah ah, nobody else but you
-But you, ooh ah ah, I don't want nobody else but you
-But you, ooh ah ah, nobody else but you
-Nobody else but you, ooh ah ah, but you, ooh ah, but you
+But you, ohah ah, nobody else but you
+But you, ohah ah, I don't want nobody else but you
+But you, ohah ah, nobody else but you
+Nobody else but you, ohah ah, but you, oh, but you

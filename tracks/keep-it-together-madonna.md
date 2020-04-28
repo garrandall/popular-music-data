@@ -92,9 +92,6 @@ Brothers and sisters, they've always been there for me
 We have a connection, home is where the heart should be
 
 
-
-
-
 When I look back on all the misery
 And all the heartache that they brought to me
 I wouldn't change it for another chance
@@ -110,7 +107,4 @@ We have a connection, home is where the heart should be
 
 Keep, keep it together
 Keep people together forever and ever
-
-
-
 

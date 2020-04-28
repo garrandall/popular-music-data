@@ -125,9 +125,9 @@ Just can't keep livin' like we're livin'
 We just can't keep on
 Just can't keep on pushin to the limit
 We just can't
-Don't you know we got to do right, do right ooh do right
+Don't you know we got to do right, do right ohdo right
 Don't you know do right
-And to be you're guiding light, ooh ooh
+And to be you're guiding light, ohooh
 Yes you've got to do right
 And He'll be your guiding light
 

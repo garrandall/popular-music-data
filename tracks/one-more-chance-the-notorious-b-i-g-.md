@@ -140,7 +140,7 @@ I love it when they call me Big Poppa
 I only smoke blunts if they roll propa
 Look, I gotcha caught up in the drunk flow
 Fuck tae kwon do, I tote da fo'-fo'
-For niggaz gettin mad cause they bitch chose me
+For niggas gettin mad cause they bitch chose me
 A big black motherfucker with g ya see
 All I do is separate the game from the truth
 Big bang boots from the Bronx to Bolivia
@@ -183,7 +183,4 @@ They don't call me B.I.G. for nuttin, all of a sudden
 
 Oh Biggie gimme one more chance
 I got that good dick girl you didn't know
-
-
-
 

@@ -82,7 +82,7 @@ And there ain't nothing you can do
 Well, there ain't nothing you can do
 I said, there ain't nothing you can do
 Lordy!
-Ev'ry time I think about it
+Every time I think about it
 
 I said, ev'rytime I get a li'l lonely, sometime
 There ain't nothin' you can do, baby, no Lord

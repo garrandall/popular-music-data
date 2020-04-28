@@ -100,7 +100,7 @@ Yeah, yeah, yeah
 Yeah, yeah, yeah
 
 After what you meant to me
-Ooh baby now
+Oh baby now
 I can make it easily
 Yeah, yeah, yeah
 I know that we both agree

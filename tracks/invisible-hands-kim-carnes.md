@@ -83,11 +83,11 @@ To feel you
 
 Is it a lie
 When you're asking me why
-Hold out my had 
+Hold out my had
 When you don't understand
-Is it a lie 
+Is it a lie
 When you're asking me why
-Who fires the gun..gun..gun..gun
+Who fires the gun...gun...gun...gun
 
 Oh I'm reachin' out my invisible hands
 To touch you
@@ -96,11 +96,11 @@ To feel you
 
 Is it a lie
 When you're asking me why
-Hold out my had 
+Hold out my had
 When you don't understand
-Is it a lie 
+Is it a lie
 When you're asking me why
-Who fires the gun..gun..gun..gun
+Who fires the gun...gun...gun...gun
 
 Oh I'm reachin' out my invisible hands
 To touch you

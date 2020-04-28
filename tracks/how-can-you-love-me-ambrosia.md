@@ -53,11 +53,11 @@ When you know I've been with someone else
 And I ain't too happy with myself
 But I keep on comin' back around
 
-Ooh, sometimes it feels like I'm gone forever
+Oh, sometimes it feels like I'm gone forever
 (I'm gone forever)
-Ooh, it gets so hard to wait
+Oh, it gets so hard to wait
 (it gets hard to wait)
-Ooh, we're far away and it ain't gettin' better
+Oh, we're far away and it ain't gettin' better
 Well, I know that somethin' is surely wrong
 When I feel this way, well I can't go on and on
 

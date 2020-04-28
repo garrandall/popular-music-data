@@ -132,7 +132,6 @@ Its a good time to cruise around
 In the parking lot where the brownies was stackin
 And all the vatos were looking for some action yeah
 
-(Chorus)
 
 Well the sun was set and it began to get dark
 And we were gettin ready to leave the park

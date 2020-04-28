@@ -88,7 +88,7 @@ But it was just my imagination once again runnin' away with me
 Tell you it was just my imagination runnin' away with me
 
 
-Ev'ry night on my knees I pray, Dear Lord, hear my plea
+Every night on my knees I pray, Dear Lord, hear my plea
 Don't ever let another take her love from me or I would surely die
 Her love is heavenly, when her arms enfold me
 I hear a tender rhapsody; but in reality she doesn't even know me

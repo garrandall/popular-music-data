@@ -52,7 +52,7 @@ So don't be afraid, boy, it's our only salvation
 So over and over again, you keep sayin it's the end
 But I say you're wrong, were just on the dawn of correction
 
-You tell me that marches wont bring integration
+You tell me that marches won't bring integration
 But look what it's done for the voter registration
 Be thankful our country allows demonstrations
 Instead of condemnin, make some recommendations

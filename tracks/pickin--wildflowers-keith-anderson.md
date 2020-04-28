@@ -69,7 +69,7 @@ Gonna get a little peace... on earth.
 
 
 Baby whatcha say we go pickin' wildflowers?
-Got a spot way back in the woods. 
+Got a spot way back in the woods.
 Sneak away for a couple of hours,
 You and me baby, pickin' wildflowers.
 
@@ -82,8 +82,4 @@ Dive on in like honey bees.
 
 Take a trail ride if you know what I mean.
 Hey baby won't you come with me?
-
-
-
-
 

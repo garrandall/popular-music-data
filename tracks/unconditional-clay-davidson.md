@@ -97,20 +97,18 @@ But this is still my home
 Its my way or the highway
 So I said alright Im gone
 
-Pre chorus:
-And before i slammed that door
-I said i hate u
+And before I slammed that door
+I said I hate u
 He just shook his head
 And said ok
 
-Chorus:
-But u can't stop my love for u
+But you can't stop my love for u
 Itll be here thats a given
-As long as i am livin on this earth
+As long as I am livin on this earth
 One thing is true
 U can turn away, forget me
 Curse my name
-But love will never let u go
+But love will never let you go
 Son my love is unconditional
 
 Life is like a circle
@@ -122,22 +120,18 @@ A year ago today
 Hangin onto pride and anger
 As we threw our love away
 
-Pre Chorus:
 And before u slammed that door
-U said i hate u
-But tonightif u could only hear me say
+U said I hate u
+But tonight if u could only hear me say
 
-Chorus:
 U can't stop my love for u
-Itll be here thats a given
-As long as i am livin on this earth
+It'll be here thats a given
+As long as I am livin on this earth
 One thing is true
 U can turn away, forget me
 Curse my name but love won't let me let u go
 Girl always know
 My love is unconditional
-
-Tag:
 
 U could turn away forget me
 Curse my name

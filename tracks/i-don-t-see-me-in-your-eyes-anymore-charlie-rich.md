@@ -43,7 +43,7 @@ I don't see you
 Or your heart in your kiss
 (doo-doo-doo-do)
 That you should say
-(ooooh)
+(oh)
 That you're mine. You resist
 (you resist)
 
@@ -58,7 +58,7 @@ I'm the one you adore
 Then I'll see me
 (I'll see me)
 In your eyes as before
-(Aaaaah-aaah)
+(Ah-ah)
 
 I pray you'll say
 I'm the one you adore

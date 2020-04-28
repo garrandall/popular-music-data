@@ -99,11 +99,10 @@ Are rearranged it's true
 And it's all because of you
 My baby
 
-(chorus)
 I'll be loving you all my life
 Til my dying day is through
 I'll be loving you
-Forever(2x)
+Forever
 
 Every night I wonder if you know
 No matter what they say
@@ -117,5 +116,3 @@ Look in my eyes
 And see it's true
 Day and night
 All my thoughts are of you
-
-(chorus)

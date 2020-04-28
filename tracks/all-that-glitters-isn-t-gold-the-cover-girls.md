@@ -97,9 +97,6 @@ But you don't have to play that game
 Because the only thing that matters
 Is what's inside your heart
 
-
-
-
 So here's my advice to you
 Everything you see's
 Not always true

@@ -118,9 +118,6 @@ Your own personal Jesus
 Someone to hear your prayers
 Someone who's there
 
-
-
-
 Feeling unknown and you're all alone
 Flesh and bone by the telephone
 Lift up the receiver, I'll make you a believer
@@ -132,9 +129,6 @@ Your own personal Jesus
 Reach out and touch faith
 Reach out and touch faith
 Reach out and touch faith
-
-
-
 
 Reach out and touch faith
 Reach out and touch faith

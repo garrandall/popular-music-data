@@ -103,14 +103,14 @@ I can hardly stand on
 My own two feet
 Because I love you
 I love you
-I dooo
+I do
 Angel baby
 My angel baby
-Ooooh I love you
-Ooooh I do
+Oh I love you
+Oh I do
 No one can love you
 Like I do
-Ohhh, oooh… ooh ohh
+Ohhh, oh… oh oh
 From the first time
 That I looked deep into your eyes
 You sent me off to heaven baby
@@ -126,16 +126,16 @@ I could never stay away
 Without you near
 Because I love you
 I love you
-I dooo
+I do
 Angel baby
 My angel baby
 Angel baby
 My angel baby!
-Oooh I love you
+Oh I love you
 Ohhh I do!
 No one can love you
 Like I do
 
-Ooooh ohhh oooh
-Oooh, oooh oooh
+Oh oh oh
+Oh, ohhoh
 (repeat)

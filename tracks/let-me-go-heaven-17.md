@@ -67,7 +67,7 @@ Ba-da-da-da-da, da-da-da-da
 Ba-da-da-da-da, da-da-da-da
 Ba-da-da-da-da, da-da-da-da
 Ba-da-da-da-da, da-da-da-da
-Ooh
+Oh
 
 (Repeat 2nd verse)
 
@@ -90,4 +90,4 @@ Ba-da-da-da-da, da-da-da-da
 Ba-da-da-da-da, da-da-da-da
 Ba-da-da-da-da, da-da-da-da
 Ba-da-da-da-da, da-da-da-da
-Ooh
+Oh

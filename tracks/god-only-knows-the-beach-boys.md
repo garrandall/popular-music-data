@@ -57,9 +57,6 @@ So what good would living do me?
 
 God only knows what I'd be without you
 
-
-
-
 God only knows what I'd be without you
 
 

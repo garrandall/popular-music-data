@@ -61,7 +61,7 @@ rankings:
 
 
 Aiyyo, you ready?
-Let's do it 
+Let's do it
 Mmm, yeah, uhh..
 Yeah, uhh.. c'mon
 
@@ -72,7 +72,7 @@ No gaze, we ain't laughing much
 Nothing but big thangs, check the hitlist
 How we twist shit, what change but the name?
 We still here, you rocking wit the best
-Don't worry if I write rhymes, I write checks (ahh!)
+Don't worry if I write rhymes, I write checks (ah!)
 Who's the boss?  Dudes is lost
 Don't think cause I'm iced out, I'm gonna cool off
 Who else but me? (who else?) And if you don't feel me

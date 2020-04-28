@@ -154,7 +154,7 @@ Would you be my friend, my freak?
 
 
 These lips, can't wait to taste your skin, baby
-And these eyes, I can't wait to see your grin, (ooh ooh baby)
+And these eyes, I can't wait to see your grin, (ohoohaby)
 
 
 Just let my love, Just let my love adorn you (please baby)
@@ -164,13 +164,13 @@ You know that I adore you (yeah baby)
 
 Baby these fists, will always protect ya, lady
 And this mind, will never neglect you, (yeah baby)
-And if they try to break us down (oo-ooh)
+And if they try to break us down (oo-oh
 Don't let that affect us, no baby
 
 
 You just gotta let my love
 Let my love, let my love adorn you
-Ahh, le-le-le-let it dress you down
+Ah, le-le-le-let it dress you down
 You gotta know, you gotta know
 Know that I adore you
 Just that, baby
@@ -186,7 +186,7 @@ The same way that the stars adorn the skies, yeah
 Now look up sugar (Every night babe)
 Now hey hey hey
 The same way that my whole world's in your eyes (when I look in your eyes babe)
-Oooh and it's time now (It's time babe)
+Oh and it's time now (It's time babe)
 
 
 Just let, let my love (do you baby!)

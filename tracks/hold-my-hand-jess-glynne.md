@@ -57,10 +57,6 @@ Tell me that you've got me and you're never gonna leave
 Tryna find a moment where I can find release
 Please tell me that you've got me and you're never gonna leave
 
-
-
-
-
 Don't wanna know
 That feeling when I'm all alone
 So please don't make me wait, 'cause I don't wanna break
@@ -69,8 +65,4 @@ When you're next to me
 Can tell I'm not afraid to be
 That you don't make me wait, and never let me break
 You never let me fall
-
-
-
-
 

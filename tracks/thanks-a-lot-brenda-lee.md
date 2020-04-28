@@ -43,17 +43,17 @@ You made me cry, I cried a lot
 Oh I lost your love, hm hm baby thanks a lot
 You told my friends, as I was passing by
 That you're not sorry, that you made me cry
-You said I deserved, aah just what I got
-Well if that's how you feel, aah honey thanks a lot
+You said I deserved, ah just what I got
+Well if that's how you feel, ah honey thanks a lot
 Thanks thanks thanks thanks a lot
 I've got a broken heart
 That's all I've got, you're made me cry
 Lord I cried a lot, I lost your love
 Honey baby thanks a lot
 
-You wanted a fool, aah and I played the part
+You wanted a fool, ah and I played the part
 Now all I've got is a broken heart
-We loved a little, aah we loved a lot
+We loved a little, ah we loved a lot
 And you are gone gone gone
 Honey thanks a lot, yeah I say
 Thanks thanks thanks, ah thanks a lot

@@ -40,7 +40,7 @@ Hear the mighty engine roar
 See the silver wing on high
 Shes away and westward bound
 Far above the clouds shell fly
-Where the morning rain dont fall
+Where the morning rain don't fall
 And the sun always shines
 Shell be flying over my home
 In about three hours time

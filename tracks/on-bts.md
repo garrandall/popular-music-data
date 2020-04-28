@@ -92,7 +92,7 @@ Everyday, oh-na-na-na
 나의 고통이 있는 곳에
 내가 숨 쉬게 하소서
 My everythin’, my blood and tears
-Got no fears, I'm singin’, ohh
+Got no fears, I'm singin’, oh
 Oh, I’m takin’ over
 You should know, yeah
 Can’t hold me down 'cause you know I’m a fighter

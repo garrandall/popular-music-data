@@ -121,7 +121,7 @@ What you gonna do?
 
 
 Ah
-Ooh, crazy on you
+Oh crazy on you
 Crazy on you
 Let me go crazy, crazy on you
 

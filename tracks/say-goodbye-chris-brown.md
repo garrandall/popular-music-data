@@ -168,11 +168,11 @@ I just can't do it, I, I just can't do it
 Listen to your heart, girl, you know
 We should be apart, baby I
 I just can't do it and sometimes it makes me wanna cry
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohh,oh, ohoh
+Oh oh oohohohh,oh, ohoh
 Do you hear me crying?
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh (Oh, oh)
-Ooh, ooh, ooh, ooh
+Oh oh oohohohh,oh, oh(Oohoh)
+Oh oh oohohoh
 There's never a right
 
 

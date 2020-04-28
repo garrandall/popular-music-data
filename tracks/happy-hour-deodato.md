@@ -36,7 +36,7 @@ Happy, happy hour
 Come alive
 After nine to five
 
-Happy, happy hour (Oooh, yeah)
+Happy, happy hour (Oh, yeah)
 Now's the time
 Tonight you're mine
 
@@ -104,7 +104,7 @@ After nine to five
 Live it up, live itup
 Yeah, yeah, yeah, yeah
 
-Oooh, yeah
+Oh, yeah
 
 Everybody come on down
 This is the place to be

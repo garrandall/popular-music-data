@@ -43,14 +43,14 @@ You know I can't stand it
 You're runnin' around
 You know better daddy
 I can't stand it cause you put me down
-Oh ooh
+Oh oh
 
 I put a spell on you
 Because you're mine
 
 Because you're mine
 Because you're mine
-Oooh yeah
+Oh yeah
 
 
 

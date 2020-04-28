@@ -90,7 +90,7 @@ rankings:
   start_date: '2002-07-06'
 ---
 
-Yea ooh yea yea yea yea
+Yea oh yea yea yea yea
 
 You can have anything I got
 All of me right on the spot

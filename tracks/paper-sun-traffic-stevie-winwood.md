@@ -21,7 +21,7 @@ But if you look around and see
 A shadow on the run
 Don't be too upset because its just a paper sun
 
-Ahh Paper Sun, Ahh Paper Sun
+Ah Paper Sun, Ah Paper Sun
 
 In the room where you've been sleeping
 All your clothes all thrown about

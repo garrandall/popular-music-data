@@ -50,12 +50,12 @@ Every night, I make a living making music
 And that's all right to folks in Doraville
 Yeah, hey hey
 
-Ooh, hot time in Dixie, hey
+Oh hot time in Dixie, hey
 It's funky but it's pretty
 Sweet Georgia
 
 Yeah, hey hey
-Ooh, hot time in Dixie, hey
+Oh hot time in Dixie, hey
 Come on down and visit, you'll dig it
 
 Red clay hills, rednecks drinking wine on Sunday

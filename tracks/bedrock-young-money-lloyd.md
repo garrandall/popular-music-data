@@ -135,16 +135,16 @@ She don't ever wonder, 'cause she know she bad
 And I got her, nigga: grocery bag
 
 
-Ooh baby, I be stuck to you like glue, baby
+Oh baby, I be stuck to you like glue, baby
 Wanna spend it all on you, baby
 My room is the G-spot
 Call me Mr. Flintstone, I can make your bed rock
 
 
-(Ooh) I-I-I-I can make your bed rock
-(Ooh) I-I-I-I can make your bed rock, girl
-(Ooh) I-I-I-I can make your bed rock
-(Ooh) I-I-I-I can make your bed rock (Ayy!)
+(Oh) I-I-I-I can make your bed rock
+(Oh) I-I-I-I can make your bed rock, girl
+(Oh) I-I-I-I can make your bed rock
+(Oh) I-I-I-I can make your bed rock (Ayy!)
 
 
 Okay, I get it, let me think, I guess it's my turn
@@ -167,16 +167,16 @@ That's when we disappear, you need GPS to find her
 Oh, that was your girl? I thought I recognized her
 
 
-Ooh baby, I be stuck to you like glue, baby
+Oh baby, I be stuck to you like glue, baby
 Wanna spend it all on you, baby
 My room is the G-spot
 Call me Mr. Flintstone, I can make your bed rock
 
 
-(Ooh) I-I-I-I can make your bed rock
-(Ooh) I-I-I-I can make your bed rock, girl
-(Ooh) I-I-I-I can make your bed rock
-(Ooh) I-I-I-I can make your bed rock (Ayy!)
+(Oh) I-I-I-I can make your bed rock
+(Oh) I-I-I-I can make your bed rock, girl
+(Oh) I-I-I-I can make your bed rock
+(Oh) I-I-I-I can make your bed rock (Ayy!)
 
 
 She like tanning, I like staying in
@@ -199,19 +199,19 @@ She ain't got a man, but she's not alone
 Miss Independent, yeah, she got her own
 Hey gorgeous, um, I mean flawless, well
 That's what you are, how I see it is how I call it, yeah
-Look-look at how she walk, m-hmm, she know she bad
+Look-look at how she walk, m-hm, she know she bad
 Do-do your thang baby, I ain't even mad
 And I ain’t leavin' fast, I'ma stay awhile
 Hold your head, Chris, I-I'ma take it down!
 
 
-Ooh baby, I be stuck to you like glue, baby
+Oh baby, I be stuck to you like glue, baby
 Wanna spend it all on you, baby
 My room is the G-spot
 Call me Mr. Flintstone, I can make your bed rock
 
 
-(Ooh) I-I-I-I can make your bed rock
-(Ooh) I-I-I-I can make your bed rock, girl
-(Ooh) I-I-I-I can make your bed rock
-(Ooh) I-I-I-I can make your bed rock (Ayy!)
+(Oh) I-I-I-I can make your bed rock
+(Oh) I-I-I-I can make your bed rock, girl
+(Oh) I-I-I-I can make your bed rock
+(Oh) I-I-I-I can make your bed rock (Ayy!)

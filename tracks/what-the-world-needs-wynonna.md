@@ -53,7 +53,7 @@ Love and only love
 A little help from up above
 Faith to make a better day
 Let's come together
-Lay our differences down 
+Lay our differences down
 Spread it all around
 That's what the world needs now
 
@@ -64,7 +64,7 @@ To change somebody's weather
 Chase the clouds out of their sky
 Sometimes you gotta give and not receive
 Sometimes you gotta live what you believe
-Open your arms cause that's where it starts 
+Open your arms cause that's where it starts
 Right here with you and with me
 
 
@@ -76,10 +76,6 @@ No one wants to be alone
 
 
 
-( "Let's come together, lay our prejudices down...") 
+( "Let's come together, lay our prejudices down...")
 (La, la, la, la, la)
-
-
-
-
 

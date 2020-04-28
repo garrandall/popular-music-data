@@ -46,7 +46,7 @@ Say, I'm the biggest fool
 In this town
 
 Said I'll do my best
-Ooh, gotta treat you right
+Oh gotta treat you right
 Let you go out
 You just stay out all night
 

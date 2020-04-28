@@ -126,10 +126,7 @@ Think we all know the answer to that, cause niggas feel this right
 
 
 You think I'ma come this far, and let you niggas stop me now?
-I hate you too!!  (Do it now!)
-
-
-
+I hate you too!  (Do it now!)
 
 I won't stop
 I can't stop
@@ -162,9 +159,6 @@ C'mon
 
 You ain't never seen a nigga like me, ever in your life
 And that's what you can't understand!
-
-
-
 
 You can hate me now
 I won't stop

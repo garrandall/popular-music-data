@@ -240,11 +240,11 @@ Feelin'
 That tonight's gonna be a good night
 That tonight's gonna be a good night
 That tonight's gonna be a good, good night
-A feelin' (Wooh-ooh)
+A feelin' (Wooh-oh)
 That tonight's gonna be a good night
 That tonight's gonna be a good night
 That tonight's gonna be a good, good night
-A feelin' (Wooh-ooh)
+A feelin' (Wooh-oh)
 That tonight's gonna be a good night
 That tonight's gonna be a good night
 That tonight's gonna be a good, good night (Fee-)
@@ -268,11 +268,11 @@ And do it, and do it, and do it, do it, do it
 Let's do it, let's do it, let's do it
 
 
-'Cause I got a feelin' (Wooh-ooh)
+'Cause I got a feelin' (Wooh-oh)
 That tonight's gonna be a good night
 That tonight's gonna be a good night
 That tonight's gonna be a good, good night
-A feelin' (Wooh-ooh)
+A feelin' (Wooh-oh)
 That tonight's gonna be a good night
 That tonight's gonna be a good night
 That tonight's gonna be a good, good night (Fee-)
@@ -302,11 +302,11 @@ Weekend get get get with us, you know what we say
 Party every day, p-p-p-party every day
 
 
-And I'm feelin' (Wooh-ooh)
+And I'm feelin' (Wooh-oh)
 That tonight's gonna be a good night
 That tonight's gonna be a good night
 That tonight's gonna be a good, good night
-A feelin' (Wooh-ooh)
+A feelin' (Wooh-oh)
 That tonight's gonna be a good night
 That tonight's gonna be a good night
 That tonight's gonna be a good, good night

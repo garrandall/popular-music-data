@@ -101,7 +101,7 @@ Longing to see you
 Oh Sam, Sam, you know where I am
 
 Oh Sam, you know where I am
-Oh Sam, ooh Sam
+Oh Sam, oh Sam
 You know, you know
 You know where I am
 

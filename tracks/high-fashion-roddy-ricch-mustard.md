@@ -62,7 +62,7 @@ G-Wagen or the Rover?
 I put some ice on you 'cause you got a cold heart
 I know I gotta keep my shawty on go, go, go
 Drop that ass to the floor-floor, yeah
-Ahh, woah
+Ah, woah
 You ain't gotta deal with none of these niggas no more
 
 If we hop in the Benz is that okay?
@@ -85,10 +85,10 @@ And since you got it, it make you go and do anything you want to
 Shawty made that ass clap, she don't need no applause (No applause)
 High fashion like Goyard (Like Goyard)
 G-Wagen or the Rover? (Yeah)
-I put some ice on you 'cause you got a cold heart (Ooh-ooh)
+I put some ice on you 'cause you got a cold heart (Ohoh
 I know I gotta keep my shawty on go, go, go (Shawty on go, go, yeah)
 Drop that ass to the floor-floor, yeah
-Ahh, woah
+Ah, woah
 You ain't gotta deal with none of these niggas no more
 
 If we hop in the Benz is that okay?
@@ -109,7 +109,7 @@ Sweater and her sneakers all Kenzo
 Shawty know to drop it low like a limbo every time we kick it like Timbo, woah, woah, woah
 
 Shawty made that ass clap, she don't need no applause (Nah, nah)
-I put some ice on you 'cause you got a cold heart (Ooh-ooh)
+I put some ice on you 'cause you got a cold heart (Ohoh
 I know I gotta keep my shawty on go, go, go (Yeah)
 Drop that ass to the floor-floor, yeah
 
@@ -119,7 +119,7 @@ G-Wagen or the Rover?
 I put some ice on you 'cause you got a cold heart
 I know I gotta keep my shawty on go, go, go
 Drop that ass to the floor-floor, yeah
-Ahh, woah
+Ah, woah
 You ain't gotta deal with none of these niggas no more
 
 If we hop in the Benz is that okay?

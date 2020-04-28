@@ -60,6 +60,3 @@ I'm ten feet tall
 Oh, oh, oh
 I'm ten feet tall
 
-
-
-

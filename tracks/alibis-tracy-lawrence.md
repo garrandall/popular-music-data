@@ -73,7 +73,7 @@ One day I gave her a wedding ring, and one night I tore all those feelings apart
 
 With my alibis and lying eyes, and all the best lines, Lord knows she heard em all
 She's been cheated on, and pushed around, and left alone, Lord knows what I put her through
-But boy you can bet, if a move can be made, she knows how to make....
+But boy you can bet, if a move can be made, she knows how to make...
 
 Her own alibis and lying eyes, and all the best lines, Lord knows she heard em all
 She's been cheated on, and pushed around, and left alone, Lord knows what I put her through

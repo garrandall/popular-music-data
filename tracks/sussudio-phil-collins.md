@@ -93,7 +93,7 @@ Oh Sussudio
 Now I know that I'm too young
 My love has just begun
 Sussudio oh oh
-Ooh give me a chance, give me a sign
+Oh give me a chance, give me a sign
 I'll show her anytime
 Sussudio oh oh
 

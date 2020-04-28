@@ -98,9 +98,3 @@ The whole team hot, walls closin' in
 Nigga's can't tell me shit about this dope game
 'Bout this cocaine, man I done seen it all
 
-
-
-
-
-
-

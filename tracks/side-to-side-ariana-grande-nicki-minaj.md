@@ -198,7 +198,7 @@ I've been here all night (Been here all night, baby)
 I've been here all day (Been here all night, baby)
 And boy (Boy), got me walkin' side to side (Side to side)
 I've been here all night (Been here all night, baby)
-I've been here all day (Been here all day, baby) (Ooh, baby)
+I've been here all day (Been here all day, baby) (Oh, baby)
 And boy (No), got me walkin' side to side (Side to side) (Yeah-eh, yeah, yeah, yeah)
 
 

@@ -48,7 +48,7 @@ Now you gotta find another
 Now you're talkin' crazy, sayin' that you made me
 Like I was your Cinderella
 You and me are through though, watch me hit it solo
-I'mma do it acapella, yeah 
+I'mma do it acapella, yeah
 
 Once upon a time, I met the perfect guy
 He had that Colgate smile, he had that suit and tie
@@ -59,7 +59,7 @@ Thought he was gluten-free, but all that I got was bread
 Mama always said, "Nice guys finish last.
 Beat him at his own game, honey, take the cash."
 
-Ooh, and what a lucky girl you will be
+Oh, and what a lucky girl you will be
 But no, he didn't do jack for me
 I want a bean with the beanstalk
 And if the magic ain't right, time to walk
@@ -84,7 +84,7 @@ He put the saucy on it (Oops!) time to check my watch
 Daddy always said, "Money can't buy class.
 You don't wanna get stuck takin' out trash."
 
-Ooh, and yeah I guess it wasn't meant to be
+Oh, and yeah I guess it wasn't meant to be
 Because he didn't do jack for me
 I want a bean with the beanstalk
 And if the magic ain't right, time to walk

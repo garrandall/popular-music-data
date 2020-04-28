@@ -91,7 +91,7 @@ Let's let Dion feel he served us well
 Hey hey wo-o-o-o-oah
 Hey hey wo-o-o-o-oah
 Hey hey wo-o-o-o-oah
-Hey... ahhh
+Hey... ah
 Kentucky and Waterloo
 Uncle Sam is a-comin' he's a-watchin' you
 So stay away keep outa view

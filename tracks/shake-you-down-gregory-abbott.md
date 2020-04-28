@@ -145,13 +145,13 @@ Oh baby, well, oh well
 
 (You read my mind) you know you did
 (Girl, I wanna shake you down) oh, baby
-(I can give you all the loving you need) aah (loving you'll need)
+(I can give you all the loving you need) ah (loving you'll need)
 (Come on, let me take you down) well, oh well
 (We'll go all the way to heaven)
 
 Eenie, meenie, minie, moe (you read my mind)
 Come on, girl, let's start the show (girl, I wanna shake you down)
-Aah, yeah (I can give you all the loving you need)
+Ah, yeah (I can give you all the loving you need)
 Roses are red and violets are blue
 I'm gonna rock this town for you (come on, let me take you down)
 Hey, baby (we'll go all the way to heaven)

@@ -117,9 +117,6 @@ Whatever happened to the promise that we made
 You'll never leave me, I'll never leave you
 Now you're gone
 
-
-
-
 I've got so many things to say
 Can we talk about it, I want to talk about it
 But let's not talk about who's right or who's wrong
@@ -130,9 +127,6 @@ So sugar, come back home
 I'm so all alone
 I need someone that I can talk to
 I miss you
-
-
-
 
 Hey yo, it's the Chocolate Mac
 The slim kid with gold front

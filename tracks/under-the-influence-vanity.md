@@ -75,4 +75,3 @@ I must be under the influence
 Of a love that gets sweeter than wine
 You got me under the influence
 And my willpower's so hard to find
-(Repeat 1st chorus until fade)

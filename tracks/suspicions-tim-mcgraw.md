@@ -38,7 +38,7 @@ I get this feelin' that I'm losing you
 I get these suspicions
 Even though I know that you love me baby
 And I really shouldn't feel this way
-Ooh Suspicions
+OhSuspicions
 I can't help it you're just so good lookin'
 I'm afraid somebody's gonna steal you away from me
 
@@ -49,7 +49,7 @@ I try to fight it, but it gets me sometimes
 
 
 
-Ooh, suspicions
+Oh suspicions
 
 When I'm with you I feel so satisfied
 The way you touch me when you lay by my side
@@ -61,7 +61,7 @@ Makes me hate myself for what I'm thinkin' of
 Suspicions
 Even though I know that you love me baby
 And I really shouldn't feel this way
-Ooh suspicions
+Ohsuspicions
 I can't help it you're just so good lookin'
 I'm afraid somebody's gonna steal you away from me
 Suspicions

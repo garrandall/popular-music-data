@@ -45,7 +45,7 @@ rankings:
   start_date: '1987-04-04'
 ---
 
-Ooh, have you ever?
+Oh have you ever?
 Have you ever loved, loved, loved, loved, loved?
 
 You keep running, running away
@@ -62,7 +62,7 @@ Have you ever loved somebody?
 Can you learn to love somebody
 The way somebody loves you?
 Have you ever known that feeling
-Ooh, that special feeling
+Oh that special feeling
 When somebody loves you?
 
 You build a fortress around yourself
@@ -79,7 +79,7 @@ Have you ever loved somebody?
 Can you learn to love somebody
 If somebody loves you?
 Have you ever known that feeling
-Ooh, that special feeling
+Oh that special feeling
 When somebody loves you?
 
 Oh, when you think that it's safe, girl
@@ -100,14 +100,14 @@ Have you ever loved somebody?
 Can you learn to love somebody
 If somebody loves you?
 Have you ever known that feeling
-Ooh, that special feeling
+Oh that special feeling
 When somebody loves you?
 
 Have you ever loved somebody?
 Can you learn to love somebody
 If somebody loves you?
 Have you ever known that feeling
-Ooh, that special feeling
+Oh that special feeling
 When somebody loves you?
 
 Girl, I wanna teach you, yeah, oh, yeah

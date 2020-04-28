@@ -103,10 +103,6 @@ Wanna go back (let's do it again)
 Can we go back (can you take me, baby)
 Boy, can we go back
 
-
-
-
-
 Pia, let me know
 
 

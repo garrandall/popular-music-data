@@ -15,7 +15,7 @@ rankings:
 ---
 I met this girl in a down-home church
 And everybody called her schoolteacher
-I 
+I
 Until I got a chance to meet her
 
 He said the mother  don't drink no whiskey
@@ -35,7 +35,7 @@ I think me and this girl had better part
 "And you still sleeping there?"
 With one eye open
 "I said, Are you still sleeping there?"
-I told you, with one eye open, cause if i close my eyes, I might lose my life
+I told you, with one eye open, cause if I close my eyes, I might lose my life
 Man, you don't know my wife!
 "What has she done to you now?"
 

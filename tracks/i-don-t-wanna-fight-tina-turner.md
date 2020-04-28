@@ -173,4 +173,4 @@ I don't really wanna fight no more
 
 Let it go, let it go, let it go
 Let it go, let it go, let it go
-Hmm, so let it go
+Hm, so let it go

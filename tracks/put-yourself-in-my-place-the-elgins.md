@@ -35,7 +35,7 @@ Live through the loneliness
 The endless emptiness I go through
 
 
-Ooh, and when you lose a little sleep at night
+Oh, and when you lose a little sleep at night
 Cause you ain't been treated right
 Then you know heartaches are sad
 Sitting by the telephone
@@ -45,7 +45,7 @@ Then you know why I'm feeling bad
 Oh my, my
 
 
-Ooh, and when you're just about to go insane
+Oh, and when you're just about to go insane
 Cause it hurts to love in vain
 Ask a girl who's been in love
 I believed your evil line
@@ -67,7 +67,7 @@ Why don't you try it baby, baby, try it?
 
 
 Put yourself in my place
-Ooh baby
+Oh baby
 C'mon and try it
 C'mon and try it
 Baby try it, baby try it

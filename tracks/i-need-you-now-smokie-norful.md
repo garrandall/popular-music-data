@@ -30,7 +30,7 @@ I stretch my hands to thee
 Come rescue me
 I need you right away.
 
-I need you now 
+I need you now
 Not another second or another minute
 Not an hour of another day but, Lord
 I need you right away
@@ -51,12 +51,12 @@ The waves and trials that beat upon me
 But to know, Lord, that in you I've got victory.
 
 I need you now, Lord,
-I need you now (ooooh)
+I need you now (oh)
 I need you right now, right now, right now
 I need you now
 Oh, not another second, not another minute, Lord,
-Can't wait another day (oooh no, no)
-Please, make a way (ooh, lord, ooh, God, ooo yeah)
+Can't wait another day (oh no, no)
+Please, make a way (oh, lord, oh, God, oo yeah)
 
 
 

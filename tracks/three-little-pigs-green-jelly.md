@@ -105,13 +105,13 @@ Along came the wolf, knocking on his door
 
 
 Little Pig, Little Pig, let me in
-Not by the hair of my chinny, chin, chin!!
+Not by the hair of my chinny, chin, chin!
 Little Pig, Little Pig, let me in
-Not by the hair of my chinny, chin, chin!!
+Not by the hair of my chinny, chin, chin!
 Well I'm huffin, I'm puffin, I'll blow your house in
 Huffin, puffin, blow your house in
 Huffin, puffin, blow your house in
-Huffin and a puffin and I'll blow your house in!!!
+Huffin and a puffin and I'll blow your house in!
 
 Well the second little piggy, well he was kinda stoked
 He spent most of his time just a ganga smokin
@@ -142,7 +142,7 @@ So they called nine-eleven, like any piggy would
 The sent out Rambo, just as fast, as they could
 
 (Rambo)
-"YO, WOLF-FACE, I'M YOUR WORST NIGHTMARE, YOUR ASS IS MINE!!!"
+"YO, WOLF-FACE, I'M YOUR WORST NIGHTMARE, YOUR ASS IS MINE!"
 
 (gunshots)
 

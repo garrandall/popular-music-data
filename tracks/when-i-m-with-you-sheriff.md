@@ -125,7 +125,7 @@ Like I need you
 And I never lived for nobody
 But I live for you
 
-Oooh, babe
+Oh, babe
 Lost in love is what
 I feel when I'm with you
 
@@ -134,11 +134,11 @@ With the warmth of a sun
 Maybe it's the way you smile
 I come all undone
 
-Oooh, babe
+Oh, babe
 Lost in love is what
 I feel when I'm with you
 
-Baby, ooh, I get chills
+Baby, oh I get chills
 When I'm with you, oh
 Oh, baby, my world stands still
 When I'm with you
@@ -149,20 +149,20 @@ Like I care for you
 And I never wanted
 To share the things I want to share with you
 
-Oooh, babe
+Oh, babe
 Lost in love is what
 I feel when I'm with you
 
-Baby, ooh
+Baby, oh
 I get chills
 When I'm with you, oh...
 Oh, baby, my world stands still
 When I'm with you
 When I'm with you
 
-Whoa, oh, oh.....
+Whoa, oh, oh...
 
-Baby, ooh
+Baby, oh
 I get chills
 When I'm with you, oh...
 Oh, baby, my world stands still

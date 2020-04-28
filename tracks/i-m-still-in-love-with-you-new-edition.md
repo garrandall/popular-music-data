@@ -188,7 +188,7 @@ And I'll always keep you happy
 ('Cause I'll always)
 (Always)
 'Cause I'm still in love with you
-(Oooh)
+(Oh)
 
 
 No one loves you

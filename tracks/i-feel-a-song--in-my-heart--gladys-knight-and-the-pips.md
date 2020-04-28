@@ -76,7 +76,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-02-01'
 ---
-Ooh, I love you so
+Oh, I love you so
 But why I love you I'll never know
 You found a reason for leavin'
 Soon as I gave my love to you
@@ -92,7 +92,7 @@ I feel a song in my heart again
 High on the wings of the things he's doin' to me
 
 Oh, that a man is fine
-Ooh, what's even better the man is mine
+Oh, what's even better the man is mine
 He makes me feel just like a woman
 Something that you could never do
 
@@ -115,13 +115,13 @@ Now I can open my eyes to a new door
 I feel a song in my heart again
 The man is all that I need to fill my love up
 
-I feel a song, ooh, what a feelin'
+I feel a song, oh, what a feelin'
 I feel it takin' me higher and higher
 I feel a song in my heart again
 His kind of lovin' I can never get enough of
 
 I don't need your lovin' 'cause I got his lovin'
-Woo, I feel a song again, ooh, y'all, I've been born again, ooh...
+Woo, I feel a song again, oh, y'all, I've been born again, oh...
 (I feel a song in my heart again)
 (Feel it)
 

@@ -94,7 +94,7 @@ He's usually up to his chest in oil an' grease.
 There's the Martin's walkin' in,
 With that mean little freckle-faced kid,
 Who broke a window last week.
-Sweet Miss Betty likes to sing off key in the pew behind me. 
+Sweet Miss Betty likes to sing off key in the pew behind me.
 
 That's what I love about Sunday:
 Sing along as the choir sways;
@@ -104,14 +104,14 @@ Go home, into your blue jeans;
 Have some chicken an' some baked beans.
 Pick a back yard football team,
 Not do much of anything:
-That's what I love about Sunday. 
+That's what I love about Sunday.
 
 I stroll to the end of the drive,
 Pick up the Sunday Times, grab my coffee cup.
 It looks like Sally an' Ron, finally tied the knot,
 Well, it's about time.
 It's 35 cents off a ground round,
-Baby, cut that coupon out! 
+Baby, cut that coupon out!
 
 That's what I love about Sunday:
 Cat-napping on the porch swing;
@@ -122,14 +122,14 @@ Tackle box and a cane pole;
 Carve our names in that white oak,
 steal a kiss as the sun fades,
 That's what I love about Sunday,
-Oh, yeah. 
+Oh, yeah.
 
-Ooh, new believers gettin' baptized,
+Oh, new believers gettin' baptized,
 Momma's hands raised up high,
 Havin' a Hallelujah good time
 A smile on everybody's face.
 That's what I love about Sunday,
-Oh, yeah. 
+Oh, yeah.
 
 That's what I love about Sunday,
 Oh, yeah.

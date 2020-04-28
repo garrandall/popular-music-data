@@ -34,7 +34,7 @@ Gym Class Heroes
 
 Radio Killer (killer)
 
-Hah! You know what it is.... Gym Class Heroes and Dream
+Hah! You know what it is... Gym Class Heroes and Dream
 It's hard to look innocent when I got cookie crumbs all over my face... Ya hear me?
 
 

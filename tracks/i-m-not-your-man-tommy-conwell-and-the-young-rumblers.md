@@ -92,19 +92,19 @@ You know you got to have some fun while you still know how
 Do a monkey chasing line up a coconut tree
 A sweet little angel that I ain't ever gonna be
 
-I, I, I, I, I, ooh
+I, I, I, I, I, oh
 I'm not your man
 I'm not your man
 I'm not your man
 
-I, I, I, I, I, ooh
+I, I, I, I, I, oh
 I'm not your man all the way
 I'm not your man, like I said
 I'm not your man, look here
 
-I, I, I, I, I, ooh
+I, I, I, I, I, oh
 I'm not your man all the way
 I'm not your man, hey
 I'm not your man, look out
 Y'gotta look out
-I, I, I, I, I, ooh
+I, I, I, I, I, oh

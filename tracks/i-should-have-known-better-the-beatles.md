@@ -44,9 +44,6 @@ So I should have realized a lot of things before
 If this is love you've got to give me more
 Give me more, hey hey hey, give me more
 
-
-
-
 Whoa, oh, I never realized what a kiss could be
 This could only happen to me
 Can't you see, can't you see

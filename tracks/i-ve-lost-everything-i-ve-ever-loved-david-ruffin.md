@@ -28,7 +28,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
 ---
-Hmm, hmm, hmm-mmm
+Hm, hm, hm-mmm
 I was raised an only child
 My folks died when I was four
 They were trapped in a fire
@@ -41,13 +41,13 @@ And left my dog Jeff, my only friend
 
 Oh, baby
 Seem like the odds are against me
-Nothing works out right for me, ooh
+Nothing works out right for me, oh
 
 I've lost everything I've ever loved
 Honey, honey, now I'm losing you, baby
 I've lost everything I've ever, ever loved
 Honey, honey, now I'm losing you
-Ooh, baby
+Oh, baby
 
 So, all my love I gave to Jeff
 'Cause he was all I had right then
@@ -61,13 +61,13 @@ But your folks did not approve
 
 Oh, baby
 Seem like the odds are against me
-Nothing works out right for me, ooh
+Nothing works out right for me, oh
 
 I've lost everything I've ever loved
 Now I'm losing you, oh
 I've lost everything I've ever loved, baby
 Honey, honey, now I'm losing you
-Ooh, baby
+Oh, baby
 
 You accepted their decision
 Without any type of defense

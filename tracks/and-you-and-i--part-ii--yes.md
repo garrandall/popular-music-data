@@ -74,17 +74,12 @@ Emotion revealed as the ocean maid
 As a movement regained and regarded both the same
 All complete in the sight of seeds of life with you
 
-
-
-
-
-
 Sad preacher nailed upon the colored door of time
 Insane teacher be there, reminded of the rhyme
 There'll be no mutant enemy we shall certify
 Political ends, as sad remains, will die
 Reach out as forward tastes begin to enter you
-Ooh, ooh
+Oh, oh
 
 
 I listened hard but could not see
@@ -100,9 +95,6 @@ Coming quickly to terms of all expression laid
 As a moment regained and regarded both the same
 Emotion revealed as the ocean maid
 A clearer future, morning, evening, nights with you
-
-
-
 
 And you and I climb, crossing the shapes of the morning
 And you and I reach, over the sun for the river

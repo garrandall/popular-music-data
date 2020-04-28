@@ -1,6 +1,6 @@
 ---
 artists:
-- Missy "Misdemeanor" Elliott
+- Missy Elliott
 features: []
 genres: []
 key: one-minute-man-missy--misdemeanor--elliott
@@ -94,15 +94,15 @@ rankings:
 ---
 
 
-Ooooooh, I don't want I don't need I can't stand no minute man
+Oh, I don't want I don't need I can't stand no minute man
 I don't want no minute man
-Ooooooh, here's your chance be a man take my hand understand
+Oh, here's your chance be a man take my hand understand
 I don't want no minute man
 
-Ohh, ohh, uhh, OOOH
-Ohh, ohh..
-Ohh, ohh, uhh, OOOH
-Ohh, ohh..
+Ohh, oh, uhh, OOOH
+Ohh, oh..
+Ohh, oh, uhh, OOOH
+Ohh, oh..
 
 
 Boy I'ma make you love me, make you want me
@@ -123,13 +123,10 @@ Cause I don't want, no..
 
 
 Tonight I'ma give it to you, throw it to you
-I want you to come prepared, ohhh yeah (oh yes)
+I want you to come prepared, oh yeah (oh yes)
 Boy it's been a long time, a crazy long time
 And I don't want no minute man, and that's real
 Give it to me some more
-
-
-
 
 Yeah, uhh, uhh
 It's time to set yo' clock back bout as long as you can
@@ -150,9 +147,9 @@ Just cause I'm an ALL-nighter, shoot ALL fire
 Ludacris, balance and rotate ALL tires
 
 
-Ooooooh, I don't want I don't need I can't stand no minute man
+Oh, I don't want I don't need I can't stand no minute man
 I don't want no minute man
-Ooooooh, here's your chance be a man take my hand understand
+Oh, here's your chance be a man take my hand understand
 I don't want no minute man
 
 Break me off, show me what you got

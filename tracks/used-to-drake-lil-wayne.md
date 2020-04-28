@@ -95,7 +95,7 @@ Debo recordarles de dónde soy
 No sobre a dónde voy, sobre dónde he ido
 Pisar una cucaracha Swisher como un peldaño
 Ir a la garganta de un negro como una espiga
-Chico, ¿huelo beef? Mmmm, feromonas
+Chico, ¿huelo beef? Mmm, feromonas
 Tengo un jodido anillo de ángel sobre mis cuernos de diablo
 Bombeando trap toda la noche como Chevron
 Chupan mi polla negra por un iPhone 6

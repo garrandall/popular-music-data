@@ -28,7 +28,7 @@ I make more than Dwyane Wade, baby
 I'm a street nigga and I stay faded (Pluto)
 Never worked in a gym, but I weighed it (Travis)
 
-First off, you get the ammo, then you cock it (Ooh)
+First off, you get the ammo, then you cock it (Oh
 First off, we had to blast off like a rocket (Skrrt, skrrt)
 I put the Patek water on, but I got options (Yeah)
 PJ takin' off and I ain't stoppin', no
@@ -44,7 +44,7 @@ Ordered a pound of gas to smoke, I need a fill up (Yeah)
 Got a line on good Gelato and Gorilla
 Hella freaky with me, know you gon' get hit up
 Steppin' over dead bodies in Margielas
-I touched a hundred M's and I've been gettin' better (Ooh)
+I touched a hundred M's and I've been gettin' better (Oh
 In a red Bugatti, gave it right to valet
 Shoot his head off right, it get you new Sheneneh
 Shootin' dice all night, yeah, me and Dae Dae

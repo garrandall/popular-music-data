@@ -124,7 +124,7 @@ Say grace to the gates we race
 Without a chance to face the judge
 Then I guess my soul won't budge
 Grudge, because there's no mercy for thugs
-Ooh, what could I do?
+Oh, what could I do?
 It's all about a family and how we roll
 Can I get a witness? Let it unfold
 We livin' our lives to eternal our souls, hey-o-ayo

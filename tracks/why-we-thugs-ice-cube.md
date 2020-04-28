@@ -19,7 +19,7 @@ rankings:
 
 
 Yeah
-Every hood's the same 
+Every hood's the same
 Come on
 
 
@@ -48,7 +48,7 @@ The projects, thank god for Russell Simmons
 Thank god for Sugarhill
 I'm putting a different kind of steel up to my grill
 Y'all know what it is, scared for your own kids
-How these ghetto niggaz taken over showbiz
+How these ghetto niggas taken over showbiz
 
 
 
@@ -57,7 +57,7 @@ It's boyz in the hood, it's toys in the hood
 Y'all wanna know why there's noise in the hood
 Cause there's drugs in the hood, thugs in the hood
 Nigga killed a crip and a blood in the hood (For real)
-Cause when niggaz get tribal
+Cause when niggas get tribal
 It's all about survival, nobody liable
 I got caught by five-oh
 Grandmama came to court with her Bible
@@ -78,7 +78,7 @@ Pulled the fo-fo up out the dresser
 Grabbed the weight up out the closet
 Po-po coming but I'm scared to toss it
 Y'all know what happened last time I lost it
-Can't tell you niggaz what the fucking boss did
+Can't tell you niggas what the fucking boss did
 The game got a nigga exhausted
 Gotta go for the plea bargain they offered
 Twenty years for what?
@@ -93,11 +93,11 @@ Cause these motherfuckers will set you up, word up
 
 
 
-Every hood's the same 
-Every hood's the same 
+Every hood's the same
+Every hood's the same
 Stop tripping on it
-Every hood's the same 
-Every hood's the same 
+Every hood's the same
+Every hood's the same
 
 
 

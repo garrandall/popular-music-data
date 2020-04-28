@@ -70,7 +70,7 @@ Everybody's goin' to a go go
 Well come on now
 Don't you want to go - Yeah
 One more time yeah, I'm
-Goin' to a go go. Ooh ooh wee now
+Goin' to a go go. Oh ohwee now
 Goin' to a go go. Baby come on now
 
 It doesn't matter where you are, a go go can be found
@@ -83,7 +83,7 @@ Goin' to a go go
 Aw come on now
 Don't you want to go yeah people come on
 
-Nana nana yeah ooh tell me
+Nana nana yeah ohtell me
 
 Don't you want to go. Yeah
 Now it's alright. Oh, yeah

@@ -42,7 +42,7 @@ I've been better, I've been broken
 I've been battered up and beat
 I wish I was more outspoken
 But the words are out of reach
-Hmm, thought I loved you in the moment
+Hm, thought I loved you in the moment
 I was happy, I was gone
 I been learnin', I've been growin'
 But the worst has yet to come

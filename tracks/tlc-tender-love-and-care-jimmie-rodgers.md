@@ -82,11 +82,11 @@ Every time I need you (every time I need you)
 I will cheer you if you are low
 I will chase all your cares and woe
 Giving tender love and care to you (tender love and care)
-Giving tender love and care (oooooh-ooooooh)
-Tender love and care (oooooh-ooooooh)
-Tender love and care (oooooh-ooooooh)
-Tender love and care (oooooh-ooooooh)
-Tender love and care (oooooh-ooooooh)
+Giving tender love and care (ohoh
+Tender love and care (ohoh
+Tender love and care (ohoh
+Tender love and care (ohoh
+Tender love and care (ohoh
 
 These lyrics were transcribed from the specific recording referenced
 Above, and are for personal use and research interest only.

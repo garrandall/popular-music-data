@@ -45,7 +45,7 @@ rankings:
   start_date: '1983-01-15'
 ---
 You're so square--baby
-You're so square . . 
+You're so square . .
 Oh, you don't like greasy diners
 You don't like sleazy bands
 You just want to go

@@ -110,7 +110,7 @@ You see, the little wheels started turning
 And landed in my soul
 A fire started burning
 
-Ooh good Lord, looks good to me
+Oh good Lord, looks good to me
 I went down to the disco
 And the whole joint was jumping
 You should have seen what I saw

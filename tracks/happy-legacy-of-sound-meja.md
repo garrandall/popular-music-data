@@ -83,7 +83,6 @@ The joy we bring
 Together we can show the world what happiness can be
 All together
 
-Chorus
 
 I feel free, yeah
 
@@ -99,11 +98,9 @@ The time we had
 Surrounded by the good days
 And the feeling of a good good vibration
 
-Chorus
 
 Oh what we are
 
-Chorus
 
 Hap hap hap hap
 (Found me a new day)
@@ -126,17 +123,13 @@ Believe in what we are
 
 So do it baby
 
-Chorus
 
 When we're together
 We are
 
-Chorus
 
 Yeah yeah
 
-Chorus
 
 Happy is what we are
 
-Chorus

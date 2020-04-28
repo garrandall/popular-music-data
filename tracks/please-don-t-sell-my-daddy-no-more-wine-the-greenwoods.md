@@ -43,7 +43,6 @@ A sweet young girl came softly to their side
 And to one man's surprise he looked upon two tear stained eyes
 And saw his own sweet daughter there who cried
 
-(Chorus)
 
 My daddy used to buy me pretty dresses
 Now it's only hand-me-downs and worn out shoes
@@ -54,7 +53,6 @@ As the teardrop trickled down his solemn face
 I been here Joe so long, now it's time that I was gone
 Going home to stay, I'll never see this place
 
-(Chorus)
 
 Don't you do it, don't you do it
 Don't you sell my daddy no more wine, no more wine

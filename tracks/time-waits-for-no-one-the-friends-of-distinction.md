@@ -40,7 +40,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-11-28'
 ---
-Oohhh, hoo, hey hey
+Oh, hoo, hey hey
 
 Time waits for no one
 And nobody gets away

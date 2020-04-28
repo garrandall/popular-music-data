@@ -41,7 +41,7 @@ Ain't nothing to it (nothin' to it) real one
 Ain't nothing to it (nothin' to it) I boss
 Ohhh, real one
 Uh, I'm a boss
-Oh oh oh oh ohhh, oh yeah
+Oh oh oh oh oh, oh yeah
 
 
 Let me get 'em, B, yeah
@@ -66,7 +66,7 @@ Ain't nothing to it (nothin' to it) real one (real one)
 Ain't nothing to it (nothin' to it) I boss
 Ohhh, real one
 Uh, I'm a boss
-Oh oh oh oh ohhh, oh yeah
+Oh oh oh oh oh, oh yeah
 
 
 Ain't nothing to it, I bossed up out my momma whip
@@ -86,10 +86,10 @@ Ain't nothing to it (nothin' to it) real one (real one)
 Ain't nothing to it (nothin' to it) boss (boss)
 Ain't nothing to it (nothin' to it) real one (real one)
 Ain't nothing to it (nothin' to it) I boss
-Ooh, real one
+Oh, real one
 Uh, I'm a boss
-Oh oh oh oh ohhh, oh yeah
+Oh oh oh oh oh, oh yeah
 
 
-Ohhh, ohh, I'm a boss
+Ohhh, oh, I'm a boss
 Shout out to Rumi and Sir, love, Blue

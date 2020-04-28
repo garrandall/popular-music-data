@@ -161,7 +161,7 @@ Thats gotta homie thats in a gangsta lean
 And also my boys in the pen
 That ain't ever gonna see the street again
 Cause you know what?
-It dont matter what they was doing while they was here
+It don't matter what they was doing while they was here
 They couldve been bangin', slangin'
 But they ain't here no more
 And thats somebody's daddy

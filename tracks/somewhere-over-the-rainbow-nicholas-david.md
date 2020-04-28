@@ -19,7 +19,7 @@ Once in a lullaby
 Somewhere over the rainbow
 Blue birds fly
 And the dreams that you dreamed of
-Dreams really do come true ooh ooooh
+Dreams really do come true oh oh
 
 Someday I'll wish upon a star
 Wake up where the clouds are far behind me

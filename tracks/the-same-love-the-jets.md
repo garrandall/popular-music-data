@@ -71,9 +71,6 @@ Summer days have left me
 Standing in the rain
 Somebody tell me how
 
-
-
-
 Was my heart so blind
 I couldn’t see?
 Was I a fool to believe

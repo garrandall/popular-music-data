@@ -59,11 +59,11 @@ Oh friend you've left me speechless
 You've left me speechless, so speechless
 
 How?
-Haaaa-oooo-wow?
+Haaaa-oo-wow?
 H-ooow?
 Wow
 
-Haaaa-oooo-wow?
+Haaaa-oo-wow?
 H-ooow?
 Wow
 

@@ -62,7 +62,3 @@ And you know I'm the one you can turn to
 Any time, any place, or anywhere
 You know that I'll always be there
 
-
-
-
-

@@ -38,7 +38,7 @@ Baby, you better quit, umm
 Well, keep on doin' whatcha doin', yeah
 Feels so good to me, girl
 Keep on doin' whatcha doin', lady
-Ooh, you feel so good to me
+Oh, you feel so good to me
 Girl, I went to see my doctor and he told me
 Well, from your lovin' I've got to stay away
 He told me to let you go for my heart can't stand much mo'
@@ -78,10 +78,10 @@ Ho, fire, aw, baby
 I like it, like it, like it, like it, like it, baby, oh, baby
 
 
-Ooh, girl, I like it
-Ooh, ooh, woo, woo, woo, mmm, mmm, mmm
+Oh, girl, I like it
+Oh, oh woo, woo, woo, mmm, mmm, mmm
 Don't stop, Lord, don't stop, I like it
-Ooh, ooh, ooh, ooh, ooh, oh, baby
+Oh, oh oohohohh,oh, baby
 
 When you put your loving arms around me
 Girl, my mind, body and soul you control

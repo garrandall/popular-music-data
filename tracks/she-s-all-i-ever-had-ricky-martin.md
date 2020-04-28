@@ -127,9 +127,6 @@ She's all, she's all I ever had
 (In a world so cold, so empty)
 She's all, she's all I ever had
 
-
-
-
 It's the way she makes me feel
 It's the only thing that's real
 It's the way she understands

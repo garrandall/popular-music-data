@@ -111,9 +111,9 @@ To get you out that thong
 When are you gonna really make up ya mind shorty
 See Twista work that skill
 Now can I get up in it from behind shorty
-Show you what I'm working with (ooh)
+Show you what I'm working with (oh)
 Come on let me take you to the penthouse suite
-Pull out some old school Marvin Gaye and put it on repeat (ohh)
+Pull out some old school Marvin Gaye and put it on repeat (oh)
 Now shorty come in
 Show me you can take it boo
 Let me fuck you first now girl
@@ -190,7 +190,7 @@ Cuz when I touch her she like
 When I rub her
 When I hug her
 When I love her
-When I touch her she like oooh oooh
+When I touch her she like ohhoh
 
 
 

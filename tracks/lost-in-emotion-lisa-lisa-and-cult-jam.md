@@ -114,11 +114,11 @@ Between you and me
 
 
 Just how true are the rumors I am hearing?
-About the crush you have on me? (Ooh)
+About the crush you have on me? (Oh)
 Oh baby I'm blind 'cause I just don't see it
 But I wanna believe what they see
 I find myself telling you things
-I don't even tell my best friend (Ooh)
+I don't even tell my best friend (Oh)
 I keep showing emotions
 Not knowing just where it all stems from
 

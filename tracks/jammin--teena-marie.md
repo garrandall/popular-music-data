@@ -81,7 +81,7 @@ Living to get down
 As the song became my lover
 Attitude keeps your head up to the sky
 
-Then you kissed my lips and, ooh
+Then you kissed my lips and, oh
 I lost my cool
 
 Look at me I'm jammin'
@@ -115,12 +115,12 @@ Times a happening melody equals a jam
 Give some to the back
 
 No
-Ooh, baby
+Oh baby
 No
 You got me movin' and I'm jammin' for the first time
 
 No
-Ooh, baby
+Oh baby
 No
 You got me movin' and I'm jammin' for the first time
 

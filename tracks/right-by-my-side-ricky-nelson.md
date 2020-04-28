@@ -53,7 +53,7 @@ And I can't get along without you, baby
 Hoh, right by my side
 
 You know that in your arms is where I long to be
-Ahh, yes sir
+Ah, yes sir
 And I hope someday I'm gonna find me a way
 To bring you back home to me
 

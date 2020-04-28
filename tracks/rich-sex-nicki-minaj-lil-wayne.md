@@ -116,7 +116,7 @@ To the moon, Elis, the goon palace
 
 When we get fly, we take flight, haha
 
-Woo! Haha, ahh-haha, ahh!
+Woo! Haha, ah-haha, ah!
 You mad, doggie? You mad, doggie?
 (Next stop: New York)
 Hahaha, lrrr!

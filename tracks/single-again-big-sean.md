@@ -49,7 +49,7 @@ Got me feeling like 'I Don't Fuck With You'
 Oh no-no, nah, that's the old me, you fuckin' with the new me
 Honestly all the disrespect had damn near ruined me (Damn near)
 All the trust gone, seems like all you say is "Prove it to me"
-Yeah you know I suck at lying, don't-don't do it to me (Don't)
+Yeah you know I suck at lying, don't don't do it to me (Don't)
 Maybe 'cause my mom had never worked it out with my dad (Damn)
 Maybe 'cause he had insecurities and she had 'em bad (Uh-huh)
 Maybe 'cause single-parent love is all I had, who knows? (Who knows?)

@@ -194,8 +194,8 @@ We gonna let it burn, burn, burn, burn
 
 When the lights turned down, they don't know what they heard
 Strike the match, play it loud, giving love to the world
-We gonna let it burn, burn, burn, burn, burn, burn (ooh)
-Burn, burn, burn, burn, burn, burn (ooh)
+We gonna let it burn, burn, burn, burn, burn, burn (oh
+Burn, burn, burn, burn, burn, burn (oh
 
 
 We can light it up, up, up

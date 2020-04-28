@@ -51,8 +51,8 @@ Planting a seedling and watching it grow
 Wonderful, you can feel it believe me
 Wonderful, everything'll be right
 S'wonderful, I think I'm goin', goin'
-Goin', goin', goin', goin', goin'....
-...........
+Goin', goin', goin', goin', goin'...
+...
 People keep happy
 You'll be happier yet for there's help: you forget
 When you are happy every place feels like home 'cause you're never
@@ -65,4 +65,4 @@ Swonderful, everything'll be right, right, right
 I'm gonna take you with me
 S'wonderful (it's gonna be right) (bye, bye)
 (Gonna ride with my baby)
-(wonderful, wonderful.......)
+(wonderful, wonderful...)

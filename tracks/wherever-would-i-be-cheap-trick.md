@@ -72,6 +72,3 @@ Without you to love me
 I'd just be wasting time
 And goin' out of my mind
 
-
-
-

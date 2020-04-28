@@ -96,7 +96,6 @@ We made a vow to love through it all
 We are one
 And no one has the right to tear my love down
 
-(Chorus)
 
 No matter what the people say, I'm gonna love you anyway
 You are my life, I can't let go
@@ -117,7 +116,6 @@ And here I will stand
 And there ain't never
 Ain't gonna never ever leave you alone
 
-(Chorus)
 
 No matter what the people say I'm gonna love you anyway
 You are my life, I can't let go
@@ -127,14 +125,12 @@ Even if we disagree, you can put it all on me
 You are my life, I can't let ya' go
 I can't, I can't let you go
 
-(Bridge)
 
 All that I know now is to give you all of me
 And no matter how long I take
 And every part of me belongs to your love
 Help me, help me
 
-(Chorus)
 
 No matter what the people say, I'm gonna love you anyway
 You are my life, I can't let go

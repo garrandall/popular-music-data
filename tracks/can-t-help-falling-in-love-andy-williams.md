@@ -22,25 +22,25 @@ rankings:
 ---
 
 Wise men say, only fools rush in,
-But I cant help falling in love with you.
+But I can't help falling in love with you.
 Shall I stay, would it be a sin?
-If I cant help falling in love with you.
+If I can't help falling in love with you.
 
 Like a river flows, slowly to the sea,
 Darling so it goes,
 Some things are meant to be.
 
 Take my hand, take my whole life too.
-For I cant help falling in love with you.
+For I can't help falling in love with you.
 
 (Like a river flows, slowly to the sea,
 Darling so it goes,)
 
 Some things are meant to be.
 Take my hand, take my whole life too.
-For I cant help falling in love with you,
+For I can't help falling in love with you,
 
-For I cant help falling in love with you.
+For I can't help falling in love with you.
 
 
 

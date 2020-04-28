@@ -78,7 +78,7 @@ But I'm a man of the woods, it's my pride
 I wrote this to let you know
 And I let them feelings show
 I'm the man of the woods and you're my pride
-Ooh, I can't make them understand
+Oh, I can't make them understand
 But you know I'm a Southern man
 A man of the woods and you're my pride
 Ohh, hey, hey

@@ -42,10 +42,10 @@ Closer to me.
 I will give you everything.
 Your heart will ever need...
 
-Often i have wondered
+Often I have wondered
 Could this be true
 I've searched my whole life for someone like you
-Ooohh someone to make my dreams come true
+Oh someone to make my dreams come true
 Is this a fantasy or have my dreams come true
 
 So come closer.
@@ -62,7 +62,7 @@ Like the high tide in the ocean
 Splashes on the beach
 Coloring the rocks on shore
 Like your love colored me
-Oohh i've never felt this way
+Oh i've never felt this way
 In my life before
 Cuz you've brought out that part of me
 

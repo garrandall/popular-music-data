@@ -115,11 +115,11 @@ Tunechi! (bBatt!)
 
 
 She got that million dollar
-Million dollar ooh, ooh, ooh
+Million dollar oh, oh, oh
 She got that million dollar
-Million dollar ooh, ooh, ooh
+Million dollar oh, oh, oh
 And all I want to do is touch it, touch it, touch it
-Ooh, ooh, ooh
+Oh, oh, oh
 Make her tap out, tap out
 Tap out, tap out, tap out (yeah)
 And I'ma make her tap out, tap out (all day, all night)
@@ -143,11 +143,11 @@ She get to shakin' then stiff
 
 
 She got that million dollar
-Million dollar ooh, ooh, ooh
+Million dollar oh, oh, oh
 She got that million dollar
-Million dollar ooh, ooh, ooh
+Million dollar oh, oh, oh
 And all I want to do is touch it (touch it, touch it)
-Ooh, ooh, ooh
+Oh, oh, oh
 Make her tap out, tap out
 Tap out, tap out, tap out
 And I'ma make her tap out, tap out
@@ -173,10 +173,10 @@ Pussy jewelry make em say "burr man"
 
 
 She got that million dollar (Rich Gang)
-Million dollar ooh, ooh, ooh (Rich Girl)
+Million dollar oh, oh, oh (Rich Girl)
 She got that million dollar
 (Sexy Slim, I see you, paradise home, yeah)
-Million dollar ooh, ooh, ooh
+Million dollar oh, oh, oh
 (Flossing while you're shining, jumping out of Bugattis)
 And all I want to do is touch it, touch it, touch it
 Touch it and touch it and touch it, touch it

@@ -99,7 +99,7 @@ Constantly your on my mind
 
 At night I try
 To close my eyes
-But I, I cant get much sleep
+But I, I can't get much sleep
 You're always on my mind
 You look so fine
 Often pretend
@@ -119,7 +119,7 @@ And I think of you
 Constantly
 I've got you on my mind (Constantly babe)
 Constantly
-And not just all the time, i think about you
+And not just all the time, I think about you
 Constantly
 If you only knew
 I'm crazy for you

@@ -87,10 +87,6 @@ No crew is fadin us
 You got beef with my squad you better dare that
 The shit I kick make rappers say, "I shoulda snared that"
 
-
-
-
-
 Complete this puzzle, what Squad beat up like Russell Simmons
 And more flyer than Robin Givens
 Cosmic Slop, from the darkside
@@ -99,8 +95,4 @@ Basically, I Can't Wait, songs from the Redman tape
 and y'all constantly keep listening
 Yeah, who can it be now, watch out
 Flying through the air with wings E Double doing my thing
-
-
-
-
 

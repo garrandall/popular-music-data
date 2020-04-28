@@ -88,7 +88,7 @@ I'm misty the moment you're near
 You can say that you're leading me on
 But it's just what I want you to do
 Don't you notice how hopelessly I'm lost
-That's why I'm following you, ooh
+That's why I'm following you, oh
 
 On my own
 Should I wander through this wonderland alone, now
@@ -99,7 +99,7 @@ I'm misty and too much in love
 You can say that you're leading me on
 But it's just what I want you to do
 Don't you notice how hopelessly I'm lost
-That's why I'm following you, ooh
+That's why I'm following you, oh
 
 On my own
 Should I wander through this wonderland alone, now

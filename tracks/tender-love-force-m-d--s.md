@@ -103,7 +103,7 @@ All the tender love you've given to me
 
 
 I want you more and more, can't resist you
-Ooh then I feel your touch, tender love
+Oh then I feel your touch, tender love
 Loving me straight from the heart, hold me nearer
 Please let me be a part of the tender love you're giving to me
 
@@ -112,7 +112,7 @@ Tender love, love so tender
 Holding me close to you
 Baby, I surrender
 
-Ooh yeah, surrender baby
+Oh yeah, surrender baby
 
 
 

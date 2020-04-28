@@ -15,7 +15,7 @@ rankings:
 
 Ohh, how about a round of applause,
 Hey, standin' ovation,
-Ooh ohh yeah, yeah yeah yeah.
+Oh oh yeah, yeah yeah yeah.
 
 You look so dumb right now,
 Standin' outside my house,
@@ -32,7 +32,7 @@ Curtain's finally closin',
 That was quite a show (oh),
 Very entertainin',
 But it's over now (but it's over now),
-Go on and Take A Bow, ohh ohh.
+Go on and Take A Bow, oh oh.
 
 Grab your clothes and get gone (get gone),
 You better hurry up before the sprinklers come on (come on),
@@ -49,7 +49,7 @@ Curtain's finally closin',
 That was quite a show (oh),
 Very entertainin',
 But it's over now (but it's over now),
-Go on and take a bow, ohh.
+Go on and take a bow, oh.
 
 And the award for the best liar goes to you (goes to you),
 For makin' me believe that you could be faithful to me,

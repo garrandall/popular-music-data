@@ -37,14 +37,14 @@ If I could just die in your arms
 I wouldn't mind
 'Cause every time you touch me
 I just die in your arms
-Oooh, it feels so right
+Oh, it feels so right
 So baby, baby, please don't stop, girl
 
 Mhmm, uh-huh, yeah, yeah, alright
-Ooh, baby, I know loving you ain't easy
+Oh, baby, I know loving you ain't easy
 But sure is worth a try
 
-Ooh, if there is a reason to call me a fool
+Oh, if there is a reason to call me a fool
 'Cause I love too hard
 Are there any rules, baby?
 If this a lesson
@@ -61,7 +61,7 @@ If I could just die in your arms
 I wouldn't mind
 'Cause every time you touch me
 I just die in your arms
-Oooh, it feels so right
+Oh, it feels so right
 So, baby, baby, please don't stop, girl
 
 Basically I'm saying here
@@ -75,7 +75,7 @@ If I could just die in your arms
 I wouldn't mind
 'Cause every time you touch me
 I just die in your arms
-Oooh, it feels so right
+Oh, it feels so right
 So, baby, baby, please don't stop, girl
 
 If I could die in your arms
@@ -84,6 +84,6 @@ That I wouldn't mind, no
 Eh, eh, eh, oh
 Don't stop baby, no (Alright)
 It's what you do to me, yeah
-Whoa, whoa, no, no, no, whoa, ooo-wooah
+Whoa, whoa, no, no, no, whoa, oo-woah
 Baby, please don't go, girl
 No, no, no, no

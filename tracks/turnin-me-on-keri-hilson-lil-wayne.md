@@ -113,11 +113,11 @@ You turnin' me off
 Better recognize a real woman
 
 
-(Ahh, ahh, ahh, ahh)
+(Ah, ah, ah, ah)
 You ever try to get that close to me
 You better come correct how you 'proachin' me
 Dime divas, give it to me
-(Ahh, ahh, ahh, ahh)
+(Ah, ah, ah, ah)
 I gotta be feelin' your energy
 I gotta be for sure that you're into me
 Recognize a real woman
@@ -139,17 +139,17 @@ To get up in them draws, got money, don't try to buy me
 Bottles, got my own dollars I could buy up the bar if I want it
 
 
-(Ahh, ahh, ahh, ahh)
+(Ah, ah, ah, ah)
 You ever try to get that close to me
 You better come correct how you 'proachin' me
 Dime divas, give it to me
-(Ahh, ahh, ahh, ahh)
+(Ah, ah, ah, ah)
 I gotta be feelin' your energy
 I gotta be for sure that you're into me
 Recognize a real woman
 
 
-Ah, ah, ah, ohh, hah
+Ah, ah, ah, oh, hah
 I'm fly as hell, swagger right
 Brown skin poppin' like dynamite
 Raw like China white, mami I
@@ -185,11 +185,11 @@ Polow, I told you I got you
 Ms. Keri, baby (Ms. Keri Baby)
 
 
-(Ahh, ahh, ahh, ahh)
+(Ah, ah, ah, ah)
 You ever try to get that close to me
 You better come correct how you 'proachin' me
 Dime divas, give it to me
-(Ahh, ahh, ahh, ahh)
+(Ah, ah, ah, ah)
 I gotta be feelin' your energy
 I gotta be for sure that you're into me
 Recognize a real woman

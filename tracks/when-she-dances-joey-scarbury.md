@@ -66,8 +66,8 @@ When she dances
 
 
 
-Ooh, when she dances
-Ooh, when she dances
+Oh, when she dances
+Oh, when she dances
 
 
 

@@ -88,7 +88,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-07-17'
 ---
-(Chorus)
 
 Tap the bottle and twist the cap
 Tap the bottle and twist the cap

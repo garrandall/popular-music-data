@@ -100,7 +100,3 @@ She like, they got money but ya'll are more realer
 She wanna roll wit' us, pretty much to crit' us
 No beatin' around the bush, just beatin' it 'till you bit us
 
-
-
-
-

@@ -91,9 +91,6 @@ Living, living on video
 Living, living on video
 Stop!
 
-
-
-
 Living on video
 Video (video)
 Video

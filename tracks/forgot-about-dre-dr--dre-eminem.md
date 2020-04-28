@@ -153,9 +153,6 @@ Sıcaklık 80'lerde olduğu zamanlarda
 Beni kurtarmanın bir yolu yok
 Sorun değil onunla gidebilirsin Hailie (baba)
 
-
-
-
 Bana kalırsa, siz orospu çocukları bana geleni durdurmayı isterdiniz
 Ellerinizi kaldırıp bana taparcasına bakarken
 Bazı şeyleri ücretsiz istiyor gibisiniz

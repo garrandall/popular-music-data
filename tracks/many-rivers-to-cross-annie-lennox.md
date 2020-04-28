@@ -32,4 +32,4 @@ Won't you tell me now?
 Many rivers, many rivers
 Many rivers, many rivers, oh many rivers
 Yeah, yeah, yeah, yeah
-Oh, ooh, many rivers
+Oh, oh, many rivers

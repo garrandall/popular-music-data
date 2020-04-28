@@ -79,7 +79,7 @@ Your wonderful sweet, sweet love
 Sweet, sweet love now
 Your wonderful sweet, sweet love
 
-Ooh yeah!
+Ohyeah!
 
 Your wonderful sweet, sweet love
 

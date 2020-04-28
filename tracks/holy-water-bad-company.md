@@ -52,8 +52,8 @@ My one temptation, you know I can't believe you're mine
 
 
 
-Ooh yeah, it's funny how it see,s like yesterday, lovin' of the first degree
-One word was all I heard you say, ooh baby
+Ohyeah, it's funny how it see,s like yesterday, lovin' of the first degree
+One word was all I heard you say, ohbaby
 It's funny what you've done to me, just wanna see you run to me
 
 

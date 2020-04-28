@@ -81,7 +81,3 @@ But I never told you, I couldn't take it again
 But now I'm ready, I am ready to make you mine
 So I'm holdin steady, and we're gonna take our own sweet time
 
-
-
-
-

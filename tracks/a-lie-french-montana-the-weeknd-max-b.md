@@ -47,10 +47,10 @@ Yeah it's true, though (true, though)
 My heart cold but it really beat for you, though
 
 
-Ooh, he do it better, that's a lie (that's a lie, yeah)
+Oh, he do it better, that's a lie (that's a lie, yeah)
 He at my level, that's a lie (that's a lie, yeah)
 A hundred thousand for the times, yeah
-They fuckin' with us, that's a lie, ooh, yeah
+They fuckin' with us, that's a lie, oh yeah
 A lie, a lie, a lie, a lie (that's a lie)
 A lie, a lie, a lie, a lie (that's a lie)
 A lie, a lie, a lie, a lie (that's a lie)
@@ -79,10 +79,10 @@ Me and Max hit the block like Karl Malone, Stockton
 And if I ain't the new Chapo, that's a lie (that's a lie)
 And if he try and tell you we gon' stop, that's a lie
 
-Ooh, he do it better, that's a lie (that's a lie, yeah)
+Oh, he do it better, that's a lie (that's a lie, yeah)
 He at my level, that's a lie (that's a lie, yeah)
 A hundred thousand for the times, yeah
-They fuckin' with us, that's a lie, ooh, yeah
+They fuckin' with us, that's a lie, oh yeah
 A lie, a lie, a lie, a lie
 A lie, a lie, a lie, a lie
 All of my homies gonna shine (gonna shine)
@@ -109,10 +109,10 @@ Put me in a video, I can make a wave
 Baby girl, comin' home and you can't stay, out
 
 
-Ooh, he do it better, that's a lie (that's a lie, yeah)
+Oh, he do it better, that's a lie (that's a lie, yeah)
 He at my level, that's a lie (that's a lie, yeah)
 A hundred thousand for the times, yeah
-They fuckin' with us, that's a lie, ooh, yeah
+They fuckin' with us, that's a lie, oh yeah
 A lie, a lie, a lie, a lie (that's a lie)
 A lie, a lie, a lie, a lie (that's a lie)
 A lie, a lie, a lie, a lie (that's a lie)

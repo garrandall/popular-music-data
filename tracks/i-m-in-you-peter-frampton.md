@@ -107,16 +107,10 @@ We make love
 I can't feel any more
 Than I'm singing, yeah
 
-
-
-
 Come so far when you think
 Of last fall
 You can't buy what we made
 You and I, oh
-
-
-
 
 You gave me the love
 Love that I never had

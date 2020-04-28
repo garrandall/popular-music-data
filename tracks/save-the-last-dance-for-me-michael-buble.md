@@ -67,7 +67,7 @@ Or in whose arms you're gonna be
 So, darling, save the last dance for me
 
 Oh, baby, won't you save the last dance for me?
-Ooh, you make a promise that you'll save the last dance for me
+Oh you make a promise that you'll save the last dance for me
 Save the last dance, the very last dance for me.
 
 

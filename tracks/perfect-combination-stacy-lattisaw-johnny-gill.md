@@ -97,7 +97,7 @@ Perfect love
 (Hey, hey, hey, hey, hey)
 
 Perfect combination
-(Ooh, baby, hey)
+(Oh baby, hey)
 Lovers you and me
 (Oh, oh, oh)
 A perfect combination
@@ -124,7 +124,7 @@ No, no
 
 Baby, yeah
 (Yeah)
-Ooh...
+Oh..
 (You and me, yes, just you and me, yeah... )
 Baby
 

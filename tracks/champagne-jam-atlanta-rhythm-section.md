@@ -51,7 +51,7 @@ I can't help it, it's in my bones
 We'll be jammin' all night long
 
 Gonna play up a storm
-Ooh, yeah sure am
+Oh, yeah sure am
 
 We're gonna have us a champagne jam
 We're gonna have us a champagne jam
@@ -59,7 +59,7 @@ We're gonna have us a champagne jam
 Break out the guitars and let's play some blues
 Don't want no whiskey gimme some high class booze
 Pour us some champagne
-Ooh, thank you ma'am
+Oh, thank you ma'am
 
 We're gonna have us a champagne jam
 We're gonna have us a champagne jam

@@ -125,14 +125,14 @@ Ah well before it's too late
 You know you can't rush love, love
 
 Let's wait awhile
-(Ooh hoo hoo)
+(Ohhoo hoo)
 Before it's too late
 (Let's wait awhile)
 Wait awhile
 (Our love will be great)
 Let's wait awhile
-(Wait awhile, ooh)
-Before we go too far, oh, oh, ooh
+(Wait awhile, oh
+Before we go too far, oh, oh, oh
 
 Let's wait awhile
 (Let's just take our time)
@@ -144,7 +144,7 @@ We shouldn't rush in
 (Let's wait awhile)
 Slow it down
 (Before we go too far)
-Ooh
+Oh
 
 La da lee de da da de de de, da da da da la da
 La da lee de da da de de de, da da da da la da da

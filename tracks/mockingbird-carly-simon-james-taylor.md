@@ -80,7 +80,7 @@ And if that mockingbird don't sing
 He's gonna buy me a diamond ring
 And if that diamond ring won't shine
 He's gonna surely break this heart of mine
-And that's why I keep on tellin' everybody.....
+And that's why I keep on tellin' everybody...
 
 Hear me now and understand
 He's gonna find me some piece of mind
@@ -88,7 +88,7 @@ And if that piece of mind won't stay
 I'm gonna find myself a better way
 And if that better way ain't so
 I'll ride with the tide and go with the flow
-And that's why I keep on shoutin' in your ear.....
+And that's why I keep on shoutin' in your ear...
 
 Everybody have you heard
 She's gonna buy me a mockingbird

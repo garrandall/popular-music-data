@@ -54,7 +54,3 @@ Like the light
 You're shelter from the storm
 Give me comfort in your arms
 
-
-
-
-

@@ -94,9 +94,6 @@ Recorded at this level with the exception of
 The last tone, which is a reference tone at
 Operating level
 
-
-
-
 I used to travel in the shadows
 And I never found the nerve to try to walk up to you
 But now I am a man and I know that there's no time to waste

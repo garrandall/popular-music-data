@@ -29,7 +29,7 @@ Because this is one evil child
 When I buy her flowers or candy she just looks at me and growls,
 She say, "You must be guilty or have a guilty conscience buddy",
 Because I'm convicted without a trial
-She just grunts when I call baby, hmm one evil child
+She just grunts when I call baby, hm one evil child
 I said, "Lord, maybe you can help me, because she's a strange and evil child"
 
 Still, I'm tryin' to please my woman but she 'bout to drive me wild

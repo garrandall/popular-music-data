@@ -105,9 +105,6 @@ You don't have to shop around
 I don't think you really know
 What you already got
 
-
-
-
 Sure looks good, baby
 
 Flash that smile

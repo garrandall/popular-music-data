@@ -82,81 +82,81 @@ rankings:
 ---
 
 Pictures of you
-Ohh they're still on my mind 
-You had this smile 
-That could light up the world 
+Ohh they're still on my mind
+You had this smile
+That could light up the world
 Now when it rains it seems
-The sun never shines 
+The sun never shines
 
 And I drive
 Down this lonely, lonely road
-Oooh I got this feelin'
+Oh I got this feelin'
 Girl I gotta let you go
 
 Cause now you've got to fly high (fly high)
 Fly to the angels
-Heaven awaits your heart 
-And flowers bloom in your name 
-Woahh ohh 
-You've got to fly (fly high), 
-Fly to the angels 
+Heaven awaits your heart
+And flowers bloom in your name
+Woah oh
+You've got to fly (fly high),
+Fly to the angels
 All the stars in the night
 Shine in your name
 
 Though it hurts me way deep inside
-When I turn and look and find 
+When I turn and look and find
 That you're not there
-I try to convince myself 
-But the pain, 
-The pain is still not gone 
+I try to convince myself
+But the pain,
+The pain is still not gone
 
 Still I drive
 Down this lonely, lonely road
-Oooh I got this feelin, 
-Girl I've got to let you go 
+Oh I got this feelin,
+Girl I've got to let you go
 
 But now you've got to fly (fly high)
-Fly to the angels 
-Heaven awaits your heart 
-And flowers bloom in your name 
+Fly to the angels
+Heaven awaits your heart
+And flowers bloom in your name
 
-Whoa 
-You've got to fly (fly high) 
-Fly to the angels 
-All the stars in the night 
+Whoa
+You've got to fly (fly high)
+Fly to the angels
+All the stars in the night
 Shine in your name
 
 Flyyy
 
-And still I drive down 
-This lonely, lonely road 
-Oooh I got this feelin 
-Oh, I can't let you go 
+And still I drive down
+This lonely, lonely road
+Oh I got this feelin
+Oh, I can't let you go
 
-But I know 
-That you've got to fly (fly high) 
+But I know
+That you've got to fly (fly high)
 Fly to the angels
-Heaven awaits your heart 
-And flowers bloom in your name 
-Whoa oh ohh oh 
-You've got fly (fly high) 
-Fly to the angels 
-All the stars in the sky 
-Shine in your name,yeah 
+Heaven awaits your heart
+And flowers bloom in your name
+Whoa oh oh oh
+You've got fly (fly high)
+Fly to the angels
+All the stars in the sky
+Shine in your name,yeah
 
 Ow
 
-oooh oooh oooh oooh oooh oooh
+ohhohooh ohohoh
 
-baby, oh 
+baby, oh
 
-oooh ooooh oooh oooh oooh oooh
+ohhohhohoohohoh
 
-oohh yea
+oh yea
 
-oooh oooh oooh oooh oooh oooh 
+ohhohooh ohohoh
 
-I'm gonna miss you 
+I'm gonna miss you
 miss you girl
 
 

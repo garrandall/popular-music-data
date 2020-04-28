@@ -118,15 +118,11 @@ She looked right at me and said
 What's it gonna be
 Are you gonna let me to party alone?
 
-
-
-
-
 Come on come on
 Get your good time on
-Let's have a little fun tonight 
+Let's have a little fun tonight
 
-Let's have a little fun tonight 
+Let's have a little fun tonight
 
 
 

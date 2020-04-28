@@ -26,7 +26,7 @@ rankings:
 ---
 The many roads I've covered
 The many trails I've burned
-But when our paths did cross, love, oooh
+But when our paths did cross, love, oh
 My whole world made a turn
 
 And we've got time to kill

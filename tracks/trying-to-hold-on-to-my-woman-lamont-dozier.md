@@ -94,7 +94,7 @@ And that's why I have no desire
 To paint the town with the boys
 I stay home
 I just tryin', tryin ta hold on, hold on
-To my..., aah
+To my..., ah
 My woman, my life
 
 I feel like I want to testify

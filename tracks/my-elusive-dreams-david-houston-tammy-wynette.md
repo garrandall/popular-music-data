@@ -55,6 +55,6 @@ I know you're tired of followin'
 My elusive dreams and schemes
 For they're only fleeting things
 My elusive dreams
-(Ahh-ahh-ahh-ahh)
+(Ah-ah-ah-ah)
 For they're only fleeting things
 My elusive dreams

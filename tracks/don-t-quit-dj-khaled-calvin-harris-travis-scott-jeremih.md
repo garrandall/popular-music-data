@@ -24,7 +24,7 @@ DJ Khaled!
 
 
 You know I like 'em special made for me (Yeah)
-I call 'em and they demonstrate for me (Ooh, yeah)
+I call 'em and they demonstrate for me (Oh, yeah)
 Spent 200k up on that body, yeah
 'Cause my lil' baby ain't for everybody, yeah
 That's why I hit her with that upgrade (Upgrade)
@@ -56,8 +56,8 @@ Cuban link, girl that's a new connection (Cuban link)
 It's me and you 'cause we in the selection (Select)
 Throw it back like it's your new profession (New profession)
 Yuh, like you get paid for it
-Good brain like you get grades for it (Ooh)
-Woodgrain, you got a taste for it (Ooh)
+Good brain like you get grades for it (Oh)
+Woodgrain, you got a taste for it (Oh)
 Leather soft, your body made for it (Yah!)
 
 

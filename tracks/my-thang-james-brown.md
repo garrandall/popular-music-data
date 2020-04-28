@@ -106,7 +106,7 @@ Give me, give me my thing
 Taking off my shirt
 About to work me to death
 Give, give me my thing
-Gimme, ooh, ooh, ooh
+Gimme, oh, oh, oh
 
 
 Baby, baby

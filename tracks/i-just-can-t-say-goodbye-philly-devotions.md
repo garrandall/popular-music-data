@@ -16,15 +16,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-02-15'
 ---
-Juste the other day when i help you oh so tight
+Juste the other day when I help you oh so tight
 We didn't car if what we had was wrong or right
-But now i am alone cause you left me for his smile
+But now I am alone cause you left me for his smile
 But getting over you girl
 No is really gonna take à white
 JUST CAN'T SAY GOODBYE GIRL
-And you know i love you
+And you know I love you
 OH I JUST CAN'T SAY GOODBYE GIRL
-No,you know i need you baby
+No,you know I need you baby
 OH I JUST CAN'T SAY GOODBYE GIRL
 To you
 I felt things would be ok ay after a white
@@ -46,9 +46,9 @@ I JUST CAN'T SAY GOODBYE GIRL
 I JUST CAN'T SAY GOODBYE GIRL
 To you To my
 I JUST CAN'T SAY GOODBYE GIRL
-Oh i just can't say goodbye girl
-Oh i just can't say goodbye girl
-To you ooh
+Oh I just can't say goodbye girl
+Oh I just can't say goodbye girl
+To you oh
 I JUST CAN'T SAY GOODBYE GIRL
-Oh i just can't say goodbye girl
-Oh i just can't say goodbye. Blf m
+Oh I just can't say goodbye girl
+Oh I just can't say goodbye. Blf m

@@ -125,12 +125,12 @@ Please don't share
 Do you love me, please let me know (I can tell you)
 Don't hide the feeling, just let it show (I can tell you)
 A feeling so deep that comes within (I can tell you)
-What kind of love am I in, ooh...
+What kind of love am I in, oh...
 
 
 I can tell you how I feel (Uh, ho) about you night and day
 How I feel about you (No, no, no)
-I can tell you how I feel (Ooh) about you night and day
+I can tell you how I feel (Oh) about you night and day
 How I feel about you (Ho, oh...)
 
 
@@ -140,7 +140,7 @@ Just take my hand and you'll see, girl
 That we'd take off into another world
 
 
-I can tell you how I feel about you (Ooh) night and day (Uh-huh)
+I can tell you how I feel about you (Oh) night and day (Uh-huh)
 (Uh-huh, uh-huh, uh)
 I can tell you how I feel (Woo) about you night and day
 (Making love in the rain is fine)

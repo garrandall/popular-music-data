@@ -55,7 +55,3 @@ And we're not blind
 This is your life
 This is your time
 
-
-
-
-

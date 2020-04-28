@@ -122,9 +122,6 @@ Day or night I'm always there
 And I won't go away until you tell me so
 No, I'll never go away
 
-
-
-
 Yes, I know
 What I feel
 To be right

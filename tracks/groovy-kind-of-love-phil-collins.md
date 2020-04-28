@@ -117,7 +117,7 @@ Wouldn't you agree, baby you and me got a groovy kind of love
 
 Anytime you want to you can turn me onto
 Anything you want to, anytime at all
-When I kiss your lips, ooh I start to shiver
+When I kiss your lips, ohI start to shiver
 Can't control the quivering inside
 Wouldn't you agree, baby you and me got a groovy kind of love, oh
 

@@ -69,7 +69,7 @@ Talk to me girl, give it to me
 Got you stuck
 On my elevator
 Get it up
-On my uh-ohh, uh-ohh, oh-ohh
+On my uh-oh, uh-oh, oh-oh
 
 
 Heyyyy!
@@ -134,7 +134,7 @@ One night, one time broke her off ten grand
 Project all the way, gutter all day
 Pure uncut, stain wall with a J
 Shorty don't fake, she'll put it in your face
-Three stories by them hoodrat's 
+Three stories by them hoodrat's
 
 
 Got you stuck (yeah) on my elevator (uh-huh)

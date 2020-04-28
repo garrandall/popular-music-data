@@ -105,10 +105,10 @@ Then I open up and see
 The person falling here is me
 A different way to be
 
-Aaah, la-a-la-aaah
+Ah, la-a-la-ah
 La la laaaa
-La-a-la-aah
-La-ah ah aaah
+La-a-la-ah
+La-ah ah ah
 
 I want more
 Impossible to ignore

@@ -27,9 +27,9 @@ SCROOGE: Well, if they're not here for the Christmas pitch, I can't help them fi
 CHORUS: Hear, hear!
 SCROOGE: All right, Abercrombie, what are your people up to?
 
-ABERCROMBIE: Ahhh, same thing as every year. Fifty thousand billboards showing Santa Claus pausing to refresh himself with our product
+ABERCROMBIE: Ah, same thing as every year. Fifty thousand billboards showing Santa Claus pausing to refresh himself with our product
 
-SCROOGE: Mmmmm, hmmm, well, I think the public has come to expect that and...
+SCROOGE: Mmm, hm, well, I think the public has come to expect that and...
 
 ABERCROMBIE: That's right. It's become tradition!
 
@@ -37,7 +37,7 @@ SCROOGE: You there, Crass, uhh, I suppose your company's running the usual magaz
 
 CRASS: Better than that! This year we have him smoking one
 
-SCROOGE: Um-hmmm...
+SCROOGE: Um-hm...
 
 CRASS: Yes. We've got Santa a little more rugged, too. Both sleeves rolled up and a tattoo on each arm. One of 'em says "Merry Christmas."
 

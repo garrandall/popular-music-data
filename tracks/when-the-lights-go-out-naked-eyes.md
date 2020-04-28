@@ -69,7 +69,7 @@ She likes to stay in bed at night
 It seems that everything is all too much
 But she just lays in bed at night
 
-The day's all right but then....
+The day's all right but then...
 
 When the lights go out
 She calls your name
@@ -83,7 +83,7 @@ She never wants to compromise
 What you thought you'd never have gets up
 And disappears before your eyes
 
-The day's all right but then....
+The day's all right but then...
 
 When the lights go out
 She calls your name

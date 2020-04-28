@@ -121,12 +121,12 @@ rankings:
   start_date: '2009-03-14'
 ---
 
-Ooh there's something about
+Ohthere's something about
 Just something about the way she move
 And I can't figure it out
 There's something about her.
 
-Said ooh it's something about
+Said ohit's something about
 The kind of woman that want you but don't need you
 Hey I can't figure it out
 There's something about her
@@ -147,10 +147,10 @@ Won't you come and spend a little time
 She got her own thing
 That's why I love her
 Miss Independent
-Ooh the way you shine
+Ohthe way you shine
 Miss Independent
 
-Ooh there's something about
+Ohthere's something about
 The kind of woman that can do for herself
 I look at her and it makes me proud
 There's something about her
@@ -176,7 +176,7 @@ Won't you come and spend a little time
 She got her own thing
 That's why I love her
 Miss Independent
-Ooh the way you shine
+Ohthe way you shine
 Miss Independent
 
 Her favorite thing to say: "Don't worry. I got it."
@@ -192,7 +192,7 @@ Won't you come and spend a little time
 She got her own thing
 That's why I love her
 Miss Independent
-Ooh the way you shine
+Ohthe way you shine
 Miss Independent
 
 Miss Independent

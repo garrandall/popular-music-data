@@ -184,7 +184,7 @@ It's not gonna work for you, nobody can equal me (I know)
 I'm gonna sip on this drink, when I'm fucked up
 I should know how to pick up
 I'm gonna catch the rhythm while she push up against me
-Ooh, was she tipsy
+Oh, was she tipsy
 I had enough convo for 24
 I peeped you from across the room
 Pretty little body, dancing like GoGo, aye
@@ -221,11 +221,11 @@ Now you wanna choose
 Just pop the bubbly in the 'cuzi
 
 
-It's not good enough for me, since I been with you, ooh
+It's not good enough for me, since I been with you, oh
 I'm gonna sip on this drink, when I'm fucked up
 I should know how to pick up
 I'm gonna catch the rhythm while she push up against me
-Ooh, was she tipsy
+Oh, was she tipsy
 I had enough convo for 24
 I peeped you from across the room
 Pretty little body, dancing like GoGo

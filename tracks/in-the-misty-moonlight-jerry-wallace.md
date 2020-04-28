@@ -55,7 +55,7 @@ rankings:
 In the misty moonlight
 By the flickering firelight
 Any place is all right
-Long as I'm with you (as long as I'm with you-ooh)
+Long as I'm with you (as long as I'm with you-oh)
 
 In a far-away land
 On the tropic sea sand

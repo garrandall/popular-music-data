@@ -40,5 +40,5 @@ Yeah, yeah Popeye baby
 Yeah, yeah, Popeye, baby
 I said, you're lookin' good
 You and Joe there
-Ahh, you put your hands on your hips
+Ah, you put your hands on your hips
 You go around a little bit

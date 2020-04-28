@@ -157,5 +157,5 @@ The cold never bothered me anyway
 (Na na, na na) Let it go
 (Na na na na na) Let it go
 (Na na) Let it go
-(Na na) Ooh
+(Na na) Oh
 (Na na na na na) Let it go

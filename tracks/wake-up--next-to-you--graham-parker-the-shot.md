@@ -61,15 +61,15 @@ I can't have no objection to the world outside
 I don't have no complaints against life's one way ride
 I know I'm sleeping with an angel and this devil's in luck
 
-Oooooooh wake up, wake up, wake up, wake up
+Oh wake up, wake up, wake up, wake up
 
 I've been dreamin for too long
 I guess something's always wrong unless I
 Wake up, next to you, I wanna
 Wake up, next to you you
-Oooh ooh ooh ooh ooh ooh ooh oooh
+Oh oh oh oh oh oh oh ohoh
 
-Oooh ooh, ooh ooh, ooh ooh, ooh ooh, yeah
+Oh oh, oh oh, oh oh, oh oh, yeah
 
 The Summer's left a spell on us, magic and gold
 The tarmac's cracked and shimmering, up on the road
@@ -79,7 +79,7 @@ I've been dreamin for too long
 I guess something's always wrong unless I
 
 Wake up, next to you, I'm gonna wake up
-Wake up, next to you ooooooo (Sax solo)
+Wake up, next to you oo (Sax solo)
 
 (Spoken)
 You know what I'm gonna do, I'm gonna pick up the telephone
@@ -89,5 +89,5 @@ And I wanna hear her say: "Hey baby, Wake up!"
 
 Wake up, next to you, I'm gonna wake up
 Wake up, next to you you
-Oooh ooh ooh ooh ooh ooh ooh oooh
-Oooh ooh, ooh ooh, ooh ooh, ooh ooh, yeah
+Oh oh oh oh oh oh oh ohoh
+Oh oh, oh oh, oh oh, oh oh, yeah

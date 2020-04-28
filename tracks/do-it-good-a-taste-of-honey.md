@@ -39,7 +39,7 @@ Do it, do it good
 Get up and do it
 Do it, do it good (Yeah)
 
-Hmm...hmm...hmm...
+Hm...hm...hm...
 Clap your hands, stomp your feet
 Move your body to the disco beat
 
@@ -68,7 +68,7 @@ Do it, do it good
 Do it
 Do it, do it good
 
-Hmm...hmm...hmm...
+Hm...hm...hm...
 Oh
 Oh, clap your hands, stomp your feet
 Move your body to the freaky beat
@@ -100,7 +100,7 @@ Move your body to the disco beat
 
 Shake it on down (Woo)
 Get up, you can do it
-Shake it on down (Mmm...hmm...hmm...)
+Shake it on down (Mmm...hm...hm...)
 Get up
 
 Clap your hands, stomp your feet
@@ -108,7 +108,7 @@ Move your body to the disco beat
 Go on now
 
 Shake it on down
-Get up, you can do it (Mmm...hmm...)
+Get up, you can do it (Mmm...hm...)
 Shake it on down
 Get up
 

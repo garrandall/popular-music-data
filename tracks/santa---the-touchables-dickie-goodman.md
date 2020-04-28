@@ -31,7 +31,7 @@ Mission Control: "T-minus... three... two... one... zero."
 Chipmunks "Chipmunk Song" - "OK Alvin'... Alvin'... ALVIN! OK!
 Dickie: "Successfully landing on the moon
 Rudolph and ’The Touchables’ are surrounded by the Moon Men."
-Dion & The Belmonts "Runaround Sue" - "Hey, hey ooohhhh hey..."
+Dion & The Belmonts "Runaround Sue" - "Hey, hey oh hey..."
 Dickie: "The leader of the Moon Men approaches Elliot Press and says":
 Marcels "Heartaches" - "Yip yip yip yip
 Werp-a-werp werp mumm a mumm mumm bohp-a bohp"

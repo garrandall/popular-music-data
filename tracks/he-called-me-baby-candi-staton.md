@@ -78,7 +78,7 @@ What I'd give, what I'd give
 If he'd come on back home
 And call me baby, baby, baby
 All night long, oh, yeah
-Mmm hmm, yeah
+Mmm hm, yeah
 
 He called me baby, baby
 All night long

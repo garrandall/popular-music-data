@@ -72,7 +72,7 @@ The glamour boys are always at the party
 Where the money comes from heaven only knows
 
 I ain't no glamour boy - I'm fierce
-I ain't no glamour boy - ooh
+I ain't no glamour boy - oh
 I ain't no glamour boy - I'm fierce
 I ain't no glamour boy
 
@@ -87,7 +87,7 @@ But if one does, there's no need to worry
 Another G-Boy will take his place
 
 I ain't no glamour boy - I'm fierce
-I ain't no glamour boy - ooh
+I ain't no glamour boy - oh
 I ain't no glamour boy - I'm fierce
 I ain't no glamour boy
 
@@ -102,12 +102,12 @@ They'll be your friend if you have fame or fortune
 If you don't they won't be hanging 'round.
 
 I ain't no glamour boy - I'm fierce
-I ain't no glamour boy - ooh
+I ain't no glamour boy - oh
 I ain't no glamour boy - I'm fierce
 I ain't no glamour boy
 
 I ain't no glamour boy - I'm fierce
-I ain't no glamour boy - ooh
+I ain't no glamour boy - oh
 I ain't no glamour boy - I'm fierce
 I ain't no glamour boy - no no!
 

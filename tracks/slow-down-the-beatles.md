@@ -59,11 +59,11 @@ Baby, now you're moving way too fast
 You gotta gimme little lovin', gimme little loving
 Brrr! If you want our love to last
 
-Ooh!
+Oh
 
 
 
-Ooh!
+Oh
 
 Welllll -  you know that I love you, tell the world I do
 Come on, pretty baby, why can't you be true?

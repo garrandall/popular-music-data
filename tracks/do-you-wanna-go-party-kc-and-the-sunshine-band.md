@@ -49,10 +49,10 @@ rankings:
   start_date: '1979-07-21'
 ---
 
-Ooh, ah, party
-Ooh, ah, party
-Ooh, ah, party
-Ooh, ah, party
+Oh, ah, party
+Oh, ah, party
+Oh, ah, party
+Oh, ah, party
 Do you wanna go party
 We'll get funky there, party
 Drink a little wine, party
@@ -62,28 +62,28 @@ Let's go out tonight
 We'll go party
 we'll go dancin'
 Let's go get satisfied
-Ooh, ah, party
-Ooh, ah, party
-Ooh, ah, party
-Ooh, ah, party
+Oh, ah, party
+Oh, ah, party
+Oh, ah, party
+Oh, ah, party
 Como on baby, sexy lady
 Let yourself unwind
 I wanna love you
 Kiss and hug you
 Make it last all night
-Ooh, ah, party
-Ooh, ah, party
+Oh, ah, party
+Oh, ah, party
 
-Ooh, ah, party
-Ooh, ah, party
+Oh, ah, party
+Oh, ah, party
 Do you wanna go party
 We'll get funky there, party
 Drink a little wine, party
 Have a funky time, party
-Ooh, ah
-Ooh, ah
-Ooh, ah
-Ooh, ah
+Oh, ah
+Oh, ah
+Oh, ah
+Oh, ah
 
 Do you wanna go party
 

@@ -137,11 +137,6 @@ Graining on that wood, graining, graining on that wood
 I'm swerving on that, swerving, swerving on that big body
 Been serving all this, swerve, surfing all in this good, good
 
-
-
-
-
-
 (I'm nice right now)
 Hold up
 That D'USSÃ is the shit if I do say so myself
@@ -173,8 +168,4 @@ I've been drinking watermelon
 I want your body right here, daddy I want you, right now
 Can't keep your eyes off my fatty
 Daddy I want you
-
-
-
-
 

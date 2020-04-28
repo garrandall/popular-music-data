@@ -99,18 +99,18 @@ Whatever it is I do, I'm only thinking of you
 I hope you look at me through patient eyes
 
 I've become amused
-I've become blind 
+I've become blind
 I've become what I know not breathes
 You seem illiterate to all my emotions
 I stand corrected, how well you read
 You speak the truth, you speak the me
-You feel the love I have yet to find 
-I know it's there, I know it's there 
+You feel the love I have yet to find
+I know it's there, I know it's there
 But I let the sandcastles kill my mind
 Pathetic me, I long to be you
-I think I'm close but i stand so far
+I think I'm close but I stand so far
 The turbulent one sheds a turbulent tear
-I miss the love only 'cause they starve' 
+I miss the love only 'cause they starve'
 Oil and water, lust and sympathy
 I life and death my way through the sun
 Where originates all the pain that leaves

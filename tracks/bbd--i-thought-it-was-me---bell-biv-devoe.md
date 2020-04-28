@@ -95,7 +95,7 @@ She and I choose to cruise in my love boat
 My waterbed, kept us afloat
 I had to prove my manhood
 Show her that the B-I-V was DAMN good, understood?
-I never had my boat rocked like that before, YO!!
+I never had my boat rocked like that before, YO!
 
 
 The way we left the spot, all systems ready to go
@@ -103,13 +103,13 @@ She said, "Sit back and relax, I'm runnin' the show"
 I couldn't hesitate, it was much too late
 That girl had got me straight, and I was ready to go, yeah!
 
-B!!! (yeah..)
-B!!! (yeah..)
-D!!! (yeah...)
+B! (yeah..)
+B! (yeah..)
+D! (yeah...)
 B.B.D
-B!!! (yeah..)
-B!!! (yeah..)
-D!!! (yeah...)
+B! (yeah..)
+B! (yeah..)
+D! (yeah...)
 B.B.D
 
 

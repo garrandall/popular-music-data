@@ -104,7 +104,7 @@ How could someone so right come into my life, and now I just want you to know
 
 And I would go anywhere, I would do anything, I do what you want me to
 You know that I would, I want you to know this, whenever you need me
-Ooh wherever you are, no matter how far, you know I'll be coming for you
+Oh wherever you are, no matter how far, you know I'll be coming for you
 
 
 

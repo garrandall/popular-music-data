@@ -44,7 +44,7 @@ They looking like a mount (Everest!)
 All the little kids run around
 I can hear their stomachs growl (grrr!)
 It's a full moon out
-And my girl just keep on howlin' (ooh, ooh)
+And my girl just keep on howlin' (oh, oh)
 She said she gonna leave me
 If I don't come home with fifty thousand (fifty thousand?)
 

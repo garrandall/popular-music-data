@@ -3,9 +3,9 @@ artists:
 - C+C Music Factory
 features: []
 genres: []
-key: things-that-make-you-go-hmmmm-c-c-music-factory
-lyrics_url: https://genius.com/C-c-music-factory-things-that-make-you-go-hmmmm-lyrics
-name: Things That Make You Go Hmmmm
+key: things-that-make-you-go-hm-c-c-music-factory
+lyrics_url: https://genius.com/C-c-music-factory-things-that-make-you-go-hm-lyrics
+name: Things That Make You Go Hm
 rankings:
 - end_date: '1991-07-26'
   rank: 49
@@ -72,7 +72,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-11-02'
 ---
-Things that make you go, hmm
+Things that make you go, hm
 
 
 I was at the crib, sittin' by the fireplace
@@ -93,10 +93,10 @@ My girl bust in, caught us creatin' a boom
 She said, "Girlfriend?!"
 
 
-Things that make you go, hmm
-Things that make you go, hmm
-Things that make you go, hmm, hey
-Things that make you go, hmm, hmm, hmm
+Things that make you go, hm
+Things that make you go, hm
+Things that make you go, hm, hey
+Things that make you go, hm, hm, hm
 It's the things that make you go, oh, oh, oh
 
 
@@ -117,12 +117,12 @@ It looked like Jay and I couldn't believe
 Before my eyes in the delivery room
 
 
-The things that make you go, hmm
-Things that make you go, hmm
-The things that make you go, hmm, hmm, hmm, hmm
-The things that make you go, hmm
-Things that make you go, hmm
-It's the things that make you go, hmm, hmm, hmm
+The things that make you go, hm
+Things that make you go, hm
+The things that make you go, hm, hm, hm, hm
+The things that make you go, hm
+Things that make you go, hm
+It's the things that make you go, hm, hm, hm
 Robbie Rob, break it down
 
 
@@ -155,12 +155,12 @@ The look on her face read sorrow and gloom
 She said, "Yeah, why do you guys always ask that?"
 
 
-Things that make you go, hmm
-Things that make you go, hmm
-It's the things that make you go, hmm, hmm, hmm
-The things that make you go, hmm
-Things that make you go, hmm
-It's the things that make you go, hmm, hmm, hmm
+Things that make you go, hm
+Things that make you go, hm
+It's the things that make you go, hm, hm, hm
+The things that make you go, hm
+Things that make you go, hm
+It's the things that make you go, hm, hm, hm
 
 
 Hey ladies, have you ever had a man
@@ -180,19 +180,19 @@ Out with the guys and I'm gettin' jealous
 Comin' home late smellin' like perfume, fume
 
 
-Things that make you go, hmm
-Things that make you go, hmm
+Things that make you go, hm
+Things that make you go, hm
 It's the things that make you go, oh, oh, yeah
-The things that make you go, hmm
-Things that make you go, hmm
-It's the things that make you go, hmm, hmm, hmm
+The things that make you go, hm
+Things that make you go, hm
+It's the things that make you go, hm, hm, hm
 
 
-Things that make you go, hmm
-Hmm
-It's the things that make you go, hmm, hmm, hmm
-Things that make you go, hmm
-Hmm
-It's the things that make you go, hmm, hmm, hmm
-Things that make you go, hmm
-It's the things that make you go, hmm, hmm, hmm...
+Things that make you go, hm
+Hm
+It's the things that make you go, hm, hm, hm
+Things that make you go, hm
+Hm
+It's the things that make you go, hm, hm, hm
+Things that make you go, hm
+It's the things that make you go, hm, hm, hm...

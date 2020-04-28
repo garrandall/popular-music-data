@@ -88,7 +88,7 @@ Well, I love the way you move me
 When you walk
 I love the way you thrill me
 When you talk
-And, ooh baby, when you hold my hand
+And, oh baby, when you hold my hand
 Tell me, pretty baby, that you understand
 
 When we walk down the street
@@ -113,7 +113,7 @@ Well, I love the way you move me
 When you walk
 I love the way you thrill me
 When you talk
-And, ooh baby, when you hold my hand
+And, oh baby, when you hold my hand
 Tell me, pretty baby, that you understand
 
 When we walk down the street

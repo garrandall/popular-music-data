@@ -37,12 +37,12 @@ Y'all small tuna fish, I'm one big catch
 Y'all small tuna fish, I'm one big catch, whoo
 
 
-Ooh, do, do, do, do, do, do, do
+Oh do, do, do, do, do, do, do
 Car wash, car wash (yeah, uh)
-Ooh, do, do, do, do, do, do, do
+Oh do, do, do, do, do, do, do
 Car wash, car wash (uh, yeah, let's drop it on 'em like this)
-Ooooh, do, do, do, do, do, do, na, na, na, ah, ooh
-Ooooh, do, do, do, do, do, do, na, na, na, ah, ooh
+Oh, do, do, do, do, do, do, na, na, na, ah, oh
+Oh, do, do, do, do, do, do, na, na, na, ah, oh
 
 
 You might not ever get rich, ha (come on)
@@ -52,9 +52,9 @@ A movie star or maybe a common thief (yeah)
 
 
 Working at the car wash, oh, oh, yeah, yeah
-At the car wash, yeah, ooh, yeah, yeah
+At the car wash, yeah, oh yeah, yeah
 At the car wash, sing it with me now
-Working at the car wash yeah, whoo, ooh
+Working at the car wash yeah, whoo, oh
 
 
 Come summer the work gets kind of hard (come on)
@@ -64,7 +64,7 @@ And the boss don't mind sometimes if you're acting like a fool
 
 
 Working at the car wash, oh, oh, yeah, yeah
-At the car wash, yeah, ooh, ooh, ooh
+At the car wash, yeah, oh oohohoh
 At the car wash, ow, said, now come on and work it with me now
 Working at the car wash yeah, said, said, said, sing
 Said, said, said, sing
@@ -96,15 +96,15 @@ Work and work, washing cars ain't no place to be a superstar man
 Work and work, that's why I work, and work
 
 
-Working at the car wash, ohh, yeah
+Working at the car wash, oh, yeah
 At the car wash, yeah, come on work, baby work it, say now
-At the car wash, ahhhh
+At the car wash, ah
 Working at the car wash, yeah
 So come on, come on, come on, come on, come on
 
 
-Ooooh, do, do, do, do, do, do, na, na, na, ah, ooh, uh, now keep it coming
-Ooooh, do, do, do, do, do, do, na, na, na, ah, ooh, you may not ever get rich, but ah
+Oh, do, do, do, do, do, do, na, na, na, ah, oh uh, now keep it coming
+Oh, do, do, do, do, do, do, na, na, na, ah, oh you may not ever get rich, but ah
 
 
 Hey, get your car washed today, hey

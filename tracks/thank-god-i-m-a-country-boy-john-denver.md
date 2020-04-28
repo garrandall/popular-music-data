@@ -132,9 +132,6 @@ When the sun's coming up, I got cakes on the griddle
 And life ain't nothing but a funny, funny riddle
 Thank God I'm a country boy
 
-
-
-
 Well, my fiddle was my daddy's till the day he died
 And he took me by the hand, held me close to his side
 Said, "Live a good life, play my fiddle with pride

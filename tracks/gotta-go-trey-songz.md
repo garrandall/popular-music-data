@@ -96,7 +96,7 @@ But since this thang is calling I gotta answer dry your eyes
 Girl don't cry 'cause you're making it hard for me
 
 
-'Cause I don't want to leave, ooh girl but I gotta go right now
+'Cause I don't want to leave, oh girl but I gotta go right now
 I'll be back to hold you down
 I don't want to leave no but girl I gotta go right now
 And I'll be back before you know it
@@ -108,7 +108,7 @@ Don't you change your position, girl I'm on a mission
 And baby trust I'll be missing, missing you 'cause I don't wanna leave
 
 
-'Cause I don't want to leave, ooh girl but I gotta go right now
+'Cause I don't want to leave, oh girl but I gotta go right now
 I'll be back to hold you down
 I don't want to leave no but girl I gotta go right now
 And I'll be back before you know it

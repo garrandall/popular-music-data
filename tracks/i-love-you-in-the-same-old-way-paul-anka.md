@@ -59,7 +59,7 @@ That was long ago I'd like to say
 I love you in the same old way, aha ha
 I love you in the same old way
 
-Hmm, I remember when we used to babysit your brother
+Hm, I remember when we used to babysit your brother
 And who was watching us? Your father and mother
 That was long ago and I'd like to say
 I love you in the same old way, aha ha
@@ -77,7 +77,7 @@ I love you in the same old way, aha
 I love you in the same old way
 Ho!
 
-Hmm, heaven I'm in heaven again
+Hm, heaven I'm in heaven again
 And I still remember where and when
 I still love you, you know you love me
 And that's the way its gonna be

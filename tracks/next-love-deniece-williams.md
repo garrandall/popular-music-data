@@ -25,8 +25,8 @@ rankings:
   start_date: '1984-09-01'
 ---
 
-Ooh-ooh-ooh...
-Ooh-ooh-ooh-ooh-ooh, yeah
+Ohohooh.
+Ohohoohhoh,ohah
 
 You're just the next love in line
 Causin' the commotion this time
@@ -61,7 +61,7 @@ Causin' the commotion this time
 He'll make you, he'll make you
 He'll make you fall in love, whoa-whoa, girl
 He'll break your, he'll break your
-He'll break your, break your heart, ooh-ooh...
+He'll break your, break your heart, ohooh.
 
 La, la, la, la, la, la, la
 La, la, la, la, la, la, la

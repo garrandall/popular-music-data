@@ -25,7 +25,7 @@ rankings:
   start_date: '1964-04-04'
 ---
 A rose must remain with the sun and the rain
-Or it's lovely promise wont come true
+Or it's lovely promise won't come true
 To each his own, to each his own
 And my own is you
 

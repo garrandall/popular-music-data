@@ -66,7 +66,7 @@ rankings:
 ---
 Now I done felt a lot of pain
 I done seen a lot of things
-From struggling and broken hearts to fancy cars, ooh yeah
+From struggling and broken hearts to fancy cars, oh yeah
 And even though my money change
 I try my best to stay the same
 But you know with more money, more problems came
@@ -86,7 +86,7 @@ In ATL I caught a case
 And the media tried to say
 I had a habit
 I couldn't manage
-And I'm throwing my life away (ooh yeah)
+And I'm throwing my life away (oh yeah)
 But everything ain't what it seems
 Just because it's on TV
 'Cause they speculate and exaggerate for a better story

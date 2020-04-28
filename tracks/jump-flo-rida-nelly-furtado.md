@@ -35,7 +35,7 @@ rankings:
 ---
 
 
-Na Na Na Na Na Na Na Na Na Na Na Na 
+Na Na Na Na Na Na Na Na Na Na Na Na
 
 
 When I say jump, you say how high
@@ -63,9 +63,6 @@ Can I be a bird, I gotta be fly
 Butterfly and spur, and I got a couple words
 
 
-
-
-
 When I run up in the club, jump in, then I gotta be there
 Check it out, shawty like Nike Air
 Up up and away take it off like mere?
@@ -84,21 +81,18 @@ Cali is jumpin, hit the switch on the 6 4
 
 
 
-Come on and jump, jump, jump 
+Come on and jump, jump, jump
 (All my ladies) get down, get down, get down
 (All my ladies) get down, get down, get down
 (All the fellas) jump, jump, jump, jump, jump, jump
 (All the fellas, the ladies, the fellas, the ladies, let me see you)
 
 
-
-
-
 Get down, get down, get down
 Get down, get down, get down
 
 
-Na Na Na Na Na Na Na Na Na Na Na Na 
+Na Na Na Na Na Na Na Na Na Na Na Na
 
 
 

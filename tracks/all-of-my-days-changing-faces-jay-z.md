@@ -113,12 +113,7 @@ Anything to turn you on
 I'll be giving it to you, babe
 You don't have to worry, baby
 
-
-
-
-
-
-All I want is 
+All I want is
 To be with you all of my days
 (All I want, yeah, hey)
 
@@ -149,8 +144,4 @@ Jigger R. Kelly, Changing Faces, uh
 All I want is
 To be with you all of my days
 All I want, all I need
-
-
-
-
 

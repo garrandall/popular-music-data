@@ -73,7 +73,7 @@ Word up, hah, yeah yeah one time with the flow
 
 Hah hah hah hah, move it to the left
 
-Oooh hah yeah ooh yes, kind of blessed yes
+Oh hah yeah ohyes, kind of blessed yes
 
 Oh yeah I'm so fly... yeah, yeah you so fly too girl
 
@@ -122,7 +122,7 @@ But anyway we bout to break out in my Lands
 Pursuin our thoughts and executin all plans
 The dope shit is that we both underestand
 that it's a one night stand and you ain't even thinkin bout your man
-Oooh, OH! We bout to turn on the heat again
+Oh, OH! We bout to turn on the heat again
 Don't you say a word until we finish partyin
 
 
@@ -148,11 +148,11 @@ Word up, let's get it on tonight
 
 Yes, yes, uhh, Zhane and Busta Rhymes
 
-Ahhh, woo, let's get it on, let's get it on
+Ah, woo, let's get it on, let's get it on
 
-Do it right now, ahh, hah
+Do it right now, ah, hah
 
-Throw your hands in the air!!!
+Throw your hands in the air!
 
 Zhane and Busta Rhymes exclusive, hah
 

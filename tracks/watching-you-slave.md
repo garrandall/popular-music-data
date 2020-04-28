@@ -77,7 +77,7 @@ Watching you (watching you)
 
 
 Love at first sight
-Ooh, baby, you're blowin' my mind
+Oh, baby, you're blowin' my mind
 I just got to let you know
 Energy flowin'
 I said it feels so good
@@ -103,13 +103,13 @@ Baby, I'm watching you, you're right down my line
 
 
 Walking down the street watching ladies go by
-Watching you (oh....baby)
+Watching you (oh...baby)
 Walking down the street watching ladies go by
-Watching you (ooh, you're right for me, you're right to the tee, baby)
+Watching you (oh you're right for me, you're right to the tee, baby)
 Walking down the street watching ladies go by
 Watching you (what must I do to let you know I'm checkin' you)
 Walking down the street watching ladies go by (yeah, yeah, yeah, yeah, yeah, yeah, yeah)
-Watching you (whoa....ho...ho...yi, yi, yi)
+Watching you (whoa...ho...ho...yi, yi, yi)
 Walking down the street watching ladies go by (whoa, whoa, ho)
 Watching you (yi-yi-yi, la-la-la-la-la-la-la-la, oh, oh, oh)
 Walking down the street watching ladies go by (la-la-la-la-la-la-la-la, oh, oh, oh)

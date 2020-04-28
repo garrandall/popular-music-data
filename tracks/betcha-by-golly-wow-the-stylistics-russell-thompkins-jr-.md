@@ -74,13 +74,13 @@ rankings:
   start_date: '1972-06-10'
 ---
 There's a spark of magic in your eyes
-Candyland appears each time you smile (ooh ooh ooh)
+Candyland appears each time you smile (oh oh oh)
 Never thought that fairy tales came true
 But they come true
 When I'm near you
 
 
-You're a genie in disguise (ooh ooh ooh)
+You're a genie in disguise (oh oh oh)
 Full of wonder and surprise
 And
 
@@ -93,13 +93,13 @@ Keep growing strong
 
 
 If I could I'd catch a falling star
-To shine on you so I'll know where you are (ooh ooh ooh)
+To shine on you so I'll know where you are (oh oh oh)
 Order rainbows in your favorite shade
 To show I love you
 Thinking of you
 
 
-Write your name across the sky (ooh ooh ooh)
+Write your name across the sky (oh oh oh)
 Anything you ask I'll try
 'Cause
 

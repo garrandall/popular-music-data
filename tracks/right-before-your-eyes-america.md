@@ -107,4 +107,4 @@ Won't you come in out of the rain
 Things'll never be the same
 And then just like Greta Garbo
 You stare like there's no tomorrow
-And you'll know what I'm thinking of, ooh
+And you'll know what I'm thinking of, oh

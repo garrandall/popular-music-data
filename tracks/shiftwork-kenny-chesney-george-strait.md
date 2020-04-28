@@ -102,9 +102,9 @@ Work seven to three
 Three to eleven
 Eleven to seven
 
-Well i work, shift work,
-Ten years man, i hated that work
-I made a break with the money i saved
+Well I work, shift work,
+Ten years man, I hated that work
+I made a break with the money I saved
 It took me to the beach to have a beer by the edge of the sea
 And this 'round a clock place
 I drank my money away

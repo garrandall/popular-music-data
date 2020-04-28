@@ -90,10 +90,10 @@ You can call me crazy
 Say I'm insecure
 But I don't wanna be just another girl
 
-Ooooh
+Oh
 Ohhhh
 Ohhh
-Mmm, hhmmm
+Mmm, hm
 
 
 Strange how you claim to tell all the truth

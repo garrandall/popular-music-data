@@ -62,7 +62,7 @@ What you gave me is more than enough to last
 
  Into my life you came like a breath of spring
 Given me a song to sing
- Oh yeah, 
+ Oh yeah,
  Oh yeah
  & though I know you're leavin'
 I won't be grievin' 'cause I know
@@ -76,12 +76,9 @@ You'll always be a part of me
 & what you gave me is more than enough to last
 
  I'm gonna live once again
- What you gave me, 
+ What you gave me,
  is more than enough to last
  I love you, I love you
  Hey now, & what you gave me is more than enough to last
 & what you gave me is more than enough to last
-
-
-
 

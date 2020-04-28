@@ -74,4 +74,4 @@ The magical mystery of music, harmony and rhythm
 Oh, it sounds so sweet
 Music, harmony and rhythm
 The magical mystery of music, harmony and rhythm
-Ooh, it's in me
+Oh, it's in me

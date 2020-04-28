@@ -112,5 +112,3 @@ I can clearly read your mind
 Caught by your fire from the start
 So let's not waste our precious time
 Go on and listen to your heart
-
-(Repeat bridge and chorus)

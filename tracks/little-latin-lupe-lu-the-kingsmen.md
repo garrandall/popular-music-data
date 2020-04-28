@@ -45,7 +45,7 @@ rankings:
   start_date: '1964-09-05'
 ---
 Talkin' bout my baby
-Ahhh, Little Latin Lupe Lu
+Ah, Little Latin Lupe Lu
 She's a high flyin' baby
 Ain't no dance she could'nt do
 She's my groovy little baby

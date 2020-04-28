@@ -53,9 +53,6 @@ Flowers growing on a hill, dragonflies and daffodils
 Learn from us very much, look at us but do not touch
 Phaedra is my name
 
-
-
-
 Flowers are the things we know, secrets are the things we grow
 Learn from us very much, look at us but do not touch
 Phaedra is my name

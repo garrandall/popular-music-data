@@ -45,7 +45,7 @@ rankings:
   start_date: '2000-07-15'
 ---
 M-O-N-I-C-A
-Trying to take my man away from me (ooh)
+Trying to take my man away from me (oh
 M-O-N-I-C-A
 She trying to take my man away from me, uh
 

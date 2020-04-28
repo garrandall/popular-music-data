@@ -21,7 +21,7 @@ rankings:
   start_date: '1960-05-16'
 ---
 Bésame, bésame mucho
-Each time i cling to your kiss,
+Each time I cling to your kiss,
 I hear music divine
 Bésame mucho
 Hold me my darling and say
@@ -31,7 +31,7 @@ My arms enfolding you
 Never knew this thrill before
 Whoever thought i'd be
 Holding you close to me
-Whispering "it's you i adore"
+Whispering "it's you I adore"
 Dearest one
 If you should leave me
 Each little dream would take wing,

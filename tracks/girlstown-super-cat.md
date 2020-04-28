@@ -56,9 +56,6 @@ And she say, "No!, I'm too sexy for the Dapper"
 And I say, "Yay!, If you're so sexy, well don't bother"
 "Cho baby! You just a gwanie gwanie so.. "
 
-
-
-
 Girls
 Me a tell you 'bout girls
 Me a tell you 'bout girls
@@ -83,11 +80,5 @@ But she say, "me don't have no ranch house down inna Texas"
 Nah take no dis an' me na take no back chat
 All that me have is di loving comfort
 Now that me meet you, and me waan chase di cat
-
-
-
-
-
-
 
 Girls!

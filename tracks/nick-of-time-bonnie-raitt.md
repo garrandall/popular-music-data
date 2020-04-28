@@ -52,7 +52,7 @@ When there's less of it to wa-a-a-aste
 
 Mmm-m-m-m-m-m
 
-Mmmmmmm, scared you'll run out of time
+Mmm, scared you'll run out of time
 
 Just when I thought I'd had enough
 And all my tears were shed
@@ -70,7 +70,7 @@ I found love darlin', love in the nick of time
 (Love in the nick of time)
 I found love baby, love in the nick of time
 
-Ooooooo-ooo-ooo-whoo-ooo
+Ooooooo-oo-oo-whoo-oo
 Yeah baby
 
 Uhhhhh-huh-uh
@@ -81,4 +81,4 @@ In the nick of time...
 Thought I'd given up...
 Given up baby...
 
-Oh ooo wo ooo wo...
+Oh oo wo oo wo...

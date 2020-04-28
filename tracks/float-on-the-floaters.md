@@ -148,7 +148,7 @@ Because I love everybody and everything
 And you know what, ladies, if you feel that this is you
 Then this is what I want you to do
 
-Ooh, yeah, take my hand
+Oh, yeah, take my hand
 Let me take you to Love Land
 Let me show you how sweet it could be
 Sharing your love with Larry, listen

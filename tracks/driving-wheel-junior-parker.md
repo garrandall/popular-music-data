@@ -28,6 +28,6 @@ That letter goes to my baby, I am her drivin' wheel
 Now wait a minute, I wanna tell you somethin'! (yeah!)
 I wanna tell you about my baby! (yeah!)
 I'm gonna tell ya about my baby! (yeah!)
-Ev'ry time she walks, she's like a leaf shakin' on a tree
-Ev'ry time she walks, she's like a leaf shakin' on a tree
+Every time she walks, she's like a leaf shakin' on a tree
+Every time she walks, she's like a leaf shakin' on a tree
 I want you to c'mon baby, this is where you get your steak, potato's and tea

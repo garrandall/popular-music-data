@@ -68,7 +68,7 @@ Or did those pretty little love words come from your heart? ( heart! )
 Did those pretty little love words come from your heart?
 ( pretty little love words come from your heart! )
 
-Hmmm . . . moon-talk! . . . Hmmm . . . moon-talk! . . 
+Hm . . . moon-talk! . . . Hm . . . moon-talk! . .
 Makes you hug me the way you hugged me
 Makes you kiss me the way you kissed me
 In the moonlight! ( I love ya, love ya, love ya, love ya! )

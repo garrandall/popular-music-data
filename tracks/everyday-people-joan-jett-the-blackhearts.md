@@ -57,7 +57,7 @@ The black ones tryin' to be a skinny one
 Different strokes for different folks
 And so on and so on and scooby dooby dooby
 
-Ooh sha sha
+Oh sha sha
 We gotta live together
 
 I am no better and neither are you
@@ -74,7 +74,7 @@ That will not help the poor one
 Different strokes for different folks
 And so on and so on scooby dooby dooby
 
-Ooh sha sha
+Oh sha sha
 We got to live together
 
 There is a yellow one that won't
@@ -85,7 +85,7 @@ That won't accept the white one
 Different strokes for different folks
 And so on and so on and
 Scooby dooby dooby
-Ooh sha sha
+Oh sha sha
 I am everyday people
 
 

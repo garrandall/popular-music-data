@@ -78,9 +78,9 @@ Like a lighter, bitch, we ignant (ignant, yeah)
 All this water on my neck
 Look like I fell when I went fishin' (fell!)
 So much diamonds on my bust down
-Ooh, fuck, what's the time? (Where we at?)
+Oh, fuck, what's the time? (Where we at?)
 Me and Smokepurpp sippin' drank (Purpp!)
-Ooh, fuck, she take lines (lines)
+Oh, fuck, she take lines (lines)
 
 You're such a fuckin' ho, I love it (scoop! I love it)
 You're such a fuckin' ho, I love it (I love it)

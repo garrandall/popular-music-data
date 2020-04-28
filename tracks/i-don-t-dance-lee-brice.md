@@ -117,7 +117,7 @@ Cause, I don’t dance
 Ohhh
 I don’t dance
 
-Ooh
+Oh
 
 I don’t dance, but here I am
 Spinning you round and round in circles
@@ -134,4 +134,4 @@ Cause, I don’t dance
 Oh
 No..
 
-Oooh…
+Oh…

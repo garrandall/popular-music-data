@@ -14,7 +14,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-10-19'
 ---
-Wished I had told ooh was (the) only one (uh oh!)
+Wished I had told ohwas (the) only one (uh oh!)
 But it's too late, it's too late he's gone
 
 

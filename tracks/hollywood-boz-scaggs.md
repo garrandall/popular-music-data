@@ -63,11 +63,11 @@ Broadway here she comes
 You should be a natural
 
 (Camera action do it again)
-Ooh anyway I gotta do it
+Ohanyway I gotta do it
 (What a reaction do it again)
 Yeah I'm gonna make you a star
 (Camera action do it again)
-Ooh anyway I gotta do it
+Ohanyway I gotta do it
 (What a reaction do it again)
 To get you this part
 
@@ -88,7 +88,7 @@ Oh anyway I gotta do it
 (What a reaction do it again)
 Yeah I'm gonna make you a star
 (Camera action do it again)
-Ooh anyway I gotta do it
+Ohanyway I gotta do it
 (What a reaction do it again)
 To get you this part
 
@@ -103,17 +103,17 @@ Oh anyway I gotta do it
 (What a reaction do it again)
 Yeah I'm gonna make you a star
 (Camera action do it again)
-Ooh anyway I gotta do it
+Ohanyway I gotta do it
 (What a reaction do it again)
 To get you this part
 
 (Camera action do it again)
-Oooh anyway I gotta do it
+Oh anyway I gotta do it
 (What a reaction do it again)
 To get you this part
 (Camera action do it again)
 (What a reaction do it again)
-Ooooh... do it again
+Oh... do it again
 What a reaction do it again
 
 

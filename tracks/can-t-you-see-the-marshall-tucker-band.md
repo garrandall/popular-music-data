@@ -78,9 +78,6 @@ What that woman, Lord, she been doin' to me
 Can't you see, can't you see
 What that woman, she been doin' to me
 
-
-
-
 Can't you see, whoa, can't you see
 What that woman, Lord, she been doin' to me
 Can't you see, can't you see

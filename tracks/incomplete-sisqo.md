@@ -114,7 +114,7 @@ rankings:
 ---
 
 Whoo
-Ooh
+Oh
 Oh yeah yeah
 Listen
 
@@ -135,7 +135,7 @@ All of the money don't amount to you
 So I can make believe I have everything
 But I can't pretend that I don't see
 That without you girl my life is incomplete
-Said without you girl ahh
+Said without you girl ah
 Listen
 
 Your perfume, your sexy lingerie
@@ -155,7 +155,7 @@ All of the money don't amount to you
 I can make believe I have everything
 But I can't pretend that I don't see
 That without you girl my life is incomplete
-Oh yeah that without you girl ahh
+Oh yeah that without you girl ah
 
 I just can't help lovin' you
 But I loved you much too late

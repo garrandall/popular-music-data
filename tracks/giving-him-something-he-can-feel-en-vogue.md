@@ -133,14 +133,9 @@ This love is real
 
 So much joy for us it seems
 So much hope for material things
-Are they only in my dreams? 
+Are they only in my dreams?
 (hey, oh yeah)
 And that?s exactly why I?m singing this song to you
 To let you know that real dreams do come true.
 You tell me ?what does it mean?.
-
-
-
-
-
 

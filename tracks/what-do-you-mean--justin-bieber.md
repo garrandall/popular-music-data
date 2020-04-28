@@ -183,7 +183,7 @@ When you nod your head yes, but you wanna say no
 What do you mean? Hey yeah
 When you don't want me to move, but you tell me to go
 What do you mean? (I wanna know)
-Oh, what do you mean? (Ooh)
+Oh, what do you mean? (Oh)
 Said you're running outta time, what do you mean? (Oh baby)
 Oh, oh, oh, what do you mean?
 Better make up your mind, what do you mean?

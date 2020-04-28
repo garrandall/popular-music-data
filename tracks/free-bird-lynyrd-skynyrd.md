@@ -103,9 +103,6 @@ And this bird you can not change
 And this bird you can not change
 Lord knows, I can't change
 
-
-
-
 Bye, bye, baby, it's been a sweet love
 Though this feeling I can't change
 But please don't take it so badly

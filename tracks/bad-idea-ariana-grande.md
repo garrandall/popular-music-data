@@ -69,7 +69,7 @@ Forget about me
 
 
 Gotta get control of it
-Why can't I let go of it? (Ooh)
+Why can't I let go of it? (Oh)
 Wishin' you would come and save me
 Yeah, yeah-yeah, yeah, yeah
 

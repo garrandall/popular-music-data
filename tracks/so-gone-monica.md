@@ -103,7 +103,7 @@ Woo
 
 Silly of me (Uh huh), devoted so much time
 To find you unfaithful, boy
-I nearly lost my mind (Ooh)
+I nearly lost my mind (Oh
 Drive past your house every night (Uh)
 In an unmarked car (Uh huh)
 Wonderin' what she had on me to make you break my heart (Yeah)
@@ -162,7 +162,7 @@ Baby, please, can we stay together?
 
 Whoa and I love to love you, baby
 Whoa and I love to love you, baby
-Whoa and I love to love you, baby (Ooh-ooh, ooh)
+Whoa and I love to love you, baby (Ohoh, oh)
 Whoa and I love to love you, baby
 Whoa and I love to love you, baby
 Whoa and I love to love you, baby
@@ -180,7 +180,7 @@ So unreal
 
 Said that I need you
 I don't really need you
-Said that I need you (Oooh-ooh, ooh)
+Said that I need you (Oh-oh, oh)
 Said that I need you
 I don't really need you
 Said that I need you

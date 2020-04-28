@@ -66,11 +66,11 @@ But eleven out of twelve is bound to hurt
 The pay's pretty good and the benefits are fine
 But I got a little girl and I wanna make her mine
 
-Don't mind telling you i get a little mad
+Don't mind telling you I get a little mad
 To get a bit ahead takes all the time I have
 Don't misunderstand me
 I'm not getting soft
-All i want is a couple days off
+All I want is a couple days off
 
 Can't wait for the weekend
 Ah baby just can't wait no
@@ -83,7 +83,7 @@ I just need a little time for myself
 I need a little loving only you know what I mean
 Don't misunderstand me
 I'm not getting soft
-All i want is a couple days off
+All I want is a couple days off
 
 Let me catch my breath
 
@@ -95,9 +95,9 @@ I don't need another long coffee break
 I've had as much coffee as a man can take
 I need to change my disposition
 Change my point of view
-I need time to figure out what i want to do
+I need time to figure out what I want to do
 
-Believe me when i tell you it gets a little rough
+Believe me when I tell you it gets a little rough
 We work a little harder but it never is enough
 
 I'm not afraid to say

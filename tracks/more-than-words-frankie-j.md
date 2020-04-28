@@ -125,6 +125,3 @@ Cause I'd already know
 (just saying I love you, saying I love you)
 More than words
 
-
-
-

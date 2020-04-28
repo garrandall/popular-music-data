@@ -116,9 +116,6 @@ Take me down to the Paradise City
 Where the grass is green and the girls are pretty
 Oh, won't you please take me home, oh yeah
 
-
-
-
 So far–away
 So far–away
 So far–away

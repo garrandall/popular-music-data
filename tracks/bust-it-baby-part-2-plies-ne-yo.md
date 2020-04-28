@@ -120,7 +120,7 @@ Save yo number in my phone under lil boo
 Like yo sex, but more in love wit what you do
 Turns me on how u stare at me when we through
 When u give it too me I don't wanna turn ya loose
-Scared to moan round you so all I can say is ooo
+Scared to moan round you so all I can say is oo
 My favorite panties of yours are the ones that see through
 The one with the pink trim on em and they light blue
 Speakin fo' the goons, thank God fo' makin you

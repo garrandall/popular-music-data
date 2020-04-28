@@ -21,7 +21,7 @@ A Night... falls, and I'm alone
 Skin... yeah, chilled me to the bone
 
 
-You... turned and you ran, ohh yeah
+You... turned and you ran, oh yeah
 
 
 Oh, slipped... right from my hands

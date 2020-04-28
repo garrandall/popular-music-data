@@ -118,7 +118,7 @@ Now I See You At 23
 All I Can Say Is
 
 
-Ahhhhhhhhh, Ahhhhhhhhh
+Ah, Ah
 And I Don't Need No Hook For This Hit
 Cause Shawty Right There Is a ten, a ten
 Shawty you a ten
@@ -151,7 +151,7 @@ Now That I See You At 23
 All I Can Say Is
 
 
-Ahhhhhhhhhhh, Ahhhhhhhhhh
+Ah, Ah
 And I Don't Need No Hook For This Hit
 Cause Shawty Right There Is a ten, a ten
 Shawty you a ten
@@ -177,7 +177,7 @@ Rock To The Beat For Ya Boy
 Now To See You At 23 All I Can Say Is
 
 
-Ahhhhhhhhhhhh, Aye, Ahhhhhhhh
+Ah, Aye, Ah
 And I Don't Need No Hook For This Hit
 Cause Shawty Right There Is a ten, a ten
 A Ten

@@ -39,7 +39,7 @@ And your girlfriend keep plottin' on my wishlist
 Have her stuck, yeah, had to stuff her in a frenzy
 
 
-Ooh, she love it, fuckin' and suckin' dick, yeah
+Oh, she love it, fuckin' and suckin' dick, yeah
 Now she trippin', talkin' 'bout she wanna kiss me
 I was busy, I was tryna bum giffies
 Split it fifty-fifty with my (Yeah, woah)

@@ -76,7 +76,7 @@ I've never seen a smile as true and bright as yours
 I've never found love that can't grow old
 And that is why, that is why, I love you
 So come on
-You better come oooon to my heart
+You better come on to my heart
 Just sitting here thinking with a you on my mind
 Don't go no where I'm worried all the time
 Come on

@@ -88,7 +88,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-06-13'
 ---
-Hum...ohh baby..aww baby Yeah!
+Hum...oh baby...aww baby Yeah!
 We goin' take you back a little further
 Thinkin' back on you and me
 Remembering how it use to be
@@ -100,7 +100,7 @@ We kissed and made up and all was fair in love
 So now we gotta go back baby (maybe we can turn the hands of time)
 Going back to when (Going back to when you were mine)
 When we were one (remembering the times when we were one, one in love)
-When love was fun (ohh baby, baby)
+When love was fun (oh baby, baby)
 Dig it...
 
 Remembering the first time you showed me your love
@@ -116,10 +116,10 @@ I need your love right here with me to keep me safe and warm
 (maybe we can turn the hands of time)
 I'm going back to when (going back to when, when you were mine)
 When we were one...we were one girl
-Ohh baby girl....
-When we were one....
-Baby save me, I'm thinkin, thinkin' back....
+Ohh baby girl...
+When we were one...
+Baby save me, I'm thinkin, thinkin' back...
 Play Mr. Music Man Play
 Play Mr. Music Man
-Ua...ohh..ohh..
-I'm Thinkin' back....
+Ua...oh...oh..
+I'm Thinkin' back...

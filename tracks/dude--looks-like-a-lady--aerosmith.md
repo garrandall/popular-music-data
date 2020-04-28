@@ -128,9 +128,9 @@ Baby let me follow you down (do me, do me, do me all night)
 Baby let me follow you down (turn the other cheek dear)
 Baby let me follow you down (do me, do me, do me, do me)
 
-Ooh, what a funky lady
-Ooh, she like it, like it, like it, like that.
-Ooh, he was a lady!
+Oh, what a funky lady
+Oh, she like it, like it, like it, like that.
+Oh, he was a lady!
 
 That, that dude looks like a lady
 That, that dude looks like a lady

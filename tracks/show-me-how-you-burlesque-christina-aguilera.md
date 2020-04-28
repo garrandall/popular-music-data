@@ -51,11 +51,6 @@ Everybody just comes to life
 Under the spotlight
 All the boys wanna fall behind
 
-
-
-
-
-
 Ok girls, let’s show them how it’s done
 It ain’t over till we say
 And we’ve only just begun

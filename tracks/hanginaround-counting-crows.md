@@ -92,9 +92,9 @@ rankings:
 she sat right down on the sofa
 says where have you been?
 i been waiting for you
-Cause last night i had something so good
+Cause last night I had something so good
 these days get so long
-and i got nothing to do
+and I got nothing to do
 i been hangin' around this town on the corner
 i been bummin' around this old town so long
 i been hangin' around this town on the corner
@@ -103,7 +103,7 @@ we spend(t) all day getting sober
 just hiding from daylight
 watching tv
 we just look a lot better in the blue light
-well you know i gotta get out
+well you know I gotta get out
 well i'm stuck so tight weighed by the chains that keep me
 hangin' around this town on the corner
 i been bummin' around this old town too long
@@ -125,9 +125,9 @@ I been bummin' around this old town for way way way way way too long
 way way way way too long
 way way way way too long
 way way way way too long
-(live insert) oh my god i say
+(live insert) oh my god I say
 get up real early in the morning
-dont get up 'till the afternoon 
+don't get up 'till the afternoon
 Son, I see the day is dawning?
 (she said well get up get dressed get out)
 Its almost have past noon?

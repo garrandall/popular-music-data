@@ -75,9 +75,6 @@ Just open your eyes and listen to me
 Straight ahead, a green light turns to red
 Oh why can't you see, oh Johnny B
 
-
-
-
 And when she calls your name, my sweet Johnny B
 You can drive all night and you know she'll be waiting
 To love you again, her kiss is her poison

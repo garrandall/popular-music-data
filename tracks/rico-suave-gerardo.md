@@ -144,7 +144,7 @@ What's this amor, these little huevos?
 Esto s?que yo no pruebo
 I'm used to good ol' fashioned
 Homestyle Spanish cooking
-If i try that I'll be puking
+If I try that I'll be puking
 Well it's been a pleasure but we got to go
 Regresaremos temprano
 Cinco, seis, o siete de la mañana

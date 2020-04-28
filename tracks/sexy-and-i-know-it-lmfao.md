@@ -183,16 +183,16 @@ This is how I roll, animal print pants outta control,
 It's Redfoo with the big afro
 And like Bruce Leroy I got the glow *
 
-Ah... Girl look at that body 
+Ah... Girl look at that body
 Ah... I work out
-Ah... Girl look at that body 
+Ah... Girl look at that body
 Ah... I work out
 
 When I walk in the spot (yeah), this is what I see (OK)
 Everybody stops and they staring at me
 I got passion in my pants and I ain't afraid to show it, show it, show it, show it
 
-I'm sexy and I know it 
+I'm sexy and I know it
 
 When I'm at the mall, security just can't fight them all
 And when I'm at the beach, I'm in a Speedo trying to tan my cheeks (what?)
@@ -200,19 +200,19 @@ This is how I roll, come on ladies it's time to go
 We headed to the bar, baby don't be nervous
 No shoes, no shirt, and I still get service (watch)
 
-Ah... Girl look at that body 
+Ah... Girl look at that body
 Ah... I work out
-Ah... Girl look at that body 
+Ah... Girl look at that body
 I work out
 
 When I walk in the spot (yeah), this is what I see (OK)
 Everybody stops and they staring at me
 I got passion in my pants and I ain't afraid to show it, show it, show it, show it
 
-I'm sexy and I know it 
-Check it out 
+I'm sexy and I know it
+Check it out
 
-Wiggle, wiggle, wiggle, wiggle, wiggle yeah 
+Wiggle, wiggle, wiggle, wiggle, wiggle yeah
 Wiggle, wiggle, wiggle, wiggle, wiggle yeah, yeah
 
 Do the wiggle man
@@ -220,14 +220,10 @@ I do the wiggle man
 Yeah
 I'm sexy and I know it
 
-Ah... Girl look at that body 
+Ah... Girl look at that body
 Ah... I work out
-Ah... Girl look at that body 
+Ah... Girl look at that body
 Ah... I work out
 
 Yeah I'm sexy and I know it!
-
-
-
-
 

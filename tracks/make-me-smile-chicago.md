@@ -89,11 +89,6 @@ When I hold you
 Cry sweet tears of joy
 Touch the sky
 
-
-
-
-
-
 Now I need you
 More than ever
 No more crying

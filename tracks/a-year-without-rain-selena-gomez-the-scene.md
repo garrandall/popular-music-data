@@ -42,8 +42,8 @@ rankings:
   start_date: '2011-01-15'
 ---
 
-Ooh ooh ooh
-Ooh ooh ooh
+Ohoh oh
+Ohoh oh
 
 Can you feel me
 When I think about you?
@@ -83,7 +83,7 @@ So let this drought come to an end
 And make this desert flower again
 I'm so glad you found me
 Stick around me,
-Baby baby baby oooh
+Baby baby baby oh
 
 It's a world of wonder with you in my life
 So hurry, baby, don't waste no more time
@@ -92,8 +92,8 @@ But a day without you is like a year without rain (oh, whoa)
 
 
 
-Ooh ooh ooh
-Ooh ooh ooh
+Ohoh oh
+Ohoh oh
 
 
 

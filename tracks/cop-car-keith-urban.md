@@ -129,10 +129,6 @@ When you asked him for a light
 And I laughed
 He got mad and slammed the door
 
-
-
-
-
 Side by side
 And locked in tight
 They were taking their time
@@ -144,8 +140,4 @@ We sat real close
 By the time they let us go
 
 I was already gone
-
-
-
-
 

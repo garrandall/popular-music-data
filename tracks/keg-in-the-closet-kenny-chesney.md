@@ -61,7 +61,7 @@ Keg in the closet pizza on the floor left over from the night before where
 we were going we didn't really care we had all we ever wanted in that keg in the closet
 
 This old guitar taught me how to score right there on the Lambda Chi porch, Mary Ann taught
-me a little more 'bout wantin' what you cant have, sweatshirts and flag football, spring breaks down in
+me a little more 'bout wantin' what you can't have, sweatshirts and flag football, spring breaks down in
 panama, for a while we had it all we never dreamed it wouldn't last, we went to class just to
 pass the time back in eighty nine
 

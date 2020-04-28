@@ -90,4 +90,4 @@ If you want the best for us
 Like I want the best for us
 We gotta learn to trust
 We gotta learn to trust
-Yeah, ohh, ohh
+Yeah, oh, oh

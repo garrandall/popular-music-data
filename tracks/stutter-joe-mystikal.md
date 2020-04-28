@@ -127,7 +127,7 @@ Y-Y-Y-You told me, "With your friends, hangin' out" (Late last night)
 Y-Y-Y-You're lying 'cause you're stuttering
 Now where were you? (Late last night)
 Stop lyin' to me 'cause you're tickin' me off
-See you're tickin' me off, ooh-oooh-ooh
+See you're tickin' me off, oh-oh
 
 
 I can tell you're lying
@@ -198,7 +198,7 @@ Or lyin' when you be talking to J-J-Joe
 I smell cologne, damn it's strong
 How'd you get it on? (I'm not dumb)
 He messed up your hair, makeup's everywhere
-Ooh, yeah (I'm not dumb)
+Oh yeah (I'm not dumb)
 Girl, you're crying 'cause you're lying
 To my face (I'm not dumb)
 Stop lying about seein' a man

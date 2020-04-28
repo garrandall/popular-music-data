@@ -127,8 +127,8 @@ If that girl don't participate, well then I'ma take her friend.
 Well if, mami is with it then, mami can give it then, mami a rider, I'ma, slide up beside her.
 I got a suite, you can creep on through, I know you tryin' to get your freak on too,
 I'll do it all for that (lady), yeah I ball for that (lady), hit the mall for that (lady),
-keep it fly for them (ladies), keep my eye on them (ladies), hot tub for them (ladies), 
-pop bub' for them (ladies), I got love for ma (ladies), yeeah!
+keep it fly for them (ladies), keep my eye on them (ladies), hot tub for them (ladies),
+pop bub' for them (ladies), I got love for ma (ladies), yeah!
 
 
 Girl you wanna come to my hotel, baby I will leave you my room key.
@@ -144,8 +144,8 @@ Girl if you man start actin' up, ask for him or ask for me.
 we be under the covers, makin' love to each other.
 I got a double bed, one's to sleep on, other one's to get my freak on, (ladies) it's all for them (ladies).
 Yeah I ball for that (ladies), hit the mall for that, (ladies) keep
-it fly for them, (ladies) keep my eye on them, (ladies) hot tub for them, 
-(ladies) pop bub' for them, (ladies) I got love for ma, yeeeah!
+it fly for them, (ladies) keep my eye on them, (ladies) hot tub for them,
+(ladies) pop bub' for them, (ladies) I got love for ma, yeah!
 
 
 Girl you wanna come to my hotel, baby I will leave you my room key.
@@ -172,7 +172,7 @@ So if you wanna come to my hotel, all you gotta do is holler at me.
 'Cuz we're having an after party, checkin' out 6 in the mornin'
 
 
-You've just heard, a classic, featuring the one and only, Kels, Cassidy, Swiss beats the monster (yes i am)
+You've just heard, a classic, featuring the one and only, Kels, Cassidy, Swiss beats the monster (yes I am)
 Full service the label, Rock***the family, Ruff ryders the family.
 This one's for the ladies y'all. The baby, believe it! Get your hands up!
 It's over.

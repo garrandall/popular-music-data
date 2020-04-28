@@ -70,7 +70,7 @@ Help me sing it fellas, yeah
 
 I'm sitting here alone
 Trying to face another day
-Gotta stay strong, hmm
+Gotta stay strong, hm
 To endure this pain
 
 I'm dealing with right now

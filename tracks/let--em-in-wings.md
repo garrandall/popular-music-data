@@ -77,7 +77,7 @@ Somebody ringin' the bell
 Someone's knockin' at the door
 Somebody's ringin' the bell
 Do me a favor
-Open the door, and let 'em in, ooh yeah
+Open the door, and let 'em in, oh yeah
 
 
 Someone's knockin' at the door
@@ -106,11 +106,11 @@ Someone's knockin' at the door
 Somebody ringin' the bell
 Do me a favor
 Open the door, and let 'em in
-Ooh yeah, yeah, let 'em in now
+Oh yeah, yeah, let 'em in now
 
 
 Sister Suzy, brother John
-Martin Luther, Phil and Don, ooh
+Martin Luther, Phil and Don, oh
 Uncle Ernie, Uncle Ian
 Open the door, let 'em in, oh yeah, yeah
 

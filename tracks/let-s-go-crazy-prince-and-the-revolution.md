@@ -180,7 +180,4 @@ He's coming
 He's coming
 Coming
 
-
-
-
 Take me away!

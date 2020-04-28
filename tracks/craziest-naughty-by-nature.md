@@ -48,8 +48,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-06-17'
 ---
-Verse 1: Treach
-
 My thoughts are thundering, tumbling
 Sons of bitches, switches, from yelling to mumbling
 You ain't a pal of me, my family ties but not with Mallory
@@ -69,7 +67,6 @@ Poor shit to more shit as I rip in every function
 Funking it up, pumping it up, chumping the ducks
 Looking to hump Ms. Junk in the Trunk, pump pump me up
 
-Chorus:
 
 Jersey niggas are the craziest
 New York niggas are the craziest
@@ -79,8 +76,6 @@ LA niggas are the craziest
 Chi town niggas are the craziest
 Texas niggas are the craziest
 Utah niggas are the craziest
-
-Verse 2: Vin Rock
 
 My lyrics be laced with 40 ounces of funk and stuff
 You get rushed, you get bust, you call yourself callin my bluff, enough's enough - I'm puttin it down on the real end
@@ -98,14 +93,10 @@ They begin when Vin pick up the pen and pad up off the dresser
 Lest a man should ever challenge the clan
 With thirteen years experience of rippin mics put in our hands
 
-Chorus:
-
 Detroit niggas are the craziest
 Miami niggas are the craziest
 Little Rock niggas are the craziest
 Oak Town niggas are the craziest
-
-Verse 3: Treach
 
 I got barbarians to bogard me in
 At a club that barred me when
@@ -124,7 +115,6 @@ I'm hittin Jermaine in Atlanta cos he owe me loot for that jump shit
 Fuck astronauts I rock it
 And from now on if you bite my style when I see you, I'm in your pockets
 
-Chorus:
 
 Cleveland niggas are the craziest
 Virginia niggas are the craziest

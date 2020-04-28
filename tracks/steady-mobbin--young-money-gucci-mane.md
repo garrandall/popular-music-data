@@ -119,7 +119,7 @@ Got 10 bathrooms, I could shit all day, nigga
 And we don’t want no problems
 Okay, you’re a goon, what's a goon to a goblin?
 Yeah, and Kane on the beat
-I fuck around and leave a nigga's brains on the street, oooh
+I fuck around and leave a nigga's brains on the street, oh
 Now, pop that pussy
 I bring her to my bedroom and pop that pussy
 Uh-huh, and we be steady mobbin'
@@ -167,7 +167,7 @@ Then I'll murder that bitch and send her body back to your ass
 And-And we don’t want no problems
 Oka-Okay, you’re a goon, what's a goon to a goblin?
 Yeah, and Kane on the beat
-I-I fuck around and leave a nigga's brains on the street, oooh
+I-I fuck around and leave a nigga's brains on the street, oh
 Now, pop that pussy
 I-I bring her to my bedroom and pop that pussy
 Uh-huh, and we be steady mobbin'
@@ -187,7 +187,7 @@ Keep a hard dick for your girlfriend to wobble on, Weez'!
 And-And we don’t want no problems
 Oka-Okay, you’re a goon, what's a goon to a goblin?
 Yeah, and Kane on the beat
-I-I fuck around and leave a nigga's brains on the street, oohh
+I-I fuck around and leave a nigga's brains on the street, oh
 Now, pop that pussy
 I bring her to my bedroom and pop that pussy
 Uh-huh, and we be steady mobbin'
@@ -196,7 +196,7 @@ Kane is in the building, nigga
 And-And we don’t want no problems
 Oka-Okay, you’re a goon, what's a goon to a goblin?
 Yeah, and Kane on the beat
-I-I fuck around and leave a nigga's brains on the street, oohh
+I-I fuck around and leave a nigga's brains on the street, oh
 Now, pop that pussy
 I bring her to my bedroom and pop that pussy
 Uh-huh, and we be steady mobbin'

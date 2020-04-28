@@ -177,7 +177,7 @@ I'll live around it
 I wanna wake up where you are
 I won't say anything at all
 So why don't you slide
-Ooh, slide
+Oh, slide
 
 And I'll do anythin' you ever dreamed to be complete
 Little pieces of the nothin' that fall

@@ -89,7 +89,7 @@ My world stops turning when you're not around
 You don't know what it would do me
 If you said "I love you" again
 
-I know that i have called you, babe
+I know that I have called you, babe
 Tell me can't we start it all over again
 So I can be all the things to you
 That you are to me

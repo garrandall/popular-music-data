@@ -99,7 +99,7 @@ I got money in the bank (yea)
 Shawty what you drank
 
 (Lil Scrappy)
-I'ma get that, dough and f**k with dem, hoes
+I'ma get that, dough and fuck with dem, hoes
 Young ladied that know me know Scrappy's a, pro
 Fill up at the, bar go get a mas-sage
 Find me a couple we can make it a, me-nage
@@ -113,7 +113,7 @@ I got extra weed (yea) money long like sleeves (yea)
 If a nigga try to creep, I got extra heat
 Got a bank account (cha-ching) with a large amount
 If a nigga wanna talk, nigga we can let it bounce (bounce)
-Take it outside, nigga f**k fallin back
+Take it outside, nigga fuck fallin back
 Killers run up in the club, ballin with a bigger stack
 
 (Chorus - 2X)

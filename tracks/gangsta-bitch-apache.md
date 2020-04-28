@@ -72,9 +72,6 @@ Right for late night, we play fight with machetes.
 This goes out to all the gangsta ho pros:
 Give me a ghetto girl, fuck a Soul Train ho
 
-
-
-
 She likes to party with her posse and drink beer
 Pour a little bit out for the sisters who ain't here
 She's not the one, player you might get done
@@ -91,9 +88,6 @@ She's a thoroughbred, walks and talks with class
 Try to get fast, she just might slap your ass
 Come meet my moms, but the two might not click
 Parents just don't understand...
-
-
-
 
 I had a church girl, quiet girl, one girl was rich
 The most memorable girl was a gangsta bitch

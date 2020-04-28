@@ -29,67 +29,67 @@ rankings:
   start_date: '1986-11-15'
 ---
 
-Hey boy 
-Its a matter of fact 
-I got what you want so don't go back 
-So come and get it let's have some fun 
-I wanna show you you're the only one 
+Hey boy
+Its a matter of fact
+I got what you want so don't go back
+So come and get it let's have some fun
+I wanna show you you're the only one
 
-He said 'You're too keen' 
-I said 'I know what you mean' 
-Deep down down inside 
-Its a matter of fact 
+He said 'You're too keen'
+I said 'I know what you mean'
+Deep down down inside
+Its a matter of fact
 
-Baby I'm waiting 
-Anticipating 
-This is more than physical 
-I can't disguise it 
-I'm so excited 
-Ooh ooh ooh yeah 
+Baby I'm waiting
+Anticipating
+This is more than physical
+I can't disguise it
+I'm so excited
+Oh oh oh yeah
 
-Hey boy 
-I've been watching you 
-Come on and show me what you can do 
-You've got what I want stop wasting time 
-You're sending shivers up and down my spine 
+Hey boy
+I've been watching you
+Come on and show me what you can do
+You've got what I want stop wasting time
+You're sending shivers up and down my spine
 
-He said 'Whatcha doing to me?' 
-I said 'You wait and see' 
-Deep down down inside 
-Its a matter of fact 
+He said 'Whatcha doing to me?'
+I said 'You wait and see'
+Deep down down inside
+Its a matter of fact
 
-Baby I'm waiting 
-Anticipating 
-This is more than physical 
-I can't disguise it 
-I'm so excited 
-Ooh ooh ooh yeah 
+Baby I'm waiting
+Anticipating
+This is more than physical
+I can't disguise it
+I'm so excited
+Oh oh oh yeah
 
-Baby I'm waiting 
-Anticipating 
-This is more than physical 
-I can't disguise it 
-I'm so excited 
-Ooh ooh ooh yeah 
+Baby I'm waiting
+Anticipating
+This is more than physical
+I can't disguise it
+I'm so excited
+Oh oh oh yeah
 
-This is more than physical 
+This is more than physical
 
 Deep down
 Deep down
 Deep down
 Deep down
 
-He said 'Whatcha doing to me?' 
-I said 'You wait and see' 
-Deep down down inside 
-Its a matter of fact 
+He said 'Whatcha doing to me?'
+I said 'You wait and see'
+Deep down down inside
+Its a matter of fact
 
-Baby I'm waiting 
-Anticipating 
-This is more than physical 
-I can't disguise it 
-I'm so excited 
-Ooh ooh ooh yeah
+Baby I'm waiting
+Anticipating
+This is more than physical
+I can't disguise it
+I'm so excited
+Oh oh oh yeah
 
 
 

@@ -1,7 +1,8 @@
 ---
 artists:
-- Eddie Money with Valerie Carter
-features: []
+- Eddie Money
+features:
+- Valerie Carter
 genres: []
 key: let-s-be-lovers-again-eddie-money-with-valerie-carter
 name: Let's Be Lovers Again

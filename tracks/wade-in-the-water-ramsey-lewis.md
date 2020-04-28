@@ -138,6 +138,6 @@ God's gonna trouble the water
 God's gonna trouble the water
 (Yeah, yeah, yeah, yeah)
 God's gonna trouble the water
-(Ooh)
+(Oh)
 God's gonna trouble the water
 Oh wade in the water

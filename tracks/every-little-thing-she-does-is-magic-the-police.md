@@ -136,10 +136,10 @@ Every little thing she does
 Every little thing she does
 Every little thing she does
 That she does is magic
-Eee oh oh, eee oh oh, eee oh oh, eee oh oh
-Eee oh oh, eee oh oh, eee oh oh, eee oh oh
-Eee oh oh, eee oh oh, eee oh oh, eee oh oh
-Eee oh oh, eee oh oh, eee oh oh, eee oh oh
+Eee oh oh, ee oh oh, ee oh oh, ee oh oh
+Eee oh oh, ee oh oh, ee oh oh, ee oh oh
+Eee oh oh, ee oh oh, ee oh oh, ee oh oh
+Eee oh oh, ee oh oh, ee oh oh, ee oh oh
 Every little thing
 Every little thing
 Every little thing, she does is magic, magic, magic

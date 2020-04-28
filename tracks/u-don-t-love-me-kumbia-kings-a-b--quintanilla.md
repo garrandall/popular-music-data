@@ -105,6 +105,5 @@ You played with my heart
 And try to play me for a fool (yea)
 And like the saying goes
 What goes around comes around
-And one day, you'll know how exactly how it feels (how it feels ooh)
+And one day, you'll know how exactly how it feels (how it feels oh
 
-(Chorus)

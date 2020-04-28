@@ -86,16 +86,10 @@ But I guess you felt like you had to set things right
 Just remember this, my girl, when you look up in the sky
 You can see the stars and still not see the light (that's right)
 
-
-
-
 Well I know it wasn't you who held me down
 Heaven knows it wasn't you who set me free
 So often times it happens that we live our lives in chains
 And we never even know we have the key
-
-
-
 
 Cause I'm already gone
 Yes, I'm already gone

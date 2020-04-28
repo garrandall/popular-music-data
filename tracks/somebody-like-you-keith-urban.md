@@ -126,7 +126,7 @@ I wanna love somebody,
 Love somebody like you.
 
 I'm ready to love somebody,
-Love somebody like you. Oooh.
+Love somebody like you. Oh.
 
 An' I wanna love somebody,
 Love somebody like you, yeah.

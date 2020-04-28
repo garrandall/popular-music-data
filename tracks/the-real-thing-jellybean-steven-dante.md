@@ -96,7 +96,7 @@ Do do do
 I just don't, don't feel the same
 I just don't, don't feel the same
 I just don't, don't feel the same
-Ooh, woah, woah woah woah
+Oh, woah, woah woah woah
 
 When I think about the love gone by
 And what I've been through

@@ -89,7 +89,7 @@ rankings:
   start_date: '2009-04-25'
 ---
 
-I go ooh ooh, you go ah ah
+I go oh oh, you go ah ah
 lalalalalalalala
 
 I can't lie lie lie lie lie lie

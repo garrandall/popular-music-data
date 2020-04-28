@@ -96,6 +96,3 @@ My love is running deeper than the night
 Stronger than the north wind blowing
 Fire burning bright, and it keeps on growing, keeps on growing
 
-
-
-

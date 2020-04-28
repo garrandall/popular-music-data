@@ -90,7 +90,7 @@ I know that I'm a very lucky guy
 To have someone like you
 I never met a girl in my life like you before
 You make all my dreams come true
-I love the way you carry you 
+I love the way you carry you
 You have a lot of class and good taste
 And you don't have to say how much you care for me
 Because it's written all over your face
@@ -99,17 +99,14 @@ Don't you know
 
 
 
-You dont have to say how much you love me, girl
+You don't have to say how much you love me, girl
 Because you show me every day
 You kiss me, you miss me, you hold me very tight
 You love me in every way
 I love the way you carry you
 You got a lotta class and good taste
-And you dont have to say how much you care for me
+And you don't have to say how much you care for me
 Because it's written all over, written all over your, your, your face, baby
-
-
-
 
 Going to the bridge
 It's written on your face

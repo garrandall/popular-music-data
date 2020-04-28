@@ -144,7 +144,7 @@ Hey, Jude (Jude, hey, Jude, whoa)
 Nah, nah nah, nah nah, nah, nah, nah nah,
 Hey, Jude
 Nah, nah nah, nah nah, nah, nah, nah nah,
-Hey, Jude (ooh)
+Hey, Jude (oh)
 Nah, nah nah, nah nah, nah, nah, nah nah,
 Hey, Jude
 Nah, nah nah, nah nah, nah, nah, nah nah,

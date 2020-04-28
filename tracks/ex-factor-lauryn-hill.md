@@ -101,7 +101,7 @@ rankings:
 Y-yo.. , y-yo.. uhh
 Y-yo.. , y-yo.. uhh
 Y-y-yo.., yo, y-yo..
-Y-y-yo.. 
+Y-y-yo..
 
 Y-yo..
 uhh, y-yo..
@@ -174,7 +174,7 @@ Cry for me, cry for me, you said you'd die for me!
 Give to me, give to me, why won't you live for me?
 
 Ohh noo.. why won't you live for me?
-Why..hahhhihhhhhh, won't you live, for me, for me, for meeee
+Why...hahhhihhhhhh, won't you live, for me, for me, for meeee
 
 Care for me, care for me, I know you care for me
 There for me, there for me, said you'd be there for me

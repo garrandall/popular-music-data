@@ -104,18 +104,18 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-03-08'
 ---
-Ooh...
+Oh...
 Whoa, whoa, whoa...yeah
 
 You glanced my way
 I lost all control
 Anxiety had taken hold
 My body quivered
-Hot flashes ignited in me, ooh, ooh, ooh...
+Hot flashes ignited in me, oh oohohoh
 Gazing deep into my eyes
 You spoke these words
 I was hypnotized
-Let me share a night in your fantasy, ooh, ooh
+Let me share a night in your fantasy, oh oh
 
 Turn on emotions so strong
 Passion's fire burns on and on

@@ -48,7 +48,7 @@ rankings:
 
 
 Raindrops on my window seal (well, well, well)
-It's quiet as a mouse in here (oh, oh, ooh)
+It's quiet as a mouse in here (oh, oh, oh
 You're somewhere with the girls doing nails
 Dinner's takeout, no homecooking all year
 Ain't no use pretending (no, no)
@@ -93,7 +93,7 @@ But I know some things will never change
  Breakdown
  If you ever loved me
  I love you baby, Ron I love you
- Oh, oh, ooh, how could you leave
+ Oh, oh, oh how could you leave
  That a right, I'm gonna tell you why
 You been Mr. Bigg
 You been Mr. Bigg too long
@@ -101,7 +101,4 @@ Now honey here's Mrs. Bigg
  talk to me
  That's what I've been doing all for twenty long years
  Yeah
-
-
-
 

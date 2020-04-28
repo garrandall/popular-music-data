@@ -97,7 +97,7 @@ I hope that your eyes can see
 That I need someone
 (Yeah)
 To love me for me
-(Mmm, hmm)
+(Mmm, hm)
 Me
 
 

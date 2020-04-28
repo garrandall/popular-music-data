@@ -120,17 +120,17 @@ She said Ive a confession to make
 I said Woman, speak whats on your mind
 She said Ive found somebody new
 To take your place
-I said dont feel so all alone
+I said don't feel so all alone
 Ive found someone of my own
 All those lonely nights
 You left me all alone
 My true love would call
 And talk to me on the phone
 I said Woman, if thats the way its gotta be
-Then darlin, dont you worry about me
+Then darlin, don't you worry about me
 She said Ive found somebody new
 To take your place
-I said dont feel so all alone
+I said don't feel so all alone
 Ive found someone of my own
 I got up from the table
 Reached down and wiped the tears
@@ -139,5 +139,5 @@ I put out my cigarette
 Turned and walked away
 She said Ive found somebody new
 To take your place
-I said dont feel so all alone
+I said don't feel so all alone
 Ive found someone of my own

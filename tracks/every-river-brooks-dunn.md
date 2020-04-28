@@ -56,9 +56,6 @@ And I'll be there to catch you baby
 Should you ever fall
 
 
-
-
-
 And every river run dry
 
 

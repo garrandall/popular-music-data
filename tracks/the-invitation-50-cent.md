@@ -51,8 +51,8 @@ You jus' bleed and bleed till the police come! - Huh? You want some?
 I got a 8th of dope left  half a pound of purple
 Shooters in my circle! - TRY ME I let 'em murk you!
 Got more guns than a gun store, beefin' what you want boy
-You wan' be nice to me? ! - You wan' shoot dice with me? !
-You want a ace on purpose? ! - Why you so nervous?
+You wan' be nice to me?! - You wan' shoot dice with me?!
+You want a ace on purpose?! - Why you so nervous?
 Nigga we from the same hood! - We come from the same shit!
 You got gonorrhea too, we fucked with the same bitch!
 Gettin' money is necessary so me I'm a visionary!
@@ -69,10 +69,10 @@ Till it's rusty and fucked up, forensics have fun! - What?
 
 
 Come get it, I'm strapped now, I'm with it!
-Come get it! 
+Come get it!
 Huh, you want some?
 Come get it, I'm strapped now, I'm with it!
-Fuck that nigga! 
+Fuck that nigga!
 Huh, you want some?
 
 

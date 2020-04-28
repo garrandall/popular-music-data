@@ -72,9 +72,6 @@ I'm a boss and I ride them like a small Vogue
 Niggers make you wheels and ride them until they fall off
 Yeah, Ross
 
-
-
-
 All black Maybach, I'm sittin' in the asshole
 Classy as a mother still gutter as a bad ball
 Benjamin Franklin on ex how that cash roll
@@ -92,8 +89,4 @@ You see the Big, you see the Jay, the 2Pac in him
 
 The Kurt Cobain and Andre Three Stacks then I'm back to doing shit like I do
 Sing Maybach Music
-
-
-
-
 

@@ -34,7 +34,7 @@ A&X
 El Orfanato
 Danza Kuduro (Plop, Plop, Plop...)
 Lucenzo
-El Rey...! 
+El Rey!
 La Mano Arriba
 Cintura Sola
 Da Media Vuelta
@@ -53,7 +53,7 @@ Mueve La Cabeza
 Danza Kuduro
 Quien Puede Domar La Fuerza Del Mal Que Se Mete Por Tus Venas
 Lo Caliente Del Sol Que Se Te MetiÃ³ Y No Te Deja Quieta, Nena
-Quien Puede Parar Eso Que Al Bailar Descontrola Tus Caderas (Sexy...!)
+Quien Puede Parar Eso Que Al Bailar Descontrola Tus Caderas (Sexy)
 Y Ese Fuego Que Quema Por Dentro Y Lento, Te Convierte En Fiera
 
 Con La Mano Arriba
@@ -71,11 +71,11 @@ Quero ver mexe cÃº duro
 BalanÃ§ar que Ã© uma loucura
 Morena vem o meu lado
 NinguÃ©m vai ficar parado
-Oi, oi, oi, oi, oi, oi, oi... 
+Oi, oi, oi, oi, oi, oi, oi...
 Vem para quebrar kuduro, vamos danÃ§ar kuduro
-Oi, oi, oi, oi, oi, oi, oi... 
+Oi, oi, oi, oi, oi, oi, oi...
 Ta issa morena o loira vem balanÃ§ar kuduro
-Oi, oi, oi... 
+Oi, oi, oi...
 La Mano Arriba
 Cintura Sola
 Da Media Vuelta
@@ -101,11 +101,11 @@ Quero ver mexe cÃº duro
 BalanÃ§ar que Ã© uma loucura
 Morena vem o meu lado
 NinguÃ©m vai ficar parado
-Oi, oi, oi, oi, oi, oi, oi... 
+Oi, oi, oi, oi, oi, oi, oi...
 Vem para quebrar kuduro, vamos danÃ§ar kuduro
-Oi, oi, oi, oi, oi, oi, oi... 
+Oi, oi, oi, oi, oi, oi, oi...
 Ta issa morena o loira vem balanÃ§ar kuduro
-Oi, oi, oi... 
+Oi, oi, oi...
 El Orfanato
 La Mano Arriba
 Cintura Sola

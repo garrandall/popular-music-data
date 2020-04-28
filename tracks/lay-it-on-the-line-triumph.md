@@ -60,11 +60,9 @@ We better talk girl before it gets too late
 I never ever thought you could be so unkind
 Won't you lay it on the line
 
-Chorus
 
 You know I love you, you know it's true
 It's up to you, girl,now what've I got to do
 Don't hold me up, girl, don't waste my precious time
 Won't you lay it on the line
 
-Chorus

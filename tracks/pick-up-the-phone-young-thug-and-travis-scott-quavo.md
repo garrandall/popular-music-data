@@ -91,14 +91,14 @@ rankings:
 ---
 Yeah
 Oh, yeah, uh
-Ooh, Thugger, yeah
+Oh, Thugger, yeah
 Yeah
 Travis Scott
 Thugger, Thugger, bitch
 Yeah
 
 
-I pour a four up (Ooh, ooh)
+I pour a four up (Oh, oh
 I call your ho up (Yeah)
 Just to fuck her and show her (Just to fuck)
 I just went got my dough up (I just went got my dough up)
@@ -109,8 +109,8 @@ Then I'm callin' your ho up (Callin' your ho up)
 
 
 (Like, "Brrt")
-Pick up the phone, baby (Yeah, ooh, like, "Brrt")
-I know you're home, baby (Ooh, it's lit)
+Pick up the phone, baby (Yeah, oh like, "Brrt")
+I know you're home, baby (Oh, it's lit)
 I'm in the zone, baby (Zoned out, straight up)
 I just poured up a four, baby (Pour it up, yeah, yeah)
 
@@ -119,15 +119,15 @@ Never will I cheat on you (Yeah)
 Never will I commit treason
 Blowin' a bag on you (Yeah)
 Do all of that for no reason
-I'ma pull up MR2 (Ooh, yeah)
+I'ma pull up MR2 (Oh, yeah)
 Hittin' the block and I'm bleedin'
 Throwing that Rollie on you (Yeah)
 I like the way it be freezin', yeah
 
 
 (Like, "Brrt")
-Pick up the phone, baby (Ooh, like, "Brrt")
-I know you're home, baby (Ooh, it's lit)
+Pick up the phone, baby (Oh, like, "Brrt")
+I know you're home, baby (Oh, it's lit)
 I'm in the zone, baby (Zoned out, straight up)
 I just poured up a four, baby (Pour it up, yeah, yeah)
 
@@ -157,8 +157,8 @@ She gon' do anything in her power to be with ya boy
 
 
 (Like, "Brrt")
-Pick up the phone, baby (Ooh, like, "Brrt")
-I know you're home, baby (Ooh, it's lit)
+Pick up the phone, baby (Oh, like, "Brrt")
+I know you're home, baby (Oh, it's lit)
 I'm in the zone, baby (Zoned out, straight up)
 I just poured up a four, baby (Pour it up, yeah, yeah)
 
@@ -196,8 +196,8 @@ Best believe it's only one time (Brrt)
 
 
 (Like, "Brrt")
-Pick up the phone, baby (Ooh, like, "Brrt")
-I know you're home, baby (Ooh, it's lit)
+Pick up the phone, baby (Oh, like, "Brrt")
+I know you're home, baby (Oh, it's lit)
 I'm in the zone, baby (Zoned out, straight up)
 I just poured up a four, baby (Pour it up, yeah, yeah)
 

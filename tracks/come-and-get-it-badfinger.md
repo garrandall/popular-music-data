@@ -89,7 +89,7 @@ Sonny, if you want it, here it is come and get it
 But you better hurry 'cause it's going fast
 
 You'd better hurry 'cause it's going fast
-Ooh-ooh-ooh, fool and his money
+Ohohoohfool and his money
 
 Sonny, if you want it, here it is come and get it
 But you better hurry 'cause it's going fast

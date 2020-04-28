@@ -45,7 +45,7 @@ Now here's the host, from the coast. Sounds like a frog doin' the monologue. It'
 
 "Yeah, baby, it's the Sheepdog, Sheepdog, Sheepdog ...crazy, too cool, out of sight, right on, and far out! Yeah, join my rock here for the next greatest hour in town here on the Moonlight Special. Yeah, dig it, what a show we got for you tonight folks. And here to get things rollin' is the fabulous Mildred Queen and the Dipsticks, yeah..."
 
-"I love you ; yes I do , really do ; and I just wanted to take the time to show how much you really mean to me ; and I promise to love and be yours forever if you'll only stay with me ; wait a minute ; how come you sayin' everything that I say? ; now cut that out! ; stop that! ; now I know why they call you guys the dips ; you're dippy ; aaaahhhh "
+"I love you ; yes I do , really do ; and I just wanted to take the time to show how much you really mean to me ; and I promise to love and be yours forever if you'll only stay with me ; wait a minute ; how come you sayin' everything that I say? ; now cut that out! ; stop that! ; now I know why they call you guys the dips ; you're dippy ; ah "
 
 "How about that all you hippie, dudes, and chickies out there! Mildred Queen and the Dips here on the Moonlight Special!"
 

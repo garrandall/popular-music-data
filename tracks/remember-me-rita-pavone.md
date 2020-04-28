@@ -45,7 +45,7 @@ rankings:
   start_date: '1964-08-01'
 ---
 You walked right by me
-Like you never knew ooh ooh me
+Like you never knew oh oh me
 You didn't even nod your head
 You just walked out with her instead
 

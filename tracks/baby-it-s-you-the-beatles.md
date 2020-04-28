@@ -60,9 +60,6 @@ Don't want nobody, nobody
 'Cause baby, it's you (Sha la la la la la la)
 Baby, it's you (Sha la la la la la la)
 
-
-
-
 Uh oh
 It doesn't matter what they say
 I know I'm gonna love you any old way

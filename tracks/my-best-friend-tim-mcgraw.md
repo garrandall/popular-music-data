@@ -124,7 +124,7 @@ Oh we just get closer, I fall in love all over
 Every time I look at you
 And I don't know where I'd be, without you here with me
 Life with you makes perfect sense
-You're my best friend, ooh-oh oh
+You're my best friend, ohoh oh
 You're my best friend
 
 

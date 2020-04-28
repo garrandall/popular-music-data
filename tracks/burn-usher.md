@@ -188,12 +188,12 @@ Let it burn, let it burn, gotta let it burn
 
 
 I'm twisted 'cause one side of me is telling me that I need to move on
-On the other side, I wanna break down and cry, oooh
+On the other side, I wanna break down and cry, oh
 I'm twisted 'cause one side of me is telling me that I need to move on
 On the other side, I wanna break down and cry, yeah
-Ooh, ooh, ooh, ooh, ooh, ooh
-Ooh, ooh, ooh (can you hear me burning?)
-Ooh, ooh, ooh, ooh, ooh, ooh
+Oh, oh, oh, oh, oh, oh
+Oh, oh, oh (can you hear me burning?)
+Oh, oh, oh, oh, oh, oh
 So many days, so many hours
 I'm still burning 'til you return (let it burn)
 

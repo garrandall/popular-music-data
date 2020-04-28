@@ -137,7 +137,7 @@ I'm yours
 (I'm yours)
 I'm yours
 I'm yours
-(Ooh, I'm yours)
+(Oh, I'm yours)
 I'm yours
 (Remember I am yours)
 

@@ -98,7 +98,7 @@ HmmmMMMMMM (Ruff Ryders) DMX break em off
 What these bitches want from a nigga?
 Break em off, some..
 
-Aiyyo!! Dog, I meet bitches, discrete bitches
+Aiyyo! Dog, I meet bitches, discrete bitches
 Street bitches, slash, Cocoa Puff sweet bitches (WHAT?)
 Make you wanna eat bitches, but not me
 Y'all niggas eat off the plate all you want but not D (UHH)

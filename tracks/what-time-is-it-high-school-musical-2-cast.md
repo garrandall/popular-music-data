@@ -52,7 +52,7 @@ That's right! Say it loud!
 What time is it? (Time of our lives!)
 Anticipation!
 What time is it? (Summertime!)
-School's out, scream and shout!!
+School's out, scream and shout!
 
 ZAC:
 

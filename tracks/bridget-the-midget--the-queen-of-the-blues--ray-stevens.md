@@ -77,7 +77,7 @@ Wow, that makes me feel so good
 Let me hear it again
 Do you feel alright? (Yeah!)
 
-Oooh, ooohooohooohoo
+Oh, ooohooohooohoo
 Yeah, yeah, yeah, hahahaha
 
 Alright, hahaha
@@ -88,14 +88,14 @@ Is everybody ready?
 Here we go, everybody sock it to me
 Yohohohoho (Yohohohoho), hahahaha
 Yohohohoho (Yohohohoho)
-Oooh, yeaheah! (Yeaheaheah!)
+Oh, yeaheah! (Yeaheaheah!)
 
 Well, come on everybody have you heard the news
 Bridget's in town put on your rockin' shoes
 Into my bag and doing my thing
 Rock it to me, sock it to me, listen to me sing
 
-Singing oooh, oooh, oooh, oooh, oooh
+Singing oh, oh, oh, oh, oh
 
 Oh I dig it, I really dig it
 
@@ -109,7 +109,7 @@ Here's Bridget the midget and her flying feet
 The worlds one and only go-go tapdancer, go!
 
 Hahahaha
-Oooh!
+Oh!
 
 Oho, I dig it, I really dig it
 
@@ -138,7 +138,7 @@ Bridget's in town, put on your rockin' shoes
 Into my bag and doing my thing
 Rock it to me, sock it to me, listen to me sing
 
-Singing oooh!
+Singing oh!
 (Shoobydoo-wop-wop)
 (Shoobydoo-wop-wop)
 

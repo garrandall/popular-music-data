@@ -99,7 +99,7 @@ Got them hoes like who the fuck is that?
 I'm like right left, back forth
 Yeah I got the money, nigga thats of course
 Hit the stage with a b-boy stance
-The club owner like ooo wee
+The club owner like oo wee
 Ain't nothin' for me to come through and shut the club down
 Walk through the club me and mug haters down
 Drop a stack at the bar, a hundred Louis thirteen

@@ -141,5 +141,5 @@ And I'd relive all the years
 And be thankful for the tears
 I've cried with every stumbled step
 That led to you and got me heeere, right here
-Oh, baby....Ooohhh
+Oh, baby...Oh
 Oh, got me here

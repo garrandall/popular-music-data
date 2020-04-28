@@ -75,9 +75,9 @@ rankings:
 ---
 Lumidee:
 Listen baby i've been around
-I know that you like how i wear my crown
-And i know that im something that is so profound
-So far what im hearing look i like the sound
+I know that you like how I wear my crown
+And I know that im something that is so profound
+So far what im hearing look I like the sound
 Everybodys talking about it
 We would be talkin why would you doubt it
 Your palms are sweaty n your heart sounds poundin
@@ -90,14 +90,14 @@ She ride all night... next to me
 Like you won't believe... no...
 She leaves me the moonlight
 Only to burn me with the sun
-Dam it i believe she knows
+Dam it I believe she knows
 She taking my heart
 She doesnt know what shes done...baby please
-I feel her breathe in my face(baby i can feel)
+I feel her breathe in my face(baby I can feel)
 Her body's close to me
 Can't look in her eyes
-Shes out of my league(shes out of my league oohhh)
-Just a fool to believe she got everything i need
+Shes out of my league(shes out of my league oh)
+Just a fool to believe she got everything I need
 Shes like the wind
 
 Lumidee:
@@ -105,40 +105,40 @@ If you can't conceive it muffin
 Cuz you just let it be itz nothin
 Look we just hangin around
 Sneaking a look
-When i can jus put you down
+When I can jus put you down
 
 Tony Sunshine:
-Girl i look in the mirror
-And all i see
+Girl I look in the mirror
+And all I see
 Is a young old man with only a dream
-Am i just foolin myself yea
+Am I just foolin myself yea
 Thinkin she'll stop the pain(Yes she will, yes she will)
 Livin without her... i'd go insane
-Dam it i believe she knows
+Dam it I believe she knows
 Her body's close to me
 Can't look in her eyes
-Shes out of my league(shes out of my league oohhh)
-Just a fool to believe she got everything i need
+Shes out of my league(shes out of my league oh)
+Just a fool to believe she got everything I need
 Shes like the wind
 
 Lumidee:
 Look im right here
 Cmon toughin up
 Boo get it together and just try your luck
-Ever since i heard you got this lil crush i
+Ever since I heard you got this lil crush i
 Pass your way and its givin me a rush
-So i peeped your style yes im inpressed
+So I peeped your style yes im inpressed
 Always with the best put em other doods to the rest
-So you ain't go to stress i got what you need
+So you ain't go to stress I got what you need
 I could ease your pain and fulfil all your dreams
 
 Tony Sunshine:
-Just a fool to believe she got everything i need
+Just a fool to believe she got everything I need
 I feel her breathe in my face
 Her body's close to me
 Can't look in her eyes
 Shes out of my league
-Just a fool to believe she got everything i need
+Just a fool to believe she got everything I need
 Shes like the wind
 
 Lumidee:
@@ -146,7 +146,7 @@ If you can't conceive it muffin
 Cuz you just let it be itz nothin
 Look we just hangin around
 Sneaking a look
-When i can jus put you down(x2)
+When I can jus put you down(x2)
 
 Tony Sunshine(end):
 Shes like the wind...

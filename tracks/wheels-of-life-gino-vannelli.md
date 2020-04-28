@@ -52,7 +52,7 @@ And if I should only have one tomorrow
 It's a lifetime if I knew
 I could spend that day with you
 
-Ooh, the wheels of love will turn my world forever
+Oh the wheels of love will turn my world forever
 I want you in my arms for all time
 And maybe love will come to rescue me
 And I'll never ever set you free

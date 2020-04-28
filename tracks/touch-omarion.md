@@ -60,9 +60,6 @@ Not tryna be
 Disrespectful
 But I just want to get you
 
-
-
-
 When you walk in
 In your sexy lingerie
 In the middle of the doorway
@@ -76,9 +73,6 @@ Oh baby by the way (Oh baby by the way)
 Tell me no I want you (tell me no I want you)
 Cause you know at the end of the day (Cause you know at the end of the day)
 Everything is up to you (Everything...yeah right)
-
-
-
 
 Yeah
 Now we close to the end

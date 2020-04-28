@@ -57,6 +57,3 @@ Gives us just one perfect night
 To say "oh, what a beautiful life"
 "Oh, what a beautiful life"
 
-
-
-

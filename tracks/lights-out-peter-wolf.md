@@ -127,8 +127,8 @@ Lights out, aha
 
 Dance, dance, dance
 Radio of love
-Oooh, girl, in the dark
+Oh, girl, in the dark
 Shine on, love
-Oooh, girl, in the dark
-Oooooh, aah baby
-Oooh, girl, in the dark
+Oh, girl, in the dark
+Oh, ah baby
+Oh, girl, in the dark

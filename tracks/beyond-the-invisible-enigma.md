@@ -24,21 +24,21 @@ rankings:
 I look into the mirror
 See myself, I'm over me
 I need space for my desires
-Have to dive into my fantasies    
+Have to dive into my fantasies
 I know as soon as I'll arrive
 Everything is possible
 Cause no one has to hide
-Beyond the invisible    
-Sajaja bramani totari ta,  raitata raitata, radu ridu raitata, rota 
-The brave and wise men came together on horse 
+Beyond the invisible
+Sajaja bramani totari ta,  raitata raitata, radu ridu raitata, rota
+The brave and wise men came together on horse
 Close your eyes
 Just feel and realize
 It is real and not a dream
-I'm in you and you're in me    
+I'm in you and you're in me
 It is time
 To break the chains of life
 If you follow you will see
-What's beyond reality    
+What's beyond reality
 Ne irascaris Domine,
 ne ultra memineris iniquitatis:
 ecce civitas Sancti facta est deserta:

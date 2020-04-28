@@ -92,7 +92,7 @@ And remind me
 Yeah you come back that easy.
 I've tries restaurants I've never been to
 Ordered new things off the menu
-That i never tried
+That I never tried
 'Cause you didn't like,
 but two drinks in and you're by my side
 
@@ -101,7 +101,7 @@ I've talked to friends
 Talked to myself
 Talked to god
 I prayed like hell
-But i still miss you
+But I still miss you
 I tried sober I tried drinkin'
 I've been strong and I've been weak
 But I still miss you.
@@ -135,7 +135,7 @@ I'd give anything for one more minute with you
 I still miss you yeah
 
 I still miss you
-I still miss you...... yeah.... yeah.....
+I still miss you... yeah... yeah...
 
 
 

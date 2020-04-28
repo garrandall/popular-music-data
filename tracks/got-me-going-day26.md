@@ -20,7 +20,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-04-26'
 ---
-(Verse 1: Brian)
 There's no other love
 There's nobody else I'm thinking of
 Only you baby you're special
@@ -29,15 +28,13 @@ And let the moment slip away
 We've been here for a while ha!
 And I just wanna take you away
 
-(Pre-Chorus: Willie)
 You got me doing things I never do
 I can't stop feenin' and dreamin' about you oh
 And about your love it feels so real to me
 You know what to say
 And you know just what to do (come get me)
 
-(Chorus: Willie)
-What you got for me (oooh)
+What you got for me (oh
 I wanna see (you know what I wanna see)
 I've been waitin' way too long
 (Got me losin' my cool)
@@ -45,7 +42,6 @@ Don't know what I'm gon' do (hey listen)
 You got me going
 You got me going
 
-(Verse 2: Brian)
 I can't wait no longer
 My anxiety is building up
 Moments turn into hours
@@ -54,25 +50,20 @@ Can someone tell me the time
 I don't wanna wait in vain
 And I don't wanna deal with the pain
 
-(Pre-chorus: Robert)
 You got me doin' things I never do
 I can't stop feenin' and dreamin' about you oh whoa
 And about your love it feels so real to me
 You know what to say
 And you know just what to do... (come get me)
 
-(Chorus:Robert)
-What you got for me (ooh)
+What you got for me (oh)
 I wanna see
 I've been waitin' way too long (I've been waitin' way)
 (Got me losin' my cool)
-Don't know what I'm gon' do (yeah...)
+Don't know what I'm gon' do (yeah)
 You got me going (said you got me going)
 You got me going (said you got me going)
 
-(Chorus)
-
-(Bridge: All & Big Mike w/ adlibs)
 So beautiful (so beautiful)
 Won't you let go (won't you let go)
 I wanna know
@@ -90,17 +81,14 @@ Ready to give you my love (my love)
 You already know it
 Girl you got me going (baby you got me)
 
-(Chorus: Big Mike)
 What you got for me (yeah)
 I wanna see (that's what I wanna see)
 I've been waitin' way too long
 (Got me losin' my cool)
-Don't know what I'm gon' do (ooh yeah yeah...)
-You got me going (you got me...)
+Don't know what I'm gon' do (oh yeah yeah)
+You got me going (you got me)
 You got me going (hey)
 
-(Chorus)
-(Outro: All)
 Know what I want from you
 So what you got baby
 You know I wanna see

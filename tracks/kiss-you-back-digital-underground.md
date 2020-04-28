@@ -105,7 +105,7 @@ If you kiss me then I'll kiss you back
 You see, I feel real good inside, and it's just from your nearness
 there's no need for you to fear this
 Kiss me, I'll kiss you back
-mmmm-
+mmm-
 
 Well ya look kinda cute to me
 I think we can achieve this

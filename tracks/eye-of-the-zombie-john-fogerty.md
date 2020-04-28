@@ -25,7 +25,7 @@ rankings:
   start_date: '1986-09-27'
 ---
 
-Hoo! Oooooh!
+Hoo! Oh!
 
 Shadows on the mountain, and the night begins to fall;
 Gather up the children, 'fore the darkness takes us all.
@@ -38,19 +38,15 @@ Eye-eye-eye eye of the Zombie!
 
 Oh! Sneakin' through the long grass on leopard feet silently,
 A beast already dead comes to join the dance on the zombie.
-Ooh! Time has come again - again the moment of truth;
+Oh Time has come again - again the moment of truth;
 The terror is at hand, and there's nothin' you can do.
 
 
 
-Oh! Hoo! Aaa-aah! Hoo! Aaa-aaa-aaaah!
+Oh! Hoo! Ah! Hoo! Ah!
 
 From out of nowhere he's there, flashing hideous teeth,
 Panic in the crowd, helter-skelter, we're brought to our knees.
 Back to the darkness, back on the mountain he stands,
 You can't fight a shadow, you can't kill a dead man.
-
-
-
-
 

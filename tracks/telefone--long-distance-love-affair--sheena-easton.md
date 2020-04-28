@@ -159,7 +159,7 @@ I can't find you anywhere, oh, oh
 I call you on the telephone
 But you're never home
 
-Long, long distance love affair....
+Long, long distance love affair...
 
 
 

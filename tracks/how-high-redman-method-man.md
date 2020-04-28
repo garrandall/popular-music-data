@@ -71,7 +71,7 @@ rankings:
 Excuse me as I kiss the sky
 Sing a song of sixpence, a pocket full a rye
 Who the fuck wanna die for their culture
-Stalk the dead body like a vulture, Ticalion, hmm
+Stalk the dead body like a vulture, Ticalion, hm
 Blacker than your blackest stallion
 Hit your housing projects
 I represent yo Shaolin my nigga

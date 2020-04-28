@@ -1,6 +1,7 @@
 ---
 artists:
-- Phil Collins and Marilyn Martin
+- Phil Collins
+- Marilyn Martin
 features: []
 genres: []
 key: separate-lives-phil-collins-and-marilyn-martin

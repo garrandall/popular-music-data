@@ -90,7 +90,7 @@ rankings:
 ---
 
 I don't want to spend another lonely night
-ooooooo
+oo
 
 I've got the lights turned up
 The door is locked, the bedroom TV's on
@@ -117,8 +117,8 @@ Prayin for daylight
 Hoping that I didn't wait too long
 That this is just the dark before the dawn
 
-Deep in my heart I know 
-That you love me as much as i love you
+Deep in my heart I know
+That you love me as much as I love you
 And that you must be lying somehwere
 Looking up to heaven too
 

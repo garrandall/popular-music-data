@@ -114,7 +114,3 @@ I gave you all I had
 You left me without nothin'
 Nothin' but a photograph
 
-
-
-
-

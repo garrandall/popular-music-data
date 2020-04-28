@@ -92,13 +92,13 @@ Soulja Boy Tellem!
 Hopped up off tha bed,
 Turn ma swag on,
 Took a look in tha mirror said wassup
-Yeeeeea I'm gettin money (ohh)
+Yeeeeea I'm gettin money (oh)
 
 Soulja Boy Tellem!
 Hopped up off tha bed,
 Turn ma swag on,
 Took a look in tha mirror said wassup
-Yeeeeea I'm gettin money (ohh)
+Yeeeeea I'm gettin money (oh)
 
 Turn ma swag on,
 It's ma turn now turn it up
@@ -124,12 +124,12 @@ Boy wassup, yeeeea
 Hopped up off tha bed
 Turn ma swag on
 Took a look in tha mirror said wassup
-Yeeeeea I'm gettin money (ooh)
+Yeeeeea I'm gettin money (oh
 
 Hopped up off tha bed
 Turn ma swag on
 Took a look in tha mirror said wassup
-Yeeeeea I'm gettin money (ooh)
+Yeeeeea I'm gettin money (oh
 
 I'm back again,
 I know a lot of yall thought I
@@ -154,9 +154,9 @@ Yeeeeea, yeeeea
 Hopped up off tha bed
 Turn ma swag on
 Took a look in tha mirror said wassup
-Yeeeeea I'm gettin money (ooh)
+Yeeeeea I'm gettin money (oh
 
 Hopped up off tha bed
 Turn ma swag on
 Took a look in tha mirror said wassup
-Yeeeeea I'm gettin money (ooh)
+Yeeeeea I'm gettin money (oh

@@ -64,9 +64,9 @@ As we slept the night away
 As we lay
 We forgot about tomorrow
 As we lay
-Ooh hey, hey
+Oh hey, hey
 
-As we lay 
+As we lay
 Didn't think about
 The price we'd have to pay
 No, no, no
@@ -82,7 +82,7 @@ She would never understand
 You belong to me for just one night
 As we slept the night away
 
-Ooh oh, whoa
+Oh oh, whoa
 
 I would never, never want to hurt her, no, no, no
 She would never understand
@@ -92,9 +92,9 @@ As we slept the night away
 As we lay
 We forgot about tomorrow
 As we lay
-Ooh hey, hey
+Oh hey, hey
 
-As we lay 
+As we lay
 Didn't think about
 The price we'd have to pay
 No, no, no

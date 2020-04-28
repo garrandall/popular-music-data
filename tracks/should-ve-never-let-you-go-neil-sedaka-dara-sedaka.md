@@ -131,7 +131,7 @@ You're the kind I can't forget
 Let the tears begin to flow
 
 I have only one regret
-I should have never let you.....go
+I should have never let you...go
 Should have never let you go
 
 Should have never let you go

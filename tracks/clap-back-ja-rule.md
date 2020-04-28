@@ -52,39 +52,39 @@ rankings:
 
 Yeah, yeah.. haha yeah!
 I gotta get my headphones
-All my gangsta niggaz is in the building on this one!
+All my gangsta niggas is in the building on this one!
 You know! Yeah yeah ya know
-It's real!! Hussein what's happ'nin nigga?
-I see you, aight Shadow what's poppin BLAT!!
+It's real! Hussein what's happ'nin nigga?
+I see you, aight Shadow what's poppin BLAT!
 Haha haha, yeah my nigga O-1 in the motherfucking house
 Jody in the house (Jody Mack!)
 My nigga Cadillac, Gotti what up!?!
 Blackchild what up!?!
-I'd like to welcome all my niggaz
+I'd like to welcome all my niggas
 To the world famous Murda Inc. Show
-Big shout to all my Queens niggaz in Staten Island
-Niggaz in Uptown, niggaz in Brooklyn niggaz
-All my Bronx niggaz yeah, all my Jersey niggaz! you know?
-We doing it real big right here! all my money niggaz
+Big shout to all my Queens niggas in Staten Island
+Niggas in Uptown, niggas in Brooklyn niggas
+All my Bronx niggas yeah, all my Jersey niggas! you know?
+We doing it real big right here! all my money niggas
 This shit commentated on the one's and two's!
 They call me the Mighty Rule! how ya living?
 This real shit we talking
-I wanna ask all my gangsta niggaz a real question (holla back)
-What do you do - when niggaz spit at you?!
+I wanna ask all my gangsta niggas a real question (holla back)
+What do you do - when niggas spit at you?!
 
 
 Clap back, we gon' clap back
 We gon' clap back, we gon' clap back
-(Let's take 'em to war niggaz!)
+(Let's take 'em to war niggas!)
 We gon' clap back, we gon' clap back
 We gon' clap back, we gon' clap back
-(Let's take 'em to war niggaz)
+(Let's take 'em to war niggas)
 We gon' clap back, we gon' clap back
 We gon' clap back, we gon' clap back
-(Let's take 'em to war niggaz!)
+(Let's take 'em to war niggas!)
 We gon' clap back, we gon' clap back
 We gon' clap back, we gon' clap back
-(Let's take 'em to war niggaz)
+(Let's take 'em to war niggas)
 We gon' clap back, we gon' clap back
 
 
@@ -116,7 +116,7 @@ Thats is known for quick shit, trying to ride my dick
 I can't handle it, lower their manners
 To get they ass infront of my dick to dance, the bitch want more chance
 Catching hate from a glance, but I'm a giant
-These niggaz is mere ants, I'll stomp 'em wit his thang
+These niggas is mere ants, I'll stomp 'em wit his thang
 Give bitches the back hand, pimp shit, it's not realistic
 The game is helpless, let's not get it twisted
 I'm young, wrapped, and gifted, but still at the bottom
@@ -142,7 +142,7 @@ And God gave me his blessings to handle my business
 All these wanksta snitches, let the nina blow kisses
 If she some how misses, he gon' meet the mistress
 And "Clap that boy" like Birdman and Clipse
-I got these niggaz all over my dick, like hoes
+I got these niggas all over my dick, like hoes
 I'm the star at these shows, I must be as hot as they come
 What's the procedure with a gun in your face
 When you got one in your waist, let's cock back nigga air out the space!
@@ -159,8 +159,8 @@ When you got one in your waist, let's cock back nigga air out the space!
  It's not a game no mo'
  Queens in this motherfucker
  You know
- All my Jersey niggaz, all my Boston niggaz
- All my Brooklyn niggaz, Brooklyn sir what up!
+ All my Jersey niggas, all my Boston niggas
+ All my Brooklyn niggas, Brooklyn sir what up!
  Haha, yeah, holla at me man
 
 

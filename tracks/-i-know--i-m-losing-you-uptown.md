@@ -64,7 +64,7 @@ Can feel the presence of another man
 
 It's there when you speak my name
 It's just not the same
-Ooh babe, I'm losing you
+Oh babe, I'm losing you
 
 It's in the air
 It's there everywhere

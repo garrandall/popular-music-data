@@ -73,7 +73,7 @@ Me and him and this other fool decide
 That we'll drink up what's left
 Chug-a-lug, so we helped ourself
 First time for everything
-Hmm, my ears still ring
+Hm, my ears still ring
 
 Chug-a-lug, chug-a-lug
 Make you want to holler hi-de-ho

@@ -74,7 +74,7 @@ rankings:
  Uh
  So special
  LB Dub
- Ahhh
+ Ah
  That's my girl, yeah
  True that
  That's my girl
@@ -157,7 +157,7 @@ Yep, that's my girlfriend
 All mine, all mine (she rockin that Louie V)
 Shawty with me all the time
 Stay hot, stay fly
-Keep her right by my side, (and she so fine cant you see)
+Keep her right by my side, (and she so fine can't you see)
 Yep, that's my boyfriend
 Yep, that's my girlfriend
 Yep, that's my boyfriend
@@ -171,8 +171,8 @@ Always paying the bills (yeahh)
 I keep it G
 Yeah shawty put me down
 I spend a G every time she comes around
-She's my girl but I wanna tip her, yeeah
-And her body's built like a stripper, yeeah
+She's my girl but I wanna tip her, yeah
+And her body's built like a stripper, yeah
 We keep it hot up in that Range
 With the feet up on the dashboard, dashboard
 She'll do anything I like (yeaaahhhh, yeeahhh)
@@ -190,7 +190,7 @@ Yep, that's my girlfriend
 All mine, all mine
 Shawty with me all the time (she be with me all the time)
 Stay hot, stay fly
-Keep her right by my side, (ohh, she's so beautiful)
+Keep her right by my side, (oh, she's so beautiful)
 Yep, that's my boyfriend
 Yep, that's my girlfriend
 Yep, that's my boyfriend
@@ -221,7 +221,7 @@ Yep, that's my boyfriend
 All mine, all mine
 Shawty with me all the time (shawty wit me all the time)
 Stay hot, stay fly
-Keep her right by my side, (she so fine cant you see man)
+Keep her right by my side, (she so fine can't you see man)
 Yep, that's my girlfriend
 (can you hear me man)
 Yep, that's my boyfriend
@@ -266,7 +266,7 @@ Yep
 And cut
 
  L - B - DUB gang
-Ahh
+Ah
 T - U - G yeah
 
 

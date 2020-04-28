@@ -32,7 +32,7 @@ Ah!
 But, if
 You're thinkin'
 About my baby
-It don't matter if you're 
+It don't matter if you're
 Black or white
 
 
@@ -45,7 +45,7 @@ I ain't second to none
 
 And I told about equality
 And it's true
-Either 
+Either
 
 
 You're wrong
@@ -53,7 +53,7 @@ Or you're right
 
 
 Whoo!
-Ahh!
+Ah!
 
 
 But, if
@@ -148,7 +148,7 @@ It's tough for you to get by
 It's black, it's white, whoo
 ( C'mon!)
 It's black, it's white, whoo
-( Aah)
+( Ah)
 ( Yeah! Yeah! Yeah)
 It's tough for you to get by
 It's black, it's white, whoo

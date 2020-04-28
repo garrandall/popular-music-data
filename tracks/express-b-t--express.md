@@ -103,7 +103,7 @@ Do it, do it 'til you're satisfied
 Do it now, do it 'til you're satisfied
 Then you hawler oh, oh-ho, oh-ho, oh
 I'm satisfied, I'm satisfied
-Then you hawler oh, wooo-hooooo, hoooo-ooooo
+Then you hawler oh, wooo-hooooo, hoooo-oo
 Woooooo
 Go on and do it
 Do it,(do it slow) do it slow 'til you're satisfied

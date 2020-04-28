@@ -66,7 +66,7 @@ Whoa, whoa, whoa, I remember love on a rooftop
 We couldn`t make our love stop
 We were giving all that we got
 Whoa, whoa, whoa, I remember holding you so tight
-Ooh, when kissing lasted all night
+Oh, when kissing lasted all night
 Whoa, whoa, whoa, Love on a rooftop
 Whoa, whoa, whoa
 Look at us now were all grown up, we got it all together
@@ -78,7 +78,7 @@ Whoa, whoa, whoa, I remember love on a rooftop
 We couldn`t make our love stop
 We were giving all that we got
 Whoa, whoa, whoa, I remember holding you so tight
-Ooh, when kissing lasted all night
+Oh, when kissing lasted all night
 Whoa, whoa, whoa, Love on a rooftop
 Whoa, whoa, whoa
 (sax solo)
@@ -90,14 +90,14 @@ I remember love on a rooftop
 We couldn`t make our love stop
 We were giving all that we got
 Whoa, whoa, whoa, I remember holding you so tight
-Ooh, when kissing lasted all night
+Oh, when kissing lasted all night
 Whoa, whoa, whoa, Love on a rooftop
 Whoa, whoa, whoa
 Whoa, whoa, whoa, I remember living on a big road stop
 We couldn`t make our love stop
 We were giving all that we got
 Whoa, whoa, whoa, I remember holding you so tight
-Ooh, when kissing lasted all night
+Oh, when kissing lasted all night
 Whoa, whoa, whoa, Love on a rooftop
 Whoo, baby leave me on a rooftop
 I remember love on a rooftop
@@ -105,6 +105,6 @@ I remember love on a rooftop
 We couldn`t make our love stop
 We were giving all that we got
 I remember holding you so tight
-Ooh, when kissing lasted all night
+Oh, when kissing lasted all night
 Whoa, whoa, whoa, Love on a rooftop
-Whoa, whoa, whoa..........
+Whoa, whoa, whoa...

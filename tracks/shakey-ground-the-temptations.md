@@ -89,7 +89,7 @@ I'm standin' on shakey ground
 Ever since you put me down
 Standin' on shakey ground
 Ever since you put me down
-Ooh, hoo
+Oh, hoo
 
 
 
@@ -104,9 +104,6 @@ Standin', well
 (Ever since you put me down)
 On shakey ground
 Standin', standin', standing on shakey ground, waa!
-
-
-
 
 Got to say it, got to say it, got to say it, got to say it
 I'm standin' on shakey ground, woo!

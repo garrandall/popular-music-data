@@ -79,9 +79,6 @@ Mirror, mirror on the wall
 Who's the baddest of them all?
 Welcome to my wicked world, wicked world
 
-
-
-
 I'm rotten to the core, core
 Rotten to the core
 I'm rotten to the core, core

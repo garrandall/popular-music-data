@@ -50,7 +50,7 @@ rankings:
 ---
 Deeper and deeper and deeper down into the ground
 Deeper and deeper and deeper and deeper
-Woah ohhh oh oh ohhh oh ohhh
+Woah oh oh oh oh oh oh
 
 I'm not one to play around but I'll make an exception
 Loosen up you attitude and lend me your attention

@@ -101,7 +101,7 @@ Ma mama weer all crazee now
 Oh yeah
 
 Ma mama weer all crazee now
-Ooh
+Oh
 Ma ma ma ma mama weer all crazee now
 
 Get crazee with me
@@ -117,7 +117,7 @@ Ma ma ma ma mama weer all crazee
 I said
 Ma ma ma ma mama weer all crazee now
 Yeah
-Ooh-ooh
+Oh-oh
 
 
 

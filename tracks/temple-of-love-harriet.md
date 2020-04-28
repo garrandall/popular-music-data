@@ -52,7 +52,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-04-27'
 ---
-Ooh, yeah, uh huh Until the rivers run dry
+Oh, yeah, uh huh Until the rivers run dry
 Like a stain from a child's cry
 Until the snow brings fall
 My love will wait to hear your call Whether or not you understand
@@ -78,4 +78,4 @@ I'll build you a temple and fill it with love I'll build you a temple and fill i
 Stone by stone from morn til dusk
 I'll do anything, anything, anything for you
 Yes, I will Build you a temple of love
-Would I do anyhing for you, ohh...
+Would I do anyhing for you, oh...

@@ -66,11 +66,11 @@ Leave your name and number
 And I'll try and get back to you
 You have thirty seconds to talk to me before you're threw
 
-And I said, "Baby lets go get married.  
+And I said, "Baby lets go get married.
 I need to know you're mine!
 I am hangin' on, I am hangin' on, I am hangin' on this line
 And if I can leave one message
-Before you go to bed, I would say to you..." 
+Before you go to bed, I would say to you..."
  And the phone went dead
 
 So I stepped down to buy some dog food for the cat
@@ -86,8 +86,8 @@ Leave your name and number
 And I'll try and get back to you
 You have thirty seconds to talk to me before you're threw
 
-And she said, "Baby I got your message. 
-Well I'm answering your call.  
+And she said, "Baby I got your message.
+Well I'm answering your call.
 I have thought it out, I have thought it out
 and I think that all in all
 If you ask if we can marry, and make it for all time
@@ -101,8 +101,4 @@ I'm so sorry you have just reached my answering machine
 I'm not in, and listen, I'm sure you know this whole routine
 I'm so sorry you have just reached my answering machine
 I'm not in, and listen, I'm sure you know this whole routine
-
-
-
-
 

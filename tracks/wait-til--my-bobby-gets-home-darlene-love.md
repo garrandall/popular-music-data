@@ -84,6 +84,3 @@ Gonna wait until my Bobby gets home
 Whuh, oh - wait until my Bobby gets home
 Whuh, oh - wait until my Bobby gets home
 
-
-
-

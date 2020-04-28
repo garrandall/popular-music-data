@@ -67,7 +67,7 @@ Sets his sights on the search of a lifetime
 And he's never, never sad
 
 Whoa oh, it's off to work he goes
-In the name of science and all its wonders....
+In the name of science and all its wonders...
 
 This is the story of Dr. Heckyll and Mr. Jive
 They are a person who feels good to be alive
@@ -84,7 +84,7 @@ He drinks it down and waits for some reaction
 To all his work and care
 
 Hey, hey he fumbles for what to say
-He loves the wo except for all the people....
+He loves the wo except for all the people...
 
 This is the story of Dr. Heckyll and Mr. Jive
 They are a person who feels good to be alive

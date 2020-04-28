@@ -46,9 +46,6 @@ My love is strong for you and built to last
 Don't hesitate, I'm gonna show you how
 Not holding back, because the time is now
 
-
-
-
 Won't you take a seat
 Hold on tight, enjoy the right
 'Cause tonight is the night

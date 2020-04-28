@@ -209,7 +209,7 @@ It's them Quad City D.J.'s and yo
 We call it "the train"
 So if you wanna ride ya thing
 Just come on down the train
-We gonna rock, ooh, Lord, just jump aboard, baby
+We gonna rock, oh Lord, just jump aboard, baby
 So get your next of kin, (c'mon) your sister and your friend
 Pack it up that, choo choo, ride on this, choo choo
 And, boo, you need to stop faking, and come on with me

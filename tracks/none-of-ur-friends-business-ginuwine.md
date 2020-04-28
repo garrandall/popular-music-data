@@ -93,9 +93,9 @@ Babygirl
 Tell your friends, back off of us (cause they're in our business and shit)
 Cause they were the same ones, who hooked us up (but now they are jealous
 and shit)
-Cause they see we are living, ghetto fabulous (and they just cant deal with
+Cause they see we are living, ghetto fabulous (and they just can't deal with
 that shit)
-But I dont give a damn, long as its me you trust (cause i cant get down with
+But I don't give a damn, long as its me you trust (cause I can't get down with
 your clique)
 
 
@@ -103,26 +103,19 @@ your clique)
 
 Put your trust in me girl, leave your friends alone (they make it hard for
 us and shit)
-And I dont know how many guys, have done you wrong (but I dont get down with
+And I don't know how many guys, have done you wrong (but I don't get down with
 that shit)
-And I dont know how many guys, who would sing a song (to show you they love
+And I don't know how many guys, who would sing a song (to show you they love
 you thats it)
-But lets look to the future girl, cause babe its on (cause i cant get down
+But lets look to the future girl, cause babe its on (cause I can't get down
 with your clique)
 
-
-
-
-When I see you with your friends, under my breath, all i can say is
-Mmmm Mmmm Damn Mmmm
-When i see you with your friends, under my breath, all i can say is
-Mmmm Mmmm Damn Mmmm
-When i see you with your friends, under my breath, all i can say is
-Mmmm Mmmm Damn Mmmm
-When i see you with your friends, under my breath, all i can say is
-Mmmm Mmmm Damn Mmmm
-
-
-
-
+When I see you with your friends, under my breath, all I can say is
+Mmm Mmm Damn Mmm
+When I see you with your friends, under my breath, all I can say is
+Mmm Mmm Damn Mmm
+When I see you with your friends, under my breath, all I can say is
+Mmm Mmm Damn Mmm
+When I see you with your friends, under my breath, all I can say is
+Mmm Mmm Damn Mmm
 

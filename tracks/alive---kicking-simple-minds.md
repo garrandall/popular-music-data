@@ -136,7 +136,7 @@ Oh, oh, oh, oh, oh
 Oh, oh, oh, oh, oh
 Oh,oh, oh, oh, oh
 
-Ooooh, oh, alive and kicking
+Oh, oh, alive and kicking
 
 Stay until your love is, alive and kicking
 

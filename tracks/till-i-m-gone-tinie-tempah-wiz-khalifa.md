@@ -98,7 +98,7 @@ And a mistress that is fine like a fucking parking ticket
 Haha, I said I’m in it, I’m in it 'til the finish
 I keep them bottles coming 'til there ain't nothing in it
 I’m like Mario on mushrooms, I’m like Popeye on some spinach
-We gon keep it coming 'til I no speaka no English, ahh!
+We gon keep it coming 'til I no speaka no English, ah!
 
 
 I grew tired, of the same, then one night, packed my things

@@ -206,7 +206,7 @@ Jump up, down once I hit them switches, babe
 And I'm about to take it where you want to go, babe
 Guarantee you I'm about to get some mileage, babe
 And it won't be no runnin' out of gas, babe
-It's like woo-ooh-ooh, pull over, babe
+It's like woo-ohoohpull over, babe
 And let me put this lovin' off in your trunk, babe
 So buckle up this could get bumpy, babe
 Girl, we gon' mess around and get a ticket, babe

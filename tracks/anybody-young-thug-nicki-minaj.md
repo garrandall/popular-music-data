@@ -55,7 +55,7 @@ You can gon' get mad (gon' get mad)
 
 Jumpin' in the Bent' with the too-dark tint, and who's you? (Who's you?)
 My shawty pullin' up with a real bad bitch, I wanna fuck you too (fuck you too)
-Drippin' my swag, ooh, pop tag, I'm..mhm..
+Drippin' my swag, oh, pop tag, I'm...mhm..
 I got a Smith and in the bag now
 I get all type of cash, I'm a general true (hey)
 
@@ -110,7 +110,7 @@ You gotta picture me rollin'
 
 Jumpin' in the Bent' with the too-dark tint, and who's you?
 My shawty pullin' up with a real bad bitch, I wanna fuck you too
-Drippin' my swag, ooh, pop tag, I'm..mhm..
+Drippin' my swag, oh, pop tag, I'm...mhm..
 I got a Smith and in the bag now
 I get all type of cash, I'm a general true
 

@@ -48,9 +48,6 @@ And I'll fall
 But I won't stay down long
 'Cause I'm country strong
 
-
-
-
 Cause I'm country strong
 Hard to break
 Like the ground I grew up on

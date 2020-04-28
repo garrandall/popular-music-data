@@ -118,7 +118,7 @@ Tell 'em that is human nature
 Why, why does he do it that way?
 If they say, "Why? Why?"
 (Just tell me you like me to be around.)
-Ooh, tell 'em
+Oh, tell 'em
 Why, why does he do it that way?
 
 If they say, "Why? Why?"
@@ -126,11 +126,11 @@ If they say, "Why? Why?"
 Why, why does he do it that way?
 If they say, "Why? Why?"
 (Just tell me you like me to be around.)
-Ooh, tell 'em
+Oh, tell 'em
 Why, why does he do it that way?
 
 And they say, "Why? Why?"
-Ooh, tell 'em
+Oh, tell 'em
 Why, why does he do it that way?
 
 They say, "Why? Why?"

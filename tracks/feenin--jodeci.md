@@ -118,17 +118,17 @@ Said i'm feenin for you
 I don't have a mind
 It's all blown on you, baby
 Girl i'm so strung out
-All i do is wish for you
+All I do is wish for you
 So tomorrow if you're not here
 Then girl i'm down
-So i need you near
+So I need you near
 I just wanna make it through the night
 So hold me tight
 Then girl i'm alright
 
 I can't leave you alone
 You got me feenin
-Girl you got everything that i need, got everything that i need
+Girl you got everything that I need, got everything that I need
 I can't leave you alone
 You got me feenin
 Girl i'm feenin for you
@@ -139,7 +139,7 @@ Spend my last dime
 For a drop of your time
 Cause you're the girl without a doubt
 You know you got me strung out
-And i need you more
+And I need you more
 And more
 Cause you are my joy
 

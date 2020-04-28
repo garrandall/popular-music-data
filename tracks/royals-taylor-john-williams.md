@@ -62,10 +62,10 @@ Let me be your ruler
 You can call me queen bee
 And, baby, I'll rule (I'll rule, I'll rule)
 Let me live that fantasy
-Ooh, ooh, ooh
+Oh, oh, oh
 We're bigger than we ever dreamed
 And I'm in love with being queen
-Ooh, ooh, ooh
+Oh, oh, oh
 Life is great without a care
 We aren't caught up in your love affair
 And we'll never be royals

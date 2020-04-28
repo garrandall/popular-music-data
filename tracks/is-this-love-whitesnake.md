@@ -116,9 +116,6 @@ Is this love or am I dreaming?
 This must be love, cause it's really got a hold on me
 A hold on me
 
-
-
-
 Is this love that I'm feeling?
 Is this the love that I've been searching for?
 Is this love or am I dreaming?

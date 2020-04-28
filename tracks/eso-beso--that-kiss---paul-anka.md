@@ -41,47 +41,47 @@ rankings:
   start_date: '1962-12-22'
 ---
 
-Mmm, eso beso, ooh that kiss 
-Aah, eso beso, ooh your kiss 
-It's got something, don't know what 
-But whatever it's got, it's got a lot 
+Mmm, eso beso, oh that kiss
+Ah, eso beso, oh your kiss
+It's got something, don't know what
+But whatever it's got, it's got a lot
 
-When we samba (the bossanova) 
-Close like this (the bossanova) 
-Ay, ay caramba (the bossanova) 
-Who unleashed that kissÂ  (the bossanova) 
-Hold me closer and we'll soar 
-For the samba's the quickest way to make amor 
+When we samba (the bossanova)
+Close like this (the bossanova)
+Ay, ay caramba (the bossanova)
+Who unleashed that kissÂ  (the bossanova)
+Hold me closer and we'll soar
+For the samba's the quickest way to make amor
 
-As we dip and sway and caress this way 
-Samba seems to say "Love is here to stay" 
-Like the samba sound, my heart begins to pound 
-I go off the ground to where I'm poco-loco 
+As we dip and sway and caress this way
+Samba seems to say "Love is here to stay"
+Like the samba sound, my heart begins to pound
+I go off the ground to where I'm poco-loco
 
-Eso beso (the bossanova) ooh that kiss (the bossanova) 
-Eso beso (the bossanova) ooh your kiss (the bossanova) 
-Kiss me mucho and we'll soar 
-And we'll dance the dance of love forevermore 
+Eso beso (the bossanova) oh that kiss (the bossanova)
+Eso beso (the bossanova) oh your kiss (the bossanova)
+Kiss me mucho and we'll soar
+And we'll dance the dance of love forevermore
 
-As we dip and sway we caress this way 
-Samba seems to say "Love is here to stay" 
-Like that samba sound, my heart begins to pound 
-And I go off the ground to where I'm poco-loco 
+As we dip and sway we caress this way
+Samba seems to say "Love is here to stay"
+Like that samba sound, my heart begins to pound
+And I go off the ground to where I'm poco-loco
 
-Eso beso (the bossanova) ooh your kiss (the bossanova) 
-Kiss me mucho (the bossanova) I love your kiss (the bossanova) 
-Kiss me mucho and we'll soar 
-And we'll dance the dance of love forevermore 
+Eso beso (the bossanova) oh your kiss (the bossanova)
+Kiss me mucho (the bossanova) I love your kiss (the bossanova)
+Kiss me mucho and we'll soar
+And we'll dance the dance of love forevermore
 
-Ah this dance (the bossanova) 
-Ooh, romance (the bossanova) 
-I love that kiss (the bossanova) 
-Kiss me mucho (the bossanova) 
+Ah this dance (the bossanova)
+Oh, romance (the bossanova)
+I love that kiss (the bossanova)
+Kiss me mucho (the bossanova)
 
 
-A little more mucho (the bossanova) 
-Then we'll dance 
-Ah that kiss, kiss, kiss, kiss, kiss, kiss, kiss 
+A little more mucho (the bossanova)
+Then we'll dance
+Ah that kiss, kiss, kiss, kiss, kiss, kiss, kiss
 Mucho, mucho, mucho
 
 

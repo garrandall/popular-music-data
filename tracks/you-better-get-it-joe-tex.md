@@ -63,7 +63,7 @@ Would I hope and pray
 You'd be mine
 
 Oh, baby, oh, baby
-Oh, oh, oh, mmmm
+Oh, oh, oh, mmm
 
 If I didn't love you
 Would I miss you this much

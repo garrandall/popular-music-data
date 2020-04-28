@@ -128,7 +128,7 @@ Cold, (cold) as, (as) ice,
 As cold as ice to me
 (Cold, cold cold) (as, as, as) (ice)
 
-(Ooh, ooh, ooh, cold as, cold as ice)
+(Oh oh oohcold as, cold as ice)
 (You're as cold as icccce)
 You're as cold as ice
 (Cold as icccce),

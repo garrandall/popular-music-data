@@ -136,7 +136,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-04-27'
 ---
-Ooh-oh
+Oh-oh
 No, no, no, no
 No, no, no, no, no, no, no
 No-ouh

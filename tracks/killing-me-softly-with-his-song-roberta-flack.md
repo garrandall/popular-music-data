@@ -128,12 +128,12 @@ Telling my whole life with his words
 Killing me softly with his song
 
 
-Ohhhh ohhhh ohhhh
-Ohh ohh ohh ohh ohh ohh ohh
+Ohhhh oh oh
+Ohh oh oh oh oh oh oh
 La la la, la la la
-Ohh ohh ohh, ohh ohh ohh
-La ahh ahhhhhh haaaaaaaaaaaaaa
-Ha ahh ahh, ahh ahh ahh ahh
+Ohh oh oh, oh oh oh
+La ah ah haaaaaaaaaaaaaa
+Ha ah ah, ah ah ah ah
 
 
 Strumming my pain with his fingers

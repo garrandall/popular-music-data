@@ -47,7 +47,7 @@ rankings:
 There's a bunch of guys in town
 Whose been buggin' you and hangin' around
 And calling you on the phone and talkin' real smart
-Ev'ry brand new him that calls is one of them
+Every brand new him that calls is one of them
 They're trying to mess us up and make us part
 
 They're gangin' up on my baby, comin' on strong

@@ -83,7 +83,7 @@ I just can't (no, no, no)
 
 
 Oh yeah, No I don't wanna
-No I didn't wanna do it ooh, ooh, oh
+No I didn't wanna do it oh oohoh
 
 
 But then again my dear

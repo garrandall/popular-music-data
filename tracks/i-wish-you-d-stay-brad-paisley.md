@@ -82,9 +82,6 @@ We've been through this a thousand times
 I'm sorry for still holding on
 I'll try to let go and I'll try to be strong, and I'll
 
-
-
-
 Yeah, everything you've ever dreamed of
 And I hope that you'll find love along the way
 But most of all

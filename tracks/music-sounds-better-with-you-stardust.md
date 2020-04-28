@@ -40,7 +40,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
 ---
-Ooh, baby
+Oh, baby
 I feel right, the music sounds better with you
 Love might bring us back together
 I feel so good

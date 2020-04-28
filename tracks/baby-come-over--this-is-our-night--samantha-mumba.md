@@ -98,7 +98,7 @@ Take a piece of my heart (My heart)
 And go from the start
 Baby, come on over tonight (Yeah, yeah)
 We can make it all right (Yeah, yeah)
-Boy, there's no one like you (Ooh)
+Boy, there's no one like you (Oh)
 Do you feel it too? (Do you feel it too?)
 
 
@@ -158,7 +158,7 @@ And go from the start
 Baby, come on over tonight
 We can make it all right (Baby)
 Do you feel it too? (Do you feel it too?)
-Baby, come on over (this is our night tonight, ooh)
+Baby, come on over (this is our night tonight, oh
 Everything's gonna be alright
 This is our night tonight
 Everything's gonna be alright (Baby, come on over)

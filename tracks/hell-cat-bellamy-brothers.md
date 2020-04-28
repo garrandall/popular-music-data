@@ -38,9 +38,9 @@ You got to get him on the go
 Even if you threaten to bust him
 
 
-Ooh, you got a little hellcat in you
+Oh, you got a little hellcat in you
 And you got to say what you got to say
-Ooh, you got a little hellcat in you
+Oh, you got a little hellcat in you
 And you're gonna get your way
 
 Now if you're miserable

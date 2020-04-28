@@ -115,7 +115,7 @@ Oh she's smokin me out with the homey's love
 This ain't no love ballad
 But see baby I gots to have it
 When I see that bomb I grab it, cuz its a habit
-So dont come with that toe down stretch
+So don't come with that toe down stretch
 I ain't stressin, Long Beach baby keep smokin me out, she learned a lesson
 Floatin high as a kite as I chill and lay low
 Bumpin time is collected, sunday nights on the radio

@@ -78,7 +78,7 @@ Wild child in the streets I think I've seen you but I really don't know
 One million miles an hour headed out to where the down boys go
 
 Whoa, can we rewind to where we've been
-Ooo i wish you'd take a look and see the shape I'm in
+Ooo I wish you'd take a look and see the shape I'm in
 
 Where the down boys go?
 Where the down boys go?
@@ -91,7 +91,7 @@ Got a lot of nerve to call me cheap even though it's true
 I don't care where go tonight take me along with you
 
 Whoa, can we rewind to where we've been
-Ooo i wish you'd take a look and see the shape I'm in
+Ooo I wish you'd take a look and see the shape I'm in
 
 Where the down boys go?
 Where the down boys go?
@@ -102,7 +102,7 @@ Certain things ya do really make me mad I must confess
 The way the street light sihlouettes your thighs inside your dress
 
 Whoa, can we rewind to where we've been
-Ooo i wish you'd take a look and see the shape I'm in
+Ooo I wish you'd take a look and see the shape I'm in
 
 Where the down boys go?
 Where the down boys go?

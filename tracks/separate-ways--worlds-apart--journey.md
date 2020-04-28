@@ -126,7 +126,7 @@ And went our separate ways
 
 
 
-Oooooooooh
+Oh
 Someday love will find you
 Break those chains that bind you
 One night will remind you

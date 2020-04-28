@@ -140,9 +140,9 @@ I'm in love, girl, I'm so in love, girl
 I'm just in love, girl, and this is true
 
 Girl, you know it's true
-Ooh, ooh, ooh, I love you
+Oh, oh oohI love you
 Yes, you know it's true
-Ooh, ooh, ooh I love you
+Oh, oh oohlove you
 Girl, you know it's true
 My love is for you
 Girl, you know it's true
@@ -164,17 +164,17 @@ I'm in love, girl, I'm so in love, girl
 I'm just in love girl, and this is true
 
 Girl, you know it's true
-Ooh, ooh, ooh I love you
+Oh, oh oohlove you
 Yes, you know it's true
-Ooh, ooh, ooh I love you
+Oh, oh oohlove you
 Girl, you know it's true
 My love is for you
 Girl, you know it's true
 My love
 Girl, you know it's true
-Ooh, ooh, ooh I love you
+Oh, oh oohlove you
 Yes, you know it's true
-Ooh, ooh, ooh I love you
+Oh, oh oohlove you
 
 
 

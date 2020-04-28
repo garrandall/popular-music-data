@@ -99,7 +99,7 @@ A city of peace, for everyone of us
 We all need it, can't live without it
 Gotham City, oh, yeah
 
-How sleeping awake because of fear (ohh, yeah)
+How sleeping awake because of fear (oh, yeah)
 How children are drowning in their tears
 How we need a place where we can go
 A land where everyone will have a hero (even me)

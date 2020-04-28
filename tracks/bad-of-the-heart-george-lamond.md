@@ -126,4 +126,4 @@ Bad of the heart
 You didn't really want me baby
 You never really needed me
 Cause your just bad of the heart
-Repeat (1x)
+Repeat

@@ -29,7 +29,7 @@ Ma perché non me l'hai detto tu
 Di non poterne più?
 
 Dentro a quel mezzo sorriso un po' spento
-Ho scoperto i difetti che hai
+Ho scoperto I difetti che hai
 Ma come avrò potuto amarti mai?
 
 Giuro che vado via

@@ -103,7 +103,7 @@ The love I'm giving, Ooooooooo..
 
 There's no reason why
 We should be apart
-Ooh, Oh Baby
+Oh Oh Baby
 Cause searching for something out there
 Will leave two lonely hearts
 Two lonely hearts
@@ -113,13 +113,13 @@ Baby don't you know?
 We've come to far to let it all end
 I've told you over and over again
 How I feel inside but if you go
-Oooh baby, there's something you should know
+Oh baby, there's something you should know
 
 
 Something you should know
 There's something in my heart
 Something in my heart, something in my heart
-Ooh it's got me hooked on you
+Ohit's got me hooked on you
 
 
 Baby if we try
@@ -139,11 +139,11 @@ But you...
 We've come too far to let it all end
 I've told you over and over again
 How I feel inside but if you go
-Ooh baby there's something you should know
+Ohbaby there's something you should know
 Something you should know
 
 
 There's something you should know
 There's something in my heart
 Something in my heart, something in my heart
-Ooh it's got me hooked on you
+Ohit's got me hooked on you

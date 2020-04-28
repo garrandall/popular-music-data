@@ -85,7 +85,7 @@ rankings:
   start_date: '1986-09-27'
 ---
 
-Ooh...Ooh
+Oh...Oh
 
 When you wants all the lu you deserve and the heat's on your mind.
 Don't you even think about it.
@@ -103,7 +103,7 @@ Can you woo-woo-woo?
 Should be mine, all mine.
 
 Any way that your heart has been denied.
-Ooh, you can come to me.
+Oh, you can come to me.
 Every time that we're together just confirms the good thing we've got.
 And something this good can't be defined.
 One things for sure, that
@@ -145,13 +145,13 @@ Can you woo-woo-woo?
 Can you woo-woo-woo?
 Should be mine, all mine.
 
-Ooh...Oh, Oh...Ooh
+Oh...Oh, Oh...Oh
 (You should be mi-i-i-ine)
-Ooh...Oh, Oh...Ooh
+Oh...Oh, Oh...Oh
 (You should be mi-i-i-ine)
 
 
-Ooh...Oh, Oh...Ooh
+Oh...Oh, Oh...Oh
 
 
 

@@ -105,19 +105,19 @@ Damn you, sinner man
 Damn you, sinner man
 
 Holding me, touching me
-Sinner man, ooh, ooh
+Sinner man, oh oh
 Holding me, touching me
-Sinner man, ooh, ooh
+Sinner man, oh oh
 
 Holding me, touching me
-Sinner man, ooh, ooh
+Sinner man, oh oh
 Holding me, touching me
-Sinner man, ooh, ooh
+Sinner man, oh oh
 
 Holding me, touching me
-Sinner man, ooh, ooh
+Sinner man, oh oh
 Holding me, touching me
-Sinner man, ooh, ooh...
+Sinner man, oh oh.
 
 Don't be touching me
 Damn you, sinner me

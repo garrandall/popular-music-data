@@ -92,6 +92,3 @@ Yay, yay, yeah, he's mine
 (Keep your hands off my)
 You better watch yourself, now (baby)
 
-
-
-

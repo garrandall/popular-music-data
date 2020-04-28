@@ -153,9 +153,6 @@ Look away, baby, look away
 Don't look at me
 I don't want you to see me this way
 
-
-
-
 If you see me walking by
 And the tears are in my eyes
 Look away, baby, look away

@@ -82,7 +82,7 @@ rankings:
 ---
 One more night, one more night
 One more night
-I've been trying ooh so long to let you know
+I've been trying ohso long to let you know
 Let you know how I feel
 And if I stumble, if I fall, just help me back
 So I can make you see
@@ -105,7 +105,7 @@ Oh, one more night, 'cause I can't wait forever
 Please give me one more night, uh^, just one more night
 Oh, one more night, 'cause I can't wait forever
 Give me one more night, give me just one more night
-Ooh, one more night, 'cause I can't wait forever
+Oh, one more night, 'cause I can't wait forever
 
 
 Like a river to the sea
@@ -125,6 +125,6 @@ And maybe we both can learn
 
 
 Give me just one more night, give me just one more night
-Ooh, one more night, 'cause I can't wait forever
+Oh, one more night, 'cause I can't wait forever
 Give me just one more night, give me just one more night
-Ooh one more night, 'cause I can't wait forever
+Oh one more night, 'cause I can't wait forever

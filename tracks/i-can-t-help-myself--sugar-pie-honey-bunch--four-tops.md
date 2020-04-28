@@ -78,7 +78,7 @@ I come a-running to you
 I'm tied to your apron strings
 And there's nothing that I can do (Uuh)
 Can't help myself (Noo)
-No, I can't help myself (Ooh)
+No, I can't help myself (Oh)
 Can't
 Sugar pie, honey bunch (Sugar pie, honey bunch)
 I'm weaker than a man should be

@@ -181,7 +181,7 @@ Get jazzy on it
 
 2 Chainz
 Dos Cadenas, close to genius
-Sold out arenas, you can suck my penis (ooh, damn)
+Sold out arenas, you can suck my penis (oh damn)
 Gilbert Arenas, guns on deck
 Chest to chest, tongue on neck (neck)
 International oral sex

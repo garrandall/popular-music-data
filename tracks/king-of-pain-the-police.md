@@ -112,8 +112,5 @@ There's a black-winged gull with a broken back
 There's a little black spot on the sun today
 It's the same old thing as yesterday
 
-
-
-
 King of pain
 I'll always be

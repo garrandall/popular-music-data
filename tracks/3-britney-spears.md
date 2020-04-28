@@ -94,7 +94,7 @@ Got one eighty degrees, and I'm caught in between
 Counting, 1, 2, 3
 Peter, Paul and Mary
 Getting down with 3P
-Everybody loves... ooh
+Everybody loves... oh
 Counting
 1, 2, 1, 1, 1, 2, 3
 Counting
@@ -124,14 +124,14 @@ Got one eighty degrees, and I'm caught in between
 Counting, 1, 2, 3
 Peter, Paul and Mary
 Getting down with 3P
-Everybody loves... ooh
+Everybody loves... oh
 Counting, 1, 2, 3
 Not only you and me
 Got one eighty degrees, and I'm caught in between
 Counting, 1, 2, 3
 Peter, Paul and Mary
 Getting down with 3P
-Everybody loves... ooh
+Everybody loves... oh
 
 
 Three is a charm
@@ -156,14 +156,14 @@ Got one eighty degrees, and I'm caught in between
 Counting, 1, 2, 3
 Peter, Paul and Mary
 Getting down with 3P
-Everybody loves... ooh
+Everybody loves... oh
 Counting, 1, 2, 3
 Not only you and me
 Got one eighty degrees, and I'm caught in between
 Counting, 1, 2, 3
 Peter, Paul and Mary
 Getting down with 3P
-Everybody loves... ooh
+Everybody loves... oh
 
 
 What we do is innocent
@@ -180,11 +180,11 @@ Got one eighty degrees, and I'm caught in between
 Counting, 1, 2, 3
 Peter, Paul and Mary
 Getting down with 3P
-Everybody loves... ooh
+Everybody loves... oh
 Counting, 1, 2, 3
 Not only you and me
 Got one eighty degrees, and I'm caught in between
 Counting, 1, 2, 3
 Peter, Paul and Mary
 Getting down with 3P
-Everybody loves... ooh
+Everybody loves... oh

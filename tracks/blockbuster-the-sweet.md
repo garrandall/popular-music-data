@@ -37,14 +37,14 @@ rankings:
   start_date: '1973-07-28'
 ---
 
-Aah-aah, aah-aah
+Ah-ah, ah-ah
 
 You better beware, you better take care
 You better watch out if you've got long black hair
 He'll come from behind, you'll go out of your mind
 You'd better not go, you'd never know what you'll find
 
-Aah-aah, aah-aah
+Ah-ah, ah-ah
 
 You look in his eyes, don't be surprised
 If you don't know what's going on behind his disguise
@@ -71,8 +71,8 @@ Does anyone know the way? Did we hear someone say
 Does anyone know the way? There's got to be a way
 To block Buster
 
-Aah-aah, aah-aah
-Aah-aah, aah-aah
+Ah-ah, ah-ah
+Ah-ah, ah-ah
 Buster, Buster, block Buster
 Buster, Buster, block Buster
 Buster, Buster, block Buster

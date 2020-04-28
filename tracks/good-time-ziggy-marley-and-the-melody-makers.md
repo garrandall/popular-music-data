@@ -72,7 +72,7 @@ Though the world is cruel and blind
 Let's have a good time
 (Melody makers, more melody makers)
 Base is heavy, the drummer is steady
-Ooh, rhythm runs
+Oh rhythm runs
 And it got you on the floor
 Cry out for more
 That's the only way
@@ -136,4 +136,4 @@ Let's have a good time
 Let's have a good time
 Let's have a good time
 Let's have a good time
-.....
+...

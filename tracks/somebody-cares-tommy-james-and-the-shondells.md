@@ -50,9 +50,3 @@ Don't be in doubt, 'cause I'd never hurt you.
 A-trust in me and you'll know the reason
 That our love will last through many a season.
 
-
-
-
-
-
-

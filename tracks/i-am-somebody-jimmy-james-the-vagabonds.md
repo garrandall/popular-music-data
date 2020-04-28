@@ -21,8 +21,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-03-06'
 ---
-I remember, when i was small
-I saw the preacher man (ahh!) he was walking tall
+I remember, when I was small
+I saw the preacher man (ah!) he was walking tall
 I remember his words and what he had to say
 
 Alive in my mind... like it was yesterday

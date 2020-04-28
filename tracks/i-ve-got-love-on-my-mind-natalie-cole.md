@@ -92,8 +92,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-06-18'
 ---
-Written by Chuck Jackson & Marvin Yancy
-
 I've got love on my mind
 
 I've got love on my mind
@@ -108,11 +106,11 @@ When I woke up early this morning
 
 It was staring me straight in my eyes
 
-I've got love (love) on my mind (ooh)
+I've got love (love) on my mind (oh
 
-I've got love (love) on my mind (ooh)
+I've got love (love) on my mind (oh
 
-I've got love (love) on my mind (ooh)
+I've got love (love) on my mind (oh
 
 When you touch me I can't resist
 
@@ -120,7 +118,7 @@ And you've touched me a thousand times
 
 When I think of your tender kiss, ah
 
-Then and there I start to unwind, ooh, in your arms
+Then and there I start to unwind, oh in your arms
 
 I like to be, yeah, caressing you gentle
 
@@ -146,7 +144,7 @@ Love (love), love, on-- (on my mind) my mind
 
 (Love) Oh, I like the way you say it, when you say it for me, yeah
 
-(Love, love) Ooh, you know, it's like paradise, say it twice
+(Love, love) Oh, you know, it's like paradise, say it twice
 
 (Love, love) Got a whole lot of love, whole lot of love for you, Baby, yeah
 
@@ -166,4 +164,4 @@ I've got, (love) I've got, I've got, I've got, I've got
 
 Oh (love) yeah, oh, love, (on my mind)
 
-Love, love, love, la, la....yeah
+Love, love, love, la, la...yeah

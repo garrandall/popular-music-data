@@ -208,9 +208,6 @@ From what I heard she got a baby by Busta
 My best friend says she use to fuck with Usher
 I don't care what none of y'all say I still love her
 
-
-
-
 18 years, 18 years
 She got one of your kids, got you for 18 years
 I know somebody paying child support for one of his kids
@@ -227,9 +224,6 @@ It's something that you need to have
 'Cause when she leave yo ass she gon' leave with half
 18 years, 18 years
 And on her 18th birthday he found out it wasn't his
-
-
-
 
 Now I ain't saying you're a gold digger you got needs
 You don't want your dude to smoke but he can't buy weed

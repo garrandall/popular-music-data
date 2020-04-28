@@ -40,7 +40,7 @@ So in other words nigga, do your thang
 
 Mind in one place heart in another
 Please pardon my brother, he’s just angry at you niggas
-Who dont have your heart in your rap shit and got too fuckin comfy
+Who don't have your heart in your rap shit and got too fuckin comfy
 Cause we still fuckin hungry, Young Money, got the munchies
 Faded, fuckin faded, aww yeah I'm fuckin faded
 They tellin’ lies about me, aww yeah I musta made it

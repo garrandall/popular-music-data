@@ -45,22 +45,22 @@ I'm so tired of getting nowhere
 Seein' my prayers goin' unanswered
 I guess the Lord must be in New York City
 
-Well, here I am, Lord, knockin' at your back door, hmm
+Well, here I am, Lord, knockin' at your back door, hm
 Ain't it wonderful to be where I've always wanted to be?
-For the first time, I'll breathe free 
+For the first time, I'll breathe free
 Here in New York City
 
 Say goodbye to all my sorrow
 And by tomorrow I'll be on my way
 I guess the Lord must be in New York City
 
-So tired of getting nowhere 
+So tired of getting nowhere
 And seein' my prayers goin' unanswered
 I guess the Lord must be in New York City
 
-Well, here I am, Lord, knockin' at your back door, hmm
+Well, here I am, Lord, knockin' at your back door, hm
 Ain't it wonderful to be where I've always wanted to be?
-For the first time, I'll breathe free 
+For the first time, I'll breathe free
 Here in New York City
 
 

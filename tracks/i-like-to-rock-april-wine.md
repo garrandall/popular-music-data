@@ -51,7 +51,7 @@ I like it, you like it
 I like to Rock
 I like to Rock
 
-Ooh, I like to Rock
+Oh, I like to Rock
 Some like it hard, baby, wooh!
 I like it, you like it
 I like to Rock

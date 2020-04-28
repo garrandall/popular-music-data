@@ -36,9 +36,6 @@ Walkin', talkin', wit ya pants on the ground!
 Giddy up!
 Hey, get ya pants off the ground!
 
-
-
-
 Lookin like a fool, walk, talkin'
 With ya pants on the ground!
 Boom! Whoa! Yes!

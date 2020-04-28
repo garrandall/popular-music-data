@@ -67,7 +67,3 @@ Now baby if you'll open up your eyes
 (Then you will feel)
 Then you will feel the way I feel inside
 
-
-
-
-

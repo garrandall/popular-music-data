@@ -97,7 +97,7 @@ I went to the moped store, said "Fuck it"
 And salesman's like "What up, what's your budget?"
 And I'm like "Honestly, I don't know nothing about mopeds"
 He said "I got the one for you, follow me"
-Ooh, it's too real
+Oh, it's too real
 Chromed out mirror, I don't need a windshield
 Banana seat, a canopy on two wheels
 Eight hundred cash, that's a hell of a deal

@@ -96,12 +96,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-10-21'
 ---
-(Ooh, ooh, ah)
+(Oh oh ah)
 
 
-Now I told you, so you ought to know (ooh)
-It takes some time for a feeling to grow (ooh)
-But you're so close now, I can't let you go (ooh)
+Now I told you, so you ought to know (oh
+It takes some time for a feeling to grow (oh
+But you're so close now, I can't let you go (oh
 And I can't let go
 
 
@@ -110,9 +110,9 @@ And I can't let go
 For you are a magnet and I am steel
 
 
-I can't hope that I'll hold you for long (ooh)
-You're a woman who's lost to your song (ooh)
-But the love that I feel is so strong (ooh)
+I can't hope that I'll hold you for long (oh
+You're a woman who's lost to your song (oh
+But the love that I feel is so strong (oh
 And it can't be wrong
 
 
@@ -120,9 +120,9 @@ And it can't be wrong
 (With you I might try) my secrets to reveal
 For you are a magnet and I am steel
 
-(Ooh)
-(Ooh)
-(Ooh)
+(Oh
+(Oh
+(Oh
 
 
 (With you I'm not shy) to show the way I feel

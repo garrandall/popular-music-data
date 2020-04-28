@@ -31,7 +31,7 @@ My pa was a preaching pastor, and my ma taught Sunday school
 I was told about devilish people who lived just to do no good
 All I knew was my religion, and how to serve the best I could
 I always knew about the son of evil - could lead a woman to no good
-Mm-hmm
+Mm-hm
 
 He used to get me from the church window, telling me I wouldn't be missed
 Promising we'd just hold hands, and maybe just one little kiss

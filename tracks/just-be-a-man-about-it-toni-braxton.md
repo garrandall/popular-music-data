@@ -154,7 +154,7 @@ If you wanna leave (I can tell you wanna leave), go right now
 Just be a man about it
 Come and get your things (so come and get your things and leave)
 And go, baby
-Just be a man about it, ooh yeah, oh
+Just be a man about it, ohyeah, oh
 
 
 Can you tell me how

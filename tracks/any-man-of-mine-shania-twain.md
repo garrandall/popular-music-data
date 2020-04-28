@@ -85,54 +85,54 @@ rankings:
   start_date: '1995-09-30'
 ---
 
-This is what a woman wants... 
+This is what a woman wants...
 Any man of mine better be proud of me
 Even when I'm ugly he still better love me
 And I can be late for a date that's fine
-But he better be on time 
+But he better be on time
 
 Any man of mine'll say it fits just right
 When last year's dress is just a little too tight
 And anything I do or say better be okay
-When I have a bad hair day 
+When I have a bad hair day
 
 And if I change my mind
 A million times
 I wanna hear him say
-Yeah, yeah, yeah, yeah, yeah I like it that way 
+Yeah, yeah, yeah, yeah, yeah I like it that way
 
 Any man of mine better walk the line
 Better show me a teasin' squeezin' pleasin' kinda time
 I need a man who knows, how the story goes
 He's gotta be a heartbeatin' fine treatin'
 Breathtakin' earthquakin' kind
-Any man of mine 
+Any man of mine
 
 Well any man of mine better disagree
 When I say another woman's lookin' better than me
 And when I cook him dinner and I burn it black
-He better say, mmmm, I like it like that yeah 
+He better say, mmm, I like it like that yeah
 
 And if I changed my mind
 A million times
 I wanna hear him say
-Yeah, yeah, yeah, yeah, yeah I like it that way 
+Yeah, yeah, yeah, yeah, yeah I like it that way
 
 Any man of mine better walk the line
 Better show me a teasin' squeezin' pleasin' kinda time
 I need a man who knows, how the story goes
 He's gotta be a heartbeatin' fine treatin'
 Breathtakin' earthquakin' kind
-Any man of mine 
+Any man of mine
 
-Let me hear you say yeah, yeah, yeah, yeah, yeah I like it that way 
+Let me hear you say yeah, yeah, yeah, yeah, yeah I like it that way
 
 Any man of mine better walk the line
 Better show me a teasin' squeezin' pleasin' kinda time
 I need a man who knows, how the story goes
 He's gotta be a heartbeatin' fine treatin'
 Breathtakin' earthquakin' kind
-Any man of mine 
+Any man of mine
 
 You gotta shimmy shake
 Make the earth quake

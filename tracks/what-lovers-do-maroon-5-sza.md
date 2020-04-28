@@ -109,20 +109,20 @@ I'll bet the house on you, am I lucky or not, lucky or not, lucky or not?
 You gotta tell me if you love me or not, love me or not, love me or not?
 Been wishin' for you, am I lucky or not, lucky or not, lucky or not?
 
-Ooooh, oooh
+Oh, oh
 Been wishin' for you
-Ooh, ooh
-Tryna' do what lovers do (ooh)
-Ooooh, oooh
+Oh oh
+Tryna' do what lovers do (oh)
+Oh, oh
 Been wishin' for you
-Ooh, ooh
-Tryna' do what lovers do (ooh)
+Oh oh
+Tryna' do what lovers do (oh)
 
 
 Say say say, hey hey now baby
-You gonna make me hit you with that lay down, baby (ohhh)
-(Ooh) Say say say, hey hey now baby
-You know what I need, out the gate now baby (oh, ohhh)
+You gonna make me hit you with that lay down, baby (oh)
+(Oh Say say say, hey hey now baby
+You know what I need, out the gate now baby (oh, oh)
 
 
 Tell me, tell me if you love me or not, love me or not, love me or not?
@@ -131,18 +131,18 @@ You gotta tell me if you love me or not, love me or not, love me or not?
 Been wishin' for you am I lucky or not, lucky or not, lucky or not?
 
 
-Ooooh, oooh
+Oh, oh
 Been wishin' for you
-Ooh, ooh
-Tryna' do what lovers do (ooh)
-Ooooh, oooh
+Oh oh
+Tryna' do what lovers do (oh)
+Oh, oh
 Been wishin' for you (wishin')
-Ooh, ooh
-Tryna' do what lovers do (ooh)
+Oh oh
+Tryna' do what lovers do (oh)
 
-(Hey yeah) What lovers do (oh, ohh)
-What lovers do (hmm na na na, hey yeah)
-What lovers do (oh, hmm na na na, oh, ohh)
+(Hey yeah) What lovers do (oh, oh)
+What lovers do (hm na na na, hey yeah)
+What lovers do (oh, hm na na na, oh, oh)
 
 Aren't we too grown for games?
 Aren't we too grown to play around?
@@ -150,32 +150,32 @@ Young enough to chase
 But old enough to know better
 Are we too grown for changin'?
 Are we too grown to mess around?
-Ooh and I can't wait forever baby
+Ohand I can't wait forever baby
 Both of us should know better
 
 
-Ooooh, oooh
+Oh, oh
 Been wishin' for you
-Ooh, ooh
-Tryna' do what lovers do (ooh)
+Oh oh
+Tryna' do what lovers do (oh)
 
 
-Ooooh, oooh
+Oh, oh
 Been wishin' for you
-Ooh, ooh
-Tryna' do what lovers do (ooh)
-Ooooh, oooh
+Oh oh
+Tryna' do what lovers do (oh)
+Oh, oh
 Been wishin' for you (you, oh yeah)
-Ooh, ooh (ooh)
-Tryna' do what lovers do (tryna' do what lovers do,ooh)
-Ooooh, oooh
+Oh oh (oh)
+Tryna' do what lovers do (tryna' do what lovers do,oh)
+Oh, oh
 Been wishin' for you (been wishin' for love)
-Ooh, ooh
-Tryna' do what lovers do (do uhh,ooh)
-Ooooh, oooh
+Oh oh
+Tryna' do what lovers do (do uhh,oh)
+Oh, oh
 Been wishin' for you (tryna' do)
-Ooh, ooh
-Tryna' do what lovers do (ooh)
+Oh oh
+Tryna' do what lovers do (oh)
 
 
 

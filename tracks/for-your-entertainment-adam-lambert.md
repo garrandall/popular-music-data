@@ -84,7 +84,7 @@ Entertainment
 Oh oh... Oh entertainment
 I'm here for your entertainment
 
-Oooohhh
+Oh
 Do you like what you see?
 Wooooaaaahhhh
 Let me entertain 'ya till you screeaaam

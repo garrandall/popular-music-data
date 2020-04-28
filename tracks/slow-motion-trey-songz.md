@@ -114,12 +114,12 @@ rankings:
 ---
 I know you got all dressed up for the club
 Waiting on a nigga come pick you up
-Baby, ooh, when I saw ya walking out the door
-Ooh, I just knew ya needed something more
+Baby, oh when I saw ya walking out the door
+Oh I just knew ya needed something more
 Now whip it straight back to the crib, ay
 Finna give you something that you won't forget, no
-Baby, ooh, I just wanna get you out them clothes
-Ooh, I just wanna see you dance in
+Baby, oh I just wanna get you out them clothes
+Oh I just wanna see you dance in
 
 
 Slow motion
@@ -131,12 +131,12 @@ In slow motion
 
 So shawty, let your hair down and take a sip
 Gon' put this joint between your lips
-Baby, ooh, why don't you make yourself comfortable?
-Ooh, while I go and put this tongue on you
+Baby, oh why don't you make yourself comfortable?
+Oh while I go and put this tongue on you
 So tell me when you ready, I'ma speed it up for you just for a second
 Just for a second, then I'ma slow it back down and keep it steady
-Ooh baby, now that you are out them clothes
-Ooh, I just wanna see you dance in
+Ohbaby, now that you are out them clothes
+Oh I just wanna see you dance in
 
 
 Slow motion

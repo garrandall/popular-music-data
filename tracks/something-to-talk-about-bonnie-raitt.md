@@ -89,7 +89,7 @@ rankings:
   start_date: '1991-11-30'
 ---
 
-Ooh, ooh, ooh,
+Oh, oh oh
 People are talkin', talkin' 'bout people,
 I hear them whisper, you won't believe it.
 They think we're lovers kept under cover,
@@ -125,17 +125,17 @@ How about love?
 Let's give 'em somethin' to talk about babe,
 A little mystery to figure out.
 Let's give 'em somethin' to talk about,
-How about love? Ooh...
+How about love? Oh...
 Listen to 'em baby
 (Somethin' to talk about)
 A little mystery won't hurt 'em
 (Somethin' to talk about)
 Let's give 'em somethin' to talk
 How about our love, love, love, love
-Whoowhoo mmmm hey oohh whoowhoo
+Whoowhoo mmm hey oh whoowhoo
 About love, love, love, love
 How about they talk about it? uh huh
-Talk about love........
+Talk about love...
 
 
 

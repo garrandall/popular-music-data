@@ -80,7 +80,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-08-12'
 ---
-I'm gonna give it!!
+I'm gonna give it!
 1 for the money!
 2 for the bass!
 3 to get ya goin'

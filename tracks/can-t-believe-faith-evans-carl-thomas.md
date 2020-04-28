@@ -106,7 +106,7 @@ It's so believing your deceiving
 It's official, I'm emotional
 
 I can't forget that night I saw you in the corner
-Wrapped up tight, you were warm, ooh
+Wrapped up tight, you were warm, oh
 Slow dancing on the floor while I was watching
 From the door so hurt, there you were
 

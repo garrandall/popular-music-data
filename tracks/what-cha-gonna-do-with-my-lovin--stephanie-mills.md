@@ -65,12 +65,12 @@ rankings:
   start_date: '1979-10-20'
 ---
 
-Ooh, I'm wishin'
+Oh, I'm wishin'
 Boy, I got my eyes on you
 This mystery is thrillin'
 I'm not sure just what to do
 
-Ooh, hoo, hoo, this oasis
+Oh, hoo, hoo, this oasis
 Is no mirage to me
 Touchin' gently
 Feel the love in me
@@ -87,7 +87,7 @@ All my pleasures make believe
 But with you as my daydream
 I never want to leave
 
-Ooh, ooh, ooh, this feeling
+Oh, oh, oh, this feeling
 Shines like a precious jewel
 And here if you want me
 All my love is for you

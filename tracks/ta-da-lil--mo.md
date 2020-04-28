@@ -36,7 +36,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-09-23'
 ---
-Chorus:
 Ta Da
 Tryna make you disappear
 Make you pack your bags
@@ -48,11 +47,9 @@ And the driver's at the door
 Oh, won't you please disappear?
 Make yourself invisible but leave the car here
 The pink slips in my name so the Benz has got to stay
-Why you
-St-st-stuttering
+Why you St-st-stuttering
 Tryin' to explain
 
-Verse 1:
 I had it up to here
 I make the choice today
 See one of us will be leaving
@@ -65,18 +62,15 @@ What's up with this girl?
 Some supermarket clerk is visiting our house
 Each day when I'm at work
 I just can't believe you had the nerve
-There'll be no more~~
+There'll be no more
 No more kisses
 We won't be makin' love
-I'm tired of your SH - IT
+I'm tired of your shit
 I had enough
 If I had three wishes you'd see me close my eyes
-Real tight and concentrate like 1,2,3'
+Real tight and concentrate like 1, 2, 3
 And ta da
 
-Repeat Chorus
-
-Verse 2:
 See one of us has got to go
 It's gonna be you cause it's my condo
 See the two of us can't be up in here
@@ -93,10 +87,8 @@ We won't be makin' love
 I'm tired of yo' SH - IT
 I had enough
 If I had three wishes you'd see me close
-My eyes real tight and concentrate like 1,2,3..
-And ÜberBot 13:47, 11 April 2006 (PDT)
+My eyes real tight and concentrate like 1, 2, 3
 
-Repeat Chorus
 Ta da
 Tryin' make you disappear (dang you still here nigga)
 Make you pack yo' bag get the hell (get hell up out) out of here
@@ -108,16 +100,3 @@ OhÜberBot 13:47, 11 April 2006 (PDT) won't please disappear
 (It's funny but that what I want hear)
 The ----- is in my name so the business got stay why you
 St-st-stuttering tryin' to explain
-
-Repeat Chorus
-Disappear13:47, 11 April 2006 (PDT)
-Oh ÜberBotoÜberBot 13:47, 11 April 2006 (PDT)
-The sound I'm waiting for the taxi outside
-And the driver's at the door
-OhÜberBot 13:47, 11 April 2006 (PDT) won't you please
-(please, please, pleaseÜberBot)
-The ---- is in my so the business have to stay why
-You st-st-stuttering
-And tryin' to explain
-
-TA DA!

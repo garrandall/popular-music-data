@@ -226,19 +226,19 @@ I know you are free
 Cuz I can see your star
 Shinin down on me
 
-(together again, ooh)
+(together again, oh
 Good times we'll share again
-(together again, ooh)
+(together again, oh
 Makes me wanna dance
-(together again, ooh)
+(together again, oh
 Say it loud and proud
-(together again, ooh)
+(together again, oh
 All my love's for you
 
 Always been a true angel to me
 Now above
 I can't wait for you to wrap your wings around me baby
-Oooh wrap them around me baby
+Oh wrap them around me baby
 
 Sometimes hear you whisperin
 No more pain
@@ -249,13 +249,13 @@ I'm so happy for my baby
 
 
 
-(together again, ooh)
+(together again, oh
 Good times we'll share again
-(together again, ooh)
-Ooh it makes me wanna dance
-(together again, ooh)
+(together again, oh
+Ohit makes me wanna dance
+(together again, oh
 Say it loud and proud
-(together again, ooh)
+(together again, oh
 All my love's for you
 
 There are times when I look above and beyond
@@ -266,8 +266,4 @@ What I'd give just to hold you close
 As on earth
 In heaven we will be together baby
 Together again my baby
-
-
-
-
 

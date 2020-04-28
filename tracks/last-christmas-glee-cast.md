@@ -32,7 +32,7 @@ I'll give it to someone special (Special)
 Once bitten and twice shy
 I keep my distance
 But you still catch my eye
-Tell me baby, do you recognize me? (Ooh)
+Tell me baby, do you recognize me? (Oh)
 Well, it's been a year
 
 
@@ -68,7 +68,7 @@ I'll give it to someone special (I'll give it someone special)
 
 
 Bum, bum, bum, bum-bum-bum-bum-bum, bum-bum (Whoa, hee)
-Bum-bum-bum-bum-bum bum (Oh-oh-oh-ooh)
+Bum-bum-bum-bum-bum bum (Oh-oh-oh-oh)
 Bum-bum-bum-bum-bum (Ha)
 
 
@@ -80,8 +80,8 @@ My god, I thought you were someone to rely on (Someone to rely on)
 Me? I guess I was a shoulder to cry on
 
 
-A face on a lover with a fire in his heart (Ooh, woah)
-(Ooh) A man under cover but you tore me apart (Ooh, ooh)
+A face on a lover with a fire in his heart (Oh, woah)
+(Oh) A man under cover but you tore me apart (Oh, oh)
 
 
 (Now I've) found a real love you'll never fool me again
@@ -96,7 +96,7 @@ This year, to save me from tears (Save me from tears)
 I'll give it to someone special
 
 
-Last Christmas, I gave you my heart (Ooh, ooh)
+Last Christmas, I gave you my heart (Oh, oh)
 
 
 But the very next day, you gave it away (You gave me away)

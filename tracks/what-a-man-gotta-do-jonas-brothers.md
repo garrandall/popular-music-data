@@ -83,8 +83,8 @@ What a man gotta do?
 What a man gotta prove?
 To be totally locked up by you
 
-Ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
-Ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
+Oh-ohoohhoh-ohoohhohohoh
+Oh-ohoohhoh-ohoohhohohoh
 Tell me what a man gotta do?
 
 So, what a man gotta do? (What a man gotta do?)

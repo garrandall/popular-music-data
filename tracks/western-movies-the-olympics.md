@@ -63,12 +63,12 @@ They're comin' through the T.V. shootin up the land
 Ah...um...my baby loves the Western movies
 My baby loves the Western movies
 Bam, bam, shoot 'em up Pow
-Ah..um..My babe loves the Western Movies
+Ah...um...My babe loves the Western Movies
 I call my baby on the telephone
 To tell her half my head was gone
 I just got hit by a great big brick
 She says thanks for reminding me it's time for Maverick
-Ah..um...my baby loves the Western movies
+Ah...um...my baby loves the Western movies
 My baby loves the Western movies
 Bam, bam, shoot em up pow
 Ah...um...
@@ -81,7 +81,7 @@ Here's the story of the certain Wagon Train Mccord
 A broken arrow has broken my heart
 A Jefferson Drum with his Restless Gun
 Hog-tied my baby and the fight was won
-Ah..um...my baby loves the Western movies
+Ah...um...my baby loves the Western movies
 My baby loves the western movies
 Bam bam shoot em up pow
 Ah um, my baby loves the western movies

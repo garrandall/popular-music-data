@@ -14,19 +14,19 @@ rankings:
 ---
 Mercedes:
 There's a boy I know
-He's the one I dream of, ooh-ooh
+He's the one I dream of, oh-oh
 Looks into my eyes
 Takes me to the clouds above, mmm
 
-Oh, I lose control (Santana: Ooh-ooh)
+Oh, I lose control (Santana: Oh-oh)
 Can't seem to (with Santana: get enough, uh huh)
-When I wake from dreaming (Kurt and Santana: Ooh-ooh)
+When I wake from dreaming (Kurt and Santana: Oh-oh)
 Tell me is it (with Kurt and Santana: really love, aha)
 
 Rachel (Kurt, Mercedes, and Santana):
-(Ooh) How will I know (Don't trust your feelings)
+(Oh) How will I know (Don't trust your feelings)
 How will I (with Kurt, Mercedes, and Santana: know)
-(Ooh) How will I know (Love can be deceiving)
+(Oh) How will I know (Love can be deceiving)
 How will I (with Kurt, Mercedes, and Santana: know)
 
 Kurt, Mercedes, Rachel, and Santana (Mercedes and Santana):
@@ -40,9 +40,9 @@ Falling in love (is all bitter sweet)
 This love is strong (why do I feel weak, oh, wake me)
 
 Mercedes (with Kurt, Rachel, and Santana):
-I'm shaking (Santana: Ooh-ooh)
+I'm shaking (Santana: Oh-oh)
 I wish I had you (with Santana: near me now, uh huh)
-(Said there's no) mistaking (Kurt, Rachel, and Santana: Ooh-ooh)
+(Said there's no) mistaking (Kurt, Rachel, and Santana: Oh-oh)
 What I feel is (really love) (Kurt, Rachel, and Santana: Aha)
 Oh, tell me
 
@@ -79,7 +79,7 @@ How will I know
 
 Kurt, Rachel, and Santana (Mercedes):
 How will I know if he really loves me? (How will I know, hey, how will I know)
-I say a prayer with every heart beat (How will I know, ooh, how will I know)
+I say a prayer with every heart beat (How will I know, oh, how will I know)
 I fall in love whenever we meet (How will I know, yeah, how will I know)
 I'm asking you cause you know about these things (How will I know, yeah)
 

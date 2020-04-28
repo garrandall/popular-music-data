@@ -75,7 +75,7 @@ Even when I walk
 My baby does the shimmy
 When she talks that talk
 Shimmy shimmy
-Ah, ooh, wa, wee
+Ah, oh, wa, wee
 You can do the shimmy
 By watching me
 The shimmy shimmy
@@ -87,7 +87,7 @@ For old folks too
 You go backwards and forwards
 Then you're in the groove
 Shimmy shimmy
-Ooh, my soul
+Oh, my soul
 The shimmy shimmy
 Will never grow old
 I did the shimmy
@@ -98,7 +98,7 @@ I did the shimmy out on a date
 My girl looked at me and said
 You're staying in taste
 Shimmy shimmy
-Ah, ooh, wa, wee
+Ah, oh, wa, wee
 The shimmy'll go down
 In history, hey
 The shimmy shimmy
@@ -110,7 +110,7 @@ For old folks too
 You go backwards and forwards
 Then you're in the groove
 Shimmy shimmy
-Ooh, my soul
+Oh, my soul
 The shimmy shimmy
 Will never grow old
 I did the shimmy
@@ -121,7 +121,7 @@ The shimmy shimmy out on a date
 They look at you and say
 You're staying in taste
 A shimmy shimmy
-Ah, ooh, wa, wee
+Ah, oh, wa, wee
 The shimmy'll go down
 In history
 Shimmy shimmy, to and fro (oh, yeah)

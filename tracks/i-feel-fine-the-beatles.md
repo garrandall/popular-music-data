@@ -79,9 +79,6 @@ She said so
 
 She's in love with me and I feel fine, mmm
 
-
-
-
 Baby says she's mine, you know
 She tells me all the time, you know
 She said so

@@ -17,21 +17,21 @@ rankings:
   start_date: '2020-01-04'
 ---
 I'll have a Blue Christmas without you
-(Ooh, ooh, ooh, ooh)
+(Oh, oh, oh, oh)
 I'll be so blue just thinking about you
-(Ooh, ooh, ooh, ooh)
+(Oh, oh, oh, oh)
 Decorations of red on a green Christmas tree
-(Ahh, ahh)
+(Ah, ah)
 Won't be the same dear, if you're not here with me
-(Ooh)
+(Oh)
 
 
 And when those blue snowflakes start fallin'
-(Ooh, ooh, ooh, ooh)
+(Oh, oh, oh, oh)
 That's when those blue memories start callin'
-(Ooh, ooh, ooh, ooh)
+(Oh, oh, oh, oh)
 You'll be doin' all right, with your Christmas of white
-(Ahh, ahh)
+(Ah, ah)
 But I'll have a blue, blue, blue, blue Christmas
 
 
@@ -40,6 +40,6 @@ Oooooaaaooooh)
 
 
 You'll be doin' all right, with your Christmas of white
-(Ahh, ahh)
+(Ah, ah)
 But I'll have a blue, blue, blue, blue Christmas
-(Ooh, ooh, ooh, ooh)
+(Oh, oh, oh, oh)

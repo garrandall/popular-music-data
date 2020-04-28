@@ -93,9 +93,9 @@ I am afraid
 
 
 I loose my way
-And it's not too long (before you point it out) 
+And it's not too long (before you point it out)
 I cannot cry
-Because I know that's weakness (in your eyes) 
+Because I know that's weakness (in your eyes)
 I'm forced to fake
 A smile, a laugh everyday of my life
 My heart can't possibly break
@@ -116,13 +116,13 @@ I am afraid
 
 I watched you die
 I heard you cry every night in your sleep
-(I watched you die...) 
+(I watched you die...)
 I was so young
 You should have known better than to lean on me
-(I was too young for you to lean on me...) 
+(I was too young for you to lean on me...)
 You never thought of anyone else
 You just saw your pain
-(You never saw me...) 
+(You never saw me...)
 And now I cry in the middle of the night
 For the same damn thing
 
@@ -133,17 +133,17 @@ Because of you
 I learned to play on the safe side so I don't get hurt
 Because of you
 I find it hard to trust not only me but everyone around me
-Because of you 
+Because of you
 I am afraid
 
 
 Because of you...
 
-Mmmmmm... Oooooh...
+Mmm... Oh...
 
 Because of you...
 
-Mmmmmm... Oooooh...
+Mmm... Oh...
 
 
 

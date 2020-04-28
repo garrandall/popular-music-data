@@ -89,7 +89,7 @@ Hey I won't turn my back this time
 Hey baby I'm wrong
 Think I wanna wrap my lovin arms around you
 Hey baby, I'm so wrong
-I cant live without your love
+I can't live without your love
 I tried to hide my fear
 I feel so weak inside
 I try not to lose control
@@ -99,7 +99,7 @@ Lord I have never felt this way
 Hey baby I'm wrong
 Think I wanna wrap my lovin arms around you
 Hey baby, I'm so wrong
-I cant live without you
+I can't live without you
 Hey baby, I'm wrong
 Stupidity put the blind on me
 Hey baby, I'm so wrong
@@ -112,7 +112,7 @@ Gonna kiss and hold you baby
 Just like I told you baby
 I got your lovin right here
 Hey baby I'm wrong
-Think i wanna wrap my lovin arms around you
+Think I wanna wrap my lovin arms around you
 Hey baby, I'm so wrong
 I can't live without you
 Hey baby, I'm wrong

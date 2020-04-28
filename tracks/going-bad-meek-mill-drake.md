@@ -193,13 +193,13 @@ Girl, I left your love at Magic, now it's all shade
 Still goin' bad on you anyway
 
 
-Whoa, whoa, ooh, whoa
+Whoa, whoa, oh, whoa
 Whoa, whoa, ah
 
 I could fit like 80 racks in my Amiris (80 racks)
 Me and Drizzy back-to-back, it's gettin' scary (Back-to-back)
 If you fuckin' with my opps, just don't come near me (Get out my way)
-Put some bands all on your head like Jason Terry (Brrt, brrt, ooh)
+Put some bands all on your head like Jason Terry (Brrt, brrt, oh)
 Richard Mille cost a Lambo (That's a Lambo)
 Known to keep the baddest bitches on commando (Salute)
 Every time I'm in my trap, I move like Rambo (Extended)
@@ -208,11 +208,11 @@ For real
 She said, "Oh, you rich rich?" ("You rich rich")
 Bitch, I graduated, call me "Big Fish" (Ballin')
 I got Lori Harvey on my wish list (That's Lori)
-That's the only thing I want for Christmas (True story, ooh)
+That's the only thing I want for Christmas (True story, oh)
 I been had my way out here, yeah, know that's facts (Facts)
 You ain't livin' that shit you say, yeah, we know that's cap (That's cap)
 You ain't got to ask me when you see me, know I'm strapped (Brrt)
-DC, OVO, we back again, we goin' plat' (Ooh, ooh)
+DC, OVO, we back again, we goin' plat' (Oh, oh)
 
 
 It's just a lil' 10-piece for her

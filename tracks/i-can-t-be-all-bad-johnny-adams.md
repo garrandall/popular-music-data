@@ -27,7 +27,7 @@ Please don't leave me
 For a little thing
 A little thing like that
 
-Cause you know, ohh
+Cause you know, oh
 I couldn't love you, honey
 And be all bad
 
@@ -65,4 +65,4 @@ Oh, you'll see, right now
 That I'm your sweet loving man
 Oh, yes, I am
 
-Oh, let me tell you that I'm....
+Oh, let me tell you that I'm...

@@ -83,7 +83,7 @@ All you raggedy-ass hoes, GET Y'ASS OUUUUT!
 Pump, pump, pump, get it, get it
 Shake, shake, shake, shake a lil' somethin'
 That's the way
-Yeaaaah
+Yeah
 That's the way
 You go girl!
 
@@ -125,9 +125,6 @@ You better get yours 'cause I gets mine
 Show what you got; bitch, stop frontin'
 Drop them draws and shake a lil' somethin'!
 
-
-
-
 I love to see 'em in lingerie
 Tattooed titties and a Boosty-A
 Stacked on the back of a cutie pie
@@ -145,9 +142,6 @@ You wanna get freaky? Lemme kiss your belly button
 You're so fine, I can't take it
 You gots to freak it, you gots to shake it!
 
-
-
-
 To the left...
 
 Yeahhhhh! Get it get it!
@@ -164,8 +158,4 @@ To the back y'all!
 Make time!
 
 Pump, pump, pump, get it, get it!
-
-
-
-
 

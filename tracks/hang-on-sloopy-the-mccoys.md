@@ -70,10 +70,10 @@ rankings:
 (Sloopy, hang on)
 
 
-Sloopy lives in a very bad part of town (Ooh, ooh, ooh, ooh)
-And everybody, yeah, tries to put my Sloopy down (Ooh, ooh, ooh, ooh)
-Sloopy, I don't care what your daddy do (Ooh, ooh, ooh, ooh)
-'Cause you know, Sloopy, girl, I'm in love with you (Ooh, ooh, ooh, ooh)
+Sloopy lives in a very bad part of town (Oh, oh, oh, oh)
+And everybody, yeah, tries to put my Sloopy down (Oh, oh, oh, oh)
+Sloopy, I don't care what your daddy do (Oh, oh, oh, oh)
+'Cause you know, Sloopy, girl, I'm in love with you (Oh, oh, oh, oh)
 
 
 And so I sing out
@@ -86,9 +86,9 @@ And so I sing out
 
 
 Sloopy, let your hair down, girl
-Let it hang down on me (Ooh, ooh, ooh, ooh)
+Let it hang down on me (Oh, oh, oh, oh)
 Sloopy, let your hair down, girl
-Let it hang down on me, yeah, yeah (Ooh, ooh, ooh, ooh)
+Let it hang down on me, yeah, yeah (Oh, oh, oh, oh)
 
 
 Come on, Sloopy (Come on, come on)

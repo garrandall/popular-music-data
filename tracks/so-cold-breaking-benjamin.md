@@ -115,9 +115,6 @@ Show me how defenseless you really are
 Satisfied and empty inside
 Well, that's alright, let's give this another try
 
-
-
-
 Show me how it ends, it's alright
 Show me how defenseless you really are
 Satisfied and empty inside

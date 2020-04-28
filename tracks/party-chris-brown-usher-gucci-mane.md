@@ -99,7 +99,7 @@ Yeah, yeah, yeah
 
 Pulled up on your bitch, tell your man I'm sorry
 Hundred on my wrist, jumpin' out the 'rari
-Ooh, she hit the splits, she know how to party
+Oh she hit the splits, she know how to party
 When I'm with my clique, we know how to party
 How to party, yeah, we know how to party
 How to party, yeah, we know how to party
@@ -119,7 +119,7 @@ It's my birthday with the cake, fuck it up, then let me eat it
 
 Pulled up on your bitch, tell your man I'm sorry
 Hundred on my wrist, jumpin' out the 'rari
-Ooh, she hit the splits, she know how to party
+Oh she hit the splits, she know how to party
 When I'm with my clique, we know how to party
 How to party, yeah, we know how to party
 How to party, yeah, we know how to party
@@ -139,7 +139,7 @@ It's my birthday with the cake, lick it all, let me eat it
 
 Pulled up on your bitch, tell your man I'm sorry
 Hundred on my wrist, jumpin' out the 'rari
-Ooh, she hit the splits, she know how to party
+Oh she hit the splits, she know how to party
 When I'm with my clique, we know how to party
 How to party, yeah, we know how to party
 How to party, yeah, we know how to party
@@ -163,7 +163,7 @@ Gucci, CB VIP, so fuck them niggas, look at me, Wop
 
 Pull up on your bitch, tell your man I'm sorry
 Hundred on my wrist, jumpin' out the 'rari
-Ooh, she hit the splits, she know how to party
+Oh she hit the splits, she know how to party
 When I'm with my clique, we know how to party
 How to party, yeah, we know how to party
 How to party, yeah, we know how to party

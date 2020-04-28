@@ -98,7 +98,7 @@ So all we do is tune them out
 
 I swear they got some nerve
 Spreadin what they heard
-I cant give them no run
+I can't give them no run
 I can't be concerned with all that talk
 I won't be involved
 That's my word

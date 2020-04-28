@@ -74,7 +74,7 @@ Whatever you're looking for
 Hey! Don't come around here no more
 I've given up, stop
 I've given up, stop
-Ah, ah, ah, ooh-ooh
+Ah, ah, ah, oh-oh
 I've given up, stop, on waiting any longer
 I've given up, on this love getting stronger
 
@@ -91,7 +91,7 @@ Whatever you're looking for
 Hey! Don't come around here no more
 I've given up, stop
 I've given up, stop
-Ah, ah, ah, ooh-ooh
+Ah, ah, ah, oh-oh
 I've given up, stop, you tangle my emotions
 I've given up, honey please, admit it's over
 

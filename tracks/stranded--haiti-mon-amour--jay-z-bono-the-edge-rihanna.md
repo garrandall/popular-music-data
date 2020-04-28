@@ -45,9 +45,6 @@ Haiti, Mon Amour
 Not gonna leave you stranded, alone, alone
 Oh no
 
-
-
-
 Learn from the past, New Orleans was flooded
 So we know we just can’t rely on the government
 We under the rubble again, here we go rumbling when
@@ -60,16 +57,10 @@ Nah, not like this, tomorrow’s survivors gonna carry on your name
 You live on inside us, your memory’s alive with us
 You inspired us, to rebuild this country, you just guide us
 
-
-
-
 It’s not the angels that are on their way
 Its not the bells of Santa Trinita
 The people waiting in positions vacant
 For hands to help not just to pray
-
-
-
 
 Haïti va s’élever
 Tu vas te relever

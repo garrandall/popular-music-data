@@ -90,7 +90,7 @@ I can't sleep (I can't sleep)
 Night after night don't know what it means
 In my dreams (In my dreams)
 What can I say or do
-You wont come back, were through
+You won't come back, were through
 I've realized too late
 That, baby, your love has turned away
 In my dreams it's still the same
@@ -98,14 +98,14 @@ Your love is strong, it still remains
 In my dreams you're still by me
 Just the way it used to be
 Hey
-Ahh
+Ah
 Calling your name, but you're turning away
 Please don't leave
 Running in circles, waiting to see
 You in my dreams (in my dreams)
 What can I say or do
 (What can I say or do)
-You wont come back, we're through
+You won't come back, we're through
 I've realized too late
 That, baby, your love has turned away
 In my dreams it's still the same

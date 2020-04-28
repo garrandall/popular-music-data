@@ -80,11 +80,11 @@ My girl, my girl, my girl
 Talkin' 'bout my girl, my girl
 
 
-Ooh, ooh
+Oh, oh
 Hey, hey, hey
-Ooh, ooh
+Oh, oh
 Hey, hey, hey
-Ooh, ooh, yeah
+Oh, oh, yeah
 
 
 I don't need no money, fortune, or fame

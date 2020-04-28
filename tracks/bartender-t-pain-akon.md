@@ -115,7 +115,7 @@ Everybody's jockin' me as soon as I stepped in the spot (I stepped in the spot)
 Shawty what is your name?
 
 
-Ooh she made us drinks, to drink
+Oh she made us drinks, to drink
 We drunk 'em, got drunk
 And then I think she thinks I'm cool
 She gave me a wink, I winked back
@@ -123,7 +123,7 @@ And then I think that, we hit it off something proper like...
 
 
 I like the bartender
-(Ooh if you're lookin' for me)
+(Oh if you're lookin' for me)
 I'm at the bar with her
 (Uh-huh, OK)
 I like the bartender
@@ -142,7 +142,7 @@ Every time I hit the spot baby girl taking care of me (taking care of me)
 How do you think I feel?
 
 
-Ooh she made us drinks, to drink
+Oh she made us drinks, to drink
 We drunk 'em, got drunk
 And now I know she thinks I'm cool
 She gave me a wink, I winked back
@@ -166,8 +166,4 @@ We drunk 'em, got drunk
 And now I know she thinks I'm cool
 She gave me a wink, I winked back (Uh-huh)
 And then I think that, (Uh-huh) we 'gonna have fun at my spot tonight... (Oh yes)
-
-
-
-
 

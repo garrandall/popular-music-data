@@ -86,7 +86,7 @@ Gather 'round me girls and boys
 I think we're making too much noise
 So get soft, oh-ah, just a little bit soft
 Just a little bit soft, soft, soft
-Just a little bit softer softer softer ooh
+Just a little bit softer softer softer oh
 Just a little bit softer
 (Just a little bit higher)
 

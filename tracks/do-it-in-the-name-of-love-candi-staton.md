@@ -47,12 +47,12 @@ rankings:
 
 You can make me talk so easy
 Boy, you sure know how
-To please me (ooh, yeah)
+To please me (oh yeah)
 
 Don't you do it if you
 Think you got to, no
 Don't you do it if you
-Think you ought to (ooh, yeah)
+Think you ought to (oh yeah)
 
 Oh, oh, oh
 Do it in the name of love
@@ -62,17 +62,17 @@ That's reason enough
 Do it in the name of love
 Do it in the name of love
 
-Ooh, Lord, mmm hmm
+Oh Lord, mmm hm
 Got to, oh
 
 Don't you know we go together
 I swear it feels like forever, boy
-(Ooh, yeah)
+(Oh yeah)
 
 Don't be scared now
 Don't you worry, oh, yeah
 It's all right
-There's no hurry, woo (ooh, yeah)
+There's no hurry, woo (oh yeah)
 
 Oh, oh, oh
 Do it in the name of love

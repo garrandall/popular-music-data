@@ -75,7 +75,3 @@ All in their feelings these days
 But hearing the scripture with that many sixes
 You should be afraid
 
-
-
-
-

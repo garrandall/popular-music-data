@@ -28,7 +28,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-10-31'
 ---
-And Jackie, and Jackie, and Jackie, ha-hmm
+And Jackie, and Jackie, and Jackie, ha-hm
 And Jackie, and Jackie, and Jackie, hey
 
 

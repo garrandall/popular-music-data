@@ -104,13 +104,11 @@ Remember the days when we would just hold hands
 Holding and kissing in the warm sand
 Those were the times when I knew you cared
 
-Chorus
 
 Oh girl, here I am dialing your number
 Sometimes I really don't know how you feel about me
 But i'm gonna let you know how I feel about you
 
-Chorus
 
 Time after time when we're together
 I tell you I love you now and forever

@@ -155,11 +155,6 @@ It's driving me insane
 Without your touch
 Life will be lonely
 
-
-
-
-
-
 Morning has come
 Another day
 I must pack my bags

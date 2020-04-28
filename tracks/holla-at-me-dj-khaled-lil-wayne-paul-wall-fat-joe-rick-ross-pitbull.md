@@ -97,9 +97,6 @@ Have your baby mama bless the team
 Shit, I ain't even know she could twerk it like that
 She a motherfucking sex machine, holla at me baby
 
-
-
-
 Stunting in a magnum riding with my hat low
 Forty-five magnum, barrel full of air holes
 Dade County, represent, Dopeboy ever since
@@ -113,9 +110,6 @@ Smoking on the mentleys, Dade county, big cheese
 Flip soft, whip that, Rick Ross rip that
 Khaled go hard dawg, talk to 'em Paul Wall
 
-
-
-
 It's Mr. 3-0-5 A.K.A
 Mr. Snort yay, spit rocks, made in Dade
 I owe my future to
@@ -128,8 +122,4 @@ We in, get our bread then we out, no doubt
 Harlas and priests
 These boys dirty, they'll fuck your mother, sister, daughter and nieces
 Ahora loca, mueva la cadera, abre la boca aye viene la madera
-
-
-
-
 

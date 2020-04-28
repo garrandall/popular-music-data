@@ -133,13 +133,13 @@ RIGHT THERE! That’s exactly what I’m talking about. Smooth, R and B singer c
 
 *singing* Yeah, boy, You know I love you! Tell me what you say to that! *pause* *guns go off* Holy shit! What the fuck!
 
-“Gave you my.... baby be mine”
+“Gave you my... baby be mine”
 What… what did you give him?
 “And I gave you my all, now baby be mine”
 
 Oh… why was that edited out the first time? Did the first take have a… different word there?
 
-“Gave you my....” *...you know… “baby be mine”
+“Gave you my...” *...you know… “baby be mine”
 
 Although, the word she actually says here is “I gave you my all”, but then she says, “Now baby, be mine”. And, seeing that the context is, “Yeah, I don’t always answer my phone, but when you need me, I’m there, giving you my “ALL” and since, after giving him her “all”, she still doesn’t know whether or not he wants to be with her, I’m going to forgo any thought that she’s talking about spending quality time together as a loving couple and just assuming she’s talking about her… you know…
 

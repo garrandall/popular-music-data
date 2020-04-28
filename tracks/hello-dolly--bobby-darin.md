@@ -77,7 +77,7 @@ So, golly gee, fellows
 Find her a vacant knee, fellows
 Dolly will never go away
 Promise you'll never go away
-Dolly will never go away....again
+Dolly will never go away...again
 
 Look out, old Dolly is back!
 

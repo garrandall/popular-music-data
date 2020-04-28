@@ -61,7 +61,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-08-02'
 ---
-Ooh, hoo
+Oh, hoo
 Yeah, yeah, yeah
 My, my, my, my
 
@@ -104,7 +104,7 @@ Black pearl, pretty little girl
 You been in the background much too long
 
 
-Ooh, hoo, yeah, yeah, yeah
+Oh, hoo, yeah, yeah, yeah
 My, my, my, my babe
 You know I need you
 You know I want to keep you for myself

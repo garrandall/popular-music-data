@@ -122,9 +122,6 @@ Your body next to mine
 Living in the memory of our song
 I'd give my all for your love tonight
 
-
-
-
 I'd give my all to have
 Just one more night with you
 I'd risk my life to feel

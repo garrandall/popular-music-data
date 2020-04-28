@@ -156,7 +156,7 @@ If your lips are moving, if your lips are moving
 If your lips are moving then you're ly-ly-lying, baby
 
 Hey baby don't you bring them tears,
-'Cause it's too late, too late baby oooh uh
+'Cause it's too late, too late baby oh uh
 You only love me when you're here
 You're so two-faced, two-faced babe
 You can buy me diamond earrings

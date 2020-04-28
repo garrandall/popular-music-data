@@ -138,7 +138,7 @@ Can you save me from this?
 There's a fear in me, it’s not showing
 This could be the end of me
 And everything I know
-Ooh, but I won’t go
+Oh but I won’t go
 
 
 I look ahead to all the plans that we made
@@ -159,7 +159,7 @@ But it's not my time, I'm not going
 There's a will in me and now I know that
 This could be the end of me
 And everything I know
-Ooh, but I won't go
+Oh but I won't go
 I won't go
 
 

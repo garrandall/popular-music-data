@@ -56,7 +56,7 @@ I'm proud to say I found in you
 
 I`m so glad we reached an understanding
 Now I know
-My heart is safe with you, ooh
+My heart is safe with you, oh
 So now my love to you, baby
 I surrender
 
@@ -77,7 +77,7 @@ To come between me and you
 We're together
 And it keeps me so excited
 To think of
-What the power of love can do, ooh
+What the power of love can do, oh
 And I`m filled with a love
 That`s oh, so tender
 
@@ -144,7 +144,7 @@ And that`s what drove you straight to me
 
 Now to you I make a lasting dedication
 I'll show you
-All that love and life can be, ooh
+All that love and life can be, oh
 And each day that I live
 I will deliver
 

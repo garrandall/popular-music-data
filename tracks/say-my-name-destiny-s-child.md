@@ -217,7 +217,7 @@ Say my name, say my name (say my name)
 You actin' kinda shady, ain't callin' me baby
 Why the sudden change?
 Say my name, say my name (Say my name)
-If no one is around you, say “baby I love you” (If ain't nothing changed, oh ooh)
+If no one is around you, say “baby I love you” (If ain't nothing changed, oh oh
 If you ain't runnin' game
 Say my name, say my name (Baby, say my name)
 You actin' kinda shady, ain't callin' me baby (woah)
@@ -234,7 +234,7 @@ Yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah (Break it down)
-Ooh, ooh, woah
+Oh, oh woah
 (Uh, uh-uh, D-C, take it to the bridge, come on)
 
 

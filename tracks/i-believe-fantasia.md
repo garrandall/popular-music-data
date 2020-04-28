@@ -74,7 +74,7 @@ Oh
 There's a time for every soul to fly
 It's in the eyes of every child
 It's the hope, the love that saves the world
-And, ohhh, we should never let it go
+And, oh, we should never let it go
 
 
 I can see it in the stars across the sky

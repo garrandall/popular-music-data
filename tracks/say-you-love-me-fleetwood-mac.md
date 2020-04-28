@@ -107,9 +107,6 @@ And there's not another living soul around
 You woo me until the sun comes up
 And you say that you love me
 
-
-
-
 Baby, baby, hope you're going to stay away
 Cause I'm getting weaker, weaker everyday
 I guess I'm not as strong as I used to be

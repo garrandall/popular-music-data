@@ -101,7 +101,7 @@ We've gone and made such fools of ourselves
 Do you see what we've done?
 We've gone and made such fools of ourselves
 
-Yeah...!
+Yeah
 
 How did we get here?
 Well, I used to know you so well, yeah, yeah
@@ -112,7 +112,7 @@ How did we get here?
 I think I know
 I think I know
 
-Ooh, there is something
+Oh there is something
 I see in you
 It might kill me
 I want it to be true

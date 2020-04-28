@@ -40,7 +40,7 @@ Love elsewhere, for you I'm prayin'
 Don't look back, you ain't stayin'
 Here, I'm crying, I can't sleep
 I sigh, cause I thought this would never be
-I say ohh, I'm screamin' out for someone
+I say oh, I'm screamin' out for someone
 And now she's knockin' on the door for me
 She just won't leave me alone
 She wants to speak with me

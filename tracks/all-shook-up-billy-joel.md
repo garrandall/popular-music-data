@@ -24,13 +24,13 @@ Well I bless my soul, what's wrong with me?
 I'm itching like a man on a fuzzy tree
 My friends say I'm actin' queer as a bug
 I'm in love, I'm all shook up
-Mm mm mmmmm,yay yay, yeah!
+Mm mm mmm,yay yay, yeah!
 
 Well my hands are shaky and my knees are weak
 I can't seem to stand on my own two feet
 Now, who do you thank when you have such luck?
 I'm in love, I'm all shook up
-Mm mm, mmmm ,yay, yay, yeah!
+Mm mm, mmm ,yay, yay, yeah!
 
 Well please don't ask me what's on my mind
 I'm a little mixed up, but I'm feelin' fine

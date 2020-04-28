@@ -71,11 +71,11 @@ We could tell it was pa comin' down the hill,
 'Cause he'd rear back and he'd sound off somethin' like this...
 
 Ewww, ewwww,
-Wooo hooo, hooo-ooo,
+Wooo hooo, hooo-oo,
 Ha ha ha ha haaaa.
 
 Ewww, ewwww,
-Wooo hooo, hooo-ooo,
+Wooo hooo, hooo-oo,
 Ha ha ha ha haaaa.
 
 Now we'd go out to meet him,
@@ -95,13 +95,13 @@ And there never been cares for all his needs,
 And he'd rear back and bellow out a course or two.
 
 Ewww, ewwww,
-Wooo hooo, hooo-ooo,
+Wooo hooo, hooo-oo,
 Ha ha ha ha haaaa.
 
 Hehehehe,
 
 Ewww, ewwww,
-Wooo hooo, hooo-ooo,
+Wooo hooo, hooo-oo,
 Ha ha ha ha haaaa.
 
 That's my pa.
@@ -122,13 +122,13 @@ Pa got up and looked around,
 And then ran back and let us have it again...
 
 Ewww, ewwww,
-Wooo hooo, hooo-ooo,
+Wooo hooo, hooo-oo,
 Ha ha ha ha haaaa.
 
 Ewww, ewwww,
-Wooo hooo, hooo-ooo,
+Wooo hooo, hooo-oo,
 Ha ha ha ha haaaa.
 
 Ewww, ewwww,
-Wooo hooo, hooo-ooo,
+Wooo hooo, hooo-oo,
 Ha ha ha ha haaaa.

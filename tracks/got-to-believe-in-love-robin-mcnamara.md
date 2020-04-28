@@ -33,7 +33,6 @@ And you're afraid to love and lose a second time
 Oh but you and I we got such a beautiful thing
 Why'd you want to let it go when it's just beginning to grow
 
-Chorus:
 
 You got to believe in love
 You got to believe in love
@@ -48,11 +47,9 @@ Oh, not long ago oh I was once left behind
 Ya see that's how I know
 We gotta long long way to go
 
-Chorus
 
 Baby just believe
 Baby just believe
 Baby just believe
 Baby just believe
 
-Chorus

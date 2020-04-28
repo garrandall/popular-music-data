@@ -81,7 +81,7 @@ rankings:
   start_date: '2009-02-14'
 ---
 
-Step Back! 
+Step Back!
 Gonna come at you fast
 I'm driving out of control and getting ready to crash
 Won't stop shaking up what I can
@@ -94,7 +94,7 @@ and you'll be loving it
 
 Some days I'm a super bitch
 Up to my old tricks
-but it wont last forever
+but it won't last forever
 Next day I'm your super girl
 Out to save the world
 and it keeps getting better
@@ -112,10 +112,10 @@ So sexy sour and sweet
 and you'll be loving it
 
 Some days I'm a super bitch (super bitch)
-Up to my old tricks 
-but it wont last forever (no)
+Up to my old tricks
+but it won't last forever (no)
 Next day I'm your super girl (your super girl)
-Out to save the world 
+Out to save the world
 and it keeps getting better
 
 Hold on
@@ -134,16 +134,16 @@ Becomes an angel for you
 
 Some days I'm a super bitch (a super bitch)
 Up to my old tricks
-but it wont last forever (won't last forever no)
+but it won't last forever (won't last forever no)
 Next day I'm your super girl (super girl)
-Out to save the world 
+Out to save the world
 and it keeps getting better
 
 Some days I'm a super bitch (a super bitch)
 Up to my old tricks
-but it wont last forever (forever no)
+but it won't last forever (forever no)
 Next day I'm your super girl
-Out to save the world 
+Out to save the world
 and it keeps getting better
 
 Hold on

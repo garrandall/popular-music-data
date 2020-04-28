@@ -105,7 +105,6 @@ Eight little riddle
 Now you know
 You gotta go
 
-
 History
 It's history
 'cause now I see, you lie
@@ -145,7 +144,6 @@ Eight little riddle
 Now you know
 You gotta go
 
-
 History
 It's history
 'cause now I see, you lie
@@ -159,7 +157,6 @@ Eight little riddle
 Now you know
 You gotta go
 
-(while the chorus is singing)
 You gave me clues
 I saw through
 Now you lose,

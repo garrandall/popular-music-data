@@ -58,14 +58,10 @@ So dumb, so dumb, so dumb, so
 Bout 5'9", 5'10", Coffee complexion
 Low cut like a Caesar with some little waves in his head
 Clean cut, very smooth face
-Seein my sister when i walked in
+Seein my sister when I walked in
 He had his hands around her neck
 First thing was to pull him off of her
-And that's what i did
-
-
-
-
+And that's what I did
 
 Well, obviously we have a rapist in Lincoln Park
 
@@ -75,8 +71,4 @@ I got your scent
 I know what shoe size you wear, my boy
 So you can run and hide
 But we're gonna find you, find you
-
-
-
-
 

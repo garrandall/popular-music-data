@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: talk-talk-talk-talk
+lyrics_url: https://genius.com/A-perfect-circle-talktalk-lyrics
 name: Talk Talk
 rankings:
 - end_date: '1982-10-22'
@@ -35,4 +36,45 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1982-11-27'
 ---
+You're waiting (you're waiting ...)
+On miracles (on miracles ...)
+We're bleeding out (bleeding out ...)
 
+Thoughts (thoughts ...)
+And prayers (and prayers ...)
+Adorable (crisis ...)
+Like cake in a crisis (in a crisis ...)
+We're bleeding out (bleeding out ...)
+
+
+While you deliberate
+Bodies accumulate
+
+
+Sit and talk like Jesus
+Try walkin' like Jesus
+Sit and talk like Jesus
+Talk like Jesus
+Talk talk talk talk
+Get the fuck out of my way
+
+
+Don’t be the problem, be the solution
+Don’t be the problem, be the solution
+Don’t be the problem, be the solution
+Problem, problem, problem, problem
+
+Faith without works is
+Talk without works is
+Faith without works is
+Dead, dead, dead, dead
+
+
+Sit and talk like Jesus
+Try walkin' like Jesus
+Sit and talk like Jesus
+Try walkin' like Jesus
+Try braving the rain
+Try lifting the stone
+Try extending a hand
+Try walkin' your talk or get the fuck out of my way

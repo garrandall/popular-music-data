@@ -61,4 +61,4 @@ You're handin' me, sure as stars up above
 Warmed over kisses, left over love
 
 You're handin' me, sure as stars up above
-Warmed over kisses, ooo, left over love
+Warmed over kisses, oo, left over love

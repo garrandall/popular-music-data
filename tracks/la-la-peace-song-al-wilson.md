@@ -48,7 +48,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-12-07'
 ---
-Mmm hmm, la la, oh, yeah
+Mmm hm, la la, oh, yeah
 
 What's that sound, so profound
 Over heads of children, Lord

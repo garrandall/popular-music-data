@@ -80,7 +80,7 @@ This is for the very best in you
 I get excited bout you, baby
 This is for the very best in you
 
-Ooh, something very special
+Oh, something very special
 So sweet, so refind
 And you're such a fine lady
 I'm so glad that your body's mine

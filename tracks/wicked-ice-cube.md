@@ -50,9 +50,6 @@ rankings:
 ---
 
 
-
-
-
 One, two, three and I come with the wicked
 style and you know that I'm from the wicked
 crew, act like you knew
@@ -71,11 +68,8 @@ Sittin at the pad just chillin
 cos Larry Parker just got two million, oh what a feelin
 So shake that nigga and pass me the pill
 and I'll slam dunk ya like Shaquille O'Neal
-Like it, dig it, maybe and watch that ??? 
+Like it, dig it, maybe and watch that ???
 Kick it cos I get wicked
-
-
-
 
 
 Won't say nuttin, just listen
@@ -98,9 +92,6 @@ Swine, pig, dick
 Listen to the flow of a so-called negro
 who didn't know I was funky as Wilson Pickett
 Dig it cos I get wicked
-
-
-
 
 
 People wanna know how come

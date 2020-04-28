@@ -42,7 +42,7 @@ I wanna discover
 
 I wanna reach the peak of love
 Baby, I got to reach the peak of love
-Ooh, I wanna reach the peak of love
+Oh, I wanna reach the peak of love
 That's what I want
 That's what I want
 
@@ -67,16 +67,16 @@ Baby, I wanna reach the peak of love
 That's what I want
 That's what I want
 
-Ooh, I wanna reach the peak of love
+Oh, I wanna reach the peak of love
 Baby, I got to reach the peak of love
 That's what I want
 That's what I want
 
-Ooh, I wanna reach the peak of love
+Oh, I wanna reach the peak of love
 Girl, I got to reach the peak of love
-Ooh wee, baby
+Oh wee, baby
 
 I wanna reach the peak of love
 I got to reach the peak of love
-Ooh wee, reach the peak of love
+Oh wee, reach the peak of love
 Baby, I wanna reach the peak of love

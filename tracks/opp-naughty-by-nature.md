@@ -138,9 +138,9 @@ It's the longest, loveliest, lean, I call it the leanest
 It's another five-letter word
 Rhymin' with "cleanness" or "meanness"
 I won't get into that, I'll do it ah sorta properly (Uh)
-I'll say the last P, hmmm, stands for "property" (Uh)
+I'll say the last P, hm, stands for "property" (Uh)
 Now lady, here comes a kiss (Uh)
-Blow a kiss back to me, now tell me exactly (Aah)
+Blow a kiss back to me, now tell me exactly (Ah)
 Have you ever known a brother
 Who had another, like, a girl or wife
 And you just had to stop a toast

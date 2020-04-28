@@ -78,7 +78,7 @@ She's some kind of wonderful, yeah, yeah, yeah, yeahhh...
 
 When I hold her in my arms,
 You know she sets my soul on fire.
-Oooh, when my baby kisses me,
+Oh, when my baby kisses me,
 My heart becomes filled with desire.
 When she wraps her lovin' arms around me,
 About drives me out of my mind.
@@ -116,7 +116,4 @@ Talkin' 'bout my baby, my baby, my baby.
 She's some kind of wonderful.
 I'm talkin' 'bout my baby, my baby, my baby.
 She's some kind of wonderful.
-
-
-
 

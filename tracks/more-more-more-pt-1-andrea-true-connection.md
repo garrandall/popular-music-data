@@ -108,8 +108,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-28'
 ---
-Ooh, how do you like your love?
-Ooh, how do you like your love?
+Oh, how do you like your love?
+Oh, how do you like your love?
 But if you want to know
 How I really feel
 Just get the cameras rollin'
@@ -123,8 +123,8 @@ Me and my heart you steal
 (More, more, more) How do you like it? How do you like it?
 (More, more, more) How do you like it? How do you like it?
 
-Ooh, how do you like your love?
-Ooh, how do you like your love?
+Oh, how do you like your love?
+Oh, how do you like your love?
 
 But if you want to know
 How I really feel

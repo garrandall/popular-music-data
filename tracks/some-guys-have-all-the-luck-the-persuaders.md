@@ -70,7 +70,7 @@ Someone to take on a walk by the lake
 Dear Lord, let her be
 Someone who's shy
 Someone who liable to cry at sad movies
-Ooh, I do believe I would die just to look in her eyes
+Oh I do believe I would die just to look in her eyes
 And find them filled with me
 But you're just a dream and as real as it seems
 I'm not that lucky

@@ -141,4 +141,4 @@ I just lean on you because baby
 You're my better half
 
 Oh oh baby you're my better half
-Oooh, hey baby you're my better half
+Oh, hey baby you're my better half

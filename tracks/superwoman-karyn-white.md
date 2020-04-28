@@ -138,7 +138,7 @@ Boy I am only human
 This girl needs more than occasional hugs as a token of love from you to me
 
 
-Oooh, baby
+Oh, baby
 Look into the corners of your mind
 I'll always be there for you through good and bad times
 But I can't be the superwoman that you want me to be

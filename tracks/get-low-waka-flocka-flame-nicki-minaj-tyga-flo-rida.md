@@ -25,7 +25,7 @@ I'mma get you home
 I'mma Put it on
 
 
-Oooh, she's just my type (Flocka)
+Oh, she's just my type (Flocka)
 Hair long and her eyes light
 Her smile shine like the sunlight
 One of a kind, baby momma type
@@ -59,14 +59,11 @@ Wanna see me do tricks with the next chick
 Anyway, boobs up and my ass out
 Somebody get a medic when he pass out
 Big Nicki in the game nigga
-Bricksquad, I ain't fucking with no lame nigga (ahhh)
-Dis dat part when I slow it down like this (ahhh)
-Somebody better get da bitch another round (ahhh)
+Bricksquad, I ain't fucking with no lame nigga (ah)
+Dis dat part when I slow it down like this (ah)
+Somebody better get da bitch another round (ah)
 Fly as fuck I need a co-pilot
 When I come out it's a motherfucking whore riot
-
-
-
 
 They your size, little waist don't match your thighs
 Say you're on my level but my level too high
@@ -93,17 +90,17 @@ Once you get it on
 I'mma get you home
 I'mma Put it on
 
-You be like (ooh ooh), wrap your legs around (me, me)
-I'll be on top of (you, you), you'll be like (ooh ooh)
-I'll be like (ooh ooh), wrap your legs around (me, me)
-I'll be on top of (you, you), I'll be on top of (ooh ooh)
+You be like (oh oh), wrap your legs around (me, me)
+I'll be on top of (you, you), you'll be like (oh oh)
+I'll be like (oh oh), wrap your legs around (me, me)
+I'll be on top of (you, you), I'll be on top of (oh oh)
 
  x2
 
-You be like (ooh ooh), wrap your legs around (me, me)
-I'll be on top of (you, you), you'll be like (ooh ooh)
-I'll be like (ooh ooh), wrap your legs around (me, me)
-I'll be on top of (you, you), I'll be on top of (ooh ooh)
+You be like (oh oh), wrap your legs around (me, me)
+I'll be on top of (you, you), you'll be like (oh oh)
+I'll be like (oh oh), wrap your legs around (me, me)
+I'll be on top of (you, you), I'll be on top of (oh oh)
 
 
 Get Low!
@@ -111,7 +108,7 @@ To da floor!
 Baby no.. don't rush!
 Get it on!
 Get ya home!
-Put it on ya! 
+Put it on ya!
 
 
 

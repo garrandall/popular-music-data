@@ -103,9 +103,6 @@ Doin' what I want
 Right now I feel so good inside
 Doin' what I want
 
-
-
-
 Yo Batman and Romeo, give me the mic so I can flow
 LDB make it funky from here to Mexico
 I can do it fast or slow it really doesn't matter though
@@ -115,9 +112,6 @@ My crew is strapped, my style is phat
 And Immature's got my back on this funky track
 You want fries with that?
 Coo-Coo-Cachoo what you gonna do, hoooh
-
-
-
 
 Welcome to the hip hop, the home of hip hop
 You don't stop the way we rock, yo Batman

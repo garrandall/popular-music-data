@@ -99,7 +99,7 @@ Maybe it's because I'm so versatile
 Style, profile
 
 
-I said it always brings me back when I hear, "ooh child"
+I said it always brings me back when I hear, "ohchild"
 From the Hudson River out to the Nile
 I run the marathons 'til the very last mile
 

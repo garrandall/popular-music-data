@@ -35,7 +35,7 @@ I can't give you the heart you think you gave me
 It's time to say goodbye to turning tables
 To turning tables
 
-Under haunted skies I see you (ooh)
+Under haunted skies I see you (oh
 Where love is lost your ghost is found
 I braved a hundred storms to leave you
 As hard as you try, no, I will never be knocked down, whoa

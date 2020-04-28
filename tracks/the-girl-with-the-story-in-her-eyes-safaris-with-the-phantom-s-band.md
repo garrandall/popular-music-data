@@ -1,6 +1,6 @@
 ---
 artists:
-- Safaris with The Phantom's Band
+- Safaris
 features: []
 genres: []
 key: the-girl-with-the-story-in-her-eyes-safaris-with-the-phantom-s-band

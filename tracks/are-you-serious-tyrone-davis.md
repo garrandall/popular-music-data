@@ -55,7 +55,7 @@ Using me like a tool
 
 Is this another trap
 Baited full of pain
-Can i really trust you, girl
+Can I really trust you, girl
 Or are you playing a game
 
 Oh, oh, girl
@@ -72,7 +72,7 @@ Are you serious
 Tell me, are you the one
 
 Me for you, you for me
-(Serious) ooh, baby
+(Serious) oh, baby
 
 Are you serious
 Or are you having fun

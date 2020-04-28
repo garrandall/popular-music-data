@@ -273,11 +273,11 @@ In the meantime, stay and let me watch you break it down
 
 And dance
 Gonna be okay (Oh-oh)
-Da-da-doo-doot-n, just dance (Ooh, yeah)
+Da-da-doo-doot-n, just dance (Oh yeah)
 Spin that record, babe
-Da-da-doo-doot-n, just dance (Ooh, yeah)
+Da-da-doo-doot-n, just dance (Oh yeah)
 Gonna be okay
-Da-da-doo-doot-n, just dance (Ooh, yeah)
+Da-da-doo-doot-n, just dance (Oh yeah)
 Spin that record, babe
 Da-da-doo-doot-n, just dance (Oh)
 Gonna be okay

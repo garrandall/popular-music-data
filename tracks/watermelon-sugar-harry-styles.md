@@ -93,7 +93,7 @@ Watermelon sugar high
 
 I just wanna taste it, I just wanna taste it (Woo)
 Watermelon sugar high
-I just wanna taste it, I just wanna taste it (Ooh)
+I just wanna taste it, I just wanna taste it (Oh)
 Watermelon sugar high
 Watermelon sugar
 

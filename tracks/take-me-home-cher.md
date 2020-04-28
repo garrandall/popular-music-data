@@ -97,7 +97,7 @@ Stars up above
 Take me home, take me home
 Oh, can't you see I want you near
 Take me home, take me home
-Ooh, baby, let's get out of here
+Oh baby, let's get out of here
 
 I'd follow you anywhere
 Your place or mine

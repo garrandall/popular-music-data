@@ -135,7 +135,7 @@ I work it so good, man these -- try to buy-uh-uh-uh-uy me
 He love the way I ride it
 He love the way I ride it
 He love the way I ride it (I love the way you ride the beat, baby)
-He love the way I ride the beat (Ahh, I love it)
+He love the way I ride the beat (Ah, I love it)
 Like a freak freak freak, uh
 
 
@@ -156,14 +156,14 @@ He love the way I ride it, he love the way I ride the beat
 Like a freak freak freak, uh
 
 
-(Ooh, ooh, ooh) oh baby, baby, baby
+(Oh, oh, oh) oh baby, baby, baby
 Do you like it up, when I'm up
 When I'm down, when I'm down?
-(Ooh, ooh, ooh) oh baby, baby, baby
+(Oh, oh, oh) oh baby, baby, baby
 He can't stand to look away while I'm whirlin' this around
-(Ooh, ooh, ooh) oh baby, baby
+(Oh, oh, oh) oh baby, baby
 You like it, now take it up and down
-(Ooh, ooh, ooh) oh baby
+(Oh, oh, oh) oh baby
 He love it when I twirl this thing all around
 
 

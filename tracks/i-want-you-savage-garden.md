@@ -163,13 +163,13 @@ You'll never know what hit you
 When I get to you
 
 
-Ooh I want you
+Oh I want you
 I don't know if I need you but
-Ooh I'd die to find out
-Ooh I want you
+Oh I'd die to find out
+Oh I want you
 I don't know if I need you but
-Ooh I'd die to find out
-(ohh I ohh I)
+Oh I'd die to find out
+(oh I oh I)
 
 
 I'm the kind of person
@@ -196,13 +196,13 @@ You'll never know what hit you
 When I get to you
 
 
-Ooh I want you
+Oh I want you
 I don't know if I need you but
-Ooh I'd die to find out
-Ooh I want you
+Oh I'd die to find out
+Oh I want you
 I don't know if I need you but
-Ooh I'd die to find out
-(ohh I ohh I)
+Oh I'd die to find out
+(oh I oh I)
 
 
 Anytime I need to see your face
@@ -222,24 +222,24 @@ Of the human cannonball that
 I need to I want to...
 
 
-Ooh I want you
+Oh I want you
 I don't know if I need you but
-Ooh I'd die to find out
-Ooh I want you
+Oh I'd die to find out
+Oh I want you
 I don't know if I need you but
-Ooh I'd die to find out
-(ohh I ohh I)
-Ooh I want you
+Oh I'd die to find out
+(oh I oh I)
+Oh I want you
 I don't know if I need you but
-Ooh I'd die to find out
-Ooh I want you
+Oh I'd die to find out
+Oh I want you
 I don't know if I need you but
-Ooh I'd die to find out
-(ohh I ohh I)
-Ooh I want you
+Oh I'd die to find out
+(oh I oh I)
+Oh I want you
 I don't know if I need you but
-Ooh I'd die to find out
-Ooh I want you
+Oh I'd die to find out
+Oh I want you
 I don't know if I need you but
-Ooh I'd die to find out
-(ohh I ohh I)
+Oh I'd die to find out
+(oh I oh I)

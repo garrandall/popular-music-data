@@ -81,7 +81,7 @@ Ah ah ah ah ah ah ah ah
 Get out of that state
 Get out of that state
 You're living in your own Private Idaho,
-livin in your own Private.... Idaho
+livin in your own Private... Idaho
 
 
 

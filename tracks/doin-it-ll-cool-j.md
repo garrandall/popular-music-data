@@ -88,10 +88,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-07-20'
 ---
-Mmmm yeah (mmmmm) check it out baby
+Mmm yeah (mmm) check it out baby
 Make it hot... then we drop it
-(oooooooh!) Uh, yeah
-(oooooooh!) Uptown, you know how we do it
+(oh!) Uh, yeah
+(oh!) Uptown, you know how we do it
 Yeah you know
 Make it hot
 

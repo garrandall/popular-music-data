@@ -92,7 +92,7 @@ Everybody get up it's time to slam now
 We got a real jam goin' down
 Welcome to the Space Jam
 Here's your chance, do your dance at the Space Jam
-Alright....
+Alright...
 
 Come on and slam, and welcome to the jam
 Come on and slam, if you wanna jam
@@ -124,7 +124,7 @@ Everybody get up it's time to slam now
 We got a real jam goin' down
 Welcome to the Space Jam
 Here's your chance, do your dance at the Space Jam
-Alright....
+Alright...
 
 
 Wave your hands in the air if you feel fine
@@ -167,7 +167,7 @@ Everybody get up it's time to slam now
 We got a real jam goin' down
 Welcome to the Space Jam
 Here's your chance, do your dance at the Space Jam
-Alright....
+Alright...
 
 
 Wave your hands in the air if you feel fine
@@ -192,7 +192,7 @@ Everybody get up it's time to slam now
 We got a real jam goin' down
 Welcome to the Space Jam
 Here's your chance, do your dance at the Space Jam
-Alright....
+Alright...
 
 
 Wave your hands in the air if you feel fine

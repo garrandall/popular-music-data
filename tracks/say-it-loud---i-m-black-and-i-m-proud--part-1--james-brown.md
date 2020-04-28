@@ -83,11 +83,11 @@ Say it loud: I'm black and I'm proud!
 Say it loud: I'm black and I'm proud!
 
 
-Ooh-wee, give it to me
+Oh-wee, give it to me
 All right, you're out of sight
 All night, so tough
 You're tough and rough
-Ooh-wee, uh, you're killing me
+Oh-wee, uh, you're killing me
 
 
 Say it loud: I'm black and I'm proud!
@@ -135,12 +135,12 @@ Say it loud: I'm black and I'm proud!
 Say it loud: I'm black and I'm proud!
 
 
-Ooh-wee, you're killing me
+Oh-wee, you're killing me
 All right, you're out of sight
 All right, you're out of sight
-Ooh-wee, ah
-Ooh-wee, you're killing me
-Ooh-wee
+Oh-wee, ah
+Oh-wee, you're killing me
+Oh-wee
 
 
 Say it loud: I'm black and I'm proud!

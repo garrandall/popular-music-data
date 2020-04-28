@@ -124,7 +124,7 @@ It'll be better than before
 Yesterday's gone, yesterday's gone
 
 
-Ooh, don't you look back
-Ooh, don't you look back
-Ooh, don't you look back
-Ooh, don't you look back
+Oh, don't you look back
+Oh, don't you look back
+Oh, don't you look back
+Oh, don't you look back

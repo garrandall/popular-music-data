@@ -36,7 +36,7 @@ Fa la la (fa la la)
 Fa la la (fa la la)
 
 Troll the ancient yuel tide carol
-Fa la la la la, la la la la 
+Fa la la la la, la la la la
 Everybody sing the yuel tide carol
 Fa la la, la la la
 Fa la la, la la la la yeah
@@ -47,7 +47,7 @@ A very merry christmas
 See the blazing yuel before us
 Fa la la, la la la
 Strike the harp and join the chorus yeah
-Fa la la la la, la la la la 
+Fa la la la la, la la la la
 Follow us in merry measure
 While I tell of yuel tide treasure
 Fa la la, la la la la (la la la la la la la la)
@@ -65,9 +65,5 @@ Fa la la la, fa la la la (fa la la la la la)
 Yeah la la la (fa la la...a very merry christmas)
 Jingle, jangle santa's got a brand new bag
 
-Merry merry christmas 
-
-
-
-
+Merry merry christmas
 

@@ -50,7 +50,7 @@ The better part of me.
 Sing this song!
 Remind me that we'll always have each other
 When everything else is gone.
-Oh each other....
+Oh each other...
 When everything
 Else is gone.
 

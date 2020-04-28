@@ -52,7 +52,7 @@ I'm quite sure you understand
 
 Pardon me, friend
 If what I'm saying don't ring true
-But that's the only way I know now to get through to you - ooh
+But that's the only way I know now to get through to you - oh
 Well, pardon me, Sir
 If what I'm doing brings you round
 But that's the only place I know, Sir, it is town to town - hey
@@ -66,8 +66,8 @@ I'm quite sure you understand
 
 Yeah, pardon me, friend
 If what I'm saying don't seem right
-Ooh, now, but that's the only, yeah, yes, that's the only way now
+Oh, now, but that's the only, yeah, yes, that's the only way now
 Oh, that's the only, that's the only way
 That's the only, oh, that's the only way I know
 That's the only, that's the only way
-That's the only, only thing I know ....
+That's the only, only thing I know ...

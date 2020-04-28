@@ -53,9 +53,6 @@ Hanging onto the edge til it's over
 She's crying for your love tonight
 Loneliest is hard to survive, she said
 
-
-
-
 His name was Adam
 When his mom had him
 Dad was a phantom
@@ -83,9 +80,6 @@ Right now he could really use a shoulder
 Hanging onto the edge til it's over
 He's crying for your love tonight
 Loneliest heart to survive, he said
-
-
-
 
 If you feel the way I feel
 Like you've been talking to yourself

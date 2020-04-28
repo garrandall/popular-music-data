@@ -144,7 +144,7 @@ Oh, they're gonna have to tow my ass out of here
 Parking lot party
 Oh, man, damn, girl
 Parking lot party
-Woo-ooh
+Woo-oh
 Parking lot party
 Don't think I've ever seen that before, lord
 (hey-hey-hey)

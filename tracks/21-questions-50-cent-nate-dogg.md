@@ -115,7 +115,7 @@ Oh yeah, yeah…
 
 So you see, my thing about 50 Cent is that he's always come off as a bit of a hypocritical bully, and with other rappers that I might like, yeah, they may be jackasses, but they do something that makes me look past it, like, yeah, Eminem's an ass, but dammit, he sure knows how to combine lyrics and flow to create masterful verses, and yeah, Kanye's an ass, but dammit, he sure does know how to make good beats and throw in a little socially conscious messages every now and then. But 50 Cent? Yeah, he's an ass, but he sure does, uh… spit typical gangsta rap lyrics over dark beats, because… THAT'S what everyone was waiting for!
 
-But i dunno, if one of my favorite rappers of all time signed him, maybe I should give him a chance. After all, it's not just making a "thugs need love too" song that makes me not like a song, it's making a BAD song that makes me not like one, so let's check out "21 Questions" by 50 cent, and see how it fares
+But I dunno, if one of my favorite rappers of all time signed him, maybe I should give him a chance. After all, it's not just making a "thugs need love too" song that makes me not like a song, it's making a BAD song that makes me not like one, so let's check out "21 Questions" by 50 cent, and see how it fares
 
 *intro*
 

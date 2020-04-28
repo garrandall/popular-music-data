@@ -44,9 +44,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-06-15'
 ---
-Mama told me not to waste my life (Ah-ooh)
-She said "Spread your wings my little butterfly (Ah-ooh)
-Don't let what they say keep you up at night (Ah-ooh)
+Mama told me not to waste my life (Ah-oh
+She said "Spread your wings my little butterfly (Ah-oh
+Don't let what they say keep you up at night (Ah-oh
 And if they give you—, shh, then they can walk on by-y-y
 
 
@@ -102,10 +102,10 @@ Your words don't mean a thing, I'm not listening
 They're just like water off my wings
 
 
-Mama told me not to waste my life (Ooh, woah)
+Mama told me not to waste my life (Oh woah)
 She said "Spread your wings my little butterfly" (My little butterfly)
 Don't let what they say keep you up at night
-And they can't detain you (They can't detain you-ooh)
+And they can't detain you (They can't detain you-oh
 'Cause wings are made to fly
 And we don't let nobody bring us down
 No matter what you say, it won't hurt me (Oh, whoah)

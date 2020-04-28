@@ -95,7 +95,7 @@ That won't ever change and
 Melt all my heart away with a smile
 Take time to tell me you really care
 And we'll share tomorrow together
-Ooh baby, I'll always love you forever
+Oh baby, I'll always love you forever
 
 Ever, ever, ever
 There'll always be sunshine

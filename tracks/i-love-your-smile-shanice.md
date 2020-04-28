@@ -178,7 +178,7 @@ You rock my world
 Smile, sike
 
 
-Ooh, I love your smile (smile for me)
+Oh, I love your smile (smile for me)
 Yes I do boy, hee
 I love your smile
 I love your smile, baby

@@ -81,5 +81,5 @@ Work your body
 Tell somebody!
 Work your body
 Work your body
-Dance (Ahh, ahh, ooh)
-Dance (Ahh, ahh, ooh)
+Dance (Ah, ah, oh
+Dance (Ah, ah, oh

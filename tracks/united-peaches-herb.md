@@ -41,9 +41,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-07-06'
 ---
-Ooo oo oooo, yeah
+Ooo oo oo, yeah
 Honey you are my shining star
-Don't you go away, ooh baby
+Don't you go away, oh baby
 Wanna be right here were you are until my dying day, yeah baby
 So many have tried, tried to find a love like yours and mine
 Mmm mmm mmm
@@ -63,7 +63,7 @@ To you
 Only to you
 Don't you go away girl, nooo baby
 Wanna be right here were you are
-Until my dying day, hmmmm
+Until my dying day, hm
 Honey you, you are my shining star don't you go away, woah oh baby
 Honey you are my shing star
 Don't you go away, noo baby

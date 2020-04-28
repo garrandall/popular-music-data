@@ -63,7 +63,6 @@ Now you down for them habits
 Put your numbers on the napkin
 Make it snappy cause I got to go to the bathroom
 
-Chorus:
 
 Hoes with no clothes showin' love
 Shakin that ass in the club nigga what?
@@ -100,7 +99,6 @@ Real dogs don't pay for cats, dats
 For real baby
 Recognize and sho me love, dig that shit, sho nuff
 
-Chorus
 
 
 Well I be God damned, this stout ass ho
@@ -127,4 +125,3 @@ Really just don't plan on takin it out cause I
 MJ fuckin G you needs to knows 'bout these hoes shakin
 They ass with no clothes like some pros, sho nuff
 
-Chorus

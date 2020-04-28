@@ -48,10 +48,10 @@ Oh, I was just a boy
 Giving it all away...
 
 Sail away, sail away
-Ooh, I know better now, I know better now
+Oh, I know better now, I know better now
 Giving it all away
 
-Ooh, I know better now, I know better now
+Oh, I know better now, I know better now
 I've given it all away...
 
 Went out in the world too much for my nerves
@@ -65,10 +65,10 @@ Oh, I was just a boy
 Giving it all away...
 
 Sail away, sail away
-Ooh, I know better now, I know better now
+Oh, I know better now, I know better now
 Giving it all away
 
-Ooh, I know better now, I know better now
+Oh, I know better now, I know better now
 Given it all away...
 
 Just a boy, giving it all away

@@ -120,7 +120,7 @@ Mmm mmm mmm, gotta find a way somehow, sugar
 (What becomes of the brokenhearted)
 I need love, baby
 (Who had love that's now departed)
-I need ya, darling, oohh whoa, yeah
+I need ya, darling, oh whoa, yeah
 I've gotta find a woman who is gonna love me, love me
 
 

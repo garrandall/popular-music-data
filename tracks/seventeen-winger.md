@@ -73,53 +73,53 @@ rankings:
   start_date: '1989-06-10'
 ---
 
-Yeah, I saw sparks fly 
-From the corner of my eye 
-And when I turned 
-Ooh, it was love at first sight 
+Yeah, I saw sparks fly
+From the corner of my eye
+And when I turned
+Oh, it was love at first sight
 
-I said, please excuse me 
-I didn't catch your name 
-Oh, it'd be a shame 
-Not to see you again 
+I said, please excuse me
+I didn't catch your name
+Oh, it'd be a shame
+Not to see you again
 
-And just when I thought she was comin' to my door 
+And just when I thought she was comin' to my door
 She whispered sweet and brought me to the floor
 She said
 
 I'm only seventeen (seventeen)
 But I'll show you love like you've never seen
-She's only seventeen 
-Daddy says she's too young, but she's old enough for me 
+She's only seventeen
+Daddy says she's too young, but she's old enough for me
 
-Mmm, come to my place 
-We can talk it over 
-Oh, everything 
-going down in your head 
+Mmm, come to my place
+We can talk it over
+Oh, everything
+going down in your head
 
-She said take it easy 
-I need some time 
-Time to work it out 
-To make you mine 
+She said take it easy
+I need some time
+Time to work it out
+To make you mine
 
-And just when I thought she was comin' to my door 
+And just when I thought she was comin' to my door
 She whispered sweet and brought me to the floor
 She said
 
 I'm only seventeen (seventeen)
-You ain't seen love, ain't seen nothing like me 
-She's only seventeen 
-Seventeen 
+You ain't seen love, ain't seen nothing like me
+She's only seventeen
+Seventeen
 
-Such a bad girl 
-Loves to work me overtime 
+Such a bad girl
+Loves to work me overtime
 Feels good, ha
-Dancing close to that borderline 
+Dancing close to that borderline
 
-She's a magic mountain 
-She's a leather glove 
-Oh, she's my soul 
-It must be love 
+She's a magic mountain
+She's a leather glove
+Oh, she's my soul
+It must be love
 
 I'm only seventeen (seventeen)
 Girl, she gives me love like I've never seen

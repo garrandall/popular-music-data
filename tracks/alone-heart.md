@@ -123,9 +123,6 @@ And now it chills me to the bone
 How do I get you alone?
 How do I get you alone?
 
-
-
-
 How do I get you alone?
 How do I get you alone?
 Alone, alone

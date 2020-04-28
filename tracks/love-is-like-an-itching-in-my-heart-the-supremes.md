@@ -47,14 +47,14 @@ Woo, get up in the morning
 And I'm filled with desire
 No, no, I can't stop the fire
 Love is a real life wire
-Ooh, it's a burning sensation
+Oh, it's a burning sensation
 Far behind imagination
 
 Love is like an itching in my heart
 Tearing it all apart
 Just an itching in my heart
 And baby, I can't scratch it
-Keeps me sighing, ooh
+Keeps me sighing, oh
 Keeps me yearning
 
 No, mama can't help me
@@ -84,7 +84,7 @@ Love is like an itching in my heart
 Tearing it all apart
 Just an itching in my heart
 And baby, I can't scratch it
-Keeps me sighing, ooh
+Keeps me sighing, oh
 Keeps me yearning
 
 Keeps me burning

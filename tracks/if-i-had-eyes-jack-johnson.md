@@ -74,9 +74,6 @@ When you got eyes like that
 It won't let me in
 Always looking out
 
-
-
-
 Lot of people spend their time just floating
 We were victims together but lonely
 You got hungry eyes that just can't look forward

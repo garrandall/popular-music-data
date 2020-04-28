@@ -1,6 +1,6 @@
 ---
 artists:
-- Missy "Misdemeanor" Elliott
+- Missy Elliott
 features: []
 genres: []
 key: she-s-a-bitch-missy--misdemeanor--elliott

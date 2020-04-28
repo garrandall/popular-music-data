@@ -81,7 +81,7 @@ Awww.
 Oh, ding-dong-ding let the freedom bell ring.
 The good Lord made you and me, what he wanted us to be.
 Free all those people you got chained up in your (mind.)
-Hmmm-mm-hmmm, now there's truth in what I'm saying.
+Hm-mm-hm, now there's truth in what I'm saying.
 We gotta stop the games we're playing.
 Two wrongs ain't never made a right (Right)
 

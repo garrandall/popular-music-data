@@ -97,9 +97,6 @@ You really got me
 You really got me
 You really got me (oh no)
 
-
-
-
 See, don't ever set me free
 I always want to be by your side
 Girl, you really got me now

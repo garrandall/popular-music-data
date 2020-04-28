@@ -129,8 +129,8 @@ And if I ever (ever fall) in love again (again)
 I will be sure that the lady is a friend
 And if I ever (ever fall) in love so true (true)
 I will be sure that the lady's just like you
-Oooh
-Yeeaah, baby, yeah
+Oh
+Yeah, baby, yeah
 Ma-ma, ma-my, ma-my
 I swear next time she'll be my friend
 If I say that I can be your one and only

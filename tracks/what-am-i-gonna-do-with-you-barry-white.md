@@ -69,7 +69,7 @@ What am I gonna do with you, yeah
 Been makin' love for hours
 And, baby, with you goin' strong
 Girl, this night is ours
-And, ooh, I swear I feel it comin' on, yeah
+And, oh, I swear I feel it comin' on, yeah
 
 Oh, I know when we get through
 Girl, I won't be able to move
@@ -82,7 +82,7 @@ Girl, what am I gonna do
 Baby, sweet baby, my babe
 What am I gonna do with you
 
-Ooh, what a groove thing
+Oh, what a groove thing
 Love how you do it
 Ain't what you got, babe
 Girl, it's how you use it, yeah
@@ -93,9 +93,9 @@ Girl, you made me give it up
 You are unwillin', you're just to much
 You know how to make me “Ow”
 
-Ooh... ooh... baby
-Ooh... ooh... baby
-Ooh... ooh... baby
+Oh... oh... baby
+Oh... oh... baby
+Oh... oh... baby
 
 Oh, baby, oh, baby
 Girl, what am I gonna do

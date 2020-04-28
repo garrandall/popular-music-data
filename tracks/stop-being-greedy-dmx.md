@@ -94,7 +94,3 @@ Can't see straight cause I'm so high
 Why ask why when you know?
 Nigga, when its your time to go, you go
 
-
-
-
-

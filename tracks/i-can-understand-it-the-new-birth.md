@@ -101,7 +101,7 @@ Get on down
 Gonna do it on the good foot
 Gonna do it on the right foot, baby
 Gonna do it on the left foot
-Ooh baby
+Oh baby
 
 I can understand it
 Baby, I can understand it
@@ -139,7 +139,7 @@ Yeah
 Im going to find out can we keep the groove
 Is yall ready for this?
 Look here
-Ooh, yeah, baby
+Oh, yeah, baby
 I can understand it, oh
 Can you understand it?
 

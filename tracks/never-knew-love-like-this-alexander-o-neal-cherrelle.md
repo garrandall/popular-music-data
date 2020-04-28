@@ -65,7 +65,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-04-23'
 ---
-Ooh...yeah....
+Oh...yeah...
 
 
 You are my favorite lady
@@ -119,13 +119,13 @@ No, I never, never, never, never
 When I'm asleep at night
 When I'm asleep at night
 I dream I hold you tight
-Ooh, I hold you tight
+Oh, I hold you tight
 I never had a better love
 (Never love like this)
 
 (Sax Solo)
 
-Oh, oh....
+Oh, oh...
 No, I never knew love (Never knew love like this)
 
 
@@ -167,7 +167,7 @@ Nobody kissed me like you do
 (Never knew love like this)
 I never knew your love could be so good
 (Never knew love like this)
-Ooh wee, baby, yeah, yeah
+Oh wee, baby, yeah, yeah
 I never knew your love, I never knew
 (Never knew love like this)
 I gotta, gotta have your love, girl
@@ -175,7 +175,7 @@ I gotta, gotta have your love, girl
 Make it good to you, baby, oh
 (Never knew love like this)
 Take you home late at night, woman, yeah
-Ooh, yes, Alex
+Oh, yes, Alex
 (Never knew love like this)
 Oh, sugar, yeah, oh, baby
 Got to have your love

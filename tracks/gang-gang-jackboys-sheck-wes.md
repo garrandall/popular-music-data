@@ -76,7 +76,7 @@ I'm switching' lanes tryna maintain, duckin' boys in the blue (Bitch)
 I see you holdin' out on my change, I'm needin' all of the loot (Ching-ching)
 When I'm ridin' off on my side, best believe I got the scoop (My side)
 I could make a hundred right now, give it all to the troops
-Whole squad got the juice, send a stain like a flute (Ooh)
+Whole squad got the juice, send a stain like a flute (Oh)
 Whole squad goin' up, JACKBOYS on the loose
 
 
@@ -98,7 +98,7 @@ Models on models, this shit nothin' new
 You might catch some shots takin' shots at the crew
 I like my hoes by the two
 Blew 800K on a coupe (Uh-huh, racks)
-We fucked, it wasn't nothin' else to do (Ooh)
+We fucked, it wasn't nothin' else to do (Oh)
 You play with La Flame, I'ma shoot (Racks)
 This a hundred round drum, I got mob ties
 This a double M truck, ain't no broke vibes
@@ -112,5 +112,5 @@ I'm switching' lanes tryna maintain, duckin' boys in the blue (Bitch)
 I see you holdin' out on my change, I'm needin' all of the loot (Ching-ching)
 When I'm ridin' off on my side, best believe I got the scoop (My side)
 I could make a hundred right now, give it all to the troops
-Whole squad got the juice (Ooh), send a stain like a flute (Ooh)
+Whole squad got the juice (Oh), send a stain like a flute (Oh)
 Whole squad goin' up, JACKBOYS on the loose (Yeah)

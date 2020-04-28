@@ -60,7 +60,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-01-21'
 ---
-Ooh, yeah
+Oh, yeah
 
 You came into my life
 You just made everything right
@@ -81,7 +81,7 @@ He ran away free
 The love I have for you, baby
 Is the love I have in me
 
-Ooh, oh
+Oh, oh
 I'll stay and watch you grow
 Yes, I will
 I'll raise you by myself

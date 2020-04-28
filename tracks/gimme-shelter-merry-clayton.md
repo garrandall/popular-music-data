@@ -36,7 +36,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
 ---
-Ooh, the storm is threatnin'
+Oh, the storm is threatnin'
 My very life today
 If I don't get me no shelter
 I think I'm gonna fade away
@@ -46,7 +46,7 @@ It's just a shot away, it's just a shot away
 War, children
 It's just a shot away, it's just a shot away (Yeah)
 
-Ooh, see the fire is sweepin'
+Oh, see the fire is sweepin'
 My very street today
 Somebody oughta gimme some shelter
 Or I think I'm gonna fade away

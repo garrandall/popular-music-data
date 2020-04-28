@@ -39,29 +39,29 @@ Everywhere is closed, I should just go home, yeah
 My feet are taking me to your front door
 I know I shouldn't though, heaven only knows
 
-That ooh, the side effect to my loneliness is you
+That oh the side effect to my loneliness is you
 
-Ooh, you're all that I want
+Oh you're all that I want
 No good at giving you up
 Come on and give me some love tonight
-Ooh, you're all that I want
+Oh you're all that I want
 No good at giving you up
 Come on and give me some love tonight
 
 This happens every time I try to mix
 Decision making with one too many drinks
 
-But, ooh, if late night friends have consequences, cool, yeah
+But, oh if late night friends have consequences, cool, yeah
 
-Ooh, you're all that I want
+Oh you're all that I want
 No good at giving you up
 Come on and give me some love tonight
-Ooh, you're all that I want
+Oh you're all that I want
 No good at giving you up
 Come on and give me some love tonight
-Ooh, I think about it all the time
+Oh I think about it all the time
 Make it happen in my mind, I'm telling you, yeah
-Ooh, you're all that I want
+Oh you're all that I want
 No good at giving you up
 Come on and give me some love tonight
 
@@ -74,15 +74,15 @@ Went looking for a sign, but instead I got a message
 I take off my pride every time we undressing
 Draw the line, I'm by the line
 
-Ooh, you're all that I want
+Oh you're all that I want
 No good at giving you up
 Come on and give me some love tonight, yeah
-Ooh, you're all that I want
+Oh you're all that I want
 No good at giving you up
 Come on and give me some love tonight, yeah
 I, I think about it all the time
 Make it happen in my mind, I'm telling you, yeah
-Ooh, you're all that I want
+Oh you're all that I want
 No good at giving you up
 Come on and give me some love tonight
 

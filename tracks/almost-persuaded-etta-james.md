@@ -44,7 +44,7 @@ Oh almost, nearly persuaded now
 To push my, push my ole conscience right on the side
 
 Then we danced, then we danced, he whispered, "Baby, I need you now"
-He said to me, "Let me take you away, ooh I wanna be your man"
+He said to me, "Let me take you away, ohI wanna be your man"
 Than I looked in his eyes and I saw it, yeah I saw it
 I saw the reflection of my, my wedding band
 

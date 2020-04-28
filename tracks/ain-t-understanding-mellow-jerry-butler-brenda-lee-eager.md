@@ -81,7 +81,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-04-08'
 ---
-Oh, ooh, thank God for you
+Oh, oh, thank God for you
 (I thank God, I thank God)
 You were warmer than warm
 Girl, not to try to hide

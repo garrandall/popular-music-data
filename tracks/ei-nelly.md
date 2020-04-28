@@ -90,12 +90,12 @@ rankings:
 ---
 Uh.. uh uh uh uh
 Uh.. wait a minute now
-Uh-ohhhhhhhhhhhhhh!
+Uh-oh!
 Uh, uh..
 Can you hear me out there?
 Lunatics.. is y'all ready?
 Let me hear ya
-Uh-ohhhhhhhhhhhhhh!
+Uh-oh!
 
 
 I'm a sucker for corn rows and manicured toes (hey)
@@ -117,9 +117,9 @@ Should we apologize? Nah fuck 'em, just leave 'em pissed, hey
 
 
 Andele andele, mami, E.I. E.I
-Uh-ohhhhhhhhhhhhhh what's poppin' tonight?
+Uh-oh what's poppin' tonight?
 Andele andele, mami, E.I. E.I
-Uh-ohhhhhhhhhhhhhh, if the head right, Nelly there ery'night
+Uh-oh, if the head right, Nelly there ery'night
 
 
 We can gamble to the break of dawn, nigga, money long, nigga
@@ -140,9 +140,9 @@ Kicked the bitch up out the room 'cause she used the word ours, hey
 
 
 Andele andele, mami, E.I. E.I
-Uh-ohhhhhhhhhhhhhh what's poppin' tonight?
+Uh-oh what's poppin' tonight?
 Andele andele, mami, E.I. E.I
-Uh-ohhhhhhhhhhhhhh, if the head right, Nelly there ery'night
+Uh-oh, if the head right, Nelly there ery'night
 
 
 Ayo, I smash-mouth a whole ounce, of that sticky
@@ -162,24 +162,24 @@ Sure like Al B., meet the 'tics in Maui, hey
 
 
 Andele andele, mami, E.I. E.I
-Uh-ohhhhhhhhhhhhhh what's poppin' tonight?
+Uh-oh what's poppin' tonight?
 Andele andele, mami, E.I. E.I
-Uh-ohhhhhhhhhhhhhh, if the head right, Nelly there ery'night
+Uh-oh, if the head right, Nelly there ery'night
 
 
 St. Louis y'all, uh, uh
-Uh-ohhhhhhhhhhhhhh
+Uh-oh
 Uh, can you feel that?
 Lunatics y'all, uh, uh
-Uh-ohhhhhhhhhhhhhh
+Uh-oh
 Uh, uh, Uncle Phil up above y'all, uh, uh
-Uh-ohhhhhhhhhhhhhh
+Uh-oh
 Yell it universal y'all, uh, uh
-Uh-ohhhhhhhhhhhhhh
+Uh-oh
 Uh, uh, chillin' chillin' chillin' with the crew y'all
 
 
 Andele andele, mami, E.I. E.I
-Uh-ohhhhhhhhhhhhhh what's poppin' tonight?
+Uh-oh what's poppin' tonight?
 Andele andele, mami, E.I. E.I
-Uh-ohhhhhhhhhhhhhh, if the head right, Nelly there ery'night
+Uh-oh, if the head right, Nelly there ery'night

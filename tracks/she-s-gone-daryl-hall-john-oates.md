@@ -127,7 +127,7 @@ But it's plain to see that they can't comfort me
 Sorry Charlie for the imposition
 I think I've got it, got the strength to carry on
 I need a drink and a quick decision
-Now it's up to me, ooh what will be
+Now it's up to me, oh what will be
 She's gone, oh I, oh I'd
 Better learn how to face it
 She's gone, oh I, oh I'd

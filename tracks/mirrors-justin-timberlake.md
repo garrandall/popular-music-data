@@ -276,7 +276,7 @@ My mirror staring back at me, staring back at me
 
 Ohh (Oh oh, oh oh)
 Ohh (Oh oh, oh oh)
-Ohh ohh (Oh oh, oh oh)
+Ohh oh (Oh oh, oh oh)
 Uhh (Oh oh, oh oh)
 Ohh (Oh oh, oh oh)
 

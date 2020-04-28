@@ -96,7 +96,7 @@ Long as your happy, I'm happy too
 It's a delight
 God gave you life
 Baby love
-Ooh, baby luv, baby, baby
+Oh, baby luv, baby, baby
 
 
 

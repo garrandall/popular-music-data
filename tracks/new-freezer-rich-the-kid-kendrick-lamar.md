@@ -89,7 +89,7 @@ Ayy, new freezer (New freezer, New freezer)
 You know what it was when you signed up, ayy
 Dat way, yuh, yuh, yeah, dat way
 
-My bitch too foreign, need a visa (ooh)
+My bitch too foreign, need a visa (oh
 I don't need her (huh?)
 Pull up drop top with a eater (skrrt)
 Two seater (skrrt)
@@ -106,7 +106,7 @@ New freezer (new freezer)
 I woke up thinkin' 'bout bands (new freezer)
 Hop off a jet to a check when I land (dat way)
 
-Ooh, money way (money)
+Oh money way (money)
 Diamonds, flexin' (bling, woo)
 I woke up rich, spend a grip on a necklace (yuh)
 I put the plug on three way (plug)
@@ -137,7 +137,7 @@ Two seater (skrrt, skrrt)
 New bitch wanna fuck to my AP (bitch)
 New freezer (woah)
 I woke up thinkin' 'bout bands (what up?)
-Hop off a jet to a check when I land (ooh, yuh, yuh)
+Hop off a jet to a check when I land (oh yuh, yuh)
 
 Big shot (hol' up, wait)
 Peanut butter insides
@@ -172,4 +172,4 @@ Two seater (skrrt, skrrt)
 New bitch wanna fuck to my AP (bitch)
 New freezer (woah)
 I woke up thinkin' 'bout bands (what up?)
-Hop off a jet to a check when I land (ooh, yuh, yuh)
+Hop off a jet to a check when I land (oh yuh, yuh)

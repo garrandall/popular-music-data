@@ -106,7 +106,7 @@ It ain't my fault (Nope, nope, nope)
 It ain't my fault (Nope, nope, nope)
 It ain't my fault
 Oh my, oh my, oh my, oh my
-Ooh ooh
+Oh oh
 
 
 So if I put your hands where my eyes can't see (hey yeah)

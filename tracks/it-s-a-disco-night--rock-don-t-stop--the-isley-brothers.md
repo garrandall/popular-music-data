@@ -40,14 +40,14 @@ We gonna be all night long
 Let everybody know
 It's gonna be one on one
 Gettin' down at the disco
-Ooh, baby
+Oh, baby
 Rock on, girl
-Ooh, baby
+Oh, baby
 Rock on, baby
-Ooh, baby, the place is rockin'
+Oh, baby, the place is rockin'
 It's a disco night
 Baby, the place is rockin'
-It's a disco night, ooh
+It's a disco night, oh
 Rock, don't stop, rock, don't stop
 (Well)
 Rock, don't stop, rock, don't stop
@@ -56,7 +56,7 @@ Rock, don't stop, rock, don't stop
 (Rock on all night)
 Rock, don't stop, rock, don't stop
 Rock, don't stop, rock, don't stop
-(Ooh)
+(Oh)
 Rock, don't stop, rock, don't stop
 Rock, don't stop, rock, don't stop
 (Rock, don't stop, rock, don't stop)
@@ -102,7 +102,7 @@ It's a disco night
 Hey, baby, place is rockin'
 It's a disco night
 (It's gonna be one on one)
-Ooh, baby, the place is rockin'
+Oh, baby, the place is rockin'
 It's a disco night
 (All night long, baby)
 Hey, baby, the place is rockin'
@@ -113,4 +113,4 @@ It's a disco night
 Hey, baby
 (Oh, the place is rockin')
 It's a disco night
-Ooh, baby, the place is rockin'
+Oh, baby, the place is rockin'

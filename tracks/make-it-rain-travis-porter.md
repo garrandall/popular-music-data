@@ -131,7 +131,7 @@ yeah.. why you playin guh
 (I wanna see some cash)
 so what chu sayin guh
 Shawty said nigga you broke... hold up
-Broke niggaz make me sick... throw up
+Broke niggas make me sick... throw up
 Broke bitches talk to much... bitch shut up
 Twenty-five hundred in ones
 In finna wet her up

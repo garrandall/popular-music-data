@@ -115,7 +115,7 @@ rankings:
 There's always that one person that will always have your heart
 You never see it coming 'cause you're blinded from the start
 Know that you're that one for me, it's clear for everyone to see
-Oh baby, ooh, yeah (You gotta rock away to this one)
+Oh baby, oh yeah (You gotta rock away to this one)
 You will always be my boo
 See, I don't know 'bout y'all, but I know about us and, uh (Oh!)
 It's the only way we know how to rock

@@ -74,12 +74,12 @@ Double shot of my baby's love, yeah yeah, yeah
 A potion that I had too much of
 It was a double shot of my baby's love
 
-It was such a thrill it was hurtin' me (ooh!)
+It was such a thrill it was hurtin' me (oh!)
 I was sufferin' in ecstasy
 She had me turnin' flips and-a shoutin' out loud (yah-hah!)
 A sip of her love and I was walkin' on a cloud
 One night a week is-a plenty enough
-It's a good thing for me they don't bottle that stuff 
+It's a good thing for me they don't bottle that stuff
 Well, my heart begins to fly like a dove
 When I take a double shot of my baby's love
 

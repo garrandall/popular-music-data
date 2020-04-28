@@ -121,11 +121,11 @@ Thought I had a chance
 But let me set you down
 Going up, up, up, up, up, up, up
 
-Ooh, ooh, yeah
+Oh, oh, yeah
 Going up, up, up, up, up, up, up
 
 Going up, up, up in a puff of smoke
-Ooh, yeah, yeah, yeah, yeah
+Oh, yeah, yeah, yeah, yeah
 Going up, up, up in a puff of smoke
-Ooh, yeah, yeah, yeah
+Oh, yeah, yeah, yeah
 Going up, up, up in a puff of smoke

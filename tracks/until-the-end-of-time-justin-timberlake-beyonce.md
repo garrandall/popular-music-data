@@ -124,10 +124,10 @@ So rest your weary heart and relax your mind
 'Cause I'm gonna love you, girl, until the end of time
 
 
-You got me singing (ohh oh oh oh oh oh whoa yeah)
+You got me singing (oh oh oh oh oh oh whoa yeah)
 Ohh oh oh oh oh oh whoa yeah
-Everybody sing (ohh oh oh oh oh oh whoa yeah)
-Everybody singing (ohh oh oh oh oh oh whoa yeah)
+Everybody sing (oh oh oh oh oh oh whoa yeah)
+Everybody singing (oh oh oh oh oh oh whoa yeah)
 
 
 Now if you ever wondering
@@ -143,14 +143,14 @@ And what you give me lets me know that we'll be alright
 In this life (oh oh oh oh oh)
 That will be enough (enough) until the end of time
 (Until the end of time)
-Rest your weary heart (ooooh) and relax your mind (OOOOOOOOH)
+Rest your weary heart (ohnd relax your mind (OOOOOOOOH)
 'Cause I'm gonna love you, boy (love you, boy)
 Until the end of time
 
 
-Boy you got me singing (ohh oh oh oh oh oh whoa yeah)
+Boy you got me singing (oh oh oh oh oh oh whoa yeah)
 You got me singing (Ohh oh oh oh oh oh whoa yeah)
-Everybody singing (ohh oh oh oh oh oh whoa yeah)
+Everybody singing (oh oh oh oh oh oh whoa yeah)
 Everybody singing (Ohh oh oh oh oh oh whoa yeah yeah yeah)
 
 

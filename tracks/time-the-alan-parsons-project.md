@@ -128,9 +128,4 @@ I had a premonition, it's gonna be my turn tonight
 Gonna be my turn tonight
 Gonna be my turn tonight
 
-
-
-
-
-
 Gonna be my turn tonight

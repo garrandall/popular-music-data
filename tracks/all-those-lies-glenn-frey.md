@@ -86,7 +86,7 @@ All those lies: Try'n' to ruin my reputation
 
 There's some bad wheels in motion, try'n' to run us down
 Spreadin' dirty lies in this dirty little town
-Ooh baby, you know I wouldn't dare
+Ohbaby, you know I wouldn't dare
 You know how much I love you. You know how much I care
 
 All those lies: I hope I can remember

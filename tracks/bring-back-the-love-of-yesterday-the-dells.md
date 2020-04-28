@@ -66,7 +66,7 @@ Bring it all back now
 Girl, you know and I know
 We had a good thing going
 And all those good times
-Ain't no sense in blowing, ohh
+Ain't no sense in blowing, oh
 
 Bring it back, bring it all back now
 Bring it back, bring it all back now

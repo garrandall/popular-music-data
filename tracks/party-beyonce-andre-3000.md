@@ -149,9 +149,9 @@ Music knockin' 'til the morning light
 'Cause we like to party
 
 You a bad girl and your friends bad too, oh
-We got the swag sauce, she drippin' swagu, ooh
+We got the swag sauce, she drippin' swagu, oh
 You a bad girl and your friends bad too, oh
-We got the swag sauce, she drippin' swagu, ooh ooh
+We got the swag sauce, she drippin' swagu, oh oh
 
 
 

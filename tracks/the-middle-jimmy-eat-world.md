@@ -167,9 +167,6 @@ Little girl, you're in the middle of the ride
 Everything, everything will be just fine
 Everything, everything will be all right, all right, woo!
 
-
-
-
 Hey, don't write yourself off yet
 It's only in your head you feel left out or looked down on
 Just do your best, do everything you can

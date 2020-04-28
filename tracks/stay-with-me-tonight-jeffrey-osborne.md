@@ -108,7 +108,7 @@ Baby, stay with me tonight.
 
 At my apartment, you've come to the door,
 Quarter after four AM, hello.
-We start to kiss, ooh we start to neck,
+We start to kiss, oh we start to neck,
 You know what comes next, and you love it, girl.
 But oh, what we have it feels so good,
 Oh, and we both knew that it would, and girl,

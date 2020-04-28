@@ -61,7 +61,7 @@ Now I know that I need you here with me
 
 There was a time I thought I had it made
 But I didn't see the price I had paid
-And the price gets higher ev'ry day
+And the price gets higher every day
 And all I can say is
 
 You're the only one who knows my heart

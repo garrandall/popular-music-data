@@ -114,7 +114,7 @@ Hit the Lil' Jon, okay (Okay), okay (Okay)
 Oh yeah, we drippin' in finesse and getting paid, ow
 
 
-Ooh, don't we look good together?
+Oh, don't we look good together?
 There's a reason why they watch all night long (All night long)
 Yeah, I know we'll turn heads forever (Forever)
 So tonight, I'm gonna show you off

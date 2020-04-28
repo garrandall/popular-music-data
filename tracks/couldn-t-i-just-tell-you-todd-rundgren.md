@@ -44,15 +44,12 @@ And couldn't we pretend that it's no big deal
 And there's really nothing left to hide?
 
 
-(Hear me out, ooh)
+(Hear me out, oh
 Why don't you lend me an ear
-(Hear me out, ooh)
+(Hear me out, oh
 You got no reason to fear
-(Hear me out, ooh)
+(Hear me out, oh
 I'll make it perfectly clear I love you
-
-
-
 
 I don't come whining with my heart on my sleeve
 I'm not a coward, if that's what you believe

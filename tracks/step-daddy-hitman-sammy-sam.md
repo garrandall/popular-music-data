@@ -64,7 +64,7 @@ And tell ya lil' brothas to go to bed
  I'mma tell yo mama!
  Tell my mama!
  You so bad!
- I'm so bad!! You just mad cause you ain't my dad!
+ I'm so bad! You just mad cause you ain't my dad!
 
  I'mma call yo mama!
  Call my mama!
@@ -96,7 +96,7 @@ Bebe and her kids gettin' the best of me
  Shut Up!
  You ain't my dad!
  Okay, that's enough..
- I wish my dad wouldn've never left!!
+ I wish my dad wouldn've never left!
  What?!
  I wish we lived here by ourself!
  What?!

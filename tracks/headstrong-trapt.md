@@ -216,10 +216,6 @@ I see your motives inside, decisions to hide
 
 
 
-I know, I know all about 
+I know, I know all about
 I know, I know all about your motives inside, and your decision to hide
-
-
-
-
 

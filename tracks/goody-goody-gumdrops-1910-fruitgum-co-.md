@@ -45,7 +45,7 @@ rankings:
   start_date: '1968-12-21'
 ---
 I'm gettin' weaker, weaker
-Ev'ry time I hear her name
+Every time I hear her name
 Ah she's gettin' sweeter, sweeter
 This girl is driving me insane
 Refrain: Goody Goody Gumdrops

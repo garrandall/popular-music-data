@@ -52,22 +52,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-05-27'
 ---
-Ooh-ooh-ooh
-Ooh-ooh-ooh-ooh
+Oh-ohooh
+Oh-ohoohhoh
 Run, run, run
-Ooh-ooh-ooh
-Ooh-ooh-ooh-ooh
+Oh-ohooh
+Oh-ohoohhoh
 Run, run, run
 
 You better ride home babe
 He was born outside of the law
 Run...run...
 
-Ooh-ooh-ooh
-Ooh-ooh-ooh-ooh
+Oh-ohooh
+Oh-ohoohhoh
 Run, run, run
-Ooh-ooh-ooh
-Ooh-ooh-ooh-ooh
+Oh-ohooh
+Oh-ohoohhoh
 Run, run, run
 
 Oh, load up your momma
@@ -76,11 +76,11 @@ Run...run...
 
 Run...run...
 
-Ooh-ooh-ooh
-Ooh-ooh-ooh-ooh
+Oh-ohooh
+Oh-ohoohhoh
 Run, run, run
-Ooh-ooh-ooh
-Ooh-ooh-ooh-ooh
+Oh-ohooh
+Oh-ohoohhoh
 Run, run, run
 
 Aw, welcome to the party

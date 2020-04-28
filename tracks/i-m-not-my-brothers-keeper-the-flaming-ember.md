@@ -85,8 +85,8 @@ Before you judge me, why not try to love me?
 Don't cut into me with your knives of doubt
 Before you judge me, why not hear me out?
 
-Whoa, brothers!!
-(I'm not my brother's keeper) 
+Whoa, brothers!
+(I'm not my brother's keeper)
 I'm not my brother's keeper, though he be strong or weaker
 Before you judge me, why not try to love me?
 

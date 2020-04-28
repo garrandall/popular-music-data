@@ -179,13 +179,13 @@ See heaven's got a plan for you
 Don't you worry, don't you worry now
 Yeah
 
-Oh-oh-oh-oh-oh-oh-oooh
-Oh-oh-oh-oh-oh-oh-oooh
-Oh-oh-oh-oh-oh-oh-oooh
-Oh-oh-oh-oh-oh-oh-oooh
-Oh-oh-oh-oh-oh-oh-oooh
-Oh-oh-oh-oh-oh-oh-oooh
-Oh-oh-oh-oh-oh-oh-oooh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
 
 See heaven's got a plan for you
 Don't you worry, don't you worry, child
@@ -193,6 +193,6 @@ See heaven's got a plan for you
 Don't you worry, don't you worry now
 Yeah
 
-Oh-oh-oh-oh-oh-oh-oooh
-Oh-oh-oh-oh-oh-oh-oooh
-Oh-oh-oh-oh-oh-oh-oooh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh

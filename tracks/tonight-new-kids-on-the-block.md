@@ -60,8 +60,8 @@ Remember when we said, “Girl, please don’t go”
 And how I’d be loving you, forever?
 Taught you ‘bout hangin’ tough
 As long as you’ve got the right stuff
-Didn’t we, girl? Ooh ooh
-Didn’t we, girl? Aah, aah
+Didn’t we, girl? Ohoh
+Didn’t we, girl? Ah, ah
 
 
 Well, I guess it’s a brand new day after all
@@ -77,8 +77,8 @@ Remember when we traveled 'round the world
 We met a lot of people and girls
 Fan mail from everywhere
 Showed us how you care
-Didn’t it, girls? Ooh, ooh
-Didn’t it, girls? Aah, aah
+Didn’t it, girls? Oh oh
+Didn’t it, girls? Ah, ah
 
 
 Well, I guess it’s a brand new day after all

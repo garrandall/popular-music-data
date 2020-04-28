@@ -65,7 +65,3 @@ Talkin' 'bout rock and roll, I like rock and roll, yeah
 Long live rock and roll, yeah, talkin' 'bout rock and roll
 Rock and roll, sweet groovy music
 
-
-
-
-

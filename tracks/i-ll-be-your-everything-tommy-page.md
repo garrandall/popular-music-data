@@ -90,9 +90,9 @@ And I'll be your best friend (oh, I'll be your friend)
 I'll be there when you're needing me (when you need me)
 I'll be your everything, your everything
 
-I'll be your everything (ooh)
+I'll be your everything (oh)
 I'll be all that you want and all that you need
-I'll be your everything (ooh)
+I'll be your everything (oh)
 I'll give you all that I have, my love, my life and me
 I'll be your everything
 
@@ -106,7 +106,7 @@ And I'll be your best friend (oh, I'll be your friend)
 I'll be there when you're needing me (when you need me)
 I'll be your everything, your everything
 
-I'll be your everything (ooh)
+I'll be your everything (oh)
 I'll give you all that I have, my love, my life and me
 I'll be your everything
 
@@ -131,4 +131,4 @@ I'll make your whole world turn around
 I'll give my heart and soul to you
 To let you know this love is true
 
-Ooh, I'll be your everything
+Oh, I'll be your everything

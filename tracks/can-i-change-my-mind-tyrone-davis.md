@@ -94,7 +94,7 @@ Many times before
 But, peoples, let me tell y'all
 Oh, I never reached the door
 
-But, ooh, the winds howl tonight
+But, oh the winds howl tonight
 I keep looking back but
 My baby's not in sight
 I would like to start all over again

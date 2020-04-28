@@ -86,7 +86,7 @@ rankings:
 ---
 
 Turn it up
-Ooh!
+Oh!
 
 Yeah!
 

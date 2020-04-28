@@ -62,7 +62,7 @@ again and again.
 Ow! They do it, they do it, they do it, they do it.
 These married men.
 
-Ooh, you make him feel so young,
+Oh, you make him feel so young,
 but his wife is still the number one.
 He promises to marry you.
 Yeah, just as soon as his divorce comes through.
@@ -95,7 +95,7 @@ married man! Married men!
 
 They do it, they do it, they do it, they do it.
 Married, married men.
-Ahh! They do it, they do it, they do it, they do it.
+Ah! They do it, they do it, they do it, they do it.
 These married men.
 
 The world is full of them.
@@ -113,7 +113,7 @@ again and again.
 They do it, they do it, they do it, they do it.
 Can't help but lovin'.
 Oh, honey, they do it and then they do it again.
-Ooh, make you feel real good!
+Oh, make you feel real good!
 Ow! They do it and then they do it again.
 They love you and leave you
 
@@ -125,7 +125,7 @@ Whoa, I love a . . .
 Ah! They do it, they do it, they do it, they do it.
 Don't trust a . . .
 
-Ooh, you make him feel so young,
+Oh, you make him feel so young,
 but his wife is still number one.
 He promises to marry you.
 Yeah, just as soon as his divorce comes through.

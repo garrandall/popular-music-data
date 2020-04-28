@@ -110,7 +110,7 @@ Please
 Please (Woo)
 
 
-Lollipoppin' (Poppin'), twerkin' in some J's (Ooh)
+Lollipoppin' (Poppin'), twerkin' in some J's (Oh
 On the dance floor (Uh-huh), no panties in the way (Nope)
 I take my time with it (Ow), bring you close to me (Ow)
 Don't want no young dumb shit
@@ -155,7 +155,7 @@ My pussy horchata (Oh)
 
 
 I'm gonna ride it, do it just how you like it
-Tonight and after that (Ooh)
+Tonight and after that (Oh
 Let's do it one more time
 Girl, I ain't one for beggin', but now you got me beggin'
 
@@ -171,7 +171,7 @@ Please (Woo)
 Come on
 Come on, back it up for me
 Come on
-Ooh, twerk it on me slowly
+Oh twerk it on me slowly
 Come on
 Girl, let me put this lovin' on you
 You better say that shit (Uh)
@@ -179,7 +179,7 @@ Cardi don't play that shit (Yeah)
 Do my back like I do these records, break that shit
 
 Please me, baby (Uh)
-Turn around and tease me, baby (Uh, ooh)
+Turn around and tease me, baby (Uh, oh
 You got what I want and need, baby (Yes)
 (Let me hear you say)
 Please

@@ -53,7 +53,7 @@ Is you're all show, show, show
 
 Don't you think you ought to
 Get to know me before we go
-Ooh, make a fool out of someone else
+Oh make a fool out of someone else
 But don't let me know
 
 Well, you got the wrong impression
@@ -74,9 +74,9 @@ Well, if you find it don't fit
 Well, if you find it don't fit
 Well, that's it
 
-Try it on, try it on, ooh
+Try it on, try it on, oh
 
-Try it on, try it on, ooh
+Try it on, try it on, oh
 
 Well, yeah, yeah, yeah, yeah
 

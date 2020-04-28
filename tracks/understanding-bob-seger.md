@@ -102,7 +102,7 @@ Yeah, yeah
 Got me understanding
 Understanding
 You've got me understanding
-Ooh yeah
+Oh yeah
 Understanding
 Understanding
 You've got me understanding

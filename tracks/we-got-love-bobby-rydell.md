@@ -85,7 +85,7 @@ SEVEN I'll be heaven-bound and in your arms by EIGHT
 
 Everybody now (We got love)
 By the numbers (We got love)
-Ooh yeah, yeah, yeah (ain't it wonderful we got love.)
+Oh yeah, yeah, yeah (ain't it wonderful we got love.)
 
 'cause I got ONE million kisses TWO thrill you through
 And I got THREE thousand hugs I'm savin' FOUR only you'
@@ -94,7 +94,7 @@ SEVEN little children, dear, or maybe we'll have EIGHT
 
 Let me hear it, baby (We got love)
 Ah, dontcha know it now (We got love)
-Ooh yeah, yeah, yeah (ain't it wonderful we got love.)
+Oh yeah, yeah, yeah (ain't it wonderful we got love.)
 
 When we marry
 FIVE'll get you TEN, dear, that in SIX more years we rate
@@ -102,8 +102,8 @@ SEVEN little children, dear, or maybe we'll have EIGHT
 
 All together now (We got love)
 Ah let me tell ya (We got love)
-Ooh yeah, yeah, yeah (ain't it wonderful we got love.)
+Oh yeah, yeah, yeah (ain't it wonderful we got love.)
 
 One more time (We got love)
 Ah dontcha know it baby (We got love)
-Ooh yeah, yeah, yeah (ain't it wonderful we got love.)
+Oh yeah, yeah, yeah (ain't it wonderful we got love.)

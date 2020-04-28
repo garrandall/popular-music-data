@@ -104,7 +104,6 @@ Many times I felt like up and leaving oh girl
 But I'm way too deep in love with her, as crazy as she
 Is I want her to have my kids
 
-(Chorus)
 
 (Verse 3)
 With her I have grown

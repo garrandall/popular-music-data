@@ -106,12 +106,12 @@ And love me just like a movie
 (Everybody)
 
 Oh Oh, Oh Oh, Oh-Oh-Oh
-Ooh Ooh, Ooh Ooh, Ooh-Ooh-Ooh
+Oh Oh, Oh Oh, Oh-Oh-Oh
 Oh Oh, Oh Oh, Oh-Oh-Oh
 This boy, this boy, this boy
-Ooh Ooh, Ooh Ooh, Ooh-Ooh-Ooh
 Oh Oh, Oh Oh, Oh-Oh-Oh
-Ooh Ooh, Ooh Ooh, Ooh-Ooh-Ooh
+Oh Oh, Oh Oh, Oh-Oh-Oh
+Oh Oh, Oh Oh, Oh-Oh-Oh
 That girl, that girl, that girl
 This boy, That girl
 This boy, That girl

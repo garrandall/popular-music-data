@@ -90,10 +90,9 @@ rankings:
   start_date: '1995-09-16'
 ---
 You're all, I need
-To get by, ahhhhh
+To get by, ah
 You're all, I need
-To get by, ahhhhh
-(Background sample: Notorious B.I.G.)
+To get by, ah
 
 Shorty I'm there for you anytime you need me
 For real girl, it's me in your world, believe me
@@ -117,8 +116,6 @@ I'm realizing that you didn't have to funk wit me
 But you did, now I'm going all out kid
 And I got mad love to give, you my nigga
 
-(Chorus) 2X's
-Mary J. Blige
 Like sweet morning dew
 I took one look at you
 And it was plain to see
@@ -141,5 +138,3 @@ Be on another level of planning, of understanding
 The bond between man and woman, and child
 The highest elevation, cuz we above
 All that romance crap, just show your love
-
-(Repeat chorus till fade)

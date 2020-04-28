@@ -66,7 +66,7 @@ Ain't it just the way life goes?
 People fear what they don't know
 
 Come along for the ride (oh, yeah)
-Come along for the ride (ooh)
+Come along for the ride (oh)
 
 'Cause I'm a gypsy
 Are you coming with me?

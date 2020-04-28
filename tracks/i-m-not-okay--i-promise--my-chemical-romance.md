@@ -63,9 +63,6 @@ For the last time, take a good hard look
 I'm not okay, I'm not okay
 I'm not okay, you wear me out
 
-
-
-
 Forget about the dirty looks
 The photographs your boyfriend took
 You said you read me like a book

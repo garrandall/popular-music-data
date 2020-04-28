@@ -68,7 +68,7 @@ I'll try anything to get you
 I'll cheat and I'll lie
 Try 'til I die
 'Til I make you my man
-My man, hey, ooh, ooh, ooh, ooh
+My man, hey, oh oohohohhoh
 
 I want you so much inside
 I'm throwin' away all my conscience and pride, and

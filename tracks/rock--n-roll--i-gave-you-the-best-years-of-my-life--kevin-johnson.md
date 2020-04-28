@@ -30,8 +30,8 @@ And my family listened fifty times to my two-song-repertoire
 And I told my mam her only son was gonna be a star.
 I bought all the Beatle-records sounded just like Paul
 I bought all the old Chuck Berries 78's and all.
-I sat by my record-player playing ev'ry note they played
-Now watched them all on TV copied ev'ry move they made.
+I sat by my record-player playing every note they played
+Now watched them all on TV copied every move they made.
 
 Oh, Rockn' roll I gave you all the best years of my life
 All the dreamy sunny sundays all the moonlit summer nights

@@ -64,13 +64,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-06-03'
 ---
-(Ooh ooh)
-(Ooh ooh)
+(Oh oh)
+(Oh oh)
 
-(Ooh ooh) let's all chant
-(Ooh ooh) let's all chant
-(Ooh ooh) let's all chant
-(Ooh ooh) let's all chant
+(Oh oh) let's all chant
+(Oh oh) let's all chant
+(Oh oh) let's all chant
+(Oh oh) let's all chant
 
 Your body, my body
 Everybody move your body
@@ -81,14 +81,14 @@ Everybody move your body
 Your body, my body
 Everybody work your body
 
-(Ooh ooh)
-(Ooh ooh)
-(Ooh ooh)
-(Ooh ooh)
-(Ooh ooh) let's all chant
-(Ooh ooh) let's all chant
-(Ooh ooh) let's all chant
-(Ooh ooh) let's all chant
+(Oh oh)
+(Oh oh)
+(Oh oh)
+(Oh oh)
+(Oh oh) let's all chant
+(Oh oh) let's all chant
+(Oh oh) let's all chant
+(Oh oh) let's all chant
 
 Your body, my body
 Everybody oh work your body
@@ -106,7 +106,7 @@ Everybody oh work your body
 Your body, my body
 Everybody oh work your body
 
-(Ooh ooh) let's all chant
-(Ooh ooh) let's all chant
-(Ooh ooh)
-(Ooh ooh)
+(Oh oh) let's all chant
+(Oh oh) let's all chant
+(Oh oh)
+(Oh oh)

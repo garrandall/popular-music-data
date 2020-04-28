@@ -92,7 +92,7 @@ I'm coming over
 Coming, coming, listen girl
 
 I'm whispering words over your shoulder
-Oooh can't you hear
+Oh can't you hear
 Before you reply the temperature rise
 Then like that you disappear
 I never imagined

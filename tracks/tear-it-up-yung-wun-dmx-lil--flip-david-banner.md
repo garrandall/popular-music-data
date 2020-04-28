@@ -97,10 +97,10 @@ We gon rock dis muthafucka till the wheels fall off
 
 
 Mississippi mutherfucker, Pop a dick in ur mouth,
-Southside till i die, smokin dro in the drop,
+Southside till I die, smokin dro in the drop,
 I Make a bitch gimme money then I'm kickin her out,
 I spit game to your wife, then we robbin your house,
-Yall niggaz love that way that we grippin the grain,
+Yall niggas love that way that we grippin the grain,
 If you got it and I want it, I aint callin your name,
 Just lay it down, Fuck Boy, like I'm ballin G,
 You get yo' chest in yo' lap if you fuckin with me
@@ -110,7 +110,7 @@ You get yo' chest in yo' lap if you fuckin with me
 
 You might catch me at the Rose Bowl game,
 In a 4-door range,
-With a Rose gold chain, 
+With a Rose gold chain,
 Wrapped around my neck,
 Or I might be flashin' in a white G-wagon,
 With my arm out the window, grippin' a Tech,
@@ -124,9 +124,5 @@ It's David Banner, Yung Wun, and F-L-I-P
 Get it crunk in this,
 Set it Off in this thing,
 We sittin here leanin' by tha bar
-Didn't know we drunk in this thing 
-
-
-
-
+Didn't know we drunk in this thing
 

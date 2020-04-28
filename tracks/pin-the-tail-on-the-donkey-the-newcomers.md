@@ -28,11 +28,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
 ---
-Whoo-oooh-oooh!
+Whoo-oh-oh!
 Come on now!
 Yeah, yeah, yeah, yeah, yeah, yeah!
 
-Whooo-oooh!
+Whooo-oh!
 
 
 One day I took you to the zoo
@@ -69,7 +69,7 @@ Better move on!
 Baby (baby), baby (baby)
 Baby (baby), baby (baby)
 Baby (baby), baby (baby)
-Ooh baby (baby), baby (baby)
+Oh baby (baby), baby (baby)
 Baby (baby), baby (baby)
 Baby (baby), baby (baby)
 Whoa-oh!

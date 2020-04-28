@@ -70,7 +70,7 @@ The trouble you'd bring.
 Like the time you pushed Sonny,
 And she cried on me
 With those same big eyes,
-You turned and you looked at me, ohhh
+You turned and you looked at me, oh
 Who will take the blame?
 Who's gonna bear the shame?
 Right then, I knew,

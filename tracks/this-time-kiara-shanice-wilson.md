@@ -92,9 +92,6 @@ What went on inside
 Now I'm never gonna give up
 Until I'm back by your side
 
-
-
-
 Before we went wrong, you know
 We used to be so right
 I know we should surrender to love

@@ -102,7 +102,7 @@ You've got to believe me babe, believe that I love you so
 And if I didn't want you, then I would want you out
 
 This love, this love has filled me up
-Ooh my love I'll never give you up
+Ohmy love I'll never give you up
 'Cos I'll always want your love
 
 If I could change the way I live my life today
@@ -115,7 +115,7 @@ When I first said I loved you, I went in for the kill
 Now when I say I love you, I mean I always will
 
 This love, this love has filled me up
-Ooh my love I'll never give you up
+Ohmy love I'll never give you up
 'Cos I'll always want your love
 
 If I could change the way I live my life today
@@ -124,7 +124,7 @@ I wouldn't change a single thing
 I wouldn't see your smiling face
 
 This love, this love has filled me up
-Ooh my love I'll never give you up
+Ohmy love I'll never give you up
 'Cos I'll always want your love
 
 If I could change the way I live my life today

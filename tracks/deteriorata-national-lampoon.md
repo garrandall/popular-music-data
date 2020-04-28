@@ -28,7 +28,7 @@ Introduction
 
 You are a fluke
 Of the universe.
-You have no right to be here.....
+You have no right to be here...
 Deteriorata! Deteriorata!
 
 Go placidly

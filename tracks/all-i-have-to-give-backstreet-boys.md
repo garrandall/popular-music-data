@@ -152,7 +152,7 @@ I wish I could give the world to you
 But love is all I have to give
 
 
-To you, oooh
+To you, oh
 I have to give
 Without you I don't think I could live
 Give the world to you, baby

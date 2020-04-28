@@ -67,9 +67,6 @@ And she leaned and whispered in my ear
 Cuddlin' more and drivin' slow
 With no particular place to go
 
-
-
-
 No particular place to go
 So we parked way out on the kokomo
 The night was young and the moon was bold

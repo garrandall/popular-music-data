@@ -67,9 +67,6 @@ The train it won't stop going
 No way to slow down
 Hey-hey
 
-
-
-
 He hears the silence howling
 Catches angels as they fall
 And the all-time winner

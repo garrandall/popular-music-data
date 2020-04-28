@@ -41,7 +41,7 @@ Im a midnight teaser huh! real soul pleaser
 Im a midnight hurter (a midnight hurter)
 All night lover, look-a-here, (and a lover)
 Trust in me when you're down and out
-(please baby) I will always bring you out (ooo)
+(please baby) I will always bring you out (oo)
 They call me the midnight mover, oh yeah
 Ay! Im a midnight walker, sweet soul talker
 Im a midnight creeper, all day sleeper
@@ -59,4 +59,4 @@ Got to be a mignight lover,(whoa)
 Got to be a midnight walker,(whoa)
 (A midnight walker, whoa)
 I got to be a midnight talker, whoa
-I midnight pleaser.........fades
+I midnight pleaser...fades

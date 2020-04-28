@@ -96,9 +96,6 @@ You'd swear her heart has wings
 She's in love
 Why can't it be me?
 
-
-
-
 She's in love
 She's got that fire in her eyes
 She's in love

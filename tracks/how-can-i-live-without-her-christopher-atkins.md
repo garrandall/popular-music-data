@@ -55,4 +55,3 @@ She'll always be the only one
 Her name forever on my lips
 She's slipping through my fingertips
 
-Chorus

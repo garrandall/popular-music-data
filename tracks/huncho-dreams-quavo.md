@@ -30,7 +30,7 @@ Mm-mm
 I told you I don't want no company in my house
 Mmm
 I told you that I don't want none of them lil fast girls in my house
-Mm-hmm
+Mm-hm
 No females in my house, that's the rule
 There's a one-bull rule in effect
 I ain't gon' lie, I got some cuddy last night
@@ -90,7 +90,7 @@ Shake it like Iggy (She bad)
 Woo, if I hurt your feelings, I am truly sorry (Sorry, woo)
 Straight out the jungle, no safari
 
-Ooh, yeah
+Oh yeah
 (Woo, woo, woo, woo
 Woo, woo, woo, woo)
 Don't try to play me

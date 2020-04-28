@@ -113,7 +113,7 @@ Lose it all, rolling the dice of her
 
 Too much, too soon
 Just a little too late
-Ooh 'cause when her ship came in
+Oh 'cause when her ship came in
 She wasn't there, it just wouldn't wait
 
 Win big, mama's fallen angel

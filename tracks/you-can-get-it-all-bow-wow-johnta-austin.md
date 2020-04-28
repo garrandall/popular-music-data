@@ -73,7 +73,7 @@ You can get it
 
 
 I know you heard my reputation (reputation)
-You dont think I would ever do right by you (by you)
+You don't think I would ever do right by you (by you)
 You think that if you and I was in a relationship
 I would never be true (be true)
 You think that anything I say is straight gang (straight gang)
@@ -113,10 +113,10 @@ One minute you act like you like me (like me)
 And then the next you don't (don't)
 You still sending me crazy emails
 Like I know its just sex you want (you want)
-I cant lie the sex is truly incredible (incredible)
+I can't lie the sex is truly incredible (incredible)
 And every part of your body is so edible (edible)
 I get tears from just thinking bout it
-But that aint the reason why im stuck and cant let you go (let you go)
+But that aint the reason why im stuck and can't let you go (let you go)
 We got a serious serious bond (bond)
 And when we kick it we have nothin but fun (but fun)
 I feel a whole lot of L-O-V-E between you and me

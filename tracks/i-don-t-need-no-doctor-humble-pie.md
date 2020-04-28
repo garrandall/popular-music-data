@@ -82,7 +82,7 @@ Keeping me safe from harm
 All I need is her sweet charm
 
 He gave me a medicated lotion
-That wouldn't do, ooh yeah
+That wouldn't do, oh yeah
 My emotion, oh yeah
 
 

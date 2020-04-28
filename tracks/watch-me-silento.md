@@ -231,15 +231,15 @@ Watch me nae nae (Can you do it?)
 
 Now watch me
 
-Ooh watch me, watch me
-Ooh watch me, watch me
-Ooh watch me, watch me
-Ooh ooh ooh ooh
+Oh watch me, watch me
+Oh watch me, watch me
+Oh watch me, watch me
+Oh oh oh oh
 
-Ooh watch me, watch me
-Ooh watch me, watch me
-Ooh watch me, watch me
-Ooh ooh ooh ooh
+Oh watch me, watch me
+Oh watch me, watch me
+Oh watch me, watch me
+Oh oh oh oh
 
 Do the stanky leg (stank)
 Do the stanky leg (stank stank)
@@ -277,15 +277,15 @@ Watch me nae nae (Can you do it?)
 
 Now watch me
 
-Ooh watch me, watch me
-Ooh watch me, watch me
-Ooh watch me, watch me
-Ooh ooh ooh ooh
+Oh watch me, watch me
+Oh watch me, watch me
+Oh watch me, watch me
+Oh oh oh oh
 
-Ooh watch me, watch me
-Ooh watch me, watch me
-Ooh watch me, watch me
-Ooh ooh ooh ooh
+Oh watch me, watch me
+Oh watch me, watch me
+Oh watch me, watch me
+Oh oh oh oh
 
 Now watch me yule (Soulja)
 Now watch me superman (okay!)
@@ -317,15 +317,15 @@ Watch me nae nae (Can you do it?)
 
 Now watch me
 
-Ooh watch me, watch me
-Ooh watch me, watch me
-Ooh watch me, watch me
-Ooh ooh ooh ooh
+Oh watch me, watch me
+Oh watch me, watch me
+Oh watch me, watch me
+Oh oh oh oh
 
-Ooh watch me, watch me
-Ooh watch me, watch me
-Ooh watch me, watch me
-Ooh ooh ooh ooh
+Oh watch me, watch me
+Oh watch me, watch me
+Oh watch me, watch me
+Oh oh oh oh
 Crank dat
 
 

@@ -66,7 +66,7 @@ In your own
 Sweet gentle way
 Let me hear
 Tell me dear
-Tell me oooo
+Tell me oo
 You love me so
 Talk to me
 Talk to me

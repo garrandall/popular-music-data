@@ -42,10 +42,10 @@ Come on baby, and get with meeeee, yeah
 
 (Just ask me to) Just ask me to
 (I'll be with you) I'll be with you
-(And ohhhhhhhhhh, so much as your friend)
+(And oh, so much as your friend)
 (If you walk with me) If you walk with me
 (I'll walk with you) I'll walk with you
-(And ohhhhhhhhhh, so much as your friend)
+(And oh, so much as your friend)
 
 (Forget, those people talking trash)
 (Just jet up and just leave)
@@ -53,7 +53,7 @@ Come on baby, and get with meeeee, yeah
 
 (Baby, take Tevin by the hand)
 (I'm sure you'll understand) I'm sure you'll understand
-(Lady this is fate) Ohhhhh, ohhhhhhhh
+(Lady this is fate) Ohhhhh, oh
 
 (Dooooooooooooooooooooon't, be afraid) T.C. one time now
 
@@ -90,10 +90,10 @@ you can come to my crib, I'm Chubb Rock, peace
 
 (Just ask me to) Just ask me to
 (I'll be with you) I'll be with you
-(And ohhhhhhhhhh, so much as your friend)
+(And oh, so much as your friend)
 (If you walk with me) If you walk with me
 (I'll walk with you) I'll walk with you
-(And ohhhhhhhhhh, so much as your friend)
+(And oh, so much as your friend)
 
 Break it down..
 Aiyyyyyyyyyyyyo, I'm in here G!

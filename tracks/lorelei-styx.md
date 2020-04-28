@@ -70,7 +70,7 @@ As gentle as a butterfly she moves without a sound
 I call her on the telephone, she says be there by eight
 Tonight's the night she's moving in and I can hardly wait
 
-The way she moves, ooh-ooh
+The way she moves, ohooh
 I gotta say
 Lorelei let's live together
 Brighter than the stars forever
@@ -82,7 +82,7 @@ She brightens every lonely night, no one's quite the same
 She calls me on the telephone, she says be there by eight
 Tonight's the night she's moving in, it's time to celebrate
 
-The way she moves, ooh-ooh
+The way she moves, ohooh
 I gotta say
 Lorelei let's live together
 Brighter than the stars forever

@@ -130,7 +130,7 @@ Thinkin' about Mike and my moment of glory
 I drink water 20 gallons a pop
 And I can throw a Volkswagon a whole half block
 (he can do it too)
-And 4 million sit ups...in a minute....
+And 4 million sit ups...in a minute...
 ..I ain't lying I did it
 (he done it)
 The general public thought I was a fool
@@ -174,7 +174,7 @@ I came out hustling sliding and grabbing
 Slippin' and dippin' hustlin' and jabbin'
 For a second I looked good out there
 But then Mike brought to reality my worst nightmare
-One punch, that's all it took (oooh)
+One punch, that's all it took (oh
 He hit me in my ribs and my insides shook
 Now how can I say this and be a little discreet
 Let's just say that my bowels released
@@ -199,7 +199,7 @@ yeah
 
 Did you see the fight? did you see the fight?
 
-the..the..the football player?
+the...the...the football player?
 
 No the boxer, come on man
 I was at the fight last night
@@ -209,7 +209,7 @@ For my ticket right...
 ah, you weren't at no fight
 I seen you around here last night
 
-..and the boy..the boy ran out the ring
+..and the boy...the boy ran out the ring
 
 you always lying
 

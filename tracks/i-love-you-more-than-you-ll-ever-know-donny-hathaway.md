@@ -33,7 +33,7 @@ rankings:
   start_date: '1972-11-25'
 ---
 If I ever leave you baby, you can say I told you so
-And if I ever hurt you.... you know I hurt myself as well
+And if I ever hurt you... you know I hurt myself as well
 
 
 Is that any way for a man to carry on

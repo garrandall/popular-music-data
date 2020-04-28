@@ -90,9 +90,6 @@ It don't show what's deep inside
 Or read between the lines
 And it's really no reflection of my youth
 
-
-
-
 I was a young troubador
 When I wrote in on a song
 And I'll be an old troubador when I'm gone

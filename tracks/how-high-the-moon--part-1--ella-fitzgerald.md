@@ -64,7 +64,7 @@ We're asking how high, high, high
 High, high is the moon
 
 Boo bi yoo bi
-Bi yu di di ooh dun
+Bi yu di di ohdun
 Dabba oohbee
 Boo di yoo di
 Di yu di dee dee doohdun
@@ -83,7 +83,7 @@ Vebeeoopm dabba oohbayoum dabie
 Oohmbappa eupembappi ah
 
 Baby ohm bap
-Baby ooh bee bap bey
+Baby ohbee bap bey
 Oohtoo undn datley udnda da
 Eun bu! eun bi! un ba! un bey!
 Un bey un bey in byron bay
@@ -110,7 +110,7 @@ Beepbee oo'bapbee ootndap bobay
 Beepbee ootn da loday
 
 Deudedeu deun daudau baubau
-Bieubau badee beiu beiu ooh
+Bieubau badee beiu beiu oh
 Heee he a we ah
 Heee he a eeah hah
 Eeetdee eutandabbie utan

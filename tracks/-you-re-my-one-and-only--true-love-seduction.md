@@ -92,8 +92,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-11-25'
 ---
-Ohhhh-oh, ohhhh-oh, ohhhh-oh, ohhhh-oh
-Ohhhh-oh, ohhhh-oh, ohhhh-oh, ohhhh-oh
+Ohhhh-oh, oh-oh, oh-oh, oh-oh
+Ohhhh-oh, oh-oh, oh-oh, oh-oh
 When you came into my life
 You showed me what true love was meant to be
 You brought light into my shadows
@@ -106,7 +106,7 @@ You're my one and only
 My one and only true love, true love
 (You're my) you're my one and only (my one and only)
 My one and only true love, true love, true love
-Ohhhh-oh, ohhhh-oh, ohhhh-oh, ohhhh-oh
+Ohhhh-oh, oh-oh, oh-oh, oh-oh
 So many times before
 I thought that I had really found true love
 But all I really found
@@ -120,9 +120,9 @@ My one and only true love, true love
 You're my one and only
 My one and only true love, true love
 (Ohhhh-oh) You're my one and only
-(Ohhhh-oh) My one and only true love (ohhhh-oh) true love
+(Ohhhh-oh) My one and only true love (oh-oh) true love
 (Ohhhh-oh) You're my one and only
-(Ohhhh-oh) My one and only true love (ohhhh-oh) true love
+(Ohhhh-oh) My one and only true love (oh-oh) true love
 (Ohhhh-oh) True love
 We're two great tastes that taste great together
 We'll be around forever and ever
@@ -141,8 +141,8 @@ My one and only true love, true love
 You're my one and only
 My one and only true love, true love
 (Ohhhh-oh) You're my one and only
-(Ohhhh-oh) My one and only true love (ohhhh-oh) true love
+(Ohhhh-oh) My one and only true love (oh-oh) true love
 (Ohhhh-oh) You're my one and only
-(Ohhhh-oh) My one and only true love (ohhhh-oh) true love
+(Ohhhh-oh) My one and only true love (oh-oh) true love
 ---
 .

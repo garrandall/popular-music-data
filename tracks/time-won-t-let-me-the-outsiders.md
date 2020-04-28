@@ -88,7 +88,7 @@ Time won't let me-ee-ee (Whoa no)
 Time won't let me-ee-ee-ee
 Wow
 
-Ahhh, ahhh, ahhh, ah
+Ah, ah, ah, ah
 
 I can't wait forever
 Even though you want me to

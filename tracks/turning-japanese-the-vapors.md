@@ -139,9 +139,6 @@ I really think so
 Turning Japanese, I think I'm turning Japanese
 I really think so
 
-
-
-
 Turning Japanese, I think I'm turning Japanese
 I really think so
 Turning Japanese, I think I'm turning Japanese

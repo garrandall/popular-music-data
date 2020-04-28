@@ -146,7 +146,3 @@ If you only try
 Just don't give up on love
 'Cause it didn't work out this time
 
-
-
-
-

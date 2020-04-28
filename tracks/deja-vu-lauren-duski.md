@@ -35,9 +35,6 @@ The slamming doors and broken glass
 Just like that, it all comes back
 It all comes back to...
 
-
-
-
 You... Déjà vu
 Déjà vu
 

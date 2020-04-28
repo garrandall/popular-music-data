@@ -1,6 +1,6 @@
 ---
 artists:
-- Missy "Misdemeanor" Elliott
+- Missy Elliott
 features: []
 genres: []
 key: work-it-missy--misdemeanor--elliott

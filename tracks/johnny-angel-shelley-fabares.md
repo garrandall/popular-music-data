@@ -105,8 +105,8 @@ I dream of him and me
 And how it's gonna be
 (Other fellas)
 Call me up for a date
-But I just sit and wait (Ooh ooh ooh ooh)
-I'd rather concentrate (Ooh ooh ooh ooh)
+But I just sit and wait (Oh oh oh oh)
+I'd rather concentrate (Oh oh oh oh)
 
 On Johnny Angel (Johnny Angel)
 'Cause I love him ('Cause I love him)
@@ -116,12 +116,12 @@ How lovely Heaven will be (Johnny Angel)
 
 (Johnny Angel)
 Johnny Angel (Johnny Angel)
-You're an angel to me (Ooh)
+You're an angel to me (Oh)
 
 (Johnny Angel)
 (Johnny Angel)
 Johnny Angel (Johnny Angel)
-You're an angel to me (Ooh)
+You're an angel to me (Oh)
 
 (Johnny Angel)
 (Johnny Angel)

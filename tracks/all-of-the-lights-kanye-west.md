@@ -199,10 +199,10 @@ Want you to see all of the lights
 
 
 Whoa, whoa
-(I tried to tell you but all I could say was ohh)
+(I tried to tell you but all I could say was oh)
 Whoa, whoa
-(I tried to tell you but all I could say was ohh)
+(I tried to tell you but all I could say was oh)
 Whoa, whoa
-(I tried to tell you but all I could say was ohh)
+(I tried to tell you but all I could say was oh)
 Whoa, whoa
 (I tried to tell you but all I could say)

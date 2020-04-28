@@ -148,11 +148,6 @@ Show stoppin' 'til they lose their breath
 Turn the wheel to the right
 Turn the wheel to the left
 
-
-
-
-
-
 This is for my ladies in the 280s Mercedes
 In the H3, Baby Ranges, Bentley Coupes, my Escalades
 Say oh (oh), oh (oh, oh)
@@ -175,10 +170,4 @@ One time (one time)
 Two time (two time)
 Three time (three time)
 Four time (four time)
-
-
-
-
-
-
 

@@ -123,7 +123,7 @@ Control
 Now I'm all grown up
 
 
-Jam, ooh-ooh
+Jam, ohooh
 Rebel, that's right
 I'm on my own, I'll call my own shots
 Thank you
@@ -139,7 +139,7 @@ So let me take you by the hand, and lead you in this dance
 Control
 It's what I got, because I took a chance
 I don't wanna rule the world, just wanna run my life
-Ooh
+Oh
 So make your life a little easier
 When you get the chance, just take
 
@@ -154,10 +154,10 @@ Control
 Now I'm all grown up
 
 
-Ooh
+Oh
 Free at last
 Out here on my own
-Ooh ooh ooh yeah, eee
+Ohohooheah, ee
 Now control this, uhh
 Control
 That's right
@@ -169,11 +169,11 @@ Control
 And me wants to groove
 Is that okay?
 Yeah!
-Ooh, control
+Oh control
 
 
 I've got my own mind
-Ooh baby
+Ohbaby
 Yeah yeah, yeah yeah
 I've got my own mind
 Wanna make my own decisions

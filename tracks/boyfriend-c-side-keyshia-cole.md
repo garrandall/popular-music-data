@@ -70,7 +70,7 @@ U Can Be My Boyfriend
 I Can Be Your Girlfriend
 
 
-Ooh Wee! Look At That There
+OhWee! Look At That There
 Call Me Sunny, I Need My Share
 Love A (Spring?) Redbone, With Long Hair
 Got Her Act Together Like A Broad Wit A ?

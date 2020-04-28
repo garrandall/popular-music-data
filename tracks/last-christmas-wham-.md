@@ -65,7 +65,7 @@ rankings:
   start_date: '2020-01-04'
 ---
 Ah, aha
-Ooh, ohh
+Oh, oh
 Ohh
 
 
@@ -110,7 +110,7 @@ Me? I guess I was a shoulder to cry on
 
 A face on a lover with a fire in his heart
 A man under cover but you tore me apart
-Ooh-hoo
+Oh-hoo
 Now I've found a real love, you'll never fool me again
 
 

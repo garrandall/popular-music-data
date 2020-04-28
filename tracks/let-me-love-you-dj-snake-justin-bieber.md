@@ -167,9 +167,6 @@ Let me love you
 Let me love you
 Oh baby, baby
 
-
-
-
 Don't fall asleep
 At the wheel, we've got a million miles ahead of us
 Miles ahead of us
@@ -195,9 +192,6 @@ I won't give up, nah, nah, nah
 Let me love you
 Let me love you
 Oh baby, baby
-
-
-
 
 Don't you give up, nah, nah, nah
 I won't give up, nah, nah, nah

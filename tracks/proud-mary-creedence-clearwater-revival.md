@@ -66,7 +66,7 @@ rankings:
 ---
 
 Left a good job in the city,
-Workin' for the man ev'ry night and day,
+Workin' for the man every night and day,
 And I never lost one minute of sleepin',
 Worryin' 'bout the way things might have been.
 

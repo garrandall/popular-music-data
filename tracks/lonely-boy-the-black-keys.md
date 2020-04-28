@@ -114,9 +114,6 @@ I'm a lonely boy, I'm a lonely boy
 Oh whoa oh, I got a love that keeps me waitin'
 Hey
 
-
-
-
 Oh whoa oh, I got a love that keeps me waitin'
 Oh whoa oh, I got a love that keeps me waitin'
 I'm a lonely boy, I'm a lonely boy

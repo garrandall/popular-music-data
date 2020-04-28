@@ -56,7 +56,7 @@ Throw her out
 Shake and shout
 Now that you know how
 (Jitterbug)
-Ahh, come on now
+Ah, come on now
 (Jitterbug, jitterbug)
 Get your girl
 (Jitterbug, jitterbug)

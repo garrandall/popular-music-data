@@ -117,7 +117,7 @@ But darling, there's ain't no getting over me
 You'll see sweet darling, there's ain't no getting over me
 No, no, no, no, No Darling, there ain't no getting over me
 
-Ooooh mmmm
-Mmmm No darling, there ain't no getting over me
+Oh mmm
+Mmm No darling, there ain't no getting over me
 
-Ooooh darling, there ain't no getting over me...
+Oh darling, there ain't no getting over me...

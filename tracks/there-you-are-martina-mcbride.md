@@ -87,10 +87,5 @@ There you are the earth and I'm the moon
 My desire is to stand by the fire
 That burns inside of you
 
-
-
-
-
-
 There you are
 There you are

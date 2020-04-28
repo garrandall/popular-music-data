@@ -46,7 +46,7 @@ And book a suite when me and your favorite singer meet up
 
 Who you like, tell me who it is
 Imma make sure that that women is the next one on my list
-I should call it a night but fuck it i can't resist
+I should call it a night but fuck it I can't resist
 This one is for all my niggas from my city tryin' to diss
 Without a response from me you really fail to exist
 And I love to see you fail that feelin' there is the shit
@@ -65,10 +65,10 @@ At the oakwoods
 And have girls fall through like coins in a couch
 Now we just fuckin all the bitches they warned us about
 Scared for the first time everything has clicked
-What if I dont really do the numbers they predict
+What if I don't really do the numbers they predict
 Considerin the fact that I'm the one that they just picked
 To write a chapter in history this shit has got me sick
-But if I really do it dont expect to get a split
+But if I really do it don't expect to get a split
 Cause this truly is some shit I don't expect you all to get
 
 Im nervous but I'm about to kill it cause they about to let the realist team in
@@ -87,7 +87,7 @@ Money gets all of my love and affection
 Cars all black like the cover of essence
 I'm allergic to comin in second
 But I never sneeze
-Nigga YMOE nigga yeeah
+Nigga YMOE nigga yeah
 
 Uh, yeah, this want yall want
 Octobers Very Own

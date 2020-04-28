@@ -53,9 +53,6 @@ Whatever it is, that girl put a spell on me
 Help me! Help me!
 Ah no, no
 
-
-
-
 Yeah! Purple haze all in my eyes
 Don't know if it's day or night
 You got me blowing, blowing my mind

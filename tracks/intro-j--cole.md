@@ -76,7 +76,7 @@ Ha, yeah nigga
 Hell yeah, I felt that one in my fuckin' soul
 
 
-Ooh, hey, I'm trying to decide
+Oh hey, I'm trying to decide
 Which way to go, think I made a wrong turn back there somewhere
-Ooh, hey, I'm trying to decide
+Oh hey, I'm trying to decide
 Which way to go, think I made a wrong turn back there somewhere

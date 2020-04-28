@@ -19,10 +19,10 @@ rankings:
 ---
 I miss the words we used to say
 I miss the sounds of yesterday
-I miss the games we used to play like ohhh
+I miss the games we used to play like oh
 I was trapped inside a dream
 I couldn't see her next to me
-I didn't know she'd set me free like ohhh
+I didn't know she'd set me free like oh
 
 
 Something happens when I hold her
@@ -38,7 +38,7 @@ All this time my head was down
 He came along and showed me how to let go
 I can't remember where I'm from
 All I know is who I've become
-That our love has just begun like ohhh
+That our love has just begun like oh
 
 
 Something happens when I hold him

@@ -154,7 +154,7 @@ Oh-oh, you think you're something else
 Okay, so you're Brad Pitt
 
 
-That don't impress me much (Oh, oh, ooh)
+That don't impress me much (Oh, oh, oh
 So you got the looks, but have you got the touch?
 Now, don't get me wrong—yeah, I think you're alright
 But that won't keep me warm in the middle of the night

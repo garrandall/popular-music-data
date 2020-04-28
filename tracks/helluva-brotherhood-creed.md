@@ -141,7 +141,7 @@ Yeah you know what I mean
 
 Love is blind but I see good
 I think you're helluva Helluva
-Agreed B-Hood? Yeah!!!!
+Agreed B-Hood? Yeah!
 Yeah I knew you'd agree
 There's no mistakin' she's B.A.D.!
 
@@ -186,7 +186,7 @@ Shee brothers stopped mackin'
 Bend down and tell him it's not cause I'm jealous
 Hey just don't disrespect me fella
 Now she's mad cause she thinks that I'm violent
-The treatment I git is.....
+The treatment I git is...
 Silent
 
 So yo bro know next time you slip there's a fee

@@ -96,7 +96,7 @@ Nel blu dipinto di blu
 Felice di stare lassù
 
 
-Ma tutti i sogni nell'alba svaniscon perché
+Ma tutti I sogni nell'alba svaniscon perché
 Quando tramonta la luna li porta con sé
 Ma io continuo a sognare negli occhi tuoi belli
 Che sono blu come un cielo trapunto di stelle

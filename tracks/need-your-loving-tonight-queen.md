@@ -88,16 +88,16 @@ I'm trying hard, to stay away
 What made you change, what did I say?
 
 
-Ooh, I need your loving tonight
-Ooh, I need your loving
-Ooh, I need your loving
-Ooh, I need your loving, baby, tonight
+Oh, I need your loving tonight
+Oh, I need your loving
+Oh, I need your loving
+Oh, I need your loving, baby, tonight
 (Hit me)
 
 
 
 
-Ooh, I need your loving tonight
+Oh, I need your loving tonight
 
 
 No, I'll never, look back in anger
@@ -106,6 +106,6 @@ Gave me no warning, how could I guess
 I'll have to learn to forgive and forget
 
 
-Ooh, I need your loving
-Ooh, I need your loving
-Ooh, I need your loving tonight
+Oh, I need your loving
+Oh, I need your loving
+Oh, I need your loving tonight

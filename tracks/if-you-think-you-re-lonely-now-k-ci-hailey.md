@@ -90,7 +90,7 @@ And the things her girlfriend's got
 But lady I will let you know
 I can't be in two places at one time
 
-If you think you're lonely now, ooh yeah
+If you think you're lonely now, oh yeah
 Wait until tonight, girl
 Oh, you better wait 'til tonight, yeah baby
 Wait until tonight, girl
@@ -132,7 +132,7 @@ Wait until tonight, girl
 
 If you think you're lonely now
 (If you think you're lonely now)
-Hold on, ooh yeah
+Hold on, oh yeah
 Wait until tonight, girl
 
 I wanna testify
@@ -146,7 +146,7 @@ If you think you're lonely now
 Wait until tonight, girl
 (Share your feelings)
 If you think you're lonely now
-(Ooh yeah)
+(Oh yeah)
 Wait until tonight, girl
 (Oh, don't be a fool)
 

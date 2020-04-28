@@ -170,7 +170,7 @@ Nothing in this world's gon' turn me around (Play my song for me)
 I'm feeling so good (Feeling good)
 I knew that I would (DJ, I knew I would)
 Been taking care of myself like I should (DJ, if you'd just play my song for me)
-'Cause I don't think anyone can bring me down (I don't think, ooh, bring me down, ooh)
+'Cause I don't think anyone can bring me down (I don't think, oh bring me down, oh
 Nothing in this world's gon' turn me around
 I'm feeling so...
 

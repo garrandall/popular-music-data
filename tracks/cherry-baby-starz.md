@@ -56,7 +56,7 @@ Oh, don't you know
 I'm never gonna ever let you go
 Cause you're so sweet
 I've got to have you Cherry
-Mmmmm, Cherry baby
+Mmm, Cherry baby
 Cherry, Cherry, oh yeah
 Cherry, Cherry baby
 Cherry, Cherry oh
@@ -76,7 +76,7 @@ Cherry, Cherry oh
 
 Til they say that I am free and clear
 This old heart of mine will keep you near
-I just pray you wont forget me here
+I just pray you won't forget me here
 Cause you're my soul, my pretty little Cherry
 Cherry baby
 Cherry baby, oh yeah

@@ -28,7 +28,7 @@ Spring's in the air
 There's magic everywhere
 When you're young and in love
 
-Life seems to be, ooh, baby
+Life seems to be, oh baby
 A world of fantasy
 When you're young and in love
 
@@ -37,7 +37,7 @@ Like the Fourth of July
 When stars spangle the sky
 
 Dreams can come true
-Ooh, baby, baby
+Oh baby, baby
 If you believe they do
 When you're young and in love
 

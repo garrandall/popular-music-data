@@ -66,7 +66,7 @@ Don't keep your love inside
 
 These days true love is so hard to find
 Someday I know you're gonna be mine
-Luanne, Luanne, Luanne, ooh
+Luanne, Luanne, Luanne, oh
 
 Luanne, Luanne, Luanne, Luanne
 Why do you run and hide?

@@ -55,7 +55,7 @@ Wish you would just focus on
 
 
 Me
-Can you focus on me? (Ooh, yeah)
+Can you focus on me? (Oh, yeah)
 Baby, can you focus on me?
 Me, me
 Can you focus on me?
@@ -65,4 +65,4 @@ Baby, can you focus on me?
 Baby, baby, focus
 Can't you see?
 I just wanna love you, baby
-Look me in my eyes, ooh
+Look me in my eyes, oh

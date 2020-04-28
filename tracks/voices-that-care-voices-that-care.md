@@ -137,7 +137,7 @@ You are the light
 Stand tall, stand proud
 Voices that care
 Are crying out loud
-Are crying out loud, ooh
+Are crying out loud, oh
 And when you close
 Your eyes tonight
 Feel in your heart

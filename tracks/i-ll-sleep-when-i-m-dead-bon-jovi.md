@@ -59,9 +59,6 @@ We're never going to die baby
 Come on let me drive you crazy
 We'll make every night another New Year's Eve
 
-
-
-
 Sleep when I'm dead, sleep when I'm dead
 Going to live while I'm alive
 I'll sleep when I'm dead
@@ -73,9 +70,6 @@ I was born to live
 You know I wasn't born to die
 But if they party down in heaven
 I'll be sure to be on time
-
-
-
 
 I feel like I'm exploding
 Going out of my head

@@ -119,7 +119,3 @@ I send to you my silent prayer
 I send to you my silent (baby) prayer (every hour)
 my silent prayer
 
-
-
-
-

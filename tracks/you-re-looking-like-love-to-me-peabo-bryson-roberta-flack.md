@@ -85,7 +85,7 @@ I bet my life on us
 Tonight, I tell you, trust in me
 Whoa, you're looking like love
 
-Ooh, you make my body melt
+Oh, you make my body melt
 I swear I never felt so free
 Whoa, you're looking like love to me
 

@@ -173,7 +173,7 @@ But I get my loot from Jive/Zomba, I'ma bomb ya
 You will see, from now 'til infinity
 
 
-Ahhh (Yeah), this is how we chill from 93 'til
+Ah (Yeah), this is how we chill from 93 'til
 This is how we chill from 93 'til
 Huh! This is how we chill from 93 'til
 Yeah! This is how we chill from 93 'til

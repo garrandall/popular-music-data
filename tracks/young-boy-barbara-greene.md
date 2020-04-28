@@ -33,9 +33,9 @@ rankings:
   start_date: '1968-07-27'
 ---
 Too young to fall in love
-My baby, ooh
+My baby, oh
 Too young to fall in love
-My baby, ooh
+My baby, oh
 
 Too young to fall in love
 Too young to know her well
@@ -57,7 +57,7 @@ I hope you don't wait too late
 And let somebody take me away
 
 Too young to fall in love
-My baby, ooh
+My baby, oh
 
 My can't take it any longer
 'Cause my love is steady getting stronger

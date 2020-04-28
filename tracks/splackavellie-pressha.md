@@ -66,7 +66,7 @@ rankings:
 ---
 Voice: You know there comes a period in every womans life when
 She gets frustrated or fed up with her man and all his silly hangups
-You know a woman wants a man where she dont have to have no drama
+You know a woman wants a man where she don't have to have no drama
 Behind it You know jus somebody like to love her down with
 No strings attached and his name is "Splackavellie"
 
@@ -115,7 +115,7 @@ Because Im bout it bout it baby im bout it bout it baby
 
 
 
-Uh ohhh uh uh ahhh ahhh ahhh sounds so good
+Uh oh uh uh ah ah ah sounds so good
 Yeahhhh
 
 Whats my name spell my name Yeahhh

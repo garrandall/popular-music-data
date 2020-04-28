@@ -97,7 +97,3 @@ I want to share my dreams baby together.
 Girl I'm afraid just to give it all up, my hearts tellin' me to hold back on my love.
 But when you get close I just want you to know, I start to get weak and I can't let you go.
 
-
-
-
-

@@ -160,11 +160,11 @@ I can't look at you while I'm lyin' next to her
 I put your picture away, sat down and cried today
 I can't look at you, while I'm lyin' next to her
 
-(Ohh-ooh-ooh)
+(Ohh-ohooh
 
 
 I called you last night in the hotel
-Everyone knows but they wont tell
+Everyone knows but they won't tell
 But their half hearted smiles tell me
 Somethin' just ain't right
 I been waitin' on you for a long time
@@ -178,7 +178,7 @@ I put your picture away
 I wonder where you been
 I can't look at you while I'm lyin' next to him
 
-(Ooh-ooh-ooh)
+(Ohohooh
 
 I saw you yesterday with an old friend
 

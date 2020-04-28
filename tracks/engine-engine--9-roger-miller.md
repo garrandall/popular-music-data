@@ -45,39 +45,39 @@ rankings:
   start_date: '1965-07-03'
 ---
 
-Engine, engine number nine 
-Coming down the railroad line 
-How much farther back did she get off. 
-Old brown suitcase that she carried. 
-I've looked for it ev'rywhere. 
-It just ain't here among the rest 
-And I'm a little upset, yes... tell me 
+Engine, engine number nine
+Coming down the railroad line
+How much farther back did she get off.
+Old brown suitcase that she carried.
+I've looked for it ev'rywhere.
+It just ain't here among the rest
+And I'm a little upset, yes... tell me
 
-Engine, engine number nine, 
-Coming down the railroad line, 
-I know she got on in Baltimore. 
-A hundred and ten miles ain't much distance 
-But it sure do make a diff'rence; 
-I don't think she loves me anymore. 
+Engine, engine number nine,
+Coming down the railroad line,
+I know she got on in Baltimore.
+A hundred and ten miles ain't much distance
+But it sure do make a diff'rence;
+I don't think she loves me anymore.
 
-I warned her of dangers 
-Don't speak to strangers 
-Did she find new romance 
-Warmer lips to kiss her, 
-Arms to hold her tighter, 
-Stirring new fires inside her, 
-How I wish that it was me instead 
-Of he that stands beside her. 
+I warned her of dangers
+Don't speak to strangers
+Did she find new romance
+Warmer lips to kiss her,
+Arms to hold her tighter,
+Stirring new fires inside her,
+How I wish that it was me instead
+Of he that stands beside her.
 
-Engine, engine number nine, 
-Coming down the railroad line, 
-I know she got on in Baltimore. 
-A hundred and ten miles ain't much distance 
-But it sure do make a diff'rence; 
-I don't think she loves me anymore. 
+Engine, engine number nine,
+Coming down the railroad line,
+I know she got on in Baltimore.
+A hundred and ten miles ain't much distance
+But it sure do make a diff'rence;
+I don't think she loves me anymore.
 
-No I don't think she loves me anymore. 
-I dont think she loves me...
+No I don't think she loves me anymore.
+I don't think she loves me...
 
 
 

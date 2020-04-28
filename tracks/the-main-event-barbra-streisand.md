@@ -77,7 +77,7 @@ rankings:
   start_date: '1979-10-06'
 ---
 
-Ooooooh...mmm...mmm...
+Oh...mmm...mmm...
 Extra! Extra!
 I'm in love
 I gotta thank my luck stars above

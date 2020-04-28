@@ -33,7 +33,7 @@ rankings:
   start_date: '1993-01-16'
 ---
 (Revolution) (revolution)
-(Revolution) (revolution).....
+(Revolution) (revolution)...
 
 
 Brothers and sisters
@@ -157,7 +157,7 @@ Let's talk about a revolution
 Hey (revolution)
 
 (Revolution) (revolution)
-(Revolution) (revolution)......
+(Revolution) (revolution)...
 
 
 Now, see, I understand
@@ -175,4 +175,4 @@ Marcus Garvey, Jane Pittman
 Revolution
 
 (Revolution) (revolution)
-(Revolution) (revolution)......
+(Revolution) (revolution)...

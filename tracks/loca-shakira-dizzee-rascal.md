@@ -61,7 +61,7 @@ Loca (loca)
 
 She's playing' dumb all the time
 Just to keep it fun
-To get you on like (ahh!)
+To get you on like (ah!)
 Be careful, amigo
 She’s talking and walking just to wake you up
 She’d die for your love
@@ -124,7 +124,7 @@ Oh, what she don't allow it?
 I really can't help it
 If I make the lady loca
 I don’t want no trouble
-I just wanna hit the... ooh!
+I just wanna hit the... oh!
 And I’m crazy, but you like it
 ‘Cause the kinda girl like me
 They're running out of in the market

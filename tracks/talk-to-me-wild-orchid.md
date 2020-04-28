@@ -69,63 +69,63 @@ rankings:
   start_date: '1997-06-07'
 ---
 
-Talk to me 
-Talk to me 
-Talk to me tonight about love 
+Talk to me
+Talk to me
+Talk to me tonight about love
 
-Hey now just what are we feeling 
-Is this more than attraction that we both are dealing with? 
-And is it in the cards that we stay together? 
-I recognize the odds against it lasting forever 
+Hey now just what are we feeling
+Is this more than attraction that we both are dealing with?
+And is it in the cards that we stay together?
+I recognize the odds against it lasting forever
 
-There's a message that you're sending 
-I can see it in your eyes 
-But I don't know what you're thinking 
-I can't read your heart or mind 
+There's a message that you're sending
+I can see it in your eyes
+But I don't know what you're thinking
+I can't read your heart or mind
 
-Come with me we'll make tonight a fantasy 
-If you say the word, I'll take you on a journey 
+Come with me we'll make tonight a fantasy
+If you say the word, I'll take you on a journey
 
-Talk to me, tell me what's on your mind 
-Talk to me, what are you feeling inside 
-Talk to me, what are you thinking of 
-Talk to me, tonight about love 
+Talk to me, tell me what's on your mind
+Talk to me, what are you feeling inside
+Talk to me, what are you thinking of
+Talk to me, tonight about love
 
-Come and talk to me, my baby 
-Come and talk to me 
+Come and talk to me, my baby
+Come and talk to me
 
-Ooh, hold me right up against you 
-Cause when you groove up close to me 
-I'm feeling your rhythm 
-Just whisper in my ear what's going on inside you 
-I just wanna hear if you're feeling like I do 
+Oh, hold me right up against you
+Cause when you groove up close to me
+I'm feeling your rhythm
+Just whisper in my ear what's going on inside you
+I just wanna hear if you're feeling like I do
 
-Open up your heart there's nothing I want more 
-Show me the light and tell me what you came here for 
+Open up your heart there's nothing I want more
+Show me the light and tell me what you came here for
 
-Don't keep it to yourself, just improvise (just improvise) 
-Lose yourself, let out what you're feeling inside 
+Don't keep it to yourself, just improvise (just improvise)
+Lose yourself, let out what you're feeling inside
 
 
 
-There's a message that you're sending 
-I can see it in your eyes 
-But I don't know what you're thinking 
-I can't read your heart or mind 
-If you wanna make tonight a fantasy 
-Just say the word I'll take you on a journey 
+There's a message that you're sending
+I can see it in your eyes
+But I don't know what you're thinking
+I can't read your heart or mind
+If you wanna make tonight a fantasy
+Just say the word I'll take you on a journey
 
-Talk to me, tell me what's on your mind 
-Talk to me, what are you feeling inside 
-Talk to me, what are you thinking of 
-Talk to me, tonight about love 
+Talk to me, tell me what's on your mind
+Talk to me, what are you feeling inside
+Talk to me, what are you thinking of
+Talk to me, tonight about love
 
-Talk to me, tell me that you want this 
-Talk to me, baby just move your lips 
-Talk to me, what are you thinking of 
-Talk to me, tonight about love 
+Talk to me, tell me that you want this
+Talk to me, baby just move your lips
+Talk to me, what are you thinking of
+Talk to me, tonight about love
 
-Come and talk to me, my baby 
+Come and talk to me, my baby
 Come and talk to me
 
 

@@ -40,7 +40,7 @@ Gee baby, everything swings when you're hear
 Gee baby, How can I go when you're near
 Gee baby, hold me so tight
 I wanna hold you close, I want you tonight
-Ooh, you've got me and I can never go-o
+Oh you've got me and I can never go-o
 I wanna hold ya all the time
 Oh can't you see you're on my mind
 Please don't leave me, hold me darlin'
@@ -48,9 +48,9 @@ Gee baby, how can I say what I feel
 Gee baby, maybe I know it's for real
 Gee baby, what can I do
 I only think of one girl and baby that's you
-Ooh-ooh-ooh, yeah
-Mm-mm-hmm
-Ooh, I want you
+Ohohoohyeah
+Mm-mm-hm
+Oh I want you
 But I can't make you stay-ay
 Tell me what I got to do
 I only wanna be with you, hold me

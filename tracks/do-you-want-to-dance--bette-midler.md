@@ -85,7 +85,7 @@ Do you, do you, do you, do you want to dance?
 Do you, do you, do you want to dance?
 Do you, do you, do you, do you want to dance with me baby?
 
-Ah, that's right, ah, ah, aaaaaaaah.
+Ah, that's right, ah, ah, ah.
 Do you want to dance under the moonlight?
 Hug me, kiss me, baby, all through the night.
 Oh baby, baby, baby, baby, baby, baby, tell me, do you want to dance?

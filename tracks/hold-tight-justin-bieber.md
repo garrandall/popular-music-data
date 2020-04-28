@@ -17,12 +17,12 @@ Happy birthday
 
 
 That hold on tight
-Yeah that hold on tight, ooh that hold on tight
+Yeah that hold on tight, oh that hold on tight
 Them lips won't let me go
 Lips won't let me go, lips won't let me go oh
 Hold on tight, that hold on tight
 Yeah hold on tight, that hold on tight
-Ooh that hold on tight
+Oh that hold on tight
 Them lips won't let me go
 
 
@@ -33,16 +33,16 @@ You got me oh so in a trance
 Something like a ziploc, but a lip lock
 Want you wrapped around my arm like a wrist watch
 Oh so hard walking out
-Got me stuck like krazy glue, ooh
+Got me stuck like krazy glue, oh
 
 
 That hold on tight
-Yeah that hold on tight, ooh that hold on tight
+Yeah that hold on tight, oh that hold on tight
 Them lips won't let me go
 Lips won't let me go, lips won't let me go oh
 Hold on tight, that hold on tight
 Yeah hold on tight, that hold on tight
-Ooh that hold on tight
+Oh that hold on tight
 Them lips won't let me go
 
 
@@ -50,19 +50,19 @@ Got me tossing turning in the bed
 Your place is where I'd rather be instead
 You don't know your strength
 Missing you is like adrenaline
-Ooh when you got me in a gridlock, what a great spot
+Oh when you got me in a gridlock, what a great spot
 With a turned up kind of loving, it just won't stop
 No, so hard walking out
-Got me stuck like krazy glue, ooh-wee
+Got me stuck like krazy glue, oh-wee
 
 
 That hold on tight
-Yeah that hold on tight, ooh that hold on tight
+Yeah that hold on tight, oh that hold on tight
 Them lips won't let me go
 Lips won't let me go, lips won't let me go oh
 Hold on tight, that hold on tight
 Yeah hold on tight, that hold on tight
-Ooh that hold on tight
+Oh that hold on tight
 Them lips won't let me go
 
 
@@ -73,14 +73,14 @@ Shot that arrow I'm hit, need you right near me
 I try to maintain
 So don't mind if I turn away, no no
 I try to maintain
-So don't mind if I turn away, ooh
+So don't mind if I turn away, oh
 
 
 That hold on tight
-Yeah that hold on tight, ooh that hold on tight
+Yeah that hold on tight, oh that hold on tight
 Them lips won't let me go
 Lips won't let me go, lips won't let me go oh
 Hold on tight, that hold on tight
 Yeah hold on tight, that hold on tight
-Ooh that hold on tight
+Oh that hold on tight
 Them lips won't let me go

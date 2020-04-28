@@ -40,7 +40,7 @@ Oh I'll never let you under my skin
 Baby, I just could not stand, um, hum
 To be hurt again
 
-Um, hum, ooh wee, baby, ooh, hoo, listen lady
+Um, hum, oh wee, baby, oh, hoo, listen lady
 He'll wine and dine you, take you anywhere you wanna go
 Oh, but when the night is over
 Hey, you just may not see me no more

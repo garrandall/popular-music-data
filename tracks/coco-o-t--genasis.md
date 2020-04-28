@@ -113,11 +113,6 @@ Hit the streets, he a no-show (where are you?)
 Get this money, I need more hoes (some bitches)
 Where the tissue? I got more blow
 
-
-
-
-
-
 I'm in love with the coco (alright)
 Them dark skins, them light skins, my Asians wear kimonos (oh yeah)
 And all of them wanna leave with me and can't wait to be solo (solo) I ate the pussy for practice
@@ -130,8 +125,4 @@ Bend it over, girl just bend it over (bend it over!)
 You picture perfect, let me send up for you (alright, alright)
 Smack it, on her, ass, nigga (woo! woo! woo! woo!)
 I'm blowin', money, fast, nigga!
-
-
-
-
 

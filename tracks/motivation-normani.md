@@ -73,8 +73,8 @@ I'ma break you off, let me be your motivation
 To stay and give it tonight
 And, baby, turn around, let me give you innovation
 Hey, 'cause I do it so right
-Think about it, ooh, I think about it
-Think about it, ooh, take a look at me now
+Think about it, oh I think about it
+Think about it, oh take a look at me now
 Hey, a little motivation, alright
 
 
@@ -98,8 +98,8 @@ I'ma break you off, let me be your motivation
 To stay and give it tonight (And give it tonight)
 And, baby, turn around, let me give you innovation
 Hey, 'cause I do it so right
-Think about it, ooh, I think about it
-Think about it, ooh, take a look at me now
+Think about it, oh I think about it
+Think about it, oh take a look at me now
 Hey, a little motivation, alright
 
 
@@ -112,8 +112,8 @@ I'ma break you off, let me be your motivation
 To stay and give it tonight
 And, baby, turn around, let me give you innovation
 Hey, 'cause I do it so right
-Think about it, ooh, I think about it
-Think about it, ooh, take a look at me now
+Think about it, oh I think about it
+Think about it, oh take a look at me now
 Hey, a little motivation, alright
 
 

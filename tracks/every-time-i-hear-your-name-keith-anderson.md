@@ -132,7 +132,7 @@ An' I can't explain, but I'm in that place,
 Every time I hear your name.
 Every time I hear your name.
 (Every time I hear your name.)
-Ooh, ooh, ooh, ooh.
+Oh, oh, oh, oh.
 (Every time I hear your name.)
 Ah ah.
 Every time I hear your name.

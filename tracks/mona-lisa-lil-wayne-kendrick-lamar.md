@@ -64,9 +64,9 @@ He hit it and sleep on her titties
 Then she give us the word, we come through with AKs
 It's a stick-up, she scream like a victim
 Now you feelin' so silly
-I smoke color purple, I'm up in here feelin' like Celie (Ooh)
+I smoke color purple, I'm up in here feelin' like Celie (Oh)
 Nappy-ass dreads, what's that you say?
-Watch your mouth, Milli Vanilli (Ooh)
+Watch your mouth, Milli Vanilli (Oh)
 You can get snaked, you can get faked
 Out by the bitch that you feelin'
 'Cause you thought that she was an angel
@@ -87,7 +87,7 @@ She say, "What's wrong?" He say, "Nothin', keep restin'"
 She say, "What's missin'? ", "How you know somethin' missin'?"
 He scratch his head, she say, "Get back in bed"
 And she gave him some head
-Boy, you can't trust them bitches, and then she say-ooh
+Boy, you can't trust them bitches, and then she say-oh
 
 I see niggas in this bitch stuntin', poppin' bottles
 Gettin' drunk with these bitches
@@ -99,7 +99,7 @@ And tell them hoes, "Don't be so obvious!"
 Mona Lisa, long hair, don't care
 She handle the business and don't ever tell
 She bite the bullet and cough up the shells
-She tell 'em, "Ooh, daddy, let's go to your place!"
+She tell 'em, "Oh, daddy, let's go to your place!"
 And if he say yeah, then we meet him there
 She feed him lies with his silverware
 She don't want love, she just want her share
@@ -198,9 +198,9 @@ So in conclusion, since you like rappers that's killin' that pussy
 I'm killin' myself
 
 
-She say, ooh, Daddy, ooh, Mona Lisa, Mona Lisa
-Ooh, fake smile, Mona Lisa, Mona Lisa
-She say, ooh, no emotion, Mona Lisa, Mona Lisa
+She say, oh, Daddy, oh, Mona Lisa, Mona Lisa
+Oh, fake smile, Mona Lisa, Mona Lisa
+She say, oh, no emotion, Mona Lisa, Mona Lisa
 Now he get the picture, Mona Lisa, Mona Lisa, yeah
 
 

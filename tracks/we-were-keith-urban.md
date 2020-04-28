@@ -85,7 +85,7 @@ Of the water tower skyline
 At least there's a little bit of sweet in the bitter
 Though a part of me is always gonna miss her
 I am who I am, I just miss who I was when we were
-Mm-hmm
+Mm-hm
 
 
 We were gonna make it, weren't we, baby?
@@ -104,7 +104,7 @@ When she whispered that she wants me
 At least there’s a little bit of sweet in the bitter
 Though a part of me is always gonna miss her
 I am who I am, I just miss who I was when we were
-Oh, mm-hmm
+Oh, mm-hm
 
 
 We were leather jackets hangin' onto a Harley

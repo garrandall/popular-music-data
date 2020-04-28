@@ -137,20 +137,20 @@ Yo, yo, nod ya head
 
 Yo, Yo
 If you wanna rock then say
-(Ooh, oh)
+(Oh oh)
 Tell me if you wanna rock then say
 If you wanna rock then say
-(Ooh, oh)
+(Oh oh)
 Come on if you wanna rock then say
-(Ooh, oh)
+(Oh oh)
 Yo if you wanna bop then say
-(Ooh, oh)
+(Oh oh)
 
 Tell me if you wanna rock then say
-(Ooh, oh)
+(Oh oh)
 If you wanna nod then say
-(Ooh, oh)
+(Oh oh)
 Tell me if you wanna rock then say
-(Ooh, oh)
+(Oh oh)
 Ha
 Nod ya head

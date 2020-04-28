@@ -206,7 +206,7 @@ Baby I'm your slave
 I'll let you whip me if I misbehave
 It's just that no one makes me feel this way
 
-Take it to the chorus!
+Take it to the chorus
 
 Come here girl
 Go ahead, be gone with it

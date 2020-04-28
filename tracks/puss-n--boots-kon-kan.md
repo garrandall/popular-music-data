@@ -40,8 +40,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-10-21'
 ---
-Ah ah aaah ah)
-(Ah ah aaah ah ah)
+Ah ah ah ah)
+(Ah ah ah ah ah)
 
 Yeah I admit that I'm at fault
 But no, you've done it too
@@ -59,8 +59,8 @@ How do I know you were alone?
 (That's just what they'll do)
 (One of these days this boots are gonna walk all over you)
 
-(Ah ah aaah ah)
-(Ah ah aaah ah ah)
+(Ah ah ah ah)
+(Ah ah ah ah ah)
 
 Don't try to tell me I'm the one who's making our mistakes
 And that I'm causing all the pain

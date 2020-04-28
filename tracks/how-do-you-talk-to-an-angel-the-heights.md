@@ -92,7 +92,7 @@ I hear her voice
 In my mind
 I know her face by heart
 Heaven and earth are moving in my soul
-And I dont know where to start
+And I don't know where to start
 Tell me tell me the words to define
 The way I feel about someone so fine
 

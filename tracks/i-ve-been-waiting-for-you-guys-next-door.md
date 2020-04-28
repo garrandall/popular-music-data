@@ -81,7 +81,7 @@ Have you been waitin too
 Cause I've been waitin for you
 
 Now that I've found you I just can't let u go (can't let you go)
-No no no ohhh
+No no no oh
 Oh there's just one thing I want you to know
 
 Spoken: girl I love you so...

@@ -33,8 +33,8 @@ Boy, what you drinking? (Gonna let sink in)
 Here for the weekend (Thinking we can)
 
 
-See where we can be if we press fast forward (Ooh)
-Just one more round and you're down, I know it (Ooh yeah, yeah)
+See where we can be if we press fast forward (Oh
+Just one more round and you're down, I know it (Ohyeah, yeah)
 
 
 Fill another cup up
@@ -58,7 +58,7 @@ Blame it on the a-a-a-a-a-alcohol
 Blame it on the a-a-a-a-a-alcohol
 
 
-Ooh see
+Ohsee
 She spilled some drink on me (On me)
 And now I'm knowing she's tipsy (Tipsy)
 She put her body on me
@@ -74,7 +74,7 @@ Here for the weekend (Thinking we can)
 
 
 See where we can be if we press fast forward (Oh)
-Just one more round and you're down I know it yeah (Oooh)
+Just one more round and you're down I know it yeah (Oh)
 
 
 Fill another cup up

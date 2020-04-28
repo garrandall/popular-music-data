@@ -41,7 +41,7 @@ Junior M.A.F.I.A
 Skin Deep in tha house
 Junior M.A.F.I.A
 
-1 - 
+1 -
 Baby just stop
 I'm so tired of playing
 Stop, no more games
@@ -58,7 +58,7 @@ And I gave you all I had in this world
 Not bad of me me to say it
 But I need it 'fore I go
 
-Ooh I can remember then, yeah
+Oh I can remember then, yeah
 You were going to the movies
 My best friend said he saw you
 But you were not with me

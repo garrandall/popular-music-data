@@ -117,7 +117,7 @@ Come on now
 Play on it, play on it
 
 Daddy, daddy, daddy
-Ooh, Lord, all right now
+Oh, Lord, all right now
 Baby, easy now
 
 Now, come on, little lady
@@ -183,7 +183,7 @@ You oughta, you gotta, gotta come let me, let me
 Take you, take you, take you over there
 (I'll take you there)
 
-Ooh, oh, oh, all right
+Oh, oh, oh, all right
 (I'll take you there)
 Oh, oh, all right
 (I'll take you there)

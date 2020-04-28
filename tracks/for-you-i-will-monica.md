@@ -182,7 +182,7 @@ For you I will
 
 
 For you I will, lay my life on the line
-For you I will fight, oooooh
+For you I will fight, oh
 For you I will die
 With every breath, with all my soul
 I'll give my world
@@ -207,6 +207,6 @@ Anything you need, (Anything you need)
 I will be the sun in your sky (yeah, yeah)
 I will let you wait for all times
 Promise you (I promise you)
-For you I will (Ooooh)
+For you I will (Oh)
 I promise you
 For you I will

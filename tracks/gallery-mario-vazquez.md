@@ -149,7 +149,7 @@ You're a masterpiece
 I know that he
 Can't appreciate your beauty
 Don't let him cheapen you
-He don't see you like i do
+He don't see you like I do
 Beautiful not just for show
 Time that someone let you know
 

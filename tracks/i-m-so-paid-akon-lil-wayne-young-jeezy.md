@@ -97,7 +97,7 @@ Ayo, Weezy! You Ready? Yeah!
 
 I get it in 'til sunrise
 Doing 90 in a 65
-Windows rolled down screaming "Ahhh!"
+Windows rolled down screaming "Ah!"
 Hey-ey-ey... I'm so paid
 Number one hustla get money
 Why you wanna count a nigga money?
@@ -122,7 +122,7 @@ That's why
 
 I get it in 'til sunrise
 Doing 90 in a 65
-Windows rolled down screaming "Ahhh!"
+Windows rolled down screaming "Ah!"
 Hey-ey-ey... I'm so paid
 Number one hustla get money
 Why you wanna count a nigga money?
@@ -150,7 +150,7 @@ I told her do the speed limit and no extra stops; and that's why
 
 I get it in 'til sunrise
 Doing 90 in a 65
-Windows rolled down screaming "Ahhh!"
+Windows rolled down screaming "Ah!"
 Hey-ey-ey... I'm so paid
 Number one hustla get money
 Why you wanna count a nigga money?
@@ -174,7 +174,7 @@ My little brother Bu got that vision, baby
 
 I get it in 'til sunrise
 Doing 90 in a 65
-Windows rolled down screaming "Ahhh!"
+Windows rolled down screaming "Ah!"
 Hey-ey-ey... I'm so paid
 Number one hustla get money
 Why you wanna count a nigga money?
@@ -202,7 +202,7 @@ And I'm holding down Young Moolah, baby! That's why
 
 I get it in 'til sunrise
 Doing 90 in a 65
-Windows rolled down screaming "Ahhh!"
+Windows rolled down screaming "Ah!"
 Hey-ey-ey... I'm so paid
 Number one hustla get money
 Why you wanna count a nigga money?

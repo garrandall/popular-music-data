@@ -48,7 +48,7 @@ rankings:
 Hold up, so what you're saying is
 (Niggas got me pissed like Lil' Kim)
 You want to get freaky again, aight
-A-ooh-ah-ooh
+A-ohah-oh
 Oh, oh, oh, oh
 
 

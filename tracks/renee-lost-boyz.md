@@ -118,7 +118,7 @@ But maybe later on I can get to show ya
 A ghetto love is the law that we live by
 Day by day I wonder why my shorty had to die
 I reminice over my ghetto princess everyday
-Give it up for my shorty 
+Give it up for my shorty
 
 
 Now we sittin' on train
@@ -199,8 +199,4 @@ I'm pouring beer out for my shorty who ain't here
 I'm from the ghetto
 So listen
 This is how I shed my tears
-
-
-
-
 

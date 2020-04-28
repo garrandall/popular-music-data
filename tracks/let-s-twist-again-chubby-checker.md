@@ -112,16 +112,16 @@ And it goes like this:
 
 Come on let's twist again,
 Like we did last summer!
-Yeaaah, let's twist again,
+Yeah, let's twist again,
 Like we did last year!
 
 Do you remember when,
 Things were really hummin',
-Yeaaaah, let's twist again,
+Yeah, let's twist again,
 Twistin' time is here!
 
 Heeee, and round and round and up and down we go again!
-Oh, baby, make me know you love me sooooo, 
+Oh, baby, make me know you love me sooooo,
 And then:
 
 Twist again,
@@ -138,7 +138,7 @@ Is it the twister? YEAAAAAAAHH!
 
 Twist again, like we did last summer,
 Come on, Let's twist again,
-Like we did last year!!!!
+Like we did last year!
 
 Do you remember when, things were really hummin',
 Come on, let's twist again,

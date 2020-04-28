@@ -60,14 +60,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-09-24'
 ---
-Ooh, ooh
+Oh, oh
 Oh, no, no
 Hey, hey
-Ooh, ooh
+Oh, oh
 
 (I'm a 90's girl)
 I'm a 90's girl
-Ooh
+Oh
 Yes, I am
 (I'm a 90's girl)
 Making it on my own
@@ -118,7 +118,7 @@ And assume I'll go
 
 How can a man be a man
 Have the upper hand and signal
-And 
+And
 
 So tell me
 Whatever happened to chivalry

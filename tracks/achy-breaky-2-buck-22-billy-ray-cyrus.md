@@ -44,11 +44,3 @@ Got everybody wonderin' who I am
 Miley keeps twerkin', daddy's song is workin'
 Now Billy sing that crazy hook again
 
-
-
-
-
-
-
-
-

@@ -91,18 +91,18 @@ rankings:
 ---
 
 
-Miiiaaammmmiiii... 
+Miiiaaammmmiiii...
 Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey
 Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey
 Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey
 
 
-BOOM!! It's on, bitch nigga we'll rock yo' dome
-BOOM!! Bitch what's happnin'? (WHAT?!)
-BOOM!! Bitch what's happnin'? (WHAT?!)
-BOOM!! It's on, bitch nigga we'll rock yo' dome
-BOOM!! Bitch what's happnin'? (WHAT?!)
-BOOM!! Bitch what's happnin'? (WHAT?!)
+BOOM! It's on, bitch nigga we'll rock yo' dome
+BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! It's on, bitch nigga we'll rock yo' dome
+BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! Bitch what's happnin'? (WHAT?!)
 
 
 Half step pussy ass nigga
@@ -123,20 +123,20 @@ HEEEYYY.. I ride wit' a AK, get high and spit five out the AK
 Ok, let a nigga play and watch T-Double-D knock ya ass of the free seat
 All my Dade County Chevy boys, who drive candy toys and tolt guns galore
 And treat the Hummer like a Tonka toy
-Got shit you niggaz ain't seen before
+Got shit you niggas ain't seen before
 
 
-BOOM!! It's on, bitch nigga we'll rock yo' dome
-BOOM!! Bitch what's happnin'? (WHAT?!)
-BOOM!! Bitch what's happnin'? (WHAT?!)
-BOOM!! It's on, bitch nigga we'll rock yo' dome
-BOOM!! Bitch what's happnin'? (WHAT?!)
-BOOM!! Bitch what's happnin'? (WHAT?!)
+BOOM! It's on, bitch nigga we'll rock yo' dome
+BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! It's on, bitch nigga we'll rock yo' dome
+BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! Bitch what's happnin'? (WHAT?!)
 
 
 Ying Yang and the T-Double-D
 We, in this motherfucker crunk in this motherfucker
-And our niggaz wit' a Miami boy
+And our niggas wit' a Miami boy
 And I still like to play wit' my Tonka toy
 I'm a Toys R Us kid, yes I is
 You can't be serious, yes I is
@@ -152,12 +152,12 @@ Go down for the count, "He can't get up!"
 DAMN! he fell and he can't get up!
 
 
-BOOM!! It's on, bitch nigga we'll rock yo' dome
-BOOM!! Bitch what's happnin'? (WHAT?!)
-BOOM!! Bitch what's happnin'? (WHAT?!)
-BOOM!! It's on, bitch nigga we'll rock yo' dome
-BOOM!! Bitch what's happnin'? (WHAT?!)
-BOOM!! Bitch what's happnin'? (WHAT?!)
+BOOM! It's on, bitch nigga we'll rock yo' dome
+BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! It's on, bitch nigga we'll rock yo' dome
+BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! Bitch what's happnin'? (WHAT?!)
 
 
 You a soft mo'fucka, kind of gay mo'fucka
@@ -167,7 +167,7 @@ And I know the fact make ya mad mo'fucka
 It iiiss.. what I thought nigga think it ain't
 For reeeaall... you lame and we off the chain
 And the T-Double-D, we bolo
-FUCK hoes niggaz ride by my Dolo
+FUCK hoes niggas ride by my Dolo
 Get the keys to my car, and I jump in
 Hit the Liquor store, buy my Cigars and 'gen
 Get drunk and I'm off in the wind
@@ -180,12 +180,12 @@ Might cut it lil' butt it
 Can't let this shit get ugly
 
 
-BOOM!! It's on, bitch nigga we'll rock yo' dome
-BOOM!! Bitch what's happnin'? (WHAT?!)
-BOOM!! Bitch what's happnin'? (WHAT?!)
-BOOM!! It's on, bitch nigga we'll rock yo' dome
-BOOM!! Bitch what's happnin'? (WHAT?!)
-BOOM!! Bitch what's happnin'? (WHAT?!)
+BOOM! It's on, bitch nigga we'll rock yo' dome
+BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! It's on, bitch nigga we'll rock yo' dome
+BOOM! Bitch what's happnin'? (WHAT?!)
+BOOM! Bitch what's happnin'? (WHAT?!)
 
 
 Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey
@@ -195,7 +195,7 @@ Oh my god, from the south to the bottom
 Trick Daddy Dollaz, Ying Yang Twins, beatin' ass
 Collipark Music Incorperated
 This that next level right here, it's that crunk party
-All these niggaz doin' crunk music, we crunk party nigga
+All these niggas doin' crunk music, we crunk party nigga
 Be original wit' it, Hey man who really run the south?
 
 

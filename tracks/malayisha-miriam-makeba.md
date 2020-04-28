@@ -20,14 +20,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
 ---
-Ooh, ba ba ba,
-Ooh ba ba ba
-Ooh ba ba ba,
-Ooh ba ba ba
-Ooh, ba ba ba,
-Ooh ba ba ba
-Ooh ba ba ba,
-Ooh ba ba ba
+Oh, ba ba ba,
+Oh ba ba ba
+Oh ba ba ba,
+Oh ba ba ba
+Oh, ba ba ba,
+Oh ba ba ba
+Oh ba ba ba,
+Oh ba ba ba
 
 Ezane zembe Malayisha
 Ezane zembe Sigawule
@@ -60,19 +60,19 @@ Bathi bathi bathi vula Sigawule
 Ebathi bathi bathi vula Malayisha
 Bathi bathi bathi vula Sigawule
 
-Ooh, ba ba ba,
-Ooh ba ba ba
-Ooh ba ba ba,
-Ooh ba ba ba
-Ooh, ba ba ba,
-Ooh ba ba ba (Bathi, Izembe...)
-Ooh ba ba ba,
-Ooh ba ba ba
-Ooh, ba ba ba,
-Ooh ba ba ba
-Ooh ba ba ba,
-Ooh ba ba ba
-Ooh, ba ba ba, (Bathi Izembe...)
-Ooh ba ba ba
-Ooh ba ba ba,
-Ooh ba ba ba
+Oh, ba ba ba,
+Oh ba ba ba
+Oh ba ba ba,
+Oh ba ba ba
+Oh, ba ba ba,
+Oh ba ba ba (Bathi, Izembe...)
+Oh ba ba ba,
+Oh ba ba ba
+Oh, ba ba ba,
+Oh ba ba ba
+Oh ba ba ba,
+Oh ba ba ba
+Oh, ba ba ba, (Bathi Izembe...)
+Oh ba ba ba
+Oh ba ba ba,
+Oh ba ba ba

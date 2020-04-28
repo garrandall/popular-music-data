@@ -63,7 +63,7 @@ Listen honey (I've got dreams) rough dreams (dreams to remember)
 I still want you to stay
 I still love you anyway
 I don't want you to ever leave
-Girl, you just satisfy me, ooh-wee, ooh yeah
+Girl, you just satisfy me, oh-wee, oh yeah
 
 
 

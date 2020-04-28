@@ -36,7 +36,7 @@ Or did the weather change
 You're bringing me down dear Delilah
 I can see you coming around dear Delilah
 
-And when you ask me if I need her I do-ooh
+And when you ask me if I need her I do-oh
 But ask me why and I can't tell you
 I only know that she means so much to me
 

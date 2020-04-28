@@ -109,13 +109,13 @@ And that's a nono
 
 
 Yeah, uhh, check it
-Ahh one two, ahh one two doe, niggaz
+Ah one two, ah one two doe, niggas
 in the Cadillac they call us went from Player's Ball to ballers
 Puttin the South up on the map was like Little Rock to bangin
-Niggaz say motherfuck that playin, they payin
+Niggas say motherfuck that playin, they payin
 We stay in layin vo-cals, locals done made it with them big boys
-up in dis industry, Outkast yea dem niggaz they makin big noise
-Over a million sold to this day, niggaz they take it lightly
+up in dis industry, Outkast yea dem niggas they makin big noise
+Over a million sold to this day, niggas they take it lightly
 Ninety-six gon be that year that all y'all playa haters can bite me
 ...around this bitch
 
@@ -162,8 +162,4 @@ to the end of the week, I live by the beat like you live check to check
 If you don't move yo' foot then I don't eat, so we like neck to neck
 Yes we done come a long way like them Slim ass cigarettes
 from Virginia, this ain't gon stop so we just gonna continue
-
-
-
-
 

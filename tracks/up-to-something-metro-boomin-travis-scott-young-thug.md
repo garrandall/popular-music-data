@@ -35,7 +35,7 @@ He swung on my pockets, they fat, no catch
 But all my bitches they brats
 Pop a lil' perky, relax (Turn up, turn up)
 
-These niggas up to somethin' (Hmm, ayy)
+These niggas up to somethin' (Hm, ayy)
 She need to suck or somethin' (She need to fuck or somethin')
 
 I'ma wake up for somethin'
@@ -65,7 +65,7 @@ I think I'm gettin' back to the old me
 Yeah, I'm gettin' back to the old me
 
 
-These niggas up to somethin' (Hmm, ayy)
+These niggas up to somethin' (Hm, ayy)
 These niggas fucked it up, shh (Ayy)
 
 
@@ -87,7 +87,7 @@ But all my bitches they brats
 Pop a lil' perky, relax (Turn up, turn up)
 
 
-These niggas up to somethin' (Hmm, Hell yeah, ayy)
+These niggas up to somethin' (Hm, Hell yeah, ayy)
 She need to suck or somethin'
 
 

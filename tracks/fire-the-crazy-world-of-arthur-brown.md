@@ -84,7 +84,7 @@ And your mind, your tiny mind
 You know you've really been so blind
 Now's your time, burn your mind
 You're falling far, too far behind
-Oooh
+Oh
 
 Fire, I'll take you to burn
 Fire, I'll take you to learn

@@ -143,7 +143,3 @@ Said I sound like the pound and my shit was wack.
 Dropped the album Funkdafied and they thought it was bold,
 30 days later, the LP went gold, and I'm...
 
-
-
-
-

@@ -89,11 +89,9 @@ How heaven knows girl I wanted to be with you
 Some other times I've left it up to you
 Just open up your heart, and girl just turn the key
 
-Chorus
 
 How I need you girl to find a love so true
 Just take my hand and show me what this means to you
 A special lover all our dreams come true
 Just look into my eyes and share this dream just me and you
 
-Chorus (2x)

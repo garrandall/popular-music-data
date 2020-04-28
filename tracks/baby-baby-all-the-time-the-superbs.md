@@ -29,16 +29,16 @@ rankings:
   start_date: '1964-10-31'
 ---
 There are 8 million stories in the big city this is mine
-Baby ohhh baby
+Baby oh baby
 Once I had a man as sweet as he cloud be
-Once I had a man he was so right for me he called me (baby baby all the time)ohhh
+Once I had a man he was so right for me he called me (baby baby all the time)oh
 He said baby try to see(try to see)
 Baby understand (understand)
 Baby your for me won't you take my hand
 But I pushed him away(far away)
 Wouldn't let him near
 Pushed him far away(far away)
-Now I'm wishing I could hear him call me (baby baby) all the time oooo baby
+Now I'm wishing I could hear him call me (baby baby) all the time oo baby
 Lonely through the days lonely through the nights
 Lonely lonely hours without that guy I held so tight
 Lord I pray that you listen to my plea

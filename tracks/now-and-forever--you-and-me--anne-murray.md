@@ -68,7 +68,7 @@ Starting tonight we'll be together
 You and me, this is what love should be
 And it's gonna be right.
 
-Woo ooh-ooh-ooh-ooh-ooh...
+Woo ohoohhoh-oh.oh
 
 
 

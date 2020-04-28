@@ -150,8 +150,8 @@ I'm comin' up, so you better get this party started
 I'm comin' up, so you better get this party started
 (I'm comin' up, so you better)
 I'm comin' up, so you better get this party started
-Get this party started (Ooh)
+Get this party started (Oh
 Get this party started right now
-Get this party started (Ooh)
+Get this party started (Oh
 Get this party started
 Get this party started right now

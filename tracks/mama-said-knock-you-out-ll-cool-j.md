@@ -133,7 +133,7 @@ Mama said knock you out (Huuh!)
 Breakdown!
 
 
-Uh, Shadow boxing when I heard you on the radio HUUUH!!!
+Uh, Shadow boxing when I heard you on the radio HUUUH!
 I just don't know
 What made you forget that I was raw?
 But now I got a new tour
@@ -161,14 +161,14 @@ The man of the hour, tower of power, I'll devour
 I'm gonna tie you up and let you understand
 That I'm not your average man
 When I got a jammy in my hand
-DAAAAAM!!!!! Oooooohh!!
+DAAAAAM! Oh!
 Listen to the way I slaaaaay, your crew
 Damage UHH, damage UHH, damage UHH, damage
 Destruction, terror, and mayhem
 Pass me a sissy so suckas I'll slay him
 Farmers (What?!) Farmers (What?!)
-I'm ready (We're ready!!)
-I think I'm gonna bomb a town (Get down!!)
+I'm ready (We're ready!)
+I think I'm gonna bomb a town (Get down!)
 Don't you never, ever, pull my lever
 'Cause I explode
 And my nine is easy to load

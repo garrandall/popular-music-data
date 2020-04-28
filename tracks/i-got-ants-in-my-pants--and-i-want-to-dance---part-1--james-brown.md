@@ -5,7 +5,7 @@ features: []
 genres: []
 key: i-got-ants-in-my-pants--and-i-want-to-dance---part-1--james-brown
 lyrics_url: https://genius.com/James-brown-i-got-ants-in-my-pants-lyrics
-name: I Got Ants In My Pants (and i want to dance) (Part 1)
+name: I Got Ants In My Pants (and I want to dance) (Part 1)
 rankings:
 - end_date: '1973-01-26'
   rank: 79
@@ -75,7 +75,7 @@ With all my heart and soul
 I need you, yes, I do
 Don't let my love grow cold
 
-Ahh, good God
+Ah, good God
 I said it's good now
 I said, baby, it's good now
 Hey, OW, come on, bring me up

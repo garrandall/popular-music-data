@@ -106,7 +106,7 @@ Get down - get down
 Get down - get down
 Get down - get down
 Get down - get down
-Aaaaaaah!
+Ah!
 
 Jungle boogie
 Jungle boogie

@@ -87,15 +87,15 @@ rankings:
 Ôi orôrôi rôrôrôi rôrôrôi rôrôrôi rôrôrôi ohrorô poPÔ
 Yôi orôrôi rôrôrôi rôrôrôi rôrôrôi rôrôrôi ohrorô
 PoPÔ
-Aaaah aaah aaah aaah
-Uuuh oooh oooh ooooooooh
+Ah ah ah ah
+Uuuh oh oh oh
 
 
 Ôi orôrôi rôrôrôi rôrôrôi rôrôrôi rôrôrôi ohrorô poPÔ
 Yôi orôrôi rôrôrôi rôrôrôi rôrôrôi rôrôrôi ohrorô
 BoumPÔ
-Aaaah aaah aaah aaah
-Uuuh oooh oooh ooooooooh
+Ah ah ah ah
+Uuuh oh oh oh
 
 
 Tatrrrepôtetretrepiecôã-é-é-ô-hã-hén-Hén
@@ -108,12 +108,12 @@ Hé Hã He How
 Ãi erêrãi rãrãrôi rôrôrôi rôrôrôi rôrôrôi ohrorô poPÔ
 Yôi orôrôi rôrôrôi rôrôrôi rôrôrôi rôrôrôi ohrorôm
 PomPÔ
-Aaaah aaah aaah aaah
-Uuuh oooh oooh ooooooooh
+Ah ah ah ah
+Uuuh oh oh oh
 
 
 Ôi orôrôi rôrôrôi rôrôrôi rôrôrôi rôrôrôi ohrorô poPÔ
 Yôi orôrôi rôrôrôi rô
-Aaaah aaah aaah aaah
-Uuuh oooh oooh ooooooooh
+Ah ah ah ah
+Uuuh oh oh oh
 UaaahuHahaha... Eee hi hi hááá

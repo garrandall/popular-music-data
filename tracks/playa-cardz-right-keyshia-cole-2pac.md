@@ -73,7 +73,7 @@ Today we satisfy yesterday with stolen kisses
 Blind insanity, perfect pictures of me and my family
 Not understanding the death that they planned for me
 If I have kids, will I live to see 'em grow?
-Though I don't know, I live the life of a thug n*****
+Though I don't know, I live the life of a thug nigga
 Until the day I go
 
 No broken promises, a sacred bond broken
@@ -117,7 +117,7 @@ You gon' wake up wit ya breakfast in bed
 But if you rush and you just be manhandlin'
 Your *** goin' home tonight, ha ha
 
-Play your cards right n****, take your time
+Play your cards right nigga, take your time
 Be patient, go slow, it's better that way
 You ain't heard? Ha ha, playa cards right
 
@@ -131,7 +131,7 @@ Take your time, man
 Don't be in such a rush
 (In a rush)
 You got to be patient man
-(Ooh, be so)
+(Oh, be so)
 Be patient
 
 It ain't goin' nowhere one
@@ -146,7 +146,7 @@ Light a fire
 You gotta be cool wit it
 (Teddy, Teddy)
 You gotta be slow wit it
-(Ooh, be so)
+(Oh, be so)
 Got to be patient
 
 You gotta playa cards right on one

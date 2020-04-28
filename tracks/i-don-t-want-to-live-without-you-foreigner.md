@@ -81,7 +81,7 @@ And I don't know how
 What seemed to be an infatuation
 Is so different now
 I can't get by if we're not together
-Ooh can't you see
+Oh can't you see
 Girl, I want you now and forever
 Close to me
 

@@ -128,7 +128,7 @@ Don't you have the slightest feelings left for me?
 Maybe that's just your way
 Of dealing with the pain
 Forgetting everything between our rise and fall
-Ooh, like we never loved at all
+Oh, like we never loved at all
 
 
 Did you forget the magic?

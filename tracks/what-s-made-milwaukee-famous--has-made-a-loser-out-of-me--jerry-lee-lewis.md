@@ -22,7 +22,7 @@ rankings:
 ---
 It's late and she's waiting
 And I know I should go home
-But ev'ry time I start to leave
+But every time I start to leave
 They play another song
 Then someone buys another round
 And with every drink or three

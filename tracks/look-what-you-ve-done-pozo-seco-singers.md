@@ -47,7 +47,7 @@ rankings:
 Hey! Look what youve done
 Look what youve done.
 Youve taken away
-Hmmm, mmmmm
+Hm, mmm
 The warm, yellow sun
 The warm yellow sun.
 
@@ -66,7 +66,7 @@ Oh baby.
 Why did you go?
 Why did you go?
 When you knew
-Hmmm, mmmm
+Hm, mmm
 I needed you so
 I needed you so.
 Gave you my heart and my soul

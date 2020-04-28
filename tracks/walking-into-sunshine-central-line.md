@@ -34,7 +34,7 @@ rankings:
 ---
 Too much rainy days, rainy days
 Found so much lazy ways, lazy ways
-I've got to get away, oooh, baby
+I've got to get away, ohbaby
 This kind of life is not for me
 
 I'm working day and night, night and day

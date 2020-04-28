@@ -104,11 +104,11 @@ I've got a list of names and yours is in red, underlined
 I check it once, then I check it twice, oh!
 
 
-Ooh, look what you made me do
+Oh look what you made me do
 Look what you made me do
 Look what you just made me do
 Look what you just made me—
-Ooh, look what you made me do
+Oh look what you made me do
 Look what you made me do
 Look what you just made me do
 Look what you just made me do
@@ -130,11 +130,11 @@ I've got a list of names and yours is in red, underlined
 I check it once, then I check it twice, oh!
 
 
-Ooh, look what you made me do
+Oh look what you made me do
 Look what you made me do
 Look what you just made me do
 Look what you just made me—
-Ooh, look what you made me do
+Oh look what you made me do
 Look what you made me do
 Look what you just made me do
 Look what you just made me do
@@ -148,30 +148,30 @@ I don't trust nobody and nobody trusts me
 I'll be the actress starring in your bad dreams
 I don't trust nobody and nobody trusts me
 I'll be the actress starring in your bad dreams
-(Ooh, look what you made me do
+(Oh look what you made me do
 Look what you made me do
 Look what you just made me do
 Look what you just made me—
-Ooh, look what you made me do
+Oh look what you made me do
 Look what you made me do
 Look what you just made me—)
 "I'm sorry, the old Taylor can't come to the phone right now
 "Why? Oh, 'cause she's dead!" (Oh)
 
 
-Ooh, look what you made me do
+Oh look what you made me do
 Look what you made me do
 Look what you just made me do
 Look what you just made me—
-Ooh, look what you made me do
+Oh look what you made me do
 Look what you made me do
 Look what you just made me do
 Look what you just made me do
-Ooh, look what you made me do
+Oh look what you made me do
 Look what you made me do
 Look what you just made me do
 Look what you just made me—
-Ooh, look what you made me do
+Oh look what you made me do
 Look what you made me do
 Look what you just made me do
 Look what you just made me do

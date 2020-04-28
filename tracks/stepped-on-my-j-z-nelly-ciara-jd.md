@@ -17,7 +17,7 @@ rankings:
 Uh
 
 
-Oooooooh
+Oh
 
 
 Uh haha
@@ -93,25 +93,25 @@ Dese just came out
 He den stepped on my Jay's
 
 I got dem all GOT ALL
-But they dont get no run
-Like dem 13...7's...number 4's..and dem 1's
+But they don't get no run
+Like dem 13...7's...number 4's...and dem 1's
 I like how they look with Dickies
 How that Levi lay on em
 If you ain't got em when you see me
 You definitly gon want them
-If they new I gotta get them first old i just pop a box
+If they new I gotta get them first old I just pop a box
 Hook em with a shirt
 AND DA MATCHING COLOR SOXS
 I think the coldest was the Black on Black
 11's with the Red bottom
 Order the number 9's
 You should of seem me when I got them
-I was in my house 
+I was in my house
 Dancin in the mirror
 Straight thinkin bout gettin out
 And how Im bout to kill em
-When you know You got a pair that ain't nobody got 
-You can't hold dem back you gotta rock!!
+When you know You got a pair that ain't nobody got
+You can't hold dem back you gotta rock!
 Imma attic a Jordan fanatic lil Morris Blackman
 And I know when there come
 Another color errthing is happenin
@@ -136,7 +136,7 @@ He den stepped on my Jay's
 I-I-I see you lil' Daddy you look sexy with them j's on
 I pull up in the drop, step out with them thangs on
 I got me the black and pink 11's with the gray matching with the skinny jeans off with the shades
-I know you see me 
+I know you see me
 My Jeans be never slippin
 Paparazzi I might stop and take a picture in em
 Yeah, we be fresh every day
@@ -145,7 +145,7 @@ And if youre lookin for me lil daddy you can find me in the A
 I Got the Retro 1's, then I bought the 2's and the 3's and the 4's..
 I had to order these you can't find them in the stores
 Called up my stylist like 'shawty, Send more...'
-And If you would, please, Send em to me out on tour 
+And If you would, please, Send em to me out on tour
 They'll be here any minute, man..
 See, I got that that connect
 That I can damn near get like anything

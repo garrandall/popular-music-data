@@ -19,15 +19,15 @@ rankings:
 
 Yee-haw
 Oh, oh, oh
-Texas, Texas (ooh, ooh, ooh) Texas
+Texas, Texas (oh oohohohexas
 
 Came into this world
 Daddy's little girl
 And daddy made a soldier out of me
-(Ooh, ooh, ooh)
+(Oh, oh ooh
 Daddy made me dance
 And daddy held my hand
-(Ooh, ooh, ooh)
+(Oh, oh ooh
 And daddy liked his whiskey with his tea
 
 And we rode motorcycles
@@ -54,15 +54,15 @@ And men like me come around
 Oh, my daddy said shoot
 Oh, my daddy said shoot
 
-(Ooh, ooh, ooh)
+(Oh, oh ooh
 Yee, woo
-(Ooh, ooh, ooh)
+(Oh, oh ooh
 Yee-haw (Woo)
 
 Daddy made me fight
 It wasn't always right
 But he said, girl, it's your second amendment
-(Ooh, ooh, ooh)
+(Oh, oh ooh
 He always played it cool
 But daddy was no fool
 And right before he died he said remember...
@@ -88,10 +88,10 @@ And men like me come around
 Oh, my daddy said shoot
 Oh, my daddy said shoot (Woo)
 
-(Ooh, ooh, ooh)
-(Ooh, ooh, ooh)
-(Ooh, ooh, ooh)
-(Ooh, ooh, ooh)
+(Oh, oh ooh
+(Oh, oh ooh
+(Oh, oh ooh
+(Oh, oh ooh
 (Yeehaw)
 
 My daddy warned me about men like you

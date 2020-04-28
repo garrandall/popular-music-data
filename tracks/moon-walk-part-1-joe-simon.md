@@ -100,7 +100,7 @@ You gotta shake it a little bit
 Alright now
 Let's do it one more time
 Are you ready
-Alright, here we go, hmmm
+Alright, here we go, hm
 Right foot
 Left
 Pick up some rocks
@@ -117,17 +117,17 @@ You got the best instructions, that's all ya need
 
 Oh yeah
 Now lemme tell ya what I'm gonna do
-Ahhh, I'm gonna do it so
+Ah, I'm gonna do it so
 I'm gonna do it, baby, 'til I reach my goal
 Ohh, my love, I'm doin' the moon walk
-Oh yeah, hmmm
-Woah yeah, hmmm
+Oh yeah, hm
+Woah yeah, hm
 Woah baby
 
 I tell ya what
 I just want you to do it with me one more time
 Just one more time
-Ahhh yes
+Ah yes
 I don't have to tell you how to do it no more
 You got it now
 I'm just gonna be quiet a while

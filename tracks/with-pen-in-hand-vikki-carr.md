@@ -62,7 +62,7 @@ rankings:
 ---
 With pen in hand you sign your name
 Today I find I'll be on that train
-And you'll be free and i will be alone
+And you'll be free and I will be alone
 So alone
 If you think we can't find
 The love we once knew

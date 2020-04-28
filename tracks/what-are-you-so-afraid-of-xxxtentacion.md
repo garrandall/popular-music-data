@@ -18,20 +18,20 @@ Is it love or wasting your time?
 What are you so afraid of?
 Is it love or wasting your time?
 
-Ooh-ooh, ooh-ooh
-Ooh-ooh, ooh-ooh
-Ooh-ooh, ooh-ooh
-Ooh-ooh, ooh-ooh
+Oh-oh, oh-oh
+Oh-oh, oh-oh
+Oh-oh, oh-oh
+Oh-oh, oh-oh
 
 What are you so afraid of?
 Is it love or wasting your time?
 What are you so afraid of?
 Is it love or wasting your time?
 
-Ooh-ooh, ooh-ooh
-Ooh-ooh, ooh-ooh
-Ooh-ooh, ooh-ooh
-Ooh-ooh, ooh-ooh
+Oh-oh, oh-oh
+Oh-oh, oh-oh
+Oh-oh, oh-oh
+Oh-oh, oh-oh
 
 
 

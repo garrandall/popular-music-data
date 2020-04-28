@@ -44,7 +44,7 @@ From climbing in them chimneys
 And cleaning out that soot.
 With a broom and ladder and pail,
 The darkened walls I scale -
-And far..and high...I see a patch of sky.
+And far...and high...I see a patch of sky.
 
 I'd rather be the gypsy
 (I'd rather be the gypsy)
@@ -68,7 +68,7 @@ And when I am a grown man, I'll taste just what I please -
 The honey from the bee, the shellfish from the sea,
 The earth, the wind, a girl, someone to share these things with me.
 
-I wouldn't want to be a chimney sweep, 
+I wouldn't want to be a chimney sweep,
 (I'd rather be the gypsy, )
 (I dreamed I was a cabin boy, )
 

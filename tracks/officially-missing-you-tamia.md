@@ -85,7 +85,7 @@ All I hear is raindrops
 Falling on the rooftop
 Oh baby tell me why'd you have to go
 Cause this pain I feel
-It wont go away
+It won't go away
 And today
 I'm officially missing you
 I thought that from this heartache

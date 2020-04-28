@@ -100,9 +100,6 @@ Players only love you when they're playing
 Say women they will come and they will go
 When the rain washes you clean, you'll know, you'll know
 
-
-
-
 Now here I go again, I see the crystal visions
 I keep my visions to myself
 It's only me who wants to wrap around your dreams

@@ -15,7 +15,7 @@ rankings:
 
 
 Is that India.Arie? What happened to her hair? Ha ha ha ha ha
-Dat dad a dat da  Dad a ooh
+Dat dad a dat da  Dad a oh
 
 
 Little girl with the press and curl
@@ -31,7 +31,7 @@ Because it was time to change my life
 To become the women that I am inside
 Ninety-seven dreadlocks all gone
 I looked in the mirror
-For the first time and saw that HEY....
+For the first time and saw that HEY...
 
 
 I am not my hair
@@ -58,7 +58,7 @@ Like Bob Marley
 You can rock it straight
 Like Oprah Winfrey
 If its not what's on your head
-Its what's underneath and say HEY....
+Its what's underneath and say HEY...
 
 
 
@@ -77,7 +77,7 @@ I am expressing my creativity..
 Breast Cancer and Chemotherapy
 Took away her crown and glory
 She promised God if she was to survive
-She would enjoy everyday of her life ooh
+She would enjoy everyday of her life oh
 On national television
 Her diamond eyes are sparkling
 Bald headed like a full moon shining
@@ -90,15 +90,15 @@ If I wanna shave it close
 Or if I wanna rock locks
 That don't take a bit away
 From the soul that I got
-Dat da da dat da 
+Dat da da dat da
 If I wanna where it braided
 All down my back
 I don't see what wrong with that
-Dat da da dat da 
+Dat da da dat da
 
 
 Is that India.Arie?
-Ooh look she cut her hair!
+Oh look she cut her hair!
 I like that, its kinda PHAT
 I don't know if I could do it.
 But it looks sharp, it looks nice on her

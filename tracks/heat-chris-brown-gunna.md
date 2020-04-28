@@ -110,7 +110,7 @@ Girl, I know that you ready
 Girl, I'm not gonna let you down (Down, down)
 I ain't gon' keep you waitin' up
 If you throw it, it's gon' get knocked up (Knocked up)
-You playin' hide and seek, I'ma find you (I'ma find you, ooh)
+You playin' hide and seek, I'ma find you (I'ma find you, oh
 Baby, hold on tight when you ride me (Ride it)
 You know I like to eat, give me options (Oh, give me)
 If you throw it, it's gon' get knocked up (Knocked up)

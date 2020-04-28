@@ -45,7 +45,7 @@ And you deserve to be my Sunshine"
 
 
 Touch me with, a heart of gold (uh-huh)
-I can't go a day without my sunshine (uh-huh) ahh-haaa (say what? uhh)
+I can't go a day without my sunshine (uh-huh) ah-haaa (say what? uhh)
 Touch me with, a smile of gold (yeah)
 I can't go a day without my sunshine, sunshine (uhh, uhh, uhh)
 
@@ -58,7 +58,7 @@ Keep her impressed at all times, cats would love to creep (uh-huh)
 just to say they crept with mine, slept with mine, she said
 
 
-I ain't deaf nor blind, niggaz stressin
+I ain't deaf nor blind, niggas stressin
 Hatin cause they less than mine, they wanna sex me
 We chose each other, you actin like you chose me
 They oppose you then, they oppose me

@@ -37,9 +37,9 @@ Just love yourself and you're set
 I'm on the right track, baby
 I was born this way, born this way
 
-Ooh, there ain't no other way, baby, I was born this way
+Oh, there ain't no other way, baby, I was born this way
 Baby, I was born this way
-Ooh, there ain't no other way, baby, I was born this way
+Oh, there ain't no other way, baby, I was born this way
 I'm on the right track, baby, I was born this way
 
 Don't be a drag, just be a queen
@@ -67,9 +67,9 @@ Just love yourself and you're set
 I'm on the right track, baby
 I was born this way
 
-Ooh, there ain't no other way, baby, I was born this way
+Oh, there ain't no other way, baby, I was born this way
 Baby, I was born this way
-Ooh, there ain't no other way, baby, I was born this way
+Oh, there ain't no other way, baby, I was born this way
 I'm on the right track, baby, I was born this way
 
 Don't be drag, just be a queen
@@ -102,9 +102,9 @@ Just love yourself and you're set
 I'm on the right track, baby
 I was born this way, yeah
 
-Ooh, there ain't no other way, baby, I was born this way
+Oh, there ain't no other way, baby, I was born this way
 Baby, I was born this way
-Ooh, there ain't no other way, baby, I was born this way
+Oh, there ain't no other way, baby, I was born this way
 I'm on the right track, baby, I was born this way
 I was born this way, hey
 I was born this way, hey

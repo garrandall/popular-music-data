@@ -53,22 +53,22 @@ I want to jump and shout
 Were actually workin out, yeah
 Cmon baby
 Drive me crazy
-Ahhhh-righ
-Yeaaaah, girl you're lookin good
+Ah-righ
+Yeah, girl you're lookin good
 You're lookin like I know you could
 You're really knockin em dead
 You got me talkin out of my head, yea-ah
 Cmon baby
 Drive me crazy
-Work it out mama, ahhhh-right
+Work it out mama, ah-right
 Cmon
 Shake it up, now
 Do the twist now woman
 Mash them potatoes
-Ahhhh, you're lookin good
+Ah, you're lookin good
 Like I know you could
 Skippin cross the floor
-Ahhhh, you're hot
+Ah, you're hot
 Talk to me mama
 Why not all night long
 Yeah baby shake, shake, shake

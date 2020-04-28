@@ -78,7 +78,7 @@ I can't help it oh no
 If he's gone
 I must try to forget
 Because I got to live on
-Ooooh
+Oh
 Have me some good thing
 It's a sweet thing
 (Its a sweet thing)
@@ -89,7 +89,7 @@ But It's bad (bad)
 And even sadder (sad)
 When it's not the time
 
-And Ooooooooooh
+And Oh
 How lonesome... how lonesome
 How lonesome baby
 (Lonesome)

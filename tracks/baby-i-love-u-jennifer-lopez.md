@@ -75,7 +75,7 @@ I gotta have you (Yeah, yeah, yeah)
 Can't be without you
 
 
-Ooh, I love the way you kiss me
+Oh I love the way you kiss me
 Oh, baby please, I'm about to lose my mind
 Oh, talk to me, oh
 'Cause I'm begging for you and I'm down on my knees

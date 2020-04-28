@@ -61,8 +61,8 @@ Just want you to raise my roof
 Something sensational (Sensational, oh, yeah)
 
 
-And make me oooh, oooh, oooh, oooh
-And make me oooh, oooh, oooh, oooh
+And make me oh, oh, oh, oh
+And make me oh, oh, oh, oh
 
 
 No rules
@@ -80,13 +80,13 @@ Just want you to raise my roof
 Something sensational (Sensational, oh, yeah)
 
 
-And make me oooh, oooh, oooh, oooh
-And make me oooh, oooh, oooh, oooh
+And make me oh, oh, oh, oh
+And make me oh, oh, oh, oh
 
 
 Baby, 'cause you're the spark that won't go out
 My heart's on fire when you're around
-Make me oooh, oooh, oooh, oooh
+Make me oh, oh, oh, oh
 Yeah, yeah, Eazy
 
 
@@ -115,11 +115,11 @@ All the way and I'm able
 So follow me and I can make you
 
 
-And make me oooh (Move), oooh, oooh (Yeah), oooh
-And make me oooh, oooh, oooh, oooh
+And make me oh (Move), oh, oh (Yeah), oh
+And make me oh, oh, oh, oh
 
 
 Baby, 'cause you're the spark that won't go out
 My heart's on fire when you're around
-Make me oooh, oooh, oooh, oooh
-Yeah, you make me oooh
+Make me oh, oh, oh, oh
+Yeah, you make me oh

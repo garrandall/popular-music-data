@@ -154,7 +154,7 @@ I can push stroke here
 And ninety feet like a bunch of drunk
 Let's go!
 
-WE'RE TAKING OVER....DANCE
+WE'RE TAKING OVER...DANCE
 
 
 Back door cracked

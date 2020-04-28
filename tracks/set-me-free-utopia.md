@@ -85,9 +85,6 @@ I just don't get it
 I place myself in your hands to fall
 But I'm not quitting, no
 
-
-
-
 Feels like the time we spent was going to waste
 Sooner or later it's goodbye, we're gonna say
 'Cause you just don't give a damn

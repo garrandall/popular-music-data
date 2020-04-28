@@ -53,7 +53,7 @@ When you get right down to it
 Don't you want to relive
 This moment again
 
-Ooh, girl, again and again
+Oh, girl, again and again
 All over again, all over again
 Just live it again, just live it again
 We got to live it again, girl

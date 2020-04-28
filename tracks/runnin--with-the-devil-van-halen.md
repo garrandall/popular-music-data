@@ -25,18 +25,18 @@ rankings:
   start_date: '1978-05-27'
 ---
 Yeah, yeah, yeah
-Ahh, yeah
+Ah, yeah
 
 
 I live my life like there's no tomorrow
 And all I've got I had to steal
 Least I don't need to beg or borrow
 Yes, I'm livin' at a pace that kills
-Ooh, yeah
+Oh, yeah
 
 
 (Runnin' with the devil)
-Ah, Ah-ha yeah, whoo-hoo-ooh
+Ah, Ah-ha yeah, whoo-hoo-oh
 (Runnin' with the devil)
 I'll tell y'all about it
 
@@ -47,11 +47,11 @@ I got no love, no love you'd call real
 Ain't got nobody waitin' at home
 
 
-Ahh, yeah
+Ah, yeah
 (Runnin' with the devil)
 God damn it lady, you know I ain't lying to ya
 I'm only gonna tell you one time
-Aah, yeah
+Ah, yeah
 (Runnin' with the devil)
 Yes I am
 Yeah

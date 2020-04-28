@@ -33,7 +33,7 @@ The word is out that I'm about
 And I've come gunnin' for you
 I'm a real entertainer a mischief maker
 A lover of no fixed abode
-Ooh quick draw on the floor
+Oh quick draw on the floor
 No law give you more
 Sweet talkin' lover of sin
 You want what you get

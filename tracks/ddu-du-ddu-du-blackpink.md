@@ -13,9 +13,6 @@ rankings:
   start_date: '2018-06-30'
 ---
 
-
-
-
 BLACKPINK!
 Ah yeah, ay yeah!
 BLACKPINK!
@@ -96,9 +93,6 @@ Tteugeowo tteugeowo tteugeowo like fire
 
 Hit you with that ddu-du ddu-du du
 
-
-
-
 BLACKPINK!
 Ah yeah, ay yeah!
 BLACKPINK!
@@ -176,9 +170,6 @@ Come, come through with that that uh uh huh
 ë¨ê±°ì ë¨ê±°ì ë¨ê±°ì like fire
 ë¨ê±°ì ë¨ê±°ì ë¨ê±°ì like fire
 Hit you with that ddu-du ddu-du du
-
-
-
 
 BLACKPINK!
 Ah yeah, ay yeah!

@@ -48,7 +48,7 @@ Girl, I kinda kinda like your style
 For you, I'd walk a country mile
 
 Shake and dance with me
-(Ooh, baby) every night and day
+(Oh, baby) every night and day
 (Yeah, hey, hey, hey)
 Shake and dance with me
 Where funky people play
@@ -71,7 +71,7 @@ You'll always hear the people
 Say, say, say, say
 
 Shake and dance with me
-(Ooh, ooh, yeah, well)
+(Oh, oh yeah, well)
 Every night and day
 Shake and dance with me
 Where funky people play
@@ -80,7 +80,7 @@ Where funky people play
 One more time
 
 Shake and dance with me
-(Ooh, oh, ooh)
+(Oh, oh, oh
 Every night and day (yeah, well)
 Shake and dance with me
 Where funky people play

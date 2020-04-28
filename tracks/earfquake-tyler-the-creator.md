@@ -76,7 +76,7 @@ For real, for real, for real this time
 
 'Cause you make my earth quake, oh, you make my earth quake
 Riding around, your love be shakin' me up and it's making my heart break
-'Cause you make my earth quake, oh, you make my earth quake (Earthquake, ooh)
+'Cause you make my earth quake, oh, you make my earth quake (Earthquake, oh)
 Riding around, your love be shakin' me up and it's making my heart break
 
 Don't leave, it's my fault

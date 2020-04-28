@@ -108,7 +108,7 @@ I guess the groove is on so I am
 Diggin' the scene
 Diggin' on you
 Diggin' on me
-Baby bay-ooo-baby baby
+Baby bay-oo-baby baby
 It's on like that
 It's on like that
 I gotta be in love or somethin' like that

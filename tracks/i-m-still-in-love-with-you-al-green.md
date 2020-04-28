@@ -93,4 +93,4 @@ Don't you know that I'm still in love
 (Still in love, in love with you)
 Sho' 'nuff in love with you
 Ay, I try it if you want me to
-Ah-ha, ah-ha, aah, ah, ah, ah
+Ah-ha, ah-ha, ah, ah, ah, ah

@@ -104,10 +104,10 @@ I ride 26 and let my 9 screen "flip"
 Dro be watchin' Oprah, Mac, 9 up in a clip
 Triple black Phantom nigga nah it ain't Tip
 With Lucky charm diamonds and man but nah it ain't Flip
-K bounce..ok then I let my shoulder lean
+K bounce...ok then I let my shoulder lean
 And I bet my car talk, and I bet my motor clean
 Suicide doors, Brown Rover look like pok n bean
-Erybody know me in the club cuz they smokin' me..Dro
+Erybody know me in the club cuz they smokin' me...Dro
 Hoes scopin' me, ice come from Bo Bareeton
 Hundred carats have 'em froze for an eon
 Red, black, and white Chevy now I'm ridin' Deion
@@ -118,12 +118,12 @@ I can shoulder lean... ionno how to dance thooooo
 First I let my wheels spin, then I let my screen fall
 Then I let my trunk beat at Greenbriar Mall, tall
 And then I pimp a hoe, take a bitch to Berlin
-Bitch break niggaz, after that we fuck they girlfriend
+Bitch break niggas, after that we fuck they girlfriend
 My girl got a girlfriend, Chevy blue like whirlwind
 Nigga it's a drought on that boy, so I got that girl in
 Pearl Bent', cockin' hammer, Arm & Hammer propaganda
 Bitches think I'm pimpin' and leanin' in salamander sandels
-Dirty South hot cuz Atlanta.. show niggaz with ammo
+Dirty South hot cuz Atlanta.. show niggas with ammo
 We ride Phantom, holla shawty for grammar
 Yep, now I be on TV, BET, out the channel
 Hood nigga from Bankhead, I stay by Grandma Nana

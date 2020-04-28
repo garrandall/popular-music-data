@@ -84,7 +84,7 @@ Baby
 
 The stronger your hold
 The more I need you.
-With ev'ry passing day I love you more in ev'ry way
+With every passing day I love you more in every way
 
 I'm in love to stay and I wanna say.
 

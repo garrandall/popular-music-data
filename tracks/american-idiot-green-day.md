@@ -115,9 +115,6 @@ Television dreams of tomorrow
 We're not the ones who're meant to follow
 For that's enough to argue
 
-
-
-
 Don't wanna be an American idiot
 One nation controlled by the media
 Information age of hysteria

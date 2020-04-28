@@ -50,11 +50,11 @@ Una asesina, lo' mata con perreo
 No sé cómo todavía no ha salío' en un video
 
 
-Ella está casi, casi soltera (Hmm)
+Ella está casi, casi soltera (Hm)
 Un corillo de bandolera'
 Quieren perreo la noche entera
 Sin cojone' le tiene si se enteran
-Porque está casi, casi soltera (Hmm)
+Porque está casi, casi soltera (Hm)
 Un corillo de bandolera'
 Quieren perreo la noche entera
 Sin cojone' le tiene si se enteran, yeh

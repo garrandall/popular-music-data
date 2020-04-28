@@ -182,6 +182,3 @@ Now I'm dyin' to forget you
 Your love is sweet
 I was cryin' when I met you
 
-
-
-

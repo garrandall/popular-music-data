@@ -65,7 +65,7 @@ I've tried to stick to my prescription
 Someday I'll have a disappearing hairline
 Someday I'll wear pajamas in the daytime
 
-Woahh, afternoons will be measured out
+Woah, afternoons will be measured out
 Measured out, measured with
 Coffeespoons and T.S. Eliot
 
@@ -77,7 +77,7 @@ I've heard the rattle in my bronchi...
 Someday I'll have a disappearing hairline
 Someday I'll wear pajamas in the daytime
 
-Woahh, afternoons will be measured out
+Woah, afternoons will be measured out
 Measured out, measured with
 Coffeespoons and T.S. Eliot
 

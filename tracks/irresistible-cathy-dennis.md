@@ -84,7 +84,7 @@ You are you are
 You're so adorable baby you are
 You are you are
 
-Oooh ooh ooh and if I turned you away
+Oh ohoohnd if I turned you away
 I know there'd never be another
 And for the rest of my life
 I know I never would recover

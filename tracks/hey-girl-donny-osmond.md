@@ -55,26 +55,26 @@ And Hey Girl I tell you no lies (Bye Bye Baby)
 Something deep inside of me is going to die
 You say so long
 This is goodbye
-ooooooh
+oh
 Hey Girl this can't be true
 (can't be true)
-How am I supposed to exist without you 
+How am I supposed to exist without you
 (without you)
-Hey Girl now don't put me on 
+Hey Girl now don't put me on
 (don't put me on)
 What's going to happen to me when your gone
 Bye Bye baby
-How will I live 
+How will I live
 (how will I live)
 how can I go on
 How can I go on
 (how can I go without you)
 (Bye Bye Baby)
-And Hey Girl now sit yourself down 
+And Hey Girl now sit yourself down
 (sit down)
-I'm not ashamed to get down on the ground 
+I'm not ashamed to get down on the ground
 and beg you beg you to stay
-oooh don't go away
+oh don't go away
 (don't go  please don't go)
 Hey Girl (hey hey)
 Please Please don't go away

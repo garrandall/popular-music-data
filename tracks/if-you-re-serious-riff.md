@@ -83,6 +83,6 @@ All we have to do is try
 If you're serious, baby
 So am I
 
-Ooh
+Oh
 If you're serious
 So am I

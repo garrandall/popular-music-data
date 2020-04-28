@@ -151,12 +151,12 @@ And everynight before I go to sleep
 I'm praying that soon you'll be here with me
 
 
-Heaven, heaven oh heaven cant you help me
+Heaven, heaven oh heaven can't you help me
 I looked in her eyes now shes all I see
-Heaven oh heaven cant you help me
+Heaven oh heaven can't you help me
 I'm down on my knees please, heaven
 
-Heaven....
+Heaven...
 
 
 

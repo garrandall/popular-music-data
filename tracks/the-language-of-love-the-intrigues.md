@@ -20,8 +20,8 @@ Sha-la-la-la-la
 When you dig a girl you meet
 To sweep her off her feet
 Tell her
-Ooh-la-la-la-la
-Ooh-la-la-la-la
+Oh-la-la-la-la
+Oh-la-la-la-la
 
 If it's true love at first sight
 And everything is right

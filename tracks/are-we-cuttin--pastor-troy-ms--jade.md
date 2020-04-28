@@ -39,17 +39,17 @@ Ha-ha, ha-ha, come here girl
 Ha-ha, ha-ha
 
 
- Oooooooh
+ Oh
  Baby what's your name?
- Oooooooh
+ Oh
  Are you wearin Bugle Boy jeans?
- (Hell naw!) Oooooooh
- I heard you was from Atlanta 
- Oooooooh
- But baby please excuse my manners, I just wanna know 
+ (Hell naw!) Oh
+ I heard you was from Atlanta
+ Oh
+ But baby please excuse my manners, I just wanna know
 Are we cuttin'?! Are we cuttin'?! Are we cuttin'?!
- Oooooooh, hell yea, yeah yeah yea
-Oooooooh
+ Oh, hell yea, yeah yeah yea
+Oh
 She won't see tomorrow, if I don't cut tonight
 
 
@@ -69,9 +69,6 @@ You don't wanna go back to the suite (c'mon)
 Let you caress my feet, huh
 Now what you wanna know?
 
-
-
-
 Off the chain!
 Damn! Damn boo
 Where ya been all my lifetime?
@@ -85,15 +82,12 @@ Talkin about gettin some sleep
 She's the, the-truth, shorty got loose
 Sorry, but all I needed was a pretty red substitute
 
-
-
-
 What you talkin?
 I, bring heat when it's hawkin
 Cause I, can't stand a man that don't understand
 I'm weighing kilos and grams the bitch wit the upper-hand
 I'm, bout to kill it; you, dealin wit the realest
-Fuck the strawberry's and chocolate (ohh)
+Fuck the strawberry's and chocolate (oh)
 Hennessy and a condom, say they kissin and grindin
 It's all about the timin; I, really like "Vice Versa"
 But, tonight's much worser, and um
@@ -103,8 +97,4 @@ Pastor Troy, won't you just pass the boy
 In a, split second I'm answerin all questions
 You dummies are still confessin how money make you undress
 And so tell me
-
-
-
-
 

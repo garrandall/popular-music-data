@@ -90,10 +90,10 @@ rankings:
 ---
 Smooth!
 
-Aaahhhhhhh (baby thats a what i like)(hold me, squeeze me)
-Aaahhhhhhh (baby thats a what i like)
-Aaahhhhhhh (baby thats a what i like)(hold me, squeeze me)
-Aaahhhhhhh (baby thats a what i like)
+Ah (baby thats a what I like)(hold me, squeeze me)
+Ah (baby thats a what I like)
+Ah (baby thats a what I like)(hold me, squeeze me)
+Ah (baby thats a what I like)
 
 
 In some secluded rendezvous
@@ -105,14 +105,14 @@ And dreadlocks that at  night he liked to twirl
 And he says:
 "I love the way you look at me, I love your smile
 Why don't you come and talk to me just for a while?
-Give me your love, oohhh give me your love
+Give me your love, oh give me your love
 Why don't you come and talk to me, give me your love?
 And we can move it like this"
 
-Aaahhhhhhh (baby thats a what I like)
-Aaahhhhhhh (baby thats a what I like)
-Aaahhhhhhh (baby thats a what I like)
-Aaahhhhhhh (baby thats a what I like)
+Ah (baby thats a what I like)
+Ah (baby thats a what I like)
+Ah (baby thats a what I like)
+Ah (baby thats a what I like)
 
 
 And now the hours go by fast
@@ -128,10 +128,10 @@ There's some things I can't forget
 Oh hunny why did I dis ya? (you can learn alot from Lydia)
 I gotta move it like this"
 
-Aaahhhhhhh (hold me, squeeze me)
-Aaahhhhhhh
-Aaahhhhhhh (hold me, squeeze me)
-Aaahhhhhhh
+Ah (hold me, squeeze me)
+Ah
+Ah (hold me, squeeze me)
+Ah
 
 
 Now take a cup and walk away
@@ -144,18 +144,18 @@ Silence, and then you hear
 Aye aye aye aye aye, make sweet love to me
 Aye aye aye aye aye, give me ecstacy
 Aye aye aye aye aye, make sweet love to me
-Give me all those things i miss
+Give me all those things I miss
 But start is off with a kiss
 And move a little something like this
 
-Aaahhhhhhh
+Ah
 And now ya move it like this
-Aaahhhhhhh
+Ah
 Start it off with a kiss
 Then move a little something like this
-Aaahhhhhhh
+Ah
 And now ya move it like this
-Aaahhhhhhh
+Ah
 Start it off with a kiss, and now ya move it like
 
 Bum-de bum-de bum-bum
@@ -177,10 +177,10 @@ Bum-de bum-de bum-bum
 Bum-de bum-de bum-bum
 De-lay lay lay lay lay bum (Hey!)
 
-Aaahhhhhhh (baby thats a what I like)
-Aaahhhhhhh (baby thats a what I like)
-Aaahhhhhhh (baby thats a what I like)
-Aaahhhhhhh (baby thats a what I like)
+Ah (baby thats a what I like)
+Ah (baby thats a what I like)
+Ah (baby thats a what I like)
+Ah (baby thats a what I like)
 (the moral of the story goes like this)
 
 
@@ -189,15 +189,15 @@ Sometimes problems arise, yea (sometimes problems arise)
 Life brings you surprises (life brings you surprises)
 Sometimes you don't realize
 Til it's right before your eyes
-And you say (aahhh)
-I love to love you baby (aahhh)
-Can't live without ya baby (aahhhh)
+And you say (ah)
+I love to love you baby (ah)
+Can't live without ya baby (ah)
 Your life, it drives me crazy
 If I only get one wish
 Number one on my list
 To move a little something like this
 
-Aaahhhhhhh (baby thats a what I like)
-Aaahhhhhhh (baby thats a what I like)
-Aaahhhhhhh (baby thats a what I like)
-Aaahhhhhhh (baby thats a what I like)
+Ah (baby thats a what I like)
+Ah (baby thats a what I like)
+Ah (baby thats a what I like)
+Ah (baby thats a what I like)

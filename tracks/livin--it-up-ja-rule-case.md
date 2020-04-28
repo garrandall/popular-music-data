@@ -203,15 +203,8 @@ And grind it out, takin' no times out
 'Til the sun come out
 Bitch, when you find out
 
-
-
-
 C'mon, we get high
 C'mon, we get ride
 C'mon, we get live
 C'mon, it's my time
-
-
-
-
 

@@ -92,7 +92,7 @@ We are the young, (oh), we are the young
 (We are the young), yeah
 
 Every street is an arcade of dreams, oh
-I found downtown exploding at the seam, ooh
+I found downtown exploding at the seam, oh
 With lights and sounds and the soul parade
 Light and blue color promenade
 

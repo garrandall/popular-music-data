@@ -94,7 +94,7 @@ But yeah, that's all that she's getting
 Her song is on and she's spinning around, yeah
 She got me drunk like Corona
 Heart racing like it's Daytona
-Ooh, I'm in Heaven I swear right now
+Oh, I'm in Heaven I swear right now
 
 And those eyes can hypnotize
 Was designed to blow my mind
@@ -134,7 +134,7 @@ The way that she moves, how could anybody blame her?
 I know she's got haters, but it ain't her fault, nah
 Look what God gave her
 
-Ooh, look what God
+Oh, look what God
 Look what God gave her
 Oh, look what God gave her
 

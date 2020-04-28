@@ -102,7 +102,7 @@ Is there an end in sight
 
 Don't keep me waitin 'cause I can't fight anymore
 
-Nobody wins in this war (2x)
+Nobody wins in this war
 
 Nobody nobody nobody wins in this
 

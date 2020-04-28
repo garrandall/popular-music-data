@@ -97,7 +97,7 @@ Military train
 I was dancing with my baby
 In the summer rain
 I can here him singing
-Ooh "Love Is Strange"
+Oh "Love Is Strange"
 Come dance with me baby
 In the summer rain
 

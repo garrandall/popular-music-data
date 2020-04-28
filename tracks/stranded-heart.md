@@ -127,7 +127,6 @@ Said that you'd always care
 I just turn around
 And there's nobody there
 
-Chorus (1x)
 
 Don't leave me now
 
@@ -137,11 +136,9 @@ And there's nobody there
 
 Don't leave me like --
 
-Chorus (1x)
 
 Stranded
 
-Chorus (1x)
 
 Stranded
 

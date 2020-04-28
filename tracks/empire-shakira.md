@@ -73,10 +73,10 @@ We are alive
 And the stars make love to the universe
 And you touch me
 And I'm like and I'm like and I'm like
-Ooh ooh
-And I'm like ooh ooh
-And I'm like ooh ooh
-And I'm like ooh
+Oh oh
+And I'm like oh oh
+And I'm like oh oh
+And I'm like oh
 
 I will follow you down wherever you go
 I am, baby, I'm bound to you and do you know?
@@ -92,12 +92,12 @@ We are alive
 And the stars make love to the universe
 And you touch me
 And I'm like and I'm like and I'm like
-Ooh ooh
+Oh oh
 We are alive
-Ooh ooh
-And I'm like ooh ooh
+Oh oh
+And I'm like oh oh
 We are alive
-Ooh
+Oh
 
 I'm just gonna raise my head
 Welcome to the final edge
@@ -114,10 +114,10 @@ We are alive
 And the stars make love to the universe
 And you touch me
 And I'm like and I'm like and I'm like
-Ooh ooh
-And I'm like ooh ooh
-And I'm like ooh ooh
-And I'm like ooh
+Oh oh
+And I'm like oh oh
+And I'm like oh oh
+And I'm like oh
 
 
 

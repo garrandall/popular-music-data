@@ -21,10 +21,10 @@ rankings:
   start_date: '2020-01-11'
 ---
 
-Let me know, let me know, let me know, let me know what's up with you, ooh
-Let me know, let me know, let me know, let me know if you comfortable, ooh
-Let me know, let me know, let me know, let me know what's up with you, ooh
-Let me know, let me know, let me know, let me know if you comfortable, ooh
+Let me know, let me know, let me know, let me know what's up with you, oh
+Let me know, let me know, let me know, let me know if you comfortable, oh
+Let me know, let me know, let me know, let me know what's up with you, oh
+Let me know, let me know, let me know, let me know if you comfortable, oh
 
 I found your vibe, and I- and I found my high, yeah
 Let's touch the sky, Imma- Imma change your life, yeah
@@ -35,10 +35,10 @@ I wonder why lame niggas think that they run things
 I wonder why, I- I wonder why, yeah
 Just feel the vibes, just- just feel the vibes, yeah
 
-Let me know, let me know, let me know, let me know what's up with you, ooh
-Let me know, let me know, let me know, let me know if you comfortable, ooh
-Let me know, let me know, let me know, let me know what's up with you, ooh
-Let me know, let me know, let me know, let me know if you comfortable, ooh
+Let me know, let me know, let me know, let me know what's up with you, oh
+Let me know, let me know, let me know, let me know if you comfortable, oh
+Let me know, let me know, let me know, let me know what's up with you, oh
+Let me know, let me know, let me know, let me know if you comfortable, oh
 
 Now when you left, left, it wasn't right, yeah
 I took a left, swerve, then I took a right, yeah
@@ -50,10 +50,10 @@ And it's my time, I swear to god I won't waste no time, yeah
 You ain't worth a dime, no, you ain't worth a dime, yeah
 Still on my mind, whoa, you're still on my mind, yeah
 
-Let me know, let me know, let me know, let me know what's up with you, ooh
-Let me know, let me know, let me know, let me know if you comfortable, ooh
-Let me know, let me know, let me know, let me know what's up with you, ooh
-Let me know, let me know, let me know, let me know if you comfortable, ooh
+Let me know, let me know, let me know, let me know what's up with you, oh
+Let me know, let me know, let me know, let me know if you comfortable, oh
+Let me know, let me know, let me know, let me know what's up with you, oh
+Let me know, let me know, let me know, let me know if you comfortable, oh
 
 I wonder why, I- I wonder why, yeah
 Just feel the vibes, just- just feel the vibes

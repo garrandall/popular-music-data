@@ -33,7 +33,7 @@ rankings:
   start_date: '1985-04-27'
 ---
 
-I wont bother asking what you've done
+I won't bother asking what you've done
 Though the rumors all point to something going on
 See the past is the past, I'm not gonna dwell
 But I better never catch you with someone else
@@ -59,7 +59,7 @@ Swear!
 (Swear) That you want me! (Swear) Tell the truth!
 Hand over heart and swear that you love me, swear that you want me
 
-I wont bother asking what you've done
+I won't bother asking what you've done
 Though the rumors all point to something going on
 See the past is the past, I'm not gonna dwell
 But I better never catch you with someone else

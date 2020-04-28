@@ -122,7 +122,7 @@ Eolssu
 I’m so fine wherever I go
 Gakkeum meolli doragado, oh
 It’s okay, I’m in love with my-my myself
-It’s okay, nan i sungan haengbokhae
+It’s okay, nan I sungan haengbokhae
 
 
 Uh! What’s good, Korea?

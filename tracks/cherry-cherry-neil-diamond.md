@@ -90,7 +90,7 @@ Makes you wanna have a very merry, holly holy,
 Cherry cherry Christmas time the whole year long.
 
 The whole year long...sing your Christmas song...the whole year long.
-Cherry Christmas, Everyone!!!
+Cherry Christmas, Everyone!
 
 
 

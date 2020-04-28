@@ -76,9 +76,9 @@ Witcha dumbass face
 She ain't eatin' but I swear she got some bum ass taste
 Text her man like, "Dawg, how that bum ass taste?"
 Pay your rent! And stay in your bum ass place
-Oooohhh, oh you the qu-e-e-the queen of this here?
+Oh, oh you the qu-e-e-the queen of this here?
 One platinum plaque, album flopped, bitch, where? (bitch, where?)
-Hahaha, ahhhhh
+Hahaha, ah
 I took two bars off just to laugh
 You see, silly rabbit, to be the queen of rap
 You gotta sell records, you gotta get plaques

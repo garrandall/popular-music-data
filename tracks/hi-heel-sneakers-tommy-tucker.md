@@ -67,9 +67,6 @@ Wear your wig hat on your head
 I'm pretty sure now baby
 Don't you know you know you gonna knock 'em dead
 
-
-
-
 I got my Old Crow liquor
 And my paycheck in my hand
 I got my Old Crow liquor
@@ -77,12 +74,9 @@ I got my paycheck in my hand
 Big John's bootleg whiskey
 Cost much more than I can stand
 
-
-
-
 Put on your hi-heel sneakers
 Wear your wig hat on your head
 Put on your hi-heel sneakers
 Wear your wig hat on your head
-Know you're gonna be your 
+Know you're gonna be your
 I'm pretty sure you're gonna knock 'em dead

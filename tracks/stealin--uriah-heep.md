@@ -40,8 +40,8 @@ rankings:
 Take me across the water 'cause I need some place to hide
 I done the rancher's daughter and I sure did hurt his pride aha
 
-Oo..ooo Ooooo Ah ah ah
-Oo..ooo Ooooo Ah ah ah
+Oo...oo Ooooo Ah ah ah
+Oo...oo Ooooo Ah ah ah
 
 Well there's a hundred miles of desert lies between his hide and mine
 I don't need no food and no water, Lord, 'cause I'm running out of time
@@ -50,8 +50,8 @@ Fightin', killin', wine and women, gonna put me to my grave
 Runnin', hidin', losin', cryin', nothing left to save
 But my life
 
-Oo..ooo Ooooo Ah ah ah
-Oo..ooo Ooooo Ah ah ah
+Oo...oo Ooooo Ah ah ah
+Oo...oo Ooooo Ah ah ah
 
 Stood on a ridge and shunned religion thinking the world was mine
 I made my break and a big mistake stealin' when I should've been buyin'
@@ -65,7 +65,4 @@ I made my break and a big mistake stealin' when I should've been buyin'
 I was stealin' when I should've been buyin'
 I was stealin' when I should've been buyin' yeah
 Stealin' when I should've been buyin'
-
-
-
 

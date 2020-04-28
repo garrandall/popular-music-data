@@ -50,7 +50,7 @@ rankings:
 
 
 
-I dont' wanna loose
+I don't' wanna loose
 This good thing (Baby)
 That I got If I do, now
 I would surely
@@ -78,7 +78,7 @@ Its like lightning
 The way you love me is frightn'in
 I think I better knock, knock, knock on wood
 
-I dont see that women
+I don't see that women
 To feel my loving colour
 You got me seeing
 She can really see

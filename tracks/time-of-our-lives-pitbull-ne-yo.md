@@ -126,10 +126,10 @@ To get up in this club
 Hand me a good time before my time is up
 Hey, let's get it now
 
-Ooh I want the time of my life
+Oh I want the time of my life
 Mr. Worldwide!
 Oh baby
-Ooh give me the time of my life
+Oh give me the time of my life
 Ne-Yo, let's get it!
 Let's get it now
 
@@ -160,9 +160,9 @@ Hand me a good time before my time is up
 Hey, let's get it now
 
 
-Ooh I want the time of my life
+Oh I want the time of my life
 Oh, baby
-Ooh give me the time of my life
+Oh give me the time of my life
 Hey, hey, hey
 Let's get it now
 
@@ -194,9 +194,9 @@ Hand me a good time before my time is up
 Hey, let's get it now
 
 
-Ooh I want the time of my life
+Oh I want the time of my life
 Oh, baby
-Ooh give me the time of my life
+Oh give me the time of my life
 Hey, hey, hey
 Let's get it now
 
@@ -230,9 +230,9 @@ Hand me a good time before my time is up
 Hey, let's get it now
 
 
-Ooh I want the time of my life
+Oh I want the time of my life
 Oh, baby
-Ooh give me the time of my life
+Oh give me the time of my life
 Hey, hey, hey
 Let's get it now
 

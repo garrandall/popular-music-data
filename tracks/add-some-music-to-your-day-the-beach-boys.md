@@ -52,9 +52,6 @@ Add some, add some, add some, add some music (add some music)
 Your doctor knows it keeps you calm
 Your preacher adds it to his psalms
 
-
-
-
 Music
 (Add some music, add some music)
 When you're alone
@@ -62,7 +59,7 @@ When you're alone
 Is like a companion
 (Add some music, add some music)
 For your lonely soul
-Oo oo oo woo oo woo oo oo oo oooo
+Oo oo oo woo oo woo oo oo oo oo
 
 
 When day is over (when day is over)
@@ -73,8 +70,5 @@ And on every day of the summertime
 You'll hear children chasing ice cream carts
 They'll play it on your wedding day
 There must be about a million ways
-
-
-
 
 Add some music to your day

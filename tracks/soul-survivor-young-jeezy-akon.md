@@ -150,14 +150,14 @@ Another day, another dolla (dolla)-same block, same nigga, same part, same green
 I guess we got the same dreams (Ayy)
 Or is it the same nightmares (nightmares)
 We let the doves do it for us -- we don't cry tears (That's right)
-Real niggaz don't budge
+Real niggas don't budge
 When Mail Man got his time he shot birds at the judge (Yeah)
 I'm knee deep in the game
 So when it's time to re-up, I'm knee deep in the cane (Damn)
 Real talk, Look, I'm tellin' you mayne (tellin' you mayne)
 If you get jammed up don't mention my name
 Forgive me Lord--I know I aint livin' right
-Gotta feed the block, niggaz starvin', they got appitites (Ayy)
+Gotta feed the block, niggas starvin', they got appitites (Ayy)
 And this is er'day, it never gets old (Old)
 Thought I was a juvenile stuck to the G-Code (Yeah)
 This aint a rap song, nigga this is my life (this is my life)

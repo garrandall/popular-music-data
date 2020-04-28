@@ -116,7 +116,7 @@ My life just ain't the same since you went away
 And I'm so alone, alone
 I miss you
 You never miss a good thing till it's gone (gone)
-And I'm so alone, (ooh) did you have to go away
+And I'm so alone, (oh did you have to go away
 I really miss you
 
 So Alone, I'm so alone

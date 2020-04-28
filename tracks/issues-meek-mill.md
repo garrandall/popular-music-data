@@ -49,7 +49,7 @@ Next up, disrespectful, might offend you
 When it's time for war we send the missiles (woah)
 
 Hangin' by the rope like some dope (like some dope)
-Pretty hoe, deep throat 'til she choke (ooh)
+Pretty hoe, deep throat 'til she choke (oh
 Pussy good, super wet, need a boat (need a boat)
 Niggas tryna run my way, let 'em float (let 'em die)
 Put my young bull on the chain 'cause I miss Snupe (miss Snupe)

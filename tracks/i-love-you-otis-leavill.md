@@ -44,7 +44,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-01-24'
 ---
-Oohhhh, oooo
+Oh, oo
 (Come and get your love)
 (Come and get your love)
 Here's your love‚ come and get it

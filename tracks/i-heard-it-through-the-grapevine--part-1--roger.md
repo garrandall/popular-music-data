@@ -39,9 +39,9 @@ rankings:
 Grapevine
 (Grapevine)
 
-Ooh, grapevine, ooh, grapevine
+Oh, grapevine, oh, grapevine
 (Grapevine)
-Ooh, grapevine, ooh, sho' 'nuff, I need you
+Oh, grapevine, oh, sho' 'nuff, I need you
 (Heard it through the grapevine)
 
 I heard that you're gonna leave me, oh, I
@@ -69,7 +69,7 @@ Not much longer would you be mine
 (Heard it through the grapevine)
 {Longer would you be mine)
 
-Ooh, grapevine, baby, baby, baby, baby, baby, baby
+Oh, grapevine, baby, baby, baby, baby, baby, baby
 Don't leave me, girl, because I need your love so bad
 I know a man ain't supposed to cry
 But these tears I can't hold inside
@@ -91,7 +91,7 @@ Baby, baby, baby, baby
 Grapevine, I don't want nobody else
 Naby, I don't want nobody else
 Don't you leave me, don't you leave me, don't you leave
-Don't you leave me, no, don't leave me, don't do it, ooh, ooh, ooh
+Don't you leave me, no, don't leave me, don't do it, oh, oh, oh
 (Oh, I)
 
 How much longer, darling, would you be mine?
@@ -110,7 +110,7 @@ How much longer, longer would you be mine?
 How much longer, longer would you be mine?
 (Need your lovin', need your lovin', need your love, your love, your love)
 I really want you, waitin' for your love, your love, your love, your love
-Ooh
+Oh
 
 Heard it through the grapevine
 (Said, I heard it, said I heard it, baby
@@ -118,7 +118,7 @@ Don't you leave me, don't you leave me now)
 Heard it through the grapevine
 (Said, I heard it through, heard it through, heard it through, tell me)
 
-Mmm, hmm, your love, you know I want it
+Mmm, hm, your love, you know I want it
 (Just a little bit of soul now)
 Your love, your love, got to have it, your love
 
@@ -128,7 +128,7 @@ How much longer, darling, would you be mine?
 How much longer, darling, would you be mine?
 (I love you)
 How much longer, darling, would you be mine?
-(Ooh, ooh)
+(Oh, oh)
 
 Oh, oh, oh, I heard it through the grapevine
 Oh, oh, oh, I heard it through the grapevine

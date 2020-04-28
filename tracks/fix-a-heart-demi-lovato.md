@@ -36,10 +36,10 @@ I don't even know where to start
 'Cause you can bandage the damage
 You never really can fix a heart
 
-Ooh, ooh
+Oh, oh
 Whoa, whoa
 Yeah
-Ooh, ooh
+Oh, oh
 Whoa, whoa
 Whoa, whoa
 Oh, oh

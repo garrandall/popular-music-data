@@ -105,7 +105,7 @@ And I wanna say
 
 I never knew there was a love like this before
 (A love like this before, no)
-Never had someone to show me a love (Ooh)
+Never had someone to show me a love (Oh)
 Love like this before
 
 
@@ -121,7 +121,7 @@ So baby, try to understand
 
 Baby, try to understand
 I'll be crazy if you leave (Crazy)
-'Cause you compliment my style (Ooh)
+'Cause you compliment my style (Oh)
 And I like the way you walk, and the sexy things you talk
 (The way you walk, the way you talk)
 You don't know just what you do to me

@@ -93,14 +93,14 @@ rankings:
   start_date: '1960-10-24'
 ---
 
-Dum-dum-dum-dumdy-doo-wah 
-Ooh-yay-yay-yay-yeah 
+Dum-dum-dum-dumdy-doo-wah
+Oh-yay-yay-yay-yeah
 Oh-oh-oh-oh-wah
-Only the lonely 
+Only the lonely
 Only the lonely
 
 Only the lonely (dum-dum-dum-dumdy-doo-wah)
-Know the way I feel tonight (ooh-yay-yay-yay-yeah)
+Know the way I feel tonight (oh-yay-yay-yay-yeah)
 Only the lonely (dum-dum-dum-dumdy-doo-wah)
 Know this feeling ain't right (dum-dum-dum-dumdy-doo-wah)
 
@@ -115,24 +115,24 @@ I cry
 Only the lonely
 
 Dum-dum-dum-dumdy-doo-wah
-Ooh-yay-yay-yay-yeah
+Oh-yay-yay-yay-yeah
 Oh-oh-oh-oh-wah
 Only the lonely
-Only the lonely 
+Only the lonely
 
 Only the lonely (dum-dum-dum-dumdy-doo-wah)
-Know the heartaches I've been through (ooh-yay-yay-yay-yeah)
+Know the heartaches I've been through (oh-yay-yay-yay-yeah)
 Only the lonely (dum-dum-dum-dumdy-doo-wah)
 Know I cry and cry for you (dum-dum-dum-dumdy-doo-wah)
 
-Maybe tomorrow 
-A new romance 
-No more sorrow 
+Maybe tomorrow
+A new romance
+No more sorrow
 But that's the chance
 
-You gotta take 
-If your lonely heart breaks 
-Only the lonely 
+You gotta take
+If your lonely heart breaks
+Only the lonely
 
 Dum-dum-dum-dumdy-doo-wah
 

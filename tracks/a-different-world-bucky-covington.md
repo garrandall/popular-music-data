@@ -116,9 +116,6 @@ No bottled water, we drank from a garden hose
 And every Sunday, all the stores were closed
 
 
-
-
-
 It was a different world
 
 

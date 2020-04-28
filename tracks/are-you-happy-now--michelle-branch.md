@@ -98,7 +98,7 @@ Yeah, yeah, yeah, yeah
 
 
 Could you look me in the eye
-And tell me that you're happy now? (Ooh)
+And tell me that you're happy now? (Oh)
 Would you tell it to my face?
 Or have I been erased?
 Are you happy now?
@@ -114,10 +114,10 @@ And leaving you with all the blame
 
 
 Could you look me in the eye
-And tell me that you're happy now? (Ooh)
+And tell me that you're happy now? (Oh)
 Would you tell it to my face?
 Or have I been erased?
-Are you happy now? (Ooh)
+Are you happy now? (Oh)
 Are you happy now?
 Are you happy now?
 Yeah, yeah, yeah
@@ -140,5 +140,5 @@ Would you look me in the eye?
 Could you look me in the eye?
 I've had all that I can take
 I'm not about to break
-'Cause I'm happy now (Ooh)
+'Cause I'm happy now (Oh)
 Are you happy now?

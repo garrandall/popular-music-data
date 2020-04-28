@@ -94,7 +94,7 @@ Alright boys, this is her favorite song
 You know that right
 So, if we play it good and loud
 She might get up and dance again
-Ooh, she put her beer down
+Oh, she put her beer down
 Here she comes
 Here she comes
 Left left left right left
@@ -139,7 +139,7 @@ There outta be a law
 Get the Sheriff on the phone
 Lord have mercy, how'd she even get them britches on
 With that honky tonk badonkadonk
-(Ooh, that's what I'm talkin' bout right there, honey)
+(Oh, that's what I'm talkin' bout right there, honey)
 
 We don't care about the drinkin'
 Barely listen to the band

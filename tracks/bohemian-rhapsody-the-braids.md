@@ -82,7 +82,7 @@ Pulled my trigger now he's dead
 Mama life had just begun,
 But now I've gone and thrown it all away
 
-Mama, ooooh
+Mama, oh
 I ddn't mean to make you cry
 If I'm not back again this time tomorrow
 Oh carry on, carry on, as if nothing really matters
@@ -95,7 +95,7 @@ Goodbye everybody
 I've got to go
 Gotta leave you all behind and face the truth
 
-Mama, oooh
+Mama, oh
 I don't wanna die
 I sometimes wish I never been born at all
 
@@ -121,7 +121,7 @@ Just gotta get right out of here
 Oh oh carry on nothing really matters
 I sometimes wish I never been born at all
 
-(Ooh carry on, nothing really matters)
+(Oh carry on, nothing really matters)
 
 Nothing really matters
 Anyone can feel

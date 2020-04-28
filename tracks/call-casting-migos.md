@@ -111,7 +111,7 @@ I hit the jungle, then adapt (Rarr)
 All my bitches from an app (App)
 Instagram and the Snaps (Snap)
 I bet a hundred on the craps (Craps)
-I'm good on shawty, do without (Ooh)
+I'm good on shawty, do without (Oh
 She fucking niggas for the check (Check)
 I'ma only get the mouth
 Hop out a Lambo, Corsa on a bitch (Skrt)

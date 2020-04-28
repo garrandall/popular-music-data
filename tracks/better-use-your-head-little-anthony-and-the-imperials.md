@@ -75,7 +75,7 @@ Use your head and you will see
 You won't be losin' it, so use your head
 
 Why don't you use your head
-Ahh, I just wanna make you
+Ah, I just wanna make you
 Better turn around what you're sayin'
 Better use your head before it's too late and I'm gone
 Better use your head

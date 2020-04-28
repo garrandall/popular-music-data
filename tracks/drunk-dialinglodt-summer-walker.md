@@ -33,9 +33,6 @@ Have you wantin' some more
 
 Oh, damn
 
-
-
-
 Boy, you know I, I, I love you
 Oh, with everything you do, eh-eh
 And I just can't quite understand it

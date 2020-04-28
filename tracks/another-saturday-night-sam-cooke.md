@@ -54,13 +54,13 @@ rankings:
 ---
 
 Another Saturday night and I ain't got nobody
-I got some money 'cause i just got paid
+I got some money 'cause I just got paid
 How I wish I had someone to talk to
 I'm in an awful way
 
 I got in town a month ago, I seen a lotta girls since then
 If I could meet 'em I could get 'em but as yet I haven't met 'em
-That's why I'm in the shape I'm in 
+That's why I'm in the shape I'm in
 
 Here another Saturday night and I ain't got nobody
 I got some money 'cause I just got paid
@@ -69,7 +69,7 @@ I'm in an awful way
 
 Another fella told me he had a sister who looked just fine
 Instead of being my deliverance, she had a strange resemblance
-to a cat named Frankenstein 
+to a cat named Frankenstein
 
 Here's another Saturday night and I ain't got nobody
 I got some money 'cause I just got paid

@@ -86,8 +86,8 @@ That's where we meet
 That's where we meet
 Me and you rendezvous
 In the club at the end of the street
-Oooh where we meet
-Oooh where we meet
+Oh where we meet
+Oh where we meet
 Me and you rendezvous
 In the club at the end of the street
 

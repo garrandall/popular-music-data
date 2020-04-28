@@ -38,13 +38,13 @@ Cause I know, all I know, all I know
 I'm a prisoner to my addiction
 I'm addicted to a life that's so empty and so cold
 I'm a prisoner to my decisions
-Ooh, ooh, ooh
+Oh, oh oh
 
 
 I think I've been in Hollywood for too long
 Cause I can feel my soul burning, feel it burning slow
 But I would be nothing without the touch
-I feel the rush and it's amazing, hmm
+I feel the rush and it's amazing, hm
 
 
 Maybe I've been always destined to end up in this place, yeah
@@ -59,12 +59,12 @@ I'm a prisoner to my decisions
 I'm a prisoner to my addiction
 I'm addicted to a life that's so empty and so cold
 I'm a prisoner to my decisions
-Ooh, ooh, ooh
+Oh, oh oh
 
 
 I don't know
 I get so wrapped up in a world where nothing's as it seems
-And real life is stranger than my dreams, hmm
+And real life is stranger than my dreams, hm
 
 
 

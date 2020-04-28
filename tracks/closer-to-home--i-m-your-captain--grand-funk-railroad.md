@@ -73,7 +73,7 @@ To the port of my birth
 Am I in my cabin dreaming, or are you really scheming
 To take my ship away from me?
 You'd better think about it, I just can't live without it
-So, please dont take my ship from me
+So, please don't take my ship from me
 Yeah, yeah, yeah
 
 I can feel the hand of a stranger

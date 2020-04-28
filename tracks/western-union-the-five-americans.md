@@ -72,23 +72,23 @@ Says she doesn't care no more
 Think I'll throw it on the floor
 
 Got your cable just today
-Tell the girl what I've got to say..ay
+Tell the girl what I've got to say...ay
 Western Union
-Dit, da dit, da dit (8x)
+Dit, da dit, da dit
 
 Now you've gone away, and
 How it's sad to say you've gone
 I remember what they said
 Now I'm going out of my head
 Telegram just had to say
-You've learned your lesson all the way..ay
+You've learned your lesson all the way...ay
 
 (BREAK)
 
 Telegram just had to say
-You've learned your lesson all the way..ay
+You've learned your lesson all the way...ay
 Western Union
-Dit, da dit, da dit (8x)
+Dit, da dit, da dit
 
 I'll be on my way 'cause
 There's another girl for me

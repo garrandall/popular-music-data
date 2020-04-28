@@ -57,14 +57,14 @@ Don't condemn me
 Or cast me aside
 'Cause I'm gonna be good to you
 Love to you is more, more important
-Than your foolish pride, ooh
+Than your foolish pride, oh
 
 Just put me on probation
 Loving you is my
 Yeah, an infatuation
 
 Guilty, yeah
-Ooh, I'm guilty
+Oh, I'm guilty
 But listen
 
 Don't condemn me, baby, baby, baby

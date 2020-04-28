@@ -112,19 +112,19 @@ Type to cut me diamonds, he can miss me with them bags
 
 
 Baby you should be up in my bed
-Ooh
+Oh
 Do you mind, do you mind? (DJ Khaled!)
 Baby you, do you mind? Do do you mind? Do you mind?
 
 
 I'm just tryna get to know ya
 Get a little closer, maybe post up
-Ooh
+Oh
 Do you mind? Do you mind? Do you mind?
 Do you mind? Do do you mind? Do you mind?
 
 Baby you should be up in my bed
-Ooh
+Oh
 Do you mind, do you mind?
 Baby you, do you mind? Do do you mind? Do you mind?
 
@@ -166,12 +166,12 @@ Oh, oh, oh
 
 I'm just tryna get to know ya
 Get a little closer, maybe post up
-Ooh
+Oh
 Do you mind? Do you mind? Do you mind?
 Do you mind? Do do you mind? Do you mind?
 
 Baby you should be up in my bed
-Ooh
+Oh
 Do you mind, do you mind?
 Baby you, do you mind? Do do you mind? Do you mind?
 
@@ -211,17 +211,17 @@ We the best and I told you this back in '05
 
 I'm just tryna get to know ya
 Get a little closer, maybe post up
-Ooh
+Oh
 Do you mind? Do you mind? Do you mind?
 Do you mind? Do do you mind? Do you mind?
 
 Baby you should be up in my bed
-Ooh
+Oh
 Do you mind, do you mind?
 Baby you, do you mind? Do do you mind? Do you mind?
 
 
-Ooh, just in case you need me
+Oh just in case you need me
 I don't mind
 Yo, tell them what to do, tell them what to do, tell them what to do
 When you see a bad bitch in front of you baby
@@ -230,12 +230,12 @@ Yeah, assume the position
 
 I'm just tryna get to know ya
 Get a little closer, maybe post up
-Ooh
+Oh
 Do you mind? Do you mind? Do you mind?
 Do you mind? Do do you mind? Do you mind?
 
 Baby you should be up in my bed
-Ooh
+Oh
 Do you mind, do you mind?
 Baby you, do you mind? Do do you mind? Do you mind?
 

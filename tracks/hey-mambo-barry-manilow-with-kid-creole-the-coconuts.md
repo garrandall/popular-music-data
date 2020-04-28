@@ -1,8 +1,9 @@
 ---
 artists:
-- Barry Manilow with Kid Creole
+- Barry Manilow
 - The Coconuts
-features: []
+features:
+- Kid Creole
 genres: []
 key: hey-mambo-barry-manilow-with-kid-creole-the-coconuts
 lyrics_url: https://www.musixmatch.com/lyrics/Barry-Manilow-with-Kid-Creole-and-the-Coconuts/Hey-Mambo

@@ -92,7 +92,7 @@ Gimme a ring-a-ling when you want some ding-a-ling
 Just gimme a ring-a-ling when you want some ding-a-ling
 Gimme a ring-a-ling when you want some ding-a-ling
 I won't hurt your feelings when I give you the ding-a-ling
-Freaks of the beats dont worry
+Freaks of the beats don't worry
 Hi town dj's be there in a hurry
 You want that bomb
 When all you gotta do is hit me up
@@ -105,7 +105,7 @@ And you call me
 I'm gonna let you jump on this bomb G
 Miss thing let me see you swing
 All up on the ding-a-ling
-Or better yet baby dont forget
+Or better yet baby don't forget
 You can hit me up on the internet
 Uhh, this is tha bomb
 At ding-a-ling dot com
@@ -149,7 +149,7 @@ Gimme a ring-a-ling when you want some ding-a-ling
 (when you want ding-a-ling-ding, when you want ding-a-ling-ding)
 Gimme a ring-a-ling when you want some ding-a-ling
 (Just gimme a ring-a-ling when you want that ding-a-ling)
-Gimme a ring-a-ling if you want some ding-a-ling, oh-oohh
+Gimme a ring-a-ling if you want some ding-a-ling, oh-oh
 Gimme a ring-a-ling if you want some ding-a-ling, oh-oh-oh-oh
 Gimme a ring-a-ling when you want some ding-a-ling
 (Ding-a-ling feeling that you get from ding-a-ling)
@@ -176,9 +176,9 @@ Gimme a ring-a-ling when you want some ding-a-ling
 Gimme a ring-a-ling when you want some ding-a-ling
 (gimme that ring-a-ling when you want that ding-a-ling)
 Ding dong ding dong ding ding dong
-Oooooohhhhhhh
+Oh
 Ding dong ding dong diiinng dong
-Ooooooohhhhhhh
+Oh
 Ding dong ding dong ding dong
-Oooooohhhhh
-Dingg dong, oooooohhhhhhhhhh
+Oh
+Dingg dong, oh

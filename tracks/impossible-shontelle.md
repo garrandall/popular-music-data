@@ -145,7 +145,7 @@ Impossible, impossible
 Impossible, impossible
 Impossible, impossible
 Impossible, impossible!
-Ooh impossible (yeah yeah)
+Ohimpossible (yeah yeah)
 
 I remember years ago
 Someone told me I should take

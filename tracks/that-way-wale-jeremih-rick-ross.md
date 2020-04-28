@@ -85,10 +85,10 @@ rankings:
 
 
 I apologize I don't recollect your name
-(Oooh, baby I don't know your name)
+(Oh, baby I don't know your name)
 But lemme tell you that them heels really compliment your frame
 (Look at your body baby)
-Girl lemme get them ooh aahs then I gotta catch my plane
+Girl lemme get them ohaahs then I gotta catch my plane
 Say ya miss me and ya wishing for some private time
 Girl how could we get that way?
 
@@ -110,7 +110,7 @@ Please... fear watchu don't know
 
 I apologize I don't recollect your name
 But lemme tell you that them heels really compliment your frame
-Girl lemme get them ooh aahs then I gotta catch my plane
+Girl lemme get them ohaahs then I gotta catch my plane
 Say ya miss me and ya wishing for some private time
 Girl how could we get that way?
 
@@ -131,7 +131,7 @@ Tell her you'll probably find someone but you'll never find another
 
 I apologize I don't recollect your name
 But lemme tell you that them heels really compliment your frame
-Girl lemme get them ooh aahs then I gotta catch my plane
+Girl lemme get them ohaahs then I gotta catch my plane
 Say ya miss me and ya wishing for some private time
 Girl how could we get that way?
 
@@ -148,7 +148,7 @@ Accountable for half a million uncounted for
 
 I apologize I don't recollect your name
 But lemme tell you that them heels really complement your frame
-Girl lemme get them ooh aahs then I gotta catch my plane
+Girl lemme get them ohaahs then I gotta catch my plane
 Say ya miss me and ya wishing for some private time girl how could we get that way?
 
 

@@ -193,8 +193,8 @@ Oh-oh, oh-oh
 Oh-oh, oh-oh
 Oh-oh, oh-oh
 Oh-oh, oh-oh
-Whoo-ooh
-Whoo-ooh-ooh!
+Whoo-oh
+Whoo-oh-oh!
 
 
 (Now I've got me, myself, and I)

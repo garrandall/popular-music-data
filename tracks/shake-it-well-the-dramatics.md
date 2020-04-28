@@ -44,7 +44,7 @@ Oh, yeah, yeah...
 
 You've got problems
 I've got problems
-I can tell, ooh, ooh
+I can tell, oh oh
 
 Here's my best key
 Such a good therapy
@@ -61,13 +61,13 @@ And shake it well, oh, girl
 Hey, hey
 Shake it right on time
 Do it to the music
-Ooh, you got it on
+Oh, you got it on
 Let's see you use it
 
 Let your hair hang down
 Oh, you party pooper
 Forget about yourself
-Ooh, let the music groove
+Oh, let the music groove
 
 Not an inspection
 Just a bad reaction
@@ -103,8 +103,8 @@ Let the music slip it to you
 Shake it well
 Oh, you move me
 
-Ooh, let your body
-Ooh, get real nimble
+Oh, let your body
+Oh, get real nimble
 Then you'll soon feel swell
 I swear you will, I swear
 
@@ -146,7 +146,7 @@ Just shake it well
 Ain't nobody gonna
 Say nothing about it now
 
-Everybody in Hollywood, ooh
+Everybody in Hollywood, oh
 The exercise might do some good
 Ha ha, just shake it well
 

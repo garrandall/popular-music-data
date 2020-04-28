@@ -122,7 +122,7 @@ There's no need to explain anymore
 I tried my best to love you,
 Now I'm walkin' out the door
 (Walking out the door)
-Ahh, you used me, you've deceived me,
+Ah, you used me, you've deceived me,
 (What you trying to do to me?)
 And you never seem to need me
 But I'll bet you won't forget me when I go

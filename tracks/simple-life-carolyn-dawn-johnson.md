@@ -47,23 +47,21 @@ Chorus
 Spend my days in the sweet sunshine
 Rock in my swing and watch my garden grow
 Know that i'll always have someone to hold
-Oh i wanna live the simple life, yeah
+Oh I wanna live the simple life, yeah
 
 I wanna take a blanket down to the creek
 And let the water sing me to sleep
 And let go in time
 Live the simple life..
 Well lately i've seen too many city lights
-I wanna go somewhere where i can see the stars at night
+I wanna go somewhere where I can see the stars at night
 
-Chorus
 
 Spend my days in the sweet sunshine
 Rock in my swing and watch my garden grow
 Know that i'll always have someone to hold
-Oh i wanna live the simple life, yeah yeah
+Oh I wanna live the simple life, yeah yeah
 
-Chorus
 
 Spend my days in the sweet sunshine
 Rock in my swing, and watch my babies grow

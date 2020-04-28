@@ -208,7 +208,7 @@ Yeah, baby girl, no problem
 Yeah, you rollin', shawty?
 Yeah, let's hit McDonald's (Ha!)
 It's TP, and CB
-I'm a Nappy Boy, ah-ow-ah-ah-ah-oh-ooh-wee
+I'm a Nappy Boy, ah-ow-ah-ah-ah-oh-oh-wee
 
 
 Hey, she want that lovey-dovey, lovey-dovey (Oh-oh)

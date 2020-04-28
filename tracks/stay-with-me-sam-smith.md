@@ -246,8 +246,8 @@ Oh, won't you stay with me?
 'Cause you're all I need
 This ain't love, it's clear to see
 But darling, stay with me
-Oooh, oooh
-Oooh, oooh
+Oh, oh
+Oh, oh
 
 
 Oh, won't you stay with me?

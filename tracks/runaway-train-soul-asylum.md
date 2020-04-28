@@ -157,9 +157,6 @@ Wrong way on a one-way track
 Seems like I should be getting somewhere
 Somehow I'm neither here nor there
 
-
-
-
 Bought a ticket for a runaway train
 Like a madman laughing at the rain
 A little out of touch, a little insane

@@ -106,7 +106,7 @@ Don't let it burn out
 
 No, no, don't
 Don't let the flame burn out
-Ooh, honey, don't
+Oh, honey, don't
 Don't let the flame burn out
 
 Don't let it

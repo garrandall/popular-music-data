@@ -145,30 +145,30 @@ It's lowkey at the night show
 At the night show
 At the night show (Higher)
 At the night show
-Ooh, at the night show (Get lit my nigga)
-Ooh, at the night show
+Oh, at the night show (Get lit my nigga)
+Oh, at the night show
 
 Anything can happen at the night show
 Everything can happen at the night show
-Ooh, at the night show
+Oh, at the night show
 Anything can happen at the night show
-Ooh, at the night show
-Ooh, your bitch not at home, she at the night show
-Ooh (Straight up!), fuckin' right, ho
-Ooh, had to catch a flight for the night show
-Ooh (I stun!), let's get piped though
+Oh, at the night show
+Oh, your bitch not at home, she at the night show
+Oh (Straight up!), fuckin' right, ho
+Oh, had to catch a flight for the night show
+Oh (I stun!), let's get piped though
 Bottles got us right though, we ain't sippin' light though
 I ain't got no type though
 Only got one night though, we can do it twice though
 It's lit
 
 At the night show
-Ooh, at the night show
+Oh, at the night show
 At the night show
-Ooh, at the night show
+Oh, at the night show
 At the night show
 Everything can happen at the night show
-Ooh, at the night show
+Oh, at the night show
 Anything can happen at the night show
 
 Stackin' up day to day, young nigga

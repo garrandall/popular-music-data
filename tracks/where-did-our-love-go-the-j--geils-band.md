@@ -37,9 +37,9 @@ Baby, baby, baby, don't leave me
 Oh, don't leave me all by myself, yeah
 
 I've got this yearning, burning, yearning feelin' inside me
-Ooh, deep inside me, oh, and it hurts so bad
+Oh deep inside me, oh, and it hurts so bad
 
-Ooh, baby, baby, where did our love go?
+Oh baby, baby, where did our love go?
 You don't want me, want me no more, yeah
 
 You came into my heart with a burning love

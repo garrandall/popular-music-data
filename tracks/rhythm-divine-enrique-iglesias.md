@@ -134,7 +134,7 @@ Say you'll be mine
 Can you feel the rhythm?
 Can you feel the rhythm?
 Can you feel the rhythm?
-Burning .....Burning
+Burning ...Burning
 
 
 

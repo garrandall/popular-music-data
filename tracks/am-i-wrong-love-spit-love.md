@@ -85,5 +85,5 @@ Goodbye, lay the blame on luck
 Goodbye, lay the blame on luck
 Goodbye, lay the blame on luck
 
-Ooh-ooh-ooh
-Ooh-ooh-ooh
+Ohohooh
+Ohohooh

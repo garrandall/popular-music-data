@@ -1,9 +1,11 @@
 ---
 artists:
-- Buddy Knox with the Rhythm Orchids
-features: []
+- Buddy Knox
+features:
+- The Rhythm Orchids
 genres: []
 key: somebody-touched-me-buddy-knox-with-the-rhythm-orchids
+lyrics_url: https://genius.com/Buddy-knox-somebody-touched-me-lyrics
 name: Somebody Touched Me
 rankings:
 - end_date: '1958-08-10'
@@ -63,4 +65,65 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-11-03'
 ---
-
+Feat. The Rhythm Orchids
+Boppa you, boppa you...
+Well, you gotta get the rhythm
+If you're gonna rock
+You got to get moving
+And don't stop
+Here we go
+Oh, here we go
+Now here we go
+(Here we go)
+Well, somebody touched me
+In the dark last night
+Yes, somebody touched me
+In the dark last night
+Somebody moved me
+With all her might
+She thrilled my soul
+When she held me tight
+Yeah, who, who, who
+In the dark last night
+Last night
+A stranger (a stranger)
+Took my hand (took my hand)
+Last night
+A stranger (a stranger)
+Took my hand (took my hand)
+Last night
+A stranger took my hand
+Said you're gonna be
+My lover man
+Yeah, who, who, who
+In the dark last night
+Boppa you, boppa you...
+Well, now you got the rhythm
+So don't stop
+We're gonna move on
+With a roll and rock
+Now here we go
+Oh, here we go
+Now here we go
+(Here we go)
+Well, somebody made me
+Fall in love last night
+Yes, somebody made me
+Fall in love last night
+Somebody made me fall in love
+Set my heart and soul above
+Oh, who, who, who
+In the dark last night
+Last night
+A stranger (a stranger)
+Took my hand (took my hand)
+Last night
+A stranger (a stranger)
+Took my hand (took my hand)
+Last night
+A stranger took my hand
+Said you're gonna be
+My lover man
+Yeah, who, who, who
+In the dark last night
+Oh, oh, oh, oh...

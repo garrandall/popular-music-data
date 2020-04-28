@@ -127,7 +127,7 @@ They're the only ones
 Who never ever remain the same
 Now tell me which one of us changed?
 
-Only fools dont take chances
+Only fools don't take chances
 If you wanna be on top
 You gotta work every single moment
 Cause another's after your spot

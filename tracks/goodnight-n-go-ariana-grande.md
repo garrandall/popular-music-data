@@ -31,9 +31,9 @@ It's impossible to ignore you, ah
 Why must you make me laugh so much?
 It's bad enough we get along so well
 Just say goodnight and go
-(Ooh, ooh, ooh)
+(Oh, oh, oh)
 Just say goodnight and go
-(Ooh, ooh, ooh)
+(Oh, oh, oh)
 Just say goodnight and go
 
 One of these days
@@ -51,9 +51,9 @@ It's impossible to ignore you, ah
 Why must you make me laugh so much?
 It's bad enough we get along so well
 Just say goodnight and go
-(Ooh, ooh, ooh)
+(Oh, oh, oh)
 Just say goodnight and go
-(Ooh, ooh, ooh)
+(Oh, oh, oh)
 (I know how you want it, baby, just like this
 Know you're thinking' 'bout it, baby, just one kiss
 While you're lookin' at 'em, baby, read my lips

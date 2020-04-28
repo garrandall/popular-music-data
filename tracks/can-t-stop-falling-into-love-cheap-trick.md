@@ -64,7 +64,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-10-20'
 ---
-Yeah, ooh ooh, yeah yeah
+Yeah, oh oh, yeah yeah
 
 Hey little ladies there's some cool young dude
 Just standin' in line and waitin' for you
@@ -89,7 +89,7 @@ But I know you take it, you can make it all right
 It's time that you just can't hide
 But I can't control myself, oh no no no
 I know what you've been waitin' for
-'Cause love can't be denied, yeah ooh
+'Cause love can't be denied, yeah oh
 
 Can't stop fallin' into love
 What's my heart been dreamin' up
@@ -111,12 +111,12 @@ What's my heart been dreamin' up
 Who's that falling' into love
 Is it you I'm thinkin' of
 
-I cant stop fallin' into love ooh
+I can't stop fallin' into love oh
 What's my heart been dreamin' up
 No matter what I think or do or say hey
 I keep fallin' into love
 
-I cant stop fallin' into love ooh
+I can't stop fallin' into love oh
 Every pretty girl that I see, gets the best of me
 Who's that falling' into love
 Is it you I'm thinkin' of

@@ -102,9 +102,6 @@ All the shit I do is straight off the temple
 Trynna squeeze it into my schedule is like a pimple
 Tell that poodle, "don't mess around with them pitbulls."
 
-
-
-
 This the endin' from the N9ne
 Grindin' bitches from behind
 If you way drunk off the 'yac
@@ -117,12 +114,8 @@ This is celebration, this is elevation
 Me and my delegation got niggas hella hatin'
 This is Nnutthowze, Regime, Rogue Dog
 And it's all Strange Music, winners can't lose it, unless
-Errbody got they hands up like (Oooh!)
-See a bad bitch like (Wooah!)
+Errbody got they hands up like (Oh!)
+See a bad bitch like (Woah!)
 This whole damn city fuckin' go
 But this is how the hood go crazy in the MO
-
-
-
-
 

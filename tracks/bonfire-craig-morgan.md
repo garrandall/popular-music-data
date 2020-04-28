@@ -85,13 +85,13 @@ When old Sheriff John pulled up
 We all got a little nervous
 It's too late to hide our cups
 He pops a top and hollers real loud
-Dont worry yall i came to hang out
+Dont worry yall I came to hang out
 
 
 
-You dont have to be from around here
+You don't have to be from around here
 To know right where to go
-All you gotta do is load up 
+All you gotta do is load up
 And head towards glow
 
 

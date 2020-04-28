@@ -60,12 +60,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
 ---
-Oooh, what a good thing I've got
+Oh, what a good thing I've got
 Oh, it's such a good thing I've got
 I don't think I can stand it
 
 Thunder and lightning, oh yeah!
-I tell you it's frightening, oooh!
+I tell you it's frightening, oh!
 It's thunder and lightning
 And you're in control
 

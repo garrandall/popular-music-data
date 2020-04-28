@@ -212,8 +212,8 @@ I look fly and they jocking (Word)
 The way you drop, drop makes me wanna pop
 I got friends and you got friends (Word)
 They hop out, and you hop in (Word, hey)
-I look fly and they jocking (Word, ooh)
-The way you drop, drop makes me wanna pop (Ooh, ooh)
+I look fly and they jocking (Word, oh
+The way you drop, drop makes me wanna pop (Oh oh
 
 
 Is ya man (Man) on the floor? (Floor, uh-huh)
@@ -254,7 +254,7 @@ We can be friends, switch and meet friends
 
 
 Is ya man (Man, oh) on the floor? (Floor)
-If he ain't (Ain't), lemme know (Know, ooh, ooh, yeah)
+If he ain't (Ain't), lemme know (Know, oh oohyeah)
 Let me see if you can run it, run it
 Girl, indeed I can run it, run it (Oh, woah-oh)
 Is ya man (Man, oh, woah-oh) on the floor? (Floor)

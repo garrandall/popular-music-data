@@ -100,7 +100,7 @@ Stay in the kitchen, cooking up, got your own bread (You do)
 Heart full of equity, you're an asset (Uh huh)
 Make sure that you don't need no mentions (No mentions)
 Yeah, these are my only intentions (Only intentions)
-(That's all I plan to do, ooh)
+(That's all I plan to do, oh
 
 
 

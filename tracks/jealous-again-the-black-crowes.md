@@ -84,7 +84,3 @@ Am I just too proud
 Am I just plain lazy
 Am I, Am I, Am I, ever
 
-
-
-
-

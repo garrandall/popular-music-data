@@ -44,7 +44,7 @@ rankings:
 Baby, I'm back
 And right away I have come to you
 To see if the love that we knew before
-Has past the test of time, ooh
+Has past the test of time, oh
 Time could change almost everything
 Sometimes it seems the better side are the
 Feelings we once shared
@@ -62,7 +62,7 @@ One more time
 
 Now baby, I know that you think I will be different now
 Inside of me nothing has changed
-So I'm asking you again, ooh
+So I'm asking you again, oh
 Please no one else could have brought me back
 No one could ever change, the memory I kept within my heart
 

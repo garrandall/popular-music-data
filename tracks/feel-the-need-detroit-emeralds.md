@@ -37,12 +37,12 @@ Can't you see my arms are open wide, mmm-mmm
 Feel the need, oh, feel, feel the need in me
 
 (I need your love)
-Ev'ry day I need it (Love), ev'ry day I want it (Love)
+Every day I need it (Love), every day I want it (Love)
 Without your sweet, sweet love I'd rather die
 
 (I need your love)
 I need it constantly (Love), your love takes care of me (Love)
-Your love is better to me than applepie, oooh
+Your love is better to me than applepie, oh
 
 Just put your hand in mine, love me all the time
 The proof you will plainly see, mmm-mmm
@@ -50,7 +50,7 @@ Feel the need, oh, feel, feel the need in me
 
 Ah
 I need you on the case to keep my heart in place
-You make me what I need to be, oooh
+You make me what I need to be, oh
 Feel the need, oh feel, feel the need in me
 
 Oh, your love is tough, now can't get enough
@@ -62,16 +62,16 @@ Can't you see my arms are open wide?
 Feel the need, oh feel it, feel the need in me
 
 (I need your love)
-Ev'ry day I need it (Love), ev'ry day I want it (Love)
+Every day I need it (Love), every day I want it (Love)
 Without your sweet, sweet love I'd rather die
 
 (I need your love)
 I need it constantly (Love), your love takes care of me (Love)
-Your love is better to me than cherry-pie, oooh
+Your love is better to me than cherry-pie, oh
 
 See how I'm walkin', see how I'm talkin'
 Notice everything in me
-Feel the need, oh, feel it, feel the need in me, ah, oooh
+Feel the need, oh, feel it, feel the need in me, ah, oh
 
 Just put your hand in mine, love me all the time
 The proof you will plainly see

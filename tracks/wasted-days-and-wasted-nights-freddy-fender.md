@@ -108,7 +108,7 @@ And why should I call your name
 When you're the blame for making me blue
 
 
-Oooh, oooh. ooh
+Oh, ohoh
 (Music)
 
 

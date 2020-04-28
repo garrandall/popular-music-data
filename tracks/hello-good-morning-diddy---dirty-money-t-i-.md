@@ -112,7 +112,7 @@ Still life but it's looking like a movie...
 (You know, you know, you know, we on that)
 And everybody know who the truth be
 (You know, you know, you know, we on that)
-I blow cause I'm blowing on that oo-wee!!
+I blow cause I'm blowing on that oo-wee!
 (You know, you know, you know, we on that)
 Hello
 
@@ -156,7 +156,7 @@ Still life but it's looking like a movie...
 (You know, you know, you know, we on that)
 And everybody know who the truth be
 (You know, you know, you know, we on that)
-I blow cause I'm blowing on that oo-wee!!
+I blow cause I'm blowing on that oo-wee!
 (You know, you know, you know, we on that)
 Hello
 
@@ -198,7 +198,7 @@ Still life but it's looking like a movie...
 (You know, you know, you know, we on that)
 And everybody know who the truth be
 (You know, you know, you know, we on that)
-I blow cause I'm blowing on that oo-wee!!
+I blow cause I'm blowing on that oo-wee!
 (You know, you know, you know, we on that)
 Hello
 

@@ -54,11 +54,11 @@ I'll bring it back, bring it back, yeah
 Got a lil' mama in my telephone, she jumpin' all up on me yo (Ayy)
 Hoes all in my section, I don't want 'em, kick them bitches out like "Vamanos" (Ayy, ayy, ayy)
 We can work it out, lil' mama, all we need is just a little cardio (Ayy)
-Yeah, she the type of woman if we cannot do it, I will catch a body for (Ooh yeah, yeah)
-Call my accountant, bought my bitch new Beamer, she whip 7-Series, yeah (Ooh yeah, yeah)
-I spend whatever, girl, I do whatever to show you I'm serious (Ooh yeah, yeah)
+Yeah, she the type of woman if we cannot do it, I will catch a body for (Ohyeah, yeah)
+Call my accountant, bought my bitch new Beamer, she whip 7-Series, yeah (Ohyeah, yeah)
+I spend whatever, girl, I do whatever to show you I'm serious (Ohyeah, yeah)
 That sound familiar, they just talkin' shit because they feel inferior
-Ooh yeah, that's just how we go
+Ohyeah, that's just how we go
 
 You see the writing on the wall
 Hold onto me and I'ma hold ya
@@ -101,9 +101,9 @@ You see the writing on the wall
 I'll bring it back, bring it back, yeah
 
 La-la-la, la-la-la
-La-la-la (Okurr) ohh
+La-la-la (Okurr) oh
 La-la-la (What you want?), la-la-la
-La-la-la, ohh
+La-la-la, oh
 
 
 

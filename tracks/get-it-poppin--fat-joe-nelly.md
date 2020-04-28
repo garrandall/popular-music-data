@@ -158,17 +158,17 @@ It's two up in the mornin girl, and the DJ playin that song
 Now what'chu gon' do? (I'ma get get get it poppin)
 Now what'chu gon' do? (I'ma get get get it poppin)
 
-Well it's two up in the mornin and, them niggaz try'n hate on your crew
+Well it's two up in the mornin and, them niggas try'n hate on your crew
 Nigga what'chu gon' do? (I'ma get get get it poppin)
 Yeah what'chu gon' do? (I'ma get get get it poppin)
 
 
 Now when them doors swing open with that awkward motion
 What'chu call it - suicide, it's a suicide
-And if them niggaz talk shit cause they drunk off that potion
+And if them niggas talk shit cause they drunk off that potion
 They commitin - suicide, it's a suicide
-Let's get it poppin my niggaz (Cook, yo)
-I got a shotty my niggaz (oh, Lord)
+Let's get it poppin my niggas (Cook, yo)
+I got a shotty my niggas (oh, Lord)
 I feel sorry for your mudda, give a fuck what you say
 Spin your head back, promote you on a videotape
 

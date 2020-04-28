@@ -58,7 +58,7 @@ What now?
 I just can't figure it out
 What now?
 I guess I'll just wait it out (Wait it out)
-What now? Oh-oh-oh-ohh
+What now? Oh-oh-oh-oh
 What now?
 
 

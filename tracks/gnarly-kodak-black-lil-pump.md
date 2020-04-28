@@ -52,21 +52,21 @@ One, two, three, let's get gnarly (Yeah)
 One, two, three, let's get gnarly
 
 
-One, two, three, bitch, I'm off the Molly (Off the Molly, ooh)
+One, two, three, bitch, I'm off the Molly (Off the Molly, oh
 My diamonds, they got E and C 'cause they retarded (They retarded)
-Bitch, is you stupid? Look what you just started (Ooh, huh?)
+Bitch, is you stupid? Look what you just started (Oh, huh?)
 Coulda bought a Lambo, I got Aston-Martin (Uh)
-Lil Pump, ooh, all my bitches, they come in twos (Huh?)
+Lil Pump, oh all my bitches, they come in twos (Huh?)
 And I sold crack to your nephew (Yeah)
-Put my dick in her, oh, pussy loose (Ooh)
-Ooh, goddamn, whippin' up Sam (Brrt)
+Put my dick in her, oh, pussy loose (Oh)
+Oh, goddamn, whippin' up Sam (Brrt)
 Put my dick in her mouth, put her on the 'Gram (Yeah)
 Diamonds on my neck, yeah, they light up like a lamp (Huh?)
-Woke up, Xanned out, in the boot camp (Uh, ooh, brrt)
+Woke up, Xanned out, in the boot camp (Uh, oh brrt)
 Lil bitch, I told you that you ain't important (Ain't important)
-I heard you ain't got no papers so you got deported (Yeah, ooh)
+I heard you ain't got no papers so you got deported (Yeah, oh
 I woke up in the mornin' with another warrant (Goddamn)
-Well, bitch ain't gonna catch me 'cause I'm still tourin' (Ooh, yeah)
+Well, bitch ain't gonna catch me 'cause I'm still tourin' (Oh, yeah)
 
 
 I just took Cialis, but she on a molly (Ayy)

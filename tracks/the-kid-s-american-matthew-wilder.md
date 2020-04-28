@@ -101,9 +101,6 @@ Try to take it slow
 Oh, no
 Yeah, yeah
 
-
-
-
 Dragging on all night
 Til there's nothing left
 By morning light

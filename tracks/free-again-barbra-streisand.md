@@ -52,7 +52,7 @@ Time to call up all the crowd
 Raise the roof and shout out loud
 Time to have a party!
 Lucky me, take a look at lucky, lucky me
-Back to where I used to be! Back to where I used to be !
+Back to where I used to be! Back to where I used to be!
 Free again... Free again...
 Free...
 

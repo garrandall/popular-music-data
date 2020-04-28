@@ -69,8 +69,5 @@ When you got back, I'd just say welcome home
 Cause honey nothing, nothing, nothing can ever change this, love I have, for you
 Wo-oh-oh-oh
 
-
-
-
 I know, I know, I know, I know, I know that nothing, nothing, nothing can ever
 Change the love I have for you

@@ -29,7 +29,7 @@ rankings:
   start_date: '1972-08-19'
 ---
 Yeah, hey
-Ahh, mmm
+Ah, mmm
 
 You're my life when shadows fall
 You're my hope when faith is lost
@@ -43,7 +43,7 @@ Until your love captured me
 And if I should lose your tender touch
 I would have lost the very joy I need so much
 
-Oh, oh, ooh, yeah
+Oh, oh, oh, yeah
 Oh, oh, woo, yeah
 
 You're my life, my everything
@@ -72,7 +72,7 @@ I could never be happy without you
 (You got to understand)
 I could never be happy without you
 I could never be happy without you
-You're my life, ooh
+You're my life, oh
 
 I'll never be happy
 (No, no)

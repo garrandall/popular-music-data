@@ -91,7 +91,7 @@ Mr. Dog, I'm gonna hit you on the top a yo' head
 The *Batgirl's gonna miss you
 And you'll wish that you were dead
 
-If you don't lee-eee-eave my kitten alone
+If you don't lee-ee-eave my kitten alone
 Yes, I love my little kitten
 Like all you hounddogs love your bone
 
@@ -99,7 +99,7 @@ Oh yeah
 You better leave
 You better leave
 FADES-
-You better lee-eee-eee-eave.
+You better lee-ee-ee-eave.
 
 Note:
 * Mr. Dog ('The Bathound) and *Batgirl, might refer to the comic characters from the 50's in Batman and Detective Comic Books.

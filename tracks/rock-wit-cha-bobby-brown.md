@@ -98,7 +98,7 @@ Lady, you know just what I need
 I want to hold you, oh, so tight
 
 Baby, just touch me anywhere
-Cutie, you turn me on, ooh, baby
+Cutie, you turn me on, oh, baby
 I'd like to run my fingers through your hair
 So come on and stay with me all night
 
@@ -115,8 +115,8 @@ No, sweet baby
 No
 
 I want a little music now
-Let's hear some Marvin Gaye, ooh
-Ooh, let me rub your shoulders down
+Let's hear some Marvin Gaye, oh
+Oh, let me rub your shoulders down
 Let's dance the night away
 
 Feel your heart beating next to mine
@@ -145,7 +145,7 @@ Makin' sweet love and don't ever stop
 Oh...baby
 
 I wanna rock wit'cha, baby
-Ooh...girl, all night long
+Oh...girl, all night long
 I wanna roll wit'cha, lady
 Feeling's so, feeling's so strong, hey, girl
 I wanna rock wit'cha, baby

@@ -60,7 +60,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
 ---
-Ooh, yeah
+Oh, yeah
 
 
 What you see is what you get
@@ -69,7 +69,7 @@ What you see is what you get
 Nothing more and nothing less
 
 
-Ooh
+Oh
 I been watching your eyes
 Looking for someone
 (Time...)
@@ -91,7 +91,7 @@ What you see is what you get
 You get nothing more and nothing less, no
 
 
-Ooh, move closer, baby
+Oh, move closer, baby
 Come on, keep me company
 Say, do anything but
 Don't try rearranging me

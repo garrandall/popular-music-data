@@ -2,7 +2,7 @@
 artists:
 - Faith Evans
 features:
-- Missy "Misdemeanor" Elliott
+- Missy Elliott
 genres: []
 key: burnin--up-faith-evans-missy--misdemeanor--elliott
 lyrics_url: https://genius.com/Faith-evans-burnin-up-remix-lyrics
@@ -98,7 +98,7 @@ Baby come and take me there (I'm burnin up!)
 Trust me you should (Hurry up!) Baby I'm just (burnin up! burnin up!)
 
  (P.Diddy)
-(It's gettin hot in here!!!)
+(It's gettin hot in here!)
 I'm burnin up like a match (Missy: Match) layin on my back (Missy: Back)
 Thirty eight deezy a that's just baby fat
 Why you so upset? Cause you want some putty cat
@@ -112,7 +112,7 @@ Can you rescue me? Ay yo Faith where you at?
 In the midnight hour, wait a minute
 I can be in a lonely place
 Then along you come with the sweetest thing to say
-And put the sun in my day (It's gettin hot in here!!!)
+And put the sun in my day (It's gettin hot in here!)
 I really wish you would
 
 
@@ -122,9 +122,9 @@ Baby come and take me there (I'm burnin up!)
 Trust me you should (Hurry up!) Baby I'm just (burnin up!)
 Baby come and rescue me (I'm burnin up!)
 I got somethin' for you to see (I'm burnin up!)
-Oooh oooh oooh oh oh (I'm burnin up!)
+Oh ohhohoh (I'm burnin up!)
 Trust me you should (Hurry up!) Baby I'm just (burnin up! burnin up!)
-(P.Diddy: It's gettin hot in here AAAAoooooooowwwwwwww!!!!)
+(P.Diddy: It's gettin hot in here AAAAoooooooowwwwwwww!)
 
 
 Burning up! My heart is like burnin up!

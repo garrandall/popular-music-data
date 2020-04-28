@@ -92,7 +92,7 @@ rankings:
 
 
 Oh when it all, it all falls down
-I'm telling you ohh, it all falls down
+I'm telling you oh, it all falls down
 
 
 Man I promise, she's so self conscious
@@ -132,9 +132,6 @@ We trying to buy back our 40 acres
 And for that paper, look how low we a'stoop
 Even if you in a Benz, you still a nigga in a coop/coupe
 
-
-
-
 I say fuck the police, thats how I treat em
 We buy our way out of jail, but we can't buy freedom
 We'll buy a lot of clothes when we don't really need em
@@ -151,8 +148,4 @@ I wanna act ballerific like it's all terrific
 I got a couple past due bills, I won't get specific
 I got a problem with spending before I get it
 We all self conscious I'm just the first to admit it
-
-
-
-
 

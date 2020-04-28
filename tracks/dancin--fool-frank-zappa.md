@@ -76,13 +76,13 @@ I'm a Dancin' fool
 
 The beat goes on
 And I'm so wrong
-(Ahhhhhh)
+(Ah)
 The beat goes on
 And I'm so wrong
-(Ahhhhhh)
+(Ah)
 The beat goes on
 And I'm so wrong
-(Ahhhhhh)
+(Ah)
 
 The beat goes on and I'm so wrong
 The beat goes on and I'm so wrong
@@ -121,7 +121,7 @@ I may be totally wrong but I'm a
 I may be totally wrong but I'm a
 I May Be Totally wrong but I'm a FOOL, yeah! Uh!
 
-Hey, darlin'... can I buy ya a couple 'a drinks, Hmm?
+Hey, darlin'... can I buy ya a couple 'a drinks, Hm?
 Lookin' for Mister Goodbar?
 Here he is...
 Wait a minute...

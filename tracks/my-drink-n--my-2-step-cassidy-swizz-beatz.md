@@ -134,9 +134,6 @@ But I'm standin in the booth and the skills are still here
 Yeah, the hustler home, the hustler home
 Let's celebrate a toast with a cup of Patron
 
-
-
-
 Yeah yeah put your dutch in the air
 Smoke haze, let the smoke raise up in the air
 You mighta seen me in the 'ghini at a couple affairs
@@ -146,8 +143,4 @@ I done sweat, I done bled, shed a couple of tears
 I ain't stressin, it's a blessin that the hustler here
 Let's celebrate a toast, put your cup in the air
 YEAH~!
-
-
-
-
 

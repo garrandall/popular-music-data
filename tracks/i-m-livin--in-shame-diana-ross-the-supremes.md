@@ -41,7 +41,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-15'
 ---
-Ooh-ooh-ooh
+Oh-oh-oh
 
 Mom was cooking bread
 She wore a dirty, raggedy scarf around her head
@@ -86,6 +86,6 @@ Mama, I miss you
 Won't you forgive me, Mom?
 For all the wrong I've done
 I know you've done your best
-Ooh, I know you've done the very best you could
+Oh, I know you've done the very best you could
 But I never understood
 Working hard down on your knees

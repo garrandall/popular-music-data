@@ -89,7 +89,3 @@ That fleek, that freak, no classy stuff
 Been pushin' up, don't pussy out
 Bitch, what you really on?
 
-
-
-
-

@@ -27,7 +27,6 @@ Reached down and grabbed my knee
 My whole life flashed before my eyes
 I said this can't be happining to me
 
-Chorus
 
 Turn loose of my leg
 I don't know you that well
@@ -57,7 +56,6 @@ And kiss me on the mouth
 You make me want to crawl the walls
 When your hands start flying south
 
-Chorus
 
 (Spoken)
 Animal

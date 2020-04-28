@@ -23,8 +23,8 @@ Alright you Chipmunks, Ready to sing your song?
  OK
  Okay, Theodore?
  OK
- Okay Alvin?...Alvin?...ALVIN!!!
- OKAY!!
+ Okay Alvin?...Alvin?...ALVIN!
+ OKAY!
 
 
 Christmas, Christmas time is near
@@ -44,8 +44,8 @@ That was very good, Simon
  Very Good Theodore
  He He He He
  Uh Alvin, You were a little flat
-Watch it, Alvin...Alvin?...ALVIN!!!
- OKAY!!
+Watch it, Alvin...Alvin?...ALVIN!
+ OKAY!
 
 
 Want a plane that loops the loop

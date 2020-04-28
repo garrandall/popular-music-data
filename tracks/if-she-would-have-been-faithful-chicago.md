@@ -119,7 +119,3 @@ How I got from there to here
 It defies a
 Logical explanation
 
-
-
-
-

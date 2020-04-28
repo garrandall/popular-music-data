@@ -116,8 +116,8 @@ So say you'll stay with me tonight
 'Cause there is so much wrong goin' on outside
 
 
-Ooh-ooh, ooh-ooh
-Ooh-ooh-ooh, ooh-ooh-ooh
+Oh-oh, oh-oh
+Oh-oh-oh, oh-oh-oh
 
 
 Walk me home in the dead of night

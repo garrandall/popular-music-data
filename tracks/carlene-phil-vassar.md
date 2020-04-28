@@ -101,7 +101,7 @@ When this red head pulled up in a blue sports car
 She said, "I bet you don't remember, I guess it's been forever."
 It took a second to put it all together and I said.
 
-Ooh la la la la la
+Ohla la la la la
 Looking good Carlene
 Woh my my my my my
 Times been good to you
@@ -121,7 +121,7 @@ I said you've come a long way since graduation
 Let me say without hesitation
 You've surpassed everyone's expectations
 
-Ooh la la la la la
+Ohla la la la la
 Looking good Carlene
 Woh my my my my my
 Times been good to you
@@ -136,17 +136,17 @@ Pick me up at my Momma's at eight!
 
 And I said.
 
-Ooh la la la la la
+Ohla la la la la
 Looking good Carlene
 Woh my my my my my
 Times been good to you
 If you know what I mean
-Ooh la la la la la
+Ohla la la la la
 Looking good Carlene
 Woh my my my my my
 Times been good to you
 If you know what I mean
-Ooh la la la la la
+Ohla la la la la
 Looking good Carlene
 Woh my my my my my
 Times been good to you

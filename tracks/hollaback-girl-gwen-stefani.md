@@ -146,10 +146,10 @@ So it's not just gonna happen like that
 I ain't no Hollaback Girl
 
 
-Ooh, this my shit, this my shit
-Ooh, this my shit, this my shit
-Ooh, this my shit, this my shit
-Ooh, this my shit, this my shit
+Oh this my shit, this my shit
+Oh this my shit, this my shit
+Oh this my shit, this my shit
+Oh this my shit, this my shit
 
 
 I heard that you were talking shit
@@ -172,10 +172,10 @@ So it's not just gonna happen like that
 I ain't no Hollaback Girl
 
 
-Ooh, this my shit, this my shit
-Ooh, this my shit, this my shit
-Ooh, this my shit, this my shit
-Ooh, this my shit, this my shit
+Oh this my shit, this my shit
+Oh this my shit, this my shit
+Oh this my shit, this my shit
+Oh this my shit, this my shit
 
 
 So that's right dude, meet me at the bleachers
@@ -198,10 +198,10 @@ So it's not just gonna happen like that
 I ain't no Hollaback Girl
 
 
-Ooh, this my shit, this my shit
-Ooh, this my shit, this my shit
-Ooh, this my shit, this my shit
-Ooh, this my shit, this my shit
+Oh this my shit, this my shit
+Oh this my shit, this my shit
+Oh this my shit, this my shit
+Oh this my shit, this my shit
 
 
 Let me hear you say, this shit is bananas
@@ -224,7 +224,7 @@ So it's not just gonna happen like that
 I ain't no Hollaback Girl
 
 
-Ooh, this my shit, this my shit
-Ooh, this my shit, this my shit
-Ooh, this my shit, this my shit
-Ooh, this my shit, this my shit
+Oh this my shit, this my shit
+Oh this my shit, this my shit
+Oh this my shit, this my shit
+Oh this my shit, this my shit

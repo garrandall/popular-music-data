@@ -93,9 +93,9 @@ rankings:
   start_date: '1981-10-10'
 ---
 
-Ooh wah, ooh wah cool, cool kitty
+Oh wah, ohwah cool, cool kitty
 Tell us about the boy from New York City
-Ooh wah, ooh wah c'mon kitty
+Oh wah, ohwah c'mon kitty
 Tell us about the boy from New York City
 
 He's kind of tall
@@ -105,11 +105,11 @@ And he's neat
 And oh so sweet
 And just the way he looked at me
 He swept me off my feet
-Ooh whee, you ought to come and see
+Oh whee, you ought to come and see
 How he walks
 And how he talks
 
-Ooh wah, ooh wah cool, cool kitty
+Oh wah, ohwah cool, cool kitty
 Tell us about the boy from New York City
 
 He's really down
@@ -118,7 +118,7 @@ He has the finest penthouse I've ever seen in town
 And he's cute
 In his mohair suit
 And he keeps his pockets full of spending loot
-Ooh whee, say you ought to come and see
+Oh whee, say you ought to come and see
 His dueling scar
 And brand new car
 
@@ -126,7 +126,7 @@ Every time he says he loves me
 Chills run down my spine
 Every time he wants to kiss me
 He makes me feel so fine
-Ooh wah, ooh wah cool, cool kitty
+Oh wah, ohwah cool, cool kitty
 Tell us about the boy from New York City
 
 Well he can dance
@@ -140,13 +140,13 @@ With just one glance
 He was shy
 And so was I
 And now I know I'll never, ever say goodbye
-Ooh whee, say you ought to come and see
+Oh whee, say you ought to come and see
 He's the most
 From coast to coast
 
-Ooh wah, ooh wah cool, cool kitty
+Oh wah, ohwah cool, cool kitty
 Tell us about the boy from New York City
-Ooh wah, ooh wah c'mon kitty
+Oh wah, ohwah c'mon kitty
 Tell us about the boy from New York City
 
 

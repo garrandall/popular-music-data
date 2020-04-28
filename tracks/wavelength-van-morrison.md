@@ -71,7 +71,7 @@ You never let me down, no
 
 When I'm down you always comfort me
 When I'm lonely you see about me
-You are ev'ry where you're 'sposed to be
+You are every where you're 'sposed to be
 And I can get your station
 When I need rejuvenation
 

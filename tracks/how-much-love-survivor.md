@@ -53,17 +53,16 @@ To see it through my eyes
 Don't deny that part of you
 That's been dying for it too
 
-(chorus)
---How do I know if I give you too much
+How do I know if I give you too much
 Will I scare you away
 How do I know when to leave you alone
 When to beg you to stay
---I wanna know
+I wanna know
 Just how much love does it take
---to get to you
+to get to you
 I stand here ready to break
---Tell me, tell me
---How much love does it take
+Tell me, tell me
+How much love does it take
 
 Moment to moment
 I don't know where it stands
@@ -74,10 +73,9 @@ So softly in a touch
 If it's all a waste of time
 Well I'm only wasting mine
 
-(chorus)
 How do I know when to leave you alone
 When to beg you to stay
---I wanna know
+I wanna know
 
 Just how much love does it take
 To get to you

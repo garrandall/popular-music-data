@@ -92,11 +92,11 @@ Although I need you, I'm not gonna make this
 You know I want to but I'm in too deep
 
 So listen, listen to me
-Ooh, you must believe me
+Oh you must believe me
 I can feel your eyes go through me
 But I don't know why
 
-Ooh, I know you're going but I can't believe
+Oh I know you're going but I can't believe
 It's the way that you're leaving
 It's like we never knew each other at all, it may be my fault
 I gave you too many reasons, being alone, when I didn't want to

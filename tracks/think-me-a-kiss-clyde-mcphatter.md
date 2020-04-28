@@ -65,7 +65,7 @@ Running around in space
 She was calling somebody else
 And I wind up on a wild goose chase
 
-Ooh, but I keep on hearing love notes
+Oh, but I keep on hearing love notes
 Coming in loud and strong
 I better find my baby
 And get home to me

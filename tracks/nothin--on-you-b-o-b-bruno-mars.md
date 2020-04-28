@@ -177,7 +177,7 @@ But you shouldn't worry, about what they say
 (Nuh-nuh-nuh-nothing on you babe, nuh-nothing on you)
 Nothing on you, baby
 (Nuh-nuh-nuh-nothing on you babe, nuh-nothing on you)
-Yeaaaaah
+Yeah
 
 
 Hands down, there will never be another one (nope!)

@@ -16,11 +16,11 @@ rankings:
 ---
 
 
-Ooh-ooh-ooh, got you grindin' all on that
+Ohohoohgot you grindin' all on that
 Ridin' all on that thing, make a young nigga eyes roll in my brain
 What we gon' do? I can barely keep control
 Catch the vibe of me, get the feel of me, vibe with me
-Ooh-ooh-ooh, got you grindin' all on that
+Ohohoohgot you grindin' all on that
 Ridin' all on that thing, make a young nigga eyes roll in my brain
 What we gon' do? I can barely keep control
 Catch the vibe of me, get the feel of me, vibe with me
@@ -39,17 +39,17 @@ Please don't run away
 Please don't stray away
 
 
-Ooh-ooh-ooh, got you grindin' all on that
+Ohohoohgot you grindin' all on that
 Ridin' all on that thing, make a young nigga eyes roll in my brain
 What we gon' do? I can barely keep control
 Catch the vibe of me, get the feel of me, vibe with me
 (Oh, yeah)
 
 
-Ooh-ooh-ooh, I can barely keep control
+OhohoohI can barely keep control
 When you're grindin' all on me
 Ridin' all on me, girl, you take my soul, yeah (Yeah)
-Ooh-ooh-ooh, you look like the girl of my dreams (Dreams)
+Ohohoohyou look like the girl of my dreams (Dreams)
 My heart is on lock, need a key (Key)
 It's right in your pocket', you see
 All sex, no stress (Stress)
@@ -61,7 +61,7 @@ And girl, you know I'm all in' for you (Yeah)
 And I'm in love with you, everything you do
 
 
-Ooh-ooh-ooh, got you grindin' all on that
+Ohohoohgot you grindin' all on that
 Ridin' all on that thing, make a young nigga eyes roll in my brain
 What we gon' do? I can barely keep control
 Catch the vibe of me, get the feel of me, vibe with me

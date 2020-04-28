@@ -107,7 +107,7 @@ If you still care
 Listen to my heart beat... for you, baby
 (Tell me) if you still care about me
 Do you feel the same way too?
-Tell me (Ooh, tell me) if you still care about me
+Tell me (Oh tell me) if you still care about me
 Baby, I still care
 Tell me (Tell me) if you still care about me
 Baby, you're my number one

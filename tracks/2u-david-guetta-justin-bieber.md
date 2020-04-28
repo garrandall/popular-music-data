@@ -55,7 +55,7 @@ rankings:
 ---
 Keine Grenze in der Luft, die ich nicht für dich überquere
 Kein Anzahl von Tränen in meinen Augen, die ich nicht für dich weine
-Oooh nein
+Oh nein
 Mit jedem Atemzug, den ich mache
 Möchte ich, dass du die Luft mit mir teilst
 Es gibt kein Versprechen, das ich nicht halte
@@ -78,9 +78,9 @@ Möchte, dass du das teilst
 
 
 Amor in einer Linie, der Pfeil hat deinen Namen drauf
-Oooh yeah
+Oh yeah
 Verpasse keine Liebe und bereue deine eigenen Taten dabei
-Oooh
+Oh
 Öffne deinen Geist, mach deinen Kopf frei
 Werde nicht zu einem leeren Bett aufwachen
 Teile mein Leben, es ist für dich es zu behalten

@@ -89,7 +89,7 @@ Politician Grannie with your high ideals
 Have you no idea how the Majority feels?
 So without love and a promised land
 We're fools to the rules of a Government plan
-Kick out the style ! Bring back the jam!
+Kick out the style! Bring back the jam!
 
 Sowing the Seeds of Love, seeds of love, seeds of love, sowing the seeds
 Sowing the seeds of love, seeds of love
@@ -121,7 +121,7 @@ Open your eyes
 High time we made a stand and shook up the views of the common man
 The lovetrain rides from coast to coast
 Every minute of every hour - " I Love a Sunflower "
-And I believe in lovepower, Love power, LOVEPOWER !!!
+And I believe in lovepower, Love power, LOVEPOWER!
 
 Sowing the Seeds of Love, seeds of love, seeds of love, sowing the seeds
 Sowing the Seeds of Love, seeds of love, seeds of love, sowing the seeds

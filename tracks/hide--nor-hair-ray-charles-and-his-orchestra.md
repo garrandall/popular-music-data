@@ -59,9 +59,6 @@ Well, I called the police department to find out what they knew
 They said, "No, by heck, but we will get her yet"
 Because they was looking for her too
 
-
-
-
 Well, I called my Dr. Foster and when the girl answered the phone
 I got a funny feeling, the way she said 'Dr. Foster had gone'
 She said, "He left with a lady patient, about twenty four hours ago"

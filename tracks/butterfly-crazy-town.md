@@ -176,7 +176,7 @@ Hey sugar momma, come and dance with me
 The smartest thing you ever did was take a chance with me
 Whatever tickles your fancy
 Girl it's me and you like Sid and Nancy
-So sexy....almost evil Talkin' about butterflies in my head
+So sexy...almost evil Talkin' about butterflies in my head
 I used to think that happy endings were only in the books I read but
 you made me feel alive when I was almost dead
 

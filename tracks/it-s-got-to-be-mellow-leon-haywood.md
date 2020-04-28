@@ -79,7 +79,7 @@ And oh yeah,
 (Chorus: she's my baby and I love her)
 And I'm her only fellow.
 (Chorus: and I place no one above her)
-Ooh, yeah, yeah.
+Oh, yeah, yeah.
 
 It's got to be mellow
 (Chorus: it's got to be mellow),

@@ -45,11 +45,11 @@ rankings:
   start_date: '1979-01-13'
 ---
 
-Ooh, girl, you know like I know, uh-huh
+Oh, girl, you know like I know, uh-huh
 What your lovin, girl, has done for me
 Like a Mona Lisa hangin on a wall, uh-huh
 
-You're a lovely sight, lovely sight to see, mmm, hmm
+You're a lovely sight, lovely sight to see, mmm, hm
 The way you give me your sweet love
 Any place and time when you look at me I get weak in my knees
 I'm so thankful that you're mine
@@ -71,7 +71,7 @@ Whose got the real macoy
 
 Sweetness is my weakness, yeah, yeah
 Sweetness is my weakness, yeah (Uh-huh), yeah (Uh-huh)
-Sweetness is my weakness, yeah (Ooh), yeah (Ooh)
+Sweetness is my weakness, yeah (Oh), yeah (Oh)
 Sweetness is my weakness, yeah, yeah
 Sweetness is my weakness
 

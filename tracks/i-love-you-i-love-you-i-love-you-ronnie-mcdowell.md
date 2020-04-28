@@ -37,7 +37,6 @@ And I use them to scold her
 And if the words should find their mark
 Maybe they will pierce your heart
 
-(Chorus)
 
 (Instrumental)
 
@@ -55,6 +54,5 @@ To set at ease to everything to me
 And, day by day, my love will grow
 The only thing is you don't know
 
-(Chorus)
 
 I love you, I love you, I love you

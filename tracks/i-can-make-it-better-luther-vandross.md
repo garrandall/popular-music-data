@@ -121,7 +121,7 @@ Don't be a link in his chain
 Go 'head and tell him it's over, tell him to go
 Oh darling, it's just a shame
 
-It's better for you, ooh, better for you
+It's better for you, oh better for you
 (I can make it better for you)
 Better for you, so much better for you
 (I can make it better, yeah, babe)

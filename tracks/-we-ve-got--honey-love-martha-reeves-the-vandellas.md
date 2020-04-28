@@ -33,7 +33,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
 ---
-Ooh, baby, we've tried love's recipe
+Oh, baby, we've tried love's recipe
 Added each ingredient tenderly
 A little bit of you, a little bit of me
 And we've got honey love
@@ -48,7 +48,7 @@ Oh, darling, every life needs
 Sugar and spice sometimes
 Each kiss adds a little sugar
 Just a pinch of spice
-Ooh, we've got a love divine
+Oh, we've got a love divine
 
 One day we'll put the icing on top
 The very day we tie that knot

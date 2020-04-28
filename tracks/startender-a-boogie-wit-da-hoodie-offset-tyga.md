@@ -54,13 +54,13 @@ Yeah, ah, haha
 
 
 Mmh, ain’t fuckin' with no off-brand bitch (Yeah)
-Ooh, don't think these niggas understand me (Yeah)
-Ooh, she let me touch it in Miami (Yeah)
-Ooh, I’m feelin' like I'm Biggaveli, uh, ooh, yeah
+Oh, don't think these niggas understand me (Yeah)
+Oh, she let me touch it in Miami (Yeah)
+Oh, I’m feelin' like I'm Biggaveli, uh, oh, yeah
 
 
-Ooh, I see it in you (You)
-You just left your man, that's too bad, ooh (Too)
+Oh, I see it in you (You)
+You just left your man, that's too bad, oh (Too)
 Pull up in a foreign like skrrt skrrt (Coupe)
 All up in your feelings, yeah you seem so hurt (Yeah)
 Eliantte chains, now it's time to run it up
@@ -70,13 +70,13 @@ Startenders, run it up
 
 
 Mmh, ain't fuckin' with no off-brand bitch (Yeah)
-Ooh, don't think these niggas understand me (Yeah)
-Ooh, she let me touch it in Miami (Yeah)
-Ooh, I’m feelin’ like I'm Biggaveli
+Oh, don't think these niggas understand me (Yeah)
+Oh, she let me touch it in Miami (Yeah)
+Oh, I’m feelin’ like I'm Biggaveli
 Mmh, ain’t fuckin' with no off-brand bitch (Yeah)
-Ooh, don't think these niggas understand me (Yeah)
-Ooh, she let me touch it in Miami (Yeah)
-Ooh, I'm feelin’ like I'm Biggaveli (Offset)
+Oh, don't think these niggas understand me (Yeah)
+Oh, she let me touch it in Miami (Yeah)
+Oh, I'm feelin’ like I'm Biggaveli (Offset)
 
 
 Hundred in my fanny, yeah (Hundred)
@@ -94,13 +94,13 @@ I put the Nawf up on my back, I get the M's and feed 'em (Hey)
 
 
 Mmh, ain't fuckin' with no off-brand bitch (Yeah)
-Ooh, don't think these niggas understand me (Yeah)
-Ooh, she let me touch it in Miami (Yeah)
-Ooh, I'm feelin' like I'm Biggaveli
+Oh, don't think these niggas understand me (Yeah)
+Oh, she let me touch it in Miami (Yeah)
+Oh, I'm feelin' like I'm Biggaveli
 Mmh, ain't fuckin' with no off-brand bitch (Yeah)
-Ooh, don't think these niggas understand me (Yeah)
-Ooh, she let me touch it in Miami (Yeah)
-Ooh, I'm feelin' like I'm Biggaveli, uh, ooh, yeah
+Oh, don't think these niggas understand me (Yeah)
+Oh, she let me touch it in Miami (Yeah)
+Oh, I'm feelin' like I'm Biggaveli, uh, oh, yeah
 
 
 Bitch, I'm number one like I'm Nelly (Nelly)
@@ -118,13 +118,13 @@ She gotta make it count, hit me up when you finished
 
 
 Mmh, ain't fuckin' with no off-brand bitch (Yeah)
-Ooh, don't think these niggas understand me (Yeah)
-Ooh, she let me touch it in Miami (Yeah)
-Ooh, I'm feelin' like I'm Biggaveli
+Oh, don't think these niggas understand me (Yeah)
+Oh, she let me touch it in Miami (Yeah)
+Oh, I'm feelin' like I'm Biggaveli
 Mmh, ain't fuckin' with no off-brand bitch (Yeah)
-Ooh, don't think these niggas understand me (Yeah)
-Ooh, she let me touch it in Miami (Yeah)
-Ooh, I'm feelin' like I'm Biggaveli, uh, ooh, yeah
+Oh, don't think these niggas understand me (Yeah)
+Oh, she let me touch it in Miami (Yeah)
+Oh, I'm feelin' like I'm Biggaveli, uh, oh, yeah
 
 
 Head, shoulders, knees, focus

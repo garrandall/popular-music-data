@@ -74,7 +74,7 @@ Could ya' maybe give me something?
 Before she sees that I've been
 
 Up, down, tryin' to get the feeling again
-All around.... tryin' to get the feeling again
+All around... tryin' to get the feeling again
 The one that made me shiver, made my knees start to quiver
 Every time she walked in
 And I've looked high, low, everywhere I possibly can
@@ -88,7 +88,7 @@ But whatever I've done I guess I just haven't done it too good
 'cause all that's left is yearnin'
 
 Cause I been up, down, tryin' to get the feeling again
-All around....tryin' to get the feeling again
+All around...tryin' to get the feeling again
 The one that made me shiver, made my knees start to quiver
 Every time she walked in
 And I've looked high, and low and everywhere I possibly can

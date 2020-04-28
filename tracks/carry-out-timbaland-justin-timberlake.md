@@ -115,7 +115,7 @@ rankings:
 ---
 
 
-Ha hah!! Eh-eh-eh, ha hah!!
+Ha hah! Eh-eh-eh, ha hah!
 Ah baby oh my baby down to (carry out)
 Ah baby oh my baby down to (carry out)
 I take your order when you steppin when you (carry out)

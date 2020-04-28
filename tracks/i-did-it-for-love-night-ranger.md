@@ -40,7 +40,6 @@ And when it all went wrong
 And there's no use hanging on
 I turned and walked away
 
-Chorus:
 I did it, I did it, I did it for love
 Now you wanna know
 Why I let you go
@@ -62,7 +61,6 @@ And now you stand and you say
 How could I walk away
 I love you too much to stay
 
-(chorus)
 Oh, I remember how it started
 And we felt so alive
 And the passion was burning inside

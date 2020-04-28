@@ -110,9 +110,9 @@ Love you more than I can say
 
 Whoa, whoa
 Yeah, yeah
-I miss you ev'ry single day
+I miss you every single day
 Why must my life be filled with sorrow
-Ooooh, oh
+Oh, oh
 I love you more than I can say
 
 Ah, don't you know I need you so
@@ -145,7 +145,7 @@ Love you more than I can say
 I love you more than I can say
 I love you more than I can say
 
-Oh-oh, ooooooh
+Oh-oh, oh
 (More than I can say)
 I love twice as much tomorrow
 (More than I can say)

@@ -124,8 +124,8 @@ Maybe there will come a time, when sooner or later I will make you see, baby
 If you needed somebody, the way that I need you
 If you wanted somebody, the way that I want you
 
-Ooh, if I could tell you now, the way you make me feel
-Ooh, if I could show you somehow, don't you know my lovin' is oh so real
+Oh, if I could tell you now, the way you make me feel
+Oh, if I could show you somehow, don't you know my lovin' is oh so real
 
 If you needed somebody, the way that I need you
 If you wanted somebody, the way that I want you

@@ -138,9 +138,6 @@ Anticipating
 As soon as forever is through
 I'll be over you
 
-
-
-
 As soon as my heart stops breakin'
 Anticipating
 (Anticipating)

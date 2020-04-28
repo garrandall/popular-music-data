@@ -135,7 +135,7 @@ Are yall wit me (yeah)
 I said fellas (yeah)
 Are yall wit me (yeah)
 Why don't you tell the girls what yall wanna do
-Ya wanna ooh-ahh-ahh-ahh-ahh-ooooh
+Ya wanna oh-ah-ah-ah-ah-oh
 That's right yo and I'm in the flow
 So pump up the volume along with the tempo
 I want everybody in the house to know
@@ -143,7 +143,7 @@ I came here tonight to hear the crowd go
 
 
 
-Pump it pump it come on now 
+Pump it pump it come on now
 
 Yeah, come on now
 
@@ -167,8 +167,4 @@ Yeah that's right yall and I am in the flow
 So pump up the volume along with the tempo
 Many have died tryin' to stop my show
 I came here tonight to here the crowd go
-
-
-
-
 

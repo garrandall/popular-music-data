@@ -98,11 +98,11 @@ Make yourself feel better.
 
 But it's not so bad
 You're only the best I ever had
-You dont want me back
+You don't want me back
 You're just the best I ever had.
 
 And it might take some time to patch me up inside
-but I cant take it so I, I run away and hide
+but I can't take it so I, I run away and hide
 And I might find in time that you were always right
 You're always right.
 
@@ -113,7 +113,7 @@ Could it be I'm haunted?
 
 But it's not so bad
 You're only the best I ever had
-You dont want me back
+You don't want me back
 You're just the best I ever had.
 
 You're just the best I ever had

@@ -113,7 +113,6 @@ Know that you need me
 I wrote the song, I know it's wrong
 Just let me go
 
-(Chorus)
 
 So when you say that you need me
 That you'll never leave me

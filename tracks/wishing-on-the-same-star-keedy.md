@@ -55,11 +55,9 @@ And when you're feeling alone
 Well just look up in the sky
 Oh and baby so will I
 
-Chorus
 
 No matter where you turn around
 It's the same sun that keeps shining down
 Wherever we'll be
 I know that we'll be
 
-Chorus

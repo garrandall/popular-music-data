@@ -47,13 +47,13 @@ Move your legs from side to side
 Clap your hands a little louder
 You can shinga ling
 And sock sock sock it to me
-So hear what i sat
+So hear what I sat
 And get on up and get away
 Girl let me help you do the pearl
 Got to keep on pushin
 Got to get through to you
 Girl you make me so happy
-Just as long as i can see you
+Just as long as I can see you
 Get on up and get away
 Sock sock sock it to me
 Da da ow

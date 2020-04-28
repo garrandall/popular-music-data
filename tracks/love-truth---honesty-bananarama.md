@@ -25,13 +25,11 @@ They'll always let you down
 And the one that's closest to you
 May not always be around
 
-(bridge 1)
 I never questioned
 The promises you made
 Every time I gave my heart
 I was betrayed
 
-(chorus 1)
 What a fool
 That I should ever believe
 In love, truth and honesty
@@ -42,21 +40,13 @@ I watch them come and go
 But I think everyone's in danger
 If they let their feelings show
 
-(bridge 2)
 There's a lesson
 And a price you have to pay
 If you give your heart
 Dont let it be betrayed
 
-(chorus 1)
-
-(chorus 2)
 What a fool
 Every time I find I'm deceived
 Where is the love, truth and honesty
 If you see it
 Won't you bring it on home to me
-
-(bridge 2)
-
-(chorus 1 & 2 ad lib)

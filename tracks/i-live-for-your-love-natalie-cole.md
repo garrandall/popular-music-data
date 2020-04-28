@@ -101,8 +101,8 @@ Stand up, stand on your own
 That's what they tell me
 You can make it alone
 
-Where does it say I have to move 
-Far away from you 
+Where does it say I have to move
+Far away from you
 To prove I'm strong
 Oh when, all it really proves
 Is I'm lonely without you
@@ -144,7 +144,7 @@ Cause darling
 
 I live for your love
 My baby, baby yeah
-I live for your love, oooohhh
+I live for your love, oh
 
 
 

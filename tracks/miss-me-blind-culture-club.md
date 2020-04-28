@@ -132,7 +132,7 @@ That I have to give
 Must be better than that kind
 It can make you rich
 It can make you poor
-But i know that you'll miss me blind
+But I know that you'll miss me blind
 
 I know you'll miss me
 I know you'll miss me

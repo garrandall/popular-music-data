@@ -49,9 +49,6 @@ Re-mem-mem, re-mem-mem-mem-ber oop-shoop
 Re-mem-mem, re-mem-mem-mem-ber oop-shoop then
 Then , remember then
 
-
-
-
 That night we fell in love
 Beneath the stars above
 That was a lovely summer night
@@ -71,7 +68,7 @@ Pyramid Remember then, then, then, then, then
  patta-past
  Why couldn't our love last?
  Can't last
- Wop, wop, patta patta pop-pop, shoo-wop-dah bop bop, ooh
+ Wop, wop, patta patta pop-pop, shoo-wop-dah bop bop, oh
 
 I'm broken-hearted now
 Since we have parted now

@@ -78,7 +78,7 @@ I was looking for love and I want your love baby love
 When you gonna get me Boom! there she was - for me
 
 (baby baby baby
-Ooh yeah
+Oh yeah
 There she was
 Drivin me out
 There she was)

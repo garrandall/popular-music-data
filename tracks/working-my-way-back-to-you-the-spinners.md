@@ -108,7 +108,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-05-31'
 ---
-Ooh, ooh-ooh
+Oh, oh-oh
 
 I'll keep working my way back to you, babe
 With a burning love inside
@@ -158,12 +158,12 @@ Been payin' every day (Do-do, do-do-do)
 (You, you, babe) I just gotta get back home
 
 Whoa, I'm really sorry for actin' that way
-I'm really sorry, ooh, little girl
+I'm really sorry, oh, little girl
 I'm really sorry for telling you lies for so long
 
 Oh, please, forgive me, girl, come on (Give me a chance)
 Won't you forgive me, girl, hey (Let's have romance)
-Ooh, forgive me, girl (Let's start again)
+Oh, forgive me, girl (Let's start again)
 Come on, forgive me, girl
 I want you over and over and over and over again
 

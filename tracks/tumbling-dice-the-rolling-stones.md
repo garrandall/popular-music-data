@@ -69,7 +69,7 @@ But baby, I can't stay,
 You got to roll me and call me the tumblin',
 Roll me and call me the tumblin' dice.
 Oh, my, my, my, I'm the lone crap shooter,
-Playin' the field ev'ry night.
+Playin' the field every night.
 Baby, can't stay,
 You got to roll me and call me the tumblin' (dice),
 Roll me and call me the tumblin' (Got to roll me.) dice.

@@ -110,7 +110,7 @@ Who needs tomorrow?
 We've got tonight, babe
 Why don't you stay?
 
-I know it's late, i know you're weary
+I know it's late, I know you're weary
 I know your plans don't include me
 
 Still here we are,

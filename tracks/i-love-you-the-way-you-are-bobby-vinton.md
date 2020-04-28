@@ -45,8 +45,8 @@ rankings:
   start_date: '1962-10-06'
 ---
 
-(ahh) Oh I love you the way-a-ay you are
-(ahh) Oh I love you the way-ay you are
+(ah) Oh I love you the way-a-ay you are
+(ah) Oh I love you the way-ay you are
 
 Always be faithful to me
 And near each tonight to hold so tight

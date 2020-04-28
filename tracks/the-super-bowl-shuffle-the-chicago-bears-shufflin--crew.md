@@ -86,9 +86,6 @@ Nobody messin' in my neighborhood
 I didn't come here lookin' for trouble
 I just came to do The Super Bowl Shuffle
 
-
-
-
 I'm the punky QB, known as McMahon
 When I hit the turf, I've got no plan
 I just throw my body all over the field
@@ -106,7 +103,7 @@ I'm slick on the floor as I can be
 But ain't no sucker gonna get past me
 Some guys are jealous
 Of my style and class
-That's why some end up on their 
+That's why some end up on their
 I didn't come here lookin' for trouble
 I just get down to The Super Bowl Shuffle
 
@@ -133,14 +130,11 @@ So please don't try to beat my hustle
 Cause I'm just here to do
 The Super Bowl Shuffle
 
-
-
-
 The sackman's comin', I'm your man Dent
 If the quarterback's slow
 He's gonna get bent
 We stop the run, we stop the pass
-I like to dump guys on their 
+I like to dump guys on their
 We love to play for the world's best fans
 You better start makin'
 Your Super Bowl plans

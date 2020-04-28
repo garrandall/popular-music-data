@@ -37,7 +37,7 @@ I promise you this though you got a friend for life
 Maybe one day we can try it again
 And maybe things can be a little different
 So lets just kiss and say goodbye
-'Cause I really cant stand the pain of seeing you cry
+'Cause I really can't stand the pain of seeing you cry
 
 I've given everything
 I loved you endlessly

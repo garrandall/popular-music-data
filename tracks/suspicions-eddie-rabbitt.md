@@ -96,10 +96,10 @@ I try to fight it, but it gets me sometimes
 I get these suspicions
 Even though I know that you love me, baby
 And I really shouldn't feel this way
-Ooh suspicions, I can't help it, you're just so good lookin'
+Oh suspicions, I can't help it, you're just so good lookin'
 I'm afraid somebody's gonna steal you away from me
 
-Ooh, suspicions
+Oh, suspicions
 
 When I'm with you, I feel so satisfied
 The way you touch me when you lay by my side
@@ -109,14 +109,14 @@ It makes me hate myself for what I'm thinkin' of
 I get these suspicions
 Even though I know that you love me, baby
 And I really shouldn't feel this way
-Ooh suspicions, I can't help it, you're just so good lookin'
+Oh suspicions, I can't help it, you're just so good lookin'
 I'm afraid somebody's gonna steal you away from me
 
 Suspicions, even though I know that you love me, baby
 And I really shouldn't feel this way
-Ooh suspicions, I can't help it you're just so good lookin'
+Oh suspicions, I can't help it you're just so good lookin'
 I'm afraid somebody's gonna steal you away from me
-Ooh suspicions, even though I know that you love me, baby
+Oh suspicions, even though I know that you love me, baby
 And I really shouldn't feel this way
 
 

@@ -98,7 +98,7 @@ Now your bitch wanna kick it, Jackie Chan
 Drop top, how we rollin' down on Collins South Beach (yeah)
 Look like Kelly rowland, this might be my destiny (yeah)
 She want me to eat it, I guess dinner's on me (I got you, babe)
-Know I got the sauce like a fuckin' recipe (ohh)
+Know I got the sauce like a fuckin' recipe (oh)
 She just wanna do it for the 'Gram (you know, you know)
 She just want this money in my hand (I know, you know)
 I'ma give it to her when she dance, dance, dance (ayy)

@@ -52,7 +52,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-08-20'
 ---
-Ooh your ex is back in town
+Oh your ex is back in town
 Whatcha gonna do when she comes around
 And she starts going through her act
 When she begs you to take her back
@@ -67,7 +67,7 @@ Baby don't change your mind
 Don't change it
 Don't change it
 
-Ooh you say your love is true
+Oh you say your love is true
 Whatcha gonna say when she looks at you
 Will the second thoughts in your head
 Make you take back the things you said

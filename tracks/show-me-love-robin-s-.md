@@ -120,7 +120,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-10-09'
 ---
-Ahhh... Yeah yeah, yeah yeah yeah
+Ah... Yeah yeah, yeah yeah yeah
 You’ve got to show me love
 
 

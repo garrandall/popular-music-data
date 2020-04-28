@@ -33,13 +33,13 @@ rankings:
   start_date: '1980-05-10'
 ---
 You smoked me like a cigarette
-I was burned i was cast aside
+I was burned I was cast aside
 Now you knew what you couldn't get
 So you settled for my pride
 But it's all right
 It's cool baby tonight
 When push comes to shove
-Ooh baby you gave me enough
+Oh baby you gave me enough
 And i'll pay when the price is right
 But you can't put a price on love
 
@@ -48,9 +48,9 @@ What you touch maybe turn to gold
 And you can talk 'til you've said it all
 It's just the greatest story ever told
 Right down the line
-Ooh baby it's fine
+Oh baby it's fine
 When push comes to shove
-Ooh baby you gave me enough
+Oh baby you gave me enough
 And i'll pay when the price is right
 But you can't put a price on love
 
@@ -61,10 +61,10 @@ But it's deeper when it's love you're buying
 I'll pay when the price is right
 But you can't put a price on love
 Make up your mind
-Ooh maybe it's time
+Oh maybe it's time
 When push comes to shove
-Ooh baby you gave me enough
+Oh baby you gave me enough
 And i'll pay when the price is right
 But you can't put a price on love
-Yes i will pray for another night
+Yes I will pray for another night
 But you can't put a price on love

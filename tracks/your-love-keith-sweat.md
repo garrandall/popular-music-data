@@ -59,14 +59,14 @@ You kiss me, but it’s not real
 Tell me what happened
 Are we living a lie, baby
 Is that magic gone
-Ooh, do you feel the same way you used to, girl
-Ooh, tell me is it wrong for us to love like this
+Oh, do you feel the same way you used to, girl
+Oh, tell me is it wrong for us to love like this
 
 
-How deep is your love 
-How deep is your love 
-How deep is your love 
-Oh…ho…oh…oh… 
+How deep is your love
+How deep is your love
+How deep is your love
+Oh…ho…oh…oh…
 
 
 You run your fingers through my hair
@@ -92,8 +92,8 @@ That means I love you, darlin’
 I just can’t figure you out, baby
 One minute I think you love me, and then next one I think you don’t
 I don’t understand it
-Woo…hoo…ooh… hoo…ooh…ooh…hoo…ooh…ooh…
+Woo…hoo…oh… hoo…oh…oh…hoo…oh…oh…
 I’m just goin’ insane tryin’ to figure you out, baby
 How deep is your love
 I wanna know, you got to tell me, baby
-Hoo…hoo…ooh…ooh…ooh…ooh…ooh…ooh…ooh…ooh…
+Hoo…hoo…oh…oh…oh…oh…oh…oh…oh…oh…

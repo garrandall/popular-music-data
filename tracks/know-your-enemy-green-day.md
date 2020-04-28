@@ -103,9 +103,6 @@ Don't be blinded by the lies in your eyes
 Say! (Oh eh, oh eh)
 (Oh eh, oh eh)
 
-
-
-
 Well, violence is an energy (Oh eh, oh eh)
 Well, from here to eternity (Oh eh, oh eh)
 Well, violence is an energy (Oh eh, oh eh)

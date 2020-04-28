@@ -43,7 +43,7 @@ rankings:
 I was home in Macon, Georgia
 They kept my Daddy in the Macon jail
 He said, Son, if you keep your hands clean, uh huh
-You wont hear those bloodhounds on your trail
+You won't hear those bloodhounds on your trail
 
 I fell in with bad companions
 I robbed a man up in Tennessee
@@ -57,7 +57,7 @@ I tried to do like my daddy told me, now
 I must have washed my hands in a muddy stream
 
 I asked the jailer, said Whens my time up?
-He said Son, you know we wont forget
+He said Son, you know we won't forget
 And if you try and just keep your hands clean, uh huh
 Why we may just make a good man of you yet
 

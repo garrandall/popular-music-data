@@ -67,7 +67,3 @@ It was early Sunday morning mi get up a watch the news then mi hear seh last nig
 Jacqueline just lose her brother over seaview gardens when she tell mi jah jah know ti mash mi up naah tell nuh lie but yuh know seh man a thuggist so yuh
 naah go see me cry everyday and every night she still a ask the father why her brother had to die she heard a voice reply
 
-
-
-
-

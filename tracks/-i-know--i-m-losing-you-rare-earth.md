@@ -75,7 +75,7 @@ I've fooled myself long as I can
 Can feel the presence of another man
 It's there when you speak my name
 It's just not the same
-Ooh babe, I'm losing you
+Oh babe, I'm losing you
 It's in the air
 It's there everywhere
 Baby, baby, babe, I'm losing you
@@ -87,10 +87,10 @@ I'm hurt, down-hearted and worried, girl
 'Cause that face doesn't belong to me
 It's all over your face
 Someone's takin' my place
-Ooh baby, I'm losing you
+Oh baby, I'm losing you
 You try hard to hide
 The emptiness you feel inside
-Ooh babe, I'm losing you
+Oh babe, I'm losing you
 
 
 I can't bear the thought of losing you

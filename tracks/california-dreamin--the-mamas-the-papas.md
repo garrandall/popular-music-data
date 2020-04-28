@@ -105,9 +105,6 @@ He knows I'm gonna stay
 California dreamin'
 (California dreamin') on such a winter's day
 
-
-
-
 All the leaves are brown
 (All the leaves are brown)
 And the sky is gray

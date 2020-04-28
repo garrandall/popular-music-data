@@ -99,7 +99,7 @@ rankings:
 Baby, don't understand
 Why we can't just hold on to each other's hands?
 This time might be the last if fear unless
-I make it all too clear I need you so, ohh
+I make it all too clear I need you so, oh
 
 
 Take these broken wings
@@ -141,4 +141,4 @@ Take these broken wings
 You got to learn to fly, learn to live and love so free
 When we hear the voices sing
 The book of love will open up for us and let us in
-Yeah, yeah, yeah, yeah, ooh
+Yeah, yeah, yeah, yeah, oh

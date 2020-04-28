@@ -104,11 +104,5 @@ With the brothers yellin', summer bunnies
 
 
 Let's break it down -
-You're lookin' feel good with your boots on, baby 
-
-
-
-
-
-
+You're lookin' feel good with your boots on, baby
 

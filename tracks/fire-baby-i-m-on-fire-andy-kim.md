@@ -50,11 +50,11 @@ You make me feel just like a man should
 What were doin just can't be wrong
 
 It burns me like a fire
-Sweet pain dont let me go
+Sweet pain don't let me go
 Ah, you take me so much higher
 Than Ive ever been before
 
-Baby, babe, I want you, oh, my babe, ooh;
+Baby, babe, I want you, oh, my babe, oh
 Take me now, Got to have your love right now
 
 Fire, baby, Im on fire
@@ -72,7 +72,7 @@ Ah, nothing feels this good
 Youve given me a feelin
 Like no other woman could
 
-Baby, babe, I want you, oh, my babe, ooh;
+Baby, babe, I want you, oh, my babe, oh
 Take me now, Got to have your love right now
 
 Fire, baby, Im on fire

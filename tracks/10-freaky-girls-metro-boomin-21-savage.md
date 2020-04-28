@@ -26,7 +26,7 @@ rankings:
   start_date: '2018-12-08'
 ---
 
-Ooh
+Oh
 No, no, no
 No, no
 

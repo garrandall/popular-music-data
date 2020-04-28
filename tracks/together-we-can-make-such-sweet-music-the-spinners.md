@@ -49,7 +49,7 @@ You are my sunshine and you are my pride
 Oh, together we can make such sweet music
 Together we can make it right
 Whoa, whoa, together we can make such sweet music
-Together we can make it right, ooh, ooh
+Together we can make it right, oh oh
 
 
 Whoa, whoa, I know the love we share is locked in our hearts

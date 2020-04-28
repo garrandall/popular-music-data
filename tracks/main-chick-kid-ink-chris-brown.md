@@ -111,7 +111,7 @@ I don't know how to explain it for ya
 But, girl, I'm just sayin' if you got a man back home, I don't know him (I don't know him)
 What? Just keep it on the hush
 Pocket full of trees, don't beat around the bush (Wait)
-Walk on green, I could even hear the putt (Ooh)
+Walk on green, I could even hear the putt (Oh)
 K.O. shawty when I hit her with a punchline (Ah)
 Get a couple shots when it's crunch time (Uh)
 Duckin' from my ex like a one time (Woop-woop)
@@ -129,7 +129,7 @@ I told her, "Fuck that nigga" (I don't know ya)
 
 
 Nah, and you don't know my name (No)
-Just in case you the feds, I don't know ya (Ooh)
+Just in case you the feds, I don't know ya (Oh)
 Uh, I might'a poured you a drink (What?)
 But don't let it go to your head
 I know why you came, tryna be my main chick (Yeah)

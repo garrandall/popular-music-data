@@ -89,14 +89,8 @@ But I can't seem to forget
 When you came along
 Ingenue
 
-
-
-
 Ingenue
 I just don't know what to do
-
-
-
 
 Ingenue
 I just don't know what to do

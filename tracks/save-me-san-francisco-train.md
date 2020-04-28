@@ -71,7 +71,7 @@ I been yes, and I been oh hell no
 I been rock 'n roll and disco
 Won't you save me San Francisco
 
-Ooo ooo ooo, oh oh
+Ooo oo oo, oh oh
 
 Every day's so caffeinated
 I wish they were Golden Gated

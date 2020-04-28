@@ -30,7 +30,7 @@ You're my darlin', darlin' baby
 I said you're everything I ever hoped for in a woman
 And as long as I may live
 
-Ooh, you're my darlin', darlin' baby
+Oh, you're my darlin', darlin' baby
 You're my sweet and tender love
 You're a very special lady
 I said you're the one that I always dreamed of in a woman
@@ -44,7 +44,7 @@ You deserve to have it all
 And I'm gonna do my best to give it to you, to give it to you, to give it to you
 
 
-Ooh, you're my darlin', darlin' baby
+Oh, you're my darlin', darlin' baby
 You're my sweet and tender love
 You're a very special lady
 I said you're everything I ever hoped for in a woman
@@ -59,12 +59,12 @@ And all the things that you desire
 I'll do my best to give it to you, to give it to you, to give it to you
 
 
-Ooh, you're my darlin', darlin' baby
+Oh, you're my darlin', darlin' baby
 You're my sweet and tender love
 You're a very special lady
 You're my (Darling, darling), come on, come on
 Baby, you're my (Sweet and tender)
-Ooh, you're my (Very special lady)
+Oh, you're my (Very special lady)
 And I need you (Darling, darling), oh baby
 Well, ah, you're my (Sweet and tender)
 Baby, you're my (Very special lady)
@@ -72,8 +72,8 @@ Well, well, you're my (Darling, darling)
 You deserve to have the best (Sweet and tender)
 Believe me, baby, 'cause you're (Very special lady)
 Better than the rest, you're so much better, you're my (Darling, darling)
-Oh, ooh, well, you're my (Sweet and tender)
+Oh, oh, well, you're my (Sweet and tender)
 You can believe you're my (Very special lady)
 Girl, I just wanna give it to you (Darling, darling)
 Give it to you, give it, give it, give it to you, you're (Sweet and tender)
-Ooh, you're my (Very special lady)
+Oh, you're my (Very special lady)

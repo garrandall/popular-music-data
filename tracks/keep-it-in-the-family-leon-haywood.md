@@ -44,11 +44,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-05-18'
 ---
-Ooh, keep it in the family, baby
+Oh keep it in the family, baby
 If there's a problem in our home
 We can solve it there, baby
 We may have misunderstandings sometimes
-But baby, I'm yours and I know you're mine, ooh yeah
+But baby, I'm yours and I know you're mine, ohyeah
 
 Hey, it's a family affair, baby
 And we can work it out, yeah
@@ -63,7 +63,7 @@ Trying to break up our relation
 But it's a family affair
 And we can work it out, baby
 We won't seek no help from strangers
-'Cause that would add to the problem, baby ooh
+'Cause that would add to the problem, baby oh
 
 Keep it in the family
 Just keep it in the family, baby

@@ -166,7 +166,7 @@ But that's alright, 'cause you're all mine
 
 Aw, go on and show 'em who you call "daddy"
 I guess they're just mad 'cause, girl, they wish they had it
-Ooh, my killer, my thriller, yeah, you're a classic
+Oh, my killer, my thriller, yeah, you're a classic
 And you're all mine tonight
 
 

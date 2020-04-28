@@ -77,7 +77,7 @@ I can not dig it, I can not dig it
 No, Black yo, I can not dig it
 
 
-Listen Hon, I mean aaaaaah
+Listen Hon, I mean ah
 It was nice looking at you, I just have to go
 My man is right over there
 (Where you going?)
@@ -122,7 +122,7 @@ I gotta go, I gotta go, I gotta go (Don't go)
 See something ain't right "Why?" It's the strobe light
 
 
-Can't swing tonight, so ahhhhhhh
+Can't swing tonight, so ah
 Honey take a hike, go fly a kite
 And I don't mean to be um impolite
 But yo, I'm outta here aight?

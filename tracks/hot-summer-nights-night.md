@@ -78,8 +78,8 @@ We started up a four-piece band
 And the heat felt like spotlights
 In the heart of a hot summer night
 
-Ooh hot summer nights
-Ooh hot summer nights
+Oh hot summer nights
+Oh hot summer nights
 
 Return with me to when times were best
 We were friends that could pass any test
@@ -91,13 +91,13 @@ Happy just to play our tunes
 It felt good when we got it right
 It felt good on a hot summer night
 
-Ooh hot summer nights
-Ooh hot summer nights
+Oh hot summer nights
+Oh hot summer nights
 
 So it lives and it always will
 The songs we sung are in us still
 Ringing out with all of their might
 In the heat of a hot summer night
 
-Ooh hot summer nights
-Ooh hot summer nights
+Oh hot summer nights
+Oh hot summer nights

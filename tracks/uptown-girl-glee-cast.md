@@ -13,7 +13,7 @@ rankings:
   start_date: '2011-11-26'
 ---
 
-Ooooh, Ooooh
+Oh, Oh
 
 Uptown girl
 She's been livin' in her uptown world
@@ -29,10 +29,10 @@ That's what I am
 
 And when she knows what she wants
 from her time
-And when she wakes up 
+And when she wakes up
 and makes up her mind
 She'll see I'm not so tough
-Just because 
+Just because
 I'm in love with an
 
 Uptown girl
@@ -41,7 +41,7 @@ She's getting tired of her high-class toys
 And all her presents from her uptown boys
 She's got a choice
 
-Oooooooooooooooh 
+Oh
 
 Uptown girl
 Y'know I can't afford to buy her pearls
@@ -54,7 +54,7 @@ she's lookin' so fine
 And when she's talkin'
 she'll say that she's mine
 She'll say I'm not so tough
-Just because 
+Just because
 I'm in love with an
 
 Uptown girl
@@ -63,7 +63,7 @@ As long as anyone with hot blood can
 And now she's looking for a downtown man
 That's what I am
 
-Oooooooooooooooh 
+Oh
 
 Uptown girl
 She's my uptown girl

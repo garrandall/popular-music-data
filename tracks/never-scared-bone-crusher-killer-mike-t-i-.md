@@ -96,7 +96,7 @@ Sheeeit, man what the... lemme talk to the mo'fucka. How hard we really mo'fucki
 Fuccnigga... sheit man, ole punk ass security guards throw me out the club nigga...
 That don't mean nuthin nigga!
 I'm gon fuck this nigga up, my nigga!
-Sheeeeit, lemme show this mo'fucca how hard this shit really is!!!
+Sheeeeit, lemme show this mo'fucca how hard this shit really is!
 
 
 So I'm outside of da club and you think I'm a puuuuuuuunk

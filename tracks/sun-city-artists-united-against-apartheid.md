@@ -60,14 +60,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-01-25'
 ---
-Ahh, sun city
+Ah, sun city
 Sun city
 South Africa
 South Africa
-
-
-
-
 
 We're rockers and rappers united and strong
 
@@ -128,10 +124,6 @@ We're gonna say
 I, I, I, I, I, I
 Ain't gonna play sun city
 Don't wanna play, don't wanna play
-
-
-
-
 
 It's time to accept our responsibility
 

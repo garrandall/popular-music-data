@@ -81,7 +81,7 @@ No!
 
 
 
- (2x)
+
 
 Give it up!
 
@@ -89,6 +89,6 @@ Give it up!
 Do you still want me?
 Do you still want me?
 
- (2x)
+
 
 I'll be your lady

@@ -28,7 +28,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-04-18'
 ---
-Ooh, ooh...
+Oh oh..
 
 High on a hill
 Where troubles were few
@@ -70,4 +70,4 @@ Here I will be
 High on a hill
 High on a hill
 
-Ooh, ooh...
+Oh oh..

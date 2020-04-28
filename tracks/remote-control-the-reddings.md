@@ -78,7 +78,7 @@ Turn on your radio.
 Remote Control (Theres a good, good feeling on your radio)
 Your Radio (It's coming at your body, let it take control)
 Remote Control (Theres a good, good feeling on your radio)
-Let it take control (It's coming at your body, let it take control), Ooh
+Let it take control (It's coming at your body, let it take control), Oh
 
 Everybody's got one, some have two or three
 Some wear head phones on the street

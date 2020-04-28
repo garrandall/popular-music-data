@@ -139,7 +139,7 @@ Pull it out, then I tittyfuck (Uh, uh)
 I fuck her from the back and she nasty, killin' her
 Know how I give it up (Yeah, yeah)
 I be cool on 'em, bitch, ain't no pressure (Uh-uh)
-'Til I met this lil' freak, her name Megan (Ooh)
+'Til I met this lil' freak, her name Megan (Oh)
 This lil' thing here a stallion, look how she walk
 Look how she talk, she sexy (Mwah)
 I like when they pretty and ghetto (Uh-huh)

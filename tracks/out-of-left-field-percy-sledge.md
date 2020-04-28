@@ -44,12 +44,12 @@ Ohh, what a friend
 I needed someone to call my own
 Suddenly, out left field
 Out left field, out left field
-Love came along, ooh
+Love came along, oh
 
 I was walking down a road that went no where
 Building dreams that were all left by the way side
 And then outta the blue
-Honey, I found you, ohh, yeah
+Honey, I found you, oh, yeah
 
 Sugar and peaches in a paradise land
 Good love and sweetness, have taken their stand

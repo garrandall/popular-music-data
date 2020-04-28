@@ -122,7 +122,7 @@ We're headed for a better life
 So hold on, hold on
 Come on baby, hold on
 Yeah, we're gonna have it all
-And ooh
+And oh
 
 
 Someday baby, you and I are gonna be the ones

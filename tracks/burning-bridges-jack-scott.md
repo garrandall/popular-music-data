@@ -78,17 +78,17 @@ rankings:
 ---
 Found some letters you wrote me this morning
 They told of the love we once knew
-Now they're gone i burned them to ashes
+Now they're gone I burned them to ashes
 Don't want nothing to remind me of you
 Burning bridges behind me
 It's too late to turn back now
 Burning bridges behind me
-All i want is to forget you somehow
+All I want is to forget you somehow
 Sold the house we once planned together
 Said goodbye to the folks we once knew
-Then i moved to a far away city
+Then I moved to a far away city
 Trying hard to forget about you
 Burning bridges behind me
 It's too late to turn back now
 Burning bridges behind me
-All i want is to forget you somehow
+All I want is to forget you somehow

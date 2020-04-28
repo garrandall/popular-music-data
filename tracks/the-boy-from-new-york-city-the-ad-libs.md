@@ -48,9 +48,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-03-20'
 ---
-Ooo wah, ooo wah cool, cool kitty
+Ooo wah, oo wah cool, cool kitty
 Tell us about the boy from New York City
-Ooo wah, ooo wah c'mon kitty
+Ooo wah, oo wah c'mon kitty
 Tell us about the boy from New York City
 
 He's kind of tall
@@ -64,7 +64,7 @@ Ooo whee, you ought to come and see
 How he walks
 And how he talks
 
-Ooo wah, ooo wah cool, cool kitty
+Ooo wah, oo wah cool, cool kitty
 Tell us about the boy from New York City
 
 He's really down
@@ -82,7 +82,7 @@ Chills run down my spine
 Every time he wants to kiss me
 He makes me feel so fine
 
-Ooo wah, ooo wah cool, cool kitty
+Ooo wah, oo wah cool, cool kitty
 Tell us about the boy from New York City
 
 Well he can dance
@@ -97,7 +97,7 @@ Ooo whee, say you ought to come and see
 He's the most
 From coast to coast
 
-Ooo wah, ooo wah cool, cool kitty
+Ooo wah, oo wah cool, cool kitty
 Tell us about the boy from New York City
-Ooo wah, ooo wah c'mon kitty
+Ooo wah, oo wah c'mon kitty
 Tell us about the boy from New York City

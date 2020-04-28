@@ -127,7 +127,7 @@ Bitch nigga, miss me with it, turn it (Hey, go, tell 'em)
 
 
 I pack an 11, I pack an 11, ayy (Boom, turn it)
-I'm ridin' in a gator, my shoes are Giuseppe, ooh (Turn up, uh, watcha, what they say gah)
+I'm ridin' in a gator, my shoes are Giuseppe, oh(Turn up, uh, watcha, what they say gah)
 I'm slime like the reverend, I shoot at the reverend, ayy (Bah, uh nigga, boom what)
 Pants out the grocery store, they stuffed with lettuce, ayy (Bankroll Mafia, go)
 She try make the extras, I tell on these bitches, hey (Hustle, gah, sheesh, sheesh)
@@ -162,7 +162,7 @@ Bitch nigga, miss me with it, turn it (Go, tell 'em)
 
 
 I pack an 11, I pack an 11, ayy (Boom, turn it)
-I'm ridin' in a gator, my shoes are Giuseppe, ooh (Turn up, uh, watcha, what they say gah)
+I'm ridin' in a gator, my shoes are Giuseppe, oh(Turn up, uh, watcha, what they say gah)
 I'm slime like the reverend, I shoot at the reverend, ayy (Bah, uh nigga, boom what)
 Pants out the grocery store, they stuffed with lettuce, ayy (Bankroll Mafia, go)
 She try make the extras, I tell on these bitches, hey (Hustle, gah)
@@ -197,7 +197,7 @@ Bitch nigga, miss me with it, turn it
 
 
 I pack an 11, I pack an 11, ayy (Boom, turn it)
-I'm ridin' in a gator, my shoes are Giuseppe, ooh (Turn up, uh, watcha, what they say gah)
+I'm ridin' in a gator, my shoes are Giuseppe, oh(Turn up, uh, watcha, what they say gah)
 I'm slime like the reverend, I shoot at the reverend, ayy (Bah, uh nigga, boom what)
 Pants out the grocery store, they stuffed with lettuce, ayy (Bankroll Mafia, go)
 She try make the extras, I tell on these bitches, hey (Hustle, gah)

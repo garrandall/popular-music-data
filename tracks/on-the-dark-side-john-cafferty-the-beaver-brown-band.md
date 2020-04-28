@@ -135,14 +135,4 @@ Across that line
 On the dark side, oh yeah
 On the dark side, oh yeah
 
-
-
-
-
-
-
-
-
-
-
  (x2)

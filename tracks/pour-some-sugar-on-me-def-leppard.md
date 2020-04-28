@@ -125,7 +125,7 @@ Break the bubble, break it up
 
 
 Pour some sugar on me
-Ooh, in the name of love
+Oh, in the name of love
 Pour some sugar on me
 C'mon, fire me up
 Pour your sugar on me
@@ -154,7 +154,7 @@ Break the bubble, break it up
 
 
 Pour some sugar on me
-Ooh, in the name of love
+Oh, in the name of love
 Pour some sugar on me
 C'mon, fire me up
 Pour your sugar on me
@@ -177,7 +177,7 @@ Break the bubble, break it up
 
 
 Pour some sugar on me
-Ooh, in the name of love
+Oh, in the name of love
 Pour some sugar on me
 C'mon fire me up
 Pour your sugar on me

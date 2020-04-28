@@ -75,7 +75,7 @@ So come on wave your hands in the air
 So come on wave it like you just don't care
 And if you're down with the Fun Factory groove
 
-Somebody say oh yeah !
+Somebody say oh yeah!
 
 Slam slam slam
 Here comes the van

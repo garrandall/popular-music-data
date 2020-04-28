@@ -66,7 +66,7 @@ All right, sugar
 Got to have a hundred
 Got to have a hundred
 All right
-Ooh, I must do, I must do
+Oh, I must do, I must do
 I must do now
 
 Oh! Got to have a hundred

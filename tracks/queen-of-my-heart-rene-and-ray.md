@@ -22,12 +22,12 @@ rankings:
 ---
 May I explain right from the start,
 You've always been queen of my heart,
-Ooh wee ooh wee,
+Oh wee ohwee,
 Queen of my heart.
 
 No matter what I've said or done,
 To me you'll be my only one,
-Ooh wee, ooh wee
+Oh wee, ohwee
 Queen of my heart
 
 Here is my heart
@@ -39,5 +39,5 @@ Realize your treasure, realize your throne.
 
 No matter what I've said or done,
 To me you'll be my only one
-Ooh wee, ooh wee,
+Oh wee, ohwee,
 Queen of my heart, queen of my heart...

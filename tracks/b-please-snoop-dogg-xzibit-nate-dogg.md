@@ -49,9 +49,9 @@ rankings:
 Yeah whattup Detroit?
 
 Nu-uh, nu-uh nuh-no he didn't!
-Ahhh! They didn't do it again,
+Ah! They didn't do it again,
 What-what, what-what?
-Did you shit on these niggaz two times Dr. Dre?
+Did you shit on these niggas two times Dr. Dre?
 
 Oh fo' sho'!
 
@@ -68,9 +68,9 @@ Throw on 'Guilty Conscience' at concerts
 And watch mosh pits til motherfuckers knock each other unconcious
 (Watch out now!) Some of these crowds that Slim draws
 Is rowdy as Crenshaw Boulevard when it's packed and fulla cars
-Some of these crowds me and Snoop draw +IS+ niggaz from Crenshaw
+Some of these crowds me and Snoop draw +IS+ niggas from Crenshaw
 From Long Beach to South Central
-Whoa, not these niggaz again
+Whoa, not these niggas again
 These grown-ass ignorant men with hair-triggers again
 (Hehe) You and what army could harm me?
 D-R-E and Shady, with Doggy from Long Beach
@@ -82,7 +82,7 @@ But I.
 
 Somehow, someway - tell 'em, nigga
 You know about Dogg-ay (Snoop Dogg)
-Now let me cut these niggaz up and show em where da fuck I'm comin from
+Now let me cut these niggas up and show em where da fuck I'm comin from
 I get the party crackin from the shit that I be spittin son
 Hit-and-run, get it done, get the funds, split and run
 Got about fifty guns, and I love all of 'em the same - bang bang!
@@ -162,4 +162,4 @@ That's, the devil, they always wanna dance
 
 2001 and forever
 Slim Shady, Dr. Dre, Snoop Dogg, X to the Z, Nate Dogg
-C'mon, yeah!!
+C'mon, yeah!

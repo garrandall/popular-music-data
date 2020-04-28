@@ -50,7 +50,7 @@ rankings:
 ---
 
 
-Ooh, Sunday morning
+Oh Sunday morning
 You;re gonna find my love shining on you
 
 Oh, I'm waiting
@@ -64,8 +64,8 @@ Love gets sweeter with time
 You were made to love
 
 
-Ooh, Sunday morning (I'll see you Sunday morning)
-Ooh, Sunday morning
+Oh Sunday morning (I'll see you Sunday morning)
+Oh Sunday morning
 It's like the best of everything falling on you
 
 Your eyes
@@ -80,17 +80,17 @@ Singing love songs to me
 Singing you were made to love
 
 
-Ooh, Sunday morning (I'll see you Sunday morning)
+Oh Sunday morning (I'll see you Sunday morning)
 You're gonna find my love shining on you
-Ooh, Sunday morning
+Oh Sunday morning
 It's like the best of everything falling on you
 
-Ooh, Sunday morning (I'll see you Sunday morning)
+Oh Sunday morning (I'll see you Sunday morning)
 When we shared sweet love like no other
 
-Ooh, Sunday morning
+Oh Sunday morning
 Like a summer day with your lover
-Ooh Sunday morning (I'll see you Sunday morning)
+OhSunday morning (I'll see you Sunday morning)
 When we shared sweet love like no other
 
 

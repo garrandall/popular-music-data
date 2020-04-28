@@ -65,7 +65,7 @@ rankings:
   start_date: '2005-08-27'
 ---
 I think about the day I met the perfect stranger, I think about us
-And I think about the day i got wrapped around your fingers, I think about us
+And I think about the day I got wrapped around your fingers, I think about us
 The sun was shinin' on you
 The lord was smilin' on me
 And love was callin' us
@@ -85,7 +85,7 @@ I think about the way we laughed without a reason, I think about us, girl
 There will be no more lies
 Somebody tell me why I feel like I'm dyin'
 Lord what's come over me
-Ooh baby, can't you see
+Oh baby, can't you see
 
 
 That I can't stop lovin' you

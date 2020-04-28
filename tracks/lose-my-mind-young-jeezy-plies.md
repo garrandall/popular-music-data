@@ -96,9 +96,6 @@ In my black and orange charger, call it trick or treat
 It ain't nothin' to a boss, my goons got goons
 House stupid dumb big, my rooms got rooms
 
-
-
-
 Guess what my momma told me, she hate my partnas
 Guess why she hate em though,
 'Cause all of 'em robbin'
@@ -113,9 +110,6 @@ One-hundred dollars, that's what the pussy cost me
 And when the nigga start hatin', that's when the nigga lost me
 Fantastico, that's what the hoes call me
 
-
-
-
 Drop the top, no bra, got da titties out
 Mention my name and bring the whole city out
 Doin' what I do best, d-boy stuntin'
@@ -128,8 +122,4 @@ G-O, black shades and my black chains
 But if you wouldn't understand,it's a black thing
 You know we drink that rozay 'til we black out
 Wake up, drink some more, pass back out
-
-
-
-
 

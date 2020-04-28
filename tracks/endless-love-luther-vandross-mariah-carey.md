@@ -92,7 +92,7 @@ rankings:
 My love
 There's only you in my life
 The only thing that's right
-Ooh yeah
+Ohyeah
 
 
 My first love (Yeah)

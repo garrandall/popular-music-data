@@ -39,7 +39,7 @@ You walked in I'm a physical wreck
 You walked in I've lost my cool babe
 But what'd you expect
 When you walk in baby love begins
-When you walk by baby ooh my my
+When you walk by baby oh my my
 When you come around, my jaw hits the ground
 When you shake your thing I jump outta my skin
 When you cross the floor I scream "more baby more"
@@ -60,7 +60,7 @@ You walked in I'm a physical wreck
 You walked in I've lost my cool babe
 But what the heck
 When you walk in baby love begins
-When you walk by baby ooh my my
+When you walk by baby oh my my
 When you come around, my jaw hits the ground
 When you shake your thing I jump outta my skin
 When you cross the floor I scream "more baby more"
@@ -72,7 +72,7 @@ Than checkin' out a little wiggle or two
 But honey that was way before I met you
 
 When you walk in baby love begins
-When you walk by baby ooh my my
+When you walk by baby oh my my
 When you come around, my jaw hits the ground
 When you shake your thing I jump outta my skin
 When you cross the floor I scream "more baby more"
@@ -80,7 +80,7 @@ When you flash your smile you drive me wild
 Now you drive me wild
 
 When you walk in baby love begins
-When you walk by baby ooh my my
+When you walk by baby oh my my
 When you come around, my jaw hits the ground
 When you shake your thing I jump outta my skin
 When you cross the floor I scream "more baby more"

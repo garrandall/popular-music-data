@@ -104,7 +104,7 @@ For eternity
 
 For eternity
 Cause baby I love you
-Ooh
+Oh
 Baby I need you
 Yes, I do
 
@@ -113,7 +113,7 @@ You'll always have my love seeing you through
 I'll be your angel up in heaven
 Forever all my love will shine on you
 Cause baby I love you
-Ooh
+Oh
 Baby I need you
 Yes, I do
 
@@ -132,7 +132,7 @@ For eternity
 
 For eternity
 Cause baby I love you
-Ooh
+Oh
 Baby I need you
 Yes, I do
 
@@ -141,7 +141,7 @@ You'll always have my love seeing you through
 I'll be your angel up in heaven
 Forever all my love will shine on you
 Cause baby I love you
-Ooh
+Oh
 Baby I need you
 Yes, I do
 
@@ -150,6 +150,6 @@ You'll always have my love seeing you through - seeing you through
 I'll be your angel up in heaven - up in heaven
 Forever all my love will shine on you
 Baby I love you
-Ooh
+Oh
 Baby I need you
 Yes, I do

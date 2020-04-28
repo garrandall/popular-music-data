@@ -105,10 +105,10 @@ rankings:
 
 
  Uhhhhhhh
- Yeeah
- Ohh, ohh, ohh, oh baby
+ Yeah
+ Ohh, oh, oh, oh baby
  Lil' Flipper (Lil' Flipper)
- Ooh baby
+ Oh baby
  My girl Lea (my girl Lea) hit it
 
 
@@ -148,9 +148,6 @@ But I'm always on the road baby girl, that's how I live
 I got bills to pay, I got moves to make
 But when my plane touch down, pick me up at 8:00, don't be late
 
-
-
-
 We don't have to be in love (love)
 We can just be friends!
 I will be right there, beginning to the end!
@@ -170,9 +167,6 @@ We can cruise the world in a Bently Azure
 But don't worry, the chauffer open the door
 You couldn't ask for more cause we got it all (we got it all)
 Cause you my baby girl right?, right?
-
-
-
 
 We don't have to be in love (love)
 We don't have to be in love (love)

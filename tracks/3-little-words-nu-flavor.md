@@ -65,7 +65,7 @@ One look in your eyes
 I knew we two would alwayz be together
 And there are, 3 little words that say it all
 I love you
-Girl I realize 
+Girl I realize
 That I wanna be with you forever
 So say those 3 little words I wanna hear
 I love you
@@ -83,11 +83,7 @@ I knew you were feelin' it too because
 
 
 I know it's written all over my face
-And girl you can believe it's true 
+And girl you can believe it's true
 'Cause time could never erase
 These feelings I have for you
-
-
-
-
 

@@ -185,7 +185,7 @@ You got me begging, begging I'm on my knees
 I don't wanna be needing your love
 I just wanna be deep in your love
 And it's killing me when you're away
-Ooh baby
+Oh baby
 'Cause I really don't care where you are
 I just wanna be there where you are
 And I gotta get one little taste
@@ -211,7 +211,7 @@ You are the one thing, one thing I'm living for
 I don't wanna be needing your love
 I just wanna be deep in your love
 And it's killing me when you're away
-Ooh baby
+Oh baby
 'Cause I really don't care where you are
 I just wanna be there where you are
 And I gotta get one little taste
@@ -254,4 +254,4 @@ Yeah, you show me good loving, make it alright
 Need a little sweetness in my life
 Your sugar, yes please (Your sugar, yes please)
 Won't you come and put it down on me?
-(Down on me, down on me, ooh)
+(Down on me, down on me, oh)

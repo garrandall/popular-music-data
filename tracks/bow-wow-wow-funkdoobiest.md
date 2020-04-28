@@ -28,8 +28,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-05-22'
 ---
-Bow Wow..B-Bow Wow...B-B-Bow Wow....B-B-B-Bow Wow Wow
-Bow Wow..B-Bow Wow...B-B-Bow Wow....BOW WOW WOW
+Bow Wow...B-Bow Wow...B-B-Bow Wow...B-B-B-Bow Wow Wow
+Bow Wow...B-Bow Wow...B-B-Bow Wow...BOW WOW WOW
 
 B-ow Wow (repeated)
 

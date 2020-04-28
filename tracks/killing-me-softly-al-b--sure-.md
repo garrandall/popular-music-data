@@ -84,7 +84,7 @@ I prayed that she would finish
 But she just kept right on
 
 
-Hoo, ooh...
+Hoo, oh..
 
 She sang as if
 She knew me, yeah

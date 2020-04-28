@@ -155,9 +155,6 @@ You can dance right through your life
 
 What a feeling
 
-
-
-
 What a feeling (I am music now)
 Being's believing (I am rhythm now)
 Pictures come alive

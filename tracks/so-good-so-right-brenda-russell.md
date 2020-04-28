@@ -110,8 +110,8 @@ To be with you tonight
 (To be with you-ou)
 
 
-(Oowee oowee ooh ooh ooh oohhhhh)
-(Oowee oowee ooh ooh ooh oohhhhh)
+(Oowee oowee ohoohhoh)
+(Oowee oowee ohoohhoh)
 
 
 You make me feel so young, the way you laugh and play

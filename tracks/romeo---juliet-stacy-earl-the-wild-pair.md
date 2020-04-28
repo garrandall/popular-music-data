@@ -57,7 +57,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-05-09'
 ---
-Ooh
+Oh
 (Romeo and Juliet)
 Baby, don't ever forget
 (No, no, no)

@@ -50,7 +50,7 @@ Ah, ah, ah
 You know what it is
 When your head go back and forth
 So So Def, haha
-Chante, 2k (Oooh)
+Chante, 2k (Oh)
 Baby, come on, come on, come on
 
 Straight up I can love you forever yo
@@ -113,7 +113,7 @@ When you know what I'm about
 With a game sweeter than can be
 So, baby, won't you check me out?
 
-Oooh, oooh, oooh...
+Oh, ohohoh
 
 Y'all know what it is when you're head go back and forth
 Y'all know what it is when you're head go back and forth

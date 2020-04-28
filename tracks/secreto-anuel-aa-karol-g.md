@@ -122,7 +122,7 @@ Eh, ah (Oh-oh-oh, oh-oh, oh)
 Real Hasta La Muerte, bebecita (Eh, eh)
 Bebecito (¡Brr!)
 Uy, Anuel (Eh, eh)
-Mera, dime, Frabian (Hmm, no)
+Mera, dime, Frabian (Hm, no)
 Mera, dime, Prida (Ah, uah)
 (Bebecita)
 Mera, dime, EQ

@@ -75,9 +75,9 @@ People are dying on dead end street
 (Dead end!)
 Gonna die on dead end street
 
-Dead end street (yeah) (3x)
+Dead end street (yeah)
 Head to my feet (yeah)
-Dead end street (yeah) (3x)
+Dead end street (yeah)
 How's it feel? (yeah)
 How's it feel? (yeah)
 Dead end street (yeah)

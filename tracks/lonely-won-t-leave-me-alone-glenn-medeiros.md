@@ -77,7 +77,7 @@ Why?
 Tell me why?
 Won`t even let me fall in love
 
-Ooh
+Oh
 Everywhere I go
 Always by my side
 Won't even let me fall in love

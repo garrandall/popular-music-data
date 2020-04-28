@@ -69,14 +69,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-05-16'
 ---
-Artist: Queen Pen f/ Eric Williams
-Album:  My Melody
-Song:   All My Love
-
 I'm taking you back
 I'm taking you back
 Here's another one
-
 
 Uh, yeah
 I remember being on that nigga's chair, hard
@@ -107,7 +102,6 @@ I only hung with that bitch to get closer to you
 Wasn't no limit to the things I would do
 To give all my love to you, my God
 
-
 Can't feel myself
 Don't want nobody else to ever love you
 You are my shining star, my guiding light, my love fantasy
@@ -124,7 +118,6 @@ A thousand kisses from you and it wasn't enough
 I just don't wanna stop
 Too much, never too much, never too much, never too much
 (Yeah, uh huh, yeah, Queen Pen take it to the Brooklyn Bridge)
-
 
 Stop being by yourself, now you hung with the crew
 I took the bangs out my hair over the summer, I grew

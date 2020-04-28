@@ -130,7 +130,7 @@ Don't cha know I really don't give a damn
 Let me be me for me and not what I'm supposed to be
 So I'm gonna do what I wanna do
 Cause dumb rules are left for silly fools
-That's the kinda girl that I am - ohh!
+That's the kinda girl that I am - oh!
 
 Here we go, here we go, here we go again
 
@@ -141,12 +141,8 @@ Smooth you know
 Relatively speakin' I am no ordinary dip
 Cause I ain't reachin' hipped
 Til you be thinkin' I'm flipped
-And that is ooooh on the TLC tip
+And that is oh the TLC tip
 
 1-2-3-4 y'all
 Here we go again
-
-
-
-
 

@@ -49,7 +49,7 @@ And I'm glad, I'm glad
 That I'm here tonight
 To share my night with you
 
-Ooh, baby, oh, oh
+Oh baby, oh, oh
 Love me, baby, oh, yeah
 
 You used to be

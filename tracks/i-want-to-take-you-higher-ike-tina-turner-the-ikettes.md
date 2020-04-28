@@ -92,7 +92,7 @@ But I wanna, said I wanna
 I wanna take you higher
 Yeah, let me take you higher
 Baby, baby, let me light your fire
-Ooh yeah, little bit higher
+Oh yeah, little bit higher
 
 Boom shacka lacka lacka
 Boom shacka la boonka boo
@@ -107,7 +107,7 @@ But now don't ya, I said don't ya
 Don't ya wanna get higher?
 Yeah, don't ya wanna get higher?
 Baby, baby, let me light your fire
-Ooh ha, little bit higher
+Oh ha, little bit higher
 
 Boom shacka lacka lacka
 Boom shacka la boonka boo
@@ -118,7 +118,7 @@ Come on baby
 (Higher)
 Don't ya wanna get high
 (Higher)
-Ooh, yeah
+Oh, yeah
 (Higher)
 Light your fire
 (Fire)
@@ -147,7 +147,7 @@ I'm gonna take you
 Yeah, baby
 Gonna take ya
 (Higher, higher)
-Ooh, yeah
+Oh, yeah
 
 Little bit higher
 C'mon daddy

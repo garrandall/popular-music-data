@@ -53,4 +53,4 @@ Now I'm easy as pie the lady had herself a plan
 And it's easy to see that she's got me eating out of her hand
 
 Now I'm easy as pie...
-Got me eating out of her hand hmm hmm (easy)
+Got me eating out of her hand hm hm (easy)

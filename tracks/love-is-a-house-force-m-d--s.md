@@ -54,7 +54,7 @@ I heard your name
 
 Love is a house, you got the key
 (Oh, to take me where I wanna be)
-Open up and let me into your heart (Ooh), baby
+Open up and let me into your heart (Oh), baby
 (Just look and you'll see)
 (Love is a house and you got the key)
 Open up and let me into your heart, baby
@@ -69,15 +69,15 @@ I know you're the one for me
 
 Love is a house, you got the key
 (Oh, to take me where I wanna be)
-Open up and let me into your heart (Ooh, yeah), baby
+Open up and let me into your heart (Oh, yeah), baby
 (Just look and you'll see)
 (Love is a house, you got the key)
 Open up and let me into your heart (Oh, oh), baby
 
 Love's a house, love's a home, I don't wanna be alone (No)
-In your arms (Ooh), I'm happy to be
+In your arms (Oh), I'm happy to be
 Open up, let me in (Let me in), I'm hungry for your love again
-You got the key (Ooh), give it to me (Yeah)
+You got the key (Oh), give it to me (Yeah)
 
 When the night meets the morning
 
@@ -90,10 +90,10 @@ I know that you're the number one for me
 
 Love is a house, you got the key
 (Woo, baby, take me where I wanna be)
-Open up and let me into your heart (Ooh), baby
+Open up and let me into your heart (Oh), baby
 (Just look and you'll see)
 (That you got the key)
-Open up and let me into your heart (Ooh)
+Open up and let me into your heart (Oh)
 
 Love is a house, you got the key
 (Love is a house, love's a home, I don't wanna be alone)
@@ -101,14 +101,14 @@ Open up and let me (Oh) into your heart (Open up), baby
 (Open up, let me in, I'm hungry for your love again)
 Open up and let me into your heart (Oh, darlin')
 
-Love is a house, you got the key (Ooh...ooh...ooh...ooh...)
-You got the key (Oh, oh....)
+Love is a house, you got the key (Oh...oh...oohohoh)
+You got the key (Oh, oh...)
 Love is a house, you got the key (Oh...)
 You got the key (To take me where I wanna be)
 
 Love is a house, love's a home (Oh...), I don't wanna be alone
-In your arms, I'm happy to be (Ooh, yeah)
-Open up (Open up, baby), let me in, I'm hungry for your love again (Ooh)
+In your arms, I'm happy to be (Oh, yeah)
+Open up (Open up, baby), let me in, I'm hungry for your love again (Oh)
 You got the key (Hey, hey), give it to me
 
 Love is a house (Your love is a house)

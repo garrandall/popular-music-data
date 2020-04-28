@@ -117,11 +117,11 @@ To my heart I must be true
 Nothing left, nothing left for me to do
 
 You're the one that I want (You are the one I want)
-Ooh ooh ooh, honey
+Oh ohoohhoney
 The one that I want (You are the one I want)
-Ooh ooh ooh, honey
+Oh ohoohhoney
 The one that I want (You are the one I want)
-Ooh ooh ooh
+Oh ohooh
 The one I need (The one I need)
 Oh, yes, indeed (Yes, indeed)
 
@@ -138,28 +138,28 @@ Are you sure?
 'Cause (yes) I'm sure down deep inside
 
 You're the one that I want (You are the one I want)
-Ooh ooh ooh, honey
+Oh ohoohhoney
 The one that I want (You are the one I want)
-Ooh ooh ooh, honey
+Oh ohoohhoney
 The one that I want (You are the one I want)
-Ooh ooh ooh
+Oh ohooh
 The one I need (The one I need)
 Oh, yes, indeed (Yes, indeed)
 
 You're the one that I want (You are the one I want)
-Ooh ooh ooh, honey
+Oh ohoohhoney
 The one that I want (You are the one I want)
-Ooh ooh ooh, honey
+Oh ohoohhoney
 The one that I want (You are the one I want)
-Ooh ooh ooh
+Oh ohooh
 The one I need (The one I need)
 Oh, yes, indeed (Yes, indeed)
 
 You're the one that I want (You are the one I want)
-Ooh ooh ooh, honey
+Oh ohoohhoney
 The one that I want (You are the one I want)
-Ooh ooh ooh, honey
+Oh ohoohhoney
 The one that I want (You are the one I want)
-Ooh ooh ooh
+Oh ohooh
 The one I need (The one I need)
 Oh, yes, indeed (Yes, indeed)

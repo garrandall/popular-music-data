@@ -83,11 +83,6 @@ Like you knew they would
 Go home and face the music
 That don't sound too good
 
-
-
-
-
-
 Lord, its a real mother for ya
 Make you wanna run for cover
 And if you look you will discover

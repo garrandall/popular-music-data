@@ -97,7 +97,7 @@ Which, which one of y'all
 Which one of y'all going home with Trigga?
 
 
-I see you in the club, ooh, shawty
+I see you in the club, oh, shawty
 Walking past a nigga looking at me all naughty
 Then I said, "Baby, wassup?"
 Reach for that hand shake, got a hug

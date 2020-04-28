@@ -78,11 +78,11 @@ Every since I can remember I been working these hoes
 And they better put my money in my hand
 
 
-I know you sicker than sick-ahh when you see the rims flick-ahh
-The paint drip off, ice in my rangs glitt-ahh
-I straight flippa the cheese like pancake-ahh
-Fallin' from trees like the leaves in my hand break-ahh
-Project Pat-ahh attracted to dime pieces
+I know you sicker than sick-ah when you see the rims flick-ah
+The paint drip off, ice in my rangs glitt-ah
+I straight flippa the cheese like pancake-ah
+Fallin' from trees like the leaves in my hand break-ah
+Project Pat-ah attracted to dime pieces
 I'm dirty southern, french braids, gold teeth
 I'm out here makin' sense, plus, I'm out here makin' dollars
 I keep a bad broad, dawg, and a popped collar

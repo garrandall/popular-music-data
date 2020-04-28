@@ -76,8 +76,8 @@ Please Mr. Custer, I don't wanna go (forward Ho!)--aaww
 SPOKEN: Look at them bushes out there
 They're moving and there's a injun behind every one
 Hey, Mr. Custer-you mind if I be excused the rest of the afternoon?
-HEY CHARLIE, DUCK YER HEAD! 
-Hmm, you're a little bit late on that one, Charlie
+HEY CHARLIE, DUCK YER HEAD!
+Hm, you're a little bit late on that one, Charlie
 Hooh, I bet that smarts!
 
 (They were sure of victory, the men of the 7th Cavalry, as they rode on)
@@ -94,7 +94,7 @@ Please Mr. Custer, I don't wanna go (forward HO)--aaww
 
 SPOKEN: I wonder what the injun word for friend is
 Let's see--friend-- kemo sabe, that's it
-KEMO SABE!, HEY OUT THERE, KEMO SABE! 
+KEMO SABE!, HEY OUT THERE, KEMO SABE!
 Nope, that itn't it
 Look at them durned injuns
 Theyre runnin' around like a bunch of wild Indians-heh, heh, heh

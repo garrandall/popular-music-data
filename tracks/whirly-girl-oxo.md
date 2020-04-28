@@ -72,7 +72,7 @@ She's got no stop
 She picks you up and then
 She lets you drop
 Listen
-Ooh
+Oh
 
 Let me tell you 'bout the girl I know
 'Cause she's really hip
@@ -86,7 +86,7 @@ Won't tell you where she's bound
 'Cause she ain't lost and don't want to be found
 But
 
-Ooh, maybe tonight
+Oh maybe tonight
 Yeah, she'll find the time
 To give me her phone
 So I can call her at home
@@ -111,12 +111,12 @@ She's sitting in the latest styles
 With open legs
 And mysterious smiles
 
-Ooh, maybe tonight
+Oh maybe tonight
 Yeah, she'll find the time
 To give me her phone
 So I can call her at home
 Hey
-Ooh-ooh
+Ohoh
 
 Whirly, whirly, whirly, whirly girl
 Whirly girl, whirly girl

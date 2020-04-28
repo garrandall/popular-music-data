@@ -121,7 +121,6 @@ Get our beats(beats), gets in between the sheets
 Hit the door, for the fam
 Back in my Ac, Im outta town
 
-Chorus
 
 Its mad cars up in front the piece
 Shorties bouncin(bounce bounce)

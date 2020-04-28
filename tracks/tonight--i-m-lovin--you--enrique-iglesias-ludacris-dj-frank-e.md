@@ -110,10 +110,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-05-28'
 ---
-You-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
-Ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
-You-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
-Ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh
+You-oh-oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
+You-oh-oh-oh-oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh
 
 
 I know you want me

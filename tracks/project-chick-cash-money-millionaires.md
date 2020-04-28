@@ -103,7 +103,7 @@ Lettin a nigga cum all over her chest and tongue
 She was still-un, I spared her because her chil-drun
 She was a hoe she gave me head behind a building
 ain't sellin records but her mouth could sell a million
-if you wanna take it there we can break it off 
+if you wanna take it there we can break it off
 cause yall pussy ain't gotta nigga tweakin at all
 I slang this dick summer winter spring an the fall
 ask me to lay it down I'm bringin it all
@@ -128,8 +128,4 @@ Like to snort that dope, a dick suckin pro
 A calico hoe, a real solid bitch out Chicago
 I got a (Brat) type bitch like to whine an shit
 I got a project bitch like to start some shit
-
-
-
-
 

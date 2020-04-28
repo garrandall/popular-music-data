@@ -41,7 +41,7 @@ Baby, you've got my mind messed up
 Little girl, little girl you sure got my mind messed up now
 
 I go to bed alone and I can't sleep
-Sit down at the table ooh, Lord, I can't eat
+Sit down at the table oh Lord, I can't eat
 
 Somebody, please, please
 Help me now, oh, oh, oh

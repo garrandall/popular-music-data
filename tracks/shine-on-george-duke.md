@@ -102,10 +102,10 @@ Cause I know you want to have some fun, yeah
 Shine on, smile with me, baby
 Come on shine it like the mornin' sun
 
-Shine on, ooh, with me, baby
+Shine on, oh, with me, baby
 Cause I know you want to have some fun, yeah, yeah
 Shine on, oh with me, baby
-Come on shine it, shine it, shine it, ooh
+Come on shine it, shine it, shine it, oh
 
 Shine on, shine on with me, baby
 Cause I know you want it, know you got that, know you

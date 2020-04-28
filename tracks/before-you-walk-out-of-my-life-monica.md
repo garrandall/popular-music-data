@@ -167,7 +167,7 @@ Though I made plans with you
 To always have time for you
 (Before you walk out of my life)
 I guess it's true, cannot live without you
-Don't ever go away, ooh, oh, yeah
+Don't ever go away, oh oh, yeah
 
 
 Never meant to cause you no pain (Baby, yeah)

@@ -63,7 +63,7 @@ This is your life, don't play hard to get
 It's a free world, all you have to do is fall in love
 Play the game
 Everybody play the game of love
-Ooh yeah
+Oh yeah
 
 
 My game of love has just begun

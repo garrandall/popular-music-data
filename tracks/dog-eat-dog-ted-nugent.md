@@ -47,7 +47,7 @@ Dog, dog, dog eat dog
 
 Dog, dog, dog eat dog
 Dog, dog, dog eat dog
-Dog, dog, dog eat dog.....
+Dog, dog, dog eat dog...
 
 
 

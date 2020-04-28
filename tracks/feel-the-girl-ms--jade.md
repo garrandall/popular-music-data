@@ -83,9 +83,6 @@ Keep 'em bub-bel-in', take it on the chin
 So now they all duckin' from the slugs
 kisses and the hugs, just cut up the rug!
 
-
-
-
 I ain't gon' stop, 'til I'm satisfied
 Chain hangin' like Nas, see right through the lies
 Y'all never knew a dame could be so tight
@@ -102,9 +99,6 @@ I'm comin out switchin' and changin' your route
 Takin' it to the house, bills and large amounts
 I got the club bouncin' and shakin' they frames
 Glass fillin', puff and then pass, if your feelin' in Philly then dance
-
-
-
 
 Frid fra frick fra feel the girl
 Frid fra freaky freaky feel the girl

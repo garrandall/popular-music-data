@@ -154,7 +154,7 @@ Bitch, I'm young Stoney, I do what I want
 
 I've been rollin' twenty ash, hit the road (Woo)
 Hit the switch up the suicide doors (Damn)
-We already know you vanished though (Ooh)
+We already know you vanished though (Oh)
 Hit my momma when I ride in that, oh
 All these muhfuckas' so false with me (Yah)
 If your money funny, don't talk to me (Nah)
@@ -177,10 +177,10 @@ Half price my whip, same price my watch
 Got no jumper, but I ball a lot
 Bitch, I'm young Stoney, I do what I want
 Candy paint with the white on top
-Lambo doors are the oo-op drop (Oh-ooh-ooh)
-If you busy plottin' on what I got (Oh-ooh)
+Lambo doors are the oo-op drop (Oh-oh-oh)
+If you busy plottin' on what I got (Oh-oh)
 Kick in your door, that's SWAT, you thot
-Hundred thousand dollars on the table top (Oh-ooh)
-Half price my whip, same price my watch (Oh-ooh-ooh)
-Got no jumper, but I ball a lot (Oh-ooh)
+Hundred thousand dollars on the table top (Oh-oh)
+Half price my whip, same price my watch (Oh-oh-oh)
+Got no jumper, but I ball a lot (Oh-oh)
 Bitch, I'm young Stoney, I do what I want

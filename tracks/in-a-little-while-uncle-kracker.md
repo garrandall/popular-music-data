@@ -96,7 +96,7 @@ All these beautiful people and nothin' to see
 
 Sometimes I feel like something is gone here
 Something is wrong here, I don't belong here
-Sometimes I feel like a stranger in town 
+Sometimes I feel like a stranger in town
 And I've lost what I found, it'll all turn around
 
 
@@ -113,7 +113,7 @@ But sometimes I feel like it's slippin' away
 
 Sometimes I feel like something is gone here
 Something is wrong here, I don't belong here
-Sometimes I feel like a stranger in town 
+Sometimes I feel like a stranger in town
 And I've lost what I found, it'll all turn around
 
 
@@ -125,10 +125,6 @@ I just wonder, wonder if you think about me
 
 Sometimes I feel like something is gone here
 Something is wrong here, I don't belong here
-Sometimes I feel like a stranger in town 
+Sometimes I feel like a stranger in town
 And I've lost what I found, it'll all turn around
-
-
-
-
 

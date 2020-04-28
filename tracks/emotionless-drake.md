@@ -29,7 +29,7 @@ rankings:
 You've got me feeling emotions
 Higher, ooah
 You've got me fe-
-You've, ohh
+You've, oh
 
 
 Don't link me
@@ -56,9 +56,9 @@ Leavin' me to ask is there anybody like me?
 
 
 You've got me fe-
-You've, ohh
+You've, oh
 You've got me fe-
-You, ohh
+You, oh
 Ayye
 
 
@@ -101,11 +101,11 @@ I guess I'll make it to the end and I'ma find out then
 
 
 You've got me fe-
-You've, ohh
+You've, oh
 Ayye
 Higher, higher
 You've got me fe-
-You've, ohh
+You've, oh
 Ayye
 Higher, higher
 

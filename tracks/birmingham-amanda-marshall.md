@@ -121,7 +121,7 @@ Out beyond the lights of Birmingham
 
 As the rain falls down upon the interstate
 Any doubts she had are all but washed away
-A long look back 
+A long look back
 At Birmingham
 
 'Cause there's another chance
@@ -138,7 +138,7 @@ Out beyond the lights of, yeah, yeah, Birmingham
 Birmingham
 
 Yeah, yeah
-Ooh, whoa baby
+Oh, whoa baby
 Yeah, someday soon
 Baby, someday soon
 Yeah, someday soon

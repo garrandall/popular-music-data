@@ -133,9 +133,6 @@ What's your price for flight
 You've got him in your sight
 And driving through the night
 
-
-
-
 You're motoring, what's your price for flight?
 In finding mister right
 You'll be alright tonight

@@ -52,28 +52,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-03-26'
 ---
-(Doo-ooh-woo-ooh)
-(Doo-ooh-woo-ooh)
+(Doo-oh-woo-oh)
+(Doo-oh-woo-oh)
 This can't be true, girl
-(Doo-ooh-woo-ooh)
+(Doo-oh-woo-oh)
 Your love for me, girl
-(Doo-ooh-woo-ooh)
+(Doo-oh-woo-oh)
 
 Just yesterday you saw me walking home
 You took my hand and asked me to walk you home
 And I felt good inside, sweetheart
-(Doo-doo-doo-doo-doo-ooh-ooh)
+(Doo-doo-doo-doo-doo-oh-oh)
 I felt good inside, sweetheart
-(Doo-doo-doo-doo-doo-ooh-ooh)
+(Doo-doo-doo-doo-doo-oh-oh)
 This can't be true, girl
-(Doo-ooh-woo-ooh)
+(Doo-oh-woo-oh)
 Are you for real, girl
-(Doo-ooh-woo-ooh)
+(Doo-oh-woo-oh)
 
 Or am I dreaming dreams about you
 Or am I dreaming dreams that can't come true
 Well I feel good inside, sweetheart
-(Doo-doo-doo-doo-doo-ooh-ooh)
+(Doo-doo-doo-doo-doo-oh-oh)
 Oh-oh-oh
 
 This can't be true, girl
@@ -82,9 +82,9 @@ Your love for me, girl
 Or am I dreaming dreams about you
 Or am I dreaming dreams that can't come true
 Well, I feel good inside, sweetheart
-(Doo-doo-doo-doo-doo-ooh-ooh)
+(Doo-doo-doo-doo-doo-oh-oh)
 Oh-oh-oh, I feel good inside, sweetheart
-(Doo-doo-doo-doo-doo-ooh-ooh)
+(Doo-doo-doo-doo-doo-oh-oh)
 This can't be true, girl
 (This can't be true, girl)
 Your love for me, girl

@@ -64,8 +64,8 @@ When we are far apart
 And if I'm on your mind
 I know that there's a chance
 You'll ind that I'm there in your heart
-One minute ev'ry day
+One minute every day
 May help to keep the wolf away
 Until that moment you are back to stay
 But better still I'd like to think of me
-Ev'ry minute of your time
+Every minute of your time

@@ -21,8 +21,8 @@ rankings:
   start_date: '2008-04-12'
 ---
 Yeah! They tried to put me in the box!
-It's impossible! R. Les!!! (Oh Yeah!)
-And this time it's all or nothin (I said it's real!!! Ohhhhhh!!! Yeah!)
+It's impossible! R. Les! (Oh Yeah!)
+And this time it's all or nothin (I said it's real! Ohhhhhh! Yeah!)
 Listen!
 
 
@@ -56,11 +56,11 @@ Your the reason I quit the game for
 I can't explain just how much you shine
 Give me your heart I'll give you mine
 I'm puttin my future on the line
-Baby it's just you, and I!!!!!!!!
+Baby it's just you, and I!
 From this day on let's make a deal
 I'll stay true you keep it real
 Don't be shy 'bout how you feel
-Baby don't be shy! HEY!!!!!!
+Baby don't be shy! HEY!
 Uh Oh! I can be your wake up reason daily
 You could be my first and leadin lady
 I'm a make you happy that you waited, for me to settle down
@@ -84,9 +84,6 @@ I'm a Chicagoian till Chicago end
 Till we blow like Chicago wind
 I don't know what's better, gettin' laid or gettin' paid
 I just know I'm gettin' one, the other's gettin' away
-
-
-
 
 Yeah! (Your my diamond girl) I know you wanna hear it again
 (Yeah!) Run the record back (Your my diamond) R. Les! Yeah!

@@ -140,7 +140,3 @@ What was I thinkin', oh what was I thinkin'
 Then she gave a come-and-get-me grin
 And like a bullet we were gone again... 'cause I was
 
-
-
-
-

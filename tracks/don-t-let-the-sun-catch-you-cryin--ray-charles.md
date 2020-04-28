@@ -41,4 +41,4 @@ Till the man comes and throws you in jail
 
 
 Whoa, you know you done me dirty now
-And i just don't want you no more
+And I just don't want you no more

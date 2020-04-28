@@ -102,7 +102,7 @@ Uh, Bad Boy
 Bad Boy
 My mic sounds nice
 Check one
-(oooh)
+(oh)
 Bad Boy
 My mic sounds nice
 Check two
@@ -172,12 +172,12 @@ You got me open boy
 And I'ma save my stuff for you
 
 
-(Mmmmmmmmmm) Baby
-(Mmm-mmmmmm) There's one thing
-(Mmmmm-mmm) I'll mention
-(Mmmmmm-mmm) Nah nah nah
-(Mmmmmm-mmm) See she's no
-(Mmmm-mmmm) Competition
+(Mmm) Baby
+(Mmm-mmm) There's one thing
+(Mmm-mmm) I'll mention
+(Mmm-mmm) Nah nah nah
+(Mmm-mmm) See she's no
+(Mmm-mmm) Competition
 
 
 I won't quit it

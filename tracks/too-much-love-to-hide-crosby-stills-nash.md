@@ -78,7 +78,3 @@ I believe when I see her eyes
 I believe there is too much love to hide
 Too much, too much
 
-
-
-
-

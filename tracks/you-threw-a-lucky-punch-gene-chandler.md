@@ -53,7 +53,7 @@ And caught me by suprise
 Cause you
 You threw a lucky punch
 (You threw a lucky punch)
-Ooh, girl
+Oh, girl
 You threw a lucky punch
 (You threw a lucky punch)
 That's right
@@ -76,7 +76,7 @@ Would open my nose
 But you
 You threw a lucky punch
 (You threw a lucky punch)
-Ooh, girl
+Oh, girl
 You threw a lucky punch
 (You threw a lucky punch)
 Oh, oh, oh, oh, oh
@@ -97,7 +97,7 @@ And realize I need you by my side
 Cause you
 You threw a lucky punch
 (You threw a lucky punch)
-Ooh, girl
+Oh, girl
 You hit me in my heart
 (You threw a lucky punch)
 That's right

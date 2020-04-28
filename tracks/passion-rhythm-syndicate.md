@@ -102,7 +102,6 @@ Don't know what I've got into the girl is C.R.A.Z.Y.
 I try to cool the fire like I oughta should
 But there's no way to turn back the S.E.X. is just too good
 
-Chorus
 
 Don't be tempted to touch the fire
 I shouldve read all the warning signs
@@ -118,4 +117,3 @@ Goin out of my mind, you're like a hurricane
 Drive me insane you're like a heart attack
 Know it's a fact, you got the knack to drop a man to his knees
 
-Chorus

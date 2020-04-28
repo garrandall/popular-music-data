@@ -43,7 +43,7 @@ Pull 'em all day, I take them off work
 Got girls in the draft, girls on my label
 Girls at the bank, cause I'm about my paper
 Got girls with weave, girls without it
-She like, "This all mine", hmmm...I doubt it
+She like, "This all mine", hm...I doubt it
 Girls in New York, girls in L.A
 Got girls in Miami, or wherever you stay
 Got girls in Chicago, girls in Toronto
@@ -68,7 +68,7 @@ You should know me like that, you should know me like that
 You don't know me like that, you don't know me like that
 You don't know me like that, you don't know me like
 Girl, you should know me like that, you should know me like that
-You should know me like that, you should "Ooh, whoa"
+You should know me like that, you should "Oh, whoa"
 
 
 I got girls in heels, girls in Adidas
@@ -103,17 +103,17 @@ You should know me like that, you should know me like that
 You don't know me like that, you don't know me like that
 You don't know me like that, you don't know me like
 Girl, you should know me like that, you should know me like that
-You should know me like that, you should "Ooh, whoa"
+You should know me like that, you should "Oh, whoa"
 
 
 If your man ain't treating you right
-Shawty let me get a "Ooh, whoa..." (Ooh, whoa...)
+Shawty let me get a "Oh, whoa..." (Oh, whoa...)
 If your man ain't paying your right
-Shawty let me get a "Ooh, whoa..." (Ooh, whoa...)
+Shawty let me get a "Oh, whoa..." (Oh, whoa...)
 If your hair ain't done and your nails ain't fixed
 Put your hands in the air if you know you da shit
-Let me get a "Uh, uh, uh, uh, ooh, whoa"
-Let me get a "Uh, uh, uh, uh, ooh, whoa"
+Let me get a "Uh, uh, uh, uh, oh, whoa"
+Let me get a "Uh, uh, uh, uh, oh, whoa"
 
 
 L to the O, V to the E
@@ -128,7 +128,7 @@ You should know me like that, you should know me like that
 You don't know me like that, you don't know me like that
 You don't know me like that, you don't know me like
 Girl, you should know me like that, you should know me like that
-You should know me like that, you should "Ooh, whoa"
+You should know me like that, you should "Oh, whoa"
 
 
 Yes! L.O.S.!
@@ -139,8 +139,8 @@ Ohhhhh
 Ah, ah, ah
 Ah, ah, ah
 Ah, ah, ah
-Uh, oooh, ah
-Uh, oooh, ah
+Uh, oh, ah
+Uh, oh, ah
 Ah, ah, ah
 Ah, ah, ah
 Ah, ah, ah

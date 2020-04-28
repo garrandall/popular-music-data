@@ -64,9 +64,6 @@ If you don't believe it
 So let me know the truth
 Before I dive right into you
 
-
-
-
 I could fall, or I could fly
 Here in your aeroplane
 And I could live, I could die

@@ -100,4 +100,4 @@ Tonight, I'm getting over you
 
 
 
-Pretty gang, Rich Gang, Young Money..Nicki Minaj..I see you Carly Let's get it
+Pretty gang, Rich Gang, Young Money...Nicki Minaj...I see you Carly Let's get it

@@ -68,7 +68,7 @@ She's still thinking of me
 Yall out there makin love
 I couldn't make em love me
 In the back of the lap with it
-Just.......that!
+Just...that!
 
 
 Oh, Oh
@@ -137,7 +137,7 @@ Hugging on you while
 I'm listening to Mike Jones
 Then as soon as we got in the sac
 I can hit it in the back of the lack of
-A fifth of the yac like like........that!
+A fifth of the yac like like...that!
 
 
 It's the middle of the night yall got into a fight

@@ -73,11 +73,3 @@ As a morning sun on a new day
 Even though I know the end, Well I'd do it all again
 'Cause I got a lifetime in while you loved me
 
-
-
-
-
-
-
-
-

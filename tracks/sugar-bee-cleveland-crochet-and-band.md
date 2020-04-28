@@ -1,9 +1,10 @@
 ---
 artists:
-- Cleveland Crochet and Band
+- Cleveland Crochet
 features: []
 genres: []
 key: sugar-bee-cleveland-crochet-and-band
+lyrics_url: https://www.musixmatch.com/lyrics/Cleveland-Crochet/Sugar-Bee
 name: Sugar Bee
 rankings:
 - end_date: '1961-01-08'
@@ -27,4 +28,32 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
 ---
+Sugar bee, sugar bee
+Sugar bee, sugar bee
+Sugar bee, sugar bee
+Sugar bee, sugar bee
 
+Sugar bee, sugar bee
+Look what you done to me
+
+Well, you said you'd be
+My honey all night long
+When I found you, baby
+You were doing wrong
+
+Sugar bee, sugar bee
+Sugar bee, sugar bee
+Sugar bee, sugar bee
+Look what you done to me
+
+Yeah
+
+Well, you came home this morning
+Bout a quarter to four
+Found another woman
+Sitting at my door
+
+Sugar bee, sugar bee
+Sugar bee, sugar bee
+Sugar bee, sugar bee
+Look what you done to me

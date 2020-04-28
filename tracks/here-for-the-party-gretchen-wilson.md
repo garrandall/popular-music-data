@@ -86,19 +86,19 @@ Gonna get a little crazy just because I can
 
 
 You know im here for the party
-And i aint leavin til they throw me out
+And I aint leavin til they throw me out
 Gonna have a little fun gonna get me some
 You know im here, im here for the party
 
-I may not be a ten but the boys say i clean up good
-And if i gave em half a chance for some rowdy romance you know they would
+I may not be a ten but the boys say I clean up good
+And if I gave em half a chance for some rowdy romance you know they would
 Ive been waiting all week just to have a good time
 So bring on them cowboys and their pick up lines
 
 
 
-Dont want no purple hooter shooter just some jack on the rocks 
-Dont mind me if i start that trashy talk
+Dont want no purple hooter shooter just some jack on the rocks
+Dont mind me if I start that trashy talk
 
 
 

@@ -37,7 +37,7 @@ Your tenderness sets me free and I
 Feel that your feelin what I get to feelin
 Feel that your feelin what I get to feelin
 Feel that your feelin what I get to feelin
-For you ooh baby ooh baby
+For you ohbaby oohaby
 Get it up get it up get it up get it up
 
 You just do everything like nobody else

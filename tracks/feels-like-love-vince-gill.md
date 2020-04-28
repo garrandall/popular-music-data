@@ -112,7 +112,3 @@ The safest place for us to run
 I'll be here for you when the day is done
 Looks like my heart has found someone
 
-
-
-
-

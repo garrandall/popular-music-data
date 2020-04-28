@@ -85,14 +85,14 @@ That we both knew
 
 
 When autumn first arrived, you said you'd be my lady
-And you promised me that you would never go, (ooh-hoo)
+And you promised me that you would never go, (ohhoo)
 But with the change of month, there came October
 And now I'm wondering where, where did our love go
 It was the second rain of autumn (second rain of autumn)
 We shared our feelings
 And it was such, such a glorious autumn dream, yes it was
 But like kids, we were too shy to say to one another
-That together we would always like to be....
+That together we would always like to be...
 
 
 Someday soon, I know we'll come together

@@ -49,7 +49,7 @@ Thought weighs heavy on my mind
 Only thing I think about
 Is tonight the lights go out
 
-Ooh
+Oh
 And I hope it’s you tonight
 But not just tonight
 
@@ -65,7 +65,7 @@ Woo
 
 
 
-Ooh
+Oh
 Come on, come on
 And squeeze me, girl
 

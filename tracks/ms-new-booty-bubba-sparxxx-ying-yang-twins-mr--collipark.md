@@ -109,16 +109,16 @@ rankings:
 (Intro: Collipark, Bubba Sparxxx)
 
 (Chorus (Ying Yang Twins))
-Booty, booty, booty, booty, rockin' everywhere (3x)
-Rockin' everywhere (2x)
+Booty, booty, booty, booty, rockin' everywhere
+Rockin' everywhere
 
 (Bubba Sparxxx)
 I found you MS NEW BOOTY
 Get it together then bring it back to me
 Hit the playas club for about month or 2
-Put a tan on it then see what it do (2x)
+Put a tan on it then see what it do
 
-Get it ripe, get it right, get it tight (4x)
+Get it ripe, get it right, get it tight
 
 (1st verse (Bubba Sparxxx))
 Girl I don't need you, but chu need me
@@ -134,16 +134,16 @@ Its bubba and ying yang, all the way in this thang
 GO!
 
 (Chorus (Ying Yang Twins))
-Booty, booty, booty, booty, rockin' everywhere (3x)
-Rockin' everywhere (2x)
+Booty, booty, booty, booty, rockin' everywhere
+Rockin' everywhere
 
 (Bubba Sparxxx)
 I found you MS NEW BOOTY
 Get it together then bring it back to me
 Hit the playas club for about month or 2
-Put a tan on it then see what it do (2x)
+Put a tan on it then see what it do
 
-Get it ripe, get it right, get it tight (4x)
+Get it ripe, get it right, get it tight
 
 (2nd Verse)
 Quarter to twelve and we just getting in
@@ -165,16 +165,16 @@ So go on do ya thing baby, work what chu got, to get what chu want
 Make that money, don't let it make u
 
 (Chorus (Ying Yang Twins))
-Booty, booty, booty, booty, rockin' everywhere (3x)
-Rockin' everywhere (2x)
+Booty, booty, booty, booty, rockin' everywhere
+Rockin' everywhere
 
 (Bubba Sparxxx)
 I found you MS NEW BOOTY
 Get it together then bring it back to me
 Hit the playas club for about month or 2
-Put a tan on it then see what it do (2x)
+Put a tan on it then see what it do
 
-Get it ripe, get it right, get it tight (4x)
+Get it ripe, get it right, get it tight
 
 (3rd Verse (Bubba Sparxxx))
 Hi there, how are things?
@@ -188,13 +188,13 @@ Ill bring the whip whoop, you bring your cook book
 And ima fix that stuff up, everything is good good
 
 (Chorus (Ying Yang Twins))
-Booty, booty, booty, booty, rockin' everywhere (3x)
-Rockin' everywhere (2x)
+Booty, booty, booty, booty, rockin' everywhere
+Rockin' everywhere
 
 (Bubba Sparxxx)
 I found you MS NEW BOOTY
 Get it together then bring it back to me
 Hit the playas club for about month or 2
-Put a tan on it then see what it do (2x)
+Put a tan on it then see what it do
 
-Get it ripe, get it right, get it tight (4x)
+Get it ripe, get it right, get it tight

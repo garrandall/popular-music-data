@@ -49,7 +49,6 @@ She never came out and told me that I was wrong
 But all of a sudden the light came on
 The day that she left tulsa
 
-Chorus
 
 I guess she thought the truth would end up drivin me away
 But she was wrong but I never had the chance to say
@@ -57,6 +56,5 @@ The day that she left tulsa
 
 In a chevy in a hurry in the pourin down rain (2 X's)
 
-Chorus
 
 In a chevy in a hurry in the pourin down rain (2x's)

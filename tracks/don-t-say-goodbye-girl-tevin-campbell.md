@@ -81,7 +81,7 @@ Baby, you know you mean the world to me
 (You mean the world to me, yeah)
 I never loved nobody the way that I love you
 (Never loved nobody)
-The way it feels, ooh, when I'm close to you
+The way it feels, oh, when I'm close to you
 (Feels so good, baby)
 When I'm holding you, touching you
 (Hey...)

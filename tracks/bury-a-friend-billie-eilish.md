@@ -105,9 +105,9 @@ The way I'm drinkin' you down
 Like I wanna drown, like I wanna end me
 
 
-Step on the glass, staple your tongue (Ahh)
-Bury a friend, try to wake up (Ah-ahh)
-Cannibal class, killing the son (Ahh)
+Step on the glass, staple your tongue (Ah)
+Bury a friend, try to wake up (Ah-ah)
+Cannibal class, killing the son (Ah)
 Bury a friend, I wanna end me
 
 
@@ -142,9 +142,9 @@ And I can't say no, I can't say no
 Careful
 
 
-Step on the glass, staple your tongue (Ahh)
-Bury a friend, try to wake up (Ah-ahh)
-Cannibal class, killing the son (Ahh)
+Step on the glass, staple your tongue (Ah)
+Bury a friend, try to wake up (Ah-ah)
+Cannibal class, killing the son (Ah)
 Bury a friend, I wanna end me
 
 

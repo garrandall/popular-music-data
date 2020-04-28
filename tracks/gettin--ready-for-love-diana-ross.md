@@ -100,8 +100,8 @@ Of that I'm sure
 You can tell
 
 Sailin' along on a breeze
-Ooh, I'm flying
-Ooh, I'm skying
+Oh I'm flying
+Oh I'm skying
 
 I'm getting ready for love
 Brand new start

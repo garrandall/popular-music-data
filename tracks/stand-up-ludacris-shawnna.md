@@ -146,7 +146,7 @@ Whoop ass, let security carry them out
 Watch out for the medallion, my diamonds are reckless
 It feels like a midget is hanging from my necklace
 I pulled up with a million trucks
-Looking, smelling, feeling like a million bucks, ahh
+Looking, smelling, feeling like a million bucks, ah
 Pass the bottles, the heat is on
 We in the huddle all smoking that Cheech & Chong
 What's wrong? The club and the moon is full
@@ -178,7 +178,7 @@ Most girls looking right, some looking a mess
 That's why they spilling drinks all over your dress
 But Louis Vuitton bras all over your breasts
 Got me wanting to put hickeys all over your chest
-Ahh, come on we gon' party tonight
+Ah, come on we gon' party tonight
 Y'all use mouth to mouth bring the party to life
 Don't be scared, show another part of your life
 The more drinks in your system, the harder the fight

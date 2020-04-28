@@ -91,7 +91,7 @@ Oh, Candida
 We could make it together
 The further from here girl the better
 Where the air is fresh and clean
-Hmm hmm, Candida
+Hm hm, Candida
 Just take my hand and I'll lead ya
 I promise that life will be sweeter
 And it said so in my dreams
@@ -108,7 +108,7 @@ Oh, my Candida
 We could make it together
 The further from here girl the better
 Where the air is fresh and clean
-Hmm hmm, Candida
+Hm hm, Candida
 Just take my hand and I'll lead ya
 I promise life will be sweeter
 And it said so in my dreams

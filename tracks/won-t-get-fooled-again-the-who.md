@@ -124,6 +124,6 @@ No, no!
 
 
 
-YEAAAAAAAAAH!!!!!!!!!!!!!!!!
+YEAAAAAAAAAH!
 Meet the new boss
 Same as the old boss

@@ -43,7 +43,7 @@ Cause where he lives they don't use colored people
 
 Living just enough, just enough for the city...
 Living just enough...
-For the city... ooh, ooh
+For the city... oh oh
 
 
 His hair is long, his feet are hard and gritty
@@ -55,7 +55,7 @@ I hope you hear inside my voice of sorrow
 And that it motivates you to make a better tomorrow
 This place is cruel no where could be much colder
 If we don't change the world will soon be over
-Living just enough, stop giving just enough for the city!!!!
+Living just enough, stop giving just enough for the city!
 La, La, La, La, La, La,
 Da Ba Da Da Da Da Da Da
 Da Da Da Da Da Da

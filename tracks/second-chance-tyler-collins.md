@@ -75,7 +75,7 @@ We could make it, baby
 
 Turn back the hands of time
 To the days when you were mine
-Ooh, we were so happy together
+Oh, we were so happy together
 I never thought that I would
 Swallow my pride
 

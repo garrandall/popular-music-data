@@ -45,9 +45,6 @@ The things you've said have got me real mad
 I'm gettin' funny dreams again and again
 I know what it means but
 
-
-
-
 But I can't explain (Can't explain)
 Forgive me one more time, now (Can't explain)
 

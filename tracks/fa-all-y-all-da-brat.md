@@ -80,7 +80,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-02-11'
 ---
-I am..... quick to pull the trigger quick to pull your card
+I am... quick to pull the trigger quick to pull your card
 Hard late for the boulevard
 It's Da B to the R-A-T with the bump
 Sendin good vibrations from the trunk to the front
@@ -88,7 +88,7 @@ Of your ride (ride) where I live that's what they like (like)
 So that's what I give
 Somethin for them fools when they crawl and creep
 And creep and crawl, it's fa all y'all
-Well..........
+Well...
 
 
 Who's that makin that funky noise?
@@ -103,7 +103,7 @@ Now that Da Brat's in the house yo the house is packed
 Guys and girls everywhere with a hump in they back
 As I slang my funk like a boulder moves through the hood
 All Fa Y'all cause everything is good
-Now..... lay back listen to the phattest
+Now... lay back listen to the phattest
 Listen to the baddest rhymin' apparatus
 At a status you ain't got to check
 Cause y'all knows that I definitely gets wrecked

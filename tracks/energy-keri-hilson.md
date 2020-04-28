@@ -73,9 +73,6 @@ How could two be as one
 We've become so divided now
 There's no use hiding from my misery
 
-
-
-
 Now I can feel a change in me
 And I can't afford to slip much further
 From the person I was meant to be

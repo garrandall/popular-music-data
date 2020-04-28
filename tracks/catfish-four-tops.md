@@ -44,7 +44,7 @@ The girl danced all night
 Catfish sure was nice
 She makes my nature rise
 
-Ooh, she was amazin'
+Oh, she was amazin'
 She kept her guessin'
 But Lord, as she danced across the floor
 So tantalizin'
@@ -69,7 +69,7 @@ She makes my nature rise
 Hey, hey, hey, hey Catfish
 Rise
 
-Ooh, she's amazin'
+Oh, she's amazin'
 She kept everybody guessin'
 You oughta been there
 As she moved

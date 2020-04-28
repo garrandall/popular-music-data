@@ -74,17 +74,17 @@ That sounds good
 So reach into your chain of thoughts
 Try to find something new
 Because what worked for you so well before
-For me it just wont do
+For me it just won't do
 
 So reach into your chain of thoughts
 Try to find something new
 What works so well with you before
-For me it just wont do
+For me it just won't do
 
 So reach into your chain of thoughts
 Try to find something new
 What works so well with you before
-For me it just wont do
+For me it just won't do
 
 
 

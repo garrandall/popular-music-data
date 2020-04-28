@@ -1,9 +1,10 @@
 ---
 artists:
-- Joe Cocker and The Chris Stainton Band
+- Joe Cocker
 features: []
 genres: []
 key: woman-to-woman-joe-cocker-and-the-chris-stainton-band
+lyrics_url: https://genius.com/Joe-cocker-woman-to-woman-lyrics
 name: Woman To Woman
 rankings:
 - end_date: '1972-12-08'
@@ -43,4 +44,43 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-01-27'
 ---
+Woman to woman (woman to woman)
+Heartache to heartache (hardache to hardache)
+Lover to lover (lover to lover)
+Woman to woman (woman to woman)
 
+Woman to woman
+Ev'rything I say got labeled and has happened
+Seems to come your way
+You don't care if it rains or shines
+Long as you know what's been goin' down at the local rodeo
+
+Woman to woman (woman to woman)
+Hardache to hardache (hardache to hardache)
+Lover to lover (lover to lover)
+Woman to woman (woman to woman)
+
+Lover to lover
+Well, I'm brown as brown can be
+Don't let it get on me
+You talk about money, honey
+And then you pray child
+But I don't wanna be alone long before
+
+Woman to woman (woman to woman)
+Hardache to hardache (hardache to hardache)
+Lover to lover (lover to lover)
+Woman to woman (woman to woman)
+
+Hardache to hardache
+Don't let it break so fast
+Think about all you have
+And let it last
+I can't take no more teardrops from you
+But that don't give you no right to shout
+
+Woman to woman (woman to woman)
+Hardache to hardache (hardache to hardache)
+Lover to lover (lover to lover)
+Woman to woman (woman to woman)
+Woman, yeah

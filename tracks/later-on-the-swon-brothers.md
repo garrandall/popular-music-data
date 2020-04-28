@@ -55,7 +55,7 @@ Ain't no room in the middle
 Girl watcha doing a little later
 
 Let's go start a fire
-How about you and i get this thing moving shaking grooving
+How about you and I get this thing moving shaking grooving
 Baby tell me what your doing
 Later on later on later on later on later on later on
 
@@ -77,7 +77,7 @@ Ain't no room in the middle
 Girl watcha doing a little later
 
 Let's go start a fire
-How about you and i get this thing moving shaking grooving
+How about you and I get this thing moving shaking grooving
 Baby tell me what your doing
 Later on later on later on later on later on later on
 

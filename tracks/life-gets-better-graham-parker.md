@@ -52,8 +52,8 @@ When ever I'm in her arms
 Just to know I'm not the average fella
 I'm the one, I'm the one for her
 
-Oooh Life gets better yeah, When ever I'm in her arms
+Oh Life gets better yeah, When ever I'm in her arms
 Just to know I'm not the average sucker, I'm the one, I'm the one for her
 
-Oooh Life gets better yeah, Oooh Life gets better yeah
-Oooh Life gets better yeah
+Oh Life gets better yeah, Oh Life gets better yeah
+Oh Life gets better yeah

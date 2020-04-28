@@ -81,7 +81,7 @@ rankings:
   start_date: '2015-01-31'
 ---
 She said she wanna stay together
-I don't think I can, ooh
+I don't think I can, oh
 
 
 Red light, you know I can't make this thing that official

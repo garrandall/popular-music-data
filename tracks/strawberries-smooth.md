@@ -81,7 +81,7 @@ Yeah, uh huh
 (Strawberries on top with some Hennessy)
 It's the one and only, yeah
 The Female Mac, yeah
-Ooh, ooh, ooh baby, yeah
+Oh, oh, oh baby, yeah
 (Strawberries on top with some Hennessy)
 That's right, yeah, babe
 (Straw-berr-berries on top)

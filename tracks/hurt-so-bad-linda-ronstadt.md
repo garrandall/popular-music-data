@@ -97,8 +97,8 @@ Come back it hurts so bad
 Don't make it hurt so bad
 I'm begging you please
 
-Oh-oh-oh-oh-oh, ooooooooh
-Oh-oh-oh, oh-oh-oh, oooooooh
+Oh-oh-oh-oh-oh, oh
+Oh-oh-oh, oh-oh-oh, oh
 Come back it hurts so bad
 Come back it hurts so bad
 I'm begging you please

@@ -59,9 +59,6 @@ Don't get beat down to the song
 I see these hatin' ass niggas wanna fight
 Well it's about to be a hell of a night
 
-
-
-
 I'm always looking for trouble to get into
 Tell your girlfriend's friends, bring friends too
 What you drinkin'? I got it, I pour it all up

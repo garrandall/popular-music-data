@@ -148,6 +148,3 @@ I'm just glad I know the truth
 And I'm paying my own bills
 And I'll never ever depend on you
 
-
-
-

@@ -74,5 +74,5 @@ I know I'm gonna cry but I've got to say bye-bye
 (Even though I love you)
 With tears in my eyes from the hurt I feel inside
 (Even though I love you)
-Ooh, I, I, I've got to let you go, boy
+Oh, I, I, I've got to let you go, boy
 (Even though I love you)

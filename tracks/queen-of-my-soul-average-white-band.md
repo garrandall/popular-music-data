@@ -93,22 +93,22 @@ You're the queen of my soul
 Music (music) sweet music (sweet music)
 You're the queen of my soul
 Music (music) sweet music (sweet music)
-You're the queen of my soul (yeah..yeah..)
+You're the queen of my soul (yeah...yeah..)
 
 Music, sweet music (oh..)
 You're the queen of my soul (the soul music)
-Music (yeah..hey..) sweet music
+Music (yeah...hey..) sweet music
 You're the queen of my soul
 
-Music (yeah, yeah) sweet music (oh..yeah..yeah..)
+Music (yeah, yeah) sweet music (oh...yeah...yeah..)
 You're the queen of my soul (queen of my soul)
 Music, sweet music (sweet, sweet music)
 You're the queen of my soul (music, you gotta pass it on)
 
 Music, sweet music (don't you keep your music to yourself)
 You're the queen of my soul
-Music (music) sweet music (ooh..)
-You're the queen of my soul (ooh..yeah..yeah..)
+Music (music) sweet music (oh..)
+You're the queen of my soul (oh...yeah...yeah..)
 
 
 

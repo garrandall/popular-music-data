@@ -97,7 +97,7 @@ The world's an ugly place but she is such a sight to see
 The kind of woman, that would put up a fight for me
 The kind that wants, to spend the summer nights with me
 The temp was 80 and I'm cruisin with my lady
-Playin some Ralphie Vagon, ooh baby baby
+Playin some Ralphie Vagon, oh baby baby
 I see my homeboys and they're cruisin in their ride (hey wassup homes)
 With their ladies, sittin by their side
 People think we look crazy but I think we look classy
@@ -165,8 +165,4 @@ Head to bo-lo and we just don't stop
 Party until the mornin' light (whoa!)
 Ain't nothin' like them summer nights
 (summer nights)
-
-
-
-
 

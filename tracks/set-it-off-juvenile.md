@@ -69,9 +69,9 @@ rankings:
   start_date: '2001-11-17'
 ---
 KICK ASS!
-(Mmm-hmm) C'mon
-(Uh-huh, mm-hmm)
-Y'all boys don't know NUTTIN bout me (mm-hmm, uh-huh)
+(Mmm-hm) C'mon
+(Uh-huh, mm-hm)
+Y'all boys don't know NUTTIN bout me (mm-hm, uh-huh)
 Ya heard? .. "Ladies and gentlemen!"
 
 

@@ -67,7 +67,7 @@ rankings:
 
 Rubber ball, I come bouncin' back to you
 Rubber ball, I come bouncin' back to you
-Hoo-ah-ooh-ooh
+Hoo-ah-ohooh
 
 I'm like a - rubber ball, baby that's all
 That I am to you (bouncy, bouncy) (bouncy, bouncy)
@@ -86,15 +86,15 @@ Rubber ball, I'll come bouncin' back to you
 You bounce my heart around (you don't even put her down)
 And like a rubber ball, I come bouncin' back to you
 Rubber ball, I come bouncin' back to you
-Hoo-ah-ooh-ooh
+Hoo-ah-ohooh
 Bouncy, bouncy... bouncy, bouncy
 Bouncy, bouncy... bouncy, bouncy
-Eee-ah-eee-eee
+Eee-ah-ee-ee
 
 You bounce my heart around (you don't even put her down)
 And like a rubber ball, I come bouncin' back to you
 Rubber ball, I come bouncin' back to you
-Ah-ooh-ooh-ooh-ooh
+Ah-ohoohhohoh
 (Bouncy, bouncy) (bouncy, bouncy)
 (Bouncy, bouncy) (bouncy, bouncy)
 

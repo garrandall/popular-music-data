@@ -127,7 +127,3 @@ All it takes is time and patience
 To bring you near
 But who got me, tell me
 
-
-
-
-

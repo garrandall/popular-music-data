@@ -32,19 +32,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
 ---
-Oooooh! Ooh I want to find a better place
-Oooooh! Ooh I'm searching for a better place
+Oh! OhI want to find a better place
+Oh! OhI'm searching for a better place
 
-Oooooh! Ooh I'm tired of living in the sand
-Oooooh! Ooh I'm searching for a better land
+Oh! OhI'm tired of living in the sand
+Oh! OhI'm searching for a better land
 
 Heaven, must be there-ere
 Well, it's just got to be there-ere
 I've never - never seen Eden
 I don't wanna live in this place
 
-Oooooh! Ooh I'm always trying to escape
-Oooooh! Ooh I never know which road to take
+Oh! OhI'm always trying to escape
+Oh! OhI never know which road to take
 
 Heaven, must be there-ere
 Well, it's just got to be there-ere
@@ -60,8 +60,8 @@ Live in this place
 
 Live in this place, this place
 
-Oooooh! Ooh I want to find a better place
-Oooooh! Ooh I'm searching for a better place
+Oh! OhI want to find a better place
+Oh! OhI'm searching for a better place
 
 Heaven, must be there-ere
 Well, it's just got to be there-ere

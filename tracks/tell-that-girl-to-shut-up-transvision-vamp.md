@@ -59,7 +59,7 @@ You better tell that girl
 You better tell that girl
 You better tell that girl
 
-Ooh you better tell, yeah you better tell, oh
+Ohyou better tell, yeah you better tell, oh
 You better tell that girl
 You better tell that girl
 You better tell that girl

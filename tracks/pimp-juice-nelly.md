@@ -42,20 +42,20 @@ One pound for the house, that's all we need baby
 Just one for the house.. c'mon
 
 
-Pimp juice - oooooooooh-ooooooooh-hoooooooo
+Pimp juice - oh-oh-hoooooooo
 I think I need to let it loose (might think I need to let it loose)
 Let her loose, let her loooooose
 She only want me for my pimp juice (that's all she want me for f'real)
 Not my pimp juice, I'm talkin new pimp juice
 I think I need to cut her loose (it's time for homegirl to recognize)
-Yes I do, yes I doooooo-hoooo
+Yes I do, yes I do
 
 
 I'm in that, seventy-four, Coupe DeVille
 With the, power seats, leather, wood on my wheel
 One-touch sunroof BUT leave it alone
 Hoes see it can't believe it - "It's goin back on it's own"
-Oooooooooooooooh, shit, that's how we do it baby
+Oh, shit, that's how we do it baby
 "Every day like this?"  Seven dayy-ayyys
 .. I tell you three-sixty-five
 Winter spring and fall, in the summer we ride
@@ -73,8 +73,8 @@ You ain't from Russia, so bitch why you rushin'?
 
 Now I'm - clean as a whistle (yeah) sharp as a razor (uh-huh)
 In anythang from Timberland to gators
-Now listen - I play the haters (ooh) like they should be played
-And uhh - I love the ladies (ooh) like they should get laid
+Now listen - I play the haters (oh) like they should be played
+And uhh - I love the ladies (oh) like they should get laid
 That's why I - I got my fade everybody had braids
 And now they - switch to fades and I'm thinkin 'bout braids
 Just an example of hoochieless jackin

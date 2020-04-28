@@ -44,16 +44,16 @@ Sometimes I wonder if it's all worth my while
 Xzibit stay versitile
 with Million Dollar lifestyle
 and I can feel it as a child growin' up
-the niggaz that were real and the niggaz that were scared as fuck
+the niggas that were real and the niggas that were scared as fuck
 that's why Xzibit only roll with a chosen few
 You ain't really real, I can tell when I look at you
 So ease off the trigga talk, you ain't killin shit
-it's not affecting me or the niggaz that I'm chillin with
+it's not affecting me or the niggas that I'm chillin with
 I don't believe the hype or buy a Woof ticket
 Nigga you make a gang of noise and never seem like a cricket
 I guess that's why we never kick it
-a lot of niggaz are soft and get tossed tryin to fuck with the liquid
-How many niggaz do you know like this?
+a lot of niggas are soft and get tossed tryin to fuck with the liquid
+How many niggas do you know like this?
 Also claimin that they're riding but they really turn bitch
 It don't make sense
 Either you're a soldier from the start
@@ -63,13 +63,13 @@ like dat
 
 
 It's a shame
-niggaz in the rap game
+niggas in the rap game
 only for the money and the fame
 EXTRA LARGE
 It's a shame
-niggaz in the rap game
+niggas in the rap game
 only for the money and the fame
-Paparazzi 
+Paparazzi
 
 
 
@@ -80,7 +80,7 @@ I'm more like a planet
 so my composure is kept while others start to sweat
 A merchant from the fog with my fucked up dialogue
 try to live high on the hog leaves you bankrupt
-and niggaz you spent it on, would not give a fuck
+and niggas you spent it on, would not give a fuck
 now that's deep, how deep, It's deeper than Atlantis
 Home of the scandalous
 Big Bad Los Angeles
@@ -95,13 +95,13 @@ from the West
 puttin whole counties to the test
 it's all in perspective
 Breaker one-nine copy
-this is for the niggaz gettin caught up in the Paparazzi
+this is for the niggas gettin caught up in the Paparazzi
 
 
 
 
 
-Niggaz smoke stress and cross dress
+Niggas smoke stress and cross dress
 but I just play the back
 others going through schemes and pipe dreams
 for a contract
@@ -115,15 +115,11 @@ I set it off straight, I spread hate, then I vacate, but wait
 who dare to cross this path
 yo, I do ya like math
 cut with glass, make a blood bath
-so on behalf of all niggaz I get drunk with
+so on behalf of all niggas I get drunk with
 smoke a lot of blunts with
 I dispose of your punk shit
 keep it all in perspective
 Carbon Copies gettin caught up in the Paparazzi
 
 Once again it's the liquidation crew and I return for you
-
-
-
-
 

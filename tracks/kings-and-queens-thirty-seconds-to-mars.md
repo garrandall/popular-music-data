@@ -28,10 +28,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-01-09'
 ---
-Ooh, ooh, ooh
-Ooh, ooh, ooh
-Ooh, ooh, ooh
-Ooh, ooh, ooh
+Oh, oh oh
+Oh, oh oh
+Oh, oh oh
+Oh, oh oh
 
 
 Into the night

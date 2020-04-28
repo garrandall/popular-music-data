@@ -109,13 +109,10 @@ And I don't really care if it's platinum or white gold
 As long as the VS bling, look at that light show
 In the hood they say Fifty man your sneaker look right yo
 Just can't believe Reebok did a deal with a psycho
-Banks is a sure thing, yall niggaz might blow
+Banks is a sure thing, yall niggas might blow
 I'm fittin to drop that, so I suggest you lay low
 Buc, he from Cashville, Tenneckee nigga
 Getting them ten of keys, save ten for me nigga
-
-
-
 
 I'm sensing a lot of tension now that I'm rappin
 But the kids used to look up to you, what happened?
@@ -134,9 +131,6 @@ We're in a different time zone, your records don't reach us
 Naww, I ain't here to save the world, just roll up a blunt
 Come with me out front, I'LL TEACH YOU HOW TO STUNT
 
-
-
-
 Chain so icy, you don't have to like me
 In a throwback jersey, with the throwback nikes
 I know you probably seen me with Cash Money from back in the days
@@ -153,8 +147,4 @@ I just pull up, get out, and get all the hoes
 They never seen door let up on a car before
 Don't be mad at me dog, that's all I know
 That's how to show these fougaisies how it's supposed to go
-
-
-
-
 

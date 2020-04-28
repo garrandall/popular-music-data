@@ -148,7 +148,7 @@ Shake your love
 I just can't shake your love
 
 
-Ooh I know what you're thinking
+Oh I know what you're thinking
 I see it in your eyes
 You want to give our love another try
 I'm so glad you realize I can't...

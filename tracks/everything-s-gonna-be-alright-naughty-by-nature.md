@@ -133,9 +133,6 @@ Why did I have to live a life of such a bad one
 Why when I was a kid and played I was a sad one
 And always wanted to live like this or that one
 
-
-
-
 A ghetto bastard, born next to the projects
 Living in the slums with bums, I said, "now why, Treach"
 "Do it have to be like this"
@@ -162,9 +159,6 @@ I'm slowin' and flowin' and going in on and knowing not now
 How will I do it, how will I make it
 I won't, that's how
 Why me, huh
-
-
-
 
 My third year into adulthood, and still a knucklehead
 I'm better off dead huh, that's what my neighbor said

@@ -4,7 +4,6 @@ artists:
 features: []
 genres: []
 key: why-should-i-cry-the-gentrys
-lyrics_url: https://genius.com/The-gentrys-why-should-i-cry-lyrics
 name: Why Should I Cry
 rankings:
 - end_date: '1970-02-13'
@@ -32,4 +31,3 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-03-14'
 ---
-(Verse)

@@ -62,7 +62,7 @@ Let's call it a day
 I never questioned my feelings before
 I felt but I felt there was it, nothin' more
 But I can't keep denying the truth in my heart
-Ooh, the touching and talking but we're oceans apart
+Oh the touching and talking but we're oceans apart
 
 If I told you I needed you
 But I sent you away

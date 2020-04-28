@@ -44,7 +44,7 @@ My family's strugglin', I'm buggin', sittin' on my porch
 So confused, chewin' on some bubblegum
 I was always taught to use my manners with the misses
 But please, stay away from the hoes and snitches
-And I was always reached for the sky, I dont know why
+And I was always reached for the sky, I don't know why
 Ima little bitty kid wit' a whole buncha gangsta wishes
 When I grow up, you just wait, Ima be so straight
 And everything's gonna be so marvelous
@@ -69,14 +69,11 @@ My older cousin need some cheddar too
 He thinkin' 'bout comin' up on the lick, to get it quick
 It involves that local corner store
 I overheard him say he knew who works there
-And whatever they do, dont let the owner know
+And whatever they do, don't let the owner know
 I hope he come back with enough to let me borrow some change
 At least for the summer
-And if he dont let me borrow nothin, but ask me what I want
+And if he don't let me borrow nothin, but ask me what I want
 Ima tell him I wanna...
-
-
-
 
 Why can't I walk with a limp mama? won't be no drama
 For goodness sakes, Im just a kid
@@ -88,7 +85,7 @@ How some just creep, really just to eat a meal
 What I left to rob and steal
 Man, I gotta earn for a livin', ain't nobody givin' me nothin'
 Find somethin' I love to do
-Hmm, what about that pimpin'? It's good tippin'
+Hm, what about that pimpin'? It's good tippin'
 Tax free, and I know a lot of people that love to screw
 Yeah, it's just a way of the world, with boys and girls
 I'm adjustin' to my environment

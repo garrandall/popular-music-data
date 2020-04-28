@@ -133,9 +133,9 @@ Woo! (pretty girls)
 (Pretty girls)
 (Pretty girls)
 (Yeah-yeah)
-Ev'ry road I walk
+Every road I walk
 (There's a pretty girl on)
-Ev'ry street and trail
+Every street and trail
 (Struttin, struttin' an-a walkin')
 Even a-when I sail
 (Pretty-pretty-pretty girls)

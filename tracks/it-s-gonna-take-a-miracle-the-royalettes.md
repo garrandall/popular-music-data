@@ -52,7 +52,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
 ---
-Ooh... Ooh... Ooh... Ooh... Ooh... Ooh... Ooh... Ooh... Ooh
+Oh.. OOh. OhOh Oh.OhOh...Ohh...Oh... Oh.. OOhOh
 
 Loving you so
 
@@ -60,11 +60,11 @@ I was too blind to see you letting me go
 Now that you've set me free
 
 Chorus:
-It's gonna take a miracle (ooh)
+It's gonna take a miracle (oh
 Yes it's gonna take a miracle
 To make me love someone new
 Cause I'm crazy for you
-Ooh...
+Oh..
 
 Didn't you know?
 It wouldn't be so easy letting you go

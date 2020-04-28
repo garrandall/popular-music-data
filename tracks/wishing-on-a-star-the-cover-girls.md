@@ -142,7 +142,7 @@ Make the best of things
 Oh baby
 When we're together
 Whether or never
-Oh woh woh, ooooooo, ooooo
+Oh woh woh, oo, oo
 
 I'm wishing on a star
 To follow where you are
@@ -175,7 +175,7 @@ Wishing on a star
 
 I'm wishing
 
-Ooooo, ooooooooo
+Ooooo, oo
 (Wishing on a, wishing on a, wishing on a, wishing on a star)
 (Wishing on a, wishing on a, wishing on a)
 Wishing on a star

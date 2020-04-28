@@ -119,9 +119,3 @@ And we got a new joe in town
 When the record player get to skippin and slowin down
 All yawl can say is them niggas earned that crown but until then...
 
-
-
-
-
-
-

@@ -81,7 +81,6 @@ She was shy and had a fear of things she did not know
 But we got it on together in such a super way, held each other
 Close at night and traded dreams each day, and
 
-(chorus)
 She said, "Rocky I've never been in love before, don't know if I can do it
 But if you let me lean on you, take my hand I might get through it
 Oh and I said, " Baby oh sweet baby it's love will set us free, and
@@ -92,7 +91,6 @@ We worked at night to fix it up took classes in the day, paintin
 Walls and sippin wine sleepin on the floor, With so much love for
 Just two soon we found there'd be one more
 
-(chorus)
 She said, "Rocky I've never had a baby before, don't know if I can do it
 But if you let me lean on you, take my hand I might get through it
 Oh and I said, " Baby oh sweet baby it's love will set us free, and
@@ -103,7 +101,6 @@ Party when our baby girl turned one, I was proud and satisfied
 Life had so much to give, til the day they told me that she didn't have
 Long to live
 
-(chorus)
 She said, "Rocky I've never had to die before, don't know if I can do it..."
 Now it's back to two again
 The little girl and I

@@ -93,8 +93,8 @@ Beach baby, beach baby, there on the sand
 From July to the end of September
 Surfin' was fun, we'd be out in the sun every day
 
-Mmm, I never thought that it would end (ooh ooh)
-Mmm, and I was everybody's friend (ooh ooh)
+Mmm, I never thought that it would end (oh oh)
+Mmm, and I was everybody's friend (oh oh)
 Long hot days
 Blue sea haze
 Jukebox plays

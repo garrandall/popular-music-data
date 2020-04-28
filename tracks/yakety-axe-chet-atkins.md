@@ -18,22 +18,22 @@ rankings:
 ---
 Lyrics-merle travis
 Poverty stricken but still i'm stickin'
-To things i know to be facts
+To things I know to be facts
 One day it's feathers and the next day chicken
 While i'm pickin' my yakety axe
-Everybody says that i never will get far
+Everybody says that I never will get far
 Keepin' out of work by pickin'this guitar
 Livin' on a shoestring puttin' off things
 Like a shave and a haircut
-Money don't matter as long as i scatter
+Money don't matter as long as I scatter
 A little bit of happiness around
-If people keep grinnin' i figure i'm winnin'
+If people keep grinnin' I figure i'm winnin'
 With my good ole yakety sound
 City slickers go around turnin' up their noses
 Countin' their greenbacks smellin' their roses
-But i wouldn't quit my yakety axe
+But I wouldn't quit my yakety axe
 Even for a t-bone
-I'm confessin' i never took a lesson
+I'm confessin' I never took a lesson
 All of my notes is a matter of guessin'
 Hopin' they'll come out in some sort of manner
 That'll make a yakety sound

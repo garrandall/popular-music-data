@@ -80,7 +80,3 @@ And we some life livers
 Hoping that this life give us
 A lot of money, success, and a woman to ride with us
 
-
-
-
-

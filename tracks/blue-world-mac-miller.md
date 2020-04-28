@@ -34,7 +34,7 @@ Yeah, OK cool as Fall weather
 Fuck the bullshit, I'm here to make it all better
 With a little music for you
 I don't do enough for you
-Without you it's the color blue, ooh
+Without you it's the color blue, oh
 Don't trip, I was in the city, they was talking that shit
 Had the homies with me, all of a sudden they split
 We ain't even worried, we just laughing, that's rich
@@ -46,7 +46,7 @@ Don't be afraid, don't fall
 Think I lost my mind, reality's so hard to find
 When the Devil tryna call yo' line
 Shit, I always shine even when the light dim
-No, I ain't God but I'm feeling just like him, ooh don't trip
+No, I ain't God but I'm feeling just like him, ohdon't trip
 See I was in the whip riding, me and my bitch
 We was listening to us, no one else, that's it
 That's a flex, just a bit, let me talk my shit

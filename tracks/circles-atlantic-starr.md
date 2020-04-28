@@ -72,7 +72,7 @@ Circles, goin' round in circles
 Out of my mind, that's where I'm going
 Tryin' so hard to deal with you
 It's not so easy tryin' to bare these changes
-Ooh boy, that you're puttin' me through
+Oh boy, that you're puttin' me through
 
 In my head there's a ball of confusion
 And I can't figure out just what to do
@@ -88,7 +88,7 @@ Circles, goin' round in circles
 Out of my mind, that's where I'm going
 Tryin' so hard to deal with you
 It's not so easy tryin' to bare these changes
-Ooh boy, that you're puttin' me through
+Oh boy, that you're puttin' me through
 
 In my head there's a ball of confusion
 And I can't figure out just what to do

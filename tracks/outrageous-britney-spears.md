@@ -114,7 +114,7 @@ Let's be it, girl
 I just wanna be happy
 In a place where love is free
 Can you take me there
-Somebody, ooh
+Somebody, oh
 And when you mention my name
 Make sure you know the truth, yeah
 Until I vow to keep it forever

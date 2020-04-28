@@ -56,7 +56,3 @@ On my mind, on my mind
 On my mind, on my mind
 On my mind
 
-
-
-
-

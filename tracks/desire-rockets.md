@@ -51,7 +51,7 @@ I've tried in this department but
 I ain't had no luck with this,
 It sucks but it's exactly what I thought it would be like tryin' to start over
 I gotta hole in my heart for some kind of emotional rollercoaster
-Something I wont go until you toy with my emotion so it's over
+Something I won't go until you toy with my emotion so it's over
 It's like an explosion every time I hold ya, I wasn't jokin' when I told ya
 You take my breathe away
 Your a supernova, and I'm a

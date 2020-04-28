@@ -73,9 +73,6 @@ Rep for them real niggas, I'm winnin in California
 Winnin in Tennessee, hands down Atlanta
 Landslide Alabama, on my way to Sevana
 
-
-
-
 I said I woke up this morning, headache this big
 Pay all these damn bills, feed all these damn kids
 Buy all these school shoes, buy all these school clothes
@@ -92,9 +89,6 @@ Tell him I'm doin fine, Obama for mankind
 We ready for damn change so y'all let the man shine
 Stuntin on Martin Luther, feelin just like a king
 Guess this is what he meant when he said that he had a dream
-
-
-
 
 Yeah, our history, black history, no president ever did shit for me
 Had to hit the streets, had to flip some keys so a nigga won't go broke
@@ -113,9 +107,6 @@ For years there's been surprise horses in this stable
 Just two albums in, I'm the realest nigga on this label
 Mr. Black President, yo Obama for real
 They gotta put your face on the five-thousand dollar bill
-
-
-
 
 So I'm sittin right here now man
 It's June 3rd haha, 2: 08 AM

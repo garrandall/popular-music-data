@@ -103,7 +103,7 @@ What could I say
 I tried to hold you but the moon got in the way
 It won't be long before the morning
 Has you back in my arms,
-In my arms... ooh... ooh... ah... ah... ahh
+In my arms... oh.. oh. ah... ah... ah
 Yeah... yeah, yeah, yeah
 
 Hey, Miss Sun,

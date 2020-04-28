@@ -73,7 +73,7 @@ Throwin' down ain't nothin' but a thang
 This lovin' I have for you, it'll never change
 
 
-I dont mean to be bold
+I don't mean to be bold
 But I gotta let you know
 Liyah's got a thing for you
 And I can't let go

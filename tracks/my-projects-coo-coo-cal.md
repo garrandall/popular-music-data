@@ -46,7 +46,7 @@ rankings:
 ---
 
 
-In my project 
+In my project
 
 
 Dawg my project is sweetin
@@ -62,7 +62,7 @@ With shorties off in riggidies
 So if you ain't from here or wit my guys
 Don't even roll thru playa cuz all the traffic gettin minimized
 Cries for help cuz you got carjacked
-Niggaz roll for a minute then pass it to the hypes to sell the car back
+Niggas roll for a minute then pass it to the hypes to sell the car back
 And once she get it, it be stripped down
 Thugs, they got your system and your dubs and want your crib now
 Ya'll betta give the hood respect
@@ -138,7 +138,7 @@ In my projects, everybody cooks bricks
 In my projects, my projects thick
 Don't come to my projects if you ain't wit dis clique
 
-In my projects 
+In my projects
 
 
 

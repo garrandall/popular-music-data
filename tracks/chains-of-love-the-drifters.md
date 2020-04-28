@@ -71,7 +71,7 @@ Now, that's life, baby
 (Chains of love)
 Just a little bit tighter
 Tighter, baby
-And I like it, ooh, just a wee bit tighter
+And I like it, oh, just a wee bit tighter
 
 
 

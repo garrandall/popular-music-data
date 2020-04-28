@@ -78,7 +78,7 @@ You play the queen, I'll play the knave
 
 Oh, I'm lucky in love!
 Yes, I've got the winning touch
-Lucky in love!!
+Lucky in love!
 Suddenly, I'm dangerous
 
 I know it's a mystery when the numbers come up

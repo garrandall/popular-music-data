@@ -92,7 +92,7 @@ Do you really want to know
 Just how long will last
 Will all of the bad times pass?
 How can we make things right?
-Ooh and why, why is the world so unkind?
+Oh and why, why is the world so unkind?
 
 We surely can find peace of mind
 If we only see the light

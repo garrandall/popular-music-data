@@ -105,6 +105,3 @@ You'll touch the hand of God
 And He'll make you king
 And He'll make you king
 
-
-
-

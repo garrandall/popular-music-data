@@ -43,14 +43,8 @@ All the doors are closing I'm trying to move ahead
 And deep inside I wish it's me instead
 My dreams are empty from the day, the day you slipped away
 
-
-
-
 That since I lost you, I lost myself
 No I can't fake it, there's no one else
-
-
-
 
 'cause I've been fighting to let you go
 Some days I make it through and then there's nights that never end

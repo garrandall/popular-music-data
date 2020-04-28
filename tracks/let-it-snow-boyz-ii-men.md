@@ -74,12 +74,9 @@ Let it snow, Let it snow, Let it snow
 
 Let it snow (let it snow baby),
 Let it snow (I don't care about the weather)
-Let it snow (oh ooh ooh oh),
-Let it snow (leeet it snooow ooh)
+Let it snow (oh ohoohh),
+Let it snow (leeet it snooow oh
 
 I don't care what the weather may be
 As long as you're here with me
-
-
-
 

@@ -54,7 +54,7 @@ But you can do what you do and do it well I'm gonna
 
 
 (show up) Show up, empty
-Nothing in um, her..her
+Nothing in um, her...her
 No Silicone, no lipo, no botox, no dumpy dump (no)
 All natural, let the day spoil when another brother in this world
 Good looking momma
@@ -67,9 +67,6 @@ We ought to be shamed ourselves, creator couldn't rock the bed that well
 (look out) Breaking it down, riding this beat like (WOW)
 Papa jail man I gun her down
 
-
-
-
 This is defiantly the wickedest thing I hear of my life!
 OK! I've been sipping on that patron
 (get up, get up)
@@ -79,8 +76,4 @@ Might not feel the same way tomorrow (OK)
 But I'll deal with that tomorrow
 (get up, get up)
 'cause tonight you got me feeling like I wanna take you home
-
-
-
-
 

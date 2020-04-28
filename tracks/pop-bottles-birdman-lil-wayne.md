@@ -137,9 +137,6 @@ That's why we so paid and it be like that,
 I'd rather pop a bottle,
 Before I pop a gat
 
-
-
-
 Yea, only sipping red champaign,
 White-T, red hat, red bandanna,
 Uptown, choppers fuck companions,
@@ -152,8 +149,4 @@ All my cars, all the latest automatics,
 No lie, we don't even drive no asking,
 Uptown, we packing and we stacking,
 Young Money, Cash Money we the champions
-
-
-
-
 

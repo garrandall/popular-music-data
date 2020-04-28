@@ -47,7 +47,7 @@ I'm comin' home Cindy, Cindy
 I'm comin' home Cindy, Cindy
 And then I'll make you mine
 ----------
-Huh!!
+Huh!
 ---------
 My true love lives in Natchez
 And that's a way down South
@@ -79,4 +79,4 @@ Chorus
 (One more time)
 I'm comin' on home Cindy, Cindy
 I'm comin' on home Cindy, Cindy
-I'm gonna make you miiiiiine.....
+I'm gonna make you miiiiiine...

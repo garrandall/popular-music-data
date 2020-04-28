@@ -49,13 +49,13 @@ The only quiet place is inside your soul.
 >from tree to tree,
 >from you to me,
 Travelling twice as fast as on any freeway.
-Ev'ry single dream
+Every single dream
 Is wrapped up in the scheme,
 They all get carried on the relay.
 "Pass it on."
 Someone disapproves
 Of what you say or do,
-I was asked to see what i could learn you;
+I was asked to see what I could learn you;
 Don't believe your eyes,
 They're seeing only lies,
 What is done in the first place don't concern you.

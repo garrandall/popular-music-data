@@ -77,7 +77,7 @@ So sweet from the thighs to the cheek
 Sex on the beach check the size of my meat
 Call me the pusher ludacris king ding-a-ling sheet smusher
 Sweet street pusher give me that gusher.. nasty stuff
-Looker I took her..ran out of liquor... (time to re-up)
+Looker I took her...ran out of liquor... (time to re-up)
 Here comes her nigga (who give's a fuck)
 Rap fame and plat thangs they can't hang
 I mack dames and pack thangs and act strange
@@ -148,8 +148,4 @@ We gas those up like full service
 and keep 'em drunk like Kathie Lee Curtis
 And when you shake it.. you rock my world
 I done died and went to heaven.. you got a fatty girl
-
-
-
-
 

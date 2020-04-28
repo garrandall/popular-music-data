@@ -40,7 +40,7 @@ Niggas get exposed, I see the cracks and I'm the liar?
 Shit I've been exposed, I took the crack and built the wire
 Now who do you admire? Your rap songs is all tryin' my patience
 Them prices ain't real without inflation
-I done flew it, i done grew it, in a conduit
+I done flew it, I done grew it, in a conduit
 Moynat bags on my bitches, I done blew it
 See through it, neck, igloo it
 Habla en espaÃ±ol, I y tu it

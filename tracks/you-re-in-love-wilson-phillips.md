@@ -91,10 +91,10 @@ Having those feelings again
 
 
 And now I see that you're so happy
-And ooh, it just sets me free
+And oh it just sets me free
 And I'd like to see us as good of friends
 As we used to be
-Ah....My love...Ah
+Ah...My love...Ah
 
 
 You're in love
@@ -102,7 +102,7 @@ That's the way it should be
 'Cause I want you to be happy
 You're in love
 And I know that you're not in love with me
-Ooh, it's enough for me to know that you're in love
+Oh, it's enough for me to know that you're in love
 Now I'll let you go
 'Cause I know that you're in love...
 
@@ -114,10 +114,10 @@ Oh, I could've died
 
 
 But now I see that you're so happy
-And ooh, it just sets me free
+And oh it just sets me free
 And I'd like to see us as good of friends
 As we used to be
-Ah....My love...Ah
+Ah...My love...Ah
 
 
 You're in love
@@ -125,7 +125,7 @@ That's the way it should be
 'Cause I want you to be happy
 You're in love
 And I know that you're not in love with me
-Ooh, it's enough for me to know that you're in love
+Oh, it's enough for me to know that you're in love
 I can let you go
 'Cause I know that you're in love...
 
@@ -133,10 +133,10 @@ I can let you go
 I tried to find you but you were so far away
 I was praying that fate would bring you back to me
 Someday, someday, someday...
-Ooh, You're In Love
+Oh, You're In Love
 
 
-Ooh, it's enough for me to know that you're in love
+Oh, it's enough for me to know that you're in love
 Now I'll let you go
 'Cause I know that you're in love...No
-No, No, No, No, No, No, No.. Ooh...
+No, No, No, No, No, No, No.. Oh...

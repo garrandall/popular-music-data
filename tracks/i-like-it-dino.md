@@ -180,12 +180,12 @@ That's nice, uh huh
 I say yeah, yeah, yeah
 Yeah, yeah, yeah, yeah
 
-(Ooh, I like it)
+(Oh, I like it)
 Uh huh, uh huh
 Uh huh
 (I like it)
 Uh huh
-(Ooh, I like it)
+(Oh, I like it)
 
 Uh huh, uh huh
 Uh huh
@@ -225,13 +225,13 @@ I like it
 Yeah
 I like it
 
-(Ooh, I like it)
+(Oh, I like it)
 Uh huh, uh huh
 Uh huh
 (I like it)
 Uh huh
 
-(Ooh, I like it)
+(Oh, I like it)
 Uh huh, uh huh
 Uh huh (I like it)
 Uh huh

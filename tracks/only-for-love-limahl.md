@@ -55,16 +55,10 @@ Only For Love
 Love was never planned ever before.
 Some have spent their whole life searching cold and insecure.
 But as suddenly as that love will arrive.
-And you'll recognize the feeling ooh your on fire.
+And you'll recognize the feeling oh your on fire.
 
 And especially as she moves in close.
 When she moves that move there's no suppose.
 You'll find you're hunting when you'se apart.
 But when you give your heart its.
-
-
-
-
-
-
 

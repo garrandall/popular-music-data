@@ -74,9 +74,6 @@ Goodbye to Rosie, the queen of Corona
 Seein' me and Julio down by the schoolyard
 Seein' me and Julio down by the schoolyard
 
-
-
-
 In a couple of days, they're gonna take me away
 But the press let the story leak
 When the radical priest come to get me released

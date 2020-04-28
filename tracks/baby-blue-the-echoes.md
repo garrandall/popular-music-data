@@ -73,12 +73,12 @@ That those devil eyes (devil eyes)
 Are bluer than the skies?
 Ba-a-a-a-by blu-you-ue
 I-I-I love yo-ou-ou, I do
-(B-be -A-be -why, Baby Blue, ooh, ohh)
+(B-be -A-be -why, Baby Blue, oh oh)
 
 I don't call you "Honey" even though you're sweet
 It's really not the name for you-ou-ou
 Sweetheart, angel, lover, all are incomplete
-Only one name will do-ooh-ooh-ooh
+Only one name will do-ohoohhoh
 
 So I'm tellin' you (tellin' you)
 Though you're seventeen

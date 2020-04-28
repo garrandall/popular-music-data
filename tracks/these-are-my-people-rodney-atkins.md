@@ -137,7 +137,3 @@ We walk proud and we talk tough
 We got heart and we got nerve
 Even if we are a bit disturbed
 
-
-
-
-

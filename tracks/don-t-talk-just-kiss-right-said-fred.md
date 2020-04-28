@@ -51,7 +51,7 @@ Don't talk just kiss
 Let your tongue fool around
 Let's fool around
 
-Ooh yeah
+Oh yeah
 There's people, there's love
 You and I both apply to the above
 
@@ -69,7 +69,7 @@ We're wasting precious time
 
 Don't talk
 Kiss
-Ahh
+Ah
 And make it mine
 
 The one and only reason is fun, fun, fun

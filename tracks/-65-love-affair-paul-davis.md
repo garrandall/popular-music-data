@@ -109,8 +109,8 @@ Oh, I still can hear I can hear it baby
 
 Well I acted like a dum-dum
 You were bad with your pom-poms
-You said, ooh wah go team, ooh wah go
-Ooh-ee baby, I want you to know
+You said, ohwah go team, oohah go
+Ohee baby, I want you to know
 
 If I could go back in time
 Well, I know somehow you'd still be mine

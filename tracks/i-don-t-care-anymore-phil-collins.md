@@ -89,7 +89,7 @@ I don't care anymore
 
 
 Well, I don't care now what you say
-'Cos ev'ry day I'm feeling fine with myself
+'Cos every day I'm feeling fine with myself
 And I don't care now what you say
 Hey, I'll do alright by myself
 'Cos I don't

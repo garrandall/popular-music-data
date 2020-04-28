@@ -95,7 +95,7 @@ Oh, I, I never say goodbye
 (No matter how I try)
 
 I'll never, never gonna say goodbye, girl
-Ooh, baby, I'll never say goodbye
+Oh, baby, I'll never say goodbye
 (Never gonna say goodbye)
 (No matter how I try)
 
@@ -107,7 +107,7 @@ I never say goodbye
 (No matter how I try)
 
 I'll never say goodbye
-Ooh, baby, I'll never say goodbye
+Oh, baby, I'll never say goodbye
 (Never gonna say goodbye)
 (No matter how I try)
 

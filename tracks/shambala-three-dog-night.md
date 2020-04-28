@@ -78,9 +78,9 @@ With the rain in Shambala
 Wash away my sorrow, wash away my shame
 With the rain in Shambala
 
-Ah, ooh, yeah
+Ah, oh yeah
 Yeah, yeah, yeah, yeah, yeah
-Ah, ooh, yeah
+Ah, oh yeah
 Yeah, yeah, yeah, yeah, yeah
 
 Everyone is helpful, everyone is kind
@@ -88,9 +88,9 @@ On the road to Shambala
 Everyone is lucky, everyone is so kind
 On the road to Shambala
 
-Ah, ooh, yeah
+Ah, oh yeah
 Yea, yeah, yea, yeah, yeah
-Ah, ooh, yeah
+Ah, oh yeah
 Yeah, yeah, yeah yeah, yeah
 
 How does your light shine
@@ -103,9 +103,9 @@ On the road to Shambala
 I can tell my brother by the flowers in his eyes
 On the road to Shambala
 
-Ah, ooh, yeah
+Ah, oh yeah
 Yeah, yeah, yeah, yeah
-Ah, ooh, yeah
+Ah, oh yeah
 Yeah, yeah, yeah, yeah
 
 How does your light shine
@@ -117,14 +117,14 @@ In the halls of Shambala
 (Tell me how) How does your light shine
 In the halls of Shambala
 
-Ah, ooh, yeah
+Ah, oh yeah
 Yeah, yeah, yeah, yeah
-Ah, ooh, yeah
+Ah, oh yeah
 On the road to Shambala
 
-Ah, ooh, yeah
+Ah, oh yeah
 Shambala, la
-Ah, ooh, yeah
+Ah, oh yeah
 On the road to Shambala
 
 

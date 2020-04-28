@@ -120,9 +120,6 @@ Surround me like a waterfall
 And there's no stopping us right now
 I feel so close to you right now
 
-
-
-
 I feel so close to you right now
 It's a force field
 I wear my heart upon my sleeve, like a big deal
@@ -130,9 +127,6 @@ Your love pours down on me
 Surround me like a waterfall
 And there's no stopping us right now
 I feel so close to you right now
-
-
-
 
 And there's no stopping us right now
 And there's no stopping us right now

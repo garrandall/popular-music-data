@@ -102,6 +102,3 @@ Let's meet at the place downtown
 It's a shame it has to be like this
 But I really miss you baby
 
-
-
-

@@ -77,9 +77,9 @@ Catch a shooting star
 In Shangri-La
 
 Woooooooo
-Yeaaaaaah
+Yeah
 Woooooooo
-Yeaaaaaah
+Yeah
 
 In the evenin', late at night
 Take your time, do it right
@@ -99,10 +99,10 @@ You're in Shangri-La
 Catch a shooting star
 In Shangri-La
 
-Oohhhhhh
-Oohhhhhh Shangri-La
-Oohhhhhh
-Oohhhhhh Shangri-La
+Oh
+Oh Shangri-La
+Oh
+Oh Shangri-La
 Oh baby, oh baby, oh baby, oh baby
 
 

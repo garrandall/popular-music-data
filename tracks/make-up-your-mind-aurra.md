@@ -51,7 +51,7 @@ You keep on
 (Playing with my feelings)
 Yeah, that's what you keep doing, baby
 (Playing with my heart)
-Ooh, ooh, yeah
+Oh oh yeah
 You keep confusing me
 So that I don't know which way to go, whoa
 
@@ -83,7 +83,7 @@ You keep on
 (Playing with my feelings)
 Yeah, that's what you keep doing, baby
 (Playing with my heart)
-Ooh, ooh, yeah
+Oh oh yeah
 You keep confusing me
 So that I don't know which way to go
 

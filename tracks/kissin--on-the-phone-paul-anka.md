@@ -42,8 +42,8 @@ It rings, ting a ling
 And this is what we do
 
 Oh, well, we're kissing on the phone
-Ooh, ooh, kissing on the phone
-Ooh, ooh, when we're all alone
+Oh, oh kissing on the phone
+Oh, oh when we're all alone
 All were doing is
 Kissing on the phone
 
@@ -53,24 +53,24 @@ We're burning the wire
 Oh, gee, baby, what you do to me
 
 When we're kissing on the phone
-Ooh, ooh, kissing on the phone
-Ooh, ooh, when we're all alone
+Oh, oh kissing on the phone
+Oh, oh when we're all alone
 All were doing is
 Kissing on the phone
 
 (Hear it, ting a ling)
 
 Oh, well, we're kissing on the phone
-Ooh, ooh, kissing on the phone
-Ooh, ooh, when we're all alone
+Oh, oh kissing on the phone
+Oh, oh when we're all alone
 All were doing, we're
 Kissing on the phone
 
 (Oh gee, baby)
 
 When we are kissing on the phone
-Ooh, ooh, kissing on the phone
-Ooh, ooh, when we're all alone
+Oh, oh kissing on the phone
+Oh, oh when we're all alone
 All we're doing is
 Kissing on the phone
 

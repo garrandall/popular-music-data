@@ -20,14 +20,14 @@ rankings:
 What they gone' do?
 What they gone' do?
 What they gone' do?
-My wrist on ooh (Ooh)
-My wrist on ooh, yeah, yeah
+My wrist on oh(Oh)
+My wrist on oh yeah, yeah
 Yeah, yeah
 Southside on the track, yeah
 
 Put blindsides on my eyes nigga, I can feel the money (I can feel the racks)
 I got some young niggas pull on the opps, and they kill for money (They slide they slide)
-You ever felt a zombie? (Who?) Yo' body gon' smell like vomit (Ooh, ooh, ooh)
+You ever felt a zombie? (Who?) Yo' body gon' smell like vomit (Oh, oh ooh
 
 
 I done went bad (Bad)
@@ -70,7 +70,7 @@ I'm the first one to lead the whole legacy (Legacy)
 
 Put blindsides on my eye, young nigga, I can feel the money (I can feel the racks)
 I got some young niggas pull on the opps, and they kill for money (They slide, they slide)
-You ever felt a zombie? (Who?) Yo' body gon' smell like vomit (Ooh)
+You ever felt a zombie? (Who?) Yo' body gon' smell like vomit (Oh)
 
 They thought I would fail, I conquer (Fail)
 I swim with the sharks, piranhas (Piranha)
@@ -114,7 +114,7 @@ Nigga, pussy, bitch
 
 Put blindsides on my eye, young nigga, I can feel the money (I can feel the racks)
 I got some young niggas pull on the opps, and they kill for money (They slide, they slide)
-You ever felt a zombie? (Who?) Yo' body gon' smell like vomit (Ooh)
+You ever felt a zombie? (Who?) Yo' body gon' smell like vomit (Oh)
 They thought I would fail, I conquer (Fail)
 I swim with the sharks, piranhas (Piranha, rah)
 You tried to tell, informants (Twelve)

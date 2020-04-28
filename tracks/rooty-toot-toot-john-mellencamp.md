@@ -85,7 +85,3 @@ But once he cooled down he was ok
 Sometimes you're golden, man
 That's all I got to say
 
-
-
-
-

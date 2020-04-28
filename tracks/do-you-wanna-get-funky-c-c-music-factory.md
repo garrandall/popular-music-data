@@ -112,7 +112,7 @@ Do you wanna get funky with me?
 
 Everybody gather round now
 Were just chillin', groovin to the funky sound
-We dont need no special occasion
+We don't need no special occasion
 So come along, its a celebration
 Funky (a yes yes, y'all, yes yes, y'all)
 So funky, check it out, check it, check this out
@@ -170,9 +170,6 @@ Ladies, let your body flow
 Ladies, let your body flow
 Ladies, let your body flow
 Ladies, let your body flow
-
-
-
 
 Do you wanna, do you need?
 Everybody gather round now

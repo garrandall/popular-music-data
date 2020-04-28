@@ -47,7 +47,7 @@ Is it really me?
 Please tell me
 Are you out for fun?
 Only lovin' on the run
-And leave me cryin', ahh, cryin'
+And leave me cryin', ah, cryin'
 
 What's it gonna be?
 (Tomorrow)
@@ -55,7 +55,7 @@ Will he set me free?
 (Tomorrow)
 Gotta know for sure
 A broken heart don't have a cure
-It just keeps hurting, ahh, hurtin'
+It just keeps hurting, ah, hurtin'
 And when I'm hurtin'
 I can't stop hurtin'
 
@@ -70,7 +70,7 @@ You know it
 
 Want a love that's so
 But I'll turn around and go
-'Cause I can't take it 
+'Cause I can't take it
 I can't take it
 I can't face it
 My heart won't make it
@@ -86,7 +86,7 @@ Baby, tell me
 (What's it gonna be?)
 Come on, baby
 (What's it gonna be?)
-Hey, hey, you gotta tell me 
+Hey, hey, you gotta tell me
 What's it gonna be?
 
 

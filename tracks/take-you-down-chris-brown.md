@@ -98,7 +98,7 @@ Woah, here we are, all alone in this room, oh
 And girl, I know where to start and what we gonna do, yeah
 I'll take my time, we'll be all night, girl
 So get ready, babe, I got plans for me and you
-Woah, woah, ooh
+Woah, woah, oh
 
 
 It ain't my first time, but baby girl, we can pretend (Hey!)

@@ -21,7 +21,7 @@ Okay, yeah
 Say bro, (Yeah) where you get them from?
 Detroit? (Yeah) That machine gun, spray boy
 And it's gon' hit some
-New coupe? (Ooh) Been whippin' 'em
+New coupe? (Oh) Been whippin' 'em
 New boobs? (Yeah) Where you get them done?
 Payroll (Nice), might put you on a table
 And spread you out like some Yayo (I'm naughty, yah)

@@ -150,7 +150,7 @@ Baby, I'll be tough,
 Too much is not enough,
 No
 I can ride your heart 'til it breaks
-Ooh, I got what it takes
+Oh, I got what it takes
 
 Fame
 I'm gonna live forever

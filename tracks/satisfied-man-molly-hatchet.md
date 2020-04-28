@@ -46,9 +46,9 @@ Everything will wait
 Makes me a satisfied man.
 
 
-Oohh I'm so satisfied
+Oh I'm so satisfied
 Yea I'm so satisfied
-Oohh I'm so satisfied
+Oh I'm so satisfied
 Satisfied man.
 In the world
 That's falling down
@@ -59,9 +59,9 @@ Right to the end
 Though I'm a satisfied man.
 
 
-Oohh I'm so satisfied
+Oh I'm so satisfied
 Yea I'm so satisfied
-Oohh I'm so satisfied
+Oh I'm so satisfied
 Satisfied man.
 
 She keeps it comin'
@@ -88,13 +88,13 @@ Satisfied man
 Everything you do is sooo right
 Satisfied man.
 
-Oohh I'm so satisfied
+Oh I'm so satisfied
 Satisfied man
 
-Oohh yea I'm so satisfied
+Oh yea I'm so satisfied
 Satisfied man
 
-Oohh I'm so satisfied
+Oh I'm so satisfied
 Satisfied man
 
 Satisfied man

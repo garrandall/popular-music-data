@@ -4,9 +4,9 @@ artists:
 - Tina Turner
 features: []
 genres: []
-key: ooh-poo-pah-doo-ike-tina-turner
+key: oh-poo-pah-doo-ike-tina-turner
 lyrics_url: https://www.azlyrics.com/lyrics/iketinaturner/oohpoopahdoo.html
-name: Ooh Poo Pah Doo
+name: Oh Poo Pah Doo
 rankings:
 - end_date: '1971-05-21'
   rank: 97
@@ -38,9 +38,9 @@ rankings:
   start_date: '1971-06-26'
 ---
 
-I wanna tell you bout ooh poo pah doo
+I wanna tell you bout oh poo pah doo
 Baby, call me the most
-Ooh poo pah do, yeah
+Oh poo pah do, yeah
 Baby call me the most
 And I won't stop tryin'
 Till I create some disturbance in your mind

@@ -67,8 +67,8 @@ I'm longin' for the real thing
 People who know the real me
 And all the ways to love me back to life
 
-Mhm, I gotta get it right, ooh yeah
-Get it right, ooh yeah
+Mhm, I gotta get it right, ohyeah
+Get it right, ohyeah
 
 There's a place that I know where they all know me
 I gotta get back now to the ones who love me

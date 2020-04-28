@@ -97,7 +97,7 @@ Every road will lead me back to you again, my love
 Oh I cry so many tears, I couldn't face another day without you
 So tell me you care
 
-Oh, ooh, ooh, yeah, I believe in love, cause I believe in you
+Oh, oh oohyeah, I believe in love, cause I believe in you
 Things you do, I'm falling in love again with you
 I tried to let it go but it wouldn't die
 I know why love is forever, love is forever with you

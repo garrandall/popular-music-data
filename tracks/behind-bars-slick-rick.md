@@ -21,7 +21,7 @@ rankings:
   start_date: '1994-12-10'
 ---
 
-"This type of shit that happens every day" 
+"This type of shit that happens every day"
 
 
 In the slammer kid but I'm innocent
@@ -29,7 +29,7 @@ Lord played witty wasn't having any pity
 Now in Razor Blade City
 Cry suppose the situation seen mad eyes of foes
 Drives a Rolls, hey, yo, money, what size are those?
-Need to phone me til another sprang up, hmm, to gang up
+Need to phone me til another sprang up, hm, to gang up
 On the skid, housing the phone like he didn't know how to hang up
 Would be hard though ought a minute or so and then yells time on a
 And when you get your commisary, buy this and that or else I'm gonna

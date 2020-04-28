@@ -140,7 +140,7 @@ Oh yeah, oh yeah, oh yeah, yeah
 Sometimes I shave my legs and sometimes I don't
 Sometimes I comb my hair and sometimes I won't
 Depend on how the wind blows, I might even paint my toes
-It really just depends on whatever feels good in my soul (Ooh, ooh, ooh)
+It really just depends on whatever feels good in my soul (Oh, oh, oh)
 
 
 I'm not the average girl from your video (Oh)
@@ -163,7 +163,7 @@ I'm not the average girl from your video (Oh)
 And I ain't built like a supermodel (Oh)
 But I learned to love myself unconditionally
 Because I am a queen (Yeah)
-I not the average girl from your video (Ooh)
+I not the average girl from your video (Oh)
 My worth is not determined by the price of my clothes (Oh)
 No matter what I'm wearing I will always be
 India.Arie

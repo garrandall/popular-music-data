@@ -62,4 +62,4 @@ I know every gain must have a loss, so pray that our loss is nothing but time
 Till then, we'll dream of what there will be
 Till then, we'll call on each memory
 Till then, when I will hold you again
-Please wait till then (ooh)
+Please wait till then (oh)

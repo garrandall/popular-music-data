@@ -124,7 +124,7 @@ Going on and on and on
 Every time you go away
 You take a piece of me with you
 Every time you go away
-You take a piece of me with you, ooh
+You take a piece of me with you, oh
 
 
 Go on
@@ -143,7 +143,7 @@ Baby, even though you know
 Every time you go away, yeah
 You take a piece of me with you, oh
 Every time you go away
-You take a piece of me with you, ooh
+You take a piece of me with you, oh
 
 Oh
 
@@ -162,10 +162,10 @@ Every time you go away
 You take a piece of me with you
 
 Picking up the pieces
-Every time you go away (oooooh)
+Every time you go away (oh
 You take a piece of me with you (be careful)
 Every time you go away (every time you go)
 You take a piece of me with you
 You take a piece of me
-Every time you go away (oohh)
+Every time you go away (oh)
 You take a piece of me with you (every time you go)

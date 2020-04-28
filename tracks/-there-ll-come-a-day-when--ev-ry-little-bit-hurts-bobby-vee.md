@@ -4,7 +4,7 @@ artists:
 features: []
 genres: []
 key: -there-ll-come-a-day-when--ev-ry-little-bit-hurts-bobby-vee
-name: (There'll Come A Day When) Ev'ry Little Bit Hurts
+name: (There'll Come A Day When) Every Little Bit Hurts
 rankings:
 - end_date: '1964-12-18'
   rank: 93

@@ -126,20 +126,20 @@ Dancin' in moonlight, I know you are free
 'Cause I can see your star shinin' down on me
 
 
-(Together again, ooh)
+(Together again, oh
 Good times we'll share again
-(Together again, ooh)
+(Together again, oh
 Makes me wanna dance
-(Together again, ooh)
+(Together again, oh
 Say it loud and proud
-(Together again, ooh)
+(Together again, oh
 All my love's for you
 
 
 Always been a true angel to me - now above
 I can't wait for you to wrap your wings around me, baby
 (Wrap them around me, baby)
-Oooh, wrap them around me, baby
+Oh, wrap them around me, baby
 (Wrap them around me, baby)
 Sometimes hear you whisperin' "No more pain"
 No worries will you ever see now, baby
@@ -159,13 +159,13 @@ Dancin' in moonlight, I know you are free
 'Cause I can see your star shinin' down on me
 
 
-(Together again, ooh)
+(Together again, oh
 Good times we'll share again
-(Together again, ooh)
+(Together again, oh
 Makes me wanna dance
-(Together again, ooh)
+(Together again, oh
 Say it loud and proud
-(Together again, ooh)
+(Together again, oh
 All my love's for you
 
 

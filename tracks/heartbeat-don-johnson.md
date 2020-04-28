@@ -88,14 +88,14 @@ I´m looking for a heartbeat
 Beating like mine
 
 Looking at me, it´s easy to see
-You think you know just how i feel
+You think you know just how I feel
 Well you do me wrong
 And it won´t take me long
 Before my restless heart will heal
 
 I´m looking for love, a love like mine
 They tell me it´s so hard to find
-Well i can feel it in the rhythms
+Well I can feel it in the rhythms
 The heartbeat in the streets
 
 Heartbeat

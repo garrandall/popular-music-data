@@ -3,9 +3,9 @@ artists:
 - Lumidee
 features: []
 genres: []
-key: never-leave-you---uh-ooh-uh-oooh--lumidee
-lyrics_url: https://www.musixmatch.com/lyrics/Lumidee/Never-Leave-You-Uh-Ooh-Uh-Oooh-main
-name: Never Leave You - Uh Ooh Uh Oooh!
+key: never-leave-you---uh-oh-uh-oh--lumidee
+lyrics_url: https://www.musixmatch.com/lyrics/Lumidee/Never-Leave-You-Uh-OhUh-Oh-main
+name: Never Leave You - Uh OhUh Oh!
 rankings:
 - end_date: '2003-06-06'
   rank: 61

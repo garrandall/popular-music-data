@@ -80,11 +80,11 @@ Now you've come around for me
 
 
 Hey, if anybody loves you
-Ooh, baby
+Oh, baby
 I do you
 
 If anybody loves you
-Ooh, baby
+Oh, baby
 I do you
 
 
@@ -121,4 +121,4 @@ Now you've come around for me
 Hey
 Anybody loves you
 Anybody loves you
-Ooh, baby
+Oh, baby

@@ -72,7 +72,7 @@ rankings:
 I saw you standing and I felt your rage
 Like a dark cloud on a crowded stage
 You were talking through the smoke in your fantasy
-I know you girl, I know what to believe 
+I know you girl, I know what to believe
 
 Maybe things ain't been so good at home
 And the people that you love never cared at all
@@ -82,12 +82,12 @@ You want to run away, run away, that's all you know
 Believe it's alright to fantasize
 And say the words you think will satisfy me
 But you know better than that
-'Cause you know what's a lie 
+'Cause you know what's a lie
 
 You're living in dreamtime, baby (you want to run away)
-It's time to wake up, ooh
+It's time to wake up, oh
 You're living on dreamtime, baby (you want to run away)
-It's time to shape up 
+It's time to shape up
 
 In your dream, it's overcast
 Rain comes down, moving your way fast
@@ -102,10 +102,10 @@ Standing there is a man with movie star eyes
 You think he's gonna take care of you
 The man with the plan that'll see you through
 And I say there ain't no way
-'Cause I know he's a lie 
+'Cause I know he's a lie
 
 You're living in dreamtime, baby (you want to run away)
-It's time to wake up, ooh
+It's time to wake up, oh
 You're living on dreamtime, baby (you want to run away)
 It's time to shape up, shape up
 You're living on dreamtime (you want to run away)

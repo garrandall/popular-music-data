@@ -106,9 +106,6 @@ Keep a K with me like Kourtney
 Since a shorty I been popping like a forty
 End of story baby
 
-
-
-
 You work that thang like a nine to five
 Clock in to work and put in over time
 I pull up on you with that thang through your back
@@ -137,9 +134,6 @@ Talking shit gon' get you hit
 Boy don't get wet up, it's a set up
 Baby
 
-
-
-
 You me and me on you baby
 So tell me what you wanna do baby
 Said everything is up to you baby
@@ -155,7 +149,7 @@ And do you just right
 
 This could be your best night
 Get you home for the night
-And do you just right (ima bout to catch a body in here baby) 
+And do you just right (ima bout to catch a body in here baby)
 
 
 

@@ -72,11 +72,11 @@ Brodie got next NBA 2K
 I'm too paid
 Shaded with some ladies
 Reppin' my city
-West LA baby !
+West LA baby!
 West LA made me this way
 Two rules :
 Stay fresh , homie and get paid
-Hey !
+Hey!
 Never broke and never bummy
 I'm from where it's forever sunny
 
@@ -130,14 +130,14 @@ They go
 Yee-uh Yee-uh
 Shawty in my ear
 Saying all the things that I wanna hear
-Buzzin' !
+Buzzin'!
 And as the night ends
 I'mma have her and get all her friends
-Buzzin' !
+Buzzin'!
 Okay , hands in the air (Yee-uh)
 From the back to the front
 Everywhere
-Buzzin' !
+Buzzin'!
 Throwin' out 20's
 Throwin' out hundreds
 Ladies gotta love it

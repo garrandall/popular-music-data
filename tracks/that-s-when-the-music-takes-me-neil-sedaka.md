@@ -56,7 +56,7 @@ Helpin' me to find my way
 
 When the day is so long that I can't hold on
 When I'm down and I think my hope is gone
-Oooh, Yeah,
+Oh, Yeah,
 That's when the music takes me
 Closer to a brighter daaaay
 I can feel my soul explodin'

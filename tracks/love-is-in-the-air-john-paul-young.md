@@ -117,7 +117,7 @@ And it's there when you call out my name
 Love is in the air
 Love is in the air
 Oh-oh-oh
-Mm-ooh, ooh-ooh
+Mm-oh oohhoh
 
 
 Love is in the air
@@ -152,4 +152,4 @@ Oh-oh-oh
 Oh, love is in the air
 Love is in the air
 Oh-oh-oh
-Ooh-ooh-ooh-ooh
+Oh-ohoohhoh

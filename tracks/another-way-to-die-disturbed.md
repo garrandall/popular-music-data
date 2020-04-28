@@ -39,7 +39,7 @@ And the millions cry out to be saved
 Our endless maniacal appetite
 Left us with another way to die
 It's just another way to die
-Ooh, can we repent in time?
+Oh, can we repent in time?
 
 
 Greed and hunger led to our demise
@@ -68,8 +68,8 @@ And the millions cry out to be saved
 Our endless maniacal appetite
 Left us with another way to die
 It's just another way to die
-Ooh, can we repent in time?
+Oh, can we repent in time?
 
 
 It's just another way to die
-Ooh, can we repent in time?
+Oh, can we repent in time?

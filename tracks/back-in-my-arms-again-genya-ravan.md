@@ -20,7 +20,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-26'
 ---
-(Ooh!)
+(Oh)
 
 All day long, I hear my telephone ring
 Friends calling giving their advice
@@ -31,13 +31,13 @@ I lost him once through friends' advice
 But it's not gonna happen twice
 ’Cause all advice ever gotten me
 Was really long and sleepless nights
-(Ooh!)
+(Oh)
 
 But now, he's back in my arms again
 Right by my side
 I got him back in my arms again
 So satisfied
-(Ooh!)
+(Oh)
 
 It's easy for friends to say let him go
 But I'm the one who needs him so
@@ -48,13 +48,13 @@ This time, I'll live my life at ease
 Being happy loving whom I please
 And each time we make romance
 I'll be thankful for a second chance
-(Ooh!)
+(Oh)
 
 ’Cause he’s back in my arms again
 Right by my side
 I got him back in my arms again
 So satisfied
-(Ooh!)
+(Oh)
 
 How can Mary tell me what to do
 When she lost her love so true?
@@ -65,13 +65,13 @@ I listened once to my friends' advice
 But it's not gonna happen twice
 'Cause all advice ever gotten me
 Was really long and sleepless nights
-(Ooh!)
+(Oh)
 
 I got him back in my arms again
 Right by my side
 I got him back in my arms again
 So satisfied
-(Ooh!)
+(Oh)
 
 I’m satisfied
 So satisfied, I'm satisfied

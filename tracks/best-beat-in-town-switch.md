@@ -66,10 +66,6 @@ We'll rock the town
 And one thing we'll keep in mind
 Is the country sound
 
-
-
-
-
 Don't you know we got the best beat
 We got the best beat in town
 
@@ -78,10 +74,6 @@ Well well well well
 We gonna rock the town
 Said we're feeling good like we should
 Yeah yeah yeah we got the best beat
-
-
-
-
 
 With fingers snappin', hands clapping
 Drummer poppin', bassman pluckin'

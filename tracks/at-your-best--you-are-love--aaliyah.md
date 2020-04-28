@@ -89,7 +89,7 @@ rankings:
   start_date: '1995-01-14'
 ---
 Let me know, let me know
-Ahhh, let me know
+Ah, let me know
 Let me know, let me know
 
 

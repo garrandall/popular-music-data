@@ -252,9 +252,6 @@ When it's all said and done
 It gets hard, but it won't take away my love
 Whoa, oh, oh
 
-
-
-
 I'm here without you, baby
 But you're still on my lonely mind
 I think about you, baby

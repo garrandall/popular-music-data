@@ -132,7 +132,7 @@ My name is Prince the one and only (You can't stop Prince)
 Funky fresh for the 90's (Do that, do that, somebody)
 (Do that, do that, somebody)
 (Do that, do that, somebody)
-Hurt me (Do that, do that, some....)
+Hurt me (Do that, do that, some...)
 
 
 The funkier I be
@@ -176,7 +176,7 @@ I'm the blackjack dealer and the cards are stacked
 What do you expect you win when you're used to playing craps?
 
 (Do that, do that somebody)
-Hell yeah, let's get this under the hmm
+Hell yeah, let's get this under the hm
 (Do that, do that somebody)
 
 Damn, It's gettin' tricky

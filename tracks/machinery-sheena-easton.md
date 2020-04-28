@@ -45,9 +45,9 @@ I breathe a sight coz its only the beginning
 When I see reflection deep in his eyes, I know, he's got the power to hit it!
 
 
-I don't believe what he said to me, 
+I don't believe what he said to me,
 I'm feeling like a piece of machinery
-Gotta get in closer coz I cant see
+Gotta get in closer coz I can't see
 When you're telling me the truth, I refuse to believe
 
 Running on the ground with my innocence fading
@@ -57,10 +57,4 @@ I wanna give it hell, and behave just like a gonner
 I wanna stay and reduce the things I wanna
 When I see the pale moonlight in the sky, I know
 Hes got the power to hit it!
-
-
-
-
-
-
 

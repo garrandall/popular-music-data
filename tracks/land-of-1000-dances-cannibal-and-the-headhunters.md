@@ -96,8 +96,8 @@ Make you do the tango
 I said, do the Watusi
 Coeme on and do the Watusi
 
-Ooh, ooh, ooh...
-Ooo ooh ooh
+Oh, oh oh.
+Ooo ohooh
 
 I said, goodbye Lucy
 I said, goodbye child

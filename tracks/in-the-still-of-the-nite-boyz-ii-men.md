@@ -111,7 +111,7 @@ Promise I'll never
 Let you go
 (Shoo doop shooby wah)
 In the still of the night
-(Ooh, in the still of the night)
+(Oh, in the still of the night)
 
 
 I remember
@@ -139,7 +139,7 @@ Hold me again
 With all of your might
 (Shoo doop shooby wah)
 In the still of the night
-(Ooh, in the still of the night)
+(Oh, in the still of the night)
 
 
 Shoo wop, shoo wah
@@ -161,7 +161,7 @@ Hold me again
 With all of your might
 (Shoo doop shooby wah)
 In the still of the night
-(Ooh in the still of the night)
+(Oh in the still of the night)
 In the still of the night
 
 

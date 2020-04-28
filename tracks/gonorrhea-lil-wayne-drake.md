@@ -77,9 +77,6 @@ Smoking on that head band call that shit Paul Pierce
 I'm just so ahead of my time like dog years
 Ball like Solange, India Arie, Britney Spears
 
-
-
-
 I am, spending much more than I'm making on these cars and these vacations
 Is that too much information?
 I just bought a Lamborghini, I'm not even into racing

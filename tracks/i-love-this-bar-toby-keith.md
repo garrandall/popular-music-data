@@ -94,7 +94,7 @@ And we got yuppies, we got bikers
 We got thirsty hitchhikers
 And the girls next door dress up like movie stars
 
-Hmm, hmm, hmm I love this bar
+Hm, hm, hm I love this bar
 
 
 We got cowboys, we got truckers
@@ -103,7 +103,7 @@ And we got hustlers, we got fighters
 Early birds and all-nighters
 And the veterans talk about their battle scars
 
-Hmm, hmm, hmm I love this bar
+Hm, hm, hm I love this bar
 
 
 I love this bar
@@ -111,7 +111,7 @@ It's my kind of place
 Just walkin' through the front door
 Puts a big smile on my face
 It ain't too far, come as you are
-Hmm, hmm, hmm I love this bar
+Hm, hm, hm I love this bar
 
 
 I've seen short skirts, we got high-techs
@@ -120,7 +120,7 @@ And we got lovers, lots of lookers
 And I've even seen dancing girls and hookers
 And we like to drink our beer from a mason jar
 
-Hmm, hmm, hmm I love this bar
+Hm, hm, hm I love this bar
 Yes I do
 
 
@@ -134,8 +134,8 @@ It's my kind of place
 Just trollin' around the dance floor
 Puts a big smile on my face
 No cover charge, come as you are
-Hmm, hmm, hmm I love this bar
-Hmm, hmm, hmm I love this bar
+Hm, hm, hm I love this bar
+Hm, hm, hm I love this bar
 
 We got divorcees and a big bouncer man
 An old jukebox and a real bad band
@@ -143,10 +143,10 @@ We got waitresses and we got barflies
 A dumb-ass and a wise-guy
 If you get too drunk just sleep out in your car
 Reason number 672 why
-Hmm, hmm, hmm I love this bar
+Hm, hm, hm I love this bar
 Play it on out boys
 Beer-thirty's over
 Got to take it on home
-Hmm, hmm, hmm I love this bar
-Hmm, hmm, hmm I love this bar
+Hm, hm, hm I love this bar
+Hm, hm, hm I love this bar
 I just love it

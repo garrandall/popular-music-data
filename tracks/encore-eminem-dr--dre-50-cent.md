@@ -81,7 +81,7 @@ Cause we came here to set this party off right
 Let's bounce tonight
 And if they don't let us in through the front
 We'll come through the side
-Cuz i don't ever wanna leave the game without
+Cuz I don't ever wanna leave the game without
 At least saying goodbye
 So all my people on the left, all my people on the right
 Swing one last time
@@ -97,7 +97,7 @@ Get on down
 
 Times up, games over, you lose, I win
 'bout to show these knuckleheads how to do this here
-Ooh yeah, new year, next phase, begin
+Oh yeah, new year, next phase, begin
 Look who's got you goin' crazy again
 I'm a trend, I set one every time I'm in
 I go out and just come back full circle again
@@ -154,9 +154,6 @@ And leave it to me and Dre to pass the mic
 And we can play the back and forth all day
 Like the hot potato game, thats why we came to
 
-
-
-
 50 cent, come on!
 
 
@@ -185,9 +182,6 @@ Along with G-Unit Records presents the return of the-the Doc (and Shady)
 No one could do it better
 We tear the club up and leave without a strand of evidence and uh
 
-
-
-
 Yeah, haha
 Still Aftermath, 2006
 And don't worry about that Detox album
@@ -196,7 +190,7 @@ It's comin', we gonna make Dre do it, haha
 We ain't leavin', let's go! haha
 Ladies and gentlemen, thank you all for comin' out, peace!
 Oh shit, I almost forgot
-You're comin' with me 
+You're comin' with me
 Haha, bye bye!
 See you in hell, fuckers.
 

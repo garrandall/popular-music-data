@@ -115,22 +115,22 @@ A la la la la long, a la la la la long long li long long long
 Hey
 Standing across the room
 I saw you smile
-Said i want to talk to you-oo-oo
+Said I want to talk to you-oo-oo
 For a little while
-But before i make my move
+But before I make my move
 My emotions start running wild
 My tongue gets tied
 And that's no lie
 Looking in your eyes
 Looking in your big brown eyes
-Ooh yeah
+Oh yeah
 And i've got this to say to you
 Hey!
-Girl i want to make you sweat
+Girl I want to make you sweat
 Sweat till you can't sweat no more
 And if you cry out
 I'm gonna push it some, more, more
-Girl i want to make you sweat
+Girl I want to make you sweat
 Sweat till you can't sweat no more
 And if you cry out
 I'm gonna push it
@@ -138,7 +138,7 @@ Push it, push it some more
 A la la la la long, a la la la la long long li long long long
 C'mon
 A la la la la long, a la la la la long long li long long long
-So i said to myself
+So I said to myself
 Does she love me or not?
 But the dreads done know
 That love is his to get
@@ -149,20 +149,20 @@ My tongue gets tied
 And that's no lie
 Looking in you eyes
 Looking in your big brown eyes
-Ooh girl
+Oh girl
 And i've got this to say to you
 Hey!
-Girl i want to make you sweat
+Girl I want to make you sweat
 Sweat till you can't sweat no more
 And if you cry out
 I'm gonna push it some, more, more
-Girl i want to make you sweat
+Girl I want to make you sweat
 Sweat till you can't sweat no more
 And if you cry out
 I'm gonna push it
 Push it, push it some more
 A la la la la long, a la la la la long long li long long long
-Ooh yeah
+Oh yeah
 A la la la la long, a la la la la long long li long long long
 One more time
 A la la la la long, a la la la la long long li long long long
@@ -174,11 +174,11 @@ Eyes
 Looking in your big brown eyes
 And i've got this to say to you
 Hey
-Girl i want to make you sweat
+Girl I want to make you sweat
 Sweat till you can't sweat no more
 And if you cry out
 I'm gonna push it some, more, more
-Girl i want to make you sweat
+Girl I want to make you sweat
 Sweat till you can't sweat no more
 And if you cry out
 I'm gonna push it

@@ -104,14 +104,14 @@ She won't ever get enough
 Once she gets a little touch
 If I had it my way
 You know that I'd make her say
-Ooooooooooooooh
-Ooooooooooooooh
+Oh
+Oh
 She won't ever get enough
 Once she gets a little touch
 If I had it my way
 You know that I'd make her say
-Ooooooooooooooh
-Ooooooooooooooh
+Oh
+Oh
 
  My first kiss went a little like this...
 
@@ -131,14 +131,14 @@ She won't ever get enough
 Once she gets a little touch
 If I had it my way
 You know that I'd make her say
-Ooooooooooooooh
-Ooooooooooooooh
+Oh
+Oh
 She won't ever get enough
 Once she gets a little touch
 If I had it my way
 You know that I'd make her say
-Ooooooooooooooh
-Ooooooooooooooh
+Oh
+Oh
 
 My first kiss went a little like this
  and twist
@@ -150,21 +150,21 @@ Once she gets a little touch
 If I had it my way
 You know that I'd make her say...
 
-Ooooooooooooooh
+Oh
 
 
 She won't ever get enough
 Once she gets a little touch
 If I had it my way
 You know that I'd make her say
-Ooooooooooooooh
-Ooooooooooooooh
+Oh
+Oh
 She won't ever get enough
 Once she gets a little touch
 If I had it my way
 You know that I'd make her say
-Ooooooooooooooh
-Ooooooooooooooh
+Oh
+Oh
 
 She won't ever get enough
 Once she gets a little touch

@@ -95,10 +95,10 @@ You the man up in these streets, but when it comes to my heart
 That don't mean a thing, no, oh
 
 
-Baby hop in my ride, ooh, it's hot as hell outside
+Baby hop in my ride, oh, it's hot as hell outside
 Got the top down with your doors closed
 With my hand up on your thigh
-Drive slow, ooh, take your time
+Drive slow, oh, take your time
 
 
 Every little thing you do got me feeling some type of way
@@ -107,11 +107,11 @@ Oh-oh-oh oh, oh, oh-oh-oh oh, oh
 Everyday, everyday
 
 
-And it won't stop, boom, boom, ooh
-And it won't stop, boom, boom, ooh, yeah
+And it won't stop, boom, boom, oh
+And it won't stop, boom, boom, oh, yeah
 With every single part of me, my love for you is constantly (oh, oh)
 Forever and ever on repeat (oh)
-On repeat and it won't stop, boom, boom, ooh
+On repeat and it won't stop, boom, boom, oh
 
 
 I love when we pulling up to that beach (that beach)
@@ -133,11 +133,11 @@ Oh-oh-oh oh, oh, oh-oh-oh oh, oh
 Everyday, everyday
 
 
-And it won't stop, no, boom, boom, ooh
-And it won't stop, boom, boom, ooh, yeah
+And it won't stop, no, boom, boom, oh
+And it won't stop, boom, boom, oh, yeah
 With every single part of me, my love for you is constantly (me, oh)
 Forever and ever on repeat, on repeat
-And it won't stop, boom, boom, ooh
+And it won't stop, boom, boom, oh
 
 
 Everyday, everyday, I can't wait
@@ -150,11 +150,11 @@ I won't ever stop, my heart won't skip a beat, baby
 And it'll keep going on, going on, going on
 
 
-And it won't stop, boom, boom, ooh (no, I'm so in love with you, girl)
-And it won't stop, boom, boom, ooh, yeah (boom, oh)
+And it won't stop, boom, boom, oh (no, I'm so in love with you, girl)
+And it won't stop, boom, boom, oh, yeah (boom, oh)
 With every single part of me, my love for you is constantly
 Forever and ever on repeat, on repeat (oh)
-And it won't stop, boom, boom, ooh, boom
+And it won't stop, boom, boom, oh, boom
 And it won't stop
 
 
@@ -162,5 +162,5 @@ Girl I'm, rocking your body
 Rock-rocking your body (won't stop)
 Rock-rocking your body, baby (won't stop)
 Said I'm rocking your body, rocking your body to sleep
-And it won't stop, boom, boom, ooh
-And it won't stop, boom, boom, ooh, yeah
+And it won't stop, boom, boom, oh
+And it won't stop, boom, boom, oh, yeah

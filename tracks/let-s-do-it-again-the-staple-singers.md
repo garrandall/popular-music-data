@@ -109,7 +109,7 @@ I can love you now I brought you here
 
 I wanna do it again
 (Do it) (Do it, do it) I wanna do it again
-Ooh, oh, ho, hey, do it again
+Oh, oh, ho, hey, do it again
 Do it
 (Woo, hoo, hoo, hoo)
 Do it

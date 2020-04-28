@@ -90,9 +90,6 @@ I'll always be true
 So please, love me do
 Whoa, love me do
 
-
-
-
 Love, love me do
 You know I love you
 I'll always be true

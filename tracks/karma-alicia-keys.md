@@ -135,7 +135,7 @@ Oh
 Now you're sayin I'm your everything
 You're confusing me
 What you saying to me, don't play wit me, don't play wit me
-Cause....
+Cause...
 
 
 What goes around comes around

@@ -126,7 +126,7 @@ Take time, show me, love me
 You, for every time you pass my way
 Something inside that makes me sing
 I want you to know my heart belongs to you
-B-b-b, ooh
+B-b-b, oh
 
 Take time, show me, love me
 Show me that you need me, yeah yeah

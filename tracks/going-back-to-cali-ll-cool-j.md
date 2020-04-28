@@ -65,7 +65,7 @@ rankings:
   start_date: '1988-05-21'
 ---
 I'm going back to cali, cali, cali
-I'm going back to cali. hmm, I don't think so
+I'm going back to cali. hm, I don't think so
 I'm going back to cali, cali, cali
 I'm going back to cali. I don't think so
 

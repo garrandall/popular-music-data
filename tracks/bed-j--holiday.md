@@ -149,7 +149,7 @@ I'mma put you to bed, bed, bed
 
 I'm starin' at you while you sleep
 Irreplaceable beauty
-Put my face up in your neck and breathe (Ooh, breathe)
+Put my face up in your neck and breathe (Oh breathe)
 Take you into my senses
 Wake up it's time to finish
 Round two, round two
@@ -189,9 +189,9 @@ I'mma put you to bed, bed, bed
 
 
 Watch the sunlight peak over the horizon
-Ooh-ooh, ooh-ooh, ooh-ooh, ooh-ooh
+Ohoh oohhohh-oh ohohohoh
 The sun ain't the only thing that's shinin'
-Ooh-ooh, ooh-ooh, ooh-ooh, ooh-ooh
+Ohoh oohhohh-oh ohohohoh
 Now I'mma send you out into the world with my love
 Tell everybody, Ay
 Everybody

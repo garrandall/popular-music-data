@@ -132,10 +132,10 @@ Wahrheit und meine Lügen fallen grade wie der Regen
 Also lass den Fluss strömen
 
 
-Mein Name ist (ooh), mein Name ist (ooh)
-Fluss (ooh), Fluss ströme
-Nennt mich (ooh), nennt mich (ooh)
-Fluss (ooh), wir werden den Fluss strömen lassen
+Mein Name ist (oh, mein Name ist (oh
+Fluss (oh, Fluss ströme
+Nennt mich (oh, nennt mich (oh
+Fluss (oh, wir werden den Fluss strömen lassen
 
 
 Immer die Brautjunger, niemals „die Braut, hey“

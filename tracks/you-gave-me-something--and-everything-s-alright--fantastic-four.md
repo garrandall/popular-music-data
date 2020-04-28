@@ -61,9 +61,9 @@ Life so grand
 You filled my heart
 With something so special
 That brings out the best
-In a man, ooh, ooh
+In a man, oh oh
 And that was love
-Ooh, ooh, a special love
+Oh, oh a special love
 You gave me something
 That never grows old
 A treasure more precious
@@ -87,9 +87,9 @@ Life so grand
 You filled my heart
 With something so special
 That brings out the best
-In a man, ooh, ooh
+In a man, oh oh
 And that was love
-Ooh, ooh, a special love
+Oh, oh a special love
 Everything is alright
 (Everything is alright)
 You gave me something

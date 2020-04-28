@@ -66,7 +66,7 @@ I was wishing you could tell me your fears
 But I'll start with ya name
 You told me how ya man playin games
 So I said that it was time for a change
-And you just laughed 
+And you just laughed
 But it looked like you aint laughed in while
 I was glad that I could give you a smile
 Then we both blushed
@@ -74,10 +74,10 @@ But really girl it aint no rush
 I was thinking maybe we could discuss
 A future for us
 Cause homeboy just got you crushed
-You need to leave that clown in the dust 
+You need to leave that clown in the dust
 Trust
 I just wanna talk
-I'm thinking I can give you a call 
+I'm thinking I can give you a call
 And we can pick it up
 Where we left off
 I'll holla tomorrow
@@ -85,12 +85,12 @@ I'll holla tomorrow
 
 Girl I understand you're loyal to your man
 And that's alright aww baby
-But that dont change the fact
+But that don't change the fact
 That you fine and you stay crying every night nah baby
 Girl you got to let him know
 You can't live like this no more
 Nah baby
-Can't you see 
+Can't you see
 Together you and me could be so special ah baby
 
 
@@ -106,45 +106,41 @@ That I gotta mend
 That's unfair
 I've only been your lover and friend
 And homey there he just front and pretend
-But you dont care the life he leads
-Is unsafe 
+But you don't care the life he leads
+Is unsafe
 I would never place my hands to your face
 But still I chase
-Cat and mouse 
+Cat and mouse
 First you kick him out
 Then you at his house
 What is that about
-I cant figure you out
+I can't figure you out
 Even your friends said I was better
 But you listen to them
 Never like uh-uh whatever
-So the next time he hurts you again 
+So the next time he hurts you again
 You already knew where you should've been
 And that's with me
 
 
 
 
-All the times 
+All the times
 You 2way telling me
 That you miss me
 Wanting me to come over and keep you busy
 Remember that
-Now that you gone 
+Now that you gone
 It's been kinda hard
-Cant think, cant sleep
+Cant think, can't sleep
 Cant do nothing at all
-Just tell me why you had to go back 
+Just tell me why you had to go back
 See you aint have to go through that
-My baby 
+My baby
 You could've been here right by my side
 Me and you at the park taking walks outside
-But 
+But
 Instead, I keep on having these dreams
 Waiting for my phone to ring
-My baby wishing that it would be you But I know that wont come true
-
-
-
-
+My baby wishing that it would be you But I know that won't come true
 

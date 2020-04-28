@@ -33,8 +33,8 @@ rankings:
   start_date: '1969-04-12'
 ---
 
-Ooh, hoo, give it away
-Ooh, hoo, give it away
+Oh, hoo, give it away
+Oh, hoo, give it away
 
 What's the sense in giving you love
 When you're gonna give it away

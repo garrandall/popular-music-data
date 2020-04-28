@@ -103,9 +103,6 @@ Dressed so fresh make the girls say wow!
 Lovin me (lovin me) my Soulja Girl (Soulja Girl)
 Huggin me (huggin me) my Soulja Girl (Soulja Girl)
 
-
-
-
 We on the phone like, dat-dat-da-da-da-dahhh-dahhh
 We on the phone like, da-da-dat-dat-da-da-da-dahhh-dahhh
 She callin me (she callin me) I'm callin her (I'm callin her)

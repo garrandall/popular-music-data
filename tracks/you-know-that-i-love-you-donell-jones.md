@@ -105,11 +105,11 @@ And you can't be replaced
 
 (Girl, you know)
 You know that I love you
-(Ooh, girl)
+(Oh girl)
 Girl, you're everything to me
-(Ooh, girl)
+(Oh girl)
 Just let me show you
-(Ooh, baby)
+(Oh baby)
 Just how much you mean to me
 
 
@@ -129,7 +129,7 @@ You know that I love you
 Girl, you're everything to me
 (Just let me show you)
 Just let me show you
-(Ooh, baby)
+(Oh baby)
 Just how much you mean to me
 (Girl, you know)
 You know that I love you
@@ -137,7 +137,7 @@ You know that I love you
 Girl, you're everything to me
 (Just let me show you)
 Just let me show you
-(Show you, baby, ooh, ooh, yeah)
+(Show you, baby, oh oohyeah)
 Just how much you mean to me
 
 
@@ -171,7 +171,7 @@ You know that I love you
 Girl, you're everything to me
 (Oh, girl)
 Just let me show you
-(Ooh, yeah)
+(Oh yeah)
 Just how much you mean to me
 (Oh, girl)
 You know that I love you

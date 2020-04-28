@@ -100,9 +100,6 @@ In my love
 All over, all over
 From your head down to your toes
 
-
-
-
 Gonna dress you up in my love
 All over, all over
 Gonna dress you up in my love

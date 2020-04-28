@@ -97,9 +97,9 @@ But if you wanna leave, take good care
 Hope you have a lot of nice things to wear
 But then, a lot of nice things turn bad out there
 
-Oooh, baby, baby, it's a wild world
+Oh, baby, baby, it's a wild world
 It's hard to get by just upon a smile
-Oooh, baby, baby, it's a wild world
+Oh, baby, baby, it's a wild world
 And I'll always remember you like a child, girl
 
 You know, I've seen a lot of what the world can do
@@ -111,9 +111,9 @@ But if you wanna leave, take good care
 Hope you make a lot of nice friends out there
 Just remember there's a lot of bad and beware
 
-Oooh, baby, baby, it's a wild world
+Oh, baby, baby, it's a wild world
 It's hard to get by just upon a smile
-Oooh, baby, baby, it's a wild world
+Oh, baby, baby, it's a wild world
 And I'll always remember you like a child, girl
 
 Baby I love you
@@ -122,12 +122,12 @@ But if you wanna leave, take good care
 Hope you make a lot of nice friends out there
 Just remember there's a lot of bad and beware
 
-Oooh, baby, baby, it's a wild world
+Oh, baby, baby, it's a wild world
 It's hard to get by just upon a smile
-Oooh, baby, baby, it's a wild world
+Oh, baby, baby, it's a wild world
 And I'll always remember you like a child, girl
 
-Oooh, baby, baby, it's a wild world
+Oh, baby, baby, it's a wild world
 It's hard to get by just upon a smile
-Oooh, baby, baby, it's a wild world
+Oh, baby, baby, it's a wild world
 And I'll always remember you like a child, girl

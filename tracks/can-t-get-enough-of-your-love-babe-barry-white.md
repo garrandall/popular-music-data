@@ -62,7 +62,7 @@ But
 I don't know about that
 As many times as we've loved and
 We've shared love and made love, it's (well, well)
-It doesn't seem to me like it's enough (ahh, yeah yeah)
+It doesn't seem to me like it's enough (ah, yeah yeah)
 There's just not enough of it
 There's just not enough
 
@@ -136,7 +136,7 @@ Baby, it didn't take
 All of my life to find you
 But you can believe it's gonna take the rest of my life
 To keep you
-Ohh, ohh babe
+Ohh, oh babe
 Ehhhhhhhhhh
 
 

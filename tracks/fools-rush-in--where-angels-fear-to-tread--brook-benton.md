@@ -59,10 +59,10 @@ When we met, I felt my life begin
 So open up your heart and let this fool rush in
 Fools rush in where wise men never, never, never go
 Eh, but wise men never fall in love, so how are they to know?
-Ahh, when we met, girl, I felt my life begin
+Ah, when we met, girl, I felt my life begin
 So open up your heart and let this fool rush in
 Just open up your heart and let this fool rush on in
 Just open up your heart because I-I-I-I-I-I-I am coming in
-Open up your heart and let this fool rush in!!
+Open up your heart and let this fool rush in!
 And do not necessarily correspond with lyrics from other recordings, sheet
 Music, songbooks or lyrics printed on album jackets

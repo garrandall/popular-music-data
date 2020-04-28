@@ -80,7 +80,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-06-20'
 ---
-Well!!
+Well!
 
 Are you Johnny Ray? (Who wants to know)
 Are you Slim Ray? (Who wants to know)

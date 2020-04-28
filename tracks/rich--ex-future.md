@@ -35,7 +35,7 @@ When you're ridin' on me, see my chains on
 When you're ridin' on me, keep my chains on (VVS)
 Baby we can go and have rich sex (Yes, yes)
 Baby girl, go and have rich sex
-You ain't ever ever had rich sex (Ooh, ooh)
+You ain't ever ever had rich sex (Oh, oh
 You ain't ever ever had rich sex
 
 Never made love to a misfit
@@ -69,7 +69,7 @@ When you're ridin' on me, see my chains on (Try it on)
 When you're ridin' on me, keep my chains on (VVS)
 Baby we can go and have rich sex (Yes, yes)
 Baby girl, go and have rich sex
-You ain't ever ever had rich sex (Ooh, ooh)
+You ain't ever ever had rich sex (Oh, oh
 You ain't ever ever had rich sex
 
 Let's stop for a while, have recess
@@ -103,5 +103,5 @@ When you're ridin' on me, see my chains on (Try it on)
 When you're ridin' on me, keep my chains on (VVS)
 Baby we can go and have rich sex (Yes, yes)
 Baby girl, go and have rich sex
-You ain't ever ever had rich sex (Ooh, ooh)
+You ain't ever ever had rich sex (Oh, oh
 You ain't ever ever had rich sex

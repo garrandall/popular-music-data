@@ -49,8 +49,8 @@ She’s the queen of clubs
 She’s the queen of clubs
 
 Here she comes - fine lady
-Ooh, ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohh,ohoh
 
 She’s the queen of clubs - out in the valley
 She’s the queen of clubs
-She’s the queen of clubs ....
+She’s the queen of clubs ...

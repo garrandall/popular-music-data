@@ -111,9 +111,6 @@ Oh, what can it mean
 To a daydream believer
 And the homecoming queen
 
-
-
-
 Cheer up, sleepy Jean
 Oh, what can it mean
 To a daydream believer

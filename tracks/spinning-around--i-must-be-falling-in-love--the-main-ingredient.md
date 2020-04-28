@@ -44,7 +44,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-07-03'
 ---
-I'm spinning around and around ooh
+I'm spinning around and around oh
 I'm walking on cloud nine
 I'm just about to blow my cool
 If I don't unwind

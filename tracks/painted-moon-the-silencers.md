@@ -87,11 +87,11 @@ Phantoms in the bay
 While the natives pray
 To the painted moon
 
-Ooh-ooh-ooh...
+Oh-oh-oh...
 Painted moon
 Painted moon
 
-Ooh-ooh-ooh...
+Oh-oh-oh...
 Painted moon
 Painted moon
 

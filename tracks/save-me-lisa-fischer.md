@@ -39,7 +39,7 @@ Save me
 
 
 Creatures in wilderness
-Ooh, wild are we
+Oh, wild are we
 Pleasure seeker obsessed
 His eyes on me
 Him in his corner, me in mine
@@ -55,7 +55,7 @@ Fallin', won't you save me, save me
 Fallin', won't you save me, save me
 
 Like the rain that comes from above
-Ooh, it's unstoppable
+Oh, it's unstoppable
 As I lie here, face to the sky
 With arms open wide
 I feel the rain surrounding me

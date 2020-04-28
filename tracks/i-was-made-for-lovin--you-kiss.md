@@ -72,7 +72,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-09-08'
 ---
-Mmmm, yeah, ha
+Mmm, yeah, ha
 Do, do, do, do, do, do, do, do, do
 Do, do, do, do, do, do, do
 Do, do, do, do, do, do, do, do, do

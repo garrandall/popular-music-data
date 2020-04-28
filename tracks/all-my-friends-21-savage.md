@@ -21,11 +21,11 @@ Yeah, yeah
 
 I lost all my friends countin' bands in the Bentley coupe
 Diamonds on me doin' handstands, Rosé on my tooth
-If she wanna dance, let her dance for the money, ooh
+If she wanna dance, let her dance for the money, oh
 I don't need no friends if you really wanna know the truth
 I lost all my friends countin' bands in the Bentley coupe
 Diamonds on me doin' handstands, Rosé on my tooth
-If she wanna dance, let her dance for the money, ooh
+If she wanna dance, let her dance for the money, oh
 I don't need no friends if you really wanna know the truth
 
 
@@ -57,7 +57,7 @@ I don't need no friends, what's a friend if it ain't no trust?
 
 I lost all my friends countin' bands in the Bentley coupe
 Diamonds on me doin' handstands, Rosé on my tooth
-If she wanna dance, let her dance for the money, ooh
+If she wanna dance, let her dance for the money, oh
 I don't need no friends if you really wanna know the truth
 
 
@@ -77,11 +77,11 @@ Hey, I know somewhere that my mama prayin' for me (For me)
 
 I lost all my friends countin' bands in the Bentley coupe (For me)
 Diamonds on me doin' handstands, Rosé on my tooth (For me)
-If she wanna dance, let her dance for the money, ooh
+If she wanna dance, let her dance for the money, oh
 I don't need no friends if you really wanna know the truth
 I lost all my friends countin' bands in the Bentley coupe
 Diamonds on me doin' handstands, Rosé on my tooth
-If she wanna dance, let her dance for the money, ooh
+If she wanna dance, let her dance for the money, oh
 I don't need no friends if you really wanna know the truth
 
 

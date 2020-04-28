@@ -102,7 +102,7 @@ I want some of your Brown Sugar (sugar)
 I want some of your Brown Sugar (sugar)
 I want some of your Brown Sugar (sugar)
 I want some of your Brown Sugar (sugar)
-Ooh ooh
+Oh oh
 
 Oh sugar when you're close to me
 You love me right down to my knees
@@ -117,7 +117,7 @@ I want some of your Brown Sugar (sugar)
 I want some of your Brown Sugar (sugar)
 I want some of your Brown Sugar (sugar)
 I want some of your Brown Sugar (sugar)
-Ooh ooh
+Oh oh
 
 Now that'd be how the story goes
 Brown Sugar got me open, now I want some more
@@ -135,7 +135,7 @@ I want some of your Brown Sugar (sugar)
 I want some of your Brown Sugar (sugar)
 I want some of your Brown Sugar (sugar)
 I want some of your Brown Sugar (sugar)
-Ooh ooh
+Oh oh
 I want some of your Brown Sugar (sugar)
 I want some of your Brown Sugar (sugar)
 I want some of your Brown Sugar (sugar)

@@ -13,14 +13,14 @@ rankings:
   start_date: '2016-01-02'
 ---
 
-Climb ev'ry mountain
+Climb every mountain
 Search high and low
-Follow ev'ry by-way
+Follow every by-way
 Every path you know
 
-Climb ev'ry mountain
-Ford ev'ry stream
-Follow ev'ry rainbow
+Climb every mountain
+Ford every stream
+Follow every rainbow
 'Til you find your dream
 
 A dream that will need
@@ -28,20 +28,20 @@ All the love you can give
 Every day of your life
 For as long as you live
 
-Climb ev'ry mountain
-Ford ev'ry stream
-Follow ev'ry rainbow
+Climb every mountain
+Ford every stream
+Follow every rainbow
 'Til you find your dream
 'Til you find your dream
 
-Climb ev'ry mountain
-Ford ev'ry stream
-Follow ev'ry rainbow
+Climb every mountain
+Ford every stream
+Follow every rainbow
 'Til you find your dream
 
-Climb ev'ry mountain
-Ford ev'ry stream
-Follow ev'ry rainbow
+Climb every mountain
+Ford every stream
+Follow every rainbow
 'Til you find your dream
 Oh
 Whoa

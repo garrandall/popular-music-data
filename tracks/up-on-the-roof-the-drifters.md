@@ -111,9 +111,6 @@ On the roof's the only place I know
 Where you just have to wish to make it so
 Let's go up on the roof (Up on the roof)
 
-
-
-
 At night, the stars put on a show for free
 And, darling, you can share it all with me
 I keep-a tellin' you

@@ -145,9 +145,6 @@ Hold the phone
 Show me how
 No one's ever gonna stop us now
 
-
-
-
 Cause we are
 We are shining stars
 We are invincible

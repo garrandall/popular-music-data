@@ -71,11 +71,11 @@ Feelings that we keep inside
 We'll hold each other when we cry
 Even if we fall
 Somehow, we'll be lovers after all
-Oooooh, ooh
+Oh, oh
 
 We'll hold each other when we cry
 Even if we fall
-Somehow we'll be lovers after all, ooooh
+Somehow we'll be lovers after all, oh
 
 Lovers, lovers after all
 We're still lovers

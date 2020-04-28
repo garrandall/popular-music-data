@@ -83,7 +83,7 @@ No, get up girl show me what you can do!
 
 
 Shake it, shake it, baby, ( come on now)
-Shake it, shake it, baby, ( ooh-ooh)
+Shake it, shake it, baby, ( oh-oh)
 Shake it, shake it, baby,
 One, two, three baby oo
 A B C baby

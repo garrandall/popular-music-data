@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: kiss-on-my-list-daryl-hall-john-oates
+lyrics_url: https://www.azlyrics.com/lyrics/halloates/kissonmylist.html
 name: Kiss On My List
 rankings:
 - end_date: '1981-01-30'
@@ -99,4 +100,84 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-06-27'
 ---
+My friends wonder why
+I call you all of the time
+What can I say
+I don't feel the need
+To give such secrets away
+You think maybe I need help
+No, I know I'm right. Alright
+I'm just better off
+Not listening to friends' advice
+When they insist on knowing my bliss
+I tell them this
+When they want to know
+What the reason is
+I only smile when I lie
+Then I tell them why
 
+(Because your kiss) your kiss
+Is on my list
+(Because your kiss) your kiss
+Is on my list
+Because your kiss is on my list
+Of the best things in life
+(Because your kiss) your kiss
+Is on my list
+(Because your kiss) your kiss
+I can't resist
+Because your kiss is what I miss
+When I turn out the light
+
+I go crazy wondering
+What there is to really see
+Did the night just take up your time
+'Cos it means more to me
+Sometimes I forget what I'm doing
+I don't forget what I want, what I want
+Regret what I've done
+Regret you
+I couldn't go on
+But if you insist
+On knowing my bliss
+I'll tell you this
+If you want to know
+What the reason is
+I'll only smile when I lie
+Then I'll tell you why
+
+(Because your kiss) your kiss
+Is on my list
+(Because your kiss) your kiss
+Is on my list
+Because your kiss is on my list
+Of the best things in life
+(Because your kiss) your kiss
+Is on my list
+(Because your kiss) your kiss
+I can't resist
+Because your kiss is what I miss
+When I turn out the light
+
+
+
+I really miss you babe
+
+(Because your kiss) your kiss
+Is on my list
+(Because your kiss) your kiss
+Is on my list
+Because your kiss is on my list
+Of the best things in life
+Oh, man (Because your kiss) your kiss
+Is on my list
+(Because your kiss) your kiss
+I can't resist
+Because your kiss is what I miss
+When I turn out the light
+(Because your kiss) your kiss
+Is on my list
+(Because your kiss) your kiss
+I can't resist
+Because your kiss is on my list
+Of the best things in life

@@ -55,7 +55,3 @@ They both met movie stars, partied and mingled
 Their A&R man said, "I don't hear a single."
 The future was wide open
 
-
-
-
-

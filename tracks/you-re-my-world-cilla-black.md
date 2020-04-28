@@ -50,9 +50,6 @@ You're my world, you're every breath I breathe
 If our love ceased to be
 Then it's the end of my world for me
 
-
-
-
 With your hand resting in mine I feel a power so divine
 
 

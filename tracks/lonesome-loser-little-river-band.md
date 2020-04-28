@@ -86,7 +86,7 @@ Beaten by the queen of hearts every time
 Have you heard about the lonesome loser
 He's a loser, but he still keeps on tryin'
 
-Oohoohooh .... oooh ....
+Oohoohooh ... oh..
 
 Sit down, take a look at yourself
 Don't you want to be somebody

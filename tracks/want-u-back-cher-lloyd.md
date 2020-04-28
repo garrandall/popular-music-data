@@ -150,9 +150,9 @@ I want you back, I want you back
 Want, want you, want you back (Uh!)
 
 
-Ooh-ooh-ooh, I thought you'd still be mine
+OhohoohI thought you'd still be mine
 When I kissed you goodbye, uh-oh, uh-oh
-Ooh-ooh-ooh, and you might be with her
+Ohohoohand you might be with her
 But I still had you first, uh-oh, uh-oh
 
 
@@ -175,10 +175,10 @@ I want you back, I want you back
 Want, want you, want you back (Uh!) (I want you back)
 
 
-Ooh-ooh-ooh, la la la la la
+Ohohoohla la la la la
 I want you back, I want you back
 Want, want you, want you back (Yeah, yeah, uh!)
-Ooh-ooh-ooh, uh
+Ohohoohuh
 I want you back, I want you back
 Want, want you, want you back (Uh!)
 Does that sound like a helicopter? Brrr

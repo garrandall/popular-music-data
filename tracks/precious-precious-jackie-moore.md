@@ -85,7 +85,7 @@ You're so precious
 
 Precious baby, you're mine
 You've been in and out of my life
-And, ooh, baby that hurts
+And, oh, baby that hurts
 Baby, that hurts, yeah
 
 You've been with every girl in this town
@@ -99,8 +99,8 @@ Oh, you're precious, honey
 You're so precious, baby
 
 Precious baby, you're mine
-Oooh-oooh, na, na, na, na, yeah, baby
-Oooh-oooh, na, na, na, na, yeah, baby
+Oh-ohna, na, na, na, yeah, baby
+Oh-ohna, na, na, na, yeah, baby
 Mmm... what people say about ya
 
 Sure ain't no fun
@@ -116,11 +116,11 @@ Precious baby, you're mine
 Yes, honey (precious)
 You're precious, baby
 Precious baby, you're mine
-Ooh, you're precious, baby, yeah (precious)
+Oh you're precious, baby, yeah (precious)
 
 You're so precious, yes, you are (precious)
 Precious baby, you're mine
-Oooh, you're precious, honey (precious)
-Oooh, you're precious, baby (precious)
+Oh, you're precious, honey (precious)
+Oh, you're precious, baby (precious)
 
 Precious baby, you're mine

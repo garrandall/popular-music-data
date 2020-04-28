@@ -54,7 +54,7 @@ When you say you are mine
 Love me, oh
 That's all I want you to do
 Just as long as your love
-For me is true, ooh, baby
+For me is true, oh baby
 
 Well, I'm gonna
 Come on and love me, love me

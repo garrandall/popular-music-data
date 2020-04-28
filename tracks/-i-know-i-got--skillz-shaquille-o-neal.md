@@ -99,7 +99,7 @@ Bust 'em in the eye, Shaq!
 You wanna fight? Come fight me!
 I'll hit ya with the "Wa-psh-psh-psh-psh-psh!" See, see?
 I get dirty after dark
-I'll treat you like Spielberg, you'll get your ass kicked in in a park (Ooh!)
+I'll treat you like Spielberg, you'll get your ass kicked in in a park (Oh!)
 You don't believe me? The proof is in the puddin'
 Been a boy in the hood way before Cuba Gooding
 I flip scripts with the mad pa-style, freeze
@@ -147,7 +147,7 @@ Double XL in the nine-ohs kid
 Skills to make mills
 Big up, Flava Unit, Funky Town pros, upstate, yeah ??? ya large
 So check this out Shaq man, we gon' let this beat play right here, let all
-The brothers and sister know.....
+The brothers and sister know...
 
 
 Nah, nah, let me continue
@@ -178,6 +178,6 @@ This is another rough shot from the arsenal
 And you know what? Booty rappers, stay booty
 Ha-ha-ha, and we out
 
-Ahhh ha ha ha ha
-Ahhhhh ha ha ha ha
-Ahhhh... sike!
+Ah ha ha ha ha
+Ah ha ha ha ha
+Ah... sike!

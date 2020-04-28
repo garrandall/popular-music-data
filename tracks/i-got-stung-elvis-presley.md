@@ -110,7 +110,7 @@ And I break out in a cold cold sweat
 If I live to a hundred and two
 I won't let nobody sting me but you
 I'll be buzzin' 'round your hive
-Ev'ry day at five
+Every day at five
 And I'm never gonna leave once I arrive
 'Cause I'm done
 Uh-uh, I got stung!

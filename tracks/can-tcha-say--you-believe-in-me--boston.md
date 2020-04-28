@@ -89,15 +89,9 @@ We can sit here all night long
 And separate the right from the wrong
 But love won't wait
 
-
-
-
-Ooohh, still in love with you
+Oh, still in love with you
 You know I need you baby, to stand by me
 Can't you see I need you, baby
-Oooh, I'm still in love with you
-
-
-
+Oh, I'm still in love with you
 
 I love you

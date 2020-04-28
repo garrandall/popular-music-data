@@ -89,12 +89,12 @@ When he come around
 
 Yeah
 Show down
-Ooooh yeah yeah
+Oh yeah yeah
 ye yeah yeah
 
 Big gun
 Big gun number one
-mmmmmm
+mmm
 whoa whoa
 yeah yeah
 b - b - b - b - b - b - b

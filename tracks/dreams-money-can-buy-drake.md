@@ -12,10 +12,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-08-17'
 ---
-Ooh-ooh-ooh, ooh-ooh-ooh-ooh
-Ooh-ooh-ooh, ooh-ooh-ooh-ooh
-Ooh-ooh-ooh, ooh-ooh-ooh-ooh
-Ooh-ooh-ooh, ooh-ooh, ooh-ooh
+Oh-ohoohohoh-ohoohoh
+Oh-ohoohohoh-ohoohoh
+Oh-ohoohohoh-ohoohoh
+Oh-ohoohohoh,oh-oohoh
 
 
 Don't fuck with me, don't fuck with me
@@ -67,7 +67,7 @@ These niggas make it so hard to be friendly
 When I know part of it's envy
 Tryna fill the shoes, nigga, so far, these are empty
 I take 'em off in the house because the throw carpets are Fendi
-Ooh! I never seen the car you claim to drive
+Oh! I never seen the car you claim to drive
 Or, shit, I seen it; you just ain't inside
 And I feel like lately, it went from top five to remaining five
 My favorite rappers either lost it or they ain't alive

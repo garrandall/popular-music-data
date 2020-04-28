@@ -62,9 +62,9 @@ It takes my breathe away
 I love you more
 With every beat of my heart
 
-Ooh, I remember the night we met
+Oh I remember the night we met
 I knew I'd never, ever be the same
-Ooh, I remember the night you said you loved me
+Oh I remember the night you said you loved me
 In and instant my whole world changed
 
 So close (closer and closer)
@@ -75,9 +75,9 @@ I'll lose a sense of time
 I wanna stay here for the rest of my life
 I wanna stay here for the rest of my life
 
-Ooh, I remember the night we met
+Oh I remember the night we met
 I knew I never ever be the same
-Ooh, I remember the first time you said you loved me
+Oh I remember the first time you said you loved me
 I love you darling
 In an instant my whole world changed
 

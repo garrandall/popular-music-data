@@ -90,8 +90,8 @@ I like it, I like it, I like it
 
 (Only rock and roll, but) I like it
 (Only rock and roll, but) I like it
-(Only rock and roll, but) Ooh, I like that
-(Only rock and roll, but) Ooh yeah, I like it
+(Only rock and roll, but) Oh, I like that
+(Only rock and roll, but) Oh yeah, I like it
 (Only rock and roll, but) Yeah, I like it
 (Only rock and roll, but) Oh yeah, I like it
 
@@ -105,4 +105,4 @@ Yeah, I like it
 
 Oh, I like it
 Oh, I like it
-Ooh yeah, I like that
+Oh yeah, I like that

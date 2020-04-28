@@ -33,7 +33,7 @@ rankings:
   start_date: '1994-09-10'
 ---
 
-Ooh, yeah, yeah
+Oh yeah, yeah
 Oh, oh, oh
 
 I need a love
@@ -51,7 +51,7 @@ Whoa, oh, oh, oh
 Fools love is so full of heartache
 I'll play it cool
 Let it happen naturally
-Ooh, whoa, oh, oh
+Oh whoa, oh, oh
 
 I need a love
 I need a sweet sensual love
@@ -121,7 +121,7 @@ I need a love
 (Can't you see we got
 This here special love)
 I need a sweet sensual love
-(Ooh, yeah, a supernatural love)
+(Oh yeah, a supernatural love)
 
 
 

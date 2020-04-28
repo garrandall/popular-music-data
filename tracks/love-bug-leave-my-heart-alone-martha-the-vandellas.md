@@ -55,7 +55,7 @@ Spring is here and like a wayward breeze
 The love that left me came back haunting me
 He's like the ever changin' sun that warms my heart and leaves
 The love but tries to bite again
-Ooh I'm falling, the same old heartaches calling
+Oh I'm falling, the same old heartaches calling
 
 Oh yeah
 (Get out of here love bug, leave my heart alone)

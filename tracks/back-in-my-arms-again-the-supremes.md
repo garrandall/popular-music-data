@@ -63,7 +63,7 @@ But it's not gonna happen twice
 'Cause all advice ever gotten me
 Was many long and sleepless nights
 
-Ooh!
+Oh
 But now he's back in my arms again
 Right by my side
 I got him back in my arms again
@@ -79,12 +79,12 @@ Being happy lovin' whom I please
 And each time we make romance
 I'll be thankful for a second chance
 
-Ooh!
+Oh
 'Cause he's back in my arms again
 Right by my side
 I got him back in my arms again
 So satisfied
-Ooh!
+Oh
 
 How can Mary tell me what to do
 When she lost her love so true?
@@ -96,13 +96,13 @@ But it's not gonna happen twice
 'Cause all advice ever gotten me
 Was many long and sleepless nights
 
-Ooh!
+Oh
 I got him back in my arms again
 Right by my side
 I got him back in my arms again
 So satisfied
 
-Ooh!
+Oh
 I'm satisfied, yeah
 So satisfied
 I'm satisfied

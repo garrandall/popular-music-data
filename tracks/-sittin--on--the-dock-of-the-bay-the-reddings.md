@@ -51,7 +51,7 @@ Then I watch 'em roll away again, yeah
 
 
 Sitting on the dock of the bay
-Watchin' the tide, roll away, ooh wee
+Watchin' the tide, roll away, oh wee
 I'm sitting on the dock of the bay
 Wasting time
 
@@ -63,7 +63,7 @@ And look like nothin's gonna come my way, so
 
 
 I'm just come sitting on the dock of the bay
-Watching the tide roll away, ooh wee
+Watching the tide roll away, oh wee
 I'm sitting on the dock of the bay, wasting time
 
 
@@ -80,6 +80,6 @@ Just to make this dock my home
 
 
 Now I'm just sitting on the dock of the bay
-Watching the tide roll away, ooh wee
+Watching the tide roll away, oh wee
 I’m sitting on the dock of the bay
 I'm wasting time

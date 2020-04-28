@@ -40,10 +40,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-04-11'
 ---
-String Along
--Artist: Ricky Nelson
-- peak Billboard position # 25 in 1963
-- Words and Music by Booby Doyle and J. Duncan
 String along, that's all I am is just your
 String along, someone that you just seem to
 Bring along whenever you are all alone, need some company

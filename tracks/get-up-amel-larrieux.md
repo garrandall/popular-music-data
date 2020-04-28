@@ -34,7 +34,7 @@ They got you workin' like a slave
 Takin' credit for the work you gave
 And stealin' your raise, but I
 
- (2x)
+
 (ah ah ah) I know you're down
 When you gon' get up?
 (ah ah ah) I see you're down
@@ -45,7 +45,7 @@ People try to pull the wool over your eyes
 Don't know why
 They want to profit from your demise
 They lie to cover up how weak they are inside
-Ooh, baby, baby don't you cry
+Oh baby, baby don't you cry
 All you got's your pride, so I
 
- (2x)
+

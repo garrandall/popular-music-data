@@ -102,7 +102,7 @@ rankings:
 ---
 
 Murda on the beat so it's not nice
-Ooh, hmm
+Oh, hm
 
 For this life, I cannot change (Change)
 Hidden Hills, deep off in the main (Main)

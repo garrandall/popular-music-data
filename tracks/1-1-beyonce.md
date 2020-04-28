@@ -49,7 +49,7 @@ I'm laying right next to you
 
 Baby, we ain't got nothing but love
 And darling, you got enough for the both of us
-Ooh, make love to me
+Oh, make love to me
 
 
 When my days look low

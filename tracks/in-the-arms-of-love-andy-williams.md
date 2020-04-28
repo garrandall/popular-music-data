@@ -56,8 +56,8 @@ The day has died away, let's find a hideaway
 And share the promise of a new tomorrow
 In the arms of love tonight
 
-Hmm, hmm, hmm, hmm
-Hmm, hmm, hmm, hmm
+Hm, hm, hm, hm
+Hm, hm, hm, hm
 
 
 

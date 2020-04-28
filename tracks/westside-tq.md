@@ -84,7 +84,7 @@ I was just a young boy livin' in the Hub City
 Eastside Compton, G
 Back in the days when Ice Cube and Eazy
 Had every nigga talkin' 'bout, "Boy, you can't fuck with me"
-Remember Ice-T had the power (Ooh, wee)
+Remember Ice-T had the power (Oh, wee)
 Hearin' gunshot lickin' by the hour
 When Too $hort bumped in every supersport
 And told us all how to ride for the West Coast
@@ -112,7 +112,7 @@ One time tried to clown
 We had to burn this bitch on down
 
 
-One time for my niggas in incarceration (ooh, yeah)
+One time for my niggas in incarceration (oh, yeah)
 I blaze a dime with you for havin' lots of patience
 Two times for my sisters at the county building
 I got some love for all you little ghetto children
@@ -143,7 +143,7 @@ Screamin' death to all our enemies and those who don't believe
 West Coast livin' be the shit to me
 
 
-One time for my niggas in incarceration (ooh, yeah)
+One time for my niggas in incarceration (oh, yeah)
 I blaze a dime with you for havin' lots of patience
 Two times for my sisters at the county building
 I got some love for all you little ghetto children

@@ -69,7 +69,7 @@ rankings:
   start_date: '1969-08-02'
 ---
 
-Ah-ah-aaah, oh yeah... Oh listen to me people
+Ah-ah-ah, oh yeah... Oh listen to me people
 
 I ain't got time to think about money
 Or what it can buy

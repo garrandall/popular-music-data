@@ -84,10 +84,10 @@ She all on the phone with her last nigga
 Say that pussy is mine, he losin' it (Brrt, yeah)
 She poppin' it, I'm ownin' it (Yeah)
 She droppin' it, it's stoppin' it (Stop), lose it (Yeah)
-Out of control, she movin' it (Ooh, yeah)
+Out of control, she movin' it (Oh, yeah)
 It's movin' (Woo)
 It's a movie (Woo)
-She walkin' around in Nike leggings (Ooh, yeah)
+She walkin' around in Nike leggings (Oh, yeah)
 Just doin' it (Go!)
 Don't get involved with her besties, they messy
 Spent a fifty ball on her neckpiece, she flexing

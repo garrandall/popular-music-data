@@ -93,9 +93,6 @@ Here's something that you're never gonna forget
 B-B-B-Baby, you just ain't seen n-n-n-nothin' yet
 Nothin' yet, you ain't been around
 
-
-
-
 And now I'm feelin' better
 'Cause I found out for sure
 She took me to her doctor
@@ -113,9 +110,6 @@ Here's something, here's something you're never gonna fff-forget, baby
 You know, you know, you know, you just ain't seen nothin' yet
 You need an education
 Got to go to school
-
-
-
 
 Any lovin' is good lovin'
 So I took what I could get

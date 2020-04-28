@@ -61,8 +61,8 @@ rankings:
   start_date: '1983-10-15'
 ---
 
-Ooh...ooh...ooh...
-Ooh...ooh...ooh...ooh...ooh...
+Oh...oh...oh...
+Oh...oh...oh...oh...oh...
 
 If you're askin' me to say
 Livin' life without you, girl, is alright
@@ -103,7 +103,7 @@ Lady, love me one last time
 Love me, lady
 Oh, love me, lady
 
-Ooh...ooh...ooh...ooh...
+Oh...oh...oh...oh...
 
 So before you turn and walk away
 Just let me love you one more time

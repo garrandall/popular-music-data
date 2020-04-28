@@ -81,7 +81,6 @@ From my nine-millimeter microphone Mack
 10-9-8-wait-B-e-a-c-h, city is the place to be
 With my brother Tripp Locc and the G funk family
 
-Chorus
 
 
 We just doin' our thang, straight up, it's fixin' to hit the fan
@@ -103,7 +102,6 @@ Peepin out my whole click I'm wit make a killin
 You know me I'm the one that will always make'em pay
 But for now I'mma slide and listen to the women as they say
 
-Chorus
 
 
 Catch a grip young Tripp, that's what they told me

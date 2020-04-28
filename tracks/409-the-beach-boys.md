@@ -33,10 +33,10 @@ Giddy up 40...
 
 Nothing can catch her
 Nothing can touch my 409
-409 ooooo
-(Giddy up giddy up oooo)
-(Giddy up giddy up oooo)
-(Giddy up giddy up oooo)
+409 oo
+(Giddy up giddy up oo)
+(Giddy up giddy up oo)
+(Giddy up giddy up oo)
 (Giddy up giddy up)
 
 When I take her to the track she really shines

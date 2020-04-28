@@ -40,7 +40,7 @@ When all I want to know is why this whole thing's going on because
 
 (Life ain't easy) And how we are is (Gonna change)
 And make this world a better place (Don't just listen)
-Oooh, you gotta take it in
+Oh, you gotta take it in
 Think about it and then we can begin (Life ain't easy)
 
 Life don't fast forever and forever isn't long
@@ -50,7 +50,7 @@ You've got to lift your head up high and do the right thing because
 
 (Life ain't easy) And how we are is (Gonna change)
 And make this world a better place (Don't just listen)
-Oooh, you gotta take it in
+Oh, you gotta take it in
 Think about it and then we can begin (Life ain't easy)
 
 (Life ain't easy) Ooohooohooohooo
@@ -62,7 +62,7 @@ What I'm telling you is (Life ain't easy)
 (Don't just listen)
 (Think about it, life ain't easy) I'm saying
 
-(Life ain't easy) Oooh, life ain't easy (Gonna change)
+(Life ain't easy) Oh, life ain't easy (Gonna change)
 Ooohooo, ooohooo, darling (Don't just listen)
 You gotta take it, take it
 Think about it) and then we can begin (Life ain't easy)

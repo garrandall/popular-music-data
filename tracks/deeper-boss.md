@@ -83,7 +83,7 @@ And smoke a ticket at the same time
 Drop a wicked bomb on my naughty nature
 I'm livin foul like a Nickerbocker (you livin foul?)
 Bitch I'm not the woman to sleep but I'm lost (yo that's deep)
-Cause I be on some ole' I'm tired of niggaz
+Cause I be on some ole' I'm tired of niggas
 Tryin to come up off bitches type thing ("What can I do?")
 And if I don't react the way he want he might swing
 His little trick bitch ass in another direction
@@ -141,7 +141,7 @@ Aiyyo, I got them buckwild thrills, livin foul kills
 I'm tryin to get to Watts but Im stuck in Baldwin Hills (damn)
 Tryin to find myself for real though, check it
 If I just rewind myself I'll see it ain't that hectic
-Y'all dont hear me talkin but its time to get a stack
+Y'all don't hear me talkin but its time to get a stack
 Cause I'm about a second away, from goin back
 To the corner slangin dope (now you know you don't wanna do that shit)
 Gankin cluckers, jackin high, cappin marks

@@ -72,7 +72,7 @@ And she told me what I knew was true
 She told me that I've never gotten over you
 
 She said that if I called you
-You'd just turn your back and walk away, ooh
+You'd just turn your back and walk away, oh
 Look what love can do
 What am I to say
 
@@ -82,12 +82,12 @@ When she held me in her arms, she knew
 She told me that I hadn't gotten over you
 
 I wonder if I called you
-Would you make me pay for my mistake, ooh
+Would you make me pay for my mistake, oh
 Look what love can do
 Is it now too late
 
 Or can we get it back
-Everything that we once had, ooh
+Everything that we once had, oh
 Can we get it back
 Talkin' about
 
@@ -99,7 +99,7 @@ Love power takes over
 You see that I have never gotten over you
 So I'm hopin' you still love me
 Like you did before I walked away, uh-huh
-Look what love can do, mmm...hmm...
+Look what love can do, mmm...hm...
 With just one mistake
 
 Love power, it rules us
@@ -118,7 +118,7 @@ You see that I have never gotten over you
 So I'm hopin' you still love me
 Like you did before I walked away
 I walked away (Oh...whoa...)
-Look what love can do, ooh...mmm...
+Look what love can do, oh...mmm...
 With just one mistake
 
 Love power, it rules us

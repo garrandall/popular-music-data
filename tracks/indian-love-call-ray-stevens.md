@@ -29,8 +29,8 @@ rankings:
   start_date: '1975-11-08'
 ---
 
-When I'm calling you, ooh
-If you answer too, ooh
+When I'm calling you, oh
+If you answer too, oh
 
 That means that I offer my love to you
 To be your own
@@ -38,14 +38,14 @@ If you refuse me, I will be blue
 And waiting all alone
 
 But, if when you hear
-My love call, ringing clear, ooh
+My love call, ringing clear, oh
 And I hear you're
-Answering a call so dear, ooh
+Answering a call so dear, oh
 
 Then I will know
 That our love will be true
 You belong to me
-I belong to you, ooh, ooh, ooh
+I belong to you, oh oohohoh
 
 
 

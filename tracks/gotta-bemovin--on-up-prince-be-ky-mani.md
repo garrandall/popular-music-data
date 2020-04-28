@@ -29,16 +29,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-04-25'
 ---
-Chorus: Prince Be
-
 We be movin' on up
 To the eastside
 Where I can do my bid in a phat ass crib in the sky
 We be movin' on up
 To the eastside
 And it looks like we gonna get some cream from the pie
-
-Verse 1: Ky-Mani
 
 I always aim at the right gate
 Make you bite ate
@@ -70,16 +66,12 @@ Brooklyn baby
 Brooklyn baby
 I'll cap your top call me John if you want lady
 
-Chorus
-
-Verse 2: Prince Be
-
 You ain't fresh
 Unh-uh nah baby
 Everybody wanna be a superstar baby
 I ain't get the dough to act like abandon you
 I just got things to do
-Ooh la la oui oui
+Ohla la oui oui
 Freak freak
 You say you want trendy you say you want sheik
 And honey dips rubbin' on your money clip
@@ -95,10 +87,6 @@ All for the sake of fake amusment
 She said what do you consider fun
 If you can get it get it get it
 
-Chorus
-
-Verse 3: Ky-Mani
-
 Said I been tryin' these rocky roads for so long
 Still I had to hold on
 I'm trying to make that dough to move on
@@ -113,5 +101,3 @@ Woah
 Now I'm dottin' my i's and crossin' my t's
 Lordy I'm moving up
 Takin' care of my biz
-
-Chorus

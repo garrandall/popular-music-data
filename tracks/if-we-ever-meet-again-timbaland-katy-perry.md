@@ -94,12 +94,12 @@ Doing in a place like this?
 
 I'll never be the same - if we ever meet again
 Won't let you get away - say if we ever meet again
-This free fall (Ahh) got me so (Ohh)
+This free fall (Ah) got me so (Ohh)
 Kiss me all night, don't ever let me go
 I'll never be the same - if we ever meet again
 
 
-Ohh, ohh
+Ohh, oh
 Say if we ever meet again
 
 
@@ -115,7 +115,7 @@ Some more, 'cause baby...
 
 I'll never be the same - if we ever meet again
 Won't let you get away - say if we ever meet again
-This free fall (Ahh) got me so (Ohh)
+This free fall (Ah) got me so (Ohh)
 Kiss me all night, don't ever let me go
 I'll never be the same - if we ever meet again
 
@@ -132,12 +132,12 @@ Away-ay-ay-ay
 
 I'll never be the same - if we ever meet again
 Won't let you get away - say if we ever meet again
-This free fall (Ahh) got me so (Ohh)
+This free fall (Ah) got me so (Ohh)
 Kiss me all night, don't ever let me go
 I'll never be the same - if we ever meet again
 I'll never be the same - if we ever meet again
 Won't let you get away - say if we ever meet again
-This free fall (Ahh) got me so (Ohh)
+This free fall (Ah) got me so (Ohh)
 Kiss me all night, don't ever let me go
 I'll never be the same - if we ever meet again
 

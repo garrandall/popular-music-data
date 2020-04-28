@@ -61,7 +61,7 @@ I gotta have your love
 I wanna feel you
 I wanna thrill you, girl
 I want to caress you
-Ooh, never let you go
+Oh, never let you go
 
 
 Hey, hey, hey, hey, baby
@@ -104,7 +104,7 @@ Don't say goodnight (Don't you ever say goodnight), oh, when you know
 I gotta have your love
 
 
-And ooh-wee, baby
+And oh-wee, baby
 Don't say goodnight
 Don't ever, ever say, ever say
 Don't ever, ever say

@@ -96,9 +96,6 @@ And when I tell them that it is true
 Deep down inside
 I just want to be with you
 
-
-
-
 It's long after dark
 We're up all night talking
 Heart to heart
@@ -106,9 +103,6 @@ Heart to heart
 And when it's time for you to go
 I tell myself we're just friends
 But we both know
-
-
-
 
 I fall asleep and dream about you
 Holding me deep in your soul

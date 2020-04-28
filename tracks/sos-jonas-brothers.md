@@ -99,7 +99,7 @@ Well, I'm done (I'm done)
 With awkward situations, empty conversations
 
 
-Ooh, this is an S.O.S
+Oh this is an S.O.S
 Don't wanna second guess
 This is the bottom line, it's true
 I gave my all for you
@@ -116,7 +116,7 @@ Well, I'm done (I'm done)
 With texting sorry for the miscommunication
 
 
-Ooh, this is an S.O.S
+Oh this is an S.O.S
 Don't wanna second guess
 This is the bottom line, it's true
 I gave my all for you
@@ -132,14 +132,14 @@ I'm giving you a high five
 'Cause hugs are overrated, just FYI
 
 
-Ooh, this is an S.O.S
+Oh this is an S.O.S
 Don't wanna second guess
 This is the bottom line, it's true
 I gave my all for you
 Now my heart's in two, yeah
 
 
-Ooh, this is an S.O.S
+Oh this is an S.O.S
 Don't wanna second guess
 This is the bottom line, it's true
 I gave my all for you

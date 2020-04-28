@@ -78,7 +78,7 @@ rankings:
 Just Blaze, yeah
 Check me out now
 Yo, yo, yo, yo, check me out now
-Yo, yo, yo, 
+Yo, yo, yo,
 Let me hear ya say
 Uh huh, uh huh, uh huh
 Put your hands in the air everybody, c'mon
@@ -147,8 +147,4 @@ Dozy-doe with cowboys where they saddle at
 Rodeo with 20 fours on the Cadillac
 What your name is, yo, R.E.D.
 Crack cost money, but the "E" is free, yeah
-
-
-
-
 

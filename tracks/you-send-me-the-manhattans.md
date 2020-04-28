@@ -39,7 +39,7 @@ Baby, you, you thrill me
 Honest you do, honest you do, honest you do
 
 At first, thought it was infatuation
-Ooh, it lasted so long, so long
+Oh, it lasted so long, so long
 Now I find myself wanting
 I want you to marry me, please take you home
 Yeah, yeah, yeah, yeah, yeah

@@ -40,7 +40,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-08-13'
 ---
-Ooh look at her standing there
+Ohlook at her standing there
 Tight dress and long dark hair
 Oh it's good to know
 That she's waitin' for me
@@ -62,7 +62,7 @@ Sing it, shout it
 Tell the world about it
 I think I'm falling in love
 
-Ooh she looks so good tonight
+Ohshe looks so good tonight
 There's something special about the light
 Oh she seems to glow
 Like the moon on the sea

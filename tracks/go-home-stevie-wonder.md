@@ -139,7 +139,7 @@ You never, go home right now
 Go home, girl, go, you better go home
 Go home, girl
 Go home, girl, go, you better go home
-Ooh, yeah yeah yeah yeah
+Oh, yeah yeah yeah yeah
 Go home, girl, go, you better go home
 Go home, baby
 Go home, girl, go, you better go home

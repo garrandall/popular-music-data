@@ -141,9 +141,6 @@ And I go la la la la la
 She's got the look
 Ow!
 
-
-
-
 Walkin' like a man
 Hitting like a hammer
 She's a juvenile scam

@@ -36,7 +36,7 @@ Playing with them good girls
 No, that ain't your style
 
 You think you're hot shit
-Ooh I love it, I love it, I love it
+Oh I love it, I love it, I love it
 Yeah, yeah
 Stumbling but yeah, you're still looking hella fine
 Keep doing what you're doing and I'ma make you mine
@@ -55,7 +55,7 @@ At 5am roaming the streets
 Drunk all night
 
 You think you're hot shit
-and ooh I looooove it, I love it, I love it
+and ohI looooove it, I love it, I love it
 Yeah, yeah
 Stumbling but yeah, you're still looking hella fine
 Keep doing what you're doing and I'ma make you mine
@@ -97,7 +97,7 @@ I'm loving it, hell yes!
 (Hell yes)
 Hot mess, I'm lovin' it, hell yes
 (Hell yes)
-Hot mess, I'm lovin' it, hell yes, ooh
+Hot mess, I'm lovin' it, hell yes, oh
 
 
 

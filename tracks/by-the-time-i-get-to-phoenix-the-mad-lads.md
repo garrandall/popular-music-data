@@ -39,7 +39,7 @@ Baby that's all (don't you know that's all)
 (Twelve o'clock)
 
 
-By the time I reach Oklahoma she'll be sleepin' (aaah)
+By the time I reach Oklahoma she'll be sleepin' (ah)
 She'll turn softly and call my name so low (Julius, Bill, John, Phil)
 And I know she'll cry (I know she'll cry) to think I'm really leaving her (to think I'm leaving her)
 For time and time, I've tried to tell her so

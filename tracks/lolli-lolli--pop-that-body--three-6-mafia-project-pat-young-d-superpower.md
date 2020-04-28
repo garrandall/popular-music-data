@@ -100,10 +100,10 @@ Lolli lolli lolli lolli, let me see you pop that body
 Chocolate lolli, cherry lolli
 'Nilla lolli, pink lolli
 Red hot, red hot, red hot hot
-Make that lolli pop, oooooooh
-Make that lolli pop, oooooooh
-Make that lolli pop, oooooooh
-Make that lolli pop, oooooooh
+Make that lolli pop, oh
+Make that lolli pop, oh
+Make that lolli pop, oh
+Make that lolli pop, oh
 
 
 Now lawdy lawdy lawdy (Lawdy) please Lord have some mercy (Mercy)
@@ -122,10 +122,10 @@ Lolli lolli lolli lolli, let me see you pop that body
 Chocolate lolli, cherry lolli
 'Nilla lolli, pink lolli
 Red hot, red hot, red hot hot
-Make that lolli pop, oooooooh
-Make that lolli pop, oooooooh
-Make that lolli pop, oooooooh
-Make that lolli pop, oooooooh
+Make that lolli pop, oh
+Make that lolli pop, oh
+Make that lolli pop, oh
+Make that lolli pop, oh
 
 
 
@@ -152,10 +152,10 @@ Lolli lolli lolli lolli, let me see you pop that body
 Chocolate lolli, cherry lolli
 'Nilla lolli, pink lolli
 Red hot, red hot, red hot hot
-Make that lolli pop, oooooooh
-Make that lolli pop, oooooooh
-Make that lolli pop, oooooooh
-Make that lolli pop, oooooooh
+Make that lolli pop, oh
+Make that lolli pop, oh
+Make that lolli pop, oh
+Make that lolli pop, oh
 
 
 
@@ -176,7 +176,7 @@ Lolli lolli lolli lolli, let me see you pop that body
 Chocolate lolli, cherry lolli
 'Nilla lolli, pink lolli
 Red hot, red hot, red hot hot
-Lick that lolli pop, oooooooh
-Make that lolli pop, oooooooh
-Make that lolli pop, oooooooh
-Make that lolli pop, oooooooh
+Lick that lolli pop, oh
+Make that lolli pop, oh
+Make that lolli pop, oh
+Make that lolli pop, oh

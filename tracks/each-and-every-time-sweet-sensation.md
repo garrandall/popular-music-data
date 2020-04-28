@@ -37,8 +37,8 @@ rankings:
   start_date: '1990-12-01'
 ---
 
-Whoa whoa ooh
-Ooh ooh
+Whoa whoa oh
+Oh oh
 Whoa whoa
 Oh baby
 

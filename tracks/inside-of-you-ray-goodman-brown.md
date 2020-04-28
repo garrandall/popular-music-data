@@ -42,7 +42,7 @@ I just want to get inside of you
 Oh, I wanna be more than a part of you
 'Cause loving you the way that I do
 
-(Repeat 1st verse) (2x)
+(Repeat 1st verse)
 Our love is like a house on a firm foundation
 That's standing on solid ground
 We build a wall of love and trust all around us

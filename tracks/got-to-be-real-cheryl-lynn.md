@@ -93,7 +93,7 @@ What you feel now
 What you know-a
 To be real
 
-Ooh, your love's for real now
+Oh, your love's for real now
 You know that your love is my love
 My love is your love
 Our love is here to stay
@@ -103,7 +103,7 @@ What you feel now
 What you know-a
 To be real
 
-Ooh, your love's for real now
+Oh, your love's for real now
 You know that your love is my love
 My love is your love
 Our love is here to stay

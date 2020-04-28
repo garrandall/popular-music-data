@@ -85,7 +85,7 @@ rankings:
   start_date: '1986-02-01'
 ---
 
-Ooh, boy
+Oh, boy
 Oh, yeah yeah
 Oh yeah
 
@@ -188,7 +188,7 @@ Take another look and tell me, sweet thing
 Who's zoomin', who's foolin'
 Who's zoomin', who's foolin'
 (Who's zoomin' who?)
-Ooh, ooh boy
+Oh, oh boy
 (Who's zoomin' who?)
 
 

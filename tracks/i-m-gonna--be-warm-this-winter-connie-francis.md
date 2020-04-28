@@ -103,7 +103,7 @@ But I'm gonna be warm
 This winter
 Whoa, whoa, whoa, honey
 Make me warm this winter
-Mmmm, baby
+Mmm, baby
 Make me warm this winter
 
 Whoa, whoa, whoa

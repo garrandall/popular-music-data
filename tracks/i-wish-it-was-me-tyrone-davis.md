@@ -62,10 +62,10 @@ I said I wish it was you loved
 Oh, I saw him today
 For the very first time
 And when you put your arms around him
-Ooh, baby, I almost went out of my mind
+Oh, baby, I almost went out of my mind
 
 Cause with him, you seem so happy
-Ooh, how I wished it was me
+Oh, how I wished it was me
 
 Who was making you laugh that way
 Oh, love
@@ -74,7 +74,7 @@ Sweet words you had to say
 Oh, love
 
 When I saw you kiss him
-Ooh, it made me feel so sad
+Oh, it made me feel so sad
 My heart cried out in my pain, love
 Oh, baby, because it hurt me so bad
 

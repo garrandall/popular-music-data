@@ -103,7 +103,7 @@ Chittle-lee-lee-dannon-e-wine (Woh-owoh)
 Chittle-lee-lee-dannon-e-wine (Wow-owoy, Yeah)
 Well check it out (Yeah)
 Chittle-lee-lee-dannon-e-wine (Woy)
-Chittle-lee-lee-dannon-e-wine (Woy-o-woh-ooo-woy)
+Chittle-lee-lee-dannon-e-wine (Woy-o-woh-oo-woy)
 La la la di di la deny
 La la la lala la la la lie
 
@@ -122,7 +122,7 @@ Ed' pon di microphone
 Don' lay down flat (Chittle-lee-lee-dannon-e-wine, Woy)
 Boom-Shak-A-Tack
 Natural fact
-Di Ed' pon di microphone (Chittle-lee-lee-dannon-e-wine, Woh-ooh-woy)
+Di Ed' pon di microphone (Chittle-lee-lee-dannon-e-wine, Woh-oh-woy)
 Don' lay down flat
 
 

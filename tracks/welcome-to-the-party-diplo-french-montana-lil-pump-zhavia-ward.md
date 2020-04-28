@@ -72,8 +72,8 @@ Welcome to the party, aye (welcome to the party)
 Welcome to the party (welcome to the party)
 Burn up, let it burn
 Burn up, let it burn
-Burn up, let it burn (Lil Pump, ooh)
-(I'mma let it burn) (ooh, ooh, ooh)
+Burn up, let it burn (Lil Pump, oh)
+(I'mma let it burn) (oh, oh, oh)
 Burn up, let it burn
 Essketit
 
@@ -86,8 +86,8 @@ Welcome to the trap, got my grandma sellin' crack
 I make what you makin' when you sittin' down just movin' packs
 Make a bitch do jumpin' jacks like she was an acrobat
 Got these bitches lookin' at me crazy 'cause I got face tats
-Ooh, drip, drip, drip, I cannot go away for a bitch
-Drop 5 million on my crib, now Lil Pump is rich as shit, ooh
+Oh, drip, drip, drip, I cannot go away for a bitch
+Drop 5 million on my crib, now Lil Pump is rich as shit, oh
 And I'm still on probation, pop a pill I feel amazing
 You just bluffin', you just hatin'
 All these diamonds on me skatin'

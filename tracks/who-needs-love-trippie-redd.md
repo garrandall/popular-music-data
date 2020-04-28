@@ -31,7 +31,7 @@ And I'm destined for this fucking greatness, ayy
 
 And I don't got time for a bitch that's gonna slow a nigga like me down (Yeah, yeah)
 'Cause I keep on speed racing to the motherfucking cash
-Nigga, I'm a fucking cash cow (Ahh)
+Nigga, I'm a fucking cash cow (Ah)
 Stuntin' like my motherfucking daddy bitch (Yeah)
 Spend a hundred on a ring and a Patek wrist (Yeah)
 And the chopper on my hip is automatic bitch (Automatic)

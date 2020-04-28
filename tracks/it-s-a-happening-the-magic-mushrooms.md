@@ -16,7 +16,7 @@ Would you believe?
 It's a happening
 Would you believe?
 It's a happening
-Ahhh-ahhh-ahhh-ahhh
+Ah-ah-ah-ah
 
 The sky's falling
 No show's calling
@@ -26,7 +26,7 @@ Would you believe?
 It's a happening
 Would you believe?
 It's a happening
-Ahhh-ahhh-ahhh-ahhh
+Ah-ah-ah-ah
 
 Spray the weeds
 A zephyr breathes
@@ -36,4 +36,4 @@ Would you believe?
 It's a happening
 Would you believe?
 It's a happening
-Ahhh-ahhh-ahhh-ahhh
+Ah-ah-ah-ah

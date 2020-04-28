@@ -133,7 +133,7 @@ You're diggin' on me
 
 
 Last night, you brought something special out of me
-Ooh wee
+Oh wee
 And for the first time, girl
 You made my dream a reality
 Indeed
@@ -155,7 +155,7 @@ And I can't stop (Can't Stop)
 How I feel
 I'm diggin' on you
 You're diggin' on me
-Ooh wee, girl
+Oh wee, girl
 
 
 I can't stop

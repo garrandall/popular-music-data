@@ -229,9 +229,9 @@ Hey baby, girl don't you stop it
 Come on lady, dance all around me
 You look so fine (look so fine) look so fine
 You driving me out my mind (out of my mind)
-Out my mind, ooooh baby
+Out my mind, oh baby
 If I could I would just be with you baby
-Oooh cause you light me, and excite me
+Oh cause you light me, and excite me
 And you know, you got me baby, whoo!
 
 

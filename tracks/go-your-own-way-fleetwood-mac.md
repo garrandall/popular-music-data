@@ -89,17 +89,11 @@ You can go your own way (go your own way)
 You can call it another lonely day
 You can go your own way (go your own way)
 
-
-
-
 You can go your own way (go your own way)
 You can call it another lonely day
 You can go your own way (go your own way)
 You can go your own way (go your own way)
 You can call it another lonely day
-
-
-
 
 You can go your own way
 You can call it another lonely day

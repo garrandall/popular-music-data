@@ -95,10 +95,10 @@ Much stronger and stronger
 
 
 Ah, up the (up the)
-Ooh-ooh, up the (up the)
+Oh-oh, up the (up the)
 Oh, come on and walk (walk)
 Come on and talk (talk)
 Come on and sing about love and understanding
-Ooh, ooh, ooh (up the ladder to the roof)
-Ooh, ooh, ooh (see heaven)
-Ooh, ooh, ooh (go up the ladder to the roof)
+Oh, oh, oh (up the ladder to the roof)
+Oh, oh, oh (see heaven)
+Oh, oh, oh (go up the ladder to the roof)

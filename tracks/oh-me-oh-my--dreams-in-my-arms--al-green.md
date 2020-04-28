@@ -81,7 +81,7 @@ About you, baby
 
 Oh, me, oh, my
 Dreams in my arms
-Ever since you been gone....
+Ever since you been gone...
 
 
 

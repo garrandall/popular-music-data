@@ -135,6 +135,3 @@ on me you can depend, if you can take a chance
 
 Open your heart and let love, love again
 
-
-
-

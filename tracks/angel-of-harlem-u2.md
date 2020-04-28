@@ -88,7 +88,7 @@ We got John Coltrane and a love supreme
 Miles says she's got to be an angel
 
 Lady Day got diamond eyes
-She sees the truth behind the lies 
+She sees the truth behind the lies
 Angel
 
 Soul love...this love won't let me go
@@ -113,7 +113,4 @@ You never looked like an angel
 Yeah yeah...angel of Harlem
 
 Angel...angel of Harlem...
-
-
-
 

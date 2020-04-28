@@ -128,7 +128,7 @@ I'ma get more shine than a little bit
 Soon as I hit the stage: applause, I'm hearing it
 Whether it's black stars, black cars, I'm feeling it
 But can't none of them whip it like I do
-I, I get to that mmmm yeah, I go hard
+I, I get to that mmm yeah, I go hard
 When they see me pull up, I whip it real hard
 I whip it real hard, gonna do it real hard, I whip it real hard
 Don't let haters keep me off my grind

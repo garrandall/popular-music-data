@@ -157,7 +157,7 @@ But you'll think of me, you'll think of me, oh
 
 And you're going to think of me
 Oh yeah
-Ooh someday baby, someday
-Oooh ooh ooh oh
+Ohsomeday baby, someday
+Oh ohoohh
 Think of me
-Ooh ooh dumdum dirumdum baby
+Ohohdumdum dirumdum baby

@@ -85,7 +85,7 @@ All the love in the world
 
 Time after time I put my life on the line
 But I ain't committed no crime, so take what you can find
-Forget what i say cos I'll keep running away
+Forget what I say cos I'll keep running away
 I only live for today, but I'm one day behind
 
 All the love, all the love in the world

@@ -69,7 +69,7 @@ Girl, I'm just too shy
 
 Maybe time will bring a change in me
 Loving is you is not as easy as I thought it would be
-Ooh
+Oh
 
 You look as if you're surprised at me
 
@@ -85,7 +85,7 @@ Even wanna kiss you
 Tell you I do miss you
 But I'm just too shy
 
-Ooh, ooh
+Oh, oh
 Girl, I'm just too shy
 But did you know by now
 Girl, I'm just too shy

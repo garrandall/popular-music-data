@@ -63,7 +63,7 @@ Oh you'd better stop
 Before you tear me all apart
 You'd better stop
 Before you go and break my heart
-Ooh you'd better stop
+Oh you'd better stop
 
 Time after time I've tried to walk away
 But it's not that easy when your soul is torn in two
@@ -74,7 +74,7 @@ Oh you'd better stop
 Before you tear me all apart
 You'd better stop
 Before you go and break my heart
-Ooh you'd better stop
+Oh you'd better stop
 If you love me
 (You will remember)
 Now's the time to be sorry
@@ -86,10 +86,10 @@ Before you tear me all apart
 You'd better stop
 Before you go and break my heart
 
-Ooh you'd better stop
+Oh you'd better stop
 Baby stop
-Ooh you'd better stop
-Ooh stop
+Oh you'd better stop
+Oh stop
 Baby stop
 Baby stop
 You'd better stop

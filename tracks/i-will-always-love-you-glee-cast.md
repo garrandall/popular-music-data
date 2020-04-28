@@ -20,7 +20,7 @@ I'll think of you every step of the way
 
 And I will always love you
 I will always love you
-You, my darling you. Hmm
+You, my darling you. Hm
 
 Bittersweet memories
 That is all I'm taking with me

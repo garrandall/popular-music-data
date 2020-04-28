@@ -80,9 +80,9 @@ You've got to make every sacrifice
 You've got to pay the price
 You've got to pay the price
 
-Ooh ooh ooh
-Ooh ooh ooh
-Ooh ooh ooh
+Oh oh oh
+Oh oh oh
+Oh oh oh
 You've got to pay the price
 You've got to pay the price
 

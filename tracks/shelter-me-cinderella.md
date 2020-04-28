@@ -62,7 +62,7 @@ rankings:
 ---
 
 Everybody needs a little place they can hide
-Somewhere to call their own 
+Somewhere to call their own
 Don't let nobody inside
 Every now and then we all need to let go
 For some it's a doctor, for me it's rock and roll
@@ -78,7 +78,7 @@ If you live in a glass house don't be throwing rocks at me
 We all need a little shelter
 Just a little helper to get us by
 We all need a little shelter
-Just a little helper ohhh and it'll be alright
+Just a little helper oh and it'll be alright
 
 Check out Mr. Politician in his suit and tie
 But when the doors are closed there ain't nothing he won't try
@@ -95,8 +95,4 @@ For some it's a needle for some it's pill
 Some people read the Bible cause it's giving them a thrill
 You can spend your money before you get your pay
 With a toss of the dice you can piss it all away
-
-
-
-
 

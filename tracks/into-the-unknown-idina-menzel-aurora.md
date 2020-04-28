@@ -49,9 +49,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-02-29'
 ---
-Ooh
-Ooh
-Ooh
+Oh
+Oh
+Oh
 
 
 I can hear you, but I won't
@@ -60,9 +60,9 @@ There's a thousand reasons I should go about my day
 And ignore your whispers, which I wish would go away, oh
 
 
-Ooh
 Oh
-Ooh, ah
+Oh
+Oh ah
 
 
 You're not a voice, you're just a ringing in my ear
@@ -80,8 +80,8 @@ Into the unknown
 Into the unknown
 
 
-Ooh
-Ooh
+Oh
+Oh
 
 
 What do you want? 'Cause you've been keeping me awake
@@ -99,8 +99,8 @@ Into the unknown
 Into the unknown
 
 
-Ooh
-Ooh, ah
+Oh
+Oh ah
 
 
 Oh

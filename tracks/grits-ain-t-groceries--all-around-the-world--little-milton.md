@@ -41,7 +41,7 @@ With a toothpick in my hand I'd dig a ten foot ditch
 And run all through the jungle fightin' lions with a switch
 
 Because you know I love you, baby
-Ooh you know I love you baby, yeah
+Oh you know I love you baby, yeah
 Now if I don't love you baby, I tell you
 Grits ain't grocery, eggs ain't poultry
 And Mona Lisa was a man
@@ -65,7 +65,7 @@ And Mona Lisa was a man
 
 C'mon y'all
 Hit me!
-Ooh baby, listen
+Oh baby, listen
 
 All around the world I never will forget
 I lost all my money, my woman and my pet
@@ -88,8 +88,5 @@ Baby!
 Hit me, band!
 Yeah!
 
-FADES
-A-don't you know I love you, baby
-Ev'ryday and
-
-~
+Don't you know I love you, baby
+Everyday and

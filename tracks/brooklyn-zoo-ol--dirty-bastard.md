@@ -73,7 +73,7 @@ rankings:
   start_date: '1995-06-10'
 ---
 I bust that nigga ass right now
-Ain't none of them niggaz can't fuck with me
+Ain't none of them niggas can't fuck with me
 What? Nigga, you could never fuck with me, my nigga
 I'll fuck you up right now, WHAT? WHAT? WHAT?
 
@@ -104,7 +104,7 @@ Is it burnin'? Well fuck it, now you're learnin'
 How, I don't even like your motherfuckin' profile
 Gimme my fuckin' shit, ch ch blaow
 Not seen an' heard, no one knows
-You forget, niggaz be quiet as kept
+You forget, niggas be quiet as kept
 
 Now you know nothin', before you knew a whole fuckin' lot
 Your ass don't wanna get shot

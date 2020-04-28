@@ -135,7 +135,7 @@ Round and around we go!
 Don't waste, your time
 Ya fooled me once but not a second time
 Now it's time for you, to go away
-I packed your things nothing else for us to say......but...bye!!!
+I packed your things nothing else for us to say...but...bye!
 
 
 I was gutter when ya met me, gutter when ya left me

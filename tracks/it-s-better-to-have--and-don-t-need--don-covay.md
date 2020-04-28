@@ -83,7 +83,7 @@ It's better to have and don't need
 
 Yea-hey-hey
 
-Ooh!
+Oh!
 
 Boogie!
 

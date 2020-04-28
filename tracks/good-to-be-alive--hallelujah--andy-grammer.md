@@ -51,7 +51,7 @@ rankings:
 
 Uh huh
 Uh huh
-Ooooooh
+Oh
 Uh huh
 Alright
 Alright

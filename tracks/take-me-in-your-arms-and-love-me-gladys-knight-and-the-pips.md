@@ -19,7 +19,7 @@ rankings:
 The moon above is shining bright
 Come on, boy, the time is right
 Here I am
-Take me in your arms and love me, oooh
+Take me in your arms and love me, oh
 There's a mist of ecstasy
 That's flowing over me
 Here I am
@@ -35,7 +35,7 @@ I need you now, don't make me wait
 You're the one that I adore
 Tell me what are you waiting for
 Here I am
-Take me in your arms and love me, oooh
+Take me in your arms and love me, oh
 Boy, I'm hungry for your love
 Give me what I'm in need of
 Here I am
@@ -50,7 +50,7 @@ Make this night one sweet song
 
 Love me
 Love me
-Oooh, sugar
+Oh, sugar
 
 
 My eager heart is pounding fast

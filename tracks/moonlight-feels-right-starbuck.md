@@ -129,10 +129,6 @@ Feels right
 Moonlight
 Feels right
 
-
-
-
-
 We'll see the sun come up on Sunday morning
 And watch it fade the moon away
 I guess you know I'm giving you a warning

@@ -37,7 +37,7 @@ rankings:
   start_date: '1984-04-07'
 ---
 
-Hmm
+Hm
 Tell me about your childhood
 
 Oh!

@@ -100,7 +100,7 @@ I said one day all them bags gone get in your way
 One day all them bags gone get in your way
 
 So pack light
-Ooh Ooh
+Oh Oh
 
 Bag Lady you gone miss your bus
 You can't hurry up
@@ -114,7 +114,7 @@ One day he gone say you crowding my space
 I said one day he gone say you crowding my space
 One day he gone say you crowding my space
 So pack light
-Ooh Ooh
+Oh Oh
 
 Girl I know sometimes it's hard
 And we can't let go

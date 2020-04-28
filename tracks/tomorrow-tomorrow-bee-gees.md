@@ -32,7 +32,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-07-05'
 ---
-Ooh, every day you make me cry, girl
+Oh, every day you make me cry, girl
 I cry too much
 And today you say goodbye, girl
 It's just too much
@@ -50,7 +50,7 @@ And tomorrow every one gonna read my letter
 And my story of love and a love that could never be mine
 
 
-Ooh ask you to be my wife, girl
+Oh ask you to be my wife, girl
 You were playing
 Now I ask you where is my life, girl?
 You were saying

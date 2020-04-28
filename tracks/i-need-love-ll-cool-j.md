@@ -91,7 +91,7 @@ I gotta find me a girl to make my life complete
 You can scratch my back, we'll get cozy and huddle
 I'll lay down my jacket so you can walk over a puddle
 I'll give you a rose, pull out your chair before we eat
-Kiss you on the cheek and say, "ooh girl, you're so sweet"
+Kiss you on the cheek and say, "oh girl, you're so sweet"
 It's deja vu whenever I'm with you
 I could go on forever telling you what I do
 But where you at? You're neither here or there

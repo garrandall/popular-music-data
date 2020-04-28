@@ -37,7 +37,7 @@ Después que tú me traicionaste
 Ahora tengo que alejarme
 Busqué la forma de olvidarte
 (Ayy, come here, man, haha)
-Ooh
+Oh
 (Señorita, she is beautiful, no?)
 We The Best Music (Oh-nah-nah)
 Sabes bien que fue un engaño (Oh-nah-nah)

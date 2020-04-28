@@ -56,9 +56,6 @@ For the lives all so wasted and gone
 We feel the pain of a lifetime lost in a thousand days
 Through the fire and the flames we carry on
 
-
-
-
 As the red day is dawning
 And the lightning cracks the sky
 They'll raise their hands to the heavens above
@@ -80,9 +77,6 @@ So far away we wait for the day-ay
 For the lives all so wasted and gone
 We feel the pain of a lifetime lost in a thousand days
 Through the fire and the flames we carry on
-
-
-
 
 Now here we stand with their blood on our hands
 We fought so hard now can we understand?

@@ -125,7 +125,7 @@ Here in ecstasy, when you're layin' down next to me
 I wanna hold you and make you mine
 Don't want to control you just to have a good time
 Livin' in ecstasy, well, when you're layin' down next to me
-Ooh! ooh! wee, ecstasy, when you're layin' here with me, uh-huh
+Oh oh wee, ecstasy, when you're layin' here with me, uh-huh
 
 In this ecstasy when you are here with me, yeah
 Oh, it's ecstasy, Lord knows when you're next to me, yeah

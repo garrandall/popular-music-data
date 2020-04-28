@@ -84,7 +84,7 @@ rankings:
 ---
 
 
-Na, na, na, na, ooh
+Na, na, na, na, oh
 Oh, no, oh, ayy
 
 Put it in drive, I'll be outside, I'll be on the way
@@ -125,11 +125,11 @@ Out here in the field, oh yeah (yeah)
 I'm already here, yeah
 Come outside, looking like a snack
 Hurry up, get in, hell yeah (yeah)
-Come with me on this mission (ooh yeah, ooh yeah)
-Riding down the coast (ooh yeah)
-I want that for sure (ooh yeah)
-You say, "Play Khalid" (ooh yeah)
-I say, "Pass the weed" (ooh yeah)
+Come with me on this mission (ohyeah, ooheah)
+Riding down the coast (ohyeah)
+I want that for sure (ohyeah)
+You say, "Play Khalid" (ohyeah)
+I say, "Pass the weed" (ohyeah)
 Pull up to the crib, oh
 Said you've never been before
 Put you in Provocateur, girl, I made you mi amor

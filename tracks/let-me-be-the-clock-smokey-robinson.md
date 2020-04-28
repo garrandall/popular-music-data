@@ -97,15 +97,15 @@ I want to be your clock
 Just set me for lifetime
 And I'll wake you up every morning
 
-Woo, woo, ooh, let me
+Woo, woo, oh let me
 Let me be the clock for the time of your life
-For the time of your life, oh, yeah, ooh
+For the time of your life, oh, yeah, oh
 Let me be the pendulum striking your chime
 For the first time and every time after that
 'Cause I know where it's at
 
 So let me, let me, let me, let me
-Let me, let me, baby, ooh, ooh
+Let me, let me, baby, oh oh
 Let me be the pendulum striking your chime
 For the first time, for the first time
 
@@ -120,7 +120,7 @@ For the first time and every time after that
 'Cause I know where it's at
 
 So let me, let me, let me, let me
-Let me, let me, baby, ooh, ooh
+Let me, let me, baby, oh oh
 Let me be the pendulum striking your chime
 
 

@@ -38,9 +38,6 @@ Yawa evig dna evig I, uoy rof
 
 Call 911 now!
 
-
-
-
 Denodnaba eht rof
 Roloc ni ssenippahnu ym
 Yawa evig dna evig I, uoy rof

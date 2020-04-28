@@ -81,12 +81,12 @@ Boy you, makin me feel, uh oh so real
 Just get involved
 
 
-Everytime i take you around friends
+Everytime I take you around friends
 (Come on, everytime I take you around friends)
 I catch them looking at you love
 (Lookin' at you love, lookin' at you love like that)
 You know it never ever bothered me
-Because i know that i'm the one you're thinking of
+Because I know that i'm the one you're thinking of
 
 
 
@@ -104,8 +104,4 @@ Just get involved and get in control
 You know the way we do it, yo we roll
 
 Oh, oh, oh, oh
-
-
-
-
 

@@ -33,9 +33,9 @@ Well I've been on the road
 for a long time
 met a lot of women
 had to leave them all behind
-'cause I want to go back 
+'cause I want to go back
 to the land I love
-where Magnolia smells sweet 
+where Magnolia smells sweet
 and white cotton is warm
 
 
@@ -52,8 +52,4 @@ He don't have to worry
 'bout a thing
 'cause everyday now
 you can hear him sing
-
-
-
-
 

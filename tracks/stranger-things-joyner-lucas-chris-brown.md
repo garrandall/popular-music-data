@@ -42,8 +42,8 @@ When it's summertime and the juice
 But I'd rather die than to lose
 It's a matter of time 'fore I lose it
 And strategize with the movement
-Walk in the trap like a boss, ooh
-Hoe, you know I'm drippin' with the sauce, ooh
+Walk in the trap like a boss, oh
+Hoe, you know I'm drippin' with the sauce, oh
 Pretty with a face full of scars, all they did was build me up
 Try to take me apart, they ain't never wanna (celebrate)
 Like you have a label, call the doctor

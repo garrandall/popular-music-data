@@ -84,10 +84,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-08-26'
 ---
-Hmm
-Hmm hmm hmm hmm
-Hmm hmm hmm hmm
-Hmm hmm hmm hmm hmm
+Hm
+Hm hm hm hm
+Hm hm hm hm
+Hm hm hm hm hm
 
 
 Sometimes in our lives, we all have pain

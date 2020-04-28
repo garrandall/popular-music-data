@@ -75,7 +75,7 @@ Love thee more dearly
 Follow thee more nearly
 Day by day
 
-Day by day (chorus)
+Day by day
 Day by day
 Oh Dear Lord
 Three things I pray

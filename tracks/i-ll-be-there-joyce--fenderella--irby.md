@@ -58,7 +58,7 @@ Love lives after all
 And when there's no one left to care
 Just believe in love and I'll be there
 
-(Ooh... ooh... ooh...)
+(Oh... oh.. ooh)
 (I'll be there, yes, I will)
 
 And now with all the sacrifice

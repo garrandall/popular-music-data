@@ -81,9 +81,6 @@ Now I just made it, I found you at last
 So come on, now let's try it, I love you, can't deny it
 'Cause it's true, I do, I do, I do, I do, I do
 
-
-
-
 Oh, no hard feelings between you and me
 If we can't make it, but just wait and see
 

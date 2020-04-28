@@ -122,7 +122,7 @@ Huh, in here! Huh, in here!
 It's gon' get ugly, ugly, ugly
 In here! Huh, in here!
 It's gon' get ugly - in here!
-Huh, in here! Huh, in here - uh-ohh!
+Huh, in here! Huh, in here - uh-oh!
 
 
 Though I am country, don't get the wrong idea
@@ -150,7 +150,7 @@ Huh, in here! Huh, in here!
 It's gon' get ugly, ugly, ugly
 In here! Huh, in here!
 It's gon' get ugly - in here!
-Huh, in here! Huh, in here - uh-ohh!
+Huh, in here! Huh, in here - uh-oh!
 
 
 Now this thang is jumpin' - ain't it somethin'?
@@ -174,7 +174,7 @@ Huh, in here! Huh, in here!
 It's gon' get ugly, ugly, ugly
 In here! Huh, in here!
 It's gon' get ugly - in here!
-Huh, in here! Huh, in here - uh-ohh!
+Huh, in here! Huh, in here - uh-oh!
 
 
 Ha ha, it's gon' get (uglyy - in here!)
@@ -184,7 +184,7 @@ It's gon' get (ugly - in here!)
 It's gon' get (ugly) say what?
 (Ugly, ugly) Say what? (Ugly!) In here! Huh, in here!
 (It's gon' get ugly - in here!)
-(Huh, in here! Huh, in here - uh-ohh!)
+(Huh, in here! Huh, in here - uh-oh!)
 Thcka-thcka-thcka-thcka-thcka check switch uhh
 
 {*"Get Ur Freak On" beat*} Switch it one time
@@ -192,12 +192,12 @@ Thcka-thcka-thcka-thcka-thcka check switch uhh
 {*"Get Ur Freak On" beat*} Switch it one time
 {*Bubba's "Ugly" beat*} Now switch it back baby
 
-"Holla!! Ain't no stoppin me" - Missy
+"Holla! Ain't no stoppin me" - Missy
 "Copywritten so" (so what?) "don't copy me"
 
 {*Bubba's "Ugly" beat*} I want you to..
 
-"Holla!! Ain't no stoppin me" - Missy
+"Holla! Ain't no stoppin me" - Missy
 "Copywritten so, don't copy me"
 
 C'mon Bubba, let's go

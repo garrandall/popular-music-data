@@ -80,7 +80,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-06-14'
 ---
-It's party time!  Woooahh, it's party time!
+It's party time!  Woah, it's party time!
 Havin a party, c'mon
 
 Yeah yeah, Tray Lee nigga, ByStorm (ByStorm)

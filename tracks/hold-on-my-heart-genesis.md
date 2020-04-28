@@ -95,7 +95,7 @@ We both know what can happen
 
 Hold on my heart
 Cause I'm looking over your shoulder
-Ooh please don't rush in this time
+Oh please don't rush in this time
 Don't show her how you feel
 
 Hold on my heart

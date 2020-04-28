@@ -95,9 +95,6 @@ Where's your crown
 Oh, nothing
 Oh, where's your crown?
 
-
-
-
 I wish I may
 I wish I might
 Have this wish I wish tonight

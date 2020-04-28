@@ -126,7 +126,7 @@ Cause you've given me the most beautiful set of wings
 I'm so glad you're here today
 Cause tomorrow I might have to go and fly away
 Fly away, Fly Away, Fly away, Fly away
-Fly away!!
+Fly away!
 
 
 

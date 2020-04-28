@@ -28,7 +28,7 @@ Heartbeat racin' like a junkie's
 I just need you to want me
 Am I askin' too much?
 Let me put the head in
-Ooh, I don't want more than that
+Oh, I don't want more than that
 Girl, I respect the cat
 I promise just a touch
 Let me put the head in
@@ -93,7 +93,7 @@ Heartbeat racin' like a junkie's
 I just need you to want me
 Am I askin' too much?
 Let me put the head in
-Ooh, I don't want more than that
+Oh, I don't want more than that
 Girl, I respect the cat
 I promise just a touch
 Let me put the head in
@@ -138,7 +138,7 @@ Heartbeat racin' like a junkie's
 I just need you to want me
 Am I askin' too much?
 Let me put the head in
-Ooh, I don't want more than that
+Oh, I don't want more than that
 Girl, I respect the cat
 I promise just a touch
 Let me put the head in

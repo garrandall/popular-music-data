@@ -63,7 +63,7 @@ Like a fox that prays on the rabbit
 I had to get you and so I knew
 I had to learn your ways and your habits
 
-Ooh, you were the catch that I was after
+Oh, you were the catch that I was after
 But I looked up, and I was in your arms
 And I knew I had been captured
 
@@ -79,7 +79,7 @@ Hoping you might fall into it
 But love hit me like a sudden slap
 One kiss, and then I knew it
 
-Ooh, my plan didn't work out like I thought
+Oh, my plan didn't work out like I thought
 I had laid my trap for you
 But it seems that I got caught
 

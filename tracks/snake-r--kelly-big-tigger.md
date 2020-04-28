@@ -138,7 +138,7 @@ You make me wanna get to know ya, like that
 3 oclock we in the hotel lobby
 After party in my penthouse suite
 Lookin' for a fly shorty to meet
-Girl like a .... let me see ya freak
+Girl like a ... let me see ya freak
 The way you're freakin' it is so ya ya
 Wil'in out in the back 'o my car
 Girl you got me screamin' fiesta

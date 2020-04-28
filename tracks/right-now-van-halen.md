@@ -94,10 +94,6 @@ It's enlightened me, right now
 What are you waitin for
 Oh, yeah, right now
 
-
-
-
-
 Right now, oh, Right now
 It's what's happening?
 Right here and now

@@ -64,9 +64,9 @@ It just turns out that way
 I almost lost it all
 
 And then I, I got lucky
-Ooh, I got lucky
+Oh I got lucky
 I got lucky
-Ooh, I got lucky
+Oh I got lucky
 
 In love
 My fortunes never changed
@@ -74,11 +74,11 @@ And I always took the blame
 And I had nothing left to gain
 I was just about to quit
 And then I, I got lucky
-Ooh, I got lucky
+Oh I got lucky
 I got lucky
-Ooh, I got lucky
+Oh I got lucky
 I got lucky
-Ooh, I got lucky
+Oh I got lucky
 I got lucky
 
 Aw, aw, aw
@@ -95,12 +95,12 @@ And it filled my life with doubt
 I almost lost it all
 
 And then I, I got lucky
-Ooh, I got lucky
+Oh I got lucky
 I got lucky
-Ooh, I got lucky
+Oh I got lucky
 I got lucky
-Ooh, I got lucky
+Oh I got lucky
 I got lucky
-Ooh, I got lucky
+Oh I got lucky
 
 Yeah, yeah, oh, oh

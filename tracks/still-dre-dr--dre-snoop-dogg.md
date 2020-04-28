@@ -128,5 +128,5 @@ And I still got love for the streets, it's the D-R-E
 Right back up in ya mothafuckin' ass, 9-5 plus four pennies!
 Add that shit up, D-R-E right back up on top of thangs
 Smoke some with your dog, no stress, no seeds, no stems, no sticks!
-Some of that real sticky icky icky, ooh wee!
+Some of that real sticky icky icky, oh wee!
 Put it in the air, oh, you's a fool DR

@@ -53,7 +53,7 @@ Don't let the Jones, don't let the Jones
 Don't let the Joneses get you down, woo, one more time
 Don't let the Jones, don't let the Jones
 Don't let the Joneses get you down, whoa, down
-Ooh, hoo, hoo-hoo-hoo-hoo-hoo-hoo
+Oh, hoo, hoo-hoo-hoo-hoo-hoo-hoo
 
 Huh, you may not believe it
 But nine times out of ten it's true

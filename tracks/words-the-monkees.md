@@ -76,7 +76,3 @@ Now, I'm standing here.
 Strange, strange voices in my ears, I feel the tears
 But all I can hear are those-
 
-
-
-
-

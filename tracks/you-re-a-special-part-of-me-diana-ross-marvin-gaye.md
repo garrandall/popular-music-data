@@ -85,6 +85,6 @@ I'm satisfied to know that you're a part of me
 Marvin: All I want to say hey hey hey is
 Diana: All I want to say is
 Both: That I love you ‘cause you're that very special, very special
-I love you ooh, how else can I explain, I love you ‘cause of that special thing
+I love you oh, how else can I explain, I love you ‘cause of that special thing
 I love you every time I shed that special tear
 I love you every time I feel that special thing for you

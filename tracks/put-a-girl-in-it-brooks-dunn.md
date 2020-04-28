@@ -95,8 +95,8 @@ If you're world's got somethin missin
 Just put a girl in it
 
 You can write you a country song
-The DJ wont put it on
-They wont dance or sing along
+The DJ won't put it on
+They won't dance or sing along
 
 Til you put a girl in it
 You aint got nothin

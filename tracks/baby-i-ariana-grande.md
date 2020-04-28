@@ -45,7 +45,7 @@ Baby, baby (oh-woah, oh-woah)
 Baby, I'm so down for you
 No matter what you do (real talk), I'll be around
 Yeah, yeah
-Ooh, baby
+Oh, baby
 Baby, I been feeling you before I even knew what feelings were about
 Oh, baby
 
@@ -62,7 +62,7 @@ And I say baby, baby (oh-woah, oh-woah), baby
 (Baby, I) All I'm tryna say is you're my everything, (baby)
 But every time I try to say it, words, they only complicate it
 Baby, baby (oh-woah, oh-woah)
-(Baby, baby) Ooh-woah
+(Baby, baby) Oh-woah
 
 
 Straight up

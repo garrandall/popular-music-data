@@ -96,7 +96,7 @@ You're my doll, rock'n'roll, feel the glamour in pink,
 Kiss me here, touch me there, hanky panky...
 You can touch, you can play, if you say, "I'm always yours."
 
-(uu-oooh-u) 
+(uu-oh-u)
 
 I'm a Barbie girl in the Barbie world
 Life in plastic, it's fantastic!
@@ -106,11 +106,11 @@ Imagination, life is your creation
 Come on, Barbie, let's go party!
 (ah-ah-ah-yeah)
 Come on, Barbie, let's go party!
-(uu-oooh-u) 
+(uu-oh-u)
 Come on, Barbie, let's go party!
 (ah-ah-ah-yeah)
 Come on, Barbie, let's go party!
-(uu-oooh-u) 
+(uu-oh-u)
 
 Make me walk, make me talk, do whatever you please
 I can act like a star, I can beg on my knees
@@ -122,11 +122,11 @@ You can touch, you can play, if you say, "I'm always yours."
 Come on, Barbie, let's go party!
 (ah-ah-ah-yeah)
 Come on, Barbie, let's go party!
-(uu-oooh-u) 
+(uu-oh-u)
 Come on, Barbie, let's go party!
 (ah-ah-ah-yeah)
 Come on, Barbie, let's go party!
-(uu-oooh-u) 
+(uu-oh-u)
 
 I'm a Barbie girl in the Barbie world
 Life in plastic, it's fantastic!
@@ -141,11 +141,11 @@ Imagination, life is your creation
 Come on, Barbie, let's go party!
 (Ah-ah-ah-yeah)
 Come on, Barbie, let's go party!
-(uu-oooh-u) 
+(uu-oh-u)
 Come on, Barbie, let's go party!
 (ah-ah-ah-yeah)
 Come on, Barbie, let's go party!
-(uu-oooh-u) 
+(uu-oh-u)
 
 Oh, I'm having so much fun!
 Well, Barbie, we're just getting started

@@ -109,7 +109,7 @@ Sing it to me
 
 
 You can't always get what you want, yeah
-You can't always get what you want, ooh yeah
+You can't always get what you want, ohyeah
 You can't always get what you want
 But if you try sometimes, you just might find
 You just might find you get what you need, ah yeah

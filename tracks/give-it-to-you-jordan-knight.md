@@ -140,7 +140,7 @@ The feeling is fine, giving you everything of mine
 
 It's creepin' around in my head
 Me holding down in my bed
-You dont have to say a word
+You don't have to say a word
 Just relax
 I'll do the work
 I can't wait to give you some

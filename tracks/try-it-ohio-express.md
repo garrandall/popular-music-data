@@ -31,10 +31,10 @@ Try it (mmm-mmm)
 Try it (mmm-mmm)
 
 You look excited and you figure that it's just a bluff - huh
-A-don't you dare walk away
+Don't you dare walk away
 I'll get you, tough little chick, before you fall in love
 Come here, girl, what do you say
-A-just give the word and my good lovin' will start
+Just give the word and my good lovin' will start
 I'll serve a feverish pitch that's headed straight for your heart
 
 

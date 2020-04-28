@@ -78,7 +78,3 @@ It's gone now, moved on now
 But then again it didn't have a chance to last
 No, no, no, a chance to last
 
-
-
-
-

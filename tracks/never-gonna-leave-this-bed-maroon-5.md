@@ -135,7 +135,7 @@ I'm never gonna leave this bed, oh
 So you say, "Go. It isn't working."
 And I say, "No. It isn't perfect."
 So I stay instead
-I'm never gonna leave this bed, ooh
+I'm never gonna leave this bed, oh
 
 Take it, take it all
 Take all that I have

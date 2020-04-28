@@ -62,9 +62,6 @@ You walked out on me before
 I tried to tell you, but you did not want to know
 This time you are different and determined to go
 
-
-
-
 I wait as the days go by
 I long for the nights to go by
 I hear the knock on my door that never comes

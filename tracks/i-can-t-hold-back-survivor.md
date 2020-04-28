@@ -158,7 +158,7 @@ Girl, it's too late
 To turn back now
 
 I can see you tremble when we touch
-Ooh, and I feel the hand of fate
+Oh, and I feel the hand of fate
 Reaching out to both of us
 This love affair can't wait
 

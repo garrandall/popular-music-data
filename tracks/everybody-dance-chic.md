@@ -80,11 +80,6 @@ Clap your hands everybody's screaming
 
  (x2)
 
-
-
-
-
-
 Everybody dance
 Everybody dance
 Everybody dance

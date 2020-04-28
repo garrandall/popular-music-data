@@ -36,7 +36,7 @@ Too many days in a daze, better wake up
 I put your face in a place where the space was
 Nobody make you feel like you but (Do I?)
 And you don't know what you should do
-You just looking for someone to make you move, ooh tell me (Do I?)
+You just looking for someone to make you move, ohtell me (Do I?)
 
 I make this planet feel like home
 Miss us, first time the door is closing

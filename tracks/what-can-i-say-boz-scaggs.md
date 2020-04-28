@@ -82,7 +82,7 @@ I've been waiting just for you
 (What can I say?) Got to have your number, baby
 (What can I do?)
 
-Dodododo....
+Dodododo...
 
 Can't you see the people who stop and stare
 Don't it make you wonder why?
@@ -94,7 +94,7 @@ Can't you see it in my eye?
 (What can I say?) Could be your lucky day, baby
 (What can I do?)
 
-Ooooh, it's hot
+Oh, it's hot
 Ooohooo, it's hot, little girl
 
 Ooooooo talking girl
@@ -106,6 +106,6 @@ Ooooooo talking girl
 
 Please, please, what can I say?
 (What can I do?)
-(What can I do?) Oooh, what can I do
+(What can I do?) Oh, what can I do
 (What can I say?) What can I say, baby?
 (What can I say?)

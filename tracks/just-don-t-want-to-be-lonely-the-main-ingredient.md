@@ -127,7 +127,7 @@ Come on
 
 I just want to be loved
 Yeah, yeah, yeah, baby
-Ooh, Lord, have mercy
+Oh Lord, have mercy
 
 I'd rather be loved and needed
 Depended on to give a love

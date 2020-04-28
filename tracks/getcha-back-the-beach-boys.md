@@ -58,10 +58,10 @@ rankings:
 ---
 
 Bow bow bow bow oop
-Ahh ooo oohh waaa oooo
+Ah oo oh waaa oo
 
 Bow bow bow bow oop
-Ahh ooo oohh waaa oooo
+Ah oo oh waaa oo
 
 The other night they were playing our song
 Hadn't heard it for oh so long

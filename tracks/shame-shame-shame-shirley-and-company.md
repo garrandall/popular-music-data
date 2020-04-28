@@ -83,7 +83,7 @@ Can't stop me now hear what I say
 My feet wanna move so get out my way
 I'm gonna have my say
 I'm going to every discotheque
-I'm gonna dance dance dance dance ooh
+I'm gonna dance dance dance dance oh
 Till the break of day I say
 CHORUS
 Shame shame shame hey shame on you
@@ -107,7 +107,7 @@ My body needs action ain't gonna blow
 Yes I'm going out I'm going to find a dancin' man
 If you really think you're fast
 Try to catch me if you can
-I say shame shame shame yeah (aah) shame on you
+I say shame shame shame yeah (ah) shame on you
 If you can't dance too
 It's a shame shame shame
 Shame shame shame

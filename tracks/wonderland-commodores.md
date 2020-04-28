@@ -91,9 +91,9 @@ Oh, one minute lost might be one minute too late
 
 Sugar, don't you be afraid, no, no
 Just take me by the hand and I'll show you the way
-Ooh
+Oh
 
-Ooh...hoo...yeah
+Oh...hoo...yeah
 (It's for you and for me)
 It's for you, baby
 All I need, all I ever needed was you

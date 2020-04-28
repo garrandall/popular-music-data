@@ -131,7 +131,7 @@ Now give it here!
 You never shoulda promise to me, give it here!
 Don't hold back now, give it here!
 Don't say nothin', just give it here, COME ON!
-Give it here ! Give it here ! Give it here! Give it here!
+Give it here! Give it here! Give it here! Give it here!
 Give it to me NOW!
 
 Good God

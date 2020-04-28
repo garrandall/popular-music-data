@@ -109,7 +109,3 @@ I came runnin' every time you cried
 Thought I saw love smilin' in your eyes
 Ha Ha very nice to know, that you ain't got no place left to go
 
-
-
-
-

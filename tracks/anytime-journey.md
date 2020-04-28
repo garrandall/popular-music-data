@@ -24,12 +24,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-07-22'
 ---
-Ooh, ooh, anytime that you want me
-Ooh, ooh, anytime that you need me
+Oh, oh, anytime that you want me
+Oh, oh, anytime that you need me
 
 
-Ooh, ooh, anytime that you want me to
-Ooh, ooh, anytime that you need me
+Oh, oh, anytime that you want me to
+Oh, oh, anytime that you need me
 
 
 I'm standing here with my arms a mile wide
@@ -38,8 +38,8 @@ Listen to me and enlighten me, yeah
 I hope that you need me too, 'cause
 
 
-Ooh, ooh, anytime that you want me
-Ooh, ooh, anytime that you need me
+Oh, oh, anytime that you want me
+Oh, oh, anytime that you need me
 
 
 Give me all of your sunshine
@@ -53,13 +53,13 @@ Anytime at all
 Anytime at all
 
 
-Ooh, ooh, anytime that you want me
-Ooh, ooh, anytime that you need me
+Oh, oh, anytime that you want me
+Oh, oh, anytime that you need me
 
 
-Ooh, ooh, anytime that you want me to
-Ooh, ooh, anytime that you want me
+Oh, oh, anytime that you want me to
+Oh, oh, anytime that you want me
 
 
-Ooh, ooh, anytime that you need me
-Ooh, ooh, anytime that you want me to
+Oh, oh, anytime that you need me
+Oh, oh, anytime that you want me to

@@ -107,9 +107,6 @@ You've been gone too long
 
 Good thing
 
-
-
-
 Then one day, she came back
 I was so happy that I didn't ask
 Morning came into my room

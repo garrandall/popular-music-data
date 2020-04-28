@@ -13,7 +13,7 @@ rankings:
   start_date: '2012-01-21'
 ---
 
-Who-ooh-ooh-ooh are you anyways?
+Who-oh-oh-oh are you anyways?
 I can't count how many days you weren't here.
 The walls were closing in on me,
 But I don't live in there no more.
@@ -35,12 +35,12 @@ So, baby, I'm a set you free,
 Yeah I'm a set you free.
 
 
-Who-ooh-ooh-ooh are you anyways?
+Who-oh-oh-oh are you anyways?
 I can't count how many days you weren't here.
 The walls were closing in on me,
 But I don't live in there no more.
 
-Who-ooh-ooh-ooh are you anyways?
+Who-oh-oh-oh are you anyways?
 I can't count how many days you weren't here.
 The walls were closing in on me (closing in),
 But I don't live in there no more.
@@ -62,12 +62,12 @@ So, baby, I'm a set you free,
 Yeah, I'm a set you free
 
 
-Who-ooh-ooh-ooh are you anyways?
+Who-oh-oh-oh are you anyways?
 I can't count how many days you weren't here.
 The walls were closing in on me,
 But I don't live in there no more.
 
-Who-ooh-ooh-ooh are you anyways?
+Who-oh-oh-oh are you anyways?
 I can't count how many days you weren't here.
 The walls were closing in on me (closing in)
 But I don't live in there no more (no more)
@@ -84,17 +84,17 @@ As soon as we severed
 And you were free
 
 
-Who-ooh-ooh-ooh are you anyways?
+Who-oh-oh-oh are you anyways?
 I can't count how many days you weren't here.
 The walls were closing in on me (closing in)
 But I don't live in there no more (no more)
 
-Who-ooh-ooh-ooh are you anyways?
+Who-oh-oh-oh are you anyways?
 I can't count how many days you weren't here.
 The walls were closing in on me (closing in)
 But I don't live in there no more (no more)
 
-Whoa, Whoa, Whoa, Whoa 
+Whoa, Whoa, Whoa, Whoa
 
 
 

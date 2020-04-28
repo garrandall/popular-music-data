@@ -91,9 +91,9 @@ Cause he's kinda big and he's awful strong
 (Hey he knows I wasn't cheatin'!)
 (Now you're gonna get a beatin'!)
 (What made you think he'd believe all your lies?)
-(Wah-ooo, wah-ooo)
+(Wah-oo, wah-oo)
 (You're a big man now but he'll cut you down to size
-(Wah-ooo, wait and see)
+(Wah-oo, wait and see)
 
 My boyfriend's back he's gonna save my reputation
 (Hey-la-day-la my boyfriend's back)

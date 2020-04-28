@@ -20,7 +20,6 @@ Poverty's paradise
 I don’t think I could find a way to make it on this earth
 (I've been hungry all my life)
 
-
 What's up, family?
 Yeah, it’s your cousin Carl, man, just givin' you a call, man
 I know you been havin' a lot on yo' mind lately
@@ -31,7 +30,6 @@ See, family, that's why you feel like you feel
 Like you got a chip on your shoulder
 Until you follow His commandments, you gonna feel that way
 
-
 Why God, why God do I gotta suffer?
 Pain in my heart carry burdens full of struggle
 Why God, why God do I gotta bleed?
@@ -39,14 +37,6 @@ Every stone thrown at you restin' at my feet
 Why God, why God do I gotta suffer?
 Earth is no more, won’t you burn this muh’fucka?
 I don't think I could find a way to make it on this earth
-Akcuf’hum siht nrub uoy t'now ,erom on si htraE
-Reffus attog I od doG yhw ,doG yhW
-Teef ym ta 'nitser uoy ta nworht enots yrevE
-Deelb attog I od doG yhw ,doG yhW
-Elggurts fo lluf snedrub yrrac traeh ym ni niaP
-Reffus attog I od doG yhw ,doG yhW
-Teef ym ta 'nitser uoy ta nworht enots yrevE
-
 
 I beat yo’ ass, keep talkin' back
 I beat yo' ass, who bought you that?
@@ -71,7 +61,6 @@ I beat yo' ass if I beat yo' ass twice and you still here
 Seven years old, think you run this house by yourself?
 Nigga, you gon' fear me if you don't fear no one else
 
-
 If I could smoke fear away, I'd roll that mothafucker up
 And then I'd take two puffs
 I'm high now (Huh), I'm high now (Huh)
@@ -79,7 +68,6 @@ I'm high now (Huh), I'm high now (Huh)
 Life's a bitch, pull them panties to the side now
 (Pull them panties to the side now)
 I don't think I could find a way to make it on this earth
-
 
 I'll prolly die anonymous, I'll prolly die with promises
 I'll prolly die walkin' back home from the candy house
@@ -99,7 +87,6 @@ I'll prolly die tryna defuse two homies arguin'
 I'll prolly die 'cause that's what you do when you're 17
 All worries in a hurry, I wish I controlled things
 
-
 If I could smoke fear away, I'd roll that mothafucker up
 And then I'd take two puffs
 (I've been hungry all my life)
@@ -108,7 +95,6 @@ I'm high now (Huh), I'm high now (Huh)
 Life's a bitch, pull them panties to the side now
 (Pull them panties to the side now)
 Now
-
 
 When I was 27, I grew accustomed to more fear
 Accumulated 10 times over throughout the years
@@ -135,7 +121,6 @@ What they say 'bout me reveal if my reputation would miss me
 What they see from me would trickle down generations in time
 What they hear from me would make 'em highlight my simplest lines
 
-
 I'm talkin' fear, fear of losin' creativity
 I'm talkin' fear, fear of missin' out on you and me
 I'm talkin' fear, fear of losin' loyalty from pride
@@ -154,11 +139,9 @@ Within fourteen tracks, carried out over wax
 Wonderin' if I'm livin' through fear or livin' through rap
 Damn
 
-
 God damn you, God damn me
 God damn us, God damn we
 God damn us all
-
 
 Verse 2 says, "You only have I known of all the families of the Earth, therefore I will punish you for all your iniquities."
 So until we come back to these commandments

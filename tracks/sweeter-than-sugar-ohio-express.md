@@ -36,7 +36,7 @@ Baby, you can't be beat, no, no
 Sweeter than sugar
 Cause, sugar, you're so sweet
 
-(Ahhh)
+(Ah)
 (You're sweet, you're sweet, you're oh so sweet)
 (So sweet. so sweet, so very sweet)
 (You're sweet, so sweet, you're oh so sweet)

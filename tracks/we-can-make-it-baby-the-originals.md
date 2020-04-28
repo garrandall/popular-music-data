@@ -36,10 +36,10 @@ rankings:
 Haven't got much to give
 (Hey babe)
 And don't know what I'll get
-(Ooh, I know)
+(Oh, I know)
 All I know
 Is if you love me
-(Ooh, hey)
+(Oh, hey)
 We can make it babe
 (We can make it if we try, we can make it)
 Oh darlin'
@@ -48,9 +48,9 @@ Oh darlin'
 I know things have been rough
 (Hey baby)
 And sometimes, little girl, the going gets tough
-(Ooh, I know)
+(Oh, I know)
 But I know if you stay with me, oh baby
-(Ooh hey, hey, hey)
+(Oh hey, hey, hey)
 We can make it baby
 (We can make it if we try, we can make it)
 I know we can
@@ -69,17 +69,17 @@ Don't let some sweet talkin' guy with his bread turn your head
 Sugar, sugar, sugar, sugar
 (Hey baby)
 For as long as I live
-(Ooh, I know)
+(Oh, I know)
 All, all I know is if you love me
-(Ooh hey, hey, hey)
+(Oh hey, hey, hey)
 We can make it baby
 (We can make it if we try, we can make it)
 Oh, we can make it
 (Just rely on me, we can make it)
 
-Ooh
+Oh
 (We can make it)
-Ooh
+Oh
 (We can make it)
-Ooh
+Oh
 (We can make it)

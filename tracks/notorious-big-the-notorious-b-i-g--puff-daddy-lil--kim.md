@@ -55,10 +55,10 @@ The doctor said I need about three weeks of recovery
 but the nurses is lovin me
 Sayin the best part of the day is my half
 Feedin me breakfast, and givin me a sponge bath
-Niggaz say I died dead in the streets
+Niggas say I died dead in the streets
 Nigga I'm gettin high, gettin head on the beach
 Chillin, sittin on about half a million
-With all my niggaz, all my guns, all my women
+With all my niggas, all my guns, all my women
 Next two years, I should see about a billion
 All for the love of drug dealin
 Got no love for the other side, fuck them tricks (fuck them)
@@ -73,24 +73,24 @@ NO, NO, NO, NOTORIOUS!
 He is.. he is..
 NO, NO, NO, NOTORIOUS!
 
-This for my niggaz slingin thangs, had my ring encaged
+This for my niggas slingin thangs, had my ring encaged
 Truck, necklace, igloo ring and things
 For the bitches, who see them rims spin and grin
 That shit with the V-trim that win
 and the enormous fields disperse of rap
 On the road to the riches more furs to drag
-More niggaz to kill, than birds to bag
+More niggas to kill, than birds to bag
 Hit the jeweler and splurge the tab, uh
 Hops, out the truck like, "Trick, what up?"
 Call me Sean if you suck, call me gone when I nut
 That's the end of us, get your friend to fuck
 Untwist and bend her up, you know the deal
-Niggaz talkin real greasy on some ballin shit (that's right)
+Niggas talkin real greasy on some ballin shit (that's right)
 Funny how quick these pricks forget
 Actin like I ain't the reason they traded they shit
 Switched that 5, copped that 6 (that's right)
 It's all good, you know who the clone is
-Fuck the Joneses, niggaz tryin to keep up with the Combses
+Fuck the Joneses, niggas tryin to keep up with the Combses
 
 
 C'mon y'all..
@@ -125,7 +125,7 @@ NO, NO, NO, NOTORIOUS!
 He is, he is.. (c'mon, what's his name?)
 Bad Boy baby, D.R. c'mon
 NO, NO, NO, NOTORIOUS!
-We are, we are .. 
+We are, we are ..
 Queen Bee baby, we are, c'mon
 NO, NO, NO, NOTORIOUS!
 He is, he is.. (B.I.G. baby, he is c'mon)

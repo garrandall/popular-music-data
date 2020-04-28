@@ -47,7 +47,7 @@ Kiss me gently
 Always I know
 Hold me, love me
 Don't ever go
-Ooh, yeah yeah
+Oh yeah yeah
 
 
 

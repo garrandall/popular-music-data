@@ -38,7 +38,7 @@ rankings:
 ---
 Whoa!
 Lord have mercy
-Aah, baby, c'mon
+Ah, baby, c'mon
 
 
 Yeah
@@ -85,5 +85,5 @@ Sometimes a man never knows what he has, until a true lady  of his past
 Love is one thing, girl, that I can give you
 And then due the respect I pay tribute
  a special kind of breathe
-And the ones you've given me, I'm more than 
+And the ones you've given me, I'm more than
 With your manerism

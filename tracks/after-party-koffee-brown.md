@@ -89,68 +89,68 @@ rankings:
   start_date: '2001-05-26'
 ---
 
-And you don't stop, keep keep it on 
-keep it on, keep keep it on 
-you don't stop, keep keep it on 
-(welcome to the after party) 
-keep keep it on, where da party at... 
+And you don't stop, keep keep it on
+keep it on, keep keep it on
+you don't stop, keep keep it on
+(welcome to the after party)
+keep keep it on, where da party at...
 
-After the party 
-lets take a little time 
-and talk about it 
-whats going through your mind 
-and as we're shakin 
-oooh it looks so right 
-i wanna ride 
-see i would be lyin 
-if i didn't tell you 
-it made me wanna flip 
-and you can't tell me 
-you aint feelin the same shit 
-girl its our chemistry 
-like icing on the cake 
-i hope you stay 
-so we can do our thang... 
+After the party
+lets take a little time
+and talk about it
+whats going through your mind
+and as we're shakin
+oh it looks so right
+i wanna ride
+see I would be lyin
+if I didn't tell you
+it made me wanna flip
+and you can't tell me
+you aint feelin the same shit
+girl its our chemistry
+like icing on the cake
+i hope you stay
+so we can do our thang...
 
-... after the party 
- 
-dont stop you aint gotta stop (baby do your thang) 
-dont stop if the music drops (rock with me) 
-get on top, you can take it off (whats it gonna be) 
-doncha want the after party 
+... after the party
 
-after the party 
-lets go somewhere and finish 
-what we started 
-cause right from the beginning 
-i was on it 
-i know you felt these thighs 
-you know i felt you rise 
-so why dont we slide 
-up off the dance floor 
-you and me 
-cause i wanna know 
-just how deep 
-does your lovin go 
-so tell your boys "good night" 
-cause we're going right... 
+don't stop you aint gotta stop (baby do your thang)
+don't stop if the music drops (rock with me)
+get on top, you can take it off (whats it gonna be)
+doncha want the after party
 
-... after the party 
- 
-dont stop you aint gotta stop (baby do your thang) 
-dont stop if the music drops (rock with me) 
-get on top, you can take it off (whats it gonna be) 
-doncha want the after party 
-(don't stop) 
-dont stop you aint gotta stop (baby do your thang) 
-dont stop if the music drops (rock with me) 
-get on top, you can take it off (whats it gonna be) 
-doncha want the after party 
+after the party
+lets go somewhere and finish
+what we started
+cause right from the beginning
+i was on it
+i know you felt these thighs
+you know I felt you rise
+so why don't we slide
+up off the dance floor
+you and me
+cause I wanna know
+just how deep
+does your lovin go
+so tell your boys "good night"
+cause we're going right...
 
-sweet baby come with me 
-cause i wanna do you right 
-don't hold back, baby where you at 
-cause i wanna get inside 
+... after the party
+
+don't stop you aint gotta stop (baby do your thang)
+don't stop if the music drops (rock with me)
+get on top, you can take it off (whats it gonna be)
+doncha want the after party
+(don't stop)
+don't stop you aint gotta stop (baby do your thang)
+don't stop if the music drops (rock with me)
+get on top, you can take it off (whats it gonna be)
+doncha want the after party
+
+sweet baby come with me
+cause I wanna do you right
+don't hold back, baby where you at
+cause I wanna get inside
 
 
 

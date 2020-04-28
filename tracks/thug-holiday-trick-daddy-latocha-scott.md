@@ -76,7 +76,7 @@ What about the children, who ran away, that ain't coming home today
 Well here's a message from coast to coast
 Cause when them thugs really need it the most a thug holiday
 
-Just like em, just like em, just like em, a thug holiday - 
+Just like em, just like em, just like em, a thug holiday -
 
 
 Here go one for, all these killings and all these conflicts in religion
@@ -103,7 +103,7 @@ I know you're fed up, but stay strong
 Here's a message from coast to coast
 Cause when them thugs really need it the most, thug holiday
 
-Just like em, just like em, just like em, a thug holiday - 
+Just like em, just like em, just like em, a thug holiday -
 
 
 This is for my people in the ghetto
@@ -114,8 +114,4 @@ It gets hard sometimes, but you
 Got to keep your head up, and be strong
 Here's a message from coast to coast
 Cause when them thugs really need it the most, a thug holiday
-
-
-
-
 

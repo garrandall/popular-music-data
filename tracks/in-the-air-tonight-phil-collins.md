@@ -106,9 +106,6 @@ No, you don't fool me
 Well, the hurt doesn't show, but the pain still grows
 It's no stranger to you and me
 
-
-
-
 And I can feel it coming in the air tonight, oh Lord
 Well, I've been waiting for this moment for all my life, oh Lord
 I can feel it in the air tonight, oh Lord, oh Lord

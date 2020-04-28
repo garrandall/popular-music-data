@@ -59,11 +59,11 @@ We'll have it made, together
 We'll have it made, yeah
 
 
-Ooh
+Oh
 (Hey, have it made)
 We'll have it made
 (Hey, have it made)
-Ooh oh alright
+Oh oh alright
 
 
 'Cause when we build all our dreams come true
@@ -86,7 +86,7 @@ Get with it now
 (Hey, have it made)
 We'll have it made
 (Hey, have it made)
-Ooh baby
+Oh baby
 (Hey, have it made)
 Baby, have it made
 (Hey, have it made)

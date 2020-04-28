@@ -62,7 +62,7 @@ I'll make it right when things go wrong
 Down on my knees I'm begging please
 Please don't let me live my life in vain (Please, please, please)
 
-Oooh, I'll be standing beside you
+Oh, I'll be standing beside you
 When you need a helping hand
 So reach out your arms, hold me
 Don't look back, I'll be holding on

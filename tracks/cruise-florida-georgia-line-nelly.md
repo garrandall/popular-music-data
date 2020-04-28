@@ -286,7 +286,7 @@ Whipping 'cross the border, Florida into Georgia
 'Cause baby, you a song
 And you make me wanna roll my windows down and cruise
 Down a back road blowin' stop signs through the middle
-Every hood, ev'ry town with you
+Every hood, every town with you
 And this drop-top Chevy painted real slick
 Would look a hell of a lot better with you up in it (You up in it)
 'Cause baby, you a song

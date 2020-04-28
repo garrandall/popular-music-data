@@ -122,10 +122,6 @@ But let me say
 Wherever you are going
 You know it suits me just fine
 
-
-
-
-
 Could be so good for me
 You could be so good
 Could be so good

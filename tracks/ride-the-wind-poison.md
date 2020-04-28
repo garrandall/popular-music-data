@@ -95,7 +95,6 @@ And the day he listens
 Here's to lovely ladies and a million miles
 And the night she whispers
 
-Chorus
 
 Ride the wind
 I'm still the bravest soul in sin
@@ -108,4 +107,3 @@ And stories of riders in the sky
 They say only the bravest try
 Where eagles and angels dare to fly
 
-Chorus

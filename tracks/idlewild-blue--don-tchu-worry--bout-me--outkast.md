@@ -25,14 +25,11 @@ Come on, Come on
 
 
 
-Mama dont you worry bout me
-Papa dont you worry bout me
+Mama don't you worry bout me
+Papa don't you worry bout me
 I live a life but it just ain't mine
 Know I'm a your son won't you let me shine
 Come on, come on
-
-
-
 
 Sally don't you worry bout me
 Sally don't you worry bout me

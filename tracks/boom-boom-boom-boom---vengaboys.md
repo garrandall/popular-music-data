@@ -5,7 +5,7 @@ features: []
 genres: []
 key: boom-boom-boom-boom---vengaboys
 lyrics_url: https://www.azlyrics.com/lyrics/vengaboys/boomboomboomboom.html
-name: Boom Boom Boom Boom!!
+name: Boom Boom Boom Boom!
 rankings:
 - end_date: '1999-08-13'
   rank: 84

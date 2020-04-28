@@ -77,11 +77,11 @@ You gotta please them
 And I know, I know, I know
 
 That's what girls are made for
-Wo ooh, wo ooh, yeah
+Wo oh, wo oh, yeah
 
 Some can be true
 Yes, and then again, they'll make you doubt 'em
-Wo ooh oh, but ask me, ask me and I'm a here to tell you
+Wo oh oh, but ask me, ask me and I'm a here to tell you
 That you just can't live without 'em
 (That's what girls are made for)
 
@@ -98,7 +98,7 @@ And hold hand with
 To make
 (Make)
 All of your plans with
-Wo oh oh ooh oh, yeah
+Wo oh oh oh oh, yeah
 
 That's what girls are made for
 (That's what girls are made for)

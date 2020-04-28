@@ -92,11 +92,11 @@ I'm a put it down (down), you gon' fall in love
 If you put it, put it, maybe we can fall in love
 
 
-Ooh your talk game, it's so tough
+Ohyour talk game, it's so tough
 Damn I love it all
 Even the way you flex
 That's what turn me on
-Ooh you know you make me weak
+Ohyou know you make me weak
 Just cause the way you are
 Cause everybody in here know that you're a star
 And yet still I'm letting you know

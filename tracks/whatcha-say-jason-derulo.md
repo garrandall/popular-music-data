@@ -138,12 +138,12 @@ rankings:
 ---
 
 Wha- wha- what did she say?
-Mmmm, whatcha say
-Mmmm, that you only meant well?
+Mmm, whatcha say
+Mmm, that you only meant well?
 Well, of course you did
-Mmmm, whatcha say
+Mmm, whatcha say
 Jason Derulo
-Mmmm, that it's all for the best?
+Mmm, that it's all for the best?
 Of course it is
 
 I was so wrong for so long
@@ -164,21 +164,21 @@ We'll be living so large
 I'll do anything for you
 So tell me, girl
 
-Mmmm, whatcha say
-Mmmm, that you only meant well?
+Mmm, whatcha say
+Mmm, that you only meant well?
 Well, of course you did
-Mmmm, whatcha say (whatcha say)
-Mmmm, that it's all for the best?
+Mmm, whatcha say (whatcha say)
+Mmm, that it's all for the best?
 Of course it is
-Mmmm, whatcha say
-Mmmm, that you only meant well?
+Mmm, whatcha say
+Mmm, that you only meant well?
 Well, of course you did
-Mmmm, whatcha say (whatcha say)
+Mmm, whatcha say (whatcha say)
 Wha- wha- wha- wha- what did she say?
 
 How could I live with myself
 Knowing that I let our love go (love go)
-And, ooh, when I do with one chance
+And, oh, when I do with one chance
 I just gotta let you know
 
 I know what I did wasn't clever
@@ -194,16 +194,16 @@ We'll be living so large
 I'll do anything for you
 So tell me, girl
 
-Mmmm, whatcha say
-Mmmm, that you only meant well?
+Mmm, whatcha say
+Mmm, that you only meant well?
 Well, of course you did
-Mmmm, whatcha say (whatcha say)
-Mmmm, that it's all for the best?
+Mmm, whatcha say (whatcha say)
+Mmm, that it's all for the best?
 Of course it is
-Mmmm, whatcha say
-Mmmm, that you only meant well?
+Mmm, whatcha say
+Mmm, that you only meant well?
 Well, of course you did
-Mmmm, whatcha say (whatcha say)
+Mmm, whatcha say (whatcha say)
 Wha- wha- wha- wha- what did she say?
 
 Girl, tell me whatcha said (said)?
@@ -226,16 +226,16 @@ We'll be living so large
 I'll do anything for you
 So, baby, whatcha say
 
-Mmmm, whatcha say
-Mmmm, that you only meant well?
+Mmm, whatcha say
+Mmm, that you only meant well?
 Well, of course you did
-Mmmm, whatcha say (whatcha say)
-Mmmm, that it's all for the best?
+Mmm, whatcha say (whatcha say)
+Mmm, that it's all for the best?
 Of course it is
-Mmmm, whatcha say
-Mmmm, that you only meant well?
+Mmm, whatcha say
+Mmm, that you only meant well?
 Well, of course you did
-Mmmm, whatcha say (whatcha say)
+Mmm, whatcha say (whatcha say)
 Wha- wha- wha- wha- what did she say?
 
 

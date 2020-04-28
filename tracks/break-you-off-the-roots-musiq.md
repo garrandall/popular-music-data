@@ -15,9 +15,9 @@ rankings:
 ---
 
 
-I'm coming to break you off (beat started.....start-started..)
-I'm coming to break you off (beat started.....start-started..)
-I'm coming to break you off (beat started.....start-started..)
+I'm coming to break you off (beat started...start-started..)
+I'm coming to break you off (beat started...start-started..)
+I'm coming to break you off (beat started...start-started..)
 Yeah Baby
 
 
@@ -46,9 +46,9 @@ And roll with the one who's breaking you off
 
 
 Off...
-I'm coming to break you off (beat started.....start-started..)
-I'm coming to break you off (beat started.....start-started..)
-I'm coming to break you off (beat started.....start-started..)
+I'm coming to break you off (beat started...start-started..)
+I'm coming to break you off (beat started...start-started..)
+I'm coming to break you off (beat started...start-started..)
 Yeah Baby
 
 
@@ -88,9 +88,6 @@ Working with this you won't be taking a loss
 So stop fooling your man and roll with the one
 Who's breaking you off
 
-
-
-
 Baby, Baby, Baby... don't you worry bout...
 Nothing 'cause I'm coming to handle you no doubt.
 Whenever you want, that thing you need, I got it
@@ -99,9 +96,9 @@ I'm coming over to give it to you..
 Baby.. baby..
 
 
-I'm coming to break you off (beat started.....start-started..)
-I'm coming to break you off (beat started.....start-started..)
-I'm coming to break you off (beat started.....start-started..)
+I'm coming to break you off (beat started...start-started..)
+I'm coming to break you off (beat started...start-started..)
+I'm coming to break you off (beat started...start-started..)
 Yeah Baby
 
 

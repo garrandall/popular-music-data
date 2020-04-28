@@ -37,12 +37,12 @@ Anything less that the best is a felony
 Love it or leave it
 You better gain way
 You better hit bull's eye
-The kid dont play
+The kid don't play
 If there was a problem
 Yo, I'll solve it
 Check out the hook while my DJ revolves it
 
-Ice Ice Baby Vanilla 
+Ice Ice Baby Vanilla
 
 Now that the party is jumping
 With the bass kicked in, the Vegas are pumpin'
@@ -83,7 +83,7 @@ If there was a problem
 Yo, I'll solve it
 Check out the hook while my DJ revolves it
 
-Ice Ice Baby Vanilla 
+Ice Ice Baby Vanilla
 
 Take heed, 'caese I'm a lyrical poet
 Miami's on the scene just in case you didn't know it

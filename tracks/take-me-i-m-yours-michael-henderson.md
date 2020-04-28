@@ -23,7 +23,7 @@ rankings:
 I got excited when I first heard that you
 Wanted to meet me
 How could I refuse?
-The way you shake your hips, ooh
+The way you shake your hips, oh
 Just drives me wild
 I was leavin', but I can't leave right now
 Can you come with me?
@@ -42,10 +42,10 @@ Take me  (I'm yours)
 (Take me)
 
 
-Ooh, baby, I can't forget
+Oh, baby, I can't forget
 The way you smiled when we met
 Yeah, the way you shake your hips
-Ooh, just drove me wild
+Oh, just drove me wild
 I was leavin', guess I'm gonna be here a while
 When I go, can you come with me, baby?
 When I go, can you come

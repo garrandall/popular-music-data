@@ -51,7 +51,7 @@ Don't keep it to yourself
 Say you really need me
 Just me and no one else
 Say you really love me
-Ooh let me know it's true
+Ohlet me know it's true
 Say you really want me
 The way that I want you tonight
 

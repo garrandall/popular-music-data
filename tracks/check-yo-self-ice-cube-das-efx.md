@@ -156,10 +156,6 @@ Come on and check yo self before you wrickity-wreck yo self
 So chickity-check yo self before you wreck yo self
  Cause big dicks up yo ass is bad for yo health
 
-
-
-
-
 If you're foul, you better run a make on that license plate
 You coulda had a V8
 Instead of a tre-eight slug to the cranium (POOOOOW!)
@@ -172,7 +168,7 @@ Go ahead and keep your drawers
 Givin up the claps and who needs applause
 At a time like this, pop the coochie and ya dead
 The bitch is a Miami Hurricane hit
-Sprung, niggaz call her 'Lips and Lungs'
+Sprung, niggas call her 'Lips and Lungs'
 Nappy dugout, get the fuck out
 Cause women like you gets no respect
 Bitch, you better run a check
@@ -183,12 +179,4 @@ Bitch, you better run a check
 So chickity-check yo self before you wreck yo self
 Come on and check yo self before you wrickity-wreck yo self
  Cause bitches like you is bad for my health
-
-
-
-
-
-
-
-
 

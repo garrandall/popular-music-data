@@ -31,7 +31,7 @@ You just keeps me hangin' on oo
 Why do you keep comin' round
 Playin' with my heart no no
 Why don't you get on out of my life
-And let me make a brand new start ooh oo
+And let me make a brand new start ohoo
 
 Set me free
 Why don't you baby
@@ -39,7 +39,7 @@ Get out my life
 Why don't you baby lord
 
 You don't really need me
-You just keeps me hangin' on ooh
+You just keeps me hangin' on oh
 
 You said when we broke up
 You wanted to just be friends huh
@@ -53,7 +53,7 @@ It's my life
 (Set me free why don't you babe)
 It's my life
 (Get out my life why don't you babe)
-Ooooh baby
+Oh baby
 (Set me free why don't you babe)
 Mmm
 (Get out my life why don't you babe)
@@ -67,7 +67,7 @@ Set me set me free baby
 (Get out my life why don't you babe)
 Lord
 (Set me free why don't you babe)
-Oooh
+Oh
 (Get out my life why don't you babe)
 Woah yeah yeah yeah
 (Set me free why don't you babe)
@@ -95,7 +95,7 @@ My life to you don't mean a doggone thing
 
 I'm hangin' baby
 
-Mmm mmm-hmm-hmm yeah
+Mmm mmm-hm-hm yeah
 
 I'm hangin' on
 

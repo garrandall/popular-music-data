@@ -93,7 +93,7 @@ When she's feelin' cold and weak,
 Sometimes the pain,
 It just tears her up inside,
 Sometimes she cries,
-Ooh, I wonder why,
+Oh I wonder why,
 
 Mercy don't have a lover no more,
 She plays with her pillow,
@@ -113,7 +113,7 @@ When she's feelin' cold and weak,
 Sometimes the pain,
 Oh, it tears her up inside,
 Sometimes she cries,
-Ooh, yeah
+Oh yeah
 
 Livin', lovin', give it everything you've got,
 After all the heartache,
@@ -130,7 +130,7 @@ When she's feelin cold and weak,
 Sometimes the pain,
 Oh, it tears her up inside,
 Sometimes she cries
-Oooh, yeah, yeah, yeah.
+Oh, yeah, yeah, yeah.
 
 
 

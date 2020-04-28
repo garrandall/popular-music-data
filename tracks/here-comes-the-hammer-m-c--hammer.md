@@ -91,7 +91,7 @@ Hoooo, hoooo, hoooo
 
 "Naw, NAW!" -- is what I said
 When I came to see a show
-I looked and it was dead, DEAD!! -- y'know!
+I looked and it was dead, DEAD! -- y'know!
 Like a body in the ground, will your show ever grow?
 Let me know -- if not
 Then close yo' mouth because you sho' ain't hot
@@ -99,13 +99,10 @@ It needs WORK! -- like a car in a wreck
 They call me Hammer, you gotta earn my respect
 OH, OH, OH - Yeah!
 
-
-
-
-Let's make it SMOOOOOOOTH... (RUH!!)
-Let's make it SMOOOOOOOTH... (RUH!!)
-Yeah! Let's make it SMOOOOOOOTH... (RUH!!)
-Let's make it SMOOOOOOOTH... (RUH!!)
+Let's make it SMOOOOOOOTH... (RUH!)
+Let's make it SMOOOOOOOTH... (RUH!)
+Yeah! Let's make it SMOOOOOOOTH... (RUH!)
+Let's make it SMOOOOOOOTH... (RUH!)
 
 BUST IT! - I don't hesitate -- or wait
 Before the bell rings, I'm out the gate
@@ -117,13 +114,10 @@ Not a king, just feelin hype
 You dance to the music while I'm on the mic
 OH, OH, OH - Here we go!
 
-
-
-
-Let's make it SMOOOOOOOTH... (RUH!!)
-C'mon, let's make it SMOOOOOOOTH... (RUH!!)
-Yeah! Let's make it SMOOOOOOOTH... (RUH!!)
-Let's make it SMOOOOOOOTH... (RUH!!)
+Let's make it SMOOOOOOOTH... (RUH!)
+C'mon, let's make it SMOOOOOOOTH... (RUH!)
+Yeah! Let's make it SMOOOOOOOTH... (RUH!)
+Let's make it SMOOOOOOOTH... (RUH!)
 
 BUST IT! - A minute or two, now I'm rollin
 A whole new style that the people are holdin
@@ -135,13 +129,10 @@ A-GAIN, my friend
 The people wanted more, that's why the Hammer's in
 OH, OH, OH - Yeah!
 
-
-
-
-Let's make it SMOOOOOOOTH... (RUH!!)
-Yeah! Let's make it SMOOOOOOOTH... (RUH!!)
-C'mon, let's make it SMOOOOOOOTH... (RUH!!)
-Yeah! Let's make it SMOOOOOOOTH... (RUH!!)
+Let's make it SMOOOOOOOTH... (RUH!)
+Yeah! Let's make it SMOOOOOOOTH... (RUH!)
+C'mon, let's make it SMOOOOOOOTH... (RUH!)
+Yeah! Let's make it SMOOOOOOOTH... (RUH!)
 
 Check me out..
 MOVE on the floor, and get hype
@@ -150,15 +141,12 @@ YEAH! - Let 'em know
 The cool, the hard, the fly (HOOOOOO!)
 We're in here! - and it's pumpin
 Hammer's in the speaker and you know the bass is bumpin
-LOUD!! -- and low
+LOUD! -- and low
 It's about that time so here we go
 OH, OH, OH - BUST IT!
 
-
-
-
-Let's make it SMOOOOOOOTH... (RUH!!)
-Yeah! Let's make it SMOOOOOOOTH... (RUH!!)
-Let's make it SMOOOOOOOTH... (RUH!!)
-C'mon, let's make it SMOOOOOOOTH... (RUH!!)
+Let's make it SMOOOOOOOTH... (RUH!)
+Yeah! Let's make it SMOOOOOOOTH... (RUH!)
+Let's make it SMOOOOOOOTH... (RUH!)
+C'mon, let's make it SMOOOOOOOTH... (RUH!)
 BUST IT!

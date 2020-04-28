@@ -93,7 +93,7 @@ rankings:
   start_date: '2004-04-24'
 ---
 Whoa oh oh
-Ooh hooh
+Ohhooh
 No No No
 
 See I don't, know why, I liked you so much
@@ -142,7 +142,7 @@ Ya questioned, if I care
 You could ask anyone, I even said
 Ya were my great one
 Now its, over, but I do admit i'm sad
-It hurt real bad, I cant sweat that, cuz I loved a ho
+It hurt real bad, I can't sweat that, cuz I loved a ho
 
 Fuck what I said it don't mean shit now
 Fuck the presents might as well throw em out

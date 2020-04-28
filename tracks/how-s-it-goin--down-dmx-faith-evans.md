@@ -61,9 +61,6 @@ Guy: Lying-ass bitch. You ain't shit. Do I got to holler his name too?
 Girl: Who the fuck is he!?
 Guy: Bitch, you fuckin' him!
 
-
-
-
 What type of games is bein' played, how's it goin' down?
 (All I want is you)
 It's on 'til it's gone, then I gots to know now

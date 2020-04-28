@@ -71,7 +71,7 @@ rankings:
 
 Oh, it's cryin' time again, you're gonna leave me
 I can see that far away look in your eyes
-I can tell by the way you hold me darlin' Oooh
+I can tell by the way you hold me darlin' Oh
 That it won't be long before it's cryin' time
 
 Now they say that absence makes the heart grow fonder (fonder)

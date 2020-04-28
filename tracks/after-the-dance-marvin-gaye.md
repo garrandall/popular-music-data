@@ -34,14 +34,14 @@ Dance with me
 Come on, dance with me. Baby
 
 
-I want you, ooh
+I want you, oh
 I want you
 And you want me
 So why can't we
 Get together after the dance
 
 
-All right, ooh
+All right, oh
 (Looking girl, saw you smile)
 When I first saw you
 (Looking good on Soul Train)
@@ -56,7 +56,7 @@ What a freak thing
 
 
 And I thought to myself
-(Ooh, on the floor)
+(Oh, on the floor)
 She was so into her space
 (She started to dance, would she)
 So caught up in the time and the place

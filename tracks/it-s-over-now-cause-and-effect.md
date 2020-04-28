@@ -60,13 +60,12 @@ Though I've tried so hard to make it real
 It doesn't matter now
 I guess it never did
 
-(chorus)
 And it's alright alright alright with me
 And it's alright if that's how you want it to be
 
 I've learned through weakness
 And through the web of your lies
-That everyday i live
+That everyday I live
 Another piece of me dies
 And in the black and white
 I found a need to move on

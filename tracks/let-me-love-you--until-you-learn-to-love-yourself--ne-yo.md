@@ -124,7 +124,7 @@ rankings:
 Much as you blame yourself, you can't be blamed for the way that you feel
 Had no example of a love that was even remotely real
 How can you understand something that you never had?
-Ooh, baby, if you let me, I can help you out with all of that
+Oh, baby, if you let me, I can help you out with all of that
 
 Girl let me love you
 And I will love you
@@ -197,7 +197,7 @@ I'll take you there
 Girl let me love you
 Let me love you, baby, love you, baby
 Girl let me love you
-Let me love you babe, love you babe, ooh-ooh-ah
+Let me love you babe, love you babe, oh-oh-ah
 
 
 

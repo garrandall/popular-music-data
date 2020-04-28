@@ -70,7 +70,6 @@ I can't do without you
 A love so true
 Whoa, Whoa
 
-Chorus
 
 To know that love you've given me
 I'll be there if you feel the same
@@ -84,7 +83,6 @@ I can't do without you
 A love so true
 Whoa, Whoa
 
-Chorus
 
 Whoa, Whoa
 Back in time we met
@@ -94,4 +92,3 @@ I can't do without you
 A love so true
 Whoa, Whoa
 
-Chorus

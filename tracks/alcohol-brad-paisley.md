@@ -83,22 +83,22 @@ rankings:
 
 I can make anybody pretty
 I can make you believe any lie
-I can make you pick a fight 
+I can make you pick a fight
 With somebody twice your size
 
 I been known to cause a few break ups
 I been known to cause a few births
-I can make you new friends 
+I can make you new friends
 Or get you fired from Work
 
 
-And since the day I left Milwaukee 
+And since the day I left Milwaukee
 Lynchburg and Bordeaux France
 Been making the bars lots of big money
 And helping white people dance
 I got you in trouble in high school
 But college, now that was a ball
-You had some of the best times 
+You had some of the best times
 You'll never remember with me
 Alcohol
 Alcohol
@@ -114,18 +114,14 @@ And I'll bet you a drink or two that I can make you
 Put that lampshade on your head
 
 
-'Cause since the day I left Milwaukee 
+'Cause since the day I left Milwaukee
 Lynchburg and Bordeaux France
 Been making a fool out of folks just like you
 And helping white people dance
-I'm medicine and I am poison 
+I'm medicine and I am poison
 I can help you up or make you fall
-You had some of the best times 
+You had some of the best times
 You'll never remember with me
 Alcohol
 Alcohol
-
-
-
-
 

@@ -92,11 +92,11 @@ Back when I knew it all
 
 
 Back when the world was flat and mama and daddy didn't have a clue
-That was back......
+That was back...
 Back when a pitcher of beer and a couple shots made me bulletproof
-Back when god was a name I used in vain to get a point across when 
+Back when god was a name I used in vain to get a point across when
 I got ticked off
-Lord I'm learning so much more......than back when I knew it all
+Lord I'm learning so much more...than back when I knew it all
 
 I found out credit cards don't mean you're rich
 And beer and gasoline don't mix
@@ -105,16 +105,12 @@ And those " big house" rooms sure are small
 I've learned that love is a woman that will settle you down
 A sunday sermon can turn life around
 Man I can't believe all the answers I've found
-Since ....back when I knew it all
+Since ...back when I knew it all
 
 
 
-Br.... I've done some growing up
+Br... I've done some growing up
 And I'm still growing up
 So I know I'll never be as smart as I once was
-That was back.......
-
-
-
-
+That was back...
 

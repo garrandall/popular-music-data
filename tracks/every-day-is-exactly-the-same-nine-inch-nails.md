@@ -49,7 +49,3 @@ A little bit comes bleeding through
 I wish this could have been any other way
 But I just don't know, I don't know what else I can do
 
-
-
-
-

@@ -16,7 +16,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-03-13'
 ---
-Bom bom bom, ahhh...
+Bom bom bom, ah...
 
 I couldn't help it (yeah)
 I fell in love
@@ -35,7 +35,7 @@ I lied to my heart
 My heart knew was real
 Yeah, this was real
 
-I lied to my heart, ahh...
+I lied to my heart, ah...
 
 Honey, I love you
 For ever and ever

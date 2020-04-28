@@ -72,7 +72,7 @@ There is no girl in the whole world
 That can love me like you do, yeah
 
 Oh, my baby when she walks by
-All the fellows go, ooh, and I know why
+All the fellows go, oh, and I know why
 It's simply 'cause that girl, she looks so fine
 And if she ever leaves me I would lose my mind
 

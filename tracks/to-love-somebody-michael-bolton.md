@@ -129,7 +129,7 @@ To love somebody
 The way I love you
 You don't know, you don't know
 To love somebody, to love somebody
-You don't know, ooh
+You don't know, oh
 To love somebody, to love somebody
 The way I love you
 

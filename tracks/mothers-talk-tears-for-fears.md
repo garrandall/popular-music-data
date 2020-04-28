@@ -116,9 +116,6 @@ When everything starts to happen
 Put your head right next to my heart
 The beat of the drum is the fear of the dark
 
-
-
-
 My features form with a change in the weather
 Weekend
 We can work it out

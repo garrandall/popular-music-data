@@ -61,7 +61,7 @@ I'm over you and I don't need your lies no more
 'Cause the truth is without you, boy, I'm stronger
 And I know it's sad that I changed, have a cold heart
 But it was your game that left scars
-Ooh, I'm over you
+Oh, I'm over you
 
 Don't call me up
 I'm going out tonight
@@ -89,7 +89,7 @@ I'm over you and I don't need your lies no more
 'Cause the truth is, without you, boy, I'm stronger
 And I know it's sad that I changed, have a cold heart
 But it was your game that left scars
-Ooh, I'm over you
+Oh, I'm over you
 
 Don't call me up
 I'm going out tonight
@@ -112,7 +112,7 @@ I'm over you and I don't need your lies no more
 'Cause the truth is without you, boy, I'm stronger
 And I know it's sad that I changed, have a cold heart
 But it was your game that left scars
-Ooh, I'm over you
+Oh, I'm over you
 
 Don't call me up
 I'm going out tonight

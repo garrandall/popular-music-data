@@ -25,7 +25,7 @@ I am more Eazy, you tryin’ your best to become me, nigga
 She like them bottles with bubbles in it
 Buy her Loewe and other linen
 Why would I wait when there's other women?
-Why would I hate? We in love with winnin' (Ooh!)
+Why would I hate? We in love with winnin' (Oh!)
 Buy her bundles, fly her out, bring her friend, I try her out
 Ain’t no worries findin' out, the details is ironed out
 Easily they plays along, hopin' that I play a song

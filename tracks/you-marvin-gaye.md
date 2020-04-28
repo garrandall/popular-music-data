@@ -43,7 +43,7 @@ But it shouldn't be that way, it should, it should, it should be lies because it
 If you don't honor what you said, you lie to God. The words should be changed
 
 
-Ooh now as I recall, we tried a million times
+Oh now as I recall, we tried a million times
 Again and again and again, and that isn't all
 I gave my love to you each time to make amends
 Suddenly I start to realize I can't make it
@@ -53,7 +53,7 @@ What to do? Make you pay, for leaving you, my fine, is to pay forever
 So if a fresh new love comes in, I won't say those words again
 Instead I'll say I'll try to love and protect you
 With all my heart as long as you want me to baby
-Ooh if I love again I'm gonna try a new way this time
+Oh if I love again I'm gonna try a new way this time
 
 Memories of the things we did; some we're proud of, some we hid
 So when two people have to part, sometimes it makes them stronger

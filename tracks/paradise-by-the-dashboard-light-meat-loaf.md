@@ -263,7 +263,7 @@ I don't think that I can really survive
 I'll never break my promise or forget my vow
 But God only knows what I can do right now
 I'm praying for the end of time
-It's all that I can do (ooh, ooh)
+It's all that I can do (oh, oh)
 Praying for the end of time
 So I can end my time with you
 

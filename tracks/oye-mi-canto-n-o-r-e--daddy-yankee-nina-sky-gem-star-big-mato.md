@@ -101,7 +101,7 @@ rankings:
   start_date: '2005-01-22'
 ---
 
-If You Latino Right Now Stand The Fuck Up!!!
+If You Latino Right Now Stand The Fuck Up!
 
 SBK...(SBK)
 Alive...(Alive We Comin' Up!)
@@ -139,7 +139,7 @@ That Be Fajardo, San Juan, Biamon,
 
 Sol En Campo Santiago, Tabacco Y Rome,
 Aya En Puerto-Rico Con Bacardi Limon
-Ahh This All That
+Ah This All That
 Creme Cheese & Baggel On It
 Toma Reggaeton,
 Remix Wit' Tego On It
@@ -167,8 +167,8 @@ Investigarlo Mejo Creerlo Sin Verlo
 El Que Se Enfreteria No Le Paso El Freno
 Oye No Inverstigarlo Mejor Creerlo Sin
 El Que Se Enfreteria No Le Paso El Freno
-Ay Dios..Ay Dios
-Caldejo..Caldejo..Caldejo
+Ay Dios...Ay Dios
+Caldejo...Caldejo...Caldejo
 
 
 Whoa...Whoa...Whoa...Whoa
@@ -197,11 +197,11 @@ SBK Da Beast, Gem Star & Nato, Nina Sky (Wassup Girls)
 Better Make A Call To The Big Homie In Puerto Rico
 Tego Calderon (Wassup Boi!)
 
-....Oye Mi Canto,
-....Oye Mi Canto,
-....Oye Mi Canto,
-....Oye Mi Canto,
-....Oye Mi Canto,
+...Oye Mi Canto,
+...Oye Mi Canto,
+...Oye Mi Canto,
+...Oye Mi Canto,
+...Oye Mi Canto,
 ...Canto
 ...Canto
 ...Canto

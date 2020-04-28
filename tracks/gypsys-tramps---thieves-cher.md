@@ -106,7 +106,3 @@ Grandpa'd do whatever he could
 Preach a little gospel
 Sell a couple bottles of doctor good
 
-
-
-
-

@@ -92,11 +92,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-02-13'
 ---
-Ooh, baby, do you know what that's worth?
-Ooh, heaven is a place on earth
+Oh, baby, do you know what that's worth?
+Oh, heaven is a place on earth
 They say in heaven love comes first
 We'll make heaven a place on earth
-Ooh, heaven is a place on earth
+Oh, heaven is a place on earth
 
 
 When the night falls down
@@ -113,11 +113,11 @@ And we're spinning with the stars above
 And you lift me up in a wave of love
 
 
-Ooh, baby, do you know what that's worth?
-Ooh, heaven is a place on earth
+Oh, baby, do you know what that's worth?
+Oh, heaven is a place on earth
 They say in heaven love comes first
 We'll make heaven a place on earth
-Ooh, heaven is a place on earth
+Oh, heaven is a place on earth
 
 
 When I feel alone
@@ -134,11 +134,11 @@ Baby I was afraid before
 But I'm not afraid anymore
 
 
-Ooh, baby, do you know what that's worth?
-Ooh, heaven is a place on earth
+Oh, baby, do you know what that's worth?
+Oh, heaven is a place on earth
 They say in heaven love comes first
 We'll make heaven a place on earth
-Ooh, heaven is a place on earth
+Oh, heaven is a place on earth
 (Heaven)
 (Heaven)
 (Heaven)
@@ -152,13 +152,13 @@ But I'm not afraid anymore
 (Heaven)
 
 
-Ooh, baby, do you know what that's worth?
-Ooh, heaven is a place on earth
+Oh, baby, do you know what that's worth?
+Oh, heaven is a place on earth
 They say in heaven love comes first
 We'll make heaven a place on earth
-Ooh, heaven is a place on earth
-Ooh, heaven is a place on earth
-Ooh, heaven is a place on earth
-Ooh, heaven is a place on earth
-Ooh, heaven is a place on earth
-Ooh, heaven is a place on earth
+Oh, heaven is a place on earth
+Oh, heaven is a place on earth
+Oh, heaven is a place on earth
+Oh, heaven is a place on earth
+Oh, heaven is a place on earth
+Oh, heaven is a place on earth

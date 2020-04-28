@@ -45,9 +45,6 @@ No troubles I can see
 Like a child I want to play all day
 Forever you and me
 
-
-
-
 Love's my first impression
 I'll give no less than
 All of my best
@@ -65,9 +62,6 @@ When your love starts callin'
 I can hardly wait
 'Cause my heart has fallen
 Baby I'm here to say
-
-
-
 
 Well my heart keeps racin'
 I can hardly keep up

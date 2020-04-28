@@ -54,7 +54,7 @@ rankings:
   start_date: '2011-03-19'
 ---
 
-Sometimes (Oooooh)
+Sometimes (Oh)
 Something beautiful happens
 In this world (Akon)
 You don't know how to

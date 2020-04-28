@@ -93,7 +93,7 @@ Somethin' she said has stuck in my head
 And I can't get away
 
 Gonna let her in
-Gonna let her in, um-hmm
+Gonna let her in, um-hm
 Gonna let her in my life
 
 You know what I find, I find
@@ -101,7 +101,7 @@ A look at her face and there isn't a trace
 Of doubt in my mind
 
 Gonna let her in
-Gonna let her in, um-hmm
+Gonna let her in, um-hm
 Gonna let her in my life
 Let her in my life
 
@@ -118,11 +118,11 @@ Somethin' inside and it can't be denied
 And I'm ready to try
 
 Gonna let her in
-Gonna let her in, um-hmm
+Gonna let her in, um-hm
 Gonna let her in my life
 
 Gonna let her in
-Gonna let her in, um-hmm
+Gonna let her in, um-hm
 Gonna let her in my life
 Let her in my life
 

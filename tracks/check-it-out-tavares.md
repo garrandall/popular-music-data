@@ -86,7 +86,7 @@ Oh... surely you must know
 My love will always grow
 Can't you see (Look into my eyes, girl)
 Mmm, can't you see (Look into my eyes, girl)
-Ooh, can't you see (Ain't a big surprise, girl)
+Oh, can't you see (Ain't a big surprise, girl)
 
 There may not be a dreary day
 For you to suffer through

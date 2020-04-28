@@ -14,7 +14,7 @@ rankings:
 ---
 
 Got my headlights off, we're sittin' outside
-If you cry in my car, then we're here all night, ooh
+If you cry in my car, then we're here all night, oh
 A couple blunts rolled and I got my windows down
 Shorty, it's been a while since you've been this high
 
@@ -51,14 +51,14 @@ Lately, I've been watchin' your movements
 If I'm the only one that you're choosin'
 Am I your favorite drug you've been usin'?
 
-Ooh, don't you forget about me
-Ooh, don't you forget about me
-Ooh, don't you forget about me
-Ooh, don't forget about me
-Ooh, don't you forget about me
-Ooh, don't forget about me, yeah
-Ooh, don't you forget about me
-Ooh, don't you forget about me
+Oh, don't you forget about me
+Oh, don't you forget about me
+Oh, don't you forget about me
+Oh, don't forget about me
+Oh, don't you forget about me
+Oh, don't forget about me, yeah
+Oh, don't you forget about me
+Oh, don't you forget about me
 
 Late at night, eleven, we're cruisin'
 (Lately I've been watchin' your, watchin' your)

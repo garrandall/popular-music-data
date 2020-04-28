@@ -19,9 +19,9 @@ rankings:
 ---
 
 Oh, oh, oh, oh
-Ooh-ooh-ooh-ooh-oh
+Ohohoohhoh
 Oh, oh, oh, oh
-Ooh-ooh-ooh-ooh-oh
+Ohohoohhoh
 
 The reasons I can't have you, are so easy to fix
 I didn't really plan to, but I'ma do it for this

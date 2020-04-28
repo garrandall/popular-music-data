@@ -36,8 +36,8 @@ The weight, the shell was crushing you
 I've been around a few
 Tell me what you saw
 I'll tell you what to
-Ooh ooh, ooh ooh, ooh ooh, ohh ohh
-Ooh ooh, ooh ooh, ooh ooh, ohh ohh
+Oh oh oohhohh oh ohoh
+Oh oh oohhohh oh ohoh
 
 
 Gold Lion's gonna tell me where the light is
@@ -56,9 +56,9 @@ Makes a moon without a tide
 
 Tell me what you saw
 I'll tell you what to
-Ooh ooh, ooh ooh, ooh ooh, ohh ohh
-Ooh ooh, ooh ooh, ooh ooh, ohh ohh
+Oh oh oohhohh oh ohoh
+Oh oh oohhohh oh ohoh
 
 
-Ooh ooh, ooh ooh, ooh ooh, ohh ohh
-Ooh ooh, ooh ooh, ooh ooh, ohh ohh
+Oh oh oohhohh oh ohoh
+Oh oh oohhohh oh ohoh

@@ -48,17 +48,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
 ---
-Written by Bob Welch and John Henning
-
 Now there is a way to say I love you
 And it's said everyday by some kind of fool
 But where is the way to tell her goodbye
 
-We both can't be wrong, I must be right !
+We both can't be wrong, I must be right!
 
-(chorus)
 Hot love cold world, gonna make you cry
-Hot love corld world, oh yeah
+Hot love cold world, oh yeah
 Hot love cold world, gonna make you cry
 Hot love cold world, oh yeah..
 
@@ -66,5 +63,3 @@ Our connection was strong I thought it could last
 Dreams of the future not a care for the past
 But look at us now not knowing what to do
 You're looking so sad I feel so cruel...
-
-(repeat chorus)

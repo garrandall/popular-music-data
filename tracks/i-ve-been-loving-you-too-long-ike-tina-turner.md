@@ -41,13 +41,13 @@ I've been loving you too long, I don't wanna stop now
 You are tired and you want to be free
 But my love for you is growing stronger
 You see, you've become a habit to me
-Ooh, I've been loving you that much too long
+Oh, I've been loving you that much too long
 Please don't make me stop now
 Oh, I don't wanna stop now
 
 
 I've been loving a little too long
-I dont wanna stop now, oh, I don't wanna
+I don't wanna stop now, oh, I don't wanna
 Please don't make me stop now
 Oh, don't make me stop now
 I'm down on my bended knees, don't make me stop now

@@ -81,7 +81,7 @@ You gotta die a little everyday just to try to stay awake
 When you believe there's no mountain you can climb
 And if you get it wrong you'll get it right next time (next time)
 
-Next time, hmmmmm
+Next time, hm
 
 
 

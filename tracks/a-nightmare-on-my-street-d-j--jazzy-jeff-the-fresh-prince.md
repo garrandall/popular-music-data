@@ -157,12 +157,12 @@ Man!
 Jeff, listen to me, don't go to sleep, Jeff
 Look, look, I'll talk to you tomorrow, I'm going to bed
 RRAHHHH!
-Ahhhhhh!
+Ah!
 Jeff! Jeff!
 Ha, ha, ha, ha, ha, haaaa!
-Ahhhhhh!
+Ah!
 Jeff!
 RRAHHHH!
 Jeff! Answer me, Jeff!
 I'm your D.J. now, Princey!
-Ahh, ha, ha, ha, ha, ha, ha, haaaaa!
+Ah, ha, ha, ha, ha, ha, ha, haaaaa!

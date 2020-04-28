@@ -72,7 +72,3 @@ And I tell myself I'll be alright
 But lonely is the night
 Lonely is the night
 
-
-
-
-

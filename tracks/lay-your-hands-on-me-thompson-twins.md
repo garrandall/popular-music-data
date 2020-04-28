@@ -123,14 +123,14 @@ Oh, lay your hands on me
 Lay your hands, woo hoo
 Oh, lay your hands
 Oh, lay your hands on me
-Oh, lay your hands, oooh
+Oh, lay your hands, oh
 
 You know make me feel so good
 Yeah, like I never ever thought I would
 You know you make me feel so strong
 And now our laughter just goes on and on (and on)
 So c'mon lay your hands on me
-'Cause close to you 
+'Cause close to you
 Is where I really wanna be
 
 And if it ever gets too much
@@ -143,7 +143,7 @@ Oh, lay your hands (Woo hoo)
 Oh, lay your hands
 Oh, lay your hands on me
 Oh, lay your hands
-Ooh, lay your hands
+Oh lay your hands
 Oh, lay your hands
 Oh, lay your hands on me
 Oh, lay your hands (Woo hoo)

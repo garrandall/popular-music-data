@@ -157,7 +157,3 @@ Star made the beat, I just took it out the oven
 I just see the dougie when everybody clubbing
 And I hate skinny jeans 'cause the burner keep rubbing! (oh!)
 
-
-
-
-

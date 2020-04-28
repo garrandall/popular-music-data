@@ -120,7 +120,7 @@ Alright (alright)
 
 Alright
 It's alright tonight
-It's alright, ohh
+It's alright, oh
 Alright, alright
 
 Take me to the church

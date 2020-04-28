@@ -52,20 +52,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-01-12'
 ---
-Ooh la la la la la
-Ooh la la la la la-la
+Oh la la la la la
+Oh la la la la la-la
 
 I can't be still there
 Feel my heart beat
-Ooh la la la la la
-Ooh la la la la la-la
+Oh la la la la la
+Oh la la la la la-la
 
 I can't hide this emotion
-Let me tell you that i found love
-Ooh, when you see me smiling
+Let me tell you that I found love
+Oh, when you see me smiling
 Don't you worry
 I just learned the life of love
-I'm gonna spread the happiness that i am feeling
+I'm gonna spread the happiness that I am feeling
 All around oh oh
 
 I found love this time
@@ -77,14 +77,14 @@ Gonna tell the whole world
 This time love is mine
 
 Yea
-Ooh la la la la la
-Ooh la la la la la-la
+Oh la la la la la
+Oh la la la la la-la
 
-Ooh, he's got me acting crazy
+Oh, he's got me acting crazy
 Like a girl thats never been kissed before
 He's got the look of just the guy
 That i've been waiting for
-Oh oh, i tell you
+Oh oh, I tell you
 
 I found love this time
 Nobody's gonna steal it away
@@ -114,7 +114,7 @@ To keep me smiling
 All my life
 
 (Instrument break)
-I found love, i found lo-ove
+I found love, I found lo-ove
 
 I found love this time
 Nobody's gonna steal it away

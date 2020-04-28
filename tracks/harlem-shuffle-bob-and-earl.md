@@ -86,7 +86,7 @@ Yeah
 
 
 Shake, shake, shake, shake a tail feather, baby
-Ooh
+Oh
 Shake, shake, shake, shake a tail feather, baby
-Ooh (One more time)
+Oh(One more time)
 Shake, shake, shake, do the monkey , baby

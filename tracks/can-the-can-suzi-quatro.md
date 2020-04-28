@@ -58,17 +58,17 @@ Can the can
 If you can
 Well can the can
 
-Ooh can the can
+Oh can the can
 (Can the can honey)
-Ooh can the can
+Oh can the can
 (Can the can honey)
 Uhh huh can the can
 (Can the can honey)
-Ooh can the can
+Oh can the can
 (Can the can honey)
 Can the can
 (Can the can honey)
-Ooh can the can
+Oh can the can
 (Can the can honey)
 Ah honey
 Honey

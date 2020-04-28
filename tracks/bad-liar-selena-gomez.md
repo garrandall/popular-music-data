@@ -79,8 +79,8 @@ Call me an amenity
 Even if it's in my dreams
 
 
-Ooh you're taking up a fraction of my mind
-Ooooh every time I watch you serpentine
+Ohyou're taking up a fraction of my mind
+Oh every time I watch you serpentine
 
 
 Oh I'm tryin', I'm tryin', I'm tryin'
@@ -115,8 +115,8 @@ Paint my kiss across your chest
 If you're the art, I'll be the brush
 
 
-Ooh you're taking up a fraction of my mind
-Ooooh every time I watch you serpentine
+Ohyou're taking up a fraction of my mind
+Oh every time I watch you serpentine
 
 
 Oh I'm tryin', I'm tryin', I'm tryin'

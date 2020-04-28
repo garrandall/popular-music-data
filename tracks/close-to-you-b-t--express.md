@@ -31,7 +31,7 @@ Close to you
 
 Why do stars fall down from the sky
 Every time you walk by
-Just like me, ooh
+Just like me, oh
 They long to be close to you
 
 On the day that you were born
@@ -49,7 +49,7 @@ Yes, they do, yes, they do
 Just like me, they long to be
 Close to you
 
-I said just like me, ooh
+I said just like me, oh
 They long to be close to you
 
 On the day that you were born
@@ -72,13 +72,13 @@ Just like me, they long to be
 Close to you
 
 I wonder can we moan
-Oooh, oh, baby, oooh
+Oh, oh, baby, oh
 Close to you, yeah, yeah
 Yeah, yeah
 
 That's where I wanna be
 That's where I have to be
-Oooh, close to you
+Oh, close to you
 
 I wanna be there
 I wanna be there, baby...

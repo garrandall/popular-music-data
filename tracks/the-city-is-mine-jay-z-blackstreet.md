@@ -109,7 +109,7 @@ Don't worry about Brooklyn I continue to flame
 Therefore a world with amnesia won't forget your name
 You held it down long enough, let me take those reigns
 And just like your spirit the commision remains
-Niggaz can cross the T's and, dots the I's
+Niggas can cross the T's and, dots the I's
 Now that I got too popular to cop them pies
 I'm takin this rap shit serious, to my demise
 Jay shit's like cake mix, watch me rise
@@ -128,11 +128,11 @@ He's a man of the night (The city is mine, that's right...)
 Y'all want to know how I flow just seek and you find
 I'm like a brain in the voicebox, I speak my mind
 About to redefine rap mami, either I'm
-the illest nigga doing it or these niggaz is losin it
+the illest nigga doing it or these niggas is losin it
 I read a article that said I was ruinin shit
 But every time I look, I'm movin units in quick
 So I'ma hit y'all, with these last two and split
-and leave niggaz with nothing but my influences-es
+and leave niggas with nothing but my influences-es
 Soon it's the Jigga, I ain't mad yeah, bite my shit
 Sell half of what I sell because it's not quite my shit
 I'm the type to buy a Roley and just ice my shit
@@ -165,8 +165,4 @@ From now until they blow holes in my frame
 I'ma stand firm, holdin my aim, feel me?
 I'm the focal, point like Biggie in his prime
 on the low though - shhhhh, the city is mine!
-
-
-
-
 

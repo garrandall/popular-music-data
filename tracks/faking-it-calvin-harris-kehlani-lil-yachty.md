@@ -87,7 +87,7 @@ I had to get counseling from my moms
 She's a heartbreak teacher (oh, yah!)
 Remember that time I put those pepperonis on your face
 Made you a creature
-Now I think about you every single time I eat pizza, ohh
+Now I think about you every single time I eat pizza, oh
 
 
 Why you, why you, why you checking if you're over it?

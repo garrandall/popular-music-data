@@ -73,7 +73,7 @@ And I-I-I-I-I'm gonna love you, pretty baby, love you till the end of time
 I wanna thank your folks for making you so divine
 
 Thank you for your loving ways
-Mmm-ooh-ooh-ooh-ooh thank you 'cause you've been so kind
+Mmm-ohoohhoh ohnk you 'cause you've been so kind
 I'm gonna take my time and just thank you, honey
 Because you're mine, all mine, all mine
 

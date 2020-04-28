@@ -111,6 +111,3 @@ Now free me
 I'll bear one precious scar that only you will know
 Passengers in time, free me
 
-
-
-

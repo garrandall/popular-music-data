@@ -134,9 +134,6 @@ I mean you seen Tom Cruise on the Oprah show
 So I just can't bet on the next hand
 There's too much in this pot just to give to the next man
 
-
-
-
 Now if you ain't never went through it you ain't really into it
 The next rap to show you I really been through it
 Every other day I'm givin the love away
@@ -151,9 +148,6 @@ If you love your baby then turn this up
 Know we keep this hot like a Thermos cup
 Relax, don't be tryin to perm us up
 We already straight - yesss
-
-
-
 
 Fab we gon' have to make a dance to this song man!
 Y'knahmean; ain't no WAY you can't dance on this

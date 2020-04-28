@@ -129,7 +129,7 @@ Like freedom fields, where wild horses run
 When stars collide like you and I
 No shadows block the sun
 You're all I've ever needed
-Ooh, baby, you're the one
+Oh baby, you're the one
 
 
 And all I ever needed was the one
@@ -137,7 +137,7 @@ Like freedom fields, where wild horses run
 When stars collide like you and I
 No shadows block the sun
 Oh, you're all I ever needed
-Ooh, baby, you're the one
+Oh baby, you're the one
 
 
 All I ever needed was the one
@@ -145,4 +145,4 @@ Like freedom fields, where wild horses run
 When stars collide like you and I
 No shadows block the sun
 Oh, you're all I ever needed
-Ooh, baby, you're the one
+Oh baby, you're the one

@@ -98,7 +98,7 @@ Did you want it, can you dig it
 Do you love it baby, baby so good
 Was it was it really good
 You love it didn't you lover
-God I'm so ooh shoot, am I good
+God I'm so oh shoot, am I good
 Did you love it did you want it
 Can you dig it
 Baby, baby so good

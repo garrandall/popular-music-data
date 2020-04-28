@@ -45,7 +45,7 @@ A teeny weeny bit of your love
 Turn your lamps down low
 Slip me a kiss
 Turn your lights down low
-I wont let you resist
+I won't let you resist
 I want an eeny weeny bit
 A teeny weeny bit of your love
 Early in the mornin

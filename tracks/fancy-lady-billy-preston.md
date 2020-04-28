@@ -85,7 +85,7 @@ I got love, try if you dare
 I got love, sample my wares
 I got plenty of love to share
 
-Ooh, baby (love to share)
+Oh, baby (love to share)
 Gimme some love, baby (love to share)
 I want it, baby (love to share)
 Won't you give it to me, baby (love)

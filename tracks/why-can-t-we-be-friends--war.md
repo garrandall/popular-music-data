@@ -88,10 +88,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-09-13'
 ---
-Ooh, ooh, ooh, ooh
-Ooh, ooh, ooh, ooh
-Ooh, ooh, ooh, ooh
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh, oh, oh
 La, la, la, la, la, laa
 La, la, la, la, la, la
 

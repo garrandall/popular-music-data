@@ -108,7 +108,7 @@ I do a donut in that Pussy cause im from the bay
 Ran through a bunch of bad bitches in my day
 
 Im older than ya momma
-But I dont fuck cougars
+But I don't fuck cougars
 Yo daddy was a player mane how you such a loser
 When ya momma was a young thing, I knew her
 But even back then nigga I aint wanna do her
@@ -122,7 +122,7 @@ Open up wide ---
 
 Too much fun, is what im having
 Cause all that booty is what im grabbing
-Short Dog, I dont stop rappin
+Short Dog, I don't stop rappin
 BEEITCH
 
 You know whats happenin.

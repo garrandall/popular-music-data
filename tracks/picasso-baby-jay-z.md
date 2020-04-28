@@ -33,7 +33,7 @@ Bacons and turkey bacons, smell the aroma
 Oh what a feeling
 Picasso Baby, Ca Picasso baby
 Ca ca ca Picasso Baby, Ca ca ca Picasso baby
-Oh what a feeling 
+Oh what a feeling
 
 
 It ain't hard to tell
@@ -94,8 +94,4 @@ For me to go
 For y'all to see
 I'm the modern day Pablo
 Picasso baby
-
-
-
-
 

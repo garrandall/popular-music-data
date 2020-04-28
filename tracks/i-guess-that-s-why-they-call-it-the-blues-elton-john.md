@@ -137,9 +137,6 @@ Laughin' like children, livin' like lovers
 Rollin' like thunder under the covers
 And I guess that's why they call it the blues
 
-
-
-
 Wait on me, girl
 Cry in the night if it helps
 But more than ever, I simply love you

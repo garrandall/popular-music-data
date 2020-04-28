@@ -151,7 +151,7 @@ Careful, mama, watch what you say
 You talking to me like ya new bae
 Girl, you talking like you tryna do things
 Now that pipe got her running like she Usain, baby
-You made me drown in it, ooh, touche, baby
+You made me drown in it, oh, touche, baby
 I'm carrying that water, Bobby Boucher, baby
 And you know I'mma slaughter like I'm Jason
 Bust it, why you got it on safety?

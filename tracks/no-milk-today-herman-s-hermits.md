@@ -80,11 +80,5 @@ We felt it both at once, the start of our romance
 No milk today, my love has gone away
 The bottle stands forlorn, a symbol of the dawn
 
-
-
-
-
-
-
 But all that's left is a place dark and lonely
 A terraced house in a mean street back of town

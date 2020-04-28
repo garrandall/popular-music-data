@@ -71,7 +71,7 @@ rankings:
 As my life goes on I believe
 Somehow something's changed
 Something deep inside
-Ooh, a part of me
+Oh, a part of me
 There's a strange new light in my eyes
 Things I've never known
 Changing my life
@@ -87,7 +87,7 @@ Now I know my life has meaning
 Now I see myself as I am
 Feeling very free
 Life is everything
-Ooh it's meant to be
+Oh it's meant to be
 When my tears have come to an end
 I will understand
 What I left behind

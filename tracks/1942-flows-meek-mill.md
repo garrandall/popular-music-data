@@ -22,7 +22,7 @@ Niggas taking shots, can't stop me, they ain't real enough
 Cut her off, act like she's dead and it's killing her
 New dawn, Hermes seats, I left the ceiling up
 Just to get to kill 'em softly
-Ooh, get them off me, try to crucify me
+Oh, get them off me, try to crucify me
 Like I'm Jesus the way she cross me
 I'm too bossy and too thorough to move like a weirdo
 On point like an arrow, we started off with zero

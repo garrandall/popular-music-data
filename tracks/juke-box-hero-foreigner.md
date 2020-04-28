@@ -102,9 +102,6 @@ And be a juke box hero, got stars in his eyes
 He took one guitar, stars in his eyes
 He'll come alive tonight woah
 
-
-
-
 Yeah, he's gotta keep on rockin'
 Never gonna stop
 Gotta keep on rocking'
@@ -112,7 +109,7 @@ Someday gonna make it to the top
 And be a juke box hero, got stars in his eyes
 He's a juke box hero
 Yeah juke box hero, got stars in his eyes
-Juke box hero, ahh
-Juke box hero, ahh
+Juke box hero, ah
+Juke box hero, ah
 Juke box hero, got stars in his eyes
 Stars in his eyes

@@ -36,7 +36,7 @@ And don't you put me down.
 
 A-no no, a-no no, a-no no, a-no
 I, I keep a-tellin' you, I, I keep a-tellin' you
-I, I keep a-tellin' you, aah
+I, I keep a-tellin' you, ah
 
 I, I said I told a-you baby
 I said I told-a you all

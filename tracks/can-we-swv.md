@@ -71,7 +71,7 @@ rankings:
 Me and Timbaland we got the shot
 That hits from here, from here to overseas
 With SWV's, check it, one time
-Ahah, ahah, ahh see, umm
+Ahah, ahah, ah see, umm
 Me I'm Supa Fly, Supa Dupa Fly
 Rub your hands up my thigh and go supa dupa high
 Til you see my apple pie
@@ -95,24 +95,18 @@ I got so many things on my mind
 I wanna feel you squeeze me tight
 
 
-Ooooooh honey, got me, so high, so high
+Oh honey, got me, so high, so high
 I can't lie, about the way you play me
 If you want me, then take me
 You sendin' me, crazy, crazy, baby
 I love the way you taste me
 Yes you taste me like pas-trayyyyy
 
-
-
-
 Spend the night with me
 Spend the night with me...
 Spend the night with me
 Don't care what we do
 Just as long as I'm with you
-
-
-
 
 Can we get kinky tonight?
 Got so many things on my mind

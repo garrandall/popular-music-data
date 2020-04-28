@@ -136,7 +136,7 @@ Long as I'm rocking with you, girl
 You know I'm cool with just chillin' it
 
 Nothing like a little you and me low key
-Right now I'm right where i wanna be
+Right now I'm right where I wanna be
 
 I got my shades on, top back
 Rolling with the music jacked

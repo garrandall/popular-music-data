@@ -98,7 +98,7 @@ I'll never find another girl like you
 For happy endings, it takes two
 We're fire and ice, a dream won't come true
 
-Sara, Sara 
+Sara, Sara
 Storms are brewin' in your eyes
 Sara, Sara
 No time is a good time for goodbyes
@@ -143,7 +143,7 @@ Storms are brewing in your eyes
 Sara, Sara
 No time is a good time, no
 
-Ooh, Sara
+Oh, Sara
 Why did it, why did it
 (Sara, Sara)
 Why did it all fall apart?

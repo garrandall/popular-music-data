@@ -24,8 +24,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-11-17'
 ---
-Whooooo-hoooo-oooooo-ooooooo-ooo-ohh-ohh-ohhhhhhhhh, huh!
-Whooooo-hoooo-oooooo-ooooooo-ooo-ohhhhhh-heyyyyhoooahhooh
+Whooooo-hoooo-oo-oo-oo-oh-oh-oh, huh!
+Whooooo-hoooo-oo-oo-oo-oh-heyyyyhoooahhooh
 Something about the music, she always makes me dance
 Something about the music, she always makes me dance
 She turns me on and on, and all about
@@ -106,14 +106,14 @@ Not just knee deep, she was totally deep
 When she did the freak with me
 
 She turns me on and on
-Ooooo-hoooo-oooooo-ooooooo-ooo-ohh-ohh-ohhhhhhhhh
+Ooooo-hoooo-oo-oo-oo-oh-oh-oh
 Di-di-di-di di di-di
 Ants in my pants and I need to dance
 I got ants in my pants and I need to dance
-Whooooo-hoooo-oooooo-ooooooo-ooo-ohh-ohh-ohhhhhhhhh, hoo-hoo!
+Whooooo-hoooo-oo-oo-oo-oh-oh-oh, hoo-hoo!
 Something about the music, about the music
 Something about the music, it got into my dance
-Whooooo-hoooo-oooooo-ooooooo-ooo-ohh-ohh-ohhhhhhhhh
+Whooooo-hoooo-oo-oo-oo-oh-oh-oh
 Something about the music
 Something about the music
 Something about the music got into my pants
@@ -139,12 +139,12 @@ When she did the freak with me
 She did the jerk,
 It didn't work, no
 
-Oooooooh-ooh-ohh-ohh
-Oooooooh-ooh-ohh-ohh
-Oooooooh-ooh-ohh-ohh
-Oooooooh-ooh-ohh-ohh
-Oooooooh-ooh-ohh-ohh
-Oooooooh-ooh-ohh-ohh
+Oh-ohoh-oh
+Oh-ohoh-oh
+Oh-ohoh-oh
+Oh-ohoh-oh
+Oh-ohoh-oh
+Oh-ohoh-oh
 Something about the music
 Something about the music
 Something about the music
@@ -165,7 +165,7 @@ That music and the beat HA!
 Started tryin' liberating my feet
 Can this be me, immersed in funk so deep?
 
-Whooooo-hoooo-oooooo-ooooooo-ooo-ohh-ohh-ohhhhhhhhh
+Whooooo-hoooo-oo-oo-oo-oh-oh-oh
 Ants in my pants and I need to dance
 Ants in my pants and I need to dance
 Now get on up
@@ -186,8 +186,8 @@ When she did the freak with me
 
 She did the jerk
 It didn't work, no
-Whooooo-hoooo-oooooo-ooooooo-ooo-ohh-ohh-ohhhhhhhhh
-Whooooo-hoooo-oooooo-ooooooo-ooo-ohh-ohh-ohhhhhhhhh
+Whooooo-hoooo-oo-oo-oo-oh-oh-oh
+Whooooo-hoooo-oo-oo-oo-oh-oh-oh
 
 Something about the music, it got into my dance
 Something about the music, it got into my pants

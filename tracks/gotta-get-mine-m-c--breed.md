@@ -34,7 +34,7 @@ Another punk, (run up) and have to get his, (gun up)
 Cause um I ain't takin no shots
 Like a Newport fort, exploitin the floor like Jordan
 Explodin on the hoop court
-And I don't wanna be, I-don't-wanna-be nuttin like Mike
+And I don't wanna be, I-dont-wanna-be nuttin like Mike
 Cause even Mike was like it's a itsy bit triflin
 And when you in the spotlight, you get um jocked right
 But your knot's not tight

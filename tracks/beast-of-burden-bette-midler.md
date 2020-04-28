@@ -45,7 +45,7 @@ All I want is for you to make love to me.
 
 What's the matter with me?
 Ain't I hot enough? Ain't I rough enough?
-Ain't I rich enough? I'm not too blind to see. Ohh, ohhh.
+Ain't I rich enough? I'm not too blind to see. Ohh, oh.
 
 I'll never be your beast of burden.
 So let's go home and draw the curtains.
@@ -54,7 +54,7 @@ C'mon, baby, make some love to me.
 
 Oh, what's the matter with me?
 Ain't I hot enough? Ain't I rough enough?
-Ain't I rich enough? I'm not too blind to see. Ohh, ohhh.
+Ain't I rich enough? I'm not too blind to see. Ohh, oh.
 
 My little sister is a pretty pretty girl.
 My little sister is a pretty pretty girl.
@@ -67,7 +67,7 @@ It hurts her so bad to come to the end.
 I re, I remember all the times she spent sayin', "Please!"
 
 Ain't I hot enough? Ain't I rough enough?
-Ain't I rich enough? I'm not too blind to see. Ohh, ohhh.
+Ain't I rich enough? I'm not too blind to see. Ohh, oh.
 Ohh. Ohhhh.
 
 I'll never be your beast of burden.
@@ -75,9 +75,9 @@ My back is broad, baby, but it's a' hurtin'.
 And all I want is you to make love to me.
 
 What's the matter, what's the matter with me?
-Ain't I hot enough? Oooh, yeah, ain't I rough enough?
-Oooh, yeah, ain't I rich enough, rich enough, rich enough,
-too blind to see? Too blind, too blind, ohhhh!
+Ain't I hot enough? Oh, yeah, ain't I rough enough?
+Oh, yeah, ain't I rich enough, rich enough, rich enough,
+too blind to see? Too blind, too blind, oh!
 
 I'll never be your beast of burden.
 I walk for miles, honey, my feet are hurtin'.

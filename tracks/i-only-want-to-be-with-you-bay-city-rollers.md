@@ -113,7 +113,7 @@ Now listen honey
 I just want to be beside you everywhere
 As long as we're together honey I don't care
 Cause look what has happend after just one kiss
-I never thought that i could be in love like this
+I never thought that I could be in love like this
 Its crazy but its true
 I only want to be with you
 

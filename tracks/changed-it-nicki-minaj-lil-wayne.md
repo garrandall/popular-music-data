@@ -75,7 +75,7 @@ Rippin' off my wings, knife out my spleen
 Yeah, Carter time, I put bling on for the time
 She changed her ringtone to one of mine, I changed 23s to 45s
 Lil Tune like autotune, I get in her throat and she harmonize
-She get the D and ooh la la la, and when she leave, I kumbaya
+She get the D and oh la la la, and when she leave, I kumbaya
 I whip it up with the left hand, I don't fuck with the yes man
 I get younger by the second, I don't rust like Def Jam
 It's a must I expand, and flex on my ex-team

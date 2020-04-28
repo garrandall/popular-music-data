@@ -62,7 +62,7 @@ Well, well, well
 Yeah...hey...
 Yeah
 Hey...hey...
-Ooh
+Oh
 
 Driftin' on a memory
 Ain't no place I'd rather be
@@ -72,7 +72,7 @@ Lovin' you, well, well, well
 Day will make a way for night
 All we'll need is candlelight
 And a song, yeah
-Soft and long, well, ooh
+Soft and long, well, oh
 
 Glad to be
 Here alone with a lover unlike no other
@@ -82,7 +82,7 @@ A new horizon slowly comin' into view, yeah
 I wanna be livin'
 For the love of you, oh, yes, I am
 All that I'm givin'
-Is for the love of you, alright now, ooh
+Is for the love of you, alright now, oh
 
 Lovely as a ray of sun
 That touches me when the mornin' comes
@@ -92,7 +92,7 @@ My love and me, well
 Smoother than a gentle breeze
 Flowin' through my mind with ease
 Soft as can be, well
-When you're lovin' me, when you're lovin' me, ooh
+When you're lovin' me, when you're lovin' me, oh
 
 Love to be
 Ridin' the waves of your love, enchanted with your touch
@@ -117,7 +117,7 @@ And this I see, for I see
 Now and then I lose my way
 Usin' words that try to say
 What I feel, yeah
-Love is real, oh, love is real, ooh
+Love is real, oh, love is real, oh
 
 I might as well
 Sign my name on a card which could say it better
@@ -144,7 +144,7 @@ Lord knows I am
 Write that down
 Said that I'm livin'
 For the love, love of you
-Ooh, ooh
+Oh oh
 
 
 

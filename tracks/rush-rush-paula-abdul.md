@@ -102,7 +102,7 @@ Oh, baby, baby, please
 (Rush, rush) Hurry, hurry, lover, come to me
 (Rush, rush) I wanna see ya, I wanna see ya get free with me
 (Rush, rush) I can feel it, I can feel you all through me
-(Rush, rush) Ooh, what you do to me
+(Rush, rush) Oh, what you do to me
 
 
 And all I want from you is what you are
@@ -123,11 +123,11 @@ Oh, baby, baby, please
 (Rush, rush) Hurry, hurry, lover, come to me
 (Rush, rush) I wanna see ya, I wanna see ya get free with me
 (Rush, rush) I can feel it, I can feel you all through me
-(Rush, rush) Ooh, what you do to me
+(Rush, rush) Oh, what you do to me
 (Rush, rush) Hurry, hurry, lover, come to me
 (Rush, rush) I wanna see ya, I wanna see ya get free with me
 (Rush, rush) I can feel it, I can feel you all through me
-(Rush, rush) Ooh, what you do to me
+(Rush, rush) Oh, what you do to me
 
 
 When you kiss me up and down
@@ -148,11 +148,11 @@ Oh, baby, baby, please
 (Rush, rush) Hurry, hurry, lover, come to me
 (Rush, rush) I wanna see ya, I wanna see ya get free with me
 (Rush, rush) I can feel it, I can feel you all through me
-(Rush, rush) Ooh, what you do to me
+(Rush, rush) Oh, what you do to me
 (Rush, rush) Hurry, hurry, lover, come to me
 (Rush, rush) I wanna see ya, I wanna see ya get free with me
 (Rush, rush) I can feel it, I can feel you all through me
-(Rush, rush) Ooh, what you do to me
+(Rush, rush) Oh, what you do to me
 
 
 (Rush, rush) No, no, no, no, no

@@ -131,7 +131,7 @@ You'll be here in me
 Forever in my heart
 You always thought I'd be
 I'd be yours
-Forever....
+Forever...
 
 
 

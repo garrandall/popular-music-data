@@ -100,9 +100,6 @@ Hey, I will stand my ground
 (I won't back down)
 And I won't back down
 
-
-
-
 I won't back down
 Hey baby, there ain't no easy way out
 I won't back down

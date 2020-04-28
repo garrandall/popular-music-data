@@ -91,9 +91,6 @@ Let it be, let it be
 Whisper words of wisdom
 Let it be
 
-
-
-
 Let it be, let it be
 Let it be, yeah, let it be
 Whisper words of wisdom

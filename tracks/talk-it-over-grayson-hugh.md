@@ -120,4 +120,4 @@ Tell me that you still want me
 Can't we talk it over in bed
 
 Don't let it no don't let it slip away
-Oh no baby ooh
+Oh no baby oh

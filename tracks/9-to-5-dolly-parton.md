@@ -128,7 +128,7 @@ It's enough to drive you crazy if you let it
 You would think that I would deserve a fair promotion
 Want to move ahead but the boss won't seem to let me
 I swear sometimes that man is out to get me
-Mmmmm...
+Mmm...
 
 
 They let you dream just to watch them shatter

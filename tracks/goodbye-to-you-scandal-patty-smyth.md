@@ -58,7 +58,7 @@ I wanted you far too much to ever let you go
 You know you never got buy, I feel it too
 And I guess I never could stand to lose
 It's just a pity to say goodbye to you
-Goodbye to you-ooh
+Goodbye to you-oh
 
 Could I ever love someone
 Like the one I see in you
@@ -69,9 +69,9 @@ The days are dull, the nights are long
 
 Guess it's better to say
 Goodbye to you
-Goodbye to you-ooh
+Goodbye to you-oh
 Goodbye to you
-Goodbye to you-ooh
+Goodbye to you-oh
 
 'Cause baby it's over now
 No need talk about it
@@ -86,10 +86,10 @@ And my heart can't stand the strain
 And my love, and my love
 And my love
 
-Goodbye to you-ooh
-Goodbye to you-ooh
+Goodbye to you-oh
+Goodbye to you-oh
 Goodbye to you
-Goodbye to you-ooh
+Goodbye to you-oh
 
 Now, could I ever love someone
 Like the one I see in you
@@ -99,16 +99,16 @@ These last few weeks of holdin' on
 The days are dull, the nights are long
 Guess it's better to say
 Goodbye to you
-Goodbye to you-ooh
+Goodbye to you-oh
 Goodbye to you
-Goodbye to you-ooh, oh-ooh-oh-ooh-oh
+Goodbye to you-oh oh-oh-ohoh
 
 Goodbye baby (Goodbye baby)
 So long, darlin'
 Goodbye to you
-Goodbye to you-ooh, oh-ooh-oh-ooh-oh
+Goodbye to you-oh oh-oh-ohoh
 
 Bye-bye, baby (Bye-bye, baby)
 So long darlin'
 Goodbye to you (Bye-bye, baby)
-Goodbye to you-ooh
+Goodbye to you-oh

@@ -31,7 +31,7 @@ Darling, I fancy you
 Took me back to Highgate, met all of his best mates
 So I guess all the rumors are true
 You know I love a London boy
-Boy, I fancy you (Ooh)
+Boy, I fancy you (Oh
 
 And now I love high tea, stories from Uni, and the West End
 You can find me in the pub, we are watching rugby with his school friends
@@ -65,7 +65,7 @@ Darling, I fancy you (You)
 Took me back to Highgate, met all of his best mates
 So I guess all the rumors are true (Yeah)
 You know I love a London boy (Oh)
-Boy (Oh), I fancy you (I fancy you, ooh)
+Boy (Oh), I fancy you (I fancy you, oh
 
 So please show me Hackney
 Doesn't have to be Louis V up on Bond Street
@@ -74,7 +74,7 @@ I, I, I fancy you
 Oh whoa, oh, I
 Stick with me, I'm your queen
 Like a Tennessee Stella McCartney, on the Heath
-Just wanna be with you (Ooh)
+Just wanna be with you (Oh
 Wanna be with you
 I fancy you (Yeah), I fancy you
 Oh whoa, ah

@@ -62,7 +62,7 @@ Sometimes the system goes on the blink.
 And the whole thing turns out wrong.
 You might not make it back and you know.
 That you could be well oh that strong.
-I'm not wrong (yeah, yeah, yeah, yeeeah).
+I'm not wrong (yeah, yeah, yeah, yeah).
 
 So where is the passion when you need it the most?
 Oh you and I.

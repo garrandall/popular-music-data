@@ -69,7 +69,7 @@ I gotta Stee Sty Stoe the Stack a jack
 Turn the Tevie, gotta move the Mevie
 Gotta wham-bam funkify the Fevie, Stevie
 
-Ooh... but can you do Shirley
+Oh.. but can you do Shirley
 (Why surely)
 
 Shack it back, I gotta Shack attack

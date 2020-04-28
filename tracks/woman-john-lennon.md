@@ -99,9 +99,9 @@ My inner feelings and thankfulness
 For showing me the meaning of success
 
 
-Ooh, well, well
+Oh, well, well
 Doo, doo, doo, doo, doo
-Ooh, well, well
+Oh, well, well
 Doo, doo, doo, doo, doo
 
 

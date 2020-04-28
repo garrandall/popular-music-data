@@ -52,15 +52,15 @@ rankings:
 Well nigga roll me a mic and let me smoke it til' I'm high if you ever seen me rock than you know that I- live and die for the things I do slang I use breakin' down mics and destroyin' crews.
 Well nigga roll me a mic and let me smoke it til' I'm high if you ever seen me rock than you know that I- live and die for the things I do slang I use breakin' down mics and destroyin' crews.
 
-1-2-1-2 unhh............ 1-2-1-2 mic check 1-2-1-2
-1-2-1-2 unhh............ 1-2-1-2 mic check 1-2-1-2
+1-2-1-2 unhh... 1-2-1-2 mic check 1-2-1-2
+1-2-1-2 unhh... 1-2-1-2 mic check 1-2-1-2
 
-I devoted my whole life to rockin' mics gettin crowds lifted put my pants on backwards caus' I wanted to be.... different.
-I keeps'em with a crease tom peeps burn to nucci, house full of hunnies sportin' gucci, cuttin' coochie. 
+I devoted my whole life to rockin' mics gettin crowds lifted put my pants on backwards caus' I wanted to be... different.
+I keeps'em with a crease tom peeps burn to nucci, house full of hunnies sportin' gucci, cuttin' coochie.
 I'm the man girlfriend, luxury I swim macadocious to the most brown sex and slim, state of uptrends, known for making divedends and millions my people jump, jump, jump, jump.
 
-Who chose to be the next nigga to step get deleted by death undefeated ain't no thang to put that body to rest chest filled with smoke yokin' niggas up by the collar. Follow me cuz my dollars makin' more cents than common. 
-Robbin' you for your money and your diamonds endangerin' your species, 
+Who chose to be the next nigga to step get deleted by death undefeated ain't no thang to put that body to rest chest filled with smoke yokin' niggas up by the collar. Follow me cuz my dollars makin' more cents than common.
+Robbin' you for your money and your diamonds endangerin' your species,
 More like a woman than the bee gees.
 No remorse steady smokin' plenty grass let it go and let Da Brat commence to be the baddest hoe.
 
@@ -76,7 +76,7 @@ Smackin' those actin', tough as Tinactin, fall up in your hood increase your bra
 Well nigga roll me a mic and let me smoke it til' I'm high if you ever seen me rock than you know that I- live and die for the things I do slang I use breakin' down mics and destroyin' crews.
 Well nigga roll me a mic and let me smoke it til' I'm high if you ever seen me rock than you know that I- live and die for the things I do slang I use breakin' down mics and destroyin' crews.
 
-Oooooooooooohhhhhhhh........ Someone tell me......... we got it goin' on...... I'm tellin' y'all (it's that SoSo Def)
+Oh... Someone tell me... we got it goin' on... I'm tellin' y'all (it's that SoSo Def)
 
 I want you to feel me, my whole thang is to get inside your body, I run game like my name was John Gaddy, hittin' hookshots like Vlade and niggas around my way call me little Liberace.
 A lady lover like no other and I be lethal with my weapon so they call me Danny Glover now who keep it hot? (We Do.)

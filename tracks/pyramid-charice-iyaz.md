@@ -19,9 +19,9 @@ rankings:
 ---
 
 
-Shawty's love is like a pyramid (ooh)
-We stand together till the very end (eh ooh)
-There'll never be another love for sure (ooh)
+Shawty's love is like a pyramid (oh)
+We stand together till the very end (eh oh)
+There'll never be another love for sure (oh)
 Iyaz and Charice let we go
 
 Stones, heavy like the love you've shown
@@ -44,9 +44,9 @@ And even when the wind is blowing
 We'll never fall just keep on going
 Forever we will stay, like a pyramid
 
-Like a pyramid like a pyramid eh (ooh)
-Like a pyramid like a pyramid eh (ooh)
-Like a pyramid like a pyramid eh eh (oooh)
+Like a pyramid like a pyramid eh (oh)
+Like a pyramid like a pyramid eh (oh)
+Like a pyramid like a pyramid eh eh (oh)
 Cold, never ever when you're close
 We will never let it fold
 A story that was never told
@@ -72,9 +72,6 @@ Before was our love back it up more than enough
 Holding on to one another be the cover when it's rough (oh oh)
 Mother nature (hey) or disaster won't stop at happy ever after
 
-
-
-
 Pyramid, keep it going
 
 Built this on a solid rock
@@ -88,7 +85,7 @@ Pyramid, pyramid, pyramid, pyramid
 Pyramid, pyramid, pyramid
 
 
-Pyramid 
+Pyramid
 
 
 

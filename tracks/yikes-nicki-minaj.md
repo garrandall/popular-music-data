@@ -26,7 +26,7 @@ Got the strings on 'em
 Woke up, the price of coke up (Woo, woo)
 I just hit 'em with the low cut, then call my folks up (Folks)
 Somebody 'bout to get poked up, go call a tow truck (Tow)
-All that talkin' out your neck, might just get your throat cut (Ooh, ooh)
+All that talkin' out your neck, might just get your throat cut (Oh, oh)
 This a Mack truck, not a black truck (Woo)
 When we move, tell 'em, "Back up," click click, clack, duck
 Hella bands, pull up, stashed up, super facts up
@@ -50,7 +50,7 @@ Walk up to a bad bitch, be like, "I think you fine," yeah
 I don't play with demons, Satan, get thee behind, yeah
 'Bout to get fucked up on margarita with two limes, yeah
 
-Ooh, I've been the same, ain't shit changed, this ain't nothin' new (Woo)
+Oh, I've been the same, ain't shit changed, this ain't nothin' new (Woo)
 That pretty frame, diamond chain, what the fuck it do?
 Yo, clear the way, it's some bad bitches comin' through (Sheesh)
 I give two F's like the letters that are on my shoe
@@ -62,10 +62,10 @@ Grip it right, he be like (Woo)
 Yikes, what's the hype? This is something light (Light, light, woo)
 Yikes, outta town on consistent flights
 Yikes, work hard, this a different white (White)
-Get your life, you bitches ain't livin' right (Ooh)
+Get your life, you bitches ain't livin' right (Oh)
 
 Bag talk, but ain't got no mouth for money
-Bag talk, hmm
+Bag talk, hm
 It's quiet, ain't no back talk (Grrr)
 Quiet, ain't no back talk
 

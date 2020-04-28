@@ -58,7 +58,7 @@ I'll do anything (anything)
 Just to make it right (make it right)
 Say you understand (understand)
 Oh I know you can (know you can)
-C'mon Marianne, uh-hmm
+C'mon Marianne, uh-hm
 
 Don't matter what the people say (people say)
 It didn't happen that way (happen that way)

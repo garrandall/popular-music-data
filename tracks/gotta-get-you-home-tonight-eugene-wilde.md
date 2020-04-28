@@ -40,9 +40,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-03-02'
 ---
-Ooooh baby
+Oh baby
 Gotta get you home with me tonight
-Ooooh baby
+Oh baby
 Gotta get you home with me tonight
 
 Gotta hold your body tight
@@ -61,9 +61,9 @@ To get us in the mood
 And an atmosphere
 That's sure to please you..
 
-Oooooh lady
+Oh lady
 Gotta get you home with me tonight
-Ooooh lady
+Oh lady
 I gotta get you home with me tonight
 
 Gotta hold your body right
@@ -81,9 +81,9 @@ To get us in the mood
 And an atmosphere
 That's sure to please you..
 
-Oooooh lady
+Oh lady
 Gotta get you home with me tonight
-Ooooh lady
+Oh lady
 I gotta get you home with me tonight
 
 Bridge:
@@ -99,9 +99,9 @@ Oh come on lady!
 Oh come on girl!
 Oh come On girl!
 
-Oooooh lady
+Oh lady
 Gotta get you home with me tonight
-Ooooh lady
+Oh lady
 I gotta get you home with me tonight
 
 C'mon baby
@@ -109,19 +109,19 @@ C'mon baby
 C'mon lady
 C'mon lady
 
-Oooooh lady
+Oh lady
 Gotta get you home with me tonight
-Ooooh lady
+Oh lady
 I gotta get you home with me tonight
 
 (instrumental break)
 
-Oooooh lady
+Oh lady
 Gotta get you home with me tonight
-Ooooh lady
+Oh lady
 I gotta get you home with me tonight
 
-Oooooh lady
+Oh lady
 Gotta get you home with me tonight
-Ooooh lady
+Oh lady
 I gotta get you home with me tonight

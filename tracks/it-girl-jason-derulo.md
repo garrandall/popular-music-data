@@ -158,7 +158,7 @@ Hey, baby
 Don't you know you're my it, girl?
 
 
-You can be my it girl, baby, you the shit, girl (ooh, woo)
+You can be my it girl, baby, you the shit, girl (oh woo)
 Loving you could be a crime
 Crazy how we fit, girl, this is it, girl (woo)
 Give me 25 to life (give me 25 to life, baby)

@@ -39,7 +39,7 @@ Try telling me no,
 One thing about me
 Is I am a conqueror,
 I am a conqueror!
-Ooh oh
+Oh oh
 
 Got a vision that no one else sees,
 Lot of dirty work, roll up your sleeves,
@@ -58,7 +58,7 @@ Try telling me no (no)
 One thing about me (one thing about me)
 Is I am a conqueror,
 I am a conqueror!
-Ooh oh (Ooh oh)
+Oh oh (Oh oh)
 I am a conqueror!
 
 We all make mistakes,
@@ -69,7 +69,7 @@ You might fall on your face,
 Don't ever give up!
 
 
-I'd rather stand tall (oooh)
+I'd rather stand tall (oh)
 Than live on my knees (can't live on my knees)
 'Cause I am a conqueror (I am a conqueror)
 And I won't accept defeat! (And I won't accept defeat)
@@ -77,12 +77,12 @@ Try telling me no (try telling me no)
 One thing about me (one thing about me)
 Is I am a conqueror (is I am a conqueror)
 I am a conqueror!
-Ooh oh (Ooh oh)
+Oh oh (Oh oh)
 I am a conqueror!
 
 We all make mistakes,
 You might fall on your face,
-But I am a conqueror! (oh ooh)
+But I am a conqueror! (oh oh)
 
 
 

@@ -24,7 +24,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
 ---
-(Ooh)
+(Oh)
 I cried my eyes out once before (sha la la la sha la la la la)
 But I won't do it anymore (sha la la la sha la la la la)
 'Cause baby I've got news for you (sha la la la sha la la la la)

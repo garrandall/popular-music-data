@@ -87,7 +87,7 @@ Harlem World, ATL, 112
 112, Harlem World, ATL
 
 Yeah, kid you don't stop
-We won't stop, 
+We won't stop,
 You don't stop,
 Come on,
 
@@ -102,9 +102,9 @@ And there you'll always be...
 Baby don't go,
 Your love's so special,
 Can't let me go now,
-If I did wrong, 
+If I did wrong,
 I'm sorry,
-No other love, 
+No other love,
 is for me...
 
 
@@ -125,9 +125,9 @@ When I say I love you...
 Baby don't go,
 Your love's so special,
 Can't let me go now,
-If I did wrong, 
+If I did wrong,
 I'm sorry,
-No other love, 
+No other love,
 is for me...
 
 
@@ -136,40 +136,36 @@ is for me...
 Yeah ,yeah, yeah
 What, what, what, come on
 Yeah, kid
-Harlem on the rise 
+Harlem on the rise
 With 112 and you don't want no problem with these guys
 
 Yo, you cats never want no problem like we want it,
-When Harlem World doubled up, 
+When Harlem World doubled up,
 We put G's on it,
 I'm pushin' new 700 M.G.'s on it,
-If that nigga can't see the ice, 
+If that nigga can't see the ice,
 That mean my sleeve's on it,
 You know I dress as I'm suppose to,
 Stretch Lex with a chauffeur,
-Never sober, 
-Red Testarossa, 
+Never sober,
+Red Testarossa,
 Cherry Rover,
 Bagettes in my Jehovah,
-Me and Puff at the Grammy's, 
+Me and Puff at the Grammy's,
 Sittin' next to Oprah (and the winner is),
 
-All we hear is platinum that, 
+All we hear is platinum that,
 Platinum this,
-Platinum whips, 
+Platinum whips,
 Nobody got no platinum hits,
 Cats know with me platinum always wrap my wrist,
 I come to the awards,
 Quadruple platinum chicks,
-Little ones like twenty-five, 
+Little ones like twenty-five,
 What cats get smacked with,
 Big ones like forty fives,
 What cats get clapped with,
 I react sick whenever my dough ain't adequate,
-Harlem World-Junior Mafia, 
+Harlem World-Junior Mafia,
 Yeah, that's it, come on...
-
-
-
-
 

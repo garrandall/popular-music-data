@@ -92,5 +92,5 @@ When you look at me and the whole world fades
 I'll always remember us this way
 
 
-Oooh, oooh, hmmmm
-Oooh, oooh, hmmmm
+Oh, oh, hm
+Oh, oh, hm

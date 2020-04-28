@@ -71,12 +71,12 @@ rankings:
 ---
 
 
-Ooh
-Ooh
-Ooh
+Oh
+Oh
+Oh
 Oh, baby!
-Ooh
-Ooh
+Oh
+Oh
 Hey...
 
 She's got cherry lips, angel eyes
@@ -90,7 +90,7 @@ Before you play with fire do think twice
 And if you get burned don't be surprised
 
 Got me lifted, drifted higher than the ceiling
-And ooh, baby, it's the ultimate feeling
+And oh baby, it's the ultimate feeling
 You've got me lifted, feeling so gifted
 Sugar, how you get so fly?
 
@@ -110,7 +110,7 @@ Before you play with fire do think twice
 And if you get burned, well, baby, don't you be surprised
 
 Got me lifted, drifted higher than the ceiling
-And ooh, baby, it's the ultimate feeling
+And oh baby, it's the ultimate feeling
 You've got me lifted, feeling so gifted
 Sugar, how you get so fly?
 
@@ -126,7 +126,7 @@ Sugar, sugar, how you get so fly?
 But you won't get me tonight
 
 Got me lifted, drifted higher than the ceiling
-And ooh, baby, it's the ultimate feeling
+And oh baby, it's the ultimate feeling
 You've got me lifted, feeling so gifted
 Sugar, how you get so fly?
 

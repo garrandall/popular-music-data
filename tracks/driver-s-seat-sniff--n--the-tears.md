@@ -80,7 +80,7 @@ On trouble and strife
 She had another way of looking at life
 
 The news is blue (the news is blue)
-It has its own way to get to you (ooh)
+It has its own way to get to you (oh)
 What can I do? (What can I do?)
 I'll never remember my time with you
 
@@ -89,27 +89,27 @@ Got to move to the trick of the beat
 There is no elite
 Just take your place in the driver's seat
 
-Driver's seat, ooh
+Driver's seat, oh
 Driver's seat, yeah
 
-We're doing all right (ooh)
+We're doing all right (oh)
 A little driving on a Saturday night (yeah)
-And come what may (ooh)
+And come what may (oh)
 Gonna dance the day away (yeah)
 
-Driver's seat, ooh
+Driver's seat, oh
 Driver's seat, yeah
 
-Jenny was sweet (ooh)
+Jenny was sweet (oh)
 There is no elite (yeah)
-Pick up your feet (ooh)
+Pick up your feet (oh)
 Pick up, pick up (yeah)
-Pick up your feet (ooh)
+Pick up your feet (oh)
 Gonna dance the day away (yeah)
 
-Driver's seat, ooh
+Driver's seat, oh
 Driver's seat, yeah
-Driver's seat, ooh
+Driver's seat, oh
 Driver's seat, yeah
 
 Yeah

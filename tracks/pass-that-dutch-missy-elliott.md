@@ -73,8 +73,8 @@ We have been just informed that there's an unknown virus that's attacking all cl
 Symptoms have been said to be: heaving breathing, wild dancing, coughing
 So when you hear the sound "who-di-whoooo!"
 Run for cover, motherfucker!
-Woooooo! Ahh, daddy! Ooooo! Ah! oh, ooh!
-Pass that dutch (ah), pass that dutch (ooh)
+Woooooo! Ah, daddy! Ooooo! Ah! oh, oh!
+Pass that dutch (ah), pass that dutch (oh)
 Pass that dutch (ah), pass that dutch (ah)
 Pass that dutch (ah), pass that dutch (ah)
 Pass that dutch (whoo), pass that dutch
@@ -96,12 +96,12 @@ Put it down for the streets (That's right!)
 (Who-di-whooooooooooooo!)
 Pass that dutch, pass that dutch
 Pass that dutch, pass that dutch, pass that dutch
-Come on, pass the dutch, baby! (ahh!)
+Come on, pass the dutch, baby! (ah!)
 Shake-shake shake ya stuff, ladies!
 (Who-di-whooooooooooooo!)
 Pass that dutch, pass that dutch
 Pass that dutch, pass that dutch
-Pop that, pop that, jiggle that fat (ahh!)
+Pop that, pop that, jiggle that fat (ah!)
 Don't stop, get it 'til ya clothes get wet
 
 
@@ -123,12 +123,12 @@ I'm live on stage, c'mon and give me some applause
 (Who-di-whooooooooooooo!)
 Pass that dutch, pass that dutch
 Pass that dutch, pass that dutch, pass that dutch
-Come on, pass the dutch, baby! (ahh!)
+Come on, pass the dutch, baby! (ah!)
 Shake-shake shake ya stuff, ladies!
 (Who-di-whooooooooooooo!)
 Pass that dutch, pass that dutch
 Pass that dutch, pass that dutch
-Pop that, pop that, jiggle that fat (ahh!)
+Pop that, pop that, jiggle that fat (ah!)
 Don't stop, get it 'til ya clothes get wet
 
 
@@ -150,12 +150,12 @@ Can I get a ride on the white horse?
 (Who-di-whooooooooooooo!)
 Pass that dutch, pass that dutch
 Pass that dutch, pass that dutch, pass that dutch
-Come on, pass the dutch, baby! (ahh!)
+Come on, pass the dutch, baby! (ah!)
 Shake-shake shake ya stuff, ladies!
 (Who-di-whooooooooooooo!)
 Pass that dutch, pass that dutch
 Pass that dutch, pass that dutch
-Pop that, pop that, jiggle that fat (ahh!)
+Pop that, pop that, jiggle that fat (ah!)
 Don't stop, get it 'til ya clothes get wet
 
 

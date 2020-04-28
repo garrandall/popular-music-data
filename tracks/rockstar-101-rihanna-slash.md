@@ -153,7 +153,7 @@ Hey, hey, hey
 
 Hey
 I'm rocking out tonight
-Cause I cant wait till tomorrow
+Cause I can't wait till tomorrow
 I'm a live my whole life
 In the night
 Cause I ain't got time to borrow

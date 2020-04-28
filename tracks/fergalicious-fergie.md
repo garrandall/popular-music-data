@@ -160,7 +160,7 @@ And can't no other lady put it down like me
 I'm fergalicious (So delicious)
 My body stay vicious
 I be up in the gym, just working on my fitness
-He's my witness (Ooh, wee!)
+He's my witness (Oh, wee!)
 I put your boy on rock, rock
 And he be lining down the block
 Just to watch what I got (Four, tres, two, uno!)
@@ -214,7 +214,7 @@ Just to watch what I got
 
 My body stay vicious
 I be up in the gym, just working on my fitness
-He's my witness (Ooh, wee!)
+He's my witness (Oh, wee!)
 I put your boy on rock, rock
 And he be lining down the block
 Just to watch what I got (Four, tres, two, uno!)

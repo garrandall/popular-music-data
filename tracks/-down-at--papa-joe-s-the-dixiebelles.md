@@ -63,7 +63,7 @@ rankings:
 Say, there's a place in New Orleans
 That serves fried chicken with turnip greens
 Crawfish bisque that'll treat you right
-And Papa Joe plays there ev'ry night
+And Papa Joe plays there every night
 
 A little dark haired beauty says "Step right in"
 And you can bet a full dollar she's be yo' friend

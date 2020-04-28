@@ -46,7 +46,7 @@ rankings:
 ---
 I can't see you mama
 But I can hardly wait
-Ooh, to touch and to feel you mama
+Oh, to touch and to feel you mama
 Oh, I just can't keep away
 
 In the heat and the steam of the city

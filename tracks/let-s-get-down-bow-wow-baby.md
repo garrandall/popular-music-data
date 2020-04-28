@@ -144,9 +144,6 @@ But that's 7:45
 Now shorty,now let's ride
 Hop in the wip!
 
-
-
-
 Ay! now I'm about to test ya' p's lil bow wow
 (uh-huh) See lil one ova' there
 She bout 25, and she been lookin at cha'
@@ -185,7 +182,7 @@ Ya went platnum. Round tha world coast to coast
 Ya good wit me. ya get a stunna Certification
 R.R.A.A. ya good playa Lil Bow Weezy
 It's yo turn shine baby (shine baby boy) do you lil daddy. (do U)
-Bow Weezy baby!.....
+Bow Weezy baby!...
 Live it up Bird call Baby!
 Sha-ty (shorty) 5ft pimpin' boy
 Ya good wit me lil one. let's roll!

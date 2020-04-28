@@ -43,4 +43,4 @@ You've been blessed with a love that will last now
 'Cause you
 You got a man who's living just to hear his baby
 Say that her happy times are here to stay
-Hmmm.happy times are here to stay
+Hm.happy times are here to stay

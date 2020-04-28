@@ -56,7 +56,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-08-09'
 ---
-First time i felt it
+First time I felt it
 I think I was five years old
 I was scared, had a nightmare
 Mama was there for me to hold
@@ -77,14 +77,14 @@ Got the keys to my dad's old truck
 Turn the radio on
 Still remember the song
 We held hands and there it was
-Love....
+Love...
 
 The page just kept on turning
-There i was with someone else
+There I was with someone else
 First time in my life time
 I wasn't livin for myself
 
-I knew i wasn't fallin
+I knew I wasn't fallin
 Anywhere I fell before
 This place was different
 It was deeper it was more...
@@ -102,7 +102,7 @@ As we cried
 Wedding bells
 Waved good bye
 The whole church knew it was
-Love....
+Love...
 
 Then it took on a brand new meaning
 When the docter said "It's time to watch your miracle arrive."
@@ -112,4 +112,4 @@ Cut the cord
 Take her home
 Help her grow
 And complete the circle of
-Love......
+Love...

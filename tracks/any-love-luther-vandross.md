@@ -80,7 +80,7 @@ And I know there's a love waiting to enter my life, enter my life
 Every day as I live, I try to think positive
 And I, I pray for someone good to come, any love
 
-Ooh, love is sweet and so divine
+Oh, love is sweet and so divine
 And I can't wait for my love life to shine, to shine
 Can anybody tell me where I can find any love, any love?
 
@@ -102,7 +102,7 @@ Everyone needs a love no doubt, any love, any love
 Everybody feels lonely without any love, any love, any love yeah
 And I need you, yeah should've been in my mind, in my mind
 Everyone needs a love no doubt, any love, any love
-Everybody feels lonely without any love, any love, ooh
+Everybody feels lonely without any love, any love, oh
 
 
 

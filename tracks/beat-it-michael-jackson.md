@@ -161,7 +161,7 @@ No one wants to be defeated
 Showin' how funky and strong is your fight
 It doesn't matter who's wrong or right (Who's right)
 Just beat it, beat it, beat it, beat it (Woo-hoo!)
-No one wants to be defeated (No-ooo)
+No one wants to be defeated (No-oo)
 Showin' how funky (Woo-hoo!) and strong is your fight (Woo-hoo!)
 It doesn't matter who's wrong or right
 Just beat it, beat it, beat it, beat it

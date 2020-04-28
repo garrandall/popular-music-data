@@ -81,7 +81,7 @@ I don't want to be alone
 I gotta find me an angel
 In my life, in my life
 
-Too long have I loved 
+Too long have I loved
 So unattached within
 So much that I know
 That I need somebody so
@@ -95,7 +95,7 @@ Somewhere for me
 Oh I lived too long
 Without the love of someone
 And there's no misery
-Ooooh oooh like the misery
+Oh oh like the misery
 I feel in me
 
 I gotta find me an angel in

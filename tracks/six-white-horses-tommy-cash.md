@@ -35,14 +35,14 @@ rankings:
 Mhm some folks drink and some folks smoke and some folks love and some folks don't
 Some folks laugh and some folks frown folks hear then they gun you down
 Goodbye John six white horses come to take you home
-Goodbye John they took you away before you sang your song hmm
+Goodbye John they took you away before you sang your song hm
 Some preach wrong and some preach right and some preach love and some preach fight
 Takes every kind to make that world go round takes one to gun you down
 Goodbye Martin six white horses come to take you home
-Goodbye Reverend they took you away before you sang your song hmm
+Goodbye Reverend they took you away before you sang your song hm
 Some people stick pretty close to home others're born with that urge to roam
 Welcome welcome to our town hope nobody tries to gun you down
 Goodbye Bobby six white horses come to take you home
-Goodbye Robert they took you away before you sang your song hmm
+Goodbye Robert they took you away before you sang your song hm
 Goodbye John and goodbye Martin and goodbye Bobby
 Well they took you away before you sang your song

@@ -129,8 +129,8 @@ I know I've got a guilty face
 Girl
 I feel so out of place
 
-Ooh, ooh
-(Ooh)
+Oh, oh
+(Oh)
 Yeah, yeah
 (Doo-doo doo-doo doo-doo)
 
@@ -138,7 +138,7 @@ I don't know
 I don't know where to go
 Who to see
 Oh, oh, oh
-(Ooh, doo, doo, doo, doo, doo, doo)
+(Oh, doo, doo, doo, doo, doo, doo)
 
 All my friends call me a fool
 They say
@@ -160,19 +160,19 @@ To look for love
 (And I don't)
 I don't know how
 
-(Ooh)
+(Oh)
 I don't know how
 (Doo, doo, doo, doo, doo, doo)
 Better be on my way
 I can't stay here
-(Ooh)
-Ooh, ooh
+(Oh)
+Oh, oh
 (Doo, doo, doo, doo, doo, doo)
 
 Have you ever seen such a helpless man?
 Oh, oh
-(Ooh, doo, doo, doo, doo, doo, doo)
+(Oh, doo, doo, doo, doo, doo, doo)
 Just don't know
 I don't know where to go
 No, no
-(Ooh, doo, doo, doo, doo doo, doo)
+(Oh, doo, doo, doo, doo doo, doo)

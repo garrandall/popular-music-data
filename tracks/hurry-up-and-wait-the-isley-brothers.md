@@ -77,7 +77,7 @@ Now tell me what it is I'm supposed to do
 And someday I'll get to you, girl
 But in the meantime
 I know what I gotta do
-Hurry up and wait, yeah, baby, ooh
+Hurry up and wait, yeah, baby, oh
 On your love
 Hurry up and wait, yeah, baby
 On your love

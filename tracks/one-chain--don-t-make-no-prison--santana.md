@@ -64,7 +64,7 @@ There's a bed I'm keeping room in for you
 There's a lot I know I gotta do
 Don't let as simple misunderstanding
 Be a mountain that we can't move
-Ooooh... one chain don't make no prison
+Oh... one chain don't make no prison
 Two wrongs don't make no right
 One rain don't make no river
 One punch don't make no fight

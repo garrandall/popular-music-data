@@ -50,7 +50,7 @@ rankings:
 ---
 I got a date tonight with such a sweet little innocent thing
 I'll sweep 'er off her feet before she knows what's a-happening
-I'm gonna hand her (ooh) my "sweet-talkin'" line
+I'm gonna hand her (oh) my "sweet-talkin'" line
 I know it kills her (shriek!) every time
 She's gonna love me from the start
 And then I'm gonna break her heart
@@ -58,7 +58,7 @@ And then I'm gonna break her heart
 'Cause if you're not a gentleman, you're gonna hear from me
 Oh, yes I will
 Yes, I will
-Oh, yes I will, yes I will, yes I will!!
+Oh, yes I will, yes I will, yes I will!
 
 I'm just a big bad wolf, I know tonight I'll be looking' so good
 She'll be a helpless child just like a-Little Red Riding' Hood
@@ -71,8 +71,8 @@ And then I'm gonna break her heart
 
 Oh, yes I will
 Yes, I will
-Yes I will, yes I will, yes I will!!
+Yes I will, yes I will, yes I will!
 
-But I'm a lover!!!
+But I'm a lover!
 
-Man, my reputation!!
+Man, my reputation!

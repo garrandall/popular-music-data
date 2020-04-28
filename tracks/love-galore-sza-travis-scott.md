@@ -113,7 +113,7 @@ Skrt up on niggas (True)
 Skrt down, you acting like me (Yah)
 Acting like we wasn't more than a summer fling
 I said farewell, you took it well (True)
-Promise I won't cry over spilled milk (Ooh no, I won't)
+Promise I won't cry over spilled milk (Oh no, I won't)
 Gimme a paper towel, gimme another Valium
 Gimme another hour or two, hour with you
 
@@ -139,7 +139,7 @@ Love, love, love, love, 'long as we got
 Love, love, love, oh 'long as we got
 
 
-Should've never gave you my number, I did it with you (Ooh)
+Should've never gave you my number, I did it with you (Oh)
 Should've never let you hit it, I split it with you
 I regret it, you gots a fetish
 You gots a problem, now it's a problem, oh, no
@@ -161,8 +161,8 @@ Yuh, that's that Mo City that side
 That you can't come 'round at night, yuh (It's lit)
 You like to get me high, you don't want no one beside ya
 You like when I make fire
-You say, "La Flame, keep makin' fire" (Ooh)
-Let me cum inside ya, let me plant that seed inside ya (Ooh)
+You say, "La Flame, keep makin' fire" (Oh)
+Let me cum inside ya, let me plant that seed inside ya (Oh)
 Ass and titties, titties, only thing that stuck with, with me (With me)
 Only thing that was real
 Only thing I could feel, you feel me? (Yah, feel me)

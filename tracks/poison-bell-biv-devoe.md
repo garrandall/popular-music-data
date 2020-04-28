@@ -147,7 +147,7 @@ Poison, deadly, movin it slow
 Lookin for a mellow fellow like DeVoe
 Gettin paid, laid, so better lay low
 Schemin on house, money, and the whole show
-The low pro hoe she'll be cut like an aaa-FRO
+The low pro hoe she'll be cut like an aa-FRO
 See what you're sayin', huh, she's a winner to you
 But I know she's a loser (How do you know?)
 Me and the crew used to do her!
@@ -165,14 +165,9 @@ Keepin one eye open, still clockin' the hoes
 There was one particular girl that stood out from the rest
 Poison as can be, the high power chest
 Michael Bivins here and I'm runnin' the show
-Bell, Biv DeVoe 
+Bell, Biv DeVoe
 ... now you know!
 Yo, Slick, blow...
-
-
-
-
-
 
 Yo' fellas, that was another Dope one...
 You know what I'm sayin', Mike?
@@ -182,7 +177,4 @@ And I can't forget about my boy, B. Brown
 And the whole NE crew
 
 POISOOOOOOOOOON...
-
-
-
 

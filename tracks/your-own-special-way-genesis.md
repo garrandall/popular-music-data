@@ -67,9 +67,6 @@ You, you have your own special way
 Hold onto my hand keep it way 'bove the water
 Don't ever let go--no, no, no
 
-
-
-
 What mean the dreams night after night
 The man in the moons' a blinding light
 Won't you come out whoever you are

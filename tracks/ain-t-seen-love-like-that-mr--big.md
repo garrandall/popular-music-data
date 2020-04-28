@@ -34,11 +34,11 @@ rankings:
 ---
 I've been miles from nowhere crossed and doubled back
 Time is a healer and i've done my time
-'Cause i ain't seen love like that
+'Cause I ain't seen love like that
 
 I've seen the light of freedom 'til they fade to black
 So many faces but no one compares
-No i ain't seen love like that
+No I ain't seen love like that
 
 And I've got
 People tellin' me to let her go
@@ -49,7 +49,7 @@ The one that you lost may be found
 I believe in justice
 I wonder where she's at
 It feels like a lifetime and it just ain't fair
-No i ain't seen love like that
+No I ain't seen love like that
 
 And I've got
 People tellin' me to let her go

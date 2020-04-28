@@ -79,9 +79,6 @@ Aa-hooo!
 Aa-hooo! Werewolves of London!
 Aa-hooo!
 
-
-
-
 He's the hairy-handed gent who ran amuck in Kent
 Lately he's been overheard in Mayfair
 You better stay away from him

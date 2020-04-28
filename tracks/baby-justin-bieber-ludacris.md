@@ -92,7 +92,7 @@ rankings:
 
 Ohhh ah
 Ohhh ah
-Ohhhh aaahhh
+Ohhhh ah
 
 You know you love me, I know you care
 Just shout whenever, and I'll be there
@@ -105,14 +105,14 @@ Said there's another and looked right in my eyes
 My first love broke my heart for the first time
 And I was like...
 
-Baby, baby, baby oooh
+Baby, baby, baby oh
 Like baby, baby, baby nooo
-Like baby, baby, baby oooh
+Like baby, baby, baby oh
 I thought you'd always be mine (mine)
 
-Baby, baby, baby oooh
+Baby, baby, baby oh
 Like baby, baby, baby nooo
-Like baby, baby, baby oooh
+Like baby, baby, baby oh
 I thought you'd always be mine (mine)
 
 Oh, for you I would have done whatever
@@ -125,14 +125,14 @@ I'm going down, down, down, down
 And I just can't believe my first love won't be around
 
 And I'm like
-Baby, baby, baby oooh
+Baby, baby, baby oh
 Like baby, baby, baby nooo
-Like baby, baby, baby oooh
+Like baby, baby, baby oh
 I thought you'd always be mine (mine)
 
-Baby, baby, baby oooh
+Baby, baby, baby oh
 Like baby, baby, baby nooo
-Like baby, baby, baby oooh
+Like baby, baby, baby oh
 I thought you'd always be mine (mine)
 
 
@@ -146,14 +146,14 @@ At school on the playground but I really wanna see her on the weekend
 She knows she got me dazing cause she was so amazing
 And now my heart is breaking but I just keep on saying...
 
-Baby, baby, baby oooh
+Baby, baby, baby oh
 Like baby, baby, baby nooo
-Like baby, baby, baby oooh
+Like baby, baby, baby oh
 I thought you'd always be mine (mine)
 
-Baby, baby, baby oooh
+Baby, baby, baby oh
 Like baby, baby, baby nooo
-Like baby, baby, baby oooh
+Like baby, baby, baby oh
 I thought you'd always be mine (mine)
 
 I'm gone (Yeah Yeah Yeah, Yeah Yeah Yeah)

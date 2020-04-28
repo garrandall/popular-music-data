@@ -74,7 +74,7 @@ Get it up, oh yeah
 Partyman, partyman
 Get it up, get it up
 
-"Ooh, I love purple"
+"Oh, I love purple"
 
 I rock the party, I rock the house
 I rock the whole world, north, east and south

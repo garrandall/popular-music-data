@@ -55,13 +55,13 @@ I just can't wait
 I just can't wait
 I just can't wait
 
-Ooooh, girl
+Oh, girl
 Holdin' me so tight
-Ooooh, girl
+Oh, girl
 I can't wait 'til tonight
 
 But I don't care if your daddy says it's wrong
-I just cant stand to be away from you to long
+I just can't stand to be away from you to long
 
 I just can't wait
 I just can't wait

@@ -54,7 +54,7 @@ Def Squad's in the house, with the ... for all you punks
 You would swear Redman was inside the trunk"
 
 
-Ahhh, I'm just as high as three peeled up motherfuckers
+Ah, I'm just as high as three peeled up motherfuckers
 Def Squad's in the house, with the ... for you suckers
 Punks, y'all chumps, I blew the frame once twice
 I'm dumb nice, I bring my worst lyrics to a gunfight
@@ -66,7 +66,7 @@ My grammar, slam from here to York, Alabama
 I never pull my pants up, I'm nutty like Planters
 My style gets Death like Row or Def like Jeff
 Def like Jam or Squad, or death like Meth
-One two!  Big up to my niggaz on one deuce
+One two!  Big up to my niggas on one deuce
 That cocks snaps and busts back at the boys in...
 rrrrrah!  With weed for you!
 Who says I can't burn shit up just like Lisa Lopez?

@@ -121,9 +121,9 @@ Not come and go in a heated rush
 I want somebody who will understand
 When it comes to love, I want a slow hand
 
-Ooh ooh ooh
-Ooh ooh ooh
-Ooh ooh ooh
+Oh ohooh
+Oh ohooh
+Oh ohooh
 
 On shadowed ground, with no one around
 And a blanket of stars in our eyes
@@ -142,7 +142,7 @@ Not come and go in a heated rush
 I found somebody who will understand
 When it comes to love, I want a slow hand
 
-Ooh ooh ooh
+Oh ohooh
 
 If I want it all night
 Please say it's alright
@@ -161,4 +161,4 @@ Ooo, a lover with a slow hand
 And I get all excited with his easy touch
 I found somebody who will spend the night
 Not come and go in a heated rush
-Ooh, lover with a slow hand
+Oh, lover with a slow hand

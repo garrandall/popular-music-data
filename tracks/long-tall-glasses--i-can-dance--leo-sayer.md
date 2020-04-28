@@ -101,7 +101,7 @@ Then yes, I will try my hand
 If you were hungry as me
 Then I'm sure you will understand
 
-Hmmmmmm, now wait a minute
+Hm, now wait a minute
 Of course I can dance
 Of course I can dance
 I'm sure I can dance

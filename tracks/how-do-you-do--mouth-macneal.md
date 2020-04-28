@@ -95,7 +95,7 @@ You said "I love you" too
 But I got one solution left
 We're gonna start anew
 
-How do you do, mm-hmm
+How do you do, mm-hm
 I thought, why not, na-na, na-na
 Just me and you
 And then we can na-na, na-na
@@ -106,7 +106,7 @@ Please give me more
 And you will think na-na, na-na
 Hey, that's what I'm livin' for
 
-How do you do, ooh-hoo
+How do you do, oh-hoo
 I thought, why not, na-na, na-na
 Just me and you
 And then we can na-na, na-na
@@ -127,7 +127,7 @@ You said "I love you" too
 'Cause I had one solution left
 And that's to start anew
 
-How do you do, mm-hmm
+How do you do, mm-hm
 I thought, why not, na-na, na-na
 Just me and you
 And then we can na-na, na-na
@@ -149,7 +149,7 @@ Please give me more
 And you will think na-na, na-na
 Hey, that's what I'm livin' for
 
-How do you do, ooh-hoo
+How do you do, oh-hoo
 La-la, la-la, la-la-la-la
 La-la, la-la
 La-la, la-la, la-la-la-la

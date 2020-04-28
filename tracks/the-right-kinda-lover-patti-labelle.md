@@ -75,8 +75,8 @@ rankings:
 
 A real man
 Strong but tender
-Baby thats the kinda man i need
-to his love i will surrender
+Baby thats the kinda man I need
+to his love I will surrender
 Cause he'll keep his mond on pleasing me
 
 he's the right kinda lover
@@ -90,11 +90,11 @@ sure 'nuff he's got the stuff
 he's the right kinda lover fot me
 
 An interesting conversation
-Every night when i get down on my knees and pray
+Every night when I get down on my knees and pray
 I thank the lord for sending me Mr. Right my way
 This kind of love had to come from heaven down
 I ain't never going to let him go
-Because i need this kind of man around
+Because I need this kind of man around
 
 he's the right kinda lover
 I'll never need another

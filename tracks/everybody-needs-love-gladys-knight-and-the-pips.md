@@ -76,7 +76,7 @@ You need love and I need love
 Everybody needs love
 
 Say you wake up in the morning, yes, you will
-Feeling, ooh, so empty inside
+Feeling, oh, so empty inside
 I bet I know what your trouble is, baby
 You need someone like me by your side
 

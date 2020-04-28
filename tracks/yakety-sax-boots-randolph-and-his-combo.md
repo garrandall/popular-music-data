@@ -1,9 +1,10 @@
 ---
 artists:
-- Boots Randolph and his Combo
+- Boots Randolph
 features: []
 genres: []
 key: yakety-sax-boots-randolph-and-his-combo
+lyrics_url: https://genius.com/Boots-randolph-yakety-sax-lyrics
 name: Yakety Sax
 rankings:
 - end_date: '1963-03-01'
@@ -43,4 +44,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-04-20'
 ---
-
+Instrumental

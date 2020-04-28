@@ -87,6 +87,6 @@ Say you'll leave me never, leave me never
 We can truly feel what you feel
 I feel like you back together
 
-Ooh back together again
-Ooh back together again
-Ooh back together again
+Oh back together again
+Oh back together again
+Oh back together again

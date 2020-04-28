@@ -48,19 +48,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
 ---
-Doll House
-Donnie Brooks
-Written by Louis A Duhig and Ruby Berry
-# 31 pop hit in 1960
 Got a hammer, nail and a hunka wood
 I'll build a doll house
 If you marry me the way I think you should
 I'll build a doll house
 Cutest place you'll ever see
 Big enough for you-woo-woo and me
-If you say you're gonna love me all the ti-i-ime
+If you say you're gonna love me all the time
 I'll build a doll house
-Gonna be so happy when it's your and mi-i-ine
+Gonna be so happy when it's your and mine
 I'll build a doll house
 Cutest place you'll ever see
 Big enough for you-woo-woo and me
@@ -81,4 +77,4 @@ I'll build a doll house
 Cutest place you'll ever see
 Big enough for you-woo-woo and me
 Big enough for you-woo-woo and me
-I'll build a doll house!!
+I'll build a doll house!

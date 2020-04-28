@@ -38,7 +38,7 @@ rankings:
 ---
 You told me that you would leave me here in tears
 Now you're gone and hours seem like years
-So darling, i sing my song
+So darling, I sing my song
 Your leaving makes my heart beat slow and slow
 Now i'm wondering where did you go
 Please tell me, tell me what is wrong

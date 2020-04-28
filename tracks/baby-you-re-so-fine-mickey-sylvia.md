@@ -36,7 +36,7 @@ rankings:
 Hoo-wee, baby
 Baby you`re so fine
 Gotta have your loving any old time
-Oooh, baby
+Oh, baby
 Baby, baby
 You`re so fine, fine, fine
 
@@ -44,7 +44,7 @@ Hoo-wee, baby
 Remember last night?
 You said you were leaving
 We had a big fight
-Oooh, baby
+Oh, baby
 Baby, baby
 You`re so fine, fine, fine
 
@@ -58,7 +58,7 @@ Hoo-wee, baby
 Gotta let you know
 What you reap, baby
 You sure gotta sow
-Oooh, baby
+Oh, baby
 Baby, baby
 You`re so fine, fine, fine
 
@@ -67,13 +67,13 @@ You`re so fine, fine, fine
 Hoo-wee, baby
 Baby, you`re so fine
 Gotta have your loving any old time
-Oooh, baby
+Oh, baby
 Baby, baby
 You`re so fine, fine, fine
-Oooh, baby
+Oh, baby
 Like to make-a your all mine, mine, mine
 
-Oooh, baby
+Oh, baby
 Baby, baby
 You`re so fine, fine, fine
-Oooh, baby
+Oh, baby

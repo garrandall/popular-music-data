@@ -224,7 +224,3 @@ He is mine,
 My property,
 So you must leave.
 
-
-
-
-

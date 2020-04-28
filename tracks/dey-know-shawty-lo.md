@@ -84,7 +84,7 @@ Sing it and ring it to a brother
 Free of charge
 Hey
 
-L O, L O, Dey Know, Dey Know 
+L O, L O, Dey Know, Dey Know
 
 Shawty Lo I got Flavor
 Let's you know the kid got paper
@@ -100,34 +100,34 @@ yeah no more nosey ass neighbors
 big ups to all my haters
 
 
-L O, L O, Dey Know, Dey Know 
+L O, L O, Dey Know, Dey Know
 
 (Shawty Lo Man hey, hey)
 I'm the man and they know that
 I got cash, I'm talking throw back
 100 grand
 what's that
-I hit club and i blow that
+I hit club and I blow that
 All these hoes know Lo that
 I'm picture perfect, made for Kodak
 Let's talk money, I got plenty
 Dope boys let's get, get ,get it
 
 
-L O, L O, Dey Know, Dey Know 
+L O, L O, Dey Know, Dey Know
 
-L O, L O, Dey Know, Dey Know 
+L O, L O, Dey Know, Dey Know
 
 Hey, Hey, Hey, Hey, How you doing it's L O
 Said you see three I'm the one middle
-I don't need this beat, i could rock it acapello
-I want my juice, all i needed was some skittles
+I don't need this beat, I could rock it acapello
+I want my juice, all I needed was some skittles
 Yea now I'm King, yes sir just like G
 A-Town fitted who but me
 L O, she know, he know, they know, they know, I am
 
 
-L O, L O, Dey Know, Dey Know 
+L O, L O, Dey Know, Dey Know
 
 Dey Know, Dey Know
 Dey Know, Dey Know

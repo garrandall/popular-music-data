@@ -46,9 +46,6 @@ I pray every night
 That the angels are watching
 And treating you right
 
-
-
-
 I sing to myself
 So nobody hears
 There's just no escaping

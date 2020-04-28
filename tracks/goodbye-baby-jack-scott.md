@@ -72,8 +72,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-30'
 ---
-Ooh, bye bye
-Ooh, bye bye
+Oh, bye bye
+Oh, bye bye
 
 Goodbye baby, bye bye
 Goodbye baby, bye bye
@@ -114,5 +114,5 @@ Oh, oh
 Goodbye, bay-hey, hey, hey
 Goodbye, bay-hey, hey, hey
 
-Ooh, bye bye
-Ooh, bye bye
+Oh, bye bye
+Oh, bye bye

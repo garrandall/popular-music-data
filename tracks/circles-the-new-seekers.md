@@ -72,9 +72,3 @@ All my life's a circle
 And I can't tell you why
 The seasons spinning round again
 The years keep rolling by
-
-(Repeat chorus)
-
-(Repeat chorus)
-
-(Repeat chorus & fade)

@@ -45,7 +45,7 @@ Hip cats and fancy hats and
 Pretty girls with pretty smiles
 All decked out in the latest styles
 And Farmer Jim and Guitar Slim and
-Betty Boop and ooo-boop-e-doop
+Betty Boop and oo-boop-e-doop
 And Mohair Sam from Alabam'
 And Minnesota Fats from Hobo Flats
 Breath-takin' hip-shakin' give it now

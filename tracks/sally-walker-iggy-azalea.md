@@ -13,7 +13,7 @@ rankings:
   start_date: '2019-03-30'
 ---
 
-J. White, I need a beat, I can't go off, off (Ooh)
+J. White, I need a beat, I can't go off, off (Oh)
 
 Lil Sally Walker walkin' down the street
 She didn't know what to do, so she jumped in front of me

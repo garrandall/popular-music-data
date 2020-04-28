@@ -127,9 +127,6 @@ When you're there
 See what you want to see
 But please have (some) faith in me
 
-
-
-
 (Come on)
 Together
 (I can't wait)

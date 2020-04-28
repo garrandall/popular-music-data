@@ -77,7 +77,7 @@ So I'ma say doodoo doodoo doodoo doodoo
 Baby, what if
 We all can say doodoo doodoo doodoo doodoo (yeah)
 Baby, what if
-But we can't (we can't), we can't (ooh) tell the future, no
+But we can't (we can't), we can't (oh) tell the future, no
 But that's just, the beauty of the world we know
 So I'ma say doodoo doodoo doodoo doodoo (singing oh)
 Baby, what if

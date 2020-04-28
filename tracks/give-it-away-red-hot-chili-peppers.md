@@ -114,9 +114,6 @@ Give it 'way, give it 'way, give it 'way now
 Give it 'way, give it 'way, give it 'way now
 I can't tell if I'm a kingpin or a pauper
 
-
-
-
 Lucky me swimming in my ability
 Dancing down on life with agility
 Come and drink it up from my fertility

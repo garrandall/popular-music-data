@@ -29,8 +29,8 @@ rankings:
   start_date: '1986-03-29'
 ---
 
-Oooo-ooo- twist my arm
-Oooo-ooo- twist my arm
+Oooo-oo- twist my arm
+Oooo-oo- twist my arm
 I'll give you something
 Don't you want it that bad
 Do you want it
@@ -47,8 +47,8 @@ Always here to feed it
 Love you like you need
 Just twist my arm
 
-Oooo-ooo- twist my arm
-Oooo-ooo- twist my arm
+Oooo-oo- twist my arm
+Oooo-oo- twist my arm
 
 I've got a sweet tooth
 I like sweet things

@@ -60,7 +60,7 @@ Got my mans that put me on, you know what I'm sayin
 want a shout out to the Uptown, know what sayin
 Word up
 MCA, this is how we do everyday
-Me and Freaky Tah..hah
+Me and Freaky Tah...hah
 pretty Lou, my man, Spigg Nice
 we be gettin' down representin
 so this is how we go
@@ -78,7 +78,7 @@ I'm representin' puttin' Queens on the map (you wear)
 double springs, wit some baggy jeans when I rap
 Come up with a style to make con-versital
 don't treat me like no lame I've been in this game for awhile
-I've seen alot ta come, (come) 
+I've seen alot ta come, (come)
 I've seen alot a go(go), I've seen alot ta break
 I've seen alot to blow, a yo
 It's a trip to see a nigga slip
@@ -91,7 +91,7 @@ Put on your leather gloves, and hats and get your picture mats
 and get the gats just in case you take it to the stacks
 
 
-Shout out to the Jeeps, 
+Shout out to the Jeeps,
 It's the Lex Coups, Bimas and the Benz (and the Benz)
 to all my ladies and my men (my men)
 to all my peoples in the pen (in the pen)
@@ -103,8 +103,8 @@ and if you're with me let me hear you say "Ri-ght"
 
 
 Now a... Now... Now a dayz
-niggaz frontin' like they ill (like they ill)
-now bustin' caps and got a muthafuckin' 
+niggas frontin' like they ill (like they ill)
+now bustin' caps and got a muthafuckin'
 things to do to show his skill
 Recognize, nigga what you frontin' for
 I know your style
@@ -117,7 +117,7 @@ in the day, Ace Duce Tre, at the best
 up to Zimbobwae, hey
 whose the best, I want the best to come test me
 so I can release some stress from my chest G
-Is you down to go pound for pound, 
+Is you down to go pound for pound,
 toe to toe, blow for blow, round for round
 I'm wonderin' cuz I bring the thunder and the rain
 causin' confusion to your brain
@@ -126,28 +126,25 @@ causin' confusion to your brain
 
 
 Keep the shit live for the year Nine Five
-I got more niggaz in my tribe 
+I got more niggas in my tribe
 than theres beez in the bee hive
 LB Fam everyday stay high
 Mr. Cheeks, everyday high
 consentrate to get my shit straight, make us wait
 Before it's too fuckin' late
-The Lost Boyz, yeah that's who I be'z wit, 
+The Lost Boyz, yeah that's who I be'z wit,
 that's who I runs wit
 who I smoke Treez wit
-Pack your bags, head outta town, 
+Pack your bags, head outta town,
 I'll be back around so be gone before sundown
-From Jamaica comes a nigga named Cheeks, 
+From Jamaica comes a nigga named Cheeks,
 with techniques of the streets
 over rough neck beats
-This room is going bounce about the Cheeks cant remember
+This room is going bounce about the Cheeks can't remember
 I'm the muthafucker choppin' crews like a chainsaw
 Talk what you what ta
 do what you gotta
-well let me tell you something man you cant do me nadda
-
-
-
+well let me tell you something man you can't do me nadda
 
 Now if you listen to my album, you see we only deal
 wit the real deal street life

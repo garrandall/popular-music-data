@@ -77,7 +77,7 @@ Come out tonight, come out tonight
 A-plain Jane won't-cha come out tonight
 Spend some time with me
 
-Ooh, wee
+Oh, wee
 Oh, yeah
 
 I used to go with glamour girls

@@ -59,8 +59,8 @@ Baby, what you say to that? What you say to that?
 Hey baby, you need a change of mind, baby
 What you say to that?
 
-Ooh la, la, la, la, la, la, la
-Ooh la, la, la, la, la, la, la
+Ohla, la, la, la, la, la, la
+Ohla, la, la, la, la, la, la
 
 Baby, (Yeah) girl you need a change of mind
 Oh baby, girl you need a change of mind

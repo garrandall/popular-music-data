@@ -41,7 +41,7 @@ I don't want no little boy
 But you, you are serious
 Don't go play with my heart, makes me furious
 And if you want me to love you
-Ooh baby I will, ooh yeah I will
+Oh baby I will, oh yeah I will
 
 Tell it like it is
 Oh yeah, just let your conscience be your guide
@@ -55,7 +55,7 @@ I wanna live, I wanna live
 
 Tell it like it is
 Don't be ashamed now let your conscious be your guide
-Ooh yeah, and deep down inside I belive you love me
+Oh yeah, and deep down inside I belive you love me
 Just forget your foolish pride
 
 Tell it like it is

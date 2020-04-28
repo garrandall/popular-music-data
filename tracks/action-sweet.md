@@ -85,7 +85,7 @@ Everybody needs a main attraction!
 I got what everybody needs, satisfaction guaranteed!
 Everybody wants a piece of the action...
 
-Ooh, I was suicidal 'cause she was my idol
+Oh, I was suicidal 'cause she was my idol
 Baby, baby, baby, bring it to your knees
 Now, there was a time I would have walked the line
 But you bled me dry

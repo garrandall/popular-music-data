@@ -109,7 +109,3 @@ You make me wanna cry
 I never knew, I never knew, I never knew why
 Forever Live and Die
 
-
-
-
-

@@ -53,7 +53,7 @@ I've had it, yeah, I've had it
 
 First you call me for a date
 Then you show up two hours late
-I've had it, ooh, I've had it
+I've had it, oh, I've had it
 
 La la la la la...
 

@@ -26,13 +26,13 @@ Park it, park it, park it (skrrt)
 Heard that everybody know we workin' (work)
 Young nigga still murk it (yeah)
 Young nigga whip the birdie (woo)
-Ooh watch 'em movin' (ooh)
-Ooh, shake 'em out the shoes (shake 'em out the shoes)
-Ooh, VVS jewels, GI Jew, nigga what it do? yeah
+Oh watch 'em movin' (oh)
+Oh, shake 'em out the shoes (shake 'em out the shoes)
+Oh, VVS jewels, GI Jew, nigga what it do? yeah
 
 Probably think it's outlandish (outlandish)
 But my business too fancy (yeah)
-Ooh, sweet like candy (sweet)
+Oh, sweet like candy (sweet)
 Yeah, jumpin' off Banshees (go)
 TEC with the coolant, can't handle it (TEC)
 TEC with the coolant, can't handle it (brrt)
@@ -71,12 +71,12 @@ Park it, park it, park it (skrrt)
 Heard that everybody know we workin' (work)
 Young nigga still murk it (yeah)
 Young nigga whip the birdie (woo)
-Ooh watch 'em movin' (ooh)
-Ooh, shake 'em out the shoes (shake 'em out the shoes)
-Ooh, VVS jewels, GI Jew, nigga what it do? yeah
+Oh watch 'em movin' (oh)
+Oh, shake 'em out the shoes (shake 'em out the shoes)
+Oh, VVS jewels, GI Jew, nigga what it do? yeah
 
 
-Ooh, shake him out his shoes
+Oh, shake him out his shoes
 When it come to the gang gang we can't lose (lose)
 If it is not 'bout them benjamins then I refuse (to what)
 To ever have a conversation (conversate)
@@ -107,9 +107,9 @@ Park it, park it, park it (skrrt)
 Heard that everybody know we workin' (work)
 Young nigga still murk it (yeah)
 Young nigga whip the birdie (woo)
-Ooh watch 'em movin' (ooh)
-Ooh, shake 'em out the shoes (shake 'em out the shoes)
-Ooh, VVS jewels, GI Jew, nigga what it do? yeah
+Oh watch 'em movin' (oh)
+Oh, shake 'em out the shoes (shake 'em out the shoes)
+Oh, VVS jewels, GI Jew, nigga what it do? yeah
 
 
 (Offset)
@@ -146,9 +146,9 @@ Park it, park it, park it (skrrt)
 Heard that everybody know we workin' (work)
 Young nigga still murk it (yeah)
 Young nigga whip the birdie (woo)
-Ooh watch 'em movin' (ooh)
-Ooh, shake 'em out the shoes (shake 'em out the shoes)
-Ooh, VVS jewels, GI Jew, nigga what it do? yeah
+Oh watch 'em movin' (oh)
+Oh, shake 'em out the shoes (shake 'em out the shoes)
+Oh, VVS jewels, GI Jew, nigga what it do? yeah
 
 
 

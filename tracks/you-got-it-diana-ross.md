@@ -52,7 +52,7 @@ All I ever dreamed
 I found in you
 
 
-Ooh, you got it
+Oh you got it
 There's no way
 I'm gonna live without it
 Nothing can stop it
@@ -72,7 +72,7 @@ That gets me all undone
 
 When you took my life
 And turned it all around
-Ooh
+Oh
 You got me flying
 Don't take me down
 
@@ -93,5 +93,5 @@ Do it now
 
 
 
-Ooh
+Oh
 You got it

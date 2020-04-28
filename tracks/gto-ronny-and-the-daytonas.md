@@ -67,7 +67,7 @@ C'mon and turn it on, wind it up, blow it out GTO
 
 Wa-wa, (mixed with "Yeah, yeah, little GTO") wa, wa, wa, wa, wa, wa
 Wa-wa, (mixed with "Yeah, yeah, little GTO") wa, wa, wa, wa, wa, wa
-Wa-wa (mixed with "Ahhh, little GTO") wa, wa, wa, wa, wa, wa
+Wa-wa (mixed with "Ah, little GTO") wa, wa, wa, wa, wa, wa
 
 You oughta see her on a road course or a quarter mile
 This little modified Pon-Pon has got plenty of style
@@ -76,7 +76,7 @@ C'mon and turn it on, wind it up, blow it out GTO
 
 Wa-wa, (mixed with "Yeah, yeah, little GTO") wa, wa, wa, wa, wa, wa
 Wa-wa, (mixed with "Yeah, yeah, little GTO") wa, wa, wa, wa, wa, wa
-Wa-wa (mixed with "Ahhh, little GTO") wa, wa, wa, wa, wa, wa
+Wa-wa (mixed with "Ah, little GTO") wa, wa, wa, wa, wa, wa
 
 Gonna save all my money (turnin' it on, blowin' it out) and buy a GTO
 (Turnin' it on, blowin' it out)
@@ -89,4 +89,4 @@ When I turn it on, wind it up, blow it out, GTO
 
 Wa-wa, (mixed with "Yeah, yeah, little GTO") wa, wa, wa, wa, wa, wa
 Wa-wa, (mixed with "Yeah, yeah, little GTO") wa, wa, wa, wa, wa, wa
-Wa-wa (mixed with "Ahhh, little GTO") wa, wa, wa, wa, wa, wa
+Wa-wa (mixed with "Ah, little GTO") wa, wa, wa, wa, wa, wa

@@ -13,23 +13,19 @@ rankings:
   start_date: '2010-06-19'
 ---
 
-You ain't got no kind of feeling inside 
-I got something that will sure 'nuff set your stuff on fire 
-You refuse to put anything before your pride 
-I got something that will knock all your pride aside 
+You ain't got no kind of feeling inside
+I got something that will sure 'nuff set your stuff on fire
+You refuse to put anything before your pride
+I got something that will knock all your pride aside
 
 
-Tell me something good (tell me, tell me, tell me) 
-Tell me that you love me 
-Tell me something good (tell me, tell me, tell me) 
-Tell me that you like it, yeah 
+Tell me something good (tell me, tell me, tell me)
+Tell me that you love me
+Tell me something good (tell me, tell me, tell me)
+Tell me that you like it, yeah
 
-Got no time is what you're known to say 
-I'll make you wish there were 48 hours to each day 
-Problem is you ain't been loved like you should 
-What I got to give will sure 'nuff do you good 
-
-
-
-
+Got no time is what you're known to say
+I'll make you wish there were 48 hours to each day
+Problem is you ain't been loved like you should
+What I got to give will sure 'nuff do you good
 

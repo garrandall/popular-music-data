@@ -90,10 +90,10 @@ Hey, what's that sound?(what’s that sound?)
 Everybody look what's going down(Everybody look what’s going down)
 
 
-What a field day for the heat(Ooo-ooo-ooo)
-A thousand people in the street (Ooo-ooo-ooo)
-Singing songs and a carryin’ signs (Ooo-ooo-ooo)
-Mostly say, "hooray for our side" (Ooo-ooo-ooo)
+What a field day for the heat(Ooo-oo-oo)
+A thousand people in the street (Ooo-oo-oo)
+Singing songs and a carryin’ signs (Ooo-oo-oo)
+Mostly say, "hooray for our side" (Ooo-oo-oo)
 
 
 It's time we stopped(stopped)
@@ -124,4 +124,4 @@ Everybody look what's going(everybody look what’s going)
 
 We better stop(stop)
 Children, what's that sound?(what’s that sound?)
-Everybody look what's going down.... (everybody look...
+Everybody look what's going down... (everybody look...

@@ -103,4 +103,3 @@ Now you're on your own
 How does it feel
 To feel the way I used to feel
 
-Chorus

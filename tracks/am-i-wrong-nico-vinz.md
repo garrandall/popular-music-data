@@ -133,8 +133,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2014-11-29'
 ---
-Ooh, ooh
-Ooh, ooh
+Oh oh
+Oh oh
 
 
 Am I wrong for thinkin' out the box from where I stay?
@@ -149,10 +149,10 @@ So am I wrong
 For thinkin' that we could be something for real?
 Now am I wrong
 For tryin' to reach the things that I can't see?
-But that's just how I feel (Ooh, ooh)
-That's just how I feel (Ooh, ooh)
+But that's just how I feel (Oh oh
+That's just how I feel (Oh oh
 That's just how I feel
-Trying to reach the things that I can't see (Ooh, ooh, see, see)
+Trying to reach the things that I can't see (Oh oh see, see)
 
 
 Am I trippin' for having a vision?
@@ -173,10 +173,10 @@ For thinkin' that we could be something for real?
 Now am I wrong (Am I wrong?)
 For tryin' to reach the things that I can't see?
 (Oh, yeah, yeah, yeah, yeah)
-But that's just how I feel (Ooh, ooh)
-That's just how I feel (Ooh, ooh)
+But that's just how I feel (Oh oh
+That's just how I feel (Oh oh
 That's just how I feel
-Trying to reach the things that I can't see (Ooh, ooh, see, see)
+Trying to reach the things that I can't see (Oh oh see, see)
 
 
 If you tell me I'm wrong, wrong
@@ -193,10 +193,10 @@ Am I wrong
 For thinkin' that we could be something for real?
 Now am I wrong
 For tryin' to reach the things that I can't see?
-But that's just how I feel (Ooh, ooh)
-That's just how I feel (Ooh, ooh)
+But that's just how I feel (Oh oh
+That's just how I feel (Oh oh
 That's just how I feel
-Trying to reach the things that I can't see (Ooh, ooh, see, see)
+Trying to reach the things that I can't see (Oh oh see, see)
 
 So am I wrong (Am I wrong?)
 For thinkin' that we could be something for real?
@@ -204,7 +204,7 @@ For thinkin' that we could be something for real?
 Now am I wrong (Am I wrong?)
 For trying to reach the things that I can't see?
 (Oh, yeah, yeah, yeah, yeah)
-But that's just how I feel  (Ooh, ooh)
-That's just how I feel  (Ooh, ooh)
+But that's just how I feel  (Oh oh
+That's just how I feel  (Oh oh
 That's just how I feel
-Trying to reach the things that I can't see (Ooh, ooh, see, see)
+Trying to reach the things that I can't see (Oh oh see, see)

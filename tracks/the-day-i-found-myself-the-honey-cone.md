@@ -59,7 +59,7 @@ Familiar way of wanting someone who don't want you
 You know, men are full of schemes
 And they're masters of getting control of our minds
 And making us dependent on them
-Hmm! Well, girls
+Hm! Well, girls
 I was in that weaken boat on trouble waters for years
 And believe me, I've been through it all
 But this fool got wise

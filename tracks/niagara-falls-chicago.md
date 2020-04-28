@@ -57,7 +57,3 @@ Until the end of time,
 Till hell freezes over,
 You are forever mine
 
-
-
-
-

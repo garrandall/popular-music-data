@@ -130,9 +130,6 @@ You were my love
 Feeling
 The pain
 
-
-
-
 Oh it's too hot (too hot)
 Too hot, lady (too hot)
 Gotta run for shelter

@@ -115,7 +115,6 @@ Oh how I'd love to take a trip
 I'm sorry teacher but zip your lip
 Because it's summertime
 
-(Chorus)
 
 Well we'll go swimmin' every day
 No time to work just time to play

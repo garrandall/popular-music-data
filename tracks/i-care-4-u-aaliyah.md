@@ -110,7 +110,7 @@ I care 4 you (oh yeah)
 
 Can I talk to you (I wanna talk)
 Comfort you (Gotta let you know babay)
-Let you know 
+Let you know
 I care 4 you (I care)
 
 Hey sexy baby
@@ -135,7 +135,7 @@ I care 4 you (Gotta let you know, that I love you)
 Hold on (Hold on)
 Stay strong (Stay strong)
 Press on (For me baby)
-I care 4 you ( I care 4 you) 
+I care 4 you ( I care 4 you)
 Hold on (Hold on)
 Stay strong (Stay strong)
 Press on (Press on for me)
@@ -146,7 +146,7 @@ Comfort you (I wanna hold you tight baby)
 Let you know (I wanna let you know)
 I care 4 you (That I care for you)
 
-Can I talk to you (ohhh)
+Can I talk to you (oh)
 
 
 

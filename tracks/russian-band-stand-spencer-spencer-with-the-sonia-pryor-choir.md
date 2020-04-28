@@ -1,7 +1,6 @@
 ---
 artists:
-- Spencer
-- Spencer with the Sonia Pryor Choir
+- Spencer and Spencer
 features: []
 genres: []
 key: russian-band-stand-spencer-spencer-with-the-sonia-pryor-choir

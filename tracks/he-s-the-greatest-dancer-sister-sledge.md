@@ -119,7 +119,7 @@ Arrogance but not conceit as a man he is complete
 My crÃ¨me de la crÃ¨me, please take me home
 
 He wears the finest clothes, the best designers, heaven knows
-Ooh, from his head down to his toes
+Oh from his head down to his toes
 Halston, Gucci, Fiorucci, he looks like a still
 That man is dressed to kill
 

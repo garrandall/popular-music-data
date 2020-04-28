@@ -203,7 +203,7 @@ Pulled my trigger, now he's dead.
 Mama, life had just begun,
 But now I've gone and thrown it all away.
 
-Mama, ooh,
+Mama, oh,
 Didn't mean to make you cry,
 If I'm not back again this time tomorrow,
 Carry on, carry on as if nothing really matters.
@@ -214,7 +214,7 @@ Body's aching all the time.
 Goodbye, everybody, I've got to go,
 Gotta leave you all behind and face the truth.
 
-Mama, ooh (any way the wind blows),
+Mama, oh (any way the wind blows),
 I don't wanna die,
 I sometimes wish I'd never been born at all.
 
@@ -247,7 +247,7 @@ So you think you can love me and leave me to die?
 Oh, baby, can't do this to me, baby,
 Just gotta get out, just gotta get right outta here.
 
-(Ooooh, ooh yeah, ooh yeah)
+(Oh, oh yeah, oh yeah)
 
 Nothing really matters,
 Anyone can see,

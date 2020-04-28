@@ -74,7 +74,7 @@ Taxes, death and trouble
 
 This I know, baby, this I know, child
 Yeah, let the sweat through you, baby
-Got me singing, yeah, yeah, ooh
+Got me singing, yeah, yeah, oh
 
 
 I come up hard, baby, I had to fight

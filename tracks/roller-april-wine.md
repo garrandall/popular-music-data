@@ -69,9 +69,9 @@ She's tellin' all the boys she's hot
 And everybody knows she's ready
 To give it everything that she got
 
-Ooh, she's a roller, now, a high roller baby, my my
-Ooh, she's a roller, yeah, a high roller baby
-Look out, ooh!
+Oh she's a roller, now, a high roller baby, my my
+Oh she's a roller, yeah, a high roller baby
+Look out, oh
 
 Bye-bye, bye-bye, bye-bye, bye-bye
 Bye-bye, bye-bye, bye-bye
@@ -81,11 +81,11 @@ She doesn't hear a word they say
 Tellin' all the boys to get ready
 'Cause she's givin' it all away
 
-Ooh, she's a roller, yeah (Roller), a high roller baby, yeah
+Oh she's a roller, yeah (Roller), a high roller baby, yeah
 She's a roller, yeah (Roller), a high roller baby, she is
 
 She's a roller (Roller), a high roller baby, yeah
-She's a roller (Roller), a high roller baby, ooh
+She's a roller (Roller), a high roller baby, oh
 
 Bye-bye (Bye-bye, bye-bye, bye-bye)
 Bye-bye (Bye-bye, bye-bye, bye-bye)

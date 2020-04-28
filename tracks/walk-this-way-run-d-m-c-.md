@@ -98,7 +98,7 @@ Walk this way, talk this way (She told me to)
 Walk this way, talk this way
 Walk this way, talk this way
 Well just gimme a kiss
-Ooh, like this!
+Oh, like this!
 
 
 School girl sleazy with a classy kind of sassy

@@ -81,7 +81,7 @@ Come on, come on, come on, come on
 (Come on, come on)
 Let's have this baby
 (Come on, make a baby, come on, make a baby)
-A boy, a girl, ooh
+A boy, a girl, oh
 (Come on, come on)
 It's still your baby
 (Come on, make a baby, come on, make a baby)
@@ -137,7 +137,7 @@ The world will be makin' babies
 (Come on, make a baby, come on, make a baby)
 Think it over, think it over, think it over
 (Come on, come on)
-Let's have a baby, mmm hmm, come on
+Let's have a baby, mmm hm, come on
 (Come on, make a baby, come on, make a baby)
 
 Come on, come on, come on, come on

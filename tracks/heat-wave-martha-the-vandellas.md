@@ -89,8 +89,8 @@ Burning in my heart (It's like a heat wave)
 I can't keep from crying (It's like a heat wave)
 It's tearing me apart
 
-Ooh, heat wave
-Ooh, heat wave
+Oh heat wave
+Oh heat wave
 
 Sometimes I stare in space
 Tears all over my face

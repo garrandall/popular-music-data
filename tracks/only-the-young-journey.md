@@ -100,9 +100,6 @@ They're free to fly away
 Sharing the same desires
 Burning like wildfire
 
-
-
-
 Only the young can say
 They're free to fly away
 Sharing the same desires

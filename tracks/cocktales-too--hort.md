@@ -130,7 +130,7 @@ Break her ass for everything, cause I came to pimp.
 I'm Too $hort baby, I don't stop mackin
 I grab the microphone and I don't stop rappin.
 You can bet your life as I spit these raps
-I'll be funkin em up like that..... BITCH
+I'll be funkin em up like that... BITCH
 
 
 

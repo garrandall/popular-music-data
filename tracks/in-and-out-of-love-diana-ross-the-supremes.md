@@ -50,15 +50,15 @@ I long to find a love i'm sure about
 That certain kind of love that moves all doubts
 Keep falling in and out of love
 Still searchin' for that special one
-To whom i can give my love completely
+To whom I can give my love completely
 And feel a lasting love so sweetly
-Just when i feel sure love's here to stay
+Just when I feel sure love's here to stay
 It seems to suddenly just fade away
 Can't seem to find that everlasting love
 That this heart of mine needs so much of
 Keep falling in and out of love
 Can't seem to find the lasting kind
-It seems i can't find the joy i need
+It seems I can't find the joy I need
 Love always somehow all goes wrong for me
 Keep falling in and out of love
 Keep falling in and out of love

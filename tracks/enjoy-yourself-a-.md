@@ -57,7 +57,6 @@ Girls steady sayin, look I can see who the God is
 You can't harm me or stop me
 Even on a poor quality bootleg cassette copy
 
-Chorus
 
 Yo yo yo, take ya time, make up ya mind
 The dime pieces love the diamonds and the shine
@@ -72,4 +71,3 @@ Take my time, don't wanna catch no rape cases
 Kiss her on the forehead and say goodnight
 A+ y'all, and I'm out like three strikes
 
-Chorus

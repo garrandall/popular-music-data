@@ -54,7 +54,3 @@ Your heart won't lie
 Rock and Roll hearts
 Just never die, never die
 
-
-
-
-

@@ -177,9 +177,6 @@ So bring back the beat
 And then everyone sing
 It's not about the money
 
-
-
-
 Yeah, yeah
 Oh-oh
 Forget about the price tag, yeah

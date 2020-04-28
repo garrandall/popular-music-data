@@ -45,14 +45,14 @@ rankings:
   start_date: '2001-01-27'
 ---
 
-Ha ha ha (ahh)
+Ha ha ha (ah)
 
 Don't wanna hurt you (hurt you baby)
 You think you love me, but you don't really know me
 Don't wanna hurt you (hurt you baby)
 Wanna go ride, not a backseat drive
-Ahhhhh ooh - ay ay ay on me
-Ahhhhh ohh - something inside that you can't provide
+Ah oh- ay ay ay on me
+Ah oh - something inside that you can't provide
 
 I'm feeling the itch again
 I need to get tricked again
@@ -63,15 +63,15 @@ I need to get tricked again
 I feel the itch again
 I feel the itch
 
-i-i-itch, i-i-i-i-itch (ahh)
-i-i-itch (ahh), i-i-i-i-itch
+i-i-itch, i-i-i-i-itch (ah)
+i-i-itch (ah), i-i-i-i-itch
 
 Don't want to hurt you (hurt you baby)
 You can hurt me, but you can't really hold me
 what I do, it's crazy
 Don't wanna be cold, but I'm out of control
-Ahhhhh ooh - ay ay ay that's true
-Ahhhhh ooh - wish I could, but I can't be good
+Ah oh- ay ay ay that's true
+Ah oh- wish I could, but I can't be good
 
 I'm feeling the itch again
 I need to get tricked again
@@ -82,8 +82,8 @@ I need to get tricked again
 I feel the itch
 I feel the itch again
 
-i-i-itch, i-i-i-i-itch (ahh)
-i-i-itch (ahh), i-i-i-i-itch
+i-i-itch, i-i-i-i-itch (ah)
+i-i-itch (ah), i-i-i-i-itch
 
 Cause I want to go down before I feel my heart
 Now don't you know that I get restless
@@ -93,7 +93,7 @@ So feel the itch again
 Itch
 Itch
 
-Ahhhhh ooh - ay ay ay I need
+Ah oh- ay ay ay I need
 Something inside that you can't provide
 
 I'm feeling the itch again

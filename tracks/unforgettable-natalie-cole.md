@@ -92,7 +92,7 @@ Thinks that I am unforgettable too
 
 
 No, never before has someone been more
-Ooh unforgettable (unforgettable)
+Ohunforgettable (unforgettable)
 In every way (in every way)
 And forevermore (and forevermore)
 That's how you'll stay (that's how you'll stay)

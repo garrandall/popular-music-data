@@ -68,14 +68,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-02-16'
 ---
-She get it from her momma (Daa-aaa-aamn)
+She get it from her momma (Damn)
 She get it from her momma
 She get it from her momma
 (Bring it on in)she get it from her momma
 (Uh-huh)she get it from her momma
 (Uh-ah)she get it from her momma
-(Uh-ah, Uh-ah, Uh-ah, Uh-ah)she get it from her momma
-Verse1(Juvenile)
+(Uh-ah, Uh-ah, Uh-ah, Uh-ah)
+she get it from her momma
+
 Where she get her eyes from? she get it from her momma
 Where she get her thighs from? she get it from her momma
 Where she learn how to cook from? she get it from her momma
@@ -92,12 +93,10 @@ I wounder why she so crazy? she get it from her momma
 Why she wanna be my old lady? she get it from her momma
 Why she be actin like that? she get it from her momma
 Why she aint give me the cat? she get it from her momma
-(Chorus)
+
 Big fine woman make you smile
 When she pass you damn that girl
-Sexy ha momma got ass too (4x)
-
-(Verse2)
+Sexy ha momma got ass too
 
 Why she swear she the boss? she get it from her momma
 Why she always gotta call the law? she get it from her momma

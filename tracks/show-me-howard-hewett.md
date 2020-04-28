@@ -48,7 +48,7 @@ Hangin? in a Spanish sky but before right or wrong, hoo, girl
 
 You?ve got to let me know
 Just how far to let this go
-(Ooh)
+(Oh)
 Help me
 (Darling, please show me)
 Show me
@@ -68,7 +68,7 @@ Or better still make our own private show
 And we?ll love so deeply, I feel your arms completely
 With love that only we can share
 I?ll taste your sweet lips, caress your fingertips
-But before I go on, hoo, ooh, ooh
+But before I go on, hoo, oh oh
 
 You?ve got to let me know
 (You know, baby)

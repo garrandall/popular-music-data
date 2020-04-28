@@ -59,7 +59,7 @@ Chorus:
 I know I should get some sleep
 I am at the beginning of another long week
 But I don't want you to go
-No i dont want you to go
+No I don't want you to go
 I guess another minute wouldn't do no harm
 Why not spend it in each other's arms
 Cuz I don't want you to go
@@ -72,10 +72,8 @@ Before we know it its after 4
 I know tomorrow my best friend will be my coffee cup
 Cause here we go again watching the sun come up
 
-Chorus
 
 I know tomorrow my best friend will be my coffee cup
 Because here we go again
 Watching the sun come up oh yeah
 
-Chorus

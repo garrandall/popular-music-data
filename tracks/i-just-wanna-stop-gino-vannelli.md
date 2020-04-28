@@ -97,7 +97,7 @@ For your love
 When I think about those nights in Montreal
 I get the sweetest thoughts of you and me
 Memories of love above the city lights
-Ooh, I tried so hard to take it
+Oh, I tried so hard to take it
 But oh Lord my heart won't make it
 
 I just wanna stop
@@ -110,7 +110,7 @@ For your love
 When I think about the way the world must turn
 I get the saddest thoughts for you and me
 Memories of life and times go on and on
-Ooh, I've tried hard to forget it
+Oh, I've tried hard to forget it
 But of Lord my mind won't let it
 
 I just wanna stop
@@ -120,7 +120,7 @@ The world ain't right without you babe
 I just wanna stop
 For your love
 
-Ooh, I've tried so hard to take it
+Oh, I've tried so hard to take it
 But oh Lord my heart won't make it
 
 I just wanna stop

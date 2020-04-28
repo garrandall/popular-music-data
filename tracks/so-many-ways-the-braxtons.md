@@ -42,10 +42,10 @@ rankings:
 ---
 Woo
 Ah
-Ooh oh oh oh
+Oh oh oh oh
 Ha ha, uh
 Woo
-So many ways I can love you right (Ooh oh oh oh)
+So many ways I can love you right (Oh oh oh oh)
 It's going down, y'all
 It's going down like this
 
@@ -66,11 +66,11 @@ I can love you
 Let me count the ways
 
 In so many ways I can love you (check it out, y'all, oh)
-In so many ways (ooh oh oh oh)
+In so many ways (oh oh oh oh)
 In so many ways I can blow your mind
 I can blow your mind
 In so many ways I can love you (yeah)
-I can love you right (ooh oh oh oh)
+I can love you right (oh oh oh oh)
 In so many ways
 Show you a real good time (it's going down)
 Count the ways
@@ -93,21 +93,21 @@ I can love you (shh)
 Let me count the ways
 
 In so many ways I can love you (hey)
-So many ways I can love you (ooh oh oh oh)
+So many ways I can love you (oh oh oh oh)
 In so many ways I can blow your mind
 I can blow your mind (sh, sh)
 In so many ways I can love you (shh, oh)
-I can love you (ooh oh oh oh)
+I can love you (oh oh oh oh)
 In so many ways (all right)
 Show you a real good time (woo)
 Count the ways (let me count the ways)
 
 In so many ways I can love you (oh oh oh oh oh)
-Ooh oh oh oh
+Oh oh oh oh
 In so many ways I can blow your mind (shh, yeah)
 I can blow your mind
 In so many ways I can love you (need a way)
-Oh, I can love you right (ooh oh oh oh)
+Oh, I can love you right (oh oh oh oh)
 In so many ways
 Show you a real good time (show you a real good time, it's going down)
 Count the ways (let me count the ways)
@@ -123,19 +123,19 @@ I can love you
 Let me count the ways
 
 In so many ways I can love you (yeah, come on, oh, so many ways)
-Ooh oh oh oh
+Oh oh oh oh
 In so many ways I can blow your mind
 I can blow your mind
 In so many ways I can love you (ah)
-Oh, so many ways (ooh oh oh oh)
+Oh, so many ways (oh oh oh oh)
 In so many ways
 Show you a real good time (show you a real good time)
 Count the ways (let me count the ways)
 
 It's going down
-Ooh oh oh oh
+Oh oh oh oh
 Woo
 Check it out, y'all
-Ooh oh oh oh
+Oh oh oh oh
 Uh, ah
 Count the ways (ah)

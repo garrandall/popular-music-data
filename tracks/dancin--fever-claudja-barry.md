@@ -59,7 +59,7 @@ And everybody feels
 Oh right the dancin fever ah.ah.ah
 They got the dancin fever ah.ah.ah
 The band all the best
-And know i take so rest
+And know I take so rest
 
 Them your dance until the melody, so sweet
 There's no one to resist they'll had the beat
@@ -73,7 +73,7 @@ And everybody feels
 They got dancin fever ah.ah.ah
 They got dancin fever ah.ah.ah
 The band all the best
-And know i take all rest
+And know I take all rest
 
 Dancin fever...
 Dancin fever...

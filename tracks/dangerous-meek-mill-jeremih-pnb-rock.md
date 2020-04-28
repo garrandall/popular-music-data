@@ -101,8 +101,8 @@ Look in yo eyes, shit is dangerous
 Grateful I had all the patience
 I know you going through some changes
 You taking pictures, know your angles
-Ooh, no we ain't perfect, but we damn close
-Ooh, you give me something I can't pay for
+Oh, no we ain't perfect, but we damn close
+Oh, you give me something I can't pay for
 
 
 No angel, but you got a halo
@@ -139,9 +139,9 @@ I know you going through some changes
 
 You taking pictures, know your angles
 
-Ooh, no we ain't perfect, but we damn close
+Oh, no we ain't perfect, but we damn close
 
-Ooh, you give me something I can't pay for
+Oh, you give me something I can't pay for
 
 That's what it's like loving you
 
@@ -149,11 +149,11 @@ That's what it's like loving you
 Uh, you feel the vibe
 Uh, I'm deep inside
 Yeah, you fucking me
-Ooh, I let you ride
+Oh, I let you ride
 Yeah, at first you curved me
 I let you slide then
 Yo hips so curvy, you let me slide in
-Ooh, and it was over once I flipped you over
+Oh, and it was over once I flipped you over
 Relation goal, when we come through just like BeyoncÃ©, Hova
 This that Hermes money, this ain't no Fashion Nova
 You said yo ex had you depressed and I'm just glad that's over
@@ -174,9 +174,9 @@ I know you going through some changes
 
 You taking pictures, know your angles
 
-Ooh, no we ain't perfect, but we damn close
+Oh, no we ain't perfect, but we damn close
 
-Ooh, you give me something I can't pay for
+Oh, you give me something I can't pay for
 
 That's what it's like loving you
 
@@ -201,9 +201,9 @@ I know you going through some changes
 
 You taking pictures, know your angles
 
-Ooh, no we ain't perfect, but we damn close
+Oh, no we ain't perfect, but we damn close
 
-Ooh, you give me something I can't pay for
+Oh, you give me something I can't pay for
 
 That's what it's like loving you
 

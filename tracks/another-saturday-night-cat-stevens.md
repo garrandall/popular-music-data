@@ -88,7 +88,7 @@ Instead of bein' my deliv'rance
 She had a strange resemblance
 To a cat named Frankenstein
 
-Ooh, la,
+Oh, la,
 Another Saturday night and I ain't got nobody
 I've got some money 'cause I just got paid
 Now, how I wish I had someone to talk to

@@ -59,9 +59,9 @@ Darling you, send me
 Honest you do
 Honest you know ya did
 Ya know, ya did
-Ya know ya, do know (you-ooh-hoo send me)
-You got everything it takes to wed me (you-ooh-hoo send me)
-And when you do the things you do you know that send me (do-ooh-hoo send me)
+Ya know ya, do know (you-oh-hoo send me)
+You got everything it takes to wed me (you-oh-hoo send me)
+And when you do the things you do you know that send me (do-oh-hoo send me)
 Honestly, you send me
 You send me, baby, you send me
 You move me (do)
@@ -72,5 +72,5 @@ Guess I'm a, a sinner
 Make me a longer
 I, I, I, I, I, I, I just can't stand any it
 Thrill me, kill me
-Oooh, send me, send me baby
-Pretty baby, oooh yeah
+Oh, send me, send me baby
+Pretty baby, oheah

@@ -104,7 +104,7 @@ And lies were lies
 And we thought love would never die
 But the world moved on
 My illusions gone
-And i don't know who to blame
+And I don't know who to blame
 
 
 And my heart is breaking
@@ -124,8 +124,8 @@ Give me shelter from the storm
 I just hope this light inside me
 Keeps me strong
 
-Oooh baby
-Oooh baby
+Oh baby
+Oh baby
 
 
 And my heart is breaking

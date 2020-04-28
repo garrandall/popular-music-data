@@ -72,7 +72,7 @@ When I'm walkin' feel just like a king
 When I'm singin' don't care 'bout a thing
 The reason I feel the way I do
 You love me, whoo
-I love you, who-ooh
+I love you, who-oh
 Walkin' along my merry way
 Singin' a song I will be gay
 Oh, happy day

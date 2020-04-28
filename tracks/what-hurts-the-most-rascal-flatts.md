@@ -250,9 +250,6 @@ What could've been
 And not seeing that love in you
 Is what I was trying to do, oh
 
-
-
-
 What hurts the most
 Was being so close
 And havin' so much to say (much to say)

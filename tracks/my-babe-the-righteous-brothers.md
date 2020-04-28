@@ -73,13 +73,13 @@ My, my, my, my, my babe
 Ah-huh-huh-huh, my babe
 My, my, my, my, my babe
 She's my babe, she's my babe
-Ooh yeah!
+Oh yeah!
 She's my babe, she's my babe
 She's my babe
 She's my babe, she's my babe
 She's my babe
 She's my babe, she's my babe
 She's my babe
-Ooh yeah!
+Oh yeah!
 She's my babe, she's my babe
 She's my babe

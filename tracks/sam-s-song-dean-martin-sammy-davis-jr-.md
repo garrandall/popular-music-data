@@ -45,7 +45,7 @@ The song is Sam's song
 (Sam, you're just a ham)
 But, Dean, here's the scam
 The song was named after Sam
-(Sam who) Sam Houston (ohh)
+(Sam who) Sam Houston (oh)
 
 (May I say with pride
 Where I reside
@@ -114,5 +114,5 @@ It better have Sam's song on it
 Or else you'll get a nasty letter
 From Calhoun and a telephone call too
 
-Hmm, I'm thinking you're starting
+Hm, I'm thinking you're starting
 To get dirty down there

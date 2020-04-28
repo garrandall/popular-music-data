@@ -44,8 +44,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-06-16'
 ---
-Mmmm
-Mmmm
+Mmm
+Mmm
 Can't sleep it's so bad
 You got me tossing and turning
 Can't sleep I get sad
@@ -68,8 +68,8 @@ So I can go on loving you (loving you)
 Loving you baby (loving you)
 Said loving you (loving you)
 Yeah yeah yeah yeah
-Mmmm
-Mmmm
+Mmm
+Mmm
 Other boys you knew
 Cheated and most are cruel
 You'd better walk away

@@ -49,7 +49,7 @@ You should have known
 The price of evil
 And it hurts to know
 That you belong here, yeah
-Ooh, it's your fuckin' nightmare
+Oh, it's your fuckin' nightmare
 
 (While your nightmare comes to life)
 
@@ -80,7 +80,7 @@ That you belong here, yeah
 No one to call
 Everybody to fear
 Your tragic fate is looking so clear, yeah
-Ooh, it's your fuckin' nightmare
+Oh, it's your fuckin' nightmare
 
 
 
@@ -120,7 +120,7 @@ That you belong here, yeah
 No one to call
 Everybody to fear
 Your tragic fate is looking so clear, yeah
-Ooh, it's your fuckin' nightmare
+Oh, it's your fuckin' nightmare
 
 
 

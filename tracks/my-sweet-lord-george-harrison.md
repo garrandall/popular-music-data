@@ -116,7 +116,7 @@ That it won't take long, my Lord
 
 
 (Hallelujah)
-Mmmmm (Hallelujah)
+Mmm (Hallelujah)
 My sweet Lord (Hallelujah)
 My, my Lord (Hallelujah)
 
@@ -126,7 +126,7 @@ My, my Lord (Hallelujah)
 Mmm, my Lord (Hare Krishna)
 My, my, my Lord (Hare Krishna)
 Oh, oh, my sweet Lord (Krishna Krishna)
-Ooh (Hare Hare)
+Oh (Hare Hare)
 
 
 Now, I really wanna see you (Hare Rama)
@@ -143,10 +143,10 @@ My, my sweet Lord (Hare Krishna)
 
 My sweet Lord (Krishna Krishna)
 Ah, oh, my Lord (Hare Hare)
-Mmmmm (Gurur Brahma)
-Mmmmm (Gurur Vishnu)
-Mmmmm (Gurur Devo)
-Mmmmm (Maheshwara)
+Mmm (Gurur Brahma)
+Mmm (Gurur Vishnu)
+Mmm (Gurur Devo)
+Mmm (Maheshwara)
 My sweet Lord (Gurur Sakshaat)
 My sweet Lord (Para Brahma)
 My, my, my Lord (Tasmayi Shree)

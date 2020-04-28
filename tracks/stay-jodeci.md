@@ -115,7 +115,7 @@ Baby, won't you just stay?
 For a little while
 Baby, won't you just stay?
 
-(Ooh, babe...) Baby, won't you just stay?
+(Oh, babe...) Baby, won't you just stay?
 
 
 So here we are

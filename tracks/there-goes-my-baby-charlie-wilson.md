@@ -35,9 +35,6 @@ And then I saw her at the food court sipping lemonade
 Conversating on her cell phone, looking so amazing
 And I said to myself
 
-
-
-
 She gon' wear my ring, she gon' take my name
 Take her to the cookout, me and her gon' hang
 Take her to my mama house, meet Smokey and them
@@ -47,9 +44,6 @@ I'll treat her like a queen, give her everything
 She will be my girl till we old and gray
 And I knew it from the moment
 That I saw her lovely, lovely face
-
-
-
 
 I love the way you smile, I love it when you walk
 When you talk me it makes me so

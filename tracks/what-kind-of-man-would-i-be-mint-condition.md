@@ -139,20 +139,17 @@ With promises made that we never
 Yet feeling it now more than ever
 I can't deny
 
-
-
-
 Here we are all alone
 But some how we've got to stay strong
 
 
 
-(Makes me wanna say ohhhhhhhhhhhhh)
-(Just gotta say ohhhhhhhhhh)
-(She makes me wanna say ohhhhhhhhh)
-(Just gotta say ohhhhhhhhh)
+(Makes me wanna say oh)
+(Just gotta say oh)
+(She makes me wanna say oh)
+(Just gotta say oh)
 
-But what kind of man would I be ohhhh can't be unfaithful
+But what kind of man would I be oh can't be unfaithful
 Sorry baby
 
 

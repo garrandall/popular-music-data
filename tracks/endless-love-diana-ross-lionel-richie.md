@@ -130,7 +130,7 @@ No one else will do
 And your eyes
 Your eyes, your eyes
 They tell me how much you care
-Ooh yes, you will always be
+Ohyes, you will always be
 My endless love
 Two hearts
 Two hearts that beat as one
@@ -160,8 +160,8 @@ I've found in you
 My endless love
 
 
-Oooh-woow
-Boom, boom 
+Oh-woow
+Boom, boom
 
 
 

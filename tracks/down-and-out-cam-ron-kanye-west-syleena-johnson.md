@@ -47,18 +47,18 @@ Guns everywhere like the car came with hammers
 He's back
 
 They trying to say he (down, down)
-I hear niggaz saying he (down and out)
+I hear niggas saying he (down and out)
 But our flow's the truest (oh)
 The game's in a nuisance (no no)
 Our girls is the models (oh)
-They coochies the juiciest (ooooh)
+They coochies the juiciest (oh
 
 Yeah they say he (down, down)
 Yeah they say he (down and out)
 Cause I'm back on my grind (oh)
 Money back on my mind (no no)
 Ye and Killa Cam (oh)
-The world is mine (ooooh)
+The world is mine (oh
 
 I keep bitches straight up like 'Simon Says'
 Open vagina put ya legs behind ya head
@@ -70,7 +70,7 @@ Accessories my closet's pet cemetery
 I get approached by animal activists
 I live in a zoo I run scandals with savages
 
-All my niggaz get together to gather loot
+All my niggas get together to gather loot
 Bodyguard for what dog I'd rather shoot
 I go to war old timbs batted boots
 Hand grenade goggles and a parachute
@@ -82,18 +82,18 @@ Court case, briefcase, suitcase, cases of Cris
 Ow
 
 They trying to say he (down, down)
-I hear niggaz saying he (down and out)
+I hear niggas saying he (down and out)
 But our flow's the truest (oh)
 The game's in a nuisance (no no)
 Our girls is the models (oh)
-They coochies the juiciest (ooooh)
+They coochies the juiciest (oh
 
 Yeah they say he (down, down)
 Yeah they say he (down and out)
 Cause I'm back on my grind (oh)
 Money back on my mind (no no)
 Ye and Killa Cam (oh)
-The world is mine (ooooh)
+The world is mine (oh
 
 Yo aiyyo you dealing with some sure shit
 My bitches pure thick
@@ -116,18 +116,18 @@ I hoped a nigga heard when I said I told you so
 Uh Killa
 
 They trying to say he (down, down)
-I hear niggaz saying he (down and out)
+I hear niggas saying he (down and out)
 But our flow's the truest (oh)
 The game's in a nuisance (no no)
 Our girls is the models (oh)
-They coochies the juiciest (ooooh)
+They coochies the juiciest (oh
 
 They trying to say he (down, down)
 Yeah they say he (down and out)
 Cause I'm back on my grind (oh)
 Money back on my mind (no no)
 Ye and Killa Cam (oh)
-The world is mine (ooooh)
+The world is mine (oh
 
 Mine
 Killa you already know Harlem

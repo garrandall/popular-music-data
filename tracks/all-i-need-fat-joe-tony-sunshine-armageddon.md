@@ -50,11 +50,11 @@ Yea, you could trust me, haha
 
 
 La la la la la
-Oooooh
+Oh
 
 
 I don't care about nothing else my baby (Baby I don't care)
-All I care is bout being here for you (Oooh)
+All I care is bout being here for you (Oh)
 And I won't stare at nobody else my baby (Promise I won't stare)
 Cuz all I need is you (All I need, all I need baby)
 
@@ -102,9 +102,6 @@ Labeled my wife but you truly exceed the title
 You my future my happiness my heart my idol
 I promise girl, that
 
-
-
-
 Haha
 This is going out to you, you and you and you
 
@@ -122,8 +119,4 @@ And you get what you feel you deserve from that man, and
 Cuz I need somebody who will stand by me
 Through the good times and bad times who will always...
 always be my girl
-
-
-
-
 

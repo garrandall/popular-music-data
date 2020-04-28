@@ -28,7 +28,7 @@ Ruby finally gets up, lookin' for some quiet night
 
 
 And the music makes her feel so hot
-Ooh and she'll smile for the camera with all she's got
+Oh and she'll smile for the camera with all she's got
 Don't bring her down, she's a lot like you
 She'll be richer by far if her dreams come true
 

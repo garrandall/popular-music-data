@@ -127,7 +127,7 @@ She likes me
 
 She's playing hard to get
 She just won't admit
-Ooh, yeah
+Oh yeah
 That she likes me
 She likes me
 She's playing hard
@@ -156,9 +156,6 @@ You have for me
 Your smile
 And the look in your eyes
 Says more than any words you could ever say
-
-
-
 
 Come on, baby girl
 So why are you doing this?

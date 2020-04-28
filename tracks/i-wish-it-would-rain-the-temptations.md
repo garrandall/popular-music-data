@@ -77,13 +77,13 @@ Oh yeah, yeah, yeah, yeah
 
 'Cause so badly I wanna go outside (Such a lovely day)
 But everyone knows that a man ain't supposed to cry
-Listen, I gotta cry 'cause crying, ooh, eases the pain
+Listen, I gotta cry 'cause crying, oh eases the pain
 Oh yeah, people, this hurt I feel inside, words could never explain
 
 
 I just wish it would rain (Oh how I wish that it would rain)
 Oh, let it rain, rain, rain, rain (Oh how I wish that it would rain)
-Ooh baby, let it rain (Let it rain)
+Ohbaby, let it rain (Let it rain)
 Oh yeah, let it rain
 
 
@@ -97,7 +97,7 @@ To the world outside, my tears I refuse to explain
 
 
 Oh I wish it would rain (Oh how I wish that it would rain)
-Ooh, let it rain, let it rain (Let it rain, let it rain)
+Oh let it rain, let it rain (Let it rain, let it rain)
 I need rain to disguise the tears in my eyes (Rain, rain, rain, let it rain)
 Oh, let it rain (Doo doo doo doo)
 

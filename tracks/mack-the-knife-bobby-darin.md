@@ -129,7 +129,7 @@ Fancy gloves, though
 Wears ol' Macheath, babe
 So there's never, never a trace of red
 
-Now, on the side walk, ooh Sunday morning, uh huh
+Now, on the side walk, oh Sunday morning, uh huh
 Lies a body just oozing life. EEK!
 And someone's sneaking round the corner
 Could that someone be Mack the Knife?

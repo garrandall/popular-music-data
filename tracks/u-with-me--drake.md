@@ -107,7 +107,7 @@ Understand I got responsibilities to people that I need
 And on my way to make this dough
 A lot of niggas cut the check so they can take this flow
 A lot of niggas cut the check so they can take this flow
-Ohhh, ohhh
+Ohhh, oh
 Tryna give your ass the world
 You runnin' your fingers through my curls
 You knew me when the kid had waves

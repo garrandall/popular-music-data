@@ -48,7 +48,7 @@ It's really true
 One love, just one love
 Makes me happy, so happy
 One love, just one love
-Makes me happy, ooh, so happy
+Makes me happy, oh, so happy
 
 Oh, oh
 
@@ -65,7 +65,7 @@ I've been looking for
 One love, just one love
 Makes me happy, so happy
 One love, just one love
-Makes me happy, ooh, so happy
+Makes me happy, oh, so happy
 
 One love, just one love
 Makes me happy, so happy

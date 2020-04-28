@@ -25,7 +25,7 @@ So I can go until I blow up, eh
  So I can go until they close up, eh
 And I can drink until I throw up, eh
 And I don't ever ever want to grow up, eh
-I wanna keep it going, ke-keep, keep it going, going, going, going....
+I wanna keep it going, ke-keep, keep it going, going, going, going...
 
 
 I got a little bit trashed last night, night

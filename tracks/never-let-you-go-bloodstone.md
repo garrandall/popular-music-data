@@ -64,7 +64,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-15'
 ---
-Ooooooh...
+Oh...
 My mind has been blown to bits
 I was just about to call it quits
 An everyday problem, I didn’t stand a prayer
@@ -93,10 +93,10 @@ You know I never, never, never, never, never, never
 Never (Never let you go baby,)
 Never (Never let you go baby,)
 Never-never (Never let you go baby, never let no never, never, never, never let you go baby,)
-I’m gonna never, never, never, never-oooh (Never let you go baby, never let you go baby,)
+I’m gonna never, never, never, never-ohNever let you go baby, never let you go baby,)
 Yeah-yeah (Never let no never, never, never, never let you go,)
 Never, never, never, never, never let you go girl (Never let you go baby, never let you go baby,)
-Ooh-ooh (Never let no never, never, never, never let you go baby,)
+Ohoh (Never let no never, never, never, never let you go baby,)
 (Never let you go baby,)
 (Never let you go baby,)
 Ah-ah-ah-ah-hah (Never let no never, never, never, never let you go baby,)
@@ -112,7 +112,7 @@ I’m gonna never (Never let you go baby,)
 I’m gonna never (Never let you go baby,)
 I’ll never, never, never, never, ne-ver (Never let no never, never, never, never let you go baby,)
 (Never let you go baby)
-Ooh-hoo (Never let you go baby,)
+Ohhoo (Never let you go baby,)
 Aw-aw (Never let no never, never, never, never let you go baby,)
 Yeah-yeah (Never let you go baby,)
 (Never let you go baby,)
@@ -128,7 +128,7 @@ Stay baby (Never let you go baby,)
 Yeah-yeah stay-stay (Never let you go baby, never let no never, never, never let you go baby,)
 (Never let you go baby,)
 (Never let you go baby,)
-Ooh aw-aw-aw (Never let no never, never, never, never let you go baby,)
+Ohaw-aw-aw (Never let no never, never, never, never let you go baby,)
 (Never let you go baby,)
 (Never let you go baby,)
 Sta-ay (Never let no never, never, never, never let you go baby,)…

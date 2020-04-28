@@ -102,10 +102,10 @@ rankings:
 ---
 Yeah, just like that
 Ah-ha-ha-ha
-(Ooh, ooh, ooh)
-Ooh...hoo...hoo...
+(Oh, oh, oh)
+Oh...hoo...hoo...
 
-(Ooh, ooh, ooh)
+(Oh, oh, oh)
 Yeah, yeah
 
 When I'm with you, I hear a sound

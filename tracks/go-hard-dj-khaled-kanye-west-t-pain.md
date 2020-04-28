@@ -20,7 +20,7 @@ rankings:
 ---
 
 
-I think it's time for me to go hard as the hood I'm from 
+I think it's time for me to go hard as the hood I'm from
 
 
 DJ Khaled, We the best
@@ -82,7 +82,7 @@ When I came up y'all gave me shit
 Now I'm finna make y'all eat them turds
 Always said what the fuck I felt
 Gon head spit that murder I wrote
-Man I don't care bout what you felt 
+Man I don't care bout what you felt
 Fuck you nigga I know I'm dope
 Felt like I'm comin to get my all
 Felt like I had to play the fly on the wall
@@ -99,8 +99,4 @@ I guess it's gon be what it's gon be
 But here's one thing y'all got to hear
 I'm a tell you like George Bush told me
 Fuck ya'll niggas I'm out of here
-
-
-
-
 

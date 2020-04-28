@@ -65,9 +65,6 @@ He locks up tight and out go the lights
 And he ducks out of sight and he cheats on his wife
 With his employee
 
-
-
-
 Armchair quarterback's always moaning
 Second guessing people all day long
 Pushing, fooling and hanging on in
@@ -76,9 +73,6 @@ When you get right down to the nitty-gritty
 Isn't it a pity that in this big city
 Not a one a'little bitty man'll admit
 He could have been a little bit wrong
-
-
-
 
 Clean up your own backyard
 You tend to your business, I'll tend to mine

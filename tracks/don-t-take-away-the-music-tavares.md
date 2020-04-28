@@ -89,10 +89,10 @@ It's my piece of the rock
 Don't take away the music, everything else is gone
 Don't strip my world of this song
 
-Don't take away the music ooh ooh ooh
-Don't take away the music ooh ooh ooh
-Don't take away the music ooh ooh ooh
-Don't take away the music ooh ooh ooh
+Don't take away the music oh oh oh
+Don't take away the music oh oh oh
+Don't take away the music oh oh oh
+Don't take away the music oh oh oh
 
 Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh
 Since you're not here with me
@@ -106,10 +106,10 @@ Don't strip my world of this song
 Don't take away the music, it's the only thing I've got
 It's my piece of the rock
 
-Don't take away the music ooh ooh ooh
-Don't take away the music ooh ooh ooh
-Don't take away the music ooh ooh ooh
-Don't take away the music ooh ooh ooh
+Don't take away the music oh oh oh
+Don't take away the music oh oh oh
+Don't take away the music oh oh oh
+Don't take away the music oh oh oh
 Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh
 
 Don't take away the music, it's the only thing I've got
@@ -117,18 +117,18 @@ It's my piece of the rock
 Don't take away the music, everything else is gone
 Don't strip my world of this song
 
-Don't take away the music, ooh ooh ooh
+Don't take away the music, oh oh oh
 Don't take away the music, don't take it away
-Don't take away the music, ooh ooh ooh
+Don't take away the music, oh oh oh
 Don't take away the music, don't take it away
 
-Don't take away the music, ooh ooh ooh
+Don't take away the music, oh oh oh
 Don't take away the music, don't take it away
-Don't take away the music, ooh ooh ooh
+Don't take away the music, oh oh oh
 Don't take away the music, don't take it away
 Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh
 
-Don't take away the music, ooh ooh ooh
+Don't take away the music, oh oh oh
 Don't take away the music, don't take it away
-Don't take away the music, ooh ooh ooh
+Don't take away the music, oh oh oh
 Don't take away the music, don't take it away

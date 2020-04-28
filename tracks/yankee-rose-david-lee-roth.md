@@ -109,7 +109,7 @@ Hey sister, you're the perfect host (make a toast)
 
 Show me your bright lights and your
 City lights, all right
-I'm talkin' 'bout the Yankee Rose, yeah 
+I'm talkin' 'bout the Yankee Rose, yeah
 Bright lights in your
 City lights, all right
 I'm in love with the Yankee Rose
@@ -125,7 +125,7 @@ No time to waste
 She got the beat
 And here's a little bit comin' your way, wow
 
-Aah, raise 'em up there, let's see who salutes, baby
+Ah, raise 'em up there, let's see who salutes, baby
 Yeah, yeah, yeah, yeah, yeah
 Little bit, little bit, little bit higher
 Here's the national anthem, here

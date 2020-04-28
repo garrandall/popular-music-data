@@ -61,6 +61,3 @@ And I'm open, knowing somehow
 That my shadow days are over
 My shadow days are over now
 
-
-
-

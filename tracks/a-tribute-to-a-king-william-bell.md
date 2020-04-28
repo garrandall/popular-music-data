@@ -74,5 +74,5 @@ In the music hall of fame
 
 Otis, he was known as Big O
 Otis, we gonna miss him so
-Otis, ooh, yeah
+Otis, oh, yeah
 We gonna miss him so

@@ -57,10 +57,10 @@ Can feel the presence of another man
 
 It's there when you speak my name
 It's just not the same
-Ooh baby, I'm losing you
+Ohbaby, I'm losing you
 It's in the air
 It's everywhere
-Ooh baby, I'm losing you
+Ohbaby, I'm losing you
 
 When I look into your eyes
 A reflection of a face I see
@@ -69,16 +69,16 @@ Cause that face doesn't belong to me
 
 Oh, it's all over your face
 Someone's taken my place
-Ooh baby, I'm losing you
+Ohbaby, I'm losing you
 You try hard to hide
 The emptiness inside
-Ooh, I can tell I'm losing you
-Ooh
+Oh I can tell I'm losing you
+Oh
 I don't wanna lose you
 
-Ooh, I can tell when we kiss
+Oh I can tell when we kiss
 From the tenderness I miss
-Ooh, little girl, I'm losing you
+Oh little girl, I'm losing you
 Girl, I can feel it in my bones
 Any day you'll be gone
 Oh baby, I'm losing you

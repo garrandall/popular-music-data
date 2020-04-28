@@ -85,7 +85,7 @@ Don't mean to think like this
 My heart just has to be sure
 That the love that I give to you
 That's the love that I get from you
-I need to be safe and secure, oooh-oooh
+I need to be safe and secure, oh-oh
 (Just let me know you thinking 'bout me)
 
  (T.I.)

@@ -69,21 +69,21 @@ rankings:
   start_date: '2013-09-28'
 ---
 
-Uh-oh 
+Uh-oh
 
 J.Dash...
 
-Uh-oh 
+Uh-oh
 
 
 I made a little bit of money (I made a little bit of money)
 I paid my bills (I paid my bills)
 I paid this cover (I paid this cover)
-I wont stand still (I wont stand still)
+I won't stand still (I won't stand still)
 Let me see you
-Wop 
+Wop
 Now let me see you
-Wop 
+Wop
 
 
 Wop If you let me get lost, if you don't
@@ -101,9 +101,6 @@ Purple flag to the left WHO better than me.
 I got an all star squad who better than me.
 Man listening to the beat who better the me.
 I payed to get in so I ain't goin to jail and then be weepin' way to long...
-
-
-
 
 J. Dash why you had to do it like that
 Got the ladies checkin' they bags
@@ -124,61 +121,61 @@ Man I better wop outa here I'll see yall tomorrow.
 
 
 Now drop it to the floor, drop drop it to the floor then
-Wop 
+Wop
 
 Now leeean then
-Wop 
+Wop
 
 Turn around and wop, wop, wop
 Turn around and wop, wop, wop, wop
 
 Now wiggle wiggle wiggle wiggle, wiggle wiggle wiggle
-Wop 
+Wop
 
 Play dead like... Then
-Wop 
+Wop
 Strike a pose like... Then
-Wop 
+Wop
 Check that lady like Dang she FINE... then
 Wop
 Beat it up like (beat beat beat beat beat beat beat) then
-Wop 
+Wop
 Speed it up like... then
-Wop 
+Wop
 Make it rain like
-Wop 
+Wop
 Do yo thang like
-Wop 
+Wop
 Make money like
-Wop 
+Wop
 Hit your body like
-Wop 
+Wop
 Do yo thang like
-Wop 
+Wop
 Make it rain like
-Wop 
+Wop
 Make money like
-Wop 
+Wop
 
 Slap dash...
 
 Put some more
-Wop 
+Wop
 Purple flag
-Wop 
+Wop
 Drink a stand
-Wop 
+Wop
 Hit your body like
-Wop 
+Wop
 And we do it like
-Wop 
+Wop
 Slow down like
 
 AY
 
 This is another J.Dash Production
 
-Keep woppin' 
+Keep woppin'
 
 
 

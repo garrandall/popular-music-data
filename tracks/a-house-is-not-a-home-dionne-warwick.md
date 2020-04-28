@@ -35,7 +35,7 @@ rankings:
 Whooa. whoooa. oh oh oh
 A chair is still a chair
 Even when there's no one sittin' there
-Ooh but a chair is not a house
+Ohbut a chair is not a house
 And a house is not a home
 When there's no one there
 To hold you tight

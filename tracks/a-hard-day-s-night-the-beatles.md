@@ -91,9 +91,6 @@ I find the things that you do
 Will make me feel alright
 Ah!
 
-
-
-
 So why on earth should I moan
 'Cause when I get you alone
 You know I feel okay

@@ -121,9 +121,6 @@ Not knowing what to do
 Do I keep on crying?
 Or do I leave you?
 
-
-
-
 Just like my friend said
 You were never good for me
 So just go about your way

@@ -70,9 +70,6 @@ Investigating miles
 I'm a seeker
 I'm a really desperate man
 
-
-
-
 I won't get to get what I'm after
 Till the day I die
 

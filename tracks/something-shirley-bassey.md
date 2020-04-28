@@ -45,7 +45,7 @@ rankings:
   start_date: '1970-11-14'
 ---
 
-Ooooohhhhhh, uhhhhhh, ohhhhhhhh
+Oh, uhhhhhh, oh
 
 Something in the way he moves
 Attracts me like no other lover
@@ -68,7 +68,7 @@ I don't know, I don't know
 
 Something in the way he knows
 And all I have to do is think of him
-Something in the things he shows me 
+Something in the things he shows me
 
 Don't want to leave him now
 You know I believe him how

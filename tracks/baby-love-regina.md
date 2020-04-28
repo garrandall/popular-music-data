@@ -129,15 +129,15 @@ When you start to love me (love me)
 
 
 
-Oooh, oooh, oooh
+Oh, ohohoh
 Baby
 Baby love
 
-Oooh, oooh ooh
+Oh, oh
 Sweet and tasty
 Baby
 Baby love
-Oooh, oooh, ooh
+Oh, ohoh
 
 
 Boy

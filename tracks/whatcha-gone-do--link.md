@@ -94,7 +94,7 @@ What you gon do
 Tell me what you gon, what you gon do, do
 Girl Ive been wondering about me and you yeah
 I got a secret place I wanna invite you to aye
-Baby cant you see Im so into you yeah
+Baby can't you see Im so into you yeah
 Its time to chill and groove so what you gon do, what you gon do
 
 How would you like it if I hit you wit a 69
@@ -116,7 +116,7 @@ Its your move
 And theres nothing more to say
 (Its time to choose)
 So choose girl
-So what you gonna do ooh?
+So what you gonna do oh?
 Yo what you gonna do huh
 Tell me what you gon, what you gon do, wha, wha-wha
 What you gon do

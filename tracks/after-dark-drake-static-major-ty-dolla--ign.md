@@ -49,13 +49,13 @@ I'll be on my way
 
 In a whip so low, no one's gotta know (no one's gotta know)
 Knocking at your door, I don't gotta work anymore (I don't gotta work no more)
-You can put your phone out here girl, you need two hands (ooh, yeah)
+You can put your phone out here girl, you need two hands (oh yeah)
 You can't get enough, girl, you know I set it up for after dark
 
 
 Late night, me and you, got you wet like the pool
 Then I'm tryna dive in, put some time in, yeah
-Get the vibe right, get your mind right, it's gon' be a long night (ooh yeah)
+Get the vibe right, get your mind right, it's gon' be a long night (ohyeah)
 Put your feet in this water, don't wanna get your hair wet
 We've hooked up a couple times, we ain't took it there yet
 You broke up with your man and ain't been with nobody else
@@ -70,7 +70,7 @@ And when it's time to duck it, we can go
 
 In a whip so low, no one's gotta know (no one's gotta know)
 Knocking at your door, I don't gotta work anymore (I don't gotta work no more)
-You can put your phone out here girl, you need two hands (ooh, yeah)
+You can put your phone out here girl, you need two hands (oh yeah)
 You can't get enough, girl, you know I set it up for after dark
 
 93.7, WBLK at the Quiet Storm

@@ -78,7 +78,7 @@ Still tippin' on four fours wrapped in four vogues
 Pimping four hoes and I'm packing four fours
 Blowing on the endo Game Cube Nintendo
 Five percent tint so you can't see up in my window
-These niggaz don't understand me cuz I'm Boss Hogg on candy
+These niggas don't understand me cuz I'm Boss Hogg on candy
 Top down at Maxi's wit a big glock nine handy
 Pieced up creased up staying dressed to impress
 Big boss belt buckle under my Mitchell and Ness
@@ -115,9 +115,6 @@ Back then hoes didn't want me Now I'm hot hoes all on me
 Back then hoes didn't want me Now I'm hot hoes all on me
 (I Said!) Back then hoes didn't want me Now I'm hot hoes all on me
 
-
-
-
 What it do it's Paul Wall I'm the people's champ
 My chain light up like a lamp cuz now I'm back with the camp
 I'm crawling similar to an ant cuz I'm low to the earth
@@ -134,8 +131,4 @@ I got the internet going nuts
 But T. Farris got my back so now I'm holding my nuts
 It's Paul Wall baby what you know bout me
 I'm on that five nine Southle baby holla at me
-
-
-
-
 

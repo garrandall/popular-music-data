@@ -68,7 +68,7 @@ The good Lord's earth beneath my feet
 A gentle touch
 From that one girl
 And life is sweet and good
-Ain't no doubt, I'm talkin' about ....
+Ain't no doubt, I'm talkin' about ...
 
 Kentucky woman
 If she get to know you

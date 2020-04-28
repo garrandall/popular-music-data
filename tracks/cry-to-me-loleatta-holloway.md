@@ -32,14 +32,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-04-19'
 ---
-"baby, i see you packing
+"baby, I see you packing
 But it's no surprise for me
-You see, i knew it was coming for a long time
-Say what ? no, no i won't cry
-You see i'm a big girl now, and i just can't cry no more
-But there's something i want you to know:
-That i love you, i love you, i love you !
-And there's one more thing i want you to know:
+You see, I knew it was coming for a long time
+Say what ? no, no I won't cry
+You see i'm a big girl now, and I just can't cry no more
+But there's something I want you to know:
+That I love you, I love you, I love you!
+And there's one more thing I want you to know:
 That if you ever need a friend
 You can count on me
 And honey:"
@@ -57,13 +57,13 @@ Cry to me (cry to me)
 No matter how harder things got to be
 You can cry to me
 Cry cry cry cry to me
-Now i know i must sound
+Now I know I must sound
 Just like a fool man love
-But i can't help myself really comes to loving you baby
-And i know you said
+But I can't help myself really comes to loving you baby
+And I know you said
 That our love was true
 But if it "don't" work out
-Honey here's what i want you to do
+Honey here's what I want you to do
 Drown my number
 Knock on the door
 Write me a letter
@@ -73,10 +73,10 @@ Honey cry to me (cry to me)
 No matter how harder things got to be
 You can cry to me (cry to me)
 Oh yes you can cry, oh oh oh oh oh
-Oh baby, oooh baby how i'm gonna miss you ...
+Oh baby, oh baby how i'm gonna miss you ...
 Cause we've been together for so long
-But i know it's gonna be hard to live without you
-But i want you to know that
+But I know it's gonna be hard to live without you
+But I want you to know that
 When times get harder you can drown my number
 Knock on my door
 Honey send me a telegram
@@ -85,7 +85,7 @@ You can cry to me (cry to me)
 No matter how harder things got to be
 Cry to me (cry to me)
 You can cry to me
-Ooh baby, ooh baby
+Oh baby, oh baby
 It's been so good, it's been really good
-I hope you feel the same way i do
+I hope you feel the same way I do
 I hope that you feel that it's been good too

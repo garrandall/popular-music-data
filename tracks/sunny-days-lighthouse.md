@@ -111,5 +111,5 @@ Than lyin' in the sun with your radio
 Da da-da da-da da da da
 Da da-da da-da da da da
 Da da-da da-da da da da
-Da-da da-da da-da da-da daaaaaa-aaaa
+Da-da da-da da-da da-da daaaaaa-aa
 Well, all right!

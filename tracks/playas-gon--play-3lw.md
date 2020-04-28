@@ -93,9 +93,6 @@ The hit maker shorty
 Playas gon' play
 
 
-
-
-
 Playas gonna play (uh)
 Haters gonna hate (right)
 That's the way it is (yeah)

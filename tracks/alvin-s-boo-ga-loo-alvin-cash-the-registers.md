@@ -34,7 +34,7 @@ rankings:
   start_date: '1966-12-31'
 ---
 Alvin's got a boo-ga-loo, baby
-Ooh wee
+Oh wee
 
 (Alvin's got a boo-ga-loo
 Hey, hey, hey
@@ -50,7 +50,7 @@ Shake your head
 Wiggle your legs, baby
 
 Come on, baby
-Ooh wee
+Oh wee
 
 (Get it, get it, get it)
 A boo-ga-loo
@@ -67,7 +67,7 @@ Aw, come on here with me, baby
 (B double O g-a-l double O)
 
 Aw, come here
-Come on, baby, ooh wee
+Come on, baby, oh wee
 
 (Get it, get it, get it)
 A boo-ga-loo
@@ -76,7 +76,7 @@ A boo-ga-loo
 (Get it, get it, get it)
 A boo-ga-loo
 
-Ooh wee, come on, y'all
+Oh wee, come on, y'all
 Come on, y'all
 Aw, have mercy
 

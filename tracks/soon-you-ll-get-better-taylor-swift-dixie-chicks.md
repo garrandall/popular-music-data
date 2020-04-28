@@ -21,11 +21,11 @@ Desperate people find faith, so now I pray to Jesus too
 And I say to you...
 
 
-Ooh-ah
+Oh-ah
 Soon, you'll get better
-Ooh-ah
+Oh-ah
 Soon, you'll get better
-Ooh-ah
+Oh-ah
 You'll get better soon
 'Cause you have to
 
@@ -38,11 +38,11 @@ I know I'll never get it, there's not a day that I won't try
 And I say to you...
 
 
-Ooh-ah
+Oh-ah
 Soon, you'll get better
-Ooh-ah
+Oh-ah
 Soon, you'll get better
-Ooh-ah
+Oh-ah
 You'll get better soon
 'Cause you have to
 
@@ -58,16 +58,16 @@ It's been years of hoping, and I keep saying it because
 'Cause I have to
 
 
-Ooh-ah
+Oh-ah
 You'll get better
-Ooh-ah
+Oh-ah
 Soon, you'll get better
-Ooh-ah
+Oh-ah
 You'll get better soon
-Ooh-ah
+Oh-ah
 Soon, you'll get better
-Ooh-ah
+Oh-ah
 Soon, you'll get better
-Ooh-ah
+Oh-ah
 You'll get better soon
 'Cause you have to

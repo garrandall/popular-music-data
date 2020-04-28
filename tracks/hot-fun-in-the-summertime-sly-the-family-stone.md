@@ -89,7 +89,7 @@ I cloud nine when I want to
 Out of school, yeah
 County fair in the country sun
 And everything is cool
-Ooh, yeah
+Oh yeah
 
 Hot fun in the summertime
 Hot fun in the summertime
@@ -106,7 +106,7 @@ Bop-bop-ba-bop-bop when I want to
 Out of school, yeah
 County fair in the country sun
 And everything is cool
-Ooh, yeah
+Oh yeah
 
 Hot fun in the summertime
 Hot fun in the summertime

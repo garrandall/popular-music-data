@@ -97,9 +97,9 @@ rankings:
   start_date: '1999-05-01'
 ---
 
-Yeah....
+Yeah...
 Oh yes
-Ohhh..yeah..
+Ohhh.. yeah..
 Can this be true?
 Tell me, can this be real?
 How can I put into words what I feel?
@@ -146,8 +146,8 @@ I know that it's true
 God must have spent...
 A little more time
 On you...
-(on you, on you, on you, you....on you, on you, on you, you..) ohhh...
-(on you, on you, on you, you....on you, on you, on you, you..) yeah...
+(on you, on you, on you, you...on you, on you, on you, you..) oh...
+(on you, on you, on you, you...on you, on you, on you, you..) yeah...
 
 Never thought that love could feel like this
 and you changed my world with just one kiss.
@@ -168,9 +168,9 @@ On you...
 God must have spent...
 A little more time
 on you
-(on you, on you..you....you..oooh..yeah)
+(on you, on you...you...you...ohyeah)
 A little more time
-on you...ohhh
+on you...oh
 
 
 

@@ -90,7 +90,7 @@ Talkin' 'bout my girl (my girl)
 
 Hey hey hey
 Hey hey hey
-Ooh
+Oh
 
 I don't need no money, fortune, or fame
 I've got all the riches, baby

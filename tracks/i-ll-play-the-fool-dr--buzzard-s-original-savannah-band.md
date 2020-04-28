@@ -42,8 +42,8 @@ Ain't it
 (Ain't it kinda funny)
 So much better than poison, stronger than glue, hey
 
-When your body's close to mine, my baby, ooh
-I get a feelin' that's so divine, ooh
+When your body's close to mine, my baby, oh
+I get a feelin' that's so divine, oh
 Say, blows my mind
 
 Bop, bop, bop, bop, bop, bop, keep on dancin'

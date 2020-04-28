@@ -56,9 +56,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-09-13'
 ---
-Written by Chip Taylor and Al Gorgon
-© 1965 Blackwood Music Inc (BMI)
-
 Oh, I tried and I tried
 But I can't say good-bye
 

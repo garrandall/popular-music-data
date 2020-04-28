@@ -22,21 +22,21 @@ Pain in my eyes, everytime I find, I'm stronger than I ever was
 Here we go again, God, shine your love on me, save me, please
 
 
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Stay strong
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Stay strong
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Save me, Lord
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Stay strong
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Save me, Lord
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Stay strong
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Save me, Lord
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 
 
 Everybody want world peace
@@ -58,51 +58,51 @@ Hopefully Alice Johnson will inspire men
 
 
 Lord shine your light on me, save me, please
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Stay strong
 Lord shine your light on me, save me, please
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Stay strong
 Lord shine your light on me, save me, please
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Save me, Lord
 Lord shine your light on me, save me, please
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Stay strong
 Lord shine your light on me, save me, please
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Save me, Lord
 Lord shine your light on me, save me, please
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Stay strong
 Lord shine your light on me, save me, please
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Save me, Lord
 Lord shine your light on me, save me, please
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Lord shine your light on me, save me, please
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Stay strong
 Lord shine your light on me, save me, please
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Stay strong
 
 
 Both sides lose somebody
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Save me, Lord
 Somebody dies, somebody goes to jail
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Stay strong
 Light on me, save me, please
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Stay strong
 Lord, shine your light on me, save me, please
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Stay strong
 Shine your light on me, save me, please
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Save me, Lord
 Shine your light on me
-Hmm-mm-mm, woah, woah
+Hm-mm-mm, woah, woah
 Stay strong

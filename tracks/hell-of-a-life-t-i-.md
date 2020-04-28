@@ -54,9 +54,6 @@ No cards, just broads when a nigga dick hard
 Flooded offshore Audemars, lookin' like I caught a star
 Put it in her wristwatch, ballin like a big shot
 
-
-
-
 Swag on fully, no semi, ho, hand me
 Bankrolls, no pennies, drop Rolls (roles), no Emmy's
 Street cred, no blemish, credit card, no limit
@@ -73,9 +70,6 @@ Hey aight, if you hear me say aight, okay, aight?
 Cause you know I got dem goons with me and I pay aight
 And they would like to see me broke or back to prison see me go
 But instead they see me ballin, stuntin, everywhere we go - GO!
-
-
-
 
 Money won't fold, pockets all swoll
 Rubberband keep poppin off my bankroll

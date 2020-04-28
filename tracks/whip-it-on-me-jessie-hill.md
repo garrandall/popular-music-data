@@ -30,7 +30,7 @@ I want ya wanna, do ya wanna
 And what ya wanna, say you wanna
 And why ya wanna go, ya wanna
 And how ya wanna, do ya wanna
-Ohhh-ohh
+Ohhh-oh
 
 Whip it on me, pretty baby
 Every time we make love, right now
@@ -43,7 +43,7 @@ I want ya wanna, do ya wanna
 And what ya wanna, say you wanna
 And why ya wanna go, ya wanna
 And how ya wanna, do ya wanna
-Ohhh-ohh
+Ohhh-oh
 
 Whip it on me, pretty baby
 Every time we make love, right now

@@ -56,7 +56,7 @@ Stackin Franklin and Grants from South Bank to Spring Branch
 I'm posted like a stamp with my mind on cash
 I'm wheel grippin and still tippin Brandi wine on glass
 I got a screen in the dash, a quarter tank full of gas
-Smokin that puff puff pass, throwed I hope I dont crash
+Smokin that puff puff pass, throwed I hope I don't crash
 Reppin the Swisha blast, so I'm flyer than a mockingbird
 Throwed in the mode game, cold as a iceburg baby
 

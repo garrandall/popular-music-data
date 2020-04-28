@@ -113,9 +113,6 @@ You know (Really, really bad)
 And the whole world has to answer right now
 Just to tell you once again: Who's bad?
 
-
-
-
 We can change the world tomorrow
 This could be a better place
 If you don't like what I'm saying

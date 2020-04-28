@@ -31,20 +31,20 @@ But to my surprise as I opened the door
 I couldn't tell the front from the back
 "Cause she was wearin' a sack dress
 Whew what a mess!
-The last time I saw her, man what a shape!!
+The last time I saw her, man what a shape!
 And now she's got a shape like an egg!
 No chemise, please, not for me, please
 Well you can take back the sack, leave it hangin' on the rack
-And bring a sweater back!!
+And bring a sweater back!
 When we arrived at the hop
 We started in doin' the stroll
 I told her I wanted to stop
 But she wanted rock and roll
 I told her forty times and it really was a crime
-I was talkin' to the back of her head!!
+I was talkin' to the back of her head!
 No chemise, please, not for me, please
 Well you can take back the sack, leave it hangin' on the rack
-And bring a sweater back!!---yeah
+And bring a sweater back!---yeah
 (instrumental interlude)
 Sure would like to find the creator
 Who covered up my baby in this tent
@@ -54,7 +54,7 @@ So won't you change the fad, have pity on me please
 Put 'er back in her dungarees
 No chemise, please, not for me, please
 Well you can take back the sack, leave it hangin' on the rack
-And bring a sweater back!!
+And bring a sweater back!
 No chemise, please, not for me, please
 Well you can take back the sack, leave it hangin' on the rack
-Bring a sweater back!!
+Bring a sweater back!

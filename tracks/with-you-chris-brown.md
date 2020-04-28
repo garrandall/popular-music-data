@@ -134,11 +134,11 @@ And the hearts all over the world tonight
 Said the hearts all over the world tonight (Uh, uh)
 
 
-Hey little mama, ooh, you're a stunner
+Hey little mama, oh, you're a stunner
 Hot little figure, yes, you're a winner
 And I'm so glad to be yours
 You're a class all your own
-And ooh, little cutie, when you talk to me
+And oh, little cutie, when you talk to me
 I swear the whole world stops, you're my sweetheart
 And I'm so glad that you're mine
 You are one of a kind and
@@ -196,7 +196,7 @@ Baby, you're the best part of my day
 I need you, boo
 I gotta see you, boo
 And the hearts all over the world tonight (Hey, hey)
-Said the hearts all over the world tonight (Ooh, ooh, ooh, yeah)
+Said the hearts all over the world tonight (Oh, oh, oh, yeah)
 They need it, boo (They need it)
 They gotta see their boo
 Said there's hearts all over the world tonight

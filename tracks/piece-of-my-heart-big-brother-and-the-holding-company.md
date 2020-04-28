@@ -96,9 +96,6 @@ Break another little bit of my heart now, darling, yeah
 Have another little piece of my heart now, baby
 Well, you know you got it, child, if it makes you feel good
 
-
-
-
 I need you to come on, come on, come on, come on and take it
 
 

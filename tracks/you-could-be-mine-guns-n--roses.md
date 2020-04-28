@@ -94,7 +94,7 @@ You could be mine, you could be mine
 You could be mine, you could be mine
 You could be mine, mine, mine, mine
 You've gone sketching too many times
-Ooh, why don't you give it a rest?
+Oh, why don't you give it a rest?
 Why must you find another reason to cry?
 
 

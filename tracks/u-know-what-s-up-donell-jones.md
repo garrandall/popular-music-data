@@ -106,10 +106,10 @@ rankings:
 ---
 
 
-Ooh, say what, say what, say what
-Ooh, girl u know what's up
-Ooh, say what, say what, say what
-Ooh, girl u know what's up
+Oh, say what, say what, say what
+Oh, girl u know what's up
+Oh, say what, say what, say what
+Oh, girl u know what's up
 
 
 Me and my niggas be rollin'
@@ -122,10 +122,10 @@ Do u and your girls wanna ride
 Play all day and puff on the la
 
 
-Ooh, say what, say what, say what
-Ooh, girl u know what's up
-Ooh, say what, say what, say what
-Ooh, girl u know what's up
+Oh, say what, say what, say what
+Oh, girl u know what's up
+Oh, say what, say what, say what
+Oh, girl u know what's up
 
 I'm diggin' u and I'm feelin' u
 U know what's up
@@ -177,8 +177,4 @@ don't let another one get near me if you wanna be true
 And show me that nobody else can do it better than you
 So if you serious, I'm curious to see what you got
 My love is furious, cuz I believe in blowin' up spots
-
-
-
-
 

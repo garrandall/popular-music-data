@@ -48,13 +48,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
 ---
-My Shoes Keep Walking Back To You
-Guy Mitchell
-Written by Lee Ross and James Robert Wills
-
-Peaked at # 45 in 1957
-Also charted that year by Ray Price at # 63 on the Pop Chart (but a #1 on the Country Chart)
-
 Oh, my arms keep reachin' for you
 My eyes keep searchin' for you
 My lips keep callin' for you

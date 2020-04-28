@@ -60,7 +60,7 @@ In a world of fading treasures
 The pleasure of your treasures
 Can not be measured up
 
-Ooh, I can't free a person from their charms
+Oh, I can't free a person from their charms
 But I'll tell you this for sure
 If nothing is ventured
 Then nothing is gained, let's go

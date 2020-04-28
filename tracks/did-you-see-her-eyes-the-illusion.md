@@ -71,7 +71,7 @@ Did you see her eyes
 Yeah, yeah, yeah, now
 
 Well now here she comes, walking down my street, alright
-Well now here she comes, ahhhh, she looks so sweet
+Well now here she comes, ah, she looks so sweet
 
 She can make you feel so good
 She can make you feel so fine

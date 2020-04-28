@@ -115,7 +115,7 @@ I will always be
 
 
 Saving forever for you
-Ooh, baby
+Oh baby
 You are the only one
 I'll ever give forever to
 

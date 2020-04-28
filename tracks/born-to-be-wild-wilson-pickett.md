@@ -66,4 +66,4 @@ We never gonna die, yeah
 
 Born to be wild
 We where born to be wild
-Ahhhhhhhhh, yeah
+Ah, yeah

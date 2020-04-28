@@ -61,7 +61,7 @@ rankings:
 
 Hell yeah
 That was a mothafuckin' trip
-The way y'all niggaz had the whole world sayin' UH!!!, na, na, na, na
+The way y'all niggas had the whole world sayin' UH!, na, na, na, na
 This here the Doggfather, rappin' on this shit here
 Check this out
 
@@ -101,7 +101,7 @@ Bow-wow-wow-yippie-yo-yippie-yay (Jeah, nigga, I can make ya say)
 Woof! mothafucker, Woof! mothafucker
 Bow-wow-wow-yippie-yo-yippie-yay (yeah, tank doggs, let me hear ya say)
 Woof! mothafucker, Woof! mothafucker
-Bow-wow-wow-yippie-yo-yippie-yay (all my real rap niggaz say)
+Bow-wow-wow-yippie-yo-yippie-yay (all my real rap niggas say)
 Woof! mothafucker, Woof! mothafucker
 Bow-wow-wow-yippie-yo-yippie-yay (yeah, Mystikal, where you at?)
 
@@ -125,7 +125,7 @@ Burnin' up the limelight
 Fire!
 And you ain't gotta strain your eyes to find us
 Throwin' bad days behind us
-Ahh damn up in the headlights
+Ah damn up in the headlights
 Bout to let it shine
 Find your ass in there tip-toeing
 Your ass is mine
@@ -140,7 +140,7 @@ We ain't done yet
 
 Let me here ya say
 Woof! mothafucker, Woof! mothafucker
-Bow-wow-wow-yippie-yo-yippie-yay (yeah, uh-huh, all my niggaz say)
+Bow-wow-wow-yippie-yo-yippie-yay (yeah, uh-huh, all my niggas say)
 Woof! mothafucker, Woof! mothafucker
 Bow-wow-wow-yippie-yo-yippie-yay (na, na, na, na, na, na)
 Woof! mothafucker, Woof! Woof! Woof! Woof!

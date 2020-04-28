@@ -3,9 +3,9 @@ artists:
 - Gilbert O'Sullivan
 features: []
 genres: []
-key: ooh-baby-gilbert-o-sullivan
-lyrics_url: https://genius.com/Gilbert-osullivan-ooh-baby-lyrics
-name: Ooh Baby
+key: oh-baby-gilbert-o-sullivan
+lyrics_url: https://genius.com/Gilbert-osullivan-oh-baby-lyrics
+name: Oh Baby
 rankings:
 - end_date: '1973-10-19'
   rank: 81
@@ -48,21 +48,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-15'
 ---
-Ooh baby your love is so bad
+Oh baby your love is so bad
 You baby you're driving me mad
-Ooh baby your kiss is so sweet
+Oh baby your kiss is so sweet
 You baby knock me off my feet
-Ooh baby I wish you were mine
-Ooh baby we'd have a good time
-Ooh what can I do
+Oh baby I wish you were mine
+Oh baby we'd have a good time
+Oh what can I do
 
-Ooh baby whatever you've got
+Oh baby whatever you've got
 You baby you're making me hot
-Ooh baby my temperature is high
-Ooh baby a hundred and five
-Ooh baby I think that you'll find
-Ooh baby I'm out of my mind
-Ooh what can I do
+Oh baby my temperature is high
+Oh baby a hundred and five
+Oh baby I think that you'll find
+Oh baby I'm out of my mind
+Oh what can I do
 
 I wish that there was some way
 I could have you to myself
@@ -70,13 +70,13 @@ Wish I didn't have to share you
 With anyone else (share you)
 With anyone else (share you)
 
-Ooh baby wherever you are
+Oh baby wherever you are
 You baby will you be my star
-Ooh baby I'm begging you please
-Ooh baby down on my knees
-Ooh baby why don't you say yes
-Ooh baby I'll give you my best
-Ooh what can I do
+Oh baby I'm begging you please
+Oh baby down on my knees
+Oh baby why don't you say yes
+Oh baby I'll give you my best
+Oh what can I do
 
 I wish that there was some way
 I could have you to myself
@@ -84,10 +84,10 @@ Wish I didn't have to share you
 With anyone else (share you)
 With anyone else (share you)
 
-Ooh baby your love is so bad
+Oh baby your love is so bad
 You baby you're driving me mad
-Ooh baby your kiss is so sweet
+Oh baby your kiss is so sweet
 You baby knock me off my feet
-Ooh baby I wish you were mine
-Ooh baby we'd have a good time
-Ooh--what can I do
+Oh baby I wish you were mine
+Oh baby we'd have a good time
+Oh--what can I do

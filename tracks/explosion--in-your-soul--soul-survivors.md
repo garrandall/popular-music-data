@@ -48,7 +48,7 @@ Something good to be heard
 Like an explosion, can't control
 
 And when I kiss
-(Um hmm)
+(Um hm)
 I kiss you, baby
 You know it's right
 (Uh huh)

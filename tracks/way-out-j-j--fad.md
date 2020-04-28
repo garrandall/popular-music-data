@@ -63,9 +63,6 @@ But that's O.K
 We know how it is
 J.J. Fad reigns supreme in the rapping biz
 
-
-
-
 I've got something to say
 (What?)
 I'm kinda mad
@@ -102,9 +99,6 @@ We have a classy style (style)
 That's worth your while
 So sit back and relax
 And let us get you riled
-
-
-
 
 Now that you know
 What we're talking about

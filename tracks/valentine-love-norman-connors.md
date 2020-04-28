@@ -73,4 +73,4 @@ Begging you to stay
 (Down on my knees)
 Darling, please say you
 Won't go away (I won't go away)
-Ooh, baby (woo, baby, I'm in love)
+Oh, baby (woo, baby, I'm in love)

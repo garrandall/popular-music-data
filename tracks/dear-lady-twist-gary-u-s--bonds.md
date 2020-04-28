@@ -78,8 +78,8 @@ Get up from your chair...
 Darling, may I have
 The pleasure of having
 This next twist with you
-I dont know how to twist
-You dont know how to twist
+I don't know how to twist
+You don't know how to twist
 No, well, let me tell you
 
 Well now, there's a new dance

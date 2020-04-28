@@ -134,8 +134,8 @@ It's alright, it's alright, it's alright
 Come on, come on, come come
 
 
-Just say hey (a-ooh-ah!), if it feels alright
+Just say hey (a-ohah!), if it feels alright
 Just say hey-ee-yeah, if ya feel alright
-Just say hey (a-ooh-ah, ooh-ah!), if it feels alright
+Just say hey (a-ohah, oh!), if it feels alright
 Just say hey-ee-yeah, if ya feel alright
 Just say hey, if it feels alright

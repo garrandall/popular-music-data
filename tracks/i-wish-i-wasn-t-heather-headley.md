@@ -117,7 +117,7 @@ I believed in you that's why I'm so mad
 Now I'm drowning in disappointment
 And it's hard for me to even look at you
 I wish, that you were home
-Holding me tight in your arms (Oooh baby)
+Holding me tight in your arms (Oh baby)
 I wish, I could go back
 To the day before we met
 And skip my regret

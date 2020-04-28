@@ -52,7 +52,7 @@ Tonight I'm yours
 And you are mine, now
 But is it love
 Or just summertime, now?
-Ooh, the time is right
+Oh, the time is right
 Come hold me tight
 Let's grab onto the love that we can borrow
 And let's not hang each other up

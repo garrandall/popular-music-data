@@ -108,7 +108,7 @@ And I'll write the words you love
 And what I can't say in a letter
 Will just have to wait till I get home
 
-Ooh there's not much time to tell you half the things I should
+Oh there's not much time to tell you half the things I should
 Only that I'm so glad I fell in love with you
 And I'd do it again if I could
 

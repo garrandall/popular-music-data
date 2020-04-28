@@ -36,7 +36,7 @@ Whoa oh, whoa oh, whoa oh
 Just keep breathing, breathing, breathing
 Whoa oh, whoa oh, whoa oh
 Just keep breathing, breathing, breathing
-Ooh ooh, ooh ooh
+Oh oh, oh oh
 When heaven seems so far away
 And dreams are just a memory
 When love is all too hard to hold

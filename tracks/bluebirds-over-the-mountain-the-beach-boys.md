@@ -76,7 +76,7 @@ Bring my baby to me
 
 Bring my baby
 Oooo Baby
-Oooo oooo oooo oooo
+Oooo oo oo oo
 
 
 

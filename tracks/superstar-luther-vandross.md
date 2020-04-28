@@ -82,32 +82,32 @@ Yes, I love you
 I really do
 
 Yeah, hey...
-Yeah, yeah...eah...yeah...ooh...
+Yeah, yeah...eah...yeah...oh..
 Play it easy, play it easy
 Keep it right there, keep it right there, keep it right there
 Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah
 What are you gonna say
 It's alright, it's alright
-Ooh, baby, it's alright, it's alright
+Oh, baby, it's alright, it's alright
 Alright now
 Keep it right there, keep it right there
 Yeah, yeah, yeah, yeah, yeah, yeah, yeah
 It's alright, it's alright
-Ooh, baby, it's alright, it's alright
+Oh, baby, it's alright, it's alright
 Say it's alright, it's alright
-Say, ooh, baby, it's alright, it's alright
+Say, oh baby, it's alright, it's alright
 Alright now
 Eah...
 L-l-l-l-love
 Yeah, yeah, yeah, yeah, yeah
-Eah...ooh...ooh...yeah...hea...
+Eah...oh...oh.yeah...hea...
 Say it's alright, it's alright
-Ooh, baby, it's alright, it's alright
+Oh, baby, it's alright, it's alright
 Alright now
 Alright now
 I used to be sad
 But now it's alright, it's alright
-Ooh, baby, it's alright, it's alright
+Oh, baby, it's alright, it's alright
 Alright now
 I wonder, I wonder
 Where are you again tonight

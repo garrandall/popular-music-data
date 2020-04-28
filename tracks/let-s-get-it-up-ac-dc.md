@@ -72,7 +72,7 @@ Then switch it on and start all over again
 I'm gonna get it up
 Never gonna let it up, no
 Ticking like a time bomb
-Ooh yeah, blowing out the fuse box
+Oh yeah, blowing out the fuse box
 I'll never go down, never go down
 
 

@@ -79,7 +79,7 @@ Doo n doo doo, doo n doo doo doo doo, doo n doo doo, Angela Jones
 Doo n doo doo, doo n doo doo doo doo, doo n doo doo, Angela Jones
 
 Each night I pray to heaven, way up above
-That you wont ever forget me, and give somebody else your
+That you won't ever forget me, and give somebody else your
 Doo n doo doo, doo n doo doo doo doo, doo n doo doo, Angela Jones
 Doo n doo doo, doo n doo doo doo doo, doo n doo doo, Angela Jones
 

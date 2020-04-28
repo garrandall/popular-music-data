@@ -139,7 +139,7 @@ Turn me loose
 Turn me loose
 I gotta do it my way
 I wanna fly
-Ooh, yeah
+Oh, yeah
 
 So, why don`t you turn me loose?
 Turn me loose

@@ -131,7 +131,7 @@ Can you say that you don't want her anymore
 (waoh waoh oh oh oh woah woah oh oh oh waoh waoh oh oh oh)
 
 There's the girl
-There's the girl......
+There's the girl...
 
 You don't wanna
 You don't wanna
@@ -139,4 +139,4 @@ You don't wanna
 You don't wanna
 
 There's the girl
-There's the girl......
+There's the girl...

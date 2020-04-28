@@ -51,77 +51,77 @@ Whoot Whoot Whoot Whoooo
 Whoot Whoot Whoot Whoooo
 
 I ain't never been no Silly Ho
-Waiting for your call 
+Waiting for your call
 Like the other girls want you
-I ain't never been no one to mess 
+I ain't never been no one to mess
 With someone else's mess
 That's not a thing for me to do
 I ain't never been that chickenhead
-To wake up in your bed 
+To wake up in your bed
 After every club or two
 I no be the one in mini skirt
-Always wanna flirt 
+Always wanna flirt
 With every player on the team
 
 If you really wanna find
-Someone to get some behind 
+Someone to get some behind
 I ain't the one for you
-If you really wanna know 
+If you really wanna know
 Boy you need a silly ho
 To do whatever you wanna do
 If you really wanna find
-Someone to get some behind 
+Someone to get some behind
 I ain't the one for you
-If you really wanna know 
+If you really wanna know
 Boy you need a silly ho
 To do whatever you wanna do
-Oooh oooh
+Oh oh
 
 I ain't never been no silly bitch
-Waiting to get rich 
+Waiting to get rich
 From a nigga's bank account
 I have always had my own things
 Bought my own rings
-Not goin' let you catch me out 
+Not goin' let you catch me out
 You should take a lesson from me
 
-I ain't the one to be 
+I ain't the one to be
 Depending on someone else
 I can run a scam before he can
 I'm better than a man
 I always keep my game on deck
 
 If you really wanna find
-Someone to get some behind 
+Someone to get some behind
 I ain't the one for you
-If you really wanna know 
+If you really wanna know
 Boy you need a silly ho
 To do whatever you wanna do
 If you really wanna find
-Someone to get some behind 
+Someone to get some behind
 I ain't the one for you
-If you really wanna know 
+If you really wanna know
 Boy you need a silly ho
 To do whatever you wanna do
-Oooh oooh
+Oh oh
 
 If you really wanna find
-Someone to get some behind 
+Someone to get some behind
 I ain't the one for you
-If you really wanna know 
+If you really wanna know
 Boy you need a silly ho
 To do whatever you wanna do
 If you really wanna find
-Someone to get some behind 
+Someone to get some behind
 I ain't the one for you
-If you really wanna know 
+If you really wanna know
 Boy you need a silly ho
 To do whatever you wanna do
-Oooh oooh
+Oh oh
 
 You know you can't get with this
 One night you just
-Go and bust find a ho 
+Go and bust find a ho
 To give it up
 Why you even try your luck
 Stuck on silly shit
@@ -136,32 +136,32 @@ I'm I'm out
 I'm out out out
 
 If you really wanna find
-Someone to get some behind 
+Someone to get some behind
 I ain't the one for you
-If you really wanna know 
+If you really wanna know
 Boy you need a silly ho
 To do whatever you wanna do
 If you really wanna find
-Someone to get some behind 
+Someone to get some behind
 I ain't the one for you
-If you really wanna know 
+If you really wanna know
 Boy you need a silly ho
 To do whatever you wanna do
-Oooh oooh
+Oh oh
 
 If you really wanna find
-Someone to get some behind 
+Someone to get some behind
 I ain't the one for you
-If you really wanna know 
+If you really wanna know
 Boy you need a silly ho
 To do whatever you wanna do
 If you really wanna find
-Someone to get some behind 
+Someone to get some behind
 I ain't the one for you
-If you really wanna know 
+If you really wanna know
 Boy you need a silly ho
 To do whatever you wanna do
-Oooh oooh
+Oh oh
 
 Oh oh oh oh
 Oh oh oh oh

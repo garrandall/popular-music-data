@@ -102,7 +102,7 @@ Distraído, de tu foto no me despego (heh)
 Si tú eres mi vida, por qué me liquidas (¿dime qué estás haciendo?)
 Yo no provoqué tu partida (heh)
 Necesito tu olor, necesito tu calor
-Necesito verte encima de mí en ropa interior (oooh)
+Necesito verte encima de mí en ropa interior (oh
 
 
 Aún quedan tus retratos

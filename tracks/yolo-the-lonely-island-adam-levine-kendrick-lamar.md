@@ -24,16 +24,10 @@ This life is a precious gift.
 So don't get too crazy,
 It's not worth the risk.
 
-
-
-
 You know that we are still young.
 So don't be dumb.
 Don't trust anyone,
 'Cause you only live once.
-
-
-
 
 Ugh, you only live once,
 That's the motto.
@@ -76,16 +70,10 @@ And never take the stairs
 You only live once,
 Don't let it go to waste.
 
-
-
-
 You know that we are still young,
 So hold off on the fun.
 Cook your meat 'til it's done,
 'Cause you only live once.
-
-
-
 
 Yeah,
 And here's another piece of advice:
@@ -145,9 +133,6 @@ And just roll solo
 Be care-folo
 You oughta look out
 Also stands for YOLO.
-
-
-
 
 You know that we are still young.
 Burn the prints off your thumbs.

@@ -80,10 +80,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-09-27'
 ---
-Ooh, baby, I don't know why
+Oh baby, I don't know why
 But somehow I always seem to get
 Tangled up in my pride
-Ooh, baby we're not that blind
+Oh baby we're not that blind
 Deep down inside you know
 This love's worth one more try
 Don't push it all aside
@@ -95,8 +95,8 @@ But darling, I'm still the best
 That you ever had
 Just give me a chance
 To let me show you how much
-I wanna give you my love touch, ooh
-I wanna give you my love touch, ooh
+I wanna give you my love touch, oh
+I wanna give you my love touch, oh
 
 
 Why can't I climb your walls
@@ -122,7 +122,7 @@ But darling, I'm still the best
 That you ever had
 Just give me a chance
 To let me show you how much
-I wanna give you my love touch, love touch, ooh
+I wanna give you my love touch, love touch, oh
 You know it doesn't matter
 Doesn't matter who's wrong
 I think I'm gonna find out
@@ -130,7 +130,7 @@ If this love is strong
 Just give me a chance
 To win back your trust
 I wanna give you my love touch
-I wanna give you my love touch, ooh
+I wanna give you my love touch, oh
 
 
 C'mon baby, try me out
@@ -138,15 +138,15 @@ I'll be good for you, ah!
 Just watch me one time
 
 
-Ooh, you're gonna get a, ooh you're gonna get a big love touch
-Ooh, you're gonna get a, ooh you're gonna get a big love touch
-Ooh, baby, baby
-Ooh, I need you
+Oh you're gonna get a, ohyou're gonna get a big love touch
+Oh you're gonna get a, ohyou're gonna get a big love touch
+Oh baby, baby
+Oh I need you
 
 
 Give me a chance
 To let me show you how much
-I wanna give you my love touch, ooh
+I wanna give you my love touch, oh
 You know it don't matter
 Who's right or who's wrong
 Guess we're gonna find out
@@ -154,17 +154,17 @@ If this love is strong
 Just give me a chance
 To win back your trust
 I wanna give you my love touch, love touch, love touch
-I wanna give you my love touch, ooh
+I wanna give you my love touch, oh
 Gotta give you my love touch
 
 
-Ooh, you're gonna get a, ooh, you're gonna get a big love touch
+Oh you're gonna get a, oh you're gonna get a big love touch
 I wanna give you my love touch
-Ooh, you're gonna get a, ooh, you're gonna get a big love touch
-Come on, baby, ooh
-Ooh, you're gonna get a, ooh, you're gonna get a big love touch
+Oh you're gonna get a, oh you're gonna get a big love touch
+Come on, baby, oh
+Oh you're gonna get a, oh you're gonna get a big love touch
 My love touch, my love touch, my love touch
-Ooh, you're gonna get a, ooh, you're gonna get a big love touch
+Oh you're gonna get a, oh you're gonna get a big love touch
 Baby, baby, baby, I need your love touch
 Honey, honey, honey, I need some love touch
-Ooh, you're gonna get a, ooh, you're gonna get a big love touch
+Oh you're gonna get a, oh you're gonna get a big love touch

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: the-stripper-david-rose-and-his-orchestra
+lyrics_url: https://genius.com/David-rose-the-stripper-lyrics
 name: The Stripper
 rankings:
 - end_date: '1962-05-18'
@@ -75,4 +76,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-09-01'
 ---
-
+Instrumental

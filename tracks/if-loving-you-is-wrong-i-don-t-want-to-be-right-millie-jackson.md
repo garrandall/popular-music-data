@@ -51,7 +51,7 @@ If loving you is wrong, I don't want to be right
 If loving you is so wrong, baby
 I don't want to be right
 
-Am I wrong to fall, ooh, ooh, ooh, ooh, so deeply in love with you
+Am I wrong to fall, oh oohohohh,oh deeply in love with you
 Knowing you have a wife and two little children depending on you too
 Am I wrong to hunger for the gentleness of your touch
 Knowing you have someone else at home who needs you just as much
@@ -77,5 +77,5 @@ Ohaaow!  I've been loving you a little bit too long
 I can't give up on your loving now
 I love you, want you, need you, got to have you
 Heeeeeeeeey!  Good god almighty, baby
-I love you.  Mmmm, hmmm, hmmm, mmmm, mmmm
-I need you.  Let me have you.  Mmmm
+I love you.  Mmm, hm, hm, mmm, mmm
+I need you.  Let me have you.  Mmm

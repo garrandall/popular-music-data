@@ -56,7 +56,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
 ---
-(Ooh, ooh, oop)
+(Oh oh oop)
 
 Findin' a job tomorrow mornin'
 Got a little somethin' I wanna do
@@ -78,6 +78,6 @@ Let her know one way or the other
 Our love's gonna be written down in history
 A-just like Romeo and Juliet
 
-(Ooh, ooh, oop)
+(Oh oh oop)
 (Doo, doot, doot, doot)
 (Doot, doot, doot, doo-doop)

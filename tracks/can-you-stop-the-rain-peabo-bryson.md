@@ -69,7 +69,7 @@ rankings:
   start_date: '1991-09-28'
 ---
 
-Ooh ooh ooh
+Ohohooh
 Girl
 
 Here's another morning without you

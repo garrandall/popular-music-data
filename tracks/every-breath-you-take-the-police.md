@@ -117,7 +117,7 @@ I feel so cold and I long for your embrace
 I keep crying baby, baby, please
 
 
-Ooh...
+Oh...
 
 
 Oh can't you see, you belong to me

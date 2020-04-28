@@ -91,7 +91,7 @@ Do not you send him, just come yourself
 Bring your love and nothing else
 
 
-Ooh just a, just a
+Oh just a, just a
 Just a little bit of you every day
 Will surely keep the doctor away
 Just a little bit of you every day

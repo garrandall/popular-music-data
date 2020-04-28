@@ -116,9 +116,3 @@ Made it clear
 Suddenly the feeling that I can't go on
 Is light years away
 
-
-
-
-
-
-

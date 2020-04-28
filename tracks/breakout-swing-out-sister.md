@@ -162,7 +162,7 @@ And breakout...
 (Don't) Lay down the law (stop)
 Shout out for more (to ask)
 Breakout and shout day in day out
-Ooh, breakout
+Oh, breakout
 
 Breakout
 

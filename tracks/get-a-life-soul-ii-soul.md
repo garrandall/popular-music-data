@@ -84,7 +84,7 @@ Elevate your mind, free your soul
 Well, come on, come on
 Feel the feeling, let your body take control
 
-Well, don't be afraid to experiment, you know, hmm
+Well, don't be afraid to experiment, you know, hm
 Go ahead, you know and implement your ideas
 Your notions, put them in motion
 Like the words the funky dreads have spoken to you

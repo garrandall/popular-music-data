@@ -110,7 +110,7 @@ rankings:
 ---
 
 Come on y'all let's take a ride
-don't you say shit just get inside 
+don't you say shit just get inside
 It's time to take your ass on another kind of trip
 coz you can't have the hop if you don't have the hip
 grab your gat with the extra clip and,
@@ -162,7 +162,7 @@ still tryin' to get a peace of the apple pie
 every game ain't the same, coz the game still remains
 don't it seem kinda strange, ain't a damn thing change
 if you don't work then you don't eat
-and only down-ass niggas can ride with me 
+and only down-ass niggas can ride with me
 hop-hop-hop your five quickly down the block
 stay sucka-free and keep the busters off your jock
 you gotta have heart son, if you wanna go,
@@ -188,7 +188,4 @@ do you want to ride with me, do you want to ride with me
 do you want to ride with me, do you want to ride with me
 do you want to ride with me, do you want to ride with me
 do you want to ride with me, do you want to ride with me
-
-
-
 

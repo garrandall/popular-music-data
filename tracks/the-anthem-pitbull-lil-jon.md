@@ -86,7 +86,7 @@ Everybody knows this right here
 Your mother, your father, yous sister, your brother
 Abuela y abuelo, everybody sing along!
 
-Latino!!
+Latino!
 
 Mami el negro, cubano
 Mami el negro, puertoriqueno
@@ -146,9 +146,6 @@ Go go go girl
 Shake your ass to the beat, shake your ass to the beat
 Shake your ass to the beat, shake your ass to the beat
 Hey!
-
-
-
 
 Take it to the flo' now
 

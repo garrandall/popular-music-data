@@ -15,7 +15,7 @@ rankings:
 It's another, if it ain't one thing
 Instigators, like putting fire on propane
 The wrong thing, they be worrying about
-Ooh you know females and how they like to run they mouths
+Oh you know females and how they like to run they mouths
 
 
 Wanna be, wanna be just like talk like, you

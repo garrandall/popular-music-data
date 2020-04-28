@@ -138,7 +138,7 @@ I'm stronger than I've been before
 This is the part when I break free
 'Cause I can't resist it no more
 
-No more, baby, ooh
+No more, baby, oh
 
 Thought on your body
 I came alive

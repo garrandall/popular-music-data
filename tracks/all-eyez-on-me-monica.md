@@ -38,10 +38,10 @@ rankings:
 ---
 
 
-I see you girl. Darkchild. 
-I got my eyez on you. 
-Let me see what you workin' with. 
-Let's dance yeah come on, come on. 
+I see you girl. Darkchild.
+I got my eyez on you.
+Let me see what you workin' with.
+Let's dance yeah come on, come on.
 
 
 
@@ -56,7 +56,7 @@ And your game is tight
 Come chill with me
 Get up on the floor
 And dance some more
-The night's just beginning 
+The night's just beginning
 
 
 I can feel your eyez on me
@@ -64,7 +64,7 @@ You're watchin'
 And off up in the club
 Tonight it's poppin'
 And I can tell that you're feeling it, too
-Know u do 
+Know u do
 
 
 Now when I'm doin' my thang
@@ -78,10 +78,7 @@ We're toe to toe
 Just dance with me
 And when we've come to an end
 Me and my friends
-We'll do it again 
-
-
-
+We'll do it again
 
 Come on let me see you work it out
 I'm a pretty young thang
@@ -89,22 +86,19 @@ Imma turn it out
 Party all night
 Workin' it out
 Till the lights out
-Till the early morn 
+Till the early morn
 
 
 Don't you know now is the perfect time
 I can make it right
 Makin' you all mine
 Baby tonight if you hold it down
-I can give you all that I got 
-
-
-
+I can give you all that I got
 
 I see you (ah baby!)
 You watchin' me (ah baby!)
 I see you (ah baby!)
-All Eyez On Me (ah darling!) 
+All Eyez On Me (ah darling!)
 
 
 

@@ -143,7 +143,7 @@ I think about you all the time
 I see you in my dreams
 
 
-Ahh, oh, my baby's fly, baby, oh
+Ah, oh, my baby's fly, baby, oh
 Yes, no, hurt me so good, baby, oh
 I'm so wrapped up in your love, let me go
 Let me breathe, stay out my fantasies

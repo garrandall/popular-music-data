@@ -32,7 +32,7 @@ I need a super hero lover
 I need a super hero lover
 (super lover, super lover)
 I need a super hero lover
-(i e yeaaaaah eeeeeee oh)
+(i e yeah ee oh)
 
 She was walking down the street that night
 Singin' mmmbop a ay yah

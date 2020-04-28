@@ -47,20 +47,20 @@ I'm overseas (seas)
 
 D-R-I-P-P-I-N-G
 I got that VVS I-C-E
-Ooh, frozen like a cooler
+Oh, frozen like a cooler
 Juice, blame it on my jeweler
 
 
-I got stones on my neck (ooh)
-Blood on my set (ooh)
+I got stones on my neck (oh
+Blood on my set (oh
 Water on my wrist (drip)
 Put glitter on my bitch (ju-juice)
 My ex was a waitress
-So I gave that hoe a tip (ooh)
+So I gave that hoe a tip (oh
 My ex fucked a lame
 Now she workin' double shifts (no juice)
 Our money ain't the same
-You a lame, and it clear (ooh)
+You a lame, and it clear (oh
 I did ten mil in 11 months, not a year (juice)
 I gave fifty racks in the club to appear (ju-juice)
 I blew two mil on my dog for a appeal
@@ -78,7 +78,7 @@ I'm overseas (seas)
 
 D-R-I-P-P-I-N-G
 I got that VVS I-C-E
-Ooh, feels like a cooler
+Oh, feels like a cooler
 Juice, blame it on my jeweler
 
 
@@ -109,5 +109,5 @@ I'm overseas (seas)
 
 D-R-I-P-P-I-N-G
 I got that VVS I-C-E
-Ooh, feels like a cooler
+Oh, feels like a cooler
 Juice, blame it on my jeweler

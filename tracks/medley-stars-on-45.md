@@ -127,7 +127,7 @@ Do you promise not to tell?
 Oh, oh-a-oh, oh
 Closer, let me whisper in your ear
 Say the words you long to hear
-I'm in love with you (oh-a-ooh-ooh)
+I'm in love with you (oh-a-oh-oh)
 
 Try to see it my way
 Do I have to keep on talking 'til I can't go on?
@@ -158,15 +158,15 @@ Have you heard the word is love?
 It's so fine, it's sunshine
 It's the word, love
 
-Ahh, look at all the lonely people
-Ahh, look at all the lonely people
+Ah, look at all the lonely people
+Ah, look at all the lonely people
 
 When I'm walking beside her people tell me I'm lucky
 Yes, I know I'm a lucky guy
 I remember the first time I was lonely without her
 Can't stop thinking about her now
 Every little thing she does, she does for me, yeah
-And you know the things she does, she does for me, oooh
+And you know the things she does, she does for me, oh
 
 You tell me that you've got everything you want
 And your bird can sing

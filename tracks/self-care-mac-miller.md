@@ -85,9 +85,6 @@ And you could find me (Yeah), I ain't hidin' (Yeah)
 I don't move my feet when I be glidin' (Yeah)
 I just slide in (Yeah) and then I roll out
 
-
-
-
 I didn't know, I didn't know
 I didn't know, I didn't know, hey
 Well, didn't know what I was missing
@@ -116,7 +113,7 @@ Can you feel it now?
 
 Oblivion, yeah, yeah
 Oblivion, yeah, yeah, yeah, yeah, yeah, yeah, yeah
-Oblivion, yeah, yeah, oohhh
+Oblivion, yeah, yeah, oh
 I got all the time in the world, so for now I'm just chilling
 Plus, I know it's a, it's a beautiful feeling, in oblivion, yeah, yeah
 Oblivion, yeah, yeah, oblivion, yeah, yeah

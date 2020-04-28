@@ -64,16 +64,10 @@ There's somebody thinking of you
 I'm the one who never hurt you
 Maybe that's because I love you
 
-
-
-
 Now don't forget me 'cause if you let me
 I will always stay by you
 You've got to trust me, that's how it must be
 There's so much that I can do
-
-
-
 
 If you call I'll be right with you
 You and I should be together

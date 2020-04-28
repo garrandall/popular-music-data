@@ -88,12 +88,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2019-07-06'
 ---
-You got me some type of way (hmm)
-Ain't used to feelin' this way (hmm-hmm)
+You got me some type of way (hm)
+Ain't used to feelin' this way (hm-hm)
 I do not know what to say (yeah, yeah)
 But I know I shouldn't think about it
-Took one fuckin' look at your face (hmm)
-Now I wanna know how you taste (hmm-hmm)
+Took one fuckin' look at your face (hm)
+Now I wanna know how you taste (hm-hm)
 Usually don't give it away (yeah, yeah)
 But you know I'm out here thinkin' 'bout it
 
@@ -110,7 +110,7 @@ Break up with your girlfriend
 Yeah, yeah, 'cause I'm bored
 
 This shit always happens to me (yeah)
-Why can't we just play for keeps? (hmm-hmm)
+Why can't we just play for keeps? (hm-hm)
 Practically on my knees (yeah, yeah)
 But I know I shouldn't think about it
 You know what you're doin' to me

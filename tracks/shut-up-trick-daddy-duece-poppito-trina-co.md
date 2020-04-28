@@ -58,7 +58,7 @@ rankings:
 
 
 We gon' let the band deal with this
-Ha ha, mmm-hmm
+Ha ha, mmm-hm
 M-I-A Style, heh, old school
 Uh hah..
 Okay, shut up!
@@ -102,14 +102,11 @@ Or you can say Miss Bigg, that's okay with me
 You need a grand just to speak to me
 Okay, are you sure you wanna sleep with me?
 Okay, you better be fo' sho'
-Cause I done left niggaz like you stuck befo'
+Cause I done left niggas like you stuck befo'
 Okay, you can ball with me
 Since you got a hot knot spend it all with me
 Okay, y'all know what's up
 Okay, uh huh, I ride, shut up!
-
-
-
 
 This goes out to my niggeroles
 and them pretty ass jazzy hoes, bitch what's up
@@ -121,15 +118,12 @@ I got two mo's of them phat hoes,
 late night and I ready to bust
 Are you okay? Look like you got a lot to say
 Okay, come widdit
-Niggaz keep hidin your hoes, what you do that fo'
+Niggas keep hidin your hoes, what you do that fo'
 Me and Money Mark been done hit it
 Been done split it - okay playboy? Fuck you say boy?
 Don't even much bring your hoe 'round C
-Niggaz y'all better quit fuckin with me
+Niggas y'all better quit fuckin with me
 Shut up!
-
-
-
 
 Lay down, playboy what's up
 What about the slugs in your head and your gut
@@ -151,8 +145,4 @@ Gun play, how I got the stripes
 2-4-K turned out the lights
 Gun play, how I got the stripes
 2-4-K turned out the lights
-
-
-
-
 

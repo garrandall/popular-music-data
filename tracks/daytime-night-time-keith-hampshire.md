@@ -78,7 +78,7 @@ In the daytime, night time
 Oh she looks good and she feels good
 Oh daytime, night time
 Each and every daytime, night time,
-Oh looks good... mmmmmm, she feels good
+Oh looks good... mmm, she feels good
 Ohhhh in the daytime, the night time
 Looks good...
 (Fade out)

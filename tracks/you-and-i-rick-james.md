@@ -146,9 +146,6 @@ You and me
 We'll be together eternally
 Eternally will be you and me
 
-
-
-
 Everybody dance on the funk
 Everybody dance on the funk
 Everybody dance on the funk

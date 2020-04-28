@@ -61,10 +61,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-08-08'
 ---
-Flames Of Paradise
-Elton John duet with Jennifer Rush
-Written by Bruce Roberts and Andy Goldmark
-Released as a single in 1987
 You're walking, talking like a flame, baby
 You're walking, talking like a flame, baby
 Never knew what my heart would be facing

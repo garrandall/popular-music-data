@@ -14,7 +14,7 @@ rankings:
   start_date: '2009-03-14'
 ---
 
-You can be my shone 
+You can be my shone
 
 Heyyyy
 
@@ -60,7 +60,7 @@ Dead presidents I'm peelin them
 For the record ya know contestin so shorty keep grillin 'em
 All the way all day don't play get to the point raise the temperature
 So hot, celebrate gala lips wanna give you this cake let's get physical
-Baddest in the club do that baby ooh too much
+Baddest in the club do that baby oh too much
 Test my luck let me touch be direct and let me come
 
 

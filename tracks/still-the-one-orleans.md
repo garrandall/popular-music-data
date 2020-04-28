@@ -103,8 +103,8 @@ Still the one I want to take along
 We're still having fun and you're still the one
 Yes, you are
 
-Ooh
-Ooh
+Oh
+Oh
 
 Changing, our love is going gold
 Even though we grow old, it grows new

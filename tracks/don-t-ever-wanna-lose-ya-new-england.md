@@ -61,11 +61,9 @@ Can't wait for you to walk through the door
 The rain is beating on my brain
 As the look on my face stays the same
 
-Don't ever wanna lose ya (3x's)
+Don't ever wanna lose ya
 
 And when I hear a speedy siren
 My heart gets so still just like dying
 Do anything to get you home safe
 Where could you be it's getting so late
-
-Repeat chorus

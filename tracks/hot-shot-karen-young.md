@@ -73,7 +73,7 @@ There ain't no man in sight
 I need a hot shot
 Hot shot, hot shot
 
-Ooh baby baby baby baby baby won't you feel it in my soul
+Oh baby baby baby baby baby won't you feel it in my soul
 Come on now move it
 Hey I know you never never never never gonna lose control
 My fire's burning, it's getting real hot
@@ -90,7 +90,7 @@ And the music's loud
 I need a hot shot
 Hot shot, hot shot
 
-Ooh come on, come on, come on, come on
+Oh come on, come on, come on, come on
 You gotta feel the kinda motion in my soul
 You gotta move it
 Whoo, I know you never never never gonna lose control
@@ -112,10 +112,10 @@ And the music's loud
 I need a hot shot
 Hot shot, hot shot
 
-Ooh come on, come on, come on, come on
+Oh come on, come on, come on, come on
 You gotta feel the kinda motion in my soul
 You gotta move it
-Whoo, i know you never never never gonna lose control
+Whoo, I know you never never never gonna lose control
 My fire's burning, it's getting real hot
 You know that I need me my shot, whooo
 
@@ -124,7 +124,7 @@ Hot shot hot shot hot (ah)
 Hot shot hot shot hot
 
 Whoaaa now baby
-Whoo hmm gimme gimme gimme gimme your love and baby
+Whoo hm gimme gimme gimme gimme your love and baby
 My my my my sweet sweet hot shot
 Whoo come on and feel, don't cha feel, don't cha feel
 Don't cha feel, don't cha feel, don't cha feel, whoo don't cha feel

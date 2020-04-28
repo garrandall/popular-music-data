@@ -114,14 +114,14 @@ There's nothing left to say
 
 
 Cause she rockin' that thang like
-Ooh, ooh, ooh, ooh ay ooh, ooh, ooh, ooh
+Oh, oh, oh, oh ay oh, oh, oh, oh
 She rockin' that thang like
-Ooh, ooh, ooh, ooh ay ooh, ooh, ooh, ooh
+Oh, oh, oh, oh ay oh, oh, oh, oh
 There's nothing I can say
 She rockin' that thang like
-Ooh, ooh, ooh, ooh ay ooh, ooh, ooh, ooh
+Oh, oh, oh, oh ay oh, oh, oh, oh
 She rockin' that thang like
-Ooh, ooh, ooh, ooh ay ooh, ooh, ooh, ooh
+Oh, oh, oh, oh ay oh, oh, oh, oh
 There's nothing I can say
 She just rockin' that thang like
 
@@ -133,20 +133,20 @@ I'm under her bra
 She said take it if you want it
 Then we made love till the first light of morning
 So we did it, done it, get it, got it
-Ooh, ooh, ooh baby
+Oh, oh, oh baby
 She said do it till my body don't move baby
-Ooh baby
+Oh baby
 
 
 She rockin' that thang like
-Ooh, ooh, ooh, ooh ay ooh, ooh, ooh, ooh
+Oh, oh, oh, oh ay oh, oh, oh, oh
 She rockin' that thang like
-Ooh, ooh, ooh, ooh ay ooh, ooh, ooh, ooh
+Oh, oh, oh, oh ay oh, oh, oh, oh
 There's nothing I can say
 She rockin' that thang like
-Ooh, ooh, ooh, ooh ay ooh, ooh, ooh, ooh
+Oh, oh, oh, oh ay oh, oh, oh, oh
 She rockin' that thang like
-Ooh, ooh, ooh, ooh ay ooh, ooh, ooh, ooh
+Oh, oh, oh, oh ay oh, oh, oh, oh
 There's nothing I can say
 She just rockin' that thang like
 
@@ -164,14 +164,14 @@ And umm!
 Oh yeah!
 
 
-Ooh, ooh, ooh, ooh ay ooh, ooh, ooh, ooh
+Oh, oh, oh, oh ay oh, oh, oh, oh
 She rockin' that thang like
-Ooh, ooh, ooh, ooh ay ooh, ooh, ooh, ooh
+Oh, oh, oh, oh ay oh, oh, oh, oh
 There's nothing I can say
 She rockin' that thang like
-Ooh, ooh, ooh, ooh ay ooh, ooh, ooh, ooh
+Oh, oh, oh, oh ay oh, oh, oh, oh
 She rockin' that thang like
-Ooh, ooh, ooh, ooh ay ooh, ooh, ooh, ooh
+Oh, oh, oh, oh ay oh, oh, oh, oh
 There's nothing I can say
 She just rockin' that thang like
 

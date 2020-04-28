@@ -62,9 +62,9 @@ Standing on the top (Yeah)...top
 On the top getting down, Temptations sing
 
 Standing on the top
-Ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohhoh
 Standing on the top
-Ooh, ooh, ooh, ooh, ooh
+Oh oh oohohohhoh
 
 
 When you're on the top
@@ -103,10 +103,10 @@ We want the funk
 Nothing else will do, no)
 
 We want the funk
-(Ooh, woo, woo, we want the funk, nothing but the funk, funk)
+(Oh woo, woo, we want the funk, nothing but the funk, funk)
 
 We want the funk
-(Ooh...we want the funk and nothing but the funk)
+(Oh...we want the funk and nothing but the funk)
 
 We want the funk (We want the funk)
 (All we're saying is we want the funk)

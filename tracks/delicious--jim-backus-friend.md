@@ -17,17 +17,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-08-18'
 ---
-Friend: Ooh we're gonna have fun
+Friend: Oh we're gonna have fun
 Jim: Yes
 F: It's a cozy table, isn't it?
 J: And champagne my dear, heh-heh
-F: Mmmmmm delicious, ha-ha
+F: Mmm delicious, ha-ha
 J: You like it? Heh-heh
-F: Mmmmmm delicious, ha-ha!
+F: Mmm delicious, ha-ha!
 J: Hee-hee-hee I like it to, heh-heh yes I do like it
-F: Mmmmmm delicious
+F: Mmm delicious
 J: Heh-heh you want some more?
-F: Mmmmmm delicious!
+F: Mmm delicious!
 J: I knew you'd like it, heh heh ha
 F: Delicious!
 J: Have some more...get the waiter and hehheh put on the paper hat...

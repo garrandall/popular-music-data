@@ -64,7 +64,7 @@ And no words could ever describe
 Oh, when you get that kind of loving
 It's a blessing to be alive
 
-Ooh, the sacred feeling
+Oh, the sacred feeling
 Just blows through my soul
 Searching for sanctuary
 To rest it must explode
@@ -78,7 +78,7 @@ And no words could ever describe
 Oh, when you get that kind of loving
 It's a blessing to be alive
 
-Ooh, the sacred feeling
+Oh, the sacred feeling
 Just blows through my soul
 Searching for sanctuary
 To rest it must explode

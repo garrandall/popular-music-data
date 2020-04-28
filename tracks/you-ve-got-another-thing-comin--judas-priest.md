@@ -68,9 +68,6 @@ You got another thing comin'
 In this world we're livin' in, we have our share of sorrow
 Answer now is don't give in, aim for a new tomorrow
 
-
-
-
 Oh so hot, no time to take a rest yeah
 Act tough, ain't room for second best
 Real strong, got me some security

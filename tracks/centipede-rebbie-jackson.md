@@ -140,9 +140,6 @@ So many tears
 Crawling like a centipede
 Centipede
 
-
-
-
 Don't you know
 In the quiet of the night
 When the snake is in the crawling

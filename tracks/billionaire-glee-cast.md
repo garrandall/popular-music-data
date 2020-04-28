@@ -48,16 +48,16 @@ Oh, every time I close my eyes
 (what chu see, what chu see bro?)
 I see my name in shining lights
 (uh huh)
-Ahh, yeah yeah
+Ah, yeah yeah
 (what else?)
 A different city every night
 Oh I, I swear, the world better prepare
 (for what?)
 For when I'm a billionaire
 (yeah!)
-Oh oooh oh oooh
+Oh oh oh oh
 When I'm a Billionaire
-Oh oooh oh oooh
+Oh oh oh oh
 (let's go)
 
 
@@ -91,7 +91,7 @@ Oh every time I close my eyes
 (what chu see, what chu see bro?)
 I see my name in shinin' lights
 (uh huh)
-Ahh, yeah yeah
+Ah, yeah yeah
 (what else?)
 A different city every night
 Oh (yeah yeah yeah)
@@ -99,10 +99,10 @@ I - I swear, the world better prepare
 (for what?)
 For when I'm a billionaire
 (yeah!)
-Oh oooh oh oooh
+Oh oh oh oh
 (Sing it)
 When I'm a Billionaire
-Oh oooh oh oooh
+Oh oh oh oh
 
 I wanna be a billionaire
 So freakin' bad

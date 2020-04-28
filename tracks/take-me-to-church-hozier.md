@@ -240,7 +240,7 @@ There is no sweeter innocence than our gentle sin
 In the madness and soil of that sad earthly scene
 Only then I am human
 Only then I am clean
-Ooh oh. Amen. Amen. Amen
+Oh oh. Amen. Amen. Amen
 
 Take me to church
 I'll worship like a dog at the shrine of your lies

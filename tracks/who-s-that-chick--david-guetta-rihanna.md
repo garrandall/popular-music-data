@@ -83,7 +83,7 @@ Who’s that chick? Who’s that chick?
 Ultra sexual the night has got me love sprung
 I won’t stop until the sun is up oh yeah
 My heart is a dancer beating like a disco drum
-Oh, oh oh, oohh wohh, oh oh
+Oh, oh oh, oh wohh, oh oh
 
 Ultra sexual the night has got me love sprung
 I won’t stop until the sun is up oh yeah

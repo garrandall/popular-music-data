@@ -88,7 +88,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-06-13'
 ---
-Oooh!
+Oh!
 Oh yeah
 
 Look what we got, hahaha
@@ -140,7 +140,7 @@ I've got a love that other girls dream of, heyeyey
 (This is our thang) Our thang
 (That's how a love should be) Don't you know that's just how a love should be, oh?
 
-Oooh!
+Oh!
 Oh yeah
 Ha
 Look what we got, hahaha
@@ -149,7 +149,7 @@ Heyeyeyey
 We got a love thang
 Heyeyeyey
 
-Oooh!
+Oh!
 Look what we got
 
 We got a, we got a love

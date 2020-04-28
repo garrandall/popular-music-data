@@ -127,7 +127,7 @@ And you know I'm looking fly tryna meet sum other guys
 But it gets hard sometimes cuz there ain't no one just like you
 I try my best but I can't shake this thing u got me going through
 
-All i can picture is the color of your eyes, and the way u make me smile
+All I can picture is the color of your eyes, and the way u make me smile
 I ain't felt this in a while,
 But I came to a conclusion that this is pure illusion
 Chaos and confusion but I'm not gonna let it ruin

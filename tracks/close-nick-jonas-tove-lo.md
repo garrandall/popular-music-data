@@ -106,12 +106,12 @@ Cause if I want you, and I want you, babe
 Ain't going backwards, won't ask for space
 Cause space was just a word made up by someone who's afraid to get too...
 
-Close, ooh
-Oh, so close, ooh
-I want you close, ooh
-Cause space was just a word made up by someone who's afraid to get close, ooh
-Oh, so close, ooh
-I want you close, ooh
+Close, oh
+Oh, so close, oh
+I want you close, oh
+Cause space was just a word made up by someone who's afraid to get close, oh
+Oh, so close, oh
+I want you close, oh
 Oh, I want you close, and close ain't close enough, no
 
 
@@ -129,24 +129,24 @@ Ain't going backwards, won't ask for space
 Cause space was just a word made up by someone who's afraid to get too...
 
 
-Close, ooh
-Oh, so close, ooh
-I want you close, ooh
-Cause space was just a word made up by someone who's afraid to get close, ooh
-Oh, so close, ooh
-I want you close, ooh
+Close, oh
+Oh, so close, oh
+I want you close, oh
+Cause space was just a word made up by someone who's afraid to get close, oh
+Oh, so close, oh
+I want you close, oh
 Oh, I want you close, and close ain't close enough, no
 
 Cause if I want you, and I want you, babe
 Ain't going backwards, won't ask for space
 Cause space was just a word made up by someone who's afraid to get too... close
 
-Close, ooh
-Oh, so close, ooh
-I want you close, ooh
-Cause space was just a word made up by someone who's afraid to get close, ooh
-Oh, so close, ooh
-I want you close, ooh
+Close, oh
+Oh, so close, oh
+I want you close, oh
+Cause space was just a word made up by someone who's afraid to get close, oh
+Oh, so close, oh
+I want you close, oh
 Oh, I want you close, and close ain't close enough, no
 Oh, I want you close, and close ain't close enough, no
 

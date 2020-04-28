@@ -15,7 +15,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2011-05-07'
 ---
-Oooh yeah, mmmm
+Oh yeah, mmm
 Breakthrough
 
 Up, down, spinnin all around

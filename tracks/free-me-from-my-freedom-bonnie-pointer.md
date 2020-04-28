@@ -93,7 +93,7 @@ And love me tenderly
 
 Once I left for greener pastures
 But the grass was stone
-Ooh, if you pave your way to glory
+Oh, if you pave your way to glory
 The road leads back to home
 Don't make me wait too long
 

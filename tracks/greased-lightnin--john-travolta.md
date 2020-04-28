@@ -53,7 +53,7 @@ We'll get her ready, I'll kill to get her ready
 With a four-speed on the floor, they'll be waiting at the door
 You know that ain't no shit
 We'll be getting lots of tit in Greased Lightnin'
-(Go, go, go, go go go go go go go go) 
+(Go, go, go, go go go go go go go go)
 
 
 (Go) Go Greased Lightnin', you're burning up the quarter mile
@@ -80,9 +80,6 @@ Greased Lightnin'
 You are supreme, the chicks'll scream
 For Greased Lightnin'
 (Go, go, go, go go go go go go go go)
-
-
-
 
 (Go) Go Greased Lightnin', you're burning up the quarter mile
 (Greased Lightnin', go Greased Lightnin')

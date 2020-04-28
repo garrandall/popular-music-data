@@ -143,6 +143,3 @@ Sometimes a heart just needs to go
 And there is so much I'll remember
 Underneath the open sky with you forever
 
-
-
-

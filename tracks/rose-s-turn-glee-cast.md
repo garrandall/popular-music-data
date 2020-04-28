@@ -43,7 +43,7 @@ Everything's coming up Kurt!
 This time for me!
 Hahahahahahaha!
 
-For me! For me! For me! For me! For me! For me!!! Ya!
+For me! For me! For me! For me! For me! For me! Ya!
 
 
 

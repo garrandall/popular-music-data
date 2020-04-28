@@ -160,7 +160,7 @@ Why you gotta act like that?
 How you gonna change it up?
 Whoa, ho, baby.
 We just finished making up.
-How you gonna act like that? 
+How you gonna act like that?
 But I need you.
 
 How you gonna act like we don't be making love?
@@ -178,23 +178,23 @@ I thought we'd never part.
 Yes, I did, baby.
 
 I was a player, and I made the choice to give my heart to you.
-And I gotta keep it that way, ooh, baby.
+And I gotta keep it that way, oh, baby.
 
 How you gonna up and leave me now?
-Ooh, baby.
+Oh, baby.
 How you gonna act like that?
 Why you gotta treat me this way?
 How you gonna change it up?
 Why you treat me wrong?
 We just finished making up.
-How you gonna act like that? 
+How you gonna act like that?
 Can me somebody tell me why, why, why?
 
 How you gonna act like we don't be making love?
 You know we be tearing it up,
 Breaking stuff, that ghetto love.
 Oh, oh, baby.
-How you gonna trip? 
+How you gonna trip?
 All my friends became your friends.
 How can you forget?
 All my ends became your ends.

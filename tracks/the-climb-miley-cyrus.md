@@ -163,9 +163,6 @@ Ain’t about how fast I get there
 Ain’t about what's waiting on the other side
 It's the climb
 
-
-
-
 There's always gonna be another mountain
 I'm always gonna wanna make it move
 Always gonna be an uphill battle

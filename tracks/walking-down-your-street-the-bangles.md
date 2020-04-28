@@ -74,7 +74,7 @@ rankings:
 ---
 
 Da da da da
-Ooh, I've had sleepless nights
+Oh, I've had sleepless nights
 Toss and turn
 Wake up burning for you to inspire
 
@@ -94,16 +94,16 @@ I've got one thing on my mind, yeah
 I'll even sacrifice my pride
 
 'Cause I can't stop the way I feel
-So I keep walking, ohh
+So I keep walking, oh
 'Cause I want you
 
 Walking down, down your street
 I'm walking down your street
 Walking down your street
-Down your street, ohhh
+Down your street, oh
 
 I can't stop the way I feel
-So I keep walking, ohh
+So I keep walking, oh
 
 Walking down your street
 With a love that I can't hide

@@ -116,7 +116,7 @@ I don't know
 
 What'cha gonna feel?
 What'cha gonna do?
-Ooh
+Oh
 Won't someone tell me
 
 What'cha wanna say?
@@ -124,7 +124,7 @@ What'cha wanna do?
 There's only one thing left to say
 What'cha wanna say?
 What'cha wanna say?
-Ooh
+Oh
 
 
 C'est la vie
@@ -155,7 +155,7 @@ I don't know
 
 What'cha gonna feel?
 What'cha gonna do?
-Ooh
+Oh
 Won't someone tell me
 
 What'cha wanna say?
@@ -163,7 +163,7 @@ What'cha wanna do?
 There's only one thing left to say
 What'cha wanna say?
 What'cha wanna say?
-Ooh
+Oh
 
 
 

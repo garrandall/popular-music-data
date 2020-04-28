@@ -37,14 +37,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-01-12'
 ---
-"Crash!"
-Come on, come on!
-
-Come on, come on!
-
-"Crash!"
-
-
 Crash, here I go, watch the flash
 Light as it shines, bright in the night
 Rhymes I recite, rhymes that you might like
@@ -53,7 +45,6 @@ So I just came here, to get you hyped
 I'm like fire, get your body filled with desired
 Start to dance!
 
-(chorus)
 All together, let's just party
 All together, let's just have some fun
 Knocks me off my feet
@@ -70,7 +61,6 @@ Just shake, check out this groove
 It's a jam for the underground youth
 So whatcha gonna do?
 
-(repeat chorus)2X
 Crash, she don't need no introduction
 The bomb, bombshell, of seduction
 
@@ -106,7 +96,6 @@ Have fun! That's what we say
 When you're slamming with the
 T, the K, and the A!
 
-(chorus)
 All together, let's just party
 All together, let's just have some fun
 Knocks me off my feet
@@ -115,4 +104,4 @@ To the funky beat, to the funky sound
 
 Let's funky, let's funky, let's dance
 
-Crash! Crash! Crash!!!!!
+Crash! Crash! Crash!

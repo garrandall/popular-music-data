@@ -46,7 +46,7 @@ I wanna do it with you
 Ah yeah, yeah I wanna do it with you
 
 I wanna do it with you
-Ooh, ooh, yeah, yeah, ah yeah, yeah
+Oh, oh yeah, yeah, ah yeah, yeah
 Groovin' all night
 
 Groovin' in the midnight
@@ -119,7 +119,7 @@ Ah yeah, yeah
 
 I wanna do it with you
 I wanna do it with you
-Ooh, ooh, ooh, ooh, ooh, ooh, ooh
+Oh, oh oohohohh,oh, ohoh
 I wanna do it with you
 
 The sky's the limit

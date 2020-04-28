@@ -45,18 +45,12 @@ And I wouldn't wanna change a thing
 Young and dumb and full of cum
 With a sugar loaded candy cane
 
-
-
-
 I can’t eat, can’t sleep and I'm bored as fuck
 And the girl I want just walked away
 She just found out I'm too drunk to fuck
 Looks like I'm not getting laid
 
-
-
-
-Yeah! No, too drunk to fuck you, ooh!
+Yeah! No, too drunk to fuck you, oh
 I'm too drunk to fuck you, somebody, help me!
 Lord have mercy, somebody help me I can't fucking breathe
 I'm too drunk to fuck!

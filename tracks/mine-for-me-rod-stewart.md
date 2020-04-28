@@ -39,9 +39,6 @@ Over the mountain and under the sea
 They'll never be another one like mine for me
 You're for me, yeah
 
-
-
-
 Mine is always, mine is grand
 Don't you know that the woman that love me she understands
 And can't you see that it's mine for me?

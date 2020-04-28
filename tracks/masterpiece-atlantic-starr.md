@@ -104,11 +104,11 @@ A picture perfect painting, that's what our love is
 And yes I need you so, and now I know
 
 
-ooooh
+oh
 I've found a masterpiece in you
 a work of art it's true
 And I treasure you my love
-ooooh
+oh
 I've found a masterpiece in you
 a work of art it's true
 And I treasure you

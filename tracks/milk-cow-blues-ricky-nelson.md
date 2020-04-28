@@ -50,4 +50,4 @@ Aw, when you're gonna be sorry
 
 Hey, hey, hey, yeah
 Hey, hey, hey, all right
-Hey, hey, hey, yeah, all right, ooh
+Hey, hey, hey, yeah, all right, oh

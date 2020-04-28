@@ -2,7 +2,7 @@
 artists:
 - Timbaland
 features:
-- Missy "Misdemeanor" Elliott
+- Missy Elliott
 - Magoo
 genres: []
 key: here-we-come-timbaland-missy--misdemeanor--elliott-magoo
@@ -133,7 +133,7 @@ Doo-do-do, doo-do-do (Yea)
 Doo-do-do, doo-doo, doo doo doo (Yea)
 Doo-do-do, doo-do-do (Yea)
 Doo-do-do, doo-doo, doo doo doo (Yea)
-Doo doo, doo doo doo, doo doo doo........(Yea)
+Doo doo, doo doo doo, doo doo doo...(Yea)
 
 
 

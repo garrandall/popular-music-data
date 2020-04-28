@@ -90,7 +90,7 @@ And I forgot to say "I love you"
 It was right on the tip of my tongue
 (And I forgot to say) to say, to say...
 
-(Ah, ah, ahh, tip of my tongue) my tongue
+(Ah, ah, ah, tip of my tongue) my tongue
 (Tip of my tongue)
 
 SPOKEN:

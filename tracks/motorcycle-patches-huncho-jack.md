@@ -56,7 +56,7 @@ Diamonds untucked, diamonds untucked (Ice, ice, yeah!)
 We on road
 I can't stop no more, on my time I can't go, yeah (Oh no)
 If I send these flicks to your phone, you can't leak (Nah)
-Motorcycle patches is earned on the streets (Ahh, ahh)
+Motorcycle patches is earned on the streets (Ah, ah)
 Fuck shit up, we done fuck shit up
 It got me stuck, it done got me stuck
 Drugs got me stuck, love got me stuck
@@ -64,7 +64,7 @@ Diamonds untucked, diamonds untucked, yeah
 Jacket got stripes (Alright!)
 I been blessed in with the knights (Blessed)
 Just turned twenty-five, yeah (Five)
-Goin' in like I'm doin' twenty-five to life (Ahh)
+Goin' in like I'm doin' twenty-five to life (Ah)
 I'm alone, out of sight
 At the crib, come take a hike
 In the field, not the Hills
@@ -81,7 +81,7 @@ Yeah, motorcycle patches on her jacket (Yeah!)
 Rip all the money out the plastic (Yeah, yeah!)
 Put it on her tongue and now she dancin' (Pop it, pop it)
 Gave her everything, now what you asking? (No)
-Flip, make it flip, do gymnastics (Ahh)
+Flip, make it flip, do gymnastics (Ah)
 Pop her a bean, unlock the talent (Yeah, yeah!)
 Eat up all the green, taste just like salad (It's lit!)
 .40 on my hip like it's new fashion, blastin'

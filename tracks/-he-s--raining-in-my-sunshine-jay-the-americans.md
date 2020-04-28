@@ -32,7 +32,6 @@ Trouble never came my way
 The light of her love always followed me
 Till her new love turned my world to gray
 
-CHORUS:
 Now he's raining in my sunshine, clouding up my sky
 Yes he's raining in my sunshine, come between her and I
 All at once he's taken everything that's mine
@@ -41,8 +40,3 @@ Why did he have to go and steal my love?
 Why did he take her away?
 She was the only thing I had in life
 She was my sunny day
-
-(chorus)
-(instrumental)
-
-(repeat last 2 lines of verse 2, then chorus)

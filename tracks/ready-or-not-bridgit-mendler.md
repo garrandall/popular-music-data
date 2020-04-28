@@ -75,9 +75,9 @@ And now I'm like a bee and I'm huntin' for the honey
 And I'm kinda shy but you're super fly yeah
 I could be your kryptonite
 
-Like ohh ohh ohh
+Like oh oh oh
 Light my heart up baby like a matchstick
-Ohh ohh ohh
+Ohh oh oh
 And hit the gas quick
 
 Ready or not
@@ -104,9 +104,9 @@ We could have a palace right next to Oprah
 Take me away where ever you say
 Yeah we could be setting sail
 
-Like ohh ohh ohh
+Like oh oh oh
 Light my heart up baby like a matchstick
-Ohh ohh ohh
+Ohh oh oh
 And hit the gas quick
 
 Ready or not

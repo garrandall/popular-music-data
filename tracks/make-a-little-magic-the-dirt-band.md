@@ -100,7 +100,7 @@ It's up to us to do the choosing
 Let's make a little magic before the night is through
 Make a little magic before the night is through
 
-Ooh, to the blue skies
+Oh to the blue skies
 Where no one can reach us
 It may sound crazy but just hold on tight,
 Never has a love run deeper

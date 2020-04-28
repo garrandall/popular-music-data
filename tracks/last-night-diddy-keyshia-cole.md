@@ -127,7 +127,7 @@ I tried to call, but my pride wouldn't let me dial
 And I'm sitting here (Sitting there) with this blank expression
 (I can't read your mind, baby)
 And the way I feel (The way I feel), I wanna curl up like a child
-(Ooh baby)
+(Oh baby)
 
 
 I need you and you need me
@@ -151,7 +151,7 @@ And the way I feel, I wanna curl up like a child
 
 
 Tell me what words to say to make you come back
-Don't break me like that (Ooh)
+Don't break me like that (Oh)
 And if it matters, I'd rather stay home (Baby)
 With you, I'm never alone
 Don't wanna wait 'til you're gone

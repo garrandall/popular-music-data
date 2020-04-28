@@ -36,7 +36,7 @@ And we'll never dare to live alone
 'Cause we're not stones rolling down a mountainside
 We all count and we've got strength and we got pride
 'Cause God is on our side (God is on our side, God is on our side)
-Mmm, hmm, God is on our side, hmm, hmm
+Mmm, hm, God is on our side, hm, hm
 
 Winners and losers
 Fight when you know you're right
@@ -56,17 +56,17 @@ But no, no, no
 'Cause we're not stones rolling down a mountainside
 We all count and we've got strength and we got pride
 'Cause God is on our side (God is on our side, God is on our side), baby, girl
-God is on our side (Ooh, ooh, ooh)
+God is on our side (Oh, oh ooh
 I said (God is on our side, God is on our side) we're not stones, no, no
-(Ooh, ooh, ooh)
+(Oh, oh ooh
 Hey, baby, hey (God is on our side, God is on our side)
-Mmm, hmm, mmm, hmm (Ooh, ooh, ooh)
+Mmm, hm, mmm, hm (Oh, oh ooh
 God is on our side (God is on our side, God is on our side)
-Hey, we ain't stones, no, no, no, no, no, no, no, no, no (Ooh, ooh, ooh)
+Hey, we ain't stones, no, no, no, no, no, no, no, no, no (Oh, oh ooh
 
 Givers and takers (God is on our side), whoa, you heart breakers (God is on our side)
 We could break or make up, God is on our side, yeah
-Come on, mmm... hmm... hmm...
+Come on, mmm... hm... hm...
 Come on, yeah, yeah
 
 Rolling down a mountainside

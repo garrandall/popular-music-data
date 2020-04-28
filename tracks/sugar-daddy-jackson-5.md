@@ -54,7 +54,7 @@ Doo-doo, ba doo-doo-dood oo
 Doo-doo, ba doo-doo-dood oo
 Doo-doo, ba doo-doo-dood oo
 
-Ooh, brand new boots I bought ya
+Oh, brand new boots I bought ya
 Fine, fine, blew your mind
 Fin'ly thought I caught ya
 And you love was mine all mine
@@ -64,7 +64,7 @@ Step, step, steppin' on my toes
 The whole world's talkin' 'bout
 How I'm your Standby Santa Claus
 
-But ooh, your kisses thrill me
+But oh, your kisses thrill me
 Sure love your angel eyes
 The devil in you kills me
 But I made up my mind
@@ -100,7 +100,7 @@ It ain't never gonna stop
 Nooooooooo
 Baby, I'm a fool
 Just a fool in love with you
-(I cant help myself, oh, no)
+(I can't help myself, oh, no)
 Oh, no, I can't help myself
 
 I'm gonna be your Sugar Daddy

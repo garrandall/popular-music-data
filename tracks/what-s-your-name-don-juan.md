@@ -64,11 +64,11 @@ rankings:
 What's your name? I have seen you before
 What's your name? May I walk you to your door?
 It's so hard to find a personality with charms like yours for me
-Ooh-ooh, ooh-ooh, ooh-ee
+Oh-oh, oh-oh, oh-ee
 What's your name? Is it Mary or Sue?
 What's your name? Do I stand a chance with you?
 It's so hard to find a personality with charms like yours for me
-Ooh-ee, ooh-ee, ooh-ee
+Oh-ee, oh-ee, oh-ee
 I stood on this corner waiting for you to come along
 So my heart could feel satisf-i-ied
 So please let me be your Number One
@@ -76,7 +76,7 @@ Under the moon, under the stars, and under the sun
 Oh-oh, what's your name? (what's your name?) Is it Mary or Sue?
 What's your name? Do I stand a chance with you?
 It's so hard to find a personality with charms like yours for me
-Ooh-ee, ooh-ee, ooh-ee
+Oh-ee, oh-ee, oh-ee
 What's your name?
 What's your name?
-Shooby-doo-bop-bah-dah!!
+Shooby-doo-bop-bah-dah!

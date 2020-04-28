@@ -50,7 +50,7 @@ It's all about the wordplay
 (Ha La La La Love)
 The wonderful thing it does
 Because, because
-I am the wizard of ooh's and ah's and fa-la-la's
+I am the wizard of oh's and ah's and fa-la-la's
 Yeah the Mister A to Z
 They say I'm all about the wordplay
 
@@ -80,7 +80,7 @@ It's all about the wordplay
 (Ha La La La Love)
 The wonderful thing it does
 Because, because
-I am the wizard of ooh's and ah's and fa-la-la's
+I am the wizard of oh's and ah's and fa-la-la's
 Yeah the Mister A to Z
 They say I'm all about the wordplay
 
@@ -101,7 +101,7 @@ I'm stickin' to the wordplay
 Ha La La La Love
 The wonderful thing it does
 Because, because
-I am the wizard of ooh's and ah's and fa-la-la's
+I am the wizard of oh's and ah's and fa-la-la's
 Yeah the Mister A to Z
 They say I'm all about the wordplay
 
@@ -112,7 +112,7 @@ Stickin' with the wordplay
 Ha La La La Love
 I love the wonderful thing it does
 Because, because
-The ooh's and ah's and fa-la-la's fall back in love
+The oh's and ah's and fa-la-la's fall back in love
 For the Mister A to Z they say
 Is all about the wordplay
 

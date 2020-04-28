@@ -113,7 +113,7 @@ I'm lookin'
 I'm lookin' for a love
 Lookin' for a love
 Well now
-And I'm lookin' 
+And I'm lookin'
 here and there
 Searching everywhere
 Gotta, gotta, gotta
@@ -129,7 +129,7 @@ And back with me again
 Yeah
 With lots of love and kisses
 AndÂ 
-But right now oooooh
+But right now oh
 I'm lookin' for a love, yes sir
 Everyday of my life
 And I'm lookin' here and there

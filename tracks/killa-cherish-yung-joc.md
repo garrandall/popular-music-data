@@ -108,10 +108,6 @@ I gotta tell you, baby boy is so fine (fine)
 Just gotta have you (oh-yeah)
 
 
-
-
-
-
 Oh it feels so wrong that it must, it must be right
 And I'm so high, don't wanna come down
 Just let me fly
@@ -134,8 +130,4 @@ I break hearts
 The heart break 'em tell
 I treat your chick like a pair of ones
 Where sluts have one good time and fun
-
-
-
-
 

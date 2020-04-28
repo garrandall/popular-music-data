@@ -117,7 +117,4 @@ We're so pleased to be with you (Sky)
 Look around, see what you do (Blue)
 Everybody smiles at you
 
-
-
-
 Please turn me over

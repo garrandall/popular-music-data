@@ -71,7 +71,7 @@ When ya tell a tale that isn't true
 
 Look in the dark
 You see my face
-(Aaaah!)
+(Ah!)
 Don't try to hide
 I'm e'rry place
 Very cool, hot and sweet

@@ -130,18 +130,10 @@ I don't wanna go,
 But you gotta let me know,
 How you feel.
 
-
-
-
-
 See I'm so confused,
 I just don't know what to do,
 And I don't understand, no.
 You know I don't wanna stay,
 You know I don't wanna go,
 Baby, please listen to me.
-
-
-
-
 

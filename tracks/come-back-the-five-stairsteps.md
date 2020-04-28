@@ -45,11 +45,11 @@ To me
 Come back
 Come back
 Come back to me
-What have i done
-Oooh
+What have I done
+Oh
 To make you feel this way
-Oooh
-If i cant stop crying
+Oh
+If I can't stop crying
 I would have to stay
 Just come back
 Come back

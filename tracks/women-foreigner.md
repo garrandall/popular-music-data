@@ -86,7 +86,7 @@ Women you dream about all your life
 Women that stab you in the back with a switchblade knife
 
 
-Oh women, ooh, ooh
+Oh women, oh oh
 Talk about women
 Around the world
 Yeah women

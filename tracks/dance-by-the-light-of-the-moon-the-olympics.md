@@ -70,7 +70,7 @@ Ask your mom and your daddy
 Can you go out tonight
 We gonna dance by the light of the moon
 
-Ooh, by the light, by the light, of the silvery moon
+Oh, by the light, by the light, of the silvery moon
 We gonna dance by the light of the moon
 By the light, by the light of the silvery moon
 We gonna dance (dance)
@@ -83,7 +83,7 @@ Got a dollar in my pocket
 Gonna keep the juke a rockin'
 Dance by the light of the moon
 
-Ooh, by the light, by the light, of the silvery moon
+Oh, by the light, by the light, of the silvery moon
 We gonna dance by the light of the moon
 From the light, from the light of the silvery moon
 We gonna dance (yeah)
@@ -97,7 +97,7 @@ Gonna dance with my darlin'
 With a hold in her stockin'
 Dance by the light of the moon
 
-Ooh, by the light, by the light, of the silvery moon
+Oh, by the light, by the light, of the silvery moon
 We gonna dance a-by the light of the moon
 By the light, by the light, of the silvery moon
 We gonna dance (yeah)
@@ -113,7 +113,7 @@ Toes keep a-poppin'
 Gonna dance with my darlin' with the hole in her stockin'
 Dance by the light of the moon
 
-Ooh, by the light
+Oh, by the light
 (By the light, of the silvery moon)
 C'mon now, baby (yeah)
 By the light of the moon

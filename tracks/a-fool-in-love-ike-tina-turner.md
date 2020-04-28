@@ -108,14 +108,14 @@ You're just a fool, you know you're in love (Tell me one more time...)
 You've got to face it to live in this world... (Hey, hey, hey, hey, hey... whoa! Hey, hey...)
 You take the good along with the bad
 Sometimes you're happy, and sometimes you're sad (Tell me one more time...)
-You know you love him, you can't understand (Ooh...)
+You know you love him, you can't understand (Oh...)
 Why he treats you like he do, when he's such a good man
 
 (Tell me...)
 Doo doo, doo, doo (Tell me one more time...)
 Doo doo, doo, doo (Hey, hey, hey, hey, hey... yeah! hey, hey)
 Doo doo, doo, doo (One more time!)
-Doo doo, doo, doo (Ooh...)
+Doo doo, doo, doo (Oh...)
 Doo doo, doo, doo
 
 

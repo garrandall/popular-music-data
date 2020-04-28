@@ -30,7 +30,7 @@ rankings:
 ---
 Don't start now
 Not unless you're gonna love me
-Ooh, wee, you've got to love me all the way
+Oh wee, you've got to love me all the way
 Don't touch me, baby
 Don't even call me on the phone
 I can't have you love me one minute, baby
@@ -43,7 +43,7 @@ You gotta stick by me when I'm down
 
 I just wanna tell you one more time
 Don't start now, not unless you're gonna love me
-Ooh, wee, you've got to love me all the way
+Oh wee, you've got to love me all the way
 
 
 It's not my fault
@@ -55,4 +55,4 @@ I just can't take it no more
 
 I just wanna tell you one more time
 Don't start now, not unless you're gonna love me
-Ooh, wee, you've got to love me all the way
+Oh wee, you've got to love me all the way

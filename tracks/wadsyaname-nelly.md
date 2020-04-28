@@ -65,7 +65,7 @@ Now I ain't one of them niggas that wanna trip
 Get mad cause you aint interested, he yellin fuck you bitch
 Now don't get it twisted, yeah I'ma look when you pass
 But I aint the one to pull on your arm or grab your ass
-You see its the swagger, It wont allow me lookin thirst
+You see its the swagger, It won't allow me lookin thirst
 Now I aint attacking unless I get a signal first
 And I aint the one thats gon be playin and do the do
 Before its over you gon say (shit I should pay you)
@@ -94,9 +94,9 @@ Shawty
 I like to see ya independent wit ya job
 I like ya got ya own house and ya own car
 But ya say you gotta lame ass nigga in your life
-And he cant get the mental and physical part right
-You playin wit ya toys but ya toys dont bite
-See they dont talk shit and they dont hit it how you like
+And he can't get the mental and physical part right
+You playin wit ya toys but ya toys don't bite
+See they don't talk shit and they don't hit it how you like
 See I just want the first right of refusal, when you catch mood
 Just call and I come through and sock it to you, promise you booboo
 He said he got the magic stick, well ma my shit is like voodoo

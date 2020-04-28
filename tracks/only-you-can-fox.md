@@ -49,13 +49,13 @@ See right thru my head thru my every word
 Only you can oh ho only you
 
 Only you have a right to me
-You ohh
+You oh
 Only you come home every night every night eh hey yeah
 
 Who can strum a tune by the light of the moon
 Make me love like you do in the afternoon
 Only you can oh ho only you
-Only you can . . 
+Only you can . .
 Only you have a right to me
-You ohh . . 
+You oh . .
 Who can strum a tune by the light of the moon . .

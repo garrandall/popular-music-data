@@ -86,7 +86,7 @@ Yeah (yeah)
 Oh, girl, this is for the best friend
 But this girl meets boy, girl don't make it harder than it has to be
 Come and lay one on me
-Hmm hmm
+Hm hm
 You can kiss like your heart ain't ever been broke
 The kind of lips that your lips get your eyes to close
 Yeah I know what you're goin' through, I do

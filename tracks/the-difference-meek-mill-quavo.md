@@ -14,9 +14,6 @@ rankings:
   start_date: '2016-11-19'
 ---
 
-
-
-
 Sonny Rollin' Grams of Wax
 
 

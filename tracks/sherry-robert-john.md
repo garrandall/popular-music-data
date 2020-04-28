@@ -53,6 +53,6 @@ Sherry, can you come out tonight
 You better write your mama
 Tell her everything is all right
 
-Ahhh (Sherry baby) Sherry baby
-Ahhh (Sherry baby) Sherry baby
-Ahhh (Sherry baby) Sherry baby...
+Ah (Sherry baby) Sherry baby
+Ah (Sherry baby) Sherry baby
+Ah (Sherry baby) Sherry baby...

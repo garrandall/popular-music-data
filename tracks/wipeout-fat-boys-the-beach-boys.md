@@ -124,13 +124,13 @@ So we cut on the box and started to shout
 It was the Beach Boys rocking huh huh the "Wipe Out"
 
 Oo oo
-Ooo ooo
+Ooo oo
 Oo
 Oo
 Oo oo
 
-Wa-ah-ah-ah wawawa-ooh-oo
-Wa-ah-ah-ah wawawa-ooh-oo
+Wa-ah-ah-ah wawawa-oh-oo
+Wa-ah-ah-ah wawawa-oh-oo
 That's it, that that that's it dit dit dit dit dit
 Hit it D
 

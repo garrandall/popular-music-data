@@ -123,11 +123,8 @@ How Jay said?  "Money Ain't a Thing"
 It's been close a few, at times even impossible
 But, it's been between me and you, ba-byyy
 
-
-
-
 Girl it's on again, every year - we hummer 'em in
-Beaches, houses, hoes, foes, friends  
+Beaches, houses, hoes, foes, friends
 And when the, day ends - that's when it all begins
 You wit him?  Here's my room key; holla at me
 While you thinka-think I'ma hit it up
@@ -139,12 +136,9 @@ Let me handle my bizzz, it is what it is
 Nigga livin his liiiife, and that's my bitch
 You know I gotta wiiiife, let's keep this thing tight, ba-byyy
 
-
-
-
 Don't let the word get out (shhh), ba-byyy
 This is - strictly between me and you, ba-byyy
-If they - knew we were doin what we were doin it'd probably ruin 
+If they - knew we were doin what we were doin it'd probably ruin
 our creep away summer in Cancun'n-and I, love
 the way we get away, throw away a whole day
 Turn off the pagers and phones, we in the zone like

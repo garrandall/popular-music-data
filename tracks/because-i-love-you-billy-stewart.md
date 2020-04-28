@@ -16,8 +16,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-29'
 ---
-Ooh, ooh, I love you
-Ooh, ooh, I love you
+Oh, oh, I love you
+Oh, oh, I love you
 
 I'll follow a rainbow
 Bring you a pot of gold
@@ -41,8 +41,8 @@ Don't you know I love you
 (I love you)
 I said I love you
 
-Ooh, ooh, I love you
-Ooh, ooh, I love you
+Oh, oh, I love you
+Oh, oh, I love you
 
 I'll take the sunlight
 So we'll have a moon at night
@@ -68,13 +68,13 @@ Baby (baby)
 Don't you know I love you
 I said I love you
 
-Ooh, ooh, I love you
-Ooh, ooh, I love you
+Oh, oh, I love you
+Oh, oh, I love you
 
 La la la la...
 I said I love you
 La la la la...
 Don't you know I love you
 
-Ooh, ooh, I love you
-Ooh, ooh, I love you
+Oh, oh, I love you
+Oh, oh, I love you

@@ -79,9 +79,6 @@ No more pencils
 No more books
 No more teacher's dirty looks
 
-
-
-
 Well we got no class
 And we got no principles
 And we got no innocence

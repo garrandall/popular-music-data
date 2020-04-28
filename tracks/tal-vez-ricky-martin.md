@@ -59,9 +59,6 @@ Tal vez esta vez necesitamos tiempo para pensar
 Y yo por mi parte propongo intentarlo de nuevo,volver a empezar
 Que por más que lo pienso no encuentro una sola razón para seguir sin tí
 
-
-
-
 Tal vez me sorprendio la vida por la espalda
 Y tira y tira y se rompió la cuerda
 Tal vez nunca entendí lo que eras para mí

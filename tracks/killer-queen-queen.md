@@ -93,9 +93,9 @@ In her pretty cabinet
 "Let them eat cake", she says
 Just like Marie Antoinette
 A built-in remedy
-For Khrushchev and Kennedy (Ooh,ooh)
+For Khrushchev and Kennedy (Ohoh
 At anytime an invitation
-You can't decline (Ooh, ooh)
+You can't decline (Oh oh
 
 Caviar and cigarettes
 Well versed in etiquette
@@ -107,7 +107,7 @@ Dynamite with a laser beam
 Guaranteed to blow your mind (Bah, bah, bah, bah)
 Anytime
 
-Ooh, recommended at the price
+Oh recommended at the price
 Insatiable an appetite
 Wanna try?
 
@@ -116,7 +116,7 @@ She never kept the same address
 In conversation
 She spoke just like a baroness
 
-Met a man from China (Ooh, ooh)
+Met a man from China (Oh oh
 Went down to Geisha Minah (Killer, killer)
 Then again incidentally (She's a Killer Queen)
 If you're that way inclined
@@ -132,8 +132,8 @@ Guaranteed to blow your mind (Bah, bah, bah, bah)
 Anytime
 
 Drop of a hat she's as willing as
-Playful as a pussy cat (Ooh, ooh)
-Then momentarily out of action (Ooh, ooh)
+Playful as a pussy cat (Oh oh
+Then momentarily out of action (Oh oh
 Temporarily out of gas (Dah, dah)
 To absolutely drive you wild, wild
 She's all out to get you
@@ -144,7 +144,7 @@ Dynamite with a laser beam
 Guaranteed to blow your mind (Bah, bah, bah, bah)
 Anytime
 
-Ooh, recommended at the price
+Oh recommended at the price
 Insatiable an appetite
 Wanna try?
 You wanna try

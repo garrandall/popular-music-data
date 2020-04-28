@@ -22,10 +22,10 @@ rankings:
 ---
 I can't go, I can't stay
 It's your fault, I'm this way
-I ain't ever been, hmm, the shape I'm in
+I ain't ever been, hm, the shape I'm in
 I can't sit, I can't stand
 This feeling is so grand
-Hoping it never ends, hmm, the shape I'm in
+Hoping it never ends, hm, the shape I'm in
 You tell me no, then you tell me yes
 You keep my mind a wreck
 I'm not gonna ever rest, I'm gonna get you yeah
@@ -37,10 +37,10 @@ Yeah!
 
 Can't go, I can't stay
 It's your fault, I'm this way
-I ain't ever been, hmm, the shape I'm in
+I ain't ever been, hm, the shape I'm in
 I can't sit, I can't stand
 This feeling is so grand
-Hoping it never ends, hmm, the shape I'm in
+Hoping it never ends, hm, the shape I'm in
 You tell me no, then you tell me yes
 You keep my mind a wreck
 I'm not gonna ever rest, I'm gonna get you yeah

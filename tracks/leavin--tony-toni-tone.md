@@ -61,10 +61,10 @@ I know that we’re leavin’ (Leavin’)
 But I know we can do much better (Leavin’ here)
 There’s so many things we haven’t done (Leavin’)
 I love the way we are together (Leavin’ here)
-Ooh ooh ooh, baby, let’s go away, let’s go away (Leavin’)
+Oh ohoohbaby, let’s go away, let’s go away (Leavin’)
 We’ll come back and visit them some other day (Leavin’ here)
 I love, I love, I love you to death (Leavin’)
-Ooh baby, baby, baby, baby, please (Leavin’ here)
+Oh baby, baby, baby, baby, please (Leavin’ here)
 Girl, pack your bags and let’s go away
 
 

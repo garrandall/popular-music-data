@@ -62,7 +62,7 @@ rankings:
 ---
 
 I wanna know your name, mmm
-Ooh, you look so good
+Oh you look so good
 I wanna know your name
 What's your name, baby
 I'd love ya, if I could
@@ -129,7 +129,7 @@ I'm just going to have to grab you and hold you a little closer
 Lord, have mercy
 
 (I wanna know your name)
-Girl, tell me your name, mm-hmm
+Girl, tell me your name, mm-hm
 (I wanna know your name)
 Just hold me, just squeeze me
 (I wanna know your name)
@@ -137,7 +137,7 @@ Girl, tell me your name, you sweet little thing, you
 (I wanna know your name)
 I could love ya, I could love ya
 I could love ya all night long, all night long, all night long
-Mm-hmm
+Mm-hm
 
 Listen, what about if you give me your phone number
 And I call you one Saturday afternoon

@@ -159,7 +159,7 @@ Just let the gravity pull you near
 I can read your mind, babe (I can)
 I know what you're thinkin' (I know what you're thinkin')
 It's alright (Can you feel me? Yeah)
-It's alright, yes (Ooh, baby)
+It's alright, yes (Oh, baby)
 I can read your mind, babe (Just me and you right now)
 I know what you're thinkin' (I got an idea, babe, yeah)
 It's alright (Ohh, yeah)
@@ -188,7 +188,7 @@ It's alright (You see, I know, that you know, 'cause I can feel it too, babe)
 It's alright, yes
 I can read your mind, babe (Just me and you, yeah)
 I know what you're thinkin' (I know, yeah)
-It's alright (Ohh, ohh, yes)
+It's alright (Ohh, oh, yes)
 It's alright, yes
 
 
@@ -197,7 +197,7 @@ I wanna love, baby
 I wanna feel you
 (If you come, if you come)
 I wanna love, baby
-(Oh, ohh, oh-oh, yeah)
+(Oh, oh, oh-oh, yeah)
 I wanna feel you
 (I wanna feel you, girl)
 I wanna love, baby

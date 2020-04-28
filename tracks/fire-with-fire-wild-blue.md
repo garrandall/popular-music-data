@@ -112,7 +112,7 @@ Of your own desire
 Fire with fire
 Fire with fire (fire)
 Fire with fire
-Ooh ooh ooh
+Oh ohooh
 Be a victim
 Of your own desire
 Gonna fight

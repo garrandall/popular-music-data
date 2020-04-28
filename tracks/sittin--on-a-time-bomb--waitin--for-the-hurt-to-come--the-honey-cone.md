@@ -58,7 +58,7 @@ Ow!
 
 Mercy (Mercy)
 Have a little mercy for me (Have a little mercy for me)
-Will you love me like you oughta? (Ooh, ooh)
+Will you love me like you oughta? (Oh oh
 I get a feeling that the fuse is getting shorter
 
 Loving you is like sittin' on a time bomb

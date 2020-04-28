@@ -98,7 +98,7 @@ Marching forward, hypocritic and hypnotic computers
 You depend on our protection, yet you feed us lies from the table cloth
 
 
-Lalalalalalalalalala, ooh-ooh
+Lalalalalalalalalala, ohooh
 Everybody's going to the party, have a real good time
 Dancing in the desert, blowing up the sunshine
 
@@ -109,7 +109,7 @@ Hangars sitting dripped in oil, crying, "Freedom!"
 Handed to obsoletion, still, you feed us lies from the table cloth
 
 
-Lalalalalalalalalala, ooh-ooh
+Lalalalalalalalalala, ohooh
 Everybody's going to the party, have a real good time
 Dancing in the desert, blowing up the sunshine
 Everybody's going to the party, have a real good time
@@ -139,7 +139,7 @@ Hangars sitting dripped in oil, crying, "Freedom!"
 Handed to obsoletion, still, you feed us lies from the table cloth
 
 
-Lalalalalalalalalala, ooh-ooh
+Lalalalalalalalalala, ohooh
 Everybody's going to the party, have a real good time
 Dancing in the desert, blowing up the sunshine
 Everybody's going to the party, have a real good time

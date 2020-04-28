@@ -166,23 +166,16 @@ And get erotic giving your body just what it deserves and..
 Let me give you some swimming lessons on the penis
 Backstroke, breaststroke, stroke of a genius...YUPP
 Call me the renaissance man
-Get up and I stay harder than a cinder block man....HEY
+Get up and I stay harder than a cinder block man...HEY
 I'm just a bedroom gangster
 And I been meaning to tell you that I really must thank you when you..
 
-
-
-
 Rock rock rock it and make it work girl
 Please don't stop it until it hurt girl
-You..you been looking a little tipsy
+You...you been looking a little tipsy
 So if you could just shake it a little this way
 See I'm a member of the BBC
 The original bread winner of DTP
 And you the center of attention that's distracting the squad
-Cause everybody in the camp is like OH MY GOD..she could
-
-
-
-
+Cause everybody in the camp is like OH MY GOD...she could
 

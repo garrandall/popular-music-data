@@ -88,9 +88,6 @@ I've been made blue
 I've been lied to
 When will I be loved?
 
-
-
-
 When I find a new man
 That I want for mine
 He always breaks my heart in two

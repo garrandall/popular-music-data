@@ -47,7 +47,7 @@ We're not talking lately
 Don't you call him what you used to call me (Coucou)
 
 
-Coucou ! Tu dors ? Oh, j'suis désolée...
+Coucou! Tu dors ? Oh, j'suis désolée...
 Bah non... Nan, c'est pas important...
 Ouais, on a été à la plage, et maintenant on—
-Parfait ! Allez !
+Parfait! Allez!

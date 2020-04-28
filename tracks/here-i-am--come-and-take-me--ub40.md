@@ -121,8 +121,8 @@ Laying all my troubles down
 
 
 Here I am babe, come and take me
-Here I am babe, wont ya come and take me
-Take me by the hand, ooh show me
+Here I am babe, won't ya come and take me
+Take me by the hand, ohshow me
 Here I am babe, oooooaaah
 
 It always ends up this way
@@ -130,7 +130,7 @@ Me begging you every day
 A love that I cannot have
 You broke my heart in two halves
 
-Ooh I know it's you and me babe
+Oh I know it's you and me babe
 That makes the world go round
 Ah keeping you in love with me baby
 Laying all my troubles down

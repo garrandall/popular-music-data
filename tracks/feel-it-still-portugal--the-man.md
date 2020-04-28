@@ -194,10 +194,10 @@ In case my little baby girl is in need
 Am I coming out of left field?
 
 
-Ooh woo, I'm a rebel just for kicks, now
+Ohwoo, I'm a rebel just for kicks, now
 I been feeling it since 1966, now
 Might be over now, but I feel it still
-Ooh woo, I'm a rebel just for kicks, now
+Ohwoo, I'm a rebel just for kicks, now
 Let me kick it like it's 1986, now
 Might be over now, but I feel it still
 
@@ -208,21 +208,21 @@ Gone with the fallen leaves
 Am I coming out of left field?
 
 
-Ooh woo, I'm a rebel just for kicks, now
+Ohwoo, I'm a rebel just for kicks, now
 I been feeling it since 1966, now
 Might've had your fill, but you feel it still
-Ooh woo, I'm a rebel just for kicks, now
+Ohwoo, I'm a rebel just for kicks, now
 Let me kick it like it's 1986, now
 Might be over now, but I feel it still
 
 
 We could fight a war for peace
-(Ooh woo, I'm a rebel just for kicks, now)
+(Ohwoo, I'm a rebel just for kicks, now)
 Give in to that easy living
 Goodbye to my hopes and dreams
 Start flipping for my enemies
 We could wait until the walls come down
-(Ooh woo, I'm a rebel just for kicks, now)
+(Ohwoo, I'm a rebel just for kicks, now)
 It's time to give a little to the kids in the middle
 But, oh until it falls won't bother me
 
@@ -235,15 +235,15 @@ Is it coming?
 Is it coming back?
 
 
-Ooh woo, I'm a rebel just for kicks, yeah
+Ohwoo, I'm a rebel just for kicks, yeah
 Your love is an abyss for my heart to eclipse, now
 Might be over now, but I feel it still
 
 
-Ooh woo, I'm a rebel just for kicks, now
+Ohwoo, I'm a rebel just for kicks, now
 I've been feeling it since 1966, now
 Might be over now, but I feel it still
-Ooh woo, I'm a rebel just for kicks, now
+Ohwoo, I'm a rebel just for kicks, now
 Let me kick it like it's 1986, now
 Might be over now, but I feel it still
 Might've had your fill, but I feel it still

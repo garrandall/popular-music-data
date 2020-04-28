@@ -110,7 +110,7 @@ And I'll always remember
 History, biology
 And that magical December
 
-Ooh, boy
+Oh, boy
 Jimmy Lee, where can you be
 If this song ever finds you
 Won't you please explain to me

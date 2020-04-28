@@ -197,7 +197,7 @@ Lil' baby in her bag, in her Birkin
 No nine to five, put the work in
 Flaws and all, I love 'em all, to me, you're perfect
 Baby girl, you got it, girl, you got it, girl (Oh-oh)
-You got it, girl, you got it, girl (Ooh)
+You got it, girl, you got it, girl (Oh)
 
 I don't wanna play no games, play no games
 Fuck around, give you my last name (Oh)
@@ -221,12 +221,12 @@ Fuck around, give you my last name (My last name)
 Know you tired of the same damn thing (Same damn thing)
 That's okay 'cause baby you...
 
-You got it, girl, you got it (Oh, ooh, ayy)
+You got it, girl, you got it (Oh, oh, ayy)
 You got it, girl, you got it (Got it)
 I don't wanna
 
 Before I die, I'm tryna fuck you, baby (Yeah)
-Hopefully, we don't have no babies (Ooh)
+Hopefully, we don't have no babies (Oh)
 I don't even wanna go back home
 Hopefully, I don't leave you on your own
 You got it, girl, you got it, oh

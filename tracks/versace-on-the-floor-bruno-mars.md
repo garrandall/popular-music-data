@@ -77,16 +77,16 @@ Right now
 
 So, baby, let's just turn down the lights
 And close the door
-Oooh I love that dress
+Oh I love that dress
 But you won't need it anymore
 No, you won't need it no more
 Let's just kiss 'til we're naked, baby
 
 
 Versace on the floor
-Oooh take it off for me, for me, for me, for me now, girl
+Oh take it off for me, for me, for me, for me now, girl
 Versace on the floor
-Oooh take it off for me, for me, for me, for me now, girl
+Oh take it off for me, for me, for me, for me now, girl
 
 
 Now I unzip the back to watch it fall
@@ -101,16 +101,16 @@ Don't be confused by my smile
 
 So just turn down the lights
 And close the door
-Oooh I love that dress
+Oh I love that dress
 But you won't need it anymore
 No, you won't need it no more
 Let's just kiss 'til we're naked, baby
 
 
 Versace on the floor
-Oooh take it off for me, for me, for me, for me now, girl
+Oh take it off for me, for me, for me, for me now, girl
 Versace on the floor
-Oooh take it off for me, for me, for me, for me now, girl
+Oh take it off for me, for me, for me, for me now, girl
 Dance
 
 
@@ -129,7 +129,7 @@ Versace on the floor
 Hey, baby
 Take it off for me, for me, for me, for me now, girl
 Versace on the floor
-Oooh take it off for me, for me, for me, for me now, girl
+Oh take it off for me, for me, for me, for me now, girl
 
 
 Versace on the floor

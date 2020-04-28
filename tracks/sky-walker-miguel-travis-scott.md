@@ -179,9 +179,9 @@ Don't sleep, you gotta stay up (splish)
 Don't, don't sleep, you gotta stay up
 
 I was good then, but I'm better now (hey)
-All gains I've been wrappin' up (ahh, hey)
+All gains I've been wrappin' up (ah, hey)
 Quick to dead the bull like a matador (hey)
-Right now I'm higher up than Canada (ahh, hey)
+Right now I'm higher up than Canada (ah, hey)
 Oh
 
 Cap and a stem, catch a wave on us (splish)

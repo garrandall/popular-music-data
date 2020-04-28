@@ -34,7 +34,7 @@ There's always fire
 
 Your kisses leave me hanging
 Hanging from a rope
-Pull me up, ooh, darling
+Pull me up, oh darling
 Take me higher
 
 And now I'm sleepy
@@ -82,14 +82,14 @@ Pass the peace pipe
 (Pass the peace pipe)
 
 Shoo bop, shoo bop, my baby
-Shoo bop, shoo bop, my baby, ooh
+Shoo bop, shoo bop, my baby, oh
 Shoo bop, shoo bop, my baby
-Shoo bop, shoo bop, my baby, ooh
+Shoo bop, shoo bop, my baby, oh
 
 Shoo bop, shoo bop, my baby
-Shoo bop, shoo bop, my baby, ooh
+Shoo bop, shoo bop, my baby, oh
 Shoo bop, shoo bop, my baby
-Shoo bop, shoo bop, my baby, ooh
+Shoo bop, shoo bop, my baby, oh
 
 Oh, my, my, my baby
 We got to have a pow wow

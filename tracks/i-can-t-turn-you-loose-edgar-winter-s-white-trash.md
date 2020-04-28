@@ -40,7 +40,7 @@ Can't turn you loose now
 I got to love you all the time
 
 Hip shaking mama, I told you
-Ooh, you got to do
+Oh you got to do
 Anything you wanna
 
 Yeah, got to, got to love you
@@ -59,7 +59,7 @@ I can't turn you loose now
 I've got to love you in vain
 
 Hip shaking mama, I told you
-Ooh, you got to do
+Oh you got to do
 Anything you wanna
 
 Yeah, got to, got to squeeze you

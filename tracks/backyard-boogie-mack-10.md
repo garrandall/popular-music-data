@@ -106,15 +106,15 @@ It's one-oh, fo'-sho', and I'm clownin all the rookies
 With a pocket full of cookies
 and mashin to the backyard boogie
 
-Get yo' boogie on 
+Get yo' boogie on
 And then we comin wit that
 
 
 Backyard boogie oogie oogie (yeah)
 Backyard boogie oogie oogie (it's all about that)
 Backyard boogie oogie oogie (unh)
-Backyard boogie oogie oogie (it's the backyard boogie) 
-Backyard boogie oogie oogie 
+Backyard boogie oogie oogie (it's the backyard boogie)
+Backyard boogie oogie oogie
 
 
 Now just throw yo hands up high in the sky
@@ -122,7 +122,7 @@ Representin where you from cause it's West till I die
 Put it down anywhere, take thangs for what they worth
 been a rider since birth, and the earth is my turf
 So I bails in the party, everythang is cool
-It's niggaz in the hood I ain't seen since high school
+It's niggas in the hood I ain't seen since high school
 And everybody gots stripes cause we all paid dues
 Crips, Damus, and other clicks and crews
 Just gettin they boogie on, hoochie bitches gettin loose
@@ -142,7 +142,7 @@ And we comin with that)
 
 
 Now it's out of control, and everywhere you look
-ain't nothin but real niggaz, the bustas got shook
+ain't nothin but real niggas, the bustas got shook
 And everybody left with the whole hustla bang
 and Daisy Dukes and khakis do seem to be the thang
 You choose or you lose while you conversatin
@@ -168,10 +168,10 @@ Get yo' boogie on, nigga get yo' boogie on
 Get yo' boogie on, get yo' boogie on baby, pause
 Get yo' backyard boogie on
 Gangstas don't dance we boogie
-Niggaz run out and get yo' cookies
+Niggas run out and get yo' cookies
 Gangstas don't dance we boogie
 Mack 10 ain't no motherfucker rookie
-Backyard boogie oogie oofie 
+Backyard boogie oogie oofie
 
 
 

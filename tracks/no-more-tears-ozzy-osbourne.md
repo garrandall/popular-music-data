@@ -75,9 +75,6 @@ Still, these were our first
 It's just a hand in the bush
 A hand in the bush
 
-
-
-
 So now that it's over can't we just say goodbye?
 I'd like to move on and make the most of the night
 Maybe a kiss before I leave you this way

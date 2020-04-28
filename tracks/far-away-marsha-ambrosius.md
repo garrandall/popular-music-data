@@ -130,10 +130,6 @@ The cop's the one who had told me that you were alone inside an empty room
 Identified you as my baby
 Oh my baby, so far away
 
-
-
-
-
 Please come back I miss you baby
 ?
 Will you ever need me

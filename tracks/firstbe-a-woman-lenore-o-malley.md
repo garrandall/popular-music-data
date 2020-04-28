@@ -43,7 +43,7 @@ rankings:
 You can go to Harvard
 You can be a pilot
 You can be an astronaut
-But first, be a woman, ooh ooh...
+But first, be a woman, oh oh...
 When you're walking down the street
 Show your feminine appeal
 Even tho' you're wearing jeans
@@ -90,5 +90,5 @@ You can reach for any star
 You can do all you can...
 Say I am what I am
 You can be an executive
-Hhh ! You can drive a train
+Hhh! You can drive a train
 You can be a detective...

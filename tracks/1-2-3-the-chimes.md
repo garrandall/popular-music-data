@@ -30,7 +30,7 @@ rankings:
 ---
 Oh, yeah, mmm, oh, yeah
 
-Ooh, baby, you know
+Oh, baby, you know
 Just what I'm thinking of
 And you, baby
 You can be my deepest love
@@ -49,7 +49,7 @@ You and me, sharing love so easily
 Oh, oh, in my heart I know it's real
 
 You, baby, you know exactly
-What I'm dreaming of, ooh
+What I'm dreaming of, oh
 With you, oh, yeah
 There could never be a doubt
 So won't you tell me

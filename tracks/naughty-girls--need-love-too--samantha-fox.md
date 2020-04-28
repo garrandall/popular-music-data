@@ -148,7 +148,7 @@ Your love won't get away
 Stay here in the place to be
 We can get busy my way
 For six forevers and a day-ay-ay
-Ooh it's only you I adore
+Oh it's only you I adore
 So much more than my body
 Was asking for
 Yes your love is breaking my chill

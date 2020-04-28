@@ -201,7 +201,7 @@ Fuck it, thugged out, I respect the cash route
 Locked down, blastin, sets while I mash out
 Yeah nigga, mash out, D-R-E
 Back track, think back, E-V-E
-Do you like that (ooooh), you got to I know you
+Do you like that (oh), you got to I know you
 Had you in a trance first glance from the floor too
 Don't believe I'll show you, take you with me
 Turn you on, pension gone, give you relief
@@ -211,8 +211,4 @@ Still stallion, brick house, pile it on
 Ryde or Die, bitch, double R, can't crawl
 Beware, cuz I crush anything I land on
 Me here, aint no mistake nigga it was planned on
-
-
-
-
 

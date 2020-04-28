@@ -12,9 +12,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
 ---
-Hmm mmm.......
+Hm mmm...
 
-Oh, oh, oh......
+Oh, oh, oh...
 
 Well, I went to the dance
 It was half past eight
@@ -56,7 +56,7 @@ With a real sweet voice that
 I could make hers
 The same as mine
 
-(Oh, oh....)
+(Oh, oh...)
 Everything is gonna be all right
 Then she kissed me
 I got a new girl now

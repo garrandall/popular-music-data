@@ -69,4 +69,4 @@ I've been lookin' for my baby all night
 If I get her in my sight
 Boom boom! ONE MORE! Out go the lights!
 
-Take it home!!
+Take it home!

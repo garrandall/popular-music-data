@@ -101,7 +101,7 @@ What it's all about, say it, say it
 Don't try to disguise what's in your eyes
 They're so revealing
 I know you're afraid but it's O.K
-Say what you feel, ooh, yeah
+Say what you feel, oh, yeah
 
 
 If you want my love, say it, say it, now, darling
@@ -113,7 +113,7 @@ What it's all about, say it, say it, yeah
 Don't try to disguise what's in your eyes
 They're so revealing
 I know you're afraid but it's O.K
-Say what you feel, ooh, yeah
+Say what you feel, oh, yeah
 
 
 If you want my love, say it, say it, now, darling

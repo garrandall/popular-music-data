@@ -117,4 +117,4 @@ Gotta have your love
 I need you
 
 I want your love
-I need your love (ooh, yeah)
+I need your love (oh, yeah)

@@ -93,9 +93,6 @@ Better have the police with you dog, if you came to repo
 I'm talking strip clubs, I'm talking liquor stores
 We throw our money round here, but y'all can..
 
-
-
-
 Bitch I'm on probation, so my nerves bad
 And they say time fly's, well mine's first class
 I landed in the sky, I fell from the streets
@@ -109,8 +106,4 @@ Young Money, Cash Money, blood bitch, I'm red hot
 I don't see nobody, see nobody like a head shot
 All that bullshit is for the birds, throw some bread out
 Got it sewn up, check the thread count
-
-
-
-
 

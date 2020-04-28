@@ -64,7 +64,6 @@ Yeah right, here we go again
 2 way street, what part 2?
 The --- to continue?
 
-
 Honey you heard wrong, I ain't tryin to get my swerve on
 All I want is you with your panties and your shirt on
 Word is bond that's enough, I don't need another cat to crush
@@ -74,15 +73,11 @@ You the only one getting tongue where the sun don't shine
 But Pun don't mind as long as you lovin me
 And if you ever catch me cheatin, girl it wasn't me
 
-Verse One: missjones
-
 How did I  think u were just seeing me
 When u always, get all those late night beeps
 You didn't think that I'd pick up your phone
-And i know that was wrong, but now I know for sure
+And I know that was wrong, but now I know for sure
 You said I was...
-
-Chorus: missjones
 
 You said I was your number one lady
 But how many more like me?
@@ -93,18 +88,14 @@ But how many more like me?
 Why don't you look
 Then you'll see
 
-Verse Two: missjones
-
 If I ask you, who's callin you this late
 You don't answer, and that's why I doubt your faith
 You don't want me... popping up where you're at
 You better sound crazy someplace else
 Cause I know there's someone else
 
-*chorus*
 (You lied to me, it's hard to believe you decieved me)
 (Oh number one, Big Pun, Big Pun)
-
 
 Hold lemme explain, I know that I'm in trouble Boo
 Yeah I crushed that chick, but I made love to you
@@ -121,15 +112,6 @@ People stare thought you was a model or a millionare
 But now it's over and you ain't crying for this thug
 Fairwell love, keep the diamonds and the love letters
 
-BIG PUN: 	and that's the truth the whole truth
-		and nothing but the truth
-MISS JONES: 	boy u can't handle the truth
-BIG PUN: 	what u got to say for youself?
-MISS JONES: 	nigga I got a whole lot to say for my self
-		u better watch your mouth
-BIG PUN: 	wha? wha? wha? wha? wha?
-
-
 Love letters and chedders, I see frames it's all the same
 Tried to control the game with your ball and chain
 Now you're callin my name with your balls in pain
@@ -139,6 +121,4 @@ Call me up and try to gas me with your accent
 But that's it PUN, so watcha wanna do?
 Remember "Punish Me" now I will punish you
 
-You're my #1 lady, you're my number one girl (4x)
-
-Chorus to fade
+You're my #1 lady, you're my number one girl

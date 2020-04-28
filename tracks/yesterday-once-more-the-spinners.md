@@ -76,7 +76,7 @@ Looking back on how it was
 And years gone by
 The good times that I had
 Makes today seem rather sad
-So much has changed, ooh
+So much has changed, oh
 
 And it was the songs
 Of love that I would sing to you then
@@ -132,7 +132,7 @@ Life is a constant change
 Oh, I'm looking back on what used to be
 (For me)
 And what you meant to me, girl
-(Ooh, hoo)
+(Oh, hoo)
 We both, we both never thought it never end
 
 And I'm looking back and it's nice to be

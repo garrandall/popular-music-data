@@ -59,7 +59,7 @@ All night long I tried to remember
 What is some thing that you said
 Did you say that to me, baby
 
-Ooh, just one touch from you (One touch from you)
+Oh, just one touch from you (One touch from you)
 Little girl, I come unglued
 I lose all trace of time
 And everything seems to slip my mind
@@ -117,7 +117,7 @@ Please understand the things I did, ho
 Amnesia
 The way you made sweet love to me
 Oh, the price you pay for ecstasy
-Girl, don't you know what you're doin' to me, ooh
+Girl, don't you know what you're doin' to me, oh
 
 Amnesia
 The way you made sweet love to me

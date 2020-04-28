@@ -68,7 +68,7 @@ When you need someone to turn to
 
 So many times when the city
 Seems to be without a friendly face
-Ooh, it's a lonely place
+Oh, it's a lonely place
 
 But it's nice to know that
 You'll be there if I need you
@@ -101,7 +101,7 @@ When you need someone to
 Understand you and hold
 Your sweet tender hand, baby
 
-Ooh, just let me be
+Oh, just let me be
 The one you run to
 Let me be the one
 
@@ -113,7 +113,7 @@ Oh, they're just hard to find
 Oh, but one look at you and
 I know that I could learn
 To live without the rest
-Ooh, baby, I found the best
+Oh, baby, I found the best
 
 When there's no
 Getting over that rainbow
@@ -124,7 +124,7 @@ Girl, I can take all the madness
 That the world has to give
 But I won't last a day without you
 
-Ooh, baby
+Oh, baby
 Let me be the one you run to
 Why don't you let me be
 The one you turn to

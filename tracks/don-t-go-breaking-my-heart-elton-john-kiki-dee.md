@@ -96,13 +96,13 @@ Baby you're not that kind
 Don't go breaking my heart
 You take the weight off of me
 Oh honey when you knock on my door
-Ooh, I gave you my key
+Oh I gave you my key
 
 
-Ooh, nobody knows it
+Oh nobody knows it
 When I was down
 I was your clown
-Ooh, nobody knows it (Nobody knows it)
+Oh nobody knows it (Nobody knows it)
 Right from the start
 I gave you my heart
 Oh, I gave you my heart
@@ -123,10 +123,10 @@ Oh, you put the spark to the flame
 I've got your heart in my sights
 
 
-Ooh, nobody knows it
+Oh nobody knows it
 When I was down
 I was your clown
-Ooh, nobody knows it (Nobody knows it)
+Oh nobody knows it (Nobody knows it)
 Right from the start
 I gave you my heart
 Oh, I gave you my heart
@@ -137,7 +137,7 @@ I won't go breaking your heart
 Don't go breaking my heart
 
 
-Ooh, nobody knows it
+Oh nobody knows it
 When I was down
 I was your clown
 Right from the start

@@ -116,7 +116,7 @@ Oh, and if I do over and over again
 Sign my name over in full
 And at the end and rest of our lives, love always
 Love always
-Ooh girl
+Oh girl
 Sounds so good to me, mmm
 For the rest of our lives love always, oh
 For the rest of our lives love always, oh da da

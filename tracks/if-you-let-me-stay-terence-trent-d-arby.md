@@ -97,7 +97,7 @@ If you let me stay
 I should have said that I love you
 It you let me stay
 And I should have said it from my heart
-If you let me,cause i need yah im not a men
+If you let me,cause I need yah im not a men
 Without you baby whoah!
 Gotta got to meet baby
 I can't do without you baby, baby, baby, baby

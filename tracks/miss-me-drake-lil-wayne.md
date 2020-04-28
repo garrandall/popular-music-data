@@ -134,7 +134,7 @@ But you should miss me a little when I'm gone
 I just hope that you miss me a little when I'm gone, gone, gone
 
 
-Ooh, shit, motherfucker, God damn
+Oh shit, motherfucker, God damn
 Kickin' bitches out the condo like Pam
 Gettin' money every day, I'm a groundhog
 'Bout to scoop ya girl up like a ground ball

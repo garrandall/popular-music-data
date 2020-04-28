@@ -101,9 +101,6 @@ Now your mom threw away your best porno mag (Busted!)
 You gotta fight for your right to party
 You gotta fight
 
-
-
-
 Don't step out of this house if that's the clothes you're gonna wear
 I'll kick you out of my home if you don't cut that hair
 Your mom busted in and said, “What's that noise?"

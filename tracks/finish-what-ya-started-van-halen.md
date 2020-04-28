@@ -127,14 +127,14 @@ Please
 Oh baby, come on
 
 (Come on baby finish what ya started)
-Ahh
+Ah
 (That ain't no way to treat the broken-hearted)
 Oh, oo-ow-oo-ow-oo-ow!
 (Come on baby finish what ya started)
 Whoo! Gimmee. Ah!
 
 (That ain't no way to treat the broken-hearted)
-Mmm, mmm-hmm
+Mmm, mmm-hm
 (Baby come on)
 Ah. Take each step baby, one by one
 (Baby come on)

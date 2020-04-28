@@ -72,7 +72,7 @@ Down, get down
 
 I see the party lights
 They're shining in the night
-Ooh, make me feel all right
+Oh, make me feel all right
 Oh, really feel right, yeah
 
 I see the party lights
@@ -91,7 +91,7 @@ I've got new wings and I can fly
 
 I see the party lights
 They're shining in the night
-Ooh, make me feel all right
+Oh, make me feel all right
 I feel all right
 
 I see the party lights
@@ -118,13 +118,13 @@ Party hard, party, oh
 
 I see the party lights
 Shining in the night
-Ooh, make me feel all right
+Oh, make me feel all right
 Can't you see them
 Can't you see them
 
 I see the party lights
 Shining in the night
-Ooh, yeah, out of sight
+Oh, yeah, out of sight
 
 I see the party lights
 Shining in the night

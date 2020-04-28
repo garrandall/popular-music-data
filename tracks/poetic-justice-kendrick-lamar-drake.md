@@ -114,7 +114,7 @@ I'm talking 'bout dark room, perfume, go, go
 
 
 I recognize your fragrance, hold up, you ain't never gotta say shit, uh
-And I know your taste is, a little bit hmm, high maintenance, uh
+And I know your taste is, a little bit hm, high maintenance, uh
 Everybody else basic, you live life on an everyday basis
 With poetic justice, poetic justice
 If I told you that a flower bloomed in a dark room, would you trust it?
@@ -151,7 +151,7 @@ When you figure out it's alright here in the city and you don't run from where w
 That sound like poetic justice, poetic justice
 You were so new to this life but Goddamn, you got adjusted
 I mean I write poems in these songs dedicated to the fun sex
-Your natural hair and your soft skin and your big ass in that sundress, ooh
+Your natural hair and your soft skin and your big ass in that sundress, oh
 Good God, what you doing that walk for?
 When I see that thing move, I just wish we would fight less and we would talk more
 And they say communication save relations, I can tell

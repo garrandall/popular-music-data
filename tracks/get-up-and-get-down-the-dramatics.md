@@ -86,7 +86,7 @@ Come on
 
 Come on and get down
 Get up and get down
-Come on, girl, oh, ooh
+Come on, girl, oh, oh
 
 And get down
 Get up out of your seat

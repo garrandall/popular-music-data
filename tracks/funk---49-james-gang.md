@@ -53,16 +53,10 @@ I know where you're goin'
 I don't think that's a-actin' right
 You don't think it's showin'
 
-
-
-
 A-jumpin' up, fallin' down
 Don't misunderstand me
 You don't think that I know your plan
 What you tryin' to hand me?
-
-
-
 
 Out all night, sleep all day
 I know what you're doin'

@@ -138,7 +138,7 @@ Tie me kangaroo down
 Tan me hide when I'm dead, Fred
 Tan me hide when I'm dead
 So we tanned his hide when he died, Clyde
-And that's it hangin' on the shed!!
+And that's it hangin' on the shed!
 Altogether now!
 
 

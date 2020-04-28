@@ -173,9 +173,9 @@ Don't wanna lose your love
 I don't wanna lose your love
 
 Yeah, hey, oh, yeah
-Ooh, you just don't know
+Oh, you just don't know
 No, what you do to me
-Well, well, ooh, ooh
+Well, well, oh, oh
 
 I don't wanna lose, lose your love
 I don't wanna lose, lose your love

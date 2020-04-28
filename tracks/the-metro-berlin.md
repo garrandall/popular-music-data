@@ -79,9 +79,6 @@ I remember the letter wrinkled in my hand
 I remember a night we walked along the Seine
 Riding on the Metro
 
-
-
-
 I remember a feeling coming over me
 The soldier turned, then looked away
 I remember hating you for loving me

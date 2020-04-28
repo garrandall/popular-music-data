@@ -150,7 +150,7 @@ No one has to know
 
 
 In the middle of the night (Night), in my dreams (My dreams)
-You should see the things we do (We do), baby (Baby), hmm (Eh)
+You should see the things we do (We do), baby (Baby), hm (Eh)
 In the middle of the night, in my dreams (My dreams)
 I know I'm gonna be with you (I know I'm gonna be with you)
 So I take my time

@@ -88,7 +88,7 @@ That chick bad, looking like a bag of money
 I go and get it and I let her count it for me
 I treat her good and she always ride it for me
 
-Temporary forever, levitate with a n****
+Temporary forever, levitate with a nigga
 I can teach you, till you hate me but you hate them naval kisses
 We can do like 8 positions
 Hit it til your make up missing
@@ -135,8 +135,8 @@ Say she like my style but I talk too fast
 And I got that drive and she just might crash
 Hold up
 
-She say she f****** with me the long way
-She gon' ride this d*** I had a long day
+She say she fucking with me the long way
+She gon' ride this dick I had a long day
 N**** look at my chick you looking the wrong way
 Something mean, look exactly just like the song say
 

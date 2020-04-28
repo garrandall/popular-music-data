@@ -137,7 +137,7 @@ rankings:
   start_date: '2000-05-27'
 ---
 
-Oh, ooh wee oh, oh
+Oh, oh wee oh, oh
 When I'm looking at you I keep thinking
 Why can't she be like you, so I'm scheming
 I can't go on like this
@@ -166,12 +166,12 @@ Tell me baby, yeah
 
 Girl if you're ready (I'm ready)
 We can get it on (We can get it on)
-I know where I went wrong 
+I know where I went wrong
 (She's where you went wrong)
 With you is where I belong, belong
 
 Girl if I could find the words to say
-I gotta get away from a love 
+I gotta get away from a love
 That kills me everyday
 I'd gladly say to you
 
@@ -183,8 +183,4 @@ My baby's stressin' me
 You need to come with me
 We need to go somewhere, yeah
 Tonight, tonight
-
-
-
-
 

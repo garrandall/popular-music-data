@@ -87,7 +87,7 @@ Will ever make me let you down
 Kiss them for me, I may be delayed
 Kiss them for me, I may find myself delayed
 
-Ooh ooh ooh ooh, ooh ooh ooh ooh
+Oh oh oh oh, oh oh oh oh
 
 On the road to New Orleans
 A spray of stars hit the screen

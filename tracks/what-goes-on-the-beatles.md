@@ -42,9 +42,6 @@ It's so easy for a girl like you to lie
 Tell me why
 What goes on in your heart?
 
-
-
-
 I used to think of no one else but you were just the same
 You didn't even think of me as someone with a name
 Did you mean to break my heart and watch me die?

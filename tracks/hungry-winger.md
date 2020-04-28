@@ -70,7 +70,7 @@ I can't hold it in
 
 
 
-HUNGRY!!!!
+HUNGRY!
 
 I hear the ticking on the clock
 Counting everyday I've been alone...
@@ -82,10 +82,10 @@ Girl I'm hungry, I can't get enough
 Hungry, for your skin
 Hungry, baby let me in
 Hungry, for your love
-Hungry!!!
+Hungry!
 I'm hungry, for your love
-Hungry... Oh no!!!!
-Hungry!!!!
+Hungry... Oh no!
+Hungry!
 
 
 

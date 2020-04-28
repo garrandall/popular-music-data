@@ -65,9 +65,6 @@ Let me hear you say yeah, yeah, yeah, oh yeah
 Let me hear you say yeah, yeah, yeah, oh yeah
 Guitar!
 
-
-
-
 We weren't born to follow
 Come on and get up off your knees
 When life is a bitter pill to swallow

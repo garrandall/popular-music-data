@@ -71,7 +71,7 @@ Guide you to love infinity.
 
 Aww yeah.
 I can see forever in your eyes.
-Ahh yeah.
+Ah yeah.
 Do I wanna hold you?
 Your head on my shoulder.
 With you, I'll never tire.

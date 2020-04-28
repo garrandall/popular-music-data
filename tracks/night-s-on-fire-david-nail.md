@@ -49,7 +49,7 @@ Whiskey on her lips and the night's on fire
 Littered with stars close enough to touch
 July promise in the back of that truck
 Her every move was taking you higher
-You try to play it cool but the night's on fire,oohh, ooohh
+You try to play it cool but the night's on fire,oh, oh
 
 
 She's a seat laid back, a boy's dream
@@ -67,8 +67,8 @@ Whiskey on her lips and the night's on fire
 Littered with stars close enough to touch
 July promise in the back of that truck
 Her every move was taking you higher
-You try to play it cool but the night's on fire,oohh
-You try to play it cool but the night's on fire,oohh
+You try to play it cool but the night's on fire,oh
+You try to play it cool but the night's on fire,oh
 She's telling you turn off the highway
 The sunset melts all the blue away
 Blackbird watching on the telephone wire
@@ -76,8 +76,8 @@ Whiskey on her lips and the night's on fire
 Littered with stars close enough to touch
 July promise in the back of that truck
 Her every move was taking you higher
-You try to play it cool but the night's on fire, oohh
-You try to play it cool but the night's on fire, oohh
+You try to play it cool but the night's on fire, oh
+You try to play it cool but the night's on fire, oh
 
 
-You try to play it cool but the night's on fire, oohh, oohh
+You try to play it cool but the night's on fire, oh, oh

@@ -132,7 +132,6 @@ In every lost and found
 But forever you and I will be the ones
 Who found out what forever means
 
-Chorus
 
 Truer than true
 You know that I'll always be there for you

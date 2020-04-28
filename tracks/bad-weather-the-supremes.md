@@ -12,9 +12,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-06-09'
 ---
-Oohhhhh, ooh, ooh, oohhhhhhh
-Ooh, ooh, oohhhhhhhh
-Ooh, ooh, ooh, whoa-oa-oa-oa-oa-whoa
+Oh, oh oohoh
+Oh oh oh
+Oh oh oohwhoa-oa-oa-oa-oa-whoa
 
 Why is it we can't be
 The way we used to be
@@ -36,13 +36,13 @@ Cause our love just ain't together
 Think I'm gonna run into bad weather
 Cause our love just ain't together
 
-Ooh
+Oh
 All the things we used to do
 Together me and you
 Think of the fun we had
 And how our love's suppose to last
 Mistakes were not all you
-I know I made some too, sugar, ooh baby, baby
+I know I made some too, sugar, ohbaby, baby
 Open up your eyes and see
 That you're the one for me
 Let's fix it there's still time
@@ -51,14 +51,14 @@ Baby won't you please
 Stop it, don't make me suffer--
 
 Think I'm gonna run into bad weather
-Ooh look at the rain
+Ohlook at the rain
 Cause our love just ain't together, no-o
 Think I'm gonna run into bad weather
 Cause our stuff just ain't together--
 
 Now, now, now, now, now, now, now, now--
 
-Ooh--
+Oh-
 
 Yeah, yeah
 

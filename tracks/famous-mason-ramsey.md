@@ -53,8 +53,8 @@ Nothing wrong with the center of attention
 Long as I'm with you, I don't mind the pictures
 If I'm gonna be famous for something
 Girl, I wanna be famous for loving you
-Ooh, famous for loving you
-Ooh
+Oh, famous for loving you
+Oh
 
 If I'm gonna be famous for something
 I wanna be famous for loving you

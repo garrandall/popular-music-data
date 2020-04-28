@@ -73,25 +73,25 @@ Don't you cry no, no
 Ain't gonna be the
 Way it was before
 
-Ooh, I love you
-Ooh, I love you
+Oh, I love you
+Oh, I love you
 Let me kiss you
 Let me hold you tight
 
-Ooh, I love you
-Ooh, I love you so much that
+Oh, I love you
+Oh, I love you so much that
 My ma said I cried
 My ma said I cried
 My ma said I cried
 In my sleep last night
 
-Ooh, I love you
-Ooh, I love you
+Oh, I love you
+Oh, I love you
 Let me kiss you
 Let me hold you tight
 
-Ooh, I love you
-Ooh, I love you so much that
+Oh, I love you
+Oh, I love you so much that
 My ma said I cried
 My ma said I cried
 My ma said I cried

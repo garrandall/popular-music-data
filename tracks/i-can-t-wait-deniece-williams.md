@@ -64,7 +64,7 @@ I tell you that I can't help it
 I just can't help it
 
 
-Ooh, to be in my baby's arms
+Oh, to be in my baby's arms
 
 Gotta be right here where I belong
 
@@ -87,12 +87,12 @@ I just can't help it
 
 I tell you that I can't wait
 To spend another lazy night
-In my baby's arms, ooh, ooh
+In my baby's arms, oh oh
 I tell you that I can't help it
 I just can't help it
 
 
-Ooh, to be in my baby's arms
+Oh, to be in my baby's arms
 
 To be right here where I belong
 

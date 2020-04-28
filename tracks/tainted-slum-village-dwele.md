@@ -124,7 +124,7 @@ True, oh, I know true love is hard to find
 Just let it find you for real
 If you found love to keep it real
 Keep love from being tainted, being tainted
-Oooh do you, be, alright
+Oh do you, be, alright
 ( Just sit y'all, Dwele, on more time y'all come on)
 If you, be, alright...
 

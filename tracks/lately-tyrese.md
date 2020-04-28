@@ -69,16 +69,16 @@ that you're feeling the same way
 things tend to slip my mind
 like how you like to wine and dine baby
 with romantic lights you mean a lot to me
-in so many ways 
+in so many ways
 
 Lately
 have I told you I love you
 lately
 have I told you you still mean the world to me
-lately 
+lately
 have I told you I love you
-I'll be your wishing well 
-tell me what you want baby 
+I'll be your wishing well
+tell me what you want baby
 
 don't think twice of our love
 I say these things because
@@ -87,7 +87,7 @@ and I'm hoping that you're feeling the same way
 You know that all of my
 feelings are inside
 and verbally I tend to forget
-how much I L-O-V-E U Really means 
+how much I L-O-V-E U Really means
 
 Lately
 have I told you I love you
@@ -95,17 +95,13 @@ lately
 have I told you you still mean the world to me
 lately
 have I told you I love you
-I'll be your wishing well 
-tell me what you want baby 
+I'll be your wishing well
+tell me what you want baby
 
 
 Try your hardest to deal
 yes I forgot but you know how I feel
 things slip my mind baby that's a fact
 tell me you love me
-and I'll tell you back 
-
-
-
-
+and I'll tell you back
 

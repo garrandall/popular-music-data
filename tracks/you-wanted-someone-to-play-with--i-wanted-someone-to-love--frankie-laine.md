@@ -37,21 +37,21 @@ rankings:
   start_date: '1967-07-29'
 ---
 I know that you wanted someone to play with
-While i wanted someone to love
+While I wanted someone to love
 And you made me feel that your love was real
-The love that i always dreamed of
+The love that I always dreamed of
 
-And then you laughed when i cried for your kisses
+And then you laughed when I cried for your kisses
 To me they meant heaven above
 Oh, oh, oh you wanted someone to play with
-While i wanted someone to love
+While I wanted someone to love
 
 (oh, you wanted someone to play)
-(while i wanted someone to love)
+(while I wanted someone to love)
 And you made me feel that your love was real
-The love that i always dreamed of
+The love that I always dreamed of
 
-And then you laughed when i cried for your kisses
+And then you laughed when I cried for your kisses
 To me they meant heaven above
 Oh, oh, oh you wanted someone to play with
-While i wanted, while i wanted someone to love
+While I wanted, while I wanted someone to love

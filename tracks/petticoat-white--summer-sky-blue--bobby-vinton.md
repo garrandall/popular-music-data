@@ -56,6 +56,3 @@ The sweetest little thing I ever knew
 Petticoat white and summer sky blue
 The sweetest little thing I ever ever knew
 
-
-
-

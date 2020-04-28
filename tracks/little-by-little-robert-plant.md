@@ -87,5 +87,5 @@ Oh, I can breathe again
 I can breathe again
 I can breathe again
 I can breathe again
-Oooh, oooh
+Oh, oh
 Little by little

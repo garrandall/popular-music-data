@@ -66,52 +66,52 @@ rankings:
 ---
 
 
-Any other night, you woulda been somewhere with your freinds 
-Any other night, you'd a had things to do (ooh) 
-Any other night, I woulda been home alone, in my bed 
-Any other night, I would wanna see you 
+Any other night, you woulda been somewhere with your freinds
+Any other night, you'd a had things to do (oh
+Any other night, I woulda been home alone, in my bed
+Any other night, I would wanna see you
 
 
-Boy you picked the wrong time, cause I got company 
-Boy you picked the wrong time, yeah I got anotha n*gga layin up wit me 
-Boy you picked the wrong time, and it coulda been you but your too busy 
-Boy you picked the wrong time, whats a woman to do when shes feelin lonley 
+Boy you picked the wrong time, cause I got company
+Boy you picked the wrong time, yeah I got anotha n*gga layin up wit me
+Boy you picked the wrong time, and it coulda been you but your too busy
+Boy you picked the wrong time, whats a woman to do when shes feelin lonley
 
 
-Any other night, I'd a had to page you more than once 
-Any other night, I'd a been waitin for your call (yeah) 
-Any other night your too damn busy, for me 
-And any other night, it woulda been good but not tonight 
+Any other night, I'd a had to page you more than once
+Any other night, I'd a been waitin for your call (yeah)
+Any other night your too damn busy, for me
+And any other night, it woulda been good but not tonight
 
 
-Boy you picked the wrong time, cause I got company 
-Boy you picked the wrong time, and it woulda been you with me 
-Boy you picked the wrong time, layin in my bed, in my bed, in my bed 
-Boy you picked the wrong time, but whats a shorty to do when shes feelin lonely 
+Boy you picked the wrong time, cause I got company
+Boy you picked the wrong time, and it woulda been you with me
+Boy you picked the wrong time, layin in my bed, in my bed, in my bed
+Boy you picked the wrong time, but whats a shorty to do when shes feelin lonely
 
 
-Dont be surprised boy, you shoulda known that I, 
+Dont be surprised boy, you shoulda known that I,
 would not just keep on chaseing you around, I called you cause I wanted to
-see you but you said, you were too busy, so i found someone else 
+see you but you said, you were too busy, so I found someone else
 
 
-Boy you picked the wrong time, boy you picked a fine time, to show up 
-Boy you picked the wrong time, did you get my 2-way, you didnt answer your phone at home 
-Boy you picked the wrong time, noooo, yeah.. 
-Boy you picked the wrong time, whats a girl to do.. 
+Boy you picked the wrong time, boy you picked a fine time, to show up
+Boy you picked the wrong time, did you get my 2-way, you didnt answer your phone at home
+Boy you picked the wrong time, noooo, yeah..
+Boy you picked the wrong time, whats a girl to do..
 
 
-(Boy you picked the wrong time) 
-Any other night, it woulda been coo to chill wit Ree 
-(Boy you picked the wrong time) 
-And Any other night, you coulda been makin love to me 
-(Boy you picked the wrong time) But not tonight, its his night, its his night 
-(Boy you picked the wrong time) 
-And any other night, woulda been your night 
+(Boy you picked the wrong time)
+Any other night, it woulda been coo to chill wit Ree
+(Boy you picked the wrong time)
+And Any other night, you coulda been makin love to me
+(Boy you picked the wrong time) But not tonight, its his night, its his night
+(Boy you picked the wrong time)
+And any other night, woulda been your night
 
-Boy you picked the wrong time.. 
-Boy you picked the wrong time.. 
-Boy you picked the wrong time....
+Boy you picked the wrong time..
+Boy you picked the wrong time..
+Boy you picked the wrong time...
 
 
 

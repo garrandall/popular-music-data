@@ -136,7 +136,7 @@ Ain't no big surprise
 Just pour me a drink
 And I'll tell you my lies
 Yesterday 's gone
-Now all I want is a smile.....
+Now all I want is a smile...
 
 
 

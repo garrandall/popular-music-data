@@ -54,11 +54,11 @@ When I knew I’d need somebody soon
 How could I let you get away baby
 When I knew I need somebody soon
 
-Oooh baby, how could let you get away baby
+Oh baby, how could let you get away baby
 When I knew I need somebody soon yeah
 Hey baby I didn’t count my sheep I let my woman weep baby
 I knew down inside I needed someone
 Like Mother Goose I done let you lose
 And I need you baby yeah
-Ooh wee, I need somebody soon
+Ohwee, I need somebody soon
 Help me now to keep my feet on the ground

@@ -137,9 +137,6 @@ I’ve been waiting so long
 To be where I’m going
 In the sunshine of your love
 
-
-
-
 I’m with you, my love
 The lights shining through on you
 Yes, I’m with you, my love

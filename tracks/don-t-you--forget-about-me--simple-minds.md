@@ -97,7 +97,7 @@ rankings:
   start_date: '1985-07-20'
 ---
 Hey, hey, hey, hey
-Ooh...
+Oh...
 
 
 Won't you come see about me?
@@ -124,7 +124,7 @@ Call my name or walk on by
 Rain keeps falling, rain keeps falling
 Down, down, down, down
 Hey, hey, hey, hey
-Ohhhh.....
+Ohhhh...
 
 
 Don't you try to pretend

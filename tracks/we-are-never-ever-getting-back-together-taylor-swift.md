@@ -114,9 +114,9 @@ Remember how that lasted for a day?
 I say, "I hate you," we break up, you call me, "I love you"
 
 
-Ooh-ooh-ooh-ooh-ooh
+Oh-oh-oh-oh-oh
 We called it off again last night, but
-Ooh-ooh-ooh-ooh-ooh
+Oh-oh-oh-oh-oh
 This time, I'm telling you, I'm telling you
 
 
@@ -133,9 +133,9 @@ And you would hide away and find your peace of mind
 With some indie record that's much cooler than mine
 
 
-Ooh-ooh-ooh-ooh-ooh
+Oh-oh-oh-oh-oh
 You called me up again tonight, but
-Ooh-ooh-ooh-ooh-ooh
+Oh-oh-oh-oh-oh
 This time, I'm telling you, I'm telling you
 
 
@@ -146,9 +146,9 @@ You go talk to your friends, talk to my friends, talk to me
 But we are never, ever, ever, ever getting back together
 
 
-Ooh-ooh-ooh-ooh-ooh (yeah)
-Ooh-ooh-ooh-ooh-ooh (yeah)
-Ooh-ooh-ooh-ooh-ooh (yeah)
+Oh-oh-oh-oh-oh (yeah)
+Oh-oh-oh-oh-oh (yeah)
+Oh-oh-oh-oh-oh (yeah)
 Oh-oh-oh
 
 
@@ -160,14 +160,14 @@ Like, we are never getting back together, like, ever"
 
 
 We are never, ever, ever getting back together
-We are never, ever, ever (ooh) getting back together
+We are never, ever, ever (oh) getting back together
 You go talk to your friends, talk to my friends, talk to me
 But we are never, ever, ever, ever getting back together
 
 
-We (ooh-ooh-ooh-ooh-ooh, ooh-ooh-ooh, no)
+We (oh-oh-oh-oh-oh, oh-oh-oh, no)
 Getting back together
-We (ooh-ooh-ooh-ooh-ooh, oh, oh, yeah)
+We (oh-oh-oh-oh-oh, oh, oh, yeah)
 Getting back together
 You go talk to your friends, talk to my friends, talk to me
 (Talk to me)

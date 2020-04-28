@@ -134,9 +134,6 @@ Found another goat I try to put the blame on
 And now I'm stepping on all the cracks
 So I guess there ain't no use
 
-
-
-
 I'm bent like glass
 Second hand like glory
 Missed the bus
@@ -149,9 +146,6 @@ One foot getting deeper
 Crank it to eleven
 Blow another speaker
 And I ain't got, I ain't got much to lose
-
-
-
 
 I know that I've seen better days
 (And the bottom drops out)

@@ -118,7 +118,7 @@ Keep on rock'n
 Rock'n me, baby
 Keep on-a rock'n
 Rock'n me, baby
-Ooh yeah
+Oh yeah
 
 
 Don't get suspicious

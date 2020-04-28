@@ -98,13 +98,13 @@ I can't think of nothing else
 
 Thinking how it's going to be
 Whenever I get you next to me
-It's gonna be good, dont you know
+It's gonna be good, don't you know
 From your head to your toe
 Gonna love you all over, over and over
 Me into you, you into me, me into you
 
 I am so into you
-I am so into you, ooh
+I am so into you, oh
 
 When you walked into the room
 There was voodoo in the vibes
@@ -122,8 +122,8 @@ I am so into you
 Love the things you do
 
 Listen baby
-Driving me crazy, oooh
-Come on baby, oo-ooh
+Driving me crazy, oh
+Come on baby, oo-oh
 I am so into you
 Love the things you do
 Come on baby

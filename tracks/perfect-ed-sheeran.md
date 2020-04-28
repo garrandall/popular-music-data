@@ -270,9 +270,6 @@ Barefoot on the grass, listening to our favorite song
 When I saw you in that dress, looking so beautiful
 I don't deserve this, darling, you look perfect tonight
 
-
-
-
 Baby, I'm dancing in the dark, with you between my arms
 Barefoot on the grass, listening to our favorite song
 I have faith in what I see

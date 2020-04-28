@@ -66,7 +66,7 @@ Now that bitch steady calling me Mr Fantastic, yeah, ayy
 Know I keep a ratchet (alright)
 If you play, boy I'll turn your ass to ashes, yeah
 Automatic, doo, doo, doo, doo, bitch, I'm blasting yeah
-Ooh, put you in a casket, yeah
+Oh put you in a casket, yeah
 Money stretch long, it's elastic
 I don't know what planet I'm on (I'm on Mars)
 I'm a king, lil bitch watch the throne

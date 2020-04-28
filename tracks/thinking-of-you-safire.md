@@ -135,11 +135,6 @@ I know you're happy where you are
 I know someday
 We'll be together together again
 
-
-
-
-
-
 I know someday I'll hold you again
 You and me together again
 But until that day

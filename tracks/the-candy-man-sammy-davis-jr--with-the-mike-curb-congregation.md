@@ -1,7 +1,6 @@
 ---
 artists:
-- Sammy Davis
-- Jr. with The Mike Curb Congregation
+- Sammy Davis Jr.
 features: []
 genres: []
 key: the-candy-man-sammy-davis-jr--with-the-mike-curb-congregation

@@ -84,9 +84,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-12-29'
 ---
-Ooh...
-Ooh...
-Ooh...
+Oh...
+Oh...
+Oh...
 
 Keep on truckin', baby
 I got to keep on truckin'
@@ -127,7 +127,7 @@ No, you can't stop the feelin'
 No, you can't stop the feelin'
 No, not now
 
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 
 Keep on truckin' on
 Keep on truckin' on
@@ -148,7 +148,7 @@ I'm truckin'
 In old Temptation's rain
 I'm duckin'
 For your love through sleet and snow
-I'm truckin', ooh
+I'm truckin', oh
 
 I'm the red ball express of lovin'
 Diesel-powered straight to you
@@ -165,5 +165,5 @@ Ain't nothin' holdin' me back nothin'
 I'll keep right on
 Right on truckin'
 
-Ooh, ooh, ooh, ooh, truckin'
-Ooh, ooh, ooh, ooh, ooh, truckin'
+Oh, oh, oh, oh, truckin'
+Oh, oh, oh, oh, oh, truckin'

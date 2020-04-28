@@ -58,7 +58,7 @@ Of the number of husbands and wives
 
 A woman and a man
 A man and a woman
-Some can and some cant and some cant
+Some can and some can't and some cant
 
 Two broken hearts lonely looking houses
 Where nobody lives

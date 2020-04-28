@@ -166,8 +166,8 @@ When ya try to see the world beyond your front door.
 
 
  If you're listening? We're trying to get our song on Napster,
-But we don't know how to do it....errr....we're Barenaked Ladies
-And we're trying to....Ty? Can you just press that over there?
+But we don't know how to do it...errr...we're Barenaked Ladies
+And we're trying to...Ty? Can you just press that over there?
 
 Take your time 'cause the way I rhyme's gonna make you smile,
 When ya realise that with a guy my size it might take a while,

@@ -36,7 +36,7 @@ Lord, help me, baby, whoa
 This will surely be the end of me
 
 Yeah, yeah, all right
-Ooh, I got to dream now, oh, Lord
+Oh, I got to dream now, oh, Lord
 
 Pull myself together
 Put on a new face

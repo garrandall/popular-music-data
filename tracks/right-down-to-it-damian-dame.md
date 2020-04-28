@@ -32,7 +32,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-01-18'
 ---
-Mmm.....
+Mmm...
 
 Baby, if I drive you crazy
 Ain't nothing personal about it
@@ -106,7 +106,7 @@ And you want what you diss
 Then you miss what you love
 And you love what you diss, baby
 
-Ooh, baby, yeah
+Oh, baby, yeah
 I wanna get with you, baby, oh
 And you should know by now
 And you should know by now, baby

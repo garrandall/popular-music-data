@@ -78,8 +78,8 @@ rankings:
 ---
 EeeyiyiyiyiyahtheDoggPound'sinthehou-owwse (the bomb)
 EeeyiyiyiyiyeahtheDoggPound'sinthehou-oww-owse
-Snoop Doggy, Do-owww-ohhhh-oggg (the bomb)
-Snoop Doggy, Do-owww-ohhhh-oggg (Dog)
+Snoop Doggy, Do-owww-oh-oggg (the bomb)
+Snoop Doggy, Do-owww-oh-oggg (Dog)
 
 
 From the depths of the sea, back to the block
@@ -113,7 +113,7 @@ Mr. One Eight Seven on a motherfuckin cop
 Tic toc never the Glock just some nuts and a cock
 Robbin motherfuckers then I kill dem bloodclots
 Then I step through the fog and I creep through the smog
-'Cause I'm Snoop Doggy (who?) Doggy (what?) Doggy 
+'Cause I'm Snoop Doggy (who?) Doggy (what?) Doggy
 
 
 Snoop Doggy Dogg

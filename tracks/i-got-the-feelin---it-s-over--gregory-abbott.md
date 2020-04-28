@@ -53,11 +53,11 @@ rankings:
   start_date: '1987-05-02'
 ---
 
-Hey hey, hey... hmmm
+Hey hey, hey... hm
 
 Sometimes I feel you're in love with me, baby
 Other times I wonder there's no peace of mind, yeah
-Ooh, I'd like to know what you feel for me, sugar
+Oh, I'd like to know what you feel for me, sugar
 Is it really real or is it just a lie, yeah?
 
 I'd like to know, baby (I'd like to know) is there a chance for us?
@@ -66,7 +66,7 @@ Or is this the end, baby (is this the end?) of our romance?
 I got the feeling it's over (hey hey hey hey)
 The funny feeling that it's over (well well)
 I got the feeling it's over (yeah, yeah)
-The funny feeling that it's over (mmm-hmm)
+The funny feeling that it's over (mmm-hm)
 
 I thought we had such a love affair, baby
 Was I so wrong? is it over now, over now?
@@ -92,11 +92,11 @@ The funny feeling that it's over now (hey)
 I got the feeling it's over (oh sugar)
 (I got the feeling, really, really got the feeling) (oh yeah yeah yeah)
 The funny feeling that it's over now, I got the feeling it's over
-(I got the feeling, really, really got the feeling) (ooh...)
+(I got the feeling, really, really got the feeling) (oh...)
 The funny feeling that it's over now (hey hey hey hey)
 I got the feeling it's over (I got the feeling, really, really got the feeling)
 (Yeah) the funny feeling that it's over now (uh uh now)
-I got the feeling it's over (ooh...)
+I got the feeling it's over (oh...)
 (I got the feeling, really, really got the feeling)
 The funny feeling that it's over now (because you love me, girl)
 I got the feeling it's over (I got the feeling, really, really got the feeling)

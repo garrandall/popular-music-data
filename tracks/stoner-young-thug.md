@@ -90,7 +90,7 @@ Just like a f****** boss, just like a boss, boss
 
 
 Thugger Thugger, you
-I want Michael Jackson land, ohh
+I want Michael Jackson land, oh
 Aww, I'ma cash out (On what?)
 I'm high as hell ain't got no satellites on me (Moon)
 I tell that bitch I feel like Fabo (What?)

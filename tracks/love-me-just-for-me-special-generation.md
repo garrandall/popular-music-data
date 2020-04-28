@@ -57,7 +57,7 @@ Love wasn't what you were looking for
 (Love me just for me.) Yeah, yeah, yeah, yeah
 The kind of love that'll always be special
 (Love me just for me.) Forever and ever and ever
-Oooh, oooh, oooh, oooh, oooh, oooh
+Oh, ohohoh, ohohohoh
 (Love me just for me.)
 My heart is yearning for a love that's tender
 Love me just for me over and over and over and over and over again
@@ -75,11 +75,11 @@ It wasn't like you couldn't give it to her, but that was all she wanted
 Well, I'll keep searching this big old world until I find my lucky star
 And when I do, I'll ask her to love me just for me
 
-Ahhh, ah, ahhhhhhhh.  (Love me just for me.)
+Ah, ah, ah.  (Love me just for me.)
 Hey, eh, eh, eh, eh, eh, eh, eh, uh.  (Love me just for me.)
 Oh, oh, oh, oh, oh, oh, oh, uh
 Oh, oh, oh, uh, uhhh...Would you love me
-(Love me just for me.) Oooh, oooh, oooh, oooh, oooh
+(Love me just for me.) Oh, ohohoh, ohoh
 (Love me just for me.) Love me
 (Love me just for me.) It gotta be only me
 You got to change
@@ -87,7 +87,7 @@ You got to change
 (Love me just for me.)
 I'm trying so hard to please you, girl
 I'm trying to get inside your world.  (Love me.)
-(Love me just for me.) Oooh, baby
+(Love me just for me.) Oh, baby
 (Love me just for me.) Love me, only me
 (Love me just for me.) You're all I ever need
 Love me just for me.  Love me just for me

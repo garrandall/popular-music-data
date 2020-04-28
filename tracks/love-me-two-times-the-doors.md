@@ -63,9 +63,6 @@ Love me two times
 I'm goin' away
 All right, yeah!
 
-
-
-
 Love me one time
 Could not speak
 Love me one time, baby

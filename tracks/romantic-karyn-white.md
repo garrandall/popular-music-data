@@ -89,7 +89,7 @@ rankings:
   start_date: '1991-12-28'
 ---
 
-Ooh
+Oh
 Baby, baby, baby
 I wanna get romantic
 Oh
@@ -101,7 +101,7 @@ It's time to get romantic
 Let's be romantic
 
 Take me in your arms, caress me gently
-Oh, I can't get enough, ooh
+Oh, I can't get enough, oh
 Thrill me, say the word, I will surrender
 To your poetic charm, oh
 
@@ -125,14 +125,14 @@ Baby, free me from the heat, my heart's on fire
 Under the moonlight
 With the stars shining so bright
 Baby, my mind is on love
-When we get home tonight, ooh
+When we get home tonight, oh
 
 Turn the lights down (Oh, baby)
 It's time to get romantic
 (Do everything romantic please)
 Light a candle
 It's time to get romantic
-(I wanna get, I wanna get, ooh, romantic)
+(I wanna get, I wanna get, oh romantic)
 
 Turn the lights down (Turn the lights down low)
 It's time to get romantic
@@ -160,9 +160,9 @@ I wanna get romantic
 Oh, oh
 Oh, oh, yeah, yeah
 
-Let's get romantic (Ooh), now let's fall in love (Let's get romantic)
+Let's get romantic (Oh), now let's fall in love (Let's get romantic)
 Make me surrender to your tender touch (Your tender touch)
-Do you remember I can't get enough (Ooh... ooh... baby)
+Do you remember I can't get enough (Oh... oh.. baby)
 Love me, let's be romantic
 
 Hey, you're lookin' so, so tender

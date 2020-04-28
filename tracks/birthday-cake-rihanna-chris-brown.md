@@ -106,7 +106,7 @@ Cake, cake, cake, cake, cake
 Cake, cake, cake, cake, cake
 Cake, cake, cake, cake, cake
 (But you wanna put your name on it)
-Ooh, baby, I like it
+Oh, baby, I like it
 It's so exciting
 Don't try to hide it
 I'ma make you my bitch
@@ -132,7 +132,7 @@ Let me-let me turn the lights down (the lights down)
 When I-when I go down, it's a private party
 
 
-Ooh, it's not even her birthday (her birthday, uh)
+Oh, it's not even her birthday (her birthday, uh)
 But I wanna lick the icing off (the icing off, damn)
 Give it to her in the worst way (the worst way, uh)
 Can't wait to blow her candles out
@@ -142,7 +142,7 @@ I want that cake, cake, cake, cake, cake
 Cake, cake, cake, cake, cake (yeah, yeah, yeah, yeah)
 Cake, cake, cake, cake, cake
 (Bet you wanna put your name on it)
-Ooh, baby, I like it
+Oh, baby, I like it
 You so excited
 Don't try to hide it
 I'ma make you my bitch (okay)
@@ -150,7 +150,7 @@ Cake, cake, cake, cake, cake
 Cake, cake, cake, cake, cake
 Cake, cake, cake, cake, cake
 (Bet you wanna put your name on it) (okay)
-Ooh, baby, I like it
+Oh, baby, I like it
 You so excited (haha, okay)
 Don't try to hide it
 I'ma make you my bitch (okay)
@@ -186,7 +186,7 @@ Hahaha, and it's not even my birthday
 Ow!
 
 
-Get it, ooh, it's not even her birthday (her birthday, uh)
+Get it, oh, it's not even her birthday (her birthday, uh)
 But I wanna lick the icing off (the icing off, damn)
 Give it to her in the worst way (the worst way, uh)
 Can't wait to blow her candles out
@@ -196,7 +196,7 @@ I want that cake, cake, cake, cake, cake
 Cake, cake, cake, cake, cake (yeah, yeah, yeah, yeah)
 Cake, cake, cake, cake, cake
 (Bet you wanna put your name on it)
-Ooh, baby, I like it
+Oh, baby, I like it
 You so excited
 Don't try to hide it
 I'ma make you my bitch

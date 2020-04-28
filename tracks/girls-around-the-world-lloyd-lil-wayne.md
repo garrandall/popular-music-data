@@ -92,9 +92,6 @@ I know just what you need, to make you look complete
 This platinum wedding ring, cause oh I got a thing for you
 I'm a take you around the world, oh baby
 
-
-
-
 Ah ha ha, yeah
 OK I'm thinkin' of a master plan
 Nah, I'm lyin', shorty on my mind

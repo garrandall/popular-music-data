@@ -63,7 +63,7 @@ Hand and hand we'll go, dancin' through the Milky Way
 And we'll find a little hide a way where we can love the whole night away
 We'll be shadows in the moonlight right up 'til the light of day
 
-Ooh the night is young and baby, so are we
+Oh the night is young and baby, so are we
 Glad, I'm gonna make you glad you came
 You won't need a thing
 Just bring your love for me

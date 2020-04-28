@@ -12,7 +12,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
 ---
-Yeah, yeah, yeah (Oh, ohh)
+Yeah, yeah, yeah (Oh, oh)
 I'm a real, I'm a real
 I'm a real deal slime
 

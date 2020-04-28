@@ -23,11 +23,11 @@ You'll be my curry
 I'll be your rice
 My name is P.S. Waaah
 Hand Goo Mall or Bok Choy Saw
-No and ahhh, girl, that nuke don't jog
+No and ah, girl, that nuke don't jog
 Biatch is a hater, seagull power
 Oprah darling down
 Taco chow but only yell
-Not an ahhh, trim the Uno card
+Not an ah, trim the Uno card
 See ya, tomb of John
 
 

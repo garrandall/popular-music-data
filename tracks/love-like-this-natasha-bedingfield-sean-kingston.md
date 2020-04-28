@@ -89,7 +89,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-03-15'
 ---
-Ooh, oh (Talk to 'em, babe)
+Oh oh (Talk to 'em, babe)
 Whoa, whoa, whoa
 Never find a love like this
 Whoa, whoa, whoa (Hey)
@@ -100,7 +100,7 @@ Well, we go back so far
 Swinging in your backyard
 All the things that we used to do
 We were cool back in high school
-Ooh, I really liked you
+Oh I really liked you
 Must've been your attitude
 
 
@@ -145,7 +145,7 @@ You're the only one that knows me
 Love it when you hold me
 Never find a love like this (Let me hear you say)
 Now I'll never be lonely
-Ooh, look at what you've shown me
+Oh look at what you've shown me
 Never find a love like this
 Well, this life tried to keep us apart
 You keep calling me back to your heart

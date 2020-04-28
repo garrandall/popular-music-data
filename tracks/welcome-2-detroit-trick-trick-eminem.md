@@ -79,9 +79,6 @@ A quarter of a million dollars for beatin' a murder rap
 And my boy holdin' me up, Shady done put it out
 Trick Trick and Eminem, Detroit back in the house
 
-
-
-
 Ayo Em, you ever need one of these weapons come get it
 From now on every beef that you get in, homie I'm in it
 I been ridin' for this city, whether wrong or right
@@ -98,9 +95,6 @@ So peace to Jimmy and Dre for signin' my nigga
 He reached back to Detroit and grabbed a winner
 So the gangstas and thugs, we embrace with love
 And beat the hell outta anybody that fuck with us
-
-
-
 
 Yeah, Trick Trick
 Eminem, Wonder Boy, Shady

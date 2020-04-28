@@ -60,7 +60,7 @@ Me, it better be me!
 Butterfly Baby, 'bout time you knew:
 I love you like crazy, I love only you
 Oh you little Butterfly Baby when will you see
-Butterfly Baby, oooo, you've got a trial with me
+Butterfly Baby, oo, you've got a trial with me
 ----------
 When you're done and there's only one
 Who will your honey be?
@@ -69,8 +69,8 @@ Me, it better be me!
 Butterfly Baby, when you are free
 You'll be my baby, ya, exclusively
 Oh you little Butterfly Baby, then you will see
-Butterfly Baby, oooo, you'll only fly with me
-Wa-ooooo, wa-ooooo
-Wa-ooooo, wa-ooooo
-Wa-ooooo, wa-ooooo
-Wa-ooooo. . .
+Butterfly Baby, oo, you'll only fly with me
+Wa-oo, wa-oo
+Wa-oo, wa-oo
+Wa-oo, wa-oo
+Wa-oo. . .

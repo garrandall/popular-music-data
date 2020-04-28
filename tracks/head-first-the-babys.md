@@ -34,7 +34,7 @@ What it's about
 Me and baby
 We're going out tonight
 She's gonna treat me right
-Ooh yeah
+Oh yeah
 Me and sugar
 We've got it all sewn up
 She fills my loving cup
@@ -55,7 +55,7 @@ Of what you got
 Me and baby
 We're going out tonight
 She's gonna treat me right
-Ooh yeah
+Oh yeah
 Me and sugar
 We've got it all sewn up
 She fills my loving cup
@@ -74,7 +74,7 @@ I'm never gonna let you go
 Me and baby
 We're going out tonight
 She's gonna treat me right
-Ooh yeah
+Oh yeah
 Me and sugar
 We've got it all sewn up
 She fills my loving cup
@@ -83,11 +83,11 @@ We're going head first
 Me and baby
 We're going out tonight
 She's gonna treat me right
-Ooh yeah
+Oh yeah
 Said me and baby
 We've got it all sewn up
 She fills my loving cup
-Ooh yeah
+Oh yeah
 
 Me and baby
 Me and baby gonna rock and roll

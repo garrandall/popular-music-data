@@ -132,7 +132,7 @@ The love that we share
 Makes life so sweet
 Together, we'll always be
 This pledge of love feels so right
-And ooh, I need you
+And oh, I need you
 
 
 Here and now
@@ -159,7 +159,7 @@ I vow to be one with thee
 Your love is all I need
 
 
-Starting here, ooh
+Starting here, oh
 I'm starting now, I believe
 Starting here, I'm starting right here
 Starting now, right now

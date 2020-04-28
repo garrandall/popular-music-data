@@ -109,10 +109,10 @@ rankings:
   start_date: '2008-05-03'
 ---
 
-YO!!!!
-WAT A GWAAN!!!
-HO!!!!
-SEAN KINGSTON!!!
+YO!
+WAT A GWAAN!
+HO!
+SEAN KINGSTON!
 JR!
 
 

@@ -33,19 +33,4 @@ rankings:
   start_date: '1974-02-23'
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The recording is the album’s version – the long one…

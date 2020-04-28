@@ -121,7 +121,7 @@ Keep going 'til you hit the spot (woah)
 
 
 You can have it your way, how do you want it
-You gon' back that thing up or should i push up on it
+You gon' back that thing up or should I push up on it
 Temperature rising, okay lets go to the next level
 Dance floor jam packed, hot as a teakettle
 I'll break it down for you now, baby it's simple
@@ -162,8 +162,4 @@ As Long as she ain't stopping, homie I ain't stopping
 Dripping wet with sweat man its on and popping
 All my champagne campaign, bottle after bottle its on
 And we gon' sip 'til every bubble in every bottle is gone
-
-
-
-
 

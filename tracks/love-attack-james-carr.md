@@ -30,7 +30,7 @@ Lord, I just had a love attack
 
 Now my love life was nothing
 In fact, it was a blank
-Until you came along, ooh wee
+Until you came along, oh wee
 You put a little tiger in my tank
 
 Can't you see you got me

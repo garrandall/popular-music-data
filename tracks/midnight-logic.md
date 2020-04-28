@@ -48,9 +48,6 @@ My apologies but if you're after me then it gets worse
 When I come through I spit voodoo and leave them cursed
 Common logic
 
-
-
-
 This is the realest
 Only unto the real shall I reveal this
 I even made this beat my self just so y'all could feel this
@@ -76,9 +73,6 @@ And on the real I'll never forget the day I got my deal
 Full creative control and the money was unreal
 Started from the bottom and got here cause of my skill
 And I never set a goal that I didn't plan to fulfill
-
-
-
 
 You're not any less of a man if you don't pull the trigger
 You're not necessarily a man if you do

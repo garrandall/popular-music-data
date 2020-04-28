@@ -105,7 +105,7 @@ They say, oh my god, I see the way you shine
 Take your hands, my dear, and place them both in mine
 You know you stopped me dead while I was passing by
 And now I beg to see you dance just one more time
-Ooh I see you, see you, see you every time
+OhI see you, see you, see you every time
 And, oh my, I, I, I like your style
 You, you make me, make me, make me wanna cry
 And now I beg to see you dance just one more time
@@ -125,7 +125,7 @@ I said, oh my god, I see you walking by
 Take my hands, my dear, and look me in my eyes
 Just like a monkey I've been dancing my whole life
 But you just beg to see me dance just one more time
-Ooh I see you, see you, see you every time
+OhI see you, see you, see you every time
 And, oh my, I, I, I,
 I like your style
 You, you make me, make me, make me wanna cry

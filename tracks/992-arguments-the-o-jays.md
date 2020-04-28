@@ -79,9 +79,6 @@ Tell me, how long does it take?
 992, quit just a-fighting
 992, I'm sick of you
 
-
-
-
 Maybe we just weren't meant for each other
 You know, we might have made a big mistake
 But two people understand one another

@@ -88,11 +88,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1996-10-19'
 ---
-Ooh, ooh, baby
-Ahh, ooh
+Oh, oh, baby
+Ah, oh
 
 
-You mean the world, ooh, and everything that I want for
+You mean the world, oh, and everything that I want for
 Since I've been your girl, oh, my whole life has been much better than ever before
 You got a tender sweet love, yes, you do
 That weakens me and takes over me whenever we touch

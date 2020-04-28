@@ -39,12 +39,12 @@ It happens all the time
 You know the day dreams stop
 My heart beats on
 I can't take it any more
-It's you I live for 
+It's you I live for
 You are in my system
-You are in my system 
+You are in my system
 I just want you to know that,
-You are in my system 
-You oooohhhh you're in my system, system
+You are in my system
+You oh you're in my system, system
 Don't you, Don't you, don't you know that, babe.
 I will keep on pushing, pushing, pushing
 Until I get through
@@ -53,13 +53,13 @@ To turn your mind around
 I know will take time
 But you know I can wait, now
 You're on my mind
-You are in my system 
+You are in my system
 I just want you to know that,
-You are in my system 
+You are in my system
 Got me burning, I'm on fire
 You, you're in my system
 You're everything I need
-You, oooohhhh, you're in my system, system
+You, oh, you're in my system, system
 Don't you, Don't you, don't you know that, babe.
 It's a romantic vision of me and you
 It happens all the time
@@ -70,15 +70,15 @@ You know I'll take you out
 And I'll keep lovin' you
 Oh baby you are in my system,
 I just want you to know that
-You are in my system 
+You are in my system
 Cut me right down to the wire
-You, ooohh, you're in my system
+You, oh, you're in my system
 Got me burning I'm on fire
 You, you're in my system
 Can't make believe
 You, you're in my system
 You're everything I need
-You, ooohh, you're in my system
+You, oh, you're in my system
 I just want you to know that
 You, you're my system
 Got me burning I'm on fire

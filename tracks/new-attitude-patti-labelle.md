@@ -114,7 +114,7 @@ I've got a new attitude
 I'm in control
 My worries are few
 'Cause I got love like I never knew
-Ooo, ooo, ooo, ooo
+Ooo, oo, oo, oo
 I've got a new attitude
 
 I am wearing a new dress, a new hat
@@ -131,10 +131,4 @@ Or forget your love for just being like I should
 
 
 Ooo, Ooo, Oooo
-
-
-
-
-
-
 

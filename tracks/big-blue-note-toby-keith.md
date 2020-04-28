@@ -62,7 +62,7 @@ You Don't want to read that thing man, it's a real getcha downer
 But don't you dare say nothin else bad about her
 She's gone
 
-No,no,no,no don-don't throw it away
+No, no, no, no don't throw it away
 'Cause tonight I might need it
 It gets real lonely around here at night sometimes, and I have to reread it
 Besides you can show it to the boys downtown, and they won't believe that,

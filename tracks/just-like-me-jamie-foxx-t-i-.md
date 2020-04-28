@@ -124,9 +124,6 @@ And I was on some bullshit when I let that bitch up in our home
 She's also known just like me
 And she played the game like one of my homies
 
-
-
-
 You're just like me, shorty all up in the club
 Popping bottles of that Bub, giving all them dudes hugs
 And you just like me, she don't know how to act

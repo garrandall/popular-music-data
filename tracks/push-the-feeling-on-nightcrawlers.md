@@ -86,7 +86,7 @@ Oh, push the feeling on
 Push the feeling
 Oh, push the feeling on
 Push the feeling
-Ooo-ooo-on
+Ooo-oo-on
 
 Push it, let's push it
 Push the feeling on
@@ -108,7 +108,7 @@ Oh, push the feeling on
 Push the feeling
 Oh, push the feeling on
 Push the feeling
-Ooo-ooo-on
+Ooo-oo-on
 
 Push it, let's push it
 Gotta keep moving on
@@ -118,7 +118,7 @@ Push it, let's push it
 Gotta keep moving on
 
 Push the feeling
-Ooooh
+Oh
 Ya gotta push through
 Don't you wanna help me now?
 
@@ -129,7 +129,7 @@ Oh, push the feeling on
 Push the feeling
 Oh, push the feeling on
 Push the feeling
-Ooo-ooo-on
+Ooo-oo-on
 
 Push it, let's push it
 Push the feeling on

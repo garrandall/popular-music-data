@@ -58,9 +58,9 @@ The kind of love that you have been showin'
 The way you do the beautiful things you do
 You really know how to make me love you
 Uh, ah, can't you see I want it?
-Ooh, uh, girl, I'll be doggone it
-Ooh, ooh, got to, got to hold you
-Ooh, ooh, got to make love to you
+Oh, uh, girl, I'll be doggone it
+Oh, oh got to, got to hold you
+Oh, oh got to make love to you
 
 
 Can't you feel the fire?
@@ -83,8 +83,8 @@ To give you all the love I've got to give
 For as long, as long as I shall live
 Uh, ah, can't you see I want it
 Uh, uh, girl, I'll be doggone it
-Ooh, ooh, now I got to hold you
-Ooh, ooh, gonna make love to you
+Oh, oh now I got to hold you
+Oh, oh gonna make love to you
 
 
 Girl, I'll go insane

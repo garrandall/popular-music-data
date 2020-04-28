@@ -65,7 +65,7 @@ rankings:
   start_date: '2010-02-06'
 ---
 
-Uh, uh 
+Uh, uh
 
 Take a breath
 Take it deep
@@ -108,9 +108,4 @@ I'm terrified but I'm not leaving no
 Know that I must pass this test
 
 So, just pull the trigger (trigger)
-
-
-
-
-
 

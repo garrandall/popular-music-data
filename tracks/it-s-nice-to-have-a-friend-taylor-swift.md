@@ -13,8 +13,8 @@ rankings:
   start_date: '2019-09-07'
 ---
 
-Ooh
-Ooh
+Oh
+Oh
 
 School bell rings, walk me home
 Sidewalk chalk covered in snow
@@ -23,8 +23,8 @@ Lost my gloves, you give me one
 Video games, you pass me a note
 Sleeping in tents
 
-It's nice to have a friend (Ooh)
-It's nice to have a friend (Ooh)
+It's nice to have a friend (Oh)
+It's nice to have a friend (Oh)
 
 Light pink sky up on the roof
 Sun sinks down, no curfew
@@ -33,8 +33,8 @@ You've been stressed out lately, yeah, me too
 Something gave you the nerve
 To touch my hand
 
-It's nice to have a friend (Ooh)
-It's nice to have a friend (Ooh)
+It's nice to have a friend (Oh)
+It's nice to have a friend (Oh)
 
 Church bells ring, carry me home
 Rice on the ground looks like snow
@@ -43,11 +43,11 @@ Have my back, yeah, every day
 Feels like home, stay in bed
 The whole weekend
 
-It's nice to have a friend (Ooh)
-It's nice to have a friend (Ooh)
-It's nice to have a friend (Ooh)
-It's nice to have a friend (Ooh)
-(Ooh)
+It's nice to have a friend (Oh)
+It's nice to have a friend (Oh)
+It's nice to have a friend (Oh)
+It's nice to have a friend (Oh)
+(Oh)
 
 
 

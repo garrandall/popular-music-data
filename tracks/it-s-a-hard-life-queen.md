@@ -71,9 +71,6 @@ To learn to care for each other
 To trust in one another right from the start
 When you're in love
 
-
-
-
 It's a hard life
 In a world that's filled with sorrow
 There are people searching for love in every way

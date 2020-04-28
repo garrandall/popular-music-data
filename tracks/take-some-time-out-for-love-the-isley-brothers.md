@@ -33,7 +33,7 @@ Keeps getting you down
 
 Just take some time out
 (Take some time out baby)
-Ahhh take some time out
+Ah take some time out
 (Take some time out baby)
 Yeah no matter what you're doing, yeah yeah
 Take some time out for love
@@ -48,7 +48,7 @@ Won't show you no sympathy (show you no sympathy)
 
 Just take some time out
 (Take some time out baby)
-Ahhh take some time out
+Ah take some time out
 (Take some time out baby)
 Yeah no matter what you're doing, yeah yeah
 Take some time out for love
@@ -72,14 +72,14 @@ And baby come running in a hurry
 
 Just take some time out
 (Take some time out baby)
-Ahhh take some time out
+Ah take some time out
 (Take some time out baby)
 Yeah no matter what you're doing, yeah yeah
 Take some time out for love
 Hoo! hoo! hoo! hoo!
 Just take some time out
 (Take some time out baby)
-Ahhh take some time out
+Ah take some time out
 (Take some time out baby)
 Yeah no matter what you're doing, yeah yeah
 Take some time out for love

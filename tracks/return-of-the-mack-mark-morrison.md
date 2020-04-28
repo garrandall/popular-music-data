@@ -168,7 +168,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-11-29'
 ---
-Ooooh-oh-oh-oh
+Oh-oh-oh-oh
 Come on
 Oh yeah
 
@@ -233,7 +233,7 @@ Return of the Mack (Up and down)
 You know that I'll be back (Round and round)
 
 
-Ahh, Mark, stop lying about your big break
+Ah, Mark, stop lying about your big break
 For God sake, I need a real man, uh
 (The return of the mack, aoww) stop putting me down
 Stop putting me down

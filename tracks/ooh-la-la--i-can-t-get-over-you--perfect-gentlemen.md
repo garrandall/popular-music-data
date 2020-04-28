@@ -3,9 +3,9 @@ artists:
 - Perfect Gentlemen
 features: []
 genres: []
-key: ooh-la-la--i-can-t-get-over-you--perfect-gentlemen
-lyrics_url: https://www.musixmatch.com/lyrics/Perfect-Gentlemen-2/Ooh-La-La-I-Can-t-Get-Over-You
-name: Ooh La La (I Can't Get Over You)
+key: ohla-la--i-can-t-get-over-you--perfect-gentlemen
+lyrics_url: https://www.musixmatch.com/lyrics/Perfect-Gentlemen-2/Oh-La-La-I-Can-t-Get-Over-You
+name: Oh La La (I Can't Get Over You)
 rankings:
 - end_date: '1990-04-20'
   rank: 84
@@ -72,7 +72,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-07-28'
 ---
-Ooh la la, ooh la la, I cant, can't get over you
+Oh la la, ohla la, I cant, can't get over you
 
 I remember the day, it was oh so sad
 She was the sweetest dearest friend I ever had
@@ -83,7 +83,7 @@ She said they're leaving and now I'm torn all apart
 I think I'll never forget that day
 And for you girl this is all I have to say
 
-Ooh la la, ooh la la, I cant, can't get over you
+Oh la la, ohla la, I cant, can't get over you
 
 I had a dream, me myself and I
 You were my girl and of course I was your guy
@@ -94,7 +94,7 @@ You never let me down, you kept me on my feet
 Now today all I have to say
 Take it out girl and try to find a way
 
-Ooh la la, ooh la la, I cant, can't get over you
+Oh la la, ohla la, I cant, can't get over you
 Log on to kill this message.
 
 Believe it or not, I can't get over you
@@ -105,7 +105,7 @@ You and me can save our love
 Well be together one day like hand in glove
 All I have to say is I'll wait forever and a day
 
-Ooh la la, ooh la la, I cant, can't get over you
+Oh la la, ohla la, I cant, can't get over you
 
 Wait a minute, fellas, this has gotta be a dream
 You know, I'm so used to seeing her every single day
@@ -117,4 +117,4 @@ You think if we keep singing this song,
 Shell hear it on the radio and come back?
 Hey guys, I definitely think it's worth a try
 
-Ooh la la, ooh la la, I cant, can't get over you
+Oh la la, ohla la, I cant, can't get over you

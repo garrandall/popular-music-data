@@ -84,12 +84,12 @@ Im on the grind let my paper stack when I'm filthy
 Funny how a nigga get the screw facing at me
 Anyhow, they aint got the heart to get at me
 I'll get down, southsides the hood that I come from
-So I dont cruise to nobodys hood without my gun
+So I don't cruise to nobodys hood without my gun
 You know the kid aint gonna follow that bullshit
 try and stick me imma let off a full clip
 It aint my fault you done fucked up your re-up
 At the dice game who told you put a G up
-Everybody mad when their paper dont stack right
+Everybody mad when their paper don't stack right
 When I come around y'all niggas better act right
 When we got the tops down, you can hear the system thump
 When we rollin' rollin' rollin'
@@ -116,8 +116,4 @@ I came up from doing my thang
 Homey I'm holing, holing, holing
 shit man, the store owner watching you
 For something get stolen, stolen, stolen
-
-
-
-
 

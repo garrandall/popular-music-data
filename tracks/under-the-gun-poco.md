@@ -65,7 +65,3 @@ It's just enough to get me through the day
 Now and then you see me falling, way behind the things I need to do
 Don't you believe I've missed my calling, I'm just the one to play your fool
 
-
-
-
-

@@ -52,7 +52,7 @@ The windshield wipers seemed to say
 "Together, together, together, together"
 And now they are saying
 "Oh, never, never"
-Ooh wee, ooh wee, baby
+Oh wee, oh wee, baby
 
 Rhapsody in the rain
 Rhapsody in the rain
@@ -71,7 +71,7 @@ Lightning, lightning
 
 Just like our love
 It was exciting, exciting
-Ooh wee, ooh wee, baby
+Oh wee, oh wee, baby
 
 Rhapsody in the rain
 Rhapsody in the rain

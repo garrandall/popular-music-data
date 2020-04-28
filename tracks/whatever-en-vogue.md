@@ -76,7 +76,7 @@ In giving you my trust
 I'm giving you my love
 So do take care, please be gentle with my heart
 'Cause everything I do is 'bout you, baby
-Baby, I don't wanna be apart, ooh
+Baby, I don't wanna be apart, oh
 I've been loving you from the start
 Here's my heart, here's my heart
 Everything I do is all about you, baby
@@ -86,7 +86,7 @@ You don't know how my heart aches
 Whatever you say, whatever could mean
 You're breaking my heart
 I want it all the time, I want it every night
-I cant stop thinking, can't stop thinking about you
+I can't stop thinking, can't stop thinking about you
 I'm burning with desire, my heart and soul on fire
 So do take care, please be careful with my heart
 (Bum, bum, bum) Anything you do, I crave it, baby, baby, baby

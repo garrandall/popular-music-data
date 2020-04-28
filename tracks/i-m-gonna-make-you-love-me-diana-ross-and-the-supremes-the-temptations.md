@@ -61,8 +61,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
 ---
-Ooh-ooh-ooh-ooh-ooh
-Ooh-ooh-ooh-ooh-ooh
+Oh-oh-oh-oh-oh
+Oh-oh-oh-oh-oh
 
 I'm gonna do all the things for you
 A girl wants a man to do, oh baby (Oh baby)
@@ -91,9 +91,9 @@ I'm gonna get ya, I'm gonna get ya
 Look out, boy, 'cause I'm gonna get ya
 
 I'm gonna make you love me
-Ooh, yes I will, yes I will
+Oh, yes I will, yes I will
 And I'm gonna make you love me
-Ooh, yes I will, you know I will (Yes I will)
+Oh, yes I will, you know I will (Yes I will)
 
 Every breath I take
 And each and every step I make
@@ -110,9 +110,9 @@ Look out cause I'm gonna get ya
 
 And I'm gonna make, I'm gonna make you love me
 Oh, oh (Yes I will, I will, yes I will)
-I'm gonna make you love me, ooh, oh
+I'm gonna make you love me, oh, oh
 Yes I will, yes, I will (Come on and love me)
-I'm gonna make you love me (Ooh)
+I'm gonna make you love me (Oh)
 Yes I will (Yes I will, I will, yes I will)
 Come on and love me
 I'm gonna make you love me

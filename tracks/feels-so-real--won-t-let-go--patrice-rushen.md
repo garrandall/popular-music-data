@@ -89,9 +89,6 @@ Is this my dream come true?
 It feels so real and my mind won't let go (Whoa, whoa)
 Feels so real and my mind won't let go
 
-
-
-
 Feels so real
 No matter what I do, it feels so real, so real, so real
 Feels so real and my mind won't let go

@@ -65,7 +65,7 @@ rankings:
   start_date: '1975-08-16'
 ---
 
-(Ooh) swearin' to God
+(Oh) swearin' to God
 There's no one else on earth I'd rather be
 Mmm... swearin' to God
 You made me see so I believed in me

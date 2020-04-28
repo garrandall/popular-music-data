@@ -165,7 +165,7 @@ I'm in a World War with Muhammad, my man
 
 
 Feels so good to be a Crooklyn Dodger
-Uh huh, What’s Happening!! to ReRun and Roger?
+Uh huh, What’s Happening! to ReRun and Roger?
 I think I seen em wearing Timberlands and running down the block
 From Dwayne and Dwayne had a Glock
 ‘Cause he be selling rock for the Partridge Family

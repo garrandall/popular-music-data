@@ -58,8 +58,8 @@ So far away
 That time will change the ending
 But those mistakes behind me
 Cast shadows to remind me
-Oooooooooooooooooh, oooooooooh
-Ooh-ooh-ooh-ooh)
+Oh, oh
+Ohoh-oh-oh)
 
 
 I've gone through life pretending

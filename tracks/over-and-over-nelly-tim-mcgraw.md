@@ -172,7 +172,7 @@ Now, that I've realized
 That I'm goin' down
 From all this pain you've put me through
 Everytime I close my eyes (woo)
-I lock it down, ohh-hooo
+I lock it down, oh-hooo
 I can't go on not lovin' you
 
 

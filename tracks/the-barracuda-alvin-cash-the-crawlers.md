@@ -69,17 +69,17 @@ Move up, move back
 
 Now you've tried it, baby
 Now you've learned
-The Barracuda, ooh wee
+The Barracuda, ohwee
 
-Ooh wee, ooh wee
+Oh wee, ohwee
 (Have mercy, baby)
-Ooh wee
+Oh wee
 (Oh, but you're looking good)
-Ooh wee
+Oh wee
 (Oh, come on, baby)
 
-Ooh, ah ah, ooh, ah ah
-Ooh ah, ooh ah, ooh ah
+Oh, ah ah, oh ah ah
+Oh ah, ohah, oh
 
 B-a-r-r-a-c-u-d-a
 

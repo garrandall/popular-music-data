@@ -72,7 +72,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-12-03'
 ---
-Baby, ooh, baby
+Baby, oh baby
 I love to call you baby
 Baby, oh oh, baby
 I love for you to call me baby
@@ -84,7 +84,7 @@ And I won't stop calling you
 
 Baby, oh baby
 You look so good to me baby
-Baby, ooh baby
+Baby, ohbaby
 You are so good to me baby
 
 Just one look in your eye
@@ -100,9 +100,9 @@ You go out to light my hind
 Then I get real close to you
 And your sweet kisses see me through
 
-I said, baby, ooh baby
+I said, baby, ohbaby
 You look so good to me baby
-Baby, ooh baby
+Baby, ohbaby
 How I love for you to call me baby
 
 When you squeeze me real tight

@@ -122,29 +122,29 @@ rankings:
 ---
 
 Everybody put your hands together
-Whooo, mmmm, yeah
+Whooo, mmm, yeah
 Girl I love you so
 112, listen
 
 Girl if I told you I love you
-That doesn't mean that I don't care, oooh
-And when I tell you I need you 
-Don't you think that I'll never be there, ooooh
+That doesn't mean that I don't care, oh
+And when I tell you I need you
+Don't you think that I'll never be there, oh
 
- - Baby I'm so tired of the way you turn my words into 
+ - Baby I'm so tired of the way you turn my words into
 Deception and lies
 Don't misunderstand me when I try to speak my mind
 I'm only saying what's in my heart
 
  - Cupid doesn't lie
 But you won't know unless you give it a try
-Oh baby, true love 
+Oh baby, true love
 won't lie but we won't know unless we give it a try
 give it a try
 
 Girl when I ask you to trust me
 That doesn't mean that I'm gonna cheat on you
-Cuz I'm gonna never do anything to hurt you 
+Cuz I'm gonna never do anything to hurt you
 Or mislead you, I love you
 
 
@@ -152,15 +152,9 @@ Or mislead you, I love you
 
 Ain't no doubt about it
 Lord no, I really mean it
-I rather die before, before I lie to you 
+I rather die before, before I lie to you
 Never wanna leave ya
 Ain't no life without you
 Never gonna leave, never gonna go, no
-No, no, no, no, no, no, no, ohhhh
-
-
-
-
-
-
+No, no, no, no, no, no, no, oh
 

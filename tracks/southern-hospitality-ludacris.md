@@ -110,7 +110,7 @@ And if they like to juggle, get long john's - balls
 
 
 All my players in the house that can buy the bar
-And the ballin-ass niggaz wit the candy cars
+And the ballin-ass niggas wit the candy cars
 If you a pimp and you know you don't love them hoes
 When you get on the flo' - nigga throw dem 'bows
 All my women in the house if you chasin cash
@@ -126,7 +126,7 @@ Dirty South guls gimme Dirty South head
 Hand me down flip-flops, hand me down socks
 Hand me down drug dealers hand me down rocks
 Hand me down a 50 pack Swisher Sweets box
-And goodfella rich niggaz hand me down stocks
+And goodfella rich niggas hand me down stocks
 Mouth full of platinum, mouth full of gold
 Forty glock cal' keep your mouth on hold
 Lie through your teeth you could find your mouth - cold
@@ -151,7 +151,7 @@ Overall country, overall jeans
 Overall Georgia, we overall clean
 "Southern Hospitality" or overall mean
 Overall triple, overall beams
-Thugged out niggaz wear thugged out - chains
+Thugged out niggas wear thugged out - chains
 Thugged out blocks playin thugged out - games
 All black tinted up thugged out - Range
 DTP stay doing thugged out - thangs

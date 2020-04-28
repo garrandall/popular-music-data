@@ -220,7 +220,7 @@ rankings:
 Spent 24 hours
 I need more hours with you
 You spent the weekend
-Getting even, ooh ooh
+Getting even, oh oh
 We spent the late nights
 Making things right, between us
 But now it's all good baby
@@ -243,7 +243,7 @@ I need a girl like you, yeah yeah
 I spent last night
 On the last flight to you
 Took a whole day up
-Trying to get way up, ooh ooh
+Trying to get way up, oh oh
 We spent the daylight
 Trying to make things right between us
 And now it's all good baby

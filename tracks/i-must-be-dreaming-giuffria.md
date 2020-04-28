@@ -59,7 +59,7 @@ Am I the one, to never ever feel your love
 Slowly I'm learning, why my heart is burning
 
 Through the dark nights, how we loved, I can't live without you
-I want to look and feel your touch, ooh
+I want to look and feel your touch, oh
 
 I must be dreaming, I must be dreaming, I must be dreaming
 
@@ -68,7 +68,7 @@ Come a little bit closer, I'd never ever hurt you
 Slowly I'm learning, why my heart is burning
 
 Through the dark night, how we loved, I can't live without you
-I want to look and feel your touch, ooh
+I want to look and feel your touch, oh
 
 I must be dreaming, I must be dreaming, I must be dreaming
 

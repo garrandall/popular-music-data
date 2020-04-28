@@ -87,7 +87,7 @@ An' I know you're coming back
 You turned me on
 Since the first time I set eyes on you
 You turned me on
-Ooh the things you want me to do
+Oh the things you want me to do
 Don't get me wrong
 'Cos you're not the only girl I've ever had
 But since you've been gone

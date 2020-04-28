@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: giving-up-gladys-knight-and-the-pips
+lyrics_url: https://genius.com/Gladys-knight-and-the-pips-giving-up-lyrics
 name: Giving Up
 rankings:
 - end_date: '1964-05-15'
@@ -47,4 +48,35 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
 ---
-
+Givin up is hard to do
+When you really love someone
+Givin up is hard to do
+When you still depend upon
+His warm and tender touch
+His kiss and his caress
+That used to mean so much
+And bring you happiness
+(Givin up) Oh, Lord, is hard to do
+I try, but its just no use
+(Givin up) Whoa, Lord, its hard to do
+I tried, but I kept recluse
+The light of hope burns dim
+But in my heart I pray
+My love, my love, my love and faith in him
+Will bring him back someday
+(Givin up)
+But its just no use
+(Givin up)
+No, I can't break loose
+Whether he knows or not
+He really needs me too
+Oh, Lord,1 oh, Lord, oh, Lord, hes all Ive got
+And giving up
+Is so hard to do (Givin up)
+Oh, yes, it is (Givin up)
+Is so hard to do (Givin up)
+Oh, yes, it is (Givin up)
+I just can't break loose (Givin up)
+No, no, no (Givin up)
+I just can't break loose (Givin up)
+No, no, no, no (Givin up), hey, hey, hey

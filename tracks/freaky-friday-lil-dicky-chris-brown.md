@@ -91,7 +91,7 @@ rankings:
 ---
 
 
-Lil Dicky, ooh
+Lil Dicky, oh
 Mustard on the beat, ho
 
 I woke up Chris Breezy, oh my god I'm the man (oh shit)

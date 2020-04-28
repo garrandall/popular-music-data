@@ -91,11 +91,11 @@ rankings:
 
 
 Junior M.A.F.I.A.
-Niggaz... bitches...
+Niggas... bitches...
 Uhh
 
 
-(Niggaz) Grab your dick if you love hip-hop
+(Niggas) Grab your dick if you love hip-hop
 (Bitches) Rub your titties if you love Big Poppa
 Gotcha, open off the words I say because
  "This type of shit it happens everyday"
@@ -114,7 +114,7 @@ I blow up spots like little sisters
 G'wan grit ya teeth, g'wan bite ya nails to the cuticles
 Like Murray, my killings, be the most beautiful
 Junior M.A.F.I.A. click, thick like Luke dancers
-Niggaz grab your gats, bitches take a glance at
+Niggas grab your gats, bitches take a glance at
 The little one, pullin over in the Land Rover
 Playin Big Willie style with a chaffeur, yaknahmean?
 Stack the green, read all between the lines
@@ -137,26 +137,23 @@ Versace wear, Moschino on my bitches
 She whippin my ride, countin my one's, thinkin I'm richest
 Just the way players play, all day everyday
 I don't know what else to say
-I've been robbin niggaz since Run and them was singin 'Here We Go'
+I've been robbin niggas since Run and them was singin 'Here We Go'
 Snatchin ropes at the Roxie homeboy you didn't know
 My flow, detrimental to your health
 Usually roll for self, I have son ridin shotgun
 My mind's my nine, my pen's my Mac-10
-My target, all you wack niggaz who started rappin
-Junior M.A.F.I.A. steelo, niggaz know the half
+My target, all you wack niggas who started rappin
+Junior M.A.F.I.A. steelo, niggas know the half
 Caviar for breakfast, champagne bubble baths
 Runnin up in pretty bitches constantly
 The Smalls bitch, who the fuck it was supposed to be?
 
-
-
-
 I used to pack Macs in Cadillacs
-Now I pimp gats in the Ac's, watch my niggaz backs
+Now I pimp gats in the Ac's, watch my niggas backs
 Nines in the stores, glocks in the bags
 Maxin mini-markets, gettin money with the Arabs
 No question, confession, yes it's the lyrical
-Bitches squeeze your tits, niggaz grab your genitals
+Bitches squeeze your tits, niggas grab your genitals
 Proteins and minerals, excluse subliminals
 Big Momma shoots the game to all you Willies and criminals
 I kick the rilli with my peeps all day
@@ -165,7 +162,7 @@ D-K-N-Y, oh my, I'm jiggy
 It's all about the Smalls and my fuckin nigga Biggie
 Bitches love the way I bust a rhyme
 Cause they all in line screamin one more time
-Niggaz, grab your dicks if you love hip-hop
+Niggas, grab your dicks if you love hip-hop
 Bitches rub-a-dub in the back of the club, straight up
 
 

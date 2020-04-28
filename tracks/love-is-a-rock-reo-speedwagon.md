@@ -46,7 +46,7 @@ Just trust what you feel inside
 Cause something's telling you to keep on going
 Telling you that your aim is true
 Could be the voice of reason, or just blind devotion
-Whatever it is, it's calling out to you, singing....
+Whatever it is, it's calling out to you, singing...
 
 
 
@@ -58,7 +58,7 @@ And as you're searching for peace in your world
 You may find yourself spinning around, and around, and around
 While the pain you've endured
 Only serves to make you surer
-Of the strength you have found, and then....
+Of the strength you have found, and then...
 
 
 
@@ -72,7 +72,7 @@ In your arms I will turn to dust
 These are feelings like I have never known
 The song of my very soul
 I can no longer silently sing it
-I'm gonna take it to the mountain and let it roll singing.....
+I'm gonna take it to the mountain and let it roll singing...
 
 My love is a rock, an immovable force
 Anywhere that you are, my love is right here

@@ -48,9 +48,6 @@ Beechwood 4-5789
 You can call me up and have a date
 Any old time
 
-
-
-
 Beechwood 4-5789
 You can call me up and have a date
 Any old time

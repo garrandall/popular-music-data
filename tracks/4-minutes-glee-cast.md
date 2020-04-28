@@ -60,7 +60,7 @@ Tick tock tick tock tick tock
 Sometimes I think what I need is a you intervention, yeah
 
 And you know I can tell that you like it
-And that it's good, by the way that you move, ooh, hey
+And that it's good, by the way that you move, oh, hey
 
 The road to hell is paved with good intentions, yeah
 

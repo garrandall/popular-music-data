@@ -33,10 +33,10 @@ Splashin', callin' out her name
 Just gotta see jane
 I left her arms to find my way
 To find a place for me in the world outside
-I wasn't alive, i could not survive
+I wasn't alive, I could not survive
 The frantic pace, the constant chase
 To win the race, turned my heart cold inside
-I gotta find what i left behind
+I gotta find what I left behind
 Red light, green light,
 Speedin' through the dark night,
 Drivin' through the poundin' rain,
@@ -49,19 +49,19 @@ A town of steel that isn't real
 It could not feel what's in the heart of me
 I was so alone in a world of stone
 I missed her arms, that once held me
-That made me see, i was the lonely one
-But now and then i was runnin' scared
-And i could feel the touch of time
+That made me see, I was the lonely one
+But now and then I was runnin' scared
+And I could feel the touch of time
 Turnin' the wheel of life to yesterday
 When love and happiness were mine
 I gotta find that world of jane and me
 Liked it used to be
-Oh, i gotta see jane
-Her love for me i pushed aside
+Oh, I gotta see jane
+Her love for me I pushed aside
 Walked out alone
 To face a world turned cold
-Although i tried i could not survive
+Although I tried I could not survive
 The frantic pace, the constant chase
 To win the race, it's not a part of me
-I've gotta find what i left behind
-Oh, i gotta see jane, i gotta see jane
+I've gotta find what I left behind
+Oh, I gotta see jane, I gotta see jane

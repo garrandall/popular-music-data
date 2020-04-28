@@ -100,7 +100,7 @@ Or read between the lines
 
 
 
-It's a song about a girl, girl, ohh, yeah
+It's a song about a girl, girl, oh, yeah
 It's a song about a girl, girl, oh
 
 It's a song about a girl

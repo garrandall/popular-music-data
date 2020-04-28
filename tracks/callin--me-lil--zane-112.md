@@ -69,7 +69,7 @@ A made nigga way bigger than them other cats you love to see
 (yeah, yeah, yeah, yeah)
 <Can I talk to you for a minute?
 It's like I been doin a lot of interviews
-Just people be callin my name everywhere, "Hey zane!"> 
+Just people be callin my name everywhere, "Hey zane!">
 (so crazy life's so, crazy)
 <cmon>
 
@@ -84,8 +84,8 @@ A rubber band for a wrist band
 Got dough and had to switch plans
 Trouble still don't stop
 The freeway getting chased by some bad bitches
-wanting autographed pictures (oohh)
-They want my name tattooed on them 
+wanting autographed pictures (oh)
+They want my name tattooed on them
 thinkin for a minute hit that ass make a move on them
 Hey!  Hennessey with the chardonnay, mix it
 I put the trees in the ??, twist it (whooaa yeah)
@@ -111,7 +111,7 @@ I did a show in california had to be in Las Vegas the same night
 Me and 112 on the same flight and getting tired
 It aint easy being worldwide (worldwide, worldwide, worldwide)
 I seen murder come with fame in this rap game
-Gotta stay straped if you rap so i pack thangs
+Gotta stay straped if you rap so I pack thangs
 All my dogs pack thangs
 Aand plus we love to ball
 Dont want no problem with you homie I mean none at all (not at all)
@@ -133,21 +133,17 @@ I still got love for y'all ain't got a chance to return your call
 I'm in chicago
 I'm getting paid man bigger figgas everywhere that I go
 I'm still hearing about drama poppin in the hood
-Heard everybody doing good and i like that
+Heard everybody doing good and I like that
 Irv said y'all got the block locked
 He tell me K and big Chris driving drop tops
 Flossing I'm getting letters hard to write back
 Put a fly picture in the mail hope they like that
 Prayin that the fame don't kill us all
-The magazines to the big screens 
+The magazines to the big screens
 He ain't easy as the shit seems
 Throwin up my dueces as a pass by
 Showing love to the southside all the players outside
-And we gon' spend G's tonight 
+And we gon' spend G's tonight
 Hotel's on me shit's free tonight
 C'mon!
-
-
-
-
 

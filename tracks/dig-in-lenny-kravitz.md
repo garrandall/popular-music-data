@@ -92,7 +92,7 @@ rankings:
 It's time to face and come-on in and join the party
 Life has been waiting for you to care
 Don't try to fake it, jump on in and get it started
-There's so much lovin for you to share !
+There's so much lovin for you to share!
 
 There is nowhere to run
 There is no way to hide

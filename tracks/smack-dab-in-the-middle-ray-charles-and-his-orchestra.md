@@ -46,7 +46,7 @@ Then throw me
 (Smack dab in the middle)
 I wanna be
 (Smack dab in the middle)
-Ahh, smack dab in the middle, boys now
+Ah, smack dab in the middle, boys now
 So I can rock and roll to satisfy my soul
 
 
@@ -54,9 +54,6 @@ Ten Cadillacs, a diamond mill
 Ten suits of clothes to dress to kill
 A ten room house, some barbecue
 And fifty chicks not over twenty-two
-
-
-
 
 One hundred beds with chorus girls
 A street that's paved with natural pearls
@@ -68,7 +65,7 @@ Then throw me
 (Smack dab in the middle)
 I wanna be
 (Smack dab in the middle)
-Ahh, now listen boys throw me smack dab in the middle right now
+Ah, now listen boys throw me smack dab in the middle right now
 So Ray can rock and roll to satisfy his soul
 
 That's all right!

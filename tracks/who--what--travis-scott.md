@@ -20,10 +20,10 @@ Heard they talkin' shit 'bout I
 Who, what, when and why? (Who?)
 I'm alive, just took one to revive (Yup)
 Keep that vibe when we show up and collide ('Llide, yeah)
-Me and the guys move just like the F-O-I (Ooh)
+Me and the guys move just like the F-O-I (Oh
 In the Hills, but still keep them ghetto ties (Hills, yeah)
 Was talkin' Frenchy's, but she thinkin' Ocean Prime (Prime, yeah)
-Know she keep an open mouth and open mind (Ahh, yeah)
+Know she keep an open mouth and open mind (Ah, yeah)
 I don't open up her door, she open mine (Swang)
 I need less stress and I need more thighs, yes (Skrrt, skrrt)
 We on the jet quest, mobbin' with the tribe, yes (Skrrt, skrrt)
@@ -53,7 +53,7 @@ I rolled through the light (Skrrt, skrrt)
 Rollin' the dice (Hey)
 Rock all my ice (All ice)
 Poppin' that coochie (Coochie, coochie)
-This down and groovy (Ooh)
+This down and groovy (Oh
 To get down, get groovy (Groovy)
 That bitch brown and choosey (Hey!)
 Shawty (Shawty), in a supersonic (Yo')
@@ -82,8 +82,8 @@ Shoot at, shoot at intruders (Yeah, pew-pew-pew)
 Then shoot your producer (Yeah)
 Then she fuck the gang, get banged
 And fuck on the group, she a groupie (Yeah)
-Love her when she choosin', hmm (Yeah)
-Big bankroll it's soothin', hmm (Yeah)
+Love her when she choosin', hm (Yeah)
+Big bankroll it's soothin', hm (Yeah)
 Pull up with sticks in a Sprinter bus
 I make 'em cuddle up, this not a movie
 

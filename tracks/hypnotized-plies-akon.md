@@ -105,7 +105,7 @@ rankings:
 
 Hey what's happ'nin' homie? This ya lil' whoa Plies man.. I ran across
 a nice lil' baby the other day homie... Lil' mama so bad she had me
-hypnotized cuzz... couldn't even get my eyes off her.. I'mma tell you 
+hypnotized cuzz... couldn't even get my eyes off her.. I'mma tell you
 how it feel to be hypnotized
 
 
@@ -147,10 +147,4 @@ Just stand in front of me and pose, you touch mine I touch yours
 To get her sprung is my goal, first time I seen her I froze
 I had to get her she know, she bucked it then she fold
 'Cause I'm too real and she knows, she want the goon and it shows
-
-
-
-
-
-
 

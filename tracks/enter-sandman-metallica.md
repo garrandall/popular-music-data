@@ -119,9 +119,6 @@ Enter night
 Take my hand
 We're off to never never-land
 
-
-
-
 Now, I lay me down to sleep (Now, I lay me down to sleep)
 Pray the Lord my soul to keep (Pray the Lord my soul to keep)
 And if I die before I wake (If I die before I wake)

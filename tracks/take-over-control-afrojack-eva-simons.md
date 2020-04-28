@@ -146,18 +146,18 @@ Oh oh oh, I want you to take over control
 Plug it in and turn me on
 
 Oh, oh whoa oh
-Oh, oh whoa ooh oh
+Oh, oh whoa oh oh
 Plug it in and turn me on
 
 Oh, oh whoa oh
-Oh, oh whoa ooh oh
+Oh, oh whoa oh oh
 Plug it in and turn me on
 
 Oh, oh whoa oh
-Oh, oh whoa ooh oh
+Oh, oh whoa oh oh
 
 Oh, oh whoa oh
-Oh, oh whoa ooh oh
+Oh, oh whoa oh oh
 Plug it in and turn me on
 (On, on, on, on, on...)
 

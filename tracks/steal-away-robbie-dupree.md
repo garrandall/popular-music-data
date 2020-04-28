@@ -126,7 +126,7 @@ I know it ain't right
 
 Into the night, babe
 Baby, tonight
-Ooh
+Oh
 
 
 I caught you glancing my way

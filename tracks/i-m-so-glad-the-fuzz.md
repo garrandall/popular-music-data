@@ -45,12 +45,12 @@ I'm so glad I found you, boy
 I'm so glad I found someone like you to love me
 I'm so glad I found you, boy
 
-Ooh, ooh, hoo
+Oh oh hoo
 Say you love me so and never let me go
 Come on and hold me in your arms, thrill me with your charms
-Ooh, ooh, baby
-Ooh, ooh, baby
-Ooh, ooh, baby, yeah, yeah
+Oh oh baby
+Oh oh baby
+Oh oh baby, yeah, yeah
 
 Love's so good to me right now
 I never ever felt this way
@@ -60,9 +60,9 @@ Don't ever go, just say you'll stay
 I'm so glad I found someone like you to love me
 I'm so glad I found you, boy
 I'm so glad I found someone like you to love me
-I'm so glad I found you, boy (Ooh, baby, yeah, yeah)
+I'm so glad I found you, boy (Oh baby, yeah, yeah)
 
-I'm so glad I found someone like you to love me (Ooh, ooh, baby)
+I'm so glad I found someone like you to love me (Oh oh baby)
 I'm so glad I found you, boy (Yes, I am now, now, now)
-I'm so glad I found someone like you to love me (Ooh, ooh, baby)
-I'm so glad I found you, boy (Ooh, ooh, baby)
+I'm so glad I found someone like you to love me (Oh oh baby)
+I'm so glad I found you, boy (Oh oh baby)

@@ -20,17 +20,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-11-30'
 ---
-Oooh, oooh
+Oh, oh
 California my way
 I'm movin' on, babe
 Yeah
 
-Oooh, oooh
+Oh, oh
 California my way
 California my way
 Got to move on, yeah
 
-Oooh, oooh
+Oh, oh
 California my way
 California my way
 

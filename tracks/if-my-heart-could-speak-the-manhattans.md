@@ -23,7 +23,7 @@ Say what I want them to
 If my lonely heart could speak
 If my lonely heart could speak
 
-Ahhhh You'd be surprised at
+Ah You'd be surprised at
 What it would say to you
 Yes if my heart could speak
 I would have no problem
@@ -35,7 +35,7 @@ For my heart to know I caused you pain
 
 If my lonely heart could speak
 If my lonely heart could speak
-Ahhhh darling you'd, you'd be surprised
+Ah darling you'd, you'd be surprised
 At what it would say to you
 
 I've tried so hard to find the words
@@ -47,7 +47,7 @@ Yes bashful, speechless and unchanined
 But hearts weren't made that way
 So my lips will have to say
 What I want, what I want you to know
-Ooooh and it's no secret then
+Oh and it's no secret then
 I'll always want you near
 Cause I love you, yes I love you so
 

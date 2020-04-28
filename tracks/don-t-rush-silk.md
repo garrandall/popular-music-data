@@ -23,8 +23,8 @@ rankings:
 
 
 
-Do you like, 
-Do you like, 
+Do you like,
+Do you like,
 Do you like what you see.
 
 
@@ -34,7 +34,7 @@ Do you like what you see.
 
 Don't rush, baby don't rush.(hey hey hey, Oo-eeey)
 Don't rush, baby don't rush.(hey hey hey, Oo-oo-ooeey)
-Don't rush, baby don't rush.(hey hey hey, Ooh-yea-eh oooe)
+Don't rush, baby don't rush.(hey hey hey, Oh-yea-eh oooe)
 Don't rush, baby don't rush.(Do you like what you see)
 
 
@@ -44,18 +44,12 @@ You said you've gotta be to work at eight,
 I'm feelin kinda kinky right now baby,
 I'm tellin you, you might have to be late.
 
-
-
-
-Dont rush, baby dont rush.(Ooh no...)
-(I wanna take my time and do it right) 
+Dont rush, baby don't rush.(Oh no...)
+(I wanna take my time and do it right)
 Don't rush, baby don't rush.(Oohooh yeah baby)
 Don't rush, baby don't rush.(Dont rush me yeah)
-(I wanna take my time and do it right) 
+(I wanna take my time and do it right)
 Don't rush, baby don't rush.
-
-
-
 
 When I'm in my grove I wanna make you move, baby.
 I wanna take my time, and give you good lovin again, Girlfriend.
@@ -70,19 +64,13 @@ How far, we'll go. (Just how far we'll go)
 I'm keepin it strong. (Keepin it stong)
 All night long. (All night long)
 All night long. (All night long)
-All night long. (Oh ooh oooh!]
-Do you like,(Don't rush) 
+All night long. (Oh oh oh!]
+Do you like,(Don't rush)
 Do you like,(Baby don't rush)
 Do you like what you see.
 
 
-Do you like, 
 Do you like,
-Do you like what you see. 
-
-
-
-
-
-
+Do you like,
+Do you like what you see.
 

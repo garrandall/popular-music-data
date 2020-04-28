@@ -132,7 +132,7 @@ Come on, start me up
 Come on, fire me up
 (Heaven in the backseat)
 Come on, start me up
-Ooh, oh, come on
+Oh, oh, come on
 
 You'll be in heaven, heaven in the backseat
 Come on, come on, start me up

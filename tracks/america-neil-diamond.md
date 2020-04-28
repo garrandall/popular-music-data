@@ -106,7 +106,7 @@ Freedom's light burning warm
 
 Everywhere around the world
 They're coming to America
-Ev'ry time that flag's unfurled
+Every time that flag's unfurled
 They're coming to America
 
 Got a dream to take them there
@@ -126,7 +126,7 @@ Sweet land of liberty (today)
 Of thee I sing (today)
 Of thee I sing
 Today, Today, Today
-Today, today, today......
+Today, today, today...
 
 
 

@@ -94,7 +94,7 @@ rankings:
 ---
 
 I need love, love
-ooh, ease my mind
+oh, ease my mind
 And I need to find time
 Someone to call mine;
 
@@ -111,7 +111,7 @@ No matter how long it takes
 How many heartaches must I stand
 Before I find the love to let me live again
 Right now the only thing that keeps me hanging on
-When I feel my strength, ooh, it's almost gone
+When I feel my strength, oh, it's almost gone
 
 I remember mama said
 You can't hurry love
@@ -123,7 +123,7 @@ How much more must I take
 Before loneliness
 Will cause my heart, heart to break?
 
-No, I cant bear to live my life alone
+No, I can't bear to live my life alone
 I grow impatient for a love to call my own
 But when I feel that I, I can't go on
 Well these precious words keep me hanging on
@@ -145,7 +145,7 @@ To talk to me at night
 For some tender arms
 hold me tight
 I keep waiting
-Ooh, till that day
+Oh, till that day
 But it ain't easy (Love don't come easy)
 No, you know it ain't easy
 

@@ -102,7 +102,7 @@ Because I'd still say yes to you again
 My darlin', for you, I'd do it all again
 Yes, I'd still say yes to you again
 Darlin', for you, I'd do it over and over again
-(Say yes, ooh)
+(Say yes, oh)
 
 
 Where does it go, how does it end?
@@ -119,7 +119,7 @@ My darlin', for you, I'd do it all again
 Yes, I'd still say yes to you again
 Darlin', for you, I'd do it over and over again
 (Say yes, over and over)
-(Hey, say yes, say yes, ooh)
+(Hey, say yes, say yes, oh)
 
 
 They say time can heal a broken heart
@@ -134,4 +134,4 @@ Yes, I'd still say yes to you again
 Darlin', for you, I'd do it over and over again
 (Over and over, say yes, say yes, oh, girl, say yes)
 Say yes to you again
-Darlin', for you, I'd do it over and over again (Say yes, ooh)
+Darlin', for you, I'd do it over and over again (Say yes, oh)

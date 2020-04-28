@@ -37,7 +37,7 @@ Will washed away her lipstick on your face
 A little bit of soap
 Will never ever ever ever erase
 The pain in my heart
-And i and i know thru the lonely years
+And I and I know thru the lonely years
 A little bit of soap
 Will nevet washed away my tears
 
@@ -45,7 +45,7 @@ A little bit of soap
 Will washed away her powder on your cheek
 A little bit of soap
 Will never neverever ever begin
-To take away the hurt that i feel
-And i know through the lonely years
+To take away the hurt that I feel
+And I know through the lonely years
 A little bit of soap
 Will never washed away my tears

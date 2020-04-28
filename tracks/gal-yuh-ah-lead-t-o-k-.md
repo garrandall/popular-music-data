@@ -44,20 +44,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-04-17'
 ---
-Yo Yo
-Bay-C: T O K
 Gal you a lead...(HEY)...yes indeed...(HEY)
 There gonna lead...(HEY)...(HEY)...(HEY)
 Gal you a lead...HEY...yes indeed...(HEY)
 There gonna lead...(HEY)...(HEY)...(HEY)
 
-Chorus: Alexx
-(Gal you) Goooooooooooonnnnnnnneeeeeeeeee!!!
-(You a) Leeeeeeeeaaaaaaaaaadddddddd!!!
-(Gal you) Goooooooooooonnnnnnnneeeeeeeeee!!!
-(Gal you a) Leeeeeeeeaaaaaaaaaadddddddd!!!
-
-Verse 1: Bay-see
 On yuh mark get set (Go!) and there off
 First place inna di race
 And leff dem gal deh yah last
@@ -72,13 +63,6 @@ Dem nah go nuh wey so dem quick fi talk
 And it bun dem
 True yuh tekin off like a aircraft
 
-Chorus: Alexx
-(Gal you) Goooooooooooonnnnnnnneeeeeeeeee!!!
-(You a) Leeeeeeeeaaaaaaaaaadddddddd!!!
-(Gal you) Goooooooooooonnnnnnnneeeeeeeeee!!!
-(Gal you a) Leeeeeeeeaaaaaaaaaadddddddd!!!
-
-Verse 2: Craigy T
 So mi go so weh mi juggle
 Then wine gal cau yuh inna yuh prime
 Yuh get a life sentence
@@ -91,15 +75,8 @@ She haffi come behind
 When yuh, fuck up yuh bumpa
 Yuh have di man dem a blind
 But anyman waan yuh dem haffi form a line
-Becau yuh.......
+Becau yuh...
 
-Chorus: Alexx
-(Gal you) Goooooooooooonnnnnnnneeeeeeeeee!!!
-(You a) Leeeeeeeeaaaaaaaaaadddddddd!!!
-(Gal you) Goooooooooooonnnnnnnneeeeeeeeee!!!
-(Gal you a) Leeeeeeeeaaaaaaaaaadddddddd!!!
-
-Verse 3: Flexx
 Di man dem a watch yuh like everyday
 True dem know yuh body good
 And yuh nuh give it away
@@ -112,20 +89,8 @@ Yuh do yuh shoppin a broad
 So all di likkle fassy dem a road dem a talk
 How dem a go stop yuh now, girl
 
-Chorus: Alexx
-(Gal you) Goooooooooooonnnnnnnneeeeeeeeee!!!
-(You a) Leeeeeeeeaaaaaaaaaadddddddd!!!
-(Gal you) Goooooooooooonnnnnnnneeeeeeeeee!!!
-(Gal you a) Leeeeeeeeaaaaaaaaaadddddddd!!!
-
 Bay-see
-Gal you a lead (HEY!!!) yes indeed (HEY!!!)
-There gonna lead (HEY!!! HEY!!! HEY!!!)
-Gal you a lead (HEY!!!) yes indeed (HEY!!!)
-There gonna lead (HEY!!! HEY!!! HEY!!!)
-
-Chorus: Alexx
-(Gal you) Goooooooooooonnnnnnnneeeeeeeeee!!!
-(You a) Leeeeeeeeaaaaaaaaaadddddddd!!!
-(Gal you) Goooooooooooonnnnnnnneeeeeeeeee!!!
-(Gal you a) Leeeeeeeeaaaaaaaaaadddddddd
+Gal you a lead (HEY!) yes indeed (HEY!)
+There gonna lead (HEY! HEY! HEY!)
+Gal you a lead (HEY!) yes indeed (HEY!)
+There gonna lead (HEY! HEY! HEY!)

@@ -114,7 +114,7 @@ Don't be confused, the way is clear
 And if you want it, you got it forever
 This is not a one-night stand, baby, yeah
 So, let the music take your mind
-Ooh, just release and you will find
+Oh, just release and you will find
 
 You gonna fly away, glad you're goin' my way
 I love it when we're cruisin' together
@@ -137,16 +137,16 @@ Cruise with me, baby
 Cruise with me, baby
 
 Cruise
-Ooh, ooh, baby, yeah
+Oh, oh, baby, yeah
 Oh, baby
 Oh, oh, ah, baby
 So good to cruise with you, baby
 So good to cruise with you, baby
-Ooh, yeah, you and me, baby
+Oh, yeah, you and me, baby
 
 Oh, baby, let's cruise
 Let's flow, let's glide
-Ooh, let's open up, and go inside
+Oh, let's open up, and go inside
 And if you want, it you got it forever
 I can just stay there inside you
 And love you, baby, oh...

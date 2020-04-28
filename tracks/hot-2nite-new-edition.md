@@ -88,7 +88,7 @@ Cuz we gonna get hot tonight
 (That's right)
 And if you say
 You don't like it my way
-We can do it your way 
+We can do it your way
 Anyway is OK
 And if you say (you say)
 You don't like it my way (it don't matter)
@@ -104,7 +104,7 @@ But you'd be a fool if you don't want to
 Cuz I guarantee, that if you with me, we're gonna have a good time tonight
 (So get your hands up)
 
- 
+
 Girl give me your number (yeah)
 Forget it, here go my number (here you go)
 Forget it, you don't need my number (i said forget it, you don't)
@@ -128,7 +128,7 @@ Cuz we gonna get hot tonight (so come on over here and let me show you some love
 Girl give me your number (girl I wanna get you real hot tonight)
 Forget it, here go my number (see if I can love you non-stop tonight)
 Forget it, you don't need my number (wanna make you feel like you feel alright)
-Cuz we gonna get hot tonight 
+Cuz we gonna get hot tonight
 
 
 Girl give me your number (give it to me)
@@ -136,9 +136,9 @@ Forget it, here go my number (here you go)
 Forget it, you don't need my number (no you don't)
 Cuz we gonna get hot tonight
 
-Can you say ohhh (ohh) baby (all right) (yeah)
+Can you say oh (oh) baby (all right) (yeah)
 (hey) NE keep it hot for y'all
-Can you say ohhh (ohh) baby (all right) (yeah)
+Can you say oh (oh) baby (all right) (yeah)
 (hey) NE keep it hot for y'all
 
 

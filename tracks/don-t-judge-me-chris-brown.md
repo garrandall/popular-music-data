@@ -148,7 +148,7 @@ So please don't judge me and I won't judge you (No, I won't)
 And if you love me (If you love me), then let it be beautiful, babe
 
 
-Let it be beautifu-u-ul (Oh, ooh)
+Let it be beautifu-u-ul (Oh, oh)
 Let it be beautiful (Let it)
 Let it be, oh
 Let it be beautiful, ayy

@@ -152,8 +152,8 @@ Hold up, hey
 For my niggas who be actin' too bold
 Take a, seat
 Hope you ready for the next episode
-HeyyyeyyyeEYEYyyyEYYYY....
-.... smoke weed everyday!
+HeyyyeyyyeEYEYyyyEYYYY...
+... smoke weed everyday!
 
 
 

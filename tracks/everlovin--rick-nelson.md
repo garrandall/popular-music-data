@@ -59,7 +59,7 @@ Everlovin' if you'll just surrender
 Everlovin' I'll be everlovin' you (wo-wo)
 
 You're my darling you're the one I'm dreaming of
-Mmmm I've gotta make you mine
+Mmm I've gotta make you mine
 Your the only one I ever love-ove-ove-oved
 
 Everlovin' say you'll leave me never

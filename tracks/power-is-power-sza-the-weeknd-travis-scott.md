@@ -55,9 +55,9 @@ Now watch me burn it down
 
 
 Breathe, feel the air that I breathe (Yeah)
-Air that I, air that I breathe (Ooh)
-Who's hotter? Been a monster with a crown (Ooh)
-Soul-swapper, high water, keep your head up, you might drown (Ooh)
+Air that I, air that I breathe (Oh)
+Who's hotter? Been a monster with a crown (Oh)
+Soul-swapper, high water, keep your head up, you might drown (Oh)
 Hit as well, it's way colder, by the day, we count it down
 Been around, just been waitin' up, she gon' come around
 I took a drag, bust it out the gate, smile lil baby, slay
@@ -79,7 +79,7 @@ The fire never goes out (Oh)
 I rise from my scars (Yeah)
 Nothing hurts me now (Nothing hurts me now)
 'Cause power is power ('Cause power is power)
-Now watch me burn it down (Ooh, yeah, yeah)
+Now watch me burn it down (Oh, yeah, yeah)
 Now watch me burn it down
 
 

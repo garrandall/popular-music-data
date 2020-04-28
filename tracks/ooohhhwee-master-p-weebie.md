@@ -62,7 +62,7 @@ I got like twelve bottles of bubbly (oh)
 
 
 I love the way she shake it in the thong - OOOHHHWEE!
-The way she make it twurk and grab the wall - OOOHHHWEE!
+The way she make it twerk and grab the wall - OOOHHHWEE!
 Oh, baby you know whatchu doin - OOOHHHWEE!
 No Limit got the steps bouncin and movin - OOOHHHWEE!
 
@@ -97,7 +97,7 @@ Like you know how I do it so don't act surprised
 For a fact gotchu dancin 'til you hurtin your thighs
 Now won'tcha tune it up and wobble wit it
 Act a fool and wobble wit it
-Won'tcha make it hustle, ooh baby don't pull a muscle
+Won'tcha make it hustle, oh baby don't pull a muscle
 Gotcha workin on the wall 'til you run outta breath
 No Limit like I told ya so y'all give us respect
 Now you could shake it like a dog, break my fuckin balls
@@ -110,7 +110,7 @@ Now won'tcha rock, rock on, rock, rock on, rock, rock on
 Rock, rock on, rock, rock on, rock, rock on, rock, rock on, rock
 Now won'tcha turn around and hustle wit it
 Back it up and hustle wit it, touch the ground  and hustle wit it
-Ooh baby ooh baby
+Oh baby oh baby
 
 
 Mary had a big ol' butt, in them tight ass jeans it showed
@@ -127,11 +127,6 @@ Candice on twaps cause she love the ball
 Thought she had the nizzle on the dresses at the mall
 Buyin, high heels on some leather boots
 And lookin for them ballers wit the crazy loot, WHAT?!
-
-
-
-
-
 
 Where them No Limit boys at?  Throw them 'bows
 Them No Limit girls, get money and what?

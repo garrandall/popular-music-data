@@ -89,7 +89,7 @@ Just flesh and blood—I do not know
 
 From my heart and from my hand
 Why don't people understand
-My intentions, ooh, weird
+My intentions, oh weird
 Weird science!
 
 (Weird science)

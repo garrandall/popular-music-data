@@ -107,11 +107,11 @@ Give it to me now
 
 I wanna, li-li-li-lick you from your head to your toes
 And I wanna, move from the bed down to the, down to the, to the flo'
-Then I wanna, "Ahh ahh," you make it so good I don't wanna leave
+Then I wanna, "Ah ah," you make it so good I don't wanna leave
 But I gotta kn-kn-kn-know, what-what's your fan-ta-ta-sy?
 I wanna, li-li-li-lick you from your head to your toes
 And I wanna, move from the bed down to the, down to the, to the flo'
-Then I wanna, "Ahh ahh," you make it so good I don't wanna leave
+Then I wanna, "Ah ah," you make it so good I don't wanna leave
 But I gotta kn-kn-kn-know, what-what's your fan-ta-ta-sy?
 
 
@@ -141,11 +141,11 @@ Tell your boyfriend not to be mad at me!
 
 I wanna, li-li-li-lick you from your head to your toes
 And I wanna, move from the bed down to the, down to the, to the flo'
-Then I wanna, "Ahh ahh," you make it so good I don't wanna leave
+Then I wanna, "Ah ah," you make it so good I don't wanna leave
 But I gotta kn-kn-kn-know, what-what's your fan-ta-ta-sy?
 I wanna, li-li-li-lick you from your head to your toes
 And I wanna, move from the bed down to the, down to the, to the flo'
-Then I wanna, "Ahh ahh," you make it so good I don't wanna leave
+Then I wanna, "Ah ah," you make it so good I don't wanna leave
 But I gotta kn-kn-kn-know, what-what's your fan-ta-ta-sy?
 
 
@@ -176,11 +176,11 @@ Eating fresh fruits, sweep your woman right off her feet
 
 I wanna, li-li-li-lick you from your head to your toes
 And I wanna, move from the bed down to the, down to the, to the flo'
-Then I wanna, "Ahh ahh," you make it so good I don't wanna leave
+Then I wanna, "Ah ah," you make it so good I don't wanna leave
 But I gotta kn-kn-kn-know, what-what's your fan-ta-ta-sy?
 I wanna, li-li-li-lick you from your head to your toes
 And I wanna, move from the bed down to the, down to the, to the flo'
-Then I wanna, "Ahh ahh," you make it so good I don't wanna leave
+Then I wanna, "Ah ah," you make it so good I don't wanna leave
 But I gotta kn-kn-kn-know, what-what's your fan-ta-ta-sy?
 
 
@@ -211,9 +211,9 @@ School teacher, let me get my brains
 
 I wanna, li-li-li-lick you from your head to your toes
 And I wanna, move from the bed down to the, down to the, to the flo'
-Then I wanna, "Ahh ahh," you make it so good I don't wanna leave
+Then I wanna, "Ah ah," you make it so good I don't wanna leave
 But I gotta kn-kn-kn-know, what-what's your fan-ta-ta-sy?
 I wanna, li-li-li-lick you from your head to your toes
 And I wanna, move from the bed down to the, down to the, to the flo'
-Then I wanna, "Ahh ahh," you make it so good I don't wanna leave
+Then I wanna, "Ah ah," you make it so good I don't wanna leave
 But I gotta kn-kn-kn-know, what-what's your fan-ta-ta-sy?

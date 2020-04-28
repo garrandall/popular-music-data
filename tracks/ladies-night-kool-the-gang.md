@@ -123,9 +123,6 @@ A night that's special everywhere
 From New York, to Hollywood
 It's ladies' night, and girl the feeling's good
 
-
-
-
 Romantic lady, single baby
 Uhmm, sophisticated mama
 Come here you disco lady
@@ -140,9 +137,6 @@ Gonna step out ladies night
 Steppin' out ladies night
 Gonna step out ladies night
 Steppin' out ladies night
-
-
-
 
 On disco lights your name will be seen
 You can fulfill all your dreams

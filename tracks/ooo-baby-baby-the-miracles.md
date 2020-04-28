@@ -3,7 +3,7 @@ artists:
 - The Miracles
 features: []
 genres: []
-key: ooo-baby-baby-the-miracles
+key: oo-baby-baby-the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/ooobabybaby.html
 name: Ooo Baby Baby
 rankings:
@@ -56,23 +56,23 @@ rankings:
 I did you wrong
 My heart went out to play
 And in the game I lost you
-What a price to pay ooh
+What a price to pay oh
 I'm cryin'
 
-Ooh ooh baby baby
+Oh oh baby baby
 
-Ooh ooh baby baby
+Oh oh baby baby
 
 Mistakes, I know I've
 Made a few, but I'm
 Only human, you've made
 Mistakes too I'm cryin'
 
-Ooh ooh baby baby
-Ooh ooh baby baby
+Oh oh baby baby
+Oh oh baby baby
 
-Oooooh baby baby
-Ooh ooh ooh ooh
+Oh baby baby
+Oh oh oh oh
 
 I'm just about at the
 End of my rope
@@ -81,14 +81,14 @@ I can't give up hope
 Because I feel someday
 I'll hold you near
 Whisper I still Love you
-Until that day is here oooooh
+Until that day is here oh
 I'm cryin'
 
-Ooh ooh baby baby
-Ooh ooh baby baby
+Oh oh baby baby
+Oh oh baby baby
 
-Oooooh baby baby
-Ooh ooh ooh ooh
+Oh baby baby
+Oh oh oh oh
 
 
 

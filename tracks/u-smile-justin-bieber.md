@@ -27,7 +27,7 @@ rankings:
 
 Oh
 Yeah
-Mmmm
+Mmm
 
 I'd wait on you forever and a day
 Hand and foot

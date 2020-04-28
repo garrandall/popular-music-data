@@ -127,7 +127,7 @@ Yeah, yeah, I'm so cold like yeah (yeah)
 I'm so dope like yeah (woo)
 We gon' blow like yeah (straight up, uh)
 
-Ooh-ooh-ooh-ooh-ooh, tell somebody
+Oh-oh-oh-oh-oh, tell somebody
 You go tell somebody
 Grandma told me
 Get your money, Black man (get your money)
@@ -154,15 +154,15 @@ Watch me move (blaow)
 This a celly (ha)
 That's a tool (yeah)
 On my Kodak (woo, Black)
-Ooh, know that (yeah, know that, hold on)
+Oh, know that (yeah, know that, hold on)
 Get it (get it, get it)
-Ooh, work it (21)
+Oh, work it (21)
 Hunnid bands, hunnid bands, hunnid bands (hunnid bands)
 Contraband, contraband, contraband (contraband)
 I got the plug en Oaxaca (woah)
 They gonna find you that blocka (blaow)
 
-Ooh-ooh-ooh-ooh-ooh, tell somebody
+Oh-oh-oh-oh-oh, tell somebody
 America, I just checked my following list and
 You go tell somebody
 You mothafuckas owe me
@@ -173,7 +173,7 @@ Get your money, Black man (get your, Black man)
 Get your money, Black man (get your, Black man)
 Black man
 One, two, get down
-Ooh-ooh-ooh-ooh-ooh, tell somebody
+Oh-oh-oh-oh-oh, tell somebody
 You go tell somebody
 Grandma told me, "Get your money"
 Get your money, Black man (Black man)

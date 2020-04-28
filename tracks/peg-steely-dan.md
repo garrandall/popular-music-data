@@ -132,7 +132,3 @@ Then the shutter falls
 You see all in 3D
 It's your favorite foreign movie
 
-
-
-
-

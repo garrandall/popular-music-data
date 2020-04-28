@@ -100,7 +100,7 @@ Listen, interplanetary, oh, extraordinary love
 Interplanetary - I like it - extraordinary
 Now when you love me - supernatural - oh babe - supernatural
 
-Listen, interplanetary, oh extraordinary, ooh
+Listen, interplanetary, oh extraordinary, oh
 Interplanetary - I like it - extraordinary
 Surely I like it - supernatural - baby - supernatural
 One more time, doo doo doo...

@@ -61,7 +61,7 @@ You gotta sock 'em out
 
 Put that mic in my hand
 And let me kick out the jam
-Yes ! Kick out the jams
+Yes! Kick out the jams
 I want to kick 'em out
 
 

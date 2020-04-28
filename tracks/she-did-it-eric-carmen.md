@@ -76,7 +76,7 @@ rankings:
 I set to sea on a ship called Emptiness
 Cast away on the Island of Loneliness
 Looking for love
-Ooh, and I was looking for love
+Oh, and I was looking for love
 
 You know I, I didn't think she could hear my S.O.S.
 But she appeared like an angel of tenderness
@@ -85,13 +85,13 @@ Oh, she was bringing me love
 
 Oh, mama, she did it
 Woh mama, she did it, yeah
-Ooh, she did it
+Oh, she did it
 Woh mama, she did it, yeah
 
 Looking back, making love was meaningless
-Till she touched me with her warmth and a gentleness 
+Till she touched me with her warmth and a gentleness
 I'd never known
-Ooh, and she was guiding me home
+Oh, and she was guiding me home
 
 Now I, now I see all the things in life I missed
 Till she opened up my eyes to the limitless
@@ -100,7 +100,7 @@ Oh, and now I'm ready for love
 
 Oh, mama, she did it
 Woh mama, she did it, yeah
-Ooh, she did it
+Oh, she did it
 Mama, she did it, yeah
 
 I never knew what love was about
@@ -113,12 +113,12 @@ Oh, mama, she
 Oh, mama, she
 Oh, she did it
 Woh mama, she did it, yeah
-Ooh, she did it
+Oh, she did it
 Woh mama, she did it, yeah
 
 Oh, she did it
 Woh mama, she did it, yeah
-Ooh, she did it
+Oh, she did it
 Woh mama, she did it, yeah
 
 

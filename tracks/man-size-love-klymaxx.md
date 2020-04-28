@@ -111,7 +111,7 @@ Boy you'll never let it go
 
 I want a man size love
 Passion and control of my tenderness
-Baby wont you hold me
+Baby won't you hold me
 Show me, can you show me
 What a man size love is
 
@@ -132,7 +132,7 @@ Before it gets to late
 
 I want a man size love
 Passion and control of my tenderness
-Baby wont you hold me
+Baby won't you hold me
 Sugar can you show me
 What a man size love is
 
@@ -145,7 +145,7 @@ Give me a man size love
 
 Man size man
 Passion and control of my tenderness
-Baby wont you hold me
+Baby won't you hold me
 Sugar you can show me
 What a man size love is
 

@@ -47,7 +47,7 @@ Drink a little moonshine.
 Brother Taylor brought his Bible, yeah,
 Come on, gonna have a Church Street soul revival,
 Church Street soul revival.
-Gonna sing, gonna pray to the Lord,	
+Gonna sing, gonna pray to the Lord,
 Ain't no doubt about it.
 Have a Church Street soul revival,
 Gonna laugh, gonna sing, gonna shout,
@@ -58,9 +58,6 @@ Everybody come on,
 Sit yourself right down.
 Brother Taylor brought his Bible, yeah,
 Come on, gonna have a Church Street soul revival,
-Church Street soul revival. 
+Church Street soul revival.
 Gonna have a Church Street soul revival.
-
-
-
 

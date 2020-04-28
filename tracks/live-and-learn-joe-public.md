@@ -124,11 +124,6 @@ You raise a little kid, he turns out bold
 It may be from the way you treat him cold
 I guess that's how the story's told (Tell 'em what it is)
 
-
-
-
-
-
 You've got to live and learn
 (I don't wanna be the one)
 You've got to live and learn

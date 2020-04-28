@@ -83,7 +83,7 @@ Yeah, you got soul
 (You got soul)
 Yeah, you got soul
 (You got soul)
-Ohhh ohh, you got soul
+Ohhh oh, you got soul
 (You got soul)
 Yeah yeah, I can tell by the way you walk
 (You got soul)

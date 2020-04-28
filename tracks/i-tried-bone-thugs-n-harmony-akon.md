@@ -109,7 +109,7 @@ starting to see thats it's me where the complications at, but I'm laying back pr
 you can't have piece of mind of me, I thought I was right but really I'm wrong, in the end
 I was to blind to see, I was in the fast lane chasin' my dream, and then it seem when the
 fame and cash came they just got me going crazy lately, lately, lately I been so faded
-trying to erase it but I cant cause the drama just goes greater and I been in so many
+trying to erase it but I can't cause the drama just goes greater and I been in so many
 collisions from putting shit up till later
 
 

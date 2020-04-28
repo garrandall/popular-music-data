@@ -21,7 +21,7 @@ I always get wrapped up in you, baby, I'm in love
 We gon' get this love, yeah, like we never done it
 Baby, I'm in love
 Go 'head, show me love, like we never done it
-Ooh, I got you runnin' every time I give you some
+Oh, I got you runnin' every time I give you some
 Show me love, love
 Show me love, love
 
@@ -44,7 +44,7 @@ I always get wrapped up in you, baby, I'm in love
 We gon' get this love, yeah, like we never done it
 Baby, I'm in love
 Go 'head, show me love, like we never done it
-Ooh, I got you runnin' every time I give you some
+Oh, I got you runnin' every time I give you some
 Show me love, love, love, love, love
 Show me love, love, love, love, love
 

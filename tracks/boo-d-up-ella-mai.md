@@ -159,9 +159,9 @@ When I'm with you, I can't breathe
 Boy, you do something to me
 
 
-Ooh, no, I'll never get over you until I find something new
+Oh no, I'll never get over you until I find something new
 That get me high like you do, yeah, yeah
-Ooh, no, I'll never get over you until I find something new
+Oh no, I'll never get over you until I find something new
 That get me high like you do
 
 
@@ -182,9 +182,9 @@ You know how I like it
 Ain't gotta tell you what to do, yeah, yeah
 
 
-Ooh, no, I'll never get over you until I find something new
+Oh no, I'll never get over you until I find something new
 That get me high like you do, yeah, yeah
-Ooh, no, I'll never get over you until I find something new
+Oh no, I'll never get over you until I find something new
 That get me high like you do
 
 
@@ -210,13 +210,13 @@ Boo'd up, boo'd up
 Grab me by the waist, baby, pull me closer, yeah
 
 
-Ooh, no, I'll never get over you until I find something new
+Oh no, I'll never get over you until I find something new
 That get me high like you do, yeah, yeah
-Ooh, no, I'll never get over you until I find something new (Yeah, baby)
+Oh no, I'll never get over you until I find something new (Yeah, baby)
 That get me high like you do
 
 
-Listen to my heart go ba-do, boo'd up (Ooh, boo'd)
+Listen to my heart go ba-do, boo'd up (Oh boo'd)
 Biddy-da-do, boo'd up
 Hear my heart go ba-do, boo'd up (Ba-do, boo'd up)
 Biddy-da-do, it just won't stop, it go

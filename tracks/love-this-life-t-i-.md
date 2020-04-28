@@ -46,9 +46,6 @@ Sense in leaving me and be back fucking with them busters?
 Bentley for your birthday, Goyard purse day
 Filled with them stacks you know you gotta love that
 
-
-
-
 Man of respect, on a big jet
 With a big dick and a big check
 I pop big shit I'm good as it gets
@@ -65,9 +62,6 @@ And don't go wasting your time with what they saying online
 Your position's divine, don't believe? Look around
 I got a strong mind and a kind heart
 With a soft kiss, but I love hard
-
-
-
 
 Don't you love this life like I love you?
 Anything you could ask, do it for you

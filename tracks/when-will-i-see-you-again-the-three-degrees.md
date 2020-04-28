@@ -117,10 +117,10 @@ Tell me, yeah
 (When will I see you again?)
 My sweet lover, yeah
 (When will I see you again?)
-Ooh yeah
+Oh yeah
 (When will I see you again?)
 Come on, come on
 (When will I see you again?)
 (When will I see you again?)
-Ooh yeah
+Oh yeah
 (When will I see you again?)

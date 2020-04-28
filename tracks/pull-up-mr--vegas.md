@@ -42,7 +42,7 @@ Prada deh yah pon yuh feet when yuh walk out
 Cau this a year yeah we a go whyle out
 I'm glad my posse a go fall out
 Go back in a di whole from weh yuh crawl out
-Alright how bout you tek a timeout, RA!!!!
+Alright how bout you tek a timeout, RA!
 
 
 So mi circle di block inna mi drop top
@@ -72,7 +72,7 @@ Get crazy get wild, get drunk, get high
 Touch di sky, touch di sky
 Get nasty we're gonna party
 Watch di gal dem a shake dem body
-Di whole place on a frenzy, HA!!!!
+Di whole place on a frenzy, HA!
 
 
 So mi circle di block inna mi drop top
@@ -107,7 +107,7 @@ Prada deh yah pon yuh feet when yuh walk out
 Cau this a year yeah we a go whyle out
 I'm glad my posse a go fall out
 Go back in a di whole from weh yuh crawl out
-Alright how bout you tek a timeout, RA!!!!
+Alright how bout you tek a timeout, RA!
 
 
 So mi circle di block inna mi drop top

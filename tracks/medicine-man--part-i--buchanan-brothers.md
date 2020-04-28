@@ -77,7 +77,6 @@ I've got the potion, perpetual motion
 I've got the potion, perpetual motion
 Right here in my hand
 
-(repeat chorus)
 Hold on, hold on, hold on, hold on
 Hold tight now, don't let go
 Hold on, hold on, hold on, hold on
@@ -86,5 +85,3 @@ I've got the potion, perpetual motion
 I've got the potion, perpetual motion
 I've got the potion, perpetual motion
 Put your faith in me, yeah
-
-(repeat chorus)

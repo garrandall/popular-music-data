@@ -162,7 +162,3 @@ I wish it was me sweetheart
 Boy I wish it was me
 But I guess I'll never be...
 
-
-
-
-

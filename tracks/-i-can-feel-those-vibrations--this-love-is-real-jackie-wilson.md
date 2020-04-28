@@ -85,11 +85,11 @@ What my friends say about you
 'Cause we got love
 And I'm so glad I found you
 Listen
-And ohhh what you feel inside
+And oh what you feel inside
 Oh, that just cannot be denied
 'Cause deep in our heart it's real
 This love is real
 Oh lord, this love is real
 This is the real thing
 This love is real
-Ooohh, this love is real
+Oh, this love is real

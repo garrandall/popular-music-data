@@ -98,7 +98,7 @@ I don't use my hands, I let the blood talk, huh
 I can make any nigga hit the Crip Walk
 Crip Walk, I'ma let my hip talk
 Put a 40 with the dicky, gotta kill up y'all
-Click, ooh-ooh-ooh-ooh-ooh
+Click, ohoohhoh-ohoh
 And the clip is see-ee-ee through
 
 What all do you want from me?

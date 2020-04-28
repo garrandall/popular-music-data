@@ -74,14 +74,14 @@ My knees started shaking, my wrist started aching
 When my doctor said to me:
 
 
-Ooh my my, oh my my, can you boogie, can you slide?
+Ohmy my, oh my my, can you boogie, can you slide?
 Oh my my, oh my my, you can boogie if you try
 Oh my my, oh my my, it's guaranteed to keep you alive
 
 
 The head nurse she blew in, just like a tornado
-When they started dancing, i jumped off the table
-I felt myself healing and as i was leaving
+When they started dancing, I jumped off the table
+I felt myself healing and as I was leaving
 This is what they said to me:
 
 
@@ -91,9 +91,6 @@ Now if you should slow down and you're feeling low down
 Don't call up your doctor, just grab you a partner
 It's what you've been missing, I've got your prescription
 That boogie woogie remedy
-
-
-
 
 "oh my my, oh my my, watch me boogie, watch me slide
 Oh my my, (ow!) Oh my my, born to boogie, born to slide. (can you boogie?)

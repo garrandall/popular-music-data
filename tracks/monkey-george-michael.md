@@ -78,20 +78,20 @@ Why can't you set your monkey free?
 Always giving in to it -
 Do you love the monkey or do you love me?
 Why can't you do it
-Why do i have to share my baby with a monkey?
+Why do I have to share my baby with a monkey?
 
-Oh i count to ten
-But i don't know how and i don't know when
+Oh I count to ten
+But I don't know how and I don't know when
 To open my eyes
 If you kiss me again
 Like you did just now, like you did just then -
 I've had the rest
-Now it's time i had the best
+Now it's time I had the best
 So you tell me that you won't do anymore
 
 Well i'd write your heart a letter
-But i think you know me better
-If i keep on askin' baby, maybe
+But I think you know me better
+If I keep on askin' baby, maybe
 I'll get what i'm askin' for
 
 Why can't you do it?
@@ -99,16 +99,16 @@ Why can't you set your monkey free?
 Always giving in to it -
 Do you love the monkey or do you love me?
 Why can't you do it
-Why do i have to share my baby with a monkey?
+Why do I have to share my baby with a monkey?
 
-Oh i hate your friends
-But i don't know how and i don't know when
+Oh I hate your friends
+But I don't know how and I don't know when
 To open your eyes
 Yes the monkey's back again
 Do you want him now like you did back then?
 I tried my best
 But your head is such a mess
-So i guess that i don't want you anymore
+So I guess that I don't want you anymore
 
 Well you say you care about me
 That you just can't do without me
@@ -120,7 +120,7 @@ Why can't you set your monkey free?
 Always giving in to it -
 Do you love the monkey or do you love me?
 Why can't you do it
-Why do i have to share my baby with a monkey?
+Why do I have to share my baby with a monkey?
 
 Don't look now
 There's a monkey on your back

@@ -79,7 +79,7 @@ rankings:
 
 Yeah...I like it when the girls stop by.. In the summer
 Do you remember, Do you remember?
-...when we met..That summer??
+...when we met...That summer??
 
 
 New Kids On The block,had a bunch of hits
@@ -157,9 +157,6 @@ but I'm really not sure
 When I met you I said my name was Rich
 You look like a girl from Abercrombie and Fitch
 
-
-
-
 In the summer girls come and summer girls go
 Some are worth while and some are so so,
 Summer girls come and summer girls go
@@ -168,8 +165,4 @@ Summertime girls got it going on
 Shake and wiggle to a hip hop song
 Summertime girls are the kind I like
 I'll steal your honey like I stole your bike
-
-
-
-
 

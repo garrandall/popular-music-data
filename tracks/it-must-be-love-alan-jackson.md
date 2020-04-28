@@ -118,7 +118,3 @@ I fall like a sparrow and fly like a dove.
 You must be the dream I been dreaming of
 Oh what a feeling, it must be love.
 
-
-
-
-

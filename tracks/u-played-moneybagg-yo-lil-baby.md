@@ -44,7 +44,7 @@ Can't believe you tried it, bitch, you played
 Wanted a diamond choker, soon as her time was over, bitch, you played
 She wanna ride the Rover, told her her Uber was closer, bitch, you crazy
 She tried to show out in public, I cut the bitch off like it's nothin', bitch, you played
-She must've thought I was stupid, I knew she was fuckin' my cousin (Ooh)
+She must've thought I was stupid, I knew she was fuckin' my cousin (Oh)
 
 
 I don't got a cold, I'm sipping on Hi-Tech

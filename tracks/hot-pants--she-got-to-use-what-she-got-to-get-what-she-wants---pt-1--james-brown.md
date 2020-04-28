@@ -83,10 +83,10 @@ The girl over there with the hot pants on
 Filthy macnasty all night long
 Get down hu! The one over there
 With the mini dress ha!
-I ain't got time- i still dig that mess
-Get down! But i like the hot pants
+I ain't got time- I still dig that mess
+Get down! But I like the hot pants
 Hey! I like a hot pants
-Ooooh! Bring it home!
+Oh! Bring it home!
 One more! Hit me! Aaay!
 Bring it home! Bring it home!
 Oh uh! Bring it on home

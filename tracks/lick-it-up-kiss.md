@@ -62,10 +62,10 @@ There isn't a reason on earth to waste it
 It isn't a crime to be good to yourself
 
 
-Lick it up, lick it up, oh-oh-ohh (It's only right now)
-Lick it up, lick it up, oh-oh-ohh (Woo yeah)
-Lick it up, lick it up, oh-oh-ohh (Come on, come on)
-Lick it up, lick it up, oh-oh-ohh (Uh)
+Lick it up, lick it up, oh-oh-oh (It's only right now)
+Lick it up, lick it up, oh-oh-oh (Woo yeah)
+Lick it up, lick it up, oh-oh-oh (Come on, come on)
+Lick it up, lick it up, oh-oh-oh (Uh)
 
 
 Don't need to wait for an invitation
@@ -76,20 +76,20 @@ It's all you need, so believe me honey
 It ain't a crime to be good to yourself
 
 
-Lick it up, lick it up, oh-oh-ohh (It's only right now)
-Lick it up, lick it up, oh-oh-ohh (Woo yeah)
-Lick it up, lick it up, oh-oh-ohh (Come on, come on)
-Lick it up, lick it up, oh-oh-ohh (Come on)
+Lick it up, lick it up, oh-oh-oh (It's only right now)
+Lick it up, lick it up, oh-oh-oh (Woo yeah)
+Lick it up, lick it up, oh-oh-oh (Come on, come on)
+Lick it up, lick it up, oh-oh-oh (Come on)
 
 
 It's only right now (it's only right now)
-Ooh yeah (ooh yeah) ooh yeah (ooh yeah), yeah yeah
+Ohyeah (ohyeah) ooheah (ohohah), yeah yeah
 
-Oooooooohhhhhh, wooo!
+Oh, wooo!
 
 
-Lick it up, lick it up, oh-oh-ohh (It's only right now)
-Lick it up, lick it up, oh-oh-ohh (Woo yeah)
-Lick it up, lick it up, oh-oh-ohh (Come on, come on)
-Lick it up, lick it up, oh-oh-ohh (Aww)
-Lick it up, lick it up, oh-oh-ohh (Yeah, yeah, yeah, yeah)
+Lick it up, lick it up, oh-oh-oh (It's only right now)
+Lick it up, lick it up, oh-oh-oh (Woo yeah)
+Lick it up, lick it up, oh-oh-oh (Come on, come on)
+Lick it up, lick it up, oh-oh-oh (Aww)
+Lick it up, lick it up, oh-oh-oh (Yeah, yeah, yeah, yeah)

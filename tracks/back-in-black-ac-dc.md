@@ -115,7 +115,7 @@ Take my love
 Yeah, yeah
 Yeah
 Ah, hey yeah
-Ooh, yeah
+Oh, yeah
 
 Well, I'm back (I'm back)
 Back, well I'm (I'm back)

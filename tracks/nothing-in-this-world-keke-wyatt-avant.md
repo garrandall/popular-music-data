@@ -89,7 +89,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-05-18'
 ---
-Ooh, yeah, oooh, yeah, yeah
+Oh, yeah, oh, yeah, yeah
 
 
 I can picture us in the living room

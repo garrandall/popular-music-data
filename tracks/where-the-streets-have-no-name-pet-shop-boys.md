@@ -41,7 +41,7 @@ rankings:
 (burning down love)
 (burning down love)
 
-I want to run, i want to hide
+I want to run, I want to hide
 I want to break down the walls that hold me inside
 I want to reach out, and touch the flame
 Where the streets have no name
@@ -57,7 +57,7 @@ Where the streets have no name
 Where the streets have no name
 We're still building, then burning down love
 Burning down love
-And when i go there
+And when I go there
 I go there with you
 Where the streets have no name
 Can't take my eyes off of you
@@ -77,12 +77,12 @@ Where the streets have no name
 Where the streets have no name
 We're still building, then burning down love
 Burning down love
-And when i go there
-It's all i can do
+And when I go there
+It's all I can do
 Where the streets have no name
 I can't take my eyes off of you
 
-(ooh aah)
+(ohaah)
 Love you, baby, let me love you
 Where the streets have no name
 Where the streets have no name

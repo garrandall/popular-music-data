@@ -55,7 +55,7 @@ You gotta believe me - it's not a romance
 Don't turn the light out, I'm starting to see
 Don't turn the light out, you're getting to me
 Don't turn the light out, we're burning so bright
-Don't turn the light out..... Don't turn out the light
+Don't turn the light out... Don't turn out the light
 
 You gotta see it from my point
 Of view
@@ -65,7 +65,7 @@ I said it was over before she left
 Town
 I can't believe that you're putting me down
 
-Aaahh, It would be easy if you'd lighten up
+Ah, It would be easy if you'd lighten up
 Do it to please me, enough is enough
 All that we've been thru, how can you doubt
 The ups an' the downs are what loving's about
@@ -73,12 +73,12 @@ The ups an' the downs are what loving's about
 Don't turn the light out, I'm starting to see
 Don't turn the light out, you're getting to me
 Don't turn the light out, we're burning so bright
-Don't turn the light out..... Don't turn out the light
+Don't turn the light out... Don't turn out the light
 
 Mmm, don't turn the light out
-Ooohhh, don't turn the light out
+Oh, don't turn the light out
 
 Don't turn the light out, I'm starting to see
 Don't turn the light out, you're getting to me
 Don't turn the light out, we're burning so bright
-Don't turn the light out..... Don't turn out the light
+Don't turn the light out... Don't turn out the light

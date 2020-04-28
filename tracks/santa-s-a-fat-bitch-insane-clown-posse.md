@@ -110,7 +110,7 @@ That fat mother fucker would swing my way
 Drop off soldiers and rubber balls
 But I woke up and found some crusty old drawers
 Just as I knew it shaft again, and again, and again, and again
-Every year I wake up to the same old shit....house
+Every year I wake up to the same old shit...house
 There be no sign of the fat bitch
 
 Santa Claus is a fat bitch

@@ -99,8 +99,8 @@ And I seen her get richer on the pole
 I've seen her, I knew she had to know
 I've seen her take down that tequila
 Down by the liter, I knew I had to meet her
-Ooh, she mine, ooh, girl, bump and grind
-Ooh, she mine, ooh, girl, bump a line
+Oh she mine, oh girl, bump and grind
+Oh she mine, oh girl, bump a line
 Angelina, lips like Angelina
 Like Selena, ass shaped like Selena
 
@@ -126,7 +126,7 @@ I've been poppin', just took three in a row
 I'm down to do it again, I'm on a roll
 I've seen him outside tryna reach her
 You tryna leave him, you said I'm the reason
-Tell me lies, ooh, girl, tell me lies
+Tell me lies, oh girl, tell me lies
 Say you're mine, I'm yours for the night
 I'm the realest, she said I'm the realest
 Head be genius, dick game be the meanest

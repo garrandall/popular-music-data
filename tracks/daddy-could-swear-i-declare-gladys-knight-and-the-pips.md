@@ -69,10 +69,10 @@ rankings:
   start_date: '1973-08-04'
 ---
 Oh, oh, yeah
-Ooh my mercy
+Oh my mercy
 
 
-Ooh, how I remember daddy
+Oh, how I remember daddy
 He was strong and had a built in tan, yeah
 And though he only stood about five feet seven
 My daddy was a heck of a man, yes he was, y'all
@@ -97,7 +97,7 @@ I declare, oh mercy
 
 I still remember seein' him in the backyard
 Just a-pickin' and a-paintin' away (Woo, woo, woo, woo)
-Ooh, my brothers and sisters
+Oh, my brothers and sisters
 Still talk about how
 Daddy lost his temper that day (Woo, woo, woo, woo)
 You see, he built a picket fence
@@ -109,8 +109,8 @@ And the whole darn thing gave way
 You should have been there
 
 
-Daddy couldn't read (Ooh my, mercy)
-Daddy couldn't write (Ooh my, mercy)
+Daddy couldn't read (Oh my, mercy)
+Daddy couldn't write (Oh my, mercy)
 One thing daddy sure could do right
 
 
@@ -124,13 +124,13 @@ Yes, he could, y'all
 
 Tell 'em about
 Tell about your daddy
-My daddy was a 
+My daddy was a
 "What you say? Watch your mouth"
-My daddy was a 
+My daddy was a
 "What you say? Watch your mouth"
-My daddy was a 
+My daddy was a
 "What you say? Watch your mouth
-Ooh, no
+Oh, no
 
 
 My, my, my, my, my daddy wasn't no scholar, no
@@ -152,9 +152,9 @@ But one thing daddy sure could do right
 
 He could swear
 Oh, Lord, I declare
-Ooh y'all, yes he could
+Oh y'all, yes he could
 He could swear (I declare)
-I declare, ooh my mercy
+I declare, oh my mercy
 
 
 Mercy, that's my daddy (I declare, that's my daddy)
@@ -162,7 +162,7 @@ He could swear y'all (He could swear)
 Talkin' 'bout daddy (Talkin' 'bout daddy)
 I declare y'all (I declare)
 That's my daddy (That;s my dad)
-Ooh lord (He could swear)
+Oh lord (He could swear)
 Talking 'bout daddy (Talking bout daddy)
 I declare y'all (I declare)
 That's my daddy (That's my dad)

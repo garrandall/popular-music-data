@@ -103,10 +103,10 @@ There's one thing, baby, I don't understand
 You keep on telling me I ain't your kind of man
 
 
-Ain't I rough enough? Ooh, honey
+Ain't I rough enough? Oh, honey
 Ain't I tough enough?
 Ain't I rich enough? In love enough?
-Ooh, please
+Oh, please
 
 
 I'll never be your beast of burden

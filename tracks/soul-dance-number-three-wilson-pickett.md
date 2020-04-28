@@ -53,6 +53,3 @@ Oh I like that one; now get it, get it, hey! Lord have mercy
 Do the shing-a-ling now, baby; wow ow!
 Get it, get it, get it, lord have mercy, do the shing-a-ling
 
-
-
-

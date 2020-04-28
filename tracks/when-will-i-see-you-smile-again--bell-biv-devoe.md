@@ -61,7 +61,7 @@ See you smile again
 
 Tell me when will I see you smile again
 'Cause I know I messed up, baby (Oh)
-And I know you're fed up (Ooh), sugar (Hey, hey)
+And I know you're fed up (Oh), sugar (Hey, hey)
 
 Tell me when will I see you smile again (Oh, oh, oh)
 'Cause I know I messed up, baby
@@ -108,7 +108,7 @@ Tell me when will I see you smile again
 'Cause I know I messed up, baby
 And I know you're fed up, sugar (Is there something I can do, hey, hey, hey, hey)
 
-Tell me when will I (Oh) see you smile (Ooh) again
+Tell me when will I (Oh) see you smile (Oh) again
 'Cause I know I messed up, baby
 And I know you're fed up, sugar
 

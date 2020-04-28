@@ -131,9 +131,5 @@ And there's nothing in this world
 I wouldn't do
 Baby, just for you
 
-
-
-
-
 Baby, I love you
 I love you

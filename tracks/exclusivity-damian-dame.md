@@ -111,7 +111,7 @@ Never let go
 Can you tell me you'll be with it
 Say, hey yo, hey
 
-Ooh, baby boy
+Oh, baby boy
 I'm the woman you need
 I can give you loving exclusively
 Don't you know

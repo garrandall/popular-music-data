@@ -79,13 +79,13 @@ rankings:
 Man, I know what you used to
 We gon' do something different tonight
 Ohh-uuu
-Ohhh, ohhhh-uuu
+Ohhh, oh-uuu
 
 
 Now we gon' do this thing a little different tonight
 You gon' come over and pick me up in your ride
 You gon' knock, then you gon' wait
-Oooh, you gon' take me on a date
+Oh, you gon' take me on a date
 You're gonna open my door
 And I'ma reach over and open yours
 Gon' pay for dinner, take me to see a movie
@@ -98,7 +98,7 @@ I'm always on the top, tonight, I'm on the bottom
 'Cause we trading places
 When I can't take no more, tell me you ain't stopping
 'Cause we trading places
-Now put it on me, baby, 'til I say, "ooo wee"
+Now put it on me, baby, 'til I say, "oo wee"
 And tell me to shut up before the neighbors hear me
 This is how it feels when you do it like me
 We're trading places
@@ -127,7 +127,7 @@ You get on the top, tonight, I'm on the bottom
 'Cause we trading places
 When I can't take no more, tell me you ain't stopping
 'Cause we trading places
-Now put it on me, baby, 'til I say, "ooo wee"
+Now put it on me, baby, 'til I say, "oo wee"
 And tell me to shut up before the neighbors hear me
 This is how it feels when you do it like me
 We're trading places
@@ -149,12 +149,12 @@ We're trading places
 (Yeah) In the kitchen, going crazy
 (Yeah) we don't give a... whaaat
 Where you want me?
-Ohhh ohhh
-Ohh ohhh
+Ohhh oh
+Ohh oh
 Ohhh babyyy
 Give it to me, babyyy
-Ohhhh ohhhhh
-Ohhhh ohhhhhhh
+Ohhhh oh
+Ohhhh oh
 Ooo-uuuu babyy
 Babyyy yeaaa
 Oooo-uuu

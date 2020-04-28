@@ -92,7 +92,7 @@ If you want it, you got it
 If you want it, baby, you got it
 
 Break it down for me, fellas
-Huh, hey, ya, uh, huh, ooh, hey, ya
+Huh, hey, ya, uh, huh, oh, hey, ya
 Uh, uh, hey, ya, ee, uh, uh, uh, ya
 
 Your best friend Harry has a brother Larry

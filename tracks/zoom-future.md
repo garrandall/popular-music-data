@@ -87,7 +87,7 @@ I ran it up fast (money machine) I ran it up fast (money machine)
 I ran it up fast (money machine) I ran it up fast
 
 
-Hahahahah, ahhh, shit!
+Hahahahah, ah, shit!
 Got it all back, baby
 God damn, welcome to Cap City Records internet podcast, baby
 Where we make dreams come true

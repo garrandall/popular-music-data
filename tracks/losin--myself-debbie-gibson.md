@@ -47,7 +47,7 @@ I'm losin' myself...over you
 
 
 Love like the ocean feel it rushin' over me
-You are the treasure that I've searched for desperately 
+You are the treasure that I've searched for desperately
 The tide it races in, it's pullin' me out to the sea...
 Willingly
 You're my celebration boy, the reason I exist
@@ -56,10 +56,7 @@ Don't say a word just hold me close
 I hear your heart talkin' to me...
 Secretly
 
-
-
-
-And when the darkness came 
+And when the darkness came
 You washed away the pain
 You can do anything when it comes to me
 I won't hold back

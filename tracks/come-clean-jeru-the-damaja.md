@@ -96,7 +96,7 @@ Hard rocks melt in the clutch of the sun toucher
 You claim you got beef on the streets, so what ya
 Gonna do when real niggas roll up on you
 And you don't got your crew
-Pull your Glock, hmm...? But you don't got the heart
+Pull your Glock, hm...? But you don't got the heart
 You was webbed straight from the start
 Bought a tool and didn't learn how to use it
 Got lost in Brooklyn so you had to lose it

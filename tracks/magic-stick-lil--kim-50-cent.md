@@ -118,7 +118,7 @@ I got the magic stick
 
 
 I'm a freak to the core
-Get a dose once, you gon' want some more 
+Get a dose once, you gon' want some more
 My tongue touch ya girl, ya toes bound to curl
 This exclusive shit I don't share with the world
 I have you up early in the mornin, moanin
@@ -151,7 +151,7 @@ Cause my head game have you HEAD over heels
 Give a nigga the chills, have him pay my bills
 Buy matchin Lambo's with the same color wheels...
 .. and I ain't out shoppin spendin dudes C-notes
-I'm in the crib givin niggaz deep throat
+I'm in the crib givin niggas deep throat
 Tonight Lil' Kim gon' have you in the zone
 Girls, call ya crib, I'm answerin' the phone
 Guys wanna wife me 'n' give me the ring
@@ -159,7 +159,7 @@ I'll do it anywhere, anyhow,down for anything
 Couple of humps, give a nigga goosebumps
 This junk in my trunk ain't made for chumps
 When Lil' Kim's around you don't need to lie
-It's the "Drugs" baby, I'm makin' ya HIGH!!
+It's the "Drugs" baby, I'm makin' ya HIGH!
 
 
 

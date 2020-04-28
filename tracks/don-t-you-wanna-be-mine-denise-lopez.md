@@ -44,7 +44,7 @@ Turn around, make your move
 Nothing's wrong, just say you do
 Don't you wanna be mine, Don't you wanna be miine
 
-Yeeah, do it now
+Yeah, do it now
 
 Nothing comes from nothing, I won't give it away
 I'm wonderin' if you love me, because you never say

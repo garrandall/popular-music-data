@@ -15,7 +15,7 @@ rankings:
 Gotta get close to me, gotta let love inside
 Gotta get into my arms
 And listen to the voice of my heart
-Oh Ooh Ooh
+Oh OhOOh
 
 Searchin' my soul, searchin' for somethin'
 To find a way to make you believe, yeah

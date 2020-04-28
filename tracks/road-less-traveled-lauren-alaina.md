@@ -72,7 +72,7 @@ If you trust your rebel heart, ride it into battle
 Don't be afraid, take the road less traveled
 Wear out your boots and kick up the gravel
 Don't be afraid, take the road less traveled on
-Oh, ooh-whoa, oh, ooh-whoa
+Oh, oh-whoa, oh, oh-whoa
 Take the road less traveled on
 
 Don't follow anyone,
@@ -84,15 +84,15 @@ You won't make yourself a name if you follow the rules
 History gets made when you're acting a fool
 So don't hold it back and just run it
 Show what you got and just own it
-No, they can't tear you apart, no 
+No, they can't tear you apart, no
 
 If you trust your rebel heart, ride it into battle
 Don't be afraid, take the road less traveled
 Wear out your boots and kick up the gravel
 Don't be afraid, take the road less traveled on
-Oh, ooh-whoa, oh, ooh-whoa
+Oh, oh-whoa, oh, oh-whoa
 Take the road less traveled on
-Oh, ooh-whoa, oh, ooh-whoa
+Oh, oh-whoa, oh, oh-whoa
 Take the road less traveled on
 
 Put your hands up, show me that you're one of a kind
@@ -108,7 +108,7 @@ If you trust your rebel heart, ride it into battle
 Don't be afraid, take the road less traveled
 Wear out your boots and kick up the gravel
 Don't be afraid, take the road less traveled on
-Oh, ooh-whoa, oh, ooh-whoa
+Oh, oh-whoa, oh, oh-whoa
 Take the road less traveled on
 
 Wear out your boots and kick up the gravel

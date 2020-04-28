@@ -102,7 +102,7 @@ rankings:
 ---
 You think you own whatever land you land on
 The earth is just a dead thing you can claim
-But I know ev'ry rock and tree and creature
+But I know every rock and tree and creature
 Has a life, has a spirit, has a name
 You think the only people who are people
 Are the people who look and think like you

@@ -82,7 +82,7 @@ And when you'd almost bet
 You could hear yourself sweat, he walks in
 Eyes black as coal
 And when he lifts his face
-Ev'ry ear in the place is on him
+Every ear in the place is on him
 Starting soft and slow
 Like a small earthquake
 And when he lets go

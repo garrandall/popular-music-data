@@ -149,8 +149,8 @@ Let's don't wait till the water runs dry
 We'll make the biggest mistake of our lives
 Don't do it baby
 
-No, oooooooooh, oh, oh, oh, oh
-No, oooooooooh, oh, oh, oh, oh
+No, oh, oh, oh
+No, oh, oh, oh
 
 Some people will work things out
 And some just don't know how to change
@@ -161,12 +161,12 @@ Let's don't wait till the water runs dry
 We'll make the biggest mistakes of our lives
 Don't do it baby
 
-No, oooooooooh, oh, oh
-No, oooooooooh, oh, oh
+No, oh
+No, oh
 
 Don't do it baby
-No, oooooooooh, oh, oh, oh, oh
-No, oooooooooh, oh, oh, oh, oh
+No, oh, oh, oh
+No, oh, oh, oh
 
 Don't do it baby
 

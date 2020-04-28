@@ -112,7 +112,7 @@ Aiyyo let me take they ass back to the club real quick
 (Get low Bus!) Who be the King of the Sound? (Uh huh)
 Busta Bus back to just put a lock on a town (Uh huh)
 Lot of my bitches be comin from miles around
-See they be cumin (Uh!) cause they know how the God get down (TURN IT UP!!)
+See they be cumin (Uh!) cause they know how the God get down (TURN IT UP!)
 NOW YOU KNOW WHO HOLDIN THE THRONE SO GIMME THE CROWN (Huh)
 NIGGAS SOLUTIN AND TRYIN TO GIVE ME A POUND (Come on)
 I DON'T REALLY FUCK WITH YOU NIGGAS YOU NIGGAS IS CLOWN
@@ -120,7 +120,7 @@ MAKIN THE BITCHES STRIPPIN THROW THEY SHIT ON THE GROUND
 (Get low Bus!) Now that's the way that it goes (Uh huh)
 When we up in the spot the shit be flooded with hoes (Come on)
 See we a make it hot, the chicks will come out their clothes
-That's when you get it (Huh) mami already know I suppose (TURN IT UP!!)
+That's when you get it (Huh) mami already know I suppose (TURN IT UP!)
 SHORTY WILDIN AND SHORTY OPEN SHE BEASTIN IT OUT
 FOR THE RECORD (Huh) JUST A SECOND I'm FREAKIN IT OUT (Come on)
 WHILE SHE TRYIN TO Touch SEE I WAS PEEPIN IT OUT
@@ -143,7 +143,7 @@ CAN'T GET ENOUGH OF THE KID I PUT HER UNDER MY SPELL
 (Get low Bus!) It's crowded mami move it along (Uh huh)
 If you know you 'bout it then get to removin your thong (Uh huh)
 To the whip in back of the truck that's where you belong
-After the Yac, see the type of raunchy shit they be on (TURN IT UP!!)
+After the Yac, see the type of raunchy shit they be on (TURN IT UP!)
 STREET NIGGAS RESPECT IT BECAUSE MY MOVEMENT IS STRONG (Come on)
 CAUSE WE CONSISTENTLY REPPIN SEE MY MONEY IS LONG
 ALL MY BITCHES IS WITH ME SEE HOW THEY SINGIN THE SONG
@@ -155,7 +155,7 @@ PLUS HOW WE GIVE YOU THE STICK AND WE BE DICKIN ALONG, I LET HER
 (Get low Bus!) The God of the black, see that I'm back (Uh huh)
 Every single time that I drop, the shit is a wrap (Uh huh)
 For the niggas hatin the kid I'm clos to strap
-Cause all these bitches wanna come talk to sit on my lap (TURN IT UP!!)
+Cause all these bitches wanna come talk to sit on my lap (TURN IT UP!)
 EVERYTIME I GIVE YOU BANG SHIT TO KNOCK IN YOUR WHIP
 NIGGA ALWAYS DO HIS THING BITCH LOCKIN THE STRIP (Come on)
 LOT OF MAMI'S IS DANCIN AND THEY SHAKIN THEY HIPS

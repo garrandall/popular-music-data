@@ -33,7 +33,7 @@ Life's created, automated
 Yesterday's invalidated
 Hip mankind on, turn your mind on
 Sit with the guru (guru, guru)
-Meditation, ooh
+Meditation, oh
 High, high where eagles fly
 Leave today untouched in the sky
 Stretch out your mind to humanity
@@ -43,7 +43,7 @@ Good life livin', party givin'
 No one walks who can be driven
 Blunt the starkness, light the darkness
 Sit with the guru (guru, guru)
-Meditation, ooh
+Meditation, oh
 High, high where eagles fly
 Leave today untouched in the sky
 Stretch out your mind to humanity
@@ -54,7 +54,7 @@ Pussy willows, dew-kissed pillows
 Silver cloud puffs up and billows
 Full potential, transcendental
 Sit with the guru (guru, guru)
-Meditation, ooh
+Meditation, oh
 High, high where eagles fly
 Leave today untouched in the sky
 Stretch out your mind to humanity

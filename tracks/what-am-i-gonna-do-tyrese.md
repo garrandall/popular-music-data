@@ -132,9 +132,9 @@ And you've given me so much love
 You're everything I want and need
 You're everything I want and I need
 Girl, you got the best of me
-Ooh, you got the best of me
+Oh, you got the best of me
 Break it down
-Ohh, ohh
+Ohh, oh
 Oh, I was fallin' in love
 
 

@@ -91,7 +91,7 @@ Stand another day
 
 
 I just wanna make you feel okay
-But all you do is look the other way, hmm
+But all you do is look the other way, hm
 I can't tell you how much I wish I didn't wanna stay
 I just kinda wish you were gay
 I just kinda wish you were gay

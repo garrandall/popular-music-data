@@ -75,30 +75,30 @@ rankings:
 Barbwire fence carving out a hillside, cutting holes in the midday sun, like a postcard framed in a windshield covered in dust.
 I love the rythmn of an old gray black top, 33's just whistling bye, steer the wheel one handed on a two lane hugging that line.
 I got the windows down, No one else around
-Singing ohhhh
+Singing oh
 Freedom is the miles I'm rolling on
 
 Ohhhhhh
 Out here cruising to a backroad song
 I feel the wheels like a melody, like a radio dialing in strong, come on come on, sing along sing along to my backroad song.
-Oooohhhhh oooohhhhh
+Oh oh
 I hit the brakes for an old New Holland, hammered down and passed him on up, The breeze smeels like a summertime hay field thats just been cut.
 I got the windows down way out of town
-Singing ooohhhh
+Singing oh
 Freedom is the miles im rolling on
 
 Ohhhhhh
 Out here cruising to a backroad song
 I feel the wheels like a melody, like a radio dialing in strong, come on come on, sing along sing along to my backroad song.
 
-Ooooohhhh ooooohhh
+Oh oh
 The only way today could get better, girl what im thinking, is I can pick you up you slide in this truck and I can hear you singin'
-Oooohhhhh
+Oh
 Let me hear you singin'
-Oooohhhh
-Oooohhhh
+Oh
+Oh
 Freedom is the miles im rolling on
-Oooohhhhhh
+Oh
 
 Out here cruising to a backroad song
 I feel the wheels like a melody, like a radio dialing in strong, come on come on, sing along sing along to my backroad song.

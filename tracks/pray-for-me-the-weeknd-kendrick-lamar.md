@@ -90,7 +90,7 @@ rankings:
   start_date: '2018-06-30'
 ---
 
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 
 
 I'm always ready for a war again
@@ -98,7 +98,7 @@ Go down that road again
 It's all the same
 I'm always ready to take a life again
 You know I'll ride again
-It's all the same (ooh, ooh, ooh)
+It's all the same (oh, oh, oh)
 Tell me who's gon' save me from myself
 When this life is all I know
 Tell me who's gon' save me from this hell

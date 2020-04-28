@@ -228,9 +228,6 @@ Take your bank before I pay you out
 I promise this, promise this
 Check this hand cause I'm marvelous
 
-
-
-
 P-p-p-poker face, p-p-poker face
 (Mum mum mum mah)
 P-p-p-poker face, p-p-poker face

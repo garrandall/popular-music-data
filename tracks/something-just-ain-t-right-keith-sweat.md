@@ -30,11 +30,11 @@ rankings:
 ---
 Tossin', turnin', girl
 I just can't sleep at night
-Ooh, you've been cheating on me
+Oh, you've been cheating on me
 Tell me it's a lie, huh
 I called you home
 And the phone just keeps on ringing
-Ooh, baby, what do you think I am?
+Oh, baby, what do you think I am?
 All I wanna do is be your man
 I can't sleep at night
 For fear someone holdin' you tight
@@ -47,10 +47,10 @@ It just ain't right
 Something, something, something, something just ain't right
 
 
-Ooh, you make me feel
+Oh, you make me feel
 So good, so good inside
 And the thought of another man holdin' you tight
-It makes me wanna cry 
+It makes me wanna cry
 Don't blame me if I get suspicious, baby
 When you're not at home (not at home)
 You just had to look so good
@@ -68,7 +68,7 @@ Tell me, tell me
 Mmm, mmm, oh why, baby
 Oh
 Something out here just ain't right
-Something out here just ain't right (Ooh, baby, tell me I'm the only one)
+Something out here just ain't right (Oh, baby, tell me I'm the only one)
 Something out here just ain't right
 Something out here just ain't right (Tell me, baby, you know somethin' just ain't right)
 
@@ -90,12 +90,12 @@ You know I need to be the only one
 Oh, oh, no, no, no, no, no, no, no, no, no, no, girl
 Oh, no
 Something out here just ain't right
-Something out here just ain't right (Ooh)
+Something out here just ain't right (Oh)
 Something just ain't right
 I could feel it
 Something just ain't right
 Uh, I know it
 Something just ain't right, no, baby, no, no, no
-Ooh, make me the only one
+Oh, make me the only one
 I've got to be the only one
 Oh, girl, it just ain't right

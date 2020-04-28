@@ -216,9 +216,6 @@ I'm gonna marry her anyway
 Why you gotta be so rude?
 Yeah (So rude)
 
-
-
-
 Can I have your daughter for the rest of my life?
 Say yes, say yes 'cause I need to know
 You say I'll never get your blessin' till the day I die

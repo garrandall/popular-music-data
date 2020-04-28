@@ -37,11 +37,11 @@ rankings:
   start_date: '1982-03-06'
 ---
 
-Ooooooooh
+Oh
 When I met you baby
 You put a circle of love around me
 
-Ooooooooh
+Oh
 When I met you baby
 You put a circle of love around me
 
@@ -58,11 +58,11 @@ And I gave her my heart
 I was in love right from the start
 (Iiiii Iiiii Iiiii Iiiii)
 
-Ooooooooh
+Oh
 When I met you baby
 You put a circle of love around me
 
-Ooooooooh
+Oh
 When I met you baby
 You put a circle of love around me
 

@@ -154,7 +154,7 @@ I think that you should know
 It makes me moan
 When we're alone
 Alone, just me and you
-(Ooh-ooh-ooh...)
+(Oh-ohooh.)
 I'm so at home
 'Cause you're the bomb
 With everything you do
@@ -171,7 +171,7 @@ Alone, just me and you
 I'm so at home
 'Cause you're the bomb
 With everything you do
-(Ooh-ooh-ooh...)
+(Oh-ohooh.)
 So would you mind
 If you had the time
 If I can't deal with you
@@ -191,7 +191,7 @@ With everything you do
 So would you mind
 If you had the time
 If I can't deal with you
-(Ooh-ooh...)
+(Oh-oh..)
 Don't change a thing
 I'll try and hang
 With everything you do, boy

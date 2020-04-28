@@ -66,9 +66,6 @@ rankings:
 ---
 (All day, all day)
 
-
-
-
 I don't know why, I don't know how
 I thought I loved you, but I'm not sure now
 I've seen you look at strangers too many times
@@ -90,9 +87,6 @@ Watch them all fall down
 (All day, all day)
 (Domino dancing)
 
-
-
-
 I thought that when we fought I was to blame
 But now I know you play a different game
 I've watched you dance with danger, still wanting more
@@ -113,14 +107,8 @@ When you look around you wonder
 Do you play to win?
 Or are you just a bad loser?
 
-
-
-
 (All day, all day)
 (All day, all day)
-
-
-
 
 (All day, all day)
 Watch them all fall down
@@ -148,9 +136,6 @@ Watch them all fall down
 
 (All day, all day)
 (All day, all day)
-
-
-
 
 (All day, all day)
 (All day, all day)

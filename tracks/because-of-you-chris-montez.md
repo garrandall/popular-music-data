@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: because-of-you-chris-montez
+lyrics_url: https://genius.com/Chris-montez-because-of-you-lyrics
 name: Because Of You
 rankings:
 - end_date: '1967-03-10'
@@ -27,4 +28,24 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
 ---
+Because of you
+There's a song in my heart
+Because of you
+My romance had its start
 
+Because of you, the sun will sun
+The moon and stars will say you're mine
+Forever and never to part
+
+I only live for your love and your kiss
+It's paradise to be near you like this
+Because of you, my life is now worthwhile
+And I can smile, oh, just because of you
+
+I only live for your love and your kiss
+It's paradise to be near you like this
+Because of you, my life is now worthwhile
+And I can smile, oh, just because of you
+
+Hey now, I can smile
+Mmm, just because of you

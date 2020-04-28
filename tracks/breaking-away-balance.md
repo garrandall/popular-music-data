@@ -88,11 +88,11 @@ Its not right, I feel you caging me
 Don't tie me down
 Cause you know I'll be breaking away
 I'm breaking away
-Ooh
+Oh
 I'm breaking away
-Ooh
+Oh
 I'm breaking away
-Ooh
+Oh
 I'm breaking away
 There's not doubt about my leaving
 I'm checkin' out cause I've been feelin' that
@@ -103,29 +103,29 @@ Don't chase its only proving
 That I should leave
 And so I'll be breaking away
 I'm breaking away
-Ooh
+Oh
 I'm breaking away
-Ooh
+Oh
 I'm breaking away
 No chance to keep me waiting
 I can't explain you know I've been saying that
 Its coming soon
 You know I'll be breaking away
 I'm breaking away
-Ooh
+Oh
 I'm breaking away
-Ooh
-I'm breaking away
-Yeah
-I'm breaking away
-Ooh
+Oh
 I'm breaking away
 Yeah
 I'm breaking away
-Ooh
-Ooh
+Oh
 I'm breaking away
-Ooh
+Yeah
+I'm breaking away
+Oh
+Oh
+I'm breaking away
+Oh
 I'm breaking away
 Ah ah
 I'm breaking away

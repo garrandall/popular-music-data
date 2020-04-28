@@ -90,7 +90,7 @@ And I insist the world owes me a loving
 
 I wanna be thrilled to desperation,
 I wanna be thrilled starting tonight.
-With ev'ry kind of wonderful sensation,
+With every kind of wonderful sensation,
 I wanna be loved!
 
 

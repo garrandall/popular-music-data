@@ -103,7 +103,7 @@ Another unsolved mystery, it's goin' down in history
 Niggas ain't never did shit to me
 Bitch-ass niggas can't get to me
 Gots to make the move, got a point to prove
-Gotta make them groove, got 'em all like "Ooh!"
+Gotta make them groove, got 'em all like "Oh!"
 So to the next time you hear this nigga rhyme
 Try to keep your mind on gettin' pussy and crime
 

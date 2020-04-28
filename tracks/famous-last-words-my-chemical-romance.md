@@ -69,9 +69,6 @@ I am not afraid to walk this world alone
 Honey, if you stay, I'll be forgiven
 Nothing you can say can stop me going home
 
-
-
-
 These bright lights have always blinded me
 These bright lights have always blinded me, I say!
 

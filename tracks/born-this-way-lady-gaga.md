@@ -112,10 +112,10 @@ I'm on the right track, baby
 I was born this way (Born this way)
 
 
-Ooh, there ain't no other way
+Oh there ain't no other way
 Baby, I was born this way
 Baby, I was born this way (Born this way)
-Ooh, there ain't no other way
+Oh there ain't no other way
 Baby, I was born this way
 Right track, baby
 I was born this way
@@ -148,10 +148,10 @@ I'm on the right track, baby
 I was born this way (Born this way)
 
 
-Ooh, there ain't no other way
+Oh there ain't no other way
 Baby, I was born this way
 Baby, I was born this way (Born this way)
-Ooh, there ain't no other way
+Oh there ain't no other way
 Baby, I was born this way
 Right track, baby
 I was born this way
@@ -191,10 +191,10 @@ I'm on the right track, baby
 I was born this way, yeah
 
 
-Ooh, there ain't no other way
+Oh there ain't no other way
 Baby, I was born this way
 Baby, I was born this way (Born this way)
-Ooh, there ain't no other way
+Oh there ain't no other way
 Baby, I was born this way
 Right track, baby
 I was born this way

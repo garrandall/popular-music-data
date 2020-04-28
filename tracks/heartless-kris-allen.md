@@ -21,11 +21,11 @@ rankings:
   start_date: '2009-06-20'
 ---
 
-In the night 
+In the night
 I hear 'em talk
 Coldest story ever told
 Somewhere far along this road
-He lost his soul 
+He lost his soul
 To a woman so heartless
 How could you be so heartless
 Oh
@@ -45,35 +45,35 @@ You got a new friend
 Well I got homies
 But in the end it's still so lonely
 
-In the night 
+In the night
 I hear 'em talk
 The coldest story ever told
-Somewhere far along this road 
-He lost his soul 
+Somewhere far along this road
+He lost his soul
 To a woman so heartless
 How could you be so heartless
 Oh
 How could you be so heartless
 
 How could be so Dr. Evil
-You're bringin' out a side of me that I dont know
+You're bringin' out a side of me that I don't know
 I decided we weren't gon' speak so
 Why we up 3 A.M. on the phone
 Why does she be so mad at me fo'
-Homie I dont know she's hot and cold
+Homie I don't know she's hot and cold
 I won't stop I won't mess my groove up
 'Cause I already know how this thing go
 You run and tell your friends that you're leaving me
 They say that they don't see what you see in me
 You wait a couple months then you gon' see
-You'll never find nobody better than 
+You'll never find nobody better than
 Me
 
-'Cause in the night 
+'Cause in the night
 I hear 'em talk
 The coldest story ever told
 Somewhere far along this road
-He lost his soul 
+He lost his soul
 To a woman so heartless
 How could you be so heartless
 Oh
@@ -95,7 +95,7 @@ Into the night
 In the night
 I hear 'em talk
 The coldest story ever told
-Somewhere far far far he lost his soul 
+Somewhere far far far he lost his soul
 To a woman so heartless
 Oh
 How could you be so heartless
@@ -107,7 +107,7 @@ Oh
 I hear 'em talk
 The coldest story ever told
 Somewhere far along this road
-He lost his soul 
+He lost his soul
 To a woman so heartless
 
 

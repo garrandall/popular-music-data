@@ -40,7 +40,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-10-17'
 ---
-Ooh... ooh... ooh... ooh... ooh...
+Oh... oh... oh... oh... oh...
 
 
 I was young
@@ -76,7 +76,7 @@ On those days
 We've gone our
 Separate ways
 
-Ooh, ooh, ooh
+Oh, oh, oh
 I still think thoughts of you
 A love that we once shared
 Will always shine through
@@ -105,24 +105,24 @@ For the love we made
 I just wanna thank you
 Just thank you
 Thanks a million, boy
-Ooh... ooh... ooh... ooh
+Oh... oh... oh... oh
 
 I just wanna thank you
 For the love you gave
 I just wanna thank you
 For the love we made
-(Ooh... ooh... ooh... ooh...)
+(Oh... oh... oh... oh...)
 
 Thank you
 Just thank you
 Thank you, boy
-Ooh... ooh... ooh... ooh... ooh
+Oh... oh... oh... oh... oh
 
 I just wanna thank you
 For the love you gave
 I just wanna thank you
 For the love we made
-(Ooh... ooh...)
+(Oh... oh...)
 
 I just wanna thank you
 Just thank you

@@ -102,7 +102,7 @@ I always wanted someone just like you
 I really need to hold on, hold you
 I'd give the world to you, oh my darlin'
 You know I will
-Yeah yeah you know i will
+Yeah yeah you know I will
 I surely will
 
 

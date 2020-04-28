@@ -61,49 +61,49 @@ rankings:
   start_date: '1980-03-15'
 ---
 Sugarpie honeybunch
-You know that i love you
+You know that I love you
 I can't help myself
 I love you and nobody else
 In and out my life
 You come and you go
 Leaving just your picture behind
-And i kissed it a thousand times
+And I kissed it a thousand times
 
 When you snap your fingers
 Or wink your eye
 I come a running to you
 I'm tied to your apron strings
-And there's nothing i can do
+And there's nothing I can do
 
-Ooh, sugarpie honeybunch
+Oh, sugarpie honeybunch
 I'm weaker than a girl should be
 I can't help myself
 I'm a fool in love, you see
-Wanna tell you i don't love you
+Wanna tell you I don't love you
 Tell you that we're through
 And i've tried
-But everytime i see your face
+But everytime I see your face
 I get up all choked up inside
 
-Ooh, sugarpie honeybunch
-You know that i love you
+Oh, sugarpie honeybunch
+You know that I love you
 I can't help myself
 I love you and nobody else
 
-When i call your name, boy
+When I call your name, boy
 It starts the flame burning in my heart
 Tearin' it all apart
-No matter how i try
-My love i cannot hide
+No matter how I try
+My love I cannot hide
 
-Ooh, sugarpie honeybunch
+Oh, sugarpie honeybunch
 I'm weaker than a girl should be
 I can't help myself
 I'm a fool in love, you see
-Wanna tell you i don't love you
+Wanna tell you I don't love you
 Tell you that we're through
 And i've tried
-But everytime i see your face
+But everytime I see your face
 I get up all choked up inside
 
 Sugarpie honeybunch
@@ -111,7 +111,7 @@ You now that i'm weak for you
 I can't help myself
 I love you and nobody else
 
-Ooh, sugarpie honeybunch
+Oh, sugarpie honeybunch
 I'm weaker than a girl should be
 I can't help myself
 I'm a fool in love, you see
@@ -119,7 +119,7 @@ I'm a fool in love, you see
 Sugar
 Honey
 I can't help myself
-Oh, i can't help myself
+Oh, I can't help myself
 
 Sugarpie honeybunch
-You know that i love you
+You know that I love you

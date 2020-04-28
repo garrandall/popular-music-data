@@ -94,9 +94,9 @@ Can somebody come real fast to my rescue
 I'm stuck at the crib and I don't know what to do
 
 
-I missed the bus (ohh)
+I missed the bus (oh)
 I missed the bus
-I missed the bus (ohh)
+I missed the bus (oh)
 And that is somethin I will never ever ever do again
 
 
@@ -116,8 +116,4 @@ It was nothin I could do, I tried to explain
 But the teacher treated me like I was playin a game
 YOU LOSE YOU LOSE - the day was a no win
 I learned to never miss my bus again
-
-
-
-
 

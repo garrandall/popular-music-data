@@ -59,7 +59,7 @@ She's cryin' on a suitcase
 Sittin' at the airport
 Waitin' on the airplane
 Bout to take her out of here
-Ooh
+Oh
 They're gonna call her number
 She'll sit down by the window
 The plane'll leave the runway
@@ -81,7 +81,7 @@ She's cryin' on a suitcase
 Sittin' at the airport
 Waitin' on the airplane
 Bout to take her out of here
-Ooh
+Oh
 They're gonna call her number
 She'll sit down by the window
 The plane'll leave the runway

@@ -68,6 +68,3 @@ Gonna rest my soul on the other side.
 Coming to carry, coming, sweet Mary,
 Lay down my body, my sins I will bare thee.
 
-
-
-

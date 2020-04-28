@@ -22,10 +22,10 @@ Who's gonna love you like me, like me?
 Say it louder, say it louder
 Who's gonna touch you like me, like me?
 
-Ooh, said you wanna be good but you couldn't keep your composure
-Ooh, said you wanna be good but you're begging me to come over
-Ooh, come over
-Ooh, saying who's gonna fuck you like me? Yeah
+Oh, said you wanna be good but you couldn't keep your composure
+Oh, said you wanna be good but you're begging me to come over
+Oh, come over
+Oh, saying who's gonna fuck you like me? Yeah
 
 I don't wanna hurt you but you live for the pain
 I'm not tryna say it but it's what you became
@@ -41,10 +41,10 @@ Who's gonna love you like me, like me? Yeah
 Say it louder, say it louder
 Who's gonna touch you like me, like me?
 
-Ooh, said it'd be the last time, all you needed was a little closure
-Ooh, said it'd be the last time but you're begging me to come over
-Ooh, come over
-Ooh, saying who's gonna fuck you like me? Hey
+Oh, said it'd be the last time, all you needed was a little closure
+Oh, said it'd be the last time but you're begging me to come over
+Oh, come over
+Oh, saying who's gonna fuck you like me? Hey
 
 I don't wanna hurt you but you live for the pain
 I'm not tryna say it but it's what you became

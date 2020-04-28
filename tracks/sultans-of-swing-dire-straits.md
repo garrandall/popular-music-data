@@ -114,9 +114,6 @@ And the Sultans
 Yeah, the Sultans, they play Creole
 Creole
 
-
-
-
 And then the man
 He steps right up to the microphone
 And says at last

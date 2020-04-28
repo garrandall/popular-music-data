@@ -124,7 +124,7 @@ I was like, good gracious - ass is bodacious (uhh)
 Flirtacious, tryin to show patience
 I'm waitin for the right time to shoot my steez (you know)
 Waitin for the right time to flash them keys, then uhh
-I'm leavin, please believe in - ohhh!
+I'm leavin, please believe in - oh!
 Me and the rest of my heathens
 Check it, got it locked at the top of the Fo' Seasons
 Penthouse, roof top, birds I'm feedin
@@ -193,7 +193,7 @@ Unless you gon' do it
 Extra, extra - eh, spread the news (check it)
 Nelly took a trip from the Lou' to the Neptunes
 Came back with somethin thicker than fittin in Sasoons
-Say she got a thing about cuttin in restrooms - ohhhhh!
+Say she got a thing about cuttin in restrooms - oh!
 
 
 It's gettin hot in here (so hot), so take off all your clothes
@@ -221,4 +221,4 @@ With a little bit of ah, ah
 And a sprinkle of that ah, ah
 (Let it just fall out)
 I like it when ya ah, ah
-Girl, baby make it ah, ah... ohhh!
+Girl, baby make it ah, ah... oh!

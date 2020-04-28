@@ -100,7 +100,7 @@ I'm in trouble, deep
 Papa don't preach
 I've been losing sleep
 But I made up my mind, I'm keeping my baby
-Ooh, I'm gonna keep my baby, mmm
+Oh, I'm gonna keep my baby, mmm
 
 
 He says that he's going to marry me
@@ -119,7 +119,7 @@ I'm in trouble, deep
 Papa don't preach
 I've been losing sleep
 But I made up my mind, I'm keeping my baby
-Ooh, I'm gonna keep my baby, mmm
+Oh, I'm gonna keep my baby, mmm
 
 
 Daddy, daddy
@@ -134,7 +134,7 @@ I'm in trouble, deep
 Papa don't preach
 I've been losing sleep
 But I made up my mind, I'm keeping my baby
-Ooh, I'm gonna keep my baby, mmm
+Oh, I'm gonna keep my baby, mmm
 
 
 Papa don't preach
@@ -145,6 +145,6 @@ Papa don't preach
 I'm in trouble, deep
 Papa don't preach
 I've been losing sleep
-Oh, I'm gonna keep my baby, ooh
+Oh, I'm gonna keep my baby, oh
 Don't you stop loving me, daddy
 I know, I'm keeping my baby

@@ -98,7 +98,7 @@ This is David Nevermind
 And today's controversy is coming from yet another member
 (Aiyyo tell 'em that we not gon' be playin)
 or should I say members of the hip-hop community:
-(I'll blaze 'em niggaz)
+(I'll blaze 'em niggas)
 Petey Pablo - a new artist signed under Jive
 (Aiyyo look at my homeboys)
 and has teamed up with Timbaland, outta V.A.
@@ -127,13 +127,13 @@ and got a button in the middle, make the trunk go eh-eh
 But it ain't 'bout that
 It's about gettin whatchu gettin and drivin all back here
 Big fellas (six fellas)
-Half of me and Carolina niggaz, I'm tired of y'all
+Half of me and Carolina niggas, I'm tired of y'all
 Polk, Bladen, Marshall, Hoke, Greene County, Timbaland, damn
 Transfer, Sandy Ridge, Browns over here (greens over here)
 Pasqoutank, down on the, Odom East (lemme think)
 Johnson County, Franklin, Burgaw, Newport, Warren, Shelby, Kenansville
 (Man Catawba) Tarboro, Triangle, Goldsboro, Halifax, Statesville
-And all my niggaz doin life behind the wall
+And all my niggas doin life behind the wall
 This right here, right here, right here's for
 
 
@@ -147,21 +147,18 @@ Runnin through the school halls
 just before our basketball pep-rally jumped off (hah!)
 My house, my home, my hood (hah!)
 My brother, my sister, my cous' (hah!)
-My niggaz that was there from the beginin
+My niggas that was there from the beginin
 been wit me even 'fore they knew what bein with me was
-Y'all niggaz just glanced at it, now I gotcha starin at it
+Y'all niggas just glanced at it, now I gotcha starin at it
 Wouldn't been the same ol' North Carolina, it's been then
-Y'all niggaz just gettin it, oh it's a shame isn't it?
+Y'all niggas just gettin it, oh it's a shame isn't it?
 Oh you thought we said we were comin wit a whole lotta songs
-we were bullshhh! (ahh!)
-
-
-
+we were bullshhh! (ah!)
 
 Man I had to do it
 just incase you were one of the ones who wanted to come and ask somethin stupid
 (What you think you doin?) What it look like?
-Puttin it down for my niggaz in the south side
+Puttin it down for my niggas in the south side
 North Carolina, South Carolina
 And all my little bitty ova looked hick towns
 We gonna hit y'all asses, ain't nothin but a T.D. blast
@@ -172,9 +169,6 @@ but I'm about to bring it home
 Blow these fellas, these hills, these streets and N.C. out the water
 How's it feel to look a mothafucka dead in the grill and tell 'em I told ya
 
-
-
-
 Uhh, af-after seeing this
 I, I have no other questions, I, I mean I
 Hey look, this is David Nevermind
@@ -182,8 +176,4 @@ I'm signing off, but before I'm outta here
 Remember, if I ever talked anything about the Polk guys, nevermind
 North Carolina and V.A. are definitely at the front of the line
 You have my vote of support, over and out
-
-
-
-
 

@@ -89,7 +89,7 @@ Coffee maker, Copy repairman.
 Anymore there ain't nothing I swear man that I don't do.
 Been juggling, struggling, closing big deals.
 Dancing backwards in high heels.
-Just when it feels like i can't make it through.
+Just when it feels like I can't make it through.
 She said it sure is nice to just be the woman with you
 
 She said the girl I was with the business degree probally wouldn't recognize me.

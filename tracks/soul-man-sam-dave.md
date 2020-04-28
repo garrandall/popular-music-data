@@ -108,7 +108,7 @@ Yeah (yeah) yeah (yeah), uh
 I'm talking about a
 Soul man, I'm a
 Soul man, and you
-Soul man, aah
+Soul man, ah
 Soul man, hold on
 Soul man, I'm a
 Soul man, and you a

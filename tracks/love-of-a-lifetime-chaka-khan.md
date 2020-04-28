@@ -92,7 +92,7 @@ And baby, we'll hit and run together
 
 
 We got the love of a lifetime
-Ooh, we're such rock steady lovers, baby
+Oh we're such rock steady lovers, baby
 Keep up the good love together
 We can hold it, boy
 And never let it go
@@ -107,7 +107,7 @@ You're such a rock steady lover, baby
 Keep up the good love for Chaka
 You can hold it, boy, never let it go
 We got the love of a lifetime
-Ooh, we're such rock steady lovers, baby
+Oh we're such rock steady lovers, baby
 Keep up the good love together
 Hold it, boy
 

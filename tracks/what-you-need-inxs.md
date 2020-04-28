@@ -105,9 +105,6 @@ What you do all day
 Ain't no sense in all your crying
 Just pick it up and throw it into shape
 
-
-
-
 Hey you, won't you listen
 This is not the end of it all
 Don't you see there is a rhythm

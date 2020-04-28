@@ -110,7 +110,7 @@ All you need to say is that you want me to be with you
 Girl, I know you've waited so long
 For someone to love you
 
-Ooh...
+Oh...
 Mmm, mmm, mmm
 
 Baby, I wish I could be there
@@ -131,9 +131,9 @@ or maybe just the man from all your dreams
 try to think reality, explore the possibilities
 cause girl you know you've waited for so long
 for some one to love you
-(oooh-yooh-yooh-yoooh)
+(oh-yooh-yooh-yoooh)
 (for someone to love you)
-(waited ooh so long)
+(waited oh so long)
 
 all you you need is someone who cares
 (all you need, all you need, baby)
@@ -153,13 +153,13 @@ All you need is someone who cares
 (I just want to hold you)
 someone, someone, someone
 (How was your day baby)
-(all you need) 
+(all you need)
 Someone who will always be there
 (baby open up your heart!)
 All you need is someone
 (baby, lady, someone who loves you, will care for you)
 All you need is someone
-(baby, lady, i wanna be the one, please)
+(baby, lady, I wanna be the one, please)
 All you need is someone
 
 

@@ -101,13 +101,10 @@ Got a styrofoam cup and its full of syrup
 Send it over from New Mexico & let me work
 I can get 36 for a clean shirt
 
-
-
-
 Pop a lot of pain pills
 'Bout to put rims on my skateboard wheels
 Beat that pussy up like ****** ****
-Yeah....
+Yeah...
 Two cell phones ringin' at the same time
 That's your ho, callin' from two different phones
 Tell that bitch: "Leave me the fuck alone!"
@@ -123,9 +120,5 @@ And my pockets so fat, I'm startin' to feel contractions
 And my cousin went to jail for them chickens
 And he already home and that nigga must be snitchin'
 Cut him off like karate!
-
-
-
-
 
 Paroles rédigées et expliquées par la communauté RapGenius France

@@ -79,7 +79,7 @@ I'm a fool to doubt you, worry so about you
 Love requires faith, I've got a lot of faith, but
 I hear the music coming out of your radio
 
-Hmmm, yeah, I hear the music
+Hm, yeah, I hear the music
 Coming out of your radio
 The sweet, sweet music
 And you're there with another girl

@@ -128,6 +128,3 @@ I'm comin' through your door
 Turn off the lights, turn off the lights, baby
 It's something about this moment
 
-
-
-

@@ -88,11 +88,11 @@ If you
 
 
 Wanna get down, baby, I do
-Holla at me, baby, ooh-ooh
+Holla at me, baby, ohooh
 If you rollin' deep tonight, then I do
 Wanna, know you
 And If you, wanna get down, baby, it's cool
-Holla at me, baby, ooh-ooh
+Holla at me, baby, ohooh
 If you're always ridiculous, then I do
 Wanna get close to you
 
@@ -137,9 +137,6 @@ Let's move with the subject because I came with a better plot
 Just play the game and you'll never flop (never flop)
 It's in your brain, you already hot (already hot)
 But you ain't close to my age, so you better stop
-
- (2x)
-
 
 Let's go, don't stop
 Let's go, don't stop

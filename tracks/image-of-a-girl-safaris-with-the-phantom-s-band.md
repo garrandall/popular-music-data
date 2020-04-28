@@ -1,9 +1,10 @@
 ---
 artists:
-- Safaris with The Phantom's Band
+- Safaris
 features: []
 genres: []
 key: image-of-a-girl-safaris-with-the-phantom-s-band
+lyrics_url: https://genius.com/The-safaris-image-of-a-girl-lyrics
 name: Image Of A Girl
 rankings:
 - end_date: '1960-06-12'
@@ -79,4 +80,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
 ---
+As I lie awake resting from the day
+I can hear the clock passing time away
+Oh, I couldn't sleep, for on my mind
+Was the image of the girl I hope to find
 
+I look straight up at the ceiling above
+Thinking of the girl whom I will love
+Oh, would it be soon when she exists?
+The image of the girl I've always wished
+
+I twisted and I turned, oh, trying to sleep
+But all I could do was only to weep
+For I haven't found that image yet
+Of all the girls that I have met
+
+And now the clock is still passing time
+And I know someday that she will be mine
+And I know she'll always bring me love
+For she's the image of the girl I love

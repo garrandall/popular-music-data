@@ -59,7 +59,7 @@ That it's just to tough to find another lover like mine
 With the right stuff
 The right stuff baby
 I don't wanna miss out on the right stuff
-Ooh no with mr. right
+Oh no with mr. right
 
 Just friday 'bout a week ago
 This fellow called me on the phone
@@ -76,7 +76,7 @@ The other fellows don't compare
 To the right stuff
 The right stuff baby
 I don't wanna miss out on the right stuff
-Ooh no with mr. right
+Oh no with mr. right
 Sing
 
 He's the only to give me that lovin'

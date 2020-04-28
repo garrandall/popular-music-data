@@ -97,9 +97,6 @@ He's cool!
 I can't complain, but sometimes I still do
 Life's been good to me so far
 
-
-
-
 I go to parties sometimes until 4
 It's hard to leave when you can't find the door
 It's tough to handle this fortune and fame

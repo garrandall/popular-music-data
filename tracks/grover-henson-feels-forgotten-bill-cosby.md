@@ -40,7 +40,7 @@ And Grover Henson feels forgotten
 (Grover Henson feels forgotten)
 
 So, I wrote myself a letter
-Mmm hmm, are you ready for me
+Mmm hm, are you ready for me
 Yes, I did, and I must have read it
 To just about everyone
 

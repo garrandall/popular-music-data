@@ -100,7 +100,3 @@ Twin when it end, I'm a stand as a man never dying on my knees
 Last of a dying breed, so let the champagne pop
 I partied for a while now I'm back to the block
 
-
-
-
-

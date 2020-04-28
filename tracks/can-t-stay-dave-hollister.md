@@ -68,7 +68,7 @@ Listen
 Baby can you tell me
 Where I went wrong yeah
 All I ever wanted Baby baby baby
-Was a happy home (ohhh) to call my own (ohhh)
+Was a happy home (oh) to call my own (oh)
 I can't take no more (No doubt)
 So I'm telling you
 Bye bye bye bye bye bye bye bye
@@ -86,7 +86,7 @@ That's why I can truly say in my heart
 Love don't live here (Love don't live here anymore)
 Good God almighty
 Baby you hurt me so bad
-But ohh I'm mighty grateful
+But oh I'm mighty grateful
 Love don't live here (Love don't live here anymore)
 Ohhhhhhhhhh
 It's alright, it's OK
@@ -101,4 +101,4 @@ I gotta go I gotta leave baby
 Cause love don't live here
 Uhmmmmm
 I thinnk I leave it alone now
-Yeahh yeah yeah yahooo hmmm
+Yeahh yeah yeah yahooo hm

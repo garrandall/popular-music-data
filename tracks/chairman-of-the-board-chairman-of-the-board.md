@@ -75,7 +75,7 @@ Baby I?m your chairman, now now
 
 Yeah yeah, I?m the chairman baby
 (Chairman of the board)
-Ooh, honey you know I am your chairman
+Oh, honey you know I am your chairman
 (Chairman of my baby?s board)
 
 I take pride in the way that I please

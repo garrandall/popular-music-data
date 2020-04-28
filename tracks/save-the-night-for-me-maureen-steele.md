@@ -44,7 +44,7 @@ So we can be together
 
 Save the night for me
 I need you now
-Ooh, baby
+Oh, baby
 More than ever
 Save the night for me
 
@@ -64,7 +64,7 @@ So we can be together
 
 Save the night for me
 I need you now
-Ooh, baby
+Oh, baby
 More than ever
 Save the night for me
 
@@ -99,5 +99,5 @@ So we can be together
 
 Save the night for me
 I need you now
-Ooh, baby
+Oh, baby
 More than ever

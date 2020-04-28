@@ -87,6 +87,3 @@ Warm as the sunshine
 Oh Heather honey
 Your love is so fine
 
-
-
-

@@ -48,21 +48,21 @@ And tired of going down, down, down
 Start the car, we gotta move
 This ain't no living, this ain't no groove
 It's been a long hard road
-Come on baby (ooh baby)
+Come on baby (ohbaby)
 Let's drive it home
 Start the car
 We started out for paradise
 But this ain't no promised land
 This ain't no kind of living for an honest working man
 Well there's people dying on the streets
-Sure don't make the news, ooh yeah
+Sure don't make the news, ohyeah
 While others living up on the hill
 Singing the white boy blues
 Whoa, start the car, we gotta move
 This ain't no living (no living)
 This ain't no groove
 The city's rich, or dirt poor
-But somewhere waiting (ooh yeah)
+But somewhere waiting (ohyeah)
 There's something more
 Start the car
 
@@ -81,8 +81,8 @@ Start the car, yeah
 It's been a long hard road
 Well come on baby, let's drive it home
 Start the car
-Ooh, start the car
-Ooh, start the car
-Ooh, start the car
+Oh start the car
+Oh start the car
+Oh start the car
 Mabeline, why can't you be true
 Start the car

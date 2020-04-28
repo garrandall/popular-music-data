@@ -91,10 +91,10 @@ Don't you wanna jam tonight?
 Don't you wanna jam tonight?
 Don't you wanna jam tonight?
 
-Ooh, don't you wanna jam?
+Oh, don't you wanna jam?
 
 Don't you wanna?
-Ooh, don't you wanna jam?
+Oh, don't you wanna jam?
 
 Yeah!
 
@@ -108,10 +108,10 @@ Don't you wanna jam?
 Don't you wanna jam?
 Don't you wanna jam?
 
-Don't you wanna, ooh
+Don't you wanna, oh
 Don't you wanna jam?
 Don't you, don't you, don't you, don't you wanna
-Ooh, oh, oh don't you wanna jam?
+Oh, oh, oh don't you wanna jam?
 Yeah, yeah!
 
 I wanna jam, I wanna jam, yes I do

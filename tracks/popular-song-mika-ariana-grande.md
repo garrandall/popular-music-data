@@ -23,7 +23,7 @@ Standing on the field with your pretty pompoms
 Now you're working at the movies selling popular corn
 I could have been a mess but I never went wrong
 Cause I’m puttin' down my story in a popular song
-Ahh, I said I'm putting down my story in a popular song
+Ah, I said I'm putting down my story in a popular song
 
 
 My problem, I never was a model
@@ -50,7 +50,7 @@ You hid during classes and in between 'em
 Dunk me in the toilets now it's you that cleans them
 You tried to make me feel bad with the things you do
 It ain't so funny when the joke's on you
-Ooh, the joke's on you
+Oh, the joke's on you
 Got everyone laughing, got everyone clapping, askin'
 How come you look so cool?
 Cause that’s the only thing that I learned at school, boy

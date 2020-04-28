@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: girl-can-t-help-it-journey
+lyrics_url: https://genius.com/Journey-girl-cant-help-it-lyrics
 name: Girl Can't Help It
 rankings:
 - end_date: '1986-09-05'
@@ -63,4 +64,56 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-11-29'
 ---
+If he could hold her, so close in his arms...again
+If she could show him
+The letter her heart forgot to send...why
+They're living dreams on their own
+Ohthey'll never stop running
 
+
+The girl can't help it, she needs more
+He hasn't found what he's looking for
+They're still standing in the rain
+He can't help it, and she's just that way
+And when he calls her
+She tells him that she still cares
+Under the moonlight
+He wonders why she can't be there...why
+Why do they go on alone
+When they're missing each other
+
+
+The girl can't help it, she needs more
+He hasn't found what he's looking for
+They're still standing in the rain
+He can't help it, and she's just that way
+And when he calls her
+She tells him that she still cares
+Under the moonlight
+He wonders why she can't be there...why
+Why do they go on alone
+When they're missing each other
+
+The girl can't help it, she needs more
+He hasn't found what he's looking for
+They're still standing in the rain
+He can't help it, and she's just that way
+And when he calls her
+She tells him that she still cares
+Under the moonlight
+He wonders why she can't be there...why
+Why do they go on alone
+When they're missing each other
+
+
+There's a fire
+Ohthere's a fire in his eyes for you
+Don't you know she still cries
+Ohdo you know she still cries for you
+Fire
+Ohthere's a fire in his eyes for you
+For you she cries
+Ohdo you know she still cries for you
+Fire
+Ohthere's a fire in his eyes for you
+Ohnothing stands between love and you

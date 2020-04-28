@@ -61,10 +61,10 @@ You're the landlord and the keeper of our love
 Well, well, well, well
 I had no place to go, left to wander aimlessly
 Often I was asked to spend the night
-Ooh, but my heart wouldn't let me, it didn't feel right
+Oh, but my heart wouldn't let me, it didn't feel right
 
 I don't know how or where you found the key
-Ooh, but you unlocked every door inside of me
+Oh, but you unlocked every door inside of me
 
 You're the landlord and the keeper of our love
 You're the landlord and the keeper

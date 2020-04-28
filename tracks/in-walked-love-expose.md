@@ -68,7 +68,7 @@ CHORUS
 
 Oh-oh-oh, oh-oh-oh
 Oh-oh-oh-oh-oh
-Oh-oh-oh, ohhhh
+Oh-oh-oh, oh
 Oh-oh-oh-oh-oh
 
 GUITAR SOLO

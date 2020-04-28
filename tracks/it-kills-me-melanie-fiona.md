@@ -106,13 +106,13 @@ But the other side still believes
 
 And it kills me to know
 How much I really love you
-So much I wanna ooh, ooh, ooh
-To you, ooh, ooh
+So much I wanna oh oohohoh
+To you, oh oh
 
 Should I grab his cell, call this chick up
 Start some shh, then hang up?
 Or I should I be a lady?
-Ooh, maybe 'cause I wanna have his babies?
+Oh, maybe 'cause I wanna have his babies?
 Oh yeah, yeah
 
 'Cause I don't wanna be alone
@@ -127,8 +127,8 @@ But the other half still believes
 
 And it kills me to know
 How much I really love you
-So much I wanna ooh, ooh, ooh
-To you, ooh, ooh
+So much I wanna oh oohohoh
+To you, oh oh
 
 Should I pay you back
 To see how you react?
@@ -141,13 +141,13 @@ But the other side still believes
 
 And it kills me to know
 How much I really love you
-So much I wanna ooh, ooh, ooh
-To you, ooh, ooh
+So much I wanna oh oohohoh
+To you, oh oh
 
 And it kills me to know
 How much I really love you
-So much I wanna ooh, ooh, ooh
-To you, ooh, ooh
+So much I wanna oh oohohoh
+To you, oh oh
 
 
 

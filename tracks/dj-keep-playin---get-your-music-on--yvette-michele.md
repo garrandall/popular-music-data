@@ -41,13 +41,13 @@ Where Brooklyn at?
 Where Brooklyn at?
 (repeat throughout song)
 
-	
+
 Oh yeah
 
 
 You're my favorite DJ
 
-	
+
 Bowlegged Lou the house
 With the star of the show
 Yvette Michele
@@ -55,11 +55,11 @@ Yvette Michele
 
 Don't stop now
 
-	
+
 Full Force up in here
 Brooklyn's finest, uh
 
-	
+
 1 - 	DJ keep playing and playing and playing
 	Get your music on
 	And on and on and on
@@ -94,12 +94,12 @@ As you watch me shake it
 
 Repeat 1
 
-	
-Super....
+
+Super...
 To the break everybody
 
 
-DJ	
+DJ
 DJ
 DJ keep playing and playing
 And playing and playing

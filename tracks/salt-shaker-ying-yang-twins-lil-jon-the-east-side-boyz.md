@@ -142,7 +142,7 @@ Hoe shake your ass to the song then
 If you ain't with it then well gone then
 We ain't no boys we grown men
 If you ain't gone dance then don't then
-Why you wanna waste a niggaz song
+Why you wanna waste a niggas song
 then see your ass down doin nothin
 
 
@@ -165,9 +165,6 @@ Shake that ass real fast then stop (aaww shit!)
 Shake that ass real fast then drop (aaww shit!)
 Shake that ass real fast then drop (aaww shit!)
 
-
-
-
 Shake it like a dollar five or ten
 But what would you do for 2a twenty twen
 Get on the stage shake that ass then
@@ -179,13 +176,9 @@ Make that pussy fart for the Ying Yang Twins
 Sixteen bitches in thongs in one club
 The home of the fifth red bones and big butts
 has been bitches splittin' all over the floor
-Hornafy cant deny certified pro
+Hornafy can't deny certified pro
 On the poll upside down, (this shit for real)
 Sixty-nine plenty time will pay a bill
 At day she a clerk but night she turn (stripper)
 You're not even dated your just tryin to (tip her)
-
-
-
-
 

@@ -26,14 +26,14 @@ She gets bubble-gum on her knees
 Down between the seats
 Sometime she'll pass you the keys
 Roxy Roller
-Oooh Roxy Roller
+Oh Roxy Roller
 Roxy Roller, Roxy
 Her daddy, le commissioner
 Took far more than his share
 So Roxy joined the syndicate
 Knowing it wasn't fair
 Roxy Roller
-Oooh Roxy Roller
+Oh Roxy Roller
 Roxy Roller, Roxy
-Oooh Roxy Roller
-Oooh Roxy
+Oh Roxy Roller
+Oh Roxy

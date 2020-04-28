@@ -84,7 +84,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1986-12-13'
 ---
-Ooh, baby
+Oh, baby
 Anytime my world gets crazy
 All I have to do to calm it
 Is just think of you
@@ -110,13 +110,13 @@ All I think about is our love
 
 So in love
 (So in love)
-Ooh
+Oh
 (So in love)
 With you
 (So in love)
 Baby
 (So in love)
-Ooh
+Oh
 (So in love)
 Yeah
 (So in love)
@@ -139,7 +139,7 @@ When I think of you
 
 
 (So in love)
-Ooh
+Oh
 (So in love)
 So in love
 (So in love)
@@ -147,7 +147,7 @@ With you
 (So in love)
 Baby, you
 (So in love)
-Ooh
+Oh
 (So in love)
 So in love
 (So in love)

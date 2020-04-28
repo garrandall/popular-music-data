@@ -63,9 +63,6 @@ Fuckin' on the low, smokin' on the low
 I just been plottin' on the low, schemin' on the low
 The furthest thing from perfect like everyone I know
 
-
-
-
 Drinkin', smokin', fuckin', plottin'
 Schemin', plottin', schemin', gettin' money
 Drinkin', fuckin', smokin', plottin'

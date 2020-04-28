@@ -62,7 +62,7 @@ I rule the streets I break 'em down with no tools
 And Misdemeanor give the finger to y'all fools (HOLLA!)
 Whoever doubted that I'm 'bout it check the news
 And if you snooze on me this year your ass will lose
-Cause I will bruise, my loose screws is like ooh
+Cause I will bruise, my loose screws is like oh
 When I come out get your release dates moved
 
 

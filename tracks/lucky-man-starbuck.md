@@ -32,20 +32,20 @@ Rock and roll just keeps me crazy
 Southern living makes me lazy
 Tired of playing Casanova
 When I'm just a Shady Grover
-Ooh, I'm a lucky man, Ooh, I'm a lucky man
+Oh I'm a lucky man, OOhI'm a lucky man
 It's me and you and you and me
 And we're happy as a monkey in a coconut tree
 Riviera sunny seaside
 Foreign ladies got my weak side
 Tired of drinking crazy French wine
 Coming home now if you're still mine
-Ooh, I'm a lucky man, Ooh, I'm a lucky man
+Oh I'm a lucky man, OOhI'm a lucky man
 It's me and you and you and me
 And we're happy as a monkey in a coconut tree
 Mississippi watermelon
 Cantaloupes, I love to smell 'em
 Thinking clearly ain't my trademark
 I don't bite quite loud as I bark
-Ooh, I'm a lucky man, Ooh, I'm a lucky man
+Oh I'm a lucky man, OOhI'm a lucky man
 It's me and you and you and me
 And we're happy as a monkey in a coconut tree

@@ -166,8 +166,8 @@ Shake your groove thing
 Shake your groove thing
 
 Show 'em how we do it now, let's get on down
-Show 'em how we do it now, show 'em how we do it now, ooh
-Ooh
+Show 'em how we do it now, show 'em how we do it now, oh
+Oh
 Show 'em how we do it now, shake your groove thing
 
 Shake it, shake it

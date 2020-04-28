@@ -74,7 +74,7 @@ Knows I got the best in town
 Cuz when she get the shivers
 She knows that I'll deliver
 I'm the one that holds her down
-She's about to break break break break break 
+She's about to break break break break break
 And I won't let her wait wait wait wait wait
 It's gettin' kinda late late late late late
 And she just wanna shake shake shake shake shake
@@ -103,8 +103,4 @@ When she calls I know
 Exactly what she wants from me
 Yea anytime I hear my phone ringin'
 She wants to shake it with me
-
-
-
-
 

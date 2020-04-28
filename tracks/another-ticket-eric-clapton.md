@@ -53,13 +53,3 @@ Seems you've got to ride another horse.
 Everytime you think you're near the end,
 You turn around and find another ticket.
 
-
-
-
-
-
-
-
-
-
-

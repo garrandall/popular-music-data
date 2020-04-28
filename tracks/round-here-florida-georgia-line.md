@@ -126,9 +126,6 @@ It's a feelin' alright, Saturday night
 And that's how we do it 'round here
 Yeah, that's how we do it 'round here
 
-
-
-
 Yeah, the moon comes up and the sun goes down
 We find a little spot on the edge of town
 Twist off, sip a little, pass it around

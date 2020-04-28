@@ -73,10 +73,10 @@ The moment (you get there
 You get there? yeah, yeah, baby, yeah
 
 
-My dearest, my dearest of all darling (ah-ooo
-I know, I know, I know, I know we’ve got to part (ah-ooo
+My dearest, my dearest of all darling (ah-oo
+I know, I know, I know, I know we’ve got to part (ah-oo
 Baby, baby, baby, baby, baby
-It really doesn’t hurt me that bad yeah (ah-ooo
+It really doesn’t hurt me that bad yeah (ah-oo
 Because you’re taking me with you
 And I’m keeping you right-a here in my heart
 It’s all because I love you (I love you

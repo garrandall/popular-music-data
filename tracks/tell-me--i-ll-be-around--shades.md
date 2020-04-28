@@ -109,7 +109,7 @@ They think I take and then I never give
 It's time for girls to make a statement
 I'm going for mine
 This lady's got to live
-Oooooh, tell me
+Oh, tell me
 
 Repeat 1
 

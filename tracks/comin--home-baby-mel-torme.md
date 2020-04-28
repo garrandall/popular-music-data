@@ -60,7 +60,7 @@ I'm comin' home now, right away
 I'm comin' home baby now
 (Do-do-do-do-do-do-do-do)
 I'm sorry now I ever went away
-(Do-do-do-do-doooo-doo-doo-do)
+(Do-do-do-do-doo-doo-doo-do)
 Every night and day I go and stay
 
 I'm comin' home baby
@@ -93,14 +93,14 @@ I'm comin' home
 (Come on home)
 I'm comin' home baby now
 (You know I'm counting everyday)
-I'm comin' home now, yeah, yeah yeah !
+I'm comin' home now, yeah, yeah yeah!
 (Use the phone)
 I'm comin' home baby now
 (And baby let me hear you say)
 I'm comin' home, you're hearin' what I say
 (That you're comin' home)
 And I never will go away. (I will lay awake)
-I'm comin' home !
+I'm comin' home!
 
 (Come on home)
 I'm comin' home baby now
@@ -135,4 +135,4 @@ I'm comin' home baby now
 I'm comin' home baby now
 (I'm alone)
 I'm comin' home baby now
-.........
+...

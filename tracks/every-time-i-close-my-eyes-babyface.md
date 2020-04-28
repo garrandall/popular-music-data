@@ -143,7 +143,3 @@ How much you mean to me
 It's only right that you be in my life right here with me
 Oh baby, baby
 
-
-
-
-

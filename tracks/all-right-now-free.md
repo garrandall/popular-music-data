@@ -92,7 +92,7 @@ Baby, it's-ah all right now
 Mm!
 All right now
 Baby, it's-ah all right now
-Whoa, ooh
+Whoa, oh
 
 Let me tell you all about it now
 Mm!

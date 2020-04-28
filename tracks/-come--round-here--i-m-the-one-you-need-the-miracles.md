@@ -54,7 +54,7 @@ And when you need some loving arms to hold you come round here
 Now I may not be the one you want
 Oh But I know I'm the one you need
 Said I may not be the one you want
-Ooh but I know I'm the one you need
+Oh but I know I'm the one you need
 
 Your life stands still the minute he goes
 You count the hours just hoping he shows
@@ -67,7 +67,7 @@ You're all alone there with tears on your face
 Now when you feel the need to cry to someone cry to me
 And when you feel the need to lean on someone lean on me
 Now I may not be the one you want but I sure 'nuff the one you need
-Oh baby I may not be the one you want ooh but I know I'm the one you need
+Oh baby I may not be the one you want oh but I know I'm the one you need
 
 Now the days the days you sit alone by yourself
 He's out fooling round with somebody else

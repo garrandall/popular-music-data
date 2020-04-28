@@ -83,7 +83,7 @@ Another nine minutes, let the world wait
 Who's gonna care if we're a little bit late
 (Another nine minutes) Let the world stop
 (Another nine minutes) Don't worry about the clock
-(Another nine minutes) Ooooh, yeah
+(Another nine minutes) Oh, yeah
 (Another nine minutes) Who's gonna care if we're a little bit late
 
 (Another nine minutes) (repeat to fadeout)

@@ -146,9 +146,6 @@ At the airport at 5:15
 She said "Who are you and why are ya here?"
 I said I'm Dru Down and pimp of the year
 
-
-
-
 I've got a thang for makin' hoes
 Every woman that I touch bitch turns into gold
 And I don't go for talk back

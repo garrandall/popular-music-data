@@ -85,7 +85,7 @@ Around and around and up and down
 Around and around and up and down
 Around and around and up and down
 Yes, little angel, it sure is fun
-Ev'ry time we're dancin' she's a-right on time
+Every time we're dancin' she's a-right on time
 She moves to the left, she moves to the right
 She feels the beat and she dances all the night
 

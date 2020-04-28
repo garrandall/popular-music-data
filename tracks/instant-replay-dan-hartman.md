@@ -91,7 +91,7 @@ And everything you are is heaven
 Oh I can't get enough no I can't get enough
 
 (Instant replay) I've got to have it
-(Instant replay) ooh whoa ooh-ooh
+(Instant replay) oh whoa oh-oh
 (Instant replay) got to have your love again
 
 I feel so good about us
@@ -103,21 +103,21 @@ In every way it's getting stronger
 Now you know it let me show it
 
 (Instant replay) I've got to have it
-(Instant replay) woo-woo-woo-ooh
+(Instant replay) woo-woo-woo-oh
 (Instant replay) got me floating on a cloud
 Got me dancing all around all around all around (woo)
 
-Ooh ooh ooh ooh
+Oh oh oh oh
 Eeya-eeya eeya eeya-eeya
-D-doo d-doo d-doo-ooh
-Ooh ooh ooh ooh
+D-doo d-doo d-doo-oh
+Oh oh oh oh
 (Instant instant)
 (Instant instant instant replay)
 Ah ah ah
 
 (Instant replay) instant replay
 (Instant replay) instant replay
-(Instant replay) woo ooh ooh ah
+(Instant replay) woo oh oh ah
 I can't stand it I can't stand it
 Got to have it 'cause I need it
 Don't ya know don't ya know don't ya know
@@ -126,7 +126,7 @@ I need your love love love
 (Instant replay) let me show it (instant replay)
 (Instant replay) I need your love
 (Instant replay instant replay)
-Ooh and I'm feeling overcome (instant replay)
+Oh and I'm feeling overcome (instant replay)
 
 
 

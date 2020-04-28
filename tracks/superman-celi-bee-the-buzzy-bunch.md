@@ -61,7 +61,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-09-03'
 ---
-Oooooh
+Oh
 You high baby?
 Yaaahhh
 Yah?
@@ -86,7 +86,7 @@ I'm here to rescue you
 
 I want to save you girl,
 Come be in Shady's world,
-Ooooh boy you drive me crazy,
+Oh boy you drive me crazy,
 Bitch you make me earl...
 
 They call me superman,
@@ -167,7 +167,7 @@ I'm not fazed,
 I hang around big stars all day
 I don't see what the big deal is anyways,
 You're just plain old Marshall to me
-Oooh yah girl run that game,
+Oh yah girl run that game,
 Hailie Jade, I love that name,
 Love that tatoo,
 What's that say?
@@ -182,7 +182,7 @@ Leave handprints all across you,
 Good Lordy whoadie,
 You must be gone off that water bottle
 You want what you can't have,
-Ooh girl that's too damn bad,
+Ohgirl that's too damn bad,
 Don't touch what you can't grab,
 End up with two backhands
 Put anthrax on a tampax,

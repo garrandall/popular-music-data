@@ -95,12 +95,12 @@ rankings:
 
 I don't know how
 This whole business started
-Of you thinkin' that 
+Of you thinkin' that
 I had been untrue
 
 But if you think that
 We'd be better parted
-It's gonna hurt me but 
+It's gonna hurt me but
 I'll break away from you
 
 Well, just give me the sign
@@ -115,14 +115,14 @@ I live for your lovin'
 That's how much
 That's how much
 That's how much
-That's how much, ooh
+That's how much, oh
 
-Sleep alone and 
+Sleep alone and
 Late at night I'm dreamin'
-Of the togetherness 
+Of the togetherness
 That seems to be leavin' me
 
-Oh no, I'd give it all and 
+Oh no, I'd give it all and
 Then I'd, give some more
 If you would only love me
 Like you had before
@@ -147,23 +147,23 @@ And then you cry
 Well, you cry just a little
 Then we both realize
 Just how foolish you've been
-Ooh, and you try to make amends
+Oh, and you try to make amends
 But you're better off as friends
 
 'Cause that's how much
 That's how much
 That's how much
-That's how much, ooh
+That's how much, oh
 
 How's your life been goin' on?
 I got a wife now
 Years we've been going strong
 
-Oh no, there's just something 
+Oh no, there's just something
 That I got to say
 Sometimes when we make love
 I still can see your face
-Ooh, just try to recall
+Oh, just try to recall
 When we were as one, yeah
 
 That's how much I feel

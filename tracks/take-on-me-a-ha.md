@@ -143,9 +143,6 @@ Take me on (Take on me)
 I'll be gone
 In a day or two
 
-
-
-
 Oh, things that you say
 Is it a life or just to play my worries away?
 You're all the things I've got to remember

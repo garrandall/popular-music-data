@@ -101,7 +101,7 @@ rankings:
   start_date: '1977-03-26'
 ---
 
-Ooooh...
+Oh...
 You might not ever get rich
 But let me tell you it's better than digging a ditch
 There ain't no telling who you might meet
@@ -138,7 +138,7 @@ Car wash yeah
 Come on y'all and sing it with me
 Car wash
 Sing it with feeling
-Car wash yeah 
+Car wash yeah
 
 Wowowoh
 Those cars never seem to stop coming

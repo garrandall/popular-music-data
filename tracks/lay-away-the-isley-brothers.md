@@ -119,4 +119,4 @@ I got to put your love in the layaway
 (In the layaway)
 Yeah, hey, in the layaway
 (In the layaway)
-Ooh, coming back to get it
+Oh, coming back to get it

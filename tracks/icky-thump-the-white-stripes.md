@@ -98,9 +98,6 @@ I said
 I'm gonna 'sing around the collar'
 And I don't need a microphone"
 
-
-
-
 Icky thump
 With a lump in my throat
 Grabbed my coat

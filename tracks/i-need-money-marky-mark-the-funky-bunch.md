@@ -40,7 +40,7 @@ rankings:
 Gotta get it, got to, got to, get money
 Gotta get it, got to, got to, get paid
 I need money
-Money is the thing that i need
+Money is the thing that I need
 To ful fil my greed
 Marky Mark would like 2 say
 
@@ -57,26 +57,26 @@ Well its friday nite and im calling up my honey
 Bitch better have my money!
 Word! cuz times are hard
 I lost my job, my wallet, my friends and my credit card
-My brothers a millionare and he dont even share
-For all he cares i could be on the welfare
+My brothers a millionare and he don't even share
+For all he cares I could be on the welfare
 I need cash in a hurry and it just aint funny
 I need money
 
 CHORUS
 I Need money, yeah thats my situation
 So right a check cuz im takin donations
-Or handouts, It dont matter
+Or handouts, It don't matter
 As long As my pockets get fatter & fatter & fatter
 Cuz im hungry for the green backs
 For a dollar I'll even sell big macs
-Thats right cuz brother i found
+Thats right cuz brother I found
 That money makes the world go round
 Dont care what you people say
 I just wanna get Paid!
 U call me greedy but u know its true
 That u want money too!
-I need. u know what i need
-I need. u know what i need
+I need. u know what I need
+I need. u know what I need
 We all need
 
 CHORUS

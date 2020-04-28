@@ -134,10 +134,10 @@ Yup, I buy my own, if he deserve it, buy his shit too
 All up in the store, shorty, tricking if I want to
 All up in the store, shawty, fly as we want to
 
-Ooh ooh ooh ooh
+Oh oh oh oh
 Damn I think I love that boy
 Do anything for that boy
-Ooh ooh ooh ooh
+Oh oh oh oh
 Boy
 Now I'll never be the same
 It's you and me until the end

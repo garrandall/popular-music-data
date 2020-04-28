@@ -29,7 +29,7 @@ We got to get right back to where we started from
 Love is good, love can be strong
 We got to get right back to where we started from
 
-Oh-ohhhhh
+Oh-oh
 Do you remember that day
 (That sunny day)
 When you first came my way
@@ -53,4 +53,3 @@ You give me your love
 I just can't stay away
 I know that you're the only one
 
-(Chorus)

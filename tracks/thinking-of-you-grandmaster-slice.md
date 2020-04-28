@@ -36,7 +36,7 @@ rankings:
 I spend a lot of time thinking
 Thinking about the goals I set in life
 About family and the girl I love
-The only thing is that the girl i love
+The only thing is that the girl I love
 Seems to only exist in my mind
 In my dreams
 They say that everyone has a perfect match
@@ -55,7 +55,7 @@ We'll have a table for two
 They'll have a table for one
 We'll have a lot of laughs
 While some sing the blues
-Oo i love you and i'm thinking of you
+Oo I love you and i'm thinking of you
 Thinking of you
 Dreaming of you and the warmth of your touch
 Visions of you
@@ -63,7 +63,7 @@ Alone in the dark, oh I need you so much
 Thinking of you
 Dreaming of you and the warmth of your touch
 Visions of you
-What can i do when i need you so much
+What can I do when I need you so much
 Thinking of a girl that's devoted
 And will stand behind me
 100% and won't nag or remind me
@@ -85,7 +85,7 @@ Alone in the dark, oh I need you so much
 Thinking of you
 Dreaming of you and the warmth of your touch
 Visions of you
-What can i do when i need you so much
+What can I do when I need you so much
 I'm thinking of a girl who's intelligent
 Who pursues her own goals
 And makes love to me at night
@@ -102,6 +102,6 @@ Oo girl yeah im thinking of you
 You know dream girl
 You might be right in front of my eyes
 But I just don't see you
-But i want to let you know
+But I want to let you know
 That i'm Yours
 Sincerely

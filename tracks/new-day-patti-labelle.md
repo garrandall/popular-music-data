@@ -50,11 +50,11 @@ Open my eyes and my path is clearer
 New Day
 Pushing ahead till my goal is nearer
 New Day
-Spread my wings 
+Spread my wings
 I'm doin things my way
 It's a New Day
 
-I dont know, where I should begin
+I don't know, where I should begin
 Couldnt my tell my begining, from the ends
 For every door that close, a window opens
 And round the world and back again

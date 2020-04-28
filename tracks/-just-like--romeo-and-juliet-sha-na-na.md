@@ -48,7 +48,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-06-21'
 ---
-(Ooh-ooh-oop)
+(Oh-oh-oop)
 
 Findin' a job tomorrow mornin'
 Got a little somethin' I wanna do
@@ -64,8 +64,8 @@ Let her know (let her know) one way or the other
 Our love's gonna be written down in history
 A-Just like Romeo and Juliet
 
-(Ooh-ooh-oop)
-(Dooo, doot, doot, doot, doot, doot, doot, doo-doop)
+(Oh-oh-oop)
+(Doo, doot, doot, doot, doot, doot, doot, doo-doop)
 
 Just Like Romeo and Juliet
 Just Like Romeo and Juliet
@@ -84,8 +84,8 @@ It's gonna be (gonna be) heartaches 'n' sorrow
 Our love's gonna be destroyed like a tragedy
 Just like Romeo and Juliet
 
-(Ooh-ooh-oop)
-(Dooo, doot, doot, doot, doot, doot, doot, doo-doop)
+(Oh-oh-oop)
+(Doo, doot, doot, doot, doot, doot, doot, doo-doop)
 
 Just like Romeo and Juliet
 A-Just like Romeo and Juliet

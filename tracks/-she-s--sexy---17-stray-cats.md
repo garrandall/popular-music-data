@@ -88,7 +88,7 @@ Johnny and Eddie and me and Jimmy and Jack
 Are gonna do a little number on the teacher when she turns her back
 We're gonna cut out of class, meet the girls by the railroad track
 
-Well ev'ry Friday night, there's a band that you gotta hear
+Well every Friday night, there's a band that you gotta hear
 Just a dollar ticket in and twenty-five cents a beer
 They play rock n' roll music like it hasn't been rocked for years
 

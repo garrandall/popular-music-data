@@ -175,7 +175,7 @@ KRS-One is the nicest
 Shaquille O'Neal definitely from Men Of Steel
 You know how we feel
 Comin' through like that on the track
-KRS-One and we back (oooh oooooh)
+KRS-One and we back (ohhoh
 
 
 1 2 3 4 Hit it

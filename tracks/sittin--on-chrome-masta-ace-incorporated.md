@@ -44,9 +44,9 @@ Sittin on chrome (8X)
 
 Chorus: *with sample from Eazy E*
 
-He once was a dog from around the way... 
+He once was a dog from around the way...
 Eazy!
-He once was a dog from around the way... 
+He once was a dog from around the way...
 Eazy!
 
 I just got paid...
@@ -57,7 +57,7 @@ And I'm feelin alright...
 Verse One:
 
 Take it EZ, like E cuz I be
-Lettin niggaz know what time it is when it comes to me
+Lettin niggas know what time it is when it comes to me
 You can't find us here anywhere and I tear
 You a new asshole, as beautiful as gold
 Look at your reflection in my shine, find
@@ -71,7 +71,6 @@ Is mathematic, I must to blow your static if I can
 I.N.C., Crew I thought you knew
 That's how you do well check it this is how I do
 
-Chorus
 
 Verse Two:
 
@@ -94,7 +93,6 @@ I walked outside, they said that they ain't got no valet
 Somebody caught me slippin, dipped with my ride
 But we gonna catch they ass on the B-Side
 
-Chorus
 
 I just got paid...
 It's Friday night...
@@ -109,5 +107,5 @@ Ace niguh, so be ghost like Amity-
 So jet like Delta, I'm Fly like the Nun
 My mental state's, more Great than the Lakes
 I'm Superior, it's Erie how I breaks
-Niggaz down, with the sound as I shine
+Niggas down, with the sound as I shine
 One time, and the chrome is the mind

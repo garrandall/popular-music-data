@@ -227,9 +227,6 @@ Yeah, yeah, yeah
 Goin' on you with the pick and roll
 Young La Flame, he in sicko mode
 
-
-
-
 Woo, made this here with all the ice on in the booth
 At the gate outside, when they pull up, they get me loose
 Yeah, Jump Out boys, that's Nike boys, hoppin' out coupes
@@ -274,9 +271,6 @@ Someone said
 Pl-Playin' for keeps
 Someone said, motherfucker—someone said
 Don't play us for weak
-
-
-
 
 Yeah!
 Astro, yeah, yeah

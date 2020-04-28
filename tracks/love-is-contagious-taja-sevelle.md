@@ -69,7 +69,7 @@ Love is contagious
 Love is contagious
 Yeah, it`s alright
 Love is contagious, yeah
-Ooh, ooh, ooh
+Oh, oh, oh
 
 Now they`re standing in the light
 Got a love that`s sure enough tight
@@ -93,15 +93,15 @@ Love is contagious
 Yeah, it`s alright
 Love is contagious, yeah, yeah
 
-Ooh, ooh, ooh, ooh
-Ooh, ooh, ooh, ooh
-Ooh, ooh, ooh
-Ooh ooh, ah
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh, oh
+Oh oh, ah
 
-Ooh, ooh, ooh, ooh
-Ooh, ooh, ooh, ooh
-Ooh, ooh, ooh
-Ooh, ooh, ah
+Oh, oh, oh, oh
+Oh, oh, oh, oh
+Oh, oh, oh
+Oh, oh, ah
 
 I tried
 And I tried
@@ -115,14 +115,14 @@ Love is contagious
 Yeah, it`s alright
 Love is contagious, yeah, hey
 
-Ooh, ooh
-Ooh, ooh
+Oh, oh
+Oh, oh
 (Contagious)
 Our love`s a storm
 You can`t deny
 
 (Contagious)
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 Oh, oh
 Oh, yeah
 (Contagious)

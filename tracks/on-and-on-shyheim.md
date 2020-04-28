@@ -40,7 +40,7 @@ Now tell me this ain’t livin foul
 She just had a baby child and she’s back to sellin’ cracks vials
 On the Ave cause she’s addicted to the fast cash
 How long will that last before the cops be up in that ass
-But honey-dip dont wanna listen cause she’s in no position
+But honey-dip don't wanna listen cause she’s in no position
 Now nobody gives a pot to piss in
 Her life is stuck and filled with bad luck
 So she fucks and fucks to earn another buck

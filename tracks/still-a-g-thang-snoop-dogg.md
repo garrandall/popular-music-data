@@ -93,7 +93,7 @@ Fiend know C know & P know see loc
 We make music for the thugs and the bangers
 And the bitches. Fuck you R&B singers
 She want a nigga with his khakis hangin' real low
-In a black rag Sixty-four hmm
+In a black rag Sixty-four hm
 Rollin' down the street lookin' way clean
 Bangin' that real shit nigga like Al Green
 I'm headed straight to the LB

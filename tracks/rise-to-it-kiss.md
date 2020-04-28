@@ -66,17 +66,11 @@ We're going take them one by one
 Walk the wire of desire
 And if you dare to take it higher
 
-
-
-
 Hey, get up, lights, camera, action
 It's getting time for the show
 Because tonight you're the main attraction
 And if you want a lover who can play the other role
 I'm going to, I'm going to
-
-
-
 
 You know I really can do it
 I'm going to rise to it

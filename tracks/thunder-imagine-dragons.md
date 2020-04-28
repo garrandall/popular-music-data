@@ -286,9 +286,9 @@ Thunder, thunder, thun-
 Thunder, th-th-thunder, thunder
 Thunder, thunder, thun-
 Thunder, th-th-thunder, thunder
-(Woah-oh-ohh)
+(Woah-oh-oh)
 Thunder, thunder, thun-
 Thunder, th-th-thunder, thunder
-(Woah-oh-ohh)
+(Woah-oh-oh)
 Thunder, thunder, thun-
 Thunder, th-th-thunder, thunder

@@ -112,7 +112,7 @@ Respect yourself
 
 Respect yourself
 Respect yourself
-If you dont respect yourself
+If you don't respect yourself
 Ain't nobody gonna give a good
 Ca-hoot na na na oh oh
 Respect yourself

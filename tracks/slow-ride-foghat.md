@@ -89,8 +89,8 @@ The rhythm is right
 Move to the music
 We can roll all night
 
-Oooh slow ride
-Oooh
+Oh slow ride
+Oh
 
 Slow ride, take it easy
 Slow ride, take it easy
@@ -105,7 +105,7 @@ The rhythm is right
 Move to the music
 We can roll all night
 
-Oooh
+Oh
 
 Slow ride, take it easy
 Slow ride, take it easy
@@ -133,7 +133,7 @@ Come on, baby
 Take a slow ride
 
 Oh, feel good
-Mmmm, feels so good
+Mmm, feels so good
 I like it, yeah
 I feel good
 Oh, I feel all right

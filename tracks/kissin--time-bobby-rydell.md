@@ -89,7 +89,7 @@ They're smoochin' all over, even in St. Loo
 So uh-baby get ready, I'm a-kissin' you
 
 Oh, baby 'cause summertime is kissin' time USA
-So treat me right, a-don't-a make-a me fight
+So treat me right, a-dont-a make-a me fight
 The Battle of New Orleans tonight
 
 They're kissin' on beaches, sea to shining sea
@@ -99,10 +99,10 @@ So a-baby, come on now, start by kissin' me
 
 Oh, oh 'cause summertime is kissin' time USA
 So press your tasty lips to mine
-Sweeter than wine and feels so fine, wa-hoo!!
+Sweeter than wine and feels so fine, wa-hoo!
 
 Mmm, 'cause summertime is kissin' time USA
-So treat me right, a-don't-a make-a me fight
+So treat me right, a-dont-a make-a me fight
 The Battle of New Orleans tonight
 
 They're kissin' in drive-ins, you too, Baltimore

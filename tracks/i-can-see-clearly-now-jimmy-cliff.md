@@ -123,7 +123,7 @@ Here is that rainbow I've been praying for
 It's gonna be a bright (bright)
 Bright (bright) sunshiny day
 
-(Ooh...) Look all around, there's nothing but blue skies
+(Oh...) Look all around, there's nothing but blue skies
 Look straight ahead, there's nothing but blue skies
 
 I can see clearly now the rain is gone

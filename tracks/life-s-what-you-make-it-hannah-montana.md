@@ -77,7 +77,7 @@ It's under your control
 So let the good times rock and roll! (Auu!)
 (Come on everybody!)
 D-d-d-do it now!
-Aaaaaah!
+Ah!
 Alright! (Let's get the party started!)
 Yeah! yeah! yeah!
 (Now thats the party!)

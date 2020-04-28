@@ -38,7 +38,7 @@ I need your
 
 Now throw your arms around me
 Pretend that it's a lovey-dove
-Now you squeeze, ah-squeeze, squeeze, ah-ooh-ah
+Now you squeeze, ah-squeeze, squeeze, ah-oh-ah
 
 I'm gonna get it in the morning sun
 Get it when the day is done

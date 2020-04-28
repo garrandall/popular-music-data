@@ -51,12 +51,12 @@ To fight for you is all I’ve ever known
 So come home
 
 
-Everything i can’t be
+Everything I can’t be
 Is everything you should be
-And that’s why i need you here
-Everything i can’t be
+And that’s why I need you here
+Everything I can’t be
 Is everything you should be
-And that’s why i need you here
+And that’s why I need you here
 So hear this now
 
 

@@ -76,7 +76,6 @@ Creeping home before it got too light
 I wasted all that precious time
 and blamed it on the wine
 
-Chorus:
 
 I was only joking my dear
 Looking for a way to hide my fear
@@ -92,7 +91,6 @@ Giving love unselfishly
 But you took it all too seriously
 I guess it had to end
 
-(Chorus)
 
 Now you ask me if I'm sincere
 That's the question that I always fear

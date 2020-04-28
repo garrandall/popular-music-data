@@ -103,7 +103,7 @@ Oh Lord, why don't we?
 
 (Ebony, ivory)
 (Living in perfect harmony)
-(Ebony, ivory, ooh)
+(Ebony, ivory, oh
 
 We all know
 That people are the same wherever you go

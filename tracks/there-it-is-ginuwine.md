@@ -61,7 +61,7 @@ See there it is (there it is baby)
 That ungrateful shit (that ungrateful shit)
 There you go again, complanin'
 What your aim is
-I dont know but I'm...
+I don't know but I'm...
 
 
 I'm not doing this shit for nothing (no I ain't)
@@ -75,7 +75,7 @@ Listen...
 I do my best to give you what you need
 It seems that
 The harder that I work, the less you see
-Ooh baby (ooh baby)
+Oh baby (oh baby)
 Who wouldn't want the life you lead?
 Just think about it
 Living the good life, yeah

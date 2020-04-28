@@ -143,7 +143,7 @@ They'll still never win
 Deep in my heart
 I know the strength is within
 
-Ooh, yeah
+Oh yeah
 
 
 Too many walls

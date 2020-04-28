@@ -89,9 +89,9 @@ rankings:
   start_date: '1982-02-27'
 ---
 
-Ooh-wah, ooh-wah
-Ooh-wah, ooh-wah
-Ooh-wah, ooh-wah
+Ohwah, ohwah
+Ohwah, ohwah
+Ohwah, ohwah
 Why do fools fall in love
 
 Why do birds sing so gay

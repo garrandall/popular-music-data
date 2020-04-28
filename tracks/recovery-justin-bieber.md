@@ -27,7 +27,7 @@ Make it right
 Make it right
 Make it right
 It's time to do ya right
-Woooooooah woah, wooooooooaaah
+Woah woah, woah
 
 Missin' ya good intentions
 Missin' ya from a distance
@@ -60,7 +60,7 @@ Make it right
 Make it right
 Make it right
 It's time to do ya right
-Woooooooah woah, wooooooooaaah
+Woah woah, woah
 
 Goin' through all the motions
 Tryna find a reason
@@ -93,7 +93,7 @@ Make it right (make it right, make it right)
 Make it right (make it right, make it right)
 Make it right (make it right, make it right)
 It's time to do ya right
-Woooooooah woah, wooooooooaaah
+Woah woah, woah
 
 You know Imma do you right
 You know Imma do you right

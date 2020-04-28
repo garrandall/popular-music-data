@@ -64,25 +64,25 @@ Of losing a love, you can never regain
  Woo-hoo
  Will bring another love their way
 
- Aaah
- But ask the lonely....
- Aaah
+ Ah
+ But ask the lonely...
+ Ah
 How vainly a heart can yearn,
- Aaah
+ Ah
  For losing a love that will never return
 
  Just ask the lonely
- Just ask the lonely....
+ Just ask the lonely...
 They'll tell you
 
- Ooooh, Woo-hoo hoo-hoo
-Ooooooh
+ Oh, Woo-hoo hoo-hoo
+Oh
 
- Aaah
+ Ah
  They'll tell you a story of sadness,
- Aaah
+ Ah
 A story too hard to believe...
- Aaah
+ Ah
  They'll tell you the loneliest one is me
 
  Just ask the lonely
@@ -92,8 +92,4 @@ A story too hard to believe...
 I'm the loneliest one you'll see
 
  Just ask the lonely
-
-
-
-
 

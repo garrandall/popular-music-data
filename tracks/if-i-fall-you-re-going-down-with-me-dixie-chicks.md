@@ -94,7 +94,7 @@ Baby you gotta hold on
 If I fall you're going down with me
 You're going down with me baby if I fall
 You can't take back every little chill you give me
-You're going down with me baby heart and all ooh yeah
+You're going down with me baby heart and all ohyeah
 
 
 We're hanging right on the edge now baby
@@ -107,10 +107,10 @@ It's a long way down but it's too late
 If I fall you're going down with me
 You're going down with me baby if I fall
 You can't take back every little chill you give me
-You're going down with me baby heart and all ooh yeah
+You're going down with me baby heart and all ohyeah
 
 
-Ooh baby I couldn't get any higher
+Ohbaby I couldn't get any higher
 This time I'm willing to dance on the wire
 If I fall, If I fall
 
@@ -118,7 +118,7 @@ If I fall, If I fall
 If I fall you're going down with me
 You're going down with me baby if I fall
 You can't take back every little chill you give me
-You're going down with me baby heart and all ooh yeah
+You're going down with me baby heart and all ohyeah
 
 
 If I fall

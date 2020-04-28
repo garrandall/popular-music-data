@@ -121,9 +121,6 @@ I found out just who I can trust
 Me, Myself, and I not fronting like a phony
 I'm true to the game and I'm down with my homies
 
-
-
-
 You wanna be my homie, well hey I'll tell you something
 Hanging with my crew doesn't really mean nothing
 Blabbing when I get all toured doing my songs
@@ -134,7 +131,7 @@ Just goes to show everybody where I'm coming from
 Hey yo! D' break em off something
 
 So many people wanna hang now that I'm in the rap game
-They say that they're down when they dont even know my name
+They say that they're down when they don't even know my name
 Well I could say that I have many friends
 But a homie is true, through and through until the end
 And ain't a damn thing changed

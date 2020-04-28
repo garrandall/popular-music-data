@@ -57,7 +57,7 @@ I'm still gon' be here in the morning
 No lie
 
 No lie
-Ooh baby, ooh baby
+Oh baby, oh baby
 You set the night on fire
 I'm still gon' be here in the morning
 No lie

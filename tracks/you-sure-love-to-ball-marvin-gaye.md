@@ -33,8 +33,8 @@ rankings:
   start_date: '1974-03-02'
 ---
 
-Ooh Baby please turn yourself around
-Ahh baby so I can love you
+OhBaby please turn yourself around
+Ah baby so I can love you
 Ohh baby baby
 I'll make you feel so good
 Ohh baby just like you want me to
@@ -54,12 +54,12 @@ Since you're my foxy lady, foxy lady
 Ohh baby you sure do love to ball
 Ohh baby you sure do love to ball
 My lady my baby sure does love to ball
-(on my mind there's....)
+(on my mind there's...)
 All I know that if we should ever
 Ever, ever ever ever part
 That one day will surely break my heart
 Got to get ready, got ot get ready
-(ohh)
+(oh)
 Ohh baby You sure do love to ball
 Ohh baby you sure do love to ball
 

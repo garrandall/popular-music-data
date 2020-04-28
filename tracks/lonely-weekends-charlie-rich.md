@@ -100,18 +100,18 @@ Since you left me (since you left me)
 I'm as lonely as I can be
 Oh, those lonely weekends
 
-You said you'd be (ooh-wah) good to me (ooh-wah-wah)
-You said our love (ooh-wah) would never die (ooh-wah-wah)
-You said you'd be (ooh-wah) good to me (ooh-wah-wah)
+You said you'd be (ohwah) good to me (oohah-wah)
+You said our love (ohwah) would never die (oohah-wah)
+You said you'd be (ohwah) good to me (oohah-wah)
 But baby, you didn't even try
 
 Well I'm making alright (Well I'm making alright)
 From Monday morning till Friday night
 Oh, those lonely weekends
 
-You said you'd be (ooh-wah) good to me (ooh-wah-wah)
-You said our love (ooh-wah) would never die (ooh-wah-wah)
-You said you'd be (ooh-wah) good to me (ooh-wah-wah)
+You said you'd be (ohwah) good to me (oohah-wah)
+You said our love (ohwah) would never die (oohah-wah)
+You said you'd be (ohwah) good to me (oohah-wah)
 But baby, you didn't even try
 
 Well I'm making alright (Well I'm making alright)

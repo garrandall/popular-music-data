@@ -48,7 +48,7 @@ I won't be thinking of you, girl
 I'll never try to call you one more time
 Or try to find a way to change your mind
 
-Ooh, you don't love me anymore
+Oh you don't love me anymore
 Oh, baby
 You don't love me anymore
 Baby, please forgive me
@@ -70,7 +70,7 @@ But the wine's gone to my head
 And tomorrow
 I'll remember how you turned to me and said
 
-Ooh, you don't love me anymore
+Oh you don't love me anymore
 Oh, baby
 You don't love me anymore
 I'll have to face it

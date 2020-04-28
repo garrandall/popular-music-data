@@ -125,9 +125,6 @@ There'll be peace when you are done
 Lay your weary head to rest
 Don't you cry no more, no
 
-
-
-
 Carry on, you will always remember
 Carry on, nothing equals the splendor
 Now your life's no longer empty

@@ -56,13 +56,13 @@ That's the time, that's the time
 I love the best
 
 Mellow is the feelin' that I get
-When I see her, mm hmm
+When I see her, mm hm
 When I see her, uh huh
 That's the time, that's the time
 I love the best
 
 Freedom is a word I rarely use
-Without thinkin', mm hmm
+Without thinkin', mm hm
 Without thinkin', uh huh
 Of the time, of the time
 When I've been loved

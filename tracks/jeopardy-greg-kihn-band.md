@@ -110,9 +110,9 @@ It's the lightning, not the thunder
 You never know where it's gonna strike
 
 Our love's in jeopardy, baby
-Ooooh-ooh-oooooh
+Oh-oh-oh
 Our love's in jeopardy, baby
-Ooooh-ooh-oooooh
+Oh-oh-oh
 
 Don't be cute
 Don't be funny now
@@ -128,9 +128,9 @@ I know you're not that strong
 Yeah, yeah
 
 Our love's in jeopardy, baby
-Ooooh-ooh-oooooh
+Oh-oh-oh
 Our love's in jeopardy, baby
-Ooooh-ooh-oooooh
+Oh-oh-oh
 
 
 
@@ -141,13 +141,13 @@ I know you're not that strong
 Yeah, yeah
 
 Our love's in jeopardy, baby
-Ooooh-ooh-oooooh
+Oh-oh-oh
 Our love's in jeopardy, baby
-Ooooh-ooh-oooooh
+Oh-oh-oh
 Our love's in jeopardy (jeopardy), baby
-Ooooh-ooh-oooooh
+Oh-oh-oh
 Our love's in jeopardy (jeopardy), baby
-Ooooh-ooh-oooooh
+Oh-oh-oh
 Love's in jeopardy, baby
 
 

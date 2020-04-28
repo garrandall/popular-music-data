@@ -63,7 +63,7 @@ Je viens de mettre mon sperme dans sa chatte, maintenant elle est mouillée
 J'avais l'habitude de sauter à l'arrière du bus (Ouais), maintenant je saute dans un jet (Ouais)
 J'avais l'habitude de dire au petit bébé, "C'est nous", puis je me suis remis de la merde
 Je l'appréciais bien avant, mais maintenant je l'aime
-La façon dont elle buvait ma salive
+La façon don't elle buvait ma salive
 Ta salope qui te trompe, elle est sous ma couverture, on se câline et on baise
 
 
@@ -75,7 +75,7 @@ Ayy, ma belle, ayy, chérie, ayy, mon bébé, suce mon intimité
 Ferme tes yeux, c'est juste toi et moi et personne
 Ayy, suce-le sur le côté, si on est en public ou dans l'allée (Hey)
 Des sensations avec cette salope (Woo), des sensations sur un jet (Woo)
-Cinq mille coupures, ooh
+Cinq mille coupures, oh
 Elle est aussi mauvaise que possible, sa bouche la fait marcher
 Elle sait qu'elle a eu le déclic
 Avec une chatte de bouche d'incendie (Hey)
@@ -94,11 +94,11 @@ Ces jours-ci, j'équilibre toute la haine avec l'amour
 Ces jours-ci, je verse toute ma douleur dans un verre (Verre)
 Rêveur, c'est juste un effet secondaire quand tu es avec nous (Jeu)
 Du calme, les gars sont juste derrière moi, ils sont sur les nerfs
-Crois-moi, on sort en ville pour amasser (Ooh)
+Crois-moi, on sort en ville pour amasser (Oh
 Les sensations avec cette salope, ils ont surpris que je vivais (C'est la merde)
 Essayer, ne peut pas être tué, essayé neuf fois mais je suis Stilts
 Sauter dans la caisse pour sauter directement avec le fouet
-Aqua dans la caisse, t'as capté (Ooh)
+Aqua dans la caisse, t'as capté (Oh
 
 
 Baiser à l'ouest (Baiser), vendre à l'ouest (Ouais)
@@ -110,7 +110,7 @@ Je viens de mettre mon sperme dans sa chatte, maintenant elle est mouillée
 J'avais l'habitude de sauter de l'arrière du bus (Ouais), maintenant je saute dans un jet (Ouais)
 J'avais l'habitude de dire au petit bébé, "C'est nous" (Ouais), puis je me suis remis de la merde (Ouais)
 Je l'appréciais bien avant, mais maintenant je l'aime
-La façon dont elle buvait ma salive (Wow, wow)
+La façon don't elle buvait ma salive (Wow, wow)
 Ta salope qui te trompe, elle est sous ma couverture, on se câline et on baise
 
 

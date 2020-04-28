@@ -68,6 +68,3 @@ Be your #1 at any sacrifice
 
 Little darlin' I need you...
 
-
-
-

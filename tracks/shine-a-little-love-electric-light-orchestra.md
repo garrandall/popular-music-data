@@ -106,7 +106,3 @@ We're walkin' out into the world tonight.
 We'll do it all again until the break of light.
 And the feelin' in your heart will soon be shinin' in your eyes
 
-
-
-
-

@@ -88,7 +88,3 @@ Was not expecting you
 Let's rap and tap at Crackerbox Palace
 Know that the Lord is well and inside of you
 
-
-
-
-

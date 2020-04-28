@@ -101,7 +101,7 @@ Running with the night
 You were looking so good girl
 Heads were turning
 You and me on the town
-Ooh, we let it all hang out
+Oh, we let it all hang out
 The fire was in us, we were running
 We were gonna go all the way
 And we never had a doubt

@@ -140,10 +140,10 @@ Then you close your mind (Close your, your mind!)
 
 (That man, that man) I'm starting with the man in the mirror
 (That man)
-(Ooh!)
+(Oh!)
 (That man, that man) I'm asking him to change his ways
 (That man, the man)
-(Change his ways, ooh!)
+(Change his ways, oh!)
 And no message could have been any clearer
 If you want to make the world a better place
 Take a look at yourself and then make that

@@ -102,9 +102,6 @@ Yes, I love you
 Ah, how I love you
 Ah, how I love you
 
-
-
-
 Nights in white satin, never reaching the end
 Letters I've written, never meaning to send
 Beauty I've always missed, with these eyes before

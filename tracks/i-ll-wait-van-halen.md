@@ -93,9 +93,6 @@ I'm coming straight for your heart
 No way you can stop me now
 As fine as you are
 
-
-
-
 You can't imagine what your image means
 The pages come alive
 Your magic greets everyone who reads

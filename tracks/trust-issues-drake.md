@@ -54,7 +54,7 @@ So you're the only one
 Oh oh, trust issues
 Oh oh, trust issues
 Oh oh, trust issues
-Oh oh, oh ooh
+Oh oh, oh oh
 
 Yeah, oh yeah, oh yeah
 Let's call up I'm drinking, let's all get wasted

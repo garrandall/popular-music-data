@@ -63,47 +63,47 @@ rankings:
 We have just discovered an important note from space
 The Martians plan to throw a dance for all the human race
 
-Papa ohh mir mir
-Papa ohh mir mir
-Papa ohh mm Papa Papa ohh mir mir
+Papa oh mir mir
+Papa oh mir mir
+Papa oh mm Papa Papa oh mir mir
 
-Papa ohh mir mir
-Papa ohh mir mir
-Papa ohh mm Papa Papa ohh mir mir
+Papa oh mir mir
+Papa oh mir mir
+Papa oh mm Papa Papa oh mir mir
 
-(eeeee-eeee-eeee-eee)
+(ee-ee-ee-ee)
 
 I got into my rocket ship to see the Martian Hop
 I saw the place a shining red, so then I made my stop
 But as I opened up the door and climbed the ladder down
 I saw the Martians on the floor a-dancing to this sound
 
-Eeee-eeee-eeeeee
+Eeee-ee-ee
 The Martian Hop
-Eeee-eeee-eeeeee
+Eeee-ee-ee
 
 It seemed I was the first one there, and so I was surprised
 To see the Martian twist and stomp before my very eyes
 The did the Loco-Motion and the Hully Gully too
 I couldn't name a single dance the Martians wouldn't do
 
-Eeee-eeee-eeeeee
+Eeee-ee-ee
 The Martian Hop
-Eeee-eeee-eeeeee
+Eeee-ee-ee
 
 Now right around the stroke of twelve the dance had just begun
 The Earth kids parked their spaceship down on Mars to have some fun
 And so I left my friends, the Martians, stomping on the ground
 And even though I'm back on earth I still can hear this sound
 
-Eeee-eeee-eeeeee
+Eeee-ee-ee
 The Martian Hop
-Eeee-eeee-eeeeee
+Eeee-ee-ee
 
-Papa ohh mir mir
-Papa ohh mir mir
-Papa ohh mm Papa Papa ohh mir mir
+Papa oh mir mir
+Papa oh mir mir
+Papa oh mm Papa Papa oh mir mir
 
-Papa ohh mir mir
-Papa ohh mir mir
-Papa ohh mm Papa Papa ohh mir mir
+Papa oh mir mir
+Papa oh mir mir
+Papa oh mm Papa Papa oh mir mir

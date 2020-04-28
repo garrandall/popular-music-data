@@ -153,10 +153,10 @@ Where them girls at, girls at?
 So go get them, we can all be friends
 
 
-Day day day da-day day 
-Where my girls at uhh, hmm, uhh
-Where my girls at uhh, hmm, uhh
-Yo, where my girls at uhh, hmm, uhh
+Day day day da-day day
+Where my girls at uhh, hm, uhh
+Where my girls at uhh, hm, uhh
+Yo, where my girls at uhh, hm, uhh
 Yo, where my girls tryna get to jumpin'
 
 

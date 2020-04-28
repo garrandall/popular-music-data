@@ -62,7 +62,7 @@ The Lord is gonna help you feel better, so you ain't gotta cry today
 Sit at the light so long
 And then we gotta move straight forward, cuz we fight so strong
 So when right go wrong
-Just say a little prayer, get ya money man, life goes on!!!
+Just say a little prayer, get ya money man, life goes on!
 Let's HOPE!
 
 
@@ -124,7 +124,7 @@ And ask way are we fulfilling these downfalls and these prophecies
 You can be wrong if it's you doubting
 With the faith of a mustard seed you can move mountains
 And only the heavenly father can ease the hurt
-Just let it go and keep prayin on your knees in church!!
+Just let it go and keep prayin on your knees in church!
 And let's HOPE
 
 

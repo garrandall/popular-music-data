@@ -63,6 +63,3 @@ It knows the best time for new love to start
 Hang on now, meet my heart
 It knows the best time for us to start
 
-
-
-

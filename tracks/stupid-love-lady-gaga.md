@@ -28,13 +28,13 @@ Freak out, freak out, freak out, freak out
 Look at me now
 
 'Cause all I ever wanted was love
-Hey yeah yeah (Ooh ooh)
-Hey yeah yeah (Ooh ooh)
+Hey yeah yeah (Oh oh)
+Hey yeah yeah (Oh oh)
 Hey yeah yeah
 All I ever wanted was love
-Hey yeah yeah (Ooh ooh)
-Hey yeah yeah (Ooh ooh)
-Hey yeah, hey yeah yeah (Ooh yeah, ooh yeah)
+Hey yeah yeah (Oh oh)
+Hey yeah yeah (Oh oh)
+Hey yeah, hey yeah yeah (Oh yeah, oh yeah)
 
 I want your stupid love, love
 I want your stupid love, love
@@ -51,13 +51,13 @@ Freak out, freak out, freak out, freak out
 Look at me now
 
 'Cause all I ever wanted was love
-Hey yeah yeah (Ooh ooh)
-Hey yeah yeah (Ooh ooh)
+Hey yeah yeah (Oh oh)
+Hey yeah yeah (Oh oh)
 Hey yeah yeah
 All I ever wanted was love
-Hey yeah yeah (Ooh ooh)
-Hey yeah yeah (Ooh ooh)
-Hey yeah, hey yeah yeah (Ooh yeah, ooh yeah)
+Hey yeah yeah (Oh oh)
+Hey yeah yeah (Oh oh)
+Hey yeah, hey yeah yeah (Oh yeah, oh yeah)
 
 I want your stupid love, love
 I want your stupid love, love

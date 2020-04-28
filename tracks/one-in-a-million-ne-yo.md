@@ -103,7 +103,7 @@ Diamond girl
 Only one in the world
 Just one of a kind
 She mine
-Ooh all that I can think about is what this thing could be
+Oh all that I can think about is what this thing could be
 A future baby
 Baby you're one of a kind
 That means that you're the only one for me

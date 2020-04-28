@@ -60,18 +60,12 @@ Tell me where, tell me when
 Cause it never should have been at all
 But it looks like it's over
 
-
-
-
 I remember when
 When I was there for you
 Where were you last winter?
 Cause the thoughts run through my mind
 Of all the times you lied
 And that's why it's over
-
-
-
 
 How could you do this to me?
 'Cause now I gotta leave

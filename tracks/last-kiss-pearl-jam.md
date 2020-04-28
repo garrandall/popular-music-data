@@ -124,7 +124,3 @@ I found the love that I knew I had missed.
 Well now she's gone even though I hold her tight,
 I lost my love, my life that night.
 
-
-
-
-

@@ -1,10 +1,12 @@
 ---
 artists:
-- Joe Cocker with Leon Russell
+- Joe Cocker
+- Leon Russell
 - The Shelter People
 features: []
 genres: []
 key: the-letter-joe-cocker-with-leon-russell-the-shelter-people
+lyrics_url: https://www.musixmatch.com/lyrics/Joe-Cocker-feat-Leon-Russell-and-The-Shelter-People/The-Letter
 name: The Letter
 rankings:
 - end_date: '1970-04-24'
@@ -56,4 +58,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-07-04'
 ---
+Give me a ticket for an aeroplane
 
+Give me a ticket for an aeroplane
+I ain't got time to take no fast train
+Oh the lonely days are gone I'm coming home
+My baby she wrote me a letter
+
+I don't care how much I've got to spend
+Oh I'm gonna find my way back home again
+Oh my lonely days are gone I'm coming home
+Yeah my baby, she wrote me a letter
+
+She wrote me a letter
+Said, "She couldn't live without no more"
+Listen to me Mister 
+My baby once more, anyway
+
+I don't care how much I've got to spend
+I'm gonna find my way, way back home again
+Lonely days are gone I'm coming home
+My baby, she wrote me a letter
+
+Well she wrote me a letter
+Said, "She can't live without me no more"
+Listen to me Mister 
+My baby once more, anyway
+
+Give me a ticket for an aeroplane
+I ain't got time, take no fast train
+Oh the lonely days are gone I'm coming home
+My baby she wrote me a letter
+
+My baby wrote me a letter
+My baby wrote me a letter
+My baby wrote me a letter
+...

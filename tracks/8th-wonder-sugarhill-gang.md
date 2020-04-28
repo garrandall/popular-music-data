@@ -48,8 +48,8 @@ rankings:
 
 Clap your hands everybody
 And everybody just clap your hands
-Ahh fly girls, clap your hands
-Ahh fly guys, clap your hands
+Ah fly girls, clap your hands
+Ah fly guys, clap your hands
 
  Well if you're feeling alright and you think you're on
  Ah-somebody let me know
@@ -85,7 +85,7 @@ I knocked her out, with my vicious charm
 I said, "No no baby it's not like that
 Ya see I'm all about makin that cold cold cash"
 Started jivin around, started messin wit her head
-And next thing I know, she wanted to go to 
+And next thing I know, she wanted to go to
 But to turn me on, you got to be the best
 Cause I'm the Master G, I don't take no mess
 Like T-N-T, I'm dynamite
@@ -95,7 +95,7 @@ And check it out girl, you're all alone
 Cause you just been hit by the Capricorn King
 I rocked you gentle, I rocked you/me
 I rocked you in and I rocked you out
-You made me scream but I made you shout 
+You made me scream but I made you shout
 
 
 Go dang diddy dang di-dang di-dang diggy diggy
@@ -115,7 +115,7 @@ Ah let's make this party the real Cold Crush
 Let's scream, and let's shout
 Ah let's turn this function out
 and keep keep it on, but you don't quit
-Let's make the party the sure 
+Let's make the party the sure
 
 
 Once upon a time not long ago
@@ -151,8 +151,8 @@ Somebody say, Sugarhill! (SUGARHILL!)
 Sugarhill! (SUGARHILL!)
 
 
-Ahh ahh, and let your worries take a chill pill
-You go ahh, ahh, ah ahh oh ooh
+Ah ah, and let your worries take a chill pill
+You go ah, ah, ah ah oh oh
 
 
 Chicka-pow!
@@ -189,7 +189,7 @@ Let's make this party the real Cold Crush
 Let's scream, ah let's shout
 Ah let's turn this function out
 and keep keep it on, but you don't quit
-Ah let's make this party the sure 
+Ah let's make this party the sure
 
 
 Well I'm the Master G, and I'm the best
@@ -208,11 +208,11 @@ Shake it, ah don't break it
 Cause I know we can make make make it
 
 
-You go ah, ahh, ah ah oh ooh
+You go ah, ah, ah ah oh oh
 And if you're ready to party and you're ready to jam
 Scream it out and say, I am! (I AM!)
 Some-body! (SOME-BODY!) Now you know you're hot
-You go ah, ahh, ah ah oh ooh
+You go ah, ah, ah ah oh oh
 
 (Say what?)
 
@@ -236,7 +236,7 @@ To the beat beat beat
 
 Chicka-pow, ah huh huh huh huh huh, rrrrh, rrrrrrrrrrrrrrrrah!
 There you go, hah hah hah!
-Ahh, ahh girl, yeah baby
+Ah, ah girl, yeah baby
 To rock your world, ooooaaah, ooooaaah
 Pick it up, bring it up get down
 Hoo, hah, hoo, hah

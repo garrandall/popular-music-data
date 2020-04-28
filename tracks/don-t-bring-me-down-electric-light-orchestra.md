@@ -74,7 +74,7 @@ You got me thinking that I'm wasting my time
 
 Don't bring me down
 No, no, no, no, no
-Ooh-ooh-hoo
+Oh-ohhoo
 I'll tell you once more before I get off the floor
 Don't bring me down
 
@@ -85,7 +85,7 @@ I'm telling you, it's got to be the end
 
 Don't bring me down
 No, no, no, no, no
-Ooh-ooh-hoo
+Oh-ohhoo
 I'll tell you once more before I get off the floor
 Don't bring me down
 
@@ -102,7 +102,7 @@ You let your mind out somewhere down the road
 
 Don't bring me down
 No, no, no, no, no
-Ooh-ooh-hoo
+Oh-ohhoo
 I'll tell you once more before I get off the floor
 Don't bring me down
 
@@ -113,7 +113,7 @@ One of these days, you're gonna get it right
 
 Don't bring me down
 No, no, no, no, no
-Ooh-ooh-hoo
+Oh-ohhoo
 I'll tell you once more before I get off the floor
 Don't bring me down
 
@@ -130,7 +130,7 @@ One of these days, you're gonna break your glass
 
 Don't bring me down
 No, no, no, no, no, no, no, no, no
-Ooh-ooh-hoo
+Oh-ohhoo
 I'll tell you once more before I get off the floor
 Don't bring me down
 
@@ -141,7 +141,7 @@ You got me crawling up to you everyday
 
 Don't bring me down
 No, no, no, no, no
-Ooh-ooh-hoo
+Oh-ohhoo
 I'll tell you once more before I get off the floor
 Don't bring me down, down, down, down, down, down
 

@@ -50,9 +50,9 @@ Who do you think that you're fooling?
 John Doe, I just want the John I know
 Once you put the drinks on hold
 Maybe you could come back home
-John Doe, ooh oh oh oooh
-Oooh oh oh ohooh oooh
-Oooh oh oh ohooh oooh
+John Doe, oh oh oh oh
+Oh oh oh ohooh oh
+Oh oh oh ohooh oh
 
 
 Everybody's addicted to something
@@ -77,9 +77,9 @@ So what you hiding?
 John Doe, I just want the John I know
 Once you put the drinks on hold
 Maybe you could come back home
-John Doe, ooh oh oh oooh
-Oooh oh oh ohooh oooh
-Oooh oh oh ohooh oooh
+John Doe, oh oh oh oh
+Oh oh oh ohooh oh
+Oh oh oh ohooh oh
 
 
 Yeah, I've probably had too many things
@@ -114,9 +114,9 @@ Now, I can see it - it's optical
 John Doe, I just want the John I know
 Once you put the drinks on hold
 Maybe you could come back home
-John Doe, ooh oh oh oooh
-Oooh oh oh ohooh oooh
-Oooh oh oh ohooh oooh
+John Doe, oh oh oh oh
+Oh oh oh ohooh oh
+Oh oh oh ohooh oh
 
 
 

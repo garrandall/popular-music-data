@@ -233,7 +233,7 @@ On est vendredi soir et je serai pas longue(J'aime les plaisirs faciles)
 
 Jusqu'à ce que j'embrase le dance floor (Bada bang bang)
 J'embrase le dance floor (Bada bang)
-J'ai tout ce dont j'ai besoin
+J'ai tout ce don't j'ai besoin
 Non je n'ai pas besoin d'argent, non je n'ai pas besoin d'argent
 Mais je t'ai bébé
 (Seulement toi et moi)
@@ -261,7 +261,7 @@ On est samedi soir et je serai pas longue
 
 Jusqu'à ce que j'embrase le dance floor (Bada bang bang)
 J'embrase le dance floor (Bada bang)
-J'ai tout ce dont j'ai besoin (Sia)
+J'ai tout ce don't j'ai besoin (Sia)
 Non je n'ai pas besoin d'argent, non je n'ai pas besoin d'argent
 Mais je t'ai bébé
 (Seulement toi et moi)
@@ -288,7 +288,7 @@ Tu me fais voir ce que t'as et ça m'affaiblit meuf (Libre)
 Parce-qu'à chaque fois que tu te trémousses et déchires ça
 Le dj force le truc et le fait rejouer, meuf
 Je vais pas m'emparer d'un dollar dans ma poche
-Car rien de ce monde ne vaut plus que ta valeur (J'aime les plaisirs faciles !)
+Car rien de ce monde ne vaut plus que ta valeur (J'aime les plaisirs faciles!)
 
 
 Je n'ai pas besoin d'argent

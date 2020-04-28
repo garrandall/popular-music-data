@@ -44,9 +44,6 @@ Good times, bad times, you know I've had my share
 When my woman left home for a brown eyed man
 Well, I still don't seem to care
 
-
-
-
 Good times, bad times, you know I've had my share
 When my woman left home for a brown eyed man
 Well, I still don't seem to care

@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: better-tell-him-no-the-starlets
+lyrics_url: https://genius.com/The-starlets-better-tell-him-no-lyrics
 name: Better Tell Him No
 rankings:
 - end_date: '1961-04-30'
@@ -71,4 +72,47 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
 ---
+Mama. (what?) I want to ask you something
+Yeah?
 
+Mama if I meet a real fine boy
+And he says that I'm his pride and joy
+Or if he walks me in the 
+Oh and he say he want to hold me tight
+What might I say, mama, oh tell me what must I say? (What must I say)?
+
+Tell him no, girl, tell that man
+Tell him no make him understand
+Unless he’s got a preacher in his plans
+Tell him no, you better tell him no
+
+But mama if he say he loves me so
+And he say he'll never let me go
+Or if he tell me that tonight's the night
+And that he’s gonna make me see the light
+What must I say, oh tell me, mama, what must I say?
+
+Tell him no girl and take my advice
+Keep his hands off the merchandie
+Unless he's thinking about  and rice
+Tell him no, you better tell him no
+
+Supposin he's fine
+Girl I hate to see you cryin
+If he go he won't come back
+There's another train moving on the very same track
+
+But maybe maybe I can't let him go
+Or maybe when he stay I feel that glow
+If I tell him no with all my might
+Oh still he say he want to hold me tight
+What must I say, mama oh tell me what must I say
+
+Tell him no girl and play your part
+Don't want to see you with a broken heart
+Or get the ring from the romance scar
+Tell him no you better tell him no
+
+Tell him no, girl, tell him no
+Tell him no, girl, tell him no
+Tell him no, girl, tell him no

@@ -96,10 +96,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-09-29'
 ---
-Y-y-yeaaaaaaah!
-Y-y-yeaaaaaaah!
-Y-y-yeaaaaaaah!
-Y-y-yeaaaaaaah!
+Y-y-yeah!
+Y-y-yeah!
+Y-y-yeah!
+Y-y-yeah!
 (T-t-t-totally duuuude!)
 
 Party like a rock - party like a rock star
@@ -114,7 +114,7 @@ I'm tryna grab and hold my pants but these hoes won't let my thang go
 I DO like I DO, cause you know da hoes be tryin dat
 Ho don't you know I fuck wit fine dimes that look like Pamela
 They fine and they hot brah, when I'm in the spot, brah... (yeah..)
-I PARTY LIKE A ROCKSTAAAAAR!!
+I PARTY LIKE A ROCKSTAAAAAR!
 
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
@@ -127,11 +127,11 @@ Party like a rockstar (T-t-t-totally duuuude!)
 
 IIIII... (IIII...) - party like a rock star
 Do it wit the black, and the white, like a cop car
-(Yeaaaaaaah!) WHOOP, WHOOP! Me and my band, man
+(Yeah!) WHOOP, WHOOP! Me and my band, man
 On the yacht wit Marilyn Manson, gettin a tan maaaan!
 (Cool!) You know me, wit a skull belt and wallet chain
 Shop Boyz, rock stars, yeah we bout to change the game
-(Change the game? Uh ohhhhhhhhhhh!)
+(Change the game? Uh oh!)
 They know that I'm a star (I'm a star)
 I make it rain from the center of my gui-tar
 
@@ -151,7 +151,7 @@ I'm jumpin in the crowd just to see if they would carry me
 Bitches wanna marry me, they see me they just might panic
 My ice make em go down quick, like the Titanic!
 Yeah, I'm wit Da Shop Boyz, you know what we do
-I'm surfin screamin "Cowabonga, TOTALLY DUUUDE!!"
+I'm surfin screamin "Cowabonga, TOTALLY DUUUDE!"
 
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star

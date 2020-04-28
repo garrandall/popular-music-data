@@ -41,7 +41,7 @@ It's your boy! (Oh)
 Daddy Yankee!
 All my latinos stand up! (Oh)
 Narcando la historia
-Caminen conmigo en esta (Ooh-ooh-oh)
+Caminen conmigo en esta (Ohohoh)
 Holla back
 You know how we do, man!
 

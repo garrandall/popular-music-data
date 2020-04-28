@@ -59,7 +59,7 @@ And just as soon as you get naked, making love
 
 
 Oh baby, let's get naked (Yeah), just so we can make sweet love (Whoa)
-All these sensations (Ooh) got me going crazy for you
+All these sensations (Oh got me going crazy for you
 Inside on top of you, grinding inside and out of you
 Baby, I know what to do, baby, I know what to do
 (And girl, I know what to do)

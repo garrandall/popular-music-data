@@ -58,7 +58,7 @@ Never let me go
 
 Lovey dovey
 Lovey dovey all the time, uh uh
-Ooh, baby, I can't get you
+Oh, baby, I can't get you
 Out of my mind, oh, no
 
 I cry with feeling

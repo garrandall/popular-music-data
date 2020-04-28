@@ -94,7 +94,7 @@ And it's always been one of my favorite songs
 And I hope it's yours
 It's called, "I'll be there"
 
-Ooh, ooh
+Oh, oh
 
 
 You and I must make a pact
@@ -157,8 +157,8 @@ And I'll be there
 Just look over your shoulder
 Just call my name (Yeah)
 And I'll be there
-(Ooh-ooh, ooh)
-(Ooh-ooh, ooh)
+(Oh-oh ooh
+(Oh-oh ooh
 
 
 Thank you

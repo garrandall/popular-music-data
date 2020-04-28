@@ -49,7 +49,7 @@ Anything I'm saying,
 Even though the night is filled with voices?
 
 I remember ev'rything you taught me
-Ev'ry book I've ever read.
+Every book I've ever read.
 Can all the words in all the books
 Help me to face what lies ahead?
 The trees are so much taller

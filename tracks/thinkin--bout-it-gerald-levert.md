@@ -123,7 +123,6 @@ Yes pay backs a mother baby
 Oh why tell me why whey are you so freaky
 Tell me why, why are you so freaky
 
-Chorus
 
 Ad-lib
 

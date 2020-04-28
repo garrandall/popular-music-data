@@ -48,7 +48,7 @@ But I'll be standing by
 So you just better try
 And don't make my baby blue
 
-Ooh that little girl's an angel
+Oh that little girl's an angel
 And it hurts to
 Set her free
 So you better take

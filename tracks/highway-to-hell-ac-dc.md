@@ -84,9 +84,6 @@ Highway to hell
 Don't stop me
 Heh, heh!
 
-
-
-
 I’m on the highway to hell
 On the highway to hell
 Highway to hell

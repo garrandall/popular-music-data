@@ -21,29 +21,29 @@ rankings:
   start_date: '1977-02-12'
 ---
 
-Hey, hey, baby, i wanna know
+Hey, hey, baby, I wanna know
 If you'll be my girl;
-Hey, hey, baby, i wanna know
+Hey, hey, baby, I wanna know
 If you'll be my girl.
 
-When i saw you walking down the street,
-I said, "that's the kind of girl i just like to meet."
+When I saw you walking down the street,
+I said, "that's the kind of girl I just like to meet."
 She's so pretty, lord, she's so fine,
 I'm gonna make her mine, mine.
 
-I said, "hey, hey, baby, i wanna know
+I said, "hey, hey, baby, I wanna know
 If you'll be my girl."
 
 When you turned and walked away,
-That's when i wanna say,
+That's when I wanna say,
 "come on, baby, give me a whirl,
 I wanna know if you'll be my girl."
 
-I said, "hey, hey, baby, i wanna know
+I said, "hey, hey, baby, I wanna know
 If you'll be my girl."
 
 When you turned and walked away,
-That's when i wanna say,
+That's when I wanna say,
 "come on, baby, give me a whirl,
 I wanna know if you'll be my girl."
 
@@ -53,10 +53,10 @@ All right, be my girl.
 
 -"let me hear it one time, boys!"
 
-Hey, (hey, hey) hey baby, i wanna know
+Hey, (hey, hey) hey baby, I wanna know
 If you'll be my girl.
 
-Hey, (hey, hey) hey baby, i wanna know
+Hey, (hey, hey) hey baby, I wanna know
 If you'll be my girl.
 
 Hey, (hey) all right, oh!

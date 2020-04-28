@@ -68,9 +68,6 @@ Heltah Skeltah smirks while you're getting torn apart
 Here come the rude bwoys with the ganja plants
 Smif-N-Wessun generals of the Boot Camp
 
-
-
-
 Another murderer, just another prankster
 Rude bwoy dead cause him thought him was a gangster
 Tried to live the life of a hood from the streets

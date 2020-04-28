@@ -99,7 +99,7 @@ You ain't nothing like the girl I used to know
 Good with ma, good with pa, cool with all my niggas (My niggas)
 I should try, truth is I wanna let you in, but (No)
 Damn these memories (Uh), and it's crazy (Uh)
-You ain't nothing like the girl I used to know (Ooh)
+You ain't nothing like the girl I used to know (Oh)
 
 
 Girl, I really wanna work this out 'cause I'm tired of fighting (Tired of fighting)
@@ -149,7 +149,7 @@ Don't wanna mess this up, better keep your eye on me, girl
 Don't wanna mess this up, better keep your eye on me, girl
 Don't wanna mess this up, better keep your eye on me, girl
 I don't wanna be stuck off in this cold, cold world ('Cause I don't wanna be)
-Don't wanna mess this up, better keep your eye on me, girl (Ooh, ooh-ooh)
+Don't wanna mess this up, better keep your eye on me, girl (Oh, oh-oh)
 Don't wanna mess this up, better keep your eye on me, girl (Keep your eye on me)
 Don't wanna mess this up, better keep your eye on me, girl (Girl, oh)
 
@@ -164,7 +164,7 @@ I said I got this icebox where my heart used to be
 Got this icebox where my heart used to be (No)
 I'm so cold, I'm so cold, I'm so cold, I'm so cold (No)
 I'm so cold, I'm so cold, I'm so cold (Yeah)
-Now I got this icebox where my heart used to be (Ooh)
+Now I got this icebox where my heart used to be (Oh)
 I got this icebox where my heart used to be (Oh)
 I'm so cold, I'm so cold, I'm so cold, I'm so cold (No)
 I'm so cold, I'm so cold, I'm so cold

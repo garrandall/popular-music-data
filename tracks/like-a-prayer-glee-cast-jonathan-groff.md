@@ -71,7 +71,7 @@ You're here with me, it's like a dream
 
 
 Let the choir sing
-Ooh
+Oh
 
 
 When you call my name
@@ -106,7 +106,7 @@ Just like a prayer (Oh)
 Your voice can take me there (Oh)
 Just like a muse to me (Oh)
 You are a mystery (Oh)
-Just like a dream (Oooh)
+Just like a dream (Oh)
 You are not what you seem
 
 
@@ -124,22 +124,22 @@ It's like a dream to me (Just like a dream to me)
 Just like a prayer, I'll take you there (Ohh!)
 It's like a dream to me (Like a dream, like a dream)
 Just like a prayer, I'll take you there (I'll take you there!)
-It's like a dream to me (Oooh, yeah!)
+It's like a dream to me (Oh, yeah!)
 
 
 Life is a mystery (Just like a prayer)
 Everyone must stand alone (Your voice can take me there)
 
 
-(Oooh)
+(Oh)
 
 
 I hear you call my name (I hear it call)
 And it feels like home
 
 
-Just like a prayer (Just like) (Ooh)
-Your voice can take me there (A prayer) (Ooh)
+Just like a prayer (Just like) (Oh
+Your voice can take me there (A prayer) (Oh
 Just like a muse to me (Your voice can take me there)
 You are a mystery (Take you there, take you there)
 
@@ -149,7 +149,7 @@ You are not what you seem
 Just like a prayer (Oh, woah)
 No choice, your voice can take me there (Yeah)
 Just like a prayer (Yeah, yeah)
-Your voice can take me there (Oooh)
+Your voice can take me there (Oh)
 
 
 Just like a dream (Just like)

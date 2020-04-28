@@ -93,7 +93,7 @@ rankings:
 Dis baby doin' everybody say A Bay Bay
 
 
-A Bay Bay, A Bay Bay, A Bay Bay 
+A Bay Bay, A Bay Bay, A Bay Bay
 
 
 You wanna know what we say in da club (A Bay Bay)
@@ -102,7 +102,7 @@ Stuntin with a stacks of dem dubs (A Bay Bay)
 Ridin in the lac' with a mug (A Bay Bay)
 
 I'm in da club hollerin
-A Bay Bay, A Bay Bay, A Bay Bay, A Bay Bay, A Bay Bay 
+A Bay Bay, A Bay Bay, A Bay Bay, A Bay Bay, A Bay Bay
 I'm in da club hollerin
 
 
@@ -133,9 +133,6 @@ You wanna know what we say
 When the clubs get crunk (wat) A Bay Bay
 Let it play that's my song turn it up
 
-
-
-
 Now if you lookin for me baby
 You can find me bangin in the chevy
 Candy painted swangin 90
@@ -163,9 +160,6 @@ Well tell me why you leanin on me
 And if you thankin I'm a stunt you trippin
 I pulled up in an expedition with the roof missin
 
-
-
-
 A Bay Bay let it play that's my song turn it up
 I'm in the club hot, crunk, sweatin, burnin up
 I'm bouncin thru the crowd
@@ -185,7 +179,7 @@ And put the keys in the wrong car
 
 
 
-A Bay Bay let it play that's my song turn it up hey 
+A Bay Bay let it play that's my song turn it up hey
 
 
 

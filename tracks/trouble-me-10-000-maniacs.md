@@ -85,9 +85,6 @@ Know where the hurt is and how to heal
 Spare me?
 Don't spare me anything troubling
 
-
-
-
 Speak to me
 And let our words build a shelter from the storm
 Lastly

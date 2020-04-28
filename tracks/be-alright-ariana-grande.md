@@ -60,6 +60,6 @@ We decide it
 
 
 We're gonna be alright
-We're gonna be alright, ooh, baby
+We're gonna be alright, oh baby
 We're gonna be alright
 We're gonna be alright

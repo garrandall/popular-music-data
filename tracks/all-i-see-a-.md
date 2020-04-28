@@ -81,7 +81,7 @@ Had to get to know cause there's things I got to show you
 Forget them other brothers
 They know lines that they told you
 Now you're acting all shy
-Hmm, I wonder why
+Hm, I wonder why
 Everytime I look at you
 You turn and drop your eye
 
@@ -133,7 +133,7 @@ Show me love
 I can't get you out of my mind
 Think about you all of the time
 Got to get to know you, babe
-Baby, oh.....
+Baby, oh...
 
 
 I'm glad I made my move

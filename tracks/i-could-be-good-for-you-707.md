@@ -49,7 +49,6 @@ Searching in vain for a closer friend
 Love isn't blind, and you're not alone
 Those heart-breaking days may have reached an end
 
-Chorus:
 I could be good for you, my my
 I could be good for you, my my
 So you're star-struck, living for the stage
@@ -57,12 +56,10 @@ You need a change of luck, that can be arranged
 Consider your fate, think about your age
 There's no time to wait for your luck to change
 
-(chorus)
-(Solo)
 What you do now isn't my concern
 Just let me know how you survive out there
 I want you to know, I may not return
 If you care to go, I'll take you anywhere
 
-(chorus repeats 2x) - my my my
+my my my
 I could be good for you, I could be good for you

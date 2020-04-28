@@ -55,9 +55,6 @@ The world was spinning like a ball
 And then it wasn't there at all
 And as my heart began to fall
 
-
-
-
 I saw her walking on the water
 As the sharks were comin' for me
 I felt Mandy pull me up, give me the kiss of life

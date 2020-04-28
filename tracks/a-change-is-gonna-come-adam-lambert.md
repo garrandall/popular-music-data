@@ -38,7 +38,7 @@ Everybody  keep telling me don't come around
 
 
 It's been a long time coming
-But I know a change is gonna come, oh, ooh, yeah
+But I know a change is gonna come, oh, oh, yeah
 
 
 Back down on my knees

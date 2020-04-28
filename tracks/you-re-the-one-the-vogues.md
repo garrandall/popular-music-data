@@ -67,7 +67,7 @@ You're the one that I'm dreamin' of
 Baby, you're the one that I love
 
 Keep me in your heart, never let us part
-Ooh, never leave me, please don't deceive me
+Oh, never leave me, please don't deceive me
 I want you only, you must believe me
 
 You're the one that I long to kiss
@@ -85,8 +85,8 @@ You're the one
 Yeah, yeah
 
 There may be some tears through the comin' years
-Ooh, all the while I know you'll be smilin'
-Your love will guide me through ev'ry mile 'cause
+Oh, all the while I know you'll be smilin'
+Your love will guide me through every mile 'cause
 
 You're the one that I long to kiss
 Baby, you're the one that I really miss

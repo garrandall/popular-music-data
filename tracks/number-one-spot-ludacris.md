@@ -140,10 +140,6 @@ These women tryin to get me out my Pelle Pelle
 They strip off my clothes and tell me, "Get in my belly!"
 Stay on the track, hit the ground runnin like Flo-Jo
 Sent back in time and I've never lost my mojo
-Ladies and gentlemen ahh, boys and girls
+Ladies and gentlemen ah, boys and girls
 Ludacris sent down to take over the whole world!
-
-
-
-
 

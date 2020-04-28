@@ -101,7 +101,7 @@ Make a record about doin' drugs and name it after her
 (Oh, thank you)
 You know you blew up when the women rush your stands
 And try to touch your hands like some screamin' Usher fans
-(Ahh, ahh, ahh)
+(Ah, ah, ah)
 This guy at White Castle asked for my autograph (Dude, can I get your autograph?)
 So I signed it, "Dear Dave, thanks for the support, asshole"
 

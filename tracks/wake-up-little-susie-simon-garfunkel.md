@@ -60,7 +60,7 @@ The movie's over, it's four o'clock and we're in trouble deep
 
 Wake up little Susie, wake up little Susie
 Well, what're we gonna tell your mama, what're we gonna tell your papa
-What're gonna tell our friends when they say 'ooh la la'
+What're gonna tell our friends when they say 'oh la la'
 Wake up little Susie, wake up little Susie
 
 Well, I told your mama that you'd be in by ten

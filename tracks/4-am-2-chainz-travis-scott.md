@@ -93,18 +93,18 @@ Drop off a bag of some dangerous (yeah)
 I'ma hit you, 4 AM, see if you make it (yeah)
 
 
-I dropped ColleGrove out the sky, ooh
-In a group with the best rapper that's alive, ooh
-Never turn my back on my slime, ooh
-I ain't wanna fuck the bitch but she was fine, ooh
-Hold up baby, let me take my time, ooh
-Hard to get some head and try to drive, ooh
-Jumpin' out the cake and that's surprisin', ooh
-Pickin' up the duffel bag like exercisin', ooh
-Bought mama new house 'cause she deserve it, ooh
-Practice makes perfect but nobody's perfect, ooh
-Escobar is not open for service, ooh
-Send you to doctor Miami for your surgery, ooh
+I dropped ColleGrove out the sky, oh
+In a group with the best rapper that's alive, oh
+Never turn my back on my slime, oh
+I ain't wanna fuck the bitch but she was fine, oh
+Hold up baby, let me take my time, oh
+Hard to get some head and try to drive, oh
+Jumpin' out the cake and that's surprisin', oh
+Pickin' up the duffel bag like exercisin', oh
+Bought mama new house 'cause she deserve it, oh
+Practice makes perfect but nobody's perfect, oh
+Escobar is not open for service, oh
+Send you to doctor Miami for your surgery, oh
 
 
 Okay, you popped up on me by surprise (yeah, yeah)
@@ -118,14 +118,14 @@ Drop off a bag of some dangerous (yeah)
 I'ma hit you, 4 AM, see if you make it (yeah)
 
 
-Ooh, Riccardo Tisci on the crewneck
-Ooh, On a killin' rapper spree and nigga, you next
-Ooh, they talkin', chillin', watchin' Netflix
-Ooh, I used to trap and watch bootlegs
-Ooh, I'm on my wave like a durag
-Ooh, I see your boo, now where your crew at?
-Ooh, talkin' tequila for the pipe-up
-Ooh, I hope you got a clean vagina, yeah
+Oh Riccardo Tisci on the crewneck
+Oh On a killin' rapper spree and nigga, you next
+Oh they talkin', chillin', watchin' Netflix
+Oh I used to trap and watch bootlegs
+Oh I'm on my wave like a durag
+Oh I see your boo, now where your crew at?
+Oh talkin' tequila for the pipe-up
+Oh I hope you got a clean vagina, yeah
 Drench God, drench God, really
 Represent and we the squad, really
 Tec got the Rollie, now I get it

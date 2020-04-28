@@ -60,14 +60,14 @@ Words and Music by Bernie Lowe, Kal Mann, and Dave Appell
 
 (Good time baby -yeah)
 
-My chick's dynamite, kicks, kicks ev'ry night
+My chick's dynamite, kicks, kicks every night
 Good time baby--- let's go crazy
 You're such a thrill to kiss
 Too much when we twist
 Good time baby, I'm gonna stick with you
 
 You're a real cool baby and I don't mean maybe
-And when I'm with you everything we do moves me to my soul (hmm)
+And when I'm with you everything we do moves me to my soul (hm)
 Yeah yeah super-fine make sure you're all mine
 Good time baby I love you yes I do'Whoa
 
@@ -79,7 +79,7 @@ And when I'm with you everything we do moves me to my soul'yay
 Yeah, you're mine, super fine make sure you're all mine
 Good time baby, I love you yes I do
 
-Yeah, my chick's dynamite, kicks, kicks ev'ry night
+Yeah, my chick's dynamite, kicks, kicks every night
 Good time baby, I love you yes I do'yeah-oh
 Good time, good time baby
 I really love you-oh yes I do

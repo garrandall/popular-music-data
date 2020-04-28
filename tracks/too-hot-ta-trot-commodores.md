@@ -78,7 +78,7 @@ My head is spinnin
 With what you're doin to me
 Girl I want you, girl I love you
 
-Ooh I love what you're doin to me sweet thing
+Oh I love what you're doin to me sweet thing
 Oh I love you little sweet thing
 Well you're too hot ta trot now baby
 Well you're too hot ta stop whoo baby

@@ -76,5 +76,5 @@ Every day, every night
 It's all right
 It's all right with me
 Gonna have a baby
-Ooh wee, gonna have a baby
+Ohwee, gonna have a baby
 Oh, me, oh, my...

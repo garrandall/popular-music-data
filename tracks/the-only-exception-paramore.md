@@ -126,11 +126,11 @@ I've got a tight grip on reality,
 But I can't let go of what's in front of me here.
 I know you're leaving in the morning when you wake up.
 Leave me with some kind of proof it's not a dream.
-Oh-oh-oh-ohhh.
+Oh-oh-oh-oh.
 
-You are the only exception. 
+You are the only exception.
 
-You are the only exception. 
+You are the only exception.
 
 And I'm on my way to believing.
 Oh, and I'm on my way to believing.

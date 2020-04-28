@@ -131,9 +131,6 @@ I'm begging you, baby
 I need you back
 Because I'm still in love with you
 
-
-
-
 I sit here all alone just thinking
 How our love could be
 But everytime I call you up

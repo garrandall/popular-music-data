@@ -37,9 +37,6 @@ Enough! it's time to get up!
 We gotta carry on (carry on)
 Let's carry on (carry on)
 
-
-
-
 Like a rose in the summer
 In the midst of thorns
 Our love must grow

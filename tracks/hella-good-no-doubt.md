@@ -116,10 +116,10 @@ You got me feelin' hella good so let’s just keep on dancin'
 (Keep on dancin')
 
 
-Ooh, yeah yeah!
-Ooh, yeah yeah!
+Oh, yeah yeah!
+Oh, yeah yeah!
 (Oh!)
-(I might've thought that but I've been trapped by what happened) 
+(I might've thought that but I've been trapped by what happened)
 
 
 You got me feelin' hella good so let’s just keep on dancin'

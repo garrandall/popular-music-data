@@ -85,9 +85,6 @@ I'll be your lover
 Under the water
 I could be standing to make it easier
 
-
-
-
 I could be your lover
 Chained under the water
 Under the water

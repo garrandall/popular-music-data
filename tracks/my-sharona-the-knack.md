@@ -112,9 +112,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-05-07'
 ---
-Ooh, my little pretty one, pretty one
+Oh my little pretty one, pretty one
 When you gonna give me some time, Sharona?
-Ooh, you make my motor run, my motor run
+Oh you make my motor run, my motor run
 Gun it coming off of the line, Sharona
 
 
@@ -156,6 +156,6 @@ M-m-m-my Sharona
 
 
 
-Oooooh, my Sharona
-Oooooh, my Sharona
-Oooooh, my Sharona
+Oh, my Sharona
+Oh, my Sharona
+Oh, my Sharona

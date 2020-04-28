@@ -80,10 +80,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-01-12'
 ---
-Oh oh oh oh oh ooh
+Oh oh oh oh oh oh
 Why do you have to go?
 Away from all
-Me love. (2x)
+Me love.
 
 
 See the first time me looking at your eyes
@@ -99,11 +99,11 @@ Cause we had to see you leave (You leave)
 
 I feel like I'm drowning in the ocean
 Somebody come and take me away
-Oh oh oh oh oh ooh
+Oh oh oh oh oh oh
 Why do you have to go?
 Away from all
 Me love
-Oh oh oh oh oh ooh
+Oh oh oh oh oh oh
 Why do you have to go?
 Away from all
 Me love
@@ -122,12 +122,9 @@ It's been two years an a half in july will make it three. (Make it three)
 Why you leave me, w-why you leave me?
 Baby tell me, b-baby tell me
 Why you leave me, w-why you leave me?
-Why you leave me? (2x)
+Why you leave me?
 
-
-
-
-Oh oh oh oh oh ooh
+Oh oh oh oh oh oh
 (Why you leave me, w-why you leave me)
 (Baby tell me, b-baby tell me)
 Why'd you have to go?

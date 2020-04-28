@@ -77,7 +77,7 @@ Baby, I'm satisfied
 Oh, I remember like it was yesterday
 
 So stop pretending
-Ooh, baby
+Oh, baby
 Didn't you hear me say
 
 Not another lonely night
@@ -92,13 +92,13 @@ You know
 Not too long ago
 You used to hold me tight
 So then, let me know before you go
-Ooh, baby
+Oh, baby
 What's on your mind
 
 Oh, oh
 I remember like it was yesterday
 So stop pretending
-Ooh, baby
+Oh, baby
 Didn't you hear me say
 
 Baby, without you

@@ -71,4 +71,3 @@ So I Turn Around
 And Head For the Light
 And Now I'm On My Way
 
-Chorus

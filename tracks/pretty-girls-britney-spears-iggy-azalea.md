@@ -120,7 +120,7 @@ But busy Iggy wouldn't even give 'em one more glance
 
 See, it's a thin line between the beauty and the beast
 Slim waist, thick cake, the whole world want a piece
-Bad girl, good (ooh) would make you lose your mind
+Bad girl, good (oh) would make you lose your mind
 All of the boys begging Britney, hit 'em one more time
 Iggs
 

@@ -128,8 +128,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
 ---
-Ooh, I fall apart
-Ooh, yeah, mmm, yeah
+Oh I fall apart
+Oh yeah, mmm, yeah
 
 
 She told me that I'm not enough (Yeah)
@@ -140,11 +140,11 @@ Now there's so many thoughts goin' through my brain (Yeah)
 And now I'm takin' these shots like it's Novocaine, yeah
 
 
-Ooh, I fall apart
+Oh I fall apart
 Down to my core
-Ooh, I fall apart
+Oh I fall apart
 Down to my core
-Ooh, didn't know it before
+Oh didn't know it before
 Surprised when you caught me off guard
 All this damn jewelry I bought
 You was my shorty, I thought
@@ -161,11 +161,11 @@ You said it, no, you said it
 No, you said that shit, we'd be together, oh
 
 
-Ooh, I fall apart
+Oh I fall apart
 Down to my core
-Ooh, I fall apart
+Oh I fall apart
 Down to my core
-Ooh, didn't know it before
+Oh didn't know it before
 Surprised when you caught me off guard
 All this damn jewelry I bought
 You was my shorty, I thought
@@ -181,11 +181,11 @@ All these scars, can't help from showin'
 Whippin' in the foreign and the tears keep blowin', yeah
 
 
-Ooh, I fall apart
+Oh I fall apart
 Down to my core
-Ooh, I fall apart
+Oh I fall apart
 Down to my core
-Ooh, didn't know it before
+Oh didn't know it before
 Surprised when you caught me off guard
 All this damn jewelry I bought
 You was my shorty, I thought

@@ -92,9 +92,6 @@ I can feel your reign when it cries, gold lives inside of you
 If these walls could talk
 I love it when I’m in it, I love it when I’m in it
 
-
-
-
 If your walls could talk, they’d tell you it’s too late
 Your destiny, accept it, your fate
 Burn accessories and stash them on the yard

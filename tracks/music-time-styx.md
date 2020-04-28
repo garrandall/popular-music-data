@@ -93,7 +93,7 @@ Can't get enough of it
 Try it
 Do it
 Go ahead and go for it
-All the way......
+All the way...
 
 And I like daydreams
 I've had enough reality

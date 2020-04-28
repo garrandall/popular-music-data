@@ -58,7 +58,7 @@ I've got a yoka mata huba bakwa Juju Hand
 This yoka mata huba bakwa sure is grand
 Makes your eyes look red and your tongue turn green
 The yoka mata huba bakwa makes you scream:
-Aaaaaaaaaaahhhhhhhhhhhhhh! Oooowwww!
+Ah! Oooowwww!
 Huba bakwa Huba bakwa
 
 Mojo hand used to be real strong

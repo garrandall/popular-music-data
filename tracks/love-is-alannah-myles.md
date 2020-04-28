@@ -83,8 +83,8 @@ Under my skin
 Raw emotion
 Please don't go
 
-Love is .... What you want it to be
-Love is .... Heaven to the lonely
+Love is ... What you want it to be
+Love is ... Heaven to the lonely
 Show me what you want me to do
 Cause love is what I've got for you
 

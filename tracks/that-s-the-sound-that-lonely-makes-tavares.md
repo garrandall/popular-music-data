@@ -61,7 +61,7 @@ With the start of misery
 Oh, that's the sound, yeah
 That lonely makes
 Yeah, yeah, yeah
-Ooh, ooh, that's the sound
+Oh, oh, that's the sound
 (That's the sound, yeah)
 My heart can't take, mmm
 

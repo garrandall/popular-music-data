@@ -60,10 +60,10 @@ One night love-makin'
 Next day heart-breakin'
 Guy
 
-Oooh, oooh, oooh
-Oooh, oooh, oooh
-Oooh, oooh, oooh
-Oooh, oooh, oooh
+Oh, oh, oh
+Oh, oh, oh
+Oh, oh, oh
+Oh, oh, oh
 
 Last night your love was true
 Was true

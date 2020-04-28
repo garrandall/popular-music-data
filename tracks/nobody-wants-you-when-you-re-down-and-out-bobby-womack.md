@@ -83,7 +83,7 @@ Nobody wants you when you're down and out
 Nobody wants you when you're down and out
 Down and out
 
-Oh, Yeah, Hmmm wait a miunte
+Oh, Yeah, Hm wait a miunte
 
 Went in your pocket there's not one penny
 Old man, and good friend
@@ -96,12 +96,12 @@ All are your long-lost friends!
 
 Nobody wants you when you're down and out
 Let me tell you bout it
-Nobody wants ya - Ahhhh, Mobody wants ya
+Nobody wants ya - Ah, Mobody wants ya
 When you're down and out
 Down and out
 Nobody wants ya'
-Whooooaaa Oooh Ooooh!
+Whooooaaa Oh Oh!
 Yeah, Yeah, Yeah, Yeah
 I don't mean to take up much of your time
-But i thought I'd drop this line
+But I thought I'd drop this line
 (Talking:Noboby wants ya) Nobody wants ya

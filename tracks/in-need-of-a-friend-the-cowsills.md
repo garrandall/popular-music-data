@@ -34,7 +34,7 @@ rankings:
 ---
 Cowsill
 
-Ahhh....
+Ah...
 You say you know somebody
 Someone who feels down when you're feeling sad
 Who's up when you're glad

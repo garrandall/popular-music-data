@@ -44,7 +44,7 @@ Something's wrong,
 As long as your gone
 
 I'm not gonna sleep
-Til i touch your face
+Til I touch your face
 Baby not a wink,
 I could go for days,
 If you ever needed

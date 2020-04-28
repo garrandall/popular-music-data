@@ -118,7 +118,7 @@ And meaner than a junkyard dog
 Now Leroy he's a gambler
 And he likes his fancy clothes
 And he likes to wave his diamond rings
-In front of everybody's nose 
+In front of everybody's nose
 
 He got a custom Continental
 He got an Eldorado too
@@ -134,7 +134,7 @@ Now Friday bout a week ago
 Leroy shootin' dice
 And at the edge of the bar
 Sat a girl named Doris
-And ooh that girl looked nice 
+And oh that girl looked nice
 
 Well he cast his eyes upon her
 And the trouble soon began

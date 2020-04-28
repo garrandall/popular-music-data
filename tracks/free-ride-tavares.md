@@ -54,7 +54,7 @@ Come on and take a free ride
 
 Yeah yeah yeah yeah
 
-Ooh, ooh, free ride
+Oh, oh, free ride
 
 Come on and take a free ride
 Yeah yeah yeah yeah

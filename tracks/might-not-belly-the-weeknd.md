@@ -149,4 +149,4 @@ I might not make it, oh no, I might not make it
 ('Cause I've been smoking a lot, and I've been drinking)
 I might not make it, oh no I might not make it
 ('Cause I've been smoking a lot, and I've been drinking)
-I might not make it, oh no, I might not make it (Ooh)
+I might not make it, oh no, I might not make it (Oh)

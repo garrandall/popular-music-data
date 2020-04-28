@@ -119,7 +119,7 @@ I'm gonna give you my heart
 
 
 I don't care, go on and tear me apart
-I don't care if you do, ooh-ooh, ooh
+I don't care if you do, ohoohohoh
 'Cause in a sky, 'cause in a sky full of stars
 I think I saw you
 
@@ -131,7 +131,7 @@ I'm gonna give you my heart, oh
 
 
 I don't care, go on and tear me apart
-I don't care if you do, ooh-ooh, ooh
+I don't care if you do, ohoohohoh
 'Cause in a sky, 'cause in a sky full of stars
 I think I see you
 I think I see you
@@ -140,4 +140,4 @@ I think I see you
 'Cause you're a sky, you're a sky full of stars
 Such a heavenly view
 You're such a heavenly view
-(Yeah, yeah, yeah, ooh)
+(Yeah, yeah, yeah, oh

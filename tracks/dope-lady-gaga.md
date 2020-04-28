@@ -55,10 +55,6 @@ A mountain of his soul
 Each day, I cry
 Oh, I feel so low from living high
 
-
-
-
-
 I need you more
 Need you more
 I need you more than dope

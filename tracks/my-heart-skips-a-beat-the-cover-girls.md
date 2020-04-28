@@ -133,7 +133,7 @@ And my heart is churning
 Tell me, tell me
 Can you feel it beat
 
-Ooh, and now
+Oh and now
 I can't believe how I feel for you
 The fire is burning
 And my heart is churning

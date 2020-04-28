@@ -55,7 +55,7 @@ Down where the roses cling
 Picture that same sweet love nest
 See what a year can bring
 I tell you the boy's washin' dishes 'n, baby clothes
-He's so ambitious, ooh, I tell you he sews
+He's so ambitious, oh, I tell you he sews
 Its really killin', the boy's so willin'
 To make whoopee, whoopee
 You see, I don't make much money
@@ -67,7 +67,4 @@ The judge says, "Ray, son, son, right on into jail.
 Ah, you better keep her.  I think it's cheaper."
 
  You know what I've been doin', don't you?
-
-
-
 

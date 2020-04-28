@@ -53,11 +53,11 @@ rankings:
 Marie, Marie, Marie
 
 Marie, the dawn is breaking
-Marie, (ooh, Marie) you'll soon be waking
+Marie, (oh, Marie) you'll soon be waking
 To find you heart is aching
 And tears (and tears) will fall (will fall) as you recall
 The moon in all its splendor
-A kiss (ooh, a kiss) so very tender
+A kiss (oh, a kiss) so very tender
 The words, "Will you surrender
 To me, (Marie), Marie, (Marie-ee)?"
 
@@ -65,6 +65,6 @@ Marie, you'll soon be waking
 To find you heart is aching
 And tears (and tears) will fall (will fall) as you recall
 The moon in all its splendor
-A kiss (ooh, a kiss) so very tender
+A kiss (oh, a kiss) so very tender
 The words, "Will you surrender
 To me, (Marie), Marie, (Marie) Marie (Marie-ee-ee)?"

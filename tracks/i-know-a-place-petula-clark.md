@@ -71,7 +71,7 @@ Come along with me a while
 
 I know a place
 where the music is fine and the lights are always low!
-I know a place 
+I know a place
 where we can go.
 
 At the door there's a man who will greet you.
@@ -86,10 +86,6 @@ It's got an atmosphere of its own somehow.
 You gotta come along right now!
 'Cause I tell you
 
-
-
-
-
 Well, all around there are girls and boys.
 It's a swingin' place,
 a cellar full of noise.
@@ -101,9 +97,6 @@ You've gotta come along right now!
 
 I know a place where we can go!
 I know a place where the lights are low!
-I know a place where we can go! 
+I know a place where we can go!
 I know a place where the lights are low!
-
-
-
 

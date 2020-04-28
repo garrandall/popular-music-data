@@ -67,8 +67,8 @@ rankings:
 Excuse me love, can I come dance with you?
 Uh (Mmm, yeah)
 Yeah
-2000, Jon B 'ish, uh, yeah (Ooh, babe)
-All you people in the club feel it (Ooh, ooh, oooh)
+2000, Jon B 'ish, uh, yeah (Oh, babe)
+All you people in the club feel it (Oh, oh, oh
 Uh, yeah, come on, baby, now
 
 
@@ -112,11 +112,11 @@ It's alright, it's alright with me if it's alright with you
 Oh, baby
 
 
-Ooh, come on, baby, now, ooh (Yeah, I take it)
-Ah, ah, ooh
-Come on, baby, now, ooh (Uh, uh, uh)
-Ooh (Come on, come on), come on, baby, now, ooh
-(Shakin' your stuff, when you do, it's like) Ooh
+Oh, come on, baby, now, oh (Yeah, I take it)
+Ah, ah, oh
+Come on, baby, now, oh (Uh, uh, uh)
+Oh (Come on, come on), come on, baby, now, oh
+(Shakin' your stuff, when you do, it's like) Oh
 (Ha ha ha) Come on, baby, now
 (Yeah, yeah, yeah)
 
@@ -158,7 +158,7 @@ But I'm not crazy, baby
 And if it's alright with you (Oh, baby)
 I might be tipsy
 But I ain't crazy, baby
-If It's alright with you, ohh, baby
+If It's alright with you, oh, baby
 I might be tipsy
 But I ain't crazy, baby
 To want to come home with you

@@ -122,7 +122,7 @@ What is love?
 
 Yeah, yeah
 
-(Ooh, ooh)
+(Oh, oh
 
 I don't know why you're not there
 I give you my love, but you don't care
@@ -138,8 +138,8 @@ What is love?
 Baby, don't hurt me
 Don't hurt me no more
 
-(Whoa, whoa, whoa, whoa, oh-whoa, whoa, ohh, ooh)
-(Whoa, whoa, whoa, whoa, oh-whoa, whoa, ohh, ooh)
+(Whoa, whoa, whoa, whoa, oh-whoa, whoa, oh, oh
+(Whoa, whoa, whoa, whoa, oh-whoa, whoa, oh, oh
 
 Oh, I don't know, what can I do?
 What else can I say, it's up to you
@@ -155,13 +155,13 @@ What is love?
 Baby, don't hurt me
 Don't hurt me no more
 
-(Whoa, whoa, whoa, whoa, oh-whoa, whoa, ohh, ooh)
-(Whoa, whoa, whoa, whoa, oh-whoa, whoa, ohh, ooh)
+(Whoa, whoa, whoa, whoa, oh-whoa, whoa, oh, oh
+(Whoa, whoa, whoa, whoa, oh-whoa, whoa, oh, oh
 
 What is love?
-(Ooh, ooh, ooh)
+(Oh, oh oh
 What is love?
-(Ooh, ooh, ooh)
+(Oh, oh oh
 
 What is love?
 Baby, don't hurt me
@@ -184,8 +184,8 @@ Baby, don't hurt me
 Don't hurt me no more
 Yeah, yeah
 
-(Whoa, whoa, whoa, whoa, oh-whoa, whoa, ohh, ooh)
-(Whoa, whoa, whoa, whoa, oh-whoa, whoa, ohh, ooh)
+(Whoa, whoa, whoa, whoa, oh-whoa, whoa, oh, oh
+(Whoa, whoa, whoa, whoa, oh-whoa, whoa, oh, oh
 
 What is love?
 Baby, don't hurt me

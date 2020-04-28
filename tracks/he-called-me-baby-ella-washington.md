@@ -37,10 +37,10 @@ I hear my baby, baby all night long
 
 Ohhh hear my baby, oh baby all night long
 He held me up so high and made me strong
-Ohhh baby, ohh baby, come on back home
+Ohhh baby, oh baby, come on back home
 Never never never, never never will I be alone
 
-Ohhhhh baby, ohhh baby all night long
+Ohhhhh baby, oh baby all night long
 He held me up so high and I wanna tell ya made me strong
 I can still hear my baby call me baby
 (fade out)

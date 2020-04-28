@@ -72,7 +72,7 @@ What you want me to
 Cause I'm your woman
 And I ain't Lyin'
 
-I know you don't think I'm ready, Ooo ooo
+I know you don't think I'm ready, Ooo oo
 But open your eyes and see
 As sure as my name is Betty
 I can love away all your misery HEE!
@@ -91,4 +91,4 @@ Won't it be nice baby
 If ya let me be your love maker
 Let me be good to ya
 
-Honey, Honey, Yahhhhh!!!!!
+Honey, Honey, Yahhhhh!

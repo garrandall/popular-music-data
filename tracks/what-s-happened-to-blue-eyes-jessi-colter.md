@@ -39,7 +39,4 @@ His one and only love, he swore Id be
 There was a time, when his blue eyes saw clearer than mine did
 Storms and rain, tears and pain, bring me back his way
 
-
-
-
 Im looking for Blue Eyes, has anyone seen him?

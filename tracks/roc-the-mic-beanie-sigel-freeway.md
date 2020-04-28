@@ -129,7 +129,7 @@ Cause I got what it takes to dump the AK clip
 It's B Sig in the place with Young Free
 And I got what it takes to rock the mic right yeah
 Still watch what you say out your mouth
-Cause 50 shots still will turn the club out, ho!!!
+Cause 50 shots still will turn the club out, ho!
 
 
 It's Mack-daddy-young strappy
@@ -155,7 +155,7 @@ With two heaters on the waist of me, man who's facin me?
 It's B Sig in the place with Young Free
 And I got what it takes to rock the mic right yeah
 Still watch what you say out your mouth
-Cause 50 shots still will turn the club out, ho!!!
+Cause 50 shots still will turn the club out, ho!
 
 
 It's Freeway in the place with B Sig
@@ -192,7 +192,7 @@ Cause I got what it takes to dump the AK clip
 It's B Sig in the place with Young Free
 And I got what it takes to rock the mic right yeah
 Still watch what you say out your mouth
-Cause 50 shots still will turn the club out, ho!!!
+Cause 50 shots still will turn the club out, ho!
 
 
 It's Freeway in the place with B Sig
@@ -204,7 +204,7 @@ Cause I got what it takes to dump the AK clip
 It's B Sig in the place with Young Free
 And I got what it takes to rock the mic right yeah
 Still watch what you say out your mouth
-Cause 50 shots still will turn the club out, ho!!!
+Cause 50 shots still will turn the club out, ho!
 
 
 All of y'all need to run yo'self
@@ -212,7 +212,7 @@ Go get the burna nigga bang yo'self
 All of y'all need to run yo'self
 Go get the burna nigga bang yo'self
 Shit, shit, it's the, it's the Roc nigga, hooo, hoo, hoo!
-And another one, and another one.. 
+And another one, and another one..
 
 
 

@@ -136,7 +136,7 @@ See, I'm movin' on
 And I refuse to turn back (Back, back, yeah)
 See, all of this time
 I thought I had somebody down for Whitney
-It turns out, you were making a fool of me, ohh
+It turns out, you were making a fool of me, oh
 
 
 It's not right, but it's okay
@@ -150,7 +150,7 @@ Don't you dare... back to me, boy
 It's not right, but it's okay
 It's not right, it's okay
 I'm gonna make it anyway
-I'm gonna... I'm gonna... ahh
+I'm gonna... I'm gonna... ah
 Close the door behind you, leave your keys
 Close the door, and leave your keys
 I'd rather be alone than unhappy
@@ -165,7 +165,7 @@ Don't you dare come runnin' back to me
 Oh, oh, oh-whoa
 It's not right, but it's okay
 Oh, lord
-Oh-oh-oh, ooh
+Oh-oh-oh, oh
 I'm gonna make it anyway
 Get up and leave
 Close the door behind you, leave your keys
@@ -182,7 +182,7 @@ Pack your bags, up and leave
 I'm gonna be okay
 I'm gonna be alright
 Don't you dare come runnin' back to me
-Ooh, ooh, ooh, ooh
+Oh oh oohohoh
 It's not right, but it's okay
 I'm gonna be okay
 I'm gonna be alright
@@ -193,7 +193,7 @@ Close the door behind you, leave your keys
 I'm gonna be okay
 I'm gonna be alright
 I'd rather be alone than unhappy
-Ooh, ooh, ooh, ooh
+Oh oh oohohoh
 It's so clear for you to see
 
 

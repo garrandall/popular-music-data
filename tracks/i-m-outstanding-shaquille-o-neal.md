@@ -92,7 +92,7 @@ Shoot your gift like a gun and never forget where you come from
 You're young, gifted, and Black
 If they can't say Shaquille O'Neal then make 'em scream, Shaq!'"
 Like the fam do, in the stands too
-When I freak the funk on a dunk they, "Ah! Ooh!"
+When I freak the funk on a dunk they, "Ah! Oh!"
 From high school to college, they gave me enough knowledge
 Make that gift and now it's time for me to fulfill my dream
 To be in the  like Hakeem

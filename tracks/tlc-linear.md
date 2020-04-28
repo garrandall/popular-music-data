@@ -60,7 +60,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-08-01'
 ---
-Ooh baby, ooh yeah, it's tender love again
+Ohbaby, ohyeah, it's tender love again
 Tender love…Tender love
 
 Hey there, where are you going?
@@ -76,7 +76,7 @@ You know what T.L.C. coming from me
 Everything's gonna be all right, why don't you spend the night?
 T.L.C. coming from me
 Everything's gonna be all right, why don't you spend the night?
-If you please, ooh baby
+If you please, ohbaby
 
 Hey sugar, gotta have a little faith for you and me
 I won't ever let you down and have the strength to believe

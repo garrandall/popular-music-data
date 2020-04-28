@@ -100,8 +100,8 @@ rankings:
 you come out at night
 that's when the energy comes
 and the dark side's light
-and the vampires roam 
-you strut your rasta wear 
+and the vampires roam
+you strut your rasta wear
 and your suicide poem
 and a cross from a faith
 that died before Jesus came
@@ -117,7 +117,7 @@ can you look out the window
 without your shadow getting in the way
 oh you're so beautiful
 with an edge and a charm
-but so careful 
+but so careful
 when I'm in your arms
 
 
@@ -133,19 +133,13 @@ a prayer from your secret god
 you feed off our fears
 and hold back your tears
 
-give us a tantrum 
+give us a tantrum
 and a know it all grin
 just when we need one
 when the evening's thin
 
 oh you're a beautiful
 a beautiful fucked up man
-you're setting up your 
-razor wire shrine 
-
-
-
-
-
-
+you're setting up your
+razor wire shrine
 

@@ -89,7 +89,7 @@ Stop looking for it, looking for it, I'm the (one)
 (Yea I'm her)...Boy don't you know I'm the one,
 (Yea I'm her)...
 
-Uh Ooh... ok I got these girls quite hype, only thing on right now, like a night light,
+Uh Oh... ok I got these girls quite hype, only thing on right now, like a night light,
 While my brother Wayne rockin' out like a white stripe, imma kill the game,
 I'm the young money white night (white night)...Yeah
 Plus I'm looking for the right type cautious of a flood so I always lay the right pipe

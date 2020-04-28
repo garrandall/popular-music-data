@@ -80,7 +80,7 @@ Lemonade diamond bracelet, put it in ur face (BURR)
 Lemonhead diamond earrings I wore yesterday (BURR)
 Im pimpin wearin linon, thats just how im chillon
 Im smokin grits and sellin chickens, corvette painted lemons
-GUCCI!!!
+GUCCI!
 
 
 Lemons on the chain with the V-cuts
@@ -96,7 +96,7 @@ Lemons on my face watch em freeze up
 I got lemonade and lemon teeth
 Lemons watch me mix the shit
 Lemonade complexion, east-australian girl be killin me
-She say i be killin her, i say i be feelin it
+She say I be killin her, I say I be feelin it
 Four days then im sick of her, cause her brain is lemonhead
 Cocaine white exterior, Interior Lemonade
 Yellow wit da off-white trimmin
@@ -104,33 +104,29 @@ I call that da super drank
 Yellow diamond pinky ring
 Call that dere da lemon rock
 Jewelry box a lemon bin, my earring size a apricot
-Yeah i smoke that strong alot, yeah i need some of what you got
+Yeah I smoke that strong alot, yeah I need some of what you got
 Half a pound of lemon kush, call that pack the lemon drop
 Canary yellow lemon watch, big bird yellow top
 Yellow Polo, Polo, slippers white and yellow polo socks
-Gucci Mane be pumpin dawg, he dont got all he say he got
-Just stash one Lemon homie, i can supply them the 50 glocks
+Gucci Mane be pumpin dawg, he don't got all he say he got
+Just stash one Lemon homie, I can supply them the 50 glocks
 Yellow boat parked at the dock,Yellowbone gon' make it drop
 Flip da flop mine up the top, then go buy me a yellow yacht
 
 
 
 
-Lemonade my townhouse,in miami i want yellow carpet
+Lemonade my townhouse,in miami I want yellow carpet
 Woke up in the mornin, fuckin bought a yellow aston martin
 Yellow bricks, yellow dust, yellow light, yellow tusk
 yellow piss, spinnin whips, yellow weed
 weed up wit us
 coward ass nigga, yellow stripe, you a yellowback
-A-k hit your dog, and u cant bring Old Yeller back
+A-k hit your dog, and u can't bring Old Yeller back
 Yep, gucci bang up eighty-thousand dats a yellow safe
 yellow homes, mellow homes, you know u a scary-cat
 no sleep for two days, so my pupils lookin yellow
 five flights, six shows, quarter-million on my schedule
 Bangledesh and Gucci Mane, niggas know they in trouble
 green ice, red light, caution Gucci rock yellow
-
-
-
-
 

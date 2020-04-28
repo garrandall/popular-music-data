@@ -146,7 +146,7 @@ And I know you like it too, baby
 Please don't stop I feel it now
 You feel it, too
 You're shivering
-Ooh, you put me close to you
+Oh you put me close to you
 Just let it flow
 There's no other place to go
 

@@ -116,7 +116,7 @@ We love the all of you
 That sounds fine, so I'll see you sometime
 Give my love to the future of a-humankind
 Okay, okay, it's not okay
-Ooh, while it's on my mind
+Oh, while it's on my mind
 There's a girl that fits the crime for a future love dream
 That I'm still to find
 But in the meantime

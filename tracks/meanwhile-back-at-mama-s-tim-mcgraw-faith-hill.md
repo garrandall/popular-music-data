@@ -112,9 +112,6 @@ Even with the windows down can't catch a southern breeze here
 One of these days gonna pack it up and leave here
 Cause
 
-
-
-
 Oh I miss yeah a little dirt on the road, I miss corn growin in a row
 I miss being somebody everybody knows, there everybody knows everybody
 I miss those small town routes, walkin around in muddy boots

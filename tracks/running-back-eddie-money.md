@@ -45,8 +45,8 @@ Don't come running back, oh baby (Don't run back)
 Don't come running, don't come running
 Don't come running back, oh girl
 Hey
-Ooh ooh ooh
-Ooh ooh ooh
+Oh oh oh
+Oh oh oh
 Girl, you rock my - baby, now, you rock my soul
 Yeah, you do - give me full control
 You made my life so happy, now, oh

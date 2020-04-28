@@ -62,7 +62,7 @@ Nevermind, nevermind
 Alright, I'm ready now
 I ain't gonna, I ain't gonna stop right now, no
 Alright, I'll take it on, take it on me
-Take it one me, ooh baby
+Take it one me, ohbaby
 
 All I ever ask, ever ask is
 Do you wanna, do you wanna see my fire

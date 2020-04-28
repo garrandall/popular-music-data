@@ -96,7 +96,6 @@ Inner
 Inner peace
 Until that day upon which my souls released!
 
-Chorus
 
 Need some time need some time
 When the sista's say it then you know it's gotta be real!

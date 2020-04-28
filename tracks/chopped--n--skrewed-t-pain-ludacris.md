@@ -105,23 +105,21 @@ Then she says "Club is about to end"
 Then you say "Why don'tcha come to my crib?"
 Then she says "I can't leave my friends"
 
-
 Now you've officially been chopped and screwed
 Screwed screwed, chopped-chopped and screwed
-You've officially been ('and-and) skrewed
+You've officially been (and and) skrewed
 (and) 'ewed, 'ewed, chopped, screwed-screwed
 You've officially been chopped and screwed
 (and-and) screwed, chopped screwed-screwed
-You've officially been s--c--r--e--w--e--d
+You've officially been screwed
 Screwed, screwed-screwed, chopped-chopped and screwed
-You've officially been ('and-and) skrewed
+You've officially been (and and) skrewed
 
- + (T-Pain ad libs)
 Shorty don't chop me, shorty don't screw me (Yes~!)
 Shorty-shorty don't chop me, shorty don't screw me
 (Chopped and screwed)
 Shorty-shorty don't chop me, shorty-shorty don't screw me (Hey yeahh)
-Shorty don't chop me, don't-don't screw me
+Shorty don't chop me, don't don't screw me
 
 
 Have you ever been in the V.I.P. room
@@ -137,7 +135,7 @@ And says "That'll be sixty bucks!"
 
 Now you've officially been chopped and screwed
 Screwed screwed, chopped-chopped and screwed
-You've officially been ('and-and) skrewed
+You've officially been (and and) skrewed
 (and) 'ewed, 'ewed, chopped, screwed-screwed
 You've officially been chopped and screwed
 
@@ -154,7 +152,7 @@ Screw, you outta yo', outta yo' spine
 Backbreaker, put you over my knees
 Put you on punishment woman and spank you
 Have you praisin the Lord like THANK YOU
-THANK YOU THANK YOU, Lord I wanna THANK YOU (JESUS~!)
+THANK YOU THANK YOU, Lord I wanna THANK YOU (Jesus)
 But have you ever met a woman that'll lead you on
 And steer you wrong instead of please you? (Yup!)
 Have you singin this song, cause all night long
@@ -170,19 +168,19 @@ So instead of bein put into submission and subdued
 
 Now you've officially been chopped and screwed
 Screwed screwed, chopped-chopped and screwed
-You've officially been ('and-and) skrewed
+You've officially been (and and) skrewed
 (and) 'ewed, 'ewed, chopped, screwed-screwed
 You've officially been chopped and screwed
 (and-and) screwed, chopped screwed-screwed
-You've officially been s--c--r--e--w--e--d
+You've officially been screwed
 Screwed, screwed-screwed, chopped-chopped and screwed
-You've officially been ('and-and) skrewed
+You've officially been (and and) skrewed
 
 
-Shorty don't chop me, shorty don't screw me (Yes~!)
+Shorty don't chop me, shorty don't screw me (Yes)
 Shorty-shorty don't chop me, shorty don't screw me
 (Chopped and screwed)
 Shorty-shorty don't chop me, shorty-shorty don't screw me (Hey yeahh)
-Shorty don't chop me, don't-don't screw me
+Shorty don't chop me, don't screw me
 
 Me, me, me, me, me

@@ -90,7 +90,7 @@ All the wild men, big cigars, gigantic cars
 They're all laughing at me now
 
 
-Oh, I've been used, ooh, used (ooh used)
+Oh, I've been used, oh, used (oh used)
 I've been a fool, oh, what a fool (oh what a fool)
 I broke all the rules, oh, yeah (all the rules)
 But I (must let the show go on)
@@ -116,8 +116,8 @@ But I (must let the show go on)
 
 Baby, I wish you'd help me escape
 Help me get away
-(Hoo ooh) Leave me outside my address (hoo ooh)
-Far away from this (hoo ooh) masquerade (hoo ooh)
+(Hoo oh) Leave me outside my address (hoo oh)
+Far away from this (hoo oh) masquerade (hoo oh)
 
 
 'Cause I've been blind, oh, so blind

@@ -29,10 +29,10 @@ rankings:
   start_date: '1970-12-05'
 ---
 
-I left louisian, i had me big plans
+I left louisian, I had me big plans
 To go out and take me all over this land.
-To see me the world, i left my sweet girl
-And gave it a whirl but now here i stand,
+To see me the world, I left my sweet girl
+And gave it a whirl but now here I stand,
 Along side the road with holes in my soul and my shoes
 And beaucoups of blues.
 
@@ -41,10 +41,10 @@ Breath carried over the marsh by a breeze from the gulf.
 I'm coming home, (coming home)
 I've had me enough.
 
-Oh, where are the things i saw in my dreams?
+Oh, where are the things I saw in my dreams?
 Where's the happy that freedom should bring?
 I see me today and know yesterday
-That i threw away my most precious things.
+That I threw away my most precious things.
 I see me a man who's lonely, wants only to lose
 Beaucoups of blues.
 

@@ -41,5 +41,5 @@ There'll be no more sorrow, no grief and pain
 'Cause I'll be happy, happy, once again
 
 
-Ooh, no more sorrow, no grief and pain
+Oh, no more sorrow, no grief and pain
 'Cause I'll be happy, Christmas, once again

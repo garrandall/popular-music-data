@@ -110,7 +110,7 @@ Maggie's eyes could cook a man
 But oh, she loved to tantalize
 And make it feel like paradise
 And oh, nobody cry when Maggie die
-When Maggie die - mmmm
+When Maggie die - mmm
 
 Boom boom like a shi shi hand
 Take her to the rock and hang

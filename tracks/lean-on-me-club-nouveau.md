@@ -100,9 +100,6 @@ For no one can fill
 Those of your needs
 That you won't let show
 
-
-
-
 So just call on me brother
 When you need a hand
 We all need somebody to lean on

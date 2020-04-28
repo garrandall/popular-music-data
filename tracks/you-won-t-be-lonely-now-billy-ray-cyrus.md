@@ -78,9 +78,6 @@ Holding you here like a rose in the dark
 I make this promise to you from my heart
 You won't be lonely now
 
-
-
-
 I'll do anything to make you see how I'm gonna love you
 You won't be lonely you won't be lonely now
 

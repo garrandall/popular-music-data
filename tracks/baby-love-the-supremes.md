@@ -60,7 +60,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-12-26'
 ---
-Ooh baby love, my baby love
+Oh baby love, my baby love
 I need you, oh how I need you
 But all you do is treat me bad
 Break my heart and leave me sad
@@ -75,7 +75,7 @@ Don't throw our love away
 In my arms, why don't you stay?
 
 Need ya, need ya
-Baby love, ooh, baby love
+Baby love, oh, baby love
 
 Baby love, my baby love
 Why must we separate, my love
@@ -84,7 +84,7 @@ I never loved no one but you
 Why you do me like you do?
 I get this need
 
-Ooh, ooh, need to hold you
+Oh, oh, need to hold you
 Once again, my love
 Feel your warm embrace, my love
 Don't throw our love away
@@ -98,8 +98,8 @@ Why you do me like you do
 After I've been true to you
 So deep in love with you
 
-Baby, baby, ooh till it's hurtin' me
+Baby, baby, oh till it's hurtin' me
 Till it's hurtin' me
-Ooh, baby love
+Oh, baby love
 Don't throw our love away
 Don't throw our love away

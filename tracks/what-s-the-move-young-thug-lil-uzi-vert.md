@@ -110,7 +110,7 @@ I'm tired of eyein' you (Oh, yeah)
 I was tired of spyin' on you
 'Til the pain last too (Yeah)
 Make it rain on you (Make it rain, rain)
-It was hard to maintain too, ooh (It was hard to maintain)
+It was hard to maintain too, oh (It was hard to maintain)
 I was playin' games with you
 Like you couldn't play games too, hey, okay
 

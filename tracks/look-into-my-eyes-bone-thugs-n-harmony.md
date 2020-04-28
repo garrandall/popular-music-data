@@ -134,9 +134,6 @@ What a bloody, bloody mess, but nevertheless, we won't stress
 I figured this platinum got you actin' like you got to be me
 It's all in your mind, but in time, you'll find we as real as we speak
 
-
-
-
 All I see is this soldier, pistol in holster, givin' you the most
 I toast to them thugs
 Nigga, nothin' but the love of bud that we brought to the table
@@ -158,9 +155,6 @@ Remember: eternal, it means for everlastin'
 All of the heavens gonna be ruined'
 choose when he come, we won't be losing proven 'em wrong
 
-
-
-
 I see five killer realer niggas ready to roll wherever I go
 True to pull the trigger, smother a nigga, put 'em in a river
 We the killers, and that's for sure
@@ -176,8 +170,4 @@ Put 'em in check, fuck 'em up with the 44 mag, I'm glad
 'cause when you're fuckin' with Bone, we sendin' 'em home in a bodybag
 Now, look into my eyes, bet you see a realer killer thug puttin' it down with
 harmony, harmony
-
-
-
-
 

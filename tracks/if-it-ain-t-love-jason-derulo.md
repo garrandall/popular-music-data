@@ -53,11 +53,11 @@ Your eyes don't lie
 And if I needed proof, that body tell the truth
 
 
-Ooh-ooh-ooh
+Oh-ohooh
 Your body is a blessing
-Ooh-ooh-ooh
+Oh-ohooh
 Don't know if I deserve it
-Ooh-ooh-ooh
+Oh-ohooh
 Before round two, I've got a question for you, babe
 
 
@@ -91,14 +91,14 @@ Why does it feel so good?
 On the tip of my tongue
 The flavor of your skin lingers on my lips
 Each time we dine
-We do it again, again and again, ooh
+We do it again, again and again, oh
 
 
-Ooh-ooh-ooh
+Oh-ohooh
 Your body is a blessing, oh
-Ooh-ooh-ooh
+Oh-ohooh
 What'd I do to deserve it? (What'd I)
-Ooh-ooh-ooh
+Oh-ohooh
 Before round three, I've got a question for you, baby
 
 

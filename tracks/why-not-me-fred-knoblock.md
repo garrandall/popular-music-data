@@ -105,7 +105,7 @@ And the ceremony is grand
 But old lovers never get to make a last stand
 And I held some rice in my hand
 I let it fall to the floor
-I just dont care anymore
+I just don't care anymore
 
 I'll just get drunk at the reception
 I won't think about her twice

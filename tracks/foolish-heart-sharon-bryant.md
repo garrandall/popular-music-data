@@ -28,7 +28,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-01-13'
 ---
-Ooh, ooh...
+Oh oh..
 
 I need a love that grows
 I don't want it unless I know
@@ -50,7 +50,7 @@ You start falling
 Foolish heart
 Heed my warning
 You've been wrong before
-Don't be wrong anymore, ohh
+Don't be wrong anymore, oh
 
 Baby boy
 
@@ -78,7 +78,7 @@ You start falling
 
 Foolish heart
 Heed my warning
-You've been wrong before, ohh
+You've been wrong before, oh
 
 Foolish heart (foolish heart)
 Hear me calling
@@ -95,7 +95,7 @@ You've been wrong before
 (You've been wrong)
 
 Foolish heart
-Foolish, foolish heart, ohh
+Foolish, foolish heart, oh
 You've been wrong before
 And I can't take anymore
 

@@ -97,7 +97,7 @@ Welcome to our party, sexy likkle shorties
 "Written On Ya Kitten" lickin lime from my Bacardi
 Rub it on my body, kiss and twist and barley
 Ask the don dada to to dat song
-While I ooh-ah, ooh-ah - how I do that so long?
+While I oh-ah, oh-ah - how I do that so long?
 On the DL real baby, swell a dub crazy
 DJ rewind that Naughty with that 3L-Dub baby
 I move simple, just as sooth mix'll move gentle
@@ -154,13 +154,10 @@ Now I strong, we ride strong, double IIcons
 Wanna stop hurtin better let bygones be bygones
 Sliiiide left, sliiiiide right
 Dance ya spine out, wind let me find out
-Ooh-ah Ooh-ah, outdoor with indo'
+Oh-ah Oh-ah, outdoor with indo'
 Aiyyy-yo! Drop the keys out the window
 We got the wally with my yardies we partyin
 Cause, after the party its the after-party and..
-
-
-
 
 Feels good, feels good, baby clap your hands (Hey, Hey)
 Feels good, feels good, baby clap your hands

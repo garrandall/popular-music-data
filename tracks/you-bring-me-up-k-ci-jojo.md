@@ -105,7 +105,7 @@ You turned my smile
 Into a frown
 Girl you promise you never let me down
 But now you're not around
-Ooh, ooh, ooh, ooh
+Oh, oh, oh, oh
 When I was up
 Girl you brought me down
 Played me like a clown

@@ -72,7 +72,7 @@ rankings:
 
 
 What's up negros and negrettes?
-It's your boy Warren G 
+It's your boy Warren G
 You know what I'm saying?
 Chillin' with the home boy Mack 10
 And we gon' lay a lil' sumpin' down for y'all
@@ -87,8 +87,8 @@ I want it all; money, fast cars
 Diamond rings, gold chains and champagne
 Shit, everydamn thing
 I want it all; houses, expenses
-My own business, a truck, hmm, and a couple o' Benz's
-I want it all; brand new socks and drawls 
+My own business, a truck, hm, and a couple o' Benz's
+I want it all; brand new socks and drawls
 And I'm ballin everytime I stop and talk to y'all
 I want it all, all, all, all
 I want it all, all, all, all, all
@@ -132,9 +132,6 @@ Handing out gold medallions at roll-call
 I'ma ball and never fall cuz Mack 10 want it all
 What
 
-
-
-
 Me and 10 get paid escapade to the spot
 We hot like rocks served on hot blocks
 I notice money make the world circulate
@@ -156,12 +153,9 @@ And at that point, I'm through talkin', dog, enough said
 So, if you owe Mack money, then I suggest you break bread
 I want it all
 
-
-
-
 Mack 10
 
-What up? I know 
+What up? I know
 
 The paper's out there, ha ha
 

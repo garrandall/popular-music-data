@@ -167,7 +167,7 @@ No, no, no, no
 No, no, no
 (I'm way too good at goodbyes)
 (No way that you'll see me cry)
-Ahhh
+Ah
 (I'm way too good at goodbyes)
 
 

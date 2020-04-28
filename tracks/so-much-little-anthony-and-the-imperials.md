@@ -16,7 +16,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-29'
 ---
-Oooh, oooo...
+Oh, oo...
 
 I'd move a mountain
 If you want me to

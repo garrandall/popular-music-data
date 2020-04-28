@@ -100,7 +100,7 @@ That woman's been around the world
 You can take the girl out of the honky tonk
 But you can't take the honky tonk
 Take the honky tonk out of the girl
-Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-ohoohhohh-ohoohhohoh
 
 
 Well, that dinner broke up at around 11:30
@@ -114,7 +114,7 @@ That woman's been around the world
 You can take the girl out of the honky tonk
 But you can't take the honky tonk
 Take the honky tonk out of the girl
-Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-ohoohhohh-ohoohhohoh
 
 
 Well, at nine a.m., out in front of that church
@@ -128,7 +128,7 @@ That woman's been around the world
 You can take the girl out of the honky tonk
 But you can't take the honky tonk
 Take the honky tonk out of the girl
-Ooh-ooh-ooh-ooh
+Oh-ohoohhoh
 
 
-Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-ohoohhohh-ohoohhohoh

@@ -28,9 +28,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-05-25'
 ---
-Ahh, ahh
-Ahh, ahh
-Ahh, ahh
+Ah, ah
+Ah, ah
+Ah, ah
 
 Oo-ee-diddley-dop
 I'm about to blow my top
@@ -45,10 +45,10 @@ Late last night electricity blew
 Seems like things are going wrong
 Stay in bed all day long
 
-Ahh, ahh
-Ahh, ahh
-Ahh, ahh
-Ahh, ahh
+Ah, ah
+Ah, ah
+Ah, ah
+Ah, ah
 
 Oo-ee-diddley-dop
 I'm about to blow my top
@@ -77,7 +77,7 @@ My dream away from me
 
 Come on
 
-Ahh, ahh
+Ah, ah
 
 Oo-ee-diddley-dop
 I ain't gonna blow my top

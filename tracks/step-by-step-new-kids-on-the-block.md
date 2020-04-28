@@ -68,14 +68,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-09-01'
 ---
-Step by step, ooh baby
+Step by step, ohbaby
 Gonna get to you, girl
 Step by step, rah
 
 
-Step by step, ooh baby
+Step by step, ohbaby
 Gonna get to you, girl
-Step by step, ooh baby
+Step by step, ohbaby
 Really want you in my world
 
 
@@ -85,15 +85,15 @@ I see a picture of me all the time
 You got to know that you drive me wild
 
 
-(Step by step) Ooh baby
+(Step by step) Oh baby
 You're always on my mind
-(Step by step) Ooh girl
+(Step by step) Oh girl
 Really think it's just a matter of time
 
 
-Step by step, ooh baby
+Step by step, ohbaby
 Gonna get to you girl
-Step by step, ooh baby
+Step by step, ohbaby
 Really want you in my world
 
 
@@ -103,15 +103,15 @@ I've got to have you all just for me
 No one else will ever do
 
 
-(Step by step) Ooh baby
+(Step by step) Oh baby
 You're always on my mind
-(Step by step) Ooh girl
+(Step by step) Oh girl
 Really think it's just a matter of time
 
 
-Step by step, ooh baby
+Step by step, ohbaby
 Gonna get to you girl
-Step by step, ooh baby
+Step by step, ohbaby
 Really want you in my world
 
 
@@ -131,23 +131,23 @@ Don't you know I need you?
 Yes, I do, girl
 
 
-(Step by step) Ooh baby
+(Step by step) Oh baby
 You're always on my mind
-(Step by step) Ooh girl
+(Step by step) Oh girl
 Really think it's just a matter of time
 
 
-Step by step (Step by step, girl), ooh baby
+Step by step (Step by step, girl), ohbaby
 Gonna get to you girl, to you girl
-Step by step, yeah, ooh baby
+Step by step, yeah, ohbaby
 (I want you, I need you)
 Really want you in my world
 (I want you in my world)
 
 
-(Step by step) Ooh, to you girl
+(Step by step) Oh, to you girl
 (Step by step) Oh girl
 Really want you in my world
-Step by step, ooh baby
+Step by step, ohbaby
 Gonna get to you girl
-Step by step, ooh baby
+Step by step, ohbaby

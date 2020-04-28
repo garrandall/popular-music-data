@@ -127,9 +127,6 @@ And I just can't wait to pack
 Cause I know the route I leave on
 It will always bring me back
 
-
-
-
 I wish I was in Dixie Again
 I miss my Tennessee Home
 I've been away way too long

@@ -105,7 +105,6 @@ Just to see my baby's blue eyes shine
 This time I think that my lover understands me
 If we have faith in each other then we can be strong
 
-(Chorus)
 
 If you are the desert, I'll be the sea
 If you ever hunger, hunger for me
@@ -123,7 +122,6 @@ Heaven is a kiss and a smile
 Just hold on, hold on
 I won't let you go, my baby
 
-(Chorus)
 
 I will be your father (I will be your)
 I will be your (father) preacher teacher

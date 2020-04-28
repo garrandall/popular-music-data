@@ -171,4 +171,4 @@ This I promise you
 
 Every word I say is true
 This I promise you
-Ooh, I promise you
+Oh, I promise you

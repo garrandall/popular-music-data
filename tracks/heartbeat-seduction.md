@@ -83,16 +83,16 @@ My heartbeat
 
 I don't see you everyday
 But in my own little way
-Oooh, I love you
+Oh, I love you
 
-Oooh, it really makes me wanna freak
+Oh, it really makes me wanna freak
 Our love is so sweet
 Sweet enough to eat
 My love is complete
 Oh for the one I love
 
 Yeah, yeah, yeah
-Ooh
+Oh
 Your sweet make me freak
 Heartbeat
 Makes me feel so weak
@@ -104,12 +104,12 @@ My heartbeat
 
 Those dark and lonely nights
 I wish with all my might
-Ooh to have you, yeah
+Ohto have you, yeah
 Now I'm here all alone
 Im waiting here by the phone
 To have you
 
-Oooh
+Oh
 It really makes me wanna freak
 Oh It's so sweet
 Sweet enough to eat my heartbeat
@@ -137,7 +137,7 @@ You make me feel so weak
 Cause everything you said
 Went right straight through my head
 
-Ooh
+Oh
 So weak
 My heartbeat
 Oh, oh, my heartbeat
@@ -149,6 +149,6 @@ Don't make no kind of sense
 Feeling this intense
 
 Your sweet makes me weak
-Weak weak, ooh...
+Weak weak, oh..
 Just give your love all of
 My love

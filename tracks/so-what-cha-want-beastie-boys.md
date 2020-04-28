@@ -59,7 +59,7 @@ You think that you can front when revelation comes?"
 
 
 Well they call me Mike D, the ever-loving man
-I'm like Spoonie Gee (whoo ooh), I'm the metropolitician (yeyeyeyeah)
+I'm like Spoonie Gee (whoo oh), I'm the metropolitician (yeyeyeyeah)
 You scream and you holler about my Chevy Impala
 But the sweat is getting wet around the ring around your collar
 

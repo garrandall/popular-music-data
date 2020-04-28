@@ -37,19 +37,19 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-05-03'
 ---
-Way ooh
-Way ooh
-Bop bop way ooh
-Way ohh
-Bop de op bop bop bop bop way ooh
-Bop nop way ooh
-Way ooh!
-Way ooh
+Way oh
+Way oh
+Bop bop way oh
+Way oh
+Bop de op bop bop bop bop way oh
+Bop nop way oh
+Way oh
+Way oh
 Bop de ooop bop bop bop bop
-Way ooh
-Way bop bop way ooh
-Way ooh
-Way ooh bop bop way ooh
-Way ooh way ooh,
-Bop way ooh way ooh
-Bop de oop bop bop bop bop way ooh
+Way oh
+Way bop bop way oh
+Way oh
+Way ohbop bop way oh
+Way ohway oh
+Bop way ohway oh
+Bop de oop bop bop bop bop way oh

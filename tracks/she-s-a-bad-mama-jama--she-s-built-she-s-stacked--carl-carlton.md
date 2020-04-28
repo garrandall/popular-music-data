@@ -121,7 +121,7 @@ Just as fine as she can be
 Looks like she's poured into the gold
 She's bad
 The essence of beauty
-Ooh, such lovely hair
+Oh, such lovely hair
 She's foxy, classy
 Oh, sexy, sassy
 She's heavenly

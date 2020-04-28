@@ -79,9 +79,6 @@ The thrill is gone away from me
 Although I'll still live on
 But so lonely I'll be
 
-
-
-
 The thrill is gone
 It's gone away for good
 Oh, the thrill is gone, baby

@@ -94,9 +94,9 @@ Climbed aboard the dream weaver train
 Driver, take away my worries of today
 And leave tomorrow behind
 
-Ooh, dream weaver
+Oh, dream weaver
 I believe you can get me through the night
-Ooh, dream weaver
+Oh, dream weaver
 I believe we can reach the morning light
 
 Fly me high through the starry skies
@@ -104,9 +104,9 @@ Maybe to an astral plane
 Cross the highways of fantasy
 Help me to forget today's pain
 
-Ooh, dream weaver
+Oh, dream weaver
 I believe you can get me through the night
-Ooh, dream weaver
+Oh, dream weaver
 I believe we can reach the morning light
 
 Though the dawn may be coming soon
@@ -114,9 +114,9 @@ There still may be some time
 Fly me away to the bright side of the moon
 And meet me on the other side
 
-Ooh, dream weaver
+Oh, dream weaver
 I believe you can get me through the night
-Ooh, dream weaver
+Oh, dream weaver
 I believe we can reach the morning light
 Dream weaver
 Dream weaver

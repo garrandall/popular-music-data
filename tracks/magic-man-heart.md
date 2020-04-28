@@ -143,7 +143,7 @@ Oh, oh, oh
 Try, try to understand
 Try, try, try to understand
 He's a magic man, oh yeah
-Ooh, he got the magic hands
+Oh, he got the magic hands
 
 "Come on home, girl", he said with a smile
 "You don't have to love me yet, let's get high awhile"

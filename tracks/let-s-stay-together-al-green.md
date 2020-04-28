@@ -82,15 +82,15 @@ And I want to spend my life with you
 
 
 Let me say that since, baby, since we've been together
-Ooh, loving you forever is what I need
+Oh loving you forever is what I need
 Let me be the one you come running to
 I'll never be untrue
 
 
-Ooh, baby, let's, let's stay together
+Oh baby, let's, let's stay together
 Lovin' you whether
 Whether times are good or bad, happy or sad
-Ooh, yeah
+Oh yeah
 Whether times are good or bad, happy or sad
 
 

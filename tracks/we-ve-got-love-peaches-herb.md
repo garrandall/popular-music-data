@@ -102,7 +102,7 @@ Right here and now
 With a beautiful, beautiful vow
 'Cause right here and now
 'Cause right here and now
-We've got love, love, ooh
+We've got love, love, oh
 
 The thrill of your touch will
 Stay burning inside me forever

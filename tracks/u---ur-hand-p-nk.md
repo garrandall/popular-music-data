@@ -210,4 +210,4 @@ I was fine before you walked into my life
 'Cause you know it's over
 Before it began
 Keep your drink, just give me the money
-It's just you and your hand tonight (Yeah, ohh)
+It's just you and your hand tonight (Yeah, oh)

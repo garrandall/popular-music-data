@@ -42,18 +42,18 @@ rankings:
 ---
 You're home again, i'm glad you kept the key
 Been waiting here, it seemed a million years to me
-But hush now i know you're all cried out
+But hush now I know you're all cried out
 It's all right inside, i've had no doubt
 About your love for me
 I can see behind the tears
 I'm certain of the way we feel
 And given time the hurt will heal
-I need you, i think i always will
+I need you, I think I always will
 From time to time you play around
-But i love you still
+But I love you still
 You tried them all, at ev'rybody's beck and call
 Maybe you resist them all
-When i tell you how i missed you
+When I tell you how I missed you
 Fallen angel, i'll forgive you anything
 You can't help the things you do
 Home again so won't you close the door

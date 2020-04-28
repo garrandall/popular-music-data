@@ -41,7 +41,7 @@ Than here with you to stay
 Can't explain, what your love has done for me
 (Love has done for me)
 Keeps me warm and satisfied
-Ooh, you make me see
+Oh, you make me see
 
 Sweet sensation
 (You're a sweet, you're a sweet)

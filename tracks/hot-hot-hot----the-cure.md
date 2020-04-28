@@ -5,7 +5,7 @@ features: []
 genres: []
 key: hot-hot-hot----the-cure
 lyrics_url: https://genius.com/The-cure-hot-hot-hot-lyrics
-name: Hot Hot Hot!!!
+name: Hot Hot Hot!
 rankings:
 - end_date: '1988-03-11'
   rank: 89

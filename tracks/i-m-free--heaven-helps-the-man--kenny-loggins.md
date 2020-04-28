@@ -91,4 +91,3 @@ Making my breaks
 Taking control
 If that's what it takes
 
-Chorus

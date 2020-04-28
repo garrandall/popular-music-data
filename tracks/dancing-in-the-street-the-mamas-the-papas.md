@@ -91,7 +91,7 @@ Or Long Barn they do that Riverdale, Cream you know (Yes, I know)
 Manchester? (And, oh, Amherst, Amherst)
 Alexandria? (Virginia, Virginia)
 Falls Church (Where's that?)(Alabama)
-Ooh, Boyle Heights! (Boyle Heights, never heard of it)
+Oh Boyle Heights! (Boyle Heights, never heard of it)
 
 
 

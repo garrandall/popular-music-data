@@ -47,19 +47,15 @@ Make me know you mean it
 Let me know for sure
 You really care
 
-(Chorus:)
 Baby, we can make music
 Sweet, sweet music!
 We can make music
 A song so soft and rare!
 
-(End Chorus)
-(Refrain:)
 And it'll be our song
 Nobody's but our song
 Come on Julie
 Show me that you really care
-(End Refrain)
 
 'Cause one and one make one
 Whenever you are with me
@@ -68,12 +64,9 @@ Whenever you're not there
 
 So come on Julie
 Let your love surround me
-Ohhh, woahh
+Ohhh, woah
 Let me know for sure
 That you really care
-
-(Repeat Chorus)
-(Repeat Refrain)
 
 Nah nah, nah nah nah, nah nah nah
 Nah nah, nah nah nah, nah nah nah
@@ -82,5 +75,3 @@ Nah nah, nah nah nah, nah nah nah
 Nah nah, nah nah nah, nah nah nah
 
 Baby now...
-
-(Repeat chorus 2x)

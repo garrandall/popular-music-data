@@ -122,7 +122,7 @@ Still pretending
 
 "Who's Johnny?"
 "Who's Johnny?"
-Wow-oooh, oh no
+Wow-oh, oh no
 "Who's Johnny?"
 "Who's Johnny?"
 
@@ -162,7 +162,7 @@ Her eyes gave her away
 That girl's pretending she can't remember my name
 "Who's Johnny?"
 "Who's Johnny?"
-Oh, i can't believe it
+Oh, I can't believe it
 
 "Who's Johnny?"
 "Who's Johnny?"
@@ -170,7 +170,7 @@ I know this girl is only teasing
 "Who's Johnny?"
 She said
 She walked at me with someone else
-And left me standing there, ooo-oooh
+And left me standing there, oo-oh
 "Who's Johnny?"
 "Who's Johnny?"
 "Who's Johnny?"

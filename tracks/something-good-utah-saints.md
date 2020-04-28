@@ -18,25 +18,25 @@ Utah Saints, you-U-you-Utah Saints
 Utah Saints, you-U-you-Utah Saints
 Utah Saints, you-U-you-Utah Saints
 
-Ooh, oy, ooh, oy
-Ooh, oy, ooh, oy
+Oh, oy, oh, oy
+Oh, oy, oh, oy
 
 
-Ooh, oy
+Oh, oy
 I just know that something
 Good is gonna happen
-Ooh, oy, ooh, oy
+Oh, oy, oh, oy
 I just know that something
-Good is gonna happen, ooh, oy
+Good is gonna happen, oh, oy
 
-Ooh, oy, ooh, oy
-Ooh, oy, ooh, oy
+Oh, oy, oh, oy
+Oh, oy, oh, oy
 
 
-Ooh, oy, ooh, oy
-Ooh, oy, ooh, oy
+Oh, oy, oh, oy
+Oh, oy, oh, oy
 
 Utah Saints, Utah Saints
-Ooh, oy, ooh, oy
+Oh, oy, oh, oy
 
  2X

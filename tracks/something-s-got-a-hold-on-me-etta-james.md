@@ -59,7 +59,7 @@ rankings:
 Oh, sometimes I get a good feeling, yeah (yeah)
 I get a feeling that I never, never, never
 Never had before, no, no (yeah)
-I just wanna tell you right now that I (ooh)
+I just wanna tell you right now that I (oh)
 I believe, I really do believe that
 
 

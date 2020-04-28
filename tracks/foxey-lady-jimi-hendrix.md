@@ -32,7 +32,7 @@ Foxy
 I wanna take you home (huh), yeah
 I won't do you no harm, no (ha!)
 You've got to be all mine, all mine
-Ooh, Foxy Lady, yeah
+Oh Foxy Lady, yeah
 Foxy, Foxy
 Now-a, I see you come down on the scene
 Oh, Foxy
@@ -55,10 +55,10 @@ Here I come, baby
 I'm coming to get you
 
 Oh, Foxy Lady (Foxy), yeaahh
-Ooh, you look so good
+Oh you look so good
 (Foxy) Foxy
 Oh yeah, (Foxy)
-Ooh! Foxy
+Oh Foxy
 Yeah,  (Foxy) ?
 Foxy
 You make me feel like uh

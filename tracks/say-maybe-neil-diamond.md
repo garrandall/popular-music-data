@@ -64,7 +64,7 @@ Don't you know I'm a fool about you
 If I tried, I could live without you
 For maybe a day
 
-Ooh
+Oh
 What I'd do
 Say 'maybe" baby
 "Cause I need you

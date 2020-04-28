@@ -65,10 +65,10 @@ And all the haters, I swear they look so small from up here
 'Cause were bigger, a lot bigger
 
 I'm bigger, and you're bigger
-(Ooh...)
+(Oh...)
 I remember that, like yesterday
 We were little then, my baby
-Ooh, you oh, whaoo
+Oh, you oh, whaoo
 Since then all I can remember, is the love falling down
 I was a player, when I was little
 But I'm bigger, I'm bigger

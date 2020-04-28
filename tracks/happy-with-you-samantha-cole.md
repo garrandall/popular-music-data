@@ -48,7 +48,7 @@ Cause this love is so right
 And that's why I'm so happy with you
 
 Whenever you're around me I need your touch
-Ooh you drive me crazy, I want you so much
+Ohyou drive me crazy, I want you so much
 Keep doing what you're doing cause it
 Feels so good
 And it's so amazinging, that's what love can do

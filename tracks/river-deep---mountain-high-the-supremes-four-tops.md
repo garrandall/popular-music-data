@@ -60,7 +60,7 @@ And it gets deeper, let me say
 That it gets higher day by day
 
 Oh, do I love you, my, oh, my
-Ooh, baby, river deep, mountain high, yeah, yeah, yeah, yeah
+Oh, baby, river deep, mountain high, yeah, yeah, yeah, yeah
 If I lost you, would I cry
 Oh, oh, oh, how I love you, baby, baby, baby
 
@@ -80,16 +80,16 @@ Oh, how I love you, baby, baby, baby
 
 I love you, baby, like a flower loves spring
 And I love you, baby, like a robin loves to sing
-Ooh, ooh, and I love you, baby, like a schoolgirl loves her pie, yeah
+Oh, oh and I love you, baby, like a schoolgirl loves her pie, yeah
 And I love you, baby, river deep and mountain high
 
 I love you, baby
 A mountain so high
 A river deep
-Ooh, oh, baby, baby
+Oh, oh, baby, baby
 I love you, baby
 I bet you do
-Ooh, I love you, baby
+Oh, I love you, baby
 Tell me you love me
 Yes, I do, oh
 

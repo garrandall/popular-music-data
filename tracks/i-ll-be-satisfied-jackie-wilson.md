@@ -56,7 +56,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-09-07'
 ---
-Ooh, just a kiss, just a smile
+Oh just a kiss, just a smile
 Hold my hand, baby
 Just once in awhile
 

@@ -49,40 +49,40 @@ rankings:
   start_date: '1969-03-08'
 ---
 
-Goodnight, my love (wah-ooh) 
-Pleasant dreams and sleep tight, my love 
-May tomorrow be sunny and bright 
-And bring you closer to me 
+Goodnight, my love (wah-oh)
+Pleasant dreams and sleep tight, my love
+May tomorrow be sunny and bright
+And bring you closer to me
 
-Before you go (wah-ooh) 
-There's just one thing I'd like to know (wah-ooh) 
-If you love is still warm for me 
-Or has it gone cold? 
+Before you go (wah-oh)
+There's just one thing I'd like to know (wah-oh)
+If you love is still warm for me
+Or has it gone cold?
 
-If you should awake in the still of the night 
-Please have no fear 
-For I'll be there, darling you know I care 
-Please give your love to me, dear, only 
+If you should awake in the still of the night
+Please have no fear
+For I'll be there, darling you know I care
+Please give your love to me, dear, only
 
-Goodnight, my love (wah-ooh) 
-Pleasant dreams and sleep, sleep tight, my love (wah-ooh) 
-May tomorrow be sunny and bright 
+Goodnight, my love (wah-oh)
+Pleasant dreams and sleep, sleep tight, my love (wah-oh)
+May tomorrow be sunny and bright
 
-And bring you closer to me 
+And bring you closer to me
 
-Goodnight, my love 
-Pleasant dreams and sleep tight, my love 
-May tomorrow be sunny and bright 
-And bring you closer to me 
+Goodnight, my love
+Pleasant dreams and sleep tight, my love
+May tomorrow be sunny and bright
+And bring you closer to me
 
-(wah-ooh, wah-ooh) 
-Goodnight, my love 
-(wah-ooh, wah-ooh) 
-Goodnight, my love 
-(wah-ooh, wah-ooh) 
-Goodnight, my love 
-(wah-ooh, wah-ooh) 
-Sleep tight, my love 
+(wah-oh, wah-oh)
+Goodnight, my love
+(wah-oh, wah-oh)
+Goodnight, my love
+(wah-oh, wah-oh)
+Goodnight, my love
+(wah-oh, wah-oh)
+Sleep tight, my love
 
 
 

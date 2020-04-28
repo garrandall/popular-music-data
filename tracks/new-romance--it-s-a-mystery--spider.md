@@ -57,9 +57,9 @@ Never thought I'd feel this way
 Been so tired of one-night stands
 Now I'm ready for a new romance
 
-Ooh, it's a mystery, do you know
+Oh it's a mystery, do you know
 I can't figure it out
-Ooh, it's a mystery, do you know
+Oh it's a mystery, do you know
 What I'm talking about
 
 Do you love me?
@@ -72,9 +72,9 @@ That love felt so far away
 Then you smiled and asked me to dance
 Now I'm ready for a new romance
 
-Ooh, it's a mystery, do you know
+Oh it's a mystery, do you know
 I can't figure it out
-Ooh, it's a mystery, do you know
+Oh it's a mystery, do you know
 What I'm talking about
 
 Do you love me?
@@ -82,9 +82,9 @@ Do you want me?
 Maybe it's crazy, give it a chance
 I think I like this new romance
 
-Ooh, it's a mystery, do you know
+Oh it's a mystery, do you know
 I can't figure it out
-Ooh, it's a mystery, do you know
+Oh it's a mystery, do you know
 What I'm talking about
 
 Do you love me?

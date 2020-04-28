@@ -75,7 +75,7 @@ But it seems like I made a mistake
 
 
 But I was wrong
-Ooh, took too long
+Oh, took too long
 I got caught in the rush hour
 Then fellas started to shower
 You with love and affection

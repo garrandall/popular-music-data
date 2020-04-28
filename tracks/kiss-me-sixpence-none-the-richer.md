@@ -167,9 +167,6 @@ Strike up the band and make the fireflies dance
 Silver moon's sparkling
 So kiss me
 
-
-
-
 Kiss me, beneath the milky twilight
 Lead me out on the moonlit floor
 Lift your open hand

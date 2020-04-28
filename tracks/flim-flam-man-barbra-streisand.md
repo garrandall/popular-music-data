@@ -50,7 +50,7 @@ The people and the police
 And all the pretty ladies disarmed
 Oh, oh, yeah, the beautiful gent
 You know he has hardly a cent
-He pays his monthly rent......
+He pays his monthly rent...
 With the daily charm
 Hands off the man
 Flim flam man

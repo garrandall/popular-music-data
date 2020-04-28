@@ -171,6 +171,6 @@ It isn't too hard to see
 We're in heaven!
 
 
-Ohh, ohh, ohh
-Ohh, ohh, ohh
+Ohh, oh, oh
+Ohh, oh, oh
 We're in heaven!

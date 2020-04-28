@@ -151,7 +151,7 @@ rankings:
 KSR
 It's Cardi, ayy
 Said I'm the shit, they can't fuck with me if they wanted to
-I dont gotta dance
+I don't gotta dance
 
 
 Said lil' bitch, you can't fuck with me if you wanted to

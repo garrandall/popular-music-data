@@ -99,7 +99,7 @@ Yeah, I don't wanna get ove)
 I don't wanna get
 I don't wanna get...over
 
-Ooh, I don't need no cure
+Oh, I don't need no cure
 I don't need no cure
 I don't need no cure
 

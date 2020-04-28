@@ -142,5 +142,5 @@ I don't wanna lose your love tonight
 I don't wanna lose (Use your tonight) Your love
 (Lose your tonight) Your love, your love
 (Use your tonight) Your love
-(I don't lose your love tonight) Ahhh
+(I don't lose your love tonight) Ah
 (Use your tonight) Your love

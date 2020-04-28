@@ -126,9 +126,6 @@ There's no need to speak
 I'll be your belly dancer, prancer
 And you can be my sheik
 
-
-
-
 I know your Daddy's a sultan
 A nomad known to all
 With fifty girls to attend him

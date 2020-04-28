@@ -104,7 +104,7 @@ Oh, uh uh, aw
 I wonder if I've
 Forgotten anything
 
-Ooh, let's see, what was
+Oh let's see, what was
 A (apple) B (banana) C (chili)
 D (dog food) E (eggplant)
 F (fish) G (garlic) H (hairspray)

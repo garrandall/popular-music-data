@@ -82,7 +82,7 @@ Maybe it's my mistake to show this love that I feel inside
 Ya got me never knowin' if I'm comin' or goin' 'cause
 
 I love you-ou-ou, yes, I do
-This old heart (ooh)
+This old heart (oh
 I love you-ou-ou, yes, I do
 Yes, I do, wait for me
 

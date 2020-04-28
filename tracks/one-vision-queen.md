@@ -88,9 +88,6 @@ But a cold wind blows and a dark rain falls
 And in my heart, it shows
 Look what they've done to my dream, yeah!
 
-
-
-
 One vision
 So give me your hands, give me your hearts
 I'm ready! There's only one direction
@@ -101,9 +98,6 @@ Yeah, one vision
 No hate, no fight, just excitation
 All through the night it's a celebration
 Whoa, whoa, whoa, whoa, whoa, whoa, yeah
-
-
-
 
 One flesh, one bone, one true religion
 One voice, one hope, one real decision

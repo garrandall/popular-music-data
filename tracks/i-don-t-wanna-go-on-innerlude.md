@@ -42,7 +42,7 @@ Do anything you ask me to (Do anything you ask me to)
 Last night I laid awake
 I couldn't stop thinking of you (thinking of you)
 I must have called you a thousand times
-But I couldn't get through, ooh
+But I couldn't get through, oh
 So much is going through my mind
 (Did I really lose you this time?)
 I just want you to come back home

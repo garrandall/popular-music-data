@@ -125,7 +125,7 @@ Get along
 'Cause I've been all myself
 I'm dancin'
 Ancestors in my step
-Now I move better, ooh
+Now I move better, oh
 And I live on, on
 I feel a change goin' on
 Royalty in my blood, run the kingdom

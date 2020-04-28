@@ -94,13 +94,13 @@ rankings:
 ---
 If you leave me now
 You'll take away the biggest part of me
-Ooh no, baby please don't go
+Oh no, baby please don't go
 
 
 And if you leave me now
 You'll take away the very heart of me
-Ooh no baby please don't go
-Ooh girl, I just want you to stay
+Oh no baby please don't go
+Oh girl, I just want you to stay
 
 
 A love like ours is love that's hard to find
@@ -121,9 +121,9 @@ The things we said today
 
 If you leave me now
 You'll take away the biggest part of me
-Ooh no, baby please don't go
+Oh no, baby please don't go
 
 
-Ooh girl, I just got to have you by my side
-Ooh no, baby please don't go
-Ooh mama, I just got to have your lovin'
+Oh girl, I just got to have you by my side
+Oh no, baby please don't go
+Oh mama, I just got to have your lovin'

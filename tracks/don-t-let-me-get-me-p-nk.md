@@ -157,7 +157,7 @@ I'm my own worst enemy
 (Don't let me get me)
 It's bad when you annoy yourself (it's bad, it's so bad)
 So irritating (oh)
-Don't wanna be my friend no more (ahh)
+Don't wanna be my friend no more (ah)
 I wanna be somebody else
 
 

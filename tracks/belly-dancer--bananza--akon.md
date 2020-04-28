@@ -110,7 +110,7 @@ Love to work the kitty like purrrrrrr
 She loves to stirr it up purrrrrr
 I can hear her purring up
 'Cause shes the type that'll get arousy of
-Get you excited and call her boyfriend up (ohh)
+Get you excited and call her boyfriend up (oh)
 What's the man without the plan B
 We can meet up at the hutter house for the t.v
 So stand by like a butty ass

@@ -129,7 +129,7 @@ Naw, it ain't went nowhere like havin hair with stylin gel in it
 Throw a curl in it
 Dread that nappy shit up, throw a shell in it
 Whatever floats your boat, or finds your lost remote
-And this for dem niggaz workin at the airpo't
+And this for dem niggas workin at the airpo't
 who got laid off, I take my shades off
 If you look straight in my eyes, you still might see a disguise
 Because the whole, whole, world, world
@@ -154,9 +154,6 @@ Rap, roll, utterly rocked
 with my mouth to the mic and my hand on my cock
 Cadillac OutKast just won't stop
 
-
-
-
 Turn on the TV and everything is lookin dismal
 Went in the bathroom medicine cabinet Pepto-Bismal
 Need it for my stomach cause my tummy kinda aches
@@ -173,8 +170,4 @@ Pursuing all that's pursuable
 Doing God's willing all things that are doable
 The only liable limitation is yourself
 Dre set it on the right and I'll set it on the left, cause
-
-
-
-
 

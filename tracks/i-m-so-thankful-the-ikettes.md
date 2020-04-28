@@ -47,8 +47,8 @@ And for this, I'm so thankful
 For this, I'm so thankful to you
 
 Thank you, baby
-Ooh, thank you, baby
-Ooh, baby
+Oh, thank you, baby
+Oh, baby
 
 You're the flame
 Who set my soul on fire
@@ -61,7 +61,7 @@ For this, I'm so thankful
 For this, I'm so thankful to you
 
 Thank you, baby
-Ooh, thank you, baby
+Oh, thank you, baby
 
 I used to think
 That I could be your queen
@@ -75,5 +75,5 @@ I'm so thankful
 For this, I'm thankful
 
 For this, I'm thankful
-Ooh, every day now
-Ooh, every minute
+Oh, every day now
+Oh, every minute

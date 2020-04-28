@@ -157,9 +157,9 @@ BOY whatcha gon do? ACT A FOOL
 
 
 2 Fast, 2 Furious...
-2 Fast....ACT A FOOL
+2 Fast...ACT A FOOL
 2 Fast, 2 Furious...
-2 Fast....ACT A FOOL
+2 Fast...ACT A FOOL
 
 
 

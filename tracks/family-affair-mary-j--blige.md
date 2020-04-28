@@ -202,7 +202,7 @@ Let's get it percolatin', while you're waiting
 So just dance for me
 
 
-Ooh, it's only gonna be about a matter of time
+Oh, it's only gonna be about a matter of time
 Before you get loose and start to lose your mind
 Cop you a drink, go 'head and rock your ice
 'Cause we celebrating No More Drama in our life

@@ -43,7 +43,6 @@ And I've seen enough to know he's not in love with you
 And I understand your feelings, girl, I really do
 Baby, I've been through it, go ahead and do it, baby
 
-Chorus
 Get out, get out, get out now. Get out, he doesn't love you baby
 Get out, get out, get out now. Get out, my love is more than maybe
 
@@ -51,10 +50,13 @@ Can't you see your future, girl, is lookin' dim
 'Cause he don't need the love that you're givin' him
 And I'm only cryin' tears, the deeper you get in?
 Girl, you never tell him. Tell him that you're through and baby
-Repeat chorus
+
+Get out, get out, get out now. Get out, he doesn't love you baby
+Get out, get out, get out now. Get out, my love is more than maybe
 
 Girl, it's gettin' late, you go no time to wait
 And if you hesitate, I know that you'll be sorry
 
 It's time to
-Repeat chorus until fade out
+Get out, get out, get out now. Get out, he doesn't love you baby
+Get out, get out, get out now. Get out, my love is more than maybe

@@ -68,12 +68,12 @@ Break It Down
 
 
 Girl Don't Leave Me, Don't Leave Me
-Oohh, The You Receive Me
+Oh, The You Receive Me
 Don't Take This As An Aggression
 Girl I Learned My Lesson
-Don't Leave Me, Ooohhh
+Don't Leave Me, Oh
 The Natural Way You Receive Me
-Don't Take This As An Aggression 
+Don't Take This As An Aggression
 That's Why
 
 
@@ -90,9 +90,4 @@ I Tried To Impress You With My Tone
 I've Got To Be For Real
 If You're My Friend
 Or You'll Never Call Me Back Again
-
-
-
-
-
 

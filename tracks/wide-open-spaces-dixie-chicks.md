@@ -119,8 +119,8 @@ She knows the high stakes
 She knows the high stakes
 
 
-Aahhh aahhh aahhh
-Aahhh aahhh aahhh
+Ah ah ah
+Ah ah ah
 
 
 As her folks drive away her dad yells, "Check the oil"

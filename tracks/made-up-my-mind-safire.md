@@ -68,9 +68,6 @@ When the walls were tumbling down
 I was the only one who was around
 That`s when I started believing in me
 
-
-
-
 I wanna give all I have to give
 Gonna live
 Like I wanna live

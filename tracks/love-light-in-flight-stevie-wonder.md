@@ -100,7 +100,7 @@ And I don't have to think twice (Flying high)
 Let's go up and away
 
 
-Love's light in flight, mmm-hmm
+Love's light in flight, mmm-hm
 Fuel injection passion (Flying high)
 Love's light in flight (Love sky high)
 Fuel injection passion
@@ -126,7 +126,7 @@ But I know you've got the kind
 To take me up and away, yeah
 
 
-Love's light in flight, mmm-hmm
+Love's light in flight, mmm-hm
 Fuel injection passion (Flying high)
 Love's light in flight (Love sky high)
 Fuel injection passion (Flying high)
@@ -180,4 +180,4 @@ Fuel injection passion
 Love's light in flight
 Fuel injection passion
 
-Ooh, make me feel like paradise
+Oh, make me feel like paradise

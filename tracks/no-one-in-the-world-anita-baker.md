@@ -124,8 +124,8 @@ You got the love I need
 Everyone found the love that I need
 
 And no one in the world (no one in the world)
-In this world (ah, oooo)
-In this world (ah, oooo, oooooooooooo)
+In this world (ah, oo)
+In this world (ah, oo, oo)
 No one in the world
 
 

@@ -75,9 +75,9 @@ rankings:
 ---
 
 
-Ooh
+Oh
 Yeah, alright
-Ooh
+Oh
 
 Everyone knows all about my direction
 And in my heart somewhere

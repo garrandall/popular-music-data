@@ -125,9 +125,6 @@ You stupid girl
 Can't believe you fake it
 Can't believe you fake it
 
-
-
-
 Don't believe in fear
 Don't believe in pain
 Don't believe in anyone

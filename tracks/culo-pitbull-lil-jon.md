@@ -128,7 +128,7 @@ All the girls having fun tonight so move your body from the left to the right
 Cause you know you looking good tonight for sure
 
 (Verse Mr. Vegas)
-Wave yuh hands cause yuh dont give a damn
+Wave yuh hands cause yuh don't give a damn
 Girls make noise cause yuh konw yuh got yuh man
 Clap yuh hands stomp yuh feet
 And a make mi see yuh body rock to di beat

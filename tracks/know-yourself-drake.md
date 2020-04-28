@@ -173,7 +173,7 @@ Always haffi look out, yuh no know if yuh head book out
 Dun know, a de Unruly boss, dis man
 No bomboclat, otha
 And if a boy nuh like OVO or Chromatic
-Yuh can jus suck yuh mada!!
+Yuh can jus suck yuh mada!
 With no apology, if you nuh like we, we nuh like you neither youth
 Your girl a say we cute, if you diss you will get execute
 That's the truth, OVO Unruly

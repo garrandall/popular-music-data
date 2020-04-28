@@ -92,7 +92,7 @@ rankings:
 This old man and me
 Were at the bar and we
 Were having us some beers
-And swapping I-don't-cares
+And swapping I-dont-cares
 Talking politics
 Blonde and red-haired chicks
 Old dogs and new tricks

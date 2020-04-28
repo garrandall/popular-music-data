@@ -17,19 +17,19 @@ rankings:
   start_date: '1979-01-13'
 ---
 
-Musta been the way that you touched me 
-Coulda been the way that you looked 
-Musta been the way that you loved me 
-Coulda been the way that you shook 
+Musta been the way that you touched me
+Coulda been the way that you looked
+Musta been the way that you loved me
+Coulda been the way that you shook
 
-But I need you, need you bad yes I need you, need you bad 
-I'm in pain when your not around me 
-I'm in pain when I'm not around you and I need you, need you bad 
+But I need you, need you bad yes I need you, need you bad
+I'm in pain when your not around me
+I'm in pain when I'm not around you and I need you, need you bad
 
-Musta been a true desperation 
-Couldn't put a feeling aside 
-Maybe I was just getting horny 
-It's a feelin that I just cant hide
+Musta been a true desperation
+Couldn't put a feeling aside
+Maybe I was just getting horny
+It's a feelin that I just can't hide
 
 
 

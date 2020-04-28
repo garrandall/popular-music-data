@@ -55,7 +55,7 @@ When darling, I was yours and you were mine
 'Cause now you ask me girl to give you back
 
 All that I have
-Ooh, baby
+Oh baby
 All that I have
 
 And all I have
@@ -73,7 +73,7 @@ And knowing of this new love you've found
 'Cause now you ask me, girl, to give you back
 
 All that I have
-Ooh, baby
+Oh baby
 
 And all I have
 Left in my heart

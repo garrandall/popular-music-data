@@ -58,9 +58,9 @@ rankings:
 
 
 
-Ooooh ooooooooh eee ooooh ooooh
-Ooooh
-Ooooh
+Oh oh ohohoh
+Oh
+Oh
 We brothers gonna work it out
 We brothers gonna work it out
 Brother's gonna work it out (brother's gonna work it out)
@@ -84,7 +84,7 @@ Brother's gonna work it out (brother's gonna work it out)
 Brother's gonna work it all out (brother's gonna work it out)
 
 
-Ooooh! We must all join hands
+Oh! We must all join hands
 We can march across this land in peace!
 (Brother's gonna work it out)
 Love, joy, with that understanding of truly who we are

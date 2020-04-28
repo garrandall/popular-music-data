@@ -43,13 +43,13 @@ rankings:
 Wake yo' punk-ass up for the '93 shot
 MC Eiht's in the motherfuckin' house, gyeah
 And it ain't nothin' but a Compton thing, y'all
-And we ain't nothin' but Niggaz On Tha Run
+And we ain't nothin' but Niggas On Tha Run
 And this goes out to my niggas, gyeah
 
 
 A fucked up childhood is why the way I am
 It's got me in the state where I don't give a damn
-Hmm, somebody help me
+Hm, somebody help me
 But nah, they don't hear me though
 I guess I'll be another victim of the ghetto
 Ain't no escapin', 'cause I'm way too young

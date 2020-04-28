@@ -70,7 +70,7 @@ rankings:
 ---
 
 
-Express yourself, don't repress yourself 
+Express yourself, don't repress yourself
 
 
 
@@ -113,12 +113,8 @@ Oops, I didn't know I couldn't talk about you
 
 
 
-Express yourself, don't repress yourself 
-Express yourself, don't repress yourself 
-
-
-
-
+Express yourself, don't repress yourself
+Express yourself, don't repress yourself
 
 (I'm not apologizing)
 (Would it sound better if I were a man?)

@@ -47,7 +47,7 @@ Right next to you
 If you had my child (Yodel-lay-ah)
 You would make my life complete (Yodel-lay-ah)
 Just to have your eyes on little me
-That'd be mine forever (Ooh)
+That'd be mine forever (Oh)
 
 And baby, everything that I have is yours (Oh, everything)
 You will never go cold or hungry (Oh)

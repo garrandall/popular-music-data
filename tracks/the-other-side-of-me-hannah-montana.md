@@ -93,7 +93,7 @@ The other side of me
 
 The other side...the other side
 I want you to see
-The other side..the other side of me
+The other side...the other side of me
 
 
 

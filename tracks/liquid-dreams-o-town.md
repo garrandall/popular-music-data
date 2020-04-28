@@ -97,10 +97,7 @@ Waterfall and streams, these liquid dreams
 I dream about a girl who's a mix of Destiny's Child
 Just little touch of Madonna's wild style
 With Janet Jackson's smile
-Throw in a body like Jennifer's 
+Throw in a body like Jennifer's
 You've got the star of my liquid dreams
 My liquid dreams
-
-
-
 

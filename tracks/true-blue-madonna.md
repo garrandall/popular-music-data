@@ -99,9 +99,6 @@ Just think back and remember dear
 Those words whispered in your ear, I said
 
 
-
-
-
 No more sadness, I kiss it good-bye
 The sun is bursting right out of the sky
 I searched the whole world for someone like you
@@ -123,7 +120,4 @@ Those words whispered in your ear, I said
 
 True love, oh baby, true love, oh baby
 True love, oh baby, true love it's
-
-
-
 

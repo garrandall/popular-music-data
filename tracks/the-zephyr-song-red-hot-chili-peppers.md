@@ -104,9 +104,6 @@ All the world can pass me by
 Fly away on my Zephyr
 We'll find a place together
 
-
-
-
 Wo-wo-wo-wo-wo-woah, do you
 Yea-yea-yea-yea-yea-yeah
 Wo-wo-wo-wo-wo-woah, want to

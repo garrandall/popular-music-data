@@ -36,7 +36,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-11-10'
 ---
-Hmm
+Hm
 New Patek on my wrist
 White diamonds, them shits hit pink
 Alright, I'm ready

@@ -28,7 +28,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-06-14'
 ---
-(Gotta do right, cha gotta do right, ahh sometimes)
+(Gotta do right, cha gotta do right, ah sometimes)
 
 Talkin' 'bout a revolution, or maybe just a change of mind
 Working on my constitution, I began to realize
@@ -46,7 +46,7 @@ One time you gotta believe in what you feel inside
 Sometimes you gotta do right to find happiness
 Sometimes, sometimes
 
-(Gotta do right, cha gotta do right, ahh sometimes)
+(Gotta do right, cha gotta do right, ah sometimes)
 You're lookin' at a transformation
 That's brought about a change in me
 Love's a brand new situation, never have I felt so free
@@ -65,4 +65,4 @@ One time you gotta believe in what you feel inside
 Sometimes you gotta do right to find happiness
 Sometimes, sometimes
 
-(Gotta do right, cha gotta do right, ahh sometimes, sometimes x4)
+(Gotta do right, cha gotta do right, ah sometimes, sometimes x4)

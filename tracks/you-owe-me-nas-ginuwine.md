@@ -92,7 +92,7 @@ Owe me back like forty acres to Blacks
 Pay me back when you shake it like that girl
 
 
-Shorty, say what's your price 
+Shorty, say what's your price
 Just to back it up
 You can hold my ice
 Now let's say you owe, owe, owe
@@ -122,7 +122,7 @@ So girls everywhere, this is how we get down
 
 
 
-Shorty, say what's your price 
+Shorty, say what's your price
 Just to back it up
 You can hold my ice
 Now let's say you owe, owe, owe
@@ -151,9 +151,6 @@ Your body's so nice that I give you this option
 Let you wear my big chain if we get it popping
 
 
-
-
- 
 I put the shackles on your feet (You owe me)
 I think you owe me some (You owe me)
 The shackles on your feet (You owe Nas)

@@ -56,7 +56,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-10-16'
 ---
-Darling..oh oh
+Darling...oh oh
 When we get married
 We will have a big celebration
 Send invitations to all of our friends and relations

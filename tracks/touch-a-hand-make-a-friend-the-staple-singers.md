@@ -80,7 +80,7 @@ Make a friend if you can
 Reach out, touch a hand
 Make a friend if you can
 
-Ooh, it's been reflecting in the attitudes
+Oh, it's been reflecting in the attitudes
 Of others just like you
 Reach out, touch a hand
 Yo, make a friend if you can

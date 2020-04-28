@@ -65,7 +65,7 @@ Don't you wish you came more?
 Girl what you're playing for?
 Ah, come on
 Come on, let me kiss that
-Ooh, I know you miss that
+Oh I know you miss that
 What's wrong? Let me fix that
 Twist that
 

@@ -95,14 +95,10 @@ So dream your way into my life
 'Cause baby I'll give you tonight
 I'll bring all your pictures to life
 Give it up! Give it up! Give it up! Give it up!
-Give it up... (ooh God) Give it up... Just give it up...Give it up
+Give it up... (oh God) Give it up... Just give it up...Give it up
 
 Give it up! Give it up (Yeah!)
 Give it up! Give it up!
 C'mon, c'mon, c'mon, c'mon, give it up
 Give it up! Won't you give it up baby tonight?
-
-
-
-
 

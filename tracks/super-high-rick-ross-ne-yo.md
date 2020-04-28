@@ -14,7 +14,7 @@ rankings:
   start_date: '2010-06-12'
 ---
 
-Uh....uh....uh
+Uh...uh...uh
 
 
 From my nigga Diddy view, I think I see his vision too
@@ -32,10 +32,10 @@ I'm beatin' niggas by margins bigger than Fran Tarkenton
 
 
 All these cars, all these stars, all around me (super high)
-Put your eyes... to the sky, that's where you'll find meee (ooh ooh ooh)
+Put your eyes... to the sky, that's where you'll find meee (ohoohhoh
 
-Cuz we are.... we are.... super hiiiigh
-Ooh yeah, ooh yeah
+Cuz we are... we are... super hiiiigh
+Ohyeah, ohyeah
 
 
 
@@ -52,9 +52,6 @@ Andele, andele, baby move fast
 She drop it down and bring it back, I like that
 I wanna buy my bitch every bag
 so she ain't ever, ever, ever gotta take 'em back
-
-
-
 
 If you lookin' for me, you can find me in the Guinness Book
 Only fly bitches ride with the Boss, take a look
@@ -77,12 +74,9 @@ If you lookin' for me, you can find me in the Guinness Book
 Only fly bitches ride with the Boss, take a look
 
 
-Put your eyes to the sky, that's where you'll find meee (ooh ooh ooh)
+Put your eyes to the sky, that's where you'll find meee (ohoohhoh
 Cuz we are, we are super high
-ooh yeah, ooh yeah
-
-
-
+ohyeah, ooheah
 
 What the fuck are they yellin' ?
 

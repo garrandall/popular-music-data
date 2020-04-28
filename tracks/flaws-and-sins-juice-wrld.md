@@ -63,8 +63,8 @@ That mean Cupid ain't give you a headshot
 So I ain't got no choice but to leave you with a headshot
 Look at the way I make that fuckin' bed rock
 Where your ring finger at? I need wedlock
-Got my sights on your ass, ooh, red dot
-We some bats that made it outta Hell, ooh, red hot
+Got my sights on your ass, oh red dot
+We some bats that made it outta Hell, oh red hot
 Ay, go all night, bitch, don't stop
 We ain't gon' be finished till the sun's up
 

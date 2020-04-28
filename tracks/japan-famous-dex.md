@@ -76,7 +76,7 @@ I got a lot of more diamonds too
 I just got new diamonds by the way
 Uh, woah
 Uh, Dexter
-Ooh, huh
+Oh, huh
 Yeah, what
 Baby girl, what you doing, where your mans? (where your)
 I just popped a xan, fifty thousand in Japan
@@ -97,7 +97,7 @@ I ain't playin' no games, see these diamonds in my chain
 Smokin' Mary Jane, yeah, I took it to the brain
 And she fuckin' for the fame, so I fucked her in my Range, wait (skr, skr)
 Get that money to the top, never stop (Dexter)
-Mixing red with wock, I just sell that boy rerock, ooh
+Mixing red with wock, I just sell that boy rerock, oh
 But I'm the man, Cuban diamonds dance
 Had to fuck her friend, I might put it on the Gram
 

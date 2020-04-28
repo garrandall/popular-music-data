@@ -32,25 +32,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-05-18'
 ---
-Verse 1
-Oh, your red scarf matches your eyes
-You closed your cover before striking
-Father had the shipfitter blues
-Loving you has made me bananas
-Verse 2
-Oh, your red scarf matches your eyes
-You closed your cover before striking
-Father had the shipfitter blues
-Loving you has made me bananas
-Bridge
-Oh, you burnt your finger that evening
-While my back was turned
-I asked the waiter for iodine
-But I dined all alone
-Verse 3
 Oh, your red scarf matches your eyes
 You closed your cover before striking
 Father had the shipfitter blues
 Loving you has made me bananas
 
-(Return to bridge)
+Oh, your red scarf matches your eyes
+You closed your cover before striking
+Father had the shipfitter blues
+Loving you has made me bananas
+
+Oh, you burnt your finger that evening
+While my back was turned
+I asked the waiter for iodine
+But I dined all alone
+
+Oh, your red scarf matches your eyes
+You closed your cover before striking
+Father had the shipfitter blues
+Loving you has made me bananas

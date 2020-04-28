@@ -146,7 +146,7 @@ Whatever you do
 These are the wages of love
 Rock the cradle of love
 These are the wages of love
-Ooh yeah
+Oh yeah
 Rock the cradle
 Yeah yeah yeah yeah yeah yeah
 

@@ -26,7 +26,7 @@ At seventeen, she's just like me when I was seventeen
 So I don't blame her
 
 
-Do do do do 
+Do do do do
 Do do do do
 What are we gonna do ?
 Do do do do
@@ -46,8 +46,8 @@ Teenage Daughters
 She rolls her eye's when I'm funny
 But she's sweet when she wants money and her freedom
 Oh my god, she's got a car
-Swears they wont go far
-And i wish i believed 'em
+Swears they won't go far
+And I wish I believed 'em
 
 
 

@@ -86,8 +86,8 @@ Yeah! Popcorn! oh! uh!
 Yeah, yeah, yeah, yeah
 Yeah! Eeee yeah!
 Do the popcorn hu!
-Ooooooooh!
-Ooooooooh!
+Oh!
+Oh!
 Popcorn! uh!
 Yeah-yeah-yeah
 

@@ -51,7 +51,7 @@ MAC's-11, I be steppin', bitch, I'm reckless, I'm dumb
 Catch you wrestling in your section with that Wesson, you slumped
 I got bro on top, ain't tell through a message, we come
 We hang guns with them drums, Draco sounding like a bomb
-Yeah, you talk that shit, I'm with it, hmm
+Yeah, you talk that shit, I'm with it, hm
 Watch how quick I whip it
 I go Shmurda with them glizzies
 I got murder on my tension

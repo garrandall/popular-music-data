@@ -62,15 +62,8 @@ Finna have a party baby you can tell your friends
 We the type lookin' right still settin' trends
 Fuck a job I'm a get these dead presidents
 
-
-
-
 Not a day goes by when I ain't gettin' high
 They wonder why don't I go get myself a job
 So I can make them bucks but I don't give a fuck
 No, I feel great Bitch I feel great
-
-
-
-
 

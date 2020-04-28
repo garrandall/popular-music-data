@@ -26,8 +26,8 @@ We stuck in La La Land
 We got the same fuckin' moves
 
 Y'all fuck the same fuckin' chicks
-I'm in the skrt with ya..yeah, right
-I'm the skrt with ya..cool story
+I'm in the skrt with ya...yeah, right
+I'm the skrt with ya...cool story
 I'm on the ch..'nough of this
 Look, I know killers, you no killer, huh?
 Bathing Ape maybe not a gorilla, huh?

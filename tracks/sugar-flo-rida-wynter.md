@@ -83,15 +83,15 @@ rankings:
 ---
 
 
-Da double dee double di 
-My lips like sugar 
-This candy got you sprung 
-So call me your sugar 
-You love you some 
+Da double dee double di
+My lips like sugar
+This candy got you sprung
+So call me your sugar
+You love you some
 I'm sweet like
-Da double dee double di 
+Da double dee double di
 I'm sweet like
-Da double dee double di 
+Da double dee double di
 I'm sweet like
 Da double dee double di
 Sugar
@@ -115,25 +115,25 @@ Lil mama, give me high blood pressure when you blush.
 Lips feel soft as a feather when we touch, Shawty thats whats up.
 
 
-My lips like sugar 
-This candy got you sprung 
-So call me your sugar 
-You love you some 
+My lips like sugar
+This candy got you sprung
+So call me your sugar
+You love you some
 I'm sweet like
-Da double dee double di 
+Da double dee double di
 I'm sweet like
-Da double dee double di 
+Da double dee double di
 I'm sweet like
 Da double dee double di
 Sugar
 
 
 Hey, Sh Shawty would you mind, cuz I want me some.
-Now and later, I dont wanna have to wait, you the one.
+Now and later, I don't wanna have to wait, you the one.
 Yep! Yep! Your vision. So, so delicious.
 Cant help my interest, candy addiction.
 Wanna peace, to a piece gotta get a piece.
-I dont know a piece, Give me all your sweets.
+I don't know a piece, Give me all your sweets.
 Bottom and top lip, bout to have a sugar feast.
 Level with our trip, Im a lip bitin beast.
 Man for them things, all 42 teeth.
@@ -142,16 +142,16 @@ Aint your mama slirp, stickin, usin my tree.
 Like taffy but classy, get at me.
 Im flyly Let you know I wanna kiss.
 But your lips, theyll do me fine.
-Now baby dont trip with the juicy kind.
+Now baby don't trip with the juicy kind.
 Get, get on the grip, Girl you aint lyin.
 
 
-My lips like sugar 
-This candy got you sprung 
-So call me your sugar 
-You love you some 
+My lips like sugar
+This candy got you sprung
+So call me your sugar
+You love you some
 I'm sweet like
-Da double dee double di 
+Da double dee double di
 Sugar
 
 

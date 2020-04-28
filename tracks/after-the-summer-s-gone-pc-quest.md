@@ -90,7 +90,7 @@ I'll be missing you
 
 
 (After the summer's gone)
-Oooh
+Oh
 (After the summer's gone)
 After the summer's gone
 (After the summer's gone)
@@ -101,7 +101,7 @@ Wanting you near
 (After the summer's gone)
 After the summer's gone
 (After the summer's gone)
-Oooh
+Oh
 (After the summer's gone)
 Saying goodbye
 After the summer's gone

@@ -139,9 +139,9 @@ I put two mill' in the safe just in case, don't go my way (no cap)
 My kids gotta have money, not just me (Facts)
 That's selfish (It's selfish)
 Oh, I took the crown off the king like Mike did Elvis (Oh, I took it)
-Ooh, the world is wild, he dying
+Oh, the world is wild, he dying
 Don't lie, that don't help him (World is wild)
-Ooh, your bitch want to eat up the drip, and you can not help it
+Oh, your bitch want to eat up the drip, and you can not help it
 
 Straight out the streets to a penthouse, Miami beach (Yayo)
 Niggas talk crazy on tweets (Who)
@@ -189,7 +189,7 @@ Do anything for clout (Whoo)
 Bitches is mad, bitches is trash (Errr)
 Oscar the Grouch (Grouch)
 Seeing me win, they gotta hurt
-Ooh, ooh, ouch
+Oh, oh, ouch
 Said when they see me, what they gon' do?
 Bitch, not from the couch, bah
 

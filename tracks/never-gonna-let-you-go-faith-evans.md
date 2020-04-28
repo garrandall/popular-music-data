@@ -144,7 +144,7 @@ Down deep in my soul, I'll never let it go
 I'll never let you go (I'll never let you go)
 'Cause I really love you so
 No I, I'll never let you go
-No no, ooh...
+No no, oh..
 
 
 Oh no, oh oh oh...

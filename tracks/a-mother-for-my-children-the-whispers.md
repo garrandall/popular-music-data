@@ -30,7 +30,7 @@ When mother's day comes along
 They ask me where their mama's gone
 Left me here scrubbin' floors
 Never washed two dishes before
-How can i tell two little boys
+How can I tell two little boys
 Your mama ain't comin' home no more
 I've gotta find a mother for my children
 Don't need no sister, don't need no brother
@@ -50,7 +50,7 @@ I've gotta find a mother for my children
 I've gotta find a mother for my children
 I don't need no sister, don't need no brother
 I've gotta find, yeah, yeah, yeah, mother for my children
-I got to and i got to, i got to find a mother for my children
+I got to and I got to, I got to find a mother for my children
 Find a, gotta find a, gotta find a mother for my children
 I don't need no brother
 Gotta find a mother for my children

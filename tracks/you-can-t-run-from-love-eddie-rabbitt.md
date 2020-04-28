@@ -68,9 +68,9 @@ It's going to find you any place.
 
 You can't run from love there's just no place
 In this world you can hide
-You can't run from love ooooo
+You can't run from love oo
 You can't run from love there's just no place
 In this world cause I've tried
 
-You can't run from love ooooooo
+You can't run from love oo
 You can't run from love (fade out)

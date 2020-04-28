@@ -105,11 +105,6 @@ You go back, Jack, do it again
 Wheel turnin' 'round and 'round
 You go back, Jack, do it again
 
-
-
-
-
-
 Now you swear and kick and beg us
 That you're not a gambling man
 Then you find you're back in Vegas

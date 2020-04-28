@@ -141,9 +141,6 @@ Free your mind and the rest will follow
 Be color blind, don't be so shallow
 Free your mind
 
-
-
-
 Mmm-dah, mmm-dah, mmm-dah, mmm-dah
 Why oh why must it be this way?
 Before you can read me you gotta learn how to see me, I said

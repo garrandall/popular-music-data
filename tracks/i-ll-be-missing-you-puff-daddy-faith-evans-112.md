@@ -232,10 +232,10 @@ Every night I pray
 Every step I take
 Every move I make
 Every single day
-Every step i take
-Every move i make
+Every step I take
+Every move I make
 Every single day
-Every time i pray
+Every time I pray
 I'll be missing you
 Thinking of the day
 When you went away

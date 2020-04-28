@@ -97,9 +97,9 @@ But I do know that I love you
 And I know that if you love me, too
 What a wonderful world this would be (La, ta, ta, tata, ta, ta)
 
-History (Hmmmm)
+History (Hm)
 Biology (Woah, la, ta, ta, tata, ta, ta)
-Science book (Hmmmm)
+Science book (Hm)
 French I took (Yeah)
 But I do know that I love you,
 And I know that if you love me, too

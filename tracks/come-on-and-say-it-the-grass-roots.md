@@ -78,4 +78,4 @@ Come on and say it (I know you want it, girl)
 Come on and say it (Whoa)
 Come on and say it (Baby)
 Come on and say it
-Come on and say it (Whoa-ooh)
+Come on and say it (Whoa-oh

@@ -81,8 +81,8 @@ rankings:
 
 
 I've got hoes
-I've got hoes, in different area codes (area, area codes..codes)
-hoes, hoes, in different area codes (area, area codes..codes)
+I've got hoes, in different area codes (area, area codes...codes)
+hoes, hoes, in different area codes (area, area codes...codes)
 
 
 Now you thought I was just 7-7-0
@@ -114,7 +114,7 @@ With perpendicular vehicular homicide
 Too much green, too much fun
 I bang cock in Bangkok
 Can't stop, I turn and hit the same spot
-Think not, I'm the thrilla in Manilla, 
+Think not, I'm the thrilla in Manilla,
 Schlong in Hong Kong
 Pimp em like vision, magic Don Juan
 Man after Henny with a coke and a smile
@@ -135,9 +135,6 @@ Whenever I call, come running
 2-1-2 or 2-1-3
 You know that I ball, stop frontin
 'For I call on something to free
-
-
-
 
 9-1-6, 4-1-5, 7-0-4
 Shout out to the 2-0-6

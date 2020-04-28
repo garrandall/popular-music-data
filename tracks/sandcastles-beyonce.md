@@ -20,7 +20,7 @@ rankings:
 We build sand castles
 That washed away
 I made you cry
-When I walked away, ooh
+When I walked away, oh
 And although I promised
 That I couldn't stay, babe
 Every promise don't work out that way, oh babe
@@ -40,7 +40,7 @@ When every promise don't work out that way
 And your heart is broken
 Cause I walked away
 Show me your scars
-And I won't walk away, Ooh
+And I won't walk away, Oh
 And I know I promised that I couldn't stay, bay... baby
 Every promise don't work out that way, no no no no no
 Every promise don't work out that way

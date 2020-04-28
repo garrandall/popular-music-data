@@ -99,7 +99,7 @@ Oh yeah, mmm
 Just once in my life let me get what I want,
 Girl don't let me down;
 Just once in my life let me hold onto
-A good thing I've found, don't let me down....
+A good thing I've found, don't let me down...
 
 
 

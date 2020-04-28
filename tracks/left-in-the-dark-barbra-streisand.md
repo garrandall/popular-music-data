@@ -96,7 +96,7 @@ I know that you love me
 There's no need to talk
 I see the look in your eyes and I got the proof
 And there are no lies on your body
-As I see you undress  ooooh
+As I see you undress  oh
 I just want to get at the truth
 I know that you love me
 There's no need to talk
@@ -130,14 +130,14 @@ I know that you love me
 There's no need to talk
 I see the look in your eyes and I got the proof
 And there are no lies on your body
-As I watch you undress  oooooh
+As I watch you undress  oh
 I just want to get at the truth
 
 And there are so many things
 That I've just got to know
 You tell me who! You tell me where!
 You tell me when!  But don't tell me now
-I don't need any answers tonight....
+I don't need any answers tonight...
 I just need some love so turn out the lights and
 I'll be left in the dark again
 
@@ -150,7 +150,7 @@ So turn out the lights and I'll be left in the dark again
 I just need some love
 So turn out the light and I'll be left in the dark again
 I just need some love
-So turn out the lights and I'll be left in the dark again......
+So turn out the lights and I'll be left in the dark again...
 Left in the dark again
 
 

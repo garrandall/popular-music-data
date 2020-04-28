@@ -125,8 +125,8 @@ A-hee-ahee ha-hee!
 A-hee-ahee ha-hee!
 A-hee-ahee ha-hee!
 What the fox say?
-A-oo-oo-oo-ooo!
-Woo-oo-oo-ooo!
+A-oo-oo-oo-oo!
+Woo-oo-oo-oo!
 What does the fox say?!
 
 The secret of the fox, ancient mystery

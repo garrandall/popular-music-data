@@ -68,7 +68,7 @@ Not everybody's playing
 I wanna be your girlfriend
 But you gotta turn the pressure off
 
-Ooh, you're good
+Oh, you're good
 You try real hard
 So just fill out your application
 I'll let you know next year

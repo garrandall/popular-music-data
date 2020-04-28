@@ -108,7 +108,7 @@ I just say no
 I say I don't like it
 But you know I'm a liar
 'Cause when we kiss
-Ooooh, fire
+Oh, fire
 
 Late at night
 You're takin' me home
@@ -117,7 +117,7 @@ I say I wanna be alone
 I say I don't love you
 But you know I'm a liar
 'Cause when we kiss
-Ooooh, fire
+Oh, fire
 
 You had a hold on me
 Right from the start
@@ -135,9 +135,9 @@ A love they couldn't deny
 My words say split
 But my words they lie
 'Cause when we kiss
-Ooooh, fire
+Oh, fire
 
-Ooooh, fire
+Oh, fire
 Kisses like fire
 Burn me up with fire
 I like what you're doin' now

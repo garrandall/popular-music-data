@@ -111,5 +111,5 @@ We're ready, 1...2...3...4...
 
 
 We can find a way
-We're ready now, oooh, we're ready now
-We're ready now, oooh
+We're ready now, ohwe're ready now
+We're ready now, oh

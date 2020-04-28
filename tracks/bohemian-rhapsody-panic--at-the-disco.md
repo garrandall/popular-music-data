@@ -31,7 +31,7 @@ Pulled my trigger, now he's dead
 Mama, life had just begun
 But now I've gone and thrown it all away
 
-Mama, ooh
+Mama, oh
 Didn't mean to make you cry
 If I'm not back again this time tomorrow
 Carry on, carry on
@@ -43,7 +43,7 @@ Body's aching all the time
 Goodbye everybody, I've got to go
 Gotta leave you all behind and face the truth
 
-Mama, ooh
+Mama, oh
 I don't wanna die
 I sometimes wish I'd never been born at all
 

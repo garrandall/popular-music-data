@@ -60,7 +60,6 @@ To a loser like you
 She's out of your class
 
 But I'm walking proud
-Chorus
 
 So many other guys
 Tried to steal you away
@@ -69,4 +68,3 @@ Your heart stood it's ground
 And that's why I say
 
 I'm walking proud
-Chorus

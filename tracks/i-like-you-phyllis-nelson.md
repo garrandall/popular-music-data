@@ -75,7 +75,7 @@ I like you...
 Yes, I do
 Yes, I do
 
-Ooh
+Oh
 The wine a taking of rhythm
 In this divine friendship we share
 Like the wine mellow so sweet

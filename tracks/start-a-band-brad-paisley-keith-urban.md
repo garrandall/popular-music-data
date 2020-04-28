@@ -86,7 +86,7 @@ was from my sister's rock star boyfriend
 
 Just get you a guitar and learn how to play
 Cut up some jeans, come up with a name
-When you're living in a world that you dont understand
+When you're living in a world that you don't understand
 Find a few good buddies, start a band
 Start a band, Start a band
 

@@ -146,7 +146,7 @@ I don't wanna hide the way I feel when you're next to me (hey)
 I love the way (I love the way you make me feel)
 I love the way (I love it, I love it)
 Baby, I love the way (I love the way you make me feel)
-Ooh, I love the way (I love it, I love it)
+Oh, I love the way (I love it, I love it)
 The way you love me
 
 Oh, it's so crazy you get my heart jumping
@@ -169,7 +169,7 @@ I don't wanna hide the way I feel when you're next to me (hey)
 I love the way (I love the way you make me feel)
 I love the way (I love it, I love it)
 Baby, I love the way (I love the way you make me feel)
-Ooh, I love the way (I love it, I love it)
+Oh, I love the way (I love it, I love it)
 The way I love you
 
 Uh, I make you feel so fine, make you feel so fine
@@ -194,11 +194,11 @@ I don't wanna hide the way I feel when you're next to me (hey)
 I love the way (I love the way)
 I love the way (I love it, I love it)
 Baby, I love the way (I love the way)
-Ooh, I love the way (I love it, I love it)
+Oh, I love the way (I love it, I love it)
 I love the way (I love the way you make me feel)
 I love the way (I love it, I love it)
 Baby, I love the way (I love the way you make me feel)
-Ooh, I love the way (I love it)
+Oh, I love the way (I love it)
 The way I love you
 The way I love you, you, you, yeah, the way
 I love the way you make me feel

@@ -137,12 +137,12 @@ And to you I'm gonna show it
 If you want your boomerang to come back
 Well, first you've got to throw it
 
-Ooh, yes, never thought of that
+Oh, yes, never thought of that
 Daddy will be pleased
 Must have a go, nyuh, huh, excuse me
 Now then, slowly back and throw
 
-Ooh my God, I've hit the flying doctor
+Oh my God, I've hit the flying doctor
 Eee, hee, hee, can you do first aid?
 Don't talk to me about first aid
 Boy, you owe me fourteen chickens

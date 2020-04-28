@@ -46,7 +46,7 @@ This is so wrong, I can't go on
 
 I need to know should I fight for love or disarm
 It's getting harder to shield this pain in my heart
-Oooh
+Oh
 
 That should be me holding your hand
 That should be me making you laugh

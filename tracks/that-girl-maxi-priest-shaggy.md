@@ -102,8 +102,8 @@ Takes you to a place of your fantasy
 Walks you to the door
 But she holds the key
 
-That girl(ooh) that kind of girl
-That girl(ooh) that kind of girl
+That girl(oh) that kind of girl
+That girl(oh) that kind of girl
 
 No matter who you are
 Or what you do
@@ -114,10 +114,10 @@ When it's cold outside
 Take you on a high
 Even make you fly
 
-That girl(ooh) that kind of girl
-That girl(ooh) that kind of girl
+That girl(oh) that kind of girl
+That girl(oh) that kind of girl
 
-Mmmmmmm, she's outspoken
+Mmm, she's outspoken
 I'm heartbroken
 Just the kind of girl to keep my
 love life rolling
@@ -129,12 +129,12 @@ Girl to make you break your
 silence and speak
 Just a glimpse upon the
 silhouette make my knees
-Get weak mmmmm
+Get weak mmm
 Baby, baby so unique a reggaematic
 Lover lover make her life complete
 
-That girl(ooh) that kind of girl
-That girl(ooh) that kind of girl
+That girl(oh) that kind of girl
+That girl(oh) that kind of girl
 
 She's the kind of woman
 Who knows the street
@@ -145,8 +145,8 @@ Just attitude
 Believe in what she's got
 And she won't get used
 
-That girl(ooh) that kind of girl
-That girl(ooh) that kind of girl
+That girl(oh) that kind of girl
+That girl(oh) that kind of girl
 
 Well I'm weak to her touch
 So vulnerable to her blush, love struck
@@ -159,8 +159,8 @@ Caught up in this trap and didn't wanna be
 But I ain't no fool I was one step ahead
 I had to let go cause I was over my head
 
-That girl(ooh) that kind of girl
-That girl(ooh) that kind of girl
+That girl(oh) that kind of girl
+That girl(oh) that kind of girl
 
 Gangster kind of lover
 Cause she's the shaggy kind of girl
@@ -175,8 +175,8 @@ She's outspoken
 I'm heartbroken
 She's the kind of girl to keep my that that girl
 
-That girl(ooh) that kind of girl
-That girl(ooh) that kind of girl
+That girl(oh) that kind of girl
+That girl(oh) that kind of girl
 
 I got to let them know
 She's the kind of girl that captivates your soul

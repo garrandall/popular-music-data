@@ -135,9 +135,6 @@ In a little corner booth, eye to eye no talk
 She leaned in close and gave me one long
 And wet Goodnight goodbye kiss and It felt good on my lips
 
-
-
-
 Whoa, how sweet it is
 Whoa yeah it felt good on my lips
 Whoa, how sweet it is

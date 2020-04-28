@@ -89,9 +89,6 @@ rankings:
   start_date: '1996-01-06'
 ---
 
-
-
-
 Wake up, wake up, wake up it's the 1st of the month
 To get up, get up, get up so cash your checks and get up
 Wake up, wake up, wake up it's the 1st of the month

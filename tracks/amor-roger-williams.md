@@ -36,7 +36,7 @@ Elle allait et volait comme bon lui semblait
 C'est certainement pour ça que je pensai voler
 Pour soigner mes blessures elle a posé ses lèvres
 Après ça le bonheur avait cet air là
-Aaai ai amor ai ai ai ai amor, mi amor aaai ai amor ai ai ai
+Aaai ai amor ai ai ai ai amor, mi amor aai ai amor ai ai ai
 Ai amor, c'est l'amour!
 Je m'suis demandé d'où venait cette image (yeh hi yeh...)
 Un ange devant mes yeux n'était pas une image
@@ -47,7 +47,7 @@ Elle allait et volait comme bon lui semblait
 C'est certainement pour ça que je pensais voler
 Pour soigner mes blessures elle a posé ses lèvres après
 ça le bonheur avait cet air là... (MI AMOR!)
-Aaai ai amor ai ai ai ai amor, mi amor aaai ai amor ai ai ai
+Aaai ai amor ai ai ai ai amor, mi amor aai ai amor ai ai ai
 Ai amor, c'est l'amour!
-Aaai ai amor (amor) ai ai ai ai amor, mi amor aaai ai amor
+Aaai ai amor (amor) ai ai ai ai amor, mi amor aai ai amor
 Ai ai ai ai amor (amor), c'est l'amour

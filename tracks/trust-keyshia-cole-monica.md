@@ -88,15 +88,15 @@ And if you trust in me I can be that through anything you need (anything you nee
 And give it all to me baby
 Dont you run from me baby
 I'll give you every little piece of me
-No I wont leave out a thing cause I know...
+No I won't leave out a thing cause I know...
 
 I know you've seen alot of things in your life
-Got you feeling like this cant be right
-But I wont hurt you im down for you baby
+Got you feeling like this can't be right
+But I won't hurt you im down for you baby
 (I know you've seen alot of things)
 I know you've seen alot of things in your life
-Got you feeling like this cant be right
-But I wont hurt you im down for you baby (I'm down for you baby)
+Got you feeling like this can't be right
+But I won't hurt you im down for you baby (I'm down for you baby)
 
 Now let me show you love can be easy if you jus let it be
 Nothin is promised but I believe if you give me everything (TRUST)
@@ -104,12 +104,12 @@ N I'll give you everythin that I got n I won't stop til you get it right
 All tha trust n all tha love you kno we got a lot baby
 
 I know you've seen alot of things in your life
-Got you feeling like this cant be right
-But I wont hurt you im down for you baby
+Got you feeling like this can't be right
+But I won't hurt you im down for you baby
 (I know you've seen alot of things)
 I know you've seen alot of things in your life
-Got you feeling like this cant be right
-But I wont hurt you im down for you baby (I'm down for you baby)
+Got you feeling like this can't be right
+But I won't hurt you im down for you baby (I'm down for you baby)
 
 I trust you, I love you, I want you, I need you
 Baby I breathe you, never leave you, life wouldn't be the same without you
@@ -118,12 +118,12 @@ Baby I breath you, never leave you, life wouldn't be the same without you,
 Noooooo No No No No
 
 I know you've seen alot of things in your life
-Got you feeling like this cant be right
-But I wont hurt you im down for you baby
+Got you feeling like this can't be right
+But I won't hurt you im down for you baby
 (I know you've seen alot of things)
 I know you've seen alot of things in your life
-Got you feeling like this cant be right
-But I wont hurt you im down for you baby (I'm down for you baby)
+Got you feeling like this can't be right
+But I won't hurt you im down for you baby (I'm down for you baby)
 
 I know you've seen a lot of things in your life.
 It got you feeling like this can't be right.
@@ -144,7 +144,7 @@ But, I won't hurt you; I'm down for you baby.
  In Your Life..
  I Love You Baby..
  Love You Baby, Yeah..
- Don't care what they say about us, Ooh No No No No No
+ Don't care what they say about us, OhNo No No No No
  Tell 'Em, Tell 'Em...
  In Your Life (Monica: Life)
  In Your Life

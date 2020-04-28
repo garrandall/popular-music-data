@@ -68,7 +68,7 @@ rankings:
 Nothing so blue as a heart in pain
 Nothing so sad as a tear in vain
 
-Ooh ooh-ooh-oh
+Oh ohoohh
 
 Let him walk on out if he wants to
 He really doesn't deserve you

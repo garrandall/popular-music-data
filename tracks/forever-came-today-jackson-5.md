@@ -71,7 +71,7 @@ Made my lonely life a paradise
 It came today
 Forever came today
 
-Ooh, look in my eyes and see how much I want ya
+Oh, look in my eyes and see how much I want ya
 Feel my touch
 You know how much I need ya
 I may be young, but I'm old enough to know
@@ -84,7 +84,7 @@ Make it last forever
 
 
 Darling
-Ooh, my darling make me yours
+Oh, my darling make me yours
 As I touch your face
 Tell me love has led me (led me)
 To this place
@@ -99,10 +99,10 @@ That I been forever dreaming of
 
 
 
-Ooh, you give me love by the hour
-Ooh, you're my precious little flower
+Oh, you give me love by the hour
+Oh, you're my precious little flower
 Girl you give me so much sweetness
-Ooh, you give my life completeness
+Oh, you give my life completeness
 Make it last for more than just a day
 Make it last for more than just an hour
 Make it last forever

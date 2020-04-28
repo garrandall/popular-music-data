@@ -142,10 +142,10 @@ I took the top off the Maybach
 I took the top off the Maybach
 
 
-Ooh-ooh, ooh, it's glittery, glittery
-Ooh-ooh, it's pricy, pricy
-Ooh-ooh, one-point-five
-Ooh-ooh, I'm hyphy, I'm hyphy
+Oh-oh oohit's glittery, glittery
+Oh-oh it's pricy, pricy
+Oh-oh one-point-five
+Oh-oh I'm hyphy, I'm hyphy
 
 
 I hear the po-po behind me, woo, ain't gon' stop (Skrrt, skrrt)
@@ -158,4 +158,4 @@ We The Best Music
 I took the top off, I took the top off, I took the top off
 Roc Nation
 I took the top off, I took the top off, I took the top off
-Ooh-ooh
+Oh-oh

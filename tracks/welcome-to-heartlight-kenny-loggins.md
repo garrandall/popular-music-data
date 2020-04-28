@@ -80,13 +80,13 @@ Burnin' like a beacon in the night
 O welcome to heartlight
 
 Chorus:
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
+Oh oh heart of light
+Oh oh heart of light
+Oh oh heart of light
+Oh oh heart of light
+Oh oh heart of light
+Oh oh heart of light
+Oh oh heart of light
 Oh welcome to heartlight
 
 I'm like the rain
@@ -104,24 +104,23 @@ Can't you see the flame we've got to start
 Burnin' like a beacon in the night
 O welcome to heartlight
 
-Chorus
 
 Can you feel the love that's in my heart
 Can't you see the flame we've got to start
 Burnin' like a beacon in the night
 O welcome to heartlight
 
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
-Oh oooh heart of light
+Oh oh heart of light
+Oh oh heart of light
+Oh oh heart of light
+Oh oh heart of light
+Oh oh heart of light
+Oh oh heart of light
+Oh oh heart of light
+Oh oh heart of light
+Oh oh heart of light
+Oh oh heart of light
 Oh welcome to heartlight
 
-(Kids continue to sing "Oh oooh heart of light"...)
+(Kids continue to sing "Oh oh heart of light"...)
 While Kenny ad libs... Heart of light, Heart of light...

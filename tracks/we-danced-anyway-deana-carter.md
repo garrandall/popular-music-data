@@ -56,11 +56,11 @@ I remember you were laughing
 We were so in love, we were so in love
 
 
-And the band played 
+And the band played
 Songs that we had never heard
 But we danced anyway
 We never understood the words
-We just sang oh la la la la la la la la 
+We just sang oh la la la la la la la la
 And we danced anyway
 
 Well they say you can't go back
@@ -78,17 +78,17 @@ We were so in love, so in love
 You remember we were laughing
 We were so in love, we were so in love
 
-And the band played 
+And the band played
 Songs that we had never heard
 But we danced anyway
 We never understood the words
-We just sang oh la la la la la la la la 
+We just sang oh la la la la la la la la
 La la la of the world
 Ohhhhhh
-And we dance anyway (oohh we were laughing ohh)
+And we dance anyway (oh we were laughing oh)
 Ohhhh
 And we danced anyway
-(ohh we were dancing ohh)
+(oh we were dancing oh)
 
 
 

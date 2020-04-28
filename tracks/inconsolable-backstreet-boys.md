@@ -33,7 +33,7 @@ Baby, I don't wanna waste another day
 Keepin' it inside, it's killing me
 Cause all I ever wanted comes right down to you (to you)
 I wish that I could find the words to say
-Baby I'ma tell you, every time you leave 
+Baby I'ma tell you, every time you leave
 I'm inconsolable
 
 I climb the walls, yeah
@@ -51,9 +51,9 @@ No, no, no
 I don't wanna be like this
 I just wanna let you know
 That everything I hold in
-Is everything I can't let go (oooh, can't let go)
+Is everything I can't let go (oh, can't let go)
 
-Cause Baby, 
+Cause Baby,
 
 
 
@@ -64,7 +64,7 @@ Baby I'ma tell you, every time you leave
 I'm inconsolable
 
 Yeah, yeah, yeah
-Oooh, I'm inconsolable
+Oh, I'm inconsolable
 Whoaa yeah
 I'm inconsolable
 

@@ -17,7 +17,7 @@ rankings:
 What makes a grown man wanna cry? (Cry, cry, cry, cry)
 What makes him wanna take his life? (Yeah)
 His happiness is never real (real, real, real, real)
-And mindless sex is how he feels, ooh, he feels
+And mindless sex is how he feels, oh, he feels
 
 When it's time, when it's time, when it's time
 It won't matter (it don't matter)
@@ -48,7 +48,7 @@ It won't matter, it won't matter
 When it's time, when it's time, when it's time
 It won't matter, it won't matter
 
-Ooh, and now I know what love is,
+Oh, and now I know what love is,
 And I know it ain't you for sure
 You'd rather something toxic
 So I poison myself again, again
@@ -70,7 +70,7 @@ Don't you, baby, hey
 It won't matter, baby
 Don't you know?
 Don't you know?
-Ooh, no
+Oh, no
 
 
 

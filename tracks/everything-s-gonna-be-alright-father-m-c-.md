@@ -110,7 +110,7 @@ Notice my grill that cause the pointin' and starin
 (Chorus-Jodeci)
 Everything's gonna be alright
 Let the music take control of your body tonight
-Ooh, everything's gonna be alright
+Oh everything's gonna be alright
 Let the music take control of your body tonight
 
 (Father MC)
@@ -131,7 +131,6 @@ I maintain, if you know what I mean
 Understand I'm not conceeded, Father's just mellow
 I'm a smooth-talk Romeo, freak kinda fellow
 
-(Chorus)
 
 (Father MC)
 Do that dance, do that dance, baby
@@ -165,7 +164,7 @@ Get on the dance floor tonight
 (Chorus) 2x
 
 (Jodeci)
-Everybody dance with me, ohh yeah
+Everybody dance with me, oh yeah
 Everybody move with me, everybody
 Everybody dance with me
 Everybody move with me

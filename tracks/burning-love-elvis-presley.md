@@ -84,7 +84,7 @@ You light my morning sky
 With burning love
 
 
-Ooh, ooh, ooh
+Oh, oh ooh
 I feel my temperature rising
 Help me, I'm flaming
 I must be a hundred and nine

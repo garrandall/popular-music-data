@@ -98,9 +98,6 @@ Baby won't you please slow down
 Come on, yeah!
 Pick it up, pick it up
 
-
-
-
 Things around you change so fast
 Livin' day to day is confusin', whoa
 And how long will the good times last

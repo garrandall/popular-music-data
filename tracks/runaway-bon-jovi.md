@@ -70,10 +70,10 @@ No one heard a single word you said.
 They should have seen it in your eyes
 What was going around your head.
 
-Ooh, she's a little runaway.
+Oh, she's a little runaway.
 Daddy's girl learned fast
 All those things he couldn't say.
-Ooh, she's a little runaway.
+Oh, she's a little runaway.
 
 A different line every night guaranteed to blow your mind
 I see you out on the streets, calling for a wild time
@@ -83,28 +83,28 @@ There's only pictures hung in the shadows left there to look at you
 You know she likes the lights at night on the neon Broadway signs
 She don't really mind, it's only love she hoped to find
 
-Ooh, she's a little runaway.
+Oh, she's a little runaway.
 Daddy's girl learned fast
 All those things he couldn't say.
-Ooh, she's a little runaway.
+Oh, she's a little runaway.
 
 No one heard a single word you said
 They should have seen it in your eyes
 What was going around your head.
 
-Ooh, she's a little runaway
+Oh, she's a little runaway
 Daddy's girl learned fast
 All those things he couldn't say
 
-Ooh, she's a little runaway
+Oh, she's a little runaway
 Daddy's girl learned fast
 Now she works the night away
 
-Ooh, she's a little runaway
+Oh, she's a little runaway
 Daddy's girl learned fast
 All those things he couldn't say
 
-Ooh, she's a little runaway
+Oh, she's a little runaway
 Daddy's girl learned fast
 Now she works the night away
 

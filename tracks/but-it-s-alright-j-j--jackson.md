@@ -139,11 +139,11 @@ You can hurt me
 But it's all right
 Go on, yeah
 
-Mm mm mm mm mmmm
+Mm mm mm mm mmm
 
 Oh, yeah
 
-Mm mm mm mm mmmm
+Mm mm mm mm mmm
 
 Oh, yeah
 My my my baby

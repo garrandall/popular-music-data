@@ -37,7 +37,7 @@ And some of them were laughing out loud
 But there she was like my buddy did say
 For everyone to see
 That little old lady about 94 doing the watusi
-Yeah, ooooh... ha ha ha
+Yeah, oh... ha ha ha
 
 One piece topless bathing suit
 In Boston she'd be banned

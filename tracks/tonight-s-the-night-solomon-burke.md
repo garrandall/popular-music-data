@@ -86,7 +86,7 @@ And throw away the key, baby
 And then I wanna talk to you
 Some more because tonight
 I got something I want to say to you
-Honey, tonight, ooh
+Honey, tonight, oh
 
 I wanna hear you say I do
 And that ain't all, sugar

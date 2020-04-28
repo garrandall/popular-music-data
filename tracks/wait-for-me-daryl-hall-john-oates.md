@@ -4,6 +4,7 @@ artists:
 features: []
 genres: []
 key: wait-for-me-daryl-hall-john-oates
+lyrics_url: https://www.azlyrics.com/lyrics/halloates/waitforme.html
 name: Wait For Me
 rankings:
 - end_date: '1979-11-02'
@@ -83,4 +84,28 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-03-01'
 ---
+Midnight hour almost over
+Time is running out for the magic pair
+I know you gave the best that you have
+But one more chance
+Couldn't be all that hard to bear.
 
+Wait for me please
+Wait for me
+Alright, I guess
+that's more than I should ask
+Wait for me please
+Wait for me
+Although I know the light is fading fast.
+
+You could go either way
+Is it easier to stay
+I wonder what you'll do
+When your chance rolls around
+But you gotta know how much I want to keep you
+When I'm away I'm afraid it will all fall down.
+Love is what it does and ours is doing nothing
+But all the time we spent
+It must be good for something
+Please forgive all the disturbance I'm creating
+But you got a lot to learn if you think that I'm not waiting for you.

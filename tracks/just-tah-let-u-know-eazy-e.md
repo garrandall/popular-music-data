@@ -81,7 +81,7 @@ Just tah let U know...
 
 One more time for the rhyme again
 Comin from the C-O-M-P-T-O-N
-Just tah let U know 
+Just tah let U know
 Just tah let U know
 
 
@@ -91,7 +91,7 @@ So nigga let me ride all the way to the bank
 Coz ain't nuthin on my mind but the gips
 Gotta have a grip, run a nigga dip
 Back to the pass on the Compton streetz
-Where the niggaz get beat when us gangstas meet
+Where the niggas get beat when us gangstas meet
 And fools gettin mad coz they can't ride like I ride
 Front n back, dippin side to side
 And it's been like that since I was a BG
@@ -109,21 +109,18 @@ It's just a lil something from the E tah let U know...
 
 It's still the C-P-T, nuthin more, nuthin less
 On a quest to put that bomb in my chest
-Coz them busta-ass niggaz can't see what I'm sayin
+Coz them busta-ass niggas can't see what I'm sayin
 They think the E be playin (What ?)
 But I ain't givin up nuthin but this glock in yo mouth
 So recognize that and get yo punk ass knocked out
-So if you wanna ride nigga jump on in 
+So if you wanna ride nigga jump on in
 Sip a cup o' gin. Ain't no friends when it come to ends
-So no hard feelings when you niggaz be dealin
+So no hard feelings when you niggas be dealin
 With the original Compton criminal
 Coz the only thing poppin is a snaps
 And ain't no fun when a nigga be tap perhaps
 But a nigga like the E ain't trippin though
-I'm just here tah let U niggaz know...
-
-
-
+I'm just here tah let U niggas know...
 
 You have your own freedom of choice
 So you do what the fuck you feel like doin

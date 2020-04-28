@@ -45,9 +45,9 @@ Whoa, oh
 She's the closest thing
 To perfect that I've ever seen
 
-Ooh, she's an ideal lady
+Oh, she's an ideal lady
 That, she's so well-defined
-Ooh, she's drivin' me crazy
+Oh, she's drivin' me crazy
 She's got those long legs streamlined
 
 Look at that anatomy
@@ -61,7 +61,7 @@ To perfect that I've ever seen
 
 I can't believe
 What I'm feeling
-Ooh, I've lost all control
+Oh, I've lost all control
 Girl, don't you know
 What you're doin'
 You got me burnin' up on the inside
@@ -85,7 +85,7 @@ Oh, listen, precious
 You are on my mind
 I've gotta have some time
 
-Ooh, you're the ideal lady
+Oh, you're the ideal lady
 That, you've got my heart and mind
 Girl, you're drivin' me crazy
 She's got those long legs streamlined

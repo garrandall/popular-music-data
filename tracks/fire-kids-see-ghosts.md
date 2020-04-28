@@ -37,11 +37,11 @@ This is the package you ordered, huh?
 Beautiful madness
 
 
-On this road I find (hmm-mmm)
-These scars I left behind (hmm-mmm)
-Heaven lift me up (hmm-mmm)
-Heaven lift me up (hmm-mmm)
-On this road I find (hmm-mmm)
-These scars I left behind (hmm-mmm)
-Heaven lift me up (hmm-mmm)
-Heaven lift me up (hmm-mmm)
+On this road I find (hm-mmm)
+These scars I left behind (hm-mmm)
+Heaven lift me up (hm-mmm)
+Heaven lift me up (hm-mmm)
+On this road I find (hm-mmm)
+These scars I left behind (hm-mmm)
+Heaven lift me up (hm-mmm)
+Heaven lift me up (hm-mmm)

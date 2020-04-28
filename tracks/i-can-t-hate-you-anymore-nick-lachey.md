@@ -32,7 +32,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2006-10-28'
 ---
-Ooh, ooh
+Oh, oh
 
 
 An empty room can be so deafening

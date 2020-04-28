@@ -53,7 +53,7 @@ And he don't fool around on me
 And I know when I need him
 He'll be there for me
 
-Ooh
+Oh
 And if he asks me some questions
 Well, I don't tell him lies
 And I don't have the need

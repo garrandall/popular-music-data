@@ -5,7 +5,7 @@ features: []
 genres: []
 key: word-to-the-badd---jermaine-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/jermainejackson/wordtothebadd.html
-name: Word To The Badd!!
+name: Word To The Badd!
 rankings:
 - end_date: '1991-12-06'
   rank: 78

@@ -80,7 +80,7 @@ Right to my head
 Then I scream
 Calling out your name
 I want you back in my bed
-My bed, ooh, ooh
+My bed, oh oh
 
 What could make me think
 That I could live on borrowed love

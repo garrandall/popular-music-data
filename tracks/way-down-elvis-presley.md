@@ -102,7 +102,7 @@ Is lying on the floor
 Taking me to places
 I've never been before
 
-Ooh, and I can feel it
+Oh, and I can feel it
 Feel it, feel it, feel it
 
 Way down where the music plays
@@ -110,7 +110,7 @@ Way down where the music plays
 (Way down) Way down where the fires blaze
 Way down, down, way, way on down
 
-Ooh, my head is spinnin'
+Oh, my head is spinnin'
 You got me in your spell,
 A hundred magic fingers
 On a whirling carousel
@@ -120,7 +120,7 @@ No doctor could prescribe
 Your love is doing something
 That I just can't describe
 
-Ooh, and I can feel it
+Oh, and I can feel it
 Feel it, feel it, feel it
 
 Way down where the music plays

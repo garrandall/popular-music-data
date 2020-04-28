@@ -41,13 +41,13 @@ Makes my darkness brighter
 And my burden lighter
 
 (She's a real humdinger)
-Ooh, baby (real humdinger)
-Ooh, yeah
+Oh, baby (real humdinger)
+Oh, yeah
 
 She's sweeter than all the rest
 She's my baby, nothing less
 
-(Real humdinger) ooh, yeah
+(Real humdinger) oh, yeah
 (Real humdinger)
 
 A girl like her
@@ -60,15 +60,15 @@ And her baby talking
 Like a tiger stalking
 
 (She's a real humdinger)
-Ooh, baby (real humdinger)
-Ooh, yeah
+Oh, baby (real humdinger)
+Oh, yeah
 
 She'll smooth aches and pains
 I'm so glad to stake my claim
 
 (Real humdinger) yeah, baby
 (Real humdinger) she's so sweet
-Ooh, yeah, yeah
+Oh, yeah, yeah
 
 (Real humdinger) she's so sweet now
 (Real humdinger)

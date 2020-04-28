@@ -104,7 +104,7 @@ Where I come from tryin' to make a livin'
 And workin' hard to get to heaven
 Where I come from
 
-Well i was south of Detroit City
+Well I was south of Detroit City
 I pulled in this country kitchen
 To try their brand of barbecue
 The sign said finger-lickin'

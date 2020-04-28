@@ -35,9 +35,6 @@ So raise your window, baby and I can ease out soft and slow
 And Lord, your neighbors, no they won't be
 Talking that stuff that they don't know
 
-
-
-
 Lord, I'm foolish to be here on the first place
 I know some man gonna walk in and take my place, and
 Ain't no way in the world I'm going out that front door

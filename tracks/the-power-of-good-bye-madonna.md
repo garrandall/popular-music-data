@@ -118,8 +118,3 @@ Than the power of good-bye
 Learn to say good-bye
 I yearn to say good-bye
 
-
-
-
-
-

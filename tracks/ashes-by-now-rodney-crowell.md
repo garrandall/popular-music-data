@@ -97,7 +97,7 @@ You're running all over town
 And as much as you burn me, baby
 I should be ashes by now
 
-Aaaaaahh
-Aaaaaahh
+Ah
+Ah
 Should be ashes by now
-Aaaaaahh
+Ah

@@ -86,7 +86,7 @@ The love I lost
 Was complete love
 The love I lost
 I will never no no never
-Love again ooh
+Love again oh
 
 I can remember planning
 Building my whole world around you
@@ -125,7 +125,7 @@ I will never (never) no no never
 (Never) love again (I'll never love again)
 
 I will never (never) no no never
-(Never) love again ooh ooh ooh ooh
+(Never) love again ohoohhohoh
 I will never (never) no no never
 (Never) love again
 

@@ -97,5 +97,5 @@ La-la how their life goes on
 
 And if you want some fun
 Take Ob-la-di-bla-da
-(Ahhh)
+(Ah)
 Thank you

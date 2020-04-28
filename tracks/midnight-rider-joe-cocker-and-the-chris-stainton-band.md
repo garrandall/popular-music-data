@@ -1,7 +1,8 @@
 ---
 artists:
-- Joe Cocker and The Chris Stainton Band
-features: []
+- Joe Cocker
+features:
+- The Chris Stainton Band
 genres: []
 key: midnight-rider-joe-cocker-and-the-chris-stainton-band
 name: Midnight Rider

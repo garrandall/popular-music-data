@@ -181,7 +181,7 @@ In other words, let's refresh your head
 About pullin' down curtains and breakin' da waterbed
 Yeah, I like it when you (Mwah!)
 Both sets of lips
-Oooh, on the TLC tip!
+Oh, on the TLC tip!
 
 
 I ain't 2 proud 2 beg (I ain't 2 proud 2 beg)

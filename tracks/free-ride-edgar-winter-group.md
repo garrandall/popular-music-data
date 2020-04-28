@@ -87,9 +87,9 @@ Come on and sit here by my side
 Come on and take a free ride
 
 Yeah, yeah, yeah, yeah
-Ooh, ooh, ooh
-Ooh, ooh, ooh
-Ooh, ooh, free ride
+Oh, oh ooh
+Oh, oh ooh
+Oh, oh free ride
 
 Come on and take a free ride
 Yeah, yeah, yeah, yeah

@@ -72,7 +72,7 @@ Someday, someway, aww
 Someday, someway, yeah yeah
 Someday, someway, maybe I'll understand you
 
-Someday, someway, ohh
+Someday, someway, oh
 Someday, someway, now now
 Someday, someway, maybe I'll understand you
 

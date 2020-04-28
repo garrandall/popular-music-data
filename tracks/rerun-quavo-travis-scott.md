@@ -18,7 +18,7 @@ rankings:
 This nigga man
 Yah, yeahhh
 Oh, uh oh, yeah yeah
-Woah, woah, woah, woah, woah, wooaahh
+Woah, woah, woah, woah, woah, woah
 Yaah, yuh-yuh
 
 She like it (like), I'm swipin' (swipe)

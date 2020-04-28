@@ -75,5 +75,5 @@ You know we all make mistakes and we all need the touch of a hand
 In the right kind of place, in a time of need
 I could pick up the phone, but the talk ain't cheap
 I pick up on the thoughts that you're sending to me
-And i wait for the day I hear you saying to me
+And I wait for the day I hear you saying to me
 How does it feel to be back in my arms again

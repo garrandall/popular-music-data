@@ -173,9 +173,9 @@ If your chick come close to me
 She ain't going home where she post to be
 I'm getting money like I'm post to be
 I'm getting money like I'm post to be
-Ooh, all my niggas close to me
+Oh, all my niggas close to me
 And all them other niggas where they post to be
-Ooh, the hoes go for me
+Oh, the hoes go for me
 Have your chick send a pic like pose for me
 That's how it post to be
 That's how it post to be
@@ -193,7 +193,7 @@ Gave it up like a groupie
 And that's facts, no printer
 Cold nigga turn the summer to the winter
 She save me in her phone as bestie
-But I had her screaming, oohh
+But I had her screaming, oh
 Yo girl wasn't supposed to text me
 You wanna know how I know what I know
 
@@ -202,9 +202,9 @@ If your chick come close to me
 She ain't going home when she post to be
 I'm getting money like I'm post to be
 I'm getting money like I'm post to be
-Ooh, all my niggas close to me
+Oh, all my niggas close to me
 And all them other niggas where the post to be
-Ooh, the hoes go for me
+Oh, the hoes go for me
 Have your chick send a pic like pose for me
 That's how it post to be
 That's how it post to be
@@ -232,22 +232,22 @@ I might let your boy chauffeur me
 But he gotta eat the booty like groceries
 But he gotta get rid of these hoes for me
 I might have that nigga selling his soul for me
-Ooh, that's how it post to be
+Oh, that's how it post to be
 If he wants me to expose the freak
-Ooh, that's how it post to be
-Ooh, that's how it post to be
-Ooh, that's how it post to be
+Oh, that's how it post to be
+Oh, that's how it post to be
+Oh, that's how it post to be
 Everything good like it post to be
-Ooh
+Oh
 
 
 If your chick come close to me
 She ain't going home when she post to be
 I'm getting money like I'm post to be
 I'm getting money like I'm post to be
-Ooh, all my niggas close to me
+Oh, all my niggas close to me
 And all them other niggas where the post to be
-Ooh, the hoes go for me
+Oh, the hoes go for me
 Have your chick send a pic like pose for me
 That's how it post to be
 That's how it post to be

@@ -78,7 +78,7 @@ And baby, you've got what it takes (yeah)
 You know it takes a lot of kissin'
 (Tell me about it)
 To make a romance sweet (uh huh)
-Ooh, it takes a lot of lovin' to make my life complete
+Oh it takes a lot of lovin' to make my life complete
 Mmm, and it takes a lot of woman to knock me off my feet
 And baby, you've got what it takes
 

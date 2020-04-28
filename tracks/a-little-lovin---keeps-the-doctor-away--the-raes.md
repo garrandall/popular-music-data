@@ -80,7 +80,7 @@ Repeat Chorus
 
 
 
-(Little loving... Ooh-Hoo-Hoo)
+(Little loving... Oh-Hoo-Hoo)
 (Little loving... Yeah)
 
 I feel fantastic

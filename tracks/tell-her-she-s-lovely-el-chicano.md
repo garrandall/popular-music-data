@@ -48,7 +48,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-19'
 ---
-Da da da da....
+Da da da da...
 Tell her
 Tell her she's lovely
 Tell her
@@ -68,7 +68,7 @@ People are so wonderful to love
 (CHORUS)
 People wanna think that
 They're the only ones who
-Really are alone, ooh
+Really are alone, oh
 Thinking a little bit over
 Trying to know one another
 Waiting a little bit longer
@@ -91,4 +91,4 @@ Tell her
 Tell her she's lovely
 
 Tell her
-Tell her she's lovely....
+Tell her she's lovely...

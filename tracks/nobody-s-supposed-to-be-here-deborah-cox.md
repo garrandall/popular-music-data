@@ -142,9 +142,6 @@ So I placed my heart under lock and key
 To take some time to take care of me
 But I turn around and you're standing here
 
-
-
-
 This time I swear I'm through
 But, if only you knew how many times I've said those words
 Then fall again, when will I ever learn?

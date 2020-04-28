@@ -42,7 +42,7 @@ Can't think of nothing else
 
 The beat really turns me on
 Why can't I last a little longer?
-Ooh, how it's killing me
+Oh, how it's killing me
 I can't turn it off
 
 It's a feeling in my heart
@@ -62,7 +62,7 @@ I'm really out in space
 
 I don't have to do the town
 Ohh, when I feel a little down
-Ooh, how my head spins
+Oh, how my head spins
 When I'm feeling the beat
 
 I'm so in love with my radio
@@ -87,7 +87,7 @@ As long as there's music
 On my radio
 I'm gonna get out my seat
 Stomp my feet
-And oooh, just let go
+And oh, just let go
 
 My music box
 It really makes me shout

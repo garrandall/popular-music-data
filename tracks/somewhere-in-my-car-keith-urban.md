@@ -94,8 +94,8 @@ That's alright 'cause I don't want to be alone
 There's nobody waitin there, cold and empty bed
 Words I wished I'd said come on the radio
 
-Ooh, ooh, ooh, and I don't know why I do this to myself
-Ooh, ooh, ooh, I know you're with someone else
+Oh, oh, oh, and I don't know why I do this to myself
+Oh, oh, oh, I know you're with someone else
 
 But in my mind we're somewhere in my car
 And it's raining hard on the streetlight glow
@@ -110,8 +110,8 @@ Where I once held you and it's breaking my heart
 I should take down all those pictures from my wall
 Promises we made won't fill this empty space
 
-Ooh, ooh, ooh, and I don't know why I just can't let you go o o o
-Ooh, ooh, ooh, I know you're never coming back
+Oh, oh, oh, and I don't know why I just can't let you go o o o
+Oh, oh, oh, I know you're never coming back
 
 But in my mind we're somewhere in my car
 And it's raining hard on the streetlight glow
@@ -131,9 +131,9 @@ Breathin' hard, steamin' up the glass
 I'd give anything if I could bring you back ho o o o home
 
 
-Mmmm
+Mmm
 If I could bring you back
-Mmmm
+Mmm
 Just close my eyes...
 
 

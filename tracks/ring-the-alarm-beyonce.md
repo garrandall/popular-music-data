@@ -108,10 +108,6 @@ This is taking a toll, the way the story unfolds
 Not the picture perfect movie everyone would've saw
 
 
-
-
-
-
 Tell me how should I feel
 When you made me belong
 And the thought of you just touching her
@@ -136,8 +132,4 @@ But this is my show and I won't let you go
 All has been paid for, and it's mine
 How could you look at me
 And not see all the things?
-
-
-
-
 

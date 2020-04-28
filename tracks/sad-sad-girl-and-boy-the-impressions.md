@@ -33,7 +33,7 @@ If you have no one to love
 (Yes he's a sad, sad boy)
 Simply 'cause I have no one to love
 
-You know we are two of a kind, hmm hmm
+You know we are two of a kind, hm hm
 A sad, sad girl and boy
 
 And I feel like crying

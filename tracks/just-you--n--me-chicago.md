@@ -110,11 +110,6 @@ Love me tonight, love me forever
 And ever
 (You know I can't forget you)
 
-
-
-
-
-
 Just you and me to carry on
 Simple and free my lovely
 Two flow as one as love's reward

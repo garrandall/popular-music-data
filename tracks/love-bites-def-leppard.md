@@ -109,11 +109,11 @@ When you make love, do you look in the mirror?
 Who do you think of, does he look like me?
 Do you tell lies? And say that it's forever
 Do you think twice, or just touch and see?
-Ooh, babe
+Oh babe
 Oh, yeah
 When you're alone, do you let go?
 Are you wild and willing or is it just for show?
-Ooh, come on
+Oh come on
 
 
 I don't want to touch you too much, baby
@@ -135,7 +135,7 @@ When I'm with you, are you somewhere else?
 Am I getting through or do you please yourself?
 When you wake up, will you walk out?
 It can't be love if you throw it about
-Ooh, babe
+Oh babe
 
 
 I don't want to touch you too much, baby

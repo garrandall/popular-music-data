@@ -71,7 +71,7 @@ That came to wreck you
 No disrespect but mami that's correct cause...
 What's in them jeans just got my mind hectic
 I can see that you're feeling my passion
-Is it cause I'm flashing (hmm)
+Is it cause I'm flashing (hm)
 Or is it this cash that's just way too reckless
 Or is it this necklace
 Wait, let me interrupt myself with this message. See,
@@ -109,7 +109,7 @@ And how I play
 Pillage and plunder
 Call me your plumber
 Knock on this wood
-Get rocked by this thunder 
+Get rocked by this thunder
 
 
 

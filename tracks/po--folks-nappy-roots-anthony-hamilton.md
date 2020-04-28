@@ -101,8 +101,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-12-21'
 ---
-Awwww....
-Mmmmm, awww..
+Awwww...
+Mmm, awww..
 
 
 All my life been po'
@@ -118,7 +118,7 @@ Nappy Roots gon' be okay, okay
 We came in the game, plain ya see
 Average man when the rest was ashamed to be
 Nappy head and all, ain't no changin' me
-Ooooh-oh-oh-oooh-oh-oh...
+Oh-oh-oh-oh-oh...
 So rough it was, downright wrong I tell ya
 Nobody never gave us nothin' but tough time and made us somethin
 Different stretch of road, new somethin' to see

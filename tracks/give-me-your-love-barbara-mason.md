@@ -56,8 +56,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1973-03-31'
 ---
-Ooh, baby, ooh, baby
-Ooh, baby, ooh, baby...
+Oh, baby, oh, baby
+Oh, baby, oh, baby...
 Want you so bad
 Can't even get mad at you
 What a thing, you really swing
@@ -72,7 +72,7 @@ Give me your love
 Give me your love
 Give me your love
 Give me your love
-Ooh, baby
+Oh, baby
 Give me such a tingle
 All down along my side
 I can't remove my?
@@ -86,18 +86,18 @@ Give me your love
 Give me your love
 Give me your love
 Give me your love
-Ooh, baby
+Oh, baby
 I need your love
-Ooh, baby
+Oh, baby
 I want your love
-Ooh, baby
-Ooh, baby...
+Oh, baby
+Oh, baby...
 Give me your love
 Give me your love
 Give me your love
 Give me your love
 Give me your love
-Ooh, child
+Oh, child
 Prepared for tomorrow
 Do what you have to do
 I'll share the weight

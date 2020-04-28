@@ -77,8 +77,8 @@ Jump jump, out of your head
 Step step, out of your mind
 Jump jump, out of your head
 Step step, out of your mind
-Oh-oh-oh-ooh
-Ah-ah-ah-aah
+Oh-oh-oh-oh
+Ah-ah-ah-ah
 Jump jump, out of your head
 Step step, out of your mind
 Jump jump, out of your head

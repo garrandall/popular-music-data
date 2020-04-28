@@ -54,7 +54,7 @@ You do a little chicken
 Then you holler out loud
 
 You do the mojo workout
-Aww, work out now, mm hmm
+Aww, work out now, mm hm
 Yeah,? was never like this
 
 There's one more thing

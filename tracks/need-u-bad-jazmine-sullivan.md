@@ -133,10 +133,6 @@ You gotta get him back say, oh oh oh oh  (oh oh oh oh)
 Two you are together say, oh oh oh oh (oh oh oh oh)
 If you believe in love and
 You can't give him up say, oh oh oh oh (oh oh oh oh)
-If there's nothing you wont do to get
+If there's nothing you won't do to get
 Back with your boo say Oh
-
-
-
-
 

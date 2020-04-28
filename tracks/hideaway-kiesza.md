@@ -82,10 +82,10 @@ That keeps me breathing
 Baby, I love the way that there's nothing sure
 Baby, don't stop me
 Hideaway with me some more
-Ooh, aah, aah, ooh
-Ooh, aah, aah, ooh
-Ooh, aah, aah, ooh
-Ooh, aah, aah, ooh
+Oh ah, ah, oh
+Oh ah, ah, oh
+Oh ah, ah, oh
+Oh ah, ah, oh
 
 
 You send me the shiver and the spine, might overflow
@@ -101,8 +101,8 @@ When you can be going I can't find a way to stop
 You're just a chance I take
 To keep on dreaming
 You're just another day that keeps me breathing
-Ooh, aah, aah, ooh
-Ooh, aah, aah, ooh
+Oh ah, ah, oh
+Oh ah, ah, oh
 
 
 Baby, I love the way that there's nothing sure
@@ -123,8 +123,8 @@ You're just a chance I take
 To keep on dreaming
 You're just another day, that keeps me breathing
 You're a day that keeps me dreaming
-Ooh, aah, aah, ooh
-Ooh, aah, aah, ooh
+Oh ah, ah, oh
+Oh ah, ah, oh
 
 
 Baby, I love the way that there's nothing sure

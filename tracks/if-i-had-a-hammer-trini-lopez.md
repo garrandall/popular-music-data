@@ -64,9 +64,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-10-26'
 ---
-Ooh, ooh ooh
-Ooh, ooh ooh
-Ooh
+Oh, oh oh
+Oh, oh oh
+Oh
 
 If I had a hammer
 I'd hammer in the morning
@@ -78,9 +78,9 @@ I'd hammer out a warning
 I'd hammer about the love between my brothers and my sisters
 All, all over this land
 
-Ooh, ooh ooh
-Ooh, ooh ooh
-Ooh, ooh
+Oh, oh oh
+Oh, oh oh
+Oh, oh
 
 If I had a bell
 I'd ring it in the morning
@@ -92,9 +92,9 @@ I'd ring out a warning
 I'd ring about the love between my brothers and my sisters
 All, all over this land
 
-Ooh, ooh ooh
-Ooh, ooh ooh
-Ooh, ooh
+Oh, oh oh
+Oh, oh oh
+Oh, oh
 
 If I had a song
 I'd sing it in the morning
@@ -106,8 +106,8 @@ I'd sing out a warning, yeah
 I'd sing out about the love between my brothers and my sisters
 All, all over this land
 
-Ooh, ooh ooh
-Ooh, ooh
+Oh, oh oh
+Oh, oh
 
 Now, I've got a hammer
 And I've got a bell
@@ -123,7 +123,7 @@ Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah
 
 All over this land
-Ooh, all over this land
+Oh, all over this land
 Hee, all over this land, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah
 

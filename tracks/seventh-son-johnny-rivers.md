@@ -89,7 +89,7 @@ The one they call the seventh son
 I'm the one, hey, hey
 I'm the one
 Oh, I'm the one, babe
-Ooh, I'm the one
+Oh, I'm the one
 I'm the one, I'm the one
 The one they call the seventh son
 I'm the one, I'm the one

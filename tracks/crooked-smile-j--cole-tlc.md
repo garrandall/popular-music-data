@@ -138,9 +138,6 @@ And if you need a friend to pick you up, I'll be around
 And we can ride with the windows down, the music loud
 I can tell you ain't laughed in a while, but I wanna see that crooked smile
 
-
-
-
 Crooked smile, we could style on 'em (back 'round)
 Crooked smile, we could style on 'em
 (You're the one that was tryna keep me way down)
@@ -165,13 +162,8 @@ Man, they get them niggas stitches now
 If you was around, then you wouldn't need a witness now
 How you like this crooked smile?
 
-
-
-
-
-
-Ohhhhhhhhhhohoh 
-La-la-la, la-la-la, la-la-la-la 
+Ohhhhhhhhhhohoh
+La-la-la, la-la-la, la-la-la-la
 I'm on my way, on my way, on my way down
 I'm on my way, on my way, on my way down
 You're the one that was tryna keep me way down

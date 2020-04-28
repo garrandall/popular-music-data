@@ -57,27 +57,27 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1984-11-03'
 ---
-The first time i made love
+The first time I made love
 It wasn't love at all
 Didn't know what to feel, it didn't seem real
-Thats all i can recall
+Thats all I can recall
 I thought thats all there was
-Now i know so much more
-Now i know i never really made love before
-Ill tell you when i knew
-The last time i made love, i made it with you
+Now I know so much more
+Now I know I never really made love before
+Ill tell you when I knew
+The last time I made love, I made it with you
 The first time we made love
 It was all that it could be
 Your soul in mine, suspended in time
 Blended perfectly
 The magic that we made
 Is something that lives on
-Refusing to die, though i try to believe its gone
+Refusing to die, though I try to believe its gone
 Once truth is always true
-The last time i made love, i made it with you
+The last time I made love, I made it with you
 Now lovers come and go
 People give themselves too easily
 But through it all how sweet it is
-No matter what i do, when theres someone new
-That last time i made love
+No matter what I do, when theres someone new
+That last time I made love
 I made it with you

@@ -80,7 +80,7 @@ But I could hold you for the rest of my life
 I close my eyes and reach out to touch you again
 Touch you again
 
-Ooh, whoa, ooh, whoa
+Oh, whoa, oh, whoa
 Yeah!
 
 Spring turns into winter

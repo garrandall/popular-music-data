@@ -133,8 +133,8 @@ I'm a new three
 
 
 Saucin', saucin', I'm saucin' on you
-I'm swaggin', I'm swaggin', I'm swaggin', oh-ooh (Swaggin')
-I'm ballin', I'm ballin', Iverson on you (Swish, ooh, ayy)
+I'm swaggin', I'm swaggin', I'm swaggin', oh-oh (Swaggin')
+I'm ballin', I'm ballin', Iverson on you (Swish, oh, ayy)
 Watch out, watch out, watch out, yeah
 That's my shot, that's my shot, that's my shot, yeah
 Spendin', I'm spendin' all my fuckin' pay
@@ -143,7 +143,7 @@ Spendin', I'm spendin' all my fuckin' pay
 I got me some braids and I got me some hoes
 Started rockin' the sleeve, I can't ball with no Joes
 You know how I do it, Concords on my toes
-(This shit is hard), ooh
+(This shit is hard), oh
 I ain't rich yet, but you know I ain't broke, I
 So if I see it, I like it, buy that from the store, I
 I'm with some white girls and they lovin' the coca
@@ -161,14 +161,14 @@ I need that money like the ring I never won, I won
 
 
 Saucin', saucin', I'm saucin' on you
-I'm swaggin', I'm swaggin', I'm swaggin', oh-ooh
+I'm swaggin', I'm swaggin', I'm swaggin', oh-oh
 I'm ballin', I'm ballin', Iverson on you (On you, on you)
 Watch out, watch out, watch out, yeah
 That's my shot, that's my shot, that's my shot, yeah
 Spendin', I'm spendin' all my fuckin' pay
 
 
-Ooh, Stoney
+Oh, Stoney
 Cigarettes and a headband
 Commas, commas in my head, man
 Slumped over like a dead man
@@ -176,7 +176,7 @@ Red and black, 'bout my bread, man
 I'm the answer, never question
 Lace up, learn a lesson
 Bitch, I'm saucin' (Wow), I do this often, don't do no talkin' (No)
-My options right when I walk in, jump all them Jordans (Ooh)
+My options right when I walk in, jump all them Jordans (Oh)
 I'm ballin', money jumpin'
 Like I'm Davis from New Orleans
 Or bitch I'm Harden, I don't miss nothin'
@@ -193,14 +193,14 @@ I need that money like the ring I never won, I won
 
 
 Saucin', saucin', I'm saucin' on you
-I'm swaggin', I'm swaggin', I'm swaggin', oh-ooh
+I'm swaggin', I'm swaggin', I'm swaggin', oh-oh
 I'm ballin', I'm ballin', Iverson on you
 Watch out, watch out, watch out, yeah
 That's my shot, that's my shot, that's my shot, yeah
 Spendin', I'm spendin' all my fuckin' pay
 
 
-Ooh-ooh
-Ooh-ooh
-Ooh-ooh
-Ooh-ooh
+Oh-oh
+Oh-oh
+Oh-oh
+Oh-oh

@@ -225,7 +225,7 @@ I'm a take it slow just as fast as I can
 
 I'm take it slow just as fast I can
 
-Got the breeze, aah ha
+Got the breeze, ah ha
 
 (Body like a back road
 Could drive it with my eyes closed

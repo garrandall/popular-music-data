@@ -59,7 +59,7 @@ That you're my fancy dancer yeah (fancy dancer)
 You're my fancy dancer yeah (fancy dancer)
 
 You're my fancy dancer yeah (fancy dancer)
-You're my fancy dancer yeah ooh
+You're my fancy dancer yeah oh
 You're the only thing on my mind
 You fancy dancer oh ha
 
@@ -76,7 +76,7 @@ That you're my fancy dancer yeah (fancy dancer)
 You're my fancy dancer yeah (fancy dancer)
 
 You're my fancy dancer yeah (fancy dancer)
-You're my fancy dancer yeah ooh
+You're my fancy dancer yeah oh
 You're the only thing on my mind
 You fancy dancer oh ha
 

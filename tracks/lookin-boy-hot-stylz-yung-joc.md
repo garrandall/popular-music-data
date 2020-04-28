@@ -61,7 +61,7 @@ Midnight train Gladys Knight lookin’boy
 You poor lookin’boy, Don Imus ol' nappy headed ho lookin' boy
 Dig in your booty then smell it lookin' boy
 Rub it with the K-Y Jelly lookin' boy
-Getchya Riiiickkyy!! Morris Chestnut shot in ya back lookin' boy
+Getchya Riiiickkyy! Morris Chestnut shot in ya back lookin' boy
 Valtrex brand new day lookin' boy
 You in house L Cool J lookin' boy
 Getchya No Mama! No Mama! Penny off good times big J.J. lookin' boy
@@ -117,7 +117,7 @@ SpongeBob on your shirt lookin' boy
 Always play in dirt lookin' boy
 Balled up dirty K-Swiss lookin’boy
 Brown dookie stains in drawers lookin' boy
-Scooby Dooby-Dooby-Doooo!!! Mike Vick lookin' boy
+Scooby Dooby-Dooby-Doo! Mike Vick lookin' boy
 I won't need no rent lookin' boy
 Lookin' real ugly in the face lookin' boy
 Gel lookin' boy, weave lookin' boy
@@ -132,7 +132,7 @@ Point 'em out, point 'em out
 Get 'em
 
 
-Just letchya soul gllloooowww!! Curl lookin' boy
+Just letchya soul gllloooowww! Curl lookin' boy
 I know you wanna leave me, David Ruffin lookin' boy
 Anywhere you meet me goin' down lookin' boy
 Hot Stylz and Yung Joc lookin' boy

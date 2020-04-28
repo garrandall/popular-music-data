@@ -72,7 +72,7 @@ It depend on the type of record that you gon' play me
 I can't do a wack verse, industry betrayed me
 Every time you hear my name, you know I'm goin' crazy
 Really, I'm a trench kid, SB really made me
-Really had the same goal and dream since a baby (Ooh-ooh-ooh)
+Really had the same goal and dream since a baby (Ohohooh
 
 I just want my name to be around when I ain't here
 Livin' in the moment, but I want this shit for years

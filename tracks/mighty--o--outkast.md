@@ -19,9 +19,9 @@ rankings:
 
 
 Mighty-I-de-I-de-I (Mighty-I-de-I-de-I)
-Ode ode ode oooo (Ode ode ode oooo)
+Ode ode ode oo (Ode ode ode oo)
 Mighty-I-de-I-de-I (Mighty-I-de-I-de-I)
-Ode ode ode oooooo
+Ode ode ode oo
 
 
 You ain't a hater can't tell
@@ -60,7 +60,7 @@ Category ain't got none you know I'm right
 
 Congratulations I'm a player
 I thought you were one too but now I hear you loud and clear
-Subliminal, criminal minded niggaz so be aware
+Subliminal, criminal minded niggas so be aware
 Black dog broke out the pits and told yo` ass it's a bite a tear
 Intimid by anyone filling out this application
 And estimate is needed for your under estimation

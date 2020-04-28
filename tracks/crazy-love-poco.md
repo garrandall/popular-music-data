@@ -80,7 +80,7 @@ It happens all the time
 This crazy love of mine
 Wraps around my heart
 Refusin' to unwind
-Ooh-hoo, crazy love
+Oh-hoo, crazy love
 Ah ha
 
 
@@ -94,7 +94,7 @@ It happens all the time
 This crazy love of mine
 Wraps around my heart
 Refusin' to unwind
-Ooh-hoo, crazy love
+Oh-hoo, crazy love
 Ah ha
 
 
@@ -108,7 +108,7 @@ It happens all the time
 This crazy love of mine
 Wraps around my heart
 Refusin' to unwind
-Ooh-hoo, crazy love
+Oh-hoo, crazy love
 Ah ha
 
 

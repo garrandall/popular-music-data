@@ -33,8 +33,8 @@ rankings:
   start_date: '1971-10-02'
 ---
 
-Oooo, oooo, oooo.
-Oooo, oooo, oooo.
+Oooo, oo, oo.
+Oooo, oo, oo.
 
 Oooo, a storm is threatenin', my very life today.
 If I don't get some shelter, oh, I'm gonna' fade away.
@@ -71,7 +71,4 @@ War children, it's just a shot away, it's just a shot away.
 Love sister, it's just a kiss away, it's just a kiss away.
 War children, it's just a shot away, it's just a shot away.
 Love sister, it's just a kiss away, it's just a kiss away.
-
-
-
 

@@ -89,7 +89,7 @@ Every sky ever gray, never blue
 Empty days, empty nights
 Sometimes I wonder
 Could the one to save me possibly be you?
-Ooooohh I was lost, I was blind till I found you
+Oh I was lost, I was blind till I found you
 Couldn't see, couldn't find someone new
 You came along, stole my heart completely
 And I thought, could the one to save me possibly be you?

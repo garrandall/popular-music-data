@@ -75,11 +75,11 @@ His baby plays on his mind.
 He rings that telephone number,
 And guess who's on the line?
 
-Ahhh, my baby's baby.
+Ah, my baby's baby.
 (Gotta tell me baby)
 My... My baby's baby.
 (Gotta love me, gotta love me)
-Ahhh, my baby's baby.
+Ah, my baby's baby.
 (Gotta tell me baby)
 I... Really love to love.
 
@@ -87,7 +87,7 @@ My... My baby's baby.
 (Gotta tell me baby)
 My... My baby's baby.
 (Gotta love me, gotta love me)
-Ahhh, my baby's baby.
+Ah, my baby's baby.
 (Gotta tell me baby)
 I... Really love to love.
 

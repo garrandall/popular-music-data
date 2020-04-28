@@ -112,11 +112,6 @@ But did you know, did you know, did you know, know
 That's anybody else that's met ya
 It's all the same, all the same, all the same glow
 
-
-
-
-
-
 You and me run the same course
 
 

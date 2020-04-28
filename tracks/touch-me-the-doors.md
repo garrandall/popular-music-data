@@ -92,7 +92,4 @@ Till the heavens stop the rain
 I'm going to love you
 Till the stars fall from the sky for you and I
 
-
-
-
 Stronger than dirt

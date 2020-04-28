@@ -109,18 +109,12 @@ Her momma always told her she could call no matter what
 She was crying on the front steps
 When her mom showed up
 
-
-
-
 Sometimes you got to listen to the silence
 And give yourself a little time to think
 Her every breath is weaker than the last
 And lately when she sleeps she talks about the past
 Her husband knows she's tired of holding on
 She looks at him and says, "I want to go home!"
-
-
-
 
 Just close your eyes and let your heart lead the way
 Oh, what do you say?

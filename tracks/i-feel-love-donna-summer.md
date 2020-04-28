@@ -100,17 +100,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1978-01-07'
 ---
-Ooh
+Oh
 It's so good, it's so good
 It's so good, it's so good
 It's so good
 
-Ooh
+Oh
 Heaven knows, heaven knows
 Heaven knows, heaven knows
 Heaven knows
 
-Ooh
+Oh
 I feel love, I feel love
 I feel love, I feel love
 I feel love
@@ -121,17 +121,17 @@ I feel love
 I feel love
 
 
-Ooh
+Oh
 Fallin' free, fallin' free
 Fallin' free, fallin' free
 Fallin' free
 
-Ooh
+Oh
 You and me, you and me
 You and me, you and me
 You and me
 
-Ooh
+Oh
 I feel love, I feel love
 I feel love, I feel love
 I feel love
@@ -143,17 +143,17 @@ I feel love
 I feel love
 
 
-Ooh
+Oh
 I'll get you, I'll get you
 I'll get you, I'll get you
 I'll get you
 
-Ooh
+Oh
 What you do, what you do
 What you do, what you do
 What you do
 
-Ooh
+Oh
 I feel love, I feel love
 I feel love, I feel love
 I feel love
@@ -165,17 +165,17 @@ I feel love
 I feel love
 I feel love
 
-Ooh
+Oh
 I'll get you, I'll get you
 I'll get you, I'll get you
 I'll get you
 
-Ooh
+Oh
 What you do, what you do
 What you do, what you do
 What you do
 
-Ooh
+Oh
 I feel love, I feel love
 I feel love, I feel love
 I feel love

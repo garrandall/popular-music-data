@@ -84,7 +84,7 @@ It's-a not so bad, it's-a nice-a place
 Ah shaddap-a you face!
 That's-a my mama. I can remember!
 Big accordion solo!
-Ah-ha ! Play dat thing! Really nice, really nice!
+Ah-ha! Play dat thing! Really nice, really nice!
 
 Soon-a come-a day, gonna be a big-a star
 Den I make-a T.V. shows and-a movies

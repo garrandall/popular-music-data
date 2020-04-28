@@ -92,7 +92,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-07-14'
 ---
-4..3...2...2..
+4...3...2...2..
 
 A 2 Step
 A 2 Step

@@ -68,33 +68,33 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
 ---
-Yeah, yeah, yeah, yea-hea, yea-hea, yea-hea yea-hea
-The mountains high and the valleys so deep
-Cant get across to the other si-hi-hi-hi-hi-hi-hi-hi-hide
-Dont ya give up baby, dont you cry
-Dont ya give up till I reach the other si-hi-hi-hi-hi-hi-hide
+Yeah, yeah, yeah, yeah, yeah, yeah yeah
+The mountains high and the valley's so deep
+Can't get across to the other side
+Don't ya give up baby, don't you cry
+Don't ya give up till I reach the other side
 
 I was lonely baby, I couldnt sleep
-The night they took you from my si-hi-hi-hi-hi-hide
+The night they took you from my side
 
 I was a lonely soul
 Until you became my goal
 And then I saw the spark of love
-And then the stars fell from (up above OH YEAH!)
+And then the stars fell from (up above, oh yeah)
 
 I know someday we will meet again
-But I dont know exactly where or whe-he-he-he-he-he-he-hen
+But I don't know exactly where or when
 But baby, if fate has its way
-Well meet again some other day-aaaaaaaaaayyyy
+Well meet again some other day
 
-The mountains high and the valleys so deep
-Cant get across to the other si-hi-hi-hi-hi-hi-hi-hide
-Dont ya give up baby, dont you cry
-Dont ya give up till I reach the other si-hi-hi-hi-hi-hi-hi-hide
+The mountains high and the valley's so deep
+Can't get across to the other side
+Don't ya give up baby, don't you cry
+Don't ya give up till I reach the other side
 
 Hoo hoo hoo hoo (I know it to I tell ya)
 Hoo hoo hoo hoo (I know it to I tell ya)
 I know, I know hoo hoo hoo hoo
-FADES-
+
 I know, I know hoo hoo hoo hoo
-The valleys deep baby...
+The valley's deep baby...

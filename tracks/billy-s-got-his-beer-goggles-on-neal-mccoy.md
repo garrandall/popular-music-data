@@ -46,12 +46,12 @@ rankings:
 ---
 
 Awww Yah!
-Billys at the bar, he's been there all night 
+Billys at the bar, he's been there all night
 First ten beers hes had, since her goodbye
 HEY! HEY!
 
 She left him broke, in his new truck
-He don't smoke, but he lights one up 
+He don't smoke, but he lights one up
 Temporary fix, for his heartache
 Hes hurting bad, but hes feeling great
 
@@ -77,7 +77,7 @@ Now hes chasing everything in sight
 Hell fall apart when he gets home
 Right now his worries are gone
 Life looks good, good, good
-Billy's got his beer goggles.....on
+Billy's got his beer goggles...on
 
 Hes on the dance floor yelling Freebird
 Singing off pitch but he knows every word
@@ -89,7 +89,7 @@ But right now his worries are gone
 Cause life looks good, good, good
 So good, good, good,
 Life looks good, good, good
-Billy's got his beer goggles.....on
+Billy's got his beer goggles...on
 
 
 

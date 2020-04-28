@@ -36,7 +36,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1970-08-29'
 ---
-Ooh, ooh...
+Oh, oh...
 
 Be on my side
 I'll be your side, baby
@@ -48,7 +48,7 @@ Staying here all alone
 When you could be
 Taking me for a ride
 
-Ooh, sha la la, the weather
+Oh, sha la la, the weather
 She could drag me over the rainbow
 And send me away
 
@@ -64,7 +64,7 @@ Is too much sorrow
 It's impossible for me to stay
 Yeah, yeah
 
-Ooh, sha la la, the weather
+Oh, sha la la, the weather
 She could drag me over the rainbow
 And send me away
 
@@ -81,7 +81,7 @@ To stand here all alone
 When you could be
 Taking me for a ride
 
-Ooh, sha la la, the weather
+Oh, sha la la, the weather
 She could drag me over the rainbow
 And send me away
 

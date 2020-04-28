@@ -96,7 +96,7 @@ Seven days a week
 So weak I need yuh body next to mine
 Can't eat nor sleep
 Like a club to a screw
-Ooh I do you
+Oh I do you
 So neat
 Spread your feet
 

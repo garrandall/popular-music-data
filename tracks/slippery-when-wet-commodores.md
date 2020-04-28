@@ -103,7 +103,7 @@ Love gets slippery when it's wet
 Uh huh slippery, slippery
 Love gets slippery when it's wet oh
 It'll slip away yeah
-Love gets slippery when it's wet ooooooh
+Love gets slippery when it's wet oh
 Love gets slippery when it's wet
 Slippery, slippery
 Love gets slippery when it's wet

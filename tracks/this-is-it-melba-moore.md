@@ -28,18 +28,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
 ---
-(chorus)
 This is it
-This time i know its for real
-And i can't explain what im feeling
+This time I know its for real
+And I can't explain what im feeling
 Im lost for words
 Im in a daze
 Stunned and amazed
 By your lovin'ways
 
 This is it
-This time i know its for real
-And i can't explain what im feeling
+This time I know its for real
+And I can't explain what im feeling
 Im lost for words
 Im in a daze
 Stunned and amazed
@@ -50,13 +49,12 @@ And suddenly
 The wheels of love begin to turn inside of me
 You said hello
 I felt a glow
-Right then and there i knew id never let you go
-Cause i know, i know.....
-
+Right then and there I knew id never let you go
+Cause I know, I know...
 
 This is it
-This time i know its for real
-And i can't explain what im feeling
+This time I know its for real
+And I can't explain what im feeling
 Im lost for words
 Im in a daze
 Stunned and amazed
@@ -68,39 +66,39 @@ Nobody ever made me feel the way you do
 It's heavenly
 It's ecstasy
 The way you make me feel when you make love to me
-Can't you see, can't you see....
+Can't you see, can't you see...
 
 
 This is it
-This time i know its for real
-And i can't explain what im feeling
+This time I know its for real
+And I can't explain what im feeling
 Im lost for words
 Im in a daze
 Stunned and amazed
 By your lovin'ways
 
 This is it
-This time i know its for real
-And i can't explain what im feeling
+This time I know its for real
+And I can't explain what im feeling
 A touch of you
 Is something new
 Nobody ever made me feel the way you do
 It's heavenly
 It's ecstasy
 The way you make me feel when you make love to me
-Can't you see, can't you see....
+Can't you see, can't you see...
 
 This is it
-This time i know its for real
-And i can't explain what im feeling
+This time I know its for real
+And I can't explain what im feeling
 Im lost for words
 Im in a daze
 Stunned and amazed
 By your lovin'ways
 
 This is it
-This time i know its for real
-And i can't explain what im feeling
+This time I know its for real
+And I can't explain what im feeling
 Im lost for words
 Im in a daze
 Stunned and amazed

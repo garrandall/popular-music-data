@@ -112,15 +112,9 @@ I've laid the plans
 Now lay the chance
 Here in my hands
 
-
-
-
 You're a winner for a lifetime
 If you seize that one moment in time
 Make it shine
-
-
-
 
 I will be
 I will be free

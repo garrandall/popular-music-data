@@ -152,7 +152,7 @@ rankings:
 
 
 I want to tease you
-I want to please you 
+I want to please you
 I want to show you baby
 That I need you
 
@@ -203,7 +203,7 @@ Nobody baby
 
 I want you right now for my lover
 Oh yes I do
-Place no one above you 
+Place no one above you
 Oh yes I do
 If you need love
 I'll be right
@@ -218,7 +218,4 @@ Who can do it like me, baby (nobody)
 No, no, no (nobody)
 Who can lay you down just like me (nobody)
 Who can kiss you all over your body, baby (nobody)
-
-
-
 

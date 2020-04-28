@@ -215,9 +215,6 @@ It's like a vision of love that seems to be true
 Another night, another dream, but always you
 In the night, I dream of love so true
 
-
-
-
 Just another night, another dream, another vision
 Of love, with me
 I'm here to set you free

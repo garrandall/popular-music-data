@@ -154,9 +154,6 @@ Don't you forget
 It's my life
 It never ends (it never ends)
 
-
-
-
 And I've asked myself
 How much do you
 Commit yourself?

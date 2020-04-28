@@ -114,9 +114,6 @@ When I know how much it hurts you?
 Oh, baby, why do I do that to you?
 Why do I do that to you?
 
-
-
-
 Why do I always use the words that cut the deepest
 When I know how much it hurts you?
 Oh, baby, why do I do that to you?

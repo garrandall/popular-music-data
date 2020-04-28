@@ -59,9 +59,6 @@ You don't wanna start no drama
 We don't scrap when there's problems we just clap and revolve 'em
 And get it coke, let it go, head it ___, sippin mo, didn't know? Better know now
 
-
-
-
 Puff and pass in the Hilton suite
 Crush and pass, is the sick, tape me
 I'll probably when i, ask her didn't know the dick ten feet
@@ -78,9 +75,6 @@ And even warn the kids in school on coke deals (Crack!)
 (I'm back!) And that's the seltzer
 You should know how the shit gon' go, follow me!
 
-
-
-
 That's the sound of a man, workin' on a train
 There he ain't (crack!) yeah
 And we don't see nobody
@@ -95,9 +89,6 @@ But I, drop 'em like its hot
 Pass 'em the Glock, my little shorty's a chip off the old block
 Go against Coke, let 'em and show
 I give you 10 ways to kill off the whole block (Nigga!)
-
-
-
 
 Wooooooooooo
 Yeah, that's how a motherfucker go down

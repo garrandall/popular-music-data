@@ -91,7 +91,7 @@ No te preocupes, baby for real
 Because you going to like how it feels
 
 'Cause I like how it feels
-Ooh yeah, I like how it feels
+Oh yeah, I like how it feels
 You know I like how it feels
 Oh yeah I like how it feels
 

@@ -74,7 +74,7 @@ rankings:
 ---
 
 You won't forget my eyes
-Ooh deep inside you realize
+Oh deep inside you realize
 You're gonna see me wherever you go
 You're gonna hear me on your radio
 There you are in your car

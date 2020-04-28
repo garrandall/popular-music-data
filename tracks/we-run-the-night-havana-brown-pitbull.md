@@ -159,7 +159,7 @@ Brushing past me, all over my skin, skin
 I can't get enough, 'nough, 'nough
 'Cause the beat keep pullin' me in (In)
 Takin' me so high up, up, up
-A place that I've never been, ohhh
+A place that I've never been, oh
 Party, party all night, night, night
 Sleep all day, then do it again, 'gain
 

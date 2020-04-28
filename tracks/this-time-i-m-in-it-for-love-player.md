@@ -86,7 +86,7 @@ Cause in the scheme of things
 You're bound lose a few
 Even your best-made plans
 Before you know it, they are falling through
-But that couldn't happen to me oooh and you
+But that couldn't happen to me ohnd you
 
 This time I'm in it for love
 This time I'm in it to win

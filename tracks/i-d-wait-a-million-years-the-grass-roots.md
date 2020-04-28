@@ -109,7 +109,7 @@ Pacing the floor, detest
 Sweat pouring down my chest
 Still I can't love you less (Whoa-whoa-whoa-whoa)
 It's worth all the pain and pride
-Baby, I just cant hide
+Baby, I just can't hide
 All that I feel inside
 
 And I'd wait a million years

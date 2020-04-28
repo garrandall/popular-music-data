@@ -40,7 +40,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1972-07-29'
 ---
-Ahh (Eddie's love) Eddie's love
+Ah (Eddie's love) Eddie's love
 
 
 I could build you a palace of pearls
@@ -53,7 +53,7 @@ What I'll give to you every day
 All of my love, all of my love
 
 
-Ooh, ooh, ooh (Eddie's love) Eddie's love
+Oh, oh, oh (Eddie's love) Eddie's love
 
 
 I could recite you a poem so sweet
@@ -66,7 +66,7 @@ What I'll give to you every day
 All of my love, all of my love
 
 
-Ooh, ooh, ooh (Eddie's love) Eddie's love
+Oh, oh, oh (Eddie's love) Eddie's love
 
 
 I could fly you beyond the sun
@@ -79,12 +79,12 @@ What I'll give to you every day
 All of my love, all of my love
 
 
-Ooh, ooh, ooh, ooh (Eddie's love) Eddie's Love (say, say)
-I wanna say, ooh, ooh, ooh, ooh (Eddie's love) Eddie's love
-If you want it, you got it (you got it) (ooh, ooh, ooh)
-Ooh, ooh, ooh (Eddie's love) Eddie's love (I wanna say it) (say, say)
-I wanna say it (say), I gotta say it (ooh, ooh, ooh, ooh)
-Ooh, ooh, ooh (Eddie's love) Eddie's love
+Oh, oh, oh, oh (Eddie's love) Eddie's Love (say, say)
+I wanna say, oh, oh, oh, oh (Eddie's love) Eddie's love
+If you want it, you got it (you got it) (oh, oh, oh)
+Oh, oh, oh (Eddie's love) Eddie's love (I wanna say it) (say, say)
+I wanna say it (say), I gotta say it (oh, oh, oh, oh)
+Oh, oh, oh (Eddie's love) Eddie's love
 (You, you, you got it) You got it!
-Ooh, ooh, ooh, ooh (Eddie's love) Eddie's love
-(Ooh, ooh, ooh, ooh) (Eddie's love)
+Oh, oh, oh, oh (Eddie's love) Eddie's love
+(Oh, oh, oh, oh) (Eddie's love)

@@ -181,7 +181,7 @@ She don't want me, then I'ma let her (I'ma let her)
 Go over there with that broke fella (Broke fella)
 Walk off my Saint Laurent, that leather (That leather)
 My new chick, I swear that she better (Want me back never)
-Want me back, never (Ooh)
+Want me back, never (Oh)
 
 
 That's true, that's right (That's right, that's right)

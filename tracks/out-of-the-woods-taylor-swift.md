@@ -103,7 +103,7 @@ Remember when we couldn't take the heat?
 I walked out and said, "I'm setting you free"
 But the monsters turned out to be just trees
 When the sun came up, you were looking at me
-You were looking at me, ooh
+You were looking at me, oh
 You were looking at me
 (Are we out of the woods yet? Are we out of the woods yet?)
 (Are we out of the woods yet? Are we out of the woods?)

@@ -49,7 +49,7 @@ rankings:
   start_date: '1960-10-17'
 ---
 Little girl, where did you come from?
-A-don't you know
+Don't you know
 That we could have a lot of fun?
 You just moved into my neighborhood
 But you oughta be in-a Hollywood
@@ -72,8 +72,6 @@ An I want this understood
 You're lookin' go-oo-ood
 You're lookin' good
 
-(instrumental)
-
 Hey!
 
 Two an two is four
@@ -91,8 +89,8 @@ You're lookin' good
 FADES-
 
 You're lookin'
-Go-ooo-oo
+Go-oo-oo
 Ooo-oo-oh
-Oh-ooo
+Oh-oo
 
 ~

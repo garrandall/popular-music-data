@@ -61,7 +61,7 @@ And blow that thing for me now
 
 Yeah, mmm
 And yay, yay, yay, yay, yay, yay, now
-Mmmhmm, hmm
+Mmmhmm, hm
 Yeah, yeah, yeah, yeah, yeah, yeah, yay, yeah
 Let me tell you one more time
 
@@ -84,4 +84,4 @@ And I got a short time to go
 
 
 One more time
-Oh, oh, oh, hmm, hmm
+Oh, oh, oh, hm, hm

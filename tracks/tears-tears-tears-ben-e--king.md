@@ -36,7 +36,7 @@ Do, do, do, do
 Darling if youd ever change your mind
 Come back and we will leave the past behind
 Ill wipe away your doubt, dispel all your fears
-But please dont leave me here with tears, tears, tears, tears
+But please don't leave me here with tears, tears, tears, tears
 But even though my heart is breaking I wish you love
 May you find the happiness that we both dreamed of
 Do, do, do, do

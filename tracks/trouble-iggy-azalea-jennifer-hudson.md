@@ -53,7 +53,7 @@ Smells like trouble to me
 
 Opposites attract, I guess this it that
 Good girl, bad guy what a perfect match
-And if we (ooo), you gon' want to pay back tithes
+And if we (oo), you gon' want to pay back tithes
 'Cause when you finish you gon' feel like you was baptized
 See baby now you fiendin' for a test drive
 'Cause you don't wanna lose your ride to the next guy
@@ -73,11 +73,11 @@ Smells like trouble to me
 I gotta beg for him in the worst way
 Dear Lord, how'd I get in this position then
 I shoulda never got involved in the first place
-But second place never get the recognition, hmm
+But second place never get the recognition, hm
 See what he doin' to me make have to shout it out
 Got a hold on me, that's without a doubt
 So clear now that he's a trouble starter
-But I ain't a saint neither and these ain't no still waters, hmm
+But I ain't a saint neither and these ain't no still waters, hm
 
 
 Just 'cause all the girls are falling at your feet

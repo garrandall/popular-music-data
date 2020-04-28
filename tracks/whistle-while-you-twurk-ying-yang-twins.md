@@ -3,8 +3,8 @@ artists:
 - Ying Yang Twins
 features: []
 genres: []
-key: whistle-while-you-twurk-ying-yang-twins
-lyrics_url: https://genius.com/Ying-yang-twins-whistle-while-you-twurk-lyrics
+key: whistle-while-you-twerk-ying-yang-twins
+lyrics_url: https://genius.com/Ying-yang-twins-whistle-while-you-twerk-lyrics
 name: Whistle While You Twurk
 rankings:
 - end_date: '2000-03-24'
@@ -64,24 +64,21 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-06-17'
 ---
-Whistle while you twurk (whistle)
+Whistle while you twerk (whistle)
 Go head and start and make that pussy fart and
-Whistle while you twurk (twurk some)
+Whistle while you twerk (twerk some)
 
-HOOK:
-Ying yang in this thang (ying yang) (x8)
+Ying yang in this thang (ying yang)
 
-(Kaine:)
 Let me see ya make that pussy fart, good Lord
 Make it shake like a salt shaker, too hard
 Get it up 'till you can't ugh, no mo'
 See I love when you hoes take it to tha floor
 Baby bounce biggy bounce ugh, it's on you
-Shorty you can twurk in your skirt, if you want to
+Shorty you can twerk in your skirt, if you want to
 See we came to keep it crunk for ya, all night
 Put a dub in da club show me, what I like
 
-(D-Roc:)
 Freak bitch make money in da club
 Them hoes like to take it off for a thug
 You can't come wit nuthin' less than a dub
@@ -91,9 +88,6 @@ And she'll show you what she really made of
 I guarantee yo ass wouldn't get enough
 Tell her pop that shit, drop that shit, "What?"
 
-Repeat chorus twice
-
-(D-Roc:)
 Where them hoes that's buying me a ticket
 I thank they all dance at club nikki
 Now where them hoes who be spittin' that game
@@ -101,7 +95,6 @@ I thank they all dance at tha blue flame
 Where them hoes that be hard booty shakin'
 I thank they all dance at tha foxxy lady
 
-(Kaine:)
 I know she a shakin' booty hoe no teaser
 She ain't no sceaser when ya all fat pleaser
 Now where them bitches that be quick to show them titties
@@ -109,12 +102,10 @@ I thank they all dance at tha magic city
 I know some hoe that be quick to take over
 You got tha green on your scene and strokers
 
-(D-Roc:)
-And whistle while you twurk, gotta make that money fo' sure
+And whistle while you twerk, gotta make that money fo' sure
 Got some nice looking tities, body look pretty
-So dont be scared to twurk
+So don't be scared to twerk
 
-(Kaine:)
 Say them niggas in tha club wanna hate
 Wanna touch her pussy and never wanna pay
 I said shouty fuck that nigga do your thang
@@ -122,13 +113,9 @@ I see your crunk tiger stripe G- strang
 It's bout that dollar bill then peppermint
 See them hoes represent for their rent
 
-(D-Roc:)
 If you in a booty club and you get your money spent
 And baby mama now she wonder where it went
 
-Repeat chorus twice
-
-(D-Roc:)
 Some of these bitches be real, they hard knock
 Once you get em crunk they start, they won't stop
 Hoes get naked for cheese, they love that
@@ -136,9 +123,8 @@ Take tha baddest bitch in tha club, I fucked that
 Some these bitches been crunk since first day
 Some of these bitches in tha club, they don't play
 Half these bitches who shake it, they turn gay
-Niggas gone pay to see pussy, anyway (ahh, ahh)
+Niggas gone pay to see pussy, anyway (ah, ah)
 
-(Kaine:)
 Some of these niggas be walkin' tha thin line
 Fuckin' wit' these hoes wit' no clothes and no mind
 Baby girl out to get money she gone shine
@@ -148,16 +134,11 @@ Kinda like tha way that thang beat like a heart
 Turn around yeah that's it, good lord
 Tryin' to do a Chinese split and make it fart
 
-(D-Roc:)
-("Ying yang in this thang" in the background at
-The beginning of each line)
 Ying Yang in this thang, from the A-T-eeL
-Whistle while you twurk if you really real
+Whistle while you twerk if you really real
 In tha club smelling like some wood
 In my neighbourhood
 Girls get crunk in the piz ball
 If you sit down, get up off tha wall
 Males only speak, if the females flirt
-If you get crunk, whistle while you twurk
-
-Repeat chorus four times
+If you get crunk, whistle while you twerk

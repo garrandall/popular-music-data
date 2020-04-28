@@ -46,7 +46,3 @@ Just to see what lies in the store
 Flyin' east to the risin' sun, for ninety minutes I'll be under the gun
 I'll dream about you while I'm on the run til I just can't dream anymore
 
-
-
-
-

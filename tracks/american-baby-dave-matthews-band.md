@@ -82,11 +82,6 @@ You lift me up and always will
 I see you in light
 Hope I don't get left behind
 
-
-
-
-
-
 Stay
 American baby
 Beautiful baby

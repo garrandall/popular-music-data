@@ -37,7 +37,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2013-05-18'
 ---
-Ha Ha Ha Ha Ha Ha!!! MONTANA!!!
+Ha Ha Ha Ha Ha Ha! MONTANA!
 
 
 Freak, some gyal ah freak ah di week

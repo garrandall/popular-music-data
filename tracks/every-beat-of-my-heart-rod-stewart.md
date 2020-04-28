@@ -65,7 +65,6 @@ How I miss her now
 In my darkest hour
 And the way our arms entwine
 
-Chorus
 
 And we'll drink a toast
 To the blood red rose
@@ -75,7 +74,6 @@ And to the northern lights
 And the swirling pipes
 How they make a grown man cry
 
-Chorus
 
 
 

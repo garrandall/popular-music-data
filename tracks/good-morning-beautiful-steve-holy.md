@@ -112,8 +112,8 @@ Mine was wonderful with you by my side
 And when I open my eyes to see your sweet face
 It's a good morning, beautiful day
 
-Hmm, good morning, beautiful day
-Hmm, it's a beautiful day
+Hm, good morning, beautiful day
+Hm, it's a beautiful day
 (Good morning beautiful, good morning beautiful)
 Good morning, what a beautiful day
 (Good morning beautiful, good morning beautiful)

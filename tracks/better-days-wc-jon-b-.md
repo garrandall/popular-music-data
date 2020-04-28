@@ -95,9 +95,6 @@ Now feel every word that I say
 Hear my cry
 As I struggle out of thirst and search for better days
 
-
-
-
 It might sound strange
 But I
 Just, can't, run away

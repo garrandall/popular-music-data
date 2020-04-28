@@ -65,7 +65,7 @@ Shook motherfuckers on the block droppin dime
 Everybody knew Joey Crack represented
 And if I told then I'd take your life
 Hey Yo, I meant it
-That's the way it goes 
+That's the way it goes
 When you deal with the real fake jacks
 And get your cap peeled
 
@@ -77,7 +77,7 @@ Brothas they been triflin
 
 
 Yeah Momma never said life would be so hard
-sometimes i find myself alone just praying to god
+sometimes I find myself alone just praying to god
 Hoping that today won't be the last
 I mean, Just the other day this kid I knew got blasted
 (Say Word) Word, it wasn't over no cash.

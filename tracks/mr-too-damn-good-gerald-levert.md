@@ -42,8 +42,8 @@ rankings:
 ---
 OOooooo
 Yeah yeah yeah yeah
-Oohhhhhhh Yeah
-Ummmm hmmmm
+Oh Yeah
+Ummmm hm
 
 Guess you never know a good thing
 When it's right in your face
@@ -62,7 +62,7 @@ I wanna be your breakfast in bed
 And baby I'll be your food
 Mr. Too Damn Good To You
 
-Yes sir, hmm
+Yes sir, hm
 You've been hurt so many times
 You don't know when love's for real
 So you don't open up
@@ -96,7 +96,7 @@ Mr. Too Damn Good To You
 
 Baby, baby
 I wanna be your shoulder when you need one to cry on
-Hmm-hmm yeah
+Hm-hm yeah
 I wanna be your pillow when you need one to lie on, oh yeah
 I wanna be the spot light that shines on ya
 Girl I wanna write the girl is mine on ya, yes I am

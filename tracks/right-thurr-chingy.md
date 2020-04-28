@@ -144,7 +144,7 @@ rankings:
 Uh, hey dirty, (what?)
 Look at that girl right there (oh)
 She make me say
-Ooh, ooh, (yeah) ooh, ooh, (hey) do what you do
+Oh oh (yeah) oohohohhey) do what you do
 
 
 I like the way you do that right thurr (right thurr)
@@ -172,7 +172,7 @@ I know you popular, but you gon' be famous today
 She be shoppin' in Frontenac
 Just look at her front and back
 Man she so stacked and she know that I want that
-Her man, he's so whacked girl can i taste yo cat
+Her man, he's so whacked girl can I taste yo cat
 Gave her three hundred to strip, like buyin' a throwback
 She stay in the club,(club) I can be seein' she got it honest
 In real life, girl remind me of Pocahontas
@@ -183,15 +183,12 @@ Trick, it's against the law for her to move them hips
 If you ever seen her dirty, your mouth gon' drop
 Worldwide fools probably tell you this off tops
 
-
-
-
 I like the way she doin' that (c'mon)
 Plus I like it when she bring it back (say it)
-Ooh, (uh-huh) ooh, ooh, ooh, (uh-huh) do what you do (whoo)
+Oh (uh-huh) oh oohohohuh-huh) do what you do (whoo)
 I like the way she doin' that (c'mon)
 Plus I like it when she bring it back (say it)
-Ooh, (uh-huh) ooh, ooh, ooh, (uh-huh) do what you do (whoo)
+Oh (uh-huh) oh oohohohuh-huh) do what you do (whoo)
 
 
 Gimme what you got for a pork chop (uh)
@@ -212,12 +209,12 @@ I like that (uh-huh)
 I like that (uh-huh)
 I like that (uh-huh)
 I like that (Track stars)
-Ooh, ooh, ooh, ooh, do what you do
+Oh oh oohohoho what you do
 I like that (yeah)
 I like that (yeah)
 I like that (yeah)
 I like that (Chingy)
-Ooh, ooh, ooh, ooh, do what you do
+Oh oh oohohoho what you do
 
 
 

@@ -178,7 +178,7 @@ Or he got his Ph.D Player Hater's Degree? (haha)
 
 Can't nobody take my pride
 Uh-uh, uh-uh
-Can't nobody hold me down, ohh no
+Can't nobody hold me down, oh no
 I got to keep on movin'
 
 Quit that! (uh-huh) You a big cat? (yeah)
@@ -214,17 +214,17 @@ Why you wanna take us under
 
 Can't nobody take my pride
 Uh-uh, uh-uh
-Can't nobody hold me down, ohh no
+Can't nobody hold me down, oh no
 I got to keep on movin'
 
 Can't nobody take my pride
 Uh-uh, uh-uh
-Can't nobody hold me down, ohh no
+Can't nobody hold me down, oh no
 I got to keep on movin'
 
 Can't nobody take my pride
 Uh-uh, uh-uh
-Can't nobody hold me down, ohh no
+Can't nobody hold me down, oh no
 I got to keep on movin'
 
 Can't nobody take my pride

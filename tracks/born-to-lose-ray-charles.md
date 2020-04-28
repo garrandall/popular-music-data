@@ -55,8 +55,5 @@ When I wake and find that you're not there
 You've grown tired and now you say, we're through
 Born to lose and now I'm losing you
 
-
-
-
 Born to lose and
 Now I'm losing you

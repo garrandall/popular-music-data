@@ -122,7 +122,7 @@ But yo, ain't nothin promised, one day I'll be gone
 Feel the strife, but trust life does go on
 But just in case, it's my place to impart
 One day some girl's gonna break your heart
-And ooh ain't no pain like from the opposite sex
+And oh ain't no pain like from the opposite sex
 Gonna hurt bad, but don't take it out on the next, son
 Throughout life people will make you mad
 Disrespect you and treat you bad

@@ -107,8 +107,8 @@ Golden grand piano
 My beautiful Castillo
 
 You
-Ooh, you
-Ooh, I'd leave it all
+Oh, you
+Oh, I'd leave it all
 
 My acres of a land
 That I've achieved
@@ -116,12 +116,12 @@ It may be hard for you to
 Stop and believe
 
 But for you
-Ooh, you
-Ooh, I'd leave it all
+Oh, you
+Oh, I'd leave it all
 
 Oh, for you
-Ooh, you
-Ooh, I'd leave it all
+Oh, you
+Oh, I'd leave it all
 
 And give me one good reason
 Why I should never make a change
@@ -134,12 +134,12 @@ If you just say the words
 I'll, I'll up and run
 
 Oh, to you
-Ooh, you
-Ooh, I'd leave it all
+Oh, you
+Oh, I'd leave it all
 
 Oh, for you
-Ooh, oh
-Ooh, I'd leave it all
+Oh, oh
+Oh, I'd leave it all
 
 And give me one good reason
 Why I should never make a change
@@ -151,7 +151,7 @@ Why I should never make a change
 And baby if you hold me
 Then all of this will go away
 
-A-ooh, a-ooh
+A-oh, a-oh
 
 My friends and family
 They don't understand
@@ -159,12 +159,12 @@ They fear they'll lose so much
 If you take my hand
 
 But, for you
-Ooh, you
-Ooh, I'd lose it all
+Oh, you
+Oh, I'd lose it all
 
 Oh, for you
-Ooh, you
-Ooh, I'd lose it all
+Oh, you
+Oh, I'd lose it all
 
 And give me one good reason
 Why I should never make a change
@@ -182,12 +182,12 @@ Golden grand piano
 My beautiful Castillo
 
 You
-Ooh, you
-Ooh, I'd leave it all
+Oh, you
+Oh, I'd leave it all
 
 Oh, for you
-Ooh, you
-Ooh, I'd leave it all
+Oh, you
+Oh, I'd leave it all
 
 
 

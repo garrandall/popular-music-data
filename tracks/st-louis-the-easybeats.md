@@ -65,11 +65,11 @@ Show me the way to St.Louis
 Show me the way
 
 Louis, Louis, Louis, Louis
-Louis, Louis, Louis, Louis......
+Louis, Louis, Louis, Louis...
 
 Show me the way to St.Louis
 Show me the way
 Show me the way to St.Louis
 Show me the way
 Show me the way to St.Louis
-Show me the way....
+Show me the way...

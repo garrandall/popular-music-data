@@ -91,9 +91,6 @@ rankings:
 Who you trying to get crazy with, ése?
 Don't you know I'm loco?
 
-
-
-
 To the one on the flamboyant tempa
 Just toss that ham in the frying pan
 Like spam, get done when I come and slam
@@ -140,9 +137,6 @@ Insane in the membrane
 Crazy insane, got no brain!
 Insane in the membrane
 Insane in the brain!
-
-
-
 
 Like Louie Armstrong, played the trumpet
 I'll hit that bong and break you off something

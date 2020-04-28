@@ -126,11 +126,11 @@ Turn the beat around (Turn it around, yeah)
 Love to hear percussion (yeah yeah hey hey!)
 Turn it upside down (hey hey hey hey yeah)
 Love to hear percussion (my my my my my)
-Love to hear it (GOT TO HEAR IT!)
+Love to hear it (got to hear it!)
 
 Turn the beat around (go on go on go on girl!)
 Love to hear the percussion (move your feet when you feel the beat, yeah)
-Turn it upside down (HEY! yeah yeah)
+Turn it upside down (hey! yeah yeah)
 Love to hear percussion (whoa!)
 Love to hear it
 
@@ -147,14 +147,14 @@ He nails that beat with the syncopated rhythm
 With the rat, tat, tat, tat, tat, tat on the drums, hey!
 
 
-Turn the beat around (ooooh I'm talkin' 'bout the beat)
+Turn the beat around (ohm talkin' 'bout the beat)
 Love to hear percussion (Ah my my my my my)
-Turn it upside down (ooooh yeah)
+Turn it upside down (ohah)
 Love to hear the percussion (love the hear the beat nah nah)
 Love to hear it
-Love to hear it (WHOA!)
+Love to hear it (woah)
 Love to hear it
-Love to hear it (HEY....!!)
+Love to hear it (hey)
 
 Turn the beat around
 Love to hear percussion

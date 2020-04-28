@@ -93,7 +93,7 @@ Can't buy you love, can't buy you love
 A burning desire, would you be
 Inside my heart
 How much will it cost
-Ooh, baby
+Oh, baby
 To cool it off?
 What do you want?
 I'll write good checks to pay the price
@@ -119,7 +119,7 @@ What if I get you pearls? (No)
 What about a new pocketbook? (No)
 A sweater? (No)
 I thought you liked it like that? (No, I like it like this)
-Ohhh, ohhh (And it won't cost you anything)
+Ohhh, oh (And it won't cost you anything)
 
 
 I can't satisfy
@@ -130,7 +130,7 @@ Please hold me tight
 This ride I'll dig to pay the fare
 (What kind of ride?) (Up and down, round and round)
 Give extra tips, girl, I don't care
-Ahhh, baby
+Ah, baby
 
 Mo', mo', mo', muh-muh-more money, cash, checks
 Toll-free phone sex

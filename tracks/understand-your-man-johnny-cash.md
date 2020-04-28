@@ -56,12 +56,12 @@ Now, you can give my other suit to the Salvation Army
 And everything else I leave behind
 I ain't taking nothing that'll slow down my traveling
 While I'm untangling my mind
-I ain't going to repeat what i said anymore
+I ain't going to repeat what I said anymore
 While I'm breathing air that ain't been breathed before
 I'll be as gone to as a wild goose in winter
 Then you'll understand your man
 Meditate on it
 You hear me talking now
 Understand your man
-Remember what i told ya
+Remember what I told ya
 Understand your man

@@ -21,7 +21,7 @@ Were you sleeping?
 Were you still in the bed?
 
 Or is a nightmare keeping you up instead?
-Ooh baby, are you feeling guilty for what you did?
+Oh baby, are you feeling guilty for what you did?
 If you think you're hurting, you ain't seen nothing yet
 
 
@@ -50,7 +50,7 @@ I bet you realize that she ain't half the woman I am
 Glass (gl-gl-gl), glass (glee-glee-glee), glass, glass
 
 Oh, oh, oh, oo-oo-oo-oo-oh
-Oh, oh, oh, oo-oo-oo-ooh
+Oh, oh, oh, oo-oo-oo-oh
 
 
 

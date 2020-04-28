@@ -145,7 +145,7 @@ Can I be ya friend?
 Dis is how I feel
 Im in need of love
 So lets dip up out of here
-Ooohh ya just my type
+Oh ya just my type
 Everythings so right
 I just wanna chill
 Lets dip up out of here
@@ -165,14 +165,14 @@ If you could see tha thoughts dats in my head (Dats in my head)
 (Im trippin)
 Imma playa dat is true
 But I change da game for youuu
-Lets see wat it do (Oooooh)
+Lets see wat it do (Oh)
 
 
 Can I be ya friend?
 Dis is how I feel
 Im in need of love
 So lets dip up out of here
-Ooohh ya just my type
+Oh ya just my type
 
 Everythings so right (so right)
 I just wanna chill
@@ -210,14 +210,14 @@ A party at my crib
 Dats a party in da hillz
 You call it wat you want
 But she can call it wat she feel
-(Ooowwww!!!)
+(Ooowwww!)
 
 
 Can I be ya friend?
 Dis is how I feel
 Im in need of love
 So lets dip up out of here
-Ooohh ya just my type
+Oh ya just my type
 Everythings so right (so right)
 I just wanna chill
 Lets dip up out of here
@@ -231,12 +231,12 @@ I ha ha ha haaaa haaaaa
 
 
 I ain't nuttin but a nonviolent nigga (yaknowatimean?)
-Me & lil' Lloyd long hair dont care
+Me & lil' Lloyd long hair don't care
 Yo wattup Ryan I see you baby
 (Yea)
 Its major move right here baby
 I ain't talkin fast its just you listenin' slow (yaknowatimean?)
-You ain't tryna hear me den dont heard me
+You ain't tryna hear me den don't heard me
 Im up outta hear
 I ain't bein mean but you so mean in dem jeans (yaknowatimean?)
 So wat you want me to do?

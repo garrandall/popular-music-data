@@ -76,9 +76,6 @@ So never leave me lonely
 Tell me, you love me only
 And that you'll always let it be me
 
-
-
-
 Each time we meet love
 I find complete love
 And without your sweet love

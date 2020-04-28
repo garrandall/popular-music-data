@@ -182,13 +182,13 @@ And I drank up all my money, dazed and kinda lonely
 
 You're gone and I gotta stay high
 All the time, to keep you off my mind
-Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-oh-oh-oh, oh-oh-oh-oh
 High, all the time, to keep you off my mind
-Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-oh-oh-oh, oh-oh-oh-oh
 Spend my days locked in a haze, tryna forget you, babe
 I fall back down
 I gotta stay high, all my life, to forget I'm missin' you
-Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-oh-oh-oh, oh-oh-oh-oh
 
 
 Pick up daddies at the playground, how I spend my day time
@@ -198,13 +198,13 @@ Make it fast and greasy, I'm numb and way too easy
 
 You're gone and I gotta stay high
 All the time, to keep you off my mind
-Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-oh-oh-oh, oh-oh-oh-oh
 High, all the time, to keep you off my mind
-Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-oh-oh-oh, oh-oh-oh-oh
 Spend my days locked in a haze, tryna forget you, babe
 I fall back down
 I gotta stay high, all my life, to forget I'm missin' you
-Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-oh-oh-oh, oh-oh-oh-oh
 
 
 Staying in my play pretend, where the fun ain't got no end, oh
@@ -215,10 +215,10 @@ Can't go home alone again, need someone to numb the pain
 
 You're gone and I gotta stay high
 All the time, to keep you off my mind
-Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-oh-oh-oh, oh-oh-oh-oh
 High, all the time, to keep you off my mind
-Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-oh-oh-oh, oh-oh-oh-oh
 Spend my days locked in a haze, tryna forget you, babe
 I fall back down
 I gotta stay high, all my life, to forget I'm missin' you
-Ooh-ooh-ooh-ooh, ooh-ooh-ooh-ooh
+Oh-oh-oh-oh, oh-oh-oh-oh

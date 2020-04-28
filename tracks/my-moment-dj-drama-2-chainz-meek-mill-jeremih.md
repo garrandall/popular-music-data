@@ -86,7 +86,7 @@ Just Rolls Royce and Bugattis and M4's this year nigga
 If I don't grind, I don't shine, if I don't shine, then I don't eat
 Won't eat, then I'mma starve, if I'mma starve, I pull heat
 On all y'all bitch ass niggas, all y'all rich ass niggas
-Cause if I dont make no money nigga, I'm gon' take yo money nigga
+Cause if I don't make no money nigga, I'm gon' take yo money nigga
 
 
 [Tired of livin' day to day like everything is alright

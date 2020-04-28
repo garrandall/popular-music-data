@@ -31,7 +31,7 @@ Lookin' to pipe some, ass in the party, look like a pageant (pop it)
 If we gon' fight some, beat it and dash it, lawyer do magic (alright)
 
 
-Lowrider, my avenue (ooh)
+Lowrider, my avenue (oh)
 But that truck's not up my avenue (no)
 You cried and said, "Look what you made me do" (you made me do)
 It's not my fault that I don't wanna end up screwed (screwed)
@@ -78,10 +78,10 @@ You only get so many, so many drugs
 So many, so many drugs
 You only get so many, so many drugs
 
-C-L-O-S-E (ooh)
+C-L-O-S-E (oh)
 You're so C-L-O-S-E to me (you know)
 C-L-O-S-E to me (you made me do)
-I mean, seriously, can I breathe? (Ooh)
+I mean, seriously, can I breathe? (Oh)
 C-L-O-S-E (through it)
 You're so C-L-O-S-E to me (through it)
 You're too C-L-O-S-E to me (you're too close)

@@ -29,7 +29,7 @@ And somehow I know I'll be strong
 For once I can't touch
 What my heart used to dream of
 Long before I knew
-Ooh, ooh, ooh, someone like you
+Oh, oh, oh, someone like you
 Would ever dream of makin my dreams come true
 For once in my life
 I won't let sorrow hurt me
@@ -41,7 +41,7 @@ This is mine, you can't take it
 Long as I know I've got love I can make it
 For once in my life
 I've got that someone who needs me
-Mmm... hmm... hmm...
+Mmm... hm... hm...
 For once I can say
 This is sho nuff mine, you can't take it
 Long as I know I've got love I can make it

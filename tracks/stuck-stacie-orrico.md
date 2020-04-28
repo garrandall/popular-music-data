@@ -75,7 +75,7 @@ But you just gave me lies
 Every now and then
 When I'm all alone
 I be wishing you would call me on the telephone
-Say you want me back 
+Say you want me back
 But you never do
 I feel like such a fool
 There's nothing I can do..
@@ -90,8 +90,8 @@ I miss you even more
 And I can't fake it
 The way I could before
 I hate you but I love you
-I can't stop thinking of you 
-It's true 
+I can't stop thinking of you
+It's true
 I'm stuck on you
 
 Now love's a broken record that's
@@ -104,15 +104,7 @@ Why we got to play these games we play?
 Every now and then
 When I'm all alone
 I be wishing you would call me on the telephone
-Say you want me back 
+Say you want me back
 But you never do
 I feel like such a fool
-
-
-
-
-
-
-
-
 

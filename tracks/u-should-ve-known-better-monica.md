@@ -153,9 +153,6 @@ And it just don't matter (don't matter to me, babe)
 If you're rich or poor, out or in doin' 5 to 10
 You should've known better
 
-
-
-
 You should've known better
 Than to think I would leave
 You should've known better

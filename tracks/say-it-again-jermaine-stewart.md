@@ -56,11 +56,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-06-04'
 ---
-Say it again, ooh, baby
+Say it again, oh baby
 Please say it one more time for me
 I don't believe I heard you right
-Did you say you love me? Mmm-hmm
-(Ooh-ooh-ooh)
+Did you say you love me? Mmm-hm
+(Ohohooh
 
 We've been friends, real close friends, for a long time
 I can tell there's something heavy hanging on your mind
@@ -68,11 +68,11 @@ Action speaks louder than words
 I was sure you said it right when you said last night
 "I love you"
 
-Say it again, ooh, honey
+Say it again, oh honey
 Please say it one more time for me
 I don't believe I heard you right
 Did you say you love me?
-(Ooh-ooh-ooh)
+(Ohohooh
 Say it again and again and again and again
 
 Sitting here with your head in a crazy spin
@@ -81,29 +81,29 @@ Hold me, tell me what's on your mind
 I'll always have the time to hear those words
 "I love you"
 
-Say it again, ooh, honey
+Say it again, oh honey
 Please say it one more time for me
 I don't believe I heard you right
 Did you say you love me?
-(Ooh-ooh-ooh)
+(Ohohooh
 Say it again and again and again and again
 
 Hold me, tell me what's on your mind
 I'll always have the time to hear those words
 "I love you"
 
-Say it again, ooh, honey
+Say it again, oh honey
 Please say it one more time for me
 I don't believe I heard you right
 Did you say you love me?
-(Ooh-ooh-ooh)
+(Ohohooh
 Did I hear you say you love me?
-(Ooh-ooh-ooh)
+(Ohohooh
 I need to hear you say you love me
-(Ooh-ooh-ooh)
+(Ohohooh
 Oh!
 
-Say it again, ooh, honey
+Say it again, oh honey
 Please say it one more time for me
 I don't believe I heard you right
 Did you say you love me?
@@ -129,7 +129,7 @@ Say it, say it again
 I don't believe I heard you right
 Say it again, say it
 
-Say it again, ooh, honey
+Say it again, oh honey
 Please say it one more time for me
 I don't believe I heard you right
 Did you say you love me?

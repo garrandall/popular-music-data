@@ -97,9 +97,6 @@ Whenever you want me, I'll be there
 Whenever you need me, I'll be there
 I'll be around, yeah
 
-
-
-
 Whenever you call me, I'll be there
 Whenever you want me, I'll be there
 Even if I have to crawl, I'll be there

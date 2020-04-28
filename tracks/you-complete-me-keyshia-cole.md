@@ -116,7 +116,7 @@ You'll be the best man that you can
 
 And it's okay...
 I know you do you... I know you do.
-Yes you do... I need you too... yeaahh. I love you baby (ohhh)
+Yes you do... I need you too... yeaahh. I love you baby (oh)
 
 
 

@@ -106,7 +106,3 @@ You think I'm so caught up in where,
 I am right now
 But believe I remember it all
 
-
-
-
-

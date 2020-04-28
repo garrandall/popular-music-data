@@ -5,7 +5,7 @@ features: []
 genres: []
 key: clothes-off---gym-class-heroes
 lyrics_url: https://genius.com/Gym-class-heroes-clothes-off-lyrics
-name: Clothes Off!!
+name: Clothes Off!
 rankings:
 - end_date: '2007-09-07'
   rank: 46

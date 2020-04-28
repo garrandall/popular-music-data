@@ -60,7 +60,7 @@ Oh see, C. C. Rider
 I said see, what you have done now
 Oh see, C. C. Rider
 I said see, what you have done now
-Ahh, you made me love you
+Ah, you made me love you
 Now, now, now, now your man has gone
 
 Oh, I'm going with my baby
@@ -80,20 +80,20 @@ Spinnin', spinnin', spinnin', spinnin' like a spinnin' top
 (Jenny, Jenny, woo, Jenny, Jenny)
 Spinnin', spinnin', spinnin', spinnin' like a spinnin' top
 (Jenny, Jenny, woo, Jenny, Jenny)
-Come along, baby, 
+Come along, baby,
 
 Yeah, see, C. C. Rider
 I said see, what you have done now
 Oh see, C. C. Rider
 Ah, come on see, baby, what you have done now
-Ahh, you made me love you
+Ah, you made me love you
 Now, now, now, now your man has gone
 
 Jenny, Jenny, Jenny, won't you come along with me
 (Jenny, Jenny, woo, Jenny, Jenny)
 Jenny Jenny, Jenny, won't you come along with me
 (Jenny, Jenny, woo, Jenny, Jenny)
-Come along baby, 
+Come along baby,
 
 Spin, spin, spinnin' like a spinnin' top
 (Jenny, Jenny, woo, Jenny, Jenny)

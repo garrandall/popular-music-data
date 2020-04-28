@@ -101,7 +101,7 @@ Oh what a feeling
 What a wonderful emotion
 Yeah what a life
 Counting my blessings and knowing
-Ooh we had our ups and downs all along the way
+Oh we had our ups and downs all along the way
 She had a chance to leave but chose to stay
 What a beautiful day
 What a beautiful day

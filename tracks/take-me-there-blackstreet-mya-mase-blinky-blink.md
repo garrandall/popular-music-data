@@ -100,7 +100,6 @@ And what we do, is between me and you
 So c'mon and take my hand, to that special place
 Where smiles come to life, and dreams come true
 
-(Chorus)
 
 Verse Two: Chauncey Of Blackstreet
 Let's make a wish
@@ -135,6 +134,5 @@ And Phil and Lil misses their mom and dad
 So take the time of day
 And we'll find the place
 And I guarantee that we will all get home safe
-Mya: Just Take me there!!!!!!!!!!!!!!!
+Mya: Just Take me there!
 
-(Chorus)

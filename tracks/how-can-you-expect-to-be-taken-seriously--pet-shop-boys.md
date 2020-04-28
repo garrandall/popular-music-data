@@ -49,7 +49,7 @@ Tell me baby how you really hate publicity
 How can you expect to be taken seriously?
 How can you expect to be taken seriously?
 Seriously (seriously)
-Seriously, aah
+Seriously, ah
 
 (Do you have a message for your fans?)
 
@@ -60,7 +60,7 @@ How can you expect to be taken seriously?
 Seriously
 (Seriously)
 Seriously
-Aah, seriously
+Ah, seriously
 
 
 

@@ -76,7 +76,7 @@ In the car or walking down the highway
 Baby, baby, can't you hear my heartbeat?
 
 When you move up closer to me
-I get a feelin' that's ooo-wee
+I get a feelin' that's oo-wee
 Can't you hear the poundin' of my heartbeat
 'cause you're the one I love, you're the one I love
 

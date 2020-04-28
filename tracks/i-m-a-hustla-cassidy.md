@@ -159,7 +159,7 @@ I'm a hustler, I'm a, I'm a hustler, homey, yeah
 I'm a hustler, I'm a, I'm a hustler, homey, yeah
 
 
-To get paid you got a save dont be spending the change
+To get paid you got a save don't be spending the change
 In 5th grade I was hustling my Genesis games
 I was dumb, young, selling chewing gum to my classmates
 On the cash chase moving at a fast pace

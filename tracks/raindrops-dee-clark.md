@@ -96,9 +96,6 @@ So many raindrops
 It feels like raindrops falling from my eye-eyes
 Falling from my eyes
 
-
-
-
 Oh, there must be a cloud in my head
 Rain keeps falling from my eye-eyes
 Oh, no it can't be teardrops

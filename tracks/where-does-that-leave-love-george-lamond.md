@@ -129,4 +129,3 @@ You always said that you'd be here
 How could you leave me now
 We got so much more we can share
 
-Chorus

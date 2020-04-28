@@ -95,9 +95,6 @@ I've seen signs of what a prison their lives went through
 And I'm burnin', I'm burnin', I'm burnin' for you
 I'm burnin', I'm burnin', I'm burnin' for you!
 
-
-
-
 Burn out the day
 Burn out the night
 I can't see no reason to put up a fight

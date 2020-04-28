@@ -58,7 +58,7 @@ rankings:
 ---
 
 Yeah.. sendin this one out.. to my man Killa B
-No doubt indeed.. without weed.. knowhatI'msayin? 
+No doubt indeed.. without weed.. knowhatI'msayin?
 That old real shit..
 
 
@@ -115,7 +115,7 @@ As long as fiends smoke crack
 I'll be on the block hustlin countin my stacks
 No doubt, watchin my back and proceed with caution
 Five-oh lurkin, no time to get lost in -- the system
-Niggaz usin fake names to get out quick
+Niggas usin fake names to get out quick
 My brother did it and got bagged with two ounces
 I-llegal world where squads hit the block hard
 Ask my man Twin when he got bagged, that fucked me up God
@@ -125,7 +125,7 @@ You can't find a shorty to troop your bid witchu
 Hit wit a 2 to 4 it's difficult
 Wild on the streets I try to maintain
 Tight with my loot, cause hoes like to run game
-Some niggaz like to trick but I ain't wit that trickin shit
+Some niggas like to trick but I ain't wit that trickin shit
 I'm like a Jew, savin dough so I can big whip
 Pushin a Lex, now I'm set, ready to jet
 No matter how much loot I get I'm stayin in the projects, forever

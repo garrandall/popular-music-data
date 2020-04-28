@@ -146,7 +146,7 @@ Every day, every hour
 Turn the pain into power
 
 Power, power, power, power
-Ooh, yeah
+Oh yeah
 Whoa
 Power, power, power, power
 

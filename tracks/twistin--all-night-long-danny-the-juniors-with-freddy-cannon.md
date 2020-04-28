@@ -1,8 +1,8 @@
 ---
 artists:
-- Danny
-- The Juniors with Freddy Cannon
-features: []
+- Danny & the Juniors
+features:
+- Freddy Cannon
 genres: []
 key: twistin--all-night-long-danny-the-juniors-with-freddy-cannon
 name: Twistin' All Night Long

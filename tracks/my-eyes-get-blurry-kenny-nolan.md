@@ -22,7 +22,7 @@ rankings:
 ---
 I hear a poet say
 How love will find its way
-For soon the eyes cant hide
+For soon the eyes can't hide
 Feelings so deep inside
 But sittin' here with you
 I'm coming all unglued

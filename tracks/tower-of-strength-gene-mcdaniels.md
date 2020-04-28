@@ -91,7 +91,7 @@ I don't love you any more
 And I'd walk out that door
 
 
-And you'd be down on your knees, ahh-huh
+And you'd be down on your knees, ah-huh
 You'd be calling to me-ee-ee
 But a tower of a-strength is a-something
 I'll never be

@@ -110,7 +110,7 @@ Ya honor Im have to get rid of ya
 Because it aint no trivia about my house in WEST BOLIVIA
 Blew the jury a kiss they rather dismiss
 Them swim the big fish
-YOU fuckin guppies!!!!!!!!
+YOU fuckin guppies!
 
 Gangsta's make the world go round
 
@@ -136,7 +136,7 @@ Behalf as I call shots as if I was Saddaam Hussein
 Jackin motha
 Fuckas for Dana Danes hated by many bit I don't
 Care because I
-Rather be feared than loved with a pocket full 
+Rather be feared than loved with a pocket full
 Of dubs because
 Gangsta gangsta's make th eworld go round & if
 You want a peice
@@ -144,7 +144,7 @@ Then you best to be down so quit chastising me
 Analzing me &
 Like the escorts look over your sholder nigga its
 Plain to see
-Crooked ass cowards......................
+Crooked ass cowards...
 
 Gangstas Make The World Go Round
 
@@ -155,7 +155,7 @@ Historys a trip so I peep when Iam reading
 Nigga's probaly grew weed in the garden of Eden
 Before big ballin sex cars and loot
 Its like bitches been scandolaus biting forbidden fruit
-But gangsta's dont deal with that shit, on the
+But gangsta's don't deal with that shit, on the
 Westside
 And since they regulating hoes I roll with the
 Best side
@@ -178,7 +178,7 @@ Cause evil lurks the land
 Plus I got a packet with this gang-bang jacket
 Gotta hold it keep it loaded devoted since quoted
 Fo sho One-0 got the ups on thses prankstas
-While the world keep twisting as a Westside 
+While the world keep twisting as a Westside
 Gangsta
 FOE LIFE NIGGA
 

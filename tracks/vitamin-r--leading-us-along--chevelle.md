@@ -100,7 +100,3 @@ Became
 Over and Over a slave
 Became
 
-
-
-
-

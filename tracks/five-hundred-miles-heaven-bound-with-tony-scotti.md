@@ -1,7 +1,8 @@
 ---
 artists:
-- Heaven Bound with Tony Scotti
-features: []
+- Heaven Bound
+features:
+- Tony Scotti
 genres: []
 key: five-hundred-miles-heaven-bound-with-tony-scotti
 name: Five Hundred Miles

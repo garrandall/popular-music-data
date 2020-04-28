@@ -80,7 +80,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-03-06'
 ---
-Baby baby you dont understand
+Baby baby you don't understand
 How much I love you baby
 How much I wanna be your only man
 And baby baby baby you don't have to go

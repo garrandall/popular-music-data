@@ -79,9 +79,6 @@ Doo, doo doo
 A wondrous apparition, provided by magician
 Doo, doo, doo, looking out my back door
 
-
-
-
 Tambourines and elephants are playing in the band
 Won't you take a ride on the flying spoon?
 Doo, doo doo

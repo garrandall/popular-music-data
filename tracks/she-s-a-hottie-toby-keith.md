@@ -75,7 +75,7 @@ Yelling Yee Haw! she's a redneck chick
 Spitting in the fire, putting on a show
 Strutting like a chicken to the radio
 Hey Slick! She's a hick!
-Hmm and her butter milk lipstick
+Hm and her butter milk lipstick
 Give a little something to a cool dark cat
 Finding him a woman who could shake like that
 

@@ -252,4 +252,4 @@ Just keep the rhythm like that, that (that, that)
 Put in on like that, that (that, that)
 I know you like that (that, that, that, that)
 You know I want that (that, that, that, that)
-Ohh oh-ohh oh-ohh oh-ohh
+Ohh oh-oh oh-oh oh-oh

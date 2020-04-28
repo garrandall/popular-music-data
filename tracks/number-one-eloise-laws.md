@@ -34,7 +34,7 @@ You're the rock, I'm the roll, music play Let It Go, Get It on.
 
 You, you, you're number one. On my radio, baby, you're my solid gold.
 
-Ooh, You're number one. On my radio, baby, you're my solid gold.
+Oh, You're number one. On my radio, baby, you're my solid gold.
 
 Hey, you're number one.
 

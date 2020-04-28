@@ -186,9 +186,6 @@ It's all about mashing, cashin heat in the stash
 When you're in the neigborhood of assassins
 What you say?
 
-
-
-
 What do you consider fun? (Pass the bomb, pass the bomb)
 All day night, and all night long
 When you wake up in the morining

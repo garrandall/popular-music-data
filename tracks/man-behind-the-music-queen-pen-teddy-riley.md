@@ -45,25 +45,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-02-07'
 ---
-Artist: Queen Pen f/ Teddy Riley
-Album:  My Melody
-Song:   Man Behind the Music *
-
-* song is censored on the album itself; do not submit any more corrections
-
-Chorus: Teddy Riley
 
 This is how it should be done
 Cause this style, is identical to none
 How can I make you dance some more
 (T.R.) That's what I came here for
-
-Repeat Chorus
-
-	And nowwww... here's the magnificent...
-	funkyyyyyy momma!
-
-Verse One: Queen Pen
 
 Lyrical flows like WHAT
 The man behind the music'll make you JUMP
@@ -82,11 +68,10 @@ You had your chance to be down wit da man, UH-HUH
 So busy playa-hatin perpetratin, frauds
 Articulatin, on his downfall, TRUE, you can't take it
 
-	What the deal Ma?
-	Funky Momma blaze the track so you can feel her
-	I'm Miggidy I'm all about the dollar bills y'all, rock the Diamond Lex
-	All that shit behind my desk is signed in checks
-
+What the deal Ma?
+Funky Momma blaze the track so you can feel her
+I'm Miggidy I'm all about the dollar bills y'all, rock the Diamond Lex
+All that shit behind my desk is signed in checks
 
 Do you like hits baby, got em goin crazy on BlackStreet
 You know it's plaque time when me and the track meet
@@ -107,8 +92,8 @@ That's we BlackStreet, gone!
 
 (You, can't, take, it)
 
-	And nowwwwwwwww... here's the magnificent...
-	funkyyyyyy mommaaaaaah!
+And nowwwwwwwww... here's the magnificent...
+funkyyyyyy mommaaaaaah!
 
 
 Now Teddy, JAM, for me ONE TIME
@@ -125,7 +110,5 @@ ASK SAINT NICK, about the repoitoire
 For those in the past, they know who they are
 If the shoe fits trust, WE GON WEAR IT
 And we beez the baddest click up on this planet
-We paid the cost to be boss G*d 
+We paid the cost to be boss G*d
 Cause scared don't win money, NOW DROP IT
-
-Chorus (to fade)

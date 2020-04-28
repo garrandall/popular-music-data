@@ -55,7 +55,7 @@ I don't know if it's from what I speak about, like I don't know
 I just know shit, until I'm dead I'ma be me
 Yeah, yeah
 And they ain't never seen this shit before
-(Ooh, BigHead on the beat)
+(Oh, BigHead on the beat)
 Young nigga shit
 Bitch, gang, gang, blatt, blatt, hrrr
 38 Baby

@@ -46,12 +46,12 @@ And you know how to part your lips to tantalize
 Yeahhhh
 And you can get any man you want to know
 And you do it, and don't say you don't, 'cause you do
-Well baby........
+Well baby...
 
 Chorus:
 I ain't gonna eat out my heart anymore
 I ain't gonna eat out my heart anymore
-So quit it!!!!!
+So quit it!
 
 I love ya, I love ya, I do girl
 But you ain't gonna cheat on me

@@ -27,9 +27,9 @@ Uh, uh!
 
 
 What I'm supposed to do when these racks blue?
-Ooh, ooh
+Oh, oh
 What I'm supposed to do when these racks blue?
-Ooh, ooh
+Oh, oh
 I shoulda gave 'em dog food and went to get neutered
 I shoulda never got caught up with a cougar
 
@@ -49,13 +49,13 @@ Get more liberty, should be proud of me
 
 
 What I'm supposed to do when these racks blue?
-Ooh, ooh
+Oh, oh
 What I'm supposed to do when these racks blue?
-Ooh, ooh
+Oh, oh
 What I'm supposed to do when these racks blue?
-Ooh, ooh
+Oh, oh
 What I'm supposed to do when these racks blue?
-Ooh, ooh
+Oh, oh
 
 
 I got the white ice
@@ -65,7 +65,7 @@ The Patek a two-tone
 I done went colorblind
 I'ma get my shine on
 What I'm supposed to do when these racks blue?
-Ooh, ooh
+Oh, oh
 
 
 Comin' from poverty, hittin' the lottery
@@ -82,13 +82,13 @@ Gave her blue paper
 
 
 What I'm supposed to do when these racks blue?
-Ooh, ooh
+Oh, oh
 What I'm supposed to do when these racks blue?
-Ooh, ooh
+Oh, oh
 What I'm supposed to do when these racks blue?
-Ooh, ooh
+Oh, oh
 What I'm supposed to do when these racks blue?
-Ooh, ooh
+Oh, oh
 
 
 I got the white ice
@@ -100,4 +100,4 @@ I'ma get my shine on, yeah
 
 
 What I'm supposed to do when these racks blue?
-Ooh, ooh
+Oh, oh

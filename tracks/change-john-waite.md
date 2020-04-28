@@ -49,57 +49,57 @@ rankings:
   start_date: '1985-05-04'
 ---
 
-People talking 
-And they're saying that you're leaving 
-You're so unhappy 
-With the way that you've been living 
+People talking
+And they're saying that you're leaving
+You're so unhappy
+With the way that you've been living
 
-Oh-oh-oh, we always wish for money 
-We always wish for fame 
-We think we have the answers 
-Some things ain't ever gonna change (Change) 
-It doesn't matter who you are 
+Oh-oh-oh, we always wish for money
+We always wish for fame
+We think we have the answers
+Some things ain't ever gonna change (Change)
+It doesn't matter who you are
 It's all the same
-What's in your heart will never change 
+What's in your heart will never change
 
-Look in the mirror 
-And you see how you've been taken 
-Ooh, you won't surrender 
-But now your heart is breakin' 
+Look in the mirror
+And you see how you've been taken
+Oh, you won't surrender
+But now your heart is breakin'
 
-Oh-oh-oh, we always wish for money 
-We always wish for fame 
-We think we have the answers 
-Some things ain't ever gonna change (Change) 
-It doesn't matter who you are 
+Oh-oh-oh, we always wish for money
+We always wish for fame
+We think we have the answers
+Some things ain't ever gonna change (Change)
+It doesn't matter who you are
 It's all the same
-What's in your heart will never change 
+What's in your heart will never change
 
-Do you remember 
+Do you remember
 When you got your lucky break?
-You're looking back now 
-And it seems like a mistake 
+You're looking back now
+And it seems like a mistake
 
-Oh-oh-oh, we always wish for money 
-We always wish for fame 
-We think we have the answers 
-Some things ain't ever gonna change (Change) 
-It doesn't matter who you are 
+Oh-oh-oh, we always wish for money
+We always wish for fame
+We think we have the answers
+Some things ain't ever gonna change (Change)
+It doesn't matter who you are
 It's all the same
 What's in your heart will never change
-It's only change (Change) 
+It's only change (Change)
 It doesn't matter who you are
 It's all the same
 What's in your heart will never change
 
 It doesn't matter who you are
-It's all the same (Change) 
+It's all the same (Change)
 What's in your heart will stay the same
 
-It doesn't matter who you are 
-It's all the same (What's in your heart) 
-It's only, it's only, it's only change 
-Never (It doesn't matter) 
+It doesn't matter who you are
+It's all the same (What's in your heart)
+It's only, it's only, it's only change
+Never (It doesn't matter)
 You ain't gonna, you ain't gonna change (What's in your heart)
 
 

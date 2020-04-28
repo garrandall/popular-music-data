@@ -46,7 +46,7 @@ Just let me start tonight
 Setting everything right
 With you and me, baby
 Lyrics courtesy Top40db
-Ooh, wee
+Oh wee
 
 I'm not too proud to plead
 I'll beg on bended knee
@@ -72,7 +72,7 @@ Hurt you again, baby
 Let me start tonight
 Setting everything right
 With you and me, baby
-Ooh, girl, ooh, honey
+Oh girl, oh honey
 
 I'm not too proud to plead
 I'll beg on bended knees
@@ -115,4 +115,4 @@ I'm not too proud to plead
 I'll beg on bended knees
 To get you back home, darling
 
-You just let me start tonight.....
+You just let me start tonight...

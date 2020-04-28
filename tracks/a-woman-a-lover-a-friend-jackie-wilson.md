@@ -63,11 +63,11 @@ I want a woman (woman)
 I want a lover (a lover)
 I want a friend (a woman, a lover, a friend)
 
-Mmmm, I want somebody to share my love
+Mmm, I want somebody to share my love
 Yes, loving is something I've got plenty of
 I want a woman (woman)
 I want a lover (a lover)
-I want a friend (a woman, a lover, a friend) ah-ahh
+I want a friend (a woman, a lover, a friend) ah-ah
 
 I don't want a fancy gal
 With powder and paint

@@ -109,7 +109,7 @@ now I'm just reaching out for something better
 that I had before, girl
 there ain't a bottom line in your world
 
-Ooh and I, I can let my life pass me by
+Oh and I, I can let my life pass me by
 or I can get down and try
 work it all out this lifetime
 work it on out this time
@@ -118,13 +118,13 @@ I can let it all pass me by
 or I can just try and try
 I can move to the light
 oh if I take it one day at a time (oh I)
-oh spread my love out and fly 
+oh spread my love out and fly
 oh I (I can move to the light)
-ooh I can just make you understand
+oh I can just make you understand
 that love is not a fairytale in a melody
 if you want it you can have it girl
-maybe you will see maybe you will see (ooh ooh)
-ooh oh oh wo oh
+maybe you will see maybe you will see (oh oh)
+oh oh oh wo oh
 lifetime lifetime
 
 

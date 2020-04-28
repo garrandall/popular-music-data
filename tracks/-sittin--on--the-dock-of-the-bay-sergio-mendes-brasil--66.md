@@ -35,7 +35,7 @@ Watching the ships roll in
 Then I watch them roll away again, yeah
 
 I'm sittin' on the dock of the bay
-Watchin' the tide roll away, ooh
+Watchin' the tide roll away, oh
 I'm just sittin' on the dock of the bay
 Wastin' time
 
@@ -45,7 +45,7 @@ Cuz I've had nothing to live for
 And look like nothing's gonna come my way
 
 So, I'm just gon' sit on the dock of the bay
-Watchin' the tide roll away, ooh
+Watchin' the tide roll away, oh
 I'm sittin' on the dock of the bay
 Wastin' time
 
@@ -60,6 +60,6 @@ Two thousand miles I roam
 Just to make this dock my home, now
 
 I'm just gon' sit at the dock of a bay
-Watchin' the tide roll away, ooh
+Watchin' the tide roll away, oh
 Sittin' on the dock of the bay
 Wastin' time

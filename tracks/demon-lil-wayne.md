@@ -34,10 +34,10 @@ I'm a demon, I demand you
 A demon with demands, a demon with demands
 I'm a demon with demands, I got demons on demand
 Yeah, yeah, yeah, I'm a demon, I demand you
-You brought the demon out the man, ooh
-Brought the demon out the man, ooh
+You brought the demon out the man, oh
+Brought the demon out the man, oh
 The demon out the man, you
-Brought the demon out the man, ooh
+Brought the demon out the man, oh
 
 
 You done pulled the demon out the man, pulled the demon out the pants
@@ -53,9 +53,9 @@ A demon, with demands, a demon, with demands
 A demon with demands, a demon with demands
 I'm a demon with demands, I got demons on demand
 Yeah, yeah, yeah, I'm a demon by demand too
-Yeah, brought the demon out the man, ooh
+Yeah, brought the demon out the man, oh
 She agree to my demands too
-You done brought the demon out the man, ooh
+You done brought the demon out the man, oh
 Brought the demon out her ass too
 
 
@@ -83,7 +83,7 @@ Found a halo in her trash but she don't talk about her past
 
 
 Brought the demon out her ass too
-You done brought the demon out the man, ooh
+You done brought the demon out the man, oh
 Demonic, demonic
 Demonic, demonic
 Demonic, demonic

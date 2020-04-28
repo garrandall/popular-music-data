@@ -65,7 +65,7 @@ You can't ride in my little red wagon
 The front seat's broken and the axle's draggin'
 You can't step to this backyard swagger
 You know it ain't my fault when I'm walkin' jaws droppin' like
-Ooh, ah, ooh, ah
+Oh ah, oh, ah
 
 Oh, heaven help me
 I've been sowing wildflower seeds
@@ -80,7 +80,7 @@ You can't ride in my little red wagon
 The front seat's broken and the axle's draggin'
 No you can't step to this backyard swagger
 You know it ain't my fault when I'm walkin' jaws droppin' like
-Ooh, ah, ooh, ah
+Oh ah, oh, ah
 
 Oh, you only love me for my big sun glasses
 And my Tony Lama's
@@ -99,8 +99,8 @@ You can't ride in my little red wagon
 The front seat's broken and the axle's draggin'
 No you can't step to this backyard swagger
 You know it ain't my fault when I'm walkin' jaws droppin' like
-Ooh, ahh, ooh, ahh
-Oooohh, yeah. Ahhhhh. Oooooohh. Ah!
+Oh ah, oh, ah
+Oh, yeah. Ah. Oh. Ah!
 
 
 

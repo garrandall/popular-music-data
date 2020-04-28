@@ -42,7 +42,7 @@ She said, I've had it comin' to me
 But I wanted it that way
 I think that any love is good lovin'
 So I took what I could get, mmh
-Oooh, oooh she looked at me with big brown eyes
+Oh, oh she looked at me with big brown eyes
 And said
 You ain't seen nothin' yet
 B-b-b-baby, you just ain't seen n-n-nothin' yet

@@ -13,21 +13,21 @@ rankings:
   start_date: '2009-11-07'
 ---
 
-Where it began, I can't begin to knowing 
-But then I know it's growing strong 
-Was in the spring, 
-And spring became the summer 
-Who'd believe you'd come along 
+Where it began, I can't begin to knowing
+But then I know it's growing strong
+Was in the spring,
+And spring became the summer
+Who'd believe you'd come along
 
-Hands, touching hands, reaching out 
-Touching me, touching you 
-Oh, sweet Caroline 
-Good times never seem so good 
-I've been inclined to believe it never would 
+Hands, touching hands, reaching out
+Touching me, touching you
+Oh, sweet Caroline
+Good times never seem so good
+I've been inclined to believe it never would
 
-Oh, sweet Caroline 
-Good times never seem so good 
-I've been inclined to believe it never would oooh oh no no..
+Oh, sweet Caroline
+Good times never seem so good
+I've been inclined to believe it never would oh oh no no..
 
 
 

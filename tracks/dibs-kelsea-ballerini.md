@@ -106,7 +106,7 @@ Make everybody jealous
 When I take you off the market
 And get my lipstick on your right cheek
 'Cause boy I've got to mark it
-Oooh
+Oh
 So they can all back off
 Yeah
 'Cause I know what I want
@@ -148,7 +148,7 @@ All mine, yeah
 
 I'm calling dibs on your lips, on your kiss on your time, boy
 I'm just trynna make you mine, boy
-Ooooh
+Oh
 Dibs
 
 

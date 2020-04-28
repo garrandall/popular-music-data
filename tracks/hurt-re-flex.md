@@ -30,7 +30,7 @@ It's very sensitive to the touch
 It wasn't always this way
 Well, I wanted you, oh-oh-oh, so bad
 But you didn't care from the start
-Hmm, you treated me like your doormat
+Hm, you treated me like your doormat
 And walked all over my heart
 
 Well, you made it hurt
@@ -44,12 +44,12 @@ I got hooked on the sensation
 You left me screaming out "please"
 How could you do what you did to me
 You played with me like a toy
-Hmm, what you did to my nervous system
+Hm, what you did to my nervous system
 I can't say I really enjoyed
 
 You made it hurt
 You sure, you sure did hurt
-Hmm, you made it hurt
+Hm, you made it hurt
 You sure, you sure did hurt
 
 Oh, what you did to me, oh

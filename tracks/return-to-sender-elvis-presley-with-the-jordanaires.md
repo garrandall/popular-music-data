@@ -5,6 +5,7 @@ artists:
 features: []
 genres: []
 key: return-to-sender-elvis-presley-with-the-jordanaires
+lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-and-The-Jordanaires/Return-To-Sender-2003-Sony-Remaster
 name: Return To Sender
 rankings:
 - end_date: '1962-10-26'
@@ -72,4 +73,34 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1963-02-02'
 ---
+Return to sender
+Return to sender
+I gave a letter to the postman
+He put it his sack
+Bright and early next morning
+He brought my letter back
 
+(She wrote upon it:)
+Return to sender, address unknown
+No such number, no such zone
+We had a quarrel, a lover's spat
+
+I write I'm sorry but my letter keeps coming back
+So then I dropped it in the mailbox
+And sent it special D
+Bright and early next morning it came right back to me
+
+(She wrote upon it:)
+Return to sender, address unknown
+No such person, no such zone
+
+This time I'm gonna take it myself and put it right in her hand
+And if it comes back the very next day then I'll understand
+
+(The writing on it)
+
+Return to sender, address unknown
+No such number, no such zone
+Return to sender
+Return to sender
+Return to sender

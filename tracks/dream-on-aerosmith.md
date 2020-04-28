@@ -149,9 +149,6 @@ Sing for the laughter and sing for the tear
 Sing with me, it's just for today
 Maybe tomorrow the good Lord will take you away
 
-
-
-
 Sing with me, sing for the year
 Sing for the laughter and sing for the tear
 Sing with me, it's just for today
@@ -166,7 +163,7 @@ Dream on, dream on
 Dream on, dream on
 Dream on, dream on
 Dream on
-Aaaaah!
+Ah!
 
 
 Sing with me, sing for the year

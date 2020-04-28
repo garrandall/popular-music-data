@@ -153,9 +153,6 @@ I am just worried about my mama worryin' less
 I think I'm famous enough, I don't need anymore press
 I am convinced I'm the only one left that's still doin' this shit man
 
-
-
-
 My grandma just died I'm the man of the house
 So every mornin' I'm up cause I can't let them down, down
 Always down for the cause, never down for the count
@@ -172,9 +169,6 @@ Try and blow my cake just know that's a death wish
 No mistakes in life ever, it's only lessons
 Shit feel like Shaq and Penny got back together
 You tore the game apart who put it back together
-
-
-
 
 Since the truth keep niggas traumatized
 They tryna compromise my condom size

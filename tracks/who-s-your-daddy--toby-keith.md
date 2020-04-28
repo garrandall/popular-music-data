@@ -89,7 +89,7 @@ rankings:
   start_date: '2003-02-15'
 ---
 
-Ooh, alright
+Oh, alright
 
 Yeah, here you come knockin' on my door, baby
 Tell me what you got on your mind

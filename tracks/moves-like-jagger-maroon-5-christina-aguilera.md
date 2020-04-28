@@ -285,7 +285,7 @@ Nobody else can see this
 
 So watch and learn
 I won't show you twice
-Head to toe, oooh baby rub me right
+Head to toe, oh baby rub me right
 But if I share my secret
 You're gonna have to keep it
 Nobody else can see this (Ay! Ay! Ay! Aaay!)

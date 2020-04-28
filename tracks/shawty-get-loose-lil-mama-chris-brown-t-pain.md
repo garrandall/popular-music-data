@@ -59,7 +59,7 @@ rankings:
   start_date: '2008-05-24'
 ---
 
-Hey 
+Hey
 
 
 The way we get loose we move our shoulders, forward, heads, back,
@@ -70,7 +70,7 @@ Get it on the floor let 'em know what's happenin',
 L-I-L you better ask somebody,
 Hoppin' on my grind since butt touch potty,
 Y'all don't really want it but the young got time,
-With a flow so spec like....
+With a flow so spec like...
 It's so sick, how the clock go tick,
 Keep giving y'all hits like...
 Uh, 'cause the reason why I spit it, how I spit it, when I spit it,
@@ -112,9 +112,6 @@ New new,
 Impress me,
 I want person on the floor to come test me,
 
-
-
-
 That (in the crib, in the club, to the block, it don't matter, it, it don't, it, it don't matter)  shawty get loose
 That (in the crib, in the club, to the block, it don't matter, it, it don't, it, it don't matter)  shawty get loose
 
@@ -135,9 +132,6 @@ I'm running it like a game show
 You ain't no little mama go
 She be burning and pumping and hit you with the bus flow
 She's hot then get loose on the floor when I cannot stop!
-
-
-
 
 That  Shawty Got Loose
 That  Shawty Get Loose

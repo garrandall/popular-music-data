@@ -122,7 +122,7 @@ Hit the gym step on the scales stare at the number
 You say you dropping 10 pounds preparing for summer
 And you don't do it for the man, men never notice
 You just do it for yourself you're the fucking coldest
-Intelligent too ooh you're my sweetheart
+Intelligent too ohyou're my sweetheart
 I've always liked my women book and street smart
 Long as they got a little class like half days
 And the confidence to overlook my past ways
@@ -150,7 +150,7 @@ Well aren't you a breath of fresh air
 From all these superficial gold digging bitches in here
 They get a baller think that they ain't got to pick a career
 Guess they plan on sucking dicks until some millions appear
-Like "voilÃ !" You do it right he might just buy you a car
+Like "voilÃ!" You do it right he might just buy you a car
 Now she play these suckers just like B.o.B play the guitar
 Now here you are with your girls having drinks at the bar
 I say I'm buying you decline, that is kinda bizarre

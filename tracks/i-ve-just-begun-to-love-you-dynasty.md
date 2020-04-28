@@ -57,9 +57,9 @@ I got ways to keep you mine
 I don't wanna move too fast if I can
 Make it last, and you make me wanna
 
-Give you more than you bargained for, girl (Ooh...)
+Give you more than you bargained for, girl (Oh...)
 And I've just begun to love you (I've just begun)
-I don't want no other to be my lover (Ooh...)
+I don't want no other to be my lover (Oh...)
 And I've just begun to love you
 
 I've just begun
@@ -74,10 +74,10 @@ I've just begun to love you
 I've just begun to love you
 I've just begun to love you
 
-Give you more than you bargained for, girl (Ooh...)
+Give you more than you bargained for, girl (Oh...)
 And I've just begun to love you
 I don't want no other to be my lover
-And I've just begun to love you (Ooh...)
+And I've just begun to love you (Oh...)
 
 I've just begun to love you
 I've just begun to love you

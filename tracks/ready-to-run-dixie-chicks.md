@@ -118,7 +118,7 @@ I'm ready to run...ready to run...
 ready to run...yeah I'm ready to run. I'm ready
 Whoa I'm ready to run...I'm ready...I'm ready to run...
 I'm ready to run...I'm ready
-Oh I'm ready to run..I'm ready.
+Oh I'm ready to run...I'm ready.
 
 
 

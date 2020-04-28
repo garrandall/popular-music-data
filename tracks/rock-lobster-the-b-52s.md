@@ -50,9 +50,9 @@ Eww
 (Ski-doo-be-dop) Someone reached in and grabbed it (Eww)
 (Ski-doo-be-dop) Was a rock lobster (Eww)
 
-Aaaah
+Ah
 Rock lobster
-Aaaah
+Ah
 Rock lobster
 
 Eww
@@ -64,26 +64,26 @@ And there they saw a rock (Eww)
 It wasn't a rock (Eww)
 Was a rock lobster (Eww)
 
-Aaaah
+Ah
 Rock lobster
-Aaaah
+Ah
 Rock lobster
 
 Rock lo-o-obster
 Rock lo-o-obster
 
-Motion in the ocean (Ooh ah)
+Motion in the ocean (Oh ah)
 His air hose broke (Hoo ah)
-Lots of trouble (Ooh ah)
+Lots of trouble (Oh ah)
 Lots of bubble (Hoo ah)
-He was in a jam (Ooh ah)
+He was in a jam (Oh ah)
 He's in a giant clam! (Hoo ah)
 
 Rock, rock
-Rock lobster! (Aaaaaaaaah)
-Down, down! (Aaaaaaah)
+Rock lobster! (Ah)
+Down, down! (Ah)
 
-Lobster 
+Lobster
 Rock
 Lobster
 Rock
@@ -104,7 +104,7 @@ Put on your noseguard
 Put on the lifeguard
 Pass the tanning butter
 
-Here comes a stingray (ooh wok ooh wok)
+Here comes a stingray (oh wok oh wok)
 There goes a manta ray (ah ah ah)
 In walked a jellyfish (huah)
 There goes a dogfish (rea-owr)
@@ -112,7 +112,7 @@ Chased by a catfish (geh geh geh geh geh geh geh geh geh geh)
 In flew a sea robin (Laaaaa)
 Watch out for that piranha (eh rek eh rek ah hoo)
 There goes a narwhal (eeeeh)
-Here comes a bikini whale! (Aaaaah!)
+Here comes a bikini whale! (Ah!)
 
 (Lobster rock lobster-ster) Rock lobster
 (Lobster) Rock lobster (Ah-ah-ah-ah-ah)

@@ -44,7 +44,7 @@ Yeah, new crib, I'll put that on the moon (yeah!)
 Upstairs and we blowin' up fumes, yeah
 Don't panic, can't have no more seizures
 Fuckin' up cash at my leisure
-I had a lot of these (ahh), targets and the foes (yeah!)
+I had a lot of these (ah), targets and the foes (yeah!)
 Took it like I stole it (skrt skrt), it got old, shit moldy (ugh)
 Money way high to knees
 No way I can fold it (yeah!)
@@ -95,6 +95,6 @@ Cactus Jack, yeah (yeah!), got plaques on plaques, yeah (alright!)
 Hits on hits, yeah (yeah, yeah), in the mix (it's lit!)
 Huncho foreign (Huncho), got your bitch on porn (yeah, smash)
 Whip's too foreign (skrrt, skrrt) ice on arms (ice, ice)
-Shit go back (ahh), like it's L.A. traffic, yeah
+Shit go back (ah), like it's L.A. traffic, yeah
 Crushin' down Addy's, yeah, bustin' out plastic (yeah!)
 Huncho, Jack

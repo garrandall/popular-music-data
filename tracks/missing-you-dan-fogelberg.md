@@ -73,18 +73,18 @@ rankings:
   start_date: '1983-01-22'
 ---
 
-Hard days I'm travelling 
+Hard days I'm travelling
 Alone for too long
-Ooh, I'm missing you
-I'm always somewhere 
+Oh, I'm missing you
+I'm always somewhere
 That I never belong
-Ooh, I'm missing you
+Oh, I'm missing you
 I'm moving so fast now
 It doesn't seem true
-Ooh, I'm missing you
+Oh, I'm missing you
 I'm getting closer
 But I don't know what to
-Ooh, I'm missing you.
+Oh, I'm missing you.
 
 Oho, If I had you beside me
 Then I just might sleep through the night
@@ -93,10 +93,10 @@ All of the days of my life.
 
 This life I'm living's
 Getting so hard to feel
-Ooh, I'm missing you
+Oh, I'm missing you
 The days are empty
 And the nights are unreal
-Ooh, I'm missing you
+Oh, I'm missing you
 
 Oho, If I had you beside me
 Then I just might sleep through the night
@@ -104,12 +104,12 @@ Your love is the promise that guides me
 All of the days of my life
 All of the days of my life.
 
-Hard days I'm travelling 
+Hard days I'm travelling
 Alone for too long
-Ooh, I'm missing you
-I'm always somewhere 
+Oh, I'm missing you
+I'm always somewhere
 That I never belong
-Ooh, I'm missing you.
+Oh, I'm missing you.
 
 Oho, If I had you beside me
 Then I just might sleep through the night

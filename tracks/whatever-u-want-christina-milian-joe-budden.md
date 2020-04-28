@@ -56,10 +56,6 @@ But it's in your eyes
 That you don't want me to go
 
 
-
-
-
-
 We're gonna get it started, OK
 Now go get the party jumpin' like me,
 Who crunk it like me,

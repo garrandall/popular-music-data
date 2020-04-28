@@ -102,7 +102,7 @@ rankings:
   start_date: '1993-05-22'
 ---
 
-Ooh
+Oh
 I can show you the world
 Shining, shimmering, splendid
 Tell me, princess, now when did

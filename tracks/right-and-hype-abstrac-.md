@@ -118,7 +118,7 @@ Right, hype
 Right, hype
 I need someone to talk to
 Right, hype
-Hey, ooh
+Hey, oh
 Right, hype
 He's got to be
 

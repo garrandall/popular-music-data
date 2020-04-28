@@ -32,8 +32,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1977-04-23'
 ---
-Oooh yeah
-Oooh yeah
+Oh yeah
+Oh yeah
 
 
 Get your party gown, get your pigtail down

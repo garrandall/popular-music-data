@@ -65,7 +65,7 @@ I wanna make a supersonic woman of you
 
 
 (Don't stop me, don't stop me, don't stop me) Hey, hey, hey
-(Don't stop me, don't stop me, ooh, ooh, ooh) I like it
+(Don't stop me, don't stop me, oh oohohoh like it
 (Don't stop me, don't stop me) Have a good time, good time
 (Don't stop me, don't stop me) Woah
 Let loose, honey, all right
@@ -82,7 +82,7 @@ I wanna make a supersonic man outta you (Yeah, yeah)
 (Don't stop me now)
 I'm having such a good time, I'm having a ball
 (Don't stop me now)
-If you wanna have a good time, just give me a call (Ooh, alright)
+If you wanna have a good time, just give me a call (Oh alright)
 (Don't stop me now) 'Cause I'm having a good time (Yeah, yeah)
 (Don't stop me now) Yes, I'm having a good time
 I don't wanna stop at all
@@ -93,4 +93,4 @@ Da da ah ah
 Ah da da, ah ah ah
 Ah, da da
 Ah, da da ah ah
-Ooh, ooh ooh, ooh ooh
+Oh ohoohohohoh

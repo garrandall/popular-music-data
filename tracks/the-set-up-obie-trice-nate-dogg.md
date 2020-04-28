@@ -70,7 +70,7 @@ This nigga screamed like a bitch
 Showed us what his shit hit her, hell of a lick BUT!
 The bitch, who told us bout the bricks exposed us to the nigga
 He knew that we'd come BUT!
-Meanwhile in his hood, his niggaz is suiting up and Timbed, looted up
+Meanwhile in his hood, his niggas is suiting up and Timbed, looted up
 Rims and new trucks your man 'Livin It Up'
 Then a van with no hubs suddenly pulled up and erupt
 Shot a nigga the fuck up
@@ -79,7 +79,7 @@ The bitch who blushed and smoked blunts wit us
 Turned out to be nuts, switched up
 Mixed up wit the wrong slut
 Got my friend zipped up in the bag, it's all bad
-My niggaz got my back, in fact
+My niggas got my back, in fact
 They caught on her Ave, flossin in another nigga cab
 
 

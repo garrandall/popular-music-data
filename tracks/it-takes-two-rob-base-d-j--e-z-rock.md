@@ -185,6 +185,3 @@ One, two, three, get loose now!
 
 It takes two to make a
 
-
-
-

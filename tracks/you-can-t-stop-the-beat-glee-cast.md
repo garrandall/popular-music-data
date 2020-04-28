@@ -51,20 +51,20 @@ But you cannot stop the rhythm of two hearts in love to stay
 Cause you can't stop the beat!
 
 
-You can't stop today 
-As it comes speeding down the track 
-Child, yesterday is history 
-And it's never comin' back! 
-Cause tomorrow is a brand new day, and it don't know white from black 
+You can't stop today
+As it comes speeding down the track
+Child, yesterday is history
+And it's never comin' back!
+Cause tomorrow is a brand new day, and it don't know white from black
 Cause the world keeps spinning round and round
 And my heart's keepin' time to the speed of sound
 I was lost 'til I heard the drums, then I found my way
 Cause you can't stop the beat!
 
 
-Aah, aah, aah
-Ahh, ahh, ahh
-Ahh, ahh!
+Ah, ah, ah
+Ah, ah, ah
+Ah, ah!
 
 Ever since we first saw the sun
 A man and woman like to shake it when the day is done
@@ -76,4 +76,4 @@ You can't stop the beat!
 You can't stop the beat
 You can't stop the beat
 You can't stop the beat
-You can't stop the beat!!
+You can't stop the beat!

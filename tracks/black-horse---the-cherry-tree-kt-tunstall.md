@@ -151,7 +151,7 @@ I said, "No no"
 You're not the one for me"
 No no, no no no no
 I said, "No no, you're not the one for me
-Ooh, woohoo
+Oh, woohoo
 
 
 And my heart had a problem in the early hours
@@ -173,7 +173,7 @@ I said, "No no
 You're not the one for me"
 No no, no no no no
 I said, "No no, you're not the one for me"
-Ooh, woohoo
+Oh, woohoo
 (Not the one for me, yeah)
 (Woohoo)
 

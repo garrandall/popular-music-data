@@ -118,7 +118,7 @@ Not in the middle of turning me on (in the middle in the middle)
 I can't suddenly stop
 
 Each and every time we touch
-Ooh this feeling too much
+Oh this feeling too much
 Take me to that special place
 You've gone too far to leave me so spaced baby
 You won't tease me now (don't tease me)

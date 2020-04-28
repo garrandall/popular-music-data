@@ -67,7 +67,7 @@ It's how you do it and how you flewin'
 So keep on goin' for a while
 Keep 'em goin' into the style
 I took the hook that everybody done grinnin'
-Now look at your body, move to the rythm !
+Now look at your body, move to the rythm!
 
 Move to the rhythm, groove with the flow
 You know how it goes, now what you got to show
@@ -84,4 +84,4 @@ The truth unfold and the stories told
 If you're willing to say no more
 Get down for shockin' n' rockin' the floor
 Move it to the rythm, groove with the flow
-You know what you got to show, now let's go !
+You know what you got to show, now let's go!

@@ -85,10 +85,10 @@ Don't need no ticket
 You just thank, you just thank the Lord
 
 Yeah
-Ooh
+Oh
 
 Yeah
-Ooh
+Oh
 
 I'm getting ready
 I'm getting ready
