@@ -133,7 +133,7 @@ Haha, I stay on my own melodies
 Plus I like my Booties and my Boobs like a capital letter 'B'
 That's how it is, how it better be
 I preferably rather have two or three girls in the bed wit me
-Close your errs  ma you ain't heard nothin (whaa?)
+Close your errs ma you ain't heard nothin (whaa?)
 I always pay ma let a brother hold somethin
 I'm basically coming from nothing to something
 When I say nothing meaning pocket full of lint and buttons

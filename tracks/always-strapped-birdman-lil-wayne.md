@@ -114,7 +114,7 @@ Okay?
 Always Strapped when I hit the club
 Niggas give me daps, bitches give me hugs
 & since I'm paid, niggas be muggin' me, you know I'm muggin' back
-Niggas be muggin' me, you know I'm...
+Niggas be muggin' me, you know I'm
 
 Always Strapped when I hit the club
 Niggas give me daps, bitches give me hugs
@@ -137,7 +137,7 @@ The new hip-hop landlord I'm 'bout to buy the buildin'
 Always Strapped when I hit the club
 Niggas give me dap, bitches give me hugs
 & since I'm paid niggas be muggin' me, you know I'm muggin' back
-Niggas be muggin' me, you know I'm...
+Niggas be muggin' me, you know I'm
 
 Always strapped when I hit the club
 Niggas give me dap, bitches give me hugs
@@ -172,7 +172,7 @@ Already Nigga Nieghborhood Super Star
 Always Strapped when I hit the club
 Niggas give me dap, bitches give me hugs
 & since I'm paid, niggas be muggin' me, you know I'm muggin' back
-Niggas be muggin' me, you know I'm...
+Niggas be muggin' me, you know I'm
 
 Always Strapped when I hit the club
 Niggas give me dap, bitches give me hugs

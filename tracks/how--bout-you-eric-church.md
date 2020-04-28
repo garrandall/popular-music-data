@@ -69,8 +69,8 @@ Well, how 'bout you?
 I like my country rockin',
 How 'bout you?
 Just put me on a stage, man,
-Turn it up an' I'll turn it loose.
-Yeah, give me a crowd that's redneck an' loud,
+Turn it up and I'll turn it loose.
+Yeah, give me a crowd that's redneck and loud,
 We'll raise the roof.
 Hell, I might just stay all night long.
 

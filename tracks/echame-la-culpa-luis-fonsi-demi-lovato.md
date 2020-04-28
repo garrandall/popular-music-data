@@ -92,7 +92,7 @@ rankings:
 Hey, Fonsi
 Oh, no
 ¿Qué pasa, Demi?
-Mmm... hmhm...
+Mmm... hmhm
 Ey, yeah (Ay)
 
 

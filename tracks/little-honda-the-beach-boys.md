@@ -58,7 +58,7 @@ Faster it's alright
 It climbs the hills like a matchless
 Cause my Honda's built really light
 When I go into the turns
-Lean  with me and hang on tight
+Lean with me and hang on tight
 I better turn on the lights
 So we can ride my Honda tonight
 

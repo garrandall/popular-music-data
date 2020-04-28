@@ -116,18 +116,16 @@ Shake, shake yourself
 You're every move you make
 So the story goes
 
-
 Owner of a lonely heart
 Owner of a lonely heart
 (Much better than a)
 Owner of a broken heart
 Owner of a lonely heart
 
-I know (x3)
+I know
+I know
+I know
 Maybe there's another way to do this
-
-{​Music Video - Break}​
-
 
 Say - you don't want to chance it
 You've been hurt so before
@@ -141,7 +139,6 @@ Be yourself
 Give your free will a chance
 You've got to want to succeed
 
-
 Owner of a lonely heart
 Owner of a lonely heart
 (Much better than a)
@@ -149,7 +146,6 @@ Owner of a broken heart
 Owner of a lonely heart
 
 Owner of a lonely heart
-
 
 After my own indecision
 They confused me so
@@ -162,9 +158,6 @@ And don't you hesitate at all - no no
 Yow!
 Yeah, Yeah, Yeah, Yeah, Yeah, Yeah!
 
-{​Instrumental}​
-
-
 Owner of a lonely heart
 Owner of a lonely heart
 (Much better than a)
@@ -178,7 +171,6 @@ Owner of a broken heart
 Owner of a lonely heart
 
 Owner of a lonely heart
-
 
 Sooner or later each conclusion
 Will decide the lonely heart

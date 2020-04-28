@@ -53,7 +53,7 @@ Check it...
 
 Here it, comes!
 Yo, here it is or there it was
-But where was it when you need it?  Because
+But where was it when you need it? Because
 You fall to the waistline when you waste rhymes
 Serch got it flowin when it comes to fat beats and basslines
 I heard the rumors and the fables
@@ -80,7 +80,7 @@ Deploy the truth in black hoods and black boots
 Caps get rocked only when they're fitted
 Lyrics get dropped only when they're lifted
 So swing to the swell up, the vo chords run amok
-Whatup?  Whatup?  I got mine and you got yours
+Whatup? Whatup? I got mine and you got yours
 War's a factor, we'll perspire
 And someone in the crowd yells, "Fire! Fire!"
 "We don't need no water, let it burn, yo, burn, yo!

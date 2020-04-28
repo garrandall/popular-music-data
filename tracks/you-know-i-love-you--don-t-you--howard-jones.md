@@ -5,7 +5,7 @@ features: []
 genres: []
 key: you-know-i-love-you--don-t-you--howard-jones
 lyrics_url: https://genius.com/Howard-jones-you-know-i-love-you-dont-you-lyrics
-name: You Know I Love You  Don't You?
+name: You Know I Love You Don't You?
 rankings:
 - end_date: '1986-10-24'
   rank: 69

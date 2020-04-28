@@ -56,7 +56,7 @@ Take a load off Annie, And (and) (and) put the weight on me.
 Go down, Moses, there's nothin' that you can say
 It's just like ol' Luke waitin', waitin' on Judgement Day.
 "Well, Luke, my friend, what about Anna Lee?"
-He said, "Do me a favour, stay an' keep Anna Lee some company."
+He said, "Do me a favour, stay and keep Anna Lee some company."
 
 Take a load off Annie, take a load off for free;
 Take a load off Annie, And (and) (and) put the weight on me.

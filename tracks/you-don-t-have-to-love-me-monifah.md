@@ -47,7 +47,7 @@ rankings:
 You don't have to love me (you don't have to love me)
 You don't have to want me (anymore)
 You don't have to need me (you don't have to need me)
-Cuz i've got love on my side
+Cuz I've got love on my side
 And it's gonna be all right
 
 Baby, I had a feeling that you were cheatin' on me
@@ -60,11 +60,11 @@ You don't have to love me (you don't have to love me)
 You don't have to want me (anymore)
 You don't have to need me (you don't have to need me)
 No, no, no, no, baby
-Cuz i've got love on my side
+Cuz I've got love on my side
 And it's gonna be all right, hey, hey
 
 Do you believe that what goes around comes around
-Just you wait and see, cuz i'm not worried 'bout a thing anymore
+Just you wait and see, cuz I'm not worried 'bout a thing anymore
 It doesn't follow me, it doesn't follow me, can't you see it
 I don't need ya, ever need
 Cuz you don't, I said you
@@ -72,16 +72,16 @@ Cuz you don't, I said you
 You don't have to love me anymore (you don't have to love me)
 No, no, no, no, no, no, no (anymore)
 You don't have to want me (you don't have to need me)
-Cuz baby, baby, cuz i've got love on my side
+Cuz baby, baby, cuz I've got love on my side
 And it's gonna be alright, yeah, yeah
 
 (you don't have to love me)
 You don't have to want me (anymore)
 You don't (you don't have to need me)
 You don't have to need me
-Cuz i've got love on my side
-I've got love, i've got love, i've got love, i've got love
-Love me no, no, i've got love, i've got love, i've got love
+Cuz I've got love on my side
+I've got love, I've got love, I've got love, I've got love
+Love me no, no, I've got love, I've got love, I've got love
 On my side
 
 Ad lib until fade

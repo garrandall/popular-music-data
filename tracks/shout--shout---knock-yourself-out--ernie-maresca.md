@@ -93,7 +93,7 @@ Put another dime in the record machine..
 Every party that I intend
 Believe now it's the livin end
 Moving and groovin with some friends of mine..
-Saturday night now we're having a time ...
+Saturday night now we're having a time
 So Lets...Shout Shout knock yourself out..
 Comeon yell yell loud and swell
 You gotta Scream scream you know what I mean

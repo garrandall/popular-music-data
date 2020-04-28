@@ -165,7 +165,7 @@ Or could it be the ice you see? (shining so bright)
 But you tell me that you're really feeling me
 (That you're feeling me, feeling me)
 Could it be the word on the block? (I know)
-I know they told you that a nigga got it locked  (so tight)
+I know they told you that a nigga got it locked (so tight)
 Tell me why you just can't stop (ah yeah)
 I'm thinking that it's all about me (alright, alright)
 What could it be?

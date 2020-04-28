@@ -46,7 +46,7 @@ rankings:
 ---
 
 You gave me such a bad time
-tried to hurt me, but now I know...
+tried to hurt me, but now I know
 
 Thorn in my side.
 You know that's all you ever were.

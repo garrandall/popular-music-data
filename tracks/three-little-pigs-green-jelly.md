@@ -88,7 +88,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-08-07'
 ---
-(Spoken)
 Why don't you, sit right back
 And I, I may tell you, a tale
 A tale of three, little pigs
@@ -102,7 +101,6 @@ But, living on the farm, he knew nothing of the city
 Built his house out of straw, what a pity
 And then one day, jammin on some chords
 Along came the wolf, knocking on his door
-
 
 Little Pig, Little Pig, let me in
 Not by the hair of my chinny, chin, chin!
@@ -122,7 +120,6 @@ Mostly made up of old cans and sticks
 Then one day he was cranking out Bob Marley
 And along came the Wolf on his big bad Harley
 
-
 Well the third little piggy, the grade A student
 His daddy was a rock star, named Pig Nugent
 Earned his Masters Degree, from Harvard College
@@ -132,25 +129,15 @@ Daddy's rock stardom, paid for the bills
 And then one day came the old house smasher
 The big bad wolf the little piggy slasher
 
-
 Well the big bad Wolf
 Well he huffed, and he puffed, all that he could
 And low and behold the little piggy's house stood
-"IT'S MADE OUT OF CONCRETE!" the little piggy shouted
+"It's made out of concrete!" the little piggy shouted
 The wolf just frowned, as he pouted
 So they called nine-eleven, like any piggy would
 The sent out Rambo, just as fast, as they could
-
-(Rambo)
-"YO, WOLF-FACE, I'M YOUR WORST NIGHTMARE, YOUR ASS IS MINE!"
-
-(gunshots)
 
 Well the wolf fell dead as you can plainly see
 So that's to end the story, for you and me
 If you still give a listen, you just may, here a big wolf or little piggy
 Say
-
-(Chorus )
-" And the moral of the story is, ' A band with no talent can easily amuse
-Idiots, with a stupid, puppet show. "

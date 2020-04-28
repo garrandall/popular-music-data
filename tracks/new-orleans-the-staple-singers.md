@@ -39,9 +39,9 @@ New Orleans...
 What can I tell ya
 Hard for me to say
 I got my mind on Louisiana
-Everybody hustle now...
+Everybody hustle now
 
-Sweet Louisiana...
+Sweet Louisiana
 
 Sho' nuff like to talk about it
 Baby how you turn me out
@@ -56,17 +56,17 @@ New Orleans, you and me
 Man so sweet, fine on his feet
 And I love sweet Louisiana
 
-Sweet Louisiana...
+Sweet Louisiana
 New Orleans...
 
-Oh Louisiana...
-Sweet Louisiana...
+Oh Louisiana
+Sweet Louisiana
 
 Beans and rice
 Sho' nuff go nice
 Down home in New Orleans
 
-Sweet Louisiana...
+Sweet Louisiana
 New Orleans...
 
 

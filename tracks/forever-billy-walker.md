@@ -12,22 +12,22 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-02-15'
 ---
-Hold me  kiss me  whisper  to me
-Our love  will go on  forever
-Want me  need me  tell me  sweetly
-Our love  will go on  forever
+Hold me kiss me whisper to me
+Our love will go on forever
+Want me need me tell me sweetly
+Our love will go on forever
 
 Forever and ever my heart will be true
 Forever and ever I'll love only you
-Hold me  kiss me  whisper  to me
-Our love  will go on  forever
+Hold me kiss me whisper to me
+Our love will go on forever
 
-Hold me  kiss me  whisper  to me
-Our love  will go on  forever
-Want me  need me  tell me  sweetly
-Our love  will go on  forever
+Hold me kiss me whisper to me
+Our love will go on forever
+Want me need me tell me sweetly
+Our love will go on forever
 
 Forever and ever my heart will be true
 Forever and ever I'll love only you
-Hold me  kiss me  whisper  to me
-Our love  will go on  forever
+Hold me kiss me whisper to me
+Our love will go on forever

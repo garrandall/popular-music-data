@@ -30,7 +30,7 @@ Hi, bitch – hi, bitch
 
 
 Please stop, please stop, please stop, please stop! (Stop that shit)
-That fit look like you bought it at a kiosk  (Was it on sale though?)
+That fit look like you bought it at a kiosk (Was it on sale though?)
 And they got the nerve to ask, "Why she hot?" (She hot)
 Why you countin' all that money that we got?
 I ain't worried 'bout no basic bitches

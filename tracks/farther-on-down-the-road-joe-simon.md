@@ -59,7 +59,7 @@ I'll be glad to learn from you and I know, good and well, honey
 You'd be glad to learn from me, oh yeah
 If we get down and things get sad
 We can cheer up each other
-And  things just ain't that bad
+And things just ain't that bad
 If a fusing life
 That I'd had before, girl
 I'd rather be

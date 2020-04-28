@@ -114,7 +114,7 @@ One thing leading to another let the party begin
 One thing leading to another let the party begin
 
 
-Peeps call me up  said it's a ho-tel party
+Peeps call me up said it's a ho-tel party
 Just bring the liquor it's already eight shawties
 I'm on my way (way) let me stop by the store
 Get a 12 pack of Corona, plus an ounce of 'dro, ya know?

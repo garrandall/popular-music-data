@@ -93,7 +93,7 @@ rankings:
 
 Tell ya daddy stop his hating
 Cuz I be wearing braids and rockin jerseys daily
-But that don't mean im thuggin though
+But that don't mean I'm thuggin though
 He don't want me with you
 But I aint tryna hear it though
 Not tryna hear it though

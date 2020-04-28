@@ -160,7 +160,7 @@ Westside
 And since they regulating hoes I roll with the
 Best side
 So check it as my lifetime is ticking
-Coming up strong  licking and flipping chickens
+Coming up strong licking and flipping chickens
 Need cheese in amounts of G's
 I gave up sports to slang Key's
 But blamed it on my Knees

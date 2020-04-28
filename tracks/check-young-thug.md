@@ -55,7 +55,7 @@ They won't leash on that dick, don't Felicia that dick
 Mamacita that dick, they gon' snitch on that dick
 And she screamin' loud, she can't secret that dick
 Mama a beast on that dick
-If she bad, I'ma gon' an' Four Season that bitch
+If she bad, I'ma gon' and Four Season that bitch
 Eat that, lil' bitch, I'ma feast that lil' bitch, mm
 
 

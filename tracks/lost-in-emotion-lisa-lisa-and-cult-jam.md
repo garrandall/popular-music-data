@@ -99,7 +99,7 @@ Like waiting for that love
 That I might be getting
 My dreams have yet begun, oh, baby
 Am I a fool 'cause I don't know just how you feel
-And this love for you, oh I can't conceal, oh I'm...
+And this love for you, oh I can't conceal, oh I'm
 
 
 I'm lost in emotion

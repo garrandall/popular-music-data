@@ -38,7 +38,7 @@ You are my enemy, you are no friend of mind, muhfucker
 You muhfuckin' right
 You muhfuckin' right, I'm bitter
 You muhfuckin' right, I'm triggered
-You muhfuckin' right, I...
+You muhfuckin' right, I
 
 Wanna fuck you right now
 I just turned the lights out now
@@ -66,7 +66,7 @@ You muhfucker
 You muhfuckin' right
 You muhfuckin' right, I'm bitter
 You muhfuckin' right, I'm triggered
-You muhfuckin' right, I...
+You muhfuckin' right, I
 Tryna let the time fly (Yeah)
 Tryna let the time go by
 Tryna let the time heal all
@@ -76,7 +76,7 @@ Tryna let the time heal all
 Who the hell you think you playin wit'
 I'ma pull up to yo session
 I'ma pull up to yo crib
-I'ma 
+I'ma
 Black car with the tint
 Just to make sure you ain't lyin'
 Doin' what you did
@@ -90,7 +90,7 @@ You can feel it in the fuck
 You can see it in my face
 I might pull the trigger, I might kill this nigga
 Talkin' to the lord while I'm sippin on the liquor
-Playin' with the poison,  mixture
+Playin' with the poison, mixture
 Doin' crazy shit cuz I can feel the wraith shoot
 All my bitches know that and all my bitches feel this
 Don't forget, I'm the top of every nigga's wishlist, nigga (Icy)

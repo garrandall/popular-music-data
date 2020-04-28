@@ -100,7 +100,7 @@ And time passes slow
 Between the store front shadows and the street lights glow
 
 Everybody walks right by like they're safe or something
-They don't know...
+They don't know
 
 Nobody knows you
 Nobody owes you nothin

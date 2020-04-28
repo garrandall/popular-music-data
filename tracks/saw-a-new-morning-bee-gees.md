@@ -41,7 +41,7 @@ Hoping to take me outside
 I hear the sound of the snubnose behind me
 I went along for the ride
 
-La...
+La
 
 All of a sudden I saw a new morning
 I went along for the ride
@@ -50,7 +50,7 @@ All of a sudden I saw a new morning
 All of a sudden I saw a new morning
 All of a sudden I saw a new morning
 
-I saw a new morning 
+I saw a new morning
 
 
 

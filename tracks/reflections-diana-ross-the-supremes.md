@@ -64,7 +64,7 @@ Happiness you took from me
 And left me alone with only memories
 
 Through the mirror of my mind
-Through these tears that i'm crying
+Through these tears that I'm crying
 Reflects a hurt I can't control
 'Cause although you're gone, I keep holding on
 To the happy times, oh, when you were mine

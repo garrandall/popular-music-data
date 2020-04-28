@@ -88,7 +88,7 @@ And so the music keep goes on and on
 And through the night until the break of dawn
 I hear a bird up in the tree
 He sings a pretty little melody
-ya-ya-ya-ya...
+ya-ya-ya-ya
 
 
 

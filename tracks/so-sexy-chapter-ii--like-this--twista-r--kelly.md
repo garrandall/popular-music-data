@@ -39,20 +39,20 @@ Girl u remind me of my jeep and my s5
 First I was on top of you now u sayin lets ride
 Freakin yo body so good I give you wet thighs
 When we get together you know we make the sex live
-Take you to paradise while massaging  u down
+Take you to paradise while massaging u down
 Feeling betta with twins mÃ©nagin u down
 Make u explode and now I'm calming u down
 So good that u don't want me to bother u now
 Now listen here
 Come and kick it with the players, ghetto majors and the thumpa sprayers.
-And we neva got no room for no haters 
-When we pull up on them 24 omegas 
-While I'm smoking on a gar seeing Vega 
+And we neva got no room for no haters
+When we pull up on them 24 omegas
+While I'm smoking on a gar seeing Vega
 You by my side we be on one when we hangin
-What earthquake say is wrong in a  relationship
+What earthquake say is wrong in a relationship
 We a corporation lets take over the nation
 Let me get up with u girl
-Don't be trippin on yo  guy he gone be up when the heat come out
+Don't be trippin on yo guy he gone be up when the heat come out
 Cuz u could rub the lamp three times and still won't a muthafucka like me come out
 
 
@@ -80,7 +80,7 @@ And if u ever going through something
 I promise to make it betta
 Ya just keep on lovin a thug
 Massage and some sex when I tell u its time
-U ain't neva gotta want for nothing 
+U ain't neva gotta want for nothing
 As long as u down and u ready to ride
 I wanna give u them butterflies
 Have yo head all off up in da sky
@@ -103,7 +103,7 @@ Or got with a balla that spit to the rhythm like this
 Or kick it with a platinum plus nigga like this
 Well looka here now come look at how the player T drop the top
 Kelly and Twista peep how we rock the block
-Platinum Ferrari it nothing shorty 
+Platinum Ferrari it nothing shorty
 U its chump change
 Or pull up in the 7-4 to the fend (4 to the fend)
 Won't u get in
@@ -111,10 +111,10 @@ While I'm steady blowin smoke in the wind (smoke in the wind)
 Hoping to win
 Now speakin words to my head in the bed
 Then after we work then we can do it that one way
-Lookin thick as a loaf of bread by legs 
+Lookin thick as a loaf of bread by legs
 And u get at shakin the way the twista make the tongue play
 And this is for tha love and the ladies
-The fine women that be rollin Mercedes 
+The fine women that be rollin Mercedes
 Getting freaky and
 And we be going (weo weo weo weo)
 

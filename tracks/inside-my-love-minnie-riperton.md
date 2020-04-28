@@ -26,7 +26,7 @@ rankings:
 ---
 
 Yeah... yeah, yeah, yeah, yeah
-Ha-ah-ah, mmm...
+Ha-ah-ah, mmm
 Ha-ah-ah, ah...
 
 Two people, just meeting, barely touching each other

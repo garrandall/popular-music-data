@@ -133,7 +133,7 @@ I want to take her by the hand
 And pray she'll understand
 
 'Cause I love the way she walks
-And ohbaby, I love the way she talks
+And oh baby, I love the way she talks
 I've got something and I hope she'll understand
 Miss frisky lady, oh
 

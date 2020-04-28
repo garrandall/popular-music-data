@@ -80,7 +80,7 @@ And we be lookin' at each other get the picture,
 And my body not Beyonce' but big girls we been holdin' it down,
 And light-skin used to be way in but brown-skin is tha hot shit now,
 And don't take me as a one-hit wonder keep me hangin' out on the show,
-Ya betta act like I'm tha real deal and real bitches i'm tha last one left,
+Ya betta act like I'm tha real deal and real bitches I'm tha last one left,
 Might not see me up in a thong but i'll be rockin' my addais suit,
 Ur chick can put a tight dress on but she still won't look this cute,
 

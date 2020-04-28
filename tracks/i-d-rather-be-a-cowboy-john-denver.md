@@ -85,4 +85,4 @@ Than to lay me down in love and lady's chains
 I think I'd rather be a cowboy
 I think I'd rather ride a range
 I think I'd rather be a cowboy
-Than to lay me down in love  lady's chains
+Than to lay me down in love lady's chains

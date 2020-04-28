@@ -102,7 +102,6 @@ When I should have been out
 I want the Prodigy really loud
 I want it all right now
 
-(Chorus:)
 Over and over I feel it
 Boyfriend you're alone
 You must be out of your mind
@@ -122,7 +121,6 @@ Get out, what about you and me say
 I've been hanging around you too long
 When summer comes I'm gone
 
-(Chorus)
 I wanna be flying in the clear sky
 I wanna be diving in the blue
 I gotta be out in the evening

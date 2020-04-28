@@ -13,8 +13,8 @@ rankings:
   start_date: '2011-03-26'
 ---
 
-Na, na, na, na, na...
-Na, na, na, na, na...
+Na, na, na, na, na
+Na, na, na, na, na
 
 
 Here we go again

@@ -77,7 +77,7 @@ Yeah?
 
 Mama if I meet a real fine boy
 And he says that I'm his pride and joy
-Or if he walks me in the 
+Or if he walks me in the
 Oh and he say he want to hold me tight
 What might I say, mama, oh tell me what must I say? (What must I say)?
 
@@ -94,7 +94,7 @@ What must I say, oh tell me, mama, what must I say?
 
 Tell him no girl and take my advice
 Keep his hands off the merchandie
-Unless he's thinking about  and rice
+Unless he's thinking about and rice
 Tell him no, you better tell him no
 
 Supposin he's fine

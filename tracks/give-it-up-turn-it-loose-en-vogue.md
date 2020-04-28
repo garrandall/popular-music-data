@@ -96,12 +96,12 @@ I believe in yesterday
 What's the problem?
 You keep comin' in and keep comin' out and singin flat
 I'm sorry, I'm sorry
-What's wrong?  What's wrong?
+What's wrong? What's wrong?
 You're not concentrating
 Yes, I am concentrating
 No, you're not
 I'm sorry, let's just do it again
-Nonono, uh uh.  What's the problem
+Nonono, uh uh. What's the problem
 There's no problem.
 Dawn, what's wrong?
 There's nothing wrong, Terry.
@@ -109,21 +109,21 @@ Kevin.
 Mmhm
 Please don't tell me it's Kevin.
 Mmhm
-Ew, Kevin Swahili, I knew it!  He's got cooties.
+Ew, Kevin Swahili, I knew it! He's got cooties.
 And he's seeing Tamika right now
 And everybody else
 He is not seeing Raneka
 He is.
 How you know?
 Wait a minute guys.
-Wait wait wait.  You guys, we should not attack her, it sounds
+Wait wait wait. You guys, we should not attack her, it sounds
 like it's
-serious because we can't concentrate and get this right.  So,
+serious because we can't concentrate and get this right. So,
 let's deal with
 the problem.
 You see, I've been through this myself, and, let's talk.
 And it goes a little something like this - hit it.
-Mmm...
+Mmm
 
 
 Baby girl (unfair but true)

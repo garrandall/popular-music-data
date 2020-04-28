@@ -78,4 +78,4 @@ You make me shake and I like it, baby
 Well, shake, shake, shake, shake, shake
 Shake, shake, shake, shake, shake, shake
 
-Songwriter:  Johnny Kidd
+Songwriter: Johnny Kidd

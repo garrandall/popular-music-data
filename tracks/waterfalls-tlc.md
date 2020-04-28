@@ -191,7 +191,7 @@ Is it because my life is ten shades of gray, I pray
 All ten fade away, seldom praise Him for the sunny days
 And like His promise is true, only my faith can undo
 The many chances I blew to bring my life to anew
-Clear  blue and unconditional skies
+Clear blue and unconditional skies
 Have dried the tears from my eyes, no more lonely cries
 My only bleeding hope is for the folk who can't cope
 With such an endurin' pain that it keeps 'em in the pourin' rain

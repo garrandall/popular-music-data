@@ -55,7 +55,7 @@ You're all wet!
 (I'm at the boogie baby) why should I hold my breath?
 (Underwater boogie baby) (he's deep) feelin' that I might choke! oh!
 
-(Aquaboogie baby) there's a magic rhythm one with the a real drum 
+(Aquaboogie baby) there's a magic rhythm one with the a real drum
 (Underwater boogie baby) why blow your nose to spite your face
 (Aquaboogie baby) with the rhythm it takes to dance to what we have to live through
 (Underwater boogie baby) you can dance underwater and not get wet
@@ -67,7 +67,7 @@ I don't swim
 I don't dance (ha-ah, hah-ah, ha-ah)
 I don't swim or dance (biohumanyouloop)
 I'm too cool to swim, or dance
-I'm  (underwater boogie baby, underwater boogie baba!)
+I'm (underwater boogie baby, underwater boogie baba!)
 (Ha-ah, ha-ah, ha-ah!)
 
 (Psychoalphadiscobetabioaquadooloop)

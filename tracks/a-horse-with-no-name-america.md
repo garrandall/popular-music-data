@@ -78,8 +78,8 @@ I've been through the desert on a horse with no name
 It felt good to be out of the rain
 In the desert you can remember your name
 'Cause there ain't no one for to give you no pain
-La, la, la la la la, la la la, la la...
-La, la, la la la la, la la la, la la...
+La, la, la la la la, la la la, la la
+La, la, la la la la, la la la, la la
 
 After two days in the desert sun
 My skin began to turn red
@@ -92,7 +92,7 @@ You see I've been through the desert on a horse with no name
 It felt good to be out of the rain
 In the desert you can remember your name
 'Cause there ain't no one for to give you no pain
-La, la, la la la la, la la la, la la...
+La, la, la la la la, la la la, la la
 
 After nine days I let the horse run free
 'Cause the desert had turned to sea
@@ -107,7 +107,7 @@ You see I've been through the desert on a horse with no name
 It felt good to be out of the rain
 In the desert you can remember your name
 'Cause there ain't no one for to give you no pain
-La, la, la la la la, la la la, la la... 
+La, la, la la la la, la la la, la la...
 
 
 

@@ -78,8 +78,8 @@ Yeah he's gonna go far.
 An' carry moonbeams home in a jar!
 
 He ordered Chet's guitar course COD,
-Makes A&E an' he's workin' on B.
-Digs C&W&R&B an' an' me an' a chimpanzee
+Makes A&E and he's workin' on B.
+Digs C&W&R&B and an' me and a chimpanzee
 Agree that one day soon he'll be,
 A celebrity.
 Get it!

@@ -94,7 +94,7 @@ Baby can't you see
 
 I'd like to see both of us
 Fall deeply in love
-I'd like to see you na...
+I'd like to see you na
 Under the stars above
 Yes I would
 
@@ -106,7 +106,7 @@ Under the stars above
 So boogie on reggae woman
 What is wrong with you
 Boogie on reggae woman
-What you tryin' to do 
+What you tryin' to do
 
 Can I play? Can I play?
 No!
@@ -114,7 +114,7 @@ No!
 Boogie on reggae woman
 What is wrong with me
 Boogie on reggae woman
-What you tryin' to do 
+What you tryin' to do
 
 Boogie on reggae woman
 Let me do it to you

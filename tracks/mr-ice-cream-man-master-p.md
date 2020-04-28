@@ -49,16 +49,16 @@ Before jump in the game let's get one thing understood
 If you sellin that ice cream ya got to make sure it's good
 
 Mr. Ice Cream Man
-(Mr. Ice Cream Man) 
+(Mr. Ice Cream Man)
 
 
 Hit the blocks dressed in white with some baggy girbaud's
 A pocket full of stones, 3 G's and tryin to lose these hoes
 And the task coming sick cause its the first of the month
-Fiends on my pager like i'm try to take these fools to lunch
+Fiends on my pager like I'm try to take these fools to lunch
 Going crazy in the getto try to kill me
 My little homies lost life, y'all fools feel me
-I pack a D cause i'm paranoid at night time
+I pack a D cause I'm paranoid at night time
 Brother be pullin jack, I'm in the hood bustin gangsta rhyme
 And still gotta watch my back in the hood gee
 Like Spice-1 said those fools living like movies
@@ -69,7 +69,7 @@ Before jump in the game le'ts get one thing understood
 If you sellin that ice cream ya got to make sure it's good
 
 Mr. Ice Cream Man
-(Mr. Ice Cream Man) 
+(Mr. Ice Cream Man)
 
 
 Mr. Ice Cream Man or call me Master P
@@ -82,7 +82,7 @@ Break fiends on boulders I means Al soda
 Duckin the task and try to hide from the rollers
 And hangin' with TRU soldiers, my TRU click we true to this
 TRU 2 da G A M E fools we ain't new to this
-And in the hood I got ice cream cones, and if fiends 
+And in the hood I got ice cream cones, and if fiends
 want a lick nothing for free that gonna cost you 20 bones
 For y'all ballers that won't wait call on my pager
 I got half gallon of milk fool I got 31 flavor
@@ -90,7 +90,7 @@ Mr. I-C-E, M-A -N is on the scene
 You betta have my fetti if you don't have my ice cream
 
 Mr. Ice Cream Man
-(Mr. Ice Cream Man) 
+(Mr. Ice Cream Man)
 
 Before jump in the game lets get one thing understood
 If you sellin that ice cream ya got to make sure it's good

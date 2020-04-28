@@ -16,7 +16,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-02-13'
 ---
-Mmm...
+Mmm
 I love you, I love you
 I love you, I love you
 

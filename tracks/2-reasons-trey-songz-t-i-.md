@@ -101,7 +101,7 @@ All the bottles, Poppin bottles
 
 
 I know it's somebody birthday, right now (Right Now) right now (Right Now ) Yeahh
-Is somebody getting drunk doe, right now  (Yeahhh)
+Is somebody getting drunk doe, right now (Yeahhh)
 Catch me in the club like I own that bitch (Own That Bitch)
 Shawty dancing like she on that dick (On That D)
 Bad bitches never hold back (Never Hold Back)
@@ -111,8 +111,8 @@ Send me a picture where ya phone at (Oh)
 I only came here for 2 Reasons, I-IIII can't lie (Whatcha came for)
 
 
-I only came for the bitches and the drinks (Uh-huh), bitches and the drinks  (That Right)
-For the bitches, Ca-Came for the bitches and the drinks (Uh-huh), bitches and the drinks  (Alright) (Baby Whatcha Came For)
+I only came for the bitches and the drinks (Uh-huh), bitches and the drinks (That Right)
+For the bitches, Ca-Came for the bitches and the drinks (Uh-huh), bitches and the drinks (Alright) (Baby Whatcha Came For)
 (Ah) Baby get ya glass up (Get Ya Glass Up) I only came for the bitches and the drinks
 Baby get ya ass up (Get Ya Ass Up) that's what I came for (Yeahhh)
 
@@ -126,8 +126,8 @@ Bad yellow-bone (Bone), yeah in my zone, waitress keep coming back so you know w
 I only came here for 2 Reasons, I-IIII can't lie (Whatcha came for)
 
 
-I only came for the bitches and the drinks (Say What), bitches and the drinks  (Forreal)
-For the bitches, Ca-Came for the bitches and the drinks (Whooop), bitches and the drinks  (C'mon) (Baby Whatcha Came For)
+I only came for the bitches and the drinks (Say What), bitches and the drinks (Forreal)
+For the bitches, Ca-Came for the bitches and the drinks (Whooop), bitches and the drinks (C'mon) (Baby Whatcha Came For)
 (Ah) Baby get ya glass up (Get Ya Glass Up) I only came for the bitches and the drinks
 Baby get ya ass up (Aight Trey) (Get Ya Ass Up) that's what I came for
 
@@ -143,8 +143,8 @@ Right behind us been this way since we was minors, if it wasn't for the chicks u
 Either way I try the same thang, wanna came through the door, like here you go came for (Came For)
 
 
-(I Only Came For) bitches and the drinks (Yeah-hh), bitches and the drinks  (You Need To Know What I Came For)
-Bitches and the drinks (Yeah-hh), bitches and the drinks  (I Know You Know What I Came For)
+(I Only Came For) bitches and the drinks (Yeah-hh), bitches and the drinks (You Need To Know What I Came For)
+Bitches and the drinks (Yeah-hh), bitches and the drinks (I Know You Know What I Came For)
 (Ah) Baby get ya glass up (Get Ya Glass Up) I only came for the bitches and the drinks
 Baby get ya ass up (Get Ya Ass Up) that's what I came for
 

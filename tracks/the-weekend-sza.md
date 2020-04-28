@@ -113,7 +113,7 @@ You say you got a girl
 And now you want me
 How you want me when you got a girl?
 The feelin' is reckless
-Of knowin' it's selfish 
+Of knowin' it's selfish
 And knowin' I'm desperate
 Gettin' all in your love
 Fallin' all over love
@@ -140,7 +140,7 @@ Think I got it covered for the weekend
 I gotta say I'm in the mood for a little bit more of that
 I mean I'm saying what kind of deal's just two days?
 I need me at least 'bout four of them
-More of them, more  you on me
+More of them, more you on me
 On us, just tell me you want me, yeah
 Monday and I'll be at your door
 Ready to take her place

@@ -103,7 +103,7 @@ Say man!
 Hey baby!
 I saw your wife the other day!
 Yeah?
-Yeah, an' she's ugly!
+Yeah, and she's ugly!
 Yeah, she's ugly, but she sure can cook, baby!
 Yeah, alright!
 

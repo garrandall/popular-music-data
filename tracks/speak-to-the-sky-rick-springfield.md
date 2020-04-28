@@ -72,7 +72,7 @@ the world will look better than before
 And if I stumble and it seems that I am blind
 or if the road I'm on seems awful hard to find
 and though my conversation doesn't always rhyme
-I always try to find some time to ...
+I always try to find some time to
 
 Speak to the sky and tell you how I feel
 and to know sometimes what I say ain't right
@@ -82,7 +82,7 @@ cause I speak to the sky every night
 And if I stumble and it seems that I am blind
 or if the road I'm on seems awful hard to find
 and though my conversation doesn't always rhyme
-I always try to find some time to ...
+I always try to find some time to
 
 Speak to the sky and tell you how I feel
 and to know sometimes what I say ain't right

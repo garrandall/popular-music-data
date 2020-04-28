@@ -132,8 +132,8 @@ And it's called black magic
 (And it's called, and it's called black magic)
 
 
-(Oh, yeah)  Falling in love, falling in love
-(Yeah, eh)  Falling in love, falling in love
+(Oh, yeah) Falling in love, falling in love
+(Yeah, eh) Falling in love, falling in love
 Falling in love (Hey), falling in love
 Falling in love (Hey), falling in love
 Magi-ic

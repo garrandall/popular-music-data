@@ -66,7 +66,7 @@ I can't believe what'cha do to me
 
 But just keep it going on, baby
 It's on until the break of dawn
-I know  what to do to you, yeah
+I know what to do to you, yeah
 
 Lay back
 Relax

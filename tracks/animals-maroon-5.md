@@ -198,7 +198,7 @@ Just like animals, animals, like animals-mals
 Maybe you think that you can hide
 I can smell your scent from miles
 Just like animals, animals, like animals-mals
-Baby, I'm...
+Baby, I'm
 
 
 Don't tell no lie, lie, lie, lie
@@ -220,7 +220,7 @@ Just like animals, animals, like animals-mals
 Maybe you think that you can hide
 I can smell your scent from miles
 Just like animals, animals, like animals-mals
-Baby, I'm...
+Baby, I'm
 
 
 Don't tell no lie, lie, lie, lie

@@ -101,4 +101,4 @@ Make it to the border
 Do, do, do, do, do, do, do, do, do, do, do, do, do
 Make it to the border
 Do, do, do, do, do, do, do, do, do, do, do, do, do
-Make it to the border ...
+Make it to the border

@@ -57,10 +57,10 @@ Can feel the presence of another man
 
 It's there when you speak my name
 It's just not the same
-Ohbaby, I'm losing you
+Oh baby, I'm losing you
 It's in the air
 It's everywhere
-Ohbaby, I'm losing you
+Oh baby, I'm losing you
 
 When I look into your eyes
 A reflection of a face I see
@@ -69,7 +69,7 @@ Cause that face doesn't belong to me
 
 Oh, it's all over your face
 Someone's taken my place
-Ohbaby, I'm losing you
+Oh baby, I'm losing you
 You try hard to hide
 The emptiness inside
 Oh I can tell I'm losing you

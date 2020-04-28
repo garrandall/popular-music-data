@@ -57,7 +57,7 @@ Girls rock the boys
 We get wild, wild, wild
 Until dawn
 
-So you think we have a lazy time 
+So you think we have a lazy time
 Well, you should know better
 And I don't know why
 I just don't know why
@@ -85,7 +85,7 @@ Girls rock the boys (Grab 'em, grab 'em)
 We get wild, wild, wild (We get wild)
 We get wild, wild, wild (We get wild)
 
-So cum on feel the noize (Can you feel it?  Can you feel it?)
+So cum on feel the noize (Can you feel it? Can you feel it?)
 Girls rock the boys (Rock the boys)
 We get wild, wild, wild (Cum on, get wild)
 We get wild, wild, wild (Get wild)

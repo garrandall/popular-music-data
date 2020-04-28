@@ -57,7 +57,7 @@ But I'mma have the last laugh in the end
 Cause I'm from a tribe called check a hoe
 Yeah, I'mma have the laugh in the end
 Cause I'm from a tribe called check a hoe
-And I...
+And I
 
 
 They wish I would go ahead and fuck my life up

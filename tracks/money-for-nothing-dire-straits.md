@@ -168,7 +168,7 @@ You play the guitar on the MTV
 That ain't workin'
 That's the way you do it
 Money for nothin', and your chicks for free
-Money for nothin',  and chicks for free
+Money for nothin', and chicks for free
 Money for nothin', chicks for free
 Get your money for nothin', chicks for free
 Money for nothin', chicks for free

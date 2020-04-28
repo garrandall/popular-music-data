@@ -46,7 +46,7 @@ Cause folks got money in the ghetto.. yeah you know
 
 
 Hey hey hey.. whatcha got to say (There's money in the ghetto)
-Hollywoooooood!  Havin money in the ghettooo
+Hollywoooooood! Havin money in the ghettooo
 
 Money in the ghetto ain't nothin new
 It's been like that, way before you
@@ -102,7 +102,7 @@ And spend my money in the ghetto
 
 
 Hey hey hey.. whatcha got to say (They got money in the ghetto)
-Hollywoooooood!  Havin money in the ghettooo
+Hollywoooooood! Havin money in the ghettooo
 
 Nowadays if you can't say a rap, or play sports
 You might just come up short

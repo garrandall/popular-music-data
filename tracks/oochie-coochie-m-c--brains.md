@@ -80,20 +80,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-05-16'
 ---
-*Guy Talking*
 Get on, get on nigga though
 1991 and I heard somebody dropped then dropped the bomb
 Boyz II Men, ABC, BBD
 Ayo, I don't think they understand yet
 Brains, drop a little oochie coochie on them
 
-(Chorus: repeat 4x)
 Oochie coochie la la la
 Oochie coochie
 
 Ayo Brains, kick the first verse
 
-(Verse 1)
 Oochie coochie la la la
 I am the Brains and I'm up to par
 Quit actin brand new, I know ya fruity
@@ -111,25 +108,19 @@ Any kind of position you have to soothe me
 Hand to hand, together you know we
 We'll have fun, doin the oochie coochie
 
-(Chorus: 4x)
-
 Burn Shamrock, burn
 
-(Verse 2: Shamrock & MC Brains)
 Oochie coochie girls, big booms, hard rhymes
 Shamrock is here to form a strike line
 All they wanna do is just stab the wound
 And after the pantie's, they'll be singin another tune
 
-(MC Brains)
 Rick, rockin the instrumentals non stop
 
-(Shamrock)
 Ohio ho's, he's the chief rocker
 Motown bound, C-Town, he likes to mingle
 Oochie coochie girls is the brains first single
 
-(MC Brains)
 Now a night wit the Brains is quite simple
 I like a girl wit a big smile, and dimple
 I take you out cause I'ma lover and a mack daddy
@@ -147,11 +138,8 @@ In a conversation, you'll have to sue me
 Hand to hand, together you know we
 We'll have fun, doin the oochie coochie
 
-(Chorus: 4x)
-
 Ayo Brains, you talked all that shit, now gimme some names
 
-(Verse 3)
 Lisa, Kim, Angela, Monique
 Them are some freaks wit the big bazeeks
 Pam, LaShawn, Theresa, and Judy
@@ -165,13 +153,11 @@ I need the punan, the punan, the punnai
 I need the punan, the punan, the punnai
 I need the punan, the punan, the punnai
 
-*MC Brains Talking*
 Yo this goes out to all the oochie coochie girls
 Livin in the oochie coochie world
 Remember to stay on that pill
 Because I didn't hurt you baby, but the next man will
 
-(Chorus plays over guy talking)
 Yeah, hahaha, MC Brains ya know
 Yo hold up though, what's goin on wit the oochie coochie
 Booties don't do me

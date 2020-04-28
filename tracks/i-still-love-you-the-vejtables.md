@@ -44,4 +44,4 @@ When I held you in my arms the other night
 I could tell that something just wasn't right
 My love for you was not returned in that same old way
 Then I knew that very soon there would come a day when I'd lose you
-Oh, yeah - Oh, yeah - Oh, yeah - Oh Yeah ...
+Oh, yeah - Oh, yeah - Oh, yeah - Oh Yeah

@@ -31,7 +31,7 @@ rankings:
 Another one
 
 
- -  Here we go so wave your hands
+ - Here we go so wave your hands
 For Missy, Maganoo, and Timbaland
 We gon' show you how to party right
 So pass the UHH and get the hype

@@ -53,7 +53,7 @@ In their kingdoms below
 The Good Lord Loves You
 The Good Lord Loves You
 The Good Lord
-He  loves you so
+He loves you so
 
 Ain't it sad that we're doing so bad
 
@@ -76,7 +76,7 @@ The Good Lord Loves You
 The Good Lord Loves You
 The Good Lord Loves You
 The Good Lord
-He  loves you so
+He loves you so
 
 Ain't it sad that we're doing so bad
 

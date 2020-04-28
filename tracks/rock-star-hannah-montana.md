@@ -71,7 +71,7 @@ Way too smart to be waiting around
 Tai chi practicing
 Snowboard champion
 I could fix the flat on your car
-I might even be a...
+I might even be a
 
 
 ...rock star

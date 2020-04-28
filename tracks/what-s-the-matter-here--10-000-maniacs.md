@@ -80,7 +80,7 @@ Oh, what's the matter here?"
 I'm tired of the excuses everybody uses
 He's your kid, do as you see as you see fit
 But get this through that I don't approve
-Of what you did  to your own flesh and blood
+Of what you did to your own flesh and blood
 
 I have heard the excuses everybody uses
 He's your kid, do as you see fit

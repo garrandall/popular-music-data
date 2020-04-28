@@ -132,5 +132,5 @@ Too you can make it through, we bail on the Jealous
 Who tell us the opposite of that,
 Forever you and Brat
 I tried to take the blame, but you prefered to handle my fame
-So i'm waitin with open arms to rekindle the flame...
+So I'm waitin with open arms to rekindle the flame...
 

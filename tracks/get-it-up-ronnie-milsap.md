@@ -106,7 +106,7 @@ Or get on out
 
 
 
-The second verse now...
+The second verse now
 
 This is what she said to me
 The only way you can set me free
@@ -119,7 +119,7 @@ And move it till it hits the spot
 
 
 Let's give it to Warren...
-Ah you're cookin' now...
+Ah you're cookin' now
 You're cookin' Warren
 
 Do it to me...

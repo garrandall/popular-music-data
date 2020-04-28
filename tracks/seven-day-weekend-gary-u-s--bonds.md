@@ -36,9 +36,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-08-04'
 ---
-Seven Day Weekend
-Gary U.S. Bonds
-
 One, two, three, four, five, six, seven
 Monday's calling you too early when you're sound asleep
 Bells are ringing by your bedside and out in the street
@@ -46,14 +43,14 @@ Usually Monday's long enough, but this is just the start
 Tuesday's just the same as Monday without the surprising part
 Wednesday's point of no return
 When you've squandered all you've earned
-1, 2, 3, 4, 5, 6, seven day weekend. (x2)
+One, two, three, four, five, six, seven day weekend
 This is all I'm thinking about as the days go by
 Spend your life on holiday and even when I die
-There could be but one inscription: "This was not his day"
+There could be but one inscription: This was not his day
 If it isn't Thursday anymore, it must be Friday
 I can't wait until I maybe
 Get off work and see my baby
-1, 2, 3, 4, 5, 6, seven day weekend. (x2)
+One, two, three, four, five, six, seven day weekend
 I can't wait until I maybe
 Get off work and see my baby
-1, 2, 3, 4, 5, 6, seven day weekend. (x8)
+One, two, three, four, five, six, seven day weekend

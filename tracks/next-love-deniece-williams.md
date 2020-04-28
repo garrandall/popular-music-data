@@ -65,11 +65,11 @@ He'll break your, break your heart, ohooh.
 
 La, la, la, la, la, la, la
 La, la, la, la, la, la, la
-La, la, la, la, la, la-la-la-la...
+La, la, la, la, la, la-la-la-la
 
 La, la, la, la, la, la, la
 La, la, la, la, la, la, la
-La, la, la, la, la, la-la-la-la...
+La, la, la, la, la, la-la-la-la
 
 You're just the next love in line
 Causin' the commotion this time

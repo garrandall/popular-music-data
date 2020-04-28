@@ -28,7 +28,7 @@ Make believe
 That you don't see the tears
 Just let me grieve
 In private 'cause each time I see you
-I break down and cry, ohbaby,
+I break down and cry, oh baby,
 Walk on by, ohdarling
 Please, Walk on by,
 I don't wanna you to see me cry
@@ -48,7 +48,7 @@ Foolish pride
 Is all that I have left
 So let me hide
 The tears and the sadness you gave me
-When you said goobye, ohbaby
+When you said goobye, oh baby
 Walk on by, ohsugar
 Walk on by...(baby, baby don't stop)
 

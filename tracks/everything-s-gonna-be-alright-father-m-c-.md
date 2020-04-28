@@ -88,7 +88,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-04-17'
 ---
-(Jodeci)
 I see ya movin baby yeah
 And you're lookin good, said you're lookin fine
 Everything's gonna be alright, yeah
@@ -97,7 +96,6 @@ Whoa, everything's gonna be alright, it's gonna be alright
 Let the music take control of your body tonight
 Father break it down
 
-(Father MC)
 Well I begin the weekend with a groove
 Roll about eight deep now what's my next move
 Waitin to nightfall so I can enjoy
@@ -107,13 +105,11 @@ Pullin up with Jodeci blastin out the fifteen
 So I park my ride, girls see my gearin
 Notice my grill that cause the pointin' and starin
 
-(Chorus-Jodeci)
 Everything's gonna be alright
 Let the music take control of your body tonight
 Oh everything's gonna be alright
 Let the music take control of your body tonight
 
-(Father MC)
 Now I sign a couple autographs, take a few flicks
 Order Don Perionne and lay back with my chicks
 Michael's on the left of me, Smooth is flippin
@@ -131,8 +127,6 @@ I maintain, if you know what I mean
 Understand I'm not conceeded, Father's just mellow
 I'm a smooth-talk Romeo, freak kinda fellow
 
-
-(Father MC)
 Do that dance, do that dance, baby
 Do that dance, let's work it out
 (Both) Do that dance, do that dance, baby
@@ -142,8 +136,7 @@ Do that dance, let's work it out
 (Both) I said do that dance, do that dance, baby
 (Both) Do that dance, let's work it out
 
-(Father MC)
-Loungin on the DL, this type of night is rare
+Loungin' on the DL, this type of night is rare
 I glanced to the right, oh who do we have here
 Puffin Sweet, gettin ripped, what the hell
 I see Mr. Uptown, it's Andre Farwell
@@ -161,9 +154,6 @@ And all the girls gettin bumped right in ya rump
 So everybody who feel the mood is right
 Get on the dance floor tonight
 
-(Chorus) 2x
-
-(Jodeci)
 Everybody dance with me, oh yeah
 Everybody move with me, everybody
 Everybody dance with me

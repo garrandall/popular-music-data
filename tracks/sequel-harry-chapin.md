@@ -129,7 +129,7 @@ But sometimes, you can't find what you're feeling
 Till all the words run out
 
 So I asked her to come to the concert
-She said, "No, I,  I work at night"
+She said, "No, I, I work at night"
 I said, "We've gotten too damn good at leaving, Sue"
 She said, "Harry, you're right"
 

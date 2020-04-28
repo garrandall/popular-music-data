@@ -14,10 +14,8 @@ rankings:
 ---
 I feel fantastic!
 I wanna fuck something!
-(It's about to be a hell of a night) x3
+(It's about to be a hell of a night)
 
-
-Luda!
 Rollin' down the highway
 Nothin' for me to do but smoke up if it's a Friday
 Break it down, spread it out, nigga, roll up!
@@ -35,25 +33,23 @@ A real nigga, what your woman wanna shake for
 When you shake it for a baller, better shake it right
 'Cuz it's about to be a hell of a night
 
-
-It's about to be a hell of a night x4
-I'm fucked up! (x4)
-I'm high as hell! (x4)
 It's about to be a hell of a night
-
+I'm fucked up!
+I'm high as hell!
+It's about to be a hell of a night
 
 Club packed, and women gettin' they drink on
 Just looking for a reason to get they freak on
 Catch me up in the VIP and it's roped off (Why?)
-TO keep raggedy ass hoes off
+To keep raggedy ass hoes off
 And I'm 'bout to have a smoke-off
 Rich nigga, but I'm trying to get broke off
 Turn it up as I make the beat break down
-Ass up... FACE DOWN!
+Ass up... face down!
 Yeah, that's still the best way to get it
 Down the middle, that's the best way to split it
 I'm talkin' money, Disturbing Tha Peace racked up
-One too many American black cards stacked uuuu-u-u-up
+One too many American black cards stacked up
 Backed up and it's on
 Don't get beat down to the song
 I see these hatin' ass niggas wanna fight

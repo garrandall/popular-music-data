@@ -37,7 +37,7 @@ No matter how many lives you ruin
 It's for the red, white and blue
 Time to go find a new one and split his head right in two
 No one's ever indicted you
-Why? 'Cause you're a...
+Why? 'Cause you're a
 
 
 White boy, white boy, you're a rockstar
@@ -71,7 +71,7 @@ As this beat backspins, it's like we're drifting back in
 To the sixties, having black skin is risky
 'Cause this keeps happening
 Throughout history, African-Americans have been treated like shit
-And I admit, there have been times where it's been embarrassin' to be a...
+And I admit, there have been times where it's been embarrassin' to be a
 
 
 White boy, white boy, you're a rockstar

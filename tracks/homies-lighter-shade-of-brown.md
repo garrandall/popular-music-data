@@ -107,7 +107,7 @@ Cause this is what you do when it's you and your homies
 My situation with my homies wasn't all fun
 Sometimes sad, sometimes bad, but had to have one
 I wouldn't change it for a thing cause it's priceless
-Your homies are your down, yup!  Can I get a righteous
+Your homies are your down, yup! Can I get a righteous
 As kids, we saw and we did what most kids never did
 Took my first swig chilling at my homies crib
 Searching for ways, so that we could make presidents

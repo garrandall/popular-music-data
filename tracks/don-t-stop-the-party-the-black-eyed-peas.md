@@ -64,11 +64,11 @@ I ain't gonna quit until I've won (now baby)
 Don't you stop it, stop it
 Now baby don't you stop it, stop it
 Now baby don't you stop it, stop it (stop it, stop it)
-Even if you wanted to, you couldn't stop us now...
+Even if you wanted to, you couldn't stop us now
 Don't stop the party!
-Don't Don't Don't Don't Don't  stop stop stop
+Don't Don't Don't Don't Don't stop stop stop
 The the the don't stop the party
-Don't Don't Don't Don't Don't  stop stop stop
+Don't Don't Don't Don't Don't stop stop stop
 The the don't stop the party
 
 
@@ -109,7 +109,7 @@ I ain't gonna quit until I've won (now baby)
 Don't you stop it, stop it
 Now baby don't you stop it, stop it
 Now baby don't you stop it, stop it, stop it, stop it
-Even if you wanted to, you couldn't stop us now...
+Even if you wanted to, you couldn't stop us now
 
 
 

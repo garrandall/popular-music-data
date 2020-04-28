@@ -149,7 +149,7 @@ Everyone falls in love sometimes
 I don't know 'bout you but it ain't a crime
 
 
-Hold on,  hold on
+Hold on, hold on
 Question I ask
 Tell me what you want and what you really really wanna do
 Tell me baby girl if your love is really really true

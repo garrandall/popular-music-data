@@ -83,7 +83,7 @@ I feel on top of the world with my lady
 I'm gonna rock your body all night
 She makes me wanna sing
 
-La, la la la...
+La, la la la
 
 You my new obsession
 

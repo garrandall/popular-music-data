@@ -53,7 +53,7 @@ We need it, soul power, we need it, soul power
 We got to have it, soul power
 
 I want to get under your skin
-If I get there, i've got to win
+If I get there, I've got to win
 You need some soul, come on get some
 And then you'll know, where I'm comin' from
 I may lay in the cut and go along
@@ -111,7 +111,7 @@ What we want, soul power
 Can you feel it, soul power
 You got to feel it, soul power
 Got to feel it, soul power, got to feel it, soul power
-We gotta, gotta gotta gotta...
+We gotta, gotta gotta gotta
 You gotta feel it, soul power...
 Hey, don't fall on the ground
 You've got to get down, down down down
@@ -156,4 +156,4 @@ What, huh, tell her, huh, you heard him
 If that don't get it, jump back for more
 You, you little thing
 If that don't get it, jump back for more
-If that don't, whoa...
+If that don't, whoa

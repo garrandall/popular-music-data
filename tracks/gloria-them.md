@@ -58,7 +58,7 @@ Comes a-walkin' down my street
 When she comes to my house
 She knocks upon my door
 And then she comes in my room
-Yeah, an' she make me feel alright
+Yeah, and she make me feel alright
 G-L-O-R-I-A (GLORIA)
 G-L-O-R-I-A (GLORIA)
 I'm gonna shout it all night (GLORIA)

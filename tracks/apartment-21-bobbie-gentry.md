@@ -77,14 +77,14 @@ Lord, don't it make you laugh
 For all these changes
 What have you done?
 
-La la la...
+La la la
 
 Sit down and write a song
 Wait till the days grow long
 And wait fir the autumn wind
 To blow me away
 
-La la la...
+La la la
 
 
 

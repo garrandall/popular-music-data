@@ -69,7 +69,7 @@ When you started showering alone
 And someone used my Chanel perfume
 Since this moment when I left home
 You tiptoeing in the bedroom
-While your thinking i'm asleep
+While your thinking I'm asleep
 If I catch your ass in one more lie
 I'll be telling you to leave
 

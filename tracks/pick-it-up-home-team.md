@@ -43,9 +43,9 @@ When I get the Mic check the wreck then it my crowd.
 As usual Strickly is the Business.
 But you try to dis and dismiss yo what is this.
 Try to look up land it will say see run.
-Not trying to be dumb wait let me see im Bout it.
+Not trying to be dumb wait let me see I'm Bout it.
 Six fifty is the is the milla Hourse.
-Follow the yellow brick road cuase im a fail it all
+Follow the yellow brick road cuase I'm a fail it all
 Hell it all Test me you best be a Monsta.
 Godzilla or Gorilla cause Im ill Im a stomp ya.
 Pick it Up.

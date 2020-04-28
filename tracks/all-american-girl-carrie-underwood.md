@@ -121,7 +121,7 @@ All-American...
 
 And when they got married and decided to have one of their own
 She said, "Be honest, tell me what you want?"
-And he said, "Honey, you ought to know...
+And he said, "Honey, you ought to know
 
 A sweet, little, beautiful one just-a like you.
 I want a beautiful, wonderful, perfect all-American..."

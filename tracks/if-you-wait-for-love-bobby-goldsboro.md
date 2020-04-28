@@ -29,7 +29,7 @@ rankings:
   start_date: '1965-09-18'
 ---
 
-Do dow dow dow...
+Do dow dow dow
 
 I've got so much to say
 And so little time to talk
@@ -45,7 +45,7 @@ This day you'll never forget
 And when I'm gone
 You'll have no regret
 
-Do dow dow dow...
+Do dow dow dow
 
 Though I'm leaving today
 I'll remember this day
@@ -61,7 +61,7 @@ It may be too late for love
 Today you are mine, can't you see
 It's now or never for me
 
-Do dow dow dow...
+Do dow dow dow
 
 Aw, just let me love you while I can
 When I'm gone, you'll understand
@@ -72,7 +72,7 @@ This day you'll never forget
 And when I'm gone
 You'll have no regret
 
-Do dow dow dow...
+Do dow dow dow
 
 
 

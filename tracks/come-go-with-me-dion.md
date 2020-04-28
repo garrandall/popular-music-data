@@ -33,11 +33,11 @@ rankings:
   start_date: '1963-07-20'
 ---
 Dom dom dom dom
-Domby dooby dom...
+Domby dooby dom
 Whoa, oh, oh
 
 Dom dom dom dom
-Domby dooby dom...
+Domby dooby dom
 Whoa, oh, oh
 
 I love you, darling

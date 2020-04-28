@@ -71,7 +71,7 @@ I need you bad
 It's hard to live without your company
 I need you bad, so bad
 I can't take it you see
-Oh, I...
+Oh, I
 
 Can't take anymore
 I can't fake anymore
@@ -91,7 +91,7 @@ Oh, I need you bad
 It's hard to live without your tender touch
 I need you bad, so bad
 I guess you're playing me tough
-Oh, I...
+Oh, I
 
 Can't take anymore
 I can't fake anymore
@@ -118,7 +118,7 @@ I need you bad
 It's hard to live without your tender touch
 I need you bad, so bad
 I'm only taking so much
-Oh, I...
+Oh, I
 
 Can't take anymore
 I can't fake anymore

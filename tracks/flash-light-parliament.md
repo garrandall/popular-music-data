@@ -161,7 +161,7 @@ Red light (Oh, hoo, red light!)
 
 Everybody's got a little light under the sun
 
-Ha da da dee da hada hada da da...
+Ha da da dee da hada hada da da
 
 Everybody's got a little light under the sun
 Under the sun...

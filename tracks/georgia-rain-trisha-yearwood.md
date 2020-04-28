@@ -56,7 +56,7 @@ It all came pourin' down.
 
 The Georgia rain on the Jasper county clay,
 Couldn't wash away what I felt for you that day.
-Just you an' me down an ol' dirt road...
+Just you and me down an ol' dirt road...
 Nothin' in our way except for the Georgia rain.
 
 The cotton fields remember when,
@@ -65,12 +65,12 @@ We were soaked down to the skin,
 By the time we climbed inside.
 An' I don't remember what was poundin' more...
 The heart in my chest or the hood of that Ford.
-As the sky fell in an' the storm clouds poured,
+As the sky fell in and the storm clouds poured,
 Worlds away outside.
 
 The Georgia rain on the Jasper county clay,
 Couldn't wash away all the love we made.
-Just you an' me down that ol' dirt road...
+Just you and me down that ol' dirt road...
 No one saw a thing except for the Georgia rain.
 
 Screen door flappin' in the wind...

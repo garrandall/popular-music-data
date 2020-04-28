@@ -62,7 +62,7 @@ If loving you is wrong, I don't want to be right
 If loving you is wrong, I don't want to be right, baby
 Oohaaow!
 
-No, baby.  Heh, eh, eh, eh.  Uh, uh
+No, baby. Heh, eh, eh, eh. Uh, uh
 
 Tell me, baby
 Am I wrong to give my love to a married man
@@ -71,11 +71,11 @@ If loving you is so wrong, I don't want to be right
 If loving you is wrong, baby, I just can't be right
 Ohaaow!
 
-I don't wanna be right.  No, baby
-I don't wanna be right.  Oh, baby, heh
-Ohaaow!  I've been loving you a little bit too long
+I don't wanna be right. No, baby
+I don't wanna be right. Oh, baby, heh
+Ohaaow! I've been loving you a little bit too long
 I can't give up on your loving now
 I love you, want you, need you, got to have you
-Heeeeeeeeey!  Good god almighty, baby
-I love you.  Mmm, hm, hm, mmm, mmm
-I need you.  Let me have you.  Mmm
+Heeeeeeeeey! Good god almighty, baby
+I love you. Mmm, hm, hm, mmm, mmm
+I need you. Let me have you. Mmm

@@ -66,10 +66,10 @@ rankings:
 ---
 Like a fool I went and stayed too long
 Now I'm wondering if your love's still strong
-Ohbaby, here I am, signed, sealed, delivered, I'm yours!
+Oh baby, here I am, signed, sealed, delivered, I'm yours!
 Then that time I went and said goodbye
 Now I'm back and not ashamed to cry
-Ohbaby, here I am, signed, sealed, delivered, I'm yours!
+Oh baby, here I am, signed, sealed, delivered, I'm yours!
 
 
 Here I am, baby, oh oh
@@ -86,11 +86,11 @@ Didn't I? Oh baby
 
 Seen a lot of things in this old world
 When I touch them, they mean nothing, girl
-Ohbaby, here I am, signed, sealed, delivered, I'm yours!
+Oh baby, here I am, signed, sealed, delivered, I'm yours!
 Ah, I’m yours!
 Ohwee baby, you set my soul on fire
 That's why I know you're my heart's only desire
-Ohbaby, here I am, signed, sealed, delivered, I'm yours!
+Oh baby, here I am, signed, sealed, delivered, I'm yours!
 
 
 Here I am, baby, whoa-oh
@@ -105,7 +105,7 @@ I've done a lot of foolish things
 That I really didn't mean
 I could be a broken man
 But here, I, ah, with your future, got your future, baby, I, I
-Signed, sealed, delivered, I’m yours!
+Signed, sealed, delivered, I 'm yours!
 Here I am, baby, ah
 Here I am, baby
 Signed, sealed, delivered, I'm yours

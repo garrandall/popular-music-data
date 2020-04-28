@@ -171,7 +171,7 @@ rankings:
 
 Red red wine
 Goes to my head
-Makes me forget that I...
+Makes me forget that I
 Still need her so
 
 Red red wine
@@ -200,7 +200,7 @@ Red red wine
 Stay close to me
 Don't let me be alone
 It's tearing apart
-My blue, blue heart 
+My blue, blue heart
 
 Red red wine you make me feel so fine
 You keep me rocking all of the time

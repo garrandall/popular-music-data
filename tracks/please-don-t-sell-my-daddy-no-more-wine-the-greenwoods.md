@@ -28,7 +28,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-05-28'
 ---
-(Chorus)
 Please don't sell my daddy no more wine, no more wine
 Mama don't want him drinking all the time
 Please don't sell my daddy no more wine, no more wine

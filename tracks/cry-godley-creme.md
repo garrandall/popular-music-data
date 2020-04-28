@@ -78,13 +78,13 @@ rankings:
   start_date: '1985-11-09'
 ---
 You don't know how to ease my pain
-You don't know...
+You don't know
 You don't know how to ease my pain
 You don't know what the sound is, darlin'?
 It's the sound of my tears falling
 Or is it the rain?
 
-You don't know...
+You don't know
 
 You don't know how to play the game
 And you cheat, you lie
@@ -103,7 +103,7 @@ You don't know how to play the game
 And you cheat, you lie
 You don't even know how to say goodbye
 You make me want to cry
-You don't know...
+You don't know
 You don't even know how to say goodbye
 You make me want to cry!
 

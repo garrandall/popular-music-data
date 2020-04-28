@@ -121,7 +121,7 @@ We take yours while you pout about it.
 Truck, step out the whore's wanna' crowd around it.
 You could see me on optimum TV.
 Go in your bathroom turn the light out. Scream!
-Bloody Mary, 1, 2, 3. 
+Bloody Mary, 1, 2, 3.
 Sheek ain't your usual friend.
 About to setchu' up like Kaiser and walk straight at the end.
 I'm done wit' ice and charms.
@@ -214,8 +214,8 @@ Get robbed wit' your own gun.
 If I don't respect you I'm ah check you.
 And if I don't kiss you I'm a peck you,
 right before I wet' chu.
-I sneeze on tracks an' bless you.
-I'm special. 
+I sneeze on tracks and bless you.
+I'm special.
 And if you like workin' out,
 then I'm gon' stretch you.
 Husslin' is dead but we still get red.
@@ -223,7 +223,7 @@ Turn the spots in the bakeries to get back bread.
 And ya'll said my monies spent.
 But it's in the Bent'.
 So when the feds come the dogs can't get a scent.
-For my story, self-explanatory 
+For my story, self-explanatory
 that I'm the hottest thing on the street.
 An' yall ain't got nutin' for me
 
@@ -246,7 +246,7 @@ Money, power, and respect.
 Money, power, and respect.
 
 
-Arf,  arf.
+Arf, arf.
 This is a beat that I can freak to
 just drop the reals.
 Plus a nigga wit' the ill.

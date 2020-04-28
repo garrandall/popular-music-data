@@ -103,6 +103,6 @@ Ah-ah, ah-ah
 Ah-ah, ah-ah
 Ah-ah, ah-ah, ah
 
-Hey baby,  pretty baby, oh baby
-Hey baby,  pretty baby, oh baby
-Hey baby,  pretty baby, oh baby
+Hey baby, pretty baby, oh baby
+Hey baby, pretty baby, oh baby
+Hey baby, pretty baby, oh baby

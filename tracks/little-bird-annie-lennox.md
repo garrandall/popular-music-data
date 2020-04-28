@@ -66,7 +66,7 @@ and cry cry cry
 
 I walk along the city streets
 So dark with rage and fear
-And I...
+And I
 I wish that I could be that bird
 And fly away from here
 I wish I had the wings to fly away from here

@@ -127,7 +127,7 @@ A gift that you give to me
 No one knows
 
 
-Ustedes que son padres de familia...
+Ustedes que son padres de familia
 …Buenas tardes señores y señoritas aquí está el
 "DJ Héctor Bonifacio Echevarría Cervantes de la Cruz Arroyo Rojas"
 Esta es la radio Quetzalcoatl

@@ -58,7 +58,7 @@ rankings:
 ---
 Hold it now, hold it now
 Hold it now, hold it now
-Hold it now, hold it now...
+Hold it now, hold it now
 
 Whoa, oh, oh...
 Hold on tighter to love
@@ -93,4 +93,4 @@ Give you what you need, oh, oh
 
 Hold it now, hold it now
 Hold it now, hold it now
-Hold it now, hold it now...
+Hold it now, hold it now

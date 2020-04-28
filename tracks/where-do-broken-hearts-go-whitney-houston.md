@@ -104,7 +104,7 @@ And if somebody loves you
 Won't they always love you?
 I look in your eyes
 And I know that you still care, for me
-Ohbaby
+Oh baby
 
 
 I've been around enough to know

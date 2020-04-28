@@ -18,35 +18,31 @@ rankings:
 ---
 Oh oh my baby oh
 
-(Verse1)
 I have waited for so long to hear you say
 I wanna spend my whole life with you (yes I do)
 Well I don't mean to fuss don't mean to push
 I know your all alone
 But theres just one thing I have to know
 
-(Chorus)
 Is it just infatuation?
 Or is it real love? (real love?)
 Is it just infatuation?
 Well why don't you take me girl
 And drive me in your life?
 
-(Verse2)
 I can't explain it
 What you do to me
 I get so excited when you call my name
 Im not ashamed (ah ah)
 Ashamed to let the whole world see
 Oh girl just what you do to me
-Well im like a child thats lost his way
+Well I'm like a child thats lost his way
 So won't you help me?
 
-(Chorus x2)
 Is it just infatuation?
-Or is it real love?(real love?)
+Or is it real love? (real love?)
 Is it just infatuation?
-(i need to know right now my darlin please)
+(i need to know right now my darling please)
 Why don't you take me girl
 And drown me in your love?
 Come on baby I need to know right now
@@ -55,11 +51,10 @@ Tell me what you think about me girl?
 Oh oh oh I need to know right now
 Come on come on my baby
 
-(Hook)
-Even if im all alone
+Even if I'm all alone
 Gurl you give me strength
 I can carry on (your the special kind)
-Gurl im so confused I don't know what to do
+Gurl I'm so confused I don't know what to do
 Right on right on right on
 (im turnin ya love its original)
 And like the rain that falls on me
@@ -74,7 +69,6 @@ We really need to work this out
 Without a doubt
 I need to know don't ya keep me hangin on
 Well theres no need to do me wrong
-(Chrous)
-Is this just infatuation?
-(come on)i need to know right now(if it's real)
+Is this just infatuation? (come on)
+I need to know right now (if it's real)
 What the deal tell me now come on my sweetness

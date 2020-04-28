@@ -17,7 +17,7 @@ rankings:
   start_date: '2009-06-13'
 ---
 
-Ohhh hm...
+Ohhh hm
 Seconds, hours, so many days
 You know what you want, but how long can you wait
 Every moment lasts forever

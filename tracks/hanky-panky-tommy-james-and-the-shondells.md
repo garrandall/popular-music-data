@@ -100,7 +100,7 @@ My baby does the hanky panky
 My baby does the hanky panky
 My baby does the hanky panky
 
-Let's knock  em dead one time, let's go
+Let's knock em dead one time, let's go
 
 Yeah, my baby does the hanky panky
 My baby does the hanky panky

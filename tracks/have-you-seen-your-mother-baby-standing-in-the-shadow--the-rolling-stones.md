@@ -48,7 +48,7 @@ I'm all alone, won't you give all your sympathy to mine?
 Tell me a story about how you adore me
 Live in the shadow, see through the shadow,
 Live through the shadow, tear at the shadow
-Hate in the shadow, and love in your shadowy  life
+Hate in the shadow, and love in your shadowy life
 Have you seen your lover, baby, standing in the shadow?
 Has he had another baby, standing in the shadow?
 Baby, where have you been all your life?

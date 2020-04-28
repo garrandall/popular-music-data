@@ -110,7 +110,7 @@ Keepin' me so mellow, nobody can get through
 And when he had to do your lovin', smilin' keeps us cheek, good god
 Walk away and twist your hip, make sure you keep him weak
 And make sure you keep him weak, good god
-Sure you keep him...
+Sure you keep him
 Ain't it funky now? Good god!
 Ain't it funky now? Hey!
 Ain't it funky now?

@@ -45,8 +45,8 @@ In and out of love
 Diana ross & the supremes
 (Brian holland/lamont dozier/edward holland, jr.)
 Keep falling in and out of love
-In search for what i'm dreaming of
-I long to find a love i'm sure about
+In search for what I'm dreaming of
+I long to find a love I'm sure about
 That certain kind of love that moves all doubts
 Keep falling in and out of love
 Still searchin' for that special one
@@ -69,5 +69,5 @@ Long after that first kiss is gone
 That kind of love that keeps burning bright
 Long after we've said goodnight
 Keep falling in and out of love
-In search for what i'm dreaming of
+In search for what I'm dreaming of
 Keep falling in and out of love...

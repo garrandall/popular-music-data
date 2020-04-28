@@ -56,7 +56,7 @@ I, you see, can make a ship sail on dry land, yeah
 
 
 Unhappy am I with all the powers that I possess, yeah
-Girl, you're the key to my happiness and I...
+Girl, you're the key to my happiness and I
 
 
 (Can't get next to you, babe)
@@ -79,7 +79,7 @@ Oh, I, and I can live forever if I so desire, yeah
 
 
 Unhappy am I with all the powers that I possess, yeah
-Girl, you're the key 'cause I...
+Girl, you're the key 'cause I
 
 
 (Can't get next to you, babe)
@@ -104,7 +104,7 @@ You see, I'm unable to do, yeah
 
 Unimportant are all these things
 That I'm trying to do here today
-Girl, you see, I...
+Girl, you see, I
 
 
 (Can't get next to you, babe)

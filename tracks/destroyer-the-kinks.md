@@ -27,7 +27,7 @@ rankings:
 
 Met a girl called Lola and I took her back to my place
 Feelin' guilty, feelin' scared, hidden cameras everywhere
-Stop!  Hold on.  Stay in control
+Stop! Hold on. Stay in control
 
 Girl, I want you here with me
 But I'm really not as cool as I'd like to be
@@ -46,7 +46,7 @@ One day you're gonna' self-destruct.
 You're up, you're down, I can't work you out
 You get a good thing goin' then you blow yourself out."
 
-Silly boy ya' self-destroyer.  Silly boy ya' self-destroyer
+Silly boy ya' self-destroyer. Silly boy ya' self-destroyer
 
 Silly boy you got so much to live for
 So much to aim for, so much to try for

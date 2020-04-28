@@ -70,7 +70,7 @@ I need you so that I could die
 I love you so, and that is why
 Whenever I want you
 All I have to do is dream
-Dream, dream, dream...
+Dream, dream, dream
 
 
 

@@ -121,7 +121,7 @@ I walked away without a scratch.
 They brought the helicopter in.
 Billy couldn't feel his legs.
 They said he'd never walk again.
-But Billy said he would an' his mom and daddy prayed,
+But Billy said he would and his mom and daddy prayed,
 An' the day we graduated, he stood up to say:
 
 Unsinkable ships sink.
@@ -143,7 +143,7 @@ Unbreakable walls break.
 Sometimes the things you think would never happen,
 Happen just like that.
 Unbendable steel bends.
-If the fury of the wind  is unstoppable,
+If the fury of the wind is unstoppable,
 I've learned to never underestimate,
 The impossible
 

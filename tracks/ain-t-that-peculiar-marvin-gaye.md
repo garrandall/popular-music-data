@@ -76,7 +76,7 @@ That things you do and say are designed to make me blue
 It's a doggone shame my love for you makes all
 Your lies seem true
 But if the truth makes love last longer
-Why do lies make my love stronger  (stronger, stronger, stronger)
+Why do lies make my love stronger (stronger, stronger, stronger)
 
 
 Ain't that peculiar

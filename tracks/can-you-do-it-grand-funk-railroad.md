@@ -38,12 +38,12 @@ rankings:
 ---
 (Open mike in the studio ...)
 LSD Duckblind
-Alright. Wait a minute ...
+Alright. Wait a minute
 (False start ...)
-I ...
+I
 (Starting over ...)
-One, ... ... Two, ... ...
-One, ... Two, ...
+One, ... ... Two, ...
+One, ... Two,
 One, Two, Three, Four
 
 I ... went to a dance, ah, just the other night

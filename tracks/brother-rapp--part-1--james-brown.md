@@ -115,7 +115,7 @@ Yeah, brother
 Me and you, just the two
 Me and you, me and you
 You know, you know
-You know, you know...
+You know, you know
 Play, little brother
 Good God
 Put your horn in your lap

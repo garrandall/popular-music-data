@@ -40,7 +40,7 @@ Outside my window was a steeple
 With a clock that always said twelve-thirty.
 
 Young girls are coming to the canyon,
-And in the mornings  I can see them walking.
+And in the mornings I can see them walking.
 I can no longer keep my blinds drawn,
 And I can't keep myself from talking.
 

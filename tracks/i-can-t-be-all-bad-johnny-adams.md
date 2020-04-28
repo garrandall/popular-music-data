@@ -65,4 +65,4 @@ Oh, you'll see, right now
 That I'm your sweet loving man
 Oh, yes, I am
 
-Oh, let me tell you that I'm...
+Oh, let me tell you that I'm

@@ -71,18 +71,18 @@ rankings:
 
 One of a kind love affair is
 The kind of love
-That you read about 
+That you read about
 In a fairy tale
-Like the sun that shines 
+Like the sun that shines
 On a rainy day
 It's a cloud of love
 
-One of a kind love affair is 
+One of a kind love affair is
 When your down is up
-When your up is down 
+When your up is down
 But love stays around
 And when you know you're right
-But you got to make 
+But you got to make
 A little sacrifice
 You make it for love
 Whoa, yeah
@@ -94,7 +94,7 @@ Said, I'm leaving you
 Know I love you, too
 I can't stay with you
 And to this very day
-I could never say 
+I could never say
 A discouraging word
 Because I love you
 Whoa, yes, sire, now
@@ -108,11 +108,11 @@ There won't be a fight
 But you're leaving wrong, wrong, wrong, wrong
 
 (One of a kind love affair is)
-When you treat her nice 
-But you finally have 
+When you treat her nice
+But you finally have
 To pay the price
 And though you know you're right
-But you got to make 
+But you got to make
 A little sacrifice
 You make it for love
 You make it for love
@@ -131,7 +131,7 @@ It makes you me want to be around you
 Ah, girl, I'm glad I found you
 
 (One of a kind love affair is)
-Wooh-ee, baby  I wanna tell you now
+Wooh-ee, baby I wanna tell you now
 Every day is sunshine
 Girl, you're on my mind
 

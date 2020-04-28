@@ -71,7 +71,7 @@ And I can cause I, I'm the son
 I'm the son, son, I'm the son, son
 I'm the son, son, son of a loving me
 
-Na na na na...
+Na na na na
 
 So don't get upset
 Cause I'm going away

@@ -38,7 +38,7 @@ rankings:
 ---
 On my way home I met an
 Old friend of mine
-We walked and we talked an' shared
+We walked and we talked and shared
 A bottle of wine
 We started to dance
 My intentions were good
@@ -68,7 +68,7 @@ I can't believe that you're putting me down
 Ah, It would be easy if you'd lighten up
 Do it to please me, enough is enough
 All that we've been thru, how can you doubt
-The ups an' the downs are what loving's about
+The ups and the downs are what loving's about
 
 Don't turn the light out, I'm starting to see
 Don't turn the light out, you're getting to me

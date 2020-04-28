@@ -94,14 +94,14 @@ Everbody's joking and the kids are busy smoking
 People really must be joking if they think it doesn't happen here
 Yes, it happens in our world
 
-Nanana...
+Nanana
 It's our world
 It's our world
 
-Nanana...
+Nanana
 It's our world
 It's our world
 
-Nanana...
+Nanana
 It's our world
 It's our world

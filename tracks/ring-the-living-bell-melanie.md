@@ -78,7 +78,7 @@ Been walking down the street all night
 An' I been feeling kinda cold
 Still feel naked
 God I want to be warm before I get old and I'm cold
-Ah, an' I'm feeling cold
+Ah, and I'm feeling cold
 Still feel hungry
 God I want to give and ring the living bell
 Still feel hungry

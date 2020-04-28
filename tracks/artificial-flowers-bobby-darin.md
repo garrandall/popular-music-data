@@ -119,8 +119,8 @@ Throw away those artificial flowers
 Flowers for ladies of society to wear
 
 Throw away those artificial flowers
-Those dumb-dumb flowers ...
-Fashioned from Annie's ...
+Those dumb-dumb flowers
+Fashioned from Annie's
 
 Fashioned from Annie's despair
 

@@ -103,12 +103,12 @@ rankings:
   start_date: '2003-08-09'
 ---
 Listen girl you know my situation,
-you know my problems and the shit that i'm facin'
+you know my problems and the shit that I'm facin'
 i told you everything you need to know about the kid,
 you kept it realer than my friends with the shit you did.
 i got caught up, and I never talk up
 i look at you and feel some way like baby pass some more cups
-and then i'm drinking and yawning and sinking and falling
+and then I'm drinking and yawning and sinking and falling
 you know I like my milk in the morning, ha
 but I thank yeah, always me and her
 no matter what time you would always answer
@@ -122,18 +122,18 @@ i'm sorry I can't do this no more
 i don't wanna let you go
 girl I really wanna be with you, wanna be real with you
 i can't leave you alone
-i know i'm in the wrong
+i know I'm in the wrong
 but I have to let you go
 you're the only one I want in my life
 i wish I could make you my wife
 i can't leave you alone
-i know i'm living wrong
+i know I'm living wrong
 so I have to let you go
 
 
 you were worried every time that I leave the crib
-even more when its a pouch that i'm leaving with
-you never knew if id make it back home and you sat there stressed keepin' your eyes on that phone,
+even more when its a pouch that I'm leaving with
+you never knew if I'd make it back home and you sat there stressed keepin' your eyes on that phone,
 got a million bitches, but they ain't you
 you heard a few rumors, but they ain't true
 i miss it when you get me mad
@@ -150,20 +150,20 @@ i'm sorry I can't do this no more
 i don't wanna let you go
 girl I really wanna be with you, wanna be real with you
 i can't leave you alone
-i know i'm in the wrong
+i know I'm in the wrong
 but I have to let you go
 you're the only one I want in my life
 i wish I could make you my wife
 i can't leave you alone
-i know i'm living wrong
+i know I'm living wrong
 so I have to let you go
 
 girl I really wanna be with you, wanna be real with you
 i can't leave you alone
-i know i'm in the wrong
+i know I'm in the wrong
 but I have to let you go
 you're the only one I want in my life
 i wish I could make you my wife
 i can't leave you alone
-i know i'm living wrong
+i know I'm living wrong
 so I have to let you go

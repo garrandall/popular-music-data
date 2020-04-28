@@ -47,7 +47,7 @@ I don't mind...your love so soft
 I don't mind, it can't go cold
 But I know, I know...you're gonna miss me
 
-Somewhere down the line...mmm...
+Somewhere down the line...mmm
 
 I don't mind, this is all of my song
 I don't mind, goodbye, so long

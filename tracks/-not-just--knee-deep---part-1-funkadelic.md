@@ -24,8 +24,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1979-11-17'
 ---
-Whooooo-hoooo-oo-oo-oo-oh-oh-oh, huh!
-Whooooo-hoooo-oo-oo-oo-oh-heyyyyhoooahhooh
+Woah, huh!
+Woah, hey, oh!
 Something about the music, she always makes me dance
 Something about the music, she always makes me dance
 She turns me on and on, and all about
@@ -110,10 +110,10 @@ Ooooo-hoooo-oo-oo-oo-oh-oh-oh
 Di-di-di-di di di-di
 Ants in my pants and I need to dance
 I got ants in my pants and I need to dance
-Whooooo-hoooo-oo-oo-oo-oh-oh-oh, hoo-hoo!
+Woah, hoo-hoo!
 Something about the music, about the music
 Something about the music, it got into my dance
-Whooooo-hoooo-oo-oo-oo-oh-oh-oh
+Woah
 Something about the music
 Something about the music
 Something about the music got into my pants
@@ -186,8 +186,8 @@ When she did the freak with me
 
 She did the jerk
 It didn't work, no
-Whooooo-hoooo-oo-oo-oo-oh-oh-oh
-Whooooo-hoooo-oo-oo-oo-oh-oh-oh
+Woah
+Woah
 
 Something about the music, it got into my dance
 Something about the music, it got into my pants

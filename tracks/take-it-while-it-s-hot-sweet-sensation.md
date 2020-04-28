@@ -61,7 +61,7 @@ rankings:
   start_date: '1988-07-02'
 ---
 
-It's time to jam...
+It's time to jam
 
 Ta... ta... ta... ta... take it while it's hot
 So won't you come inside

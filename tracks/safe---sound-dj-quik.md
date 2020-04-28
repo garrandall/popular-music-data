@@ -56,7 +56,7 @@ But niggas like me believe in making ends
 Cause even when your bitch wants to trick around
 You know the moneys got you safe and sound
 
-Now i'm bout to take it back to 84,when I was 14
+Now I'm bout to take it back to 84,when I was 14
 Kickin back in the trees
 Westside if you please
 And 436 west spruce was the spot
@@ -69,7 +69,7 @@ And you couldn't deny
 A hit from that buddah tye
 Going round and round the driveway
 Now it's coming my way
-And i'm zoned out at a young age
+And I'm zoned out at a young age
 And the whole spruce street was my stage
 Peep now back then I was in the 8th grade steady
 But niggas my age was getting paid already
@@ -83,7 +83,7 @@ Well Goddamn how can I be down?
 I ask my sister Jack for some help and she told me look around.
 Nigga they don't sell dope it sells itself
 While they kickback and just collect the wealth
-And now i'm thinking ain't nothing fly about these dirty ass khakis
+And now I'm thinking ain't nothing fly about these dirty ass khakis
 T-shirt dingy, prowings tackie
 This could be a way to flip that little funky twenty dollars that I earned
 Right then is when I learned that
@@ -119,7 +119,7 @@ From niggas hitting the sherman and the passout on the wall
 From cluckers wanting a hit so bad they let there panies fall
 Teeth rotten hair gone,
 and whole checks get blown
-But then i'm still breaking these pebbles like bam bam
+But then I'm still breaking these pebbles like bam bam
 Saved them, splitting rocks,
 to the um tic toc
 I went from wearing khakis to Sergio Teccini
@@ -132,7 +132,7 @@ and how these jealous niggas acting only makes it evident that
 
 Some believe in Jesus
 some believe in Allah
-But niggas like me believe im making dollars
+But niggas like me believe I'm making dollars
 Cause even when yo niggas wanna be untrue
 You know the money's still good to you
 
@@ -150,12 +150,12 @@ Bitches starting to jock
 Cause my hair is getting longer
 And games getting stronger
 To pull my on weight I went and got me a job
-But by then Ham and Gina really started  to squab
+But by then Ham and Gina really started to squab
 About weather I should go or stay
 She told him either he goes or you go we both was on our way
 So he moved and took me with him on 2001 Browning,
 clowning with playas all around me just astounding
-My nigga pimpin Carl got staring  with that hair an
+My nigga pimpin Carl got staring with that hair an
 Rolling up and down the street in that rag 7 with Darren
 Shaby blue feathered as he swerved
 In the El Co p-6 park away from the curve
@@ -169,7 +169,7 @@ Cause even though I love God I also love my grip
 
 Some believe in Jesus
 some believe in Allah
-But niggas like me believe im making dollars
+But niggas like me believe I'm making dollars
 Cause even when yo niggas wanna be untrue
 You know the money's still good to you
 

@@ -105,4 +105,4 @@ I was just a lonely man
 In so many ways till you loved me girl
 (Thank you honey)
 (Thank you, thank you baby, yeah, now)
-La, la, la, la...
+La, la, la, la

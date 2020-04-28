@@ -63,7 +63,7 @@ Qu'une ombre de la rue...
 Dire qu'il suffit parfois
 Qu'il y ait un navire
 Pour que tout se dÃ©chire
-Quand le navire s'en va...
+Quand le navire s'en va
 Il emmenait avec lui
 La douce aux yeux si tendres
 Qui n'a pas su comprendre
@@ -92,14 +92,14 @@ Souriez-moi, Milord!
 VoilÃ , c'est Ã§a!
 Allez, riez, Milord!
 Allez, chantez, Milord!
-La-la-la...
+La-la-la
 
 Mais oui, dansez, Milord!
-La-la-la...
+La-la-la
 Bravo Milord!
-La-la-la...
+La-la-la
 Encore Milord!
-La-la-la...
+La-la-la
 
 
 

@@ -59,7 +59,7 @@ Little girls in the 818
 Get hot when I roll over Laurel Canyon
 
 
-Let me tell you bout a girl I know, 
+Let me tell you bout a girl I know,
 She like hip hop and rock n roll
 She walk slow down the avenue,
 I ain't met her but I'll get her when I do
@@ -71,16 +71,16 @@ I ain't met her but I'll get her when I see her
 
 
 
-Girls from New York look like giraffes, 
+Girls from New York look like giraffes,
 Long neck long legs tiny tits and ass
 Girls from L.A. rock oversized shades and chill all day cuz they already paid
-Girls in Miami, street bikini's bump 
+Girls in Miami, street bikini's bump
 Techno by dj tiesto
-Girls from Detroit like electro, 
+Girls from Detroit like electro,
 and dance all night til' they break they neck yo
 
 
-Let me tell you bout a girl I know, 
+Let me tell you bout a girl I know,
 She like hip hop and rock n roll
 Let me tell you bout a girl I love
 Let me tell you bout a girl I love
@@ -88,17 +88,17 @@ Let me tell you bout a girl I love
 
 
 
-Now if you lookin for love, won't you put your hands up 
+Now if you lookin for love, won't you put your hands up
 If you lookin for love, won't you put your hands up
-If you lookin for love then I'm lookin for love  
-If you lookin for love then I'm lookin for love 
+If you lookin for love then I'm lookin for love
+If you lookin for love then I'm lookin for love
 Now if you lookin for love, won't you put your hands up
 If you lookin for love, won't you put your hands up
 Now, if you lookin for love then I'm lookin for love, huh
 And this is what I'm lookin for
 
 
-Let me tell you bout a girl I know, 
+Let me tell you bout a girl I know,
 She like hip hop and rock n roll
 She walk slow down the avenue,
 I ain't met her but I'll get her when I do

@@ -92,7 +92,7 @@ Downtown Life it feels so right
 It keeps me hangin' on
 
 Downtown Life
-Drifting thru  the nite
+Drifting thru the nite
 Waiting for the night to come
 Downtown Life it feels so right
 It keeps me hangin' on

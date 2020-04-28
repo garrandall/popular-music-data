@@ -70,7 +70,7 @@ From struggling and broken hearts to fancy cars, oh yeah
 And even though my money change
 I try my best to stay the same
 But you know with more money, more problems came
-But if I...
+But if I
 
 
 If I had to do it all again (if I had to)

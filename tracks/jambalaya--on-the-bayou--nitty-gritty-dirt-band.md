@@ -27,10 +27,10 @@ Son of a gun, we gonna have big fun on the Bayou
 
 Thibodaux, Fontaineaux, the place is buzzin'
 The kinfolk come to see Yvonne by the dozen
-Well, and-a dress in style, go hog wild an' be gay-o
+Well, and-a dress in style, go hog wild and be gay-o
 Son of a gun, we gonna have big fun on the Bayou
 
-Jambalaya, crawfish pie, an' a fil'e gumbo
+Jambalaya, crawfish pie, and a fil'e gumbo
 'Cause tonight I'm gonna see my ma cher amio
-Well, a pick guitar, fill fruit jar an' be gay-o
+Well, a pick guitar, fill fruit jar and be gay-o
 Son of a gun, we gonna have a big fun on the Bayou

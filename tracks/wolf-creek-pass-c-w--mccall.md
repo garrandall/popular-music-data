@@ -53,7 +53,7 @@ rankings:
   start_date: '1975-04-12'
 ---
 
-Me an' Earl was haulin' chickens on a flatbed out of Wiggins
+Me and Earl was haulin' chickens on a flatbed out of Wiggins
 And we'd spent all night on the uphill side of thirty-seven miles of hell
 Called Wolf Creek Pass. Which is up on the Great Divide?
 We was settin' there suckin' toothpicks, drinkin' Nehi and onion soup mix

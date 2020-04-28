@@ -107,7 +107,7 @@ I've got the cure you're thinking of (Calling Dr. Love)
 
 Oh, they call me (Dr. Love)
 I am your doctor of love (Calling Dr. Love)
-I've got the cure you're thinking of (Calling Dr. Love),  oh yeah
+I've got the cure you're thinking of (Calling Dr. Love), oh yeah
 Yeah
 
 

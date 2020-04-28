@@ -121,7 +121,7 @@ That I want you back, girl
 Every time I hear that song (Keep on playin' that old song)
 Keep on playin' that old song
 Oh, when I hear that song (Keep on playin' that old song)
-It reminds me of a love so strong, mmm...
+It reminds me of a love so strong, mmm
 
 Mr. DJ, would you please play (Keep on playin' that old song)
 That old song

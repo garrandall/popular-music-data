@@ -84,7 +84,6 @@ With someone who's not me
 And if you're just gone
 Girl I'll be movin' on
 
-(Chorus)
 Let the sunrise find me searchin'
 Let the west wind carry my plea
 Give this changed man one more last chance

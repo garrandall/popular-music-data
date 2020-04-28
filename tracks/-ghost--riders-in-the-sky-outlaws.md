@@ -79,11 +79,11 @@ Their horns were black and shiny and their hot breath he could feel
 A bolt of fear went through him as they thundered through the sky
 He saw the riders coming hard... and he heard their mournful cry
 
-Yippie I ay Yippie I oh
+Yippie-i-ay Yippie-i-oh
 Ghost riders in
 Ghost riders in the sky
 
-Yippie I ay (Yippie I ay) Yippie I oh (Yippie I oh)
+Yippie-i-ay (Yippie-i-ay) Yippie-i-oh (Yippie-i-oh)
 Ghost riders in the sky
 
 Their faces gaunt, their eyes were blurred, their shirts all soaked with sweat

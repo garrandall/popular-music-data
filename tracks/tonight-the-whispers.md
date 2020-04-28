@@ -24,7 +24,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-05-21'
 ---
-(Chorus)
 Tonight
 We're gonna paint the town
 No more messin' around
@@ -42,7 +41,6 @@ All day long I've thought of you
 To have a real good time is my state of mind
 This could be the start of love
 
-(Chorus)
 At first I tried to play it cool
 To try and make you want me more
 But I got trapped by my own game
@@ -52,9 +50,6 @@ And now we have a date, I can hardly wait
 All day long I've thought of you
 To have a real good time is my state of mind
 This could be the start of love
-
-(Chorus)
-Hey
 
 Now we have a date, I can hardly wait
 All day long I thought of you
@@ -96,12 +91,6 @@ You think we should be
 
 Oh, ho, oh
 Tonight
-
-(Chorus)
-Yeah
-
-(Chorus)
-Hey
 
 Tonight
 Ho

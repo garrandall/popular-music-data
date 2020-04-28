@@ -131,7 +131,7 @@ And I love you enough to say that I think
 I think you deserve somebody better than me, you know
 And right now, I can't give you what you need, you know
 I mean, I wanna love you and I'm gonna love you
-One day but you know...
+One day but you know
 I mean, you just gotta understand where I'm coming from
 
 

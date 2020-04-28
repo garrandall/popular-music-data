@@ -129,7 +129,7 @@ Oh, girl u know what's up
 
 I'm diggin' u and I'm feelin' u
 U know what's up
-Said i'm diggin' u and I'm wantin' u
+Said I'm diggin' u and I'm wantin' u
 So tell me what's up
 
 

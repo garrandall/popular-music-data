@@ -45,7 +45,7 @@ Valerie, do do do...
 Come see how good my love can be
 Girl, I need you to need me
 
-La da da...
+La da da
 
 Valerie, yeah
 Let me be, let me be

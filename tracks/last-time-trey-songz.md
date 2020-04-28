@@ -88,7 +88,7 @@ Hold up, baby girl, don't talk, just listen
 Girl for the last time
 Yep I said the last time
 Girl, this is the last time
-All caught up  and it's time to put it down
+All caught up and it's time to put it down
 You really got me tripping
 Hold up, baby girl, don't talk, just listen
 This the last time

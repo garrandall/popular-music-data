@@ -35,7 +35,7 @@ rankings:
 
 Hands, don't let her go, 'cause then the midnight icy winds will blow
 Eyes, give every drop, this ain't the way that should have made her stop
-Arms, just  let her know,  no one fills the place she used to go
+Arms, just let her know, no one fills the place she used to go
 Smile, don't leave me now, 'cause you're the reason she's here anyhow
 
 Words be gentle when you speak into her heart

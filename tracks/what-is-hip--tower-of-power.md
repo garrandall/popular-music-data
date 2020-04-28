@@ -55,7 +55,7 @@ Hipness is. What it is
 Hipness is. What it is
 Sometimes hipness is, what it ain't
 
-You went an' found you a guru
+You went and found you a guru
 In an effort to find you a new you
 And maybe even raise your conscious level
 While you're striving to find the right road

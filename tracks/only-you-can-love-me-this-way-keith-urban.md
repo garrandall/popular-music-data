@@ -88,11 +88,11 @@ rankings:
 Well I know there's a reason
 And I know there's a rhyme
 We were meant to be together
-That's why ...
+That's why
 We can roll with the punches
 We can stroll hand in hand
 And when I say it's forever
-You understand ...
+You understand
 
 That you're always in my heart,
 You're always on my mind

@@ -109,7 +109,7 @@ Got me going to the extreme
 Won't go without it
 This vibe has gotta hold on me
 Satisfying baby
-Let me show what i'm made of
+Let me show what I'm made of
 No doubt about it
 Got me feeling crazy can't get enough.
 So baby come to me

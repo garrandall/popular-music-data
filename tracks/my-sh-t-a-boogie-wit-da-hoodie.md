@@ -65,7 +65,7 @@ I brought the mac out, niggas sat down
 I got shit I never had now I can brag now, I can brag now
 Got my bitch a louis bag now, she can brag now
 Got my bitch a birkin bag now, she a brat now
-Now i'm sittin' in the club in a different bag now
+Now I'm sittin' in the club in a different bag now
 Baby when I pick it up you gon' put that ass down
 Tell 'em you don't give a fuck, baby spin that ass 'round
 Tell the dj turn it up, what the fuck in that sound

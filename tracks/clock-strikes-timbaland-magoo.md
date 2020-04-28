@@ -90,9 +90,9 @@ Don't call me now, because they dig the way I speaks
 I'm like a genie, because I've been trapped in a bottle
 I've got more stunts, than that nigga Desperado
 Come follow, a mad brother where'll there be no sun
-no sun tomorrow, you be sayin, when can we meet?  Uhh uhh
+no sun tomorrow, you be sayin, when can we meet? Uhh uhh
 My offices hours are nine to five
-Ain't that right Maganoo, Maganoo?  Right... right
+Ain't that right Maganoo, Maganoo? Right... right
 
 
 

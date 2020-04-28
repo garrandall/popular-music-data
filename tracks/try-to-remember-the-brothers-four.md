@@ -41,4 +41,4 @@ Although you know the snow will follow
 Deep in December It's nice to remember
 The fire of September that made us mellow
 Deep in December our hearts should remember
-And follow, follow, follow...
+And follow, follow, follow

@@ -47,7 +47,7 @@ My first night in Juarez, lost all the money I had.
 One bad senorita made use of one innocent lad.
 But I must keep on runnin'; it's too late to turn back...
 I'm wanted in Tucson, I'm told.
-Yeah, an' things'll blow over on the seashores of old Mexico.
+Yeah, and things'll blow over on the seashores of old Mexico.
 
 Two Mexican farmers en route to a town I can't say,
 Let me ride on the back of a flatbed half-loaded with hay.

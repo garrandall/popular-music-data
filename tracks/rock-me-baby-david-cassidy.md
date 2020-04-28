@@ -74,7 +74,7 @@ All right now, roll me
 Come on and squeeze me, oh, you sure can please me, uh-uh
 All right now, get down
 
-Hoo, rock me baby, let me feel that beat ...
+Hoo, rock me baby, let me feel that beat
 
 
 

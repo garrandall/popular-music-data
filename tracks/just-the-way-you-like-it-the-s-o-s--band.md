@@ -167,7 +167,7 @@ Whenever you get bored
 I will give it to you
 Just the way you like it
 
-As long as I...
+As long as I
 Just the way you like it
 Ohohoohhoh
 Just the way you like it, boy

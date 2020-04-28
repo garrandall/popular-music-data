@@ -34,7 +34,7 @@ rankings:
 ---
 Closer...
 Closer to me.
-Now that i've found you girl.
+Now that I've found you girl.
 I'll never let you leave...
 
 Closer...
@@ -50,7 +50,7 @@ Is this a fantasy or have my dreams come true
 
 So come closer.
 Closer to me.
-Now that i've found you girl.
+Now that I've found you girl.
 I'll never let you leave.
 
 Come closer.
@@ -62,15 +62,15 @@ Like the high tide in the ocean
 Splashes on the beach
 Coloring the rocks on shore
 Like your love colored me
-Oh i've never felt this way
+Oh I've never felt this way
 In my life before
 Cuz you've brought out that part of me
 
-That i've learned to adore
+That I've learned to adore
 
 Closer.
 Closer to me.
-Now that i've found you girl.
+Now that I've found you girl.
 I'll never let you leave.
 
 Closer.
@@ -80,12 +80,12 @@ Your heart will ever need...
 
 You are my everything
 You are my hopes my thoughts my wishes and my dreams yeah
-As sure as the sun will shine and i'm so glad that you are mine
+As sure as the sun will shine and I'm so glad that you are mine
 Will bond your soul and mine our love is one of a kind. whoaaaa
 
 Closer.
 Closer to me.
-Now that i've found you girl.
+Now that I've found you girl.
 I'll never let you leave.
 
 Closer.

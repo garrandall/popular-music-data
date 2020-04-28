@@ -105,7 +105,7 @@ But, there's something you can do
 You can talk to me
 Talk to me... talk to me
 I can set your secrets free, baby
-La, la, la, la...
+La, la, la, la
 
 Though we lay face to face and cheek to cheek
 Our voices stray from the common ground where they

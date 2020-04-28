@@ -185,7 +185,7 @@ She Paula Patton thick, She give me deja-vu
 And all dat attitude I don't care about it
 But all dat shit I do for her you gonna hear about it
 Breezy rep two up two down
-But i'm jus putting two up chucking up the deuce now
+But I'm jus putting two up chucking up the deuce now
 
 
 I'm on some new shit

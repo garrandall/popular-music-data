@@ -29,7 +29,7 @@ I know as soon as I'll arrive
 Everything is possible
 Cause no one has to hide
 Beyond the invisible
-Sajaja bramani totari ta,  raitata raitata, radu ridu raitata, rota
+Sajaja bramani totari ta, raitata raitata, radu ridu raitata, rota
 The brave and wise men came together on horse
 Close your eyes
 Just feel and realize
@@ -44,7 +44,7 @@ ne ultra memineris iniquitatis:
 ecce civitas Sancti facta est deserta:
 Sion deserta facta est:
 Ierusalem desolata est:
-domus sanctificationis tuae et gloriae tuae  Do not be angry Lord,
+domus sanctificationis tuae et gloriae tuae Do not be angry Lord,
 or remember iniquity forever:
 behold the Holy City is a desert:
 Sion is mad a desert:

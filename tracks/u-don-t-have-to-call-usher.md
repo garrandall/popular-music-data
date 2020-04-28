@@ -130,9 +130,9 @@ I sacrificed
 'Cause I knew you could not sleep without it
 
 
-Meanwhile I...
+Meanwhile I
 I loved you, you were my girl
-You see, I...
+You see, I
 Thought the world of you
 But you're still steady leaving, baby
 
@@ -156,7 +156,7 @@ And again, no story can end without it
 Damn right...
 I loved you
 You were my girl
-You see, I...
+You see, I
 Thought the world of you
 But you're still steady leaving, baby
 

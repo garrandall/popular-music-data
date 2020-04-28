@@ -51,7 +51,7 @@ And not having you
 I'll never get used to!
 I've gotten used to not listenin' for familiar sounds
 You use to make
-Now i'm trying to get out of the habit
+Now I'm trying to get out of the habit
 Of calling your name first thing when I awake.
 Look here!
 It's like a child's first steps

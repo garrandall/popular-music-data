@@ -59,7 +59,6 @@ We about to go lowriding
 
 (A lowrider)
 
-
 Oh yeah, another night on the boulevard
 Cruising hard, and everybody's lowridin'
 Take a little trip with the Frost
@@ -77,7 +76,7 @@ Ha-ha-ha
 
 (Take a little trip)
 (Take a little trip)
-(Take a little trip and see)	 --> War
+(Take a little trip and see)
 
 Yeah, lowriding
 All my homies roll lowriders
@@ -87,7 +86,6 @@ Hey
 
 Aiyo ALT, man
 What you doin on the boulevard, loco?
-
 
 Cruisin, the bass escapes from the window
 I'm rollin real slow and low, it's Sunday, I gotta go
@@ -104,7 +102,7 @@ A single file line - on the boulevard
 
 (Take a little trip)
 (Take a little trip)
-(Take a little trip and see)	 --> War
+(Take a little trip and see)
 
 All my homies roll lowriders
 Hey
@@ -115,7 +113,6 @@ Aiyo Mellow, man
 What's that you're bumpin in your ride, man?
 What's that you're bumpin in your ride, homes?
 (Ain't got... baby)
-
 
 I been chasing hotties as a hobby
 Mellow's on the bully and I'm out here getting irie
@@ -135,9 +132,9 @@ Up on the boulevard
 You know what I'm saying
 When you're out there cruising
 Girlies wanna be using
-Jimbrowkisssssss....
+Jimbrowski
 
 All my homies roll lowriders
 A lowrider is a little flier
 
-And you know it's fly, ha-ha-ha
+And you know it's fly, ha ha ha

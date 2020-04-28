@@ -59,9 +59,9 @@ What cha gonna do
 Tell us it's up to you
 Tired of waitin', losin' my patience
 Dance is all you think of
-Don'y cha know that I ...
+Don'y cha know that I
 Hey you little Boo-ga-loo
-We're been dancin' 
+We're been dancin'
 Can't keep it up there we're gotta stop
 All I wanna do is make love to you
 But all you wanna do is Boo-ga-loo

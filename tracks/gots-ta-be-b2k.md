@@ -119,7 +119,7 @@ Through all the good times, and bad times
 
 
 I wanna be the gots to be in your life
-Gots ta be the one that gets  your nerves
+Gots ta be the one that gets your nerves
 Gots ta be the one you don't deserve
 Gots ta be the only one that you serve
 Gotta be, gotta be, gotta be your everything

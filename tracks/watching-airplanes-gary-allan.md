@@ -99,7 +99,7 @@ Im just sittin' out here watching airplanes
 Take off and fly
 Tryin to figure out which one you might be on
 And why you don't love me anymore
-Right now im sittin' out here watching airplanes
+Right now I'm sittin' out here watching airplanes
 
 I would've lied could've cried should've tried harder
 Done anything to make you stay
@@ -115,14 +115,14 @@ By now I know you're thirty thousand feet above me
 But a million miles away, a million miles away
 By now I know I outta act like you don't love me
 
-But im just sittin' out here watching airplanes
+But I'm just sittin' out here watching airplanes
 Take off and fly
 Im just sittin' out here watching airplanes
 Take off and fly
 Tryin to figure out which one you might be on
 And why you don't love me anymore
 
-Yeah im just sittin' out here watching airplanes
+Yeah I'm just sittin' out here watching airplanes
 Go by, by, by
 Im just sittin' out here watching airplanes
 Baby bye, bye, bye

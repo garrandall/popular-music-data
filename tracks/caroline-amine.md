@@ -130,7 +130,7 @@ Nah, nah, nah
 Is that true, man?
 I just wanna know
 Probably not
-I mean, shit to be honest with you, man, she's a...
+I mean, shit to be honest with you, man, she's a
 
 Bad thang, fine as hell, thick as fuck
 Oh my god, that's my baby

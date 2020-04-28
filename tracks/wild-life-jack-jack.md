@@ -17,7 +17,7 @@ Wild like
 Wild life
 
 
-Yeah, no  telling what I might do
+Yeah, no telling what I might do
 When I'm in the right mood
 You know me
 I'm all up in the party like a V.I.P

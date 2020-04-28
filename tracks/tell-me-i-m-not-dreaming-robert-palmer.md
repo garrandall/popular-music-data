@@ -61,7 +61,7 @@ Tell me I'm not dreaming
 Or are you
 Too good to be true
 I wanna know
-Are you ohbaby
+Are you oh baby
 Too good to be true
 
 Tell me I'm not dreaming
@@ -77,7 +77,7 @@ Oh it's a mystery
 How you disappear
 Like a shadow in the night
 Tell me I'm not dreaming
-Are you, ohbaby
+Are you, oh baby
 Too good to be true?
 
 Tell me I'm not dreaming

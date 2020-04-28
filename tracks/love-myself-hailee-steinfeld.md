@@ -125,7 +125,7 @@ Can't help myself, no, I don't need anybody else
 Anytime that I like
 (I love me)
 
-Ah, la la la, la la la la la...
+Ah, la la la, la la la la la
 Anytime that I like
 (I love)
 
@@ -148,7 +148,7 @@ Can't help myself, no, I don't need anybody else
 Anytime that I like
 (I love me)
 
-Ah, la la la, la la la la la...
+Ah, la la la, la la la la la
 Anytime that I like
 (I love me)
 

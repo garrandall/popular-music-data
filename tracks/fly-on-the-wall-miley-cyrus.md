@@ -40,7 +40,7 @@ Don't you wish that you could be a Fly on the Wall
 You'd love to know, the things I do
 When I'm with my friends, and not with you
 Your always second guess, wonder if
-There's other guys im flirting with
+There's other guys I'm flirting with
 You should know by now
 
 If you were my boyfriend, I'd be true to you
@@ -69,7 +69,7 @@ And what I'm gonna say is
 Don't You
 Don't You
 Don't You
-Don't you wish you were a...
+Don't you wish you were a
 Hey!
 
 

@@ -54,7 +54,7 @@ I'm back
 
 
 Pull up, pull up, can't believe the girls' club packed
-What up, what up?  Shawty wanna lead me to the back (To the back)
+What up, what up? Shawty wanna lead me to the back (To the back)
 Ain't been in here 15 minutes, got a pocket full of digits
 And she just won't take no
 Hold up, hold up, now lil' mama wanna get mad

@@ -49,9 +49,9 @@ I can really give, too.
 I've heard them saying at Christmas,
 Now I can say it to you:
 The feeling of giving
-It's as good as im getting from you,
-It's as good as im getting from you,
-It's as good as im getting from you,
+It's as good as I'm getting from you,
+It's as good as I'm getting from you,
+It's as good as I'm getting from you,
 It's as good as I'm getting from you.
 
 

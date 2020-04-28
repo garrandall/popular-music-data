@@ -73,7 +73,7 @@ And whatever they do, don't let the owner know
 I hope he come back with enough to let me borrow some change
 At least for the summer
 And if he don't let me borrow nothin, but ask me what I want
-Ima tell him I wanna...
+Ima tell him I wanna
 
 Why can't I walk with a limp mama? won't be no drama
 For goodness sakes, Im just a kid
@@ -94,4 +94,4 @@ Why can't work feel like retirement?
 
 
 
-Gangsta, gangsta, gangsta...
+Gangsta, gangsta, gangsta

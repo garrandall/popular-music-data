@@ -27,7 +27,6 @@ So many things I could say
 And I know I'm not mistaken
 This is love and that's for sure
 
-(Chorus)
 You, you're the only one
 You're the only one
 You, you're the only one
@@ -39,9 +38,7 @@ I didn't know where to go
 But baby I want to tell you
 Just how good you make me feel
 
-(Chorus)
 I'd be a fool to deny it
 I want everyone to know
 
-(Chorus)
 Baby, baby

@@ -75,7 +75,6 @@ Are gone like a suitcase
 Full of your past
 Long gone, and in a hurry
 
-CHORUS:
 Baby, I can't go through this again
 I don't need to go down
 More than I've already been
@@ -91,7 +90,6 @@ To hide from the night
 Like I am
 They're just like I am
 
-(Chorus)
 Just like a wild fire
 You're running all over town
 And as much as you burn me, baby

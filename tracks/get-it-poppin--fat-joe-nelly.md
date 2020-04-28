@@ -91,8 +91,8 @@ rankings:
 ---
 
 
-Crack!  Yeah, Scott Storch y'all
-Dirty, Crack!  C'mon
+Crack! Yeah, Scott Storch y'all
+Dirty, Crack! C'mon
 
 
 It's two up in the mornin girl, and the DJ playin that song
@@ -117,7 +117,7 @@ And we can get it poppin in the bathroom
 Don't be selfish ma, go ahead and pass it to him
 Then we can all fuck
 It's like a million on my neck, got all of these bitches all struck
-Aowww!  We pissy drunk off of Seraphim
+Aowww! We pissy drunk off of Seraphim
 I'm up in V.I.P. and these bitches are screamin let me in
 
 
@@ -143,7 +143,7 @@ She would never talk to a lame like that
 In my ear screamin how you got a name like Crack
 Crack - similar to Mike Jones
 Say my name enough, then I'm takin you home
-Aowwwwww!  You know I walk with I talk with
+Aowwwwww! You know I walk with I talk with
 I sleep with the chrome, one squeeze and you're gone
 What I look like, not takin at least
 three to six women out the club with me

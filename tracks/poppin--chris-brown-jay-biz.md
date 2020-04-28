@@ -95,7 +95,7 @@ Tell me where you headed
 Can I walk with you girl?
 You got that look in yo eyes,
 That look like you give yo boy a here good ol' time
-And i'm on it girl, that's right I'm on it girl
+And I'm on it girl, that's right I'm on it girl
 
 See this is the first time I had a girl,
 Who looks set me on fire

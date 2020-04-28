@@ -66,8 +66,8 @@ I was looking for love and I want your love baby love
 When you gonna get me Boom! there she was - for me
 
 The Tupamaros an immutable truth (all right)
-I got a razor blade an' a beautiful youth (and I like it)
-A Moto Guzzi an' a Gaultier pants (all right)
+I got a razor blade and a beautiful youth (and I like it)
+A Moto Guzzi and a Gaultier pants (all right)
 I got a reason girl, was Immanuel Kant's (and I like it)
 
 I got money oh I got around but my life was going nowhere (nowhere)
@@ -84,7 +84,7 @@ Drivin me out
 There she was)
 
 Pharmacopoeia - I got a way with the word (all right)
-I got an' alphabet that you never have heard (and I like it)
+I got and alphabet that you never have heard (and I like it)
 
 I got money oh I got around but my life was going nowhere (no where)
 

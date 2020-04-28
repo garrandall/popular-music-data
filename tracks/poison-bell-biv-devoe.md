@@ -167,7 +167,7 @@ Poison as can be, the high power chest
 Michael Bivins here and I'm runnin' the show
 Bell, Biv DeVoe
 ... now you know!
-Yo, Slick, blow...
+Yo, Slick, blow
 
 Yo' fellas, that was another Dope one...
 You know what I'm sayin', Mike?

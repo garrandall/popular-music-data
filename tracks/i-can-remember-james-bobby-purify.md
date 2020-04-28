@@ -64,4 +64,4 @@ And fill all my hours with day
 I'm gonna trade in my sorrow
 For each bright tomorrow
 And throw all my worries away
-Mmhmm mmhmmm mmm...
+Mmhmm mmhmmm mmm

@@ -98,7 +98,7 @@ I won't change anything in my life
 I'm staying myself tonight
 (I'm staying myself tonight)
 
-La la la la la...
+La la la la la
 
 
 

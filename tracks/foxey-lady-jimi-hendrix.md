@@ -59,7 +59,7 @@ Oh you look so good
 (Foxy) Foxy
 Oh yeah, (Foxy)
 Oh Foxy
-Yeah,  (Foxy) ?
+Yeah, (Foxy) ?
 Foxy
 You make me feel like uh
 Feel (Foxy) like singing, Foxy

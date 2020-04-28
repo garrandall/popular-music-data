@@ -47,7 +47,7 @@ But it seems so it's getting too hard
 I think I start to have my own fun
 
 Oh baby... It's plain to see
-That i'm qualified to fill your needs
+That I'm qualified to fill your needs
 You think you put'n over on me
 Oh honey baby just you wait and see
 

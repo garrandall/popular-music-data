@@ -39,4 +39,4 @@ But I'd rather be sorry for something I've done than for something that I didn't
 
 When you touch me it's easy to make me believe tomorrow won't take you away
 But I'll gamble whatever tomorrow might bring of a life that I'm living today
-Cause I'll never know...
+Cause I'll never know

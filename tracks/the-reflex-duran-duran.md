@@ -96,7 +96,7 @@ rankings:
 The reflex
 The reflex
 The reflex
-The reflex  (flex, flex, flex)
+The reflex (flex, flex, flex)
 
 "You've gone too far this time"
 But I'm dancing on the valentine

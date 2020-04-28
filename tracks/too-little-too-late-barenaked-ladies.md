@@ -50,7 +50,7 @@ Yesterday wasn't half as tough as this time
 This time isn't Hell,
 Last time, I couldn't tell
 This mind wasn't well
-Next time, hope I'm...
+Next time, hope I'm
 Going to be good, and I would -
 If I knew I was understood
 And it'll be great, just wait -

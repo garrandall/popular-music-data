@@ -100,7 +100,7 @@ Yeah yeah (Oh)
 Passion
 The screams of passion
 What did you say baby?
-Excuse me, but ...
+Excuse me, but
 Is that your passion?
 Do you want my passion?
 Uh, do you want my passion?

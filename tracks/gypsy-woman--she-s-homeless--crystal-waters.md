@@ -91,7 +91,7 @@ La da dee la dee dow, la da dee la dee dow
 In my sleep I see her begging
 Preaching: "Please!"
 Although her body's not mine
-I ask, God why?  God why?
+I ask, God why? God why?
 She's just like you and me
 But she's homeless, she's homeless
 As she stands there singing for money

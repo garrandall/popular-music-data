@@ -89,7 +89,7 @@ If it don't make dollars, you ain't makin no fucking sense
 Get relentless when it comes to stacking chips and shit
 Try to take mine to thy nine be the glory
 Unloaded at the end of the story,
-I'm on top of the world, nigga...
+I'm on top of the world, nigga
 
 
 
@@ -141,5 +141,5 @@ Only Triangles dangle when I bust.
 You see, niggas round town called this and that,
 Said I sound like the pound and my shit was wack.
 Dropped the album Funkdafied and they thought it was bold,
-30 days later, the LP went gold, and I'm...
+30 days later, the LP went gold, and I'm
 

@@ -92,7 +92,7 @@ So we're makin' love
 And you feel the power
 And I feel the power
 Then there's really nothing we can't do
-(You know  we could, you know we could)
+(You know we could, you know we could)
 If we wanted to, baby
 (You know we could, you know we could)
 We could exist on the stars

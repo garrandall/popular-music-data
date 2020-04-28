@@ -43,7 +43,7 @@ Sure would like to some dimes for me
 So I can get this cup of coffee
 Cop me a snack or something
 I guess I better quit trying to be hip and get on down
-Hey man, like, you know...
+Hey man, like, you know
 
 
 I was born in New York City on a Monday
@@ -73,7 +73,7 @@ I'm never, never, never gonna get that way again
 No, no, no
 No, no, not me
 When you need a friend...
-Need to have a...
+Need to have a
 When you want a friend...
 
 

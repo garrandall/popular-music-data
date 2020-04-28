@@ -58,15 +58,15 @@ No one knows how to suffer quite like you
 My shrink is out of town, my love life is a joke
 My ex-wife sold my diary to Rona
 All my ashtrays are overflowed, and I don't even smoke
-And my sinuses came back from Arizona...
+And my sinuses came back from Arizona
 
 (Spoken) "Hello, Mandy? It's me. I'm here at the Copa
 You know, the Copacabana
 I know I don't write the songs that make the whole world sing but
 I do know one thing, Mandy...
-I can't smile without you... Forget Lola...
+I can't smile without you... Forget Lola
 Remember that weekend in New England? I thought then that
-This could be the magic at last... Now here I am...
+This could be the magic at last... Now here I am
 Tryin' to get the feelin' again! "
 
 I need your help, Barry Manilow

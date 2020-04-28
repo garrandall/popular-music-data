@@ -135,7 +135,7 @@ Baby, oh why don't you make yourself comfortable?
 Oh while I go and put this tongue on you
 So tell me when you ready, I'ma speed it up for you just for a second
 Just for a second, then I'ma slow it back down and keep it steady
-Ohbaby, now that you are out them clothes
+Oh baby, now that you are out them clothes
 Oh I just wanna see you dance in
 
 

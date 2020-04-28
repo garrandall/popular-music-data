@@ -65,8 +65,8 @@ Won't you tell me 'bout love.
 Please tell me 'bout love.
 I saw her in a dream.
 Please tell me 'bout love.
-I know I saw her in a dream...
-Dream...
+I know I saw her in a dream
+Dream
 Let me take you,
 To another place,
 Another time,

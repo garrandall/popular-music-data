@@ -173,7 +173,7 @@ Oh control
 
 
 I've got my own mind
-Ohbaby
+Oh baby
 Yeah yeah, yeah yeah
 I've got my own mind
 Wanna make my own decisions

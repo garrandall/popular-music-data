@@ -62,7 +62,7 @@ rankings:
 ---
 
 A little bit of guitar; a little bit of truck.
-A little bit of hound-dog an' a little bit of luck.
+A little bit of hound-dog and a little bit of luck.
 A little bit of bacon, a little bit of beans;
 A little bit of you lovin' up on me.
 A little bit of how it's s'posed to be:
@@ -73,21 +73,21 @@ A little bit of radio goin' boom, boom, boom.
 A little bit of sugar, a little bit of spice,
 A little bit of nasty, a little bit of nice.
 A little bit of how it's s'posed to be:
-A little bit of life. 
+A little bit of life.
 
 I breath in, I breath out.
 Yeah. sleepin' all night with the windows down.
 Up in the mornin', stirrin' around.
-Drink a pot of coffee an' I head off to town.
+Drink a pot of coffee and I head off to town.
 Work, work, work, all day long,
 Crank it up, back it up, bring it on home,
-Supper on the table an' I eat me a bite,
+Supper on the table and I eat me a bite,
 Then we snuggle on the porch by the pale moonlight,
-A little bit of me an' you doin' all right:
+A little bit of me and you doin' all right:
 A little bit of life.
 
 A little bit of tractor, a little bit of farm.
-A little bit of cornfield, an' a little bit of barn.
+A little bit of cornfield, and a little bit of barn.
 A little bit of c'mon, a little bit of play.
 A little bit of "yee-haw" in the hay.
 A Dixie cup of home-made wine:
@@ -96,12 +96,12 @@ A little bit of life.
 I breath in, I breath out.
 Yeah. sleepin' all night with the windows down.
 Up in the mornin', stirrin' around.
-Drink a pot of coffee an' I head off to town.
+Drink a pot of coffee and I head off to town.
 Work, work, work, all day long,
 Crank it up, back it up, bring it on home,
-Supper on the table an' I eat me a bite,
+Supper on the table and I eat me a bite,
 Then we snuggle on the porch by the pale moonlight,
-A little bit of me an' you doin' all right:
+A little bit of me and you doin' all right:
 A little bit of life.
 
 A little bit of back-porch, a little bit of swing.
@@ -114,25 +114,25 @@ A little bit of life.
 I breath in, I breath out.
 Yeah. sleepin' all night with the windows down.
 Up in the mornin', stirrin' around.
-Drink a pot of coffee an' I head off to town.
+Drink a pot of coffee and I head off to town.
 Work, work, work, all day long,
 Crank it up, back it up, bring it on home,
-Supper on the table an' I eat me a bite,
+Supper on the table and I eat me a bite,
 Then we snuggle on the porch by the pale moonlight,
-A little bit of me an' you doin' all right:
+A little bit of me and you doin' all right:
 A little bit of life.
 
-A little bit of me an' you doin' all right:
+A little bit of me and you doin' all right:
 A little bit of life.
 Yeah, a little bit of life.
 
 A little bit of guitar; a little bit of truck.
 A little bit of hound-dog, a little bit of luck.
 A little bit of back-seat, a little bit of moon.
-A little bit of radio: boom, boom, boom. 
+A little bit of radio: boom, boom, boom.
 A little bit of bacon, a little bit of beans;
-A little bit of you lovin' up on me. 
-A little bit of c'mon, a little bit of play. 
+A little bit of you lovin' up on me.
+A little bit of c'mon, a little bit of play.
 A little bit of yee-haw in the hay!
 
 

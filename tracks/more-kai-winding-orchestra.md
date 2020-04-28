@@ -72,7 +72,7 @@ Pd... Musik: Riz Ortolani; Nino Oliviero ℗1962
 Lyrik Ilia: Marcello Ciorciolini ...Pd
 Lyrik Eng: Norman Newell ...Pd
 Pd... ®Cv1963; Us#x; Uk#x ...Pd
-Pd...  ...Pd
+Pd... ...Pd
 ...Pd...
 Pd... Musik: Riz Ortolani; Nino Oliviero ℗1962
 Lyrik Ilia: Marcello Ciorciolini ...Pd

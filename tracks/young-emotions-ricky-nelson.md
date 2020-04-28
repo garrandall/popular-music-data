@@ -64,7 +64,7 @@ rankings:
 Young emotions are mixed emotions
 For it's a world where love and confusion reign
 A world of hope and laughter and tears and pain
-At  times a gentle breeze in a hurricane
+At times a gentle breeze in a hurricane
 A world full of doubt but love works it out
 
 Young emotions are strange emotions

@@ -38,7 +38,7 @@ rankings:
   start_date: '1994-12-31'
 ---
 Aw yeah!
-Ho!  Ho!  Ho!  Ho!  Ho!  Ho!  Ho!  Ho!
+Ho! Ho! Ho! Ho! Ho! Ho! Ho! Ho!
 Everybody one, two, three, four
 Everybody c'mon, whatchu waitin for?
 Five, six, seven, eight
@@ -55,7 +55,7 @@ The rhyme was def and then it went this way
 Apple to a cherry to a cherry to a plum
 Don't stop rockin 'til I get some
 It's up my back around my beck
-WOO-HAH!  I got the girl in check
+WOO-HAH! I got the girl in check
 It's up my back around my spine
 Dr. Dre c'mon, your turn to rhyme!
 
@@ -64,10 +64,10 @@ C'mon everybody let's all get down
 What we got it's a brand new sound
 So nobody out there be misled
 My name is Dr. Dre (and my name is Ed!)
-Look in the skies!  Look in the trees!
-Who do you see?  (D-R-E!)
-Look in the skies!  Look in the trees!
-Who do you see?  (D-R-E!)
+Look in the skies! Look in the trees!
+Who do you see? (D-R-E!)
+Look in the skies! Look in the trees!
+Who do you see? (D-R-E!)
 I'm not a preacher or a teacher or electrician
 Biter or fighter or a politician
 Some people say, I'm a turntable magician
@@ -78,9 +78,9 @@ And just throw your hands in the air
 And wave 'em like you just don't care
 And if you got on clean, underwear
 Somebody say, "Ohh yeah!"
-"Ohh yeah!"  All the ladies
+"Ohh yeah!" All the ladies
 All the ladies in the house say, "Owww!"
-"Owww!"  And you don't stop
+"Owww!" And you don't stop
 So c'mon Ed Lover let's rock the spot
 
 
@@ -138,16 +138,16 @@ And we got the rhymes that just won't stop
 One, two, three
 Hey you can smoke a spliff with a clip but you're still not
 HIGHHHHH enough, or wide enough to touch
-ME!  Cause I'm the Big E-D
+ME! Cause I'm the Big E-D
 And I'm rockin the house, in the place to be
 Uncle Ed, Future of the Funk
 Records are recorded minus all the junk
 You can stop but you can't come near
 Cause my name is Ed Lover and I had it up to here
-(Give it to 'em Ed!)  You got it
-(Give it to 'em Ed!)  Ed Lover!
-(Give it to 'em Ed!)  You got it
-(Give it to 'em Ed!)  Ed Lover!
+(Give it to 'em Ed!) You got it
+(Give it to 'em Ed!) Ed Lover!
+(Give it to 'em Ed!) You got it
+(Give it to 'em Ed!) Ed Lover!
 I said engine, engine, number nine
 On that New York transit line
 If my train goes off the track

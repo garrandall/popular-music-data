@@ -62,7 +62,7 @@ You used to live over yonder
 By the railroad track
 When it rained you couldn't walk
 I used to tote you on my back
-Now ...
+Now
 (something like: "you're tryin' to make believe
 It was for tears like that")
 Hello Josephine

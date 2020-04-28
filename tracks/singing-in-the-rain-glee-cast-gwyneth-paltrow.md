@@ -35,7 +35,7 @@ Baby, 'cause in the dark
 You can't see shiny cars
 And that's when you need me there
 With you I'll always share
-'Cause I...
+'Cause I
 
 I'm singin' in the rain (We'll shine together)
 Just singin' in the rain (We'll be forever)
@@ -55,7 +55,7 @@ When the world has took its part
 When the world has dealt its cards
 If the hand is hard
 Together we'll mend your heart
-'Cause I...
+'Cause I
 
 I'm singin' in the rain (We'll shine together)
 Just singin' in the rain (We'll be forever)

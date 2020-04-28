@@ -131,7 +131,7 @@ Look in the duffle bag
 See Benjamin's head on the cash
 
 
-I got new shoes  on my ride (Yes, sir)
+I got new shoes on my ride (Yes, sir)
 Rolling down 95 (Yes, sir)
 And you can see in my eyes (Yes, sir)
 That I'm looking for a cutie pie (Yes, sir)
@@ -166,7 +166,7 @@ Yes, sir the game is off the map
 You give it to them one time and they come back like addicts
 
 
-I got new shoes  on my ride (Yes, sir)
+I got new shoes on my ride (Yes, sir)
 Rolling down (Yes, sir)
 And you can see in my eyes (Yes, sir)
 That I'm looking for a cutie pie (Yes, sir)
@@ -203,7 +203,7 @@ The block was thick no questions asked
 So I jumped out the white Jag smooth like Shaft, come here girl
 
 
-I got new shoes  on my ride (Yes, sir)
+I got new shoes on my ride (Yes, sir)
 Rolling down (Yes, sir)
 And you can see in my eyes (Yes, sir)
 That I'm looking for a cutie pie (Yes, sir)

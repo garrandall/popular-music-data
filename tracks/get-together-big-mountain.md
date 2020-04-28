@@ -122,4 +122,4 @@ Smile on your brother
 Everybody get together
 Try to love one another right now
 Right now
-Right now...
+Right now

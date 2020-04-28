@@ -82,7 +82,7 @@ Anywhere if you think you have to be can wait
 
 So why don't you stay with me?
 Share all your secrets tonight
-We can make believe the morning sun  never will rise
+We can make believe the morning sun never will rise
 Come and lay your head on this big brass bed
 And we'll be alright as long as you stay with me, yeah
 

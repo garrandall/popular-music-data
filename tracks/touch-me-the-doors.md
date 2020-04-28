@@ -85,7 +85,7 @@ What was that promise that you made?
 Now, I'm going to love you
 Till the heavens stop the rain
 I'm going to love you
-Till the stars fall from the sky for you and  I
+Till the stars fall from the sky for you and I
 
 I'm going to love you
 Till the heavens stop the rain

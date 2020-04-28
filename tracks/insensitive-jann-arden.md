@@ -187,7 +187,7 @@ Insensitive
 
 How do you numb your skin, after the warmest touch?
 How do you slow your blood, after the body rush?
-How do you free your soul, after you've found a friend?  
+How do you free your soul, after you've found a friend?
 How do you teach your heart it's a crime to fall in love again?
 
 Oh, you probably won't remember me

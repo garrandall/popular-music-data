@@ -137,7 +137,7 @@ They feel so good it's frightening
 Wish I could
 Stop this world from fighting
 Da-da-da-da-da, da-da-da-da-da-da
-Da-da-da-da-da-da, la-da-da, da-da-da-da, da-da-da-da-da-da...
+Da-da-da-da-da-da, la-da-da, da-da-da-da, da-da-da-da-da-da
 
 
 

@@ -131,7 +131,7 @@ I like my stuff knockin' (Knockin')
 I love it when the girlies be like jockin' (Jockin')
 The D-A-double D-Y-M-A-C
 Yeah, you know me
-I got you jumpin' an' bumpin' an' pumpin' movin' all around, G
+I got you jumpin' and bumpin' and pumpin' movin' all around, G
 In the mix, I made MC's step back
 They tried to step to the Mac then they got jacked
 To the back you'll be sportin' the gear; is that coincidental?

@@ -33,22 +33,20 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-12-08'
 ---
-Gimme that hand clap (lemme get that hand clap) (x4)
+Gimme that hand clap (lemme get that hand clap)
 Now Rick James with it
-Gimme that hand clap (lemme get that hand clap) (x3)
-
+Gimme that hand clap (lemme get that hand clap)
 
 1 for the money, 2 for the show
 Clap your hands if you got a bankroll
 1 for the money, 2 for the show
 Clap your hands if your money don't fall
 
-
 Lemme get that hand clap, lemme get that hand clap
 Hey they pulled me out the club cause I ain't know how to act
 But I ain't really trippin, we fin' to sneak through the back
 And I got somethin like a grenade for them haters who wanna jack
-(SCREWW!) Here we go me and my click
+(Screw!) Here we go me and my click
 Yeah I'm shinin like a light I got them diamonds on my wrist
 Lemme get a hand clap, hand clap
 Lil' mama breath stank so I told her bad back

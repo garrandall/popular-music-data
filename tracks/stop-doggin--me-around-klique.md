@@ -53,14 +53,14 @@ Cause if you don't stop, I'm gonna put you down
 I can't take it much longer
 My heart's getting weak, it's not getting any stronger
 You keep me so upset, my head's in a whirl
-But, if you wanna,  if you wanna be my girl
+But, if you wanna, if you wanna be my girl
 
 You better stop, girl, doggin' me around (You better stop it)
 Stop it, baby (You better stop it)
 Cause if you don't stop, I'm gonna have to put you down
 
-You go out at night and  have yourself a ball
-Sometimes you don't, you don't  make it home at all
+You go out at night and have yourself a ball
+Sometimes you don't, you don't make it home at all
 I don't mind you having yourself a real good time
 But now whatcha trying to do, trying to make me lose my mind
 

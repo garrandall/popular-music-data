@@ -43,7 +43,7 @@ Maybe, baby you'll stay, you'll stay, oh, one more day
 I need, I need you, I need you, baby
 I need you, baby, one more hour
 Oh yeah, I need you, oh I need you
-Ohbaby, now, now, now, now, now, now, now, now, now one more day
+Oh baby, now, now, now, now, now, now, now, now, now one more day
 Oh yeah, I need you, baby, I need you
 I need you, I need you, I need you one more hour
 Yeah, yeah, yeah, yeah, yeah

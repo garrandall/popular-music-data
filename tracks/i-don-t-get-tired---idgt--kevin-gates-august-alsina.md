@@ -45,7 +45,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2015-07-04'
 ---
-I was tryna  get it how I live
+I was tryna get it how I live
 I want them dead presidents
 I wanna pull up, head spin
 Get it, get fly, I got six jobs, I don't get tired
@@ -73,7 +73,7 @@ At the awards I ain't win no awards
 Only meaning one thing, don't get tired, I go hard
 
 
-I was tryna  get it how I live
+I was tryna get it how I live
 I want them dead presidents
 I wanna pull up, head spin
 Get it, get fly, I got six jobs, I don't get tired
@@ -101,7 +101,7 @@ Look to the right and I give her a glance
 Pray to God we don't, pray to God we don't crash
 
 
-I was tryna  get it how I live
+I was tryna get it how I live
 I want them dead presidents
 I wanna pull up, head spin
 Get it, get fly, I got six jobs, I don't get tired
@@ -121,7 +121,7 @@ Don't mimic pretenders, just be who you are
 Get it, get fly, I got six jobs, I don't get tired
 
 
-I was tryna  get it how I live
+I was tryna get it how I live
 I want them dead presidents
 I wanna pull up, head spin
 Get it, get fly, I got six jobs, I don't get tired

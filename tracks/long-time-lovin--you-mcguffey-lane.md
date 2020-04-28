@@ -41,7 +41,6 @@ I noticed your voice it sounded strange
 Everything is fine that's what you told me
 But I can tell that some things changed
 
-Chorus
 It's been a long time loving you
 Long time learnin' to
 Know exactly how you feel inside
@@ -53,5 +52,16 @@ Now them old road un-took it's toll
 I can't blame you for not believing
 In a man you only see your unfold
 
-Chorus (x2)
-Goodbye, Goodbye, Goodbye, Goodbye, Goodbye, Goodbye...
+It's been a long time loving you
+Long time learnin' to
+Know exactly how you feel inside
+I knew yesterday what your gonna say tomorrow
+Let me say it for you, goodbye
+
+It's been a long time loving you
+Long time learnin' to
+Know exactly how you feel inside
+I knew yesterday what your gonna say tomorrow
+Let me say it for you, goodbye
+
+Goodbye, Goodbye, Goodbye, Goodbye, Goodbye, Goodbye

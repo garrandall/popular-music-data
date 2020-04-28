@@ -93,7 +93,7 @@ And now I'm wondering why
 I keep comin' back 'til I can't take no more
 
 Who needs somebody like you?
-I don't need nobody to waste my time. ...
+I don't need nobody to waste my time.
 
 Who needs somebody like you?
-I don't need nobody to tell my lies. ...
+I don't need nobody to tell my lies.

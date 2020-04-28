@@ -130,7 +130,7 @@ Fi make yuh choo-choo like a
 
 I'm di doctor, not a heart breaker
 I'm a love maker fi lovin', I'm not a shaper
-She are di woman an' me are di man an'
+She are di woman and me are di man an'
 She's like the patient in the doctor's hand
 It's like a computer social program
 Go tell di world, she want a lovin' man

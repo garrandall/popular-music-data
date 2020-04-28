@@ -105,7 +105,7 @@ I'll meet you in the VIP
 
 
 Oh you sizzling, let me lay you on the floor
-I'm a bad boy, just thought i'd let you know
+I'm a bad boy, just thought I'd let you know
 These are the thoughts running through my mind
 Cause I'm so curious yeah
 Couple more shots then we out the door

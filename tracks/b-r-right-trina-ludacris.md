@@ -161,7 +161,7 @@ bitches, I works for mine.
 
 one time, for these divas,
 two times, for these visas,
-third time I come im breezin,
+third time I come I'm breezin,
 the ice...just keeps on freezin.
 
 hold up imma keep it goin,
@@ -176,14 +176,14 @@ pussy power, we in control.
 
 
 
-yea, thas right...im back again...round two mother fuckers.  thas rite im
-talkin greece.  im a arrogant lil mother fucker huh?  thas rite im rich, im
-that bitch, thas rite.  im about show yall how to pimp this shit.  im fuckin
-niggas in the face, the game is mine 2003, fuck that.  fuck all yall haters,
-fuck all yall bitches, get a life.  you got too much time on your hands.  i
+yea, thas right...im back again...round two mother fuckers. thas rite im
+talkin greece. I'm a arrogant lil mother fucker huh? thas rite I'm rich, im
+that bitch, thas rite. I'm about show yall how to pimp this shit. I'm fuckin
+niggas in the face, the game is mine 2003, fuck that. fuck all yall haters,
+fuck all yall bitches, get a life. you got too much time on your hands. i
 want yall bitches to get a job, up your game. pimp your game up baby, its
-all about me this time, fuck that.  fuck a dime, im a silva dolla, holla.
-catch me when I come off tour, fuck yall.  im out.
+all about me this time, fuck that. fuck a dime, I'm a silva dolla, holla.
+catch me when I come off tour, fuck yall. I'm out.
 
 
 

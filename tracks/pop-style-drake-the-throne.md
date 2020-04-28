@@ -132,7 +132,7 @@ We went way, way past the line of scrimmage, aye
 Throne is back up in it, aye
 In the field like Emmitt, aye, y'all get so offended, aye
 I be blacking out, I ain't backing out
-Jay about his business, and I'mma let you finish but I...
+Jay about his business, and I'mma let you finish but I
 I just, I just, I just, I just wanna rock your body
 Take you to the garage and do some karate
 Chop it, chop it, chop it, chop it sipping sake

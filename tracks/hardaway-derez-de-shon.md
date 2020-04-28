@@ -69,7 +69,7 @@ Young Penny Hardaway (yeah), in the skillet whippin' magic (hey)
 Bad bitches, bad habits (hey), yeah, that money gotta have it (hey)
 I used to dream of livin' lavish (hey), now a nigga livin' lavish (hey)
 Buy a foreign whip to see what's fastest (hey), if I ain't eatin' then I'm fastin', yeah
-Fat as fuck, bought a coupe just to see if I can fit in  (fit in it, fit in it)
+Fat as fuck, bought a coupe just to see if I can fit in (fit in it, fit in it)
 It didn't work, so I gave it to one of my bitches (bitches)
 I should've just bought a Bentley (for real), guess what I did? (ugh)
 Woke up the next day, went and bought a Bentley (for who?)

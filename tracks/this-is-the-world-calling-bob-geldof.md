@@ -39,14 +39,14 @@ It must come from somewhere deep inside of us
 And the operator says:
 
 
-"All is calm an' all is quiet
-Close your eyes an' sleep tonight"
+"All is calm and all is quiet
+Close your eyes and sleep tonight"
 
 
-This is the world calling (All is calm an' all is quiet)
-This is Earth (Close your eyes an' sleep tonight)
-This is the world calling (All is calm an' all is quiet)
-This is us (Close your eyes an' sleep tonight)
+This is the world calling (All is calm and all is quiet)
+This is Earth (Close your eyes and sleep tonight)
+This is the world calling (All is calm and all is quiet)
+This is us (Close your eyes and sleep tonight)
 
 
 I'm on a train now

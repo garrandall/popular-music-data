@@ -111,7 +111,7 @@ Day to Day with you it's always something else
 Working my nerve God knows I don't deserve
 What you put me through cause I been so true to you
 For you to come at me with another lame excuse
-See I ...
+See I
 
 Heard it all before (heard it all before)
 All of ya lies, all of ya sweet talk
@@ -134,7 +134,7 @@ That would persuade me to stay with you another day
 You have crossed the line to the point of no return
 What you do from here on out
 I am no longer concerned
-See I...
+See I
 
 Heard it all before (heard it all before)
 Let me explain, baby, it's not what you think, that's what you said to me

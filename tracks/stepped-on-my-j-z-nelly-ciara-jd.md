@@ -121,7 +121,7 @@ A different color
 Is a must
 But Uh..
 Its ALL GOOD till I get my 1st scuff
-And im like
+And I'm like
 
  2s
 Hell Naw ain tno way
@@ -150,7 +150,7 @@ They'll be here any minute, man..
 See, I got that that connect
 That I can damn near get like anything
 Pose on em, Then imma stroll on em..
-I call my hook up at the store like put a hold on em...
+I call my hook up at the store like put a hold on em
 Them Carolina number 9's Matching patten Leather wrist band, Patten Leather number 11's..
 We call em 'Space Jams'..
 You in my Space, man

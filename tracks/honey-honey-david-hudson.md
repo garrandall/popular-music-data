@@ -54,7 +54,7 @@ rankings:
 ---
 Hm
 Yeah
-Honey, honey, girl you know i'm gonna get ya
+Honey, honey, girl you know I'm gonna get ya
 Honey, honey, you know that I gotta get with ya
 We've been kissing and touching
 I'm burning through and through

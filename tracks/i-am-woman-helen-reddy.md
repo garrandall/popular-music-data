@@ -98,7 +98,7 @@ rankings:
 ---
 I am woman, hear me roar
 In numbers too big to ignore
-And I know too much to go back an' pretend
+And I know too much to go back and pretend
 Cause I've heard it all before
 And I've been down there on the floor
 No one's ever gonna keep me down again

@@ -31,7 +31,7 @@ rankings:
 
 Hey baby, tell me why you hangin 'round
 Ain't got time for kissin I'm too busy messin in this town
-All you pretty women, you're so far an' in between
+All you pretty women, you're so far and in between
 I don't need no fancy types I need the ones that's clean
 
 Hey baby, jump into the back of my Ford
@@ -44,7 +44,7 @@ Yes I will
 
 Hey baby, jump into the back of my car
 I'm gonna kiss and hug you baby I'm gonna steal your heart
-All you pretty women, you're so far an' in between
+All you pretty women, you're so far and in between
 I don't need no fancy types I need the ones that's clean
 
 Hey baby, I don't want you hangin 'round
@@ -60,7 +60,7 @@ Here we go
 
 Hey baby, tell me why you hangin 'round
 Ain't got time for nothin steady I'm too busy runnin 'round
-All you pretty women, you're so far an' in between
+All you pretty women, you're so far and in between
 I don't need no fancy types I need the ones that's clean
 
 Hey baby, jump into the back of my car

@@ -44,7 +44,7 @@ You got my mind in a ball and chains
 Your good love is driving me insane
 Like a moth I can't avoid the flames, sweet darlin'
 I'd walk a mile just to see your face
-And you can  in your embrace
+And you can in your embrace
 'Cause when you smile I'm a hopeless case, sweet darlin'
 
 Hm hm-mm-mmm, hm hm (sweet darlin')
@@ -72,7 +72,7 @@ You've got my mind in a ball and chains
 Your good love is driving me insane
 Like a moth I can't avoid the flames, sweet darlin'
 I'd walk a mile just to see your face
-And you can  in your embrace
+And you can in your embrace
 'Cause when you smile I'm a hopeless case, sweet darlin'
 
 Hm hm-mm-mmm, (sweet darlin')

@@ -103,7 +103,7 @@ Sop afraid my friends would see the guilt in me
 Don't think that I don't need you
 Don't think I don't wanna please you
 No child of mine 'll be bearing
-The name of shame i've been wearing
+The name of shame I've been wearing
 Love child, love child, never quite as good
 Afraid, ashamed, misunderstood
 But i'll always love you

@@ -97,4 +97,4 @@ All alone in a great big world
 Everybody knows Matilda
 Everybody knows Matilda
 Everybody knows Matilda
-Everybody knows Matilda...
+Everybody knows Matilda

@@ -64,4 +64,4 @@ Well you know that it's a shame and a pity
 You were raised up in the city
 And you never learned nothing 'bout country ways
 Oh 'bout country ways, oh 'bout country ways
-Yeah about country ways, oh country ways ...
+Yeah about country ways, oh country ways

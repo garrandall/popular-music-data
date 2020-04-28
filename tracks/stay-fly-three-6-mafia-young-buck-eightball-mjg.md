@@ -141,7 +141,7 @@ DJ Paul is a dog, one you do not trust
 You leave your green around me, nigga your green gonna get lit up
 You leave your drank around me, believe your drank gonna get drunk up
 You leave your girl around me, if she bad she gonna get stuck
-These niggas is spies, we live them lives and  keep them eyes tight
+These niggas is spies, we live them lives and keep them eyes tight
 Riding 'round what they like
 Make a couple nuns, a couple of dykes
 So purple, purple, purple & swallow it down with

@@ -85,8 +85,8 @@ I can't take it no more
 Its your time to cry - oh its your time to cry
 
 Mmh mmh, its all over - your time to cry, its all over
-Your time to cry, its all over ...
+Your time to cry, its all over
 Its all over - its all over
 Im walking out the door tonight, can't stand it no longer
 I can't stand it hear the telephone ring, its breaking my heart
-Im leaving home ...
+Im leaving home

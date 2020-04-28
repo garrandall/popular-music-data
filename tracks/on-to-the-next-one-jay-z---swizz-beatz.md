@@ -64,11 +64,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2010-05-01'
 ---
-
-
-(Intro: Swizz Beatz) + (Jay-Z)
-I got a million ways to get it (uh-huh, geah)
-... Choose one (choose one, hey)
+I got a million ways to get it (uh-huh)
+Choose one (choose one, hey)
 Ay, bring it back, bring it back (uh-huh)
 Now double your money and make a stack
 I'm on to the next one, on to the next one
@@ -78,7 +75,6 @@ I'm on to the next one, on to the next one
 (Hold up) Freeze! Ay!
 Somebody bring me back the money please, hey
 
-(Jay-Z)
 Hov' on that new shit, niggas like "How come?"
 Niggas want my old shit, buy my old album
 Niggas stuck on stupid, I gotta keep it movin
@@ -96,11 +92,10 @@ Can't be scared to fail, searchin perfection
 Gotta keep it fresh girl, even when we sexin
 But don't be mad at him when he's on to the next one
 
-(Chorus: Swizz Beatz)
 Freeze! Ay!
 Somebody bring me back the money please, hey
 I got a million ways to get it
-... Choose one
+Choose one
 Ay, bring it back, bring it back
 Now double your money and make a stack
 I'm on to the next one, on to the next one
@@ -110,9 +105,8 @@ I'm on to the next one, on to the next one
 (Hold up) Freeze! Ay!
 Somebody bring me back the money please, hey
 
-(Jay-Z)
 Fuck a throwback jersey cause we on to the next one
-And fuck that Auto-Tune cause we *onnnnn*
+And fuck that Auto-Tune cause we on
 And niggas don't be mad cause it's all about progression
 Loiterers should be arrested
 I used to drink Cristal, the muh'fucker's racist
@@ -129,9 +123,7 @@ Yeah I got on flip-flops, white Louie boat shoes
 Y'all should grow the fuck up, c'mere let me coach you
 Hold up
 
-(Chorus)
-(Jay-Z)
-Uhh, +Big Pimpin'+ in the house now
+Uhh, Big Pimpin' in the house now
 Bought the land, tore the muh'fuckin house down
 Bought the car, tore the muh'fuckin roof off
 Ride clean, I don't ever take the shoes off
@@ -148,6 +140,3 @@ Drinkin quarter waters, I gotta be the best
 M.J. at Summer Jam, Obama on the text
 Y'all should be afraid of what I'm gon' do next
 Hold up
-
-(Chorus)
-Edited by Dean Jones

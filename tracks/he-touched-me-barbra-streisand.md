@@ -58,7 +58,7 @@ He knew it...
 It wasn't accidental, no,
 He knew it
 He smiled and seem to tell me so all through it
-He knew it, I know...
+He knew it, I know
 He's real, and the world is alive and shining
 I feel such a wonderful drive toward valentining
 He touched me, I simply have to face the fact

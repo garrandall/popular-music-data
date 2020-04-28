@@ -72,7 +72,7 @@ Oh, oh, oh
 Lovin' you no more
 I just, I can't, I just can’t be lovin' you no more (I can't)
 I love you more than I love myself
-Lovin' you no more  (I can't) (Diddy)
+Lovin' you no more (I can't) (Diddy)
 I just, I can't, I just can’t be lovin' you no more (no, no, baby) (Drizzy baby, uh uh)
 I love you more than I love myself
 

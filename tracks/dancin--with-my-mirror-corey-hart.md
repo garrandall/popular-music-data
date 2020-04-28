@@ -74,7 +74,7 @@ Oh, no, oh, no, no, no
 So I turn surprised
 Reflections from behind
 And then I gaze to the sublime
-Said na na na na na na...
+Said na na na na na na
 
 Dancing with my mirror
 Dancing, bring me nearer to you

@@ -16,7 +16,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
 ---
-La la la la...
+La la la la
 
 Now that I've lost everything to you
 You say you wanna start something new
@@ -49,7 +49,7 @@ A lot of bad and beware
 
 (CHORUS)
 
-La la la la...
+La la la la
 
 But if you wanna leave
 Take good care

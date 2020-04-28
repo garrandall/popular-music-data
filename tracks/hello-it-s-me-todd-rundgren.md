@@ -88,7 +88,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
 ---
-Just gimme a...
+Just gimme a
 Gimme a break for a second
 2,3 ... 1, 2, 3 ... 1, ah-2,, ah-1, 2, 3
 

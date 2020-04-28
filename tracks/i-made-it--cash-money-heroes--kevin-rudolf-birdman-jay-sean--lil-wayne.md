@@ -103,7 +103,7 @@ I've known it all my life
 I made it, I made it
 
 I used to dream about
-The life i'm living now
+The life I'm living now
 I know that there's no doubt
 I made it, I made it
 
@@ -154,7 +154,7 @@ I MADE IT
 I MADE IT
 
 I used to dream about
-The life i'm living now
+The life I'm living now
 I know that there's no doubt
 I made it, I made it
 
@@ -174,7 +174,7 @@ Then they calling my name
 Now looked who cashed in
 They didn't wanna know me back then
 
-But ever since i've gone platinum
+But ever since I've gone platinum
 Everything turned around
 And now the sky is falling down
 
@@ -183,7 +183,7 @@ And now the world is mine (mine)
 I've known it all my life (ooho ooho)
 I made it, I made it
 
-I used to dream about, the life i'm living now
+I used to dream about, the life I'm living now
 I know that there's no doubt (ooho)
 I made it, I made it
 
@@ -217,7 +217,7 @@ I've known it all my life
 I made it, I made it
 
 I used to dream about
-The life im living now
+The life I'm living now
 I know that there's no doubt
 I made it, I made it
 

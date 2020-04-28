@@ -70,7 +70,7 @@ rankings:
 ---
 
 Saying "I love you"
-Just sayin'  "I love you"
+Just sayin' "I love you"
 
 Yesterday's songs
 Don't stay around long
@@ -83,8 +83,8 @@ Baby, yesterday's blues
 May be yesterday's news
 But the truth always stays the same
 And the good things will never change
-Like sayin'  "I love you"
-Just sayin'  "I love you"
+Like sayin' "I love you"
+Just sayin' "I love you"
 
 Yesterday's songs
 Don't seem to belong
@@ -97,17 +97,17 @@ Maybe yesterday's rhyme
 Was for yesterday's time
 And the future's not ours to see
 But there's some things that always will be
-Like sayin'  "I love you"
-Sayin'  "I love you"
+Like sayin' "I love you"
+Sayin' "I love you"
 
 Baby, yesterday's blues
 May be yesterday's news
 But the truth always stays the same
 And the good things will never change
-Like sayin'  "I love you"
-Just sayin'  "I love you"
-Sayin'  "I love you"
-Like sayin'  "I love you"
+Like sayin' "I love you"
+Just sayin' "I love you"
+Sayin' "I love you"
+Like sayin' "I love you"
 
 
 

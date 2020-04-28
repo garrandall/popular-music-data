@@ -57,13 +57,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-10-09'
 ---
-Featuring Meja
-
 Hap hap hap hap
 (Found me a new day)
-(Repeat twice)
 
-(Chorus)
 Happy is
 Happy is
 Hap hap happy
@@ -104,7 +100,6 @@ Oh what we are
 
 Hap hap hap hap
 (Found me a new day)
-(Repeat three times)
 
 Believe in what we had
 
@@ -129,7 +124,6 @@ We are
 
 
 Yeah yeah
-
 
 Happy is what we are
 

@@ -48,7 +48,7 @@ I jus' squeeze and squeeze 'til the whole clip done!
 You jus' bleed and bleed till the police come! - Huh? You want some?
 
 
-I got a 8th of dope left  half a pound of purple
+I got a 8th of dope left half a pound of purple
 Shooters in my circle! - TRY ME I let 'em murk you!
 Got more guns than a gun store, beefin' what you want boy
 You wan' be nice to me?! - You wan' shoot dice with me?!

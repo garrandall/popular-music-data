@@ -79,7 +79,7 @@ It's for free.
 
 Ride, my see-saw.
 Ride, ride, ride, my see-saw.
-Ride, my see-saw...
+Ride, my see-saw
 
 
 

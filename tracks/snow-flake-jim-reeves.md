@@ -33,7 +33,7 @@ rankings:
   start_date: '1966-02-19'
 ---
 
-Hey-ey-ey  snowflake
+Hey-ey-ey snowflake
 My pretty little snowflake
 Oh, oh, the change in the weather
 Has made it better for me.

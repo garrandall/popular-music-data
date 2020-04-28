@@ -50,7 +50,6 @@ Ah danger senses please beware, it's so unfair
 That I'm paying such a heavy price
 By looking at the garments, that you wear so well
 
-(Chorus)
 I won't kiss you if you want me to
 It's much too easy with someone like you
 In the rain or a winters night
@@ -64,7 +63,6 @@ You know it's true
 Of all things the thing that I want most
 To catch you at the point where you don't have a clue
 
-(Chorus)
 I won't kiss you if you want me to
 It's much too easy with someone like you
 In the rain or a winters night
@@ -74,7 +72,6 @@ I'll kiss you then and only then
 I'll kiss you when it's dangerous
 I'll kiss you once, but never again...
 
-(Chorus)
 I won't kiss you if you want me to
 It's much too easy with someone like you
 In the rain or a winters night
@@ -87,12 +84,6 @@ I'll kiss you when it's dangerous
 I'll kiss you then and only then
 I'll kiss you when it's dangerous
 
-Senses beware (Back vocals)
-
 I'll kiss you when it's dangerous
 I'll kiss you then and only then
 I'll kiss you when it's dangerous
-
-Senses beware (Back vocals)
-
-©1986 PolyGram Records,Inc

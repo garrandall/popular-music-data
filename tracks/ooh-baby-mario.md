@@ -3,8 +3,8 @@ artists:
 - Mario
 features: []
 genres: []
-key: ohbaby-mario
-lyrics_url: https://genius.com/Mario-ohbaby-lyrics
+key: oh baby-mario
+lyrics_url: https://genius.com/Mario-oh baby-lyrics
 name: OhBaby
 rankings:
 - end_date: '2010-04-02'

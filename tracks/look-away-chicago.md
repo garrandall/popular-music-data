@@ -111,7 +111,7 @@ I'm really happy for you"
 Found someone else
 I guess I won't be coming around
 I guess it's over, baby
-It's really over, baby, whoa...
+It's really over, baby, whoa
 And from what you saying
 I know you've gotten over me
 It'll never be the way it used to be
@@ -136,7 +136,7 @@ Yeah, that's how it had to be
 I tell you I'm fine
 But sometimes I just pretend
 Wish you were holding me
-Wish you were still holding me, whoa...
+Wish you were still holding me, whoa
 I just never thought
 That I would be replaced so soon
 I wasn't prepared to hear those words from you

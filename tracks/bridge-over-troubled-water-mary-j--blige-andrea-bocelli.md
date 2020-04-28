@@ -17,7 +17,7 @@ rankings:
 Sei hai paura
 Piangera'
 E dentro gli'occhi tuoi
-La ...
+La
 Il correrera'
 E' l'asiugero'...
 Il sole rivertrai

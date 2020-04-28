@@ -55,7 +55,7 @@ Why don't you lend your tender touch
 I got to have it now
 
 (Verse 3)
-Stand there, shakin' yo' head ohbaby
+Stand there, shakin' yo' head oh baby
 Ease on away from my bed
 That girl's gonna' die if you can't fight it
 A note to yourself, you're the victim now

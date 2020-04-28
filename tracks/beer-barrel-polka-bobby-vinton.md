@@ -82,7 +82,7 @@ La-la-la-la-la, la-la-la-la-la-la-la
 Hey, hey, SHAKE!
 La-la-la-la-la, la-la-la-la-la-la-la
 Hey, hey, hey
-La-la ...
+La-la
 
 
 

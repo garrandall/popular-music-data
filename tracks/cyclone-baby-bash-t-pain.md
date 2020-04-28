@@ -178,13 +178,13 @@ Because she moves her body like a cyclone
 A mighty cyclone
 
 (It's a wrap)
-When she  breaks them boys of a typhoon
+When she breaks them boys of a typhoon
 (It's a wrap)
 Better get that fatty like a boss tycoon
 (It's a wrap)
 Now hold it steady cause she make a monsoon
 (it's a wrap)
-Now you can Google download the  iTunes
+Now you can Google download the iTunes
 She what I'm saying
 She ain't playing
 And she got them heads turning

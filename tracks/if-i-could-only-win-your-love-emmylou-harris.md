@@ -39,7 +39,7 @@ I'd give my all to make it live
 You'll never know how much I give
 If I could only win your love
 
-Oh how can I  ever say
+Oh how can I ever say
 How I crave your love when your gone away
 Oh how can I ever show
 How I burn inside when you hold me tight
@@ -49,7 +49,7 @@ I'd give my all to make it live
 You'll never know how much I give
 If I could only win your love
 
-Oh how can I  ever say
+Oh how can I ever say
 How I crave your love when your gone away
 Oh how can I ever show
 How I burn inside when you hold me tight

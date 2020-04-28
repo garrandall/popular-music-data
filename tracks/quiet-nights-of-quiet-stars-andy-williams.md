@@ -38,7 +38,7 @@ My world was dull each minute until I found you in it
 And all at once the happiness I knew,
 Became these quiet nights of loving you!
 
-Hm...
+Hm
 
 
 

@@ -73,7 +73,7 @@ The way I stayed cool, tried to ignore you
 But I knew there was nobody but you
 The way you hold me it really shows me
 You got a hold on me you drive me crazy
-Girl its what you do, im so into you
+Girl its what you do, I'm so into you
 Your the reason why its all about
 
 
@@ -88,7 +88,7 @@ Its all about the way you talk to me
 Girl you know what I mean
 Said I want you theres nobody who can love me like you do
 Nobody
-Girl its what you do im so into you
+Girl its what you do I'm so into you
 Your the reason why its all about you
 
 

@@ -32,9 +32,9 @@ And I'll be chasin' it all night long (don'tcha wanna live)
 
 I get out--I roam through the streets like a tiger
 Let it out--I swing like a bird on a wire
-Everywhere you go everybody knows--oh don'tcha know...
+Everywhere you go everybody knows--oh don'tcha know
 Everythin' you do--anybody new--they're all on to you...
-Fight for your life--turn it all around 
+Fight for your life--turn it all around
 The art of survival isn't gettin' me down
 
 And I'll be chasin' it all night long (don'tcha wanna live)

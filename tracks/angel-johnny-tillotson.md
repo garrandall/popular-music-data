@@ -50,4 +50,4 @@ Oh oh earth angel earth angel please be mine
 My darling dear love you all the time
 I'm just a fool a fool in love with you
 
-I fell for you and I knew...
+I fell for you and I knew

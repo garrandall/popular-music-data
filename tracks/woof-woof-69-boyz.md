@@ -98,9 +98,9 @@ Then I cut and chit chat, y'all where ya at? Where ya at?
 1- Woof woof
 Where ya at? Where ya at?
 Woof woof
-Where ya at?  Where ya at?
+Where ya at? Where ya at?
 Woof woof
-Where ya at?  Where ya at?  Where ya at?
+Where ya at? Where ya at? Where ya at?
 
 Repeat 1
 Repeat 1
@@ -115,7 +115,7 @@ They bark is worse than their bite
 This for the dogs to get (high)
 Here's one that I love
 Say, yo, ladies? (Yeah?)
-Whassup?  I know y'all 'bout to give up
+Whassup? I know y'all 'bout to give up
 Light the 36 and tear the club up
 If ya wit me dance a lil' bit
 I know y'all lad' come to chill

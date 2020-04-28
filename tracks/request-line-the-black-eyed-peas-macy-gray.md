@@ -60,7 +60,7 @@ Play the record by my favorite band
 I like to hear my favorite song on the radio
 So I called and requested on the radio
 Tell the DJ spin it on the mix show
-Make a brother feel like im down at the disco
+Make a brother feel like I'm down at the disco
 And we gonna keep it going like crisco
 Cuz the DJ grab the record by the fist full
 by the crate full, and we greatful
@@ -94,7 +94,7 @@ Like Macy Gray, Roots, and D'Angelo
 Mos Def, Les Nubians, and De La Soul
 I like them cuts with the soul and original
 Never afraid to be creative on your radio
-Spin my jam when im cruisin down the bario
+Spin my jam when I'm cruisin down the bario
 Turn my audio up, create a party yo
 (Hey DJ would you play ma song)
 And get ma rock get ma roll get ma hip-hop on

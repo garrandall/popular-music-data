@@ -107,7 +107,7 @@ Inferno's outdoors like they had back
 When Adolf Hitler was living in 1945
 Listen to me now, believe me
 Later on in the future look it up
-Where they say it?  Aint no more Constitution
+Where they say it? Aint no more Constitution
 In the event of a race war
 Places like operation heartbreak hotel
 Moments tear until air tight vents seat off despair

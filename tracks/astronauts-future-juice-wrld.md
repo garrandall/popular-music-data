@@ -53,7 +53,7 @@ I treat that s--t like a movie
 White bitch nerdy, her name Susie, uh
 The bitch head game go stupid, uh
 Birkin bag on my back hold the uzi, uh
-Two perc's to the face i'm booling
+Two perc's to the face I'm booling
 
 Blood in my hands, blood in my eyes
 Codeine in my cup, money on my mind

@@ -89,7 +89,7 @@ and I gotta try cuz anything possible,
 and you just might see things the way I do
 i just wanna get next to you, friends wit you
 burn hunids wake up in the bed wit chu
-i luv when  you walk how that body move,
+i luv when you walk how that body move,
 pardon my mouth IM just bein honest boo
 i would pay for air time just to vibe wit chu
 kisses and hugs till the next time you swing thru
@@ -99,12 +99,12 @@ kisses and hugs till the next time you swing thru
 (So many things) So many thing that I wanna do
 wanna kiss wanna touch wanna taste of you (Wanna taste of you...oo)
 Cuz I only wanna be with you you, Girl you kno
-anything that cha need  I got it, Million dolla shoppin sprees I got it
+anything that cha need I got it, Million dolla shoppin sprees I got it
 anything that cha want I got it...You kno I got it (ask P) you kno I got it
 
 
 Ma, I want you in the worst way, and I aint thirsty or nuttin
-but when I say sumtin boo,  I go hard for the 1 (oo baby)
+but when I say sumtin boo, I go hard for the 1 (oo baby)
 Hit my cell, imma take you out to eat,
 and kill any misconception that you got of Mobb Deep
 throw that bug in ya ear and its about time
@@ -131,12 +131,12 @@ IM not that man I keep my gun on base
 
 And its a cold world,yah man don't undastand yah pain
 and I kno you gettin tired of the same ol' sayin
-he expect to keep you locked, wit that 5 cocked  rink
+he expect to keep you locked, wit that 5 cocked rink
 lets coop that ol real whil 112 sing
 
 
 0o anything you want and anything you need
-lets make this  tuff uff  and come wit mee hee
+lets make this tuff uff and come wit mee hee
 o0o anything anything you want and anything you need
 girl ill come running...
 

@@ -255,7 +255,7 @@ Say man, just ask her
 You can catch me man,
 Ridin with the top down in my red L430 man
 She sittin right there by my side
-All day you know what im talkin about
+All day you know what I'm talkin about
 
  Bow Wow
  (Me)

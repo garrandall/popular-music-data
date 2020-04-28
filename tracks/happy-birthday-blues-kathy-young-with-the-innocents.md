@@ -57,7 +57,7 @@ Thought for sure you'd write or call but you didn't after all
 Got the happy birthday blues (happy birthday blues)
 Maybe you had lots to do (oh-oh-oh)
 Or you found somebody new (oh-oh-oh)
-How I pray you'll hear my plea, i'm as lonely as can be
+How I pray you'll hear my plea, I'm as lonely as can be
 Got the happy birthday blues (happy birthday blues)
 I planned just how this day would be for such a long, long time
 You'd wish me "happy birthday" while I held your hand in mine

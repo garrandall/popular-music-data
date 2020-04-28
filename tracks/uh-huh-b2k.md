@@ -123,7 +123,7 @@ I'm the benz wit tha 20'z
 that you wanna drive
 I'm the thug in your life
 that'll treat you right
-got ya hooked cause im bringin everything you like uh huh
+got ya hooked cause I'm bringin everything you like uh huh
 
 I know that you wantin this (uh huh)
 tell me can you handle it (uh huh)
@@ -149,7 +149,7 @@ I'm the benz wit tha 20'z
 that you wanna drive
 I'm the thug in your life
 that'll treat you right
-got ya hooked cause im bringin everything you like uh huh
+got ya hooked cause I'm bringin everything you like uh huh
 
 I know that you wantin this (uh huh)
 tell me can you handle it (uh huh)
@@ -166,9 +166,9 @@ spit the game undercover
 I'm lethal like dannie glover
 got you runnin to your mother
 makin plans for life
-yo im only 15 what I need wit a wife
+yo I'm only 15 what I need wit a wife
 we can walk through the mall while I hold ya hips
-or you can hang out the drop while im pushin the whip
+or you can hang out the drop while I'm pushin the whip
 take you on a ride that you'll never forget
 runnin home tellin ya friends lil fizz is it
 got ya hooked by the way that I lick my lips

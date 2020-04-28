@@ -100,7 +100,7 @@ Sick with the bread, Lamborghini trucks topless
 Laptops with 100 gigabytes, ninja bikes
 And we all roll dice, for each other's ice
 And how does one guy multiply to more than five wise guys?
-But only one man, only the mind's eyes, can understand that I'm...
+But only one man, only the mind's eyes, can understand that I'm
 
 
 

@@ -124,7 +124,7 @@ I'm slicker this year
 To the queens everywhere
 To the whole S.I.
 To the lumpen mass
-Don't forget about your peeps when ya...
+Don't forget about your peeps when ya
 
 Now you see that I am 68 inches above sea level
 93 million miles above these devils

@@ -73,7 +73,7 @@ Who told y'all the party's over?
 Oh-eh-oh
 Well, it ain't over till I told y'all
 I feel my cup runnin' over
-Tomorrow I  might be sober
+Tomorrow I might be sober
 But oh, tonight, I'm like
 
 I fly High!

@@ -75,14 +75,14 @@ Baby, that's backatcha
 Oh, baby, that's tit for tat
 I'm givin' you this for that
 
-Baby, that's backatcha...
+Baby, that's backatcha
 
  and so, oh, baby, yeah
 What it is exactly, you don't know what it is
 So when you feel it, don't try to conceal it, no
 Just let it happen for you
 
-Baby, that's backatcha...
+Baby, that's backatcha
 
 
 

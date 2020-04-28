@@ -45,13 +45,13 @@ Makes you think perhaps that love, like youth, is wasted on the young
 Love's more comfortable the second time you fall
 Like a friendly home the second time you call
 Who can say what brought us to this miracle we've found?
-There are those who'll bet  love comes but once, and yet
+There are those who'll bet love comes but once, and yet
 I'm oh, so glad we met the second time around
 
 
 
 Who can say what brought us to this miracle we've found?
-There are those who'll bet  love comes but once, and yet
+There are those who'll bet love comes but once, and yet
 I'm oh, so glad we met the second time around
 
 

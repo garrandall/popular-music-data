@@ -21,7 +21,7 @@ At Christmas time
 
 But say a prayer, and pray for the other ones
 At Christmas time, it’s hard but while you’re having fun
-There’s a world outside your window  and it’s a world of dread and fear
+There’s a world outside your window and it’s a world of dread and fear
 Where a kiss of love can kill you and there’s death in every tear
 And the Christmas bells that ring there are the clanging chimes of doom
 Well tonight we’re reaching out and touching you

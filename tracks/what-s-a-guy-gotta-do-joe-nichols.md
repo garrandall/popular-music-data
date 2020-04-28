@@ -76,7 +76,7 @@ What's a guy gotta d to get a girl in this town
 
 Well ask anybody I'm a pretty good guy
 And the looks decent wagon didn't pass me by
-There ain't nothing in my past that i'm tryin' hard to hide
+There ain't nothing in my past that I'm tryin' hard to hide
 And I don't understand why I gotta wonder why
 
 What's a guy gotta do to get a girl in this town
@@ -86,7 +86,7 @@ What's a guy gotta do to get a girl in this town
 
 Cruise all around the right parking lots
 Little time gets killed alotta bull gets shot
-One who'll think i'm kinda cute and laugh at every joke I got
+One who'll think I'm kinda cute and laugh at every joke I got
 When I get to thinkin' maybe she's athinkin' maybe not
 
 What's a guy gotta do to get a girl in this town

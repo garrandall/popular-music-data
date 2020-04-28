@@ -37,7 +37,7 @@ SCROOGE: You there, Crass, uhh, I suppose your company's running the usual magaz
 
 CRASS: Better than that! This year we have him smoking one
 
-SCROOGE: Um-hm...
+SCROOGE: Um-hm
 
 CRASS: Yes. We've got Santa a little more rugged, too. Both sleeves rolled up and a tattoo on each arm. One of 'em says "Merry Christmas."
 
@@ -55,7 +55,7 @@ CRATCHET: Bob Cratchet, sir. I've got a little spice company over in East Orange
 
 SCROOGE: What do you mean?
 
-CRATCHET: Well, I was just going to send cards out showing the three wise men following the Star of Bethlehem...
+CRATCHET: Well, I was just going to send cards out showing the three wise men following the Star of Bethlehem
 
 SCROOGE: I get it! And they're bearing your spices. Now that's perfect
 

@@ -132,7 +132,7 @@ We were strikin' the matches right down to the ashes
 Setting the world on fire, setting the world on fire
 
 
-World all  on fire
+World all on fire
 We were setting
 The world all on fire
 We were setting

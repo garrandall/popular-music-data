@@ -38,7 +38,7 @@ Whenever I cry
 Who becomes my wife
 And fears the day I die
 Who knows all my thoughts
-And every word I say ...
+And every word I say
 
 She's the girl who stood beside me
 As I looked into the mirror, yesterday
@@ -53,7 +53,7 @@ And who now makes my bed
 Who now lies beside me
 Who now holds my head
 Who knows all my thoughts
-And every word I say ...
+And every word I say
 
 She's the girl who stood beside me
 As I looked into the mirror, yesterday
@@ -68,7 +68,7 @@ And who now makes my bed
 Who now lies beside me
 When I hold my head
 Who knows all my thoughts
-And every word I say ...
+And every word I say
 
 She's the girl who stood beside me
 As I looked into the mirror, yesterday

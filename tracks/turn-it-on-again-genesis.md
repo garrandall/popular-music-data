@@ -48,7 +48,7 @@ I can show you, I can show you some of the people in my life
 I can show you, I can show you some of the people in my life
 It's driving me mad, just another way of passing the day
 I, I get so lonely when she's not there
-I, I, I, I...
+I, I, I, I
 
 You're just another face that I know from the TV show
 I have known you for so very long, I feel you like a friend
@@ -59,7 +59,7 @@ I can show you I can show you some of the people in my life
 I can show you I can show you some of the people in my life
 It's driving me mad it's just another way of passing the day
 I, I get so lonely when she's not there
-I, I, I...
+I, I, I
 
 Turn it on, turn it on, turn it on again
 Turn it on, turn it on, turn it on again

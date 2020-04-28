@@ -113,7 +113,7 @@ Darlin' don't leave me at all
 
 (Instrumental break)
 
-Please don't leave me now...
+Please don't leave me now
 
 Darlin' don't leave me (don't leave me) this way
 Darlin' don't leave me at all

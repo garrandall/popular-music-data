@@ -209,8 +209,8 @@ Just take the time to say "Hey ey ey O"
 Check it out, Check it out
 Y'all ready for this? (You know it!)
 Nah...y'all ain't ready!
-Y'all ready for this?  (You know it!)
-C'mon check it out, Y'all ready to jam?  (You know it!)
+Y'all ready for this? (You know it!)
+C'mon check it out, Y'all ready to jam? (You know it!)
 Nah...I, I don't think so
-Y'all ready to jam?  (You know it!)
+Y'all ready to jam? (You know it!)
 C'mon

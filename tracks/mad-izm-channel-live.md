@@ -76,7 +76,7 @@ A punani gate, I'm a potential felon
 Izm is smellin', like I ain't even tellin'
 Channel one two, I'm smashin' the law
 Channel three, I make a run to the store
-Channel four leave the store with the Phillie 'cause I...
+Channel four leave the store with the Phillie 'cause I
 Spark the izm, I'm off to Channel Live
 
 
@@ -177,4 +177,4 @@ Mad izm
 All we do is spark mad izm
 All we do is spark mad izm
 All we do is spark mad izm
-Mad izm...
+Mad izm

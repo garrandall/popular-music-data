@@ -53,7 +53,7 @@ All I know, all I know, all I know
 All I know
 All I know, all I know, all I know
 All I know is this
-All I know, all I know, all I know, all I know...
+All I know, all I know, all I know, all I know
 All I know, all I know, all I know, all I know is this
 All I know, all I know, all I know, all I know is this
 Is this, is this, is this
@@ -108,7 +108,7 @@ All I know, all I know, all I know
 All I know
 All I know, all I know, all I know
 All I know is this
-All I know, all I know, all I know, all I know...
+All I know, all I know, all I know, all I know
 All I know, all I know, All I know is this
 All I know, all I know, All I know is this
 Is this, is this

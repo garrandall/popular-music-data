@@ -55,8 +55,8 @@ Al di lÃ¡ del mare piÃ¹ profondo, ci sei tu.
 Al di lÃ¡ de I limiti del mondo, ci sei tu.
 Al di lÃ¡ della volta infinita, al di la della vita.
 Ci sei tu, al di la, ci sei tu per me.
-La la la la la...
-La la la...
+La la la la la
+La la la
 (Ci sei tu...)
 (Ci sei tu...)
 

@@ -89,7 +89,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2017-07-15'
 ---
-Letra de  "Maroon 5 - Cold (Tradução)" por Genius Brasil Traduções
+Letra de "Maroon 5 - Cold (Tradução)" por Genius Brasil Traduções
 
 
 

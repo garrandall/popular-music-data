@@ -97,7 +97,7 @@ You know I feel okay
 
 
 When I'm home everything seems to be right
-When I'm home feeling  you holding me tight, tight, yeh
+When I'm home feeling you holding me tight, tight, yeh
 
 
 It's been a hard day's night

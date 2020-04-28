@@ -72,7 +72,7 @@ Hound dog man, hound dog man, I wanna be a hound dog man
 
 I'm gonna get me an ol' hound dog
 I'm gonna let 'im lead the way
-Then i'm gonna turn 'im loose
+Then I'm gonna turn 'im loose
 We'll go huntin' every day
 That's the kind of life for me
 There's one thing I wanna be, and that's a
@@ -83,7 +83,7 @@ A-yeah, with the risin' sun
 I'm gonna stay right on that trail
 Till the day is done
 I think I am old enough
-I'm young in years but i'm mighty tough, a-like a
+I'm young in years but I'm mighty tough, a-like a
 Hound dog man, hound dog man, I wanna be a hound dog man
 
 I'm lookin' for a girl who'll be waitin' when I come home

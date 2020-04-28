@@ -93,7 +93,7 @@ Pero él la dejó en buzón (No)
 Fingiendo que a otra se puede amar?
 
 
-Pero hice  todo este llanto por nada
+Pero hice todo este llanto por nada
 Ahora soy una chica mala
 And now you kickin' and screamin', a big toddler
 Don't try to get your friends to come holla, holla

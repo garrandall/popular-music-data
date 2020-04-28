@@ -92,7 +92,7 @@ To open up the door.
 
 
 
-Let me tell ya...
+Let me tell ya
 
 
 

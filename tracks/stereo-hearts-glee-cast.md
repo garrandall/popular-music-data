@@ -25,19 +25,19 @@ Just sing along to my stereo
 
 Gym Class Heroes baby!
 If I was just another dusty record on the shelve ( Oh
-Would you blow me off and  play me like everybody else,
-If I ask you to scratch my back,  Uh)
-Like it read well, check it Trouty,  I can handle that
-Furthermore, I apologize  Uh)
-Its just the last girl that played me left a  couple cracks
-I used to used to used to used to,  Oh yeah)
-Cause holding grudges over love is  ancient artifacts
+Would you blow me off and play me like everybody else,
+If I ask you to scratch my back, Uh)
+Like it read well, check it Trouty, I can handle that
+Furthermore, I apologize Uh)
+Its just the last girl that played me left a couple cracks
+I used to used to used to used to, Oh yeah)
+Cause holding grudges over love is ancient artifacts
 
 
 If I could only find a note to make you understand
 I'd sing it softly in your ear and grab you by the hand
 
-Just keep it stuck inside your head, like  your favorite tune
+Just keep it stuck inside your head, like your favorite tune
 And know my heart is a stereo that only plays for you ( Oh, whoa)
 
 
@@ -64,22 +64,22 @@ So sing along to my stereo
 
 Let's go!
 
-If I was an old school,  hooh)
-Would you hold me  on your shoulder, wherever you walk
-Would you turn my  yeah yeah yeah)
+If I was an old school, hooh)
+Would you hold me on your shoulder, wherever you walk
+Would you turn my yeah yeah yeah)
 And crank it higher every time they told you to stop ( yeah)
 
 And all I ask is that you don't get mad at me ( hey)
-When you have to purchase  oh)
-Appreciate every mixtape  your friends make
+When you have to purchase oh)
+Appreciate every mixtape your friends make
 
-You never know we come and  go like we're on the interstate
+You never know we come and go like we're on the interstate
 
 I think finally found a note to make you understand
 If you can hit it, sing along and take me by the hands
 
 
-Keep me stuck inside your head,  like your favorite tune
+Keep me stuck inside your head, like your favorite tune
 You know my heart's a stereo that only plays for you ( Oh)
 
 

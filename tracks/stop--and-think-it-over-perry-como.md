@@ -31,7 +31,7 @@ It'll never be over for me
 
 ( repeat verse )
 Think of all the happy times we knew
-All the memories I shared with you . . 
+All the memories I shared with you . .
 
 ( repeat verse )
 Don't walk out the door and say goodbye
@@ -40,10 +40,10 @@ Isn't what we had worth one more try?
 ( repeat verse )
 I just don't know, what I would do
 Darling, without you
-What a cold an' lonely place this world would be . . 
+What a cold and lonely place this world would be . .
 
 If you leave me now, you'll hurt me so
-Just for ol' times sake before you go . . 
+Just for ol' times sake before you go . .
 
 ( repeat verse twice to fade )
 Words and Music by Sid Tepper

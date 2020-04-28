@@ -101,7 +101,7 @@ I told her you used to put a load of shit up on her braid but you lame now it ov
 I keep her by my side like a holster
 I plan to make a full house and I aint talkin bout poker
 But I might Poke her and just stroke her
-Cuz im about to treat her like a real man suppose to
+Cuz I'm about to treat her like a real man suppose to
 LUDA!
 
 

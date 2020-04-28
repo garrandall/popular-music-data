@@ -92,12 +92,12 @@ rankings:
 
 
 
-Yeah!  Word is bond!
+Yeah! Word is bond!
 Das EFX in this yaknowhatI'msayin
 Straight from the sewer, word is bond!
-Yeah!  Yah!  Ah-yeah!  We doin this with my nigga
-Where my nigga?  Ice Cube in the motherfucker
-Word is bond!  (Yeah!)
+Yeah! Yah! Ah-yeah! We doin this with my nigga
+Where my nigga? Ice Cube in the motherfucker
+Word is bond! (Yeah!)
 
 
 

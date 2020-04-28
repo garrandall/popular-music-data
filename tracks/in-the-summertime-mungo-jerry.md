@@ -79,7 +79,7 @@ Go out and see what you can find
 If her daddy's rich take her out for a meal
 If her daddy's poor just do what you feel
 Speed along the lane
-Do a ton or a ton an' twenty-five
+Do a ton or a ton and twenty-five
 When the sun goes down
 You can make it, make it good in a lay-by
 
@@ -139,7 +139,7 @@ Go out and see what you can find
 If her daddy's rich take her out for a meal
 If her daddy's poor just do what you feel
 Speed along the lane
-Do a ton or a ton an' twenty-five
+Do a ton or a ton and twenty-five
 When the sun goes down
 You can make it, make it good in a lay-by
 

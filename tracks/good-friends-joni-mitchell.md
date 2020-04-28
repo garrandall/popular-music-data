@@ -25,7 +25,7 @@ I have to come and see you--
 Maybe once or twice a year--
 I think nothing would suit me better
 (Right now)
-Than some downtown atmosphere ...
+Than some downtown atmosphere
 In the dance halls and the galleries
 Or betting in the OTB
 Synchronized--like magic

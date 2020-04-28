@@ -104,13 +104,13 @@ This for La Raza, Raza
 This for La Raza, Raza
 
 
-The foreign tongue I’m speaking is known as  alo
+The foreign tongue I 'm speaking is known s  alo
 Y sabes que loco? Yo soy muy malo
 Tu no sabes nada, your brains is hallow
 Been hit in the head too many times with a palo
 Still you trying to act cool, but you should know
 You're so cool that I'mma call you a culo
-You’re just a pee-wee, you can’t get none ever
+You 're just a pee-wee, you can 't get none ever
 You're on the leva
 Your own barrio doesn't back you up
 They just look at your ass and call you a poo butt
@@ -120,7 +120,7 @@ Yeah, this is for the Raza
 Cruising in the calle, headed for the bolo
 No want to go with me, so I had to go solo
 And when I go out alone I'm packed
-I don’t sweat the chavalas when I know that I’m strapped
+I don 't sweat the chavalas when I know that I 'm strapped
 Every time that I pack my piece
 I pull it out quick, all the nonsense will cease
 Just like the song when you're 18 With A Bullet

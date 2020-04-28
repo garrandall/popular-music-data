@@ -124,7 +124,7 @@ Show me what ya got then watch me get up on it
 Holdin up traffic but we can't hear they horns
 Cause he music a grande yeah he got it goin on
 Bit I think I better school him cause he don't know the time
-So i'm turnin up the boom cause he cannot mess with mine
+So I'm turnin up the boom cause he cannot mess with mine
 Brothers hear me hittin from like 50 blocks away i
 Wanna turn they heads so you know I gotta play
 High decibels passin through a residential district
@@ -137,10 +137,10 @@ Of the bass drum jungle music go back to africa
 Nigga i'll arrest ya if ya holdin up trafffic
 I'll be damned if I listen, so cops save your breath and
 Write another ticket if ya have any left and
-I'm breakin ear drums while i'm breakin the law
+I'm breakin ear drums while I'm breakin the law
 I'm disturbin all the peace cause sister souljah said war
 So catch me if ya can, if ya can here's a donut
-Cause once ya drive away, yo i'm gonna go nut
+Cause once ya drive away, yo I'm gonna go nut
 And turn it up to where it was before nice try
 But ya can't stop the power of the bass in ya eye
 I wonder if I blasted a little elvis presley

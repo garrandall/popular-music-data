@@ -208,7 +208,7 @@ So put it on me (Hey)
 Swear it won't take you long
 If you love me right
 We fuck for life
-On and on and on  (On and on and on)
+On and on and on (On and on and on)
 
 
 Now if we're talking body (Hey)

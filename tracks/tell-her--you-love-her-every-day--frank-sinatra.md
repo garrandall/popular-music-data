@@ -41,7 +41,7 @@ Give her a reason to live
 She needs the love that you give
 Always remember that is what she lives for
 
-She hopes you love her ...
+She hopes you love her
 Tell her you love her!
 Tell her you love her --
 Today!
@@ -52,7 +52,7 @@ She needs the love that you give
 
 Always remember that is what she lives for
 
-She hopes you love her ...
+She hopes you love her
 Tell her you love her!
 Tell her you love her --
 Today!

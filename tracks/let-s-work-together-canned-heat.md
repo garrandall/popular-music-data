@@ -63,14 +63,14 @@ Before when things go wrong, as they sometimes will
 And the road that you travel, it stays all up hill
 Let's work together, come on, come on, let's work together
 Now now people, you know together we will stand
-Every boy, girl, woman and a man ...
+Every boy, girl, woman and a man
 
 Oh well now, two or three minutes, two or three hours
 What does it matter now, if this goes round
 Let's work together, come on, come on
 Let's work together, now now people
 Because together we will stand
-Every boy, every woman and a man ...
+Every boy, every woman and a man
 
 {Bridge}
 Oh, common now..

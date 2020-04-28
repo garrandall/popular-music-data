@@ -102,13 +102,13 @@ Oh yeah
 Sometimes its black
 Sometimes its white
 Sometimes shes wrong
-Sometimes im right
+Sometimes I'm right
 Sometimes we talk about it or we figure it out
 But then she just changed her mind
 Sometimes shes hot
-Sometimes im cold
+Sometimes I'm cold
 Sometimes my head wants to explode
-But when I think about it im so in love with her
+But when I think about it I'm so in love with her
 
 Every other time
 nananananananananana
@@ -134,13 +134,13 @@ cuz thats the way uhhu uhhu I like it
 Sometimes its black
 Sometimes its white
 Sometimes shes wrong
-Sometimes im right
+Sometimes I'm right
 Sometimes we talk about it or we figure it out
 But then she just changed her mind
 Sometimes shes hot
-Sometimes im cold
+Sometimes I'm cold
 Sometimes my head wants to explode
-But when I think about it im so in love with her
+But when I think about it I'm so in love with her
 
 Every other time
 nananananananananana
@@ -170,7 +170,7 @@ sometimes I'm right
 sometimes we talk about it or we figure it out
 but then she just changed her mind
 sometimes shes hot
-sometimes im cold
+sometimes I'm cold
 sometimes my head wants to explode
 but when I think about it I'm so in love with her
 

@@ -146,7 +146,7 @@ This time for Africa
 Ame la mejole biggi biggi mubbo wa A to Z
 Asi tsu zala mejole biggi biggi mubbo from East to West
 Bathi waka waka ma eh eh waka waka ma eh eh
-Tendency suna tsibuye 'cause this is Africa...
+Tendency suna tsibuye 'cause this is Africa
 
 Tsamina mina, Anawa a a
 Tsamina mina

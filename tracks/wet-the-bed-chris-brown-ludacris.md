@@ -59,7 +59,7 @@ As I kiss both sets of lips, lips, lips
 
 I ain't afraid to drown, if that means I'm deep up in your ocean, yeah
 Girl I'll drink you down, sipping on your body all night
-I just wanna take your legs an' wrap them round
+I just wanna take your legs and wrap them round
 Girl you cummin' right now
 My head to your chest feeling your heartbeat, girl
 Swimming all in your sea

@@ -71,7 +71,7 @@ Oklahoma Was Never Like This.
 Never Like This, It Was Never Like This,
 Ever Like This, Say Was It Ever Like This?
 Oklahoma Was Never Like This.
-It Was Never Like This ...
+It Was Never Like This
 
 Darling, I Know It Really Wouldn't Be A Crime,
 If I Say I Want To Love You All The Time.
@@ -80,7 +80,7 @@ I Don't Know Where I Ought To Begin.
 Maybe We Should Have A Secret Code,
 Before We Both Get Ready To Explode.
 When You Want Me To Love You,
-Just Tell Me To Press. Press ...
+Just Tell Me To Press. Press
 
 Right There, That's It. Yes.
 When You Feel The Stress,

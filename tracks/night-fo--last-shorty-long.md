@@ -25,7 +25,7 @@ rankings:
   start_date: '1968-03-09'
 ---
 Child, you oughta been there, night fo' last
-Seen sister  shakin' her tailfeather
+Seen sister shakin' her tailfeather
 You oughta been there, night fo' last
 Watching grandpa getting his thing together
 
@@ -39,7 +39,7 @@ Go grandpa go! Go grandpa go!
 
 You oughta know that, I'm comin' easy
 Wastin' no time, gettin' busy
-Doing the  or little Hucklebuck
+Doing the or little Hucklebuck
 And for an old girl, she really knew her stuff
 Then somebody turned the lights down the low
 And said we got to lock all the doors
@@ -53,7 +53,7 @@ Ohh, the cuckoo-clock started striking four
 The band said we're sorry but it's time to go
 Somebody plugged the jukebox up in the floor
 Oh then up jumps Skinny-Minny, doin' the shimmy-shimmy
-Out went daddy  waving a piece of barbeque
+Out went daddy waving a piece of barbeque
 
 
 You oughta been there, night fo' last

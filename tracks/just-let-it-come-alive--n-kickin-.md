@@ -92,4 +92,4 @@ Just let it come now, baby
 Let the feeling grow
 
 Just let it come now, baby
-Let your colors show...
+Let your colors show

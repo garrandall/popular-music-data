@@ -88,7 +88,7 @@ Take my happy heart away
 Let me love you night and day
 In your arms I want to stay, oh my love
 
-La, la, la, la, la, la, la, la, ...
+La, la, la, la, la, la, la, la,
 
 
 

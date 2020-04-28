@@ -44,7 +44,7 @@ First you tell me you love me only
 Then you go and you leave me lonely
 I've had it, well, I've had it
 
-La la la la la...
+La la la la la
 
 When you ask me to be your baby
 Then you tell me
@@ -55,7 +55,7 @@ First you call me for a date
 Then you show up two hours late
 I've had it, oh, I've had it
 
-La la la la la...
+La la la la la
 
 Come on
 
@@ -74,6 +74,6 @@ With somebody else
 I've had it, oh, yeah
 Said I've had it
 
-La la la la la...
+La la la la la
 
 Oh, oh, oh, I've had it

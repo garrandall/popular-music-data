@@ -52,7 +52,7 @@ I was alright, then it all went wrong
 The devil made me do it, oh, oh, oh,oh
 It was an act of a man possessed, now
 The devil made me do it , oh, oh, oh, oh
-Your honor, I am innocent  
+Your honor, I am innocent
 
 You should have seen her slide out of her negligee
 Her skin was hot, touch intoxicating

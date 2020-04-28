@@ -131,7 +131,7 @@ I know you got a chick on the side!
 
 
 
-I just know you got a...
+I just know you got a
 I know you got another
 I know you got a, you got another lover
 You got a chick on the side

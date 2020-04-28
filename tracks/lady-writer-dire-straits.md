@@ -72,7 +72,7 @@ Another time another place
 Lady writer on the TV
 She knew all about a history
 You couldn't hardly write your name
-I think I want it just the same as the ...
+I think I want it just the same as the
 
 Lady writer on the TV
 Talking about the Virgin Mary

@@ -34,7 +34,7 @@ rankings:
   start_date: '1999-10-02'
 ---
 
-Hm...
+Hm
 Yeah, show you right
 Come on
 
@@ -105,7 +105,7 @@ Big D, Lil' A, Double L.A.
 Big D, Lil' A, Double L.A.
 Big D, Lil' A, Double L.A.S
 
-Mmm...mmm...mmm...
+Mmm...mmm...mmm
 Dey ding a ding ding ding ding
 Ding a ding ding ding
 Ding a ding ding ding

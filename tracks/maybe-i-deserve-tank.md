@@ -94,9 +94,9 @@ Do you mind if I tell the truth for a second ya'll
 
 Maybe I deserve
 to wonder who calling so damn late
-For you to say im trippin  it's just a homie from upstate (said it's just a homie)
+For you to say I'm trippin it's just a homie from upstate (said it's just a homie)
 Don't he know it's 1:00 in the morning
-you say it's cool  baby it's cool
+you say it's cool baby it's cool
 
 Baby I deserve
 for you to say he's coming into town ( he wants to see you)

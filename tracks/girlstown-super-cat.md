@@ -25,7 +25,7 @@ GirlsTown and girls all around
 And Girls deh pon de catwalk and a dem a come down
 Unuh hear me
 GirlsTown and girls all around
-And girls deh pon de catwalk an' a dem a come down
+And girls deh pon de catwalk and a dem a come down
 
 
 Beautiful girl known from all over the world
@@ -35,7 +35,7 @@ Sophisticated in diamond and pearl
 All dem a talk, a top of the line girl
 Tell di whole a dem a one inna di world girl
 Speaking and speaking she a working girl
-Tell dem Mr. Cat an' him a one inna the world
+Tell dem Mr. Cat and him a one inna the world
 
 
 
@@ -77,7 +77,7 @@ Girls, please let me in a your world
 But she say, "me don't have no ranch house down inna Texas"
 "Don't drive no Benz, and me no have no Lexus"
 "Cannot fly around the world, I am not a big shot"
-Nah take no dis an' me na take no back chat
+Nah take no dis and me na take no back chat
 All that me have is di loving comfort
 Now that me meet you, and me waan chase di cat
 

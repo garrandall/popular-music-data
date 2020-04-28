@@ -72,7 +72,7 @@ Ain't it funny, babe, what a little love can do
 It is better than that poison, it's so stronger, stronger than glue
 
 My love, ain't it, ain't it, ain't it kinda, ain't it kinda funny?
-When I need to talk with  you
+When I need to talk with you
 No baby, baby, can't ya see? I need you to love me
 And always be by my side
 

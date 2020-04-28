@@ -289,7 +289,7 @@ How do I,
 Get through one night without you?
 If I had to live without you,
 What kind of life would that be?
-Oh, I...
+Oh, I
 I need you in my arms, need you to hold,
 You're my world, my heart, my soul,
 If you ever leave,

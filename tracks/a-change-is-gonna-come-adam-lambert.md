@@ -34,7 +34,7 @@ But I know a change is gonna come
 
 I go to the movie
 And I go downtown
-Everybody  keep telling me don't come around
+Everybody keep telling me don't come around
 
 
 It's been a long time coming

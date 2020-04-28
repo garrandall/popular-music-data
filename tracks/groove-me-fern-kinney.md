@@ -53,7 +53,7 @@ And I want you to be my spouse (he's a spouse)
 So that we can live happilly now (happilly)
 In a great big old roomy house
 I know you're gonna groove me baby
-Oh yeah now...
+Oh yeah now
 
 Make me feel good inside
 Come on and groove me baby

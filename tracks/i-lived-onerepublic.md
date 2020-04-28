@@ -110,7 +110,7 @@ Oh, whoa, oh, oh, oh, oh, oh, oh
 Oh, oh, oh, oh
 
 With every broken bone, I swear I lived
-With every broken bone, I swear I...
+With every broken bone, I swear I
 
 I, I did it all
 I, I did it all

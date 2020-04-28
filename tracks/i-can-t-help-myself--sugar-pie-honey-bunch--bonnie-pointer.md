@@ -81,7 +81,7 @@ I can't help myself
 I'm a fool in love, you see
 Wanna tell you I don't love you
 Tell you that we're through
-And i've tried
+And I've tried
 But everytime I see your face
 I get up all choked up inside
 
@@ -102,12 +102,12 @@ I can't help myself
 I'm a fool in love, you see
 Wanna tell you I don't love you
 Tell you that we're through
-And i've tried
+And I've tried
 But everytime I see your face
 I get up all choked up inside
 
 Sugarpie honeybunch
-You now that i'm weak for you
+You now that I'm weak for you
 I can't help myself
 I love you and nobody else
 

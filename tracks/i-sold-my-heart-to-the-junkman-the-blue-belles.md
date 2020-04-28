@@ -62,7 +62,7 @@ Story happened to me just a little while ago
 (not true, but true) (audience laughs)
 And it was, it was a thing where I met this
 This beautiful girl, right? was she a
-Beautiful girl as she was, she was nice and ...
+Beautiful girl as she was, she was nice and
 And I gave her my whole heart, every every bit
 And she gave it back to me a month later all
 Beat up, so bad and

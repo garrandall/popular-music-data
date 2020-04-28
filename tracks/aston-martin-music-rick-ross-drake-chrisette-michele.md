@@ -93,7 +93,7 @@ rankings:
 
 Let's pull the two-seater out, baby
 It's wherever you wanna go
-Jessy ...
+Jessy
 RosÃ©
 
 

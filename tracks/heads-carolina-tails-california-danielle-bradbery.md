@@ -46,4 +46,4 @@ Where it don't matter, as long as we're goin'
 Somewhere together, I've got a quarter
 Heads Carolina, Tails California
 
-Ohh, California...
+Ohh, California

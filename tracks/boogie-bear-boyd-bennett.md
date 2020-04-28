@@ -42,7 +42,7 @@ Will get off the piano
 Old Boogie will play for you
 
 I'm with you, buddy boy
-Dow dow dow dow...
+Dow dow dow dow
 Whoops, wrong song, Boo-boo
 
 Know you know

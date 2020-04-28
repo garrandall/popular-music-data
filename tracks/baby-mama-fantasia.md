@@ -93,7 +93,7 @@ Saying to yourself "This shit ain't fair"
 And all my girls who don't get no help
 Who gotta do everything by yourself
 Remember: What don't kill you can only make you stronger
-My baby mama...
+My baby mama
 
 
 B-A-B-Y M-A-M-A

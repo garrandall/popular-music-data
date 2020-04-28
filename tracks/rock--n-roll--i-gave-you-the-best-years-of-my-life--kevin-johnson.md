@@ -50,7 +50,7 @@ The way the crowds cried out for us we thouth we had it made.
 
 Oh, Rockn' roll I gave you all the best years of my life
 All the crazy lazy young days all the magic moony nights
-I was so busy on the road singing love-songs to you ...
+I was so busy on the road singing love-songs to you
 And you were changing your direction and you never even knew.
 That I was always just one step behind you.
 

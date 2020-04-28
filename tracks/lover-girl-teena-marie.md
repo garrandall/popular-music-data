@@ -158,7 +158,7 @@ I just want to rock your world
 Coffee, tea or me, baby, touché au lait
 My opening line might be a bit passé
 But don't think that I don't know what I'm feeling for you
-'Cause I got a vibe on you the first time that I saw you, whoa...
+'Cause I got a vibe on you the first time that I saw you, whoa
 
 When the push comes to shove
 And you need a little love

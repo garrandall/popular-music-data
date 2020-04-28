@@ -106,7 +106,7 @@ Drink from me, drink from me
 That I shoot across the sky
 Symphony
 That I shoot across the sky
-We're on a...
+We're on a
 Drink from me, drink from me
 That I shoot across the sky
 Symphony

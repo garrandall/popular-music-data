@@ -55,7 +55,6 @@ Dancer
 Try to take it higher
 Dancer
 
-CHORUS
 You never knew the power of your body
 But when you keep on dancing to the music
 You reach up high into the sky
@@ -75,8 +74,7 @@ Dancer
 Dancer
 Try to take it higher
 
-(Chorus x2)
 Dancer
 Got to get a move on
 Dancer
-If you want to feel good...
+If you want to feel good

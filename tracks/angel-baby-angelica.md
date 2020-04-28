@@ -116,7 +116,7 @@ That I looked deep into your eyes
 You sent me off to heaven baby
 Body and mind
 Everything about you
-Is everything that i've dreamed of
+Is everything that I've dreamed of
 And now you're here beside me
 My angel from above
 

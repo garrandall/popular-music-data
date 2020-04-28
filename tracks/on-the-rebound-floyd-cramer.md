@@ -60,5 +60,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-05-29'
 ---
-♫  ♫
-1961; US #3; UK #1
+(Instrumental)

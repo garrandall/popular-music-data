@@ -242,7 +242,7 @@ Pain!
 You break me down, you build me up, believer, believer
 Pain!
 Oh let the bullets fly, oh let them rain
-My life, my love, my drive, it came from...
+My life, my love, my drive, it came from
 Pain!
 You made me a, you made me a believer, believer
 
@@ -266,7 +266,7 @@ Pain!
 You break me down, you build me up, believer, believer
 Pain!
 Oh let the bullets fly, oh let them rain
-My life, my love, my drive, it came from...
+My life, my love, my drive, it came from
 Pain!
 You made me a, you made me a believer, believer
 
@@ -285,7 +285,7 @@ Pain!
 You break me down, you build me up, believer, believer
 Pain!
 Oh let the bullets fly, oh let them rain
-My life, my love, my drive, it came from...
+My life, my love, my drive, it came from
 Pain!
 You made me a, you made me a believer, believer
 

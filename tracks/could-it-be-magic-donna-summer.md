@@ -67,7 +67,7 @@ Baby, I love you, come, come,
 Come into my arms
 Let me know the wonder of all of you
 And baby, I want you now, now,
-Oh now, oh now,  and hold on fast
+Oh now, oh now, and hold on fast
 Could this be the magic at last?
 Baby, I want you, come, come
 Could this be the magic at last?

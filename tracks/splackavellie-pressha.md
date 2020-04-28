@@ -109,7 +109,7 @@ Its allright baby ain't no shame
 Drop tha top on his Mercades Benz
 So her legs can feel tha wind
 As he hits again and again and again Its all good yeah
-Because Im bout it bout it baby im bout it bout it baby
+Because Im bout it bout it baby I'm bout it bout it baby
 
 
 

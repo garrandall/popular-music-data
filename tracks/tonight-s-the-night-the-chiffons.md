@@ -65,4 +65,4 @@ Let's take a chance
 (Tonight's the night)
 Gonna be a great romance
 (Tonight's the night)
-Let's start right now...
+Let's start right now

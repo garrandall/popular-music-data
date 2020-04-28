@@ -127,6 +127,6 @@ But oh no...
 So sad, oh, so sad
 That's the way that it goes, I know
 
-I'm gonna tell you right now...
+I'm gonna tell you right now
 
 (end)

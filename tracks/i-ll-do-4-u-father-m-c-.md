@@ -80,7 +80,7 @@ rankings:
 Sweetheart
 (Would you do for me)
 I'm talking to you and no one else
-I just want you to know...
+I just want you to know
 (Would you do for me)
 ...that I'll do for you
 

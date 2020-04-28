@@ -46,8 +46,8 @@ Hang on sloopy, sloopy hang on
 Sloopy lives in a very bad part of town
 And everybody there tries to put my sloopy down
 Sloopy I don't care what your daddy do
-'cause you know sloopy girl i'm in love with you
-And so i'm singing...
+'cause you know sloopy girl I'm in love with you
+And so I'm singing...
 
 Chorus
 Yeah yeah yeah yeah...

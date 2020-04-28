@@ -71,7 +71,7 @@ They only numb my soul and make it hard for me to see
 My thoughts all seem to stray, to places far away
 I need a change of scenery
 
-Ta Ta Ta...
+Ta Ta Ta
 
 Another Pleasant Valley Sunday
 Charcoal burning everywhere

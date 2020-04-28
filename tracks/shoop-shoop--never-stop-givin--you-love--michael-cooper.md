@@ -46,7 +46,7 @@ rankings:
 ---
 Shoop shoop, shoop shoop
 Now it's nice to know
-With you, i'm a needed soul
+With you, I'm a needed soul
 Shoop shoop, shoop shoop
 Yes, baby
 
@@ -91,7 +91,7 @@ Shoop shoop, shoop shoop
 We'll go round and round
 Til my love comes tumbling down
 
-You know i'm on the phone
+You know I'm on the phone
 With you all night long
 And now I know I can
 Never stop giving good love

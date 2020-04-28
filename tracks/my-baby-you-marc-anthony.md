@@ -92,7 +92,7 @@ rankings:
 as I look into your eyes
 i see all the reasons why
 my life's worth a thousand skies
-you're the simplest love i've known
+you're the simplest love I've known
 and the purest one i'll own
 know you'll never be alone
 

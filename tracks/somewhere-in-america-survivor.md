@@ -99,7 +99,7 @@ somewhere cross the sea
 Somewhere in America,
 she waits for me
 
-Somewhere in America...
+Somewhere in America
 
 
 

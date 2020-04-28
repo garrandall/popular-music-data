@@ -53,7 +53,7 @@ I wanna take a blanket down to the creek
 And let the water sing me to sleep
 And let go in time
 Live the simple life..
-Well lately i've seen too many city lights
+Well lately I've seen too many city lights
 I wanna go somewhere where I can see the stars at night
 
 

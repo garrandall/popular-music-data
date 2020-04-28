@@ -41,12 +41,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-02-24'
 ---
-Some velvet mornin' when i'm straight
+Some velvet mornin' when I'm straight
 I'm gonna open up your gate
 And maybe tell you 'bout Phaedra
 And how she gave me life
 And how she made it end
-Some velvet mornin' when i'm straight
+Some velvet mornin' when I'm straight
 
 
 Flowers growing on a hill, dragonflies and daffodils
@@ -58,7 +58,7 @@ Learn from us very much, look at us but do not touch
 Phaedra is my name
 
 
-Some velvet mornin' when i'm straight
+Some velvet mornin' when I'm straight
 Flowers growing on a hill
 I'm gonna open up your gate
 Dragonflies and daffodils

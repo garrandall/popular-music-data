@@ -141,7 +141,7 @@ Uh huh yeah
 Ya questioned, if I care
 You could ask anyone, I even said
 Ya were my great one
-Now its, over, but I do admit i'm sad
+Now its, over, but I do admit I'm sad
 It hurt real bad, I can't sweat that, cuz I loved a ho
 
 Fuck what I said it don't mean shit now

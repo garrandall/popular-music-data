@@ -49,7 +49,7 @@ rankings:
   start_date: '2011-10-15'
 ---
 
-One big room full of bad bitches ...
+One big room full of bad bitches
 
 And we stunting like
 Gucci Gucci, Louis Louis, Fendi Fendi, Prada
@@ -74,7 +74,7 @@ Serving all the fiends over there by the Golden Gate
 Bridge, I'm colder than the fridge and the freezer
 I'm snatching all your bitches at my leisure
 
-One big room full of bad bitches ...
+One big room full of bad bitches
 
 And we stunting like
 Gucci Gucci, Louis Louis, Fendi Fendi, Prada
@@ -99,7 +99,7 @@ So posh, nails fierce with the gold gloss
 Which means nobody getting over me
 I got the swag and it's pumping out my ovaries
 
-One big room full of bad bitches ...
+One big room full of bad bitches
 
 And we stunting like
 Gucci Gucci, Louis Louis, Fendi Fendi, Prada

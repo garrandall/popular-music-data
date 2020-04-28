@@ -95,7 +95,7 @@ Singing Margaritaville and minding my own
 Some foreign car driver dude with the road rage attitude
 Pulled up beside me talking on his cell phone
 He started yelling at me like I did something wrong
-He flipped me the bird an' then he was gone
+He flipped me the bird and then he was gone
 
 Some beach
 Somewhere

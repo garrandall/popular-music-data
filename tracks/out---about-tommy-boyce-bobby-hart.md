@@ -53,7 +53,7 @@ Riding all around the city
 Out and about
 All the girls they look so pretty
 I'm fine, when i'm
-When i'm out and about
+When I'm out and about
 Things I want I can't afford 'em
 Nothing in this house but boredom
 Magazines are torn and tattered
@@ -62,13 +62,13 @@ I gotta run outside and see what's happening
 Out and about
 Where the sun is always shining
 Out and about
-Look at all the fun i'm finding
+Look at all the fun I'm finding
 Out and about
 Bumping into friends and laughing
 Out and about
 What a groovy time we're having
 We'll have a good time
-When i'm out and about
+When I'm out and about
 Out and about
-When i'm out and about
+When I'm out and about
 Out and about

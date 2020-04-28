@@ -55,7 +55,7 @@ Girl, you better think twice
 You must think that good men are a dime a dozen
 Take my advice
 Girl, you better think twice
-'Cause if you want to keep him...
+'Cause if you want to keep him
 
 (Hey...)
 

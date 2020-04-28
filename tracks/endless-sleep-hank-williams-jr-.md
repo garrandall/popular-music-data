@@ -31,7 +31,7 @@ I heard a voice cryin' in deep come join me baby in my endless sleep
 
 Why did we quarrel why did we fight why did I leave her alone tonight
 That's why her footsteps ran into the sea that's why my baby has gone from me
-I looked at the sea...
+I looked at the sea
 
 Ran in the water heart full of fear there in the breakers I saw her near
 Reached for my darling held her to me stole her away from the angry sea

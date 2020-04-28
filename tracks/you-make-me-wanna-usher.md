@@ -217,7 +217,7 @@ You used to say it would be okay
 Suggest little nice things I should do
 And when I'd go home at night and lay my head down
 All I seemed to think about was you
-And how...
+And how
 
 
 You make me wanna leave the one I'm with
@@ -257,14 +257,14 @@ I tried, I tried to fight it, but the feeling's just too strong
 You make, make, make me
 
 
-You make me wanna...
-You make me wanna...
-You make me wanna...
-You make me wanna...
-You make me wanna...
-You make me wanna...
-You make me wanna...
-You make me wanna...
+You make me wanna
+You make me wanna
+You make me wanna
+You make me wanna
+You make me wanna
+You make me wanna
+You make me wanna
+You make me wanna
 Come along with
 You're making me, you're making me
 

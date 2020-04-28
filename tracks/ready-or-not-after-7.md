@@ -92,7 +92,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-08-18'
 ---
-(Verse 1)
 I'll give you the sun, the rain, the moon, the stars and the mountains
 I'll give you the world, and all that you wish for
 And even more
@@ -103,14 +102,12 @@ Nothin' could discourage me
 And I pray that you'll be always there for me
 Forevermore
 
-(Chorus)
 Ready or not
 I'll give you everything and more
 All that I've got, it's yours
 I'll give you everything
 All that you're looking for
 
-(Verse 2)
 I'll give you my heart, my soul, my time, my love is a fountain
 I will be your earth, oh and all that you need for
 And even more
@@ -121,7 +118,6 @@ Nothin' will discourage me
 And I pray that you will be always there for me
 Forevermore
 
-(Chorus)
 Ready or not
 (Don't you know, don't you know, you should know)
 I'll give you everything (oh and more
@@ -130,8 +126,6 @@ All that I've got (Baby, it's yours, little girl)
 I'll give you everything (Every little thing)
 All that you're looking for
 
-
-(Bridge)
 Everything is not anything
 If you're not here to share my dreams
 You don't know what it means to me
@@ -141,20 +135,19 @@ My heart beats for you
 Girl, I can't get enough so I'll wait for your love
 There's nothing that I'd rather do
 
-(Chorus)
 Ready or not
-I'll give you everything (ohlady) and more
+I'll give you everything (oh lady) and more
 (I'll give you more, you've got to know it, baby)
 All that I've got (Hey, it's yours)
 I'll give you everything (It's yours)
 All that you're looking for
 
 Ready or not (oh baby)
-I'll give you everything...(I'm gonna give you, I'm gonna give you some more)...and more (Every little thing that I've got)
+I'll give you everything and more
 All that I've got (Hey, it's yours)
 I'll give you everything (Every little thing, baby)
 All that you're looking for
 
 Ready or not
-(Don't you know, don't you know, you should know)
+Don't you know, don't you know, you should know
 I'll give you everything (oh and more

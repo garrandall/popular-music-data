@@ -71,7 +71,7 @@ Wait, I think police is at the door
 
 Okay, the neighbors think I'm sellin' dope
 Hmnn... I guess the neighbors think I'm sellin' dope, sellin' dope
-The neighbors think I'm... neighbors think I'm...
+The neighbors think I'm... neighbors think I'm
 (Don't follow me, don't follow me...)
 I think the neighbors think I'm sellin' dope
 (Don't follow me, don't follow me...)
@@ -100,7 +100,7 @@ Don't follow me, don't follow me
 
 Okay, the neighbors think I'm sellin' dope
 Hm... I guess the neighbors think I'm sellin' dope, sellin' dope
-The neighbors think I'm... neighbors think I'm...
+The neighbors think I'm... neighbors think I'm
 (Don't follow me, don't follow me...)
 I think the neighbors think I'm sellin' dope
 (Don't follow me, don't follow me...)

@@ -103,7 +103,7 @@ And give it all we've got to give it
 We're goin' all the way (All the way)
 If the two of us both want it I'd lay my money on it
 Startin' today (Starting today)
-We're goin' all the way, mmm... hm...
+We're goin' all the way, mmm... hm
 
 Oh... oh... baby, we're goin' all the way (All the way)
 If the two of us both want it I'd lay my money on it

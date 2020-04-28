@@ -127,7 +127,7 @@ I'm every woman, I'm every woman
 (Tell 'em all about it, child
 Wanna really tell 'em all... about it)
 I'm every woman, I'm every woman
-(Want 'em to know, want 'em  to know that...)
+(Want 'em to know, want 'em to know that...)
 I'm every woman, I'm every woman
 I'm every woman, I'm every woman
 I'm every woman, I'm every woman

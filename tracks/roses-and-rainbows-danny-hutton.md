@@ -42,7 +42,6 @@ Whenever I'm with you
 I think I just love you 'cause
 Roses and rainbows are you
 
-(Chorus)
 I love the way you hold my hand
 The way you understand
 The way you make me feel
@@ -54,12 +53,9 @@ The birds do all their singing 'cause
 Roses and rainbows are you
 Roses and rainbows are you
 
-- Interlude / Chorus -
-
 Way up in the sky
 I think I see why
 The birds do all their singing 'cause
 Roses and rainbows are you
 
 Roses and rainbows are you
-Whoo whoo whoo...

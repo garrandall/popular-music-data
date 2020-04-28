@@ -27,7 +27,7 @@ Just relax and let the rhythm take you, don't you be afraid to lose control.
 If your heart has found some empty spaces,
 Dancing's just the thing to make you whole.
 
-I am one who dances with the mountains.  I am one who dances in the wind.
+I am one who dances with the mountains. I am one who dances in the wind.
 I am one who dances on the ocean,
 my partner's more than pieces, more than friends.
 

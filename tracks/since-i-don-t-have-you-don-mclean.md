@@ -74,5 +74,5 @@ When you walked out on me in came old misery
 And he's been here since then
 
 Now I don't have love to share, and I don't have one who cares
-I don't have anything since I don't have ...
+I don't have anything since I don't have
 You, you, you, you, you

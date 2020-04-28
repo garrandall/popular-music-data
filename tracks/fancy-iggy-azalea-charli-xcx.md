@@ -219,7 +219,7 @@ Yeah, keep on turning it up
 Chandelier swinging, we don't give a fuck
 Film star, yeah I'm deluxe
 Classic, expensive, you don't get to touch
-Ow...
+Ow
 
 Still stuntin', how you love that?
 Got the whole world asking how I does that

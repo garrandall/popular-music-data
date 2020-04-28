@@ -61,7 +61,7 @@ Don't say...
 That something's come up..
 Cause, Girl I'm on My Way...
 And I've got Plans For..
-You and I...
+You and I
 
 Hook:
 So.., Don't Say...No Tonight..
@@ -79,7 +79,7 @@ I'll Sing you My Love Songs..
 To Put your right in the mood..
 We'll Get straight to the Groove...(Yes we will)
 
-I still Know...
+I still Know
 The right place to Touch...
 To make you want to stay...(yeah)..
 Anywhere...that I Desire..
@@ -105,8 +105,8 @@ We're gonna make love tonight...yeah..
 
 Vamp II:
 Oh..
-I'll Turn the Lights Down Low...
-Take my time...and Do it Nice and Slow...
+I'll Turn the Lights Down Low
+Take my time...and Do it Nice and Slow
 Oh girl...I'll have you screaming Out for More..
 So, Don't Try and Fight It..
 Come In...And Close the Door...

@@ -100,7 +100,7 @@ half of my heart's got a right mind to tell you
 that I can't keep loving you (can't keep loving you)
 oh, with half of my heart
 
-I was made to believe i'd never love somebody else
+I was made to believe I'd never love somebody else
 I made a plan, stay the man who can only love himself
 lonely was the song I sang, 'til the day you came
 Showing me another way and all that my love can bring
@@ -117,7 +117,7 @@ but I can only fall short for so long
 Down the road, later on
 you will hate that I never gave more to you than half of my heart
 but I can't stop loving you
-I can't stop loving you 
+I can't stop loving you
 but I can't stop loving you with half of my...
 
 half of my heart
@@ -131,7 +131,7 @@ that half of my heart won't do
 half of my heart is a shotgun wedding to a bride with a paper ring
 And half of my heart is the part of a man who's never truly loved anything
 
-half of my heart 
+half of my heart
 
 
 

@@ -32,7 +32,7 @@ And stuck right by my promise until to that very day now
 But you weren't happy that's for certain
 Now I'm throwing that final curtain on your girl
 Hear me baby
-And begging won't  your rescue
+And begging won't your rescue
 
 Seven lonely nights I cried for you
 Tears are falling

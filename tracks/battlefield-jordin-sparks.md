@@ -115,7 +115,7 @@ I never meant to start a war
 You know I never wanna hurt you
 Don't even know what we're fighting for
 
-Why does love always feel like ...
+Why does love always feel like
 a battlefield (battlefield)
 a battlefield (battlefield)
 a battlefield (battlefield)
@@ -135,7 +135,7 @@ I never meant to start a war
 You know I never wanna hurt you
 Don't even know what we're fighting for
 
-Why does love always feel like ...
+Why does love always feel like
 a battlefield (battlefield)
 a battlefield (battlefield)
 a battlefield (battlefield)
@@ -164,7 +164,7 @@ You know I never wanna hurt you
 Don't even know what we're fighting for
 (fighting, fighting for)
 
-Why does love always feel like ...
+Why does love always feel like
 a battlefield (battlefield)
 a battlefield (battlefield)
 a battlefield (battlefield)

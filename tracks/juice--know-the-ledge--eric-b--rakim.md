@@ -95,7 +95,7 @@ Shower's on, power's on
 Late for school, I catch the train
 Girls sip "Cristal" and whisper my name
 I push up like an exercise,
-Check the intellect and  inspect the thighs
+Check the intellect and inspect the thighs
 Select the best one, pull her to the side
 Keep her occupied for the rest of the ride
 Read my resume she's know I'm 'ready cool

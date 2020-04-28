@@ -88,8 +88,8 @@ rankings:
 He said: "Just think it over, and write me a list,
 "So we can figure out what we both deserve."
 She hardly could believe it, that their love had come to this:
-Dividing an' deciding his and hers.
-But she grabbed a paper napkin, an' asked the waitress for a pen.
+Dividing and deciding his and hers.
+But she grabbed a paper napkin, and asked the waitress for a pen.
 An' one by one, she wrote down what she wanted most from him.
 
 "Honesty, sincerity, tenderness and trust.
@@ -99,9 +99,9 @@ An' one by one, she wrote down what she wanted most from him.
 "Just like it used to be.
 "The way life was when you were in love with me."
 
-She reached across the table an' placed it in his hand,
+She reached across the table and placed it in his hand,
 An' said: "You know this isn't easy for me."
-As he thought about the new car, the house an' the land,
+As he thought about the new car, the house and the land,
 An' wondered what that bottom line would be.
 An' a thousand other things that she'd want him to leave behind,
 But he never dreamed he'd open up that napkin and find:

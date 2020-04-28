@@ -93,7 +93,7 @@ I wanna accelerate to a level that I can elevate
 Demented with the pen, I'll make the mothafucker detonate
 I wanna make it acapella, wait, I gotta set a date
 With the devil and celebrate, together we can renovate
-And re-develop hell awaits, and I'ma get a special place...now...
+And re-develop hell awaits, and I'ma get a special place...now
 Take a ride with me, hop into my time machine
 I'ma take the driver's seat as I thrust into hyperspeed
 Like I'm a meteorite, and mothafuck the fucking media

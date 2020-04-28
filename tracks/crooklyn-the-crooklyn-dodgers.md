@@ -132,7 +132,7 @@ You know where to find me whenever you need me
 If you know the Ave., follow the path
 To the land of the aftermath, but don't frolic in the midst
 Crazy-ass Crooklyn kids
-‘Cause they’re always throwing a body on my lawn
+‘Cause they 're always throwing a body on my lawn
 I'm getting a Rottweiler without a collar
 Get off my block, boy, and give me a dollar
 For the trouble or get blown up like a bubble
@@ -154,18 +154,18 @@ Brother, if you want another lesson, Crooklyn session
 Take it back, "Black Smif-N-Wessun"
 
 
-Press your luck, you’ll get stuck by Buck, for your bucks
+Press your luck, you 'll get stuck by Buck, for your bucks
 Masta Ace has the taste for ducks and duck sauce
 So tell Lord Digga
 “Dig a grave for the bones, sticks and stones”
 While I kick some ancient poems through your domes
 Act went back to attack your homes
-So, Tip, can I flip?  (Yes, you can)
+So, Tip, can I flip? (Yes, you can)
 I'm in a World War with Muhammad, my man
 
 
 Feels so good to be a Crooklyn Dodger
-Uh huh, What’s Happening! to ReRun and Roger?
+Uh huh, What 's Happening! to ReRun and Roger?
 I think I seen em wearing Timberlands and running down the block
 From Dwayne and Dwayne had a Glock
 ‘Cause he be selling rock for the Partridge Family

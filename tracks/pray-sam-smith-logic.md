@@ -70,7 +70,7 @@ I pray that you hear me
 
 
 Maybe I'll pray (Lord), pray (Lord), maybe I'll pray
-I've never believed in you, no, but I'm gonna...
+I've never believed in you, no, but I'm gonna
 
 
 Won't you call me?

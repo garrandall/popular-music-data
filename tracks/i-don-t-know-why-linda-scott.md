@@ -85,7 +85,7 @@ I love you like I do
 I don't know why
 I just do
 
-La da da da...
+La da da da
 
 You never seem to want my romancing
 The only time you hold me is when we're dancing

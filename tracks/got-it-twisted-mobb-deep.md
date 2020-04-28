@@ -101,7 +101,7 @@ Builty snowflake out of the ampacomby
 I'm tryin to rip britney so I made ja sign me
 Nigga catch me in tha club with a double lead banger
 Im the wrong one to fuck with
-Now I know the promoters im in with the musket
+Now I know the promoters I'm in with the musket
 Pound of the haze and a box of dutches
 High to the cotton mouth
 Paranoid make the wrong move bitch and your ass is out

@@ -233,7 +233,7 @@ I want that sugar sweet
 Don't let nobody touch it unless that somebody's me
 I gotta be a man, there ain't no other way
 'Cause girl you're hotter than a Southern California day
-Never wanna play no games, you don't gotta  be afraid
+Never wanna play no games, you don't gotta be afraid
 Don't give me all that shy shit
 No makeup on, that's my sugar
 

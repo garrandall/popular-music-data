@@ -139,6 +139,6 @@ Everybody say when you hear their call
 You've got to get it underway
 
 
-Dial "L" for low...
+Dial "L" for low
 Come on, all you people say...
 W-O-R-D up - W-O-R-D up

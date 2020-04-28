@@ -65,4 +65,4 @@ Yeah, yeah
 Said I wasn't gonna tell nobody
 Said I wasn't gonna tell a soul
 Everybody, listen to me
-I wanna tell ya...
+I wanna tell ya

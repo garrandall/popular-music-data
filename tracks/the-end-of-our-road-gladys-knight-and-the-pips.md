@@ -64,7 +64,7 @@ We've come to the end of our road
 
 Just think about all the nights you left me at home lonely
 You only did it 'cause you know I loved you only
-Runnin',  'round with every girl in town
+Runnin', 'round with every girl in town
 I'm telling you boy no longer will I be your clown
 
 

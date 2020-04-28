@@ -26,7 +26,7 @@ rankings:
 ---
 
 I've told you almost every bedtime story
-And  you've heard almost every nursery  rhyme
+And you've heard almost every nursery rhyme
 So, tonight before you go to sleep
 And pray the Lord your soul to keep
 Here's mommy's favorite story one more time.
@@ -46,13 +46,13 @@ And she took his hand and led him far away
 Still, it's just another bedtime story
 But tellin' it brings teardrops to my eyes
 Just another pretty bedtime story
-So, please forgive  mommy if she cries.
+So, please forgive mommy if she cries.
 
 Then it came to pass, the King grew lonely
 And the pretty lady wasn't all she seemed
 He realized that he was wrong
-And started his long  journey home
-For he misses little Princess and his  Queen.
+And started his long journey home
+For he misses little Princess and his Queen.
 
 Then he was back and safe inside his castle
 And tears of joy came pourin' down like rain
@@ -65,7 +65,7 @@ But tellin' it brings teardrops to my eyes
 Just another pretty bedtime story
 So, please forgive mommy if she cries.
 
-Won't you please forgive your  mommy
+Won't you please forgive your mommy
 If she cries.
 
 

@@ -55,7 +55,7 @@ Why do you keep...
 
 
 Keep on running, running from my love
-Yeah, keep on running from...
+Yeah, keep on running from
 Keep on running, running from my love
 Keep on running, running from my love
 Keep on running, running from my love

@@ -45,7 +45,7 @@ He said he had a little picking to do a little farther down the track
 He said, "I'm your man, I wouldn't do you wrong"
 Well, Frankie curled up on the sofa, thinking about her man
 Far away the couples were dancing to the music of his band
-He was Frankie's man, he wadn't doing  her wrong
+He was Frankie's man, he wadn't doing her wrong
 Then, in the front door walked a redhead, Johnny saw her right away
 She came down by the bandstand to watch him while he played
 He was Frankie's man, but she was far away

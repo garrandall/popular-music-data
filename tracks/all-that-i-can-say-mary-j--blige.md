@@ -153,7 +153,7 @@ All that I can say
 (Do do, do do, do do, doo)
 All that I can say
 (Do do, do do, do do, doo)
-All that I...
+All that I
 (Do do, do do, do do, doo)
 
 All I can say

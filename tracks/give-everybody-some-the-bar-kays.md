@@ -25,7 +25,7 @@ rankings:
   start_date: '1967-11-04'
 ---
 Come and get it now, oh
-The drummer,  alright, let's give everybody some
+The drummer, alright, let's give everybody some
 (Give everybody some, yeah)
 
 

@@ -69,7 +69,7 @@ I'm a fool yea, (Fool for the city) A fool for the city, (Fool for the city)
 I ain't no country boy, woo! (Fool for the city) (Fool for the city)
 Woo! (Fool for the city) (Fool for the city)
 A Fool for the city (Fool for the city) (Fool for the city)
-Whoo! (Fool for the city) (Fool for the city) ...
+Whoo! (Fool for the city) (Fool for the city)
 
 
 

@@ -38,7 +38,7 @@ Let me switch up the game
 I drink that co-gnac
 Step back cause I might put it ON ya
 I go deep, so deep 'til you sleep
-Count sheep, wake you up from  all week
+Count sheep, wake you up from all week
 You don't want me have to SHOW ya
 How a freak bitch act when I ain't SO-ber
 Whattup, I'm to' up, sho' nuff

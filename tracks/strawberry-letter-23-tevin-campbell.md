@@ -71,7 +71,7 @@ If you try to ask, "is it cool?"
 If you arrive and don't see me
 I'm gonna be with my baby
 I am free flying in her arms
-Over the sea...
+Over the sea
 
 Stained window yellow candy screen
 See speakers of kite (ah, ah, ah, ah, ah)

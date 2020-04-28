@@ -26,7 +26,6 @@ rankings:
 ---
 (I love you, I love you, I love you)
 
-(Chorus)
 I love you, I love you, I love you
 Oh tell me, please tell me, you love me too
 I'll keep waiting and wondering until you do
@@ -37,10 +36,6 @@ And I use them to scold her
 And if the words should find their mark
 Maybe they will pierce your heart
 
-
-(Instrumental)
-
-Spoken:
 Again I wish, that every time we pass by
 Somewhere deep inside
 Something I just can't hide

@@ -76,45 +76,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-02-15'
 ---
-Hook by 112:
-Baby I can't figure it out
-Your kiss is just like honey
-(Repeat throughout song)
-
-Chorus:
 You can't deny what you feel for me
 Baby, baby, baby, baby
 See love comes once so let's take it babe
 Baby, baby
 
-Verse One:
 Tell me baby
 If I need you you're here with me
 Show me baby
 That the love we share is real
 So...
 
-Repeat Chorus
+You can't deny what you feel for me
+Baby, baby, baby, baby
+See love comes once so let's take it babe
+Baby, baby
 
-Verse Two:
 I need you baby
 Let me show you the way to my heart
 Trust me baby
 And so I won't let you go away
 
-Bridge:
 You said that love was too confusing
 But see I'm so relaxed I will let it lead the way
 Uncontrollably no one can refuse it
 See I've got to have that loving once again
 
-Repeat Chorus (x2)
+You can't deny what you feel for me
+Baby, baby, baby, baby
+See love comes once so let's take it babe
+Baby, baby
 
-Repeat Bridge
+You said that love was too confusing
+But see I'm so relaxed I will let it lead the way
+Uncontrollably no one can refuse it
+See I've got to have that loving once again
 
-Repeat Chorus (x2)
+You can't deny what you feel for me
+Baby, baby, baby, baby
+See love comes once so let's take it babe
+Baby, baby
 
-Outro:
 If loving you is wrong
 I don't want to be right now baby
-(Repeat to fade)

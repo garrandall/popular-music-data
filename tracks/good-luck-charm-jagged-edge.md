@@ -63,7 +63,7 @@ And you always got that sexy underwear on
 So much good has come my way
 Since she came in my life
 I'll never push you away or brush you off to the side
-See girl I, I I...
+See girl I, I I
 See my luck has changed for the better.
 
 

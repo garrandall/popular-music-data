@@ -97,7 +97,7 @@ And why can't I let it go
 
 There's gotta be more to life...
 Than chasing down every temporary high to satisfy me
-Cause the more that I'm...
+Cause the more that I'm
 Tripping out thinking there must be more to life
 Well it's life, but I'm sure... there's gotta be more
 Than wanting more

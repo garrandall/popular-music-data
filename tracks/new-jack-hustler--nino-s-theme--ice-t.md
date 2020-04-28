@@ -47,7 +47,7 @@ Last thing I sweat's a sucka punk cop.
 Move like a king when I roll, hops,
 You try to flex, bang, another nigga drops.
 You gotta deal with this cause there's no way out,
-Why?  Cash money ain't never gonna play out.
+Why? Cash money ain't never gonna play out.
 I got nothin to lose, much to gain,
 In my brain, I got a capitalist migraine.
 I gotta get paid tonight, you muthafuckin right.
@@ -57,7 +57,7 @@ Nineteen, I got a fifty thousand dollar car.
 Go to school, I ain't goin for it,
 Kiss my ass, bust the cap on the Moet.
 Cause I don't wanna hear that crap,
-Why?  I'd rather be a New Jack-----Hustler
+Why? I'd rather be a New Jack-----Hustler
 
 
 Hustler
@@ -75,7 +75,7 @@ Man, you the flyest nigga I seen in my life!
 Yo man, I just wanna roll with you man,
 How can I be down?
 
-What's up?  You say you wanna be down?
+What's up? You say you wanna be down?
 Ease back, or muthafucka get beat down.
 Out my face, fool I'm the illest,
 Bulletproof, I die harder than Bruce Willis.
@@ -85,7 +85,7 @@ All I think about is keys and Gs
 Imagine that, me workin at Mickey D's (ha ha ha ha).
 That's a joke cause I'm never gonna be broke,
 When I die there'll be bullets and gunsmoke.
-Ya don't like my lifestyle?  Fuck you!
+Ya don't like my lifestyle? Fuck you!
 I'm rollin with the New Jack crew.
 And I'm a hustler.
 
@@ -96,7 +96,7 @@ Here I come, so you better break North,
 As I stride, my gold chains glide back and forth.
 I care nothing bout you, and that's evident.
 All I love's my dope and dead presidents.
-Sound crazy?  Well it isn't.
+Sound crazy? Well it isn't.
 The ends justifies the means, that's the system.
 I learned that in school then I dropped out,
 Hit the streets, checked a grip, and now I got clout.
@@ -113,9 +113,9 @@ I gotta get paid, I got money to earn.
 With my posse, out on the ave,
 Bump my sounds, crack a forty and laugh.
 Cool out and watch my new Benz gleam,
-Is this a nightmare?  Or the American dream?
+Is this a nightmare? Or the American dream?
 So think twice if you're coming down my block,
-You wanna journey through hell?  Well shit gets hot.
+You wanna journey through hell? Well shit gets hot.
 Pregnant teens, children's screams,
 Life is weighed on the scales of a triple beam.
 You don't come here much, and ya better not.

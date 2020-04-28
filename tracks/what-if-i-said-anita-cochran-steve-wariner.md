@@ -72,7 +72,7 @@ rankings:
 We've been friends for a long long time
 You tell me your secrets and I tell you mine
 She's left you all alone and you feel like no one cares
-But I have never failed you,  I've always been there
+But I have never failed you, I've always been there
 
 
 You tell your story, it sounds a bit like mine

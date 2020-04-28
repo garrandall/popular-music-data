@@ -84,7 +84,7 @@ I'm gonna get ya get ya get ya get ya
 One way or another I'm gonna win ya
 I'll get ya, I'll get ya
 One way or another I'm gonna see ya
-I'm gonna  meet ya  meet ya  meet ya  meet ya
+I'm gonna meet ya meet ya meet ya meet ya
 One day, maybe next week, I'm gonna meet ya
 I'll meet ya
 

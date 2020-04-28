@@ -103,7 +103,7 @@ So let me see you pop your thing full throttle
 
 I love the way you move so sexy (love to see, yeah)
 I love when you are all up on me
-But there's one thing I have to see  (one thing I have to see)
+But there's one thing I have to see (one thing I have to see)
 Is the way you pop that booty (is the way you pop it for me,yeah )
 I love the way you move so sexy
 I love when you all up on me (oh oh oh oh)

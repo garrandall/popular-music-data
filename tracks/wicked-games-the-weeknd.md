@@ -144,7 +144,7 @@ So let me motherfucking love you
 
 
 Listen, ma, I'll give you all I got
-Get me off of this (off of this), I need confidence (confidence)  in myself (Oh, eh, ehh)
+Get me off of this (off of this), I need confidence (confidence) in myself (Oh, eh, ehh)
 Listen, ma, I'll give you all of me (Oh)
 Give me all of it, I need all of it to myself (I need all of it)
 So tell me you love me, yeah

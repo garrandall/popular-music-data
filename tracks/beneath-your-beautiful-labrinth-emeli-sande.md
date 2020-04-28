@@ -101,9 +101,9 @@ I wanna see inside
 Would you let me see beneath your beautiful tonight, oh, tonight?
 
 See beneath, see beneath
-I...
+I
 Tonight
-I...
+I
 
 I'm gonna climb on top your ivory tower
 I'll hold your hand and then we'll jump right out

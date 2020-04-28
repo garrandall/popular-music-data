@@ -77,7 +77,7 @@ They'll set it up in another town
 Tonight the people were so fine
 They waited there in line
 And when they got up on their feet they made the show
-And that was sweet ...
+And that was sweet
 But I can hear the sound
 Of slamming doors and folding chairs
 And that's a sound they'll never know

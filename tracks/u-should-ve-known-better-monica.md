@@ -94,7 +94,7 @@ Boy, if you didn't know it, well, now you know
 I didn't need the furs or the jewelry
 Because material things, it don't mean much to me
 And ever since you've been gone
-I've been holding us down, on my own and no, ...
+I've been holding us down, on my own and no,
 
 
 I never ever cheated, I never ever lied

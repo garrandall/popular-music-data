@@ -32,10 +32,12 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1988-07-23'
 ---
-Enjoy this trip (x2)
+Enjoy this trip
 And it is a trip
 
-S'Express (x3)
+S'Express
+S'Express
+S'Express
 
 Countdown is progressing
 Uno dos
@@ -43,7 +45,6 @@ Uno dos tres quatro
 
 I got the hots for you
 Boop
-REPEAT
 
 I got the hots for you
 Boop boop b-boop bep b-bep ah ah
@@ -54,16 +55,15 @@ Boop boop b-boop bep b-bep ah ah
 I got the hots for you
 Boop boop b-bep boop boop b-bep bep
 
-S'Express (x4)
+S'Express
 
-Come on and listen to me baby now (x4)
+Come on and listen to me baby now
 
-Come on and listen to me baby now (x3)
+Come on and listen to me baby now
 Oh oh oh
 
 I got the hots for you
 Boop
-REPEAT
 
 I got the hots for you
 Boop boop b-boop bep b-bep ah ah
@@ -79,12 +79,17 @@ No that's good
 
 Enjoy this trip
 And it is a trip
-REPEAT
 
 Drop that ghetto blaster
 
-Come on and listen to me baby now (x8)
+Come on and listen to me baby now
 
-S'Express (x7)
+S'Express
+S'Express
+S'Express
+S'Express
+S'Express
+S'Express
+S'Express
 
 Ah

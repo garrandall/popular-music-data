@@ -88,7 +88,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-03-22'
 ---
-Baby, you can come see me  'cause I need you here with me
+Baby, you can come see me 'cause I need you here with me
 And I'll show you what love is made of
 Later on if you are free, baby, you can come see me
 And I'll show you what love is made of
@@ -106,7 +106,7 @@ To this place that lovers dream of
 (And I'm here to let you know, baby)
 
 
-You can come see me  'cause I need you here with me
+You can come see me 'cause I need you here with me
 And I'll show you what love is made of
 Later on if you are free, baby, you can come see me
 And I'll show you what love is made of
@@ -126,11 +126,11 @@ We can do (sexy) anything, sexy things
 (And I'm here to let you know)
 
 
-Baby, you can come see me  'cause I need you here with me
+Baby, you can come see me 'cause I need you here with me
 And I'll show you what love is made of
 Later on if you are free, baby, you can come see me
 And I'll show you what love is made of
-Baby, you can come see me  'cause I need you here with me
+Baby, you can come see me 'cause I need you here with me
 And I'll show you what love is made of
 Later on if you are free, baby, you can come see me
 And I'll show you what love is made of
@@ -146,7 +146,7 @@ Let's relight the candle, give this one more shot
 I never meant to mistreat ya girl, I need you a lot
 
 
-Baby, you can come see me  'cause I need you here with me
+Baby, you can come see me 'cause I need you here with me
 And I'll show you what love is made of
 Later on if you are free, baby, you can come see me
 And I'll show you what love is made of

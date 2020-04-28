@@ -28,8 +28,8 @@ Oh, darn that dream
 
 Darn that one track, mind of mine
 It can't understand that you don't care
-Just to change the mood i'm in
-Lord i'd welcome a nice old, nightmare
+Just to change the mood I'm in
+Lord I'd welcome a nice old, nightmare
 
 Darn that dream, and bless it too
 Without that dream, I never would have you

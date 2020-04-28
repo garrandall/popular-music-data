@@ -44,7 +44,7 @@ Money is the thing that I need
 To ful fil my greed
 Marky Mark would like 2 say
 
-That im fiending, just 2 get paid
+That I'm fiending, just 2 get paid
 Forget love and all that crap
 Im just tryin 2 keep my pockets fat
 I need Cash in a hurry and it just aint funny
@@ -53,7 +53,7 @@ Yo... I need money!
 I need some money
 I need money (R2)
 
-Well its friday nite and im calling up my honey
+Well its friday nite and I'm calling up my honey
 Bitch better have my money!
 Word! cuz times are hard
 I lost my job, my wallet, my friends and my credit card
@@ -64,10 +64,10 @@ I need money
 
 CHORUS
 I Need money, yeah thats my situation
-So right a check cuz im takin donations
+So right a check cuz I'm takin donations
 Or handouts, It don't matter
 As long As my pockets get fatter & fatter & fatter
-Cuz im hungry for the green backs
+Cuz I'm hungry for the green backs
 For a dollar I'll even sell big macs
 Thats right cuz brother I found
 That money makes the world go round

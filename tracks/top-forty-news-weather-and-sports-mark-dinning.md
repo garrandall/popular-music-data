@@ -70,7 +70,7 @@ Giving a station break
 
 And the guys down at Canaveral
 Were shoveling snow
-Hollering, let's go, whoa, whoa...
+Hollering, let's go, whoa, whoa
 
 Top 40, news, weather and sports
 Top 40, news, weather and sports

@@ -84,7 +84,7 @@ And I won't stop calling you
 
 Baby, oh baby
 You look so good to me baby
-Baby, ohbaby
+Baby, oh baby
 You are so good to me baby
 
 Just one look in your eye
@@ -100,9 +100,9 @@ You go out to light my hind
 Then I get real close to you
 And your sweet kisses see me through
 
-I said, baby, ohbaby
+I said, baby, oh baby
 You look so good to me baby
-Baby, ohbaby
+Baby, oh baby
 How I love for you to call me baby
 
 When you squeeze me real tight

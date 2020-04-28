@@ -51,14 +51,14 @@ True true happiness will folow if you'll only follow me yeah yeah
 When you're feeling lost inside let my true love be your guide
 True true happiness will follow if you'll only follow me yeah
 
-True true happiness will folow...
+True true happiness will folow
 
 Come with me and find the way you can trust me when I say
 True true happiness will follow if you'll only follow me yeah
 
-True true happiness will folow...
+True true happiness will folow
 
 Let me lead you like a steady take my hand and say you're ready
 True true happiness will follow if you'll only follow me yeah
 
-True true happiness will folow...
+True true happiness will folow

@@ -70,7 +70,7 @@ Step on the scene with some green and some hard white work
 Real clean fresh jeans and a all white shirt
 We all get money and we all smoke purp
 Hit the dirt one squirt will leave all yall murk
-Cause im fresh in my white tee they glance at my white tee and i
+Cause I'm fresh in my white tee they glance at my white tee and i
 Got the hat that match my pants and my white tee
 Whoever that you might see
 I know they got a white tee
@@ -90,7 +90,7 @@ I hit the mall in my white tee
 Oh I think they like me or they like the diamonds cause they shine so brightly
 Yeah u know I how I be under my tee it the wifey
 I got that thang tucked tightly
-For them niggas who think im soft nigga come and try me
+For them niggas who think I'm soft nigga come and try me
 They going to find your body
 White tees in the club and while we drinking on bacardi
 Fuck throwbacks white tees in party
@@ -109,7 +109,7 @@ White tee extravganza nigga like a foot locker sale
 Niggas think I done fail but my paper stacking a lot
 Or you can throw back this but
 Partner check my nine
-And im a ghetto gangsta white tee laws gone hate ya
+And I'm a ghetto gangsta white tee laws gone hate ya
 Street gangs with a little fame them hoes gonna chase ya
 Can't escape from this white shit it done covered the map
 Like crack been her in the 80s and it took over the trap

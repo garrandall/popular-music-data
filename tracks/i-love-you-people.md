@@ -81,32 +81,27 @@ rankings:
   start_date: '1968-08-03'
 ---
 I love you, I love you, I love you, yes I do
-But the words won't come & I don't know what to say
+But the words won't come and I don't know what to say
 
 I should tell you, I love you, I do
 My words should explain, but my words won't come
 I shouldn't hide my love deep inside
 My words should explain, but my words won't come
-I should tell you just how I feel, & I keep tryin'
+I should tell you just how I feel, and I keep tryin'
 But something holds me back when I try to tell you
 
-CHORUS:
 I love you, I love you, I love you, yes I do
 I love you, I love you, I love you, yes I do
-But the words won't come & I don't know what to say
+But the words won't come and I don't know what to say
 
 If I can find the words in my mind
 The words could explain, but the words won't come
 If you can see what you mean to me
 My words should explain, but my words won't come
-& oh how hard I try to tell you I love you
+And oh how hard I try to tell you I love you
 But something holds me back when I try to tell you
 
-(chorus)
-(instrumental)
-
-& I don't know what to say
-& oh how hard I try to tell you I love you
+And I don't know what to say
+And oh how hard I try to tell you I love you
 But something holds me back when I try to tell you
 
-(chorus x2; 2nd time, minus last line)

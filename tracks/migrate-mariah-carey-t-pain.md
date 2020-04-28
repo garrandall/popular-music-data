@@ -98,7 +98,7 @@ Got stacks plus I'm back with Mariah.
 
 We stay down like four flats on a cadillac,
 Back to the back, we fall flat (girl),
-Make you feel like doin a dance, i'm gonna pull up my pants c'mon back (girl)
+Make you feel like doin a dance, I'm gonna pull up my pants c'mon back (girl)
 
 But I gotta migrate to bar,
 From the bar to the flo',

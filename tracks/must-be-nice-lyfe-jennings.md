@@ -94,7 +94,7 @@ I just wanna inform you that
 When you got somebody good
 
 You hold on to em'
-Mmm...
+Mmm
 Must be nice
 Having someone who understands
 

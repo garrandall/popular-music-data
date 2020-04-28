@@ -134,7 +134,7 @@ And I'm gonna be right there for you, baby, hey..
 'Cause there is something that I want from you right now
 
 
-(Give me that honey love) Whoa...oh...whoa...oh...oh...whoa...
+(Give me that honey love) Whoa...oh...whoa...oh...oh...whoa
 (Give me that honey love) Give me that honey love right now, baby
 (Give me that honey love)
 
@@ -151,7 +151,7 @@ Oh, we're gonna have fun, alright
 
 (Give me that honey love) Give me that honey love
 (Give me that honey love) I want it right now, hey
-(Give me that honey love) I...I...
+(Give me that honey love) I...I
 (Give me that honey love) Right now give me that honey love, listen
 (Give me that honey love) There ain't nothin' I won't do for you, woo, woo, woo, woo, woo
 (Give me that honey love) I'm here to satisfy you, baby

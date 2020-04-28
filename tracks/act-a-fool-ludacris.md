@@ -77,7 +77,7 @@ It's 9-1-1, PLEASE CALL THE DOCTOR
 Evacuate the building and trick the pigs
 Since everybody wanna piece, we gon split ya wigs
 See some fools slipped up and over-stepped they boundaries
-You about to catch a cold, STAY THE FUCK AROUND FROM  ME
+You about to catch a cold, STAY THE FUCK AROUND FROM ME
 Ya peeps talkin 'bout what kinda shits he on
 You disappear like "POOF, BITCH BE GONE"
 You think twelve gon catch me, GIMMIE A BREAK
@@ -138,7 +138,7 @@ Got the whole crew ridin and we startin SHIT
 I even got a trailer hitch with the barbeque pit
 Now all you wanna do is get drunk and pout
 Plus your new name is Fire cuz we stomped you out
-and yeah, we blow trees and bees,  that's fantastic
+and yeah, we blow trees and bees, that's fantastic
 So gulls hold ya weave while I'm weaving through traffic
 I kicked to fifth gear and teared the road apart
 You'll be like lil John Q and get a +Change of Heart+

@@ -81,9 +81,9 @@ People ask what's wrong, I say
 My heart went up, down
 Like a merry-go-round and 'round
 Like a forest fire, Down, down
-Oh, oh, oh, dum-didly, dum-didly, dum-dum-dum...
+Oh, oh, oh, dum-didly, dum-didly, dum-dum-dum
 
 Hey, hey, dum de dodie-dodie
 Hip, hip, dum de dodie-dodie
 Hip, hip, dum de dodie-dodie-do
-Dum-diddly, dum-diddly, dum-dum...
+Dum-diddly, dum-diddly, dum-dum

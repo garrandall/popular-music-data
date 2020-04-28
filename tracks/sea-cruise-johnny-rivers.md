@@ -35,7 +35,7 @@ Oo-wee, oo-wee, baby
 Oo-wee, oo-wee, baby
 Won't you let me take you on a sea cruise
 
-I feel like jumpin', and, honey, won't you join me please?  Yeah
+I feel like jumpin', and, honey, won't you join me please? Yeah
 Well, I don't like beggin', but now I'm gonna bend a knee, oh yeah
 
 Well, I gotta get a-movin', honey, I ain't lyin'
@@ -58,7 +58,7 @@ Oo-wee, oo-wee, baby
 Oo-wee, oo-wee, baby
 Won't you let me take you on a sea cruise
 
-I feel like jumpin', and, honey, won't you join me please?  Yeah
+I feel like jumpin', and, honey, won't you join me please? Yeah
 Well, I don't like beggin', but now I'm gonna bend a knee, oh yeah.
 
 Oo-wee, oo-wee, baby

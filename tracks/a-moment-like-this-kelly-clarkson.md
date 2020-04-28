@@ -98,7 +98,7 @@ Would you agree
 It's almost that feelin'
 That we've met before
 So tell me that you don't think I'm crazy
-When I tell you love has come here and now...
+When I tell you love has come here and now
 
 A moment like this
 Some people wait a lifetime,

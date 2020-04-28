@@ -37,7 +37,7 @@ Who wouldn't save you if you drowned
 You hang on forty-second street
 And do your homework in the bar
 Saint helen says you're missin' school
-And i'm wond'rin' where you are
+And I'm wond'rin' where you are
 Holyanna
 Holyanna
 Girl, what you do to me

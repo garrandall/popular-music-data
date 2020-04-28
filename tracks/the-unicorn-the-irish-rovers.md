@@ -69,7 +69,7 @@ The loveliest of all was the Unicorn
 Now God seen some sinning and it gave Him pain
 And He says "Stand back, I'm going to make it rain."
 He says "Hey brother Noah, I'll tell you what to do
-Build me a floating zoo. And take some of them...
+Build me a floating zoo. And take some of them
 
 Green alligators and long necked geese
 Some humpty-back camels and some chimpanzees

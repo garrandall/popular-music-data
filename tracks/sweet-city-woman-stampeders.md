@@ -93,7 +93,7 @@ Oh, my banjo and me, we got a feel for singin'
 
 {Guitar Solo}
 
-Da da da da da da ...
+Da da da da da da
 
 Swee-ee-eet, sweet city woman (oh, she's my)
 Sweet, sweet, sweet, sweet city woman

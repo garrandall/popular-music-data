@@ -97,9 +97,9 @@ People see right through you
 Everyone who knew you well
 Falls apart, might as well
 Day is long and nothing is wasteful
-Runaway runaway  runaway runaway
+Runaway runaway runaway runaway
 Hold, hold you but your going away
-Runaway runaway  runaway runaway
+Runaway runaway runaway runaway
 
 Hold (Want) you tomorrow but your leaving today
 You walk along by yourself
@@ -110,10 +110,10 @@ All those words that hurt you
 More than you would let it show
 Comes apart, by yourself
 All is well and everything is wasted
-Runaway runaway  runaway runaway
+Runaway runaway runaway runaway
 
 Hold (Want) hold you but your going away
-Runaway runaway  runaway runaway
+Runaway runaway runaway runaway
 
 Hold (Want) you tomorrow but your leaving today
 Sometimes we'll feel around and this dance instead can't be down
@@ -124,10 +124,10 @@ She falls apart, no one there
 Hold her hand, it seems to disappear
 Falls apart, might as well
 Day is long and nothing is wasted
-Runaway runaway  runaway runaway
+Runaway runaway runaway runaway
  Want
 Hold (Want) hold you but your going away
-Runaway runaway  runaway runaway
+Runaway runaway runaway runaway
  Want
 Hold (Want) you tomorrow but your leaving today
 Runaway Runaway

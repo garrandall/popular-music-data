@@ -75,4 +75,4 @@ Always something there to remind me
 
 I was born to love you, and I will never be free
 When there is, when there is
-When there is always something there to remind me ...
+When there is always something there to remind me

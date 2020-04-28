@@ -21,29 +21,29 @@ rankings:
   start_date: '1971-01-23'
 ---
 
-People can you feel it?  Love is everywhere.
-People can you hear it?  Love is in the air.
-We're in a revolution.  Don't you know we're right.
-Everyone is singing.  Yeah!  There'll be no one to fight.
-People can you feel it?  Love is everywhere.
-People can you feel it?  Love is everywhere.
-People can you feel it?  Love is everywhere.
-People can you feel it?  Love is everywhere.
-People can you feel it?  Love is everywhere.
-People can you feel it?  Love is everywhere.
+People can you feel it? Love is everywhere.
+People can you hear it? Love is in the air.
+We're in a revolution. Don't you know we're right.
+Everyone is singing. Yeah! There'll be no one to fight.
+People can you feel it? Love is everywhere.
+People can you feel it? Love is everywhere.
+People can you feel it? Love is everywhere.
+People can you feel it? Love is everywhere.
+People can you feel it? Love is everywhere.
+People can you feel it? Love is everywhere.
 Love is everywhere.
 Love is everywhere.
 Love is everywhere.
 Love is everywhere.
 Love is everywhere.
-People can you feel it?  Love is everywhere.
-People can you feel it?  Love is everywhere.
-People can you feel it?  Love is everywhere.
-People can you feel it?  Love is everywhere.
-People can you feel it?  Love is everywhere.
-People can you feel it?  Love is everywhere.
-People can you feel it?  Love is everywhere.
-People can you feel it?  Love is everywhere.
+People can you feel it? Love is everywhere.
+People can you feel it? Love is everywhere.
+People can you feel it? Love is everywhere.
+People can you feel it? Love is everywhere.
+People can you feel it? Love is everywhere.
+People can you feel it? Love is everywhere.
+People can you feel it? Love is everywhere.
+People can you feel it? Love is everywhere.
 
 
 

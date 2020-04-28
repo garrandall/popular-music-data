@@ -68,7 +68,7 @@ rankings:
 
 
 Yeah
-Oh yes I love her like Egyptian, want a description, my royal  highness
+Oh yes I love her like Egyptian, want a description, my royal highness
 So many plusses when I bust that there can't be no minus
 Went from yellin crickets and crows, bitches and hoes to queen thangs
 Over the years I been up on my toes and yes I seen thangs

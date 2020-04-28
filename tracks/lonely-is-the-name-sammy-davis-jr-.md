@@ -46,7 +46,7 @@ Was it all a lie?
 Don't you love me
 Anymore?
 
-Just tell them...
+Just tell them
 
 Lonely is the name
 It will always be

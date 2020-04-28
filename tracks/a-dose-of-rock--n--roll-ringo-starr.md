@@ -95,7 +95,7 @@ Hey, hey, baby, (dose of rock'n'roll)
 Why don't you take some rock'n'roll? (take some rock'n'roll)
 Just take some rock'n'roll, (take some rock'n'roll)
 Oh, oh, take some! (take some rock'n'roll)
-Oh, i'm gonna take it! (take some rock'n'roll)
+Oh, I'm gonna take it! (take some rock'n'roll)
 Take some rock'n'roll! (take some rock'n'roll)
 
 

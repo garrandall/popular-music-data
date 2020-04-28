@@ -81,7 +81,7 @@ Two doors down
 They're not aware that I'm around
 
 'Cause here I am
-No longer cryin' an' feelin' sorry
+No longer cryin' and feelin' sorry
 We're having a party just two doors down
 
 I can't believe I'm standin' here

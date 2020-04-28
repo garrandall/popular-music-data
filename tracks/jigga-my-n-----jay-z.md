@@ -195,4 +195,4 @@ Niggas better get it right, bitches better get it right, who?
 (Jigga) And who I'm rollin with huh?
 (My niggas) Uh-huh-uh-uhh-uhh-uhh
 Niggas better get it right, bitches better get it right.
-(Jigga) ...
+(Jigga)

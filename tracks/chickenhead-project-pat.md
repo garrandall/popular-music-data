@@ -158,7 +158,7 @@ i'm the fool supplyin tha dro
 i'm tha fool supplyin tha blow
 i'm tha playa who got u chicken heads knockin at my do
 tellin me that you diggin me
-tellin me i'm yo man to be
+tellin me I'm yo man to be
 girlfriend its gone cost a fee
 get yo rags and work that streets
 pay ya boy and make me rich

@@ -63,10 +63,10 @@ It's the least that I can do
 What you've given me, given me
 
 
-Cause I'm cool, Crazy Cool,  Crazy cool with you
+Cause I'm cool, Crazy Cool, Crazy cool with you
 In this -uh-groove, Crazy groove
 Baby act a fool
-Hey I'm cool,  Crazy Cool, You're crazy cool with me
+Hey I'm cool, Crazy Cool, You're crazy cool with me
 In this groove, Crazy Cool, Everything you need, SEXY
 
 Laying in the grass, writing poetry

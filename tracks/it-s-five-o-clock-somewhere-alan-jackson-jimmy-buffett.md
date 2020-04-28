@@ -93,13 +93,13 @@ The sun is hot and that old clock is movin' slow
 An' so am I
 Work day passes like molasses in wintertime
 But it's July
-I'm gettin' paid by the hour, an' older by the minute
+I'm gettin' paid by the hour, and older by the minute
 My boss just pushed me over the limit
 I'd like to call him somethin'
 I think I'll just call it a day
 
 
-Pour me somethin' tall an' strong
+Pour me somethin' tall and strong
 Make it a "Hurricane" before I go insane
 It's only half-past twelve but I don't care
 It's five o'clock somewhere
@@ -115,7 +115,7 @@ If the phone’s for me
 You can tell 'em I just sailed away
 
 
-And pour me somethin' tall an' strong
+And pour me somethin' tall and strong
 Make it a "Hurricane" before I go insane
 It's only half-past twelve but I don't care
 It's five o'clock somewhere
@@ -126,10 +126,10 @@ An' be back to work before two
 At a moment like this, I can't help but wonder
 What would Jimmy Buffett do?
 Funny you should ask Alan I'd say
-"Pour me somethin' tall an' strong
+"Pour me somethin' tall and strong
 Make it a "Hurricane" before I go insane
 It's only half-past twelve but I don't care"
-Pour me somethin' tall an' strong
+Pour me somethin' tall and strong
 Make it a "Hurricane" before I go insane
 It's only half-past twelve but I don't care
 He don't care

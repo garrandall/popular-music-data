@@ -75,7 +75,7 @@ And Hey Girl now sit yourself down
 I'm not ashamed to get down on the ground
 and beg you beg you to stay
 oh don't go away
-(don't go  please don't go)
+(don't go please don't go)
 Hey Girl (hey hey)
 Please Please don't go away
 (Please don't go)

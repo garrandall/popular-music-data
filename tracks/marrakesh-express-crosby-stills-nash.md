@@ -67,7 +67,7 @@ Take the train from Casablanca going south
 Blowing smoke rings from the corners of my mouth
 Colored cottons hang in the air
 Charming cobras in the square
-Striped djellebas we can wear at home  Well, let me hear you now
+Striped djellebas we can wear at home Well, let me hear you now
 
 Wouldn't you know we're riding on the Marrakesh Express
 Wouldn't you know we're riding on the Marrakesh Express

@@ -109,19 +109,19 @@ Up here on Cloud 9
 Uh, uh, uh, uh, uh, I'm riding high on Cloud 9
 
  You're as free as a bird in flight
-(Cloud 9)  There's no difference between day and night
-(Cloud 9)  It's a world of love and harmony
-(Cloud 9)  You're a million miles from reality
+(Cloud 9) There's no difference between day and night
+(Cloud 9) It's a world of love and harmony
+(Cloud 9) You're a million miles from reality
 
 (Reality) I'm gonna sail (up, up) higher (up, up... up, up and away) Cloud 9
 
  You can be what you wanna be
-(Cloud 9)  You ain't got no responsibility
-(Cloud 9)  Every man in his mind is free
-(Cloud 9)  You're a million miles from reality
-(Cloud 9)  You can be what you wanna be
+(Cloud 9) You ain't got no responsibility
+(Cloud 9) Every man in his mind is free
+(Cloud 9) You're a million miles from reality
+(Cloud 9) You can be what you wanna be
 
-Boom-boom-boom-boom-boom...
+Boom-boom-boom-boom-boom
 
 
 I'm feeling fine on Cloud 9

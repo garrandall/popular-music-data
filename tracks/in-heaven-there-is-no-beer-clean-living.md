@@ -89,4 +89,4 @@ La la, la-la-la-la
 La la, la-la
 La la, la-la-la, la-la-la
 La la, la-la-la-la
-La la, la-la-la-la...
+La la, la-la-la-la

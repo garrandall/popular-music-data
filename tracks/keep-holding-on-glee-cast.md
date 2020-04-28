@@ -102,7 +102,7 @@ Yeah, yeah, yeah, yeah
 
 La da da da
 La da da da
-La da da da da da da da da...
+La da da da da da da da da
 
  (FINN & RACHEL WITH NEW DIRECTIONS)
 (Keep holding on)

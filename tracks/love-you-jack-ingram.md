@@ -57,7 +57,7 @@ There's only one four letter word that'll do
 Love you
 
 Love you, love this town
-And I'm sick an' lovin' tired
+And I'm sick and lovin' tired
 Of all your lovin' around
 There's only one four-letter word that'll do
 

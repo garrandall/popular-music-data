@@ -84,7 +84,7 @@ Every day should be your birthday, hun'
 You make the guys all dumb
 Maybe 'cause you're blessed with the beautiful buns
 Maybe 'cause your beauty keep the dues on sprung
-Wonderin' just where you got that from, from, from...
+Wonderin' just where you got that from, from, from
 
 
 Baby, where'd you get your body from, tell me where'd you get your body from

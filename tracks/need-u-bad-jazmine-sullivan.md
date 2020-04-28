@@ -128,7 +128,7 @@ Just so I could get back in my spot (Oh)
 
 
 When you want him so bad and
-You gotta get him back say, oh oh oh oh  (oh oh oh oh)
+You gotta get him back say, oh oh oh oh (oh oh oh oh)
 'cause it won't get no better
 Two you are together say, oh oh oh oh (oh oh oh oh)
 If you believe in love and

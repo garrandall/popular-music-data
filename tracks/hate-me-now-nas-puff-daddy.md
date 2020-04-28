@@ -50,7 +50,7 @@ Looks like the death of me now
 But you know, there's no turning back now
 This is what makes me - this is what I am
 
- Feel me?  Let's go
+ Feel me? Let's go
 
 
 You can hate me now.. but I won't stop now..
@@ -126,7 +126,7 @@ Think we all know the answer to that, cause niggas feel this right
 
 
 You think I'ma come this far, and let you niggas stop me now?
-I hate you too!  (Do it now!)
+I hate you too! (Do it now!)
 
 I won't stop
 I can't stop

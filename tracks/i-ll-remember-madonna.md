@@ -157,7 +157,7 @@ I travel in stillness
 And I'll remember happiness
 I'll remember (I'll remember)
 Mmm... (I'll remember)
-Mmm...
+Mmm
 
 
 And I'll remember

@@ -110,7 +110,7 @@ Worried about her
 I should'ntdoubt her
 Cause our thing is for real
 And I don't worry
-Cause I know, I know, I know...
+Cause I know, I know, I know
 
 
 

@@ -76,11 +76,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-10-19'
 ---
-Hm, hm
-Yeah
-Oh Baby, hm
 Hang on in there, baby
-(Give me love tonight)
+Give me love tonight
 Don't be afraid, baby, oh
 
 You know we can't help but make it, oh my love
@@ -116,18 +113,18 @@ Baby don't you move it don't you dare
 Go baby let it go honey oh right there baby
 Don't you move it anywhere
 
-Give it a stand (x3) up now fashion
-Give it a jump (x3) up
-Give it a jam (x3) give it a pull
-Give me a love (2) give me a little love
+Give it a stand up now fashion
+Give it a jump up
+Give it a jam give it a pull
+Give me a love, give me a little love
 
-(Hang on in there baby, hang on in there darling)
+Hang on in there baby, hang on in there darling
 Hang on in there now
-(I'm gonna give you more than you ever dreamed possible)
+I'm gonna give you more than you ever dreamed possible
 Hang on in there, darling
-(Hang on in there baby)
 Hang on in there baby
-(Please don't let me down) hold it down
-(Please don't destroy this new joy)
-New joy (we've found)
+Hang on in there baby
+Please don't let me down, hold it down
+Please don't destroy this new joy
+New joy we've found
 New joy we've found

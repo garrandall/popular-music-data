@@ -24,10 +24,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-12-29'
 ---
-Love me just for me.  Love me just for me
-Love me just for me.  Love me just for me
-Love me just for me.  Love me just for me
-Love me just for me.  Love me just for me
+Love me just for me. Love me just for me
+Love me just for me. Love me just for me
+Love me just for me. Love me just for me
+Love me just for me. Love me just for me
 
 Sitting here all alone
 Wondering why you're not at home
@@ -64,8 +64,8 @@ Love me just for me over and over and over and over and over again
 
 (Love me.) I said baby, baby, could you care
 Could you care (Would you care) for me (for me) every minute, every hour
-Come on.  (Love me.) Come on, say you love me
-Say that you love me.  Just say that you need me
+Come on. (Love me.) Come on, say you love me
+Say that you love me. Just say that you need me
 (Love me just for me.) I'm not gonna leave you, I'm not gonna go
 No, no, no, no, no, no, no, no, no, no
 
@@ -75,8 +75,8 @@ It wasn't like you couldn't give it to her, but that was all she wanted
 Well, I'll keep searching this big old world until I find my lucky star
 And when I do, I'll ask her to love me just for me
 
-Ah, ah, ah.  (Love me just for me.)
-Hey, eh, eh, eh, eh, eh, eh, eh, uh.  (Love me just for me.)
+Ah, ah, ah. (Love me just for me.)
+Hey, eh, eh, eh, eh, eh, eh, eh, uh. (Love me just for me.)
 Oh, oh, oh, oh, oh, oh, oh, uh
 Oh, oh, oh, uh, uhhh...Would you love me
 (Love me just for me.) Oh, ohohoh, ohoh
@@ -86,9 +86,9 @@ You got to change
 (Love me just for me.) I'll be a better man
 (Love me just for me.)
 I'm trying so hard to please you, girl
-I'm trying to get inside your world.  (Love me.)
+I'm trying to get inside your world. (Love me.)
 (Love me just for me.) Oh, baby
 (Love me just for me.) Love me, only me
 (Love me just for me.) You're all I ever need
-Love me just for me.  Love me just for me
-Love me just for me.  Love me just for me
+Love me just for me. Love me just for me
+Love me just for me. Love me just for me

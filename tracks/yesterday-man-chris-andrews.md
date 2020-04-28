@@ -56,4 +56,4 @@ I know that, I know that
 I know that, I know that
 
 (Gone is the look of love she had last night)
-I know, I know...
+I know, I know

@@ -126,8 +126,8 @@ rankings:
 ---
 
 keep it chickenhead,im lookin for a dime
-get my swirve on,make it hot,word is bond, im lickin on your ankle
-bracelet,we'll be sippin' moet wit strawberries and dat shit, im nasty ask me
+get my swirve on,make it hot,word is bond, I'm lickin on your ankle
+bracelet,we'll be sippin' moet wit strawberries and dat shit, I'm nasty ask me
 why I lick my lips so in the darkness I can run my tongue over your tits
 its all good sugary,u aint leavin' sit up on my face and help my stash grow
 even

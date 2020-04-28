@@ -58,8 +58,8 @@ baby, use your hands to make me feel alrite
 and take away the stress and drama in my life
 while you braid my hair
 
-You may think that im complainin
-but thats not the case, all im sayin
+You may think that I'm complainin
+but thats not the case, all I'm sayin
 is my body gets weak, my mind gets tired
 i need sleep, but I gotta keep travelin on the road
 doin these shows, new york to cali

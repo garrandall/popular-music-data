@@ -50,10 +50,10 @@ rankings:
 ---
 Don't take your love from me
 Don't take your love, baby
-Ohhh.  (Don't take your love from me.)
+Ohhh. (Don't take your love from me.)
 Don't you ever take it away, baby
 Hm, mmm, mmm
-(Don't take your love from me.)  No, no, no, no
+(Don't take your love from me.) No, no, no, no
 
 I really don't think I can make it, baby
 Girl, if you ever go away
@@ -80,7 +80,7 @@ So strong
 
 (Don't take your love from me.)
 Oh, my, my, my, my, my, my, my, my, my baby
-Hey.  (Don't take your love from me.)
+Hey. (Don't take your love from me.)
 Don't you ever, don't you ever take your love from me
 I got to have it
 (Don't take your love from me.) I need it
@@ -101,7 +101,7 @@ I know a man ain't supposed to cry
 Baby, if you leave me, I swear I don't know what I'll do
 Please don't take your love from me
 
-Ohhh.  (Don't take your love from me.)
+Ohhh. (Don't take your love from me.)
 Don't you, don't you, don't you take it from me, baby
 (Don't take your love from me.)
 No, no, no, no, no, no, no, no, no, no, no

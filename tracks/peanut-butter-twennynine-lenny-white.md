@@ -32,7 +32,7 @@ Spread it with some jelly, Peanut butter, let's eat and meet!
 Share, share with me (peanut butter)ain't nothing but a sammich, you see!
 Share, share with me (peanut butter)ain't nothing but a sammich, you see!
 Share, share with me (peanut butter)ain't nothing but a sammich, you see!
-Share, share with me (peanut butter)ain't nothing but a...
+Share, share with me (peanut butter)ain't nothing but a
 Whoooooooo!
 When you're feeling hungry, Ain't got nothing to eat.
 Show me to the kitchen Peanut butter can't be beat.

@@ -42,7 +42,7 @@ I really shouldn't miss you
 But I can't let you go
 Oh yeah
 
-Lalalalala...
+Lalalalala
 
 'Cause we belong together now, yeah yeah
 Forever united here somehow, yeah

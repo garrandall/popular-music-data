@@ -101,7 +101,7 @@ Clap your hands
 Everybody clap your hands
 Oh, I wanna please you
 Boys, help me out
-Oh, I wanna...
+Oh, I wanna
 
 Blues. Blues. Blues. Blues
 Blues. Blues. Blues. Blues

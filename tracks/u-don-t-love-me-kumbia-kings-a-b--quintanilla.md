@@ -52,7 +52,6 @@ rankings:
 Girl I can't believe you tried to play me for fool
 I almost didn't see this one coming (You don't love me)
 
-Chorus:
 Girl don't tell me no more lies
 Pretending that your satisfied
 Baby I know your love's not true
@@ -77,7 +76,6 @@ Your calling out somebody else's name
 And when we kiss your eyes are open wide
 And they can't hide what you feel inside baby
 
-(Chorus)
 I saw you on the street
 At the place we were supposed to meet
 But you were with another man
@@ -105,5 +103,5 @@ You played with my heart
 And try to play me for a fool (yea)
 And like the saying goes
 What goes around comes around
-And one day, you'll know how exactly how it feels (how it feels oh
+And one day, you'll know how exactly how it feels
 

@@ -65,7 +65,7 @@ Oh
 
 Oh
 
-Welllll -  you know that I love you, tell the world I do
+Welllll - you know that I love you, tell the world I do
 Come on, pretty baby, why can't you be true?
 I need your loving, oh so bad
 The best little woman I ever had

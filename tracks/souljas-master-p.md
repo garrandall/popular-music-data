@@ -52,8 +52,8 @@ And all my real niggas wild out from left to the right
 (HUH) We got enemies (WHAT) then it's, glocks we pulled
 In God we trust nigga; I ain't got no friends (Ya heard?)
 Souljarettes, they love, money and ends
-You need some work?  Meet me in the bricks nigga
-You come short?  I'ma wet your shirt nigga
+You need some work? Meet me in the bricks nigga
+You come short? I'ma wet your shirt nigga
 It's like Vietnam on the ghetto in these streets
 You die how you live, the strong eat the weak
 Red and blue rags for the souljas that be bangin

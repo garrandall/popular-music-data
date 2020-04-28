@@ -88,7 +88,7 @@ More headaches and stress cuz a child involved
 Itz all good cuz our sex be my tylenol
 Best baby doll of all
 Shit the rest of you childish broads
-Give me the sex then i'm tired of yall
+Give me the sex then I'm tired of yall
 So find the next to provide for yall
 I got my babygirl
 Plus she bout to drop my baby girl (off)
@@ -118,7 +118,7 @@ It was the beginin of time
 And you was like nine but god damn you was fine
 Use to stay on my mind
 When I was out on my grind
-Open up the bags when im choppin my dimes
+Open up the bags when I'm choppin my dimes
 There in the spindell
 Stood by me from the windows
 Popped up mad shit with me and got me rentals

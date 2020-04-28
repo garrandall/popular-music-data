@@ -86,7 +86,7 @@ Because
 
 
 In the midnight hour she cried more, more, more
-With a rebel yell she cried more, more, more -  Wow!
+With a rebel yell she cried more, more, more - Wow!
 In the midnight hour, babe, more, more, more
 With a rebel yell
 More, more, more

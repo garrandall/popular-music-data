@@ -89,7 +89,7 @@ My life in shu shu shu,
 Shu shu shu,
 shu shu shu shu shu shu Sugar Town.
 
-La la la...
+La la la
 
 
 

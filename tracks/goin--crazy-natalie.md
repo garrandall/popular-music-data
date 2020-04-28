@@ -105,7 +105,7 @@ Estar sin ti ya no aguanto este dolor
 
 
 Te extraÃ±o y quiÃ©ro decirte que me faltas tu
-Nunca pense que  encontraria alguien como tu
+Nunca pense que encontraria alguien como tu
 Fue el destino que te puso mi camino amor
 Por ti llorare un rio
 Y te regalo mi corazon
@@ -121,7 +121,7 @@ Pero quiero a ti baby
 Se que todo es todo para ti
 Que quizas lo que te dije
 No te entendi.
-Pero yo te  tengo que admitir
+Pero yo te tengo que admitir
 Que mi ?? me haces muy feliz.
 No mas dimÃ© que me quiÃ©re, y que me ama, que me entiendÃ©, y me extraÃ±as, y soy tu baby
 Yo aqui estarÃ© para ti

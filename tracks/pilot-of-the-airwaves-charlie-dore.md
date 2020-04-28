@@ -83,7 +83,7 @@ And you seem like a friend to me
 
 
 Or the record of your choice, I don't mind
-I'd be  happy just to hear your voice
+I'd be happy just to hear your voice
 Saying this is for the girl who didn't sign her name
 I guess she needs a dedication just the same
 

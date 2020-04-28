@@ -42,7 +42,7 @@ He said 'I just think your depressed,
 This me "Yeah, baby, and the rest"
 
 They tried to make me go to rehab but I said 'no, no, no'
-Yes I've been black but when I come back you'll know know know...
+Yes I've been black but when I come back you'll know know know
 
 I don't never wanna drink again
 I just oh I just need a friend

@@ -36,7 +36,7 @@ rankings:
 But it's no surprise for me
 You see, I knew it was coming for a long time
 Say what ? no, no I won't cry
-You see i'm a big girl now, and I just can't cry no more
+You see I'm a big girl now, and I just can't cry no more
 But there's something I want you to know:
 That I love you, I love you, I love you!
 And there's one more thing I want you to know:
@@ -73,7 +73,7 @@ Honey cry to me (cry to me)
 No matter how harder things got to be
 You can cry to me (cry to me)
 Oh yes you can cry, oh oh oh oh oh
-Oh baby, oh baby how i'm gonna miss you ...
+Oh baby, oh baby how I'm gonna miss you
 Cause we've been together for so long
 But I know it's gonna be hard to live without you
 But I want you to know that

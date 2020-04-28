@@ -111,7 +111,7 @@ He makes me feel so good,
 So good from my head to my toes.
 All the things that this man does,
 Everyone should know.
-And I...
+And I
 
 
 Don't ever wanna lose this feeling,

@@ -82,9 +82,9 @@ Now remain calm no alarm
 Cause my farm ain't fat
 So what's up with that
 I've got friends and family that I respect
-When I think i'm too good
+When I think I'm too good
 They put me in check
-So believe when I say i'm no better than you
+So believe when I say I'm no better than you
 Except when I rap
 So I guess it ain't true
 Like that y'all and you just don't stop
@@ -101,7 +101,7 @@ Said, "son, you'd better listen
 Stuck in your ass
 Is an electrician"
 Like a scientist
-Mmm when i'm applying this
+Mmm when I'm applying this
 Method of controlling my mind
 Like einstein and the rappin' duke combined
 Hey baby bubba now what the deal
@@ -116,7 +116,7 @@ Engineer
 I wear cotton but I don't wear sheer
 
 Shazam and abracadabra
-In the whip i'm gonna cruise past ya
+In the whip I'm gonna cruise past ya
 Yo money, don't chump yourself
 Put that shit back on the shelf
 Light rays blazin'

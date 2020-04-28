@@ -102,7 +102,7 @@ I guess it's not what you take when you leave this world behind you,
 It's what you leave behind you when you go.
 
 That farmer left a harvest, a home and eighty acres,
-The faith an' love for growin' things in his young son's heart.
+The faith and love for growin' things in his young son's heart.
 An' that teacher left her wisdom in the minds of lots of children:
 Did her best to give 'em all a better start.
 An' that preacher whispered: "Can't you see the Promised Land?"
@@ -116,7 +116,7 @@ It's what you leave behind you when you go.
 That's the story that our preacher told last Sunday.
 As he held that blood-stained bible up,
 For all of us to see.
-He said: "Bless the farmer, and the teacher, an' the preacher;
+He said: "Bless the farmer, and the teacher, and the preacher;
 "Who gave this Bible to my mamma,
 "Who read it to me."
 

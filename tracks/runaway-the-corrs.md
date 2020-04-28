@@ -92,6 +92,6 @@ Falling in love (falling in love) with you
 No never I'm never gonna stop falling in love with you
 
 With you, my love, with you...
-na ni na ni na na...
+na ni na ni na na
 (With you, with you, with you, with you)
 

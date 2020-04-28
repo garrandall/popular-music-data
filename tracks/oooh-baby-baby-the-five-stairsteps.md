@@ -40,7 +40,7 @@ But in the game I lost you, what a price to pay
 I'm cryin'
 
 (Incomprehensible)
-Ohbaby, baby
+Oh baby, baby
 (Incomprehensible)
 
 Mistakes, I know I've made a few

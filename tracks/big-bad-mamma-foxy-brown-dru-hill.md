@@ -118,7 +118,7 @@ I'm like one point five, got to make it three
 My name will forever reign
 Got em screamin "Damn Fox!" on erything, hell yeah
 For the paper rip a hot draft
-Only for the right dough shorty got that?  Still in here
+Only for the right dough shorty got that? Still in here
 I'll be down when you're goin broke, Ill Na Na
 Master Tracks like Tone and Poke, and it's on
 

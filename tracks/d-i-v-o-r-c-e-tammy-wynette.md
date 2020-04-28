@@ -53,7 +53,7 @@ And turn my head when I speak
 That's drippin' down my cheek.
 
 Our D-I-V-O-R-C-E; becomes final today
-Me and little J-O-E will be  goin' away
+Me and little J-O-E will be goin' away
 I love you both and this will be pure H-E double L for me
 Oh, I wish that we could stop this D-I-V-O-R-C-E.
 

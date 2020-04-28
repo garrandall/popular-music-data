@@ -64,7 +64,7 @@ Spits on me cos' she knows that she can
 
 I say you're so young, she's alright, alright, alright, alright.
 I say you're so young, you're so young, alright, alright
-I say you're so young ...
+I say you're so young
 
 
 

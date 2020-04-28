@@ -33,7 +33,7 @@ Oh, Adrienne. Oh, Adrienne.
 Touch every good thing.
 Take 'em one by one.
 Feel scarlet together.
-Me an' Adrienne.
+Me and Adrienne.
 
 I'm singin'
 

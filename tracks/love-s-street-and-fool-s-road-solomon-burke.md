@@ -116,4 +116,4 @@ We can make it all up, baby
 One more time again
 
 I ain't gonna leave here
-I'm gonna wait on you, mama...
+I'm gonna wait on you, mama

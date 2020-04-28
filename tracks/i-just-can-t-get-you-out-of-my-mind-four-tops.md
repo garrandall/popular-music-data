@@ -74,7 +74,7 @@ Don't you have a heart, I've served my time
 Oh, it just ain't right what I'm goin' through
 Ten to one, I'm bettin', girl there's no forgettin' you
 
-Oh, baby  oh sugar
+Oh, baby oh sugar
 If this letter doesn't make it clear
 It's been a cold and lonely year
 In my empty bed, in my head I can feel you near

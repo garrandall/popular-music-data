@@ -61,7 +61,6 @@ Happiness and joy to cling to you
 All the things that gives a lover's wings
 Are all the things I wish for
 
-(Chorus)
 I wish somehow we could always be
 Finding sunshine hiding misery
 I wish someday we would never part
@@ -70,5 +69,3 @@ All these happy things I wish for you
 All the wondrous things and dreams we knew
 Living, loving things that lovers do
 They do come true, my wishes
-
-(Repeat entire chorus)

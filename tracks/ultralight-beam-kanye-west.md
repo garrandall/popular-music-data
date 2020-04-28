@@ -88,7 +88,7 @@ No one can judge
 They don't, they don't know
 They don't know
 Foot on the Devil's neck 'til it drifted Pangaea
-I'm moving all my family  from Chatham to Zambia
+I'm moving all my family from Chatham to Zambia
 Treat the demons just like Pam
 I mean I fuck with your friends, but damn, Gina
 I been this way since Arthur was anteater

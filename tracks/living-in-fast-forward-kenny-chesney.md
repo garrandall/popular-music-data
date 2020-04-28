@@ -104,7 +104,7 @@ But the way I've been goin'
 It's time that I toned it
 Down just a notch or two
 
-Oh yeah ...
+Oh yeah
 
 Well I'm living in fast forward
 A hillbilly rock star out of control

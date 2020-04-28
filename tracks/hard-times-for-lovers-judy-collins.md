@@ -50,14 +50,13 @@ Each of us turning our own lives alone
 For sleeping with someone new
 Ain't it true
 
-(Chorus)
 These are hard times for lovers
 Everyone wants to be free
 Ain't these hard times for lovers
 Everyone singing, I gotta be me
 Without you
 
-Now, honey, i'm supposed to tell you
+Now, honey, I'm supposed to tell you
 I've got to live for today
 And don't you know it is my lifetime
 I've got to live it my own way
@@ -74,7 +73,6 @@ I reap what I sow
 For all of my holy freedom
 What have I got to show
 I don't know
-
 
 Ain't these hard times for lovers
 Everyone wants to be free

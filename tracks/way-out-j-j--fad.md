@@ -56,7 +56,7 @@ The ones that are constantly
 Rocking your world
 
 With the hyper cuts (cuts)
-And the slamming beats  (beats)
+And the slamming beats (beats)
 That make you other girls sound oh so weak
 
 But that's O.K

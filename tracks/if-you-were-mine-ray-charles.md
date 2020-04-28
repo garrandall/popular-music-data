@@ -108,5 +108,5 @@ Hail or snow
 Because the way I feel about you
 No place is too remote to go
 Oh, well, baby, oh, well
-Now now now now now...
+Now now now now now
 Oh, baby, oh, well...

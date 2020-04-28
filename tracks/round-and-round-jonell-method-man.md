@@ -141,7 +141,7 @@ I packed your things nothing else for us to say...but...bye!
 I was gutter when ya met me, gutter when ya left me
 Gutter when ya came back face it nothin' can change that
 Not romance nor romance counselin'
-You drop the ball now i'm bouncin'
+You drop the ball now I'm bouncin'
 Find me a room burn up an ounce and
 Waitin' for my baby to call foregive it all
 On some break up to makeup shit givin' me draws

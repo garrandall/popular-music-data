@@ -89,20 +89,17 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-07-21'
 ---
-(Intro)
-("Get down!") Yessuh, (uh huh uh huh uh huh..)
+(Get down!) Yessir
 Slip-N-Slide Records
 Uhh, fin' to take it to da house
-Just get on up and ("Get down!")
+Just get on up and (Get down!)
 
-(*Sung*)
 Callin my peoples all across the world
 This song goes out to all the boys and girls
 You want them thugs to come and turn yo' party out
-You better take it to da house, (c'mon) now (uh uh uh)
-(uh.. yessuh!)
+You better take it to da house, (c'mon) now
+(uh yessir)
 
-(Money Mark)
 Slip-N-Slide get loose
 Mo' punch than your bowl of juice
 And ain't nobody mo' jiggier then us
@@ -112,11 +109,10 @@ Don't stop girl shake it here shake it there
 Let Money Mark get off in yo' derriere
 We off da chain fo' the whole year
 So if you look with a big ol' butt
-Live in yo' own crib and make yo own bucks (yessuh!)
+Live in yo' own crib and make yo own bucks (yessir)
 Hit me up, Tre+ dot com
-And tell me where you from, uhh..
+And tell me where you from
 
-(J.V.)
 Smoked out, choked out, we get
 Off da chain like we just broke out
 You don't know bout me J. Dot
@@ -124,12 +120,10 @@ When I come though all the haters get hot
 Cause I got mo' hoes, mo' dank
 Mo' cheese in da bank, mo' rank
 My dawgs on dubs, yours ain't
-My dawgs do whatever, yours cain't
+My dawgs do whatever, yours can't
 
-(Chorus: Slip-N-Slide)
 Cause we them niggas that's gon' make you
-Get up out yo seat and ("Get down!")
-..
+Get up out yo seat and (Get down!)
 We don't play we - take it to da house
 M.I.A. - take it to da house
 This the way we - take it to da house
@@ -139,13 +133,12 @@ Boy we got dat fire - take it to da house
 Slip-N-Slide - take it to da house
 Take it to da house - take it to da house
 
-(Trina)
 Okay play with it yo ain't no stoppin it
 S-N-S and we rock rock rockin it
 We gon' lock it and do our thang
 Cause my dream team takin all the rings
 I got, Tre+ who beatin much guts
-And uhh, Deuce Pop' pimpin news non-stop an'
+And, Deuce Pop' pimpin news non-stop and
 Lost Tribe to my side just vibin
 And J.B. gon' ball with me
 T double D, he off in that 'Xcursion
@@ -153,8 +146,7 @@ Swervin all on the curve with a virgin
 And I'm Trina, you heard my name
 I'm still "Da Baddest" ain't a damn thang changed
 
-(Co)
-Now it's time to get down with yo boy C.O
+Now it's time to get down with yo boy C.O.
 It's me n Money Mark in the big freak show
 Niggas recognize, hoes do too
 When I creep through the room with the Slip-N-Slide crew
@@ -163,8 +155,6 @@ I'll get'cha krunk, get'cha loose in the sand
 Tre+ and we're runnin it still
 Funk Boogie, spin the wheel!
 
-(Chorus)
-(Trick Daddy)
 Well order two mo' bottles of Crissy Cris'
 And get drunk pissy while you listen to this
 All you rookie-ass niggas don't try the shit
@@ -184,5 +174,7 @@ Yo' hoe must think we somethin else
 Fuck fame, we out to get paid
 Born and raised in the County of Dade
 
-(Chorus)
-Take it to da house (*repeat to fade*)
+Take it to da house
+Take it to da house
+Take it to da house
+Take it to da house

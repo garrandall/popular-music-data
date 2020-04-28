@@ -28,7 +28,7 @@ rankings:
 Drive all night up and down the highway
 It may be a Monday but it feels like Friday
 Pushing faster, pulling her close
-It doesn't  matter to her where we go.
+It doesn't matter to her where we go.
 
 She loves my car, she loves my car
 It's just a machine

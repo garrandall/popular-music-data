@@ -157,7 +157,7 @@ Just like it used to be
 Some days I hate everything
 I hate everything
 Everyone and everything
-Please don't tell me everything is wonderful now...
+Please don't tell me everything is wonderful now
 
 I don't wanna hear you tell me everything is wonderful now
 

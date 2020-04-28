@@ -24,7 +24,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2000-04-15'
 ---
-Chorus
 Girl I gotta go I can't stay
 You said things would change
 But girl things are still the same
@@ -45,8 +44,6 @@ I know I should have left a long time ago
 But I stayed to see
 Still hoping and praying you still love me
 
-Chorus (x2) (Ad lib)
-
 Listen
 I took you in treated your children as mine
 Then we laid and made love
@@ -61,23 +58,17 @@ I gave you all that I had
 You didn't love me one ounce
 So like a basket ball I gotta bounce
 
-Chorus (Ad lib)
-
-Bridge
 Listen
 Baby can you tell me
 Where I went wrong yeah
 All I ever wanted Baby baby baby
 Was a happy home (oh) to call my own (oh)
-I can't take no more (No doubt)
+I can't take no more (no doubt)
 So I'm telling you
 Bye bye bye bye bye bye bye bye
 
-Chorus (x2)(ad lib)
-
 Break it down
 Break it down
-Uhmmmm
 Cause I wanna talk to my people this evening
 Come on
 And let em know it takes a fool to learn (It takes a fool)
@@ -88,7 +79,6 @@ Good God almighty
 Baby you hurt me so bad
 But oh I'm mighty grateful
 Love don't live here (Love don't live here anymore)
-Ohhhhhhhhhh
 It's alright, it's OK
 Gonna move on anyone (I can move on)
 Yeah
@@ -99,6 +89,5 @@ I gotta move on
 Yeah yeah yeah yeah yeah yeah
 I gotta go I gotta leave baby
 Cause love don't live here
-Uhmmmmm
-I thinnk I leave it alone now
-Yeahh yeah yeah yahooo hm
+I think I leave it alone now
+Yeah yeah yeah yahoo hm

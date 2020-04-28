@@ -120,7 +120,7 @@ Are you responsible?
 Boy I gotta watch my back, cause I'm not just anybody
 Is it my go? Is it your go?
 Sometimes I'm goody-goody
-Right now i'm naughty-naughty
+Right now I'm naughty-naughty
 Say yes or say no
 Cause I really need somebody
 Tell me are you that somebody?

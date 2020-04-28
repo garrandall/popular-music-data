@@ -184,7 +184,6 @@ You show it, when you move, move, move
 You know it, when you're dancin', yeah
 You show it, as you move across the floor
 
-[Chorus}
 Get down on it, come on and
 Get down on it, if you really want it!
 Get down on it, you've got to feel it! Get down on it

@@ -121,7 +121,7 @@ Lay back and let the feelings show
 I am ready 4 the real (Come a little closer)
 
 (letitgo)
-(Lay back an' let the vibe just flow)
+(Lay back and let the vibe just flow)
 
 
 

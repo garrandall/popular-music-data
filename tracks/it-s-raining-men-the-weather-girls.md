@@ -62,7 +62,7 @@ Alright
 
 
 Humidity is rising (Mm rising), barometer's getting low (How low, girl?)
-According to all sources  (What sources now?)
+According to all sources (What sources now?)
 The street's the place to go (You better hurry up)
 'Cause tonight for the first time
 Just about half-past ten

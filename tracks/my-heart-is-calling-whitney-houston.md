@@ -84,7 +84,7 @@ God knows I'm falling for you
 
 Is is in your smile, boy
 Is it touch, baby
-I don't know why ...
+I don't know why
 
 
 

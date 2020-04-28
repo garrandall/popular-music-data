@@ -86,7 +86,7 @@ Everytime I take you around friends
 I catch them looking at you love
 (Lookin' at you love, lookin' at you love like that)
 You know it never ever bothered me
-Because I know that i'm the one you're thinking of
+Because I know that I'm the one you're thinking of
 
 
 

@@ -92,7 +92,7 @@ gotta try harder.
 I try so hard can't seem to get away from misery
 man I try so hard
 will always be a victim of these streets
-it ain't my fault cause I...
+it ain't my fault cause I
 tried to get away but trouble follows me
 and still I try so hard
 hoping one day you'll come and rescue me
@@ -118,7 +118,7 @@ I try so hard
 can't seem to get away from misery
 man I try so hard
 will always be a victim of these streets
-it ain't my fault cause I...
+it ain't my fault cause I
 tried to get away but trouble follows me
 and still I try so hard
 hoping one day you'll come and rescue me
@@ -143,7 +143,7 @@ I try so hard
 can't seem to get away from misery
 man I try so hard
 will always be a victim of these streets
-it ain't my fault cause I...
+it ain't my fault cause I
 tried to get away but trouble follows me
 and still I try so hard
 hoping one day you'll come and rescue me
@@ -166,7 +166,7 @@ I try so hard
 can't seem to get away from misery
 man I try so hard
 will always be a victim of these streets
-it ain't my fault cause I...
+it ain't my fault cause I
 tried to get away but trouble follows me
 and still I try so hard
 hoping one day you'll come and rescue me

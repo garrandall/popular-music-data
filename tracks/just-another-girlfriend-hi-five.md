@@ -42,11 +42,6 @@ rankings:
 ---
 Woo!
 
-(All she ever was) was (just another girlfriend)
-
-(all she ever was, baby)
-
-
 Oh girl
 Listen
 I wanna know
@@ -59,18 +54,16 @@ Not too long ago
 I told her then and I'll tell you now
 She's just another girlfriend (just another girlfriend)
 
-(Chorus)
-Oh, girl (I don't care)
-Listen (what she says)
-(All she ever was) was (just another girlfriend)
+Oh, girl I don't care
+Listen what she says
+All she ever was was just another girlfriend
 
-Girl (can't you see?)
-Baby (the jealousy)
-(All she ever was) was (just another girlfriend)
+Girl, can't you see?
+Baby, the jealousy
+All she ever was was just another girlfriend
 
 
-When I'm
-Missing
+When I'mm issing
 She comes around
 And drops a line or two about me
 To you
@@ -81,14 +74,13 @@ You can never believe what I say
 But if the truth is all that you want
 You running with the wrong ones (running with the wrong ones)
 
-(Chorus)
-Oh, girl (I don't care)
-Listen (what she says)
-(All she ever was) was (just another girlfriend)
+Oh, girl I don't care
+Listen what she says
+All she ever was was just another girlfriend
 
-Girl (can't you see?)
-Baby (the jealousy)
-(All she ever was) was (just another girlfriend)
+Girl, can't you see?
+Baby, the jealousy
+All she ever was was just another girlfriend
 
 
 You know that I
@@ -109,33 +101,31 @@ She's got to be insane
 All she ever
 All she ever was, baby
 All she ever
-A-A-All she ever was
+All she ever was
 All she ever
 All she ever was, baby
 All she ever
-A-A-All she ever was
+All she ever was
 
 Your friends are saying that I'm no good
 You can never believe what I say
 But if the real truth, baby, is what you want
 You running with the wrong ones (running with the wrong ones)
 
-(Chorus) x2
-Oh, girl (I don't care)
-Listen (what she says)
-(All she ever was) was (just another girlfriend)
+Oh, girl I don't care
+Listen what she says
+All she ever was was just another girlfriend
 
-Girl (can't you see?)
-Baby (the jealousy)
-(All she ever was) was (just another girlfriend)
+Girl, can't you see?
+Baby, the jealousy
+All she ever was was just another girlfriend
 
-Girl (I don't care)
-Listen (what she says)
-(All she ever was) was (just another girlfriend)
+Girl, I don't care
+Listen what she says
+All she ever was was just another girlfriend
 
-Girl (can't you see?)
-Baby (the jealousy)
-(All she ever was) was (just another girlfriend)
+Girl, can't you see?
+Baby, the jealousy
+All she ever was was just another girlfriend
 
-
-Girl (I don't care)
+Girl, I don't care

@@ -127,7 +127,7 @@ On the daily
 Off the hizzle
 rock my hips
 Shake my skittle
-Soda popping, watch it  sizzle
+Soda popping, watch it sizzle
 Man this shit right here the shizzle
 Smoking on the hottest drizzle
 Wanna taste it just a little

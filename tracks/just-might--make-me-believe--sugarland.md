@@ -88,7 +88,7 @@ And tell me we'll be alright
 If you promise never to leave You just might make me believe
 
 Its just day to day tryin' to make ends meet
-What id give for an address out on easy street
+What I'd give for an address out on easy street
 I need a deep margarita to help me unwind
 Leave my troubles behind...
 

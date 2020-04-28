@@ -103,7 +103,7 @@ Lay down your arms
 Give up the fight
 One, 21 Guns
 Throw up your arms into the sky
-You and I...
+You and I
 
 When you're at the end of the road
 And you lost all sense of control
@@ -119,7 +119,7 @@ Lay down your arms
 Give up the fight
 One, 21 Guns
 Throw up your arms into the sky
-You and I...
+You and I
 
 Did you try to live on your own
 When you burned down the house and home

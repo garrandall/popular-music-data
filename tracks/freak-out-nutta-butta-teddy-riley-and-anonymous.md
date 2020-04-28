@@ -91,7 +91,7 @@ End of the night we all get closer
 Whattup mutt? See y'all might know who I am
 Gotta sec, cos you need to meet the rest of the fam
 Nothin I'm sellin but this is quite true, chicks like you
-No tellin what  on a nut might do
+No tellin what on a nut might do
 You lack, no if, and's and but's
 Cos when you're done, you'll know why they call me Nut
 

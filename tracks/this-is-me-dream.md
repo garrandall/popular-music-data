@@ -89,30 +89,25 @@ rankings:
   start_date: '2001-09-22'
 ---
 Uh yeah, come on, Bad Boy, baby
-This - is - the - re - mix, eh heh heh
+This is the - remix
 You know how we do
-DREAM- Melissa, Diana, Ashley, Holly
+Melissa, Diana, Ashley, Holly
 Let's go baby, come on
-
 
 Oh boy, I'm not the one who broke your heart before
 And I don't wanna make you hurt anymore
 She had you pulling out your hair against the wall
 But, baby that's not me at all
 
-(Chorus)
 You better see we're different as can be
 She and I are not alike; so don't compare her to me
 It doesn't matter what happened then, with me you have afriend for life
 You should know that that was her, and baby this is me
 
-
 You get so nervous every time I touch your hand
 I'm not the others who just took your heart and ran
 But every time you say those things you make me feel so bad
-Why can't you just give me a chance? (yeah-ee-yeah yeah)
-
-
+Why can't you just give me a chance? (yeah yeah yeah)
 
 Now understand when I met you, it was love at first sight
 Deep thoughts and talks the first night
@@ -131,24 +126,12 @@ Defending your man when I fall and I scheme
 Baby you can have all my cream
 It was a nightmare now it's all a dream
 
-
 Boy you had your share (you had your share)
 Of people taking you for granted
 I know that you can't take me no more
 I will be there when things don't go the way you planned it
-And don't think ???
-
-(Chorus) 2x
-
+And don't think
 
 Aiyyo, let's bring it down right here
 Uh yeah, uh come on, let's dance
 Come on, yeah, let's go y'all
-
-(Chorus) - fade out -
-
- (with Chorus)
-DREAM- This is Me
-Bad Boy, baby
-Bad girls (heh)
-I see y'all

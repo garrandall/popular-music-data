@@ -57,7 +57,7 @@ rankings:
 To the beat y'all
 
 
-Weebie!  Holla at me (c'mon)
+Weebie! Holla at me (c'mon)
 I got like twelve bottles of bubbly (oh)
 
 
@@ -109,7 +109,7 @@ Do it how ya do it, lemme see ya take it off
 Now won'tcha rock, rock on, rock, rock on, rock, rock on
 Rock, rock on, rock, rock on, rock, rock on, rock, rock on, rock
 Now won'tcha turn around and hustle wit it
-Back it up and hustle wit it, touch the ground  and hustle wit it
+Back it up and hustle wit it, touch the ground and hustle wit it
 Oh baby oh baby
 
 
@@ -128,7 +128,7 @@ Thought she had the nizzle on the dresses at the mall
 Buyin, high heels on some leather boots
 And lookin for them ballers wit the crazy loot, WHAT?!
 
-Where them No Limit boys at?  Throw them 'bows
+Where them No Limit boys at? Throw them 'bows
 Them No Limit girls, get money and what?
 Told y'all clowns ain't no stoppin us
 Putcha "Gameface" on when ya catchin us

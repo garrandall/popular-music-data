@@ -88,7 +88,7 @@ She love chop chop
 She want chop chop
 She love chop chop
 
-If you a...
+If you a
 
 (Hold up Choppa! You gon hold it down for the independent women.
 Well what about them independent niggas?

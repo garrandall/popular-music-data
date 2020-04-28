@@ -29,7 +29,7 @@ rankings:
   start_date: '1970-09-19'
 ---
 Ooo oo oo yeah
-La la la, la la la la la la la (x2)
+La la la, la la la la la la la
 
 A girl I wanted all my life
 I asked her to be my wife
@@ -37,7 +37,7 @@ She said yes (she said yes)
 I didn't have money for a wedding band
 Still she went & took my hand
 She said yes (she said yes)
-La la la, la la la la la la la (x2)
+La la la, la la la la la la la
 
 Her folks had some other plan
 For her to marry another man
@@ -45,10 +45,9 @@ She said no (she said no, she said no)
 They didn't particularly care for me
 But our love was meant to be
 'Cause she said yes (she said yes, she said yes)
-La la la, la la la la la la la (x2)
+La la la, la la la la la la la
 Ooo yeah
 
-(Instrumental)
 
 Listen, I'm thankful for love I've found
 Thank you for changin' my life around
@@ -60,5 +59,4 @@ But our love seems to linger on
 While other loves have faded away
 Our love grows stronger day by day
 'Cause she said yes (she said yes)
-(Repeat & fade):
 La la la, la la la la la la la

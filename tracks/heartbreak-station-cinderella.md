@@ -73,7 +73,7 @@ Out of my heart
 
 Watching the days go by
 Thinking 'bout the plans we made
-Days  turn into years
+Days turn into years
 Funny how they fade away
 Sometimes I think of those days
 Sometimes I just hide away
@@ -85,5 +85,5 @@ Waiting on a memory
 My lady's on the fly
 And she's never coming back
 My love is like a steam train
-Rolling down  the tracks yea, yeaa
+Rolling down the tracks yea, yeaa
 

@@ -64,7 +64,7 @@ Got enough rocks, see check my hand
 And I got crack watch how I talk
 And its still wolf gang bitch watch how I bark
 Wallace still tripping on shit that I bought
-But I really do not care the cost cause okra...
+But I really do not care the cost cause okra
 
 Man, now they go
 I cut off some friends...

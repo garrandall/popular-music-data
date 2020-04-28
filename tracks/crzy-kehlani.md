@@ -49,7 +49,7 @@ I kill 'em, I kill 'em, I kill 'em with compassion
 And baby, if they askin'
 
 
-Tell 'em, tell 'em, tell 'em,  tell 'em
+Tell 'em, tell 'em, tell 'em, tell 'em
 I go, I go, I go, I go, crazy, crazy
 I go, I go, I go, I go crazy, crazy
 Live for the challenge, only make me stronger
@@ -73,7 +73,7 @@ Gon' stop me from makin' it happen
 So baby, if they askin'
 
 
-Tell 'em, tell 'em, tell 'em,  tell 'em
+Tell 'em, tell 'em, tell 'em, tell 'em
 I go, I go, I go, I go, crazy, crazy
 I go, I go, I go, I go, crazy, crazy
 Live for the challenge, only make me stronger

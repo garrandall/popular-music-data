@@ -108,7 +108,7 @@ Yeah, yeah, yeah, I want to... take it easy, baby!
 (that's why I love you so)
 Take it easy, honey...
 (that's why I love you so)
-Don't you know now...
+Don't you know now
 (that's why I love you so)
 Yeah, yeah, yeah, I want the... one more time, now!
 

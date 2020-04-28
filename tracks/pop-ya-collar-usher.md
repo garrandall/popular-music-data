@@ -72,7 +72,7 @@ don't let 'em sweat ya
 
 You can see me every week hanging out with a different girl sitting next to me
 cause I'm not about to settle down right now
-I gotta be free some of  y'all fellas might be jealous but y'all know that don't faze me
+I gotta be free some of y'all fellas might be jealous but y'all know that don't faze me
 I just pop my collar tip my hat and turn my backs on the ones who hated me
 
 (Dig that)

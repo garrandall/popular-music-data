@@ -111,7 +111,7 @@ Why?
 Gotta take it easy
 Why?
 Gotta take it easy
-Me no know...
+Me no know
 
 
 Dutty bwoy jump up, dutty bwoy get
@@ -151,7 +151,7 @@ Why?
 Gotta take it easy
 Why?
 Gotta take it easy
-Me no know...
+Me no know
 
 
 Too many suckers and not a enough time
@@ -189,7 +189,7 @@ Why?
 Gotta take it easy
 Why?
 Gotta take it easy
-Me no know...
+Me no know
 
 
 All dem a talk and defend
@@ -215,4 +215,4 @@ Why?
 Gotta take it easy
 Why?
 Gotta take it easy
-Me no know...
+Me no know

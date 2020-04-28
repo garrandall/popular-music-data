@@ -12,11 +12,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-04-20'
 ---
-At first Mom an' Poppa called their little girl, Lady
+At first Mom and Poppa called their little girl, Lady
 They raised her on the banks of a river bed
 
 A house boat tied to a big, tall tree
-A home for my Poppa an' my Momma and me
+A home for my Poppa and my Momma and me
 
 The clock strikes three Poppa jumps to his feet
 Already Momma's cookin' Poppa somethin' to eat

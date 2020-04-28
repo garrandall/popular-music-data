@@ -104,7 +104,7 @@ Ah yeah, di-dit-dit-dit-dit
 Ah yeah, di-dit-dit-dit-dit
 Well all right!
 Ah yeah, di-dit-dit-dit-dit
-Attention all radio station jocks ...
+Attention all radio station jocks
 Ah yeah, di-dit-dit-dit-dit
 haw haw, got to be groovin' jammin' on yo box.
 Ah yeah, di-dit-dit-dit-dit
@@ -146,7 +146,7 @@ Nothin can stop us now
 Dance, sucka, dance!
 
 Givin' you more of what you're funkin' for
-Aw, feet don't fail me now!  Ha ha!
+Aw, feet don't fail me now! Ha ha!
 Givin' you more of what you're funkin' for
 Do you promise the funk , the whole funk,
 Nothin but the funk?
@@ -155,7 +155,7 @@ Buss a cap with my bop gun,
 Gotta hit you with the bop gun,
 Buss a cap with the bop gun, hit you with the bop gun,
 Buss a cap with the bop gun, heh, 'cause I'm the top gun...
-Ready.  Ready.  Ready.
+Ready. Ready. Ready.
 Ready or not, here we come
 Gettin down on the one which we believe in
 
@@ -227,8 +227,8 @@ Feet don't fail me now
 (That's right!)
 Do you promise the funk
 Givin' you more of what you're funkin' for
-Ooo, feet don't fail me now ...
-Can I get it on my good foot, good gawd ...
+Ooo, feet don't fail me now
+Can I get it on my good foot, good gawd
 'Bout time I got down one time
 (Can I get down one time)
 

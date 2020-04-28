@@ -84,7 +84,7 @@ Uh huh
 (Take me... take me...)
 Take up to heaven above
 
-Come on now...
+Come on now
 Take me?
 Take me?
 Say you'll be my boy
@@ -108,7 +108,7 @@ Rock me in the cradle of love
 
 Everybody...
 Rock me in the cradle of love
-Come on now...
+Come on now
 Rock me in the cradle of love
-Come on now...
+Come on now
 Rock me in the cradle of love

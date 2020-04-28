@@ -101,7 +101,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-12-21'
 ---
-Awwww...
+Awwww
 Mmm, awww..
 
 

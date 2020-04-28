@@ -56,7 +56,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1985-05-04'
 ---
-Aw, aw, aw...
+Aw, aw, aw
 
 Games, I never used to play
 Cause everytime I'd lose

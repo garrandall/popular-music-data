@@ -20,15 +20,15 @@ rankings:
 Paint two eyes,
 Make them cry
 Paint two lips,
-Make  them lies.
-And you're painting 
+Make them lies.
+And you're painting
 The portrait of a fool.
 
 Paint one heart
 That's been untrue
 Paint one soul
 Make it blue.
-And your paintin' 
+And your paintin'
 The portrait of a fool.
 
 There are somethings that look so familiar

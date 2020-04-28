@@ -75,7 +75,7 @@ Darling, my darling ( found me...)
 Woah, somebody, please tell to my darling
 Have got you slept in my bed? (Ah!)
  (Ah!)
-And if it  me (Ah!)
+And if it me (Ah!)
 That you're slept on me
 
 I've got no time, woah, no time, no time to lose

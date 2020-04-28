@@ -74,7 +74,6 @@ But who will ask what led him
 To his private day of doom
 And who will answer?
 
-(Chorus)
 If the soul is darkened
 By a fear it cannot name
 If the mind is baffled
@@ -106,7 +105,6 @@ Or crumbled books on dusty shelves
 Or in our stars, or in ourselves
 Who will answer?
 
-(Repeat Chorus Below)
 If the soul is darkened
 By a fear it cannot name
 If the mind is baffled

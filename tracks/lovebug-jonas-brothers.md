@@ -95,7 +95,7 @@ Suddenly I forgot how to speak
 Hopeless, breathless
 Baby can't you see?
 
-Now I'm...
+Now I'm
 Yeah oh
 Now I'm speechless
 Over the edge, I'm just breathless

@@ -22,7 +22,7 @@ I gotta get mine, you gotta get yours
 I gotta get mine, get yours
 
 
-Ayo i'm smooth as I wanna be, fuck with me you's a gonna g!
+Ayo I'm smooth as I wanna be, fuck with me you's a gonna g!
 (Oh, that's the way it is?)
 Fuck yeah and that's the way it's gonna be
 (Why), puffin up on tha dank and drinking mad brew

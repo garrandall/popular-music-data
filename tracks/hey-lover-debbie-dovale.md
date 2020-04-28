@@ -29,7 +29,7 @@ You don't have to be a king
 Hey, hey, hey lover (Oh)
 You don't have to have a thing
 
-For I'll be satisfied now that you are  my guy
+For I'll be satisfied now that you are my guy
 Just give me
 True love and understanding
 True love and understanding
@@ -52,7 +52,7 @@ But if you really, really love
 In my heart you'd be a big man
 
 Hey lover
-Just treat me good and nice 
+Just treat me good and nice
 And it will be alright
 Just give me
 True love and understanding

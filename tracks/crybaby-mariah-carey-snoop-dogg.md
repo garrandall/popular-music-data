@@ -138,4 +138,4 @@ Do-do-do-do-do
 Do-do-do-do-do
 Do-do-do-do-do
 Do-do-do-do-do
-Baby and I...
+Baby and I

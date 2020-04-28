@@ -169,7 +169,7 @@ What'cha gonna do, yeah
 
 Take the shackles off my feet so I can dance
 I just wanna praise you
-I just wanna praise you ...
+I just wanna praise you
 
 
 

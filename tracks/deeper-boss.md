@@ -119,8 +119,8 @@ I don't even trust myself (yo, you can trust me)
 Fuck I know? (I'm just like you)
 Riiiiiiight, that's deep
 
-Deeper and deeper ...
-Deeper and deeper ...
+Deeper and deeper
+Deeper and deeper
 
 (Yo Bo$$ that shit you talkin bout that's some deep shit
 I'm tellin you motherfuckers can't really get with that
@@ -132,7 +132,7 @@ Everytime she come, she's detrimental mon
 Yes mon, know dis
 Hehehe, don't make me tell dem again mon, woyyy
 She too hotta, tell-a-man she too hotta
-Tell man she too hotta an' every posse know dat-ta
+Tell man she too hotta and every posse know dat-ta
 Yes, she too hotta, tell man she too hotta
 For inside she come, she say de posse get flat come
 

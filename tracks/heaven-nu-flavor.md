@@ -123,7 +123,7 @@ Heaven, heaven oh heaven can't you help
 Heaven oh heaven can't you help me
 I'm down on my knees please help me
 
-Cant fall alseep  tonight
+Cant fall alseep tonight
 I don't know what to do
 I hold my pillow but I wanna be holding you
 And when close my eyes I always see your face

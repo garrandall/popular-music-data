@@ -125,4 +125,4 @@ Me pica el escroto
 Me arde la pinga
 Jajajajaja
 Dicen que se juntan en el barrio de la auroa dicen que le arde la verga como cotorra
-J im yur puta papisito
+J I'm yur puta papisito

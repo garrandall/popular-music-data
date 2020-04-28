@@ -85,7 +85,7 @@ All it takes is one swing and I'll humiliate him
 Matter of fact, make one wrong move and I'll debilitate him
 And if he even starts to slip, I'll eliminate him
 All it takes is one wrong look and I'll---
-Harry!  We get it.  Chill
+Harry! We get it. Chill
 
 
 Let's go, bring it on
@@ -112,7 +112,7 @@ Mal, whatever you do, it's gonna be a lose-lose
 There's gotta be a better way
 Uma, I promise I'll give you your chance
 You'll have your say
-Silly king! You?  Give me?
+Silly king! You? Give me?
 You're gonna give me a chance?
 Well, not a chance
 

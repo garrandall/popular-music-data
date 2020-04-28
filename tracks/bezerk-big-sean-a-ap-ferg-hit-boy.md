@@ -51,7 +51,7 @@ Hit-Boy on the beat so, bitch, you gotta go berserk
 Kill 'em all one-by-one, "Final Destination"
 Fuck that medication, I'm sipping cold flu Echinacea
 You done fucked up, I stayed up, sleep deprivation
-They on the search nigga  Know your worth nigga
+They on the search nigga Know your worth nigga
 Tell the DJ bring it back, reimburse niggas
 Hum-du-allah, my finance advisors been through hell
 Oh well, pshh, we on fire
@@ -62,7 +62,7 @@ I just start up a riot at all the Hyatts
 And make them hoes leave right before they cook the omelettes
 
 
-Drop down  You a freak
+Drop down You a freak
 Bend it over (Yeah) Touch your feet
 Shake that booty, I know it's little but unique
 Back that thing up on my nigga from the D

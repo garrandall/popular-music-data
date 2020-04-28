@@ -106,18 +106,16 @@ And as we cruise, kick the flavor, cause this can work
 So let me kiss you in the places that no one else can get
 As we do it up in Ridin Low
 
-(Chorus)
 Ridin Low, with my girl
-And feeling hi-i-i-i-igh
+And feeling high
 You're so fine, and you're mine
 All mine, yeah
 
 Hold me tight, babydoll
 Let's take a cruise into the night
 Oh yeah
-Everything will be alright, wo-ah
+Everything will be alright, woah
 
-(Verse 2)
 She's macadocioius, she takes me to another level, hands-on protection
 So don't nobody get in trouble, don't bust my bubble honey
 I can't wait to see your face
@@ -138,23 +136,21 @@ Kickin it And it's on, ridin low
 Just you and I alone
 Me and my girl, and we're ridin' low
 
-(Chorus)
 Ridin Low, with my girl
-And feeling hi-i-i-i-igh
+And feeling high
 You're so fine, and you're mine
 All mine, yeah
 
 Hold me tight, babydoll
 Let's take a cruise into the night
 Oh yeah
-Everything will be alright, wo-ah
+Everything will be alright, woah
 
-(Verse 3)
 Cruise into the night honey
 I won't bite unless you want me to
 Blunts and phillies just to keep the cruisin chilly huh
 I'm takin it away straight out just like come Columbo
-Cause when I cruise wit you it's the booommmmmmbbbb yo
+Cause when I cruise wit you it's the bomb yo
 So come wit me and baby we can cruise the night away
 A little bit of conversation and alotta play
 Let's reminisce, reminisce over all the love we share

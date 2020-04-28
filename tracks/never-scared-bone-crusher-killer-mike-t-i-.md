@@ -93,7 +93,7 @@ rankings:
 Yea! This nigga think we hoez or somethin', my nigga!
 Sheeeit, man what the... lemme talk to the mo'fucka. How hard we really mo'fuckin is in this biaaaatch
 ... nah'm sayin?
-Fuccnigga... sheit man, ole punk ass security guards throw me out the club nigga...
+Fuccnigga... sheit man, ole punk ass security guards throw me out the club nigga
 That don't mean nuthin nigga!
 I'm gon fuck this nigga up, my nigga!
 Sheeeeit, lemme show this mo'fucca how hard this shit really is!

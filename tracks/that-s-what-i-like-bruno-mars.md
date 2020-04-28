@@ -218,7 +218,7 @@ rankings:
 ---
 Hey, hey, hey
 I got a condo in Manhattan
-Baby girl, what's  hatnin'?
+Baby girl, what's hatnin'?
 You and your ass invited
 So gon' and get to clappin'
 So pop it for a player

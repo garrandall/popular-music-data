@@ -89,7 +89,7 @@ Or turn the music down low
 
 I'm comin' yes I'm comin'
 You know that I'll be runnin'
-I'm comin' yes you know that I...
+I'm comin' yes you know that I
 
 Oh I'm coming home yeah
 C'mon

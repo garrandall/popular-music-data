@@ -56,4 +56,4 @@ That holds a memory of you
 Yeah, I'm gonna change everything
 That holds a memory of you
 Oh! Yeah, Mmm
-Oh! Yeah, Mmm...
+Oh! Yeah, Mmm

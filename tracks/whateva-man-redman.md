@@ -82,7 +82,7 @@ Aiyyo, you ready to get down man?
  Check it, Kool V
 
 (I keeps it bangin, keep it swangin
-Mike type of sangin)  Ohh-la-la-la!  (So what cha sayin)
+Mike type of sangin) Ohh-la-la-la! (So what cha sayin)
 
 
 Yo, I'm smokin herbals till it hurts you
@@ -117,7 +117,7 @@ But still spend my last on hyrdroglycerin
 I keep it live no jive rollin Dutches
 that's Masters like the Furious Five
 I, keep your crew chinky eyed, for bitches actin dog
-(Can you hit it from the back?)  Why not, while we toke on this
+(Can you hit it from the back?) Why not, while we toke on this
 
  (oh daddy... aiyeee)
 
@@ -134,7 +134,7 @@ I, keep your crew chinky eyed, for bitches actin dog
 
 I smoked with a lot of college, students
 Most of em, wasn't graduatin and they knew it
-You know the weed slang?  Yeah boy I speak it fluent
+You know the weed slang? Yeah boy I speak it fluent
 I light your college dorm with my entourage from Newark
 Bigger they come, harder they fall
 That goes for, knuckleheads, MC's, pussy walls and all

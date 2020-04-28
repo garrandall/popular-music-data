@@ -128,7 +128,7 @@ I just wanted to reachout and touch you baby
 I just want to reach out and hold ya, I want to reach out and say oh oh
 Don't make me cry
 I wanna talk about you everyday (penny lover)
-Need you, need you baby ...
+Need you, need you baby
 
 
 

@@ -48,7 +48,7 @@ Are now at an end
 The key to my heart
 You hold in your hand
 And nothing else matters
-We're together  again
+We're together again
 Together again
 The grey skies are gone
 You're back in my arms
@@ -57,7 +57,7 @@ The love that we knew
 Is living again
 And nothing else matters, Baby
 We're together again
-Well, nothing  else matters, Baby
+Well, nothing else matters, Baby
 We're together again
 
 

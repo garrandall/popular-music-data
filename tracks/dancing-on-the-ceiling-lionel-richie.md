@@ -93,7 +93,7 @@ The people starting to climb the walls
 Oh, it looks like everybody is having a ball
 
 Oh, what a feeling when we're dancing on the ceiling
-Oh, what a feeling when we're dancing on the ceiling.  Ah
+Oh, what a feeling when we're dancing on the ceiling. Ah
 Oh, oh, what a feeling when we're dancing on the ceiling
 Oh, what a feeling when we're dancing on the ceiling
 Come on!
@@ -116,13 +116,13 @@ Hard to keep your feet on the ground
 'Cause when we like to party, we only wanna get down
 
 Oh, what a feeling when we're dancing on the ceiling
-Oh, what a feeling when we're dancing on the ceiling.  Ah
+Oh, what a feeling when we're dancing on the ceiling. Ah
 Oh, what a feeling, baby, when we're dancing on the ceiling
-Oh, what a feeling when we're dancing on the ceiling.  Whoa!
+Oh, what a feeling when we're dancing on the ceiling. Whoa!
 
 Say what?
 Can't stop now, just getting started
-Everybody clap your hands.  (Clapping)
+Everybody clap your hands. (Clapping)
 Come on!
 Everybody let's dance!
 Oh, oh, oh, oh, oh

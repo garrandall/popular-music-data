@@ -178,7 +178,7 @@ Turn the music up
 
 It goes 1 by 1 even 2 by 2
 Everybody in the club gon'
-Be rockin when i'm through
+Be rockin when I'm through
 Let the bass from the speakers
 Run through ya sneakers
 Move both ya feet and run to the beat
@@ -191,7 +191,7 @@ Shake it 'til the moon becomes the sun (Sun)
 Everybody in the club give me a run (Run)
 If you ready to move say it (Yeah Yeah)
 One time for your mind say it (Yeah Yeah)
-Well i'm ready for ya
+Well I'm ready for ya
 Come let me show ya
 You want to groove i'ma show you how to move
 Come come

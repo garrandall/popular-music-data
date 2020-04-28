@@ -40,7 +40,7 @@ Pick and sing a while
 
 Oh Lord, it feels so right
 Just a-sittin' by the campfire light
-Trading tunes  coming right back again
+Trading tunes coming right back again
 You look around as you pick your song
 Everybody's grinnin' and playin' along
 And when that chorus rolls around everybody joins in

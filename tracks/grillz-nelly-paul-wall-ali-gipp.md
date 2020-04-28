@@ -143,7 +143,7 @@ I might be grilled out nicely (oh) In my white tee (oh),
 On South beach (oh) in my wife beat.
 V V and studded you can tell when they cut it
 Ya see my granmama hate it, but my lil mama love it
-Cuz when I...
+Cuz when I
 
 
 Open up ya mouth, ya grill gleamin (say what)
@@ -178,7 +178,7 @@ I might cause a cold front if I take a deep breath
 My teeth gleaming like I'm chewin on aluminum foil
 Smilein showin off my diamonds sippin on some Pinot Noir
 I put my money where my mouth is and bought a grill
-20 carrots 30 stacks let 'em know im so fo real
+20 carrots 30 stacks let 'em know I'm so fo real
 My motivation is them 30 pointers V VS the furniture my mouth
 Piece simply symbolize success
 I got da wrist wear and neck wear dats captivatin
@@ -203,7 +203,7 @@ Where da hustlas move bricks
 and da gangsta's bang hamma's
 Where I got em you can spot them
 On da top in da bottom
-Gotta bill in my mouth like im Hillary Rodham
+Gotta bill in my mouth like I'm Hillary Rodham
 
 
 I ain't dissin no body but lets bring it to da lite

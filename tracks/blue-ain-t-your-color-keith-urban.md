@@ -103,20 +103,20 @@ Probably not my place but I'm gonna say it anyway
 ‘Cause you look like
 You...
 Haven’t felt the fire, had a little fun
-Hadn’t had a smile in a little while, baby
+Hadn 't had a smile in a little while, baby
 
 
 Blue...
 Looks good on the sky
-Looks good on that neon buzzin’ on the wall
-But darlin', it don’t match your eyes
-I’m tellin’ you...
-You don’t need that guy
-It’s so black and white, he’s stealin’ your thunder
-Baby, blue ain’t your color
+Looks good on that neon buzzin ' on the wall
+But darlin', it don 't match your eyes
+I 'm tellin ' you...
+You don 't need that guy
+It 's so black and white, he 's stealin ' your thunder
+Baby, blue ain 't your color
 
 
-I'm not tryna...
+I'm not tryna
 Be another just pick you up kinda guy
 Tryna drink you up, tryna take you home
 But I just...
@@ -126,18 +126,18 @@ Well, I've...
 Had enough to drink and it's makin' me think
 That I just might
 Tell you...
-If I were a painter I wouldn’t change ya
-I’d just paint you bright, baby
+If I were a painter I wouldn 't change ya
+I 'd just paint you bright, baby
 
 
 'Cause blue...
 Looks good on the sky
-Looks good on that neon buzzin’ on the wall
-But darlin', it don’t match your eyes
-I’m tellin’ you...
-You don’t need that guy
-It’s so black and white, he’s stealin’ your thunder
-Baby, blue ain’t your color
+Looks good on that neon buzzin ' on the wall
+But darlin', it don 't match your eyes
+I 'm tellin ' you...
+You don 't need that guy
+It 's so black and white, he 's stealin ' your thunder
+Baby, blue ain 't your color
 
 
 No, no, no
@@ -148,13 +148,13 @@ Mmm, baby
 
 Blue...
 Looks good on the sky
-Looks good on that neon buzzin’ on the wall
-But darlin', it don’t match your eyes
-I’m tellin’ you...
-You don’t need that guy
-It’s so black and white, he’s stealin’ your thunder
-Baby, blue ain’t your color
-Blue ain’t your color
+Looks good on that neon buzzin ' on the wall
+But darlin', it don 't match your eyes
+I 'm tellin ' you...
+You don 't need that guy
+It 's so black and white, he 's stealin ' your thunder
+Baby, blue ain 't your color
+Blue ain 't your color
 
 
 Mmm, no, no, no baby

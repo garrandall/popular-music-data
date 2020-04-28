@@ -21,7 +21,7 @@ rankings:
   start_date: '1977-09-10'
 ---
 Freeze! I'm Ma Baker
-Put your hands in the air an' give me all your money!
+Put your hands in the air and give me all your money!
 
 This is the story of Ma Baker
 The meanest cat from old Chicago town

@@ -43,7 +43,7 @@ Yeah, yeah, (Yeah, Yeah)
 Aw yeah, (Aw yeah)
 Walking fast, talking trash, trying to beat you out your cash
 Who is he? They call him Slick (Slick)
-Hustlin and  and a knocking strong
+Hustlin and and a knocking strong
 Trying to find somebody to run a game on
 Ohhh they call him Slick (Slick)
 Now Slick ain't got no regrets, Slick ain't got no sorrows

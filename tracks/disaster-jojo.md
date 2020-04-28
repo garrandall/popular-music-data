@@ -76,7 +76,7 @@ And it's burning for forever and always
 You gotta let it go and be on our way and live for another day (our way)
 'Cause it ain't the same, my baby
 Watch it all fall into the ground (ohooh
-No happy ever after, just disaster, whoa oh whoa...
+No happy ever after, just disaster, whoa oh whoa
 
 
 'Cause the walls burned up and our love fell down

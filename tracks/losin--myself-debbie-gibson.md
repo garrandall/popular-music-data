@@ -48,7 +48,7 @@ I'm losin' myself...over you
 
 Love like the ocean feel it rushin' over me
 You are the treasure that I've searched for desperately
-The tide it races in, it's pullin' me out to the sea...
+The tide it races in, it's pullin' me out to the sea
 Willingly
 You're my celebration boy, the reason I exist
 I feel a hundred lifetimes deep within your kiss

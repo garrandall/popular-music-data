@@ -37,7 +37,7 @@ Oh, she'll make you feel fine
 Remember the when a trucker from Dallas
 Was callous to Queenie with his rude side
 
-Now he can't deny, that he gotten much  more than he bargained for
+Now he can't deny, that he gotten much more than he bargained for
 Queenie's right cross run him to the floor
 Now he knows better than to mess
 

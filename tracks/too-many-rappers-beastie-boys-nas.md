@@ -92,7 +92,7 @@ I take the cake, I stole the mold
 
 The golden microphone, well that's mine to hold
 And why all these biters all up in my crotch space?
-Sniffin', puffin', huffin',  and mean muggin' with a Blimpie Bluffin
+Sniffin', puffin', huffin', and mean muggin' with a Blimpie Bluffin
 Back up off me, sucka, you ain't sayin' nothin'
 
 I'm broader than Broadway, I was in project hallways

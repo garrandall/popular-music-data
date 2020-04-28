@@ -72,7 +72,7 @@ It's not so bad to be alone
 Don't want no substitution...
 I'd rather be alone than with someone and lonely
 It'd take a lot more
-Than strong arms to hold me...c'mon now...
+Than strong arms to hold me...c'mon now
 
 Heart don't fail me now
 Don't mess my mind up

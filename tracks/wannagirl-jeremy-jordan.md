@@ -126,7 +126,7 @@ Preferably in a residential area"
 Only one girl lives up to what's on my list
 So you need to know this baby
 
-I want a...
+I want a
 I want a girl if that's alright
 I want a girl to hold me tight
 I want ya baby if that's alright with you

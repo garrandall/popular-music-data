@@ -61,7 +61,6 @@ My two brothers and me
 Keepin' the faith
 Racin' with destiny
 
-
 They were angels in waiting
 Waiting for wings to fly from this world
 Away from their pain
@@ -72,8 +71,6 @@ Sweet memories
 Angels in waiting
 Angels in waiting for wings
 
-2nd Verse
-
 They always knew
 They'd never grow old
 Sometimes the body is weaker than the soul
@@ -82,5 +79,3 @@ I made a promise
 I will always keep
 I'll give them life
 I'll let them live through me
-
-(Chorus Out)

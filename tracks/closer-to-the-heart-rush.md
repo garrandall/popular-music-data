@@ -71,7 +71,7 @@ Each must know his part
 To sow a new mentality
 Closer to the heart
 Yeah, it's closer to the heart
-Yeah!  Oh
+Yeah! Oh
 
 You can be the captain
 And I will draw the chart

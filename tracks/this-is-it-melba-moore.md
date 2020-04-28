@@ -30,7 +30,7 @@ rankings:
 ---
 This is it
 This time I know its for real
-And I can't explain what im feeling
+And I can't explain what I'm feeling
 Im lost for words
 Im in a daze
 Stunned and amazed
@@ -38,7 +38,7 @@ By your lovin'ways
 
 This is it
 This time I know its for real
-And I can't explain what im feeling
+And I can't explain what I'm feeling
 Im lost for words
 Im in a daze
 Stunned and amazed
@@ -49,12 +49,12 @@ And suddenly
 The wheels of love begin to turn inside of me
 You said hello
 I felt a glow
-Right then and there I knew id never let you go
-Cause I know, I know...
+Right then and there I knew I'd never let you go
+Cause I know, I know
 
 This is it
 This time I know its for real
-And I can't explain what im feeling
+And I can't explain what I'm feeling
 Im lost for words
 Im in a daze
 Stunned and amazed
@@ -71,7 +71,7 @@ Can't you see, can't you see...
 
 This is it
 This time I know its for real
-And I can't explain what im feeling
+And I can't explain what I'm feeling
 Im lost for words
 Im in a daze
 Stunned and amazed
@@ -79,7 +79,7 @@ By your lovin'ways
 
 This is it
 This time I know its for real
-And I can't explain what im feeling
+And I can't explain what I'm feeling
 A touch of you
 Is something new
 Nobody ever made me feel the way you do
@@ -90,7 +90,7 @@ Can't you see, can't you see...
 
 This is it
 This time I know its for real
-And I can't explain what im feeling
+And I can't explain what I'm feeling
 Im lost for words
 Im in a daze
 Stunned and amazed
@@ -98,7 +98,7 @@ By your lovin'ways
 
 This is it
 This time I know its for real
-And I can't explain what im feeling
+And I can't explain what I'm feeling
 Im lost for words
 Im in a daze
 Stunned and amazed

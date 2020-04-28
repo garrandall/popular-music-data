@@ -51,7 +51,7 @@ Made him walk a little funny made his breath smell funky
 Well he never came across the river cause the folks didn't like him in town
 They said his hair was long his clothes were dirty they didn't want him hanging around
 
-Ko-Ko Joe they called him the Etowah River swamp rat and folks despised him...
+Ko-Ko Joe they called him the Etowah River swamp rat and folks despised him
 
 Well it happened a year ago Sunday and they still talk about it today
 How the dam broke loose on the Etowah River nearly washin' everybody away
@@ -59,7 +59,7 @@ Son the river water risin' washing up all the bushes
 Well the headlines read how a mother said my son would have lost his life
 But he was pulled from the mud in the Etowah River by the man y'all all despise
 
-Ko-Ko Joe they called him the Etowah River swamp rat and folks despised him...
+Ko-Ko Joe they called him the Etowah River swamp rat and folks despised him
 
 
 

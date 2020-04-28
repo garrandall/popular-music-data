@@ -58,7 +58,7 @@ Can't figure any lyrics out
 How do the words to it go?
 I wish you'd tell me, I don't know
 Don't know, don't know, don't know, oh no
-Don't know, don't know, don't know...
+Don't know, don't know, don't know
 
 Now I'm mumblin' and I'm screamin'
 And I don't know what I'm singin'
@@ -73,7 +73,7 @@ I just can't get it through my skull
 It's hard to bargle nawdle zouss(?)
 With all these marbles in my mouth
 Don't know, don't know, don't know, oh no
-Don't know, don't know, don't know...
+Don't know, don't know, don't know
 
 Well, we don't sound like Madonna
 Here we are now, we're Nirvana
@@ -88,7 +88,7 @@ Oh well, I guess it pays to rehearse
 The lyric sheet's so hard to find
 What are the words? Oh, nevermind
 Don't know, don't know, don't know, oh no
-Don't know, don't know, don't know...
+Don't know, don't know, don't know
 
 Well, I'm yellin' and we're playin'
 But I don't know what I'm sayin'

@@ -87,7 +87,7 @@ All fired up
 All fired up
 (When everything just falls in line)
 All fired up
-(We live an' learn from our mistakes)
+(We live and learn from our mistakes)
 All fired up, fired up, fired up, hey
 
 Ain't nobody livin' in a perfect world
@@ -100,28 +100,28 @@ All fired up
 All fired up
 (When everything just falls in line)
 All fired up
-(We live an' learn from our mistakes)
+(We live and learn from our mistakes)
 All fired up, fired up, fired up
 (The deepest cuts are healed by faith)
 
 Now I believe there comes a time
 When everything just falls in line
-We live an' learn from our mistakes
+We live and learn from our mistakes
 The deepest cuts are healed by faith
 
 Now I believe there comes a time
 When everything just falls in line
-We live an' learn from our mistakes
+We live and learn from our mistakes
 The deepest cuts are healed by faith
 
 Now I believe there comes a time
 When everything just falls in line
-We live an' learn from our mistakes
+We live and learn from our mistakes
 The deepest cuts are healed by faith
 
 Now I believe there comes a time
 When everything just falls in line
-We live an' learn from our mistakes
+We live and learn from our mistakes
 The deepest cuts are healed by faith
 Now I believe
 
@@ -130,13 +130,13 @@ All fired up
 All fired up
 (When everything just falls in line)
 All fired up
-(We live an' learn from our mistakes)
+(We live and learn from our mistakes)
 All fired up, fired up, fired up, hey
 (The deepest cuts are healed by faith)
 
 Now I believe there comes a time
 When everything just falls in line
-We live an' learn from our mistakes
+We live and learn from our mistakes
 The deepest cuts are healed by faith
 
 

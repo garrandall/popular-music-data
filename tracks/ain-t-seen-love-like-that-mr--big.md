@@ -33,7 +33,7 @@ rankings:
   start_date: '1994-04-02'
 ---
 I've been miles from nowhere crossed and doubled back
-Time is a healer and i've done my time
+Time is a healer and I've done my time
 'Cause I ain't seen love like that
 
 I've seen the light of freedom 'til they fade to black

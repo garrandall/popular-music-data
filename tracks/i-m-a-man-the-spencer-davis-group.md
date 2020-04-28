@@ -104,4 +104,4 @@ But love you so
 {Chicago's Instrumental}
 
 {Outro}
-Oh, no, no, Yes, I am...
+Oh, no, no, Yes, I am

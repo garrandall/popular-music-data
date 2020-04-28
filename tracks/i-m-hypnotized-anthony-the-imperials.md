@@ -28,7 +28,7 @@ I dream of ways to win her
 When I get hung up in her eyes
 And I'm hypnotized
 
-Wa wa wa...
+Wa wa wa
 
 I try to tell her how I feel
 But when she's near
@@ -39,4 +39,4 @@ Cause I just can't
 Ignore those eyes
 They hypnotize
 
-Wa wa wa...
+Wa wa wa

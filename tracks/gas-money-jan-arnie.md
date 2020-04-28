@@ -21,7 +21,6 @@ Say man, let's split (who's driving?)
 Not me (well not me)
 What'd ya mean not you?
 
-(Chorus)
 I need some gas money
 I need some gas money
 Well if you really want to go
@@ -34,7 +33,6 @@ You try to get my cash
 'Cause you say you're out of gas
 So just stay just where we are
 
-
 I need some gas money
 
 Well I done run out of bread
@@ -43,7 +41,6 @@ I don't got any money
 'Cause I spent it on my honey
 So I'm going home to bed
 
-
 I need some gas money
 
 Well if I'm in your car
@@ -51,7 +48,6 @@ No matter where or how we are
 Oh you try to get my cash
 'Cause you say you're out of gas
 So just stay just where we are
-
 
 Well if you really want to go
 You'll have to come up with some dough

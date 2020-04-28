@@ -65,7 +65,7 @@ rankings:
   start_date: '2015-10-10'
 ---
 Alls my life I has to fight, nigga
-Alls my life I...
+Alls my life I
 Hard times like, "Yah!"
 Bad trips like, "Yah!"
 Nazareth, I'm fucked up

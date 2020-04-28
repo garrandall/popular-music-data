@@ -19,10 +19,10 @@ Chea
 Ace Hood
 See mama, all I want you to do is hold it down for me
 I want you to be my ride or die
-While I go get this money, I promise im get us out the hood baby
+While I go get this money, I promise I'm get us out the hood baby
 
 
-Even though im in the streets
+Even though I'm in the streets
 You know exactly what I do
 When I chase this paper
 You aint gotta wait for me to bring it back home to you
@@ -37,17 +37,17 @@ One thing I love about it
 See you aint wit that drama
 You be my ride or die like bonnie imma play the clyde
 Promise to move you out the hood into a bigger house
-That's why you never trip im grindin bump a 9-5
+That's why you never trip I'm grindin bump a 9-5
 Gotta get this money, paper callin but you never whine
 Gotta ask the cash come with bags you should see your eyes
 That's why I suprise about you stacks to ease your worried mind
-Cuz when im gone lil mama home alone at every time
+Cuz when I'm gone lil mama home alone at every time
 You never blowed my phone up yet cuz you respect the grind
 And you never holla bout a problem keep it on the line
 My gutta baby, never maybe always gonna ride
 
 
-Even though im in the streets
+Even though I'm in the streets
 You know exactly what I do
 When I chase this paper
 You aint gotta wait for me to bring it back home to you
@@ -60,18 +60,18 @@ Thinking jamaica lately
 Cant take them deep relations, baby just keep it patient
 Shawty know what I do
 Shawty know who I be
-You know im in these streets the only way that we gon eat
+You know I'm in these streets the only way that we gon eat
 I keep it gutta never cut her when we in them sheets
-I get sum cutta grap the duffle then im in the streets
+I get sum cutta grap the duffle then I'm in the streets
 Come back with bundles pimp a half a g and louie v
 But you aint trippin never question bout a nigga g
 We keep it real aint no other that could fill ya sneak's
 I ride for you, you ride for me that's where we need to be
 I hold you down, you hold me down and I fulfill your dreams
-Your my beyonce im hova won't you ride with me
+Your my beyonce I'm hova won't you ride with me
 
 
-Even though im in the streets
+Even though I'm in the streets
 You know exactly what I do
 When I chase this paper
 You aint gotta wait for me to bring it back home to you
@@ -101,7 +101,7 @@ And I love the money so I guess it's like doin two
 You ride or die same smile when you see the loot
 
 
-Even though im in the streets
+Even though I'm in the streets
 You know exactly what I do
 When I chase this paper
 You aint gotta wait for me to bring it back home to you

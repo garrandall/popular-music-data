@@ -91,8 +91,8 @@ But since I came here
 Felt the joy and the fear
 Finding myself making every possible mistake
 
-La-la-la-la-la-la-la-la...
-La-la-la-la-la-la-la-la...
+La-la-la-la-la-la-la-la
+La-la-la-la-la-la-la-la
 
 
 I'm a young soul in this very strange world
@@ -101,8 +101,8 @@ But why all this hate?
 Try to communicate
 Finding trust and love is not always easy to make
 
-La-la-la-la-la-la-la-la...
-La-la-la-la-la-la-la-la...
+La-la-la-la-la-la-la-la
+La-la-la-la-la-la-la-la
 
 
 This is a happy end
@@ -122,7 +122,7 @@ Felt the joy and the fear
 Finding myself making every possible mistake
 
 
-La-la-la-la-la-la-la-la-la-la...
-La-la-la-la-la-la-la-la-la-la...
-La-la-la-la-la-la-la-la-la-la...
-La-la-la-la-la-la-la-la-la-la...
+La-la-la-la-la-la-la-la-la-la
+La-la-la-la-la-la-la-la-la-la
+La-la-la-la-la-la-la-la-la-la
+La-la-la-la-la-la-la-la-la-la

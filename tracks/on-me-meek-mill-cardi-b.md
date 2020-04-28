@@ -109,7 +109,7 @@ I'm in a red 'Sace robe (Robe, robe)
 I do not come in your size
 Brand new Rolls, all bad bitches
 I want a freak nasty ho
-I seen a bitch go an' switch sides
+I seen a bitch go and switch sides
 
 
 I want a freak nasty ho, and I want all bad bitches

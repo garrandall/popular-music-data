@@ -100,7 +100,7 @@ I don't wanna die
 I sometimes wish I never been born at all
 
 (Oh oh carry on nothing really matters) I didn't mean to make you cry
-If i'm not back again this time tomorrow
+If I'm not back again this time tomorrow
 (Carry on, carry on, as if nothin really matters)
 
 I don't wanna die

@@ -63,7 +63,7 @@ Stranger in my home town, whoo! Stranger in my home town. I'm just a stranger.
 
 
 
-I'm a stranger, a stranger - I'm a stranger, a stranger ...
+I'm a stranger, a stranger - I'm a stranger, a stranger
 
 
 

@@ -70,7 +70,7 @@ I wish I knew then what I know now
 I wouldn' have let you go
 I swear I would have make this love grow
 I spent a lot of time and a lot of dough
-Trying to match what we had and now I...
+Trying to match what we had and now I
 
 
 I was hopin' we could find a way

@@ -166,7 +166,7 @@ What a mighty good man
 Yes, he is
 Whatta man, whatta man, whatta man
 What a mighty good man
-He's a  mighty mighty good man
+He's a mighty mighty good man
 Whatta man, whatta man, whatta man
 What a mighty good man
 You gotta say it again now
@@ -205,7 +205,7 @@ Which means a lot to me cuz good men are hard to find
 
 Whatta man, whatta man, whatta man
 What a mighty good man
-He's a  mighty mighty good man
+He's a mighty mighty good man
 Whatta man, whatta man, whatta man
 What a mighty good man
 Say it again now

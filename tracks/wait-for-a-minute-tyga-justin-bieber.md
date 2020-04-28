@@ -60,7 +60,7 @@ Ferarri's and horses, I snap like Torres
 No rug, I floor it, girl, come feel important
 I'm all about a dollar, babe, banks call me Georgi
 9-5 Rollie, 96 Kobe, tonight we gon' ball like Ginobili
-You know me, I'm just tryna...
+You know me, I'm just tryna
 
 Slow dance in the moonlight
 I'm just tryna set the mood right

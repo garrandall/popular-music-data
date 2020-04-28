@@ -21,7 +21,7 @@ However long that it takes
 I'll go to whatever lengths
 It's gonna make me a monster though
 I am phenomenal
-But I'll never say, ‘Oh, it’s impossible’
+But I'll never say, ‘Oh, it 's impossible '
 Cause I'm born to be phenomenal
 
 
@@ -42,7 +42,7 @@ Inside the realm of the unknown and boldly go
 Into waters where nobody else has gone before
 Or willing to go, uncharted, feeling is so
 Bomb, I'm feelin' myself, I'm a giant
-Sometimes I gotta remind myself that I am...
+Sometimes I gotta remind myself that I am
 
 
 I am phenomenal
@@ -54,7 +54,7 @@ However long that it takes
 I'll go to whatever lengths
 It's gonna make me a monster though
 I am phenomenal
-But I'll never say, ‘Oh, it’s impossible’
+But I'll never say, ‘Oh, it 's impossible '
 Cause I'm born to be phenomenal
 
 
@@ -89,15 +89,15 @@ However long that it takes
 I'll go to whatever lengths
 It's gonna make me a monster though
 I am phenomenal
-But I'll never say, ‘Oh, it’s impossible’
+But I'll never say, ‘Oh, it 's impossible '
 Cause I'm born to be phenomenal
 
 
 Oh, step into the unknown and find yourself
-You’re floating freely, no emotion
+You 're floating freely, no emotion
 
 
-Got a fuckin’ mouth with no shut-off valve
+Got a fuckin ' mouth with no shut-off valve
 Can't even cut off power to it, but it's what allowed
 Me to come up out from under the fuckin' ground
 Cause I worked my butt off now
@@ -143,5 +143,5 @@ However long that it takes
 I'll go to whatever lengths
 It's gonna make me a monster though
 I am phenomenal
-But I'll never say, ‘Oh, it’s impossible’
+But I'll never say, ‘Oh, it 's impossible '
 Cause I'm born to be phenomenal

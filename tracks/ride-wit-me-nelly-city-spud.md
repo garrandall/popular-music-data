@@ -125,7 +125,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2001-09-08'
 ---
-Mmm...
+Mmm
 Where they at? Where they at?
 Where they at? Where they at?
 Where they at? Where they at?

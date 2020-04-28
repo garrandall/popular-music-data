@@ -86,7 +86,7 @@ Kept me up all Christmas Eve two years ago
 
 And it would sure embarrass her
 When I came in from workin' late 'cause I would know
-That she'd been sittin there an' cryin'
+That she'd been sittin there and cryin'
 Over some sad and silly late, late show
 
 And Honey, I miss you

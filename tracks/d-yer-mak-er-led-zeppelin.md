@@ -85,7 +85,7 @@ Baby please don't go
 When I read the letter you wrote me, it made me mad mad mad
 When I read the words that it told me, it made me sad sad sad
 But I still love you so, I can't let you go
-I love you, ohbaby I love you
+I love you, oh baby I love you
 
 
 Oh, oh, oh, oh, oh, oh
@@ -101,7 +101,7 @@ Darling please don't go
 When I read the letter you sent me, it made me mad mad mad
 When I read the news that it broke, it made me sad sad sad
 But I still love you so, and I can't let you go
-I love you, ohbaby I love you
+I love you, oh baby I love you
 
 
 Oh, oh, oh, oh, oh, oh

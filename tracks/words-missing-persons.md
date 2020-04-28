@@ -96,7 +96,7 @@ But it's less than nowhere now
 Less than nowhere now
 Less than nowhere now
 Now
-Ow ow ow...
+Ow ow ow
 
 Pursue it further and another thing you'll find
 Not only are they deaf and dumb they could be going blind and no one notices

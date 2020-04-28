@@ -31,10 +31,10 @@ rankings:
 
 Warn your warmth to turn away,
 Here it's December,
-Everyday.  I like that
+Everyday. I like that
 
 Press your lips to the sculptures,
-And surely you'll stay.  love like winter
+And surely you'll stay. love like winter
 
 For of sugar and ice,
 I am made. I am made
@@ -48,7 +48,7 @@ He bit my lip, and drank my warmth,
 From years before, from years before.
 
 She exhales vanilla lace,
-I barely dreamt her, yesterday.  yesterday
+I barely dreamt her, yesterday. yesterday
 Read the lines in the mirror through,
 The lipstick trace.
 Por siempre

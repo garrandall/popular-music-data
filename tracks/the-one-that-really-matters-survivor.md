@@ -39,7 +39,7 @@ On love and slam the door
 If you're searching for something more
 Have a good time
 But if you'd follow your heart
-You're gonna find that I'm...
+You're gonna find that I'm
 
 *The one, the one
 The one that really matters

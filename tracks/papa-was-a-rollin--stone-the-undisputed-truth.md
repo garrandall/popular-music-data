@@ -69,7 +69,7 @@ I wanna know, mama
 Folks say papa never was much on thinkin'
 Spent most of his time chasin' women and drinkin'
 Mama, I'm depending on you to tell me the truth
-With tear-filled eyes, mama  say
+With tear-filled eyes, mama say
 
 
 Papa was a rolling stone, son

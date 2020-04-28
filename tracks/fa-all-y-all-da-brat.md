@@ -107,7 +107,7 @@ Now... lay back listen to the phattest
 Listen to the baddest rhymin' apparatus
 At a status you ain't got to check
 Cause y'all knows that I definitely gets wrecked
-So,  uh
+So, uh
 
 
 Who's that makin that funky noise?

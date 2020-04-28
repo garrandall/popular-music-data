@@ -131,7 +131,7 @@ To see the world through your Rosy glasses
 I'll teach you to fly but they teach greed
 We live the belt but I can bleed
 
-I don't know...
+I don't know
 What I can't see...
 I don't know
 What I can't see

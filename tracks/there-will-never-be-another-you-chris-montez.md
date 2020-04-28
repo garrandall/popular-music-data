@@ -52,7 +52,7 @@ Yes, I may dream a million dreams
 But how can they come true
 If there will never ever be another you
 
-La la la la...
+La la la la
 
 There will be other songs to sing
 Another Fall, another Spring
@@ -64,7 +64,7 @@ Yes, I may dream a million dreams
 But how can they come true
 If there will never ever be another you
 
-La la la la...
+La la la la
 
 There will be other songs to sing
 Another Fall, another Spring

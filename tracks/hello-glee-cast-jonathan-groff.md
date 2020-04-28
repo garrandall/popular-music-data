@@ -24,7 +24,7 @@ I can see it in your smile
 You're all I've ever wanted, and my arms are open wide
 'Cause you know just what to say
 And you know just what to do
-And I want to tell you so much, I love you ...
+And I want to tell you so much, I love you
 
 Ohh yeahh...
 
@@ -38,7 +38,7 @@ And I wonder what you do
 Are you somewhere feeling lonely, or is someone loving you?
 Tell me how to win your heart
 For I haven't got a clue
-But let me start by saying... I love you ...
+But let me start by saying... I love you
 
 Is it me you're looking for?
 'Cause I wonder where you are

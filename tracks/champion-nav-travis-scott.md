@@ -54,7 +54,7 @@ No TSA, hop on a jet, we gone
 
 
 Fucked a famous girl to "Mask Off" (Molly, Percocet)
-Pop a bean an' let the bags talk
+Pop a bean and let the bags talk
 Bought ten bottles on a last call (last call)
 Flew a basic girl out from Alaska
 Illegal alien inside my spaceship

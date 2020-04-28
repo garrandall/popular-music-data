@@ -82,7 +82,7 @@ You know, you love her more and more"
 Tell me why is it so
 Don't wanna let you go
 I never can say goodbye girl
-Oh ohbaby
+Oh oh baby
 I never can say goodbye
 No no no, no no no
 
@@ -107,7 +107,7 @@ Tell me why is it so
 Don't wanna let you go
 
 I never can say goodbye girl
-Oh ohbaby
+Oh oh baby
 I never can say goodbye
 No no no, no no no, oh
 
@@ -117,7 +117,7 @@ I never can say you goodbye
 No no no, no no no oh
 
 I never can say goodbye girl
-Oh ohbaby
+Oh oh baby
 I never can say goodbye
 No no no, no no no, oh oh
 

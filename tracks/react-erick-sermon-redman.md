@@ -99,11 +99,11 @@ Yeah, them broads from Puerto Rico, them Keith's folks
 Yeah, watch how the "E" locs 64
 Black rags, black interior, shift on the floor
 Burn out, I do it for the kids
-They're  hoppin' the turn style, the "E" goin' wild
+They're hoppin' the turn style, the "E" goin' wild
 Yo, like them white chicks on a DVD
 Yeah, I'm worldwide, MTV and BET, nigga
 
- -  Whateva' she said, then I'm that
+ - Whateva' she said, then I'm that
 If this here rocks to y'all, then react
 
 Whateva' she said, then I'm that

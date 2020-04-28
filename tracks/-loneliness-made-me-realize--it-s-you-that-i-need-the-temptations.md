@@ -4,7 +4,7 @@ artists:
 features: []
 genres: []
 key: -loneliness-made-me-realize--it-s-you-that-i-need-the-temptations
-lyrics_url: https://www.azlyrics.com/lyrics/temptations/lonelinessmademerealizeitsyouthatineed.html
+lyrics_url: https://genius.com/The-temptations-loneliness-has-made-me-realize-its-you-that-i-need-lyrics
 name: (Loneliness Made Me Realize) It's You That I Need
 rankings:
 - end_date: '1967-10-20'
@@ -44,39 +44,53 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1967-12-09'
 ---
+Oh, lonely man am I
+Ever since you said goodbye
+Girl, I know that I should have woke up
+'Cause I see it now that we've broke up
+Your farewell kiss is haunting me
+My tooting lips cry out constantly
+Let your heart, let your heart be your guide
+Forget about your foolish pride
 
-Oh Lonely man am I, ever since you said goodbye,
-girl I know that I should have woke up, cuz it seems now that we've broke up,
-your fairwell kiss is haunting mee, my two lips cry out constantly,
-let your heart let your heart be your guide,
-(forget about your foolish prid)
-forget about your foolish pride,
+Starting tomorrow I keep telling myself
+(I need ya; baby, I need ya)
+I'm gonna get out and find somebody else
+(I need ya; baby, I need ya)
+Somebody that's sweet and kind
+(I need ya; baby, I need ya)
+Who will erase you out of my mind
 
-(Baby I keep tellin, I keep tellin, baby I keep tellin)
-starting tomorrow I keep telling myself,
-im gonna get out and find me somebody else,
-somebody thats sweet and kind who will erase you out of my miiind,
-but tell me how can I find somebody new baby,
-when my two arms keep reaching out for you,
-and my two lips keep right on repeating,
-its you that I need oh,
-you know that even when I close my eyes to forget ya,
-I see your face and your memories too,
-girl I've never felt this lonelyness before, and hooo girl I just can't take it no more,
+But tell me, how could I find somebody new, baby?
+(It's you that I need)
+When my two arms keep reaching out for you?
+(It's you that I need)
+And my two lips keep right on repeating
+It's you that I need (Baby, I need you)
 
-Every night a million tears I shed, Girl
-girl i'm only goin out of my head,
-just take a good look and you'll see what this lonelyness is doin to meee,
-(paul) (uh baby its you that need) ohaul) don't you know that its you that I need (eddie) (baaaby) Oh I can't take this lonelyness, (its you that I need)
-Awww baby I need ya, (Its you that I need) oh Baby)
+You know that even when I close my eyes to forget ya
+I see your face and your memories too
+Girl, I've never felt this loneliness before
+And oh, girl, I just can't take it no more
+Every night a million tears I shed
+Girl, next morning going out of my head
+Just take a good look and you'll see
+What this loneliness is doing to me
 
-(You that I need) Some fool im gonna be no more,
-cuz i'll soon be knockin', knockin' on your door,
-gonna get down on my bending knees,
-beg and plead giiirl come back to me,
-its you that I need (ever night a million tears I shed)
-giirl its you that I need (every morning goin out of my head)
-girl take a good look and you'll see a, what does this lonelyness
+Baby, it's you that need
+Don't you know that it's you that I need?
+Oh, I can't take this loneliness
+It's you that I need
+Oh baby, I need ya
+It's you that I need; baby, I need ya
 
-
-
+Some fool I'm gonna be no more
+'Cause I'll soon be knocking, knocking on your door
+Gonna get down on my bended knees
+Beg and plead, girl, come back to me
+It's you that I need
+(Every night a million tears I shed)
+Girl, it's you that I need
+(Very soon going out of my head)
+Girl, take a good look and you'll see
+What does this loneliness is doing to me

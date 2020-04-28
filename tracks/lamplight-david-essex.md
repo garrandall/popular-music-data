@@ -84,7 +84,7 @@ My cha cha cha cha
 Wooh on me
 Mmm gonna shine on, me
 cha cha cha, on, me
-cha cha  ha ha ha
+cha cha ha ha ha
 
 
 

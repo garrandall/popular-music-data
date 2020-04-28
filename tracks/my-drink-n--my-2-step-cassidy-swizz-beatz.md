@@ -123,7 +123,7 @@ Hold the drink with the left hand to show the pink' ring
 
 Aiyyo they wanna be like me, recreate my flow
 Imitate my flow, then relate my flow
-But while they try an' take my flow I make my dough
+But while they try and take my flow I make my dough
 Aiyyo I can make it rain cause I be makin it snow
 But yo, I've been takin it slow, I wasn't around
 But the car crash couldn't lay the hustler down, nah

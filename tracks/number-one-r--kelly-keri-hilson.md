@@ -108,7 +108,7 @@ Everytime you put that on
 You are now rocking with the best
 I'll make you forget about your ex
 This one here's a race where you don't wanna come first
-I know what i'm doing ain't no need to rehearse yeah-ee-yeah
+I know what I'm doing ain't no need to rehearse yeah-ee-yeah
 A lot of dudes just be going nowhere fast
 But you be steady cruising like you want it to last
 That's how you made me a chocoholic

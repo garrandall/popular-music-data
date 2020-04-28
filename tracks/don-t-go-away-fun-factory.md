@@ -31,7 +31,7 @@ Don't go away and show me your love
 You bring me joy
 You are the center of my life
 
-Uuooh, uuoooh ...
+Uuooh, uuoooh
 
 Oh Darling you, you drive me crazy
 And I don't know what to do

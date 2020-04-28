@@ -104,7 +104,7 @@ just hiding from daylight
 watching tv
 we just look a lot better in the blue light
 well you know I gotta get out
-well i'm stuck so tight weighed by the chains that keep me
+well I'm stuck so tight weighed by the chains that keep me
 hangin' around this town on the corner
 i been bummin' around this old town too long
 i been hangin' around this town on the corner

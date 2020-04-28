@@ -52,7 +52,7 @@ The ghost moon sails among the clouds
 Turns the rifles into silver on the border
 
 On my wall the colours of the maps are running
-From Africa  the winds they talk of changes coming
+From Africa the winds they talk of changes coming
 The torches flare up in the night
 The hand that sets the farms alight
 Has spread the word to those who're waiting on the border

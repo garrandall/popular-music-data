@@ -55,7 +55,7 @@ Lord, please believe in him, like I believe in you
 
 Daddy's always been there for me
 From T-Ball to touchdowns
-Fixed my car an' fixed my heart
+Fixed my car and fixed my heart
 When they've been broken down
 I know he calls for more forgiveness
 Than most folks do require
@@ -70,7 +70,7 @@ Lord, please believe in him, like I believe in you
 
 Well, I just can't imagine
 What Heaven might be like
-If me an' Mamma make it
+If me and Mamma make it
 Without Daddy by our side
 Lord, could you please remember
 When it's time to call us higher

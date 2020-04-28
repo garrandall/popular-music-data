@@ -57,7 +57,7 @@ Going on in my mind but me
 And I love him (whoa whoa...)
 And I love him (whoa whoa...)
 Everybody says I'm too young
-But what do they know, know, know...
+But what do they know, know, know
 
 
 
@@ -82,9 +82,9 @@ When he holds her tight
 (Holds me tight)
 
 Everybody says that I'm wrong
-But what do they know, know, know...
+But what do they know, know, know
 
 And I love him (whoa whoa...)
 And I love him (whoa whoa...)
 Everybody says give it up
-But what do they know, know, know...
+But what do they know, know, know

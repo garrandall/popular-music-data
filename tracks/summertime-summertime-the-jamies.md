@@ -99,7 +99,6 @@ And no more reading geography
 And no more dull geometry
 Because it's summertime
 
-(Chorus)
 It's time to head straight for them hills
 It's time to live and have some thrills
 Come along and have a ball
@@ -126,7 +125,6 @@ Cause what's a vacation without romance
 Oh man this jive gets me in a trance
 Because it's summertime
 
-Chorus
 It's summertime
 
 It's summertime summertime sum sum summertime

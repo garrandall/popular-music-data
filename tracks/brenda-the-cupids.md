@@ -40,9 +40,9 @@ Brenda, I dream of you
 Now and every night
 Can't you see that I
 Need your love, oh, Brenda
-Brenda, Brenda...
+Brenda, Brenda
 Brenda, be mine
 Now and every night
 Can't you see that I
 Need your love, oh, Brenda
-Brenda, Brenda...
+Brenda, Brenda

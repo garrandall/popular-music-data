@@ -56,7 +56,7 @@ Objection
 I don't want to be the exception
 To get a bit of your attention
 I love you for free,
-And i'm not your mother
+And I'm not your mother
 But you don't even bother
 Objection
 I'm tired of this triangle

@@ -23,7 +23,7 @@ All I ever want was to put on and give my folks somethin'
 Knockin' on my sister window, comin' in at 4 somethin'
 Mama trippin' 'bout the way I'm livin' and how my hoes comin' (In and out)
 Caught the next-door neighbor slippin', we slimed him, left his nose runnin' (In his house)
-Knowin' I can't lie, so when she asked me, I  make no comment
+Knowin' I can't lie, so when she asked me, I make no comment
 Terrorizin', thuggin', doin' dumb shit, makin' no money
 It was time for me to go up, got a pack and made it blow up
 Went into that corner store until I got it all

@@ -57,13 +57,13 @@ Of lovin' a sweet girl like you.
 
 I know, I know,
 You belong to another.
-I...
+I
 I may not stand a ghost of a chance.
 I'll stand on top of Mt. Everest,
 And proudly tell the world that I love ya.
 Oh yes I will.
 
-Because I...
+Because I
 I just can't,
 I can't help it girl.
 I'm a victim of circumstance.

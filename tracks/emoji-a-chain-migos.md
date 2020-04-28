@@ -121,7 +121,7 @@ Huncho barbarian, McLaren, I park at fif's
 And the comparison, I'm staring at lines of shrimps
 Cruise, of course, like a blimp
 Dunking a boat like I'm Kim
-Slangin the  like a chimp
+Slangin the like a chimp
 Shot on me walk with a limp
 Niggas so don't attempt
 Ice on change the temp

@@ -106,7 +106,7 @@ Ain't the last brother passed over
 I be the bastard of the year, y'know that calf punchin back brother
 N-A-U-G-H, T-Y, B-Y
 Na-Na-Na, NATURE, not cause I hate ya
-Master the matress, flip an' go backwards
+Master the matress, flip and go backwards
 One kiss on your cheek will make you backflip to Chadwick
 
 

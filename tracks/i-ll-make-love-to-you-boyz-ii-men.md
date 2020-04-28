@@ -199,12 +199,12 @@ Baby, all through the night
 I'll make love to you (I'll make love)
 When you want me to
 And I will not let go (Will not let go til you)
-'Til you tell me to  (tell me to)
-I'll make love to you  (I'll make love)
+'Til you tell me to (tell me to)
+I'll make love to you (I'll make love)
 Like you want me to
 And I'll hold you tight (Hold you tight)
 Baby, all through the night
-I'll make love to you  (I'll make love)
+I'll make love to you (I'll make love)
 When you want me to
 And I will not let go (Will not let go til you)
 'Til you tell me to (Tell me to, tell me baby)

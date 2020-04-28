@@ -35,7 +35,7 @@ I can't, I can't! Ew, ew!
 
 Look at look at this. OM-effin-G, what the eff?
 You're gonna freakin' flip, like, seriously freakin' flip
-'Cause Sally's mad at Iggy because  Iggy's booty's more biggy
+'Cause Sally's mad at Iggy because Iggy's booty's more biggy
 And Sally's booty's twiggy so she called her friend Cybie
 Now Sally's gonna get impleggies
 What's impleggies? Implants, silly, ew!

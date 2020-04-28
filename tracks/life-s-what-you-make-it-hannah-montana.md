@@ -25,7 +25,7 @@ rankings:
   start_date: '2007-08-04'
 ---
 Put your hands together everybody!
-Aiaiaaaaaaaaaaaaa...
+Aiaiaaaaaaaaaaaaa
 Yeah!
 Don't let no small frustration
 Ever bring you down (no, no, no, no)
@@ -43,7 +43,7 @@ Life's what you make it
 So let's make it rock (Make it rock!)
 Life's what you make it
 So come on (Come on!), come on, (everybody now)!
-Aiaiaaaaaaaaaaaaa...
+Aiaiaaaaaaaaaaaaa
 
 (You can do better of that, oh yeah!)
 (Don't stop!)

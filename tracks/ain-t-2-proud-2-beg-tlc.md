@@ -99,7 +99,7 @@ rankings:
 Yo, mic check, 1-2, 1-2
 We in the house
 Yeah, come on
-1992, TLC kickin' off in your Mutha...
+1992, TLC kickin' off in your Mutha
 So ya best be duckin' fast
 Yo, T-Boz, is ya being a boss?
 Chilli, what's up wit' dat sauce?

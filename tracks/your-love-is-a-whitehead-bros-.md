@@ -59,7 +59,7 @@ That my neighbours call the cops
 You're like a gangstress of love
 So baby come and put your hit on me
 Your shot is a bomb
-And I'm always down for your l.u.v
+And I'm always down for your love
 
 Your love is a 187, takin' me to heaven
 It's killin' me your love should be this good
@@ -85,7 +85,7 @@ Your love
 When you're humping and you're thumping
 And you're making those sounds
 Moanin' and groaning baby, yeah
-Hope your  tight
+Hope your tight
 Cause we're moving all around
 We're moving up and down
 

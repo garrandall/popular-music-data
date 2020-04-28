@@ -152,7 +152,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-08-05'
 ---
-All alone tonight im calling out your name
+All alone tonight I'm calling out your name
 Somewhere deep inside this part of you remains
 Images of love take me back in time
 
@@ -179,7 +179,7 @@ Oh thinking about you girl
 
 There's gotta be a place for me
 Somewhere in your heart
-All alone tonight i'm calling out your name
+All alone tonight I'm calling out your name
 Somewhere deep inside this part of you remains
 Images of love and where are you now
 Is someone there tonight holding what was mine

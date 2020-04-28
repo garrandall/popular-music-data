@@ -120,7 +120,7 @@ Just turn around now
 'Coz you're not welcome anymore
 Weren't you the one who tried to hurt me
 With goodbye, did you think I'd crumble?
-Did you think I'd lay down an' die?
+Did you think I'd lay down and die?
 
 Oh no, not I, I will survive
 Oh, as long as I know how to love

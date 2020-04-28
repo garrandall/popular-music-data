@@ -49,7 +49,7 @@ And we walked in the sun down the royal mile
 Saw the light in her eye and the way she smiled
 And she cried in the night and I heard her say: 'Don't go'.
 
-What can I do, sweet darlin'?  I don't want to go away
+What can I do, sweet darlin'? I don't want to go away
 Looking at you, sweet darlin', I know I want to stay
 What can I do, sweet darlin'?
 
@@ -61,7 +61,7 @@ Yeah, but now it's a dream, it's a memory
 But I'll never forget what you gave to me
 I was lost and alone but you made feel OK.
 
-What can I do, sweet darlin'?  I don't want to go away
+What can I do, sweet darlin'? I don't want to go away
 Looking at you, sweet darlin', I know I want to stay
 What can I do, sweet darlin'?
 
@@ -69,7 +69,7 @@ I remember the sound of the passing train
 As it rolled through the night in the pouring rain
 And the touch of a hand and the way she said: 'Goodbye'.
 
-What can I do, sweet darlin'?  I don't want to go away
+What can I do, sweet darlin'? I don't want to go away
 Looking at you, sweet darlin', I know I want to stay
 What can I do, sweet darlin'?
 

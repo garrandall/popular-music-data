@@ -46,7 +46,7 @@ Because you can eat
 Anyone that you want at
 Alice's Restaurant
 
-Oh, oh, yeah, mmm...
+Oh, oh, yeah, mmm
 
 I said
 You can get anything

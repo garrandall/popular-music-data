@@ -210,7 +210,7 @@ Muh-move over!
 Yeah!
 
 Oh, jungle love, that's right
-Can't nobody funk  with me
+Can't nobody funk with me
 I got a bearskin rug (oh we oh we oh)
 I got a fireplace too (oh we oh we oh)
 And I'm all the way wild baby (oh we oh we oh)

@@ -67,9 +67,9 @@ rankings:
 
 For goodness sakes
 I got the hippy hippy shakes
-yeah I got the shakes  
-I got the hippy hippy shakes  
-I can't sit still 
+yeah I got the shakes
+I got the hippy hippy shakes
+I can't sit still
 with the hippy hippy shakes
 yeah I get my fill now
 with the hippy hippy shake

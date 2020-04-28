@@ -5,7 +5,7 @@ features: []
 genres: []
 key: w-o-r-k-i-n--m-e-quavo
 lyrics_url: https://www.musixmatch.com/lyrics/Quavo/W-O-R-K-I-N-M-E
-name: W O R K I N  M E
+name: W O R K I N M E
 rankings:
 - end_date: '2018-08-31'
   rank: 72

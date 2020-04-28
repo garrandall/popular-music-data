@@ -101,7 +101,7 @@ That overlooks the avenue
 He stepped into the streets and walked up to this girl
 He had a cap tooth made of gold
 He had an earing in his nose
-And dreadlocks that at  night he liked to twirl
+And dreadlocks that at night he liked to twirl
 And he says:
 "I love the way you look at me, I love your smile
 Why don't you come and talk to me just for a while?

@@ -75,7 +75,7 @@ I'll be there for you physically, mentally
 Puttin' in work
 If you ain't satisfied then my feelings get hurt
 When it comes to love I take it personal
-I'm always there for you and I'm hopin' that you know...
+I'm always there for you and I'm hopin' that you know
 
 If ever a time, if ever a time goes by
 That you miss me and my rhyme

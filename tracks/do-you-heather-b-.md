@@ -43,8 +43,8 @@ I'ma do me (you gots to do you)
 Heather B, Grand like a Cherokee
 Loredo, I need my hands on some alfredo
 Streets condonin it, Back on the Block, Quincy Jonesin it
-Prada, get publishing, what?  I'm owning it huh
-You feel me now?  You get the point?
+Prada, get publishing, what? I'm owning it huh
+You feel me now? You get the point?
 Heather B B B B drops oowops on your joints
 You really, can't rate me or mistake me for another
 I Brings In Da Noize And Funk like Savion Glover
@@ -65,7 +65,7 @@ The sons you talked about with guns, the ones with gats and all that?
 I figured that some rap for plaques over, R&B tracks
 You got to watch, what you say if you ain't really, livin that
 Another rapper lost, lookin all stank up in The Source
-What's all that shit fo'?  Did your momma, raise a hoe?
+What's all that shit fo'? Did your momma, raise a hoe?
 Fight it, and I win, I'm that rhyme, veteran
 With that Nighttime Sniffly Sneezin Rest Your Head, Medicine
 See me live rock on Keenan, and even, Letterman

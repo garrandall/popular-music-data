@@ -153,9 +153,9 @@ He's gonna give us a peek
 
 Here he comes again.
 Who's that with him?
-Ethel?  Is that you, Ethel?
+Ethel? Is that you, Ethel?
 What do you think you're
-doin'?  You git your
+doin'? You git your
 clothes on!
 
 

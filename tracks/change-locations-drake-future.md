@@ -41,7 +41,7 @@ Me and my friends, me and my friends we got money to spend
 This adderall got me to the ceiling (To the ceiling now)
 I think them percocets had me in my feelings (In my feelings now)
 I peel them hundreds on hundreds
-I get that  money on money
+I get that money on money
 I get that guala on guala
 I get them dollars on dollars
 Then throw out them dollars, them bitches gonna holla

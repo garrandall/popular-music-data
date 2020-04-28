@@ -67,4 +67,4 @@ I wanna do the things like the big guys do
 Like the big guys do, I wanna tell them lies
 Like the big guys do, I wanna treat them bad
 Like the big guys do, I wanna break their hearts
-Like the big guys do, I wanna...
+Like the big guys do, I wanna

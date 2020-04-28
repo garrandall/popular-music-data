@@ -55,7 +55,7 @@ Play all my records, keep dancing all night
 But leave me alone for a while
 'Til Johnny's dancing with me
 I've got no reason to smile
-It's my party, and I'll cry if I want to, ...
+It's my party, and I'll cry if I want to,
 Judy and Johnny just walked thru the door
 But like a queen with her king
 Oh, what a birthday surprise

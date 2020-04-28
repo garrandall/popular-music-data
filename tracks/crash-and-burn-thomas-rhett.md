@@ -140,9 +140,9 @@ A slamming door and a lesson learned
 I let another lover crash and burn
 Yeah, I let another lover crash and burn
 
-Mhhhmm...
+Mhhhmm
 
-Mhhhmm...
+Mhhhmm
 
 
 

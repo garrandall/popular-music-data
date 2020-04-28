@@ -78,7 +78,7 @@ It reminds me of the places we used to go.
 But all I got is a photograph
 And I realise you're not coming back anymore.
 
-I thought i'd make it the day you went away,
+I thought I'd make it the day you went away,
 But I can't make it
 Till you come home again to stay-yi-yay-yi-yay.
 
@@ -88,7 +88,7 @@ I want you here to have and hold,
 As the years go by and we grow old and grey.
 
 Now you're expecting me to live without you,
-But that's not something that i'm looking forward to.
+But that's not something that I'm looking forward to.
 
 I can't get used to living here,
 While my heart is broke, my tears I cried for you.

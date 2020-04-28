@@ -47,8 +47,8 @@ Oh, oh oo-oh
 Don't want to hurt you
 I feel, I feel so ashamed
 No words can tell you
-How can I...
-How can I...
+How can I
+How can I
 How can I... explain
 
 Gee, baby, I tried

@@ -29,18 +29,18 @@ rankings:
   start_date: '1983-01-08'
 ---
 Well I don't know if it’s right or if it's wrong, but I don't care about it anyway
-I’ve been wondering if you're chasing all the rainbows that I'm making but I'm not sure
+I 've been wondering if you're chasing all the rainbows that I'm making but I'm not sure
 See this one-way love affair's OK, but I don't think it's here to stay it's not natural
-First it’s one thing then another, baby make me run for cover you don’t want to stop
+First it 's one thing then another, baby make me run for cover you don 't want to stop
 You don't want to give up
 
 Baby
-Don’t stop trying
+Don 't stop trying
 Don't stop trying
 Don't come crying
 You better keep away every night and day
 Don't stop trying
-Don’t stop trying
+Don 't stop trying
 Don't come crying
 You better keep away every night and day
 Baby
@@ -81,4 +81,4 @@ Don't come crying
 You better keep away (keep away) every night and day
 Baby
 Don't stop trying
-Don't stop trying  (never give up on a good time baby)
+Don't stop trying (never give up on a good time baby)

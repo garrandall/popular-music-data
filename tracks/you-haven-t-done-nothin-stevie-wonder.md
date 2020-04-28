@@ -112,7 +112,7 @@ You haven't done nothin'
 Jackson 5 join along with me, say
 Doo doo wop, hey hey hey doo doo wop
 Oh oh doo doo wop, oh oh doo doo wop
-Oh oh Doo doo wop,  oh oh doo doo wop
+Oh oh Doo doo wop, oh oh doo doo wop
 
 
 We would not care to wake up to the nightmare

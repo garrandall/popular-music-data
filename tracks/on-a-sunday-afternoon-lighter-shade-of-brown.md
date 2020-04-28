@@ -110,7 +110,6 @@ Back to business as usual come Monday
 At the park everything went real smooth...
 On a Sunday afternoon
 
-(Chorus)
 We were chillin in the park
 Just waiting for the sun to go down (On a Sunday afternoon)
 It was me Shiro and the homies
@@ -131,7 +130,6 @@ Cars would listen rolling deep with booming sounds
 Its a good time to cruise around
 In the parking lot where the brownies was stackin
 And all the vatos were looking for some action yeah
-
 
 Well the sun was set and it began to get dark
 And we were gettin ready to leave the park
@@ -158,4 +156,4 @@ With the top down, low to the ground
 I know they be watching me smooth chilliin
 Just kickin it with the top down, low to the ground
 I pump it up for you... smooth
-Smmooooooth just chillin on a Sunday afternoon
+Smooth just chillin on a Sunday afternoon

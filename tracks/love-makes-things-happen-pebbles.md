@@ -148,7 +148,7 @@ I'm telling you love makes things happen
 You never know what you're gonna do
 When ever true love takes hold of you
 
-You never know...
+You never know
 
 
 

@@ -83,7 +83,7 @@ Oh, du magst die Bösen auch
 
 
 Du bist so cool, übertreibe nicht, ich bin so aufgeregt, ich brauche einen Drink
-Wir tuen das meiste, ich bin im Geist, wie ich ein Boot auspeitsche
+Wir tuen das meiste, ich bin I'm Geist, wie ich ein Boot auspeitsche
 Ich habe einen Ruf, Mädchen, welcher mir nicht vorgeht (yah)
 Ich bin einen Anruf entfernt, wann immer du mich brauchst (yah)
 Ich bin in einem G5 (yeah), komme zu der A-Seite (yeah)

@@ -121,7 +121,7 @@ From the left to the right, make noise
 Here we go now, come on
 Uh uh what what
 
-Na na na na... Na na na na...
+Na na na na... Na na na na
 
 Things are goin' great
 Then to my surprise

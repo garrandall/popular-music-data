@@ -136,7 +136,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-11-12'
 ---
-Say hey! Cha...
+Say hey! Cha
 
 
 Hear the sound of the falling rain

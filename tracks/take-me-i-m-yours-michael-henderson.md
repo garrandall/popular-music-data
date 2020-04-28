@@ -38,7 +38,7 @@ Every night a different kiss?
 No, until I met you
 
 
-Take me  (I'm yours)
+Take me (I'm yours)
 (Take me)
 
 

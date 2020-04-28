@@ -178,7 +178,7 @@ I wanna wish it right back like Presto, yes
 Meantime, I wait for the next time
 She come around for a toast to the best time
 We LOL back and forth on the text line
-She got me fishin' for her love, I confess I'm...
+She got me fishin' for her love, I confess I'm
 Something 'bout her smile and the convo
 Got me high and I ain't comin' down, yo
 My heart's pumpin' out louder than electro

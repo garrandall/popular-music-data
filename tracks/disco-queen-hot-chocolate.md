@@ -70,7 +70,7 @@ The disco queen's aware she causes a sensation
 Cause every head in the place to stop and stare
 
 Yeah, yeah music is her lover - disco queen, disco queen
-Music turns her on and on - an' on an' on
+Music turns her on and on - and on and on
 Music is her lover
 Music turns her on and on
 

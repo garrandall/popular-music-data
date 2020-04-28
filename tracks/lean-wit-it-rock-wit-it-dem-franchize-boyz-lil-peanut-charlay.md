@@ -120,11 +120,11 @@ Lean wit it, rock wit it,
 Lean wit it, rock wit it!
 
 I bounce in the club so the ho's call me Rocky,
-Posted in the cut, and im lookin for a blockhead,
+Posted in the cut, and I'm lookin for a blockhead,
 Yup in my white tee! I break a bitch back,
 And I keep a big bank, oh I think dey like dat!
-Before I leave the house, im slizzard on a goose,
-And im higher then a plane, so a nigga really loose,
+Before I leave the house, I'm slizzard on a goose,
+And I'm higher then a plane, so a nigga really loose,
 And I can lean wit it, and I can rock wit it,
 And if u gotta friend, she gotta suck a cock wit it!
 
@@ -166,7 +166,7 @@ The Squad, Baker Road, and Franchize on some otha shit,
 Left witcha bitch, wit an ounce, and a stiff dick,
 Didn't have to say much, 'cause she seem obliged,
 Walked off the club, got on the phone, called her gurl for menage,
-Wat im all up to, shit lets see how it turned out,
+Wat I'm all up to, shit lets see how it turned out,
 Gotta crack-headed broad, now we headed to my house,
 Ay u wit that G shit right?
 'Cause I done leaned, I done rocked all muhfuckin night!

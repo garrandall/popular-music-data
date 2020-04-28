@@ -61,5 +61,5 @@ rankings:
   start_date: '1960-05-09'
 ---
 Pd... ®1960; Us Ht#25 ...Pd
-Pd...  ...Pd
+Pd... ...Pd
 ...Pd...

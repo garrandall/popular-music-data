@@ -33,8 +33,6 @@ Comedy 2000 baby
 Iconz, street money, yall ready?
 C'mon...
 
-(Chorus:)
-
 If you smoke weed now
 In this bitch hit you all wit a clown
 Got a drink that you can't put down?
@@ -45,7 +43,7 @@ Get crunked up, (get crunked up)
 Get crunked up, (get crunked up)
 
 Nigga who? look at all the shit we do
-Comedy bless nigga with tracks im finecing the raps
+Comedy bless nigga with tracks I'm finecing the raps
 You got a hundred dolla better
 Must confess in chaps
 Some labels spend a fuckin mill
@@ -55,7 +53,7 @@ We prefer to ball then get bomb head from hoers
 You know it's, all nigga when my click poll licka
 Nigga shining too, make that ice look bigga
 Out of Detroit? out here bangin my nuts
-Perfect cut sumplying shise shit im just too much
+Perfect cut sumplying shise shit I'm just too much
 Niggas hand will feel the rush when they turn me up
 Bitches pussy will bust a nut when my clique come up
 Iconz
@@ -63,8 +61,6 @@ Playa we supposed 2 shine
 Nigga fuck X and Co we gon blow your mine
 We got some shit for that ass if you step out of line
 The way comedy take control, yall gon fall behind
-
-(Chorus:)
 
 Yo get crunked up, stay crunked up
 Roll to the club in a navigator truck
@@ -80,7 +76,6 @@ Yall better know we aint fucking around
 Iconz super star like what...
 Everybody better get fucked up
 
-(Chorus:)
 Get crunked up (get crunked up)
 Get crunked up (get crunked up)
 Get crunked up (get crunked up)
@@ -111,7 +106,6 @@ See that's the difference between yalls and ours
 Yall baby stretch ours from here to tomorrow (uh)
 From here to tomorrow (yall feel free to love that there)
 
-(Chrous:)
 Get crunked up (get crunked up)
 Get crunked up (get crunked up)
 Get crunked up (get crunked up)

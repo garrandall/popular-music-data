@@ -73,80 +73,72 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-05-19'
 ---
-Lumidee:
-Listen baby i've been around
+Listen baby I've been around
 I know that you like how I wear my crown
-And I know that im something that is so profound
-So far what im hearing look I like the sound
-Everybodys talking about it
-We would be talkin why would you doubt it
-Your palms are sweaty n your heart sounds poundin
+And I know that I'm something that is so profound
+So far what I'm hearing look I like the sound
+Everybody's talking about it
+We would be talkin' why would you doubt it
+Your palms are sweaty and your heart sounds poundin'
 This is what you feeling tell me about it
 
-Tony Sunshine:
 She's like the wind
-Thru my tree
+Through my tree
 She ride all night... next to me
 Like you won't believe... no...
 She leaves me the moonlight
 Only to burn me with the sun
-Dam it I believe she knows
+Damn it I believe she knows
 She taking my heart
-She doesnt know what shes done...baby please
-I feel her breathe in my face(baby I can feel)
+She doesn't know what she's done... baby please
+I feel her breathe in my face (baby I can feel)
 Her body's close to me
 Can't look in her eyes
-Shes out of my league(shes out of my league oh)
+She's out of my league (she's out of my league oh)
 Just a fool to believe she got everything I need
-Shes like the wind
+She's like the wind
 
-Lumidee:
 If you can't conceive it muffin
-Cuz you just let it be itz nothin
+Cuz you just let it be it's nothin'
 Look we just hangin around
 Sneaking a look
-When I can jus put you down
+When I can just put you down
 
-Tony Sunshine:
 Girl I look in the mirror
 And all I see
 Is a young old man with only a dream
-Am I just foolin myself yea
-Thinkin she'll stop the pain(Yes she will, yes she will)
-Livin without her... i'd go insane
+Am I just foolin' myself yeah
+Thinkin' she'll stop the pain (Yes she will, yes she will)
+Livin' without her... I'd go insane
 Dam it I believe she knows
 Her body's close to me
 Can't look in her eyes
-Shes out of my league(shes out of my league oh)
+She's out of my league (she's out of my league oh)
 Just a fool to believe she got everything I need
-Shes like the wind
+She's like the wind
 
-Lumidee:
-Look im right here
-Cmon toughin up
+Look I'm right here
+C'mon toughin up
 Boo get it together and just try your luck
-Ever since I heard you got this lil crush i
+Ever since I heard you got this lil crush I
 Pass your way and its givin me a rush
-So I peeped your style yes im inpressed
+So I peeped your style yes I'm inpressed
 Always with the best put em other doods to the rest
 So you ain't go to stress I got what you need
 I could ease your pain and fulfil all your dreams
 
-Tony Sunshine:
 Just a fool to believe she got everything I need
 I feel her breathe in my face
 Her body's close to me
 Can't look in her eyes
 Shes out of my league
 Just a fool to believe she got everything I need
-Shes like the wind
+She's like the wind
 
-Lumidee:
 If you can't conceive it muffin
-Cuz you just let it be itz nothin
-Look we just hangin around
+Cuz you just let it be it's nothin
+Look we just hangin' around
 Sneaking a look
-When I can jus put you down(x2)
+When I can just put you down
 
-Tony Sunshine(end):
-Shes like the wind...
+She's like the wind

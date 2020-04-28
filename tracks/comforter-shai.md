@@ -110,7 +110,7 @@ I'm listening.
 
 Lay down.
 And tell me what's on your mind.
-What exactly did he do?  To make you cry this time?
+What exactly did he do? To make you cry this time?
 Well, I will be your comforter. I will make it right
 He cast a shadow on your heart. And I will bring back your light
 Come in...
@@ -150,7 +150,7 @@ I will comfort comfort comfort you.
 I will I will comfort you.
 
 Lay down. Please tell me, baby.
-And tell me what's on your mind  Tell me what's on your mind
+And tell me what's on your mind Tell me what's on your mind
 What exactly did he do? To make you cry this time
 Well, I'll be your comforter. I will make it alright
 He cast a shadow on your heart. And I will bring back your light

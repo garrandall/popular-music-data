@@ -37,27 +37,27 @@ rankings:
   start_date: '1967-01-21'
 ---
 
-We never walk 
-We never talk 
+We never walk
+We never talk
 We never find the time To be close again
 There it goes again
 Communication breakdown
 Communication breakdown
 
 Too much concern for money to burn
-Too many things to do Now you don't need me 
+Too many things to do Now you don't need me
 And I don't need you
 Communication breakdown
 Communication breakdown
 
-One by one  They fail Now the leaves our lover
+One by one They fail Now the leaves our lover
 Cling to the ground
 Communication breakdown
 Communication breakdown
 
-Too much too soon  Too much temptation
+Too much too soon Too much temptation
 In a hurry It's a sad situation
-Too much worry I can tell  Well it's over now
+Too much worry I can tell Well it's over now
 Communication breakdown
 Communication breakdown
 

@@ -51,7 +51,7 @@ She won't make mistakes
 If she knows she'll regret them
 A woman'll stick by ya
 Through thick and thin
-And a  woman like this
+And a woman like this
 I know I got to win
 
 

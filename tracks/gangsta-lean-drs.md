@@ -162,7 +162,7 @@ And also my boys in the pen
 That ain't ever gonna see the street again
 Cause you know what?
 It don't matter what they was doing while they was here
-They couldve been bangin', slangin'
+They could've been bangin', slangin'
 But they ain't here no more
 And thats somebody's daddy
 Somebody's baby, that's somebody's homie

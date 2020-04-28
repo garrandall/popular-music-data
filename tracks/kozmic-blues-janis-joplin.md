@@ -116,7 +116,7 @@ Whoa,
 Whoa,
 Whoa,
 Whoa,
-Whoa ...
+Whoa
 
 
 

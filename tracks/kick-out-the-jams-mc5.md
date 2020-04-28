@@ -24,8 +24,8 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-04-05'
 ---
-And right now...
-Right now...
+And right now
+Right now
 Right now, it's time to...
 Kick out the jams, motherfuckers!
 Yeah! I, I, I, I, I'm gonna

@@ -37,7 +37,6 @@ But I don't get no lovin' and that's no lie
 We spent the night in Frisco at every kinda disco
 From that night I kissed our love goodbye
 
- (x2)
 Don't blame it on the sunshine
 Don't blame it on the moonlight
 Don't blame it on the good times
@@ -51,7 +50,6 @@ I've changed my life completely
 I've seen the lightning leave me
 And my baby just can't take her eyes off me
 
- (x2)
 Don't blame it on the sunshine
 Don't blame it on the moonlight
 Don't blame it on the good times
@@ -67,7 +65,6 @@ I just can't control my feet
 I just can't, I just can't (Yeah)
 I just can't (Woo) control my feet
 
- (x2)
 Don't blame it on the sunshine
 Don't blame it on the moonlight
 Don't blame it on the good times
@@ -81,12 +78,10 @@ I'm full of funky fever
 A fire burns inside me
 Boogie's got me in a super trance
 
- (x2)
 Don't blame it on the sunshine
 Don't blame it on the moonlight
 Don't blame it on the good times
 Blame it on the boogie
-
 
 Ow (Sunshine)
 Oh (Moonlight)

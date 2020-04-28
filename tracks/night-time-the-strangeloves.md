@@ -76,7 +76,7 @@ Come here baby
 St a little bit closer
 Rn your radio up so you can hear what I say
 Www now ya got me turned on baby
-Ha ha ha ha ha ha...
+Ha ha ha ha ha ha
 
 A hundred million people
 With nothin to say

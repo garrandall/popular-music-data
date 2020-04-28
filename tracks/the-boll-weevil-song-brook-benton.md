@@ -100,7 +100,7 @@ You can't even buy gasoline."
 
 And the boll weevil said to the farmer, said
 "Farmer, I'd like to wish you well."
-Farmer said to the boll weevil, "Yeah, an' I wish that you were in shit"
+Farmer said to the boll weevil, "Yeah, and I wish that you were in shit"
 (Lookin' for a home, lookin' for a home)
 (Ah, you have a home all right, you have a home)
 (A real hot home, ah)

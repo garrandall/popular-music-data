@@ -202,7 +202,7 @@ And I'll tell you, baby, it was easy
 Comin' back here to you once I figured it out
 You were right here all along
 It's like you're my mirror (Oh)
-My mirror staring back at me  (Oh)
+My mirror staring back at me (Oh)
 I couldn't get any bigger (Oh)
 With anyone else beside me (Oh)
 And now it's clear as this promise

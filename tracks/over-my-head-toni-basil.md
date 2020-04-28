@@ -35,13 +35,13 @@ rankings:
 
 You better look out cause
 Suspicious eyes are watching
-Don't let them see us 
+Don't let them see us
 
 I know that you and I
 Should not be seen here talking
 I kinda like the razor's edge
 
-I always 
+I always
 You like to walk a tight rope
 I work my show without a net
 It never fails, I dive
@@ -58,7 +58,7 @@ I'll take a chance
 
 Risking exposure
 Every time I come to meet you
-I'm  lady luck again
+I'm lady luck again
 
 Oh, oh, over my head, oh, oh
 Oh, oh, over my head, oh, oh

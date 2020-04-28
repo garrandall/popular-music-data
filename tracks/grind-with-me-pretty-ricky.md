@@ -153,10 +153,10 @@ Staring in your eyes
 Bout to lick them thighs
 Got cha hypnotized
 Do you feel the vibe?
-(Step 1)  ya kissisng on me
-(Step 2)  girl I'm caressing your body
-(Step 3)  now I'm licking off the whip cream
-(Step 4)  and ohou're grinding on me
+(Step 1) ya kissisng on me
+(Step 2) girl I'm caressing your body
+(Step 3) now I'm licking off the whip cream
+(Step 4) and ohou're grinding on me
 
 
 Baby, grind on me, relax your mind, take your time on me

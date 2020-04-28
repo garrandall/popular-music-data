@@ -159,9 +159,9 @@ Let Rob bring back the boom spot
 
 There is a dance over there, and dance over here
 Everybody combine in a fabulous wear
-There is swingin' an' winin', champagne an' dinin'
+There is swingin' and winin', champagne and dinin'
 Preety people screamin' and jostlin'
-See an' see man a girl man chillin'
+See and see man a girl man chillin'
 Let's get funky, all right to the rythm
 All through da job sites is see Job skatin'
 Ladies lend your bodies, don't slow non stoppin'

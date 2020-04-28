@@ -201,7 +201,7 @@ There's no respect at all
 You betta check her dawg
 She keep beggin' me to hit it raw
 So she can have my kids and say it was yours
-How foul is she?  And you wifed her
+How foul is she? And you wifed her
 Shit, I put the rubber on tighter
 Sent her home, when she entered home
 You hugged her up

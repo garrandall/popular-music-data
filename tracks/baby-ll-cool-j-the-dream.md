@@ -82,7 +82,7 @@ While mama play bingo, she ride mandingo
 She don't give a damn if I'm married or single
 She makes me tingle
 
-Shawty im your baby, I'm your baby, I'm your baby, I'm your baby
+Shawty I'm your baby, I'm your baby, I'm your baby, I'm your baby
 I'm your baby, your baby, your baby, your baby
 I'm your baby, your baby, your baby, your baby
 I'm your baby, your baby
@@ -109,7 +109,7 @@ I'm your baby, your baby, your baby, your baby
 I'm your baby, your baby, your baby, your baby
 I'm your baby, your baby
 
-(Cuz im your baby)
+(Cuz I'm your baby)
 You need somethin' like me? (Good luck)
 Cuz he ain't nothin' like me (no)
 You can search but you never gone find
@@ -118,7 +118,7 @@ Need a man that can love you good
 And treat you like he should
 With me shawty you the shit
 He might be good but he ain't like this
-Cuz im your baby
+Cuz I'm your baby
 
 In the back of the pickup, clothes the rip up
 She see my chrome wheels, it gets more real
@@ -126,7 +126,7 @@ Running and laughing, music blasting
 Side over the road, bent over crashing
 Mouth all dry, can feel the urge
 If you see my mama, don't say a word
-The cops wanna know im a word are slurred
+The cops wanna know I'm a word are slurred
 Don't ask me officer ask her
 Wanna another drink baby she like sure
 Wanna hit the club she like I don't curr

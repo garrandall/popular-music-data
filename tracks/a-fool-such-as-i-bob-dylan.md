@@ -39,7 +39,7 @@ rankings:
 
 Now and then there's a fool such as I
 Pardon me if I'm sentimental, came to say goodbye
-Don't be angry, don't be angry with me, should  I cry
+Don't be angry, don't be angry with me, should I cry
 When you are gone, I will dream a little dream as years go by
 Now and then there is a fool, a fool such as I.
 
@@ -49,8 +49,8 @@ I am a fool but I love you, dear, yes I will until the day I die.
 Now and then there is a fool, a fool such as I.
 
 Pardon me if I'm sentimental, came to say goodbye
-Don't be angry, don't be angry with me, should  I cry
-When you are gone, when you are gone, I will dream a little 
+Don't be angry, don't be angry with me, should I cry
+When you are gone, when you are gone, I will dream a little
 I will dream as years go by
 Now and then, now and then there is a fool, a fool such as I.
 

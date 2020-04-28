@@ -105,7 +105,7 @@ Feel like I was slipping away
 And you know that I ain't gonna go, ain't gonna go nowhere, nowhere
 Cause some of these things never change, no, no
 I know that you know, that you know, you know that's it's true
-There's a lot on my mind and you bother the times that I  with you
+There's a lot on my mind and you bother the times that I with you
 But we keep it way more way more than, way more than 100, we keep it 110
 Show me what I gotta do
 
@@ -137,10 +137,10 @@ Yeah, you don't want to start with me
 But you should, keep shaking that in front of me
 She gotta be with the squad for me
 You know, you know you gon' get comfortable
-On the  rug with me
+On the rug with me
 And fuck with me
 So if you really fuck with me
-Cause I can see that you're with  I know your snapchat
+Cause I can see that you're with I know your snapchat
 Let's see these legs down
 And it makes so much sense now (I need you to cum)
 Girl it makes so much sense now (told you to leave)

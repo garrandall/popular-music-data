@@ -21,16 +21,20 @@ rankings:
   start_date: '1996-09-28'
 ---
 Ho, Ho, Ho
-(I know I ain't hear somebody say
-Nuthin about hoes up in here, sshhh, ohlord)
+I know I ain't hear somebody say
+Nuthin about hoes up in here, sshhh, oh lord
 
-What's up Dallas, what's up (x2)
+What's up Dallas, what's up
+What's up Dallas, what's up
 Dallas jump on it, jump on it, jump on it
-What's up San Antone, what's up (x2)
+What's up San Antone, what's up
+What's up San Antone, what's up
 San Antonio jump on it, jump on it, jump on it
-What's up Austin, what's up (x2)
+What's up Austin, what's up
+What's up Austin, what's up
 Austin jump on it, jump on it, jump on it
-What's up Houston, what's up (x2)
+What's up Houston, what's up
+What's up Houston, what's up
 Houston jump on it, jump on it, jump on it (Ohlord)
 
 Welcome to the 2 1 4
@@ -55,14 +59,18 @@ And I spot two bad ass girls in a tercel
 They said what's up? And I said whassup? (We're going to Houston)
 And I said giddy up, U-turn
 
-What's up Phoenix, what's up (x2)
+What's up Phoenix, what's up
+What's up Phoenix, what's up
 Phoenix jump on it, jump on it, jump on it
-What's up Cali, what's up (x2)
+What's up Cali, what's up
+What's up Cali, what's up
 California jump on it, jump on it, jump on it
-What's up Vegas, what's up (x2)
+What's up Vegas, what's up
+What's up Vegas, what's up
 Las Vegas jump on it, jump on it, jump on it
-What's up Sea-town, what's up (x2)
-Seattle jump on it, jump on it, jump on it (Ohlord)
+What's up Sea-town, what's up
+What's up Sea-town, what's up
+Seattle jump on it, jump on it, jump on it (Oh lord)
 
 Welcome to the 6 0 2
 It's a 105 in the shade
@@ -82,16 +90,20 @@ Las Vegas na vi dad, I love it
 Back to the 2 0 6
 Double up my grits
 And Sea-town giving po po fits
-Chasing the skirts like a playa supposed ta
-348 roasta HIT IT! (ho, ho, ho... ohLord)
+Chasing the skirts like a playa supposed to
+348 roasta HIT IT! (ho, ho, ho... oh lord)
 
-What's up Atlanta, what's up (x2)
+What's up Atlanta, what's up
+What's up Atlanta, what's up
 Atlanta jump on it, jump on it, jump on it
-What's up Orlando, what's up (x2)
+What's up Orlando, what's up
+What's up Orlando, what's up
 Orlando jump on it, jump on it, jump on it
-What's up Miami, what's up (x2)
+What's up Miami, what's up
+What's up Miami, what's up
 Miami jump on it, jump on it, jump on it
-What's up Tampa, what's up (x2)
+What's up Tampa, what's up
+What's up Tampa, what's up
 Tampa jump on it, jump on it, jump on it
 
 Coming thru the 4 0 4
@@ -113,21 +125,27 @@ She got me polished like chrome
 Sitting on a throne
 I'm wore out know, I'm going home (Ohlord)
 
-What's up K.C., what's up (x2)
+What's up K.C., what's up
+What's up K.C., what's up
 Kansas City jump on it, jump on it, jump on it
 What's up Cleveland, what's up
 What's up Cincinnati, what's up
 Columbus jump on it, jump on it, jump on it
-What's up Little Rock, what's up (x2)
+What's up Little Rock, what's up
+What's up Little Rock, what's up
 Little Rock jump on it, jump on it, jump on it
-What's up Denver, what's up (x2)
+What's up Denver, what's up
+What's up Denver, what's up
 Denver jump on it, jump on it, jump on it (Ohlord)
-What's up Chicago, what's up (x2)
+What's up Chicago, what's up
+t's up Chicago, what's up
 Chicago jump on it, jump on it, jump on it
-What's up Portland, what's up (x2)
+What's up Portland, what's up
+What's up Portland, what's up
 Portland jump on it, jump on it, jump on it
 What's up St. Louie, what's up
 What's up East Side, what's up
 St. Louis jump on it, jump on it, jump on it
-What's up Tacoma, what's up (x2)
+What's up Tacoma, what's up
+What's up Tacoma, what's up
 Tacoma jump on it, jump on it, jump on it

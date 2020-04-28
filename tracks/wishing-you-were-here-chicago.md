@@ -89,7 +89,7 @@ But I've got my job to do, and I do it well
 So I guess that's how it is
 
 Ooo oo oo, wishing you were here
-Ooo oo oo, wishing you were here ...
+Ooo oo oo, wishing you were here
 
 On the road it's a heavy load, but I'll be by
 Ooo oo oo, wishing you were here

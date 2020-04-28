@@ -58,7 +58,7 @@ It's my thing, I'm gon' do what I wanna do! Hey!
 It's hanging, now let it dry...
 The more I grease you, the smaller you get... Hey, hey! Uh!
 (Bold soul sister...)
-Things and stuff and stuff and things an' an' things... Hoo! Alright!
+Things and stuff and stuff and things and an' things... Hoo! Alright!
 
 (Do what you wanna, when you wanna, how you wanna, now - do your thing, soul sister...)
 Alright now!

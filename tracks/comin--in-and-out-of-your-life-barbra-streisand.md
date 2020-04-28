@@ -87,7 +87,7 @@ The last time I lied
 I was holding you and telling you
 We could still be friends
 Tried to1et you go
-But I can't, you  know
+But I can't, you know
 And even though I'm not with you
 I need you so
 But you don't belong to me

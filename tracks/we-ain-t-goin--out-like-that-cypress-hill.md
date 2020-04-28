@@ -137,6 +137,6 @@ We ain't goin' out like that
 We ain't goin' out like that
 
 "Yeah takin' your disses and dissin' ya right back. This is the Cypress
-Hill crew, like main shit. Yo an' I'm talk this damn rappa, eat a bowl a
+Hill crew, like main shit. Yo and I'm talk this damn rappa, eat a bowl a
 Dick up. There ya go my man over here, you can eat a bowl o' dick up too.
 Anybody else need from runnin' away: yo, eat a bowl of dick up G!"

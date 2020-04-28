@@ -51,7 +51,7 @@ I just need you now
 Whoa
 
 
-Whoa...
+Whoa
 
 
 Guess I'd rather hurt than feel nothing at all

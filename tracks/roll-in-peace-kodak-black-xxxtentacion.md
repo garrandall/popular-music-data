@@ -130,18 +130,18 @@ With a Cuban to match
 Back when they call me young nene the kid
 Back I use to put on the throwback
 Back when I use to just play the backcourt
-Back when  I use to wear the jansport
-I don't  got books in there
+Back when I use to wear the jansport
+I don't got books in there
 Just the rhyme book I swear
 Pull up to the show
-And queens  and Brooklyn here
+And queens and Brooklyn here
 Yeah you know it
 Baby I'm a poet
 Playa playa
 And I play heroic
 I ain't saving hoes
 Screaming fuck the labels
-As I walk in  label door
+As I walk in label door
 I'm a labor man
 I'm a work horse
 Even when I stay at home
@@ -155,7 +155,7 @@ With a six pack
 With the beer belly
 And the shirt off
 Hit with the stunner
-Man I just had the worse  summer
+Man I just had the worse summer
 So I'm kicking doors
 And breaking numbers
 Kicking like the baby

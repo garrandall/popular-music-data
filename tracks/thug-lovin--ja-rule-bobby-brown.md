@@ -112,7 +112,7 @@ Generally believing that all women want me
 They don't wanna get even (girl, I know)
 But who do you believe in
 Is it money or God?
-Betrayal, trust, this thing of ours  (GIRL!)
+Betrayal, trust, this thing of ours (GIRL!)
 Should be secretly held sacred, 'cause I love it when you pop your body-body
 And move your body-body
 Drink up on the Bacardi and rub up alongside me

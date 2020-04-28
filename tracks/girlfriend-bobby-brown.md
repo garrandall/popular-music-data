@@ -48,7 +48,7 @@ rankings:
 I remember the very first time
 You the picture of love in my heart
 You and me, girl, holding hands
-Please be my lady, won't you understand 
+Please be my lady, won't you understand
 (I need a girlfriend) I need a girlfriend
 And I need her right now
 Loving, kissing, holding you tight
@@ -111,7 +111,7 @@ La-la-la-la-la-la-la, woo
 (I need a girlfriend)
 La-la-la-la-la-la-la
 (I need a girlfriend)
-I...
+I
 (I need a girlfriend)
 La-la-la-la-la-la-la
 (I need a girlfriend)

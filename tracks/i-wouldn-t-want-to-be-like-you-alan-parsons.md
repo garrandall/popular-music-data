@@ -83,7 +83,7 @@ I'd cover anything that showed
 
 I don't care
 What you do
-I wouldn't wanna...
+I wouldn't wanna
 
 I wouldn't want to be like you
 I wouldn't want to be like you

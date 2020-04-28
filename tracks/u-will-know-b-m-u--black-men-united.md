@@ -88,7 +88,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-02-18'
 ---
-Mmm... hm... hm... mmm... hm...
+Mmm... hm... hm... mmm... hm
 Yeah, yeah
 
 When I was a young boy

@@ -118,8 +118,8 @@ Watch me, you can catch it live on the Hitachi
 Poppin shit like a Nazi, iced out like DeBiase
 Fuck that, Liberace
 Fo'-X Versace, somebody stop me!
-Never that, SKEE-YU!  Where my niggas at?
-Uptown! Uptown!  You know you feelin that
+Never that, SKEE-YU! Where my niggas at?
+Uptown! Uptown! You know you feelin that
 "Cash Rule," hardcore you can dance to
 That old Biggie give me, "Onnne More Chaaaaance.."
 Take a glance and I'm off with yours

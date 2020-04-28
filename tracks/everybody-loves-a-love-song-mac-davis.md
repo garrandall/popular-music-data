@@ -48,7 +48,7 @@ Cause everybody loves a love song
 Baby, I love you (baby, I love you)
 You know I do
 
-Na na na na...
+Na na na na
 
 Baby, brush your lips against me
 And whisper soft and low

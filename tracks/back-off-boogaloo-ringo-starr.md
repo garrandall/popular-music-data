@@ -56,7 +56,7 @@ I said, back off boogaloo,
 I said, back off boogaloo, boo.
 
 Back of boogaloo,
-What d'yer think i'm gonna do?
+What d'yer think I'm gonna do?
 I got a flash right from the start.
 
 Wake up, meat head,
@@ -85,7 +85,7 @@ Ev'rything you try to do,
 You know it sure sounds wasted.
 
 Back off boogaloo,
-What d'yer think i'm gonna do?
+What d'yer think I'm gonna do?
 I got a flash right from the start.
 
 Back off boogaloo,

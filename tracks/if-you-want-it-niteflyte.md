@@ -74,7 +74,7 @@ If I want you to be part of my life
 I gotta this way starting today
 If you want it (Oh, if you want it, baby) you can get it
 With your love (Say wit' your love, yeah)
-If you want it  you can get it
+If you want it you can get it
 With your love
 No matter how much time it takes you
 To feel my love
@@ -92,8 +92,8 @@ If you want it (If you want it you can have it) you can get it (You can get it)
 With your love (Oh... Whoa... Ho... Ho... Ho...)
 If you want it (Just take your time, baby) you can get it
 With your love (With your love I say hey, hey)
-If you want it  you can get it (Oh)
-With your love (With your love)  (Say with your love)
+If you want it you can get it (Oh)
+With your love (With your love) (Say with your love)
 If you want it (Oh, whoa) you can get it
 With your love
 If you want it you can get it

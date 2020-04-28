@@ -61,7 +61,7 @@ Did you know that
 
 
 Now i'ma fuck around and make a b-boy mad in a minute
-Shit, i'm so nice niggas think i'm freakin senate
+Shit, I'm so nice niggas think I'm freakin senate
 Status - I rank top-notch, come on now
 I've seen less mess in my restroom
 Plop on up and fetch a fierce self-check
@@ -73,15 +73,15 @@ I blast, punk, that ass fast
 Feel the funk, savor 'fore you face defeat
 My backbone of stone totes treats to beats
 Now come on
-Adapt to my taps, i'm two snaps
-I'm too through, oh, i'm too through
+Adapt to my taps, I'm two snaps
+I'm too through, oh, I'm too through
 I kicks butt, strut as I gluts for fame
 And goes 'can't nobody hold me'
 
 
 I'm the abyss, ready to determine your lifeline
 You falls too short, so I be tall in your acetone
-Death died so i'm here to stake my claim
+Death died so I'm here to stake my claim
 Bang-bang, boogie-boogie, my style's a gang
 Give it up, I funk it up, chick, I spits hits
 Look back, you ain't stacked, get to face this

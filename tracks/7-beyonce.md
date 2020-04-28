@@ -90,7 +90,7 @@ rankings:
 ---
 Shoulders sideways, smack it, smack it in the air
 Legs movin' side to side, smack it in the air
-Legs movin' side to side, smack you  in the air
+Legs movin' side to side, smack you in the air
 Shoulders sideways, smack it, smack it in the air
 Smack it, smack it in the air, legs movin' side to side
 Smack it, smack it in the air; smack it, smack it in the air
@@ -136,7 +136,7 @@ Man I know I kick it with ya, yeah I spin around and I kick it with ya
 
 Shoulders sideways, smack it, smack it in the air
 Legs movin' side to side, smack it in the air
-Legs movin' side to side, smack you  in the air
+Legs movin' side to side, smack you in the air
 Shoulders sideways, smack it, smack it in the air
 Smack it, smack it in the air, legs movin' side to side
 Smack it, smack it in the air; smack it, smack it in the air

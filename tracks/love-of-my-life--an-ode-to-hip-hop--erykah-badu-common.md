@@ -187,7 +187,7 @@ On you I can depend, yeah, yeah
 Love of my life
 Without you, baby
 It feels like I sampled true love
-But the shit didn’t clear
+But the shit didn 't clear
 
 
 Y'all know how I met her
@@ -199,7 +199,7 @@ She needed cheddar and I understood that
 Looking for cheese, that don't make her a hoodrat
 In fact she's a queen to me, her light beams on me
 I love it when she sings to me
-It's like that and a...
+It's like that and a
 
 
 Love of my life

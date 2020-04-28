@@ -27,7 +27,7 @@ One face that lights when it nears you
 One girl you're everything to!
 
 Fame, if you win it
-Comes an' goes in a minute
+Comes and goes in a minute
 Where's the 'real-stuff' in life to cling to?
 Love, is the answer
 Someone to love, is the answer
@@ -38,7 +38,7 @@ Make just one, someone happy
 And you will be happy too!
 
 Fame, if you win it
-Comes an' goes in a minute . .
+Comes and goes in a minute . .
 
 Where's the 'real-stuff' in life to cling to?
 Love, is the answer

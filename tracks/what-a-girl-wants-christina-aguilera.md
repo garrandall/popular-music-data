@@ -158,8 +158,8 @@ What a girl wants (you're so right)
 What a girl needs (you're so right)
 You let a girl know how much you
 Care about her, I swear
-You're the one who always knew...
-You knew, you knew, you knew, you knew...
+You're the one who always knew
+You knew, you knew, you knew, you knew
 
 Oh, I'm thanking you for being there for me.
 What a girl wants, what a girl needs

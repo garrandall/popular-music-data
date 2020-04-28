@@ -49,7 +49,7 @@ Turning and turning
 The world goes on
 We can't change it, my friend
 Let us go riding now through the days
-Together to the end 
+Together to the end
 To the end
 
 Les bicyclettes de Belsize
@@ -75,7 +75,7 @@ And hand in hand we will ride
 Over Belsize
 Turn your magical eyes
 Round and around
-Lookin' at all we've  found
+Lookin' at all we've found
 Carry us through the skies
 Les bicyclettes de Belsize
 

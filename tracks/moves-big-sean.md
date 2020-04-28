@@ -163,6 +163,6 @@ I make the city move (yeah I do)
 
 Look, I'm a Don, I'm a Don, I'm a Don (Don)
 I gave my whole family jobs and I take care of my Mom
-Me and my girl been through so much, that's my partner in crime  (808 Mafia!)
+Me and my girl been through so much, that's my partner in crime (808 Mafia!)
 Touch any of the above, now you harder to find
 Gone

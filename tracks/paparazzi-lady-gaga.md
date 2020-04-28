@@ -126,7 +126,7 @@ Garage glamorous
 Not sure what it means
 But this photo of us, it don't have a price
 Ready for those flashing lights
-'Cause you know that, baby, I...
+'Cause you know that, baby, I
 
 
 I'm your biggest fan
@@ -151,7 +151,7 @@ My lashes are dry
 Purple teardrops, I cry
 It don't have a price
 Loving you is cherry pie
-'Cause you know that, baby, I...
+'Cause you know that, baby, I
 
 
 I'm your biggest fan

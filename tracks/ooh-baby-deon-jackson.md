@@ -3,7 +3,7 @@ artists:
 - Deon Jackson
 features: []
 genres: []
-key: ohbaby-deon-jackson
+key: oh baby-deon-jackson
 name: Oh Baby
 rankings:
 - end_date: '1967-11-24'

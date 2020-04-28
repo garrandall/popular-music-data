@@ -85,7 +85,7 @@ It just wouldn't feel the same
 Without you, I'd be lost
 I'd slip down from the top
 I'd slide down so low
-Girl you'd never, never know...
+Girl you'd never, never know
 
 Without you, without you
 A sailor lost at sea

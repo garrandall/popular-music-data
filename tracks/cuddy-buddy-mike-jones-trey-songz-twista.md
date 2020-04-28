@@ -154,7 +154,7 @@ Cuz I'm your cuddy buddy
 C-c-c-cuddy buddy
 Soon as he fell asleep
 She on her way to love me
-Cuz i'm your cuddy buddy
+Cuz I'm your cuddy buddy
 C-c-c-cuddy buddy
 Soon as he fall asleep
 She on her way to love me

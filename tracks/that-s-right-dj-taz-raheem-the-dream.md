@@ -95,7 +95,7 @@ That's right (That's right)
 That's ri-i-ight
 Party people on the floor (Uh, come on)
 All we do, is give them more
-That's right  (That's right)
+That's right (That's right)
 That's ri-i-ight
 Party people (Uh)
 On the floor , come on)
@@ -106,7 +106,7 @@ That's right
 Make hits is all I do
 Well, how bout you?
 Lay it down for the decision
-Up sets is  all I vision
+Up sets is all I vision
 Got to make that money, honey
 It ain't funny, country
 Like Tom Sawyer
@@ -153,7 +153,7 @@ They ain't ready (Ready)
 From the A-T-L-A-N-T-A
 (Oh-Wee) Smokin' on hay
 From Texas to V-A (Uh)
-Detroit to G-A  (Ah)
+Detroit to G-A (Ah)
 I gotta get my flow, can I go
 Hit that ho at the show
 I got some freaky bitches

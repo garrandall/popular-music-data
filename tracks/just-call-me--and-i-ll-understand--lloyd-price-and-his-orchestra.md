@@ -63,4 +63,4 @@ I know, I know
 I'll understand
 Woah, woah, woah
 I'll understand
-Mmm, mmm, mmm...
+Mmm, mmm, mmm

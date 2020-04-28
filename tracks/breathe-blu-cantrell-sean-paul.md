@@ -102,17 +102,17 @@ Now you try and pull that got me acting shady
 
 
 You say you love, say you love me
-But you’re never there for me, yeah, mmm...hm...
-You’ll be crying, slowly dying
+But you’re never there for me, yeah, mmm...hm
+You 'll be crying, slowly dying
 When I decide to leave, oh, oh
 
 All we do is make up
 Then break up
-Why don’t we wake up
+Why don 't we wake up
 And see
 
 When love hurts
-It won’t work
+It won 't work
 Maybe we need some time alone
 We need to let it breathe
 
@@ -129,20 +129,20 @@ Why you try pull that got me acting crazy
 
 
 
-You’re only lonely when your homie
-Ain’t got a ride or no loot, yeah, uh-huh
+You 're only lonely when your homie
+Ain 't got a ride or no loot, yeah, uh-huh
 Then comes the drama
-Some other girl is claiming she’s going out with you
+Some other girl is claiming she 's going out with you
 
-Hm...hm...
+Hm...hm
 
 All we do is make up
 Then break up
-Why don’t we wake up
+Why don 't we wake up
 And see
 
 When love hurts
-It won’t work
+It won 't work
 Maybe we need some time alone
 We need to let it breathe
 
@@ -168,14 +168,14 @@ Me not unfair to you
 Who would u want
 For real you make me know and
 I will be there for you
-But me know i'm not a fear to you
+But me know I'm not a fear to you
 Stand up like a man and not be there cuz I care for you
 Long time telling you
 No other girl can compare to you
 Woman if you leave me now
 I'm gonna share a lot of tears for you
 Say you want to breathe
-I'm still not i'm exhaling
+I'm still not I'm exhaling
 Say you want to leave cuz this relationship failing
 Ain't nobody say that it would be smooth sailing
 Girl I wanna know why your bailing

@@ -144,4 +144,4 @@ Touch me now and let me see again
 Rock me now in your gentle healing hands
 
 
-Rock me now...
+Rock me now

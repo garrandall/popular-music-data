@@ -107,7 +107,7 @@ Those were the times when I knew you cared
 
 Oh girl, here I am dialing your number
 Sometimes I really don't know how you feel about me
-But i'm gonna let you know how I feel about you
+But I'm gonna let you know how I feel about you
 
 
 Time after time when we're together

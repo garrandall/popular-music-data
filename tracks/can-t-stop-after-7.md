@@ -114,7 +114,7 @@ Oh, last night, I made love for the very first time
 With you
 
 
-I never knew love could be so sweet, mmm...
+I never knew love could be so sweet, mmm
 It never made a difference to me, mmm, well well...
 But ever since the day that you appeared
 I'm telling you made the difference
@@ -139,7 +139,7 @@ You made my dream a reality
 Indeed
 
 
-I never thought love was meant for me, mmm...
+I never thought love was meant for me, mmm
 I was blind and could not see, mmm, well well
 You brought about a love that's so sincere
 And I'm telling you, you've made the difference

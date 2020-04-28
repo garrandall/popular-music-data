@@ -70,7 +70,7 @@ I bet you took the cutest bow!
 Yeah! You must a been a beautiful baby
 'cause baby won't you look at you now
 
-Oh yeah ... oh yeah ... oh yeah ...
+Oh yeah ... oh yeah ... oh yeah
 
 You must a have been a beautiful baby
 You must a have been a beautiful child
@@ -89,11 +89,11 @@ I know you made the cutest bow!
 Yeah! You must a been a beautiful baby
 ‘cause baby won't you look at you now
 Oh, I mean … I mean … oh, beautiful …
-Oh, beautiful ...
-Oh, beautiful ...
+Oh, beautiful
+Oh, beautiful
 
-Oh, beautiful ...
-Oh, beautiful ...
-Oh, beautiful ...
+Oh, beautiful
+Oh, beautiful
+Oh, beautiful
 
-Ah, I know you're beautiful … too beautiful for words ...
+Ah, I know you're beautiful … too beautiful for words

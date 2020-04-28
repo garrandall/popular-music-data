@@ -32,7 +32,7 @@ rankings:
 Okay
 
 I was fourteen, she was twelve
-Father travelled, hers as well, Europa...
+Father travelled, hers as well, Europa
 Down the beaches, hand in hand
 Twelfth of never on the sand
 Then war took her away
@@ -47,7 +47,7 @@ Ta rÃ©publique
 Europa
 
 Nine years after, who'd I see
-On the cover of a magazine? Europa...
+On the cover of a magazine? Europa
 Buy her singles and see all her films
 Paste her pictures on my windowsill
 But that's not quite the same - it isn't, is it?

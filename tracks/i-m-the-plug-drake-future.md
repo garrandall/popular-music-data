@@ -42,7 +42,7 @@ I got all these fucking whips and ain't got no payments
 Pink slips sitting in the dashboard with me
 Got a gang of broads riding and they on drugs with me
 Got a gang of cash on me like I brought the plug with me
-Niggas  looking for the plug, nigga, I'm the plug really
+Niggas looking for the plug, nigga, I'm the plug really
 
 
 Really I'm the plug, really I'm the plug
@@ -58,7 +58,7 @@ And I keep the check, Nike concord
 Pink slips sitting in the dashboard with me
 Got a gang of broads riding with me, on drugs with me
 Got a gang of cash on me like I brought the plug with me
-Niggas  looking for the plug, nigga, I'm the plug really
+Niggas looking for the plug, nigga, I'm the plug really
 
 
 Really I'm the plug, really I'm the plug

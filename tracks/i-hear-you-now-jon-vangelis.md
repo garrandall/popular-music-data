@@ -53,5 +53,5 @@ For what was then, is what is now, anyhow
 As I became a guest of love's tune, hear again
 We'll carry on together like today
 
-After the first embrace from you I...
+After the first embrace from you I
 After the first embrace from you I want you too

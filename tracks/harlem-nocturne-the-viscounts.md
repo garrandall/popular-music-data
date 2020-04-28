@@ -124,4 +124,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
 ---
-♫  ♫
+(Instrumental)

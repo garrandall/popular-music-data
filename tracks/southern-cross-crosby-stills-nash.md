@@ -76,7 +76,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-08'
 ---
-Oh ...
+Oh
 
 Got out of town on a boat goin' to Southern islands
 Sailing a reach before a followin' sea
@@ -119,7 +119,7 @@ Who knows love can endure
 And you know it will, and you know it will
 Yes
 
-Oh ...
+Oh
 
 So we cheated and we lied and we tested
 And we never failed to fail, it was the easiest thing to do

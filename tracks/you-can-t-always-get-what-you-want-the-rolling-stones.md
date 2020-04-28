@@ -62,7 +62,7 @@ You can't always get what you want
 You can't always get what you want
 You can't always get what you want
 But if you try sometimes
-Well, you  might find
+Well, you might find
 You get what you need
 
 

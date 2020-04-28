@@ -18,7 +18,7 @@ And everybody called her schoolteacher
 I
 Until I got a chance to meet her
 
-He said the mother  don't drink no whiskey
+He said the mother don't drink no whiskey
 He said the innocent thing don't drink no wine
 But since I married and brought her back to this great big city
 She come home tore up all the time

@@ -110,7 +110,7 @@ You can't take back every little chill you give me
 You're going down with me baby heart and all ohyeah
 
 
-Ohbaby I couldn't get any higher
+Oh baby I couldn't get any higher
 This time I'm willing to dance on the wire
 If I fall, If I fall
 

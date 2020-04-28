@@ -113,7 +113,7 @@ I can't stop loving you now
 
 Cause I fooled around, I fooled around, I fooled around, I fooled around
 I fooled around, I fooled around, and I fell in love
-I fooled around, I fooled around,  yes I did, I fooled around
+I fooled around, I fooled around, yes I did, I fooled around
 I fooled around (and I fell in love), I fooled around
 Cause I fooled around, and I fell in love
 I fooled around

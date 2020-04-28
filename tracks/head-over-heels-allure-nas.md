@@ -134,7 +134,7 @@ you still got it cause you was turned out once
 guess you learned ain't no future with them burnt out stunts
 Left the hood to get your own thing
 with home team
-Pushin through watchin  gleam,
+Pushin through watchin gleam,
 Yeah I-ight you probably heard
 that my pipe game tight
 rockin PBS stones powerful whips with egg headlights

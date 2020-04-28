@@ -124,7 +124,7 @@ Oh oh oohohohh,oh, ohoh
 (Think I better knock, knock, knock on wood)
 (Think I better knock)
 
-Ohbaby
+Oh baby
 
 It's no secret, about it
 'Cause with his lovin' touch

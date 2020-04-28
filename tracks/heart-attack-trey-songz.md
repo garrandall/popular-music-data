@@ -168,12 +168,12 @@ Even though I fell way...
 
 ...In too deep, can't think about giving it up
 But I never knew love would feel like a heart attack
-If I knew id feel like this man
+If I knew I'd feel like this man
 It's killing me, swear I never cried so much
 'Cause I never knew love would hurt this fuckin' bad
 The worst pain that I ever had
 
-If I knew id feel like this man
+If I knew I'd feel like this man
 Oh wo-oh, never never never knew love (oh wo-oh) would hurt this fuckin' bad
 The worst pain that I ever had
 

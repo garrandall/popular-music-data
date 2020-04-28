@@ -109,9 +109,9 @@ I swear her body match her face
 Last time I left her stranded but she say she got a faith
 I got a couple moves to make so lil' shawty gotta wait
 She got perfect height and perfect weight
-She treat a nigga like a chopper and she  plug
+She treat a nigga like a chopper and she plug
 Man, she really down for me and I know that she with the shit
-'Cause she love  all the way legit
+'Cause she love all the way legit
 Nigga hating nigga since, some of y'all need to repent
 I'm tryna make a little time
 For her, she a dime

@@ -82,9 +82,9 @@ And baby you know
 
 
 Starlight, starbright first star I see tonight
-Starlight,  make everything all right
+Starlight, make everything all right
 Starlight, starbright first star I see tonight
-Starlight,  yeah
+Starlight, yeah
 
 You must be my Lucky Star
 'Cause you make the darkness seem so far

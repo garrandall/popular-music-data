@@ -28,7 +28,7 @@ See how they run
 
 Lady Madonna, baby at your breast
 Wonders how you manage to feed the rest
-Pa pa pa pa...
+Pa pa pa pa
 See how they run
 
 Lady Madonna lying on the bed

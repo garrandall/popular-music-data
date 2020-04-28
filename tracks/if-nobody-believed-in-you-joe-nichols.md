@@ -69,7 +69,7 @@ I watched him take the two strike call"
 He hadn't tried to swing at all.
 I guess he'd had all that he could take,
 He walked away, for goodness sake.
-His father's voice was loud an' mean:
+His father's voice was loud and mean:
 "You won't amount to anything."
 
 That little boy quit tryin',
@@ -80,10 +80,10 @@ You'd probably give up too,
 If nobody believed in you.
 
 That old man said: "One more try,
-I know i'm not too old to drive.
+I know I'm not too old to drive.
 I promise, son, i'll do my best,
-This time, i'm gonna pass the test."
-"Give me the keys, Dad, an' get in."
+This time, I'm gonna pass the test."
+"Give me the keys, Dad, and get in."
 His father never drove again
 
 That old man quit trying',

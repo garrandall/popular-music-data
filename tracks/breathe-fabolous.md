@@ -230,6 +230,6 @@ One and then the two
 Two and then the three
 Three and then the four
 Then you gotta... (breathe)
-Then you gotta...
-Then you gotta...
+Then you gotta
+Then you gotta
 Breathe!

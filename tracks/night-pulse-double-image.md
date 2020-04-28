@@ -23,10 +23,10 @@ rankings:
 I know a perfect place to put the beat
 Right on the bottom of your feet
 The music's pumping through my veins
-Everything’s in motion, feels so strange
+Everything 's in motion, feels so strange
 
 The night's all colors, Coney island's in my head
-The rhythm is so heavy, it’s waking the dead
+The rhythm is so heavy, it 's waking the dead
 The alls are shaking, my eyes are turning red
 With the night pulse
 
@@ -44,11 +44,11 @@ Yes she is
 
 Vibrations getting strong, shooting through my brain
 Everyone's acting just a little insane
-Rock and roll  I can’t stop playing
+Rock and roll I can 't stop playing
 
-And it’s the night pulse
+And it 's the night pulse
 Fever's running high
-It’s the night pulse
+It 's the night pulse
 Lighting city lights
 It's the night pulse
 Oh yeah
@@ -56,7 +56,7 @@ Oh yeah
 It's the night pulse
 People getting wild
 It's the night pulse
-Fever’s on the rise
+Fever 's on the rise
 It's the night pulse
 Oh yeah
 

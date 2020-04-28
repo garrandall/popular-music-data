@@ -58,7 +58,7 @@ I think we're late for our shoot (Yeah)
 We at our video (Yeah)
 Hey - these girls, they cute! (Yeah)
 They want me to do my part (Yeah)
-But first I gotta...
+But first I gotta
 
 
 Release! I'm out of control, I'm out of body

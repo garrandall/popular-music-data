@@ -155,5 +155,5 @@ Everything is everything (everything is everything)
 
 Everything is everything
 What is meant to be, will be
-After winter,  (after winter) must come spring (must come)
+After winter, (after winter) must come spring (must come)
 Change, it comes eventually

@@ -75,7 +75,7 @@ And I said to myself we coulda have twins.
 Hey Frankie - do you remember me?
 Oh how you brought me down - down down...
 
-He looked at me and then I blushed ...
+He looked at me and then I blushed
 Frankie - do you remember me? Do you remember me?
 Frankie
 My Frankie

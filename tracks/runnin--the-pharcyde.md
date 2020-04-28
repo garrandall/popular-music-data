@@ -99,12 +99,12 @@ it cool just so some real shit won't get full blown Being
 where I'm from they let the smoke come quicker than an
 evil red-neck could lynch a helpless colored figure And
 as a victim I invented low-key til the keyhole itself got
-lower than me  So I stood up and let my free form form
+lower than me So I stood up and let my free form form
 free I don't sweat it I let the bullshit blow in the breeze
 in other words just freeze
 
 
-It's 1995 now  that I'm older stress weighs on my shoulders
+It's 1995 now that I'm older stress weighs on my shoulders
 heavy as boulders but I told ya
 till the day that I die I still will be a soldier and that's all I told
 ya and that's all I showed ya

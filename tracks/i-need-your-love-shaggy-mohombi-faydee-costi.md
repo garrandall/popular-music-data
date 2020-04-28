@@ -72,7 +72,7 @@ Woman you love me, can't do without
 
 Who am I without you by my side?
 Every little piece of my heart broken in the dark
-Wishing I could hold you now...
+Wishing I could hold you now
 When you were here for me, I was not there for you
 I was too blind, couldn't see what you did for me
 Now I don't know what to do

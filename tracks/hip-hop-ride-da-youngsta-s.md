@@ -63,11 +63,13 @@ And Snoop Doggy Dogg and the whole Death Row
 Gang Starr, Sumpreme C, and Cypress
 On the reel to reel cause I'm keeping it righteous
 
- (x2)
 C'mon let me take you on a hip-hop ride
 Move side to side, let your body glide
 Slide, slide, slide, slide
 
+C'mon let me take you on a hip-hop ride
+Move side to side, let your body glide
+Slide, slide, slide, slide
 
 Well groove with me as we go on this mission
 Taking you on a female expidition
@@ -86,11 +88,13 @@ Coming straight from my homegirl MC Lyte
 Peace to Shanté, Sweet Tee, and Sah-B
 Representing hip-hop lovely
 
- (x2)
 C'mon let me take you on a hip-hop ride
 Move side to side, let your body glide
 Slide, slide, slide, slide
 
+C'mon let me take you on a hip-hop ride
+Move side to side, let your body glide
+Slide, slide, slide, slide
 
 C'mon let me take you on this hip-hop ride
 Move side to side, let your body glide
@@ -109,7 +113,10 @@ History that's keeping everything cool
 I use my mic as my tool
 Peace to the old school
 
- (x4)
+C'mon let me take you on a hip-hop ride
+Move side to side, let your body glide
+Slide, slide, slide, slide
+
 C'mon let me take you on a hip-hop ride
 Move side to side, let your body glide
 Slide, slide, slide, slide

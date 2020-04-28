@@ -88,7 +88,7 @@ Mr personality, you so ugly
 Mr personality, you so ugly
 
 When I look at you I go outta my mind
-Its like im lookin at someones behind
+Its like I'm lookin at someones behind
 You make the children scream and babys cry
 With your crusty teeth and your bloodshot eyes
 You so ugly, your dad hadda tie a porkchop around your neck just to get the dog to play witcha

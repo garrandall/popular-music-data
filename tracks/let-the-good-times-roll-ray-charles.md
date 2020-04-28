@@ -45,13 +45,13 @@ All you got to do is get together and let the good times roll
 
 
 Hey y'all tell everybody, ray charles in town
-I got a dollar and a quarter and i'm just ringing the clock
+I got a dollar and a quarter and I'm just ringing the clock
 But don't let no female, play me cheap
-I got fifty cents more than i'm gonna keep
+I got fifty cents more than I'm gonna keep
 
 
 So let the good times roll now
-I tell y'all i'm gonna let the good times roll now
+I tell y'all I'm gonna let the good times roll now
 Well it don't make no difference if you're young or old
 All you got to do is get together and let the good times roll
 

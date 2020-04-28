@@ -147,7 +147,7 @@ Double XL in the nine-ohs kid
 Skills to make mills
 Big up, Flava Unit, Funky Town pros, upstate, yeah ??? ya large
 So check this out Shaq man, we gon' let this beat play right here, let all
-The brothers and sister know...
+The brothers and sister know
 
 
 Nah, nah, let me continue

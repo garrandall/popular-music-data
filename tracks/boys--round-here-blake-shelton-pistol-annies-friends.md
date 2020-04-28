@@ -144,9 +144,9 @@ Lay a blanket on the ground
 Kissing and the crickets is the only sound
 
 We out of town
-Have you ever got down with a...
+Have you ever got down with a
 Red red, red, red, red, red, redneck?
-And do you wanna get down with a...
+And do you wanna get down with a
 Red red, red, red, red, red, redneck?
 Girl you gotta get down
 
@@ -175,7 +175,7 @@ Lay a blanket on the ground
 Kissing and the crickets is the only sound
 We out of town (oh, let's ride)
 (Oh, let's ride)
-Girl you gotta get down with a...
+Girl you gotta get down with a
 (Oh, let's ride, oh, let's ride)
 Come on through the country side
 (Oh, les't ride)

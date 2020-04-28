@@ -152,7 +152,7 @@ Excuse me sonny, do you know where I can...find some booty
 Whoot, there it is
 Find some booty
 Whoot, there it is
-F-f-f-find some booty
+Find some booty
 Whoot, there it is
 Find some booty
 Whoot there it is
@@ -188,7 +188,7 @@ Boy look-a here
 Look-a here, look-a here, look-a here
 Boy look-a here
 Look-a here, look-a here, look-a here
-Boy look-a here...here we go
+Boy look-a here... here we go
 
 
 Come on sexy get on the floor
@@ -227,11 +227,27 @@ Whoot, there it is
 Let me know where the booty at
 Whoot, there it is
 
-Whoot, there it is (x5)
-Wh-wh-whoot, thee it is (x5)
+Whoot, there it is
+Whoot, there it is
+Whoot, there it is
+Whoot, there it is
+Whoot, there it is
+Whoot, there it is
+Whoot, there it is
+Whoot, there it is
+Whoot, there it is
+Whoot, there it is
 
-Whoot, there it is (x5)
-Wh-wh-whoot, thee it is (x5)
+Whoot, there it is
+Whoot, there it is
+Whoot, there it is
+Whoot, there it is
+Whoot, there it is
+Whoot, there it is
+Whoot, there it is
+Whoot, there it is
+Whoot, there it is
+Whoot, there it is
 
 
 Oh-ay, oh-ay look at that booty

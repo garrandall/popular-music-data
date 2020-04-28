@@ -214,4 +214,4 @@ Oh, oh, oh (Oh, oh, oh, oh, pride)
 
 A deeper love (Oh, oh, oh, oh, pride)
 
-Ladadee, ladada...
+Ladadee, ladada

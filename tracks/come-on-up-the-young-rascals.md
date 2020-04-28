@@ -72,7 +72,7 @@ Keep on pushin baby
 Until we get home
 Don't it feel good
 Don't it feel good
-You know...
+You know
 I just can't stop
 I just can't stop
 

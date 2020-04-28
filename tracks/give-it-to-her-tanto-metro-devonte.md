@@ -116,7 +116,7 @@ Singer...tell her deh!
 Man a real hardcore, gyal a ask fi more
 Tackle dem pon bed, hackle dem pon floor
 Dem no know the score, gyal me can't ignore
-Dem better know...
+Dem better know
 Nuff, whole heap of, gyal deh yah fi bore
 Man a ganga lee, gyal ask fi me
 Pon shift me work from, 3:00am to 3:00pm

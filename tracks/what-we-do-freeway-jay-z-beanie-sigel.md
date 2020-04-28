@@ -65,7 +65,7 @@ She wanna roll wit' a thug that rap, you do the math
 He won't blast 'til my stacks in order mang!
 
 
-...MANG!  Lemme get 'em Free
+...MANG! Lemme get 'em Free
 Hove never slackin' mang, zippin' in the black Range
 Faster than the red ghost, gettin' ghost wit' Pac-Mang
 One-time know a got a knack to get that change

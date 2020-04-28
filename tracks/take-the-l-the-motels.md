@@ -51,14 +51,17 @@ Killing time and missing my cues
 Watching her belong to you
 Tears could only change my view
 
-Take the L out of lover and it's over (x2)
+Take the L out of lover and it's over
+Take the L out of lover and it's over
 
 Growing up has always been tough
 Good intentions never good enough
 I would take you far away
 Do anything to make you stay
 
-Take the L out of lover and it's over (x3)
+Take the L out of lover and it's over
+Take the L out of lover and it's over
+Take the L out of lover and it's over
 
 Every drink and ciggarette
 All those hands we never met
@@ -66,8 +69,7 @@ There are things we should forget
 Now its over
 Over
 
-Take the L out of lover and it's over (x3)
-
-(music)
-
-Take the L out of lover and it's over (until fade)
+Take the L out of lover and it's over
+Take the L out of lover and it's over
+Take the L out of lover and it's over
+Take the L out of lover and it's over

@@ -124,7 +124,7 @@ You don't know it now,
 Don't ya know it someday,
 You're throwing a good love away.
 
-I know...
+I know
 I'm gonna miss ya woman.
 (You don't know it now)
 (But you'll know it someday)

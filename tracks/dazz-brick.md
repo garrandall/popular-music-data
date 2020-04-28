@@ -97,7 +97,7 @@ Music makes your body move, well all right
 Funky dancing get up, get down, shake your booty
 Music makes your body move, well all right
 
-La la la la la la la la la la la la...
+La la la la la la la la la la la la
 Oh-oh-oh-oh
 Oh-oh-oh-oh
 

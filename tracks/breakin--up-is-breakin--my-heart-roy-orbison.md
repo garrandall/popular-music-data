@@ -41,9 +41,9 @@ rankings:
   start_date: '1966-03-12'
 ---
 
-I wonder why you threw your diary away 
+I wonder why you threw your diary away
 When you walk by I nearly died What can I say
-Things were fine, you were mine just yesterday  
+Things were fine, you were mine just yesterday
 Now we're apart, Breakin' up is breakin' my heart
 
 I find myself alone at night And then I cry
@@ -53,7 +53,7 @@ Now you're gone, I'm alone I wonder why we had to part
 Breakin' up is breakin' my heart, baby
 Breakin' up is breakin' my heart
 
-The love affair we used to share Is cold and still 
+The love affair we used to share Is cold and still
 I loved you then I love you now I always will
 The day that you found someone new
 My lonely world just fell apart

@@ -34,7 +34,7 @@ No sé qué estaba pensando
 Voy pal cielo y voy pateando, oh, oh
 
 
-Me enamoré,  me ena-na-namoré
+Me enamoré, me ena-na-namoré
 Lo vi solito y me lancé
 Me ena-na-namoré
 Me ena-na-namo...
@@ -89,7 +89,7 @@ Este es pa' mí o pa' más nadie
 E-e-es pa' mí o pa' más nadie
 
 
-Me enamoré,  me ena-na-namoré
+Me enamoré, me ena-na-namoré
 Lo vi solito y me lancé
 Me ena-na-namoré
 Me ena-na-namo...

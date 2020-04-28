@@ -28,16 +28,15 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-03-04'
 ---
-Lil' Dap: Damn son
-Melachi: What the fuck is wrong with you man?
+Damn son
+What the fuck is wrong with you man?
 Shit shouldn't be happening out here man
 Niggas don't be realizin' the shit, man
 But yo, tell 'em what you be seein' out your window
-Lil' Dap: Yo I be seeing out my window gunshots everyday
-Melachi:Man yo I be seeing sex money and drugs too but yo
+Yo I be seeing out my window gunshots everyday
+Man yo I be seeing sex money and drugs too but yo
 Tell 'em how Duke said
-Lil' Dap: The world's about to end
-
+The world's about to end
 
 Born in the ghetto it's hard to survive
 Some have achieved and many brothers tried
@@ -55,8 +54,7 @@ I wasn't living rich and I also wasn't poor
 I try to appreciate but I deserve more
 Yeah superman supa star
 Give me super fat dough like Pablo Escobar
-"Super duper star"
-
+Super duper star
 
 Feared by bandits hated by chicks
 Loved by kids I never did a bid
@@ -75,17 +73,14 @@ Now I'm out on my own survival with the dime
 Like an African tribe little Dap will blow your mind
 Check it out like this
 
-Melachi:
-And then like that
-
-"Super star"
-
-
-("So what the fuck y'all movin' on up")
-("Yes the Group Home is thick so all y'all punks hear this)" (x3)
-("So what the fuck y'all movin' on up")
-("Yo check it check it out like this here we go")
-
+So what the fuck y'all movin' on up
+Yes the Group Home is thick so all y'all punks hear this
+So what the fuck y'all movin' on up
+Yes the Group Home is thick so all y'all punks hear this
+So what the fuck y'all movin' on up
+Yes the Group Home is thick so all y'all punks hear this
+So what the fuck y'all movin' on up
+Yo check it check it out like this here we go
 
 Walkin' the tunnels of hell the next level
 It's the Nutcracker givin' hell to the devil
@@ -99,9 +94,7 @@ Big time doe, money is a thriller
 I'm gettin' more iller than the Zodiac killer
 No lie but before I say bye
 You can't take money with cha when you die
-
-"Super duper star"
-
+Super duper star
 
 Yo I got niggas flipping they wig
 Chicks grabbing they cunts
@@ -120,4 +113,4 @@ Curse is put upon me
 Watch me live free at the clink
 With my niggas you'll see
 Raising to the top like a rocket ship, yo I go far
-"Super star"
+Super star

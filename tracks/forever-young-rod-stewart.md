@@ -125,7 +125,7 @@ with a prince or a vagabond
 
 And may you never love in vain
 and in my heart you will remain
-Forever Young,  Forever Young
+Forever Young, Forever Young
 Forever Young, Forever Young
 Forever Young
 Forever Young

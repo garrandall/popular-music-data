@@ -47,15 +47,15 @@ I'm not going nowhere
 I'm gonna stick right here, babe
 You know how much i care
 So don't worry 'bout me baby
-'cause i'm right here at home
+'cause I'm right here at home
 Oh baby, oh baby, we got a good thing goin'
 
 You may talk all about me
 And scandalize my name
 But deep down inside me
-I know i'm the only man
+I know I'm the only man
 So don't worry 'bout me baby
-'cause i'm right here at home
+'cause I'm right here at home
 Oh baby, oh baby, we got a good thing goin'
 
 So maybe i knew her
@@ -68,7 +68,7 @@ I'm not going nowhere
 I'm gonna stick right here, babe
 I know how much you care
 So don't worry 'bout me baby
-'cause i'm right here at home
+'cause I'm right here at home
 Oh baby, oh baby, we got a good thing goin'
 
 Got a good thing goin' babe

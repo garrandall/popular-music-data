@@ -124,7 +124,7 @@ And that's no lie
 Looking in your eyes
 Looking in your big brown eyes
 Oh yeah
-And i've got this to say to you
+And I've got this to say to you
 Hey!
 Girl I want to make you sweat
 Sweat till you can't sweat no more
@@ -150,7 +150,7 @@ And that's no lie
 Looking in you eyes
 Looking in your big brown eyes
 Oh girl
-And i've got this to say to you
+And I've got this to say to you
 Hey!
 Girl I want to make you sweat
 Sweat till you can't sweat no more
@@ -172,7 +172,7 @@ Hey
 Woo woo woo woo wee yeah
 Eyes
 Looking in your big brown eyes
-And i've got this to say to you
+And I've got this to say to you
 Hey
 Girl I want to make you sweat
 Sweat till you can't sweat no more

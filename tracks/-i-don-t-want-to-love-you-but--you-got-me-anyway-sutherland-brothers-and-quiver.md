@@ -61,9 +61,9 @@ Everybody at the door trying to live a little dream
 And it was 1959 in a difficault time
 We were laughing everyday singing songs and blowin' minds
 
-Na na na na na...
+Na na na na na
 I don't want to love you but you got me anyway
-Na na na na na...
+Na na na na na
 I don't want to love you but you got me anyway
 
 All the things I've done and the places I've been
@@ -71,9 +71,9 @@ Every hour like a day, every day another dream
 All the things that I said never meaning to say
 All the times I ??? never wanting to say
 
-Na na na na na...
+Na na na na na
 I don't want to love you but you got me anyway
-Na na na na na...
+Na na na na na
 I don't want to love you but you got me anyway
 
 When I get so lonely every night in my sleep
@@ -84,9 +84,9 @@ Looking hard in the sun for a better friend
 Never die, never die as the years go by
 Will life go on? Yea, life goes on
 
-Na na na na na...
+Na na na na na
 I don't want to love you but you got me anyway
-Na na na na na...
+Na na na na na
 I don't want to love you but you got me anyway
 
 You got me anyway

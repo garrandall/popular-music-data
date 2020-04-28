@@ -45,38 +45,38 @@ rankings:
   start_date: '1983-12-10'
 ---
 
-I rolled out this morning...kids had the morning news show on 
-Bryant Gumbel was talking about the fighting in Lebanon 
-Some senator was squawking about the bad economy 
-It's gonna get worse you see we need a change in policy 
+I rolled out this morning...kids had the morning news show on
+Bryant Gumbel was talking about the fighting in Lebanon
+Some senator was squawking about the bad economy
+It's gonna get worse you see we need a change in policy
 
-There's a local paper rolled up in a rubber band 
-One more sad story's one more than I can stand 
+There's a local paper rolled up in a rubber band
+One more sad story's one more than I can stand
 Just once, how I'd like to see the headline say
 Not much to print today can't find nothing bad to say
 
 Because...
 
-Nobody robbed a liquor store on the lower part of town 
-Nobody OD'd, nobody burned a single building down 
-Nobody fired a shot in anger...nobody had to die in vain 
-We sure could use a little good news today 
+Nobody robbed a liquor store on the lower part of town
+Nobody OD'd, nobody burned a single building down
+Nobody fired a shot in anger...nobody had to die in vain
+We sure could use a little good news today
 
-I'll come home this evening...I'll bet that the news will be the same 
-Somebody takes a hostage...somebody steals a plane 
-How I wanna hear the anchor man talk about a county fair 
-And how we cleaned up the air...how everybody learned to care 
+I'll come home this evening...I'll bet that the news will be the same
+Somebody takes a hostage...somebody steals a plane
+How I wanna hear the anchor man talk about a county fair
+And how we cleaned up the air...how everybody learned to care
 
 Whoa, tell me...
 
-Nobody was assassinated in the whole Third World today 
-And in the streets of Ireland all the children had to do was play 
-And everybody loves everybody in the good old USA 
-We sure could use a little good news today 
+Nobody was assassinated in the whole Third World today
+And in the streets of Ireland all the children had to do was play
+And everybody loves everybody in the good old USA
+We sure could use a little good news today
 
-Nobody robbed a liquor store on the lower part of town 
-Nobody OD'd, nobody burned a single building down  
-Nobody fired a shot in anger...nobody had to die in vain 
+Nobody robbed a liquor store on the lower part of town
+Nobody OD'd, nobody burned a single building down
+Nobody fired a shot in anger...nobody had to die in vain
 We sure could use a little good news today
 
 

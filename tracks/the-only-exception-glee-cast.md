@@ -41,7 +41,7 @@ that love never lasts
 and we've got to find other ways
 to make it alone
 keep a straight face
-and i've always lived like this, keeping a comfortable distance
+and I've always lived like this, keeping a comfortable distance
 and up until now I had sworn to myself that I'm content with loneliness
 because none of it was ever worth the risk
 

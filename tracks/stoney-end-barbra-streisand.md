@@ -91,7 +91,7 @@ Going down the stoney end
 I never wanted to go
 Down the stoney end
 Mama let me start all over
-Cradle me,  Mama,  cradle me again
+Cradle me, Mama, cradle me again
 I can still remember him
 With love light in his eyes
 But the light flickered out and parted
@@ -102,20 +102,20 @@ Going down the stoney end
 I never wanted to go
 Down the stoney end
 Mama let me start all over
-Cradle me,  mama, cradle me again
-(Cradle me,  mama, cradle me again
+Cradle me, mama, cradle me again
+(Cradle me, mama, cradle me again
 Mama, cradle me again...)
 Never mind the forecast
 'Cause the sky has lost control
 'Cause the fury and the broken thunders
 Come to match my raging soul
-Now I don't  believe
+Now I don't believe
 I want to see the morning
 Going down the stoney end
 I never wanted to go
 Down the stoney end
 Mama let me start all over
-Cradle me,  mama,  cradle me again
+Cradle me, mama, cradle me again
 Going down the stoney end...
 
 

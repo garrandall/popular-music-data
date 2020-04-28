@@ -83,7 +83,7 @@ Oh la la la la la-la
 Oh, he's got me acting crazy
 Like a girl thats never been kissed before
 He's got the look of just the guy
-That i've been waiting for
+That I've been waiting for
 Oh oh, I tell you
 
 I found love this time
@@ -98,13 +98,13 @@ Yea
 I found a girl who's sheer perfection
 She keeps me moving in the right direction
 I'm on time and she's all mine
-Now im young at heart
+Now I'm young at heart
 But thats all fine
 
 I found a boy with the sweetest eyes
 He may be smart, but the boy is wise
-When he does the dance im in a deep trance
-Now i'm hoping for a real romance
+When he does the dance I'm in a deep trance
+Now I'm hoping for a real romance
 
 Mmm, my worries fade away
 He holds me tighter

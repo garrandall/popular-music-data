@@ -55,7 +55,7 @@ So quit it
 
 I love you, I love you, I do, little girl
 But you ain't gonna cheat on me
-I need you, I need you, I  do, girl
+I need you, I need you, I do, girl
 Choose, is it him or me (is it him or me)
 
 (Yeah) Just 'cause I ain't been sayin' it, girl

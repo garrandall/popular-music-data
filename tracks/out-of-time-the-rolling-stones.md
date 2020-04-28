@@ -70,7 +70,7 @@ Yes, you are left out
 Out of there without a doubt 'cause
 Baby, baby, baby, you're out of time
 
-Sing the song now...
+Sing the song now
 
 Baby, baby, baby, you're out of time
 I said baby, baby, baby, you're out of time

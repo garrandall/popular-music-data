@@ -171,7 +171,7 @@ Or give them things they might prefer
 Sandrio pan, mandarin sweet massage oil
 Pimp, gamein', grants, and benz' I tried 'em
 Used to style 'em, now just virgin island
-Kamasutra freaky ...
+Kamasutra freaky
 
 
 Don't make me get buck in here!

@@ -67,7 +67,7 @@ rankings:
 
 And if she asks you why you can tell her that I told you
 That I'm tired of Castles in the Air
-I've got a dream I want the world to share an' castle walls
+I've got a dream I want the world to share and castle walls
 Just leave me to despair
 
 Hills of forest green where the mountains touch the sky
@@ -97,7 +97,7 @@ Perhaps she'll understand if you tell it to her plain
 
 And if she asks you why you can tell her that I told you
 That I'm tired of Castles in the Air
-I've got a dream I want the world to share an' castle walls
+I've got a dream I want the world to share and castle walls
 Just lead me to despair
 
 

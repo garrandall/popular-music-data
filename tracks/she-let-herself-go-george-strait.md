@@ -99,7 +99,7 @@ She let herself go.
 
 
 
-She poured her heart an' soul into their three-bedroom ranch.
+She poured her heart and soul into their three-bedroom ranch.
 Spent her days raisin' babies, ironin' his pants.
 Came home one day from the grocery store and found his note,
 And without him there to stop her, she let herself go.

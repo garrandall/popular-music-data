@@ -71,7 +71,7 @@ rankings:
 Bill walked me to my door last night
 And he said, Before I go...
 There's something about our love affair
-That I have a right to know...
+That I have a right to know
 I said, Lets not stand out here like this
 What would the neighbors think?
 Why don't we just step inside

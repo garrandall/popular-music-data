@@ -46,7 +46,7 @@ That's when I know my baby and I will have a good time
 
 
 We're going surfing
-Bom bom dip di dit  - Surfing
+Bom bom dip di dit - Surfing
 
 
 

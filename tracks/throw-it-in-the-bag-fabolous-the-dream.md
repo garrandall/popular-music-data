@@ -138,7 +138,7 @@ Must be nice man
 You wit the right man
 You aint gotta price scan, or ask how much
 Now what I look like
-Son im from brooklin, what it look like
+Son I'm from brooklin, what it look like
 You get it cause I got it
 I got it so you get it
 Do like Luke say, don't stop get it get it

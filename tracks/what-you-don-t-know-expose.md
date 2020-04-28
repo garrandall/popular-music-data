@@ -168,4 +168,4 @@ I don't wanna hurt you baby no oh oh no no
 If you don't know
 You won't let go
 What you don't know oh oh
-Na na na na na...
+Na na na na na

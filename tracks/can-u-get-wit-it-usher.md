@@ -164,4 +164,4 @@ You ought to love the joy I bring
 Can you get with it, it's like that
 It's only a sexual thing
 Can you get with it, it's like that
-You ought to love the joy I...
+You ought to love the joy I

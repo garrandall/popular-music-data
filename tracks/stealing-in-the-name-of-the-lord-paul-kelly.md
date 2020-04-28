@@ -77,7 +77,7 @@ For?
 
 That man is...
 (Stealin' in the name of the lord)
-Sayin' God's gonna mess ya...
+Sayin' God's gonna mess ya
 (Stealin' in the name of the lord)
 
 Oh, oh, oh.

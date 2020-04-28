@@ -108,9 +108,9 @@ All the things that you enjoy
 How to stay in love, how to stay so happy
 Baby girl, there's so many things
 So many things I wanna do
-I wanna...
-I wanna...
-I wanna...I wanna...I wanna...I wanna...
+I wanna
+I wanna
+I wanna...I wanna...I wanna...I wanna
 I wanna make you a pretty, pretty coat of cashmere
 Cause you got to know how I feel about you, baby
 How I feel about you, baby

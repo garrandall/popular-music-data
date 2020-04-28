@@ -125,14 +125,10 @@ She walks like a dream
 Makes me feel crazy
 Makes me feel so mean
 
-
 Ain't nothin' gonna save you
 From a love that's blind
 You slip to the dark side
 Across that line
 
-
 On the dark side, oh yeah
 On the dark side, oh yeah
-
- (x2)

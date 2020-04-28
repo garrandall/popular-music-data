@@ -122,7 +122,7 @@ for the fun, if you don't understand just say you don't (nah!)
 and don't wait for me to explain cause I won't
 You see it's in my nature to be the best, West to East
 See East to West, ready or not I have arrived and I'm live
-Showing an MC how to survive.  Cause it's crazy how I
+Showing an MC how to survive. Cause it's crazy how I
 get you captured with my tactics, I got many witnesses
 that can back this ruffnecks from New York to LA
 Been down with me since Poor George

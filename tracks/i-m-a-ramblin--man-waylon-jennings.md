@@ -57,7 +57,7 @@ Don't give your heart to a ramblin' man
 You better move away
 You're standing too close to the flame
 Once I mess with your mind
-Your little  heart won't be the same
+Your little heart won't be the same
 But I'm a ramblin' man
 Don't mess around with and ol' ramblin' man
 

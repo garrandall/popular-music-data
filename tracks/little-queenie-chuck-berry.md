@@ -53,7 +53,7 @@ Lookin' like a model on the cover of a magazine
 She's too cute to be a minute over seventeen
 
 
-Meanwhile, I was still thinkin ...
+Meanwhile, I was still thinkin
 If it's a slow song, we'll omit it
 If it's a rocker, that'll get it
 And if it's good, she'll admit it

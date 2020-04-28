@@ -58,7 +58,7 @@ You move it to the right
 Yeah, if it takes all night
 
 
-Now  kinda slow
+Now kinda slow
 With a whole lot of soul
 Don't move it too fast and make it last
 You know you scratch just like a monkey

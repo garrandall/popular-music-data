@@ -74,4 +74,4 @@ Nah nah, nah nah nah, nah nah nah
 Nah nah, nah nah nah, nah nah nah
 Nah nah, nah nah nah, nah nah nah
 
-Baby now...
+Baby now

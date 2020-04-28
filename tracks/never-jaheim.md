@@ -96,7 +96,6 @@ That's why I say never, would I know the truth
 Never, would I know that you would come into my life and make everything new
 Never, would have thought I would take your hand, girl I swear...
 I would never never never never never say never again
-Again(x2)
 Baby baby baby, baby
 Baby baby baby, baby
 Baby baby baby, baby baby baby
@@ -125,12 +124,12 @@ I song a brand new song
 Before I had no clue, I was lost till I found you baby
 And I want to make the whole world understand I'm proud to be your man
 And I vow to stay forever
-I can't believe that I used to, say...
+I can't believe that I used to, say
 Never, would I love this way
 Give my heart away
 Never would this player hang his jersey up and leave the game
 Never, no no no, never, no no no no, no , no
 Never, Never
 I never would have thought I would take your hand
-I would never never never never never never never...never, never say never again
-Again..
+I would never never never never never never never... never, never say never again
+Again

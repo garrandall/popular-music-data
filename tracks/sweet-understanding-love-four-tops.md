@@ -105,4 +105,4 @@ Undenying love
 And it's sho nuff love, hey baby
 
 Sweet, understanding love
-Undemanding love ...
+Undemanding love

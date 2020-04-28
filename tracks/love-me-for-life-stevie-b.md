@@ -87,7 +87,7 @@ Will you be my girl
 Oh...
 La de la de la
 La de la de la
-Whoa, whoa...
+Whoa, whoa
 
 These last few days have been
 Beautiful and bright

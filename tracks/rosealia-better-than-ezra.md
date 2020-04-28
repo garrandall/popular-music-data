@@ -96,7 +96,7 @@ Put on your mask, my Rosealia.
 Put on your mask, wearing your cape.
 Put on your mask, my Rosealia.
 
-Rosealia...
+Rosealia
 
 
 

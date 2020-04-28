@@ -78,7 +78,7 @@ rankings:
 ---
 
 I remember walk'in round the court square sidewalk
-Lookin' in windows at things I couldn't want 
+Lookin' in windows at things I couldn't want
 There's johnson's hardware and morgans jewelry
 And the ol' Lee king's apothecary
 They ware the little man
@@ -122,7 +122,7 @@ Before the big money shut em down
 And killed the little man
 Oh the little man
 
-Now the stores  are lined up in a concrete strip
+Now the stores are lined up in a concrete strip
 You can buy the whole world in just one trip
 And save a penny cause it's jumbo size
 They don't even realize
@@ -142,7 +142,7 @@ He broke the ground where we grew our garden
 Back before we'd all forgoten
 about the little man
 The little man
-Long live the little man 
+Long live the little man
 God bless the little man
 
 

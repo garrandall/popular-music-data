@@ -74,7 +74,7 @@ So Mannie Fresh and Snowman, it's a rap
 Wrap it up in the club, ya I'm so crazy
 These other rappers actors like Patrick Swayze
 I try to tell them but these niggas aint hear me
-Mossberg pump, i'm riding shotgun literally
+Mossberg pump, I'm riding shotgun literally
 Live from the projects, you know what it is
 Hey Snowman can I get an adlib
 Get the club crunk, can't take that from me

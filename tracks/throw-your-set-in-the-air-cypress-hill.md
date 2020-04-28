@@ -84,12 +84,12 @@ rankings:
 Every nigga out there wanna be down with the crew
 Some ain't got enough heart, let me ask you this
 Would ya be down like a soldier
-Loyal an' do everything I told ya
+Loyal and do everything I told ya
 
 I can mold ya into a warrior, down for your neighborhood
 Workin' up to a G with the flava
 Criminal behavior, on the mind
-When I got ya back ya know I got ya back each an' every time
+When I got ya back ya know I got ya back each and every time
 
 Throw your set in the air
 Wave it around like you just don't care
@@ -97,7 +97,7 @@ Throw your set in the air
 Wave it around like you just don't care
 
 It's time to exit that busta nigga
-Get ya hands out ya pockets an' your finga on the trigga
+Get ya hands out ya pockets and your finga on the trigga
 Let one fly, we don't die, we multiply
 Throw yo' set up in the sky
 
@@ -107,7 +107,7 @@ Nigga when I got the glock ya betta duck quick
 Ya betta start grabbin' it, I can handle it
 
 Soy numero uno, mero mero
-You know I run wit Muggs an' the Perro
+You know I run wit Muggs and the Perro
 Firin' up that heater
 When I'm throwin' up a set I got my nina millimeter
 

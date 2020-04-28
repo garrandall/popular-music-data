@@ -69,7 +69,7 @@ Checking each other up and down
 In all of the obvious places
 Was there ever a reason 4 us 2 be apart?
 The air that fills up this room says, "not hardly"
-So this is where U end, and U and I begin ...
+So this is where U end, and U and I begin
 (That's where U and I, U and I begin)
 The greatest romance that's ever been sold
 The greatest romance that's ever been sold
@@ -82,7 +82,7 @@ Until U've heard these words:
 "Your body was designed 2 respond 2 mine
 In spite of your desire 2 mold me"
 And in the middle of it all -
-We kiss and like rain (like rain) we fall into ...
+We kiss and like rain (like rain) we fall into
 
 The greatest romance that's ever been sold
 The greatest romance that's ever been sold

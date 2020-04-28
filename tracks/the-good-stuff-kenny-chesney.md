@@ -89,14 +89,14 @@ rankings:
   start_date: '2002-10-19'
 ---
 
-Well, me an' my lady had our first big fight
+Well, me and my lady had our first big fight
 So I drove around 'til I saw the neon light
 A corner bar, an it just seemed right
 So I pulled up
 
 Not a soul around but the old bar keep
-Down at the end an' looking half asleep
-An he walked up, an' said: "What'll it be?"
+Down at the end and looking half asleep
+An he walked up, and said: "What'll it be?"
 I said: "The good stuff"
 
 He didn't reach around for the whiskey
@@ -113,12 +113,12 @@ Eatin' burnt suppers the whole first year
 An' askin' for seconds to keep her from tearin' up
 Yeah, man, that's the good stuff"
 
-He grabbed a carton of milk an' he poured a glass
-An' I smiled an' said: "I'll have some of that"
-We sat there an' talked as an hour passed
+He grabbed a carton of milk and he poured a glass
+An' I smiled and said: "I'll have some of that"
+We sat there and talked as an hour passed
 Like old friends
 
-I saw a black an' white picture an' it caught my stare
+I saw a black and white picture and it caught my stare
 It was a pretty girl with bouffant hair
 He said: "That's my Bonnie
 Taken 'bout a year after we were wed"

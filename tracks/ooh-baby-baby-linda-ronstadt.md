@@ -3,7 +3,7 @@ artists:
 - Linda Ronstadt
 features: []
 genres: []
-key: ohbaby-baby-linda-ronstadt
+key: oh baby-baby-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/oohbabybaby.html
 name: OhBaby Baby
 rankings:
@@ -78,15 +78,15 @@ My heart went out to play
 And in the game I lost you
 What a price to pay
 I'm crying
-Ohbaby baby
-Ohbaby baby
+Oh baby baby
+Oh baby baby
 
 Mistakes, I've know I've made a few
 But I'm only human
 You've made mistakes too
 I'm crying
-Ohbaby baby
-Ohbaby baby
+Oh baby baby
+Oh baby baby
 
 I'm just about at
 The end of my rope
@@ -97,10 +97,10 @@ Someday I'll hold you near
 Whisper I still love you
 Until that day is here
 OhI'm crying
-Ohbaby baby
-Ohbaby baby
-Ohbaby baby
-Ohbaby baby
+Oh baby baby
+Oh baby baby
+Oh baby baby
+Oh baby baby
 Oo-oo-oo-oh
 
 

@@ -148,9 +148,9 @@ Yeahhhhh! Get it get it!
 
 To the right y'all!
 
-C'mon now, pump, pump, pump, pump, pump, pump ...
+C'mon now, pump, pump, pump, pump, pump, pump
 
-To the front ...
+To the front
 
 Heyyyy! Get it, get it!
 

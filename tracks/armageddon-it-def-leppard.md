@@ -109,7 +109,7 @@ Oh, really gettin' it? - Yes, Armaggedon it!
 
 You try comin' on when you need some...
 But then you don't 'cos you already did
-Yeah, you jangle your jewels while your shakin' ya...
+Yeah, you jangle your jewels while your shakin' ya
 And drive the pretty boys outta their heads
 
 You got it, but are you gettin' it?

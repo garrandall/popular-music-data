@@ -52,7 +52,7 @@ Trenchcoat, under a nigga's sleeve
 
 
 Wipe his nose, wipe his nose
-Wipe his nose,  wipe his nose (Wipe your nose)
+Wipe his nose, wipe his nose (Wipe your nose)
 Wipe his nose, (Wipe your nose, slatt) wipe his nose (Slatt, wipe his nose)
 Wipe his nose, (Wipe your nose), wipe his nose (Yeah, yeah)
 

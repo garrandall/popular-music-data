@@ -94,7 +94,7 @@ I love diving in your mind and coming out with every diamond I can find (We ain'
 No sleep, no sleep
 
 
-Can't stop, yeah  (we not, just a lil more, just a lil more, now, just a lil more now)
+Can't stop, yeah (we not, just a lil more, just a lil more, now, just a lil more now)
 Can't stop (just a lil more, now, just a lil more now) we ain’t gonna get no sleep (no sleep)
 
 

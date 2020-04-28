@@ -87,7 +87,7 @@ The love after the hate
 The love we leave too late
 The love after the hate
 The love we leave too late
-I wish we'd wake up one day - an' everyone feel moved
+I wish we'd wake up one day - and everyone feel moved
 But we're caught up in the dailies and an ever changing mood
 
 Evil turns to statues

@@ -153,7 +153,7 @@ When we are together cos we stay popular
 When we are together, I sit and I wonder
 If this love is gonna last forever
 Well then I think and I start remember
-That we are just a...
+That we are just a
 
 
 Weekend love

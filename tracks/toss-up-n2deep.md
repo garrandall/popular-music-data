@@ -29,8 +29,8 @@ You booty looked real good today
 You know I'm ready to lay
 (Some pipe) yeah, the N2Deep type
 She said: Cool, bring someone from the crew
-I said okay, picked up  on my way
-I woulda got  but he was with some hoe
+I said okay, picked up on my way
+I woulda got but he was with some hoe
 So it's just me and the dog and we're ready to gee
 We picked the girl up and it was plain to see
 That she was down to spin around and all that

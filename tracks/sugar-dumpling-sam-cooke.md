@@ -45,7 +45,7 @@ rankings:
   start_date: '1965-09-18'
 ---
 
-Sugar dumpling, you're  my baby
+Sugar dumpling, you're my baby
 I love you in every way
 sugar dumpling, you're my baby
 my love grows stronger every day
@@ -67,7 +67,7 @@ and she hides two mercys
 one to hold my hand
 the other one to rub my hand
 
-Sugar dumpling, you're  my baby
+Sugar dumpling, you're my baby
 I love you in every way
 sugar dumpling, you're my baby
 my love grows stronger every day
@@ -83,7 +83,7 @@ before I hang up to telephone
 she's sitting beside me
 with a cup of coffee in her hand
 
-Sugar dumpling, you're  my baby
+Sugar dumpling, you're my baby
 I love you in every way
 sugar dumpling, you're my baby
 my love grows stronger every day

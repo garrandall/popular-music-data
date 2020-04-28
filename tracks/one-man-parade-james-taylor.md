@@ -47,7 +47,7 @@ Honalei, it's raining, Honalei, it's raining muddy waters.
 
 Thinking 'bout a one man parade, y'all, nobody, nobody, nobody, nobody, hey.
 I'm right good at holding on, holding on, holding on.
-La la la la la...
+La la la la la
 
 
 

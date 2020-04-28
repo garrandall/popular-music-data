@@ -45,8 +45,8 @@ On my shoulders
 A family in crisis
 That only grows older
 Why’d you have to go?
-Why’d you have to go?
-Why’d you have to go?
+Why 'd you have to go?
+Why 'd you have to go?
 
 
 Daughter to father
@@ -68,15 +68,15 @@ I dream of another you
 One who would never
 Never leave me alone to pick up the pieces
 A daddy to hold me
-That’s what I needed
-So why’d you have to go?
-Why’d you have to go?
-Why’d you have to go?
+That 's what I needed
+So why 'd you have to go?
+Why 'd you have to go?
+Why 'd you have to go?
 
 
 Daughter to father
 Daughter to father
-I don’t know you
+I don 't know you
 But I still want to
 Daughter to father
 Daughter to father
@@ -91,13 +91,13 @@ Of a broken heart
 I... love you
 I... love you
 I... love you
-I...
+I
 I love you
 
 
 Daughter to father
 Daughter to father
-I don’t know you
+I don 't know you
 But I still want to
 Daughter to father
 Daughter to father

@@ -83,7 +83,7 @@ All you got to do is get up on it
 If you really, really want it
 All you got to do is get up on it
 
-The time has come for us, ohbaby
+The time has come for us, oh baby
 To get real busy baby, oh yes, it has, umm
 And you don't have to be afraid of our love, oh no
 'Cause it won't hurt you sugar

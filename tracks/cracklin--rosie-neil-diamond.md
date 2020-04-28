@@ -116,7 +116,7 @@ Girl, if it lasts for an hour, that's all right
 We got all night
 To set the world right
 Find us a dream that don't ask no questions
-Ba ba ba ba ba ...
+Ba ba ba ba ba
 
 
 

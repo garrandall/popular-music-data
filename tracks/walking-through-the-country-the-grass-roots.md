@@ -68,7 +68,7 @@ You're walkin' through the country
 You're walkin' through the country
 
 Singin'...
-Mmm-mm...
+Mmm-mm
 Keep walkin' baby
 
 I know there's someone, someone who needs you

@@ -66,7 +66,7 @@ Hey, we ain't stones, no, no, no, no, no, no, no, no, no (Oh, oh ooh
 
 Givers and takers (God is on our side), whoa, you heart breakers (God is on our side)
 We could break or make up, God is on our side, yeah
-Come on, mmm... hm... hm...
+Come on, mmm... hm... hm
 Come on, yeah, yeah
 
 Rolling down a mountainside

@@ -25,8 +25,8 @@ rankings:
   start_date: '1985-10-12'
 ---
 
-Mmm...hm...hm...mmm...hm...mmm...
-Mmm...mmm...
+Mmm...hm...hm...mmm...hm...mmm
+Mmm...mmm
 
 Tearin' me apart
 Somehow I just joined in

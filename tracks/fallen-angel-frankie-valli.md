@@ -40,10 +40,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
 ---
-You're home again, i'm glad you kept the key
+You're home again, I'm glad you kept the key
 Been waiting here, it seemed a million years to me
 But hush now I know you're all cried out
-It's all right inside, i've had no doubt
+It's all right inside, I've had no doubt
 About your love for me
 I can see behind the tears
 I'm certain of the way we feel

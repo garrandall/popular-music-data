@@ -55,7 +55,7 @@ We'll have a table for two
 They'll have a table for one
 We'll have a lot of laughs
 While some sing the blues
-Oo I love you and i'm thinking of you
+Oo I love you and I'm thinking of you
 Thinking of you
 Dreaming of you and the warmth of your touch
 Visions of you
@@ -68,16 +68,16 @@ Thinking of a girl that's devoted
 And will stand behind me
 100% and won't nag or remind me
 When my ideas are hopeless
-Or i'm on the wrong track
+Or I'm on the wrong track
 Instead she'll hold me in her arms
 Or massage my back
 And treat me like a king
 Make me feel kinda royal
-And when i'm on the road
+And when I'm on the road
 I know that she'll be loyal
 Because we first became friends
 Before our love grew
-Oo girl, yo i'm thinking of you
+Oo girl, yo I'm thinking of you
 Thinking of you
 Dreaming of you and the warmth of your touch
 Visions of you
@@ -95,13 +95,13 @@ Oo so beautiful
 A girl that looks good without make up
 Her beauty's deeper than skin
 Beyond the bone marrow
-And i'm choosy
+And I'm choosy
 So that path to my heart's kinda narrow
 And now that you've made it and your love is true
-Oo girl yeah im thinking of you
+Oo girl yeah I'm thinking of you
 You know dream girl
 You might be right in front of my eyes
 But I just don't see you
 But I want to let you know
-That i'm Yours
+That I'm Yours
 Sincerely

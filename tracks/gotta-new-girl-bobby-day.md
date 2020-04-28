@@ -12,7 +12,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
 ---
-Hm mmm...
+Hm mmm
 
 Oh, oh, oh...
 

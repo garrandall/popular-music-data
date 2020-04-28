@@ -89,7 +89,7 @@ rankings:
   start_date: '2003-09-06'
 ---
 
-I've found peace of mind, i'm feeling good again
+I've found peace of mind, I'm feeling good again
 I'm on the other side, back among the living
 Ain't a cloud in the sky
 All my tears have been cried

@@ -89,16 +89,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2007-02-10'
 ---
-(Lil Scrappy)
 Okay-kay-kay-kayyy, G's up, Lil Scrappy
 I got money
 BME (BME), money in the bank, G-Unit!
 
-(Chorus - 4X)
 I got money in the bank (yea)
 Shawty what you drank
 
-(Lil Scrappy)
 I'ma get that, dough and fuck with dem, hoes
 Young ladied that know me know Scrappy's a, pro
 Fill up at the, bar go get a mas-sage
@@ -116,8 +113,6 @@ If a nigga wanna talk, nigga we can let it bounce (bounce)
 Take it outside, nigga fuck fallin back
 Killers run up in the club, ballin with a bigger stack
 
-(Chorus - 2X)
-(Young Buck)
 Two step with me, let me show you how it goes
 
 The Murcielago, lemme show you how it rolls
@@ -137,8 +132,6 @@ It ain't 'bout where you from homeboy it's where you at
 Scrappy beat me on the dice, yeah it's cool I'll be back
 Cause I got
 
-(Chorus - 2X)
-(Lil Scrappy)
 50, got me, Lil Jon, got me
 I got a big-ass squad, how you gon' stop me
 Y'all niggas, watch me, rise to the, top
@@ -147,5 +140,3 @@ Lil Jon, got me, 50, got me
 I got a big-ass family, how you gon' stop me
 Y'all niggas, watch me, rise to the, top
 My shit gon', sell, yo' shit gon', flop
-
-(Chorus - 2X)

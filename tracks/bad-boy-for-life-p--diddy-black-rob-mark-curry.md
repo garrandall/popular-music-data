@@ -73,7 +73,7 @@ Nothing but big thangs, check the hitlist
 How we twist shit, what change but the name?
 We still here, you rocking wit the best
 Don't worry if I write rhymes, I write checks (ah!)
-Who's the boss?  Dudes is lost
+Who's the boss? Dudes is lost
 Don't think cause I'm iced out, I'm gonna cool off
 Who else but me? (who else?) And if you don't feel me
 that mean you can't touch me, it's ugly, trust me
@@ -103,7 +103,7 @@ Still turn niggas dreams to flames (yeah)
 You got the wire, if not I ain't saying no more names
 You soon expire; (heh) no pain (nuh-uh)
 I feel remorse, the shit causes me and Diddy up first
-Racing Porsches wit the beat swing vaul exhausters  (yeah)
+Racing Porsches wit the beat swing vaul exhausters (yeah)
 On the cover of ya five (hehe) XXL's or (yeah) Source's (c'mon) bitch
 
 

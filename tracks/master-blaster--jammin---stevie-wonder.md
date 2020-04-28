@@ -110,9 +110,9 @@ Marley's hot on the box
 Tonight there will be a party
 On the corner at the end of the block
 
-Didn't know you 
+Didn't know you
 Would be jammin' until the break of dawn
-I bet nobody ever told you that you 
+I bet nobody ever told you that you
 would be jammin' until the break of dawn
 You would be jammin' and jammin' and jammin', jam on
 
@@ -125,7 +125,7 @@ Third World's right on the one
 Now's the time for celebration
 'Cause we've only just begun
 
-Didn't know that you 
+Didn't know that you
 Would be jammin' until the break of dawn
 Bet you nobody ever told you that you
 Would be jammin' until the break of dawn
@@ -156,20 +156,20 @@ Would be jammin' until the break of dawn
 Oh, Oh, Oh, Oh, Oh, you
 (We're in the middle of the makin's of the master blaster jammin')
 Would be jammin' until the break of dawn
-Don't you stop the music, oh no, 
+Don't you stop the music, oh no,
 (We're in the middle of the makin's of the master blaster jammin')
-Na, na na...
+Na, na na
 (We're in the middle of the makin's of the master blaster jammin')
-Nobody told you Oh, Oh, Oh, you 
+Nobody told you Oh, Oh, Oh, you
 (We're in the middle of the makin's of the master blaster jammin')
 Would be jammin' until the break of dawn
-I bet you if someone approached you 
+I bet you if someone approached you
 (We're in the middle of the makin's of the master blaster jammin')
 yesterday to tell you that you would be jammin' you would not believe it because you never thought that you would be jammin'
 Oh, Oh, Oh, Oh,
 (We're in the middle of the makin's of the master blaster jammin')
 jammin' 'til the break of dawn
-Oh, Oh, Oh, You may as well believe what you are feeling 
+Oh, Oh, Oh, You may as well believe what you are feeling
 (We're in the middle of the makin's of the master blaster jammin')
 because you feel your body jammin'
 (We're in the middle of the makin's of the master blaster jammin')

@@ -56,9 +56,9 @@ Alimony mean all the money
 Ha, ha, ha, ha
 
 Didn't I make you feel
-Like you were the only man  (The only man in you life)
+Like you were the only man (The only man in you life)
 Didn't I give you everything
-That a woman possibly can  (Mmm)
+That a woman possibly can (Mmm)
 
 But for all the love I gave ya
 It's never enough (Not enough)
@@ -91,7 +91,7 @@ Easy on the tears, oops, man, you soil my suit
 Do yourself a favor and find a new recruit
 And don't take it personal because you got the boot
 
-You're out on the streets  (Absolutely)
+You're out on the streets (Absolutely)
 And you know deep down in you heart that that ain't right (Come on, come on)
 And, oh, you never, never hear me when I cry at night
 I tell myself, that I can stand the pain

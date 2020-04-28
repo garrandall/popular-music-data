@@ -91,9 +91,9 @@ rankings:
  Yo Big wake up wake up baby
  Mmm, yo...
  Yo Big wake yo' ass up c'mon
- I'm up!  I'm up.  *mumbling* I'm up I'm up
+ I'm up! I'm up. *mumbling* I'm up I'm up
  Big, wake up!
- I'm up baby, what the fuck, man?  What's up?
+ I'm up baby, what the fuck, man? What's up?
  C'mon now it's a quarter to six we got the 7:30 flight
  Mmm, *mumbling* yeah
  Yo Big Big, Big

@@ -35,7 +35,7 @@ Wake it up, wake up the happiness
 Come on all, it's Christmas time
 Shake it up, shake up the happiness
 Wake it up, wake up the happiness
-Come on  all, it's Christmas time
+Come on all, it's Christmas time
 Ho, ho, ho,
 Ho, ho, ho,
 It's Christmas time

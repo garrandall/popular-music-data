@@ -30,7 +30,9 @@ Forgotten memory, when you were
 What was meant for me, a stranger
 With a place to always be
 
-Hearts away (x3)
+Hearts away
+Hearts away
+Hearts away
 
 Cast away, I cast my heart away each
 Time I think I see
@@ -40,7 +42,9 @@ And today, I cry myself to sleep each night
 I only wish, I'd wake to see you lying next to me
 I know I'm sure it's killing me
 
-Hearts away (x3)
+Hearts away
+Hearts away
+Hearts away
 
 Oh I wanna know
 All the times I held you near me
@@ -55,4 +59,7 @@ To some forgotten memory
 When you were what was meant for me
 A stranger with a place to always be
 
-Hearts away (x4)
+Hearts away
+Hearts away
+Hearts away
+Hearts away

@@ -85,19 +85,19 @@ Oh oh
 I hit the brakes for an old New Holland, hammered down and passed him on up, The breeze smeels like a summertime hay field thats just been cut.
 I got the windows down way out of town
 Singing oh
-Freedom is the miles im rolling on
+Freedom is the miles I'm rolling on
 
 Ohhhhhh
 Out here cruising to a backroad song
 I feel the wheels like a melody, like a radio dialing in strong, come on come on, sing along sing along to my backroad song.
 
 Oh oh
-The only way today could get better, girl what im thinking, is I can pick you up you slide in this truck and I can hear you singin'
+The only way today could get better, girl what I'm thinking, is I can pick you up you slide in this truck and I can hear you singin'
 Oh
 Let me hear you singin'
 Oh
 Oh
-Freedom is the miles im rolling on
+Freedom is the miles I'm rolling on
 Oh
 
 Out here cruising to a backroad song

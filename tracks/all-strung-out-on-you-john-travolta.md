@@ -44,7 +44,7 @@ I just can't get enough of you, baby
 There just ain't enough of you to go around
 And just when I'm needing you, baby
 You ain't nowhere to be found
-Baby, it's getting' me down, because I'm...
+Baby, it's getting' me down, because I'm
 
 All strung out on you, baby
 All strung out on you, baby
@@ -57,7 +57,7 @@ It hurts when you needle me, baby
 But I'd rather have the pain then lose your love
 I know you're no good for me, baby
 But I'll keep trippin' around
-Trackin' you all over town, because I'm...
+Trackin' you all over town, because I'm
 
 I love you
 Just the way you are
@@ -65,7 +65,7 @@ Like a little fallen star
 I'm gonna catch you someday
 (Gonna catch you someday)
 And you'll never get away
-(Never get away), because I'm...
+(Never get away), because I'm
 
 I'm all strung out on you, baby
 All strung out on you, baby

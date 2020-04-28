@@ -96,7 +96,7 @@ Have you no idea that you're in deep?
 I've dreamt about you nearly every night this week
 How many secrets can you keep?
 'Cause there's this tune I found
-That makes me think of you somehow an' I play it on repeat
+That makes me think of you somehow and I play it on repeat
 Until I fall asleep, spillin' drinks on my settee
 
 
@@ -120,7 +120,7 @@ Crawlin' back to you
 So have you got the guts?
 Been wonderin' if your heart's still open
 And if so, I wanna know what time it shuts
-Simmer down an' pucker up, I'm sorry to interrupt
+Simmer down and pucker up, I'm sorry to interrupt
 It's just I'm constantly on the cusp of tryin' to kiss you
 I don't know if you feel the same as I do
 But we could be together if you wanted to

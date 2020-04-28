@@ -61,7 +61,7 @@ rankings:
   start_date: '1968-11-16'
 ---
 I wanna tell you all the story 'bout
-A Harper Valley widowed  wife
+A Harper Valley widowed wife
 Who had a teenage daughter
 Who attended Harper Valley Junior High
 Well her daughter came home one afternoon

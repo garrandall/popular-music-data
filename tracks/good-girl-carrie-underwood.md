@@ -115,7 +115,7 @@ He's no good, girl
 No good for you
 You better get to getting on your goodbye shoes and go, go-o-o, go-o-o-o...
 Better listen to me
-He's a low, low, low...
+He's a low, low, low
 
 Hey, good girl (hey, good girl)
 You got a heart of gold

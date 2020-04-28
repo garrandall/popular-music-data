@@ -99,7 +99,7 @@ I'll be the one to take you through the night
 Whenever you need shelter
 I'll make everything alright
 Make everything alright, yeah
-Na na na na na na...
+Na na na na na na
 
 I got arms strong enough to hold you
 Get you through anything you go through
@@ -120,7 +120,7 @@ I'll be the one to take you through the night
 Whenever you need shelter
 I'll make everything alright
 Make everything alright, yeah
-Na na na na na na...
+Na na na na na na
 
 I'll be your shelter, I'll be you shelter Baby
 
@@ -133,4 +133,4 @@ I'll be the one to take you through the night
 Whenever you need shelter
 I'll make everything alright
 Make everything alright, yeah
-Na na na na na na...
+Na na na na na na

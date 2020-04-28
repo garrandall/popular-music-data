@@ -94,7 +94,6 @@ Wanna cherish each moment like the last
 Cause baby you're all that I have
 So just in case
 
-
 Think of how we made love almost anywhere
 Haven't I taken you almost everywhere
 Think of all the things that, that we shared
@@ -106,13 +105,11 @@ Baby I'll do magic
 I'll do all I can, to keep you satisfied
 So just in case I don't make it home tonight, baby
 
-(Chorus) x2
 Haven't I made you feel so special
 As your man I've held your hand
 Never letting go
 Let you hold the keys to the Lex, huh to drive
 Gave you all you need and more as long as I'm alive
-
 
 Even from the heavens up above
 I'll shine out our love
@@ -122,7 +119,6 @@ Even when I'm gone, your love will carry on
 It's just that strong
 So just in case
 
- x2
 Baby, you know I love you
 More than anything in this whole world
 You're my anything, my everything

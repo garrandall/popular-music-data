@@ -111,7 +111,7 @@ Who's gonna give B2K what they need?
 
 I need a thick with big hips that's just my motivation
 No more game preparation, this is pimperation
-She must be ready and steady for a grown man  session
+She must be ready and steady for a grown man session
 I'm talkin' willin' to learn, A Lil Fizz lesson
 Now she playin' at it again and now we arguin'
 Talkin' girls talk mess and tellin' all her friends

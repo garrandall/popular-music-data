@@ -110,5 +110,5 @@ They realized what they had (Until the sun falls from the sky)
 
 Oh my Lord, you sent your son to save us (Oh praise the lord)
 Oh my Lord, your very self you gave us (This day will live forever)
-Oh my Lord, that sin may not enslave us  (So praise the lord)
+Oh my Lord, that sin may not enslave us (So praise the lord)
 And love may reign once more

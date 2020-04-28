@@ -151,7 +151,7 @@ I'll be your eyes 'til yours can shine
 I'll be your arms, I'll be your steady satellite
 And when you can't rise
 Well, I'll crawl with you on hands and knees
-'Cause I...
+'Cause I
 
 
 I'm gonna stand by you

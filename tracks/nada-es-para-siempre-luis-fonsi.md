@@ -14,7 +14,7 @@ rankings:
 ---
 Nada es para siempre amor
 Hoy nos toca compartir la misma luna
-Y mañana quién sabrá si hay una separación o habrá fortuna...
+Y mañana quién sabrá si hay una separación o habrá fortuna
 Nadie sabe amor
 Nadie sabe qué podrá pasar mañana
 Quiero amarte hoy

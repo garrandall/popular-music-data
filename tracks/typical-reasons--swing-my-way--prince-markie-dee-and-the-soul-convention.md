@@ -64,8 +64,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-07-03'
 ---
-Verse One: (Markie Dee)
-
 One minute you're so fly and now you're busted
 Sweetheart, we got a lot to discus kid
 Your relationship is wavering
@@ -83,7 +81,6 @@ Mark my words you're gonna get hurt
 Does your man abuse you physically or mentally?
 Change what I put, slavery you need to be free
 
-
 So maybe you need to swing my way
 Markie Dee can do you right in a fly way
 I'm the one you should chose
@@ -93,8 +90,6 @@ Maybe you need to swing my way
 Markie Dee can do you right in a fly way
 Not like the man you're with now, I keep my hands to myself
 So maybe you need to swing my way
-
-Verse Two:
 
 Mistreated you like a towel
 And when he gets busted he thinks that he's an owl
@@ -113,9 +108,6 @@ He tells you in a flame way
 Now you're crying on the floor
 Your man's no damn good, need I say more?
 
-
-Verse Three:
-
 Now I'm not saying I'm an angel, I got many associates
 I treat them all right and appropriate
 I'm not talking marriage and settling down
@@ -132,7 +124,5 @@ On a real man. I won't stress you or keep sweating it
 I'll buy your clothes but pay your rent it's kind of pressin it
 So tell me, who do you chose?
 Here's an alter way then either win or can lose
-
-Chorus (x4)
 
 Maybe you need to swing my way

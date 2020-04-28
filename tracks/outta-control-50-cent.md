@@ -23,7 +23,7 @@ Set it off
 Nigga I said set it off!
 
 
-Ha ha...
+Ha ha
 Sick with it, boy better get with it, what?
 In the club I get it goin, goin, uh
 Just movin to the music it's on

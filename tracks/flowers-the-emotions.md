@@ -45,7 +45,7 @@ Life ain't a four leaf clover, oh(Ohoohhoh oh)oh
 Love is a flower, from that a bud
 To spread its sunshine and make us love
 Beautiful colors shinin' though
- Bless you, brother,  God is watching you, woo
+ Bless you, brother, God is watching you, woo
 
 Think it over (Oh, ho, ho), oh
 Life ain't a four leaf clover (No-no-no-no-no-no-no), oh

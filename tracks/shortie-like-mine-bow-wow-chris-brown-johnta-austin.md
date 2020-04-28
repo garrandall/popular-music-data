@@ -132,7 +132,7 @@ And I don't mind 'cause she mine (Say what?)
 Only thing that keeps me up (Up), when I'm feeling down (Yeah)
 I don't know about you, but I gotta keep mines around
 'Cause I done looked, I done searched, and it's hard to find
-Another shorty like mine (Uh-huh), baby, yes, I'm (Oh and i'm so addicted)
+Another shorty like mine (Uh-huh), baby, yes, I'm (Oh and I'm so addicted)
 Addicted to how we kick it, everything you say to me (Don't be afraid to snap your fingers)
 Never knew it could be so wicked, hoping that you stay with me
 Search around the world but you will never find

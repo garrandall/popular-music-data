@@ -72,8 +72,8 @@ This is the room
 Where I sat and waited till the morning
 Watching the door
 You slammed so hard it broke the window
-Up and down, ive climed these walls
-It seems im trapped inside this
+Up and down, I've climed these walls
+It seems I'm trapped inside this
 
 House full of reasons
 I should be movin on
@@ -88,7 +88,7 @@ And smile away through all the trouble
 Side to side
 The clock on the wall
 Reminding me by the hour
-Theres a ...
+Theres a
 
 House full of reasons
 I should be movin on
@@ -96,7 +96,7 @@ You had me believing
 This is the way love goes
 Off and on among normal people
 
-All day ...
+All day
 And when its dark
 It seems theres nothing here but
 Nothing here but

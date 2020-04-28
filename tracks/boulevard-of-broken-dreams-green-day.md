@@ -166,7 +166,7 @@ And I'm the only one and I walk alone
 I walk alone
 I walk alone
 I walk alone
-I walk a...
+I walk a
 
 My shadow's the only one that walks beside me
 My shallow heart's the only thing that's beating
@@ -189,7 +189,7 @@ To know I'm still alive and I walk alone
 I walk alone
 I walk alone
 I walk alone
-I walk a...
+I walk a
 
 My shadow's the only one that walks beside me
 My shallow heart's the only thing that's beating
@@ -200,12 +200,12 @@ Ah-ah, ah-ah, ah-ah, ah-ah
 Ah-ah, ah-ah
 
 I walk alone
-I walk a...
+I walk a
 
 I walk this empty street
 On the Boulevard of Broken Dreams
 Where the city sleeps
-And I'm the only one and I walk a...
+And I'm the only one and I walk a
 
 My shadow's the only one that walks beside me
 My shallow heart's the only thing that's beating

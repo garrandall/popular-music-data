@@ -112,5 +112,5 @@ Salvation in the blues
 You never looked like an angel
 Yeah yeah...angel of Harlem
 
-Angel...angel of Harlem...
+Angel...angel of Harlem
 

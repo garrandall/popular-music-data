@@ -15,7 +15,7 @@ rankings:
 
 
 Is that India.Arie? What happened to her hair? Ha ha ha ha ha
-Dat dad a dat da  Dad a oh
+Dat dad a dat da Dad a oh
 
 
 Little girl with the press and curl

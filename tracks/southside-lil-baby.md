@@ -47,7 +47,7 @@ Fuck it up in the Gucci store, them M's in (M's in)
 Bad bitch lookin' like Bernice, I call her Slim Jim (Slim Jim)
 I just want push start on my car
 Shoutout the hood, they know I'm a god
-They know what we  bang wherever we are
+They know what we bang wherever we are
 I just took these cuts on stage
 Look at these VVS' in my chain
 I'm doing better, I can't even complain (nah)

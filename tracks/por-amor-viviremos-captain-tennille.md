@@ -81,7 +81,7 @@ Ba ba ba, whatever
 Yo soy (ever) yo soy (ever)
 Yo soy (ever) yo soy (ever)
 
-Da da da da...
+Da da da da
 
 Yo soy, que yo si te quiero
 Yo. que te necesito
@@ -93,7 +93,7 @@ Ba ba ba, whatever
 Yo soy (ever) yo soy (ever)
 Yo soy (ever) yo soy (ever)
 
-Da da da da...
+Da da da da
 
 
 

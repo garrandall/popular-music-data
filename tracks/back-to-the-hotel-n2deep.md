@@ -166,11 +166,11 @@ New cock (echoes)
 
 
 Aw naw, could it be?
-I just got a page an' a broad wanna do me
+I just got a page and a broad wanna do me
 Hooked it up, told her meet me at the hotel
 She had a friend with her so I called TL
 Swoop me up, Sally wanna meet Dick
-And might lick, so try an' make it real quick
+And might lick, so try and make it real quick
 
 
 (tick-tock)
@@ -191,6 +191,6 @@ But lay low cause I really don't wanna be seen
 (Is this the room?) Aw yeah, that's the right one
 I got the black broad and you got the white one
 So hit the light man, I just might man
-Try an' throw this thing all night an'
+Try and throw this thing all night an'
 Get her so sprung, that she'll drop some mail
 So I can cut turf and hit another hotel

@@ -12,7 +12,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1995-07-29'
 ---
-Hey...hey...hey...whoa...whoa...
+Hey...hey...hey...whoa...whoa
 Oh...
 
 You can think that I'm just playin' games

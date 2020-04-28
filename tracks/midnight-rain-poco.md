@@ -36,7 +36,7 @@ You've gone running all alone
 I 've still got these feelings left
 Living in my heart and in my head
 Breaking from the past I've come to know at last
-Only a fool  would stay
+Only a fool would stay
 Stay and pretend
 Only a fool would stay
 Stay and pretend

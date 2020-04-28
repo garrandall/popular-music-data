@@ -55,4 +55,4 @@ And all the smiles that are ever going to haunt me
 Never coming home never coming home
 Could I? Should I?
 And all the wounds that are ever gonna scar me
-For all the ghosts that are never gonna...
+For all the ghosts that are never gonna

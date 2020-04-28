@@ -114,7 +114,7 @@ Cuz we fit together like a hand in glove
 Just to be with you is all I'm thinkin' of
 Oh oh yeah
 What else can I say baby oh baby
-We are alone and i'm singing this song to you
+We are alone and I'm singing this song to you
 
 My darling, oh baby
 You're all I'm thinking of now

@@ -86,4 +86,4 @@ And all the haters, I swear they look so small from up here
 A lot bigger
 Im bigger
 Your bigger
-Whoa...
+Whoa

@@ -80,11 +80,11 @@ They try to chop it up but
 Aint the karate kid
 
 Save it
-Everyday im spending more on her
+Everyday I'm spending more on her
 I don't buy shit
 Like I barely hold the door open
 And everytime I say this
-Shit I always get a ...
+Shit I always get a
 When it comes to taxes
 A nigga gon' be done for.
 
@@ -120,7 +120,7 @@ Pull out more stacks
 
 Over drawn, low funds
 
-Its, its like i've done
+Its, its like I've done
 But I put her right back
 Cos your boy is sprung
 See she is so 'damn fine'

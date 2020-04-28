@@ -80,7 +80,7 @@ Huh ha ha ha ha huh what you say pick you up at eight
 And don't be late you gotta be joking woman
 I thought you might pick me up at eight don't be late
 It don't make no difference baby you know what Jerry Lee likes
-Chantilly lace (chantilly lace)  pretty face (chantilly lace)
+Chantilly lace (chantilly lace) pretty face (chantilly lace)
 Pony tail hanging down (chantilly lace)
 A wiggle in her walk (chantilly lace) giggle in her talk (chantilly lace)
 Oh it makes the world go around (chantilly lace)

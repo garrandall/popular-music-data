@@ -261,7 +261,7 @@ Have fun upon up in this dancery (Oh, yeah)
 We got ya open, now ya floatin'
 So you gots to dance for me (You gotta dance for me)
 Don't need no hateration (Just dance for me)
-Holleration in this dancery  (Just dance for me)
+Holleration in this dancery (Just dance for me)
 Let's get it percolatin', while you're waiting (Dance for me, dance for me, dance for me, yeah)
 So just dance for me
 
@@ -270,6 +270,6 @@ Have fun upon up in this dancery (C'mon yall, dance)
 We got ya open, now ya floatin' (Dance, dance, dance, dance)
 So you gots to dance for me
 Don't need no hateration
-Holleration in this dancery  (You don't need no hands)
+Holleration in this dancery (You don't need no hands)
 Let's get it percolatin', while you're waiting (We just want you all to holler, holler when you hear me, get it percolated)
 So just dance for me

@@ -98,7 +98,7 @@ I need a ruffneck
 I need a dude with attitude
 Who only needs his fingers with his food
 Karl Kani saggin' timbos draggin'
-Frontin' in his ride with  his home boys braggin'
+Frontin' in his ride with his home boys braggin'
 Lying 'bout the Lyte how he knocked boots last night
 But he's a ruffneck so that's alright
 Triple o baldie under the hood
@@ -127,7 +127,7 @@ Drinkin' a beer, sittin' his chair
 Hands in his pants fiddlin' with his dick hairs
 He's a rudeboy, a raggamuf
 Ready to bag another brother that he ranks ruff enough
-'Cause  if it ain't ruff it ain't right
+'Cause if it ain't ruff it ain't right
 And if he ain't ruff, well then he's all wrong for the Lyte
 I love my ruffneck and ain't nothing going down
 Or going up if my ruffneck ain't in town
@@ -138,7 +138,7 @@ She'd tears or switch
 Doin' whatever it takes to make ends meet
 But never meetin' the end 'cause he knows the street
 Eat sleep shit fuck, eat sleep shit
-Then it's  back to the streets to make a buck quick
+Then it's back to the streets to make a buck quick
 Quick to beg even though gimme gottem here
 Hit'em wit a bit a skins then he's out of there
 On the avenue girls are passin' thru

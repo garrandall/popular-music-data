@@ -76,7 +76,7 @@ In a Hicktown.
 Well, you can see the neighbors butt crack nailing on his shingles,
 An' his woman's' smokin' Pall Mall's watchin' Laura Ingalls.
 An' Granny's getting' lit, she's headin' out to bingo.
-Yeah, my buddies an' me are goin' muddin' down on Blue Hole Road.
+Yeah, my buddies and me are goin' muddin' down on Blue Hole Road.
 
 You know, you know, we let it rip when we got the money...
 Let it roll if we got the gas.

@@ -92,7 +92,7 @@ I'm begging you to stay
 'Cause I can't make it on my own
 
 So please don't deny me
-Because I...
+Because I
 Reaching out for your love
 Won't you touch me baby, baby
 (Touch me baby)

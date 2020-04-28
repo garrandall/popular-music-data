@@ -29,7 +29,6 @@ And now your baby ain't nowhere around, yeah
 Now you think you're in despair
 You feel that still the cold light's clinging in the air, yeah
 
-(Chorus)
 Love's a game you're in it
 And you were so proud of it
 Someone you can't depend on
@@ -44,5 +43,3 @@ How you think I'm over you
 You left me there you never said a word except that we're through, yeah
 You didn't fight it all the way
 Oh I don't care you just don't mean that much to me this way, yeah
-
-(Chorus X 2)

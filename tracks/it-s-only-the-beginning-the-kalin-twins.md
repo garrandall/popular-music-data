@@ -48,7 +48,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-03-16'
 ---
-(Chorus)
 It's only the beginning
 It's only the beginning of a love
 That will never end
@@ -58,16 +57,13 @@ Every time your lips touch mine
 There's no thrill that is more divine
 Silly girl, can't you feel, don't you know
 We've got a long way to go
-(We've got a long way to go)... cause...
+We've got a long way to go... cause...
 
-(Repeat Chorus)
 
 It's not hard to understand
 Why I hold my breath when I hold your hand
 Silly girl, when I'm so close to you
 Well, what'd you expect me to do
-
-(Repeat Chorus)
 
 I know what we've got in store
 Fortune tellers couldn't tell us more

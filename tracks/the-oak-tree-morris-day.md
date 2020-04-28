@@ -69,7 +69,7 @@ I'll put you to the test
 Ain't nobody better
 Is what they're telling me
 "Say, morris, what's that dance you're doing?"
-Well i'm doing the Oak tree haha
+Well I'm doing the Oak tree haha
 
 
 (Oak Tree!) I'll put you to the test
@@ -133,14 +133,14 @@ Everybody sing together
 I'll put you to the test
 (Oak Tree)
 (Oak Tree)
-You know that i'm the best
+You know that I'm the best
 
 (Oak Tree)
 (Oak Tree)
 It's different but it's cool
 (Oak Tree)
 (Oak Tree)
-What i'm telling you
+What I'm telling you
 
 Oh let's organize?
 I want everybody to sing
@@ -150,14 +150,14 @@ I want everybody to sing
 I'll put you to the test
 (Oak Tree)
 (Oak Tree)
-You know that i'm the best
+You know that I'm the best
 
 (Oak Tree)
 (Oak Tree)
 It's different but it's cool
 (Oak Tree)
 (Oak Tree)
-What i'm telling you
+What I'm telling you
 
 (Oak Tree)
 (Oak Tree)

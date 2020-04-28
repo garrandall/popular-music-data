@@ -146,7 +146,7 @@ Bye bye, bye bye
 (American woman)
 You're no good for me and I'm no good for you
 (American woman)
-I look you right straight in the eye an' tell you what I'm gonna do
+I look you right straight in the eye and tell you what I'm gonna do
 
 (American woman)
 I'm gonna leave you woman, you know I gotta go

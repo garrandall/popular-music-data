@@ -48,7 +48,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-01-19'
 ---
-Da da da da...
+Da da da da
 Tell her
 Tell her she's lovely
 Tell her

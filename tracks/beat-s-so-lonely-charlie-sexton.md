@@ -160,7 +160,14 @@ She paid dearly for the answers of her days
 Answers of her days
 Answers of her days
 
-So lonely (x8)
+So lonely
+So lonely
+So lonely
+So lonely
+So lonely
+So lonely
+So lonely
+So lonely
 
 Come on baby
 You know there's something missing
@@ -176,5 +183,3 @@ Beat's so lonely
 I bet she's lonely at the top
 So lonely at the top
 So lonely
-
-So lonely (x10)

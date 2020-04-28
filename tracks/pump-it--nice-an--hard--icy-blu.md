@@ -69,4 +69,4 @@ We're were gettin' in to it and before I knew it we'd been pumpin' for an hour
 I was drippin' sweat, my clothes soakin' wet, when a request came from my partner
 He said you're doin' good but baby if you could, please pump it, pump it nice 'n' hard (pick up on me)
 
-(Pump it, pump it, pump it, pump it nice 'n' hard) Pick up on me ...
+(Pump it, pump it, pump it, pump it nice 'n' hard) Pick up on me

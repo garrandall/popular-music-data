@@ -62,7 +62,7 @@ I'm doing my best
 I'm at the borderline of my faith
 I'm at the hinterland of my devotion
 I'm in the front line of this battle of mine
-But i'm still alive
+But I'm still alive
 I'm a soldier of love
 Every day and night
 I'm a soldier of love

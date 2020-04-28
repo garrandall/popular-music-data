@@ -102,7 +102,7 @@ I saw hoes on the flo'
 Niggas dressed in suits
 Tricking all dey doe
 Me imma pimp
-I aint  paying for no sex
+I aint paying for no sex
 Man I'd rather buy a car
 Or a new rolex
 Cause I got street fame
@@ -140,7 +140,7 @@ This is the song
 Tell the DJ put it on
 Micheal Tyler made you shake
 Sisqo made you show your thong
-Bitch im dead wrong
+Bitch I'm dead wrong
 The playa from the crib
 So get out on the flo'
 And girl get it how you live

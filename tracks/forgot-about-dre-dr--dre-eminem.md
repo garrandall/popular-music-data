@@ -99,15 +99,15 @@ Hamurumun donmasına izin vereceğimi mi düşünüyorsunuz? Oh lütfen...
 Ot içmeyi sana kim öğretti sanıyorsun?
 Eskileri piyasaya kim kazandırdı sanıyorsun?
 Eazy-E’leri, Ice Cube’ları ve D.O.C.’leri
-Snoop D-O double G’leri
+Snoop D-O double G 'leri
 Ve “Fuck tha Police” diyen grubu...
 Sağlam beatlerle dolu olan bir kaset verdi
 Kendi mahallende dolaşırken sesi sonladığın
 Ve albüm satışlarının iyi gitmediği zaman kimdi gidip görmen gerektiği söylenen Doktor?
 Dikkatli dinlesen iyi olur
 Siz zenciler popa doğru kaydığımı söylediniz
-Ve de The Firm’ün flop olduğunu
-Sizler Dre’nin uyumamasının sebebisiniz
+Ve de The Firm 'ün flop olduğunu
+Sizler Dre 'nin uyumamasının sebebisiniz
 Bu yüzden sikeyim sizi, hepinizi
 Beni sevmiyorsan sikimi yala
 Benimle dalga geçin ve beni eski bene döndürün
@@ -116,11 +116,11 @@ Benimle dalga geçin ve beni eski bene döndürün
 Son günlerde herkes söyleyecek bir şeyleri varmış gibi konuşuyor
 Ama dudaklarını oynattıklarında ağızlarından bir şeyler çıkmıyor
 Sadece bir avuç saçmalık
-Ve orospu çocukları Dre’yi unutmuş gibi davranıyorlar
+Ve orospu çocukları Dre 'yi unutmuş gibi davranıyorlar
 Son günlerde herkes söyleyecek bir şeyleri varmış gibi konuşuyor
 Ama dudaklarını oynattıklarında ağızlarından bir şeyler çıkmıyor
 Sadece bir avuç saçmalık
-Ve orospu çocukları Dre’yi unutmuş gibi davranıyorlar
+Ve orospu çocukları Dre 'yi unutmuş gibi davranıyorlar
 
 
 O halde nefret ettiğin birisine ne dersin
@@ -139,7 +139,7 @@ Körkütük sarhoş olduğumda Dodge park ederkenki halimden daha da kötüyüm 
 Seni de sikeyim fahişe, polisi ara
 Seni ve gürültüyle havlayan piç köpeğini öldüreceğim
 Ve polisler geldiğinde
-Ben ve Dre yanan evin  yanındaydık
+Ben ve Dre yanan evin yanındaydık
 Gaz dolu bir kutu ve bir avuç kibritle
 Ve hala suçlusu öğrenilmedi (aslında burada)
 Gerçek Chronic II burada
@@ -156,10 +156,10 @@ Sorun değil onunla gidebilirsin Hailie (baba)
 Bana kalırsa, siz orospu çocukları bana geleni durdurmayı isterdiniz
 Ellerinizi kaldırıp bana taparcasına bakarken
 Bazı şeyleri ücretsiz istiyor gibisiniz
-Son CD’m çıktığında beni dinlemiyordun
+Son CD 'm çıktığında beni dinlemiyordun
 Ama şimdi bu küçük şirkete sahibim
 Herkes bana gelmek istiyor sanki birer hastalıkmış gibi
-Çünkü ben Compton’ın sokaklarından çıktım
+Çünkü ben Compton 'ın sokaklarından çıktım
 Hepsine söyledim, bütün küçük gangsterlere
 Onların belli bir kalıba gelmiş olmalarına kim yardım etti sanıyorsun
 Şimdi ortalıkta silahlardan bahsedip koşturuyorsun sanki benim hiç yokmuş gibi
@@ -168,7 +168,7 @@ Ne düşünüyorsun onları sattım, çünkü uzak duruyorum
 Bir kalem ve yastıkla laboratuvarda olmamın nedeni ne?
 Bu kapanmış etiketi tekrar elde etmek
 Buna sahip değilim
-Bu Aftermath’in Milenyumu
+Bu Aftermath 'in Milenyumu
 Bundan sonra hiçbir şey aynı olmayacak
 Bu yüzden bana bir Platinum daha plak ver ve rapi sikeyim, sonra geri alırsın
 O halde Mad Rapper'lar nerede

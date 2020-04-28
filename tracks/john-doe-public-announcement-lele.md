@@ -68,7 +68,7 @@ Because you are guilty of the John Doe crime
 (PA)
 Who was that girl that paged you?
 (Uh, I don't know)
-Who was the girl that called  you?
+Who was the girl that called you?
 (Uh, I don't know)
 Who was the girl that waved at you?
 (I don't know)

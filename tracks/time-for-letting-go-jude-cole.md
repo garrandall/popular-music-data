@@ -106,7 +106,7 @@ The time is telling me its time for letting go
 
 Let it go
 I keep tellin myself over and over
-Let it go ...
+Let it go
 But my loves still strong
 But I just can't keep holding on
 And holdin on and holdin on

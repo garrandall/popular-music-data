@@ -87,7 +87,7 @@ The freeway getting chased by some bad bitches
 wanting autographed pictures (oh)
 They want my name tattooed on them
 thinkin for a minute hit that ass make a move on them
-Hey!  Hennessey with the chardonnay, mix it
+Hey! Hennessey with the chardonnay, mix it
 I put the trees in the ??, twist it (whooaa yeah)
 A true player smoking purple haze
 Two shots in the air for my true thugs out there

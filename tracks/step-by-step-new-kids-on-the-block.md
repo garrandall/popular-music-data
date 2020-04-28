@@ -68,14 +68,14 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-09-01'
 ---
-Step by step, ohbaby
+Step by step, oh baby
 Gonna get to you, girl
 Step by step, rah
 
 
-Step by step, ohbaby
+Step by step, oh baby
 Gonna get to you, girl
-Step by step, ohbaby
+Step by step, oh baby
 Really want you in my world
 
 
@@ -91,9 +91,9 @@ You're always on my mind
 Really think it's just a matter of time
 
 
-Step by step, ohbaby
+Step by step, oh baby
 Gonna get to you girl
-Step by step, ohbaby
+Step by step, oh baby
 Really want you in my world
 
 
@@ -109,9 +109,9 @@ You're always on my mind
 Really think it's just a matter of time
 
 
-Step by step, ohbaby
+Step by step, oh baby
 Gonna get to you girl
-Step by step, ohbaby
+Step by step, oh baby
 Really want you in my world
 
 
@@ -137,9 +137,9 @@ You're always on my mind
 Really think it's just a matter of time
 
 
-Step by step (Step by step, girl), ohbaby
+Step by step (Step by step, girl), oh baby
 Gonna get to you girl, to you girl
-Step by step, yeah, ohbaby
+Step by step, yeah, oh baby
 (I want you, I need you)
 Really want you in my world
 (I want you in my world)
@@ -148,6 +148,6 @@ Really want you in my world
 (Step by step) Oh, to you girl
 (Step by step) Oh girl
 Really want you in my world
-Step by step, ohbaby
+Step by step, oh baby
 Gonna get to you girl
-Step by step, ohbaby
+Step by step, oh baby

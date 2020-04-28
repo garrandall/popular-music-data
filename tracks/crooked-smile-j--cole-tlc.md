@@ -91,7 +91,7 @@ rankings:
 ---
 
 
-Even though I...
+Even though I
 
 
 On my way, on my way, on my way down

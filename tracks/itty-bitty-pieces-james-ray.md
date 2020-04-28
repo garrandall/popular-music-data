@@ -48,9 +48,9 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-06-09'
 ---
-(You're breaking me up
+You're breaking me up
 And I don't mean maybe
-It's too late)...
+It's too late...
 Little itty bitty pieces, baby
 
 First, you promise me your love
@@ -61,7 +61,6 @@ Then you say you're gonna thrill me
 And you just don't do it
 Let me tell you about my mind reactin' to it
 
-(Chorus)
 I'm about to...
 Go to pieces, go to pieces
 Go to pieces, wooooo
@@ -77,8 +76,6 @@ Now I've got to take some pills
 With tranquilizers in it
 That is what my family doctor recommended
 
-(Repeat Chorus)
-
 Today you want my love
 Tomorrow you don't want it
 When you know I'm mad about you
@@ -87,5 +84,3 @@ It's been a long, long time
 Since I waited on it
 Don't you know how much I need you
 Dog gone it
-
-(Repeat Chorus)

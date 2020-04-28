@@ -107,7 +107,7 @@ Don't know what I did
 To earn a love like this, but baby, I
 Must be doin' something right
 
-Anywhere you wanna go 
+Anywhere you wanna go
 Baby, show me the way
 I'm open to suggestions
 Mmm, whatever you say
@@ -119,7 +119,7 @@ And judging by the smile on your face
 
 
 Ah, Baby
-Mmm...
+Mmm
 
 I don't know what I did
 To earn a love like this, but baby, I

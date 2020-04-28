@@ -59,14 +59,14 @@ It doesn't matter to me
 'cause you're mine
 That's all I need to know
 The sunshine's everywhere we go
-It's so right cause i've got you to hold
+It's so right cause I've got you to hold
 Every night yeah
 I'm the lucky one
 I'm the lucky one
 
 Well I pulled back down to my upstreet apartment
 And the air never works in that old place
-Twenty-seven and I thought i'd be further along
+Twenty-seven and I thought I'd be further along
 Than just this rented space
 I got no papers to read
 I got no cable tv
@@ -76,7 +76,7 @@ I got no people to meet
 
 
 I'm on a roll
-When i'm with you
+When I'm with you
 Don't stop me now
 I just can't lose
 

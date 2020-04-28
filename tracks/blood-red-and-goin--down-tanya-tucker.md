@@ -62,7 +62,7 @@ That Georgia sun was blood red and goin' down
 That Georgia sun was blood red and goin' down
 
 With dusty teardrops on his face
-My daddy cried an' big steps he was takin'
+My daddy cried and big steps he was takin'
 Halfway runnin' to keep up
 My shorter legs were so tired and shakin'
 

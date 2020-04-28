@@ -160,7 +160,7 @@ Think that she knows, oh, oh
 
 And now I walk around without a care
 She's got me hooked
-It just ain't fair, but I...
+It just ain't fair, but I
 I'm love stoned and I could swear
 That she knows
 Think that she knows, oh, oh

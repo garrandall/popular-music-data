@@ -62,7 +62,7 @@ Ah-oo-ah
 Hey, that brung 'em all out
 Hey there! You with the bone in your nose
 Come over here a minute
-You seen a little white-haired old ma...
+You seen a little white-haired old ma
 Hey, Mister Livingston, I do presume
 C'mon buddy, I goin' to take you back to merry old England
 What do ya mean, you don't want to go back?

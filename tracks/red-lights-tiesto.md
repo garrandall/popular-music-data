@@ -63,10 +63,10 @@ rankings:
 
 Blacked out, everything's faded
 On your love I'm already wasted
-So close that I can taste it now... now...
+So close that I can taste it now... now
 
 So let's break right out of these gilded cages
-We're gonna make it now...
+We're gonna make it now
 Don't ever turn around
 Don't ever turn around
 

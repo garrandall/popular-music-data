@@ -55,4 +55,4 @@ It can warm your lonely nights
 You might need somebody
 You might need somebody too
 You might need somebody
-You might need somebody too ...
+You might need somebody too

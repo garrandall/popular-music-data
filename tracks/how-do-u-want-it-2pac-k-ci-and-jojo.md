@@ -174,11 +174,11 @@ Nigga, tell me how you want it
 
 
 How do you want it?
-How do you  feel?
+How do you feel?
 Comin' up as a nigga in the cash game
 Livin' in the fast lane, I'm for real
 How do you want it?
-How do you  feel?
+How do you feel?
 Comin' up as a nigga in the cash game
 Livin' in the fast lane, I'm for real
 

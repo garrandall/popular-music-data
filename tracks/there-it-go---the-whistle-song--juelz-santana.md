@@ -118,7 +118,7 @@ Baby don't stop now
 
 
 There it go
-Damn shorty look good and i'm thinkin bout gettin at her (okay)
+Damn shorty look good and I'm thinkin bout gettin at her (okay)
 Time to whistle at her
 Aye girl you make my whistle blow
 
@@ -129,12 +129,12 @@ Bring it here baby
 
 
 
-Top down and im at it again
-It's hot now and i'm at it to win
+Top down and I'm at it again
+It's hot now and I'm at it to win
 (you heard me)
 Who want it with me
 Nobody wanna it with me
-Oh im so fly
+Oh I'm so fly
 Oh Mami come n get me
 Sit it down
 Back up
@@ -145,7 +145,7 @@ Move it till you feel something hard on your back (Ugh)
 
 There it go
 If u want it come and get it
-I aint kiddin im wit it
+I aint kiddin I'm wit it
 Here it go (go)
 So Girl LET ME SEE YOU GET LOW
 There it go
@@ -161,7 +161,7 @@ A chiks up my G'd up swagger
 There it go
 
 There it Go
-Damn shorty look good and i'm thinkin bout gettin at her (okay)
+Damn shorty look good and I'm thinkin bout gettin at her (okay)
 Time to whistle at her
 Aye girl you make my whistle blow
 
@@ -191,7 +191,7 @@ Theres no skys a limit
 Till then
 Imma do imma do imma do ma thang
 So baby keep moving moving n moving your thang
-And that'll  keep you n you n you in the ring (or maybe not)
+And that'll keep you n you n you in the ring (or maybe not)
 
 Aye girl you make me want to know
 You do it like a pro lil lady
@@ -212,7 +212,7 @@ So take off dem clothes and UNdress Girl
 There it go
 
 There it Go
-Damn shorty look good and i'm thinkin bout gettin at her (okay)
+Damn shorty look good and I'm thinkin bout gettin at her (okay)
 Time to whistle at her
 Aye girl you make my whistle blow
 

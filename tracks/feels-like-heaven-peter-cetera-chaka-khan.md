@@ -73,7 +73,7 @@ I send to the sky
 All this time
 I've been searching
 Until you I was lost in my dreams
-And I  never knew that love could feel like heaven
+And I never knew that love could feel like heaven
 Watching over me
 
 Everything's changed

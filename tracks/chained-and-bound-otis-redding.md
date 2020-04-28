@@ -68,7 +68,7 @@ I'm chained, I'm chained and a little bound, now, now, now
 I'm chained, I'm chained to your love
 I don't, I don't know darling I wanna to be taken away, now
 Ou, just a little bit of soul
-Just a little bit of soul, now...
+Just a little bit of soul, now
 
 
 

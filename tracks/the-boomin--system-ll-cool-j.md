@@ -85,7 +85,7 @@ Big beats bumpin with the bass in back
 All the sophisticated suckers catch a heart attack
 Cos they don't understand why I act this way
 Pumpin up the funky beat until the break of day
-It's because I want attention when i'm ridin by
+It's because I want attention when I'm ridin by
 And the girls be on my jock cos my system's fly
 
 Girlies wanna ride with a brother like me
@@ -129,7 +129,7 @@ Tell the cops: you gots to chill with EPMD
 This is something devastatin that'll break your trunk
 And remember, Uncle L is like the future of the funk
 
-You know what i'm sayin
+You know what I'm sayin
 Word
 So next time you're in your ride pumpin it up
 Just remember

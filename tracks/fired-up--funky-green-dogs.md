@@ -73,11 +73,11 @@ You got me so
 
 When I see you, make me lose all control
 Like a fire burning deep in my soul, yeah
-And when I feel you it feels like i'm in heaven
+And when I feel you it feels like I'm in heaven
 It goes on forever like a dime on a roll
 And when I hear you calling it's like heaven
-I'll wait here forever till i'm out of the cold, yeah
-And when I hear you calling i'm in heaven
+I'll wait here forever till I'm out of the cold, yeah
+And when I hear you calling I'm in heaven
 We'll be there together, no I won't be alone
 
 You got me fired up, fired up

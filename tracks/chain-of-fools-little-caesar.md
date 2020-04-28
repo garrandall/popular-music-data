@@ -98,7 +98,7 @@ Chain, chain, chain
 Chain, chain, chain
 (Chain, chain, chain)
 Chain, chain, chain
-Chain of fools, whoa...
+Chain of fools, whoa
 
 Chain, chain, chain
 (Chain, chain, chain)

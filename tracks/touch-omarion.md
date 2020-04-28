@@ -23,7 +23,7 @@ rankings:
 Yeah, Lets get real comfortable
 Lay back
 What
-Lemmie tell you what i'm thinkin'
+Lemmie tell you what I'm thinkin'
 Look
 
 

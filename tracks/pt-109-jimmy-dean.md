@@ -64,13 +64,13 @@ And on the coast of Kolombangara looking through this telescope
 Australian Evans saw the battle for the crew had little hope
 Two were dead and some were wounded all were clinging to the bow
 Fightin' fire and flightin' water trying to save themselves somehow
-Smoke and fire upon the sea...
+Smoke and fire upon the sea
 
 McMahon the Irishman was burned so badly he couldn't swim
 Leave me here go on he said cause if you don't we'll all be dead
 The PT skipper couldn't leave him a man to die alone at sea
 And with a strap between his teeth he towed the Irishman through the sea
-Smoke and fire upon the sea...
+Smoke and fire upon the sea
 
 He led his men through waters dark rocky reefs and hungry sharks
 He braved the enemy's bayonets a thirty eight hung round his neck

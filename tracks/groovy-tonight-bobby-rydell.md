@@ -41,12 +41,12 @@ Let's dim the lights
 You can be sure
 It's gonna be groovy tonight
 
-La la la la la...
+La la la la la
 You better believe it tonight
 
-La la la la la...
+La la la la la
 Sing it, yeah
-La la la la la...
+La la la la la
 You better be groovy tonight
 
 You're breaking my wagon

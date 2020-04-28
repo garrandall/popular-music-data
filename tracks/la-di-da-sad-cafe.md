@@ -99,14 +99,14 @@ La di da
 La di da
 
 Wanna be so, wanna be so, wanna be so
-Wanna be so  baby
+Wanna be so baby
 La di da
 You're so la di da
 Honey you're so la di da
 Baby, you're so la di da
 
 Wanna be so, wanna be so, wanna be so
-Wanna be so  baby
+Wanna be so baby
 La di da
 You're so la di da
 Honey you're so la di da

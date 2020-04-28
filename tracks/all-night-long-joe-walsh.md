@@ -97,4 +97,4 @@ All night long
 All night long
 All night long
 
-Songwriter:  Joe Walsh
+Songwriter: Joe Walsh

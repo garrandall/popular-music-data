@@ -19,7 +19,7 @@ rankings:
 Once I had fame
 Oh I was full of pride
 There were a lot of friends
-Always  by my side
+Always by my side
 But my fame oh it died
 Now my friends begin to hide
 

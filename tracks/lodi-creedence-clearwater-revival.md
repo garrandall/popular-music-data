@@ -39,7 +39,7 @@ Somewhere I lost connections, ran out of songs to play.
 I came into town, a one night stand, looks like my plans fell through
 Oh! Lord, stuck in Lodi again.
 
-Mmm...
+Mmm
 If I only had a dollar, for every song I've sung.
 And every time I've had to play while people sat there drunk.
 You know, I'd catch the next train back to where I live.

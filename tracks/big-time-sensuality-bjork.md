@@ -39,7 +39,7 @@ the hardcore and the gentle
 big time sensuality
 
 we just met
-and I know i'm a bit too intimate
+and I know I'm a bit too intimate
 but something huge is coming up
 and we're both included
 

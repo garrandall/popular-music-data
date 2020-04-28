@@ -97,15 +97,13 @@ Your soft and lovely skin
 I want this fiasco to end
 So baby we can start all over again
 
-(Listen)
-(I wanna be able...) I wanna be able to love you, oh I...
-(I wanna be able...) And let me be the one to please you, oh I...
+(I wanna be able...) I wanna be able to love you, oh I
+(I wanna be able...) And let me be the one to please you, oh I
 As sure as the sun shines all over the earth
 You're one of god's most precious works
 See, I'm a man and we make mistakes
-But please don't take your love away, oh I...
+But please don't take your love away, oh I
 
-(Chorus)
 Don't take your love away. (Don't take...)
 Baby, don't take your love away from me, I need you, girl. (I need you girl.)
 Don't take your love away. (Oh.)
@@ -114,7 +112,6 @@ Don't take your love away (Don't take...)
 Baby don't take your love away from me I need you girl (From me, my baby, baby)
 Don't take your love away, baby
 
-(Verse II)
 Mama said, 'Don't put your hands in the cookie jar.'
 She said, 'Son, have control.'
 She said everything that's sweet and good for you, NO. (That what she said.)
@@ -130,7 +127,6 @@ Baby, you been gone too long
 See, I'm a man and we make mistakes
 So baby, baby, baby, don't take your love away
 
-(Chorus)
 Don't take your love away (I'll get down on my hands and knees,)
 Baby, don't take your love away from me, I need you, girl. (Beggin', beggin' you please.)
 Don't take your love away, (Don't, don't leave me now.)
@@ -138,7 +134,6 @@ Don't take your love away. (I need you right here with me.)
 Don't take your love away, (Please, please, please, please, please, yeah.)
 Baby, don't take your love away from me, I need you, girl. (Don't take your love away.)
 
-(Bridge)
 See, girl I know that I hurt you so, (Girl, I know...)
 With all of those girls that were in my world. (In my world.)
 Now Stacy and Kim, damn all of them
@@ -148,7 +143,6 @@ Baby, this time I promise it'll be alright
 No longer will you be left astray, (No, no, no, no, no.)
 Baby, listen to the words I say!
 
-(Chorus)
 Don't take your love away (Yeah, yeah!)
 Baby, don't take your love away from me, I need you girl. (Yes, Don't take your love, no.)
 Don't take your love away, (I've been searching here and there, everywhere,)
@@ -156,5 +150,3 @@ Don't take your love away. (And can't find no one like you, girl.)
 Don't take your love away, (Don't take your love away.)
 Baby, don't take your love away from me, I need you, girl. (Listen to me, lady, lady, lady.)
 Don't take your love...
-
-(crying sounds)

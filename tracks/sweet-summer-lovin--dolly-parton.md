@@ -52,16 +52,16 @@ Sweet summer lovin' keeps me high as candy wine
 
 Sweet summer lovin'
 Sweet summer lovin'
-Mmm...
+Mmm
 Sweet summer lovin'
-Mmm...
+Mmm
 Sweet summer lovin'
 I love your sweet summer lovin'
 Sweet summer lovin'
 Sweet summer lovin'
-Mmm...
+Mmm
 Sweet summer lovin'
-Mmm...
+Mmm
 Sweet summer lovin'
 
 

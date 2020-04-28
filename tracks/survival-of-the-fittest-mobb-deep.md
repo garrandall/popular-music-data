@@ -159,7 +159,7 @@ Survival of the fit only the strong survive
 Look in the eyes and get wise
 Look alive, in ninety-five, word up
 Hypnotic thug life, get that ass paralyzed
-Knahmsayin?  Mobb Deep and all that..
+Knahmsayin? Mobb Deep and all that..
 
 
 

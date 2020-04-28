@@ -111,7 +111,7 @@ Before you won my heart
 You were a perfect guy
 But now that you got me
 You wanna leave me behind
-(Baby, baby) ohbaby
+(Baby, baby) oh baby
 
 
 Baby, baby

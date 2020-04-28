@@ -183,4 +183,4 @@ No matter where he goes, I'll be thinkin' of him
 I'm gonna love him, I'm gonna love him
 Gotta man that I think I'm gon' love forever
 And forever, we'll be together
-No matter where he goes, I'll be thinkin' of him...
+No matter where he goes, I'll be thinkin' of him

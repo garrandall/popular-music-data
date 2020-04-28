@@ -128,7 +128,7 @@ It's enough to drive you crazy if you let it
 You would think that I would deserve a fair promotion
 Want to move ahead but the boss won't seem to let me
 I swear sometimes that man is out to get me
-Mmm...
+Mmm
 
 
 They let you dream just to watch them shatter
@@ -136,7 +136,7 @@ You're just a step on the boss man's ladder
 But you got dreams he'll never take away
 In the same boat with a lot of your friends
 Waiting for the day your ship will come in
-And the tide's gonna turn an' it's all gonna roll you away
+And the tide's gonna turn and it's all gonna roll you away
 
 
 Working 9 to 5, what a way to make a living

@@ -82,7 +82,6 @@ rankings:
   start_date: '2009-08-01'
 ---
 
-
 Da double dee double di
 My lips like sugar
 This candy got you sprung
@@ -95,7 +94,6 @@ Da double dee double di
 I'm sweet like
 Da double dee double di
 Sugar
-
 
 Hey, I've got a mouth full of cavities.
 Sweet tooth, full of mama, like sugar to me.
@@ -114,7 +112,6 @@ Pretty much, youre givin me a sugar rush.
 Lil mama, give me high blood pressure when you blush.
 Lips feel soft as a feather when we touch, Shawty thats whats up.
 
-
 My lips like sugar
 This candy got you sprung
 So call me your sugar
@@ -126,7 +123,6 @@ Da double dee double di
 I'm sweet like
 Da double dee double di
 Sugar
-
 
 Hey, Sh Shawty would you mind, cuz I want me some.
 Now and later, I don't wanna have to wait, you the one.
@@ -145,7 +141,6 @@ But your lips, theyll do me fine.
 Now baby don't trip with the juicy kind.
 Get, get on the grip, Girl you aint lyin.
 
-
 My lips like sugar
 This candy got you sprung
 So call me your sugar
@@ -153,7 +148,6 @@ You love you some
 I'm sweet like
 Da double dee double di
 Sugar
-
 
 You like my sugar, my sugar.
 You so sweet, so sweet.
@@ -167,15 +161,14 @@ And tonight Im gonna get me some, get me some.
 Girl you my sugar, I call you Candy
 And tonight Im gonna get me some, get me some sugar.
 
-(Wynter)
-My lips like sugar (x2)
-This candy got you sprung (x2)
-So call me your sugar (x2)
-You love you some (x2)
+My lips like sugar
+This candy got you sprung
+So call me your sugar
+You love you some
 I'm sweet like
-Da double dee double di (x3)
+Da double dee double di
 I'm sweet like
-Da double dee double di (x2)
+Da double dee double di
 I'm sweet like
 Da double dee double di
 Sugar

@@ -36,7 +36,7 @@ That's what I thought
 (Do wah, do wah!)
 That's what I said right along
 (Do wah, do wah!)
-But now it appears with time an' tears
+But now it appears with time and tears
 Have proved that I was wrong!
 
 You're followin' me!

@@ -114,7 +114,7 @@ Repeat
 So on them lonley nights girl there for U
 Let me come satisfy you for an hour or two(two)
 Baby don't be shy
-Cuz im not judgin you
+Cuz I'm not judgin you
 I hungry for your love so let me through
 Girl lets stop talkin bout them thangs we can do(do)
 And lets just be about them thangs we can do(do)
@@ -139,7 +139,7 @@ Chorus 3x
 
 The lovers have returned to make me wanna make love to you
 So bring yo sexallent body ova here and let me do the things I do
-In my bedroom im gone love you down just like a playa would
+In my bedroom I'm gone love you down just like a playa would
 And turn you out my superstar make you feel real good
 I find out if you feelin like lovin me, sexin me, holdin me, kissin me squezzin me
 Say yeaaa yeaa

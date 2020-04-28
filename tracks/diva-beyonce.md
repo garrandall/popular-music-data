@@ -154,8 +154,8 @@ Stick-up, stick-up (You see the mask, "Where that money?")
 
 
 Na-na-na, diva is a female version of a hustla, of a hustla, of a, of a hustla
-Na-na-na, diva is a female version of a hustla, of a hustla, of a, of a hustla...
+Na-na-na, diva is a female version of a hustla, of a hustla, of a, of a hustla
 
 
-I'm a, I'm a-a diva, I'm a, I'm a-a diva, I'm a, I'm a-a diva...
+I'm a, I'm a-a diva, I'm a, I'm a-a diva, I'm a, I'm a-a diva
 (Hey)

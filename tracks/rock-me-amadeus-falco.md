@@ -85,7 +85,7 @@ Yeah, rappe, weil ich hasse, wie sie rappen, yeah (hey)
 Trappe, weil ich hasse, wie sie trappen, yeah (wouh)
 BBM-Kartell, bleibe die Number One
 Ich filterte die Szene, denn alle Rapper sind Sons von Sun
-Ein Yahudi mit Araber im Rücken wie Dromedar
+Ein Yahudi mit Araber I'm Rücken wie Dromedar
 Ich verbrenne das Weed wie ein Holländer, yeah, yeah, ey
 Hitte Jaro, blow' den Nebel aus dem Lambo
 Hasse dieses Leben, so wie Falco

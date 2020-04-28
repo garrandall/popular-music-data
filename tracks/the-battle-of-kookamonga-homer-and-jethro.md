@@ -73,7 +73,7 @@ Well our counselor said we could take them by surprise
 If we didn't say a word till we looked them in the eyes
 We kept real still and we had our eyes aglued
 We saw how they were dressed they were swimming in the
-Well now...
+Well now
 
 
 Well they ran through the briars and they ran through the brambles

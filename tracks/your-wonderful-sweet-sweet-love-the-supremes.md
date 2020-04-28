@@ -50,7 +50,7 @@ But I had begin to believe
 That mine wasn't there, oh, oh
 Oh but then, you came to me and proved the theory
 And all of my days
-I wanna have you near me with a...
+I wanna have you near me with a
 Your wonderful sweet, sweet love
 That's all I need now
 Your wonderful sweet, sweet love

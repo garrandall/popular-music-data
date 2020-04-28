@@ -38,7 +38,7 @@ Anymore, not like before (not like before)
 Whenever we're together, not one word do you say
 When I speak your name in the sweetest tone
 It's just as though I'm all alone
-I...
+I
 
 
 Can't believe you love me

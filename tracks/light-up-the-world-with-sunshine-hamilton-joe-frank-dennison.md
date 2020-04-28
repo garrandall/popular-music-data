@@ -31,7 +31,7 @@ rankings:
   start_date: '1976-08-14'
 ---
 Light up the world with sunshine
-Turn  on a brand new day
+Turn on a brand new day
 Give a little love to someone
 Take a little hate away
 

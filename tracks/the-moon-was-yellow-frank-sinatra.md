@@ -19,9 +19,9 @@ We'd meet again someday.
 The moon was yellow, and a song was sung.
 That vocal inspiration gave me the inclination
 To give my heart away.
-Here we are!  Is our romance to continue?
+Here we are! Is our romance to continue?
 Will it be my luck to win you.
-May I look that far?  Ah!  My love is
+May I look that far? Ah! My love is
 Ah, my love is yellow and the night is young.
 
 

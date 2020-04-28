@@ -157,7 +157,7 @@ For the girl who's a student and the friend who's a model
 Finish the whole bottle and we gonna do it big like this
 Yeah, and he was just practice
 He ain't in your world, you can take him off your atlas
-Girl,  you on fire, can I be the one you match with?
+Girl, you on fire, can I be the one you match with?
 I'll give you the credit card and baby you can max this out
 Show me where your tats is
 Show me where you heads at, maybe I can grasp it

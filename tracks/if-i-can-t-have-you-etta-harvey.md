@@ -60,7 +60,7 @@ rankings:
 I don't want nobody
 If I can't have you
 Oh I can't love nobody
-Unless i'm loving you
+Unless I'm loving you
 
 Chorus:
 The way you hug me
@@ -70,13 +70,13 @@ Ya ya ya ya ya ya ya ya ya
 If I can't have you
 
 I can't talk to nobody
-Unless i'm talking to you
+Unless I'm talking to you
 I don't wanna hold nobody
-Unless i'm holding you
+Unless I'm holding you
 
 
 I can't be kissing nobody
-Unless i'm kissing you
+Unless I'm kissing you
 I just don't I just don't I just don't want to be bothered with nobody
-Unless i'm bothered with you
+Unless I'm bothered with you
 

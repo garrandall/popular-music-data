@@ -90,7 +90,7 @@ Whoa
 Wine spo-dee-o-dee
 She drink my wine spo-dee-o-dee okay
 Ah wine spo-dee-o-dee
-She drinkin' wine spo-dee-o-dee  all day
+She drinkin' wine spo-dee-o-dee all day
 I took my motorbike out and went for a ride
 Slit the throat of the first babe who lied
 See it it's twice his size oh

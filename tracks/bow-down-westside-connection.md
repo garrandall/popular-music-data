@@ -100,7 +100,7 @@ Guppies hold they breath they wanna miss me
 When Iam tipsey
 Runnin everything WEST of the Mississippi
 Its the unseen pullin strings wit my pinky ring
-We got  your woman so pucker up
+We got your woman so pucker up
 FO we fuck her up
 Bow down before I make a phone call
 Got 25 niggas runnin up on ya'll

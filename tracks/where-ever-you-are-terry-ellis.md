@@ -129,7 +129,7 @@ Where ever you are, mmm...yeah
 Where ever you are
 Where ever you are, mmm
 
-Hoo...hm...
+Hoo...hm
 Hoo...hoo...oh..
 Oh...oh...oh.ohoh
 Oh...yeah

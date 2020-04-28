@@ -78,7 +78,7 @@ I've got this feeling today's the day
 I've got this feeling that today's the day
 I've got this feeling today's the day
 
-Oo, oo ...
+Oo, oo
 
 Hold me close
 You turn nighttime into day
@@ -92,4 +92,4 @@ I've got this feeling today's the day
 I've got this feeling that today's the day
 I've got this feeling today's the day
 I've got this feeling today's the day
-I've got this feeling today's the day ...
+I've got this feeling today's the day

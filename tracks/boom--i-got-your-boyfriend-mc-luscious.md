@@ -124,7 +124,7 @@ Boom! I got your boyfriend, I got your man
 Boom! I got your boyfriend, I got your man
 Boom! I got your boyfriend, I got your man
 
-If you got a boyfreidn, you better hold on tight, and keep him in sight every single night, cause when I got out, I look so fine, cause i'm dressed to impress, and I'm one of a kind, I take him, shake him, work him on out, show your man what I'm all about, so when he tells you it's the end, that's when you know I got your boyfriend
+If you got a boyfreidn, you better hold on tight, and keep him in sight every single night, cause when I got out, I look so fine, cause I'm dressed to impress, and I'm one of a kind, I take him, shake him, work him on out, show your man what I'm all about, so when he tells you it's the end, that's when you know I got your boyfriend
 
 Boom! I got your boyfriend, I got your man
 Boom! I got your boyfriend, I got your man

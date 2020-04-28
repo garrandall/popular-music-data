@@ -12,7 +12,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-08-04'
 ---
-La la la la...
+La la la la
 
 Just a little street
 Down in Puerto Fino
@@ -34,7 +34,7 @@ Known to start with
 Just a little moonlight
 Little serenade
 
-La la la la...
+La la la la
 
 Happy is the boy
 When he looks up above

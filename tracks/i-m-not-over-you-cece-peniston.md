@@ -84,7 +84,7 @@ I'm not, not over you, ohoh, oh, oh, oh
 Tell me what can I do when I know we are through
 (We are through, oh
 Can't get you off my mind
-Think about you all the time.  (All the time.)
+Think about you all the time. (All the time.)
 I can't get over you no matter what I do
 I'm not, not over you, oh
 
@@ -96,21 +96,21 @@ I'm not, not over you, ohoh, oh, oh, oh
 Tell me what can I do when I know we are through
 (We are through, oh
 Can't get you off my mind
-Think about you all the time.  (All the time.)
+Think about you all the time. (All the time.)
 I can't get over you no matter what I do
 
 Oh
 Oh
-I'm not, not over you, oh  (Baby.)
+I'm not, not over you, oh (Baby.)
 Over you, over you
-I'm not, not over you, ohbaby
-I ain't over you.  (I'm not, not)
+I'm not, not over you, oh baby
+I ain't over you. (I'm not, not)
 (I'm not, not over you, oh
 Ah, yeah, yeah, yeah, yeah
 ('Cause we are through.) 'Cause we are really through
 
 Hey...eh, eh
-Ah, oh, ah, oh.  I ain't over you, baby
+Ah, oh, ah, oh. I ain't over you, baby
 (I can't get over you no matter what I do.)
 Hey...eh, eh, yeah, yeah, yeah, eh, eh, eh
 I ain't over you

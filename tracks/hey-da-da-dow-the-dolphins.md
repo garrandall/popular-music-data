@@ -36,7 +36,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
 ---
-Bom bom bom...
+Bom bom bom
 
 Lay your head on her shoulder
 Give out a little sigh-yi-yi
@@ -61,7 +61,7 @@ It's enough to make you cry
 
 Then you've got
 
-Bom bom bom...
+Bom bom bom
 
 If you'd give every treasure
 Just to be by your si-yi-yi-ide

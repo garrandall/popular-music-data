@@ -35,8 +35,8 @@ rankings:
 ---
 
 
-Hah hah hah hahh -  hah
-Hah hah hah hahh -  hah
+Hah hah hah hahh - hah
+Hah hah hah hahh - hah
 
 
 Yeah, Bad Boy baby!

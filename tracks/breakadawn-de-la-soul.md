@@ -33,7 +33,7 @@ Ah one two, ah one two
 Ah one two, ah one two
 
 "Breakadawn.. breakadawn.."
-Ah one two, ah one two 
+Ah one two, ah one two
 
 
 I was born in the Boogie Down catscan
@@ -42,7 +42,7 @@ people sorta super wanna trip to the penile (penile)
 While I settle off the shores of the Long Isle
 My father's clean not mean my mind is clear when I transmit
 I am the man-ner of the family cuz the pants fit
-I want to let forensics prove, that I can mends 
+I want to let forensics prove, that I can mends
 Groove wit the thread from needle outta hay, wanna say
 salutations to the nation of the Nubians
 We bout to place you in that (3 Feet) of stew again
@@ -54,7 +54,7 @@ So get your butt out the sling, I stung Muhammad float a note
 that means I'm def, so like the autographs you sign until the
 
 "Breakadawn.. breakadawn.."
-Ah one two, ah one two 
+Ah one two, ah one two
 
 
 Aiyyo groove with the mayor, hazard on the sayer
@@ -85,7 +85,7 @@ Believe the Genesis life fill with stills mean that I'm def
 so like the autographs you sign until the
 
 "Breakadawn.. breakadawn.."
-Ah one two, ah one two 
+Ah one two, ah one two
 
 
 We in the mornin at the end, but in the end I be the is
@@ -102,7 +102,7 @@ I seen the states and played the dates in the far-far
 Gathered the new, from the zoas around
 Grew up with Mikey Rodes and played the codes
 Sometimes I don't budge, without my cous' Fuzz/fuzz
-A simple, "How ya do?"  Ah check it from my friends and my crew
+A simple, "How ya do?" Ah check it from my friends and my crew
 makes it definitely special
 
 Now there's no (Shiny Happy People) in the crew we play the rough

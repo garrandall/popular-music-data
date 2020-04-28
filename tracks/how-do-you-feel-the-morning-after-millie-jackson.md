@@ -107,4 +107,4 @@ Waiting on you
 How do you feel
 The morning after
 After you've given your
-Love away to someone new...
+Love away to someone new

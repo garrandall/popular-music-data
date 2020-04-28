@@ -5,7 +5,7 @@ features: []
 genres: []
 key: you-and--i-glee-cast
 lyrics_url: https://genius.com/Glee-cast-you-and-i-you-and-i-lyrics
-name: You And  I
+name: You And I
 rankings:
 - end_date: '2011-12-09'
   rank: 69

@@ -53,13 +53,13 @@ Waitin' on Saturday night.
 
 Put on the smell-good, put on Skynard,
 Head into to town like a NASCAR winner.
-Cruisin' back an' forth to the Tasty-Freeze.
+Cruisin' back and forth to the Tasty-Freeze.
 Everywhere you look, all you see...
 
 Is hillbilly deluxe, slick pick-up trucks.
 Big timin' in a small town.
 Stirrin' it up right about sundown.
-Black denim an' chrome to the bone with a little home grown.
+Black denim and chrome to the bone with a little home grown.
 A country girl cuddled up...
 Hillbilly deluxe.
 
@@ -76,7 +76,7 @@ Do it all again next Friday night.
 Hillbilly deluxe, slick pick-'em-up trucks.
 Big timin' in a small town.
 Stirrin' it up right about sundown.
-Black denim an' chrome to the bone with a little home grown.
+Black denim and chrome to the bone with a little home grown.
 Country girl cuddled up...
 Hillbilly deluxe.
 
@@ -85,7 +85,7 @@ Hillbilly deluxe.
 Hillbilly deluxe, slick pick-'em-up trucks.
 Big timin' in a small town.
 Stirrin' it up right about sundown.
-Black denim an' chrome to the bone with a little home grown.
+Black denim and chrome to the bone with a little home grown.
 Country girl cuddled up...
 Hillbilly deluxe.
 Hillbilly deluxe.

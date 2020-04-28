@@ -4,7 +4,7 @@ artists:
 features: []
 genres: []
 key: topsy-i-cozy-cole
-lyrics_url: https://genius.com/Cozy-cole-topsy-ii-lyrics
+lyrics_url: https://en.wikipedia.org/wiki/Topsy_%28instrumental%29
 name: Topsy I
 rankings:
 - end_date: '1958-09-21'
@@ -60,43 +60,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-12-08'
 ---
-When I find myself in times of trouble
-Mother mary comes to me
-Speaking words of wisdom, let it be
-And in my hour of darkness
-She is standing right in front of me
-Speaking words of wisdom, let it be
-Let it be, let it be
-Let it be, let it be
-Whisper words of wisdom, let it be
-And when the broken hearted people
-Living in the world agree
-There will be an answer, let it be
-For though they may be parted
-There is still a chance that they will see
-There will be an answer, let it be
-Let it be, let it be
-Let it be, let it be
-There will be an answer, let it be
-Let it be, let it be
-Let it be, let it be
-There will be an answer, let it be
-And when the night is cloudy
-There is still a light that shines on me
-Shine on until tomorrow, let it be
-When I wake up to the sound of music
-Mother mary comes to me
-Speaking words of wisdom, let it be, let it be
-Let it be, let it be
-Let it be, let it be
-Whisper words of wisdom, let it be
-Let it be, oh let it be
-Let it be, let it be
-Let it be, let it be
-Whisper words of wisdom, let it be
-When I find myself in times of trouble
-Mother mary comes to me
-Speaking words of wisdom, let it be
-Let it be, let it be
-Let it be, let it be
-Whisper words of wisdom, let it be...(x8)
+(Instrumental)

@@ -139,4 +139,4 @@ See the little children
 See how they play so happy
 In the playground in my mind
 
-La la la la la la la la la...
+La la la la la la la la la

@@ -90,7 +90,7 @@ rankings:
 ---
 
 Mmm...yeah
-Mmm...mmm...mmm...mmm...
+Mmm...mmm...mmm...mmm
 
 I bet you that I could read your mind
 And tell you everything you're going through

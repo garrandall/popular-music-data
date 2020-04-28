@@ -124,7 +124,7 @@ Mirror vain
 Gone insane...
 Dance, little tin goddess
 
-Na-na-na...
+Na-na-na
 
 Drift away
 Fade away
@@ -153,7 +153,7 @@ To this faded prima donna yeah, yeah, yeah, hey
 
 Dance, little tin goddess, dance
 
-Na-na-na...
+Na-na-na
 
 
 Say yes

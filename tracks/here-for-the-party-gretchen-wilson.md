@@ -85,10 +85,10 @@ Gonna get a little crazy just because I can
 
 
 
-You know im here for the party
+You know I'm here for the party
 And I aint leavin til they throw me out
 Gonna have a little fun gonna get me some
-You know im here, im here for the party
+You know I'm here, I'm here for the party
 
 I may not be a ten but the boys say I clean up good
 And if I gave em half a chance for some rowdy romance you know they would

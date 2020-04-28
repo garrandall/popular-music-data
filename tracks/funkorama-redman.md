@@ -40,7 +40,7 @@ For this, you need a journalist scientist
 Keep your eye in this, funk cosmical, far from logical
 I blow the spot up in any hood or boondox
 Make the bully of the block move and get new locks
-Now who kicks that phenomical astronomical?  Uhh
+Now who kicks that phenomical astronomical? Uhh
 That's my nine in you, feelin nauseous that's my rhyme in you
 I swing funk like numchuks my game's death
 That's cool when I blind fools like Kareem Abdul
@@ -66,9 +66,9 @@ My grammar, slam from here to York, Alabama
 I never pull my pants up, I'm nutty like Planters
 My style gets Death like Row or Def like Jeff
 Def like Jam or Squad, or death like Meth
-One two!  Big up to my niggas on one deuce
+One two! Big up to my niggas on one deuce
 That cocks snaps and busts back at the boys in...
-rrrrrah!  With weed for you!
+rrrrrah! With weed for you!
 Who says I can't burn shit up just like Lisa Lopez?
 I'm cause the ruckus, my area is fucked up
 You better off calling them Power Ranger motherfuckers

@@ -85,10 +85,10 @@ DJ Khaled!
 Shinin', shinin', shinin', shinin', yeah (shinin', yeah)
 All of this winnin', I've been losin' my mind, yeah (losin' my mind)
 Oh, hold on (hold on, baby)
-Don't  try to
+Don't try to
 Slow me down
 Hold on (hold on)
-Don't  try to
+Don't try to
 Slow me down
 Slow me down
 
@@ -110,10 +110,10 @@ It's all smiles through all four seasons
 Shinin', shinin', shinin', shinin', yeah (shinin', yeah)
 All of this winnin', I've been losin' my mind, yeah (losin' my mind)
 Oh, hold on (hold on)
-Don't  try to
+Don't try to
 Slow me down
 Hold on (hold on)
-Don't  try to
+Don't try to
 Slow me down
 Slow me down, yeah
 
@@ -141,10 +141,10 @@ Shinin', shinin', shinin', shinin', yeah (shinin', yeah)
 All of this winnin', I've been losin' my mind, yeah
 (Losin' my mind, losin' my mind)
 Oh, hold on (hold on)
-Don't  try to
+Don't try to
 Slow me down (down}
 Hold on (hold on)
-Don't  try to
+Don't try to
 Slow me down
 Slow me down, yeah
 
@@ -195,10 +195,10 @@ Next year he gon' have to buy a palace, shinin'
 Shinin', shinin', shinin', shinin', yeah (shinin', yeah)
 All of this winnin', I've been losin' my mind (losin' my mind)
 Oh, hold on (hold on, baby)
-Don't  try to
+Don't try to
 Slow me down
 Hold on (hold on)
-Don't  try to
+Don't try to
 Slow me down
 Slow me down, yeah
 

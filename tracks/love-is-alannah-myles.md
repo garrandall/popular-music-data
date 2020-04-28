@@ -99,5 +99,5 @@ To know if it's for real
 Love is ... what you want it to be
 Love is ... heaven to the lonely
 Show me what you want me to do
-Cause love is what i've got for you
+Cause love is what I've got for you
 Love is...

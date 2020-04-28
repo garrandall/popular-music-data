@@ -70,10 +70,10 @@ At the Surfin' Party tonight
 
 Chics
 Look at them cats run
-It started  fish
+It started fish
 And it looks like fun
 I see them surfin', twistin, lovin', kissin'
-The whole darn  havin' lots of kicks
+The whole darn havin' lots of kicks
 Where in the world is my little girl
 Group Surf Party
 

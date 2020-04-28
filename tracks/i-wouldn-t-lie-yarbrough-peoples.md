@@ -78,7 +78,7 @@ I wouldn't lie to you
 You know I'd never lie to you
 (Don't wanna lose her love, that girl)
 
-I, I, I, I, I...
+I, I, I, I, I
 
 I wouldn't, I wouldn't
 I wouldn't lie to you

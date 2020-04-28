@@ -53,7 +53,7 @@ Spin around, bitch, you can kiss my ass
 Never seen your nigga in this much Raf
 Still doin' math when I miss my class
 Was it Summertime '06, had the number 9
-Nigga, never mind, wasn't none but time before Vince
+Nigga, never mind, wasn't none but time\ before Vince
 Had the Gucci gold tips with the letterman
 Nigga, dollar sign was my favorite number at the time
 Fresh freshmen 'til they skipped my ass

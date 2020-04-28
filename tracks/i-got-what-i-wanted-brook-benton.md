@@ -58,5 +58,5 @@ Oh, but my, how things have changed
 I went searching, not knowing what I'd find
 I looked for something and I had it all the time
 Now to think I've treated you so bad, makes me sad
-I got what I wanted but I lost  I had
+I got what I wanted but I lost I had
 I got what I wanted but I lost what I had

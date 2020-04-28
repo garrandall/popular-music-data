@@ -120,11 +120,11 @@ We were made for each other, girl, for each other, baby
 I got what you want so don't you ever think about leavin'
 Oh, baby, oh, girl, I like what you like
 'Cause it's you I'm thinkin' about pleasin'
-Oh ohbaby, oh girl, oh girl
+Oh oh baby, oh girl, oh girl
 I know that ever think about leavin' (I need good lovin')
 Oh, baby, oh, baby 'cause (And if you need me)
 You I'm thinkin' about pleasin'
-Oh, baby, I...
+Oh, baby, I
 Ever think about leavin'
 Don't do it, don't do it, don't do it, oh baby
 You I'm thinkin' about pleasin'

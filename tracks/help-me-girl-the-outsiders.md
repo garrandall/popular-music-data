@@ -56,17 +56,17 @@ It's a funny pain
 One I can't explain
 You gotta help me girl
 Oh help me girl
-'cause i'm going insane - hey hey
+'cause I'm going insane - hey hey
 
 I know about all the good things
 And what that long green stuff can buy
 Right or wrong it's a groove girl
-Yet somehow i'm not satisfied
+Yet somehow I'm not satisfied
 You gotta show me the way
 Turn my night into day
 Oh help me girl
 Oh help me girl
-'cause i'm going insane
+'cause I'm going insane
 Oh, I need someone
 Someone to comfort me
 Be my someone
@@ -76,7 +76,7 @@ You gotta show me the way
 And turn my night into day
 Oh help me girl
 Oh help me girl
-'cause i'm going insane hey
+'cause I'm going insane hey
 Help me baby
 Help me girl
 Come on into my nights

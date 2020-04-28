@@ -80,9 +80,9 @@ As long as I can have a limo and my orange hair
 And it don't bother me if people think I'm funny
 Cause I'm a big rock star and I'm making lots of money
 Money, Money Money, Money! MONEY! MONEY! AHHHhhhhhh-
-Hahahaha...
+Hahahaha
 
-I'm so bloody rich! Haha Haha ha ha...
-I own apartment buildings and shopping centers! Ah Haha ha...
-I only know three chords, Hahaha ha ha...
+I'm so bloody rich! Haha Haha ha ha
+I own apartment buildings and shopping centers! Ah Haha ha
+I only know three chords, Hahaha ha ha
 Watch me burn...You fools! Hahahahaha!! ! !

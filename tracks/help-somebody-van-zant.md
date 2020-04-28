@@ -75,7 +75,7 @@ If you believe in something, no matter what
 'Cause it's better to be hated for who you are
 Than be loved for who you're not"
 She was five feet of concrete
-New York born an' raised on a slick city street
+New York born and raised on a slick city street
 She'd cold-stare you down, stand her ground
 Still kickin' and screamin' at 93
 I remember just how frail she looked in that hospital bed

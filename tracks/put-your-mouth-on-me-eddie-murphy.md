@@ -60,46 +60,39 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1989-10-21'
 ---
-(Verse 1)
 I said oh sweet baby lips are for kissing
 I'm going crazy thinking what I'm missing, oh babe
 Right about now, yeah
 I sit down closer just flesh and eat now
 Your smile's electric, your lips look sweet enough to eat
 
-(Chorus)
 Oh baby, just put your mouth on me
 
-(Verse 2)
 Are you worthy of such a big reaction?
 Now Mr. Murphy you need some satisfaction and loving
 Yes it does right about now
 You look tired rest your head on me
 It's so hard babe, it's so hard for you to see, yeah
 
-(Chorus)
 Just put your mouth on me
 Just put your mouth on me
 
-(Bridge)
 I see you watching me
 My this ain't no fantasy
 I know that's you are what I need
 Put your mouth, put your mouth on me
 I'm gonna rest while you listen to the band
 
-(Verse 3)
 Girl you taught me with your fingertips now
 See if you want me, you got to say it with your lips
 Oh, babe, just say it with your lips
 Woman I'm not filled with a mean love
 If I didn't love you would I let you do this thing?
 
-(Outro)
 Just put your mouth, just put your mouth
 Just put your mouth on me
 Just put your mouth on me
 I'm going up and down all around
 Gonna head down to the ground
 Just put your mouth on me
-(Heh! Heh! Heh! )
+Heh! Heh! Heh!

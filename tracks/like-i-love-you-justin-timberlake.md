@@ -183,7 +183,7 @@ Oh
 Ain't nobody love you like I love you (Can't love you like I do)
 You're a good girl and that's what makes me trust ya like I do (Hey!)
 Late at night, I talk to you (Hey)
-You will know the difference when I...
+You will know the difference when I
 
 
 Break it down

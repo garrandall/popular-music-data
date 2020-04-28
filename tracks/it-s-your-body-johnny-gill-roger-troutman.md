@@ -113,7 +113,7 @@ Girl I lose all self control
 Every time, every time you're near
 Every time you're near
 
-Oh, I know that it's  your body
+Oh, I know that it's your body
 (Girl it's your body)
 That keeps me yearning
 (Girl, it's your body)
@@ -122,7 +122,7 @@ That keeps my body burning
 Can we make babies
 (Enough of your love)
 Can we make babies
-(Enough of  your lovin')
+(Enough of your lovin')
 Can we make a family
 
 (Girl it's your body) (It's your body, body, baby)
@@ -134,7 +134,7 @@ Yeah
 
 Don't think I'm crazy
 See you've been my lady
-For so-o-o-o-o-o-o many years 
+For so-o-o-o-o-o-o many years
 And I think it's time that I let you know that
 That I finally figured it out (figured it out)
 Why I still can't seem to get enough of your love
@@ -146,7 +146,7 @@ So you know what I want you to do, I want you (it's your body)
 (I just can't seem to get enough)
 Step into my bedroom (enough of your love)
 Take off all your clothes (enough of your lovin')
-Lay down 
+Lay down
 Let me rub your body down (girl it's your body)
 Let me feel your body down (girl it's your body)
 Let me squeeze your body (oh, oh)

@@ -73,5 +73,5 @@ Never thought I'd do this before
 But here I am a-knockin' on her door
 My car's out front and it's all mine
 Just a forty-one ford, not a fifty-nine
-I got that girl an' I'm a-thinkin' to myself
+I got that girl and I'm a-thinkin' to myself
 She's sure fine lookin' man, wow, she's something else

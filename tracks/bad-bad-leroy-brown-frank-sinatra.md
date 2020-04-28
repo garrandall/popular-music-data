@@ -46,7 +46,7 @@ All the downtown ladies call him: "treetop lover," the studs they call him: "Sir
 Badder that old King Kong and (he's) meaner that a junkyard dog
 Now Leroy he's a gambler, and he likes (digs) his (those) fancy clothes
 He likes to wave his (that) (great big / big fat) (shinny) diamond ring(s)
-Under (In front of)  everybody's nose
+Under (In front of) everybody's nose
 He's got a custom Continental, he's got an El Dorado too
 He's got a 22 (32) gun in his pocket for fun
 He's got a razor in his (the razor in the) shoe

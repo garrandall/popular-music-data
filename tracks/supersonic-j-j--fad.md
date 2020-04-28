@@ -212,7 +212,7 @@ There's no other angel lover
 Everybody know I'm covered
 Clientele is a pearl, everybody know in jail
 To the beat so you can tell everybody know your cell
-A sama lama lama lama doo ma nama  seema nama
+A sama lama lama lama doo ma nama seema nama
 Lama nama doo ma nama lama nama seema nama
 Lama nama doo a nama nama nama seema lama
 Lama nama seema nama doo ma nama hama, yeah

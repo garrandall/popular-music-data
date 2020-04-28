@@ -57,11 +57,9 @@ I really used to love her
 Then, the kitty she discovered
 It's got to be a sexual thing
 
-(Pre-Chorus)
 All around the world
 Girls will be girls
 
-(Chorus)
 It's the same ol', same ol' situation
 It's the same ol', same ol' ball and chain
 
@@ -76,20 +74,12 @@ They were kissing so softly
 To the sound of wedding bells
 
 Well
-
-(Pre-Chorus)
-
-
-(Chorus)
 No, no, no
 No, no, no
-
-(Solo)
-
-
-(Chorus)
 You know we just gotta say
 
-(Pre-Chorus)
+All around the world
+Girls will be girls
 
-
+It's the same ol', same ol' situation
+It's the same ol', same ol' ball and chain

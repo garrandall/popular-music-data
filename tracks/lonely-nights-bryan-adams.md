@@ -24,7 +24,7 @@ You just don't know what you're sayin' anymore
 You know beggars can't be choosers
 And that's fair
 When we win, we may be losers
-I don't care.  No, no, no
+I don't care. No, no, no
 
 Baby, I just can't stand another lonely night
 So come over and save me
@@ -49,7 +49,7 @@ Baby, I just can't stand another lonely night
 So come over and save me
 Baby, I just can't stand it
 Another lonely, another lonely night
-Yeah.  Ah, ah, oh
+Yeah. Ah, ah, oh
 
 Baby, I just can't stand another lonely night
 So come over and save me
@@ -61,4 +61,4 @@ Save me
 Yeah
 Another lonely, lonely night
 Oh, save me
-I'm so lonely.  Eh, eh
+I'm so lonely. Eh, eh

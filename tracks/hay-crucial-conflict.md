@@ -98,7 +98,7 @@ Where everybody smoke they own bud.
 Good ole' hay
 How you feel today?
 Fine,blowed and dandy.
-Silly like i'm hype off candy.
+Silly like I'm hype off candy.
 Gotta big,thick chic named sandy.
 In the farm in the middle of the barn
 Where everybody's feelin crazy.
@@ -124,7 +124,7 @@ The hay got me goin through a stage
 And I just can't get enough.
 Smokin everyday
 I got some hay
-And you know i'm finna roll it up.
+And you know I'm finna roll it up.
 Make a cloud
 I'm gonna take my mind away from all the
 Bullcrap.
@@ -147,11 +147,11 @@ On my square when time is live.
 Everybody throw it up
 Go to the barn and get some hay.
 When I get my choke on.
-Fool you know i'm smokin on...
+Fool you know I'm smokin on...
 
 Hay now hay
 We smokin up hay in the middle of the barn
-And i'm lit up
+And I'm lit up
 Can't get up
 My eyes are red
 And my head is spinnin.
@@ -167,7 +167,7 @@ Smokin all that hay with no money.
 Now truly this bitch wanna do me
 So I hit the 151bacardi
 She high like the sun
-Thick like cornbread,and i'm ready to party.
+Thick like cornbread,and I'm ready to party.
 That hay got me so gotdamn horny
 But I don't like that tramp.
 The only reason I'm poppin that coochie

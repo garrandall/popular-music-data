@@ -53,7 +53,7 @@ rankings:
   start_date: '1968-12-14'
 ---
 Quick Joey Small went over the wall
-With a ball an' a chain behind him
+With a ball and a chain behind him
 Quick Joey Small went over the wall
 Send the dogs right out to find him
 In a striped prision suit with no room to move

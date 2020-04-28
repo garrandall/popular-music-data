@@ -76,4 +76,4 @@ And I surely wanna be your man
 Let me tell you, honey Step by step
 I've got to get close to you
 Step by step
-Oh, I've got to get to know you - oh yeah Oh yeah - oh yeah Step by step ...
+Oh, I've got to get to know you - oh yeah Oh yeah - oh yeah Step by step

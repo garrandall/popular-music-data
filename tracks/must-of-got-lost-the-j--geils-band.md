@@ -62,7 +62,7 @@ This is a song about L-O-V-E,
 and if you abuse it you're gonna lose it
 and if you lose it you're gonna abuse and
 if you abuse it you ain't gonna be able to choose it
-'Cause you ain't gonna  have it further on down the line
+'Cause you ain't gonna have it further on down the line
 things ain't gonna be so fine
 you're gonna to be sitting there on your little machine
 tryin' to look and keep it clean

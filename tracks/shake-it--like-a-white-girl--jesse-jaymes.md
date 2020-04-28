@@ -90,7 +90,7 @@ Next thing you know, we was on the dance floor.
 You shoulda seen my baby, shaking like crazy.
 Movin her hips like the bionic lady.
 On the dance floor she rocked my world.
-Cause Rita knew how...
+Cause Rita knew how
 To shake it like a white girl.
 
 Work it baby

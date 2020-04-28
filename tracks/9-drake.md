@@ -66,7 +66,7 @@ If I ever lose I bet we never speak again
 I made a decision last night, I'd die for it
 Just to show the city what it takes to be alive for it
 First place, first place, man we can't be tied for it
-I only drove it five times, paid 1.5  for it
+I only drove it five times, paid 1.5 for it
 Keychain go jang-a-lang, I wanna do major things
 MJ in every way, I just don't fade away
 Six upside down, it's a nine now
@@ -88,4 +88,4 @@ Tried to kill me but they still want the Views
 Tried to kill me but they still want the Views
 Tried to kill me but I am very much alive on the six side
 Yeah, I said I am very much alive on the six side
-I said I am...
+I said I am

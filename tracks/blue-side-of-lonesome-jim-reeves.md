@@ -58,7 +58,7 @@ In a tavern that's known as Three Teardrops
 On a bar stool, not doing so well.
 
 The floor has a carpet of sorrows,
-Yet  no one can weep in the aisle.
+Yet no one can weep in the aisle.
 And they say someone broke the bar mirror,
 With only the ghost of a smile.
 The hands on the clock never alter,

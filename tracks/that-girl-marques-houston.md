@@ -36,7 +36,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2003-04-19'
 ---
-"Yow, can I talk to you for a minute?
+Yow, can I talk to you for a minute?
 Look, all I did was look
 Why you trippin'?
 Look, check this out
@@ -44,7 +44,7 @@ Check it
 Baby look I'm tired of trying
 To convince you that I ain't caught up lying
 When she walked passed me I looked
-So what? Big deal'
+So what? Big deal
 I don't understand how that
 Can make you feel
 That my love ain't for real
@@ -61,7 +61,6 @@ Yeah
 So I may look occasionaly
 You're the only one I need
 
-(Chorus)
 If I wanted That girl
 Then I would be with That girl
 That one ain't for me
@@ -115,23 +114,20 @@ With me
 Oh I
 Need you
 
-Whoow
-
 That girl
-Then I would be with'that girl
-But that one ain't for me..
+Then I would be with that girl
+But that one ain't for me
 She's fine as hell but
-She'll always be'that girl
+She'll always be that girl
 Nothing more than that girl
 No matter what she do
 She don't compare to you
 Yeah
 If I wanted That girl
-I would be with'that girl
-But that one ain't for me..
-She's fine as hell but , she'll always be'that girl
+I would be with that girl
+But that one ain't for me
+She's fine as hell but she'll always be that girl
 Nothing more than that girl
 No matter what she do
 She just can't be you
 Baby
-"

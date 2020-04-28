@@ -21,7 +21,7 @@ rankings:
   start_date: '1978-09-23'
 ---
 Bet you've got a lot of lovers
-Bet i'm not the only one
+Bet I'm not the only one
 I've heard tell of all the others
 And I know where you're coming from
 I know where you're coming from

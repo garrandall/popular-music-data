@@ -81,7 +81,7 @@ rankings:
   start_date: '1985-01-12'
 ---
 
-Blue Jean-I just met me a girl  named Blue Jean
+Blue Jean-I just met me a girl named Blue Jean
 
 Blue Jean-she got a camouflaged face and no money
 Remember they always let you down when you need 'em

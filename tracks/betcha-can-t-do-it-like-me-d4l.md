@@ -44,7 +44,7 @@ You fuckin' thieves
 We D4L
 And we back
 
-Betcha, betcha, betcha, betcha, betcha....
+Betcha, betcha, betcha, betcha, betcha
 
 
 I betcha can't do it like me (nope)
@@ -130,8 +130,6 @@ Shake the leg and get to it like me
 DJ booth, you like me
 Make 'em dance and get crunk like me
 
-
-
 They know I'm low I'm C-E-O
 Got stacks on deck, I pop I roll
 The cars the clothes, the life I know
@@ -141,12 +139,3 @@ On my grandmama potna, all haters go to hell
 I can't stand drama shawty ain't no stories I can't tell
 Betcha can't do it like me, can't break no bank
 Everytime they try they fail, come on
-
-
-
-Nope
-Nope
-Nope
-Nope
-Nope
-Nope

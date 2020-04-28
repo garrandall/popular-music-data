@@ -39,9 +39,9 @@ You have my attention, anything you need at all
 I'll be there when you call me
 
 
-I've got things on my mind, takin' my time, but I'm...
+I've got things on my mind, takin' my time, but I'm
 I'm not too busy for you, I'm not too busy
-If you're feeling alone, just pick up the phone, 'cause I...
+If you're feeling alone, just pick up the phone, 'cause I
 I'm not too busy for you, I'm not too busy
 
 We used to dream that one day we'd have everything we want
@@ -53,9 +53,9 @@ Every time I'm stressin', I find that it's a blessin' to
 To be hearin' from you
 
 
-I've got things on my mind, takin' my time, but I'm...
+I've got things on my mind, takin' my time, but I'm
 I'm not too busy for you, I'm not too busy
-If you're feeling alone, pick up the phone and call me, 'cause I...
+If you're feeling alone, pick up the phone and call me, 'cause I
 I'm not too busy for you, I'm not too busy
 
 Whenever you need me

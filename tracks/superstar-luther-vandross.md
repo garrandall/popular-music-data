@@ -100,7 +100,7 @@ Alright now
 Eah...
 L-l-l-l-love
 Yeah, yeah, yeah, yeah, yeah
-Eah...oh...oh.yeah...hea...
+Eah...oh...oh.yeah...hea
 Say it's alright, it's alright
 Oh, baby, it's alright, it's alright
 Alright now

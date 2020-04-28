@@ -33,7 +33,7 @@ I can't let her go
 Lord, I can't let her go
 He lifted up his head toward heaven and said
 "Good Lord, I'd rather die than to let a no-good
-A no-good cheating woman make me stand on the corner an' cry"
+A no-good cheating woman make me stand on the corner and cry"
 Lord knows, I'm living in a world of darkness
 But that don't, that don't bother me
 And until I find that sweet little girl of mine

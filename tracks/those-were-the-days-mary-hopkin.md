@@ -76,7 +76,7 @@ We'd sing and dance forever and a day
 We'd live the life we choose
 We'd fight and never lose
 For we were young and sure to have our way
-La la la la...
+La la la la
 
 
 Then the busy years went rushing by us
@@ -91,7 +91,7 @@ We'd sing and dance forever and a day
 We'd live the life we choose
 We'd fight and never lose
 Those were the days, oh yes, those were the days
-La la la la...
+La la la la
 
 
 Just tonight I stood before the tavern
@@ -106,7 +106,7 @@ We'd sing and dance forever and a day
 We'd live the life we choose
 We'd fight and never lose
 Those were the days, oh yes, those were the days
-La la la la...
+La la la la
 
 
 Through the door there came familiar laughter
@@ -121,4 +121,4 @@ We'd sing and dance forever and a day
 We'd live the life we choose
 We'd fight and never lose
 Those were the days, oh yes, those were the days
-La la la la...
+La la la la

@@ -85,7 +85,7 @@ I feel it
 
 Roll up, roll up; hold up, hold up; po' up, po' up
 I feel it
-I love to... I wanna... I'm tryna...
+I love to... I wanna... I'm tryna
 I feel it
 I'ma rock the boat, work the middle 'til it hurt a little
 I feel it

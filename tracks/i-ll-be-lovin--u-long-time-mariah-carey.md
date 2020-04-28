@@ -114,7 +114,7 @@ I'll be lovin', I'll be lovin', I'll be lovin', I'll be lovin' (I'll be lovin' y
 I'll be lovin', I'll be lovin', I'll be lovin' you (I'll be lovin' you long time (eternally)) (you're touching me, babe)
 
 
-Whoa whoa whoa whoa whoa whoa...
+Whoa whoa whoa whoa whoa whoa
 I'll be lovin' you long time (eternally)
 You (hey...)
 I'll be lovin' you long time (eternally)

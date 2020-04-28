@@ -212,7 +212,7 @@ Baby when you see me, you know I be on it
 Can you keep it up and, put it down up on me
 Down with that booty on me (On me)
 Shorty you a dime, why you lookin' lonely?
-Oh baby we can go... go... low...
+Oh baby we can go... go... low
 Low... Ohh Yeah!
 
 

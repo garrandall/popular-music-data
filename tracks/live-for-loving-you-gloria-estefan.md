@@ -107,7 +107,7 @@ I need nothing else in live than to hold you
 I, oh , I am in so deep I don't need no sleep
 Just baby you and me.
 
-Baby, I live for loving you, oh la, la, la, la...
+Baby, I live for loving you, oh la, la, la, la
 Live for loving you, all I wanna do is love you,
 Love you
 

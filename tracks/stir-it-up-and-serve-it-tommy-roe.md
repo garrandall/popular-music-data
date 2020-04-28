@@ -41,7 +41,7 @@ So stir it up and serve it, (ah-oop)
 You're looking so exciting, (ah-oop)
 And when you move it closer, (ah-oop)
 You make it so inviting (ah-oop, ah-oop)
-Now, when I...
+Now, when I
 Watch you do
 The things you do, now,
 All right!
@@ -56,7 +56,7 @@ So stir it up and serve it, (ah-oop)
 'Cause girl, you're really cookin' (ah-oop)
 And I can't wait to hold you (ah-oop)
 When there's nobody lookin' (ah-oop, ah-oop)
-Yeah, when I...
+Yeah, when I
 Watch you do
 The things you do, now,
 All right!

@@ -53,7 +53,7 @@ Do they forsake, I, who reigns as King of the Range?
 
 
 In this land of wildness, yo, you
-Better pack your vest,  In the
+Better pack your vest, In the
 Streets, there's nothing but crime, so you’re
 Best to watch your behind, uh huh
 

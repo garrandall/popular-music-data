@@ -43,7 +43,7 @@ Could this be the last time we say goodbye ?
 
 (here we are)
 Eye to eye no conversation
-You know what i'm going to say
+You know what I'm going to say
 Eye to eye it's a sad situation
 Girl have I thrown it away ?
 

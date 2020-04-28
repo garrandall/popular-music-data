@@ -30,7 +30,7 @@ Bump that shit, get outta your mind (what)
 
 I'm a semi truck, no fucking brakes, outta control like a bull out da gate
 Get crunk, I'd get the fuck out the way, we get bananas like a room full of apes
-I done lost it, you flossin', im over here with my niggas in the mosh pit
+I done lost it, you flossin', I'm over here with my niggas in the mosh pit
 Throwing elbows, stomping shell toes, is that nigga dead? Who the fuck knows
 Shake them dreads like a motherfucking rasta, go dumb like a motherfucking monsta
 You an imposter, you're drinking water, we're drinking patron and chasing it with vodka

@@ -89,7 +89,7 @@ The jury looked at me. (I think they were suspicious.)
 
 The judge and the jury, they did agree
 They all said murder in the first degree
-The judge said,  "Sam, I don't know whether to hang you or not. But this here killin' of deputy sheriffs has just naturally got to stop! "
+The judge said, "Sam, I don't know whether to hang you or not. But this here killin' of deputy sheriffs has just naturally got to stop! "
 ("You've got a point there, judge! ")
 
 

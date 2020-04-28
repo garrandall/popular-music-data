@@ -68,7 +68,7 @@ Oh, no, no-o-o-o, babe
 
 If there's a heav'n above you'll be my one and only love (and, oh, baby)
 I can't control the glow in me
-Girl, come on and an' see about me
+Girl, come on and and see about me
 
 (Oh, ple-ea-ease)
 

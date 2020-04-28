@@ -205,7 +205,7 @@ I know that you'll get over it (Oh, oh, oh-oh-oh)
 (You'll get over it)
 (I know that you'll get over it)
 I know it's over
-Check out my cold shoulder  (Nothin' left to give)
+Check out my cold shoulder (Nothin' left to give)
 I know it's over
 Cry on that hoe shoulder (You'll get over it)
 Mm-mm-mm-mm

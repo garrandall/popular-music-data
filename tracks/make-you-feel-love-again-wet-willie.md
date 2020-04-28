@@ -91,11 +91,11 @@ I wanna
 Walk with ya
 Talk with ya
 Yeah!
-I wanna, I wanna...
-Now now now now...
+I wanna, I wanna
+Now now now now
 Walk with ya, baby
 Talk with ya, mama
-I wanna, I wanna...
+I wanna, I wanna
 Hey!
 Make you feel love again
 Let ya know that you really got a friend

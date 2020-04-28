@@ -62,7 +62,7 @@ And there is no one
 
 Don't you feel like crying
 Don't you feel like crying
-Come on, baby (x2)
+Come on, baby
 Baby, baby, come on and cry to me
 Woah, come on, baby
 Come on, come on and cry with me

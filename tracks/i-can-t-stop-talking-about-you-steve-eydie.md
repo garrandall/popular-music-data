@@ -81,7 +81,7 @@ Can't stop saying I love you
 Can't stop telling the
 World you're mine
 
-La la la la...
+La la la la
 
 Cause I just can't
 Stop talking about you

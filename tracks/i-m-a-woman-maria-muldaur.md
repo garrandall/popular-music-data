@@ -65,7 +65,7 @@ rankings:
   start_date: '1975-03-29'
 ---
 Well, I can wash out forty-four pairs of socks
-And hang them  on the line
+And hang them on the line
 I can starch and iron two dozen shirts
 Before you can count from one to nine
 I can scoop up a great big dipper
@@ -82,7 +82,7 @@ W-O-M-A-N
 Well, I can rub and scrub till this house
 Shines just like a dime
 Feed the baby, grease the car and
-Powder my nose  at the same time
+Powder my nose at the same time
 I can get all dressed up
 Go out and swing till five a.m. and then
 Jump in bed at five, get up at six

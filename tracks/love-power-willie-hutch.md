@@ -40,7 +40,7 @@ Come on, put your hands together, yeah
 
 Oh yeah, yeah
 Alright now
-Yeah. Awww...
+Yeah. Awww
 
 Lemme tell you about this love power
 Talkin' about that love power

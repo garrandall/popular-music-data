@@ -50,7 +50,7 @@ rankings:
   start_date: '2013-12-28'
 ---
 Good God Almighty—like back in the old days...
-You know, years ago they had the A&R men to tell you what to play, how to play it and you know whether it's disco and rock but we just went in the studio and we did it. We had the champagne in the studio, of course—compliments of the company—and we just laid back and did it. So we hope you enjoy listening to this album half as much as we enjoyed playing it for you. Because we had a ball. Only real music is gonna last—all the other bullshit is here today and gone tomorrow...
+You know, years ago they had the A&R men to tell you what to play, how to play it and you know whether it's disco and rock but we just went in the studio and we did it. We had the champagne in the studio, of course—compliments of the company—and we just laid back and did it. So we hope you enjoy listening to this album half as much as we enjoyed playing it for you. Because we had a ball. Only real music is gonna last—all the other bullshit is here today and gone tomorrow
 
 
 Cash rules everything around me, frikki-frikki-frik

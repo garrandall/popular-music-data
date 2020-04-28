@@ -147,7 +147,7 @@ Private plane, Wi-Fi, on the FaceTime with Johnny
 I told him ice my wrist up, I like to hold my fist up
 How that boy DaBaby in the air not gettin' his dick sucked?
 Why he keep the fire and throw them fours in every picture?
-'Cause nigga...
+'Cause nigga
 
 
 Baby puttin' on for the city

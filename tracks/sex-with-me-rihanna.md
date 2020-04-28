@@ -83,10 +83,10 @@ Five fingers on it (five fingers)
 Hit it like you own it, I’ma hit it like I’m on it
 Straight shots of the blue dot
 (Shots, shots, shots, shots)
-Baby, I’ma pick your  poison
-Oh-we, ah-yeah, you gon’ need it
-I’m off that la-la
-I’ma get it wet like jacuzzi, ah-yea
+Baby, I 'ma pick yor  poison
+Oh-we, ah-yeah, you gon ' need it
+I 'm off that la-la
+I 'ma get it wet like jacuzzi, ah-yea
 
 
 And sex with me, so amazing
@@ -96,16 +96,16 @@ Sex with me, sex with me, sex with me
 So amazing, so amazing, mmm
 
 
-You know I got the sauce (sauce), you know I’m saucy
-And it’s always wet, a bitch never ever had to use lip gloss on it
-I’ma need you deeper than six, it's not a coffin
-We’re not making love, tryna get nasty
+You know I got the sauce (sauce), you know I 'm saucy
+And it 's always wet, a bitch never ever had to use lip gloss on it
+I 'ma need you deeper than six, it's not a coffin
+We 're not making love, tryna get nasty
 Wrap up your drugs, come make me happy
-Sex with me is amazing, with her it’ll feel alright
-The sex doesn’t get any better, make it long, let it be all night
+Sex with me is amazing, with her it 'll feel alright
+The sex doesn 't get any better, make it long, let it be all night
 I know, I know, I make it hard to let go
-Tonight, all night, I’m Monroe
-Even if I’m alone
+Tonight, all night, I 'm Monroe
+Even if I 'm alone
 
 
 Sex with me, so amazing

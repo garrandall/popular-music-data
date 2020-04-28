@@ -62,7 +62,7 @@ More than to tell you
 There's no more than we've already got
 I'll be all right
 As long as it matters
-As long as you're here with me now...
+As long as you're here with me now
 Forget that our time is almost up I'll be all right...
 
 

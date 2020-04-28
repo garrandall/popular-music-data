@@ -23,12 +23,12 @@ rankings:
 ---
 
 
-WHOOOOOOOOOO!  Now clap for me mami, OH!
+WHOOOOOOOOOO! Now clap for me mami, OH!
 Just clap for me mami, JUST BLAZE!
 OK, and Free, OK, yeah (?)
 Que tu quieres mujeres, said she blow la-la
 FLIPSIDE - and she my baby mama
-Get wild!  OK
+Get wild! OK
 
 
 Freeway got the hood on smash
@@ -41,9 +41,9 @@ Post up, distribute to the block
 Freeway move the rocks in your area!
 Yeah, pop tried to shut me down
 Cops tried to shut me down, haters wanna hit me up
-What?  My glock carry heavy rounds
+What? My glock carry heavy rounds
 Mack carry heavy rounds packed in the Chevy truck
-What?  You better ring the alarm
+What? You better ring the alarm
 Before I cock back, dump on you and your boys
 And have black suits, tucked on you and your mom
 But back to the song, said she wanna suck on me and the boys

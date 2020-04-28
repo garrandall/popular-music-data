@@ -145,7 +145,7 @@ And hit me with technology
 
 (Good heavens, Miss Sakamoto - you're beautiful!)
 
-I...
+I
 I don't believe it!
 There she goes again!
 She's tidied up, and I can't find anything!

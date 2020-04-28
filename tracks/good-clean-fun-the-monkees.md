@@ -54,7 +54,7 @@ And the engines stopped their sound
 And I look in the crowd and there you stand
 And the gap that once was time
 Is forever closed behind
-I told you I'd come back and here I am...
+I told you I'd come back and here I am
 
 
 

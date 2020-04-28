@@ -104,7 +104,7 @@ Shake That Ass, Shake that ass
 Shake that ass
 Shake that ass
 Shake that ass, shake that ass
-I do a donut in that Pussy cause im from the bay
+I do a donut in that Pussy cause I'm from the bay
 Ran through a bunch of bad bitches in my day
 
 Im older than ya momma
@@ -120,8 +120,8 @@ Drop it to ground girl lay it on the floor
 Pussy so wet, its like a day out on the boat
 Open up wide ---
 
-Too much fun, is what im having
-Cause all that booty is what im grabbing
+Too much fun, is what I'm having
+Cause all that booty is what I'm grabbing
 Short Dog, I don't stop rappin
 BEEITCH
 

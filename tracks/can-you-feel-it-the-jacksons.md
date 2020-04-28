@@ -44,7 +44,7 @@ Yes, it's all right
 Take my message to your brother and tell him twice
 Spread the word and try to teach the man
 Who's hating his brother, when hate won't do
-Cause  we're all the same, yes the blood inside me is inside you now tell me
+Cause we're all the same, yes the blood inside me is inside you now tell me
 
 Can you feel it, can you feel it, can you feel it, now tell me
 Can you feel it, can you feel it, can you feel it
@@ -76,7 +76,7 @@ Is hunger and strife to another child
 But the stars do shine
 In promising salvation, is near this time
 Can you feel it now
-So brothers and  sisters
+So brothers and sisters
 Show we know how
 Now tell me
 Can you feel it, can you feel it, can you feel it

@@ -168,7 +168,7 @@ You betta hop on a bus or a cab
 I shed so many tears
 Can't believe how many years
 Tha baddest bitch put up witch yo dusty ass (Yeah)
-Now you know that im tha queen of Miami (Uh huh)
+Now you know that I'm tha queen of Miami (Uh huh)
 All that loud talkin, lying
 Save that shit for ya mami (Ha...Ha)
 Sounds like blah, blah, blah, blah, blah, blah, blah (talk too much)
@@ -210,7 +210,7 @@ At 3 o'clock in tha mornin
 (I can't take this no more)
 
 
-Thats why im packin up my jewels
+Thats why I'm packin up my jewels
 Grabbin up my furs
 Ill be back for all my shoes and purses
 Watch me bounce

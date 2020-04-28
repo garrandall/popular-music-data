@@ -114,7 +114,7 @@ And that shit all matte black, yeah
 And that shit all matte black, yeah
 Wait, what the fu...
 Why am I strapped in?
-Wait, I just gotta hit this button, I'm...
+Wait, I just gotta hit this button, I'm
 I'm out
 
 

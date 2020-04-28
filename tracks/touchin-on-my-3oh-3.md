@@ -51,7 +51,7 @@ Make me stop
 Cause some like fast and some like slow
 Ladies come and ladies go
 Skip the tell and let's just show
-Cause I wan't you to know...
+Cause I wan't you to know
 
 
 

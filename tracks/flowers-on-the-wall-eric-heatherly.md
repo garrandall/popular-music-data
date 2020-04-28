@@ -93,7 +93,6 @@ But all that thought you've given me is, conscience I guess
 If I were walkin' in your shoes, I wouldn't worry none
 While you and your friends are worryinbout me, I'm havin'lots of fun
 
-(Chorus)
 Countin' flowers on the wall, that don't bother me at all
 Playin' solitaire 'til dawn, with a deck of fifty-one
 Smokin' cigarettes and watchin' Captain Kangaroo
@@ -105,7 +104,6 @@ As long as I can dream it's hard to slow this swinger down
 So please don't give a thought to me, I'm really doin' fine
 You can always find me here and havin' quite a time
 
-(Chorus)
 Countin' flowers on the wall, that don't bother me at all
 Playin' solitaire 'til dawn, with a deck of fifty-one
 Smokin' cigarettes and watchin' Captain Kangaroo
@@ -117,7 +115,6 @@ Anyway, my eyes are not accustomed to this light
 And my shoes are not accustomed to this hard concrete
 So I must go back to my room and make my day complete
 
-(Chorus)
 Countin' flowers on the wall, that don't bother me at all
 Playin' solitaire 'til dawn, with a deck of fifty-one
 Smokin' cigarettes and watchin' Captain Kangaroo

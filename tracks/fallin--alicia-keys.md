@@ -184,7 +184,7 @@ I'm fallin' in and out (Yeah)
 Of love with you (Of love with you)
 I never loved someone (No, no, no)
 The way that I love you
-I'm fallin' in and out  (Yeah)
+I'm fallin' in and out (Yeah)
 Of love with you (Of love with you)
 I never loved someone (No, no, no)
 The way that I love you

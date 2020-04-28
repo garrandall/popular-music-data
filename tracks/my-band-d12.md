@@ -202,13 +202,13 @@ I'm 'bout to start a group with The Real Roxanne
 Girl, why can't you see you're the only one for me?
 And it just tears my ass apart
 To know that you don't know my name
-(Man, fuck this!) 
+(Man, fuck this!)
 
 
 These chicks don't even know the name of my band (Ha-ha!)
 But they're all on me like they wanna hold hands (Fuck Marshall!)
 ‘Cause once I blow, I know that I'll be the man (Yeah)
-All because I'm the  (Ha-ha-ha!)
+All because I'm the (Ha-ha-ha!)
 
 
 My band, my band (Your band, our band)

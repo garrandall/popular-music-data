@@ -91,7 +91,7 @@ I will always love him so
 Fly away, Kentucky bluebird
 Fly away, Kentucky bluebird
 Fly away
-Fly away ...
+Fly away
 
 
 

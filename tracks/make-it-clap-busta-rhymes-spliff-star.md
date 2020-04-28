@@ -156,7 +156,7 @@ Shit these bitches be wearin be fittin real tight
 Niggas up in the club, niggas outside
 Bag a couple bitches, bring 'em in inmtside
 Shorty dodgin and dippin, shorty tryin to hide
-Busy dodgin a nigga because she wanna ride, come on if ya...
+Busy dodgin a nigga because she wanna ride, come on if ya
 
 
 All ready we come to muscle y'all women

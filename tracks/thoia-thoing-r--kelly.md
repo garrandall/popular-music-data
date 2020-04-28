@@ -124,7 +124,7 @@ Thoia thoia thoia thoia thoing
 
 Now I don't kno about chu
 but I would like to get wit 2(ah)
-nice hunnies while im chillin by the pool(ah)
+nice hunnies while I'm chillin by the pool(ah)
 red bikinis and some pupm heel shoes (ah)
 who could think of any dam thing cool(ah)
 we at the crib so it aint no rules(ah)
@@ -146,7 +146,7 @@ Thoia thoia thoia thoia thoing
 I met a girl in the shopping mall
 she had hazel eyes said shes form africa
 she broke it down right in front of me
-rollin on her knees I said im scared of ya
+rollin on her knees I said I'm scared of ya
 tattoo on her back lovin the way she work it
 body movin like shes dancin in the circus
 back forth up down when jerk it

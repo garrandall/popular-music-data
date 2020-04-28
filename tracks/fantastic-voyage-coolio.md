@@ -117,7 +117,7 @@ grab your gat with the extra clip and,
 close your eyes and hit the switch
 We're going to a place where everybody kick it
 kick it, kick it, yeah... that's the ticket
-ain't no bloodin', ain't  no cripin'
+ain't no bloodin', ain't no cripin'
 ain't no punk-ass nigga's set trippin'
 everybody's got a stack and it ain't no crack
 and it really don't matter if you're white or black, I
@@ -126,10 +126,10 @@ put something in the tank and I know that I can bring ya
 If you can't take the heat get yo' ass out the kitchen
 we're on a mission
 
-Come  along and ride on a fantasic voyage
+Come along and ride on a fantasic voyage
 slide slide slippity-slide
 with switches on the block in a '65
-Come  along and ride on a fantasic voyage
+Come along and ride on a fantasic voyage
 slide slide who-ride
 ain't no valley low enough for mountain high
 
@@ -143,17 +143,17 @@ I keep on searchingcand I keep on looking
 but niggas are the same from Watts to Brooklyn
 I try to keep my faith in my people
 but sometimes my people be acting like they evil
-you don't understand  about runnin' with a gang
+you don't understand about runnin' with a gang
 coz you don't gang bang, and
 you don't have to stand on the corner and slang
 coz you got your own thang
 you can't help me if you can't help yourself
 you better make a left
 
-Come  along and ride on a fantasic voyage
+Come along and ride on a fantasic voyage
 slide slide slippity-slide
 I do what I do just to survive
-Come  along and ride on a fantasic voyage
+Come along and ride on a fantasic voyage
 slide slide who-ride
 that's why I pack my .45
 
@@ -168,16 +168,16 @@ stay sucka-free and keep the busters off your jock
 you gotta have heart son, if you wanna go,
 watch this sweet chariot swing low
 ain't nobody cryin` ain't nobody dyin
-ain't  nobody worryin', everybody's tryin
+ain't nobody worryin', everybody's tryin
 nothin' from nothin' leaves nothin'
 if you wanna have something, you better start frontin'
 what ya gonna do when the 5 roll by
 you better be ready, so you can ride
 
-Come  along and ride on a fantasic voyage
+Come along and ride on a fantasic voyage
 slide slide slippity-slide
 when you're living in a city it's do or die
-Come  along and ride on a fantasic voyage
+Come along and ride on a fantasic voyage
 slide slide who-ride
 you better be ready when the 5 roll by
 just roll along- that's what you do

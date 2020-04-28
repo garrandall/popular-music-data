@@ -53,7 +53,7 @@ Dallas Cowboy football on TV
 When the storm starts getting bad, you hear the those sirens humming
 Grab a six pack and a lawn chair there's a tornado coming
 
-... alright ...
+... alright
 
 Musics playin' up and down the block
 Mostly christian blues, country folk and southern rock

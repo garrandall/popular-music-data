@@ -70,7 +70,6 @@ Now all you do is make me cry
 I gave you my everything baby
 But all you gave me was lies
 
-(Chorus 2x)
 I, I try to be the one for baby, you you
 Never was into nothin'
 What I do, do
@@ -89,7 +88,6 @@ You always got to complain
 That's why I got to say
 I can't stay
 
-(Chorus 2x)
 Selfish baby
 Anything you want I do
 I never understand how you
@@ -100,4 +98,3 @@ But what I had was not enough
 You turned around & broke my trust
 Got the nerve to ask me
 What about us?
-(Chorus to fade

@@ -109,7 +109,7 @@ Maybe months go by, maybe years from now
 And I meet someone and it's workin' out
 Every now and then, he can see right through
 'Cause when I look at him
-Yeah, all I  see is you
+Yeah, all I see is you
 
 
 What if I'm tryin', but then I close my eyes

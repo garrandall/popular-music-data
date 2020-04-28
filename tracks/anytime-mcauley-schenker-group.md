@@ -65,7 +65,7 @@ Anytime anytime you want me
 Anytime anytime you're lonely
 You just have to call
 'Cause you know I'll be there
-Ew...
+Ew
 Anytime anytime, you need me
 Anytime anytime, maybe you're dreamin'
 Waking up all alone, your heart is screaming... oh
@@ -83,7 +83,7 @@ Anytime anytime you want me
 Anytime anytime you're lonely
 You just have to call
 'Cause you know I'll be there
-Ew...
+Ew
 Anytime anytime, you need me
 Anytime anytime, maybe you're dreamin'
 Waking up all alone, your heart is screaming, oh

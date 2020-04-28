@@ -25,7 +25,7 @@ rankings:
   start_date: '1980-08-16'
 ---
 
-All right!  It's zee Wango, zee Tango
+All right! It's zee Wango, zee Tango
 1-2-3-4
 Come on boys
 Time to Wango
@@ -44,7 +44,7 @@ My baby got a brand new dance
 Wango Tango
 Wango Tango
 It's a Wango Tango
-Oh yeah!  (oh..)
+Oh yeah! (oh..)
 Baby!
 
 My baby like to rock
@@ -56,7 +56,7 @@ She do...
 Wango Tango
 Wango Tango
 Wango Tango
-Oh yeah!  (oh..)
+Oh yeah! (oh..)
 
 Yeahhhhhhhhhh!
 Baby! Baby! Baby! Oh I like the way you look baby
@@ -110,7 +110,7 @@ It's time to put the old Maserati away
 So you look for a garage, you think you see a garage
 Wait a minute, Hey!, there's one up ahead
 And the damn thing's open
-Hello!  Get in there!
+Hello! Get in there!
 
 Is my baby alive? (Is my baby alive?)
 Is my baby alive? (Is my baby alive?)

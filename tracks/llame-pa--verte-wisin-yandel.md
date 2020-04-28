@@ -31,7 +31,7 @@ Y le doy dembow, dembow (¡Zumba, Yandel!; Eh)
 Bailando sexy
 Le doy dembow, dembow (Duro)
 A ella le encanta cómo le hago
-Y le doy dembow (¿Cómo?), dembow  (Eh)
+Y le doy dembow (¿Cómo?), dembow (Eh)
 
 
 (W's dembow)

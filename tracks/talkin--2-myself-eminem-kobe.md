@@ -133,7 +133,7 @@ Kanye, keep ya head up,
 Don't let up, just keep slaying em
 Rest in Peace to DJ AM
 'Cause I know what it's like
-I struggle with this shit every single day and um...
+I struggle with this shit every single day and um
 
 
 Is anybody out there?

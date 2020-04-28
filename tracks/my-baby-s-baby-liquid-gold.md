@@ -68,7 +68,7 @@ Woah, oh-oh,
 You never notice me.
 Woah, oh-oh,
 Woah, oh-oh,
-You should see me now...
+You should see me now
 
 When he needs a lover,
 His baby plays on his mind.

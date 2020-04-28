@@ -64,7 +64,7 @@ And some judge who thinks he's funny
 Tells me I got to pay six to her
 I said now judge, suppose I fail?
 The judge says, "Ray, son, son, right on into jail.
-Ah, you better keep her.  I think it's cheaper."
+Ah, you better keep her. I think it's cheaper."
 
  You know what I've been doin', don't you?
 

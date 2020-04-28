@@ -82,13 +82,12 @@ The fellas in the back and they twistin up a Phillie
 Get silly (HEY) get silly (HEY) get silly (HEY) get silly (HEY)
 Get silly (HEY) get silly (HEY) get silly (HEY) get silly (HEY)
 
-[Chorus} * overlap
 The dance floor silly, the ladies gon' feel me
 The fellas in the back and they twistin up a Phillie
-* Get silly (HEY) get silly (HEY) get silly (HEY) get silly (HEY)
+Get silly (HEY) get silly (HEY) get silly (HEY) get silly (HEY)
 The dance floor silly, the ladies gon' feel me
 The fellas in the back and they twistin up a Phillie
-* Get silly (HEY) get silly (HEY) get silly (HEY) get silly (HEY)
+Get silly (HEY) get silly (HEY) get silly (HEY) get silly (HEY)
 
 
 My chain too silly (okay) my wrists too silly (okay)

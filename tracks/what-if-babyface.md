@@ -77,7 +77,7 @@ But does she ever ask 'bout me?
 
 
 And I told myself I would but something in my heart just would not let you go
-I just wanna know...
+I just wanna know
 
 
 What if we were wrong about each other?

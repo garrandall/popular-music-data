@@ -99,7 +99,7 @@ Love power takes over
 You see that I have never gotten over you
 So I'm hopin' you still love me
 Like you did before I walked away, uh-huh
-Look what love can do, mmm...hm...
+Look what love can do, mmm...hm
 With just one mistake
 
 Love power, it rules us
@@ -118,7 +118,7 @@ You see that I have never gotten over you
 So I'm hopin' you still love me
 Like you did before I walked away
 I walked away (Oh...whoa...)
-Look what love can do, oh...mmm...
+Look what love can do, oh...mmm
 With just one mistake
 
 Love power, it rules us

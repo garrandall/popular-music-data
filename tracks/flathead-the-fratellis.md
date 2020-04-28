@@ -39,7 +39,7 @@ I saw you one time at the back of the
 club chewing on glass and a ticket stub
 I heard they kicked the boy till he bled
 then stood and said oh my god till she said
-bara bap bara ra ra bara bap bara ra ra ra...
+bara bap bara ra ra bara bap bara ra ra ra
 everybody knows you're the one to call
 when the girls get ugly at the back of the wall
 Josephine says you got a bleeding nose
@@ -50,11 +50,11 @@ they don't come much more slick
 than you I'd drive your car if you ask me to
 said the boy's not right in the head
 so he stood and got a kicking instead till she said
-bara bap bara ra ra bara bap bara ra ra ra...
+bara bap bara ra ra bara bap bara ra ra ra
 
 And she said the boy's not right in the head
 And you stood and said oh my god till she said
-bara bap bara ra ra bara bap bara ra ra ra...
+bara bap bara ra ra bara bap bara ra ra ra
 
 
 

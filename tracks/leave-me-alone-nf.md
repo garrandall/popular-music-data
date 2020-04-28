@@ -42,7 +42,7 @@ The flow is so cold, you would think it was snowing (Leave me alone)
 I'm under the weather, but wind isn't blowin'
 I got an umbrella for difficult moments
 You got to admit it, I'm very devoted
-I'm out in the ring, but they don't always help me, so I...
+I'm out in the ring, but they don't always help me, so I
 
 Hold up my balloons and cover up my face
 I can feel them weighing on me every day

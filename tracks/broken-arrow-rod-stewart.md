@@ -124,7 +124,7 @@ We got mountains to climb, to climb
 Who else is gonna bring you a broken arrow
 Who else is gonna bring you a bottle of rain
 There he goes moving across the water
-There he goes turning  my whole world around
+There he goes turning my whole world around
 turning my whole world around
 turning my whole world around
 turning my whole world around

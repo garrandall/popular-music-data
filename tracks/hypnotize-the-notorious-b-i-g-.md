@@ -91,7 +91,6 @@ rankings:
 
 Uh, uh, uh, c'mon
 
-
 Hah, sicker than your average
 Poppa twist cabbage off instinct
 Niggas don't think shit stink
@@ -113,7 +112,6 @@ Cubans with the Jesus piece, with my peeps
 Packing, asking who want it, you got it nigga flaunt it
 That Brooklyn bullshit, we on it
 
-
 Biggie Biggie Biggie can't you see
 Sometimes your words just hypnotize me
 And I just love your flashy ways
@@ -122,7 +120,6 @@ Biggie Biggie Biggie (uh-huh) can't you see (uh)
 Sometimes your words just hypnotize me (hip to)
 And I just love your flashy ways (uh-huh)
 Guess that's why they broke, and you're so paid (hah)
-
 
 I put hoes in NY onto DKNY
 Miami, D.C. prefer Versace
@@ -143,7 +140,6 @@ At my arraignment, note for the plaintiff
 Face it, not guilty, that's how I stay filthy
 Richer than Richie, 'til you niggas come and get me
 
-
 Biggie Biggie Biggie can't you see
 Sometimes your words just hypnotize me
 And I just love your flashy ways
@@ -152,7 +148,6 @@ Biggie Biggie Biggie (uh-huh) can't you see (huh)
 Sometimes your words just hypnotize me (hip to)
 And I just love your flashy ways (uh-huh)
 Guess that's why they broke, and you're so paid (uh)
-
 
 I can fill you wit real millionaire shit (I can fill ya)
 Escargot, my car go, one sixty, swiftly
@@ -171,7 +166,6 @@ Hit 'em with the force, like Obi, dick black like Toby
 Watch me roam, like Romey
 Lucky they don't owe me
 Where the safe? Show me, homie!
-
 
 Biggie Biggie Biggie can't you see
 Sometimes your words just hypnotize me
@@ -197,4 +191,3 @@ Biggie Biggie Biggie can't you see
 Sometimes your words just hypnotize me
 And I just love your flashy ways
 Guess that's why they broke, and you're so paid
-

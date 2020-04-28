@@ -82,7 +82,7 @@ I'm willing to bet on my soul
 What you want
 I got it here
 
-No matter the  you're in
+No matter the you're in
 Want you to come and be my girlfriend
 No need for you to be without it
 If I ain't got it

@@ -73,7 +73,7 @@ rankings:
   start_date: '1967-09-02'
 ---
 You're just too good to be true
-Can't take my eyes off  of you
+Can't take my eyes off of you
 You'd be like Heaven to touch
 I wanna hold you so much
 At long last love has arrived

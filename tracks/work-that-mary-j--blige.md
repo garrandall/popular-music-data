@@ -98,7 +98,7 @@ Working with what I got, I gotta keep on (Keep on)
 Taking care of myself I wanna live long (Live long)
 Ain't never ashamed what life did to me
 Wasn't afraid to change 'cause it was good for me
-I wanna...
+I wanna
 
 
 I just wanna be myself (I just wanna be)

@@ -71,7 +71,7 @@ Shake your booty
 Lets move together like we did before
 I never get enough I need some more
 
-She's crazy  like a fool
+She's crazy like a fool
 What about daddy cool
 I'm crazy like a fool
 What about daddy cool

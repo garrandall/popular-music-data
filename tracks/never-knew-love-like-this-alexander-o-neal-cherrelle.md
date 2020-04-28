@@ -80,9 +80,9 @@ Nothing on this earth could
 Ever take you away from me
 
 
-'Cause I've been kissed but I...
+'Cause I've been kissed but I
 (Never knew love like this)
-And I've been missed but I...
+And I've been missed but I
 (Never knew love like this)
 (Loved someone before but I...never knew love like this)
 (I've had lots of loving but I never knew love like this)
@@ -100,17 +100,17 @@ Nothing on this earth could
 Ever keep me away from you
 
 
-I've been kissed but I...
+I've been kissed but I
 (Never knew love like this)
-Oh, and I've been missed but I...
+Oh, and I've been missed but I
 (Never knew love like this) Never
 (Loved someone before but I never knew love like this)
 (I've had lots of loving but I never knew love like this)
 Oh, I've been kissed
 (Never knew love like this)
-And I've been missed but I...
+And I've been missed but I
 (Never knew love like this)
-Loved someone before but I...
+Loved someone before but I
 (Never knew love like this)
 No, I never, never, never, never
 (Never knew love like this)

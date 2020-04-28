@@ -12,7 +12,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2018-03-24'
 ---
-My name is Paul Rothenberg, Attorney of Law...
+My name is Paul Rothenberg, Attorney of Law
 And I hereby ratify and confirm that Logic is motherfucking paid
 
 

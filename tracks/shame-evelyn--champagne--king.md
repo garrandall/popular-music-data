@@ -108,7 +108,7 @@ Is where I want to be, want to be
 Wrapped in your arms
 That's my high, my high
 
-I can't get enough, ohbaby
+I can't get enough, oh baby
 Enough of that magic touch
 Love is in my heart
 Tearing the rules apart

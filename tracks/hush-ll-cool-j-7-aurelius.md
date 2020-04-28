@@ -164,7 +164,7 @@ Hush baby hush
 Hush baby hush
 
 
-Hush baby wanna let ya know...
+Hush baby wanna let ya know
 
 
 

@@ -167,7 +167,7 @@ They heard we scary, No Limit mercenary
 No tellin how bad it get, because the worst'll vary
 I heard you make em worry, that this for the loot
 They intimidated by the rounds that the tank shoot
-Tank Dogs salute!  Every robbery in store, cause they know
+Tank Dogs salute! Every robbery in store, cause they know
 everything Fiend know, mean mo' money mo'
 Little Fiend still want the greens, the cornbread and the cabbage
 In your hood, remindin you bitches of who the baddest
@@ -184,8 +184,8 @@ After I bust yo' shit, then after that say na-nah-nah-nah
 I hang with niggas, I do my thang with niggas (unggggh)
 They wanna know if I gangbang, cause I hang with a whole gang of niggas
 So when, we connect bitch better respect this, I step quick
-Cause I got a, vicious right hand but ya know what?  My left is quick!
-Silkk, you the type of nigga that promotes violence?  You might be right
+Cause I got a, vicious right hand but ya know what? My left is quick!
+Silkk, you the type of nigga that promotes violence? You might be right
 cause I'll step in the club and say somethin
 to get that motherfucker start to, fightin! (Bout it!)
 Bad as vogues, I'm cold, extra see through
@@ -198,7 +198,7 @@ We capitalize and monopolize on everything we see keep pistols drawed
 and cocked, we got the industry locked, we can't be stopped, too hot
 Check the spots that we got, on Billboard
 This Tank can set up roadblocks, we fadin all you hoes
-Want some mo?  Then let's go, stretch you out like elastic
+Want some mo? Then let's go, stretch you out like elastic
 Zip that ass up in plastic, have ya folks pickin caskets
 We drastic, our tactics is homegrown in the ghetto
 So feel the wrath of this sista, it's like you fightin 10 niggas

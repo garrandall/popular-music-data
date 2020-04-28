@@ -51,9 +51,9 @@ They win you lose
 Hey, hey, hey, hey, hey stoopid
 
 C'mon girl, it's a better day
-Get your foot out of  that grave
+Get your foot out of that grave
 Don't let that one love tear your world apart
-C'mon babe, kick  that stuff
+C'mon babe, kick that stuff
 Show the street it ain't so tough
 Quit lyin' around with a crippled, broken heart
 

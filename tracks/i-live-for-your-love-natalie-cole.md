@@ -122,7 +122,7 @@ If I just exists
 
 I know there are people I can see
 Places I can be
-And friends who  call
+And friends who call
 
 Oh but, what good does it do
 There's no subsitute for you

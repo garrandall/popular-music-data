@@ -73,7 +73,7 @@ You the only one getting tongue where the sun don't shine
 But Pun don't mind as long as you lovin me
 And if you ever catch me cheatin, girl it wasn't me
 
-How did I  think u were just seeing me
+How did I think u were just seeing me
 When u always, get all those late night beeps
 You didn't think that I'd pick up your phone
 And I know that was wrong, but now I know for sure

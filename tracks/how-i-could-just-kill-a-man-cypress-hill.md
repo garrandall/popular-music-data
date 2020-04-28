@@ -72,7 +72,7 @@ I'm ignorin' all the dumb shit
 Yo, because nothing is comin' from it
 I'm not gonna waste no time fuckin' around
 My gat straight hummin'
-Hummin'... comin' at cha...
+Hummin'... comin' at cha
 And you know I had to gat ya
 
 

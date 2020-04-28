@@ -184,7 +184,7 @@ Get off my couch (Get)
 And I just can't change it, it's gon' be good, get out on ya route
 My bad, Joe
 I-I-I-I seen it comin' with that nappy hair
-She was runnin'  docked out, wantin' what you had
+She was runnin' docked out, wantin' what you had
 Y-Y-Y-You let 'em set'cha up and you fell for it
 Now it's, "I-I-I'm sorry" my ass
 That's why you're payin' for it

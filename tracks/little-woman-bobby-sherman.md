@@ -63,7 +63,7 @@ rankings:
 Hey Little Woman please make up your mind
 You've got to come into my world and leave your world behind
 Come on now
-Na, na, na, na...
+Na, na, na, na
 You got to come down from that cloud girl and Leave your world behind
 
 When your with me I feel sunshine Even when I'm standing in the rain
@@ -76,7 +76,7 @@ And there's so little time
 Hey Little Woman please make up your mind
 You've got to come into my world
 And leave your world behind
-Na, na, na, na...
+Na, na, na, na
 You got to come down from that cloud girl and Leave your world behind
 
 What do you see, when your walking down a busy street and I'm not there
@@ -88,5 +88,5 @@ Why don't you come into my world and leave your world behind
 
 Hey Little Woman please make up your mind
 You've got to come into my world and leave your world behind
-All right now... Na, na, na, na...
+All right now... Na, na, na, na
 You got to come down from that cloud girl and Leave your world behind

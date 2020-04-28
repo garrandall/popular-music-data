@@ -104,7 +104,7 @@ She got a Gucci bag, her brand new outfit
 Stuck on my elevator, she on the second flo'
 Now I want you to break it down, DJ turn it up some mo'
 Hey!
-Dimepiece girl  hottie
+Dimepiece girl hottie
 Little momma strut that Top Model body
 South Beach peach on the back of that Ducati
 I'll bet you that brand new Ferrari

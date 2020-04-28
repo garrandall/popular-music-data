@@ -24,9 +24,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1993-06-26'
 ---
-Williams Freedom
-Freedom
-Voice Of Freedom
 I'm back with a new track
 This ain't fiction it's fact
 I made the rules that will make you wanna groove
@@ -36,7 +33,6 @@ Grab your girl and just move that's how
 Now is the time, now is the year
 And this is the world premiere!
 
-(Chorus)
 Freedom, freedom, free!
 Freedom, freedom, free!
 
@@ -52,9 +48,7 @@ Cause when I dance I'm ill
 No rules allowed no holds are barred
 Just dance till you wet your pants and that's hard
 Like Bobby Brown I'm on my own
-And I'm b-b-b-b-bad to the bone
-
-(Repeat Chorus)
+And I'm bad to the bone
 
 Break it down for me brother!
 
@@ -71,7 +65,9 @@ Move a little bit or I'm gonna bump
 There's no shame to claim the fame that I became
 So everybody scream that name
 
-(Repeat Chorus)
-(Radio Verse)
-
-Freedom, freedom, free - I hear the voice of (x6)
+Freedom, freedom, free - I hear the voice of
+Freedom, freedom, free - I hear the voice of
+Freedom, freedom, free - I hear the voice of
+Freedom, freedom, free - I hear the voice of
+Freedom, freedom, free - I hear the voice of
+Freedom, freedom, free - I hear the voice of

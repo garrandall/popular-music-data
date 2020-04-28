@@ -131,7 +131,7 @@ I love music
 Just as long as it's grooving
 
 And I say I love, I love, I love, I love, I love music
-Sweet, sweet music.  (Keep it grooving.)
+Sweet, sweet music. (Keep it grooving.)
 I love, I love, I love, I love, I love music
 Listen, listen, listen
 I love, I love, I love, I love, I love music, music
@@ -139,19 +139,19 @@ I love, I love, I love, I love, I love music, music
 I love, I love, I love, I love, I love music
 Funky, funky music
 I love, I love, I love, I love, I love music
-Boogie, boogie.  (Groovy, ohohohoovy now.) Boogie
+Boogie, boogie. (Groovy, ohohohoovy now.) Boogie
 I love, I love, I love, I love, I love music
 (We can dance all night long now.)
 Any, any, any kind of music, music
-I love, I love music, music.  I love.  (Sweet, sweet music.)
-Na, na, na, na, na, na.  (Ah, ah, ah, ah.)
-No, no, no, yeah, yeah.  (Keep it grooving.)
+I love, I love music, music. I love. (Sweet, sweet music.)
+Na, na, na, na, na, na. (Ah, ah, ah, ah.)
+No, no, no, yeah, yeah. (Keep it grooving.)
 I love, I love, I love, I love, I love music
 
 (Instrumental break)
 
-Come on.  (Get it on.) Get it on
-Come on, come on.  Get it on
+Come on. (Get it on.) Get it on
+Come on, come on. Get it on
 Get it on, get it on, get it on, get it on
 (Get on down.) Get it on
 Come on, come on, come on, get it on
@@ -164,20 +164,20 @@ Groove
 Ohhh, oh, ohoh, oh, ohoh, oh, oh
 
 I said I love, I love, I love, I love, I love mu-mu-music
-Music, music.  (Real good music.)
-I love, I love, I love, I love, I love music.  Yeah, yeah
+Music, music. (Real good music.)
+I love, I love, I love, I love, I love music. Yeah, yeah
 (Keep it grooving.)
 I love music, (Sweet, sweet music.)
-Any, any kind of music.  Yeah, yeah.  (Groovy music.)
+Any, any kind of music. Yeah, yeah. (Groovy music.)
 I love music just as long as it's grooving
-(Oh, baby, turn me on.  Funky.)
-(I love music.) I'm so happy to be in complete harmony.  (Sweet)
-I'm loving you, girl.  (Sweet music.) You got the music
+(Oh, baby, turn me on. Funky.)
+(I love music.) I'm so happy to be in complete harmony. (Sweet)
+I'm loving you, girl. (Sweet music.) You got the music
 (Groovy.) I love music
 You got the music
 I say now (I love music.) I love, I love, I love, I love, I love
-Get it on, yeah.  Put it on, yeah, yeah
+Get it on, yeah. Put it on, yeah, yeah
 ( I love music.) Nothing can be better than a sweet love song
 No, no, no, no, no, no
-Grooving with you, darling.  (I love music.)
+Grooving with you, darling. (I love music.)
 Love you

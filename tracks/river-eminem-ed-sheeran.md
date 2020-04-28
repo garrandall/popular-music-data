@@ -82,7 +82,7 @@ Denn sie liebt Gefahr, Psychopath
 Und du fickst mit niemandes Mädchen, selbst ich weiß das
 Aber sie hat einen Plan entwickelt, ihm in den Rücken zu stechen
 Messer in der Hand, sagt, dass ihre Beziehung an einer Strähne hängt
-Also war sie neuerdings im Netz
+Also war sie neuerdings I'm Netz
 Sagt, vielleicht wird sie meine Gwen Stacy sein, um ihren Mann zu ärgern
 Und ich weiß, sie benutzt mich, um zu versuchen, ihn zu betrügen, mir egal
 Hi Suzanne, aber ich hätte sagen sollen: „Bye Suzanne“
@@ -117,7 +117,7 @@ Nutzte den Vorteil in meinem Verfolgungsdurst
 Warum mache ich diesen Dreck, den ich mache?
 Steige auf meine Tribüne und predige meine Predigt und Rede
 Reinigungsmittel und Bleiche verbrennen die Wunde
-Denn jetzt, mit ihr im Mutterleib
+Denn jetzt, mit ihr I'm Mutterleib
 Können wir sie nicht in diese Welt bringen, hätten daran denken sollen
 Schutz zu verwenden, bevor ich in deine verbotene Frucht gebissen habe
 Fuck!
@@ -145,7 +145,7 @@ Die Geschwindigkeit ist enorm, als würde ich auf Eis rutschen, vielleicht
 Ist das, warum ich dich vielleicht von der Seite angemacht habe
 Ich kann meine Lügen nicht beisammen halten
 Aber ich brachte dich dazu, mein Baby aufzulösen
-Diese Dreiecksbeziehung ließ uns im Ruin zurück, verwirrt
+Diese Dreiecksbeziehung ließ uns I'm Ruin zurück, verwirrt
 Was kann ich noch sagen? Es hat eine Zeit lang Spaß gemacht
 Wette, ich hätte dein Lächeln wirklich geliebt
 Wollte nicht wirklich abtreiben, aber scheiß drauf

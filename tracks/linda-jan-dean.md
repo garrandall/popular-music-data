@@ -75,7 +75,7 @@ I walk with my ar-ar-ar-arms about linda
 But what good does it do me
 'Cause linda doesn't know I exist
 I can't help feelin' gloomy
-Thinkin' 'bout the lovin' i've missed
+Thinkin' 'bout the lovin' I've missed
 We pass on the street
 (Pass on the street)
 My heart skips a beat

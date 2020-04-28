@@ -29,13 +29,13 @@ Be alright, be alright
 Everything is gonna be alright
 
 I don`t have no money
-I don`t have 
+I don`t have
 Sometimes my friends forsake me
 Causes me to weep and moan
 
 Wait a minute, sometimes
 In the lake in your eyes
-You were all  with tears
+You were all with tears
 Thinking bout the way I suffered
 Coming up through the years
 

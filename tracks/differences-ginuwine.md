@@ -132,7 +132,7 @@ rankings:
 Oh, hey...
 Oh, yeah, oh, yeah
 To you
-Mmm...mmm...mmm...
+Mmm...mmm...mmm
 Oh, yeah, babe
 
 My whole life has changed

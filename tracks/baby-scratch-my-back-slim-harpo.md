@@ -67,7 +67,7 @@ I know you can do it, so baby get to it
 Aww,you're workin with it now
 You got me feelin' so good
 Just look to the sun now baby
-Ummmmm...
+Ummmmm
 
 This little girl sho' knows how'd scratch
 Now, you're doin' the chicken scratch

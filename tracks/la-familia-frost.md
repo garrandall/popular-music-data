@@ -117,7 +117,7 @@ And my familia is anyone whose skin is brown
 Rancheros and the trucks so the grey vans
 Taggers in the alley with a bag full of spraycans
 Here come the jura gotta bail out
-And even them  cops but they sell out
+And even them cops but they sell out
 The cholos the cholas who ain't soft
 It's the mean mafioso gangster Frost
 Comin' at ya, don't try to slam me

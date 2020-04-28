@@ -123,7 +123,7 @@ Left keep it in step, keep it in step, keep it in step
 2 tight military
 3 grenade my
 4-5 still a bustin
-6 rounds cause i'm trill with this
+6 rounds cause I'm trill with this
 7 mo' for the busta in the blue suit
 8 choppers and they filled with troops
 9 seconds 'foe you lose ya life

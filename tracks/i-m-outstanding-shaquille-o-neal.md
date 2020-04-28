@@ -95,7 +95,7 @@ Like the fam do, in the stands too
 When I freak the funk on a dunk they, "Ah! Oh!"
 From high school to college, they gave me enough knowledge
 Make that gift and now it's time for me to fulfill my dream
-To be in the  like Hakeem
+To be in the like Hakeem
 I'll make the backboards shatter
 Fans chit-chatter
 Even make the other centers get madder

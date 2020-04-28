@@ -117,7 +117,7 @@ Oh, girl, I need you so
 
 It's been touch and go
 Off and on, we've been strong
-But then we didn't know...
+But then we didn't know
 
 
 

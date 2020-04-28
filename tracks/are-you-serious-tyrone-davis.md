@@ -32,10 +32,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1983-01-29'
 ---
-For years, i've waited
+For years, I've waited
 And i'll wait again
 I know patience is a virtue
-But i'm wearing thin
+But I'm wearing thin
 
 I've got my fingers crossed
 Praying every night

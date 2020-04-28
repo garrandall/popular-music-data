@@ -78,14 +78,14 @@ Couple pounds in the sack
 Look at what we got right here, such a work of art, someone I'll give my heart to any thing
 Thats what I do, just so that she would be mine, I give her all my time, every part of me
 My mind, soul, my body wassup
-I wanna...
+I wanna
 
 
 Ride with ya, ride with ya, I wanna move with ya, move with ya, move with ya, I wanna ride
 With ya, ride with ya, ride with ya, I wanna move with ya, move with ya, move with ya, I wanna
 Ride
 
-Your the type that just don't care, if its you I want im gonna come and get you and see whats
+Your the type that just don't care, if its you I want I'm gonna come and get you and see whats
 Really good with, you please believe I'll take you there, but first lets see if your'e
 Intelectual, matches up with your physical baby
 

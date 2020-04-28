@@ -118,7 +118,6 @@ Hustle mean hard work, hard work
 If you scared go to church
 Man this rap stuff is easy, every beat I get I murder
 
-(Chorus)
 Cause I'm a hood nigga
 I keep the purp by the pound
 The trunk stay bumpin' ya'll know we run the town (hood nigga)
@@ -139,7 +138,6 @@ Z-O-E climax to the beat
 I see you, naw you see me
 You'll see I see you fuckin' with me
 
-(Chorus)
 Watchin' out for gold diggers like Kanye
 But I will play Beyonce, or Ashanti
 Make Keyshia Cole say she shoulda cheated if she ever come my way
@@ -148,7 +146,6 @@ Trickin' out magic city every Monday
 It ain't trickin' if you got it that's what I say
 You say? I say and what I say goes
 
-(Chorus)
 All the girls jockin', beat steady knockin'
 Middle of the stage got the whole club rockin'
 Nigga you can hate but your bitch steady watchin'

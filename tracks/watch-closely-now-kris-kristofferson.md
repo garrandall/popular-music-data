@@ -71,5 +71,5 @@ When you're not around
 But I can take it
 Don't look down
 
-Watch closely now...
+Watch closely now
 Are you watching me now?

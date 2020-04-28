@@ -34,10 +34,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2005-07-02'
 ---
-(Ladies and gentlemen, ladies and gentlemen)
-(This is a Jazze Phizzle productshizzle)
-
-(whoa whoa whoa whoa)
 You see errtime that beat go (beat go) I need you to shake that thang, girl
 (uh) yea errtime that beat go
 (whoa whoa whoa whoa)
@@ -49,8 +45,7 @@ Don't run outta gas girl
 Break it down, break it down, for me
 Don't run outta gas girl (uuh)
 
-(Nelly)
-Hat cocked can't see his eyes...who could it be
+Hat cocked can't see his eyes... who could it be
 With the newest STL who there for me
 Who else with us behind the tint of the new GT
 The continental on blow got them feeling real blue
@@ -62,7 +57,6 @@ Man, this happened vegas, and they hit me for a mil' worth
 How many rappers man can tell you what a mil' worth
 All my life damn worryin bout a mil' worth
 
-(whoa whoa whoa whoa)
 Uh, You see errtime that beat go (beat go) I need you to shake that thang, girl
 (uh) yea errtime that beat go
 (whoa whoa whoa whoa)
@@ -74,8 +68,6 @@ Don't run outta gas girl
 Break it down break it down for me
 Don't run outta gas girl
 
-(Jung Tru)(Nelly)
-(Yo yo yo)
 I'm def'er than Jermaine, you could say I'm so so (So So)
 Player taylor made, thats a no no (no no)
 Sure it a 'aftermath', but I ain't a doctor
@@ -86,7 +78,6 @@ Like Ciara when I get in her 'Goodies'
 Cuz' I'm Jazzy like Pha with a tank in the Hoody
 I'm Like..
 
-(King Jacob)(Nelly,Jung Tru)
 Yea, better need to make your mind up
 Ain't see her by now, you ain't gon' find her (find her)
 She looks good, but she looks finer (she looks finer)
@@ -95,13 +86,11 @@ Yea, King- Laker, you ain't gotta know me,(but ya gotta know me)but yet you soon
 Like (whoa whoa whoa whoa)
 
 
-(Bridge:)(Nelly)
 Okay, now let me see you do it baby
 (Okay), don't be afraid go now
 And don't be ashamed of how you do it
 Just (whoa whoa whoa whoa)
 
-(Nelly)
 You see I'm tired of playin games with
 Niggas with money names
 For real money, you lame
@@ -117,7 +106,3 @@ Buttoned up, some call it grown up look
 I like to call it havin money that fold up look
 That Don Perignon, Chrystal cold duck look
 Got her (whoa whoa whoa whoa)
-
-(Chorus)
-(whoa whoa whoa whoa)
-(whoa whoa whoa whoa)

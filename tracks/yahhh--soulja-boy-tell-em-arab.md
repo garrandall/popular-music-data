@@ -61,13 +61,13 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2008-05-10'
 ---
-Ah Soulja Boy can I...
+Ah Soulja Boy can I
 Yahhh trick yahhh
 Yo Arab I really like...
 Yahhh trick yahhh
 ColliPark...
 Ah Bla Bla Uh Bla
-Ah man I was just wondering can I...
+Ah man I was just wondering can I
 Yahhh Yahhh trick
 Get out me face
 Get out my face
@@ -96,13 +96,13 @@ So get up out my face
 You doo-doo head dummy
 
 
-Ah Soulja Boy can I...
+Ah Soulja Boy can I
 Yahhh trick yahhh
 Yo Arab I really like...
 Yahhh trick yahhh
 ColliPark...
 Ah Bla Bla Uh Bla
-Ah man I was just wondering can I...
+Ah man I was just wondering can I
 Yahhh Yahhh trick
 Get out me face
 Get out my face
@@ -132,13 +132,13 @@ Snitch yahhh trick snitch yahhh trick
 Yahhh Ya yahhh ya yahhh yahhh
 
 
-Ah Soulja Boy can I...
+Ah Soulja Boy can I
 Yahhh trick yahhh
 Yo Arab I really like...
 Yahhh trick yahhh
 ColliPark...
 Ah Bla Bla Uh Bla
-Ah man I was just wondering can I...
+Ah man I was just wondering can I
 Yahhh Yahhh trick
 Get out me face
 Get out my face

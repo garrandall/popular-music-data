@@ -95,4 +95,4 @@ Noy much longer would you be mine
 Said I heard it through the grapevine
 (Heard it through the grapevine)
 I heard it (yeah, yeah, yeah)
-Honey, I know, I know...
+Honey, I know, I know

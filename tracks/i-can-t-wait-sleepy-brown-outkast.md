@@ -100,7 +100,7 @@ I can't wait...
 
 I can't wait, I can't wait
 I can't wait, no I can't wait
-Ohbaby, come home, got plans tonight
+Oh baby, come home, got plans tonight
 (Plans tonight, plans tonight, plans tonight, plans tonight)
 Anticipatin', the love and I'm gon' get it 'til the mornin' light
 (Mornin' light, mornin' light, mornin' light, mornin' light)
@@ -131,7 +131,7 @@ Oh it's been too long now baby, let's seize the night
 (Seize the night, seize the night, seize the night, seize the night)
 Cause I'm gonna take you on a journey, enjoy the ride
 (Enjoy the ride, enjoy the ride, enjoy the ride, enjoy the ride)
-Enjoy the ride, up and down (ohbaby!)
+Enjoy the ride, up and down (oh baby!)
 Up and down (whoo lady!)
 Round and round (take it)
 Round and round (whoo)

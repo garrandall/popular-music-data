@@ -87,7 +87,7 @@ All hail the new king in town
 
 Ain't nothin' but a muffin
 We gotta lotta butter 2 go
-(Y'say aye, an' I like ya 'way, but don't come now)
+(Y'say aye, and I like ya 'way, but don't come now)
 And if it break when it bend
 U better not put it in - uh
 

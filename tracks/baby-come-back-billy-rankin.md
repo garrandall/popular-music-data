@@ -84,10 +84,10 @@ Baby come back, back, back, back
 Baby come back, back, back, back
 Baby come back I'm in the danger zone
 I said, baby come back, baby come back cause I'm all alone
-Baby come back, (ohbaby come back)baby come back I'm in the danger zone
+Baby come back, (oh baby come back)baby come back I'm in the danger zone
 I said, baby come back, baby come back
 Baby come back cause I'm all alone
-Baby come back, (ohbaby come back)baby come back I'm in the danger zone
+Baby come back, (oh baby come back)baby come back I'm in the danger zone
 I said baby come back, baby come back, baby come back cause I'm all alone
 Baby come back, oh baby, baby come back I'm in the danger zone
 

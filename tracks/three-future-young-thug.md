@@ -33,7 +33,7 @@ I mixed some Act' with some yellow 'Tuss like a Laker (Yeah)
 Three shot 'em like a motherfuckin' Pacer (Southside, yeah, yeah)
 Never lose like I'm motherfuckin' McGregor (Yeah)
 Inside the whips come red like ketchurp (Yeah)
-Count this money up with glasses like a niz-zerd  (Yeah)
+Count this money up with glasses like a niz-zerd (Yeah)
 Codeine laboratory like I'm Dexter
 Bad yellow skin, Filipin'
 Envious and gin, never win

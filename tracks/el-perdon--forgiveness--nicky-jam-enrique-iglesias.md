@@ -220,7 +220,7 @@ Y hacer el intento
 
 N.I.C.K
 Nicky Jam, Enrique Iglesias
-(No quiero que me deje,  por favor)
+(No quiero que me deje, por favor)
 Haciendo historia
 Saga White Black
 (Y te pido perdón)

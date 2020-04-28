@@ -67,18 +67,18 @@ Let me show you who I am
 All week I've been your husband, tonight I wanna be your man
 
 And I'll always be, your cover when your cold
-And when the world winds up against you, im the safe place you can go
+And when the world winds up against you, I'm the safe place you can go
 But now and then, we need to find some time to be in love, just be in love
 
 Now the whole worlds in bed sleepin, I think were finally alone
 And if the telephone starts ringin, we'll pretend like were not home
 Cause any fool would understand
-That all week ive been your husband, tonight I wanna be your man
+That all week I've been your husband, tonight I wanna be your man
 
 Mhhmh, mmhmmmhm
 
 So let me show you who I am
-All week ive been your husband, tonight I wanna be your man
+All week I've been your husband, tonight I wanna be your man
 
 Just forget about that old wedding band
 All week I've been your husband, tonight I wanna be your man

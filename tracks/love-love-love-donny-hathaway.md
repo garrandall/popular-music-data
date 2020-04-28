@@ -59,7 +59,7 @@ Sweet face
 Love love love you can't imagine what you did to me aww baby
 And love love your love everytime you smile it goes
 Through me all the time
-Day by day i'm fallin more in love with you
+Day by day I'm fallin more in love with you
 And thats no lie, cross my heart and honey I hope to die
 Cuz I'm not tryin to mislead ya believe me girl I really need ya
 

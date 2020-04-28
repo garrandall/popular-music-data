@@ -109,15 +109,15 @@ And bring, North Carolina, and Virginia, to the front of the line
 We're gonna stand by
 
 
-This one's for North Carolina!  C'mon and raise up
+This one's for North Carolina! C'mon and raise up
 Take your shirt off, twist it 'round yo head
 Spin it like a helicopter
-North Carolina!  C'mon and raise up
+North Carolina! C'mon and raise up
 This one's for you, uh-huh, this one's for who?
 Us, us, us; yes sir!
 
 
-Who am I?  Petey Pab motherfucker!
+Who am I? Petey Pab motherfucker!
 First to put it down for North Carolina
 But guess what (what?), it's been worth it
 I'ma superstar, bought me a big ol' car

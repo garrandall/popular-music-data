@@ -74,8 +74,8 @@ rankings:
 ---
 There's so many places I wanna kiss you, baby
 I cannot begin to start
-I realize that i'm not the only man that made love to you
-But i'm the only man who knows how to keep you
+I realize that I'm not the only man that made love to you
+But I'm the only man who knows how to keep you
 Okay, baby, your body's mine, believe it, mmm
 All the, the places I will kiss you
 Oh, baby, let me kiss you (please let me kiss you) with all my love (you
@@ -83,7 +83,7 @@ Know I love you, girl)
 All the (yeah), the places I will kiss you (all the places)
 Oh, honey, let me kiss you (let me, baby) with all my love (with all my
 Love)
-Here I am, i'm ready, baby
+Here I am, I'm ready, baby
 My desire is to please you, honey
 I'll concentrate on you
 There's no other who can do what i'll do to you
@@ -107,7 +107,7 @@ All the (all the places), the places I will kiss you (every single spot
 On you)
 Oh, baby, let me kiss you (please, baby) with all my love (ho…all the
 Places)
-All the (baby, i'm dyin' inside), the places I will kiss you (i can't
+All the (baby, I'm dyin' inside), the places I will kiss you (i can't
 Wait to hold ya)
 Oh, honey, let me kiss you (i'm fiending for your love, babe) with all
 My love (ho…)
@@ -118,8 +118,8 @@ I'll love you down, baby (i love you)
 Like you never (like you never) been touched
 All the places , yeah, yeah, yeah
 Let me kiss you (let me kiss you, baby, my lips are so for you)
-All the  (oh, baby, oh, baby)
-Kiss you  (let me kiss you) with all my love (with
+All the (oh, baby, oh, baby)
+Kiss you (let me kiss you) with all my love (with
 All my love)
 All the (there's no reason), the places I will kiss you (there's no
 Reason to cry, oh, baby)

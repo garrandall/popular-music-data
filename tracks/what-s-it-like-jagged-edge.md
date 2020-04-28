@@ -43,7 +43,7 @@ Family, is that so much to ask Thee?
 Begging please
 Feel like I'm going mad
 I'd trade all I have
-Just to know...
+Just to know
 
 What's it like to be in love? That's all I been thinking of
 And I was just wondering, wil love ever know me?

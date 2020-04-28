@@ -71,9 +71,9 @@ I said I love you
 Oh, oh, I love you
 Oh, oh, I love you
 
-La la la la...
+La la la la
 I said I love you
-La la la la...
+La la la la
 Don't you know I love you
 
 Oh, oh, I love you

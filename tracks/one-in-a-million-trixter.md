@@ -47,13 +47,13 @@ When it comes you will know
 You never thought you'd feel
 
 (And) sometimes you say to yourself
-Is this really what i'm looking for ?
+Is this really what I'm looking for ?
 'Cause only time will tell
 If this is heaven or hell
 To really know if you're sure
 
 I walk this lonely road
-And I felt i'm goin' nowhere
+And I felt I'm goin' nowhere
 (And) some things I'll never know
 But I know why you're the only one
 
@@ -69,12 +69,12 @@ Like I'm someone
 So don't change the way that you are
 
 I walk this lonely road
-And I felt i'm goin' nowhere
+And I felt I'm goin' nowhere
 (And) some things I'll never know
 'Cuase you're a million and one
 
 I walk the lonely road
-And I felt i'm goin' nowhere
+And I felt I'm goin' nowhere
 (And) some things I'll never know
 But I know why you're the only one
 

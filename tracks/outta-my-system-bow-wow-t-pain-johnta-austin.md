@@ -121,8 +121,8 @@ When I'm with somebody, all I think 'bout is you
 When I'm all alone - that's all I wanna do
 I miss the smiley faces in my sidekick, out of town visits
 All the time we spent together, makes it hard to get you outta my system
-You know what you do to me (do to me)  you don't even understand
-Damn  you know what you do to me (do to me)
+You know what you do to me (do to me) you don't even understand
+Damn you know what you do to me (do to me)
 It's so hard to get you outta my system
 
 
@@ -147,8 +147,8 @@ When I'm with somebody, all I think 'bout is you
 When I'm all alone - that's all I wanna do
 I miss the smiley faces in my sidekick out of town visits
 All the time we spent together, makes it hard to get you outta my system
-You know what you do to me (do to me)  you don't even understand
-Damn  you know what you do to me (do to me)
+You know what you do to me (do to me) you don't even understand
+Damn you know what you do to me (do to me)
 It's so hard to get you outta my system
 
 
@@ -158,7 +158,7 @@ I been trying to get you off my mind
 But I can't after all this time - that's what kills me
 
 Is it wrong for me to feel this way
-You been running through my mind all day  can you feel me
+You been running through my mind all day can you feel me
 I been trying to get you off my mind
 But I can't after all this time - that's what kills me
 
@@ -166,8 +166,8 @@ When I'm with somebody, all I think 'bout is you
 When I'm all alone - that's all I wanna do
 I miss the smiley faces in my sidekick out of town visits
 All the time we spent together, makes it hard to get you outta my system
-You know what you do to me (do to me)  you don't even understand
-Damn  you know what you do to me (do to me)
+You know what you do to me (do to me) you don't even understand
+Damn you know what you do to me (do to me)
 It's so hard to get you outta my system
 
 

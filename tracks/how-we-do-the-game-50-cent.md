@@ -140,7 +140,7 @@ If you still dey doubt me then onyaaye
 Aayalolo cos w)gb3 j3k3
 You figa you go bite the flow? obaa kpe t3 p3
 Ifite j3m3 am3ntaw) mi y3 Gomoa F3t3
-Cos i'm the shit, adid)n dey on my every verse
+Cos I'm the shit, adid)n dey on my every verse
 My pen is the best, I manifest my angriness
 I stay so fly that means I left an empty nest
 I'm here to stay, you rappers all be forkin guests

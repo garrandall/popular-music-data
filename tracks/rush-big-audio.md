@@ -101,13 +101,10 @@ And the times that I've been down
 I didn't get too high
 Kept my feet on the ground
 
-
-(Peter Sellers speaking)
 Yes, yes, delightful, delightful
 
 Rush for a change of atmosphere
 
-(Peter Sellers again)
 Mmm, I wish I could sing like that
 'Cause not everything's singing, you know
 The only important thing these days is rhythm and melody
@@ -124,10 +121,7 @@ I know, I've had my share
 But life just carries on
 Even when I'm not there
 
-(Chorus x2)
-
 Gotta get myself right
 Gotta get myself right
 Gotta get myself right
 Outta here
-(x2)

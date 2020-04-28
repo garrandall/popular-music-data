@@ -32,7 +32,7 @@ Made to do what comes so naturally
 
  together love
 We fit just like a glove
-Can you  babe
+Can you babe
 Like fire atop a fire
 We take each other higher and higher
 
@@ -54,7 +54,7 @@ Don't you love the way we do it babe
 
  together love
 We fit just like a glove
-Can you  babe
+Can you babe
 Like fire atop a fire
 We take each other higher and higher
 
@@ -71,7 +71,7 @@ Don't, don't cha love it
 
  together love
 We fit just like a glove
-Can you  babe
+Can you babe
 Like fire atop a fire
 We take each other higher and higher
 

@@ -53,12 +53,10 @@ But be alive
 I know that we will
 The world keeps on moving but I'm holdin' still
 
-
 In the beginning, I was far away and praying for my destiny
 That would arrive
 The moment you're born
 For we will be here when the miracle comes
-
 
 Living eyes, when under the sun don't cry
 No war in my mind
@@ -66,32 +64,27 @@ The state of my heart
 Living eyes, when out in the rain will fall
 The day I deny the face of my love
 
-
 We are of age, we are in time, we are forever
 Right now when the power is mine
 I leave you heaven and the earth, I leave you never
 And living to love is the reason we shine
-
 
 I been over I been under
 I don't own a dream to analyze
 But living eyes you know that I do
 Believe in the soul and the magic of you
 
-
 Living eyes, when under the sun don't cry
 No war in my mind
 The state of my heart
 Living eyes, when out in the rain will fall
 The day I deny the face of my love
 
-
 We are of age, we are in time, we are forever
 Right now when the power is mine
 I leave you heaven and the earth, I leave you never
 And living to love is the reason we shine
 
- (x2)
 Living eyes
 When under the sun don't cry
 No war in my mind

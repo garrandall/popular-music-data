@@ -137,7 +137,7 @@ The first day of class and all you gotta do is stack cash to pass
 Don't mind me I'm just thinking out loud
 Purple haze got my head in the cloud
 
-Getting to it, let's  just face it
+Getting to it, let's just face it
 We can do it if we try
 We can make it if we try, make it if we try (say I)
 Ain't nothing to it
@@ -148,9 +148,9 @@ Say I
 Let's just do it
 We can make it
 I know we'll make it if we try
-Say I...
+Say I
 
-Whoaaa...
+Whoaaa
 
 Ima make it happen
 Ima make a way
@@ -163,7 +163,7 @@ Ima make it hot
 If you feeling like I do, then people throw your hands up
 Say I...I
 
-Getting to it, let's  just face it
+Getting to it, let's just face it
 We can do it if we try
 Ain't nothing to it
 Let's just take it

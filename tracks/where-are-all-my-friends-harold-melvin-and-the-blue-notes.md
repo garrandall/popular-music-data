@@ -73,11 +73,11 @@ Wish someone would help me
 
 Yeah, baby
 Where are all my friends
-I'm looking, y'all.  I'm looking all over
+I'm looking, y'all. I'm looking all over
 Where are all my friends
 I'm looking for the friends I used to call my very own
 Where are all my friends
-I need somebody right now.  Hey
+I need somebody right now. Hey
 Where are all my friends
 I can't find a father or a mother
 Where are all my friends
@@ -86,7 +86,7 @@ I remember the time I used to be walking up and down the streets
 And I remember you and you and you and you and you
 I remember when used to say that, yeah, trying to get me to spare a dime
 And I used to come out the bottom of my heart
-'Cause I thought you were a friend of mine.  Huh
+'Cause I thought you were a friend of mine. Huh
 But it seems, yeah, it seems like that you didn't even give a damn about me, no
 But now I'm down and out and I need a friend
 I surely need a friend

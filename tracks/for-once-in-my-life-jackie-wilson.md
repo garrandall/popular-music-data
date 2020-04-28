@@ -41,7 +41,7 @@ This is mine, you can't take it
 Long as I know I've got love I can make it
 For once in my life
 I've got that someone who needs me
-Mmm... hm... hm...
+Mmm... hm... hm
 For once I can say
 This is sho nuff mine, you can't take it
 Long as I know I've got love I can make it

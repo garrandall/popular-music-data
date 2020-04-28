@@ -46,7 +46,7 @@ rankings:
 ---
 Awesome, awesome, awesome, awesome
 I don't necessarily have to be here for this
-Can I...
+Can I
 I'm gonna keep the headphones though
 
 

@@ -47,4 +47,4 @@ Listen to me, my girl
 Oh, my darling, dear
 I need your love so bad, whoa
 How nice, la la la la
-How nice, la la la la...
+How nice, la la la la

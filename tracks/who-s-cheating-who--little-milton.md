@@ -108,4 +108,4 @@ Who's cheating who
 I want you tell me now, baby
 Who's cheating who, oh, yeah
 I wonder if you know what
-I'm talking about now...
+I'm talking about now

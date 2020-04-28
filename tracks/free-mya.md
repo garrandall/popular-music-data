@@ -129,7 +129,7 @@ If you like what you see (Come on, yeah)
 Maybe I'll let you share my fantasy
 
 
-Mmm...
+Mmm
 If you're having a good time just let go and don't be shy
 Come on yeah... oh yeah
 If you're down to do whatever

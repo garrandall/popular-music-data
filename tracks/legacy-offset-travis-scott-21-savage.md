@@ -63,7 +63,7 @@ Money to the racks so I lap 'em (Woo)
 Don't give em a formula, I cap 'em (Nah)
 I'm from the jungle I'm an animal (Rah)
 You bitches ain't shit, they scandalous (Woo)
-Knock his head off like ya man an' them
+Knock his head off like ya man and them
 I'm from the bando, my daddy had abandoned me (Bando)
 Momma tried to cover up and bandage me (Mama)
 I'm the first one to lead the whole legacy (Legacy)

@@ -73,7 +73,7 @@ You hold my heart in your hands
 And it's okay cause I trust that
 You'll be the best man that you can
 
-Baby you love me... oh yes you do... yea...
+Baby you love me... oh yes you do... yea
 
 And no matter what they ever say about you
 I'm gonna stay by your side
@@ -84,7 +84,7 @@ And gave me all the love I need
 So give me more don't you ever leave
 Cause you complete me
 
-I know...
+I know
 You love me
 You complete me
 You hold my heart in your hands

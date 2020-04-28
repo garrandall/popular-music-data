@@ -107,4 +107,4 @@ We were giving all that we got
 I remember holding you so tight
 Oh, when kissing lasted all night
 Whoa, whoa, whoa, Love on a rooftop
-Whoa, whoa, whoa...
+Whoa, whoa, whoa

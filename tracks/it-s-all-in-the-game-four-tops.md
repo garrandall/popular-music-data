@@ -83,7 +83,7 @@ And he'll kiss your lips
 And caress your waiting fingertips
 And your heart, your hearts got to fly
 Fly way
-Come on and sing now...
+Come on and sing now
 
 
 And he'll kiss your lips

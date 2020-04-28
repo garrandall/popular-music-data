@@ -75,7 +75,7 @@ Wearing rings on her fingers and bells on her toes
 And a bone in her nose ho, ho.
 
 
-There she was friends lying there in all her radiant beauty. Eating on a raisin, grape, apricot, pomegranate, bowl of chitterlings, two bananas, three Hershey bars, sipping on a "R C" Co-Cola listening to her transistor, watching the Grand Ole Opry on the tube reading the Mad magazine while she sung, "Does your chewing gum lose it's flavor?" and Ahab walked up to her and he said,  "Crazy baby".
+There she was friends lying there in all her radiant beauty. Eating on a raisin, grape, apricot, pomegranate, bowl of chitterlings, two bananas, three Hershey bars, sipping on a "R C" Co-Cola listening to her transistor, watching the Grand Ole Opry on the tube reading the Mad magazine while she sung, "Does your chewing gum lose it's flavor?" and Ahab walked up to her and he said, "Crazy baby".
 'Round and around and around and around...etc.
 
 And that's the story 'bout Ahab the Arab

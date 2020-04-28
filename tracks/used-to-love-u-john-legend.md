@@ -89,7 +89,7 @@ Cos all I could do was luv u
 
 Baby when I used to luv u, theres' nothing that I wouldn't do
 I went thru the fire for you, do anything you asked me to
-But i'm tired of living this lie
+But I'm tired of living this lie
 It's getting harder to justify
 Realised that I just don't luv u
 Not like I used to
@@ -104,7 +104,7 @@ And you're gonna miss me now
 
 Baby when I used to luv u
 There's nothing that I wouldn't do,
-I went thru the fire for u, and i'm not gonna play the fool
+I went thru the fire for u, and I'm not gonna play the fool
 No I can't live this life, and I can't justify, and I can't make up my life
 Cos I don't luv u
 Not like I used to do
@@ -122,7 +122,7 @@ Oh but you're gonna miss me now
 
 Baby when I used to luv u, theres' nothing that I wouldn't do
 I went thru the fire for you, do anything you asked me to
-But i'm tired of living this lie
+But I'm tired of living this lie
 It's getting harder to justify
 Realised that I just don't luv u
 Not like I used to

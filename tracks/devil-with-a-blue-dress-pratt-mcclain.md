@@ -25,7 +25,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-08-07'
 ---
-CHORUS
 Devil with the blue dress, blue dress, blue dress
 Devil with the blue dress on
 Devil with the blue dress, blue dress, blue dress
@@ -36,14 +35,13 @@ Wearin' her wig hat and shades to match
 She's got high-heel shoes and an alligator hat
 Wearin' her pearls and her diamond rings
 She's got bracelets on her fingers, now, and everything
-{Chorus}
+
 Wearin' her perfume, Chanel No. 5
 Got to be the finest girl alive
 She walks real cool, catches everybody's eye
 They got to be nervous, they can't say Hi
 Not too skinny, she's not too fat
 She's a real humdinger and I like 'em like that
-{Chorus}
 
 You sure like to ball
 Good golly, Miss Molly
@@ -56,7 +54,7 @@ Good golly, Miss Molly
 You sure like to ball
 While you're rocking and you're rolling
 Can't you hear your mama call
-(Chorus)
+
 Fee, fee, fi, fi, fo-fo, fum
 Look at Molly now, here she comes
 Wearin' her wig hat and shades to match

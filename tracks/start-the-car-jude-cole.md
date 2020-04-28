@@ -48,7 +48,7 @@ And tired of going down, down, down
 Start the car, we gotta move
 This ain't no living, this ain't no groove
 It's been a long hard road
-Come on baby (ohbaby)
+Come on baby (oh baby)
 Let's drive it home
 Start the car
 We started out for paradise

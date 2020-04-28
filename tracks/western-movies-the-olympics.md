@@ -71,7 +71,7 @@ She says thanks for reminding me it's time for Maverick
 Ah...um...my baby loves the Western movies
 My baby loves the Western movies
 Bam, bam, shoot em up pow
-Ah...um...
+Ah...um
 My baby loves the Western movies
 Well there's Jeremy Roller and Old Cochise
 Jim Hardy, Jim Bowie and Sugarfoot

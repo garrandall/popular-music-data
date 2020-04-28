@@ -143,7 +143,7 @@ If you wanna battle me then (nigga) lemme know
 (Holla) Got the feeling son
 Lemme throw you some
 People here I come
-Now sweat me when im done
+Now sweat me when I'm done
 We got the radio slike we got a gun
 Getcho freak on.(go)
 Getcho freak on.(go)
@@ -167,7 +167,7 @@ I scream it loud and proud (yes)
 Missy gon blow it down (yes)
 People gon play me now (yes)
 In and outa town (yes)
-Cuz im the best around (yes)
+Cuz I'm the best around (yes)
 With the crazy style (go)
 Getcho freak on.(go)
 Getcho freak on.(go)

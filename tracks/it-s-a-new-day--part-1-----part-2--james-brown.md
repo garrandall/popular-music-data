@@ -46,7 +46,7 @@ It's done gotta be a drag, man, a man can't do nothing no more!
 A-ha-ha-ha-ha!
 It's really a drag!
 You gotta do something!
-Can I  tell 'em?
+Can I tell 'em?
 Lookey here!
 
 
@@ -189,9 +189,9 @@ Can I get a witness?
 Ah, lord!
 Ah!
 Ah!
-Brother, do you know what i'm talking about?
+Brother, do you know what I'm talking about?
 Brother, do you understand it now?
 Ha!
-Brother byrd, you know what i'm talking about!
+Brother byrd, you know what I'm talking about!
 Ha!
 Can I get a witness?

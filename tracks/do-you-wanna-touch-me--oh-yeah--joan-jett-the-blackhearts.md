@@ -90,9 +90,9 @@ There, yeah
 
 Yeah, oh yeah, oh yeah
 
-Every girl an' boy
+Every girl and boy
 Needs a little joy
-All you do is sit an' stare
+All you do is sit and stare
 Beggin' on my knees
 Baby, won't you please
 Run your fingers through my hair

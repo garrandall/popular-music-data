@@ -45,7 +45,6 @@ He'll tear it apart
 So you better get smart
 (You wouldn't listen to me)
 
-(Chorus)
 You wouldn't listen to me
 You wouldn't hear what I got to see
 You wouldn't listen to me
@@ -59,8 +58,6 @@ I said he's watching you
 So watch what you do
 (You wouldn't listen to me)
 Or you'll wreck your life too
-
-(Repeat Chorus)
 
 I gave you plenty of warning
 You wouldn't listen to what I say
@@ -77,9 +74,6 @@ He'll tear it apart
 So you better get smart
 (You wouldn't listen to me)
 
-(Repeat Chorus)
-
 You wouldn't to me
 Now you have gotta pay
 You've gotta pay
-(Repeat)

@@ -44,7 +44,7 @@ You can't buy it at the store, try it on for size
 Then bring it back if it don't feel right
 No love, love ain't like that
 You can't trade it in like an automobile
-That's got too many miles an' rust on it's wheels
+That's got too many miles and rust on it's wheels
 No love, love ain't like that
 
 
@@ -56,7 +56,7 @@ It takes its own sweet time
 It don't fall from the sky like a tiny drop of rain
 That hits you right between the eyes one day
 No love, love ain't like that
-You can't put your money down an' just roll the dice
+You can't put your money down and just roll the dice
 Think you're gonna win it all some night
 No love, love ain't like that
 

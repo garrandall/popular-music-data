@@ -48,7 +48,7 @@ Look what they done to my song
 Now listen if you please
 
 
-Wish I could find a good book, i'd like to live in the thing now
+Wish I could find a good book, I'd like to live in the thing now
 Wish I could find a good book, now, hey hey hey
 If I could find a real good book, you know i
 I'd never have to come out and look
@@ -62,7 +62,7 @@ They picked it like a chicken bone and i'm-ah, just about to go insane mama
 Look what they done to my brain
 
 
-Now girls, if you don't mind, i'd like to hear that some french
+Now girls, if you don't mind, I'd like to hear that some french
 Ils ont change ma chanson, ma
 (Oh, not bad)
 Ils ont change ma chanson
@@ -80,7 +80,7 @@ Look what they done to my song
 Maybe it's alright
 Maybe it's ok, I don't know
 But I tell ya
-If my tears were money, i'd be a millionaire today
+If my tears were money, I'd be a millionaire today
 You know, the only thing I get to have right, now it's turning out all wrong, mama
 You can't believe what they've done to my song ma, that I wrote myself
 They put it in a plastic bag and they turned the bag upside down, mama
@@ -98,7 +98,7 @@ The main thing, mama
 What they trying to do to me
 You see, well they stole everything I had, mama
 And they made a million with it, and you know that hurts
-But oh, i'm gonna keep on working on the building
+But oh, I'm gonna keep on working on the building
 Just like you taught me, mama
 Whoah, yes I will, yes I will, yeah
 

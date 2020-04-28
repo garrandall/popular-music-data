@@ -44,7 +44,7 @@ Keep wasting my time
 As hard as it is
 As much as I'll cry
 I want you to know
-That i'm saying goodbye
+That I'm saying goodbye
 
 How long did you think
 We could go on

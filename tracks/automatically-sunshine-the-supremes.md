@@ -64,7 +64,7 @@ I'm yours and you're mine
 It's automatically sunshine
 
 
-Oh, ohbaby
+Oh, oh baby
 
 
 Baby!

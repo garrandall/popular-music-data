@@ -87,7 +87,7 @@ Fa-fa-fa-fa-fa-fa-fa-fa-fa
 One more time
 Fa-fa-fa-fa-fa-fa-fa-fa-fa
 Worried in mind, y'all
-Fa-fa-fa-fa-fa-fa...
+Fa-fa-fa-fa-fa-fa
 
 
 

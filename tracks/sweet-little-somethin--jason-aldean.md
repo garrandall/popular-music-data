@@ -31,7 +31,7 @@ Honey, what I wouldn't do for a sweet little somethin' like you
 I see you dancin' over there with your girlfriends
 Got your fine self showin' off that sun tan
 You keep smilin' that smile at me
-Like you're readin' my mind, and you know...
+Like you're readin' my mind, and you know
 
 I need a sweet little somethin' like you got
 Standin' there red hot, tied up little tank top

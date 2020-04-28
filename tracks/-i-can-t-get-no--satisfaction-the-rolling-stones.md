@@ -107,7 +107,11 @@ Who tells me baby, better come back, maybe next week
 'Cause you see, I'm on a losing streak
 I can't get no, oh no, no, no
 Hey, hey, hey! That's what I'll say!
-I can't get no (x3)
+I can't get no
+I can't get no
+I can't get no
 I can't get no satisfaction
-No satisfaction (x3)
+No satisfaction
+No satisfaction
+No satisfaction
 I can't get no

@@ -91,9 +91,9 @@ I'll even shout
 You know that I'm proud
 And I can't get the words out
 
-Oh I...
+Oh I
 I want to be with you everywhere
-Oh I...
+Oh I
 I want to be with you everywhere
 (Wanna be with you everywhere)
 
@@ -106,9 +106,9 @@ We better make a start
 You better make it soon
 Before you break my heart
 
-Oh I...
+Oh I
 I want to be with you everywhere
-Oh I...
+Oh I
 I want to be with you everywhere
 (Wanna be with you everywhere)
 
@@ -122,13 +122,13 @@ We better make a start
 You better make it soon
 Before you break my heart
 
-Oh I...
+Oh I
 I want to be with you everywhere
-Oh I...
+Oh I
 I want to be with you everywhere
-Oh I...
+Oh I
 I want to be with you everywhere
-Oh I...
+Oh I
 I want to be with you everywhere
 (Wanna be with you everywhere)
 

@@ -55,7 +55,7 @@ You can hear the fellas call... woo
 Well, plain Jane won't-cha come out tonight
 So we can have a ball
 
-Help me now...
+Help me now
 
 Plain Jane won't-cha come out tonight
 Come out tonight, come out tonight
@@ -90,7 +90,7 @@ Why I love her like I do
 But if you took her out for one fine night
 You'd feel the same way too
 
-Won't-cha now...
+Won't-cha now
 
 Plain Jane won't-cha come out tonight
 Come out tonight, come out tonight

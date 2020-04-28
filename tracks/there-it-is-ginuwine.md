@@ -61,7 +61,7 @@ See there it is (there it is baby)
 That ungrateful shit (that ungrateful shit)
 There you go again, complanin'
 What your aim is
-I don't know but I'm...
+I don't know but I'm
 
 
 I'm not doing this shit for nothing (no I ain't)

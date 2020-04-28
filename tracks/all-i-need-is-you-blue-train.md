@@ -100,10 +100,9 @@ All I need is you
 
 All I want is to feel alive
 All I need is to be satisfied
-...
 All I need is you
 
 All I want is to feel alive
 All I need is to be satisfied
 All I want, all I want
-All I need is you (x3)
+All I need is you

@@ -90,7 +90,7 @@ rankings:
 ---
 
 Raymond's in his Sunday best,
-He's usually up to his chest in oil an' grease.
+He's usually up to his chest in oil and grease.
 There's the Martin's walkin' in,
 With that mean little freckle-faced kid,
 Who broke a window last week.
@@ -101,14 +101,14 @@ Sing along as the choir sways;
 Every verse of Amazin' Grace,
 An' then we shake the Preacher's hand.
 Go home, into your blue jeans;
-Have some chicken an' some baked beans.
+Have some chicken and some baked beans.
 Pick a back yard football team,
 Not do much of anything:
 That's what I love about Sunday.
 
 I stroll to the end of the drive,
 Pick up the Sunday Times, grab my coffee cup.
-It looks like Sally an' Ron, finally tied the knot,
+It looks like Sally and Ron, finally tied the knot,
 Well, it's about time.
 It's 35 cents off a ground round,
 Baby, cut that coupon out!

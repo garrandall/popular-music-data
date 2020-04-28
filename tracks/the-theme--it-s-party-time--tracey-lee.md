@@ -80,7 +80,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1997-06-14'
 ---
-It's party time!  Woah, it's party time!
+It's party time! Woah, it's party time!
 Havin a party, c'mon
 
 Yeah yeah, Tray Lee nigga, ByStorm (ByStorm)
@@ -136,7 +136,7 @@ Dipped in my Nike apparel, (hah!) you know we get down
 Bad to the bone like marrow chicks
 Crack your boom, Tray gets played from the plat the greatest tune
 Philly's in here, been here, lyrics they win here
-Why did you go there?  I swear
+Why did you go there? I swear
 RNF tears the things like that
 We breakin' your team up like a salary cap, and it don't stop
 Until I get the cream like Shaq

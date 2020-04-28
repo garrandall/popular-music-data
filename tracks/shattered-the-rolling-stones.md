@@ -101,12 +101,12 @@ Huh shadoobie, shattered
 Huh shadoobie, shattered
 Shadoobie, shattered, shattered
 
-Don't you know the crime rate's going up, up, up, up, up?  (Shadoobie, shattered)
-To live in this town you must be tough, tough, tough, tough, tough, tough, tough  (Shadoobie, shattered)  (Shadoobie, shattered, shattered)
+Don't you know the crime rate's going up, up, up, up, up? (Shadoobie, shattered)
+To live in this town you must be tough, tough, tough, tough, tough, tough, tough (Shadoobie, shattered) (Shadoobie, shattered, shattered)
 
-We've got rats on the west side, bed bugs uptown  (Shadoobie, shattered)
-What a mess, this town's in tatters, I've been shattered  (Shadoobie, shattered)
-My brain's been battered, splattered all over Manhattan  (Shadoobie, shattered)
+We've got rats on the west side, bed bugs uptown (Shadoobie, shattered)
+What a mess, this town's in tatters, I've been shattered (Shadoobie, shattered)
+My brain's been battered, splattered all over Manhattan (Shadoobie, shattered)
 
 Shadoobie, shattered, shattered
 What I say?
@@ -120,4 +120,4 @@ Go ahead, bite the Big Apple, don't mind the maggots, uh-huh (Shadoobie, shatter
 
 Shadoobie, my brain's been battered (Shadoobie, shattered, shattered)
 My friends they come around, they flatter, flatter, flatter, flatter, flatter, flatter, flatter (Shadoobie, shattered) (Shadoobie, shattered)
-Pile it up, pile it up, pile it high on the platter  (Shadoobie, shattered, shattered)
+Pile it up, pile it up, pile it high on the platter (Shadoobie, shattered, shattered)

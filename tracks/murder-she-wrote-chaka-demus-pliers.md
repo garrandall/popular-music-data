@@ -219,7 +219,7 @@ An also Harry
 An when yuh plan yuh mischeif
 Yuh talk bout yuh sorry
 Sorry, sorry
-Di gal a pose an' a brag
+Di gal a pose and a brag
 How she look sexy
 All she worship is pure vanity
 Di gal a pose anna brag

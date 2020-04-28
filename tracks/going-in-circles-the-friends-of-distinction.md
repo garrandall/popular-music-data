@@ -95,7 +95,7 @@ Give me a little hope, one small thing to cling to
 
 You got me going in circles(oh round and round I go)
 You got me going in circles
-(oh round and round I go, i'm spun out over you)
+(oh round and round I go, I'm spun out over you)
 
 I'm a faceless clock, with timeless hopes that never stop
 Lord but I feel that way, of my soul. My soul is stay
@@ -107,5 +107,5 @@ You got me going in circles
 (oh round and round I go) I'm spun out over you
 (i need you baby) over you (i need you baby) spun out over you
 (i need you baby, I need you baby baby) (oh baby)
-I'm spun(i need you baby) I said i'm spun out over you(i need you baby)
+I'm spun(i need you baby) I said I'm spun out over you(i need you baby)
 Spun out over you(i need you baby, I need you baby, I need you baby)

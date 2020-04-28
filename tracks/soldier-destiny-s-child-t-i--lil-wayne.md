@@ -179,7 +179,7 @@ About my girls ain't no thing to put you under the map
 Walk the streets five deep with nothin' less than a stack
 And 80 carats on my chest provides a special attraction
 50 G's in my jeans plus the dough from the wallet
-It's a reason i'm the king girl, I know what you like, come on
+It's a reason I'm the king girl, I know what you like, come on
 
 
 If your status ain't hood
@@ -230,7 +230,7 @@ You talkin' to the sargeant
 Body marked up like the subway in harlem
 Call him, weezy f baby, please say the baby
 If you don't see me on the block I ain't tryna hide
-I blend in wit the hood, i'm camouflage
+I blend in wit the hood, I'm camouflage
 Bandana tied, so mommy join my troop
 Now every time she hear my name she say whoomp
 

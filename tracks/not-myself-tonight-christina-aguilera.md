@@ -45,7 +45,7 @@ You know tonight
 I'm feeling a little out of control
 Is this me
 You wanna get crazy
-Cause I don't give a...
+Cause I don't give a
 
 I'm out of character
 I'm in rare form

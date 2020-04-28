@@ -94,7 +94,7 @@ Yeah, way, way, way up
 Turn it all up, yeah, look
 
 
-I got enemies,  got a lot of enemies
+I got enemies, got a lot of enemies
 Got a lot of people tryna drain me of my energy
 They tryna take the wave from a nigga
 Fuckin' with the kid and pray for your nigga
@@ -110,7 +110,7 @@ I got rap niggas that I gotta act like I like
 But my actin' days are over, fuck them niggas for life, yeah
 
 
-I got enemies,  got a lot of enemies
+I got enemies, got a lot of enemies
 Got a lot of people tryna drain me of this energy
 They tryna take the wave from a nigga
 Fuckin' with the kid and pray for your nigga
@@ -134,7 +134,7 @@ I hear fairy tales 'bout how they gon' run up on me
 Well, run up when you see me, then, and we gon' see
 
 
-I got enemies,  got a lot of enemies
+I got enemies, got a lot of enemies
 Got a lot of people tryna drain me of this energy
 They tryna take the wave from a nigga
 Fuckin' with the kid and pray for your nigga

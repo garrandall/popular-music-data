@@ -150,7 +150,7 @@ Freddies dead
 Hey, hey
 Ha, ha
 Love, love
-Ha, ha...
+Ha, ha
 Oou, hoo
 Hey, hey
 Love, love

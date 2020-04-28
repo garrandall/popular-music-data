@@ -172,7 +172,7 @@ Enough to shake and kick holes in the ground
 Feasible rhymes that you can vision and feel
 Conducted and formed, this is a hell of a concept
 We make it hype and you want to step
-With this.  Shay plays on the fade
+With this. Shay plays on the fade
 Slice like a ninja, cut like a razor blade
 So fast, other DJs say “Damn!”
 If rhyme was a drug I'd sell it by the gram
@@ -192,7 +192,7 @@ Vanilla Iceeeee
 Yo man, let's get out of here
 Word to your mother
 
-Ice ice baby, too cold  (x 3)
+Ice ice baby, too cold (x 3)
 Ice ice baby, too cold too cold
 Ice ice baby, too cold too cold
 Ice ice baby, too cold too cold

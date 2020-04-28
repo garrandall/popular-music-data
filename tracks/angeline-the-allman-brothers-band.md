@@ -50,7 +50,7 @@ Oh, Angeline.
 
 Lookin' at the bright lights, searchin' for the sliver screen.
 I never seen a woman who could look so good,
-and be so doggone mean.  Yeah.
+and be so doggone mean. Yeah.
 
 Oh, midnight struttin' in New York City.
 Midnight woman, she is lookin' so pretty.

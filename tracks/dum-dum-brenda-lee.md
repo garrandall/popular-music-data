@@ -71,7 +71,7 @@ One more time dum dum a deedely dum
 Ah I want you with me all of the time tell me you love me and you'll be mine
 There's so many things that we could do
 So say the words and make my dreams come true
-A singing dum dum...
+A singing dum dum
 
 
 

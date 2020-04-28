@@ -64,7 +64,7 @@ You're goin' be my sweet candy man
 And then sometimes baby
 Never know where I stand
 Ya lift me up
-When im on the ground
+When I'm on the ground
 But as soon as I get up babe
 You send me tumblin' down
 

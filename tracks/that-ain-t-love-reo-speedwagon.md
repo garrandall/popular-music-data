@@ -107,7 +107,7 @@ As long as I say what you wanna hear
 Do what you wanna do, be who you want me to be
 You think that's love, well baby that ain't love to me
 
-Ohbaby that ain't love
+Oh baby that ain't love
 That ain't lo-lo-lo-lo-lo-love
 That ain't love, oh no
 Baby that ain't love, that ain't love

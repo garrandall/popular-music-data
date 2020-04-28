@@ -78,7 +78,7 @@ rankings:
 ---
 
 Desolate loving in your eyes
-You used an' made my life so sweet
+You used and made my life so sweet
 Step out like a God-found child
 I saw your eyes across the street
 
@@ -98,7 +98,7 @@ In the church of the poison mind
 Watch me clinging to the beat
 I had to fight to make it mine
 That religion you could sink it neat
-Just move your feet an' you'll feel fine
+Just move your feet and you'll feel fine
 
 Who would be the fool to maybe
 Trick a kiss in time
@@ -114,7 +114,7 @@ In the church of the poison mind
 (In the church of the poison mind)
 
 Desolate loving in your eyes
-You used an' made my life so sweet
+You used and made my life so sweet
 Step out like a God-found child
 I saw your eyes across the street
 

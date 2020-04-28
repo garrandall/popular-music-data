@@ -69,7 +69,7 @@ Cuz I've been waitin for you
 
 Girl I've been saving my love all this time
 Cuz I knew someday I would find
-The one that i've loved for so long in my mind
+The one that I've loved for so long in my mind
 
 From the moment that I looked in your eyes
 I saw the girl I've loved all my life

@@ -102,4 +102,4 @@ In Oklahoma, not Arizona
 What does it matter?
 What does it matter?
 
-Songwriter:  Hoyt Axton
+Songwriter: Hoyt Axton

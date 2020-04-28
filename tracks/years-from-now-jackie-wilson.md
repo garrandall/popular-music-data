@@ -67,4 +67,4 @@ And suffering will be gone
 Remember, darling
 I love you, love you
 Yeah, I love you so much
-Years from now...
+Years from now

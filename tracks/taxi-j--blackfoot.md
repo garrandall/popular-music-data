@@ -65,7 +65,7 @@ There's this matter I've got to settle
 I deceived her and oh
 I know it grieves her, taxi
 
-La da da da...
+La da da da
 
 Taxi, take me to my baby's place
 Just as fast as you can

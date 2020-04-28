@@ -106,7 +106,7 @@ And beg for something more?
 I'm learning to live without you now
 But I miss you sometimes
 The more I know, the less I understand
-All the things I thought I knew, i'm learning again
+All the things I thought I knew, I'm learning again
 I've been tryin' to get down to the heart of the matter
 But my will gets weak
 And my thoughts seem to scatter
@@ -152,6 +152,6 @@ Even if, even if you don't love me anymore
 I've been tryin' to get down to the heart of the matter
 Because the flesh will get weak
 And the ashes will scatter
-So i'm thinkin' about forgiveness
+So I'm thinkin' about forgiveness
 Forgiveness
 Even if, even if you don't love me anymore

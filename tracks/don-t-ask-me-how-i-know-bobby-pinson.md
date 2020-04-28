@@ -43,7 +43,6 @@ Don't pick up a cherrybomb thinkin' it's a dud
 And don't sneak out of a 2 story house usin' bed sheets for a rope
 Don't ask me how I know
 
-(Chorus:)
 Sell your truck while it's still runnin', save the Jesus off the dash
 Say a prayer when you feel like cussin', save your money pay with cash
 Forget your pride, buy the roses, if you're sorry tell her so
@@ -57,7 +56,6 @@ Don't rush off the phone when your Mama calls you ain't that busy
 Ya oughta make that drive to say goodbye to your grampa â€˜fore he goes
 Don't ask me how I know
 
-(Chorus)
 Forget your pride buy the roses, if you love her tell her so
 Don't go to Vegas with your heart broke
 Don't bum your cousin for that first smoke

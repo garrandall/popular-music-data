@@ -141,7 +141,7 @@ If you just call me
 (Call me) If you need a friend
 (Call me) Call me, uhuh uhuh
 (Call me) If you need a friend
-(Call me)  If you ever need a friend
+(Call me) If you ever need a friend
 (Call me) Call me
 (Call me) Call me
 (Call me) Call me

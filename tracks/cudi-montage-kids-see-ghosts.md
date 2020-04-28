@@ -13,7 +13,7 @@ rankings:
   start_date: '2018-06-23'
 ---
 Find my back in the cold, trapped in another soul, they can hear me holler
-I'm caught in it again, see 'em all strapped in an' can't move and I'm sinkin' lower
+I'm caught in it again, see 'em all strapped in and can't move and I'm sinkin' lower
 Heaven gonna help me 'cause I feel the world weighin' on me heavy, tryna keep it steady
 Ready for the mission, God, shine your love on me, save me, please
 If I'm goin' alone, I've been gone for so long, ain't nobody, you can't hear a word

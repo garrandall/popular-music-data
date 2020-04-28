@@ -147,7 +147,7 @@ Everyone's gonna be okay (Everyone's gonna be okay)
 Baby girl
 
 Everyone's gonna be okay, baby
-Mm...
+Mm
 Hoo...
 
 

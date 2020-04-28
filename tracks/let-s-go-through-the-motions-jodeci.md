@@ -64,7 +64,7 @@ Do you wanna pump, do you wanna pump wit me
 Do you wanna pump, do you wanna pump wit me
 Do you wanna pump, do you wanna pump wit me
 
-JoJo, show them what you got 
+JoJo, show them what you got
 Don't wanna get sexy baby if you don't wanna get nasty
 Maybe we can compromise and both get a little bit freaky
 And slide right over here and let me rub that body
@@ -97,14 +97,14 @@ Let's go through the motions, baby
 Let's go through the motions, baby
 
 Mr. Dal, you up next
-Yo, I be damma' in ya slamma'  baby check my gramma'
+Yo, I be damma' in ya slamma' baby check my gramma'
 And I go long 'cause Mr. Dalvin got stamina
 And I be hittin skins, makin' ends
 
 But your man couldn't touch me by the hairs on my chinny chin, nigga
 I fake a freak I'm not faking the fuckin' freak
 (My style is under cover)
-No cummin' on my sheets, so hit me up or we will 
+No cummin' on my sheets, so hit me up or we will
 
 Yes, I wrecks it, I checks it, I gets butt naked, hey
 So be my baby baby baby yo, next I flex

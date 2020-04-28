@@ -123,7 +123,7 @@ I don't love you
 I don't love you no more
 Stop
 Watchu thinkin' when you see me
-On the corner an' you see me hangin' out
+On the corner and you see me hangin' out
 Wit tha niggas on tha block
 What's it all about?
 And stop

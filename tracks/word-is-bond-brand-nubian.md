@@ -71,7 +71,7 @@ Take a thought to the top, now I drop the jewel
 
 
 I push the Cadillac DeVille and still be real
-I drive a garbage truck and not give a ...
+I drive a garbage truck and not give a
 I need to earn a buck fo' the year
 I'm through with buyin' wild gear
 Just somethin' I can wear, somethin' fly when I appear

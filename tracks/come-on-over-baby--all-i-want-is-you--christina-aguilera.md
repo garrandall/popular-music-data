@@ -168,7 +168,7 @@ You give me...
 What a girl feels, what a girl likes
 What a girl needs, what a girl wants
 All I, all I want is you
-Ohbaby
+Oh baby
 
 
 All I want is you (oh, you make me go crazy, oh, oh, woo)

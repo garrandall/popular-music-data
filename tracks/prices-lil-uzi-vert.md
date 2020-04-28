@@ -125,7 +125,7 @@ I just went up in my price (My price, ayy)
 
 I just went up in my price (Yeah)
 I just went up in my price
-That's the way that um...
+That's the way that um
 (I'll tell him move your ass)
 I just went up in my price, in my price
 (Yo, it's one, two)

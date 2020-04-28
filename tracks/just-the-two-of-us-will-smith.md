@@ -86,7 +86,7 @@ Just the two of us, you and I
 
 Five years old, bringin comedy
 Everytime I look at you I think man, a little me
-Just like me, wait an' see, gonna be tall
+Just like me, wait and see, gonna be tall
 Makes me laugh cause you got your dads ears an all
 Sometimes I wonder, what you gonna be
 A general, a doctor, maybe a MC

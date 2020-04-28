@@ -147,7 +147,7 @@ If it's ten thousand hours or the rest of my life
 I'm gonna love you (Oh, oh-oh, oh, oh)
 I'm gonna love you (Oh, oh-oh, oh, oh)
 Yeah
-And I...
+And I
 Do you love the rain, does it make you dance?
 I'm gonna love you (I'm gonna love you)
 I'm gonna love you

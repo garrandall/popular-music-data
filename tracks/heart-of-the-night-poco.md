@@ -88,13 +88,13 @@ It's been so long waiting
 Just to be here again
 Anticipating
 All the time I could spend
-In the heart of the night  
+In the heart of the night
 In the heart of the night
 In the heart of the night
 
 And I trust in your love never falling down
 I trust in your love
-Just like I do in this town 
+Just like I do in this town
 Whoa, never falling down
 Whoa, never falling down
 
@@ -107,7 +107,7 @@ And the river she rises
 Just like she used to do
 She's so full of surprises
 Oh, momma, she reminds me of you
-Right here, in the heart of the night  
+Right here, in the heart of the night
 In the heart of the night
 In the heart of the night
 Down in New Orleans

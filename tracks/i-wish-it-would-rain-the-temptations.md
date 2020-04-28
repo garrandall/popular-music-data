@@ -83,7 +83,7 @@ Oh yeah, people, this hurt I feel inside, words could never explain
 
 I just wish it would rain (Oh how I wish that it would rain)
 Oh, let it rain, rain, rain, rain (Oh how I wish that it would rain)
-Ohbaby, let it rain (Let it rain)
+Oh baby, let it rain (Let it rain)
 Oh yeah, let it rain
 
 

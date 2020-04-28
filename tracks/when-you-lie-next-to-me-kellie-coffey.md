@@ -91,7 +91,7 @@ Everything that matters, is, in this room
 
 When you lie next to me
 Breathing the air I breathe
-We don't have to speak, an' just be
+We don't have to speak, and just be
 Our love's a precious thing
 Don't want to waste a day
 Or one more minute without you in it
@@ -107,7 +107,7 @@ Oh, let the world around us just disappear
 
 When you lie next to me
 Breathing the air I breathe
-We don't have to speak, an' just be
+We don't have to speak, and just be
 Our love's a precious thing
 Don't want to waste a day
 Or one more minute without you in it
@@ -117,7 +117,7 @@ Oh lie next to me
 
 When you lie next to me
 Breathing the air I breathe
-We don't have to speak, an' just be
+We don't have to speak, and just be
 Our love's a precious thing
 Don't want to waste a day
 Or one more minute without you in it

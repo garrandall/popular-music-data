@@ -64,7 +64,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1975-03-29'
 ---
-This is for all the lonely  people
+This is for all the lonely people
 Thinking that life has passed them by
 Don't give up until you drink from the silver cup
 And ride that highway in the sky

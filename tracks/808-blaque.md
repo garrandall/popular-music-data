@@ -98,7 +98,7 @@ Oh (yea yea yea yea)
 Check it out
 See what I believe is
 We was granted the power
-What's that? Power, wha...
+What's that? Power, wha
 Ha, the power to make you dance
 Like this
 
@@ -118,7 +118,7 @@ You know it feels good from head to toe
 Now hold on to me baby here we go
 
 You'll be goin' boom baby boom baby boom
-And I'll be goin' ohbaby oohaby ohoh
+And I'll be goin' oh baby oohaby ohoh
 (check it out)
 
 
@@ -132,7 +132,7 @@ See my love will drive her crazy (wha wha yeah)
 
 
 You'll be goin' boom baby boom baby boom
-And I'll be goin' ohbaby oohaby ohoh
+And I'll be goin' oh baby oohaby ohoh
 
 Cause I'll be goin' boom like an 808...
 
@@ -165,7 +165,7 @@ To me baby here we go
 
 
 You'll be goin' boom baby boom baby boom
-And I'll be goin' ohbaby oohaby ohohheck it out)
+And I'll be goin' oh baby oohaby ohohheck it out)
 
 Cause I'll be goin' boom like an 808...
 

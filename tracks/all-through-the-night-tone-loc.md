@@ -59,9 +59,9 @@ I never though that I could miss you so much
 Your beautiful smile, you go with the touch
 I love you more than the day is long and the reason I'm feelin' like this is too strong
 I wanna be the man that you want me to be
-I'll change my lifestyle, no more  in the street
-And with the chest I promise I'll serve ya a love life  that'll never die
-So  my hand and squeeze real tight
+I'll change my lifestyle, no more in the street
+And with the chest I promise I'll serve ya a love life that'll never die
+So my hand and squeeze real tight
 And make love, baby, all through the night
 
 
@@ -79,7 +79,7 @@ Every night I fall asleep with you on my mind
 The picture is perfect but I still seem blind
 To the fact that all you wanted was me, Mr. Smith
 Not Tone L-O-C
-Sometimes a man never knows what he has, until a true lady  of his past
+Sometimes a man never knows what he has, until a true lady of his past
  girl I can ever be with
 
 Love is one thing, girl, that I can give you

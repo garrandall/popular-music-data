@@ -39,7 +39,7 @@ rankings:
 Pick me a town in any clime
 Where people like, a rocking time
 And stay awake both day and night
-Till everybody's feeling good an' right
+Till everybody's feeling good and right
 
 
 Then throw me

@@ -151,7 +151,7 @@ Leave this dress a mess on the floor
 And still look good for you, good for you,
 
 Uh-huh, uh-huh, ah...
-Uh-huh, uh-huh, ah, mhm...
+Uh-huh, uh-huh, ah, mhm
 
 Trust me, I can take you there
 Trust me, I can take you there

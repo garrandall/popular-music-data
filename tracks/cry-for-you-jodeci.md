@@ -155,13 +155,13 @@ Help me out baby, yes
 I don't know what else to say
 I don't know what else to say
 K-ci help me sing it
-Jojo i'm right here yes I am
+Jojo I'm right here yes I am
 I will cry for you lady
 Sometimes my pillow gets so wet with tears
 I don't have no one to call my own
 I want you back baby
 Oh yeah
-Baby i'm beggin, baby i'm beggin, beggin baby x8
+Baby I'm beggin, baby I'm beggin, beggin baby x8
 Yeahhhhhhhhh
 
 

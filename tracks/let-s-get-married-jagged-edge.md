@@ -147,7 +147,7 @@ We ain't getting no younger, we might as well do it
 Been feeling you all the while, girl, I must confess
 Girl let's just get married I just want to get married
 Meet me at the altar in your white dress
-We ain't getting no younger  we might as well do it
+We ain't getting no younger we might as well do it
 Been feeling you all the while girl and I must confess
 Let's get married
 Meet me at the altar in your white dress
@@ -155,7 +155,7 @@ We ain't getting no younger, we might as well do it
 Been feeling you all the while, girl, I must confess
 Girl let's just get married I just want to get married
 Meet me at the altar in your white dress
-We ain't getting no younger  we might as well do it
+We ain't getting no younger we might as well do it
 Been feeling you all the while girl and I must confess
 Let's get married
 Meet me at the altar in your white dress
@@ -163,6 +163,6 @@ We ain't getting no younger, we might as well do it
 Been feeling you all the while, girl, I must confess
 Girl let's just get married I just want to get married
 Meet me at the altar in your white dress
-We ain't getting no younger  we might as well do it
+We ain't getting no younger we might as well do it
 Been feeling you all the while girl and I must confess
 Let's get married

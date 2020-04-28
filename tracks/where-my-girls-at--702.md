@@ -181,7 +181,7 @@ rankings:
 See, he's my property,
 And any girl that touches,
 I might just call your bluff,
-'Cuz I don't give a...
+'Cuz I don't give a
 Who are you to call my cell,
 Oh I'm gonna wish you well,
 'Cuz any girl that tried has failed,

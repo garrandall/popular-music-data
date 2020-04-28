@@ -156,7 +156,7 @@ Yet when I sleep I feel tears trickling down my cheek
 Stay strong, pride telling me move on
 My heart's fighting me forcing me to hold on
 Yours forever, fell for you beyond measure
-Pure as ever,  of treasure
+Pure as ever, of treasure
 
 
 Tonight's the night, tonight

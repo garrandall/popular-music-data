@@ -121,7 +121,7 @@ What the fuck are we going to be?
 Please help me ‘cause I'm breaking down
 This picture's frozen, and I can't get it out
 Please help me ‘cause I'm breaking down
-This picture's frozen, and I can't get it  out of here
+This picture's frozen, and I can't get it out of here
 Believe me, I'm just as lost as you
 Believe me, I'm just as lost as you
 

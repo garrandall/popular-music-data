@@ -98,7 +98,7 @@ Vaseline
 Vaseline
 
 I know a guy who goes to shows,
-When he's at home an' he blows his nose,
+When he's at home and he blows his nose,
 He don't use tissues,
 Or his sleeves,
 He don't use napkins, or any of these.

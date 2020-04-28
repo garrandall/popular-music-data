@@ -75,7 +75,7 @@ It rains when you're here and it rains when you're gone
 Oh, I stare at the phone, he still hasn't called
 And then you feel so low you can't feel nothing at all
 And you flashback to when we said forever and always
-And  it rains in your bedroom
+And it rains in your bedroom
 Everything is wrong
 It rains when you're here and it rains when you're gone
 'Cause I was there when you said forever and always

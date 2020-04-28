@@ -150,7 +150,7 @@ Acting like they getting they little revenge off
 Taking it further than what it really is
 You know what I mean, playing yourself...
 Nahwhatimean... this is Don status, girl
-You will have to hold that now...
+You will have to hold that now
 Word up, and when I see money
 I'mma hang him upside down, it's on
 And not because of you neither, you know

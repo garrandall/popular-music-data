@@ -73,7 +73,7 @@ Woh Mr. Melody, your lovin' oh it makes me sing
 I like lovin' you, you like lovin' me please don't ever change
 Mr. Melody (Mr. Melody), Mr. Melody (Mr. Melody)
 
-Mr. Melody,  you got me hummin' to your crazy beat
+Mr. Melody, you got me hummin' to your crazy beat
 The more I hear it, the more I like it
 You really made a hit with me
 Mr. Melody (Mr. Melody), Mr. Melody (Mr. Melody)

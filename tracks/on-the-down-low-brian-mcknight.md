@@ -96,6 +96,6 @@ Cos tonight she's needin' someone to hold
 Lonely nights can be, oh, so cold
 Deprived of all the things
 She misses, wants, wishes, and needs
-Got hotter than a hundred an' three
+Got hotter than a hundred and three
 She turned and said to me
 

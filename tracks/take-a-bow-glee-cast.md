@@ -64,7 +64,7 @@ Very entertainin',
 But it's over now (but it's over now),
 Go on and take a bow.
 
-But it's over now...
+But it's over now
 
 
 

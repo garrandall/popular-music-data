@@ -162,7 +162,7 @@ Oh, don't let me down
 Hey, hey lift my feet up off the ground
 Lift me up, lift me
 (Jump start my heart)
-Oh, do  that for me, baby
+Oh, do that for me, baby
 (Charge me up when I'm runnin' down)
 Oh
 

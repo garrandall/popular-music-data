@@ -64,7 +64,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-05-29'
 ---
-I said na na na na ...
+I said na na na na
 You gotta know how to pony
 Like Bonie Maronie
 You gotta know how to twist
@@ -80,13 +80,13 @@ I said clap your hands (come on)
 And then move your feet (come on)
 Get into that beat (come on)
 
-I said na na na na...
+I said na na na na
 
 Everybody, come on now
-Na na na na...
+Na na na na
 
 Yes, a one more time
-Na na na na...
+Na na na na
 
 You gotta know how to jerk (oh, yeah)
 Come on, baby, work

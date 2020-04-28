@@ -134,7 +134,7 @@ Somehow here is gone
 
 And I don't need the fallout
 Of all the past that's in between us
-And i'm not holding on
+And I'm not holding on
 And all your lies weren't enough to keep me here
 
 

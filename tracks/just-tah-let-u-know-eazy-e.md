@@ -75,7 +75,7 @@ Tryin to speak up on tha OG, nigga you don't know me
 Break em off these nuts lil wanna-be
 Cause I peel caps if need be
 And ain't nothin you gonna bring don't see me
-Just tah let U know...
+Just tah let U know
 
 
 
@@ -101,7 +101,7 @@ Fools screamin that I put em in a twist
 Thought you had it bad, isn't really all good
 If the homies only knew in the hood
 That you was gettin done like a two dollar hoe
-It's just a lil something from the E tah let U know...
+It's just a lil something from the E tah let U know
 
 
 
@@ -120,7 +120,7 @@ With the original Compton criminal
 Coz the only thing poppin is a snaps
 And ain't no fun when a nigga be tap perhaps
 But a nigga like the E ain't trippin though
-I'm just here tah let U niggas know...
+I'm just here tah let U niggas know
 
 You have your own freedom of choice
 So you do what the fuck you feel like doin

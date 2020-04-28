@@ -28,7 +28,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1968-06-01'
 ---
-Ba da do bop ba da...
+Ba da do bop ba da
 
 If I had it all
 Could I make it without you
@@ -41,7 +41,7 @@ And the stars beneath my shoes
 I ain't got nothing, uh uh
 Without you
 
-Ba da do bop ba da...
+Ba da do bop ba da
 
 How much is the time worth, baby
 Without you
@@ -54,7 +54,7 @@ And all that it can do
 I'm broke down, baby
 Uh huh, without you
 
-Ba da do bop ba da...
+Ba da do bop ba da
 
 Well, I lay it on the line
 My honey, it's so true
@@ -66,4 +66,4 @@ There's no life light shining through
 You're my life light
 Oh, baby, here's to you
 
-Ba da do bop ba da...
+Ba da do bop ba da

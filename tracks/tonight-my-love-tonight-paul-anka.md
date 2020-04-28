@@ -83,7 +83,7 @@ Tonight, tonight my love, tonight
 La-la-la-la-la-la
 La-la-la-la-la-la
 La-la-la-la-la-la
-La-la-la-la-la-la...
+La-la-la-la-la-la
 
 
 

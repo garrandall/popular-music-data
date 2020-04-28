@@ -179,7 +179,7 @@ That's right
 
 What? Hoo Bangin'
 
-What up?  We know
+What up? We know
 
 The paper's out there, ha ha
 
@@ -191,8 +191,8 @@ Paper's out there
 Speak on it
 
 Ha ha
-Wrong:  All the hood
-Right:  All the hood rats
+Wrong: All the hood
+Right: All the hood rats
 
 What up? You know
 

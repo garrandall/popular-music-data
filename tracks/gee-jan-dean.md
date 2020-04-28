@@ -72,7 +72,7 @@ Da
 
 Da, da-da-da, da-da-da, da-da-da-la
 Da, da-da-da, da-da-da, da-da-da-la
-Da, da-da-da, da-da-da...
+Da, da-da-da, da-da-da
 
 
 

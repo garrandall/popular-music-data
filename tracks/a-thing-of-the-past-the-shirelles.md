@@ -40,7 +40,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1961-08-28'
 ---
-Our love's becoming a thing of the past (x2)
+Our love's becoming a thing of the past
 Your kisses taste like it's goodbye
 My eyes know they're gonna cry
 I feel I'm losing you too fast, oh yeah

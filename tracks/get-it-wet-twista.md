@@ -122,7 +122,7 @@ As I enter the scene with bedroom eyes, Obsession cologne on, Nautica robe on
 Flamin' up, trippin' while stanky roll on
 Herringbone on gettin' my pose on to the dome strong
 Take a sip of liquor, I'm on bone
-Huggin you like I ain't seen you in so long,  what's up girl?
+Huggin you like I ain't seen you in so long, what's up girl?
 I execute my unique approach who I be the most
 Willin' to learn and try to be like I got some experience
 If you need a coach or we can ride tonight

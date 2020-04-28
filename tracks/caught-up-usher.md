@@ -178,7 +178,7 @@ This girl's got a hold on me
 
 This girl was mean, she really turned me out
 My homies say this girl is cramping my style
-And now...
+And now
 
 
 I'm so (caught up)

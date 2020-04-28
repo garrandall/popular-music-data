@@ -81,7 +81,7 @@ In this whole wide world
 Gonna tell me how to spend my time.
 I'm just a good loving rambling man,
 Say, buddy, can you spare me a dime?
-Hear me crying, it's a...
+Hear me crying, it's a
 
 (CHORUS)
 
@@ -90,10 +90,10 @@ When the sun goes down,
 Where I lay my weary head.
 Green, green valley or rocky road,
 It's there I'm gonna make my bed.
-Easy, now...
+Easy, now
 
 (CHORUS)
 
-Everybody, I wanna hear it now...
+Everybody, I wanna hear it now
 
 (CHORUS)

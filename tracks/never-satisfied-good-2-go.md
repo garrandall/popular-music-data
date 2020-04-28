@@ -64,7 +64,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1992-08-08'
 ---
-(Chorus)
 Never Satisfied
 Never Satisfied
 Never Satisfied
@@ -78,7 +77,6 @@ The way you make me feel I never understand
 You don't appreciate anything I ever do (No you don't appreciate the things I do)
 All you do is complain, what's the matter with you
 
-(Chorus)
 Never Satisfied... You are...
 Never Satisfied... Never Satisfied...
 Never Satisfied... No...
@@ -92,7 +90,6 @@ Out in the streets I'm like some stakin' doggone hoe
 You don't appreciate anything I ever do (No you don't appreciate the things I do)
 All you do is complain, what's the matter with you... no...
 
-(Chorus)
 Never Satisfied... You are... never...
 Never Satisfied... Never Satisfied...
 Never Satisfied... No...
@@ -103,11 +100,10 @@ But you don't treat me like a gentleman should
 I give you what you want and more than you need
 I just can't understand why it's so hard to please
 
-You don't appreciate anything I ever do (No you dooon't appreciate the things I do)
+You don't appreciate anything I ever do (No you don't appreciate the things I do)
 All you do is complain, what's the matter with you
 
 Never Satisfied... (No no...)
 Never Satisfied... (No no...)
 Never Satisfied... (No no...)
-I can never do egnough for you (Never Satisfied...) Can't you see my love is true (Never Satisfied...) x5
-(Fade out)
+I can never do egnough for you (Never Satisfied...) Can't you see my love is true

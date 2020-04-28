@@ -41,10 +41,8 @@ All the women of Pompeii
 Standing with the Kansas City housewives in doorways
 In volcanoes and tornadoes on doomsday
 
-
 De profundis clamavi ad te Domine
 Donae nobis pacem
-(5x)
 
 There were houses, there were hoses
 There were sprinklers on the lawn
@@ -57,7 +55,6 @@ There was a frying pan and she would cook their dreams while they were dreaming
 And later she would send them out to play
 And the yard went on forever
 
-
 Is everybody safe?
 Has everybody got a place to hide?
 Is everybody warm inside?
@@ -67,7 +64,5 @@ All the women of Pompeii
 Standing with the Nagasaki housewives in doorways
 In eruptions and destructions on doomsday
 
-
 De profundis clamavi ad te Domine
 Donae nobis pacem
-(x4)

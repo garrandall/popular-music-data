@@ -101,8 +101,8 @@ she got a grill and a face like a supermodel
 And a body built just like a Coke bottle
 But none can compare
 'Cause I can't keep my eyes of that girl
-Shake it  Snap
-Shake it  bring it back
+Shake it Snap
+Shake it bring it back
 But none can compare
 'Cause I can't keep my eyes of that girl
 
@@ -125,8 +125,8 @@ she got a grill and a face like a supermodel
 And a body built just like a coke bottle
 But none can compare
 'Cause I can't keep my eyes of that girl (none can compare, she's that girl)
-Shake it  Snap
-Shake it  bring it back
+Shake it Snap
+Shake it bring it back
 But none can compare
 'Cause I can't keep my eyes of that girl
 
@@ -156,15 +156,15 @@ she got a grill and a face like a supermodel
 And a body built just like a coke bottle
 But none can compare
 'Cause I can't keep my eyes of that girl
-Shake it  Snap
+Shake it Snap
 Come on, come on, come on, come on baby
-Shake it  bring it back
+Shake it bring it back
 Come on, come on, come on, come on you're so sexy
 But none can compare
 'Cause I can't keep my eyes of that girl
-Shake it  Snap
+Shake it Snap
 The way your body moves
-Shake it  bring it back
+Shake it bring it back
 I love your sexy attitude
 But none can compare
 'Cause I can't keep my eyes of that girl

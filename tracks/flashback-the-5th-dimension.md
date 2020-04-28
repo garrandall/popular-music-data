@@ -58,7 +58,7 @@ Did I ask for too much lovin', or did you need too much freedom? Did we both wan
 
 And I flashback...Aww back to the time you were mine and we lived in a love song
 Oh I flashback...Aww chasin' the sun we would run with a dream we could grow on
-Mmm...
+Mmm
 
 (background singers)
 Summer day...runnin' in the rain
@@ -96,7 +96,7 @@ Did I ask for too much lovin', or did you need too much freedom? Did we both wan
 
 And I flashback...Aww back to the time you were mine and we lived in a love song
 Oh I flashback...Aww chasin' the sun we would run with a dream we could grow on
-Mmm...
+Mmm
 
 (background singers)
 Summer day...runnin' in the rain

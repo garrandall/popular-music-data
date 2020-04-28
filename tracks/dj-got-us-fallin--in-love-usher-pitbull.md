@@ -238,6 +238,6 @@ Of your life, life, Gon' get you right
 The DJ got us falling in love again (L-love again-gain)
 
 
-Hahaha...
+Hahaha
 Yeah
 Thank you, DJ, haha

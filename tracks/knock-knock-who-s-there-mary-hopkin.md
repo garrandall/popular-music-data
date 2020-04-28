@@ -60,7 +60,7 @@ Knock, knock - "Who's there?"
 Now as the night is falling
 Take off your coat and come inside
 
-Lalala lalala lalala...
+Lalala lalala lalala
 
 Sit and dream
 Of how things might have been

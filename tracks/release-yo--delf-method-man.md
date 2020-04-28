@@ -56,7 +56,7 @@ Shit's gettin deep in here, I mean thick
 Niggas lookin all in my face like they want dick
 It's about to hit the fan, hit the flo'
 That's all I can stands, and I can't stands no mo'
-What is it?  Niggas think they bigga
+What is it? Niggas think they bigga
 Cause they got the finga on the trigga of a pistol
 They don't know I'm wicked, when I start to kick it
 With the raw sound, wash it down with a Mystic

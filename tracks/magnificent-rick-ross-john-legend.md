@@ -69,7 +69,7 @@ Gold Emblem with 2 M's in it, this living is so magnificent, stop dreaming it, I
 
 I'm tha magnificient with tha sensational style, far from bein' shallow cause she caught me wit a smile,
 try to figure out my style, baby that will take a minute but if all we got is time,
-you can't be actin' timid, so we back to playin tennis,  we been goin' back and forth,
+you can't be actin' timid, so we back to playin tennis, we been goin' back and forth,
 she the one that I adore, so I tried it in aurar,
 conscience intervened concentrating on my cream, I'm tha king, make a move, pawns all tha way to queens,
 I'm a don, I'm a boss, I'm a profit, I'm a g, I'm a CEO which means that I profit off of me (Yea!).

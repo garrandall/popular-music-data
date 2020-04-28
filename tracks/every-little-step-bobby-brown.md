@@ -145,7 +145,7 @@ Every little step I make
 We'll be together
 
 Every little...woo!
-Every little step I...
+Every little step I
 Every little step (Every little...every little step I take)
 
 Girl...good lovin'...

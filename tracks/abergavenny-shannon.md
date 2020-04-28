@@ -76,4 +76,4 @@ Up to Abergavenny
 Oh, la-la-la-la-la
 La-la-la-la-la-la
 La-la-la-la-la-la-la
-La-la-la-la-la-la...
+La-la-la-la-la-la

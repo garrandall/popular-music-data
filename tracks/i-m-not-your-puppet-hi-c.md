@@ -116,7 +116,7 @@ I'm not your puppet
 ("Puppet")
 Yo, girl, get off my
 ("Man, I wouldn't touch that...") ("You...") ("Why?")
-("And with your wrinkled  I can't be your lover")
+("And with your wrinkled I can't be your lover")
 
 
 Hopped out the bed about three o'clock

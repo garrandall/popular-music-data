@@ -113,8 +113,8 @@ Are you ready?
 I'm ready...
 
 
-Break me down, I'm ready, break me down  (Oh, oh, oh)
-Break me down, I'm ready, break me down  (Break me down now, break me down)
+Break me down, I'm ready, break me down (Oh, oh, oh)
+Break me down, I'm ready, break me down (Break me down now, break me down)
 Break me down, I'm ready, break me down
 Break me down, I'm ready, break me down
 

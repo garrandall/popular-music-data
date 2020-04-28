@@ -66,15 +66,15 @@ And I can't turn away
 I'm like a prisoner
 Captured by your eyes
 I've been taken
-And i've been hypnotized
+And I've been hypnotized
 I'm like a prisoner
 Captured by your eyes
 I've been taken
-And i've been hypnotized
+And I've been hypnotized
 And your eyes say everything
 You want to keep me here forever, I can't escape
 One minute's so sincere
-Then you completely turn against me and i'm afraid
+Then you completely turn against me and I'm afraid
 You don't have to say you love me
 'cause if you want me, i'll stay
 'cause I can't turn away
@@ -85,5 +85,5 @@ Taken by surprise
 I'm like a prisoner
 Captured by your eyes
 I've been taken
-And i've been hypnotized
+And I've been hypnotized
 I'm like a prisoner

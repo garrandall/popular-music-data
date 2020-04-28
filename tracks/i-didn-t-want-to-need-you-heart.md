@@ -97,7 +97,7 @@ Like I need you now
 I've always been free
 To leave when I wanna leave
 But it's not up to me anymore
-I didn't wanna need you ...
+I didn't wanna need you
 
 I didn't wanna need you, no
 I didn't wanna want you like I do

@@ -58,5 +58,5 @@ Uh huh, (uh huh), uh huh, (uh huh)
 Oh, no, you're sweeter than...
 Sweeter than sugar
 Yeah, yeah, yeah yeah
-Oh baby you and me we're a...
+Oh baby you and me we're a
 Sweeter than sugar fade to finish

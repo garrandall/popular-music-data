@@ -92,7 +92,7 @@ rankings:
 Hit me
 All the chronic in the world couldn't even mess with you
 You are the ultimate high
-You know what i'm saying baby?
+You know what I'm saying baby?
 Now check this out
 Take my money
 My house and my cars
@@ -101,7 +101,7 @@ You can have it all, baby
 Cause makin love
 Everytime we do
 Girl it's worse than drugs
-Cause i'm an addict over you
+Cause I'm an addict over you
 And you know that i
 
 
@@ -112,29 +112,29 @@ Feenin you got me feenin
 Got me goin crazy
 I can't leave you alone
 You got me feenin
-Girl i'm feenin for you
+Girl I'm feenin for you
 
-Said i'm feenin for you
+Said I'm feenin for you
 I don't have a mind
 It's all blown on you, baby
-Girl i'm so strung out
+Girl I'm so strung out
 All I do is wish for you
 So tomorrow if you're not here
-Then girl i'm down
+Then girl I'm down
 So I need you near
 I just wanna make it through the night
 So hold me tight
-Then girl i'm alright
+Then girl I'm alright
 
 I can't leave you alone
 You got me feenin
 Girl you got everything that I need, got everything that I need
 I can't leave you alone
 You got me feenin
-Girl i'm feenin for you
+Girl I'm feenin for you
 
-Lady i'm hooked on you
-There's nothing else i'd rather do
+Lady I'm hooked on you
+There's nothing else I'd rather do
 Spend my last dime
 For a drop of your time
 Cause you're the girl without a doubt
@@ -148,24 +148,24 @@ You got me feenin
 You got me feenin yes you do
 I can't leave you alone
 You got me feenin
-Girl i'm feenin for you
+Girl I'm feenin for you
 I can't leave you alone
 You got me feenin
 I can't leave you alone
 You got me feenin
-Girl i'm feenin for you
+Girl I'm feenin for you
 I can't leave you alone
 You got me feenin
-Girl i'm feenin for you
+Girl I'm feenin for you
 I can't leave you alone
 You got me feenin
-Girl i'm feenin for you
+Girl I'm feenin for you
 I can't leave you alone
 You got me feenin
-Girl i'm feenin for you
+Girl I'm feenin for you
 I can't leave you alone
 You got me feenin
-Girl i'm feenin for you
+Girl I'm feenin for you
 I can't leave you alone
 
 

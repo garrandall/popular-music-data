@@ -99,7 +99,7 @@ Girl, I'd put my own life on the line
 I'd cherish and protect you with my life
 All that shit I said, girl, I didn't mean
 I'd die without your love, baby, if you leave
-I could let you walk away, but baby im not goin out that way
+I could let you walk away, but baby I'm not goin out that way
 
 
 Not that way

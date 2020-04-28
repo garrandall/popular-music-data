@@ -92,7 +92,7 @@ Okay. The first day on my vacation, what I did on my summer vacation, the first 
 Now that's fine, young man!
 
 
-...Then I went downtown to look for a job...
+...Then I went downtown to look for a job
 
 
 Now that's fine, young man!

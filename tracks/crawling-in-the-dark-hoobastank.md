@@ -93,7 +93,7 @@ And all the choices that I make won't end up all for nothing
 Show me what it's for
 Make me understand it
 I've been crawling in the dark looking for the answer
-Is there something more than what i've been handed?
+Is there something more than what I've been handed?
 I've been crawling in the dark looking for the answer
 Help me carry on
 Assure me it's ok to use my heart and not my eyes
@@ -103,7 +103,7 @@ Will I ever get to see the ending to my story?
 Show me what it's for
 Make me understand it
 I've been crawling in the dark looking for the answer
-Is there something more than what i've been handed?
+Is there something more than what I've been handed?
 I've been crawling in the dark looking for the answer
 So when and how will I know?
 How much further do I have to go?
@@ -113,7 +113,7 @@ In front of me
 Show me what it's for
 Make me understand it
 I've been crawling in the dark looking for the answer
-Is there something more than what i've been handed?
+Is there something more than what I've been handed?
 I've been crawling in the dark looking for the answer
 
 

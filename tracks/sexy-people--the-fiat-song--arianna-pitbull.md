@@ -84,8 +84,8 @@ Sexy people all around the world (Back to Sorrento si, back to Sorrento)
 The night is young, let's have some fun. (Back to Sorrento si, back to Sorrento)
 When I hear the ocean calling
 Sexy people all around the world (Back to Sorrento si, back to Sorrento)
-The night is young, let's have some fun.  (Back to Sorrento si, back to Sorrento)
-Sexy people all around the world  (Back to Sorrento si, back to Sorrento)
+The night is young, let's have some fun. (Back to Sorrento si, back to Sorrento)
+Sexy people all around the world (Back to Sorrento si, back to Sorrento)
 The night is young, let's have some fun. (Back to Sorrento si, back to Sorrento)
 Let's have some fun
 Let's have some fun

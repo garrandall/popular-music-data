@@ -80,10 +80,10 @@ Oh, whaddya say, baby?
 You wanna?
 
 Well, I know sometimes you think that all you really are,
-Is the woman with the kids an' the groceries in the car.
-An' you worry about your hips an' you worry about your age.
+Is the woman with the kids and the groceries in the car.
+An' you worry about your hips and you worry about your age.
 Meanwhile I'm tryin' to catch the breath you take away.
-Oh, an' believe me, you still do.
+Oh, and believe me, you still do.
 Baby, all I see, when I look at you,
 
 Is one hot mama;
@@ -94,7 +94,7 @@ Oh, whaddya say, baby?
 You wanna?
 
 I can't imagine me lovin' someone else.
-I'm a lucky man, 
+I'm a lucky man,
 I think Daddy's got himself,
 
 One hot mama;

@@ -131,7 +131,7 @@ Mista Method Man puttin in work foot in the dirt
 Like it's all good roll thru your hood pushin a hearst
 I wish y'all would, come aruond like Clint Eastwood
 As if your, reppin your hood in my neck of the woods
-Street gorillas in the PJ's,  grimy bitch
+Street gorillas in the PJ's, grimy bitch
 I wear the same shit for 3 days, find me lit
 Blunt sparks like Felipe fuck the he say she say
 Yo shut the mic on plus the DJ

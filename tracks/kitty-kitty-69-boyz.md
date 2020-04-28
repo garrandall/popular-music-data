@@ -146,7 +146,7 @@ True dat, true dat! True dat, true dat!
 
 
 Jack and Jill went up the hill to fetch a pail of water
-Jack came down, said "Thank you ma'am, but uh, you got change for a quarter?"  Aaow!
+Jack came down, said "Thank you ma'am, but uh, you got change for a quarter?" Aaow!
 
 
  (Hey!)
@@ -154,12 +154,12 @@ Jack came down, said "Thank you ma'am, but uh, you got change for a quarter?"  A
 
 Check it out!
 Lil' Miss Muffet sat on a tuffet eatin' a bowl o' cream o' wheat
-She gave me a show, whatta you know, that lil' (hoe) was a freak!  Aaow!
+She gave me a show, whatta you know, that lil' (hoe) was a freak! Aaow!
 
 Check it!
 Little Jack Horner sat in the corner beggin' this girl all night
 She said no, he said "Oh! You gon' come on down and take a hike, baby!"
 
 Little Bo Peep lost her sheep, eyes were full of tears
-I think girl need her ; Whoot, there it is!  Aaow!
+I think girl need her ; Whoot, there it is! Aaow!
 

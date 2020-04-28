@@ -47,7 +47,7 @@ rankings:
 ---
 What's yo' name?
 What's yo' naaaaaame?
-  My name is, Ol Dirty Bastard,  and I'mma Alkaholik
+  My name is, Ol Dirty Bastard, and I'mma Alkaholik
  Yeah me too nigga
 
 

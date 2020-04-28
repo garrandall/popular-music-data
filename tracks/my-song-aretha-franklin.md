@@ -40,7 +40,7 @@ You told me that you would leave me here in tears
 Now you're gone and hours seem like years
 So darling, I sing my song
 Your leaving makes my heart beat slow and slow
-Now i'm wondering where did you go
+Now I'm wondering where did you go
 Please tell me, tell me what is wrong
 I still love you
 Won't you please come back to me?

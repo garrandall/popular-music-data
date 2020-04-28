@@ -154,6 +154,6 @@ Will you call my name?
 
 
 I say
-La la la...
+La la la
 When you walk on by
-La la la...
+La la la

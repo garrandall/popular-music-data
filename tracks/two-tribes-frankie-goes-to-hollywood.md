@@ -74,7 +74,7 @@ FRANKIE GOES TO HOLLYWOOD
 Possibly the most important thing.
 This side of the world...
 
-Oh yeah, well I...
+Oh yeah, well I
 
 Let's go
 

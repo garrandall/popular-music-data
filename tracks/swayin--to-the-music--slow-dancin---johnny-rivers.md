@@ -130,5 +130,5 @@ And as we dance together in the dark,
 So much love in this heart of mine.
 Whisper to me, hold me tight.
 You're the one I thought I'd never find,
-And now...
+And now
 

@@ -154,7 +154,7 @@ Get to know me (Get to know me) so we can do this, Oh
 I should
 I know your probably thinkin'
 (I want I want babe)
-Knowin' if I do  (I want I want babe)
+Knowin' if I do (I want I want babe)
 I don't get down, on the first night
 
 I should make a move, but I won't

@@ -85,6 +85,6 @@ Si tú me amas y yo te amo
 Normal, yo sé que a vece' peleamo'
 Pero qué rico cuando chingamo'
 Y no sé por qué nos dejamo' (Oh-oh-oh)
-Si tú me amas y yo te amo  (Oh, oh-oh)
+Si tú me amas y yo te amo (Oh, oh-oh)
 Normal, yo sé que a vece' peleamo' (Oh-oh-oh)
 Pero qué rico cuando chingamos

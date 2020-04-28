@@ -128,7 +128,7 @@ There'll be someone else, I keep telling myself
 I'll be alright without you
 Love's an empty face...Oh I've got to replace
 I'll be alright without you
-There'll be someone else, I keep telling  myself
+There'll be someone else, I keep telling myself
 
 
 I'll be alright without you

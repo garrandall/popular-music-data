@@ -97,4 +97,4 @@ To say goodbye
 And leave me all
 Alone at night, waah!
 
-It's just like me ...
+It's just like me

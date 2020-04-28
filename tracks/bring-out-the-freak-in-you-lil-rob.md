@@ -54,7 +54,7 @@ Let me bring out the freak in you
 There's somethin I see in you
 I definitely see me in you
 Doin what nasty people do
-Can you blame me?  Look at the ass on you
+Can you blame me? Look at the ass on you
 How the fuck can I pass on you?
 Classy lookin freak, nasty attitude
 I just have to be havin you

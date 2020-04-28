@@ -61,7 +61,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2009-02-28'
 ---
-(Chorus)
 Shorty I wanna know if you come over
 If you don't mind girl put your legs up on my shoulders
 Don't lie, I can see it in your eyes
@@ -71,7 +70,6 @@ When I put-put-put it on girl, when I put-put-put it on ya
 When I put-put-put it on girl, when I put-put-put it on ya
 When I put-put-put it on ya, put-put-put it on ya
 
-(Verse 1)
 Let's ride round the city, make love in the car
 Let's get on express way, and let me tease you ma
 And while you drive baby, I wanna taste your tongue
@@ -81,13 +79,11 @@ I wanna hit and stay, I wanna hit and run
 Let's pull the car over, and have a little fun
 The AC working, so we ain't gotta bun
 
-(Bridge)
 Can I lick it, can I stick it, can I touch it, can I grab it
 Baby tell me can I have it
 Can I rub it, can I flip it, can I hold it, can I grip it
 Anyway I wanna get it
 
-(Chorus)
 Shorty I wanna know if you come over
 If you don't mind girl put your legs up on my shoulders
 Don't lie, I can see it in your eyes
@@ -97,7 +93,6 @@ When I put-put-put it on girl, when I put-put-put it on ya
 When I put-put-put it on girl, when I put-put-put it on ya
 When I put-put-put it on ya, put-put-put it on ya
 
-(Verse 2)
 If that don't work for ya, I got another idea
 Ain't nobody home, so girl come over here
 Let's play hide and seek, in our underwear
@@ -107,13 +102,11 @@ Either way we both win, now that's fair
 Whatever I gotta do to be with you I don't care
 You my queen, I'm your king, now that's a nice pair
 
-(Bridge)
 Can I lick it, can I stick it, can I touch it, can I grab it
 Baby tell me can I have it
 Can I rub it, can I flip it, can I hold it, can I grip it
 Anyway I wanna get it
 
-(Chorus)
 Shorty I wanna know if you come over
 If you don't mind girl put your legs up on my shoulders
 Don't lie, I can see it in your eyes
@@ -123,7 +116,6 @@ When I put-put-put it on girl, when I put-put-put it on ya
 When I put-put-put it on girl, when I put-put-put it on ya
 When I put-put-put it on ya, put-put-put it on ya
 
-(Verse 3)
 Let me grade you, give you a report card
 Your first test is, can you get it hard
 Show me how good you communicate when we start
@@ -137,13 +129,11 @@ Ain't no tattle teller, I keep my mouth locked
 Make you an honor student, show me you back shot
 You passed with flying colors, ohthat's a nice twat
 
-(Bridge)
 Can I lick it, can I stick it, can I touch it, can I grab it
 Baby tell me can I have it
 Can I rub it, can I flip it, can I hold it, can I grip it
 Anyway I wanna get it
 
-(Chorus)
 Shorty I wanna know if you come over
 If you don't mind girl put your legs up on my shoulders
 Don't lie, I can see it in your eyes

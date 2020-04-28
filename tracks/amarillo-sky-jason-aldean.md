@@ -90,7 +90,7 @@ rankings:
 ---
 
 He gets up before the dawn;
-Packs a lunch an' a thermos full of coffee.
+Packs a lunch and a thermos full of coffee.
 It's another day in the dusty haze;
 Those burnin' rays are wearin' down his body.
 The diesels worth the price of gold;

@@ -47,7 +47,7 @@ rankings:
 ---
 
 
-Fab...
+Fab
 Can you be my B-A-B-Y?
 
  I'll never call another lover mine

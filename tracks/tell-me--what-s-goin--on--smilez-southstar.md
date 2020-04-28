@@ -134,7 +134,7 @@ let me tell you though, some things still don't pass
 sit back in the pad, think about the times we had
 try not to let it make me sad, or make me mad
 i'm tryin to move on wit my life, the wound is healed
-yea i'm juss speakin it real, i'm ready to feel
+yea I'm juss speakin it real, I'm ready to feel
 ready to provide for my seed, a man now
 bet you can't believe its me
 

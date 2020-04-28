@@ -97,9 +97,9 @@ rankings:
   start_date: '1999-05-01'
 ---
 
-Yeah...
+Yeah
 Oh yes
-Ohhh.. yeah..
+Oh yeah
 Can this be true?
 Tell me, can this be real?
 How can I put into words what I feel?
@@ -146,14 +146,14 @@ I know that it's true
 God must have spent...
 A little more time
 On you...
-(on you, on you, on you, you...on you, on you, on you, you..) oh...
-(on you, on you, on you, you...on you, on you, on you, you..) yeah...
+(on you, on you, on you, you... on you, on you, on you, you) oh...
+(on you, on you, on you, you... on you, on you, on you, you) yeah...
 
 Never thought that love could feel like this
 and you changed my world with just one kiss.
 How can it be that right here with me
 There's an angel?
-It's a miracle...
+It's a miracle
 
 Your love is like a river
 Peaceful and deep (peaceful and deep)
@@ -163,14 +163,12 @@ When I look into your eyes
 I know that it's true
 God must have spent...
 A little more time
-On you...
-(on you, on you, on you, you..)
+On you... (on you, on you, on you, you)
 God must have spent...
 A little more time
-on you
-(on you, on you...you...you...ohyeah)
+On you... (on you, on you... you... you... oh yeah)
 A little more time
-on you...oh
+on you... oh
 
 
 

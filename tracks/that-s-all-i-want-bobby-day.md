@@ -13,7 +13,7 @@ rankings:
   start_date: '1959-04-20'
 ---
 Fee fi for fum
-For fumma, for fumma...
+For fumma, for fumma
 
 A sweet little kiss
 When we embrace

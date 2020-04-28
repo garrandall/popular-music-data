@@ -52,7 +52,7 @@ Whenever you see me
 Whenever you touch me
 You know I'm in love
 And all I want is you
-La la la la...
+La la la la
 You're my sweet loving man
-La la la la...
+La la la la
 You're my sweet loving man

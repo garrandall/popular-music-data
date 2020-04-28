@@ -91,7 +91,7 @@ rankings:
 ---
 
 
-Yeah, whoa...
+Yeah, whoa
 
 
 Yo, yo, yo, yo

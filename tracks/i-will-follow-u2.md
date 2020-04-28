@@ -29,7 +29,7 @@ rankings:
   start_date: '1984-02-11'
 ---
 
-I will Follow...
+I will Follow
 
 I was on the outside when you said
 You said you needed me
@@ -69,7 +69,7 @@ If you walkaway, walkaway
 I walkaway, walkaway...I will follow
 
 I will follow
-I will follow...
+I will follow
 
 
 

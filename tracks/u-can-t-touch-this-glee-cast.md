@@ -115,7 +115,7 @@ Then you probably are dead
 So wave your hands in the air
 Bust a few moves, run your fingers through your hair
 This is it for a winter
-Dance to this an' you're gonna get thinner
+Dance to this and you're gonna get thinner
 Move slide your rump
 Just for a minute, let's all do the bump
 Bump bump bump

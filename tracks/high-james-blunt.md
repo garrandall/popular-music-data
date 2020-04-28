@@ -31,7 +31,7 @@ Beautiful dawn (beautiful dawn)
 Melt with the stars again
 Do you remember the day when my journey began?
 Will you remember the end of time?
-Beautiful dawn  (beautiful dawn)
+Beautiful dawn (beautiful dawn)
 You're just blowing my mind again
 Thought I was born to endless night, until you shine
 

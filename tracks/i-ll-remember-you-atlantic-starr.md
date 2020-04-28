@@ -69,7 +69,6 @@ The life from in your eyes
 And I remain alone, no matter who
 May try and take your place
 
-CHORUS:
 And I'll remember you
 The dreams we could of dreamed
 The tears I should have seen
@@ -88,10 +87,8 @@ Quietly will pass, quietly we'll cry
 And here I stand, alone with every
 Promise melted through my hands
 
-(Chorus)
 Oh, and I remain, alone no matter
 Who may try and take your place
 
-(Chorus 2x)
 I'll remember you...
 I'll remember you...

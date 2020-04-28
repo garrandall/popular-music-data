@@ -113,7 +113,7 @@ I'm on the hunt I'm after you
 Smell like I sound I'm lost in a crowd
 And I'm hungry like the wolf
 Straddle the line in discord and rhyme
-I'm on the hunt  I'm after you
+I'm on the hunt I'm after you
 Mouth is alive with juices like wine
 And I'm hungry like the wolf
 
@@ -127,7 +127,7 @@ Do do do do do do do dodo dododo dodo
 
 
 In touch with the ground
-I'm on the hunt  I'm after you
+I'm on the hunt I'm after you
 Scent and a sound. I'm lost and I'm found
 And I'm hungry like the wolf
 Strut on a line it's discord and rhyme
@@ -142,10 +142,10 @@ Hungry like the wolf
 
 
 Burning the ground I break from the crowd
-I'm on the hunt  I'm after you
+I'm on the hunt I'm after you
 I smell like I sound. I'm lost and I'm found
 And I'm hungry like the wolf
 Strut on a line it's discord and rhyme
-I'm on the hunt  I'm after you
+I'm on the hunt I'm after you
 Mouth is alive with juices like wine
 And I'm hungry like the wolf

@@ -57,7 +57,7 @@ Wrack my brain, wrack my brain,
 Till my head's filled with pain,
 Wrack my brain.
 
-All dried up, i'm all dried up,
+All dried up, I'm all dried up,
 All I have's this empty cup,
 All dried up.
 

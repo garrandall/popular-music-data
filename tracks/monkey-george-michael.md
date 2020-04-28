@@ -89,10 +89,10 @@ I've had the rest
 Now it's time I had the best
 So you tell me that you won't do anymore
 
-Well i'd write your heart a letter
+Well I'd write your heart a letter
 But I think you know me better
 If I keep on askin' baby, maybe
-I'll get what i'm askin' for
+I'll get what I'm askin' for
 
 Why can't you do it?
 Why can't you set your monkey free?

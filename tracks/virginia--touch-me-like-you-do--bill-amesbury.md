@@ -78,7 +78,7 @@ Like you do, like you do
 Like you do
 Oh yeah
 
-Lalala...
+Lalala
 
 Ah, Virginia, touch me like you do
 Touch me like you do

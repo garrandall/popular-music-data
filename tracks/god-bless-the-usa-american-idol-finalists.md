@@ -48,8 +48,8 @@ You'd thank your lucky stars to be living here today
 Coz the flag don't stand for freedom
 And they can't take that away
 
-And i'm proud to be an american
-Where at least I know i'm free
+And I'm proud to be an american
+Where at least I know I'm free
 And I won't forget the man who died
 Who gave that right to me
 And I gladly stand up next to you
@@ -66,8 +66,8 @@ And new york to LA
 Well theres pride in every american heart
 And its time we stand as say
 
-And i'm proud to be an american
-Where at least I know i'm free
+And I'm proud to be an american
+Where at least I know I'm free
 And I won't forget the man who died
 Who gave that right to me
 And I gladly stand up
@@ -76,8 +76,8 @@ And defend here still today
 Cause there ain't no doubt I love this land
 God bless the usa
 
-And i'm proud to be an american
-Where at least I know i'm free
+And I'm proud to be an american
+Where at least I know I'm free
 And I won't forget the man who died
 Who gave that right to me
 And I gladly stand up

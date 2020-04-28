@@ -150,8 +150,8 @@ That outside dick keep them hoes sick, like
 Its like I got the world in my palm, your girl up under my arm
 She fucked up from the charm,
 She love the way the dick stay hard from 12 till early in the morn,
-fine bitches if you listening you heared me i'm strong,
-If you going through your cycle I ain't with it i'm gone,
+fine bitches if you listening you heared me I'm strong,
+If you going through your cycle I ain't with it I'm gone,
 you must've heared about them hoes that I beat up in my home,
 They wasn't telling the truth baby you know they was wrong,
 Now, make it official and drink some of that Dom,

@@ -44,7 +44,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-24'
 ---
-I'm (x8)
+I'm
 Had we met at a different time we'd be perfect for each other
 Now were spending all our time, in this world come together
 My heart is aching, from all the love your giving

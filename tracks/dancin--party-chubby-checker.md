@@ -88,8 +88,8 @@ Jump and stomp till the ceiling breaks
 Have no fear, cause the gang's all here
 At the twistin' party tonight
 
-Is  here - Yeah
+Is here - Yeah
 Is Dee Dee here - Yeah
 Are the Orlons here - Yeah
-Are the  here - Yeah
+Are the here - Yeah
 Ar get yourselves down, go ahead

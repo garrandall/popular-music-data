@@ -100,7 +100,7 @@ Then he said,
 Here's a riddle for you
 Find the Answer
 There's a reason for the world
-You and I...
+You and I
 
 Picked up my kid from school today
 
@@ -119,7 +119,7 @@ And Hey Dad
 Here's a riddle for you
 Find the Answer
 There's a reason for the world
-You and I...
+You and I
 
 I said,
 
@@ -148,7 +148,7 @@ I love you freely
 Here's a riddle for you
 Find the Answer
 There's a reason for the world
-You and I...
+You and I
 
 
 

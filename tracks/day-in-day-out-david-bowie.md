@@ -147,10 +147,10 @@ Hoo hoo
 (Day out) Angels in a ton of sound... And it's—
 (Day in) Day in
 (Day out) Day out
-(Day in) You stay in, or ya...
+(Day in) You stay in, or ya
 (Day out) Ya fade out, fade out
 (Day in) Fade out
-(Day out) Ha, and ya...
+(Day out) Ha, and ya
 (Day in) Fade out
 (Day out) Fade out, fade out
 (Day in) Hoo hoo

@@ -56,7 +56,7 @@ With the, power seats, leather, wood on my wheel
 One-touch sunroof BUT leave it alone
 Hoes see it can't believe it - "It's goin back on it's own"
 Oh, shit, that's how we do it baby
-"Every day like this?"  Seven dayy-ayyys
+"Every day like this?" Seven dayy-ayyys
 .. I tell you three-sixty-five
 Winter spring and fall, in the summer we ride
 You actin like you never seen it befo'
@@ -98,7 +98,7 @@ Treat you like you're from Milwaukee, send you Green Bay Packin
 Uh, hear me out now
 Now your pimp juice is anything, attract the opposite sex
 It could be money, fame, or straight intellect
-It don't MATTER!  Bitches got the pimp juice too
+It don't MATTER! Bitches got the pimp juice too
 Come to think about it - dirty, they got more than we do
 They got mo' - juice in they talk, got mo' juice in they walk
 They got mo' - juice in they pants, OOH GOD DAMN!

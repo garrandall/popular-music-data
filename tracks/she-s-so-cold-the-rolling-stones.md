@@ -116,7 +116,7 @@ A sweet sweet beauty, but stone stone cold
 
 You're so cold, you're so cold, cold, cold
 You're so cold, you're so cold
-I'm so hot for you, i'm so hot for you
+I'm so hot for you, I'm so hot for you
 I'm so hot for you and you're so cold
 I'm the burning bush, I'm the burning fire
 I'm the bleeding volcano

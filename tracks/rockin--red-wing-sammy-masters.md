@@ -31,7 +31,7 @@ rankings:
 There once lived an Indian maid
 A teenage Indian maid
 Who heard one day her radio play
-And the rock an' roller stole her heart away
+And the rock and roller stole her heart away
 
 And now every single night
 All around the campfire bright

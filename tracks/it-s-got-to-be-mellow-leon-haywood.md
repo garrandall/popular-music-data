@@ -72,23 +72,15 @@ And she's not make believe,
 She don't mind sharing love so that she may receive.
 
 She's mellow
-(Chorus: it's got to be mellow)
 Yes my baby's mellow,
-(Chorus: it's got to be mellow)
 And oh yeah,
-(Chorus: she's my baby and I love her)
 And I'm her only fellow.
-(Chorus: and I place no one above her)
 Oh, yeah, yeah.
 
 It's got to be mellow
-(Chorus: it's got to be mellow),
 Got to be mellow,
-(Chorus: it's got to be mellow)
 'Cause my baby loves me
-(Chorus: she's my baby and I lover her)
 And I'm her only fellow
-(Chorus: and I place no one above her),
 Crazy about my baby,
 Crazy about my baby,
 And it's plain to see

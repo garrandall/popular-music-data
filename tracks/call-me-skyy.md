@@ -67,9 +67,9 @@ Here's my number and a dime, call me anytime
 (Call me) Call me
 
 She wasn't good to you, (No)
-Was a prude to you.  (No)
+Was a prude to you. (No)
 Don't like to do the things you like to do
-She doesn't do to you (Oh, oh) the things she did to you.  (Oh, oh)
+She doesn't do to you (Oh, oh) the things she did to you. (Oh, oh)
 Showed you lovin' like she used to
 Well, I've been watchin' you, boy
 And I got what you want, got what you need
@@ -86,7 +86,7 @@ Here's my number and a dime, call me anytime
 MAN ON PHONE: Hello, how you doing?
 No, she's gone
 I figured I'd give you a call just to see if you were serious
-(Oh, oh.  Well.)
+(Oh, oh. Well.)
 I'd like to get together with you tonight and talk about, uh, just me and you
 You know, (Oh, oh) I got this little place that I like to go to and...
 
@@ -122,7 +122,7 @@ Call me anytime, yeah, yeah
 
 She doesn't do to you what she used to do
 She doesn't do to you what she, what she, what she used to do, no
-(Call me) No, no, no, no, no, no, no, no, no, no, no.  (Call me)
+(Call me) No, no, no, no, no, no, no, no, no, no, no. (Call me)
 (Call me) If you need someone to talk to
 (Call me) Call me any old ti-i-i-i-i-i-i-i-i-i-i-i-i-i-ime
 

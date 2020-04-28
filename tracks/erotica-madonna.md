@@ -81,7 +81,7 @@ rankings:
   start_date: '1993-02-13'
 ---
 
-Erotica, romance 
+Erotica, romance
 My name is Dita
 I'll be your mistress tonight
 I'd like to put you in a trance
@@ -97,10 +97,10 @@ Let my mouth go where it wants to
 Give it up, do as I say
 Give it up and let me have my way
 I'll give you love, I'll hit you like a truck
-I'll give you love, I'll teach you how to ...
+I'll give you love, I'll teach you how to
 
 I'd like to put you in a trance, all over
-Erotic, erotic, put your hands all over my body 
+Erotic, erotic, put your hands all over my body
 Erotic, erotic
 
 Once you put your hand in the flame
@@ -115,10 +115,10 @@ I only hurt the ones I love
 Give it up, do as I say
 Give it up and let me have my way
 I'll give you love, I'll hit you like a truck
-I'll give you love, I'll teach you how to ...
+I'll give you love, I'll teach you how to
 
 I'd like to put you in a trance, all over
-Erotic, erotic, put your hands all over my body 
+Erotic, erotic, put your hands all over my body
 Erotic, erotic
 
 Erotica, romance
@@ -134,7 +134,7 @@ I know you want me
 I'm not gonna hurt you
 I'm not gonna hurt you, just close your eyes
 
-Erotic, erotic 
+Erotic, erotic
 Put your hands all over my body
 All over me, all over me
 

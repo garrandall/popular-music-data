@@ -57,7 +57,7 @@ You're by my side, right by my side
 
 
 Don't wake me up in the morning, Michael
-Unless you want me  to die
+Unless you want me to die
 Please stay with me in the morning, Michael
 And hold me in the light
 

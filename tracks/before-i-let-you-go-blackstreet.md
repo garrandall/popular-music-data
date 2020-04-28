@@ -118,7 +118,7 @@ rankings:
 ---
 
 Before I let you go, before I let you go
-Can I get a kiss, goodnight, baby 
+Can I get a kiss, goodnight, baby
 
 Baby
 
@@ -150,7 +150,7 @@ Slip away
 Teddy, won't you play the music for me
 Teddy, won't you play Backstreet side?
 Baby I get so lonely
-Sometimes, I...
+Sometimes, I
 Baby my heart is broken sometimes
 I need you right now, I don't...
 I can't let you slip away, slip away

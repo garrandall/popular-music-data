@@ -40,7 +40,7 @@ With a gun at her throat
 Just  some dirt on her coat
 
 Let my daddy get back from work without any incident
-Lord let  his home is still be his castle
+Lord let his home is still be his castle
 And I pray the lord now
 
 We  used to pray for folks far away

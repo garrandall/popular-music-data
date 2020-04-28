@@ -38,7 +38,7 @@ Take a little love and watch it grow
 But I want to lay with you...darling
 Right now
 Make love all day with you baby
-And show you how...
+And show you how
 Take my body, don't take my time
 Take your lips and make them mine
 Aaaaw

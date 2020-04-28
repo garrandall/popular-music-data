@@ -84,7 +84,7 @@ Baby, it's you (Sha la la la la la)
 
 
 You should hear what they say about you, "cheat," "cheat."
-They say, they say you never never never  been true (Cheat cheat)
+They say, they say you never never never been true (Cheat cheat)
 
 
 Uh oh

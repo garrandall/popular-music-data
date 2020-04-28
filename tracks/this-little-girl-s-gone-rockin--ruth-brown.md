@@ -64,7 +64,7 @@ I left some biscuits for the pup
 
 I put fresh water in his cup
 
-And now i'm off, i'm gonna live it up
+And now I'm off, I'm gonna live it up
 
 This little girl's gone rockin'
 

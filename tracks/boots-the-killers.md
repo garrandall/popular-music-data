@@ -16,7 +16,7 @@ Oh, God, oh, God
 Dear father in heaven
 I'm not a praying man but if you're up there and you can hear me
 Show me the way
-I'm at the end of my road and I...
+I'm at the end of my road and I
 Show me the way, oh God
 
 

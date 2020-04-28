@@ -50,7 +50,7 @@ And if I had another chance to say goodbye
 I would just say thank you
 For the times we spent
 And not to cry
-Cause I'm...
+Cause I'm
 
 
 Still watching over you
@@ -74,7 +74,7 @@ So I´ll let you go
 And if it ends up
 We are meant to met again
 We'll let each other know
-Cause I'm...
+Cause I'm
 
 I don´t want to lose you
 So I'll let you go

@@ -56,7 +56,7 @@ Life would be a different game
 
 But right now I am with you, and
 Together we can make it through
-Ba-ba-ba...
+Ba-ba-ba
 
 Forever
 Our love might last
@@ -65,7 +65,7 @@ Will it come too fast
 
 But right now I am with you, and
 Together we can make it through
-Ba-ba-ba...
+Ba-ba-ba
 
 We live in a world
 Of carnivals and clowns
@@ -74,7 +74,7 @@ That make us want to fly
 
 But right now I am with you, and
 Together we can make it through
-Ba-ba-ba...
+Ba-ba-ba
 
 We live in a world
 Of carnivals and clowns

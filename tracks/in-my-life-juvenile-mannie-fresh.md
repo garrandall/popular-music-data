@@ -108,7 +108,7 @@ Break bread with me nigga, is ya mad with me
 though we was beefin , your supposed to spend your cash with me
 I'm in here last with me, hold me down, give me a whip, give me
 a bitch and let her blow me down,
-I'm so gutter, I'm so slick, i'm so grimey
+I'm so gutter, I'm so slick, I'm so grimey
 I promise you something, I bet you gon find me
 I'm a eat, purchase, whatever I please
 CO, give me the keys, aww please, I need two of these
@@ -128,7 +128,7 @@ Skip, Smoove put in work and wacko poppin the chopper
 I Scream the "U" cuz I mean it,
 the only difference is you be throwing your set up when you screamin
 I Seen it, Man all of the obstacles that I been through,
-what make you think i'm a be scared of a bitch like you,
+what make you think I'm a be scared of a bitch like you,
 I'm ya dog, let me get it all consign me,
 you ain't paid them last people yet,
 dog don't even remind me,

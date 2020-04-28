@@ -124,7 +124,7 @@ In order for me to get down, I gotta get in D
 In order for me to get down, I gotta get in D
 Need to get in D
 Dog for D, down D
-Funky D,  D
+Funky D, D
 Down D!
 
 

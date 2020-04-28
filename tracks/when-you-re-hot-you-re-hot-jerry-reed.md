@@ -67,7 +67,7 @@ And finally they just threw up their hands and said
 
 When you're hot, you're hot
 And when you're not, you're not
-Put all the money in an' let's roll 'em again
+Put all the money in and let's roll 'em again
 When you're hot, you're hot
 La la la la la la, la la la la la
 La la la la la la, when you're hot, you're hot
@@ -77,7 +77,7 @@ And I was just gettin' ready to roll 'em again
 When I heard somethin' behind me
 I turned around and there was a big old cop
 
-He said "Hello, boys", and then he gave us a grin an' said
+He said "Hello, boys", and then he gave us a grin and said
 "Look like I'm gonna hafta haul you all in
 An' keep all that money for evidence"
 I said, "Well, son when you hot, you hot", he said, "Yeah"
@@ -95,7 +95,7 @@ I said, "Hey, judge, old buddy, old pal
 I'll pay ya that hundred I owe ya, if you'll get me outta this spot"
 
 So he gave my friends a little fine to pay
-He turned around an' grinned at me an' said
+He turned around and grinned at me and said
 "Ninety days, Jerry, when you hot, you hot"
 An' I said, "Thanks a lot"
 

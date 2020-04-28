@@ -97,7 +97,7 @@ Shes grinding on my dick
 She lookin for the pot of gold
 We hop up in that amg and d we in the westin
 She put the moves on me
-I couldve sworn shawtys a wrestler
+I could've sworn shawtys a wrestler
 Talkin all that shit
 Soon as I hit
 Now I got her talkin like this
@@ -111,15 +111,15 @@ She like oh oh baby ah ah ah oh
 In a falsetto
 She like oh oh baby ah ah ah ah
 
-Shes tellin all her homies im the real...deal
+Shes tellin all her homies I'm the real...deal
 Everytime she leave the crib shawty be comin right back
 She talkin dirty all up in my ear
-And im fina put this dog right on the kitty cat
+And I'm fina put this dog right on the kitty cat
 I wasnt gon show u up
 But damn u got tht look up in you
 Callin last night flute
 Actin like she didnt remember
-I hopped up out dat linen im fina defend my title
+I hopped up out dat linen I'm fina defend my title
 Imma put ur ass to be tell me which way would u like it
 Talkin all that shit
 As soon as I hit

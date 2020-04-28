@@ -90,7 +90,7 @@ I am in wanting you
 
 So place your love and trust
 In these hands of mine
-And I'm gonna  our hearts as one
+And I'm gonna our hearts as one
 And together happiness we'll find
 
 'Cause baby

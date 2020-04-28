@@ -69,7 +69,7 @@ rankings:
   start_date: '2004-05-01'
 ---
 
-He can't remember 
+He can't remember
 The times that he thought
 Does my daddy love me?
 Probably not
@@ -88,8 +88,8 @@ Whispering daddy
 I want you to know
 
 
-I love you this much 
-And i'm waiting on you
+I love you this much
+And I'm waiting on you
 To make up your mind
 Do you love me too?
 How ever long it takes
@@ -105,8 +105,8 @@ The man didn't blink
 But the little boy cried
 
 
-I love you this much 
-And i'm waiting on you
+I love you this much
+And I'm waiting on you
 To make up your mind
 Do you love me too?
 How ever long it takes
@@ -119,18 +119,18 @@ He looked up above the preacher
 And he sat and stared at him
 
 He said
-'forgive me father' 
+'forgive me father'
 When he realized
 That he hadn't been unloved
 Or alone all his life
-His arms were stretched out 
+His arms were stretched out
 As far as they'd go
 Nailed to the cross
 For the whole world to know
 
 
-I love you this much 
-And i'm waiting on you
+I love you this much
+And I'm waiting on you
 To make up your mind
 Do you love me too?
 How ever long it takes

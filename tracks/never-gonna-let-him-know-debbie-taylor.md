@@ -34,7 +34,7 @@ rankings:
 ---
 Never gonna let him know,never gonna let him,
 Never gonna let him, never gonna let him
-Know,never gonna let him never gonna let him...
+Know,never gonna let him never gonna let him
 I know my man has been running around,yeah.
 Yes, I can tell- I saw lipstick on his collar, he just got paid,
 Don't even have a dollar he stayed out late,oh,oh

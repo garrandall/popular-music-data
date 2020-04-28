@@ -111,5 +111,5 @@ Keep my love going, now (lifting me)
 Higher and higher
 I said keep on lifting (lifting, lifting,lifting)
 Lift me up mama (your love keeps lifting me)
-Keep on lifting  (lifting me)
+Keep on lifting (lifting me)
 Higher and higher

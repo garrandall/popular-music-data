@@ -137,7 +137,7 @@ Well, wouldn't ya know, it's that swingin' little guitar man.
 Well, I came a long way from the carwash,
 Got to where I said I'd get
 Now that I'm here I know for sure
-I really ain't  got there yet
+I really ain't got there yet
 Think I'll start all over
 Swing my guitar over my back
 I'm gonna get myself back on the track

@@ -91,7 +91,7 @@ Was it the simple things
 That made me so crazy about you
 Was it your charm or your passion
 It's not hard to believe
-I love you and I need you so I...
+I love you and I need you so I
 
 Sending you forget me nots
 To help me to remember
@@ -111,7 +111,7 @@ Though we did end as friends
 Given the chance we could love again
 She'll always love you forever
 It's not hard to believe
-I want you and I need you so I...
+I want you and I need you so I
 
 Sending you forget me nots
 To help me to remember

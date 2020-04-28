@@ -102,7 +102,7 @@ night now, my girl like hey that's my song, cuz I'm feeling fine, so fine, so fi
 
 
 All the girls that feel me say okay...in the club u hear me say okay feeling good, feeling great I look good don't hate. If
-the fellas feeling good say oh yeah and if your liking what u do say oh yeah...feeling good...feeling  great u look good boy
+the fellas feeling good say oh yeah and if your liking what u do say oh yeah...feeling good...feeling great u look good boy
 too don't hate. All my girls get your hair fixed and your nails done put your hands up and say okay (okay) okay (okay)
 okay (okay) okay (okay) ...u got the drink, get another one make him pay for it...put it in the air and say okay (okay) okay
 (okay) okay (okay) okay (okay)..
@@ -113,7 +113,7 @@ Your hands all on my booty, two stepping in my Gucci, they're like go girl (go g
 
 
 All the girls that feel me say okay...in the club u hear me say okay feeling good, feeling great I look good don't hate. If
-the fellas feeling good say oh yeah and if your liking what u do say oh yeah...feeling good...feeling  great u look good boy
+the fellas feeling good say oh yeah and if your liking what u do say oh yeah...feeling good...feeling great u look good boy
 too don't hate. All my girls get your hair fixed and your nails done put your hands up and say okay (okay) okay (okay)
 okay (okay) okay (okay) u got the drink, get another one make him pay for it...put it in the air and say okay (okay) okay
 (okay) okay (okay) okay (okay)..

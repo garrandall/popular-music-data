@@ -80,7 +80,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-01-11'
 ---
-Dee doodee doom doom...
+Dee doodee doom doom
 Seven little girls
 Sitting in the backseat
 Hugging and a kissing with Fred
@@ -88,14 +88,13 @@ I said, why don't one of you
 Come and sit beside me
 And this is what the seven girls said
 
-(CHORUS)
 All together now, one, two, three
 Keep your mind on your driving
 Keep your hands on the wheel
 Keep your snoopy eyes on the road ahead
 We're having fun, sitting in the backseat
 Kissing and a hugging with Fred
-Dee doodee doom doom...
+Dee doodee doom doom
 Drove through the town
 Drove through the country
 Showed em how a motor could go
@@ -103,8 +102,7 @@ I said, how do you like my
 Triple carburetor
 And one of them whispered low
 
-(CHORUS)
-Dee doodee doom doom...
+Dee doodee doom doom
 Seven little girls
 Smooching in the backseat
 Every one in love with Fred
@@ -112,9 +110,8 @@ I said, you don't need me
 I'll get off at my house
 And this is what the seven girls said
 
-(CHORUS)
 All of them in love with Fred
 (Dee doodee doom doom)
 Kissing and a hugging with Fred
 (Dee doodee doom doom)
-Wish that I could be like Fred (doom)
+Wish that I could be like Fred

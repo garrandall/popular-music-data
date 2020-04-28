@@ -51,7 +51,7 @@ we could ride through Compton to see real blood, real crypts,
 and imma always hold you down thats real shit
 I'm the Los Angeles King and you remind me of Mary the R&B Queen
 I got the 411 whats crackin what I owe you for helping me go 4 times platinum
-I had a kid to my life he's almost 2 I guess wat im tryin 2 say
+I had a kid to my life he's almost 2 I guess wat I'm tryin 2 say
 is thank you for over ten years in the ghetto gospel
 you paved the way for young black women of prosper
 how you paint pictures
@@ -64,7 +64,7 @@ I'm Billboards top ten featuring 'MJB'
 '91 I stepped in this game
 After 'whats the 411' things aint been the same
 and I can't complain but with all this fame comes a whole lot of pain
-but im so glad to be here
+but I'm so glad to be here
 and my music's still sincere
 lets get back to the story
 all of this pain and glory

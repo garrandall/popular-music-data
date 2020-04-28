@@ -29,7 +29,7 @@ That you'll always be mine
 This joy is something new
 My arms enfolding you
 Never knew this thrill before
-Whoever thought i'd be
+Whoever thought I'd be
 Holding you close to me
 Whispering "it's you I adore"
 Dearest one

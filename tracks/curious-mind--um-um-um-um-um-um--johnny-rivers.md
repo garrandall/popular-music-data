@@ -60,7 +60,7 @@ He just moaned and
 He made no sense
 
 He'd just go
-Um, um, um, um, um...
+Um, um, um, um, um
 
 I just couldn't help myself
 Yes, I was born
@@ -72,7 +72,7 @@ When he moaned
 If he'd be so kind
 
 And he'd just go
-Um, um, um, um, um...
+Um, um, um, um, um
 
 Now that I've grown up
 And the woman I love
@@ -84,16 +84,16 @@ Sometimes everyone
 Must sing this song
 
 Listen to me sing
-Um, um, um, um, um...
+Um, um, um, um, um
 
 Can't you hear me, now
-Um, um, um, um, um...
+Um, um, um, um, um
 
 Everybody now
-Um, um, um, um, um...
+Um, um, um, um, um
 
 Can't you hear me, now
-Um, um, um, um, um...
+Um, um, um, um, um
 
 
 

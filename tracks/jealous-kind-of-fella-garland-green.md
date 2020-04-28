@@ -48,7 +48,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
 ---
-Jealous kind of fella...
+Jealous kind of fella
 Hey, hey, hey...
 
 What a day, I think I called my baby today

@@ -43,7 +43,7 @@ I'd still be with ya
 Ha, now ain't that some shhh?
 (ain't that some shhh?)
 And although there's pain in my chest
-I still wish you the best with a...
+I still wish you the best with a
 Forget you!
 Oo, oo, oo
 
@@ -79,7 +79,7 @@ I'd still be with ya
 Now ain't that some shhh?
 (ain't that some shhh?)
 And although there's pain in my chest
-I still wish you the best with a...
+I still wish you the best with a
 Forget you!
 Oo, oo, oo
 
@@ -112,7 +112,7 @@ I'd still be with ya
 Ha, now ain't that some shhh?
 (ain't that some shhh?)
 And although there's pain in my chest
-I still wish you the best with a...
+I still wish you the best with a
 Forget you!
 Oo, oo, oo
 
@@ -140,7 +140,7 @@ I'd still be with ya
 Ha, now ain't that some shhh?
 (ain't that some shhh?)
 And although there's pain in my chest
-I still wish you the best with a...
+I still wish you the best with a
 Forget you!
 Oo, oo, oo
 

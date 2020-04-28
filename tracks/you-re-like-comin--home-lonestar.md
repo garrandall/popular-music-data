@@ -67,7 +67,7 @@ You're like coming home
 You're like coming home, all right
 
 
-Go head an' let your hair fall down
+Go head and let your hair fall down
 This wanderlust: it's gone now
 I'm here in your arms, I'm safe from the road again
 These are the days that can't be erased

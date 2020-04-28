@@ -165,4 +165,10 @@ And he'll see me as a person and not just a black man
 I believe that love will find the way
 I believe I believe I believe I believe that love is the answer
 I believe that love will find the way
-Love will find the way (x7)
+Love will find the way
+Love will find the way
+Love will find the way
+Love will find the way
+Love will find the way
+Love will find the way
+Love will find the way

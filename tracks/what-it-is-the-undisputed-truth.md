@@ -46,7 +46,7 @@ What it is, what it is, sure is funky
 What it is, what it is, somebody tell me
 What it is, what it is, sure is funky
 
-Did I  hear somebody say "Down with the system"?
+Did I hear somebody say "Down with the system"?
 Shut your mouth
 
 Ain't no words to this song

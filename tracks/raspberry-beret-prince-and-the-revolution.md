@@ -92,7 +92,7 @@ Seems that I was busy doing something close to nothing
 But different than the day before
 That's when I saw her, oh, I saw her
 She walked in through the out door, out door
-She wore a...
+She wore a
 
 
 Raspberry beret
@@ -115,7 +115,7 @@ But something about the clouds and her mixed
 She wasn't too bright
 But I could tell when she kissed me
 She knew how to get her kicks
-She wore a...
+She wore a
 
 
 Raspberry beret

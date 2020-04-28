@@ -54,7 +54,7 @@ rankings:
 ---
 
  Sophie, it's time...
-Ahaaa...
+Ahaaa
 
 You don't know why I'm crazy
 I don't know why your blue

@@ -78,14 +78,14 @@ You think that if you and I was in a relationship
 I would never be true (be true)
 You think that anything I say is straight gang (straight gang)
 And to me your just another new name (new name)
-But what im tryna tell you for every man
+But what I'm tryna tell you for every man
 theres a woman that'll make him change (him change)
 And I believe you the one that'll make me (make me)
 But any time I try to show you you shake me (shake me)
 I know I make it real hard for you to take me serious
 But baby girl I am (I am)
 And I aint stoppin right here, I'ma keep going
-And im gonna make sure everyday that you keep knowing
+And I'm gonna make sure everyday that you keep knowing
 Whether if I have to send you flowers
 Or talk to you on the celle-phone for few hours
 Im yellin like..
@@ -116,13 +116,13 @@ Like I know its just sex you want (you want)
 I can't lie the sex is truly incredible (incredible)
 And every part of your body is so edible (edible)
 I get tears from just thinking bout it
-But that aint the reason why im stuck and can't let you go (let you go)
+But that aint the reason why I'm stuck and can't let you go (let you go)
 We got a serious serious bond (bond)
 And when we kick it we have nothin but fun (but fun)
 I feel a whole lot of L-O-V-E between you and me
 Even though we still young (young)
 Just your company aint gota get none
-Talk the same lingo, understand where im coming from (coming from)
+Talk the same lingo, understand where I'm coming from (coming from)
 And if anybody ask me a question about you
 Ima tell em you the one
 You got me like

@@ -140,7 +140,7 @@ So just let me be myself
 That's all I ask of you
 I'm young
 And I love to be young
-And im free
+And I'm free
 And I love to be free
 To live my life the way I want
 To say and do whatever I please

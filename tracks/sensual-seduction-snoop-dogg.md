@@ -90,9 +90,9 @@ rankings:
 ---
 
 I'm gonna take my time mmime!
-She gonna get hers before I...
+She gonna get hers before I
 I'm gonna take it slow...ow...oo...ow,
-I'm not gonna rush to stroll, so she can get a...
+I'm not gonna rush to stroll, so she can get a
 Sensual seduction-duction so she can get a..
 Sensual seduction-duction ohwhoa!
 So she can get a sensual seduction-duction duction
@@ -109,7 +109,7 @@ Sensual seduction-duction ohwhoa! oohhoa!
 Sensual seduction-duction duction
 Sensual seduction-duction ohwhoa!
 I'm gonna take my time mmime!
-She gonna get hers before I...
+She gonna get hers before I
 I'm gonna take it slow...ow...oo...ow,
 I'm not gonna rush to stroll,
 

@@ -44,7 +44,7 @@ Shes the perfect match and god is my witness,
 Now for the first time I've opened my eyes,
 Put the glass in the air, now I toast to the sky,
 Feels like I'm in heaven, & I'm hoping to fly,
-Baby girl come along for the ride, you know why cuhs I...
+Baby girl come along for the ride, you know why cuhs I
 
 Now you done been around the world,
 And you'd seen alot of girls,
@@ -103,7 +103,7 @@ But, you ain't never seen a girl look so fly like,
 And you partied, and have hugs,
 And sum girls sho you love,
 But, you ain't never seen a girl look so fly like me
-Baby, But chu never had a girl look so fly like me. 
+Baby, But chu never had a girl look so fly like me.
 
 
 

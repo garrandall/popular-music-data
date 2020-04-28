@@ -113,7 +113,7 @@ Just for you
 And my arms are open
 Just for you
 Just for you
-And these tears i'm crying are for you
+And these tears I'm crying are for you
 Just for you
 Just for you
 Just for you
@@ -133,7 +133,7 @@ Just for you
 Just for you
 And my arms they're open
 Just for you
-And these tears i'm crying are for you
+And these tears I'm crying are for you
 Just for you
 And my arms they're open
 Just for you
@@ -153,5 +153,5 @@ Just for you
 Just for you
 Oh my heart is breaking
 And my arms are open
-Oh these tears i'm crying are just for you
+Oh these tears I'm crying are just for you
 Oh yeah

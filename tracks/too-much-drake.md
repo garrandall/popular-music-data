@@ -24,7 +24,7 @@ Last time was on the outro
 Stuck in the house, need to get out more
 I've been stackin' up like I'm fundraising
 Most people in my position get complacent
-Wanna come places with star girls, and they end  up on them front pages
+Wanna come places with star girls, and they end up on them front pages
 I'm quiet with it, I just ride with it
 Moment I stop having fun with it, I'll be done with it
 I'm the only one that's putting shots up

@@ -46,7 +46,7 @@ I'm truly asleep or if I'm awake
 When I get up, I don't know if I'm
 Truly awake or if I'm still dreaming
 
-Dream, Dream, Dream, Dream...
+Dream, Dream, Dream, Dream
 Life is but a dream
 Traveling the waves of an infinite ocean
 I feel the deepest emotion

@@ -109,7 +109,7 @@ But what a fool believes he sees
 No wise man has the power to reason away
 What seems to be
 Is always better than nothing
-And nothing at all keeps sending him...
+And nothing at all keeps sending him
 
 Somewhere back in her long ago
 Where he can still believe there's a place in her life

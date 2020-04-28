@@ -175,7 +175,7 @@ Young as an intern, with money like I built the shit
 Streets talking that confirm
 Go ask them who just catch shit
 Stay keeping my cup full so I'm extra charged like a state tax
-Me an' Chainz go way back
+Me and Chainz go way back
 We don't talk shit, we just say facts (Yes Lord)
 
 

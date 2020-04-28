@@ -98,7 +98,7 @@ Love?
 (Find me somebody to love) Find me somebody
 (Find me somebody to love) Somebody, somebody, somebody to love
 (Find me somebody to love) Find me, find me, find me, find me, find me
-(Find me somebody to love) Oh  somebody to love
+(Find me somebody to love) Oh somebody to love
 (Find me somebody to love) Oh find me, find me, find me somebody to love
 (Find me somebody to love) Anybody, anywhere, anybody find me somebody to love, love
 Find me, find me, find me

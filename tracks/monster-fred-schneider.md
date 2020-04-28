@@ -25,7 +25,7 @@ rankings:
   start_date: '1991-07-27'
 ---
 I saw it officer
-It looked prehistoric ...
+It looked prehistoric
 
 There's a monster in my pants
 And it does a nasty dance

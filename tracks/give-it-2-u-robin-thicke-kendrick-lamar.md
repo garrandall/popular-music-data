@@ -88,9 +88,9 @@ You looking like you fell from the sky (angel)
 You know make a grown man cry
 I wanna give it to you tonight
 And make everything you fantasize
-Come true, ohbaby
-I’ll make it so, so, so amazing
-I’ll give it to you
+Come true, oh baby
+I 'll make it so, so, so amazing
+I 'll give it to you
 
 
 Girl, give it to me
@@ -113,7 +113,7 @@ I got a smile for yah
 Cheese
 Let me put it on your face for you
 Please
-I’ve got a taste for you
+I 've got a taste for you
 Tasty
 I bought lace for you
 Freaky
@@ -128,28 +128,28 @@ You looking like you fell from the sky (angel)
 You know make a grown man cry
 I wanna give it to you tonight
 And make everything you fantasize
-Come true, ohbaby
-I’ll make it so, so, so amazing
-I’ll give it to you
+Come true, oh baby
+I 'll make it so, so, so amazing
+I 'll give it to you
 
 
-You’re like a needle in a haystack
+You 're like a needle in a haystack
 I wanna sit you where my face at
 Lunch with a few Mai Tais
 Purple kisses on my tie
-Life can’t really predict love
-Now you’re getting this dick, love
-I’m looking for you with a flashlight
+Life can 't really predict love
+Now you 're getting this dick, love
+I 'm looking for you with a flashlight
 I want to feel what a real fat ass feel like
 No injection, I learned my lesson
 I walk it like I talk it, baby, this pedestrian
-Runnin’ through your mind like Jackie Joyner
+Runnin ' through your mind like Jackie Joyner
 Pussy pop like (boom!) go get me a burner
 Got shot like (boom!)
 This can be detrimental
 T-shirt and panties, that's your credential
-You’re cotton candy, I need a fistful
-I’m awful antsy, hope that convince you
+You 're cotton candy, I need a fistful
+I 'm awful antsy, hope that convince you
 
 
 Hey, girl
@@ -158,11 +158,11 @@ You lookin' like you fell from the sky (Angel)
 You know you make a grown man cry
 I wanna give it to you, tonight
 And make everything you fantasize
-Come true, ohbaby
+Come true, oh baby
 I'll make it so, so, so amazing
 I'll give it to you, tonight
 And make everything you fantasize
-Come true, ohbaby
+Come true, oh baby
 I'll make it so, so, so amazing
 I'll give it to you
 I'll give it to you

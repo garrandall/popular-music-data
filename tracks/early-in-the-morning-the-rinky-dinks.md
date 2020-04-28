@@ -52,16 +52,16 @@ One of these days ... oh, yeah...
 
 Well ... you're gonna want me
 Early in the mornin'
-When I'm away ... don't ya know ...
+When I'm away ... don't ya know
 
 Yes ... you'll be sorry
 For the times I cried
 You'll be sorry
-For the time you lied ...
+For the time you lied
 
 Well ... you're gonna miss me
 Early in the mornin'
-One of these days ... whoa, yeah ...
+One of these days ... whoa, yeah
 
 Well ... ya know a rollin' stone
 Don't gather no moss
@@ -75,11 +75,11 @@ But you're gonna cry
 
 Yeah ... early in the mornin'
 You're gonna know
-That I was right ... oh, yeah ... yeah ...
+That I was right ... oh, yeah ... yeah
 
 Well ... early in the mornin'
 When there's nobody
-To hold you tight ... oh, oh ...
+To hold you tight ... oh, oh
 
 Well ... you're gonna want me
 Want me bad
@@ -89,9 +89,9 @@ Yes... you're gonna miss me
 You're gonna want me
 One of these days
 
-Whoa, don't ya know ... yeah ...
+Whoa, don't ya know ... yeah
 
-Oh, yeah ...
+Oh, yeah
 
 Well ... you're gonna want me
 Want me bad

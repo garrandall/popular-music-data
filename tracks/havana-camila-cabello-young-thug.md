@@ -258,7 +258,7 @@ Ohna-na, oh na-na-na
 Take me back, back, back
 Yeah, ay...
 Oh..
-Take me back to my Havana...
+Take me back to my Havana
 
 Havana, ohna-na
 Half of my heart is in Havana, ohna-na (oh, yeah)
@@ -268,7 +268,7 @@ My heart is in Havana (ay)
 Havana, ohna-na
 
 Uh huh
-Oh na-na-na...
+Oh na-na-na
 No, no, no, take me back
 Oh na-na-na
 Havana, ohna-na

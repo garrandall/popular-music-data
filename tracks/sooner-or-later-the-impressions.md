@@ -90,7 +90,7 @@ Just like the Grateful Dead
 Didn't mean to do nobody wrong
 But I love you too much
 It's so damn strong
-Ohbaby, it's plain to see
+Oh baby, it's plain to see
 From now on it's you and me
 
 Sooner or later

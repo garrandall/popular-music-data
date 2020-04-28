@@ -143,7 +143,7 @@ Do it, do it, do it again
 Do it again (Woo, hoo, hoo), do it again
 Do it again, do it again, do it again (Woo, hoo, hoo)
 
-Mmm...
+Mmm
 (Woo, hoo, hoo)
 Oh, hey
 (Woo, hoo, hoo)

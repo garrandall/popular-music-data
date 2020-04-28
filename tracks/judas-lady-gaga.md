@@ -110,7 +110,7 @@ Whoa-whoa-whoa-whoa-whoa
 I’m in love with Juda-as, Juda-as
 
 
-Ew...
+Ew
 In the most Biblical sense, I am beyond repentance
 Fame hooker, prostitute, wench vomits her mind
 But in the cultural sense, I just speak in future tense

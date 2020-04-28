@@ -144,7 +144,7 @@ A freak in the evening just like me
 I need a roughneck brother
 That can satisfy me just for me
 If you are that kind of man
-'cuz i'm that kind of girl
+'cuz I'm that kind of girl
 I got a freaky secret,everybody sing
 'cause we don't give a damn about a thing
 
@@ -174,7 +174,7 @@ A freak in the evening just like me
 I need a roughneck brother
 That can satisfy me just for me
 If you are that kind of man
-'cuz i'm that kind of girl
+'cuz I'm that kind of girl
 I got a freaky secret,everybody sing
 'cause we don't give a damn about a thing
 
@@ -197,7 +197,7 @@ A freak in the evening just like me
 I need a roughneck brother
 That can satisfy me just for me
 If you are that kind of man
-'cuz i'm that kind of girl
+'cuz I'm that kind of girl
 I got a freaky secret,everybody sing
 'cause we don't give a damn about a thing
 

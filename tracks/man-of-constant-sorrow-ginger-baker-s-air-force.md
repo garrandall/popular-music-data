@@ -47,7 +47,7 @@ While I am sleeping in my grave
 
 (While he is sleeping in his grave)
 
-Maybe your friends think im just a stranger
+Maybe your friends think I'm just a stranger
 My face you'll never see no more
 But there is one promise that is given
 I'll meet you on God's golden shore

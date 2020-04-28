@@ -27,7 +27,7 @@ Oh, darlin', how I'd love to lay you down
 There's so many ways your sweet love's made this house into a home
 You've got a way of doing little things that really turn me on
 Like standing in the kitchen In your faded cotton gown
-Oh, darling how i'd love to lay you down
+Oh, darling how I'd love to lay you down
 Lay you down and softly whisper
 Pretty love words in your ear
 Lay you down and tell you all the things a woman loves to hear

@@ -87,7 +87,7 @@ No, but this ax, she's got to fall
 Even it
 Come on and even it, even it up, baby
 Oh
-Oh, oh, yeah, yeah, yeah.  Come on now!
+Oh, oh, yeah, yeah, yeah. Come on now!
 
 (Guitar solo)
 
@@ -95,7 +95,7 @@ Even it up, even it up, even it up
 Even it up, even it up, even it up
 Yeah, even it
 Even it, even it, come on
-Even it up, even it up, even it up, yeah.  Whoo!
+Even it up, even it up, even it up, yeah. Whoo!
 Even it up, even it up, even it up
 Oh, got your hand!
 

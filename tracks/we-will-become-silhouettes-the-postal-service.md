@@ -23,7 +23,7 @@ The echoes belong to someone
 Someone I used to know
 
 And we become silhouettes when our bodies finally go
-Ba ba ba...
+Ba ba ba
 
 I wanted to walk through the empty streets
 And feel something constant under my feet,
@@ -36,13 +36,13 @@ And that's when we'll explode
 (and it won't be a pretty sight)
 
 And we'll become silhouettes when our bodies finally go
-Ba ba ba...
+Ba ba ba
 And we'll become silhouettes when our bodies finally go
-Ba ba ba...
+Ba ba ba
 And we'll become silhouettes when our bodies finally go
-Ba ba ba...
+Ba ba ba
 And we'll become silhouettes when our bodies finally go
-Ba ba ba...
+Ba ba ba
 
 And we'll become
 And we'll become

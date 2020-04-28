@@ -49,7 +49,7 @@ When she wants her fortune told
 
 But when she wants good loving
 My baby comes to me
-Ba ba ba ba...
+Ba ba ba ba
 Yeah, when she wants good loving
 My baby comes to me
 She comes to me
@@ -66,7 +66,7 @@ When she's done got the blues
 
 
 
-Ba ba ba ba...
+Ba ba ba ba
 
 When she wants good loving
 My baby comes to me

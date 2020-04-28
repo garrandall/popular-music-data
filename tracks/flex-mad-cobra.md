@@ -116,13 +116,13 @@ Only to touch her me nuh want nothing more
 Girl, flex time to have sex
 Look how long yuh have di rude bwoy a sweat
 Girl, flex time to have sex
-Look how long yuh have di rude bwoy a...
+Look how long yuh have di rude bwoy a
 
 Before she reach
 I could smell her perfume
 I could not wait to get her inna di room
 Before she reach I could smell her perfume
-I could not wait to get her inna...
+I could not wait to get her inna
 Feel like a surgeon
 Prepare di surgery
 But I hope di likkle girl no charge me fi perjury
@@ -132,7 +132,7 @@ Worky, worky girl, according to plan
 Girl flex, time to have sex
 Look how long yuh have di rude bwoy a sweat
 Girl flex, time to have sex
-Look how long yuh have di rude bwoy a...
+Look how long yuh have di rude bwoy a
 
 Now me ready
 Gal tickle up mi fancy
@@ -161,7 +161,7 @@ Surgeon knife a slice it like a flechette
 Girl flex, time to have sex
 Look how long yuh have di rude bwoy a sweat
 Girl flex, time to have sex
-Look how long yuh have di rude bwoy a...
+Look how long yuh have di rude bwoy a
 
 I rather wait
 Out-a patience
@@ -177,4 +177,4 @@ Jus to touch her me nuh want nothing more
 Girl flex, time to have sex
 Look how long yuh have di rude bwoy a sweat
 Girl flex, time to have sex
-Look how long yuh have di rude bwoy a...
+Look how long yuh have di rude bwoy a

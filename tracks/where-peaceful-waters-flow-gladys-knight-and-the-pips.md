@@ -90,5 +90,5 @@ And Ill show you skies (Ill show you skies ) where gentle breezes blow
 
 And Ill take you where peaceful waters flow (Peaceful waters flow)
 Hey, hey, if you trust me, Ill take you there where peaceful waters flow
-(Come and walk with me) Mmm...hm...
+(Come and walk with me) Mmm...hm
 (We can go where peaceful waters flow)

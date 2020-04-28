@@ -107,7 +107,7 @@ The bank man, the boss man, the lawman,
 All tryin' to get their hands on me.
 And I ain't even done a danged thing wrong.
 I've been waylaid, freight-trained, short-changed,
-By bigger an' badder men.
+By bigger and badder men.
 An' all I got to say is: "Bring it on."
 Hard rain, rough road,
 So my life goes.
@@ -121,7 +121,7 @@ I need you,
 Gotta have you,
 In my life, on my side,
 Every day I'm alive,
-Every night when I'm greedy an' needing,
+Every night when I'm greedy and needing,
 You!
 
 Instrumental break.

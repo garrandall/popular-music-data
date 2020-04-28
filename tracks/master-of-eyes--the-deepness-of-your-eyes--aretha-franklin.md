@@ -87,7 +87,7 @@ I feel your lovin' all the time, hey!
 (The deepness of your eyes...)
 I can't stop lovin' you baby... oh, baby...
 (The deepness of your eyes...)
-Feel your lovin' all the time... la-la-la...
+Feel your lovin' all the time... la-la-la
 (The deepness of your eyes...)
 I can't stop lovin' you baby... oh, baby!
 (The deepness of your eyes...)

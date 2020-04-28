@@ -151,7 +151,7 @@ but don't step on no toes cuz you might get smushed
 it's the brother from around the way
 and what I say I been comin' on three like Dr. Dre
 
-Comin' at 'em with pattern an' a fresh pair of atoms
+Comin' at 'em with pattern and a fresh pair of atoms
 I hope you don't trip cuz I don't want to have to gat 'em
 so move your body baby, drive the homeys crazy,
 the way you shake that ass, always amaze me

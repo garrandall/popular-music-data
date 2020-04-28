@@ -71,8 +71,8 @@ Girl I want this for the rest of my life
 I'm all yours
 
 
-But I'd do it for you, i'd rap for you girl
-I'd laugh for you go, i'd cry for you
+But I'd do it for you, I'd rap for you girl
+I'd laugh for you go, I'd cry for you
 Die for you girl, the truth is it's all for you girl
 
 We gon' fly yeah

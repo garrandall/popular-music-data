@@ -94,7 +94,6 @@ You know what I'm sayin, cuz it's that time
 For you to kicks the funk online as we rewind
 And then it will combine
 
-
 Smokin' on the bud, feelin' kinda high
 Sippin' on the gin, feelin' kinda fly
 A Warren G production sits in the tape deck
@@ -103,7 +102,6 @@ Just, listen and recline for a spell
 Pass the fat spliff back and forth (oh yeah)
 Stuck, unable to breathe through the Chronic
 Cloud that somehow prevents me from installin' fresh air
-
 
 Ah, Indosmoke
 Pass me the joint so I can take a toke
@@ -117,11 +115,9 @@ The LB to the C two times, don't miss
 Cuz if you do, you break you get broke
 Me and Mista G and the Indo Smoke
 
-
 (Are you high yet?)
 Whatever you do muthafucka you betta not choke
 This ain't no stress, it's the muthafuckin' indo smoke
-
 
 Fee, fi, foe, really doe
 I'm still smokin' and sippin', talkin' like a pimp
@@ -138,9 +134,6 @@ You can't swim with Grimm
 Because my tidal wave's - high
 And that's no joke
 Because Mista Grimm takes flight from the Indo Smoke
-
-
-
 
 Ignition to remission, blast off through the cos
 Most of the voyage I enjoy is just a cause
@@ -160,8 +153,6 @@ If ya hear me on some vinyl
 I break 'em till they can't be broke
 As I soak, in the Indo Smoke
 
-
-
 Take a trip with Nate Dogg to the Eastside
 We will show you where the gangstas love to get high
 We get high on every street in Long Beach
@@ -173,16 +164,15 @@ I gotta nigga named Gangsta Rod, you know B-Tip, you know me
 My name is Nate D-O double G and I'm comin' straight from the East
 Don't think you don't know where I'm from, I'm from 213
 
-
 Yeah, you know what I'm sayin'
 19 ninety muthafuckin' 3 (hey)
 I got my muthafuckin niggas in the house
-I got my nigga Mista Grimm in the house (uh, ah)
-I got my nigga B-Tip in the house (uh, ah)
-I got my nigga Nate Dogg in the house (uh, ah)
-I got my nigga Ricky Rod in the house (uh, ah)
-I got the nigga Butch in the house (uh, ah)
-I got my nigga Greg in the house (uh, ah)
+I got my nigga Mista Grimm in the house
+I got my nigga B-Tip in the house
+I got my nigga Nate Dogg in the house
+I got my nigga Ricky Rod in the house
+I got the nigga Butch in the house
+I got my nigga Greg in the house
 He's engineering this, check it out
 You know what I'm sayin'
 Long Beach in the house
@@ -190,10 +180,10 @@ We hooked up with some people from West Covina
 My nigga Mista Grimm, but you know
 Ain't nothing but a G Thang, uh
 G Thang, but you don't hear me though, hahaha yeah
-Are you high yet? (laugh) (x2)
+Are you high yet?
 
 Are ya high big baby?
-Are ya high? (laugh) (x2)
+Are ya high?
 
 Nigga I asked you is you high (I'm fucked up)
 I ain't be gotten no women, nigga is you high, shit (I'm fucked up)

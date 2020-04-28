@@ -74,7 +74,7 @@ Once the lights go out
 You'll hear a scream and shout
 The next day somebody else is misled
 
-Who do you  love? (You have to ask yourself)
+Who do you love? (You have to ask yourself)
 Is it someone you can count on?
 Someone who's there for you
 Someone who will be true
@@ -116,7 +116,7 @@ Until you learn the game's another definition for play?
 So, won't ya ease-a your mind and block out all distraction
 Take your time
 Take your time
-Slow down  your action
+Slow down your action
 Ya see, 'cause that's your disaster
 
 Take your time

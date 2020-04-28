@@ -143,7 +143,7 @@ If you feel it (Ooo, Lord)
 Everything and everybody
 Let's just have a parting, me and you (Me and you, downhill for two, we go together)
 Forget everything and everybody, let's just have a parting, me and you
-(Let's just have a aprting, let's just have  a parting)
+(Let's just have a aprting, let's just have a parting)
 Forget everything and everybody, boy, let's just have a parting, me and you
 (Let's have a parting now, now)
 

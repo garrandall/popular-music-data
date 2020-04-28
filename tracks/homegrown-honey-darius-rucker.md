@@ -91,28 +91,28 @@ rankings:
 Sitting at a bar in New York City
 Everybody here looking New York pretty
 But you’re the kinda girl that’s got that something
-Dancing to the groove like it just ain’t nothing
-They ain’t never seen nothing quite like you
+Dancing to the groove like it just ain 't nothing
+They ain 't never seen nothing quite like you
 Long stem legs in your cowboy boots
 Throwing back whiskey straight, no water
-Girl there ain’t nothing hotter
+Girl there ain 't nothing hotter
 
 
 Oh I dig the way that you move
 You shake it down to your roots
 Did your momma teach you how to do that thing you do
 Yeah, nothing sweeter than wild
-I’ll take a sip of that smile
-I’ll bet the boys at home can’t leave you alone
+I 'll take a sip of that smile
+I 'll bet the boys at home can 't leave you alone
 You little homegrown honey, honey, honey
-You’re so money, money, money
+You 're so money, money, money
 You got a country road Carolina soul
-Baby you’re just so homegrown
+Baby you 're just so homegrown
 
 
 Trying to think of something cool to say
 Turned around and saw you walking my way
-Pulled me on the floor saying “Son it’s on”
+Pulled me on the floor saying “Son it 's on”
 And we were dancing all night long
 To a sweet old Alabama song
 
@@ -121,17 +121,17 @@ Oh I dig the way that you move
 You shake it down to your roots
 Did your momma teach you how to do that thing you do
 Yeah, nothing sweeter than wild
-I’ll take a sip of that smile
-I’ll bet the boys at home can’t leave you alone
+I 'll take a sip of that smile
+I 'll bet the boys at home can 't leave you alone
 You little homegrown honey, honey, honey
-You’re so money, money, money
+You 're so money, money, money
 You got a country road Carolina soul
-Baby you’re just so homegrown
+Baby you 're just so homegrown
 
 
-Ohbaby, baby, baby
-You’re driving me crazy, crazy, crazy
-I’m a long way away from where I’m from
+Oh baby, baby, baby
+You 're driving me crazy, crazy, crazy
+I 'm a long way away from where I 'm from
 But baby you feel like home
 
 
@@ -139,12 +139,12 @@ Oh I dig the way that you move
 You shake it down to your roots
 Did your momma teach you how to do that thing you do
 Yeah, nothing sweeter than wild
-I’ll take a sip of that smile
-I’ll bet the boys at home can’t leave you alone
+I 'll take a sip of that smile
+I 'll bet the boys at home can 't leave you alone
 You little homegrown honey, honey, honey
-You’re so money, money, money
+You 're so money, money, money
 You got a country road Carolina soul
-Baby you’re just so homegrown
-You’re so money, money, money
+Baby you 're just so homegrown
+You 're so money, money, money
 You got a country road Carolina soul
-Baby you’re just so homegrown
+Baby you 're just so homegrown

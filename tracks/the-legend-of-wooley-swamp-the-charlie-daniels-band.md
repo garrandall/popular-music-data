@@ -118,7 +118,7 @@ And just before they went under
 They could hear that old man laughing
 In a voice as loud as thunder
 
-Now that's been fifty years ago an' if you go by there yet
+Now that's been fifty years ago and if you go by there yet
 There's a spot in the yard in the back of that shack
 Where the ground is always wet
 And on certain nights if the moon is right

@@ -108,7 +108,7 @@ then it all came unglued
 
 In a trap, trip I can't grip
 never thought I'd be the one who'd slip
-then  I started to realize
+then I started to realize
 I was living one big lie
 
 She fucking hates me

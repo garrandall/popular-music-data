@@ -158,7 +158,7 @@ But there's someone who's torn it apart
 And he's taken just all that I had
 But if you want I'll try to love again
 
-Baby, I'll try to love again, but I know...
+Baby, I'll try to love again, but I know
 
 The first cut is the deepest
 Baby I know
@@ -171,7 +171,7 @@ Just to help me dry the tears that I've cried
 And I'm sure gonna give you a try
 If you want I'll try to love again, try
 
-Baby, I'll try to love again, but I know...
+Baby, I'll try to love again, but I know
 
 The first cut is the deepest
 Baby I know

@@ -182,7 +182,7 @@ Droppin' bass like a bad habit
 Love all women, cause I gotta have it
 Comin' at y'all in stereo
 I'm ridin' that thing like a rodeo
-Hang on, baby, cause the ride is rough, and ...
+Hang on, baby, cause the ride is rough, and
 
 I got my girls in the front
 Now a lady just bumpin' that rump
@@ -202,7 +202,7 @@ You put yours, and I put mine, and we can dip down low and roll and grind
 Well alright, y'all! If you ain't dippin', you must
 Be trippin'! If you ain't doin it Down Low, you gots
 To go! To the people thats movin' slow to the
-Dance floor! Yo DJ! Pump it up some MO-O-O-O ...
+Dance floor! Yo DJ! Pump it up some MO-O-O-O
 
 
 It's off to the show in a limo

@@ -82,4 +82,4 @@ Yes I am
 Baby, I'm movin' (baby, I'm movin')
 Baby, I'm movin' (baby, I'm movin')
 Baby, I'm movin', movin', oh, baby I am movin' on
-Baby I am...
+Baby I am

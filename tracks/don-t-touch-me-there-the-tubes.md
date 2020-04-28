@@ -55,7 +55,7 @@ I love how it feels
 With your jeans against mine
 
 
-B:  The smell of burning leather (burning leather)
+B: The smell of burning leather (burning leather)
 B: As we hold each other tight (hold tight!)
 B: As our rivets rub together (rub together)
 B: Flashing sparks into the night (into the night)
@@ -87,7 +87,7 @@ F: When I reach for your waist
 Re: Uh-huh...
 
 
-B:  The smell of burning leather (burning leather)
+B: The smell of burning leather (burning leather)
 B: As we hold each other tight (hold tight!)
 B: As our rivets rub together (rub together)
 B: Flashing sparks into the night (into the night)

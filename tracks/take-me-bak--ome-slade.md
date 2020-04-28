@@ -20,7 +20,7 @@ rankings:
 Came up to you one night noticed the look in your eye,
 I saw you was on your own, and it was alright, yeh it was alright.
 They said I could call you Sidney, oh I couldn't make out why,
-standing here on your own an' it was alright, yeh it was alright.
+standing here on your own and it was alright, yeh it was alright.
 
 
 So won't you take me back home, a take me back home,

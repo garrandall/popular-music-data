@@ -152,7 +152,7 @@ I wanna dance, and love, and dance again
 ('cause baby, nothing should matter tonight)
 
 Mr Worldwide, and the world's most beautiful woman
-Modern day Hugh Hef  (uh, yes)
+Modern day Hugh Hef (uh, yes)
 Playboy to the death (uh, yes)
 Is he really worldwide? (uh, yes)
 Mami let me open your treasure chest

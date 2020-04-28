@@ -87,7 +87,7 @@ rankings:
 ---
 Yo, baby, you know what's up
 Girl, you can call me up
-And you an' I can talk for hours and hours at a time
+And you and I can talk for hours and hours at a time
 This as an invitation
 To a conversation
 So when things get bad you know I'll be there to soothe your mind

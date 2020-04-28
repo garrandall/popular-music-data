@@ -37,7 +37,7 @@ there was a story I'm sure you will know
 I'm sure you remember, I'm sure you believe
 the story of Adam and Eve
 
-In the garden of Eden, a long time ago, such a story ...
+In the garden of Eden, a long time ago, such a story
 
 
 

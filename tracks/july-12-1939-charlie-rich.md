@@ -59,11 +59,11 @@ Will come out the winner every time
 That Willie Buchanan done got away with something
 They're trying to blame on the boy of mine
 
-Hm mmm mmm...
+Hm mmm mmm
 
 July the 12th, 1939
 
-Hm mmm mmm...
+Hm mmm mmm
 
 
 

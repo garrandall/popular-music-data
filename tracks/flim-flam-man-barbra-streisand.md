@@ -30,7 +30,7 @@ rankings:
 ---
 
 Hands off the man
-Flim  flam  man
+Flim flam man
 His mind is up his sleeve
 And his talk is make believe
 Oh Lord, the man's a fraud
@@ -38,11 +38,11 @@ He's the flim flam man
 He's so cagey
 He's a flim flam man
 Hands off the man
-Flim  flam man
-He's the One In  the Trojan Horse Making
+Flim flam man
+He's the One In the Trojan Horse Making
 Making out like he's Santa Claus
 Oh Lord, the man's a fraud
-He's a flim flam  man
+He's a flim flam man
 He's a fox
 He's a flim flam man
 Everybody wants him
@@ -54,8 +54,8 @@ He pays his monthly rent...
 With the daily charm
 Hands off the man
 Flim flam man
-His mind is  up his sleeve
-And  his talk is make believe
+His mind is up his sleeve
+And his talk is make believe
 Oh, Lord, the man's a fraud
 He's a flim flam man
 He's an artist
@@ -64,7 +64,7 @@ He's so cagey
 He's a flim flam men
 He's a fox
 She's a fool
-Flim  flam  man.
+Flim flam man.
 Oh, don't worry
 He's dishonest, so don't believe in him
 He's a flim flam man...

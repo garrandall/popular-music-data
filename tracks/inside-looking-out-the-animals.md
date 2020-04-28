@@ -81,4 +81,4 @@ I need you here by my side
 But I can't help it baby
 But, I'll be home soon
 I'll be home soon, yeah
-All right, whoa...
+All right, whoa

@@ -19,7 +19,7 @@ rankings:
 
 
 If you can hear me
-And know that im right here
+And know that I'm right here
 I heard your heartbeat
 It took away the fear
 Cuz my life is sliding
@@ -76,7 +76,7 @@ I've thrown my self right in and,
 whats the point if you don't live in
 
 If you can hear me
-And know that im right here
+And know that I'm right here
 I heard your heartbeat
 It took away the fear
 

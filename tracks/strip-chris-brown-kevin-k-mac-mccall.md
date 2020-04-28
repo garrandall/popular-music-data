@@ -128,7 +128,7 @@ You got it hot mama, you're hotter than sauna
 I wanna peel them clothes off your body like a banana
 The only reason why I dress you in that designer, is to get you out that Dolce and Gabbana
 I throw this money up, she watch it all fall
-Toot that thang up, ...
+Toot that thang up,
 Anything you want baby, you can have it all
 Starting with my last name, now they call you Mrs. McCall
 

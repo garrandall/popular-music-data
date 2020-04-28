@@ -171,7 +171,7 @@ I wanna know, my lovely, I wanna know
 Where do you go, oh oh eh oh
 I wanna know, oh oh eh oh
 Where do you go, oh oh eh oh...
-I wanna know...
+I wanna know
 
 You leave without a word, no message, no number
 And now my head is pounding like rolling thunder
@@ -190,7 +190,7 @@ I wanna know, my lovely, I wanna know
 Where do you go, oh oh eh oh
 I wanna know, oh oh eh oh
 Where do you go, oh oh eh oh...
-I wanna know...
+I wanna know
 
 You gotta break the silence, don't keep me waiting
 Just like a river flowing to the sea
@@ -222,7 +222,7 @@ Where do you go
 I wanna know, my lovely, I wanna know
 Where do you go, my lovely
 Where do you go...
-I wanna know...
+I wanna know
 
 Na na na na nida, na na nida da da dee da
 Na na na na nida, na na nida da da dee da

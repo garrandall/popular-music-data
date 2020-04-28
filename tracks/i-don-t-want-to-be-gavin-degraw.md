@@ -187,5 +187,5 @@ I don't want to be anything
 Anything other than me
 (Hey, yeah, yeah, yeah) I don't want to be (Hey, yeah, yeah, yeah)
 (Hey, yeah, yeah, yeah) I don't want to be (Hey, yeah, yeah, yeah)
-(Hey, yeah, yeah, yeah)  I don't want to be (Hey, yeah, yeah, yeah)
-(Hey, yeah, yeah, yeah)  I don't want to be (Hey, yeah, yeah, yeah)
+(Hey, yeah, yeah, yeah) I don't want to be (Hey, yeah, yeah, yeah)
+(Hey, yeah, yeah, yeah) I don't want to be (Hey, yeah, yeah, yeah)

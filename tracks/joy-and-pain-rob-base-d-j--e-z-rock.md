@@ -81,7 +81,7 @@ Cause this is how the Rob Base feels
 I keep smokin', hot like fire
 You had the turn, now retire
 Don't talk back, I'm not a new jack
-Cause I'm fresher than you, an' you're whacked
+Cause I'm fresher than you, and you're whacked
 I keep tryin', I'm not lyin'
 Up to number 1 is where I'm flyin'
 I won't slow down cause I'm the new kid
@@ -103,7 +103,7 @@ So don't look and try to judge me
 Because you think that I'm another MC, well
 I'm the new kind, I just moved around
 But that don't mean I can't rip up the town
-Me an' my boys, we make noise
+Me and my boys, we make noise
 I hate MCs that think they're with toys
 I'm hittin' harder than any other MC
 Who try to come up and go against me

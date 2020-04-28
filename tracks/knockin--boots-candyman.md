@@ -100,13 +100,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-02-02'
 ---
-(Tone Loc)
 Attention all ladies
 The Candyman is on the prowl
 And for those that wanna get busy
 You gots to speak up now
 
-(Candyman)
 This rhyme, this time
 Is one of a kind, blowing yo mind
 Like only the Candyman can
@@ -127,12 +125,10 @@ We can't do that yet, but I bet will chill
 (Candyman telling'em the truth)
 Will still end up knockin the boots
 
-(Chorus)
 Oh boy I love you so
 Never ever ever gonna let you go
 Once I get my hands on you
 
-(Candyman)
 At each and every show, thers's this groupie
 Artis knows what she wants to do to me
 She knows my name, knows every rap routine
@@ -152,7 +148,6 @@ We knock boots till 6 o'clock, as we lay
 All night long
 And early in the morning she sang this song
 
-(Chorus)
 Oh boy I love you so
 Never ever ever gonna let you go
 Once I get my hands on you
@@ -161,7 +156,6 @@ Never ever ever gonna let you go
 I hope you feel the same way too
 (Girl I do)
 
-(Candyman)
 Tunnel of love is what I'm entering
 When I mention it, you're surrending
 Giving it up like a good girl has to
@@ -179,7 +173,6 @@ Understand I'm the Candyman
 And I melt in your mouth, not in your hands
 Hard as rock, yes I'm no sucka
 The boots I knock make me one bad mutha
-(Unh Unh...giggling) *2
 
 Knockin, while I'm a hip-hoppin
 Many people say my lyrics are shocking
@@ -198,4 +191,3 @@ MC Chip, Big Rob and Bud
 Rockin on the waterbed, knockin on the rugs
 I'm just playing, what I'm saying ain't ill
 Girl you should know I'm real
-(Unh Unh...giggling) *2

@@ -104,7 +104,7 @@ Now's the time that we need to share
 So send a smile, we're on our way back home
 ohyea yea
 We gotta feel it
-Yea yea yea yea...
+Yea yea yea yea
 Ooo
 Don't you need to feel at home
 Ooo you gotta feel it

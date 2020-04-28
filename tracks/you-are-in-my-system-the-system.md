@@ -98,7 +98,7 @@ You are in my system
 I just want you to know that
 Oh
 You're in my system
-Got me burnin' i'm on fire baby
+Got me burnin' I'm on fire baby
 You are in my system
 Oh
 You are in my system, system

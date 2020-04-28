@@ -66,7 +66,7 @@ Let's go, uh huh..
 
 K-i-s-s- me...
 Uh and I just wanna make...
-Love, love, love ...
+Love, love, love
 Ya, I love it when u say...
 K-i-s-s me...
 Uh and I just wanna make...
@@ -89,8 +89,8 @@ And if I aint got it already than imma go find it ..
 I guess imma lucky don, and shes a lucky queen
 Cuz her jewerly box look likes lucky charms
 All color stones
-And she no that im in the hood
-But she also nows that im coming home
+And she no that I'm in the hood
+But she also nows that I'm coming home
 Mr. raspy thought I was in love with money
 Till the first time we did the nasty
 
@@ -107,7 +107,7 @@ Gave you your income tax checks so I can get on with
 Those were the days these are the times
 You held me down with nearly damn near everything even my rhymes
 I will play a song for you
-And you will let me know exactly  how the ladies will respond from a womens point of view
+And you will let me know exactly how the ladies will respond from a womens point of view
 And thats why my girl is with me
 I love it when she layin in the bed with a pearl long vickie
 The next best thing to a soldier
@@ -115,7 +115,7 @@ Go hard with a fat ass and a head full of rollers
 Just look in her eyes and tell she's real
 Just imagine the way she smell and the way she feel
 The sex was crazy then and crazy still
-And you know im from the streets so its crazy ill
+And you know I'm from the streets so its crazy ill
 And we waiten on the new island
 We been to all them 4, 5 times come on mommy u whilin
 
@@ -128,11 +128,11 @@ And I just wanna make
 Love, love, love
 
 When things was ruff only person I could call was u
-Now everything I do I do it all  4 u
+Now everything I do I do it all 4 u
 
 Come touch me, come kiss me, come love me neway u wanna boy
 
-N im hood as long as im close to u
+N I'm hood as long as I'm close to u
 N we doing wut grown folks is suppose to do
 
 Come hold me, come feel me, come take me anyway u wanna baby
@@ -144,7 +144,7 @@ Thus far I appreciate what we build
 All the minks that I bought u
 That dragged the floor and all the night u sat up
 And bagged the raw
-Damn im thinking that u gotta hate it but yet and still u tolerate
+Damn I'm thinking that u gotta hate it but yet and still u tolerate
 It thats y ma we gotta make it
 
 K-i-s-s- me

@@ -103,7 +103,7 @@ rankings:
 ---
 
 
-whoahhaoohhH!  Yeah
+whoahhaoohhH! Yeah
 Don't wanna be a player (T.S.)
 
 
@@ -152,7 +152,7 @@ Every pretty round brown (hoe) wanna go down low
 But this Boogie Down pro-fessional, I'm gonna let you know
 Once I put the blows, get your clothes, cause you got to go
 I could go downstairs, little brown hairs everywhere
-"You nasty Twin!"  I don't care
+"You nasty Twin!" I don't care
 Round here they call me Big Pun, if you with the big guns
 Thick tongue, known to make a chick (come)
 

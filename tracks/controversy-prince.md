@@ -94,7 +94,7 @@ Controversy (Oh Yeah...)
 Controversy
 
 
-Do I believe in god? Do I believe in me? Let me tell ya...
+Do I believe in god? Do I believe in me? Let me tell ya
 Some people wanna die so they can be free
 (I said) life is just a game, were all just the same...(don't ya wanna play?)
 Controversy controversy controversy controversy

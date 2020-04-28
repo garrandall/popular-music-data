@@ -69,7 +69,7 @@ Say I look familiar
 Though I know you don't even know my name
 Tell me a lie
 Say you just got into town
-Even though i've seen you before just hanging around
+Even though I've seen you before just hanging around
 Tell me a lie
 Say you're not a married man
 But you don't know I saw you slip of a wedding ring
@@ -92,7 +92,7 @@ Please tell me a lie
 When you're lying close beside me
 And wispering you hold me sweet words like I love you
 Won't you tell me a lie
-When i'm net and almost over
+When I'm net and almost over
 Make it easy on us both when it's time for you to go
 Come on tell me a lie
 Say you'd really like to stay

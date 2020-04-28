@@ -80,7 +80,7 @@ Sweet Caroline
 Good times never seemed so good
 I've been inclined
 To believe they never would
-But now I...
+But now I
 
 ...look at the night
 And it don't seem so lonely

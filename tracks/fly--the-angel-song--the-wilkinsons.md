@@ -76,25 +76,25 @@ He wouldn't say he's anything special
 Betcha that's how all those angels are
 But when he comes around miracles happen
 I felt the first one when he touched my heart
-Though i've never seen him fly
+Though I've never seen him fly
 On the wings of love he carries me
-Heaven bound i'm mystified
+Heaven bound I'm mystified
 How with just one kiss he made me
 Believe in angels
-Though i've never seen him fly
+Though I've never seen him fly
 This mornin' he walked up
 Smiled and I kissed him
 I never let on that he's not foolin' me
 But I think it's so cute how he says
 He's from houston
 I swear there's wings tucked up his sleeves
-Though i've never seen him fly
+Though I've never seen him fly
 On the wings of love he carries me
-Heaven bound i'm mystified
+Heaven bound I'm mystified
 How with just one kiss he made me
 Believe in angels
-Though i've never seen him fly
-Heaven bound i'm mystified
+Though I've never seen him fly
+Heaven bound I'm mystified
 How with just one kiss he made me
 Believe in angels
-Though i've never seen him fly
+Though I've never seen him fly

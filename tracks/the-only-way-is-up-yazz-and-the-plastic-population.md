@@ -34,8 +34,6 @@ Huh, from our homes
 We'll just move somewhere else
 And still carry on
 
-Oh
-
 (hold on) hold on
 (hold on) hold on
 Oh, ah, baby
@@ -43,20 +41,16 @@ Oh, ah, baby
 (hold on) hold on
 (hold on) oh oh
 
-(Chorus)
 The only way is up, baby
 For you and me now
 The only way is up, baby
 For you and me now
-
-Ah...
 
 Now we may not know, huh
 Where our next meal is coming from
 But with you by my side
 I'll face what is to come
 
-Ah
 Boy I want to thank you
 Yeah, for loving me this way
 Things may be a little hard now
@@ -76,8 +70,6 @@ For you and me now
 The only way is up, baby
 For you and me now
 Oooo oh oh
-
-(spoken)
 
 Talk about the only way is up, baby
 Talk about the only way
@@ -102,4 +94,4 @@ For you and me now
 The only way is up, baby
 For you and me now
 The only way is up, baby
-For you and me now...
+For you and me now

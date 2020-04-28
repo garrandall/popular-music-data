@@ -34,7 +34,7 @@ I set a whole choir on fire (UHH!)
 Well done, on the grill, shot skills kills
 and no frills - they try to diss me? They gettin crispy
 Ha, ha hah hah, AND WE DO IT LIKE THIS
-In fact,  and jack Jack's
+In fact, and jack Jack's
 Cause they can burn in hell shit for all that I care
 Beware the bald head the dread said is they fear
 Stick-up's assassin, traction new reaction
@@ -50,7 +50,7 @@ So throw ya gunz in the air, throw ya gunz in the air
 Buck buck like you don't care
 
 
-Uh-oh!  Heads up, cause we're droppin some shit
+Uh-oh! Heads up, cause we're droppin some shit
 On your now shot-skills, Onyx tec-9 for a while
 Keep your eyes open in the fight, I'ma swell em
 The hardcore style, rowdy n wild, hits I'ma sell em (sell em)

@@ -92,6 +92,4 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1960-05-30'
 ---
-***  ***
-♫  ♫
-INSTRUMENTAL
+(Instrumental)

@@ -167,7 +167,7 @@ Ego so big, you must admit
 I got every reason to feel like I'm that bitch
 Ego so strong, you ain't know?
 I don't need no beat, I can sing it with piano...
-Whoa...
+Whoa
 Whoa, whoa, whoa, whoa
 Woah-oh-oh-oh
 Woah-woah-woah

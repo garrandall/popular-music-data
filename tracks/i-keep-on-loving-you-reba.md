@@ -64,7 +64,7 @@ I keep on loving you.
 Lord knows we've had our share of fights.
 Our sleepless nights.
 Our ups and downs.
-We've had plenty and then some of baby im gone's and turn around's.
+We've had plenty and then some of baby I'm gone's and turn around's.
 Sometimes I swear it might be easier to throw in the towel.
 Someday we're gonna look back and say look at us now.
 ()

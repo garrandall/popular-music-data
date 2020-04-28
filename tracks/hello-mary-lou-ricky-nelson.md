@@ -90,7 +90,7 @@ I saw your lips I heard your voice
 Believe me I just had no choice
 Wild horses couldn't make me stay away
 I thought about a moonlit night
-My arms about good an' tight
+My arms about good and tight
 That's all I had to see for me to say
 
 Hey, hey, hello Mary Lou, goodbye heart

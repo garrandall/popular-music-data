@@ -34,14 +34,14 @@ Smoke began to rise
 Out of a cloud came a frightful sight
 Of people running, child
 
-And they sang, la la la la...
+And they sang, la la la la
 
 When I sat down beside the lamp
 I couldn't believe my eyes
 They were blowing a bubble pipe
 About two times the size
 
-As they sang, la la la la...
+As they sang, la la la la
 
 It's fun just to be
 Be what you are

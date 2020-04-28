@@ -38,7 +38,7 @@ Like we're all gonna make it, yeah, yeah
 Feels like this could be forever right now
 Don't wanna sleep 'cause we're dreaming out loud
 Trying to behave but you know that we never learn how
-You and me were raised  in the same part of town
+You and me were raised in the same part of town
 Got these scars on the same ground
 Remember how we used to kick around just wasting time?
 

@@ -56,10 +56,10 @@ Instead of getting a caddy they say get a ford
 Talking about those (Newsy neighbors)
 Newsy
 Always asking for favors
-Newsy neighbors  (Newsy neighbors)
+Newsy neighbors (Newsy neighbors)
 Always asking for favors
 
-You got them no doubt  (Newsy neighbors)
+You got them no doubt (Newsy neighbors)
 They walk right in (always asking for favors)
 Newsy
 

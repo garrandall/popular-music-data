@@ -139,4 +139,4 @@ It's a heartache
 Love him till your arms break
 Then he lets you down
 It's a fools game
-Standing in the cold rain ...
+Standing in the cold rain

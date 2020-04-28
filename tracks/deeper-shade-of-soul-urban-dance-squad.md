@@ -80,7 +80,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-04-13'
 ---
-Mellow...that's my style
+Mellow... that's my style
 
 Surprise, surprise! So you rub your eyes
 Never knew UDS, so cool as ice?
@@ -91,7 +91,6 @@ No blurs, but obscure styles, these are higher
 Profiles are low - as soon as we go
 As a breeze straight from a deeper shade of soul
 
-(Chorus)
 A deeper shade of soul, yeah
 A deeper shade of soul
 A deeper shade of soul, yeah

@@ -181,7 +181,7 @@ But you betta come equipped
 I got some shit off in my trunk thats gonna make yo body flip hollow tip
 Bussin off the rizo soon as a hit the do'
 Anybody make a false move they body on the flo'
-Fuckin wit no hoes boy  neva been no lame main
+Fuckin wit no hoes boy neva been no lame main
 Aint Neva seen no pussy niggas scared to throw dem thangs main
 Crime mob niggas off in this bitch
 Break bread records I represent

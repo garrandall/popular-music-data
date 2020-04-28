@@ -63,7 +63,7 @@ Please don't break my, don't break my heart
 I'm sitting in my window
 Watching cars go by
 And hoping that one
-You will be inside and I...
+You will be inside and I
 
 
 I want you here with me

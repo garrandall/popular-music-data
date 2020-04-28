@@ -52,7 +52,7 @@ Ah let me show ya
 Let me show you the way to go
 (No) I don't know ev'rything
 But there's something I do know (I know, I know)
-I've read and heard enough an' now
+I've read and heard enough and now
 We're ready to show that we can come
 Together an think like one
 (Come together now)
@@ -67,7 +67,7 @@ I'll try not to letcha down
 But only we can't let us down
 Cause we can help each other to overcome
 We can do it, we can do it
-Now trust ev'rybody an' git the job done
+Now trust ev'rybody and git the job done
 Please, please, please just let me show ya
 Let me show ya, let me show you the way to go
 (Please follow me)

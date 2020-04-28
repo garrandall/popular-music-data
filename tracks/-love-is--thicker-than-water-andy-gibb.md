@@ -125,7 +125,7 @@ rankings:
   start_date: '1978-05-20'
 ---
 
-Love is higher than a mountain 
+Love is higher than a mountain
 Love is thicker than water
 You are this dreamer's only dream
 Heaven's angel, devil's daughter
@@ -137,7 +137,7 @@ But I can't leave her
 While I need her more than she needs you
 That's what I'm living for
 
-Love is higher than a mountain 
+Love is higher than a mountain
 Love is thicker than water
 You are this dreamer's only dream
 Heaven's angel, devil's daughter
@@ -160,7 +160,7 @@ You are this dreamer's only dream
 Heaven's angel, devil's daughter
 
 La, la, la
-La, la, la, la, la...
+La, la, la, la, la
 
 
 

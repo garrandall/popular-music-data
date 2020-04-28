@@ -129,7 +129,7 @@ But she was too young to fall in love
 And I was too young to know
 
 Yes, she was too young to fall in love
-And I, I  was too young
+And I, I was too young
 I was much too young to know
 
 

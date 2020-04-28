@@ -75,7 +75,7 @@ Uh-oh
 
 
 Got them going crazy, you see (uh-oh)
-Head over heels for me, oh  (uh-oh)
+Head over heels for me, oh (uh-oh)
 Weak in the knees for me, boy (uh-oh)
 'Cause you were so damn easy
 'Cause you were so damn easy (easy)
@@ -98,7 +98,7 @@ Uh-oh
 
 
 Got them going crazy, you see (uh-oh)
-Head over heels for me, oh  (uh-oh)
+Head over heels for me, oh (uh-oh)
 Weak in the knees for me, boy (uh-oh)
 'Cause you were so damn easy
 'Cause you were so damn easy

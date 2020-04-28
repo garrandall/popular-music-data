@@ -105,7 +105,7 @@ Take the easy way
 And give in
 Yeah, and let me in
 Oh, let me in
-Oh let me ...
+Oh let me
 Oh, let me in
 
 It's war
@@ -122,4 +122,4 @@ Oh, let me in
 Ah, the closer I get
 Ah, you're asking for it
 Ah, the closer I get
-Oh, the closer I ...
+Oh, the closer I

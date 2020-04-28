@@ -31,9 +31,9 @@ rankings:
 Come and dance with me, take me all the higher
 Put your arms around me, make me feel much righter
 Come and love with me, we can move real slow to the music
-Come make love with me ...
+Come make love with me
 
-Oh ...
+Oh
 CHORUS
 Come on, take me, take me, and make me feel your music
 Wanna get in deep when it tastes so sweet
@@ -59,7 +59,7 @@ Put your arms around me, make me feel much righter
 Come and love with me, we can move real slow to the music
 Come make love with me, come make love, make love with me
 
-Oh ...
+Oh
 CHORUS
 
 CHORUS

@@ -32,7 +32,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1964-08-15'
 ---
-La la la la...
+La la la la
 
 Al di la means you're far above me
 Very far (very far)
@@ -60,7 +60,7 @@ Then I knew, it was true
 And I knew all of you
 Was completely mine
 
-La la la la...
+La la la la
 
 Al di la, I asked as I drifted
 Where you were (where you were)
@@ -76,7 +76,7 @@ It was true (it was true)
 And I knew all of you
 Was completely mine
 
-La la la la...
+La la la la
 You were completely mine
-La la la la...
+La la la la
 You were completely mine

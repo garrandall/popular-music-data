@@ -111,7 +111,7 @@ I know you in a better place
 And I hope to see ya soon someday
 
 
-I used to hang with my boy even slang with my  boy
+I used to hang with my boy even slang with my boy
 Used to bang with my boy, goddam I miss my boy
 We started out youngstas in the park throwin birds
 In your hearse, damn it's sad to see my nigga in the dirt
@@ -131,7 +131,7 @@ Smile for my homie Kevin Miller my boy Randall
 The ghetto persons that lost they loved ones to these ghetto scandals
 
 Take a minute to smile for the dead (uuunnnggghhh!)
-Smile for the dead (RIP 2Pac, Makaveli) 
+Smile for the dead (RIP 2Pac, Makaveli)
 All my homies who done made it to the crossroads
 (Biggie Smalls)
 

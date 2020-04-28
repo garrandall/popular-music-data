@@ -134,7 +134,7 @@ This is why I just can't get with you.
 I know it's so unfair to you,
 That I relate her ignorance to you.
 Wish I knew, wish I knew how to separate the two
-You remind me, whoa...
+You remind me, whoa
 
 You remind me of a girl, that I once knew.
 See her face whenever I, I look at you.

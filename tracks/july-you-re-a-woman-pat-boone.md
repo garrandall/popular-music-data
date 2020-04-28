@@ -29,7 +29,7 @@ Side of the road to
 Prove I'm not so mean
 
 (CHORUS)
-La da da da da...
+La da da da da
 July, you're a woman
 More than anyone
 I've ever known
@@ -58,4 +58,4 @@ Side of the road to
 Prove I'm not so mean
 
 (CHORUS)
-La da da da da...
+La da da da da

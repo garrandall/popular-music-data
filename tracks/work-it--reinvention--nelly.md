@@ -63,7 +63,7 @@ Are you dehydrated?
 Well let me quench your thirst
 First thing first, let's do what we rehearsed
 Know dem numbers now, it show be break break it
-Get up and take a stance and let me see ya...
+Get up and take a stance and let me see ya
 
 
 Baby, show something (Uh)

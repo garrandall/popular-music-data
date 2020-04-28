@@ -68,7 +68,7 @@ We'll get there somehow
 
 Come on darlin' let's
 Take our chances we'll
-Take them all the way and ...
+Take them all the way and
 Shoot for the moon
 
 Remember nights you blinked your eyes

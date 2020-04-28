@@ -132,7 +132,7 @@ Feel this moment
 
 
 Mr. worldwide...
-Christina aguilera...
+Christina aguilera
 Oye mamita... (come on)
 Dale que la cosa esta rica.
 

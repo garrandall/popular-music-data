@@ -150,7 +150,7 @@ And objects in the rear view mirror may appear closer than they are
 She used her body just like a bandage
 She used my body just like a wound
 I'll never know where she disappeared
-But I can see her rising up out of the back seat now...
+But I can see her rising up out of the back seat now
 
 
 

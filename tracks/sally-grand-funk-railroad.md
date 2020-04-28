@@ -55,7 +55,7 @@ Sally ... it's alright, it's alright.
 It's alright.
 
 Oh little Sally, you know I love you baby.
-Sally ...
+Sally
 Sally ... it's alright, it's alright.
 It's alright.
 It's alright.

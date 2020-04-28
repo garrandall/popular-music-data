@@ -68,7 +68,7 @@ Huh, Soufside is who I be!
 Say, I got my G-Spot Boyz wit me, ya dig?
 Prince Charming and my boy Slizz
 And we got a new dance for y'all, ya dig!
-I holla...
+I holla
 
 
 Bitch I'm wild! (Hold up), do the Stanky Legg (ayyyy!)

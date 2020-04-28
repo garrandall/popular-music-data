@@ -60,7 +60,7 @@ rankings:
 Yeah
 Its Gucci,
 whats up baby,
-Yellow errthing this time, you know what im talkin bout
+Yellow errthing this time, you know what I'm talkin bout
 Yellow rims, Yellow, big booty, yellowbones
 Yellow lambs, Yellow MP's
 Yellow watch, Yellow charm ring, chain
@@ -71,14 +71,14 @@ GUCCI
 My phantom sittin on sixes, no 20's in my gun
 Your cutlass motor knockin, because it is a lemon
 I like dem Georgia-peaches, but you look more like a lemon
-These sour apple bitter bitches, im not fuckin with em
+These sour apple bitter bitches, I'm not fuckin with em
 Im truly stupid paid thats just how I feel today,
 Im movin slow cause codeine syrup's in my lemonade
-Im standing in the shade and im sellin lemonade
+Im standing in the shade and I'm sellin lemonade
 600 a pint da going rate off in the "A"
 Lemonade diamond bracelet, put it in ur face (BURR)
 Lemonhead diamond earrings I wore yesterday (BURR)
-Im pimpin wearin linon, thats just how im chillon
+Im pimpin wearin linon, thats just how I'm chillon
 Im smokin grits and sellin chickens, corvette painted lemons
 GUCCI!
 
@@ -97,7 +97,7 @@ I got lemonade and lemon teeth
 Lemons watch me mix the shit
 Lemonade complexion, east-australian girl be killin me
 She say I be killin her, I say I be feelin it
-Four days then im sick of her, cause her brain is lemonhead
+Four days then I'm sick of her, cause her brain is lemonhead
 Cocaine white exterior, Interior Lemonade
 Yellow wit da off-white trimmin
 I call that da super drank

@@ -84,7 +84,7 @@ I've got a love that you will never see, hey
 I guess you thought you had me strung out on your love
 Simply because you're oh so fine
 It takes more than looks to steal my heart away from me
-So i'm sorry, baby the joke's on you this time
+So I'm sorry, baby the joke's on you this time
 
 
 You didn't want me love
@@ -93,7 +93,7 @@ Thats's what starts the pain
 Thats's what starts the pain
 You didn't want me love
 You didn't want me love
-I think that's your game 
+I think that's your game
 
 
 Goodbye, goodbye

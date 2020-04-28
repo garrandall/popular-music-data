@@ -188,7 +188,7 @@ Put your hands in the air represent your clique
 
 Peaches and cream (Oh)
 I need it cause you know that I'm a fiend (That's right)
-Gettin' freaky in my Bentley limousine  (Girl you are tasty)
+Gettin' freaky in my Bentley limousine (Girl you are tasty)
 It's even better when it's with ice cream
 Know what I mean
 

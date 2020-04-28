@@ -87,7 +87,7 @@ Then Tina slept wit' Javier
 An' the first time he seen her
 Javier slept wit' Loopy
 An' Loopy slept wit' Rob
-Cuz he was rollin' on beeds an' had a goodass job
+Cuz he was rollin' on beeds and had a goodass job
 Rob slept wit' Lisa who slept wit' Steve, an'
 Steve was positive
 H.I.V.
@@ -117,7 +117,7 @@ to admit you both had the same last name
 I don't have to ask you where you've been
 Cuz the matches in your purse say Holiday Inn
 A mind is a terrible thing to waste that was the slogan
-But now it's '95 an' it's don't forget the Trojan
+But now it's '95 and it's don't forget the Trojan
 Explained it to her momma
 Before somebody get her got her
 Help her to the game with those smooth talkin' niggas
@@ -142,13 +142,13 @@ Everybody in the packstack tryin' to make some scraps
 Walkin' in the rain but they ain't got no hat
 Understand how we livin' in the 90's loc
 Nuclear waste, cannibalism, and pistol smoke
-Sex, lies, and videotape an' rape
+Sex, lies, and videotape and rape
 Just a little public crime can seal your fate
 We need to do something drastic shit
 It's gettin' tragic
 And if you don't believe me
 Then go ask Magic
-Everybody an' their momma preaching abstenence, these
+Everybody and their momma preaching abstenence, these
 Kids ain't checking for abster shit
 So put a condom in their hand and hope it don't bust
 Another victim of the lust

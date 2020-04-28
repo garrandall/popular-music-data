@@ -54,7 +54,7 @@ At least that's what she told him
 
 And it' ain't a Front Page Story
 Won't even make the papers
-Somebody  breaks a heart in two
+Somebody breaks a heart in two
 And it happens much too often
 Won't ever make the headlines
 Somebody's broken heart ain't new
@@ -81,7 +81,7 @@ Except when it happens to you
 
 It ain't a Front Page Story
 Won't even make the papers
-Somebody  breaks a heart in two
+Somebody breaks a heart in two
 And it happens much too often
 Won't ever make the headlines
 Somebody's broken heart ain't new

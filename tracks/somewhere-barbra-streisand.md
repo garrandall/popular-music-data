@@ -86,7 +86,7 @@ There's a place for us
 A time and a place for us
 Hold my hand and we're half way there
 Hold my hand and I'll take you there
-Somehow...
+Somehow
 Someday, somewhere...
 
 

@@ -123,6 +123,6 @@ And kiss the ground that you walk on baby
 If I could just hold you
 If I, could just hold you
 
-If I...
+If I
 If I could just hold you
 Again

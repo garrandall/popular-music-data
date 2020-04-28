@@ -74,4 +74,4 @@ Nothing can ever come between us
 'Cause we've got honey, honey
 Honey, honey, honey
 
-Life is so sweet now...
+Life is so sweet now

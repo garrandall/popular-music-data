@@ -94,4 +94,4 @@ I want you more than maybe
 Tell me, tell me
 You could love me too
 
-Ohbaby, you're my morning sun
+Oh baby, you're my morning sun

@@ -103,7 +103,7 @@ Is it burnin'? Well fuck it, now you're learnin'
 
 How, I don't even like your motherfuckin' profile
 Gimme my fuckin' shit, ch ch blaow
-Not seen an' heard, no one knows
+Not seen and heard, no one knows
 You forget, niggas be quiet as kept
 
 Now you know nothin', before you knew a whole fuckin' lot

@@ -32,7 +32,7 @@ Na-na-nana-na
 
 So follow me down (Where to?)
 Out of this town (With you)
-Girl you're moving way too slow...
+Girl you're moving way too slow
 
 So follow me down (Which way? Down, down...)
 I'll show you around (ok)
@@ -60,7 +60,7 @@ Na-na-nana-na
 
 So follow me down (Where to?)
 Out of this town (With you)
-Girl you're moving way too slow...
+Girl you're moving way too slow
 
 So follow me down (Which way? Down, down...)
 I'll show you around (ok)

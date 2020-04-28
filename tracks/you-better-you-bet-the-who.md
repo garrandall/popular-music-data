@@ -82,7 +82,7 @@ I love to hear you say my name
 Especially when you say yes
 I got your body right now on my mind
 But I drunk myself blind to the sound of old T-Rex (Hm)
-To the sound of old T-Rex (oh)  – and Who's Next
+To the sound of old T-Rex (oh) – and Who's Next
 
 
 When I say I love you you say you better

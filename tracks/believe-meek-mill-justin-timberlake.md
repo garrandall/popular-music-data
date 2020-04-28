@@ -84,7 +84,7 @@ But you can't lock the soul of a man down
 As I lay (As I lay) me down to sleep (Down to sleep)
 Pray the Lord (Pray), my soul to keep (Soul to keep)
 Fallen ones (Fallen ones), rest in peace (R.I.P)
-Please God,  (Watch over me)
+Please God, (Watch over me)
 As I lay (As I lay) me down to sleep (Down to sleep)
 Pray the Lord (Pray), my soul to keep (Soul to keep)
 Fallen ones (Fallen ones), rest in peace (R.I.P)

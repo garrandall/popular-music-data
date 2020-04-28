@@ -22,7 +22,7 @@ When I'm with you I am home
 Yeah, I am home
 
 
-I think it was last year on my birthday when you  broke the news
+I think it was last year on my birthday when you broke the news
 Things ain't rollin' how we need them to and we have to move
 But I said, "Dad, get those moving boxes out the room"
 And cut the cake, I'll get it, I got it, I'll give my all for you

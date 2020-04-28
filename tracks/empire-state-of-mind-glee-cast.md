@@ -36,7 +36,7 @@ Now I live on Billboard and I brought my boys with me
 Say what up to Ty Ty, still sippin' Mai Tais
 Sittin' courtside, Knicks & Nets give me high five
 Jigga, I be spiked out, I could trip a referee
-Tell by my attitude that I'm most definitely from...
+Tell by my attitude that I'm most definitely from
 
 
 In New York (Ayy, aha)

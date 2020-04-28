@@ -72,7 +72,7 @@ Ayy, you heard of me? (Heard of me, yeah)
 Fuck a Perc-10, need a 30 (I need a 30)
 In my FN 'cause they lurking
 And a Smith & Wesson's with the broski, no worries
-All these other niggas  bitch niggas, they get disfigured
+All these other niggas bitch niggas, they get disfigured
 Balling, yeah, I swish, nigga, I'ma swish, nigga
 Own lane, never switch, nigga, never switch, nigga
 Tryna fuck the world, they can suck a dick, nigga (Real shit)

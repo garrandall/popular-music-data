@@ -70,4 +70,4 @@ Oh, now, but that's the only, yeah, yes, that's the only way now
 Oh, that's the only, that's the only way
 That's the only, oh, that's the only way I know
 That's the only, that's the only way
-That's the only, only thing I know ...
+That's the only, only thing I know

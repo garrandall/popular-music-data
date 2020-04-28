@@ -124,7 +124,7 @@ When we on the couch I can make you moan
 Eat you up when we in the kitchen
 Let you get on top when we by the stove
 When she told me to do it faster
-That's when  I dug deeper
+That's when I dug deeper
 Now every time I see her (mmm)
 I gots to freak her cause
 

@@ -91,7 +91,7 @@ I'm sorry, it ain't going your way
 Baby give me some love and give me some respect
 The way that you do the things you do when you want my askings
 You know how you smile when you're guessin' me
-Turnin' me on an' on an' on an' then we gets busy
+Turnin' me on and on and on and then we gets busy
 
 5-4-3-2, your time is up
 5-4-3-2, your time is up

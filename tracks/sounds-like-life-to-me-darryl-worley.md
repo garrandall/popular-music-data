@@ -70,7 +70,6 @@ And I got bills to pay
 I said I know this ain't what you wanna hear
 But it's what I'm gonna say
 
-(Chorus)
 Sounds like life to me it ain't no fantasy
 It's just a common case of everyday reality
 Man I know it's tough but you gotta suck it up
@@ -86,7 +85,6 @@ That Sarah's 2 months late
 I said hey bartender set us up a round
 We need to celebrate
 
-(Chorus)
 Sounds like life to me plain old destiny
 Yeah the only thing for certain is uncertainty
 You gotta hold on tight just enjoy the ride

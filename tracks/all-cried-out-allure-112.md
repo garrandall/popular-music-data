@@ -122,7 +122,7 @@ All I needed was a simple "Hello"
 But the traffic was so noisy that you could not hear me cry
 
 
-I...
+I
 I gave you my love in vain
 My body never knew such pleasure
 My heart never knew such pain
@@ -157,13 +157,13 @@ I... (Whoa)
 I gave you all of me (I gave you all of me)
 How was I to know
 You would weaken so easily
-I...
+I
 I don't know what to do (I don't know what to do)
 Now I'm all cried out (I'm all cried out)
 Over you
 
 
-I...
+I
 I gave you my love in vain
 My body never knew such pleasure
 My heart never knew such pain

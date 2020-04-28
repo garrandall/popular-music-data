@@ -37,7 +37,7 @@ rankings:
   start_date: '1977-05-14'
 ---
 
-Ev'rybody got problems, buddy.  I got mine.
+Ev'rybody got problems, buddy. I got mine.
 When midnight comes around, I start to lose my mind.
 When the sun puts out the light,
 I join the creatures of the night,

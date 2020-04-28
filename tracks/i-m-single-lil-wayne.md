@@ -58,7 +58,7 @@ Dont wanna fuss aint tryna fight
 Man somebody tell dem hoes I'm single for da niight
 
 
-Y-yea  I'm single make her have to cancel dat bitch like nino
+Y-yea I'm single make her have to cancel dat bitch like nino
 I aint trippin on nuthin I'm sippin on sumthin
 And my homeboy say he got a badd bitch for me
 And I'm single yea I'm single a-and I'm single tonight I'm single

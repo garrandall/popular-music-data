@@ -87,7 +87,7 @@ One, two, three, sleep
 
 Paranoimia, paranoimia
 
-Paranoimia, paranoimia...
+Paranoimia, paranoimia
 
 How do I get
 How do I get to sleep
@@ -102,9 +102,9 @@ Is that my teas made
 Paranoimia paranoi
 
 I can't stand tea
-Tea, tea, tea, tea...
+Tea, tea, tea, tea
 
-Paranoimia, paranoimia...
+Paranoimia, paranoimia
 
 Ah, Happy Harry's High Club
 How do I, how am I

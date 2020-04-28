@@ -90,10 +90,10 @@ Any street corner (Oh)
 
 Oh... (oh...)
 
-On any street  (Oh...oh...ooh)
+On any street (Oh...oh...ooh)
 Any street corner
 On any street (On the avenue)
-Any street corner  (On the avenue waitin' for you)
+Any street corner (On the avenue waitin' for you)
 
 You want it (You got it)
 That's why (Yeah, yeah, yeah, yeah)

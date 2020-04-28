@@ -41,11 +41,9 @@ I Got You
 Don't need no friends
 I don't need no friends at all
 
-(Chorus: she's my baby and I love her)
 'Cause when I'm down
 Yours is the only name I know to call
 
-(Chorus: she's my baby and I need her)
 I Ain't Got To Love Nobody Else
 I Ain't Got To Love Nobody Else
 I Got You

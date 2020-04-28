@@ -23,7 +23,7 @@ The gypsy flies from coast to coast
 Knowing many, loving none,
 Bearing sorrow havin' fun,
 But back home he'll always run
-To sweet Melissa... mmm...
+To sweet Melissa... mmm
 
 Freight train, each car looks the same, all the same.
 And no one knows the Gypsy's name
@@ -31,7 +31,7 @@ And no one knows the Gypsy's name
 No one hears his lonely sighs,
 There are no blankets where he lies.
 In all his deepest dreams the Gypsy flies
-with sweet Melissa... mmm...
+with sweet Melissa... mmm
 
 Again the morning's come,
 Again he's on the run,

@@ -53,7 +53,7 @@ I never found a heart big enough
 Let alone someone in whom I could trust
 
 All of you, opened up to let me see
-In your heart there was fool  me
+In your heart there was fool me
 
 You're the landlord and the keeper of our love
 You're the landlord and the keeper of our love

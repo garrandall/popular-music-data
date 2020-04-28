@@ -102,7 +102,7 @@ On any corner, if you see
 Some brother looking like a goner
 It's gonna be me
 Sing the song
-Na na na na...
+Na na na na
 Dollar nine get a bottle of wine
 Dollar nine get a bottle of wine
 Dollar nine get a bottle of wine

@@ -113,7 +113,7 @@ Maybe the sun's light will be dim
 And it won't matter anyhow.
 If morning's echo says we've sinned,
 Well, it was what I wanted now.
-And if we're  victims of the night,
+And if we're victims of the night,
 I won't be blinded by the light.
 
 Just call me angel of the morning, angel

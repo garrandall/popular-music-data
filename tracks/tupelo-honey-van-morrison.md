@@ -109,5 +109,5 @@ Yeah, don't you know that
 Oh she's alright, she's alright with me (she's an angel)
 She's my babe, yeah, don't you know right (she's an angel)
 She's my baby babe, she's my babe, yeah don't you know right (she's an angel
-She's my baby oh, she's all  (she's an angel)
+She's my baby oh, she's all (she's an angel)
  (she's an angel)

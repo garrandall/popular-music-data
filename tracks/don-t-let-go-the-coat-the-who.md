@@ -61,6 +61,6 @@ Sure to get the hang of hanging in there someday
 
 
 Do not let go the coat
-Will  get no more chances - forget the war dances
+Will get no more chances - forget the war dances
 Go blind and hang on – do not try the slang son
 Never let go the coat

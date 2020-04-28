@@ -41,12 +41,12 @@ And I will try to fix you
 Tears stream down on your face
 When you lose something you cannot replace
 Tears stream down on your face
-And I...
+And I
 
 Tears stream down on your face
 I promise you that I will learn from my mistakes
 Tears stream down on your face
-And I...
+And I
 
 Lights will guide you home
 And ignite your bones

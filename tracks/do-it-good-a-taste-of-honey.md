@@ -27,7 +27,7 @@ rankings:
 Come on and get down while you can
 Close your eyes and feel the vibe of the music
 Don’t hold back, let it go
-Don’t be afraid ‘cause it’s okay to let it flow
+Don 't be afraid ‘cause it 's okay to let it flow
 
 Hey, do it
 Do it, do it good
@@ -39,13 +39,13 @@ Do it, do it good
 Get up and do it
 Do it, do it good (Yeah)
 
-Hm...hm...hm...
+Hm...hm...hm
 Clap your hands, stomp your feet
 Move your body to the disco beat
 
-The stage is set now, the light’s on you
+The stage is set now, the light 's on you
 You can do it, get into it, feel it through and through
-Don’t be shy, get it on
+Don 't be shy, get it on
 And put your hand on your hips, let your back bone slip, now get it on
 
 Hey, do it
@@ -68,7 +68,7 @@ Do it, do it good
 Do it
 Do it, do it good
 
-Hm...hm...hm...
+Hm...hm...hm
 Oh
 Oh, clap your hands, stomp your feet
 Move your body to the freaky beat

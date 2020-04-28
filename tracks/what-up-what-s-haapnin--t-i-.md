@@ -15,7 +15,7 @@ rankings:
 
 
 Ey, what's haapnin'? (what it is you all)
-All you haters, can get at me (Center Hill,  what it do)
+All you haters, can get at me (Center Hill, what it do)
 'Cause I hear you, and am watchin' (Church Creek, South Grand stand up)
 But am serious (it's the king bitch, yeah)
 Haters, so all I got to say is WHAT UP!? (here we go)

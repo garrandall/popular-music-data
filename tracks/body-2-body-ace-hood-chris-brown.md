@@ -68,7 +68,7 @@ What's up baby?
 We the Best huh
 So I had a few things in mind
 Ha ha ha ha
-And I was thinkin uhm...
+And I was thinkin uhm
 
 
 Baby, you don't have to try to read my mind

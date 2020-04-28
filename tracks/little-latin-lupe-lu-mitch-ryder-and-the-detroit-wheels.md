@@ -48,7 +48,7 @@ rankings:
 Allright, is everybody ready?
 (crowd noise -yeah!)
 Now here's a song I found while lookin' thru some songs the other day, we
-Gonna try an' do it again, dig?
+Gonna try and do it again, dig?
 It's called Latin Lupe Lu, you ready? yeah, well all right. (end spoken intro)
 
 Hey, Hey

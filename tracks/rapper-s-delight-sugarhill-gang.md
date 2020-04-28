@@ -73,7 +73,7 @@ And next on the mic is my man Hank - come on, Hank, sing that song
 Check it out, I'm the C-A-S-A-N, the O-V-A and the rest is F-L-Y
 You see, I go by the code of the Doctor of the Mix
 And these reasons I'll tell you why
-You see I'm 6'1'' and I'm tons of fun and I dress to a tee
+You see I'm 6'1" and I'm tons of fun and I dress to a tee
 You see I got more clothes than Muhammad Ali and I dress so viciously
 I got bodyguards, I got two big cars, that definitely ain't the whack
 I got a Lincoln continental and a sunroof Cadillac

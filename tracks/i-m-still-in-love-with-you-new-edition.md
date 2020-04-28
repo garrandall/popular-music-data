@@ -89,7 +89,7 @@ rankings:
   start_date: '1997-03-22'
 ---
 Still in love...
-Mmm...
+Mmm
 I'm still in love
 (With you)
 With you

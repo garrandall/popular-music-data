@@ -52,7 +52,7 @@ Thought forever it would last for
 But forever move faster, so I had to
 (Go) Still I gotta pause
 When I think about her in them draws
-(Go) And uh, ohbaby she liked it raw and
+(Go) And uh, oh baby she liked it raw and
 Like rain when she came it poured
 (Go) And like a car that I can't afford
 I would want it then want some more

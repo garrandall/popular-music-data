@@ -40,7 +40,7 @@ And I'll be the one you left standin' all alone
 
 Can't you find another way of doin' it baby, can't you?
 Can't you find another way of doin' it baby, can't you?
-Oh yeah, never, never found no, nobody,  little girl
+Oh yeah, never, never found no, nobody, little girl
  that I've been lookin' for, can't you find another way?
 
 Look, I'll do my very best to get over you

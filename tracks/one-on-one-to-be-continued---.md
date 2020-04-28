@@ -49,11 +49,11 @@ Dis peer pressure, I gotta be me
 Can't be the rest of them
 Grow and show that I can flow with the best of them
 Never try to be shady, a lady
-Money go and  don't amaze me
+Money go and don't amaze me
 I'm not living to be wed
 Before I commit I'll establish a one on one with myself
 
-One-by-one we can make it, 
+One-by-one we can make it,
 If we are to be as one
 One-to-one, it's not hard to relate to
 If you open up your heart
@@ -65,7 +65,7 @@ All work and no play said Jack
 Apply yourself said dad, but get back
 I had to hang with the girls in the mall
 Parties all night was yes yes y'all
-Homework can't  me
+Homework can't me
 After cramming all night
 At school I would sleep
 
@@ -73,7 +73,7 @@ Wasn't thinking of life's pop quiz
 Or the real world or school was preparing me to outgrow
 Until senior year rolled up
 And everything but my grades I'd rolled up
-Now I come about life 
+Now I come about life
 Suddenly hanging with the girls was no go
 I started getting to class on time
 Doing homework and using my mind and now
@@ -93,9 +93,9 @@ I think we would have a debate, kick back chill
 And maybe we could set things straight
 I'm not all about the hiding duck
 You know the time honey quit with the games
-I'm not 
+I'm not
 Why you want to come off half-cocked out to me
-You know I'm acting through to your record shop 
+You know I'm acting through to your record shop
 Kicking it, with benny making plenty, so honey
 Dial my beeper or my corner when you wanna get with me
 And you could chill like god be on the down low

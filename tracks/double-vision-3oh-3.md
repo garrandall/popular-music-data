@@ -45,14 +45,14 @@ That my head is spinnin'
 And I've lost all feelin'
 Everybody's singin' like
 (Hey!) Na, na, na (Hey, hey!) Na, na, na, na
-(Hey!) Na, na, na  (Hey, hey!) Na, na, na, na
+(Hey!) Na, na, na (Hey, hey!) Na, na, na, na
 
 'Cause there's so many fine women
 That my head is spinnin'
 And I'm seein' double vision
 Everybody's singin' like
 (Hey!) Na, na, na (Hey, hey!) Na, na, na, na
-(Hey!) Na, na, na  (Hey, hey!) Na, na, na, na, na
+(Hey!) Na, na, na (Hey, hey!) Na, na, na, na, na
 
 
 Let's do this outside
@@ -74,14 +74,14 @@ That my head is spinnin'
 And I've lost all feelin'
 Everybody's singin' like
 (Hey!) Na, na, na (Hey, hey!) Na, na, na, na
-(Hey!) Na, na, na  (Hey, hey!) Na, na, na, na
+(Hey!) Na, na, na (Hey, hey!) Na, na, na, na
 
 'Cause there's so many fine women
 That my head is spinnin'
 And I'm seein' double vision
 Everybody's singin' like
 (Hey!) Na, na, na (Hey, hey!) Na, na, na, na
-(Hey!) Na, na, na  (Hey, hey!) Na, na, na, na, na
+(Hey!) Na, na, na (Hey, hey!) Na, na, na, na, na
 
 
 I see no vitals on your E-K-G
@@ -98,11 +98,11 @@ That my head is spinnin'
 And I've lost all feelin'
 Everybody's singin' like
 (Hey!) Na, na, na (Hey, hey!) Na, na, na, na
-(Hey!) Na, na, na  (Hey, hey!) Na, na, na, na
+(Hey!) Na, na, na (Hey, hey!) Na, na, na, na
 
 'Cause there's so many fine women
 That my head is spinnin'
 And I'm seein' double vision
 Everybody's singin' like
 (Hey!) Na, na, na (Hey, hey!) Na, na, na, na
-(Hey!) Na, na, na  (Hey, hey!) Na, na, na, na, na
+(Hey!) Na, na, na (Hey, hey!) Na, na, na, na, na

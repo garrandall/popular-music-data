@@ -55,7 +55,7 @@ but after you spanked me, you hugged me
 kissed me on my forehead and told me that you loved me
 and I saw that it hurt you more than it hurt me
 i thought how bad could this hurt be?
-i know now that's why i'm dead outta luv
+i know now that's why I'm dead outta luv
 whut I wouldn't give for one more hug
 from gran'ma
 
@@ -65,8 +65,8 @@ She usta tell me that...
 "Baby, it's gone be Ok" (Everything will be alright)
 I really miss hearin'
 
-but i'm about to say a couple of family members gone hate me
-but i'm gonna let you know whut's been goin on lately
+but I'm about to say a couple of family members gone hate me
+but I'm gonna let you know whut's been goin on lately
 you know since you left a lot of things bout your kids done changed
 yah jackie's still crazy and I don't know what's up with james
 ain't seen jerry in a while, you know he walks like you

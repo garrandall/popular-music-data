@@ -46,7 +46,7 @@ Pride when he goes.
 He's a taker, he'll take her to places
 And make her fly higher than she's ever dared to
 He'll take his time before takin' advantage
-Takin' her easy and slow...
+Takin' her easy and slow
 
 
 

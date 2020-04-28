@@ -110,7 +110,7 @@ Now when I first met her all I thought was "Thong thong-thong"
 like, "Lose the lame, we can get our freakin on"
 Baby know the game, slip away, and slide me yo' number
 It's the last day of spring, see you first day this summer
-I'm a bad motha; shut yo' mouth!  Pull the drop out and
+I'm a bad motha; shut yo' mouth! Pull the drop out and
 creep at a low speed, cause homey probably know me
 I push the pedal, thoughts of your stilleto
 way up in the air like I think he's here
@@ -119,16 +119,16 @@ Homey be checkin up on you (on you)
 But if that nigga only knew (only knew)
 You've got a lot of freak in you, ba-byyy
 Well now it's startin to rain, I pop the roof and the champagne
-How Jay said?  "Money Ain't a Thing"
+How Jay said? "Money Ain't a Thing"
 It's been close a few, at times even impossible
 But, it's been between me and you, ba-byyy
 
 Girl it's on again, every year - we hummer 'em in
 Beaches, houses, hoes, foes, friends
 And when the, day ends - that's when it all begins
-You wit him?  Here's my room key; holla at me
+You wit him? Here's my room key; holla at me
 While you thinka-think I'ma hit it up
-then look at the nigga you thinkin you love?  C'mon love
+then look at the nigga you thinkin you love? C'mon love
 We could go there, me and you, creep off all night
 If you love it, in the mornin, awake with new light
 If you lookin like I ain't gonna handle his

@@ -17,15 +17,15 @@ rankings:
   start_date: '1975-10-04'
 ---
 MILLIE: Philip, now I know you said you're leaving, but can't we discuss this at all?
-PHILIP: Look, baby, there ain't nothing to discuss.  I mean, you know, we've been through this a thousand times.  Everything has been said
+PHILIP: Look, baby, there ain't nothing to discuss. I mean, you know, we've been through this a thousand times. Everything has been said
 MILLIE: Well, you believed me because of your son, right?
 PHILIP: Yeah, that's right
 MILLIE: And because of your son, that's the reason you had your wife laying in my bed last week, right?
 The neighbors told me when I went to Philadelphia, she was here the whole weekend
-N-N-N-N-N-Now just tell me something, you've been married to her, but shacking with me.  Who you feel you're cheating on?
-PHILIP: Well, that don't feel like I'm cheating on nobody.  Well, you know.  I'm just going on home, that's all
+N-N-N-N-N-Now just tell me something, you've been married to her, but shacking with me. Who you feel you're cheating on?
+PHILIP: Well, that don't feel like I'm cheating on nobody. Well, you know. I'm just going on home, that's all
 (Doorbell ringing)
-MILLIE: Uh, wait a minute, uh, the doorbell's ringing.  Let me get the bell
+MILLIE: Uh, wait a minute, uh, the doorbell's ringing. Let me get the bell
 Well, do say, right on time, Mrs. Jody again, what do you want?
 JODY: My husband
 MILLIE: Well, you're not getting him
@@ -34,7 +34,7 @@ MILLIE: I know what you're gonna take, you're gonna take a good a-kicking if you
 JODY: Well, I brought some and I'm ready for yours
 MILLIE: I guess you brought the kid too, huh
 JODY: Yes I did
-MILLIE: Well, listen, let me tell you something, I want both of y'all out my house.  I don't ever wanna see none of you no more and I wanna tell you something further this time, you understand me
+MILLIE: Well, listen, let me tell you something, I want both of y'all out my house. I don't ever wanna see none of you no more and I wanna tell you something further this time, you understand me
 I wanna ask you something
 
 Tell me how do you feel knowing he's my man
@@ -48,7 +48,7 @@ Some are just downright dirty, some are just don'ts
 All you're getting is my leftovers
 You're digging out of love I done picked over
 You oughta leave my man alone, find one of your own
-Stop making the jaw, girl.  Scrape in the bone.  Ow!
+Stop making the jaw, girl. Scrape in the bone. Ow!
 
 It don't bother me if your man gives you a little bit of loving someti-i-i-i-imes
 'Cause you see, I know, if it makes it any good to you, huh
@@ -64,9 +64,9 @@ But all you're getting is trounced
 All you're getting is my leftovers
 You're digging out of love I done picked over
 You oughta leave my man alone, find one of your own
-Stop making the jaw, girl.  Scrape in the bone
+Stop making the jaw, girl. Scrape in the bone
 
-Ohaaow!  Leave him alone now
+Ohaaow! Leave him alone now
 Go and find a man of your own
 'Cause there ain't nothing left here but a man this evening, girl
 You see, I done took everything he had

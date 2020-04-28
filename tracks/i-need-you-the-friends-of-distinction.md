@@ -35,7 +35,7 @@ Get together, get together, get together, you gotta
 Get together, get together, get together, you gotta
 
 I need you, you need me
-So let's  as lovers
+So let's as lovers
 Cause we need each other
 One more night
 Tell the truth
@@ -55,7 +55,7 @@ You look like a boo- boo- boom
 You look like a boo- boo- boo- boom
 Hey, You look like a boo- boo- boom
 
-Without love 
+Without love
 And we need a lot of something
 Love is that something we gotta start to give more
 Start to grooving on to live for

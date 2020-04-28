@@ -81,7 +81,7 @@ I, can't let go
 Deep inside I wanna let it show
 Cuz I know I gotta let you go
 But i, don't even know
-Don't wanna know what i'd do
+Don't wanna know what I'd do
 If I were ever without you
 
 Bending lies
@@ -97,7 +97,7 @@ I, can't let go
 Deep inside I wanna let it show
 Gotta let you go
 But i, don't even know
-Don't wanna know what i'd do
+Don't wanna know what I'd do
 If I were ever without you
 
 Chorus:
@@ -105,7 +105,7 @@ I can't let go(i can't let go, no no)
 Wanna let it show (i wanna let it show)
 Gotta let you go (go)
 But I don't even know
-Don't wanna know what i'd do
+Don't wanna know what I'd do
 If I were ever without you
 
 Shum dum dum no
@@ -128,7 +128,7 @@ I can't let go(i can't let go, no no)
 Wanna let it show (i've got to let it show, yea, yea, yea)
 Gotta let you go (oh no)
 But I don't even know, (but I don't, know know know)
-Don't wanna know what i'd do,(oh)
+Don't wanna know what I'd do,(oh)
 If I were ever without you, (baby)
 
 Chorus:
@@ -136,5 +136,5 @@ I can't let go(i can't let go, I can't let go)
 Wanna let it show (oh honey, don't you see the tears in my eyes?)
 Gotta let you go (i've been crying)
 But I don't even know
-Don't wanna know what i'd do
+Don't wanna know what I'd do
 If I were ever without you

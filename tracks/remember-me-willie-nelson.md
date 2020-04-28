@@ -42,7 +42,7 @@ rankings:
 ---
 You told me once you were mine, alone, forever
 An' I was yours till the end of eternity
-But all those vows are broken now an' I will never
+But all those vows are broken now and I will never
 Be the same except in memory
 
 Remember me when the candle lights are gleamin'

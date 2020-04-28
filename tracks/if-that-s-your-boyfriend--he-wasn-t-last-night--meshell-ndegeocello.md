@@ -90,9 +90,9 @@ He wasn't last night
 
 Ohohbaby baby
 Good to the last chip at the bottom of the bag
-Ohbaby baby
+Oh baby baby
 Make you wanna do things that you never have
-Ohbaby baby
+Oh baby baby
 Mad sex and when we're through
 I really have no problem actin like I don't know you
 

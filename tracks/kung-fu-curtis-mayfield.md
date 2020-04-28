@@ -112,7 +112,7 @@ But, no, she couldn't name me Jesus
 I wasn't white enough, she said
 
 And then she named me, (y'all), Kung Fu
-Don't have to explain it, no,  Kung Fu
+Don't have to explain it, no, Kung Fu
 Don't know how you'll take it, (here), Kung Fu
 I'm just trying to make it, (love), Kung Fu
 

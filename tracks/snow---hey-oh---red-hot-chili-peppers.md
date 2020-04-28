@@ -109,7 +109,7 @@ Hey oh... listen what I say oh
 Come back and hey oh, look at what I say oh
 
 The more I see the less I know
-The more I'd like to let it go - hey oh, whoa...
+The more I'd like to let it go - hey oh, whoa
 
 Deep beneath the cover of another perfect wonder where it's so white as snow,
 Privately divided by a world so undecided and there's nowhere to go;
@@ -128,7 +128,7 @@ Hey oh... listen what I say oh
 I got your hey oh... listen what I say oh
 
 The more I see, the less I know
-The more I'd like to let it go - hey oh, whoa...
+The more I'd like to let it go - hey oh, whoa
 
 Deep beneath the cover of another perfect wonder where it's so white as snow.
 Privately divided by a world so undecided and there's nowhere to go
@@ -140,7 +140,7 @@ Hey hey yeah oh yeah, tell my love now.
 
 Deep beneath the cover of another perfect wonder where it's so white as snow,
 Privately divided by a world so undecided and there's nowhere to go.
-Deep beneath the cover of another perfect wonder where it's so white as snow...
+Deep beneath the cover of another perfect wonder where it's so white as snow
 Running through the field where all my tracks will be concealed and there's nowhere to go.
 
 I said hey oh yeah oh yeah... tell my love now

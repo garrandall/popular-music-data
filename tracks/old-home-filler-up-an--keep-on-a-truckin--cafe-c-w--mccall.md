@@ -38,7 +38,7 @@ rankings:
 ---
 
 Well, Interstate 80, we was cuttin' the fog
-Just me an' old Sloan (Old Sloan's my dog)
+Just me and old Sloan (Old Sloan's my dog)
 We had an eighteen-wheeler with ten on the floor and stereo layin' a strip
 Now we spied a sign, says "Eat Gas Now"
 We decided to whip in and pick up some chow

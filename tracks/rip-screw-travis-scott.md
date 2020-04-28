@@ -63,5 +63,5 @@ Drop top with the windows up
 
 
 Screw found international sound because—
-Throughout the South, and it's new to, um...
+Throughout the South, and it's new to, um
 Shawty got a thing for us

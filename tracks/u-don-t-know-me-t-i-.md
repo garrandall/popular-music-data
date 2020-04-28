@@ -109,7 +109,7 @@ So all you niggas actin' bad, you gon have to show me
 You gon make me bring this Chevy to a real slow creep
 My niggas hangin' out the window, mouth fulla gold teeth
 When the guns start poppin' wonder when it's gone cease
-Chopper hit you in' the side an' create a slow leak
+Chopper hit you in' the side and create a slow leak
 We can end the speculation cuz today we gone see
 What's the future of a pussy nigga hatin' on me
 I give a fuck about the FED's investigation on me

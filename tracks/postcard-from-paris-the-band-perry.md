@@ -103,7 +103,7 @@ The meanest thing you ever did is come around.
 
 Just when I thought things were alright,
 My eyes play tricks on my mind, yeah.
-Will I ever be satisfied cause all I ever seem to find is a...
+Will I ever be satisfied cause all I ever seem to find is a
 
 Postcard from Paris, when I need the real thing.
 It's like finding out your diamond is from an old promise ring.

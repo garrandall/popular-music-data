@@ -139,7 +139,7 @@ But you...
 We've come too far to let it all end
 I've told you over and over again
 How I feel inside but if you go
-Ohbaby there's something you should know
+Oh baby there's something you should know
 Something you should know
 
 

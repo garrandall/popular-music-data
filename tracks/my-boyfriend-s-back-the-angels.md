@@ -117,4 +117,4 @@ My boyfriend's back now
 
 Know he's comin' after you
 (La-day-la, my boyfriend's back)
-Because he knows I've been true now...
+Because he knows I've been true now

@@ -63,7 +63,7 @@ When I told him (he cried)
 When I kissed him goodbye (he cried)
 Like a baby (he cried)
 Oh my Lord, what have I done? (he cried)
-When I told him...
+When I told him
 
 
 

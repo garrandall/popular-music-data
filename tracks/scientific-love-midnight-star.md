@@ -98,8 +98,8 @@ It's scientific love
 I like to find I like to
 I like to be a scientific man
 Wanna hug you, squeeze you and make you feel right
-I'll be  just around midnight
-If  around the day
+I'll be just around midnight
+If around the day
 He will teach just how to love a scientific way
 If it's true e is mc square
 Just call me baby I'll soon be there

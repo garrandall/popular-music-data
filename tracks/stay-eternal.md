@@ -88,10 +88,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1994-05-28'
 ---
-"Stay"
-
-Stay (x3)
-
 Stay baby
 Stay, come on darling now
 Stay, you know I want you back
@@ -169,5 +165,3 @@ Come on baby
 Made you cry
 You don't have to say goodbye
 Stay
-
-(ad lib to fade)

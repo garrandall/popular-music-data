@@ -138,7 +138,7 @@ Puttin it in your face, and that's for real
 Shinin' harder than the grill it's the player Lil' Will
 Down with the 2 Low, Yungstar be a thug
 So nigga nigga what? I'm down with Mo'Thugs
-Mo'Thugs an' da Bone, you know it's goin down
+Mo'Thugs and da Bone, you know it's goin down
 Represent that H-Town, pop trunks surround by sound
 
 

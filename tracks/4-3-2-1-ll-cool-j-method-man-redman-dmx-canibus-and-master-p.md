@@ -60,19 +60,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1998-03-14'
 ---
-HUHHHHHH!
- Def Jam, No Limits
- No Limit
- Def Squad
- Wu-Tang, and beyond
-
-	Aiyyo, one two three four five six seven
-Blaze the hot
-	trizack that sound like heaven
-Seven six five four three two one
-My mon Meth-Tical come and get some
-
-
 Playin my position, hot Nixon
 This one, for all the sick ones, confliction
 Posionous darts sickening, best believe
@@ -111,7 +98,7 @@ Canibus is the type who'll fight for mics
 Beatin niggas to death and beatin dead niggas to life
 When you look at me long enough, I start to read your thoughts
 If the signal was strong enough, and then I'll call your bluff
-Like, "Yo, how many rhymes you got?"  I think I'll go on
+Like, "Yo, how many rhymes you got?" I think I'll go on
 For more Milleniums than Mazda's got on the car lot
 And there's nowhere to run ta, when I confront ya
 Nigga, I call your bluff like you had a phone number
@@ -119,7 +106,7 @@ Who wanna see Canibus get wild, who wanna act fly and
 Get shot down with a surface-to-air missile
 I take em on in all shapes sizes and forms and spit on
 Anybody who ain't close enough to shit on
-Zero to sixty?  I'm already doin a hundred
+Zero to sixty? I'm already doin a hundred
 When I'm blunted and I give it to any nigga that want it
 
 
@@ -138,7 +125,7 @@ This ain't a flick you ain't gon' come back on, you ain't that strong
 You knew it was wrong, but you asked for it baby
 You'se a pink nigga, ski mask for it baby
 So I can hit you up on front teeth, you think I'm sweet?
-Want heat?  One deep, leave him behind, front seat
+Want heat? One deep, leave him behind, front seat
 
 
 Cut my mic on, it's time to get rowdy
@@ -149,7 +136,7 @@ I got game from the South to the West to the East
 To the middle now remember me
 A young nigga with the gold teeth bumpin
 Keep the crowd jumpin, gotta say something
-UNNNNNNNNNNNNGGGGHHH, now have a Coke and a smile
+Now have a Coke and a smile
 The party don't stop but it get buckwild
 Pass the Hennessey and weed, just blaze one
 See a shorty, let's play one
@@ -157,14 +144,6 @@ For the cookies you can't be a rookie
 I'm a No Limit Soldier, that's why they book me
 Master P rock bells, hell
 But I gotta give it up to my homey LL
-
- four
- seven
-Blaze the hot trizack
-	Shine like heaven
-Seven  four
- one
-	Come on Mr. Smith, come get some!
 
 
 When young sons fantasize of borrowing flows

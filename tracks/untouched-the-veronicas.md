@@ -111,7 +111,7 @@ It's not enough to say that I miss you
 I feel so untouched right now
 Need you so much somehow
 I can't forget you
-Been going  crazy from the moment I met you
+Been going crazy from the moment I met you
 
 Untouched
 And I need you so much
@@ -137,7 +137,7 @@ It's not enough to say that I miss you
 I feel so untouched right now
 Need you so much somehow
 I can't forget you
-Been going  crazy from the moment I met you
+Been going crazy from the moment I met you
 
 Untouched, untouched, untouched, untouched, untouched
 Alalalala alalalala
@@ -151,7 +151,7 @@ It's not enough to say that I miss you
 I feel so untouched right now
 Need you so much somehow
 I can't forget you
-Been going  crazy from the moment I met you
+Been going crazy from the moment I met you
 
 I feel so untouched
 And I want you so much
@@ -160,7 +160,7 @@ It's not enough to say that I miss you
 I feel so untouched right now
 Need you so much somehow
 I can't forget you
-Been going  crazy from the moment I met you
+Been going crazy from the moment I met you
 
 Untouched, untouched, untouched
 

@@ -176,7 +176,7 @@ Uh uh uh, alright, uh huh
 Now if you wanna step
 U gotta play it by the rules
 You gotta do what I do
-When I do, what i  do
+When I do, what i do
 
 If you wanna step
 U gotta play it by the rules

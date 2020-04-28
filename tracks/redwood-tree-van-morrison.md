@@ -56,7 +56,7 @@ Maybe even thunder
 Won't you keep us from all harm
 Wonderful redwood tree
 
-Ta da da da...
+Ta da da da
 
 
 

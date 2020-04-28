@@ -26,7 +26,7 @@ rankings:
 ---
 
 The first thing that I heard you say when you were standing there
-Set in your way  was that you were not blind
+Set in your way was that you were not blind
 You were sure to make a fool of me cause there was nothing there
 That you could see that could go beyond your mind
 Now who's standing at the door remembering the days before
@@ -43,11 +43,11 @@ In front of what it is you seem me to be I've set you free this time
 
 I could never find a chance to choose between a way to win or a
 Thing to lose because there was your stand
-On  top of all the love you took
+On top of all the love you took
 There was only something you can look at lying in your hand
 Now who's wondering what has changed and why it can not be arranged
 To have each thing work fine
-It isn't how it was set up to be but I'll set  you free this time
+It isn't how it was set up to be but I'll set you free this time
 
 
 

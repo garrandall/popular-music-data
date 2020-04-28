@@ -91,7 +91,7 @@ Fuck them hoes, fuck them hoes
 We on a different planet girl, fuck them hoes
 Fuck them hoes, fuck them hoes
 
-Oh, la-la-la...
+Oh, la-la-la
 Got about a thousand upon my side
 We out here hustlin', risking our life
 Fill cocaina up in your tights

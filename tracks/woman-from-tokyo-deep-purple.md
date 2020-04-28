@@ -53,7 +53,7 @@ She makes me see
 My woman from Tokyo
 She's so good to me
 
-But I'm at home and I just don't belong ...
+But I'm at home and I just don't belong
 
 So far away from the garden we love
 She is what moves in the soul of a dove

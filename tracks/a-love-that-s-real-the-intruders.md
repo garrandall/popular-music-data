@@ -34,7 +34,7 @@ To show he loved her
 (Oh, he loved her)
 He really, really loved her
 
-Whoa,  in a storybook
+Whoa, in a storybook
 A play of fantasy
 They could never compare
 With the love between you and me
@@ -57,7 +57,7 @@ To show he loved her
 (Oh, he loved her)
 He really, really loved her
 
-Whoa,  in a storybook
+Whoa, in a storybook
 A play of fantasy
 They could never compare
 With the love between you and me

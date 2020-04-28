@@ -86,7 +86,7 @@ Ain't life unkind?
 Goodbye, Ruby Tuesday
 Who could hang a name on you?
 When you change with every new day
-Still I'm gonna miss you... [x2
+Still I'm gonna miss you
 
 
 

@@ -59,7 +59,7 @@ Hate: It’s the epitome of destruction
 
 
 Tal parece que mi amor crece y crece, pero tú desvaneces
-Y  me ofreces tu amistad sin otra excepción
+Y me ofreces tu amistad sin otra excepción
 Sé que hay otro hombre que ha logrado lo que yo jamás a ti te di
 Un hogar, una familia, un buen porvenir; perdón por hacerte daño
 

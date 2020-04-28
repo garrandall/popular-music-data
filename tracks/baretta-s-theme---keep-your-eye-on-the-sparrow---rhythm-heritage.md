@@ -60,18 +60,10 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1976-07-04'
 ---
-Baretta's Theme (Keep Your Eye on the Sparrow)
-Rhythm Heritage
-
-Introduced by Sammy Davis, Jr. in the 1975 television show "Baretta."
-Best-selling records by Sammy Davis, Jr. in 1976, Merry Clayton in 1975,
-And Rhythm Heritage in 1976.
-
 Don't go to bed with no price on your head,
 Don't do it.
 Don't do the crime if you can't do the time.
 
-(Chorus)
 Keep your eye on the sparrow,
 When the going gets narrow.
 
@@ -79,18 +71,10 @@ Don't roll the dice if you can't pay the price,
 Don't do it.
 Don't run your feet down a dead-end street.
 
-(Repeat Chorus)
-
 Don't do me dirt or you're gonna get hurt
 Don't do it.
 Don't run away till you hear what I say.
 
-(Repeat Chorus)
-
 Ain't gonna fight with no thief in the night
 Won't do it.
 I'm gonna go where the cold wind don't blow.
-
-(Repeat Chorus)
-
-From: "Montcomags"

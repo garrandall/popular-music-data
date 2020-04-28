@@ -121,7 +121,7 @@ I thought about goin' to the movies
 But ain't nothin' like a bunch of proper ass hoochies
 Dressed like a player can't wear nothin' less
 Some simple ass shit, even if it ain't Guess
-Take  a couple of shots and now I roll to the spot
+Take a couple of shots and now I roll to the spot
 Bitches straight peepin' wanna know what I got, well
 One, two, three, Here comes the D
 Pass me the buddah, OOOOH WEEE!

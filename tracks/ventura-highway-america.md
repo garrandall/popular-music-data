@@ -73,7 +73,7 @@ And the days surround your daylight there
 Seasons crying no despair
 Alligator lizards in the air, in the air
 
-Did di di di dit ...
+Did di di di dit
 
 Wishin' on a falling star
 Waitin' for the early train
@@ -92,7 +92,7 @@ And the days surround your daylight there
 Seasons crying no despair
 Alligator lizards in the air, in the air
 
-Did di di di dit ...
+Did di di di dit
 
 
 

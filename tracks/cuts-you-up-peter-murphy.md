@@ -82,7 +82,7 @@ It takes you in and spits you out
 Oh cuts you up
 Oh cuts you up
 Oh cuts you up
-Oh la la la la...
+Oh la la la la
 
 You know the way, it throws about
 It takes you in and spits you out

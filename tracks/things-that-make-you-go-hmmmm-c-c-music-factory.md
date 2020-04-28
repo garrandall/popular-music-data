@@ -142,7 +142,7 @@ Eleventh grade and yo, I knew it all
 I fell in love for the very first time
 With this girl she really blew my mind
 Innocence and whole lotta class
-Style  that could give you whiplash
+Style that could give you whiplash
 She said, "Hello" and my heartbeat stopped
 She was the world and I was on top
 Time went by, she filled my universe
@@ -195,4 +195,4 @@ Things that make you go, hm
 Hm
 It's the things that make you go, hm, hm, hm
 Things that make you go, hm
-It's the things that make you go, hm, hm, hm...
+It's the things that make you go, hm, hm, hm

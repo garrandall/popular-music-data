@@ -20,7 +20,7 @@ Yeah! All I wanna do is rock with you
 Love is me
 Love is you
 All I wanna do is rock with you
-Shout it out an' tell ya friends too
+Shout it out and tell ya friends too
 Love is me
 Love is you
 This is what we wanna do

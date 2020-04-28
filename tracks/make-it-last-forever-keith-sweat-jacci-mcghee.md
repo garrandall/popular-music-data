@@ -60,7 +60,7 @@ Don't let end our love end (Oh...oh..)
 (Oh...oh...oh.oh...)
 Let's make it last (Oh...oh...oh.oh...)
 Let's make it last forever and ever
-Don't our let our love end (Oh...don't let love end), mmm...
+Don't our let our love end (Oh...don't let love end), mmm
 
 Let me hear you tell me you love me
 Let me hear you say you'll never leave me
@@ -77,7 +77,7 @@ Can make me feel
 The way you make me, make me, make me feel
 
 Whoa...oh...oh...oh...oh...oh...
-Mmm...mmm...mmm...
+Mmm...mmm...mmm
 Don't let our love end (Don't)
 Just make it last forever (Oh, make it last) and ever (Forever)
 
@@ -103,7 +103,7 @@ Chillin' (Chillin'), come on (Come on)
 I love you (You know I do), baby
 
 Whoa...oh...oh...oh...oh...oh...
-Mmm...mmm...mmm...
+Mmm...mmm...mmm
 Make it last forever (No, no, no, no, no, no)
 Don't let our love end (And ever)
 

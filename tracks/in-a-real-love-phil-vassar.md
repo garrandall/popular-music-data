@@ -94,7 +94,7 @@ With a Letterman jacket and a Chevrolet.
 I thought I was cool, yeah, I ruled the school.
 You were Coolatta with the strawberry lips,
 You had the whole world danglin' at your fingertips.
-Your senior year, an' I was your daddy's worst fear.
+Your senior year, and I was your daddy's worst fear.
 We ran off on graduation night.
 Thought a couple of left-hand rings would make everything all right.
 
@@ -107,8 +107,8 @@ An' one day wakin' up, oh, in a real love.
 Yes, that's right.
 
 Well, I was 22, workin' double overtime.
-I was spendin' dollars an' makin' dimes.
-We were overdrawn an' barely hangin' on.
+I was spendin' dollars and makin' dimes.
+We were overdrawn and barely hangin' on.
 An' then one night you came to me,
 With tears in your eyes and the EPT and said:
 "Guess what? Yeah, baby ready or not."

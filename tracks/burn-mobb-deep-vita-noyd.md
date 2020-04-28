@@ -39,7 +39,7 @@ That mean the creep start workin'
 Niggas never learnin' that
 They eyes keep lurkin'
 Have ya janitor
-Pumpin' your  merkin
+Pumpin' your merkin
 Skid marks the street
 Your heart skips a beat
 Beef? Nigga overcook that meat

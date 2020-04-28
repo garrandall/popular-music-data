@@ -113,7 +113,7 @@ Yeah, a better man is who I am with you
 Who I am with you
 
 
-Because of you,  I'm a lucky man
+Because of you, I'm a lucky man
 And you're the best part of who I am
 
 

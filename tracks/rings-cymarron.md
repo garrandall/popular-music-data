@@ -66,7 +66,7 @@ Just come on home: baby we'll laugh and sing
 We'll make love, we'll let the telephone ring
 'Ring, ring, doorbell ring'
 Baby come on in, got james taylor on the stereo
-I'm glad you've come around, i've been feelin' down
+I'm glad you've come around, I've been feelin' down
 Just talkin' to tony and mario
 You know they make good conversation,
 Still it ain't no consolation

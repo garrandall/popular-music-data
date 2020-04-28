@@ -78,25 +78,25 @@ rankings:
 ---
 You gotta shake ya ass
 
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
 Shake your tambourine go an'
 
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
 Shake your tambourine go an'
 
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
 
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
 
 E.V.E. come through in a Maserat
 Throwin' it big like I live in the Taj Mahal
@@ -106,17 +106,17 @@ That's why they lovin' uh
 That's real when the chicks that they talked about
 "Goddamn" is the words that come out they mouth
 She look good, always, without a doubt
-Ask for her, yes she back an' cakin' out
+Ask for her, yes she back and cakin' out
 
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
 
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
 
 They be watchin' while we wiggle around, look at 'em droolin'
 Niggas ain't used to this sound, I keep 'em movin'
@@ -131,15 +131,15 @@ We got 'em shakin' everything from the hood to Dubai
 Yeah, we do it big man, why would we lie? Come on
 One, two, three, everybody!
 
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
 
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
 
 Get low, get low, then pick up, pick up
 Get your hands in the air, it's a stick-up, stick-up
@@ -156,22 +156,22 @@ Move 'em out the way if they ain't doin' it how you want yours
 You ain't got to ask, keep givin' more
 Don't need my permission, y'all heard, what you waitin' for?
 
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
 
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
 
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
-Shake your tambourine go an' get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
+Shake your tambourine go and get yourself a whistlin'
 Shake

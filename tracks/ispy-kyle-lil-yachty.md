@@ -181,7 +181,7 @@ Oh, I, I spy with my little eye
 I spy, I spy with my little eye
 Oh, I, I spy with my little eye
 I spy, I spy with my little eye
-Oh, I...
+Oh, I
 
 She said she twenty-one, I might have to I.D. that
 All my bitches come in pairs like balls in my nutsack
@@ -218,4 +218,4 @@ Oh, I, I spy with my little eye
 I spy, I spy with my little eye
 Oh, I, I spy with my little eye
 I spy, I spy with my little eye
-Oh, I...
+Oh, I

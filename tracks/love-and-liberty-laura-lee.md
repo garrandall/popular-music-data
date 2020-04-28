@@ -49,10 +49,10 @@ Just like the fellas
 
 We want love (love and liberty)
 But we got to have our freedom‚ y'all (that is what we need)
-Give me love  (love and liberty)
+Give me love (love and liberty)
 Got to have our freedom y'all (set yourself free)
-Give me love  (love and liberty)
-Freedom  (that is what we need)
+Give me love (love and liberty)
+Freedom (that is what we need)
 We got to have love (love and liberty)
 Girl set yourself free
 
@@ -87,4 +87,4 @@ That's how it's got to be
 Love and liberty
 Girl, set yourself free
 We want love
-But we ...
+But we

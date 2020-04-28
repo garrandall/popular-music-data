@@ -54,7 +54,7 @@ Oh it’s so hard (it’s so hard)
 Oh it’s so hard (Oh it’s so hard)
 But it doesn’t have to be
 
-Cause ...
+Cause
 
 
 (All I wanna do)

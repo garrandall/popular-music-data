@@ -31,7 +31,7 @@ Sloopy lives in a very bad part of town
 And everybody, yeah, tries to put my Sloopy down
 Sloopy I don't care what your daddy do...
 Cause you know Sloopy, girl, I'm in love with you
-And so I say now...
+And so I say now
 
 Hang on Sloopy, Sloopy hang on!
 Hang on Sloopy, Sloopy hang on!

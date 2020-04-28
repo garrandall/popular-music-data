@@ -73,15 +73,15 @@ It's to watch the whiney, whiney girls roll in my tum
 It makes a rum-pum-pum-pum-brooo, boys, feel glad, watch me now
 
 Them put them shoulders in, they put their bumper out
-They put the  and then, them whine all about
+They put the and then, them whine all about
 And then, they'll do the whiney, whiney and I'll jump and I'll shout
 And me say "that's what it's all about", come for 'em in a man
 
 
 
 It just all bounce and a dip and bounce and a dip and whine off your whip
-You're just  tight, baby, and get a good grip
-'Cause when the  are whining, you know I'm fully equip
+You're just tight, baby, and get a good grip
+'Cause when the are whining, you know I'm fully equip
 And if you're flip, you're my flop, and you're flop, you're my flip, so listen
 (what are ya sayin'?)
 
@@ -90,7 +90,7 @@ You got me whiney like I never before (come for 'em in one and two)
 And yeah, you really whiney now
 You whiney, tell ya about 'til me touch the floor
 
-Whiney, whiney, 
+Whiney, whiney,
 You're whiney, whiney
 You're whiney, whiney
 All the nice and thin and fat body girls, bueno!
@@ -126,6 +126,6 @@ It makes a rum-pum-pum-pum-brooo, boys, feel glad
 
 
 
-Whiney, whiney 
+Whiney, whiney
 You're whiney, whiney
 You're whiney, whiney

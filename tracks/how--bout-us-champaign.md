@@ -124,7 +124,9 @@ Some people can hold it together
 Last through all kinds of weather
 Can't we
 
-How about us, how about us baby (x3)
+How about us, how about us baby
+How about us, how about us baby
+How about us, how about us baby
 
 Are we going to make it girl
 Or are we gonna drift and drift and drift together
@@ -132,6 +134,6 @@ Or are we gonna drift and drift and drift together
 Ohhhh love
 
 Some people are made for each other
-Some people are made for another for life, how 'bout us
+Some people are made for another for life, how about us
 Some people can hold it together
 Last through all kinds of weather, tell me, can we

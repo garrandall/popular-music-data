@@ -118,17 +118,17 @@ Tell me what the word is already
 
 
 Don't look no farther!
-Baby im back (yeah)
+Baby I'm back (yeah)
 I'm here to cater to you (anything you want me to, I'll do it)
 Cause Ill be your lover (ill be your lover)
 Ill be your best friend
 Tell me what I gotta do (tell me what I gotta do and ill do it)
 
 
-Now im back in a flesh
+Now I'm back in a flesh
 Feelin so blessed, back in your corner suga, suga don't stress
-Forget about the rest; let's go inside, im back in your zone
-Baby im back in your vibe, now I can't be denied I can lie im on ya
+Forget about the rest; let's go inside, I'm back in your zone
+Baby I'm back in your vibe, now I can't be denied I can lie I'm on ya
 I never ever wanna say sayonara
 Some body told me that the grass was greener
 On the other side andale arriba
@@ -139,7 +139,7 @@ These words comin out the speaker, true love is off the meter
 
 
 
-I was gone for a minute but now im home,
+I was gone for a minute but now I'm home,
 Please forgive me for being a rolling stone,
 Please forgive me let me polish it up like chrome,
 Get off the phone till he swears to leave me alone,
@@ -149,5 +149,5 @@ You don't have to look no farther, you dealin with the whole enchilada
 You don't have to look no farther, you hotter then a fire starter
 
 I was gone for a minute, (oh)
-Now im back let me hit it (oh)
+Now I'm back let me hit it (oh)
 

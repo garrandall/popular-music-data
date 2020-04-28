@@ -272,7 +272,7 @@ Right now, he's probably buying her some fruity little drink
 Right now, he's probably up behind her with a pool stick
 Showing her how to shoot a combo...
 
-And he don't know...
+And he don't know
 
 That I dug my key into the side
 Of his pretty little souped-up four-wheel drive
@@ -288,7 +288,7 @@ And he's a-thinking that he's gonna get lucky
 Right now, he's probably dabbing on
 Three dollars worth of that bathroom Polo...
 
-Oh, and he don't know...
+Oh, and he don't know
 
 That I dug my key into the side
 Of his pretty little souped-up four-wheel drive

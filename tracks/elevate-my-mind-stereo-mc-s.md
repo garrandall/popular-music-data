@@ -60,8 +60,11 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1991-08-24'
 ---
-I wanna go higher (x3)
-I wanna go higher (higher baby) (x2)
+I wanna go higher
+I wanna go higher
+I wanna go higher
+I wanna go higher (higher baby)
+I wanna go higher (higher baby)
 
 If I ever get down in the dumps
 Short of a dollar nothin change for months
@@ -117,9 +120,9 @@ And thats the way we're getting by ya
 Always keeping you on the wire
 Takin you higher - call me a liar
 But you won't cause you're feeling inspired
-Work we're going to , jerk you're all thru
+Work we're going to, jerk you're all thru
 Theres no way you'll stop my breakthru
-Two ways to do it , get in or get out
+Two ways to do it, get in or get out
 Elevate yourself don't hang about
 So wherever lies you'r latitude
 Wherever you are we're gaining altitude
@@ -131,4 +134,6 @@ I wanna go higher (higher baby)
 (Let it reach ya) I wanna go higher (higher baby)
 (Elevate my mind) I wanna go higher (higher baby)
 
-I wanna go higher (x3)
+I wanna go higher
+I wanna go higher
+I wanna go higher

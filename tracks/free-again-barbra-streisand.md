@@ -41,7 +41,7 @@ Take a look and you can see
 How much I love my freedom, my precious, precious freedom
 Simple me, complicated, simple me
 Back to where I used to be before I ever knew him
-Before I ever knew him...
+Before I ever knew him
 Free again, lucky, lucky me
 Free again
 Back in circulation, now,

@@ -104,13 +104,13 @@ He said, "One-eighty-seven on the enemy"
 And they treat me like I just shot a Kennedy!
 Deputy bitch thinks she's the Queen Bee
 Ink on my thumb, index, and pinky
-"Sir, what set you from?"  Play dumb
+"Sir, what set you from?" Play dumb
 "General popu-la-tion"
 Mama put your house up, and I can bounce up
 out this motherfucker, that's why I love ya
 Out like a boss, with a half-pint of sauce
 Got the shit sewed up like Betsy Ross
-What a friend know?  Buy some indo
+What a friend know? Buy some indo
 Never fuck with a silly ho - really doe
 
 "You got to believe, somethin.."

@@ -53,7 +53,7 @@ rankings:
   start_date: '1964-11-21'
 ---
 I was born - in a bunk
-Mama died an' my daddy got drunk
+Mama died and my daddy got drunk
 Left me here to - die or grow
 In the middle of "Tobacco Road"
 

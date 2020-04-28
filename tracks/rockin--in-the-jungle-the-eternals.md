@@ -24,7 +24,7 @@ Dancing everywhere
 All over the world
 Even in in the jungle
 Rocking is the word
-Ne ne na...
+Ne ne na
 Everyone is dancing
 Yes and gay
 Cheetah, Boy and Tarzan
@@ -33,7 +33,7 @@ Swinging through the trees
 With a jungle harmony
 Rocking till the morning
 With this crazy beat.
-Ne ne na...
+Ne ne na
 Here comes Boy
 Singing a song
 And Cheetah listening
@@ -52,4 +52,4 @@ They all get together
 Happy in time
 They all dance together
 Rocking through the night
-Ne ne na...
+Ne ne na

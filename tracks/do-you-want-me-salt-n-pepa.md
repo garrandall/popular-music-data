@@ -125,7 +125,7 @@ Be my friend not just my lover
 Share your thoughts with me
 Love my mind not just my body, baby
 
-Do you really want me, baby?  Let me know
+Do you really want me, baby? Let me know
 Cuz if you really like me I suggest you tell me so
 Got no time for silly games, that ain't even why I came
 Cuz I may be the kind of guy you like
@@ -143,7 +143,7 @@ When I wouldn't give it up
 Yeah, I know that really sucks
 But if you wait awhile, I'll make it up
 
-Who me?  A tease?  Brother, please
+Who me? A tease? Brother, please
 You're just having bad memories
 About some skeeze who did the squeeze
 And had you on your hands and knees

@@ -141,11 +141,11 @@ Und auch keine DÃ¼senflieger
 Heute zieh ich meine Runden
 Ich seh die Welt in TrÃ¼mmern liegen
 Und ich hab 'nen Luftballon gefunden
-Denk an euch und lass ihn fliegen 
+Denk an euch und lass ihn fliegen
 
 Yeah yeah... oh yeah...
 
-Na nanananana...
+Na nanananana
 
 
 

@@ -36,7 +36,7 @@ I want you to remember me (I, I, I)
 I want you to remember me (I, I)
 I want you to remember me (I, I)
 Snapshot
-I, I, I...
+I, I, I
 
 I want you to, I want you to
 I, I, I want you to, I want you to
@@ -58,7 +58,7 @@ Turn it on, then you'll see everybody look at me
 I want you to remember me being who I wanna be
 Turn it on, then you'll see
 Snapshot, red hot
-I, I, I...
+I, I, I
 
 Snapshot, red hot (oh)
 

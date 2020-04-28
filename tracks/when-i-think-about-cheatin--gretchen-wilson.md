@@ -68,7 +68,7 @@ When I think about cheatin'
 I just think about you leavin'
 And how my world would fall to pieces
 If I tossed your love away
-Even when i'm tempted by some stranger
+Even when I'm tempted by some stranger
 Oh there's never any danger
 I just think about you leavin'
 When I think about cheatin'

@@ -34,7 +34,7 @@ I'm scared of my wife, my dog, and my cat
 I told you I was scared of my wife, my dog, and my cat
 I'm too good to them three for them to treat me like that
 "What are you gonna do about it then?"
-I'm gonna put on my 
+I'm gonna put on my
 My fifty dollar shoes
 My crazy hat
 I know they like it like that
@@ -91,7 +91,7 @@ That was just too much
 He tore off my crazy suit
 And I run from under my hat
 And when I slid out in my apartment door
-I got  by the cat
+I got by the cat
 
 "You better watch out
 For your wife, your dog, and your cat."

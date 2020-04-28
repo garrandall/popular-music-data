@@ -107,7 +107,7 @@ I'm talking to you right now
 I'm talking to you
 Oh yeah, I was wrong, baby
 Now listen to me right now
-Singing it to you right now...
+Singing it to you right now
 
 
 

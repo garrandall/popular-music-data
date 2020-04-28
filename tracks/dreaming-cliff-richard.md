@@ -96,9 +96,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1981-02-07'
 ---
-Dreaming
-Cliff Richard
-(Tarney/Sayer)
 4:00 I've been walkin' all night
 It's the time I always think of you
 If you could only see through my eyes
@@ -108,7 +105,6 @@ In runnin' around with stars in my eyes
 Here am I, I'm lookin' for you
 Wonderin' why do I feel so blue
 
-Chorus:
 (I'm) I'm dreamin'
 Dreamin' of me and you, oh
 (I'm) I'm dreamin'
@@ -128,7 +124,6 @@ Walkin' on air, flyin' so high
 Here am I, I'm facin' the truth
 There's no other way I'll ever make you mine
 
-(Chorus)
 Woman, you got to believe me woman
 Oh woman, you got to believe me woman
 I'll be (dreamin' you into my life)

@@ -89,8 +89,8 @@ Baby, I love you (nobody knows the love I see)
 
 Here's your love come and get it
 I'm not ashamed to admit it
-I love you  (nobody knows the love I see)
+I love you (nobody knows the love I see)
 
 Come on and get it, get it, get it
 Cause I want to see you with it
-I love you  (nobody knows the love I see)
+I love you (nobody knows the love I see)

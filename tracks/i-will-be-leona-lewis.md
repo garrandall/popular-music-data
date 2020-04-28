@@ -37,7 +37,7 @@ Nothing I could ever do to make you see
 What you mean to me
 All the pain, the tears I cried
 Still you never said goodbye
-And now I know how far you’d go
+And now I know how far you 'd go
 
 
 I know I let you down
@@ -84,7 +84,7 @@ Here with me, do you see?
 You're all I need
 
 
-And I...
+And I
 I will be, all that you want
 And gather myself together
 'Cause you keep me from falling apart

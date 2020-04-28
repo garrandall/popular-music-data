@@ -122,7 +122,7 @@ and just like Humpty Dumpty
 you're gonna fall when the stereos pump me.
 I like to rhyme,
 I like my beats funky,
-I'm spunky.  I like my oatmeal lumpy.
+I'm spunky. I like my oatmeal lumpy.
 I'm sick wit dis, straight gangsta mack
 but sometimes I get ridiculous
 I'll eat up all your crackers and your licorice

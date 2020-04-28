@@ -77,8 +77,8 @@ And the rain beats on my roof
 If I still require proof...
 Well, the rain beats on my roof (She's gone)
 If I still require proof... (She's gone)
-Well, the rain beats on my roof  (Look through my window)
-If I still require proof ...
+Well, the rain beats on my roof (Look through my window)
+If I still require proof
 
 
 

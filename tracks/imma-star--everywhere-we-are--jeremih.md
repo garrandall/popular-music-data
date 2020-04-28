@@ -154,7 +154,7 @@ Everywhere we are oh oh oh
 Ok now I be ballin I I I be ballin
 You can catch me in the ait.
 I be ballin
-When im tryna buy some gear, I be mallin
+When I'm tryna buy some gear, I be mallin
 In the middle of the club or where ever you call it.
 Either the cameras flickin or the police clockin.
 Especially at the end of the month when its just not an option

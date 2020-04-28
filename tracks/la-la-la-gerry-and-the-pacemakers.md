@@ -27,7 +27,7 @@ And when I do, I'll sing this song
 And I know I'll love her like I should
 I'll sing:
 
-La la la...
+La la la
 
 Whenever I am lonely, girl
 And I got no place to go
@@ -35,7 +35,7 @@ I don't sit around and mope all day
 I get up and here's what I say
 I say:
 
-La la la...
+La la la
 
 You get no fun out of hangin' around
 Or moanin' every day and night
@@ -43,14 +43,14 @@ It's so much better if you take it off
 You cannot sit and fuss and fight
 Well let me hear you now:
 
-La la la...
+La la la
 
 If you got your troubles just like all the other guys
 Don't be a jerk like them, my friend
 Just shout this and your mouse and hide
 Let's shout:
 
-La la la...
+La la la
 
 
 

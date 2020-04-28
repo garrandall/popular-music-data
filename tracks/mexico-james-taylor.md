@@ -58,7 +58,7 @@ Woh, down in Mexico, I never really been so I don't really know
 Woh, Mexico, I guess I'll have to go
 Woh, Mexico, I never really been but I'd sure like to go
 And oh, Mexico, I guess I'll have to go now
-Talking bout Mexico.  Big ol' honkey-tonk down in Mexico
+Talking bout Mexico. Big ol' honkey-tonk down in Mexico
 
 
 

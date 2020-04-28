@@ -36,7 +36,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2004-05-15'
 ---
-She's her momma's baby she's her daddy's pride an' joy
+She's her momma's baby she's her daddy's pride and joy
 They've kept her under wraps she ain't been hangin' out
 With any ugly I can boy, hardly ever been kissed
 

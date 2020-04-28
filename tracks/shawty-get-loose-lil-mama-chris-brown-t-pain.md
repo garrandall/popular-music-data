@@ -82,7 +82,7 @@ Like don't you wish you girl was as bad as me,
 With a flow so sick like twisters,
 So sweet with the beat cold like a mistake,
 Instincts come so smooth like what is it,
-Bk h-dub...
+Bk h-dub
 
 
 Shawty get loose, baby do what you do, let me see you let down your hair,
@@ -91,8 +91,8 @@ Shawty get loose, crump, clown, break it on down, baby do your thing,
 Shawty get loose, p-h-a-t phat, baby I ain't even know you could break it down like that!
 
 
-That  Shawty Get Loose
-That  Shawty Get Loose
+That Shawty Get Loose
+That Shawty Get Loose
 
 
 What it do, tell it to the pizzain,
@@ -112,8 +112,8 @@ New new,
 Impress me,
 I want person on the floor to come test me,
 
-That (in the crib, in the club, to the block, it don't matter, it, it don't, it, it don't matter)  shawty get loose
-That (in the crib, in the club, to the block, it don't matter, it, it don't, it, it don't matter)  shawty get loose
+That (in the crib, in the club, to the block, it don't matter, it, it don't, it, it don't matter) shawty get loose
+That (in the crib, in the club, to the block, it don't matter, it, it don't, it, it don't matter) shawty get loose
 
 
 In the crib, in the club, to the block, it don't matter, is pit 7, 4 5 6, a doo doo dadda,
@@ -133,8 +133,8 @@ You ain't no little mama go
 She be burning and pumping and hit you with the bus flow
 She's hot then get loose on the floor when I cannot stop!
 
-That  Shawty Got Loose
-That  Shawty Get Loose
+That Shawty Got Loose
+That Shawty Get Loose
 
 Beat...
 

@@ -95,7 +95,7 @@ I be hustlin' so hard I lose track of the days
 That lil pussy was so sorry, I call it minimum wage
 'Fore you leave this earth baby you better getchu a hitta
 Talkin' one that got a bag and drop that rod like a killa
-Yea, I just wanna know...
+Yea, I just wanna know
 
 
 Have you ever made love to a real hitta

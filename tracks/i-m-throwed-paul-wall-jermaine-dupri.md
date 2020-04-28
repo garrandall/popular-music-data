@@ -112,7 +112,7 @@ I'm throwed
 
 I'm throwed in the game
 
-Im full of that purple sprite, and im searchin for broads
+Im full of that purple sprite, and I'm searchin for broads
 Paper stackin so my money stretch like extension cords
 I'm a wide body rocker in a four on them choppers
 I'm on the grind stackin up my mail like the post office

@@ -50,7 +50,7 @@ Just take a look, you'll see
 (Just take a look and you'll see)
 I'm only part of the man
 Only half of the man, I used to be
-I know...
+I know
 
 It only takes a little girl
 To make a big man cry

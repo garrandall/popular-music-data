@@ -48,9 +48,9 @@ It's Better By Far Than Getting Stuck In A Figure Of Eight.
 It Don't Go Nowhere At All,
 It's Nothing More Than A Tape Loop In A Big Dance Hall.
 
-You've Got Me Running ...
+You've Got Me Running
 
-You've Got Me Running ...
+You've Got Me Running
 
 
 

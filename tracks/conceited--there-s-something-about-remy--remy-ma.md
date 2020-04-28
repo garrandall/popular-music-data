@@ -71,7 +71,7 @@ Ya names Q I only see you wen I see you
 Listen two you never play me
 Why is that?? why is that??
 Cause I'm such a fucking lady
-And three is all about me  I don't want to talk about it
+And three is all about me I don't want to talk about it
 If you'd like to hear it here it go
 Here you go I wrote a song about it
 

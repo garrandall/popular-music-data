@@ -52,7 +52,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1962-01-20'
 ---
-Ba ba ba ba...
+Ba ba ba ba
 
 Your ma said you cried
 In your sleep last night

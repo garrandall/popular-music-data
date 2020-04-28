@@ -29,21 +29,21 @@ rankings:
   start_date: '1966-09-03'
 ---
 
-It's too soon to know if I can forget her 
-My heart's been broken in too many pieces 
-And It's too soon to know 
+It's too soon to know if I can forget her
+My heart's been broken in too many pieces
+And It's too soon to know
 
-Time passes slow will I ever know 
-If I can forget her  and not let it show 
-But it's too soon to know 
+Time passes slow will I ever know
+If I can forget her and not let it show
+But it's too soon to know
 
-News travels fast when a love affair ends 
-People keep asking what happened to them 
+News travels fast when a love affair ends
+People keep asking what happened to them
 
-But it's too soon to know it I can forget her 
-My heart's been broken in too many pieces 
-And It's too soon to know 
-My heart's been broken in too many pieces 
+But it's too soon to know it I can forget her
+My heart's been broken in too many pieces
+And It's too soon to know
+My heart's been broken in too many pieces
 And It's too soon to know
 
 

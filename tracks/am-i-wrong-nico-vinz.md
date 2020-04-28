@@ -204,7 +204,7 @@ For thinkin' that we could be something for real?
 Now am I wrong (Am I wrong?)
 For trying to reach the things that I can't see?
 (Oh, yeah, yeah, yeah, yeah)
-But that's just how I feel  (Oh oh
-That's just how I feel  (Oh oh
+But that's just how I feel (Oh oh
+That's just how I feel (Oh oh
 That's just how I feel
 Trying to reach the things that I can't see (Oh oh see, see)

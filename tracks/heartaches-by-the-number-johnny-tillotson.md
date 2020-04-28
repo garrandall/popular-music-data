@@ -43,18 +43,18 @@ rankings:
 I've got heartaches by the number when you left me
 I never knew that I could hurt this way
 O, how my heart was filled, when you come home again
-But you came back an' never meant to stay
+But you came back and never meant to stay
 
 Now, I've got heartaches by the number
 Troubled by the shore
-Ever day I love you more an' more
+Ever day I love you more and more
 I've got heartaches by the number
 It's a love that I can't win
 But th day you stop lovin' me
 Is th day my world will end
 
 Got heartaches by the number
-When you called me an' said
+When you called me and said
 You were coming back to stay
 With hopeful heart I waited for you
 But you must have lost your way

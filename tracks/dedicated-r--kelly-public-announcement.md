@@ -96,7 +96,7 @@ You have given me the best of you
 And you have made my dreams come true, yeah
 And after all the things that you have done
 Girl, it makes me say that you are more than a woman
-So I'm...
+So I'm
 
 
 Dedicating this one to my favorite girl (she's the only one)
@@ -109,7 +109,7 @@ Never thought that love could be so kind
 'Til you came and brought me peace of mind
 I'll treasure every moment spent with you
 ‘Cause no one does the things for me you do
-So I'm...
+So I'm
 
 
 Dedicating this one to my favorite girl (she's the only one)
@@ -120,7 +120,7 @@ She's the only woman in the world, world, woo
 
 Oh, oh, oh, oh
 Oh, oh, oh, oh
-So I'm...
+So I'm
 
 
 Dedicating this one to my favorite girl (my favorite girl)

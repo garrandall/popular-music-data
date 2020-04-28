@@ -120,7 +120,7 @@ But my feet won't move
 And today is our anniversary
 And you haven't even said two words to me
 I'm trying hard to give you another chance
-But ohbaby I'm feeling
+But oh baby I'm feeling
 
 I'm feeling really unappreciated.
 Your takin` my love for granted, babe.

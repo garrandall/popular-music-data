@@ -35,7 +35,7 @@ You my kind a woman, you know what it's all about
 
 When ya say, the sweet things, they ring all in my head
 Yeah, when ya say, the sweet thing, they ring all in my head
-You've got me on the run, an' honey I can't leave you
+You've got me on the run, and honey I can't leave you
 
 Hush hush, shut your mouth, baby you knockin' me out
 Oh, hush hush, shut your mouth, baby you knockin' me out

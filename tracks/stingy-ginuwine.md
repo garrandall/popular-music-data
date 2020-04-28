@@ -93,7 +93,7 @@ rankings:
 You know what, baby
 I need to tell you something
 And...it's something very important
-You know...
+You know
 I want you to take this time out and just listen
 And hold me close
 You hear me?

@@ -173,7 +173,7 @@ Label me as a woman, and sometimes I feel inferior
 Falling back on the hands of time makes no man superior
 Should we dare to take the stand
 And diss back all the men
-Who know no more but  and thinks wit his ding-a-ling?
+Who know no more but and thinks wit his ding-a-ling?
 I think it's time that we defeat by standing on our on two feet
 If we wanna live with justice and harmony
 How many more rounds must I go in order to let my people know

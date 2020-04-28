@@ -42,7 +42,7 @@ Together me and you
 Think of the fun we had
 And how our love's suppose to last
 Mistakes were not all you
-I know I made some too, sugar, ohbaby, baby
+I know I made some too, sugar, oh baby, baby
 Open up your eyes and see
 That you're the one for me
 Let's fix it there's still time

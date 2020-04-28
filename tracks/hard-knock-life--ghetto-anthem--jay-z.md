@@ -116,7 +116,7 @@ For droppin some of the hottest verses rap has ever heard
 From the dope spot, with the smoke Glock
 fleein the murder scene, you know me well
 from nightmares of a lonely cell, my only hell
-But since when y'all niggas know me to fail?  Fuck naw
+But since when y'all niggas know me to fail? Fuck naw
 Where all my niggas with the rubber grips, bust shots
 And if you with me mom I rub on your tits, and what-not
 I'm from the school of the hard knocks, we must not

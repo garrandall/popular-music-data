@@ -247,4 +247,4 @@ Mama-say, mama-sa, ma-ma-ko-ssa
 Mama-say, mama-sa, ma-ma-ko-ssa
 (Yeah, sing it to the world, sing it out loud)
 Mama-say, mama-sa, ma-ma-ko-ssa
-Mama-say, mama-sa, ma-ma-ko-ssa...
+Mama-say, mama-sa, ma-ma-ko-ssa

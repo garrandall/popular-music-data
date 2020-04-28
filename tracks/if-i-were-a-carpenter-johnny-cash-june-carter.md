@@ -61,7 +61,7 @@ I'd be carrying the pots you made
 Following behind you
 
 
-Save your  love through loneliness
+Save your love through loneliness
 Save your love through sorrow
 I gave you my onliness
 Give me your tomorrow
@@ -79,7 +79,7 @@ I'd miss my color blouse
 And my soft shoe shining
 
 
-Save your  love through loneliness
+Save your love through loneliness
 Save your love through sorrow
 I gave you my onliness
 Give me your tomorrow
@@ -101,7 +101,7 @@ I'd marry you anyway
 I'd have your baby
 
 
-Save your  love through loneliness
+Save your love through loneliness
 Save your love through sorrow
 I gave you my onliness
 Give me your tomorrow

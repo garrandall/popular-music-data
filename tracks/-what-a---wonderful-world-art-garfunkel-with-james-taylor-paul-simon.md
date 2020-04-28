@@ -5,7 +5,7 @@ features:
 - James Taylor
 genres: []
 key: -what-a---wonderful-world-art-garfunkel-with-james-taylor-paul-simon
-name: (What A)  Wonderful World
+name: (What A) Wonderful World
 rankings:
 - end_date: '1978-01-27'
   rank: 81

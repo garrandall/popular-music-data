@@ -66,13 +66,13 @@ Don't know what I want, oh oh
 Don't know what I want, oh oh
 Know what I want.
 
-It's a shame, it's a shame must  get out of this shell
+It's a shame, it's a shame must get out of this shell
 Feel life so sweet happiness complete
 Is it possible I can come to terms
 So I come to learn just what I believe
 Drop the act it's a fact there's a master plan
 There's always a plan 'cause you will and you can
-What you know  you don't know so admit and commit
+What you know you don't know so admit and commit
 Be a part of my world, be a part of my world yeah.
 
 Be a part of my world
@@ -95,7 +95,7 @@ Let me tell you what I feel
 Ah ah ah ah ah ah ah.
 
 It's the real thing
-Only just  what love can bring.
+Only just what love can bring.
 
 
 Be whipped from the outside

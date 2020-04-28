@@ -147,7 +147,7 @@ and if we say bye bye bye bye
 Don't wanna be lonely I Don't wanna be lonely (holla if you hear me)
 ya heard me I ain't tryin' to be lonely (Don't wanna be lonely)
 cuz you know what everybody needs somebody (with or without you)
-and i'm a thug for you girl the thug in me
+and I'm a thug for you girl the thug in me
 go put your soldier outfit on let's go to war tonight ya heard me
 Don't wanna be lonely I Don't wanna be lonely Sons of Funk ya hear me
 

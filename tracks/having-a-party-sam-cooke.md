@@ -84,7 +84,7 @@ dancing with my baby
 
 Everybody's swinging
 Sally's doing that twist now
-if you take request, I...
+if you take request, I
 I got a few for you
 play that song called Soul Twist
 play that one called I Know

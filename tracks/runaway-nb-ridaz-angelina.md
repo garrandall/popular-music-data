@@ -50,7 +50,6 @@ You stuck with me through my thick and my thin to go back and live life over
 Again
 Nah this is my destiny it was worth the agony to get the ecstasy
 
-(Chorus)
 We can runaway and spend some time
 I'll always be the one right by your side
 Tell the whole world you belong to me
@@ -75,7 +74,6 @@ And being right here with you is what I love the most
 So any time your feeling lonely inside
 We could runaway together and leave this world behind
 
-(Chorus)
 We can runaway and spend some time
 I'll always be the one right by your side
 Tell the whole world you belong to me
@@ -100,7 +98,6 @@ You always kept it real no games no lies
 If your ever feelin lonely feel the need to get away
 Call me up I'll be there together we'll run away girl
 
-(Chorus)
 We can runaway and spend some time
 I'll always be the one right by your side
 Tell the whole world you belong to me

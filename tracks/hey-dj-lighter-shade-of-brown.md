@@ -123,7 +123,7 @@ Who the flavor, I'm the flavor
 And I came here just to save you
 With a bit of the same old that you heard
 Huh, now can I get a word
-As I'm goin', goin',  gone
+As I'm goin', goin', gone
 Hey D.J., come on and play me that funky song
 
 Now I remember around the way back

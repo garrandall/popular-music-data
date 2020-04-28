@@ -60,7 +60,7 @@ This is a lesson, definition of the Boom-Shak-A-Tack
 Now batty rider, tear off, nuh gyal pickney get hot
 Now bwoy a beat down di wall, selector wheel up that!
 It's Shine a gi' you di verbs, the action words
-Drop down inna di roughneck sound, fi make the sound boys  observe
+Drop down inna di roughneck sound, fi make the sound boys observe
 I man would never run away inna di heart of battle
 I 'round up di girls dem, like cowboy round up cattle
 From line one, verse two, mi just a show off me skill
@@ -89,7 +89,7 @@ And me will surely gi' you di remedy one by one
 Born Jamericans is di crew from the streets of Washington
 Where nuff people smoke crack and the fire di M1
 Mi legalize, mi nah despise, di air is rugged and rough
-Some DJs open up their mouth,  its like a damn trash truck
+Some DJs open up their mouth, its like a damn trash truck
 
 
 But, reggae music run di world, fi respect that

@@ -66,7 +66,7 @@ Let 'em sleep in the middle,
 Oh, but let them be little.
 
 I never felt so much in one little tender touch.
-I live for those kisses, your prayers an' your wishes.
+I live for those kisses, your prayers and your wishes.
 An' now you're teachin' me how only a child can see.
 Tonight, while we're on our knees, all I ask is:
 
@@ -79,7 +79,7 @@ Let 'em sleep in the middle,
 Oh, but let them be little.
 
 The so innocent, precious soul:
-You turn around, an' it's time to let them go.
+You turn around, and it's time to let them go.
 
 So let them be little,
 'Cause they're only that way for a while.

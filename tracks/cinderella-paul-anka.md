@@ -28,7 +28,7 @@ Cinderella cinderella, pretty pretty pretty cinderella
 It's late now
 While your lips were kissin' mine
 I forgot to watch the time
-And i'm sorry
+And I'm sorry
 Cinderella cinderella, pretty pretty pretty cinderella
 I promise
 Promised we'd be home on time

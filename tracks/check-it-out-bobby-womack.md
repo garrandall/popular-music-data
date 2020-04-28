@@ -70,7 +70,7 @@ Hm - Owwwwhhh!
 Get on up, Get on down --
 Ohhh, I'll be around when your sun goes down
 Hey baby -- Gotta, Gotta, Gotta
-Whoo hoo oh oh hey come here oh  yeahh yeah
+Whoo hoo oh oh hey come here oh yeahh yeah
 Oh Baby
 Yeah Yeah Yeah Yeah Yeah Yeah Yeah
 Oh Baby, -- Oooohhhhoooowwww!

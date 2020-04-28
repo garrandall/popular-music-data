@@ -110,7 +110,7 @@ Low life, high life, oh, let's go
 Take me down to Junior's Farm
 Everybody tag along
 
-Ha!  Huh, ha!
+Ha! Huh, ha!
 
 
 I took my bag to the grocer's store
@@ -125,13 +125,13 @@ Let's go, let's go, let's go, let's go
 Down to Junior's Farm where I want to lay low
 (Down to Junior's Farm.)
 Low life, high life, oh, let's go
-Take me down to Junior's Farm.  (Down to Junior's Farm.)
+Take me down to Junior's Farm. (Down to Junior's Farm.)
 Let's go, let's go
 Down to Junior's Farm where I want to lay low
 (Down to Junior's Farm.)
 Low life, high life, oh, let's go
-Take me down to Junior's Farm.  (Down to Junior's Farm.)
-Everybody tag along.  (Everybody tag along.)
+Take me down to Junior's Farm. (Down to Junior's Farm.)
+Everybody tag along. (Everybody tag along.)
 Take me down to Junior's Farm right now
 Ow!
 

@@ -73,9 +73,9 @@ Everybody sing it with me
 (I like the sound of funky music) I like it
 'Cause funky music sho nuff turn me on
 
-Boom boom boom...
+Boom boom boom
 Like a river turns me
-Boom boom boom...
+Boom boom boom
 
 
 

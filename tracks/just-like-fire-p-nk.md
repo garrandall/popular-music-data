@@ -130,7 +130,7 @@ Just like fire, burnin' up the way
 If I could light the world up for just one day
 Watch this madness, colorful charade
 No one can be just like me any way
-Just like magic,  I'll be flyin' free
+Just like magic, I'll be flyin' free
 I'mma disappear when they come for me
 I kick that ceiling, what you gonna say?
 No one can be just like me anyway
@@ -152,7 +152,7 @@ Just like fire, burnin' up the way
 If I could light the world up for just one day
 Watch this madness, colorful charade
 No one can be just like me any way
-Just like magic,  I'll be flyin' free
+Just like magic, I'll be flyin' free
 I'mma disappear when they come for me
 I kick that ceiling, what you gonna say?
 No one can be just like me anyway
@@ -188,7 +188,7 @@ Just like fire, burnin' up the way
 If I could light the world up for just one day
 Watch this madness, colorful charade
 No one can be just like me any way
-Just like magic,  I'll be flyin' free
+Just like magic, I'll be flyin' free
 I'mma disappear when they come for me
 I kick that ceiling, what you gonna say?
 No one can be just like me anyway

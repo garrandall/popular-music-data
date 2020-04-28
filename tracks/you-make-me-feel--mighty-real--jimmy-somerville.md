@@ -24,7 +24,7 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-04-28'
 ---
-When we're up an' dancing on the floor, darling
+When we're up and dancing on the floor, darling
 And I feel like I need some more
 And I feel your body close to mine
 And I know my love it's about that time

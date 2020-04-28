@@ -55,7 +55,7 @@ Dictate or relay, I could send it to your home,
 Communication let me down,
 But I'm left here
 Communication let me down,
-But I'm left here, I'm left here, I, I, I...
+But I'm left here, I'm left here, I, I, I
 
 (Dictate!)
 (Relay!)
@@ -70,7 +70,7 @@ Well, I know-oh-oh-oh-oh-oh-oh!
 Communication let me down,
 And I'm left here
 Communication let me down
-And I'm left here, I'm left here, I, I, I...
+And I'm left here, I'm left here, I, I, I
 
 (I'm a-left a-here-oh!)
 (I'm a-left a-here-oh!)

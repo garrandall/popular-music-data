@@ -135,7 +135,7 @@ Rays of a beautiful sun
 Some day when the world
 Is much brighter
 
-La la la la la...
+La la la la la
 
 Some day (some day)
 We'll put it together
